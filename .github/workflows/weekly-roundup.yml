@@ -1,0 +1,78 @@
+name: Weekly Pharmacy Benefits Roundup
+
+on:
+  schedule:
+    # Tuesdays at 12:30 UTC (7:30 AM EST / 8:30 AM EDT)
+    - cron: '30 12 * * 2'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  generate-roundup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Compute run date (America/New_York)
+        id: vars
+        run: |
+          echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+          echo "date_file=$(TZ=America/New_York date +%Y_%m_%d)" >> "$GITHUB_OUTPUT"
+          echo "stamp=$(TZ=America/New_York date +'%Y-%m-%d %H:%M %Z')" >> "$GITHUB_OUTPUT"
+
+      - name: Generate roundup draft with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          prompt: |
+            You are drafting the Wednesday Roundup for Benefit Blind Spots.
+
+            1. Read CLAUDE.md for voice and brand rules.
+            2. Read newsletters/templates/wednesday_roundup_template.md for the exact article format.
+            3. Read newsletters/roundups/rss_weekly_feed.md if present for accumulated RSS stories.
+
+            Search the web for pharmacy benefits industry news from the past 7 days across:
+              - PBM lawsuits, regulation, mergers, settlements
+              - FDA drug approvals relevant to pharmacy benefits
+              - Biosimilar launches, approvals, interchangeability decisions
+              - GLP-1 coverage and pricing developments
+              - Drug pricing legislation (Congress, CMS, HHS)
+              - Self-funded employer pharmacy and PBM news
+              - 340B program rulings and contract pharmacy developments
+              - ERISA and fiduciary actions affecting pharmacy plans
+
+            Select the 4-5 most significant stories for self-funded employers.
+            Rank by employer cost impact first, regulatory change second, market shift third, clinical development fourth.
+            Skip press releases without substance, opinion pieces without data, stories older than 7 days, and duplicate coverage.
+
+            Write the article following the template exactly. Include the preview image prompt at the end.
+
+            HUMANIZE PASS (built into the writing, not a separate step):
+              REMOVE: "It's important to note", "Let's dive in", "navigating", "leverage" as verb, "holistic", "robust", "comprehensive", "key takeaways", "actionable insights", excessive mid-paragraph bolding, parallel list structures that read like AI output.
+              ADD: "I" naturally ("I flagged this because..."), "we" for PBS ("We see this pattern in contracts..."), professional context, varied sentence length, conversational transitions between stories.
+              ENFORCE: no em dashes or hyphens as sentence separators; no fabricated statistics (use "significant", "substantial", "meaningful"); brokers as partners; PBM as adversary where appropriate; every story framed through employer cost/risk lens; company is Prescription Benefit Solutions (PBS), never RXBS; CEO is Ginny Crisp, PharmD (not "Dr. Ginny Crisp").
+              Save ONLY the humanized version.
+
+            Prepend this header to the file:
+              Status: DRAFT - Review before publishing to Substack
+              Generated: ${{ steps.vars.outputs.stamp }}
+
+            Save the article to newsletters/roundups/roundup_${{ steps.vars.outputs.date_file }}.md.
+
+            Do not commit. A later workflow step will handle the commit.
+
+      - name: Commit and push draft
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add newsletters/roundups/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Weekly roundup draft: ${{ steps.vars.outputs.date_iso }} (review pending)"
+          git push origin HEAD:main
