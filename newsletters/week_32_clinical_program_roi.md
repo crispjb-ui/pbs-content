@@ -1,0 +1,329 @@
+# Week 32 Newsletter Bundle: Clinical Program ROI
+## August 10-14, 2026
+
+---
+
+## Publishing Timeline
+
+| Day | Time | Platform | Content | Status |
+|-----|------|----------|---------|--------|
+| Mon Aug 10 | 7:30 AM | Substack | "Clinical Program ROI: Measuring What Your PBM Claims to Deliver" | [ ] |
+| Mon Aug 10 | 7:45 AM | LinkedIn Newsletter | Clinical Program Briefing | [ ] |
+| Tue Aug 11 | 10:00 AM | LinkedIn Feed | Post 117 - "What Your PBM's Clinical Programs Actually Deliver" MESSY INFOGRAPHIC | [ ] |
+| Wed Aug 12 | 10:00 AM | LinkedIn Feed | Post 118 - Strong POV TEXT (~230 words) | [ ] |
+| Thu Aug 13 | 7:30 AM | Substack | Field Note: "Step Therapy Protocols: Where They Help and Where They Harm" | [ ] |
+| Thu Aug 13 | 10:00 AM | LinkedIn Feed | Post 119 - Clinical Program Evaluation One Number Carousel (weekly theme) | [ ] |
+| Fri Aug 14 | 10:00 AM | LinkedIn Feed | Post 120 - Tease Hook (teases Week 33) | [ ] |
+
+---
+
+# PART 1: SUBSTACK ARTICLE
+
+## Clinical Program ROI: Measuring What Your PBM Claims to Deliver
+
+**Subtitle:** A six-program evaluation scorecard with verification methodology that separates real savings from reported savings
+
+**Publication:** Benefit Blind Spots
+**Publish:** Monday, August 10, 2026 at 7:30 AM EST
+**Length:** ~1,500 words (~6 min read)
+**Tone:** Analytical authority
+**Pillar:** Clinical Pharmacy Perspectives
+
+---
+
+### Article Body
+
+A PBM presented a client with a report showing $4.2 million in "clinical savings" from six programs. The client was impressed. I was skeptical. When we audited the methodology, the verified savings were a fraction of that number. The PBM's calculation counted avoided costs that were never going to occur and credited formulary-driven savings to clinical intervention programs that had nothing to do with the outcome.
+
+*Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+I share this not to dismiss PBM clinical programs. Some are genuinely valuable. Prior authorization prevents inappropriate utilization. Step therapy ensures cost-effective alternatives are tried first. Drug utilization review catches dangerous interactions. These are real clinical functions with real value.
+
+The problem is measurement. PBMs report savings using methodologies they designed, applied to their own data, with no independent verification. The employer sees a headline number. The methodology behind that number is rarely shared. And when it is shared, the assumptions often do not hold up under scrutiny.
+
+As a pharmacist, I believe in clinical programs. As a consultant who reviews approximately 100 contracts annually, I believe in verifying the numbers.
+
+**Six programs, six methodologies, six questions**
+
+Most PBMs report savings from the same core programs. Here is what each program claims, how the savings are typically calculated, and where the methodology breaks down.
+
+**Program 1: Prior Authorization**
+*What the PBM claims:* PA prevents inappropriate utilization, saving the plan the cost of drugs that should not have been approved.
+*How savings are calculated:* Denied claims multiplied by the cost of the denied drug. If PA denied 500 claims at $1,000 each, reported savings = $500,000.
+*Where it breaks down:* Not every denied claim would have been filled without PA. Many PA denials result in an alternative drug that also costs the plan money. The net savings is the cost difference between the denied drug and the alternative, not the full cost of the denied drug. Also, PA that is too restrictive delays appropriate therapy, which has its own cost.
+
+**Program 2: Step Therapy**
+*What the PBM claims:* Step therapy ensures members try cost-effective alternatives before expensive options.
+*Typical calculation:* Members who used the step therapy drug instead of the target drug, multiplied by the cost difference.
+*Where it breaks down:* If the member would have been prescribed the step therapy drug regardless of the protocol, the program gets credit for savings it did not create. The counterfactual assumption (what would have happened without the program) is almost always overstated.
+
+**Program 3: Quantity Limits**
+*What the PBM claims:* Quantity limits prevent excessive fills and waste.
+*Typical calculation:* Excess quantity prevented multiplied by cost per unit.
+*Where it breaks down:* Quantity limits aligned with clinical guidelines are appropriate. Quantity limits that restrict access below clinical standards create adherence problems. The savings calculation rarely accounts for downstream medical costs from undertreated conditions.
+
+**Program 4: Drug Utilization Review (DUR)**
+*What the PBM claims:* DUR catches therapeutic duplications, drug interactions, and inappropriate combinations.
+*Typical calculation:* Interventions made multiplied by assumed cost avoidance per intervention.
+*Where it breaks down:* Most DUR alerts are overridden by pharmacists because they are clinically irrelevant (the prescriber already considered the interaction). Counting every alert as a "savings event" inflates the numbers dramatically.
+
+**Program 5: Medication Therapy Management (MTM)**
+*What the PBM claims:* MTM reviews identify medication problems and optimize therapy.
+*Typical calculation:* Cost avoidance from medication changes recommended during MTM consultations.
+*Where it breaks down:* MTM completion rates are often low. Many recommendations are not implemented. Attributing savings to a recommendation that was made but not followed is not a real savings event.
+
+**Program 6: Specialty Management**
+*What the PBM claims:* Specialty management programs optimize high-cost therapy through site-of-care steering, biosimilar conversion, and clinical pathway management.
+*Typical calculation:* Cost difference between actual utilization and projected utilization without the program.
+*Where it breaks down:* The projected counterfactual (what would have happened without the program) is constructed by the PBM. If the projection assumes high utilization growth and actual growth was lower, the program claims credit for savings that may have occurred naturally.
+
+**The clinical program evaluation scorecard**
+
+For each of the six programs, score on four dimensions (1-5 each):
+
+*Clinical appropriateness (1-5):* Does the program apply evidence-based criteria? Are the protocols aligned with current clinical guidelines? Does it account for individual patient factors?
+
+*Financial impact methodology (1-5):* Can the PBM provide the specific calculation? Is the counterfactual assumption reasonable? Can you reproduce the math independently?
+
+*Member experience impact (1-5):* Does the program create access barriers or delays? What is the therapy abandonment rate? Are members negatively affected by administrative requirements?
+
+*Independent verifiability (1-5):* Can the reported savings be audited by an independent party? Does your contract give you audit rights over clinical program reporting? Can you request the underlying data?
+
+**Scoring:** Each program scores 4-20. Programs scoring below 12 need independent audit. Programs scoring below 8 may be costing the plan more in administrative burden and access delays than they save.
+
+**Total across six programs:** 24-120. Below 48: clinical program suite needs substantial overhaul. 48-84: mixed results, focus on lowest-scoring programs. Above 84: strong clinical program infrastructure.
+
+**The data requests that enable scoring**
+
+For each program, request: the specific savings methodology with a sample calculation, the raw data behind the savings claim (not just the summary), the intervention rate (what percentage of eligible members were actually affected), and the outcome rate (of those affected, what percentage had a measurable result).
+
+Your broker or consultant can help interpret the data. The best advisory teams are already requesting this level of detail. If yours has not, share this scorecard with them.
+
+Have you audited your PBM's clinical program savings? Leave a comment below.
+
+---
+
+*Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
+
+---
+
+### Article Meta
+
+**SEO Title:** Clinical Program ROI: 6-Program Evaluation Scorecard | Benefit Blind Spots
+**SEO URL Slug:** clinical-program-roi-evaluation-scorecard
+**Meta Description:** Your PBM reports millions in clinical savings. A six-program scorecard with verification methodology separates real savings from inflated numbers.
+**Tags:** clinical programs, PBM evaluation, prior authorization, step therapy, ROI, self-funded employers
+
+---
+
+# PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
+
+## Step Therapy Protocols: Where They Help and Where They Harm
+
+**Publication:** Benefit Blind Spots
+**Publish:** Thursday, August 13, 2026 at 7:30 AM EST
+**Length:** ~500 words (~2 min read)
+**Tone:** Practical, tactical
+**Pillar:** Clinical Pharmacy Perspectives
+
+---
+
+### Field Note Body
+
+Step therapy is one of the most debated clinical management tools in pharmacy benefits. When designed well, it ensures members try cost-effective alternatives before expensive options. When designed poorly, it delays appropriate therapy and creates provider friction.
+
+We evaluate step therapy protocols for clients with a clinical lens, and the quality varies enormously.
+
+**Where step therapy helps:** Therapeutic categories with multiple clinically equivalent options at different price points. Proton pump inhibitors, statins, ACE inhibitors, ARBs. Starting with a generic before moving to a brand makes clinical and financial sense. The evidence supports therapeutic equivalence across the class, and the cost savings are real.
+
+**Where step therapy harms:** Categories where clinical differentiation matters. Biologics for autoimmune conditions where one agent may work for a patient and another may not. Psychiatric medications where response is highly individual. Oncology where treatment protocols are specific. Requiring a "fail first" on a clinically inappropriate agent delays effective therapy and can cause real harm.
+
+**What to evaluate in your PBM's step therapy program:**
+
+Does the protocol reflect current clinical guidelines, or is it based on cost alone? Are clinical override criteria clear and accessible? Can a prescriber bypass the step with a documented clinical rationale without a lengthy appeals process? What is the therapy abandonment rate for members in step therapy (members who never fill the target drug because they gave up during the step)?
+
+The abandonment rate is the metric most PBMs do not report. If members who need specialty medications are abandoning therapy because the step therapy process is too burdensome, the financial savings come at a clinical cost. Your broker can help you request this data.
+
+The strongest step therapy protocols have clear clinical criteria, straightforward override processes, and transparency about where cost optimization ends and clinical compromise begins.
+
+---
+
+*This is a Field Note. Questions? team@rxbs.org.*
+
+---
+
+# PART 2: LINKEDIN NEWSLETTER
+
+## The Pharmacy Benefits Briefing - Issue #27
+### Clinical Program Briefing
+
+**Publish:** Monday, August 10, 2026 at 7:45 AM EST
+**Length:** ~400 words
+
+---
+
+### Newsletter Body
+
+A PBM presented a client with $4.2 million in "clinical savings" from six programs. When we audited the methodology, verified savings were a fraction of that number.
+
+*Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+The PBM counted avoided costs that were never going to occur. They credited formulary-driven savings to clinical programs that had nothing to do with the outcome. The headline number was impressive. The math behind it was not.
+
+I am not dismissing PBM clinical programs. Some are genuinely valuable. PA prevents inappropriate utilization. Step therapy ensures cost-effective alternatives are tried first. DUR catches dangerous interactions. These are real clinical functions.
+
+The problem is measurement. PBMs report savings using their own methodologies, applied to their own data, with no independent verification. The employer sees a headline number and assumes it represents actual dollars saved. It often does not.
+
+Six common programs, six methodologies, six places where the math breaks down: PA (counts full cost of denied drugs, not the net difference), step therapy (assumes the member would have used the expensive drug without the step), quantity limits (does not account for adherence problems), DUR (counts alerts that were overridden as "savings"), MTM (attributes savings to recommendations that were never implemented), and specialty management (uses a projected counterfactual the PBM constructed).
+
+The fix is a structured evaluation: score each program on clinical appropriateness, financial methodology, member experience, and independent verifiability. Programs scoring below threshold need independent audit.
+
+---
+
+This week's Benefit Blind Spots includes a **clinical program evaluation scorecard**: six programs scored on four dimensions with specific data requests for verification. That scorecard is exclusive to the Substack: [SUBSTACK URL]
+
+---
+
+*Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. team@rxbs.org.*
+
+---
+
+# PART 3: LINKEDIN FEED POSTS
+
+## Post 117 - Tuesday 10:00 AM
+### "What Your PBM's Clinical Programs Actually Deliver" (Messy Infographic)
+
+**Format:** Messy Infographic
+**Pillar:** Clinical Pharmacy Perspectives
+**Word Count:** ~85 words
+
+#### Post Copy
+
+What your PBM's clinical programs actually deliver vs. what they report.
+
+Reported: PA saved $500,000. Reality: most denied claims would have been filled with an alternative anyway. The net savings is the cost difference, not the full cost of the denied drug.
+
+Reported: step therapy saved $300,000. Reality: many members would have started with the step drug regardless. The program gets credit for behavior it did not change.
+
+The headline number is not the real number. The methodology determines which one you see.
+
+#PharmacyBenefits #ClinicalPrograms #PBMTransparency #ROI
+
+#### Messy Infographic Concept
+
+**Title:** Reported vs. Verified: Clinical Program Savings
+**Style:** Two-column "What They Report" vs. "What We Verify" with hand-drawn arrows showing the gap
+**Dimensions:** 1080 x 1350 px. Six program rows, left column (reported, large numbers), right column (verified, smaller numbers), gap highlighted in red.
+
+---
+
+## Post 118 - Wednesday 10:00 AM
+### Strong POV Text (~230 words)
+
+#### Post Copy
+
+Your PBM reports $3 million in clinical program savings. Can you verify a single dollar?
+
+Prior authorization. Step therapy. Quantity limits. Drug utilization review. Medication therapy management. Specialty management. Six programs. Six reported savings numbers. Six methodologies you have probably never seen.
+
+Here is what the methodologies typically look like when we audit them. PA counts the full cost of every denied claim as "savings," even though most denied members fill an alternative drug that also costs the plan money. Step therapy credits itself with every member who started on the lower-cost drug, even those who would have been prescribed it without the step. DUR counts every alert as a savings event, even though most alerts are overridden by pharmacists because they are clinically irrelevant.
+
+I am not saying these programs have no value. Some are genuinely important. PA prevents inappropriate utilization. DUR catches real safety issues. Step therapy, when designed well, ensures cost-effective alternatives are tried first.
+
+But the gap between reported savings and verified savings is consistent across almost every audit we conduct. The headline number is constructed by the PBM using assumptions the PBM chose, applied to data the PBM controls.
+
+One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If they cannot provide it, the number is a marketing metric, not a financial metric.
+
+---
+
+## Post 119 - Thursday 10:00 AM
+### Clinical Program Evaluation (One Number Carousel) - WEEKLY THEME
+
+**Format:** One Number Carousel (7 slides) - Template C
+**Pillar:** Clinical Pharmacy Perspectives
+
+#### One Number Carousel Slides
+
+**Slide 1 (Blue):** "$4.2M" — "That is what the PBM reported in clinical savings."
+**Slide 2 (White):** "6" — "Programs. Six different methodologies. Six different assumptions."
+**Slide 3 (Blue):** "PA" — "Counts full cost of denied drugs. Net savings = cost difference only."
+**Slide 4 (White):** "DUR" — "Counts every alert. Most are overridden as clinically irrelevant."
+**Slide 5 (Blue):** "12/20" — "Programs scoring below this threshold need independent audit."
+**Slide 6 (White):** "1" — "One request: the methodology and a sample calculation per program."
+**Slide 7 (Blue):** "Verified ≠ Reported" — "Score your PBM's programs before you trust the numbers." team@rxbs.org
+
+*Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+---
+
+## Post 120 - Friday 10:00 AM
+### Tease Hook - TEASES WEEK 33
+
+#### Post Copy
+
+You saved your plan six figures by switching to a biosimilar. Your members think you took away their medication.
+
+The best pharmacy strategy fails without the right communication. Formulary changes. Biosimilar transitions. Network changes. PA implementation. Each one is clinically sound and financially justified. Each one feels like a takeaway to the member who gets the letter.
+
+The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging. Same change. Different communication. Different outcome.
+
+Next week: communicating pharmacy changes, and five scenario-specific templates that prevent the backlash.
+
+---
+
+# PART 4: SUBSTACK NOTES (Daily Schedule)
+
+## Monday
+**Morning:** New on Benefit Blind Spots: clinical program ROI. A PBM reported $4.2 million in savings. Verified savings were a fraction. This week includes a six-program evaluation scorecard. Read: [LINK]
+**Midday — Origin Story:** As a pharmacist, I believe in clinical programs. PA, step therapy, DUR: these tools exist for good reasons. But as a consultant, I have learned to verify the math. The gap between reported and verified clinical savings is consistent across almost every audit we conduct. Believing in the programs and verifying the numbers are not contradictory. They are complementary.
+
+## Tuesday
+**Morning:** Your PBM reports millions in clinical savings. The methodology is rarely shared. When it is shared, the assumptions rarely hold up. One request changes the conversation: the specific savings methodology and a sample calculation per program.
+**Midday:** Six programs. Six methodologies. The one that inflates the most consistently: DUR. Most drug interaction alerts are overridden by pharmacists because the prescriber already considered the interaction. Counting every alert as a savings event is not measurement. It is marketing.
+
+## Wednesday
+**Morning:** The therapy abandonment rate is the clinical program metric PBMs almost never report. If members who need specialty medications are giving up during step therapy because the process is too burdensome, the financial savings come at a clinical cost that does not appear in the savings report.
+**Midday — Origin Story:** I remember reviewing a PBM's clinical savings report that claimed credit for a formulary-driven shift to generics under their "clinical management program." The shift happened because the brand went off-patent, not because the PBM intervened. The program claimed the savings. I have been skeptical of uncredited methodology ever since.
+
+## Thursday
+**Morning:** New field note: step therapy protocols. Where they help (categories with true clinical equivalence) and where they harm (categories where individual response matters). The override process determines whether step therapy is a cost tool or an access barrier. Read: [LINK]
+
+## Friday
+**Morning — Forward Look:** Next week: communicating pharmacy changes. The best pharmacy strategy fails without the right messaging. Five scenarios. Five template frameworks. Because the backlash is never about the clinical decision. It is about the letter.
+
+## Engagement Reply Templates
+
+**Template A:** "The gap between reported and verified clinical savings is consistent. PBMs count avoided costs that were never going to occur, credit formulary-driven shifts to clinical programs, and count overridden alerts as interventions. Requesting the methodology is the first step toward real measurement."
+
+---
+
+# PARTS 5-7: CHECKLIST, ASSETS, METRICS
+
+## Publishing Checklist
+- [ ] **HUMANIZE REVIEW:** Run `/humanize` on Monday article, Thursday field note before publishing
+- [ ] Pre-posting engagement daily, 30-min reply window
+- [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
+- [ ] Tue-Fri: Posts at 10:00 AM per schedule
+- [ ] Daily Substack Notes
+
+## Assets Needed
+
+| Asset | Format | Status |
+|-------|--------|--------|
+| Post 117 Messy Infographic | 1080x1350 | Reported vs. Verified savings |
+| Post 119 One Number Carousel | 7 slides | Template C - program evaluation |
+| Headers | Standard | [ ] |
+
+## Metrics
+
+| Post | Impressions | Eng Rate | Comments | Saves |
+|------|------------|----------|----------|-------|
+| Post 117 (Tue) | | | | |
+| Post 118 (Wed) | | | | |
+| Post 119 (Thu) | | | | |
+| Post 120 (Fri) | | | | |
+
+---
+
+*File created: April 2026*
+*Status: DRAFT COMPLETE*
