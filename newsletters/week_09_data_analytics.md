@@ -341,7 +341,7 @@ Full framework on Substack.
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880) and subtle dot texture pattern in the upper-right corner. Centered in the image is a large white flat-design bar chart icon with a magnifying glass overlaid (150-200px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Data Without Questions" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Is Just Numbers." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design bar chart icon with a magnifying glass overlaid (150-200px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Data Without Questions" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Is Just Numbers." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -390,7 +390,7 @@ For the complete framework: [SUBSTACK URL]
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "5 Data Questions"
 - Subhead: "Beyond standard PBM reports"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1

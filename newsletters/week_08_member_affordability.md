@@ -337,7 +337,7 @@ For the complete framework with contract considerations: [SUBSTACK URL]
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "Copay Accumulators: What Your Members Don't Know"
 - Subhead: "The hidden cost shift in pharmacy benefits"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1

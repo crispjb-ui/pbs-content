@@ -609,7 +609,7 @@ Which of these 5 numbers surprised you most when you actually looked? Drop below
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "5 Numbers Your PBM Hopes You Miss"
 - Subhead: "Q1 data that creates leverage"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1

@@ -311,7 +311,7 @@ Q1 data is available. The answers are in the numbers.
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880) and subtle dot texture pattern in the upper-right corner. Centered in the image is a large white flat-design iceberg icon (150-200px), with the top portion visible above a horizontal light blue (#A7E0FA) waterline and a larger portion below, simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Hidden PBM Revenue" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Where Profit Hides in Your Plan." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design iceberg icon (150-200px), with the top portion visible above a horizontal light blue (#A7E0FA) waterline and a larger portion below, simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Hidden PBM Revenue" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Where Profit Hides in Your Plan." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -365,7 +365,7 @@ For the complete framework: [SUBSTACK URL]
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "The Price You Don't See"
 - Subhead: "How Spread Pricing Works (And Why Your Contract Allows It)"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1

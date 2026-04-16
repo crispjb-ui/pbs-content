@@ -265,7 +265,7 @@ Full framework including direct contracting models on Substack.
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880) and subtle dot texture pattern in the upper-right corner. Centered in the image is a large white flat-design factory/manufacturer building icon with an arrow pointing to a prescription card or copay card icon (250-300px combined), simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Manufacturer Direct Programs" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Who Really Benefits?" No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design factory/manufacturer building icon with an arrow pointing to a prescription card or copay card icon (250-300px combined), simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Manufacturer Direct Programs" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Who Really Benefits?" No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above

@@ -340,7 +340,7 @@ Full framework with contract language examples on Substack.
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880) and subtle dot texture pattern in the upper-right corner. Centered in the image is a large white flat-design magnifying glass icon overlapping a document/contract icon (150-200px combined), simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Your Unused Audit Rights" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "What Your PBM Contract Actually Allows." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design magnifying glass icon overlapping a document/contract icon (150-200px combined), simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Your Unused Audit Rights" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "What Your PBM Contract Actually Allows." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -394,7 +394,7 @@ For the complete framework: [SUBSTACK URL]
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "The Audit Clause Nobody Reads"
 - Subhead: "And why PBMs prefer it that way"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1

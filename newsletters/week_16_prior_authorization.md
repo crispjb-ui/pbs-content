@@ -309,7 +309,7 @@ Full framework with contract language considerations on Substack.
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880) and subtle dot texture pattern in the upper-right corner. Centered in the image is a large white flat-design clipboard icon with a stopwatch or clock overlay (250-300px combined), simplified and minimal with no gradients, suggesting bureaucratic delay. Below the icons, centered white sans-serif text reads "The Prior Authorization Problem" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Balancing Control and Care." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design clipboard icon with a stopwatch or clock overlay (250-300px combined), simplified and minimal with no gradients, suggesting bureaucratic delay. Below the icons, centered white sans-serif text reads "The Prior Authorization Problem" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Balancing Control and Care." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above

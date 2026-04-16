@@ -282,7 +282,7 @@ This week's Benefit Blind Spots includes an **H1 benchmark dashboard**: the five
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880) and subtle dot texture pattern in the upper-right corner. Feature two side-by-side rounded rectangles: left rectangle in white with "H1" in bold deep teal-blue (#015880) text and "Review" below in gray (#4D4D4D), right rectangle outlined in light blue (#A7E0FA) with "H2" in bold light blue (#A7E0FA) text and "Preview" below in white. An arrow connects the two rectangles left to right. Below both, centered white sans-serif text reads "First Half Done. Now What?" in bold (80-96pt equivalent). No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Feature two side-by-side rounded rectangles: left rectangle in white with "H1" in bold deep teal-blue (#015880) text and "Review" below in gray (#4D4D4D), right rectangle outlined in light blue (#A7E0FA) with "H2" in bold light blue (#A7E0FA) text and "Preview" below in white. An arrow connects the two rectangles left to right. Below both, centered white sans-serif text reads "First Half Done. Now What?" in bold (80-96pt equivalent). No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above

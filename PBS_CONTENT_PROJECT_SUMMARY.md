@@ -139,7 +139,7 @@ LINKEDIN POLL (8:30 AM Fri) - Engagement driver, no links
 ### Carousel Slide Backgrounds
 | Slide Type | Background |
 |------------|------------|
-| Cover | Primary Blue (#015880) with dot texture top-right |
+| Cover | Primary Blue (#015880) |
 | Problem/Explanation | White |
 | Solution/Action | Light Blue (#A7E0FA) |
 | CTA | White |

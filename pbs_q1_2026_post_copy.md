@@ -1702,7 +1702,7 @@ For the complete framework: [SUBSTACK URL]
 #### Carousel Slides - Version B (Newsletter Bundle)
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "The Audit Clause Nobody Reads"
 - Subhead: "And why PBMs prefer it that way"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1
@@ -2177,7 +2177,7 @@ How many of your high-cost medical claims started with a pharmacy non-adherence 
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "The Silo That Costs You Twice"
 - Subhead: "Pharmacy + Medical: The integration nobody has"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1
@@ -2411,7 +2411,7 @@ Which of these 5 numbers surprised you most when you actually looked? Drop below
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "5 Numbers Your PBM Hopes You Miss"
 - Subhead: "Q1 data that creates leverage"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1
@@ -2615,7 +2615,6 @@ The real question: "[BETTER QUESTION]"
 
 **Cover Slide:**
 - Primary Blue (#015880) background
-- Dot texture pattern in top-right corner
 - White Krona One headline
 - White subhead below
 - ">>>" swipe indicator in Accent Blue (#A7E0FA)

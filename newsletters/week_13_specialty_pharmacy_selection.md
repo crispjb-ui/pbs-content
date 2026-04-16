@@ -439,7 +439,7 @@ For the complete framework: [SUBSTACK URL]
 #### Carousel Slides
 
 **Slide 1 - Cover**
-- Background: Primary Blue (#015880) with dot texture
+- Background: Primary Blue (#015880)
 - Headline: "Did You Choose Your Specialty Pharmacy?"
 - Subhead: "Or was it assigned?"
 - Footer: Prescription Benefit Solutions | www.rxbs.org | 1
