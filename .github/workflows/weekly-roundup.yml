@@ -67,6 +67,8 @@ jobs:
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch"
           prompt: |
             You are drafting the Wednesday Roundup for Benefit Blind Spots.
 
@@ -104,15 +106,27 @@ jobs:
 
             Do not commit. A later workflow step will handle the commit.
 
+      - name: Verify roundup draft was written
+        if: steps.guard.outputs.should_run == 'true'
+        run: |
+          file="newsletters/roundups/roundup_${{ steps.vars.outputs.date_file }}.md"
+          if [ ! -f "$file" ]; then
+            echo "::error::Expected roundup file not found at $file. Claude did not save the draft."
+            ls -la newsletters/roundups/ || true
+            exit 1
+          fi
+          echo "Found draft at $file ($(wc -l < "$file") lines)"
+
       - name: Commit and push draft
         if: steps.guard.outputs.should_run == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          file="newsletters/roundups/roundup_${{ steps.vars.outputs.date_file }}.md"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git add newsletters/roundups/
+          git add "$file" newsletters/roundups/rss_weekly_feed.md
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
