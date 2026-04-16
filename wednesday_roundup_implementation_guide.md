@@ -94,7 +94,15 @@ Every Tuesday at 7:30 AM EST, do the following:
    Save ONLY the humanized version. Do not save a pre-humanized draft.
 
 7. Save the output to newsletters/roundups/roundup_YYYY_MM_DD.md
-   on a new branch called claude/roundup-YYYY-MM-DD.
+   and commit directly to main. Use commit message:
+   "Weekly roundup draft: YYYY-MM-DD (review pending)"
+
+   Add this header to the top of the file:
+   ```
+   Status: DRAFT - Review before publishing to Substack
+   Generated: YYYY-MM-DD HH:MM EST
+   ```
+   Ginny updates Status to "PUBLISHED" after publishing to Substack.
 
 8. The article must follow all rules in CLAUDE.md:
    - Voice: Ginny Crisp, PharmD
@@ -113,12 +121,11 @@ claude.ai/code/routines
 ### Step 3: Weekly Review Workflow
 
 Every Tuesday morning:
-1. Check your email or GitHub for the new branch
-2. Open the draft at `newsletters/roundups/roundup_YYYY_MM_DD.md`
-3. The draft is already humanized (built into the automation prompt)
-4. Review for content accuracy and Ginny's voice. Adjust any takes that don't feel right.
-5. Merge the branch or copy the content to Substack
-6. Schedule for Wednesday 7:30 AM publish on Substack
+1. Open the newest file in `newsletters/roundups/` on main (always the same folder, no branches to track)
+2. The draft is already humanized (built into the automation prompt)
+3. Review for content accuracy and Ginny's voice. Edit in place and commit.
+4. Copy the content to Substack and schedule for Wednesday 7:30 AM publish
+5. Update the file header from "Status: DRAFT" to "Status: PUBLISHED" and commit
 
 > **NOTE:** The humanize pass is built into Step 6 of the automation prompt. The draft should arrive already sounding like Ginny. If it does not, run `/humanize` manually as a backup. After the first 2-3 weeks, evaluate whether the built-in humanize is sufficient or whether a manual pass is still needed.
 
@@ -184,10 +191,19 @@ Create a NEW Zap:
 - Body: See the full prompt in the "Automation Prompt" section below
 - Input: Combine the RSS stories from Action 1 + search results from Action 2
 
-**Action 4:** Choose ONE output destination:
-- **GitHub:** Use the "GitHub - Create File" action to push the draft to your repo
-- **Email:** Send the draft to Ginny for review
-- **Google Doc:** Create a new doc with the draft for editing
+**Action 4:** GitHub - Create File
+- Repo: `crispjb-ui/pbs-content`
+- Branch: `main` (commit directly, no PR)
+- File path: `newsletters/roundups/roundup_YYYY_MM_DD.md`
+- Commit message: "Weekly roundup draft: YYYY-MM-DD (review pending)"
+- Include the "Status: DRAFT" header at the top so Ginny can flip it to PUBLISHED after publishing on Substack
+
+**Also update the RSS feed file on main:**
+- Action: "GitHub - Update File"
+- File path: `newsletters/roundups/rss_weekly_feed.md`
+- Branch: `main`
+- Overwrite with the week's accumulated stories each Tuesday
+- Commit message: "RSS feed update: YYYY-MM-DD"
 
 ### Step 3: Clean Up the Spreadsheet
 
@@ -253,16 +269,24 @@ jobs:
             Must sound like Ginny Crisp wrote it, not like AI summarized news.
             Save ONLY the humanized version.
             
-            Save to newsletters/roundups/roundup_$(date +%Y_%m_%d).md
-            Commit and push to a new branch: claude/roundup-$(date +%Y-%m-%d)
+            Add this header to the top of the file:
+              Status: DRAFT - Review before publishing to Substack
+              Generated: $(date +%Y-%m-%d' '%H:%M)
 
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v5
-        with:
-          title: "Weekly Roundup Draft - Week of $(date +%B' '%d)"
-          body: "Automated weekly pharmacy benefits roundup. Review, edit, and publish."
-          branch: claude/roundup-draft
-          base: main
+            Save to newsletters/roundups/roundup_$(date +%Y_%m_%d).md
+            Also overwrite newsletters/roundups/rss_weekly_feed.md with the
+            week's accumulated stories.
+
+            Commit both files directly to main with message:
+            "Weekly roundup draft: $(date +%Y-%m-%d) (review pending)"
+
+      - name: Commit and push to main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add newsletters/roundups/
+          git commit -m "Weekly roundup draft: $(date +%Y-%m-%d) (review pending)" || echo "No changes to commit"
+          git push origin main
 ```
 
 ### Step 3: Test It
@@ -412,12 +436,13 @@ Add these to your Zapier RSS trigger if you don't already have them:
 ## Folder Structure
 
 ```
-/home/user/Main/
+pbs-content/ (main branch, no feature branches)
 ├── newsletters/
 │   ├── templates/
-│   │   └── wednesday_roundup_template.md    ← Format template (create next)
+│   │   └── wednesday_roundup_template.md    ← Format template
 │   ├── roundups/
-│   │   ├── roundup_2026_07_01.md           ← Weekly drafts land here
+│   │   ├── rss_weekly_feed.md               ← Overwritten each Tuesday (Zapier)
+│   │   ├── roundup_2026_07_01.md            ← Weekly drafts land here on main
 │   │   ├── roundup_2026_07_08.md
 │   │   └── ...
 │   ├── week_25_renewal_countdown.md
@@ -426,6 +451,17 @@ Add these to your Zapier RSS trigger if you don't already have them:
     └── workflows/
         └── weekly-roundup.yml               ← If using Option C
 ```
+
+Every file lands on main. No branches to check. Look in `newsletters/roundups/` each Tuesday for the newest `roundup_YYYY_MM_DD.md`.
+
+## Preview Image Prompt (Static)
+
+The image prompt does not change week-to-week. The template in `newsletters/templates/wednesday_roundup_template.md` contains the full static prompt. Only two variables change each week:
+
+1. **Date range** (e.g., "July 7-11, 2026")
+2. **Icon selection** (pick 3-4 from the fixed list: pill bottle, dollar sign, contract/document, DNA helix, gavel, shield, chart, building, stethoscope)
+
+Everything else (background color, typography, logo, badge placement, flat style) is identical every week. The routine just fills in the two variables and references the template rather than rewriting the prompt from scratch.
 
 ---
 
