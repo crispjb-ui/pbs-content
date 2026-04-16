@@ -2,8 +2,11 @@ name: Weekly Pharmacy Benefits Roundup
 
 on:
   schedule:
-    # Tuesdays at 12:30 UTC (7:30 AM EST / 8:30 AM EDT)
-    - cron: '30 12 * * 2'
+    # Both cron lines fire; the guard step below only lets the one
+    # matching 07:30 America/New_York continue. This holds 7:30 AM
+    # Eastern year-round across EST and EDT.
+    - cron: '30 11 * * 2'  # 7:30 AM EDT (daylight saving)
+    - cron: '30 12 * * 2'  # 7:30 AM EST (standard time)
   workflow_dispatch: {}
 
 permissions:
@@ -14,10 +17,32 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - name: Guard against wrong-hour schedule fire
+        # Two cron lines fire (one for EST, one for EDT). This step
+        # gates everything downstream so only the run at 07:30
+        # America/New_York proceeds. Manual runs always proceed.
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manual run; proceeding."
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          hhmm=$(TZ=America/New_York date +%H%M)
+          echo "Eastern time is $hhmm"
+          if [ "$hhmm" = "0730" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not 07:30 Eastern; skipping."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout repo
+        if: steps.guard.outputs.should_run == 'true'
         uses: actions/checkout@v4
 
       - name: Compute run date (America/New_York)
+        if: steps.guard.outputs.should_run == 'true'
         id: vars
         run: |
           echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
@@ -25,6 +50,7 @@ jobs:
           echo "stamp=$(TZ=America/New_York date +'%Y-%m-%d %H:%M %Z')" >> "$GITHUB_OUTPUT"
 
       - name: Generate roundup draft with Claude
+        if: steps.guard.outputs.should_run == 'true'
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -66,6 +92,7 @@ jobs:
             Do not commit. A later workflow step will handle the commit.
 
       - name: Commit and push draft
+        if: steps.guard.outputs.should_run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
