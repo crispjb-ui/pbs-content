@@ -611,6 +611,23 @@ Format: 1080x1350, MP4, ~25 seconds. Two circle frames per slide showing the sam
 - Price text: Roboto Bold, 28pt inside each circle
 - Disclaimer: "Illustrative example for educational purposes. Actual amounts vary by plan."
 - Transition: Match & Move, 1.2s
+
+---
+
+## Post 53 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+Five PBM contract clauses quietly shape what your plan actually pays. The definitions section is where the real terms live, and it rarely gets the scrutiny it deserves.
+
+Ginny Crisp breaks down the language that changes everything about your pharmacy spend.
+
+#PharmacyBenefits #PBMContracts #SelfFundedEmployers #ContractLanguage
+
+---
+
 ### "Same drug. Different price. Different pharmacy. Same PBM." Tease Hook (Text)
 
 **Format:** Text Post (Tease Hook)
@@ -728,6 +745,20 @@ This week's Pharmacy Benefits Briefing covers the full PA optimization framework
 - Bottom callout box: "Gold Card Programs: Exempt high-performing prescribers"
 - Annotation: "Multiple states now require this"
 - Informal fonts, hand-drawn feel
+
+---
+
+## Post 55 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 44 words
+
+#### Reshare Copy
+
+Prior authorization helps in some places and hurts in others. Maintenance medications with stable histories rarely need the friction.
+
+Ginny Crisp maps where PA adds clinical value, where it creates unnecessary friction, and how gold card programs can fix it.
+
+#PharmacyBenefits #PriorAuthorization #ClinicalPharmacy #SelfFundedEmployers
 
 ---
 

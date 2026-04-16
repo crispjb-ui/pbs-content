@@ -217,6 +217,20 @@ The headline number is not the real number. The methodology determines which one
 
 ---
 
+## Post 117 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Reported clinical program savings and verified clinical program savings are rarely the same number. The methodology behind PA, step therapy, and DUR counts avoided costs that were never going to occur.
+
+Ginny Crisp walks through the gap between what the PBM reports and what actually saved.
+
+#PharmacyBenefits #ClinicalPrograms #PBMTransparency #ROI
+
+---
+
 ## Post 118 - Wednesday 10:00 AM
 ### Strong POV Text (~230 words)
 
@@ -253,6 +267,20 @@ One request changes the conversation: ask your PBM for the specific savings meth
 **Slide 7 (Blue):** "Verified ≠ Reported" — "Score your PBM's programs before you trust the numbers." team@rxbs.org
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+---
+
+## Post 119 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+Clinical program ROI should be auditable. Methodology, sample calculations, and member-level data all belong in the review, not just the topline savings number.
+
+Ginny Crisp walks through the scorecard that separates reported savings from verified savings across prior authorization, step therapy, and DUR.
+
+#PharmacyBenefits #ClinicalPrograms #ROI #PBMAudit
 
 ---
 

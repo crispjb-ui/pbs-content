@@ -206,6 +206,22 @@ Eight levers determine specialty cost. Most plans have gaps on at least half. Th
 
 ---
 
+## Post 125 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Your PBM manages specialty routing, formulary, and authorization. They often own the specialty pharmacy itself.
+
+What the summary report shows is not the same as what the plan is paying for.
+
+Ginny Crisp maps the eight specialty management levers and where the gaps usually hide.
+
+#PharmacyBenefits #SpecialtyPharmacy #CostContainment #SelfFundedEmployers
+
+---
+
 ## Post 126 - Wednesday 10:00 AM
 ### Strong POV Text (~230 words)
 
@@ -241,6 +257,20 @@ Start with one question: which of the eight levers has the largest gap on your p
 **Slide 5 (Blue):** "Above 90" — "Advanced. Maintain and watch for emerging gaps."
 **Slide 6 (White):** "1" — "Start with the lever that matches your highest specialty spend."
 **Slide 7 (Blue):** "Score it before renewal." team@rxbs.org | Benefit Blind Spots
+
+---
+
+## Post 127 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Specialty cost is set by eight management levers across routing, formulary, authorization, and reporting. Most plans have gaps on at least half of them.
+
+Ginny Crisp walks through the 120-point assessment that identifies which lever to fix first before renewal.
+
+#PharmacyBenefits #SpecialtyPharmacy #Renewal #SelfFundedEmployers
 
 ---
 

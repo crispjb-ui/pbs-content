@@ -322,6 +322,20 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 73 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Renewal season starts months before the deadline. Benchmarking, guarantee performance, clinical program ROI, and specialty management all need review before the PBM conversation begins.
+
+Ginny Crisp walks through the five items every plan sponsor should lock down now to strengthen their renewal position.
+
+#PharmacyBenefits #Renewal #PBMContracts #SelfFundedEmployers
+
+---
+
 ## Post 74 - Wednesday 8:30 AM
 ### "$1,200 cream. $47 alternative. Same ingredient." Tease Hook (Text)
 
@@ -434,6 +448,20 @@ The compounding oversight briefing covers the full category risk framework. For 
 - **Flag 6 (bottom right):** Upward trend arrow - "Rapid spend growth, no population change"
 - **Bottom bar:** PBS branding, Primary Blue (#015880), "team@rxbs.org"
 - **Color palette:** Primary Blue (#015880) headers, red accent for flag icons, Gray (#4D4D4D) body text, White (#FFFFFF) background with slight off-white texture
+
+---
+
+## Post 75 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 45 words
+
+#### Reshare Copy
+
+Compounding claims hide in plain sight. Single pharmacies, unusual prescriber patterns, and multi-ingredient topicals at high cost are all patterns that deserve a second look.
+
+Ginny Crisp maps the six red flags that distinguish appropriate compounding from claims that deserve investigation.
+
+#PharmacyBenefits #Compounding #ClaimsReview #CostContainment
 
 ---
 

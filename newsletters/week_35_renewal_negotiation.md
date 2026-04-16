@@ -218,6 +218,20 @@ The provisions they skip are often where the most value gets left on the table. 
 
 ---
 
+## Post 129 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Twelve contract provisions determine your PBM renewal outcome. Most plan sponsors negotiate hard on the first two and accept default language on the rest.
+
+Ginny Crisp marks up the provisions where value quietly leaves the table, and the redlines every renewal term sheet should carry.
+
+#PharmacyBenefits #PBMRenewal #ContractNegotiation #SelfFundedEmployers
+
+---
+
 ## Post 130 - Wednesday 10:00 AM
 
 #### Post Copy (~230 words)
@@ -258,6 +272,20 @@ The PBM negotiates from their data advantage. You negotiate from preparation. Th
 
 **Title:** Where Your Negotiating Power Lives
 **Style:** Hand-drawn balance scale. Left side: "PBM's Position" (their data, their scenarios, their timeline). Right side: "Your Position" (your data, your benchmarks, your term sheet, your exit options). Scale tips based on preparation. Annotations: "Preparation is the equalizer."
+
+---
+
+## Post 131 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Your data. Your benchmarks. Your term sheet. Your termination clause. Your willingness to go to market. That is where a plan sponsor's negotiating power actually lives.
+
+Ginny Crisp covers the leverage points that close the preparation gap between PBM and plan at renewal.
+
+#PharmacyBenefits #Negotiation #PBMRenewal #SelfFundedEmployers
 
 ---
 

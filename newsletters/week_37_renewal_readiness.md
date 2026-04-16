@@ -289,6 +289,22 @@ Fifteen factors determine which side you are on. One scorecard tells you your sc
 
 ---
 
+## Post 137 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Same PBM. Same market. Different preparation. Different renewal outcome.
+
+Prepared plan sponsors walk in with their own data, benchmarks, term sheet, and advisory alignment. Unprepared plan sponsors walk in with the PBM's summary report.
+
+Ginny Crisp covers the 15 factors that decide which side you land on.
+
+#PharmacyBenefits #RenewalReadiness #PBMNegotiation #SelfFundedEmployers
+
+---
+
 ## Post 138 - Wednesday 10:00 AM
 
 #### Post Copy (~230 words)
@@ -323,6 +339,22 @@ Preparation is the strategy. Renewal is just the meeting.
 **Slide 5 (Blue):** "Above 50" — "Strong position. Proceed with confidence."
 **Slide 6 (White):** "1 Day" — "Three steps. Five metrics. Ten provisions. Three conversations. One day of preparation changes the outcome."
 **Slide 7 (Blue):** "Preparation is the strategy." team@rxbs.org | Benefit Blind Spots
+
+---
+
+## Post 139 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Fifteen factors. Five categories. One scorecard.
+
+Data readiness, contract readiness, market readiness, clinical readiness, and negotiation readiness each shape what the PBM hears when you sit across the table.
+
+Ginny Crisp walks through the scorecard and the one-day preparation sprint that still moves the number.
+
+#PharmacyBenefits #RenewalReadiness #PBMNegotiation #SelfFundedEmployers
 
 ---
 

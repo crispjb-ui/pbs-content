@@ -360,6 +360,20 @@ A clean, professional vertical infographic at 1080 x 1350 pixels with a white ba
 
 ---
 
+## Post 77 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 49 words
+
+#### Reshare Copy
+
+Your plan pays one price. Your pharmacy receives another. The spread in between becomes PBM revenue, and most employers never see it in their claims data.
+
+Ginny Crisp breaks down how spread pricing works and the questions to ask your PBM to make it visible.
+
+#PharmacyBenefits #SpreadPricing #PBM #Transparency
+
+---
+
 ## Post 78 - Wednesday 8:30 AM
 ### "Your PBM May Have a Financial Incentive to Keep You on the Brand" (Strong POV Text)
 
@@ -523,6 +537,20 @@ The biosimilar strategy briefing covers why PBM rebate economics may not align w
 | Gray | #4D4D4D | Sub-text, disclaimer |
 | Light Gray | #E0E0E0 | Alternating row backgrounds |
 | White | #FFFFFF | Overall background, alternating rows |
+
+---
+
+## Post 79 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+Biosimilar adoption is not just a clinical decision. Contract language, rebate structure, and formulary placement all shape whether the savings actually reach your plan.
+
+Ginny Crisp walks through the six-factor readiness checklist plan sponsors should run before the next biosimilar launch.
+
+#PharmacyBenefits #Biosimilars #CostContainment #SelfFundedEmployers
 
 ---
 

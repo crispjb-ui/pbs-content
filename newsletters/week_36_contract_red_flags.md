@@ -205,6 +205,22 @@ Two words can be worth six figures.
 
 ---
 
+## Post 133 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 49 words
+
+#### Reshare Copy
+
+"Competitive pricing." "Commercially reasonable efforts." "Standard practices." "Adequate network." Every phrase sounds professional. Some protect your plan. Some protect the PBM.
+
+The difference is not obvious until a guarantee falls short or you try to exit the relationship.
+
+Ginny Crisp translates the language most employers gloss over.
+
+#PharmacyBenefits #ContractLanguage #PBMContracts #SelfFundedEmployers
+
+---
+
 ## Post 134 - Wednesday 10:00 AM
 
 #### Post Copy (~230 words)
@@ -239,6 +255,20 @@ Your broker or benefits counsel should know which version your contract uses. If
 **Slide 5:** Monospace: "Penalties capped at $50,000." Red X. Note: "The cap limits your protection." Handwritten: "Dollar-for-dollar. No cap."
 **Slide 6:** Monospace: "PBM may amend with 30-day notice." Red strikethrough. Note: "They can change YOUR terms." Handwritten: "Mutual written agreement required."
 **Slide 7:** Primary Blue bg. "Print this. Mark your contract. The gaps are your negotiation agenda." team@rxbs.org
+
+---
+
+## Post 135 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Weak, moderate, strong. Every major PBM contract provision has versions. The version in your contract determines whether guarantees are enforceable, rebates are passed through, and amendments require your agreement.
+
+Ginny Crisp walks through ten provisions and the redlines that strengthen each one.
+
+#PharmacyBenefits #ContractLanguage #PBMRenewal #SelfFundedEmployers
 
 ---
 

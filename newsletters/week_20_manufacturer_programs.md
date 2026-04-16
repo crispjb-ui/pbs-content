@@ -326,6 +326,22 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 69 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Your members did not choose your specialty pharmacy. Your PBM did.
+
+PBM-owned routing, limited distribution networks, and white bagging each shift dispensing revenue in ways most plans never see in their claims data.
+
+Ginny Crisp covers how to evaluate whether the routing serves your plan.
+
+#PharmacyBenefits #SpecialtyPharmacy #PBM #Transparency
+
+---
+
 ## Post 70 - Wednesday 8:30 AM
 ### "Free drug. Full price claim. Your plan pays." Tease Hook (Text)
 
@@ -482,6 +498,22 @@ The manufacturer programs briefing covers the full copay card economics, from li
 3. Hand-drawn arrows connecting each step
 4. Red (#C0392B) for key reveals and cost callouts
 5. Export 1080 x 1350 px each
+
+---
+
+## Post 71 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 49 words
+
+#### Reshare Copy
+
+Copay assistance programs help members at the pharmacy counter. They also shift plan economics in ways most employers never quantify.
+
+Accumulators, maximizers, and full-price claims on zero-cost drugs all change the math.
+
+Ginny Crisp analyzes how manufacturer programs affect your plan's true spend.
+
+#PharmacyBenefits #CopayCards #ManufacturerPrograms #CostContainment
 
 ---
 

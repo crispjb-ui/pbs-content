@@ -362,6 +362,20 @@ A clean, professional vertical infographic at 1080 x 1350 pixels with a white ba
 
 ---
 
+## Post 81 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Contract language only protects your plan if someone enforces it. Rebate guarantees, performance standards, and audit rights all turn into recovered dollars when a structured audit follows.
+
+Ginny Crisp walks through the contract clauses and audit pattern that produced a six-figure recovery.
+
+#PharmacyBenefits #PBMAudit #ContractLanguage #SelfFundedEmployers
+
+---
+
 ## Post 82 - Wednesday 8:30 AM
 ### "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" (Strong POV Text)
 
@@ -521,6 +535,20 @@ The mid-year claims briefing covers why the first-half data window is the most v
 | Gray | #4D4D4D | Sub-text, disclaimer |
 | Light Gray | #E0E0E0 | Alternating row backgrounds |
 | White | #FFFFFF | Overall background, alternating rows |
+
+---
+
+## Post 83 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+Your claims data is already telling you what your renewal will look like. Specialty shifts, generic rate erosion, and rebate drift all show up before the PBM calls.
+
+Ginny Crisp maps the five mid-year patterns to watch and the interventions that change the outcome.
+
+#PharmacyBenefits #ClaimsReview #Renewal #SelfFundedEmployers
 
 ---
 

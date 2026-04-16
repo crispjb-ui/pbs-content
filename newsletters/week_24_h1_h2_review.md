@@ -341,6 +341,20 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 85 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+"Competitive discounts." "Reasonable rebate sharing." "Standard reporting." Vague contract language gives the PBM discretion your plan does not have to accept.
+
+Ginny Crisp walks through the precise contract language that turned ambiguous guarantees into measurable, auditable outcomes for self-funded plans.
+
+#PharmacyBenefits #PBMContracts #ContractLanguage #SelfFundedEmployers
+
+---
+
 ## Post 86 - Wednesday 8:30 AM
 ### "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." (Strong POV Text)
 
@@ -488,6 +502,20 @@ The H1/H2 briefing covers the full assessment framework and renewal positioning 
 3. Alternating #015880 and #FFFFFF backgrounds
 4. One Accent Blue element per slide
 5. Export 1080 x 1350 px each
+
+---
+
+## Post 87 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+Your PBM already has your H1 numbers modeled. Per-member-per-month trend, guarantee performance, specialty concentration, and rebate position all shape what they will propose at renewal.
+
+Ginny Crisp walks through the five metrics every plan sponsor should measure before the PBM conversation starts.
+
+#PharmacyBenefits #H1Review #Renewal #SelfFundedEmployers
 
 ---
 

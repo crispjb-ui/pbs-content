@@ -340,6 +340,22 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 97 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Rising invoices without rising utilization. Stonewalling on audit requests. Renewal proposals that skip the market question.
+
+These are the signals that a PBM relationship has stopped working for the plan.
+
+Ginny Crisp covers the five signs and the broker conversation they should trigger.
+
+#PharmacyBenefits #PBM #Renewal #SelfFundedEmployers
+
+---
+
 ## Post 98 - Wednesday 10:00 AM
 ### "Switching PBMs is disruptive. Staying with the wrong one is expensive." (Strong POV Text)
 
@@ -444,6 +460,20 @@ The full PBM evaluation scorecard with weighted scoring criteria is in this week
 **Bottom Bar:** Accent Blue. "Score before you negotiate." PBS logo, team@rxbs.org.
 
 **Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan."
+
+---
+
+## Post 99 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+A PBM evaluation is not a gut call. Pricing, rebate transparency, clinical programs, contract flexibility, and specialty management all belong on the scorecard.
+
+Ginny Crisp walks through the 10-factor framework that tells plan sponsors whether to optimize, renegotiate, or go to market.
+
+#PharmacyBenefits #PBM #Renewal #SelfFundedEmployers
 
 ---
 

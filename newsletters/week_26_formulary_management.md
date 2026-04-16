@@ -315,6 +315,22 @@ More in this week's Pharmacy Benefits Briefing on formulary management: [LINKEDI
 
 ---
 
+## Post 93 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Most employers never decided which drugs sit on their formulary. The PBM did, using rebate math the plan sponsor rarely sees.
+
+Higher rebate does not always mean lower net cost.
+
+Ginny Crisp walks through how to ask for the net cost analysis that exposes the difference.
+
+#PharmacyBenefits #Formulary #Rebates #Transparency
+
+---
+
 ## Post 94 - Wednesday 10:00 AM
 ### "Your formulary was built for your PBM's rebate strategy." (Strong POV Text / VIDEO TEST #1)
 
@@ -466,6 +482,20 @@ The full formulary management analysis and field note on three questions your PB
 4. Red annotations: #C0392B, hand-drawn style
 5. "CONTRACT REVIEW" stamp: Caveat Bold, 14pt, rotated -8 degrees, red
 6. Export all slides as PNG, 1080 x 1350 px
+
+---
+
+## Post 95 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Formulary evaluation is not about which drugs are on the list. It is about how tier placement, rebate flow, and clinical criteria get decided.
+
+Ginny Crisp walks through the contract language that distinguishes a PBM-controlled formulary from one the plan sponsor can actually steer.
+
+#PharmacyBenefits #Formulary #PBMContracts #SelfFundedEmployers
 
 ---
 

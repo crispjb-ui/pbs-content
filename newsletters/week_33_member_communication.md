@@ -224,6 +224,22 @@ The communication determines whether the change is accepted or resisted. Same de
 
 ---
 
+## Post 121 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+A clinically sound, financially justified change can still land as "they are taking away my medication" if the message is wrong.
+
+Formulary changes, biosimilar transitions, and PA implementations each carry their own communication risk.
+
+Ginny Crisp covers what members hear versus what employers intend.
+
+#PharmacyBenefits #MemberCommunication #BenefitChanges #SelfFundedEmployers
+
+---
+
 ## Post 122 - Wednesday 10:00 AM
 ### Strong POV Text (~230 words)
 
@@ -260,6 +276,20 @@ The fix is not better clinical rationale. It is better messaging. Specific. Earl
 **Slide 5:** "STEP 4: Follow-Up Reminder" "7-10 days before. Short. Reassuring. Action steps clear."
 **Slide 6:** "LANGUAGE THAT WORKS vs. LANGUAGE THAT BACKFIRES" Two columns. Works: "FDA-approved," "your doctor has been informed," "same or lower copay." Backfires: "cost savings initiative," "cheaper alternative," "you must switch."
 **Slide 7:** Primary Blue bg. "Communication is not the afterthought. It is the implementation." team@rxbs.org
+
+---
+
+## Post 123 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Provider notification first. Member notification second. Call center briefed third. Follow-up last. The sequence matters more than the letter itself.
+
+Ginny Crisp walks through the communication checklist that turns a clinically sound pharmacy change into one members actually accept without the backlash.
+
+#PharmacyBenefits #MemberCommunication #BenefitChanges #SelfFundedEmployers
 
 ---
 

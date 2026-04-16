@@ -341,6 +341,20 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 49 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Five specialty drug categories are driving most of the pharmacy spend growth. Each requires a different management strategy.
+
+Ginny Crisp walks through oncology, autoimmune, GLP-1s, and rare and gene therapies, and what each means for self-funded plan cost containment.
+
+#PharmacyBenefits #SpecialtyDrugs #CostContainment #SelfFundedEmployers
+
+---
+
 ## Post 50 - Wednesday 8:30 AM
 ### "The Provider Paid $20. Your Plan Paid $100. For the Same Drug." (Strong POV Text)
 
@@ -406,6 +420,20 @@ Full analysis of the 340B pricing gap in this week's Pharmacy Benefits Briefing:
 - Side note: "Is this visible in your claims data?"
 - Bottom: "Ask your PBM: Do you identify 340B claims?"
 - Informal fonts, slightly uneven, annotation-style callouts
+
+---
+
+## Post 51 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 51 words
+
+#### Reshare Copy
+
+Providers acquire 340B drugs at 25-50% discount. Plans get billed at standard rates. The spread becomes provider revenue, and most employers never see it in their claims data.
+
+Ginny Crisp maps the 340B pricing gap and the questions to ask your PBM to make it visible.
+
+#PharmacyBenefits #340B #Transparency #SelfFundedEmployers
 
 ---
 

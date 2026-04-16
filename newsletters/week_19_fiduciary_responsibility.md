@@ -378,6 +378,20 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 65 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+A PBM audit that only covers claims pricing misses most of the money. Rebates, clinical programs, network design, and performance guarantees all belong in scope.
+
+Ginny Crisp walks through the six areas a complete audit should cover and why partial audits miss the biggest findings.
+
+#PharmacyBenefits #PBMAudit #Fiduciary #SelfFundedEmployers
+
+---
+
 ## Post 66 - Wednesday 8:30 AM
 ### "You Are an ERISA Fiduciary. Most Employers Do Not Act Like It." (Strong POV Text)
 
@@ -457,6 +471,22 @@ The full fiduciary framework is in this week's Pharmacy Benefits Briefing: [LINK
 **Footer annotation:** "Missing one node weakens the entire framework"
 
 **Style:** Slightly imperfect, whiteboard-sketch aesthetic with PBS brand colors (#015880 primary, #A7E0FA accent)
+
+---
+
+## Post 67 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+ERISA fiduciary duty is not about making perfect decisions. It is about documenting a prudent process.
+
+Most employers cannot produce the paper trail their PBM selection would require if challenged.
+
+Ginny Crisp walks through the six documentation categories every plan sponsor should maintain.
+
+#PharmacyBenefits #Fiduciary #ERISA #SelfFundedEmployers
 
 ---
 

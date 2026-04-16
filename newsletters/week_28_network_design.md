@@ -263,6 +263,22 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 101 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Same drug. Retail is one price. Mail order is different. Specialty is another entirely. Same PBM managing all three channels.
+
+Where your members fill often costs the plan more than what they fill.
+
+Ginny Crisp breaks down the five-channel cost model most employers have never compared.
+
+#PharmacyBenefits #NetworkDesign #PBM #CostContainment
+
+---
+
 ## Post 102 - Wednesday 10:00 AM
 ### "Same drug. Retail: one price. Mail order: different price. Specialty: another." (Strong POV Text / VIDEO TEST #2)
 
@@ -376,6 +392,20 @@ Full network cost comparison model in this week's Pharmacy Benefits Briefing. Fo
 - White: "One data request reveals the story."
 - Accent Blue: "Net cost per script. By channel. Top 10 drugs."
 - team@rxbs.org | Benefit Blind Spots | PBS logo
+
+---
+
+## Post 103 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Retail, mail order, specialty, white bagging, home infusion. Five dispensing channels, five different cost structures, and most plan sponsors have never compared them side by side.
+
+Ginny Crisp maps the channels, the cost patterns, and the single data request that reveals the real picture.
+
+#PharmacyBenefits #NetworkDesign #CostContainment #SelfFundedEmployers
 
 ---
 

@@ -240,6 +240,22 @@ For clinically stable members on maintenance therapies, the lower-cost settings 
 
 ---
 
+## Post 109 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Same drug. Same dose. Same clinical protocol. Four different settings, four very different costs to your plan.
+
+The default routing to hospital outpatient infusion is inertia, not medicine.
+
+Ginny Crisp walks through the site-of-care cost ladder and the clinical decisions employers should revisit.
+
+#PharmacyBenefits #SiteOfCare #CostContainment #InfusionTherapy
+
+---
+
 ## Post 110 - Wednesday 10:00 AM
 ### Strong POV Text / VIDEO TEST #3
 
@@ -305,6 +321,20 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 **Slide 5:** "HOME INFUSION - $" Green. "Lowest cost. No facility fees. Member convenience." Annotation: "Clinically stable + established therapy + consent."
 **Slide 6:** "THE DECISION TREE" Hand-drawn flow: "Clinically stable?" → Yes → "REMS restrictions?" → No → "Alternative available?" → Yes → "Cost differential meaningful?" → Yes → "TRANSITION."
 **Slide 7:** Primary Blue bg. "One analysis: top infusion drugs, total cost by setting." team@rxbs.org
+
+---
+
+## Post 111 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion. Four settings, one decision tree, and substantial cost differences between them.
+
+Ginny Crisp walks through the clinical and cost criteria that determine which setting fits each therapy, and how to move members off default routing.
+
+#PharmacyBenefits #SiteOfCare #ClinicalPharmacy #CostContainment
 
 ---
 

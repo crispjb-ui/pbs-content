@@ -286,6 +286,20 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 105 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+The manufacturer pays the rebate. Your contract decides what happens next. How it is defined, which claims count, what percentage passes through, and when the plan gets paid are all written into the language.
+
+Ginny Crisp maps the dollar and the eight provisions that control it.
+
+#PharmacyBenefits #Rebates #PBMContracts #Transparency
+
+---
+
 ## Post 106 - Wednesday 10:00 AM
 ### Strong POV Text (~230 words)
 
@@ -345,6 +359,20 @@ Full rebate contract analysis in this week's Pharmacy Benefits Briefing. For reb
 **Slide 6 - What to Check:** Three hand-drawn checkboxes: "Rebate definition (broad or narrow?)" / "Eligible claims (specialty included?)" / "True-up provision (exists?)"
 
 **Slide 7 - CTA:** Primary Blue background. White: "Pull your contract. Find these 8 provisions." Accent Blue: "The comparison speaks for itself." team@rxbs.org
+
+---
+
+## Post 107 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Pass-through. Traditional. Hybrid. Three rebate models, three different places the PBM's margin lives, and the label in your contract may not match the economics.
+
+Ginny Crisp compares the three models and the eight contract provisions that determine what your plan actually receives.
+
+#PharmacyBenefits #Rebates #PBMContracts #Transparency
 
 ---
 

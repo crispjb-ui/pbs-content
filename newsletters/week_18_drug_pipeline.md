@@ -410,6 +410,22 @@ A clean, professional vertical infographic at 1080 x 1350 pixels with a white ba
 
 ---
 
+## Post 61 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 46 words
+
+#### Reshare Copy
+
+The GLP-1 landscape shifted in 90 days. Formulations, indications, payer policies, and competitive positioning all changed.
+
+If your GLP-1 strategy was built six months ago, it is already out of date.
+
+Ginny Crisp maps what shifted and what employers should revisit now.
+
+#PharmacyBenefits #GLP1 #CostContainment #SelfFundedEmployers
+
+---
+
 ## Post 62 - Wednesday 8:30 AM
 ### "One drug. One patient. One claim. $2.1 million." Tease Hook (Text)
 
@@ -540,6 +556,20 @@ The full pipeline preparation framework is in this week's Pharmacy Benefits Brie
 - team@rxbs.org | Benefit Blind Spots | PBS logo (white, 60px)
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+---
+
+## Post 63 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 45 words
+
+#### Reshare Copy
+
+Gene therapy. Oncology combinations. Rare disease approvals. The 2026-2027 pipeline is stacking high-cost, low-volume claims that most plans are not financially positioned for.
+
+Ginny Crisp walks through the categories to watch and the prep steps to take before the claims arrive.
+
+#PharmacyBenefits #DrugPipeline #SpecialtyDrugs #CostContainment
 
 ---
 

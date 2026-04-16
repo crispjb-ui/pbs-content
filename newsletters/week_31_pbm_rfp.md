@@ -244,6 +244,22 @@ Standard RFPs ask questions PBMs can spin. These questions force commitment. The
 
 ---
 
+## Post 113 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+Standard RFP questions have standard answers PBMs rehearse. The questions that force specificity are different.
+
+AWP source, ingredient vs. total claim, specialty rebate treatment, audit methodology, termination terms, and raw data access all separate the real answers from the marketing.
+
+Ginny Crisp breaks down the questions.
+
+#PharmacyBenefits #PBMRFP #ContractNegotiation #SelfFundedEmployers
+
+---
+
 ## Post 114 - Wednesday 10:00 AM
 ### Strong POV Text (~230 words)
 
@@ -291,6 +307,20 @@ RFP development. Distribution. Response evaluation. Finalist presentations. Sele
 **Slide 5:** "WEEKS 9-10: Finalist Presentations" "Ask follow-up questions from scoring. Watch for vague answers."
 **Slide 6:** "WEEKS 11-16: Contract Negotiation" "Every provision matters. Do not rush this phase." Annotation: "The contract defines the relationship for 2-3 years."
 **Slide 7:** Primary Blue bg. "Total: 4-6 months from RFP to go-live." "Starting now for January 1? You are on time." team@rxbs.org
+
+---
+
+## Post 115 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+A PBM RFP is not a template download. It is a four to six month sequence where development, evaluation, and contract negotiation each take longer than planned.
+
+Ginny Crisp walks through the phase-by-phase timeline and the weeks where most evaluations go sideways.
+
+#PharmacyBenefits #PBMRFP #Timeline #SelfFundedEmployers
 
 ---
 

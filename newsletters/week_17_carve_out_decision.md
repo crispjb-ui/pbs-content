@@ -347,6 +347,20 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 ---
 
+## Post 57 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 48 words
+
+#### Reshare Copy
+
+The rebate guarantee your PBM promised may not match the rebate your plan actually receives. The gap between "collected" and "passed through" is where admin fees, aggregation fees, and market access fees live.
+
+Ginny Crisp walks through how to read the flow and close the gap.
+
+#PharmacyBenefits #Rebates #PBMContracts #Transparency
+
+---
+
 ## Post 58 - Wednesday 8:30 AM
 ### "Your PBM Does Not Want You to Know Carve-Out Is an Option" (Strong POV Text)
 
@@ -502,6 +516,20 @@ The full carve-out decision framework is in this week's Pharmacy Benefits Briefi
 - White handwritten: "Default is not a strategy."
 - Accent Blue: "Evaluate. Then decide."
 - team@rxbs.org | Benefit Blind Spots | PBS logo (white, 60px)
+
+---
+
+## Post 59 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Carve-in or carve-out is the most expensive structural decision in pharmacy benefits. Most employers made it by default, not by evaluation.
+
+Ginny Crisp walks through the scoring framework for deciding which model fits your plan, your data, and your administrative capacity.
+
+#PharmacyBenefits #CarveOut #PBMContracts #SelfFundedEmployers
 
 ---
 

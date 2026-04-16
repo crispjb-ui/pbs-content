@@ -358,6 +358,20 @@ More in this week's Pharmacy Benefits Briefing on the 90-day renewal window: [LI
 
 ---
 
+## Post 89 Company Reshare - Tuesday 1:30 PM
+
+**Word Count:** 49 words
+
+#### Reshare Copy
+
+The best brokers do not wait for renewal season to start preparing. Benchmarking, clinical program review, and stop-loss coordination all happen months before the PBM proposal lands.
+
+Ginny Crisp covers what advisory teams doing the work right now look like, and what that preparation produces.
+
+#PharmacyBenefits #Renewal #Brokers #SelfFundedEmployers
+
+---
+
 ## Post 90 - Wednesday 8:30 AM
 ### "Your PBM renewal is 90 days away. Your preparation should have started yesterday." (Strong POV Text)
 
@@ -517,6 +531,20 @@ The full 90-day renewal preparation timeline is in this week's Pharmacy Benefits
 | Accent Blue | #A7E0FA | Phase labels, highlights, bottom banner |
 | Gray | #4D4D4D | Bullet text, annotations, disclaimer |
 | Off-white | #F5F5F0 | Background |
+
+---
+
+## Post 91 Company Reshare - Thursday 1:30 PM
+
+**Word Count:** 47 words
+
+#### Reshare Copy
+
+Renewal preparation is not a single event. It is a month-by-month sequence with milestones that build leverage or lose it.
+
+Ginny Crisp maps the renewal timeline from data pull to signature, and the decisions each month should produce before the PBM sends their proposal.
+
+#PharmacyBenefits #Renewal #PBMContracts #SelfFundedEmployers
 
 ---
 
