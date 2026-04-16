@@ -95,23 +95,23 @@
 
 ## Preview Image Prompt
 
-**Dimensions:** 1200 x 600 px
+**Dimensions:** 2240 x 1260 px
 **Template:** Wednesday Roundup (Accent Blue background)
 
 **Prompt:**
 
-A clean, professional flat-design digital graphic at 1200 x 600 pixels with a solid Accent Blue (#A7E0FA) background. No logos, no badges, no newsletter names, no watermarks, no signatures. On the left side, large bold sans-serif text in deep teal-blue (#015880), 36-48pt: "WHAT CROSSED MY DESK." Directly below in smaller sans-serif Gray (#4D4D4D) text, 20-24pt: "[Publish date, e.g., July 8, 2026]." On the right side, arrange 3-4 simple flat-style icons in deep teal-blue (#015880) outline representing the week's story categories (choose from: pill bottle, dollar sign, contract/document with fold, DNA helix, gavel, shield, bar chart, building/hospital, stethoscope). Icons should be clean geometric shapes with even line weight, sized roughly 100-140px each, arranged with generous spacing. Flat corporate infographic style with no gradients, no 3D, no shadows, no realistic elements, no photographs, no illustrations of people. Color palette strictly: Accent Blue (#A7E0FA) background, deep teal-blue (#015880), Gray (#4D4D4D) only.
+A clean, professional flat-design digital graphic at 2240 x 1260 pixels with a solid Accent Blue (#A7E0FA) background. No logos, no badges, no newsletter names, no watermarks, no signatures. On the left side, large bold sans-serif text in deep teal-blue (#015880), 72-96pt: "WHAT CROSSED MY DESK." Directly below in smaller sans-serif Gray (#4D4D4D) text, 40-48pt: "[Publish date, e.g., July 8, 2026]." On the right side, arrange 3-4 simple flat-style icons in deep teal-blue (#015880) outline representing the week's story categories (choose from: pill bottle, dollar sign, contract/document with fold, DNA helix, gavel, shield, bar chart, building/hospital, stethoscope). Icons should be clean geometric shapes with even line weight, sized roughly 200-280px each, arranged with generous spacing. Flat corporate infographic style with no gradients, no 3D, no shadows, no realistic elements, no photographs, no illustrations of people. Color palette strictly: Accent Blue (#A7E0FA) background, deep teal-blue (#015880), Gray (#4D4D4D) only.
 
 **Post-Generation Steps:**
 
 Newsletter branding (Benefit Blind Spots badge, PBS logo) is added manually in Canva because AI renders logos inconsistently.
 
 1. Generate the base image using the prompt above
-2. Open in Canva at 1200 x 600 px
+2. Open in Canva at 2240 x 1260 px
 3. If AI-generated title or date text is misspelled or misaligned, overlay correct text in Krona One (title) and Roboto (date) using the same colors
 4. If AI-generated icons look off, swap in Canva's flat icon library using the same color (#015880)
-5. Top-left corner: add "Benefit Blind Spots" text badge in Roboto Bold, 16-18pt, deep teal-blue (#015880)
-6. Bottom-right: add PBS logo (dark version), 80-100px width
+5. Top-left corner: add "Benefit Blind Spots" text badge in Roboto Bold, 32-36pt, deep teal-blue (#015880)
+6. Bottom-right: add PBS logo (dark version), 160-200px width
 7. Verify readability at thumbnail size
 8. Export as PNG
 

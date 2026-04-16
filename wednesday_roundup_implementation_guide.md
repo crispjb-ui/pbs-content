@@ -361,7 +361,7 @@ Reach out at team@rxbs.org."
 
 ## Preview Image Prompt (at end of file)
 Write a Canva/AI image generation prompt for the header image:
-- Dimensions: 1200 x 600 px
+- Dimensions: 2240 x 1260 px
 - Background: Accent Blue (#A7E0FA)
 - "WHAT CROSSED MY DESK" in deep teal-blue (#015880) Krona One
 - Publish date in Gray (#4D4D4D) Roboto
