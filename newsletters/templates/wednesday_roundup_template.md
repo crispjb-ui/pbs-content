@@ -100,17 +100,21 @@
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid Accent Blue (#A7E0FA) background. Top-left in deep teal-blue (#015880) sans-serif bold text (Krona One equivalent, 36-48pt): "WHAT CROSSED MY DESK." Below in Gray (#4D4D4D) sans-serif text (Roboto equivalent, 20-24pt): "[Publish date, e.g., July 8, 2026]." On the right side, 3-4 small flat-design icons in deep teal-blue (#015880) outline representing this week's story categories (choose from: pill bottle, dollar sign, contract/document, DNA helix, gavel, shield, chart, building, stethoscope). Icons arranged vertically, each ~40-50px. A "Benefit Blind Spots" text badge in deep teal-blue (#015880) Roboto Bold (16-18pt) in the top-left corner above the title. PBS logo (dark version) bottom-right, 80-100px width. No photographs, no realistic elements. Flat corporate infographic style. Color palette: Accent Blue (#A7E0FA), deep teal-blue (#015880), Gray (#4D4D4D) only.
+A clean, professional flat-design digital graphic at 1200 x 600 pixels with a solid Accent Blue (#A7E0FA) background. No text, no words, no letters, no numbers, no logos, no badges, no watermarks of any kind. Center-right, arrange 3-4 simple flat-style icons in deep teal-blue (#015880) outline representing the week's story categories (choose from: pill bottle, dollar sign, contract/document with fold, DNA helix, gavel, shield, bar chart, building/hospital, stethoscope). Icons should be clean geometric shapes with even line weight, sized roughly 100-140px each, arranged in a loose horizontal or staggered composition with generous spacing. Leave the left third of the canvas as clear negative space for text to be added later. Flat corporate infographic style with no gradients, no 3D, no shadows, no realistic elements, no photographs, no illustrations of people. Color palette strictly: Accent Blue (#A7E0FA) background, deep teal-blue (#015880) icons only.
 
 **Post-Generation Steps:**
-1. Generate base image using prompt above
+
+Text and branding are added manually in Canva after generation (AI renders text and logos inconsistently, so we keep the AI prompt text-free).
+
+1. Generate the base image using the prompt above
 2. Open in Canva at 1200 x 600 px
-3. Replace placeholder text with this week's publish date
-4. Select 3-4 icons matching this week's story categories
-5. Add "Benefit Blind Spots" badge top-left
-6. Add PBS logo (dark version) bottom-right
-7. Verify readability at thumbnail size
-8. Export as PNG
+3. Top-left, add "WHAT CROSSED MY DESK" in Krona One, 36-48pt, deep teal-blue (#015880)
+4. Below that, add this week's publish date (e.g., "July 8, 2026") in Roboto, 20-24pt, Gray (#4D4D4D)
+5. Top-left corner above the title: add "Benefit Blind Spots" text badge in Roboto Bold, 16-18pt, deep teal-blue (#015880)
+6. Bottom-right: add PBS logo (dark version), 80-100px width
+7. If AI-generated icons look off, swap in Canva's flat icon library using the same color (#015880)
+8. Verify readability at thumbnail size
+9. Export as PNG
 
 ---
 
