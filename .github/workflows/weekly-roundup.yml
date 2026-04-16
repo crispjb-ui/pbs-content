@@ -49,6 +49,18 @@ jobs:
           echo "date_file=$(TZ=America/New_York date +%Y_%m_%d)" >> "$GITHUB_OUTPUT"
           echo "stamp=$(TZ=America/New_York date +'%Y-%m-%d %H:%M %Z')" >> "$GITHUB_OUTPUT"
 
+      - name: Set up Python
+        if: steps.guard.outputs.should_run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch RSS feeds
+        if: steps.guard.outputs.should_run == 'true'
+        run: |
+          pip install feedparser
+          python .github/scripts/fetch_rss.py
+
       - name: Generate roundup draft with Claude
         if: steps.guard.outputs.should_run == 'true'
         uses: anthropics/claude-code-action@v1
