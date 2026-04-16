@@ -1,4 +1,4 @@
-# What Crossed My Desk This Week: [DATE RANGE]
+# What Crossed My Desk This Week: [PUBLISH DATE]
 
 **Subtitle:** [SEO-optimized, 40-60 characters, specific to this week's stories]
 
@@ -86,7 +86,7 @@
 
 ## Article Meta
 
-**SEO Title:** What Crossed My Desk This Week: [Date Range] | Benefit Blind Spots
+**SEO Title:** What Crossed My Desk This Week: [Publish Date] | Benefit Blind Spots
 **SEO URL Slug:** what-crossed-my-desk-[YYYY-MM-DD]
 **Meta Description:** [1-2 sentence summary referencing the top story. Example: "FDA biosimilar approval, PBM lawsuit update, and three more stories self-funded employers need on their radar this week."]
 **Tags:** pharmacy benefits news, PBM, self-funded employers, weekly roundup, drug pricing, [2-3 topic-specific tags based on this week's stories]
@@ -100,12 +100,12 @@
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid Accent Blue (#A7E0FA) background. Top-left in deep teal-blue (#015880) sans-serif bold text (Krona One equivalent, 36-48pt): "WHAT CROSSED MY DESK." Below in Gray (#4D4D4D) sans-serif text (Roboto equivalent, 20-24pt): "[Week date range, e.g., July 7-11, 2026]." On the right side, 3-4 small flat-design icons in deep teal-blue (#015880) outline representing this week's story categories (choose from: pill bottle, dollar sign, contract/document, DNA helix, gavel, shield, chart, building, stethoscope). Icons arranged vertically, each ~40-50px. A "Benefit Blind Spots" text badge in deep teal-blue (#015880) Roboto Bold (16-18pt) in the top-left corner above the title. PBS logo (dark version) bottom-right, 80-100px width. No photographs, no realistic elements. Flat corporate infographic style. Color palette: Accent Blue (#A7E0FA), deep teal-blue (#015880), Gray (#4D4D4D) only.
+A clean, professional digital graphic at 1200 x 600 pixels with a solid Accent Blue (#A7E0FA) background. Top-left in deep teal-blue (#015880) sans-serif bold text (Krona One equivalent, 36-48pt): "WHAT CROSSED MY DESK." Below in Gray (#4D4D4D) sans-serif text (Roboto equivalent, 20-24pt): "[Publish date, e.g., July 8, 2026]." On the right side, 3-4 small flat-design icons in deep teal-blue (#015880) outline representing this week's story categories (choose from: pill bottle, dollar sign, contract/document, DNA helix, gavel, shield, chart, building, stethoscope). Icons arranged vertically, each ~40-50px. A "Benefit Blind Spots" text badge in deep teal-blue (#015880) Roboto Bold (16-18pt) in the top-left corner above the title. PBS logo (dark version) bottom-right, 80-100px width. No photographs, no realistic elements. Flat corporate infographic style. Color palette: Accent Blue (#A7E0FA), deep teal-blue (#015880), Gray (#4D4D4D) only.
 
 **Post-Generation Steps:**
 1. Generate base image using prompt above
 2. Open in Canva at 1200 x 600 px
-3. Replace placeholder text with this week's date range
+3. Replace placeholder text with this week's publish date
 4. Select 3-4 icons matching this week's story categories
 5. Add "Benefit Blind Spots" badge top-left
 6. Add PBS logo (dark version) bottom-right

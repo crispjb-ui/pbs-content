@@ -329,7 +329,7 @@ and targeted web search:
 
 2. Write the article following this exact structure:
 
-TITLE: What Crossed My Desk This Week: [Date Range]
+TITLE: What Crossed My Desk This Week: [Publish Date]
 SUBTITLE: [SEO-optimized, 40-60 characters]
 
 OPENING (2-3 sentences): Brief personal framing. "Four stories this
@@ -364,7 +364,7 @@ Write a Canva/AI image generation prompt for the header image:
 - Dimensions: 1200 x 600 px
 - Background: Accent Blue (#A7E0FA)
 - "WHAT CROSSED MY DESK" in deep teal-blue (#015880) Krona One
-- Week date range in Gray (#4D4D4D) Roboto
+- Publish date in Gray (#4D4D4D) Roboto
 - 3-4 small flat icons representing that week's story categories
 - "Benefit Blind Spots" badge top-left
 - PBS logo bottom-right (dark version)
@@ -458,7 +458,7 @@ Every file lands on main. No branches to check. Look in `newsletters/roundups/` 
 
 The image prompt does not change week-to-week. The template in `newsletters/templates/wednesday_roundup_template.md` contains the full static prompt. Only two variables change each week:
 
-1. **Date range** (e.g., "July 7-11, 2026")
+1. **Publish date** (e.g., "July 8, 2026")
 2. **Icon selection** (pick 3-4 from the fixed list: pill bottle, dollar sign, contract/document, DNA helix, gavel, shield, chart, building, stethoscope)
 
 Everything else (background color, typography, logo, badge placement, flat style) is identical every week. The routine just fills in the two variables and references the template rather than rewriting the prompt from scratch.
