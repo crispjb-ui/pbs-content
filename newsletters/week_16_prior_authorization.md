@@ -5,7 +5,7 @@
 
 ## COPY-PASTE READINESS
 
-**Monday Substack article:** Copy-paste ready. Includes the PA ROI audit rubric and the per-PA fee range table. No integration work needed.
+**Monday Substack article:** Copy-paste ready. The two rubric sections (PA fee structure, Green/Yellow/Red scoring) are formatted as labeled lists rather than markdown tables because Substack's paste import does not render markdown tables. If you want the scoring rubric as a visual table in the final post, build it in the Substack editor after pasting: Insert > Table > 4 columns x 6 rows, then fill in Metric / Green / Yellow / Red across the top row and the five metrics down.
 
 **Monday LinkedIn Newsletter:** Copy-paste ready. CTA references the PA ROI audit template.
 
@@ -112,11 +112,9 @@ Those are your candidates for PA removal or gold card exemption.
 
 Now calculate the cost side. Start with PBM fees for PA processing. In our contract reviews we see three common structures:
 
-| Review type | Typical per-PA fee |
-|-------------|-------------------|
-| Administrative PA review (no clinical review required) | $25 to $40 |
-| Clinical pharmacist review | $60 to $80 |
-| "Included" in the admin fee (no separate line item) | Not visible without a fee transparency clause |
+- **Administrative PA review** (no clinical review required): $25 to $40 per PA
+- **Clinical pharmacist review**: $60 to $80 per PA
+- **"Included" in the admin fee** (no separate line item): Not visible without a fee transparency clause
 
 The third structure is the one that causes the most trouble. If your PA cost is bundled into your admin fee, you cannot audit it. You cannot benchmark it. You cannot tell how much of your administrative spend is actually review work versus everything else your admin fee is supposed to cover. A fee transparency clause that requires itemized reporting is the fix. If you do not have one, that belongs on the next contract redline.
 
@@ -124,13 +122,30 @@ Add internal staff time managing requests and member complaints. Add provider re
 
 Score your program against these benchmarks:
 
-| Metric | Green | Yellow | Red |
-|--------|-------|--------|-----|
-| Overall approval rate | 70-85% | 85-95% | >95% (rubber stamp) or <70% (too restrictive) |
-| Average turnaround | <24 hours | 24-72 hours | >72 hours |
-| Appeal overturn rate | <25% | 25-50% | >50% (initial criteria too tight) |
-| Therapy abandonment | <5% | 5-15% | >15% |
-| Top 20 drugs with >90% approval | 0-3 drugs | 4-8 drugs | >8 drugs (remove PA from these) |
+**Overall approval rate**
+- Green: 70-85%
+- Yellow: 85-95%
+- Red: Above 95% (rubber stamp) or below 70% (too restrictive)
+
+**Average turnaround time**
+- Green: Under 24 hours
+- Yellow: 24 to 72 hours
+- Red: Over 72 hours
+
+**Appeal overturn rate**
+- Green: Under 25%
+- Yellow: 25 to 50%
+- Red: Over 50% (initial criteria too tight)
+
+**Therapy abandonment**
+- Green: Under 5%
+- Yellow: 5 to 15%
+- Red: Over 15%
+
+**Top 20 drugs with approval rate above 90%**
+- Green: 0 to 3 drugs
+- Yellow: 4 to 8 drugs
+- Red: More than 8 drugs (remove PA from these)
 
 *Illustrative example for educational purposes. Actual metrics vary by plan.*
 
