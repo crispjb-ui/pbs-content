@@ -344,6 +344,27 @@ Preparation is the strategy. Renewal is just the meeting.
 
 ---
 
+### Thursday Evergreen Rotation (Slot C) - 5 Questions About PBM Performance Guarantees
+
+- **Slot:** C
+- **Format:** Carousel (6 slides)
+- **Pillar:** Transparency & Industry Education
+- **Topic:** 5 Questions About PBM Performance Guarantees
+- **Hook:** "Performance guarantees sound like commitments. Five questions reveal whether they are enforceable, measurable, or just marketing."
+
+**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+- Slide 1 (Hook): "5 Questions About PBM Performance Guarantees." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What is the measurement methodology for each guarantee?" Why it matters: the methodology is the guarantee. "GER of 88%" means nothing without the definition of GER, the claim set, and the calculation window.
+- Slide 3 (Q2): "What is the remedy if a guarantee is missed, and is there a cap?" Why it matters: a guarantee with a capped remedy is a capped risk for the PBM. The cap is the real commitment.
+- Slide 4 (Q3): "Who calculates guarantee performance, and can we independently verify?" Why it matters: if the PBM calculates and reports, the guarantee is self-graded. Independent verification is where guarantees become enforceable.
+- Slide 5 (Q4): "Which claims are excluded from the guarantee calculation?" Why it matters: exclusions are where guarantees lose their teeth. Specialty, compounds, and 340B carve-outs routinely move volume outside the measurement.
+- Slide 6 (Q5): "What is the cure period before remedies apply?" Why it matters: long cure periods let the PBM miss without consequence. Shorter cure periods align incentives with performance.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One enforceable guarantee. Verify the mechanics." team@rxbs.org | Benefit Blind Spots.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
+
+---
+
 ## Post 139 Company Reshare - Thursday 1:30 PM
 
 **Word Count:** 48 words
