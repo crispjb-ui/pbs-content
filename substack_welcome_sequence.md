@@ -9,33 +9,57 @@
 
 ---
 
-## Email 1: Sent Immediately on Subscribe
+## Email 1: Sent Immediately on Subscribe (REPLACES CURRENT LIVE EMAIL)
+
+**Status:** The current live Substack welcome email refers to "every Monday and Thursday" only and describes every issue as 1,200-1,800 words. Both are stale since the Wednesday Roundup launched April 16, 2026. This revised version restores the three-day cadence, sets correct length expectations per day, adds a first-read CTA, and keeps the tactical moves that are working (Gmail/Outlook tip, P.S. share link, reply invitation).
 
 **Subject:** Welcome to Benefit Blind Spots (and one thing to read first)
 
 **Body:**
 
-Thanks for subscribing to Benefit Blind Spots.
+Every Monday, Wednesday, and Thursday, you will receive a piece of pharmacy benefits analysis in your inbox. Not news aggregation. A clinical pharmacist walking through the hidden costs, the contract traps, and the strategies that actually work.
 
-Quick context: I am Ginny Crisp. I am a clinical pharmacist and the CEO of Prescription Benefit Solutions. My team reviews hundreds of PBM contracts annually, and most of what I write here is what we wish every self-funded employer knew before they signed the last one.
+**WHAT TO EXPECT:**
 
-Three things to expect:
+- **Monday deep dive (6-minute read):** The full weekly analysis on one topic, with an integrated tool you can apply to your plan. Scorecards, checklists, audit templates. This is the anchor piece.
+- **Wednesday roundup (3-minute read):** "What Crossed My Desk This Week." Four or five pharmacy benefits news stories curated through the lens of what matters for self-funded employers.
+- **Thursday field note (3-minute read):** Shorter, tactical piece grounded in our current client work. Usually one contract provision or claims pattern.
 
-**Mondays (7:30 AM ET): The weekly deep dive.** Full analysis with an integrated tool you can actually use. Scorecards, checklists, audit templates. The last four Mondays covered audit rights, specialty pharmacy, stop-loss, and 340B.
+Each piece follows a consistent structure: the blind spot, the evidence, the fix, and the broader context at play.
 
-**Wednesdays (7:30 AM ET): What Crossed My Desk.** A short weekly roundup of pharmacy benefits news with my take on what matters for your plan. Not a news aggregator. A clinical pharmacist telling you which stories matter.
+**A QUICK FAVOR:**
 
-**Thursdays (7:30 AM ET): Field Notes.** Shorter tactical pieces grounded in our current client work. Usually around a specific contract provision or utilization pattern.
+To make sure this lands in your Primary inbox:
+- Gmail users: drag this email to your Primary tab
+- Outlook users: add team@rxbs.org to your contacts
 
-One thing to read first: the PBM Contract Language Library. It is free, public, and the single most practical piece on the site. If you are preparing for a renewal, start there.
+**ONE THING TO READ FIRST:**
 
-[Link to Contract Language Library]
+Before the next issue arrives, read the PBM Contract Language Library. It is free, evergreen, and the single most practical piece on the site. If you are preparing for a PBM renewal in the next 12 months, start there.
 
-If you have a specific question about your plan, reply to this email. I read every reply.
+[LINK TO CONTRACT LANGUAGE LIBRARY]
+
+**WHO AM I?**
+
+I am Ginny Crisp, CEO of Prescription Benefit Solutions. I am a pharmacist by training. My team reviews hundreds of PBM contracts each year, and most of what I write here is what we wish every self-funded employer knew before they signed the last one.
+
+This publication is where I share what I have learned, without the jargon and without the sales pitch. The goal is a plan sponsor who walks into renewal season with their own numbers and their own priorities, not reacting to what the PBM is offering.
+
+**QUICK HITS:**
+
+For shorter, executive-level insights, subscribe to my LinkedIn Newsletter: The Pharmacy Benefits Briefing. Same topics, briefing format, Monday morning.
+
+**ONE MORE THING:**
+
+Have a specific topic you want me to cover? A contract clause that confuses you? A PBM practice that does not make sense? Reply to this email. I read everything, and reader questions often become future issues.
+
+See you Monday,
 
 Ginny Crisp, PharmD
-CEO, Prescription Benefit Solutions
+Prescription Benefit Solutions
 team@rxbs.org
+
+P.S. If someone forwarded this to you and you want your own subscription, sign up here: benefitblindspots.substack.com
 
 ---
 
