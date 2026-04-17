@@ -202,6 +202,22 @@ This library is updated quarterly as new patterns emerge from our contract revie
 
 ---
 
+## Further Reading from Benefit Blind Spots
+
+Each section in this library connects to a deeper analysis on the Benefit Blind Spots publication. Selected pieces covering the topics above:
+
+- **Pricing and MAC transparency:** *The Hidden Math: What Your Generic Drug Costs Actually Include* (published February 9, 2026)
+- **Q1 metrics and GER calculation:** *Q1 Review: What to Measure Before Renewal* (published March 23, 2026)
+- **Rebate economics:** *Hidden PBM Revenue: Where Profit Hides in Your Plan* (published March 16, 2026)
+- **Audit rights:** *Audit Rights vs. Audit Reality: What Your PBM Contract Actually Allows* (published March 9, 2026)
+- **Specialty pharmacy routing:** *The Specialty Pharmacy Decision Your PBM Made For You* (published March 30, 2026)
+- **340B claims identification:** *Contract Pharmacy Arrangements: The 340B Variable Employers Miss* (published April 13, 2026)
+- **Prior authorization:** *The Prior Authorization Problem: Balancing Control and Care* (published April 20, 2026)
+
+Additional provision-specific deep dives publish throughout the year. The formulary management, termination and transition, and rebate economics deep dives are scheduled for Q2 and Q3 2026. Subscribe to Benefit Blind Spots to receive them as they go live.
+
+---
+
 *Prescription Benefit Solutions reviews approximately 100 PBM contracts annually. These examples represent common patterns, not specific client contracts.*
 
 *Illustrative examples for educational purposes. Actual contract terms vary by plan, PBM, and market conditions.*
