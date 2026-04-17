@@ -12,7 +12,7 @@
 | Tue Sep 8 | 10:00 AM | LinkedIn Feed | Post 133 - "Contract Language: What They Say vs. What It Means" MESSY INFOGRAPHIC | [ ] |
 | Wed Sep 9 | 10:00 AM | LinkedIn Feed | Post 134 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Sep 10 | 7:30 AM | Substack | Field Note: "Data Ownership and Portability: The Clause That Determines Exit Options" | [ ] |
-| Thu Sep 10 | 10:00 AM | LinkedIn Feed | Post 135 - Contract Language Comparison Contract Markup Carousel (weekly theme) | [ ] |
+| Thu Sep 10 | 10:00 AM | LinkedIn Feed | Post 135 - Same contract language. Different interpretations. Different outcomes. (Carousel, Slot B evergreen rotation) | [ ] |
 | Fri Sep 11 | 10:00 AM | LinkedIn Feed | Post 136 - Tease Hook (teases Week 37) | [ ] |
 
 ---

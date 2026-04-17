@@ -279,6 +279,26 @@ The fix is not better clinical rationale. It is better messaging. Specific. Earl
 
 ---
 
+### Thursday Evergreen Rotation (Slot B) - Same benefit change. Different messaging. Different uptake.
+
+- **Slot:** B
+- **Format:** Carousel (6 slides)
+- **Pillar:** Cost Containment Strategies
+- **Topic:** Same benefit change. Different messaging. Different uptake.
+- **Hook:** "Same biosimilar switch. Same clinical equivalence. Three employers. Three messages. Three uptake rates. The change was not the variable."
+
+**Content outline (Same/Same/Different structure, parallel lines then punchline):**
+- Slide 1 (Hook): "Same benefit change. Different messaging. Different uptake." Swipe indicator in Accent Blue.
+- Slide 2 (Employer A): "Employer A. Letter at 14 days. Drug name only. No provider context. Low uptake."
+- Slide 3 (Employer B): "Employer B. Same change. Letter at 45 days. Clinical rationale explained. Members hear 'FDA-approved, same outcome.' Higher uptake."
+- Slide 4 (Employer C): "Employer C. Same change. Provider notified at 60 days. Member letter at 45 days. Call center briefed. Highest uptake."
+- Slide 5 (Punchline): "Same change. Three messages. Three outcomes. The clinical decision was identical. The communication was not." Accent Blue underline under "communication."
+- Slide 6 (CTA): Primary Blue background. White: "Messaging is implementation. Script it before you send it." team@rxbs.org | Benefit Blind Spots | PBS logo.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
+
+---
+
 ## Post 123 Company Reshare - Thursday 1:30 PM
 
 **Word Count:** 47 words

@@ -14,7 +14,7 @@
 | Tue Sep 2 | 10:00 AM | LinkedIn Feed | Post 129 - "12 Contract Provisions That Determine Renewal" Contract Markup Carousel | [ ] |
 | Wed Sep 3 | 10:00 AM | LinkedIn Feed | Post 130 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Sep 4 | 7:30 AM | Substack | Field Note: "The Termination Clause: Your Most Powerful Negotiating Tool" | [ ] |
-| Thu Sep 4 | 10:00 AM | LinkedIn Feed | Post 131 - Negotiation Leverage Points MESSY INFOGRAPHIC (weekly theme) | [ ] |
+| Thu Sep 4 | 10:00 AM | LinkedIn Feed | Post 131 - 5 Termination Clause Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Fri Sep 5 | 10:00 AM | LinkedIn Feed | Post 132 - Tease Hook (teases Week 36) | [ ] |
 
 ---
@@ -249,7 +249,11 @@ A term sheet that covers all twelve provisions changes the dynamic. Your broker 
 ---
 
 ## Post 131 - Thursday 10:00 AM
-### Negotiation Leverage Points (Messy Infographic) - WEEKLY THEME
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Termination Clause Terms Decoded (Slot A of the evergreen rotation).**
+
+### Negotiation Leverage Points (Messy Infographic) - WEEKLY THEME [REPURPOSED]
 
 **Format:** Messy Infographic
 **Word Count:** ~80 words
@@ -268,6 +272,25 @@ The PBM negotiates from their data advantage. You negotiate from preparation. Th
 
 **Title:** Where Your Negotiating Power Lives
 **Style:** Hand-drawn balance scale. Left side: "PBM's Position" (their data, their scenarios, their timeline). Right side: "Your Position" (your data, your benchmarks, your term sheet, your exit options). Scale tips based on preparation. Annotations: "Preparation is the equalizer."
+
+---
+
+### Thursday Evergreen Rotation (Slot A) - 5 Termination Clause Terms Decoded
+
+- **Slot:** A
+- **Format:** Messy Infographic
+- **Pillar:** PBM Contract Insights
+- **Topic:** 5 Termination Clause Terms Decoded
+- **Hook:** "Your termination clause is your leverage. Five terms decide whether you can actually use it."
+
+**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
+- "Termination for convenience" - PBM means: the right to end the contract without cause. Read it as: a right that often exists only for the PBM, or with notice periods long enough to neutralize the leverage.
+- "Termination for cause" - PBM means: termination tied to a specified breach. Read it as: a right that depends entirely on how "cause" is defined. Narrow definitions render it unusable.
+- "Runoff period" - PBM means: the period after termination during which the PBM continues to process claims. Read it as: the window where your plan is captive to the outgoing PBM's pricing with no competitive pressure.
+- "Early termination fee" - PBM means: fee due if the plan terminates before a defined date. Read it as: an exit cost that can exceed projected savings from switching, neutralizing your leverage before the conversation starts.
+- "Data return obligation" - PBM means: the PBM's duty to return plan data on termination. Read it as: the provision that determines whether your next PBM can actually use your history. Without strong language, migration becomes expensive and slow.
+
+**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 TERMINATION CLAUSE TERMS DECODED." Five stacked rows. Each row: term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
 
 ---
 

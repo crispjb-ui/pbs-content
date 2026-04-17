@@ -12,7 +12,7 @@
 | Tue Aug 25 | 10:00 AM | LinkedIn Feed | Post 125 - "The Specialty Drug Management Gap" MESSY INFOGRAPHIC | [ ] |
 | Wed Aug 26 | 10:00 AM | LinkedIn Feed | Post 126 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Field Note: "Reauthorization Protocols: The Specialty Cost Lever Nobody Discusses" | [ ] |
-| Thu Aug 27 | 10:00 AM | LinkedIn Feed | Post 127 - Specialty Management Assessment One Number Carousel (weekly theme) | [ ] |
+| Thu Aug 27 | 10:00 AM | LinkedIn Feed | Post 127 - 5 Questions About Your Audit Rights (Carousel, Slot C evergreen rotation) | [ ] |
 | Fri Aug 28 | 10:00 AM | LinkedIn Feed | Post 128 - Tease Hook (teases Week 35) | [ ] |
 
 ---
@@ -242,7 +242,11 @@ Start with one question: which of the eight levers has the largest gap on your p
 ---
 
 ## Post 127 - Thursday 10:00 AM
-### Specialty Management Assessment (One Number Carousel) - WEEKLY THEME
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Questions About Your Audit Rights (Slot C of the evergreen rotation).**
+
+### Specialty Management Assessment (One Number Carousel) - WEEKLY THEME [REPURPOSED]
 
 **Format:** One Number Carousel (7 slides) - Template C
 
@@ -255,6 +259,27 @@ Start with one question: which of the eight levers has the largest gap on your p
 **Slide 5 (Blue):** "Above 90" — "Advanced. Maintain and watch for emerging gaps."
 **Slide 6 (White):** "1" — "Start with the lever that matches your highest specialty spend."
 **Slide 7 (Blue):** "Score it before renewal." team@rxbs.org | Benefit Blind Spots
+
+---
+
+### Thursday Evergreen Rotation (Slot C) - 5 Questions About Your Audit Rights
+
+- **Slot:** C
+- **Format:** Carousel (6 slides)
+- **Pillar:** Transparency & Industry Education
+- **Topic:** 5 Questions About Your Audit Rights
+- **Hook:** "Audit rights sound like protection. Read your contract. Most audit clauses are narrow enough that the PBM never has to worry about what you find."
+
+**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+- Slide 1 (Hook): "5 Questions About Your Audit Rights." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What is the exact scope of our audit rights in the contract?" Why it matters: "audit rights" is a category. The scope is the substance. Narrow scopes protect PBM retained revenue.
+- Slide 3 (Q2): "Who chooses the auditor, and who pays for the audit?" Why it matters: if the PBM must approve the auditor, your audit is not independent. If you pay for the audit, the economics discourage you from ever conducting one.
+- Slide 4 (Q3): "How long do we have to audit after a claim is processed?" Why it matters: short look-back windows hide margin retention behind the statute of limitations the contract creates.
+- Slide 5 (Q4): "What is the remedy if an audit finds overcharges?" Why it matters: a right without a remedy is a formality. Remedy clauses determine whether findings become refunds.
+- Slide 6 (Q5): "Can we audit rebate aggregator and affiliate transactions?" Why it matters: this is where retained dollars live. If affiliates are excluded from audit scope, the most important transactions are off-limits.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract clause. Verify before you need it." team@rxbs.org | Benefit Blind Spots.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
 
 ---
 
