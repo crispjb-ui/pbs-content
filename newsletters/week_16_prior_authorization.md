@@ -92,7 +92,17 @@ Then look for low-value PA requirements. Flag any drug where:
 
 Those are your candidates for PA removal or gold card exemption.
 
-Now calculate the cost side. PBM fees for PA processing. Internal staff time managing requests and member complaints. Provider relations impact. Then estimate care delays: average time between prescription and approval, percentage of prescriptions abandoned during the PA process, downstream costs of delayed treatment. Even directional estimates help.
+Now calculate the cost side. Start with PBM fees for PA processing. In our contract reviews we see three common structures:
+
+| Review type | Typical per-PA fee |
+|-------------|-------------------|
+| Administrative PA review (no clinical review required) | $25 to $40 |
+| Clinical pharmacist review | $60 to $80 |
+| "Included" in the admin fee (no separate line item) | Not visible without a fee transparency clause |
+
+The third structure is the one that causes the most trouble. If your PA cost is bundled into your admin fee, you cannot audit it. You cannot benchmark it. You cannot tell how much of your administrative spend is actually review work versus everything else your admin fee is supposed to cover. A fee transparency clause that requires itemized reporting is the fix. If you do not have one, that belongs on the next contract redline.
+
+Add internal staff time managing requests and member complaints. Add provider relations impact. Then estimate care delays: average time between prescription and approval, percentage of prescriptions abandoned during the PA process, downstream costs of delayed treatment. Even directional estimates help.
 
 Score your program against these benchmarks:
 
