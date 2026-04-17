@@ -3,6 +3,26 @@
 
 ---
 
+## COPY-PASTE READINESS
+
+**Monday Substack article:** Copy-paste ready. Includes the PA ROI audit rubric and the per-PA fee range table. No integration work needed.
+
+**Monday LinkedIn Newsletter:** Copy-paste ready. CTA references the PA ROI audit template.
+
+**Tuesday carousel (Post 53):** Copy-paste ready.
+
+**Wednesday text post (Post 54):** Copy-paste ready. **UPDATED** to the $25-40 / $60-80 per-PA fee confrontational hook. The video script option below has been kept for optional use.
+
+**Thursday Field Note (Substack):** Copy-paste ready.
+
+**Thursday visual (Post 55):** **CHANGED.** The original PA Process helps/hurts content is already covered in the Monday Substack article in narrative form under "Where PA actually works" and "Where PA does damage" sections - no extra integration work needed. The new Thursday slot is a **Contract Language Decoder (Slot A, evergreen rotation): 5 PA & Utilization Management Terms Decoded** on a different pillar (PBM Contract Insights) to protect Thursday reach. Full spec below in PART 3.
+
+**Friday text post (Post 56):** Copy-paste ready.
+
+**Substack Notes:** Copy-paste ready. Daily schedule in PART 4.
+
+---
+
 ## Publishing Timeline
 
 | Day | Time | Platform | Content | Status |
@@ -14,10 +34,10 @@
 | Tue Apr 21 | 8:30 AM | LinkedIn Feed | Post 53 - "5 Contract Clauses That Cost You Money" Carousel (different pillar) | [ ] |
 | Tue Apr 21 | 8:35 AM | LinkedIn Feed | Post 53 - First Comment (link to LI Newsletter) | [ ] |
 | Tue Apr 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 53 | [ ] |
-| Wed Apr 22 | 8:30 AM | LinkedIn Feed | Post 54 - "Same drug. Different price. Different pharmacy. Same PBM." Tease Hook (TEXT) | [ ] |
+| Wed Apr 22 | 8:30 AM | LinkedIn Feed | Post 54 - "$25-40 admin. $60-80 clinical. Some bundle it." PA Fee Confrontational (TEXT) | [ ] |
 | Wed Apr 22 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Apr 23 | 7:30 AM | Substack | Field Note: "PA Turnaround Time: What Your Contract Should Guarantee" | [ ] |
-| Thu Apr 23 | 8:30 AM | LinkedIn Feed | Post 55 - PA Process MESSY INFOGRAPHIC (weekly theme) | [ ] |
+| Thu Apr 23 | 8:30 AM | LinkedIn Feed | Post 55 - 5 PA & Utilization Management Terms Decoded MESSY INFOGRAPHIC (Slot A evergreen rotation, different pillar) | [ ] |
 | Thu Apr 23 | 1:30 PM | LinkedIn Company | Company Reshare of Post 55 | [ ] |
 | Thu Apr 23 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Apr 24 | 8:30 AM | LinkedIn Feed | Post 56 - "The Structural Question" Tease Hook (TEXT) | [ ] |
@@ -636,29 +656,39 @@ Ginny Crisp breaks down the language that changes everything about your pharmacy
 
 ---
 
-### "Same drug. Different price. Different pharmacy. Same PBM." Tease Hook (Text)
+### "$25-40 admin. $60-80 clinical. Some bundle it." PA Fee Confrontational (Text)
 
-**Format:** Text Post (Tease Hook)
-**Pillar:** Clinical Pharmacy
-**Word Count:** ~220 words
+**Format:** Text Post (Confrontational POV, dollar-comparison structure)
+**Pillar:** PBM Contract Insights
+**Word Count:** ~200 words
 
-*NOTE: Hook uses short, repetitive structure based on "Same drug. Same dose. Same member." pattern (12 saves in 1 day). Expanded from 78 words to ~220 words for dwell time optimization (research shows 200-300 words optimal for algorithm's Depth Score).*
+*NOTE: Hook follows the $20/$100 structure that drove 7 comments in Week 15. Specific fee ranges ($25-40 admin, $60-80 clinical) are representative of what PBS sees across contract reviews, framed as a market observation rather than naming any PBM. Ends with a question to pull comments. Depth Score is met without sacrificing punch.*
 
 #### Post Copy
 
-Same drug. Different price. Different pharmacy. Same PBM.
+Admin PA review: $25 to $40 each.
 
-Prior authorization was designed to ensure appropriate care. In practice, it has become something else entirely.
+Clinical pharmacist review: $60 to $80 each.
 
-We review PA programs across approximately 100 PBM contracts annually. The pattern I see most often: approval rates above 95% on drugs that still require PA. If 95 out of 100 requests get approved, the PA is not protecting the plan from inappropriate use. It is creating friction for members, administrative burden for providers, and processing costs for the plan. All for a denial rate that rounds to zero.
+Some PBMs fold the cost into your admin fee. No line item, no visibility.
 
-The question for employers is whether your PA program is delivering value proportionate to the friction it creates. Most have never measured it. When we run the analysis, the numbers are often uncomfortable.
+We see all three structures in our contract reviews.
 
-Gold card programs exist. These programs exempt prescribers with strong approval histories from PA requirements entirely. Smarter clinical criteria exist. Step therapy protocols that actually reduce cost without blocking appropriate care. Better outcomes exist.
+First-pass approval rate on maintenance drugs in stable patients rarely falls below 90%.
 
-Most plans have not asked for any of them. The best brokers and consultants are already bringing this conversation to the table. If yours has not raised it yet, the question is worth asking.
+So most of what your plan pays in PA review fees pays your PBM to approve drugs your physicians had already approved.
 
-Your PBM benefits from the current PA structure. Whether your plan does is a different question.
+And if your fee is "included" in admin, you cannot tell how much of your admin is actually review.
+
+What is that friction actually accomplishing?
+
+The best brokers we work with flag this the first time they see the fee structure in a contract. Most never see the structure because their PBM does not produce it by default.
+
+A fee transparency clause in your next contract redline is the fix. One sentence: "PBM shall itemize PA review fees by type (administrative or clinical) on quarterly performance reporting, including volume and unit cost." That sentence gives you visibility. Visibility gives you leverage.
+
+If your plan has not asked, your PBM has not offered.
+
+*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 #### VIDEO SCRIPT OPTION (35 seconds, filmed on phone)
 
@@ -715,44 +745,69 @@ Most plans have not asked for them yet.
 ---
 
 ## Post 55 - Thursday 8:30 AM
-### PA Process: Where It Helps vs. Where It Hurts (Messy Infographic) - WEEKLY THEME VISUAL
+### 5 PA & Utilization Management Terms Decoded (Messy Infographic) - SLOT A EVERGREEN ROTATION
 
 **Format:** Messy Infographic (single image, whiteboard/informal style)
-**Pillar:** Clinical Pharmacy
-**Word Count:** 85 words
+**Pillar:** PBM Contract Insights (different pillar from Monday to protect Thursday reach)
+**Word Count:** ~110 words
 
-*NOTE: Weekly theme visual on Thursday. Messy infographic format based on Week 10 data (22K impressions).*
+*NOTE: This Thursday slot replaces the prior PA Process Helps vs Hurts infographic. That original content has been moved into the Monday Substack article as an inline "Where PA helps and where PA hurts" block (no extra work needed; already integrated in PART 1). This is Slot A of the evergreen rotation (Contract Language Decoder / Same-Same-Different / 5 Questions). The rotation protects Thursday from same-topic cannibalization with Monday's newsletter. Historical precedent: Contract Language Decoder drove 22,047 impressions in Week 10 and 4,948 in Week 14.*
 
 #### Post Copy
 
-Prior authorization. Where it helps. Where it hurts.
+5 terms in your PA contract that do not mean what you think they mean.
 
-Helps: High-cost specialty medications. Off-label use review. Step therapy for clinical appropriateness.
+"Timely manner" → No defined hours. Protects no one. Replace with specific turnaround guarantees.
 
-Hurts: Maintenance medications with established history. Renewals for stable patients. Time-sensitive conditions where delay affects outcomes.
+"Clinically appropriate" → PBM's definition, not your plan's. Require the criteria to be documented and reviewed annually.
 
-The gold card solution: exempt high-performing prescribers. Multiple states now require it.
+"Medical necessity" → A denial reason that shifts the burden back to the prescriber. Define the appeal pathway.
 
-PA should drive appropriate utilization, not maximum barriers.
+"Utilization management fee" → Often bundled into admin. Ask whether PA review is line-itemed or hidden.
 
-#PharmacyBenefits #PriorAuthorization #GoldCard #UtilizationManagement
+"Standard review" → Not standard. Ranges from hours to weeks. Get the SLA in the contract.
+
+Your PBM wrote these definitions. Your contract should redefine them.
+
+#PharmacyBenefits #PBMContracts #ContractLanguage #UtilizationManagement
 
 #### First Comment
 
-This week's Pharmacy Benefits Briefing covers the full PA optimization framework, including gold card programs and contract provisions: [LINKEDIN NEWSLETTER URL]. For the specific turnaround benchmarks your contract should guarantee and the escalation protocols that protect members, read today's field note on Benefit Blind Spots: [SUBSTACK FIELD NOTE URL]
+This week's Pharmacy Benefits Briefing covers the full PA optimization framework with fee structure ranges and the ROI audit scoring rubric: [LINKEDIN NEWSLETTER URL]. The Substack Monday deep dive includes the PA ROI audit template exclusive to subscribers: [SUBSTACK URL].
 
 #### Messy Infographic Concept
 
-**Format:** MESSY INFOGRAPHIC - Whiteboard/informal style
+**Format:** MESSY INFOGRAPHIC - Whiteboard/informal style, same visual DNA as Week 10 (22K impressions) and Week 14 (4.9K impressions).
 
 **Layout:**
+- Title: "5 PA Contract Terms Decoded"
+- Five rows, each a two-column decoder:
+  - Left column (gray marker): the PBM term in quotes
+  - Right column (Accent Blue #A7E0FA): the plain English translation
+  - Short arrow between them
+- Bottom callout: "Your PBM wrote these definitions. Your contract should redefine them."
+- Informal fonts, marker-on-whiteboard feel
+- No Benefit Blind Spots branding in the image itself (add in Canva post-gen)
+
+**Canva post-gen steps:**
+1. Generate base image using the prompt above at 2240 x 1260 px
+2. Add "Benefit Blind Spots" badge top-left (Roboto Bold, 32-36pt, deep teal-blue #015880)
+3. Add PBS logo (dark version) bottom-right, 160-200px width
+4. Verify readability at thumbnail size
+5. Export as PNG
+
+---
+
+## Post 55 (Original) - ARCHIVED
+
+### Original "PA Process: Where It Helps vs. Where It Hurts" concept
+
+*This original Thursday weekly-theme infographic has been absorbed into the Monday Substack article. The helps/hurts contrast now appears inline in PART 1 under the existing "Where PA actually works" and "Where PA does damage" sections, which already carry the same content in narrative form. No separate integration needed. The original concept is preserved below only for reference if the team wants to revive it as a standalone Substack graphic later.*
+
 - Title: "Prior Authorization: Helps vs. Hurts"
-- Two columns with hand-drawn divider:
-  - Left (green checkmarks): High-cost specialty, Off-label review, Step therapy for appropriateness
-  - Right (red X marks): Maintenance meds with history, Stable patient renewals, Time-sensitive conditions
-- Bottom callout box: "Gold Card Programs: Exempt high-performing prescribers"
-- Annotation: "Multiple states now require this"
-- Informal fonts, hand-drawn feel
+- Left column (helps): High-cost specialty, Off-label review, Step therapy for appropriateness
+- Right column (hurts): Maintenance meds with history, Stable patient renewals, Time-sensitive conditions
+- Callout: "Gold Card Programs: Exempt high-performing prescribers. Multiple states now require this."
 
 ---
 
