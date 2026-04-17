@@ -279,7 +279,43 @@ Start with one question: which of the eight levers has the largest gap on your p
 - Slide 6 (Q5): "Can we audit rebate aggregator and affiliate transactions?" Why it matters: this is where retained dollars live. If affiliates are excluded from audit scope, the most important transactions are off-limits.
 - Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract clause. Verify before you need it." team@rxbs.org | Benefit Blind Spots.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
+#### 5 Questions Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** A magnifying glass resting on a printed document with questions highlighted in yellow.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed document page rests on a warm wood desk. A classic brass-and-glass magnifying glass rests on the document, its lens magnifying a portion of the text. The document shows five printed questions, each with a line of body copy highlighted in bright yellow highlighter stroke. A yellow highlighter pen lies diagonally at the bottom-right corner of the document. No logos, no brand marks, no people, no text outside the document.
+>
+> Printed at the top of the document, larger type, underlined: 5 Questions About Your Audit Rights
+>
+> Below the title, the five printed questions in order, each with its key phrase highlighted yellow:
+>
+> 1. What is the exact scope of our audit rights in the contract?
+> 2. Who chooses the auditor, and who pays for the audit?
+> 3. How long do we have to audit after a claim is processed?
+> 4. What is the remedy if an audit finds overcharges?
+> 5. Can we audit rebate aggregator and affiliate transactions?
+>
+> Style: realistic photograph, soft natural daylight, slight lens distortion on the text under the magnifier, warm reflections on the brass rim, faint paper texture. Colors: off-white document page with crisp black serif type, bright yellow highlighter strokes, brass magnifier rim, clear glass lens, warm wood desk.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Magnifier on document photo described above. Title overlay: "5 Questions About Your Audit Rights." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What is the exact scope of our audit rights in the contract?" Why it matters: "audit rights" is a category. The scope is the substance. Narrow scopes protect PBM retained revenue.
+- Slide 3 (Q2): "Who chooses the auditor, and who pays for the audit?" Why it matters: if the PBM must approve the auditor, your audit is not independent. If you pay for the audit, the economics discourage you from ever conducting one.
+- Slide 4 (Q3): "How long do we have to audit after a claim is processed?" Why it matters: short look-back windows hide margin retention behind the statute of limitations the contract creates.
+- Slide 5 (Q4): "What is the remedy if an audit finds overcharges?" Why it matters: a right without a remedy is a formality. Remedy clauses determine whether findings become refunds.
+- Slide 6 (Q5): "Can we audit rebate aggregator and affiliate transactions?" Why it matters: this is where retained dollars live. If affiliates are excluded from audit scope, the most important transactions are off-limits.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract clause. Verify before you need it." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any question text, overlay the correct text in a clean serif font.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

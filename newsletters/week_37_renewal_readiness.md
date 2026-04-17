@@ -361,7 +361,43 @@ Preparation is the strategy. Renewal is just the meeting.
 - Slide 6 (Q5): "What is the cure period before remedies apply?" Why it matters: long cure periods let the PBM miss without consequence. Shorter cure periods align incentives with performance.
 - Slide 7 (CTA): Primary Blue background. White: "Five questions. One enforceable guarantee. Verify the mechanics." team@rxbs.org | Benefit Blind Spots.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
+#### 5 Questions Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** A simple performance dashboard mockup on a tablet, with questions written on sticky notes attached.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A modern tablet rests on a clean light gray desk. The tablet screen displays a minimalist performance dashboard mockup, with a few bar charts, a trend line, and two large KPI tiles reading "GER" and "Rebate Guarantee" (numbers stylized or blurred). Five small square sticky notes in a muted teal color are attached around the edges of the tablet screen, each with a hand-written question in black marker. A black permanent marker rests diagonally at the lower-right corner of the tablet. No logos, no brand marks, no people, no text outside the tablet and sticky notes.
+>
+> Overlaid above the tablet, in clean bold handwriting on the desk surface: 5 Questions About PBM Performance Guarantees
+>
+> The five sticky-note questions read, in order clockwise from top-left:
+>
+> 1. What is the measurement methodology for each guarantee?
+> 2. What is the remedy if a guarantee is missed, and is there a cap?
+> 3. Who calculates performance, and can we independently verify?
+> 4. Which claims are excluded from the guarantee calculation?
+> 5. What is the cure period before remedies apply?
+>
+> Style: realistic product photography, soft even daylight, subtle shadow under the tablet, natural drop shadows beneath each sticky note, glossy screen reflection. Colors: dark tablet bezel, clean white dashboard UI with muted blue and gray chart elements, muted teal sticky notes, black marker handwriting, light gray desk, black overlaid handwriting.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Tablet dashboard with sticky notes photo described above. Title overlay: "5 Questions About PBM Performance Guarantees." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What is the measurement methodology for each guarantee?" Why it matters: the methodology is the guarantee. "GER of 88%" means nothing without the definition of GER, the claim set, and the calculation window.
+- Slide 3 (Q2): "What is the remedy if a guarantee is missed, and is there a cap?" Why it matters: a guarantee with a capped remedy is a capped risk for the PBM. The cap is the real commitment.
+- Slide 4 (Q3): "Who calculates guarantee performance, and can we independently verify?" Why it matters: if the PBM calculates and reports, the guarantee is self-graded. Independent verification is where guarantees become enforceable.
+- Slide 5 (Q4): "Which claims are excluded from the guarantee calculation?" Why it matters: exclusions are where guarantees lose their teeth. Specialty, compounds, and 340B carve-outs routinely move volume outside the measurement.
+- Slide 6 (Q5): "What is the cure period before remedies apply?" Why it matters: long cure periods let the PBM miss without consequence. Shorter cure periods align incentives with performance.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One enforceable guarantee. Verify the mechanics." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any question text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

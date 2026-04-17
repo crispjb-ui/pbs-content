@@ -289,7 +289,36 @@ One request changes the conversation: ask your PBM for the specific savings meth
 - "Conflict of interest" - Statute means: a situation where the fiduciary's duty conflicts with another interest. Read it as: the PBM's ownership of pharmacies, rebate aggregators, and GPOs that create structural conflicts in every claim.
 - "Co-fiduciary liability" - Statute means: liability for another fiduciary's breach you knew about. Read it as: your exposure for PBM conduct you saw, suspected, or could have discovered through reasonable inquiry.
 
-**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 FIDUCIARY TERMS DECODED." Five stacked rows. Each row: term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
+#### Messy Infographic Concept
+
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+
+**Setting:** Lined white index cards laid out on a wood table.
+
+**AI Image Generation Prompt (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Six standard white ruled 3x5 index cards are arranged on a medium-tone oak table: one title card at the top, five content cards below in a tidy stacked grid. Each card has faint blue horizontal rule lines and a red top-rule header line. A black fine-tip pen rests diagonally across the corner of one card. The cards are filled with clean human handwriting in black ink. No logos, no brand marks, no people, no text outside the cards.
+>
+> The title index card at the top reads, in larger handwriting, double-underlined: 5 Fiduciary Terms Decoded
+>
+> Five content cards below, each showing a quoted term on the top line, a short arrow, and a plain-English translation below:
+>
+> "Fiduciary" → You, if you influence pharmacy benefit decisions. Title not required.
+> "Prudent process" → Not "best deal." Can you show how you decided?
+> "Plan assets" → Rebates and manufacturer payments attributable to your plan.
+> "Conflict of interest" → PBM-owned pharmacies, aggregators, GPOs. Structural, every claim.
+> "Co-fiduciary liability" → Your exposure for PBM conduct you saw or could have discovered.
+>
+> At the bottom, a final smaller card reads: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic photograph, soft natural daylight, subtle shadows under each card, slight paper curl at a few corners. Slightly imperfect handwriting (uneven line spacing, minor pen smudges) for authenticity. Colors: bright white index cards, pale blue rule lines, red top line, black ink, medium oak wood grain.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching black ink.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 

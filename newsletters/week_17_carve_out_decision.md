@@ -571,7 +571,36 @@ The full carve-out decision framework is in this week's Pharmacy Benefits Briefi
 - "Manufacturer revenue" - PBM means: all payments received from drug manufacturers. Read it as: a broader bucket than "rebates" that often includes admin fees, data fees, and other retained dollars your contract may not address.
 - "Net cost guarantee" - PBM means: a committed cost per claim after rebates are applied. Read it as: a definition worth reading carefully, because what counts as "net" is written by the PBM.
 
-**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 REBATE TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D) on left, hand-drawn arrow in Accent Blue (#A7E0FA) pointing right, plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
+#### Messy Infographic Concept
+
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+
+**Setting:** Whiteboard with dry-erase markers, a bit smudged.
+
+**AI Image Generation Prompt (copy-paste as-is):**
+
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A classroom or conference-room whiteboard fills the frame. Two dry-erase markers (black and blue) rest on the bottom tray. The board shows clean human handwriting with a few faint smudges and ghosted erasures, as if recently worked on. No logos, no brand marks, no people, no text outside the board.
+>
+> At the top of the board, in larger handwriting, black marker, double-underlined: 5 Rebate Terms Decoded
+>
+> Five rows below the title. Each row shows a quoted term on the left in black marker, a short hand-drawn arrow, and a plain-English translation on the right in blue marker:
+>
+> "Rebate" → A payment stream the PBM may keep, share, or redirect.
+> "Rebate guarantee" → A floor, not a ceiling. Excludes where real dollars sit.
+> "Rebate aggregator" → Separate legal entity. Outside your audit scope.
+> "Manufacturer revenue" → Broader than rebates. Admin fees, data fees, more.
+> "Net cost guarantee" → The PBM writes what counts as "net."
+>
+> At the bottom of the board, inside a hand-drawn black rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic whiteboard texture with faint smudges and erasure ghosts, soft overhead daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, occasional marker bleed) for authenticity. Colors: white board, black marker for terms and title, blue marker for translations, light gray smudge marks.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching marker colors.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 

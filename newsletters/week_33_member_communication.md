@@ -295,7 +295,36 @@ The fix is not better clinical rationale. It is better messaging. Specific. Earl
 - Slide 5 (Punchline): "Same change. Three messages. Three outcomes. The clinical decision was identical. The communication was not." Accent Blue underline under "communication."
 - Slide 6 (CTA): Primary Blue background. White: "Messaging is implementation. Script it before you send it." team@rxbs.org | Benefit Blind Spots | PBS logo.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
+#### Same/Same/Different Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Three phone screens showing different versions of the same email.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical smartphones are laid out in a row on a light gray surface, evenly spaced. Each phone screen displays an email from HR about a pharmacy benefit change. The emails have identical sender names and the same subject line topic, but the visible body copy is noticeably different on each: terse and short on the left, longer with a bulleted clinical explanation in the middle, longer still with a highlighted provider-notification block on the right. No logos, no brand marks, no people, no text outside the screens.
+>
+> Above the three phones, in clean bold handwriting on the surface: Same change. Three messages.
+>
+> Below the phones, in smaller handwriting: Three uptake rates. The change was not the variable.
+>
+> Style: realistic product photography, soft even daylight, subtle shadows under each phone, crisp glossy screen reflection. Colors: dark phone bezels, white email client backgrounds with black body text, a soft accent highlight in the middle and right phones, light gray surface, black handwritten ink.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Three phone screens photo described above. Overlay: "Same benefit change. Different messaging. Different uptake." Swipe indicator in Accent Blue.
+- Slide 2 (Employer A): "Employer A. Letter at 14 days. Drug name only. No provider context. Low uptake."
+- Slide 3 (Employer B): "Employer B. Same change. Letter at 45 days. Clinical rationale explained. Members hear 'FDA-approved, same outcome.' Higher uptake."
+- Slide 4 (Employer C): "Employer C. Same change. Provider notified at 60 days. Member letter at 45 days. Call center briefed. Highest uptake."
+- Slide 5 (Punchline): "Same change. Three messages. Three outcomes. The clinical decision was identical. The communication was not." Accent Blue underline under "communication."
+- Slide 6 (CTA): Primary Blue background. White text: "Messaging is implementation. Script it before you send it." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any email content or overlay text, overlay the correct text in a clean sans-serif font.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

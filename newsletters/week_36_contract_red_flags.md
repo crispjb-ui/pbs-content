@@ -274,7 +274,36 @@ Your broker or benefits counsel should know which version your contract uses. If
 - Slide 5 (Punchline): "Same ten words. Three definitions. Three financial outcomes. The contract is only as strong as the definition written underneath it." Accent Blue underline under "definition."
 - Slide 6 (CTA): Primary Blue background. White: "Definitions are the contract. Read them twice." team@rxbs.org | Benefit Blind Spots | PBS logo.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
+#### Same/Same/Different Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Three contract pages with different sentences highlighted.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking printed contract pages are laid out in a row on a light gray surface, evenly spaced. Each page shows the same block of legal paragraph text at the top, beginning with the visible word "Rebate" in the first sentence. On each page, a different phrase within the paragraph has been highlighted: the left page highlights only "manufacturer rebates," the middle page highlights a longer span including "most manufacturer compensation," the right page highlights the widest span including "all compensation from manufacturers." A yellow highlighter, a pink highlighter, and a blue highlighter rest next to their matching pages. No logos, no brand marks, no people, no text outside the pages.
+>
+> Above the three pages, in clean bold handwriting on the surface: Same ten words. Three definitions.
+>
+> Below the pages, in smaller handwriting: The contract is only as strong as the definition underneath it.
+>
+> Style: realistic document photography, soft even daylight, subtle shadows under each page, slight paper curl at corners. Colors: off-white contract pages with crisp black serif legal type, bright yellow/pink/blue highlighter strokes, matching highlighter bodies, light gray surface, black handwritten ink.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Three contract pages photo described above. Overlay: "Same contract language. Different interpretations. Different outcomes." Swipe indicator in Accent Blue.
+- Slide 2 (PBM A): "PBM A: 'Rebate' means manufacturer rebates only. Admin fees, data fees, aggregator fees are separate and retained."
+- Slide 3 (PBM B): "PBM B: Same clause. 'Rebate' includes most manufacturer compensation. Better definition, but specialty still carved out."
+- Slide 4 (PBM C): "PBM C: Same clause. 'Rebate' means all compensation from manufacturers. No carve-outs. The contract reads the same. The economics do not."
+- Slide 5 (Punchline): "Same ten words. Three definitions. Three financial outcomes. The contract is only as strong as the definition written underneath it." Accent Blue underline under "definition."
+- Slide 6 (CTA): Primary Blue background. White text: "Definitions are the contract. Read them twice." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any highlighted phrase or overlay text, overlay the correct text in a clean serif font matching the contract body type.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

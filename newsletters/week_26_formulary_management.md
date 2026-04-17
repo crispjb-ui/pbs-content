@@ -498,7 +498,36 @@ The full formulary management analysis and field note on three questions your PB
 - "Rebate aggregator fee" - PBM means: fee paid to the rebate aggregator for negotiating manufacturer contracts. Read it as: a fee that reduces the rebate pool before passthrough is calculated, on a contract with a PBM affiliate.
 - "Guaranteed minimum rebate" - PBM means: the committed rebate dollar floor. Read it as: a floor the PBM controls by influencing which drugs are dispensed. The guarantee is real. The leverage it requires is not.
 
-**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 REBATE RETENTION TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
+#### Messy Infographic Concept
+
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+
+**Setting:** Yellow sticky notes arranged on a gray corkboard.
+
+**AI Image Generation Prompt (copy-paste as-is):**
+
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame. Six yellow sticky notes are pinned to the corkboard in a tidy vertical arrangement with brass pushpins: one title note at the top, five content notes stacked below. Each note is slightly angled, with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
+>
+> The title sticky note at the top reads, in larger handwriting, double-underlined: 5 Rebate Retention Terms
+>
+> Five content sticky notes below, each showing a quoted term in black marker with a short arrow to a plain-English translation:
+>
+> "Pass-through rebates" → Only what the contract explicitly names. Everything else is retained.
+> "Retained rebate" → What your contract authorizes the PBM to keep.
+> "Non-rebate manufacturer revenue" → Data fees, admin fees, inflation payments. Outside pass-through.
+> "Rebate aggregator fee" → Reduces the rebate pool before passthrough is calculated.
+> "Guaranteed minimum rebate" → A floor the PBM controls by choosing what gets dispensed.
+>
+> At the bottom, pinned as a final sticky note in a slightly different orientation: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows under each sticky note. Slightly imperfect handwriting (uneven line spacing, minor Sharpie bleed) for authenticity. Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 

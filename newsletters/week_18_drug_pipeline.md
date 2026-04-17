@@ -573,7 +573,36 @@ The full pipeline preparation framework is in this week's Pharmacy Benefits Brie
 - Slide 5 (Punchline): "Same drug. Three channels. Three prices. One PBM setting every number." Accent Blue underline under "One PBM."
 - Slide 6 (CTA): Primary Blue background. White: "Channel pricing is a design decision. Whose design is yours?" team@rxbs.org | Benefit Blind Spots | PBS logo.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt headers. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
+#### Same/Same/Different Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Three pharmacy pill bottles side by side, each labeled with a different pharmacy channel (Retail, Mail Order, Specialty).
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical amber prescription pill bottles sit side by side on a clean light gray surface, evenly spaced. Each bottle has a white printed pharmacy label facing the camera. Reading left to right, the three labels read: "Retail," "Mail Order," "Specialty." The same drug name is printed below each channel label in smaller text. No logos, no brand marks, no people, no text outside the labels.
+>
+> Above the three bottles, in clean bold handwriting on the surface: Same drug. Same dose. Three prices.
+>
+> Below the three bottles, in smaller handwriting: One PBM setting every number.
+>
+> Style: realistic product photography, soft even daylight, subtle shadow under each bottle, no harsh reflections. Colors: amber bottles, white labels with black text, light gray surface, black handwritten ink.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Three amber pill bottles photo described above. Overlay: "Same drug. Same dose. Three prices." Swipe indicator in Accent Blue.
+- Slide 2 (Retail): "Retail pharmacy. AWP minus a discount. Dispensing fee. One unit price."
+- Slide 3 (Mail order): "Mail order. Same drug. Different discount percentage. Different dispensing fee. Different unit price."
+- Slide 4 (Specialty): "Specialty pharmacy. Same drug. Different pricing methodology entirely. Different unit price."
+- Slide 5 (Punchline): "Same drug. Three channels. Three prices. One PBM setting every number." Accent Blue underline under "One PBM."
+- Slide 6 (CTA): Primary Blue background. White text: "Channel pricing is a design decision. Whose design is yours?" team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any channel label or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

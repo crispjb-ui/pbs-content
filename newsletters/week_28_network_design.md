@@ -412,7 +412,43 @@ Full network cost comparison model in this week's Pharmacy Benefits Briefing. Fo
 - Slide 6 (Q5): "Can we audit mail-order pricing against retail 90-day for the same drug?" Why it matters: the comparison is contractually available only if you negotiated the right to it. Without audit rights, the savings claim is a marketing statement.
 - Slide 7 (CTA): Primary Blue background. White: "Five questions. One channel. Know who is saving." team@rxbs.org | Benefit Blind Spots.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
+#### 5 Questions Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** A shipping label or parcel box with questions written on it in marker.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A plain brown cardboard shipping box sits centered on a light gray surface. A white shipping label is affixed to the top face of the box, printed with a generic "Pharmacy Shipment" header and a redacted address block. A black permanent marker rests diagonally next to the box. Across the cardboard surface around the label, five questions are hand-written in bold black marker, each in its own area. No logos, no brand marks, no people, no text outside the box.
+>
+> Above the shipping label, in larger handwriting, black marker, double-underlined: 5 Questions About Mail-Order Economics
+>
+> The five hand-written questions on the cardboard read, in order:
+>
+> 1. Who owns the mail-order pharmacy our plan uses?
+> 2. What is the net cost per script, mail-order vs 90-day retail, for our top 25 drugs?
+> 3. Is our mail-order program mandatory, preferred, or optional?
+> 4. What is the waste rate on our 90-day mail-order fills?
+> 5. Can we audit mail-order pricing against retail 90-day for the same drug?
+>
+> Style: realistic product photography, soft overhead daylight, natural shadow under the box, visible cardboard grain and corrugation. Slightly imperfect handwriting (uneven line spacing, marker bleed into the cardboard) for authenticity. Colors: warm tan cardboard, white shipping label with black printed text, bold black marker handwriting, light gray surface.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Shipping box photo described above. Title overlay: "5 Questions About Mail-Order Economics." Accent Blue swipe indicator.
+- Slide 2 (Q1): "Who owns the mail-order pharmacy our plan uses?" Why it matters: if the PBM or a PBM affiliate owns the pharmacy, mail-order savings and PBM revenue are the same dollars.
+- Slide 3 (Q2): "What is the net cost per script, mail-order versus 90-day retail, for our top 25 drugs?" Why it matters: the "mail order saves" claim is a per-category answer, not a universal one. Some drugs are cheaper at retail.
+- Slide 4 (Q3): "Is our mail-order program mandatory, preferred, or optional, and what is the member impact?" Why it matters: mandatory mail programs move volume to the PBM-owned pharmacy regardless of whether that is the cheapest option for your plan.
+- Slide 5 (Q4): "What is the waste rate on our 90-day mail-order fills?" Why it matters: unused medication is a cost with no clinical benefit. Mail-order savings net of waste is the real number.
+- Slide 6 (Q5): "Can we audit mail-order pricing against retail 90-day for the same drug?" Why it matters: the comparison is contractually available only if you negotiated the right to it. Without audit rights, the savings claim is a marketing statement.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One channel. Know who is saving." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any question text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching marker color.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

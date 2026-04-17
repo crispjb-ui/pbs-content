@@ -341,7 +341,37 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 - Slide 6 (Punchline): "Same infusion. Four settings. Four prices. One employer paying whichever setting the default routes to." Accent Blue underline under "default routes."
 - Slide 7 (CTA): Primary Blue background. White: "Site-of-care is a choice. Make it before the claims arrive." team@rxbs.org | Benefit Blind Spots | PBS logo.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across four middle slides. Mobile-optimized 1080x1350.
+#### Same/Same/Different Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Four location signs or door markers stacked.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). Four minimalist hospital/clinic-style door placards are stacked vertically on a clean off-white wall, each a brushed aluminum plate with raised black lettering. Reading top to bottom, the four placards read: "Hospital Outpatient," "Physician Office," "Ambulatory Infusion Center," "Home Infusion." Below each placard, a smaller price tag hangs on a thin string, showing a different dollar amount (blurred or stylized so the relative size is what reads, not the exact number). No logos, no brand marks, no people, no text outside the placards and tags.
+>
+> Overlaid at the top of the image, in clean bold handwriting: Same infusion. Four settings. Four prices.
+>
+> Overlaid at the bottom, in smaller handwriting: One employer paying whichever the default routes to.
+>
+> Style: realistic architectural photography, soft even daylight, subtle shadow behind each placard, very shallow depth of field on the price tags. Colors: brushed aluminum silver placards with black engraved text, off-white wall, warm cream paper price tags with black handwritten numbers.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Four placards photo described above. Overlay: "Same infusion. Four settings. Four prices." Swipe indicator in Accent Blue.
+- Slide 2 (Hospital outpatient): "Hospital outpatient department. Facility fee. Administration fee. Drug markup. Highest price."
+- Slide 3 (Physician office): "Physician office. Administration fee. Lower drug markup. Lower total."
+- Slide 4 (Ambulatory infusion center): "Ambulatory infusion center. No facility fee. Negotiated drug pricing. Lower still."
+- Slide 5 (Home infusion): "Home infusion. No facility fee. No office overhead. Lowest of the four."
+- Slide 6 (Punchline): "Same infusion. Four settings. Four prices. One employer paying whichever setting the default routes to." Accent Blue underline under "default routes."
+- Slide 7 (CTA): Primary Blue background. White text: "Site-of-care is a choice. Make it before the claims arrive." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any placard or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

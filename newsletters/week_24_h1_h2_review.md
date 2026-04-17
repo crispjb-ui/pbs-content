@@ -539,7 +539,36 @@ The H1/H2 briefing covers the full assessment framework and renewal positioning 
 - Slide 5 (Punchline): "Same diagnosis. Same drug. Three members. Three bills. One benefit design creating all three." Accent Blue underline under "One benefit design."
 - Slide 6 (CTA): Primary Blue background. White: "Benefit design is a choice. Model it before the complaints arrive." team@rxbs.org | Benefit Blind Spots | PBS logo.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
+#### Same/Same/Different Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Three insurance Explanation of Benefits (EOB) pages side by side.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking insurance Explanation of Benefits pages are laid out side by side on a clean light gray surface, evenly spaced. Each page has the header "Explanation of Benefits" printed at the top, followed by the same diagnosis code and same drug name on each page. Reading left to right, each page shows a different "Member Responsibility" total line item in larger bold type. Each EOB shows slightly different processing stamps and channel labels (Retail, Mail Order, Specialty) printed near the top. No logos, no brand marks, no people, no text outside the pages.
+>
+> Above the three EOBs, in clean bold handwriting on the surface: Same diagnosis. Same drug. Three bills.
+>
+> Below the EOBs, in smaller handwriting: One benefit design creating all three.
+>
+> Style: realistic document photography, soft even daylight, subtle shadows under each page, slight paper curl at corners. Colors: off-white EOB pages with black printed text, light gray surface, black handwritten ink.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Three EOB pages photo described above. Overlay: "Same diagnosis. Same drug. Different out-of-pocket." Swipe indicator in Accent Blue.
+- Slide 2 (Member A): "Retail fill. Tier 2 brand. Standard copay. One out-of-pocket amount."
+- Slide 3 (Member B): "Mail-order fill. Same drug. Different tier handling. Different out-of-pocket."
+- Slide 4 (Member C): "Specialty channel. Same drug. Coinsurance instead of copay. Different out-of-pocket entirely."
+- Slide 5 (Punchline): "Same diagnosis. Same drug. Three members. Three bills. One benefit design creating all three." Accent Blue underline under "One benefit design."
+- Slide 6 (CTA): Primary Blue background. White text: "Benefit design is a choice. Model it before the complaints arrive." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any EOB header or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

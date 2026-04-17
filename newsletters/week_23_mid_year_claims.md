@@ -547,7 +547,36 @@ The mid-year claims briefing covers why the first-half data window is the most v
 - "Manufacturer admin fee" - PBM means: fee the PBM collects from manufacturers for formulary and data services. Read it as: PBM revenue from drug companies, typically retained in full unless your contract addresses it explicitly.
 - "Data fee" - PBM means: charge for data sold or provided to third parties related to your plan. Read it as: your plan's data, monetized. Ask who pays and who keeps the revenue.
 
-**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 ADMIN FEE TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
+#### Messy Infographic Concept
+
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+
+**Setting:** Printed contract page with red pen annotations and circled phrases.
+
+**AI Image Generation Prompt (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed contract page, Times-Roman body text, rests on a dark mahogany desk. A red uncapped ballpoint pen lies diagonally across the lower-right corner. Across the printed page, five specific phrases have been circled in red pen, with hand-drawn red arrows pointing to hand-written red-pen annotations in the margins and between paragraphs. No logos, no brand marks, no people, no text outside the page.
+>
+> Stamped at the top of the page, in larger red-pen handwriting, double-underlined: 5 Admin Fee Terms Decoded
+>
+> Five circled terms on the page, each with a red-pen arrow leading to a hand-written translation in the margin:
+>
+> "Administrative fee" → The visible part of PBM revenue. The rest sits elsewhere.
+> "Claims processing fee" → Scales with utilization. More fills = more PBM revenue.
+> "Network access fee" → Often duplicative of the admin fee.
+> "Manufacturer admin fee" → PBM revenue from drug companies. Usually retained in full.
+> "Data fee" → Your plan's data, monetized. Ask who keeps the revenue.
+>
+> At the bottom of the page, inside a hand-drawn red rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic paper texture with slight coffee-ring stain in one corner for authenticity, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, minor pen smudges). Colors: off-white printed page with black body type, bright red ballpoint ink for annotations and circles, dark mahogany desk.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching red ink color.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 

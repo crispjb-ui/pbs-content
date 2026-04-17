@@ -549,7 +549,43 @@ The full 90-day renewal preparation timeline is in this week's Pharmacy Benefits
 - Slide 6 (Q5): "What would it cost you to lose our business?" Why it matters: the answer calibrates the conversation. Your broker can help you gauge whether the PBM is pricing for retention or for market share.
 - Slide 7 (CTA): Primary Blue background. White: "Five questions. One renewal decision. Ask before you sign." team@rxbs.org | Benefit Blind Spots.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
+#### 5 Questions Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Desk calendar page with questions written across the date squares.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A large desk calendar page showing a single month sits on a light wood desk. Printed date numbers fill each day square. A black felt-tip marker rests diagonally across the upper-right corner. Five of the date squares have handwritten questions written across them, overflowing slightly into the adjacent squares, each a different one of five questions. One corner of the calendar page has "RENEWAL DEADLINE" circled in red marker. No logos, no brand marks, no people, no text outside the calendar.
+>
+> Above the calendar grid, in larger handwriting, black marker, double-underlined: 5 Questions Before Your PBM Renewal
+>
+> The five hand-written date-square questions read, in order earliest to latest:
+>
+> 1. What pricing methodology changed from our original contract?
+> 2. Which guarantees have remediation rights, and which are aspirational?
+> 3. What is our termination cost if we leave mid-term?
+> 4. Which audit rights were added, narrowed, or removed?
+> 5. What would it cost the PBM to lose our business?
+>
+> Style: realistic photograph, soft natural daylight, subtle drop shadow under the calendar, slight paper texture. Colors: white calendar page, crisp black printed dates and grid lines, black handwritten marker for questions, one red circle around "RENEWAL DEADLINE," light wood desk.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Calendar page photo described above. Title overlay: "5 Questions Before Your PBM Renewal." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What pricing methodology changed from our original contract?" Why it matters: renewals rarely keep the original definitions intact. The drift is where the margin goes.
+- Slide 3 (Q2): "Which guarantees have remediation rights, and which are aspirational?" Why it matters: a guarantee without a remedy is a target, not a commitment.
+- Slide 4 (Q3): "What is our termination cost if we leave mid-term?" Why it matters: termination economics determine your actual leverage. If leaving costs more than staying, you are not negotiating. You are renewing.
+- Slide 5 (Q4): "Which audit rights were added, narrowed, or removed at renewal?" Why it matters: audit rights tend to shrink quietly. The renewal redline is where they disappear.
+- Slide 6 (Q5): "What would it cost you to lose our business?" Why it matters: the answer calibrates the conversation. Your broker can help you gauge whether the PBM is pricing for retention or for market share.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One renewal decision. Ask before you sign." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any question text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching marker color.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

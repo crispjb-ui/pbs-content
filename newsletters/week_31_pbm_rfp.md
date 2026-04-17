@@ -327,7 +327,43 @@ RFP development. Distribution. Response evaluation. Finalist presentations. Sele
 - Slide 6 (Q5): "How do you verify the counterfactual, what would have happened without the program?" Why it matters: a program is only saving money if costs would have been higher without it. Most PBM methodologies never answer this question.
 - Slide 7 (CTA): Primary Blue background. White: "Five questions. One verified savings number. Audit before you trust." team@rxbs.org | Benefit Blind Spots.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
+#### 5 Questions Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** A clipboard with a printed form and hand-ticked checkboxes next to each question.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A wooden clipboard holding a crisp white form page rests on a light gray surface. A black ballpoint pen lies diagonally across the bottom-right corner. The form is titled at the top in clean serif type and lists five printed questions, each with an empty checkbox to the left. Four of the five checkboxes have been ticked by hand with a black ballpoint check mark; one remains empty. No logos, no brand marks, no people, no text outside the form.
+>
+> Printed at the top of the form, larger serif type, underlined: 5 Questions About Clinical Program ROI
+>
+> Below the title, the five printed questions with checkboxes, in order:
+>
+> [x] 1. What is the savings methodology for each clinical program?
+> [x] 2. Can we see a sample calculation, claim-by-claim, for each program?
+> [x] 3. Which savings are counted in multiple programs?
+> [x] 4. What is the therapy abandonment rate for members denied or stepped?
+> [ ] 5. How do you verify the counterfactual, what would have happened without the program?
+>
+> Style: realistic document photography, soft natural daylight, subtle shadow under the clipboard and pen, faint paper texture. Colors: warm wood clipboard clip, bright white form page, crisp black serif printed type, black ballpoint check marks, light gray surface.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Clipboard and form photo described above. Title overlay: "5 Questions About Clinical Program ROI." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What is the savings methodology for each clinical program?" Why it matters: "methodology" is where assumptions live. Avoided cost assumptions drive most of the reported savings and rarely hold up to audit.
+- Slide 3 (Q2): "Can we see a sample calculation, claim-by-claim, for each program?" Why it matters: topline savings are a summary. A sample calculation is the evidence. Without it, the number is a claim, not a measurement.
+- Slide 4 (Q3): "Which savings are counted in multiple programs?" Why it matters: double-counting is common across PA, step therapy, and DUR. One intervention gets credited to multiple programs, inflating the total.
+- Slide 5 (Q4): "What is the therapy abandonment rate for members denied or stepped?" Why it matters: savings from members giving up care are not savings. They are deferred costs with clinical consequences.
+- Slide 6 (Q5): "How do you verify the counterfactual, what would have happened without the program?" Why it matters: a program is only saving money if costs would have been higher without it. Most PBM methodologies never answer this question.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One verified savings number. Audit before you trust." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any question text, overlay the correct text in a clean serif font.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

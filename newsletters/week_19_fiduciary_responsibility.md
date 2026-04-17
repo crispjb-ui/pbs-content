@@ -491,7 +491,43 @@ The full fiduciary framework is in this week's Pharmacy Benefits Briefing: [LINK
 - Slide 6 (Q5): "What is our therapy abandonment rate on step-therapy drugs?" Why it matters: savings that come from members giving up are not real savings. They are deferred costs.
 - Slide 7 (CTA): Primary Blue background. White: "Five questions. One fiduciary duty. Ask all five." team@rxbs.org | Benefit Blind Spots.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) underline under key phrases. Mobile-optimized 1080x1350.
+#### 5 Questions Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** White interview-style index cards, each with a question typed on it, fanned on a dark surface.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Five white interview-style index cards are fanned across a dark matte wood surface. Each card has a single typed question on it in a clean serif font, centered. The cards overlap slightly, angled like a hand of playing cards, with the top card fully readable and the others visible behind it. No logos, no brand marks, no people, no text outside the cards.
+>
+> The top card reads, in larger type at the top: 5 Formulary Questions Your PBM Avoids
+>
+> The five question cards read, in order (top card to bottom):
+>
+> 1. What changed on our formulary last quarter, and why?
+> 2. Which drugs were added or removed because of rebate contracts?
+> 3. What is the net cost of our top 10 drugs after all rebates and fees?
+> 4. Which formulary tier decisions are overridden by the rebate aggregator?
+> 5. What is our therapy abandonment rate on step-therapy drugs?
+>
+> Style: realistic photograph, soft directional daylight from upper left, subtle drop shadows behind each card, slight paper texture. Colors: bright white cards with crisp black type, dark walnut wood grain background.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Fanned index cards photo described above. Title overlay: "5 Formulary Questions Your PBM Avoids." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What changed on our formulary last quarter, and why?" Why it matters: formulary shifts drive member disruption and rebate flow. The "why" is almost always economic, not clinical.
+- Slide 3 (Q2): "Which drugs were added or removed because of rebate contracts?" Why it matters: clinical rationale and rebate rationale are different answers. You are entitled to both.
+- Slide 4 (Q3): "What is the net cost of our top 10 drugs after all rebates and fees?" Why it matters: gross cost is not plan cost. Net cost is. The PBM has both numbers.
+- Slide 5 (Q4): "Which formulary tier decisions are overridden by the rebate aggregator?" Why it matters: if a separate entity influences tier placement, your formulary is partly owned by a vendor you do not directly contract with.
+- Slide 6 (Q5): "What is our therapy abandonment rate on step-therapy drugs?" Why it matters: savings that come from members giving up are not real savings. They are deferred costs.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One fiduciary duty. Ask all five." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any question text, overlay the correct text in a clean serif font.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

@@ -512,7 +512,36 @@ The manufacturer programs briefing covers the full copay card economics, from li
 - "White bagging" - PBM means: specialty drugs shipped directly from specialty pharmacy to the site of administration. Read it as: a routing decision the PBM makes that affects your site-of-care economics.
 - "Channel steering" - PBM means: directing specialty prescriptions through the preferred specialty pharmacy. Read it as: the mechanism by which your PBM moves revenue to its owned or affiliated specialty pharmacy.
 
-**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 SPECIALTY PHARMACY TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
+#### Messy Infographic Concept
+
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+
+**Setting:** Spiral notebook page, ballpoint pen.
+
+**AI Image Generation Prompt (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open spiral-bound notebook rests on a light oak desk. The visible page has faint blue horizontal rule lines and a red left margin. A blue ballpoint pen rests diagonally across the upper-right corner of the page. The page is filled with clean human handwriting in blue and black ballpoint ink. No logos, no brand marks, no people, no text outside the notebook page.
+>
+> At the top of the page, in larger handwriting, black ink, double-underlined: 5 Specialty Pharmacy Terms Decoded
+>
+> Five rows below the title. Each row shows a quoted term on the left in black ink, a short hand-drawn arrow, and a plain-English translation on the right in blue ink:
+>
+> "Specialty drug list" → PBM can modify it unilaterally.
+> "Limited distribution drug" → PBM's specialty pharmacy may be the only dispenser.
+> "Specialty dispensing fee" → Often excluded from guarantees.
+> "White bagging" → PBM routing that shifts site-of-care economics.
+> "Channel steering" → Moves revenue to the PBM's owned pharmacy.
+>
+> At the bottom of the page, inside a hand-drawn black ink rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic notebook paper texture with visible spiral binding on the left edge, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, minor ink smudges, occasional ink pooling) for authenticity. Colors: white notebook page, faint blue rule lines, red margin line, black and blue ballpoint ink, light oak desk.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching ink colors.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 

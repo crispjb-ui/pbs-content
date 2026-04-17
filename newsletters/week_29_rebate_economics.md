@@ -377,7 +377,36 @@ Full rebate contract analysis in this week's Pharmacy Benefits Briefing. For reb
 - "Mandatory mail" - PBM means: requirement that members use mail-order for maintenance drugs. Read it as: a volume-steering mechanism that benefits the PBM's owned mail-order pharmacy, whether or not it benefits your plan.
 - "Network exclusion list" - PBM means: pharmacies removed from the network. Read it as: a list that moves revenue. The pharmacies excluded are usually the ones that do not accept the PBM's reimbursement terms.
 
-**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 NETWORK CONTRACT TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
+#### Messy Infographic Concept
+
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+
+**Setting:** Composition notebook (black and white marbled cover), pencil.
+
+**AI Image Generation Prompt (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open composition notebook with the classic black and white marbled cover rests on a weathered wood desk. The visible page has faint blue horizontal rule lines and a red vertical margin line. A sharpened yellow #2 pencil rests diagonally across the upper-right corner of the page, with visible eraser shavings nearby. The page is filled with clean human handwriting in dark graphite pencil. No logos, no brand marks, no people, no text outside the notebook page.
+>
+> At the top of the page, in larger handwriting, dark pencil, double-underlined: 5 Network Contract Terms Decoded
+>
+> Five rows below the title. Each row shows a quoted term on the left, a short hand-drawn arrow, and a plain-English translation on the right, all in dark graphite pencil:
+>
+> "Preferred network" → Shaped by reimbursement terms, not member access.
+> "Broad network" → Highest-cost configuration. Least PBM leverage.
+> "Network guarantee" → Applies only to channels and categories specified. Watch carve-outs.
+> "Mandatory mail" → Steers volume to the PBM's owned mail-order pharmacy.
+> "Network exclusion list" → Moves revenue. Excluded pharmacies rejected PBM terms.
+>
+> At the bottom of the page, inside a hand-drawn pencil rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic notebook paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, faint eraser marks, occasional smudge) for authenticity. Colors: white notebook page, pale blue rule lines, red margin line, dark graphite pencil handwriting, black and white marbled cover edge, weathered wood desk.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching graphite tone.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 

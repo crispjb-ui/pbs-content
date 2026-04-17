@@ -290,7 +290,36 @@ The PBM negotiates from their data advantage. You negotiate from preparation. Th
 - "Early termination fee" - PBM means: fee due if the plan terminates before a defined date. Read it as: an exit cost that can exceed projected savings from switching, neutralizing your leverage before the conversation starts.
 - "Data return obligation" - PBM means: the PBM's duty to return plan data on termination. Read it as: the provision that determines whether your next PBM can actually use your history. Without strong language, migration becomes expensive and slow.
 
-**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 TERMINATION CLAUSE TERMS DECODED." Five stacked rows. Each row: term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
+#### Messy Infographic Concept
+
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+
+**Setting:** Manila folder with hand-written label and post-it flags sticking out.
+
+**AI Image Generation Prompt (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A closed manila file folder rests centered on a dark wood desk. The folder tab has a hand-written label in black marker. Five bright-colored post-it flags (orange, pink, green, blue, yellow) stick out from the right edge of the folder, each flag with a hand-written term visible on it. Five hand-written translation notes, one per flag color, are written directly on the folder cover in black ballpoint pen, connected by short hand-drawn arrows from each flag. No logos, no brand marks, no people, no text outside the folder.
+>
+> The hand-written folder tab label reads: 5 Termination Clause Terms Decoded
+>
+> The five colored post-it flags and their corresponding translation notes on the folder cover read, in order top to bottom:
+>
+> "Termination for convenience" → A right that often exists only for the PBM.
+> "Termination for cause" → Usable only if "cause" is broadly defined.
+> "Runoff period" → Your plan is captive to outgoing PBM pricing.
+> "Early termination fee" → Exit cost can exceed switching savings.
+> "Data return obligation" → Determines whether your next PBM can use your history.
+>
+> At the bottom of the folder, inside a hand-drawn black ballpoint rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic photograph, soft natural daylight, subtle shadow under the folder, slight paper texture. Slightly imperfect handwriting (uneven line spacing, minor pen smudges) for authenticity. Colors: warm manila tan folder, bright orange/pink/green/blue/yellow post-it flags, black marker for label, black ballpoint for notes, dark wood desk.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 

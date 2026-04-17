@@ -479,7 +479,36 @@ The full PBM evaluation scorecard with weighted scoring criteria is in this week
 - Slide 5 (Punchline): "Same data. Three diagnoses. Three prescriptions. Each one profitable for the PBM recommending it." Accent Blue underline under "profitable."
 - Slide 6 (CTA): Primary Blue background. White: "The data is the data. The interpretation is the sale. Verify independently." team@rxbs.org | Benefit Blind Spots | PBS logo.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
+#### Same/Same/Different Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Three clipboards with report printouts, each with different highlighted numbers.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three wooden clipboards are laid out in a row on a light gray surface, evenly spaced. Each clipboard holds a printed report page with a header reading, left to right: "PBM A Analysis," "PBM B Analysis," "PBM C Analysis." Each page shows the same table of claims data at the top, but different numbers have been highlighted in different colored highlighter (yellow, pink, green) to emphasize different categories. A capped highlighter of the matching color rests next to each clipboard. No logos, no brand marks, no people, no text outside the clipboards.
+>
+> Above the three clipboards, in clean bold handwriting on the surface: Same data. Three interpretations.
+>
+> Below the clipboards, in smaller handwriting: The data is fixed. The narrative is a choice.
+>
+> Style: realistic product photography, soft even daylight, subtle shadows under each clipboard, slight paper texture. Colors: warm wood clipboard clips, white report pages with black tabular data, yellow, pink, and green highlighter strokes, light gray surface, black handwritten ink.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Three clipboards photo described above. Overlay: "Same plan. Same data. Different PBM interpretations." Swipe indicator in Accent Blue.
+- Slide 2 (PBM A): "PBM A: trend is specialty-driven. Their solution: specialty pharmacy contract improvements."
+- Slide 3 (PBM B): "PBM B: same data. Trend is utilization-driven. Their solution: clinical programs and step therapy."
+- Slide 4 (PBM C): "PBM C: same data. Trend is mix-driven. Their solution: formulary changes and rebate optimization."
+- Slide 5 (Punchline): "Same data. Three diagnoses. Three prescriptions. Each one profitable for the PBM recommending it." Accent Blue underline under "profitable."
+- Slide 6 (CTA): Primary Blue background. White text: "The data is the data. The interpretation is the sale. Verify independently." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any clipboard header or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 

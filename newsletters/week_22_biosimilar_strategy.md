@@ -553,7 +553,43 @@ The biosimilar strategy briefing covers why PBM rebate economics may not align w
 - Slide 6 (Q5): "If we find spread that contradicts the contract, what is the remedy?" Why it matters: audit rights without remedies are theater. The remedy clause is where leverage lives.
 - Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract definition. Close the gap." team@rxbs.org | Benefit Blind Spots.
 
-**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
+#### 5 Questions Carousel Concept
+
+**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+
+**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+
+**Setting:** Accountant's ledger page, questions written in the margin with pen.
+
+**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open green-tinted accountant's ledger book rests on a dark wood desk. The visible page shows faint printed horizontal rules and vertical columns in light green. A fountain pen with a dark barrel rests across the upper-right corner. The left column of the page shows printed dollar figures and tick marks, as if mid-audit. In the wide right-hand margin, five questions are written by hand in black ink. No logos, no brand marks, no people, no text outside the ledger page.
+>
+> At the top of the page, in larger handwriting, black ink, double-underlined: 5 Questions About Spread Pricing
+>
+> The five hand-written margin questions read, in order top to bottom:
+>
+> 1. How does our contract define "spread"?
+> 2. Does pass-through apply to every drug, every channel, every day?
+> 3. Are retail pharmacies reimbursed the same amount the plan is charged?
+> 4. Can we audit a sample of claims against pharmacy reimbursement data?
+> 5. If we find spread that contradicts the contract, what is the remedy?
+>
+> Style: realistic ledger paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, minor ink smudges) for authenticity. Colors: pale green ledger paper, light green rule lines and columns, black printed figures on the left, black handwritten ink in the margin, dark wood desk.
+
+**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
+- Slide 1 (Hero / Hook): Ledger page photo described above. Title overlay: "5 Questions About Spread Pricing." Accent Blue swipe indicator.
+- Slide 2 (Q1): "How does our contract define 'spread'?" Why it matters: the definition is the entire game. Without it, "no spread" is a marketing claim, not a contractual commitment.
+- Slide 3 (Q2): "Does our pass-through contract apply to every drug, every channel, every day?" Why it matters: carve-outs inside pass-through contracts are where spread lives.
+- Slide 4 (Q3): "Are retail network pharmacies reimbursed the same amount the plan is charged?" Why it matters: the difference between pharmacy reimbursement and plan charge is spread, whether or not the PBM calls it that.
+- Slide 5 (Q4): "Can we audit a sample of claims against pharmacy reimbursement data?" Why it matters: the only way to verify pass-through is to see both sides of the transaction.
+- Slide 6 (Q5): "If we find spread that contradicts the contract, what is the remedy?" Why it matters: audit rights without remedies are theater. The remedy clause is where leverage lives.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract definition. Close the gap." team@rxbs.org.
+
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any question text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching ink color.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export each slide as PNG at 1080 x 1350.
 
 ---
 
