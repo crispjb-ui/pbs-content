@@ -12,7 +12,7 @@
 | Tue Aug 18 | 10:00 AM | LinkedIn Feed | Post 121 - "Why Members Reject Good Benefit Changes" INFO | [ ] |
 | Wed Aug 19 | 10:00 AM | LinkedIn Feed | Post 122 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 20 | 7:30 AM | Substack | Field Note: "Provider Communication: The Step Most Plans Skip" | [ ] |
-| Thu Aug 20 | 10:00 AM | LinkedIn Feed | Post 123 - Member Communication Checklist Whiteboard Carousel (weekly theme) | [ ] |
+| Thu Aug 20 | 10:00 AM | LinkedIn Feed | Post 123 - Same benefit change. Different messaging. Different uptake. (Carousel, Slot B evergreen rotation) | [ ] |
 | Fri Aug 21 | 10:00 AM | LinkedIn Feed | Post 124 - Tease Hook (teases Week 34) | [ ] |
 
 ---
@@ -258,7 +258,11 @@ The fix is not better clinical rationale. It is better messaging. Specific. Earl
 ---
 
 ## Post 123 - Thursday 10:00 AM
-### Member Communication Checklist (Whiteboard Carousel) - WEEKLY THEME
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: Same benefit change. Different messaging. Different uptake. (Slot B of the evergreen rotation).**
+
+### Member Communication Checklist (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Broker/Consultant Resources

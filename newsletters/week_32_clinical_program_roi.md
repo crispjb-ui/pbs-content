@@ -12,7 +12,7 @@
 | Tue Aug 11 | 10:00 AM | LinkedIn Feed | Post 117 - "What Your PBM's Clinical Programs Actually Deliver" MESSY INFOGRAPHIC | [ ] |
 | Wed Aug 12 | 10:00 AM | LinkedIn Feed | Post 118 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 13 | 7:30 AM | Substack | Field Note: "Step Therapy Protocols: Where They Help and Where They Harm" | [ ] |
-| Thu Aug 13 | 10:00 AM | LinkedIn Feed | Post 119 - Clinical Program Evaluation One Number Carousel (weekly theme) | [ ] |
+| Thu Aug 13 | 10:00 AM | LinkedIn Feed | Post 119 - 5 Fiduciary Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Fri Aug 14 | 10:00 AM | LinkedIn Feed | Post 120 - Tease Hook (teases Week 33) | [ ] |
 
 ---
@@ -251,7 +251,11 @@ One request changes the conversation: ask your PBM for the specific savings meth
 ---
 
 ## Post 119 - Thursday 10:00 AM
-### Clinical Program Evaluation (One Number Carousel) - WEEKLY THEME
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Fiduciary Terms Decoded (Slot A of the evergreen rotation).**
+
+### Clinical Program Evaluation (One Number Carousel) - WEEKLY THEME [REPURPOSED]
 
 **Format:** One Number Carousel (7 slides) - Template C
 **Pillar:** Clinical Pharmacy Perspectives
@@ -267,6 +271,25 @@ One request changes the conversation: ask your PBM for the specific savings meth
 **Slide 7 (Blue):** "Verified ≠ Reported" — "Score your PBM's programs before you trust the numbers." team@rxbs.org
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+---
+
+### Thursday Evergreen Rotation (Slot A) - 5 Fiduciary Terms Decoded
+
+- **Slot:** A
+- **Format:** Messy Infographic
+- **Pillar:** PBM Contract Insights
+- **Topic:** 5 Fiduciary Terms Decoded
+- **Hook:** "ERISA uses five words that sound procedural. They are not. They define your personal exposure."
+
+**Content outline (5 terms, pattern: Term. What the PBM/statute means. What you should read it as.):**
+- "Fiduciary" - Statute means: a person with discretionary authority over plan assets. Read it as: you, if you influence pharmacy benefit decisions, even without a formal title.
+- "Prudent process" - Statute means: a reasonable, documented decision-making process. Read it as: the standard courts apply. Not "did you get the best deal" but "can you show how you decided."
+- "Plan assets" - Statute means: money and rights belonging to the plan. Read it as: rebates and manufacturer payments attributable to your plan, whether they reach your plan or not.
+- "Conflict of interest" - Statute means: a situation where the fiduciary's duty conflicts with another interest. Read it as: the PBM's ownership of pharmacies, rebate aggregators, and GPOs that create structural conflicts in every claim.
+- "Co-fiduciary liability" - Statute means: liability for another fiduciary's breach you knew about. Read it as: your exposure for PBM conduct you saw, suspected, or could have discovered through reasonable inquiry.
+
+**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 FIDUCIARY TERMS DECODED." Five stacked rows. Each row: term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
 
 ---
 

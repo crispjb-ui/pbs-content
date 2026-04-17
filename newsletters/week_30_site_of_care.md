@@ -343,8 +343,6 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 
 **Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across four middle slides. Mobile-optimized 1080x1350.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 ---
 
 ## Post 111 Company Reshare - Thursday 1:30 PM

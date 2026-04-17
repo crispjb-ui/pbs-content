@@ -280,7 +280,11 @@ Your broker can add this layer of specificity. The best ones already do.
 ---
 
 ## Post 115 - Thursday 10:00 AM
-### RFP Process Timeline (Whiteboard Carousel) - WEEKLY THEME
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Questions About Clinical Program ROI (Slot C of the evergreen rotation).**
+
+### RFP Process Timeline (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** PBM Contract Insights
@@ -303,6 +307,27 @@ RFP development. Distribution. Response evaluation. Finalist presentations. Sele
 **Slide 5:** "WEEKS 9-10: Finalist Presentations" "Ask follow-up questions from scoring. Watch for vague answers."
 **Slide 6:** "WEEKS 11-16: Contract Negotiation" "Every provision matters. Do not rush this phase." Annotation: "The contract defines the relationship for 2-3 years."
 **Slide 7:** Primary Blue bg. "Total: 4-6 months from RFP to go-live." "Starting now for January 1? You are on time." team@rxbs.org
+
+---
+
+### Thursday Evergreen Rotation (Slot C) - 5 Questions About Clinical Program ROI
+
+- **Slot:** C
+- **Format:** Carousel (6 slides)
+- **Pillar:** Transparency & Industry Education
+- **Topic:** 5 Questions About Clinical Program ROI
+- **Hook:** "Your PBM reports millions in clinical savings. Five questions reveal how much of that is math and how much is marketing."
+
+**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+- Slide 1 (Hook): "5 Questions About Clinical Program ROI." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What is the savings methodology for each clinical program?" Why it matters: "methodology" is where assumptions live. Avoided cost assumptions drive most of the reported savings and rarely hold up to audit.
+- Slide 3 (Q2): "Can we see a sample calculation, claim-by-claim, for each program?" Why it matters: topline savings are a summary. A sample calculation is the evidence. Without it, the number is a claim, not a measurement.
+- Slide 4 (Q3): "Which savings are counted in multiple programs?" Why it matters: double-counting is common across PA, step therapy, and DUR. One intervention gets credited to multiple programs, inflating the total.
+- Slide 5 (Q4): "What is the therapy abandonment rate for members denied or stepped?" Why it matters: savings from members giving up care are not savings. They are deferred costs with clinical consequences.
+- Slide 6 (Q5): "How do you verify the counterfactual, what would have happened without the program?" Why it matters: a program is only saving money if costs would have been higher without it. Most PBM methodologies never answer this question.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One verified savings number. Audit before you trust." team@rxbs.org | Benefit Blind Spots.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
 
 ---
 
