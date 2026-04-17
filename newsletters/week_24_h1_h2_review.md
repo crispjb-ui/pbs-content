@@ -92,13 +92,35 @@ Cross-reference with your specific stop-loss attachment point. Each member above
 
 Here is what it looks like when you walk into renewal with these five numbers documented and benchmarked.
 
-| Metric | Your H1 Number | Prior Year | Market Benchmark | Status |
-|--------|---------------|------------|-----------------|--------|
-| GER (Retail) | ___% | ___% | 85%+ | Green / Yellow / Red |
-| PMPM Trend | ___% | ___% | <10% | Green / Yellow / Red |
-| Specialty % of Spend | ___% | ___% | 40-55% | Green / Yellow / Red |
-| Rebate per Brand Claim | $___ | $___ | Per contract guarantee | Green / Yellow / Red |
-| High-Cost Claimants (>$100K) | ___ | ___ | Trend direction | Green / Yellow / Red |
+**GER (Retail)**
+- Your H1 Number: ___%
+- Prior Year: ___%
+- Market Benchmark: 85% or higher
+- Status: Green / Yellow / Red
+
+**PMPM Trend**
+- Your H1 Number: ___%
+- Prior Year: ___%
+- Market Benchmark: Under 10%
+- Status: Green / Yellow / Red
+
+**Specialty % of Spend**
+- Your H1 Number: ___%
+- Prior Year: ___%
+- Market Benchmark: 40-55%
+- Status: Green / Yellow / Red
+
+**Rebate per Brand Claim**
+- Your H1 Number: $___
+- Prior Year: $___
+- Market Benchmark: Per contract guarantee
+- Status: Green / Yellow / Red
+
+**High-Cost Claimants (Over $100K)**
+- Your H1 Number: ___
+- Prior Year: ___
+- Market Benchmark: Trend direction
+- Status: Green / Yellow / Red
 
 Three or more green? You negotiate from strength. Three or more red? You need to address performance gaps before the PBM sets renewal terms.
 
