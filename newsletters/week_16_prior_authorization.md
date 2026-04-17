@@ -792,22 +792,43 @@ This week's Pharmacy Benefits Briefing covers the full PA optimization framework
 
 **Format:** MESSY INFOGRAPHIC - Whiteboard/informal style, same visual DNA as Week 10 (22K impressions) and Week 14 (4.9K impressions).
 
-**Layout:**
-- Title: "5 PA Contract Terms Decoded"
-- Five rows, each a two-column decoder:
-  - Left column (gray marker): the PBM term in quotes
-  - Right column (Accent Blue #A7E0FA): the plain English translation
-  - Short arrow between them
-- Bottom callout: "Your PBM wrote these definitions. Your contract should redefine them."
-- Informal fonts, marker-on-whiteboard feel
-- No Benefit Blind Spots branding in the image itself (add in Canva post-gen)
+**Dimensions:** 2240 x 1260 px
+
+**AI Image Generation Prompt (paste into Midjourney, DALL-E, or similar):**
+
+A deliberately imperfect whiteboard-style digital infographic at 2240 x 1260 pixels with a solid white (#FFFFFF) background. The visual feels hand-drawn on a real whiteboard, with slight imperfections: not-quite-straight lines, small marker smudges, corners that do not fully meet. No gradients, no photorealistic elements, no 3D rendering.
+
+Title at the top, hand-lettered in bold deep teal-blue (#015880) marker style, approximately 72-96pt: "5 PA CONTRACT TERMS DECODED."
+
+Below the title, five horizontal rows stacked vertically with even spacing. Each row contains:
+- LEFT SIDE: A short phrase in quotation marks, written in gray (#4D4D4D) marker style, approximately 44-52pt, looking slightly rushed:
+  Row 1: "Timely manner"
+  Row 2: "Clinically appropriate"
+  Row 3: "Medical necessity"
+  Row 4: "Utilization management fee"
+  Row 5: "Standard review"
+- A hand-drawn arrow pointing right, deep teal-blue (#015880), slightly wobbly, approximately 120px wide
+- RIGHT SIDE: A short plain-English translation, written in Accent Blue (#A7E0FA) highlighter or marker style, approximately 44-52pt:
+  Row 1: "No defined hours. Protects no one."
+  Row 2: "PBM defines it. Not your plan."
+  Row 3: "Denial that shifts burden to prescriber."
+  Row 4: "Often hidden inside admin fee."
+  Row 5: "Can mean hours. Can mean weeks."
+
+At the bottom, a hand-drawn box outlined in deep teal-blue (#015880) marker containing the callout text in deep teal-blue, approximately 40-48pt: "Your PBM wrote these definitions. Your contract should redefine them."
+
+Overall feel: A pharmacy benefits expert sketched this on a whiteboard during a client meeting. Deliberately informal. No corporate polish. No logos, no badges, no newsletter names, no watermarks, no signatures. No photographs, no realistic elements, no illustrations of people.
+
+Color palette strictly: white (#FFFFFF) background, deep teal-blue (#015880) for title and marker text, Accent Blue (#A7E0FA) for translations, Gray (#4D4D4D) for the PBM-term quotes.
 
 **Canva post-gen steps:**
 1. Generate base image using the prompt above at 2240 x 1260 px
-2. Add "Benefit Blind Spots" badge top-left (Roboto Bold, 32-36pt, deep teal-blue #015880)
-3. Add PBS logo (dark version) bottom-right, 160-200px width
-4. Verify readability at thumbnail size
-5. Export as PNG
+2. If AI rendering of specific terms or translations is misspelled or garbled, overlay the correct text in Canva using a handwritten/marker font (Permanent Marker, Caveat, or similar) in the same colors
+3. If the arrows look awkward, replace with Canva's "marker arrow" shapes in deep teal-blue (#015880)
+4. Add "Benefit Blind Spots" badge top-left (Roboto Bold, 32-36pt, deep teal-blue #015880) outside the whiteboard feel
+5. Add PBS logo (dark version) bottom-right, 160-200px width
+6. Verify readability at LinkedIn thumbnail size (feed preview)
+7. Export as PNG
 
 ---
 
