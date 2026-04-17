@@ -37,7 +37,7 @@ To make sure this lands in your Primary inbox:
 
 Before the next issue arrives, read the PBM Contract Language Library. It is free, evergreen, and the single most practical piece on the site. If you are preparing for a PBM renewal in the next 12 months, start there.
 
-[LINK TO CONTRACT LANGUAGE LIBRARY]
+https://benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **WHO AM I?**
 

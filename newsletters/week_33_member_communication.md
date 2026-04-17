@@ -115,7 +115,7 @@ Have you implemented a pharmacy change where the communication made or broke the
 
 ---
 
-*For the full protective contract language on formulary management, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on formulary management, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 

@@ -112,7 +112,7 @@ The employers who do this negotiate measurably different outcomes. Every time.
 
 ---
 
-*For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 

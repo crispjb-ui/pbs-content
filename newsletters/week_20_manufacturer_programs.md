@@ -99,7 +99,7 @@ Have you quantified the copay card impact on your plan? If you found something u
 
 ---
 
-*For the full protective contract language on rebate passthrough and formulary management, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on rebate passthrough and formulary management, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions on manufacturer programs and copay card economics? Reach out at team@rxbs.org.*
 

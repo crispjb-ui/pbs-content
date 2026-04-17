@@ -113,7 +113,7 @@ Have you started your renewal preparation yet? If you have a timeline that works
 
 ---
 
-*For the full protective contract language on termination notice and audit rights, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on termination notice and audit rights, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions on renewal preparation? Reach out at team@rxbs.org.*
 

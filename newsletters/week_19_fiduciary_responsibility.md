@@ -116,7 +116,7 @@ Have you audited your fiduciary documentation trail for pharmacy benefits? If yo
 
 ---
 
-*For the full protective contract language on audit rights and audit remedy, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on audit rights and audit remedy, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions on fiduciary compliance in pharmacy benefits? Reach out at team@rxbs.org.*
 

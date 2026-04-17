@@ -96,7 +96,7 @@ Have you scored your plan's specialty management? Leave a comment below.
 
 ---
 
-*For the full protective contract language on specialty routing and prior authorization, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on specialty routing and prior authorization, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 

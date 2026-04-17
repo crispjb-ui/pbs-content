@@ -136,7 +136,7 @@ Have you scored your PBM relationship? If you have gone through the evaluation, 
 
 ---
 
-*For the full protective contract language on termination notice and data transfer, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on termination notice and data transfer, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions on PBM evaluation? Reach out at team@rxbs.org.*
 

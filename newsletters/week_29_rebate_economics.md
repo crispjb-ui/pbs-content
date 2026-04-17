@@ -108,7 +108,7 @@ Have you compared your rebate provisions to strong language benchmarks? If you h
 
 ---
 
-*For the full protective contract language on rebate passthrough and rebate guarantees, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on rebate passthrough and rebate guarantees, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions on rebate economics? Reach out at team@rxbs.org.*
 
