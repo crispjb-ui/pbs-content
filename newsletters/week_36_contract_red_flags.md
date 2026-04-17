@@ -258,6 +258,26 @@ Your broker or benefits counsel should know which version your contract uses. If
 
 ---
 
+### Thursday Evergreen Rotation (Slot B) - Same contract language. Different interpretations. Different outcomes.
+
+- **Slot:** B
+- **Format:** Carousel (6 slides)
+- **Pillar:** Cost Containment Strategies
+- **Topic:** Same contract language. Different interpretations. Different outcomes.
+- **Hook:** "Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The interpretation did."
+
+**Content outline (Same/Same/Different structure, parallel lines then punchline):**
+- Slide 1 (Hook): "Same contract language. Different interpretations. Different outcomes." Swipe indicator in Accent Blue.
+- Slide 2 (PBM A): "PBM A: 'Rebate' means manufacturer rebates only. Admin fees, data fees, aggregator fees are separate and retained."
+- Slide 3 (PBM B): "PBM B: Same clause. 'Rebate' includes most manufacturer compensation. Better definition, but specialty still carved out."
+- Slide 4 (PBM C): "PBM C: Same clause. 'Rebate' means all compensation from manufacturers. No carve-outs. The contract reads the same. The economics do not."
+- Slide 5 (Punchline): "Same ten words. Three definitions. Three financial outcomes. The contract is only as strong as the definition written underneath it." Accent Blue underline under "definition."
+- Slide 6 (CTA): Primary Blue background. White: "Definitions are the contract. Read them twice." team@rxbs.org | Benefit Blind Spots | PBS logo.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
+
+---
+
 ## Post 135 Company Reshare - Thursday 1:30 PM
 
 **Word Count:** 47 words

@@ -12,7 +12,7 @@
 | Tue Sep 15 | 10:00 AM | LinkedIn Feed | Post 137 - "The Renewal Readiness Gap" MESSY INFOGRAPHIC | [ ] |
 | Wed Sep 16 | 10:00 AM | LinkedIn Feed | Post 138 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Sep 17 | 7:30 AM | Substack | Field Note: "The First Meeting with Your PBM at Renewal" | [ ] |
-| Thu Sep 17 | 10:00 AM | LinkedIn Feed | Post 139 - Renewal Readiness Scorecard One Number Carousel (weekly theme) | [ ] |
+| Thu Sep 17 | 10:00 AM | LinkedIn Feed | Post 139 - 5 Questions About PBM Performance Guarantees (Carousel, Slot C evergreen rotation) | [ ] |
 | Fri Sep 18 | 10:00 AM | LinkedIn Feed | Post 140 - "What Q4 Will Bring" Tease Hook | [ ] |
 
 ---
