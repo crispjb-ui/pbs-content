@@ -17,7 +17,7 @@
 | Wed Jun 3 | 8:30 AM | LinkedIn Feed | Post 78 - "Your PBM May Have a Financial Incentive to Keep You on the Brand" Strong POV (TEXT) | [ ] |
 | Wed Jun 3 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jun 4 | 7:30 AM | Substack | Field Note: "Three Biosimilar Contract Provisions Worth Negotiating" | [ ] |
-| Thu Jun 4 | 8:30 AM | LinkedIn Feed | Post 79 - Biosimilar Readiness Checklist (INFO - weekly theme) | [ ] |
+| Thu Jun 4 | 8:30 AM | LinkedIn Feed | Post 79 - 5 Questions About Spread Pricing (Carousel, Slot C evergreen rotation) | [ ] |
 | Thu Jun 4 | 1:30 PM | LinkedIn Company | Company Reshare of Post 79 | [ ] |
 | Thu Jun 4 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Jun 5 | 8:30 AM | LinkedIn Feed | Post 80 - "Your Claims Data Is Already Talking" Tease Hook (TEXT) | [ ] |
@@ -43,8 +43,6 @@
 ### Article Body
 
 A client asked us last quarter to review their specialty pharmacy spend. One biologic stood out: a brand-name product with a biosimilar available at a meaningfully lower net cost. The plan was still paying for the brand. Every refill. Every member on that therapy. For over a year after the biosimilar launched.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 When we asked the PBM why the biosimilar was not preferred, the answer was familiar: "Our formulary committee evaluated both options." What the PBM did not volunteer was that the brand manufacturer's rebate contract included exclusivity provisions that made switching financially disadvantageous for the PBM, not for the plan. The PBM was earning more by keeping members on the brand. The employer was paying more.
 
@@ -217,8 +215,6 @@ The PBM's explanation referenced their formulary committee process. What the PBM
 
 Here is my position: the biosimilar opportunity is one of the most straightforward cost containment strategies available to self-funded employers, and most plans are not fully capturing it.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 The economics are counterintuitive. Brand biologics facing biosimilar competition often increase rebate offers to maintain preferred formulary status. Higher rebates flow to the PBM. A portion flows back to the plan. But higher rebates do not automatically mean lower cost. When we run net cost comparisons (after all rebates and fees), the biosimilar frequently saves the plan more money even with lower rebates. The PBM's incentive and the plan's incentive are not always the same.
 
 This is not about vilifying PBMs. It is about understanding that their financial model may not automatically produce the lowest net cost for every therapy on your formulary. Biosimilars are where that misalignment is most visible and most measurable.
@@ -318,8 +314,6 @@ Three small info boxes side by side:
 - Box 3: "Adds up across every claim" with calculator icon
 
 **Bottom Bar:** Accent Blue (#A7E0FA) background with "Do you know your PBM's spread?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
-
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan." in Gray (#4D4D4D) Roboto 10pt, centered above the bottom bar.
 
 **Design Notes:**
 - Vertical flow: Plan → PBM → Pharmacy, top to bottom
@@ -438,7 +432,11 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 ---
 
 ## Post 79 - Thursday 8:30 AM
-### Biosimilar Readiness Checklist (Infographic) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Questions About Spread Pricing (Slot C of the evergreen rotation).**
+
+### Biosimilar Readiness Checklist (Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Single Infographic (INFO)
 **Pillar:** Cost Containment Strategies
@@ -520,8 +518,6 @@ The biosimilar strategy briefing covers why PBM rebate economics may not align w
 
 **Bottom Bar:** Accent Blue (#A7E0FA) background with "Request the net cost comparison this quarter." in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
 
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan." in Gray (#4D4D4D) Roboto 10pt, centered above scoring bar.
-
 **Design Notes:**
 - Alternating row backgrounds (light gray / white) for readability
 - Checkbox icons are empty squares (not filled), suggesting the reader should self-assess
@@ -537,6 +533,27 @@ The biosimilar strategy briefing covers why PBM rebate economics may not align w
 | Gray | #4D4D4D | Sub-text, disclaimer |
 | Light Gray | #E0E0E0 | Alternating row backgrounds |
 | White | #FFFFFF | Overall background, alternating rows |
+
+---
+
+### Thursday Evergreen Rotation (Slot C) - 5 Questions About Spread Pricing
+
+- **Slot:** C
+- **Format:** Carousel (6 slides)
+- **Pillar:** Transparency & Industry Education
+- **Topic:** 5 Questions About Spread Pricing
+- **Hook:** "Your PBM says it does not keep spread. Your contract says the definition of spread is whatever the PBM decides. Five questions that close the gap."
+
+**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+- Slide 1 (Hook): "5 Questions About Spread Pricing." Accent Blue swipe indicator.
+- Slide 2 (Q1): "How does our contract define 'spread'?" Why it matters: the definition is the entire game. Without it, "no spread" is a marketing claim, not a contractual commitment.
+- Slide 3 (Q2): "Does our pass-through contract apply to every drug, every channel, every day?" Why it matters: carve-outs inside pass-through contracts are where spread lives.
+- Slide 4 (Q3): "Are retail network pharmacies reimbursed the same amount the plan is charged?" Why it matters: the difference between pharmacy reimbursement and plan charge is spread, whether or not the PBM calls it that.
+- Slide 5 (Q4): "Can we audit a sample of claims against pharmacy reimbursement data?" Why it matters: the only way to verify pass-through is to see both sides of the transaction.
+- Slide 6 (Q5): "If we find spread that contradicts the contract, what is the remedy?" Why it matters: audit rights without remedies are theater. The remedy clause is where leverage lives.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract definition. Close the gap." team@rxbs.org | Benefit Blind Spots.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
 
 ---
 

@@ -17,7 +17,7 @@
 | Wed Jul 15 | 10:00 AM | LinkedIn Feed | Post 102 - "Same drug. Retail: one price. Mail order: different price. Specialty: another." Strong POV (TEXT) / VIDEO TEST #2 | [ ] |
 | Wed Jul 15 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jul 16 | 7:30 AM | Substack | Field Note: "Mail Order Economics: When It Saves and When It Does Not" | [ ] |
-| Thu Jul 16 | 10:00 AM | LinkedIn Feed | Post 103 - Network Channel Comparison Whiteboard Carousel (weekly theme) | [ ] |
+| Thu Jul 16 | 10:00 AM | LinkedIn Feed | Post 103 - 5 Questions About Mail-Order Economics (Carousel, Slot C evergreen rotation) | [ ] |
 | Thu Jul 16 | 1:30 PM | LinkedIn Company | Company Reshare of Post 103 | [ ] |
 | Thu Jul 16 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Jul 17 | 10:00 AM | LinkedIn Feed | Post 104 - "The money trail your claims report does not show" Tease Hook (TEXT) | [ ] |
@@ -43,8 +43,6 @@
 ### Article Body
 
 A client's broker flagged something in their claims data last year that I wish more brokers caught: the specialty pharmacy routing structure was costing more than the entire annual formulary rebate was saving. One routing policy change recaptured those dollars. One change. One drug category.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 When we looked at why the routing was set up that way, the answer was familiar: the PBM's default network configuration. Nobody had questioned it. Nobody had modeled the alternatives. The PBM routed specialty claims through their owned specialty pharmacy, and the employer assumed that was the only option. It was not.
 
@@ -189,8 +187,6 @@ Your broker can help you model both scenarios and calculate the net impact for y
 
 A client's broker flagged something in their claims data last year: the specialty pharmacy routing structure was costing more than the entire annual formulary rebate was saving. One routing change recaptured those dollars.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 Nobody had questioned the routing. Nobody had modeled alternatives. The PBM routed specialty claims through their owned specialty pharmacy, and the employer assumed that was the only option. It was not.
 
 Here is what I have learned from reviewing approximately 100 PBM contracts annually: network design is one of the most impactful cost levers in pharmacy benefits, and most employers have never evaluated it independently. The formulary gets attention. Rebates get attention. The network, where prescriptions are actually filled and at what cost per channel, runs on autopilot.
@@ -327,7 +323,11 @@ One data request: net cost per script by dispensing channel, for your top 10 dru
 ---
 
 ## Post 103 - Thursday 10:00 AM
-### Network Channel Comparison (Whiteboard Carousel) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Questions About Mail-Order Economics (Slot C of the evergreen rotation).**
+
+### Network Channel Comparison (Whiteboard Carousel) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Cost Containment Strategies
@@ -392,6 +392,27 @@ Full network cost comparison model in this week's Pharmacy Benefits Briefing. Fo
 - White: "One data request reveals the story."
 - Accent Blue: "Net cost per script. By channel. Top 10 drugs."
 - team@rxbs.org | Benefit Blind Spots | PBS logo
+
+---
+
+### Thursday Evergreen Rotation (Slot C) - 5 Questions About Mail-Order Economics
+
+- **Slot:** C
+- **Format:** Carousel (6 slides)
+- **Pillar:** Transparency & Industry Education
+- **Topic:** 5 Questions About Mail-Order Economics
+- **Hook:** "Mail-order pharmacy markets itself as savings. Five questions that reveal who is actually saving, your plan or your PBM."
+
+**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+- Slide 1 (Hook): "5 Questions About Mail-Order Economics." Accent Blue swipe indicator.
+- Slide 2 (Q1): "Who owns the mail-order pharmacy our plan uses?" Why it matters: if the PBM or a PBM affiliate owns the pharmacy, mail-order savings and PBM revenue are the same dollars.
+- Slide 3 (Q2): "What is the net cost per script, mail-order versus 90-day retail, for our top 25 drugs?" Why it matters: the "mail order saves" claim is a per-category answer, not a universal one. Some drugs are cheaper at retail.
+- Slide 4 (Q3): "Is our mail-order program mandatory, preferred, or optional, and what is the member impact?" Why it matters: mandatory mail programs move volume to the PBM-owned pharmacy regardless of whether that is the cheapest option for your plan.
+- Slide 5 (Q4): "What is the waste rate on our 90-day mail-order fills?" Why it matters: unused medication is a cost with no clinical benefit. Mail-order savings net of waste is the real number.
+- Slide 6 (Q5): "Can we audit mail-order pricing against retail 90-day for the same drug?" Why it matters: the comparison is contractually available only if you negotiated the right to it. Without audit rights, the savings claim is a marketing statement.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One channel. Know who is saving." team@rxbs.org | Benefit Blind Spots.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
 
 ---
 

@@ -35,8 +35,6 @@
 
 I remember the exact moment a client realized their specialty pharmacy spend had crossed the line. It now represented a larger share of their total pharmacy cost than every other category combined. That single data point changed how they approached every contract provision, every formulary decision, and every vendor evaluation going forward. Specialty is no longer a subcategory. For most of our clients, it is the category.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 The shift happened gradually. Each year, specialty grew as a percentage of total spend. Each year, the employer focused on retail and mail cost management while specialty ran on the PBM's default settings. By the time they looked up, specialty was the majority of their pharmacy cost, and the management infrastructure around it was the weakest part of their benefit.
 
 This is the pattern we see across plans of every size. Specialty gets the least independent oversight despite driving the most cost. The PBM manages specialty routing (often through a pharmacy they own). The PBM manages specialty formulary (influenced by rebate economics). The PBM reports specialty savings (using methodologies they designed). At no point in that chain does the employer's cost objective enter the equation unless the contract requires it.

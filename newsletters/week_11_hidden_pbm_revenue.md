@@ -352,8 +352,6 @@ Carousel breaks down:
 
 Same drug. Two prices. One you see.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 #PharmacyBenefits #PBM #SpreadPricing #Transparency #SelfFundedEmployers
 
 #### First Comment
@@ -507,7 +505,6 @@ Which of these revenue streams surprised you most? Tell me below.
   - "What manufacturer payments influence our formulary?"
   - "What is the mail-order acquisition cost?"
   - "How are retroactive adjustments calculated and reconciled?"
-- Bottom banner: "Illustrative example for educational purposes. Actual amounts vary by plan."
 - Footer: Prescription Benefit Solutions | www.rxbs.org
 
 ---

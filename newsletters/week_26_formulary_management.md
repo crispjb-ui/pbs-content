@@ -17,7 +17,7 @@
 | Wed Jul 1 | 10:00 AM | LinkedIn Feed | Post 94 - "Your formulary was built for your PBM's rebate strategy." Strong POV (TEXT) / VIDEO TEST #1 | [ ] |
 | Wed Jul 1 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jul 2 | 7:30 AM | Substack | Field Note: "Three Formulary Questions Your PBM Should Answer" | [ ] |
-| Thu Jul 2 | 10:00 AM | LinkedIn Feed | Post 95 - Formulary Evaluation Framework Contract Markup Carousel (weekly theme) | [ ] |
+| Thu Jul 2 | 10:00 AM | LinkedIn Feed | Post 95 - 5 Rebate Retention Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Thu Jul 2 | 1:30 PM | LinkedIn Company | Company Reshare of Post 95 | [ ] |
 | Thu Jul 2 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Jul 3 | 10:00 AM | LinkedIn Feed | Post 96 - "The question that reveals everything about your PBM" Tease Hook (TEXT) | [ ] |
@@ -47,8 +47,6 @@
 We were reviewing a client's formulary last quarter and asked a straightforward question: how does your drug list differ from the PBM's standard book of business formulary? The employer believed they had a customized formulary. That is what their PBM had told them. That is what the contract referenced.
 
 After some digging, the answer was that it did not differ at all. The "customized" formulary was identical to what every other client on that PBM received. Same tiers. Same preferred products. Same exclusions. The only customization was the employer's name on the cover page.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 I share this not to single out one PBM. We see this pattern regularly. The formulary is presented as a clinical document managed by an independent Pharmacy and Therapeutics (P&T) committee. In practice, the formulary is also a financial document where rebate economics heavily influence tier placement decisions. Those two functions, clinical appropriateness and rebate optimization, do not always point in the same direction.
 
@@ -219,8 +217,6 @@ We asked a client a simple question last quarter: how does your formulary differ
 
 After some digging, it did not differ at all. Same tiers. Same preferred products. Same exclusions. The "customization" was the employer's name on the cover page.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 Here is my position: the formulary is the most consequential financial document in your pharmacy benefit, and most employers have never independently evaluated it.
 
 Your formulary determines which drugs your members can access at each cost-sharing level. It determines which manufacturers receive preferred status and the associated rebate revenue. It determines your plan's net drug cost across every therapeutic category. And in most cases, the decisions behind that formulary were made by your PBM's P&T committee with rebate economics as a significant factor, not by the employer.
@@ -309,8 +305,6 @@ More in this week's Pharmacy Benefits Briefing on formulary management: [LINKEDI
 
 **Bottom bar:** "Ask for the net cost analysis." PBS logo (50px). team@rxbs.org
 
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan." Gray 10pt.
-
 **Design Notes:** Whiteboard aesthetic. Caveat font. Hand-drawn arrows (slightly curved, imperfect). Red for key questions. Accent Blue for headers. Gray for annotations.
 
 ---
@@ -398,7 +392,11 @@ One question changes the conversation: what is the net cost, our formulary vs. a
 ---
 
 ## Post 95 - Thursday 10:00 AM
-### Formulary Evaluation Framework (Contract Markup Carousel) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Rebate Retention Terms Decoded (Slot A of the evergreen rotation).**
+
+### Formulary Evaluation Framework (Contract Markup Carousel) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Contract Markup Carousel (7 slides) - NEW TEMPLATE B
 **Pillar:** Transparency & Industry Education
@@ -482,6 +480,25 @@ The full formulary management analysis and field note on three questions your PB
 4. Red annotations: #C0392B, hand-drawn style
 5. "CONTRACT REVIEW" stamp: Caveat Bold, 14pt, rotated -8 degrees, red
 6. Export all slides as PNG, 1080 x 1350 px
+
+---
+
+### Thursday Evergreen Rotation (Slot A) - 5 Rebate Retention Terms Decoded
+
+- **Slot:** A
+- **Format:** Messy Infographic
+- **Pillar:** PBM Contract Insights
+- **Topic:** 5 Rebate Retention Terms Decoded
+- **Hook:** "Rebate passthrough sounds like one thing. Rebate retention is where the money lives. Five terms that decide which side of the line your dollars land on."
+
+**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
+- "Pass-through rebates" - PBM means: rebates the PBM passes to the plan. Read it as: the portion of rebates explicitly defined as pass-through. Everything outside that definition is retained.
+- "Retained rebate" - PBM means: rebate dollars the PBM keeps as compensation. Read it as: the portion your contract authorizes the PBM to keep, often under broad definitions that cover more than you expect.
+- "Non-rebate manufacturer revenue" - PBM means: manufacturer payments that are not classified as rebates. Read it as: data fees, admin fees, and inflation payments that often sit outside pass-through clauses and are retained by the PBM.
+- "Rebate aggregator fee" - PBM means: fee paid to the rebate aggregator for negotiating manufacturer contracts. Read it as: a fee that reduces the rebate pool before passthrough is calculated, on a contract with a PBM affiliate.
+- "Guaranteed minimum rebate" - PBM means: the committed rebate dollar floor. Read it as: a floor the PBM controls by influencing which drugs are dispensed. The guarantee is real. The leverage it requires is not.
+
+**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 REBATE RETENTION TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
 
 ---
 

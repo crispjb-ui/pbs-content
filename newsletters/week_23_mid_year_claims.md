@@ -17,7 +17,7 @@
 | Wed Jun 10 | 8:30 AM | LinkedIn Feed | Post 82 - "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" Strong POV (TEXT) | [ ] |
 | Wed Jun 10 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jun 11 | 7:30 AM | Substack | Field Note: "How to Read a PBM Utilization Report Without Getting Lost" | [ ] |
-| Thu Jun 11 | 8:30 AM | LinkedIn Feed | Post 83 - Five Mid-Year Claims Red Flags (INFO - weekly theme) | [ ] |
+| Thu Jun 11 | 8:30 AM | LinkedIn Feed | Post 83 - 5 Admin Fee Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Thu Jun 11 | 1:30 PM | LinkedIn Company | Company Reshare of Post 83 | [ ] |
 | Thu Jun 11 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Jun 12 | 8:30 AM | LinkedIn Feed | Post 84 - "Your PBM Already Knows Your H1 Numbers" Tease Hook (TEXT) | [ ] |
@@ -43,8 +43,6 @@
 ### Article Body
 
 A client came to us last summer with a question that sounded routine: "Can you look at our claims data before we head into renewal?" We pulled the first half data. Within an hour, three patterns jumped off the page. Specialty concentration had shifted meaningfully as a share of total spend. Two high-cost claimants had crossed their stop-loss thresholds in the same quarter. And generic efficiency had been declining for four consecutive months.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 None of those patterns appeared in the PBM's quarterly summary report. The PBM reported total spend (up modestly), rebate performance (on target), and generic fill rate (meeting guarantee). Everything looked fine on the surface. Underneath, the data was telling a different story. A story the PBM had no obligation to narrate.
 
@@ -216,8 +214,6 @@ A client asked us to review their claims data before heading into renewal last s
 
 We pulled the underlying data. Within an hour, three patterns surfaced that the summary report did not show: specialty concentration shifting as a share of total spend, multiple high-cost claimants crossing thresholds in the same quarter, and generic efficiency declining for four consecutive months.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 Here is my position: mid-year is the most valuable window in the pharmacy benefit cycle, and most employers are not using it. By renewal, patterns have become outcomes. The window to intervene has closed. Mid-year gives you four to five months to identify problems, adjust strategy, and build a negotiation position before the PBM presents their terms.
 
 Your PBM has already analyzed your first-half data. They know your trend. They know where your guarantees stand. They know which cost categories are moving. They are using that analysis to prepare their renewal strategy right now. The question is whether you have done the same analysis on your own data.
@@ -280,8 +276,6 @@ Contract language only protects you if someone enforces it.
 
 #PharmacyBenefits #PBMContracts #AuditRights #SelfFundedEmployers
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 #### First Comment
 
 More in this week's Pharmacy Benefits Briefing on mid-year claims analysis: [LINKEDIN NEWSLETTER URL]
@@ -321,8 +315,6 @@ More in this week's Pharmacy Benefits Briefing on mid-year claims analysis: [LIN
 **Bottom Callout Box:** White background with deep teal-blue (#015880) border (2px). Text: "Contract language only protects you if someone enforces it." in deep teal-blue Roboto Bold (18-20pt), centered.
 
 **Bottom Bar:** Accent Blue (#A7E0FA) background with "When was your last PBM audit?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
-
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan." in Gray (#4D4D4D) Roboto 10pt, centered above the callout box.
 
 **Design Notes:**
 - Three panels stacked vertically, each with its own icon and color treatment
@@ -442,7 +434,11 @@ Mid-year is when you can still act. Renewal is when you react.
 ---
 
 ## Post 83 - Thursday 8:30 AM
-### Five Mid-Year Claims Red Flags (Infographic) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Admin Fee Terms Decoded (Slot A of the evergreen rotation).**
+
+### Five Mid-Year Claims Red Flags (Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Single Infographic (INFO)
 **Pillar:** Self-Funded Employer Guidance
@@ -517,8 +513,6 @@ The mid-year claims briefing covers why the first-half data window is the most v
 
 **Bottom Bar:** Accent Blue (#A7E0FA) background with "Have you pulled your mid-year data?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
 
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan." in Gray (#4D4D4D) Roboto 10pt, centered above alert bar.
-
 **Design Notes:**
 - Alternating row backgrounds (light gray / white) for readability
 - Numbered flag icons create visual sequence and urgency
@@ -535,6 +529,25 @@ The mid-year claims briefing covers why the first-half data window is the most v
 | Gray | #4D4D4D | Sub-text, disclaimer |
 | Light Gray | #E0E0E0 | Alternating row backgrounds |
 | White | #FFFFFF | Overall background, alternating rows |
+
+---
+
+### Thursday Evergreen Rotation (Slot A) - 5 Admin Fee Terms Decoded
+
+- **Slot:** A
+- **Format:** Messy Infographic
+- **Pillar:** PBM Contract Insights
+- **Topic:** 5 Admin Fee Terms Decoded
+- **Hook:** "Admin fees sound administrative. They are revenue. Here is what those five line items actually mean."
+
+**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
+- "Administrative fee" - PBM means: per-member-per-month fee for processing claims. Read it as: the visible portion of PBM revenue. The rest sits elsewhere.
+- "Claims processing fee" - PBM means: fee per claim adjudicated. Read it as: a fee that scales with utilization, meaning the PBM earns more when your plan fills more prescriptions.
+- "Network access fee" - PBM means: charge for access to the PBM's pharmacy network. Read it as: a charge for using an asset the PBM maintains for every client, often duplicative of the admin fee.
+- "Manufacturer admin fee" - PBM means: fee the PBM collects from manufacturers for formulary and data services. Read it as: PBM revenue from drug companies, typically retained in full unless your contract addresses it explicitly.
+- "Data fee" - PBM means: charge for data sold or provided to third parties related to your plan. Read it as: your plan's data, monetized. Ask who pays and who keeps the revenue.
+
+**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 ADMIN FEE TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
 
 ---
 

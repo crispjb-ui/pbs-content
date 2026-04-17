@@ -17,7 +17,7 @@
 | Wed Jun 17 | 8:30 AM | LinkedIn Feed | Post 86 - "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." Tease Hook (TEXT) | [ ] |
 | Wed Jun 17 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jun 18 | 7:30 AM | Substack | Field Note: "Five Numbers That Determine Your Renewal Leverage" | [ ] |
-| Thu Jun 18 | 8:30 AM | LinkedIn Feed | Post 87 - H1 Metrics Dashboard Carousel (weekly theme) | [ ] |
+| Thu Jun 18 | 8:30 AM | LinkedIn Feed | Post 87 - Same diagnosis. Same drug. Different member out-of-pocket. (Carousel, Slot B evergreen rotation) | [ ] |
 | Thu Jun 18 | 1:30 PM | LinkedIn Company | Company Reshare of Post 87 | [ ] |
 | Thu Jun 18 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Jun 19 | 8:30 AM | LinkedIn Feed | Post 88 - "What Q3 Will Bring" Tease Hook (TEXT) | [ ] |
@@ -45,8 +45,6 @@
 Every renewal season, I watch the same pattern. Your PBM has already run your H1 numbers. They know your trend. They know your rebate position. They know where your guarantees fell short. They are using that information right now to prepare their renewal strategy.
 
 Your PBM has had your H1 numbers for weeks. I would bet money you have not looked at them yet.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 I bring this up every year because the pattern never changes. We sit down with clients in June or July for H1 review, and the first question is always the same: "What do our numbers look like?" They do not know. Their PBM does. Their stop-loss carrier does. And while their broker or consultant may have pieces of the picture, the employer has not yet done their own independent analysis. The employer, the one writing the checks, should be the most informed person at the table.
 
@@ -201,8 +199,6 @@ Compile all five metrics with 12 to 24 months of history. Benchmark against avai
 
 The employers who walk into renewal conversations with these five numbers documented and benchmarked negotiate different terms than those who rely on their PBM's summary reports. Your PBM controls the narrative when you do not have your own data. These five numbers change that.
 
-Illustrative example for educational purposes. Actual amounts vary by plan.
-
 ---
 
 *This is a Field Note - shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
@@ -256,8 +252,6 @@ I bring this up every year because the pattern never changes. We sit down with c
 That information asymmetry is how employers end up accepting renewal terms instead of negotiating them.
 
 Here is what changes the dynamic. Five numbers, pulled from your own claims data, benchmarked independently. Generic effective rate versus your contract guarantee. PMPM trend versus market benchmark. Specialty as a percentage of total spend and its trajectory. Rebate per brand claim tracked over time. High-cost claimant count relative to your stop-loss attachment point.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 These are not obscure metrics. They exist in your data right now. The difference between employers who negotiate from strength and those who react to terms is whether they have compiled and benchmarked these numbers before the PBM presents its renewal narrative.
 
@@ -313,8 +307,6 @@ Prescription Benefit Solutions reviews approximately 100 PBM contracts annually.
 
 Before: "PBM will provide competitive discounts."
 After: "PBM guarantees minimum effective discount of [X]% AWP for brand, with quarterly true-up and audit rights."
-
-Illustrative example for educational purposes. Actual amounts vary by plan.
 
 #PBMContracts #PharmacyBenefits #SelfFundedEmployers #ContractLanguage
 
@@ -435,7 +427,11 @@ June is not early. June is late.
 ---
 
 ## Post 87 - Thursday 8:30 AM
-### H1 Metrics Dashboard - What to Measure Now (Carousel)
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: Same diagnosis. Same drug. Different member out-of-pocket. (Slot B of the evergreen rotation).**
+
+### H1 Metrics Dashboard - What to Measure Now (Carousel) [REPURPOSED]
 
 **Format:** Carousel (7 slides)
 **Pillar:** Transparency
@@ -502,6 +498,26 @@ The H1/H2 briefing covers the full assessment framework and renewal positioning 
 3. Alternating #015880 and #FFFFFF backgrounds
 4. One Accent Blue element per slide
 5. Export 1080 x 1350 px each
+
+---
+
+### Thursday Evergreen Rotation (Slot B) - Same diagnosis. Same drug. Different member out-of-pocket.
+
+- **Slot:** B
+- **Format:** Carousel (6 slides)
+- **Pillar:** Cost Containment Strategies
+- **Topic:** Same diagnosis. Same drug. Different member out-of-pocket.
+- **Hook:** "Same diagnosis. Same drug. Three members at your company. Three different out-of-pocket bills. Benefit design is a variable, not a constant."
+
+**Content outline (Same/Same/Different structure, parallel lines then punchline):**
+- Slide 1 (Hook): "Same diagnosis. Same drug. Different out-of-pocket." Swipe indicator in Accent Blue.
+- Slide 2 (Member A): "Retail fill. Tier 2 brand. Standard copay. One out-of-pocket amount."
+- Slide 3 (Member B): "Mail-order fill. Same drug. Different tier handling. Different out-of-pocket."
+- Slide 4 (Member C): "Specialty channel. Same drug. Coinsurance instead of copay. Different out-of-pocket entirely."
+- Slide 5 (Punchline): "Same diagnosis. Same drug. Three members. Three bills. One benefit design creating all three." Accent Blue underline under "One benefit design."
+- Slide 6 (CTA): Primary Blue background. White: "Benefit design is a choice. Model it before the complaints arrive." team@rxbs.org | Benefit Blind Spots | PBS logo.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
 
 ---
 
@@ -769,8 +785,6 @@ If you told me you were about to issue a PBM RFP, here are the questions I would
 10. Will you require PBM finalists to present in person and answer questions from your evaluation committee? (Proposals look similar on paper. The finalist presentation is where you learn how the PBM actually operates.)
 
 The RFP process is your strongest leverage event. The quality of the process determines the quality of the outcome. A rushed or poorly structured RFP produces proposals that are not comparable and decisions that are not defensible.
-
-*Illustrative example for educational purposes. Actual RFP processes vary by plan.*
 
 ---
 

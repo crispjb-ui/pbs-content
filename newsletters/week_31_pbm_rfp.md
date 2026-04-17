@@ -37,8 +37,6 @@ A client's broker brought us in to evaluate three PBM RFP responses. On paper, a
 
 When we normalized the pricing methodologies and asked specific follow-up questions, one was substantially more expensive than the others despite appearing cheapest in the initial response. The discount methodology used a different AWP base. The rebate guarantee excluded specialty claims. The "performance guarantee" had a penalty cap so low it was effectively meaningless.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 The RFP was designed to be won, not to be understood. And that is the structural problem with how most PBM evaluations work.
 
 **Why standard RFPs fail**
@@ -190,8 +188,6 @@ The PBMs know their methodology differences make direct comparison difficult. Th
 ### Newsletter Body
 
 A client's broker brought us in to evaluate three PBM RFP responses. On paper, all three looked competitive. When we normalized the data and asked follow-up questions, one was substantially more expensive despite appearing cheapest initially.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 The discount methodology used a different AWP base. The rebate guarantee excluded specialty claims. The "performance guarantee" had a penalty cap so low it was meaningless.
 

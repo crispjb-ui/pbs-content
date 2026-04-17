@@ -48,8 +48,6 @@ I have sat across the table from employers who genuinely believed they were doin
 
 They could not.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 That gap between "we did what we thought was right" and "we can demonstrate a prudent process" is where fiduciary exposure lives. "We trusted our PBM" is not a defense. I have seen it tried. It does not work.
 
 The question I get most often from employers and their advisory teams: what documentation do I actually need? I will walk through that. But first, some context on why pharmacy benefits specifically are drawing litigation right now.
@@ -93,8 +91,6 @@ What "good" looks like: evidence that you treated renewal as a decision, not an 
 *Committee Governance.* A named fiduciary or committee charter for pharmacy benefit oversight. A regular meeting schedule, quarterly at minimum. Agendas and minutes with decisions recorded. Attendee lists showing consistent participation. Action items with completion tracking.
 
 What "good" looks like: a regular cadence of documented meetings where pharmacy decisions are discussed, data is reviewed, and actions are recorded. Ad hoc, undocumented decision-making is the pattern that creates the most exposure in litigation.
-
-*Illustrative example for educational purposes. Actual documentation requirements vary by plan and legal jurisdiction.*
 
 **The one-page test**
 
@@ -753,5 +749,3 @@ If I were sitting in your first quarterly PBM review meeting, here are the quest
 10. What recommendations does the PBM have for improving our plan's pharmacy performance next quarter? (This question tests whether your PBM is proactively managing your account or just processing claims.)
 
 The quarterly review is where fiduciary documentation is built. Every question asked, every answer received, and every action taken should be recorded in meeting minutes. This is the evidence of prudent process.
-
-*Illustrative example for educational purposes. Actual review agendas vary by plan.*

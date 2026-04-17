@@ -96,8 +96,6 @@ I will be direct: rare disease is hard to plan for because the populations are s
 
 To prepare: review your plan's rare disease claims over the past 24 months, identify members on high-cost rare disease therapies and confirm stop-loss coordination, evaluate specialty pharmacy management for rare disease categories, and keep an eye on the pipeline for therapies that may affect your specific population. Your broker, stop-loss carrier, and benefits consultant are good partners in this conversation.
 
-*Illustrative example for educational purposes. Actual drug approvals, timelines, and costs vary.*
-
 **Setting up a quarterly pipeline review**
 
 Pipeline monitoring does not require a dedicated team or expensive tools. It requires a consistent quarterly process. A few hours, four times a year.
@@ -370,8 +368,6 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 **Bottom Bar:** Accent Blue (#A7E0FA) background with "Is your GLP-1 strategy current?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
 
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan." in Gray (#4D4D4D) Roboto 10pt, centered above the bottom bar.
-
 **Design Notes:**
 - Left column ("90 Days Ago") uses Gray (#4D4D4D) text with light gray (#E0E0E0) background cells
 - Right column ("Today") uses deep teal-blue (#015880) text with Accent Blue (#A7E0FA) tinted background cells
@@ -559,8 +555,6 @@ The full pipeline preparation framework is in this week's Pharmacy Benefits Brie
 - Accent Blue: "Before the claims arrive."
 - team@rxbs.org | Benefit Blind Spots | PBS logo (white, 60px)
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 ---
 
 ### Thursday Evergreen Rotation (Slot B) - Same drug. Retail. Mail order. Specialty. Three prices.
@@ -580,8 +574,6 @@ The full pipeline preparation framework is in this week's Pharmacy Benefits Brie
 - Slide 6 (CTA): Primary Blue background. White: "Channel pricing is a design decision. Whose design is yours?" team@rxbs.org | Benefit Blind Spots | PBS logo.
 
 **Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt headers. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 ---
 

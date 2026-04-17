@@ -17,7 +17,7 @@
 | Wed Jul 8 | 10:00 AM | LinkedIn Feed | Post 98 - "Switching PBMs is disruptive. Staying with the wrong one is expensive." Strong POV (TEXT) | [ ] |
 | Wed Jul 8 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jul 9 | 7:30 AM | Substack | Field Note: "What a PBM Transition Actually Looks Like" | [ ] |
-| Thu Jul 9 | 10:00 AM | LinkedIn Feed | Post 99 - PBM Evaluation Scorecard Overview (INFO - weekly theme) | [ ] |
+| Thu Jul 9 | 10:00 AM | LinkedIn Feed | Post 99 - Same plan. Same data. Different PBM interpretations. (Carousel, Slot B evergreen rotation) | [ ] |
 | Thu Jul 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 99 | [ ] |
 | Thu Jul 9 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Jul 10 | 10:00 AM | LinkedIn Feed | Post 100 - "The number your PBM hopes you never calculate" Tease Hook (TEXT) | [ ] |
@@ -43,8 +43,6 @@
 ### Article Body
 
 Two clients called me within the same week, both unhappy with their PBM. I told one to stay and renegotiate. I told the other to go to market. Both made the right decision. The difference was not frustration level. It was data.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 The first client had a PBM whose pricing was competitive, whose clinical programs were producing measurable results, and whose account team was responsive. Their frustration was about reporting quality and formulary transparency. Those are fixable issues within an existing relationship. Going to market would have cost them transition disruption for problems that a contract amendment could solve.
 
@@ -233,8 +231,6 @@ Implementation is where member experience is most at risk. New pharmacy cards ne
 
 Two clients called me within the same week, both unhappy with their PBM. I told one to stay and renegotiate. I told the other to go to market. Both made the right decision. The difference was not frustration level. It was data.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 The first client had competitive pricing, strong clinical programs, and a responsive account team. Their frustration was about reporting quality and formulary transparency. Those are fixable within the existing relationship. Going to market would have cost them transition disruption for problems a contract amendment could solve.
 
 The second client had pricing well below market, nonexistent rebate transparency, and contract language that had not been updated in three cycles. The relationship had structural problems. Renegotiation alone would not fix them.
@@ -408,7 +404,11 @@ The score does not make the decision. It structures the decision so you are eval
 ---
 
 ## Post 99 - Thursday 10:00 AM
-### PBM Evaluation Scorecard Overview (Infographic) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: Same plan. Same data. Different PBM interpretations. (Slot B of the evergreen rotation).**
+
+### PBM Evaluation Scorecard Overview (Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Standard Infographic (INFO)
 **Pillar:** PBM Contract Insights
@@ -460,6 +460,26 @@ The full PBM evaluation scorecard with weighted scoring criteria is in this week
 **Bottom Bar:** Accent Blue. "Score before you negotiate." PBS logo, team@rxbs.org.
 
 **Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan."
+
+---
+
+### Thursday Evergreen Rotation (Slot B) - Same plan. Same data. Different PBM interpretations.
+
+- **Slot:** B
+- **Format:** Carousel (6 slides)
+- **Pillar:** Cost Containment Strategies
+- **Topic:** Same plan. Same data. Different PBM interpretations.
+- **Hook:** "Same plan. Same claims file. Send it to three PBMs for an RFP. Get three different trend stories. The data is fixed. The narrative is a choice."
+
+**Content outline (Same/Same/Different structure, parallel lines then punchline):**
+- Slide 1 (Hook): "Same plan. Same data. Different PBM interpretations." Swipe indicator in Accent Blue.
+- Slide 2 (PBM A): "PBM A: trend is specialty-driven. Their solution: specialty pharmacy contract improvements."
+- Slide 3 (PBM B): "PBM B: same data. Trend is utilization-driven. Their solution: clinical programs and step therapy."
+- Slide 4 (PBM C): "PBM C: same data. Trend is mix-driven. Their solution: formulary changes and rebate optimization."
+- Slide 5 (Punchline): "Same data. Three diagnoses. Three prescriptions. Each one profitable for the PBM recommending it." Accent Blue underline under "profitable."
+- Slide 6 (CTA): Primary Blue background. White: "The data is the data. The interpretation is the sale. Verify independently." team@rxbs.org | Benefit Blind Spots | PBS logo.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
 
 ---
 

@@ -15,7 +15,7 @@
 | Tue Jul 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 105 | [ ] |
 | Wed Jul 22 | 10:00 AM | LinkedIn Feed | Post 106 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Jul 23 | 7:30 AM | Substack | Field Note: "Three Rebate Report Red Flags That Signal Margin Retention" | [ ] |
-| Thu Jul 23 | 10:00 AM | LinkedIn Feed | Post 107 - Rebate Model Comparison Whiteboard Carousel (weekly theme) | [ ] |
+| Thu Jul 23 | 10:00 AM | LinkedIn Feed | Post 107 - 5 Network Contract Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Thu Jul 23 | 1:30 PM | LinkedIn Company | Company Reshare of Post 107 | [ ] |
 | Fri Jul 24 | 10:00 AM | LinkedIn Feed | Post 108 - Tease Hook TEXT | [ ] |
 | Sat Jul 25 | - | Substack Notes | Engagement note | [ ] |
@@ -39,8 +39,6 @@
 ### Article Body
 
 I sat in a renewal meeting where the PBM proudly presented year-over-year rebate growth. The client was pleased. Then I pulled up the net cost data. Total drug cost had also increased. Both numbers were accurate. The PBM was reporting a metric that made them look good while the metric that mattered to the plan was moving in the wrong direction.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 That disconnect is not unusual. It is structural. Rebate reporting is designed by the PBM, for the PBM. The metrics they highlight (total rebate dollars, rebate growth rate, rebate as percentage of spend) all tell the PBM's story. The metric the employer needs (net cost after rebates, compared to alternatives) is rarely presented unless someone asks for it.
 
@@ -205,8 +203,6 @@ Your contract's audit provisions determine how deep you can dig. If your audit r
 
 I sat in a renewal meeting where the PBM proudly presented year-over-year rebate growth. The client was pleased. Then I pulled up the net cost data. Total drug cost had also increased. Both numbers were accurate.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 The disconnect is structural. Rebate reporting is designed by the PBM, for the PBM. The metrics they highlight (total rebate dollars, growth rate, rebate as percentage of spend) tell the PBM's story. The metric the employer needs (net cost after rebates, compared to alternatives) is rarely presented unless requested.
 
 Here is my position: rebate economics is the most technically complex and most financially consequential area of PBM contracts. The contract language determines how much manufacturer money your plan actually receives. And the difference between weak and strong rebate provisions can be substantial over a multi-year contract.
@@ -326,7 +322,11 @@ One question cuts through the complexity: what is our net drug cost, after all r
 ---
 
 ## Post 107 - Thursday 10:00 AM
-### Rebate Model Comparison (Whiteboard Carousel) - WEEKLY THEME
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Network Contract Terms Decoded (Slot A of the evergreen rotation).**
+
+### Rebate Model Comparison (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Transparency & Industry Education
@@ -359,6 +359,25 @@ Full rebate contract analysis in this week's Pharmacy Benefits Briefing. For reb
 **Slide 6 - What to Check:** Three hand-drawn checkboxes: "Rebate definition (broad or narrow?)" / "Eligible claims (specialty included?)" / "True-up provision (exists?)"
 
 **Slide 7 - CTA:** Primary Blue background. White: "Pull your contract. Find these 8 provisions." Accent Blue: "The comparison speaks for itself." team@rxbs.org
+
+---
+
+### Thursday Evergreen Rotation (Slot A) - 5 Network Contract Terms Decoded
+
+- **Slot:** A
+- **Format:** Messy Infographic
+- **Pillar:** PBM Contract Insights
+- **Topic:** 5 Network Contract Terms Decoded
+- **Hook:** "Pharmacy networks have their own contract vocabulary. These five terms decide where your members fill and what your plan pays."
+
+**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
+- "Preferred network" - PBM means: a narrower subset of pharmacies with enhanced pricing. Read it as: a network the PBM shapes to include or exclude pharmacies based on reimbursement terms, not just member access.
+- "Broad network" - PBM means: the widest pharmacy access, all participating pharmacies. Read it as: the highest-cost configuration, with the least PBM leverage over individual pharmacy pricing.
+- "Network guarantee" - PBM means: contractual commitment on discount, fees, or performance for the network. Read it as: a commitment that applies only to the channels and drug categories specified, often with carve-outs.
+- "Mandatory mail" - PBM means: requirement that members use mail-order for maintenance drugs. Read it as: a volume-steering mechanism that benefits the PBM's owned mail-order pharmacy, whether or not it benefits your plan.
+- "Network exclusion list" - PBM means: pharmacies removed from the network. Read it as: a list that moves revenue. The pharmacies excluded are usually the ones that do not accept the PBM's reimbursement terms.
+
+**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 NETWORK CONTRACT TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
 
 ---
 

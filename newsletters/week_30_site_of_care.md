@@ -12,7 +12,7 @@
 | Tue Jul 28 | 10:00 AM | LinkedIn Feed | Post 109 - "The Most Expensive Room in Healthcare" INFO (different pillar) | [ ] |
 | Wed Jul 29 | 10:00 AM | LinkedIn Feed | Post 110 - Strong POV TEXT / VIDEO TEST #3 | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "White Bagging vs. Brown Bagging: The Practical Differences" | [ ] |
-| Thu Jul 30 | 10:00 AM | LinkedIn Feed | Post 111 - Site-of-Care Decision Framework CAR (weekly theme) | [ ] |
+| Thu Jul 30 | 10:00 AM | LinkedIn Feed | Post 111 - Same infusion. Hospital. Office. Home. Four prices. (Carousel, Slot B evergreen rotation) | [ ] |
 | Fri Jul 31 | 10:00 AM | LinkedIn Feed | Post 112 - Tease Hook TEXT (teases Week 31) | [ ] |
 
 ---
@@ -34,8 +34,6 @@
 ### Article Body
 
 We helped a client implement one site-of-care policy change on a single drug category last year. The savings exceeded their entire annual PBM management fee. One policy. One drug class. That is how much the administration setting matters.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 The drug was an infusion biologic for a rheumatologic condition. Members were receiving infusions at hospital outpatient departments because that was the default setting in the provider network. Nobody had questioned it. The same drug, same dose, same clinical protocol could be administered at an ambulatory infusion center or through home infusion at a fraction of the hospital outpatient cost. The clinical outcome was identical. The cost difference was not.
 
@@ -187,8 +185,6 @@ Before implementing either program, work with your broker and PBM to model the f
 
 We helped a client implement one site-of-care policy change on a single drug category last year. The savings exceeded their entire annual PBM management fee.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 The drug was an infusion biologic. Members were receiving infusions at hospital outpatient departments because that was the default. The same drug, same dose, same clinical protocol could be administered at an ambulatory infusion center at a fraction of the cost. The clinical outcome was identical.
 
 Here is what most employers do not realize: for provider-administered drugs, the cost has two components. The drug cost and the facility cost. The drug cost may be similar across settings. The facility cost is where the variation lives. Hospital outpatient departments apply facility fees that can multiply the administration cost.
@@ -298,7 +294,11 @@ One analysis: compare your top infusion drugs by total cost (drug plus administr
 ---
 
 ## Post 111 - Thursday 10:00 AM
-### Site-of-Care Decision Framework (Carousel) - WEEKLY THEME
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: Same infusion. Hospital. Office. Home. Four prices. (Slot B of the evergreen rotation).**
+
+### Site-of-Care Decision Framework (Carousel) - WEEKLY THEME [REPURPOSED]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Cost Containment Strategies

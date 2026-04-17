@@ -45,8 +45,6 @@ Free drug. Full price claim. Your plan pays.
 
 That is how copay cards work. The manufacturer funds the card. The member pays nothing at the counter. The pharmacy submits a full-price claim. Your plan covers its share based on list price. The drug was never free. The cost just moved: from member to plan, from visible to invisible.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 I walked a client through this flow last quarter. They had flagged a specialty drug generating significant plan spend, but the members on it were not complaining because the drug appeared "affordable" to them. Zero out of pocket, every fill. We pulled the claims and traced what was actually happening. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because those copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was hit.
 
 Nobody on the plan side had made a deliberate decision to cover this drug at this cost. It happened by default. That is how PBM claims processing is designed to work.
@@ -88,8 +86,6 @@ Concepts are useful. Numbers are better. Here is the process we walk clients thr
 *Step 4: Estimate plan-level impact.* Aggregate across all drugs with copay card programs. Calculate the total additional plan cost from accelerated out-of-pocket max accumulation and compare it to the scenario where members paid cost-sharing out of pocket without a copay card. The difference is the cost redistribution from member to plan.
 
 *Step 5: Evaluate your options.* No accumulator or maximizer? Evaluate implementing one. Using an accumulator? Assess the member impact when cards exhaust mid-year. Using a maximizer? Confirm your PBM is actually coordinating correctly. For any approach, identify the five to ten drugs with the largest copay card financial impact and start there.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 **What your contract should address**
 
@@ -160,8 +156,6 @@ When we help clients choose between these programs, we focus on three factors:
 
 3. **Financial modeling.** Run the numbers for your specific population. The savings difference between accumulator and maximizer depends on your drug mix, member demographics, and current copay card utilization. Generic projections do not substitute for plan-specific analysis.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 **What to do this quarter**
 
 - Request a copay card utilization report from your PBM showing which drugs have active manufacturer cards
@@ -219,8 +213,6 @@ A clean, professional digital graphic at 1200 x 600 pixels with a solid white ba
 Free drug. Full price claim. Your plan pays. That is how copay cards work.
 
 I walked a client through this flow last quarter after they noticed a specialty drug generating significant plan spend despite appearing "affordable" to members. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because the copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was reached.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 Nobody on the plan side had made a deliberate decision to cover this drug at this cost. The PBM's default claims processing made the decision for them. That is the Visibility Gap in manufacturer programs: the member sees affordability, the plan sees a claim, and the manufacturer sees market share. Three perspectives on one transaction. Only one of them feels like a deal.
 

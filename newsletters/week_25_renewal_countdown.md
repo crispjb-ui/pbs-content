@@ -17,7 +17,7 @@
 | Wed Jun 24 | 8:30 AM | LinkedIn Feed | Post 90 - "Your PBM renewal is 90 days away. Your preparation should have started yesterday." Strong POV (TEXT) | [ ] |
 | Wed Jun 24 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jun 25 | 7:30 AM | Substack | Field Note: "Three Conversations to Have Before Renewal Season" | [ ] |
-| Thu Jun 25 | 8:30 AM | LinkedIn Feed | Post 91 - Renewal Timeline: Month-by-Month Milestones (MESSY INFOGRAPHIC - weekly theme) | [ ] |
+| Thu Jun 25 | 8:30 AM | LinkedIn Feed | Post 91 - 5 Questions About Your PBM Contract Renewal (Carousel, Slot C evergreen rotation) | [ ] |
 | Thu Jun 25 | 1:30 PM | LinkedIn Company | Company Reshare of Post 91 | [ ] |
 | Thu Jun 25 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri Jun 26 | 8:30 AM | LinkedIn Feed | Post 92 - "Who really controls your drug list?" Tease Hook (TEXT) | [ ] |
@@ -43,8 +43,6 @@
 ### Article Body
 
 I sat with two clients last fall, both facing January 1 renewals with the same PBM. One started preparation in July. The other called us in September. Same PBM, same market conditions. Fundamentally different outcomes.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 The client who started in July had time to pull their own claims data, benchmark their pricing against market, identify where guarantees were falling short, build a list of specific contract provisions they wanted changed, and coordinate with their broker and stop-loss carrier before the PBM presented renewal terms. When renewal arrived, they walked in with their own numbers. Their own analysis. Their own priorities documented.
 
@@ -226,8 +224,6 @@ A clean, professional digital graphic at 1200 x 600 pixels with a solid white ba
 ### Newsletter Body
 
 I sat with two clients last fall, both facing January 1 PBM renewals. One started preparation in July. The other called us in September. Same PBM. Same market. Fundamentally different outcomes.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 The July client had time to pull their own claims data, benchmark pricing against market, identify where guarantees were falling short, and build a specific list of contract provisions they wanted changed. When renewal arrived, they walked in with their own analysis, their own priorities, and their broker at the table with market intelligence.
 
@@ -445,7 +441,11 @@ Two hours now. Different outcome in September.
 ---
 
 ## Post 91 - Thursday 8:30 AM
-### Renewal Timeline: Month-by-Month Milestones (Messy Infographic) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Questions About Your PBM Contract Renewal (Slot C of the evergreen rotation).**
+
+### Renewal Timeline: Month-by-Month Milestones (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Messy Infographic
 **Pillar:** Self-Funded Employer Guidance
@@ -515,8 +515,6 @@ The full 90-day renewal preparation timeline is in this week's Pharmacy Benefits
 
 **Bottom:** Accent Blue (#A7E0FA) banner. Primary Blue text: "Start now. Not at renewal." PBS logo (50px), team@rxbs.org
 
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan." in Gray (#4D4D4D) Roboto 10pt.
-
 **Design Notes:**
 - Whiteboard/notepad aesthetic, imperfect lines
 - Caveat font throughout, varying sizes (28-36pt headers, 18-22pt bullets)
@@ -531,6 +529,27 @@ The full 90-day renewal preparation timeline is in this week's Pharmacy Benefits
 | Accent Blue | #A7E0FA | Phase labels, highlights, bottom banner |
 | Gray | #4D4D4D | Bullet text, annotations, disclaimer |
 | Off-white | #F5F5F0 | Background |
+
+---
+
+### Thursday Evergreen Rotation (Slot C) - 5 Questions About Your PBM Contract Renewal
+
+- **Slot:** C
+- **Format:** Carousel (6 slides)
+- **Pillar:** Transparency & Industry Education
+- **Topic:** 5 Questions About Your PBM Contract Renewal
+- **Hook:** "Five questions your PBM hopes you do not ask before you sign the renewal. Ask all five anyway."
+
+**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+- Slide 1 (Hook): "5 Questions About Your PBM Contract Renewal." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What pricing methodology changed from our original contract?" Why it matters: renewals rarely keep the original definitions intact. The drift is where the margin goes.
+- Slide 3 (Q2): "Which guarantees have remediation rights, and which are aspirational?" Why it matters: a guarantee without a remedy is a target, not a commitment.
+- Slide 4 (Q3): "What is our termination cost if we leave mid-term?" Why it matters: termination economics determine your actual leverage. If leaving costs more than staying, you are not negotiating. You are renewing.
+- Slide 5 (Q4): "Which audit rights were added, narrowed, or removed at renewal?" Why it matters: audit rights tend to shrink quietly. The renewal redline is where they disappear.
+- Slide 6 (Q5): "What would it cost you to lose our business?" Why it matters: the answer calibrates the conversation. Your broker can help you gauge whether the PBM is pricing for retention or for market share.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One renewal decision. Ask before you sign." team@rxbs.org | Benefit Blind Spots.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) highlight on key phrases. Mobile-optimized 1080x1350.
 
 ---
 

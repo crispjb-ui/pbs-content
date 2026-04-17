@@ -17,7 +17,7 @@
 | Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "$1,200 cream. $47 alternative. Same ingredient." Tease Hook (TEXT) | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 28 | 7:30 AM | Substack | Field Note: "Three Compounding Claims Patterns" | [ ] |
-| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Compounding Red Flags MESSY INFOGRAPHIC (weekly theme) | [ ] |
+| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Same MAC. Different dispensing channel. Different margin. (Carousel, Slot B evergreen rotation) | [ ] |
 | Thu May 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 75 | [ ] |
 | Thu May 28 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 29 | 8:30 AM | LinkedIn Feed | Post 76 - "The Therapy That Changes Everything" Tease Hook (TEXT) | [ ] |
@@ -86,8 +86,6 @@ For each high-cost claim, run through these six flags:
 **5. Commercial alternative available.** The most straightforward flag. If an FDA-approved product exists for the same indication at a fraction of the cost, there should be documented clinical justification for why the commercial product was not appropriate. Usually there is not.
 
 **6. Rapid spend growth.** Compounding costs increasing significantly quarter over quarter without corresponding population changes. This often signals a new pharmacy or prescriber entering your network with an aggressive utilization pattern.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 **How to pull and interpret a compounding report**
 
@@ -410,7 +408,11 @@ It is working for someone else.
 ---
 
 ## Post 75 - Thursday 8:30 AM
-### Compounding Red Flags: What to Watch For (Messy Infographic) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: Same MAC. Different dispensing channel. Different margin. (Slot B of the evergreen rotation).**
+
+### Compounding Red Flags: What to Watch For (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Messy Infographic
 **Pillar:** Clinical Pharmacy
@@ -448,6 +450,26 @@ The compounding oversight briefing covers the full category risk framework. For 
 - **Flag 6 (bottom right):** Upward trend arrow - "Rapid spend growth, no population change"
 - **Bottom bar:** PBS branding, Primary Blue (#015880), "team@rxbs.org"
 - **Color palette:** Primary Blue (#015880) headers, red accent for flag icons, Gray (#4D4D4D) body text, White (#FFFFFF) background with slight off-white texture
+
+---
+
+### Thursday Evergreen Rotation (Slot B) - Same MAC. Different dispensing channel. Different margin.
+
+- **Slot:** B
+- **Format:** Carousel (6 slides)
+- **Pillar:** Cost Containment Strategies
+- **Topic:** Same MAC. Different dispensing channel. Different margin.
+- **Hook:** "Same MAC price. Same drug. Different dispensing channel. Different margin. The MAC is a price list. The margin is the story."
+
+**Content outline (Same/Same/Different structure, parallel lines then punchline):**
+- Slide 1 (Hook): "Same MAC. Different channel. Different margin." Swipe indicator in Accent Blue.
+- Slide 2 (Retail chain): "Retail chain pharmacy. MAC sets the ingredient reimbursement. Dispensing fee attached. One margin."
+- Slide 3 (Mail order): "Mail order. Same MAC list on paper. Different ingredient spread applied to the PBM. Different margin."
+- Slide 4 (Owned pharmacy): "PBM-owned pharmacy. Same MAC. Different internal transfer pricing. Different margin entirely."
+- Slide 5 (Punchline): "Same MAC. Three channels. Three margins. One PBM deciding who sees which number." Accent Blue underline under "One PBM."
+- Slide 6 (CTA): Primary Blue background. White: "The MAC list is public. The margin is not. Ask for both." team@rxbs.org | Benefit Blind Spots | PBS logo.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
 
 ---
 
@@ -721,8 +743,6 @@ If a high-cost compounding claim crossed my desk, here are the questions I would
 10. What is the documented clinical rationale for why the commercial product cannot meet this patient's need? (The answer should be specific: allergy to an inactive ingredient, need for a dosage form not commercially available, etc. "Patient preference" or "prescriber preference" is not a clinical justification for a significantly higher cost.)
 
 One compounding claim is a question. A pattern of high-cost compounds from the same prescriber and pharmacy is an investigation.
-
-*Illustrative example for educational purposes. Actual claims review criteria vary by plan.*
 
 ---
 

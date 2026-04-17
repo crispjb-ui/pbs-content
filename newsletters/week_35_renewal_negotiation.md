@@ -37,8 +37,6 @@
 
 Two clients, same PBM, same renewal cycle. One accepted the initial terms their PBM presented. The other came to the table with their own data, their own benchmarks, and specific language changes they wanted. The cost difference over the contract term was substantial. Same PBM. Same market. Different preparation. I have watched this play out enough times to know that preparation is the variable that matters most.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 If you followed the 90-day renewal framework from Week 25, you have your data, your contract analysis, and your priorities documented. This week is about execution: the twelve specific provisions that drive renewal economics, what market benchmarks look like for each, and the tactics that extract better terms.
 
 **The twelve provisions**
@@ -169,8 +167,6 @@ Your broker understands this dynamic. The best advisory teams negotiate terminat
 ### Newsletter Body (~400 words)
 
 Two clients, same PBM, same renewal cycle. One accepted initial terms. One came with data, benchmarks, and a term sheet. The cost difference was substantial.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 Twelve contract provisions drive renewal economics. Most employers negotiate fewer than half. The provisions they skip (audit rights, biosimilar commitments, formulary change notification, termination terms) are often where the most value gets left on the table.
 

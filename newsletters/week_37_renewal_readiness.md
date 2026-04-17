@@ -37,8 +37,6 @@ We have spent 13 weeks building toward this moment. Foundational knowledge. Asse
 
 This week ties it all together.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 Every tool we published this quarter, the 90-day timeline, the formulary audit, the PBM scorecard, the network model, the rebate framework, the RFP question bank, the clinical program evaluation, the communication templates, the specialty assessment, the negotiation checklist, the contract language library, was designed for one purpose: to put the employer in a position to negotiate from data rather than reaction.
 
 The question now is whether you are ready. This scorecard answers that question with specificity.

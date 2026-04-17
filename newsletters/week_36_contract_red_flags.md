@@ -35,8 +35,6 @@
 
 I was reviewing a client's contract when two words stopped me. The guarantee provision used "commercially reasonable efforts" where it should have said "best efforts." That distinction sounds like legal hairsplitting until you try to enforce the guarantee. "Commercially reasonable efforts" gives the PBM an exit: they can argue that meeting the guarantee was not commercially reasonable given market conditions. "Best efforts" does not give them that exit. The employer had been relying on a promise the contract did not actually make.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 Their broker helped them catch it at the next renewal. But the previous contract term had already run with that gap. The financial exposure during that period was real, even though the provision looked protective on the surface.
 
 I share this because contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance for attorneys to debate. It is financial exposure that compounds every month the contract runs.
@@ -154,8 +152,6 @@ Your broker should review these provisions at every renewal. The data clause is 
 ### Newsletter Body (~400 words)
 
 Two words in a client's PBM contract. "Commercially reasonable efforts" where "best efforts" should have been. That distinction cost real money because the guarantee the employer relied on was unenforceable.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 Contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance. It is financial exposure that compounds every month.
 

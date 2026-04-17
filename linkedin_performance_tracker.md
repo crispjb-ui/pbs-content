@@ -724,3 +724,84 @@ The newsletter is clearly accelerating. The subscriber base (605) is growing, op
 13. **Delayed viral posts are a new pattern.** The white bagging post went from 373 impressions (2 days) to 19,507 (1 week) after Cuban's repost. This means early performance snapshots can be misleading. Posts with substantive content and comment-worthy topics may have longer runways than the 2-3 day window we've been using for early reads.
 
 14. **Wednesday confrontational hooks are now 2-for-2 on strong performance in Q2.** The white bagging post (19,507) and the stop-loss claimant post (2,229 in 1 day) both used specific, tension-creating hooks. The previous pattern holds: confrontational openers outperform informational ones by 10-100x.
+
+---
+
+# REPLY-BASED REACH (Added April 17, 2026)
+
+## Why track this
+
+Starting Week 15, Ginny observed that her replies to larger accounts are generating more impressions than her own posts, which appears to be driving follower growth on both LinkedIn and Substack. This channel was previously invisible in the tracker. Formalizing it matters because replies may be the actual discovery engine.
+
+## Target accounts (weekly patrol list)
+
+Patrol daily for opportunities to add substantive replies. 20-30 minutes/day likely outperforms a Tuesday carousel on reach.
+
+- **Mark Cuban** (active engagement confirmed: reposted white bagging post Apr 5, liked Week 14 post)
+- **Adam Fein / Drug Channels** (industry authority, employer audience overlap)
+- **Cost Plus Drugs** (Mark Cuban adjacency, transparency lane)
+- **Jen Berger / NCPA** (independent pharmacy advocacy, employer adjacency)
+- **Antonio Ciaccia / 46brooklyn** (drug pricing transparency research)
+- **Michael Thompson / National Alliance of Healthcare Purchaser Coalitions** (direct employer audience)
+- **Brian Reid / Reid Communications** (pharma/health pricing commentary)
+- **Van Sarris / ScriptsHealth** (PBM sector commentary)
+
+Rotate additions as new sources emerge. When Ginny sees a post from any of these accounts where she can add a specific clinical or contract insight, reply that day.
+
+## Weekly reply log template
+
+Copy this table at the end of each week's analysis section and fill in the top 5 replies by impressions.
+
+| Host account | Post topic | Reply hook (first sentence) | Impressions | Followers gained |
+|--------------|-----------|-----------------------------|-------------|------------------|
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+## How to capture reply impressions
+
+LinkedIn shows reply impressions in the notifications view. Tap any of your comments on a big post. The top-right shows "X impressions." Screenshot or log the number weekly.
+
+## Questions to answer after 4-6 weeks of data
+
+- Which host accounts generate the highest reply impressions (worth continuing)
+- Which reply formats work (one-liner contrarian vs. paragraph with data vs. question)
+- How reply impressions correlate with follower gains on LinkedIn and Substack subs
+- Whether reply volume can be scaled without degrading quality
+
+---
+
+# SUBSTACK NOTES PERFORMANCE (Added April 17, 2026)
+
+## Why track this
+
+CLAUDE.md cadence is 14-21 Notes per week. Substack subscriber count inflected from 8 (Mar 7) to 15 (Apr 3) to 24 (Apr 10) to 34 (Apr 17). That inflection is likely driven by some combination of LinkedIn Newsletter CTA and Notes discovery. Without Notes data, we cannot tell which lever is working. Tracking this next quarter will identify the highest-converting Notes format and allow targeted cadence increases.
+
+## What to log weekly
+
+For each Note published under the Benefit Blind Spots publication, capture:
+
+| Date | Format | Hook (first sentence) | Views | Likes | Restacks | Replies | Subs driven (if attributable) |
+|------|--------|----------------------|-------|-------|----------|---------|------------------------------|
+|  |  |  |  |  |  |  |  |
+
+## Note formats to test
+
+Per CLAUDE.md, origin story / personal Notes are the highest-performing format. Test the following and track which performs best:
+
+- **Origin story**: A short personal narrative about why Ginny founded PBS or a moment that shaped her approach
+- **Provocative one-liner**: Restackable short confrontation (mirroring LinkedIn Wednesday format)
+- **Industry observation**: "What crossed my desk" mini-takes
+- **Expertise insight**: A contract or clinical observation with no external hook
+- **Article launch teaser**: Link + one-sentence summary for Monday deep dive / Thursday field note
+- **Forward look**: Tease next week's content (mirrors Friday LinkedIn tease hook)
+
+## Questions to answer after 4-6 weeks of data
+
+- Which format drives the highest views, likes, restacks
+- Which format drives the most Substack subscribers
+- Whether morning vs. midday vs. afternoon timing matters
+- Whether notes that reference Ginny's personal story outperform abstract industry observations (CLAUDE.md predicts yes)
+- Whether a correlation exists between Notes cadence and sub growth

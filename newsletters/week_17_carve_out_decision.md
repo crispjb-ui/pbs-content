@@ -248,8 +248,6 @@ They will tell you it is disruptive, complex, risky. What they will not tell you
 
 I sat in a renewal meeting last year where the employer asked a direct question: what would our pharmacy pricing look like if we carved out? The room went quiet. The PBM representative pivoted to "integration value" and "administrative simplicity." The actual pricing comparison never happened. That employer renewed bundled without ever seeing what the market would offer.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 That pattern repeats constantly. The carve-out question is one of the most consequential structural decisions a self-funded employer can make. Most employers never chose their current structure. They inherited it. And the PBM has every financial reason to make sure that default goes unexamined. The best brokers and consultants are bringing this evaluation to the table proactively, but the PBM is not making it easy. The most expensive structural decision in pharmacy benefits is the one you never made.
 
 Neither approach is inherently superior. Bundled works well when your benefits team has limited bandwidth and single-vendor simplicity has genuine value. It works well when benchmarking confirms competitive pricing. It works well when pharmacy-medical data integration drives meaningful results for your care management programs.
@@ -813,8 +811,6 @@ If someone asked me whether they should carve out their specialty pharmacy from 
 
 The carve-out decision is not inherently better or worse. It depends on whether your current arrangement is competitive and transparent. These questions help you and your advisory team determine that before committing to a change.
 
-*Illustrative example for educational purposes. Actual evaluation criteria vary by plan.*
-
 ---
 
 ## Monthly Q&A Thread #1: Ask Me Anything About Your Pharmacy Benefit
@@ -887,8 +883,6 @@ What it actually means: "Competitive" is undefined. The PBM defines what competi
 
 What you should ask for:
 > "PBM guarantees a minimum Generic Effective Rate of [X]% off AWP for retail 30-day, [X]% off AWP for mail 90-day, and [X]% off AWP for specialty generic, measured quarterly with true-up reconciliation and audit rights."
-
-*Illustrative example for educational purposes. Actual contract terms vary by plan.*
 
 ---
 

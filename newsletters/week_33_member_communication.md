@@ -35,8 +35,6 @@
 
 We helped two employers implement the same biosimilar transition program within months of each other. Same clinical rationale, same formulary change, same PBM. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. The difference was not the pharmacy strategy. It was the communication strategy.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 The first employer treated communication as an afterthought. Members received a generic formulary change letter 14 days before the switch. Prescribers were not notified. The call center was not briefed on the specific change. Members called their doctor. The doctor did not know. Both called the benefits team. The complaints escalated.
 
 The second employer treated communication as part of the implementation. Members received a specific letter 45 days before the switch, explaining what was changing, why, and that their doctor had been informed. Prescribers received a clinical communication explaining the evidence supporting the transition. The call center was briefed with a specific FAQ. Zero complaints.
@@ -174,8 +172,6 @@ We see this pattern repeatedly, and it is entirely preventable.
 ### Newsletter Body
 
 We helped two employers implement the same biosimilar transition. Same clinical rationale, same PBM. One generated a wave of complaints. The other had zero.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 The difference was not the pharmacy strategy. It was the communication. One treated messaging as an afterthought (generic letter, 14 days before, prescribers not notified). The other treated it as part of the implementation (specific letter, 45 days before, prescribers informed, call center briefed).
 
