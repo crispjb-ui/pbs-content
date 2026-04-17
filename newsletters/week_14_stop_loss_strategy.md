@@ -55,7 +55,7 @@ Self-funded employers buy stop-loss coverage to protect against catastrophic cla
 
 A single gene therapy can exceed $2 million. Multiple sclerosis treatments run $80,000 to $100,000 annually. Oncology regimens routinely blow past specific stop-loss attachment points. One or two high-cost pharmacy claimants can reshape your plan's financials for the year. That is exactly the scenario stop-loss coverage is designed to address.
 
-The question is whether your stop-loss policy actually covers these claims as expected. In our experience reviewing approximately 100 PBM contracts annually, the answer is frequently: not as well as the employer assumed.
+The question is whether your stop-loss policy actually covers these claims as expected. In our contract review work at PBS, the answer is frequently: not as well as the employer assumed.
 
 **Four Coverage Gaps We See Repeatedly**
 
@@ -643,7 +643,7 @@ The lasering conversation is shifting. It used to be about catastrophic one-time
 Next week on Benefit Blind Spots: the 340B pricing gap that most self-funded employers never see. The drugs your plan is paying full price for may already be flowing through a program that acquired them at a fraction of the cost. Who keeps the spread, and why your claims data does not flag it.
 
 **Midday (11 AM-1 PM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The most common gap we find: the PBM contract and the stop-loss policy use different definitions for the same terms. "Covered drug," "experimental," "specialty medication." When those definitions do not match, claims fall through the gap.
+We review dozens of PBM contracts every quarter. The most common gap we find: the PBM contract and the stop-loss policy use different definitions for the same terms. "Covered drug," "experimental," "specialty medication." When those definitions do not match, claims fall through the gap.
 
 **Afternoon (3-6 PM) — Honest Post:**
 I deleted a newsletter draft this week because a broker felt the stop-loss content came across as an attack on their placement. The tension is real: the content that attracts the most attention is the same content that creates the most uncomfortable conversations with the people I work alongside. I am still publishing it. But I rewrote it three times to make sure the tone was direct without being adversarial. That is the line I walk every week.

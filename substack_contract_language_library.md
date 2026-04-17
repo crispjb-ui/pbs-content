@@ -35,7 +35,7 @@ The weekly deep dives and exclusive tools convert subscribers. The contract lang
 
 ---
 
-This is a living reference. We update it quarterly based on patterns from the approximately 100 PBM contracts Prescription Benefit Solutions reviews each year.
+This is a living reference. We update it quarterly based on patterns from the PBM contracts Prescription Benefit Solutions reviews each year.
 
 For each provision, we show:
 - **What you might see** (common vague language)

@@ -590,7 +590,7 @@ A pattern we see consistently: an employer's specialty pharmacy costs spike in Q
 ## Wednesday
 
 **Morning (7-8 AM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The most overlooked contract gap in manufacturer programs: coordination of benefits language for copay cards. Most contracts do not specify how manufacturer copay assistance interacts with the plan's accumulator or maximizer provisions. That silence creates ambiguity. The PBM processes the claim according to their default logic. The employer discovers the financial impact at renewal.
+Here is what we see across client contract reviews. The most overlooked contract gap in manufacturer programs: coordination of benefits language for copay cards. Most contracts do not specify how manufacturer copay assistance interacts with the plan's accumulator or maximizer provisions. That silence creates ambiguity. The PBM processes the claim according to their default logic. The employer discovers the financial impact at renewal.
 
 **Midday (11 AM-1 PM) — Origin Story:**
 Manufacturer programs are one of those things that look different depending on where you're standing. From the clinical side, they look like patient savings. From the contract side, they look like a cost shift that nobody agreed to. My background as a clinical pharmacist helps me hold both of those truths at the same time. That matters when advising plans on how to respond.

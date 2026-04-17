@@ -39,7 +39,7 @@
 
 Most of what I write here is aimed at the plan sponsor. This one is different. This is for the brokers and consultants who do the harder work of taking our kind of analysis and translating it into renewal outcomes for their clients.
 
-We review approximately 100 PBM contracts a year at PBS. The best brokers we work with have a specific set of moves they make in the 90 days before renewal. I am going to lay out three of them here, with the exact language they use, because these moves are what separates a reactive renewal from a negotiated one.
+We review dozens of PBM contracts every quarter at PBS. The best brokers we work with have a specific set of moves they make in the 90 days before renewal. I am going to lay out three of them here, with the exact language they use, because these moves are what separates a reactive renewal from a negotiated one.
 
 None of this is proprietary. The brokers doing it already know it works. The ones who have not added it to their workflow yet, this is your prompt. And plan sponsors reading this, if you see your broker doing any of these three things already, your renewal is in better hands than most.
 

@@ -60,7 +60,7 @@ This is not a knowledge problem. It is a communication problem. And it is fixabl
 
 **The pipeline risk is different now**
 
-I review approximately 100 PBM contracts annually at Prescription Benefit Solutions. The nature of what is coming down the pipeline has changed. We used to worry about a new brand drug launching at a modest premium over existing therapies. Now we are watching gene therapies that exceed $2 million per administration and specialty biologics running $50,000 to $200,000 annually. A single gene therapy claim can exceed a plan's specific stop-loss attachment point. A new indication for an existing drug class can expand the eligible population overnight.
+I review hundreds of PBM contracts each year at Prescription Benefit Solutions. The nature of what is coming down the pipeline has changed. We used to worry about a new brand drug launching at a modest premium over existing therapies. Now we are watching gene therapies that exceed $2 million per administration and specialty biologics running $50,000 to $200,000 annually. A single gene therapy claim can exceed a plan's specific stop-loss attachment point. A new indication for an existing drug class can expand the eligible population overnight.
 
 The time to develop a coverage strategy is before launch. Not after claims arrive.
 
@@ -657,7 +657,7 @@ A pattern we see repeatedly: an employer renews their PBM contract in Q4. A gene
 ## Wednesday
 
 **Morning (7-8 AM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. Very few include meaningful pipeline preparation language. This is not something advisory teams would necessarily draft on their own; it is a provision that PBMs do not typically offer in their standard templates. No pre-authorization protocols for anticipated high-cost launches. No pricing protections for drugs without therapeutic alternatives. No coordination between formulary placement and stop-loss coverage. Pipeline risk is real. Contract readiness is rare.
+We review hundreds of PBM contracts annually. Very few include meaningful pipeline preparation language. This is not something advisory teams would necessarily draft on their own; it is a provision that PBMs do not typically offer in their standard templates. No pre-authorization protocols for anticipated high-cost launches. No pricing protections for drugs without therapeutic alternatives. No coordination between formulary placement and stop-loss coverage. Pipeline risk is real. Contract readiness is rare.
 
 **Midday (11 AM-1 PM) — Origin Story:**
 When I was practicing, every new drug felt like progress. More options for patients. More tools in the toolbox. Now, reviewing contracts, I see the other side of every launch: the cost, the rebate implications, the formulary positioning that doesn't always line up with clinical value. I still believe in new therapies. I just read the fine print now too.
@@ -700,7 +700,7 @@ Pipeline drugs are exciting clinically. As a pharmacist, I want every new therap
 GLP-1 indications are expanding beyond diabetes and obesity. Heart failure. Sleep apnea. Kidney disease. Alzheimer's. Every new indication is a new population of eligible members on your plan. The cost trajectory is not slowing down. It is widening.
 
 **Afternoon (3-5 PM) — Behind-the-Scenes:**
-1,449 LinkedIn followers. 653 newsletter subscribers with a 49% open rate. 24 Substack subscribers. I review approximately 100 PBM contracts a year. Those are the real numbers behind this publication. No inflated metrics, no vanity counts. The LinkedIn-to-Substack pipeline is the strategy. Every week I learn a little more about what makes someone take that extra step to subscribe.
+1,449 LinkedIn followers. 653 newsletter subscribers with a 49% open rate. 24 Substack subscribers. I review the contracts that cross my desk each year. Those are the real numbers behind this publication. No inflated metrics, no vanity counts. The LinkedIn-to-Substack pipeline is the strategy. Every week I learn a little more about what makes someone take that extra step to subscribe.
 
 ## Sunday
 

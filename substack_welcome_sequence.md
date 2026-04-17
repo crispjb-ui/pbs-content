@@ -17,7 +17,7 @@
 
 Thanks for subscribing to Benefit Blind Spots.
 
-Quick context: I am Ginny Crisp. I am a clinical pharmacist and the CEO of Prescription Benefit Solutions. My team reviews approximately 100 PBM contracts a year, and most of what I write here is what we wish every self-funded employer knew before they signed the last one.
+Quick context: I am Ginny Crisp. I am a clinical pharmacist and the CEO of Prescription Benefit Solutions. My team reviews hundreds of PBM contracts annually, and most of what I write here is what we wish every self-funded employer knew before they signed the last one.
 
 Three things to expect:
 

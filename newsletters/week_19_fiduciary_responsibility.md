@@ -565,7 +565,7 @@ A pattern we see in litigation filings: the employer renewed the PBM contract mu
 ## Wednesday
 
 **Morning (7-8 AM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The fiduciary gap we encounter most often is not a bad contract term. It is the absence of any documented rationale for why the terms were accepted. No competitive comparison. No independent analysis. No written record of the decision-making process. ERISA requires a prudent process. Silence is not a process.
+We review dozens of PBM contracts every quarter. The fiduciary gap we encounter most often is not a bad contract term. It is the absence of any documented rationale for why the terms were accepted. No competitive comparison. No independent analysis. No written record of the decision-making process. ERISA requires a prudent process. Silence is not a process.
 
 **Midday (11 AM-1 PM) — Origin Story:**
 As a pharmacist, I documented everything. Every intervention, every recommendation, every clinical decision. When I moved into benefits consulting, I was surprised by how little documentation existed around pharmacy benefit decisions worth millions of dollars. Clinical pharmacy taught me that if you didn't write it down, it didn't happen. That principle applies here too.

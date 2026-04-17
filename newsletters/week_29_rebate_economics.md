@@ -445,7 +445,7 @@ Eight rebate provisions determine the economics: definition, eligible claims, pa
 The most overlooked rebate provision: the eligible claims definition. If specialty claims are excluded from the rebate calculation, and specialty generates the highest per-claim rebates, the plan is leaving significant manufacturer payments on the table. Ask your PBM: are specialty claims included in the rebate-eligible denominator?
 
 **Midday — Origin Story:**
-I review approximately 100 PBM contracts annually. The rebate language ranges from fully transparent (inclusive definition, 100% pass-through, quarterly true-up, full audit access) to effectively opaque (narrow definition, vague pass-through, no true-up, limited audit). The employers with strong language did not get it by accident. They asked for it. Or their broker did.
+I review the contracts that cross my desk each year. The rebate language ranges from fully transparent (inclusive definition, 100% pass-through, quarterly true-up, full audit access) to effectively opaque (narrow definition, vague pass-through, no true-up, limited audit). The employers with strong language did not get it by accident. They asked for it. Or their broker did.
 
 ## Thursday
 

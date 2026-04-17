@@ -62,7 +62,7 @@ Inertia. That is the simplest answer. Nobody questioned the arrangement because 
 
 The second reason is messaging. PBMs and their bundled partners position the arrangement as the simpler, safer, more integrated option. And to be fair, there is truth in that. One vendor relationship, integrated reporting, a single point of contact. For employers with lean benefits teams, that simplicity has genuine value.
 
-But simplicity and value are not the same thing. We review approximately 100 PBM contracts annually. Bundled arrangements consistently show less pricing transparency, less rebate visibility, and less competitive pressure than carved-out alternatives. That does not mean bundled is always worse. It means the employers who never compare are the ones most likely to be overpaying.
+But simplicity and value are not the same thing. We review hundreds of PBM contracts each year. Bundled arrangements consistently show less pricing transparency, less rebate visibility, and less competitive pressure than carved-out alternatives. That does not mean bundled is always worse. It means the employers who never compare are the ones most likely to be overpaying.
 
 **When staying bundled makes sense**
 
@@ -291,7 +291,7 @@ Neither approach is inherently superior. Bundled works well when your benefits t
 
 The key word is "when." Those conditions should be verified, not assumed.
 
-We review approximately 100 PBM contracts annually. Bundled arrangements consistently show less pricing transparency, less rebate visibility, and less competitive pressure than carved-out alternatives. When you negotiate a standalone PBM contract, multiple PBMs compete for your business. That pricing tension often does not exist in bundled arrangements where pharmacy is folded into a larger relationship.
+Here is what we see across client contract reviews. Bundled arrangements consistently show less pricing transparency, less rebate visibility, and less competitive pressure than carved-out alternatives. When you negotiate a standalone PBM contract, multiple PBMs compete for your business. That pricing tension often does not exist in bundled arrangements where pharmacy is folded into a larger relationship.
 
 Here is what many employers miss: the evaluation itself creates negotiating power, even if you stay bundled. When the PBM knows you are seriously considering pharmacy separation, the renewal conversation shifts. The analysis is worth doing regardless of the outcome. Your broker or consultant can help structure this evaluation.
 
@@ -649,7 +649,7 @@ A pattern we see when employers evaluate carve-out: the incumbent PBM presents a
 ## Wednesday
 
 **Morning (7-8 AM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The contracts where we see the weakest employer protections are consistently the bundled arrangements where pharmacy is part of a larger medical/pharmacy package. The bundling creates complexity that makes it harder to isolate pharmacy-specific terms, pricing, and performance guarantees. Carving out does not automatically fix this, but it does make it visible.
+We review dozens of PBM contracts every quarter. The contracts where we see the weakest employer protections are consistently the bundled arrangements where pharmacy is part of a larger medical/pharmacy package. The bundling creates complexity that makes it harder to isolate pharmacy-specific terms, pricing, and performance guarantees. Carving out does not automatically fix this, but it does make it visible.
 
 **Midday (11 AM-1 PM) — Origin Story:**
 The carve-out question is one I get asked constantly. And my honest answer is: it depends. But I'll say this. As a pharmacist, I saw what happened when pharmacy decisions were made by people who didn't understand pharmacy. That experience shaped how I think about who should be managing the benefit. Proximity to the clinical reality matters.
@@ -864,7 +864,7 @@ The carve-out decision is not inherently better or worse. It depends on whether 
 
 **Thread Body:**
 
-Ginny Crisp here. I review approximately 100 PBM contracts annually at Prescription Benefit Solutions. Each week on Benefit Blind Spots, we cover one topic in depth. But the questions I get from employers and brokers rarely fit neatly into one category.
+Ginny Crisp here. I review the contracts that cross my desk each year at Prescription Benefit Solutions. Each week on Benefit Blind Spots, we cover one topic in depth. But the questions I get from employers and brokers rarely fit neatly into one category.
 
 This is your chance to ask directly.
 
@@ -898,7 +898,7 @@ No question is too basic. The questions employers are afraid to ask are usually 
 
 ---
 
-This is a living reference. We update it quarterly based on patterns from the approximately 100 PBM contracts Prescription Benefit Solutions reviews each year.
+This is a living reference. We update it quarterly based on patterns from the PBM contracts Prescription Benefit Solutions reviews each year.
 
 For each provision, we show:
 - **What you might see** (common vague language)

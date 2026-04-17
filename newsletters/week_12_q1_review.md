@@ -840,7 +840,7 @@ Q1 is when I feel the weight of this work most. Employers are making decisions r
 [Use an evergreen Note from a previous week or write a fresh one]
 
 **Afternoon (3-5 PM) — Behind-the-Scenes:**
-PBS reviews approximately 100 PBM contracts a year. Each one takes hours of line-by-line reading. Some weeks that means 15 hours of contract review plus all the content creation. The most common finding this quarter: rebate guarantees set conservatively enough that PBMs meet them easily while retaining meaningful spread. It sounds technical. It represents real money employers are leaving behind.
+PBS reviews hundreds of PBM contracts each year. Each one takes hours of line-by-line reading. Some weeks that means 15 hours of contract review plus all the content creation. The most common finding this quarter: rebate guarantees set conservatively enough that PBMs meet them easily while retaining meaningful spread. It sounds technical. It represents real money employers are leaving behind.
 
 ## Sunday
 

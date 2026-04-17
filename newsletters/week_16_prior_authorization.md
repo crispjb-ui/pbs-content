@@ -200,7 +200,7 @@ Have you audited your PA program for ROI? If you found something unexpected, lea
 
 ### Field Note Body
 
-We review approximately 100 PBM contracts a year. The majority contain some reference to prior authorization turnaround time. Very few contain language that would actually protect a plan sponsor when it matters.
+We review hundreds of PBM contracts each year. The majority contain some reference to prior authorization turnaround time. Very few contain language that would actually protect a plan sponsor when it matters.
 
 Here is what we typically see, and what we think you should push for instead.
 
@@ -896,7 +896,7 @@ A pattern we see in PA program reviews: the PBM reports high savings from prior 
 ## Wednesday
 
 **Morning (7-8 AM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The most common gap in PA provisions: turnaround time guarantees. Most contracts do not specify how quickly a PA must be processed. When they do, the standard is 48 to 72 hours, which is the clinical window where therapy abandonment is most likely. The contract should define urgent and standard timelines with financial accountability.
+We review roughly 100 PBM contracts annually. The most common gap in PA provisions: turnaround time guarantees. Most contracts do not specify how quickly a PA must be processed. When they do, the standard is 48 to 72 hours, which is the clinical window where therapy abandonment is most likely. The contract should define urgent and standard timelines with financial accountability.
 
 **Midday (11 AM-1 PM) — Origin Story:**
 There was a period in my pharmacy career when I tracked how long PA approvals took for my patients. Not formally, just notes in a notebook. The patterns were obvious. Certain drug classes were consistently delayed, not because of clinical risk, but because of cost. I still think about that notebook when I review PA language in contracts.

@@ -325,7 +325,7 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 Contract language matters. The difference between vague terms and precise guarantees can mean real financial impact for a self-funded plan.
 
-Prescription Benefit Solutions reviews approximately 100 PBM contracts annually. The patterns are consistent: plans with tighter language recover more, retain more, and negotiate from strength.
+Prescription Benefit Solutions reviews hundreds of PBM contracts each year. The patterns are consistent: plans with tighter language recover more, retain more, and negotiate from strength.
 
 Before: "PBM will provide competitive discounts."
 After: "PBM guarantees minimum effective discount of [X]% AWP for brand, with quarterly true-up and audit rights."
@@ -646,7 +646,7 @@ The specialty pharmacy concentration trend keeps accelerating. We are seeing pla
 That wraps Q2 on Benefit Blind Spots. Over the past twelve weeks, we covered copay card economics, compounding oversight, gene therapy coverage, mental health parity, and renewal preparation. Every one of those topics came from patterns we see in real contract reviews. The work continues into H2, and so does this publication. Stay tuned.
 
 **Midday (11 AM-1 PM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The most common pattern at renewal: the employer focuses on the pricing guarantees (discount rates, rebate guarantees) and overlooks the operational terms (audit rights, reporting timelines, termination provisions, claims processing definitions). Pricing gets you the rate. Operational terms determine whether you can verify the rate. Both matter. Most negotiations focus on one and accept the other by default.
+Across the PBM contracts we read line by line, the most common pattern at renewal: the employer focuses on the pricing guarantees (discount rates, rebate guarantees) and overlooks the operational terms (audit rights, reporting timelines, termination provisions, claims processing definitions). Pricing gets you the rate. Operational terms determine whether you can verify the rate. Both matter. Most negotiations focus on one and accept the other by default.
 
 **Afternoon (3-6 PM) — Expertise Insight:**
 Here is the PMPM trend breakdown that changes renewal conversations. Total PMPM growth breaks into three components: price trend (same drugs costing more), utilization trend (members using more drugs), and mix shift (members moving to higher-cost categories). Knowing which component drives your trend changes your response entirely. Price trend requires PBM negotiation. Utilization trend requires clinical programs. Mix shift requires formulary strategy. The PBM's summary report rarely breaks it down this way.

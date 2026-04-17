@@ -216,7 +216,7 @@ Hi [Host name],
 
 The 340B Drug Pricing Program was created for safety-net providers. It now affects commercially insured employer plans in ways most plan sponsors do not track. Providers acquire drugs at substantial discounts and can bill employer plans at standard rates. The spread is invisible in most claims data.
 
-I review approximately 100 PBM contracts annually at Prescription Benefit Solutions. The 340B blind spot comes up consistently. I would like to share with your audience:
+I review roughly 100 PBM contracts annually at Prescription Benefit Solutions. The 340B blind spot comes up consistently. I would like to share with your audience:
 
 - How 340B actually works (most explanations miss the employer impact)
 - How to identify 340B claims in your pharmacy data

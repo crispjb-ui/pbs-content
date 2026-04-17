@@ -27,7 +27,7 @@ Post a subscriber-only discussion thread inviting questions about pharmacy benef
 
 **Thread Body:**
 
-Ginny Crisp here. I review approximately 100 PBM contracts annually at Prescription Benefit Solutions. Each week on Benefit Blind Spots, we cover one topic in depth. But the questions I get from employers and brokers rarely fit neatly into one category.
+Ginny Crisp here. I review hundreds of PBM contracts each year at Prescription Benefit Solutions. Each week on Benefit Blind Spots, we cover one topic in depth. But the questions I get from employers and brokers rarely fit neatly into one category.
 
 This is your chance to ask directly.
 

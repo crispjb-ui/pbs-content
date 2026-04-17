@@ -155,7 +155,7 @@ Two words in a client's PBM contract. "Commercially reasonable efforts" where "b
 
 Contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance. It is financial exposure that compounds every month.
 
-I review approximately 100 PBM contracts annually. The language ranges from fully protective (inclusive definitions, specific guarantees, strong audit rights, short termination notice) to functionally empty ("competitive pricing," "commercially reasonable efforts," "standard practices"). Both types of contracts look professional. Both have signatures on the last page. The financial outcomes they produce are not comparable.
+I review hundreds of PBM contracts each year. The language ranges from fully protective (inclusive definitions, specific guarantees, strong audit rights, short termination notice) to functionally empty ("competitive pricing," "commercially reasonable efforts," "standard practices"). Both types of contracts look professional. Both have signatures on the last page. The financial outcomes they produce are not comparable.
 
 Ten provisions determine whether your contract protects your plan or your PBM's margin: pricing methodology, rebate definition, audit scope, performance penalties, formulary notification, termination terms, data ownership, claim accuracy, network access, and amendment provisions. Each one exists in weak, moderate, and strong versions. Knowing which version your contract uses is the starting point for every renewal negotiation.
 
@@ -311,7 +311,7 @@ Next week: a 15-factor renewal readiness scorecard. Five categories. 75 points. 
 
 ## Monday
 **Morning:** New on Benefit Blind Spots: contract language that costs you. Two words stopped me in a client's contract. "Commercially reasonable efforts" where "best efforts" should have been. Ten provisions compared: weak, moderate, strong. Read: [LINK]
-**Midday — Origin Story:** I trained as a pharmacist, not a contract attorney. But reviewing approximately 100 PBM contracts a year taught me that the clinical pharmacist who understands contract language serves employers better than the one who does not. The pharmacy benefit is a clinical program governed by a legal document. Both matter. I read both.
+**Midday — Origin Story:** I trained as a pharmacist, not a contract attorney. But reviewing hundreds of PBM contracts annually taught me that the clinical pharmacist who understands contract language serves employers better than the one who does not. The pharmacy benefit is a clinical program governed by a legal document. Both matter. I read both.
 
 ## Tuesday
 **Morning:** "Competitive pricing." "Standard practices." "Commercially reasonable efforts." Professional language. Looks fine on the page. Functionally empty when you try to enforce it. The difference between these phrases and their enforceable alternatives can be worth six figures over a contract term.

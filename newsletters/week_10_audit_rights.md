@@ -254,7 +254,7 @@ The employers who audit tend to find money. The question is whether your contrac
 
 Your PBM contract says you have audit rights. But can you actually use them?
 
-We review approximately 100 PBM contracts a year. The gap between assumed audit rights and actual contract language is one of the most consequential blind spots we see. What you cannot audit, you cannot verify.
+We review hundreds of PBM contracts annually. The gap between assumed audit rights and actual contract language is one of the most consequential blind spots we see. What you cannot audit, you cannot verify.
 
 **Common Limitations That Gut Your Access**
 

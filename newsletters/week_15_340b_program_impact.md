@@ -53,7 +53,7 @@ The mechanics are simple enough. Drug manufacturers participating in Medicaid ar
 
 The part that affects employers is what happens next. Nothing in your standard claims reporting tells you a drug was acquired at a 340B price. Your PBM processes the claim at whatever reimbursement rate your contract specifies. The provider got the drug cheaper. Your plan paid full price. The gap between those two numbers is invisible.
 
-We review about 100 PBM contracts a year. Almost none of them mention 340B. When the contract is silent, you pay standard rates no matter what the dispensing entity paid for the medication.
+We review hundreds of PBM contracts each year. Almost none of them mention 340B. When the contract is silent, you pay standard rates no matter what the dispensing entity paid for the medication.
 
 **Contract pharmacies made it bigger**
 
@@ -212,7 +212,7 @@ This is not limited to hospital pharmacies. Contract pharmacy arrangements now a
 
 I raise this not to argue against 340B. The program serves legitimate safety-net purposes. I raise it because most self-funded employers are paying a pricing spread they cannot see, on claims they cannot identify, through a program they have never been told about.
 
-We review approximately 100 PBM contracts annually. The vast majority are silent on 340B. Silence means you pay standard rates regardless of what the dispensing entity paid for the medication. That is not an oversight. It is the default, and it benefits everyone except the plan sponsor.
+We review hundreds of PBM contracts annually. The vast majority are silent on 340B. Silence means you pay standard rates regardless of what the dispensing entity paid for the medication. That is not an oversight. It is the default, and it benefits everyone except the plan sponsor.
 
 The good news is that visibility is achievable. Some PBMs can flag 340B claims when asked directly. The Health Resources and Services Administration publishes a database of 340B-registered covered entities that you can cross-reference against your pharmacy network. The data exists. Most employers have simply never requested it.
 
@@ -528,7 +528,7 @@ The 340B conversation tends to become political quickly. Supporters point to saf
 Next week on Benefit Blind Spots: the prior authorization problem nobody is measuring correctly. Your PBM reports PA savings, but what about the patients who abandoned therapy, the appeals that overturned denials, and the administrative cost of approving 90%+ of requests? The real ROI looks different from the savings report.
 
 **Midday (11 AM-1 PM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. I cannot recall the last time we saw a contract that included 340B-specific reporting, pricing adjustments, or identification requirements. The PBM knows which claims involve 340B-acquired drugs. That information exists in their systems. It is simply not flowing to the plan sponsor.
+We review dozens of PBM contracts every quarter. I cannot recall the last time we saw a contract that included 340B-specific reporting, pricing adjustments, or identification requirements. The PBM knows which claims involve 340B-acquired drugs. That information exists in their systems. It is simply not flowing to the plan sponsor.
 
 **Afternoon (3-6 PM) — Honest Post:**
 The 340B program is politically charged. Writing about it means someone will disagree no matter what position I take. Safety-net advocates see criticism as an attack on vulnerable populations. Industry critics see anything short of condemnation as complicity. I am writing about the financial impact on self-funded employers because that is what I know. I am not taking a political position. I am reading the claims data.

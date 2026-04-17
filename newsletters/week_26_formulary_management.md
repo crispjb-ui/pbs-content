@@ -597,7 +597,7 @@ Mid-year formulary changes are one of the least visible ways PBMs affect plan co
 Next week on Benefit Blind Spots: the stay-or-switch decision. When should you go to market for a new PBM, and when should you renegotiate the relationship you have? Two clients. Same PBM. Opposite decisions. Both right. A 100-point scorecard that removes the guesswork.
 
 **Midday (11 AM-1 PM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The formulary provisions we see range from strong (employer approval required for any mid-year change, tier-level rebate transparency, annual net cost comparison) to effectively absent (PBM manages formulary "in accordance with standard practices"). The gap between those two positions is where the financial surprise lives.
+We review dozens of PBM contracts every quarter. The formulary provisions we see range from strong (employer approval required for any mid-year change, tier-level rebate transparency, annual net cost comparison) to effectively absent (PBM manages formulary "in accordance with standard practices"). The gap between those two positions is where the financial surprise lives.
 
 **Afternoon (3-6 PM) — Honest Post:**
 Formulary management is technical. Rebate economics are opaque. P&T committees are invisible. I understand why most employers delegate this entirely to the PBM and never look back. But the formulary is where the largest recurring cost decisions get made for your plan. Delegating is fine. Delegating without oversight is expensive. That distinction matters.

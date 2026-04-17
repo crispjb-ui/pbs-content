@@ -657,7 +657,7 @@ The biosimilar conversation exposes a structural tension in the PBM model. PBMs 
 Next week on Benefit Blind Spots: mid-year claims red flags. Your claims data is already showing patterns that predict your renewal outcome. Five specific signals to watch: specialty concentration shifts, high-cost claimant clustering, utilization anomalies, generic efficiency declines, and rebate revenue erosion. Mid-year is when you can still act on them.
 
 **Midday (11 AM-1 PM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. The biosimilar language we see ranges from explicit dispensing rate guarantees with financial penalties, to complete silence. Silence is not neutral. In a contract, silence means the PBM has no obligation to prioritize biosimilar adoption. The plans with the strongest biosimilar outcomes are the ones that made it a contractual requirement.
+Here is what we see across client contract reviews. The biosimilar language ranges from explicit dispensing rate guarantees with financial penalties, to complete silence. Silence is not neutral. In a contract, silence means the PBM has no obligation to prioritize biosimilar adoption. The plans with the strongest biosimilar outcomes are the ones that made it a contractual requirement.
 
 **Afternoon (3-6 PM) — Honest Post:**
 Biosimilar strategy should be straightforward. The products are FDA-approved. The savings are measurable. The clinical evidence is clear. And yet, adoption is uneven across plans. The barrier is almost never clinical. It is economic, contractual, and structural. That gap between what should be simple and what is actually complicated is where most of our consulting work lives. Pharmacy benefits should not be this hard to optimize. But right now, they are.

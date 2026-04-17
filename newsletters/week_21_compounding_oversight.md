@@ -581,7 +581,7 @@ Compounding claims are one of those categories that fly under the radar until so
 Next week on Benefit Blind Spots: the biosimilar opportunity most self-funded plans are missing. A biosimilar is available. FDA-approved. Clinically equivalent. Lower net cost. Your formulary still prefers the brand. We walk through why PBM rebate economics may not align with your plan's cost objectives, and share a six-factor readiness assessment.
 
 **Midday (11 AM-1 PM) — Expertise Insight:**
-We review approximately 100 PBM contracts annually. Compounding claims are one of the categories where contract language matters most and exists least. Most contracts do not define what qualifies as a "medically necessary" compound, do not cap ingredient costs, and do not require documentation of why a commercial alternative was not appropriate.
+We review hundreds of PBM contracts annually. Compounding claims are one of the categories where contract language matters most and exists least. Most contracts do not define what qualifies as a "medically necessary" compound, do not cap ingredient costs, and do not require documentation of why a commercial alternative was not appropriate.
 
 **Afternoon (3-6 PM) — Expertise Insight:**
 Here is what makes compounding oversight difficult: the claims look normal in the system. They process like any other prescription. They have an NDC. They have a prescriber. They adjudicate through the PBM. The difference is in the pricing, the patterns, and the clinical rationale. You do not find compounding problems by reviewing individual claims. You find them by reviewing utilization patterns across the category.
@@ -605,7 +605,7 @@ Red flag combination we watch for: high-cost compound + single-source pharmacy +
 Question for benefits professionals: does your plan have a compounding-specific claims review process? Not a general pharmacy audit, but a targeted review of compounding volume, pricing, prescriber patterns, and commercial alternative availability?
 
 **Late Afternoon (4-6 PM) — Behind-the-Scenes:**
-Some real numbers from our content journey. Benefit Blind Spots launched on Substack in February. We went from 1 subscriber to 24. Our LinkedIn newsletter hit 653 subscribers, and the open rate has climbed from 44% to 49% over the past few months. We review approximately 100 PBM contracts a year, and everything we publish comes from that work. Building a content ecosystem and a consulting practice at the same time is a lot. We are figuring it out week by week.
+Some real numbers from our content journey. Benefit Blind Spots launched on Substack in February. We went from 1 subscriber to 24. Our LinkedIn newsletter hit 653 subscribers, and the open rate has climbed from 44% to 49% over the past few months. We review roughly 100 PBM contracts a year, and everything we publish comes from that work. Building a content ecosystem and a consulting practice at the same time is a lot. We are figuring it out week by week.
 
 ## Sunday
 

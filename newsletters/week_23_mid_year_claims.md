@@ -625,7 +625,7 @@ Five claims data patterns that predict renewal trajectory: specialty concentrati
 The most revealing metric in pharmacy benefits is one most employers never track: rebate per claim. Total rebates can rise simply because total spend rises. Rebate per claim tells you whether the PBM's rebate efficiency is actually improving. Track it quarterly. If it is declining while total spend is rising, the formulary economics are moving against your plan.
 
 **Midday (11 AM-1 PM) — Origin Story:**
-I review approximately 100 PBM contracts annually. The pattern I see most often at renewal: employers surprised by a trend their own data predicted months earlier. The data was available. Nobody was reading it. Not because they did not care. Because the reporting structure buries the signals under metrics that look fine on the surface. My job is teaching clients to read the signals, not just the summaries.
+I review the contracts that cross my desk each year. The pattern I see most often at renewal: employers surprised by a trend their own data predicted months earlier. The data was available. Nobody was reading it. Not because they did not care. Because the reporting structure buries the signals under metrics that look fine on the surface. My job is teaching clients to read the signals, not just the summaries.
 
 **Afternoon (3-6 PM) — Provocative One-Liner:**
 The PBM's quarterly report says your plan is performing well. Your claims data tells a different story. Both statements come from the same data set. The difference is narrative.

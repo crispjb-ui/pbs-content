@@ -229,7 +229,7 @@ The July client had time to pull their own claims data, benchmark pricing agains
 
 The September client was reactive. The PBM had already prepared the renewal package. The terms were framed around what the PBM was willing to offer, not what the employer needed. Everything felt rushed because it was.
 
-Here is what I know from reviewing approximately 100 PBM contracts annually: the 90-day window before renewal determines your negotiating position. Below 90 days, you are responding to the PBM's framework. At 90 days, you are building your own.
+Here is what I know from our contract review work at PBS: the 90-day window before renewal determines your negotiating position. Below 90 days, you are responding to the PBM's framework. At 90 days, you are building your own.
 
 Your PBM starts renewal preparation months before presenting terms. They have already analyzed your claims data, modeled scenarios, and determined which concessions they can make while protecting their margins. If you start 30 days before they present, you are negotiating within their frame. If you start 90 days before, you are setting your own.
 

@@ -189,7 +189,7 @@ A client's broker flagged something in their claims data last year: the specialt
 
 Nobody had questioned the routing. Nobody had modeled alternatives. The PBM routed specialty claims through their owned specialty pharmacy, and the employer assumed that was the only option. It was not.
 
-Here is what I have learned from reviewing approximately 100 PBM contracts annually: network design is one of the most impactful cost levers in pharmacy benefits, and most employers have never evaluated it independently. The formulary gets attention. Rebates get attention. The network, where prescriptions are actually filled and at what cost per channel, runs on autopilot.
+Here is what I have learned from the PBM contracts we read line by line: network design is one of the most impactful cost levers in pharmacy benefits, and most employers have never evaluated it independently. The formulary gets attention. Rebates get attention. The network, where prescriptions are actually filled and at what cost per channel, runs on autopilot.
 
 Your pharmacy benefit operates across five dispensing channels, and the cost of the same drug varies meaningfully depending on which one fills it. Retail pharmacy is convenient but typically the most expensive for maintenance medications. Mail order offers lower unit pricing for most brand maintenance drugs, though not always for generics. Specialty pharmacy handles high-cost medications, often through PBM-owned entities where the PBM's margin and the plan's cost may not align. White bagging moves provider-administered drugs from the medical benefit to the pharmacy benefit, capturing PBM-negotiated pricing. Home infusion eliminates facility fees entirely for appropriate candidates.
 
