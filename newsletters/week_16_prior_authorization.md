@@ -790,45 +790,34 @@ This week's Pharmacy Benefits Briefing covers the full PA optimization framework
 
 #### Messy Infographic Concept
 
-**Format:** MESSY INFOGRAPHIC - Whiteboard/informal style, same visual DNA as Week 10 (22K impressions) and Week 14 (4.9K impressions).
+**Format:** Single LinkedIn feed image, photorealistic hand-written note style. Same DNA as Week 10 (22K impressions) and Week 14 (4.9K impressions), but we rotate the setting across Thursdays so the series stays visually fresh.
 
-**Dimensions:** 2240 x 1260 px
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**AI Image Generation Prompt (paste into Midjourney, DALL-E, or similar):**
+**Setting:** Yellow legal pad, black and blue ink.
 
-A deliberately imperfect whiteboard-style digital infographic at 2240 x 1260 pixels with a solid white (#FFFFFF) background. The visual feels hand-drawn on a real whiteboard, with slight imperfections: not-quite-straight lines, small marker smudges, corners that do not fully meet. No gradients, no photorealistic elements, no 3D rendering.
+**AI Image Generation Prompt (copy-paste as-is):**
 
-Title at the top, hand-lettered in bold deep teal-blue (#015880) marker style, approximately 72-96pt: "5 PA CONTRACT TERMS DECODED."
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A yellow legal pad rests on a dark wood desk. A black ballpoint pen lies diagonally across the upper-right corner. The pad is filled with clean human handwriting in black and blue ink. No logos, no brand marks, no people, no text outside the pad.
+>
+> At the top of the pad, in larger handwriting, black ink, double-underlined: 5 PA Contract Terms Decoded
+>
+> Five rows below the title. Each row shows a quoted term on the left in black ink, a short hand-drawn arrow, and a plain-English translation on the right in blue ink:
+>
+> "Timely manner" → No defined hours. Protects no one.
+> "Clinically appropriate" → PBM defines it. Not your plan.
+> "Medical necessity" → Denial that shifts burden to prescriber.
+> "Utilization management fee" → Often hidden inside admin fee.
+> "Standard review" → Can mean hours. Can mean weeks.
+>
+> At the bottom of the pad, inside a hand-drawn black ink rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+>
+> Style: realistic paper texture, soft natural daylight, no external shadows. Slightly imperfect handwriting (uneven line spacing, minor ink smudges) for authenticity. Colors: legal pad yellow, light blue rule lines, red left-margin line, black ink for terms and title, blue ink for translations, dark wood desk.
 
-Below the title, five horizontal rows stacked vertically with even spacing. Each row contains:
-- LEFT SIDE: A short phrase in quotation marks, written in gray (#4D4D4D) marker style, approximately 44-52pt, looking slightly rushed:
-  Row 1: "Timely manner"
-  Row 2: "Clinically appropriate"
-  Row 3: "Medical necessity"
-  Row 4: "Utilization management fee"
-  Row 5: "Standard review"
-- A hand-drawn arrow pointing right, deep teal-blue (#015880), slightly wobbly, approximately 120px wide
-- RIGHT SIDE: A short plain-English translation, written in Accent Blue (#A7E0FA) highlighter or marker style, approximately 44-52pt:
-  Row 1: "No defined hours. Protects no one."
-  Row 2: "PBM defines it. Not your plan."
-  Row 3: "Denial that shifts burden to prescriber."
-  Row 4: "Often hidden inside admin fee."
-  Row 5: "Can mean hours. Can mean weeks."
-
-At the bottom, a hand-drawn box outlined in deep teal-blue (#015880) marker containing the callout text in deep teal-blue, approximately 40-48pt: "Your PBM wrote these definitions. Your contract should redefine them."
-
-Overall feel: A pharmacy benefits expert sketched this on a whiteboard during a client meeting. Deliberately informal. No corporate polish. No logos, no badges, no newsletter names, no watermarks, no signatures. No photographs, no realistic elements, no illustrations of people.
-
-Color palette strictly: white (#FFFFFF) background, deep teal-blue (#015880) for title and marker text, Accent Blue (#A7E0FA) for translations, Gray (#4D4D4D) for the PBM-term quotes.
-
-**Canva post-gen steps:**
-1. Generate base image using the prompt above at 2240 x 1260 px
-2. If AI rendering of specific terms or translations is misspelled or garbled, overlay the correct text in Canva using a handwritten/marker font (Permanent Marker, Caveat, or similar) in the same colors
-3. If the arrows look awkward, replace with Canva's "marker arrow" shapes in deep teal-blue (#015880)
-4. Add "Benefit Blind Spots" badge top-left (Roboto Bold, 32-36pt, deep teal-blue #015880) outside the whiteboard feel
-5. Add PBS logo (dark version) bottom-right, 160-200px width
-6. Verify readability at LinkedIn thumbnail size (feed preview)
-7. Export as PNG
+**Canva touch-up only (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching ink colors.
+2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+3. Export as PNG at 1080 x 1350.
 
 ---
 
