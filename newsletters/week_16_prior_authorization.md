@@ -112,9 +112,11 @@ Those are your candidates for PA removal or gold card exemption.
 
 Now calculate the cost side. Start with PBM fees for PA processing. In our contract reviews we see three common structures:
 
-- **Administrative PA review** (no clinical review required): $25 to $40 per PA
-- **Clinical pharmacist review**: $60 to $80 per PA
-- **"Included" in the admin fee** (no separate line item): Not visible without a fee transparency clause
+> **Administrative PA review** (no clinical review required): $25 to $40 per PA
+>
+> **Clinical pharmacist review**: $60 to $80 per PA
+>
+> **"Included" in the admin fee** (no separate line item): Not visible without a fee transparency clause
 
 The third structure is the one that causes the most trouble. If your PA cost is bundled into your admin fee, you cannot audit it. You cannot benchmark it. You cannot tell how much of your administrative spend is actually review work versus everything else your admin fee is supposed to cover. A fee transparency clause that requires itemized reporting is the fix. If you do not have one, that belongs on the next contract redline.
 
@@ -122,30 +124,20 @@ Add internal staff time managing requests and member complaints. Add provider re
 
 Score your program against these benchmarks:
 
-**Overall approval rate**
-- Green: 70-85%
-- Yellow: 85-95%
-- Red: Above 95% (rubber stamp) or below 70% (too restrictive)
+> **Overall approval rate**
+> Green: 70-85%. Yellow: 85-95%. Red: Above 95% (rubber stamp) or below 70% (too restrictive).
 
-**Average turnaround time**
-- Green: Under 24 hours
-- Yellow: 24 to 72 hours
-- Red: Over 72 hours
+> **Average turnaround time**
+> Green: Under 24 hours. Yellow: 24 to 72 hours. Red: Over 72 hours.
 
-**Appeal overturn rate**
-- Green: Under 25%
-- Yellow: 25 to 50%
-- Red: Over 50% (initial criteria too tight)
+> **Appeal overturn rate**
+> Green: Under 25%. Yellow: 25 to 50%. Red: Over 50% (initial criteria too tight).
 
-**Therapy abandonment**
-- Green: Under 5%
-- Yellow: 5 to 15%
-- Red: Over 15%
+> **Therapy abandonment**
+> Green: Under 5%. Yellow: 5 to 15%. Red: Over 15%.
 
-**Top 20 drugs with approval rate above 90%**
-- Green: 0 to 3 drugs
-- Yellow: 4 to 8 drugs
-- Red: More than 8 drugs (remove PA from these)
+> **Top 20 drugs with approval rate above 90%**
+> Green: 0 to 3 drugs. Yellow: 4 to 8 drugs. Red: More than 8 drugs (remove PA from these).
 
 *Illustrative example for educational purposes. Actual metrics vary by plan.*
 

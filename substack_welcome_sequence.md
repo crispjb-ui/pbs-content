@@ -99,17 +99,17 @@ The easiest way to tell whether this newsletter is going to be useful to you is 
 
 Three questions you can send to your PBM account manager today. Use any or all. The answers will tell you more about your plan's position than your last three quarterly reports.
 
-**1. Can you provide a net cost comparison for every therapeutic category where a biosimilar is available?**
+> **1. Can you provide a net cost comparison for every therapeutic category where a biosimilar is available?**
+>
+> This single request reveals whether your formulary is optimized for your plan's cost or for your PBM's rebate revenue. If they cannot produce it, that is the answer.
 
-This single request reveals whether your formulary is optimized for your plan's cost or for your PBM's rebate revenue. If they cannot produce it, that is the answer.
+> **2. What is our administrative PA review fee, our clinical pharmacist review fee, and how many of each type processed in the last 12 months?**
+>
+> Across contracts we review, admin PA review runs $25 to $40 per PA and clinical pharmacist review runs $60 to $80 per PA. Some PBMs bundle these into a flat admin fee so they are invisible. If yours is invisible, ask for itemization.
 
-**2. What is our administrative PA review fee, our clinical pharmacist review fee, and how many of each type processed in the last 12 months?**
-
-Across contracts we review, admin PA review runs $25 to $40 per PA and clinical pharmacist review runs $60 to $80 per PA. Some PBMs bundle these into a flat admin fee so they are invisible. If yours is invisible, ask for itemization.
-
-**3. What is our first-pass approval rate on prior authorizations for maintenance medications in stable patients?**
-
-Anything above 90% means the PA is rubber-stamping. You are paying for friction that is not changing outcomes.
+> **3. What is our first-pass approval rate on prior authorizations for maintenance medications in stable patients?**
+>
+> Anything above 90% means the PA is rubber-stamping. You are paying for friction that is not changing outcomes.
 
 If any of these questions produce a meaningful answer, forward it to me. If any produce pushback, that is also useful. Either way, it is a data point about where your contract actually stands.
 

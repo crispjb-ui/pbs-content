@@ -84,55 +84,45 @@ There is also a negotiating angle that often gets overlooked. The ability to car
 
 I walked a client through this evaluation last quarter, and the scorecard made the conversation much more productive than the usual back-and-forth about "what feels right." Rate each of the following ten factors on a 1 to 5 scale based on your current situation. Higher scores favor carve-out. Lower scores favor staying bundled.
 
-**Pricing Transparency**
-- Question: Can you verify your PBM's pricing against market benchmarks?
-- Score 1 (Favor Bundled): Full transparency, competitive pricing
-- Score 5 (Favor Carve-Out): Limited visibility, unable to benchmark
+> **Pricing Transparency**. Can you verify your PBM's pricing against market benchmarks?
+> Score 1 (Favor Bundled): Full transparency, competitive pricing.
+> Score 5 (Favor Carve-Out): Limited visibility, unable to benchmark.
 
-**Rebate Flow**
-- Question: Do you receive and can you verify rebate passthrough?
-- Score 1 (Favor Bundled): Clear passthrough, auditable
-- Score 5 (Favor Carve-Out): Opaque, "competitive" language, no audit rights
+> **Rebate Flow**. Do you receive and can you verify rebate passthrough?
+> Score 1 (Favor Bundled): Clear passthrough, auditable.
+> Score 5 (Favor Carve-Out): Opaque, "competitive" language, no audit rights.
 
-**Data Access**
-- Question: Do you have full, timely access to claims data?
-- Score 1 (Favor Bundled): Complete data, flexible reporting
-- Score 5 (Favor Carve-Out): Limited data, PBM-controlled reporting
+> **Data Access**. Do you have full, timely access to claims data?
+> Score 1 (Favor Bundled): Complete data, flexible reporting.
+> Score 5 (Favor Carve-Out): Limited data, PBM-controlled reporting.
 
-**Contract Flexibility**
-- Question: Can you negotiate pharmacy terms independently?
-- Score 1 (Favor Bundled): Full negotiation flexibility
-- Score 5 (Favor Carve-Out): Terms tied to medical bundle, limited flexibility
+> **Contract Flexibility**. Can you negotiate pharmacy terms independently?
+> Score 1 (Favor Bundled): Full negotiation flexibility.
+> Score 5 (Favor Carve-Out): Terms tied to medical bundle, limited flexibility.
 
-**Specialty Management**
-- Question: Are you satisfied with specialty pharmacy routing and cost management?
-- Score 1 (Favor Bundled): Strong specialty performance
-- Score 5 (Favor Carve-Out): Specialty costs growing, limited control
+> **Specialty Management**. Are you satisfied with specialty pharmacy routing and cost management?
+> Score 1 (Favor Bundled): Strong specialty performance.
+> Score 5 (Favor Carve-Out): Specialty costs growing, limited control.
 
-**Clinical Programs**
-- Question: Do clinical programs (PA, step therapy, MTM) deliver measurable value?
-- Score 1 (Favor Bundled): Documented ROI on clinical programs
-- Score 5 (Favor Carve-Out): Programs exist on paper, no outcomes data
+> **Clinical Programs**. Do clinical programs (PA, step therapy, MTM) deliver measurable value?
+> Score 1 (Favor Bundled): Documented ROI on clinical programs.
+> Score 5 (Favor Carve-Out): Programs exist on paper, no outcomes data.
 
-**Renewal Position**
-- Question: At renewal, do you have competitive alternatives?
-- Score 1 (Favor Bundled): Multiple competitive options
-- Score 5 (Favor Carve-Out): Locked in, high switching costs
+> **Renewal Position**. At renewal, do you have competitive alternatives?
+> Score 1 (Favor Bundled): Multiple competitive options.
+> Score 5 (Favor Carve-Out): Locked in, high switching costs.
 
-**Internal Capacity**
-- Question: Does your team have bandwidth to manage a separate PBM relationship?
-- Score 1 (Favor Bundled): Dedicated benefits team, broker support
-- Score 5 (Favor Carve-Out): Lean team, limited pharmacy expertise
+> **Internal Capacity**. Does your team have bandwidth to manage a separate PBM relationship?
+> Score 1 (Favor Bundled): Dedicated benefits team, broker support.
+> Score 5 (Favor Carve-Out): Lean team, limited pharmacy expertise.
 
-**Plan Size**
-- Question: Is your plan large enough to attract competitive carved-out pricing?
-- Score 1 (Favor Bundled): 5,000+ lives, attractive to PBM market
-- Score 5 (Favor Carve-Out): Under 1,000 lives, limited market interest
+> **Plan Size**. Is your plan large enough to attract competitive carved-out pricing?
+> Score 1 (Favor Bundled): 5,000+ lives, attractive to PBM market.
+> Score 5 (Favor Carve-Out): Under 1,000 lives, limited market interest.
 
-**Advisory Support**
-- Question: Does your advisory team include PBM-specific expertise for a carved-out evaluation?
-- Score 1 (Favor Bundled): PBM-specialized consultant on the team
-- Score 5 (Favor Carve-Out): Team would benefit from adding pharmacy-specific support
+> **Advisory Support**. Does your advisory team include PBM-specific expertise for a carved-out evaluation?
+> Score 1 (Favor Bundled): PBM-specialized consultant on the team.
+> Score 5 (Favor Carve-Out): Team would benefit from adding pharmacy-specific support.
 
 A total score of 10 to 20 suggests staying bundled and focusing on improving transparency within the current arrangement. A score of 21 to 30 warrants further evaluation; request a parallel carved-out RFP to compare. A score of 31 to 40 is a strong case for carve-out and a formal evaluation process. A score of 41 to 50 suggests carve-out is likely the better structure and transition planning should be a priority.
 
