@@ -104,6 +104,8 @@ Have you ever asked your PBM how your formulary differs from their standard? If 
 
 ---
 
+*For the full protective contract language on formulary management and rebate passthrough, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on formulary evaluation? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*

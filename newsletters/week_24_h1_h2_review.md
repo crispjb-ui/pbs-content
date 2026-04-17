@@ -146,6 +146,8 @@ Have you pulled your H1 numbers yet? If you found something unexpected in the da
 
 ---
 
+*For the full protective contract language on audit rights, rebate guarantees, and pricing guarantees, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on H1 review or renewal preparation? Reach out at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe to receive the weekly deep dive and Thursday field notes.*

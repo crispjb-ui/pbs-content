@@ -100,6 +100,8 @@ Have you pulled your mid-year claims data yet? If you have started identifying p
 
 ---
 
+*For the full protective contract language on audit rights and rebate provisions, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on mid-year claims analysis? Reach out at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe to receive the weekly deep dive and Thursday field notes.*

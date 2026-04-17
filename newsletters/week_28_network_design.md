@@ -96,6 +96,8 @@ Have you compared cost per script across dispensing channels on your plan? If yo
 
 ---
 
+*For the full protective contract language on specialty routing and pricing guarantees, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on network design? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*

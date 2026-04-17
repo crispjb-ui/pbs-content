@@ -103,6 +103,8 @@ Have you audited your PBM's clinical program savings? Leave a comment below.
 
 ---
 
+*For the full protective contract language on prior authorization and clinical program provisions, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 
 ---

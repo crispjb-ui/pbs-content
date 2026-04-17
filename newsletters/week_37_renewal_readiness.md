@@ -167,6 +167,8 @@ We have been building toward this for 13 weeks. The preparation is the strategy.
 
 ---
 
+*For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 
 ---

@@ -111,6 +111,8 @@ Have you pulled your compounding claims data recently? If you found something un
 
 ---
 
+*For the full protective contract language on prior authorization and clinical program provisions, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on compounding oversight? Reach out at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe to receive the weekly deep dive and Thursday field notes.*

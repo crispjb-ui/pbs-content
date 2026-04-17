@@ -116,6 +116,8 @@ Have you reviewed the drug pipeline for therapies that could hit your plan in th
 
 ---
 
+*For the full protective contract language on formulary management and pricing guarantees, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on pipeline monitoring? Reach out at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe to receive the weekly deep dive and Thursday field notes.*

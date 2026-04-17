@@ -92,6 +92,8 @@ Have you evaluated site-of-care for your plan's infusion therapies? If you have 
 
 ---
 
+*For the full protective contract language on specialty routing provisions, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on site-of-care strategy? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*

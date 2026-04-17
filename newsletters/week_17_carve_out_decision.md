@@ -162,6 +162,8 @@ Have you evaluated carve-out for your plan? If you went through the process and 
 
 ---
 
+*For the full protective contract language on termination notice, data transfer, and specialty routing provisions, see our free PBM Contract Language Library: [LINK TO CONTRACT LANGUAGE LIBRARY]. Updated quarterly from patterns we see in client contract reviews.*
+
 *Questions on the carve-out decision? Reach out at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe to receive the weekly analysis and Thursday field notes.*
