@@ -47,8 +47,6 @@ I sat across from an employer last month who told me about a member with a chron
 
 She was always going to get approved. Nothing had changed. But she missed doses, her symptoms flared, and by the time the medication restarted, she had already called HR twice and her physician's office three times.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 That is the PA problem in one story. The tool works when it is applied in the right places. In others, it creates friction that helps nobody. Most employers I talk to have never measured whether their PA program is delivering value that justifies the burden. They know they have PA. They do not know what it costs them. And this is not a knock on their advisory teams. The brokers and consultants we work with are often the first ones to flag these gaps once they see the data. The problem is that PBMs do not hand over PA outcome data in a format that makes analysis easy.
 
 **Where PA actually works**

@@ -22,7 +22,7 @@
 | Wed May 6 | 12:30 PM | Substack Notes | Afternoon Note - Quick tip | [ ] |
 | Thu May 7 | 7:15 AM | Substack Notes | Morning Note - Field Note launch | [ ] |
 | Thu May 7 | 7:30 AM | Substack | Field Note: "One Drug Class to Watch: The Next Wave of GLP-1 Approvals" | [ ] |
-| Thu May 7 | 8:30 AM | LinkedIn Feed | Post 63 - Drug Pipeline Watch List Carousel (weekly theme) | [ ] |
+| Thu May 7 | 8:30 AM | LinkedIn Feed | Post 63 - Same drug. Retail. Mail order. Specialty. Three prices. (Carousel, Slot B evergreen rotation) | [ ] |
 | Thu May 7 | 12:30 PM | Substack Notes | Afternoon Note - Deeper angle | [ ] |
 | Thu May 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 63 | [ ] |
 | Fri May 8 | 7:15 AM | Substack Notes | Morning Note - Week-in-review | [ ] |
@@ -496,7 +496,11 @@ Your PBM knows what is coming. The question is whether anyone told you.
 ---
 
 ## Post 63 - Thursday 8:30 AM
-### Drug Pipeline Watch List (One Number Carousel) - Weekly Theme Visual
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: Same drug. Retail. Mail order. Specialty. Three prices. (Slot B of the evergreen rotation).**
+
+### Drug Pipeline Watch List (One Number Carousel) - Weekly Theme Visual [REPURPOSED]
 
 **Format:** One Number Carousel (7 slides) - Template C
 **Pillar:** Cost Containment
@@ -554,6 +558,28 @@ The full pipeline preparation framework is in this week's Pharmacy Benefits Brie
 - Large white text: "PREPARE NOW."
 - Accent Blue: "Before the claims arrive."
 - team@rxbs.org | Benefit Blind Spots | PBS logo (white, 60px)
+
+*Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+---
+
+### Thursday Evergreen Rotation (Slot B) - Same drug. Retail. Mail order. Specialty. Three prices.
+
+- **Slot:** B
+- **Format:** Carousel (6 slides)
+- **Pillar:** Cost Containment Strategies
+- **Topic:** Same drug. Retail. Mail order. Specialty. Three prices.
+- **Hook:** "Same drug. Same dose. Same manufacturer. Three channels. Three invoices your PBM hopes you never compare."
+
+**Content outline (Same/Same/Different structure, parallel lines then punchline):**
+- Slide 1 (Hook): "Same drug. Same dose. Same manufacturer. Three prices." Swipe indicator in Accent Blue.
+- Slide 2 (Retail): "Retail pharmacy. AWP minus a discount. Dispensing fee. One unit price."
+- Slide 3 (Mail order): "Mail order. Same drug. Different discount percentage. Different dispensing fee. Different unit price."
+- Slide 4 (Specialty): "Specialty pharmacy. Same drug. Different pricing methodology entirely. Different unit price."
+- Slide 5 (Punchline): "Same drug. Three channels. Three prices. One PBM setting every number." Accent Blue underline under "One PBM."
+- Slide 6 (CTA): Primary Blue background. White: "Channel pricing is a design decision. Whose design is yours?" team@rxbs.org | Benefit Blind Spots | PBS logo.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt headers. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across three middle slides. Mobile-optimized 1080x1350.
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
 

@@ -22,7 +22,7 @@
 | Wed Apr 29 | 12:30 PM | Substack Notes | Afternoon Note - Quick tip | [ ] |
 | Thu Apr 30 | 7:15 AM | Substack Notes | Morning Note - Field Note launch | [ ] |
 | Thu Apr 30 | 7:30 AM | Substack | Field Note: "The First 90 Days After Carve-Out" | [ ] |
-| Thu Apr 30 | 8:30 AM | LinkedIn Feed | Post 59 - Carve-In vs Carve-Out Carousel (weekly theme) | [ ] |
+| Thu Apr 30 | 8:30 AM | LinkedIn Feed | Post 59 - 5 Rebate Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Thu Apr 30 | 12:30 PM | Substack Notes | Afternoon Note - Deeper angle | [ ] |
 | Thu Apr 30 | 1:30 PM | LinkedIn Company | Company Reshare of Post 59 | [ ] |
 | Fri May 1 | 7:15 AM | Substack Notes | Morning Note - Week-in-review | [ ] |
@@ -51,8 +51,6 @@
 Ask your PBM about carving out pharmacy. I have watched the reaction enough times to predict it. They will tell you it is disruptive, complex, risky. What they will not tell you is that bundling is how they control your data, your rebate flow, and your negotiating position at renewal.
 
 We walked a client through this evaluation last year. During the renewal meeting, the employer asked a direct question: what would our pharmacy pricing look like if we carved out? The room went quiet. The PBM representative pivoted to "integration value" and "administrative simplicity." The actual pricing comparison never happened. That employer renewed bundled, without ever seeing what the market would offer for their pharmacy benefit as a standalone contract.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 That pattern repeats constantly. Most employers never chose their current pharmacy structure. They inherited it. Bundled pharmacy came with the medical package. It was part of the deal. And the PBM has every financial reason to make sure that default goes unexamined.
 
@@ -441,7 +439,11 @@ Your PBM has a financial interest in you never asking the question.
 ---
 
 ## Post 59 - Thursday 8:30 AM
-### Carve-In vs Carve-Out (Whiteboard Carousel) - Weekly Theme Visual
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Rebate Terms Decoded (Slot A of the evergreen rotation).**
+
+### Carve-In vs Carve-Out (Whiteboard Carousel) - Weekly Theme Visual [REPURPOSED]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** PBM Contracts
@@ -516,6 +518,25 @@ The full carve-out decision framework is in this week's Pharmacy Benefits Briefi
 - White handwritten: "Default is not a strategy."
 - Accent Blue: "Evaluate. Then decide."
 - team@rxbs.org | Benefit Blind Spots | PBS logo (white, 60px)
+
+---
+
+### Thursday Evergreen Rotation (Slot A) - 5 Rebate Terms Decoded
+
+- **Slot:** A
+- **Format:** Messy Infographic
+- **Pillar:** PBM Contract Insights
+- **Topic:** 5 Rebate Terms Decoded
+- **Hook:** "Your PBM says 'rebate.' Your contract says something else. Here is what those five words actually mean."
+
+**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
+- "Rebate" - PBM means: manufacturer payment tied to formulary placement. Read it as: a payment stream the PBM may keep, share, or redirect depending on contract language.
+- "Rebate guarantee" - PBM means: minimum per-script or per-member amount the PBM commits to pass through. Read it as: a floor, not a ceiling, and usually excludes the categories where the real rebate dollars sit.
+- "Rebate aggregator" - PBM means: affiliate entity that negotiates manufacturer contracts on the PBM's behalf. Read it as: a separate legal entity where rebate dollars can be retained outside your audit scope.
+- "Manufacturer revenue" - PBM means: all payments received from drug manufacturers. Read it as: a broader bucket than "rebates" that often includes admin fees, data fees, and other retained dollars your contract may not address.
+- "Net cost guarantee" - PBM means: a committed cost per claim after rebates are applied. Read it as: a definition worth reading carefully, because what counts as "net" is written by the PBM.
+
+**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 REBATE TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D) on left, hand-drawn arrow in Accent Blue (#A7E0FA) pointing right, plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
 
 ---
 

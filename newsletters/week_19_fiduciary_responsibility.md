@@ -16,7 +16,7 @@
 | Tue May 12 | 1:30 PM | LinkedIn Company | Company Reshare of Post 65 | [ ] |
 | Wed May 13 | 8:30 AM | LinkedIn Feed | Post 66 - "You Are an ERISA Fiduciary. Most Employers Do Not Act Like It." Tease Hook (TEXT) | [ ] |
 | Wed May 13 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Thu May 14 | 8:30 AM | LinkedIn Feed | Post 67 - Fiduciary Documentation Framework MESSY INFOGRAPHIC (weekly theme) | [ ] |
+| Thu May 14 | 8:30 AM | LinkedIn Feed | Post 67 - 5 Formulary Questions Your PBM Avoids (Carousel, Slot C evergreen rotation) | [ ] |
 | Thu May 14 | 1:30 PM | LinkedIn Company | Company Reshare of Post 67 | [ ] |
 | Thu May 14 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 15 | 8:30 AM | LinkedIn Feed | Post 68 - "Following the Money" Tease Hook (TEXT) | [ ] |
@@ -422,7 +422,11 @@ If you cannot produce those five documents today, the gap is worth closing befor
 ---
 
 ## Post 67 - Thursday 8:30 AM
-### Fiduciary Documentation Framework (Messy Infographic) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Formulary Questions Your PBM Avoids (Slot C of the evergreen rotation).**
+
+### Fiduciary Documentation Framework (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Messy Infographic
 **Pillar:** Broker/Consultant Resources
@@ -471,6 +475,27 @@ The full fiduciary framework is in this week's Pharmacy Benefits Briefing: [LINK
 **Footer annotation:** "Missing one node weakens the entire framework"
 
 **Style:** Slightly imperfect, whiteboard-sketch aesthetic with PBS brand colors (#015880 primary, #A7E0FA accent)
+
+---
+
+### Thursday Evergreen Rotation (Slot C) - 5 Formulary Questions Your PBM Avoids
+
+- **Slot:** C
+- **Format:** Carousel (6 slides)
+- **Pillar:** Transparency & Industry Education
+- **Topic:** 5 Formulary Questions Your PBM Avoids
+- **Hook:** "Five questions about your formulary that your PBM will redirect, defer, or answer incompletely. Ask all five anyway."
+
+**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+- Slide 1 (Hook): "5 Formulary Questions Your PBM Avoids." Accent Blue swipe indicator.
+- Slide 2 (Q1): "What changed on our formulary last quarter, and why?" Why it matters: formulary shifts drive member disruption and rebate flow. The "why" is almost always economic, not clinical.
+- Slide 3 (Q2): "Which drugs were added or removed because of rebate contracts?" Why it matters: clinical rationale and rebate rationale are different answers. You are entitled to both.
+- Slide 4 (Q3): "What is the net cost of our top 10 drugs after all rebates and fees?" Why it matters: gross cost is not plan cost. Net cost is. The PBM has both numbers.
+- Slide 5 (Q4): "Which formulary tier decisions are overridden by the rebate aggregator?" Why it matters: if a separate entity influences tier placement, your formulary is partly owned by a vendor you do not directly contract with.
+- Slide 6 (Q5): "What is our therapy abandonment rate on step-therapy drugs?" Why it matters: savings that come from members giving up are not real savings. They are deferred costs.
+- Slide 7 (CTA): Primary Blue background. White: "Five questions. One fiduciary duty. Ask all five." team@rxbs.org | Benefit Blind Spots.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) backgrounds. Krona One 40-48pt for questions. Roboto 18-22pt for why-it-matters lines. Accent Blue (#A7E0FA) underline under key phrases. Mobile-optimized 1080x1350.
 
 ---
 

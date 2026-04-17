@@ -17,7 +17,7 @@
 | Wed May 20 | 8:30 AM | LinkedIn Feed | Post 70 - "Free drug. Full price claim. Your plan pays." Tease Hook (TEXT) | [ ] |
 | Wed May 20 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 21 | 7:30 AM | Substack | Field Note: "Copay Accumulator vs. Copay Maximizer" | [ ] |
-| Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - Copay Card Impact Carousel (weekly theme) | [ ] |
+| Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - 5 Specialty Pharmacy Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Thu May 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 71 | [ ] |
 | Thu May 21 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 22 | 8:30 AM | LinkedIn Feed | Post 72 - "The High-Risk Category" Tease Hook (TEXT) | [ ] |
@@ -418,7 +418,11 @@ Follow the claim. Not the card.
 ---
 
 ## Post 71 - Thursday 8:30 AM
-### Copay Card Impact: How Manufacturer Programs Affect Your Plan (Carousel) - WEEKLY THEME VISUAL
+
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
+> **This Thursday slot is now filled by: 5 Specialty Pharmacy Terms Decoded (Slot A of the evergreen rotation).**
+
+### Copay Card Impact: How Manufacturer Programs Affect Your Plan (Carousel) - WEEKLY THEME VISUAL [REPURPOSED]
 
 **Format:** Carousel (7 slides)
 **Pillar:** Transparency
@@ -498,6 +502,25 @@ The manufacturer programs briefing covers the full copay card economics, from li
 3. Hand-drawn arrows connecting each step
 4. Red (#C0392B) for key reveals and cost callouts
 5. Export 1080 x 1350 px each
+
+---
+
+### Thursday Evergreen Rotation (Slot A) - 5 Specialty Pharmacy Terms Decoded
+
+- **Slot:** A
+- **Format:** Messy Infographic
+- **Pillar:** PBM Contract Insights
+- **Topic:** 5 Specialty Pharmacy Terms Decoded
+- **Hook:** "Specialty pharmacy contracts have their own language. Your PBM knows it. Your contract may not reflect what you think you agreed to."
+
+**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
+- "Specialty drug list" - PBM means: the list of drugs the PBM designates as specialty. Read it as: a list the PBM can modify unilaterally, because the definition of "specialty" is almost never fixed in the contract.
+- "Limited distribution drug (LDD)" - PBM means: drugs distributed only through specific specialty pharmacies. Read it as: a category where the PBM's owned specialty pharmacy may be the only dispenser, removing price competition.
+- "Specialty dispensing fee" - PBM means: the per-claim fee for specialty medications. Read it as: a fee that can be significantly higher than retail and is often excluded from guarantees.
+- "White bagging" - PBM means: specialty drugs shipped directly from specialty pharmacy to the site of administration. Read it as: a routing decision the PBM makes that affects your site-of-care economics.
+- "Channel steering" - PBM means: directing specialty prescriptions through the preferred specialty pharmacy. Read it as: the mechanism by which your PBM moves revenue to its owned or affiliated specialty pharmacy.
+
+**Image prompt stub:** Messy infographic, off-white (#F5F5F0) background with faint grid, handwritten (Caveat) header "5 SPECIALTY PHARMACY TERMS DECODED." Five stacked rows. Each row: jargon term in Gray (#4D4D4D), hand-drawn arrow in Accent Blue (#A7E0FA), plain-English translation in Primary Blue (#015880). Small PBS logo bottom right. Mobile-optimized 1080x1350.
 
 ---
 

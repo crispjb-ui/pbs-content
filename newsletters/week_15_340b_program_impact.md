@@ -43,8 +43,6 @@
 
 A provider acquires a drug at a steep 340B discount. Your employee fills the prescription. Your plan gets billed at standard rates. The spread is revenue. Not yours.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 I bring this up in client meetings a lot, and the reaction is almost always the same: "What's 340B?" That is the problem in one sentence. The 340B Drug Pricing Program was created to help safety-net providers stretch federal resources. Good program, good intent. But it has grown into something most employers have never examined, and it is probably affecting your claims right now without you knowing.
 
 Here is the short version: providers in the 340B program buy outpatient drugs at 25-50% below wholesale. They can dispense those drugs to anyone, including your commercially insured employees. When that happens, your plan reimburses at standard contract rates for a drug the provider bought at a fraction of that cost. The difference is theirs to keep. Legal. By design. And completely invisible in your claims data.
@@ -80,8 +78,6 @@ Ask your PBM directly: "Can you identify claims dispensed by 340B-covered entiti
 Next, look up who is in your network. HRSA (the Health Resources and Services Administration) publishes a database of every 340B-registered covered entity. You can cross-reference that list against the pharmacies in your PBM's network. How many 340B entities are in there? What percentage of your specialty claims route through them?
 
 Then look at the pricing. For claims you can identify as dispensed by 340B entities, compare what your plan paid against what the entity likely paid (340B ceiling prices are publicly available for most drugs). The gap between those numbers is the revenue you are funding.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 Pull out your PBM contract and search for "340B." Look for pricing adjustment provisions, passthrough language, and audit rights that cover 340B identification. If you find nothing, that is your answer: you are paying standard rates regardless of acquisition cost.
 
@@ -369,8 +365,6 @@ Ginny Crisp walks through oncology, autoimmune, GLP-1s, and rare and gene therap
 A provider acquires a drug at a steep 340B discount. Your employee fills the prescription at that provider's pharmacy. Your plan gets billed at standard rates.
 
 The spread between what they paid and what you paid becomes their revenue. Not yours.
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 This is legal. It is how the 340B program works. And most employers have no idea it is happening in their claims data.
 
@@ -725,5 +719,3 @@ If I sat down with your PBM renewal proposal today, here are the questions I wou
 10. How did the PBM perform against current contract guarantees? Request a guarantee reconciliation report before evaluating the renewal.
 
 The renewal proposal is the PBM's opening position, not the final offer. Every number in it was calculated to protect their margin. Your job is to determine where the margin is and how much of it should be yours.
-
-*Illustrative example for educational purposes. Actual evaluation criteria vary by plan.*

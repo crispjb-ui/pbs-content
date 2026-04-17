@@ -115,8 +115,6 @@ Look for the renewal terms regarding individual member exclusions. Key questions
 
 Look for whether the policy treats pharmacy benefit claims and medical benefit claims the same way. Some policies apply different reimbursement methodologies depending on which benefit channel processes the claim. The same drug can be billed through either channel depending on site of care.
 
-*Illustrative example for educational purposes. Actual policy language varies by carrier.*
-
 This review takes approximately one hour and can identify coverage gaps before they become claim denials. The employers who do this before renewal negotiate from knowledge. Those who do not discover the gaps when a claim is denied.
 
 **What We Advise**
