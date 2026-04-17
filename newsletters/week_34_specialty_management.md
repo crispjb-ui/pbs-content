@@ -43,39 +43,53 @@ This is the pattern we see across plans of every size. Specialty gets the least 
 
 Specialty management is not one thing. It is eight interconnected decisions. Each one either contains cost or allows it to grow unchecked.
 
-**Lever 1: Formulary Management**
-How are specialty drugs positioned on your formulary? Is the biosimilar preferred over the brand? Are clinical pathways in place for therapeutic categories with multiple options? A specialty formulary optimized for rebates may not produce the lowest net cost. (This connects directly to our Week 22 biosimilar analysis and Week 26 formulary audit.)
+> **Lever 1: Formulary Management**
+>
+> How are specialty drugs positioned on your formulary? Is the biosimilar preferred over the brand? Are clinical pathways in place for therapeutic categories with multiple options? A specialty formulary optimized for rebates may not produce the lowest net cost. (This connects directly to our Week 22 biosimilar analysis and Week 26 formulary audit.)
 
-**Lever 2: Site-of-Care**
-Where are specialty drugs administered? Hospital outpatient, ambulatory center, physician office, or home? The administration setting can change cost by multiples. (See our Week 30 site-of-care decision tree.)
+> **Lever 2: Site-of-Care**
+>
+> Where are specialty drugs administered? Hospital outpatient, ambulatory center, physician office, or home? The administration setting can change cost by multiples. (See our Week 30 site-of-care decision tree.)
 
-**Lever 3: Step Therapy**
-Are step therapy protocols in place for specialty categories with multiple therapeutic options? Are the protocols evidence-based with clear override criteria? Step therapy in specialty is more clinically nuanced than in traditional categories. (See our Week 32 clinical program evaluation.)
+> **Lever 3: Step Therapy**
+>
+> Are step therapy protocols in place for specialty categories with multiple therapeutic options? Are the protocols evidence-based with clear override criteria? Step therapy in specialty is more clinically nuanced than in traditional categories. (See our Week 32 clinical program evaluation.)
 
-**Lever 4: Biosimilar Adoption**
-What is your biosimilar adoption rate for categories where biosimilars are available? Is the PBM actively driving conversion? Are contract guarantees in place? (See our Week 22 biosimilar readiness assessment.)
+> **Lever 4: Biosimilar Adoption**
+>
+> What is your biosimilar adoption rate for categories where biosimilars are available? Is the PBM actively driving conversion? Are contract guarantees in place? (See our Week 22 biosimilar readiness assessment.)
 
-**Lever 5: Limited Distribution Access**
-Some specialty drugs are only available through a limited number of pharmacies. Is your PBM's specialty pharmacy the only option in your network, or do members have access to alternative specialty pharmacies that may offer better pricing or service?
+> **Lever 5: Limited Distribution Access**
+>
+> Some specialty drugs are only available through a limited number of pharmacies. Is your PBM's specialty pharmacy the only option in your network, or do members have access to alternative specialty pharmacies that may offer better pricing or service?
 
-**Lever 6: Copay Card Programs**
-How are manufacturer copay assistance programs handled? Are copay accumulators or maximizers in place? Manufacturer copay cards can accelerate member out-of-pocket accumulation, shifting cost from the manufacturer to the plan in the second half of the year. (This connects to our Week 20 manufacturer programs analysis.)
+> **Lever 6: Copay Card Programs**
+>
+> How are manufacturer copay assistance programs handled? Are copay accumulators or maximizers in place? Manufacturer copay cards can accelerate member out-of-pocket accumulation, shifting cost from the manufacturer to the plan in the second half of the year. (This connects to our Week 20 manufacturer programs analysis.)
 
-**Lever 7: Clinical Pathways**
-For categories like oncology where multiple regimens exist, are clinical pathways guiding treatment selection toward the most cost-effective option that meets clinical standards? Clinical pathways are the specialty equivalent of formulary management for provider-administered therapies.
+> **Lever 7: Clinical Pathways**
+>
+> For categories like oncology where multiple regimens exist, are clinical pathways guiding treatment selection toward the most cost-effective option that meets clinical standards? Clinical pathways are the specialty equivalent of formulary management for provider-administered therapies.
 
-**Lever 8: Reauthorization Protocols**
-Once a specialty therapy is authorized, how often is it reviewed for continued appropriateness? Members on long-term specialty therapies may no longer meet clinical criteria but continue receiving treatment because nobody reviews the authorization. Reauthorization prevents unnecessary continuation and is one of the most underused specialty cost levers.
+> **Lever 8: Reauthorization Protocols**
+>
+> Once a specialty therapy is authorized, how often is it reviewed for continued appropriateness? Members on long-term specialty therapies may no longer meet clinical criteria but continue receiving treatment because nobody reviews the authorization. Reauthorization prevents unnecessary continuation and is one of the most underused specialty cost levers.
 
 **The specialty management assessment**
 
 For each of the eight levers, score on three dimensions (1-5 each):
 
-*Current strategy strength (1-5):* Is a proactive management strategy in place for this lever? Is it documented? Is it producing measurable results?
+> **Current strategy strength (1-5).**
+>
+> Is a proactive management strategy in place for this lever? Is it documented? Is it producing measurable results?
 
-*PBM contract support (1-5):* Does your PBM contract include specific provisions, guarantees, or performance metrics for this lever? Or is it managed at the PBM's discretion?
+> **PBM contract support (1-5).**
+>
+> Does your PBM contract include specific provisions, guarantees, or performance metrics for this lever? Or is it managed at the PBM's discretion?
 
-*Improvement opportunity (1-5):* Based on your claims data, how much room exists to optimize this lever? High scores here mean high unrealized savings potential.
+> **Improvement opportunity (1-5).**
+>
+> Based on your claims data, how much room exists to optimize this lever? High scores here mean high unrealized savings potential.
 
 **Scoring:** Each lever scores 3-15. Total across eight levers: 24-120.
 

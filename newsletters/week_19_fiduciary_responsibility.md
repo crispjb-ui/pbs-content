@@ -171,11 +171,17 @@ Engaging independent consultants or auditors to review your PBM arrangement demo
 
 If you are concerned about fiduciary documentation gaps, here are three steps to take this quarter:
 
-1. **Audit your documentation trail.** Pull your records from the last PBM selection or renewal. Can you reconstruct the decision process from the documents alone? If not, you have a gap.
+> **1. Audit your documentation trail.**
+>
+> Pull your records from the last PBM selection or renewal. Can you reconstruct the decision process from the documents alone? If not, you have a gap.
 
-2. **Establish a documentation protocol going forward.** Create templates for meeting minutes, decision memos, and benchmarking reviews. The structure does not need to be elaborate; it needs to be consistent.
+> **2. Establish a documentation protocol going forward.**
+>
+> Create templates for meeting minutes, decision memos, and benchmarking reviews. The structure does not need to be elaborate; it needs to be consistent.
 
-3. **Schedule an independent review.** If you have not had an independent party evaluate your PBM arrangement in the last two years, put it on the calendar. The cost of the review is minimal compared to the fiduciary exposure it addresses.
+> **3. Schedule an independent review.**
+>
+> If you have not had an independent party evaluate your PBM arrangement in the last two years, put it on the calendar. The cost of the review is minimal compared to the fiduciary exposure it addresses.
 
 The trend in litigation is clear. Courts are not asking whether you got the absolute best deal. They are asking whether you took reasonable steps to evaluate, monitor, and document your pharmacy benefit decisions.
 

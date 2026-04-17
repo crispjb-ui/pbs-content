@@ -62,65 +62,75 @@ The question is not "are we happy with our PBM?" Satisfaction is subjective. The
 
 I developed this framework because the stay-or-switch decision kept coming down to gut feel and frustration levels instead of objective analysis. The scorecard evaluates 10 factors, each weighted by its impact on plan cost and performance. Total possible score: 100 points.
 
-**Factor 1: Pricing Competitiveness (15 points)**
-How does your current pricing (GER, dispensing fees, admin fees) compare to current market benchmarks for your plan size? Your broker can run this comparison.
-- 13-15: Within top quartile of market
-- 8-12: Competitive but room for improvement
-- 0-7: Below market. Significant gap.
+> **Factor 1: Pricing Competitiveness (15 points)**
+>
+> How does your current pricing (GER, dispensing fees, admin fees) compare to current market benchmarks for your plan size? Your broker can run this comparison.
+> 13-15: Within top quartile of market.
+> 8-12: Competitive but room for improvement.
+> 0-7: Below market. Significant gap.
 
-**Factor 2: Rebate Transparency (15 points)**
-Can you verify the PBM's rebate performance independently? Do you receive per-claim rebate detail? Can you compare brand vs. biosimilar net cost?
-- 13-15: Full transparency with independent audit capability
-- 8-12: Aggregate reporting with some detail on request
-- 0-7: Limited or no transparency. PBM resists data requests.
+> **Factor 2: Rebate Transparency (15 points)**
+>
+> Can you verify the PBM's rebate performance independently? Do you receive per-claim rebate detail? Can you compare brand vs. biosimilar net cost?
+> 13-15: Full transparency with independent audit capability.
+> 8-12: Aggregate reporting with some detail on request.
+> 0-7: Limited or no transparency. PBM resists data requests.
 
-**Factor 3: Clinical Program Quality (10 points)**
-Are clinical programs (PA, step therapy, DUR, MTM) producing verifiable results? Can you audit the savings methodology?
-- 9-10: Verified outcomes with independent methodology
-- 5-8: Reported savings but limited ability to verify
-- 0-4: No independent verification available
+> **Factor 3: Clinical Program Quality (10 points)**
+>
+> Are clinical programs (PA, step therapy, DUR, MTM) producing verifiable results? Can you audit the savings methodology?
+> 9-10: Verified outcomes with independent methodology.
+> 5-8: Reported savings but limited ability to verify.
+> 0-4: No independent verification available.
 
-**Factor 4: Reporting and Analytics (10 points)**
-Does the PBM provide actionable reporting on your schedule? Can you access raw data? Are reports designed for employer analysis or PBM presentation?
-- 9-10: Custom reporting, raw data access, employer-focused analytics
-- 5-8: Standard reports with some customization available
-- 0-4: Summary reports only. Raw data access restricted or delayed.
+> **Factor 4: Reporting and Analytics (10 points)**
+>
+> Does the PBM provide actionable reporting on your schedule? Can you access raw data? Are reports designed for employer analysis or PBM presentation?
+> 9-10: Custom reporting, raw data access, employer-focused analytics.
+> 5-8: Standard reports with some customization available.
+> 0-4: Summary reports only. Raw data access restricted or delayed.
 
-**Factor 5: Formulary Independence (10 points)**
-How much control does the employer have over formulary decisions? (Use the Week 26 formulary audit to score this.)
-- 9-10: Strong independence per formulary audit score of 11-14
-- 5-8: Moderate independence per score of 6-10
-- 0-4: Low independence per score of 0-5
+> **Factor 5: Formulary Independence (10 points)**
+>
+> How much control does the employer have over formulary decisions? (Use the Week 26 formulary audit to score this.)
+> 9-10: Strong independence per formulary audit score of 11-14.
+> 5-8: Moderate independence per score of 6-10.
+> 0-4: Low independence per score of 0-5.
 
-**Factor 6: Service Responsiveness (10 points)**
-Does your account team respond to requests promptly? Are escalations handled within reasonable timeframes? Is the team stable or does it turn over frequently?
-- 9-10: Consistent, responsive, stable team
-- 5-8: Generally responsive but occasional delays or team changes
-- 0-4: Unresponsive, high turnover, or persistent service gaps
+> **Factor 6: Service Responsiveness (10 points)**
+>
+> Does your account team respond to requests promptly? Are escalations handled within reasonable timeframes? Is the team stable or does it turn over frequently?
+> 9-10: Consistent, responsive, stable team.
+> 5-8: Generally responsive but occasional delays or team changes.
+> 0-4: Unresponsive, high turnover, or persistent service gaps.
 
-**Factor 7: Contract Flexibility (10 points)**
-Is the PBM willing to negotiate meaningful contract improvements? Do they accept market-standard terms? Or do they resist changes?
-- 9-10: Willing to negotiate, accepts strong employer-friendly terms
-- 5-8: Some flexibility but pushes back on key provisions
-- 0-4: Rigid. "Take it or leave it" posture on contract terms.
+> **Factor 7: Contract Flexibility (10 points)**
+>
+> Is the PBM willing to negotiate meaningful contract improvements? Do they accept market-standard terms? Or do they resist changes?
+> 9-10: Willing to negotiate, accepts strong employer-friendly terms.
+> 5-8: Some flexibility but pushes back on key provisions.
+> 0-4: Rigid. "Take it or leave it" posture on contract terms.
 
-**Factor 8: Specialty Management (10 points)**
-How does the PBM manage specialty pharmacy? Is site-of-care optimization in place? Are biosimilar adoption rates strong? Is specialty routing transparent?
-- 9-10: Proactive specialty management with transparent routing
-- 5-8: Standard management but limited transparency
-- 0-4: Specialty managed primarily for PBM revenue, not plan cost
+> **Factor 8: Specialty Management (10 points)**
+>
+> How does the PBM manage specialty pharmacy? Is site-of-care optimization in place? Are biosimilar adoption rates strong? Is specialty routing transparent?
+> 9-10: Proactive specialty management with transparent routing.
+> 5-8: Standard management but limited transparency.
+> 0-4: Specialty managed primarily for PBM revenue, not plan cost.
 
-**Factor 9: Technology and Integration (5 points)**
-Does the PBM's technology integrate with your TPA, benefits administration, and reporting platforms? Is the member experience digital-forward?
-- 4-5: Strong integration, modern member tools
-- 2-3: Adequate but dated systems
-- 0-1: Integration gaps causing operational friction
+> **Factor 9: Technology and Integration (5 points)**
+>
+> Does the PBM's technology integrate with your TPA, benefits administration, and reporting platforms? Is the member experience digital-forward?
+> 4-5: Strong integration, modern member tools.
+> 2-3: Adequate but dated systems.
+> 0-1: Integration gaps causing operational friction.
 
-**Factor 10: Account Team Stability (5 points)**
-Has your account team been consistent over the past 12-24 months? Turnover disrupts institutional knowledge and relationship continuity.
-- 4-5: Same team for 18+ months
-- 2-3: One team change in past 18 months
-- 0-1: Multiple changes, loss of institutional knowledge
+> **Factor 10: Account Team Stability (5 points)**
+>
+> Has your account team been consistent over the past 12-24 months? Turnover disrupts institutional knowledge and relationship continuity.
+> 4-5: Same team for 18+ months.
+> 2-3: One team change in past 18 months.
+> 0-1: Multiple changes, loss of institutional knowledge.
 
 **Interpreting your score**
 

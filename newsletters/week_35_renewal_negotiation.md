@@ -43,66 +43,78 @@ If you followed the 90-day renewal framework from Week 25, you have your data, y
 
 I organized these by financial impact, starting with the provisions that move the most dollars.
 
-**Provision 1: Generic Effective Rate (GER) Guarantee**
-The single largest pricing provision. GER determines what you actually pay for generics as a percentage of benchmark pricing.
-- *Market benchmark:* Varies by plan size and channel. Your broker should provide current ranges.
-- *Language to request:* "PBM guarantees a minimum GER of [X]% across all channels (retail, mail, specialty) calculated on an ingredient cost basis using [AWP source]. True-up calculated quarterly."
-- *Negotiation tactic:* Request channel-specific GER guarantees, not just aggregate. An aggregate GER can mask underperformance in one channel while another overperforms.
+> **Provision 1: Generic Effective Rate (GER) Guarantee**
+>
+> The single largest pricing provision. GER determines what you actually pay for generics as a percentage of benchmark pricing.
+> Market benchmark: Varies by plan size and channel. Your broker should provide current ranges.
+> Language to request: "PBM guarantees a minimum GER of [X]% across all channels (retail, mail, specialty) calculated on an ingredient cost basis using [AWP source]. True-up calculated quarterly."
+> Negotiation tactic: Request channel-specific GER guarantees, not just aggregate. An aggregate GER can mask underperformance in one channel while another overperforms.
 
-**Provision 2: Rebate Guarantee**
-What the PBM guarantees in manufacturer rebate pass-through.
-- *Language to request:* Inclusive rebate definition (see Week 29), 100% pass-through, quarterly true-up with 60-day remittance, specialty claims included in eligible denominator.
-- *Tactic:* If the PBM resists inclusive definitions, ask them to quantify the difference between their definition and an inclusive one. The gap is what they plan to retain.
+> **Provision 2: Rebate Guarantee**
+>
+> What the PBM guarantees in manufacturer rebate pass-through.
+> Language to request: Inclusive rebate definition (see Week 29), 100% pass-through, quarterly true-up with 60-day remittance, specialty claims included in eligible denominator.
+> Tactic: If the PBM resists inclusive definitions, ask them to quantify the difference between their definition and an inclusive one. The gap is what they plan to retain.
 
-**Provision 3: Specialty Pricing Guarantee**
-Specialty pricing is often carved out from standard guarantees with different (worse) terms.
-- *Language to request:* Specialty pricing guarantee comparable to retail/mail structure, applied to all specialty claims regardless of dispensing pharmacy ownership.
-- *Tactic:* If the PBM owns the specialty pharmacy, request an independent pricing comparison to verify competitiveness. Your broker can benchmark against alternative specialty pharmacies.
+> **Provision 3: Specialty Pricing Guarantee**
+>
+> Specialty pricing is often carved out from standard guarantees with different (worse) terms.
+> Language to request: Specialty pricing guarantee comparable to retail/mail structure, applied to all specialty claims regardless of dispensing pharmacy ownership.
+> Tactic: If the PBM owns the specialty pharmacy, request an independent pricing comparison to verify competitiveness. Your broker can benchmark against alternative specialty pharmacies.
 
-**Provision 4: Dispensing Fee Schedule**
-Often overlooked but adds up across volume.
-- *Language to request:* Fixed dispensing fee schedule by channel, locked for the contract term.
-- *Tactic:* Request the dispensing fee separately from ingredient cost. Some PBMs bundle them, making it impossible to evaluate either independently.
+> **Provision 4: Dispensing Fee Schedule**
+>
+> Often overlooked but adds up across volume.
+> Language to request: Fixed dispensing fee schedule by channel, locked for the contract term.
+> Tactic: Request the dispensing fee separately from ingredient cost. Some PBMs bundle them, making it impossible to evaluate either independently.
 
-**Provision 5: Admin Fee**
-The per-member or per-claim administrative fee.
-- *Language to request:* Fixed admin fee for contract term with annual adjustment capped at CPI.
-- *Tactic:* Negotiate admin fee reduction in exchange for longer contract term. This is a common trade the PBM will often accept.
+> **Provision 5: Admin Fee**
+>
+> The per-member or per-claim administrative fee.
+> Language to request: Fixed admin fee for contract term with annual adjustment capped at CPI.
+> Tactic: Negotiate admin fee reduction in exchange for longer contract term. This is a common trade the PBM will often accept.
 
-**Provision 6: Clinical Program Guarantees**
-Performance metrics for PA, step therapy, DUR, and other clinical programs.
-- *Language to request:* Specific savings guarantees by program with independent verification methodology (see Week 32 scorecard). Penalties for underperformance.
-- *Tactic:* If the PBM resists program-specific guarantees, ask why they are confident enough to report savings but not confident enough to guarantee them.
+> **Provision 6: Clinical Program Guarantees**
+>
+> Performance metrics for PA, step therapy, DUR, and other clinical programs.
+> Language to request: Specific savings guarantees by program with independent verification methodology (see Week 32 scorecard). Penalties for underperformance.
+> Tactic: If the PBM resists program-specific guarantees, ask why they are confident enough to report savings but not confident enough to guarantee them.
 
-**Provision 7: Audit Rights**
-Your ability to independently verify PBM performance.
-- *Language to request:* Annual audit at plan's expense, full claims access, access to manufacturer agreements relevant to plan utilization, 30-day response to audit requests.
-- *Tactic:* If the PBM limits audit scope, propose a "trust but verify" framework: the PBM provides data proactively, and the audit right exists as a backstop. Reasonable PBMs accept this.
+> **Provision 7: Audit Rights**
+>
+> Your ability to independently verify PBM performance.
+> Language to request: Annual audit at plan's expense, full claims access, access to manufacturer agreements relevant to plan utilization, 30-day response to audit requests.
+> Tactic: If the PBM limits audit scope, propose a "trust but verify" framework: the PBM provides data proactively, and the audit right exists as a backstop. Reasonable PBMs accept this.
 
-**Provision 8: Performance Penalties**
-Financial consequences for failing to meet guarantees.
-- *Language to request:* Dollar-for-dollar penalties for guarantee shortfalls with no annual cap.
-- *Tactic:* Penalty caps limit your protection. If the PBM insists on a cap, negotiate it as a percentage of total spend rather than a fixed dollar amount.
+> **Provision 8: Performance Penalties**
+>
+> Financial consequences for failing to meet guarantees.
+> Language to request: Dollar-for-dollar penalties for guarantee shortfalls with no annual cap.
+> Tactic: Penalty caps limit your protection. If the PBM insists on a cap, negotiate it as a percentage of total spend rather than a fixed dollar amount.
 
-**Provision 9: Biosimilar Commitments**
-Specific biosimilar adoption targets and transition timelines.
-- *Language to request:* Minimum biosimilar dispensing rate, 90-day transition timeline for new biosimilar launches, net cost comparison reporting (see Week 22).
-- *Tactic:* Connect biosimilar commitments to rebate guarantees. If the PBM keeps members on brand for rebate revenue, the rebate guarantee should reflect brand-level rebates.
+> **Provision 9: Biosimilar Commitments**
+>
+> Specific biosimilar adoption targets and transition timelines.
+> Language to request: Minimum biosimilar dispensing rate, 90-day transition timeline for new biosimilar launches, net cost comparison reporting (see Week 22).
+> Tactic: Connect biosimilar commitments to rebate guarantees. If the PBM keeps members on brand for rebate revenue, the rebate guarantee should reflect brand-level rebates.
 
-**Provision 10: Formulary Change Notification**
-Advance notice and approval requirements for formulary changes.
-- *Language to request:* 60-day advance written notice, employer approval required for mid-year changes (see Week 26).
-- *Tactic:* Without this provision, the PBM can change your formulary mid-year without your knowledge.
+> **Provision 10: Formulary Change Notification**
+>
+> Advance notice and approval requirements for formulary changes.
+> Language to request: 60-day advance written notice, employer approval required for mid-year changes (see Week 26).
+> Tactic: Without this provision, the PBM can change your formulary mid-year without your knowledge.
 
-**Provision 11: Termination Provisions**
-Your exit options and the leverage they create.
-- *Language to request:* 90-day termination for convenience (not 180). Specific cause triggers. Data portability within 30 days of termination.
-- *Tactic:* The termination clause is your most powerful negotiating tool. A PBM that knows you can leave in 90 days negotiates differently than one that has you locked in for 180. (See Thursday's field note.)
+> **Provision 11: Termination Provisions**
+>
+> Your exit options and the leverage they create.
+> Language to request: 90-day termination for convenience (not 180). Specific cause triggers. Data portability within 30 days of termination.
+> Tactic: The termination clause is your most powerful negotiating tool. A PBM that knows you can leave in 90 days negotiates differently than one that has you locked in for 180. (See Thursday's field note.)
 
-**Provision 12: Annual True-Up Methodology**
-How guarantee performance is reconciled.
-- *Language to request:* Annual true-up on all guarantees, calculated using plan's actual claims mix, payment within 60 days, methodology subject to audit.
-- *Tactic:* The true-up is the enforcement mechanism. Without it, guarantees are aspirational.
+> **Provision 12: Annual True-Up Methodology**
+>
+> How guarantee performance is reconciled.
+> Language to request: Annual true-up on all guarantees, calculated using plan's actual claims mix, payment within 60 days, methodology subject to audit.
+> Tactic: The true-up is the enforcement mechanism. Without it, guarantees are aspirational.
 
 **Bringing it together**
 

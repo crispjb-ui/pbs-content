@@ -47,47 +47,61 @@ As a pharmacist, I believe in clinical programs. As a consultant who reviews app
 
 Most PBMs report savings from the same core programs. Here is what each program claims, how the savings are typically calculated, and where the methodology breaks down.
 
-**Program 1: Prior Authorization**
-*What the PBM claims:* PA prevents inappropriate utilization, saving the plan the cost of drugs that should not have been approved.
-*How savings are calculated:* Denied claims multiplied by the cost of the denied drug. If PA denied 500 claims at $1,000 each, reported savings = $500,000.
-*Where it breaks down:* Not every denied claim would have been filled without PA. Many PA denials result in an alternative drug that also costs the plan money. The net savings is the cost difference between the denied drug and the alternative, not the full cost of the denied drug. Also, PA that is too restrictive delays appropriate therapy, which has its own cost.
+> **Program 1: Prior Authorization**
+>
+> What the PBM claims: PA prevents inappropriate utilization, saving the plan the cost of drugs that should not have been approved.
+> How savings are calculated: Denied claims multiplied by the cost of the denied drug. If PA denied 500 claims at $1,000 each, reported savings = $500,000.
+> Where it breaks down: Not every denied claim would have been filled without PA. Many PA denials result in an alternative drug that also costs the plan money. The net savings is the cost difference between the denied drug and the alternative, not the full cost of the denied drug. Also, PA that is too restrictive delays appropriate therapy, which has its own cost.
 
-**Program 2: Step Therapy**
-*What the PBM claims:* Step therapy ensures members try cost-effective alternatives before expensive options.
-*Typical calculation:* Members who used the step therapy drug instead of the target drug, multiplied by the cost difference.
-*Where it breaks down:* If the member would have been prescribed the step therapy drug regardless of the protocol, the program gets credit for savings it did not create. The counterfactual assumption (what would have happened without the program) is almost always overstated.
+> **Program 2: Step Therapy**
+>
+> What the PBM claims: Step therapy ensures members try cost-effective alternatives before expensive options.
+> Typical calculation: Members who used the step therapy drug instead of the target drug, multiplied by the cost difference.
+> Where it breaks down: If the member would have been prescribed the step therapy drug regardless of the protocol, the program gets credit for savings it did not create. The counterfactual assumption (what would have happened without the program) is almost always overstated.
 
-**Program 3: Quantity Limits**
-*What the PBM claims:* Quantity limits prevent excessive fills and waste.
-*Typical calculation:* Excess quantity prevented multiplied by cost per unit.
-*Where it breaks down:* Quantity limits aligned with clinical guidelines are appropriate. Quantity limits that restrict access below clinical standards create adherence problems. The savings calculation rarely accounts for downstream medical costs from undertreated conditions.
+> **Program 3: Quantity Limits**
+>
+> What the PBM claims: Quantity limits prevent excessive fills and waste.
+> Typical calculation: Excess quantity prevented multiplied by cost per unit.
+> Where it breaks down: Quantity limits aligned with clinical guidelines are appropriate. Quantity limits that restrict access below clinical standards create adherence problems. The savings calculation rarely accounts for downstream medical costs from undertreated conditions.
 
-**Program 4: Drug Utilization Review (DUR)**
-*What the PBM claims:* DUR catches therapeutic duplications, drug interactions, and inappropriate combinations.
-*Typical calculation:* Interventions made multiplied by assumed cost avoidance per intervention.
-*Where it breaks down:* Most DUR alerts are overridden by pharmacists because they are clinically irrelevant (the prescriber already considered the interaction). Counting every alert as a "savings event" inflates the numbers dramatically.
+> **Program 4: Drug Utilization Review (DUR)**
+>
+> What the PBM claims: DUR catches therapeutic duplications, drug interactions, and inappropriate combinations.
+> Typical calculation: Interventions made multiplied by assumed cost avoidance per intervention.
+> Where it breaks down: Most DUR alerts are overridden by pharmacists because they are clinically irrelevant (the prescriber already considered the interaction). Counting every alert as a "savings event" inflates the numbers dramatically.
 
-**Program 5: Medication Therapy Management (MTM)**
-*What the PBM claims:* MTM reviews identify medication problems and optimize therapy.
-*Typical calculation:* Cost avoidance from medication changes recommended during MTM consultations.
-*Where it breaks down:* MTM completion rates are often low. Many recommendations are not implemented. Attributing savings to a recommendation that was made but not followed is not a real savings event.
+> **Program 5: Medication Therapy Management (MTM)**
+>
+> What the PBM claims: MTM reviews identify medication problems and optimize therapy.
+> Typical calculation: Cost avoidance from medication changes recommended during MTM consultations.
+> Where it breaks down: MTM completion rates are often low. Many recommendations are not implemented. Attributing savings to a recommendation that was made but not followed is not a real savings event.
 
-**Program 6: Specialty Management**
-*What the PBM claims:* Specialty management programs optimize high-cost therapy through site-of-care steering, biosimilar conversion, and clinical pathway management.
-*Typical calculation:* Cost difference between actual utilization and projected utilization without the program.
-*Where it breaks down:* The projected counterfactual (what would have happened without the program) is constructed by the PBM. If the projection assumes high utilization growth and actual growth was lower, the program claims credit for savings that may have occurred naturally.
+> **Program 6: Specialty Management**
+>
+> What the PBM claims: Specialty management programs optimize high-cost therapy through site-of-care steering, biosimilar conversion, and clinical pathway management.
+> Typical calculation: Cost difference between actual utilization and projected utilization without the program.
+> Where it breaks down: The projected counterfactual (what would have happened without the program) is constructed by the PBM. If the projection assumes high utilization growth and actual growth was lower, the program claims credit for savings that may have occurred naturally.
 
 **The clinical program evaluation scorecard**
 
 For each of the six programs, score on four dimensions (1-5 each):
 
-*Clinical appropriateness (1-5):* Does the program apply evidence-based criteria? Are the protocols aligned with current clinical guidelines? Does it account for individual patient factors?
+> **Clinical appropriateness (1-5).**
+>
+> Does the program apply evidence-based criteria? Are the protocols aligned with current clinical guidelines? Does it account for individual patient factors?
 
-*Financial impact methodology (1-5):* Can the PBM provide the specific calculation? Is the counterfactual assumption reasonable? Can you reproduce the math independently?
+> **Financial impact methodology (1-5).**
+>
+> Can the PBM provide the specific calculation? Is the counterfactual assumption reasonable? Can you reproduce the math independently?
 
-*Member experience impact (1-5):* Does the program create access barriers or delays? What is the therapy abandonment rate? Are members negatively affected by administrative requirements?
+> **Member experience impact (1-5).**
+>
+> Does the program create access barriers or delays? What is the therapy abandonment rate? Are members negatively affected by administrative requirements?
 
-*Independent verifiability (1-5):* Can the reported savings be audited by an independent party? Does your contract give you audit rights over clinical program reporting? Can you request the underlying data?
+> **Independent verifiability (1-5).**
+>
+> Can the reported savings be audited by an independent party? Does your contract give you audit rights over clinical program reporting? Can you request the underlying data?
 
 **Scoring:** Each program scores 4-20. Programs scoring below 12 need independent audit. Programs scoring below 8 may be costing the plan more in administrative burden and access delays than they save.
 

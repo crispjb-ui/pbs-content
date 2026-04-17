@@ -47,103 +47,118 @@ Fifteen factors organized in five categories. Each factor scored 1-5 based on sp
 
 **Category 1: Data and Benchmarking (3 factors, 15 points)**
 
-*Factor 1: Independent Claims Analysis (1-5)*
-Have you pulled and analyzed your own claims data independently of the PBM's reports?
-- 5: Complete independent analysis of all five core metrics (PMPM, specialty %, GER, rebate per claim, high-cost claimants)
-- 3: Partial analysis or reliance on broker's summary
-- 1: No independent analysis; using PBM's reports only
+> **Factor 1: Independent Claims Analysis (1-5)**
+>
+> Have you pulled and analyzed your own claims data independently of the PBM's reports?
+> 5: Complete independent analysis of all five core metrics (PMPM, specialty %, GER, rebate per claim, high-cost claimants).
+> 3: Partial analysis or reliance on broker's summary.
+> 1: No independent analysis; using PBM's reports only.
 
-*Factor 2: Market Benchmarking (1-5)*
-Have you compared your current terms to current market benchmarks?
-- 5: Current market benchmarks by channel with broker input
-- 3: General market awareness but no plan-specific comparison
-- 1: No market benchmarking conducted
+> **Factor 2: Market Benchmarking (1-5)**
+>
+> Have you compared your current terms to current market benchmarks?
+> 5: Current market benchmarks by channel with broker input.
+> 3: General market awareness but no plan-specific comparison.
+> 1: No market benchmarking conducted.
 
-*Factor 3: Mid-Year Trend Analysis (1-5)*
-Have you identified and investigated claims data patterns and red flags?
-- 5: Mid-year red flag assessment completed (Week 23 framework), findings documented
-- 3: Some trend review but no formal assessment
-- 1: No mid-year data review
+> **Factor 3: Mid-Year Trend Analysis (1-5)**
+>
+> Have you identified and investigated claims data patterns and red flags?
+> 5: Mid-year red flag assessment completed (Week 23 framework), findings documented.
+> 3: Some trend review but no formal assessment.
+> 1: No mid-year data review.
 
 **Category 2: Contract Analysis (3 factors, 15 points)**
 
-*Factor 4: Current Contract Review (1-5)*
-Have you read your current PBM contract and identified weak provisions?
-- 5: Full contract review with weak/strong language comparison (Week 36 framework)
-- 3: Reviewed key provisions but not comprehensive
-- 1: Have not read the current contract
+> **Factor 4: Current Contract Review (1-5)**
+>
+> Have you read your current PBM contract and identified weak provisions?
+> 5: Full contract review with weak/strong language comparison (Week 36 framework).
+> 3: Reviewed key provisions but not comprehensive.
+> 1: Have not read the current contract.
 
-*Factor 5: Term Sheet Development (1-5)*
-Have you developed a specific list of contract changes with proposed language?
-- 5: Complete term sheet with specific language for each priority provision
-- 3: Priority list identified but no specific language drafted
-- 1: No term sheet; planning to react to PBM's proposal
+> **Factor 5: Term Sheet Development (1-5)**
+>
+> Have you developed a specific list of contract changes with proposed language?
+> 5: Complete term sheet with specific language for each priority provision.
+> 3: Priority list identified but no specific language drafted.
+> 1: No term sheet; planning to react to PBM's proposal.
 
-*Factor 6: Formulary Independence Assessment (1-5)*
-Have you evaluated your formulary's independence from PBM rebate economics?
-- 5: Formulary audit completed (Week 26 framework), score documented
-- 3: General awareness of formulary structure
-- 1: No formulary evaluation conducted
+> **Factor 6: Formulary Independence Assessment (1-5)**
+>
+> Have you evaluated your formulary's independence from PBM rebate economics?
+> 5: Formulary audit completed (Week 26 framework), score documented.
+> 3: General awareness of formulary structure.
+> 1: No formulary evaluation conducted.
 
 **Category 3: Market Evaluation (3 factors, 15 points)**
 
-*Factor 7: PBM Relationship Score (1-5)*
-Have you scored your current PBM relationship on a structured framework?
-- 5: PBM evaluation scorecard completed (Week 27 framework), score documented
-- 3: General assessment but no structured scoring
-- 1: No formal evaluation
+> **Factor 7: PBM Relationship Score (1-5)**
+>
+> Have you scored your current PBM relationship on a structured framework?
+> 5: PBM evaluation scorecard completed (Week 27 framework), score documented.
+> 3: General assessment but no structured scoring.
+> 1: No formal evaluation.
 
-*Factor 8: Network Optimization Review (1-5)*
-Have you compared cost per script across dispensing channels?
-- 5: Channel-level cost comparison completed (Week 28 model), opportunities quantified
-- 3: Some awareness of channel differences
-- 1: No channel-level analysis
+> **Factor 8: Network Optimization Review (1-5)**
+>
+> Have you compared cost per script across dispensing channels?
+> 5: Channel-level cost comparison completed (Week 28 model), opportunities quantified.
+> 3: Some awareness of channel differences.
+> 1: No channel-level analysis.
 
-*Factor 9: Competitive Positioning (1-5)*
-Do you know what the market would offer if you went to RFP?
-- 5: Market check or RFP completed within past 12 months
-- 3: Broker has provided general market intelligence
-- 1: No understanding of competitive alternatives
+> **Factor 9: Competitive Positioning (1-5)**
+>
+> Do you know what the market would offer if you went to RFP?
+> 5: Market check or RFP completed within past 12 months.
+> 3: Broker has provided general market intelligence.
+> 1: No understanding of competitive alternatives.
 
 **Category 4: Clinical Program Assessment (3 factors, 15 points)**
 
-*Factor 10: Clinical Program Verification (1-5)*
-Have you audited the PBM's reported clinical program savings?
-- 5: Clinical program scorecard completed (Week 32 framework), verified vs. reported documented
-- 3: Reviewed PBM's reports but no independent verification
-- 1: Accepting PBM's reported savings at face value
+> **Factor 10: Clinical Program Verification (1-5)**
+>
+> Have you audited the PBM's reported clinical program savings?
+> 5: Clinical program scorecard completed (Week 32 framework), verified vs. reported documented.
+> 3: Reviewed PBM's reports but no independent verification.
+> 1: Accepting PBM's reported savings at face value.
 
-*Factor 11: Specialty Management Evaluation (1-5)*
-Have you assessed your specialty management across all eight levers?
-- 5: Specialty assessment completed (Week 34 framework), priority levers identified
-- 3: Aware of specialty spend trajectory but no structured evaluation
-- 1: Specialty managed entirely by PBM without independent review
+> **Factor 11: Specialty Management Evaluation (1-5)**
+>
+> Have you assessed your specialty management across all eight levers?
+> 5: Specialty assessment completed (Week 34 framework), priority levers identified.
+> 3: Aware of specialty spend trajectory but no structured evaluation.
+> 1: Specialty managed entirely by PBM without independent review.
 
-*Factor 12: Biosimilar Strategy Assessment (1-5)*
-Have you evaluated your biosimilar readiness and PBM alignment?
-- 5: Biosimilar readiness assessment completed (Week 22 framework), net cost comparisons run
-- 3: General awareness of biosimilar availability
-- 1: No biosimilar-specific evaluation
+> **Factor 12: Biosimilar Strategy Assessment (1-5)**
+>
+> Have you evaluated your biosimilar readiness and PBM alignment?
+> 5: Biosimilar readiness assessment completed (Week 22 framework), net cost comparisons run.
+> 3: General awareness of biosimilar availability.
+> 1: No biosimilar-specific evaluation.
 
 **Category 5: Negotiation Preparation (3 factors, 15 points)**
 
-*Factor 13: Advisory Team Alignment (1-5)*
-Have you coordinated with your broker, benefits counsel, and stop-loss carrier?
-- 5: All three conversations completed (Week 25 field note), priorities aligned
-- 3: Broker engaged but other parties not yet coordinated
-- 1: No pre-renewal advisory conversations
+> **Factor 13: Advisory Team Alignment (1-5)**
+>
+> Have you coordinated with your broker, benefits counsel, and stop-loss carrier?
+> 5: All three conversations completed (Week 25 field note), priorities aligned.
+> 3: Broker engaged but other parties not yet coordinated.
+> 1: No pre-renewal advisory conversations.
 
-*Factor 14: Internal Stakeholder Alignment (1-5)*
-Has your internal team agreed on renewal priorities?
-- 5: Priorities documented and approved by decision-makers
-- 3: Informal agreement but not documented
-- 1: No internal alignment discussion
+> **Factor 14: Internal Stakeholder Alignment (1-5)**
+>
+> Has your internal team agreed on renewal priorities?
+> 5: Priorities documented and approved by decision-makers.
+> 3: Informal agreement but not documented.
+> 1: No internal alignment discussion.
 
-*Factor 15: Communication Plan (1-5)*
-Do you have a plan for communicating any benefit changes that result from renewal?
-- 5: Communication templates prepared for anticipated changes (Week 33 framework)
-- 3: General awareness that communication will be needed
-- 1: No communication planning
+> **Factor 15: Communication Plan (1-5)**
+>
+> Do you have a plan for communicating any benefit changes that result from renewal?
+> 5: Communication templates prepared for anticipated changes (Week 33 framework).
+> 3: General awareness that communication will be needed.
+> 1: No communication planning.
 
 **Interpreting your score**
 
@@ -155,11 +170,17 @@ Do you have a plan for communicating any benefit changes that result from renewa
 
 For employers who are behind and cannot complete the full assessment:
 
-1. **Run the five core metrics independently** (PMPM, specialty %, GER, rebate per claim, high-cost claimants). This takes an afternoon with your claims data. It is the foundation for everything else.
+> **1. Run the five core metrics independently** (PMPM, specialty %, GER, rebate per claim, high-cost claimants).
+>
+> This takes an afternoon with your claims data. It is the foundation for everything else.
 
-2. **Read your contract and flag the ten provisions from last week's comparison library.** Mark each as weak, moderate, or strong. The weak ones are your term sheet.
+> **2. Read your contract and flag the ten provisions from last week's comparison library.**
+>
+> Mark each as weak, moderate, or strong. The weak ones are your term sheet.
 
-3. **Have the three conversations** (broker, stop-loss carrier, internal team) before the PBM presents terms. Thirty minutes each. Ninety minutes total. The alignment changes the dynamic.
+> **3. Have the three conversations** (broker, stop-loss carrier, internal team) before the PBM presents terms.
+>
+> Thirty minutes each. Ninety minutes total. The alignment changes the dynamic.
 
 Those three steps take a total of about one full working day. The employers who invest that day negotiate fundamentally different outcomes.
 

@@ -52,15 +52,25 @@ I share this story because network design is one of the most impactful cost leve
 
 Your pharmacy benefit operates across multiple dispensing channels, and the cost of the same drug varies meaningfully depending on which channel fills it.
 
-**Channel 1: Retail pharmacy.** The pharmacy your members walk into. Convenient, immediate, and typically the most expensive channel per script for maintenance medications. Retail makes sense for acute prescriptions (antibiotics, short-term medications) where immediate access matters. For 90-day maintenance medications, retail is almost always more expensive than alternatives.
+> **Channel 1: Retail pharmacy.**
+>
+> The pharmacy your members walk into. Convenient, immediate, and typically the most expensive channel per script for maintenance medications. Retail makes sense for acute prescriptions (antibiotics, short-term medications) where immediate access matters. For 90-day maintenance medications, retail is almost always more expensive than alternatives.
 
-**Channel 2: Mail order pharmacy.** Prescriptions shipped to the member's home, typically in 90-day supplies. Mail order usually offers lower cost per unit because of scale efficiencies and reduced dispensing overhead. But mail order is not universally cheaper. For some drug categories, particularly generics with strong retail pricing, the mail order discount may be marginal. The savings vary by drug and by PBM.
+> **Channel 2: Mail order pharmacy.**
+>
+> Prescriptions shipped to the member's home, typically in 90-day supplies. Mail order usually offers lower cost per unit because of scale efficiencies and reduced dispensing overhead. But mail order is not universally cheaper. For some drug categories, particularly generics with strong retail pricing, the mail order discount may be marginal. The savings vary by drug and by PBM.
 
-**Channel 3: Specialty pharmacy.** High-cost, high-touch medications (biologics, oncology, rare disease). Specialty claims represent a substantial share of total pharmacy spend, often filled through limited networks. Your PBM likely owns or has a financial relationship with the specialty pharmacy in your network. That relationship affects routing, pricing, and the PBM's margin. Whether it affects your net cost depends on your contract.
+> **Channel 3: Specialty pharmacy.**
+>
+> High-cost, high-touch medications (biologics, oncology, rare disease). Specialty claims represent a substantial share of total pharmacy spend, often filled through limited networks. Your PBM likely owns or has a financial relationship with the specialty pharmacy in your network. That relationship affects routing, pricing, and the PBM's margin. Whether it affects your net cost depends on your contract.
 
-**Channel 4: White bagging.** The pharmacy dispenses the medication, but it is shipped to the physician's office or infusion center for administration rather than to the patient directly. White bagging can reduce costs substantially for provider-administered drugs because it moves the claim from the medical benefit (where facility markup applies) to the pharmacy benefit (where PBM-negotiated pricing applies). The savings on a single infusion drug can be meaningful.
+> **Channel 4: White bagging.**
+>
+> The pharmacy dispenses the medication, but it is shipped to the physician's office or infusion center for administration rather than to the patient directly. White bagging can reduce costs substantially for provider-administered drugs because it moves the claim from the medical benefit (where facility markup applies) to the pharmacy benefit (where PBM-negotiated pricing applies). The savings on a single infusion drug can be meaningful.
 
-**Channel 5: Home infusion.** Certain medications that require infusion can be administered at the member's home by a specialized nursing service. Home infusion avoids facility fees entirely. For appropriate candidates (clinically stable, comfortable with home administration, appropriate medication), the cost differential compared to hospital outpatient infusion is significant.
+> **Channel 5: Home infusion.**
+>
+> Certain medications that require infusion can be administered at the member's home by a specialized nursing service. Home infusion avoids facility fees entirely. For appropriate candidates (clinically stable, comfortable with home administration, appropriate medication), the cost differential compared to hospital outpatient infusion is significant.
 
 **The cost comparison model**
 

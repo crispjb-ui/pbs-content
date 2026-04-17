@@ -55,55 +55,65 @@ Five scenarios. For each: the advance notification letter, the FAQ framework, th
 
 A drug moves from a lower tier to a higher tier, increasing member cost-sharing.
 
-*Advance notification (45 days before):* "Your prescription for [drug name] will move to a different cost-sharing tier effective [date]. Your new copay will be [amount]. This change affects approximately [number] of medications on our formulary as part of an annual review to ensure our drug coverage reflects current clinical evidence and cost management."
-
-*Language to use:* "Annual formulary review." "Reflects current clinical evidence." "Lower-cost alternatives may be available."
-
-*Language to avoid:* "Cost savings initiative." "Budget reduction." "Your medication is being removed." (It is not being removed; the cost-sharing is changing.)
-
-*Provider communication:* Notify prescribers 60 days before with affected drug list and therapeutic alternatives. "We want to ensure you are aware so you can discuss options with your patients."
+> **Advance notification (45 days before):**
+>
+> "Your prescription for [drug name] will move to a different cost-sharing tier effective [date]. Your new copay will be [amount]. This change affects approximately [number] of medications on our formulary as part of an annual review to ensure our drug coverage reflects current clinical evidence and cost management."
+>
+> **Language to use:** "Annual formulary review." "Reflects current clinical evidence." "Lower-cost alternatives may be available."
+>
+> **Language to avoid:** "Cost savings initiative." "Budget reduction." "Your medication is being removed." (It is not being removed; the cost-sharing is changing.)
+>
+> **Provider communication:** Notify prescribers 60 days before with affected drug list and therapeutic alternatives. "We want to ensure you are aware so you can discuss options with your patients."
 
 **Scenario 2: Biosimilar Transition**
 
 Members currently on a brand biologic are transitioned to a biosimilar.
 
-*Advance notification (60 days before):* "Your biologic medication [brand name] is being transitioned to [biosimilar name], an FDA-approved biosimilar that is clinically equivalent. Your doctor has been informed. Your copay will remain the same or may decrease. This transition is supported by clinical evidence showing no meaningful difference in safety or efficacy."
-
-*Language to use:* "FDA-approved." "Clinically equivalent." "Your doctor has been informed." "Copay may decrease."
-
-*Language to avoid:* "Generic version." (Biosimilars are not generics.) "Cost containment measure." (Frames as takeaway.) "Cheaper alternative." (Implies lower quality.)
-
-*Provider communication:* Send clinical summary with FDA biosimilar evidence, specific to the drug class. Include the transition timeline and how to request a clinical exception if medically necessary.
+> **Advance notification (60 days before):**
+>
+> "Your biologic medication [brand name] is being transitioned to [biosimilar name], an FDA-approved biosimilar that is clinically equivalent. Your doctor has been informed. Your copay will remain the same or may decrease. This transition is supported by clinical evidence showing no meaningful difference in safety or efficacy."
+>
+> **Language to use:** "FDA-approved." "Clinically equivalent." "Your doctor has been informed." "Copay may decrease."
+>
+> **Language to avoid:** "Generic version." (Biosimilars are not generics.) "Cost containment measure." (Frames as takeaway.) "Cheaper alternative." (Implies lower quality.)
+>
+> **Provider communication:** Send clinical summary with FDA biosimilar evidence, specific to the drug class. Include the transition timeline and how to request a clinical exception if medically necessary.
 
 **Scenario 3: Specialty Pharmacy Routing Change**
 
 Members are directed to a new specialty pharmacy for their medications.
 
-*Advance notification (45 days before):* "Your specialty medication will now be dispensed through [pharmacy name]. Your medication, dose, and coverage remain the same. Only the pharmacy that fills and ships your medication is changing. [Pharmacy] will contact you before your next refill to coordinate the transition."
-
-*Language to use:* "Same medication. Same coverage." "The pharmacy will contact you." "No action required on your part."
-
-*Language to avoid:* "Mandatory pharmacy change." "You must transfer." "Failure to comply will result in..."
+> **Advance notification (45 days before):**
+>
+> "Your specialty medication will now be dispensed through [pharmacy name]. Your medication, dose, and coverage remain the same. Only the pharmacy that fills and ships your medication is changing. [Pharmacy] will contact you before your next refill to coordinate the transition."
+>
+> **Language to use:** "Same medication. Same coverage." "The pharmacy will contact you." "No action required on your part."
+>
+> **Language to avoid:** "Mandatory pharmacy change." "You must transfer." "Failure to comply will result in..."
 
 **Scenario 4: Prior Authorization Implementation**
 
 A new PA requirement is added to a drug or drug category.
 
-*Advance notification (30 days before):* "Starting [date], [drug name/category] will require prior authorization. If you currently take a medication in this category, your doctor's office will work with your pharmacy benefit to confirm the authorization. In most cases, this process is completed without any disruption to your prescription."
-
-*Language to use:* "Your doctor's office will handle this." "In most cases, no disruption." "Ensures appropriate use."
-
-*Language to avoid:* "Your prescription may be denied." "You may need to switch medications." "New restriction."
+> **Advance notification (30 days before):**
+>
+> "Starting [date], [drug name/category] will require prior authorization. If you currently take a medication in this category, your doctor's office will work with your pharmacy benefit to confirm the authorization. In most cases, this process is completed without any disruption to your prescription."
+>
+> **Language to use:** "Your doctor's office will handle this." "In most cases, no disruption." "Ensures appropriate use."
+>
+> **Language to avoid:** "Your prescription may be denied." "You may need to switch medications." "New restriction."
 
 **Scenario 5: Pharmacy Network Change**
 
 A pharmacy is removed from the network or the network is narrowed.
 
-*Advance notification (60 days before):* "Your pharmacy benefit network is being updated effective [date]. [Pharmacy name] will no longer be in-network. The following in-network pharmacies are within [distance] of your location: [list]. You may also use our mail order pharmacy for maintenance medications."
-
-*Language to use:* "Updated." "Convenient alternatives nearby." "Mail order available."
-
-*Language to avoid:* "Your pharmacy has been terminated." "You can no longer use..." "Network reduction."
+> **Advance notification (60 days before):**
+>
+> "Your pharmacy benefit network is being updated effective [date]. [Pharmacy name] will no longer be in-network. The following in-network pharmacies are within [distance] of your location: [list]. You may also use our mail order pharmacy for maintenance medications."
+>
+> **Language to use:** "Updated." "Convenient alternatives nearby." "Mail order available."
+>
+> **Language to avoid:** "Your pharmacy has been terminated." "You can no longer use..." "Network reduction."
 
 **The coordination that matters**
 

@@ -66,42 +66,53 @@ This is the week-by-week framework we use with clients. Each phase has specific 
 
 **Phase 1: Data and Benchmarking (Weeks 1-4)**
 
-*Week 1: Pull your data.*
-Request from your PBM: complete claims extract for the past 12 months, rebate performance report with per-claim detail, generic effective rate by channel, specialty utilization report by therapeutic category, and high-cost claimant summary. Your broker can help you structure this data request. Most PBMs will provide this within 5-7 business days if the request is specific.
+> **Week 1: Pull your data.**
+>
+> Request from your PBM: complete claims extract for the past 12 months, rebate performance report with per-claim detail, generic effective rate by channel, specialty utilization report by therapeutic category, and high-cost claimant summary. Your broker can help you structure this data request. Most PBMs will provide this within 5-7 business days if the request is specific.
 
-*Week 2: Run your own analysis.*
-Do not wait for the PBM's summary. Calculate your five core metrics independently: PMPM trend (H1 vs. prior year H1), specialty as percentage of total spend, generic effective rate by channel, rebate per brand claim, and high-cost claimant count by threshold. Compare each to your contractual guarantees and to market benchmarks. Document where you are above, at, or below benchmark.
+> **Week 2: Run your own analysis.**
+>
+> Do not wait for the PBM's summary. Calculate your five core metrics independently: PMPM trend (H1 vs. prior year H1), specialty as percentage of total spend, generic effective rate by channel, rebate per brand claim, and high-cost claimant count by threshold. Compare each to your contractual guarantees and to market benchmarks. Document where you are above, at, or below benchmark.
 
-*Week 3: Benchmark against market.*
-Work with your broker to compare your current pricing, rebate guarantees, and contract terms against what is available in the current market. This is not an RFP. It is a market check. Your broker should be able to provide benchmark ranges for GER, rebate per claim, dispensing fees, and admin fees based on your plan size and profile.
+> **Week 3: Benchmark against market.**
+>
+> Work with your broker to compare your current pricing, rebate guarantees, and contract terms against what is available in the current market. This is not an RFP. It is a market check. Your broker should be able to provide benchmark ranges for GER, rebate per claim, dispensing fees, and admin fees based on your plan size and profile.
 
-*Week 4: Identify gaps and priorities.*
-Compare your actual performance to your contractual guarantees, and your guarantees to market benchmarks. Where are you outperforming? Where are you underperforming? Where are your guarantees below market? Document the top 5-7 priorities for renewal negotiation. These become your negotiation agenda.
+> **Week 4: Identify gaps and priorities.**
+>
+> Compare your actual performance to your contractual guarantees, and your guarantees to market benchmarks. Where are you outperforming? Where are you underperforming? Where are your guarantees below market? Document the top 5-7 priorities for renewal negotiation. These become your negotiation agenda.
 
 **Phase 2: Contract Analysis (Weeks 5-8)**
 
-*Week 5: Review current contract language.*
-Pull your PBM contract and read it. Not the summary. The actual contract. Flag provisions that are vague, that favor the PBM, or that lack performance guarantees. If you have not read your contract since you signed it, you are not alone. Most employers have not. But you cannot negotiate what you do not understand.
+> **Week 5: Review current contract language.**
+>
+> Pull your PBM contract and read it. Not the summary. The actual contract. Flag provisions that are vague, that favor the PBM, or that lack performance guarantees. If you have not read your contract since you signed it, you are not alone. Most employers have not. But you cannot negotiate what you do not understand.
 
-*Week 6: Compare to strong language benchmarks.*
-For each flagged provision, research what strong contract language looks like. We maintain a contract language library with weak, moderate, and strong versions of key provisions. Your broker or benefits counsel can provide similar references. The goal is knowing what to ask for, not just what to complain about.
+> **Week 6: Compare to strong language benchmarks.**
+>
+> For each flagged provision, research what strong contract language looks like. We maintain a contract language library with weak, moderate, and strong versions of key provisions. Your broker or benefits counsel can provide similar references. The goal is knowing what to ask for, not just what to complain about.
 
-*Week 7: Develop your term sheet.*
-Create a document listing every contract provision you want changed, with specific language you want to see. This is your negotiation term sheet. It should include pricing guarantee improvements, rebate guarantee improvements, audit rights expansion, reporting requirements, biosimilar commitments, clinical program guarantees, and termination provisions.
+> **Week 7: Develop your term sheet.**
+>
+> Create a document listing every contract provision you want changed, with specific language you want to see. This is your negotiation term sheet. It should include pricing guarantee improvements, rebate guarantee improvements, audit rights expansion, reporting requirements, biosimilar commitments, clinical program guarantees, and termination provisions.
 
-*Week 8: Coordinate with your advisory team.*
-Review the term sheet with your broker, benefits counsel, and stop-loss carrier. Each brings a different perspective. Your broker knows market positioning. Counsel knows enforceability. Your stop-loss carrier knows how contract changes affect your coverage. This meeting should happen before the PBM presents renewal terms.
+> **Week 8: Coordinate with your advisory team.**
+>
+> Review the term sheet with your broker, benefits counsel, and stop-loss carrier. Each brings a different perspective. Your broker knows market positioning. Counsel knows enforceability. Your stop-loss carrier knows how contract changes affect your coverage. This meeting should happen before the PBM presents renewal terms.
 
 **Phase 3: Negotiation Preparation (Weeks 9-12)**
 
-*Week 9: Prepare your opening position.*
-Determine your walk-away points. Which provisions are non-negotiable? Which are you willing to trade? What is your BATNA (best alternative)? If you have done a market check, you know what other PBMs would offer. That is your negotiating floor.
+> **Week 9: Prepare your opening position.**
+>
+> Determine your walk-away points. Which provisions are non-negotiable? Which are you willing to trade? What is your BATNA (best alternative)? If you have done a market check, you know what other PBMs would offer. That is your negotiating floor.
 
-*Week 10: Anticipate the PBM's position.*
-Based on your data analysis, predict where the PBM will resist. If your GER is below market, they know it and will offer a modest improvement. If your rebate guarantee is competitive, they will highlight it. Prepare responses for their likely counterarguments.
+> **Week 10: Anticipate the PBM's position.**
+>
+> Based on your data analysis, predict where the PBM will resist. If your GER is below market, they know it and will offer a modest improvement. If your rebate guarantee is competitive, they will highlight it. Prepare responses for their likely counterarguments.
 
-*Weeks 11-12: Renewal meeting preparation.*
-Finalize your materials. Prepare a presentation that leads with your data, not your complaints. Have specific asks with specific language. Bring your broker. Know your alternatives. The employers who walk into renewal with this level of preparation negotiate measurably different outcomes.
+> **Weeks 11-12: Renewal meeting preparation.**
+>
+> Finalize your materials. Prepare a presentation that leads with your data, not your complaints. Have specific asks with specific language. Bring your broker. Know your alternatives. The employers who walk into renewal with this level of preparation negotiate measurably different outcomes.
 
 **What this timeline requires**
 

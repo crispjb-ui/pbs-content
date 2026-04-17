@@ -58,45 +58,53 @@ The contract language is where the PBM's margin hides.
 
 I developed this framework because the rebate provisions in PBM contracts are the most technically complex and the most financially consequential. Eight provisions, compared in weak and strong versions. This is the reference document I want every plan sponsor to bring to their next contract review.
 
-**Provision 1: Rebate Definition**
-- *Weak:* "Rebates means manufacturer rebates received by PBM." (Narrow. Excludes admin fees, price protection, formulary access payments.)
-- *Strong:* "Rebates means all compensation received by PBM from manufacturers related to Plan's utilization, including but not limited to rebates, administrative fees, price protection payments, formulary access fees, and all other consideration." (Inclusive. Captures all manufacturer payments.)
-- *Why it matters:* The definition determines what gets passed through. A narrow definition can exclude a substantial portion of manufacturer payments.
+> **Provision 1: Rebate Definition**
+>
+> Weak: "Rebates means manufacturer rebates received by PBM." (Narrow. Excludes admin fees, price protection, formulary access payments.)
+> Strong: "Rebates means all compensation received by PBM from manufacturers related to Plan's utilization, including but not limited to rebates, administrative fees, price protection payments, formulary access fees, and all other consideration." (Inclusive. Captures all manufacturer payments.)
+> Why it matters: The definition determines what gets passed through. A narrow definition can exclude a substantial portion of manufacturer payments.
 
-**Provision 2: Eligible Claims Definition**
-- *Weak:* "Rebates apply to brand claims processed through PBM's retail and mail networks." (Excludes specialty, excludes non-network claims.)
-- *Strong:* "Rebates apply to all brand claims processed under the Plan, including retail, mail, specialty, and any claims processed through PBM-affiliated or PBM-owned pharmacies." (All channels included.)
-- *Why it matters:* Specialty claims generate the highest per-claim rebates. Excluding specialty from the rebate calculation can mean substantial retained revenue.
+> **Provision 2: Eligible Claims Definition**
+>
+> Weak: "Rebates apply to brand claims processed through PBM's retail and mail networks." (Excludes specialty, excludes non-network claims.)
+> Strong: "Rebates apply to all brand claims processed under the Plan, including retail, mail, specialty, and any claims processed through PBM-affiliated or PBM-owned pharmacies." (All channels included.)
+> Why it matters: Specialty claims generate the highest per-claim rebates. Excluding specialty from the rebate calculation can mean substantial retained revenue.
 
-**Provision 3: Pass-Through Percentage**
-- *Weak:* "PBM shall pass through rebates in accordance with the compensation schedule." (Vague. No specific percentage stated in the main contract.)
-- *Strong:* "PBM shall pass through 100% of all Rebates (as defined above) to Plan. PBM's compensation for rebate administration is limited to the administrative fee specified in Exhibit A." (Explicit 100% with compensation defined separately.)
-- *Why it matters:* "In accordance with the compensation schedule" can mean anything. An explicit percentage with a separate, visible admin fee creates accountability.
+> **Provision 3: Pass-Through Percentage**
+>
+> Weak: "PBM shall pass through rebates in accordance with the compensation schedule." (Vague. No specific percentage stated in the main contract.)
+> Strong: "PBM shall pass through 100% of all Rebates (as defined above) to Plan. PBM's compensation for rebate administration is limited to the administrative fee specified in Exhibit A." (Explicit 100% with compensation defined separately.)
+> Why it matters: "In accordance with the compensation schedule" can mean anything. An explicit percentage with a separate, visible admin fee creates accountability.
 
-**Provision 4: Timing of Rebate Payments**
-- *Weak:* "Rebates shall be remitted to Plan within 180 days of the calendar quarter in which claims were processed." (6-month lag. PBM earns float.)
-- *Strong:* "Rebates shall be remitted within 60 days of the calendar quarter. Interest at the prevailing prime rate shall accrue on late payments." (Shorter lag. Interest penalty for delays.)
-- *Why it matters:* A 6-month payment lag on a meaningful rebate amount represents real float value to the PBM and real cash flow delay to the plan.
+> **Provision 4: Timing of Rebate Payments**
+>
+> Weak: "Rebates shall be remitted to Plan within 180 days of the calendar quarter in which claims were processed." (6-month lag. PBM earns float.)
+> Strong: "Rebates shall be remitted within 60 days of the calendar quarter. Interest at the prevailing prime rate shall accrue on late payments." (Shorter lag. Interest penalty for delays.)
+> Why it matters: A 6-month payment lag on a meaningful rebate amount represents real float value to the PBM and real cash flow delay to the plan.
 
-**Provision 5: Audit Rights on Rebate Revenue**
-- *Weak:* "Plan may audit rebate payments upon reasonable notice during normal business hours." (Standard language. No access to manufacturer contracts.)
-- *Strong:* "Plan may audit all rebate-related records, including PBM's agreements with manufacturers relevant to Plan's utilization, through an independent auditor at Plan's expense. PBM shall provide access within 30 days of notice." (Full access including manufacturer agreements.)
-- *Why it matters:* Without access to the manufacturer agreements, you cannot verify whether the PBM is passing through all payments. The audit right is only as strong as the access it provides.
+> **Provision 5: Audit Rights on Rebate Revenue**
+>
+> Weak: "Plan may audit rebate payments upon reasonable notice during normal business hours." (Standard language. No access to manufacturer contracts.)
+> Strong: "Plan may audit all rebate-related records, including PBM's agreements with manufacturers relevant to Plan's utilization, through an independent auditor at Plan's expense. PBM shall provide access within 30 days of notice." (Full access including manufacturer agreements.)
+> Why it matters: Without access to the manufacturer agreements, you cannot verify whether the PBM is passing through all payments. The audit right is only as strong as the access it provides.
 
-**Provision 6: Manufacturer Contract Transparency**
-- *Weak:* "PBM's manufacturer agreements are proprietary and confidential." (Full opacity.)
-- *Strong:* "PBM shall provide Plan with a summary of manufacturer agreements relevant to Plan's formulary, including rebate rates by therapeutic class and any exclusivity provisions that affect formulary placement." (Structured transparency.)
-- *Why it matters:* Manufacturer agreements are where the PBM's economics live. Some transparency is achievable; complete opacity should not be acceptable.
+> **Provision 6: Manufacturer Contract Transparency**
+>
+> Weak: "PBM's manufacturer agreements are proprietary and confidential." (Full opacity.)
+> Strong: "PBM shall provide Plan with a summary of manufacturer agreements relevant to Plan's formulary, including rebate rates by therapeutic class and any exclusivity provisions that affect formulary placement." (Structured transparency.)
+> Why it matters: Manufacturer agreements are where the PBM's economics live. Some transparency is achievable; complete opacity should not be acceptable.
 
-**Provision 7: Rebate Guarantee Methodology**
-- *Weak:* "PBM guarantees minimum rebate of $X per brand claim." (Single number. No methodology for calculation. No adjustment for formulary changes.)
-- *Strong:* "PBM guarantees minimum rebate of $X per brand claim, calculated using Plan's actual claims mix. If PBM initiates formulary changes that reduce the rebate-eligible claim base, the guarantee shall be adjusted proportionally. True-up calculated annually with payment within 60 days." (Specific methodology. Protection against PBM-initiated formulary changes.)
-- *Why it matters:* A guarantee without methodology is unenforceable. PBMs can reduce the rebate-eligible claim base through formulary changes, making the guarantee easier to meet while the plan's actual rebate value declines.
+> **Provision 7: Rebate Guarantee Methodology**
+>
+> Weak: "PBM guarantees minimum rebate of $X per brand claim." (Single number. No methodology for calculation. No adjustment for formulary changes.)
+> Strong: "PBM guarantees minimum rebate of $X per brand claim, calculated using Plan's actual claims mix. If PBM initiates formulary changes that reduce the rebate-eligible claim base, the guarantee shall be adjusted proportionally. True-up calculated annually with payment within 60 days." (Specific methodology. Protection against PBM-initiated formulary changes.)
+> Why it matters: A guarantee without methodology is unenforceable. PBMs can reduce the rebate-eligible claim base through formulary changes, making the guarantee easier to meet while the plan's actual rebate value declines.
 
-**Provision 8: True-Up Provisions**
-- *Weak:* No true-up provision. Guarantee exists but no mechanism for reconciliation.
-- *Strong:* "PBM shall perform an annual true-up comparing actual rebate performance to the guaranteed minimum. Any shortfall shall be remitted to Plan within 60 days of the true-up calculation. True-up methodology shall be subject to audit." (Explicit reconciliation with timeline and audit rights.)
-- *Why it matters:* A guarantee without a true-up is a statement, not a commitment. The true-up is the enforcement mechanism.
+> **Provision 8: True-Up Provisions**
+>
+> Weak: No true-up provision. Guarantee exists but no mechanism for reconciliation.
+> Strong: "PBM shall perform an annual true-up comparing actual rebate performance to the guaranteed minimum. Any shortfall shall be remitted to Plan within 60 days of the true-up calculation. True-up methodology shall be subject to audit." (Explicit reconciliation with timeline and audit rights.)
+> Why it matters: A guarantee without a true-up is a statement, not a commitment. The true-up is the enforcement mechanism.
 
 **How to use this framework**
 

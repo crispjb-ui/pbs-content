@@ -55,62 +55,71 @@ The scoring rubric (0-3 per question) produces a 90-point evaluation that normal
 
 **Category 1: Pricing and Guarantees (6 questions)**
 
-*Question 1: What AWP source and update frequency does your pricing guarantee reference?*
-- Why: Different AWP sources produce different base prices. A "competitive" discount off one AWP source may be less competitive than a smaller discount off another.
-- Good answer: Specifies the exact AWP source (Medi-Span, First DataBank), update frequency, and effective date methodology.
-- Red flag: "Industry standard AWP" without specifying the source.
-- Follow-up: "Will you contractually commit to a specific AWP source for the contract term?"
+> **Question 1: What AWP source and update frequency does your pricing guarantee reference?**
+>
+> Why: Different AWP sources produce different base prices. A "competitive" discount off one AWP source may be less competitive than a smaller discount off another.
+> Good answer: Specifies the exact AWP source (Medi-Span, First DataBank), update frequency, and effective date methodology.
+> Red flag: "Industry standard AWP" without specifying the source.
+> Follow-up: "Will you contractually commit to a specific AWP source for the contract term?"
 
-*Question 2: Are pricing guarantees calculated at the ingredient cost level or the total claim level?*
-- Why: Ingredient cost excludes dispensing fees and taxes. Total claim cost includes everything the plan pays. Guarantees at ingredient level can look stronger while total cost is higher.
-- Good answer: Specifies the calculation methodology with examples.
-- Red flag: Does not distinguish between ingredient and total claim cost.
+> **Question 2: Are pricing guarantees calculated at the ingredient cost level or the total claim level?**
+>
+> Why: Ingredient cost excludes dispensing fees and taxes. Total claim cost includes everything the plan pays. Guarantees at ingredient level can look stronger while total cost is higher.
+> Good answer: Specifies the calculation methodology with examples.
+> Red flag: Does not distinguish between ingredient and total claim cost.
 
-*Question 3: Do pricing guarantees apply to all claims or are any claim types excluded?*
-- Why: Excluding specialty, compound, or limited distribution claims from guarantee calculations can significantly affect the actual pricing the plan receives.
-- Good answer: All claims included, or specific exclusions listed with rationale.
-- Red flag: Vague language about "standard claims" or "eligible claims" without defining either.
+> **Question 3: Do pricing guarantees apply to all claims or are any claim types excluded?**
+>
+> Why: Excluding specialty, compound, or limited distribution claims from guarantee calculations can significantly affect the actual pricing the plan receives.
+> Good answer: All claims included, or specific exclusions listed with rationale.
+> Red flag: Vague language about "standard claims" or "eligible claims" without defining either.
 
 **Category 2: Rebate Structure (5 questions)**
 
-*Question 7: Provide your complete definition of "rebate" as it will appear in the contract.*
-- Why: The definition determines what gets passed through. (See Week 29 article.)
-- Good answer: Inclusive definition covering all manufacturer payments related to plan utilization.
-- Red flag: "Manufacturer rebates as customarily defined in the industry."
-- Follow-up: "Does this definition include admin fees, price protection, and formulary access payments?"
+> **Question 7: Provide your complete definition of "rebate" as it will appear in the contract.**
+>
+> Why: The definition determines what gets passed through. (See Week 29 article.)
+> Good answer: Inclusive definition covering all manufacturer payments related to plan utilization.
+> Red flag: "Manufacturer rebates as customarily defined in the industry."
+> Follow-up: "Does this definition include admin fees, price protection, and formulary access payments?"
 
-*Question 8: Are specialty claims included in the rebate-eligible denominator?*
-- Why: Specialty generates the highest per-claim rebates. Excluding them can mean significant retained revenue.
-- Good answer: "Yes, all specialty claims processed through any channel are rebate-eligible."
-- Red flag: Specialty excluded or handled under a separate "specialty rebate" arrangement with different terms.
+> **Question 8: Are specialty claims included in the rebate-eligible denominator?**
+>
+> Why: Specialty generates the highest per-claim rebates. Excluding them can mean significant retained revenue.
+> Good answer: "Yes, all specialty claims processed through any channel are rebate-eligible."
+> Red flag: Specialty excluded or handled under a separate "specialty rebate" arrangement with different terms.
 
 **Category 3: Clinical Programs (5 questions)**
 
-*Question 12: For each clinical program, provide the savings methodology and a sample calculation.*
-- Why: PBMs report "clinical savings" using methodologies that may count avoided costs or attribute formulary-driven savings to clinical programs.
-- Good answer: Specific methodology with sample calculation, independently auditable.
-- Red flag: "Proprietary methodology" or aggregate savings without per-program detail.
+> **Question 12: For each clinical program, provide the savings methodology and a sample calculation.**
+>
+> Why: PBMs report "clinical savings" using methodologies that may count avoided costs or attribute formulary-driven savings to clinical programs.
+> Good answer: Specific methodology with sample calculation, independently auditable.
+> Red flag: "Proprietary methodology" or aggregate savings without per-program detail.
 
 **Category 4: Reporting and Transparency (5 questions)**
 
-*Question 17: Will the plan have access to raw claims data in a standard file format?*
-- Why: Summary reports are curated by the PBM. Raw data enables independent analysis.
-- Good answer: "Yes, monthly claims file in NCPDP standard format, available within 30 days."
-- Red flag: "Reports available through our portal" without raw data access.
+> **Question 17: Will the plan have access to raw claims data in a standard file format?**
+>
+> Why: Summary reports are curated by the PBM. Raw data enables independent analysis.
+> Good answer: "Yes, monthly claims file in NCPDP standard format, available within 30 days."
+> Red flag: "Reports available through our portal" without raw data access.
 
 **Category 5: Contract Terms (5 questions)**
 
-*Question 22: Provide your standard termination provision, including notice period and termination for cause triggers.*
-- Why: Termination provisions determine your exit options and renewal leverage.
-- Good answer: 90-day termination for convenience, specific cause triggers listed.
-- Red flag: 180-day notice with limited cause triggers.
+> **Question 22: Provide your standard termination provision, including notice period and termination for cause triggers.**
+>
+> Why: Termination provisions determine your exit options and renewal leverage.
+> Good answer: 90-day termination for convenience, specific cause triggers listed.
+> Red flag: 180-day notice with limited cause triggers.
 
 **Category 6: Implementation (4 questions)**
 
-*Question 27: Provide a detailed implementation timeline with milestone dates, responsible parties, and risk mitigation plan.*
-- Why: Implementation failures affect member experience and plan cost.
-- Good answer: Week-by-week timeline with named project manager, escalation procedures, and financial penalties for missed milestones.
-- Red flag: "Standard 90-day implementation" without specifics.
+> **Question 27: Provide a detailed implementation timeline with milestone dates, responsible parties, and risk mitigation plan.**
+>
+> Why: Implementation failures affect member experience and plan cost.
+> Good answer: Week-by-week timeline with named project manager, escalation procedures, and financial penalties for missed milestones.
+> Red flag: "Standard 90-day implementation" without specifics.
 
 **Scoring the responses**
 

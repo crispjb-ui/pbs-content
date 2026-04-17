@@ -72,17 +72,29 @@ This is not about accusing PBMs of wrongdoing. It is about understanding that th
 
 We developed a six-factor framework for evaluating whether your plan is capturing the biosimilar opportunity. This is the tool we use with clients, and I am sharing the full assessment here.
 
-**Factor 1: Formulary Positioning.** Where are biosimilars placed on your formulary relative to the reference brand? Preferred status with lower member cost-sharing drives adoption. If the biosimilar sits at the same tier as the brand, or at a higher tier, there is no financial incentive for members or prescribers to switch. Request your PBM's current formulary placement for every available biosimilar and compare it to the reference product placement.
+> **Factor 1: Formulary Positioning.**
+>
+> Where are biosimilars placed on your formulary relative to the reference brand? Preferred status with lower member cost-sharing drives adoption. If the biosimilar sits at the same tier as the brand, or at a higher tier, there is no financial incentive for members or prescribers to switch. Request your PBM's current formulary placement for every available biosimilar and compare it to the reference product placement.
 
-**Factor 2: Auto-Substitution Policies.** State pharmacy laws govern whether pharmacists can substitute a biosimilar for a prescribed biologic. Many states now allow substitution for biosimilars designated as "interchangeable" by the FDA. Your plan document language should align with state law and explicitly address biosimilar substitution. If your plan document is silent on biosimilar substitution, you may be leaving savings on the table at the pharmacy counter.
+> **Factor 2: Auto-Substitution Policies.**
+>
+> State pharmacy laws govern whether pharmacists can substitute a biosimilar for a prescribed biologic. Many states now allow substitution for biosimilars designated as "interchangeable" by the FDA. Your plan document language should align with state law and explicitly address biosimilar substitution. If your plan document is silent on biosimilar substitution, you may be leaving savings on the table at the pharmacy counter.
 
-**Factor 3: Rebate Transparency.** Can you compare the net cost (after rebates) of the brand biologic versus the biosimilar? If your PBM contract does not provide this level of transparency, you cannot evaluate whether the formulary is optimized for your plan or for the PBM's rebate revenue. Request a net cost comparison for every therapeutic category where a biosimilar is available. This single data request reveals more about your PBM's biosimilar strategy than any formulary document.
+> **Factor 3: Rebate Transparency.**
+>
+> Can you compare the net cost (after rebates) of the brand biologic versus the biosimilar? If your PBM contract does not provide this level of transparency, you cannot evaluate whether the formulary is optimized for your plan or for the PBM's rebate revenue. Request a net cost comparison for every therapeutic category where a biosimilar is available. This single data request reveals more about your PBM's biosimilar strategy than any formulary document.
 
-**Factor 4: Provider Education.** Prescriber awareness and comfort with biosimilars directly affects adoption rates. Some PBMs offer provider outreach programs. Evaluate whether your PBM actively communicates with prescribers about biosimilar availability, supports therapeutic interchange conversations, and provides clinical evidence summaries to address prescriber hesitancy. If provider education is passive or nonexistent, adoption will lag regardless of formulary placement.
+> **Factor 4: Provider Education.**
+>
+> Prescriber awareness and comfort with biosimilars directly affects adoption rates. Some PBMs offer provider outreach programs. Evaluate whether your PBM actively communicates with prescribers about biosimilar availability, supports therapeutic interchange conversations, and provides clinical evidence summaries to address prescriber hesitancy. If provider education is passive or nonexistent, adoption will lag regardless of formulary placement.
 
-**Factor 5: Member Communication.** Members need to understand what biosimilars are and why switching benefits them. Cost-sharing incentives (lower copays for biosimilars) are the most effective driver. But communication matters too. Members who understand that biosimilars are FDA-approved, clinically equivalent alternatives are more willing to switch. Evaluate whether your plan's member communications address biosimilars specifically, or whether members are learning about them for the first time at the pharmacy counter.
+> **Factor 5: Member Communication.**
+>
+> Members need to understand what biosimilars are and why switching benefits them. Cost-sharing incentives (lower copays for biosimilars) are the most effective driver. But communication matters too. Members who understand that biosimilars are FDA-approved, clinically equivalent alternatives are more willing to switch. Evaluate whether your plan's member communications address biosimilars specifically, or whether members are learning about them for the first time at the pharmacy counter.
 
-**Factor 6: Contract Language.** Does your PBM contract include biosimilar-specific performance metrics? Look for biosimilar dispensing rate guarantees, brand-to-biosimilar transition timelines, net cost optimization requirements, and penalties for failing to meet biosimilar adoption targets. If your contract is silent on biosimilars, your PBM has no contractual obligation to prioritize them. In the approximately 100 contracts we review annually, biosimilar-specific language is still uncommon. That is a missed opportunity.
+> **Factor 6: Contract Language.**
+>
+> Does your PBM contract include biosimilar-specific performance metrics? Look for biosimilar dispensing rate guarantees, brand-to-biosimilar transition timelines, net cost optimization requirements, and penalties for failing to meet biosimilar adoption targets. If your contract is silent on biosimilars, your PBM has no contractual obligation to prioritize them. In the approximately 100 contracts we review annually, biosimilar-specific language is still uncommon. That is a missed opportunity.
 
 **Scoring your readiness**
 
@@ -141,23 +153,23 @@ We have been reviewing PBM contracts this quarter with a specific focus on biosi
 
 When a PBM contract does not address biosimilar performance, the PBM has no obligation to prioritize biosimilar adoption. Formulary decisions default to whatever serves the PBM's financial model, which may or may not align with the plan's cost objectives. Three contract provisions can change that dynamic.
 
-**Provision 1: Biosimilar Dispensing Rate Guarantee**
+> **Provision 1: Biosimilar Dispensing Rate Guarantee**
+>
+> This is the most direct performance metric. It establishes a minimum percentage of biologic claims that must be filled with a biosimilar when one is available. The guarantee creates accountability. Without it, you are relying on the PBM's good faith that their formulary prioritizes the lowest net cost option.
+>
+> When negotiating this provision, define the denominator carefully. Which therapeutic categories are included? Are specialty pharmacy claims included alongside retail? Is the rate measured at the claim level or the member level? Vague definitions produce metrics that look good on paper but do not reflect actual performance.
 
-This is the most direct performance metric. It establishes a minimum percentage of biologic claims that must be filled with a biosimilar when one is available. The guarantee creates accountability. Without it, you are relying on the PBM's good faith that their formulary prioritizes the lowest net cost option.
+> **Provision 2: Brand-to-Biosimilar Transition Timeline**
+>
+> When a new biosimilar launches, how quickly does the PBM move it to preferred status? A transition timeline provision requires the PBM to evaluate and implement formulary changes within a defined period after FDA approval of a new biosimilar. Without this language, transition timelines are entirely at the PBM's discretion.
+>
+> We see plans where biosimilars that have been available for over a year still sit at non-preferred status. That delay costs the plan money every month. A 90-day evaluation and transition commitment is reasonable and increasingly standard in well-negotiated contracts.
 
-When negotiating this provision, define the denominator carefully. Which therapeutic categories are included? Are specialty pharmacy claims included alongside retail? Is the rate measured at the claim level or the member level? Vague definitions produce metrics that look good on paper but do not reflect actual performance.
-
-**Provision 2: Brand-to-Biosimilar Transition Timeline**
-
-When a new biosimilar launches, how quickly does the PBM move it to preferred status? A transition timeline provision requires the PBM to evaluate and implement formulary changes within a defined period after FDA approval of a new biosimilar. Without this language, transition timelines are entirely at the PBM's discretion.
-
-We see plans where biosimilars that have been available for over a year still sit at non-preferred status. That delay costs the plan money every month. A 90-day evaluation and transition commitment is reasonable and increasingly standard in well-negotiated contracts.
-
-**Provision 3: Net Cost Comparison Reporting**
-
-This provision requires the PBM to provide regular reporting that compares the net cost (after rebates, fees, and administrative costs) of brand biologics versus available biosimilars for your specific plan population. This is the transparency tool that reveals whether the formulary is serving the plan or the PBM's rebate economics.
-
-Request this reporting quarterly. The data should be specific enough to show, by therapeutic category, what the plan paid net for the brand versus what it would have paid for the biosimilar. If the PBM resists providing this level of detail, that resistance tells you something important about whose interests the current formulary serves.
+> **Provision 3: Net Cost Comparison Reporting**
+>
+> This provision requires the PBM to provide regular reporting that compares the net cost (after rebates, fees, and administrative costs) of brand biologics versus available biosimilars for your specific plan population. This is the transparency tool that reveals whether the formulary is serving the plan or the PBM's rebate economics.
+>
+> Request this reporting quarterly. The data should be specific enough to show, by therapeutic category, what the plan paid net for the brand versus what it would have paid for the biosimilar. If the PBM resists providing this level of detail, that resistance tells you something important about whose interests the current formulary serves.
 
 **How to introduce these provisions**
 

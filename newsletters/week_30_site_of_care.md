@@ -49,13 +49,21 @@ This is not a quality issue. Clinical guidelines for most infusion therapies do 
 
 **Four administration settings compared**
 
-**Hospital outpatient department.** Highest cost. Facility fees apply. Appropriate for initial infusions, complex therapies requiring close monitoring, and members with clinical risk factors. Not appropriate as the default for stable, maintenance infusions.
+> **Hospital outpatient department.**
+>
+> Highest cost. Facility fees apply. Appropriate for initial infusions, complex therapies requiring close monitoring, and members with clinical risk factors. Not appropriate as the default for stable, maintenance infusions.
 
-**Physician office.** Moderate cost. No hospital facility fees but office administration fees apply. Appropriate for therapies the prescribing physician administers directly. Limited by office capacity and infusion chair availability.
+> **Physician office.**
+>
+> Moderate cost. No hospital facility fees but office administration fees apply. Appropriate for therapies the prescribing physician administers directly. Limited by office capacity and infusion chair availability.
 
-**Ambulatory infusion center.** Lower cost. Purpose-built for infusion therapy. No hospital facility fees. Clinical oversight available. Appropriate for most stable infusion therapies. Growing availability in most metropolitan areas.
+> **Ambulatory infusion center.**
+>
+> Lower cost. Purpose-built for infusion therapy. No hospital facility fees. Clinical oversight available. Appropriate for most stable infusion therapies. Growing availability in most metropolitan areas.
 
-**Home infusion.** Lowest setting cost. Eliminates all facility fees. Nursing service administers the therapy at the member's home. Appropriate for clinically stable members on established therapies with no history of infusion reactions. Member convenience is highest. Some members prefer the privacy and comfort.
+> **Home infusion.**
+>
+> Lowest setting cost. Eliminates all facility fees. Nursing service administers the therapy at the member's home. Appropriate for clinically stable members on established therapies with no history of infusion reactions. Member convenience is highest. Some members prefer the privacy and comfort.
 
 **The site-of-care decision tree**
 
@@ -74,11 +82,12 @@ Initial infusions at hospital outpatient with monitoring capability. Some therap
 Often initiated at specialty centers. Transition to home infusion is well established for many enzyme replacement therapies, with specialized home infusion nursing. This category has strong precedent for home administration and the per-administration savings are significant given the frequency of treatment.
 
 **For each clinical decision point, ask:**
-1. Is the member clinically stable on this therapy? (Minimum 2-3 administrations without adverse events)
-2. Does the therapy have REMS requirements that restrict the setting?
-3. Is the alternative setting available in the member's geography?
-4. What is the cost differential between current and alternative settings?
-5. Does the member consent to the alternative setting?
+
+> **1. Is the member clinically stable on this therapy?** (Minimum 2-3 administrations without adverse events.)
+> **2. Does the therapy have REMS requirements that restrict the setting?**
+> **3. Is the alternative setting available in the member's geography?**
+> **4. What is the cost differential between current and alternative settings?**
+> **5. Does the member consent to the alternative setting?**
 
 If answers 1, 3, and 5 are yes, answer 2 is no, and answer 4 shows a meaningful differential, the site-of-care change is clinically and financially supported.
 

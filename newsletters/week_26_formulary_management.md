@@ -70,29 +70,60 @@ True formulary customization means the employer has evaluated their population's
 
 I developed this framework to help clients evaluate how much independence their formulary actually has. It is a scored assessment with seven questions. Each answer reveals something specific about who controls the drug list.
 
-**Question 1: Can you name the members of the P&T committee that manages your formulary?** (Score: 0 = no, 1 = PBM provided names on request, 2 = employer has direct access to committee) If you cannot identify who is making clinical decisions for your plan, you have no visibility into the process.
+> **Question 1: Can you name the members of the P&T committee that manages your formulary?**
+>
+> Score: 0 = no, 1 = PBM provided names on request, 2 = employer has direct access to committee.
+>
+> If you cannot identify who is making clinical decisions for your plan, you have no visibility into the process.
 
-**Question 2: How often does the P&T committee review your specific plan's formulary?** (Score: 0 = no plan-specific review, 1 = annual review, 2 = quarterly or more frequent) Most PBMs apply a single formulary review across their entire book of business. Plan-specific reviews are rare and valuable.
+> **Question 2: How often does the P&T committee review your specific plan's formulary?**
+>
+> Score: 0 = no plan-specific review, 1 = annual review, 2 = quarterly or more frequent.
+>
+> Most PBMs apply a single formulary review across their entire book of business. Plan-specific reviews are rare and valuable.
 
-**Question 3: Has your PBM provided a net cost analysis comparing your current formulary to alternatives?** (Score: 0 = never requested or provided, 1 = provided on request, 2 = provided proactively as part of annual review) This is the most revealing question. If the PBM has never shown you what your formulary costs compared to alternatives, ask yourself why.
+> **Question 3: Has your PBM provided a net cost analysis comparing your current formulary to alternatives?**
+>
+> Score: 0 = never requested or provided, 1 = provided on request, 2 = provided proactively as part of annual review.
+>
+> This is the most revealing question. If the PBM has never shown you what your formulary costs compared to alternatives, ask yourself why.
 
-**Question 4: When a new drug launches, what is the timeline for P&T review and formulary placement?** (Score: 0 = unknown, 1 = within 6 months of launch, 2 = within 90 days with employer notification) New drug launches are where formulary independence matters most. A slow review process means the PBM's default position (which may favor rebate-optimized placement) persists longer.
+> **Question 4: When a new drug launches, what is the timeline for P&T review and formulary placement?**
+>
+> Score: 0 = unknown, 1 = within 6 months of launch, 2 = within 90 days with employer notification.
+>
+> New drug launches are where formulary independence matters most. A slow review process means the PBM's default position (which may favor rebate-optimized placement) persists longer.
 
-**Question 5: Can you see the rebate impact of each tier placement decision?** (Score: 0 = no visibility, 1 = aggregate rebate reporting only, 2 = tier-level rebate transparency) If you cannot see how rebates influence which drugs land on which tier, you cannot evaluate whether the formulary serves clinical or financial interests.
+> **Question 5: Can you see the rebate impact of each tier placement decision?**
+>
+> Score: 0 = no visibility, 1 = aggregate rebate reporting only, 2 = tier-level rebate transparency.
+>
+> If you cannot see how rebates influence which drugs land on which tier, you cannot evaluate whether the formulary serves clinical or financial interests.
 
-**Question 6: Has your plan ever requested a formulary change that the PBM declined?** (Score: 0 = never requested a change, 1 = requested and PBM declined without clear clinical rationale, 2 = requested and PBM implemented or provided documented clinical rationale for declining) This question reveals the power dynamic. If the PBM can override employer preferences without accountability, the "customization" is cosmetic.
+> **Question 6: Has your plan ever requested a formulary change that the PBM declined?**
+>
+> Score: 0 = never requested a change, 1 = requested and PBM declined without clear clinical rationale, 2 = requested and PBM implemented or provided documented clinical rationale for declining.
+>
+> This question reveals the power dynamic. If the PBM can override employer preferences without accountability, the "customization" is cosmetic.
 
-**Question 7: Does your contract include formulary change notification requirements?** (Score: 0 = no notification requirement, 1 = annual notification, 2 = advance notification before any mid-year formulary change with employer approval required) Without notification requirements, the PBM can change your formulary mid-year without your knowledge or consent.
+> **Question 7: Does your contract include formulary change notification requirements?**
+>
+> Score: 0 = no notification requirement, 1 = annual notification, 2 = advance notification before any mid-year formulary change with employer approval required.
+>
+> Without notification requirements, the PBM can change your formulary mid-year without your knowledge or consent.
 
 **Scoring your formulary independence**
 
 Total your score across all seven questions (0-14 scale).
 
-*11-14: Strong independence.* Your plan has meaningful formulary oversight. Maintain it.
+> **11-14: Strong independence.**
+> Your plan has meaningful formulary oversight. Maintain it.
 
-*6-10: Moderate independence.* Some visibility, but gaps exist. Focus on the questions where you scored 0.
+> **6-10: Moderate independence.**
+> Some visibility, but gaps exist. Focus on the questions where you scored 0.
 
-*0-5: Low independence.* The PBM controls your formulary with minimal employer oversight. This should be a renewal priority.
+> **0-5: Low independence.**
+> The PBM controls your formulary with minimal employer oversight. This should be a renewal priority.
 
 If you scored below 6, the conversation with your PBM should start with Questions 3 and 5: net cost analysis and tier-level rebate transparency. Those two data points reveal more about your formulary's alignment with your plan's interests than any other information.
 
@@ -145,23 +176,23 @@ We have been asking PBMs a set of specific formulary questions on behalf of clie
 
 Three questions. Ask them this month.
 
-**Question 1: What is the net cost difference between our current formulary and your standard formulary?**
+> **Question 1: What is the net cost difference between our current formulary and your standard formulary?**
+>
+> Most PBMs offer a "standard" formulary and variations. If your plan is on the standard formulary, there is no difference. If you have a customized version, the PBM should be able to quantify the net cost impact of the customization. If they cannot answer this question, your customization may be nominal.
+>
+> The net cost comparison (not gross cost, not rebate dollars, but net cost after all rebates and fees) is the metric that matters. A formulary that generates higher rebates but costs the plan more on a net basis is optimized for the PBM, not for you.
 
-Most PBMs offer a "standard" formulary and variations. If your plan is on the standard formulary, there is no difference. If you have a customized version, the PBM should be able to quantify the net cost impact of the customization. If they cannot answer this question, your customization may be nominal.
+> **Question 2: Which drugs on our formulary are placed at their current tier primarily because of rebate agreements?**
+>
+> This is a direct question and many PBMs will resist answering it directly. That resistance itself is informative. A PBM confident in its formulary's clinical foundation should be able to identify which tier decisions were influenced by rebate contracts and explain the clinical rationale alongside the financial rationale.
+>
+> If every tier decision is described as "clinically driven" with no acknowledgment of rebate influence, the answer is not complete. Rebates influence formulary decisions at every PBM. The question is whether that influence is transparent.
 
-The net cost comparison (not gross cost, not rebate dollars, but net cost after all rebates and fees) is the metric that matters. A formulary that generates higher rebates but costs the plan more on a net basis is optimized for the PBM, not for you.
-
-**Question 2: Which drugs on our formulary are placed at their current tier primarily because of rebate agreements?**
-
-This is a direct question and many PBMs will resist answering it directly. That resistance itself is informative. A PBM confident in its formulary's clinical foundation should be able to identify which tier decisions were influenced by rebate contracts and explain the clinical rationale alongside the financial rationale.
-
-If every tier decision is described as "clinically driven" with no acknowledgment of rebate influence, the answer is not complete. Rebates influence formulary decisions at every PBM. The question is whether that influence is transparent.
-
-**Question 3: How will we be notified before any mid-year formulary changes?**
-
-Mid-year formulary changes can affect members, providers, and plan costs without the employer's knowledge. Review your contract for formulary change notification requirements. If the contract is silent on this, the PBM can move drugs between tiers, add exclusions, or change coverage criteria without advance notice.
-
-At minimum, you should require written notification 60 days before any formulary change that affects your plan, with the option to opt out of changes you disagree with. The strongest contracts require employer approval before any mid-year formulary modification.
+> **Question 3: How will we be notified before any mid-year formulary changes?**
+>
+> Mid-year formulary changes can affect members, providers, and plan costs without the employer's knowledge. Review your contract for formulary change notification requirements. If the contract is silent on this, the PBM can move drugs between tiers, add exclusions, or change coverage criteria without advance notice.
+>
+> At minimum, you should require written notification 60 days before any formulary change that affects your plan, with the option to opt out of changes you disagree with. The strongest contracts require employer approval before any mid-year formulary modification.
 
 **What the answers tell you**
 

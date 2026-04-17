@@ -75,17 +75,29 @@ Sort by total cost, highest first. Focus on the top 20% by dollar amount. In mos
 
 For each high-cost claim, run through these six flags:
 
-**1. High cost per claim.** Individual compounding claims exceeding $500 warrant review. Most legitimate compounds cost substantially less than that.
+> **1. High cost per claim.**
+>
+> Individual compounding claims exceeding $500 warrant review. Most legitimate compounds cost substantially less than that.
 
-**2. Multi-ingredient topicals.** Creams or ointments with four or more active ingredients. This is the most common vehicle for inflated pricing. The clinical evidence for multi-ingredient topical combinations is limited, and I say that as a pharmacist.
+> **2. Multi-ingredient topicals.**
+>
+> Creams or ointments with four or more active ingredients. This is the most common vehicle for inflated pricing. The clinical evidence for multi-ingredient topical combinations is limited, and I say that as a pharmacist.
 
-**3. Pharmacy concentration.** If a single pharmacy generates a disproportionate share of your compounding claims, that concentration suggests marketing or incentive relationships rather than organic patient need. We see this constantly.
+> **3. Pharmacy concentration.**
+>
+> If a single pharmacy generates a disproportionate share of your compounding claims, that concentration suggests marketing or incentive relationships rather than organic patient need. We see this constantly.
 
-**4. Prescriber concentration.** A single prescriber generating a disproportionate share of compounding referrals may indicate a prescriber-pharmacy financial relationship. Worth investigating.
+> **4. Prescriber concentration.**
+>
+> A single prescriber generating a disproportionate share of compounding referrals may indicate a prescriber-pharmacy financial relationship. Worth investigating.
 
-**5. Commercial alternative available.** The most straightforward flag. If an FDA-approved product exists for the same indication at a fraction of the cost, there should be documented clinical justification for why the commercial product was not appropriate. Usually there is not.
+> **5. Commercial alternative available.**
+>
+> The most straightforward flag. If an FDA-approved product exists for the same indication at a fraction of the cost, there should be documented clinical justification for why the commercial product was not appropriate. Usually there is not.
 
-**6. Rapid spend growth.** Compounding costs increasing significantly quarter over quarter without corresponding population changes. This often signals a new pharmacy or prescriber entering your network with an aggressive utilization pattern.
+> **6. Rapid spend growth.**
+>
+> Compounding costs increasing significantly quarter over quarter without corresponding population changes. This often signals a new pharmacy or prescriber entering your network with an aggressive utilization pattern.
 
 **How to pull and interpret a compounding report**
 
@@ -170,10 +182,10 @@ Cross-reference prescriber location with patient location in your compounding cl
 
 **What to do when you find these patterns**
 
-- Flag the claims for clinical review by your PBM or an independent reviewer
-- Request ingredient-level detail on high-cost compounds to evaluate clinical appropriateness
-- Consider implementing prior authorization requirements for compounding above a cost threshold if you have not already
-- Include compounding as a specific category in your next claims audit scope
+> **Flag the claims for clinical review** by your PBM or an independent reviewer.
+> **Request ingredient-level detail on high-cost compounds** to evaluate clinical appropriateness.
+> **Consider implementing prior authorization requirements** for compounding above a cost threshold if you have not already.
+> **Include compounding as a specific category** in your next claims audit scope.
 
 Not every pattern indicates fraud. But each pattern indicates that the claims deserve closer scrutiny than PBM systems typically provide by default.
 

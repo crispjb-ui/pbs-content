@@ -182,9 +182,17 @@ The cost impact depends on your coverage policy decisions:
 
 **Three actions for plan sponsors**
 
-1. Review your current GLP-1 coverage policy. If it was written before the obesity indication expansion, it needs updating to address current and upcoming indications.
-2. Request pipeline briefing from your PBM specifically on GLP-1 and related metabolic agents. Understand what is approaching approval and the estimated timeline.
-3. Model the cost impact of indication expansion. If your current GLP-1 spend covers diabetes, model what adding obesity, cardiovascular, and NASH/MASH indications would mean for total plan cost.
+> **1. Review your current GLP-1 coverage policy.**
+>
+> If it was written before the obesity indication expansion, it needs updating to address current and upcoming indications.
+
+> **2. Request pipeline briefing from your PBM specifically on GLP-1 and related metabolic agents.**
+>
+> Understand what is approaching approval and the estimated timeline.
+
+> **3. Model the cost impact of indication expansion.**
+>
+> If your current GLP-1 spend covers diabetes, model what adding obesity, cardiovascular, and NASH/MASH indications would mean for total plan cost.
 
 GLP-1 management is not a one-time formulary decision. It is an ongoing strategy that needs regular review as the market evolves.
 

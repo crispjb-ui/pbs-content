@@ -152,17 +152,23 @@ Maximizers preserve member experience: the member pays nothing all year. But the
 
 When we help clients choose between these programs, we focus on three factors:
 
-1. **Member population and drug mix.** If your high-cost copay card utilization is concentrated in specialty drugs for serious conditions, member disruption from an accumulator program carries real clinical risk. Maximizer programs maintain adherence while still capturing savings.
+> **1. Member population and drug mix.**
+>
+> If your high-cost copay card utilization is concentrated in specialty drugs for serious conditions, member disruption from an accumulator program carries real clinical risk. Maximizer programs maintain adherence while still capturing savings.
 
-2. **PBM capability.** Ask your PBM detailed questions about their maximizer administration. How do they track manufacturer card funding? What happens when a card maxes out mid-year? How is the transition handled? If the answers are vague, the execution may be too.
+> **2. PBM capability.**
+>
+> Ask your PBM detailed questions about their maximizer administration. How do they track manufacturer card funding? What happens when a card maxes out mid-year? How is the transition handled? If the answers are vague, the execution may be too.
 
-3. **Financial modeling.** Run the numbers for your specific population. The savings difference between accumulator and maximizer depends on your drug mix, member demographics, and current copay card utilization. Generic projections do not substitute for plan-specific analysis.
+> **3. Financial modeling.**
+>
+> Run the numbers for your specific population. The savings difference between accumulator and maximizer depends on your drug mix, member demographics, and current copay card utilization. Generic projections do not substitute for plan-specific analysis.
 
 **What to do this quarter**
 
-- Request a copay card utilization report from your PBM showing which drugs have active manufacturer cards
-- Ask your PBM to model both accumulator and maximizer savings for your specific plan
-- Review member communication requirements for whichever approach you consider; member notification is critical for either program
+> **Request a copay card utilization report from your PBM** showing which drugs have active manufacturer cards.
+> **Ask your PBM to model both accumulator and maximizer savings** for your specific plan.
+> **Review member communication requirements** for whichever approach you consider; member notification is critical for either program.
 
 The right program fits your plan's economics, your members' clinical needs, and your PBM's actual operational capability. We have seen both work well. We have also seen both implemented poorly. There is no universal answer, but there is a right answer for your plan.
 

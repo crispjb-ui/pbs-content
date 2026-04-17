@@ -45,55 +45,65 @@ Ten provisions. Three versions of each: weak (favors the PBM), moderate (some pr
 
 This is designed as a reference document. Print it. Bring it to your next contract review. Mark up your current contract against it.
 
-**Provision 1: Pricing Guarantee Methodology**
-- *Weak:* "PBM shall provide competitive pricing." (Unenforceable. "Competitive" is undefined.)
-- *Moderate:* "PBM guarantees GER of [X]% calculated annually." (Measurable but infrequent reconciliation.)
-- *Strong:* "PBM guarantees GER of [X]% by channel (retail, mail, specialty), calculated quarterly using [specified AWP source]. Shortfall remitted within 60 days of quarter close." (Channel-specific, frequent reconciliation, specified methodology.)
+> **Provision 1: Pricing Guarantee Methodology**
+>
+> Weak: "PBM shall provide competitive pricing." (Unenforceable. "Competitive" is undefined.)
+> Moderate: "PBM guarantees GER of [X]% calculated annually." (Measurable but infrequent reconciliation.)
+> Strong: "PBM guarantees GER of [X]% by channel (retail, mail, specialty), calculated quarterly using [specified AWP source]. Shortfall remitted within 60 days of quarter close." (Channel-specific, frequent reconciliation, specified methodology.)
 
-**Provision 2: Rebate Pass-Through Definition**
-- *Weak:* "PBM shall pass through manufacturer rebates." (Narrow. Excludes admin fees, price protection.)
-- *Moderate:* "PBM shall pass through 100% of rebates received from manufacturers." (Better but still depends on "rebate" definition.)
-- *Strong:* "PBM shall pass through 100% of all compensation received from manufacturers related to Plan utilization, including rebates, admin fees, price protection, formulary access fees, and all other consideration." (Inclusive. Captures all payments.)
+> **Provision 2: Rebate Pass-Through Definition**
+>
+> Weak: "PBM shall pass through manufacturer rebates." (Narrow. Excludes admin fees, price protection.)
+> Moderate: "PBM shall pass through 100% of rebates received from manufacturers." (Better but still depends on "rebate" definition.)
+> Strong: "PBM shall pass through 100% of all compensation received from manufacturers related to Plan utilization, including rebates, admin fees, price protection, formulary access fees, and all other consideration." (Inclusive. Captures all payments.)
 
-**Provision 3: Audit Scope and Access**
-- *Weak:* "Plan may audit during normal business hours upon reasonable notice." (Limited scope, no access to manufacturer agreements.)
-- *Moderate:* "Plan may conduct annual audit of claims, pricing, and rebate records." (Defined scope but may exclude key records.)
-- *Strong:* "Plan may audit all records related to Plan's pharmacy benefit including claims, pricing, rebates, manufacturer agreements, and clinical program methodology. Independent auditor access within 30 days of notice." (Full access including manufacturer contracts.)
+> **Provision 3: Audit Scope and Access**
+>
+> Weak: "Plan may audit during normal business hours upon reasonable notice." (Limited scope, no access to manufacturer agreements.)
+> Moderate: "Plan may conduct annual audit of claims, pricing, and rebate records." (Defined scope but may exclude key records.)
+> Strong: "Plan may audit all records related to Plan's pharmacy benefit including claims, pricing, rebates, manufacturer agreements, and clinical program methodology. Independent auditor access within 30 days of notice." (Full access including manufacturer contracts.)
 
-**Provision 4: Performance Guarantee Penalties**
-- *Weak:* "PBM shall use commercially reasonable efforts to meet guarantees." (No financial consequence for missing.)
-- *Moderate:* "PBM shall pay penalties for guarantee shortfalls, capped at [fixed dollar amount]." (Penalties exist but are capped.)
-- *Strong:* "PBM shall pay dollar-for-dollar penalties for all guarantee shortfalls with no annual cap. Penalty calculation subject to audit." (Full accountability.)
+> **Provision 4: Performance Guarantee Penalties**
+>
+> Weak: "PBM shall use commercially reasonable efforts to meet guarantees." (No financial consequence for missing.)
+> Moderate: "PBM shall pay penalties for guarantee shortfalls, capped at [fixed dollar amount]." (Penalties exist but are capped.)
+> Strong: "PBM shall pay dollar-for-dollar penalties for all guarantee shortfalls with no annual cap. Penalty calculation subject to audit." (Full accountability.)
 
-**Provision 5: Formulary Change Notification**
-- *Weak:* "PBM may modify formulary at any time." (No notice. No approval.)
-- *Moderate:* "PBM shall notify Plan of formulary changes annually." (Notice but after the fact.)
-- *Strong:* "PBM shall provide 60-day advance written notice of any formulary change. Changes affecting Plan members require Plan approval." (Advance notice plus approval right.)
+> **Provision 5: Formulary Change Notification**
+>
+> Weak: "PBM may modify formulary at any time." (No notice. No approval.)
+> Moderate: "PBM shall notify Plan of formulary changes annually." (Notice but after the fact.)
+> Strong: "PBM shall provide 60-day advance written notice of any formulary change. Changes affecting Plan members require Plan approval." (Advance notice plus approval right.)
 
-**Provision 6: Termination for Convenience**
-- *Weak:* "Either party may terminate with 180-day written notice." (6-month lock-in.)
-- *Moderate:* "Either party may terminate with 120-day written notice." (4-month, slightly better.)
-- *Strong:* "Either party may terminate with 90-day written notice. PBM shall provide complete claims data in standard format within 30 days of notice." (Short notice plus data portability.)
+> **Provision 6: Termination for Convenience**
+>
+> Weak: "Either party may terminate with 180-day written notice." (6-month lock-in.)
+> Moderate: "Either party may terminate with 120-day written notice." (4-month, slightly better.)
+> Strong: "Either party may terminate with 90-day written notice. PBM shall provide complete claims data in standard format within 30 days of notice." (Short notice plus data portability.)
 
-**Provision 7: Data Ownership and Portability**
-- *Weak:* "Data shall be provided in accordance with PBM's standard processes." (PBM controls timing and format.)
-- *Moderate:* "PBM shall provide claims data within 60 days of request." (Defined timeline but long.)
-- *Strong:* "All claims data is owned by Plan. PBM shall provide complete data in NCPDP standard format within 30 days of request, including during and after termination. De-identified data use by PBM requires Plan consent." (Full ownership, fast delivery, use restrictions.)
+> **Provision 7: Data Ownership and Portability**
+>
+> Weak: "Data shall be provided in accordance with PBM's standard processes." (PBM controls timing and format.)
+> Moderate: "PBM shall provide claims data within 60 days of request." (Defined timeline but long.)
+> Strong: "All claims data is owned by Plan. PBM shall provide complete data in NCPDP standard format within 30 days of request, including during and after termination. De-identified data use by PBM requires Plan consent." (Full ownership, fast delivery, use restrictions.)
 
-**Provision 8: Claim Adjudication Standards**
-- *Weak:* "Claims shall be adjudicated in accordance with PBM's standard practices." (Undefined standard.)
-- *Moderate:* "Claims accuracy guarantee of 99%." (Defined but 1% error rate on high-volume claims is significant.)
-- *Strong:* "Claims accuracy guarantee of 99.5% with dollar-for-dollar correction of errors within 30 days of identification. Financial impact of adjudication errors borne by PBM." (Higher standard, financial accountability.)
+> **Provision 8: Claim Adjudication Standards**
+>
+> Weak: "Claims shall be adjudicated in accordance with PBM's standard practices." (Undefined standard.)
+> Moderate: "Claims accuracy guarantee of 99%." (Defined but 1% error rate on high-volume claims is significant.)
+> Strong: "Claims accuracy guarantee of 99.5% with dollar-for-dollar correction of errors within 30 days of identification. Financial impact of adjudication errors borne by PBM." (Higher standard, financial accountability.)
 
-**Provision 9: Network Access Guarantees**
-- *Weak:* "PBM shall maintain an adequate retail pharmacy network." ("Adequate" is undefined.)
-- *Moderate:* "PBM guarantees [X]% of members within [Y] miles of a network pharmacy." (Measurable but may not account for pharmacy closures.)
-- *Strong:* "PBM guarantees [X]% access within [Y] miles, measured quarterly. PBM shall notify Plan within 30 days of any network pharmacy termination affecting more than [Z] members." (Measurable, monitored, notification requirement.)
+> **Provision 9: Network Access Guarantees**
+>
+> Weak: "PBM shall maintain an adequate retail pharmacy network." ("Adequate" is undefined.)
+> Moderate: "PBM guarantees [X]% of members within [Y] miles of a network pharmacy." (Measurable but may not account for pharmacy closures.)
+> Strong: "PBM guarantees [X]% access within [Y] miles, measured quarterly. PBM shall notify Plan within 30 days of any network pharmacy termination affecting more than [Z] members." (Measurable, monitored, notification requirement.)
 
-**Provision 10: Amendment and Modification**
-- *Weak:* "PBM may amend terms with 30-day written notice." (PBM can unilaterally change terms.)
-- *Moderate:* "Amendments require mutual written agreement." (Both parties must agree.)
-- *Strong:* "Amendments require mutual written agreement executed by authorized representatives of both parties. No amendment shall reduce Plan's guarantees or protections without Plan's explicit consent." (Mutual agreement plus guarantee floor.)
+> **Provision 10: Amendment and Modification**
+>
+> Weak: "PBM may amend terms with 30-day written notice." (PBM can unilaterally change terms.)
+> Moderate: "Amendments require mutual written agreement." (Both parties must agree.)
+> Strong: "Amendments require mutual written agreement executed by authorized representatives of both parties. No amendment shall reduce Plan's guarantees or protections without Plan's explicit consent." (Mutual agreement plus guarantee floor.)
 
 **How to use this library**
 
