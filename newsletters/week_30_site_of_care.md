@@ -324,6 +324,29 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 
 ---
 
+### Thursday Evergreen Rotation (Slot B) - Same infusion. Hospital. Office. Home. Four prices.
+
+- **Slot:** B
+- **Format:** Carousel (6 slides)
+- **Pillar:** Cost Containment Strategies
+- **Topic:** Same infusion. Hospital. Office. Home. Four prices.
+- **Hook:** "Same infusion. Same drug. Same clinical outcome. Four settings. Four bills. One employer paying the difference."
+
+**Content outline (Same/Same/Different structure, parallel lines then punchline):**
+- Slide 1 (Hook): "Same infusion. Four settings. Four prices." Swipe indicator in Accent Blue.
+- Slide 2 (Hospital outpatient): "Hospital outpatient department. Facility fee. Administration fee. Drug markup. Highest price."
+- Slide 3 (Physician office): "Physician office. Administration fee. Lower drug markup. Lower total."
+- Slide 4 (Ambulatory infusion center): "Ambulatory infusion center. No facility fee. Negotiated drug pricing. Lower still."
+- Slide 5 (Home infusion): "Home infusion. No facility fee. No office overhead. Lowest of the four."
+- Slide 6 (Punchline): "Same infusion. Four settings. Four prices. One employer paying whichever setting the default routes to." Accent Blue underline under "default routes."
+- Slide 7 (CTA): Primary Blue background. White: "Site-of-care is a choice. Make it before the claims arrive." team@rxbs.org | Benefit Blind Spots | PBS logo.
+
+**Image prompt stub:** Carousel, alternating white and Primary Blue (#015880) slides. Krona One 48-60pt. Roboto 20-24pt body. Repetitive "Same [X]. Same [Y]. Different [Z]." structure across four middle slides. Mobile-optimized 1080x1350.
+
+*Illustrative example for educational purposes. Actual amounts vary by plan.*
+
+---
+
 ## Post 111 Company Reshare - Thursday 1:30 PM
 
 **Word Count:** 46 words

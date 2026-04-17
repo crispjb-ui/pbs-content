@@ -12,7 +12,7 @@
 | Tue Aug 4 | 10:00 AM | LinkedIn Feed | Post 113 - "RFP Questions Your PBM Hopes You Never Ask" MESSY INFOGRAPHIC | [ ] |
 | Wed Aug 5 | 10:00 AM | LinkedIn Feed | Post 114 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 6 | 7:30 AM | Substack | Field Note: "Normalizing PBM Pricing Proposals: Apples to Apples" | [ ] |
-| Thu Aug 6 | 10:00 AM | LinkedIn Feed | Post 115 - RFP Process Timeline Whiteboard Carousel (weekly theme) | [ ] |
+| Thu Aug 6 | 10:00 AM | LinkedIn Feed | Post 115 - 5 Questions About Clinical Program ROI (Carousel, Slot C evergreen rotation) | [ ] |
 | Fri Aug 7 | 10:00 AM | LinkedIn Feed | Post 116 - Tease Hook (teases Week 32) | [ ] |
 
 ---

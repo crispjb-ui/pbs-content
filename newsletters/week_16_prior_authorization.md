@@ -688,8 +688,6 @@ A fee transparency clause in your next contract redline is the fix. One sentence
 
 If your plan has not asked, your PBM has not offered.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
 #### VIDEO SCRIPT OPTION (35 seconds, filmed on phone)
 
 **Setup:** Vertical phone, natural light, head and shoulders. Simple background. This one works best with a steady, rhythmic delivery. The repetitive structure is the hook.
