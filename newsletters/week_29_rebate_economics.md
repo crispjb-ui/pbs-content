@@ -246,6 +246,8 @@ This week's Benefit Blind Spots includes a **rebate contract analysis framework*
 
 > **Visual Build Note (Carousel):** Use the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
 
+> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Ledger with Annotations** showcase from the hybrid rotation. Template #18 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **Rebate flow ledger showing gross rebate column, PBM-retained column, plan-received column with the PBM-retained column circled in red and annotation "This is the leakage column."** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
+
 **Format:** Messy Infographic
 **Pillar:** Transparency & Industry Education
 **Word Count:** ~85 words

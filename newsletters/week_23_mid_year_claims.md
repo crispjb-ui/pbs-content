@@ -262,6 +262,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 > **Visual Build Note:** Use the **Iceberg** metaphor infographic from `claude_design_prompts.md` (template #5). Claude design project type: **Prototype**. Plug in content that frames reported PBM metrics at the surface vs predictive patterns below. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
+> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Spreadsheet with Marker Overlay** showcase from the hybrid rotation. Template #17 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **12 months of PBM-reported claims across drug categories with a rising specialty row circled in red and annotation "Specialty growth 47% - why?"** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
+
 **Format:** INFO - Story-Driven
 **Pillar:** PBM Contract Insights
 **Word Count:** ~85 words

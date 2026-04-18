@@ -319,6 +319,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 > **Visual Build Note:** Use the **Funnel** metaphor infographic from `claude_design_prompts.md` (template #7). Claude design project type: **Prototype**. Plug in content that frames $100 of pharmacy spend funneling through the five H1 metrics. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
+> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Sticky Note Dashboard** showcase from the hybrid rotation. Template #14 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **Five sticky notes showing the five H1 metrics: GER, PMPM trend, Specialty %, Rebate per brand claim, High-cost claimant count. Each with your H1 number, prior year comparison, and market benchmark.** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
+
 **Format:** Messy Infographic
 **Pillar:** PBM Contract Insights
 **Word Count:** ~85 words

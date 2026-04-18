@@ -276,6 +276,8 @@ This week's Benefit Blind Spots includes the **full PBM evaluation scorecard**: 
 
 > **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
 
+> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Annotated Email Screenshot** showcase from the hybrid rotation. Template #16 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **A mock "PBM Account Manager" renewal email with generic weasel phrases (competitive, industry-leading, in line with expectations) highlighted and annotated with "what this really means" handwritten red callouts.** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
+
 **Format:** One Number Carousel (7 slides) - NEW TEMPLATE C
 **Pillar:** PBM Contract Insights
 **Word Count:** ~85 words

@@ -314,6 +314,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 > **Visual Build Note:** Use the **Mountain** metaphor infographic from `claude_design_prompts.md` (template #9). Claude design project type: **Prototype**. Plug in content that frames the 18-month pipeline climb for gene therapy and GLP-1 preparation. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
+> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Chart-on-Whiteboard** showcase from the hybrid rotation. Template #13 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **2026-2027 drug pipeline spend by category (GLP-1, Gene Therapy, Alzheimer's, Oncology, Other) shown as stacked bar with hand-lettered title "DRUG PIPELINE" (PIPELINE highlighted in cyan) and CTA "Start the coverage conversation now."** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
+
 **Format:** INFO - Comparison
 **Pillar:** Clinical Pharmacy Perspectives
 **Word Count:** ~85 words
