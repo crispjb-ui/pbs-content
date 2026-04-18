@@ -413,3 +413,270 @@ The Thursday LinkedIn feed visual is already assigned to the 3-slot evergreen ro
 7. **Upload.**
 
 Each week's newsletter file now includes a "Visual Build Note" callout under the Thursday visual section specifying the recommended format and the Claude design prompt reference. Tuesday visual sections in selected weeks also include build notes.
+
+---
+
+## Clean + Messy Hybrid Formats
+
+Formats that combine precise data (clean, defensible) with handwritten authenticity (stop-scroll, human). Higher production time than base formats (45-60 minutes first use, 20-30 minutes with saved Canva template) but the engagement pay-off is substantial. Consider making one of these a monthly recurring slot.
+
+**Why they work:** The clean element makes the visual credible to sophisticated readers. The messy element signals a real human expert did this work, not a marketing team. Bryce Platt's whiteboard chart format is a reference point here.
+
+**Tool mix for all hybrid formats:**
+1. Midjourney or DALL-E for the realistic base surface (whiteboard, corkboard, desk, document)
+2. Claude design or a chart tool for clean data rendering
+3. Canva to composite and add handwritten annotations using Caveat / Permanent Marker / Kalam fonts
+
+---
+
+## 13. Chart-on-Whiteboard
+
+```
+Create a LinkedIn infographic at 1080 x 1350 pixels showing a chart on a real-looking whiteboard.
+
+LAYER 1 BACKGROUND: Photorealistic whiteboard photographed straight-on. Gray plastic frame visible. Small tray at bottom with 3-4 dry-erase markers (red, blue, black, green). Slight reflections and marker ghosting.
+
+LAYER 2 TITLE (top 15%): Hand-lettered marker style 60pt black ink: "[TITLE]". One key word highlighted with cyan/Accent Blue (#A7E0FA) rectangle behind the word. One word underlined with red marker, slightly wobbly.
+
+LAYER 3 CHART (middle 60%): Precise bar or line chart with clean axes and values. Axis labels in marker style. Bar segments filled with hand-drawn scribble shading (colored pencil or marker hatching, NOT solid color). Chart colors from: Primary Blue #015880, Accent Blue #A7E0FA, orange-red #E67E22, yellow-green #A7C957, dark teal. Value labels above each bar in marker style. Legend bottom with scribble-filled color boxes.
+
+LAYER 4 ANNOTATION (bottom-left 15%): Hand-drawn marker arrow curving from chart to annotation. Handwritten marker text 18pt black: "[CTA]"
+
+LAYER 5 BYLINE (bottom-right 15%): Small circular headshot. Handwritten marker text two lines: "Ginny Crisp, PharmD" / "CEO, Prescription Benefit Solutions"
+
+Style: all writing imperfect but legible. Marker pressure variation. No computer typography. No logos on the whiteboard.
+
+Plug in: TITLE, HIGHLIGHTED WORD, UNDERLINED WORD, CHART TYPE, AXES, DATA, CTA.
+```
+
+**Best use:** Monthly "Data Desk" slot. Data-backed single-metric or multi-metric story.
+
+---
+
+## 14. Sticky Note Dashboard
+
+```
+Create a LinkedIn infographic at 1080 x 1350 pixels showing a dashboard of sticky notes on a corkboard.
+
+LAYER 1 BACKGROUND: Photorealistic corkboard (natural tan cork texture with some depth and grain). Slight shadow around the edges. Optional: coffee stain ring in one corner, small pushpin hole scatter pattern.
+
+LAYER 2 TITLE: Across the top, a single wider white or yellow sticky note pinned with a red or clear pushpin. Handwritten title in black marker 42pt: "[TITLE]". One key word can be circled in red marker.
+
+LAYER 3 DASHBOARD (middle, 70%): Five or six square or rectangular sticky notes arranged in a 2x3 or 3x2 grid, each a different pastel color (yellow #FFF2B3, light pink #FFD1DC, light blue #B3E0FF, mint #B3F5D1, peach #FFD9B3, lavender #E0C3FF). Each sticky note has a slight tilt (5-10 degrees, different directions) and small shadow. Each note pinned with a small plastic pushpin.
+
+On each sticky note, handwritten in black marker style:
+- One large metric number, 52pt, centered top: "[NUMBER]"
+- Label below, 16pt, bolded: "[METRIC NAME]"
+- Tiny caption below that, 12pt: "[CONTEXT]"
+
+LAYER 4 ANNOTATIONS (between sticky notes): One or two short handwritten notes in pen, 14pt: "[OBSERVATION]" with a small arrow pointing to one of the sticky notes.
+
+LAYER 5 BYLINE (bottom-right): Small handwritten marker line: "From PBS contract reviews / Ginny Crisp, PharmD"
+
+Style: realistic sticky note texture with slightly lifted corners. Pushpin shadows. No computer typography. No logos.
+
+Plug in: TITLE, 5-6 METRICS with number, label, context. 1-2 ANNOTATIONS. BYLINE if needed.
+```
+
+**Best use:** 5-metric scorecards (H1 Review Week 24, Renewal Readiness Week 37), quarterly "What We're Seeing" reports.
+
+---
+
+## 15. Marked-Up Contract Page
+
+```
+Create a LinkedIn infographic at 1080 x 1350 pixels showing a contract page with handwritten annotations.
+
+LAYER 1 BACKGROUND: Photorealistic printed contract page. Slightly off-white paper with subtle texture. Standard legal document typesetting. The paper has a slight angle (2-3 degrees tilted), visible on a dark wood desk surface. Small paperclip visible at top-left corner. Subtle shadow under the page. Optional: a pen resting diagonally across lower-right corner.
+
+LAYER 2 CONTRACT TEXT (center, 70%): Dense typeset contract text in standard serif font, approximately 12pt. Realistic legal paragraph structure with numbered sections and sub-sections. Include the exact phrases to highlight (provided below) naturally within the paragraphs. Sample structural language: "Section 4.2 Pricing. PBM shall provide competitive pricing...", "Section 6.1 Audit. Plan Sponsor may audit PBM records upon reasonable notice...", etc.
+
+LAYER 3 HIGHLIGHTS: Specific weasel phrases highlighted in yellow highlighter marker (slightly uneven strokes), 3-4 highlights total across the page. Phrases to highlight: [PROVIDE].
+
+LAYER 4 MARGIN NOTES: In the left or right margins, handwritten red pen notes in all caps or title case, 16pt, with small arrows pointing from the note to the highlighted phrase. Examples:
+- "ASK ABOUT THIS"
+- "WHO DEFINES 'REASONABLE'?"
+- "NO TEETH"
+- "MISSING GUARANTEE"
+
+LAYER 5 HEADER (top 10%): Small handwritten title in red marker 24pt: "[PAGE TITLE, e.g., 'PBM CONTRACT: WHAT TO FLAG']". Optional small red arrow pointing to first highlight.
+
+LAYER 6 BYLINE (bottom 5%): Handwritten Ginny signature and credential, small.
+
+Style: realistic paper texture. Highlighter is not perfectly straight. Red pen has slight pressure variation. No computer annotations. All callouts are handwritten.
+
+Plug in: PAGE TITLE, CONTRACT TEXT body (paragraphs), SPECIFIC PHRASES TO HIGHLIGHT, MARGIN NOTE text for each highlight.
+```
+
+**Best use:** Contract Language Library companion visuals. Week 36 Contract Red Flags. Whenever the lesson is "this specific phrase does less than you think."
+
+---
+
+## 16. Annotated Email Screenshot
+
+```
+Create a LinkedIn infographic at 1080 x 1350 pixels showing a screenshot of a PBM email with handwritten annotations overlaid.
+
+LAYER 1 BACKGROUND: Clean screenshot of an email interface, top-down view. Email interface styled neutrally (not clearly Gmail or Outlook, to avoid branding confusion). White background with subtle gray header. Subject line, From field, Date, and body all visible.
+
+LAYER 2 EMAIL CONTENT:
+- Sender: "PBM Account Manager" (generic, no real company)
+- Subject: "[SUBJECT LINE, e.g., 'Q2 Rebate Performance Update']"
+- Date: a recent date
+- Body: three or four short paragraphs of realistic PBM boilerplate language. Include exact weasel phrases to be highlighted. Style: professional, vaguely reassuring, nothing specific. Example fragments: "pleased to report competitive performance", "industry-leading rebate structure", "in line with contractual expectations", "market-appropriate pricing".
+
+LAYER 3 HIGHLIGHTS: 3-4 phrases in the email body highlighted with yellow or cyan (Accent Blue #A7E0FA) marker strokes, slightly uneven.
+
+LAYER 4 HANDWRITTEN ANNOTATIONS: Red marker annotations around and between the email text, hand-drawn arrows pointing to each highlighted phrase. Annotations in handwritten style, 16pt:
+- "What does 'competitive' actually mean?"
+- "Industry-leading vs market-trailing? No benchmark shown."
+- "= unverifiable"
+- "Ask for the specific number."
+
+LAYER 5 BORDER/CHROME: The email screenshot sits on a slight angle (2-3 degrees) on a neutral surface. Drop shadow under the screenshot.
+
+LAYER 6 HEADER (top 10%): Small handwritten title in black marker 26pt: "[TITLE, e.g., 'YOUR PBM Q2 EMAIL, DECODED']". Small red arrow pointing to first highlight.
+
+LAYER 7 BYLINE (bottom 5%): Handwritten Ginny signature small.
+
+Style: realistic screenshot with legible pseudo-email. Handwritten overlays only. No computer-set callouts. No real company names or logos.
+
+Plug in: EMAIL SUBJECT, EMAIL BODY, PHRASES TO HIGHLIGHT, ANNOTATIONS for each.
+```
+
+**Best use:** "What your PBM sent you vs what it means" posts. Week 20 Manufacturer Programs. Any time the lesson is "their language is designed to look professional and say nothing."
+
+---
+
+## 17. Spreadsheet with Marker Overlay
+
+```
+Create a LinkedIn infographic at 1080 x 1350 pixels showing a spreadsheet screenshot with handwritten marker annotations.
+
+LAYER 1 BACKGROUND: Clean Excel-style grid interface, top-down. Standard gray header row with column letters A-F or so. Row numbers 1-15. White cells with thin gray borders.
+
+LAYER 2 SPREADSHEET CONTENT:
+- Row 1: Column headers (e.g., "Drug", "Q1 Spend", "Q2 Spend", "Q3 Spend", "Q4 Spend", "Total")
+- Rows 2-12: Realistic claims data. Drug names should be plausible but generic (e.g., "Specialty Drug A", "Brand Drug B", or use real drug category labels). Dollar amounts across quarters trending in some meaningful pattern (growth, anomaly, decline).
+- Row 13: Total row with summed values.
+
+LAYER 3 HIGHLIGHTS: One or two rows highlighted with a pale yellow fill. One specific cell circled in red marker with visible ink variation. One column header underlined with red marker.
+
+LAYER 4 HANDWRITTEN ANNOTATIONS:
+- Hand-drawn red arrow pointing to the circled cell with annotation, 14pt marker: "[e.g., '47% growth. Why?']"
+- Second annotation pointing to the highlighted row: "[e.g., 'Specialty concentration rising']"
+- Optional third annotation at the total row: "[e.g., 'Trend exceeds market benchmark']"
+
+LAYER 5 HEADER (top 10%): Handwritten marker title 26pt: "[TITLE, e.g., 'MID-YEAR CLAIMS DATA: THREE FLAGS']"
+
+LAYER 6 SURFACE: Spreadsheet sits on a slight angle on a neutral desk surface with drop shadow.
+
+LAYER 7 BYLINE (bottom 5%): Handwritten Ginny small.
+
+Style: the spreadsheet grid and data must look clean and precise. The annotations are the ONLY hand-drawn elements. This creates the clean/messy contrast.
+
+Plug in: TITLE, COLUMN HEADERS, ROW DATA (drug names + quarterly values), HIGHLIGHTED ROWS/CELLS, ANNOTATIONS.
+```
+
+**Best use:** Week 23 Mid-Year Claims. Week 24 H1 Review. Any post where "the data was telling a story nobody was reading."
+
+---
+
+## 18. Ledger with Handwritten Annotations
+
+```
+Create a LinkedIn infographic at 1080 x 1350 pixels showing an accountant's ledger page with handwritten entries and marker annotations.
+
+LAYER 1 BACKGROUND: Photorealistic ledger paper. Yellow-tan lined ledger with thin blue horizontal rules and red vertical column dividers. Standard accountant's ledger proportions. Slight paper texture and edge wear.
+
+LAYER 2 LEDGER CONTENT:
+- Column headers in neat handwritten black ink at the top: "[HEADERS, e.g., 'Date | Service | Gross Rebate | PBM Retained | Plan Received']"
+- 8-12 rows of entries, all in handwritten pen (black ink, consistent but human). Realistic entries with dollar amounts across columns.
+- Totals row at the bottom with double underline in black pen.
+
+LAYER 3 ANNOTATIONS: Red pen margin notes and arrows:
+- One column circled in red, arrow pointing to it: "[e.g., 'This column is where the leakage lives']"
+- Question marks in the margin next to 2-3 rows: "?"
+- One row highlighted with yellow marker: "[e.g., pattern worth flagging]"
+- A hand-drawn bracket on the right side grouping several rows with a label: "[e.g., 'Admin fees buried']"
+
+LAYER 4 HEADER (top 10%): Handwritten title at the top in black pen, larger than row entries, 28pt: "[TITLE, e.g., 'WHAT YOUR PBM REPORT ACTUALLY SHOWS']". Optional red underline under one word.
+
+LAYER 5 SURFACE: Ledger sits on a dark wood desk. Small wood-barrel pen resting diagonally on the upper-right corner. Slight shadow.
+
+LAYER 6 BYLINE (bottom 5%): Small handwritten line: "— Ginny Crisp, PharmD"
+
+Style: the ledger itself is tidy handwriting, legible, consistent. The red annotations are more urgent and varied in size. The juxtaposition of tidy ledger + urgent red marker is the point.
+
+Plug in: TITLE, COLUMN HEADERS, ROW DATA, ANNOTATIONS.
+```
+
+**Best use:** Week 29 Rebate Economics. Week 11 Hidden PBM Revenue follow-up. Any "follow the money" topic.
+
+---
+
+## 19. Prescription Pad with Annotations
+
+```
+Create a LinkedIn infographic at 1080 x 1350 pixels showing a prescription pad with printed and handwritten content plus red annotations.
+
+LAYER 1 BACKGROUND: Photorealistic Rx prescription pad. Standard pad dimensions (roughly 4.5 x 6 inches) scaled up to fill most of the canvas. Pale blue or white paper. Top of pad shows printed letterhead area (generic, no real clinic name): "PATIENT NAME:", "DATE:", "Rx:", "REFILLS:", "SIGNATURE:". Small printed Rx symbol in top-left. Bottom edge of pad slightly curled.
+
+LAYER 2 PRINTED + HANDWRITTEN CONTENT:
+- Patient name line filled in handwritten script (generic): "[Member]"
+- Date filled in
+- Rx line: a drug name (real, common, illustrative), dose, and quantity written in physician script
+- Refills line: a number
+- Signature line: illegible scrawl
+
+LAYER 3 RED ANNOTATIONS: Red marker hand-drawn arrows from margins pointing to specific elements. Handwritten marker notes in the margins, 16pt:
+- "[e.g., 'PA required even though patient stable']"
+- "[e.g., 'Prescriber documented. Why a full review?']"
+- "[e.g., '11 days to approval']"
+Red underline under the drug name. Red circle around the PA requirement or other flag.
+
+LAYER 4 HEADER (top 10%): Handwritten marker title just above the prescription pad in larger text, 32pt: "[TITLE, e.g., 'WHERE PRIOR AUTH BURDEN HURTS']"
+
+LAYER 5 SURFACE: Prescription pad sits on a clean clinical or desk surface. Optional stethoscope or pen visible at edge of frame (suggesting medical setting without being busy).
+
+LAYER 6 BYLINE (bottom 5%): Small handwritten line with Ginny's name and clinical pharmacist credential.
+
+Style: pad and printed text look authentic. Handwritten prescription content looks like real physician handwriting (slightly illegible where appropriate, clearly a drug name). Red annotations are urgent and visible.
+
+Plug in: TITLE, DRUG NAME, MEMBER NAME (generic), ANNOTATIONS.
+```
+
+**Best use:** Week 16 Prior Authorization. Week 21 Compounding. Week 32 Clinical Program ROI. Any clinical pharmacy topic where the lesson is about physician/patient friction.
+
+---
+
+## Hybrid format summary and production cost
+
+| Format | Best for | First build | Subsequent builds |
+|--------|----------|-------------|-------------------|
+| 13. Chart-on-Whiteboard | Data-driven monthly showcase | 60 min | 20-30 min |
+| 14. Sticky Note Dashboard | 5-metric scorecards | 45 min | 15-20 min |
+| 15. Marked-Up Contract Page | Contract language lessons | 60 min | 30-40 min |
+| 16. Annotated Email Screenshot | PBM language decode | 45 min | 20-25 min |
+| 17. Spreadsheet with Marker Overlay | Claims data stories | 50 min | 20-30 min |
+| 18. Ledger with Annotations | Follow-the-money topics | 60 min | 25-35 min |
+| 19. Prescription Pad with Annotations | Clinical/PA friction | 45 min | 20-25 min |
+
+**Strategic note:** These are higher production cost per piece than the base formats, but they produce the highest engagement and the most "save" behavior. Rotate one hybrid format per month (not per week) to keep the effort sustainable.
+
+---
+
+## Recommended hybrid format monthly rotation
+
+Consider running one hybrid format per month as a signature Tuesday or Thursday visual:
+
+| Month | Format | Week | Topic |
+|-------|--------|------|-------|
+| May | Chart-on-Whiteboard | 18 | Drug pipeline spend projections 2026-2027 |
+| June | Spreadsheet + Marker | 23 | Mid-year claims data patterns |
+| July | Sticky Note Dashboard | 24 | H1 review five metrics |
+| August | Annotated Email | 27 | "Your renewal email decoded" |
+| September | Ledger + Annotations | 29 | Rebate retention visualization |
+| October | Marked-Up Contract Page | 31 | RFP question-by-question markup |
+| November | Sticky Note Dashboard | 34 | Specialty management factors |
+| December | Marked-Up Contract Page | 36 | Contract red flags with margin notes |
