@@ -299,6 +299,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 ## Post 65 - Tuesday 8:30 AM
 ### "What Your PBM Audit Should Actually Cover" (Carousel)
 
+> **Visual Build Note:** Use the **Tree** metaphor infographic from `claude_design_prompts.md` (template #11). Claude design project type: **Prototype**. Plug in content that frames fiduciary outcomes growing from documented process roots. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Carousel (7 slides)
 **Pillar:** PBM Contracts
 **Word Count:** ~90 words

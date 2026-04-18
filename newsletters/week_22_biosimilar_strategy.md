@@ -273,6 +273,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ## Post 77 - Tuesday 8:30 AM
 ### "How PBM Spread Pricing Works" (Infographic)
 
+> **Visual Build Note:** Use the **Bridge** metaphor infographic from `claude_design_prompts.md` (template #6). Claude design project type: **Prototype**. Plug in content that frames brand biologic to biosimilar, walking through the rebate economics. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** INFO - Educational Explainer
 **Pillar:** Transparency & Industry Education
 **Word Count:** ~85 words

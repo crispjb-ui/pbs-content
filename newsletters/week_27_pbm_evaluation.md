@@ -272,6 +272,10 @@ This week's Benefit Blind Spots includes the **full PBM evaluation scorecard**: 
 ## Post 97 - Tuesday 10:00 AM
 ### "Five Signs Your PBM Relationship Has Run Its Course" (One Number Carousel)
 
+> **Visual Build Note:** Use the **Door** metaphor infographic from `claude_design_prompts.md` (template #10). Claude design project type: **Prototype**. Plug in content that frames the stay-or-switch door, what is behind each option. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
+> **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+
 **Format:** One Number Carousel (7 slides) - NEW TEMPLATE C
 **Pillar:** PBM Contract Insights
 **Word Count:** ~85 words

@@ -225,6 +225,10 @@ This week's Benefit Blind Spots includes a **PBM RFP question bank**: 30 questio
 ## Post 113 - Tuesday 10:00 AM
 ### "RFP Questions Your PBM Hopes You Never Ask" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Door** metaphor infographic from `claude_design_prompts.md` (template #10). Claude design project type: **Prototype**. Plug in content that frames RFP questions as doors into PBM operations. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
+> **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+
 **Format:** Messy Infographic
 **Pillar:** PBM Contract Insights
 **Word Count:** ~85 words

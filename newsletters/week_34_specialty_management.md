@@ -195,6 +195,8 @@ This week's Benefit Blind Spots includes a **specialty drug management assessmen
 ## Post 125 - Tuesday 10:00 AM
 ### "The Specialty Drug Management Gap" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Tree** metaphor infographic from `claude_design_prompts.md` (template #11). Claude design project type: **Prototype**. Plug in content that frames specialty outcomes growing from management levers below. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Messy Infographic
 **Pillar:** Clinical Pharmacy Perspectives
 **Word Count:** ~85 words

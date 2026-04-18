@@ -292,6 +292,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ## Post 93 - Tuesday 10:00 AM
 ### "The Formulary Decision You Never Made" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Tree** metaphor infographic from `claude_design_prompts.md` (template #11). Claude design project type: **Prototype**. Plug in content that frames formulary decisions growing from P&T + rebate contract roots. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Messy Infographic
 **Pillar:** Transparency & Industry Education
 **Word Count:** ~85 words

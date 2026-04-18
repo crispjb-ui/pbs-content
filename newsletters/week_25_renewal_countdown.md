@@ -284,6 +284,10 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ## Post 89 - Tuesday 8:30 AM
 ### "What the Best Brokers Are Doing Right Now for Renewal" (Whiteboard Carousel)
 
+> **Visual Build Note:** Use the **Mountain** metaphor infographic from `claude_design_prompts.md` (template #9). Claude design project type: **Prototype**. Plug in content that frames the 90-day climb: three phases, twelve weeks, summit at renewal. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
+> **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+
 **Format:** Whiteboard Carousel (7 slides) - NEW TEMPLATE A
 **Pillar:** Broker/Consultant Resources
 **Word Count:** ~85 words

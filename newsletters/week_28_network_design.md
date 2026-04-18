@@ -224,6 +224,8 @@ This week's Benefit Blind Spots includes a **network cost comparison model**: a 
 ## Post 101 - Tuesday 10:00 AM
 ### "Where Your Members Fill Prescriptions Costs You More Than What They Fill" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Funnel** metaphor infographic from `claude_design_prompts.md` (template #7). Claude design project type: **Prototype**. Plug in content that frames same script funneling through retail, mail, and specialty channels. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Messy Infographic
 **Pillar:** Cost Containment Strategies
 **Word Count:** ~85 words

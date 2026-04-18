@@ -260,6 +260,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ## Post 81 - Tuesday 8:30 AM
 ### "The Contract Clause That Saved a Client Six Figures" (Infographic)
 
+> **Visual Build Note:** Use the **Iceberg** metaphor infographic from `claude_design_prompts.md` (template #5). Claude design project type: **Prototype**. Plug in content that frames reported PBM metrics at the surface vs predictive patterns below. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** INFO - Story-Driven
 **Pillar:** PBM Contract Insights
 **Word Count:** ~85 words

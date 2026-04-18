@@ -312,6 +312,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ## Post 61 - Tuesday 8:30 AM
 ### "GLP-1s: What Changed in 90 Days" (Infographic)
 
+> **Visual Build Note:** Use the **Mountain** metaphor infographic from `claude_design_prompts.md` (template #9). Claude design project type: **Prototype**. Plug in content that frames the 18-month pipeline climb for gene therapy and GLP-1 preparation. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** INFO - Comparison
 **Pillar:** Clinical Pharmacy Perspectives
 **Word Count:** ~85 words

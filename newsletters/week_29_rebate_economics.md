@@ -242,6 +242,10 @@ This week's Benefit Blind Spots includes a **rebate contract analysis framework*
 ## Post 105 - Tuesday 10:00 AM
 ### "Follow the Rebate Dollar" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Iceberg** metaphor infographic from `claude_design_prompts.md` (template #5). Claude design project type: **Prototype**. Plug in content that frames reported rebate performance at surface vs margin retention below. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
+> **Visual Build Note (Carousel):** Use the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+
 **Format:** Messy Infographic
 **Pillar:** Transparency & Industry Education
 **Word Count:** ~85 words

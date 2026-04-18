@@ -282,6 +282,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ## Post 69 - Tuesday 8:30 AM
 ### "Specialty Pharmacy Steering: Who Chose Your Pharmacy?" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Iceberg** metaphor infographic from `claude_design_prompts.md` (template #5). Claude design project type: **Prototype**. Plug in content that frames visible copay card savings vs submerged plan cost. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Messy Infographic
 **Pillar:** Cost Containment
 **Word Count:** ~85 words

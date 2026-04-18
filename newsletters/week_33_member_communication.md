@@ -208,6 +208,8 @@ This week's Benefit Blind Spots includes a **communication template library**: f
 ## Post 121 - Tuesday 10:00 AM
 ### "Why Members Reject Good Benefit Changes" (Infographic)
 
+> **Visual Build Note:** Use the **Bridge** metaphor infographic from `claude_design_prompts.md` (template #6). Claude design project type: **Prototype**. Plug in content that frames benefit change to member understanding, the communication bridge. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Standard Infographic (INFO - Before/After)
 **Pillar:** Broker/Consultant Resources
 **Word Count:** ~85 words

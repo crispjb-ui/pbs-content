@@ -188,6 +188,10 @@ This week's Benefit Blind Spots includes a **contract language comparison librar
 ## Post 133 - Tuesday 10:00 AM
 ### "Contract Language: What They Say vs. What It Means" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Door** metaphor infographic from `claude_design_prompts.md` (template #10). Claude design project type: **Prototype**. Plug in content that frames each red flag provision as a closed door worth opening. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
+> **Visual Build Note (Carousel):** Use the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+
 **Format:** Messy Infographic
 **Word Count:** ~85 words
 

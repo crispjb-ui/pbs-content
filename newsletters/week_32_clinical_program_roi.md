@@ -209,6 +209,8 @@ This week's Benefit Blind Spots includes a **clinical program evaluation scoreca
 ## Post 117 - Tuesday 10:00 AM
 ### "What Your PBM's Clinical Programs Actually Deliver" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Funnel** metaphor infographic from `claude_design_prompts.md` (template #7). Claude design project type: **Prototype**. Plug in content that frames clinical program spend funneling toward claimed savings. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Messy Infographic
 **Pillar:** Clinical Pharmacy Perspectives
 **Word Count:** ~85 words

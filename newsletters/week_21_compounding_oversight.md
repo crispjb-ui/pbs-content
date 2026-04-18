@@ -289,6 +289,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 ## Post 73 - Tuesday 8:30 AM
 ### Renewal Season Checklist: 5 Things to Lock Down Now (Carousel)
 
+> **Visual Build Note:** Use the **Maze** metaphor infographic from `claude_design_prompts.md` (template #12). Claude design project type: **Prototype**. Plug in content that frames the compounding claims audit path through denials and appeals. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Carousel (7 slides)
 **Pillar:** Self-Funded Guidance
 **Word Count:** ~90 words

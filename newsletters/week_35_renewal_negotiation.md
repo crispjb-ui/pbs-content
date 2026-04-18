@@ -205,6 +205,10 @@ This week's Benefit Blind Spots includes a **renewal negotiation checklist**: 12
 ## Post 129 - Tuesday 10:00 AM
 ### "12 Contract Provisions That Determine Renewal" (Contract Markup Carousel - Template B)
 
+> **Visual Build Note:** Use the **Stopwatch** metaphor infographic from `claude_design_prompts.md` (template #8). Claude design project type: **Prototype**. Plug in content that frames negotiation response windows, how quickly the PBM moves. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
+> **Visual Build Note (Carousel):** Use the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+
 **Format:** Contract Markup Carousel (7 slides) - Template B
 **Word Count:** ~85 words
 

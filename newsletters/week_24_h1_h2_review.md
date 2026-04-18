@@ -317,6 +317,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ## Post 85 - Tuesday 8:30 AM
 ### "Contract Language That Changed Our Clients' Outcomes" (Messy Infographic)
 
+> **Visual Build Note:** Use the **Funnel** metaphor infographic from `claude_design_prompts.md` (template #7). Claude design project type: **Prototype**. Plug in content that frames $100 of pharmacy spend funneling through the five H1 metrics. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+
 **Format:** Messy Infographic
 **Pillar:** PBM Contract Insights
 **Word Count:** ~85 words
