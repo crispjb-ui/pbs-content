@@ -359,7 +359,9 @@ Not because they are hidden. Because the definitions section is where the real t
 4. "Audit period" - shorter than useful
 5. "Rebate guarantee" - gross vs. net matters
 
-The language is there. The definitions change everything. And the Visibility Gap between what you agreed to and what those definitions actually allow is where cost hides.
+We review ~100 PBM contracts a year. These five definitions appear in most of them, and they rarely survive a line-by-line redline without changes.
+
+The language is there. The definitions change everything.
 
 #PBMContracts #SelfFundedEmployers #ContractLanguage #PharmacyBenefits
 
@@ -410,23 +412,23 @@ Ginny Crisp breaks down the language that changes everything about your pharmacy
 
 #### Post Copy
 
-Ask your PBM about carving out pharmacy from your medical benefit administration.
+We ran a carve-out comparison for a mid-size self-funded employer last quarter.
 
-Watch the reaction.
+The bundled PBM's retention offer came back before the carved-out RFP had even closed. New pricing. New transparency provisions. Reporting the employer had been asking for, that had never been on the table before.
 
-They will tell you it is disruptive. Complex. Risky. That you will lose bundled pricing advantages.
+All of it was available the entire time. Nobody offered it because nobody forced the conversation.
 
-What they will not tell you is that bundling is how they control your data, your rebate flow, and your negotiating position at renewal.
+That retention offer is the signal. It is the floor the PBM was willing to reach all along. Everything above that floor was margin the employer did not know they were paying.
 
-I have sat in these conversations. The objections follow a script. Disruption to members. Integration complexity. Loss of combined medical/pharmacy analytics. Some of those objections are legitimate. Some are designed to keep you from asking the next question: what does the carve-out comparison actually show?
+Every carve-out evaluation we run surfaces some version of this pattern. The decision to carve out is the smaller decision. The decision to evaluate is the bigger one, because it is the decision that forces the PBM to show what they could have offered all along.
 
-We run these comparisons regularly. In some cases, the bundled arrangement genuinely serves the plan. The integrated data, the administrative simplicity, the combined pricing guarantee. Those are real advantages for certain plan structures. In other cases, the bundled arrangement serves the PBM. The data stays with them. The rebate flow stays with them. The employer's ability to evaluate alternatives stays limited because they cannot access their own claims data independently.
+Some employers stay bundled after the analysis. That can be the right answer when the integrated data genuinely drives clinical value or when a lean benefits team cannot support a separate vendor relationship. Those advantages are real for certain plan structures.
 
-The difference between those two situations is not obvious from the PBM's reports. It requires an independent analysis that your broker or consultant can help you structure.
+But the employers who never run the evaluation are the ones their PBM profits from most.
 
-Some employers should carve out. Some should not. But the employers who never evaluate the option are the ones their PBM profits from most.
+Your PBM has a financial interest in you never asking the question. Your broker can structure the evaluation either way.
 
-Your PBM has a financial interest in you never asking the question. That alone should tell you something.
+Start the evaluation anyway.
 
 #### VIDEO SCRIPT OPTION (50 seconds, filmed on phone)
 
@@ -632,17 +634,17 @@ Ginny Crisp walks through the scoring framework for deciding which model fits yo
 
 #### Post Copy
 
-Your PBM knows which drugs are launching next quarter. They have already modeled the cost impact on your plan.
+Your PBM has already modeled the oral GLP-1 under FDA review. The next anti-amyloid Alzheimer's infusion at $26,000 a year. The biosimilar to one of your top-5 rebate drugs.
 
 You probably have not heard about any of them yet.
 
-FDA advisory committees. PDUFA dates. Pipeline tracking. The information is publicly available. Your PBM's specialty team is using it right now to position their formulary and negotiate manufacturer contracts.
+FDA advisory committee schedules are public. PDUFA target action dates are published. Their specialty team has manufacturer contracts negotiating right now, positioned around whichever formulary decision saves them the most margin.
 
 Most employers learn about new drug approvals from claims data. After the launch. After coverage defaulted to the PBM's standard position. After members started therapy at full cost.
 
-That is not a timing problem. It is an information asymmetry problem. The same kind that shows up in every part of the PBM relationship.
+We had an employer last quarter get a gene therapy claim with no advance notice. No coverage position. No stop-loss coordination. The information was available months earlier. It just never reached them.
 
-Next week: how to monitor what is coming instead of reacting to what already arrived.
+Next week: how to run a quarterly pipeline review so the intelligence reaches you instead of the claims department.
 
 ---
 
