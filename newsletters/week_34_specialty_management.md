@@ -245,9 +245,9 @@ Ginny Crisp maps the eight specialty management levers and where the gaps usuall
 
 #### Post Copy
 
-Specialty pharmacy is the fastest-growing line item in your benefit plan. It is also the least independently managed.
+Specialty drives the majority of your pharmacy spend on a single-digit share of prescriptions. It is also the part of your benefit plan with the least independent oversight.
 
-Your PBM manages specialty routing. They manage the specialty formulary. They manage the authorization criteria. They report the savings. And in many cases, they own the specialty pharmacy that fills the prescriptions.
+Your PBM manages specialty routing, the specialty formulary, the authorization criteria, and the savings methodology. In many cases, they also own the specialty pharmacy that fills the prescriptions.
 
 At no point in that chain does the employer's cost objective enter the equation unless the contract requires it. The routing was designed for PBM economics. The formulary reflects rebate negotiations. The authorization criteria were set by the PBM's clinical team. The savings report uses the PBM's methodology.
 
@@ -255,7 +255,7 @@ I am not saying PBMs do a poor job managing specialty. Many have strong clinical
 
 Eight levers determine whether specialty cost is controlled: formulary management, site-of-care, step therapy, biosimilar adoption, limited distribution access, copay programs, clinical pathways, and reauthorization. Most plans we review have strong positions on two or three. Gaps on the rest.
 
-The gap between managed and unmanaged specialty compounds every quarter. Every authorization that runs on autopilot, every routing decision that defaults to the PBM's pharmacy, every biosimilar that sits at non-preferred tier: these are recurring costs.
+The gap compounds every quarter on every authorization that runs on autopilot and every biosimilar that sits at non-preferred tier.
 
 Start with one question: which of the eight levers has the largest gap on your plan?
 

@@ -282,17 +282,15 @@ You sent a 50-page RFP. Your PBM sent a 50-page response. Neither document tells
 
 PBM RFP responses are engineered to win evaluations. Every response team knows exactly how to present pricing, rebates, and clinical programs in the most favorable light. That is their job. They are good at it.
 
-The problem is not that PBMs give bad answers. It is that standard RFP questions allow good-sounding answers that commit to nothing specific.
+Standard RFP questions allow good-sounding answers that commit to nothing specific.
 
 "What is your discount off AWP?" Every PBM quotes a competitive number. But which AWP source? Applied to ingredient cost or total claim cost? With what exclusions? The headline number means nothing without the methodology behind it.
 
 "Do you offer clinical management programs?" Every PBM says yes. But can you audit the savings methodology? Can you verify a single dollar of claimed savings independently? Are the programs producing clinical value or administrative friction?
 
-I have evaluated PBM proposals where three responses looked competitive on paper. When we normalized the methodologies and asked specific follow-up questions, one was substantially more expensive than the others despite appearing cheapest.
+I have evaluated PBM proposals where three responses looked competitive on paper. When we normalized the methodologies and asked specific follow-up questions, one was substantially more expensive than the others despite appearing cheapest on the cover page.
 
-The fix is not a longer RFP. It is better questions. Questions that force specificity. Questions where a vague answer is itself a red flag. Questions with scoring criteria that distinguish between commitment and spin.
-
-Your broker can add this layer of specificity. The best ones already do.
+The fix is not a longer RFP. It is 30 specific follow-up questions with 0-3 scoring on each answer, where a vague response costs points. Your broker can add that layer. The best ones already do.
 
 ---
 

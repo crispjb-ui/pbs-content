@@ -255,19 +255,19 @@ Ginny Crisp covers what members hear versus what employers intend.
 
 #### Post Copy
 
-You saved your plan six figures by switching to a biosimilar. Your members think you took away their medication.
+You saved your plan six figures by moving from Humira to an adalimumab biosimilar. Your members think you took away their medication.
 
 That disconnect is not a failure of the clinical decision. It is a failure of the communication.
 
-We helped two employers implement the same biosimilar transition program. Same drug. Same PBM. Same clinical rationale. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. Zero.
+We helped two employers implement the same adalimumab biosimilar transition last year. Same drug. Same PBM. Same clinical rationale. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. Zero.
 
 The difference: timing, specificity, and coordination. The first employer sent a generic formulary change letter 14 days before the switch. Prescribers were not notified. The call center was not briefed. Members called their doctor. The doctor did not know. Both called HR.
 
-The second employer sent a specific letter 45 days out, naming the drug, explaining the clinical equivalence, confirming the doctor was informed. Prescribers received a clinical summary 60 days before. The call center had the FAQ. The member's first question was answered before they had to ask it.
+The second employer sent a specific letter 45 days out, naming the drug, explaining the clinical equivalence, confirming the prescribing rheumatologist was informed. Prescribers received a clinical summary 60 days before. The call center had the FAQ. The member's first question was answered before they had to ask it.
 
 Pharmacy changes are uniquely sensitive because members associate drug changes with quality-of-care changes. "Biosimilar transition" sounds like "cheaper substitute" to a member who does not know the clinical evidence. "Prior authorization" sounds like "barrier" to someone who needs medication.
 
-The fix is not better clinical rationale. It is better messaging. Specific. Early. Coordinated with prescribers first. The communication is not the afterthought. It is the implementation.
+The fix is not better clinical rationale. It is better messaging: specific, early, and coordinated with prescribers before anyone writes to members. The communication is the implementation.
 
 ---
 

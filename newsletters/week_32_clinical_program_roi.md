@@ -254,17 +254,17 @@ Ginny Crisp walks through the gap between what the PBM reports and what actually
 
 #### Post Copy
 
-Your PBM reports $3 million in clinical program savings. Can you verify a single dollar?
+Your PBM's latest report attributes seven figures to clinical program savings. Can you verify a single dollar of it?
 
 Prior authorization. Step therapy. Quantity limits. Drug utilization review. Medication therapy management. Specialty management. Six programs. Six reported savings numbers. Six methodologies you have probably never seen.
 
-Here is what the methodologies typically look like when we audit them. PA counts the full cost of every denied claim as "savings," even though most denied members fill an alternative drug that also costs the plan money. Step therapy credits itself with every member who started on the lower-cost drug, even those who would have been prescribed it without the step. DUR counts every alert as a savings event, even though most alerts are overridden by pharmacists because they are clinically irrelevant.
+Here is what those methodologies typically look like when we audit them. PA counts the full cost of every denied claim as "savings," even though most denied members fill an alternative drug that also costs the plan money. Step therapy credits itself with every member who started on the lower-cost drug, even those who would have been prescribed it without the step. DUR counts every alert as a savings event, even though most alerts are overridden by pharmacists because they are clinically irrelevant.
 
 I am not saying these programs have no value. Some are genuinely important. PA prevents inappropriate utilization. DUR catches real safety issues. Step therapy, when designed well, ensures cost-effective alternatives are tried first.
 
 But the gap between reported savings and verified savings is consistent across almost every audit we conduct. The headline number is constructed by the PBM using assumptions the PBM chose, applied to data the PBM controls.
 
-One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If they cannot provide it, the number is a marketing metric, not a financial metric.
+One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If the PBM cannot produce it, the number is a marketing metric, not a financial metric.
 
 ---
 
