@@ -300,13 +300,13 @@ Ginny Crisp breaks down the five-channel cost model most employers have never co
 
 Same drug. Retail pharmacy: one price. Mail order: different price. Specialty pharmacy: another price entirely. Same PBM managing all three channels.
 
-The channel where your member fills the prescription can change the cost more than the drug itself. That is not an exaggeration. We see it in claims data constantly.
+The channel where your member fills the prescription can change the cost more than the drug itself. We see it in claims data across every review we run.
 
-A maintenance medication that costs your plan one amount at retail may cost meaningfully less through mail order. A specialty drug administered at a hospital outpatient facility may cost a fraction of that amount through a white bagging arrangement that routes it through the pharmacy benefit instead.
+Atorvastatin on a 30-day retail fill runs one amount. The same NDC through a 90-day mail-order fill runs meaningfully less. A biologic on the Humira or Stelara tier administered at a hospital outpatient facility can cost a fraction of what it costs through a white-bagged arrangement that routes it through the pharmacy benefit.
 
-The math is straightforward. But most employers never see it because PBM reporting presents pharmacy cost in aggregate. Total spend. Total claims. Total rebates. The comparison that matters, cost per script by channel for the same drug, is almost never presented by the PBM. It has to be requested. Sometimes it has to be calculated independently.
+The math is not hidden. Most employers never see it because PBM reporting presents pharmacy cost in aggregate. Total spend. Total claims. Total rebates. The comparison that matters, cost per script by channel for the same NDC, is almost never presented by the PBM. It has to be requested. Sometimes it has to be calculated independently.
 
-Why would the PBM not present this comparison proactively? Because the default routing may serve the PBM's network margins more than the plan's cost objectives. Particularly in specialty, where the PBM often owns the dispensing pharmacy. The routing was designed for PBM economics. Whether it was designed for yours is a question worth asking.
+Why would the PBM not present this comparison proactively? The default routing serves their network margins more than the plan's cost objectives. Particularly in specialty, where the PBM often owns the dispensing pharmacy. The routing was designed for PBM economics. Whether it was designed for yours is a question worth asking.
 
 One data request: net cost per script by dispensing channel, for your top 10 drugs by spend. That comparison tells the network design story.
 

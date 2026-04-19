@@ -555,7 +555,7 @@ The full 90-day renewal preparation timeline is in this week's Pharmacy Benefits
 - **Format:** Carousel (6 slides)
 - **Pillar:** Transparency & Industry Education
 - **Topic:** 5 Questions About Your PBM Contract Renewal
-- **Hook:** "Five questions your PBM hopes you do not ask before you sign the renewal. Ask all five anyway."
+- **Hook:** "Five questions we ask every renewal review. Four out of five clients had never raised any of them before we did."
 
 **Content outline (5 confrontational questions, each with one-line why-it-matters):**
 - Slide 1 (Hook): "5 Questions About Your PBM Contract Renewal." Accent Blue swipe indicator.
