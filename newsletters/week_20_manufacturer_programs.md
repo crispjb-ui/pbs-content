@@ -294,14 +294,15 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 Your specialty pharmacy was probably chosen by your PBM, not your plan.
 
-PBMs default specialty prescriptions to their own pharmacies or preferred partners. Limited distribution networks restrict where members can fill. White bagging requirements route drugs through specific channels.
+We see the pattern across contract reviews. Specialty scripts default to PBM-owned pharmacies. Limited distribution networks narrow where members can fill a biologic on the Humira, Stelara, or Enbrel tier. White bagging moves dispensing revenue into the PBM's channel regardless of how your medical network is set up.
 
-Who benefits from this routing:
-- PBM-owned specialty pharmacies capture margin
-- Limited networks reduce competition
-- White bagging shifts dispensing revenue
+Three questions your broker can pull from the contract:
 
-The question is not whether PBM steering happens. It is whether the steering serves your plan or your PBM's revenue. Your broker or consultant can help you evaluate the network terms in your contract.
+1. What percentage of your specialty spend flows through a PBM-affiliated pharmacy?
+2. What margin sits between acquisition cost and what your plan pays on a limited-distribution drug?
+3. Does the contract allow an independent specialty carve-out?
+
+The network terms are already in writing. Most plans never pull them.
 
 #PharmacyBenefits #SpecialtyPharmacy #CostContainment #SelfFundedEmployers
 

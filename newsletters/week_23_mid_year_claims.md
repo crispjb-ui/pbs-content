@@ -274,11 +274,11 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 One contract clause. One audit finding. Six figures back to the plan.
 
-A client's PBM contract included a minimum rebate guarantee with an annual true-up provision. When we audited the rebate performance, the PBM had fallen short of the guarantee. The true-up was owed. The employer did not know it existed.
+A client's PBM contract included a minimum rebate guarantee with an annual true-up provision. When we audited the rebate performance, the PBM had fallen short of the guarantee. The true-up was owed. The employer did not know the provision was there.
 
-The clause was in the contract. The shortfall was in the data. The money was recoverable because someone read both documents together.
+The clause had been in the contract the entire three-year term. Nobody had cross-referenced it against the annual rebate performance data. That cross-reference is the audit.
 
-Contract language only protects you if someone enforces it.
+Contract language only protects the plan if someone enforces it.
 
 #PharmacyBenefits #PBMContracts #AuditRights #SelfFundedEmployers
 

@@ -326,13 +326,15 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 #### Post Copy
 
-Three months ago, GLP-1 coverage looked one way. Today it looks different.
+90 days ago, your GLP-1 formulary was sized for diabetes and obesity.
 
-New formulations entering the market. Payer coverage policies shifting. Manufacturer pricing strategies evolving. Indication expansion changing who qualifies.
+Today, GLP-1s have FDA-approved indications in sleep apnea, cardiovascular risk reduction, and chronic kidney disease. NASH trials are reading out. Oral GLP-1s are advancing toward approval. Biosimilar competition is starting on the first-generation agents.
 
-The GLP-1 landscape is moving faster than most plan sponsors realize. What your formulary covered 90 days ago may not reflect today's options or today's costs.
+Every one of those shifts changes which members qualify, what step therapy should look like, and what the PBM is already negotiating on your behalf.
 
-If you have not revisited your GLP-1 strategy recently, the market has already moved past your last decision.
+Your formulary was last written when GLP-1 meant two indications. The market is not that anymore.
+
+If you have not revisited your GLP-1 coverage policy this year, you are deciding by default.
 
 #PharmacyBenefits #GLP1 #ClinicalPharmacy #SelfFundedEmployers
 
