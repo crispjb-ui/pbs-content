@@ -13,7 +13,7 @@
 | Mon Apr 27 | 7:45 AM | LinkedIn Newsletter | Carve-Out Decision Briefing | [ ] |
 | Mon Apr 27 | 12:30 PM | Substack Notes | Afternoon Note - Why this topic | [ ] |
 | Tue Apr 28 | 7:15 AM | Substack Notes | Morning Note - Industry observation | [ ] |
-| Tue Apr 28 | 8:30 AM | LinkedIn Feed | Post 57 - "The Rebate You Think You're Getting" MESSY INFOGRAPHIC (different pillar) | [ ] |
+| Tue Apr 28 | 8:30 AM | LinkedIn Feed | Post 57 - Contract Comparison Carousel: Audit, Pricing, Mutually Agreed provisions (different pillar) | [ ] |
 | Tue Apr 28 | 8:35 AM | LinkedIn Feed | Post 57 - First Comment | [ ] |
 | Tue Apr 28 | 12:30 PM | Substack Notes | Afternoon Note - Community engagement | [ ] |
 | Tue Apr 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 57 | [ ] |
@@ -337,38 +337,66 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 57 - Tuesday 8:30 AM
-### "The Rebate You Think You're Getting" (Messy Infographic)
+### Contract Comparison Carousel: Audit, Pricing, Mutually Agreed
 
-**Format:** Messy Infographic
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~85 words
+> **Visual Build Note:** Carousel already produced and production-tested. Uses the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4, PROVEN April 2026). Claude design project type: **Slide deck from template**. 7 slides covering audit scope and auditor selection, claim pricing and spread pricing, "mutually agreed" weasel language, aggregate guarantees that hide per-claim spread, confidentiality restrictions. Closing slide links to the Contract Language Library.
 
-> **NOTE - Performance Optimization:** Tuesday visual uses a DIFFERENT pillar (Transparency) from the Monday newsletter (PBM Contracts) to avoid topic cannibalization. Data showed same-topic Tuesday visuals dropped to 623 impressions vs 22K for different-topic visuals. Weekly theme carousel moves to Thursday (3 days of separation from newsletter).
+**Format:** Carousel (7 slides, 1080 x 1350 px each)
+**Pillar:** PBM Contract Insights (different pillar from Monday's carve-out/self-funded theme)
+**Word Count:** ~100 words
+
+> **NOTE - Performance Optimization:** Tuesday visual uses a DIFFERENT pillar (PBM Contracts) from the Monday newsletter (Self-Funded Employer Guidance on carve-out). Data showed same-topic Tuesday visuals dropped to 623 impressions vs 22K for different-topic visuals. Weekly theme carousel moves to Thursday.
 
 #### Post Copy
 
-Your PBM guarantees a rebate number. But how much actually reaches your plan?
+"A portion of" rebates is a trap.
 
-Here is how rebate flow works. Manufacturer pays PBM. PBM retains a portion. Remainder passes to plan. The Visibility Gap between the guaranteed amount and the actual amount paid by the manufacturer is where margin lives.
+"Mutually agreed" is where audits go to die.
 
-Most plan sponsors never see the full picture. The "rebate" you were promised and the rebate that was collected are not the same number.
+Aggregate guarantees hide per-claim spread.
 
-Ask your PBM: what was collected vs. what was passed through?
+Three weasel phrases I see in almost every PBM contract. Three protections that protect the PBM, not your plan.
 
-#PharmacyBenefits #PBMTransparency #Rebates #SelfFundedEmployers
+Swipe for what each one says in real contracts vs. what to ask for instead.
+
+#PBMContracts #SelfFundedEmployers #ContractLanguage #PharmacyBenefits
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+The full PBM Contract Language Library covers these plus more provisions. Free, updated quarterly from patterns we see in client contract reviews: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 
-#### Messy Infographic Concept
+#### Carousel Content (reference for the slides already built)
 
-- **Visual style:** Hand-drawn/whiteboard aesthetic with arrows and crossed-out numbers
-- **Flow diagram:** Manufacturer ($100) -> PBM (keeps $40) -> Plan (receives $60)
-- **Callout bubble:** "Your guarantee said $55. They collected $100. You got $60. Where's the other $40?"
-- **Bottom text:** "The rebate you think you're getting vs. the rebate that was collected"
-- **Brand colors:** Primary Blue #015880 headers, Accent Blue #A7E0FA highlights
-- **Disclaimer:** Illustrative example for educational purposes. Actual amounts vary by plan.
+Slide 1 (Cover): "CONTRACT LANGUAGE THAT COSTS YOU" / "Three provisions where vague language becomes real dollars"
+
+Slide 2 (Audit Scope):
+- WHAT YOU MIGHT SEE: "Plan Sponsor may audit claims data, using auditor mutually agreed upon by the parties. No confidentiality provision shall limit audit scope."
+- WHAT TO ASK FOR: "Plan Sponsor may audit 100% of Claims including pharmacy-level acquisition cost, rebate invoices, and MAC lists, using an auditor chosen by Plan Sponsor's sole discretion."
+- Provision name: "AUDIT SCOPE AND AUDITOR SELECTION"
+
+Slide 3 (Claim Pricing):
+- WHAT YOU MIGHT SEE: "The amount charged to Plan Sponsor shall be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis."
+- WHAT TO ASK FOR: "The amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted."
+- Provision name: "CLAIM PRICING"
+
+Slide 4 ("Mutually Agreed"):
+- Top caption: "Mutually agreed is where audits go to die. Take auditor selection and scope off the table as negotiable items. They are the audit."
+- Bottom: Protective counter-language framing the auditor and scope as Plan Sponsor's sole right.
+- Provision name: "MUTUAL AGREEMENT TRAPS"
+
+Slide 5 (Aggregate Guarantees):
+- Top caption: "Aggregate guarantees hide per-claim spread. Tie the price you pay to the price the pharmacy receives, claim by claim, and the spread disappears."
+- Bottom: Protective counter-language requiring per-claim pricing visibility.
+- Provision name: "AGGREGATE GUARANTEE TRAPS"
+
+Slide 6 ("A Portion Of" Rebates):
+- Top caption: "'A portion of' rebates is a trap. The money lives in the fees that aren't called rebates: aggregator, admin, data, inflation. Name them all. Put a clock on them."
+- Bottom: Protective rebate definition covering all manufacturer revenue.
+- Provision name: "REBATE DEFINITION"
+
+Slide 7 (Close): "VAGUE LANGUAGE IS BY DESIGN." / Link to Contract Language Library
+
+*Carousel produced in Claude design, slide deck template. Production-tested April 2026.*
 
 ---
 
