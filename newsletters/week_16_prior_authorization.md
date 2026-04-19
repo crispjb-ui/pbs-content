@@ -9,7 +9,7 @@
 
 **Monday LinkedIn Newsletter:** Copy-paste ready. CTA references the PA ROI audit template.
 
-**Tuesday carousel (Post 53):** Copy-paste ready.
+**Tuesday carousel (Post 53):** **UPDATED April 2026.** Swapped from the "5 Contract Clauses That Cost You Money" animated video concept to the produced **"The Five Clauses That Decide Your PBM Contract" Library 01 carousel** (static 7 slides, contract-document redline aesthetic). Different clauses, different format, different mechanic. Full slide reference and post copy below in PART 3. Original animated video spec retained as alternative concepts at end of Post 53 section.
 
 **Wednesday text post (Post 54):** Copy-paste ready. **UPDATED** to the $25-40 / $60-80 per-PA fee confrontational hook. The video script option below has been kept for optional use.
 
@@ -31,7 +31,7 @@
 | Mon Apr 20 | 7:30 AM | Substack | "The Prior Authorization Problem" | [ ] |
 | Mon Apr 20 | 7:45 AM | LinkedIn Newsletter | Prior Authorization Briefing | [ ] |
 | Mon Apr 20 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Apr 21 | 8:30 AM | LinkedIn Feed | Post 53 - "5 Contract Clauses That Cost You Money" Carousel (different pillar) | [ ] |
+| Tue Apr 21 | 8:30 AM | LinkedIn Feed | Post 53 - "The Five Clauses That Decide Your PBM Contract" Library 01 Carousel (different pillar) | [ ] |
 | Tue Apr 21 | 8:35 AM | LinkedIn Feed | Post 53 - First Comment (link to LI Newsletter) | [ ] |
 | Tue Apr 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 53 | [ ] |
 | Wed Apr 22 | 8:30 AM | LinkedIn Feed | Post 54 - "$25-40 admin. $60-80 clinical. Some bundle it." PA Fee Confrontational (TEXT) | [ ] |
@@ -359,34 +359,97 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 53 - Tuesday 8:30 AM
-### "5 Contract Clauses That Cost You Money" (Animated Video Carousel)
+### "The Five Clauses That Decide Your PBM Contract" Library 01 Carousel
 
-**Format:** Animated Video Carousel (7 slides, MP4 export, ~28 seconds)
+> **Visual Build Note:** Carousel produced April 2026. Contract-document redline aesthetic: each content slide renders a page from a fictional "Pharmacy Benefits Management Services Agreement" with the targeted section zoomed into a white callout card, strike-throughs highlighted in red/pink, insertions highlighted in green. Deep Primary Blue (#015880) "Why it matters" block anchors the bottom of each content slide. Cover and closing slides use full Primary Blue backgrounds with Krona One white headlines and Accent Blue italicized emphasis words. "LIBRARY 01" badge on cover positions this as the first entry in an ongoing series. Closing slide links to the Contract Language Library URL.
+>
+> **Brand rule exception (approved):** Every slide carries the PBS logo top-right. `CLAUDE.md` brand rule generally says "No logos, no publication badges, no people, no watermarks on LinkedIn feed images." For the Library NN contract-document series specifically, the PBS logo is RETAINED: the redline-on-real-contract aesthetic reads more credibly with the PBS mark as the implied reviewer. This exception applies to the Library series and other contract-document carousels, not to standard feed visuals.
+
+**Format:** Static Carousel (7 slides, 1080 x 1350 px each)
 **Pillar:** PBM Contracts
-**Word Count:** 90 words
-**Build Spec:** See pbs_canva_template_system.md → "Week 16 Video Build" section
+**Series:** Library 01 (first in an ongoing "PBM Contract Language — Library NN" series that funnels to the Contract Language Library)
+**Word Count:** ~120 words
 
 *NOTE: Tuesday visual uses PBM Contracts pillar (different from Monday's PA/Clinical Pharmacy newsletter) to prevent algorithm cannibalization.*
 
 #### Post Copy
 
-Five PBM contract clauses that cost employers money.
+Five clauses decide your PBM contract. Most employers never read them.
 
-Not because they are hidden. Because the definitions section is where the real terms live, and it rarely gets the scrutiny it deserves.
+"Generic drug," defined by the PBM itself.
+"A portion of" rebates.
+Auditors "mutually agreed upon by the parties."
+Pricing measured "on an aggregate basis."
+Termination only for "material breach."
 
-1. "Covered drug" - narrower than you think
-2. "Network pharmacy" - includes PBM-owned pharmacies
-3. "Generic equivalent" - may not mean cheapest option
-4. "Audit period" - shorter than useful
-5. "Rebate guarantee" - gross vs. net matters
+Vague language is not sloppy drafting. It is deliberate.
 
-The language is there. The definitions change everything. And the Visibility Gap between what you agreed to and what those definitions actually allow is where cost hides.
+Each slide is a redline pulled from real PBM contract language we review. The strike-through is what you probably have. The green is what actually protects the plan.
 
-#PharmacyBenefits #PBMContracts #SelfFundedEmployers #ContractLanguage
+Swipe through the redlines. This is Library 01 in a series we are building.
+
+#PBMContracts #SelfFundedEmployers #ContractLanguage #PharmacyBenefits
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+The full PBM Contract Language Library is a free, evergreen reference on Benefit Blind Spots, updated quarterly from patterns we see across the ~100 PBM contracts we review each year: https://benefitblindspots.substack.com/p/pbm-contract-language-library. This week's Pharmacy Benefits Briefing has the full Prior Authorization ROI audit template: [LINKEDIN NEWSLETTER URL]
+
+#### Carousel Content (reference for the slides as built)
+
+**Slide 1 (Cover, 01/07):**
+- Label: "PBM CONTRACT LANGUAGE · LIBRARY 01"
+- Headline: "The five clauses that *decide* your PBM contract."
+- Subhead: "A redlined look at the weak language plan sponsors actually see, and the language that actually holds a PBM accountable."
+- Footer: "SWIPE FOR THE REDLINE →"
+
+**Slide 2 (02/07) — Generic Drug Definition, Section 2.06:**
+- Provision tag: "DEFINITION OF GENERIC"
+- Strike-through: *"those products identified as generic in the PBM's proprietary classification and pricing file, as updated from time to time in the PBM's sole discretion"*
+- Insertion: *"drug products assigned an 'A' therapeutic equivalence rating in the current FDA Orange Book, excluding brand-name, authorized-generic, and single-source products."*
+- Why it matters: "If the PBM gets to define 'generic,' they can reclassify a brand whenever it helps their margin on a guarantee. Anchor the definition to the Orange Book and the leverage disappears."
+
+**Slide 3 (03/07) — Pass-Through of Manufacturer Payments, Section 5.03:**
+- Provision tag: "REBATE PASS-THROUGH"
+- Strike-through: *"a portion of manufacturer rebates attributable to the Plan Sponsor's utilization"*
+- Insertion: *"100% of all Manufacturer Payments, including rebates, administrative fees, market-share payments, data fees, and inflation protection, received by the PBM or any Affiliate, within ninety (90) days of receipt."*
+- Why it matters: "'A portion of' 'rebates' is a trap door. The money lives in the fees that aren't called rebates: aggregator, admin, data, inflation. Name them all. Put a clock on them."
+
+**Slide 4 (04/07) — Audit Scope and Auditor Selection, Section 6.02:**
+- Provision tag: "AUDIT RIGHTS"
+- Strike-through on scope: *"Claims data"* → Insertion: *"100% of Claims, including pharmacy-level acquisition cost, rebate invoices, and MAC lists"*
+- Strike-through on auditor: *"mutually agreed upon by the parties"* → Insertion: *"of Plan Sponsor's sole choosing"*
+- Added sentence: *"No confidentiality provision shall limit audit scope."*
+- Why it matters: "'Mutually agreed' is where audits go to die. Take auditor selection and scope off the table as negotiable items. They are the audit."
+
+**Slide 5 (05/07) — Claim Pricing / Spread Pricing, Section 7.03:**
+- Provision tag: "SPREAD PRICING"
+- Strike-through: *"be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis"*
+- Insertion: *"equal the amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted."*
+- Why it matters: "Aggregate guarantees hide per-claim spread. Tie the price you pay to the price the pharmacy receives, claim by claim, and the spread disappears."
+
+**Slide 6 (06/07) — Termination for Convenience, Sections 8.02 & 8.06:**
+- Provision tag: "TERMINATION FOR CONVENIENCE"
+- Strike-through: *"Either party may terminate this Agreement for material breach following a 90-day cure period and written notice."*
+- Insertion: *"Plan Sponsor may terminate this Agreement for convenience upon ninety (90) days' written notice, without penalty, repayment of implementation credits, or recoupment of rebates already earned."*
+- Why it matters: "Without 'for convenience,' you're locked in for the duration. No PBM will ever concede 'material breach' in writing. Convenience is the only exit that actually opens."
+
+**Slide 7 (Close, 07/07):**
+- Label: "THE TAKEAWAY"
+- Headline: "Five clauses. Five margins. *Redline before you sign.*"
+- Body: "The PBM's contract is where savings live or die. If any of these clauses look familiar, the next renewal is the moment to redline them. Not the one after."
+- CTA: "FULL CONTRACT-LANGUAGE LIBRARY" → benefitblindspots.substack.com/p/pbm-contract-language-library
+
+*Carousel produced in Claude design, slide deck template. Production-tested April 2026. Library series template reusable for future provision batches (formulary management, specialty routing, MAC list maintenance, data ownership, prior authorization).*
+
+#### Carousel feedback / minor refinements to consider before posting
+
+These are optional tightenings, not blockers:
+
+- **Slide 2 line break:** In the Generic Drug insertion, "in the current FDA Orange Book," currently orphans on a line. A manual line break before "excluding brand-name" would balance the right margin.
+- **The circled "1" on content slides:** Every content slide shows a Primary Blue circle with "1" in the upper right of the provision card. If that is a version or edit-round indicator, consider adding a small legend on the cover ("v1 redline"); if it is arbitrary, consider removing it or replacing it with the slide's clause number (2, 3, 4, 5, 6) to reinforce the "five clauses" frame.
+- **Contract body blur:** The grayed-out contract body text around each callout reads well at carousel size. Spot-check the boilerplate at 100% zoom to confirm no identifying phrases that could be misread as referencing a real contract.
+- **Disclaimer:** Per the April 17 disclaimer policy, no disclaimer is needed here. The carousel makes no dollar figures, percentages, or calculations a reader could act on as their own numbers. Staying off.
+- **Closing slide URL:** The Library URL is plain text in the CTA. Fine as-is for a swipe-driven close; if wanting a higher click rate, consider a short vanity link (e.g., rxbs.org/library) instead of the long Substack URL. Only worth it if the short URL already exists or is easy to set up.
 
 #### Video Build Spec
 
