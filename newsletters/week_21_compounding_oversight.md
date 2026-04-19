@@ -287,32 +287,33 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 73 - Tuesday 8:30 AM
-### Renewal Season Checklist: 5 Things to Lock Down Now (Carousel)
+### "What the Best Brokers Ask Before a PBM Renewal Meeting" (Carousel)
 
-> **Visual Build Note:** Use the **Maze** metaphor infographic from `claude_design_prompts.md` (template #12). Claude design project type: **Prototype**. Plug in content that frames the compounding claims audit path through denials and appeals. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Checklist** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames five pre-meeting questions with a one-line "why it matters" beneath each. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-**Format:** Carousel (7 slides)
-**Pillar:** Self-Funded Guidance
-**Word Count:** ~90 words
+**Format:** Carousel (6 slides)
+**Pillar:** Broker/Consultant Resources
+**Word Count:** ~195 words
 
-> **NOTE - PERFORMANCE LESSON:** Tuesday visual uses a DIFFERENT pillar (Self-Funded Guidance) from the Monday newsletter (Clinical Pharmacy). Data shows Tuesday visuals matching the newsletter topic get cannibalized (~623 impressions vs 22K for different-topic visuals). Three-day separation to Thursday eliminates overlap.
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-W5 = Carousel × Broker/Consultant Resources. Monday newsletter pillar is PBM Contract Insights (Compounding Oversight), so no collision. Broker/Consultant pillar gets one appearance per 6-week cycle, weighted lighter than the top three pillars. Framing positions brokers as the allies who surface these questions, consistent with PBS brand rule that brokers are partners and PBMs are adversaries.
 
 #### Post Copy
 
-Renewal season is approaching. Most employers focus on premium rates and forget the pharmacy contract details that drive real cost.
+Every broker we work with has a checklist. The best ones bring five questions to the table before the PBM renewal meeting, and they arrive with the data already run.
 
-Five things to lock down before your next renewal:
+1. What is the actual trend in our net-of-rebate cost per script over the past 24 months? (Not the reported trend. The calculated one.)
 
-Carousel breaks down:
-- Benchmark current pricing against market
-- Review guarantee performance vs. actuals
-- Assess clinical program ROI
-- Evaluate specialty management controls
-- Document competitive alternatives
+2. Which of our guarantees missed in the current term, and what remediation was paid?
 
-The employers who prepare before renewal season negotiate from strength. The ones who wait accept what they are offered.
+3. What percentage of our specialty spend flowed through a PBM-affiliated pharmacy versus independent specialty?
 
-#PharmacyBenefits #RenewalSeason #SelfFundedEmployers #CostContainment
+4. Where does our contract language differ from current market-standard provisions, particularly on price protection, rebate definition, and termination rights?
+
+5. What does our contract entitle us to that we are not currently using? Audit rights, data access, reporting frequency.
+
+The brokers who win renewal negotiations do not arrive to learn. They arrive to verify. Self-funded sponsors should expect that standard from their broker, and brokers should expect their clients to ask for it.
+
+#PharmacyBenefits #BrokerResources #PBMRenewal #SelfFundedEmployers
 
 #### First Comment
 
@@ -320,33 +321,33 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** "Renewal Season Checklist: 5 Things to Lock Down Now" - PBS branding, Primary Blue (#015880) background, Krona One header
+**Slide 1 - Cover:** "What the Best Brokers Ask Before a PBM Renewal Meeting" - PBS branding, Primary Blue (#015880) background, Krona One header. Subtitle in Accent Blue: "5 questions. Answered before the meeting, not during."
 
-**Slide 2 - Benchmark Current Pricing:** Compare your current PBM pricing (GER, dispensing fees, specialty discounts) against market benchmarks. Know where you stand before negotiations begin.
+**Slide 2 - Q1 Net Cost Trend:** Headline: "What is our actual net-of-rebate trend?" Below: "The reported trend uses the PBM's methodology. Pull your own."
 
-**Slide 3 - Review Guarantee Performance:** Pull actual performance against contractual guarantees. Identify shortfalls. This is your strongest negotiating tool.
+**Slide 3 - Q2 Guarantee Remediation:** Headline: "Which guarantees missed, and what was paid?" Below: "Unpaid remediation is the easiest recovery in renewal negotiation."
 
-**Slide 4 - Assess Clinical Program ROI:** Evaluate prior authorization, step therapy, and formulary management results. Are clinical programs delivering savings or just adding friction?
+**Slide 4 - Q3 Specialty Routing:** Headline: "What percent of specialty flowed through PBM-affiliated?" Below: "The routing is in the contract. The dollar impact is in the claims file."
 
-**Slide 5 - Evaluate Specialty Management:** Specialty drives a substantial share of total spend. Review site-of-care steering, biosimilar adoption, and specialty pharmacy network performance.
+**Slide 5 - Q4 Market-Standard Provisions:** Headline: "Where does our language trail the market?" Below: "Price protection, rebate definition, termination. Start there."
 
-**Slide 6 - Document Competitive Alternatives:** Request market proposals even if you plan to stay. Competitive alternatives strengthen your position and validate current pricing.
+**Slide 6 - CTA:** Primary Blue (#015880) background. White text: "Arrive to verify, not to learn." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Slide 7 - CTA:** "Renewal preparation starts months before the deadline. Need help benchmarking? team@rxbs.org" - PBS logo, Accent Blue (#A7E0FA) accent
+**Style:** Clean, professional template. Roboto body, Krona One headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
 
 ---
 
 ## Post 73 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 46 words
 
 #### Reshare Copy
 
-Renewal season starts months before the deadline. Benchmarking, guarantee performance, clinical program ROI, and specialty management all need review before the PBM conversation begins.
+The best brokers arrive at PBM renewal meetings to verify, not to learn. Five questions and the supporting data should be run before the meeting starts.
 
-Ginny Crisp walks through the five items every plan sponsor should lock down now to strengthen their renewal position.
+Ginny Crisp walks through the pre-meeting checklist the strongest broker partners use with their self-funded clients.
 
-#PharmacyBenefits #Renewal #PBMContracts #SelfFundedEmployers
+#PharmacyBenefits #BrokerResources #PBMRenewal #SelfFundedEmployers
 
 ---
 

@@ -297,104 +297,69 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 65 - Tuesday 8:30 AM
-### "What Your PBM Audit Should Actually Cover" (Carousel)
+### "Where Self-Funded Plans Leak Money Between Renewal Cycles" (Infographic)
 
-> **Visual Build Note:** Use the **Tree** metaphor infographic from `claude_design_prompts.md` (template #11). Claude design project type: **Prototype**. Plug in content that frames fiduciary outcomes growing from documented process roots. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Timeline Drip** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames four quiet leakage points along a 24-month contract timeline. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-**Format:** Carousel (7 slides)
-**Pillar:** PBM Contracts
-**Word Count:** ~90 words
+**Format:** Infographic
+**Pillar:** Cost Containment Strategies
+**Word Count:** ~150 words
 
-> **NOTE - PERFORMANCE OPTIMIZATION:** Tuesday visual uses a DIFFERENT pillar (PBM Contracts) from the Monday newsletter (Broker/Consultant Resources). Performance data shows that Tuesday visuals matching the Monday newsletter topic get cannibalized (623 impressions vs 22K for different-topic visuals). Using a different pillar avoids content overlap and maximizes reach.
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-W3 = Infographic × Cost Containment. Monday newsletter pillar is Self-Funded Guidance (Fiduciary Responsibility), so no collision. Cost Containment averaged 3,244 impressions across 6 prior posts; the rotation weights this slot lightly (1 appearance per 6-week cycle) to balance coverage with performance data.
 
 #### Post Copy
 
-Most PBM audits check claims accuracy and call it done. That is a fraction of what matters.
+Between renewals, most self-funded plans leak money in predictable places.
 
-A real audit should cover:
-- Claims accuracy and adjudication
-- Pricing validation against contract terms
-- Rebate verification and passthrough
-- Eligibility file integrity
-- Clinical program outcomes
-- Network compliance
+We see four patterns across claims audits:
 
-The areas most commonly missed in standard reviews: rebate verification and clinical program review. PBMs do not make these easy to audit, and that is by design. Those are where the largest financial exposure sits.
+1. Formulary drift. The PBM reclassifies tier placement or preferred status without notifying the plan, and the new economics quietly show up on the next invoice.
 
-If your audit scope does not cover all six, work with your broker or consultant to expand it.
+2. Rebate definition creep. The contract term "eligible claim" shifts scope over the period. Claims that qualified for full rebate in Q1 do not in Q4.
 
-#PharmacyBenefits #PBMAudit #SelfFundedEmployers #ContractCompliance
+3. Biosimilar lag. A biosimilar to Humira, Stelara, or Enbrel launches. The PBM's default tier placement runs at non-preferred for six to nine months. The plan pays the spread.
+
+4. Network drift. Pharmacies exit the preferred network mid-term. Member scripts route to higher-cost alternatives.
+
+Each pattern is quiet. Each one compounds. None of them show up as a line item on a PBM report.
+
+A mid-cycle claims review is the only way to catch them before renewal.
+
+#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
 
 #### First Comment
 
 More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
-#### Contract Markup Carousel Slides (Template B)
+#### Infographic Concept
 
-**Design:** White background with faint gray horizontal rules (legal document style). Monospace body text (Courier Prime). Handwritten annotations in red (#C0392B) and Primary Blue (#015880). Yellow highlights (#FFF3CD). "CONTRACT REVIEW" rubber stamp in top-right.
+**Layout:** Horizontal 24-month contract timeline running across the full width. Clean, professional format (not messy style). Contract start on the left labeled "Renewal," contract end on the right labeled "Next Renewal."
 
-**Slide 1 - Hook:**
-- "CONTRACT REVIEW" stamp top-right, angled
-- Centered monospace: "PBM AUDIT SCOPE"
-- Below, handwritten in red: "Most audits miss the biggest exposures."
-- Yellow highlight over "miss"
-- Bottom: PBS logo, "Benefit Blind Spots"
+**Four drip icons** plotted along the timeline at realistic quarter-point intervals, each with a short label:
+1. Month 3: "Formulary Drift" (tier reclassification icon)
+2. Month 9: "Rebate Definition Creep" (shrinking arrow icon)
+3. Month 14: "Biosimilar Lag" (clock icon)
+4. Month 20: "Network Drift" (broken chain icon)
 
-**Slide 2 - Claims Accuracy:**
-- Monospace contract text: "PBM shall adjudicate claims in accordance with Plan terms..."
-- Yellow highlight over "in accordance with Plan terms"
-- Red margin note: "Are claims adjudicated correctly? Pricing errors, duplicates, and incorrect copays add up."
-- Handwritten check: "AUDIT THIS: Compare paid claims vs. contract rates."
+**Center callout:** "Four leakage points. Zero line items on the PBM report."
 
-**Slide 3 - Pricing Validation:**
-- Monospace: "Pricing guarantees shall be measured annually..."
-- Yellow highlight over "annually"
-- Red margin note: "Are you getting the rates you negotiated? Compare AWP discount against guarantee."
-- Handwritten strikethrough over "annually," replaced with "quarterly"
+**Bottom band:** Accent Blue (#A7E0FA) with: "Mid-cycle review catches them. Renewal audit does not." PBS logo bottom-right.
 
-**Slide 4 - Rebate Verification:**
-- Monospace: "PBM shall pass through rebates per the compensation schedule..."
-- Yellow highlight over "compensation schedule"
-- Red margin note: "Are rebates flowing through as contracted? Verify manufacturer payments vs. plan passthrough."
-- Red circle: "← This is where the largest gap usually hides."
-
-**Slide 5 - Eligibility Integrity:**
-- Monospace: "Claims shall be processed for eligible members as defined..."
-- Red margin note: "Are terminated members still generating claims? Eligibility file errors = unnecessary plan spend."
-- Handwritten: "Check: term dates vs. last claim date."
-
-**Slide 6 - Clinical Program Review:**
-- Monospace: "PBM shall provide clinical management programs..."
-- Yellow highlight over "clinical management programs"
-- Red margin note: "Are PA, step therapy, and quantity limits performing? Programs that look good on paper may not deliver savings."
-- Handwritten: "Request methodology + sample calculation."
-
-**Slide 7 - CTA:**
-- Primary Blue (#015880) background
-- White text: "A complete audit covers all six areas."
-- Accent Blue: "Work with your broker to ensure full scope."
-- team@rxbs.org | Benefit Blind Spots | PBS logo (white, 60px)
-
-**Canva Production Notes:**
-1. Template B: Contract Markup Carousel
-2. Courier Prime for contract text (18-20pt), Caveat for annotations (20-24pt)
-3. Yellow highlights: #FFF3CD behind key phrases
-4. Red annotations: #C0392B
-5. Export 1080 x 1350 px each
+**Style:** Professional, Primary Blue (#015880) on white, with Accent Blue (#A7E0FA) highlight on the drip icons. Roboto body, Krona One for the title.
 
 ---
 
 ## Post 65 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 49 words
 
 #### Reshare Copy
 
-A PBM audit that only covers claims pricing misses most of the money. Rebates, clinical programs, network design, and performance guarantees all belong in scope.
+Between renewals, self-funded plans leak money in four predictable places: formulary drift, rebate definition creep, biosimilar lag, and network drift. None of them show up as line items.
 
-Ginny Crisp walks through the six areas a complete audit should cover and why partial audits miss the biggest findings.
+Ginny Crisp breaks down what the PBM quarterly report never flags and how a mid-cycle review surfaces it.
 
-#PharmacyBenefits #PBMAudit #Fiduciary #SelfFundedEmployers
+#PharmacyBenefits #CostContainment #SelfFundedEmployers
 
 ---
 

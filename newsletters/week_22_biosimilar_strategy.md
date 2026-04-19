@@ -271,25 +271,55 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 77 - Tuesday 8:30 AM
-### "How PBM Spread Pricing Works" (Infographic)
+### "5 Numbers Every Self-Funded CFO Should Pull Before Q3" (Carousel)
 
-> **Visual Build Note:** Use the **Bridge** metaphor infographic from `claude_design_prompts.md` (template #6). Claude design project type: **Prototype**. Plug in content that frames brand biologic to biosimilar, walking through the rebate economics. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Metrics Dashboard** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames five claims-data metrics with a one-line interpretation note on each. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-**Format:** INFO - Educational Explainer
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~85 words
+**Format:** Carousel (6 slides)
+**Pillar:** Self-Funded Employer Guidance
+**Word Count:** ~200 words
 
-> **NOTE - Performance Optimization:** Tuesday visual uses a DIFFERENT pillar (Transparency) from the Monday newsletter (Cost Containment) to avoid topic cannibalization. Data showed same-topic Tuesday visuals dropped to 623 impressions vs 22K for different-topic visuals. Spread pricing is a proven high-engagement transparency topic.
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-W2 = Carousel × Self-Funded Guidance (carried forward after Week 18 used the Clinical Pharmacy slot for GLP-1). Monday newsletter pillar is Clinical Pharmacy (Biosimilar Strategy), so no collision. Self-Funded Guidance averaged 6,909 impressions across 3 prior posts, placing it mid-pack; the rotation weights this slot lightly but guarantees coverage every cycle.
 
 #### Post Copy
 
-Your PBM charges your plan one price for a drug. They pay the pharmacy a different price. The difference is the spread.
+Q3 planning starts in July. The numbers that matter for your pharmacy benefit are already sitting in your claims data.
 
-Spread pricing is one of the least understood (and most profitable) elements of the PBM business model. It is not disclosed on your claims report. It does not show up in your rebate summary. It exists between two transactions you never see side by side.
+Five metrics self-funded CFOs should pull before the Q3 planning cycle:
 
-This is how it works. And why it matters for your plan's bottom line.
+1. Net cost per script, trended quarterly. Aggregate totals hide the real direction. Trend it.
 
-#PharmacyBenefits #SpreadPricing #PBMTransparency #SelfFundedEmployers
+2. Specialty as a percentage of total pharmacy spend. If it is above 50% and climbing, the renewal conversation has already changed.
+
+3. Rebate-to-gross-claims ratio, compared to the contractual minimum guarantee. A widening gap is where renewal leverage lives.
+
+4. Top 25 drugs by plan spend. Every name on that list needs a clinical rationale and a renewal strategy, especially anything on the Humira, Stelara, or Keytruda tier.
+
+5. Claims-to-eligibility ratio. If the claims count is drifting from active member count, terminated members may still be generating spend.
+
+None of these require a new vendor. All of them are in your existing claims data. The question is whether anyone is pulling them before the PBM does.
+
+#PharmacyBenefits #SelfFundedEmployers #CFO #PlanSponsors
+
+#### First Comment
+
+More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN NEWSLETTER URL]
+
+#### Carousel Slide Descriptions
+
+**Slide 1 - Cover:** "5 Numbers Every Self-Funded CFO Should Pull Before Q3" - Primary Blue (#015880) background, Krona One header. Subtitle in Accent Blue: "All five are already in your claims data."
+
+**Slide 2 - Net Cost Per Script (Trended):** Headline: "Trend, not total." Below: "Aggregate spend hides the direction. Quarter-over-quarter tells you where the plan is going."
+
+**Slide 3 - Specialty % of Spend:** Headline: "Above 50% changes the conversation." Below: "Specialty concentration rewrites renewal leverage. Know the number before you negotiate."
+
+**Slide 4 - Rebate-to-Claims Ratio:** Headline: "Compare actual to the minimum guarantee." Below: "A widening gap is remediation-eligible and most plans never claim it."
+
+**Slide 5 - Top 25 Drug Spend:** Headline: "Every name needs a strategy." Below: "Humira, Stelara, Keytruda tier drugs should have a clinical and renewal plan attached."
+
+**Slide 6 - CTA:** Primary Blue (#015880) background. White text: "Pull these before your Q3 meeting. Not after." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+
+**Style:** Clean professional template. Roboto body, Krona One headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
 
 #### First Comment
 
@@ -372,15 +402,15 @@ A clean, professional vertical infographic at 1080 x 1350 pixels with a white ba
 
 ## Post 77 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 49 words
+**Word Count:** 47 words
 
 #### Reshare Copy
 
-Your plan pays one price. Your pharmacy receives another. The spread in between becomes PBM revenue, and most employers never see it in their claims data.
+Q3 planning starts in July, and five claims-data metrics tell a self-funded CFO where the plan is actually heading before the PBM frames the story.
 
-Ginny Crisp breaks down how spread pricing works and the questions to ask your PBM to make it visible.
+Ginny Crisp walks through the numbers to pull before the Q3 meeting, not after.
 
-#PharmacyBenefits #SpreadPricing #PBM #Transparency
+#PharmacyBenefits #SelfFundedEmployers #CFO #PlanSponsors
 
 ---
 

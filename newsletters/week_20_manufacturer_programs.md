@@ -280,31 +280,31 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 69 - Tuesday 8:30 AM
-### "Specialty Pharmacy Steering: Who Chose Your Pharmacy?" (Messy Infographic)
+### "3 PBM Contract Terms That Mean Different Things in Different Contracts" (Messy Infographic)
 
-> **Visual Build Note:** Use the **Iceberg** metaphor infographic from `claude_design_prompts.md` (template #5). Claude design project type: **Prototype**. Plug in content that frames visible copay card savings vs submerged plan cost. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Definition Grid** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that shows one term rendered three different ways across three stylized contract snippets. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
 **Format:** Messy Infographic
-**Pillar:** Cost Containment
-**Word Count:** ~85 words
+**Pillar:** Transparency & Industry Education
+**Word Count:** ~190 words
 
-> **NOTE - PERFORMANCE OPTIMIZATION:** Tuesday visual uses a DIFFERENT pillar (Cost Containment) from the Monday newsletter (Transparency). Performance data shows that Tuesday visuals matching the Monday newsletter topic get cannibalized (623 impressions vs 22K for different-topic visuals). Messy infographic format selected based on performance data (22K impressions - best-performing visual format).
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-W4 = Messy Infographic × Transparency. Monday newsletter pillar is Cost Containment (Manufacturer Programs), so no collision. Transparency hit 26,431 impressions on a single prior post and is one of the three top-weighted pillars in the rotation. Messy Infographic format averaged 22,047 impressions (best visual format in the data).
 
 #### Post Copy
 
-Your specialty pharmacy was probably chosen by your PBM, not your plan.
+Pick three PBM contracts and read the definition sections side by side. "Rebate," "AWP discount," and "pass-through" will not mean the same thing in any two of them.
 
-We see the pattern across contract reviews. Specialty scripts default to PBM-owned pharmacies. Limited distribution networks narrow where members can fill a biologic on the Humira, Stelara, or Enbrel tier. White bagging moves dispensing revenue into the PBM's channel regardless of how your medical network is set up.
+In the ~100 contracts we review annually, we see this pattern repeatedly.
 
-Three questions your broker can pull from the contract:
+"Rebate." Contract A defines it as manufacturer payments tied to formulary placement. Contract B includes those plus manufacturer administrative fees. Contract C carves out price protection payments entirely and calls them something else.
 
-1. What percentage of your specialty spend flows through a PBM-affiliated pharmacy?
-2. What margin sits between acquisition cost and what your plan pays on a limited-distribution drug?
-3. Does the contract allow an independent specialty carve-out?
+"AWP discount." The guaranteed number looks competitive in every proposal. But is it applied to ingredient cost or total claim cost? Are specialty, compounded, and limited-distribution drugs excluded? Those exclusions move the real rate by hundreds of basis points.
 
-The network terms are already in writing. Most plans never pull them.
+"Pass-through." Contract A means 100% of manufacturer rebates, dollar-for-dollar. Contract B means 100% after undefined administrative offsets. Contract C means a minimum guarantee with the upside retained by the PBM.
 
-#PharmacyBenefits #SpecialtyPharmacy #CostContainment #SelfFundedEmployers
+The contract definition section is where the economics live. Most employers never read it.
+
+#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
 
 #### First Comment
 
@@ -312,20 +312,19 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 #### Messy Infographic Concept
 
-**Layout:** Hand-drawn style flow diagram showing specialty pharmacy routing
+**Layout:** Hand-drawn messy style. Three "definition boxes" stacked vertically, each representing one term. Inside each box, three stylized contract snippets (Contract A, B, C) showing that term's different treatments. Handwritten-style annotations in red marker.
 
-**Top:** "Who Chose Your Specialty Pharmacy?" in bold
+**Box 1 - "Rebate":** Three one-line contract snippet renderings, each highlighted differently. Red margin note: "Same word. Different scope."
 
-**Three routing paths illustrated:**
-1. PBM Default - Arrow to PBM-owned specialty pharmacy (with note: "PBM captures dispensing margin")
-2. Limited Distribution - Arrow showing restricted network (with note: "Fewer options = less competition")
-3. White Bagging - Arrow showing drug routed through specific channel (with note: "Dispensing revenue shifts")
+**Box 2 - "AWP Discount":** Three snippets with exclusion clauses highlighted in yellow. Red margin note: "The exclusions are the real rate."
 
-**Center callout:** "Your PBM chose this routing. Did your plan agree?"
+**Box 3 - "Pass-through":** Three snippets with different percentage structures. Red margin note: "100% of what, exactly?"
 
-**Bottom:** "Ask: Does this serve your plan or your PBM?"
+**Center callout (across all three boxes):** "One term. Three contracts. Three different economics."
 
-**Style:** Slightly imperfect, whiteboard-sketch aesthetic with PBS brand colors (#015880 primary, #A7E0FA accent)
+**Bottom strip:** Accent Blue (#A7E0FA) with: "Ask: which definition is in YOUR contract?" PBS logo bottom-right.
+
+**Style:** Whiteboard-sketch aesthetic, Primary Blue (#015880) structure with red annotation accent (#C0392B) and yellow highlights (#FFF3CD).
 
 ---
 
@@ -335,13 +334,11 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 #### Reshare Copy
 
-Your members did not choose your specialty pharmacy. Your PBM did.
+"Rebate," "AWP discount," and "pass-through" do not mean the same thing across PBM contracts. The definition section is where the economics live, and most employers never read it.
 
-PBM-owned routing, limited distribution networks, and white bagging each shift dispensing revenue in ways most plans never see in their claims data.
+Ginny Crisp walks through the three contract terms that move plan spend the most.
 
-Ginny Crisp covers how to evaluate whether the routing serves your plan.
-
-#PharmacyBenefits #SpecialtyPharmacy #PBM #Transparency
+#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
 
 ---
 
