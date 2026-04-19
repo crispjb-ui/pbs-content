@@ -224,3 +224,30 @@ Additional provision-specific deep dives publish throughout the year. The formul
 
 *Last updated: April 2026*
 *Next update: July 2026*
+
+---
+
+## Q3 2026 Update Queue (Internal Notes)
+
+Additions to fold into the July 2026 update, sourced from the Week 16 "The Five Clauses That Decide Your PBM Contract" Library 01 carousel:
+
+**New provisions to add:**
+
+1. **Definition of Generic Drug** (add to Pricing Guarantees section)
+   - What you might see: "those products identified as generic in the PBM's proprietary classification and pricing file, as updated from time to time in the PBM's sole discretion"
+   - What it actually means: The PBM can reclassify a brand drug as non-generic whenever that classification improves their guarantee margin.
+   - What you should ask for: "Generic Drug means drug products assigned an 'A' therapeutic equivalence rating in the current FDA Orange Book, excluding brand-name, authorized-generic, and single-source products."
+
+2. **Spread Pricing / Claim Pricing** (add to Pricing Guarantees section)
+   - What you might see: "The amount charged to Plan Sponsor shall be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis."
+   - What it actually means: Aggregate measurement hides per-claim spread. The PBM can charge the plan more than it pays the pharmacy on any individual claim as long as the aggregate guarantee is met.
+   - What you should ask for: "The amount charged to Plan Sponsor for any Claim shall equal the amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted."
+
+**Existing provision to expand:**
+
+3. **Termination Notice** (expand the existing entry to cover termination for convenience, not only auto-renewal)
+   - Additional "what you might see" example: "Either party may terminate this Agreement for material breach following a 90-day cure period and written notice."
+   - Additional "what it actually means": No PBM will ever concede "material breach" in writing, so this clause locks you in for the contract duration regardless of performance.
+   - Additional "what you should ask for": "Plan Sponsor may terminate this Agreement for convenience upon ninety (90) days' written notice, without penalty, repayment of implementation credits, or recoupment of rebates already earned."
+
+**Source:** Week 16 (Apr 21, 2026) Library 01 carousel. See `newsletters/week_16_prior_authorization.md` Post 53 section for the redline visuals and "Why it matters" framing that can be lifted into the library copy.
