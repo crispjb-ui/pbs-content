@@ -13,7 +13,7 @@
 | Mon Apr 27 | 7:45 AM | LinkedIn Newsletter | Carve-Out Decision Briefing | [ ] |
 | Mon Apr 27 | 12:30 PM | Substack Notes | Afternoon Note - Why this topic | [ ] |
 | Tue Apr 28 | 7:15 AM | Substack Notes | Morning Note - Industry observation | [ ] |
-| Tue Apr 28 | 8:30 AM | LinkedIn Feed | Post 57 - "The Five Clauses That Decide Your PBM Contract" Library 01 Carousel (different pillar) | [ ] |
+| Tue Apr 28 | 8:30 AM | LinkedIn Feed | Post 57 - Contract Comparison Carousel: Audit, Pricing, Mutually Agreed provisions (different pillar) | [ ] |
 | Tue Apr 28 | 8:35 AM | LinkedIn Feed | Post 57 - First Comment | [ ] |
 | Tue Apr 28 | 12:30 PM | Substack Notes | Afternoon Note - Community engagement | [ ] |
 | Tue Apr 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 57 | [ ] |
@@ -337,101 +337,80 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 57 - Tuesday 8:30 AM
-### The Five Clauses That Decide Your PBM Contract (Library 01 Carousel)
+### Contract Comparison Carousel: Audit, Pricing, Mutually Agreed
 
-> **Visual Build Note:** Carousel produced April 2026. Contract-document redline aesthetic: each content slide renders a page from a fictional "Pharmacy Benefits Management Services Agreement" with the targeted section zoomed into a white callout card, strike-through in red/pink, insertions highlighted in green. Deep Primary Blue (#015880) "Why it matters" block anchors the bottom of each content slide. Cover and closing slides use full Primary Blue backgrounds with Krona One white headlines and Accent Blue italicized emphasis words. "LIBRARY 01" badge on cover positions this as the first entry in an ongoing series. Closing slide links to the Contract Language Library URL.
->
-> **Brand rule exception to resolve:** Every slide carries the PBS logo top-right. `CLAUDE.md` brand rule says "No logos, no publication badges, no people, no watermarks on LinkedIn feed images." For this carousel series, the contract-document aesthetic reads more credibly with the PBS mark (as if the redlines come from PBS's own review work). Confirm whether to (a) strip logos before posting or (b) document a carousel-specific exception for Library series posts.
+> **Visual Build Note:** Carousel already produced and production-tested. Uses the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4, PROVEN April 2026). Claude design project type: **Slide deck from template**. 7 slides covering audit scope and auditor selection, claim pricing and spread pricing, "mutually agreed" weasel language, aggregate guarantees that hide per-claim spread, confidentiality restrictions. Closing slide links to the Contract Language Library.
 
 **Format:** Carousel (7 slides, 1080 x 1350 px each)
 **Pillar:** PBM Contract Insights (different pillar from Monday's carve-out/self-funded theme)
-**Series:** Library 01 (first in an ongoing "PBM Contract Language — Library NN" series that funnels to the Contract Language Library)
-**Word Count:** ~120 words
+**Word Count:** ~100 words
 
 > **NOTE - Performance Optimization:** Tuesday visual uses a DIFFERENT pillar (PBM Contracts) from the Monday newsletter (Self-Funded Employer Guidance on carve-out). Data showed same-topic Tuesday visuals dropped to 623 impressions vs 22K for different-topic visuals. Weekly theme carousel moves to Thursday.
 
 #### Post Copy
 
-Five clauses decide your PBM contract. Most employers never read them.
+"A portion of" rebates is a trap.
 
-"Generic drug," defined by the PBM itself.
-"A portion of" rebates.
-Auditors "mutually agreed upon by the parties."
-Pricing measured "on an aggregate basis."
-Termination only for "material breach."
+"Mutually agreed" is where audits go to die.
 
-Vague language is not sloppy drafting. It is deliberate.
+Aggregate guarantees hide per-claim spread.
 
-Each slide is a redline pulled from real PBM contract language we review. The strike-through is what you probably have. The green is what actually protects the plan.
+Three weasel phrases I see in almost every PBM contract. Three protections that protect the PBM, not your plan.
 
-Swipe through the redlines. This is Library 01 in a series we are building.
+Swipe for what each one says in real contracts vs. what to ask for instead.
 
 #PBMContracts #SelfFundedEmployers #ContractLanguage #PharmacyBenefits
 
 #### First Comment
 
-The full PBM Contract Language Library publishes this week on Benefit Blind Spots. Free, updated quarterly from patterns we see across the ~100 PBM contracts we review each year: https://benefitblindspots.substack.com/p/pbm-contract-language-library
+The full PBM Contract Language Library covers these plus more provisions. Free, updated quarterly from patterns we see in client contract reviews: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 
-#### Carousel Content (reference for the slides as built)
+#### Carousel Content (reference for the slides already built)
 
-**Slide 1 (Cover, 01/07):**
-- Label: "PBM CONTRACT LANGUAGE · LIBRARY 01"
-- Headline: "The five clauses that *decide* your PBM contract."
-- Subhead: "A redlined look at the weak language plan sponsors actually see, and the language that actually holds a PBM accountable."
-- Footer: "SWIPE FOR THE REDLINE →"
+Slide 1 (Cover): "CONTRACT LANGUAGE THAT COSTS YOU" / "Three provisions where vague language becomes real dollars"
 
-**Slide 2 (02/07) — Generic Drug Definition, Section 2.06:**
-- Provision tag: "DEFINITION OF GENERIC"
-- Strike-through: *"those products identified as generic in the PBM's proprietary classification and pricing file, as updated from time to time in the PBM's sole discretion"*
-- Insertion: *"drug products assigned an 'A' therapeutic equivalence rating in the current FDA Orange Book, excluding brand-name, authorized-generic, and single-source products."*
-- Why it matters: "If the PBM gets to define 'generic,' they can reclassify a brand whenever it helps their margin on a guarantee. Anchor the definition to the Orange Book and the leverage disappears."
+Slide 2 (Audit Scope):
+- WHAT YOU MIGHT SEE: "Plan Sponsor may audit claims data, using auditor mutually agreed upon by the parties. No confidentiality provision shall limit audit scope."
+- WHAT TO ASK FOR: "Plan Sponsor may audit 100% of Claims including pharmacy-level acquisition cost, rebate invoices, and MAC lists, using an auditor chosen by Plan Sponsor's sole discretion."
+- Provision name: "AUDIT SCOPE AND AUDITOR SELECTION"
 
-**Slide 3 (03/07) — Pass-Through of Manufacturer Payments, Section 5.03:**
-- Provision tag: "REBATE PASS-THROUGH"
-- Strike-through: *"a portion of manufacturer rebates attributable to the Plan Sponsor's utilization"*
-- Insertion: *"100% of all Manufacturer Payments, including rebates, administrative fees, market-share payments, data fees, and inflation protection, received by the PBM or any Affiliate, within ninety (90) days of receipt."*
-- Why it matters: "'A portion of' 'rebates' is a trap door. The money lives in the fees that aren't called rebates: aggregator, admin, data, inflation. Name them all. Put a clock on them."
+Slide 3 (Claim Pricing):
+- WHAT YOU MIGHT SEE: "The amount charged to Plan Sponsor shall be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis."
+- WHAT TO ASK FOR: "The amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted."
+- Provision name: "CLAIM PRICING"
 
-**Slide 4 (04/07) — Audit Scope and Auditor Selection, Section 6.02:**
-- Provision tag: "AUDIT RIGHTS"
-- Strike-through on scope: *"Claims data"* → Insertion: *"100% of Claims, including pharmacy-level acquisition cost, rebate invoices, and MAC lists"*
-- Strike-through on auditor: *"mutually agreed upon by the parties"* → Insertion: *"of Plan Sponsor's sole choosing"*
-- Added sentence: *"No confidentiality provision shall limit audit scope."*
-- Why it matters: "'Mutually agreed' is where audits go to die. Take auditor selection and scope off the table as negotiable items. They are the audit."
+Slide 4 ("Mutually Agreed"):
+- Top caption: "Mutually agreed is where audits go to die. Take auditor selection and scope off the table as negotiable items. They are the audit."
+- Bottom: Protective counter-language framing the auditor and scope as Plan Sponsor's sole right.
+- Provision name: "MUTUAL AGREEMENT TRAPS"
 
-**Slide 5 (05/07) — Claim Pricing / Spread Pricing, Section 7.03:**
-- Provision tag: "SPREAD PRICING"
-- Strike-through: *"be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis"*
-- Insertion: *"equal the amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted."*
-- Why it matters: "Aggregate guarantees hide per-claim spread. Tie the price you pay to the price the pharmacy receives, claim by claim, and the spread disappears."
+Slide 5 (Aggregate Guarantees):
+- Top caption: "Aggregate guarantees hide per-claim spread. Tie the price you pay to the price the pharmacy receives, claim by claim, and the spread disappears."
+- Bottom: Protective counter-language requiring per-claim pricing visibility.
+- Provision name: "AGGREGATE GUARANTEE TRAPS"
 
-**Slide 6 (06/07) — Termination for Convenience, Sections 8.02 & 8.06:**
-- Provision tag: "TERMINATION FOR CONVENIENCE"
-- Strike-through: *"Either party may terminate this Agreement for material breach following a 90-day cure period and written notice."*
-- Insertion: *"Plan Sponsor may terminate this Agreement for convenience upon ninety (90) days' written notice, without penalty, repayment of implementation credits, or recoupment of rebates already earned."*
-- Why it matters: "Without 'for convenience,' you're locked in for the duration. No PBM will ever concede 'material breach' in writing. Convenience is the only exit that actually opens."
+Slide 6 ("A Portion Of" Rebates):
+- Top caption: "'A portion of' rebates is a trap. The money lives in the fees that aren't called rebates: aggregator, admin, data, inflation. Name them all. Put a clock on them."
+- Bottom: Protective rebate definition covering all manufacturer revenue.
+- Provision name: "REBATE DEFINITION"
 
-**Slide 7 (Close, 07/07):**
-- Label: "THE TAKEAWAY"
-- Headline: "Five clauses. Five margins. *Redline before you sign.*"
-- Body: "The PBM's contract is where savings live or die. If any of these clauses look familiar, the next renewal is the moment to redline them. Not the one after."
-- CTA: "FULL CONTRACT-LANGUAGE LIBRARY" → benefitblindspots.substack.com/p/pbm-contract-language-library
+Slide 7 (Close): "VAGUE LANGUAGE IS BY DESIGN." / Link to Contract Language Library
 
-*Carousel produced in Claude design, slide deck template. Production-tested April 2026. Library series template reusable for future provision batches (formulary, specialty routing, MAC list maintenance, data ownership).*
+*Carousel produced in Claude design, slide deck template. Production-tested April 2026.*
 
 ---
 
 ## Post 57 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 55 words
+**Word Count:** 48 words
 
 #### Reshare Copy
 
-The language that decides your PBM contract is not in the fee schedule. It is in the definitions, the pass-through clause, the audit scope, and the termination rights.
+The rebate guarantee your PBM promised may not match the rebate your plan actually receives. The gap between "collected" and "passed through" is where admin fees, aggregation fees, and market access fees live.
 
-Ginny Crisp walks through five redlined provisions from real PBM contracts and the protective language that actually holds a PBM accountable.
+Ginny Crisp walks through how to read the flow and close the gap.
 
-#PharmacyBenefits #PBMContracts #ContractLanguage #Transparency
+#PharmacyBenefits #Rebates #PBMContracts #Transparency
 
 ---
 
@@ -810,7 +789,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Monday: LinkedIn Newsletter "Carve-Out Decision Briefing" published at 7:45 AM
 - [ ] Monday Morning: Substack Note (7:15 AM) - Post-launch insight
 - [ ] Monday Afternoon: Substack Note (12:30 PM) - Why this topic
-- [ ] Tuesday: Post 57 - "The Five Clauses That Decide Your PBM Contract" Library 01 Carousel published at 8:30 AM (PBM Contracts pillar - different from newsletter)
+- [ ] Tuesday: Post 57 - "The Rebate You Think You're Getting" MESSY INFOGRAPHIC published at 8:30 AM (Transparency pillar - different from newsletter)
 - [ ] Tuesday: Post 57 First Comment with link to LinkedIn Newsletter
 - [ ] Tuesday: Company Reshare of Post 57 at 1:30 PM
 - [ ] Tuesday Morning: Substack Note (7:15 AM) - Industry observation
@@ -832,7 +811,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 6: ASSETS NEEDED
 
-- [x] Carousel (7 slides, 1080 x 1350 px): "The Five Clauses That Decide Your PBM Contract" Library 01 — contract-document redline aesthetic (Post 57, Tuesday). PRODUCED April 2026. Resolve PBS-logo brand rule before posting.
+- [ ] Messy Infographic: "The Rebate You Think You're Getting" - hand-drawn/whiteboard style rebate flow diagram (Post 57, Tuesday)
 - [ ] Carousel (7 slides): Carve-In vs Carve-Out decision framework (Post 59, Thursday - weekly theme visual)
 
 ---
