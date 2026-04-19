@@ -219,49 +219,69 @@ This week's Benefit Blind Spots includes a **site-of-care decision tree**: thera
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 109 - Tuesday 10:00 AM
-### "The Most Expensive Room in Healthcare" (Infographic)
+### "5 Self-Funded Plan Sponsor Decisions That Should Happen Before Year-End" (Carousel)
 
-> **Visual Build Note:** Use the **Bridge** metaphor infographic from `claude_design_prompts.md` (template #6). Claude design project type: **Prototype**. Plug in content that frames hospital infusion to home infusion, traversing the cost and access bridge. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Q4 Decision Stack** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each Q4 decision with one-line consequence beneath it. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
 
-**Format:** Standard Infographic (INFO - Comparison)
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~85 words
+**Format:** Carousel (6 slides)
+**Pillar:** Self-Funded Employer Guidance
+**Word Count:** ~205 words
+
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W2 = Carousel × Self-Funded Guidance. Monday newsletter pillar is Cost Containment (Site of Care), so no collision. Fixes the prior W30 same-pillar overlap (the original Tuesday post was on infusion site-of-care, same Cost Containment pillar as Monday).
 
 #### Post Copy
 
-The most expensive room in healthcare is not the operating room. It is the hospital outpatient infusion suite.
+Q4 is the decision window for self-funded plans. The renewal process formally starts in Q1 for most plans. The decisions that determine renewal leverage have to land before then.
 
-Same drug. Same dose. Same clinical protocol. Four different settings. Four different costs to your plan.
+Five we walk our self-funded clients through:
 
-Hospital outpatient: facility fees multiply the cost. Physician office: moderate. Ambulatory infusion center: a fraction. Home infusion: lowest.
+1. Confirm or revise the PBM evaluation timeline. If renewal lands in 2026 H1, the RFP needs to be out by November.
 
-For clinically stable members on maintenance therapies, the lower-cost settings produce the same clinical outcome. The default routing to hospital outpatient is inertia, not medicine.
+2. Document every guarantee shortfall in the current term. Quarterly reports do not aggregate these. The plan has to compile them.
 
-#PharmacyBenefits #SiteOfCare #CostContainment #InfusionTherapy
+3. Lock down independent benchmarking. PBM-provided benchmarks always show the PBM in a competitive position. Independent pulls do not.
 
-#### Infographic Concept
+4. Coordinate stop-loss and pharmacy renewal timing. Misaligned renewals cost leverage on both sides of the conversation.
 
-**Title:** The Most Expensive Room in Healthcare
-**Dimensions:** 1080 x 1350 px
-**Style:** Four-tier cost comparison, stacked vertically
+5. Run a fiduciary file audit. The selection memo, evaluation criteria, performance reviews, and committee minutes either exist or they do not. If they do not, build them now, not when litigation asks for them.
 
-**Layout:** Four horizontal bars, tallest at top (hospital) to shortest at bottom (home), each with setting name, relative cost indicator, and one-line description. Color gradient from red ($$$$) to green ($). Bottom CTA: "Where are your members receiving infusions?"
+The plans that walk into 2026 with these five decisions made are negotiating from position. The ones that wait are reacting.
+
+#PharmacyBenefits #SelfFundedEmployers #PlanSponsors #Q4Planning
+
+#### First Comment
+
+More in this week's Pharmacy Benefits Briefing on site-of-care strategy: [LINKEDIN NEWSLETTER URL]
+
+#### Carousel Slide Descriptions
+
+**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "5 Self-Funded Plan Sponsor Decisions Before Year-End." Accent Blue subtitle: "Made now = leverage in Q1. Deferred = reacting."
+
+**Slide 2 - Decision 1 RFP Timeline:** White background. Krona One Primary Blue: "Confirm the RFP Timeline." Roboto body: "If renewal is H1 2026, the RFP is out by November. Slipping past that resets your negotiating position."
+
+**Slide 3 - Decision 2 Document Shortfalls:** Accent Blue background. Primary Blue Krona One: "Compile Every Guarantee Shortfall." Body: "Quarterly reports do not aggregate them. The plan has to. Unpaid remediation is recoverable on the renewal table."
+
+**Slide 4 - Decision 3 Independent Benchmarking:** White background. Krona One: "Lock Down Independent Benchmarking." Body: "PBM benchmarks show the PBM as competitive. They were built that way. Independent pulls show the truth."
+
+**Slide 5 - Decision 4 Stop-Loss + PBM Alignment:** Primary Blue background. White Krona One: "Coordinate Stop-Loss and PBM Renewal Timing." Accent Blue body: "Misaligned renewals erode leverage on both sides. Treat them as one conversation."
+
+**Slide 6 - CTA:** Primary Blue background. White Krona One: "Walk into Q1 with the file built. Negotiate, do not react." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One headers (28-34pt), Roboto body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 
 ## Post 109 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 48 words
 
 #### Reshare Copy
 
-Same drug. Same dose. Same clinical protocol. Four different settings, four very different costs to your plan.
+Q4 is when self-funded plans decide whether 2026 renewal happens to them or because of them. RFP timeline, shortfalls compiled, independent benchmarks, stop-loss coordination, fiduciary file built.
 
-The default routing to hospital outpatient infusion is inertia, not medicine.
+Ginny Crisp walks through the five decisions that have to land before Q1.
 
-Ginny Crisp walks through the site-of-care cost ladder and the clinical decisions employers should revisit.
-
-#PharmacyBenefits #SiteOfCare #CostContainment #InfusionTherapy
+#PharmacyBenefits #SelfFundedEmployers #PlanSponsors #Q4Planning
 
 ---
 

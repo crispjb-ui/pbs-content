@@ -223,37 +223,57 @@ This week's Benefit Blind Spots includes a **PBM RFP question bank**: 30 questio
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 113 - Tuesday 10:00 AM
-### "RFP Questions Your PBM Hopes You Never Ask" (Messy Infographic)
+### "3 Cost Containment Levers Most Self-Funded Plans Activate Too Late" (Infographic)
 
-> **Visual Build Note:** Use the **Door** metaphor infographic from `claude_design_prompts.md` (template #10). Claude design project type: **Prototype**. Plug in content that frames RFP questions as doors into PBM operations. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Three Lever Stack** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each lever as a stacked panel with a window-of-action timeline. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-> **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+**Format:** Infographic
+**Pillar:** Cost Containment Strategies
+**Word Count:** ~180 words
 
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Marked-Up Contract Page** showcase from the hybrid rotation. Template #15 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **Mock PBM contract page with standard RFP-response language highlighted in yellow and red pen margin questions: "Define competitive," "No timeline specified," "Who approves the auditor?"** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
-
-**Format:** Messy Infographic
-**Pillar:** PBM Contract Insights
-**Word Count:** ~85 words
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W3 = Infographic × Cost Containment. Monday newsletter pillar is PBM Contract Insights (PBM RFP), so no collision. Avoids the same-pillar overlap that the prior W31 Tuesday post had with Monday RFP topic.
 
 #### Post Copy
 
-RFP questions your PBM hopes you never ask.
+The cost containment levers that work are not new. The reason most plans underuse them is timing.
 
-Not "what is your discount?" They are ready for that one. The questions they are not ready for. The ones that force specificity. The ones where a vague answer is a red flag.
+Lever 1: Biosimilar coverage repositioning. When a Humira, Stelara, or Enbrel biosimilar launches, the PBM's default tier placement runs at non-preferred for six to nine months. Plans that wait for the PBM to re-tier pay the spread for that entire window. Plans that pre-position with their broker capture savings from the launch month.
 
-What AWP source? Ingredient or total claim? Specialty included in rebates? Savings methodology auditable? Termination notice period? Raw data access?
+Lever 2: Site-of-care steering on infusions. The same biologic infused at a hospital outpatient department vs. home infusion can run several multiples in cost. Most plans do not steer because the steering language is not in the medical-pharmacy coordination agreement.
 
-Standard RFPs ask questions PBMs can spin. These questions force commitment. The answers reveal everything.
+Lever 3: PA criteria reset on Q4/Q1 launches. New molecules show up in claims before PA gates are written. The plan accepts the PBM's default permissive position, then tightens after the spend already happened.
 
-#PharmacyBenefits #PBMRFP #ContractNegotiation #SelfFundedEmployers
+Each lever has a window. The window closes on its own schedule, not the renewal cycle's.
 
-#### Messy Infographic Concept
+#PharmacyBenefits #CostContainment #SpecialtyPharmacy #SelfFundedEmployers
 
-**Title:** RFP Questions Your PBM Hopes You Never Ask
-**Style:** Handwritten question list with red flag indicators
-**Dimensions:** 1080 x 1350 px
+#### Infographic Concept
 
-**Layout:** Off-white grid background. Six hand-drawn question boxes, each with a "red flag" indicator (red triangle) showing what a bad answer looks like. Annotation arrows between boxes. Bottom: "Standard RFPs ask the easy questions. These are the hard ones."
+**Layout:** Vertical three-panel stack. Each panel represents one lever with a window-of-action timeline beneath it. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) timeline highlights, white background.
+
+**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Cost Containment Levers Most Plans Activate Too Late." Stopwatch icon in Accent Blue.
+
+**Panel 1 - Biosimilar Repositioning:**
+- Comparison scale icon, Primary Blue, 50px
+- Headline: "Pre-position the tier before launch."
+- Body: "Humira, Stelara, Enbrel biosimilars default to non-preferred for 6-9 months. Plans that wait pay the spread for the entire window."
+- Window indicator (Accent Blue bar): "Action window closes 30 days post-launch."
+
+**Panel 2 - Site-of-Care Steering:**
+- Building/home contrast icon, Primary Blue, 50px
+- Headline: "Steer infusions out of hospital outpatient."
+- Body: "Same biologic, hospital outpatient vs. home infusion, several multiples in cost. Steering requires the medical-pharmacy coordination agreement."
+- Window indicator (Accent Blue bar): "Action window opens at member start, never closes."
+
+**Panel 3 - PA on Q4/Q1 Launches:**
+- Calendar + gate icon, Primary Blue, 50px
+- Headline: "Write the PA before the first claim."
+- Body: "New molecules launched in Q4 or Q1 default to permissive PBM coverage. Tightening after the spend has already happened costs more than gating it on day one."
+- Window indicator (Accent Blue bar): "Action window: 60 days pre-launch to first claim."
+
+**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Each lever has its own clock. None match the renewal cycle." PBS logo bottom-right, team@rxbs.org bottom-left.
+
+**Style:** Clean professional format. Roboto body (16-18pt), Krona One for panel headers (20-22pt). Icons flat, single-color, 40-50px.
 
 ---
 
@@ -263,13 +283,11 @@ Standard RFPs ask questions PBMs can spin. These questions force commitment. The
 
 #### Reshare Copy
 
-Standard RFP questions have standard answers PBMs rehearse. The questions that force specificity are different.
+Three cost containment levers consistently get activated too late: biosimilar repositioning before launch, infusion site-of-care steering, and PA on Q4/Q1 launches. Each has a window. None match the renewal cycle.
 
-AWP source, ingredient vs. total claim, specialty rebate treatment, audit methodology, termination terms, and raw data access all separate the real answers from the marketing.
+Ginny Crisp walks through what the windows look like and how to catch them.
 
-Ginny Crisp breaks down the questions.
-
-#PharmacyBenefits #PBMRFP #ContractNegotiation #SelfFundedEmployers
+#PharmacyBenefits #CostContainment #SpecialtyPharmacy #SelfFundedEmployers
 
 ---
 

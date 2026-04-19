@@ -193,50 +193,73 @@ This week's Benefit Blind Spots includes a **specialty drug management assessmen
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 125 - Tuesday 10:00 AM
-### "The Specialty Drug Management Gap" (Messy Infographic)
+### "3 Clinical Programs That Earn Their Cost. And 3 That Often Do Not." (Infographic)
 
-> **Visual Build Note:** Use the **Tree** metaphor infographic from `claude_design_prompts.md` (template #11). Claude design project type: **Prototype**. Plug in content that frames specialty outcomes growing from management levers below. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Earned vs. Reported Comparison** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames a six-program list split into two columns with a clear visual divider. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Sticky Note Dashboard** showcase from the hybrid rotation. Template #14 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **Eight sticky notes across the PBS specialty management levers (formulary, prior auth, dispensing channel, patient support, clinical monitoring, etc.) each with one metric showing room for improvement.** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
-
-**Format:** Messy Infographic
+**Format:** Infographic
 **Pillar:** Clinical Pharmacy Perspectives
-**Word Count:** ~85 words
+**Word Count:** ~210 words
+
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W6 = Infographic × Clinical Pharmacy. Monday newsletter pillar is Cost Containment (Specialty Management), so no collision. Clinical Pharmacy averaged 23,701 impressions across 2 prior posts (5,807 ex-viral); the GLP-1 post produced the single highest-impression text post on record (41,594).
 
 #### Post Copy
 
-The specialty drug management gap.
+Not every clinical program earns its cost. We see the same pattern across audits.
 
-What your PBM manages: routing, formulary, authorization, reporting.
-What they own: often the specialty pharmacy itself.
-What you can see: the summary report.
-What you cannot see: whether the routing, the formulary, and the authorization criteria serve your cost objectives or theirs.
+Programs that consistently earn their cost:
 
-Eight levers determine specialty cost. Most plans have gaps on at least half. The levers with gaps are where the unrealized savings live.
+1. Specialty case management for high-cost claimants. When a single member is on a gene therapy or anti-amyloid infusion, hands-on care coordination prevents avoidable claims. The ROI is documentable.
 
-#PharmacyBenefits #SpecialtyPharmacy #CostContainment #SelfFundedEmployers
+2. Biosimilar transition support with prescriber engagement. Humira-to-adalimumab and Stelara-to-ustekinumab transitions work when the prescriber is briefed first. Without the prescriber, complaints overrun the savings.
 
-#### Messy Infographic Concept
+3. Prior authorization on first-launch specialty drugs. Q4/Q1 launches need a gate. PA on a new molecule prevents permissive default coverage from running for two quarters.
 
-**Title:** The Specialty Management Gap
-**Style:** Two-column "What the PBM Manages" vs. "What You Can See" with gap highlighted
-**Dimensions:** 1080 x 1350 px. Hand-drawn. Left column shows 8 levers. Right column shows visibility level (checkmark or question mark). Red circles around gaps.
+Programs that often do not earn their cost as reported:
+
+1. DUR alerts that pharmacists override. The PBM counts every alert as a savings event. Most are clinically irrelevant. The override rate is the real metric.
+
+2. Step therapy that credits patients who would have started on step 1 anyway. The savings methodology counts members the program did not actually steer.
+
+3. MTM programs without measurable adherence outcomes. The contact happened. Whether it changed anything is the question the report does not answer.
+
+#PharmacyBenefits #ClinicalPharmacy #PBMPrograms #SelfFundedEmployers
+
+#### Infographic Concept
+
+**Layout:** Vertical two-column comparison. Left column "Earns Its Cost" in Primary Blue (#015880). Right column "Often Does Not" in red (#C0392B). Three programs per column with one-line descriptors.
+
+**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Clinical Programs That Earn Their Cost. And 3 That Often Do Not." Pill + magnifying glass icon in Accent Blue.
+
+**Left Column - "Earns Its Cost":**
+1. Specialty case management for high-cost claimants. *"Hands-on coordination prevents avoidable gene therapy or anti-amyloid claims."*
+2. Biosimilar transition support with prescriber engagement. *"Humira-to-adalimumab works when the prescriber is briefed first."*
+3. PA on first-launch specialty drugs. *"A gate on day one beats tightening after two quarters of permissive coverage."*
+
+**Right Column - "Often Does Not":**
+1. DUR alerts pharmacists override. *"PBM counts every alert as savings. Most are clinically irrelevant."*
+2. Step therapy crediting members who would have started step 1 anyway. *"Methodology counts behavior the program did not change."*
+3. MTM without measurable adherence outcomes. *"Contact happened. Outcome unmeasured."*
+
+**Center Divider:** Vertical hand-drawn line in Gray (#4D4D4D) separating the columns. At the top, a small balance/scale icon.
+
+**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Ask for the methodology. The program either earns its cost or it earns its line item." PBS logo bottom-right, team@rxbs.org bottom-left.
+
+**Style:** Clean professional format. Roboto body (16-18pt), Krona One for column headers (22-24pt). Color contrast (Primary Blue vs. red) drives visual separation between earned and unearned.
 
 ---
 
 ## Post 125 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 48 words
+**Word Count:** 49 words
 
 #### Reshare Copy
 
-Your PBM manages specialty routing, formulary, and authorization. They often own the specialty pharmacy itself.
+Three clinical programs consistently earn their cost: specialty case management, biosimilar transition with prescriber engagement, and PA on first-launch specialty drugs. Three often do not as reported: DUR overrides, step therapy crediting non-steered members, and MTM without measured outcomes.
 
-What the summary report shows is not the same as what the plan is paying for.
+Ginny Crisp walks through how to tell which is which.
 
-Ginny Crisp maps the eight specialty management levers and where the gaps usually hide.
-
-#PharmacyBenefits #SpecialtyPharmacy #CostContainment #SelfFundedEmployers
+#PharmacyBenefits #ClinicalPharmacy #PBMPrograms #SelfFundedEmployers
 
 ---
 

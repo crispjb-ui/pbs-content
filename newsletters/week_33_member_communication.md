@@ -206,31 +206,55 @@ This week's Benefit Blind Spots includes a **communication template library**: f
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 121 - Tuesday 10:00 AM
-### "Why Members Reject Good Benefit Changes" (Infographic)
+### "5 Conversations Strong Brokers Are Having With Clients in Q4 2026" (Carousel)
 
-> **Visual Build Note:** Use the **Bridge** metaphor infographic from `claude_design_prompts.md` (template #6). Claude design project type: **Prototype**. Plug in content that frames benefit change to member understanding, the communication bridge. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Conversation Stack** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each conversation with one-line stakes beneath it. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
 
-**Format:** Standard Infographic (INFO - Before/After)
+**Format:** Carousel (6 slides)
 **Pillar:** Broker/Consultant Resources
-**Word Count:** ~85 words
+**Word Count:** ~205 words
+
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W5 = Carousel × Broker/Consultant Resources. Monday newsletter pillar is Self-Funded Employer Guidance (Member Communication), so no collision. Broker/Consultant gets one Tuesday slot per 6-week cycle.
 
 #### Post Copy
 
-Why members reject good benefit changes.
+The brokers we work most often with are running the same five conversations with self-funded clients this quarter.
 
-The clinical decision: sound. The financial rationale: justified. The member's experience: "they are taking away my medication."
+1. The biosimilar pipeline. Humira biosimilars are baseline. Stelara biosimilars are next. Enbrel and others follow. Pre-launch coverage positioning beats post-launch chasing every time.
 
-Pharmacy changes are uniquely sensitive. Members hear "formulary change" and think "my drug is being removed." They hear "biosimilar transition" and think "cheaper substitute." They hear "prior authorization" and think "barrier to my treatment."
+2. Stop-loss alignment with pharmacy. Specialty drugs, gene therapies, and high-cost claimants now move stop-loss attachment math. Pharmacy and stop-loss carriers should be in the same room.
 
-The communication determines whether the change is accepted or resisted. Same decision. Different messaging. Different outcome.
+3. The 2026 PBM evaluation calendar. If renewal is in H2 2026, RFP planning starts in Q4 2025. Most plans miss this window.
 
-#PharmacyBenefits #MemberCommunication #BenefitChanges #SelfFundedEmployers
+4. Fiduciary documentation review. ERISA litigation in pharmacy is accelerating. The selection memo, performance reviews, and committee minutes are either in the file or they are not.
 
-#### Infographic Concept
+5. Independent claims data access. The contract usually grants it. Most plans have never used it. The brokers who pull it independently negotiate different outcomes.
 
-**Title:** Why Members Reject Good Benefit Changes
-**Dimensions:** 1080 x 1350 px
-**Style:** Two-column "What You Said" vs. "What They Heard" with five rows. Left column (employer intent) in Primary Blue, right column (member perception) in red. Visual disconnect highlighted.
+Broker partners who run all five conversations enter renewal as advisors. The ones who wait for the PBM to set the agenda enter as bystanders.
+
+Self-funded sponsors should expect the full set.
+
+#PharmacyBenefits #BrokerResources #SelfFundedEmployers #PBMRenewal
+
+#### First Comment
+
+More in this week's Pharmacy Benefits Briefing on member communication: [LINKEDIN NEWSLETTER URL]
+
+#### Carousel Slide Descriptions
+
+**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "5 Conversations Strong Brokers Are Having in Q4 2026." Accent Blue subtitle: "Run all five and you walk into renewal as an advisor."
+
+**Slide 2 - Conv 1 Biosimilar Pipeline:** White background. Krona One Primary Blue: "The Biosimilar Pipeline." Body: "Humira baseline. Stelara next. Enbrel follows. Pre-launch coverage positioning beats post-launch chasing."
+
+**Slide 3 - Conv 2 Stop-Loss Alignment:** Accent Blue background. Primary Blue Krona One: "Stop-Loss + Pharmacy Alignment." Body: "Gene therapies and high-cost claimants now move attachment math. Pharmacy and stop-loss belong in the same room."
+
+**Slide 4 - Conv 3 PBM Evaluation Calendar:** White background. Krona One: "The 2026 PBM Evaluation Calendar." Body: "H2 2026 renewal = RFP planning Q4 2025. Most plans miss the window."
+
+**Slide 5 - Conv 4 Fiduciary File:** Primary Blue background. White Krona One: "Fiduciary Documentation Review." Accent Blue body: "Selection memo, performance reviews, committee minutes. They are in the file or they are not."
+
+**Slide 6 - CTA:** Primary Blue background. White Krona One: "Brokers who run all five enter as advisors. The rest enter as bystanders." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One headers (28-34pt), Roboto body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 
@@ -240,13 +264,11 @@ The communication determines whether the change is accepted or resisted. Same de
 
 #### Reshare Copy
 
-A clinically sound, financially justified change can still land as "they are taking away my medication" if the message is wrong.
+The strongest broker partners are running five conversations with self-funded clients this quarter: biosimilar pipeline, stop-loss + pharmacy alignment, 2026 PBM evaluation calendar, fiduciary documentation, and independent claims data access.
 
-Formulary changes, biosimilar transitions, and PA implementations each carry their own communication risk.
+Ginny Crisp walks through what each conversation looks like at the table.
 
-Ginny Crisp covers what members hear versus what employers intend.
-
-#PharmacyBenefits #MemberCommunication #BenefitChanges #SelfFundedEmployers
+#PharmacyBenefits #BrokerResources #SelfFundedEmployers #PBMRenewal
 
 ---
 

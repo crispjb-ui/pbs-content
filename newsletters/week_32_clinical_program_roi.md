@@ -207,45 +207,63 @@ This week's Benefit Blind Spots includes a **clinical program evaluation scoreca
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 117 - Tuesday 10:00 AM
-### "What Your PBM's Clinical Programs Actually Deliver" (Messy Infographic)
+### "4 Things Your PBM's Quarterly Report Does Not Show" (Messy Infographic)
 
-> **Visual Build Note:** Use the **Funnel** metaphor infographic from `claude_design_prompts.md` (template #7). Claude design project type: **Prototype**. Plug in content that frames clinical program spend funneling toward claimed savings. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Report Margin Notes** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames a stylized PBM quarterly report cover page with four red-pen margin annotations identifying what is missing. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
 **Format:** Messy Infographic
-**Pillar:** Clinical Pharmacy Perspectives
-**Word Count:** ~85 words
+**Pillar:** Transparency & Industry Education
+**Word Count:** ~165 words
+
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W4 = Messy Infographic × Transparency. Monday newsletter pillar is Clinical Pharmacy (Clinical Program ROI), so no collision. Fixes the prior W32 same-pillar overlap (the original Tuesday post was on clinical programs, same Clinical Pharmacy pillar as Monday). Transparency hit 26,431 impressions on the single prior post and is one of the three top-weighted pillars.
 
 #### Post Copy
 
-What your PBM's clinical programs actually deliver vs. what they report.
+The PBM quarterly report shows what the PBM wants the plan to see. The metrics that matter often live in what is missing.
 
-Reported: PA saved $500,000. Reality: most denied claims would have been filled with an alternative anyway. The net savings is the cost difference, not the full cost of the denied drug.
+Four things we look for in the gaps:
 
-Reported: step therapy saved $300,000. Reality: many members would have started with the step drug regardless. The program gets credit for behavior it did not change.
+1. Net cost per script trended quarterly. The aggregate is in the report. The trend almost never is.
 
-The headline number is not the real number. The methodology determines which one you see.
+2. Channel-level cost breakdown for the same NDC. Retail, mail, specialty, white-bag, home infusion. The PBM has the data. The report does not show the comparison.
 
-#PharmacyBenefits #ClinicalPrograms #PBMTransparency #ROI
+3. Rebate-eligible vs. ineligible claim count. The report shows total rebates. The eligibility ratio that produced them is buried in the methodology, not the dashboard.
+
+4. PA approval rate by drug class. The report shows total PA volume. Approval rate by therapeutic area surfaces where step therapy is failing or formulary is misaligned.
+
+Every one of these is producible from data the PBM already has. None of them appear by default. Ask for the four. The PBM's response tells you what kind of relationship you have.
+
+#PharmacyBenefits #Transparency #PBMReporting #SelfFundedEmployers
 
 #### Messy Infographic Concept
 
-**Title:** Reported vs. Verified: Clinical Program Savings
-**Style:** Two-column "What They Report" vs. "What We Verify" with hand-drawn arrows showing the gap
-**Dimensions:** 1080 x 1350 px. Six program rows, left column (reported, large numbers), right column (verified, smaller numbers), gap highlighted in red.
+**Layout:** Off-white (#F5F5F0) background. A stylized "PBM Quarterly Report" cover page rendered in the center, with handwritten red-pen margin annotations (Caveat font) pointing at four blank spaces where critical metrics should appear.
+
+**Center document:** Hand-drawn rectangle representing the report cover. Title: "PBM Quarterly Report — Q3 2026" in mock professional type. Below it, four standard report sections rendered (Total Spend, Total Rebates, PA Volume, Specialty Mix), each with placeholder bar charts.
+
+**Four red-pen margin annotations** with handwritten arrows pointing at blank zones around the report:
+1. Top-right margin: "WHERE IS THE TREND? Aggregate hides direction."
+2. Middle-right margin: "Same NDC, different channels = different cost. Not shown."
+3. Bottom-right margin: "Rebate eligibility ratio? Buried in methodology, not here."
+4. Bottom-left margin: "PA approval rate BY drug class. Total volume hides where step therapy is failing."
+
+**Bottom band:** Accent Blue (#A7E0FA) with handwritten Primary Blue text: "Ask for the four. The response tells you what relationship you have." PBS logo bottom-right.
+
+**Style:** Whiteboard-sketch aesthetic. Red (#C0392B) for all margin annotations. Primary Blue (#015880) for the report's mock structure. Light gray (#E0E0E0) for placeholder charts inside the report.
 
 ---
 
 ## Post 117 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 48 words
+**Word Count:** 49 words
 
 #### Reshare Copy
 
-Reported clinical program savings and verified clinical program savings are rarely the same number. The methodology behind PA, step therapy, and DUR counts avoided costs that were never going to occur.
+The PBM quarterly report shows what the PBM wants the plan to see. Four metrics that determine real plan performance almost never appear: trended net cost per script, same-NDC channel breakdown, rebate eligibility ratio, and PA approval rate by drug class.
 
-Ginny Crisp walks through the gap between what the PBM reports and what actually saved.
+Ginny Crisp walks through how to ask.
 
-#PharmacyBenefits #ClinicalPrograms #PBMTransparency #ROI
+#PharmacyBenefits #Transparency #PBMReporting #SelfFundedEmployers
 
 ---
 

@@ -240,46 +240,52 @@ This week's Benefit Blind Spots includes a **rebate contract analysis framework*
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 105 - Tuesday 10:00 AM
-### "The Rebate You Think You're Getting" (Animated Carousel)
+### "The Audit Right Most Self-Funded Plans Never Exercise" (Messy Infographic)
 
-> **Visual Build Note:** Animated carousel ALREADY PRODUCED, moved from Week 17 Tuesday. Hand-drawn/whiteboard aesthetic showing rebate flow: manufacturer pays PBM, PBM retains a portion, remainder passes to plan. Flow diagram with arrows, crossed-out numbers, and a callout highlighting the Visibility Gap between guaranteed and actual rebate dollars. No rebuild needed - just schedule and post.
+> **Visual Build Note:** Use the **Calendar/Window** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames audit windows opening and closing across a multi-year contract timeline, with most windows shaded "unused." Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-> **Monthly Hybrid Showcase (optional):** This week is still the scheduled **Ledger with Annotations** showcase from the hybrid rotation. Template #18 in `claude_design_prompts.md`. If Ginny wants a higher-effort alternative or Saturday "Data Desk" post this week, use this instead. Plug in: **Rebate flow ledger showing gross rebate column, PBM-retained column, plan-received column with the PBM-retained column circled in red and annotation "This is the leakage column."** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
+**Format:** Messy Infographic
+**Pillar:** PBM Contract Insights
+**Word Count:** ~170 words
 
-**Format:** Animated Carousel (moved from Week 17)
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~90 words
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W1 = Messy Infographic × PBM Contract Insights. Monday newsletter pillar is Transparency & Industry Education (Rebate Economics), so no collision. Fixes the prior W29 same-pillar overlap (the original Tuesday post was on rebates, same as Monday). PBM Contract Insights averaged 10,315 impressions across 8 prior posts.
 
 #### Post Copy
 
-Your PBM guarantees a rebate number. But how much actually reaches your plan?
+Every PBM contract includes an audit right. Almost no plan exercises it.
 
-Manufacturer pays PBM. PBM retains a portion. Remainder passes to plan.
+In the ~100 contracts we review annually, the pattern is consistent. The audit right is in the contract from day one. It usually allows the plan or its designee to audit claims, rebate calculations, and guarantee performance. The window to exercise is typically annual, sometimes shorter.
 
-The Visibility Gap between what the manufacturer paid and what your plan received is where PBM margin lives.
+The audit right expires with the clock. Year passes, right resets, year passes again. By renewal, three or four audit windows have come and gone unused.
 
-The "rebate" you were promised and the rebate that was collected are not the same number.
+The PBM does not remind the plan that the right exists. Why would they.
 
-Ask your PBM: what was collected vs. what was passed through? Then ask which contract provisions define the answer.
+When we run an audit on a plan that has never audited, we find findings. Recoverable findings. Sometimes recoverable for the prior period only, because earlier windows already closed.
 
-#PharmacyBenefits #PBMTransparency #Rebates #SelfFundedEmployers
+The right costs nothing. Using it requires knowing it exists, knowing the window, and pulling the trigger before the clock resets.
+
+#PharmacyBenefits #PBMContracts #AuditRights #SelfFundedEmployers
 
 #### First Comment
 
-This week's Pharmacy Benefits Briefing covers the eight rebate contract provisions that determine the answer: [LINKEDIN NEWSLETTER URL]. The full PBM Contract Language Library has the protective language: https://benefitblindspots.substack.com/p/pbm-contract-language-library
+More in this week's Pharmacy Benefits Briefing on rebate economics: [LINKEDIN NEWSLETTER URL]
 
-#### Carousel Concept Reference (already produced)
+#### Messy Infographic Concept
 
-**Title:** The Rebate You Think You're Getting
-**Style:** Hand-drawn money flow, animated carousel
-**Dimensions:** 1080 x 1350 px per slide
+**Layout:** Off-white (#F5F5F0) background with faint grid lines. Hand-drawn whiteboard style. Horizontal multi-year contract timeline running across the full width.
 
-**Layout reference:**
-- Flow diagram: Manufacturer ($100) → PBM (keeps $40) → Plan (receives $60)
-- Callout: "Your guarantee said $55. They collected $100. You got $60. Where's the other $40?"
-- Bottom: "The rebate you think you're getting vs. the rebate that was collected"
-- Brand colors: Primary Blue #015880 headers, Accent Blue #A7E0FA highlights
-- Disclaimer: Illustrative example for educational purposes. Actual amounts vary by plan.
+**Top header:** Caveat-style handwritten in Primary Blue (#015880), 34pt: "The Audit Right Most Plans Never Use."
+
+**Center timeline:** Three contract years labeled Year 1, Year 2, Year 3. Each year contains a hand-drawn window box labeled "AUDIT WINDOW." Windows for Years 1 and 2 are shaded gray with red diagonal cross-hatching and a handwritten "EXPIRED" annotation. Year 3 window is open with a red arrow pointing at it: "This window is closing too."
+
+**Bottom band:** Three handwritten callouts:
+- "Right is in the contract from Day 1."
+- "PBM does not remind you it exists."
+- "When we audit a plan that has never audited, we find findings."
+
+**Bottom strip:** Accent Blue (#A7E0FA) with: "Pull the contract. Find the window. Use it." PBS logo bottom-right. team@rxbs.org bottom-left.
+
+**Style:** Whiteboard-sketch aesthetic. Red (#C0392B) for expiration markers and warnings. Primary Blue (#015880) for structure. Accent Blue (#A7E0FA) for the action band. Caveat-style handwriting throughout, slightly imperfect.
 
 ---
 
@@ -289,11 +295,11 @@ This week's Pharmacy Benefits Briefing covers the eight rebate contract provisio
 
 #### Reshare Copy
 
-The manufacturer pays the rebate. Your contract decides what happens next. How it is defined, which claims count, what percentage passes through, and when the plan gets paid are all written into the language.
+Every PBM contract grants an audit right. Most self-funded plans let the window expire annually without using it. By renewal, three or four windows have closed.
 
-Ginny Crisp maps the dollar and the eight provisions that control it.
+Ginny Crisp walks through what is in the contract, why the PBM does not flag it, and how to pull the trigger.
 
-#PharmacyBenefits #Rebates #PBMContracts #Transparency
+#PharmacyBenefits #PBMContracts #AuditRights #SelfFundedEmployers
 
 ---
 
