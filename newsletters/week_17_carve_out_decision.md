@@ -13,7 +13,7 @@
 | Mon Apr 27 | 7:45 AM | LinkedIn Newsletter | Carve-Out Decision Briefing | [ ] |
 | Mon Apr 27 | 12:30 PM | Substack Notes | Afternoon Note - Why this topic | [ ] |
 | Tue Apr 28 | 7:15 AM | Substack Notes | Morning Note - Industry observation | [ ] |
-| Tue Apr 28 | 8:30 AM | LinkedIn Feed | Post 57 - Contract Comparison Carousel: Audit, Pricing, Mutually Agreed provisions (different pillar) | [ ] |
+| Tue Apr 28 | 8:30 AM | LinkedIn Feed | Post 57 - "5 Contract Clauses That Cost You Money" Animated Video Carousel (different pillar) | [ ] |
 | Tue Apr 28 | 8:35 AM | LinkedIn Feed | Post 57 - First Comment | [ ] |
 | Tue Apr 28 | 12:30 PM | Substack Notes | Afternoon Note - Community engagement | [ ] |
 | Tue Apr 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 57 | [ ] |
@@ -337,11 +337,11 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 57 - Tuesday 8:30 AM
-### Contract Comparison Carousel: Audit, Pricing, Mutually Agreed
+### "5 Contract Clauses That Cost You Money" (Animated Video Carousel)
 
-> **Visual Build Note:** Carousel already produced and production-tested. Uses the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4, PROVEN April 2026). Claude design project type: **Slide deck from template**. 7 slides covering audit scope and auditor selection, claim pricing and spread pricing, "mutually agreed" weasel language, aggregate guarantees that hide per-claim spread, confidentiality restrictions. Closing slide links to the Contract Language Library.
+> **Visual Build Note:** Animated video carousel produced April 2026 (MP4, ~28 seconds). Stock-photo top-half + PBS-blue overlay with text block bottom-half on content slides. Match & Move transitions with identical text positions across slides 2-6 drive the rotation mechanic. Relocated from Week 16 Tuesday when Week 16 picked up the Library 01 static redline carousel. Different clauses (definitions-section focus), different format, complements rather than duplicates the Library 01 series.
 
-**Format:** Carousel (7 slides, 1080 x 1350 px each)
+**Format:** Animated Video Carousel (7 slides, MP4 export, ~28 seconds)
 **Pillar:** PBM Contract Insights (different pillar from Monday's carve-out/self-funded theme)
 **Word Count:** ~100 words
 
@@ -349,68 +349,53 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 
 #### Post Copy
 
-"A portion of" rebates is a trap.
+Five PBM contract clauses that cost employers money.
 
-"Mutually agreed" is where audits go to die.
+Not because they are hidden. Because the definitions section is where the real terms live, and it rarely gets the scrutiny it deserves.
 
-Aggregate guarantees hide per-claim spread.
+1. "Covered drug" - narrower than you think
+2. "Network pharmacy" - includes PBM-owned pharmacies
+3. "Generic equivalent" - may not mean cheapest option
+4. "Audit period" - shorter than useful
+5. "Rebate guarantee" - gross vs. net matters
 
-Three weasel phrases I see in almost every PBM contract. Three protections that protect the PBM, not your plan.
-
-Swipe for what each one says in real contracts vs. what to ask for instead.
+The language is there. The definitions change everything. And the Visibility Gap between what you agreed to and what those definitions actually allow is where cost hides.
 
 #PBMContracts #SelfFundedEmployers #ContractLanguage #PharmacyBenefits
 
 #### First Comment
 
-The full PBM Contract Language Library covers these plus more provisions. Free, updated quarterly from patterns we see in client contract reviews: https://benefitblindspots.substack.com/p/pbm-contract-language-library
+The full PBM Contract Language Library covers these plus more provisions. Free, updated quarterly from patterns we see across the ~100 PBM contracts we review each year: https://benefitblindspots.substack.com/p/pbm-contract-language-library. This week's Pharmacy Benefits Briefing covers the carve-out decision: [LINKEDIN NEWSLETTER URL]
 
-#### Carousel Content (reference for the slides already built)
+#### Video Build Spec
 
-Slide 1 (Cover): "CONTRACT LANGUAGE THAT COSTS YOU" / "Three provisions where vague language becomes real dollars"
+**Canvas:** 1080 x 1350 px (4:5 ratio)
+**Export:** MP4 Video, 1080p, ~28 seconds total
+**Transition:** Match & Move on all slides, 1.2 second duration
 
-Slide 2 (Audit Scope):
-- WHAT YOU MIGHT SEE: "Plan Sponsor may audit claims data, using auditor mutually agreed upon by the parties. No confidentiality provision shall limit audit scope."
-- WHAT TO ASK FOR: "Plan Sponsor may audit 100% of Claims including pharmacy-level acquisition cost, rebate invoices, and MAC lists, using an auditor chosen by Plan Sponsor's sole discretion."
-- Provision name: "AUDIT SCOPE AND AUDITOR SELECTION"
+**Global photo settings for slides 2-6:**
+- Photo frame: top half of slide (1080px wide × 600px tall, flush edges)
+- Photo fit: "Fill" (not "Fit")
+- Photo filter: Saturation -40, Contrast +10. Then layer a rectangle (1080x600) filled #015880 at 15% transparency on top of photo. This tints all photos with PBS blue for cohesion.
+- All element positions below the photo are IDENTICAL across slides 2-6 (this is what makes Match & Move work)
 
-Slide 3 (Claim Pricing):
-- WHAT YOU MIGHT SEE: "The amount charged to Plan Sponsor shall be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis."
-- WHAT TO ASK FOR: "The amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted."
-- Provision name: "CLAIM PRICING"
+*Full slide-by-slide build spec (Slides 1-7) and the eight alternative video concepts (Stat Reveal, Flow Chart, List, Comparison Reveal formats) are archived in the Week 16 file history prior to the April 2026 relocation. Reinsert the full spec here before production if rebuilding; for the April 2026 posting, the produced MP4 is ready to upload.*
 
-Slide 4 ("Mutually Agreed"):
-- Top caption: "Mutually agreed is where audits go to die. Take auditor selection and scope off the table as negotiable items. They are the audit."
-- Bottom: Protective counter-language framing the auditor and scope as Plan Sponsor's sole right.
-- Provision name: "MUTUAL AGREEMENT TRAPS"
-
-Slide 5 (Aggregate Guarantees):
-- Top caption: "Aggregate guarantees hide per-claim spread. Tie the price you pay to the price the pharmacy receives, claim by claim, and the spread disappears."
-- Bottom: Protective counter-language requiring per-claim pricing visibility.
-- Provision name: "AGGREGATE GUARANTEE TRAPS"
-
-Slide 6 ("A Portion Of" Rebates):
-- Top caption: "'A portion of' rebates is a trap. The money lives in the fees that aren't called rebates: aggregator, admin, data, inflation. Name them all. Put a clock on them."
-- Bottom: Protective rebate definition covering all manufacturer revenue.
-- Provision name: "REBATE DEFINITION"
-
-Slide 7 (Close): "VAGUE LANGUAGE IS BY DESIGN." / Link to Contract Language Library
-
-*Carousel produced in Claude design, slide deck template. Production-tested April 2026.*
+*Animated video carousel produced April 2026. Relocated from Week 16 Tuesday.*
 
 ---
 
 ## Post 57 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 48 words
+**Word Count:** 46 words
 
 #### Reshare Copy
 
-The rebate guarantee your PBM promised may not match the rebate your plan actually receives. The gap between "collected" and "passed through" is where admin fees, aggregation fees, and market access fees live.
+Five PBM contract clauses quietly shape what your plan actually pays. The definitions section is where the real terms live, and it rarely gets the scrutiny it deserves.
 
-Ginny Crisp walks through how to read the flow and close the gap.
+Ginny Crisp breaks down the language that changes everything about your pharmacy spend.
 
-#PharmacyBenefits #Rebates #PBMContracts #Transparency
+#PharmacyBenefits #PBMContracts #SelfFundedEmployers #ContractLanguage
 
 ---
 
