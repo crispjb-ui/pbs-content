@@ -108,6 +108,38 @@ SUBSTACK NOTES: Daily morning (7:15 AM) + afternoon (12:30 PM) Mon-Fri, Saturday
 - **Thursday:** Weekly theme visual (carousel, infographic, or messy infographic)
 - **Friday:** Tease hook teasing Monday newsletter (replaced polls)
 
+### Non-Topic Slot Rotation (Added April 19, 2026)
+
+Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressions / 8 posts; Transparency 26,431 / 1 post; Clinical Pharmacy 5,807 ex-viral / 2 posts; Cost Containment 3,244 / 6 posts), the two non-topic visual slots per week (Tuesday + Thursday) follow a codified rotation that weights toward the top-performing pillars while guaranteeing all six pillars appear across each 6-week cycle.
+
+**Thursday evergreen rotation (locked templates, 3-week cycle, appears 2x per 6-week cycle):**
+- **Slot A:** Contract Language Decoder (Messy Infographic) — PBM Contract Insights
+- **Slot B:** "Same X. Same Y. Different Z." (Carousel) — Transparency & Industry Education *(shifted from Cost Containment, the worst-performing pillar)*
+- **Slot C:** "5 Questions Your PBM Hopes You Don't Ask" (Carousel) — Clinical Pharmacy Perspectives *(shifted from Transparency; the format proved there, moving the pillar experiment to one with a viral track record)*
+
+**Tuesday 6-week pillar grid (cycle anchor: Week 17 = Cycle-W1):**
+
+| Cycle Week | Template | Pillar |
+|------------|----------|--------|
+| W1 | Messy Infographic | PBM Contract Insights |
+| W2 | Carousel | Self-Funded Employer Guidance |
+| W3 | Infographic | Cost Containment Strategies |
+| W4 | Messy Infographic | Transparency & Industry Education |
+| W5 | Carousel | Broker/Consultant Resources |
+| W6 | Infographic | Clinical Pharmacy Perspectives |
+
+**Collision rule:** When the Tuesday cycle pillar matches that week's Monday theme (anti-cannibalization violation), swap with the next non-colliding pillar in the cycle and carry the displaced pillar forward.
+
+**Expected distribution per 6-week cycle (12 non-topic slots total):**
+- PBM Contract Insights: 3 (25%)
+- Transparency: 3 (25%)
+- Clinical Pharmacy: 3 (25%)
+- Cost Containment: 1 (8%)
+- Self-Funded Guidance: 1 (8%)
+- Broker/Consultant Resources: 1 (8%)
+
+75% of non-topic slots on the top 3 performing pillars. 100% pillar coverage per cycle. Monday themes continue to rotate through all six pillars across the calendar.
+
 ---
 
 ## Q2 2026 Post Calendar (Posts 41-88)
