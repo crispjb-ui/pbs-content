@@ -11,7 +11,7 @@
 | Mon Jul 20 | 7:30 AM | Substack | "Rebate Economics: What Your PBM's Rebate Report Is Not Showing You" | [ ] |
 | Mon Jul 20 | 7:45 AM | LinkedIn Newsletter | Rebate Economics Briefing | [ ] |
 | Mon Jul 20 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jul 21 | 10:00 AM | LinkedIn Feed | Post 105 - "Follow the Rebate Dollar" MESSY INFOGRAPHIC | [ ] |
+| Tue Jul 21 | 10:00 AM | LinkedIn Feed | Post 105 - "The Rebate You Think You're Getting" Animated Carousel (moved from Wk 17) | [ ] |
 | Tue Jul 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 105 | [ ] |
 | Wed Jul 22 | 10:00 AM | LinkedIn Feed | Post 106 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Jul 23 | 7:30 AM | Substack | Field Note: "Three Rebate Report Red Flags That Signal Margin Retention" | [ ] |
@@ -240,61 +240,46 @@ This week's Benefit Blind Spots includes a **rebate contract analysis framework*
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 105 - Tuesday 10:00 AM
-### "Follow the Rebate Dollar" (Messy Infographic)
+### "The Rebate You Think You're Getting" (Animated Carousel)
 
-> **Visual Build Note:** Use the **Iceberg** metaphor infographic from `claude_design_prompts.md` (template #5). Claude design project type: **Prototype**. Plug in content that frames reported rebate performance at surface vs margin retention below. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Animated carousel ALREADY PRODUCED, moved from Week 17 Tuesday. Hand-drawn/whiteboard aesthetic showing rebate flow: manufacturer pays PBM, PBM retains a portion, remainder passes to plan. Flow diagram with arrows, crossed-out numbers, and a callout highlighting the Visibility Gap between guaranteed and actual rebate dollars. No rebuild needed - just schedule and post.
 
-> **Visual Build Note (Carousel):** Use the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+> **Monthly Hybrid Showcase (optional):** This week is still the scheduled **Ledger with Annotations** showcase from the hybrid rotation. Template #18 in `claude_design_prompts.md`. If Ginny wants a higher-effort alternative or Saturday "Data Desk" post this week, use this instead. Plug in: **Rebate flow ledger showing gross rebate column, PBM-retained column, plan-received column with the PBM-retained column circled in red and annotation "This is the leakage column."** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
 
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Ledger with Annotations** showcase from the hybrid rotation. Template #18 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **Rebate flow ledger showing gross rebate column, PBM-retained column, plan-received column with the PBM-retained column circled in red and annotation "This is the leakage column."** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
-
-**Format:** Messy Infographic
+**Format:** Animated Carousel (moved from Week 17)
 **Pillar:** Transparency & Industry Education
-**Word Count:** ~85 words
+**Word Count:** ~90 words
 
 #### Post Copy
 
-Follow the rebate dollar.
+Your PBM guarantees a rebate number. But how much actually reaches your plan?
 
-Manufacturer pays the PBM. PBM retains a portion. The rest goes to your plan. How much the PBM retains depends entirely on eight contract provisions most employers have never read.
+Manufacturer pays PBM. PBM retains a portion. Remainder passes to plan.
 
-The definition of "rebate." Which claims qualify. The pass-through percentage. The payment timing. The audit access. The guarantee methodology. The true-up.
+The Visibility Gap between what the manufacturer paid and what your plan received is where PBM margin lives.
 
-Each provision either protects the plan or protects the PBM's margin. Your contract determines which.
+The "rebate" you were promised and the rebate that was collected are not the same number.
 
-#PharmacyBenefits #RebateEconomics #PBMTransparency #SelfFundedEmployers
+Ask your PBM: what was collected vs. what was passed through? Then ask which contract provisions define the answer.
+
+#PharmacyBenefits #PBMTransparency #Rebates #SelfFundedEmployers
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+This week's Pharmacy Benefits Briefing covers the eight rebate contract provisions that determine the answer: [LINKEDIN NEWSLETTER URL]. The full PBM Contract Language Library has the protective language: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 
-#### Messy Infographic Concept
+#### Carousel Concept Reference (already produced)
 
-**Title:** Follow the Rebate Dollar
-**Style:** Hand-drawn money flow
-**Dimensions:** 1080 x 1350 px
+**Title:** The Rebate You Think You're Getting
+**Style:** Hand-drawn money flow, animated carousel
+**Dimensions:** 1080 x 1350 px per slide
 
-**Layout:**
-
-**Top:** Off-white background. Handwritten header: "Follow the Rebate Dollar" (Caveat, 36pt, Primary Blue).
-
-**Flow diagram (top to bottom):**
-- "MANUFACTURER" box at top with dollar signs
-- Hand-drawn arrow down, labeled "Pays rebates for formulary placement"
-- "PBM" box in center (larger, Accent Blue background)
-- Two arrows from PBM:
-  - Left arrow (red, to a red pocket icon): "Retains: ???" with red circle around "???"
-  - Right arrow (green, to plan icon): "Passes through: ???" with green circle
-- "YOUR PLAN" box at bottom
-
-**Annotation callouts around PBM box:**
-- "How is 'rebate' defined?" (pointing to top arrow)
-- "Which claims count?" (pointing to left)
-- "What percentage?" (pointing to right arrow)
-- "When do you get paid?" (pointing to bottom arrow)
-- Red annotation: "The contract answers every question. Have you read it?"
-
-**Footer:** "8 provisions. Your contract." PBS logo. team@rxbs.org.
+**Layout reference:**
+- Flow diagram: Manufacturer ($100) → PBM (keeps $40) → Plan (receives $60)
+- Callout: "Your guarantee said $55. They collected $100. You got $60. Where's the other $40?"
+- Bottom: "The rebate you think you're getting vs. the rebate that was collected"
+- Brand colors: Primary Blue #015880 headers, Accent Blue #A7E0FA highlights
+- Disclaimer: Illustrative example for educational purposes. Actual amounts vary by plan.
 
 ---
 

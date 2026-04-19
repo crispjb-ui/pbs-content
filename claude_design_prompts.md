@@ -112,7 +112,9 @@ Style: feels like a pharmacist working through reasoning on a whiteboard. Delibe
 
 ---
 
-## 4. Contract comparison carousel (7 slides)
+## 4. Contract comparison carousel (7 slides) — PROVEN (April 2026)
+
+**Production-tested:** First built for Week 17 Tuesday (April 22, 2026) and came out production-quality. Reuse as a template for future contract-comparison carousels. Save the Claude design project as "Contract Comparison Carousel Template v1."
 
 ```
 Create a 7-slide LinkedIn carousel as HTML+CSS artifact. 1080 x 1350 px per slide.
@@ -680,3 +682,44 @@ Consider running one hybrid format per month as a signature Tuesday or Thursday 
 | October | Marked-Up Contract Page | 31 | RFP question-by-question markup |
 | November | Sticky Note Dashboard | 34 | Specialty management factors |
 | December | Marked-Up Contract Page | 36 | Contract red flags with margin notes |
+
+---
+
+## Template Reusability
+
+Which templates have been production-tested and are ready for plug-in-only workflow (no rebuild required). As templates prove out, they move from "first build ~60 min" to "subsequent build ~20-30 min" because everything except content is locked.
+
+| Template | Status | First production use | Plug-in only fields |
+|----------|--------|---------------------|---------------------|
+| #4 Contract comparison carousel | PROVEN (April 2026) | Week 17 Tuesday Apr 22 | Cover title, 5 provisions (weak + strong + provision name each), closing takeaway |
+| #1 Clean single-image infographic | Not yet tested | Pending first use | HEADLINE, SUBHEAD, 5 Label/Body pairs, CTA |
+| #2 Seven-slide carousel (master) | Not yet tested | Pending first use | Cover title/subhead, 5 content slide texts, close takeaway |
+| #3 Whiteboard carousel | Not yet tested | Pending first use | Cover title, per-slide label + headline + body, takeaway |
+| #5-12 Metaphor infographics | Not yet tested | Pending first use | Topic-specific label set |
+| #13-19 Hybrid formats | Not yet tested | Pending first use | Per-template content spec |
+
+**How to make a new template PROVEN:**
+
+1. Build it once in Claude design with that week's actual content
+2. If the output is production-quality with only minor Canva polish, save the Claude design project as "[Template Name] Template v1"
+3. Update this section: change status to "PROVEN ([month year])" and note the first production week
+4. All future uses of that template duplicate the v1 project and edit only the plug-in fields
+
+**When a template is PROVEN, the workflow becomes:**
+
+1. Open Claude design, duplicate the "Template v1" project
+2. In the duplicate, edit ONLY the plug-in-only fields (content)
+3. Export PNG or PNG set
+4. Optional Canva polish for Substack header (logo overlay) or text corrections
+5. Upload
+
+Production cost drops from ~45-60 minutes (first build) to ~20-30 minutes (plug-in only). Over a year of carousels and infographics, this time saved compounds meaningfully.
+
+**Additional uses that become cheap once a template is PROVEN:**
+
+- Client-specific onboarding materials (same template, client's provisions)
+- Podcast guest appearance assets (same template, episode-specific content)
+- Speaking event handouts (same template, audience-tailored content)
+- Sales prospect materials (same template, their PBM's likely provisions)
+
+Each of these uses 20-30 minutes of content plug-in instead of 60 minutes of design-from-scratch.
