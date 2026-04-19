@@ -258,17 +258,15 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 81 - Tuesday 8:30 AM
-### "The Contract Clause That Saved a Client Six Figures" (Infographic)
+### "The Contract Clause That Saved a Client Six Figures" (Messy Infographic)
 
-> **Visual Build Note:** Use the **Iceberg** metaphor infographic from `claude_design_prompts.md` (template #5). Claude design project type: **Prototype**. Plug in content that frames reported PBM metrics at the surface vs predictive patterns below. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Story Flow Whiteboard** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that walks through a three-beat client story: the clause, the audit finding, the recovery. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Spreadsheet with Marker Overlay** showcase from the hybrid rotation. Template #17 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **12 months of PBM-reported claims across drug categories with a rising specialty row circled in red and annotation "Specialty growth 47% - why?"** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
-
-**Format:** INFO - Story-Driven
+**Format:** Messy Infographic
 **Pillar:** PBM Contract Insights
-**Word Count:** ~85 words
+**Word Count:** ~110 words
 
-> **NOTE - Performance Optimization:** Tuesday visual uses a DIFFERENT pillar (PBM Contract Insights) from the Monday newsletter (Self-Funded Employer Guidance) to avoid topic cannibalization. Story-driven contract content has strong engagement history. Data showed same-topic Tuesday visuals dropped to 623 impressions vs 22K for different-topic visuals.
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W1 = Messy Infographic × PBM Contract Insights. Monday newsletter pillar is Self-Funded Employer Guidance (Mid-Year Claims), so no collision. PBM Contract Insights averaged 10,315 impressions across 8 prior posts with the highest follower conversion of any pillar (+51 total). Messy Infographic format hit 22,047 impressions on the single prior test.
 
 #### Post Copy
 
@@ -286,77 +284,23 @@ Contract language only protects the plan if someone enforces it.
 
 More in this week's Pharmacy Benefits Briefing on mid-year claims analysis: [LINKEDIN NEWSLETTER URL]
 
-#### Infographic Concept
+#### Messy Infographic Concept
 
-**Title:** The Contract Clause That Saved a Client Six Figures
-**Style:** Story Flow / Before-After
-**Dimensions:** 1080 x 1350 px (vertical LinkedIn)
-**Template:** Three-panel narrative with highlight callout
+**Layout:** Off-white (#F5F5F0) background with faint grid lines. Hand-drawn, whiteboard-sketch style. Three-beat narrative flow top to bottom with Caveat-style handwriting throughout.
 
-**Layout:**
+**Top band:** Handwritten title in Primary Blue (#015880), Caveat 34pt: "The Contract Clause That Saved a Client Six Figures." Small hand-drawn magnifying glass icon.
 
-**Top Header Bar:** Deep teal-blue (#015880) background with "The Contract Clause That Saved Six Figures" in white Krona One (32-40pt). Small shield/checkmark icon in Accent Blue (#A7E0FA) to the left of the title.
+**Beat 1 - "The Clause":** Hand-drawn rectangle labeled "CONTRACT — Year 1." Inside, typed mono contract text: "Minimum rebate guarantee with annual true-up provision." Red margin annotation: "This provision was there the whole time."
 
-**Panel 1 — The Clause:**
-- Light gray (#E0E0E0) background panel
-- Contract document icon in deep teal-blue (#015880), 60px
-- Header: "The Contract Said:" in Roboto Bold (22-24pt), deep teal-blue
-- Body: "Minimum rebate guarantee with annual true-up provision" in Gray (#4D4D4D) Roboto (18pt)
-- Sub-text: "If rebate performance falls below the guarantee, the PBM owes the difference." in Gray (#4D4D4D) Roboto Italic (16pt)
+**Beat 2 - "The Finding":** Hand-drawn down-arrow to a second rectangle labeled "AUDIT — Year 3." Inside: "Rebate performance: below guaranteed minimum." Red margin annotation with handwritten circle around "below": "The data never got cross-referenced against the clause."
 
-**Panel 2 — The Audit Finding:**
-- White background panel
-- Magnifying glass icon in deep teal-blue (#015880), 60px
-- Header: "The Audit Found:" in Roboto Bold (22-24pt), deep teal-blue
-- Body: "Rebate performance fell short of the guaranteed minimum" in Gray (#4D4D4D) Roboto (18pt)
-- Sub-text: "The shortfall was in the data. The employer did not know." in Gray (#4D4D4D) Roboto Italic (16pt)
+**Beat 3 - "The Recovery":** Hand-drawn arrow leading to an Accent Blue (#A7E0FA) rectangle. Large handwritten text: "$$$ TRUE-UP OWED." Red margin note: "Six figures. Recovered because someone read both documents together."
 
-**Panel 3 — The Recovery:**
-- Accent Blue (#A7E0FA) background panel (highlight)
-- Dollar sign with circular arrow icon in deep teal-blue (#015880), 60px
-- Header: "The Result:" in Roboto Bold (22-24pt), deep teal-blue
-- Body: "Six figures recovered through the true-up provision" in deep teal-blue (#015880) Roboto Bold (20pt)
-- Sub-text: "Because someone read both documents together." in deep teal-blue (#015880) Roboto (16pt)
+**Bottom callout:** Handwritten in red, underlined: "Contract language only protects the plan if someone enforces it."
 
-**Bottom Callout Box:** White background with deep teal-blue (#015880) border (2px). Text: "Contract language only protects you if someone enforces it." in deep teal-blue Roboto Bold (18-20pt), centered.
+**Bottom bar:** "When was your last PBM audit?" PBS logo bottom-right. team@rxbs.org bottom-left.
 
-**Bottom Bar:** Accent Blue (#A7E0FA) background with "When was your last PBM audit?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
-
-**Design Notes:**
-- Three panels stacked vertically, each with its own icon and color treatment
-- Panel 3 (recovery) uses Accent Blue background to create visual emphasis
-- Each panel tells one beat of the story: clause → finding → result
-- Icons are flat, single-color, 50-60px
-- Clean narrative flow, optimized for mobile scrolling
-- Roboto throughout, Krona One for header only
-
-**Color Palette:**
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Primary Blue | #015880 | Header bar, icons, panel headers, callout border |
-| Accent Blue | #A7E0FA | Recovery panel background, bottom bar, header icon |
-| Gray | #4D4D4D | Body text, sub-text, disclaimer |
-| Light Gray | #E0E0E0 | Clause panel background |
-| White | #FFFFFF | Overall background, audit panel, callout box |
-
-#### Image Generation Prompt
-
-**Dimensions:** 1080 x 1350 px
-
-**Prompt:**
-
-A clean, professional vertical infographic at 1080 x 1350 pixels with a white background (#FFFFFF). At the top, a deep teal-blue (#015880) header bar containing white sans-serif text "The Contract Clause That Saved Six Figures" with a small shield icon in light blue (#A7E0FA). Below, three stacked narrative panels. Panel 1 has a light gray (#E0E0E0) background with a contract document icon and text "The Contract Said" with details about a rebate guarantee. Panel 2 has a white background with a magnifying glass icon and text "The Audit Found" with details about a performance shortfall. Panel 3 has a light blue (#A7E0FA) background with a dollar/recovery icon and text "The Result" highlighting six-figure recovery. Below the panels, a bordered callout box with "Contract language only protects you if someone enforces it." Bottom bar in light blue (#A7E0FA) with "When was your last PBM audit?" in deep teal-blue. No photographs, no realistic elements. Flat corporate infographic style.
-
-**Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px
-3. Replace placeholder text with exact content from infographic concept above
-4. Adjust icon sizing (50-60px each) and panel spacing
-5. Add "Benefit Blind Spots" badge (Roboto Bold, 16-20pt) in top-left corner of header bar
-6. Add PBS logo (color version) in bottom-right of bottom bar, 80-100px width
-7. Add disclaimer text (Roboto, 10pt, gray) centered above callout box
-8. Verify all text is legible at mobile viewing size (test at 50% zoom)
-9. Export as PNG
+**Style:** Whiteboard-sketch aesthetic. Hand-drawn arrows and rectangles slightly imperfect. Red (#C0392B) for annotations, Primary Blue (#015880) for structure, Accent Blue (#A7E0FA) for the recovery highlight, Gray (#4D4D4D) for contract body text.
 
 ---
 

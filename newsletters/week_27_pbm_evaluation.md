@@ -270,87 +270,55 @@ This week's Benefit Blind Spots includes the **full PBM evaluation scorecard**: 
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 97 - Tuesday 10:00 AM
-### "Five Signs Your PBM Relationship Has Run Its Course" (One Number Carousel)
+### "How Strong Brokers Run a PBM Performance Review" (Carousel)
 
-> **Visual Build Note:** Use the **Door** metaphor infographic from `claude_design_prompts.md` (template #10). Claude design project type: **Prototype**. Plug in content that frames the stay-or-switch door, what is behind each option. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Five-Step Audit** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each step with one practitioner-note beneath it. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
 
-> **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+**Format:** Carousel (6 slides)
+**Pillar:** Broker/Consultant Resources
+**Word Count:** ~200 words
 
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Annotated Email Screenshot** showcase from the hybrid rotation. Template #16 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **A mock "PBM Account Manager" renewal email with generic weasel phrases (competitive, industry-leading, in line with expectations) highlighted and annotated with "what this really means" handwritten red callouts.** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
-
-**Format:** One Number Carousel (7 slides) - NEW TEMPLATE C
-**Pillar:** PBM Contract Insights
-**Word Count:** ~85 words
-
-> **NOTE:** One Number (Stat Slam) template: one bold stat per slide, two lines of context. Maximum dwell time per slide. Each slide earns the next swipe.
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W5 = Carousel × Broker/Consultant Resources. Monday newsletter pillar is PBM Contract Insights (PBM Evaluation), so no collision. Broker/Consultant gets one Tuesday slot per 6-week cycle; framing positions the broker as the allied practitioner running the audit, consistent with brand rule.
 
 #### Post Copy
 
-Five signs your PBM relationship has run its course.
+Annual performance reviews are in every PBM contract. Most get treated as a PowerPoint deck from the PBM. The best brokers treat them as an audit.
 
-Not five frustrations. Not five complaints. Five measurable indicators that the relationship has structural problems renegotiation alone will not fix.
+The five-step review structure we see from strong broker partners:
 
-If you recognize three or more, the conversation with your broker should shift from "how do we improve this?" to "what would the market offer?"
+1. Pull the source data, not the summary. Claims file, eligibility file, rebate detail, guarantee calculation worksheet. Do not accept the dashboard as the record.
 
-The data should drive the decision. Not the frustration.
+2. Recalculate guarantee performance independently. The PBM's methodology and the contract's methodology are not always the same calculation.
 
-#PharmacyBenefits #PBMEvaluation #SelfFundedEmployers #CostContainment
+3. Benchmark net cost per script against current market, not last year. Year-over-year hides slow drift.
+
+4. Cross-reference specialty routing claims against contract network terms. The default routing and the contracted routing are often different enough to pull into the review.
+
+5. Document findings in a fiduciary file with dates, sources, and decisions. This is where the trail lives if anyone asks later.
+
+The performance review is the best leverage point mid-term. Strong brokers make it do work. Weak ones accept the PDF.
+
+#PharmacyBenefits #BrokerResources #PBMPerformance #SelfFundedEmployers
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+More in this week's Pharmacy Benefits Briefing on PBM evaluation: [LINKEDIN NEWSLETTER URL]
 
-#### One Number Carousel Slides (Template C)
+#### Carousel Slide Descriptions
 
-**Design:** Alternating Primary Blue (#015880) and white backgrounds. Krona One 96-120pt for stat. Roboto 20-24pt for context. One Accent Blue (#A7E0FA) element per slide.
+**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "How Strong Brokers Run a PBM Performance Review." Accent Blue subtitle: "5 steps. Audit, not PowerPoint."
 
-**Slide 1 (Blue bg):**
-- Large white text: "5"
-- Context: "Signs your PBM relationship has structural problems."
-- Accent Blue underline under "structural"
+**Slide 2 - Step 1 Source Data:** White background. Headline in Primary Blue: "Pull the source files, not the summary." Gray body: "Claims file. Eligibility file. Rebate detail. Guarantee calculation worksheet. The dashboard is not the record."
 
-**Slide 2 (White bg):**
-- Large Primary Blue text: "SIGN 1"
-- Below: "Your pricing is below market."
-- Context in Gray: "Not by a little. By enough that staying costs more than switching."
-- Accent Blue arrow pointing down
+**Slide 3 - Step 2 Recalculate Guarantees:** Accent Blue background. Primary Blue headline: "Recalculate guarantee performance independently." Body: "The PBM's calculation method and the contract's calculation method are not always the same number."
 
-**Slide 3 (Blue bg):**
-- Large white text: "SIGN 2"
-- Below: "You cannot verify their rebate numbers."
-- Context: "They report rebates. You cannot audit them. That is not transparency."
-- Accent Blue question mark
+**Slide 4 - Step 3 Benchmark Current Market:** White background. Headline: "Benchmark against current market, not last year." Body: "Year-over-year hides drift. Current market surfaces the gap."
 
-**Slide 4 (White bg):**
-- Large Primary Blue text: "SIGN 3"
-- Below: "Your contract has not been updated in 2+ cycles."
-- Context in Gray: "The market moved. Your terms did not. Every year is a year you overpaid."
-- Accent Blue calendar icon
+**Slide 5 - Step 4 Specialty Routing Cross-Check:** Primary Blue background. White headline: "Cross-reference specialty routing against contract terms." Accent Blue body: "The default routing and the contracted routing are often different enough to matter."
 
-**Slide 5 (Blue bg):**
-- Large white text: "SIGN 4"
-- Below: "Data requests take weeks, not days."
-- Context: "If the PBM resists sharing your own data, ask what the data would show."
-- Accent Blue clock icon
+**Slide 6 - CTA:** Primary Blue background. White Krona One: "Strong brokers audit. Weak brokers accept the deck." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Slide 6 (White bg):**
-- Large Primary Blue text: "SIGN 5"
-- Below: "They say 'take it or leave it' at renewal."
-- Context in Gray: "A PBM confident in their value negotiates. One protecting margins stonewalls."
-- Accent Blue wall/barrier icon
-
-**Slide 7 (Blue bg):**
-- Large white text: "3 of 5?"
-- Below in Accent Blue: "Time to talk to your broker about the market."
-- Small: team@rxbs.org | Benefit Blind Spots
-- PBS logo (white, 60px)
-
-**Canva Production Notes:**
-1. Use Template C: One Number / Stat Slam
-2. Krona One for large stats (96-120pt), Roboto for context (20-24pt)
-3. Alternating backgrounds: #015880 (blue) and #FFFFFF (white)
-4. One Accent Blue (#A7E0FA) element per slide (underline, icon, arrow)
-5. Export 1080 x 1350 px each
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One for headers (28-34pt), Roboto for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 

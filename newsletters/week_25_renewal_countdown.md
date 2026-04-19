@@ -282,106 +282,69 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 89 - Tuesday 8:30 AM
-### "What the Best Brokers Are Doing Right Now for Renewal" (Whiteboard Carousel)
+### "The Self-Funded Renewal Decision Framework" (Carousel)
 
-> **Visual Build Note:** Use the **Mountain** metaphor infographic from `claude_design_prompts.md` (template #9). Claude design project type: **Prototype**. Plug in content that frames the 90-day climb: three phases, twelve weeks, summit at renewal. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Decision Framework** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames the five decision questions with a one-line interpretation beneath each. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
 
-> **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+**Format:** Carousel (6 slides)
+**Pillar:** Self-Funded Employer Guidance
+**Word Count:** ~195 words
 
-**Format:** Whiteboard Carousel (7 slides) - NEW TEMPLATE A
-**Pillar:** Broker/Consultant Resources
-**Word Count:** ~85 words
-
-> **NOTE - Performance Optimization:** Tuesday visual uses a DIFFERENT pillar (Broker/Consultant) from the Monday newsletter (Self-Funded Guidance) to avoid topic cannibalization. Whiteboard carousel template tests the new format designed to match messy infographic engagement levels.
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W2 = Carousel × Self-Funded Guidance (deferred from Week 24 to avoid Monday-pillar collision). Monday newsletter pillar is PBM Contract Insights (Renewal Countdown), so no collision here. Self-Funded Guidance averaged 6,909 impressions across 3 prior posts.
 
 #### Post Copy
 
-The best brokers are doing five things right now for their clients' PBM renewals. Not in September. Not when terms arrive. Right now.
+90 days before renewal is the decision window. The PBM will have their proposal ready. Most plans do not have their framework ready.
 
-Most employers will not see their first renewal data until their PBM presents it. The brokers who are pulling data independently, benchmarking against market, and building negotiation priorities before terms arrive are the ones whose clients negotiate different outcomes.
+The five-question framework we walk self-funded clients through:
 
-Here is the checklist the top advisory teams are working through this month.
+1. Have we benchmarked our current economics against market in the last 12 months? If no, do it before the renewal conversation.
 
-#PharmacyBenefits #BrokerStrategy #PBMRenewal #SelfFundedEmployers
+2. Have we documented every guarantee shortfall in the current term, with dollar values? If no, you have no remediation to negotiate.
+
+3. Do we know what we would accept, what we would counter, and what we would walk from? If no, you are negotiating the PBM's terms, not yours.
+
+4. Is our broker running independent market analysis or relying on PBM-provided data? The distinction matters at the table.
+
+5. What is our fallback if the renewal terms are unacceptable? Timing, alternatives, transition plan. All of it, written down.
+
+Sponsors who arrive with the framework negotiate. Sponsors without it renew.
+
+#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
 
 #### First Comment
 
 More in this week's Pharmacy Benefits Briefing on the 90-day renewal window: [LINKEDIN NEWSLETTER URL]
 
-#### Whiteboard Carousel Slides (Template A)
+#### Carousel Slide Descriptions
 
-**Design:** Off-white (#F5F5F0) background with faint grid lines. Handwritten font (Caveat) in Primary Blue (#015880). Accent Blue (#A7E0FA) highlights. Gray (#4D4D4D) annotations. Rough hand-drawn checkboxes and arrows.
+**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "The Self-Funded Renewal Decision Framework." Accent Blue subtitle: "5 questions. 90 days before renewal."
 
-**Slide 1 - Hook:**
-- Background: Off-white with grid
-- Large handwritten text in Primary Blue (#015880): "What the Best Brokers Are Doing Right Now"
-- Below, smaller in Gray (#4D4D4D): "5 things. Before renewal terms arrive."
-- Hand-drawn arrow pointing right (swipe indicator) in Accent Blue (#A7E0FA)
-- Bottom: Small PBS logo (50px), "Benefit Blind Spots" in Gray
+**Slide 2 - Q1 Benchmarking:** White background. Krona One Primary Blue: "Have we benchmarked in the last 12 months?" Roboto Gray body: "The PBM has benchmarked you. If your broker has not, you are negotiating blind."
 
-**Slide 2 - Pull Client Data Independently:**
-- Empty checkbox icon in Primary Blue
-- Handwritten header: "1. Pulling client data independently"
-- Annotation in Gray: "Not waiting for the PBM's summary report"
-- Hand-drawn circle around "independently" in Accent Blue
-- Small note: "The PBM has already run the numbers. Your broker should too."
+**Slide 3 - Q2 Guarantee Shortfalls:** Accent Blue background. Krona One Primary Blue: "Do we have shortfalls documented with dollar values?" Body: "Unpaid remediation is the easiest recovery in renewal. Most plans leave it on the table."
 
-**Slide 3 - Benchmark Against Market:**
-- Empty checkbox in Primary Blue
-- Handwritten header: "2. Benchmarking against current market"
-- Annotation in Gray: "GER, rebate per claim, dispensing fees, admin fees"
-- Hand-drawn underline under "current market" in Primary Blue
-- Small note: "Market moves. Last year's benchmark is already outdated."
+**Slide 4 - Q3 Accept/Counter/Walk:** White background. Krona One: "Do we know what we would accept, counter, and walk from?" Body: "Without the walk line defined, you are negotiating the PBM's terms."
 
-**Slide 4 - Identify Guarantee Gaps:**
-- Empty checkbox in Primary Blue
-- Handwritten header: "3. Comparing guarantees to actual performance"
-- Annotation in Gray: "Where the PBM is falling short — before they spin it"
-- Hand-drawn arrow from "guarantees" to "actual" with gap marked in Accent Blue
-- Small note: "Shortfalls = negotiation ammunition."
+**Slide 5 - Q4 Independent Analysis:** Primary Blue background. White Krona One: "Is our broker running independent analysis?" Accent Blue body: "PBM-provided data never shows the PBM in a losing position. Independent pulls do."
 
-**Slide 5 - Build the Term Sheet:**
-- Empty checkbox in Primary Blue
-- Handwritten header: "4. Building a specific term sheet"
-- Annotation in Gray: "Not complaints. Specific language they want in the contract."
-- Hand-drawn document icon with bullet points in Primary Blue
-- Small note: "The PBM expects vague frustration. Specifics change the conversation."
+**Slide 6 - CTA:** Primary Blue background. White Krona One: "Sponsors with the framework negotiate. Sponsors without it renew." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Slide 6 - Coordinate Stop-Loss:**
-- Empty checkbox in Primary Blue
-- Handwritten header: "5. Coordinating with the stop-loss carrier"
-- Annotation in Gray: "PBM changes affect stop-loss exposure. Review both together."
-- Hand-drawn line connecting "PBM" and "stop-loss" with arrows in Accent Blue
-- Small note: "The best brokers treat these as one conversation, not two."
-
-**Slide 7 - CTA:**
-- Background: Primary Blue (#015880)
-- White handwritten text: "Renewal is 90 days away."
-- Below in Accent Blue (#A7E0FA): "Is your advisory team working on this yet?"
-- Small white text: team@rxbs.org | Benefit Blind Spots
-- PBS logo (white, 60px) bottom-right
-
-**Canva Production Notes:**
-1. Use Canva Brand Template: Whiteboard Carousel (to be created)
-2. Font: Caveat for all handwritten text, size 28-36pt for headers, 18-22pt for annotations
-3. Checkboxes: hand-drawn empty squares, 40x40px, Primary Blue stroke
-4. Grid lines: Light Gray (#E0E0E0) at 10% opacity
-5. Export all slides as PNG, 1080 x 1350 px each
-6. Upload as multi-image post (not PDF document)
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds for slide-to-slide contrast. Krona One for headers (28-34pt), Roboto for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 
 ## Post 89 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 49 words
+**Word Count:** 48 words
 
 #### Reshare Copy
 
-The best brokers do not wait for renewal season to start preparing. Benchmarking, clinical program review, and stop-loss coordination all happen months before the PBM proposal lands.
+Sponsors who arrive at renewal with a framework negotiate. Sponsors without one renew. Five questions define the framework: benchmarking, documented shortfalls, accept/counter/walk lines, independent analysis, and fallback plan.
 
-Ginny Crisp covers what advisory teams doing the work right now look like, and what that preparation produces.
+Ginny Crisp walks through the 90-day decision window self-funded CFOs should own, not their PBM.
 
-#PharmacyBenefits #Renewal #Brokers #SelfFundedEmployers
+#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
 
 ---
 

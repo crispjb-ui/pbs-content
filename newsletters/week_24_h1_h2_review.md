@@ -315,49 +315,63 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 85 - Tuesday 8:30 AM
-### "Contract Language That Changed Our Clients' Outcomes" (Messy Infographic)
+### "3 Cost Patterns We See in Every Mid-Year Claims Review" (Infographic)
 
-> **Visual Build Note:** Use the **Funnel** metaphor infographic from `claude_design_prompts.md` (template #7). Claude design project type: **Prototype**. Plug in content that frames $100 of pharmacy spend funneling through the five H1 metrics. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Three Pattern Stack** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each pattern as a stacked panel with a named anchor (drug tier, timing, channel). Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Sticky Note Dashboard** showcase from the hybrid rotation. Template #14 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **Five sticky notes showing the five H1 metrics: GER, PMPM trend, Specialty %, Rebate per brand claim, High-cost claimant count. Each with your H1 number, prior year comparison, and market benchmark.** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
+**Format:** Infographic
+**Pillar:** Cost Containment Strategies
+**Word Count:** ~170 words
 
-**Format:** Messy Infographic
-**Pillar:** PBM Contract Insights
-**Word Count:** ~85 words
-
-> **NOTE:** Tuesday uses a DIFFERENT pillar (PBM Contracts) from the Monday newsletter (Transparency/Self-Funded Guidance). Performance data shows Tuesday visuals matching the newsletter topic get cannibalized (623 impressions vs. 22K for different-topic visuals). Thursday carries the weekly theme instead - 3 days of separation eliminates overlap.
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W3 = Infographic × Cost Containment. Monday newsletter pillar is Self-Funded Employer Guidance (H1/H2 Review), so no collision. Cycle-W2 Self-Funded was carried forward to Week 25 to avoid clashing with this week's Monday theme.
 
 #### Post Copy
 
-Contract language matters. The difference between vague terms and precise guarantees can mean real financial impact for a self-funded plan.
+Mid-year claims reviews surface the same cost patterns across most self-funded plans.
 
-Prescription Benefit Solutions reviews hundreds of PBM contracts each year. The patterns are consistent: plans with tighter language recover more, retain more, and negotiate from strength.
+Pattern 1: Specialty concentration. A single drug, often on the Humira, Stelara, or Keytruda tier, accounts for a disproportionate share of H1 spend. One claimant moves the trend line.
 
-Before: "PBM will provide competitive discounts."
-After: "PBM guarantees minimum effective discount of [X]% AWP for brand, with quarterly true-up and audit rights."
+Pattern 2: New-to-market drugs without PA discipline. Drugs launched in Q4 or Q1 show up in claims data without a prior authorization or step therapy gate in place. The PBM's default coverage position is permissive.
 
-#PBMContracts #PharmacyBenefits #SelfFundedEmployers #ContractLanguage
+Pattern 3: Mail-order underutilization. Maintenance medications like atorvastatin, lisinopril, or metformin fill at retail on 30-day cycles instead of 90-day mail. The cost delta is real and compounds quarterly.
+
+Each pattern costs the plan money. Each one is visible in H1 data. Each one is correctable before H2.
+
+A mid-year review is the leverage point. Renewal is too late.
+
+#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+More in this week's Pharmacy Benefits Briefing on H1/H2 review: [LINKEDIN NEWSLETTER URL]
 
-#### Messy Infographic Concept
+#### Infographic Concept
 
-**Title:** Contract Language That Changed Our Clients' Outcomes
+**Layout:** Clean vertical three-panel stack. Each panel represents one pattern with a distinct iconography. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) highlights, white background.
 
-**Layout:** Before/After comparison, hand-annotated style
+**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Cost Patterns We See in Every Mid-Year Review." Magnifying glass icon in Accent Blue.
 
-| Before (Vague) | After (Precise) |
-|----------------|-----------------|
-| "Competitive discounts" | Minimum effective discount guarantees with true-up |
-| "Reasonable rebate sharing" | Defined rebate passthrough percentage with audit rights |
-| "Standard reporting" | Specified report formats, frequency, and data access |
-| "Industry-standard MAC pricing" | Defined MAC list, update frequency, and appeal process |
+**Panel 1 - Specialty Concentration:**
+- Pill capsule icon in Primary Blue, 60px
+- Headline: "One Claimant Moves the Trend"
+- Body: "A single drug on the Humira, Stelara, or Keytruda tier often drives a disproportionate share of H1 spend."
+- Sidebar callout in Accent Blue: "Pull top 25 drugs by plan spend."
 
-**Bottom callout:** PBS reviews ~100 PBM contracts annually. Precise language drives measurable results.
+**Panel 2 - PA Discipline on New Launches:**
+- Calendar + gate icon in Primary Blue, 60px
+- Headline: "Q4/Q1 Launches Default Permissive"
+- Body: "New drugs show up in H1 claims without a PA or step therapy gate. The PBM's default position is coverage."
+- Sidebar callout in Accent Blue: "Audit new-molecule claims by launch date."
 
-**Style:** Messy infographic - handwritten annotations, red strikethroughs on "before" language, green highlights on "after" language. PBS branding (Primary Blue #015880, Accent Blue #A7E0FA).
+**Panel 3 - Mail-Order Underutilization:**
+- Envelope + prescription icon in Primary Blue, 60px
+- Headline: "Maintenance Scripts Stuck at Retail"
+- Body: "Atorvastatin, lisinopril, metformin. 30-day retail fills instead of 90-day mail. Cost delta compounds every quarter."
+- Sidebar callout in Accent Blue: "Compare channel mix on top 10 maintenance drugs."
+
+**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Mid-year is the leverage point. Renewal is too late." PBS logo bottom-right, team@rxbs.org bottom-left.
+
+**Style:** Clean professional format. Roboto body (18-22pt), Krona One for panel headers (22-24pt). Icons are flat, single-color, 50-60px.
 
 ---
 
@@ -367,11 +381,11 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 #### Reshare Copy
 
-"Competitive discounts." "Reasonable rebate sharing." "Standard reporting." Vague contract language gives the PBM discretion your plan does not have to accept.
+Three cost patterns show up in almost every mid-year claims review: specialty concentration, missing PA discipline on Q4/Q1 launches, and maintenance scripts stuck at retail instead of mail.
 
-Ginny Crisp walks through the precise contract language that turned ambiguous guarantees into measurable, auditable outcomes for self-funded plans.
+Ginny Crisp walks through what each pattern costs the plan and how to catch them before renewal.
 
-#PharmacyBenefits #PBMContracts #ContractLanguage #SelfFundedEmployers
+#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
 
 ---
 

@@ -222,70 +222,83 @@ This week's Benefit Blind Spots includes a **network cost comparison model**: a 
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 101 - Tuesday 10:00 AM
-### "Where Your Members Fill Prescriptions Costs You More Than What They Fill" (Messy Infographic)
+### "The 4 Drug Categories Driving 2026 Specialty Spend" (Infographic)
 
-> **Visual Build Note:** Use the **Funnel** metaphor infographic from `claude_design_prompts.md` (template #7). Claude design project type: **Prototype**. Plug in content that frames same script funneling through retail, mail, and specialty channels. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Four Category Grid** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each category with a named example drug class and one-line intervention note. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-**Format:** Messy Infographic
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~85 words
+**Format:** Infographic
+**Pillar:** Clinical Pharmacy Perspectives
+**Word Count:** ~190 words
+
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W6 = Infographic × Clinical Pharmacy. Monday newsletter pillar is Cost Containment (Network Design), so no collision. Clinical Pharmacy averaged 23,701 impressions across 2 posts (5,807 ex-viral); the GLP-1 post produced the single highest-impression text post on record (41,594), which supports weighting the pillar heavily in the rotation.
 
 #### Post Copy
 
-Where your members fill prescriptions costs you more than what they fill.
+Specialty spend is not distributed evenly across therapeutic categories. Four are driving the 2026 trend in the plans we review.
 
-Same drug. Five different pharmacies. Five different costs to your plan. The dispensing channel determines the price as much as the molecule.
+Category 1: GLP-1s for cardiovascular and kidney disease. The indication expansion is adding members who were not on GLP-1s for diabetes or obesity. Different qualifying criteria. Different PA structure. Different downstream spend pattern.
 
-Retail: convenient, expensive for maintenance. Mail: lower unit cost, but not always for generics. Specialty: high-cost, PBM-controlled routing. White bag: moves the claim from medical to pharmacy benefit. Home infusion: eliminates facility fees entirely.
+Category 2: Anti-amyloid Alzheimer's infusions. New class, new administration requirements, new site-of-care considerations. Medical benefit and pharmacy benefit coordination matters before the first claim arrives.
 
-Most employers have never compared across channels. The PBM has.
+Category 3: Gene therapies for rare conditions. Single-dose, high-ticket. Stop-loss coordination and specialty carve-out decisions are material on a single claim.
 
-#PharmacyBenefits #NetworkDesign #CostContainment #SelfFundedEmployers
+Category 4: Autoimmune biologics post-biosimilar launch. Humira biosimilars are a proven transition. Stelara biosimilars are the next lever. Coverage position needs review before the launch, not after.
+
+Each category has a different intervention. The intervention only works if the plan sees the category coming.
+
+#PharmacyBenefits #ClinicalPharmacy #SpecialtyPharmacy #SelfFundedEmployers
 
 #### First Comment
 
 More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
-#### Messy Infographic Concept
+#### Infographic Concept
 
-**Title:** Where Your Members Fill Costs More Than What They Fill
-**Style:** Hand-drawn flow diagram / Channel comparison
-**Dimensions:** 1080 x 1350 px
+**Layout:** 2x2 grid of four category panels, vertical format. Primary Blue (#015880) header bar, white background for the grid, Accent Blue (#A7E0FA) highlights inside each panel.
 
-**Layout:**
+**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "4 Drug Categories Driving 2026 Specialty Spend." Small pill icon in Accent Blue.
 
-**Top:** Off-white (#F5F5F0) background. Handwritten header: "Where They Fill > What They Fill" (Caveat, 34pt, Primary Blue #015880).
+**Panel 1 (top-left) - GLP-1 Indication Expansion:**
+- Heart icon (cardiovascular) + kidney icon, Primary Blue, 50px each
+- Headline: "GLP-1s: Beyond Diabetes and Obesity"
+- Body: "Cardiovascular risk reduction and chronic kidney disease indications are approved. New qualifying criteria. New spend pattern."
+- Sidebar in Accent Blue: "Rewrite PA criteria for new indications."
 
-**Center: Five Channel Flow**
-- Single pill icon at top center in Primary Blue
-- Five hand-drawn arrows spreading downward to five channel boxes
-- Each box: channel name, rough cost indicator, one-line description
+**Panel 2 (top-right) - Anti-Amyloid Infusions:**
+- Brain icon, Primary Blue, 50px
+- Headline: "Anti-Amyloid Alzheimer's Infusions"
+- Body: "New class. High-cost infusion. Medical/pharmacy coordination, site-of-care planning, and stop-loss review needed before first claim."
+- Sidebar in Accent Blue: "Coordinate medical and pharmacy benefit coverage."
 
-**Channel 1 (Retail):** "$$$" in red. "Convenient. Most expensive for maintenance."
-**Channel 2 (Mail Order):** "$$" in Primary Blue. "Lower unit cost. Not always for generics."
-**Channel 3 (Specialty):** "$$$$" in red. "PBM-controlled routing. Highest margin."
-**Channel 4 (White Bag):** "$" in green. "Medical → pharmacy benefit. Captures PBM pricing."
-**Channel 5 (Home Infusion):** "$" in green. "No facility fees. Lowest setting cost."
+**Panel 3 (bottom-left) - Gene Therapies:**
+- DNA helix icon, Primary Blue, 50px
+- Headline: "Gene Therapies for Rare Conditions"
+- Body: "Single-dose, seven-figure claims. Stop-loss coordination and specialty carve-out structure are material."
+- Sidebar in Accent Blue: "Pre-authorize with stop-loss before approval."
 
-**Bottom callout:** Hand-drawn circle around "Same drug." Red annotation: "Different channel = different cost."
+**Panel 4 (bottom-right) - Biosimilar Launches:**
+- Comparison scale icon, Primary Blue, 50px
+- Headline: "Autoimmune Biosimilars: Humira and Stelara"
+- Body: "Humira biosimilars are a proven transition lever. Stelara biosimilars are the next. Pre-launch coverage positioning beats post-launch chasing."
+- Sidebar in Accent Blue: "Set tier placement before biosimilar launch date."
 
-**Footer:** "Have you compared?" PBS logo (50px). team@rxbs.org.
+**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Each category has a different intervention. Only works if you see it coming." PBS logo bottom-right, team@rxbs.org bottom-left.
+
+**Style:** Clean professional format. Roboto body (16-18pt), Krona One for panel headers (20-22pt). Icons are flat, single-color, 40-50px.
 
 ---
 
 ## Post 101 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 49 words
 
 #### Reshare Copy
 
-Same drug. Retail is one price. Mail order is different. Specialty is another entirely. Same PBM managing all three channels.
+Four drug categories are driving 2026 specialty spend: GLP-1 indication expansion, anti-amyloid Alzheimer's infusions, gene therapies, and autoimmune biosimilars. Each needs a different intervention. None of them work as a reaction.
 
-Where your members fill often costs the plan more than what they fill.
+Ginny Crisp walks through what the plan has to see coming.
 
-Ginny Crisp breaks down the five-channel cost model most employers have never compared.
-
-#PharmacyBenefits #NetworkDesign #PBM #CostContainment
+#PharmacyBenefits #ClinicalPharmacy #SpecialtyPharmacy #SelfFundedEmployers
 
 ---
 
