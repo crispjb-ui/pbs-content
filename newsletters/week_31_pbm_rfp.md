@@ -472,25 +472,87 @@ Next week: clinical program ROI, and the scorecard that separates real savings f
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: the PBM RFP. Three proposals that looked competitive on paper. One was substantially more expensive when normalized. 30 questions with answer scoring. Read: [LINK]
 
-**Midday — Origin Story:** I stopped trusting PBM RFP responses at face value after watching a client select the "cheapest" PBM that turned out to be the most expensive once we normalized the pricing methodologies. The headline discount was competitive. The AWP source, the claim exclusions, and the rebate structure made it the worst deal of the three. Now I normalize before I compare. Every time.
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: the PBM RFP. Three proposals that looked competitive on paper. One was substantially more expensive when normalized. 30 questions with answer scoring.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I stopped trusting PBM RFP responses at face value after watching a client select the "cheapest" PBM that turned out to be the most expensive once we normalized the pricing methodologies. The headline discount was competitive. The AWP source, the claim exclusions, and the rebate structure made it the worst deal of the three. Now I normalize before I compare. Every time.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker I work with brought me into an RFP evaluation with three finalists. She had already ranked them in order of pricing. I ran the normalization and the order flipped. Her second-place PBM became first. The "winner" dropped to third. The math did not change anybody's integrity. It changed the ranking. That evaluation is why every client I work with now gets a normalization step before any vendor ranking discussion.
 
 ## Tuesday
-**Morning:** Standard PBM RFPs ask questions PBMs are prepared to spin. "What is your discount?" Every PBM quotes a competitive number. But which AWP source? Ingredient or total claim? What exclusions? The headline number is meaningless without the methodology.
 
-**Midday:** The six RFP categories that matter: pricing methodology, rebate structure, clinical programs, reporting access, contract terms, and implementation. Most standard templates cover 2-3 of these. The other 3-4 are where the financial surprises live.
+**Morning (7-8 AM) — Origin Story #1:**
+Every PBM response team knows how to make their proposal look competitive. That is their job. My job is figuring out whether the proposal is actually competitive. Those are different questions with different answers, and the gap between them is where employer money gets lost. Learning to read the gap took me years. I try to compress that learning curve for clients.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+Six RFP categories that matter: pricing methodology, rebate structure, clinical programs, reporting access, contract terms, and implementation. Most standard templates cover 2-3 of these. The other 3-4 are where the financial surprises live.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO sat with me through an RFP evaluation once and asked why the scoring rubric weighted "implementation" so heavily. I told him: bad implementations cost more than bad pricing. I have seen transitions blow up budgets and damage member trust. He weighted implementation higher after that meeting. His plan transitioned smoothly. The category matters because the execution matters.
 
 ## Wednesday
-**Morning:** The most revealing RFP question I ask: "Provide your complete definition of 'rebate' as it will appear in the contract." The answers range from inclusive (all manufacturer payments) to narrow (just rebates as the PBM defines them). That definition alone can be worth six or seven figures over a contract term.
 
-**Midday — Origin Story:** Every PBM response team knows how to make their proposal look competitive. That is their job. My job is figuring out whether the proposal is actually competitive. Those are different questions with different answers, and the gap between them is where employer money gets lost.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The most revealing RFP question I ask: "Provide your complete definition of 'rebate' as it will appear in the contract." The answers range from inclusive (all manufacturer payments) to narrow (just rebates as the PBM defines them). That definition alone can be worth six or seven figures over a contract term. I built that question into every RFP I touch.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A PBM account manager pushed back on my RFP question bank, calling it "too aggressive." I asked him which question was aggressive. He could not name one. All of the questions were standard. What he meant was that the questions did not allow the usual non-answers. That is a feature, not a flaw. Good questions close the space for bad answers.
 
 ## Thursday
-**Morning:** New field note: normalizing PBM pricing proposals. Three adjustments that matter most: AWP source alignment, ingredient vs. total claim cost, and rebate timing methodology. Without these normalizations, you are comparing apples to oranges. Read: [LINK]
+
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: normalizing PBM pricing proposals. Three adjustments that matter most: AWP source alignment, ingredient vs. total claim cost, and rebate timing methodology. Without these normalizations, you are comparing apples to oranges.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The first time I normalized three PBM proposals for a client, the analysis took most of a weekend. I had built the framework on scratch paper. Now we have a template and the same analysis takes a few hours. The work itself has not changed. The tooling has. Every framework I build now exists because I wasted a weekend figuring it out the first time. Clients should not have to repeat that.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker told me an RFP finalist was "offering better pricing" and urged me to move the client quickly. I asked to see the pricing in apples-to-apples format. It took two weeks to get the right data. When we normalized, the "better pricing" was not better. It was different. Speed is rarely the right answer in RFP evaluation. Accuracy is.
 
 ## Friday
-**Morning — Forward Look:** Next week: clinical program ROI. Your PBM reports millions in savings from clinical programs. Can you verify the methodology? A scorecard that separates real savings from reported savings.
+
+**Morning (7-8 AM) — Origin Story #1:**
+I had a plan sponsor ask me once whether I was "too suspicious" of PBM proposals. My honest answer: I am proportionate. Proposals are designed to win evaluations. Evaluating them with the same critical eye a contract review deserves is not suspicion. It is fiduciary discipline. Suspicion is emotional. Skepticism is structural. I recommend the latter.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week: clinical program ROI. Your PBM reports millions in savings from clinical programs. Can you verify the methodology? A scorecard that separates real savings from reported savings.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits director asked me for an RFP template without the pricing normalization section because "we can do that part ourselves." I sent her the full template anyway. She used it all. The next time she called, she thanked me for not letting her skip the hardest section. Sometimes "we can do it" means "we have not done it yet." The template is more useful with the hard parts included.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+The first RFP I ran independently as a consultant, the client's finance team was furious at me for extending the timeline to normalize the proposals. They wanted to close. I pushed back and lengthened the evaluation. The final selection was different from their initial read. They stopped being furious. Time spent on accuracy is never wasted. Time spent on speed can be.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Standard PBM RFPs ask questions PBMs are prepared to spin. "What is your discount?" Every PBM quotes a competitive number. But which AWP source? Ingredient or total claim? What exclusions? The headline number is meaningless without the methodology.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A PBM executive told me at a conference that my RFP template "made his team work harder." I took it as a compliment. The whole point of better questions is to produce better answers. If the PBM's proposal team is working harder, the client is getting more information. That is what the exercise is for. He meant it as a complaint. I still take it as a compliment.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy student asked me whether RFPs were "boring." I told her they are boring until you watch a seven-figure decision get made based on 30 questions. Then they are not boring at all. The evaluation process is where the economics get locked in for years. Boring is the wrong word. Consequential is the right word. Different framing changes how you approach the work.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The RFP scoring rubric I use: 0-3 points per question, graded on specificity, commitment, and enforceability. A vague but pleasant answer scores lower than a precise but unfavorable one. Clarity beats politeness in contract language. The PBMs that learn that earn more of my clients' business over time.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+I had a client thank me after an RFP by saying, "I learned more from the questions than from the answers." I smiled and agreed. The questions teach the buyer what to care about. The answers teach the buyer what the market is actually offering. Both halves matter. The questions are my contribution. The answers are the PBM's response to that contribution. Both get better over time if the questions keep improving.
 
 ## Engagement Reply Templates
 

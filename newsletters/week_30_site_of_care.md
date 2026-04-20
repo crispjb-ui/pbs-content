@@ -483,32 +483,87 @@ Next week: the PBM RFP, and 30 questions with answer scoring that reveal what re
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: site-of-care optimization. One policy change, one drug category, savings exceeding the annual PBM management fee. This week includes a decision tree by therapeutic category. Read: [LINK]
 
-**Midday — Origin Story:** As a clinical pharmacist, I know that the infusion setting does not change the drug's mechanism of action. An antibody infused at a hospital outpatient department works the same as one infused at home. The clinical evidence is clear. The cost evidence is even clearer. The barrier to site-of-care optimization is not science. It is structure.
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: site-of-care optimization. One policy change, one drug category, savings exceeding the annual PBM management fee. This week includes a decision tree by therapeutic category.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+As a clinical pharmacist I know the infusion setting does not change the drug's mechanism of action. An antibody infused at a hospital outpatient department works the same as one infused at home. The clinical evidence is clear. The cost evidence is even clearer. The barrier to site-of-care optimization is not science. It is structure.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I watched a client discover that their members were receiving a maintenance infusion at a hospital outpatient department at a cost that was multiples of what the same infusion would cost at an ambulatory center. The clinical protocol was identical. The only difference was the building. That was the moment site-of-care became a standard part of every claims review we do.
 
 ## Tuesday
-**Morning:** Same drug. Same dose. Same clinical outcome. Hospital outpatient: facility fees multiply the cost. Home infusion: no facility fees at all. The setting where a drug gets administered matters more than most employers realize. And the default setting was almost never chosen by the employer.
 
-**Midday:** The three biggest site-of-care opportunities by therapeutic category: rheumatology infusions (highest volume, most straightforward transition), rare disease enzyme replacement (strong home infusion precedent), and select neurology infusions (after REMS requirements are met). Start with the category that matches your highest spend.
+**Morning (7-8 AM) — Origin Story #1:**
+A rheumatologist asked me early in my career why hospital outpatient was the default for her stable infusion patients. My honest answer: inertia. The original referral pattern never got re-evaluated. She rebuilt her referral defaults with her staff the next week. The cost impact for her patients' plans was immediate. Defaults are powerful. Changing them is a practice-management decision, not a clinical one.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+Three biggest site-of-care opportunities by therapeutic category: rheumatology infusions (highest volume, most straightforward transition), rare disease enzyme replacement (strong home infusion precedent), and select neurology infusions (after REMS requirements are met). Start with the category that matches your highest spend.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor told me she did not want to "push members" into home infusion because it might feel like a downgrade. I sat with her and looked at member satisfaction data from home infusion programs. Most members preferred home. The downgrade was in her head, not in the experience. That misperception is one of the reasons site-of-care lags. Correcting it is part of the work.
 
 ## Wednesday
-**Morning:** White bagging is the site-of-care lever most employers have not explored. It moves a provider-administered drug from the medical benefit to the pharmacy benefit, capturing PBM-negotiated pricing instead of hospital markup. For a single infusion drug, the per-administration savings can be substantial.
 
-**Midday — Origin Story:** I watched a client discover that their members were receiving a maintenance infusion at a hospital outpatient department at a cost that was multiples of what the same infusion would cost at an ambulatory center. The clinical protocol was identical. The only difference was the building. That was the moment site-of-care became a standard part of every claims review we do.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+My first site-of-care project as a consultant started because an HR director asked, "why is our infusion spending growing so fast?" Three weeks of claims review later, the answer was hospital outpatient routing. Nobody had decided on the setting. The setting had decided itself. Naming that inertia was the first step toward changing it. The second step was contract language.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I had a medical plan administrator tell me he had never coordinated with a PBM on site-of-care. Not his fault. The structure did not have a seat at the table for the conversation. I sat between them for six months on a client engagement until the structure changed. Now they meet monthly without me. Building the habit was the work. Keeping it alive is easier once it exists.
 
 ## Thursday
-**Morning:** New field note: white bagging vs. brown bagging. Both move drugs from medical to pharmacy benefit. Both reduce cost. They work differently, and the practical implications matter. Read: [LINK]
 
-**Midday:** Site-of-care optimization requires coordination that most benefit structures are not built for. The drug is under pharmacy. The administration is under medical. Nobody owns the total cost. Your broker can bridge that gap by coordinating across PBM and medical plan vendors.
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: white bagging vs. brown bagging. Both move drugs from medical to pharmacy benefit. Both reduce cost. They work differently, and the practical implications matter.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A client called me confused about the difference between white bagging and brown bagging. I drew it on a napkin in a cafe: white bagging means the pharmacy sends the drug to the provider; brown bagging means the member picks up the drug and brings it to the provider. Both moved the claim to pharmacy benefit. Both had cost implications. The napkin ended up in her next board deck. Simple visuals travel.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A home infusion nurse told me she preferred her job over hospital infusion work because she could spend more time with each patient. That comment stayed with me. Site-of-care is usually a cost story. It is also a care-quality story in many cases. I try to include both in recommendations. The financial case is necessary. The clinical case matters for adoption.
 
 ## Friday
-**Morning — Forward Look:** Next week: the PBM RFP. You sent 50 pages of questions. They sent 50 pages of answers. Neither document tells you what you will actually pay. 30 questions with answer scoring that cut through the noise.
 
-**Afternoon:** Site-of-care is not glamorous content. But in terms of per-member savings potential, it is one of the highest-impact analyses we do. One routing change on one drug category can exceed the annual savings from months of formulary optimization.
+**Morning (7-8 AM) — Origin Story #1:**
+Site-of-care is not glamorous content. But in terms of per-member savings potential, it is one of the highest-impact analyses we do. One routing change on one drug category can exceed the annual savings from months of formulary optimization. I keep returning to this topic because the math keeps proving it out. Different clients. Same pattern.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week: the PBM RFP. You sent 50 pages of questions. They sent 50 pages of answers. Neither document tells you what you will actually pay. 30 questions with answer scoring that cut through the noise.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO asked me to simplify site-of-care into "one number" he could track. I gave him percent of infusion claims filed at hospital outpatient. Lower was better. He watched it monthly. Within six months the number was down substantially. Simple metrics drive behavior when the right person tracks them. The discipline came from him. I just named the number.
 
 ## Saturday
-**Morning:** Question for benefits professionals: has your plan evaluated site-of-care for infusion therapies? In our experience, most plans have never compared total cost (drug plus administration) across settings. The analysis takes an afternoon. The savings compound every administration cycle.
+
+**Morning (8-9 AM) — Origin Story #1:**
+Early in my career I assumed hospital-based care was always the gold standard. Years of data changed that. Hospital outpatient is right for clinically complex patients, initial infusions, and REMS-constrained therapies. For stable maintenance infusions, alternative settings are often equally appropriate and substantially less expensive. The gold-standard assumption was inertia dressed as quality.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+White bagging is the site-of-care lever most employers have not explored. It moves a provider-administered drug from the medical benefit to the pharmacy benefit, capturing PBM-negotiated pricing instead of hospital markup. For a single infusion drug, the per-administration savings can be substantial.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A broker I work with keeps a list of which clients have done site-of-care reviews and which have not. She told me she uses it for prioritization during claims reviews. Good discipline. The plans that have never done it are almost always sitting on recoverable savings. The list tells her where to look first. I stole the list idea for my own practice.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy student asked me once if site-of-care was "real pharmacy work." I told her: it is the intersection of clinical decision-making, contract interpretation, and member experience. Every piece is pharmacy. The fact that she even asked the question tells me the profession has not yet fully claimed this territory as its own. We should. The patients benefit when a pharmacist is in the room for site-of-care decisions.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Site-of-care optimization requires coordination that most benefit structures are not built for. The drug is under pharmacy. The administration is under medical. Nobody owns the total cost. Your broker can bridge that gap by coordinating across PBM and medical plan vendors.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client thanked me once for including her home health agency in the site-of-care conversation. She said most consultants leave them out. My view: they are the ones actually delivering the care. Excluding them produces plans that look good on paper and fail in practice. Invite the people who do the work into the planning. The plans get stronger and the members notice.
 
 ## Engagement Reply Templates
 
