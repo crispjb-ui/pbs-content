@@ -632,100 +632,90 @@ The employers who prepare through the summer negotiate different outcomes in the
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the H1 review. We walk through the five metrics that determine your renewal leverage, how to calculate each one, and the renewal readiness scorecard. Your PBM has already run these numbers. Here is how to run your own.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-I started doing mid-year reviews because I kept seeing the same thing: plans that waited until renewal to look at their data and then had no time to act on what they found. Six months of spend, gone without any course correction. As a pharmacist, I was trained to monitor and adjust. The same principle applies to benefit plans. You don't wait 12 months to check if the therapy is working.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I started doing mid-year reviews because I kept seeing the same thing: plans that waited until renewal to look at their data and then had no time to act on what they found. Six months of spend, gone without any course correction. As a pharmacist I was trained to monitor and adjust. The same principle applies to benefit plans. You do not wait 12 months to check if the therapy is working.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The renewal dynamic in pharmacy benefits is shifting. More employers are requesting raw claims data and running independent analyses. More brokers and consultants are investing in analytical capabilities and pushing for deeper transparency on behalf of their clients. The information asymmetry that has defined renewal season for years is narrowing. Slowly, but noticeably. The PBMs that adapt to more informed buyers will keep clients. Those that rely on information advantage will find it eroding.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client's CFO told me in June that renewal felt "months away." I asked him to pull up his calendar. Renewal was 90 days out. We spent the next 30 minutes mapping what had to happen in those 90 days. He was quiet afterward. The timeline always feels longer when you have not written it down. Putting the dates on paper is often enough to change the preparation rhythm.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-Your PBM has already run your H1 numbers. You probably have not. They know your trend, your rebate position, your guarantee shortfalls. They are preparing their renewal strategy with your data. You are waiting for a summary they will write.
+**Morning (7-8 AM) — Origin Story #1:**
+The June renewal calendar I keep for clients has five standing items. I made that template after watching too many plans sprint through renewal without basic preparation. The template is boring. The outcomes are not. Structure beats inspiration in renewal work. The plans that follow the template outperform the plans that improvise. Every year.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something I think about every June: the H1 data window is the most strategically valuable period in the pharmacy benefit cycle. It is also the most consistently underused. The data is fresh. Renewal is close enough to be relevant but far enough away to allow preparation. The employers who use this window build leverage. Those who let it pass lose it. The calendar does not wait for readiness.
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+The H1 data window is the most strategically valuable period in the pharmacy benefit cycle. It is also the most consistently underused. The data is fresh. Renewal is close enough to be relevant but far enough away to allow preparation. The employers who use this window build leverage. Those who let it pass lose it. The calendar does not wait for readiness.
 
-**Afternoon (3-6 PM) — Expertise Insight:**
-A pattern we see every year: the employer waits for the PBM to present H1 results. The PBM presents the data in a format that naturally emphasizes where guarantees were met and plays down where they were missed. Without an independent analysis, the employer accepts the narrative at face value. The renewal proceeds on the PBM's terms. This is not deception. It is the natural result of one party controlling the presentation while the other party does not have their own numbers ready. A good broker or consultant can help you close that gap quickly.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I had a benefits director ask me why her PBM's mid-year summary did not show the same numbers my independent analysis produced. The answer was methodology. Same underlying data, different calculation choices. I walked her through both. She stopped accepting the PBM's summary as the default report. She started asking questions at every quarterly meeting. The plan's negotiation position improved because she did.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-Generic effective rate is the metric I start every H1 review with. It measures the actual discount you receive on generic drugs as a percentage off the benchmark price. A competitive GER for retail 30-day supply runs above 85%. For mail order 90-day, above 88%. If your GER has declined year over year without a change in your generic mix, your pricing may be eroding. That single data point can shift an entire renewal conversation. I have watched it happen.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-*Illustrative example for educational purposes. Actual benchmarks vary by plan size, industry, and geography.*
+Read the roundup: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story:**
-The reason I push clients to do an H1 review every year is simple. I've seen what happens when they don't. By the time renewal hits, the leverage is gone. The data is stale. The decisions get rushed. My clinical training taught me that the best outcomes come from consistent monitoring, not annual check-ups. Pharmacy benefits are no different.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The reason I push clients to do an H1 review every year is simple. I have seen what happens when they do not. By the time renewal hits, the leverage is gone. The data is stale. The decisions get rushed. My clinical training taught me that the best outcomes come from consistent monitoring, not annual check-ups. Pharmacy benefits are no different.
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-June is not early. June is late. The window between H1 close and renewal season is where leverage is built or lost. The employers who benchmark now negotiate from data. Those who wait react to terms.
-
-**Visual — Pull-Quote Card (1080x1080, Canva):**
-Quote text: "June is not early. June is late."
-Design: #015880 background, white Krona One 36-48pt centered. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor asked me to review her H1 numbers two days before a PBM meeting. The time pressure was real. I told her what I could deliver and what I could not in two days. She took the partial analysis. She still used it. She said afterward that even partial preparation had moved the meeting. The lesson: imperfect preparation beats no preparation, but perfect preparation beats both.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: the five numbers that determine your renewal leverage. Generic effective rate, PMPM trend, specialty concentration, rebate per brand claim, and high-cost claimant count. We walk through what each number means and what it tells you about your position.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-Information asymmetry is how employers end up accepting terms instead of negotiating them. Your PBM knows your numbers. Your stop-loss carrier knows your numbers. You should know them too. Work with your broker or consultant to build your own independent analysis before renewal conversations start.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I walked a client through generic effective rate for the first time and watched her face change mid-explanation. "My broker has never pulled this number for me," she said. Her broker is a good broker. This is not a broker story. It is a category story. GER is a pharmacy-specific metric that sits outside traditional benefits consulting tools. That gap is what created a market for this firm.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The specialty pharmacy concentration trend keeps accelerating. We are seeing plans where specialty represents more than half of total pharmacy spend, driven by a relatively small number of members. That concentration creates both risk (a small number of claims driving a large share of cost) and opportunity (targeted management of a defined population can move the total number). The employers who break their trend into traditional versus specialty are making better decisions than those who look at a blended PMPM.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO told me he ran all his H1 data through a finance framework, not a pharmacy one. His spreadsheets were elegant. His conclusions were mostly wrong because they were missing the pharmacy-specific context. We rebuilt his model together. He was not doing anything poorly. He was doing finance. Pharmacy benefits sit in the overlap between finance and clinical. Both perspectives are needed.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
-That wraps Q2 on Benefit Blind Spots. Over the past twelve weeks, we covered copay card economics, compounding oversight, gene therapy coverage, mental health parity, and renewal preparation. Every one of those topics came from patterns we see in real contract reviews. The work continues into H2, and so does this publication. Stay tuned.
+**Morning (7-8 AM) — Origin Story #1:**
+June is not early. June is late. I repeat that line to clients who think preparation can wait. The window between H1 close and renewal season is where leverage is built or lost. The employers who benchmark now negotiate from data. Those who wait react to terms. That is the pattern that has held across every renewal season I have worked.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-Across the PBM contracts we read line by line, the most common pattern at renewal: the employer focuses on the pricing guarantees (discount rates, rebate guarantees) and overlooks the operational terms (audit rights, reporting timelines, termination provisions, claims processing definitions). Pricing gets you the rate. Operational terms determine whether you can verify the rate. Both matter. Most negotiations focus on one and accept the other by default.
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week on Benefit Blind Spots: the renewal countdown. Ninety days before renewal is the decision window. The PBM will have their proposal ready. Most plans do not have their framework ready. The week-by-week project plan for the ninety days that determine outcome.
 
-**Afternoon (3-6 PM) — Expertise Insight:**
-Here is the PMPM trend breakdown that changes renewal conversations. Total PMPM growth breaks into three components: price trend (same drugs costing more), utilization trend (members using more drugs), and mix shift (members moving to higher-cost categories). Knowing which component drives your trend changes your response entirely. Price trend requires PBM negotiation. Utilization trend requires clinical programs. Mix shift requires formulary strategy. The PBM's summary report rarely breaks it down this way.
+**Afternoon (3-6 PM) — Origin Story #2:**
+Early in my consulting career I worked with a plan sponsor who treated June like July. By September she was scrambling. We got a reasonable outcome, but not the outcome she could have gotten with three more months. That client taught me that preparation time is non-recoverable. You cannot borrow it back from the calendar. Start when the calendar says to start, not when the work feels urgent.
 
 ## Saturday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-Five numbers determine your renewal leverage. Generic effective rate. PMPM trend. Specialty percentage of spend. Rebate per brand claim. High-cost claimant count. If you do not know these five numbers before renewal, someone else is setting the terms.
+**Morning (8-9 AM) — Origin Story #1:**
+My pharmacy school had a mentor who said, "monitoring is the unsexy half of pharmacy practice." He meant it as a compliment. Watching patients over time, catching drift, adjusting therapy. That is the work. The same unsexy monitoring is what makes a plan sponsor great at pharmacy benefits. H1 reviews are the plan-sponsor version of medication monitoring. They look boring. They are not.
 
-**Midday (12-2 PM) — Expertise Insight:**
-The high-cost claimant count is the metric most employers overlook, and the one their stop-loss carrier watches most closely. Count members with total pharmacy claims exceeding $50,000 in H1 and separately those exceeding $100,000. Each member above $100,000 is a potential lasering candidate at renewal. Knowing this number before renewal terms arrive gives you and your broker time to prepare. Discovering it afterward gives you time to react. Those are very different positions.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The high-cost claimant count is the metric most employers overlook, and the one their stop-loss carrier watches most closely. Count members with total pharmacy claims exceeding $50,000 in H1 and separately those exceeding $100,000. Each member above $100,000 is a potential lasering candidate at renewal. Knowing this number before renewal terms arrive gives you and your broker time to prepare. Discovering it afterward gives you time to react.
 
-*Illustrative example for educational purposes. Actual thresholds vary by plan.*
-
-**Afternoon (3-5 PM) — Question:**
-Question for benefits professionals: when do you start your H1 pharmacy data review? We find that the employers who begin in June negotiate differently than those who start in August or September. The data does not change. The preparation time does.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client asked me once whether she should tell her PBM she was running her own H1 analysis. My answer was yes, casually. Not as an adversarial move, as a normal operating practice. The PBM adjusted immediately. The reporting got sharper. The meetings got more detailed. The simple act of being a prepared customer changed the vendor relationship. That works in any industry. It works here too.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-The employers who prepare for renewal with their own analysis negotiate fundamentally different outcomes than those who walk in with the PBM's summary. Same data. Different framing. Different leverage. Different result.
+**Morning (8-9 AM) — Origin Story #1:**
+I spent an afternoon once teaching a new broker how to read H1 data the way I read it. She took notes. She asked good questions. A year later she called me to say that afternoon had changed how she worked with every client. That is the return on this work. Every person who learns to read the data becomes someone who can teach another person. The field gets better when the technique spreads.
 
-**Visual — Pull-Quote Card (1080x1080, Canva):**
-Quote text: "Same data. Different framing. Different leverage. Different result."
-Design: #015880 background, white Krona One 36-48pt centered. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The PMPM trend breakdown that changes renewal conversations: total PMPM growth breaks into three components — price trend (same drugs costing more), utilization trend (members using more drugs), and mix shift (members moving to higher-cost categories). Knowing which component drives your trend changes your response entirely. Price trend requires PBM negotiation. Utilization trend requires clinical programs. Mix shift requires formulary strategy.
 
-**Midday (12-2 PM) — Question:**
-How are employers in your market handling the information asymmetry at renewal? We see a range of approaches, from fully independent claims analysis to complete reliance on PBM-generated reports. The outcomes correlate with the approach more consistently than any other variable we track.
-
-**Afternoon (3-5 PM) — Question:**
-If you advise self-funded plans: do you run an independent PMPM trend decomposition before renewal, or do you work from the PBM's summary? In our experience, the PBM's presentation of trend data and an independent analysis of the same underlying claims data often tell meaningfully different stories.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A benefits director emailed me late one night last June with a spreadsheet and a question: "Does this look right?" It did not look right. We got on a call the next morning and worked through it. She was not wrong. She was looking at the right numbers through the wrong lens. By the end of the call she had the lens. That email is still one of my favorites. People who ask late-night data questions are the people worth working with.
 
 ## Engagement Reply Templates
 

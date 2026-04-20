@@ -607,88 +607,90 @@ Next week: who really controls your drug list, and the seven questions that reve
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the 90-day PBM renewal window. I sat with two clients last fall, same PBM, same market. One started in July, one started in September. The outcomes were not close. This week's article is the week-by-week project plan for those 90 days.
 
 Read the full timeline: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's article. Highlight the passage, click restack, add teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-I learned the hard way that timing matters more than almost anything else in PBM negotiations. Early in my consulting career, I watched a client with strong data lose a renewal negotiation because they started too late. The PBM had already framed the terms. By the time we had our analysis ready, the conversation was about the PBM's proposal, not ours. I have not let that happen since. Ninety days minimum. No exceptions.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I learned the hard way that timing matters more than almost anything else in PBM negotiations. Early in my consulting career I watched a client with strong data lose a renewal negotiation because they started too late. The PBM had already framed the terms. By the time we had our analysis ready, the conversation was about the PBM's proposal, not ours. I have not let that happen since. Ninety days minimum. No exceptions.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The information asymmetry in PBM renewals is structural, not accidental. PBMs begin renewal analysis months before presenting terms. Most employers begin their analysis when terms arrive. That timing gap determines who controls the negotiation frame. The employers who close the gap negotiate from data. Those who do not negotiate from the PBM's narrative.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO called me in mid-September two years ago asking if we could run a full renewal prep in six weeks. We did. The result was better than no prep and worse than the version we would have produced with twelve. That call is why I print the 90-day calendar and mail it to every client in June. Putting the deadline somewhere physical changes the conversation about timing.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-Your PBM has been preparing for your renewal for months. You probably have not started yet. That is not a knowledge gap. It is a preparation gap. And it is the most expensive gap in pharmacy benefits.
+**Morning (7-8 AM) — Origin Story #1:**
+Early in my consulting career a mentor told me, "the client who starts in July wins the renewal. The client who starts in September is playing a different game." I thought she was exaggerating. Then I ran enough renewals to know she was right. Preparation is the whole game. Everything else is adjustments on top of preparation.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something I observe every renewal cycle: the quality of preparation predicts the quality of outcome more reliably than plan size, market conditions, or PBM relationship history. A well-prepared 500-life employer negotiates better terms than an unprepared 10,000-life employer. Every time. Preparation is the equalizer.
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+The quality of preparation predicts the quality of outcome more reliably than plan size, market conditions, or PBM relationship history. A well-prepared small-plan employer negotiates better terms than an unprepared large-plan employer. Every time. Preparation is the equalizer.
 
-**Afternoon (3-6 PM) — Expertise Insight:**
-Five metrics determine your renewal position: PMPM trend, specialty as percentage of total spend, generic effective rate, rebate per brand claim, and high-cost claimant count. If you can calculate all five from your own data before the PBM presents theirs, you walk into renewal as an informed buyer. If you cannot, you walk in as a price taker.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor told me she did not have "time" to do a 90-day prep. I asked her how much time the renewal would cost if it went wrong. She did the math in her head and canceled two other meetings the next week to start the process. Time spent on preparation is always less expensive than time spent recovering from bad terms. That tradeoff becomes obvious once you do the arithmetic.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-The biggest mistake I see in renewal preparation: employers who benchmark their PBM's performance against the PBM's own reports. The PBM chooses which metrics to highlight, which timeframes to compare, and which benchmarks to use. Running your own analysis from raw claims data changes the conversation entirely. Same data. Different analyst. Different conclusions.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-Every July, I get a version of the same call: "We just got our renewal terms and they do not look right. Can you help?" My first question is always the same: "When did you start preparing?" The answer is almost always "we just started." And almost always, the terms are already framed in the PBM's favor. The earlier you start, the more you control.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Ninety days before renewal: you set the frame. Sixty days: you adjust the frame. Thirty days: you react to the PBM's frame. Most employers start at thirty.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Every July I get a version of the same call: "We just got our renewal terms and they do not look right. Can you help?" My first question is always the same: "When did you start preparing?" The answer is almost always "we just started." And almost always, the terms are already framed in the PBM's favor. The earlier you start, the more you control.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits director asked me during a renewal prep whether it was "fair" to push back hard on her PBM after a long relationship. My answer: the PBM is not pushing back on your plan out of hostility. They are optimizing their margin within their incentive structure. You pushing back is you optimizing your plan within your fiduciary obligation. Both parties doing their jobs is not adversarial. It is the structure working correctly.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: three conversations to have before renewal season. Your broker, your stop-loss carrier, and your internal team. Same preparation window, three different perspectives that change what you negotiate and how.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-Your PBM has a renewal strategy. It was built from your data, for their margin objectives. The question is whether you have your own strategy built from the same data, for your plan's objectives. If you do not, you are negotiating within their framework by default.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The first time I helped a client prepare for renewal using the 90-day framework, I was surprised by how much the preparation itself changed the dynamic. Before we even sat down with the PBM, the client's confidence was different. They had their own data. Their own benchmarks. Their own priorities documented. The PBM noticed immediately. Preparation changes the negotiation before any terms are discussed.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The brokers and consultants who produce the best client outcomes share one trait: they start renewal preparation early. Not because they are smarter. Because they understand that preparation time is the most valuable variable in any negotiation. I have watched the same broker negotiate dramatically different outcomes for similar clients, solely based on when the preparation started.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker I work with runs the 90-day framework alongside me on every joint client. She told me recently that her renewal win rate changed after she started following it. Not because she is a different broker. Because the clients show up different. A prepared client is easier to advocate for. That downstream effect is why I make the framework public. Good work should be copyable.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Renewal preparation sounds straightforward. Pull data. Benchmark. Analyze the contract. Build a term sheet. In practice, it competes with every other priority on the employer's desk. That is why most skip it or start late. I understand the reality. But I have also watched the cost of skipping it. The difference in outcomes between prepared and unprepared employers is not marginal. It is substantial. Every time.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: who really controls your drug list. Your PBM calls it a "customized formulary." We asked a client how their formulary differed from the PBM's standard. After some digging, it did not. The formulary is where rebate economics meet clinical decisions. Seven questions reveal whose interests are winning.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-The contract analysis phase of renewal preparation is where most employers discover surprises. Not because the contract changed. Because they never read it closely the first time. I tell every client: before you negotiate new terms, understand your current terms. You cannot improve what you have not measured. Pull the contract. Read it. Then we can talk about what to change.
-
-**Afternoon (3-6 PM) — Honest Post:**
-Renewal preparation sounds straightforward. Pull data. Benchmark. Analyze the contract. Build a term sheet. In practice, it competes with every other priority on the employer's desk. That is why most skip it or start late. I understand the reality. But I have also watched the cost of skipping it. The difference in outcomes between prepared and unprepared employers is not marginal. It is substantial. Every time.
+**Afternoon (3-6 PM) — Origin Story #2:**
+The first PBM renewal I walked a client all the way through, she called me afterward and said, "I did not know I was allowed to ask for those things." Her PBM had never pushed back on the asks. They had expected them the whole time. The frame of what is "allowed" is often set by employer silence, not PBM policy. Asking changes the frame.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story:**
-The first time I helped a client prepare for renewal using the 90-day framework, I was surprised by how much the preparation itself changed the dynamic. Before we even sat down with the PBM, the client's confidence was different. They had their own data. Their own benchmarks. Their own priorities documented. The PBM noticed immediately. Preparation changes the negotiation before any terms are discussed.
+**Morning (8-9 AM) — Origin Story #1:**
+I keep a file of every renewal we have run. The file has a pattern. The earlier the start date, the stronger the outcome. Not linear, but unmistakable. I share the pattern with skeptical clients. Some of them still wait. When they call back with next year's renewal, the data has not changed. Neither has the pattern.
 
-**Midday (12-2 PM) — Expertise Insight:**
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
 Three phases. Twelve weeks. Specific deliverables each week. That is the renewal preparation framework we use with every client. Data and benchmarking first. Contract analysis second. Negotiation preparation third. The sequence matters because each phase builds on the one before it. You cannot write a term sheet without understanding your contract. You cannot analyze your contract without understanding your data.
 
-**Afternoon (3-5 PM) — Question:**
-Question for benefits professionals: when do you typically start PBM renewal preparation with your clients? July? August? September? In our experience, the start date predicts the outcome more reliably than any other variable.
+**Afternoon (3-5 PM) — Origin Story #2:**
+I had a new client once ask if I could "just negotiate" her renewal for her without the preparation phase. I told her yes, but she would not like the outcome. The value I bring is not negotiation. It is the preparation that makes the negotiation possible. She agreed to the full process. Twelve weeks later, we had terms she called "unrecognizable" compared to what the PBM had initially proposed.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-The PBM's renewal package is a proposal, not a verdict. But it only feels like a proposal if you have your own data, your own analysis, and your own priorities to compare it against. Without preparation, it feels like a verdict because you have no frame of reference.
+**Morning (8-9 AM) — Origin Story #1:**
+A plan sponsor emailed me after a renewal to ask what the single most useful part of the process had been. Her answer, before I could give mine, was "the printed calendar." A physical document with dates. The deliverables and deadlines made the abstract feel concrete. I have started giving every client that printed calendar at kickoff. Paper still works.
 
-**Midday (12-2 PM) — Question:**
-If you advise self-funded employers: what is the single most impactful thing you do during renewal preparation? One action that consistently changes outcomes. I am curious whether the answer varies by market or plan size.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The contract analysis phase of renewal preparation is where most employers discover surprises. Not because the contract changed. Because they never read it closely the first time. Before you negotiate new terms, understand your current terms. You cannot improve what you have not measured. Pull the contract. Read it. Then we can talk about what to change.
 
-**Afternoon (3-5 PM) — Community Lift:**
-If you write about benefits strategy, PBM negotiations, employer health plan management, or renewal best practices, drop your Substack below. Reading everything this weekend. The practical voices in this space deserve more visibility.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A broker called me once to say her client had asked for a renewal review from me directly, not through the broker. I told her to send the client my way and to stay in the meetings. She appreciated the transparency. I appreciate brokers who are secure enough to bring a second opinion into their engagement. That confidence is what makes the long-term partnership work.
 
 ## Engagement Reply Templates
 
