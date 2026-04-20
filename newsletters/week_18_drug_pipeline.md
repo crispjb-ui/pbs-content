@@ -266,7 +266,7 @@ One drug. One patient. One claim. $2.1 million. That is not hypothetical. Gene t
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
 
-I got a call last quarter from an employer who had just received a gene therapy claim they did not know was possible. No advance notice from the PBM. No coverage position developed. No stop-loss coordination. The claim arrived, and the whole team scrambled.
+I got a call last quarter from a broker after her client's plan received a gene therapy claim nobody on the advisory side had seen coming. The PBM had issued no advance notice. The coverage position had not been developed because the drug had launched faster than the review cycle. The broker and the plan sponsor were on the phone together the morning the claim hit, rebuilding the playbook in real time. The broker had done the right things at the right cadence. The pipeline had just moved faster than the quarterly review window.
 
 The information was available months earlier. FDA advisory committee schedules are public. PDUFA target action dates are published. Their PBM had manufacturer contracts negotiated before approval. But that intelligence never reached the employer. It reached the claims department instead.
 
@@ -454,15 +454,15 @@ That is not hypothetical. Gene therapies at this price point are already approve
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
 
-Here is what I see when we sit down with clients to review their exposure: most self-funded employers have not confirmed whether their stop-loss provisions are coordinated with their pharmacy benefit for single-claim gene therapy costs. The pharmacy side says one thing. The stop-loss policy says something different. And nobody has compared the two documents side by side.
+Here is what the strongest brokers in our network are flagging right now: the pharmacy contract and the stop-loss policy need to be compared side by side for single-claim gene therapy coordination. Both documents exist. Both were negotiated carefully. But they were drafted by different teams against different models, and reconciling the two is the kind of work that benefits from an independent pharmacy-side review alongside the broker and stop-loss carrier.
 
-That gap is where the financial shock lives. Not in the drug cost itself, which is known. In the coverage coordination, which is usually assumed rather than verified.
+That reconciliation is where the financial shock gets prevented. Not in the drug cost itself, which is known. In the coverage coordination, which deserves a deliberate cross-document check rather than an assumption.
 
-The pipeline makes this more urgent every quarter. New gene therapies are advancing across hemophilia, sickle cell disease, rare metabolic conditions, and several forms of cancer. Each approval expands the population of members who could generate a claim that exceeds your specific stop-loss attachment point in a single day.
+The pipeline makes this more urgent every quarter. New gene therapies are advancing across hemophilia, sickle cell disease, rare metabolic conditions, and several forms of cancer. Each approval expands the population of members who could generate a claim that exceeds the specific stop-loss attachment point in a single day.
 
-Your stop-loss carrier has already modeled this. Your PBM has already modeled this. The question is whether you have, and whether the two models agree on who covers what.
+Your stop-loss carrier has modeled this. Your PBM has modeled this. Your broker is almost certainly raising the coordination question. The value we add is running the pharmacy-side analysis so all three models can be reconciled at the same table, ideally well before renewal.
 
-Your broker can help you run this comparison before renewal. It takes one meeting and two documents. The employers who do it handle these claims as a process. Those who do not handle them as a crisis.
+That reconciliation is a one-meeting, two-document conversation when the broker, the stop-loss carrier, and the pharmacy reviewer are in the same room. The employers who build that meeting into their quarterly cadence handle these claims as a process. The ones who wait for the claim to force the meeting handle them as a crisis. The broker usually sees it coming first. Our role is making sure the pharmacy documents are ready when the broker calls.
 
 #### VIDEO SCRIPT OPTION (40 seconds, filmed on phone)
 
@@ -484,11 +484,11 @@ Your broker can help you run this comparison before renewal. It takes one meetin
 
 [Shift to direct, almost urgent.]
 
-"Here is what concerns me. Most self-funded employers have not confirmed whether their stop-loss coverage is actually coordinated with their pharmacy benefit for these claims."
+"Here is what the sharpest brokers are flagging right now. The stop-loss policy and the pharmacy contract need to be reconciled for these claims. Both teams are doing their jobs. Neither is positioned to run that reconciliation alone. That is where the independent pharmacy review fits in."
 
 [Lean in.]
 
-"Your PBM knows what is coming. They have manufacturer contracts negotiated before FDA approval. The question is whether anyone has told you. And whether your plan is ready when that claim shows up."
+"Your PBM knows what is coming. They have manufacturer contracts negotiated before FDA approval. Your broker is probably raising the coordination question. The question is whether the pharmacy side of the analysis is landing on your desk before the claim does."
 
 **Filming tips:** The "two point one million dollars" line needs to land like a weight. Do not rush it. Let the viewer process the number. The rest of the video is conversational and concerned, not angry. You are a pharmacist who has seen this happen and is trying to prevent it. That is the energy.
 
@@ -498,9 +498,9 @@ One drug. One patient. One claim. $2.1 million.
 
 That is not hypothetical. Gene therapies at this price point are already approved.
 
-Most self-funded employers have not confirmed whether their stop-loss coverage is coordinated with their pharmacy benefit for single-claim gene therapy exposure.
+The strongest brokers are already flagging the stop-loss and pharmacy benefit coordination gap on gene therapy. The reconciliation is a conversation, not an accusation. It just has to happen before the claim arrives.
 
-Your PBM knows what is coming. The question is whether anyone told you.
+Your PBM knows what is coming. Your broker is raising the question. The pharmacy-side review is the piece that pulls the documents together.
 
 #PharmacyBenefits #GeneTherapy #StopLoss #SelfFundedEmployers
 
@@ -747,7 +747,7 @@ A medical director I worked with said he could predict a new drug's plan impact 
 Gene therapy economics break the traditional pharmacy benefit model. A multi-million-dollar single claim was never contemplated when attachment points, copay structures, and benefit maximums were designed. Employers need to evaluate whether their plan documents, PBM contracts, and stop-loss policies are built for this cost environment. Most are not.
 
 **Afternoon (3-5 PM) — Origin Story #2:**
-The employer who called me most shaken was the one who read about a gene therapy launch in a trade publication two weeks after their plan had already paid the claim. They did not know it was coming. They did not know their stop-loss policy excluded it. They learned both facts at the same time. I started publishing pipeline pieces for exactly that reader.
+The employer who called me most shaken was one whose broker had been raising pipeline concerns at every quarterly meeting, but a specific gene therapy beat the review cycle. The plan paid the claim before the stop-loss coordination meeting had happened. The broker and the sponsor had been on the right path; the launch calendar was just moving faster than the review calendar. I started publishing pipeline pieces for exactly that reader, and for the brokers trying to keep their clients ahead of the launches.
 
 ## Bonus Notes (Evergreen)
 
@@ -759,13 +759,13 @@ If you advise self-funded plans: at what point do you bring pipeline intelligenc
 Use these when engaging with other writers' content. Adapt to whatever they posted.
 
 **Template A (on a drug pricing or pipeline post):**
-"The employer plan side of this is where it gets real. Every pipeline drug with a price tag above six figures becomes a plan design question, a stop-loss question, and a contract question simultaneously. Most employers are not connecting those dots until the claim arrives. The preparation window is now, not at renewal."
+"The employer plan side of this is where it gets real. Every pipeline drug with a price tag above six figures becomes a plan design question, a stop-loss question, and a contract question simultaneously. The brokers and benefits counsel we work alongside are running those conversations proactively. Our role is the independent pharmacy review that pulls the three documents together. The preparation window is now, not at renewal."
 
 **Template B (on a GLP-1 or specialty drug post):**
 "This is exactly what we are watching. The expanding indications for GLP-1s alone will change the math on every self-funded plan's pharmacy spend projection. The employers who are preparing now, updating utilization management criteria, coordinating with stop-loss carriers, reviewing plan document language, will be in a fundamentally different position than those who wait."
 
 **Template C (on a healthcare innovation or gene therapy post):**
-"The clinical promise here is real. But the financial infrastructure for most self-funded plans was not built for single claims at this price point. PBM contracts, stop-loss policies, and plan documents all need to be evaluated against this new cost reality. The gap between clinical innovation and benefit design readiness is widening."
+"The clinical promise here is real. But the financial infrastructure for most self-funded plans was not built for single claims at this price point. The brokers and benefits counsel we work alongside are already flagging this with their clients; our role is the independent pharmacy review that reconciles PBM contracts, stop-loss policies, and plan documents against the new cost reality. The gap between clinical innovation and benefit design readiness is where advisory teams benefit from pharmacy-side support."
 
 ---
 
