@@ -568,93 +568,90 @@ Next week: the five numbers that define your renewal position and how to calcula
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: five claims data patterns that signal trouble before renewal. Mid-year is the window where you can still act on what the data is telling you. We walk through each pattern, what it means, and what to do about it.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-The first mid-year claims review I did for a client changed my perspective on timing. The PBM's summary report showed everything on track. The underlying data showed three patterns that were going to make renewal significantly more expensive than projected. The difference was not in the data. The data was the same. The difference was in who was reading it and when. That experience is why we now insist on mid-year reviews with every client.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The first mid-year claims review I did for a client changed my perspective on timing. The PBM's summary report showed everything on track. The underlying data showed three patterns that were going to make renewal significantly more expensive than projected. The data was the same. The difference was in who was reading it and when. That experience is why we insist on mid-year reviews with every client now.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The timing gap in pharmacy benefits is striking. PBMs analyze employer data continuously. Most employers review their data once a year, at renewal. That is like checking your bank balance once a year and hoping the numbers work out. The information exists in real time. The analysis happens on one side of the relationship. The other side waits to be told.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO called me in July once because his CEO had asked, "how is the plan doing?" He did not know. He was paying for a plan he could not describe. Four hours of data review later, he had the answer. He also had three things to fix before renewal. That call is the reason I built a standing mid-year review into every engagement. Nobody should have to tell their CEO, "I'll find out."
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-Your PBM has already analyzed your first-half claims data. They know your trend. They know your exposure. They are building their renewal strategy from your data right now. You probably have not looked at it yet.
+**Morning (7-8 AM) — Origin Story #1:**
+Early in my consulting career I asked a PBM account rep why my client's data had not been proactively flagged. He said, "that is not in our contract." He was right. The contract did not require it. That answer taught me that the gap in PBM reporting is not always a failing. It is often a contract design problem, and it is fixable by the sponsor who insists on better language next time.
 
-**Visual — Stat Card (1080x1080, Canva):**
-Stat: "Mid-Year"
-Context: "The window that determines your renewal leverage."
-Design: White background, stat in #015880 Krona One 72-96pt, context in #4D4D4D Roboto 22pt. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+The information asymmetry in pharmacy benefits is widest at renewal. The PBM has analyzed the employer's data for months. The employer often sees a comprehensive analysis for the first time when the PBM presents renewal terms. That asymmetry is not intentional wrongdoing. It is structural. Mid-year review is how employers close the gap.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something I observe every renewal season: the employers who reviewed their claims data at mid-year negotiate fundamentally different outcomes than those who wait. Not because they have better data. The data is the same. They have better timing. Four months of preparation versus four weeks of reaction. Same information, completely different leverage.
-
-**Afternoon (3-6 PM) — Expertise Insight:**
-Five claims data patterns that predict renewal trajectory: specialty concentration shift, high-cost claimant clustering, utilization anomalies, generic efficiency decline, and rebate revenue erosion. Two or more of these patterns appearing simultaneously is not coincidence. It is a cost trajectory that the PBM's summary report may not explicitly show. The signals are in the data. You just have to know what to look for.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I had a client's benefits coordinator tell me she did not know how to "read" her PBM's reports. I sat with her for two hours and we read them together. She was not missing intelligence. She was missing a framework. By the end of the session she was asking sharper questions than most of her peers ask at renewal. Tools beat talent when the tools are designed for the right reader.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-The most revealing metric in pharmacy benefits is one most employers never track: rebate per claim. Total rebates can rise simply because total spend rises. Rebate per claim tells you whether the PBM's rebate efficiency is actually improving. Track it quarterly. If it is declining while total spend is rising, the formulary economics are moving against your plan.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
 I review the contracts that cross my desk each year. The pattern I see most often at renewal: employers surprised by a trend their own data predicted months earlier. The data was available. Nobody was reading it. Not because they did not care. Because the reporting structure buries the signals under metrics that look fine on the surface. My job is teaching clients to read the signals, not just the summaries.
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-The PBM's quarterly report says your plan is performing well. Your claims data tells a different story. Both statements come from the same data set. The difference is narrative.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor pushed back when I suggested a mid-year review. "We already have quarterly meetings." I asked what the meetings covered. She listed vendor updates, administrative issues, and compliance touchpoints. I asked what the meetings did NOT cover. She thought for a minute and said: "our actual claims trajectory." That silence is the reason mid-year reviews exist. The regular meetings are useful. They are not the same as independent analysis.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: how to read a PBM utilization report without getting lost. Three reports to focus on, what to look for in each, and the one question to bring to your next meeting with your broker. PBM reports are built for PBM analysts. This guide is built for employers.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-Mid-year is when you can still act. Renewal is when you react. The employers who understand this distinction negotiate from data. Those who do not negotiate from the PBM's narrative. The outcomes are measurably different.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Years ago I sat with a benefits director who apologized for "not being a data person." She was running a plan with significant specialty spend and felt out of her depth. I told her what I tell everyone: you do not need to be a data analyst. You need to know which three numbers to track and who to call when they move. We wrote those three numbers on a sticky note. She kept it on her monitor. The plan performed better the next year. Sticky notes work.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The information asymmetry in pharmacy benefits is widest at renewal. The PBM has analyzed the employer's data for months. The employer often sees a comprehensive analysis for the first time when the PBM presents renewal terms. That asymmetry is not intentional wrongdoing. It is structural. The PBM's business model incentivizes continuous analysis. The employer's operational reality means claims data competes with every other priority. Mid-year review is how employers close that gap.
+**Afternoon (3-6 PM) — Origin Story #2:**
+The best mid-year review we ever did took half a day. The employer, their broker, and their TPA all sat in one room. We went through three reports together. By lunch we had identified two patterns that changed the entire renewal strategy. The employer negotiated a different outcome than they would have without that data. Not because the data was magic. Because they saw it four months before the PBM expected them to.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Mid-year claims review is not complicated. Three reports. Five patterns. An afternoon of focused analysis. The barrier is not complexity. It is priority. Most employers do not skip mid-year review because the data is hard to read. They skip it because renewal feels far away and other priorities feel immediate. Then renewal arrives and the window has closed. I watch this pattern repeat every year.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: the H1 review. Your PBM already knows your first-half numbers. They know your PMPM trend, your guarantee performance, your specialty concentration, and your rebate position. They have modeled multiple renewal scenarios. The five metrics that define your renewal leverage, and how to calculate them before the PBM presents their terms.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-The question I hear most from clients at mid-year: "Is our trend normal?" Normal compared to what? Market benchmarks are useful. But the more important comparison is your own trend: this period versus last period. That comparison reveals whether your plan's cost trajectory is accelerating, stable, or decelerating. Market comparisons tell you where you stand. Internal comparisons tell you where you are heading.
-
-**Afternoon (3-6 PM) — Honest Post:**
-Mid-year claims review is not complicated. Three reports. Five patterns. An afternoon of focused analysis. The barrier is not complexity. It is priority. Most employers do not skip mid-year review because the data is hard to read. They skip it because renewal feels far away and other priorities feel immediate. Then renewal arrives and the window has closed. I watch this pattern repeat every year.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I sent a client a one-page mid-year summary once with a single highlighted metric and a recommendation to investigate. She called me back an hour later having already pulled the underlying data. She found a PA gap that would have cost the plan substantially by year-end. Her response time is what made the difference. The review surfaces the signal. The sponsor's willingness to act is what makes it useful.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story:**
-The best mid-year review we ever did took half a day. We sat with the employer, their broker, and their TPA. We went through three reports together. By lunch, we had identified two patterns that changed the entire renewal strategy. The employer negotiated a different outcome than they would have without that data. Not because the data was magic. Because they saw it four months before the PBM expected them to.
+**Morning (8-9 AM) — Origin Story #1:**
+I got my MBA while running PBS because I needed the financial language to match my clinical training. The MBA did not teach me anything about pharmacy. It taught me how to sit at a CFO's table and read her balance sheet the way she reads it. That skill is why mid-year reviews land with finance teams now. Translating pharmacy into finance is not dumbing it down. It is speaking the language the decision-maker speaks.
 
-**Midday (12-2 PM) — Expertise Insight:**
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
 Generic efficiency is often overlooked at mid-year because the headline metric (generic fill rate) usually meets the PBM's guarantee. But generic effective rate (what you actually pay for generics as a percentage of benchmark pricing) can erode even when fill rate is stable. Track both. A weakening effective rate is a pricing conversation that needs to happen before renewal, not during it.
 
-**Afternoon (3-5 PM) — Question:**
-Question for benefits professionals: when do you typically pull claims data for analysis? Monthly? Quarterly? Only at renewal? In our experience, the cadence of data review directly predicts the quality of renewal outcomes. Not the data itself, but when it gets reviewed.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A colleague once asked me why I do not do "drive-by" claim reviews: quick, one-time audits for prospects without an ongoing relationship. My honest answer is that a single review catches a moment. An ongoing review catches the trajectory. Plan sponsors need the trajectory. The one-shot version is a snapshot of where they were. The relationship is where the trajectory gets built.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-The PBM's summary report shows you what they want you to see. Your claims data shows you what is actually happening. Same data set. Different narrative. The question is which one informs your renewal strategy.
+**Morning (8-9 AM) — Origin Story #1:**
+A young pharmacist messaged me recently asking how I got into PBM consulting. My answer was that I did not have a path. I had a problem I could not stop thinking about, which was the cost gap between what pharmacy could be and what plan sponsors were actually paying. The career built itself around that problem. Nobody should be waiting for permission to work on the problem they cannot stop thinking about.
 
-**Midday (12-2 PM) — Question:**
-How are you using mid-year claims data in your practice? If you advise self-funded plans, at what point in the year do you pull comprehensive claims analysis for your clients? The timing question is more important than the analysis methodology, in our experience.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The question I hear most from clients at mid-year: "Is our trend normal?" Normal compared to what? Market benchmarks are useful. But the more important comparison is your own trend: this period versus last period. That comparison reveals whether your plan's cost trajectory is accelerating, stable, or decelerating. Market comparisons tell you where you stand. Internal comparisons tell you where you are heading.
 
-**Afternoon (3-5 PM) — Community Lift:**
-If you write about employer health plan strategy, claims analytics, or renewal negotiation, drop your Substack below. I am reading this weekend. The practitioners sharing real analytical frameworks are producing more useful content than the industry publications. That work deserves visibility.
+**Afternoon (3-5 PM) — Origin Story #2:**
+One of my clients keeps a running note of questions to ask me between our quarterly meetings. Some questions are sharp. Some are basic. All of them are serious. The discipline of writing them down is what makes her the best-prepared plan sponsor I work with. Her plan performs better because she refuses to let questions expire. That habit is teachable. I recommend it to every sponsor.
 
 ## Engagement Reply Templates
 

@@ -677,93 +677,90 @@ Next week: five claims data patterns that signal trouble before renewal. The smo
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the biosimilar opportunity most self-funded plans are missing. We walk through why PBM rebate economics may not align with your plan's cost objectives, and share our six-factor biosimilar readiness assessment.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
+**Midday (11 AM-1 PM) — Origin Story #1:**
 The first time I ran a net cost comparison on a client's biologics, the numbers did not match what the PBM's reports suggested. The brand had higher rebates, yes. But the biosimilar had a lower net cost to the plan. The PBM was earning more by keeping the brand preferred. The plan was paying the difference. That was the moment I realized formulary optimization and plan optimization are not always the same thing.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The biosimilar market has matured significantly. Multiple approved options exist for some of the highest-cost biologics in pharmacy benefits. Yet adoption rates vary enormously across plans. The difference is not clinical. It is contractual. Plans with proactive biosimilar strategies capture the savings. Plans that defer to their PBM's default formulary often do not.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I became a pharmacist because I believed in the science. I became a PBM consultant because I saw how the economics can work against the patients I trained to help. Biosimilars represent both sides of that tension. The clinical evidence is clear. The financial incentives are complicated. My job is making sure the financial structure does not override the clinical opportunity.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-Your PBM reports strong rebate performance. Your biologic spend keeps climbing. Both statements can be true at the same time. That is the problem.
+**Morning (7-8 AM) — Origin Story #1:**
+When Humira biosimilars launched, I spent hours watching the formulary decisions roll out across clients. Some plans adopted the biosimilar immediately. Others kept the brand for months. Same drug. Same clinical evidence. Different contract language. That launch was the clearest demonstration I have seen of how paper, not pharmacology, drives formulary outcomes.
 
-**Visual — Stat Card (1080x1080, Canva):**
-Stat: "Net Cost"
-Context: "The number your rebate report does not show you."
-Design: White background, stat in #015880 Krona One 72-96pt, context in #4D4D4D Roboto 22pt. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+Brand biologic manufacturers are increasing rebate offers specifically to maintain preferred formulary status against biosimilar competition. Higher rebates for the PBM. But a higher gross cost that may still exceed the biosimilar's lower net cost for the plan. The incentives are misaligned, and the plan pays the difference unless someone runs the comparison.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something worth tracking: brand biologic manufacturers are increasing rebate offers specifically to maintain preferred formulary status against biosimilar competition. Higher rebates for the PBM. But a higher gross cost that may still exceed the biosimilar's lower net cost for the plan. The incentives are misaligned, and the plan pays the difference unless someone runs the comparison.
-
-**Afternoon (3-6 PM) — Expertise Insight:**
-Six factors determine whether a self-funded plan captures biosimilar savings: formulary positioning, auto-substitution policies, rebate transparency, provider education, member communication, and contract language. Most plans we review have strong positions on one or two. Gaps on the rest. The assessment takes an afternoon. The savings opportunity compounds every quarter you wait.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A rheumatologist called me once upset that her patient's biosimilar transition had gone poorly. Together we traced the problem: the PBM had sent the letter, the prescriber had not been briefed, the patient had assumed the drug was different. We rebuilt the communication sequence for the next transition. Zero complaints. Same biosimilar. The pharmacology was never the issue. The process was.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-The single most revealing question you can ask your PBM about biosimilars: what is the net cost of the brand versus the biosimilar, after all rebates, for each therapeutic category on my plan? If they cannot or will not provide that comparison, the formulary may not be optimized for your plan's cost objectives. The data exists. Whether it gets shared is a different question.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-I became a pharmacist because I believed in the science. I became a PBM consultant because I saw how the economics can work against the patients I trained to help. Biosimilars represent both sides of that tension perfectly. The clinical evidence is clear. The financial incentives are complicated. My job is making sure the financial structure does not override the clinical opportunity.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Biosimilars are FDA-approved. Clinically equivalent. Lower net cost to most plans. And yet: many formularies still prefer the brand. If the clinical evidence is not the barrier, ask yourself what is.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+When I started reviewing PBM contracts, I assumed formularies were primarily clinical decisions. They are, partly. But they are also financial decisions, rebate decisions, and market access decisions. Biosimilars taught me that lesson clearly. A clinically equivalent product at a lower net cost that does not get preferred formulary status because the brand's rebate contract is more profitable for the PBM. Understanding that dynamic changed how I read every contract.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A pharmacy student asked me during a guest lecture whether biosimilars were "a big deal." I said they would be the most important cost lever of her career if plan sponsors activated them. The students took notes. Their employers, eventually, will either benefit from those notes or pay for not having them. The generation learning about biosimilars in school now is the one that will normalize the economics. I am betting on them.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: three biosimilar contract provisions worth negotiating. Dispensing rate guarantees, brand-to-biosimilar transition timelines, and net cost comparison reporting. Most PBM contracts say nothing about biosimilar performance. That silence has a cost.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-Your PBM contract probably includes generic dispensing rate guarantees. Does it include biosimilar dispensing rate guarantees? If not, ask yourself why one category of cost savings gets measured and the other does not.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A client asked me to negotiate biosimilar dispensing rate guarantees into her PBM contract. The PBM said it was not standard. I pulled three other contracts from clients where it was standard and sent them over. The PBM came back with a draft two weeks later. "Standard" is often just another word for "not yet asked." Every first request changes what the next client can get.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The biosimilar conversation exposes a structural tension in the PBM model. PBMs earn revenue from manufacturer rebates. Brand manufacturers, facing biosimilar competition, increase rebate offers to maintain formulary position. The PBM's financial incentive may be to keep the higher-rebate brand preferred. The plan's financial interest may be the lower net-cost biosimilar. Both parties are acting rationally within their economic model. The question is which model your contract is built around.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I sat in a P&T committee meeting where the clinical committee unanimously supported biosimilar preference. The contracting team overrode them because the rebate math pointed the other way. I watched that override happen in real time. It is not a hypothetical. It is how formularies get built when rebate economics are the tiebreaker and nobody in the room is arguing for the plan.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Biosimilar strategy should be straightforward. The products are FDA-approved. The savings are measurable. The clinical evidence is clear. And yet adoption is uneven across plans. The barrier is almost never clinical. It is economic, contractual, and structural. That gap between what should be simple and what is actually complicated is where most of our consulting work lives.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: mid-year claims red flags. Your claims data is already showing patterns that predict your renewal outcome. Five specific signals to watch: specialty concentration shifts, high-cost claimant clustering, utilization anomalies, generic efficiency declines, and rebate revenue erosion. Mid-year is when you can still act on them.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-Here is what we see across client contract reviews. The biosimilar language ranges from explicit dispensing rate guarantees with financial penalties, to complete silence. Silence is not neutral. In a contract, silence means the PBM has no obligation to prioritize biosimilar adoption. The plans with the strongest biosimilar outcomes are the ones that made it a contractual requirement.
-
-**Afternoon (3-6 PM) — Honest Post:**
-Biosimilar strategy should be straightforward. The products are FDA-approved. The savings are measurable. The clinical evidence is clear. And yet, adoption is uneven across plans. The barrier is almost never clinical. It is economic, contractual, and structural. That gap between what should be simple and what is actually complicated is where most of our consulting work lives. Pharmacy benefits should not be this hard to optimize. But right now, they are.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker I trust told me recently that biosimilar conversations feel "awkward" with her PBM. I asked why. She said she did not want to accuse the PBM of misaligned incentives. I pointed out that naming a structural incentive is not an accusation. It is just economics. She tried it at the next meeting. The PBM did not get defensive. They got specific. The conversation moved.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story:**
-When I started reviewing PBM contracts, I assumed formularies were primarily clinical decisions. They are, partly. But they are also financial decisions, rebate decisions, and market access decisions. Biosimilars taught me that lesson clearly. A clinically equivalent product at a lower net cost that does not get preferred formulary status because the brand's rebate contract is more profitable for the PBM. Understanding that dynamic changed how I read every contract.
+**Morning (8-9 AM) — Origin Story #1:**
+The first biosimilar I ever dispensed, the patient asked me if it would work as well as the brand. I told her yes, based on the clinical evidence. Years later I still think about that conversation. The patient trusted pharmacy because pharmacy was ready to answer. Plan sponsors get that same trust when their communication about biosimilar transitions is prepared. Lose the preparation, lose the trust.
 
-**Midday (12-2 PM) — Expertise Insight:**
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
 Three biosimilar contract provisions that create real accountability: dispensing rate guarantees (minimum biosimilar fill rates when available), brand-to-biosimilar transition timelines (how quickly new biosimilars get preferred status), and net cost comparison reporting (after-rebate cost transparency by therapeutic category). If your PBM resists any of these, the resistance itself tells you something important.
 
-**Afternoon (3-5 PM) — Question:**
-Question for benefits professionals: have you run a net cost comparison between brand biologics and available biosimilars on your plan? Not gross cost. Not rebate percentages. The actual net dollars per treatment. In our experience, this single data request changes the biosimilar conversation entirely.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A prescriber asked me at a pharmacy conference why biosimilar adoption was slower in the U.S. than in Europe. My answer was not clinical. It was contractual. Rebate-driven formulary design does not exist in most European systems the way it does here. Same molecules, different economics, different adoption curves. When the structure rewards delay, delay is what you get.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-Higher rebates. Higher cost to the plan. Both can be true simultaneously. That is the biosimilar paradox most employers have not examined.
+**Morning (8-9 AM) — Origin Story #1:**
+One of my clients implemented a mandatory biosimilar transition for a specific biologic class. The prescriber engagement and member communication took eight weeks of prep. The savings to the plan started in week nine and compounded every month after. The work before the transition was real. The payoff since then has been real too. That is the shape of biosimilar strategy done well.
 
-**Midday (12-2 PM) — Question:**
-How is your plan approaching biosimilar strategy? Proactive formulary management? Contractual guarantees? Or defaulting to whatever the PBM recommends? The range of approaches we see across clients is striking, and the cost impact is measurable.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The single most revealing question you can ask your PBM about biosimilars: what is the net cost of the brand versus the biosimilar, after all rebates, for each therapeutic category on my plan? If they cannot or will not provide that comparison, the formulary may not be optimized for your plan's cost objectives. The data exists. Whether it gets shared is a different question.
 
-**Afternoon (3-5 PM) — Community Lift:**
-If you write about pharmacy economics, biosimilar policy, or PBM transparency, drop your Substack below. I am reading everything this weekend. The best analysis in this space is coming from practitioners, not press releases.
+**Afternoon (3-5 PM) — Origin Story #2:**
+I wrote a piece on biosimilars two years ago that almost nobody read. I wrote the same piece last year with a specific client scene and a named therapeutic class. It landed differently. The lesson that took me a while to accept: the economics are not the hook. The specificity is the hook. Plan sponsors want to see their own plan in the example. That is why I keep writing about the cases I see, not the theory I already know.
 
 ## Engagement Reply Templates
 
