@@ -436,20 +436,87 @@ Next week: the renewal negotiation playbook.
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: specialty drug management. For most of our clients, specialty is now the majority of pharmacy cost. Eight management levers, three scoring dimensions, one assessment. Read: [LINK]
-**Midday — Origin Story:** I trained as a clinical pharmacist. Specialty drugs represent some of the most remarkable therapeutic advances in medicine. Biologics that put autoimmune conditions into remission. Gene therapies that cure previously untreatable diseases. My job is not to restrict access to these therapies. It is to ensure the plan structure around them serves both the member's clinical needs and the employer's financial sustainability. Those goals are not in conflict. They require the same thing: independent management.
+
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: specialty drug management. For most of our clients, specialty is now the majority of pharmacy cost. Eight management levers, three scoring dimensions, one assessment.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I trained as a clinical pharmacist. Specialty drugs represent some of the most remarkable therapeutic advances in medicine. Biologics that put autoimmune conditions into remission. Gene therapies that cure previously untreatable diseases. My job is not to restrict access to these therapies. It is to ensure the plan structure around them serves both the member's clinical needs and the employer's financial sustainability. Those goals are not in conflict. They require the same thing: independent management.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I remember the exact moment a client realized their specialty pharmacy spend had crossed the line. It now represented a larger share of their total pharmacy cost than every other category combined. That single data point changed how they approached every contract provision, every formulary decision, and every vendor evaluation. Specialty is no longer a subcategory. For most plans, it is the category.
 
 ## Tuesday
-**Morning:** Eight levers. Most plans strong on 2-3. Gaps on the rest. The levers with gaps are where specialty cost grows unchecked. Start with the gap that matches your highest spend category.
+
+**Morning (7-8 AM) — Origin Story #1:**
+A patient I worked with years ago on a rheumatoid arthritis biologic told me that her medication had given her back the ability to pick up her kids. That story is the reason I argue against blunt-instrument cost controls on specialty. Strong management is not the same as restricted access. The sponsors who get that distinction right produce better outcomes for both the plan and the members.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+Eight levers. Most plans strong on 2-3. Gaps on the rest. The levers with gaps are where specialty cost grows unchecked. Start with the gap that matches your highest spend category.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits director told me she did not know where to start on specialty management because the category felt overwhelming. I walked her through the eight-lever framework and asked her to pick the lever where she had the least confidence. She picked reauthorization. We fixed that one first. The framework stops feeling overwhelming when you pick one lever at a time. Sequencing matters in any big category.
 
 ## Wednesday
-**Morning:** Reauthorization is the specialty cost lever nobody talks about. Once a specialty therapy is authorized, how often is it reviewed? Members on long-term therapy may no longer meet clinical criteria. Without periodic review, the authorization runs on autopilot. And autopilot in specialty is expensive.
+
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Reauthorization is the specialty cost lever nobody talks about. Once a specialty therapy is authorized, how often is it reviewed? Members on long-term therapy may no longer meet clinical criteria. Without periodic review, the authorization runs on autopilot. And autopilot in specialty is expensive. I bring this up in every client engagement because nobody else is raising it.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A specialty pharmacist told me once that her internal workflow prompted reauthorization reviews on a calendar nobody outside her team saw. When I asked to map that schedule, she said it had never been requested. Employers were paying for the reviews but had no visibility into them. We built a reauthorization reporting summary with her. It now gets shared with every client on her specialty program. Transparency is often a request that has just never been made.
 
 ## Thursday
-**Morning:** New field note: reauthorization protocols. The specialty cost lever that prevents unnecessary continuation of high-cost therapies. Simple to implement, meaningful financial impact, and most contracts do not require it. Read: [LINK]
+
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: reauthorization protocols. The specialty cost lever that prevents unnecessary continuation of high-cost therapies. Simple to implement, meaningful financial impact, and most contracts do not require it.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I advised a client to push reauthorization language into a new PBM contract three years ago. The clause looked simple. Six months in, the PBM flagged two members whose continued therapy no longer met clinical criteria. Thoughtful transitions followed. The savings were real. The clinical oversight was the point. That outcome is why I now draft reauthorization language into every specialty management negotiation.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A nurse case manager thanked me once for a reauthorization protocol that let her have better conversations with members whose therapy criteria had evolved. She said the protocol gave her language to use that was clinical, not administrative. That reframe mattered for her. It mattered more for the members. Good protocol design is care design. The two cannot be separated.
 
 ## Friday
-**Morning — Forward Look:** Next week: the renewal negotiation playbook. Back-to-business surge. Twelve provisions. Market benchmarks. Specific language. Negotiation tactics. The strongest content of the quarter.
+
+**Morning (7-8 AM) — Origin Story #1:**
+Specialty management is the category that defines every self-funded plan's cost trajectory now. I see it in every contract review. Eight levers. Three scoring dimensions. One direction of travel if the levers are not actively managed. The work is not glamorous. It is foundational. The plans that treat it as foundational stay ahead of the cost curve. The plans that treat it as an afterthought get caught by the curve.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week: the renewal negotiation playbook. Back-to-business surge. Twelve provisions. Market benchmarks. Specific language. Negotiation tactics. The strongest content of the quarter.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO asked me once why specialty management was "more important" than other pharmacy cost categories. My answer: because it is growing. The other categories are stable or declining. Specialty is the arrow pointing up. If you can only prioritize one category, prioritize the one with momentum. He rewrote his pharmacy scorecard around that framing. The plan's specialty outcomes improved within the year.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+My first specialty case management engagement was for a client with three high-cost claimants representing a disproportionate share of their total pharmacy spend. The care coordination we built around those three members prevented avoidable complications and unnecessary therapy. The member experience improved. The plan's cost stabilized. Specialty case management is not cost containment disguised as care. It is care that produces cost stability.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Eight specialty management levers: formulary positioning, site-of-care, step therapy, biosimilar adoption, limited distribution access, copay card programs, clinical pathways, and reauthorization protocols. Each needs its own data, its own contract provision, and its own review cadence. The framework exists because specialty is too big to manage by instinct.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client's benefits committee asked me once to pick the "most important" specialty lever. I refused. The most important lever is the one your plan has not addressed yet. For some clients that is reauthorization. For others it is clinical pathways. The framework is useful because it reveals where the gap is, not because it dictates which gap matters most in general. Your plan's gap is the answer.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy student asked me whether specialty management was a "pharmacy job" or a "finance job." I told her: both. The category does not respect the traditional split. The pharmacists who can also read contracts will be the ones the next generation of plan sponsors hire. The finance people who can learn pharmacy will be the ones the next generation of PBMs have to negotiate with. The convergence is where the jobs are.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Specialty management is not one lever pulled once. It is eight levers pulled continuously. The plans that pull them all well stay ahead of the cost trajectory. The plans that pull one or two and assume the PBM handles the rest fall behind. The PBM's default settings are not aligned with the plan's cost objectives. Active management is the only option.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A broker told me recently that specialty management had become the hardest conversation she had with new clients because the data always looked worse than clients expected. I told her that is actually the easy conversation. The hard conversation is the one a year later when the plan has not acted on the data. Bad news at the start beats avoidable bad news at the end. Clients who hear it early usually move. Clients who do not usually do not.
 
 ## Engagement Reply Templates
 

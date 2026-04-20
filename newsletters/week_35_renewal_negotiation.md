@@ -436,20 +436,87 @@ Next week: contract language that costs you. Ten provisions shown in weak, moder
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: the renewal negotiation playbook. Twelve provisions with benchmarks and tactics. This is the execution guide for the 90-day preparation we started in Week 25. Read: [LINK]
-**Midday — Origin Story:** I have watched employers accept PBM renewal terms that left substantial value on the table because they negotiated fewer than half the provisions that matter. The PBM presented competitive headline pricing. The employer signed. The structural provisions (audit rights, penalty caps, termination terms) were all PBM-favorable defaults. The pricing looked good. The contract did not protect them.
+
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: the renewal negotiation playbook. Twelve provisions with benchmarks and tactics. This is the execution guide for the 90-day preparation we started in Week 25.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I have watched employers accept PBM renewal terms that left substantial value on the table because they negotiated fewer than half the provisions that matter. The PBM presented competitive headline pricing. The employer signed. The structural provisions (audit rights, penalty caps, termination terms) were all PBM-favorable defaults. The pricing looked good. The contract did not protect them.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+Two clients, same PBM, same renewal cycle. One accepted the initial terms their PBM presented. The other came to the table with their own data, their own benchmarks, and specific language changes they wanted. The cost difference over the contract term was substantial. Same PBM. Same market. Different preparation. I have watched this play out enough times to know preparation is the variable that matters most.
 
 ## Tuesday
-**Morning:** The PBM's initial renewal proposal is not an offer. It is an opening position. The headline numbers are competitive because they are designed to close quickly. The structural provisions are weak because the PBM hopes you do not read them.
+
+**Morning (7-8 AM) — Origin Story #1:**
+A plan sponsor asked me once whether pushing back on every provision would "sour" the PBM relationship. My answer: a PBM that sours because an employer asks for fair terms is a PBM that is telling you something. Healthy relationships survive negotiation. Fragile ones do not. If the relationship cannot handle a term sheet, it was not going to survive a bad quarter either.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+Twelve provisions. Most employers negotiate two (pricing and rebates). The other ten are where the structural value lives. Audit rights. Performance penalties. Biosimilar commitments. Termination terms. Each one either protects the plan or protects the PBM. Default language always favors the PBM.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker brought me into a renewal where the client had been asking the PBM for stronger audit rights "for years" with no progress. I asked if the request had ever been put in writing as a specific clause. It had not. We drafted the clause. The PBM countered in three days. A negotiated version landed in the final contract. Specific language beats repeated asks. The PBM was not being evasive. They were waiting for a version they could negotiate against.
 
 ## Wednesday
-**Morning:** Twelve provisions. Most employers negotiate two (pricing and rebates). The other ten are where the structural value lives. Audit rights. Performance penalties. Biosimilar commitments. Termination terms. Each one either protects the plan or protects the PBM. Default language always favors the PBM.
+
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I sat with a client through a renewal meeting where the PBM's rep tried to close pricing in the first hour. We had two days scheduled. I told the client: nothing gets decided today. The rep looked frustrated. The client got stronger terms than she would have on day one because the pressure to close was the PBM's, not ours. Time is leverage in renewal. Do not give it away cheaply.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits director told me once after a renewal that she had negotiated harder than she would have naturally because I was in the room. I took that seriously. The goal is for sponsors to negotiate well when I am not in the room. The renewal playbook exists so sponsors can take the work I have learned and run it themselves. The goal is not dependency. It is capability.
 
 ## Thursday
-**Morning:** New field note: the termination clause. A PBM that knows you can leave in 90 days negotiates differently than one that has you locked in for 180. The termination clause creates the leverage environment for every other negotiation. Read: [LINK]
+
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: the termination clause. A PBM that knows you can leave in 90 days negotiates differently than one that has you locked in for 180. The termination clause creates the leverage environment for every other negotiation.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A CFO asked me why the termination clause was "the most important" clause when the client had no intention of leaving. My answer: you negotiate based on the leverage you have, not the leverage you plan to use. A short termination notice is bargaining power even when you stay. The PBM reads the clause and knows you can leave. Everything else gets easier from there.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor pushed back on negotiating a shorter termination clause because "nothing had gone wrong yet." I reframed: the right time to negotiate termination is exactly when nothing has gone wrong. The PBM concedes when the relationship is healthy. Wait until something has gone wrong, and the leverage has already shifted. Preventive negotiation is more effective than reactive negotiation. Every time.
 
 ## Friday
-**Morning — Forward Look:** Next week: contract language that costs you. Ten provisions. Three versions each: weak, moderate, strong. The reference document you bring to renewal. Two words can be worth six figures.
+
+**Morning (7-8 AM) — Origin Story #1:**
+The PBM's initial renewal proposal is not an offer. It is an opening position. The headline numbers are competitive because they are designed to close quickly. The structural provisions are weak because the PBM hopes you do not read them. Treating the proposal as a verdict rather than a starting point is the single most common mistake I see in renewal work.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week: contract language that costs you. Ten provisions. Three versions each: weak, moderate, strong. The reference document you bring to renewal. Two words can be worth six figures.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I had a client tell me recently that my renewal playbook felt "intimidating" at first read because of the number of provisions. I told her: the intimidation is the point. A serious negotiation has a lot of moving parts. Intimidation is how the PBM keeps employers focused on two provisions instead of twelve. Naming that intimidation out loud often dissolves it. The framework is not intimidating once you start using it.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacist colleague asked me how I learned to negotiate PBM contracts when pharmacy school had never taught it. The honest answer: I learned by reading contracts and arguing with vendors for years. No course curriculum exists for this. The profession has not built it yet. I write about it publicly because somebody has to, and until the curriculum catches up, the writing is the curriculum.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Twelve renewal provisions that move dollars: Generic Effective Rate, Rebate Guarantee, Specialty Pricing, Dispensing Fee Schedule, Admin Fee, Clinical Program Guarantees, Audit Rights, Performance Penalties, Biosimilar Commitments, Formulary Change Notification, Termination Provisions, Annual True-Up Methodology. Each has market benchmarks, specific language to request, and a negotiation tactic. None of them negotiate themselves.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A broker thanked me last year for a term sheet I had built for her client. She said she had used it as a template for three other clients. I was glad. The work travels. The best negotiation preparation is reusable. The plans benefit when the broker's last negotiation makes the next negotiation faster and sharper. Specificity compounds across engagements if the language is kept consistent.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A CFO told me after a successful renewal that he had gone into the meeting "expecting to lose" and had left feeling that the PBM respected his plan more than it had before. That dynamic is what good preparation creates. Respect is a negotiation outcome. It is not a soft skill. It is the PBM recognizing that the employer is prepared enough to defend the plan's interests. That recognition changes the long-term relationship.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The renewal playbook is an execution document, not a strategy document. Strategy happens in the 90-day prep (Week 25). Execution happens in the playbook. Separating the two disciplines means each gets its own attention. Conflating them means both get done badly. Clients who run prep and playbook as sequenced disciplines produce better outcomes than clients who improvise a hybrid.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A plan sponsor once asked me whether I ever "lose" renewal negotiations. My honest answer: I have had clients walk away from deals that I thought were negotiable. I have also had deals close with terms I wish had been stronger. Perfect outcomes are rare. Thoughtful outcomes are the goal. The plans I work with consistently get good-enough terms that protect the plan's interests. That is the bar. Perfection is not the goal. Durability is.
 
 ## Engagement Reply Templates
 
