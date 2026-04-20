@@ -218,6 +218,26 @@ Data without questions is just numbers. Start with better questions.
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design bar chart icon with a magnifying glass overlaid (150-200px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Data Without Questions" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Is Just Numbers." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 ### Sources (Include at End of Article)
 
 1. Industry benchmarks on pharmacy data review cadence
@@ -331,27 +351,6 @@ This briefing covers the five questions your pharmacy data should answer, and th
 Full framework on Substack.
 
 #PharmacyBenefits #DataAnalytics #SelfFundedEmployers #CostContainment
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 1200 x 600 px
-**Template:** Topic Icon
-
-**Prompt:**
-
-A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design bar chart icon with a magnifying glass overlaid (150-200px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Data Without Questions" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Is Just Numbers." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

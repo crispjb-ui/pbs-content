@@ -174,6 +174,26 @@ The difference between cost shifting and cost management matters. Whichever dire
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Split Visual
+
+**Prompt:**
+
+A clean, professional digital graphic at 1200 x 600 pixels divided into two halves by a thin vertical white line. Left half has a light salmon-pink background (#FFE5E5). Right half has a light mint-green background (#E5F5E5). On the left side, centered: a flat white dollar-sign icon with a downward red arrow, and below it in dark gray sans-serif text (#4D4D4D) the label "Cost Shifting." On the right side, centered: a flat white shield icon with a small checkmark, and below it in dark gray sans-serif text the label "Cost Management." Spanning the bottom center across both halves, bold white text on a deep teal-blue (#015880) banner reads "The Member Affordability Decision." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Minimal, editorial, authoritative. Color palette restricted to: #015880, #A7E0FA, #FFE5E5, #E5F5E5, #4D4D4D, #FFFFFF.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 ### Sources (Include at End of Article)
 
 1. Industry surveys on employer-sponsored health plans - accumulator adoption at ~60% of large employers
@@ -278,27 +298,6 @@ This briefing breaks down both approaches: what they do, who they impact, and th
 The full analytical framework with specific trade-offs is on Substack.
 
 #PharmacyBenefits #CopayAccumulators #MemberAffordability #SelfFundedEmployers #PBM
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 1200 x 600 px
-**Template:** Split Visual
-
-**Prompt:**
-
-A clean, professional digital graphic at 1200 x 600 pixels divided into two halves by a thin vertical white line. Left half has a light salmon-pink background (#FFE5E5). Right half has a light mint-green background (#E5F5E5). On the left side, centered: a flat white dollar-sign icon with a downward red arrow, and below it in dark gray sans-serif text (#4D4D4D) the label "Cost Shifting." On the right side, centered: a flat white shield icon with a small checkmark, and below it in dark gray sans-serif text the label "Cost Management." Spanning the bottom center across both halves, bold white text on a deep teal-blue (#015880) banner reads "The Member Affordability Decision." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Minimal, editorial, authoritative. Color palette restricted to: #015880, #A7E0FA, #FFE5E5, #E5F5E5, #4D4D4D, #FFFFFF.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

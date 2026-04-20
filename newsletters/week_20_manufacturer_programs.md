@@ -115,6 +115,26 @@ Have you quantified the copay card impact on your plan? If you found something u
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design factory/manufacturer building icon with an arrow pointing to a prescription card or copay card icon (250-300px combined), simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Manufacturer Direct Programs" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Who Really Benefits?" No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Copay Accumulator vs. Copay Maximizer: Choosing the Right Program
@@ -255,27 +275,6 @@ This briefing breaks down how these programs work, their impact on your plan, an
 Full framework including direct contracting models on Substack.
 
 #PharmacyBenefits #ManufacturerPrograms #CopayCards #Rebates #SelfFundedEmployers
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Topic Icon
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design factory/manufacturer building icon with an arrow pointing to a prescription card or copay card icon (250-300px combined), simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Manufacturer Direct Programs" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Who Really Benefits?" No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

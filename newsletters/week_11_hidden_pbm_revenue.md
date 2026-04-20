@@ -202,6 +202,26 @@ If you have never asked, now is the time. Q1 data is available. The answers are 
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design iceberg icon (150-200px), with the top portion visible above a horizontal light blue (#A7E0FA) waterline and a larger portion below, simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Hidden PBM Revenue" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Where Profit Hides in Your Plan." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 ### Sources (Include at End of Article)
 
 1. Spread pricing mechanics and market prevalence
@@ -301,27 +321,6 @@ This briefing maps where hidden revenue lives, how to start finding it in your o
 Q1 data is available. The answers are in the numbers.
 
 #PharmacyBenefits #PBM #Transparency #SpreadPricing #SelfFundedEmployers
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 1200 x 600 px
-**Template:** Topic Icon
-
-**Prompt:**
-
-A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design iceberg icon (150-200px), with the top portion visible above a horizontal light blue (#A7E0FA) waterline and a larger portion below, simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Hidden PBM Revenue" in bold (60-72pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Where Profit Hides in Your Plan." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

@@ -168,6 +168,26 @@ Have you evaluated carve-out for your plan? If you went through the process and 
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Split Visual
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Feature two columns separated by a thin vertical line in light blue (#A7E0FA). Left column shows a flat-design bundled package icon in deep teal-blue (#015880) with "Bundled PBM" label below in gray (#4D4D4D). Right column shows the same package icon separated into two distinct pieces in deep teal-blue (#015880) with "Carved Out" label below in gray (#4D4D4D). Spanning the bottom center, bold deep teal-blue (#015880) text reads "The Carve-Out Question." Below that, a smaller line in gray (#4D4D4D) reads "When Separating Pharmacy Makes Sense." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## The First 90 Days After Carve-Out: Where Implementations Break Down
@@ -312,27 +332,6 @@ Should your pharmacy benefit be administered separately from medical? The carve-
 This briefing covers the case for both approaches and a framework for making a data-driven decision.
 
 #PharmacyBenefits #PBM #CarveOut #SelfFundedEmployers #BenefitStrategy
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Split Visual
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Feature two columns separated by a thin vertical line in light blue (#A7E0FA). Left column shows a flat-design bundled package icon in deep teal-blue (#015880) with "Bundled PBM" label below in gray (#4D4D4D). Right column shows the same package icon separated into two distinct pieces in deep teal-blue (#015880) with "Carved Out" label below in gray (#4D4D4D). Spanning the bottom center, bold deep teal-blue (#015880) text reads "The Carve-Out Question." Below that, a smaller line in gray (#4D4D4D) reads "When Separating Pharmacy Makes Sense." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

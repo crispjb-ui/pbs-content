@@ -157,6 +157,24 @@ Have you ever asked your PBM how your formulary differs from their standard? If 
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large white flat-design pill grid icon (3x3 arrangement of different pill shapes) with one pill highlighted in light blue (#A7E0FA) and a magnifying glass over it (250-300px). Below, centered white sans-serif text: "Who Really Controls Your Drug List" in bold (80-96pt). Below that, light blue (#A7E0FA) text: "The Formulary Independence Audit." No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate base image
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" badge top-left
+4. Add PBS logo (white) bottom-right, 100-120px
+5. Preview at thumbnail size, export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Three Formulary Questions Your PBM Should Answer Immediately
@@ -267,25 +285,6 @@ This week's Benefit Blind Spots includes a **formulary decision audit**: seven s
 ---
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large white flat-design pill grid icon (3x3 arrangement of different pill shapes) with one pill highlighted in light blue (#A7E0FA) and a magnifying glass over it (250-300px). Below, centered white sans-serif text: "Who Really Controls Your Drug List" in bold (80-96pt). Below that, light blue (#A7E0FA) text: "The Formulary Independence Audit." No photographs, no realistic elements, no logos. Flat corporate infographic style.
-
-**Post-Generation Steps:**
-1. Generate base image
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" badge top-left
-4. Add PBS logo (white) bottom-right, 100-120px
-5. Preview at thumbnail size, export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

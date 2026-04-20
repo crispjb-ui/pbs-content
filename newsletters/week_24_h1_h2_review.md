@@ -168,6 +168,26 @@ Have you pulled your H1 numbers yet? If you found something unexpected in the da
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Feature two side-by-side rounded rectangles: left rectangle in white with "H1" in bold deep teal-blue (#015880) text and "Review" below in gray (#4D4D4D), right rectangle outlined in light blue (#A7E0FA) with "H2" in bold light blue (#A7E0FA) text and "Preview" below in white. An arrow connects the two rectangles left to right. Below both, centered white sans-serif text reads "First Half Done. Now What?" in bold (80-96pt equivalent). No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Five Numbers That Determine Your Renewal Leverage
@@ -290,27 +310,6 @@ This week's Benefit Blind Spots includes an **H1 benchmark dashboard**: the five
 ---
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Data Highlight
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Feature two side-by-side rounded rectangles: left rectangle in white with "H1" in bold deep teal-blue (#015880) text and "Review" below in gray (#4D4D4D), right rectangle outlined in light blue (#A7E0FA) with "H2" in bold light blue (#A7E0FA) text and "Preview" below in white. An arrow connects the two rectangles left to right. Below both, centered white sans-serif text reads "First Half Done. Now What?" in bold (80-96pt equivalent). No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

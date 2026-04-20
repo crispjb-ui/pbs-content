@@ -139,6 +139,26 @@ Have you pulled your compounding claims data recently? If you found something un
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design mortar and pestle icon in deep teal-blue (#015880) with a small warning/caution triangle overlay in light blue (#A7E0FA) (250-300px combined), simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "The Compounding Pharmacy Problem" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "Managing a High-Risk Category." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Three Compounding Claims Patterns That Signal Problems
@@ -262,27 +282,6 @@ This week's Benefit Blind Spots includes a **compounding claims red flag report 
 ---
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Topic Icon
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design mortar and pestle icon in deep teal-blue (#015880) with a small warning/caution triangle overlay in light blue (#A7E0FA) (250-300px combined), simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "The Compounding Pharmacy Problem" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "Managing a High-Risk Category." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

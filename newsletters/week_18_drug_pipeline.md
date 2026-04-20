@@ -132,6 +132,26 @@ Have you reviewed the drug pipeline for therapies that could hit your plan in th
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design pipeline or funnel icon with pill shapes entering from the top and a dollar sign emerging at the bottom (250-300px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "The Pipeline That Will Hit Your Plan" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Preparing for Drug Launches." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## One Drug Class to Watch: The Next Wave of GLP-1 Approvals
@@ -285,27 +305,6 @@ This briefing covers pipeline monitoring, preparation framework, and the PBM com
 Full framework with 2026-2027 watch list on Substack.
 
 #PharmacyBenefits #DrugPipeline #NewDrugs #SelfFundedEmployers #CostContainment
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Topic Icon
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design pipeline or funnel icon with pill shapes entering from the top and a dollar sign emerging at the bottom (250-300px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "The Pipeline That Will Hit Your Plan" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Preparing for Drug Launches." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

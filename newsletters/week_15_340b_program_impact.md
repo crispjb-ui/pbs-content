@@ -109,6 +109,26 @@ Have you looked at 340B in your claims data? If you found something you did not 
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Split Visual
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Feature two columns separated by a thin vertical line in light blue (#A7E0FA). Left column shows a flat-design hospital/safety-net provider icon in deep teal-blue (#015880) with "340B Intended" label below in gray (#4D4D4D). Right column shows a flat-design prescription bottle with a dollar sign icon in deep teal-blue (#015880) with "340B In Practice" label below in gray (#4D4D4D). Spanning the bottom center, bold deep teal-blue (#015880) text reads "The 340B Impact on Your Plan." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Contract Pharmacy Arrangements: The 340B Variable Employers Miss
@@ -243,27 +263,6 @@ Your plan may pay standard rates for medications providers acquired at 25-50% di
 This briefing covers what 340B is, how it affects employer plans, and the contract questions to ask.
 
 #PharmacyBenefits #340B #Transparency #SelfFundedEmployers #DrugPricing
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Split Visual
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Feature two columns separated by a thin vertical line in light blue (#A7E0FA). Left column shows a flat-design hospital/safety-net provider icon in deep teal-blue (#015880) with "340B Intended" label below in gray (#4D4D4D). Right column shows a flat-design prescription bottle with a dollar sign icon in deep teal-blue (#015880) with "340B In Practice" label below in gray (#4D4D4D). Spanning the bottom center, bold deep teal-blue (#015880) text reads "The 340B Impact on Your Plan." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

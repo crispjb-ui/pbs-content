@@ -177,6 +177,26 @@ Have you audited your PA program for ROI? If you found something unexpected, lea
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design clipboard icon with a stopwatch or clock overlay (250-300px combined), simplified and minimal with no gradients, suggesting bureaucratic delay. Below the icons, centered white sans-serif text reads "The Prior Authorization Problem" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Balancing Control and Care." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## PA Turnaround Time: What Your Contract Should Guarantee
@@ -334,27 +354,6 @@ This briefing covers where PA makes sense, where it creates problems, and how go
 Full framework with contract language considerations on Substack.
 
 #PharmacyBenefits #PriorAuthorization #UtilizationManagement #SelfFundedEmployers
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Topic Icon
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design clipboard icon with a stopwatch or clock overlay (250-300px combined), simplified and minimal with no gradients, suggesting bureaucratic delay. Below the icons, centered white sans-serif text reads "The Prior Authorization Problem" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Balancing Control and Care." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

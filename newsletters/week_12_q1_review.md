@@ -260,6 +260,26 @@ Start with the metrics that matter. Follow where they lead. Build your case now.
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered prominently is the text "Q1" in extremely large bold white sans-serif typography (150-180pt equivalent), acting as the hero element. Directly below "Q1" in a smaller white sans-serif font (36-48pt equivalent) reads "What Actually Shifted." A subtle light blue (#A7E0FA) horizontal accent line separates the large text from the subtitle. Faint, barely visible chart/bar-graph shapes in slightly lighter blue (#016a99) sit behind the text as a background texture element. No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Minimal, data-forward, editorial. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 ### Sources (Include at End of Article)
 
 1. National pharmacy trend benchmarks (5-8% annually)
@@ -461,27 +481,6 @@ This briefing covers the five metrics that matter most, the red flags that warra
 Full benchmarking framework and renewal preparation timeline on Substack.
 
 #PharmacyBenefits #DataAnalytics #CostContainment #Renewal #SelfFundedEmployers
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
-
-**Prompt:**
-
-A clean, professional digital graphic at 1200 x 600 pixels with a solid deep teal-blue background (#015880). Centered prominently is the text "Q1" in extremely large bold white sans-serif typography (150-180pt equivalent), acting as the hero element. Directly below "Q1" in a smaller white sans-serif font (36-48pt equivalent) reads "What Actually Shifted." A subtle light blue (#A7E0FA) horizontal accent line separates the large text from the subtitle. Faint, barely visible chart/bar-graph shapes in slightly lighter blue (#016a99) sit behind the text as a background texture element. No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Minimal, data-forward, editorial. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (white version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 

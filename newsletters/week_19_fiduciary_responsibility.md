@@ -132,6 +132,26 @@ Have you audited your fiduciary documentation trail for pharmacy benefits? If yo
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design gavel icon next to a document/contract icon in deep teal-blue (#015880) (250-300px combined), simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Fiduciary Responsibility" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "The ERISA Standard for Pharmacy Benefits." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## The Documentation That Matters in PBM Litigation
@@ -272,27 +292,6 @@ This briefing covers what prudent process looks like and the documentation that 
 Full framework with litigation landscape context on Substack.
 
 #PharmacyBenefits #ERISA #FiduciaryDuty #SelfFundedEmployers #Compliance
-
----
-
-### Substack Header Image Prompt
-
-**Dimensions:** 2240 x 1200 px
-**Template:** Topic Icon
-
-**Prompt:**
-
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design gavel icon next to a document/contract icon in deep teal-blue (#015880) (250-300px combined), simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Fiduciary Responsibility" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "The ERISA Standard for Pharmacy Benefits." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
-
-**Post-Generation Steps:**
-1. Generate the base image using the prompt above
-2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
-5. Preview at Substack thumbnail size (~600x300) to confirm readability
-6. Export as PNG
-
----
 
 # PART 3: LINKEDIN FEED POSTS
 
