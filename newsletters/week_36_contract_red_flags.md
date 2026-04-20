@@ -186,36 +186,57 @@ This week's Benefit Blind Spots includes a **contract language comparison librar
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 133 - Tuesday 10:00 AM
-### "Contract Language: What They Say vs. What It Means" (Messy Infographic)
+### "3 Cost Patterns That Show Up in Q4 Claims Every Year" (Infographic)
 
-> **Visual Build Note:** Use the **Door** metaphor infographic from `claude_design_prompts.md` (template #10). Claude design project type: **Prototype**. Plug in content that frames each red flag provision as a closed door worth opening. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Q4 Claim Pattern** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames three claim-data patterns along a Q4 timeline, each anchored with named drugs. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
-> **Visual Build Note (Carousel):** Use the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+**Format:** Infographic
+**Pillar:** Cost Containment Strategies
+**Word Count:** ~180 words
 
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Marked-Up Contract Page** showcase from the hybrid rotation. Template #15 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **Mock PBM contract page with 10 red-flag provisions highlighted and margin notes flagging each one: "Weak audit clause," "No rebate definition," "Auto-renewal trap," etc.** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
-
-**Format:** Messy Infographic
-**Word Count:** ~85 words
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-4-W3 = Infographic × Cost Containment. Monday newsletter pillar is PBM Contract Insights (Contract Red Flags), so no collision. Fixes the prior W36 same-pillar overlap (the original Messy Infographic on contract language sat on Contract Insights, same pillar as Monday).
 
 #### Post Copy
 
-PBM contract language: what they say vs. what it means.
+Q4 claims data follows the same three patterns in almost every self-funded plan.
 
-"Competitive pricing" = undefined, unenforceable.
-"Commercially reasonable efforts" = the PBM has an exit.
-"Standard practices" = whatever the PBM decides.
-"Adequate network" = unmeasurable.
-"May amend with notice" = they can change your terms.
+Pattern 1: Deductible acceleration via copay cards. Manufacturer copay cards push members through their deductible and out-of-pocket max faster than organic spend would. By Q4, the plan is covering full cost on claims the member paid nothing for. The pharmacy submitted the full-price claim. The cost accumulated to the plan.
 
-Every phrase sounds professional. Some protect you. Some protect the PBM. The difference is not obvious until you try to enforce a guarantee or exit the relationship.
+Pattern 2: Year-end stockpiling on maintenance drugs. Members refill 90-day scripts of atorvastatin, lisinopril, or metformin in December to beat January deductible resets. The PBM collects the rebate on those claims. The plan pays the spend in the wrong plan year.
 
-Two words can be worth six figures.
+Pattern 3: Elective specialty treatment timing. Members on Humira, Stelara, or Keytruda therapy time their scripts to maximize OOP max use. The clinical pattern is normal. The financial pattern shows up as a Q4 spike that is not random.
 
-#PharmacyBenefits #ContractLanguage #PBMContracts #SelfFundedEmployers
+Each pattern is visible in claims data by early November. Each one changes what Q4 looks like on the P&L. A pre-year-end claims review is the intervention window.
 
-#### Messy Infographic Concept
-**Title:** What They Say vs. What It Means
-**Style:** Two-column comparison, hand-drawn. Left: contract text in monospace. Right: translation in red handwriting. 5 rows of "professional-sounding" language decoded. This is the updated version of the Q1 messy infographic that hit 22K impressions.
+#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
+
+#### Infographic Concept
+
+**Layout:** Vertical three-panel stack with a Q4 timeline running down the left edge. Each panel represents one pattern anchored to where in the quarter it typically spikes. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) highlights, white background.
+
+**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Cost Patterns That Show Up in Q4 Claims Every Year." Calendar icon in Accent Blue.
+
+**Panel 1 - Copay Card Deductible Acceleration:**
+- Credit card icon, Primary Blue, 50px
+- Headline: "Copay cards accelerate members through OOP max."
+- Body: "Manufacturer pays at counter. Full-price claim lands on your plan. By Q4, plan is covering everything the member paid nothing for."
+- Timeline tag (Accent Blue): "Visible from October onward."
+
+**Panel 2 - Year-End Maintenance Stockpiling:**
+- Calendar + pill bottle icon, Primary Blue, 50px
+- Headline: "December refills on atorvastatin, lisinopril, metformin."
+- Body: "Members stockpile 90-day maintenance fills to beat January deductible resets. The spend lands in the wrong plan year."
+- Timeline tag (Accent Blue): "December concentration."
+
+**Panel 3 - Specialty Treatment Timing:**
+- Infusion icon, Primary Blue, 50px
+- Headline: "Humira, Stelara, Keytruda Q4 spikes."
+- Body: "Members time specialty fills to maximize already-paid OOP max. Clinical pattern is normal. Financial spike is not random."
+- Timeline tag (Accent Blue): "October through December."
+
+**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Every pattern is visible by early November. That is the intervention window." PBS logo bottom-right, team@rxbs.org bottom-left.
+
+**Style:** Clean professional format. Roboto body (16-18pt), Krona One for panel headers (20-22pt). Icons flat, single-color, 40-50px.
 
 ---
 
@@ -225,13 +246,11 @@ Two words can be worth six figures.
 
 #### Reshare Copy
 
-"Competitive pricing." "Commercially reasonable efforts." "Standard practices." "Adequate network." Every phrase sounds professional. Some protect your plan. Some protect the PBM.
+Three cost patterns surface in Q4 claims data every year: copay card deductible acceleration, year-end maintenance stockpiling, and specialty treatment timing. Each one is visible by early November.
 
-The difference is not obvious until a guarantee falls short or you try to exit the relationship.
+Ginny Crisp walks through what each pattern does to the plan's P&L and how to intervene before year-end.
 
-Ginny Crisp translates the language most employers gloss over.
-
-#PharmacyBenefits #ContractLanguage #PBMContracts #SelfFundedEmployers
+#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
 
 ---
 

@@ -285,32 +285,49 @@ This week's Benefit Blind Spots includes the **renewal readiness scorecard**: 15
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 137 - Tuesday 10:00 AM
-### "The Renewal Readiness Gap" (Messy Infographic)
+### "What 'Industry Standard' Actually Means in PBM Proposals" (Messy Infographic)
 
-> **Visual Build Note:** Use the **Mountain** metaphor infographic from `claude_design_prompts.md` (template #9). Claude design project type: **Prototype**. Plug in content that frames summit view: readiness scorecard at the peak. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-> **Visual Build Note (Carousel):** Use the **Whiteboard carousel** template from `claude_design_prompts.md` (template #3). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+> **Visual Build Note:** Use the **Redline Proposal** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames a stylized PBM proposal page with "industry standard" phrases highlighted and red-pen margin notes translating each one. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
 
 **Format:** Messy Infographic
-**Word Count:** ~85 words
+**Pillar:** Transparency & Industry Education
+**Word Count:** ~170 words
+
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-4-W4 = Messy Infographic × Transparency. Monday newsletter pillar is PBM Contract Insights (Renewal Readiness), so no collision. Transparency averaged 26,431 impressions on the single prior post and Messy Infographic hit 22,047 on its single test, making this the top-theoretical-performance slot in the rotation grid.
 
 #### Post Copy
 
-The renewal readiness gap.
+"Industry standard" is the three most expensive words in a PBM proposal.
 
-Prepared employer: own data, own benchmarks, term sheet, advisory alignment, communication plan. Walks in as an informed buyer.
+In the ~100 contracts we review annually, "industry standard" appears in almost every one. It is rarely defined. It is rarely the same number in any two contracts. It is almost always worse than what the plan could have negotiated.
 
-Unprepared employer: PBM's summary report, no benchmarks, no term sheet, no alignment. Walks in as a price taker.
+"Industry-standard AWP discount." Whose industry? Large-employer market? Self-funded mid-market? National? The phrase lets the PBM reference whichever benchmark makes their number look favorable.
 
-Same PBM. Same market. Different preparation. Different outcome. Every time.
+"Industry-standard rebate pass-through." Depending on the benchmark source, anything from 50% to 100% can be called standard.
 
-Fifteen factors determine which side you are on. One scorecard tells you your score.
+"Industry-standard performance guarantees." The number is whatever the PBM can cite from last year's proposals, not what the contract actually protects.
 
-#PharmacyBenefits #RenewalReadiness #PBMNegotiation #SelfFundedEmployers
+"Industry-standard reporting." Translation: the PBM's default dashboard, not customized for the plan.
+
+Every phrase is technically accurate and practically meaningless. Replace every instance with a specific number. The PBM's willingness to commit is the signal.
+
+#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
 
 #### Messy Infographic Concept
-**Title:** The Renewal Readiness Gap
-**Style:** Two-column "Prepared" vs. "Unprepared" with hand-drawn checkmarks/X marks. Left (green checks): 5 preparation elements. Right (red X): 5 gaps. Center arrow: "Same PBM. Same market. Different outcome."
+
+**Layout:** Off-white (#F5F5F0) background with faint grid lines. A stylized PBM proposal cover page rendered in the center with four "industry standard" phrases highlighted in yellow. Red-pen margin notes in Caveat-style handwriting translate each phrase.
+
+**Center document:** Hand-drawn rectangle representing the proposal cover. Title: "PBM Proposal — Response to RFP" in mock professional type. Below it, four typed paragraph-style lines each containing the phrase "industry standard" highlighted in yellow (#FFF3CD).
+
+**Four red-pen margin annotations** with handwritten arrows pointing at each highlighted phrase:
+1. "Industry-standard AWP discount" → Margin: "Whose industry? Which benchmark? Undefined = unenforceable."
+2. "Industry-standard rebate pass-through" → Margin: "50% or 100%? Both can be called standard depending on the source."
+3. "Industry-standard performance guarantees" → Margin: "Last year's proposal numbers ≠ what the contract protects."
+4. "Industry-standard reporting" → Margin: "Translation: their default dashboard."
+
+**Bottom band:** Accent Blue (#A7E0FA) with handwritten Primary Blue text: "Replace every 'industry standard' with a specific number. Their willingness to commit is the signal." PBS logo bottom-right. team@rxbs.org bottom-left.
+
+**Style:** Whiteboard-sketch aesthetic. Red (#C0392B) for all margin annotations. Yellow (#FFF3CD) highlights over the phrases. Primary Blue (#015880) for the proposal's mock structure. Caveat-style handwriting throughout.
 
 ---
 
@@ -320,13 +337,11 @@ Fifteen factors determine which side you are on. One scorecard tells you your sc
 
 #### Reshare Copy
 
-Same PBM. Same market. Different preparation. Different renewal outcome.
+"Industry standard" appears in almost every PBM proposal and almost never means the same thing in any two of them. AWP discount, rebate pass-through, performance guarantees, reporting. Every phrase is technically accurate and practically meaningless.
 
-Prepared plan sponsors walk in with their own data, benchmarks, term sheet, and advisory alignment. Unprepared plan sponsors walk in with the PBM's summary report.
+Ginny Crisp translates the language and shows what to replace it with.
 
-Ginny Crisp covers the 15 factors that decide which side you land on.
-
-#PharmacyBenefits #RenewalReadiness #PBMNegotiation #SelfFundedEmployers
+#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
 
 ---
 

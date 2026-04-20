@@ -203,32 +203,55 @@ This week's Benefit Blind Spots includes a **renewal negotiation checklist**: 12
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 129 - Tuesday 10:00 AM
-### "12 Contract Provisions That Determine Renewal" (Contract Markup Carousel - Template B)
+### "The Self-Funded Plan Sponsor's 2027 Renewal Calendar" (Carousel)
 
-> **Visual Build Note:** Use the **Stopwatch** metaphor infographic from `claude_design_prompts.md` (template #8). Claude design project type: **Prototype**. Plug in content that frames negotiation response windows, how quickly the PBM moves. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
+> **Visual Build Note:** Use the **Quarterly Calendar** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each quarter with a milestone gate and one-line consequence-of-slip. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
 
-> **Visual Build Note (Carousel):** Use the **Contract comparison carousel** template from `claude_design_prompts.md` (template #4). Claude design project type: **Slide deck from template**. Plug in the week's content across 7 slides per the template structure. Export PNG set and upload as a LinkedIn carousel.
+**Format:** Carousel (6 slides)
+**Pillar:** Self-Funded Employer Guidance
+**Word Count:** ~205 words
 
-**Format:** Contract Markup Carousel (7 slides) - Template B
-**Word Count:** ~85 words
+> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-4-W2 = Carousel × Self-Funded Guidance. Monday newsletter pillar is PBM Contract Insights (Renewal Negotiation), so no collision. Fixes the prior W35 same-pillar overlap (the original Contract Markup Carousel sat on Contract Insights, same pillar as Monday).
 
 #### Post Copy
 
-Twelve contract provisions determine your PBM renewal outcome. Most employers negotiate fewer than half.
+If renewal lands in 2027, the calendar starts now.
 
-The provisions they skip are often where the most value gets left on the table. Audit rights. Biosimilar commitments. Formulary notification. Termination terms. The PBM's initial proposal includes competitive headline numbers and weak structural provisions. The employer focuses on the numbers. The PBM keeps the advantages.
+Self-funded plans that arrive at renewal with position built do not improvise. They follow a calendar. Here is the one we walk clients through:
 
-#PharmacyBenefits #PBMRenewal #ContractNegotiation #SelfFundedEmployers
+Q4 2026: RFP scope, evaluation criteria, and finalist panel built. If the current PBM is in the finalist panel, the market check is real. If they are not, the conversation is about transition.
 
-#### Contract Markup Carousel Slides (Template B)
+Q1 2027: RFP issued. Vendor responses pulled and scored with an independent methodology, not the PBM's spreadsheet. Reference checks run on finalists.
 
-**Slide 1:** "CONTRACT REVIEW" stamp. Monospace: "PBM RENEWAL AGREEMENT." Red annotation: "12 provisions. Most employers negotiate <6."
-**Slide 2:** Yellow highlight over "GER guarantee." Margin note: "Channel-specific, not aggregate. Quarterly true-up." Redline: strikethrough "aggregate," handwritten "by channel" above.
-**Slide 3:** Yellow highlight over "rebate definition." Margin note: "Inclusive or narrow? The definition determines what you receive." Red circle around "all compensation."
-**Slide 4:** Yellow highlight over "termination: 180 days." Strikethrough "180." Handwritten "90" above. Margin note: "This is your leverage. Do not accept 180."
-**Slide 5:** Yellow highlight over "performance penalties: capped at $X." Margin note: "A cap limits your protection. Negotiate % of spend, not fixed amount."
-**Slide 6:** Monospace: "Biosimilar dispensing rate: [blank]." Red annotation: "If this is blank, there is no commitment." Handwritten: "Minimum [X]% with 90-day transition."
-**Slide 7:** Primary Blue bg. "Print the checklist. Mark your gaps. That is your term sheet." team@rxbs.org
+Q2 2027: Best-and-final rounds with specific contract language demands, not generic improvement requests. Committee review and fiduciary documentation updated at each decision point.
+
+Q3 2027: Contract execution with implementation milestones, data transition plan, and performance baselines locked. Member communication strategy approved 60 days before go-live.
+
+Q4 2027: Go-live monitoring. First-90-days audit scheduled. Guarantee tracking framework in place.
+
+Plans that arrive at each phase with the prior phase complete negotiate. Plans that compress phases concede. The 2027 window starts in Q4 2026.
+
+#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
+
+#### First Comment
+
+More in this week's Pharmacy Benefits Briefing on renewal negotiation: [LINKEDIN NEWSLETTER URL]
+
+#### Carousel Slide Descriptions
+
+**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "The Self-Funded Plan Sponsor's 2027 Renewal Calendar." Accent Blue subtitle: "Every quarter has a gate. Every gate determines position."
+
+**Slide 2 - Q4 2026 Scope and Panel:** White background. Krona One Primary Blue: "Q4 2026: Build RFP Scope and Finalist Panel." Body: "If the current PBM is in the panel, the market check is real. If not, the conversation is about transition."
+
+**Slide 3 - Q1 2027 RFP Out:** Accent Blue background. Primary Blue Krona One: "Q1 2027: Issue RFP. Score Independently." Body: "Responses scored against the plan's methodology, not the PBM's spreadsheet. Reference checks on finalists."
+
+**Slide 4 - Q2 2027 Best and Final:** White background. Krona One: "Q2 2027: Best-and-Final With Specific Language." Body: "Generic improvement requests produce generic answers. Specific contract language demands produce commitments."
+
+**Slide 5 - Q3-Q4 2027 Execute and Monitor:** Primary Blue background. White Krona One: "Q3: Execute. Q4: Monitor." Accent Blue body: "Go-live milestones. Member comms 60 days pre-launch. First-90-days audit on the calendar."
+
+**Slide 6 - CTA:** Primary Blue background. White Krona One: "Plans that complete each phase negotiate. Plans that compress phases concede." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One headers (28-34pt), Roboto body (18-22pt). Quarter labels in top-right on slides 2-5.
 
 ---
 
@@ -238,11 +261,11 @@ The provisions they skip are often where the most value gets left on the table. 
 
 #### Reshare Copy
 
-Twelve contract provisions determine your PBM renewal outcome. Most plan sponsors negotiate hard on the first two and accept default language on the rest.
+If renewal lands in 2027, the calendar starts in Q4 2026. RFP scope, independent scoring, best-and-final with specific language demands, execution milestones, first-90-days audit.
 
-Ginny Crisp marks up the provisions where value quietly leaves the table, and the redlines every renewal term sheet should carry.
+Ginny Crisp walks through the quarterly gates that separate self-funded plans that negotiate from plans that concede.
 
-#PharmacyBenefits #PBMRenewal #ContractNegotiation #SelfFundedEmployers
+#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
 
 ---
 
