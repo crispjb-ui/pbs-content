@@ -132,7 +132,7 @@ Have you scored your plan's specialty management? Leave a comment below.
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large flat-design icon in white (250-300px): a specialty medication vial overlapping with an upward trending line graph, representing specialty drug cost trajectory. The trend line is rendered in light blue (#A7E0FA) for contrast. Simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Specialty Drug Management" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "The Category Defining Cost." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design specialty-vial icon in white, roughly 400px tall, with "SPECIALTY" rendered in deep teal-blue (#015880) bold sans-serif text across the vial body. An upward-trending line in Accent Blue (#A7E0FA) rises from the vial's base through and beyond its cap, implying cost growth trajectory, with a directional arrow at the top. Eight small lever hash marks in Accent Blue surround the vial at regular intervals representing the eight specialty management levers. One lever is rendered larger and highlighted in Accent Blue as the priority focus. Below the vial, two-tone centered headline: "Specialty Management" in white bold sans-serif (80-96pt), with "Eight Levers, One Assessment" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -174,6 +174,25 @@ Your broker can help you benchmark reauthorization practices across PBMs and add
 ---
 
 *Field Note. Questions? team@rxbs.org.*
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized calendar-with-arrow icon in deep teal-blue (#015880) outline, roughly 300px wide, with "REAUTH" rendered in deep teal-blue bold sans-serif text across the calendar's top header. A circular refresh arrow in Accent Blue (#A7E0FA) wraps around the calendar implying periodic review in motion. Three month-boxes on the calendar are highlighted in Accent Blue showing the reauth cycle. Four small review-trigger hash marks in Accent Blue run along the calendar's bottom edge. Below the calendar, two-tone centered headline: "Reauthorization Protocols" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Specialty Lever Nobody Discusses" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
+
+---
 
 ---
 

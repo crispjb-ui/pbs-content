@@ -139,7 +139,7 @@ Have you audited your PBM's clinical program savings? Leave a comment below.
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large flat-design icon pair in white (250-300px combined): a stethoscope overlapping with a calculator, representing clinical program measurement. A light blue (#A7E0FA) accent appears on the calculator's display screen. Simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Clinical Program ROI" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Measuring What Is Claimed." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design scorecard icon in white, roughly 400px wide, with "CLINICAL ROI" rendered in deep teal-blue (#015880) bold sans-serif text across the top header and six program rows labeled "PA / STEP / QL / DUR / MTM / SPEC" in deep teal-blue. Each row has two columns: a "REPORTED" column with large bar marks and a "VERIFIED" column with smaller bar marks; the gap between them is highlighted in Accent Blue (#A7E0FA). A magnifying glass in Accent Blue hovers over the verification column. Six small tick marks in Accent Blue run vertically down the right margin, one per program. Below the scorecard, two-tone centered headline: "Clinical Program ROI" in white bold sans-serif (80-96pt), with "Reported vs. Verified" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -184,6 +184,25 @@ The strongest step therapy protocols have clear clinical criteria, straightforwa
 ---
 
 *This is a Field Note. Questions? team@rxbs.org.*
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized staircase icon in deep teal-blue (#015880) outline, roughly 400px wide, with "STEP THERAPY" rendered in deep teal-blue bold sans-serif text above it. The staircase has three ascending steps labeled "STEP 1," "STEP 2," "STEP 3" in deep teal-blue. A small patient figure silhouette in Accent Blue (#A7E0FA) stands on STEP 2 mid-stride with a short motion arc trailing behind, implying clinical progression. STEP 2 is highlighted in Accent Blue. Three small pill icons in Accent Blue sit along the staircase base, one per step. Below the staircase, two-tone centered headline: "Step Therapy Protocols" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Where They Help and Harm" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
+
+---
 
 ---
 

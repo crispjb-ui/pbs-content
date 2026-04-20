@@ -130,7 +130,7 @@ Have you evaluated site-of-care for your plan's infusion therapies? If you have 
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large flat-design icon row in white (250-300px total): a hospital building, a physician office, an infusion chair, and a house icon, each separated by small arrow icons, representing the site-of-care cost ladder from highest-cost to lowest-cost setting. Simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Site-of-Care Optimization" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "The Cost Lever Most Plans Ignore." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design site-ladder icon in white, roughly 500px wide: four setting icons descend from top to bottom representing a cost ladder — hospital building, physician office, ambulatory infusion center, and house — connected by downward arrows. Each setting has a dollar-sign indicator next to it ($$$$, $$$, $$, $). The bottom "house" setting is rendered highlighted in Accent Blue (#A7E0FA) with a ring accent as the lowest-cost option. A downward gradient arrow in Accent Blue runs alongside the ladder implying descending cost. Four small setting hash marks in Accent Blue sit along the ladder baseline. Below the ladder, two-tone centered headline: "Site-of-Care" in white bold sans-serif (80-96pt), with "The Cost Lever Most Plans Miss" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -197,6 +197,25 @@ Before implementing either program, work with your broker and PBM to model the f
 **SEO Title:** White Bagging vs. Brown Bagging: Practical Differences | Benefit Blind Spots
 **SEO URL Slug:** white-bagging-vs-brown-bagging
 **Tags:** white bagging, brown bagging, site of care, specialty pharmacy, cost containment
+
+---
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized infusion-bag icons in deep teal-blue (#015880) outline, side by side, each roughly 180px tall, labeled "WHITE BAG" and "BROWN BAG" in deep teal-blue bold sans-serif text across their fronts. A directional arrow in Accent Blue (#A7E0FA) runs between the two bags, tilted slightly toward WHITE BAG to imply the preferred path. The WHITE BAG icon's outline is highlighted in Accent Blue as the active comparison. Four small cost-differential hash marks in Accent Blue (#A7E0FA) sit in a descending row below the bags. Below the bags, two-tone centered headline: "White Bag or Brown Bag" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Practical Differences" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
 
 ---
 

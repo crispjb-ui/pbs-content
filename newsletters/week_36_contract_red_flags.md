@@ -132,7 +132,7 @@ Pull your contract. Read each of these ten provisions (or note where they are ab
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large flat-design contract document icon in white with a light blue (#A7E0FA) magnifying glass overlaid on one corner (250-300px combined), representing provision-by-provision contract review. Three small red-flag pennants appear along the document's edge marking weak provisions. Simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Contract Language That Costs You" in bold (64-80pt equivalent, sized to fit). Below that, a smaller line in light blue (#A7E0FA) reads "Provision by Provision." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), muted red (#C0392B) for flag accents only, white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design two-column comparison icon in white, roughly 500px wide, with "WEAK" labeled on the left column and "STRONG" labeled on the right column in deep teal-blue (#015880) bold sans-serif text. Ten provision rows line up across both columns. The right STRONG column has ten small checkmark icons in Accent Blue (#A7E0FA), one per row. The left WEAK column has ten small X-mark icons in a muted gray. A directional arrow in Accent Blue runs horizontally from WEAK to STRONG implying the transformation. Ten small hash-mark rows in Accent Blue sit at the baseline counting the provisions. Below the comparison, two-tone centered headline: "Contract Language" in white bold sans-serif (80-96pt), with "Weak to Strong" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -175,6 +175,25 @@ Your broker should review these provisions at every renewal. The data clause is 
 ---
 
 *Field Note. Questions? team@rxbs.org.*
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized data-file icon in deep teal-blue (#015880) outline, roughly 300px tall, with "DATA" rendered in deep teal-blue bold sans-serif text across the file's label. A bidirectional arrow in Accent Blue (#A7E0FA) runs horizontally across the icon representing portability, rendered in mid-motion with a short motion arc. A small exit-door icon in Accent Blue sits to the right of the data file implying departure with data in hand. The data file outline and the exit arrow are both highlighted in Accent Blue. Thirty small transfer-tick hash marks in Accent Blue run along the arrow's length representing the 30-day transfer window. Below the icons, two-tone centered headline: "Data Ownership" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Exit-Options Clause" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
+
+---
 
 ---
 

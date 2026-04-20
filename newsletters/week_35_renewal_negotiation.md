@@ -145,7 +145,7 @@ The employers who do this negotiate measurably different outcomes. Every time.
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design handshake icon next to a stylized contract document with a pen, all in deep teal-blue (#015880) (250-300px combined), representing the renewal negotiation playbook. A light blue (#A7E0FA) highlight appears on a signature line on the contract. Simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Renewal Negotiation Playbook" in bold (72-88pt equivalent, sized to fit). Below that, a smaller line in gray (#4D4D4D) reads "Where Your Power Lives." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design contract document icon in deep teal-blue (#015880) outline, roughly 400px tall, with "RENEWAL" rendered in deep teal-blue bold sans-serif text across the top header and "12 PROVISIONS" in Accent Blue (#A7E0FA) below it. A red-pen in Accent Blue (#A7E0FA) is rendered in mid-motion marking redlines down the document's left margin, with three redline strikethrough marks already visible. The right margin shows three provisions highlighted in Accent Blue with small dollar-sign indicators next to each representing financial impact. Twelve small hash-mark ticks in Accent Blue run vertically down the right edge, one per provision. Below the document, two-tone centered headline: "The Renewal Playbook" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "Twelve Provisions That Decide" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -192,6 +192,25 @@ Your broker understands this dynamic. The best advisory teams negotiate terminat
 ---
 
 *Field Note. Questions? team@rxbs.org.*
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized door icon in deep teal-blue (#015880) outline, roughly 300px tall, with "TERMINATION" rendered in deep teal-blue bold sans-serif text across the door face and "90 DAYS" in Accent Blue (#A7E0FA) on a small plaque above. The door is rendered swinging outward with three short motion arcs in Accent Blue implying exit leverage in motion. The door's outline and the 90 DAYS plaque are both highlighted in Accent Blue. A small key icon in Accent Blue hovers near the doorknob. Six small countdown hash marks in Accent Blue sit along the door's threshold. Below the door, two-tone centered headline: "The Termination Clause" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Your Most Powerful Tool" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
+
+---
 
 ---
 

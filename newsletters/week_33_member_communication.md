@@ -147,7 +147,7 @@ Have you implemented a pharmacy change where the communication made or broke the
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design icon pair in deep teal-blue (#015880) (250-300px combined): a speech bubble overlapping with an envelope icon, representing member communication. The speech bubble has a light blue (#A7E0FA) highlight fill. Simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Communicating Pharmacy Changes" in bold (72-88pt equivalent, sized to fit). Below that, a smaller line in gray (#4D4D4D) reads "When Strategy Needs Messaging." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design envelope icon in deep teal-blue (#015880), roughly 400px wide, with "MEMBER NOTICE" rendered in deep teal-blue bold sans-serif text across the envelope face. The envelope flap is rendered opening upward with three short motion lines in Accent Blue (#A7E0FA) implying the message being delivered. A speech bubble in Accent Blue emerges from the envelope containing two contrasting phrases "WHAT YOU SAID" and "WHAT THEY HEARD" stacked vertically. The "WHAT THEY HEARD" line is rendered in a different tone (gray) beneath the Accent Blue primary line. Five small delivery-timing hash marks in Accent Blue sit in a horizontal row at the envelope's base implying the 30-45-60 day timeline. Below the envelope, two-tone centered headline: "Communicating Changes" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "When Strategy Needs Messaging" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -187,6 +187,25 @@ We see this pattern repeatedly, and it is entirely preventable.
 ---
 
 *Field Note. Questions? team@rxbs.org.*
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized icons in deep teal-blue (#015880) outline: a physician figure on the left and an envelope on the right, connected by a directional arrow in Accent Blue (#A7E0FA) running from the physician to the envelope. The physician icon is labeled "PROVIDER" and the envelope is labeled "MEMBER LETTER" in deep teal-blue bold sans-serif text. The arrow is rendered in mid-motion with a short motion arc, implying the notification step most plans skip. The physician icon's outline is highlighted in Accent Blue as the focal point. Four small timing hash marks in Accent Blue sit below the arrow representing the 60-day prescriber lead time. Below the icons, two-tone centered headline: "Provider Communication" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Step Most Plans Skip" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
+
+---
 
 ---
 

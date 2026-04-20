@@ -161,7 +161,7 @@ Have you evaluated PBM proposals using a structured scoring rubric? If you have 
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design clipboard-with-checklist icon in deep teal-blue (#015880) next to a magnifying glass icon (250-300px combined), representing the RFP question bank. The magnifying glass has a light blue (#A7E0FA) lens highlight. Simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "The PBM RFP" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "What to Ask, What Answers Mean." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design RFP document icon in deep teal-blue (#015880) outline, roughly 400px tall, with "RFP" rendered in deep teal-blue bold sans-serif text across the document's top header and "30 QUESTIONS" in Accent Blue (#A7E0FA) below it. A pen in Accent Blue hovers over the document mid-motion scoring responses, with one checkmark in Accent Blue already placed on the first row. The scoring column on the right edge is highlighted in Accent Blue. Thirty small numbered hash marks in Accent Blue (#A7E0FA) run vertically down the left margin representing the thirty questions. Below the document, two-tone centered headline: "The PBM RFP" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "What Answers Actually Mean" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -202,6 +202,25 @@ The PBMs know their methodology differences make direct comparison difficult. Th
 ---
 
 *This is a Field Note. Questions? team@rxbs.org.*
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are three stylized pricing-proposal document icons in deep teal-blue (#015880) outline, stacked in a fanned-out arrangement, each roughly 200px tall, labeled "PBM A," "PBM B," "PBM C" in deep teal-blue bold sans-serif text across their tops. Above the documents, a horizontal equivalence bar in Accent Blue (#A7E0FA) with "NORMALIZE" rendered in Accent Blue bold sans-serif text in its center. Three downward arrows in Accent Blue connect the normalize bar to each document, implying alignment in progress. Three numbered price-tag hash marks in Accent Blue sit at the base of each document. Below the documents, two-tone centered headline: "Normalizing PBM Proposals" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Apples to Apples" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
+
+---
 
 ---
 

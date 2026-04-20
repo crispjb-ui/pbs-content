@@ -145,7 +145,7 @@ Have you compared your rebate provisions to strong language benchmarks? If you h
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design money-flow diagram in deep teal-blue (#015880) (250-300px): three stacked dollar-sign icons connected by downward arrows representing the manufacturer-to-PBM-to-plan rebate chain, with a light blue (#A7E0FA) highlight on the middle dollar sign indicating where margin retention lives. Simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Rebate Economics" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "What the Report Does Not Show." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design money-flow pipeline icon in deep teal-blue (#015880), roughly 500px wide: three stacked dollar-sign containers labeled "MANUFACTURER," "PBM," "PLAN" in deep teal-blue bold sans-serif text inside each. Between them, two downward arrows showing flow direction; the middle PBM container is rendered with a secondary side-pipe in Accent Blue (#A7E0FA) diverting some flow outward, labeled "RETAINED" in Accent Blue. A small "LEAKAGE" annotation in Accent Blue sits next to the side-pipe with a tick mark indicator. Eight small flow-rate tick marks in Accent Blue (#A7E0FA) sit along the main pipeline length. Below the pipeline, two-tone centered headline: "Rebate Economics" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "What the Report Hides" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -214,6 +214,25 @@ Your contract's audit provisions determine how deep you can dig. If your audit r
 **SEO URL Slug:** rebate-report-red-flags-margin-retention
 **Meta Description:** Three patterns in your PBM rebate report that suggest margin retention: declining per-claim yield, maximum-timeline payments, and aggregated specialty reporting.
 **Tags:** rebate reporting, PBM transparency, margin retention, audit, self-funded employers
+
+---
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized rebate-report document in deep teal-blue (#015880) outline, roughly 300px tall, with "REBATE REPORT" rendered in deep teal-blue bold sans-serif text across the top banner. Three red-flag pennants in Accent Blue (#A7E0FA) emerge from the right edge of the document, each pointing at a specific report row. The three flagged rows are highlighted in Accent Blue (#A7E0FA) outline. A magnifying glass in Accent Blue hovers over the middle flagged row. Three numbered dots (1, 2, 3) in Accent Blue sit along the document's left margin. Below the document, two-tone centered headline: "Three Rebate Report" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Red Flags" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
 
 ---
 

@@ -209,7 +209,7 @@ We have been building toward this for 13 weeks. The preparation is the strategy.
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design checklist/scorecard icon with a circular progress indicator around it in deep teal-blue (#015880) (250-300px combined). The progress indicator is about three-quarters filled, rendered with light blue (#A7E0FA) accent. Simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Renewal Readiness" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "The Negotiating Position Assessment." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design scorecard icon in deep teal-blue (#015880) outline, roughly 400px wide, with "READINESS" rendered in deep teal-blue bold sans-serif text across the top header and "75" in Accent Blue (#A7E0FA) displayed prominently inside a circular score-badge, with "/75" in smaller text next to it. A circular progress ring in Accent Blue wraps around the score badge rendered approximately 80 percent filled, implying nearly-ready state. Fifteen small factor hash marks in Accent Blue sit around the perimeter representing the fifteen readiness factors. Five section dividers in Accent Blue split the scorecard into the five assessment categories. Below the scorecard, two-tone centered headline: "Renewal Readiness" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "Fifteen Factors, One Answer" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -268,6 +268,25 @@ Your broker should be in this meeting. Their market knowledge and negotiation ex
 ---
 
 *Field Note. Questions? team@rxbs.org.*
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized conference-table icon in deep teal-blue (#015880) outline, roughly 400px wide, with "FIRST MEETING" rendered in deep teal-blue bold sans-serif text above it. Two opposing figure silhouettes sit across the table, one labeled "PLAN" and one labeled "PBM" in deep teal-blue. A document icon sits centered on the table with a pen in Accent Blue (#A7E0FA) rendered mid-motion placing a mark. The PLAN figure's silhouette is highlighted in Accent Blue as the focal point. Four small agenda-item hash marks in Accent Blue sit along the table's front edge representing the meeting's four priority topics. Below the table, two-tone centered headline: "The First Meeting" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "With Your PBM at Renewal" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
+
+---
 
 ---
 
