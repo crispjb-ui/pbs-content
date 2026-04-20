@@ -653,96 +653,90 @@ Next week: how to run a quarterly pipeline review so the intelligence reaches yo
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the carve-out question. We walk through when separating pharmacy from medical makes sense, when it does not, and the ten-factor scorecard to evaluate the decision for your plan.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-Early in my career, I worked in a setting where pharmacy was managed separately from medical. At the time I didn't think much of it. But when I started reviewing PBM contracts for self-funded employers, I could see the difference it made when pharmacy had its own oversight versus being buried inside a bundled arrangement. The plans that carved out pharmacy almost always had better visibility into what they were actually paying for.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Early in my career I worked in a setting where pharmacy was managed separately from medical. At the time I did not think much of it. When I started reviewing PBM contracts for self-funded employers, the difference became obvious. The plans with separate pharmacy oversight had visibility. The bundled plans had guesses.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The carve-out conversation is evolving. Five years ago, it was primarily about pricing. Today, it is more about data access, clinical program control, and formulary independence. Employers are recognizing that the decision is not just about what they pay for drugs. It is about what they can see, what they can control, and what negotiating power they have at renewal.
+**Afternoon (3-6 PM) — Origin Story #2:**
+The first carve-out evaluation I ever ran, the retention offer from the incumbent PBM came in before the RFP had even closed. New pricing. New transparency provisions. Reporting the employer had been asking for and never been offered. All of it was available the entire time. Nobody had to force the question until we did.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-Ask your PBM about carving out your pharmacy benefit. Watch the reaction. The speed and intensity of the objection will tell you more about the arrangement than any reporting package ever will.
+**Morning (7-8 AM) — Origin Story #1:**
+I sat through a client renewal meeting where the employer asked a direct question: what would our pharmacy pricing look like if we carved out? The room went quiet. The PBM rep pivoted to "integration value" and "administrative simplicity." The actual pricing comparison never happened. That employer renewed bundled without ever seeing what the market would have offered.
 
-**Visual — Pull-Quote Card (1080x1080, Canva):**
-Quote text: "Ask your PBM about carving out your pharmacy benefit. Watch the reaction."
-Design: #015880 background, white Krona One 36-48pt centered. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
-
-**Midday (11 AM-1 PM) — Industry Observation:**
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
 Something I have been observing: PBM retention offers have become substantially more aggressive when employers initiate a carve-out evaluation. The gap between the original contract terms and the retention offer tells you how much room existed in the original pricing. That gap is information, regardless of whether the employer ultimately carves out.
 
-**Afternoon (3-6 PM) — Expertise Insight:**
-A pattern we see when employers evaluate carve-out: the incumbent PBM presents a retention offer that suddenly improves pricing, adds transparency provisions, and includes reporting that was never available before. The question is why the PBM did not offer those terms from the start. The negotiating room existed all along. The employer just never activated it. This is why the sharpest brokers recommend running the evaluation even when they expect the client to stay bundled.
+**Afternoon (3-6 PM) — Origin Story #2:**
+When I decided to leave clinical practice to start Prescription Benefit Solutions, a colleague asked me why. My answer was simple: I had watched too many pharmacy decisions be made by people who did not understand pharmacy. The consulting work exists because clinical expertise is missing from the benefits table.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-We review dozens of PBM contracts every quarter. The contracts where we see the weakest employer protections are consistently the bundled arrangements where pharmacy is part of a larger medical/pharmacy package. The bundling creates complexity that makes it harder to isolate pharmacy-specific terms, pricing, and performance guarantees. Carving out does not automatically fix this, but it does make it visible.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-The carve-out question is one I get asked constantly. And my honest answer is: it depends. But I'll say this. As a pharmacist, I saw what happened when pharmacy decisions were made by people who didn't understand pharmacy. That experience shaped how I think about who should be managing the benefit. Proximity to the clinical reality matters.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Bundling is how PBMs control three things at once: your data, your rebate flow, and your renewal position. Separating pharmacy from medical gives you visibility into all three. That is exactly why the conversation gets uncomfortable.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The carve-out question is one I get asked constantly, and my honest answer is: it depends. But I will say this. As a pharmacist, I saw what happened when pharmacy decisions were made by people who did not understand pharmacy. That experience shaped how I think about who should be managing the benefit. Proximity to the clinical reality matters.
 
-**Visual — Pull-Quote Card (1080x1080, Canva):**
-Quote text: "Bundling is how PBMs control three things at once: your data, your rebate flow, and your renewal position."
-Design: #015880 background, white Krona One 36-48pt centered. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Afternoon (3-6 PM) — Origin Story #2:**
+Working behind a pharmacy counter as a student taught me something most consultants never learn: the member side of a formulary change is not abstract. It is a person standing in front of you asking why their medication is not covered this month. That perspective shapes how I advise plan sponsors on transitions.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: the first 90 days after a pharmacy carve-out. We break down the implementation timeline, the transition gaps we see most often, and the PA transfer problem that affects patients on day one.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-Most employers never evaluated the default. Their pharmacy benefit was bundled with medical when the plan was established, and nobody revisited the structure. Some plans should carve out. Some should not. But accepting the default without analysis is not a strategy.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The first time I ran an audit that produced a six-figure recovery for a client, the clause we enforced had been in the contract the entire three-year term. Nobody had cross-referenced it against the rebate performance data. The money was there. The enforcement was not. That is the audit in a sentence.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The carve-out trend is not uniform across plan sizes. Larger plans with dedicated benefits teams and consultant support tend to benefit more from carving out because they can manage the operational complexity. Smaller plans may find that the administrative burden outweighs the transparency gains. The right answer depends on operational capacity, not just pricing.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker I work with regularly calls me the "second opinion." Her clients want to know whether her recommendations hold up to an independent review. They always do. The value of a second opinion is not catching the broker being wrong. It is giving the employer confidence to act on the work the broker already did.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Lecturing at a pharmacy school last year, a student asked me what I do all day. I told her: I read contracts. She looked disappointed. I said: these are the contracts that decide whether the drugs you are going to prescribe get covered, how much members pay, and whether the plan is spending on clinical care or PBM margin. She stopped looking disappointed.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: the drug pipeline that will reshape your pharmacy spend. The launches coming over the next 18 months are knowable today. The question is whether your plan design, PBM contract, and stop-loss policy are built for what is already in the pipeline.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-Here is the carve-out consideration that gets overlooked: data ownership and portability. When pharmacy is bundled, the PBM controls the claims data within the larger platform. If you carve out, you need your historical claims data to run a competitive procurement. Your current contract may or may not guarantee data access in a usable format. Check before you start the process, not after.
-
-**Afternoon (3-6 PM) — Honest Post:**
-Advising an employer to evaluate a carve-out when their current broker built the bundled arrangement creates uncomfortable conversations. I have been in meetings where the recommendation was clearly the right one for the client, and clearly unwelcome to the people in the room who placed the current deal. I do it anyway. But I will not pretend the tension does not exist. Doing the right analysis sometimes means making the room uncomfortable.
+**Afternoon (3-6 PM) — Origin Story #2 (Honest Post):**
+Advising an employer to evaluate a carve-out when their current broker built the bundled arrangement creates uncomfortable conversations. I have been in meetings where the recommendation was clearly right for the client and clearly unwelcome to the people in the room who placed the current deal. I do it anyway. But I will not pretend the tension does not exist. Doing the right analysis sometimes means making the room uncomfortable.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story:**
-[Use an evergreen origin story Note from a previous week or write one connecting Ginny's clinical pharmacist background to the carve-out theme]
+**Morning (8-9 AM) — Origin Story #1:**
+A client CFO told me last year that pharmacy was "handled." I asked him by whom. He said the broker. I asked what the broker's last quarterly review had produced. He did not know. Three months later we were running the audit that ended with a meaningful refund back to the plan. "Handled" is a word that covers a lot of uncovered ground.
 
-**Midday (12-2 PM) — Provocative One-Liner:**
-The first 90 days after a pharmacy carve-out are where implementation succeeds or fails. Prior authorization transfers, formulary mapping, member communications, specialty pharmacy transitions. The decision to carve out is the easy part. The execution is where plans get exposed.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Here is the carve-out consideration that gets overlooked: data ownership and portability. When pharmacy is bundled, the PBM controls the claims data within the larger platform. If you carve out, you need your historical claims data to run a competitive procurement. Your current contract may or may not guarantee data access in a usable format. Check before you start, not after.
 
-**Afternoon (3-5 PM) — Behind-the-Scenes:**
-Origin story Notes are getting 3 likes in 5 minutes on Substack. That is the best engagement I have ever seen on this platform. The pattern is consistent: when I write about my actual experience as a pharmacist turned consultant, people respond. The tactical content performs well on LinkedIn. The personal stuff is what builds the Substack audience.
+**Afternoon (3-5 PM) — Origin Story #2:**
+I started PBS because I had a thesis: if a pharmacist who had read the contracts sat between the employer and the PBM, the economics would look different. Every engagement since has confirmed it. Not because I am special. Because the pharmacist perspective is absent from every other seat at the table.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-PA transfer is the biggest gap in carve-out transitions. A patient has an active prior authorization with the current PBM. The plan carves out to a new PBM. That PA does not transfer automatically. The patient shows up at the pharmacy, and their medication is denied. The communication did not reach them in time. That is a preventable failure, and it is exactly why the implementation timeline matters as much as the decision itself.
+**Morning (8-9 AM) — Origin Story #1:**
+On my first day working in a clinical pharmacy setting, a patient asked me if the drug she had just picked up was actually the one her doctor prescribed. It was a brand-to-generic switch the pharmacy had made under a substitution law she did not know existed. Most patients have no idea what happens between prescription and pickup. Neither do most plan sponsors.
 
-**Midday (12-2 PM) — Expertise Insight:**
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
 Specialty pharmacy is the carve-out decision within the carve-out decision. Even employers who carve out the general pharmacy benefit often leave specialty with the PBM or the medical carrier. That may be the right call, or it may mean the highest-cost, highest-margin segment stays in the least transparent arrangement. Evaluate specialty separately, regardless of what you do with the broader benefit.
 
-**Afternoon (3-5 PM) — Community Lift:**
-If you write about benefits design, pharmacy management, or employer strategy, drop your Substack below. I'm reading every one this weekend. The best writing in this space isn't coming from the big publications. It's coming from people doing the work.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client CEO asked me once why I write so much instead of just selling more contracts. I said: because the employers who do not know what to ask for cannot be helped by anyone. The writing is not the marketing. The writing is the work that makes the work possible.
 
 ## Bonus Notes (Evergreen)
 
