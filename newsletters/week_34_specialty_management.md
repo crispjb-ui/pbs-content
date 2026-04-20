@@ -395,6 +395,8 @@ Next week: the renewal negotiation playbook.
 
 # PART 4: SUBSTACK NOTES (Daily Schedule)
 
+> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+
 ## Monday
 **Morning:** New on Benefit Blind Spots: specialty drug management. For most of our clients, specialty is now the majority of pharmacy cost. Eight management levers, three scoring dimensions, one assessment. Read: [LINK]
 **Midday — Origin Story:** I trained as a clinical pharmacist. Specialty drugs represent some of the most remarkable therapeutic advances in medicine. Biologics that put autoimmune conditions into remission. Gene therapies that cure previously untreatable diseases. My job is not to restrict access to these therapies. It is to ensure the plan structure around them serves both the member's clinical needs and the employer's financial sustainability. Those goals are not in conflict. They require the same thing: independent management.

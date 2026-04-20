@@ -134,22 +134,25 @@ LINKEDIN TEASE HOOK (10:00 AM Fri) - Text post teasing next Monday's content
 - **Minimal horizontal rules** (2-3 max, not between every section)
 - **SEO subtitle** on every article
 
-### Notes Strategy (Revised April 11, 2026)
-- **2-3 original Notes per day, 7 days/week** (14-21 Notes/week)
-- **Engagement with other writers' Notes** handled separately by Ginny daily
-- Origin story / personal Notes are the highest-performing format. Include 3-4x per week minimum.
-- Use confrontational hooks from LinkedIn data in Notes (not informational/educational)
+### Notes Strategy (Revised April 20, 2026)
+- **3 Notes per day, 7 days/week** (~21 Notes/week), scheduled a week at a time via Substack's scheduler
+- **Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note**
+- **On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser**
+- Engagement data (April 2026): origin-story/personal Notes are the only format generating reciprocal engagement even from small-follower accounts. Provocative one-liners, industry observations, and expertise-only Notes have averaged <1 like per post. Double the personal-story slot; retire the non-performing formats to a single rotating slot per day.
 - Published under Benefit Blind Spots publication (not personal)
+- Engagement with other writers' Notes handled separately by Ginny daily
 
-| Day | Note 1 (Morning) | Note 2 (Midday) | Note 3 (Afternoon, optional) |
-|-----|------------------|-----------------|------------------------------|
-| Mon | Article launch teaser + link | Origin story or personal | Industry observation |
-| Tue | Provocative one-liner (restackable) | Industry observation | Expertise insight |
-| Wed | Expertise insight | Origin story or personal | Provocative one-liner |
-| Thu | Field Note teaser + link | Provocative one-liner | Industry observation |
-| Fri | Forward look (tease next week) | Origin story or personal | Expertise insight |
-| Sat | Origin story or personal | Expertise insight or provocative one-liner | Question or industry observation |
-| Sun | Origin story or industry observation | Provocative one-liner or question | Expertise insight |
+| Day | Morning (7-8 AM) | Midday (12-1 PM) | Afternoon (4-5 PM) |
+|-----|------------------|------------------|---------------------|
+| Mon | Article launch teaser + link | Origin story / personal | Origin story / personal |
+| Tue | Origin story / personal | Rotating content (expertise insight, provocative one-liner, industry observation, or question) | Origin story / personal |
+| Wed | Roundup teaser + link | Origin story / personal | Origin story / personal |
+| Thu | Field Note teaser + link | Origin story / personal | Origin story / personal |
+| Fri | Origin story / personal | Rotating content (forward-look or expertise insight) | Origin story / personal |
+| Sat | Origin story / personal | Rotating content | Origin story / personal |
+| Sun | Origin story / personal | Rotating content | Origin story / personal |
+
+**Weekly mix:** 14 origin-story/personal Notes + 3 launch teasers + 4 rotating content Notes = 21 Notes/week.
 
 ### Subscriber Value-Add Content
 - **Monthly Q&A Thread:** Last Thursday of each month, subscriber-only

@@ -442,6 +442,8 @@ Next week: the PBM RFP, and 30 questions with answer scoring that reveal what re
 
 # PART 4: SUBSTACK NOTES (Daily Schedule)
 
+> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+
 ## Monday
 **Morning:** New on Benefit Blind Spots: site-of-care optimization. One policy change, one drug category, savings exceeding the annual PBM management fee. This week includes a decision tree by therapeutic category. Read: [LINK]
 
