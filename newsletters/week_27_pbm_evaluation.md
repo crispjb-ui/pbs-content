@@ -577,78 +577,86 @@ Next week: pharmacy network design, and the five-channel cost model that reveals
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots: when to stay and when to switch PBMs. Two clients, same PBM, same week. I told one to stay. I told the other to go to market. Both were right. This week includes a 100-point evaluation scorecard that removes the guesswork.
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story:**
-Early in my consulting career, I advised a client to switch PBMs based primarily on their frustration level. The transition was disruptive, the new PBM had different problems, and the net outcome was marginal improvement at significant operational cost. That experience taught me that frustration is not data. I have not made that mistake since. Now I score every relationship before advising on the decision.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Early in my consulting career I advised a client to switch PBMs based primarily on their frustration level. The transition was disruptive, the new PBM had different problems, and the net outcome was marginal improvement at significant operational cost. That experience taught me frustration is not data. I have not made that mistake since. Now I score every relationship before advising on the decision.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The PBM market has consolidated significantly, which means fewer options but more competitive pricing for employers who go to market with data. The employers who benefit most from the competitive dynamic are the ones who know their current position quantitatively. You cannot negotiate better terms if you do not know what "better" looks like for your plan.
+**Afternoon (3-6 PM) — Origin Story #2:**
+Two clients called me within the same week, both unhappy with their PBM. I told one to stay and renegotiate. I told the other to go to market. Both made the right decision. The difference was not frustration level. It was data. The first client had competitive pricing but a reporting gap. The second had pricing drift across three renewal cycles. Same emotion, different facts. That contrast built the scorecard.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-Switching PBMs based on frustration is like changing doctors because the waiting room was uncomfortable. The disruption is real but the diagnosis might be wrong. Score the relationship before you act on it.
+**Morning (7-8 AM) — Origin Story #1:**
+I watched a plan sponsor nearly switch PBMs because her account manager had turned over three times in two years. When we ran the scorecard, the contract economics were strong. The service disruption was real, but renegotiating for stability clauses was the right move, not a transition. She stayed. The contract now includes team-stability language. That language came out of a specific frustration getting translated into a specific contractual protection.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something I have noticed across the approximately 100 contracts we review annually: the employers with the strongest PBM relationships are not the ones with the best PBMs. They are the ones who evaluate continuously. They benchmark. They score. They know their position. That awareness changes the dynamic even when the score says "stay."
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+Across the approximately 100 contracts we review annually: the employers with the strongest PBM relationships are not the ones with the best PBMs. They are the ones who evaluate continuously. They benchmark. They score. They know their position. That awareness changes the dynamic even when the score says "stay."
 
-**Afternoon (3-6 PM) — Expertise Insight:**
-Ten factors determine whether your PBM relationship is worth keeping. But two carry the most weight: pricing competitiveness and rebate transparency. Together they account for 30 of the 100 points on the scorecard. If both score below 7, the structural economics of the relationship are working against your plan regardless of how good the service or clinical programs are.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker called me once because a client's PBM scorecard had come back at 42 and she was worried about delivering the message. I asked her to lead with the data, not the conclusion. The data was clean. The conclusion followed. The client did not shoot the messenger. The client scheduled the RFP. Bad news lands better when it shows its math.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-The most common scoring surprise I see: employers who rate their PBM's service highly but score below 50 overall because pricing, transparency, and contract flexibility are all weak. Good service with bad economics is an expensive comfort. The relationship feels good. The data says otherwise.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
 I tell clients: do not confuse a good account team with a good PBM relationship. Account teams change. Pricing, transparency, and contract terms persist. I have watched employers stay with a PBM for years because they liked their account rep, while the contract economics eroded steadily. When the rep left, so did the only reason they stayed. Score the relationship, not the person.
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Your PBM's renewal proposal is not the starting point for negotiation. Your scorecard is the starting point. The proposal is their opening move. Your data is yours.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits committee asked me to present my PBM scoring methodology to them in 20 minutes. I did. One of the committee members asked at the end why PBMs did not use similar scoring on their own performance. I laughed and said: they do. They just score different things. Their scorecard has "margin preserved" near the top. Yours should have "net cost to plan" near the top. Different scorecards, different decisions.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: what a PBM transition actually looks like. Six months minimum, three phases, and the pitfalls most employers do not see coming. Formulary mapping gaps. Data migration delays. Stop-loss coordination. Before you decide to switch, understand the real timeline.
 
 Read the field note: [LINK]
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-Below 50: go to market. 50-70: renegotiate. Above 70: optimize. Three outcomes, one scorecard. The decision should be data, not a conference room debate about feelings.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+My first PBM transition as a consultant, I underestimated the implementation timeline. The transition took eight months instead of six. Members were confused. The stop-loss carrier was not looped in early enough. The lesson was specific: the decision to switch is not the hard part. The execution is. I now build a twelve-month transition plan every time and shave weeks where the client is ahead. Never the other direction.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-PBM transitions are disruptive by design. New cards, new formularies, new claims systems, new PA processes. That disruption is real and should factor into the decision. But it is a one-time cost. Below-market pricing is a recurring cost. The comparison should be: one-time disruption cost vs. multi-year overpayment. When we model this for clients, the math usually favors switching when the score is below 50.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor told me after a successful PBM transition that the hardest part had been the internal communication, not the external vendor relationship. Her HR team had questions. Her finance team had questions. Her members had questions. All answered, all in time. But the internal workload surprised her. I have added "internal communication plan" to every transition engagement since. External vendor management is not the whole transition.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+The PBM evaluation is uncomfortable because the score might say something the employer does not want to hear. Staying is easier. Switching is disruptive. Inertia is the default. I understand that. But I have also watched employers stay with underperforming PBMs for years because the disruption felt worse than the cost. The cost is always worse. It just arrives quietly.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: pharmacy network design. Same drug. Retail: one price. Mail order: different price. Specialty: another price entirely. The dispensing channel can change the cost more than the drug itself. A five-channel cost model that reveals where the money goes.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-The stay-or-switch decision has a timing dimension most employers miss. Going to market in July for a January 1 transition gives you a full 6-month runway. Going to market in September compresses every phase. The best brokers are raising this question now, in the summer, when there is still time to execute a well-managed transition if the data supports it.
-
-**Afternoon (3-6 PM) — Honest Post:**
-The PBM evaluation is uncomfortable because the score might say something the employer does not want to hear. Staying is easier. Switching is disruptive. Inertia is the default. I understand that. But I have also watched employers stay with underperforming PBMs for years because the disruption felt worse than the cost. The cost is always worse. It just arrives quietly.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client asked me to attend the final meeting with her current PBM before she formally transitioned to a new one. I went. The outgoing PBM's final offer was better than anything they had offered during the prior three years combined. That meeting was a lesson in what "competitive pricing" actually means: whatever the PBM is willing to give up rather than lose the business. The leverage existed the whole time.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story:**
+**Morning (8-9 AM) — Origin Story #1:**
 One of the best PBM evaluations I have been part of ended with the employer staying. They scored a 74. The scorecard validated the relationship. But it also identified three factors (reporting, formulary transparency, and biosimilar commitments) that scored below 5. Those became the renewal negotiation agenda. The PBM improved all three because the employer had the data to show where the gaps were. Scoring is not just for the switch decision. It is for the stay decision too.
 
-**Midday (12-2 PM) — Question:**
-For benefits professionals: how do you currently evaluate whether a client should stay with their PBM or go to market? Gut feel? Data? A formal framework? Curious whether the industry has a standard approach or whether most evaluations are informal.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Ten factors determine whether your PBM relationship is worth keeping. Two carry the most weight: pricing competitiveness and rebate transparency. Together they account for 30 of the 100 points on the scorecard. If both score below 7, the structural economics of the relationship are working against your plan regardless of how good the service or clinical programs are.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A CFO asked me once why the scorecard weighted pricing and rebate transparency so heavily. I showed him the math: those two factors drive the majority of plan cost variance across clients. Service quality matters. Clinical programs matter. But they move the number less than pricing and rebate. The scorecard weights reflect what actually moves outcomes. Opinions do not drive the weights. Data does.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-The PBM market is competitive. That competition only benefits employers who know their current position well enough to demand better. A score is leverage. Not knowing your score is a concession.
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy student once asked me if I still liked pharmacy after all the PBM contracts I have read. The honest answer was yes, more than ever. Every contract review makes me appreciate what good clinical practice looks like by contrast. The economics exist to support the practice, or they exist at the expense of it. I pick sides by being useful to the plan sponsors who pay for the practice. That is still pharmacy, even when the language is contractual.
 
-**Midday (12-2 PM) — Community Lift:**
-If you write about PBM strategy, employer benefits evaluation, or vendor management, drop your Substack below. Reading this weekend.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The stay-or-switch decision has a timing dimension most employers miss. Going to market in July for a January 1 transition gives you a full 6-month runway. Going to market in September compresses every phase. The best brokers are raising this question in the summer, when there is still time to execute a well-managed transition if the data supports it.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A broker told me she was going to share my scorecard with a client without crediting me. I told her: go ahead. The scorecard is better when it travels. What matters is that the plan sponsor uses it. If the work lands on desks I never see, I consider that a success, not a theft. Content does its best work when it is copyable. Attribution is optional. Adoption is everything.
 
 ## Engagement Reply Templates
 

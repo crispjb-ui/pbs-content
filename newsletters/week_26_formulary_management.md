@@ -611,72 +611,86 @@ Next week: when to stay, when to switch, and a 100-point scorecard that removes 
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots: who really controls your drug list. We asked a client how their "customized" formulary differed from the PBM's standard. It did not. This week's article includes a seven-question formulary decision audit with scoring. The results are revealing.
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story:**
-As a pharmacist, I was trained to evaluate drugs based on clinical evidence. Efficacy. Safety. Therapeutic equivalence. When I started reviewing PBM contracts, I discovered that formulary decisions involve a second set of criteria entirely: rebate economics. The clinical evaluation says "either drug works." The rebate contract says "this one pays us more." Both are real inputs. The question is which one your plan can see.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+As a pharmacist I was trained to evaluate drugs based on clinical evidence. Efficacy. Safety. Therapeutic equivalence. When I started reviewing PBM contracts, I discovered that formulary decisions involve a second set of criteria entirely: rebate economics. The clinical evaluation says "either drug works." The rebate contract says "this one pays us more." Both are real inputs. The question is which one your plan can see.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The formulary is the most consequential financial document in your pharmacy benefit, and most employers have never independently evaluated it. It determines which drugs members access, which manufacturers get preferred status, and what the plan pays net across every therapeutic category. The decisions behind that document are made by the PBM's committee, influenced by rebate economics, and rarely reviewed by the employer paying the bills.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client asked me early in our engagement whether her "customized formulary" really was customized. I pulled the PBM's standard book of business formulary and laid it next to hers. They were identical. She went pale. The "customization" label had been on her contract for years. That day she started asking every PBM claim with more skepticism. Good instinct built that way.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-"Customized formulary." Ask your PBM what that means specifically. In our experience, it often means the employer's name is on a formulary that is otherwise identical to what every other client receives.
+**Morning (7-8 AM) — Origin Story #1:**
+I asked a PBM account manager once to explain how "customized" my client's formulary actually was. He said it was "tailored to the employer's needs." I asked which needs had been considered during the last P&T review. He could not answer. The word "customized" was doing a lot of work in that contract. It was not doing any work inside the PBM's operations.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
 The rebate-formulary dynamic is not new. What is changing is employer awareness. More plan sponsors are asking for net cost analyses, requesting P&T committee access, and demanding formulary change notification. The PBMs who embrace that transparency will retain clients. The ones who resist it will lose them.
 
-**Afternoon (3-6 PM) — Expertise Insight:**
-Seven questions determine your formulary independence. The two most revealing: has your PBM ever shown you what your formulary costs compared to alternatives? And can you see how rebates influenced each tier decision? If the answer to both is no, the formulary may be optimized for the PBM's revenue, not your plan's cost.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client called me after her PBM quietly moved a high-utilization drug to a higher tier mid-year. She only found out because a member called HR. I walked her through her contract. There was no notification requirement. The PBM was within its contractual rights. We added the provision at the next renewal. That phone call is one of the reasons I push for formulary change notification language in every contract review.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-The "customization" question is more nuanced than most employers realize. True customization means the employer has evaluated their population's needs, compared net cost across alternatives, and made tier placement decisions based on their own analysis. Very few employers do this. Very few PBMs encourage it, because true customization can disrupt rebate arrangements.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-The first time I asked a PBM for a net cost comparison between their standard formulary and a clinically equivalent alternative, the response took weeks. Not because the data was complex. Because the comparison revealed that the standard formulary was optimized for rebate revenue, not for the employer's net cost. That single data request changed how I evaluate every formulary.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Higher rebates. Higher gross cost. Higher net cost to the plan. All three can be true simultaneously on the same formulary. That is not a contradiction. It is the business model.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The first time I asked a PBM for a net cost comparison between their standard formulary and a clinically equivalent alternative, the response took weeks. Not because the data was complex. Because the comparison revealed the standard formulary was optimized for rebate revenue, not for the employer's net cost. That single data request changed how I evaluate every formulary.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I watched a P&T committee meeting from the observer seat where the clinical argument for a biosimilar took 15 minutes and the rebate argument against it took 45 seconds. The biosimilar did not win that meeting. That balance of airtime told me everything about the decision structure. I have remembered it in every formulary review since.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: three formulary questions your PBM should answer immediately. Not next quarter. Not at renewal. Now. The answers tell you everything about whose interests the formulary serves.
 
 Read the field note: [LINK]
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-Your PBM's P&T committee makes clinical decisions. Your PBM's contracting team makes financial decisions. When they agree, the system works. When they disagree, which team wins? That answer determines what your members pay and what your plan spends.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A plan sponsor told me she felt uncomfortable "interrogating" her PBM about formulary decisions. I reframed it as a prudent question, not an interrogation. Asking a vendor how they make decisions that cost you millions of dollars is not hostile. It is oversight. She changed her language and the PBM adjusted their posture to match. Tone sets the relationship. Questions are still allowed.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-Mid-year formulary changes are one of the least visible ways PBMs affect plan cost. Without a notification requirement in your contract, the PBM can move drugs between tiers, add exclusions, or change coverage criteria without advance notice. The employer discovers the change when a member calls to ask why their copay increased. Your broker can help you add notification requirements at renewal.
+**Afternoon (3-6 PM) — Origin Story #2:**
+An HR director once pushed back when I said formulary decisions were financial as well as clinical. "Our PBM said they are clinical first." I told her: I hope they are. Ask for the rebate data anyway. If clinical really is first, the financials will confirm it. If the financials tell a different story, that is worth knowing. She asked. The answer was illuminating. She changed her approach to renewals immediately.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
-Next week on Benefit Blind Spots: the stay-or-switch decision. When should you go to market for a new PBM, and when should you renegotiate the relationship you have? Two clients. Same PBM. Opposite decisions. Both right. A 100-point scorecard that removes the guesswork.
-
-**Midday (11 AM-1 PM) — Expertise Insight:**
-We review dozens of PBM contracts every quarter. The formulary provisions we see range from strong (employer approval required for any mid-year change, tier-level rebate transparency, annual net cost comparison) to effectively absent (PBM manages formulary "in accordance with standard practices"). The gap between those two positions is where the financial surprise lives.
-
-**Afternoon (3-6 PM) — Honest Post:**
+**Morning (7-8 AM) — Origin Story #1:**
 Formulary management is technical. Rebate economics are opaque. P&T committees are invisible. I understand why most employers delegate this entirely to the PBM and never look back. But the formulary is where the largest recurring cost decisions get made for your plan. Delegating is fine. Delegating without oversight is expensive. That distinction matters.
 
-## Saturday (July 4)
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week on Benefit Blind Spots: the stay-or-switch decision. When should you go to market for a new PBM, and when should you renegotiate the relationship you have? Two clients. Same PBM. Opposite decisions. Both right. A 100-point scorecard that removes the guesswork.
 
-**Morning (9-10 AM) — Light Holiday Post:**
-Happy Fourth. Taking a minute between fireworks to think about something: the pharmacy benefit industry was built on complexity. The employers who cut through it are the ones asking simple questions. "What does this cost net?" "Who made this decision?" "Can I see the data?" Simple questions. Revealing answers. Enjoy the holiday.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I had a CFO push me for the "bottom line" on formulary oversight. His words: "do not make me a pharmacist." My response: I will not. I will give you three numbers you ask your PBM for every quarter and a decision rule for when to escalate. That conversation produced a one-page governance document that is now boilerplate in my practice. CFOs do not need more pharmacy. They need clean decision rules.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy school professor told me that the most useful pharmacist in any system is the one who can translate. Translate clinical evidence for finance. Translate finance back to the prescribers. Translate patient needs into contract language. I did not fully understand her at the time. Years later, it is the core of what I do. The formulary work is a translation problem before it is a pharmacy problem.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+We review dozens of PBM contracts every quarter. The formulary provisions we see range from strong (employer approval required for any mid-year change, tier-level rebate transparency, annual net cost comparison) to effectively absent (PBM manages formulary "in accordance with standard practices"). The gap between those two positions is where the financial surprise lives.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+Two years ago I published a piece arguing that "customized" formulary language was mostly marketing. The feedback was sharp. Some from PBM professionals who said I was oversimplifying. Some from plan sponsors who said I had named something they had wondered about. The sharper pushback was instructive. It taught me the right words for the next iteration. Public writing is how I learn where my thinking needs work.
 
 ## Sunday
 
-**Morning (9-10 AM) — Community Lift:**
-If you write about pharmacy economics, formulary policy, or PBM transparency, drop your Substack below. Reading this weekend. The practical voices in this space are producing better analysis than most industry publications.
+**Morning (8-9 AM) — Origin Story #1:**
+A client thanked me after a formulary audit by saying, "you put the drugs back in pharmacy." She meant that the formulary conversation had been dominated by finance language for so long that the clinical rationale had gotten lost. I took that as a compliment. Good pharmacy work in a finance-heavy room does not erase the finance. It restores the clinical voice to the conversation.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Seven questions determine your formulary independence. The two most revealing: has your PBM ever shown you what your formulary costs compared to alternatives? And can you see how rebates influenced each tier decision? If the answer to both is no, the formulary may be optimized for the PBM's revenue, not your plan's cost.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+I had a young pharmacist ask me whether she should stay in retail or move into pharmacy consulting. My honest answer was that both paths matter. Retail keeps you close to members. Consulting gives you leverage on the system. I stayed in retail for years because I needed that foundation. When I moved to consulting, I brought the counter with me. The counter still shows up in my work.
 
 ## Engagement Reply Templates
 
