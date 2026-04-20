@@ -146,7 +146,7 @@ Have you pulled your compounding claims data recently? If you found something un
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design mortar and pestle icon in deep teal-blue (#015880) with a small warning/caution triangle overlay in light blue (#A7E0FA) (250-300px combined), simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "The Compounding Pharmacy Problem" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "Managing a High-Risk Category." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design mortar-and-pestle icon in deep teal-blue (#015880), roughly 400px wide, with "COMPOUND" rendered in deep teal-blue bold sans-serif text inside the mortar bowl. The pestle is rendered in upward, turning motion with three short motion arcs in Accent Blue (#A7E0FA) around its top implying mixing action. A caution triangle overlay in Accent Blue (#A7E0FA) outline sits on the upper-right rim of the mortar, with its outline highlighted as the primary accent. A small red-flag pennant in deep teal-blue (#015880) with an Accent Blue (#A7E0FA) shaft emerges from the mortar bowl. Six small ingredient-dot marks in Accent Blue (#A7E0FA) spiral inside the mortar bowl. Below the mortar, two-tone centered headline: "The Compounding Problem" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "A High-Risk Category" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -230,14 +230,14 @@ Not every pattern indicates fraud. But each pattern indicates that the claims de
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Three warning triangle icons arranged horizontally in deep teal-blue (#015880) outline style, each with an exclamation mark. Below them in deep teal-blue (#015880) sans-serif text (36-48pt): "The Patterns in Your Claims Data." Faint data chart/graph lines in light gray (#E0E0E0) serve as background texture suggesting claims data visualization. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are three stacked claim-form card icons in deep teal-blue (#015880) outline, each roughly 250px wide, labeled "PATTERN 1," "PATTERN 2," "PATTERN 3" in deep teal-blue bold sans-serif text across their tops, offset so all three are partially visible. A magnifying glass icon in Accent Blue (#A7E0FA) hovers over the top card with its lens centered on the "PATTERN 1" label; the lens outline and the PATTERN 1 label are both highlighted in Accent Blue (#A7E0FA). Three small red-flag pennants in Accent Blue (#A7E0FA) emerge from the right edges of each card, one per claim. Below the stacked cards, two-tone centered headline: "Three Compounding Patterns" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "What the Claims Reveal" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add "Field Note" label - top right
-5. Add PBS logo (dark version) - bottom right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

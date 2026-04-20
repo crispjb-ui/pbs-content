@@ -141,13 +141,13 @@ Have you run a net cost comparison on your plan's biologics? If you have started
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design icon showing two pill capsules side by side (one slightly larger representing the brand, one slightly smaller representing the biosimilar) with a dollar sign between them (250-300px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "The Biosimilar Opportunity" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "What Your Formulary Is Not Showing You." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered are two flat-design capsule icons in white, side by side, each roughly 300px wide, labeled "BRAND" and "BIOSIMILAR" in deep teal-blue (#015880) bold sans-serif text across their bodies. Between the capsules, a large equal sign (=) in Accent Blue (#A7E0FA). The right BIOSIMILAR capsule is rendered nudging forward with three short motion lines in Accent Blue (#A7E0FA) trailing behind it, implying market entry. The equal sign and the biosimilar capsule outline are both highlighted in Accent Blue (#A7E0FA). Beneath the capsules, five ascending price-comparison bar marks in Accent Blue (#A7E0FA) rise from left to right, implying adoption rate. Below the visual, two-tone centered headline: "The Biosimilar Opportunity" in white bold sans-serif (80-96pt), with "Your Plan Is Missing" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) top-left
-4. Add PBS logo (white version) bottom-right, 100-120px width
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 
@@ -218,14 +218,14 @@ Work with your broker or consultant to benchmark these provisions against market
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Centered is a stylized contract document icon in deep teal-blue (#015880) outline with a checkmark overlay in light blue (#A7E0FA). Below in deep teal-blue (#015880) sans-serif text (36-48pt): "Three Provisions. Real Accountability." Three small icons below the text represent the provisions: a gauge/meter (dispensing rate), a calendar with arrow (transition timeline), and a bar chart (net cost comparison), all in deep teal-blue (#015880) outline style. Faint grid pattern in light gray (#E0E0E0) as background texture. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a flat-design contract document icon in deep teal-blue (#015880) outline, roughly 300px tall, labeled "3 PROVISIONS" in deep teal-blue bold sans-serif text across the top. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion ticking through three provision lines on the document, with one large checkmark in Accent Blue (#A7E0FA) already placed next to the first provision. The pen tip and the completed checkmark are the primary Accent Blue highlights. Three small numbered bullet dots (1, 2, 3) in Accent Blue (#A7E0FA) sit along the document's left margin, each with a small hash-mark underline. Below the document, two-tone centered headline: "Three Provisions" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Real Accountability" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) top-left
-4. Add "Field Note" label top-right
-5. Add PBS logo (dark version) bottom-right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

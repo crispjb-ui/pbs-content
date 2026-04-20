@@ -122,7 +122,7 @@ Have you quantified the copay card impact on your plan? If you found something u
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design factory/manufacturer building icon with an arrow pointing to a prescription card or copay card icon (250-300px combined), simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Manufacturer Direct Programs" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Who Really Benefits?" No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a flat-design credit-card-style icon in white, roughly 350px wide, with "COPAY CARD" rendered in deep teal-blue (#015880) bold sans-serif text across the card face. The card is rendered in swipe motion, angled slightly with a directional swipe trail in Accent Blue (#A7E0FA) extending behind it. Behind and slightly overlapping the card, a larger plan-document silhouette in white outline represents the receiving plan. A short directional arrow in Accent Blue (#A7E0FA) points from the card's swipe trail into the plan document. Five small cost-flow tick marks in Accent Blue (#A7E0FA) sit evenly spaced along the swipe trail. Below the icons, two-tone centered headline: "Manufacturer Programs" in white bold sans-serif (80-96pt), with "Who Really Benefits" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -213,14 +213,14 @@ The right program fits your plan's economics, your members' clinical needs, and 
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Two column layout concept: left side shows "Accumulator" in deep teal-blue (#015880) text with a shield/block icon in light blue (#A7E0FA), right side shows "Maximizer" in deep teal-blue (#015880) text with a funnel/capture icon in light blue. A "VS" sits between them in slightly larger deep teal-blue (#015880) text. Below both in dark gray (#4D4D4D) sans-serif text (36pt): "Different Mechanics. Different Outcomes." A thin light blue (#A7E0FA) dividing line separates the two columns. Faint dollar sign patterns in light gray (#E0E0E0) as background texture. "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text top right. No photographs. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized card icons in deep teal-blue (#015880) outline, side by side, approximately 250px wide each, one labeled "ACCUMULATOR" and the other labeled "MAXIMIZER" in deep teal-blue bold sans-serif text across their faces. Between the two cards, a decision-arrow in Accent Blue (#A7E0FA) hovers, tilted slightly toward the right card to imply the choice in motion. The right card's outline is rendered in Accent Blue (#A7E0FA) as the active selection. Five small dollar-sign marks ($) in Accent Blue (#A7E0FA) are arrayed evenly along the arrow's path between the cards. Below the cards, two-tone centered headline: "Accumulator or Maximizer" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Structure That Matters" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add "Field Note" label - top right
-5. Add PBS logo (dark version) - bottom right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

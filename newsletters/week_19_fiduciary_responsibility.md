@@ -139,7 +139,7 @@ Have you audited your fiduciary documentation trail for pharmacy benefits? If yo
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design gavel icon next to a document/contract icon in deep teal-blue (#015880) (250-300px combined), simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Fiduciary Responsibility" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "The ERISA Standard for Pharmacy Benefits." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design shield icon in deep teal-blue (#015880) outline, roughly 400px tall, with "FIDUCIARY" rendered in deep teal-blue bold sans-serif text across the center of the shield. A gavel icon in deep teal-blue strikes downward into the top of the shield, with three short motion lines in Accent Blue (#A7E0FA) radiating upward from the gavel head implying impact. A thin impact ring in Accent Blue (#A7E0FA) surrounds the strike point. Inside the shield segments, five small document-page icons in deep teal-blue radiate outward from the center, one per fiduciary documentation category. Below the shield, two-tone centered headline: "Fiduciary Duty" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "What ERISA Requires" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -228,14 +228,14 @@ The documentation you build today is the evidence you will need if your process 
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Centered is a document/file folder icon rendered in deep teal-blue (#015880) outline style with a checkmark in light blue (#A7E0FA). Below in deep teal-blue (#015880) sans-serif text (36-48pt): "What Courts Actually Look For." Subtle legal document lines and a gavel silhouette in light gray (#E0E0E0) serve as background texture elements. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a flat-design filing cabinet icon in deep teal-blue (#015880), roughly 300px tall, labeled "FIDUCIARY FILE" in deep teal-blue bold sans-serif across the top face. The top drawer is rendered sliding outward, implying motion, revealing three numbered folder tabs visible along its front edge: "01," "02," "03" in Accent Blue (#A7E0FA). The open drawer edge itself is highlighted in Accent Blue (#A7E0FA). Six small folder tab hash marks in Accent Blue (#A7E0FA) sit evenly spaced along the interior of the open drawer. Below the cabinet, two-tone centered headline: "The Documentation" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "That Matters in Litigation" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add "Field Note" label - top right
-5. Add PBS logo (dark version) - bottom right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

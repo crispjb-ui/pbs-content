@@ -171,11 +171,11 @@ Have you evaluated carve-out for your plan? If you went through the process and 
 ### Substack Header Image Prompt
 
 **Dimensions:** 2240 x 1200 px
-**Template:** Split Visual
+**Template:** Topic Icon
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Feature two columns separated by a thin vertical line in light blue (#A7E0FA). Left column shows a flat-design bundled package icon in deep teal-blue (#015880) with "Bundled PBM" label below in gray (#4D4D4D). Right column shows the same package icon separated into two distinct pieces in deep teal-blue (#015880) with "Carved Out" label below in gray (#4D4D4D). Spanning the bottom center, bold deep teal-blue (#015880) text reads "The Carve-Out Question." Below that, a smaller line in gray (#4D4D4D) reads "When Separating Pharmacy Makes Sense." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design split gateway icon in deep teal-blue (#015880) outline, roughly 400px wide, with the words "CARVE OUT" rendered in deep teal-blue inside the left opening and "BUNDLED" rendered in gray (#4D4D4D) inside the right opening. The left door is swinging outward, implying decision-in-progress. The opening door outline glows in Accent Blue (#A7E0FA) and a directional arrow in Accent Blue (#A7E0FA) points through the opening. Four small decision-branch lines in Accent Blue (#A7E0FA) radiate outward from the threshold at the base of the gateway. Below the gateway, two-tone centered headline: "Carve Out" in deep teal-blue (#015880) bold sans-serif (80-96pt) on the left, "or Stay Bundled" in Accent Blue (#A7E0FA) bold sans-serif immediately adjacent. Below the headline, smaller gray (#4D4D4D) text reads "A Decision Framework for Self-Funded Plans." No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -266,14 +266,14 @@ The carve-out decision is strategic. The implementation is operational. Both req
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Centered is a large "90" in bold deep teal-blue (#015880) sans-serif typography (140-160pt equivalent). Below it in smaller gray (#4D4D4D) text (36pt): "The Days That Define Your Transition." A light blue (#A7E0FA) horizontal progress bar sits below the text showing approximately 30% complete, suggesting early stages. Faint grid lines in light gray (#E0E0E0) serve as background texture. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text sits in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+Create a clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a large "90" numeral in deep teal-blue (#015880) bold sans-serif (240-280pt equivalent), encircled by a thin circular progress ring. The ring is rendered approximately 30 percent filled, with the filled segment in Accent Blue (#A7E0FA) starting at the 12 o'clock position and sweeping clockwise; the remaining 70 percent of the ring is in light gray (#E0E0E0). Thirty small tick marks in Accent Blue (#A7E0FA), evenly spaced, sit just outside the ring. A small "DAYS" label in Accent Blue (#A7E0FA) bold sans-serif (28-32pt) sits immediately below the numeral inside the ring. Below the ring, two-tone centered headline: "The Days That Define" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Your Transition" in Accent Blue (#A7E0FA) bold sans-serif immediately below it. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text sits in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add "Field Note" label - top right
-5. Add PBS logo (color version) - bottom right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

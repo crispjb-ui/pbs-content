@@ -139,7 +139,7 @@ Have you reviewed the drug pipeline for therapies that could hit your plan in th
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design pipeline or funnel icon with pill shapes entering from the top and a dollar sign emerging at the bottom (250-300px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "The Pipeline That Will Hit Your Plan" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "Preparing for Drug Launches." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design pill capsule icon in white, roughly 400px wide, with "PIPELINE" rendered in deep teal-blue (#015880) bold sans-serif text embedded inside the capsule body. To the right of the capsule, five stacked horizontal dose-icon rectangles ascend in scale from small to large left-to-right, implying launch progression over time; the tallest rightmost dose is rendered in Accent Blue (#A7E0FA) with an upward arrow above it, also in Accent Blue. Along the baseline beneath the dose icons, five small month-marker hash marks in Accent Blue (#A7E0FA). Below the capsule and dose stack, two-tone centered headline: "The Pipeline" in white bold sans-serif (80-96pt), with "Coming to Your Plan" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -237,14 +237,14 @@ GLP-1 management is not a one-time formulary decision. It is an ongoing strategy
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Centered is a stylized pill capsule icon in deep teal-blue (#015880) outline, with "GLP-1" text inside it in deep teal-blue (#015880). Below in deep teal-blue (#015880) sans-serif text (36-48pt): "The Expansion You Need to Prepare For." Three small arrow icons in light blue (#A7E0FA) point outward from the capsule to the words "Cardiovascular," "NASH," and "Sleep Apnea" in smaller gray (#4D4D4D) text, representing indication expansion. Faint molecular structure patterns in light gray (#E0E0E0) serve as background texture. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized pill capsule icon in deep teal-blue (#015880) outline, roughly 300px wide, with "GLP-1" rendered in deep teal-blue bold sans-serif text inside the capsule body. Three arrows radiate outward from the capsule in Accent Blue (#A7E0FA): one to the upper right, one to the lower right, one horizontally right. Each arrow tip points at a small rounded label in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text reading "CARDIO," "KIDNEY," and "NASH" respectively. Three small numbered dots in Accent Blue (#A7E0FA) sit at the arrow origins where they touch the capsule. Below the capsule, two-tone centered headline: "The Expansion" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "You Need to Prepare For" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add "Field Note" label - top right
-5. Add PBS logo (color version) - bottom right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

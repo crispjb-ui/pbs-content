@@ -220,6 +220,32 @@ The LinkedIn newsletter CTA references the specific exclusive tool: "This week's
 - **Body:** Roboto
 - **CTA Headlines:** Italic style
 
+### Substack Image Prompt Recipe (Added April 20, 2026)
+
+Every Substack image prompt (Monday deep dive header, Thursday field note header, Wednesday roundup header) starting Week 17 applies this recipe, which is based on the Week 16 PA field note prompt that produced the strongest image result to date.
+
+**Six required elements:**
+
+1. **Central icon encodes the topic content.** The icon carries a topic-specific label or text inside it (e.g., "PA" inside the clock, "GLP-1" inside the pill capsule). The icon is not a generic symbol, it is a container for content.
+2. **Implied motion or time-passing cue.** A dynamic element that gives the generator a narrative to render. Examples: clock hands pointing to different positions, progress rings partially filled, arrows in directional flow, tilted scales, calendar pages turning.
+3. **Specifically named accent targets.** Name the exact elements that get Accent Blue (#A7E0FA) treatment. Not "with light blue highlights" — state it like "the filled segment of the ring," "three radiating arrows," "the opening door outline."
+4. **Repeating geometric detail.** A rhythmic element that gives image generators texture to render precisely. Examples: tick marks around a circular face, hash marks on a timeline, numbered segments, radiating dotted lines, ascending bar marks.
+5. **Two-tone headline text.** Split the headline across Primary Blue (#015880) and Accent Blue (#A7E0FA) (or Primary Blue and White on Accent Blue backgrounds). Single-color subtitles read as template; two-tone reads as editorial design.
+6. **Clean negative space.** Skip grid-pattern or textured backgrounds when the central composition is strong.
+
+**Channel-specific backgrounds:**
+
+| Channel | Background | Badge (top-right) |
+|---------|------------|-------------------|
+| Monday deep dive | Option A: White (#FFFFFF), or Option B: Primary Blue (#015880). Alternate week-to-week for variety. | None |
+| Wednesday roundup | Accent Blue (#A7E0FA) | "WHAT CROSSED MY DESK" |
+| Thursday field note | White (#FFFFFF) | "FIELD NOTE" |
+
+**Format specs:**
+- Monday deep dive header: 2240 x 1200 px, Topic Icon template
+- Wednesday roundup header: 2240 x 1200 px, Topic Icon template
+- Thursday field note header: 1200 x 600 px final (generate at 2240 x 1260 for detail), Data Highlight template
+
 ## Repository Structure
 
 ```
