@@ -561,110 +561,90 @@ Next week: why your plan may be missing the biosimilar opportunity.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the compounding pharmacy problem. We walk through the red flags, the claims patterns, and the six-flag checklist for identifying compounding claims that warrant investigation.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-Compounding has a legitimate place in pharmacy. I learned that as a pharmacist. But I also learned to recognize when a compounding claim didn't add up. The ingredients didn't match the diagnosis. The quantities didn't make sense. The cost was wildly out of range. You develop a feel for it over years of practice. That instinct is what I bring to claims review now.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Compounding has a legitimate place in pharmacy. I learned that as a pharmacist. But I also learned to recognize when a compounding claim did not add up. The ingredients did not match the diagnosis. The quantities did not make sense. The cost was wildly out of range. You develop a feel for it over years of practice. That instinct is what I bring to claims review now.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The compounding pharmacy market is bifurcated. On one side, legitimate compounders filling prescriptions for patients who genuinely need customized formulations. On the other, high-volume operations generating significant revenue from multi-ingredient compounds that have commercial equivalents. The regulatory environment has not caught up to the distinction, and plan sponsors are absorbing the cost of that gap.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I pulled a compounding claim during a routine audit that stopped the conversation. $1,200 cream. $47 commercial alternative. Same active ingredient. The compounded version had five ingredients with no clinical evidence supporting the combination. The commercial product was available the entire time. The PBM's claims system processed it without question. That is the claim that still gets to me.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-$1,200 cream. $47 alternative. Same active ingredient. The PBM's system processed it. The plan paid. No flag. No edit.
+**Morning (7-8 AM) — Origin Story #1:**
+When I was practicing, a sales rep from a compounding pharmacy came to the clinic offering to pay for training and sample kits if our prescribers would consider writing more compound prescriptions. That visit taught me everything I needed to know about how certain compounding volume gets generated. Not clinical need. Commercial relationships. I never forgot it.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+State boards of pharmacy are beginning to scrutinize compounding volume more closely, but enforcement varies dramatically by state. For self-funded employers with employees across multiple states, the oversight landscape is inconsistent. The plan's own claims review may be the most reliable safeguard.
 
-**Visual — Stat Card (1080x1080, Canva):**
-Stat: "$1,200 vs. $47"
-Context: "Same active ingredient. The PBM processed it."
-Design: White background, stat in #015880 Krona One 72-96pt, context in #4D4D4D Roboto 22pt. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
-
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something I have been watching: state boards of pharmacy are beginning to scrutinize compounding volume more closely, but enforcement varies dramatically by state. For self-funded employers with employees across multiple states, the oversight landscape is inconsistent. The plan's own claims review may be the most reliable safeguard.
-
-**Afternoon (3-6 PM) — Expertise Insight:**
-A pattern we see in compounding claims: a single pharmacy generating a disproportionate share of compounding volume, with prescriptions concentrated among a small number of prescribers. The ingredients are legitimate. The formulations are technically compliant. But the volume, the cost, and the prescriber concentration tell a different story than the individual claim.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client's HR team sent me a compounding claim they could not explain. A single employee, three refills in a quarter, $4,000 total. When I dug into the pharmacy and prescriber, both names appeared on several other claims from the same plan. The pattern was only visible when the data was sorted a specific way. That is why reviews matter. The individual claim tells you nothing. The pattern tells you everything.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-Multi-ingredient topical compounds are the category we flag most often. Pain creams, scar gels, hormone combinations. Each ingredient may be defensible individually. But the combination often has a commercially available alternative at a fraction of the cost. The compounding adds cost without adding clinical value.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-I remember the first compounding claim I flagged during a contract review. The dollar amount was high enough to stand out, but what really caught my attention was the formulation. My pharmacy training told me it didn't match any standard of care I knew. That's the value of having a pharmacist look at claims data. Some things only make sense if you've spent years in clinical practice.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Compounding pharmacies serve a legitimate clinical need. But when a commercially available product at $47 becomes a compounded version at $1,200, the system is not serving the patient. It is serving somebody else.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I remember the first compounding claim I flagged during a contract review. The dollar amount was high enough to stand out, but what really caught my attention was the formulation. My pharmacy training told me it did not match any standard of care I knew. That is the value of having a pharmacist look at claims data. Some things only make sense if you have spent years in clinical practice.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
+**Afternoon (3-6 PM) — Origin Story #2:**
+A long-time client asked me why I keep flagging compounding claims when their total compound spend looks small. I told her: concentrated cost in a category with minimal clinical value is a canary. If the plan lets that through, it lets other things through too. She pulled a full audit. The compounding was the surface. Three other patterns surfaced underneath it. That is why small findings matter.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: three compounding claims patterns that signal problems. Not every compounding claim is a problem. But certain combinations of volume, pricing, and prescriber concentration are worth investigating.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-One compounding flag is a question. Three compounding flags is an investigation. Most plans never get past the first flag because they are not looking for it in the first place.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+In one of my earliest compounding reviews, I found a pattern that would not have looked suspicious to a non-pharmacist. Four ingredients in a topical cream, all individually defensible, but combined in a way that had no clinical rationale. The reviewer before me had accepted the claims because each ingredient passed scrutiny on its own. Clinical training is what catches the combination problem. The parts looked fine. The whole did not.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-Compounding claims are one of those categories that fly under the radar until someone pulls the data. We consistently see employers surprised by two things: the total spend and the concentration. A small number of pharmacies and prescribers generating a large share of the cost. The pattern is remarkably consistent across plans of different sizes.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I worked a case where the "clinical justification" for a series of high-cost compounds was identical, copy-pasted across different patients and different prescribers. The language was too clean. Real clinical notes have the fingerprints of real patients in them. Identical notes are a pattern that tells me somebody was generating paperwork, not documenting care. That case ended with a referral to the state board.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Finding compounding fraud in claims data is satisfying and depressing at the same time. Satisfying because you caught it. Depressing because it means patients were used. Someone prescribed a $1,200 compound when a $47 alternative existed, and the patient had no idea. I do this work because the patterns need to be named. Some days the patterns are hard to look at.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: the biosimilar opportunity most self-funded plans are missing. A biosimilar is available. FDA-approved. Clinically equivalent. Lower net cost. Your formulary still prefers the brand. We walk through why PBM rebate economics may not align with your plan's cost objectives, and share a six-factor readiness assessment.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-We review hundreds of PBM contracts annually. Compounding claims are one of the categories where contract language matters most and exists least. Most contracts do not define what qualifies as a "medically necessary" compound, do not cap ingredient costs, and do not require documentation of why a commercial alternative was not appropriate.
-
-**Afternoon (3-6 PM) — Expertise Insight:**
-Here is what makes compounding oversight difficult: the claims look normal in the system. They process like any other prescription. They have an NDC. They have a prescriber. They adjudicate through the PBM. The difference is in the pricing, the patterns, and the clinical rationale. You do not find compounding problems by reviewing individual claims. You find them by reviewing utilization patterns across the category.
-
-**Late Afternoon (4-6 PM) — Honest Post:**
-Finding compounding fraud in claims data is satisfying and depressing at the same time. Satisfying because you caught it. Depressing because it means patients were used. Someone prescribed a $1,200 compound when a $47 alternative existed, and the patient had no idea. I do this work because the patterns need to be named. But some days the patterns are hard to look at.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A pharmacy student once asked me if compounding reviews were "worth the time" when the total spend was small relative to specialty. My answer: the dollar amount is not the point. The signal is the point. A plan that is paying attention to compounding is a plan paying attention. A plan that is not is missing more than compounding.
 
 ## Saturday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-Your PBM processes compounding claims. Your PBM does not investigate compounding patterns. Those are two very different functions. One is administrative. The other is oversight. Most employers are only paying for the first.
+**Morning (8-9 AM) — Origin Story #1:**
+My first week practicing pharmacy, a compounding pharmacist showed me around their lab. It was meticulous. The measurements were precise, the protocols were clean, the records were impeccable. That is the version of compounding that deserves the profession's respect. The version I flag in claims reviews is not that. The two are not the same work, even if the billing codes overlap.
 
-**Visual — Pull-Quote Card (1080x1080, Canva):**
-Quote text: "Your PBM processes compounding claims. Your PBM does not investigate compounding patterns."
-Design: #015880 background, white Krona One 36-48pt centered. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Red flag combination we watch for: high-cost compound, single-source pharmacy, prescriber concentration, and commercially available alternative. Any one of those factors could be coincidence. All four together is a pattern that warrants a closer look. The plan sponsor who identifies this pattern before renewal has data. The one who discovers it afterward has regret.
 
-**Midday (12-2 PM) — Expertise Insight:**
-Red flag combination we watch for: high-cost compound + single-source pharmacy + prescriber concentration + commercially available alternative exists. Any one of those factors could be coincidence. All four together is a pattern that warrants a closer look. The plan sponsor who identifies this pattern before renewal has data. The one who discovers it afterward has regret.
-
-**Afternoon (3-5 PM) — Question:**
-Question for benefits professionals: does your plan have a compounding-specific claims review process? Not a general pharmacy audit, but a targeted review of compounding volume, pricing, prescriber patterns, and commercial alternative availability?
-
-**Late Afternoon (4-6 PM) — Behind-the-Scenes:**
-Some real numbers from our content journey. Benefit Blind Spots launched on Substack in February. We went from 1 subscriber to 24. Our LinkedIn newsletter hit 653 subscribers, and the open rate has climbed from 44% to 49% over the past few months. We review roughly 100 PBM contracts a year, and everything we publish comes from that work. Building a content ecosystem and a consulting practice at the same time is a lot. We are figuring it out week by week.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A plan sponsor thanked me once for a compounding review that identified a suspected fraud scheme. She also asked why her PBM had not caught it. My honest answer: the PBM's system is built to process, not investigate. The edits they run are designed for volume, not pattern recognition. The PBM was doing exactly what the PBM is paid to do. The gap is in what the plan is not paying anyone to do.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-The most expensive pharmacy on your plan might not be a specialty pharmacy. It might be a compounding pharmacy billing multi-ingredient topicals that have commercially available alternatives. One pharmacy, one prescriber, and a PBM system that processes it all without a question.
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy preceptor of mine told me, "compounding is one of the most skilled and most abused parts of our profession." That dual nature has stayed with me. I do not want to help erode legitimate compounding for the patients who need it. I also cannot ignore what the data shows when the volume goes the other way. Holding both realities at once is how I try to approach this category.
 
-**Midday (12-2 PM) — Question:**
-What is your experience with compounding pharmacy management? We are seeing a wide range of approaches, from complete carve-outs to no oversight at all. The cost variance between managed and unmanaged compounding categories is significant.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Here is what makes compounding oversight difficult: the claims look normal in the system. They process like any other prescription. They have an NDC. They have a prescriber. They adjudicate through the PBM. The difference is in the pricing, the patterns, and the clinical rationale. You do not find compounding problems by reviewing individual claims. You find them by reviewing utilization patterns across the category.
 
-**Afternoon (3-5 PM) — Question:**
-If you advise self-funded employers: how do you explain the compounding pharmacy risk? In our experience, most employers do not realize this category exists as a distinct cost driver until they see the claims data broken out separately.
-
-**Late Afternoon (4-6 PM) — Community Lift:**
-If you write about pharmacy practice, clinical oversight, or healthcare fraud, drop your Substack below. I'm reading every one this weekend. The best writing in this space isn't coming from the big publications. It's coming from people doing the work.
+**Afternoon (3-5 PM) — Origin Story #2:**
+Early in my career I assumed that if a claim was adjudicated, it had passed some kind of oversight. Years of claims review disabused me of that assumption. Adjudication is a payment event. It is not a judgment about whether the claim should have been paid in the first place. That realization changed how I advise plans. Do not assume the processing means approval of the appropriateness. It just means the claim fit the format.
 
 ## Engagement Reply Templates
 
