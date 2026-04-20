@@ -548,96 +548,90 @@ Next week: following the flow.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: fiduciary duty and pharmacy benefits. We walk through what ERISA actually requires, where employers are most exposed, and a fiduciary documentation checklist with the five categories every plan sponsor file should contain.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-There was a moment early in my consulting work when I realized that documentation mattered as much as the decision itself. A plan sponsor had made the right call on a formulary change, but there was no record of why. No notes, no analysis, nothing to show the process. That's when fiduciary responsibility became real to me. Good intentions don't hold up without a paper trail.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+There was a moment early in my consulting work when I realized documentation mattered as much as the decision itself. A plan sponsor had made the right call on a formulary change, but there was no record of why. No notes, no analysis, nothing to show the process. That was when fiduciary responsibility became real to me. Good intentions do not hold up without a paper trail.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The PBM litigation landscape is shifting from "bad actor" cases to "insufficient process" cases. Early lawsuits targeted PBMs for specific misconduct. The current wave targets employers for failing to oversee PBM relationships with the diligence ERISA requires. The defendant is no longer just the PBM. It is the plan sponsor who did not ask enough questions.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO client of mine once told me he had not read his PBM contract because "that is what the broker is for." I asked him to pull it out anyway. Three hours later he had highlighted seven provisions he wanted to renegotiate. Brokers do the heavy lift, but the fiduciary signature on the plan belongs to the plan sponsor. That signature means something even if the contract has never been opened.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-If you manage a self-funded health plan, you are an ERISA fiduciary. That is not an opinion. It is a legal designation. And it comes with obligations that most plan sponsors have never fully examined, particularly on the pharmacy side.
+**Morning (7-8 AM) — Origin Story #1:**
+I sat through a plan sponsor committee meeting where the only documentation of a major PBM decision was a single email from two years earlier. Just one paragraph, no analysis attached. The committee members could not remember the reasoning. ERISA does not require you to remember. It requires you to document. That gap is the exact exposure I try to help clients close.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something I have been thinking about: the pharmacy benefit is often the largest and most complex cost center in a self-funded health plan, yet it receives less fiduciary scrutiny than the retirement plan. ERISA applies to both. The standards are similar. But the oversight infrastructure for pharmacy benefits lags behind what most employers maintain for their 401(k).
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+The pharmacy benefit is often the largest and most complex cost center in a self-funded health plan, yet it receives less fiduciary scrutiny than the retirement plan. ERISA applies to both. The standards are similar. But the oversight infrastructure for pharmacy benefits lags behind what most employers maintain for their 401(k).
 
-**Afternoon (3-6 PM) — Expertise Insight:**
-A pattern we see in litigation filings: the employer renewed the PBM contract multiple times without a competitive bid, without an independent claims audit, and without reviewing the contract against current market terms. The court does not need to prove the PBM overcharged. The court only needs to show the employer failed to follow a prudent process. The absence of documentation becomes the evidence.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I had a plan sponsor tell me she felt overwhelmed by ERISA compliance on the pharmacy side. My honest response was that she was not the only one. Benefits teams are asked to manage a category governed by complex federal law with tools designed for a simpler era. The best outcomes I see come from sponsors who admit the gap and then close it with documentation, not from sponsors who pretend the gap does not exist.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-We review dozens of PBM contracts every quarter. The fiduciary gap we encounter most often is not a bad contract term. It is the absence of any documented rationale for why the terms were accepted. No competitive comparison. No independent analysis. No written record of the decision-making process. ERISA requires a prudent process. Silence is not a process.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-As a pharmacist, I documented everything. Every intervention, every recommendation, every clinical decision. When I moved into benefits consulting, I was surprised by how little documentation existed around pharmacy benefit decisions worth millions of dollars. Clinical pharmacy taught me that if you didn't write it down, it didn't happen. That principle applies here too.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-"We trusted our PBM" is not a fiduciary defense. Courts do not evaluate whether you trusted the right vendor. They evaluate whether you followed a prudent process. Trust without verification is the opposite of what ERISA requires.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+As a pharmacist I documented everything. Every intervention, every recommendation, every clinical decision. When I moved into benefits consulting I was surprised by how little documentation existed around pharmacy benefit decisions worth millions of dollars. Clinical pharmacy taught me that if you did not write it down, it did not happen. That principle applies here too.
 
-**Visual — Pull-Quote Card (1080x1080, Canva):**
-Quote text: "'We trusted our PBM' is not a fiduciary defense."
-Design: #015880 background, white Krona One 36-48pt centered. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client's benefits counsel called me in to help build their fiduciary file from scratch. The plan was going into a Department of Labor inquiry. Working backward from current decisions to build the documentation that should have been created in real time is one of the harder jobs I do. It is possible. It is expensive. It is also avoidable. That inquiry is why I push sponsors to document as they go, every single time.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: the documentation that matters in PBM litigation. We break down what courts are actually looking for and why the process matters more than the outcome.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-The employers being targeted in PBM litigation are not the ones who made bad decisions. They are the ones who made no decisions at all. No competitive bid process. No contract review. No claims audit. Inaction is the exposure.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A plaintiffs' attorney asked me once what separates a defensible plan sponsor from an exposed one. I told her: the defensible sponsor can produce three years of meeting minutes, quarterly performance reviews, and a documented rationale for every major PBM decision. The exposed sponsor cannot. She nodded. She had seen the same pattern from the other side of the table. Litigation is won and lost in the file cabinet.
 
-**Visual — Pull-Quote Card (1080x1080, Canva):**
-Quote text: "They are the ones who made no decisions at all."
-Design: #015880 background, white Krona One 36-48pt centered. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
-
-**Afternoon (3-6 PM) — Industry Observation:**
-The documentation standard in PBM litigation is not perfection. Courts are not asking whether the employer achieved the best possible price. They are asking whether the employer followed a reasonable, documented process to evaluate and oversee the PBM relationship. That is a lower bar than many employers think, but it still requires intentional action. Default and inertia do not clear it.
+**Afternoon (3-6 PM) — Origin Story #2:**
+Watching the Johnson & Johnson case unfold changed how I structure client engagements. The complaint was not really about the PBM. It was about the plan sponsor's oversight process. I started adding documentation deliverables to every engagement after I read the filings. The clients who adopted that discipline are the ones I stopped worrying about.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Fiduciary responsibility content makes plan sponsors uncomfortable because it names what they have not been doing. I know this because I see the reaction in meetings. Nobody wants to hear that their documentation trail has gaps. But naming the gap is the first step to closing it. I would rather have the uncomfortable conversation now than watch a client face it in litigation later.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: manufacturer copay assistance programs. Your employees are using them, your PBM is tracking them, and your plan may be paying more because of them. The financial mechanics most employers have never examined.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-Five documents every fiduciary file should contain for pharmacy benefits: a competitive market analysis conducted within the last three years, an independent claims audit report, a written rationale for PBM selection or renewal, documentation of ongoing contract compliance monitoring, and a pharmacy benefit strategy aligned with plan objectives. We consistently find that most employers have one or two of these. Few have all five.
-
-**Afternoon (3-6 PM) — Honest Post:**
-Fiduciary responsibility content makes plan sponsors uncomfortable because it names what they have not been doing. I know this because I see the reaction in meetings. Nobody wants to hear that their documentation trail has gaps. But naming the gap is the first step to closing it. I would rather have the uncomfortable conversation now than watch a client face it in litigation later.
+**Afternoon (3-6 PM) — Origin Story #2:**
+An HR director asked me if she personally had fiduciary exposure on the pharmacy benefit. The honest answer was yes. Named fiduciaries and functional fiduciaries both carry the responsibility. She got quiet. Then she asked what she should do. The right answer is almost always the same: start documenting today. The file you build going forward is the file that will matter.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story:**
-[Use an evergreen origin story Note from a previous week or write one connecting Ginny's clinical pharmacist background to the fiduciary responsibility theme]
+**Morning (8-9 AM) — Origin Story #1:**
+My first fiduciary conversation as a consultant was with a benefits committee that had never used the word in a meeting. They thought ERISA applied to the retirement plan only. When I walked them through the pharmacy obligations, the committee chair leaned back and said, "we have been operating on faith." I respected the honesty. We spent the next six months turning faith into process.
 
-**Midday (12-2 PM) — Provocative One-Liner:**
-Courts examine process, not just outcomes. An employer who followed a documented, prudent process and still overpaid has a defense. An employer who got a reasonable price through luck and inertia does not. The distinction matters, and it is entirely within the employer's control.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Five documents every fiduciary file should contain for pharmacy benefits: a competitive market analysis conducted within the last three years, an independent claims audit report, a written rationale for PBM selection or renewal, documentation of ongoing contract compliance monitoring, and a pharmacy benefit strategy aligned with plan objectives. Most employers have one or two. Few have all five.
 
-**Afternoon (3-5 PM) — Behind-the-Scenes:**
-The LinkedIn-to-Substack pipeline is working, slowly. 653 newsletter subscribers on LinkedIn, 49% open rate. 24 subscribers on Substack, growing from 1. The conversion rate is small, but every subscriber who makes the jump is choosing to go deeper. That self-selection matters more than the number. I am building an audience that wants the full analysis, not just the hook.
+**Afternoon (3-5 PM) — Origin Story #2:**
+Advising a plan sponsor whose broker has been the fiduciary file for years is a sensitive conversation. The broker is often doing good work. But the file belongs with the plan sponsor, not the intermediary. I have had to explain this gently enough times to know the right way to land it: the broker stays; the file moves home.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-The PBM is often the largest unaudited vendor relationship in a self-funded plan. Employers audit their TPAs. They benchmark their stop-loss. They review their consulting arrangements. But the entity managing their fastest-growing cost category often operates with less scrutiny than it deserves. PBMs make auditing difficult by design. That asymmetry is where fiduciary exposure grows.
+**Morning (8-9 AM) — Origin Story #1:**
+I was invited to speak on ERISA fiduciary responsibility at a benefits conference two years ago. Afterward, three attendees told me they had never heard the standard framed as "a prudent process, not a perfect outcome." That reframe is the one that lands. Nobody needs to be perfect. They need to be deliberate and documented. That is a different and much more achievable standard.
 
-**Midday (12-2 PM) — Expertise Insight:**
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
 The litigation trend in pharmacy benefits is accelerating, and the pattern is consistent. Plaintiffs identify a self-funded plan. They request the PBM contract under discovery. They compare the terms to market benchmarks. They look for documentation of a prudent selection and oversight process. When that documentation does not exist, the case moves forward. The absence of process is the vulnerability.
 
-**Afternoon (3-5 PM) — Community Lift:**
-If you write about ERISA, compliance, healthcare law, or plan governance, drop your Substack below. I'm reading every one this weekend. The best writing in this space isn't coming from the big publications. It's coming from people doing the work.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client told me recently that fiduciary documentation felt like "covering ourselves." I pushed back. The documentation is not about self-protection. It is about demonstrating that the plan's interests drove the decision. If the interests line up and the process is clean, the protection is a byproduct. If you are documenting for your own defense instead of your members' benefit, you are documenting the wrong thing.
 
 ## Bonus Notes (Evergreen)
 

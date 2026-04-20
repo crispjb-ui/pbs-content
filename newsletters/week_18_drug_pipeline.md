@@ -664,98 +664,90 @@ Next week: what the standard requires and how to document it.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the drug pipeline that will hit your plan over the next 18 months. We walk through five categories of upcoming launches and the specific preparation steps employers should be taking now, not after the first claim.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-I remember the first time a new specialty drug launched and overnight changed the cost profile for the plans I was working with. As a pharmacist, I had watched new drugs come to market and thought about efficacy. As a consultant, I learned to think about what that launch would do to a self-funded employer's budget in 90 days. Nobody was warning them. That felt like a gap I could fill.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I remember the first time a new specialty drug launched and overnight changed the cost profile for the plans I was working with. As a pharmacist I had watched new drugs come to market and thought about efficacy. As a consultant I learned to think about what that launch would do to a self-funded employer's budget in 90 days. Nobody was warning them. That felt like a gap I could fill.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The pipeline landscape is shifting the balance of pharmacy benefit risk. Five years ago, a "high-cost drug" was $50,000 to $100,000 annually. Today, single claims above $1 million are no longer outliers. The entire infrastructure of pharmacy benefit management, from formulary design to stop-loss coverage, was built for a cost environment that no longer exists.
-
-**Visual — Stat Card (1080x1080, Canva):**
-Stat: "$1M+"
-Context: "Single claims. No longer outliers."
-Design: White background, stat in #015880 Krona One 72-96pt, context in #4D4D4D Roboto 22pt. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Afternoon (3-6 PM) — Origin Story #2:**
+I sat in a client meeting where a gene therapy claim came across the desk that was bigger than any single claim the plan had ever paid. The CFO asked me what they were supposed to do. My honest answer was: this is a new category, and we are going to build the answer together. That meeting is why I keep the pipeline list. I do not want to be in another room where the answer is improvised.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-One drug. One patient. One claim. $2.1 million. That is not a projection. That is a claim we have seen cross a self-funded employer's desk. The question is not whether it will happen to your plan. It is whether you will know it is coming before it does.
+**Morning (7-8 AM) — Origin Story #1:**
+A pharmacy school professor of mine used to say that the most important drugs of a pharmacist's career would not exist when they graduated. He was right about me. The gene therapies and GLP-1 indication expansions reshaping pharmacy benefits today were not part of my training. Staying current is not optional in this work. It is the work.
 
-**Visual — Stat Card (1080x1080, Canva):**
-Stat: "$2.1M"
-Context: "One drug. One patient. One claim."
-Design: White background, stat in #015880 Krona One 72-96pt, context in #4D4D4D Roboto 22pt. "Benefit Blind Spots" badge bottom-left, PBS logo bottom-right.
+**Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+PBMs are building pipeline monitoring tools and selling them as value-added services. The underlying data is publicly available. PDUFA dates, advisory committee schedules, Phase 3 results. The value is not in the data itself. It is in connecting that data to a specific employer's plan design, member demographics, and contract terms. That connection is what most employers lack.
 
-**Midday (11 AM-1 PM) — Industry Observation:**
-Something I have been watching: PBMs are building pipeline monitoring tools and selling them as value-added services. The underlying data is publicly available. PDUFA dates, advisory committee schedules, Phase 3 results. The value is not in the data itself. It is in connecting that data to a specific employer's plan design, member demographics, and contract terms. That connection is what most employers lack.
-
-**Afternoon (3-6 PM) — Expertise Insight:**
-A pattern we see repeatedly: an employer renews their PBM contract in Q4. A gene therapy launches in Q1. The contract has no provisions for single-claim drugs above $1 million. The stop-loss policy was written before the approval. The employer absorbs six or seven figures of unplanned exposure. This is not a hypothetical. It is a pattern.
+**Afternoon (3-6 PM) — Origin Story #2:**
+The first time I sat through an FDA advisory committee hearing on a new drug, I realized the plan sponsors who would pay for that drug had no idea the meeting had happened. The committee spoke for four hours about the clinical evidence. Nobody in the room represented the employers who would fund the claim. That imbalance is still the imbalance I am trying to correct.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-We review hundreds of PBM contracts annually. Very few include meaningful pipeline preparation language. This is not something advisory teams would necessarily draft on their own; it is a provision that PBMs do not typically offer in their standard templates. No pre-authorization protocols for anticipated high-cost launches. No pricing protections for drugs without therapeutic alternatives. No coordination between formulary placement and stop-loss coverage. Pipeline risk is real. Contract readiness is rare.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-When I was practicing, every new drug felt like progress. More options for patients. More tools in the toolbox. Now, reviewing contracts, I see the other side of every launch: the cost, the rebate implications, the formulary positioning that doesn't always line up with clinical value. I still believe in new therapies. I just read the fine print now too.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Most employers learn about new drug approvals the same way: from claims data. After the approval. After the prescription. After the claim. The FDA publishes advisory committee schedules and PDUFA dates publicly. The information is available. The gap is not access. It is attention.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+When I was practicing, every new drug felt like progress. More options for patients. More tools in the toolbox. Now, reviewing contracts, I see the other side of every launch: the cost, the rebate implications, the formulary positioning that does not always line up with clinical value. I still believe in new therapies. I just read the fine print now too.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client's benefits director once asked me how I keep track of the pipeline. I opened a spreadsheet I have been maintaining for years with drug, class, expected approval, estimated launch price, and affected patient population. She said she did not know anyone kept that. I said: I keep it because the PBMs keep it, and somebody on the plan side has to.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: the next wave of GLP-1 approvals is broader than most employers realize. We break down what is coming and why your current GLP-1 strategy may need an update.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-The drugs that will reshape your plan's pharmacy spend next year are knowable today. They are in Phase 3 trials. They have PDUFA dates. They have projected launch prices. Your PBM knows this. The question is whether you do.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I lectured to a group of benefits consultants last year on the GLP-1 landscape. Halfway through, one of them asked how many of the indications I had named were actually approved. The honest answer was that the approval map was moving faster than the slide deck I had prepared two weeks earlier. That is the pace of this category right now.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-The GLP-1 story is evolving faster than most benefit designs can adapt. Original coverage decisions were built around diabetes. Then obesity. Now cardiovascular risk reduction, sleep apnea, kidney disease, and potentially Alzheimer's. Each new indication changes the eligible population, the utilization projection, and the cost trajectory. Employers who set their GLP-1 strategy two years ago may already be working from outdated assumptions.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A member on a GLP-1 for weight management asked a client of mine why her coverage criteria had changed mid-year. The answer nobody wanted to give her was that the plan had tightened the PA in response to utilization that had outpaced the original budget. That conversation was avoidable with better preparation. The pipeline work is how plans avoid that conversation next time.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Pipeline drugs are exciting clinically. As a pharmacist I want every new therapy to work. As a consultant I know some of these launches will financially devastate unprepared self-funded plans. Holding both of those perspectives at the same time is the job. I do not get to pick one. The clinical optimism and the financial realism have to coexist in every recommendation I make.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: fiduciary duty and your pharmacy benefit. "We trusted our PBM" is not a legal defense. Courts are examining whether plan sponsors followed a documented, prudent process. The documentation most employers are missing, and why inaction is the real exposure.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
-Gene therapy economics break the traditional pharmacy benefit model. A $2.1 million single claim was never contemplated when attachment points, copay structures, and benefit maximums were designed. Employers need to evaluate whether their plan documents, PBM contracts, and stop-loss policies are built for this cost environment. Most are not.
-
-**Afternoon (3-6 PM) — Honest Post:**
-Pipeline drugs are exciting clinically. As a pharmacist, I want every new therapy to work. As a consultant, I know that some of these launches will financially devastate unprepared self-funded plans. Holding both of those perspectives at the same time is the job. I do not get to pick one. The clinical optimism and the financial realism have to coexist in every recommendation I make.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor told me recently that pipeline planning felt like speculation. I said: it is the opposite of speculation. The PDUFA dates are published. The Phase 3 readouts are in the public literature. The manufacturer contracts are being negotiated right now. Speculation is assuming none of it will reach your plan. Planning is reading the same public information the PBM is reading and acting on it first.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story:**
-[Use an evergreen origin story Note from a previous week or write one connecting Ginny's clinical pharmacist background to the drug pipeline theme]
+**Morning (8-9 AM) — Origin Story #1:**
+Before I started PBS, I thought PBMs were just complicated utilities. Important but dull. The first contract I read from cover to cover changed that. Inside the dull language were decisions worth millions of dollars in either direction. Nobody outside the PBM was reading it. That asymmetry is the entire reason this firm exists.
 
-**Midday (12-2 PM) — Provocative One-Liner:**
-GLP-1 indications are expanding beyond diabetes and obesity. Heart failure. Sleep apnea. Kidney disease. Alzheimer's. Every new indication is a new population of eligible members on your plan. The cost trajectory is not slowing down. It is widening.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Here is something that should concern every self-funded employer: the Alzheimer's therapy pipeline alone could generate multiple drugs priced above $20,000 per patient per year, with eligible populations that dwarf current specialty categories. Layer on GLP-1 expansion, oncology combination regimens, and rare disease gene therapies. The next three years of pipeline launches will test every assumption in your current benefit design.
 
-**Afternoon (3-5 PM) — Behind-the-Scenes:**
-1,449 LinkedIn followers. 653 newsletter subscribers with a 49% open rate. 24 Substack subscribers. I review the contracts that cross my desk each year. Those are the real numbers behind this publication. No inflated metrics, no vanity counts. The LinkedIn-to-Substack pipeline is the strategy. Every week I learn a little more about what makes someone take that extra step to subscribe.
+**Afternoon (3-5 PM) — Origin Story #2:**
+A broker called me about a client who had just received notice of a member going on a $500,000-per-year specialty drug. The broker asked what the right next step was. My first question was whether the contract had been reviewed for this category before the claim arrived. It had not. That is when the work gets harder. The best time to prepare is before the first claim. The second-best time is today.
 
 ## Sunday
 
-**Morning (8-9 AM) — Provocative One-Liner:**
-There is a visibility gap in pharmacy benefits. Your PBM tracks pipeline intelligence for their own formulary strategy. Your stop-loss carrier models it for their own risk assessment. Your plan sponsor team finds out when the first claim hits. That gap is a PBM communication failure, not a reflection of your advisory team. Closing it requires demanding pipeline briefings as a contract deliverable.
+**Morning (8-9 AM) — Origin Story #1:**
+A medical director I worked with said he could predict a new drug's plan impact by watching two things: how many indications the company was pursuing and how aggressive the manufacturer's patient support services looked at launch. The hub programs are a leading indicator. They signal where the volume is going to land. I still use that framework.
 
-**Midday (12-2 PM) — Expertise Insight:**
-Here is something that should concern every self-funded employer: the Alzheimer's therapy pipeline alone could generate multiple drugs priced above $20,000 per patient per year, with eligible populations that dwarf current specialty categories. Layer on GLP-1 expansion, oncology combination regimens, and rare disease gene therapies. The next three years of pipeline launches will test every assumption in your current benefit design.
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Gene therapy economics break the traditional pharmacy benefit model. A multi-million-dollar single claim was never contemplated when attachment points, copay structures, and benefit maximums were designed. Employers need to evaluate whether their plan documents, PBM contracts, and stop-loss policies are built for this cost environment. Most are not.
 
-**Afternoon (3-5 PM) — Community Lift:**
-If you write about drug development, pharmaceutical policy, or clinical innovation, drop your Substack below. I'm reading every one this weekend. The best writing in this space isn't coming from the big publications. It's coming from people doing the work.
+**Afternoon (3-5 PM) — Origin Story #2:**
+The employer who called me most shaken was the one who read about a gene therapy launch in a trade publication two weeks after their plan had already paid the claim. They did not know it was coming. They did not know their stop-loss policy excluded it. They learned both facts at the same time. I started publishing pipeline pieces for exactly that reader.
 
 ## Bonus Notes (Evergreen)
 
