@@ -556,63 +556,86 @@ Next week: rebate economics decoded. Eight contract provisions compared: weak vs
 
 ## Monday
 
-**Morning (7-8 AM) — Article Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots: pharmacy network design. A client's broker flagged that their specialty routing was costing more than the entire formulary rebate was saving. One change fixed it. This week includes a five-channel cost comparison model.
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story:**
+**Midday (11 AM-1 PM) — Origin Story #1:**
 The first time I calculated cost per script by dispensing channel for a client, the specialty pharmacy number made me recalculate twice. The PBM's owned specialty pharmacy was charging meaningfully more per script than the alternative we identified. The routing was set by default. Nobody had questioned it. That analysis changed how I evaluate every network configuration.
 
-**Afternoon (3-6 PM) — Industry Observation:**
-Pharmacy network design gets less attention than formulary or rebates, but the cost impact can be larger. The channel where a prescription is filled can change the cost more than the molecule itself. Most employers run on the PBM's default routing and never compare. The PBM has done the comparison. The question is whether they shared it.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client once told me her PBM said white bagging was "not feasible" for their plan. When we investigated, it was feasible. The PBM's specialty pharmacy would have lost volume. "Not feasible" meant "not profitable for us." I learned to verify every "not feasible" claim with independent data. That pattern has held across dozens of reviews.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Provocative One-Liner:**
-Same drug. Five different dispensing channels. Five different costs to your plan. The PBM chose the channel. You pay the price. Have you ever asked why that specific channel was selected?
+**Morning (7-8 AM) — Origin Story #1:**
+A broker pulled me into a call with her client who had been told that routing specialty drugs to an alternative pharmacy would "confuse members." I asked for the data on member confusion at alternative specialty pharmacies across her book of business. The data did not exist. "Confusion" turned out to be a word used for "disruption of default routing." Once named, the objection deflated quickly.
 
-**Midday (11 AM-1 PM) — Expertise Insight:**
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
 The three biggest network design opportunities we see in claims data: specialty routing (highest per-claim impact), mail order for maintenance (highest volume), and site-of-care for infusion drugs (crosses pharmacy/medical boundary). Each requires different data and different contract provisions. Start with the one that matches your highest spend category.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor asked me whether I could "just tell" what her network design was costing without a full analysis. Short answer, no. Long answer: the patterns are not visible in aggregate reports. You have to pull the data by channel and compare the same drug across channels. I built the five-channel model because sponsors kept asking for shortcuts. The model is the shortcut. The data still has to be pulled.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Expertise Insight:**
-White bagging is the network design lever most employers have not explored. It moves a provider-administered drug from the medical benefit (where facility markup applies) to the pharmacy benefit (where PBM-negotiated pricing applies). For a single infusion drug, the per-administration savings can be substantial. Multiply that by annual fills and the impact is material.
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-**Midday (11 AM-1 PM) — Origin Story:**
-A client once told me their PBM said white bagging was "not feasible" for their plan. When we investigated, it was feasible. The PBM's specialty pharmacy would have lost volume. "Not feasible" meant "not profitable for us." I learned to verify every "not feasible" claim with independent data.
+Read the roundup: [LINK]
 
-**Afternoon (3-6 PM) — Provocative One-Liner:**
-Your PBM owns the specialty pharmacy. Your PBM routes your specialty claims to that pharmacy. Your PBM sets the price at that pharmacy. At no point in this chain does the employer's cost objective enter the equation unless the contract requires it.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Working in retail pharmacy years ago, I watched the same prescription get filled at my counter and at mail order on different days for the same patient. The prices to the plan were different. The drug was the same. That observation stayed with me. Network design is not theory. It is the invisible pricing that happens every time a prescription gets filled somewhere.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker asked me why "boring" network design content landed so well with her CFO clients. My answer: because CFOs like numbers, and network design is where the numbers actually move. Formulary optimization moves a percentage. Network optimization moves multiples on specific claims. The financial audience does not need excitement. It needs measurable impact. Network design delivers that.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: mail order economics. The assumption is that mail is always cheaper. Mostly true for brand maintenance drugs. Not always true for generics. We break down where the savings are real and where they are not.
 
 Read the field note: [LINK]
 
-**Midday (11 AM-1 PM) — Provocative One-Liner:**
-The PBM reports total pharmacy spend. What they rarely report: cost per script by dispensing channel, compared across channels for the same drug. That comparison is where the network design opportunity lives. And it has to be requested. The PBM will not volunteer it.
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A plan sponsor told me mail order was "already saving" her plan a lot based on her PBM's report. I ran the actual per-script comparison. Mail was cheaper for brand maintenance drugs. It was more expensive than retail for a handful of high-volume generics on her plan. The net effect was smaller than her PBM's report suggested. The report was not wrong. It was incomplete.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+Early in my consulting career I assumed mail order was always the preferred channel. A senior pharmacist corrected me. She showed me a generic drug where retail pricing was sharper than mail. I had been overgeneralizing. That conversation taught me that categorical thinking loses money. The drug, the channel, and the contract terms have to be evaluated together, not as generic rules.
 
 ## Friday
 
-**Morning (7-8 AM) — Forward Look:**
+**Morning (7-8 AM) — Origin Story #1:**
+Network design is not glamorous content. It does not go viral. But in terms of actual dollar impact for self-funded employers, it is one of the highest-ROI analyses we do. One routing change on one drug category can save more than months of formulary optimization. The boring analysis is sometimes the most valuable one.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: rebate economics decoded. Your PBM reports strong rebate performance. Your net cost went up. Both are true. How both can be true simultaneously, and the eight contract provisions that determine whose interests the rebate structure serves.
 
-**Midday (11 AM-1 PM) — Honest Post:**
-Network design is not glamorous content. It does not go viral. But in terms of actual dollar impact for self-funded employers, it is one of the highest-ROI analyses we do. One routing change on one drug category can save more than months of formulary optimization. The boring analysis is sometimes the most valuable one.
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO told me he did not want to "get into pharmacy network design" because it felt too technical. I asked him how he felt about site-of-care for his infusion drugs. He perked up. The phrase "pharmacy network design" sounds technical. The specific question "where are my members getting their infusions and at what cost" is a CFO question. Same topic, different entry point. Word choice matters when the audience is finance.
 
 ## Saturday
 
-**Morning (8-9 AM) — Expertise Insight:**
+**Morning (8-9 AM) — Origin Story #1:**
+My first network design win as a consultant was a single routing policy change on a single biologic. The annual savings exceeded the client's entire PBM management fee. One policy. One drug class. I still have the spreadsheet on my desktop. That win taught me that the scale of impact is often inverse to the scale of the change. Small changes. Large dollars. Right pattern.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
 Five channels. Five cost profiles. The data request that reveals the story: net cost per script by dispensing channel, for your top 10 drugs by spend. Your broker can help you structure this request and interpret the results. The employers who run this comparison find opportunities in almost every case.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+I had a client's pharmacist ask me why the PBM had never flagged the network design opportunity herself. My answer: the PBM's tools are built to process claims, not to question the routing that produced them. Different software. Different purpose. Asking a payments system to do strategic cost analysis is asking the wrong tool to do the job. The analysis has to come from outside the PBM's own workflow.
 
 ## Sunday
 
-**Morning (8-9 AM) — Community Lift:**
-If you write about pharmacy operations, supply chain economics, or specialty drug management, drop your Substack below. Reading this weekend.
+**Morning (8-9 AM) — Origin Story #1:**
+A young pharmacist told me she wanted to work in specialty pharmacy management. I asked why. She said because that is where the cost is. Smart framing. The cost categories are where the biggest problems and biggest opportunities live. For the pharmacy profession's next generation, specialty routing, site-of-care, and mail-order economics are career-defining categories. The generation learning this now is the one that will solve it.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+White bagging is the network design lever most employers have not explored. It moves a provider-administered drug from the medical benefit (where facility markup applies) to the pharmacy benefit (where PBM-negotiated pricing applies). For a single infusion drug, the per-administration savings can be substantial. Multiply that by annual fills and the impact is material.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client's HR director called me after she had successfully implemented a network design change. "Nobody noticed," she said. "Members fill where they always filled. The plan is paying less. That is all." That is the best possible outcome of network design work. Invisible to members. Visible on the claims line. Quiet wins are still wins.
 
 ## Engagement Reply Templates
 
