@@ -175,7 +175,7 @@ Have you scored your PBM relationship? If you have gone through the evaluation, 
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design balance scale icon in deep teal-blue (#015880) (250-300px), simplified and minimal with no gradients. One side of the scale holds a stylized contract document icon; the other side holds a door icon representing exit, both in deep teal-blue. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Stay or Switch" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "Evaluating the PBM Relationship." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design balance scale icon in deep teal-blue (#015880) outline, roughly 400px wide, tilted slightly to the left implying an active decision in progress. The left pan holds a small contract document icon labeled "STAY" in deep teal-blue; the right pan holds a door icon labeled "SWITCH" in deep teal-blue. The tilted motion is emphasized with three short arc lines in Accent Blue (#A7E0FA) at the scale's pivot. The scale's crossbar is highlighted in Accent Blue with a small "100" label above it representing the 100-point scorecard. Ten small tick marks in Accent Blue (#A7E0FA) sit along the crossbar. Below the scale, two-tone centered headline: "Stay or Switch" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "Evaluating Your PBM" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -244,6 +244,25 @@ Implementation is where member experience is most at risk. New pharmacy cards ne
 **SEO URL Slug:** pbm-transition-timeline-pitfalls
 **Meta Description:** Realistic PBM transition timeline: 6 months minimum from RFP to go-live. Common pitfalls in formulary mapping, data migration, and member communication.
 **Tags:** PBM transition, PBM switch, implementation, self-funded employers, pharmacy benefits
+
+---
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized horizontal timeline icon in deep teal-blue (#015880), roughly 500px wide, with "TRANSITION" rendered in deep teal-blue bold sans-serif text above the timeline. Four milestone dots sit along the timeline at evenly spaced intervals, labeled "30," "60," "90," "120" days in deep teal-blue. A small moving marker in Accent Blue (#A7E0FA) sits between the 30 and 60 dots implying transition in progress, with a short motion arc trailing behind it. The 60-day dot is highlighted in Accent Blue (#A7E0FA) with a ring accent. Twelve small tick marks in Accent Blue sit evenly along the timeline baseline. Below the timeline, two-tone centered headline: "What a PBM Transition" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Actually Looks Like" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
 
 ---
 

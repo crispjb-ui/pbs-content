@@ -135,7 +135,7 @@ Have you compared cost per script across dispensing channels on your plan? If yo
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large flat-design network diagram icon in white (250-300px): a central pharmacy building with five connecting arrows radiating outward to smaller pharmacy icons representing retail, mail, specialty, white-bag, and home-infusion channels. Simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Pharmacy Network Design" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "The Overlooked Cost Variable." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design hub-and-spoke network icon in white, roughly 400px wide, with a central pharmacy building labeled "NETWORK" in deep teal-blue (#015880) bold sans-serif text. Five spokes radiate outward to smaller endpoint icons: a retail pharmacy, a mail-order envelope, a specialty vial, a white-bag hospital room, and a home-infusion house. Each spoke is a thin line with a directional arrow in Accent Blue (#A7E0FA). The home-infusion spoke is highlighted in Accent Blue (#A7E0FA) as the lowest-cost channel. Five dollar-sign hash marks ($) in Accent Blue sit at varying heights along each spoke's length, implying cost differences. Below the hub, two-tone centered headline: "Pharmacy Network Design" in white bold sans-serif (72-88pt, sized to fit), with "The Overlooked Cost Lever" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -200,6 +200,25 @@ Your broker can help you model both scenarios and calculate the net impact for y
 **SEO URL Slug:** mail-order-pharmacy-savings-analysis
 **Meta Description:** Mail order is not always cheaper. Where it saves (brand maintenance), where it may not (generics), and how to compare for your specific plan.
 **Tags:** mail order pharmacy, cost containment, generic pricing, pharmacy network, self-funded employers
+
+---
+
+### Field Note Header Image Prompt
+
+**Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized mail truck icon in deep teal-blue (#015880) outline, roughly 300px wide, with "MAIL ORDER" rendered in deep teal-blue bold sans-serif text across the truck's side panel. The truck is rendered in forward motion with three short motion lines in Accent Blue (#A7E0FA) trailing behind it. A small dollar sign ($) in Accent Blue (#A7E0FA) sits above the truck with a downward arrow implying lower cost, while a second dollar sign ($$) in gray (#4D4D4D) with a line through it sits behind, representing the higher retail alternative. Three small prescription-bottle hash marks in Accent Blue sit along the truck's base. Below the truck, two-tone centered headline: "Mail Order Economics" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "When It Saves, When It Does Not" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
+6. Export as PNG
 
 ---
 

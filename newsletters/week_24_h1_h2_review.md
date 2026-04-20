@@ -171,11 +171,11 @@ Have you pulled your H1 numbers yet? If you found something unexpected in the da
 ### Substack Header Image Prompt
 
 **Dimensions:** 2240 x 1200 px
-**Template:** Data Highlight
+**Template:** Topic Icon
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Feature two side-by-side rounded rectangles: left rectangle in white with "H1" in bold deep teal-blue (#015880) text and "Review" below in gray (#4D4D4D), right rectangle outlined in light blue (#A7E0FA) with "H2" in bold light blue (#A7E0FA) text and "Preview" below in white. An arrow connects the two rectangles left to right. Below both, centered white sans-serif text reads "First Half Done. Now What?" in bold (80-96pt equivalent). No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design semicircle dial icon in white, roughly 400px wide, divided into two halves labeled "H1" and "H2" in deep teal-blue (#015880) bold sans-serif text inside each half. A dial needle in Accent Blue (#A7E0FA) points to the boundary between H1 and H2, with a short motion arc implying transition. The H1 half is rendered filled in Accent Blue (#A7E0FA) indicating completion; H2 remains open white. Six small tick marks along the dial's outer arc in Accent Blue represent the six months of H1. Below the dial, two-tone centered headline: "H1 Review" in white bold sans-serif (80-96pt), with "What the First Half Shows" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -264,14 +264,14 @@ The employers who walk into renewal conversations with these five numbers docume
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). A large "5" in bold deep teal-blue (#015880) sans-serif typography (160-180pt equivalent) serves as the hero element, positioned slightly left of center. To the right, five small horizontal bar chart segments stack vertically in light blue (#A7E0FA), representing the five key metrics. Below the "5" in deep teal-blue (#015880) sans-serif text (36-48pt): "The Numbers That Drive Your Negotiation." Faint data grid lines in light gray (#E0E0E0) as background texture. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized five-tile dashboard icon in deep teal-blue (#015880) outline, roughly 400px wide, with "5 NUMBERS" rendered in deep teal-blue bold sans-serif text across the top header bar. Each of the five tiles contains a stylized metric icon (GER, PMPM, specialty %, rebate, claimants) in deep teal-blue. The middle tile is highlighted in Accent Blue (#A7E0FA) with a thin border ring as the primary accent. Three small trend-arrows in Accent Blue (#A7E0FA) point upward from three of the tiles indicating growth. Five hash-mark ticks in Accent Blue sit evenly spaced along the dashboard's bottom edge. Below the dashboard, two-tone centered headline: "Five Numbers" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "That Determine Your Leverage" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
-4. Add "Field Note" label - top right
-5. Add PBS logo (dark version) - bottom right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

@@ -128,13 +128,13 @@ Have you pulled your mid-year claims data yet? If you have started identifying p
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design magnifying glass icon over a bar chart with one bar highlighted in red/orange (250-300px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "Mid-Year Claims Red Flags" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "The Signals Your Data Is Sending Right Now." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design calendar icon in deep teal-blue (#015880) outline, roughly 400px wide, with "MID-YEAR" rendered in deep teal-blue bold sans-serif text across the top month-header row. A magnifying glass icon in Accent Blue (#A7E0FA) hovers over the calendar grid, centered on a data cell that is highlighted. Inside the calendar grid, five small trend-line segments ascend and descend across the weekly rows, with one line rendered in Accent Blue (#A7E0FA) showing a clear upward spike. Six small hash-mark tick marks in Accent Blue (#A7E0FA) sit along the calendar's bottom edge representing the six months of H1. Below the calendar, two-tone centered headline: "Five Claims Patterns" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "That Signal Trouble" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) top-left
-4. Add PBS logo (white version) bottom-right, 100-120px width
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 
@@ -207,14 +207,14 @@ After reviewing these three reports, bring one question to your next meeting wit
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Centered is a stylized document/report icon in deep teal-blue (#015880) outline with a bar chart overlay showing an upward trend line in light blue (#A7E0FA). Below in deep teal-blue (#015880) sans-serif text (36-48pt): "Reading the Report That Matters." Three small icons below the text represent report types: a list icon (utilization summary), a line chart icon (cost trending), and a dollar sign with arrow (rebate performance), all in deep teal-blue (#015880) outline style. Faint grid pattern in light gray (#E0E0E0) as background texture. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized utilization-report document in deep teal-blue (#015880) outline, roughly 300px tall, with "UTILIZATION REPORT" rendered in deep teal-blue bold sans-serif text across the top banner. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion annotating a row on the report, with one circled data point highlighted in Accent Blue. Four small margin-note brackets in Accent Blue (#A7E0FA) sit along the document's right edge, each pointing at a report row. Five bar-chart hash marks ascending in the report body render in alternating deep teal-blue and Accent Blue. Below the document, two-tone centered headline: "How to Read" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "a PBM Utilization Report" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) top-left
-4. Add "Field Note" label top-right
-5. Add PBS logo (dark version) bottom-right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

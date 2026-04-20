@@ -153,13 +153,13 @@ Have you started your renewal preparation yet? If you have a timeline that works
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large white flat-design calendar icon with a countdown "90" displayed prominently (250-300px), simplified and minimal with no gradients. Below the icon, centered white sans-serif text reads "The 90-Day Renewal Window" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "What to Do Before Your PBM Sets the Terms." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design stopwatch icon in deep teal-blue (#015880), roughly 400px wide, with "90" rendered in deep teal-blue bold sans-serif text inside the watch face (120-140pt equivalent). The stopwatch hands point to different positions suggesting countdown in progress. The outer ring of the stopwatch face is rendered in Accent Blue (#A7E0FA) with a small "DAYS" label in Accent Blue just below the numeral. Ninety small tick marks in Accent Blue (#A7E0FA) sit evenly around the watch face perimeter. Below the stopwatch, two-tone centered headline: "The 90-Day" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "Renewal Window" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) top-left
-4. Add PBS logo (white version) bottom-right, 100-120px width
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 
@@ -231,14 +231,14 @@ All three conversations should happen before the PBM presents renewal terms. Onc
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Centered is a stylized calendar icon in deep teal-blue (#015880) outline with three conversation bubble icons branching from it in light blue (#A7E0FA). Below in deep teal-blue (#015880) sans-serif text (36-48pt): "Three Conversations. Before Renewal." Small icons below represent each conversation: a handshake (broker), a shield (stop-loss), and a group of people (internal team), all in deep teal-blue (#015880) outline. Faint grid pattern in light gray (#E0E0E0) as background texture. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are three flat-design speech-bubble icons in deep teal-blue (#015880) outline, arranged in an arc, each roughly 180px wide, labeled "01 BROKER," "02 COUNSEL," "03 STOP-LOSS" in deep teal-blue bold sans-serif text inside the bubbles. A short arrow in Accent Blue (#A7E0FA) connects each bubble to the next in sequence, implying a conversation flow. The "03 STOP-LOSS" bubble is highlighted in Accent Blue (#A7E0FA) as the active conversation. Three numbered dots (1, 2, 3) in Accent Blue (#A7E0FA) sit below each bubble. Below the arc, two-tone centered headline: "Three Conversations" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Before Renewal Season" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) top-left
-4. Add "Field Note" label top-right
-5. Add PBS logo (dark version) bottom-right, 100-120px width
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---

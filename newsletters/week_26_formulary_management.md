@@ -160,17 +160,19 @@ Have you ever asked your PBM how your formulary differs from their standard? If 
 ### Substack Header Image Prompt
 
 **Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
 
 **Prompt:**
 
-Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large white flat-design pill grid icon (3x3 arrangement of different pill shapes) with one pill highlighted in light blue (#A7E0FA) and a magnifying glass over it (250-300px). Below, centered white sans-serif text: "Who Really Controls Your Drug List" in bold (80-96pt). Below that, light blue (#A7E0FA) text: "The Formulary Independence Audit." No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design open book icon in white, roughly 400px wide, with "FORMULARY" rendered in deep teal-blue (#015880) bold sans-serif text across the open pages. A decision-fork illustration rises from the center of the book, splitting into two paths: the left path labeled "CLINICAL" in white with clinical-pathway icons, the right path labeled "REBATE" in Accent Blue (#A7E0FA) with rebate-math icons, implying the fork each drug travels. The right path (rebate) is rendered with emphasis and its arrow tip in Accent Blue. Five small pill-tier hash marks in Accent Blue (#A7E0FA) sit along the book's spine at the center. Below the book, two-tone centered headline: "Your Formulary" in white bold sans-serif (80-96pt), with "Whose Interests Win?" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
-1. Generate base image
+1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" badge top-left
-4. Add PBS logo (white) bottom-right, 100-120px
-5. Preview at thumbnail size, export as PNG
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
 
 ---
 
@@ -236,17 +238,18 @@ Your broker or consultant can help you interpret the answers and benchmark them 
 ### Field Note Header Image Prompt
 
 **Dimensions:** 1200 x 600 px
+**Template:** Data Highlight
 
 **Prompt:**
 
-A clean, professional digital graphic at 1200 x 600 pixels with a solid white background (#FFFFFF). Centered is a stylized pill bottle icon in deep teal-blue (#015880) outline with a question mark overlay in light blue (#A7E0FA). Below in deep teal-blue (#015880) sans-serif text (36-48pt): "Three Questions. One Answer." Three small numbered circles (1, 2, 3) in deep teal-blue below the text. Faint grid pattern in light gray (#E0E0E0) as background texture. A small "FIELD NOTE" badge in light blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized pill bottle icon in deep teal-blue (#015880) outline, roughly 280px tall, with "3 QUESTIONS" rendered in deep teal-blue bold sans-serif text across the bottle's label. A question mark overlay in Accent Blue (#A7E0FA) sits on the bottle's cap. Three numbered circles (1, 2, 3) in Accent Blue (#A7E0FA), each roughly 50px wide, arrange in a horizontal row below the bottle, connected by a short arrow path in Accent Blue implying sequence. Three small hash-mark underlines in Accent Blue sit beneath each numbered circle. Below the bottle and circles, two-tone centered headline: "Three Questions" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "One Answer" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
-1. Generate base image
-2. Open in Canva at 1200 x 600 px
-3. Add "Benefit Blind Spots" badge top-left
-4. Add "Field Note" label top-right
-5. Add PBS logo bottom-right, 100-120px
+1. Generate the base image using the prompt above
+2. Open in Canva and resize to 1200 x 600 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
 ---
