@@ -519,21 +519,87 @@ Q4 content starts next Monday.
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: renewal readiness scorecard. 15 factors, 75 points, one answer. This is what 13 weeks of preparation converges into. Read: [LINK]
-**Midday — Origin Story:** Thirteen weeks ago, I started this quarter with a question: what if we gave every employer the same renewal preparation framework we use with our clients? Every tool, every scorecard, every comparison library. Not the consulting relationship (that requires working together on your specific data) but the methodology. The frameworks. The questions. I believe the employers who ask the right questions negotiate better outcomes regardless of who is helping them ask.
+
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: renewal readiness scorecard. 15 factors, 75 points, one answer. This is what 13 weeks of preparation converges into.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+Thirteen weeks ago I started this quarter with a question: what if we gave every employer the same renewal preparation framework we use with our clients? Every tool, every scorecard, every comparison library. Not the consulting relationship (that requires working together on your specific data) but the methodology. The frameworks. The questions. I believe the employers who ask the right questions negotiate better outcomes regardless of who is helping them ask.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+Building this quarter's content required us to share the methodology we use with paying clients. I thought about whether that was a good business decision. Here is what I concluded: the employers who need our methodology the most are the ones who do not know it exists. Sharing it does not reduce the value of our consulting. It increases the number of employers who understand what good looks like. And the ones who want help applying it to their specific situation know where to find us.
 
 ## Tuesday
-**Morning:** Prepared vs. unprepared. Same PBM. Same market. Different outcome. I have watched this pattern play out for years. The variable is never the PBM's willingness to negotiate. It is the employer's readiness to negotiate. Preparation is the equalizer.
+
+**Morning (7-8 AM) — Origin Story #1:**
+A benefits director told me she had used the week-by-week Q3 content as a checklist for her own renewal preparation. No consulting engagement. Just the content. Her plan closed a renewal with substantially better terms than the prior cycle. That email made the quarter worth it. The point of publishing the methodology was exactly that: employers doing the work themselves with tools we had built. She did. The outcome followed.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+Prepared vs. unprepared. Same PBM. Same market. Different outcome. I have watched this pattern play out for years. The variable is never the PBM's willingness to negotiate. It is the employer's readiness to negotiate. Preparation is the equalizer.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor asked me once what the "lowest-effort" way to improve her renewal outcome would be. My honest answer: start preparing earlier. Everything else compounds from there. She asked for a concrete deadline. I gave her one: June 1 of her renewal year. She put it on her calendar. That calendar date is the simplest renewal intervention I recommend. The work is easier when it starts on time.
 
 ## Wednesday
-**Morning:** If you followed one week of this quarter's content, make it this one. The readiness scorecard pulls together every framework into a single assessment. Score yourself. The gaps become your to-do list. The strengths become your confidence.
+
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A CFO scored her plan against the readiness scorecard and came back with a 42. She was embarrassed. I told her that was a great score. Not because 42 is high, but because she had the honesty to take the test seriously and accept the result. Most sponsors never score themselves. A low honest score beats an assumed high score every time. The 42 became a to-do list. Twelve weeks later, the score was in the 60s.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I spent a weekend reviewing the 13 tools we had published this quarter to make sure the readiness scorecard aligned with all of them. It took hours. Internal consistency matters. A framework should hold up across every piece of content it references. Sponsors lose trust quickly when the tools contradict each other. Alignment is unglamorous work. It pays off every time a reader follows a cross-reference and finds the answer where it was promised.
 
 ## Thursday
-**Morning:** New field note: the first meeting with your PBM at renewal. What to bring, what to ask, and what not to do. The first meeting sets the tone. Preparation shows immediately. So does its absence. Read: [LINK]
+
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: the first meeting with your PBM at renewal. What to bring, what to ask, and what not to do. The first meeting sets the tone. Preparation shows immediately. So does its absence.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+My worst first-meeting story: I arrived with a client who had scored below 30 on the readiness scorecard and had not told me. The PBM rep noticed immediately. The meeting went sideways within 20 minutes. We recovered in subsequent meetings, but the ground we had to make up was substantial. The lesson: honesty with your advisor before the meeting is how the meeting stays winnable. Hiding preparation gaps from your own consultant is a bad strategy.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client's HR director told me she used to dread the first PBM renewal meeting. After running the readiness scorecard and building the term sheet, she said she found herself "looking forward" to the meeting. That shift is what preparation does. Confidence is an outcome of doing the work, not a personality trait. The readiness scorecard moves people from dread to anticipation. Only because they have done the work. The shift is earned.
 
 ## Friday
-**Morning — Forward Look:** Q4 on Benefit Blind Spots: renewal execution. How negotiations play out. What we are seeing in the market. Implementation decisions that determine whether contract improvements translate to real savings. The preparation is done. The execution starts now.
-**Afternoon — Honest Post:** Building this quarter's content required us to share the methodology we use with paying clients. I thought about whether that was a good business decision. Here is what I concluded: the employers who need our methodology the most are the ones who do not know it exists. Sharing it does not reduce the value of our consulting. It increases the number of employers who understand what good looks like. And the ones who want help applying it to their specific situation know where to find us.
+
+**Morning (7-8 AM) — Origin Story #1:**
+If you followed one week of this quarter's content, make it this one. The readiness scorecard pulls together every framework into a single assessment. Score yourself. The gaps become your to-do list. The strengths become your confidence. This is the capstone of Q3 for a reason. The work of the full quarter converges here.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Q4 on Benefit Blind Spots: renewal execution. How negotiations play out. What we are seeing in the market. Implementation decisions that determine whether contract improvements translate to real savings. The preparation is done. The execution starts now.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker asked me recently whether publishing the full preparation framework would "hurt my business." My honest answer: it has grown it. The sponsors who read the framework and try to apply it themselves discover pretty quickly that their data, their contract, and their circumstances are specific enough that they want help. The framework is the reason they call. Free content does not compete with paid consulting when the consulting is the application to your specific plan.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+I had a benefits director message me over the weekend asking if she could share the readiness scorecard with her state's peer network. Absolutely yes. The tools work better when they travel. A peer network scoring itself consistently across plans produces better benchmarking than anything an individual consultant can build. I want the tools used widely. Attribution is optional. Adoption is everything.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+15 factors across 5 categories: Data and Benchmarking, Contract Analysis, Market Evaluation, Clinical Program Assessment, and Negotiation Preparation. Each factor scored 1-5. 75 points total. Below 45 is not ready. 45-60 is moderate. Above 60 is strong. Below 45 and your timeline allows, delay. Above 60 and you can probably negotiate.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A plan sponsor told me after running the scorecard that the biggest surprise was not the score but what the scoring conversation did for her internal team. Finance, HR, and benefits leadership had never sat in the same room to score the plan together. The score was secondary. The alignment was primary. Tools that produce alignment have multiplier effects beyond their stated purpose. That is the quiet value of shared frameworks.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A young pharmacist reached out recently asking how the content strategy fit into the consulting practice. My honest answer: the writing is part of the practice. Writing forces me to clarify what I think. Publishing forces me to clarify it quickly. Readers find me through the writing. Clients become clients because they read my work and decided it applied to their plan. The content is not a marketing funnel. It is a discipline that sharpens my advisory work.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The renewal readiness scorecard is the summary instrument. It does not replace the deeper work in the individual frameworks (90-day prep, PBM evaluation, clinical program audit, specialty assessment, contract language library). It synthesizes them. The full discipline is the sequence of individual frameworks. The scorecard is how you check your progress across all of them.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client thanked me at the end of a successful renewal by saying, "I negotiated this one myself." My response: no, you did. I built the tools. You used them. You had the conversations. You made the decisions. The credit belongs with you, not with the framework. That is the best outcome of this quarter's work. Sponsors who used the tools to negotiate better renewals on their own terms. The goal was always capability, not dependency. We hit the goal.
 
 ## Engagement Reply Templates
 

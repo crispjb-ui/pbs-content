@@ -416,20 +416,87 @@ Next week: a 15-factor renewal readiness scorecard. Five categories. 75 points. 
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: contract language that costs you. Two words stopped me in a client's contract. "Commercially reasonable efforts" where "best efforts" should have been. Ten provisions compared: weak, moderate, strong. Read: [LINK]
-**Midday — Origin Story:** I trained as a pharmacist, not a contract attorney. But reviewing hundreds of PBM contracts annually taught me that the clinical pharmacist who understands contract language serves employers better than the one who does not. The pharmacy benefit is a clinical program governed by a legal document. Both matter. I read both.
+
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: contract language that costs you. Two words stopped me in a client's contract. "Commercially reasonable efforts" where "best efforts" should have been. Ten provisions compared: weak, moderate, strong.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I trained as a pharmacist, not a contract attorney. But reviewing hundreds of PBM contracts annually taught me that the clinical pharmacist who understands contract language serves employers better than the one who does not. The pharmacy benefit is a clinical program governed by a legal document. Both matter. I read both.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I was reviewing a client's contract when two words stopped me. The guarantee provision used "commercially reasonable efforts" where it should have said "best efforts." That distinction sounds like legal hairsplitting until you try to enforce the guarantee. "Commercially reasonable efforts" gives the PBM an exit. "Best efforts" does not. The employer had been relying on a promise the contract did not actually make.
 
 ## Tuesday
-**Morning:** "Competitive pricing." "Standard practices." "Commercially reasonable efforts." Professional language. Looks fine on the page. Functionally empty when you try to enforce it. The difference between these phrases and their enforceable alternatives can be worth six figures over a contract term.
+
+**Morning (7-8 AM) — Origin Story #1:**
+A benefits counsel once told me she was surprised that a pharmacist was flagging legal language in a PBM contract. I told her: the legal language is also clinical language. The audit provision determines whether clinical program savings can be verified. The notification clause determines whether members learn about a formulary change in time. Separating clinical from legal in a PBM contract is a category mistake. They are the same thing.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+"Competitive pricing." "Standard practices." "Commercially reasonable efforts." Professional language. Looks fine on the page. Functionally empty when you try to enforce it. The difference between these phrases and their enforceable alternatives can be worth six figures over a contract term.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A plan sponsor asked me once to "just tell her" which phrases to watch for without having to read the contract herself. I told her I would build a reference she could use, but she still had to read the contract at least once. Reading is where understanding comes from. Reference documents speed up subsequent reads. They do not replace the first one. She read it. Her comfort with PBM negotiations changed permanently after that.
 
 ## Wednesday
-**Morning:** The provision most employers overlook: data ownership and portability. Your data should belong to you, delivery within 30 days, in standard format, during and after termination. Without this, your exit options are limited by the departing PBM's willingness to cooperate. That is not a negotiating position.
+
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The provision most employers overlook: data ownership and portability. Your data should belong to you, delivery within 30 days, in standard format, during and after termination. Without this, your exit options are limited by the departing PBM's willingness to cooperate. That is not a negotiating position. I now treat this clause as essential in every contract review.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO told me after a contract review that he "wished he had known" which phrases to flag three years earlier. I told him everyone feels that way after their first serious contract review. The good news: the second review is much faster. The learning compounds. I have never met a CFO who regretted the time spent on the first review. Most wish they had done it sooner.
 
 ## Thursday
-**Morning:** New field note: data ownership and portability. The clause nobody reads until they need it. Then it is the most important provision in the contract. Read: [LINK]
+
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: data ownership and portability. The clause nobody reads until they need it. Then it is the most important provision in the contract.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I worked on a PBM transition where the outgoing PBM delayed claims data delivery by weeks. The contract had standard data language, no specific timeline. The delay nearly derailed the transition implementation. After that engagement, I drafted a 30-day delivery requirement into every contract. Nobody has missed that 30-day window since. Specific timelines hold. Vague commitments do not.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits director thanked me once for flagging a "no amendments without approval" clause during a contract review. The PBM had proposed broad unilateral amendment rights. The edit I made was three lines long. Those three lines preserved the plan's ability to reject amendments that reduced its protections. Small edits can carry large implications. Line-by-line review is the work.
 
 ## Friday
-**Morning — Forward Look:** Next week: renewal readiness scorecard. 15 factors. 75 points. Everything from Q3 converges into one assessment. Are you ready to negotiate?
+
+**Morning (7-8 AM) — Origin Story #1:**
+I have a rule I apply to every PBM contract review: if a provision can be rendered meaningless by a single undefined phrase, the phrase needs definition or the provision needs deletion. Most weak contract language fails this test. "Reasonable." "Standard." "Industry-accepted." None of them carry their own meaning. Any of them can be interpreted by the PBM at the time of enforcement. That is not protection.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week: renewal readiness scorecard. 15 factors. 75 points. Everything from Q3 converges into one assessment. Are you ready to negotiate?
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A broker pushed back on my recommendation to strengthen a termination clause because "we don't want to look like we're planning to leave." I told her that is exactly what you want to look like. Not because you are leaving, but because the credibility of departure is what gives the current relationship weight. PBMs negotiate harder with clients who can walk. That is not adversarial. That is structural.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy professor once said that pharmacy practice had drifted away from "reading the fine print" over the years. He meant it about prescribing labels, but I have applied it to PBM contracts. The profession is strongest when it reads what everyone else glosses over. Contracts are fine print that moves real dollars. Reading them carefully is pharmacy work, even if the product is a document.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Ten provisions that reveal the economics of your PBM contract: pricing methodology, rebate pass-through definition, audit scope and access, performance guarantee penalties, formulary change notification, termination for convenience, data ownership and portability, claim adjudication standards, network access guarantees, and amendment and modification rights. Each one has weak, moderate, and strong versions. Knowing the difference is the contract review.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A plan sponsor asked me once if I got tired of reading contracts. Honestly, no. Every contract has something new in it. A clause I had not seen worded that way. An exclusion I had not tracked. A timing requirement that had shifted from one market standard to another. The learning is constant. The work stays interesting because the language keeps evolving. That is the quiet pleasure of this job.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A young pharmacist asked me what the "secret" to reading PBM contracts was. My honest answer: there is no secret. It is pattern recognition built over thousands of pages. What looks like intuition is actually memory. The second-best answer: read alongside a checklist of weak-language phrases. Use the checklist until you do not need it. Then you are reading like a contract reviewer.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The contract language library is a reference document, not a negotiating script. Bring it to every review. Mark up the current contract against it. The gaps between your contract and the strong-language benchmark are your negotiation agenda. Use the library to build the agenda, then use the 90-day prep framework to build the case, then use the renewal playbook to close the terms.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client's attorney told me once that she appreciated working alongside a pharmacist-consultant because I read the technical provisions while she read the legal provisions. We covered more ground together than either of us could alone. That is the right way to review a PBM contract. Pharmacist plus attorney. Neither replaces the other. Each reads what the other misses. The client benefits when both disciplines are in the room.
 
 ## Engagement Reply Templates
 
