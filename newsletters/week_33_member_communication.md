@@ -436,20 +436,87 @@ Next week: specialty drug management, and the assessment that reveals where your
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: communicating pharmacy changes. Two employers, same biosimilar program, same PBM. One got a complaint wave. The other got zero. The difference was not clinical. It was messaging. Five scenario templates this week. Read: [LINK]
-**Midday — Origin Story:** I have watched smart pharmacy decisions get reversed because the communication was bad. An employer implemented a clinically sound formulary change, the complaints piled up, HR got overwhelmed, and leadership reversed the decision. The clinical rationale was right. The messaging was wrong. That reversal cost the plan more than the change would have saved. Communication is not optional. It is part of the strategy.
+
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: communicating pharmacy changes. Two employers, same biosimilar program, same PBM. One got a complaint wave. The other got zero. The difference was not clinical. It was messaging. Five scenario templates this week.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I have watched smart pharmacy decisions get reversed because the communication was bad. An employer implemented a clinically sound formulary change, the complaints piled up, HR got overwhelmed, and leadership reversed the decision. The clinical rationale was right. The messaging was wrong. That reversal cost the plan more than the change would have saved. Communication is not optional. It is part of the strategy.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A member called me once in tears after receiving a formulary change letter that used the phrase "your medication is being removed." She thought her drug was no longer covered. Her drug was still covered at a different tier. The letter was factually precise and emotionally catastrophic. I rewrote the template with the HR team that afternoon. Words matter more than most employers realize when members are on the receiving end.
 
 ## Tuesday
-**Morning:** "We are switching you to a biosimilar." What the member hears: "They are taking away my medication and replacing it with something cheaper." What is actually happening: FDA-approved, clinically equivalent, same or lower copay. The gap between reality and perception is a communication problem, not a clinical problem.
+
+**Morning (7-8 AM) — Origin Story #1:**
+Working behind a pharmacy counter taught me something every benefits consultant should experience once. Watching a member receive a formulary change notice at the pharmacy, not a month earlier by mail, is a different kind of moment. The pharmacist becomes the messenger. The plan becomes the villain. The communication strategy was built around the wrong delivery point. Counter-level reality should inform member communication design.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+"We are switching you to a biosimilar." What the member hears: "They are taking away my medication and replacing it with something cheaper." What is actually happening: FDA-approved, clinically equivalent, same or lower copay. The gap between reality and perception is a communication problem, not a clinical problem.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits director asked me to review her member letter before it went out. I marked it up. She pushed back on one edit: replacing "cost management" with "clinical review." She said the first was more honest. I said it was also more inflammatory. The second was still honest and reduced escalations. She accepted the edit. Complaints dropped. Member letters are not the place for internal honesty. They are the place for member clarity.
 
 ## Wednesday
-**Morning:** The most common communication mistake: notifying members without notifying their prescribers first. The member gets a letter. Calls their doctor. The doctor has no idea. Both are frustrated. Both call HR. Entirely preventable. Notify providers 60 days before. Members 45 days before. That 15-day gap changes everything.
+
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+The most common communication mistake I see: notifying members without notifying their prescribers first. The member gets a letter. Calls their doctor. The doctor has no idea. Both are frustrated. Both call HR. Entirely preventable. Notify providers 60 days before. Members 45 days before. That 15-day gap changes everything.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A prescriber told me once that she had to stop taking calls about formulary changes because the volume was overwhelming her practice. The employer who had produced those calls had sent letters to thousands of members without notifying any providers. I built a prescriber-notification protocol with her the following week. The protocol is now in every client engagement. Prescribers are not an afterthought. They are the first audience.
 
 ## Thursday
-**Morning:** New field note: provider communication, the step most plans skip. When the prescriber is informed and supportive, the member accepts the change. When the prescriber is surprised, the member resists. Same change. Different provider awareness. Different outcome. Read: [LINK]
+
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: provider communication, the step most plans skip. When the prescriber is informed and supportive, the member accepts the change. When the prescriber is surprised, the member resists. Same change. Different provider awareness. Different outcome.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I had a plan sponsor tell me she had always assumed the PBM handled prescriber notification as part of the formulary change process. Most do not. It is the kind of detail everyone assumes someone else covers. That assumption is why I now ask explicitly during every transition planning: "who is notifying prescribers, and on what timeline?" The silence that sometimes follows is the signal. Nobody was going to. Until asked.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+An HR director told me once that she had been trained to think about member communication as "corporate communication." I pushed her to think about it as patient communication. Different discipline. Different tone. Different level of care. She updated her team's training. The next letter went out in a different voice. The feedback from members was noticeably different. Tone changes outcomes.
 
 ## Friday
-**Morning — Forward Look:** Next week: specialty drug management. Eight management levers, three scoring dimensions, one assessment that tells you where your plan's specialty strategy has gaps. Specialty defines your cost trajectory now.
+
+**Morning (7-8 AM) — Origin Story #1:**
+Communication is not a soft skill. It is a strategy discipline. The sponsors who treat it that way produce better member experiences, fewer escalations, and stronger plan economics over time. The ones who treat it as "HR can handle that letter" tend to see their good pharmacy decisions get reversed by loud, avoidable blowback. I push clients toward the first path because I have watched the second path end too many good strategies.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week: specialty drug management. Eight management levers, three scoring dimensions, one assessment that tells you where your plan's specialty strategy has gaps. Specialty defines your cost trajectory now.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A client called me once about a biosimilar transition going sideways in its first week. Complaints, pharmacist confusion, prescriber frustration. I asked what the communication plan had been. She said there had not been a formal plan. We built one in 48 hours and rolled it out to every member on the affected drug. The next week was quiet. The plan was still sound. The communication just needed to catch up.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A pharmacy school professor told me that the most important sentence in a clinical conversation is usually the first one. "Mrs. Smith, your doctor has reviewed your medications with me." That sentence frames the conversation. I have tried to bring that same framing to member communication templates. The first sentence does the most work. Invest there.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Five communication scenarios that change outcomes: formulary tier change, biosimilar transition, specialty pharmacy routing change, prior authorization implementation, and pharmacy network change. Each has a template with specific language to use and specific phrases to avoid. The templates travel between clients because human response to pharmacy communication is consistent.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client's call center lead thanked me once for the FAQ document we built alongside a member letter. She said the FAQ was what made the week manageable. The letter triggered the questions. The FAQ gave her team consistent answers. Without the FAQ the team would have improvised. Improvised answers are how message drift begins. Prepared answers are how trust gets built.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A young HR director once asked me if member communication "really mattered" when the change was clinically justified. I told her: a clinically correct change poorly communicated can produce outcomes that look clinically wrong. Members do not evaluate the change. They evaluate the experience. Take the communication as seriously as the underlying strategy. The experience is the strategy from the member's point of view.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The coordination layer that matters: prescriber notification, call-center briefing, FAQ documentation, and pharmacy-counter reference materials. All four have to be ready before the first member letter goes out. If any one is missing, members encounter friction that erodes trust in the plan. All four is not perfection. All four is the minimum.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+I had a plan sponsor tell me after a smooth biosimilar transition that "nobody noticed." That was the best compliment she could give me. The best communication is the kind that does not feel like communication. Members got the information they needed at the moment they needed it. Prescribers were briefed. The call center had answers. Nothing went wrong. "Nobody noticed" is a technical achievement.
 
 ## Engagement Reply Templates
 

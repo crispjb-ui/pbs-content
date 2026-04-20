@@ -430,22 +430,87 @@ Next week: communicating pharmacy changes, and five scenario-specific templates 
 > **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
 
 ## Monday
-**Morning:** New on Benefit Blind Spots: clinical program ROI. A PBM reported $4.2 million in savings. Verified savings were a fraction. This week includes a six-program evaluation scorecard. Read: [LINK]
-**Midday — Origin Story:** As a pharmacist, I believe in clinical programs. PA, step therapy, DUR: these tools exist for good reasons. But as a consultant, I have learned to verify the math. The gap between reported and verified clinical savings is consistent across almost every audit we conduct. Believing in the programs and verifying the numbers are not contradictory. They are complementary.
+
+**Morning (7-8 AM) — Article Launch Teaser:**
+New on Benefit Blind Spots: clinical program ROI. A PBM reported $4.2 million in savings. Verified savings were a fraction. This week includes a six-program evaluation scorecard.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+As a pharmacist I believe in clinical programs. PA, step therapy, DUR: these tools exist for good reasons. But as a consultant I have learned to verify the math. The gap between reported and verified clinical savings is consistent across almost every audit we conduct. Believing in the programs and verifying the numbers are not contradictory. They are complementary.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+I reviewed a PBM's clinical savings report that claimed credit for a formulary-driven shift to generics under their "clinical management program." The shift happened because the brand went off-patent, not because the PBM intervened. The program claimed the savings. I have been skeptical of uncredited methodology ever since. Asking "what caused this specifically" is a muscle every plan sponsor should build.
 
 ## Tuesday
-**Morning:** Your PBM reports millions in clinical savings. The methodology is rarely shared. When it is shared, the assumptions rarely hold up. One request changes the conversation: the specific savings methodology and a sample calculation per program.
-**Midday:** Six programs. Six methodologies. The one that inflates the most consistently: DUR. Most drug interaction alerts are overridden by pharmacists because the prescriber already considered the interaction. Counting every alert as a savings event is not measurement. It is marketing.
+
+**Morning (7-8 AM) — Origin Story #1:**
+A pharmacist friend who worked at a PBM once showed me how clinical savings got calculated in her department. The inputs were reasonable. The multipliers were where the embellishment lived. She said the pressure to produce a big number was constant. That conversation taught me to ask about multipliers explicitly. Every PBM uses them. Some use them conservatively. Others do not.
+
+**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
+Six programs. Six methodologies. The one that inflates the most consistently: DUR. Most drug interaction alerts are overridden by pharmacists because the prescriber already considered the interaction. Counting every alert as a savings event is not measurement. It is marketing.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A benefits director asked me whether she should trust her PBM's clinical savings report. My answer: trust, but request the sample calculation. If the PBM can produce it, the number has a foundation. If they cannot, the number has a marketing department. She asked. The PBM produced. The number held up. That outcome is possible when the question gets asked clearly.
 
 ## Wednesday
-**Morning:** The therapy abandonment rate is the clinical program metric PBMs almost never report. If members who need specialty medications are giving up during step therapy because the process is too burdensome, the financial savings come at a clinical cost that does not appear in the savings report.
-**Midday — Origin Story:** I remember reviewing a PBM's clinical savings report that claimed credit for a formulary-driven shift to generics under their "clinical management program." The shift happened because the brand went off-patent, not because the PBM intervened. The program claimed the savings. I have been skeptical of uncredited methodology ever since.
+
+**Morning (7-8 AM) — Roundup Launch Teaser:**
+What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
+
+Read the roundup: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+A client's CFO challenged me on clinical program savings by asking whether the verification "really mattered" when the dollar amounts were small relative to total pharmacy spend. I pulled out the methodology document. The dollar amounts were not small when added up across six programs over a three-year contract term. The compounding impact was substantial. His perspective changed. Small-looking numbers add up when they repeat.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A nurse I worked with at a clinic called me furious once about a step therapy denial for a patient who clearly needed the target drug. I looked at the override process. It was byzantine by design. We wrote a shorter override protocol, walked it through with the PBM, and the next denial went through in hours instead of weeks. Clinical friction is often a contract design problem. Redesigning the contract fixes the friction.
 
 ## Thursday
-**Morning:** New field note: step therapy protocols. Where they help (categories with true clinical equivalence) and where they harm (categories where individual response matters). The override process determines whether step therapy is a cost tool or an access barrier. Read: [LINK]
+
+**Morning (7-8 AM) — Field Note Launch Teaser:**
+New field note: step therapy protocols. Where they help (categories with true clinical equivalence) and where they harm (categories where individual response matters). The override process determines whether step therapy is a cost tool or an access barrier.
+
+Read: [LINK]
+
+**Midday (11 AM-1 PM) — Origin Story #1:**
+I built my first clinical program audit framework for a client whose CFO did not believe a PBM could overstate savings by an order of magnitude. We ran the audit. The overstatement was real, documented, and defensible to challenge. He paid for the audit twice over in the true-up negotiation that followed. His skepticism became permanent after that engagement. Some lessons cost money to learn.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A PBM clinical pharmacist at one of my client's account teams told me she appreciated the rigor of my audit because it made her internal case for better methodology. Not every PBM employee is defending bad numbers. Some of them want better. Making space for the honest people inside the vendor is part of how the system gets better over time. I try to do that in every audit.
 
 ## Friday
-**Morning — Forward Look:** Next week: communicating pharmacy changes. The best pharmacy strategy fails without the right messaging. Five scenarios. Five template frameworks. Because the backlash is never about the clinical decision. It is about the letter.
+
+**Morning (7-8 AM) — Origin Story #1:**
+Early in my career I assumed clinical programs were mostly clinical. The rigorous ones are. The marketing-heavy ones are not. Distinguishing between the two is the core skill of clinical program oversight. The training for that distinction is reading the methodology documents alongside the clinical literature. It takes a pharmacist. It also takes someone who has read a lot of contracts. The combination is what makes the work possible.
+
+**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+Next week: communicating pharmacy changes. The best pharmacy strategy fails without the right messaging. Five scenarios. Five template frameworks. Because the backlash is never about the clinical decision. It is about the letter.
+
+**Afternoon (3-6 PM) — Origin Story #2:**
+A CFO told me recently that the clinical program audit had been the single highest-ROI engagement we had run for his plan. Not because the recovery was the largest. Because the future improvement was most sustainable. Once the methodology was cleaned up, the savings became defensible going forward. One-time recoveries fade. Clean methodology compounds.
+
+## Saturday
+
+**Morning (8-9 AM) — Origin Story #1:**
+My pharmacy school mentor told me that a good clinical pharmacist verifies everything and trusts nothing on paper. Her example was the Senior Care Rule: never trust a chart note without comparing it to the actual medication. The same rule applies to clinical program savings. Never trust the report. Verify against the data. The habit is the same. The context is different.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+The therapy abandonment rate is the clinical program metric PBMs almost never report. If members who need specialty medications are giving up during step therapy because the process is too burdensome, the financial savings come at a clinical cost that does not appear in the savings report.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A client asked me to measure something a PBM had not reported: the average time from first denial to final approval on her plan's step therapy program. The number was embarrassingly long. We used it to negotiate a faster-review provision at renewal. That provision produced measurable member-access improvements within a quarter. The metric the PBM was not tracking turned out to be the one the plan needed most. Watch what is missing.
+
+## Sunday
+
+**Morning (8-9 AM) — Origin Story #1:**
+A young pharmacist messaged me asking how to verify PBM clinical savings claims. My answer: ask for the sample calculation and then recreate it with your plan's data. If you can reproduce the number, the methodology is defensible. If you cannot, ask the PBM to show you the step you are missing. The exercise teaches you the method. The method teaches you the category.
+
+**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+Your PBM reports millions in clinical savings. The methodology is rarely shared. When it is shared, the assumptions rarely hold up. One request changes the conversation: the specific savings methodology and a sample calculation per program.
+
+**Afternoon (3-5 PM) — Origin Story #2:**
+A plan sponsor told me she felt bad challenging her PBM's clinical numbers because "they were trying to help." I reframed it for her: verification is not distrust. It is how a sponsor demonstrates fiduciary discipline. The PBM appreciates good clients who ask good questions because those relationships last longer. Verification strengthens the relationship. It does not weaken it. She relaxed into the question-asking.
 
 ## Engagement Reply Templates
 
