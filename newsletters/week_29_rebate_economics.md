@@ -138,6 +138,25 @@ Have you compared your rebate provisions to strong language benchmarks? If you h
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design money-flow diagram in deep teal-blue (#015880) (250-300px): three stacked dollar-sign icons connected by downward arrows representing the manufacturer-to-PBM-to-plan rebate chain, with a light blue (#A7E0FA) highlight on the middle dollar sign indicating where margin retention lives. Simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Rebate Economics" in bold (80-96pt equivalent). Below that, a smaller line in gray (#4D4D4D) reads "What the Report Does Not Show." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Three Rebate Report Red Flags That Signal Margin Retention

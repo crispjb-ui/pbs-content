@@ -123,6 +123,25 @@ Have you evaluated site-of-care for your plan's infusion therapies? If you have 
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered in the image is a large flat-design icon row in white (250-300px total): a hospital building, a physician office, an infusion chair, and a house icon, each separated by small arrow icons, representing the site-of-care cost ladder from highest-cost to lowest-cost setting. Simplified and minimal with no gradients. Below the icons, centered white sans-serif text reads "Site-of-Care Optimization" in bold (80-96pt equivalent). Below that, a smaller line in light blue (#A7E0FA) reads "The Cost Lever Most Plans Ignore." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (white version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## White Bagging vs. Brown Bagging: The Practical Differences

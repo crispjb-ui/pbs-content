@@ -140,6 +140,25 @@ Have you implemented a pharmacy change where the communication made or broke the
 
 ---
 
+### Substack Header Image Prompt
+
+**Dimensions:** 2240 x 1200 px
+**Template:** Topic Icon
+
+**Prompt:**
+
+Create a clean professional digital graphic at 2240 x 1200 pixels with a white background (#FFFFFF). Centered in the image is a large flat-design icon pair in deep teal-blue (#015880) (250-300px combined): a speech bubble overlapping with an envelope icon, representing member communication. The speech bubble has a light blue (#A7E0FA) highlight fill. Simplified and minimal with no gradients. Below the icons, centered deep teal-blue (#015880) sans-serif text reads "Communicating Pharmacy Changes" in bold (72-88pt equivalent, sized to fit). Below that, a smaller line in gray (#4D4D4D) reads "When Strategy Needs Messaging." No photographs, no realistic elements, no logos or watermarks. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF) only.
+
+**Post-Generation Steps:**
+1. Generate the base image using the prompt above
+2. Open in Canva at 2240 x 1200 px
+3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+4. Add PBS logo (dark version) - bottom right, 100-120px width
+5. Preview at Substack thumbnail size (~600x300) to confirm readability
+6. Export as PNG
+
+---
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Provider Communication: The Step Most Plans Skip
