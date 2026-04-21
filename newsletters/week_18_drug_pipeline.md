@@ -144,7 +144,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -242,7 +242,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -350,7 +350,7 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 **Layout:**
 
-**Top Header Bar:** Deep teal-blue (#015880) background with "GLP-1s: What Changed in 90 Days" in white Krona One (36-48pt). Small clock icon in Accent Blue (#A7E0FA) to the left of the title.
+**Top Header Bar:** Deep teal-blue (#015880) background with "GLP-1s: What Changed in 90 Days" in white Plex Sans SemiBold (36-48pt). Small clock icon in Accent Blue (#A7E0FA) to the left of the title.
 
 **Column Headers Row:** Left column: "90 Days Ago" in Gray (#4D4D4D) bold. Right column: "Today" in deep teal-blue (#015880) bold. Thin vertical dividing line in Primary Blue (#015880) between columns.
 
@@ -388,7 +388,7 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 - Right column ("Today") uses deep teal-blue (#015880) text with Accent Blue (#A7E0FA) tinted background cells
 - Each row separated by a thin light gray (#E0E0E0) horizontal rule
 - Small flat icons in each row match column color palette
-- Roboto body text (18-22pt), row topic labels in Roboto Bold (20-24pt)
+- Plex Sans body text (18-22pt), row topic labels in Plex Sans SemiBold (20-24pt)
 - Clean, professional format (not messy infographic style; this is a structured comparison)
 
 **Color Palette:**
@@ -413,9 +413,9 @@ A clean, professional vertical infographic at 1080 x 1350 pixels with a white ba
 2. Open in Canva at 1080 x 1350 px
 3. Replace placeholder text with the exact row content from the infographic concept above
 4. Adjust icon sizing and alignment (each icon ~40-50px, vertically centered in its row)
-5. Add "Benefit Blind Spots" badge (Roboto Bold, 16-20pt) in top-left corner of header bar
+5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 16-20pt) in top-left corner of header bar
 6. Add PBS logo (color version) in bottom-right of bottom bar, 80-100px width
-7. Add disclaimer text (Roboto, 10pt, gray) centered above bottom bar
+7. Add disclaimer text (Plex Sans Regular, 10pt, gray) centered above bottom bar
 8. Verify all text is legible at mobile viewing size (test at 50% zoom)
 9. Export as PNG
 
@@ -533,7 +533,7 @@ The full pipeline preparation framework is in this week's Pharmacy Benefits Brie
 
 #### One Number Carousel Slides (Template C)
 
-**Design:** Alternating Primary Blue (#015880) and white backgrounds. Krona One 96-120pt for stat. Roboto 20-24pt for context. Accent Blue (#A7E0FA) accent elements.
+**Design:** Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold 96-120pt for stat. Plex Sans Regular 20-24pt for context. Accent Blue (#A7E0FA) accent elements.
 
 **Slide 1 (Blue bg):**
 - Large white text: "5"

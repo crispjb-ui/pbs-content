@@ -158,7 +158,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -236,7 +236,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -317,19 +317,19 @@ More in this week's Pharmacy Benefits Briefing on the 90-day renewal window: [LI
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "The Self-Funded Renewal Decision Framework." Accent Blue subtitle: "5 questions. 90 days before renewal."
+**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "The Self-Funded Renewal Decision Framework." Accent Blue subtitle: "5 questions. 90 days before renewal."
 
-**Slide 2 - Q1 Benchmarking:** White background. Krona One Primary Blue: "Have we benchmarked in the last 12 months?" Roboto Gray body: "The PBM has benchmarked you. If your broker has not, you are negotiating blind."
+**Slide 2 - Q1 Benchmarking:** White background. Plex Sans SemiBold Primary Blue: "Have we benchmarked in the last 12 months?" Plex Sans Regular Gray body: "The PBM has benchmarked you. If your broker has not, you are negotiating blind."
 
-**Slide 3 - Q2 Guarantee Shortfalls:** Accent Blue background. Krona One Primary Blue: "Do we have shortfalls documented with dollar values?" Body: "Unpaid remediation is the easiest recovery in renewal. Most plans leave it on the table."
+**Slide 3 - Q2 Guarantee Shortfalls:** Accent Blue background. Plex Sans SemiBold Primary Blue: "Do we have shortfalls documented with dollar values?" Body: "Unpaid remediation is the easiest recovery in renewal. Most plans leave it on the table."
 
-**Slide 4 - Q3 Accept/Counter/Walk:** White background. Krona One: "Do we know what we would accept, counter, and walk from?" Body: "Without the walk line defined, you are negotiating the PBM's terms."
+**Slide 4 - Q3 Accept/Counter/Walk:** White background. Plex Sans SemiBold: "Do we know what we would accept, counter, and walk from?" Body: "Without the walk line defined, you are negotiating the PBM's terms."
 
-**Slide 5 - Q4 Independent Analysis:** Primary Blue background. White Krona One: "Is our broker running independent analysis?" Accent Blue body: "PBM-provided data never shows the PBM in a losing position. Independent pulls do."
+**Slide 5 - Q4 Independent Analysis:** Primary Blue background. White Plex Sans SemiBold: "Is our broker running independent analysis?" Accent Blue body: "PBM-provided data never shows the PBM in a losing position. Independent pulls do."
 
-**Slide 6 - CTA:** Primary Blue background. White Krona One: "Sponsors with the framework negotiate. Sponsors without it renew." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Sponsors with the framework negotiate. Sponsors without it renew." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds for slide-to-slide contrast. Krona One for headers (28-34pt), Roboto for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds for slide-to-slide contrast. Plex Sans SemiBold for headers (28-34pt), Plex Sans Regular for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 

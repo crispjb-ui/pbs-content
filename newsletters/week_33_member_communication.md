@@ -152,7 +152,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -200,7 +200,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -280,19 +280,19 @@ More in this week's Pharmacy Benefits Briefing on member communication: [LINKEDI
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "5 Conversations Strong Brokers Are Having in Q4 2026." Accent Blue subtitle: "Run all five and you walk into renewal as an advisor."
+**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "5 Conversations Strong Brokers Are Having in Q4 2026." Accent Blue subtitle: "Run all five and you walk into renewal as an advisor."
 
-**Slide 2 - Conv 1 Biosimilar Pipeline:** White background. Krona One Primary Blue: "The Biosimilar Pipeline." Body: "Humira baseline. Stelara next. Enbrel follows. Pre-launch coverage positioning beats post-launch chasing."
+**Slide 2 - Conv 1 Biosimilar Pipeline:** White background. Plex Sans SemiBold Primary Blue: "The Biosimilar Pipeline." Body: "Humira baseline. Stelara next. Enbrel follows. Pre-launch coverage positioning beats post-launch chasing."
 
-**Slide 3 - Conv 2 Stop-Loss Alignment:** Accent Blue background. Primary Blue Krona One: "Stop-Loss + Pharmacy Alignment." Body: "Gene therapies and high-cost claimants now move attachment math. Pharmacy and stop-loss belong in the same room."
+**Slide 3 - Conv 2 Stop-Loss Alignment:** Accent Blue background. Primary Blue Plex Sans SemiBold: "Stop-Loss + Pharmacy Alignment." Body: "Gene therapies and high-cost claimants now move attachment math. Pharmacy and stop-loss belong in the same room."
 
-**Slide 4 - Conv 3 PBM Evaluation Calendar:** White background. Krona One: "The 2026 PBM Evaluation Calendar." Body: "H2 2026 renewal = RFP planning Q4 2025. Most plans miss the window."
+**Slide 4 - Conv 3 PBM Evaluation Calendar:** White background. Plex Sans SemiBold: "The 2026 PBM Evaluation Calendar." Body: "H2 2026 renewal = RFP planning Q4 2025. Most plans miss the window."
 
-**Slide 5 - Conv 4 Fiduciary File:** Primary Blue background. White Krona One: "Fiduciary Documentation Review." Accent Blue body: "Selection memo, performance reviews, committee minutes. They are in the file or they are not."
+**Slide 5 - Conv 4 Fiduciary File:** Primary Blue background. White Plex Sans SemiBold: "Fiduciary Documentation Review." Accent Blue body: "Selection memo, performance reviews, committee minutes. They are in the file or they are not."
 
-**Slide 6 - CTA:** Primary Blue background. White Krona One: "Brokers who run all five enter as advisors. The rest enter as bystanders." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Brokers who run all five enter as advisors. The rest enter as bystanders." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One headers (28-34pt), Roboto body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold headers (28-34pt), Plex Sans body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 

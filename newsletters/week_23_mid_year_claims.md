@@ -133,7 +133,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -212,7 +212,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -422,40 +422,40 @@ The mid-year claims briefing covers why the first-half data window is the most v
 
 **Layout:**
 
-**Top Header Bar:** Deep teal-blue (#015880) background with "Five Mid-Year Claims Red Flags" in white Krona One (36-48pt). Small warning triangle icon in Accent Blue (#A7E0FA) to the left of the title.
+**Top Header Bar:** Deep teal-blue (#015880) background with "Five Mid-Year Claims Red Flags" in white Plex Sans SemiBold (36-48pt). Small warning triangle icon in Accent Blue (#A7E0FA) to the left of the title.
 
-**Subheader:** "Patterns in Your Data That Signal Trouble Before Renewal" in Gray (#4D4D4D) Roboto (18-20pt), white background.
+**Subheader:** "Patterns in Your Data That Signal Trouble Before Renewal" in Gray (#4D4D4D) Plex Sans Regular (18-20pt), white background.
 
 **Five Flag Rows:**
 
 **Row 1 — Specialty Concentration Shift:**
 - Red flag icon (triangular flag) in deep teal-blue (#015880), numbered "1"
-- "Specialty spend climbing as % of total" in Roboto Bold (20-22pt)
-- Sub-text: "High-cost therapies driving trend more than volume" in Gray (#4D4D4D) Roboto (16pt)
+- "Specialty spend climbing as % of total" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "High-cost therapies driving trend more than volume" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - Light gray (#E0E0E0) background
 
 **Row 2 — High-Cost Claimant Clustering:**
 - Flag icon numbered "2"
-- "Multiple members crossing cost thresholds" in Roboto Bold (20-22pt)
-- Sub-text: "Compresses stop-loss exposure faster than projected" in Gray (#4D4D4D) Roboto (16pt)
+- "Multiple members crossing cost thresholds" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Compresses stop-loss exposure faster than projected" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - White background
 
 **Row 3 — Utilization Anomalies:**
 - Flag icon numbered "3"
-- "Unexpected volume spikes by drug category" in Roboto Bold (20-22pt)
-- Sub-text: "May signal formulary gaps or PA criteria not working" in Gray (#4D4D4D) Roboto (16pt)
+- "Unexpected volume spikes by drug category" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "May signal formulary gaps or PA criteria not working" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - Light gray (#E0E0E0) background
 
 **Row 4 — Generic Efficiency Decline:**
 - Flag icon numbered "4"
-- "Generic fill rate or effective rate weakening" in Roboto Bold (20-22pt)
-- Sub-text: "Pricing erosion or missed substitution opportunities" in Gray (#4D4D4D) Roboto (16pt)
+- "Generic fill rate or effective rate weakening" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Pricing erosion or missed substitution opportunities" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - White background
 
 **Row 5 — Rebate Revenue Erosion:**
 - Flag icon numbered "5"
-- "Rebate per claim declining quarter over quarter" in Roboto Bold (20-22pt)
-- Sub-text: "Formulary mix shifting away from rebate-eligible products" in Gray (#4D4D4D) Roboto (16pt)
+- "Rebate per claim declining quarter over quarter" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Formulary mix shifting away from rebate-eligible products" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - Light gray (#E0E0E0) background
 
 **Alert Bar:** Accent Blue (#A7E0FA) background strip with warning icon. "2+ patterns = a signal, not noise" in deep teal-blue (#015880) bold text.
@@ -468,7 +468,7 @@ The mid-year claims briefing covers why the first-half data window is the most v
 - Each row has bold pattern name + smaller explanation
 - Alert bar creates visual break before the CTA
 - Clean, scannable format optimized for mobile viewing
-- Roboto throughout, Krona One for header only
+- Plex Sans Regular throughout, Plex Sans SemiBold for header only
 
 **Color Palette:**
 | Color | Hex | Usage |

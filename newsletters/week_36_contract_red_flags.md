@@ -137,7 +137,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -188,7 +188,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -252,7 +252,7 @@ Each pattern is visible in claims data by early November. Each one changes what 
 
 **Layout:** Vertical three-panel stack with a Q4 timeline running down the left edge. Each panel represents one pattern anchored to where in the quarter it typically spikes. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) highlights, white background.
 
-**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Cost Patterns That Show Up in Q4 Claims Every Year." Calendar icon in Accent Blue.
+**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Cost Patterns That Show Up in Q4 Claims Every Year." Calendar icon in Accent Blue.
 
 **Panel 1 - Copay Card Deductible Acceleration:**
 - Credit card icon, Primary Blue, 50px
@@ -274,7 +274,7 @@ Each pattern is visible in claims data by early November. Each one changes what 
 
 **Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Every pattern is visible by early November. That is the intervention window." PBS logo bottom-right, team@rxbs.org bottom-left.
 
-**Style:** Clean professional format. Roboto body (16-18pt), Krona One for panel headers (20-22pt). Icons flat, single-color, 40-50px.
+**Style:** Clean professional format. Plex Sans body (16-18pt), Plex Sans SemiBold for panel headers (20-22pt). Icons flat, single-color, 40-50px.
 
 ---
 

@@ -150,7 +150,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -205,7 +205,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -277,19 +277,19 @@ More in this week's Pharmacy Benefits Briefing on renewal negotiation: [LINKEDIN
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "The Self-Funded Plan Sponsor's 2027 Renewal Calendar." Accent Blue subtitle: "Every quarter has a gate. Every gate determines position."
+**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "The Self-Funded Plan Sponsor's 2027 Renewal Calendar." Accent Blue subtitle: "Every quarter has a gate. Every gate determines position."
 
-**Slide 2 - Q4 2026 Scope and Panel:** White background. Krona One Primary Blue: "Q4 2026: Build RFP Scope and Finalist Panel." Body: "If the current PBM is in the panel, the market check is real. If not, the conversation is about transition."
+**Slide 2 - Q4 2026 Scope and Panel:** White background. Plex Sans SemiBold Primary Blue: "Q4 2026: Build RFP Scope and Finalist Panel." Body: "If the current PBM is in the panel, the market check is real. If not, the conversation is about transition."
 
-**Slide 3 - Q1 2027 RFP Out:** Accent Blue background. Primary Blue Krona One: "Q1 2027: Issue RFP. Score Independently." Body: "Responses scored against the plan's methodology, not the PBM's spreadsheet. Reference checks on finalists."
+**Slide 3 - Q1 2027 RFP Out:** Accent Blue background. Primary Blue Plex Sans SemiBold: "Q1 2027: Issue RFP. Score Independently." Body: "Responses scored against the plan's methodology, not the PBM's spreadsheet. Reference checks on finalists."
 
-**Slide 4 - Q2 2027 Best and Final:** White background. Krona One: "Q2 2027: Best-and-Final With Specific Language." Body: "Generic improvement requests produce generic answers. Specific contract language demands produce commitments."
+**Slide 4 - Q2 2027 Best and Final:** White background. Plex Sans SemiBold: "Q2 2027: Best-and-Final With Specific Language." Body: "Generic improvement requests produce generic answers. Specific contract language demands produce commitments."
 
-**Slide 5 - Q3-Q4 2027 Execute and Monitor:** Primary Blue background. White Krona One: "Q3: Execute. Q4: Monitor." Accent Blue body: "Go-live milestones. Member comms 60 days pre-launch. First-90-days audit on the calendar."
+**Slide 5 - Q3-Q4 2027 Execute and Monitor:** Primary Blue background. White Plex Sans SemiBold: "Q3: Execute. Q4: Monitor." Accent Blue body: "Go-live milestones. Member comms 60 days pre-launch. First-90-days audit on the calendar."
 
-**Slide 6 - CTA:** Primary Blue background. White Krona One: "Plans that complete each phase negotiate. Plans that compress phases concede." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Plans that complete each phase negotiate. Plans that compress phases concede." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One headers (28-34pt), Roboto body (18-22pt). Quarter labels in top-right on slides 2-5.
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold headers (28-34pt), Plex Sans body (18-22pt). Quarter labels in top-right on slides 2-5.
 
 ---
 

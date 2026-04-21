@@ -146,7 +146,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -223,7 +223,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -306,7 +306,7 @@ More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** "5 Numbers Every Self-Funded CFO Should Pull Before Q3" - Primary Blue (#015880) background, Krona One header. Subtitle in Accent Blue: "All five are already in your claims data."
+**Slide 1 - Cover:** "5 Numbers Every Self-Funded CFO Should Pull Before Q3" - Primary Blue (#015880) background, Plex Sans SemiBold header. Subtitle in Accent Blue: "All five are already in your claims data."
 
 **Slide 2 - Net Cost Per Script (Trended):** Headline: "Trend, not total." Below: "Aggregate spend hides the direction. Quarter-over-quarter tells you where the plan is going."
 
@@ -318,7 +318,7 @@ More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN
 
 **Slide 6 - CTA:** Primary Blue (#015880) background. White text: "Pull these before your Q3 meeting. Not after." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Style:** Clean professional template. Roboto body, Krona One headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
+**Style:** Clean professional template. Plex Sans body, Plex Sans SemiBold headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
 
 #### First Comment
 
@@ -333,7 +333,7 @@ More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN
 
 **Layout:**
 
-**Top Header Bar:** Deep teal-blue (#015880) background with "How PBM Spread Pricing Works" in white Krona One (36-48pt). Small magnifying glass icon in Accent Blue (#A7E0FA) to the left of the title.
+**Top Header Bar:** Deep teal-blue (#015880) background with "How PBM Spread Pricing Works" in white Plex Sans SemiBold (36-48pt). Small magnifying glass icon in Accent Blue (#A7E0FA) to the left of the title.
 
 **Section 1 — The Transaction You See:**
 - Large box in light gray (#E0E0E0) background
@@ -343,7 +343,7 @@ More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN
 
 **Section 2 — The PBM (Center):**
 - Large box in Accent Blue (#A7E0FA) background
-- "PBM" in deep teal-blue (#015880) Krona One (48pt)
+- "PBM" in deep teal-blue (#015880) Plex Sans SemiBold (48pt)
 - Two arrows: one coming in from top ($500), one going out bottom ($350)
 - Center callout: "The Spread: $150" in deep teal-blue (#015880) bold, highlighted with light yellow (#FFF3CD) background
 
@@ -365,7 +365,7 @@ Three small info boxes side by side:
 - The "spread" callout in the center is the visual focal point
 - Clean arrows connecting the three tiers
 - Dollar amounts are illustrative and large enough to read at mobile size
-- Roboto body text (18-22pt), dollar amounts in Roboto Bold (28-36pt)
+- Plex Sans body text (18-22pt), dollar amounts in Plex Sans SemiBold (28-36pt)
 - Professional format, not messy infographic style
 
 **Color Palette:**
@@ -391,9 +391,9 @@ A clean, professional vertical infographic at 1080 x 1350 pixels with a white ba
 2. Open in Canva at 1080 x 1350 px
 3. Replace placeholder text with exact content from infographic concept above
 4. Adjust arrow sizing and alignment between tiers
-5. Add "Benefit Blind Spots" badge (Roboto Bold, 16-20pt) in top-left corner of header bar
+5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 16-20pt) in top-left corner of header bar
 6. Add PBS logo (color version) in bottom-right of bottom bar, 80-100px width
-7. Add disclaimer text (Roboto, 10pt, gray) centered above bottom bar
+7. Add disclaimer text (Plex Sans Regular, 10pt, gray) centered above bottom bar
 8. Verify all text is legible at mobile viewing size (test at 50% zoom)
 9. Export as PNG
 
@@ -517,46 +517,46 @@ The biosimilar strategy briefing covers why PBM rebate economics may not align w
 
 **Layout:**
 
-**Top Header Bar:** Deep teal-blue (#015880) background with "Biosimilar Readiness Checklist" in white Krona One (36-48pt). Small clipboard icon in Accent Blue (#A7E0FA) to the left of the title.
+**Top Header Bar:** Deep teal-blue (#015880) background with "Biosimilar Readiness Checklist" in white Plex Sans SemiBold (36-48pt). Small clipboard icon in Accent Blue (#A7E0FA) to the left of the title.
 
-**Subheader:** "6 Factors That Determine Whether Your Plan Captures Biosimilar Savings" in Gray (#4D4D4D) Roboto (18-20pt), white background.
+**Subheader:** "6 Factors That Determine Whether Your Plan Captures Biosimilar Savings" in Gray (#4D4D4D) Plex Sans Regular (18-20pt), white background.
 
 **Six Checklist Rows:**
 
 **Row 1 — Formulary Positioning:**
 - Checkbox icon (empty square) in deep teal-blue (#015880)
-- "Is the biosimilar at a preferred tier?" in Roboto Bold (20-22pt)
-- Sub-text: "Lower member cost-sharing drives adoption" in Gray (#4D4D4D) Roboto (16pt)
+- "Is the biosimilar at a preferred tier?" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Lower member cost-sharing drives adoption" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - Light gray (#E0E0E0) background
 
 **Row 2 — Auto-Substitution:**
 - Checkbox icon in deep teal-blue (#015880)
-- "Does your plan document allow substitution?" in Roboto Bold (20-22pt)
-- Sub-text: "Align with state law and FDA interchangeability" in Gray (#4D4D4D) Roboto (16pt)
+- "Does your plan document allow substitution?" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Align with state law and FDA interchangeability" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - White background
 
 **Row 3 — Rebate Transparency:**
 - Checkbox icon in deep teal-blue (#015880)
-- "Can you compare net cost: brand vs. biosimilar?" in Roboto Bold (20-22pt)
-- Sub-text: "The single most revealing data request" in Gray (#4D4D4D) Roboto (16pt)
+- "Can you compare net cost: brand vs. biosimilar?" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "The single most revealing data request" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - Light gray (#E0E0E0) background
 
 **Row 4 — Provider Education:**
 - Checkbox icon in deep teal-blue (#015880)
-- "Is your PBM educating prescribers?" in Roboto Bold (20-22pt)
-- Sub-text: "Passive outreach = lagging adoption" in Gray (#4D4D4D) Roboto (16pt)
+- "Is your PBM educating prescribers?" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Passive outreach = lagging adoption" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - White background
 
 **Row 5 — Member Communication:**
 - Checkbox icon in deep teal-blue (#015880)
-- "Do members understand the biosimilar option?" in Roboto Bold (20-22pt)
-- Sub-text: "Cost-sharing incentives are the strongest driver" in Gray (#4D4D4D) Roboto (16pt)
+- "Do members understand the biosimilar option?" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Cost-sharing incentives are the strongest driver" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - Light gray (#E0E0E0) background
 
 **Row 6 — Contract Language:**
 - Checkbox icon in deep teal-blue (#015880)
-- "Are biosimilar guarantees in your contract?" in Roboto Bold (20-22pt)
-- Sub-text: "Dispensing rate targets, transition timelines, net cost reporting" in Gray (#4D4D4D) Roboto (16pt)
+- "Are biosimilar guarantees in your contract?" in Plex Sans SemiBold (20-22pt)
+- Sub-text: "Dispensing rate targets, transition timelines, net cost reporting" in Gray (#4D4D4D) Plex Sans Regular (16pt)
 - White background
 
 **Scoring Bar:** Accent Blue (#A7E0FA) background strip. "3+ weak = meaningful unrealized savings" in deep teal-blue (#015880) bold text.
@@ -568,7 +568,7 @@ The biosimilar strategy briefing covers why PBM rebate economics may not align w
 - Checkbox icons are empty squares (not filled), suggesting the reader should self-assess
 - Each row has bold question + smaller sub-text explanation
 - Clean, scannable format optimized for mobile viewing
-- Roboto throughout, Krona One for header only
+- Plex Sans Regular throughout, Plex Sans SemiBold for header only
 
 **Color Palette:**
 | Color | Hex | Usage |

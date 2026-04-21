@@ -108,9 +108,9 @@ Newsletter branding (Benefit Blind Spots badge, PBS logo) is added manually in C
 
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1260 px
-3. If AI-generated title or date text is misspelled or misaligned, overlay correct text in Krona One (title) and Roboto (date) using the same colors
+3. If AI-generated title or date text is misspelled or misaligned, overlay correct text in Plex Sans SemiBold (title) and Plex Sans Regular (date) using the same colors
 4. If AI-generated icons look off, swap in Canva's flat icon library using the same color (#015880)
-5. Top-left corner: add "Benefit Blind Spots" text badge in Roboto Bold, 32-36pt, deep teal-blue (#015880)
+5. Top-left corner: add "Benefit Blind Spots" text badge in Plex Sans SemiBold, 32-36pt, deep teal-blue (#015880)
 6. Bottom-right: add PBS logo (dark version), 160-200px width
 7. Verify readability at thumbnail size
 8. Export as PNG

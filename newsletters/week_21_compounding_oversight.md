@@ -151,7 +151,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -235,7 +235,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -320,7 +320,7 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** "What the Best Brokers Ask Before a PBM Renewal Meeting" - PBS branding, Primary Blue (#015880) background, Krona One header. Subtitle in Accent Blue: "5 questions. Answered before the meeting, not during."
+**Slide 1 - Cover:** "What the Best Brokers Ask Before a PBM Renewal Meeting" - PBS branding, Primary Blue (#015880) background, Plex Sans SemiBold header. Subtitle in Accent Blue: "5 questions. Answered before the meeting, not during."
 
 **Slide 2 - Q1 Net Cost Trend:** Headline: "What is our actual net-of-rebate trend?" Below: "The reported trend uses the PBM's methodology. Pull your own."
 
@@ -332,7 +332,7 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 **Slide 6 - CTA:** Primary Blue (#015880) background. White text: "Arrive to verify, not to learn." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Style:** Clean, professional template. Roboto body, Krona One headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
+**Style:** Clean, professional template. Plex Sans body, Plex Sans SemiBold headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
 
 ---
 
@@ -457,7 +457,7 @@ The compounding oversight briefing covers the full category risk framework. For 
 **Style:** Hand-drawn aesthetic, slightly imperfect lines, marker-style text
 **Layout:** Scattered red flag icons across the canvas with handwritten-style callouts
 
-- **Center:** Large hand-drawn red flag icon with "Compounding Red Flags" in marker-style Krona One
+- **Center:** Large hand-drawn red flag icon with "Compounding Red Flags" in marker-style Plex Sans SemiBold
 - **Flag 1 (top left):** Sketch of pharmacy building - "High volume from single pharmacies"
 - **Flag 2 (top right):** Sketch of prescription pad - "Prescribers with unusual compounding patterns"
 - **Flag 3 (middle left):** Sketch of cream tube with dollar signs - "Multi-ingredient topicals at high cost"
@@ -683,7 +683,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 6: ASSETS NEEDED
 
-- [ ] Post 73: Carousel (7 slides) - Renewal Season Checklist, Self-Funded Guidance pillar, Krona One headers, Roboto body, PBS brand colors
+- [ ] Post 73: Carousel (7 slides) - Renewal Season Checklist, Self-Funded Guidance pillar, Plex Sans SemiBold headers, Plex Sans body, PBS brand colors
 - [ ] Post 75: Messy Infographic - Compounding Red Flags, hand-drawn/whiteboard style, scattered red flag icons layout, PBS colors (#015880, #A7E0FA)
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image
@@ -769,6 +769,17 @@ If a high-cost compounding claim crossed my desk, here are the questions I would
 
 One compounding claim is a question. A pattern of high-cost compounds from the same prescriber and pharmacy is an investigation.
 
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 04 · High-cost compounding claim`
+
 ---
 
 ## Monthly Q&A Thread #2: PBM Contract Questions
@@ -795,3 +806,14 @@ Questions I can help with:
 - How to evaluate what your PBM is telling you
 
 If you have your contract in front of you and something does not look right, describe the provision. I will tell you what it means and whether it serves your interest or your PBM's.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+
+Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+
+**Per-instance overrides:**
+- Badge (top-right): "MONTHLY Q&A"
+- Plex Mono subtitle (22pt, white, tabular figures): `May 2026 thread`

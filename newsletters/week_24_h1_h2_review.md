@@ -180,7 +180,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -269,7 +269,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -348,7 +348,7 @@ More in this week's Pharmacy Benefits Briefing on H1/H2 review: [LINKEDIN NEWSLE
 
 **Layout:** Clean vertical three-panel stack. Each panel represents one pattern with a distinct iconography. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) highlights, white background.
 
-**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Cost Patterns We See in Every Mid-Year Review." Magnifying glass icon in Accent Blue.
+**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Cost Patterns We See in Every Mid-Year Review." Magnifying glass icon in Accent Blue.
 
 **Panel 1 - Specialty Concentration:**
 - Pill capsule icon in Primary Blue, 60px
@@ -370,7 +370,7 @@ More in this week's Pharmacy Benefits Briefing on H1/H2 review: [LINKEDIN NEWSLE
 
 **Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Mid-year is the leverage point. Renewal is too late." PBS logo bottom-right, team@rxbs.org bottom-left.
 
-**Style:** Clean professional format. Roboto body (18-22pt), Krona One for panel headers (22-24pt). Icons are flat, single-color, 50-60px.
+**Style:** Clean professional format. Plex Sans body (18-22pt), Plex Sans SemiBold for panel headers (22-24pt). Icons are flat, single-color, 50-60px.
 
 ---
 
@@ -496,7 +496,7 @@ The H1/H2 briefing covers the full assessment framework and renewal positioning 
 
 #### One Number Carousel Slides (Template C)
 
-**Design:** Alternating Primary Blue (#015880) and white backgrounds. Krona One 96-120pt for stat. Roboto 20-24pt for context. Accent Blue (#A7E0FA) accent elements.
+**Design:** Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold 96-120pt for stat. Plex Sans Regular 20-24pt for context. Accent Blue (#A7E0FA) accent elements.
 
 **Slide 1 (Blue bg):**
 - Large white text: "H1"
@@ -535,7 +535,7 @@ The H1/H2 briefing covers the full assessment framework and renewal positioning 
 
 **Canva Production Notes:**
 1. Template C: One Number / Stat Slam
-2. Krona One 96-120pt, Roboto 20-24pt
+2. Plex Sans SemiBold 96-120pt, Plex Sans Regular 20-24pt
 3. Alternating #015880 and #FFFFFF backgrounds
 4. One Accent Blue element per slide
 5. Export 1080 x 1350 px each
@@ -846,6 +846,17 @@ If you told me you were about to issue a PBM RFP, here are the questions I would
 
 The RFP process is your strongest leverage event. The quality of the process determines the quality of the outcome. A rushed or poorly structured RFP produces proposals that are not comparable and decisions that are not defensible.
 
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 06 · Preparing for a PBM RFP`
+
 ---
 
 ## Monthly Q&A Thread #3: Renewal Season Preparation
@@ -872,6 +883,17 @@ Questions I can help with:
 - What "market competitive" actually means in specific categories
 
 The employers who prepare before renewal negotiate from data. Those who do not accept whatever terms arrive. Drop your questions below.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+
+Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+
+**Per-instance overrides:**
+- Badge (top-right): "MONTHLY Q&A"
+- Plex Mono subtitle (22pt, white, tabular figures): `June 2026 thread`
 
 ---
 
@@ -958,3 +980,26 @@ Looking ahead, we expect [2-3 trends or developments] to affect PBM contract dyn
 *These observations are aggregated from Prescription Benefit Solutions contract reviews. No individual client is identified. Patterns described represent general market observations, not specific plan data.*
 
 *Prescription Benefit Solutions | team@rxbs.org | www.rxbs.org*
+
+---
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel (Gray background, Topic Icon recipe)
+
+**Prompt:**
+
+A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a solid Gray (#4D4D4D) background and generous negative space. No logos, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge, roughly 360px wide by 56px tall, with the text "WHAT WE'RE SEEING · Q2" in Primary Blue (#015880), Plex Sans SemiBold, 26pt, +6% letter tracking. Central composition on the left half: a 2 by 3 grid of six stylized document cards, each card roughly 180px by 240px, Accent Blue (#A7E0FA) outline, with three thin Accent Blue (#A7E0FA) horizontal lines inside each representing contract text. One card (second row, first column) is filled solid Accent Blue (#A7E0FA), highlighting it as the detected pattern. Overlapping the grid at a 15-degree tilt, a large flat magnifying glass, Accent Blue (#A7E0FA) outline, roughly 520px diameter, with its round lens filled translucent white (#FFFFFF 20% opacity) and positioned over the highlighted card so the magnified area shows a miniature trend line rising left to right inside the lens, in Accent Blue (#A7E0FA), 4px line weight. Eight small circular dots in Accent Blue (#A7E0FA) run along the top edge of the grid as a rhythmic marker row. Below the composition, a two-tone headline reads "What we're seeing." with "What we're" in white (#FFFFFF) and "seeing." in Accent Blue (#A7E0FA), Plex Sans SemiBold, 72pt, -1% tracking. Beneath it in smaller type: "Aggregated from ~100 contract reviews · Q2 2026" in Plex Mono Medium, 22pt, white (#FFFFFF) tabular figures. Flat editorial style, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Gray (#4D4D4D) background, Accent Blue (#A7E0FA), white (#FFFFFF), Primary Blue (#015880) for the badge text only.
+
+**Post-Generation Steps:**
+
+1. Generate in the AI tool at 2240 x 1260 px
+2. Open in Canva
+3. If AI-generated "What we're seeing." headline, badge quarter label, or Plex Mono subtitle is misspelled or misaligned, overlay correct text in Plex Sans SemiBold (headline and badge) and Plex Mono Medium (subtitle), same colors
+4. If the document-grid or magnifying-glass composition reads off, rebuild in Canva using flat icon library at Accent Blue (#A7E0FA)
+5. Top-left corner: "Benefit Blind Spots" text badge in Plex Sans SemiBold, 32pt, white (#FFFFFF)
+6. Bottom-right: PBS logo (light version for dark background), 160-200px width
+7. Verify the "WHAT WE'RE SEEING · Q[#]" pill badge survived any overlays
+8. For future quarterly reports, update both the badge quarter number and the Plex Mono subtitle quarter/year
+9. Export as PNG

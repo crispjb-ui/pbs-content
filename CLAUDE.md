@@ -215,36 +215,55 @@ The LinkedIn newsletter CTA references the specific exclusive tool: "This week's
 | Gray | #4D4D4D | Body text |
 | White | #FFFFFF | Background |
 
-### Typography
-- **Headers:** Krona One
-- **Body:** Roboto
-- **CTA Headlines:** Italic style
+### Typography (v2 — updated April 21, 2026)
 
-### Substack Image Prompt Recipe (Added April 20, 2026)
+Two typefaces. One rule per channel. Never mix within a single file.
 
-Every Substack image prompt (Monday deep dive header, Thursday field note header, Wednesday roundup header) starting Week 17 applies this recipe, which is based on the Week 16 PA field note prompt that produced the strongest image result to date.
+**Office register: Corbel.** Shipped with Microsoft Office since 2007; already on every broker's and employer's machine; renders identically across Office on web, desktop, and print. Used in: PowerPoint (RFP decks, proposals, client reviews), Word (reports, exhibits, contract memos), Excel (pricing workbooks, audit sheets), Outlook (email body, signatures), PDFs exported from any of the above.
+
+**Digital register: IBM Plex.** Open-source, free forever. **Plex Sans** for UI, body, and headers; **Plex Mono** for numeric data (NDCs, AWP, WAC, DAW codes, contract numbers, pricing, member counts, dates); **Plex Serif** for long-form case studies and policy pieces only. Used in: rxbs.org, the CRM, web-only PDFs, newsletter / Substack / LinkedIn carousels, every image prompt in this repo, and any HTML deliverable.
+
+**Weights in use:** four only. Regular (400), Medium (500), SemiBold (600), Bold (700). Do not specify Extra-Light, Thin, Black, or any other weight; they break on broker machines and in print.
+
+**The numeric rule:** put numbers in Plex Mono, always. Tabular figures align decimals and read as audited. On the web use `<span class="pbs-num">` or `<td class="pbs-td-num">`; in image prompts specify "Plex Mono Medium, tabular figures" for any dollar value, date, NDC, contract section, or stat count.
+
+**Emphasis:** italic, never bold inside running prose. Reserve bold for headings and UI controls.
+
+**Uppercase:** labels and micro-captions only, with +4% to +8% letter tracking. Never on buttons, headings, or body.
+
+**Retired.** Krona One is retired from the system (read too quirky-editorial for a clinical-credibility category). Roboto is kept only as a fallback for machines missing Plex; never specified as primary.
+
+**Office opt-in from HTML.** If an HTML file will be printed to PDF and attached to an Office deliverable, add `class="pbs-office"` on the `<body>` tag to render the whole file in Corbel.
+
+### Substack Image Prompt Recipe (Added April 20, 2026 — type specs updated April 21, 2026)
+
+Every Substack image prompt (Monday deep dive header, Thursday field note header, Wednesday roundup header, Reference Channel standalone header) starting Week 17 applies this recipe, which is based on the Week 16 PA field note prompt that produced the strongest image result to date.
 
 **Six required elements:**
 
-1. **Central icon encodes the topic content.** The icon carries a topic-specific label or text inside it (e.g., "PA" inside the clock, "GLP-1" inside the pill capsule). The icon is not a generic symbol, it is a container for content.
-2. **Implied motion or time-passing cue.** A dynamic element that gives the generator a narrative to render. Examples: clock hands pointing to different positions, progress rings partially filled, arrows in directional flow, tilted scales, calendar pages turning.
+1. **Central icon encodes the topic content.** The icon carries a topic-specific label or text inside it (e.g., "PA" inside the clock, "GLP-1" inside the pill capsule, "§5.03" inside a magnifying glass). The icon is not a generic symbol, it is a container for content.
+2. **Implied motion or time-passing cue.** A dynamic element that gives the generator a narrative to render. Examples: clock hands pointing to different positions, progress rings partially filled, arrows in directional flow, tilted scales, calendar pages turning, magnifying glass at a tilt.
 3. **Specifically named accent targets.** Name the exact elements that get Accent Blue (#A7E0FA) treatment. Not "with light blue highlights" — state it like "the filled segment of the ring," "three radiating arrows," "the opening door outline."
 4. **Repeating geometric detail.** A rhythmic element that gives image generators texture to render precisely. Examples: tick marks around a circular face, hash marks on a timeline, numbered segments, radiating dotted lines, ascending bar marks.
-5. **Two-tone headline text.** Split the headline across Primary Blue (#015880) and Accent Blue (#A7E0FA) (or Primary Blue and White on Accent Blue backgrounds). Single-color subtitles read as template; two-tone reads as editorial design.
+5. **Two-tone headline text in Plex Sans SemiBold.** Split the headline across Primary Blue (#015880) and Accent Blue (#A7E0FA) on white backgrounds, Primary Blue and White on Accent Blue backgrounds, or White and Accent Blue on Gray (Reference) backgrounds. Single-color subtitles read as template; two-tone reads as editorial design. Subtitles with dates, counts, or stat values use Plex Mono Medium, tabular figures.
 6. **Clean negative space.** Skip grid-pattern or textured backgrounds when the central composition is strong.
 
 **Channel-specific backgrounds:**
 
-| Channel | Background | Badge (top-right) |
-|---------|------------|-------------------|
-| Monday deep dive | Option A: White (#FFFFFF), or Option B: Primary Blue (#015880). Alternate week-to-week for variety. | None |
-| Wednesday roundup | Accent Blue (#A7E0FA) | "WHAT CROSSED MY DESK" |
-| Thursday field note | White (#FFFFFF) | "FIELD NOTE" |
+| Channel | Background | Badge (top-right) | Two-tone headline |
+|---------|------------|-------------------|-------------------|
+| Monday deep dive | Option A: White (#FFFFFF), or Option B: Primary Blue (#015880). Alternate week-to-week for variety. | None | Primary Blue + Accent Blue (on white); White + Accent Blue (on Primary Blue) |
+| Wednesday roundup | Accent Blue (#A7E0FA) | "WHAT CROSSED MY DESK" | Primary Blue + White |
+| Thursday field note | White (#FFFFFF) | "FIELD NOTE" | Primary Blue + Accent Blue |
+| Reference Channel (standalone / evergreen) | Gray (#4D4D4D) | Per asset: "CONTRACT LIBRARY", "MONTHLY Q&A", "WHAT I'D ASK", "WHAT WE'RE SEEING · Q[#]" | White + Accent Blue |
+
+Reference Channel covers standalone and evergreen assets that sit outside the weekly Mon/Wed/Thu cadence: the pinned Contract Language Library, the last-Thursday Monthly Q&A Thread, the biweekly "What I'd Ask" scenarios, and the quarterly "What We're Seeing" report. Primary Blue is unreadable on Gray (#4D4D4D); use White + Accent Blue for all text on this background, and Primary Blue only for text inside the Accent Blue badge.
 
 **Format specs:**
 - Monday deep dive header: 2240 x 1200 px, Topic Icon template
 - Wednesday roundup header: 2240 x 1200 px, Topic Icon template
 - Thursday field note header: 1200 x 600 px final (generate at 2240 x 1260 for detail), Data Highlight template
+- Reference Channel header: 2240 x 1260 px, Topic Icon template
 
 ## Repository Structure
 

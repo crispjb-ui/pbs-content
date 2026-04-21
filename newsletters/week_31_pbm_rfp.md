@@ -166,7 +166,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -215,7 +215,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -289,7 +289,7 @@ Each lever has a window. The window closes on its own schedule, not the renewal 
 
 **Layout:** Vertical three-panel stack. Each panel represents one lever with a window-of-action timeline beneath it. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) timeline highlights, white background.
 
-**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Cost Containment Levers Most Plans Activate Too Late." Stopwatch icon in Accent Blue.
+**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Cost Containment Levers Most Plans Activate Too Late." Stopwatch icon in Accent Blue.
 
 **Panel 1 - Biosimilar Repositioning:**
 - Comparison scale icon, Primary Blue, 50px
@@ -311,7 +311,7 @@ Each lever has a window. The window closes on its own schedule, not the renewal 
 
 **Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Each lever has its own clock. None match the renewal cycle." PBS logo bottom-right, team@rxbs.org bottom-left.
 
-**Style:** Clean professional format. Roboto body (16-18pt), Krona One for panel headers (20-22pt). Icons flat, single-color, 40-50px.
+**Style:** Clean professional format. Plex Sans body (16-18pt), Plex Sans SemiBold for panel headers (20-22pt). Icons flat, single-color, 40-50px.
 
 ---
 

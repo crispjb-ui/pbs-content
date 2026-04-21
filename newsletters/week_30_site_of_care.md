@@ -135,7 +135,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -212,7 +212,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -293,19 +293,19 @@ More in this week's Pharmacy Benefits Briefing on site-of-care strategy: [LINKED
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "5 Self-Funded Plan Sponsor Decisions Before Year-End." Accent Blue subtitle: "Made now = leverage in Q1. Deferred = reacting."
+**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "5 Self-Funded Plan Sponsor Decisions Before Year-End." Accent Blue subtitle: "Made now = leverage in Q1. Deferred = reacting."
 
-**Slide 2 - Decision 1 RFP Timeline:** White background. Krona One Primary Blue: "Confirm the RFP Timeline." Roboto body: "If renewal is H1 2026, the RFP is out by November. Slipping past that resets your negotiating position."
+**Slide 2 - Decision 1 RFP Timeline:** White background. Plex Sans SemiBold Primary Blue: "Confirm the RFP Timeline." Plex Sans body: "If renewal is H1 2026, the RFP is out by November. Slipping past that resets your negotiating position."
 
-**Slide 3 - Decision 2 Document Shortfalls:** Accent Blue background. Primary Blue Krona One: "Compile Every Guarantee Shortfall." Body: "Quarterly reports do not aggregate them. The plan has to. Unpaid remediation is recoverable on the renewal table."
+**Slide 3 - Decision 2 Document Shortfalls:** Accent Blue background. Primary Blue Plex Sans SemiBold: "Compile Every Guarantee Shortfall." Body: "Quarterly reports do not aggregate them. The plan has to. Unpaid remediation is recoverable on the renewal table."
 
-**Slide 4 - Decision 3 Independent Benchmarking:** White background. Krona One: "Lock Down Independent Benchmarking." Body: "PBM benchmarks show the PBM as competitive. They were built that way. Independent pulls show the truth."
+**Slide 4 - Decision 3 Independent Benchmarking:** White background. Plex Sans SemiBold: "Lock Down Independent Benchmarking." Body: "PBM benchmarks show the PBM as competitive. They were built that way. Independent pulls show the truth."
 
-**Slide 5 - Decision 4 Stop-Loss + PBM Alignment:** Primary Blue background. White Krona One: "Coordinate Stop-Loss and PBM Renewal Timing." Accent Blue body: "Misaligned renewals erode leverage on both sides. Treat them as one conversation."
+**Slide 5 - Decision 4 Stop-Loss + PBM Alignment:** Primary Blue background. White Plex Sans SemiBold: "Coordinate Stop-Loss and PBM Renewal Timing." Accent Blue body: "Misaligned renewals erode leverage on both sides. Treat them as one conversation."
 
-**Slide 6 - CTA:** Primary Blue background. White Krona One: "Walk into Q1 with the file built. Negotiate, do not react." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Walk into Q1 with the file built. Negotiate, do not react." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One headers (28-34pt), Roboto body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold headers (28-34pt), Plex Sans body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 

@@ -127,7 +127,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -218,7 +218,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -718,7 +718,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 # PART 6: ASSETS NEEDED
 
 - [ ] Post 69: Messy Infographic - Specialty Pharmacy Steering, hand-drawn/whiteboard style, flow diagram with routing paths, PBS colors (#015880, #A7E0FA)
-- [ ] Post 71: Carousel (7 slides) - Copay Card Impact flow, Krona One headers, Roboto body, PBS brand colors
+- [ ] Post 71: Carousel (7 slides) - Copay Card Impact flow, Plex Sans SemiBold headers, Plex Sans body, PBS brand colors
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image
 

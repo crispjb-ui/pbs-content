@@ -137,7 +137,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -187,7 +187,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -267,7 +267,7 @@ Programs that often do not earn their cost as reported:
 
 **Layout:** Vertical two-column comparison. Left column "Earns Its Cost" in Primary Blue (#015880). Right column "Often Does Not" in red (#C0392B). Three programs per column with one-line descriptors.
 
-**Top Header Bar:** Primary Blue (#015880) background. White Krona One (32-38pt): "3 Clinical Programs That Earn Their Cost. And 3 That Often Do Not." Pill + magnifying glass icon in Accent Blue.
+**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Clinical Programs That Earn Their Cost. And 3 That Often Do Not." Pill + magnifying glass icon in Accent Blue.
 
 **Left Column - "Earns Its Cost":**
 1. Specialty case management for high-cost claimants. *"Hands-on coordination prevents avoidable gene therapy or anti-amyloid claims."*
@@ -283,7 +283,7 @@ Programs that often do not earn their cost as reported:
 
 **Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Ask for the methodology. The program either earns its cost or it earns its line item." PBS logo bottom-right, team@rxbs.org bottom-left.
 
-**Style:** Clean professional format. Roboto body (16-18pt), Krona One for column headers (22-24pt). Color contrast (Primary Blue vs. red) drives visual separation between earned and unearned.
+**Style:** Clean professional format. Plex Sans body (16-18pt), Plex Sans SemiBold for column headers (22-24pt). Color contrast (Primary Blue vs. red) drives visual separation between earned and unearned.
 
 ---
 

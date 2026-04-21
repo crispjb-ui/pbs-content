@@ -180,7 +180,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -271,7 +271,7 @@ Create a clean professional digital graphic at 2240 x 1260 pixels with a solid w
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -877,6 +877,26 @@ If someone asked me whether they should carve out their specialty pharmacy from 
 
 The carve-out decision is not inherently better or worse. It depends on whether your current arrangement is competitive and transparent. These questions help you and your advisory team determine that before committing to a change.
 
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel (Gray background, Topic Icon recipe)
+
+**Prompt:**
+
+A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a solid Gray (#4D4D4D) background and generous negative space. No logos, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge, roughly 280px wide by 56px tall, with the text "WHAT I'D ASK" in Primary Blue (#015880), Plex Sans SemiBold, 26pt, +6% letter tracking. Central composition on the left half: a large stylized flat legal notepad, roughly 720px tall by 560px wide, Accent Blue (#A7E0FA) outline, with seven thin horizontal Accent Blue (#A7E0FA) lines representing ruled rows. Layered over the notepad, three oversized question marks "?" in Plex Sans SemiBold, vertically stacked: the topmost filled solid Accent Blue (#A7E0FA), the middle filled translucent white (#FFFFFF 40% opacity), the bottom as Accent Blue (#A7E0FA) outline only, each roughly 140pt. A flat pencil, white (#FFFFFF) shaft with an Accent Blue (#A7E0FA) tip and Accent Blue (#A7E0FA) eraser, sits at a 30-degree angle across the lower right corner of the notepad as if mid-stroke. Eight small tick marks in Accent Blue (#A7E0FA), evenly spaced, run along the left spiral binding edge of the notepad as a rhythmic texture. Below the composition, a two-tone headline reads "What I'd ask." with "What I'd" in white (#FFFFFF) and "ask." in Accent Blue (#A7E0FA), Plex Sans SemiBold, 72pt, -1% tracking. Beneath it in smaller type: "Scenario 02 · Specialty carve-out" in Plex Mono Medium, 22pt, white (#FFFFFF) tabular figures. Flat editorial style, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Gray (#4D4D4D) background, Accent Blue (#A7E0FA), white (#FFFFFF), Primary Blue (#015880) for the badge text only.
+
+**Post-Generation Steps:**
+
+1. Generate in the AI tool at 2240 x 1260 px
+2. Open in Canva
+3. If AI-generated "What I'd ask." headline or Plex Mono subtitle is misspelled or misaligned, overlay correct text in Plex Sans SemiBold (headline) and Plex Mono Medium (subtitle), same colors
+4. If central icons read off, rebuild in Canva using flat icon library at Accent Blue (#A7E0FA)
+5. Top-left corner: "Benefit Blind Spots" text badge in Plex Sans SemiBold, 32pt, white (#FFFFFF)
+6. Bottom-right: PBS logo (light version for dark background), 160-200px width
+7. Verify the "WHAT I'D ASK" pill badge survived any overlays
+8. Export as PNG
+
 ---
 
 ## Monthly Q&A Thread #1: Ask Me Anything About Your Pharmacy Benefit
@@ -902,6 +922,27 @@ Anything about your pharmacy benefit: PBM contracts, specialty pharmacy, stop-lo
 Drop your question below. I will answer every one this week.
 
 No question is too basic. The questions employers are afraid to ask are usually the ones that save the most money.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel (Gray background, Topic Icon recipe)
+
+**Prompt:**
+
+A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a solid Gray (#4D4D4D) background and generous negative space. No logos, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge, roughly 280px wide by 56px tall, with the text "MONTHLY Q&A" in Primary Blue (#015880), Plex Sans SemiBold, 26pt, +6% letter tracking. Central composition on the left half: a large stylized flat speech bubble, roughly 760px wide by 620px tall, Accent Blue (#A7E0FA) outline, with a pointed tail extending down-left at a 20-degree angle. Inside the bubble, a single oversized question mark "?" in Plex Sans SemiBold, filled white (#FFFFFF), roughly 420pt. To the lower right of the main bubble, two smaller stacked response bubbles in Accent Blue (#A7E0FA) outline: one filled translucent white (#FFFFFF 20% opacity) showing three horizontal lines inside, one filled solid Accent Blue (#A7E0FA). A rhythmic row of six small circular dots in Accent Blue (#A7E0FA), evenly spaced, sits below the smallest bubble as an implied typing indicator. Below the composition, a two-tone headline reads "Ask me anything." with "Ask me" in white (#FFFFFF) and "anything." in Accent Blue (#A7E0FA), Plex Sans SemiBold, 72pt, -1% tracking. Beneath it in smaller type: "April 2026 thread" in Plex Mono Medium, 22pt, white (#FFFFFF) tabular figures. Flat editorial style, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Gray (#4D4D4D) background, Accent Blue (#A7E0FA), white (#FFFFFF), Primary Blue (#015880) for the badge text only.
+
+**Post-Generation Steps:**
+
+1. Generate in the AI tool at 2240 x 1260 px
+2. Open in Canva
+3. If AI-generated "Ask me anything." headline or Plex Mono month subtitle is misspelled or misaligned, overlay correct text in Plex Sans SemiBold (headline) and Plex Mono Medium (subtitle), same colors
+4. If central icons read off, rebuild in Canva using flat icon library at Accent Blue (#A7E0FA)
+5. Top-left corner: "Benefit Blind Spots" text badge in Plex Sans SemiBold, 32pt, white (#FFFFFF)
+6. Bottom-right: PBS logo (light version for dark background), 160-200px width
+7. Verify the "MONTHLY Q&A" pill badge survived any overlays
+8. Update the month label in the Plex Mono subtitle for each future thread (May 2026, June 2026, etc.)
+9. Export as PNG
 
 ---
 
@@ -1098,3 +1139,26 @@ This library is updated quarterly as new patterns emerge from our contract revie
 
 *Last updated: April 2026*
 *Next update: July 2026*
+
+---
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel (Gray background, Topic Icon recipe)
+
+**Prompt:**
+
+A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a solid Gray (#4D4D4D) background and generous negative space. No logos, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge, roughly 340px wide by 56px tall, with the text "CONTRACT LIBRARY" in Primary Blue (#015880), Plex Sans SemiBold, 26pt, +6% letter tracking. Central composition on the left half: a large stylized flat open book, roughly 900px wide, Accent Blue (#A7E0FA) outline, with two visible pages. The left page shows eight thin horizontal Accent Blue (#A7E0FA) lines representing text rows, with one row highlighted as a filled Accent Blue (#A7E0FA) block. Overlapping the right page at a 20-degree tilt, a flat magnifying glass, Accent Blue (#A7E0FA) outline, with its round lens filled translucent white (#FFFFFF 20% opacity) positioned over a single highlighted clause label reading "§5.03" in Plex Mono Medium, 32pt, white (#FFFFFF) tabular figures. Three page tabs extend from the right edge of the book, each 80px tall, in three states: one filled Accent Blue (#A7E0FA), one white (#FFFFFF) outline, one Primary Blue (#015880) filled. Six evenly spaced small circular dots in Accent Blue (#A7E0FA) run along the spine of the book as a binding detail. Below the book, a two-tone headline reads "Contract language." with "Contract" in white (#FFFFFF) and "language." in Accent Blue (#A7E0FA), Plex Sans SemiBold, 72pt, -1% tracking. Beneath it in smaller type: "Library · Updated quarterly" in Plex Mono Medium, 22pt, white (#FFFFFF). Flat editorial style, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Gray (#4D4D4D) background, Accent Blue (#A7E0FA), white (#FFFFFF), Primary Blue (#015880) for the badge text only.
+
+**Post-Generation Steps:**
+
+1. Generate in the AI tool at 2240 x 1260 px
+2. Open in Canva
+3. If AI-generated "Contract language." headline, "§5.03" clause label, or Plex Mono subtitle is misspelled or misaligned, overlay correct text in Plex Sans SemiBold (headline) and Plex Mono Medium (clause label and subtitle), same colors
+4. If central icons read off, rebuild in Canva using flat icon library at Accent Blue (#A7E0FA)
+5. Top-left corner: "Benefit Blind Spots" text badge in Plex Sans SemiBold, 32pt, white (#FFFFFF)
+6. Bottom-right: PBS logo (light version for dark background), 160-200px width
+7. Verify the "CONTRACT LIBRARY" pill badge survived any overlays
+8. This header image is reused across quarterly updates; change only the Plex Mono subtitle if the quarterly refresh is being dated (e.g., "Library · Updated July 2026")
+9. Export as PNG

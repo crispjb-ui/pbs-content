@@ -144,7 +144,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -233,7 +233,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -344,7 +344,7 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 **Bottom band:** Accent Blue (#A7E0FA) with: "Mid-cycle review catches them. Renewal audit does not." PBS logo bottom-right.
 
-**Style:** Professional, Primary Blue (#015880) on white, with Accent Blue (#A7E0FA) highlight on the drip icons. Roboto body, Krona One for the title.
+**Style:** Professional, Primary Blue (#015880) on white, with Accent Blue (#A7E0FA) highlight on the drip icons. Plex Sans body, Plex Sans SemiBold for the title.
 
 ---
 
@@ -675,7 +675,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 6: ASSETS NEEDED
 
-- [ ] Post 65: Carousel (7 slides) - PBM Audit scope, Krona One headers, Roboto body, PBS brand colors
+- [ ] Post 65: Carousel (7 slides) - PBM Audit scope, Plex Sans SemiBold headers, Plex Sans body, PBS brand colors
 - [ ] Post 67: Messy Infographic - Fiduciary Documentation Framework, hand-drawn/whiteboard style, interconnected nodes layout, PBS colors (#015880, #A7E0FA)
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image
@@ -753,3 +753,14 @@ If I were sitting in your first quarterly PBM review meeting, here are the quest
 10. What recommendations does the PBM have for improving our plan's pharmacy performance next quarter? (This question tests whether your PBM is proactively managing your account or just processing claims.)
 
 The quarterly review is where fiduciary documentation is built. Every question asked, every answer received, and every action taken should be recorded in meeting minutes. This is the evidence of prudent process.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 03 · First PBM quarterly review`

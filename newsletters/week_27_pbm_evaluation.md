@@ -180,7 +180,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 20-24pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
 4. Add PBS logo (dark version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
@@ -259,7 +259,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Roboto Bold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -344,7 +344,7 @@ More in this week's Pharmacy Benefits Briefing on PBM evaluation: [LINKEDIN NEWS
 
 #### Carousel Slide Descriptions
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Krona One white: "How Strong Brokers Run a PBM Performance Review." Accent Blue subtitle: "5 steps. Audit, not PowerPoint."
+**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "How Strong Brokers Run a PBM Performance Review." Accent Blue subtitle: "5 steps. Audit, not PowerPoint."
 
 **Slide 2 - Step 1 Source Data:** White background. Headline in Primary Blue: "Pull the source files, not the summary." Gray body: "Claims file. Eligibility file. Rebate detail. Guarantee calculation worksheet. The dashboard is not the record."
 
@@ -354,9 +354,9 @@ More in this week's Pharmacy Benefits Briefing on PBM evaluation: [LINKEDIN NEWS
 
 **Slide 5 - Step 4 Specialty Routing Cross-Check:** Primary Blue background. White headline: "Cross-reference specialty routing against contract terms." Accent Blue body: "The default routing and the contracted routing are often different enough to matter."
 
-**Slide 6 - CTA:** Primary Blue background. White Krona One: "Strong brokers audit. Weak brokers accept the deck." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Strong brokers audit. Weak brokers accept the deck." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Krona One for headers (28-34pt), Roboto for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold for headers (28-34pt), Plex Sans Regular for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
 
 ---
 
@@ -462,7 +462,7 @@ The full PBM evaluation scorecard with weighted scoring criteria is in this week
 
 **Layout:**
 
-**Header:** Primary Blue (#015880) background. White Krona One: "PBM Evaluation Scorecard" (36pt). "100 Points. One Answer." in Accent Blue (#A7E0FA).
+**Header:** Primary Blue (#015880) background. White Plex Sans SemiBold: "PBM Evaluation Scorecard" (36pt). "100 Points. One Answer." in Accent Blue (#A7E0FA).
 
 **10-Factor List:** Each row shows factor name, weight, and a color-coded score zone.
 - Row 1: Pricing Competitiveness (15 pts) — bar chart indicator
