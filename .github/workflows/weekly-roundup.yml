@@ -18,23 +18,43 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - name: Guard against wrong-hour schedule fire
-        # Two cron lines fire (one for EST, one for EDT). This step
-        # gates everything downstream so only the run at 07:30
-        # America/New_York proceeds. Manual runs always proceed.
+      - name: Guard against wrong-DST schedule fire
+        # Two cron lines are defined (one for EDT, one for EST) so the
+        # workflow lands at 07:30 America/New_York year-round. Only the
+        # cron matching the current DST state should proceed, otherwise
+        # we would double-fire on DST changeover weeks. Matching by
+        # schedule string (not clock time) is resilient to the 10-30
+        # minute GitHub Actions cron delay. Manual runs always proceed.
         id: guard
+        env:
+          TRIGGER_SCHEDULE: ${{ github.event.schedule }}
         run: |
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             echo "Manual run; proceeding."
             echo "should_run=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          hhmm=$(TZ=America/New_York date +%H%M)
-          echo "Eastern time is $hhmm"
-          if [ "$hhmm" = "0730" ]; then
+          offset=$(TZ=America/New_York date +%z)
+          echo "Eastern offset: $offset"
+          echo "Triggering schedule: $TRIGGER_SCHEDULE"
+          case "$offset" in
+            -0400)
+              expected="30 11 * * 2"  # EDT cron
+              ;;
+            -0500)
+              expected="30 12 * * 2"  # EST cron
+              ;;
+            *)
+              echo "Unexpected Eastern offset $offset; refusing to run."
+              echo "should_run=false" >> "$GITHUB_OUTPUT"
+              exit 0
+              ;;
+          esac
+          if [ "$TRIGGER_SCHEDULE" = "$expected" ]; then
+            echo "Schedule matches current DST state; proceeding."
             echo "should_run=true" >> "$GITHUB_OUTPUT"
           else
-            echo "Not 07:30 Eastern; skipping."
+            echo "Schedule does not match current DST state; skipping to prevent double run."
             echo "should_run=false" >> "$GITHUB_OUTPUT"
           fi
 
