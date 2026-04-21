@@ -305,6 +305,52 @@ This week's Benefit Blind Spots includes the **full PBM evaluation scorecard**: 
 
 ---
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #6: Scoring PBM Finalists
+
+**Publish:** Tuesday, July 7, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If you have three PBM finalist proposals on your desk, here are the questions I would ask before choosing.
+
+**About pricing:**
+1. Are guarantees apples-to-apples? Compare GER, brand discount, specialty pricing, and rebate floors under identical claim mix assumptions.
+2. Which guarantees include claw-backs for shortfalls, and which are measured on aggregate vs. line-item?
+3. What is each bidder's actual performance against the guarantees they proposed in recent deals? Ask for references.
+
+**About rebate transparency:**
+4. Is rebate passthrough 100 percent or is there a reservation? If reserved, for what exactly?
+5. What is excluded from the rebate definition (manufacturer administrative fees, chargebacks, data fees)?
+6. How often is rebate reconciliation run, and who produces the reconciliation report?
+
+**About specialty:**
+7. What percentage of specialty claims will route through the PBM's owned pharmacy vs. independents?
+8. Is there limited distribution drug access for our highest-cost therapies?
+
+**About operational fit:**
+9. What is the implementation timeline, and what resources does each bidder require from our team?
+10. Which PBM clients of similar size and complexity can we speak with unprompted (not references curated by the PBM)?
+
+The finalist stage is where proposals start looking similar on paper. The differences show up in the fine print and the reference calls.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 06 · Scoring PBM finalists`
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 97 - Tuesday 10:00 AM
@@ -720,6 +766,8 @@ A broker told me she was going to share my scorecard with a client without credi
 | Open Rate | | |
 | Field Note Opens | | |
 | New Subscribers | | |
+
+---
 
 ---
 

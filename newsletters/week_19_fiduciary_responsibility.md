@@ -293,6 +293,52 @@ Full framework with litigation landscape context on Substack.
 
 #PharmacyBenefits #ERISA #FiduciaryDuty #SelfFundedEmployers #Compliance
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #2: Your First PBM Quarterly Review
+
+**Publish:** Tuesday, May 13, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If I were sitting in your first quarterly PBM review meeting, here are the questions I would ask.
+
+**About guarantees:**
+1. How are we performing against each pricing guarantee (GER, brand discount, specialty discount)? Show me the calculation.
+2. Are we on track for the annual rebate guarantee? What is the current run rate vs. the guaranteed amount?
+3. Have any guarantee shortfalls been identified? If so, what is the remediation plan?
+
+**About utilization:**
+4. What are the top 10 drugs by total spend? How does this compare to last quarter?
+5. Which new drugs entered our claims data this quarter that were not present last quarter?
+6. What is our GLP-1 utilization and spend trend?
+
+**About clinical programs:**
+7. What is the current prior authorization approval rate? What are the top denial reasons?
+8. How many step therapy overrides were granted this quarter?
+9. What medication therapy management (MTM) interventions were completed, and what was the documented cost impact?
+
+**About the relationship:**
+10. What recommendations does the PBM have for improving our plan's pharmacy performance next quarter? (This question tests whether your PBM is proactively managing your account or just processing claims.)
+
+The quarterly review is where fiduciary documentation is built. Every question asked, every answer received, and every action taken should be recorded in meeting minutes. This is the evidence of prudent process.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 02 · First PBM quarterly review`
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 65 - Tuesday 8:30 AM
@@ -719,48 +765,3 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 ---
 
-# PART 8: ADDITIONAL SUBSTACK CONTENT (This Week)
-
-## "What I'd Ask" #2: Your First PBM Quarterly Review
-
-**Publish:** Tuesday, May 13, 2026 at 7:30 AM EST
-**Format:** Standalone Substack post
-**Access:** Free (subscriber-only when paid tier launches)
-**Length:** ~350 words
-
-> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
-
-### Ready-to-Publish Content
-
-If I were sitting in your first quarterly PBM review meeting, here are the questions I would ask.
-
-**About guarantees:**
-1. How are we performing against each pricing guarantee (GER, brand discount, specialty discount)? Show me the calculation.
-2. Are we on track for the annual rebate guarantee? What is the current run rate vs. the guaranteed amount?
-3. Have any guarantee shortfalls been identified? If so, what is the remediation plan?
-
-**About utilization:**
-4. What are the top 10 drugs by total spend? How does this compare to last quarter?
-5. Which new drugs entered our claims data this quarter that were not present last quarter?
-6. What is our GLP-1 utilization and spend trend?
-
-**About clinical programs:**
-7. What is the current prior authorization approval rate? What are the top denial reasons?
-8. How many step therapy overrides were granted this quarter?
-9. What medication therapy management (MTM) interventions were completed, and what was the documented cost impact?
-
-**About the relationship:**
-10. What recommendations does the PBM have for improving our plan's pharmacy performance next quarter? (This question tests whether your PBM is proactively managing your account or just processing claims.)
-
-The quarterly review is where fiduciary documentation is built. Every question asked, every answer received, and every action taken should be recorded in meeting minutes. This is the evidence of prudent process.
-
-### Preview Image Prompt
-
-**Dimensions:** 2240 x 1260 px
-**Template:** Reference Channel — "What I'd Ask" (Gray background)
-
-Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
-
-**Per-instance overrides:**
-- Badge (top-right): "WHAT I'D ASK"
-- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 02 · First PBM quarterly review`

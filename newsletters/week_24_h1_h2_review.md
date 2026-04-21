@@ -311,6 +311,153 @@ This week's Benefit Blind Spots includes an **H1 benchmark dashboard**: the five
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## Monthly Q&A Thread #3: Renewal Season Preparation
+
+**Publish:** Thursday, June 25, 2026 (last Thursday of June)
+**Format:** Substack Discussion Thread (not an article)
+**Access:** Subscriber-only (free subscribers can access)
+
+> Create this as a Discussion Thread on Substack, not a regular post.
+
+### Ready-to-Publish Content
+
+**Thread Title:** Ask Me Anything: Renewal Season Preparation
+
+**Thread Body:**
+
+H1 data is in. Renewal conversations are starting. This month's Q&A is focused on preparation.
+
+Questions I can help with:
+- What metrics to benchmark before renewal meetings
+- How to evaluate your PBM's renewal proposal
+- When to RFP vs. when to negotiate in place
+- Stop-loss coordination with pharmacy strategy
+- What "market competitive" actually means in specific categories
+
+The employers who prepare before renewal negotiate from data. Those who do not accept whatever terms arrive. Drop your questions below.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+
+Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+
+**Per-instance overrides:**
+- Badge (top-right): "MONTHLY Q&A"
+- Plex Mono subtitle (22pt, white, tabular figures): `June 2026 thread`
+
+---
+
+## "What We're Seeing" Q2 Report
+
+**Publish:** Monday, June 22, 2026
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** 500-700 words
+
+> This report requires Ginny's actual observations from Q2 contract reviews. The template below provides the structure. Fill in the five patterns from real contract review data before publishing.
+
+### Ready-to-Publish Template
+
+### Title: What We're Seeing: Q2 2026 PBM Contract Patterns
+
+### Subtitle: Aggregated observations from Prescription Benefit Solutions contract reviews
+
+---
+
+**Published:** [Last Monday of June 2026]
+**Access:** Subscriber-only
+
+---
+
+This is a new addition to Benefit Blind Spots. Each quarter, we will share aggregated patterns from the PBM contracts Prescription Benefit Solutions reviews. No client is identified. No proprietary information is disclosed. These are the trends, gaps, and opportunities we are seeing across the market.
+
+**Why we are doing this:** The employers and brokers reading this publication manage pharmacy benefits with limited visibility into what other plans look like. We see approximately 100 contracts a year. That pattern recognition is valuable, and sharing it (in aggregate) helps the entire market make better decisions.
+
+---
+
+**Pattern 1: [Title Based on What PBS Is Actually Seeing]**
+
+*Example framework (customize with real observations):*
+
+In [percentage or qualifier: "a majority of," "roughly half of," "a meaningful number of"] contracts reviewed this quarter, we found [specific pattern].
+
+What this means for employers: [practical implication].
+
+What to check in your contract: [specific provision or section to review].
+
+---
+
+**Pattern 2: [Title]**
+
+[Same framework: observation, implication, action]
+
+---
+
+**Pattern 3: [Title]**
+
+[Same framework]
+
+---
+
+**Pattern 4: The Negotiation Ask That's Working**
+
+This quarter, the contract improvement that delivered the most consistent value for our clients was [specific change].
+
+How it works: [brief explanation]
+
+Why PBMs are accepting it: [market context]
+
+How to ask for it: [specific language or approach]
+
+---
+
+**Pattern 5: The Gap Most Plans Still Have**
+
+The most common vulnerability we see, even in plans that think they are well-managed: [specific gap].
+
+Why it persists: [explanation]
+
+How to close it: [action steps]
+
+---
+
+**What We're Watching for Q3**
+
+Looking ahead, we expect [2-3 trends or developments] to affect PBM contract dynamics in the second half of 2026.
+
+---
+
+*These observations are aggregated from Prescription Benefit Solutions contract reviews. No individual client is identified. Patterns described represent general market observations, not specific plan data.*
+
+*Prescription Benefit Solutions | team@rxbs.org | www.rxbs.org*
+
+---
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel (Gray background, Topic Icon recipe)
+
+**Prompt:**
+
+A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a solid Gray (#4D4D4D) background and generous negative space. No logos, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge, roughly 360px wide by 56px tall, with the text "WHAT WE'RE SEEING · Q2" in Primary Blue (#015880), Plex Sans SemiBold, 26pt, +6% letter tracking. Central composition on the left half: a 2 by 3 grid of six stylized document cards, each card roughly 180px by 240px, Accent Blue (#A7E0FA) outline, with three thin Accent Blue (#A7E0FA) horizontal lines inside each representing contract text. One card (second row, first column) is filled solid Accent Blue (#A7E0FA), highlighting it as the detected pattern. Overlapping the grid at a 15-degree tilt, a large flat magnifying glass, Accent Blue (#A7E0FA) outline, roughly 520px diameter, with its round lens filled translucent white (#FFFFFF 20% opacity) and positioned over the highlighted card so the magnified area shows a miniature trend line rising left to right inside the lens, in Accent Blue (#A7E0FA), 4px line weight. Eight small circular dots in Accent Blue (#A7E0FA) run along the top edge of the grid as a rhythmic marker row. Below the composition, a two-tone headline reads "What we're seeing." with "What we're" in white (#FFFFFF) and "seeing." in Accent Blue (#A7E0FA), Plex Sans SemiBold, 72pt, -1% tracking. Beneath it in smaller type: "Aggregated from ~100 contract reviews · Q2 2026" in Plex Mono Medium, 22pt, white (#FFFFFF) tabular figures. Flat editorial style, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Gray (#4D4D4D) background, Accent Blue (#A7E0FA), white (#FFFFFF), Primary Blue (#015880) for the badge text only.
+
+**Post-Generation Steps:**
+
+1. Generate in the AI tool at 2240 x 1260 px
+2. Open in Canva
+3. If AI-generated "What we're seeing." headline, badge quarter label, or Plex Mono subtitle is misspelled or misaligned, overlay correct text in Plex Sans SemiBold (headline and badge) and Plex Mono Medium (subtitle), same colors
+4. If the document-grid or magnifying-glass composition reads off, rebuild in Canva using flat icon library at Accent Blue (#A7E0FA)
+5. Top-left corner: "Benefit Blind Spots" text badge in Plex Sans SemiBold, 32pt, white (#FFFFFF)
+6. Bottom-right: PBS logo (light version for dark background), 160-200px width
+7. Verify the "WHAT WE'RE SEEING · Q[#]" pill badge survived any overlays
+8. For future quarterly reports, update both the badge quarter number and the Plex Mono subtitle quarter/year
+9. Export as PNG
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 85 - Tuesday 8:30 AM
@@ -811,195 +958,3 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 ---
 
-# PART 8: ADDITIONAL SUBSTACK CONTENT (This Week)
-
-## "What I'd Ask" #5: Preparing for a PBM RFP
-
-**Publish:** Tuesday, June 24, 2026 at 7:30 AM EST
-**Format:** Standalone Substack post
-**Access:** Free (subscriber-only when paid tier launches)
-**Length:** ~350 words
-
-> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
-
-### Ready-to-Publish Content
-
-If you told me you were about to issue a PBM RFP, here are the questions I would ask you before you start.
-
-**About readiness:**
-1. Do you have 24 months of clean claims data ready to share with bidders? (Without good data, you get bad proposals.)
-2. Has your current PBM contract's termination window been confirmed? (Do not issue an RFP you cannot act on.)
-3. Do you have internal alignment on decision criteria? (If the CFO wants lowest cost and the HR director wants best member experience, resolve that before the RFP goes out.)
-
-**About scope:**
-4. Are you evaluating the full pharmacy benefit (traditional, specialty, clinical programs, rebates) or just pricing?
-5. Is specialty pharmacy included or carved out separately?
-6. Are clinical programs (PA, step therapy, MTM) being evaluated on outcomes or just on whether they exist?
-
-**About the process:**
-7. Who is writing the RFP? (PBM-specialized expertise, whether from your broker's pharmacy team or an outside consultant, makes a material difference in the quality of the RFP.)
-8. How will proposals be scored? (Define the rubric before proposals arrive, not after.)
-9. What is your timeline from RFP issuance to contract execution? (Minimum 6 months recommended for a thorough process.)
-
-**About evaluation:**
-10. Will you require PBM finalists to present in person and answer questions from your evaluation committee? (Proposals look similar on paper. The finalist presentation is where you learn how the PBM actually operates.)
-
-The RFP process is your strongest leverage event. The quality of the process determines the quality of the outcome. A rushed or poorly structured RFP produces proposals that are not comparable and decisions that are not defensible.
-
-### Preview Image Prompt
-
-**Dimensions:** 2240 x 1260 px
-**Template:** Reference Channel — "What I'd Ask" (Gray background)
-
-Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
-
-**Per-instance overrides:**
-- Badge (top-right): "WHAT I'D ASK"
-- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 05 · Preparing for a PBM RFP`
-
----
-
-## Monthly Q&A Thread #3: Renewal Season Preparation
-
-**Publish:** Thursday, June 25, 2026 (last Thursday of June)
-**Format:** Substack Discussion Thread (not an article)
-**Access:** Subscriber-only (free subscribers can access)
-
-> Create this as a Discussion Thread on Substack, not a regular post.
-
-### Ready-to-Publish Content
-
-**Thread Title:** Ask Me Anything: Renewal Season Preparation
-
-**Thread Body:**
-
-H1 data is in. Renewal conversations are starting. This month's Q&A is focused on preparation.
-
-Questions I can help with:
-- What metrics to benchmark before renewal meetings
-- How to evaluate your PBM's renewal proposal
-- When to RFP vs. when to negotiate in place
-- Stop-loss coordination with pharmacy strategy
-- What "market competitive" actually means in specific categories
-
-The employers who prepare before renewal negotiate from data. Those who do not accept whatever terms arrive. Drop your questions below.
-
-### Preview Image Prompt
-
-**Dimensions:** 2240 x 1260 px
-**Template:** Reference Channel — "Monthly Q&A" (Gray background)
-
-Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
-
-**Per-instance overrides:**
-- Badge (top-right): "MONTHLY Q&A"
-- Plex Mono subtitle (22pt, white, tabular figures): `June 2026 thread`
-
----
-
-## "What We're Seeing" Q2 Report
-
-**Publish:** Monday, June 22, 2026
-**Format:** Standalone Substack post
-**Access:** Free (subscriber-only when paid tier launches)
-**Length:** 500-700 words
-
-> This report requires Ginny's actual observations from Q2 contract reviews. The template below provides the structure. Fill in the five patterns from real contract review data before publishing.
-
-### Ready-to-Publish Template
-
-### Title: What We're Seeing: Q2 2026 PBM Contract Patterns
-
-### Subtitle: Aggregated observations from Prescription Benefit Solutions contract reviews
-
----
-
-**Published:** [Last Monday of June 2026]
-**Access:** Subscriber-only
-
----
-
-This is a new addition to Benefit Blind Spots. Each quarter, we will share aggregated patterns from the PBM contracts Prescription Benefit Solutions reviews. No client is identified. No proprietary information is disclosed. These are the trends, gaps, and opportunities we are seeing across the market.
-
-**Why we are doing this:** The employers and brokers reading this publication manage pharmacy benefits with limited visibility into what other plans look like. We see approximately 100 contracts a year. That pattern recognition is valuable, and sharing it (in aggregate) helps the entire market make better decisions.
-
----
-
-**Pattern 1: [Title Based on What PBS Is Actually Seeing]**
-
-*Example framework (customize with real observations):*
-
-In [percentage or qualifier: "a majority of," "roughly half of," "a meaningful number of"] contracts reviewed this quarter, we found [specific pattern].
-
-What this means for employers: [practical implication].
-
-What to check in your contract: [specific provision or section to review].
-
----
-
-**Pattern 2: [Title]**
-
-[Same framework: observation, implication, action]
-
----
-
-**Pattern 3: [Title]**
-
-[Same framework]
-
----
-
-**Pattern 4: The Negotiation Ask That's Working**
-
-This quarter, the contract improvement that delivered the most consistent value for our clients was [specific change].
-
-How it works: [brief explanation]
-
-Why PBMs are accepting it: [market context]
-
-How to ask for it: [specific language or approach]
-
----
-
-**Pattern 5: The Gap Most Plans Still Have**
-
-The most common vulnerability we see, even in plans that think they are well-managed: [specific gap].
-
-Why it persists: [explanation]
-
-How to close it: [action steps]
-
----
-
-**What We're Watching for Q3**
-
-Looking ahead, we expect [2-3 trends or developments] to affect PBM contract dynamics in the second half of 2026.
-
----
-
-*These observations are aggregated from Prescription Benefit Solutions contract reviews. No individual client is identified. Patterns described represent general market observations, not specific plan data.*
-
-*Prescription Benefit Solutions | team@rxbs.org | www.rxbs.org*
-
----
-
-### Preview Image Prompt
-
-**Dimensions:** 2240 x 1260 px
-**Template:** Reference Channel (Gray background, Topic Icon recipe)
-
-**Prompt:**
-
-A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a solid Gray (#4D4D4D) background and generous negative space. No logos, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge, roughly 360px wide by 56px tall, with the text "WHAT WE'RE SEEING · Q2" in Primary Blue (#015880), Plex Sans SemiBold, 26pt, +6% letter tracking. Central composition on the left half: a 2 by 3 grid of six stylized document cards, each card roughly 180px by 240px, Accent Blue (#A7E0FA) outline, with three thin Accent Blue (#A7E0FA) horizontal lines inside each representing contract text. One card (second row, first column) is filled solid Accent Blue (#A7E0FA), highlighting it as the detected pattern. Overlapping the grid at a 15-degree tilt, a large flat magnifying glass, Accent Blue (#A7E0FA) outline, roughly 520px diameter, with its round lens filled translucent white (#FFFFFF 20% opacity) and positioned over the highlighted card so the magnified area shows a miniature trend line rising left to right inside the lens, in Accent Blue (#A7E0FA), 4px line weight. Eight small circular dots in Accent Blue (#A7E0FA) run along the top edge of the grid as a rhythmic marker row. Below the composition, a two-tone headline reads "What we're seeing." with "What we're" in white (#FFFFFF) and "seeing." in Accent Blue (#A7E0FA), Plex Sans SemiBold, 72pt, -1% tracking. Beneath it in smaller type: "Aggregated from ~100 contract reviews · Q2 2026" in Plex Mono Medium, 22pt, white (#FFFFFF) tabular figures. Flat editorial style, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Gray (#4D4D4D) background, Accent Blue (#A7E0FA), white (#FFFFFF), Primary Blue (#015880) for the badge text only.
-
-**Post-Generation Steps:**
-
-1. Generate in the AI tool at 2240 x 1260 px
-2. Open in Canva
-3. If AI-generated "What we're seeing." headline, badge quarter label, or Plex Mono subtitle is misspelled or misaligned, overlay correct text in Plex Sans SemiBold (headline and badge) and Plex Mono Medium (subtitle), same colors
-4. If the document-grid or magnifying-glass composition reads off, rebuild in Canva using flat icon library at Accent Blue (#A7E0FA)
-5. Top-left corner: "Benefit Blind Spots" text badge in Plex Sans SemiBold, 32pt, white (#FFFFFF)
-6. Bottom-right: PBS logo (light version for dark background), 160-200px width
-7. Verify the "WHAT WE'RE SEEING · Q[#]" pill badge survived any overlays
-8. For future quarterly reports, update both the badge quarter number and the Plex Mono subtitle quarter/year
-9. Export as PNG

@@ -275,6 +275,53 @@ This week's Benefit Blind Spots includes a **rebate contract analysis framework*
 
 ---
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #7: Tracking Your Rebate Dollars
+
+**Publish:** Tuesday, July 21, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If your PBM just told you the rebate guarantee was met, here are the questions I would ask to verify.
+
+**About the rebate calculation:**
+1. Show me the total rebates collected, the total claims eligible, and the rebates paid to the plan. All three numbers, for the reconciliation period.
+2. What percentage of eligible brand claims generated a rebate?
+3. Which manufacturer rebate contracts were excluded from the passthrough, and why?
+
+**About claim eligibility:**
+4. Were specialty claims included or excluded from the rebate calculation?
+5. Were mail-order and retail claims treated identically, or is there a differential?
+6. Were any claims reclassified from rebated to non-rebated during the period? If so, why?
+
+**About timing:**
+7. What is the lag between dispense date and when the rebate hits the plan? (Typical is 180 days; longer than that is worth a conversation.)
+8. Are rebates accrued monthly with a true-up, or paid only at reconciliation?
+
+**About comparison:**
+9. How does our rebate per brand claim compare to the PBM's aggregate book for similar-size plans?
+10. If we had more aggressive formulary management (tighter preferred tier, required step therapy for high-cost categories), what is the projected rebate lift?
+
+The rebate guarantee is the most manipulated line item in a PBM contract. The questions above test whether the reported number is real.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 07 · Tracking rebate dollars`
+
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 105 - Tuesday 10:00 AM

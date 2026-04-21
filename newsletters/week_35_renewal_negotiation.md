@@ -238,6 +238,53 @@ This week's Benefit Blind Spots includes a **renewal negotiation checklist**: 12
 
 ---
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #10: Reviewing a PBM Renewal Proposal
+
+**Publish:** Tuesday, September 2, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If I sat down with your PBM renewal proposal today, here are the questions I would ask before recommending whether to accept, negotiate, or RFP.
+
+**About pricing:**
+1. What is the proposed Generic Effective Rate, and how does it compare to the current guaranteed rate? Is it improving, flat, or eroding?
+2. Are brand discount guarantees based on AWP or WAC? Did the benchmark change from the current contract?
+3. What is the specialty drug pricing methodology? Is it a discount guarantee, a cost-plus model, or something else?
+
+**About rebates:**
+4. Is the rebate guarantee gross or net of PBM administrative fees?
+5. What manufacturer revenue categories are excluded from the passthrough definition?
+6. How does the proposed rebate per brand claim compare to the current guarantee and to actual performance?
+
+**About terms:**
+7. What changed from the current contract? Ask for a redline showing every modification.
+8. Did the termination provisions change? Check for auto-renewal language that was not in the prior contract.
+9. Are audit rights the same, expanded, or narrowed?
+
+**About performance:**
+10. How did the PBM perform against current contract guarantees? Request a guarantee reconciliation report before evaluating the renewal.
+
+The renewal proposal is the single most leveraged document of the year for your plan. Before you respond to what the PBM offered, test what they did with what you already paid them for.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 10 · Reviewing a renewal proposal`
+
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 129 - Tuesday 10:00 AM

@@ -254,6 +254,52 @@ This week's Benefit Blind Spots includes a **mid-year claims red flag checklist*
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #4: Investigating a Mid-Year Claims Anomaly
+
+**Publish:** Tuesday, June 9, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If the PBM's mid-year report shows something that does not match what you expected, a category that doubled, a drug that appeared from nowhere, a rebate line moving the wrong direction, here are the questions I would ask before accepting the explanation.
+
+**About the anomaly itself:**
+1. Which claims are driving the unexpected movement? Show me member-level detail for the top 20 claims in the flagged category.
+2. Are these new members, new prescriptions for existing members, or dosage changes for existing prescriptions?
+3. Were these claims adjudicated under the contract's preferred pricing, or did they fall into a secondary tier we did not expect to hit?
+
+**About clinical context:**
+4. Is there a clinical trend behind this (new guideline, new FDA approval, manufacturer push) or is this a utilization management failure?
+5. What percentage of the flagged claims went through step therapy or prior authorization? What percentage were denied and later overturned?
+6. For specialty claims in the anomaly, which pharmacy dispensed them? PBM-owned, independent, or 340B contract pharmacy?
+
+**About contract performance:**
+7. Are we still tracking against the GER, brand discount, and rebate guarantees despite this anomaly? Show me the calculation.
+8. Does the contract have a true-up provision that adjusts for unexpected mix shifts? If so, when does the adjustment run?
+
+**About the PBM's response:**
+9. What did the PBM flag to us before we asked? If the answer is "nothing," that is the first problem.
+10. What mitigation is the PBM proposing? Formulary change, prior authorization tightening, member outreach? Ask for the projected impact in dollars and the timeline to realize it.
+
+The mid-year claims report is not a PBM performance review. It is your early-warning system. Anomalies that are not investigated in Q2 show up as guarantee shortfalls or renewal rate shocks in Q4.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 04 · Mid-year claims anomaly`
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 81 - Tuesday 8:30 AM
@@ -755,6 +801,8 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 | Friday | | | | |
 | Saturday | | | | |
 | Sunday | | | | |
+
+---
 
 ---
 

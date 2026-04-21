@@ -278,6 +278,52 @@ This week's Benefit Blind Spots includes a **90-day renewal preparation timeline
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #5: Preparing for a PBM RFP
+
+**Publish:** Tuesday, June 23, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If you told me you were about to issue a PBM RFP, here are the questions I would ask you before you start.
+
+**About readiness:**
+1. Do you have 24 months of clean claims data ready to share with bidders? (Without good data, you get bad proposals.)
+2. Has your current PBM contract's termination window been confirmed? (Do not issue an RFP you cannot act on.)
+3. Do you have internal alignment on decision criteria? (If the CFO wants lowest cost and the HR director wants best member experience, resolve that before the RFP goes out.)
+
+**About scope:**
+4. Are you evaluating the full pharmacy benefit (traditional, specialty, clinical programs, rebates) or just pricing?
+5. Is specialty pharmacy included or carved out separately?
+6. Are clinical programs (PA, step therapy, MTM) being evaluated on outcomes or just on whether they exist?
+
+**About the process:**
+7. Who is writing the RFP? (PBM-specialized expertise, whether from your broker's pharmacy team or an outside consultant, makes a material difference in the quality of the RFP.)
+8. How will proposals be scored? (Define the rubric before proposals arrive, not after.)
+9. What is your timeline from RFP issuance to contract execution? (Minimum 6 months recommended for a thorough process.)
+
+**About evaluation:**
+10. Will you require PBM finalists to present in person and answer questions from your evaluation committee? (Proposals look similar on paper. The finalist presentation is where you learn how the PBM actually operates.)
+
+The RFP process is your strongest leverage event. The quality of the process determines the quality of the outcome. A rushed or poorly structured RFP produces proposals that are not comparable and decisions that are not defensible.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 05 · Preparing for a PBM RFP`
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 89 - Tuesday 8:30 AM
@@ -794,6 +840,8 @@ A broker called me once to say her client had asked for a renewal review from me
 | Friday | | | | |
 | Saturday | | | | |
 | Sunday | | | | |
+
+---
 
 ---
 

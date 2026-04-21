@@ -283,6 +283,90 @@ This week's Benefit Blind Spots includes a **compounding claims red flag report 
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #3: Investigating a High-Cost Compounding Claim
+
+**Publish:** Tuesday, May 27, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If a high-cost compounding claim crossed my desk, here are the questions I would ask before approving or denying it.
+
+**About the claim:**
+1. What are the active ingredients in this compound? List every ingredient with its concentration.
+2. Is there an FDA-approved commercial product available that contains the same primary active ingredient?
+3. What is the cost of the commercial alternative vs. the cost of this compound?
+
+**About the prescriber:**
+4. What is this prescriber's total compounding volume? How does it compare to peers in the same specialty?
+5. Does the prescriber have a financial relationship with the dispensing pharmacy?
+6. Is the prescriber aware that a commercial alternative exists?
+
+**About the pharmacy:**
+7. What is this pharmacy's total compounding claims volume with our plan?
+8. What percentage of this pharmacy's claims with our plan are compounding vs. traditional?
+9. Is this pharmacy flagged in any state board of pharmacy enforcement actions?
+
+**About the clinical justification:**
+10. What is the documented clinical rationale for why the commercial product cannot meet this patient's need? (The answer should be specific: allergy to an inactive ingredient, need for a dosage form not commercially available, etc. "Patient preference" or "prescriber preference" is not a clinical justification for a significantly higher cost.)
+
+One compounding claim is a question. A pattern of high-cost compounds from the same prescriber and pharmacy is an investigation.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 03 · High-cost compounding claim`
+
+---
+
+## Monthly Q&A Thread #2: PBM Contract Questions
+
+**Publish:** Thursday, May 28, 2026 (last Thursday of May)
+**Format:** Substack Discussion Thread (not an article)
+**Access:** Subscriber-only (free subscribers can access)
+
+> Create this as a Discussion Thread on Substack, not a regular post.
+
+### Ready-to-Publish Content
+
+**Thread Title:** Ask Me Anything: PBM Contract Questions
+
+**Thread Body:**
+
+Renewal season is approaching for many plans. This month's Q&A is focused on PBM contracts.
+
+Questions I can help with:
+- Contract language you do not understand
+- Terms you are not sure are competitive
+- Provisions you think are missing
+- Negotiation strategies for specific situations
+- How to evaluate what your PBM is telling you
+
+If you have your contract in front of you and something does not look right, describe the provision. I will tell you what it means and whether it serves your interest or your PBM's.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+
+Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+
+**Per-instance overrides:**
+- Badge (top-right): "MONTHLY Q&A"
+- Plex Mono subtitle (22pt, white, tabular figures): `May 2026 thread`
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 73 - Tuesday 8:30 AM
@@ -734,86 +818,3 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 ---
 
-# PART 8: ADDITIONAL SUBSTACK CONTENT (This Week)
-
-## "What I'd Ask" #3: Investigating a High-Cost Compounding Claim
-
-**Publish:** Tuesday, May 27, 2026 at 7:30 AM EST
-**Format:** Standalone Substack post
-**Access:** Free (subscriber-only when paid tier launches)
-**Length:** ~350 words
-
-> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
-
-### Ready-to-Publish Content
-
-If a high-cost compounding claim crossed my desk, here are the questions I would ask before approving or denying it.
-
-**About the claim:**
-1. What are the active ingredients in this compound? List every ingredient with its concentration.
-2. Is there an FDA-approved commercial product available that contains the same primary active ingredient?
-3. What is the cost of the commercial alternative vs. the cost of this compound?
-
-**About the prescriber:**
-4. What is this prescriber's total compounding volume? How does it compare to peers in the same specialty?
-5. Does the prescriber have a financial relationship with the dispensing pharmacy?
-6. Is the prescriber aware that a commercial alternative exists?
-
-**About the pharmacy:**
-7. What is this pharmacy's total compounding claims volume with our plan?
-8. What percentage of this pharmacy's claims with our plan are compounding vs. traditional?
-9. Is this pharmacy flagged in any state board of pharmacy enforcement actions?
-
-**About the clinical justification:**
-10. What is the documented clinical rationale for why the commercial product cannot meet this patient's need? (The answer should be specific: allergy to an inactive ingredient, need for a dosage form not commercially available, etc. "Patient preference" or "prescriber preference" is not a clinical justification for a significantly higher cost.)
-
-One compounding claim is a question. A pattern of high-cost compounds from the same prescriber and pharmacy is an investigation.
-
-### Preview Image Prompt
-
-**Dimensions:** 2240 x 1260 px
-**Template:** Reference Channel — "What I'd Ask" (Gray background)
-
-Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
-
-**Per-instance overrides:**
-- Badge (top-right): "WHAT I'D ASK"
-- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 03 · High-cost compounding claim`
-
----
-
-## Monthly Q&A Thread #2: PBM Contract Questions
-
-**Publish:** Thursday, May 28, 2026 (last Thursday of May)
-**Format:** Substack Discussion Thread (not an article)
-**Access:** Subscriber-only (free subscribers can access)
-
-> Create this as a Discussion Thread on Substack, not a regular post.
-
-### Ready-to-Publish Content
-
-**Thread Title:** Ask Me Anything: PBM Contract Questions
-
-**Thread Body:**
-
-Renewal season is approaching for many plans. This month's Q&A is focused on PBM contracts.
-
-Questions I can help with:
-- Contract language you do not understand
-- Terms you are not sure are competitive
-- Provisions you think are missing
-- Negotiation strategies for specific situations
-- How to evaluate what your PBM is telling you
-
-If you have your contract in front of you and something does not look right, describe the provision. I will tell you what it means and whether it serves your interest or your PBM's.
-
-### Preview Image Prompt
-
-**Dimensions:** 2240 x 1260 px
-**Template:** Reference Channel — "Monthly Q&A" (Gray background)
-
-Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
-
-**Per-instance overrides:**
-- Badge (top-right): "MONTHLY Q&A"
-- Plex Mono subtitle (22pt, white, tabular figures): `May 2026 thread`

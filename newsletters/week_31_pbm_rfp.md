@@ -258,6 +258,55 @@ This week's Benefit Blind Spots includes a **PBM RFP question bank**: 30 questio
 
 ---
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #8: Evaluating PBM RFP Responses
+
+**Publish:** Tuesday, August 4, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If you have RFP responses in hand and need to score them, here are the questions I would ask of each bidder before moving to finalist interviews.
+
+**About contract clarity:**
+1. Provide the complete contract language for every pricing guarantee, rebate guarantee, and termination provision referenced in the proposal. Summaries in the cover letter do not count.
+2. Which pricing guarantees are indexed (AWP, WAC, MAC) and which are fixed dollars?
+3. What pass-through definitions (rebate, fees, credits) differ from the industry standard, and why?
+
+**About assumptions:**
+4. What claim mix assumptions underlie your pricing? If our actual mix differs, what is the dollar impact on guaranteed pricing?
+5. What is your assumed generic dispense rate and mail penetration? Are these aligned with our current utilization?
+
+**About performance history:**
+6. For three clients of similar size and industry, what percentage of proposed guarantees were actually met over the first two years? Request documentation.
+
+**About hidden terms:**
+7. What fees (admin, clinical, network access, data) are not included in the headline pricing?
+8. Are there exclusivity requirements for specialty, mail order, or 340B routing?
+
+**About transition:**
+9. What are the implementation costs, and what portion is the PBM absorbing vs. passing to the plan?
+10. What is the data-transfer commitment if we move the business? Test for auto-renewal language and early-termination penalties.
+
+RFP responses are written to win the bid. The questions above separate what the PBM will commit to in writing from what lives in the marketing deck.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 08 · Evaluating RFP responses`
+
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 113 - Tuesday 10:00 AM

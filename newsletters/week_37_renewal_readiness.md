@@ -320,6 +320,53 @@ This week's Benefit Blind Spots includes the **renewal readiness scorecard**: 15
 
 ---
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## "What I'd Ask" #11: Final Checks Before Signing
+
+**Publish:** Tuesday, September 15, 2026 at 7:30 AM EST
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** ~350 words
+
+> This is a standalone post separate from the Monday deep dive. Publish as its own article on Benefit Blind Spots.
+
+### Ready-to-Publish Content
+
+If the renewal terms are negotiated and the contract is on your desk for signature, here are the questions I would ask before you sign.
+
+**About the final redline:**
+1. Is this contract line-by-line identical to what we agreed in the final negotiation session? Ask for a compare document against the last draft you reviewed.
+2. Were any definitions changed after the final negotiation, especially for rebates, specialty, or administrative fees?
+
+**About the term and exit:**
+3. What is the effective date, and does the termination notice window start from signature or from effective date?
+4. Is there auto-renewal language? If so, what is the opt-out window?
+5. If we carve out specialty, mail order, or clinical programs during the term, does that trigger pricing penalties?
+
+**About guarantees:**
+6. Are all pricing and rebate guarantees expressed as annual or aggregate measures? What happens in a partial year of the contract?
+7. Are guarantees subject to force majeure, formulary change, or legislative change clauses? If so, how broad is the exception language?
+8. Is there a guarantee reconciliation timeline and methodology written into the contract (not just referenced in a side letter)?
+
+**About accountability:**
+9. Who signs on the PBM's side, and is that person authorized to commit the PBM's parent company? (Subsidiary signatures without corporate guarantees are weaker.)
+10. If the PBM is acquired or merges during the contract term, which terms survive and which are renegotiable?
+
+The final signature is the moment of least leverage. Every question above should have been answered before now. If any are still open, they get answered before the contract is signed, not after.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What I'd Ask" (Gray background)
+
+Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT I'D ASK"
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 11 · Final checks before signing`
+
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 137 - Tuesday 10:00 AM
