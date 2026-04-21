@@ -11,7 +11,7 @@
 | Mon May 11 | 7:30 AM | Substack | "Fiduciary Duty and Pharmacy Benefits" | [ ] |
 | Mon May 11 | 7:45 AM | LinkedIn Newsletter | Fiduciary Responsibility Briefing | [ ] |
 | Mon May 11 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue May 12 | 8:30 AM | LinkedIn Feed | Post 65 - "What Your PBM Audit Should Actually Cover" Carousel (different pillar) | [ ] |
+| Tue May 12 | 8:30 AM | LinkedIn Feed | Post 65 - "What You See vs. What You Pay: Between-Renewal Leakage" Iceberg Infographic (different pillar) | [ ] |
 | Tue May 12 | 8:35 AM | LinkedIn Feed | Post 65 - First Comment | [ ] |
 | Tue May 12 | 1:30 PM | LinkedIn Company | Company Reshare of Post 65 | [ ] |
 | Wed May 13 | 8:30 AM | LinkedIn Feed | Post 66 - "You Are an ERISA Fiduciary. Most Employers Do Not Act Like It." Tease Hook (TEXT) | [ ] |
@@ -342,21 +342,19 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 65 - Tuesday 8:30 AM
-### "Where Self-Funded Plans Leak Money Between Renewal Cycles" (Infographic)
+### "What You See vs. What You Pay: Between-Renewal Leakage" — Iceberg Infographic
 
-> **Visual Build Note:** Use the **Timeline Drip** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames four quiet leakage points along a 24-month contract timeline. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Infographic
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~150 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-W3 = Infographic × Cost Containment. Monday newsletter pillar is Self-Funded Guidance (Fiduciary Responsibility), so no collision. Cost Containment averaged 3,244 impressions across 6 prior posts; the rotation weights this slot lightly (1 appearance per 6-week cycle) to balance coverage with performance data.
+**Template:** Iceberg ("What You See vs. What You Pay") clean infographic from `claude_design_prompts.md` (template #5). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Clean Infographic (Tuesday Cycle-W3 slot)
+**Pillar:** Cost Containment Strategies (different from Monday's Broker/Consultant Resources / Fiduciary topic)
+**Content shape:** Decoder-adjacent (translates "what the plan tracks" into "what the plan actually pays")
+**Why this combination:** Iceberg is the rotation's first Clean Info template and sits naturally on a "visible vs. hidden cost" argument. Between-renewal leakage is exactly that argument — renewal rate is above the waterline, four leakage mechanics are below.
 
 #### Post Copy
 
 Between renewals, most self-funded plans leak money in predictable places.
 
-We see four patterns across claims audits:
+We see four patterns in claims audits:
 
 1. Formulary drift. The PBM reclassifies tier placement or preferred status without notifying the plan, and the new economics quietly show up on the next invoice.
 
@@ -376,21 +374,37 @@ A mid-cycle claims review is the only way to catch them before renewal.
 
 More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
-#### Infographic Concept
+#### Image Layout Spec
 
-**Layout:** Horizontal 24-month contract timeline running across the full width. Clean, professional format (not messy style). Contract start on the left labeled "Renewal," contract end on the right labeled "Next Renewal."
+A single flat-design infographic at 1080 x 1350 px on a white (#FFFFFF) background. Classic Iceberg metaphor rendered as clean flat shapes.
 
-**Four drip icons** plotted along the timeline at realistic quarter-point intervals, each with a short label:
-1. Month 3: "Formulary Drift" (tier reclassification icon)
-2. Month 9: "Rebate Definition Creep" (shrinking arrow icon)
-3. Month 14: "Biosimilar Lag" (clock icon)
-4. Month 20: "Network Drift" (broken chain icon)
+**Above the waterline (top ~30% of image):** A triangle shape in Primary Blue (#015880) outline, filled with a lighter Primary Blue (#015880 at 15% opacity). Centered inside the triangle, in Plex Sans SemiBold 28pt Primary Blue: "RENEWAL RATE." Immediately above the triangle, in Plex Sans SemiBold 22pt Primary Blue, the label: "What the plan tracks." A thin horizontal Accent Blue (#A7E0FA) line runs across the full width at the waterline, labeled on the right in Plex Sans Regular 16pt Primary Blue: "renewal → renewal."
 
-**Center callout:** "Four leakage points. Zero line items on the PBM report."
+**Below the waterline (bottom ~70% of image):** A much larger iceberg body rendered as an irregular flat shape in Primary Blue (#015880) at 90% opacity. Inside the submerged mass, four distinct zones stacked vertically, each with an Accent Blue (#A7E0FA) icon and a short Plex Sans SemiBold label (20pt, white #FFFFFF), plus a one-line Plex Sans Regular (14pt, white) sublabel.
 
-**Bottom band:** Accent Blue (#A7E0FA) with: "Mid-cycle review catches them. Renewal audit does not." PBS logo bottom-right.
+- Zone 1 (upper): Icon = flat-style tier chart with an up-arrow. Label: "Formulary drift." Sublabel: "Tier reclassification without notice."
+- Zone 2 (upper-middle): Icon = flat-style shrinking arrow. Label: "Rebate definition creep." Sublabel: "Eligible-claim scope narrows over the term."
+- Zone 3 (lower-middle): Icon = flat-style clock. Label: "Biosimilar lag." Sublabel: "Non-preferred placement for 6-9 months after launch."
+- Zone 4 (lower): Icon = flat-style broken chain. Label: "Network drift." Sublabel: "Pharmacies leave the preferred tier mid-term."
 
-**Style:** Professional, Primary Blue (#015880) on white, with Accent Blue (#A7E0FA) highlight on the drip icons. Plex Sans body, Plex Sans SemiBold for the title.
+To the left of the submerged mass, a single vertical Plex Sans SemiBold label rotated 90 degrees, 20pt, Accent Blue: "What the plan actually pays."
+
+**Bottom band (Accent Blue #A7E0FA, ~60px tall):** In Primary Blue (#015880) Plex Sans SemiBold 22pt: "Mid-cycle review catches them. Renewal audit does not." PBS logo (dark version) bottom-right, 80-100px. "team@rxbs.org" bottom-left, Plex Mono Medium 14pt, Primary Blue.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white (#FFFFFF) background, clean flat-design iceberg infographic. Above the waterline: small Primary Blue (#015880) outlined triangle labeled "RENEWAL RATE" inside (Plex Sans SemiBold, Primary Blue) with "What the plan tracks" above it (Plex Sans SemiBold, 22pt, Primary Blue). Waterline is a horizontal Accent Blue (#A7E0FA) line across the full width, labeled "renewal → renewal" on the right in Plex Sans Regular (Primary Blue). Below the waterline: a large irregular flat iceberg shape in Primary Blue (#015880) at ~90% opacity, with four labeled zones stacked top to bottom (each with a flat Accent Blue icon and white Plex Sans text): (1) Formulary drift, tier chart with up-arrow; (2) Rebate definition creep, shrinking arrow; (3) Biosimilar lag, clock; (4) Network drift, broken chain. Each zone sublabeled in smaller white Plex Sans Regular. Rotated vertical label to the left of the submerged mass in Accent Blue (#A7E0FA) Plex Sans SemiBold: "What the plan actually pays." Bottom band: Accent Blue background, Primary Blue Plex Sans SemiBold tagline "Mid-cycle review catches them. Renewal audit does not." Flat corporate editorial style, no 3D, no gradients inside the iceberg mass, no photographs, no textures. Color palette: white background, Primary Blue (#015880), Accent Blue (#A7E0FA), dark Gray (#4D4D4D) only for secondary text if needed.
+
+**Post-Generation Steps:**
+
+1. Generate base image with the prompt above
+2. Open in Canva at 1080 x 1350 px
+3. If any zone labels misaligned or misspelled, overlay correct text in Plex Sans SemiBold (Label) and Plex Sans Regular (sublabel) using the specified colors
+4. Verify the rotated vertical Accent Blue label renders legibly against the Primary Blue iceberg mass; if not, adjust to 3pt white stroke around the Accent Blue text
+5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 18-22pt) top-left corner on the white background above the waterline
+6. Add PBS logo (dark version) bottom-right of the Accent Blue band
+7. Verify all text legible at thumbnail size (50% zoom test)
+8. Export as PNG
 
 ---
 
@@ -709,7 +723,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM)
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
-- [ ] Post 65 carousel created - "What Your PBM Audit Should Actually Cover" (DIFFERENT pillar from newsletter)
+- [ ] Post 65 Iceberg infographic created - "What You See vs. What You Pay: Between-Renewal Leakage" (Cost Containment pillar, DIFFERENT from Monday newsletter's Broker/Consultant Resources)
 - [ ] Post 65 first comment drafted with link to LinkedIn Newsletter
 - [ ] Post 66 text post finalized - "You Are an ERISA Fiduciary. Most Employers Do Not Act Like It."
 - [ ] Post 67 MESSY INFOGRAPHIC designed - Fiduciary Documentation Framework (WEEKLY THEME VISUAL)
@@ -721,7 +735,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 6: ASSETS NEEDED
 
-- [ ] Post 65: Carousel (7 slides) - PBM Audit scope, Plex Sans SemiBold headers, Plex Sans body, PBS brand colors
+- [ ] Post 65: Iceberg infographic (1 image, 1080 x 1350 px) - "What You See vs. What You Pay: Between-Renewal Leakage." Flat iceberg metaphor with renewal rate above waterline and four leakage mechanics (formulary drift, rebate definition creep, biosimilar lag, network drift) below. Plex Sans SemiBold labels, PBS brand palette. See PART 3 Post 65 for layout spec and image generation prompt.
 - [ ] Post 67: Messy Infographic - Fiduciary Documentation Framework, hand-drawn/whiteboard style, interconnected nodes layout, PBS colors (#015880, #A7E0FA)
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image
@@ -752,7 +766,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 | Post | Impressions | Engagement Rate | Actual |
 |------|------------|-----------------|--------|
-| Post 65 (Carousel) | - | - | |
+| Post 65 (Iceberg Infographic) | - | - | |
 | Post 66 (Text) | - | - | |
 | Post 67 (Messy Infographic) | - | - | |
 | Post 68 (Text) | - | - | |
