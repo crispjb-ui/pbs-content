@@ -11,7 +11,7 @@
 | Mon Jun 8 | 7:30 AM | Substack | "Five Claims Data Patterns That Signal Trouble Before Renewal" | [ ] |
 | Mon Jun 8 | 7:45 AM | LinkedIn Newsletter | Mid-Year Claims Briefing | [ ] |
 | Mon Jun 8 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jun 9 | 8:30 AM | LinkedIn Feed | Post 81 - "The Contract Clause That Saved a Client Six Figures" Infographic (different pillar) | [ ] |
+| Tue Jun 9 | 8:30 AM | LinkedIn Feed | Post 81 - "The Contract Clause That Saved a Client Six Figures" Chart-on-Whiteboard Messy Infographic (different pillar) | [ ] |
 | Tue Jun 9 | 8:35 AM | LinkedIn Feed | Post 81 - First Comment | [ ] |
 | Tue Jun 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 81 | [ ] |
 | Wed Jun 10 | 8:30 AM | LinkedIn Feed | Post 82 - "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" Strong POV (TEXT) | [ ] |
@@ -303,15 +303,13 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 81 - Tuesday 8:30 AM
-### "The Contract Clause That Saved a Client Six Figures" (Messy Infographic)
+### "The Contract Clause That Saved a Client Six Figures" — Chart-on-Whiteboard Audit Trail
 
-> **Visual Build Note:** Use the **Story Flow Whiteboard** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that walks through a three-beat client story: the clause, the audit finding, the recovery. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Messy Infographic
-**Pillar:** PBM Contract Insights
-**Word Count:** ~110 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W1 = Messy Infographic × PBM Contract Insights. Monday newsletter pillar is Self-Funded Employer Guidance (Mid-Year Claims), so no collision. PBM Contract Insights averaged 10,315 impressions across 8 prior posts with the highest follower conversion of any pillar (+51 total). Messy Infographic format hit 22,047 impressions on the single prior test.
+**Template:** Chart-on-Whiteboard messy infographic from `claude_design_prompts.md` (template #13). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Messy infographic (Tuesday Cycle-W1 slot, second cycle)
+**Pillar:** PBM Contract Insights (different from Monday's Self-Funded / Mid-Year Claims topic)
+**Content shape:** Decoder-in-story form. Anchor is the unfakeable proprietary detail: PBS pulled the reconciliation, found the shortfall, recovered six figures on a clause most employers do not know is there.
+**Why this combination:** Chart-on-Whiteboard renders a real-looking chart of year-over-year rebate performance against the contract's guaranteed minimum, with handwritten marker annotations walking through what PBS saw, what the PBM had not flagged, and what the recovery looked like. Strong for an audit-narrative topic because the chart does the evidentiary work and the annotations do the reasoning.
 
 #### Post Copy
 
@@ -329,23 +327,37 @@ Contract language only protects the plan if someone enforces it.
 
 More in this week's Pharmacy Benefits Briefing on mid-year claims analysis: [LINKEDIN NEWSLETTER URL]
 
-#### Messy Infographic Concept
+#### Image Layout Spec
 
-**Layout:** Off-white (#F5F5F0) background with faint grid lines. Hand-drawn, whiteboard-sketch style. Three-beat narrative flow top to bottom with Caveat-style handwriting throughout.
+Single image at 1080 x 1350 px rendered as a photographed whiteboard with a hand-drawn chart and marker annotations. Gray plastic whiteboard frame visible around the edges. Small dry-erase marker tray at the bottom of the frame with 3-4 markers (red, blue, black, green). Slight reflections and marker ghosting on the surface for realism.
 
-**Top band:** Handwritten title in Primary Blue (#015880), Caveat 34pt: "The Contract Clause That Saved a Client Six Figures." Small hand-drawn magnifying glass icon.
+**Top of whiteboard:** Handwritten title in black marker, Caveat-style handwriting ~34pt: "Rebate Guarantee vs. Actual · 3-year term." Underlined with a single horizontal blue marker stroke.
 
-**Beat 1 - "The Clause":** Hand-drawn rectangle labeled "CONTRACT — Year 1." Inside, typed mono contract text: "Minimum rebate guarantee with annual true-up provision." Red margin annotation: "This provision was there the whole time."
+**Center of whiteboard (the chart):** A hand-drawn bar chart or line chart showing three years of rebate performance, each year labeled on the x-axis in Plex Mono-style hand-lettering: "Year 1," "Year 2," "Year 3." Y-axis labeled "$ per brand claim" with three horizontal gridlines in Gray marker. A horizontal dashed red line across the chart at the guaranteed minimum level, labeled on the right end in red marker handwriting: "Guaranteed minimum (contract § 4.05)." Three bars (or data points) rendered in blue marker: Year 1 sits just above the guarantee line, Year 2 sits at the guarantee line, Year 3 sits visibly below the guarantee line. The Year 3 bar is circled heavily in red marker with a squiggly double-outline.
 
-**Beat 2 - "The Finding":** Hand-drawn down-arrow to a second rectangle labeled "AUDIT — Year 3." Inside: "Rebate performance: below guaranteed minimum." Red margin annotation with handwritten circle around "below": "The data never got cross-referenced against the clause."
+**Annotations radiating from the chart:**
+- Red arrow pointing to the Year 3 bar with Caveat handwritten note: "Shortfall · never flagged by PBM."
+- Blue arrow pointing to the red guaranteed-minimum line with Caveat handwritten note: "This provision was in the contract the entire time."
+- Green arrow pointing from the Year 3 bar to a green Accent Blue (#A7E0FA) filled rectangle in the lower-right quadrant with large Caveat handwriting inside in Primary Blue: "$$$ TRUE-UP OWED. Six figures."
 
-**Beat 3 - "The Recovery":** Hand-drawn arrow leading to an Accent Blue (#A7E0FA) rectangle. Large handwritten text: "$$$ TRUE-UP OWED." Red margin note: "Six figures. Recovered because someone read both documents together."
+**Bottom of whiteboard:** Handwritten in red marker, underlined with a scribbled line: "Contract language only protects the plan if someone enforces it." Below that, smaller Caveat handwriting in Gray: "When was your last PBM audit?"
 
-**Bottom callout:** Handwritten in red, underlined: "Contract language only protects the plan if someone enforces it."
+**Outside the whiteboard frame:** Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" badge top-left. Plex Mono Medium 12pt Gray "rxbs.org" bottom-left. PBS logo (dark version, 60-80px) bottom-right.
 
-**Bottom bar:** "When was your last PBM audit?" PBS logo bottom-right. team@rxbs.org bottom-left.
+#### Image Generation Prompt
 
-**Style:** Whiteboard-sketch aesthetic. Hand-drawn arrows and rectangles slightly imperfect. Red (#C0392B) for annotations, Primary Blue (#015880) for structure, Accent Blue (#A7E0FA) for the recovery highlight, Gray (#4D4D4D) for contract body text.
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Photorealistic whiteboard surface photographed straight-on, gray plastic frame visible around the edges, small tray at the bottom with 3-4 dry-erase markers (red, blue, black, green), slight surface reflections and marker ghosting. On the whiteboard: at the top, handwritten title in black marker, Caveat-style ~34pt: "Rebate Guarantee vs. Actual · 3-year term." A single blue marker underline beneath the title. Center: hand-drawn bar chart with three vertical bars labeled "Year 1," "Year 2," "Year 3" on the x-axis and "$ per brand claim" on the y-axis, three horizontal gridlines in Gray marker, a horizontal dashed red line across the chart representing the guaranteed minimum labeled "Guaranteed minimum (contract § 4.05)." Year 1 bar just above the red line, Year 2 bar at the red line, Year 3 bar visibly below. Year 3 bar circled in red marker with a squiggly double outline. Red arrow with handwritten Caveat note "Shortfall · never flagged by PBM." pointing to the Year 3 bar. Blue arrow with handwritten note "This provision was in the contract the entire time." pointing to the guarantee line. Green arrow from Year 3 to an Accent Blue (#A7E0FA) filled rectangle in the lower-right with large Primary Blue Caveat handwriting: "$$$ TRUE-UP OWED. Six figures." Bottom of whiteboard: red marker handwritten Caveat "Contract language only protects the plan if someone enforces it." with scribbled underline. Below in smaller Gray Caveat: "When was your last PBM audit?" All writing imperfect but legible, marker pressure variation, no computer typography on the whiteboard surface. Color palette: whiteboard off-white (#F8F7F2), black marker, red marker (#C0392B), blue marker (#015880), green marker / Accent Blue (#A7E0FA), Gray (#4D4D4D). Flat photograph style, no 3D, no text outside the whiteboard except PBS branding elements.
+
+**Post-Generation Steps:**
+
+1. Generate base image using the prompt above
+2. Verify the bar heights correctly represent Year 3 below the guaranteed minimum line (most common failure: all three bars render at the same height)
+3. If the handwriting renders as illegible scribble, overlay Caveat handwritten annotations in Canva on top of the AI-generated base
+4. Confirm the red "TRUE-UP OWED" rectangle is visible in the lower-right quadrant, not off-frame
+5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 14pt, Primary Blue) top-left OUTSIDE the whiteboard frame
+6. Add "rxbs.org" (Plex Mono Medium, 12pt, Gray) bottom-left outside the frame
+7. Add PBS logo (dark, 60-80px) bottom-right outside the frame
+8. Export as PNG
 
 ---
 
@@ -726,7 +738,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM)
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
-- [ ] Post 81 - "The Contract Clause That Saved a Client Six Figures" infographic designed and ready (Tue 8:30 AM)
+- [ ] Post 81 Chart-on-Whiteboard messy infographic designed and ready - "The Contract Clause That Saved a Client Six Figures" (PBM Contract Insights pillar, DIFFERENT from Monday's Self-Funded / Mid-Year Claims topic)
 - [ ] Post 81 - First comment drafted with link to LinkedIn Newsletter
 - [ ] Post 82 - "Your Claims Data Is Already Telling You" text post ready (Wed 8:30 AM)
 - [ ] Post 83 - Five Mid-Year Claims Red Flags infographic designed and ready (Thu 8:30 AM)
@@ -747,7 +759,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 81 Infographic | Single image | Contract Clause story - different topic from newsletter |
+| Post 81 Chart-on-Whiteboard Messy Infographic | Single image (1080 x 1350 px) | Photorealistic whiteboard with 3-year rebate guarantee chart, Year 3 shortfall circled in red, "TRUE-UP OWED" recovery callout in Accent Blue. PBM Contract Insights pillar. See PART 3 Post 81 for layout and image generation prompt. |
 | Post 83 Infographic | Single image | Five Mid-Year Claims Red Flags - weekly theme visual |
 | Substack article header image | 2240x1260 | [ ] Design needed |
 | Substack Field Note header image | 2240x1260 | [ ] Design needed |

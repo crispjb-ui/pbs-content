@@ -11,7 +11,7 @@
 | Mon Jun 1 | 7:30 AM | Substack | "The Biosimilar Opportunity Your Plan Is Missing" | [ ] |
 | Mon Jun 1 | 7:45 AM | LinkedIn Newsletter | Biosimilar Strategy Briefing | [ ] |
 | Mon Jun 1 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jun 2 | 8:30 AM | LinkedIn Feed | Post 77 - "How PBM Spread Pricing Works" Infographic (different pillar) | [ ] |
+| Tue Jun 2 | 8:30 AM | LinkedIn Feed | Post 77 - "5 Numbers Every Self-Funded CFO Should Pull Before Q3" One Number Carousel (different pillar) | [ ] |
 | Tue Jun 2 | 8:35 AM | LinkedIn Feed | Post 77 - First Comment | [ ] |
 | Tue Jun 2 | 1:30 PM | LinkedIn Company | Company Reshare of Post 77 | [ ] |
 | Wed Jun 3 | 8:30 AM | LinkedIn Feed | Post 78 - "Your PBM May Have a Financial Incentive to Keep You on the Brand" Strong POV (TEXT) | [ ] |
@@ -270,15 +270,13 @@ This week's Benefit Blind Spots includes a **biosimilar readiness assessment**: 
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 77 - Tuesday 8:30 AM
-### "5 Numbers Every Self-Funded CFO Should Pull Before Q3" (Carousel)
+### "5 Numbers Every Self-Funded CFO Should Pull Before Q3" — One Number Carousel
 
-> **Visual Build Note:** Use the **Metrics Dashboard** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames five claims-data metrics with a one-line interpretation note on each. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Carousel (6 slides)
-**Pillar:** Self-Funded Employer Guidance
-**Word Count:** ~200 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-W2 = Carousel × Self-Funded Guidance (carried forward after Week 18 used the Clinical Pharmacy slot for GLP-1). Monday newsletter pillar is Clinical Pharmacy (Biosimilar Strategy), so no collision. Self-Funded Guidance averaged 6,909 impressions across 3 prior posts, placing it mid-pack; the rotation weights this slot lightly but guarantees coverage every cycle.
+**Template:** One Number carousel (Template C) from `claude_design_prompts.md`. Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
+**Format class:** Carousel (Tuesday Cycle-W2 slot)
+**Pillar:** Self-Funded Employer Guidance (different from Monday's Clinical Pharmacy / Biosimilar Strategy topic)
+**Content shape:** Number-forward with decoder framing ("here is the number, here is what it actually tells you"). Proven 20-24K impression range for One Number format (reference: Post 97 One Number Carousel on W15 340B).
+**Why this combination:** One Number is the rotation's stat-forward template, and a CFO audience responds to number-first argumentation. Each slide hangs on a single metric; the one-line interpretation below decodes what the number actually means for the plan. Q3 planning timing gives the post a concrete use-by moment.
 
 #### Post Copy
 
@@ -288,7 +286,7 @@ Five metrics self-funded CFOs should pull before the Q3 planning cycle:
 
 1. Net cost per script, trended quarterly. Aggregate totals hide the real direction. Trend it.
 
-2. Specialty as a percentage of total pharmacy spend. If it is above 50% and climbing, the renewal conversation has already changed.
+2. Specialty as a percentage of total pharmacy spend. If it is above 50 percent and climbing, the renewal conversation has already changed.
 
 3. Rebate-to-gross-claims ratio, compared to the contractual minimum guarantee. A widening gap is where renewal leverage lives.
 
@@ -304,21 +302,37 @@ None of these require a new vendor. All of them are in your existing claims data
 
 More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN NEWSLETTER URL]
 
-#### Carousel Slide Descriptions
+#### Carousel Slide-by-Slide Spec
 
-**Slide 1 - Cover:** "5 Numbers Every Self-Funded CFO Should Pull Before Q3" - Primary Blue (#015880) background, Plex Sans SemiBold header. Subtitle in Accent Blue: "All five are already in your claims data."
+All seven slides render as a One Number Carousel. Cover and close use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold display type. Content slides (2-6) use white backgrounds with one large Plex Mono Medium tabular number per slide as the primary visual element, flanked by a Plex Sans SemiBold label above (what the number measures) and a two-line Plex Sans Regular interpretation below (what the number actually means for the plan). Slide number "N / 7" in Plex Mono Medium 14pt bottom-right of every slide. "PBS CONTRACT LANGUAGE" eyebrow replaced with "PBS CFO METRICS · NUMBER N" on the cover only.
 
-**Slide 2 - Net Cost Per Script (Trended):** Headline: "Trend, not total." Below: "Aggregate spend hides the direction. Quarter-over-quarter tells you where the plan is going."
+**Slide 1 — Cover.** Solid Primary Blue (#015880) background. Small uppercased eyebrow label top-left in Plex Sans SemiBold 14pt white, +6% tracking: "PBS CFO METRICS · Q3." Headline centered-left in Plex Sans SemiBold 56pt white: "5 numbers every self-funded CFO should pull *before* Q3." (word "before" in italic Accent Blue.) Subhead in Plex Sans Regular italic 22pt Accent Blue: "All five are already in your claims data." Bottom-right Plex Sans SemiBold 18pt white: "SWIPE FOR THE NUMBERS →." Top-right Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions." Bottom-left Plex Mono Medium 14pt white: "rxbs.org." Bottom-right corner Plex Mono Medium 14pt Accent Blue: "01 / 07."
 
-**Slide 3 - Specialty % of Spend:** Headline: "Above 50% changes the conversation." Below: "Specialty concentration rewrites renewal leverage. Know the number before you negotiate."
+**Slide 2 — Net cost per script, trended.** White background. Top: Plex Sans SemiBold 24pt Primary Blue label "Number one · Net cost per script, quarterly trend." Center: a single very large number rendered in Plex Mono Medium tabular figures, 220pt Primary Blue — a stylized arrow pointing upward right (↗) with the caption "trend, not total" in smaller Plex Sans Regular italic Accent Blue below it. (The "number" on this slide is a direction symbol, not a digit, to visually establish that this is about trend.) Below, in Plex Sans Regular 20pt Primary Blue, two lines: "Aggregate spend hides direction. Quarter-over-quarter tells you where the plan is going." Primary Blue "WHY IT MATTERS" panel at bottom, ~18% of slide, white Plex Sans Regular 16pt: "If your Q3 cost per script is flat year-over-year, specialty mix is absorbing something. That something is your leverage conversation."
 
-**Slide 4 - Rebate-to-Claims Ratio:** Headline: "Compare actual to the minimum guarantee." Below: "A widening gap is remediation-eligible and most plans never claim it."
+**Slide 3 — Specialty as percent of total.** White background. Top: Plex Sans SemiBold 24pt Primary Blue: "Number two · Specialty share of pharmacy spend." Center: large Plex Mono Medium tabular number in Primary Blue, 220pt: "50%." Small arrow pointing up-right in Accent Blue beside it. Below, Plex Sans Regular 20pt Primary Blue: "Above 50 percent changes the conversation. Specialty concentration rewrites renewal leverage." "WHY IT MATTERS" panel: "Know the number before you negotiate. A plan above 50 percent specialty is negotiating a different contract than a plan at 35 percent."
 
-**Slide 5 - Top 25 Drug Spend:** Headline: "Every name needs a strategy." Below: "Humira, Stelara, Keytruda tier drugs should have a clinical and renewal plan attached."
+**Slide 4 — Rebate-to-claims ratio.** White background. Top: "Number three · Rebate per brand claim, actual vs. guarantee." Center: a side-by-side pair of Plex Mono Medium numbers in Primary Blue, 160pt, separated by a small Plex Sans SemiBold "vs." in Accent Blue. Format: "Actual" (left, number placeholder like "$XX.XX") and "Guarantee" (right, number placeholder). Below, Plex Sans Regular 20pt Primary Blue: "A widening gap is remediation-eligible. Most plans never claim it." "WHY IT MATTERS" panel: "If actual is below guarantee, the reconciliation provision says you are owed cash. Pull the number, pull the clause, demand the payment."
 
-**Slide 6 - CTA:** Primary Blue (#015880) background. White text: "Pull these before your Q3 meeting. Not after." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 5 — Top 25 drugs by spend.** White background. Top: "Number four · Top 25 drugs by plan spend." Center: large Plex Mono Medium number "25" in Primary Blue, 220pt. Below "25," in Plex Sans SemiBold 20pt Accent Blue: "Humira. Stelara. Keytruda. Ozempic. Zepbound." Below, Plex Sans Regular 20pt Primary Blue: "Every name on the list needs a clinical rationale and a renewal strategy attached." "WHY IT MATTERS" panel: "The top 25 drive the majority of plan spend. The PBM has strategy on each. You should too, by name, before the renewal meeting."
 
-**Style:** Clean professional template. Plex Sans body, Plex Sans SemiBold headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
+**Slide 6 — Claims-to-eligibility ratio.** White background. Top: "Number five · Claims-to-eligibility ratio." Center: large Plex Mono Medium stylized fraction in Primary Blue, 180pt: "claims / eligible." Below, Plex Sans Regular 20pt Primary Blue: "If claims drift from active member count, terminated members are still generating spend." "WHY IT MATTERS" panel: "Eligibility errors show up as small line items each month and add up to real dollars by year-end. Audit the ratio mid-year, not at renewal."
+
+**Slide 7 — Close.** Solid Primary Blue (#015880) background. Plex Sans SemiBold 52pt white centered-left: "Pull these before your Q3 meeting. *Not after.*" (word "not after" italic Accent Blue.) Below, Plex Sans Regular 20pt white: "Your PBM has already run these numbers. They are using them to prepare your renewal." Bottom block Plex Sans Regular 16pt Accent Blue: "Send this to your CFO. team@rxbs.org | Benefit Blind Spots." Bottom-right Plex Mono Medium 14pt Accent Blue: "07 / 07." Bottom-left Plex Mono Medium 14pt white: "rxbs.org."
+
+#### Image Generation Prompt (one prompt produces all seven slides via Claude Design)
+
+Claude Design project type: **Slide deck from template**. Use the One Number carousel (Template C) master from `claude_design_prompts.md` as the base. Generate 7 stacked slides at 1080 x 1350 px each. Shared visual system: Cover (Slide 1) and close (Slide 7) use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold display headlines and Accent Blue (#A7E0FA) italic emphasis words. Content slides (2-6) use white backgrounds with one large Plex Mono Medium tabular figure (or stylized symbol on Slide 2) as the center visual, a Plex Sans SemiBold label above, and a Plex Sans Regular interpretation block below. Every content slide carries a Primary Blue (#015880) "WHY IT MATTERS" panel across the bottom ~18% with white Plex Sans Regular 16pt body. Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right of every slide. Cover eyebrow "PBS CFO METRICS · Q3" top-left in Plex Sans SemiBold 14pt white, +6% letter tracking. Pull slide-by-slide content (labels, numbers, interpretation text, "WHY IT MATTERS" copy) from the spec above, Slide 1 through Slide 7.
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck via Claude Design using the prompt and slide-by-slide spec above
+2. Export individual slides as PNGs, 1080 x 1350 px each
+3. Spot-check the large Plex Mono numbers on Slides 2-6: tabular alignment, decimal placement, consistent size across slides
+4. If the Slide 2 up-arrow symbol renders oddly, overlay a clean flat ↗ arrow in Canva
+5. Verify "WHY IT MATTERS" panels land at consistent vertical position across Slides 2-6
+6. Verify the closing slide's Plex Sans italic emphasis on "Not after" renders correctly
+7. Upload as native LinkedIn carousel (document upload)
 
 #### First Comment
 
@@ -789,7 +803,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM)
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
-- [ ] Post 77 - "How PBM Spread Pricing Works" infographic designed and ready (Tue 8:30 AM)
+- [ ] Post 77 One Number Carousel designed and ready - "5 Numbers Every Self-Funded CFO Should Pull Before Q3" (7 slides, Self-Funded Employer Guidance pillar)
 - [ ] Post 77 - First comment drafted with link to LinkedIn Newsletter
 - [ ] Post 78 - "Your PBM May Have a Financial Incentive to Keep You on the Brand" text post ready (Wed 8:30 AM)
 - [ ] Post 79 - Biosimilar Readiness Checklist infographic designed and ready (Thu 8:30 AM)
@@ -810,7 +824,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 77 Infographic | Single image | How PBM Spread Pricing Works - different topic from newsletter |
+| Post 77 One Number Carousel | 7 slides (1080x1350) | "5 Numbers Every Self-Funded CFO Should Pull Before Q3" - Self-Funded Employer Guidance pillar |
 | Post 79 Infographic | Single image | Biosimilar Readiness Checklist - weekly theme visual |
 | Substack article header image | 2240x1260 | [ ] Design needed |
 | Substack Field Note header image | 2240x1260 | [ ] Design needed |
@@ -848,7 +862,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 | Post | Impressions | Engagement Rate | Comments |
 |------|------------|-----------------|----------|
-| Post 77 (Tue Infographic) | | | |
+| Post 77 (Tue One Number Carousel) | | | |
 | Post 78 (Wed Text) | | | |
 | Post 79 (Thu Infographic) | | | |
 | Post 80 (Fri Text) | | | |

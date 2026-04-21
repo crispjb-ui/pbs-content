@@ -11,7 +11,7 @@
 | Mon May 25 | 7:30 AM | Substack | "The Compounding Pharmacy Problem" | [ ] |
 | Mon May 25 | 7:45 AM | LinkedIn Newsletter | Compounding Oversight Briefing | [ ] |
 | Mon May 25 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue May 26 | 8:30 AM | LinkedIn Feed | Post 73 - "Renewal Season Checklist" Carousel (different pillar) | [ ] |
+| Tue May 26 | 8:30 AM | LinkedIn Feed | Post 73 - "The Five Clauses the Best Brokers Check First" Library 02 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue May 26 | 8:35 AM | LinkedIn Feed | Post 73 - First Comment | [ ] |
 | Tue May 26 | 1:30 PM | LinkedIn Company | Company Reshare of Post 73 | [ ] |
 | Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "$1,200 cream. $47 alternative. Same ingredient." Tease Hook (TEXT) | [ ] |
@@ -370,53 +370,66 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 73 - Tuesday 8:30 AM
-### "What the Best Brokers Ask Before a PBM Renewal Meeting" (Carousel)
+### "The Five Clauses the Best Brokers Check First" — Library 02 Contract Comparison Carousel
 
-> **Visual Build Note:** Use the **Checklist** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames five pre-meeting questions with a one-line "why it matters" beneath each. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Carousel (6 slides)
-**Pillar:** Broker/Consultant Resources
-**Word Count:** ~195 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-W5 = Carousel × Broker/Consultant Resources. Monday newsletter pillar is PBM Contract Insights (Compounding Oversight), so no collision. Broker/Consultant pillar gets one appearance per 6-week cycle, weighted lighter than the top three pillars. Framing positions brokers as the allies who surface these questions, consistent with PBS brand rule that brokers are partners and PBMs are adversaries.
+**Template:** Contract Comparison carousel from `claude_design_prompts.md` (template #4, PROVEN April 2026). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
+**Format class:** Carousel (Tuesday Cycle-W5 slot)
+**Pillar:** Broker/Consultant Resources (different from Monday's PBM Contract Insights / Compounding Oversight topic)
+**Content shape:** Decoder (20-25K impression floor, 9-12 followers per 10K conversion rate). Also a Library NN series entry — **Library 02** in the "PBM Contract Language · Library NN" series.
+**Why this combination:** Library 01 shipped April 21 and is the series benchmark. Library 02 extends the same Contract Comparison redline aesthetic to broker-readable clauses. Broker pillar framing positions the content as "here is what the best brokers read first, so you know what to expect at your next renewal meeting," consistent with the brokers-as-partners brand rule. Funnels to the Contract Language Library Substack post via the closing slide.
 
 #### Post Copy
 
-Every broker we work with has a checklist. The best ones bring five questions to the table before the PBM renewal meeting, and they arrive with the data already run.
+Every broker we work with has a pre-renewal reading list. The best ones check the same five clauses first, because these are the ones that quietly reshape the economics between now and next renewal.
 
-1. What is the actual trend in our net-of-rebate cost per script over the past 24 months? (Not the reported trend. The calculated one.)
+I redlined each of them below.
 
-2. Which of our guarantees missed in the current term, and what remediation was paid?
-
-3. What percentage of our specialty spend flowed through a PBM-affiliated pharmacy versus independent specialty?
-
-4. Where does our contract language differ from current market-standard provisions, particularly on price protection, rebate definition, and termination rights?
-
-5. What does our contract entitle us to that we are not currently using? Audit rights, data access, reporting frequency.
+1. Rebate definition. What is "eligible" and what is carved out of pass-through.
+2. AWP discount base. Whether the guarantee is applied to ingredient cost or total claim cost, and which categories are excluded.
+3. Guarantee remediation. What the contract says happens when a guarantee misses and who is responsible for calculating it.
+4. Termination and data transfer. Whether you can exit without penalty and take your data with you.
+5. Audit rights. What you are entitled to inspect, and the notice and timing you must follow to use it.
 
 The brokers who win renewal negotiations do not arrive to learn. They arrive to verify. Self-funded sponsors should expect that standard from their broker, and brokers should expect their clients to ask for it.
 
-#PharmacyBenefits #BrokerResources #PBMRenewal #SelfFundedEmployers
+Swipe through for the redline on each clause.
+
+#PharmacyBenefits #BrokerResources #PBMContracts #SelfFundedEmployers
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+The full protective language for each of these five clauses sits in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
-#### Carousel Slide Descriptions
+#### Carousel Slide-by-Slide Spec
 
-**Slide 1 - Cover:** "What the Best Brokers Ask Before a PBM Renewal Meeting" - PBS branding, Primary Blue (#015880) background, Plex Sans SemiBold header. Subtitle in Accent Blue: "5 questions. Answered before the meeting, not during."
+All seven slides render as a Library NN Contract Comparison carousel, matching the Library 01 benchmark exactly. Cover and closing slides use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold headlines and italic emphasis words rendered in Accent Blue (#A7E0FA). Content slides (2-6) use an off-white paper background (#F5F0E4) with a typed contract-document aesthetic: Plex Mono 11-12pt contract body text, red (#C0392B) strikethroughs on language to retire, Accent Blue (#A7E0FA) highlight on inserted/protective language, section markers in Plex Sans SemiBold uppercase ("§ SECTION 4.02 · REBATE PASS-THROUGH" style). Each content slide carries a Primary Blue "WHY IT MATTERS" panel at the bottom, ~18% of slide height, white Plex Sans Regular 16pt body text explaining the dollar or leverage stakes in two lines.
 
-**Slide 2 - Q1 Net Cost Trend:** Headline: "What is our actual net-of-rebate trend?" Below: "The reported trend uses the PBM's methodology. Pull your own."
+**Slide 1 — Cover.** Solid Primary Blue (#015880) background. Small uppercased eyebrow label top-left in Plex Sans SemiBold 14pt white, +6% letter tracking: "PBM CONTRACT LANGUAGE · LIBRARY 02." Headline centered-left in Plex Sans SemiBold 56pt white: "The five clauses the best brokers check *first*." (word "first" in italic Accent Blue.) Subhead in Plex Sans Regular italic 22pt Accent Blue: "The redlines your broker should arrive with, not ask for." Bottom-right in Plex Sans SemiBold 18pt white: "SWIPE FOR THE REDLINE →." Top-right in Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions." Bottom-left in Plex Mono Medium 14pt white: "rxbs.org." Bottom-right corner in Plex Mono Medium 14pt Accent Blue: "02 / 07."
 
-**Slide 3 - Q2 Guarantee Remediation:** Headline: "Which guarantees missed, and what was paid?" Below: "Unpaid remediation is the easiest recovery in renewal negotiation."
+**Slide 2 — Rebate definition.** Off-white paper background. Header eyebrow in Plex Sans SemiBold 11pt uppercase Gray: "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · § 4.02 · REBATE PASS-THROUGH." Centered content card renders the contract language in Plex Mono 12pt. Red strikethrough on vague language: ~~"Rebate pass-through shall include such manufacturer revenue as PBM in its reasonable discretion deems eligible for passthrough."~~ Accent Blue highlight on protective insertion: "Rebate pass-through shall include 100 percent of all manufacturer payments, including base rebates, administrative fees, market-share payments, data fees, inflation protection payments, and any other manufacturer revenue received by PBM or any Affiliate in connection with Plan Sponsor's claims." Primary Blue "WHY IT MATTERS" panel at bottom in white Plex Sans Regular 16pt: "If the PBM controls what 'eligible' means, the passthrough guarantee is whatever they want it to be. Anchor it to every revenue category, by name." Slide number "02 / 07" Plex Mono Medium 12pt Gray bottom-right.
 
-**Slide 4 - Q3 Specialty Routing:** Headline: "What percent of specialty flowed through PBM-affiliated?" Below: "The routing is in the contract. The dollar impact is in the claims file."
+**Slide 3 — AWP discount base.** Same layout. Header: "§ 4.01 · PRICING · GENERIC AND BRAND DISCOUNT." Contract card: Red strikethrough on ~~"Brand discount calculated off applicable AWP, subject to standard industry exclusions."~~ Accent Blue insertion: "Brand discount calculated off AWP at the time of dispensing as published by First Databank, applied to ingredient cost before any fees. Exclusions limited to specialty drugs dispensed by a non-affiliated limited distribution pharmacy and clearly listed by NDC in Exhibit C." "WHY IT MATTERS" panel: "'Standard industry exclusions' is a blank check. Excluded categories move the real guarantee by hundreds of basis points. Name every exclusion; publish the NDC list."
 
-**Slide 5 - Q4 Market-Standard Provisions:** Headline: "Where does our language trail the market?" Below: "Price protection, rebate definition, termination. Start there."
+**Slide 4 — Guarantee remediation.** Same layout. Header: "§ 4.05 · GUARANTEE RECONCILIATION." Contract card: Red strikethrough on ~~"In the event a guarantee is not met, PBM shall remediate in accordance with its standard reconciliation process."~~ Accent Blue insertion: "Within 60 days following each contract year, PBM shall deliver a guarantee reconciliation report showing actual performance against each guarantee with supporting claim-level detail. Any shortfall shall be paid in cash to Plan Sponsor within 30 days of report delivery. Plan Sponsor retains the right to independent audit of the reconciliation at PBM's expense." "WHY IT MATTERS" panel: "A 'standard reconciliation process' that you cannot see is not a remediation mechanism. Require the timeline, the supporting data, and the payment terms in writing."
 
-**Slide 6 - CTA:** Primary Blue (#015880) background. White text: "Arrive to verify, not to learn." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 5 — Termination and data transfer.** Same layout. Header: "§ 9.03 · TERMINATION · DATA TRANSFER." Contract card: Red strikethrough on ~~"Upon termination, PBM will provide reasonable transition assistance subject to customary fees."~~ Accent Blue insertion: "Upon termination for any reason, PBM shall provide, within 45 days and at no cost to Plan Sponsor, complete claim history, member eligibility, accumulators, prior authorization files, and any data necessary for a successor PBM to administer the benefit. PBM shall not condition data transfer on any payment or waiver." "WHY IT MATTERS" panel: "'Customary fees' for data transfer is how incumbents hold renewal leverage. Strip the fee, set the deadline, remove the condition."
 
-**Style:** Clean, professional template. Plex Sans body, Plex Sans SemiBold headers. Numbered 1/5 through 5/5 top-right on slides 2-6.
+**Slide 6 — Audit rights.** Same layout. Header: "§ 10.01 · AUDIT." Contract card: Red strikethrough on ~~"Plan Sponsor may audit PBM's records once per contract term at Plan Sponsor's expense, subject to PBM's customary audit protocols."~~ Accent Blue insertion: "Plan Sponsor or its designated auditor may audit PBM's records relating to Plan Sponsor's claims, pricing, rebates, and clinical programs upon 30 days notice, not more than twice per contract year. PBM shall not restrict the audit scope, the auditor's identity, or the format of the records produced. Findings are binding on PBM unless contested within 30 days." "WHY IT MATTERS" panel: "'Once per term' and 'customary protocols' means the audit happens on the PBM's terms. The strongest contracts we review write the frequency, scope, and format into the clause itself."
+
+**Slide 7 — Close.** Solid Primary Blue (#015880) background. Plex Sans SemiBold 52pt white centered-left: "Your broker should arrive *with* these." (word "with" italic Accent Blue.) Below, Plex Sans Regular 20pt white: "Not ask what they are." Bottom block in Plex Sans Regular 16pt Accent Blue: "Full protective language for each of these five clauses, plus ten more, lives in our free PBM Contract Language Library. benefitblindspots.substack.com/p/pbm-contract-language-library." Bottom-right Plex Mono Medium 14pt Accent Blue: "07 / 07." Bottom-left Plex Mono Medium 14pt white: "rxbs.org." Top-right Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions."
+
+#### Image Generation Prompt (one prompt produces all seven slides via Claude Design)
+
+Claude Design project type: **Slide deck from template**. Use the Contract Comparison carousel master from `claude_design_prompts.md` (template #4) as the base. Generate 7 stacked slides at 1080 x 1350 px each. Shared system across all slides: Cover (Slide 1) and closing (Slide 7) use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold headlines and Accent Blue (#A7E0FA) italic emphasis words. Content slides (2-6) use off-white paper background (#F5F0E4) with typed Plex Mono 11-12pt black contract text, red (#C0392B) strikethroughs on retired language, Accent Blue (#A7E0FA) highlights on inserted protective language, section markers in Plex Sans SemiBold uppercase Gray (#4D4D4D). Each content slide has a Primary Blue "WHY IT MATTERS" panel across the bottom ~18% of the slide height with white Plex Sans Regular 16pt body text. Pull slide-by-slide content (article numbers, clause text, strikethroughs, insertions, "why it matters" copy) from the spec above, Slide 1 through Slide 7. Maintain exact visual parity with the Library 01 carousel that shipped April 21, 2026 — same eyebrow label position, same slide-number format "N / 7" in Plex Mono Medium 14pt bottom-right, same PBS word-mark top-right on cover and close, same rxbs.org bottom-left.
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck via Claude Design using the prompt and slide-by-slide spec above
+2. Export individual slides as PNGs, 1080 x 1350 px each
+3. Visual-parity check against Library 01: eyebrow label, slide-number style, "why it matters" panel position, strikethrough and insertion color rendering
+4. If any clause text is mangled or insertion color bleeds, overlay corrected Plex Mono text in Canva
+5. Verify the closing slide's Contract Language Library URL renders correctly
+6. Upload as native LinkedIn carousel (document upload)
 
 ---
 
@@ -755,7 +768,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM)
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
-- [ ] Post 73 carousel created - "Renewal Season Checklist" (7 slides) (DIFFERENT pillar from newsletter)
+- [ ] Post 73 Library 02 Contract Comparison carousel created - "The Five Clauses the Best Brokers Check First" (7 slides, matches Library 01 standard) — Broker/Consultant Resources pillar, DIFFERENT from Monday's PBM Contract Insights
 - [ ] Post 73 first comment drafted with link to LinkedIn Newsletter
 - [ ] Post 74 text post finalized - "$1,200 cream. $47 alternative. Same ingredient."
 - [ ] Post 75 MESSY INFOGRAPHIC designed - Compounding Red Flags (WEEKLY THEME VISUAL)
@@ -767,7 +780,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 6: ASSETS NEEDED
 
-- [ ] Post 73: Carousel (7 slides) - Renewal Season Checklist, Self-Funded Guidance pillar, Plex Sans SemiBold headers, Plex Sans body, PBS brand colors
+- [ ] Post 73: Library 02 Contract Comparison carousel (7 slides, 1080 x 1350 px each) - "The Five Clauses the Best Brokers Check First." Matches Library 01 visual standard: Primary Blue cover + close, off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "Why it matters" panels. Broker/Consultant Resources pillar. See PART 3 Post 73 for slide-by-slide spec and image generation prompt.
 - [ ] Post 75: Messy Infographic - Compounding Red Flags, hand-drawn/whiteboard style, scattered red flag icons layout, PBS colors (#015880, #A7E0FA)
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image
@@ -799,7 +812,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 | Post | Impressions | Engagement Rate | Actual |
 |------|------------|-----------------|--------|
-| Post 73 (Carousel) | - | - | |
+| Post 73 (Library 02 Contract Comparison Carousel) | - | - | |
 | Post 74 (Text) | - | - | |
 | Post 75 (Messy Infographic) | - | - | |
 | Post 76 (Text) | - | - | |
