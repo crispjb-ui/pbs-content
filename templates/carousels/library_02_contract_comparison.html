@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Library 02 · Contract Comparison Carousel · PBS Benefit Blind Spots</title>
+  <style>
+    /* =========================================================================
+       PBS CONTRACT COMPARISON CAROUSEL · TEMPLATE
+       Matches the Library 01 visual standard that shipped April 21, 2026.
+       Seeded with Library 02 content (Week 21, May 26, 2026).
+
+       HOW TO REPURPOSE FOR FUTURE LIBRARY ENTRIES
+       -------------------------------------------
+       1. Duplicate this file, rename to library_NN_topic.html.
+       2. Change the <title> and the Library NN number in the cover eyebrow.
+       3. Replace cover headline, subhead, and close CTA.
+       4. Replace the 5 content slides' article number, section label, clause
+          card title, contract body (with <del> and <ins>), and why-it-matters
+          copy.
+       5. Update slide numbers if the series convention changes (default 01-07).
+
+       HOW TO EXPORT TO PNGS
+       ---------------------
+       Option A (quick):
+         Open in Chrome/Edge. Right-click → Inspect → device toolbar → set
+         width 1080. Each slide is 1350 tall. Screenshot each in turn.
+
+       Option B (clean):
+         Open in Chrome. Cmd/Ctrl+P. Set paper size to Custom 1080×1350,
+         margins = None, background graphics = ON. Save as PDF. Extract pages
+         as PNGs in any PDF tool.
+
+       Option C (automated):
+         Install Puppeteer. Run: `npx puppeteer screenshot --full-page` on
+         this file with viewport 1080×9450 (7×1350). Crop into 7 PNGs.
+       ========================================================================= */
+
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,600;1,400&display=swap');
+
+    :root {
+      --primary: #015880;
+      --accent:  #A7E0FA;
+      --gray:    #4D4D4D;
+      --white:   #FFFFFF;
+      --paper:   #F5F0E4;
+      --red:     #C0392B;
+      --slide-w: 1080px;
+      --slide-h: 1350px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #2a2a2a;
+      color: #000;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    .doc-header {
+      max-width: 1080px;
+      margin: 0 auto;
+      padding: 40px 24px 24px;
+      color: #e0e0e0;
+      font-size: 14px;
+      line-height: 1.5;
+    }
+    .doc-header h1 { font-size: 22px; font-weight: 600; margin-bottom: 8px; color: #fff; }
+    .doc-header p  { margin-bottom: 8px; }
+    .doc-header code { background: #444; padding: 2px 6px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; }
+
+    .slide {
+      width: var(--slide-w);
+      height: var(--slide-h);
+      margin: 24px auto;
+      position: relative;
+      overflow: hidden;
+      box-shadow: 0 12px 48px rgba(0,0,0,0.45);
+      page-break-after: always;
+      break-after: page;
+    }
+    .slide:last-child { page-break-after: auto; break-after: auto; }
+
+    /* ============================================================
+       COVER + CLOSE SLIDES — solid Primary Blue
+       ============================================================ */
+    .slide-blue {
+      background: var(--primary);
+      color: var(--white);
+      padding: 72px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .eyebrow {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 18px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: rgba(255,255,255,0.82);
+    }
+    .eyebrow-accent { color: var(--accent); }
+
+    .wordmark {
+      position: absolute;
+      top: 72px;
+      right: 72px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 15px;
+      letter-spacing: 0.04em;
+      color: var(--white);
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .wordmark::before {
+      content: "";
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-left: 8px solid transparent;
+      border-right: 8px solid transparent;
+      border-bottom: 14px solid var(--accent);
+    }
+
+    .cover-body {
+      margin-top: auto;
+      margin-bottom: auto;
+    }
+
+    .cover-headline {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 96px;
+      line-height: 1.04;
+      letter-spacing: -0.022em;
+      color: var(--white);
+      margin-bottom: 40px;
+    }
+    .cover-headline em {
+      font-style: italic;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .cover-subhead {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-style: italic;
+      font-weight: 400;
+      font-size: 28px;
+      line-height: 1.32;
+      color: var(--accent);
+      max-width: 820px;
+    }
+
+    .swipe-cue {
+      position: absolute;
+      right: 72px;
+      bottom: 220px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 22px;
+      color: var(--white);
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+    }
+
+    .url-footer {
+      position: absolute;
+      bottom: 60px;
+      left: 72px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 500;
+      font-size: 18px;
+      letter-spacing: 0.02em;
+      color: var(--white);
+    }
+
+    .page-num-blue {
+      position: absolute;
+      bottom: 60px;
+      right: 72px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 500;
+      font-size: 18px;
+      letter-spacing: 0.14em;
+      color: var(--accent);
+    }
+
+    .close-cta {
+      background: rgba(255,255,255,0.06);
+      border-left: 4px solid var(--accent);
+      padding: 24px 32px;
+      margin-top: 40px;
+      max-width: 820px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 1.45;
+      color: var(--accent);
+    }
+    .close-cta strong {
+      display: block;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      color: var(--white);
+      font-size: 18px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      margin-bottom: 12px;
+    }
+    .close-cta a {
+      color: var(--accent);
+      text-decoration: none;
+      font-family: 'IBM Plex Mono', monospace;
+      font-size: 17px;
+      word-break: break-all;
+    }
+
+    /* ============================================================
+       CONTENT SLIDES — paper background with contract document
+       ============================================================ */
+    .slide-paper {
+      background: var(--paper);
+      color: #111;
+      padding: 72px 72px 0 72px;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+    }
+
+    .paper-eyebrow {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--gray);
+      margin-bottom: 8px;
+    }
+
+    .paper-wordmark {
+      position: absolute;
+      top: 72px;
+      right: 72px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      letter-spacing: 0.04em;
+      color: var(--gray);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    .paper-wordmark::before {
+      content: "";
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-left: 6px solid transparent;
+      border-right: 6px solid transparent;
+      border-bottom: 10px solid var(--primary);
+    }
+
+    .section-marker {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 500;
+      font-size: 15px;
+      color: var(--gray);
+      letter-spacing: 0.04em;
+      margin-bottom: 28px;
+    }
+    .section-marker .divider { color: var(--gray); opacity: 0.45; margin: 0 10px; }
+
+    .clause-tag {
+      display: inline-block;
+      background: var(--primary);
+      color: var(--white);
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      padding: 8px 20px;
+      border-radius: 999px;
+      margin-bottom: 40px;
+    }
+
+    .contract-card {
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 400;
+      font-size: 22px;
+      line-height: 1.58;
+      color: #0d0d0d;
+      flex: 1;
+      max-width: 880px;
+    }
+    .contract-card .clause-heading {
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 600;
+      font-size: 22px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: #0d0d0d;
+      margin-bottom: 20px;
+    }
+    .contract-card p { margin-bottom: 20px; }
+    .contract-card del {
+      color: var(--red);
+      text-decoration-line: line-through;
+      text-decoration-color: var(--red);
+      text-decoration-thickness: 2px;
+    }
+    .contract-card ins {
+      background: rgba(167, 224, 250, 0.55);
+      text-decoration: none;
+      padding: 2px 0;
+      box-shadow: 0 -1px 0 0 rgba(1, 88, 128, 0.25) inset;
+    }
+
+    /* Primary Blue "Why it matters" panel anchored to bottom edge of slide */
+    .why-panel {
+      background: var(--primary);
+      color: var(--white);
+      padding: 32px 72px 40px 72px;
+      margin: 40px -72px 0 -72px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 1.46;
+    }
+    .why-panel .why-label {
+      display: inline-block;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 12px;
+      padding-bottom: 6px;
+      border-bottom: 2px solid var(--accent);
+    }
+
+    /* Page number on content slides (overlaid on Primary Blue panel) */
+    .page-num-content {
+      position: absolute;
+      bottom: 22px;
+      right: 72px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 500;
+      font-size: 13px;
+      letter-spacing: 0.16em;
+      color: rgba(255,255,255,0.72);
+    }
+    .url-content {
+      position: absolute;
+      bottom: 22px;
+      left: 72px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 500;
+      font-size: 13px;
+      color: rgba(255,255,255,0.72);
+    }
+
+    /* ============================================================
+       PRINT EXPORT
+       ============================================================ */
+    @media print {
+      html, body { background: none; }
+      .doc-header { display: none; }
+      .slide {
+        margin: 0;
+        box-shadow: none;
+        page-break-after: always;
+        break-after: page;
+      }
+      .slide:last-child { page-break-after: auto; break-after: auto; }
+      @page { size: 1080px 1350px; margin: 0; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="doc-header">
+  <h1>Library 02 · Contract Comparison Carousel</h1>
+  <p><strong>Series:</strong> PBM Contract Language · Library NN · Entry 02 (May 26, 2026 · Week 21).</p>
+  <p><strong>Export:</strong> Cmd/Ctrl+P → paper size Custom <code>1080 × 1350 px</code>, margins <code>None</code>, background graphics <code>ON</code>. Save as PDF, then split into 7 PNGs. Or use Puppeteer for automated screenshotting.</p>
+  <p><strong>Template standard:</strong> Matches Library 01 (shipped April 21, 2026).</p>
+</header>
+
+<!-- =================================================================
+     SLIDE 1 · COVER
+     ================================================================= -->
+<section class="slide slide-blue">
+  <div class="eyebrow">PBM Contract Language <span class="eyebrow-accent">·</span> Library 02</div>
+  <div class="wordmark">Prescription Benefit Solutions</div>
+
+  <div class="cover-body">
+    <h1 class="cover-headline">The five clauses<br>the best brokers<br>check <em>first</em>.</h1>
+    <p class="cover-subhead">The redlines your broker should arrive with, not ask for.</p>
+  </div>
+
+  <div class="swipe-cue">Swipe for the redline →</div>
+  <div class="url-footer">rxbs.org</div>
+  <div class="page-num-blue">01 / 07</div>
+</section>
+
+<!-- =================================================================
+     SLIDE 2 · REBATE DEFINITION
+     ================================================================= -->
+<section class="slide slide-paper">
+  <div class="paper-eyebrow">Pharmacy Benefits Management Services Agreement</div>
+  <div class="paper-wordmark">Prescription Benefit Solutions</div>
+  <div class="section-marker">Article IV <span class="divider">·</span> § 4.02 <span class="divider">·</span> Pricing and Payment</div>
+  <div class="clause-tag">Definition of Rebate Pass-Through</div>
+
+  <div class="contract-card">
+    <div class="clause-heading">Rebate Pass-Through.</div>
+    <p>The PBM will pass through <del>a portion of manufacturer rebates attributable to Plan Sponsor, in accordance with PBM's standard rebate methodology</del> <ins>100 percent of all Manufacturer Payments, including rebates, administrative fees, market-share payments, data fees, and inflation protection, received by the PBM or any Affiliate</ins> in connection with Plan Sponsor's claims. Reconciliation statements will be delivered quarterly with claim-level detail.</p>
+  </div>
+
+  <div class="why-panel">
+    <span class="why-label">Why it matters</span>
+    <div>If the PBM controls what counts as "eligible," the passthrough guarantee is whatever they want it to be. Anchor it to every revenue category, by name.</div>
+  </div>
+
+  <div class="url-content">rxbs.org</div>
+  <div class="page-num-content">02 / 07</div>
+</section>
+
+<!-- =================================================================
+     SLIDE 3 · AWP DISCOUNT BASE
+     ================================================================= -->
+<section class="slide slide-paper">
+  <div class="paper-eyebrow">Pharmacy Benefits Management Services Agreement</div>
+  <div class="paper-wordmark">Prescription Benefit Solutions</div>
+  <div class="section-marker">Article IV <span class="divider">·</span> § 4.01 <span class="divider">·</span> Pricing — Generic and Brand Discount</div>
+  <div class="clause-tag">AWP Discount Base and Exclusions</div>
+
+  <div class="contract-card">
+    <div class="clause-heading">Brand Discount.</div>
+    <p>Brand pricing guarantees are calculated as an AWP discount <del>subject to standard industry exclusions as determined by PBM</del> <ins>applied to ingredient cost at time of dispensing, as published by First Databank, before any dispensing or administrative fees. Excluded categories are limited to specialty drugs dispensed by a non-affiliated limited distribution pharmacy, clearly listed by NDC in Exhibit C, and may not be expanded without Plan Sponsor written consent</ins>.</p>
+  </div>
+
+  <div class="why-panel">
+    <span class="why-label">Why it matters</span>
+    <div>"Standard industry exclusions" is a blank check. Excluded categories move the real guarantee by hundreds of basis points. Name every exclusion; publish the NDC list.</div>
+  </div>
+
+  <div class="url-content">rxbs.org</div>
+  <div class="page-num-content">03 / 07</div>
+</section>
+
+<!-- =================================================================
+     SLIDE 4 · GUARANTEE REMEDIATION
+     ================================================================= -->
+<section class="slide slide-paper">
+  <div class="paper-eyebrow">Pharmacy Benefits Management Services Agreement</div>
+  <div class="paper-wordmark">Prescription Benefit Solutions</div>
+  <div class="section-marker">Article IV <span class="divider">·</span> § 4.05 <span class="divider">·</span> Guarantee Reconciliation</div>
+  <div class="clause-tag">Remediation Timing and Method</div>
+
+  <div class="contract-card">
+    <div class="clause-heading">Guarantee Reconciliation.</div>
+    <p>If a guarantee is not met, <del>PBM shall remediate in accordance with its standard reconciliation process</del> <ins>PBM shall deliver a reconciliation report within 60 days of each contract year-end with claim-level supporting detail. Any shortfall shall be paid in cash to Plan Sponsor within 30 days of report delivery. Plan Sponsor retains the right to an independent audit of the reconciliation at PBM's expense</ins>.</p>
+  </div>
+
+  <div class="why-panel">
+    <span class="why-label">Why it matters</span>
+    <div>A "standard reconciliation process" you cannot see is not a remediation mechanism. Require the timeline, the supporting data, and the payment terms in writing.</div>
+  </div>
+
+  <div class="url-content">rxbs.org</div>
+  <div class="page-num-content">04 / 07</div>
+</section>
+
+<!-- =================================================================
+     SLIDE 5 · TERMINATION AND DATA TRANSFER
+     ================================================================= -->
+<section class="slide slide-paper">
+  <div class="paper-eyebrow">Pharmacy Benefits Management Services Agreement</div>
+  <div class="paper-wordmark">Prescription Benefit Solutions</div>
+  <div class="section-marker">Article IX <span class="divider">·</span> § 9.03 <span class="divider">·</span> Termination — Data Transfer</div>
+  <div class="clause-tag">Exit Rights and Cost</div>
+
+  <div class="contract-card">
+    <div class="clause-heading">Data Transfer Upon Termination.</div>
+    <p>Upon termination, <del>PBM will provide reasonable transition assistance subject to customary fees</del> <ins>PBM shall provide, within 45 days and at no cost to Plan Sponsor, complete claim history, member eligibility, accumulators, prior authorization files, and any data necessary for a successor PBM to administer the benefit. PBM shall not condition data transfer on any payment or waiver</ins>.</p>
+  </div>
+
+  <div class="why-panel">
+    <span class="why-label">Why it matters</span>
+    <div>"Customary fees" for data transfer is how incumbents hold renewal leverage. Strip the fee, set the deadline, remove the condition.</div>
+  </div>
+
+  <div class="url-content">rxbs.org</div>
+  <div class="page-num-content">05 / 07</div>
+</section>
+
+<!-- =================================================================
+     SLIDE 6 · AUDIT RIGHTS
+     ================================================================= -->
+<section class="slide slide-paper">
+  <div class="paper-eyebrow">Pharmacy Benefits Management Services Agreement</div>
+  <div class="paper-wordmark">Prescription Benefit Solutions</div>
+  <div class="section-marker">Article X <span class="divider">·</span> § 10.01 <span class="divider">·</span> Audit Rights</div>
+  <div class="clause-tag">Plan Sponsor Audit Rights</div>
+
+  <div class="contract-card">
+    <div class="clause-heading">Audit.</div>
+    <p>Plan Sponsor may audit PBM's records <del>once per contract term at Plan Sponsor's expense, subject to PBM's customary audit protocols</del> <ins>or its designated auditor, twice per contract year, upon 30 days written notice. PBM shall not restrict the audit scope, the auditor's identity, or the format of the records produced. Audit findings are binding on PBM unless contested within 30 days</ins>.</p>
+  </div>
+
+  <div class="why-panel">
+    <span class="why-label">Why it matters</span>
+    <div>"Once per term" and "customary protocols" means the audit happens on the PBM's terms. The strongest contracts we review write the frequency, scope, and format into the clause itself.</div>
+  </div>
+
+  <div class="url-content">rxbs.org</div>
+  <div class="page-num-content">06 / 07</div>
+</section>
+
+<!-- =================================================================
+     SLIDE 7 · CLOSE
+     ================================================================= -->
+<section class="slide slide-blue">
+  <div class="eyebrow">PBM Contract Language <span class="eyebrow-accent">·</span> Library 02</div>
+  <div class="wordmark">Prescription Benefit Solutions</div>
+
+  <div class="cover-body">
+    <h1 class="cover-headline">Your broker should arrive <em>with</em> these.</h1>
+    <p class="cover-subhead">Not ask what they are.</p>
+
+    <div class="close-cta">
+      <strong>The Contract Language Library</strong>
+      Full protective language for each of these five clauses, plus ten more, in our free PBS Contract Language Library. Updated quarterly.<br><br>
+      <a href="https://benefitblindspots.substack.com/p/pbm-contract-language-library">benefitblindspots.substack.com/p/pbm-contract-language-library</a>
+    </div>
+  </div>
+
+  <div class="url-footer">rxbs.org</div>
+  <div class="page-num-blue">07 / 07</div>
+</section>
+
+</body>
+</html>
