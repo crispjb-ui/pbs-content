@@ -228,6 +228,46 @@ This week's Benefit Blind Spots includes a **specialty drug management assessmen
 
 ---
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## Monthly Q&A Thread #5: Pre-Renewal Strategy
+
+**Publish:** Thursday, August 27, 2026 (last Thursday of August)
+**Format:** Substack Discussion Thread (not an article)
+**Access:** Subscriber-only (free subscribers can access)
+
+> Create this as a Discussion Thread on Substack, not a regular post.
+
+### Ready-to-Publish Content
+
+**Thread Title:** Ask Me Anything: Pre-Renewal Strategy
+
+**Thread Body:**
+
+Your renewal proposal is arriving in the next 30-60 days, or it just did. This month's Q&A is focused on how to respond.
+
+Questions I can help with:
+- Reading a renewal proposal and identifying what is actually changing
+- Which guarantee movements are meaningful and which are cosmetic
+- How to test whether a rebate improvement is real or redistributed
+- Termination language that shifted without explanation
+- Specialty pricing adjustments that look like improvements but are not
+- Whether the proposal justifies staying, renegotiating, or going to RFP
+
+Bring the specific language if you have it. Paste the provision, I will tell you what it means.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+
+Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+
+**Per-instance overrides:**
+- Badge (top-right): "MONTHLY Q&A"
+- Plex Mono subtitle (22pt, white, tabular figures): `August 2026 thread`
+
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 125 - Tuesday 10:00 AM

@@ -351,6 +351,37 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 06 · Scoring PBM finalists`
 
+---
+
+## Contract Language Library — Q3 Refresh
+
+**Publish action:** Tuesday, July 7, 2026 (or same week)
+**Format:** Update to the pinned evergreen post at `benefitblindspots.substack.com/p/pbm-contract-language-library`. Not a new article; same URL, updated content.
+**Access:** Free forever (pinned, SEO/discovery play)
+**Update cadence:** Quarterly
+
+> This is the quarterly refresh window. Do not unpin, do not republish, do not change the URL. Edit the existing post in place so the pinned status and accumulated SEO backlinks are preserved.
+
+### Q3 refresh checklist
+
+1. Add any new PBM contract patterns PBS observed in Q2 that were not in the original library.
+2. Update "What you might see" language examples if market standard vague provisions have shifted.
+3. Update "What to ask for" protective language examples if a stronger redline pattern has emerged.
+4. Add or remove provisions based on what PBS saw in the ~25 contracts reviewed in Q2.
+5. Bump the "Last updated" line at the bottom of the post to July 2026; set "Next update" to October 2026.
+6. Cross-link any new library provisions to the Q2 "What We're Seeing" patterns published June 22 so readers see the aggregate observation and the contract-language fix together.
+
+### Preview Image Prompt (refreshed subtitle)
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Contract Library" (Gray background)
+
+Use the canonical "Contract Language Library" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per refresh.
+
+**Per-instance overrides:**
+- Badge (top-right): "CONTRACT LIBRARY"
+- Plex Mono subtitle (22pt, white, tabular figures): `Library · Updated July 2026`
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 97 - Tuesday 10:00 AM

@@ -366,6 +366,128 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 11 · Final checks before signing`
 
+---
+
+## Monthly Q&A Thread #6: Final Pre-Signature Questions
+
+**Publish:** Thursday, September 24, 2026 (last Thursday of September)
+**Format:** Substack Discussion Thread (not an article)
+**Access:** Subscriber-only (free subscribers can access)
+
+> Create this as a Discussion Thread on Substack, not a regular post.
+
+### Ready-to-Publish Content
+
+**Thread Title:** Ask Me Anything: Final Pre-Signature Questions
+
+**Thread Body:**
+
+For many plans, the contract is on the desk this week or will be within days. This month's Q&A is for the final redline questions.
+
+Questions I can help with:
+- Provisions that changed between the last negotiation session and the signature draft
+- Auto-renewal and termination language that is easy to miss on a fast read
+- Whether a side letter or an amendment log was promised but not attached
+- Force majeure, formulary change, or legislative change clauses that create exception windows
+- Who signs, and whether that signature binds the parent company
+
+The best time to catch a problem in a PBM contract is before you sign it. Drop the provision, I will tell you what it means.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+
+Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+
+**Per-instance overrides:**
+- Badge (top-right): "MONTHLY Q&A"
+- Plex Mono subtitle (22pt, white, tabular figures): `September 2026 thread`
+
+---
+
+## "What We're Seeing" Q3 Report
+
+**Publish:** Monday, September 28, 2026 (last Monday of Q3)
+**Format:** Standalone Substack post
+**Access:** Free (subscriber-only when paid tier launches)
+**Length:** 500-700 words
+
+> This report requires Ginny's actual observations from Q3 contract reviews. Use the template in `newsletters/week_24_h1_h2_review.md` (Q2 Report) for structure. Fill in the five patterns from real Q3 contract review data before publishing.
+
+### Ready-to-Publish Template
+
+### Title: What We're Seeing: Q3 2026 PBM Contract Patterns
+
+### Subtitle: Aggregated observations from Prescription Benefit Solutions contract reviews
+
+---
+
+**Published:** [Last Monday of September 2026]
+**Access:** Subscriber-only
+
+---
+
+This quarterly report aggregates patterns from the PBM contracts Prescription Benefit Solutions reviewed in Q3 2026. No client is identified. No proprietary information is disclosed. These are the trends, gaps, and opportunities we saw across the market this quarter, and how they inform what plans should be asking as they enter Q4 renewal decisions.
+
+---
+
+**Pattern 1: [Title Based on What PBS Is Actually Seeing]**
+
+*Example framework (customize with real observations from Q3 reviews):*
+
+- What we saw: [specific observation]
+- How often: [frequency across reviews]
+- Why it matters: [employer impact]
+- What to ask your broker: [specific action]
+
+---
+
+**Pattern 2: [Title]**
+
+[Fill pattern]
+
+---
+
+**Pattern 3: [Title]**
+
+[Fill pattern]
+
+---
+
+**Pattern 4: [Title]**
+
+[Fill pattern]
+
+---
+
+**Pattern 5: [Title]**
+
+[Fill pattern]
+
+---
+
+**What We're Watching for Q4**
+
+Q4 is renewal-signature season for most plans. The patterns we expect to see more of in the next quarter: [2-3 trends].
+
+---
+
+*These observations are aggregated from Prescription Benefit Solutions contract reviews. No individual client is identified. Patterns described represent general market observations, not specific plan data.*
+
+*Prescription Benefit Solutions | team@rxbs.org | www.rxbs.org*
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "What We're Seeing" (Gray background)
+
+Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_review.md`. Only the badge quarter and Plex Mono subtitle change per quarter.
+
+**Per-instance overrides:**
+- Badge (top-right): "WHAT WE'RE SEEING · Q3"
+- Plex Mono subtitle (22pt, white, tabular figures): `Aggregated from ~100 contract reviews · Q3 2026`
+
 
 # PART 3: LINKEDIN FEED POSTS
 

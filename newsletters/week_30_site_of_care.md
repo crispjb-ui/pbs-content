@@ -254,6 +254,45 @@ This week's Benefit Blind Spots includes a **site-of-care decision tree**: thera
 
 ---
 
+# PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
+
+## Monthly Q&A Thread #4: Mid-Summer Plan Check-In
+
+**Publish:** Thursday, July 30, 2026 (last Thursday of July)
+**Format:** Substack Discussion Thread (not an article)
+**Access:** Subscriber-only (free subscribers can access)
+
+> Create this as a Discussion Thread on Substack, not a regular post. Go to "New post" → select "Thread" format.
+
+### Ready-to-Publish Content
+
+**Thread Title:** Ask Me Anything: Mid-Summer Plan Check-In
+
+**Thread Body:**
+
+Midway through the year, midway through renewal prep. This month's Q&A is focused on what should already be in motion by now.
+
+Questions I can help with:
+- What H1 claims data should be telling you
+- Whether your PBM's mid-year report is surfacing the right things
+- Where stop-loss coordination and pharmacy strategy need to intersect before Q4
+- What you should already be asking in quarterly review meetings
+- RFP decisions that need to be locked this quarter to meet Jan 1 renewal timing
+
+Drop your questions below. I will answer every one this week.
+
+### Preview Image Prompt
+
+**Dimensions:** 2240 x 1260 px
+**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+
+Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+
+**Per-instance overrides:**
+- Badge (top-right): "MONTHLY Q&A"
+- Plex Mono subtitle (22pt, white, tabular figures): `July 2026 thread`
+
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 109 - Tuesday 10:00 AM
