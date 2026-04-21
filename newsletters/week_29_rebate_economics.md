@@ -11,7 +11,7 @@
 | Mon Jul 20 | 7:30 AM | Substack | "Rebate Economics: What Your PBM's Rebate Report Is Not Showing You" | [ ] |
 | Mon Jul 20 | 7:45 AM | LinkedIn Newsletter | Rebate Economics Briefing | [ ] |
 | Mon Jul 20 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jul 21 | 10:00 AM | LinkedIn Feed | Post 105 - "The Rebate You Think You're Getting" Animated Carousel (moved from Wk 17) | [ ] |
+| Tue Jul 21 | 10:00 AM | LinkedIn Feed | Post 105 - "The Audit Right Most Self-Funded Plans Never Exercise" Sticky Note Dashboard Messy Infographic (different pillar) | [ ] |
 | Tue Jul 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 105 | [ ] |
 | Wed Jul 22 | 10:00 AM | LinkedIn Feed | Post 106 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Jul 23 | 7:30 AM | Substack | Field Note: "Three Rebate Report Red Flags That Signal Margin Retention" | [ ] |
@@ -325,15 +325,13 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 105 - Tuesday 10:00 AM
-### "The Audit Right Most Self-Funded Plans Never Exercise" (Messy Infographic)
+### "The Audit Right Most Self-Funded Plans Never Exercise" — Sticky Note Dashboard
 
-> **Visual Build Note:** Use the **Calendar/Window** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames audit windows opening and closing across a multi-year contract timeline, with most windows shaded "unused." Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Messy Infographic
-**Pillar:** PBM Contract Insights
-**Word Count:** ~170 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W1 = Messy Infographic × PBM Contract Insights. Monday newsletter pillar is Transparency & Industry Education (Rebate Economics), so no collision. Fixes the prior W29 same-pillar overlap (the original Tuesday post was on rebates, same as Monday). PBM Contract Insights averaged 10,315 impressions across 8 prior posts.
+**Template:** Sticky Note Dashboard messy infographic from `claude_design_prompts.md` (template #14). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Messy infographic (Tuesday Cycle-W1 slot, third cycle)
+**Pillar:** PBM Contract Insights (different from Monday's Transparency / Rebate Economics topic)
+**Content shape:** Decoder-adjacent — the post decodes what an audit-right clause actually permits and what happens when plans never use it.
+**Why this combination:** Sticky Note Dashboard is the rotation's "post-audit debrief" messy variant, which suits a topic about the unused audit right. Clustered sticky-notes communicate "these are the observations across our ~100 contract reviews," with each note carrying one finding.
 
 #### Post Copy
 
@@ -355,22 +353,37 @@ The right costs nothing. Using it requires knowing it exists, knowing the window
 
 More in this week's Pharmacy Benefits Briefing on rebate economics: [LINKEDIN NEWSLETTER URL]
 
-#### Messy Infographic Concept
+#### Image Layout Spec
 
-**Layout:** Off-white (#F5F5F0) background with faint grid lines. Hand-drawn whiteboard style. Horizontal multi-year contract timeline running across the full width.
+Single image at 1080 x 1350 px rendered as a photographed corkboard or desk surface covered with six sticky notes and a single pulled contract page. Slightly angled, faint shadow under each note, warm paper texture. The corkboard aesthetic signals "these are the notes from ~100 audits we ran."
 
-**Top header:** Caveat-style handwritten in Primary Blue (#015880), 34pt: "The Audit Right Most Plans Never Use."
+**Top header (outside the board):** Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge top-left. Handwritten title on a banner taped across the top in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from ~100 contracts."
 
-**Center timeline:** Three contract years labeled Year 1, Year 2, Year 3. Each year contains a hand-drawn window box labeled "AUDIT WINDOW." Windows for Years 1 and 2 are shaded gray with red diagonal cross-hatching and a handwritten "EXPIRED" annotation. Year 3 window is open with a red arrow pointing at it: "This window is closing too."
+**Sticky notes arrangement (6 notes, slightly overlapping, angled 2-5 degrees off-axis each):**
 
-**Bottom band:** Three handwritten callouts:
-- "Right is in the contract from Day 1."
-- "PBM does not remind you it exists."
-- "When we audit a plan that has never audited, we find findings."
+- Note 1 (yellow #FDE68A, top-left): Caveat handwriting: "Right is in the contract from Day 1." Small red arrow drawn underneath pointing to the pulled contract page.
+- Note 2 (pink #FBCFE8, top-center): "Window expires every year — sometimes faster." Red handwritten clock icon.
+- Note 3 (blue-tinted #BFDBFE, top-right): "PBM never reminds you it exists."
+- Note 4 (yellow, middle-center-left): "When we audit a plan that never audited, we find findings. Every time."
+- Note 5 (green #BBF7D0, middle-right): "Recoverable $ = prior period only. Earlier windows closed."
+- Note 6 (pink, bottom-center): Accent Blue underline: "Pull the contract. Find the window. Use it."
 
-**Bottom strip:** Accent Blue (#A7E0FA) with: "Pull the contract. Find the window. Use it." PBS logo bottom-right. team@rxbs.org bottom-left.
+**Pulled contract page (lower-left corner, under Note 1):** A small portion of a contract page visible with a red marker circle around a phrase "§ 10.01 AUDIT RIGHTS" and a handwritten Caveat annotation pointing to the clause: "Here it is."
 
-**Style:** Whiteboard-sketch aesthetic. Red (#C0392B) for expiration markers and warnings. Primary Blue (#015880) for structure. Accent Blue (#A7E0FA) for the action band. Caveat-style handwriting throughout, slightly imperfect.
+**Bottom band (Accent Blue #A7E0FA, ~60px tall, across the bottom of the image):** Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo (dark) bottom-right, 80px. "rxbs.org" bottom-left Plex Mono Medium 14pt Primary Blue.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking corkboard or desk surface with six paper sticky notes slightly overlapping and angled 2-5 degrees off-axis, each with a soft shadow for depth. Warm paper-texture background. Sticky notes colored: yellow, pink, blue-tinted, yellow, green, pink. On each sticky, handwritten Caveat-font text (one short phrase per note): (1) "Right is in the contract from Day 1." with small red arrow; (2) "Window expires every year — sometimes faster." with red clock icon; (3) "PBM never reminds you it exists."; (4) "When we audit a plan that never audited, we find findings. Every time."; (5) "Recoverable $ = prior period only. Earlier windows closed."; (6) "Pull the contract. Find the window. Use it." with Accent Blue underline. Below the stickies, a corner of a pulled contract page visible with red marker circle around "§ 10.01 AUDIT RIGHTS" and handwritten "Here it is." annotation pointing to the clause. Top of image, above the stickies, a taped banner in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from ~100 contracts." Top-left Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Bottom Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo bottom-right, rxbs.org bottom-left. Color palette: warm paper board background, sticky-note colors above, black/red/blue handwritten markers, Primary Blue structure, Accent Blue accent band. No photos of people.
+
+**Post-Generation Steps:**
+
+1. Generate base image
+2. Verify all six stickies are readable and do not overlap to the point of obscuring key text
+3. If handwriting is illegible, overlay Caveat text in Canva
+4. Confirm the contract-page corner shows the "§ 10.01" reference
+5. Add PBS logo bottom-right
+6. Export as PNG
 
 ---
 
@@ -641,7 +654,7 @@ A client's HR director thanked me after a rebate audit returned money to her pla
 
 ## Content Schedule
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
-- [ ] Tuesday: Post 105 Messy Infographic 10:00 AM + Reshare
+- [ ] Tuesday: Post 105 Sticky Note Dashboard Messy Infographic 10:00 AM + Reshare
 - [ ] Wednesday: Post 106 Text 10:00 AM
 - [ ] Thursday: Field Note 7:30 AM, Post 107 Carousel 10:00 AM + Reshare
 - [ ] Friday: Post 108 Tease 10:00 AM
@@ -653,7 +666,7 @@ A client's HR director thanked me after a rebate audit returned money to her pla
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 105 Messy Infographic | 1080x1350 | Rebate dollar flow diagram |
+| Post 105 Sticky Note Dashboard Messy Infographic | 1080x1350 | "The Audit Right Most Self-Funded Plans Never Exercise" — corkboard of 6 sticky notes summarizing audit-right findings from ~100 contract reviews, PBM Contract Insights pillar |
 | Post 107 Whiteboard Carousel | 7 slides | Template A - rebate model comparison |
 | Substack header | 2240x1260 | [ ] |
 | Field Note header | 1200x600 | [ ] |

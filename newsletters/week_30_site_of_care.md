@@ -9,7 +9,7 @@
 |-----|------|----------|---------|--------|
 | Mon Jul 27 | 7:30 AM | Substack | "Site-of-Care Optimization: The Cost Lever Most Plans Ignore" | [ ] |
 | Mon Jul 27 | 7:45 AM | LinkedIn Newsletter | Site-of-Care Briefing | [ ] |
-| Tue Jul 28 | 10:00 AM | LinkedIn Feed | Post 109 - "The Most Expensive Room in Healthcare" INFO (different pillar) | [ ] |
+| Tue Jul 28 | 10:00 AM | LinkedIn Feed | Post 109 - "5 Self-Funded Decisions That Have to Land Before Year-End" One Number Carousel (different pillar) | [ ] |
 | Wed Jul 29 | 10:00 AM | LinkedIn Feed | Post 110 - Strong POV TEXT / VIDEO TEST #3 | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "White Bagging vs. Brown Bagging: The Practical Differences" | [ ] |
 | Thu Jul 30 | 10:00 AM | LinkedIn Feed | Post 111 - Same infusion. Hospital. Office. Home. Four prices. (Carousel, Slot B evergreen rotation) | [ ] |
@@ -296,15 +296,13 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 109 - Tuesday 10:00 AM
-### "5 Self-Funded Plan Sponsor Decisions That Should Happen Before Year-End" (Carousel)
+### "5 Self-Funded Decisions That Have to Land Before Year-End" — One Number Carousel
 
-> **Visual Build Note:** Use the **Q4 Decision Stack** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each Q4 decision with one-line consequence beneath it. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
-
-**Format:** Carousel (6 slides)
-**Pillar:** Self-Funded Employer Guidance
-**Word Count:** ~205 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W2 = Carousel × Self-Funded Guidance. Monday newsletter pillar is Cost Containment (Site of Care), so no collision. Fixes the prior W30 same-pillar overlap (the original Tuesday post was on infusion site-of-care, same Cost Containment pillar as Monday).
+**Template:** One Number carousel (Template C). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W22 One Number carousel.
+**Format class:** Carousel (Tuesday Cycle-W2 slot, third cycle)
+**Pillar:** Self-Funded Employer Guidance (different from Monday's Cost Containment / Site-of-Care topic)
+**Content shape:** Number-forward decision stack. Second One Number carousel in the rotation after W22; each slide anchors on a single date, count, or timing figure with a one-line interpretation and a "WHY IT MATTERS" panel.
+**Why this combination:** Q4 deadline content is calendar-driven. One Number with dates and counts (the November RFP-out deadline, the shortfall aggregation number, the benchmarking lead time, the stop-loss-alignment lead time, the fiduciary-file count) lets each slide hang on a specific figure that makes the decision concrete, not abstract.
 
 #### Post Copy
 
@@ -330,21 +328,35 @@ The plans that walk into 2026 with these five decisions made are negotiating fro
 
 More in this week's Pharmacy Benefits Briefing on site-of-care strategy: [LINKEDIN NEWSLETTER URL]
 
-#### Carousel Slide Descriptions
+#### Carousel Slide-by-Slide Spec
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "5 Self-Funded Plan Sponsor Decisions Before Year-End." Accent Blue subtitle: "Made now = leverage in Q1. Deferred = reacting."
+Same visual system as W22 One Number Carousel. Cover and close Primary Blue with white Plex Sans SemiBold and italic Accent Blue emphasis. Content slides (2-6) white background with one large Plex Mono Medium tabular figure per slide, Plex Sans SemiBold label above, Plex Sans Regular interpretation below, Primary Blue "WHY IT MATTERS" panel at bottom ~18%. Slide-number footer "N / 7" bottom-right. Cover eyebrow "PBS Q4 DECISIONS · 2026 RENEWAL PREP" in Plex Sans SemiBold 14pt white, +6% tracking.
 
-**Slide 2 - Decision 1 RFP Timeline:** White background. Plex Sans SemiBold Primary Blue: "Confirm the RFP Timeline." Plex Sans body: "If renewal is H1 2026, the RFP is out by November. Slipping past that resets your negotiating position."
+**Slide 1 — Cover.** Headline: "5 self-funded decisions that have to *land* before year-end." ("land" italic Accent Blue.) Subhead: "Made now = leverage in Q1. Deferred = reacting." "01 / 07."
 
-**Slide 3 - Decision 2 Document Shortfalls:** Accent Blue background. Primary Blue Plex Sans SemiBold: "Compile Every Guarantee Shortfall." Body: "Quarterly reports do not aggregate them. The plan has to. Unpaid remediation is recoverable on the renewal table."
+**Slide 2 — Decision 1: RFP-out date.** Large Plex Mono number: "NOV." Label above: "Decision one · RFP out by." Interpretation: "If renewal lands in 2026 H1, anything past November resets your negotiating position." "WHY IT MATTERS" panel: "The RFP timeline sets the rest of the calendar. Slip November and every downstream deadline compresses."
 
-**Slide 4 - Decision 3 Independent Benchmarking:** White background. Plex Sans SemiBold: "Lock Down Independent Benchmarking." Body: "PBM benchmarks show the PBM as competitive. They were built that way. Independent pulls show the truth."
+**Slide 3 — Decision 2: Shortfall count.** Large Plex Mono number: "# of shortfalls." Label: "Decision two · Every shortfall documented, with dollar value." Interpretation: "Quarterly reports do not aggregate them. The plan has to compile them. Every line is renewal-table leverage." "WHY IT MATTERS" panel: "Unpaid remediation is the easiest recovery in any renewal. Most plans leave it uncollected because nobody added it up."
 
-**Slide 5 - Decision 4 Stop-Loss + PBM Alignment:** Primary Blue background. White Plex Sans SemiBold: "Coordinate Stop-Loss and PBM Renewal Timing." Accent Blue body: "Misaligned renewals erode leverage on both sides. Treat them as one conversation."
+**Slide 4 — Decision 3: Benchmarking lead time.** Large Plex Mono number: "90 days." Label: "Decision three · Independent benchmarking in hand." Interpretation: "PBM benchmarks were built to show the PBM as competitive. Independent pulls do not. Ninety days before renewal is the minimum lead time." "WHY IT MATTERS" panel: "You cannot benchmark in the negotiation meeting. It has to be done, reviewed, and defensible before you sit down."
 
-**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Walk into Q1 with the file built. Negotiate, do not react." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 5 — Decision 4: Stop-loss alignment.** Large Plex Mono number: "2 renewals · 1 conversation." Label: "Decision four · Stop-loss and PBM renewal coordinated." Interpretation: "Misaligned renewals erode leverage on both sides. Treat them as one conversation, one timeline, one negotiating file." "WHY IT MATTERS" panel: "Stop-loss sees specialty concentration. PBM sees utilization. Aligned renewals let you negotiate the whole picture; misaligned renewals force you to negotiate each half blind."
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold headers (28-34pt), Plex Sans body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Slide 6 — Decision 5: Fiduciary file audit.** Large Plex Mono number: "5 files." Label: "Decision five · Fiduciary file audit." Interpretation: "Selection memo, evaluation criteria, performance reviews, committee minutes, renewal-decision rationale. They either exist or they do not." "WHY IT MATTERS" panel: "Build them now, not when litigation asks for them. A prudent process lives on paper."
+
+**Slide 7 — Close.** Primary Blue. Headline: "Walk into Q1 with the file *built*." ("built" italic Accent Blue.) Below: "Negotiate, do not react." Bottom CTA: "team@rxbs.org · Benefit Blind Spots · benefitblindspots.substack.com." "07 / 07."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. One Number carousel (Template C). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W22 One Number Carousel. Pull slide-by-slide content (labels, numbers/dates, interpretation, "WHY IT MATTERS" copy) from the spec above. Cover eyebrow "PBS Q4 DECISIONS · 2026 RENEWAL PREP."
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck
+2. Export PNGs at 1080 x 1350
+3. Verify each large figure renders cleanly (Slide 2 "NOV." as a short word not a number; Slides 3-6 mix of numbers and phrases)
+4. Verify "WHY IT MATTERS" panels align across slides
+5. Upload as native LinkedIn carousel
 
 ---
 
@@ -618,7 +630,7 @@ A client thanked me once for including her home health agency in the site-of-car
 - [ ] Pre-posting engagement: 5-10 comments daily (30 min before post)
 - [ ] Post-publish: 30-min reply window with follow-up questions
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
-- [ ] Tuesday: Post 109 Infographic 10:00 AM + Reshare
+- [ ] Tuesday: Post 109 One Number Carousel 10:00 AM + Reshare
 - [ ] Wednesday: Post 110 Text/Video 10:00 AM (VIDEO TEST #3)
 - [ ] Thursday: Field Note 7:30 AM, Post 111 Carousel 10:00 AM + Reshare
 - [ ] Friday: Post 112 Tease 10:00 AM
@@ -631,7 +643,7 @@ A client thanked me once for including her home health agency in the site-of-car
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 109 Infographic | 1080x1350 | Four-tier cost comparison |
+| Post 109 One Number Carousel | 7 slides (1080x1350) | "5 Self-Funded Decisions That Have to Land Before Year-End" — Q4 renewal-prep decisions anchored by dates and counts, Self-Funded Employer Guidance pillar |
 | Post 111 Whiteboard Carousel | 7 slides | Template A - decision tree |
 | Post 110 Video (optional) | Vertical, 45 sec | VIDEO TEST #3 |
 | Substack header | 2240x1260 | [ ] |
@@ -643,7 +655,7 @@ A client thanked me once for including her home health agency in the site-of-car
 
 | Post | Impressions | Eng Rate | Comments | Saves |
 |------|------------|----------|----------|-------|
-| Post 109 (Tue Info) | | | | |
+| Post 109 (Tue One Number Carousel) | | | | |
 | Post 110 (Wed Text/Video) | | | | |
 | Post 111 (Thu Carousel) | | | | |
 | Post 112 (Fri Tease) | | | | |
