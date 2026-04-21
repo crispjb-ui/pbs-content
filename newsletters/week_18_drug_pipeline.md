@@ -13,7 +13,7 @@
 | Mon May 4 | 7:45 AM | LinkedIn Newsletter | Drug Pipeline Briefing | [ ] |
 | Mon May 4 | 12:30 PM | Substack Notes | Afternoon Note - Why this topic | [ ] |
 | Tue May 5 | 7:15 AM | Substack Notes | Morning Note - Industry observation | [ ] |
-| Tue May 5 | 8:30 AM | LinkedIn Feed | Post 61 - "GLP-1s: What Changed in 90 Days" Infographic (different pillar) | [ ] |
+| Tue May 5 | 8:30 AM | LinkedIn Feed | Post 61 - "What GLP-1 Coverage Actually Means in 2026" Whiteboard Decoder Carousel (different pillar) | [ ] |
 | Tue May 5 | 8:35 AM | LinkedIn Feed | Post 61 - First Comment | [ ] |
 | Tue May 5 | 12:30 PM | Substack Notes | Afternoon Note - Community engagement | [ ] |
 | Tue May 5 | 1:30 PM | LinkedIn Company | Company Reshare of Post 61 | [ ] |
@@ -309,25 +309,19 @@ Full framework with 2026-2027 watch list on Substack.
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 61 - Tuesday 8:30 AM
-### "GLP-1s: What Changed in 90 Days" (Infographic)
+### "What GLP-1 Coverage Actually Means in 2026" — Whiteboard Decoder Carousel
 
-> **Visual Build Note:** Use the **Mountain** metaphor infographic from `claude_design_prompts.md` (template #9). Claude design project type: **Prototype**. Plug in content that frames the 18-month pipeline climb for gene therapy and GLP-1 preparation. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-> **Monthly Hybrid Showcase (optional):** This week is the scheduled **Chart-on-Whiteboard** showcase from the hybrid rotation. Template #13 in `claude_design_prompts.md`. This is a higher-effort piece (~45-60 min first build, ~20-30 min subsequent) that combines precise data with handwritten authenticity. Best run as a Saturday "Data Desk" post or as the primary Tuesday visual instead of the metaphor option. Plug in: **2026-2027 drug pipeline spend by category (GLP-1, Gene Therapy, Alzheimer's, Oncology, Other) shown as stacked bar with hand-lettered title "DRUG PIPELINE" (PIPELINE highlighted in cyan) and CTA "Start the coverage conversation now."** Production tools: Midjourney or DALL-E for the base surface, Claude design or a chart tool for clean data rendering, Canva for compositing and handwritten overlays.
-
-**Format:** INFO - Comparison
-**Pillar:** Clinical Pharmacy Perspectives
-**Word Count:** ~85 words
-
-> **NOTE - Performance Optimization:** Tuesday visual uses a DIFFERENT pillar (Clinical Pharmacy) from the Monday newsletter (Cost Containment) to avoid topic cannibalization. Data showed same-topic Tuesday visuals dropped to 623 impressions vs 22K for different-topic visuals. GLP-1 content is a proven high-engagement topic. Weekly theme carousel moves to Thursday.
-
-> **NOTE:** Both Tuesday's visual (GLP-1 update) and Thursday's field note (GLP-1 approvals) focus on GLP-1. While this does not violate the Tuesday-vs-Monday anti-cannibalization rule (Monday newsletter is about the broader drug pipeline), it creates heavy GLP-1 saturation within the week. Monitor whether Thursday field note performance is affected. If so, consider differentiating Tuesday's visual topic in future pipeline-themed weeks.
+**Template:** Whiteboard carousel (`claude_design_prompts.md` template #3). 7 slides, 1080 x 1350 px each, Claude Design project type: **Slide deck from template**.
+**Format class:** Carousel (Tuesday Cycle-W2 slot)
+**Pillar:** Clinical Pharmacy Perspectives (different from Monday's Cost Containment / Drug Pipeline topic — satisfies the Tuesday ≠ Monday anti-cannibalization rule)
+**Content shape:** Decoder (proven 20-25K impression floor, 9-12 followers per 10K conversion rate)
+**Why this combination:** GLP-1 is the highest-ceiling topic on the board (64K all-time). The decoder shape is the highest-converting shape on the board. A GLP-1 decoder in the Whiteboard template exercises the Whiteboard format (untested at scale) while carrying both proven advantages.
 
 #### Post Copy
 
 90 days ago, your GLP-1 formulary was sized for diabetes and obesity.
 
-Today, GLP-1s have FDA-approved indications in sleep apnea, cardiovascular risk reduction, and chronic kidney disease. NASH trials are reading out. Oral GLP-1s are advancing toward approval. Biosimilar competition is starting on the first-generation agents.
+Today, GLP-1s have FDA-approved indications in sleep apnea, cardiovascular risk reduction, and chronic kidney disease. NASH trials are reading out. Oral formulations are advancing toward approval. Biosimilar competition is starting on first-generation agents.
 
 Every one of those shifts changes which members qualify, what step therapy should look like, and what the PBM is already negotiating on your behalf.
 
@@ -335,89 +329,44 @@ Your formulary was last written when GLP-1 meant two indications. The market is 
 
 If you have not revisited your GLP-1 coverage policy this year, you are deciding by default.
 
+Swipe through to see what the language in your coverage policy actually has to cover now.
+
 #PharmacyBenefits #GLP1 #ClinicalPharmacy #SelfFundedEmployers
 
 #### First Comment
 
 More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
-#### Infographic Concept
+#### Carousel Slide-by-Slide Spec
 
-**Title:** GLP-1s: What Changed in 90 Days
-**Style:** Comparison / Before & Now format
-**Dimensions:** 1080 x 1350 px (vertical LinkedIn)
-**Template:** Two-column comparison with timeline header
+All seven slides render as a Whiteboard carousel: soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn feel, marker-pressure variation. Ginny is the pharmacist working through the reasoning on a whiteboard; every slide is legibly imperfect. No computer typography anywhere except the cover title and closing CTA. Primary Blue (#015880) marker as default, Accent Blue (#A7E0FA) highlights on the phrase or number that carries each slide, red marker strikethroughs on retired language, green marker for added language.
 
-**Layout:**
+**Slide 1 — Cover.** Soft off-white background. Hand-lettered title top-left: "What GLP-1 Coverage Actually Means in 2026" in Primary Blue marker, with "Actually" underlined in Accent Blue. Below it in smaller Plex Sans SemiBold (the only typographic element on the slide): "A pharmacist walks through what changed." Bottom-left corner: a small hand-drawn caduceus with "GLP-1" lettered inside. Bottom-right: "1 / 7" in Gray marker.
 
-**Top Header Bar:** Deep teal-blue (#015880) background with "GLP-1s: What Changed in 90 Days" in white Plex Sans SemiBold (36-48pt). Small clock icon in Accent Blue (#A7E0FA) to the left of the title.
+**Slide 2 — What the policy used to say.** Title hand-lettered: "What your policy said." Below, a boxed block of hand-lettered policy text rendered in Primary Blue marker, two lines: "Covered for type 2 diabetes. Covered for obesity with BMI ≥30." A red marker strikethrough cuts horizontally across the whole block. Small Gray margin note pointing to the box: "written 2023-2024."
 
-**Column Headers Row:** Left column: "90 Days Ago" in Gray (#4D4D4D) bold. Right column: "Today" in deep teal-blue (#015880) bold. Thin vertical dividing line in Primary Blue (#015880) between columns.
+**Slide 3 — What it has to cover now.** Title hand-lettered: "What it has to cover now." Below, the same boxed block expanded to five bullets, rendered in green marker with Accent Blue accents on the new-indication phrases: "Type 2 diabetes · Obesity (BMI thresholds widening) · Cardiovascular risk reduction · Chronic kidney disease · Sleep apnea." A green marker check beside each. Margin note in Gray: "FDA-approved indications as of Q2 2026."
 
-**Five Comparison Rows:**
+**Slide 4 — What step therapy looks like now.** Title hand-lettered: "Step therapy is not just diabetes anymore." Below, a rough hand-drawn decision tree with three branches: "Diabetes indication" → standard step therapy; "CV/CKD indication" → clinical path that includes cardiology or nephrology input; "Obesity indication" → tighter PA with lifestyle documentation. Accent Blue highlight on the middle branch (the one most policies have not written yet). Margin note: "most PBMs do not have this written either."
 
-**Row 1 — Formulations:**
-- 90 Days Ago: "Injectable-dominant market"
-- Today: "Oral formulations entering market"
-- Icon: Syringe (left) → pill capsule (right)
+**Slide 5 — The question on oral formulations.** Title hand-lettered: "Oral GLP-1 changes the math." Below, a two-column comparison drawn on the whiteboard: left side labeled "Injectable-only world" with three bullets (narrower eligible population, supply-constrained, injection barrier); right side labeled "Oral available" with three bullets (eligible population expands, supply eases, member access barrier drops). A green arrow sweeps from left to right. Accent Blue highlight on "eligible population expands" — the budget line item that moves. Margin note: "this is a formulary decision, not just a clinical one."
 
-**Row 2 — Approved Indications:**
-- 90 Days Ago: "Diabetes + Obesity"
-- Today: "Cardiovascular, NASH, Sleep Apnea expanding"
-- Icon: Two checkboxes (left) → five checkboxes (right)
+**Slide 6 — The biosimilar question.** Title hand-lettered: "Biosimilar entry changes the rebate math." Below, a simple hand-drawn ladder: "Brand reference" at top with "~$1,000+/mo list" in Primary Blue marker; "Biosimilar entry" in the middle with "discount TBD, usually 25-40%" in Accent Blue; "Net cost to plan" at the bottom with a question mark in red. Margin note: "the net number depends on your contract language, not the list price."
 
-**Row 3 — Payer Coverage Policies:**
-- 90 Days Ago: "Standard PA criteria for diabetes/obesity"
-- Today: "Coverage criteria shifting across new indications"
-- Icon: Single document (left) → multiple stacked documents (right)
+**Slide 7 — Close.** Soft off-white background, hand-lettered headline top-left: "Is your GLP-1 policy current, or are you deciding by default?" with "deciding by default" underlined in red marker. Below, in the only other typographic element: a small Plex Sans SemiBold line in Primary Blue — "The decoder carousel for this week's contract language lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library." Bottom-right corner: "Benefit Blind Spots" hand-lettered tag in Primary Blue. "7 / 7" in Gray marker.
 
-**Row 4 — Competitive Landscape:**
-- 90 Days Ago: "Limited manufacturer competition"
-- Today: "Biosimilar entries + next-gen molecules emerging"
-- Icon: Single building (left) → three buildings (right)
+#### Image Generation Prompt (one prompt produces all seven slides via Claude Design)
 
-**Row 5 — What Your Plan Should Do:**
-- 90 Days Ago: "Annual formulary position review"
-- Today: "Quarterly strategy review required"
-- Icon: Calendar with "1x" (left) → calendar with "4x" highlighted (right)
-
-**Bottom Bar:** Accent Blue (#A7E0FA) background with "Is your GLP-1 strategy current?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
-
-**Design Notes:**
-- Left column ("90 Days Ago") uses Gray (#4D4D4D) text with light gray (#E0E0E0) background cells
-- Right column ("Today") uses deep teal-blue (#015880) text with Accent Blue (#A7E0FA) tinted background cells
-- Each row separated by a thin light gray (#E0E0E0) horizontal rule
-- Small flat icons in each row match column color palette
-- Plex Sans body text (18-22pt), row topic labels in Plex Sans SemiBold (20-24pt)
-- Clean, professional format (not messy infographic style; this is a structured comparison)
-
-**Color Palette:**
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Primary Blue | #015880 | Header bar, right-column text, dividing line |
-| Accent Blue | #A7E0FA | Right-column cell backgrounds, icons, bottom bar |
-| Gray | #4D4D4D | Left-column text, disclaimer |
-| Light Gray | #E0E0E0 | Left-column cell backgrounds, row dividers |
-| White | #FFFFFF | Overall background |
-
-#### Image Generation Prompt
-
-**Dimensions:** 1080 x 1350 px
-
-**Prompt:**
-
-A clean, professional vertical infographic at 1080 x 1350 pixels with a white background (#FFFFFF). At the top, a deep teal-blue (#015880) header bar containing white sans-serif text "GLP-1s: What Changed in 90 Days" with a small clock icon in light blue (#A7E0FA). Below, a two-column comparison layout with five rows. Left column header: "90 Days Ago" in gray (#4D4D4D) with light gray (#E0E0E0) row backgrounds. Right column header: "Today" in deep teal-blue (#015880) with light blue (#A7E0FA) tinted row backgrounds. Row topics from top to bottom: Formulations, Indications, Payer Policies, Competition, Your Strategy. Each row has a small flat-design icon in the corresponding color palette. A thin vertical line in deep teal-blue (#015880) separates the columns. Bottom bar in light blue (#A7E0FA) with "Is your GLP-1 strategy current?" in deep teal-blue (#015880). No photographs, no realistic elements. Flat corporate infographic style. Color palette: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D), light gray (#E0E0E0), white (#FFFFFF) only.
+Claude Design project type: **Slide deck from template**. Use the Whiteboard carousel master from `claude_design_prompts.md` (template #3) as the base. Generate 7 stacked slides at 1080 x 1350 px each. Shared system across all slides: soft off-white (#F8F5ED) background with subtle paper-grain texture; hand-drawn marker feel with marker-pressure variation; Primary Blue (#015880) marker for default writing; Accent Blue (#A7E0FA) for the phrase or number that carries the slide; red marker for strikethroughs and retired language; green marker for added or current language; Gray (#4D4D4D) marker for margin notes; 60px padding; slide number bottom-right in Gray "N / 7." Pull slide-by-slide content from the spec above, slide 1 through slide 7. All handwriting must be legibly imperfect, not computer typography, except the small Plex Sans SemiBold typographic elements explicitly called out on Slide 1 and Slide 7.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px
-3. Replace placeholder text with the exact row content from the infographic concept above
-4. Adjust icon sizing and alignment (each icon ~40-50px, vertically centered in its row)
-5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 16-20pt) in top-left corner of header bar
-6. Add PBS logo (color version) in bottom-right of bottom bar, 80-100px width
-7. Add disclaimer text (Plex Sans Regular, 10pt, gray) centered above bottom bar
-8. Verify all text is legible at mobile viewing size (test at 50% zoom)
-9. Export as PNG
+
+1. Generate 7-slide deck via Claude Design using the prompt and slide-by-slide spec above
+2. Export individual slides as PNGs, 1080 x 1350 px each
+3. Spot-check each slide: handwriting legibility at thumbnail, Accent Blue highlight lands on the intended phrase, strikethroughs and green-marker inserts clearly distinguishable
+4. Add "Benefit Blind Spots" hand-lettered tag bottom-right on Slide 7 if Claude Design did not render it
+5. Verify the Contract Library URL on Slide 7 renders correctly (type pass if handwriting is ambiguous)
+6. Upload as native LinkedIn carousel (document upload, not image sequence)
 
 ---
 
@@ -780,7 +729,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Monday: LinkedIn Newsletter "Drug Pipeline Briefing" published at 7:45 AM
 - [ ] Monday Morning: Substack Note (7:15 AM) - Post-launch insight
 - [ ] Monday Afternoon: Substack Note (12:30 PM) - Why this topic
-- [ ] Tuesday: Post 61 - "GLP-1s: What Changed in 90 Days" Infographic published at 8:30 AM (Clinical Pharmacy pillar - different from newsletter)
+- [ ] Tuesday: Post 61 - "What GLP-1 Coverage Actually Means in 2026" Whiteboard Decoder Carousel published at 8:30 AM (Clinical Pharmacy pillar - different from newsletter)
 - [ ] Tuesday: Post 61 First Comment with link to LinkedIn Newsletter
 - [ ] Tuesday: Company Reshare of Post 61 at 1:30 PM
 - [ ] Tuesday Morning: Substack Note (7:15 AM) - Industry observation
@@ -802,7 +751,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 6: ASSETS NEEDED
 
-- [ ] Infographic: "GLP-1s: What Changed in 90 Days" - 1080x1350 vertical comparison format, two-column "90 Days Ago vs. Today" layout, five rows (Formulations, Indications, Payer Policies, Competition, Strategy), PBS branding (Post 61, Tuesday). See PART 3 Post 61 for full concept and image generation prompt.
+- [ ] Carousel: "What GLP-1 Coverage Actually Means in 2026" - 7-slide Whiteboard Decoder Carousel (template #3), 1080x1350 px per slide, hand-drawn off-white background with marker reasoning through what current GLP-1 coverage language has to cover (Post 61, Tuesday). See PART 3 Post 61 for slide-by-slide spec and image generation prompt. Claude Design project type: Slide deck from template.
 - [ ] Carousel (7 slides): Drug Pipeline Watch List - 2026-2027 pipeline categories (Post 63, Thursday - weekly theme visual)
 
 ---
@@ -834,7 +783,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 ### LinkedIn Feed
 | Post | Impressions | Engagement Rate | Saves | Comments |
 |------|-------------|----------------|-------|----------|
-| Post 61 (Tue Infographic) | | | | |
+| Post 61 (Tue Whiteboard Decoder Carousel) | | | | |
 | Post 62 (Wed Text) | | | | |
 | Post 63 (Thu Carousel) | | | | |
 | Post 64 (Fri Text) | | | | |

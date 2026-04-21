@@ -189,16 +189,54 @@ The LinkedIn newsletter CTA references the specific exclusive tool: "This week's
 5. **Self-Funded Employer Guidance** - Decision frameworks for plan sponsors
 6. **Broker/Consultant Resources** - Content for benefits advisors
 
-## Performance Data (Key Patterns from 22 Posts)
+## Performance Data (Updated April 21, 2026)
 
-- **Confrontational hooks outperform informational by 10-100x** on LinkedIn
-- **Messy infographic** hit 22,047 impressions (best visual format tested)
-- **"Same X. Same Y. Different Z." repetitive structures** drive saves (12 in 1 day)
-- **Newsletter is the primary conversion engine:** 605 subs, 49% open rate, accelerating
-- **Saves correlate with educational depth:** checklists, frameworks, comparisons get bookmarked
-- **Audience consistently:** 24-41% at 10,001+ employee companies, 24-34% senior level
+### Primary conversion metric: followers per 10K impressions
+
+LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of April 21, 2026: **1,573 LinkedIn followers, 735 newsletter subscribers**.
+
+### All-time top posts by impressions (top 9)
+
+| Rank | Impr | Post | Shape |
+|------|------|------|-------|
+| 1 | 64,323 | GLP-1 "1 in 12" | Topic: GLP-1 |
+| 2 | 39,025 | Generic drugs cost pennies to make, plans pay dollars | Dollar comparison |
+| 3 | 38,631 | 340B "$20 vs $100 same drug" (Mark Cuban engagement) | Dollar comparison + amplifier |
+| 4 | 26,491 | Express Scripts "flipped" drugs (news + article) | News critique |
+| 5 | 24,830 | DIR fees are pharmacy's best-kept secret | Decoder |
+| 6 | 23,275 | PBM contracts have their own language | Decoder (messy infographic) |
+| 7 | 21,444 | White bagging saves employers money (specialty) | Specialty / site-of-care |
+| 8 | 20,683 | 5 PBM Reporting Questions carousel | 5-Questions evergreen carousel |
+| 9 | 20,563 | Copay Accumulators ("There is a program running…") | Decoder |
+
+### Key patterns from the data
+
+- **Decoder shape is the most consistent conversion engine.** Three of top nine posts are decoder plays across two formats (messy infographic, text post). Floor: 20-25K impressions. Conversion rate: 9-12 followers per 10K, roughly 2-4x broad-topic content. Decoder content is the primary path from LinkedIn feed to newsletter subscriber, not just engagement.
+- **Dollar comparison shape sits above decoder on impression ceiling.** Floor: ~39K. Ceiling with amplifier: 38-40K+. Converts at lower rates than decoder (~3-5 per 10K) but generates the most comments and reach.
+- **GLP-1 is a topic-level amplifier.** 64K all-time ceiling. Any carousel, infographic, or text post that leads with GLP-1 gets a distribution bonus regardless of format.
+- **Mark Cuban is a reliable amplifier on PBM/340B adversarial content.** Cuban-assisted posts see +60-75% reach vs. non-amplified baseline. Content shapes he engages with: dollar comparison, industry-adversary framing, decoder of PBM practices, 340B critique. Cannot be engineered per post; should be factored as a distribution variable when those shapes are on the calendar.
+- **"Best-kept secret" is a proven confrontational opener** alongside the dollar-comparison structure already in the Wednesday hook rule.
+- **Hospitals & Health Care is a new and growing audience segment** (9-19% of post viewers across recent posts). Pulled in by 340B and contract-language content. Worth treating as a named audience tier alongside the existing 24-41% 10,001+ employee segment.
+- **Decoder carousel performance is forecast, not measured.** Library 01 shipped April 21, 2026 as the first branded Contract Comparison carousel in the Library NN series. Early indications from comparable prior decoder carousels (~18K, 22 followers gained, 7 saves, 11 reposts) suggest similar range is likely. Backfill real Library 01-03 numbers after 2-week window.
+- **Confrontational hooks outperform informational by 10-100x** on LinkedIn (carried from prior data set, still holds).
+- **Newsletter is the primary conversion engine:** 735 subs at 49% open rate, accelerating.
+- **Saves correlate with educational depth:** checklists, frameworks, comparisons get bookmarked.
+
+### Content Shape Library (reach for these when drafting)
+
+Four proven structural shapes with measured floors. Each can be executed in multiple formats (text post, messy infographic, carousel, clean infographic). When drafting a Tuesday visual, Wednesday text post, or Substack note, start here.
+
+| Shape | What it is | Floor (impressions) | Conv. rate (followers / 10K) | Best formats |
+|-------|------------|---------------------|------------------------------|--------------|
+| **Decoder** | "What X means" / "What they say vs. what it means" / contract or clinical terms translated | 20-25K | 9-12 | Messy infographic, Contract Comparison carousel, text post |
+| **Dollar comparison** | "$X vs $Y for the same drug/service/scenario" | ~39K | 3-5 | Text post (Wednesday hook), One Number carousel |
+| **Best-kept secret** | "X is pharmacy's best-kept secret. X means…" | ~25K | 6-8 | Text post, messy infographic |
+| **5-Questions evergreen** | "5 questions your PBM hopes you don't ask" / "5 PBM reporting questions" format | ~20K | 5-7 | Carousel (locked as Thursday Slot C) |
+
+Decoder is the workhorse: lean into it until fatigue signals appear. Fatigue signal: two consecutive decoder posts with impressions below 15K, comments in low single digits, or saves below 3. When that happens, pause the next scheduled decoder slot and run a different shape (dollar comparison, industry news, origin story) while reassessing.
 
 ### Seasonal Patterns
+
 - **Jan-Mar:** Peak LinkedIn engagement (PBS's best window)
 - **Apr (early):** Spring break/Easter dip
 - **May (Memorial Day week):** Significant engagement dip
@@ -264,6 +302,53 @@ Reference Channel covers standalone and evergreen assets that sit outside the we
 - Wednesday roundup header: 2240 x 1200 px, Topic Icon template
 - Thursday field note header: 1200 x 600 px final (generate at 2240 x 1260 for detail), Data Highlight template
 - Reference Channel header: 2240 x 1260 px, Topic Icon template
+
+### Visual Template Rotation (v1 — April 21, 2026)
+
+The 6-week Tuesday pillar cycle and the Thursday 3-slot evergreen rotation set **pillar and format class** per slot. This section sets **which specific template** gets used within each format class. Decoder content is weighted because it is the highest-converting shape in the data.
+
+**Format classes and their slots:**
+
+- **Carousel slots** (4 per 6-week window): Tu Cycle-W2, Tu Cycle-W5, Th Slot B, Th Slot C.
+- **Messy infographic slots** (3 per 6-week window): Tu Cycle-W1, Tu Cycle-W4, Th Slot A.
+- **Clean infographic slots** (2 per 6-week window): Tu Cycle-W3, Tu Cycle-W6.
+
+**Carousel rotation (3 templates, decoder-weighted):**
+
+| Template | Share | When to reach for it |
+|----------|-------|----------------------|
+| **Contract Comparison** (redline aesthetic) | ~50% | Contract language, decoder, Library NN series. Primary slot home. |
+| **Whiteboard** (hand-drawn reasoning) | ~25% | Walking through a pharmacist's thinking, multi-step logic, clinical pathway decisions |
+| **One Number** (stat per slide) | ~25% | Quantitative argument, dollar comparisons, stat-forward topics |
+
+Template #2 (Seven-slide master) is **retired from active rotation**. It remains in `claude_design_prompts.md` as the base template but should not be scheduled. The three narrative carousels above cover every job the master was doing.
+
+**Messy infographic rotation (4 templates, decoder-weighted):**
+
+| Template | Share | Notes |
+|----------|-------|-------|
+| **Contract Language Decoder** variant (Marked-Up Contract Page / dictionary layout) | ~50% | Thursday Slot A is locked as this. The proven 22-25K floor lives here. Tuesday messy slots can also run this pattern when the topic is decoder-shaped. |
+| **Chart-on-Whiteboard** | ~17% | Precise data on a whiteboard surface, handwritten annotations |
+| **Sticky Note Dashboard** | ~17% | Multi-element clustered insights, feels like post-audit notes |
+| **Ledger Annotated** | ~17% | Financial-detail topics, handwritten flagging |
+
+Retired from active rotation until re-proven: Annotated Email, Spreadsheet with Marker, Prescription Pad. Keep in the design catalog, bring back if a specific topic calls for them.
+
+**Clean infographic rotation (4 templates):**
+
+Rotate through Iceberg → Funnel → Mountain → Bridge in order across clean-infographic slots. These four cover the most common argument shapes (hidden cost, flow, climb, weak-to-strong). Stopwatch, Door, Tree, Maze are saved for topic-specific weeks where the metaphor is obvious.
+
+**Test-and-prune cadence:**
+
+After every three full 6-week cycles (~18 weeks), pull per-template impression, save, comment, and conversion-rate (followers per 10K) data. Top two templates in each format class stay in rotation; bottom one or two drop out. The rotation concentrates around what is actually performing.
+
+**Library NN series placement inside the rotation:**
+
+Library NN (PBM Contract Language carousel series, linked to the Contract Library Substack post) occupies Contract Comparison slots. A new Library entry drops every ~3 weeks when a Contract Comparison slot comes up in the carousel rotation. Template choice is fixed (Contract Comparison) but the clause set rotates: each Library entry targets a different provision family (pricing guarantees, rebate definitions, audit rights, termination language, specialty routing, formulary management, step therapy, renewal and amendment).
+
+**Integration rule for weekly briefs (hard rule):**
+
+When a week's Tuesday or Thursday visual is being scheduled, the brief in the week file is rewritten **holistically** so topic, template, slide-by-slide copy, image generation prompt, and caption read as **one integrated spec**. Never stack a "template rule" layer on top of an existing "topic copy" layer as two separate sets of directions in the same week file. A brief that reads as two overlapping instruction sets is a brief that gets misbuilt.
 
 ## Repository Structure
 
