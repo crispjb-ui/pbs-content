@@ -11,7 +11,7 @@
 | Mon Jun 22 | 7:30 AM | Substack | "The 90-Day Renewal Window: What to Do Before Your PBM Sets the Terms" | [ ] |
 | Mon Jun 22 | 7:45 AM | LinkedIn Newsletter | Renewal Countdown Briefing | [ ] |
 | Mon Jun 22 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jun 23 | 8:30 AM | LinkedIn Feed | Post 89 - "What the Best Brokers Are Doing Right Now for Renewal" Whiteboard Carousel (different pillar) | [ ] |
+| Tue Jun 23 | 8:30 AM | LinkedIn Feed | Post 89 - "How I'd Walk a Client Through the 90-Day Renewal Decision" Whiteboard Carousel (different pillar) | [ ] |
 | Tue Jun 23 | 8:35 AM | LinkedIn Feed | Post 89 - First Comment | [ ] |
 | Tue Jun 23 | 1:30 PM | LinkedIn Company | Company Reshare of Post 89 | [ ] |
 | Wed Jun 24 | 8:30 AM | LinkedIn Feed | Post 90 - "Your PBM renewal is 90 days away. Your preparation should have started yesterday." Strong POV (TEXT) | [ ] |
@@ -327,31 +327,29 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 89 - Tuesday 8:30 AM
-### "The Self-Funded Renewal Decision Framework" (Carousel)
+### "How I'd Walk a Client Through the 90-Day Renewal Decision" — Whiteboard Carousel
 
-> **Visual Build Note:** Use the **Decision Framework** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames the five decision questions with a one-line interpretation beneath each. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
-
-**Format:** Carousel (6 slides)
-**Pillar:** Self-Funded Employer Guidance
-**Word Count:** ~195 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W2 = Carousel × Self-Funded Guidance (deferred from Week 24 to avoid Monday-pillar collision). Monday newsletter pillar is PBM Contract Insights (Renewal Countdown), so no collision here. Self-Funded Guidance averaged 6,909 impressions across 3 prior posts.
+**Template:** Whiteboard carousel (template #3) from `claude_design_prompts.md`. Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
+**Format class:** Carousel (Tuesday Cycle-W2 slot, second cycle)
+**Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Renewal Countdown topic)
+**Content shape:** Decoder-in-reasoning form. Ginny walks through the decision like a pharmacist thinking out loud on a whiteboard; the unfakeable detail is the clinical-pharmacy cadence of the reasoning itself.
+**Why this combination:** The 90-day renewal decision is an iterative reasoning exercise, not a stat dump. Whiteboard carousel is the template built for "pharmacist working through the logic" and fits a decision-framework topic better than Contract Comparison (which is clause-focused) or One Number (which is stat-focused). The framework stays the same 5-question structure, but the visual system signals "this is how I would think through this" rather than "here is a list."
 
 #### Post Copy
 
 90 days before renewal is the decision window. The PBM will have their proposal ready. Most plans do not have their framework ready.
 
-The five-question framework we walk self-funded clients through:
+If you handed me your renewal file today, here is how I would work through it on a whiteboard.
 
-1. Have we benchmarked our current economics against market in the last 12 months? If no, do it before the renewal conversation.
+1. Have we benchmarked our current economics against market in the last 12 months? If no, we benchmark before the renewal conversation.
 
-2. Have we documented every guarantee shortfall in the current term, with dollar values? If no, you have no remediation to negotiate.
+2. Have we documented every guarantee shortfall in the current term, with dollar values? If no, we have no remediation to negotiate.
 
-3. Do we know what we would accept, what we would counter, and what we would walk from? If no, you are negotiating the PBM's terms, not yours.
+3. Do we know what we would accept, what we would counter, and what we would walk from? If no, we are negotiating the PBM's terms, not ours.
 
-4. Is our broker running independent market analysis or relying on PBM-provided data? The distinction matters at the table.
+4. Is the broker running independent market analysis or relying on PBM-provided data? The distinction matters at the table.
 
-5. What is our fallback if the renewal terms are unacceptable? Timing, alternatives, transition plan. All of it, written down.
+5. What is our fallback if the terms are unacceptable? Timing, alternatives, transition plan. All of it, written down before the first meeting.
 
 Sponsors who arrive with the framework negotiate. Sponsors without it renew.
 
@@ -361,21 +359,36 @@ Sponsors who arrive with the framework negotiate. Sponsors without it renew.
 
 More in this week's Pharmacy Benefits Briefing on the 90-day renewal window: [LINKEDIN NEWSLETTER URL]
 
-#### Carousel Slide Descriptions
+#### Carousel Slide-by-Slide Spec
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "The Self-Funded Renewal Decision Framework." Accent Blue subtitle: "5 questions. 90 days before renewal."
+All seven slides render as a Whiteboard carousel. Soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn marker feel with marker-pressure variation, Primary Blue (#015880) marker as default, Accent Blue (#A7E0FA) highlight on the decision that carries each slide, red marker for the "walk line" or risk annotations, Gray (#4D4D4D) for margin notes. No computer typography except the small Plex Sans SemiBold typographic elements on Slide 1 and Slide 7. Slide numbers "N / 7" in Gray marker bottom-right.
 
-**Slide 2 - Q1 Benchmarking:** White background. Plex Sans SemiBold Primary Blue: "Have we benchmarked in the last 12 months?" Plex Sans Regular Gray body: "The PBM has benchmarked you. If your broker has not, you are negotiating blind."
+**Slide 1 — Cover.** Soft off-white background. Hand-lettered title top-left in Primary Blue marker: "How I'd walk a client through the 90-day renewal decision." "90-day" underlined in Accent Blue. Below, the only typographic element, a small Plex Sans SemiBold line: "Five questions. One whiteboard. In order." Bottom-left a small hand-drawn calendar icon with "90" lettered inside. Bottom-right: "1 / 7" Gray marker.
 
-**Slide 3 - Q2 Guarantee Shortfalls:** Accent Blue background. Plex Sans SemiBold Primary Blue: "Do we have shortfalls documented with dollar values?" Body: "Unpaid remediation is the easiest recovery in renewal. Most plans leave it on the table."
+**Slide 2 — Question 1: Benchmarking.** Hand-lettered title: "First: have we benchmarked in the last 12 months?" Below, a rough hand-drawn two-column comparison: left labeled "PBM view" (with a small eye icon), right labeled "Market view" (with a ruler icon). An Accent Blue arrow sweeps from Market view to a boxed hand-lettered phrase: "our leverage number." Margin note in Gray marker: "The PBM has already run this. If your broker has not, you are negotiating blind."
 
-**Slide 4 - Q3 Accept/Counter/Walk:** White background. Plex Sans SemiBold: "Do we know what we would accept, counter, and walk from?" Body: "Without the walk line defined, you are negotiating the PBM's terms."
+**Slide 3 — Question 2: Documented shortfalls.** Hand-lettered title: "Second: what shortfalls do we have in writing?" Below, a three-row hand-drawn ledger: rows labeled "Guarantee A," "Guarantee B," "Guarantee C." Each row has two columns: "Contract minimum" (left) and "Actual" (right), with a handwritten shortfall amount like "— $XX,XXX" in red marker. A green marker arrow from the red shortfalls points to a boxed phrase: "remediation owed." Margin note: "Unpaid remediation is the easiest recovery in renewal. Most plans leave it on the table."
 
-**Slide 5 - Q4 Independent Analysis:** Primary Blue background. White Plex Sans SemiBold: "Is our broker running independent analysis?" Accent Blue body: "PBM-provided data never shows the PBM in a losing position. Independent pulls do."
+**Slide 4 — Question 3: Accept/Counter/Walk lines.** Hand-lettered title: "Third: accept, counter, or walk?" Below, a hand-drawn three-column grid with headers in marker: "ACCEPT" (Primary Blue), "COUNTER" (Gray), "WALK" (red, double-underlined). Underneath each column, two or three short hand-lettered phrases as placeholders: e.g., under ACCEPT "GER within 2 pts of market" / "rebate base-plus 8 pts"; under COUNTER "remediation structure"; under WALK "auto-renewal without opt-out." Accent Blue highlight on the WALK column header. Margin note: "Without the walk line defined, you are negotiating the PBM's terms."
 
-**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Sponsors with the framework negotiate. Sponsors without it renew." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 5 — Question 4: Independent analysis.** Hand-lettered title: "Fourth: whose numbers are we using?" Below, a hand-drawn Venn-style pair of circles labeled "PBM data" and "Independent pull" with a small overlap. Inside the overlap: hand-lettered "gaps are the conversation." Accent Blue highlight on the independent-pull circle. Margin note: "PBM-provided data never shows the PBM in a losing position. Independent pulls do."
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds for slide-to-slide contrast. Plex Sans SemiBold for headers (28-34pt), Plex Sans Regular for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Slide 6 — Question 5: Fallback plan.** Hand-lettered title: "Fifth: what happens if the terms are unacceptable?" Below, a hand-drawn decision tree with three branches: "RFP timing" / "transition carrier options" / "temporary extension terms." Accent Blue highlight on one branch depending on the scenario. Red marker note spanning the bottom: "Written down before the first meeting, not during it."
+
+**Slide 7 — Close.** Soft off-white background. Hand-lettered headline: "Sponsors with the framework *negotiate*." ("negotiate" underlined in Accent Blue.) Below in red marker: "Sponsors without it renew." Small Plex Sans SemiBold typographic line at the bottom in Primary Blue: "The full 90-day renewal playbook is in this week's deep dive. benefitblindspots.substack.com." "7 / 7" Gray marker bottom-right.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Use Whiteboard carousel master (template #3). Generate 7 stacked slides at 1080 x 1350 px each. Shared visual system across all slides: soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn marker feel with pressure variation, Primary Blue (#015880) marker default, Accent Blue (#A7E0FA) highlights on the decision each slide carries, red marker (#C0392B) for walk/risk annotations, Gray (#4D4D4D) for margin notes. No computer typography except small Plex Sans SemiBold typographic elements on Slide 1 (subtitle line) and Slide 7 (CTA line). Slide-number footer "N / 7" in Gray marker bottom-right. Pull slide-by-slide content from the spec above. Handwriting must be legibly imperfect, not computer typography. Reference the Week 18 Whiteboard Decoder Carousel for handwriting fidelity and marker aesthetic.
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck via Claude Design using the spec above
+2. Export PNGs at 1080 x 1350 each
+3. Spot-check handwriting legibility at thumbnail; Accent Blue highlights land on the specified phrases (not random text)
+4. Verify the three-column Slide 4 grid renders readably; if crowded, reduce to two phrases per column
+5. Verify the Slide 7 small Plex Sans line contrasts enough against the off-white background
+6. Upload as native LinkedIn carousel (document upload)
 
 ---
 
@@ -784,7 +797,7 @@ A broker called me once to say her client had asked for a renewal review from me
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 89 Whiteboard Carousel | 7 slides (1080x1350 each) | Whiteboard Template A - broker renewal checklist |
+| Post 89 Whiteboard Carousel | 7 slides (1080x1350 each) | "How I'd Walk a Client Through the 90-Day Renewal Decision" — pharmacist-on-whiteboard reasoning through 5 renewal-decision questions, Self-Funded Employer Guidance pillar |
 | Post 91 Messy Infographic | Single image (1080x1350) | 90-day timeline - weekly theme visual |
 | Substack article header image | 2240x1260 | [ ] Design needed |
 | Substack Field Note header image | 1200x600 | [ ] Design needed |

@@ -11,7 +11,7 @@
 | Mon Jun 15 | 7:30 AM | Substack | "H1 Review: What the Data Shows" | [ ] |
 | Mon Jun 15 | 7:45 AM | LinkedIn Newsletter | H1/H2 Briefing | [ ] |
 | Mon Jun 15 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jun 16 | 8:30 AM | LinkedIn Feed | Post 85 - "Contract Language That Changed Our Clients' Outcomes" MESSY INFOGRAPHIC (different pillar) | [ ] |
+| Tue Jun 16 | 8:30 AM | LinkedIn Feed | Post 85 - "Three Clauses Behind the Cost Patterns That Surface at Mid-Year" Library 03 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue Jun 16 | 8:35 AM | LinkedIn Feed | Post 85 - First Comment | [ ] |
 | Tue Jun 16 | 1:30 PM | LinkedIn Company | Company Reshare of Post 85 | [ ] |
 | Wed Jun 17 | 8:30 AM | LinkedIn Feed | Post 86 - "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." Tease Hook (TEXT) | [ ] |
@@ -461,63 +461,64 @@ A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a soli
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 85 - Tuesday 8:30 AM
-### "3 Cost Patterns We See in Every Mid-Year Claims Review" (Infographic)
+### "Three Clauses Behind the Cost Patterns That Surface at Mid-Year" — Library 03 Contract Comparison Carousel
 
-> **Visual Build Note:** Use the **Three Pattern Stack** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each pattern as a stacked panel with a named anchor (drug tier, timing, channel). Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Infographic
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~170 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W3 = Infographic × Cost Containment. Monday newsletter pillar is Self-Funded Employer Guidance (H1/H2 Review), so no collision. Cycle-W2 Self-Funded was carried forward to Week 25 to avoid clashing with this week's Monday theme.
+**Template:** Contract Comparison carousel (template #4, PROVEN). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Matches Library 01 and Library 02 visual standard exactly.
+**Format class:** Carousel (Tuesday Cycle-W2 slot, second cycle — cycle-pillar Self-Funded is carried by Monday's H1/H2 Review topic, so the slot shifts to Cost Containment)
+**Pillar:** Cost Containment Strategies (different from Monday's Self-Funded / H1/H2 Review)
+**Content shape:** Decoder (20-25K impression floor, 9-12 followers per 10K). **Library 03** in the ongoing series; funnels to the Contract Language Library Substack post.
+**Why this combination:** Mid-year cost patterns do not happen by accident — they happen because the contract language permits them. Library 03 decodes the three clauses behind the three most common mid-year patterns (specialty concentration, missing PA discipline on new launches, mail-order underutilization), pairing each pattern with the protective language that would have prevented it. Extends the Library NN series to the "pattern-to-clause" framing.
 
 #### Post Copy
 
-Mid-year claims reviews surface the same cost patterns across most self-funded plans.
+Mid-year claims reviews surface the same cost patterns across most self-funded plans. Each one traces back to a specific clause most employers never read.
 
-Pattern 1: Specialty concentration. A single drug, often on the Humira, Stelara, or Keytruda tier, accounts for a disproportionate share of H1 spend. One claimant moves the trend line.
+Pattern 1: Specialty concentration. A single drug on the Humira, Stelara, or Keytruda tier eats a disproportionate share of H1 spend. The clause behind it: specialty routing and affiliated-pharmacy permissions.
 
-Pattern 2: New-to-market drugs without PA discipline. Drugs launched in Q4 or Q1 show up in claims data without a prior authorization or step therapy gate in place. The PBM's default coverage position is permissive.
+Pattern 2: New-to-market drugs without PA discipline. Q4 and Q1 launches show up in claims without a prior authorization or step therapy gate. The clause behind it: new-molecule default formulary placement.
 
-Pattern 3: Mail-order underutilization. Maintenance medications like atorvastatin, lisinopril, or metformin fill at retail on 30-day cycles instead of 90-day mail. The cost delta is real and compounds quarterly.
+Pattern 3: Mail-order underutilization. Maintenance medications fill at retail on 30-day cycles instead of 90-day mail. The clause behind it: channel pricing differential and mail-order enrollment requirements.
 
-Each pattern costs the plan money. Each one is visible in H1 data. Each one is correctable before H2.
+Each pattern costs the plan money. Each one is visible in H1 data. Each one is correctable before H2, but only if you know which clause to amend.
 
-A mid-year review is the leverage point. Renewal is too late.
+I redlined each of them below.
 
-#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
+#PharmacyBenefits #CostContainment #PBMContracts #SelfFundedEmployers
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on H1/H2 review: [LINKEDIN NEWSLETTER URL]
+The full protective language for these three clauses, plus twelve more, is in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
-#### Infographic Concept
+#### Carousel Slide-by-Slide Spec
 
-**Layout:** Clean vertical three-panel stack. Each panel represents one pattern with a distinct iconography. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) highlights, white background.
+All seven slides render as a Library NN Contract Comparison carousel matching the Library 01 and Library 02 visual standard exactly: Primary Blue (#015880) cover and close with white Plex Sans SemiBold headlines and Accent Blue italic emphasis words; off-white contract-paper (#F5F0E4) content slides with Plex Mono 11-12pt typed body, red (#C0392B) strikethroughs on vague language, Accent Blue (#A7E0FA) highlights on protective insertions, Plex Sans SemiBold uppercase section markers, Primary Blue "WHY IT MATTERS" panels at the bottom ~18% of each content slide. Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 03" in Plex Sans SemiBold 14pt white, +6% tracking. PBS wordmark top-right on cover and close, "rxbs.org" bottom-left.
 
-**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Cost Patterns We See in Every Mid-Year Review." Magnifying glass icon in Accent Blue.
+**Slide 1 — Cover.** Headline: "Three clauses behind the cost patterns that *surface* at mid-year." ("surface" italic Accent Blue.) Subhead: "The language that permits the leak, and the redlines that close it." Bottom-right: "SWIPE FOR THE REDLINE →." "01 / 07."
 
-**Panel 1 - Specialty Concentration:**
-- Pill capsule icon in Primary Blue, 60px
-- Headline: "One Claimant Moves the Trend"
-- Body: "A single drug on the Humira, Stelara, or Keytruda tier often drives a disproportionate share of H1 spend."
-- Sidebar callout in Accent Blue: "Pull top 25 drugs by plan spend."
+**Slide 2 — Pattern 1 context (specialty concentration).** Off-white paper. Header eyebrow: "PATTERN 1 · SPECIALTY CONCENTRATION · WHAT YOU SEE." Content card in Plex Mono: "A single drug on the Humira, Stelara, or Keytruda tier drives 12-18 percent of H1 pharmacy spend. In half of the mid-year reviews we run, that single drug routes through a PBM-affiliated specialty pharmacy at pricing the plan cannot audit independently." Accent Blue highlight on "routes through a PBM-affiliated specialty pharmacy at pricing the plan cannot audit independently." "WHY IT MATTERS" panel: "If one drug moves your trend and you cannot see the acquisition cost, you are not negotiating a plan; you are funding a margin." "02 / 07."
 
-**Panel 2 - PA Discipline on New Launches:**
-- Calendar + gate icon in Primary Blue, 60px
-- Headline: "Q4/Q1 Launches Default Permissive"
-- Body: "New drugs show up in H1 claims without a PA or step therapy gate. The PBM's default position is coverage."
-- Sidebar callout in Accent Blue: "Audit new-molecule claims by launch date."
+**Slide 3 — Clause 1 redline (specialty routing).** Off-white paper. Header: "§ 5.04 · SPECIALTY PHARMACY ROUTING." Red strikethrough on ~~"Specialty prescriptions shall be filled at PBM's preferred specialty pharmacy network as determined by PBM."~~ Accent Blue insertion: "Plan Sponsor may evaluate and approve specialty pharmacy network composition annually. PBM shall provide transparent pricing for any specialty dispensing, including acquisition cost, dispensing fee, and any affiliate margin. Plan Sponsor retains the right to carve out specialty pharmacy to a non-affiliated provider upon 90 days notice without penalty to traditional pricing guarantees." "WHY IT MATTERS" panel: "The routing is in the contract. The dollar impact is in the claims. Amend the clause and the pattern cannot recur." "03 / 07."
 
-**Panel 3 - Mail-Order Underutilization:**
-- Envelope + prescription icon in Primary Blue, 60px
-- Headline: "Maintenance Scripts Stuck at Retail"
-- Body: "Atorvastatin, lisinopril, metformin. 30-day retail fills instead of 90-day mail. Cost delta compounds every quarter."
-- Sidebar callout in Accent Blue: "Compare channel mix on top 10 maintenance drugs."
+**Slide 4 — Pattern 2 context (PA on new launches).** Off-white paper. Header eyebrow: "PATTERN 2 · NEW-MOLECULE PA DISCIPLINE · WHAT YOU SEE." Content: "Drugs launched in Q4 or Q1 show up in H1 claims data without a prior authorization or step therapy gate in place. Default formulary placement at launch is permissive unless the contract says otherwise." Accent Blue highlight on "Default formulary placement at launch is permissive unless the contract says otherwise." "WHY IT MATTERS" panel: "A single new launch without a gate can add six figures of H1 spend before anyone notices. The gate belongs in the contract, not in the PBM's discretion." "04 / 07."
 
-**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Mid-year is the leverage point. Renewal is too late." PBS logo bottom-right, team@rxbs.org bottom-left.
+**Slide 5 — Clause 2 redline (new-molecule default).** Off-white paper. Header: "§ 3.07 · NEW MOLECULE FORMULARY PLACEMENT." Red strikethrough on ~~"New drugs approved during the contract term will be evaluated for formulary placement by PBM in the ordinary course."~~ Accent Blue insertion: "Any new drug approved during the contract term and projected to exceed $100,000 in annual plan spend shall be placed in a non-preferred tier with prior authorization and step therapy gating at launch. Placement on a preferred tier requires written Plan Sponsor approval based on clinical and financial review. PBM shall deliver a new-molecule alert to Plan Sponsor within 30 days of FDA approval for any drug meeting the spend threshold." "WHY IT MATTERS" panel: "The contract sets the default. A permissive default is an expensive one. Flip the default and require active approval to ease it." "05 / 07."
 
-**Style:** Clean professional format. Plex Sans body (18-22pt), Plex Sans SemiBold for panel headers (22-24pt). Icons are flat, single-color, 50-60px.
+**Slide 6 — Pattern 3 context and clause redline (mail-order).** Off-white paper. Combines pattern context and clause in a single slide. Header: "PATTERN 3 · MAIL-ORDER UNDERUTILIZATION · § 4.08 · CHANNEL PRICING." Pattern callout in Plex Sans Regular italic 14pt Primary Blue: "Atorvastatin, lisinopril, metformin fill at retail on 30-day cycles instead of 90-day mail. Cost delta compounds every quarter." Contract card below: Red strikethrough on ~~"Members may use mail-order pharmacy at their option."~~ Accent Blue insertion: "Maintenance medications identified by therapeutic class (including but not limited to hypertensive, lipid-lowering, diabetes, and thyroid categories) shall be subject to mandatory mail-order after two 30-day retail fills, with Plan Sponsor opt-out on a member-by-member clinical basis. Retail-channel pricing for maintenance medications shall not exceed mail-order pricing by more than 8 percent on a net-cost basis." "WHY IT MATTERS" panel: "'At their option' is not a plan design. Require the channel. Cap the retail delta. The compound savings show up by Q3." "06 / 07."
+
+**Slide 7 — Close.** Solid Primary Blue. Headline: "Every mid-year cost pattern has a clause *behind* it." ("behind" italic Accent Blue.) Below: "Amend the clause, and the pattern cannot recur." Bottom block: "Full protective language for these three clauses, plus twelve more, lives in our free PBM Contract Language Library. benefitblindspots.substack.com/p/pbm-contract-language-library." "07 / 07."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Use the Contract Comparison carousel master (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01 (April 21, 2026) and Library 02 (Week 21): same cover eyebrow format, same off-white paper on content slides, same typed Plex Mono contract body, same red strikethroughs and Accent Blue insertions, same Primary Blue "WHY IT MATTERS" panels, same slide-number footer style. Pull slide-by-slide content (headers, contract clauses, strikethroughs, insertions, "why it matters" copy) from the spec above. Cover eyebrow reads "PBM CONTRACT LANGUAGE · LIBRARY 03."
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck via Claude Design using the spec above
+2. Export PNGs at 1080 x 1350 each
+3. Parity check against Library 01 and Library 02 — eyebrow, slide numbers, panel position, strikethrough/insertion color fidelity
+4. Verify Slide 6 fits both pattern context and clause redline without crowding (consider a slight type-size reduction on the pattern callout if needed)
+5. Verify the closing slide's Contract Language Library URL renders correctly
+6. Upload as native LinkedIn carousel
 
 ---
 
@@ -891,7 +892,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM)
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
-- [ ] Post 85 - "Contract Language That Changed Our Clients' Outcomes" MESSY INFOGRAPHIC designed and ready (Tue 8:30 AM)
+- [ ] Post 85 Library 03 Contract Comparison carousel designed and ready - "Three Clauses Behind the Cost Patterns That Surface at Mid-Year" (7 slides, matches Library 01/02 standard, Cost Containment pillar)
 - [ ] Post 85 - First comment drafted with link to LinkedIn Newsletter
 - [ ] Post 86 - "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." text post ready (Wed 8:30 AM)
 - [ ] Post 87 - H1 Metrics Dashboard CAROUSEL (7 slides) designed and ready (Thu 8:30 AM)
@@ -945,7 +946,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 | Post | Impressions | Engagement Rate | Comments |
 |------|------------|-----------------|----------|
-| Post 85 (Tue Messy Infographic) | | | |
+| Post 85 (Tue Library 03 Contract Comparison Carousel) | | | |
 | Post 86 (Wed Text) | | | |
 | Post 87 (Thu Carousel) | | | |
 | Post 88 (Fri Text) | | | |

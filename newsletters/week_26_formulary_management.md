@@ -11,7 +11,7 @@
 | Mon Jun 29 | 7:30 AM | Substack | "Who Really Controls Your Drug List" | [ ] |
 | Mon Jun 29 | 7:45 AM | LinkedIn Newsletter | Formulary Management Briefing | [ ] |
 | Mon Jun 29 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jun 30 | 10:00 AM | LinkedIn Feed | Post 93 - "The Formulary Decision You Never Made" MESSY INFOGRAPHIC (different pillar) | [ ] |
+| Tue Jun 30 | 10:00 AM | LinkedIn Feed | Post 93 - "The Formulary Decision You Never Made" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
 | Tue Jun 30 | 10:05 AM | LinkedIn Feed | Post 93 - First Comment | [ ] |
 | Tue Jun 30 | 1:30 PM | LinkedIn Company | Company Reshare of Post 93 | [ ] |
 | Wed Jul 1 | 10:00 AM | LinkedIn Feed | Post 94 - "Your formulary was built for your PBM's rebate strategy." Strong POV (TEXT) / VIDEO TEST #1 | [ ] |
@@ -292,16 +292,13 @@ This week's Benefit Blind Spots includes a **formulary decision audit**: seven s
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 10:00 AM
-### "The Formulary Decision You Never Made" (Messy Infographic)
+### "The Formulary Decision You Never Made" — Marked-Up Contract Page Decoder
 
-> **Visual Build Note:** Use the **Tree** metaphor infographic from `claude_design_prompts.md` (template #11). Claude design project type: **Prototype**. Plug in content that frames formulary decisions growing from P&T + rebate contract roots. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Messy Infographic
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~85 words
-**Post Time:** 10:00 AM EST (testing new time per research)
-
-> **NOTE:** Testing 10:00 AM posting time this week (research says 10-11 AM optimal per Buffer 4.8M post analysis). Compare to 8:30 AM baseline.
+**Template:** Marked-Up Contract Page messy infographic (template #15) from `claude_design_prompts.md`. Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Messy infographic (Tuesday Cycle-W4 slot, second cycle)
+**Pillar:** Transparency & Industry Education (different from Monday's Clinical Pharmacy / Formulary Management topic)
+**Content shape:** Decoder (the proven 20-25K combination of decoder shape × messy format × Transparency pillar). The message: a "customized formulary" line in your contract does not mean you made the decisions.
+**Why this combination:** Marked-Up Contract Page renders the exact contract section that governs formulary authority as an actual page with annotations exposing what the language permits. More specific and more decoder-shaped than the prior tree-metaphor concept.
 
 #### Post Copy
 
@@ -311,38 +308,46 @@ The P&T committee reviews the clinical evidence. The contracting team negotiates
 
 The drug on your preferred tier may be there because it is the best clinical option. Or it may be there because the manufacturer offered the highest rebate. Without net cost transparency, you cannot tell which.
 
+Here is what the contract actually gives you the right to see.
+
 #PharmacyBenefits #FormularyManagement #PBMTransparency #SelfFundedEmployers
 
 #### First Comment
 
 More in this week's Pharmacy Benefits Briefing on formulary management: [LINKEDIN NEWSLETTER URL]
 
-#### Messy Infographic Concept
+#### Image Layout Spec
 
-**Title:** The Formulary Decision You Never Made
-**Style:** Whiteboard / Decision flow
-**Dimensions:** 1080 x 1350 px (vertical)
+Single image at 1080 x 1350 px rendered as a photographed PBM contract page sitting slightly angled on a desk. Off-white paper (#F5F0E4) with faint edge shadow. Typed contract body in Plex Mono 11-12pt black. Header eyebrow: "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · § 3.02 · FORMULARY MANAGEMENT." The page shows a single contract section governing formulary authority with two annotated paragraphs.
 
-**Layout:**
+**Paragraph 1 — What the PBM keeps.** Typed Plex Mono: "PBM shall develop, maintain, and administer the formulary in the ordinary course. PBM may add, remove, or re-tier products in its reasonable discretion based on clinical, financial, and market factors." A yellow marker pass (#F4E27B at 60% opacity) runs over "in its reasonable discretion" and "clinical, financial, and market factors." Red handwritten margin annotation with arrow pointing to the yellow highlight, Caveat 18pt: "'Reasonable discretion' is the PBM's call. 'Financial' includes rebate economics."
 
-**Top:** Off-white (#F5F5F0) background with faint grid. Handwritten header in Primary Blue (#015880): "The Formulary Decision You Never Made" (Caveat, 36pt).
+**Paragraph 2 — What the plan does not get.** Typed Plex Mono: "PBM shall provide quarterly formulary updates to Plan Sponsor at such intervals as PBM may determine. Plan Sponsor's role in formulary decisions shall be advisory." Red marker strikethrough on "advisory." Blue marker circle around "at such intervals as PBM may determine." Red handwritten margin annotation: "'Advisory' is where the leverage dies."
 
-**Two Paths Diagram:**
-- Left path header in Accent Blue (#A7E0FA): "Clinical Review"
-- Right path header in Accent Blue: "Rebate Contract"
-- Left side: Hand-drawn icons for "efficacy," "safety," "equivalence" with checkmarks
-- Right side: Hand-drawn icons for "manufacturer offer," "rebate %," "exclusivity" with dollar signs
-- Both paths converge with arrows to center: "FORMULARY PLACEMENT"
-- Below convergence: Hand-drawn question in red (#C0392B): "Which path determined your tier?"
+**Across the page, running diagonally, a large red Caveat handwritten callout (28pt):** "Higher rebate does not mean lower plan cost."
 
-**Bottom section:** Three hand-drawn boxes:
-- Box 1: "Higher rebate ≠ lower plan cost"
-- Box 2: "Net cost is what matters"
-- Box 3: "Can you see the difference?"
+**Below the contract paragraphs, a boxed section in light Accent Blue (#A7E0FA at 20% opacity)** with a typed Plex Mono list titled "WHAT TO ASK FOR IN THE NEXT RENEWAL":
+1. "Net cost analysis by therapeutic class, brand vs. biosimilar"
+2. "Plan Sponsor right to veto tier changes above $50K projected impact"
+3. "Rebate disclosure at the drug level, not aggregate"
 
-**Bottom bar:** "Ask for the net cost analysis." PBS logo (50px). team@rxbs.org
+Small Caveat handwritten annotation in red next to the Accent Blue box, pointing to it: "This is the redline."
 
-**Design Notes:** Whiteboard aesthetic. Caveat font. Hand-drawn arrows (slightly curved, imperfect). Red for key questions. Accent Blue for headers. Gray for annotations.
+**Bottom of image:** Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" badge top-left outside the paper. Plex Mono Medium 12pt Gray "rxbs.org" bottom-left. PBS logo (dark, 60-80px) bottom-right.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking PBM contract page on an off-white paper (#F5F0E4) background, slight angle, faint edge shadow. Paper fills ~85% of image. Header eyebrow in Plex Sans SemiBold 10pt uppercase Gray (#4D4D4D): "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · § 3.02 · FORMULARY MANAGEMENT." Two typed Plex Mono 11-12pt contract paragraphs beneath: first about PBM's formulary discretion (with yellow highlighter pass on "in its reasonable discretion" and "clinical, financial, and market factors"); second about quarterly updates and advisory role (with red strikethrough on "advisory" and blue marker circle around "at such intervals as PBM may determine"). Red Caveat-handwritten margin annotations beside each highlight: "'Reasonable discretion' is the PBM's call. 'Financial' includes rebate economics." and "'Advisory' is where the leverage dies." Diagonal large red Caveat callout across the page ~28pt: "Higher rebate does not mean lower plan cost." Below the contract text, a boxed section with light Accent Blue (#A7E0FA 20% opacity) background titled in Plex Mono 11pt "WHAT TO ASK FOR IN THE NEXT RENEWAL" with three numbered items. Small red Caveat annotation pointing to the box: "This is the redline." Outside the paper: Primary Blue Plex Sans SemiBold "Benefit Blind Spots" top-left, Gray Plex Mono "rxbs.org" bottom-left, PBS logo bottom-right. Color palette: off-white paper, black body text, red annotation (#C0392B), yellow highlight (#F4E27B), blue circle marker (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photos of people, no other logos.
+
+**Post-Generation Steps:**
+
+1. Generate base image using the prompt above
+2. Verify the two paragraphs render with distinct content (not repeated filler)
+3. Confirm the yellow highlights land on the specified phrases and the red strikethrough lands on "advisory"
+4. If handwriting is illegible, overlay Caveat text in Canva
+5. Verify the Accent Blue "WHAT TO ASK FOR" box is clearly differentiated from the contract body
+6. Add PBS logo bottom-right, 60-80px
+7. Export as PNG
 
 ---
 
@@ -732,7 +737,7 @@ I had a young pharmacist ask me whether she should stay in retail or move into p
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 93 Messy Infographic | Single image (1080x1350) | Formulary decision flow - whiteboard style |
+| Post 93 Marked-Up Contract Page Decoder | Single image (1080x1350) | Photographed contract page § 3.02 with annotated formulary-authority language; Transparency pillar |
 | Post 95 Contract Markup Carousel | 7 slides (1080x1350 each) | Template B - formulary audit as contract annotations |
 | Post 94 Video (optional) | Vertical video, 50 sec | VIDEO TEST #1 - film if ready |
 | Substack article header | 2240x1260 | [ ] Design needed |
