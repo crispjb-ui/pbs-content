@@ -112,11 +112,7 @@ jobs:
 
             Write the article following the template exactly. Include the preview image prompt at the end.
 
-            HUMANIZE PASS (built into the writing, not a separate step):
-              REMOVE: "It's important to note", "Let's dive in", "navigating", "leverage" as verb, "holistic", "robust", "comprehensive", "key takeaways", "actionable insights", excessive mid-paragraph bolding, parallel list structures that read like AI output.
-              ADD: "I" naturally ("I flagged this because..."), "we" for PBS ("We see this pattern in contracts..."), professional context, varied sentence length, conversational transitions between stories.
-              ENFORCE: no em dashes or hyphens as sentence separators; no fabricated statistics (use "significant", "substantial", "meaningful"); brokers as partners; PBM as adversary where appropriate; every story framed through employer cost/risk lens; company is Prescription Benefit Solutions (PBS), never RXBS; CEO is Ginny Crisp, PharmD (not "Dr. Ginny Crisp").
-              Save ONLY the humanized version.
+            Draft in Ginny's voice: personal "I" and "we" framing, varied sentence length, brokers as partners, PBMs as structural adversary, employer cost/risk lens on every story, no em dashes or hyphens as sentence separators, no fabricated statistics, company is Prescription Benefit Solutions (PBS, never RXBS), CEO is Ginny Crisp, PharmD (never "Dr. Ginny Crisp"). A dedicated /humanize pass runs in the next workflow step; do not self-evaluate further here.
 
             Prepend this header to the file:
               Status: DRAFT - Review before publishing to Substack
@@ -136,6 +132,22 @@ jobs:
             exit 1
           fi
           echo "Found draft at $file ($(wc -l < "$file") lines)"
+
+      - name: Humanize roundup draft
+        if: steps.guard.outputs.should_run == 'true'
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Edit,Write,Grep"
+          prompt: |
+            Run the /humanize slash command on the freshly drafted roundup.
+
+            Target file: newsletters/roundups/roundup_${{ steps.vars.outputs.date_file }}.md
+
+            The command definition lives at .claude/commands/humanize.md. Follow
+            every step in that file against the target. Do not commit. The
+            next workflow step handles the commit.
 
       - name: Commit and push draft
         if: steps.guard.outputs.should_run == 'true'
