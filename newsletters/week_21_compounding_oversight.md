@@ -736,7 +736,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 8: ADDITIONAL SUBSTACK CONTENT (This Week)
 
-## "What I'd Ask" #4: Investigating a High-Cost Compounding Claim
+## "What I'd Ask" #3: Investigating a High-Cost Compounding Claim
 
 **Publish:** Tuesday, May 27, 2026 at 7:30 AM EST
 **Format:** Standalone Substack post
@@ -778,7 +778,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 **Per-instance overrides:**
 - Badge (top-right): "WHAT I'D ASK"
-- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 04 · High-cost compounding claim`
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 03 · High-cost compounding claim`
 
 ---
 

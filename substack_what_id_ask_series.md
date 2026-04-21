@@ -22,20 +22,22 @@ These are the fastest content pieces to produce and among the most valuable. Eac
 
 ## Q2 Schedule
 
-| Publish Date | Topic | Aligned With |
-|-------------|-------|-------------|
-| Apr 15 (Tue) | What I'd Ask: Reviewing a PBM Renewal Proposal | Week 15 (340B) |
-| Apr 29 (Tue) | What I'd Ask: Evaluating a Specialty Pharmacy Carve-Out | Week 17 (Carve-Out) |
-| May 13 (Tue) | What I'd Ask: Your First PBM Quarterly Review | Week 19 (Fiduciary) |
-| May 27 (Tue) | What I'd Ask: Investigating a High-Cost Compounding Claim | Week 21 (Compounding) |
-| Jun 10 (Tue) | What I'd Ask: Running a Pharmacy Parity Analysis | Week 23 (Parity) |
-| Jun 24 (Tue) | What I'd Ask: Preparing for a PBM RFP | Post-Q2 |
+Series numbering starts with Issue #1 on Apr 29, 2026 (Specialty Carve-Out). The Apr 15 Renewal Proposal post was a pre-series pilot and is not numbered in the Reference Channel imagery.
+
+| Issue | Publish Date | Topic | Aligned With |
+|-------|--------------|-------|--------------|
+| Pilot | Apr 15 (Tue) | What I'd Ask: Reviewing a PBM Renewal Proposal | Week 15 (340B) |
+| #1 | Apr 29 (Tue) | What I'd Ask: Evaluating a Specialty Pharmacy Carve-Out | Week 17 (Carve-Out) |
+| #2 | May 13 (Tue) | What I'd Ask: Your First PBM Quarterly Review | Week 19 (Fiduciary) |
+| #3 | May 27 (Tue) | What I'd Ask: Investigating a High-Cost Compounding Claim | Week 21 (Compounding) |
+| #4 | Jun 10 (Tue) | What I'd Ask: Running a Pharmacy Parity Analysis | Week 23 (Parity) |
+| #5 | Jun 24 (Tue) | What I'd Ask: Preparing for a PBM RFP | Post-Q2 |
 
 ---
 
 ## Post Templates
 
-### Issue 1: What I'd Ask - Reviewing a PBM Renewal Proposal
+### Pilot Issue: What I'd Ask - Reviewing a PBM Renewal Proposal
 
 **Publish:** Tuesday, April 15, 2026
 
@@ -65,7 +67,7 @@ The renewal proposal is the PBM's opening position, not the final offer. Every n
 
 ---
 
-### Issue 2: What I'd Ask - Evaluating a Specialty Pharmacy Carve-Out
+### Issue 1: What I'd Ask - Evaluating a Specialty Pharmacy Carve-Out
 
 **Publish:** Tuesday, April 29, 2026
 
@@ -95,7 +97,7 @@ The carve-out decision is not inherently better or worse. It depends on whether 
 
 ---
 
-### Issue 3: What I'd Ask - Your First PBM Quarterly Review
+### Issue 2: What I'd Ask - Your First PBM Quarterly Review
 
 **Publish:** Tuesday, May 13, 2026
 
@@ -125,7 +127,7 @@ The quarterly review is where fiduciary documentation is built. Every question a
 
 ---
 
-### Issue 4: What I'd Ask - Investigating a High-Cost Compounding Claim
+### Issue 3: What I'd Ask - Investigating a High-Cost Compounding Claim
 
 **Publish:** Tuesday, May 27, 2026
 
@@ -155,7 +157,7 @@ One compounding claim is a question. A pattern of high-cost compounds from the s
 
 ---
 
-### Issue 5: What I'd Ask - Running a Pharmacy Parity Analysis
+### Issue 4: What I'd Ask - Running a Pharmacy Parity Analysis
 
 **Publish:** Tuesday, June 10, 2026
 
@@ -187,7 +189,7 @@ Parity compliance is not about intent. It is about whether the benefit, as desig
 
 ---
 
-### Issue 6: What I'd Ask - Preparing for a PBM RFP
+### Issue 5: What I'd Ask - Preparing for a PBM RFP
 
 **Publish:** Tuesday, June 24, 2026
 

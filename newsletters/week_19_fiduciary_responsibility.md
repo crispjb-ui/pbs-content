@@ -721,7 +721,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 8: ADDITIONAL SUBSTACK CONTENT (This Week)
 
-## "What I'd Ask" #3: Your First PBM Quarterly Review
+## "What I'd Ask" #2: Your First PBM Quarterly Review
 
 **Publish:** Tuesday, May 13, 2026 at 7:30 AM EST
 **Format:** Standalone Substack post
@@ -763,4 +763,4 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 **Per-instance overrides:**
 - Badge (top-right): "WHAT I'D ASK"
-- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 03 · First PBM quarterly review`
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 02 · First PBM quarterly review`
