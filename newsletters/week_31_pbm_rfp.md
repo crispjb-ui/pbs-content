@@ -9,7 +9,7 @@
 |-----|------|----------|---------|--------|
 | Mon Aug 3 | 7:30 AM | Substack | "The PBM RFP: What to Ask and What the Answers Actually Mean" | [ ] |
 | Mon Aug 3 | 7:45 AM | LinkedIn Newsletter | PBM RFP Briefing | [ ] |
-| Tue Aug 4 | 10:00 AM | LinkedIn Feed | Post 113 - "RFP Questions Your PBM Hopes You Never Ask" MESSY INFOGRAPHIC | [ ] |
+| Tue Aug 4 | 10:00 AM | LinkedIn Feed | Post 113 - "Three Cost Containment Levers. Three Different Clocks." Mountain Clean Infographic (different pillar) | [ ] |
 | Wed Aug 5 | 10:00 AM | LinkedIn Feed | Post 114 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 6 | 7:30 AM | Substack | Field Note: "Normalizing PBM Pricing Proposals: Apples to Apples" | [ ] |
 | Thu Aug 6 | 10:00 AM | LinkedIn Feed | Post 115 - 5 Questions About Clinical Program ROI (Carousel, Slot C evergreen rotation) | [ ] |
@@ -310,15 +310,13 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 113 - Tuesday 10:00 AM
-### "3 Cost Containment Levers Most Self-Funded Plans Activate Too Late" (Infographic)
+### "Three Cost Containment Levers. Three Different Clocks." — Mountain Clean Infographic
 
-> **Visual Build Note:** Use the **Three Lever Stack** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each lever as a stacked panel with a window-of-action timeline. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Infographic
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~180 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W3 = Infographic × Cost Containment. Monday newsletter pillar is PBM Contract Insights (PBM RFP), so no collision. Avoids the same-pillar overlap that the prior W31 Tuesday post had with Monday RFP topic.
+**Template:** Mountain clean infographic from `claude_design_prompts.md` (template #9 — "The 90-Day Renewal Climb"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Clean Infographic (Tuesday Cycle-W3 slot, third cycle)
+**Pillar:** Cost Containment Strategies (different from Monday's PBM Contract Insights / PBM RFP topic)
+**Content shape:** Metaphor-driven topic brief. Third entry in the Clean Info rotation: Iceberg (W19) → Funnel (W28) → Mountain (W31) → Bridge (W34).
+**Why this combination:** Each cost containment lever has a different action window (pre-launch, member-start, pre-claim) that opens and closes on its own timeline. A Mountain metaphor plots the three levers at different altitudes along a shared climb, with each lever's window-of-action rendered as a band on the slope. The plan is climbing; miss the window and the lever drops below the climber's position, unreachable.
 
 #### Post Copy
 
@@ -334,33 +332,42 @@ Each lever has a window. The window closes on its own schedule, not the renewal 
 
 #PharmacyBenefits #CostContainment #SpecialtyPharmacy #SelfFundedEmployers
 
-#### Infographic Concept
+#### First Comment
 
-**Layout:** Vertical three-panel stack. Each panel represents one lever with a window-of-action timeline beneath it. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) timeline highlights, white background.
+More in this week's Pharmacy Benefits Briefing on PBM RFP strategy: [LINKEDIN NEWSLETTER URL]
 
-**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Cost Containment Levers Most Plans Activate Too Late." Stopwatch icon in Accent Blue.
+#### Image Layout Spec
 
-**Panel 1 - Biosimilar Repositioning:**
-- Comparison scale icon, Primary Blue, 50px
-- Headline: "Pre-position the tier before launch."
-- Body: "Humira, Stelara, Enbrel biosimilars default to non-preferred for 6-9 months. Plans that wait pay the spread for the entire window."
-- Window indicator (Accent Blue bar): "Action window closes 30 days post-launch."
+Single image at 1080 x 1350 px on a white (#FFFFFF) background. A large flat-design mountain silhouette fills the center-to-top two-thirds of the image, rendered in Primary Blue (#015880) as a slightly irregular triangular shape with one gentle slope on the right side (the climb) and a steeper drop on the left. The summit is on the top-right. Sky area above the mountain is negative space (white).
 
-**Panel 2 - Site-of-Care Steering:**
-- Building/home contrast icon, Primary Blue, 50px
-- Headline: "Steer infusions out of hospital outpatient."
-- Body: "Same biologic, hospital outpatient vs. home infusion, several multiples in cost. Steering requires the medical-pharmacy coordination agreement."
-- Window indicator (Accent Blue bar): "Action window opens at member start, never closes."
+**Along the right-side slope (the climb), three horizontal bands plotted at different altitudes:** Each band is a solid Accent Blue (#A7E0FA) line running from the slope edge inward across ~30% of the mountain width, with a small Plex Sans SemiBold label at the end of the line in Primary Blue 18pt.
 
-**Panel 3 - PA on Q4/Q1 Launches:**
-- Calendar + gate icon, Primary Blue, 50px
-- Headline: "Write the PA before the first claim."
-- Body: "New molecules launched in Q4 or Q1 default to permissive PBM coverage. Tightening after the spend has already happened costs more than gating it on day one."
-- Window indicator (Accent Blue bar): "Action window: 60 days pre-launch to first claim."
+- Band 1 (near base, ~20% up the slope): "LEVER 1 · Biosimilar repositioning." Small time callout in Plex Mono Medium 14pt Gray underneath: "Window: 30 days post-launch."
+- Band 2 (middle, ~50% up the slope): "LEVER 2 · Site-of-care steering." Time callout: "Window: opens at member start · never closes if language in place."
+- Band 3 (upper, ~75% up the slope): "LEVER 3 · PA on Q4/Q1 launches." Time callout: "Window: 60 days pre-launch to first claim."
 
-**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Each lever has its own clock. None match the renewal cycle." PBS logo bottom-right, team@rxbs.org bottom-left.
+**At the summit:** A small flat flag icon in Accent Blue labeled "RENEWAL." A thin dashed Gray line drops from the summit to a "too late" marker plotted above the upper band, labeled in red Plex Sans SemiBold 14pt: "Past this point, every lever is a next-year problem."
 
-**Style:** Clean professional format. Plex Sans body (16-18pt), Plex Sans SemiBold for panel headers (20-22pt). Icons flat, single-color, 40-50px.
+**Climber figure:** A small flat-design silhouette climber on the slope just above Band 1, positioned so they have Bands 2 and 3 still ahead. Climber in Primary Blue, with a small Accent Blue dot on their head to draw the eye. (Alternative if generator struggles with a figure: replace with an upward-pointing Plex Sans SemiBold "YOU ARE HERE" label with an arrow.)
+
+**Left slope / shadow side:** The left side of the mountain is a darker Primary Blue (#015880 at 80% opacity) to visually signal "what is already behind the plan" — levers that have fallen below the climber's position in past cycles.
+
+**Bottom band (Accent Blue #A7E0FA, ~60px tall, across the bottom of the image):** Primary Blue Plex Sans SemiBold 20pt: "Each lever has its own clock. None match the renewal cycle." PBS logo bottom-right, 80px. "rxbs.org" bottom-left Plex Mono Medium 14pt.
+
+Top-left of image: Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Top-right: small "3 LEVERS · 3 CLOCKS" eyebrow in Plex Sans SemiBold 12pt uppercase Gray (#4D4D4D), +6% tracking.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white background. Large flat-design mountain silhouette filling upper two-thirds of the image, Primary Blue (#015880) fill, slightly irregular triangular shape with a gentler right slope (the climb) and a steeper left drop. Left side of mountain rendered in Primary Blue at 80% opacity as shadow side. Three horizontal Accent Blue (#A7E0FA) bands plotted along the right slope at ~20%, ~50%, and ~75% altitudes, each with a Plex Sans SemiBold 18pt Primary Blue label at the end ("LEVER 1 · Biosimilar repositioning.", "LEVER 2 · Site-of-care steering.", "LEVER 3 · PA on Q4/Q1 launches.") and a Plex Mono Medium 14pt Gray time-window callout underneath each. A small Accent Blue flag at the summit labeled "RENEWAL" in Plex Sans SemiBold 16pt white. Dashed Gray line from summit to a "too late" marker above the upper band, labeled in red "Past this point, every lever is a next-year problem." A small Primary Blue climber silhouette on the slope just above Band 1 with an Accent Blue accent dot on their head, or an upward-pointing "YOU ARE HERE" label if a figure renders poorly. Bottom Accent Blue band with Primary Blue Plex Sans SemiBold tagline "Each lever has its own clock. None match the renewal cycle." PBS logo bottom-right, rxbs.org bottom-left. Top-left "Benefit Blind Spots" badge. Top-right "3 LEVERS · 3 CLOCKS" uppercased eyebrow. Flat corporate editorial style, no 3D, no gradients, no photographs. Color palette: white background, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), red (#C0392B) only on the "too late" warning label.
+
+**Post-Generation Steps:**
+
+1. Generate base image
+2. Verify the three bands are clearly distinguishable at different altitudes and that labels do not overlap
+3. Verify the climber figure reads correctly (if not, regenerate with "YOU ARE HERE" label instead)
+4. Confirm the red "too late" line above upper band is visible and contrasts against Primary Blue mountain fill
+5. Add PBS logo bottom-right
+6. Export as PNG
 
 ---
 
@@ -624,7 +631,7 @@ I had a client thank me after an RFP by saying, "I learned more from the questio
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 113 Messy Infographic | 1080x1350 | RFP questions with red flags |
+| Post 113 Mountain Clean Infographic | 1080x1350 | "Three Cost Containment Levers. Three Different Clocks." — flat-design mountain climb with three lever bands plotted at different altitudes, Cost Containment pillar |
 | Post 115 Whiteboard Carousel | 7 slides | Template A - RFP timeline |
 | Headers | Standard | [ ] |
 

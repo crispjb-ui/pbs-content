@@ -9,7 +9,7 @@
 |-----|------|----------|---------|--------|
 | Mon Aug 10 | 7:30 AM | Substack | "Clinical Program ROI: Measuring What Your PBM Claims to Deliver" | [ ] |
 | Mon Aug 10 | 7:45 AM | LinkedIn Newsletter | Clinical Program Briefing | [ ] |
-| Tue Aug 11 | 10:00 AM | LinkedIn Feed | Post 117 - "What Your PBM's Clinical Programs Actually Deliver" MESSY INFOGRAPHIC | [ ] |
+| Tue Aug 11 | 10:00 AM | LinkedIn Feed | Post 117 - "4 Things Your PBM's Quarterly Report Does Not Show" Ledger Annotated Messy Infographic (different pillar) | [ ] |
 | Wed Aug 12 | 10:00 AM | LinkedIn Feed | Post 118 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 13 | 7:30 AM | Substack | Field Note: "Step Therapy Protocols: Where They Help and Where They Harm" | [ ] |
 | Thu Aug 13 | 10:00 AM | LinkedIn Feed | Post 119 - 5 Fiduciary Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
@@ -245,15 +245,13 @@ This week's Benefit Blind Spots includes a **clinical program evaluation scoreca
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 117 - Tuesday 10:00 AM
-### "4 Things Your PBM's Quarterly Report Does Not Show" (Messy Infographic)
+### "4 Things Your PBM's Quarterly Report Does Not Show" — Ledger Annotated Messy Infographic
 
-> **Visual Build Note:** Use the **Report Margin Notes** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames a stylized PBM quarterly report cover page with four red-pen margin annotations identifying what is missing. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Messy Infographic
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~165 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W4 = Messy Infographic × Transparency. Monday newsletter pillar is Clinical Pharmacy (Clinical Program ROI), so no collision. Fixes the prior W32 same-pillar overlap (the original Tuesday post was on clinical programs, same Clinical Pharmacy pillar as Monday). Transparency hit 26,431 impressions on the single prior post and is one of the three top-weighted pillars.
+**Template:** Ledger with Handwritten Annotations messy infographic from `claude_design_prompts.md` (template #18). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Messy infographic (Tuesday Cycle-W4 slot, third cycle)
+**Pillar:** Transparency & Industry Education (different from Monday's Clinical Pharmacy / Clinical Program ROI topic)
+**Content shape:** Decoder (22-25K impression floor on the decoder × messy × Transparency combination). Points at what the PBM omits from the report, not at what the contract says.
+**Why this combination:** A PBM quarterly report reads like a ledger — rows of metrics and numbers in columns. Ledger Annotated renders the report as an actual financial ledger with four handwritten red-pen annotations pointing at four empty or missing columns. The ledger aesthetic matches the content format and makes the "what's missing" argument visually literal.
 
 #### Post Copy
 
@@ -273,21 +271,48 @@ Every one of these is producible from data the PBM already has. None of them app
 
 #PharmacyBenefits #Transparency #PBMReporting #SelfFundedEmployers
 
-#### Messy Infographic Concept
+#### First Comment
 
-**Layout:** Off-white (#F5F5F0) background. A stylized "PBM Quarterly Report" cover page rendered in the center, with handwritten red-pen margin annotations (Caveat font) pointing at four blank spaces where critical metrics should appear.
+More in this week's Pharmacy Benefits Briefing on clinical program ROI: [LINKEDIN NEWSLETTER URL]
 
-**Center document:** Hand-drawn rectangle representing the report cover. Title: "PBM Quarterly Report — Q3 2026" in mock professional type. Below it, four standard report sections rendered (Total Spend, Total Rebates, PA Volume, Specialty Mix), each with placeholder bar charts.
+#### Image Layout Spec
 
-**Four red-pen margin annotations** with handwritten arrows pointing at blank zones around the report:
-1. Top-right margin: "WHERE IS THE TREND? Aggregate hides direction."
-2. Middle-right margin: "Same NDC, different channels = different cost. Not shown."
-3. Bottom-right margin: "Rebate eligibility ratio? Buried in methodology, not here."
-4. Bottom-left margin: "PA approval rate BY drug class. Total volume hides where step therapy is failing."
+Single image at 1080 x 1350 px rendered as a photographed accountant's ledger or spreadsheet printout sitting slightly angled on a desk. Warm paper texture (#F5F0E4), visible ruled lines in faint gray. At the top of the ledger, a typed header in Plex Sans SemiBold 14pt uppercase Gray: "PBM QUARTERLY REPORT · Q3 2026 · PREPARED FOR PLAN SPONSOR." Below the header, a columned ledger with Plex Mono typed row labels on the left and typed numeric values in columns across the right.
 
-**Bottom band:** Accent Blue (#A7E0FA) with handwritten Primary Blue text: "Ask for the four. The response tells you what relationship you have." PBS logo bottom-right.
+**Ledger rows visible (with typed values):**
+- "Total plan spend (quarter)" — followed by a typed dollar figure placeholder
+- "Total rebates received" — typed dollar figure
+- "Aggregate PA volume" — typed count
+- "Specialty share of spend" — typed percentage
 
-**Style:** Whiteboard-sketch aesthetic. Red (#C0392B) for all margin annotations. Primary Blue (#015880) for the report's mock structure. Light gray (#E0E0E0) for placeholder charts inside the report.
+**Four columns that are VISIBLY EMPTY, each with a handwritten red-pen annotation spanning the margin with an arrow pointing into the empty column:**
+
+1. Empty column 1 (to the right of Total plan spend), labeled faintly in pencil "Trend QoQ / YoY." Red Caveat handwritten margin annotation, 18pt: "Where is the trend? Aggregate hides direction." Arrow into the empty column.
+
+2. Empty column 2 (to the right of a sample NDC row, below Total plan spend), labeled faintly in pencil "Net cost by channel (same NDC)." Red Caveat annotation: "Same NDC, different channel = different cost. Not shown." Arrow.
+
+3. Empty column 3 (below Total rebates row), labeled faintly in pencil "Rebate-eligible claim count / ineligible." Red Caveat annotation: "Eligibility ratio? Buried in methodology." Arrow.
+
+4. Empty column 4 (below Aggregate PA volume), labeled faintly in pencil "Approval rate by therapeutic class." Red Caveat annotation: "Approval rate BY class. Total volume hides where step therapy is failing." Arrow.
+
+**Across the bottom of the ledger, running diagonally, a large red Caveat underline under a handwritten phrase:** "Ask for the four. The response tells you what relationship you have."
+
+**Coffee-ring mark in one corner of the ledger** (small circular stain) for authenticity.
+
+**Outside the ledger paper:** Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge top-left. "rxbs.org" bottom-left Plex Mono Medium 12pt Gray. PBS logo (dark, 60-80px) bottom-right. Bottom Accent Blue (#A7E0FA) band ~50px tall with Primary Blue Plex Sans SemiBold 18pt: "What a PBM does not show, they do not want you to ask about."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking accountant's ledger or spreadsheet printout on warm paper (#F5F0E4) with faint gray ruled lines, slightly angled on a desk, soft edge shadow. Typed header in Plex Sans SemiBold 14pt uppercase Gray: "PBM QUARTERLY REPORT · Q3 2026 · PREPARED FOR PLAN SPONSOR." Below, a columned ledger with Plex Mono typed row labels on the left (Total plan spend, Total rebates received, Aggregate PA volume, Specialty share of spend) and typed placeholder numeric values. Four columns VISIBLY EMPTY, each faintly pencil-labeled (Trend QoQ/YoY; Net cost by channel for same NDC; Rebate-eligible claim count vs. ineligible; Approval rate by therapeutic class). Four red Caveat-handwritten margin annotations with arrows pointing into the empty columns: "Where is the trend? Aggregate hides direction."; "Same NDC, different channel = different cost. Not shown."; "Eligibility ratio? Buried in methodology."; "Approval rate BY class. Total volume hides where step therapy is failing." Diagonal red Caveat phrase with underline across bottom of ledger: "Ask for the four. The response tells you what relationship you have." Small coffee-ring mark in a corner for authenticity. Outside the ledger: Primary Blue Plex Sans SemiBold "Benefit Blind Spots" top-left, Gray Plex Mono "rxbs.org" bottom-left, PBS logo bottom-right. Bottom Accent Blue band ~50px with Primary Blue Plex Sans SemiBold: "What a PBM does not show, they do not want you to ask about." Color palette: warm paper, Plex Mono black typed values, pencil-gray faint column labels, red (#C0392B) Caveat handwriting, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photos of people.
+
+**Post-Generation Steps:**
+
+1. Generate base image
+2. Verify the four empty columns are visibly empty (most common failure: AI fills them with generated data) — regenerate if necessary with explicit "columns 1-4 must be blank" instruction
+3. Verify red handwritten annotations land on the correct empty columns with arrows
+4. If handwriting is illegible, overlay Caveat text in Canva
+5. Add PBS logo bottom-right
+6. Export as PNG
 
 ---
 
@@ -531,7 +556,7 @@ A plan sponsor told me she felt bad challenging her PBM's clinical numbers becau
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 117 Messy Infographic | 1080x1350 | Reported vs. Verified savings |
+| Post 117 Ledger Annotated Messy Infographic | 1080x1350 | "4 Things Your PBM's Quarterly Report Does Not Show" — photographed ledger with 4 empty columns called out in red handwritten annotations, Transparency pillar |
 | Post 119 One Number Carousel | 7 slides | Template C - program evaluation |
 | Headers | Standard | [ ] |
 
