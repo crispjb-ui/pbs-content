@@ -9,7 +9,7 @@
 |-----|------|----------|---------|--------|
 | Mon Aug 24 | 7:30 AM | Substack | "Specialty Drug Management: The Category That Defines Your Plan's Cost Trajectory" | [ ] |
 | Mon Aug 24 | 7:45 AM | LinkedIn Newsletter | Specialty Management Briefing | [ ] |
-| Tue Aug 25 | 10:00 AM | LinkedIn Feed | Post 125 - "The Specialty Drug Management Gap" MESSY INFOGRAPHIC | [ ] |
+| Tue Aug 25 | 10:00 AM | LinkedIn Feed | Post 125 - "From Programs That Cost Money to Programs That Earn Their Keep" Bridge Clean Infographic (different pillar) | [ ] |
 | Wed Aug 26 | 10:00 AM | LinkedIn Feed | Post 126 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Field Note: "Reauthorization Protocols: The Specialty Cost Lever Nobody Discusses" | [ ] |
 | Thu Aug 27 | 10:00 AM | LinkedIn Feed | Post 127 - 5 Questions About Your Audit Rights (Carousel, Slot C evergreen rotation) | [ ] |
@@ -271,15 +271,13 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 125 - Tuesday 10:00 AM
-### "3 Clinical Programs That Earn Their Cost. And 3 That Often Do Not." (Infographic)
+### "From Programs That Cost Money to Programs That Earn Their Keep" — Bridge Clean Infographic
 
-> **Visual Build Note:** Use the **Earned vs. Reported Comparison** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames a six-program list split into two columns with a clear visual divider. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Infographic
-**Pillar:** Clinical Pharmacy Perspectives
-**Word Count:** ~210 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W6 = Infographic × Clinical Pharmacy. Monday newsletter pillar is Cost Containment (Specialty Management), so no collision. Clinical Pharmacy averaged 23,701 impressions across 2 prior posts (5,807 ex-viral); the GLP-1 post produced the single highest-impression text post on record (41,594).
+**Template:** Bridge clean infographic from `claude_design_prompts.md` (template #6 — "Weak Contract Language to Strong Contract Language"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Clean Infographic (Tuesday Cycle-W6 slot, third cycle)
+**Pillar:** Clinical Pharmacy Perspectives (different from Monday's Cost Containment / Specialty Management topic)
+**Content shape:** Contrast / transition metaphor. Fourth entry in the Clean Info rotation: Iceberg (W19) → Funnel (W28) → Mountain (W31) → Bridge (W34).
+**Why this combination:** Bridge metaphor renders the "weak to strong" or "unearned to earned" transition as a literal crossing. One side holds programs that report savings without earning them; the other side holds programs that earn their cost with measurable outcomes. Each program is a stepping stone on the bridge, with the methodology that redeems it written as the span.
 
 #### Post Copy
 
@@ -303,27 +301,48 @@ Programs that often do not earn their cost as reported:
 
 #PharmacyBenefits #ClinicalPharmacy #PBMPrograms #SelfFundedEmployers
 
-#### Infographic Concept
+#### First Comment
 
-**Layout:** Vertical two-column comparison. Left column "Earns Its Cost" in Primary Blue (#015880). Right column "Often Does Not" in red (#C0392B). Three programs per column with one-line descriptors.
+More in this week's Pharmacy Benefits Briefing on specialty management: [LINKEDIN NEWSLETTER URL]
 
-**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Clinical Programs That Earn Their Cost. And 3 That Often Do Not." Pill + magnifying glass icon in Accent Blue.
+#### Image Layout Spec
 
-**Left Column - "Earns Its Cost":**
-1. Specialty case management for high-cost claimants. *"Hands-on coordination prevents avoidable gene therapy or anti-amyloid claims."*
-2. Biosimilar transition support with prescriber engagement. *"Humira-to-adalimumab works when the prescriber is briefed first."*
-3. PA on first-launch specialty drugs. *"A gate on day one beats tightening after two quarters of permissive coverage."*
+Single image at 1080 x 1350 px on a white background. A flat-design bridge spans horizontally across the middle of the image. Left landform labeled in Plex Sans SemiBold 22pt red (#C0392B): "Programs that cost money." Right landform labeled in Primary Blue (#015880): "Programs that earn their keep." Bridge itself is rendered in Primary Blue outline with Accent Blue (#A7E0FA) supporting beams.
 
-**Right Column - "Often Does Not":**
-1. DUR alerts pharmacists override. *"PBM counts every alert as savings. Most are clinically irrelevant."*
-2. Step therapy crediting members who would have started step 1 anyway. *"Methodology counts behavior the program did not change."*
-3. MTM without measurable adherence outcomes. *"Contact happened. Outcome unmeasured."*
+**Left landform (red zone):** Three stacked Plex Sans SemiBold 18pt boxes in red outline with red body:
+- "DUR alerts pharmacists override"
+- "Step therapy crediting unsteered members"
+- "MTM without measurable outcomes"
 
-**Center Divider:** Vertical hand-drawn line in Gray (#4D4D4D) separating the columns. At the top, a small balance/scale icon.
+Small handwritten Caveat 14pt margin annotation under each red box in Gray: "counted as savings. methodology does not verify."
 
-**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Ask for the methodology. The program either earns its cost or it earns its line item." PBS logo bottom-right, team@rxbs.org bottom-left.
+**Bridge span (middle, horizontal):** Three labeled stepping stones or bridge sections, each in Accent Blue (#A7E0FA) outline with Primary Blue text. Reading left to right:
+- Section 1: "VERIFICATION." Sublabel Plex Sans Regular 12pt Gray: "Ask for the methodology."
+- Section 2: "MEASUREMENT." Sublabel: "Require measured outcome, not counted contact."
+- Section 3: "ATTRIBUTION." Sublabel: "Count only members the program actually steered."
 
-**Style:** Clean professional format. Plex Sans body (16-18pt), Plex Sans SemiBold for column headers (22-24pt). Color contrast (Primary Blue vs. red) drives visual separation between earned and unearned.
+**Right landform (Primary Blue zone):** Three stacked Plex Sans SemiBold 18pt boxes in Primary Blue outline with Primary Blue body:
+- "Specialty case management for high-cost claimants"
+- "Biosimilar transition with prescriber engagement"
+- "PA on first-launch specialty drugs"
+
+Small Accent Blue handwritten annotation under each Primary Blue box: "measured. documented. repeatable."
+
+**Bottom band (Accent Blue ~60px):** Primary Blue Plex Sans SemiBold 20pt: "Ask for the methodology. The program either earns its cost or it earns its line item." PBS logo bottom-right, "rxbs.org" bottom-left.
+
+Top-left: Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Top-right: "3 + 3 PROGRAMS" eyebrow Plex Sans SemiBold 12pt Gray, +6% tracking.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white background. Flat-design bridge spanning horizontally across the middle of the image. Left landform in red (#C0392B) tones labeled "Programs that cost money." with three stacked red-outlined boxes: "DUR alerts pharmacists override"; "Step therapy crediting unsteered members"; "MTM without measurable outcomes." Small Gray Caveat handwritten annotations under each: "counted as savings. methodology does not verify." Bridge span rendered in Primary Blue (#015880) with Accent Blue (#A7E0FA) supporting beams, three labeled sections left-to-right: "VERIFICATION" / "MEASUREMENT" / "ATTRIBUTION," each with a Plex Sans Regular Gray sublabel. Right landform in Primary Blue tones labeled "Programs that earn their keep." with three stacked Primary Blue-outlined boxes: "Specialty case management for high-cost claimants"; "Biosimilar transition with prescriber engagement"; "PA on first-launch specialty drugs." Small Accent Blue Caveat annotations: "measured. documented. repeatable." Bottom Accent Blue band with Primary Blue Plex Sans SemiBold tagline "Ask for the methodology. The program either earns its cost or it earns its line item." PBS logo bottom-right, rxbs.org bottom-left, Benefit Blind Spots top-left, "3 + 3 PROGRAMS" eyebrow top-right. Flat corporate editorial style, no 3D, no photographs. Color palette: white, Primary Blue (#015880), Accent Blue (#A7E0FA), red (#C0392B), Gray (#4D4D4D).
+
+**Post-Generation Steps:**
+
+1. Generate base image
+2. Verify bridge metaphor reads clearly (stepping stones or bridge sections distinguishable)
+3. Verify red-to-blue color contrast between landforms
+4. Add PBS logo bottom-right
+5. Export as PNG
 
 ---
 
@@ -575,7 +594,7 @@ A broker told me recently that specialty management had become the hardest conve
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 125 Messy Infographic | 1080x1350 | Specialty management gap |
+| Post 125 Bridge Clean Infographic | 1080x1350 | "From Programs That Cost Money to Programs That Earn Their Keep" — flat-design bridge metaphor with red landform (DUR/step/MTM) crossing via verification/measurement/attribution spans to Primary Blue landform (case management/biosimilar/PA), Clinical Pharmacy Perspectives pillar |
 | Post 127 One Number Carousel | 7 slides | Template C |
 | Headers | Standard | [ ] |
 

@@ -9,7 +9,7 @@
 |-----|------|----------|---------|--------|
 | Mon Sep 7 | 7:30 AM | Substack | "Contract Language That Costs You: A Provision-by-Provision Comparison" | [ ] |
 | Mon Sep 7 | 7:45 AM | LinkedIn Newsletter | Contract Language Briefing | [ ] |
-| Tue Sep 8 | 10:00 AM | LinkedIn Feed | Post 133 - "Contract Language: What They Say vs. What It Means" MESSY INFOGRAPHIC | [ ] |
+| Tue Sep 8 | 10:00 AM | LinkedIn Feed | Post 133 - "Three Clauses Behind Every Q4 Cost Pattern" Library 06 Contract Comparison Carousel (different pillar) | [ ] |
 | Wed Sep 9 | 10:00 AM | LinkedIn Feed | Post 134 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Sep 10 | 7:30 AM | Substack | Field Note: "Data Ownership and Portability: The Clause That Determines Exit Options" | [ ] |
 | Thu Sep 10 | 10:00 AM | LinkedIn Feed | Post 135 - Same contract language. Different interpretations. Different outcomes. (Carousel, Slot B evergreen rotation) | [ ] |
@@ -224,57 +224,61 @@ This week's Benefit Blind Spots includes a **contract language comparison librar
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 133 - Tuesday 10:00 AM
-### "3 Cost Patterns That Show Up in Q4 Claims Every Year" (Infographic)
+### "Three Clauses Behind Every Q4 Cost Pattern" — Library 06 Contract Comparison Carousel
 
-> **Visual Build Note:** Use the **Q4 Claim Pattern** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames three claim-data patterns along a Q4 timeline, each anchored with named drugs. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Infographic
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~180 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-4-W3 = Infographic × Cost Containment. Monday newsletter pillar is PBM Contract Insights (Contract Red Flags), so no collision. Fixes the prior W36 same-pillar overlap (the original Messy Infographic on contract language sat on Contract Insights, same pillar as Monday).
+**Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-05.
+**Format class:** Carousel (Tuesday Cycle-W2 slot, fourth cycle)
+**Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Contract Red Flags topic)
+**Content shape:** Decoder. **Library 06** in the Library NN series — decodes the three contract clauses that create the observable Q4 cost patterns (copay card accumulator handling, year-end stockpiling via channel pricing, specialty timing via claim-cutoff language). Funnels to Contract Library Substack post.
+**Why this combination:** Parallels Library 03's mid-year pattern decoder at the Q4-close moment. Plans that see the Q4 cost patterns but do not understand the clause origin re-experience them every year. Library 06 names the three clauses and provides the redlines so the patterns can actually be prevented, not just flagged.
 
 #### Post Copy
 
-Q4 claims data follows the same three patterns in almost every self-funded plan.
+Q4 claims data follows the same three patterns in almost every self-funded plan. Each one traces back to a specific clause in the contract.
 
-Pattern 1: Deductible acceleration via copay cards. Manufacturer copay cards push members through their deductible and out-of-pocket max faster than organic spend would. By Q4, the plan is covering full cost on claims the member paid nothing for. The pharmacy submitted the full-price claim. The cost accumulated to the plan.
+Pattern 1: Deductible acceleration via copay cards. Manufacturer copay cards push members through their OOP max faster than organic spend. By Q4, the plan is covering full cost on claims the member paid nothing for. The clause behind it: accumulator adjustment language.
 
-Pattern 2: Year-end stockpiling on maintenance drugs. Members refill 90-day scripts of atorvastatin, lisinopril, or metformin in December to beat January deductible resets. The PBM collects the rebate on those claims. The plan pays the spend in the wrong plan year.
+Pattern 2: Year-end stockpiling on maintenance drugs. Members refill 90-day scripts of atorvastatin, lisinopril, or metformin in December to beat January deductible resets. The clause behind it: channel pricing and refill-timing language.
 
-Pattern 3: Elective specialty treatment timing. Members on Humira, Stelara, or Keytruda therapy time their scripts to maximize OOP max use. The clinical pattern is normal. The financial pattern shows up as a Q4 spike that is not random.
+Pattern 3: Elective specialty treatment timing. Members on Humira, Stelara, or Keytruda time fills to maximize paid OOP max. The clause behind it: claim-year cutoff and guarantee-calculation timing.
 
-Each pattern is visible in claims data by early November. Each one changes what Q4 looks like on the P&L. A pre-year-end claims review is the intervention window.
+Each pattern is visible in claims data by early November. Each pattern is already written into the contract somewhere. I redlined each of them below.
 
-#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
+#PharmacyBenefits #SelfFundedEmployers #PBMContracts #Q4
 
-#### Infographic Concept
+#### First Comment
 
-**Layout:** Vertical three-panel stack with a Q4 timeline running down the left edge. Each panel represents one pattern anchored to where in the quarter it typically spikes. Primary Blue (#015880) structure, Accent Blue (#A7E0FA) highlights, white background.
+Full protective language for these three clauses, plus the rest of the year-end set, lives in our Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
-**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "3 Cost Patterns That Show Up in Q4 Claims Every Year." Calendar icon in Accent Blue.
+#### Carousel Slide-by-Slide Spec
 
-**Panel 1 - Copay Card Deductible Acceleration:**
-- Credit card icon, Primary Blue, 50px
-- Headline: "Copay cards accelerate members through OOP max."
-- Body: "Manufacturer pays at counter. Full-price claim lands on your plan. By Q4, plan is covering everything the member paid nothing for."
-- Timeline tag (Accent Blue): "Visible from October onward."
+Same visual system as Library 01-05: Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis; off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "WHY IT MATTERS" panels. Slide numbers "N / 7" bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 06."
 
-**Panel 2 - Year-End Maintenance Stockpiling:**
-- Calendar + pill bottle icon, Primary Blue, 50px
-- Headline: "December refills on atorvastatin, lisinopril, metformin."
-- Body: "Members stockpile 90-day maintenance fills to beat January deductible resets. The spend lands in the wrong plan year."
-- Timeline tag (Accent Blue): "December concentration."
+**Slide 1 — Cover.** Headline: "Three clauses behind every Q4 cost *pattern*." ("pattern" italic Accent Blue.) Subhead: "The language that permits the spike, and the redlines that prevent it." "01 / 07."
 
-**Panel 3 - Specialty Treatment Timing:**
-- Infusion icon, Primary Blue, 50px
-- Headline: "Humira, Stelara, Keytruda Q4 spikes."
-- Body: "Members time specialty fills to maximize already-paid OOP max. Clinical pattern is normal. Financial spike is not random."
-- Timeline tag (Accent Blue): "October through December."
+**Slide 2 — Pattern 1 context (copay card acceleration).** Header eyebrow: "PATTERN 1 · COPAY CARD ACCUMULATOR · WHAT YOU SEE." Content: "Manufacturer copay cards push members through deductible and OOP max faster than organic spend. The pharmacy submits the full-price claim; the member pays nothing because the manufacturer covered it; the spend accumulates to the plan." Accent Blue highlight on "the spend accumulates to the plan." "WHY IT MATTERS" panel: "If the contract does not say how copay assistance affects accumulators, the PBM decides. Most default to 'manufacturer payment counts as member payment.'" "02 / 07."
 
-**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Every pattern is visible by early November. That is the intervention window." PBS logo bottom-right, team@rxbs.org bottom-left.
+**Slide 3 — Clause 1 redline (accumulator adjustment).** Header: "§ 6.03 · ACCUMULATOR ADJUSTMENT." Strikethrough: ~~"Member payments, including manufacturer copay assistance, shall apply toward member cost-share accumulators in the ordinary course."~~ Insertion: "Manufacturer copay assistance payments shall not apply toward Plan Sponsor deductible or out-of-pocket maximum accumulators unless Plan Sponsor elects otherwise in writing. PBM shall provide quarterly reporting of copay assistance utilization by drug, by member, and by dollar impact on Plan Sponsor spend." "WHY IT MATTERS" panel: "Without this clause, the plan pays full cost on claims the member technically paid for. Name the accumulator rule; require the reporting." "03 / 07."
 
-**Style:** Clean professional format. Plex Sans body (16-18pt), Plex Sans SemiBold for panel headers (20-22pt). Icons flat, single-color, 40-50px.
+**Slide 4 — Pattern 2 context (year-end stockpiling).** Header: "PATTERN 2 · YEAR-END STOCKPILING · WHAT YOU SEE." Content: "December refills of 90-day maintenance scripts (atorvastatin, lisinopril, metformin, levothyroxine) cluster in the last two weeks of the plan year. Members refill to beat the January deductible reset. Plan pays the spend in the current plan year; PBM collects the rebate." Accent Blue highlight on "Plan pays the spend in the current plan year." "WHY IT MATTERS" panel: "Stockpiling is rational member behavior. The plan's exposure depends on what the channel-pricing and refill-timing clauses say about it." "04 / 07."
+
+**Slide 5 — Clause 2 redline (channel pricing and refill timing).** Header: "§ 4.08 · CHANNEL PRICING AND REFILL TIMING." Strikethrough: ~~"PBM shall process refills in accordance with industry-standard refill-too-soon protocols."~~ Insertion: "For maintenance medications, PBM shall apply a refill-too-soon threshold of not less than 75 percent of the prior supply exhausted, enforced year-round without Q4 waiver. Plan Sponsor retains the right to tighten the threshold in the final 30 days of the plan year. Maintenance medications shall be priced at the lower of retail or mail net cost regardless of channel." "WHY IT MATTERS" panel: "'Industry-standard' is how the Q4 surge gets through. Lock the threshold. Lock the pricing. Reserve the year-end tighten option." "05 / 07."
+
+**Slide 6 — Pattern 3 context and clause redline (claim-year cutoff).** Header: "PATTERN 3 · SPECIALTY TIMING · § 4.05 · CLAIM-YEAR CUTOFF." Pattern callout in Plex Sans Regular italic 14pt Primary Blue: "Specialty claims cluster in Q4 to maximize paid OOP max. The clinical pattern is normal. The guarantee math is not — if the cutoff clause allows it." Contract card: Red strikethrough on ~~"Guarantee reconciliation shall be calculated using claims adjudicated during the contract year in PBM's standard reporting methodology."~~ Accent Blue insertion: "Guarantee reconciliation shall be calculated using date-of-service (not date-of-adjudication) for all claims. Any claim with date-of-service in the contract year shall be included in that year's guarantee calculation regardless of when adjudication completes. PBM shall deliver reconciliation within 60 days of contract-year-end with tie-out to date-of-service." "WHY IT MATTERS" panel: "Date-of-adjudication lets the PBM shift claims across plan years to manage guarantee exposure. Date-of-service takes that lever away." "06 / 07."
+
+**Slide 7 — Close.** Primary Blue. Headline: "Every Q4 cost pattern has a clause *behind* it." ("behind" italic Accent Blue.) Below: "Amend the clauses now and the patterns stop recurring." Bottom CTA: "Full year-end protective language in our Contract Language Library. benefitblindspots.substack.com/p/pbm-contract-language-library." "07 / 07."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Contract Comparison carousel (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-05. Pull slide-by-slide contract language from spec above. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 06."
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck
+2. Export PNGs 1080 x 1350
+3. Visual-parity check against Library 01-05
+4. Verify Slide 6 fits both pattern context and clause redline readably
+5. Upload as native LinkedIn carousel
 
 ---
 
@@ -515,7 +519,7 @@ A client's attorney told me once that she appreciated working alongside a pharma
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 133 Messy Infographic | 1080x1350 | "What They Say vs What It Means" (updated from Q1 hit) |
+| Post 133 Library 06 Contract Comparison Carousel | 7 slides (1080x1350) | "Three Clauses Behind Every Q4 Cost Pattern" — decodes accumulator adjustment, channel pricing/refill timing, and claim-year cutoff clauses, Self-Funded Employer Guidance pillar |
 | Post 135 Contract Markup Carousel | 7 slides | Template B |
 | Headers | Standard | [ ] |
 

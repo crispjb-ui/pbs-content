@@ -9,7 +9,7 @@
 |-----|------|----------|---------|--------|
 | Mon Aug 17 | 7:30 AM | Substack | "Communicating Pharmacy Changes: Why Good Strategy Fails Without Good Messaging" | [ ] |
 | Mon Aug 17 | 7:45 AM | LinkedIn Newsletter | Member Communication Briefing | [ ] |
-| Tue Aug 18 | 10:00 AM | LinkedIn Feed | Post 121 - "Why Members Reject Good Benefit Changes" INFO | [ ] |
+| Tue Aug 18 | 10:00 AM | LinkedIn Feed | Post 121 - "Five Clauses That Anchor Q4 Broker Conversations" Library 05 Contract Comparison Carousel (different pillar) | [ ] |
 | Wed Aug 19 | 10:00 AM | LinkedIn Feed | Post 122 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Aug 20 | 7:30 AM | Substack | Field Note: "Provider Communication: The Step Most Plans Skip" | [ ] |
 | Thu Aug 20 | 10:00 AM | LinkedIn Feed | Post 123 - Same benefit change. Different messaging. Different uptake. (Carousel, Slot B evergreen rotation) | [ ] |
@@ -291,55 +291,64 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 121 - Tuesday 10:00 AM
-### "5 Conversations Strong Brokers Are Having With Clients in Q4 2026" (Carousel)
+### "Five Clauses That Anchor Q4 Broker Conversations" — Library 05 Contract Comparison Carousel
 
-> **Visual Build Note:** Use the **Conversation Stack** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each conversation with one-line stakes beneath it. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
-
-**Format:** Carousel (6 slides)
-**Pillar:** Broker/Consultant Resources
-**Word Count:** ~205 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-3-W5 = Carousel × Broker/Consultant Resources. Monday newsletter pillar is Self-Funded Employer Guidance (Member Communication), so no collision. Broker/Consultant gets one Tuesday slot per 6-week cycle.
+**Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-04.
+**Format class:** Carousel (Tuesday Cycle-W5 slot, third cycle)
+**Pillar:** Broker/Consultant Resources (different from Monday's Self-Funded / Member Communication topic)
+**Content shape:** Decoder. **Library 05** in the Library NN series — decodes the contract clauses that anchor the five Q4 renewal-prep conversations strong brokers run. Funnels to Contract Language Library Substack post.
+**Why this combination:** Q4 is the strategic conversation window for brokers; the quality of each conversation depends on whether the contract gives them standing to have it. Library 05 pairs each of the five Q4 conversations (biosimilar pipeline, stop-loss alignment, PBM evaluation calendar, fiduciary documentation, independent claims data access) with the specific contract clause that either permits or blocks the action, with a redline on each.
 
 #### Post Copy
 
-The brokers we work most often with are running the same five conversations with self-funded clients this quarter.
+The brokers we work most often with are running the same five conversations with self-funded clients this quarter. Each one depends on a specific clause giving the broker standing to act.
 
-1. The biosimilar pipeline. Humira biosimilars are baseline. Stelara biosimilars are next. Enbrel and others follow. Pre-launch coverage positioning beats post-launch chasing every time.
+1. Biosimilar pipeline. Humira baseline. Stelara next. Enbrel follows. The tier-placement clause determines whether pre-launch positioning is even allowed.
 
-2. Stop-loss alignment with pharmacy. Specialty drugs, gene therapies, and high-cost claimants now move stop-loss attachment math. Pharmacy and stop-loss carriers should be in the same room.
+2. Stop-loss alignment with pharmacy. The data-transfer and mutual-cooperation language between the PBM and the stop-loss carrier sets whether the two can actually talk.
 
-3. The 2026 PBM evaluation calendar. If renewal is in H2 2026, RFP planning starts in Q4 2025. Most plans miss this window.
+3. The 2026 PBM evaluation calendar. The termination notice window and auto-renewal language determine whether an RFP is even executable.
 
-4. Fiduciary documentation review. ERISA litigation in pharmacy is accelerating. The selection memo, performance reviews, and committee minutes are either in the file or they are not.
+4. Fiduciary documentation. The reporting clauses determine what the plan can produce if litigation asks.
 
-5. Independent claims data access. The contract usually grants it. Most plans have never used it. The brokers who pull it independently negotiate different outcomes.
+5. Independent claims data access. The audit-rights and data-access clauses determine whether the broker can pull independently at all.
 
-Broker partners who run all five conversations enter renewal as advisors. The ones who wait for the PBM to set the agenda enter as bystanders.
+Five clauses. Five conversations. I redlined each of them below.
 
-Self-funded sponsors should expect the full set.
-
-#PharmacyBenefits #BrokerResources #SelfFundedEmployers #PBMRenewal
+#PharmacyBenefits #BrokerResources #PBMContracts #SelfFundedEmployers
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on member communication: [LINKEDIN NEWSLETTER URL]
+Full protective language for these five clauses lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
-#### Carousel Slide Descriptions
+#### Carousel Slide-by-Slide Spec
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "5 Conversations Strong Brokers Are Having in Q4 2026." Accent Blue subtitle: "Run all five and you walk into renewal as an advisor."
+Same visual system as Library 01-04: Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis; off-white contract-paper (#F5F0E4) content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "WHY IT MATTERS" panels. Slide numbers "N / 7" bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 05."
 
-**Slide 2 - Conv 1 Biosimilar Pipeline:** White background. Plex Sans SemiBold Primary Blue: "The Biosimilar Pipeline." Body: "Humira baseline. Stelara next. Enbrel follows. Pre-launch coverage positioning beats post-launch chasing."
+**Slide 1 — Cover.** Headline: "Five clauses that anchor the *best* Q4 broker conversations." ("best" italic Accent Blue.) Subhead: "Without the clauses, the conversations are hopes, not plans." "01 / 07."
 
-**Slide 3 - Conv 2 Stop-Loss Alignment:** Accent Blue background. Primary Blue Plex Sans SemiBold: "Stop-Loss + Pharmacy Alignment." Body: "Gene therapies and high-cost claimants now move attachment math. Pharmacy and stop-loss belong in the same room."
+**Slide 2 — Tier placement / biosimilar pipeline.** Header: "§ 3.08 · BIOSIMILAR AND GENERIC PLACEMENT." Strikethrough: ~~"PBM shall re-tier biosimilar products in the ordinary course following commercial availability."~~ Insertion: "Within 30 days of FDA approval of any biosimilar product corresponding to a drug on Plan Sponsor's top 25 spend list, PBM shall present Plan Sponsor with tier-placement and net-cost analysis. Plan Sponsor retains final approval of tier assignment." "WHY IT MATTERS" panel: "Broker cannot pre-position if the clause does not give the plan approval rights. Amend it and the biosimilar conversation becomes actionable." "02 / 07."
 
-**Slide 4 - Conv 3 PBM Evaluation Calendar:** White background. Plex Sans SemiBold: "The 2026 PBM Evaluation Calendar." Body: "H2 2026 renewal = RFP planning Q4 2025. Most plans miss the window."
+**Slide 3 — Stop-loss cooperation / data-transfer.** Header: "§ 7.04 · THIRD-PARTY DATA COOPERATION." Strikethrough: ~~"PBM will cooperate with third-party vendors as reasonably requested."~~ Insertion: "PBM shall, upon Plan Sponsor's written request, provide any stop-loss carrier or reinsurer with claim-level pharmacy data, eligibility reconciliation, and high-cost claimant detail on a monthly basis under mutual NDA. No such request may be denied or delayed." "WHY IT MATTERS" panel: "Stop-loss and pharmacy in the same conversation requires data in both carriers' hands. Without this clause, stop-loss is blind to pharmacy concentration." "03 / 07."
 
-**Slide 5 - Conv 4 Fiduciary File:** Primary Blue background. White Plex Sans SemiBold: "Fiduciary Documentation Review." Accent Blue body: "Selection memo, performance reviews, committee minutes. They are in the file or they are not."
+**Slide 4 — Termination and RFP executability.** Header: "§ 9.01 · TERM AND TERMINATION." Strikethrough: ~~"Either party may terminate upon 180 days written notice, subject to PBM's standard transition terms."~~ Insertion: "Plan Sponsor may terminate upon 90 days written notice at any time. PBM transition obligations shall follow § 9.03 data-transfer provisions at no cost to Plan Sponsor. No auto-renewal shall apply; any continuation beyond initial term requires Plan Sponsor written consent." "WHY IT MATTERS" panel: "If the termination window is 180 days and auto-renewal is on, the Q4 RFP conversation is theoretical. Tighten the window; kill auto-renewal." "04 / 07."
 
-**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Brokers who run all five enter as advisors. The rest enter as bystanders." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 5 — Reporting clauses / fiduciary file.** Header: "§ 8.02 · FIDUCIARY REPORTING." Strikethrough: ~~"PBM shall provide reporting reasonably necessary for Plan Sponsor's fiduciary obligations."~~ Insertion: "PBM shall deliver, on Plan Sponsor's request, documentation sufficient to support ERISA fiduciary review including: annual guarantee reconciliation, pricing methodology, clinical program outcomes, conflict-of-interest disclosures, and Plan Sponsor-directed data extracts. Deliverables shall be reproducible for audit or litigation purposes." "WHY IT MATTERS" panel: "'Reasonably necessary' is the PBM's call. Name the deliverables. ERISA litigation is accelerating; the file either exists in usable form or it does not." "05 / 07."
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold headers (28-34pt), Plex Sans body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Slide 6 — Audit rights and independent data access.** Header: "§ 10.01 · AUDIT RIGHTS · DATA ACCESS." (See Library 02 full redline.) Condensed insertion summary: "Plan Sponsor or designee may audit twice per contract year; PBM shall not restrict auditor identity, scope, or format; data access is unconditional for benchmarking and review." "WHY IT MATTERS" panel: "The broker who pulls claims data independently negotiates different outcomes. The clause has to allow it. Most do not." "06 / 07."
+
+**Slide 7 — Close.** Primary Blue. Headline: "Brokers with the clauses *advise*. Brokers without them spectate." ("advise" italic Accent Blue.) Below: "Self-funded sponsors should expect the full set." Bottom CTA: "Full protective language in our Contract Language Library. benefitblindspots.substack.com/p/pbm-contract-language-library." "07 / 07."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Contract Comparison carousel (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-04. Pull slide-by-slide contract language from spec above. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 05."
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck
+2. Export PNGs 1080 x 1350
+3. Visual-parity check against Library 01-04
+4. Upload as native LinkedIn carousel
 
 ---
 
@@ -582,7 +591,7 @@ I had a plan sponsor tell me after a smooth biosimilar transition that "nobody n
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 121 Infographic | 1080x1350 | "What You Said vs What They Heard" |
+| Post 121 Library 05 Contract Comparison Carousel | 7 slides (1080x1350) | "Five Clauses That Anchor Q4 Broker Conversations" — decodes contract language behind the 5 Q4 broker conversations (tier placement, stop-loss cooperation, termination, fiduciary reporting, audit rights), Broker/Consultant Resources pillar |
 | Post 123 Whiteboard Carousel | 7 slides | Communication checklist |
 | Headers | Standard | [ ] |
 

@@ -9,7 +9,7 @@
 |-----|------|----------|---------|--------|
 | Mon Sep 14 | 7:30 AM | Substack | "Renewal Readiness: The Assessment That Determines Your Negotiating Position" | [ ] |
 | Mon Sep 14 | 7:45 AM | LinkedIn Newsletter | Renewal Readiness Briefing | [ ] |
-| Tue Sep 15 | 10:00 AM | LinkedIn Feed | Post 137 - "The Renewal Readiness Gap" MESSY INFOGRAPHIC | [ ] |
+| Tue Sep 15 | 10:00 AM | LinkedIn Feed | Post 137 - "What 'Industry Standard' Actually Means in PBM Proposals" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
 | Wed Sep 16 | 10:00 AM | LinkedIn Feed | Post 138 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Sep 17 | 7:30 AM | Substack | Field Note: "The First Meeting with Your PBM at Renewal" | [ ] |
 | Thu Sep 17 | 10:00 AM | LinkedIn Feed | Post 139 - 5 Questions About PBM Performance Guarantees (Carousel, Slot C evergreen rotation) | [ ] |
@@ -492,15 +492,13 @@ Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_rev
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 137 - Tuesday 10:00 AM
-### "What 'Industry Standard' Actually Means in PBM Proposals" (Messy Infographic)
+### "What 'Industry Standard' Actually Means in PBM Proposals" — Marked-Up Contract Page Decoder
 
-> **Visual Build Note:** Use the **Redline Proposal** messy infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames a stylized PBM proposal page with "industry standard" phrases highlighted and red-pen margin notes translating each one. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Messy Infographic
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~170 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-4-W4 = Messy Infographic × Transparency. Monday newsletter pillar is PBM Contract Insights (Renewal Readiness), so no collision. Transparency averaged 26,431 impressions on the single prior post and Messy Infographic hit 22,047 on its single test, making this the top-theoretical-performance slot in the rotation grid.
+**Template:** Marked-Up Contract Page messy infographic (template #15). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Visual parity with W20 and W26 Marked-Up Contract Page decoders.
+**Format class:** Messy infographic (Tuesday Cycle-W4 slot, fourth cycle)
+**Pillar:** Transparency & Industry Education (different from Monday's PBM Contract Insights / Renewal Readiness topic)
+**Content shape:** Decoder (22-25K impression floor on decoder × messy × Transparency). The three-times-proven combination, closing Q3 on the pillar and format with the highest conversion rate in the data.
+**Why this combination:** "Industry standard" is a four-times-recurring phrase in PBM proposals, and each instance means something different. Marked-Up Contract Page renders a photographed PBM proposal page with the four "industry standard" instances highlighted and individually decoded by handwritten red margin annotations. Fits the same pattern as W20's three-term decoder and W26's formulary-decision decoder.
 
 #### Post Copy
 
@@ -520,21 +518,50 @@ Every phrase is technically accurate and practically meaningless. Replace every 
 
 #PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
 
-#### Messy Infographic Concept
+#### First Comment
 
-**Layout:** Off-white (#F5F5F0) background with faint grid lines. A stylized PBM proposal cover page rendered in the center with four "industry standard" phrases highlighted in yellow. Red-pen margin notes in Caveat-style handwriting translate each phrase.
+More in this week's Pharmacy Benefits Briefing on renewal readiness: [LINKEDIN NEWSLETTER URL]
 
-**Center document:** Hand-drawn rectangle representing the proposal cover. Title: "PBM Proposal — Response to RFP" in mock professional type. Below it, four typed paragraph-style lines each containing the phrase "industry standard" highlighted in yellow (#FFF3CD).
+#### Image Layout Spec
 
-**Four red-pen margin annotations** with handwritten arrows pointing at each highlighted phrase:
-1. "Industry-standard AWP discount" → Margin: "Whose industry? Which benchmark? Undefined = unenforceable."
-2. "Industry-standard rebate pass-through" → Margin: "50% or 100%? Both can be called standard depending on the source."
-3. "Industry-standard performance guarantees" → Margin: "Last year's proposal numbers ≠ what the contract protects."
-4. "Industry-standard reporting" → Margin: "Translation: their default dashboard."
+Single image at 1080 x 1350 px rendered as a photographed PBM proposal page on a desk, slight angle, soft edge shadow. Off-white paper (#F5F0E4), typed body in Plex Mono 11-12pt black. Header eyebrow in Plex Sans SemiBold 10pt uppercase Gray: "PBM PROPOSAL · RESPONSE TO RFP · EXECUTIVE SUMMARY." The page shows four pricing/performance bullet lines, each containing the phrase "industry standard" with a yellow highlighter pass (#F4E27B at 60% opacity) running across each instance.
 
-**Bottom band:** Accent Blue (#A7E0FA) with handwritten Primary Blue text: "Replace every 'industry standard' with a specific number. Their willingness to commit is the signal." PBS logo bottom-right. team@rxbs.org bottom-left.
+**Four typed bullet lines (Plex Mono 11pt, each with yellow highlight on "industry standard"):**
+1. "PBM offers industry-standard AWP discount on brand pharmacy claims."
+2. "Rebate pass-through shall be industry-standard for plans of Plan Sponsor's size."
+3. "Performance guarantees are set at industry-standard levels."
+4. "PBM provides industry-standard reporting through PBM's proprietary analytics portal."
 
-**Style:** Whiteboard-sketch aesthetic. Red (#C0392B) for all margin annotations. Yellow (#FFF3CD) highlights over the phrases. Primary Blue (#015880) for the proposal's mock structure. Caveat-style handwriting throughout.
+**Four red-pen handwritten margin annotations in Caveat 18pt, each with an arrow pointing to the corresponding yellow-highlighted phrase:**
+1. Arrow to line 1: "Whose industry? Which benchmark? Undefined = unenforceable."
+2. Arrow to line 2: "50 percent or 100 percent? Both can be called standard depending on the source."
+3. Arrow to line 3: "Last year's proposal numbers are not what the contract protects."
+4. Arrow to line 4: "Translation: their default dashboard."
+
+**Across the page, a large red handwritten diagonal callout in Caveat 28pt:** "Every 'industry standard' is a negotiation the PBM hopes you skip."
+
+**Below the contract body, a boxed Accent Blue (#A7E0FA at 20% opacity) section with typed Plex Mono list titled "WHAT TO REPLACE EACH WITH":**
+1. "Specific AWP discount percentage + benchmark source + effective date."
+2. "Specific rebate pass-through percentage + revenue-category inclusions/exclusions."
+3. "Specific guarantee numbers + remediation if missed."
+4. "Specific report names, cadence, and data-level detail."
+
+Small Caveat annotation in red: "The PBM's willingness to commit to the specifics is the signal."
+
+Outside the paper: Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" top-left. Plex Mono Medium 12pt Gray "rxbs.org" bottom-left. PBS logo (dark, 60-80px) bottom-right.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking PBM proposal page on off-white paper (#F5F0E4), slight angle, edge shadow. Header eyebrow Plex Sans SemiBold 10pt uppercase Gray: "PBM PROPOSAL · RESPONSE TO RFP · EXECUTIVE SUMMARY." Four typed Plex Mono 11pt bullet lines, each with yellow highlighter (#F4E27B 60% opacity) on the phrase "industry standard": line 1 "PBM offers industry-standard AWP discount on brand pharmacy claims."; line 2 "Rebate pass-through shall be industry-standard for plans of Plan Sponsor's size."; line 3 "Performance guarantees are set at industry-standard levels."; line 4 "PBM provides industry-standard reporting through PBM's proprietary analytics portal." Four red Caveat handwritten margin annotations with arrows to each highlight: (1) "Whose industry? Which benchmark? Undefined = unenforceable."; (2) "50 percent or 100 percent? Both can be called standard depending on the source."; (3) "Last year's proposal numbers are not what the contract protects."; (4) "Translation: their default dashboard." Large red Caveat diagonal callout across the page, 28pt: "Every 'industry standard' is a negotiation the PBM hopes you skip." Below, an Accent Blue (#A7E0FA 20% opacity) boxed section titled "WHAT TO REPLACE EACH WITH" with four numbered Plex Mono items replacing each phrase with a specific requirement. Small red Caveat annotation: "The PBM's willingness to commit to the specifics is the signal." Outside the paper: Primary Blue Plex Sans SemiBold "Benefit Blind Spots" top-left, Gray Plex Mono "rxbs.org" bottom-left, PBS logo bottom-right. Color palette: off-white paper, black typed body, yellow highlight (#F4E27B), red (#C0392B), Accent Blue (#A7E0FA), Primary Blue (#015880), Gray (#4D4D4D). No photographs of people.
+
+**Post-Generation Steps:**
+
+1. Generate base image
+2. Verify all four "industry standard" phrases receive yellow highlight (not the whole line)
+3. Verify red annotations are positioned in the margin and point to the correct highlighted phrase
+4. Confirm the "WHAT TO REPLACE EACH WITH" Accent Blue box is clearly differentiated from the contract body
+5. Add PBS logo bottom-right
+6. Export as PNG
 
 ---
 
@@ -789,7 +816,7 @@ A client thanked me at the end of a successful renewal by saying, "I negotiated 
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 137 Messy Infographic | 1080x1350 | Renewal readiness gap comparison |
+| Post 137 Marked-Up Contract Page Decoder | 1080x1350 | "What 'Industry Standard' Actually Means in PBM Proposals" — photographed proposal page with 4 'industry standard' instances decoded by red-pen margin annotations, Transparency pillar |
 | Post 139 One Number Carousel | 7 slides | Template C - scorecard |
 | Headers | Standard | [ ] |
 

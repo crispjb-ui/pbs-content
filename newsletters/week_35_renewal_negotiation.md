@@ -11,7 +11,7 @@
 |-----|------|----------|---------|--------|
 | Tue Sep 2 | 7:30 AM | Substack | "The Renewal Negotiation Playbook" | [ ] |
 | Tue Sep 2 | 7:45 AM | LinkedIn Newsletter | Renewal Negotiation Briefing | [ ] |
-| Tue Sep 2 | 10:00 AM | LinkedIn Feed | Post 129 - "12 Contract Provisions That Determine Renewal" Contract Markup Carousel | [ ] |
+| Tue Sep 2 | 10:00 AM | LinkedIn Feed | Post 129 - "How I'd Map a 2027 Renewal on a Whiteboard" Whiteboard Carousel (different pillar) | [ ] |
 | Wed Sep 3 | 10:00 AM | LinkedIn Feed | Post 130 - Strong POV TEXT (~230 words) | [ ] |
 | Thu Sep 4 | 7:30 AM | Substack | Field Note: "The Termination Clause: Your Most Powerful Negotiating Tool" | [ ] |
 | Thu Sep 4 | 10:00 AM | LinkedIn Feed | Post 131 - 5 Termination Clause Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
@@ -288,15 +288,13 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 129 - Tuesday 10:00 AM
-### "The Self-Funded Plan Sponsor's 2027 Renewal Calendar" (Carousel)
+### "How I'd Map a 2027 Renewal on a Whiteboard" — Whiteboard Carousel
 
-> **Visual Build Note:** Use the **Quarterly Calendar** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each quarter with a milestone gate and one-line consequence-of-slip. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
-
-**Format:** Carousel (6 slides)
-**Pillar:** Self-Funded Employer Guidance
-**Word Count:** ~205 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-4-W2 = Carousel × Self-Funded Guidance. Monday newsletter pillar is PBM Contract Insights (Renewal Negotiation), so no collision. Fixes the prior W35 same-pillar overlap (the original Contract Markup Carousel sat on Contract Insights, same pillar as Monday).
+**Template:** Whiteboard carousel (template #3). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W18 and W25 Whiteboard carousels.
+**Format class:** Carousel (Tuesday Cycle-W1 slot, fourth cycle — cycle-pillar PBM Contracts carried by Monday's Renewal Negotiation topic, so Tuesday shifts to Self-Funded Guidance)
+**Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Renewal Negotiation topic)
+**Content shape:** Decoder-in-reasoning form. Pharmacist-on-whiteboard pacing through the renewal calendar, showing what gates close each quarter and what falls off the board when they slip.
+**Why this combination:** A renewal calendar is an iterative reasoning artifact, not a stat dump or a contract clause. Whiteboard template matches how strong brokers actually talk clients through the timing — drawing it out, annotating where the gates live, circling the commitments. Third Whiteboard in the rotation after W18 (GLP-1) and W25 (90-day renewal decision).
 
 #### Post Copy
 
@@ -314,7 +312,7 @@ Q3 2027: Contract execution with implementation milestones, data transition plan
 
 Q4 2027: Go-live monitoring. First-90-days audit scheduled. Guarantee tracking framework in place.
 
-Plans that arrive at each phase with the prior phase complete negotiate. Plans that compress phases concede. The 2027 window starts in Q4 2026.
+Plans that arrive at each phase with the prior phase complete negotiate. Plans that compress phases concede.
 
 #PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
 
@@ -322,21 +320,35 @@ Plans that arrive at each phase with the prior phase complete negotiate. Plans t
 
 More in this week's Pharmacy Benefits Briefing on renewal negotiation: [LINKEDIN NEWSLETTER URL]
 
-#### Carousel Slide Descriptions
+#### Carousel Slide-by-Slide Spec
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "The Self-Funded Plan Sponsor's 2027 Renewal Calendar." Accent Blue subtitle: "Every quarter has a gate. Every gate determines position."
+Same Whiteboard visual system as W18 and W25: soft off-white (#F8F5ED) background with paper-grain texture, hand-drawn marker feel, Primary Blue marker default, Accent Blue highlights on the commitments each quarter must produce, red marker for slip-risk annotations, Gray marker for margin notes. Small Plex Sans SemiBold typographic elements only on cover and close. Slide numbers "N / 7" Gray marker bottom-right.
 
-**Slide 2 - Q4 2026 Scope and Panel:** White background. Plex Sans SemiBold Primary Blue: "Q4 2026: Build RFP Scope and Finalist Panel." Body: "If the current PBM is in the panel, the market check is real. If not, the conversation is about transition."
+**Slide 1 — Cover.** Hand-lettered title Primary Blue marker: "How I'd map a 2027 renewal on a whiteboard." "2027" underlined in Accent Blue. Plex Sans SemiBold subtitle: "Every quarter closes a gate. Miss one and the next phase starts at a discount." "1 / 7."
 
-**Slide 3 - Q1 2027 RFP Out:** Accent Blue background. Primary Blue Plex Sans SemiBold: "Q1 2027: Issue RFP. Score Independently." Body: "Responses scored against the plan's methodology, not the PBM's spreadsheet. Reference checks on finalists."
+**Slide 2 — Q4 2026 · Scope and panel.** Hand-lettered title: "First gate: Q4 2026 · Build the RFP scope and finalist panel." Hand-drawn whiteboard layout: a table with two columns labeled "Panel" (with three incumbent-plus-2 rough rectangles) and "Criteria" (with 5 bullet points hand-drawn). Accent Blue highlight on one criteria row: "Current PBM in panel = real market check." Red margin note: "If incumbent is missing, this is a transition conversation, not a benchmarking one."
 
-**Slide 4 - Q2 2027 Best and Final:** White background. Plex Sans SemiBold: "Q2 2027: Best-and-Final With Specific Language." Body: "Generic improvement requests produce generic answers. Specific contract language demands produce commitments."
+**Slide 3 — Q1 2027 · RFP out.** Hand-lettered title: "Second gate: Q1 2027 · RFP issued. Score independently." Whiteboard layout: a left-side flowchart showing "Responses in → Independent scoring → Finalist selection → Reference checks." Accent Blue arrow highlights "Independent scoring." Red margin note: "If you are scoring with the PBM's spreadsheet, you are not scoring."
 
-**Slide 5 - Q3-Q4 2027 Execute and Monitor:** Primary Blue background. White Plex Sans SemiBold: "Q3: Execute. Q4: Monitor." Accent Blue body: "Go-live milestones. Member comms 60 days pre-launch. First-90-days audit on the calendar."
+**Slide 4 — Q2 2027 · Best-and-final.** Hand-lettered title: "Third gate: Q2 2027 · Best-and-final with SPECIFIC language." Whiteboard layout: two columns, "generic asks" (struck through in red marker) vs. "specific redlines" (Accent Blue outlined). Examples in each column with hand-lettered snippets. Red margin note: "Generic asks get generic commitments. Specific clause redlines get specific commitments."
 
-**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Plans that complete each phase negotiate. Plans that compress phases concede." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 5 — Q3 2027 · Execute.** Hand-lettered title: "Fourth gate: Q3 2027 · Contract execution." Whiteboard layout: hand-drawn execution timeline with four milestone flags: "Contract signed / Data transition / Baselines locked / Member comms 60 days pre-launch." Accent Blue highlight on "Baselines locked." Red margin note: "If baselines are not locked, your go-live performance has no comparator. You cannot enforce what you did not baseline."
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold headers (28-34pt), Plex Sans body (18-22pt). Quarter labels in top-right on slides 2-5.
+**Slide 6 — Q4 2027 · Monitor.** Hand-lettered title: "Fifth gate: Q4 2027 · Go-live monitoring." Whiteboard layout: a rough calendar view with "First 90 days audit" circled in Accent Blue. Hand-lettered list of three items to monitor: guarantee tracking, member disruption, claims-file integrity. Red margin note: "Go-live is not the finish line. It is the first audit window opening."
+
+**Slide 7 — Close.** Hand-lettered headline: "Plans that complete each phase *negotiate*." ("negotiate" underlined Accent Blue.) Below in red marker: "Plans that compress phases concede." Small Plex Sans SemiBold line: "The full 2027 renewal playbook is in this week's deep dive. benefitblindspots.substack.com." "7 / 7."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Whiteboard carousel master (template #3). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W18 and W25 Whiteboard carousels — same off-white background with paper grain, same hand-drawn marker aesthetic with Primary Blue default, Accent Blue highlights, red slip-risk marker annotations, Gray margin notes. Plex Sans SemiBold typographic elements only on cover (subtitle) and close (CTA line). Pull slide-by-slide content from spec above.
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck
+2. Export PNGs 1080 x 1350
+3. Verify handwriting legibility at thumbnail
+4. Accent Blue highlights land on the specified phrases (the "commitment" or "gate" of each quarter)
+5. Upload as native LinkedIn carousel
 
 ---
 
@@ -583,7 +595,7 @@ A plan sponsor once asked me whether I ever "lose" renewal negotiations. My hone
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 129 Contract Markup Carousel | 7 slides | Template B |
+| Post 129 Whiteboard Carousel | 7 slides (1080x1350 each) | "How I'd Map a 2027 Renewal on a Whiteboard" — pharmacist-on-whiteboard walkthrough of 5 quarterly gates (scope/panel, RFP out, best-and-final, execute, monitor), Self-Funded Employer Guidance pillar |
 | Post 131 Messy Infographic | 1080x1350 | Negotiation leverage scale |
 | Headers | Standard | [ ] |
 
