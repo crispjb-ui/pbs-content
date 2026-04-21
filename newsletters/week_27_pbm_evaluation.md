@@ -11,7 +11,7 @@
 | Mon Jul 6 | 7:30 AM | Substack | "When to Stay and When to Switch: Evaluating Your PBM Relationship" | [ ] |
 | Mon Jul 6 | 7:45 AM | LinkedIn Newsletter | PBM Evaluation Briefing | [ ] |
 | Mon Jul 6 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jul 7 | 10:00 AM | LinkedIn Feed | Post 97 - "Five Signs Your PBM Relationship Has Run Its Course" One Number Carousel (different pillar) | [ ] |
+| Tue Jul 7 | 10:00 AM | LinkedIn Feed | Post 97 - "Five Reporting Clauses That Let You Actually Run the PBM Review" Library 04 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue Jul 7 | 10:05 AM | LinkedIn Feed | Post 97 - First Comment | [ ] |
 | Tue Jul 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 97 | [ ] |
 | Wed Jul 8 | 10:00 AM | LinkedIn Feed | Post 98 - "Switching PBMs is disruptive. Staying with the wrong one is expensive." Strong POV (TEXT) | [ ] |
@@ -385,55 +385,63 @@ Use the canonical "Contract Language Library" prompt from `newsletters/week_17_c
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 97 - Tuesday 10:00 AM
-### "How Strong Brokers Run a PBM Performance Review" (Carousel)
+### "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library 04 Contract Comparison Carousel
 
-> **Visual Build Note:** Use the **Five-Step Audit** carousel template from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each step with one practitioner-note beneath it. Export PNG set at 1080 x 1350 and upload as a LinkedIn carousel.
-
-**Format:** Carousel (6 slides)
-**Pillar:** Broker/Consultant Resources
-**Word Count:** ~200 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W5 = Carousel × Broker/Consultant Resources. Monday newsletter pillar is PBM Contract Insights (PBM Evaluation), so no collision. Broker/Consultant gets one Tuesday slot per 6-week cycle; framing positions the broker as the allied practitioner running the audit, consistent with brand rule.
+**Template:** Contract Comparison carousel (template #4, PROVEN). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01, 02, and 03.
+**Format class:** Carousel (Tuesday Cycle-W5 slot)
+**Pillar:** Broker/Consultant Resources (different from Monday's PBM Contract Insights / PBM Evaluation topic)
+**Content shape:** Decoder. **Library 04** in the Library NN series. Focus: contract language that governs performance-review data access and methodology.
+**Why this combination:** The "annual performance review" is only as good as the contract clauses that define what data the PBM must deliver, how guarantees are calculated, and what leverage the plan has if reports are inadequate. Library 04 gives brokers and plan sponsors the exact redlines they need to make performance reviews into audits, not PowerPoints.
 
 #### Post Copy
 
-Annual performance reviews are in every PBM contract. Most get treated as a PowerPoint deck from the PBM. The best brokers treat them as an audit.
+Annual performance reviews are in every PBM contract. Most get treated as a PowerPoint from the PBM. The best brokers treat them as an audit — but only because the contract language lets them.
 
-The five-step review structure we see from strong broker partners:
+Five clauses determine whether a performance review can actually do the work:
 
-1. Pull the source data, not the summary. Claims file, eligibility file, rebate detail, guarantee calculation worksheet. Do not accept the dashboard as the record.
+1. Data delivery. What files the PBM must produce, on what timeline, at what level of detail.
+2. Guarantee calculation methodology. Whose formula governs — the PBM's or the contract's.
+3. Benchmarking right. Whether the plan can compare its pricing against current market, not just prior-year self.
+4. Specialty routing transparency. What the contract requires the PBM to disclose about affiliated-pharmacy claim flow.
+5. Findings and remediation. What happens when the review surfaces a shortfall.
 
-2. Recalculate guarantee performance independently. The PBM's methodology and the contract's methodology are not always the same calculation.
+I redlined each of them below.
 
-3. Benchmark net cost per script against current market, not last year. Year-over-year hides slow drift.
-
-4. Cross-reference specialty routing claims against contract network terms. The default routing and the contracted routing are often different enough to pull into the review.
-
-5. Document findings in a fiduciary file with dates, sources, and decisions. This is where the trail lives if anyone asks later.
-
-The performance review is the best leverage point mid-term. Strong brokers make it do work. Weak ones accept the PDF.
-
-#PharmacyBenefits #BrokerResources #PBMPerformance #SelfFundedEmployers
+#PharmacyBenefits #BrokerResources #PBMContracts #SelfFundedEmployers
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on PBM evaluation: [LINKEDIN NEWSLETTER URL]
+Full protective language for these five clauses, plus seventeen more, lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
-#### Carousel Slide Descriptions
+#### Carousel Slide-by-Slide Spec
 
-**Slide 1 - Cover:** Primary Blue (#015880) background. Plex Sans SemiBold white: "How Strong Brokers Run a PBM Performance Review." Accent Blue subtitle: "5 steps. Audit, not PowerPoint."
+Same visual system as Library 01 (April 21), Library 02 (W21), and Library 03 (W24): Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis, off-white contract-paper content slides with Plex Mono body, red strikethroughs on vague language, Accent Blue on protective insertions, Primary Blue "WHY IT MATTERS" panels at bottom ~18%, slide numbers "N / 7" in Plex Mono Medium bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 04."
 
-**Slide 2 - Step 1 Source Data:** White background. Headline in Primary Blue: "Pull the source files, not the summary." Gray body: "Claims file. Eligibility file. Rebate detail. Guarantee calculation worksheet. The dashboard is not the record."
+**Slide 1 — Cover.** Headline: "Five reporting clauses that let you actually *run* the PBM review." ("run" italic Accent Blue.) Subhead: "The language that turns a PowerPoint into an audit." "SWIPE FOR THE REDLINE →." "01 / 07."
 
-**Slide 3 - Step 2 Recalculate Guarantees:** Accent Blue background. Primary Blue headline: "Recalculate guarantee performance independently." Body: "The PBM's calculation method and the contract's calculation method are not always the same number."
+**Slide 2 — Data delivery.** Header: "§ 8.02 · PERFORMANCE REPORTING · DATA DELIVERY." Strikethrough: ~~"PBM shall deliver performance reports on a schedule reasonably determined by PBM, in PBM's standard format."~~ Accent Blue insertion: "Within 30 days of each quarter-end, PBM shall deliver to Plan Sponsor: (a) complete claims file with member-level, drug-level, and pharmacy-level detail; (b) eligibility file reconciled to enrolled population; (c) rebate detail by manufacturer and by NDC; (d) guarantee calculation worksheet with supporting formulas; (e) any file Plan Sponsor reasonably requests for review." "WHY IT MATTERS" panel: "The dashboard is not the record. The source files are. Require them by name." "02 / 07."
 
-**Slide 4 - Step 3 Benchmark Current Market:** White background. Headline: "Benchmark against current market, not last year." Body: "Year-over-year hides drift. Current market surfaces the gap."
+**Slide 3 — Guarantee calculation methodology.** Header: "§ 4.05 · GUARANTEE RECONCILIATION · METHODOLOGY." Strikethrough: ~~"PBM shall reconcile guarantees in accordance with PBM's standard reconciliation methodology."~~ Accent Blue insertion: "Guarantee reconciliation shall follow the methodology specified in Exhibit B, which shall include claim universe definition, exclusion rules by NDC, rebate attribution method, and tie-out to AWP source file and date. Any change to methodology during the term requires Plan Sponsor written consent." "WHY IT MATTERS" panel: "The PBM's methodology and the contract's methodology are not always the same number. Lock the method in an exhibit; require consent to change." "03 / 07."
 
-**Slide 5 - Step 4 Specialty Routing Cross-Check:** Primary Blue background. White headline: "Cross-reference specialty routing against contract terms." Accent Blue body: "The default routing and the contracted routing are often different enough to matter."
+**Slide 4 — Benchmarking right.** Header: "§ 8.05 · BENCHMARKING." Strikethrough: ~~"Plan Sponsor may not engage third-party benchmarking of PBM pricing during the term without PBM's written consent."~~ Accent Blue insertion: "Plan Sponsor retains the unconditional right to engage any third party to benchmark PBM pricing, rebates, and performance against current market, as often as Plan Sponsor deems necessary. PBM shall cooperate by providing any data the benchmarking party requires under a mutual NDA." "WHY IT MATTERS" panel: "If the PBM can gate benchmarking, the plan cannot verify drift. Year-over-year hides it. Current-market comparison surfaces it." "04 / 07."
 
-**Slide 6 - CTA:** Primary Blue background. White Plex Sans SemiBold: "Strong brokers audit. Weak brokers accept the deck." Accent Blue: "team@rxbs.org | Benefit Blind Spots" PBS logo (white, 60px).
+**Slide 5 — Specialty routing transparency.** Header: "§ 5.06 · SPECIALTY CLAIMS DISCLOSURE." Strikethrough: ~~"PBM shall provide specialty claims reporting in its standard format."~~ Accent Blue insertion: "For each specialty claim dispensed during the reporting period, PBM shall disclose: dispensing pharmacy name and NPI, affiliation to PBM (yes/no), acquisition cost, dispensing fee, and any rebate or manufacturer fee received in connection with the claim. No specialty claim may be reported in aggregate only." "WHY IT MATTERS" panel: "The routing is in the contract. The dollar impact is in the claims. Require disclosure at the claim level." "05 / 07."
 
-**Style:** Clean professional template. Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold for headers (28-34pt), Plex Sans Regular for body (18-22pt). Numbered 1/5 through 5/5 top-right on slides 2-5.
+**Slide 6 — Findings and remediation.** Header: "§ 8.07 · REVIEW FINDINGS." Strikethrough: ~~"PBM will address performance review findings in the ordinary course."~~ Accent Blue insertion: "For any guarantee shortfall or material discrepancy identified in a performance review, PBM shall pay to Plan Sponsor within 30 days of written notice: (a) the dollar amount of the shortfall, calculated under the Exhibit B methodology; (b) a corrective action plan signed by a PBM officer; (c) a commitment not to repeat the shortfall in the subsequent quarter, with a second-occurrence escalation to contract remediation." "WHY IT MATTERS" panel: "Findings without a remediation clause are suggestions. Bind the PBM to pay, plan, and prevent." "06 / 07."
+
+**Slide 7 — Close.** Primary Blue. Headline: "Audit, *not PowerPoint*." ("not PowerPoint" italic Accent Blue.) Below: "Contract language is what makes the difference." Bottom CTA: "Full protective language in our free Contract Language Library. benefitblindspots.substack.com/p/pbm-contract-language-library." "07 / 07."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Contract Comparison carousel master (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-03 (same eyebrow, off-white paper, Plex Mono body, red strikethrough, Accent Blue insertion, "WHY IT MATTERS" panel, slide-number style). Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 04." Pull slide-by-slide contract language from the spec above.
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck via Claude Design
+2. Export PNGs at 1080 x 1350
+3. Visual-parity check against Library 01-03
+4. Verify "Exhibit B" references render consistently across Slides 3 and 6
+5. Upload as native LinkedIn carousel
 
 ---
 
@@ -757,7 +765,7 @@ A broker told me she was going to share my scorecard with a client without credi
 
 ## Content Schedule
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
-- [ ] Tuesday: Post 97 One Number Carousel at 10:00 AM + First Comment + Reshare 1:30 PM
+- [ ] Tuesday: Post 97 Library 04 Contract Comparison Carousel at 10:00 AM + First Comment + Reshare 1:30 PM
 - [ ] Wednesday: Post 98 Strong POV text at 10:00 AM
 - [ ] Thursday: Field Note at 7:30 AM, Post 99 Infographic at 10:00 AM + Reshare 1:30 PM
 - [ ] Friday: Post 100 Tease Hook at 10:00 AM
@@ -770,7 +778,7 @@ A broker told me she was going to share my scorecard with a client without credi
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 97 One Number Carousel | 7 slides (1080x1350) | Template C - five PBM relationship signs |
+| Post 97 Library 04 Contract Comparison Carousel | 7 slides (1080x1350 each) | "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library NN series entry on performance-review data / methodology / benchmarking / specialty-routing disclosure / findings clauses, Broker/Consultant Resources pillar |
 | Post 99 Infographic | Single image (1080x1350) | Scorecard overview with 10 factors + score zones |
 | Substack article header | 2240x1260 | [ ] Design needed |
 | Field Note header | 1200x600 | [ ] Design needed |
@@ -784,7 +792,7 @@ A broker told me she was going to share my scorecard with a client without credi
 
 | Post | Time | Impressions | Eng Rate | Comments | Saves |
 |------|------|------------|----------|----------|-------|
-| Post 97 (Tue One Number Carousel) | 10:00 AM | | | | |
+| Post 97 (Tue Library 04 Contract Comparison Carousel) | 10:00 AM | | | | |
 | Post 98 (Wed Text) | 10:00 AM | | | | |
 | Post 99 (Thu Infographic) | 10:00 AM | | | | |
 | Post 100 (Fri Tease) | 10:00 AM | | | | |

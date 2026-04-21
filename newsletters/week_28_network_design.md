@@ -11,7 +11,7 @@
 | Mon Jul 13 | 7:30 AM | Substack | "Pharmacy Network Design: The Cost Variable Most Employers Overlook" | [ ] |
 | Mon Jul 13 | 7:45 AM | LinkedIn Newsletter | Network Design Briefing | [ ] |
 | Mon Jul 13 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jul 14 | 10:00 AM | LinkedIn Feed | Post 101 - "Where Your Members Fill Prescriptions Costs You More Than What They Fill" Whiteboard Messy Infographic (different pillar) | [ ] |
+| Tue Jul 14 | 10:00 AM | LinkedIn Feed | Post 101 - "Where 2026 Specialty Dollars Actually Go" Funnel Clean Infographic (different pillar) | [ ] |
 | Tue Jul 14 | 10:05 AM | LinkedIn Feed | Post 101 - First Comment | [ ] |
 | Tue Jul 14 | 1:30 PM | LinkedIn Company | Company Reshare of Post 101 | [ ] |
 | Wed Jul 15 | 10:00 AM | LinkedIn Feed | Post 102 - "Same drug. Retail: one price. Mail order: different price. Specialty: another." Strong POV (TEXT) / VIDEO TEST #2 | [ ] |
@@ -260,15 +260,13 @@ This week's Benefit Blind Spots includes a **network cost comparison model**: a 
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 101 - Tuesday 10:00 AM
-### "The 4 Drug Categories Driving 2026 Specialty Spend" (Infographic)
+### "Where 2026 Specialty Dollars Actually Go" — Funnel Clean Infographic
 
-> **Visual Build Note:** Use the **Four Category Grid** infographic from `claude_design_prompts.md`. Claude design project type: **Prototype**. Plug in content that frames each category with a named example drug class and one-line intervention note. Export PNG at 1080 x 1350 and upload directly to LinkedIn (no Canva overlay needed for feed posts).
-
-**Format:** Infographic
-**Pillar:** Clinical Pharmacy Perspectives
-**Word Count:** ~190 words
-
-> **NOTE - Rotation Slot:** Tuesday 6-week cycle Cycle-2-W6 = Infographic × Clinical Pharmacy. Monday newsletter pillar is Cost Containment (Network Design), so no collision. Clinical Pharmacy averaged 23,701 impressions across 2 posts (5,807 ex-viral); the GLP-1 post produced the single highest-impression text post on record (41,594), which supports weighting the pillar heavily in the rotation.
+**Template:** Funnel clean infographic from `claude_design_prompts.md` (template #7 — "Your Pharmacy Dollar: Where It Actually Goes"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Clean Infographic (Tuesday Cycle-W6 slot)
+**Pillar:** Clinical Pharmacy Perspectives (different from Monday's Cost Containment / Network Design topic)
+**Content shape:** Topic-anchored (Clinical Pharmacy topic, not a decoder this week). Funnel is the rotation's "flow/allocation" metaphor and fits a "where the dollars concentrate" argument without forcing decoder framing.
+**Why this combination:** Second entry in the Clean Info rotation after W19 Iceberg. The Funnel narrative ("$1 enters, $X exits into specific categories") maps cleanly to specialty-spend concentration. Rotates the visual metaphor so the Clean Info slot does not feel identical to the Iceberg slot three weeks ago.
 
 #### Post Copy
 
@@ -290,35 +288,36 @@ Each category has a different intervention. The intervention only works if the p
 
 More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
-#### Infographic Concept
+#### Image Layout Spec
 
-**Layout:** 2x2 grid of four category panels, vertical format. Primary Blue (#015880) header bar, white background for the grid, Accent Blue (#A7E0FA) highlights inside each panel.
+Single image at 1080 x 1350 px on a white (#FFFFFF) background. A large flat-design funnel fills the center of the image, oriented vertically. Top opening is wide, bottom is narrow.
 
-**Top Header Bar:** Primary Blue (#015880) background. White Plex Sans SemiBold (32-38pt): "4 Drug Categories Driving 2026 Specialty Spend." Small pill icon in Accent Blue.
+**Top of funnel (wide mouth):** Labeled in Plex Sans SemiBold 28pt Primary Blue (#015880): "2026 SPECIALTY SPEND — Total plan dollar." A small downward arrow inside the mouth shows flow direction.
 
-**Panel 1 (top-left) - GLP-1 Indication Expansion:**
-- Heart icon (cardiovascular) + kidney icon, Primary Blue, 50px each
-- Headline: "GLP-1s: Beyond Diabetes and Obesity"
-- Body: "Cardiovascular risk reduction and chronic kidney disease indications are approved. New qualifying criteria. New spend pattern."
-- Sidebar in Accent Blue: "Rewrite PA criteria for new indications."
+**Funnel body (trapezoid):** Rendered in Accent Blue (#A7E0FA) at 20% opacity outline, Primary Blue (#015880) outline stroke 4px. Inside the funnel body, four horizontal bands stacked vertically, each labeled with one category. Each band is a distinct shade of Accent Blue (getting denser as the funnel narrows) to signal concentration:
 
-**Panel 2 (top-right) - Anti-Amyloid Infusions:**
-- Brain icon, Primary Blue, 50px
-- Headline: "Anti-Amyloid Alzheimer's Infusions"
-- Body: "New class. High-cost infusion. Medical/pharmacy coordination, site-of-care planning, and stop-loss review needed before first claim."
-- Sidebar in Accent Blue: "Coordinate medical and pharmacy benefit coverage."
+- Band 1 (widest, at top): Label in Plex Sans SemiBold 20pt Primary Blue: "GLP-1s · CV and CKD indications." Sublabel in Plex Sans Regular 14pt Gray: "New indication spend pattern. Different PA. Ask: rewrite PA criteria."
+- Band 2: Label: "Anti-amyloid Alzheimer's infusions." Sublabel: "Medical + pharmacy coordination before first claim. Site-of-care matters."
+- Band 3: Label: "Gene therapies for rare conditions." Sublabel: "Single-dose, seven-figure claims. Stop-loss coordination is material."
+- Band 4 (narrowest, at bottom): Label: "Autoimmune biosimilars — Humira and Stelara transitions." Sublabel: "Pre-launch tier placement beats post-launch chasing."
 
-**Panel 3 (bottom-left) - Gene Therapies:**
-- DNA helix icon, Primary Blue, 50px
-- Headline: "Gene Therapies for Rare Conditions"
-- Body: "Single-dose, seven-figure claims. Stop-loss coordination and specialty carve-out structure are material."
-- Sidebar in Accent Blue: "Pre-authorize with stop-loss before approval."
+**Bottom of funnel (narrow spout):** Labeled in Plex Sans SemiBold 22pt Primary Blue: "Four categories. Four interventions." A downward arrow exits the spout to a bottom callout.
 
-**Panel 4 (bottom-right) - Biosimilar Launches:**
-- Comparison scale icon, Primary Blue, 50px
-- Headline: "Autoimmune Biosimilars: Humira and Stelara"
-- Body: "Humira biosimilars are a proven transition lever. Stelara biosimilars are the next. Pre-launch coverage positioning beats post-launch chasing."
-- Sidebar in Accent Blue: "Set tier placement before biosimilar launch date."
+**Bottom callout band (Accent Blue #A7E0FA, ~60px tall):** Primary Blue Plex Sans SemiBold 20pt: "The intervention only works if the plan sees the category coming." PBS logo (dark) bottom-right, 80-100px. "team@rxbs.org" bottom-left Plex Mono Medium 14pt Primary Blue.
+
+Top-left of image: Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white background. Large flat-design vertical funnel in the center. Funnel outline: Primary Blue (#015880) 4px stroke, interior filled Accent Blue (#A7E0FA) at 20% opacity. Top of funnel labeled in Plex Sans SemiBold 28pt Primary Blue: "2026 SPECIALTY SPEND — Total plan dollar." Small downward arrow inside the funnel mouth. Four horizontal bands inside the funnel body, each labeled with one specialty drug category (GLP-1s CV/CKD indications; Anti-amyloid Alzheimer's infusions; Gene therapies for rare conditions; Autoimmune biosimilars Humira/Stelara). Each band labeled in Plex Sans SemiBold 20pt Primary Blue with a Plex Sans Regular 14pt Gray sublabel. Narrower end of funnel labeled "Four categories. Four interventions." in Plex Sans SemiBold 22pt Primary Blue. Bottom callout band in Accent Blue with Primary Blue Plex Sans SemiBold "The intervention only works if the plan sees the category coming." PBS logo bottom-right, team@rxbs.org bottom-left. Benefit Blind Spots badge top-left. Flat corporate editorial style, no 3D, no gradients beyond funnel interior opacity, no photographs. Color palette: white, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D) secondary.
+
+**Post-Generation Steps:**
+
+1. Generate base image
+2. Verify four bands fit inside the funnel with readable labels (mobile thumbnail test)
+3. If labels crowd, reduce sublabel to single line
+4. Add PBS logo bottom-right
+5. Export as PNG
 
 **Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Each category has a different intervention. Only works if you see it coming." PBS logo bottom-right, team@rxbs.org bottom-left.
 
@@ -656,7 +655,7 @@ A client's HR director called me after she had successfully implemented a networ
 
 ## Content Schedule
 - [ ] Monday: Substack at 7:30 AM, Newsletter at 7:45 AM
-- [ ] Tuesday: Post 101 Messy Infographic at 10:00 AM + Comment + Reshare
+- [ ] Tuesday: Post 101 Funnel Clean Infographic at 10:00 AM + Comment + Reshare
 - [ ] Wednesday: Post 102 Text/Video at 10:00 AM
 - [ ] Thursday: Field Note at 7:30 AM, Post 103 Carousel at 10:00 AM + Reshare
 - [ ] Friday: Post 104 Tease at 10:00 AM
@@ -670,7 +669,7 @@ A client's HR director called me after she had successfully implemented a networ
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 101 Messy Infographic | Single image (1080x1350) | Five-channel flow diagram |
+| Post 101 Funnel Clean Infographic | Single image (1080x1350) | "Where 2026 Specialty Dollars Actually Go" — flat-design funnel with four specialty categories stacked inside, Clinical Pharmacy pillar |
 | Post 103 Whiteboard Carousel | 7 slides (1080x1350) | Template A - channel comparison |
 | Post 102 Video (optional) | Vertical, 50 sec | VIDEO TEST #2 |
 | Substack article header | 2240x1260 | [ ] Design needed |
@@ -684,7 +683,7 @@ A client's HR director called me after she had successfully implemented a networ
 
 | Post | Impressions | Eng Rate | Comments | Saves |
 |------|------------|----------|----------|-------|
-| Post 101 (Tue Messy Info) | | | | |
+| Post 101 (Tue Funnel Clean Infographic) | | | | |
 | Post 102 (Wed Text/Video) | | | | |
 | Post 103 (Thu Carousel) | | | | |
 | Post 104 (Fri Tease) | | | | |
