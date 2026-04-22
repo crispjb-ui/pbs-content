@@ -57,7 +57,7 @@
       width: 8.5in;
       height: 11in;
       margin: 24px auto;
-      padding: 0.6in 0.7in;
+      padding: 0.55in 0.7in 0.5in 0.7in;
       background: var(--paper);
       color: #1a1a1a;
       box-shadow: 0 10px 36px rgba(0,0,0,0.4);
@@ -66,47 +66,80 @@
       break-after: page;
       display: flex;
       flex-direction: column;
-      overflow: hidden;
     }
     .page:last-child { page-break-after: auto; break-after: auto; }
 
     /* ============================================================
        PAGE HEADER (every page)
+       Left: Plan Sponsor Toolkit eyebrow
+       Right: PBS logo (SVG mark + wordmark)
        ============================================================ */
     .page-head {
       display: flex;
       justify-content: space-between;
-      align-items: flex-end;
-      padding-bottom: 16px;
-      border-bottom: 2px solid var(--primary);
-      margin-bottom: 28px;
-    }
-    .head-mark {
-      display: flex;
       align-items: center;
-      gap: 10px;
-      font-family: 'IBM Plex Sans', sans-serif;
-      font-weight: 600;
-      font-size: 13px;
-      letter-spacing: 0.04em;
-      color: var(--primary);
+      padding-bottom: 12px;
+      border-bottom: 2px solid var(--primary);
+      margin-bottom: 22px;
     }
-    .head-mark::before {
-      content: "";
-      display: inline-block;
-      width: 0;
-      height: 0;
-      border-left: 7px solid transparent;
-      border-right: 7px solid transparent;
-      border-bottom: 12px solid var(--primary);
-    }
-    .head-eyebrow {
+    .head-eyebrow-left {
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 600;
       font-size: 11px;
       letter-spacing: 0.18em;
       text-transform: uppercase;
       color: var(--gray);
+    }
+    .head-logo {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .head-logo .logo-mark {
+      width: 36px;
+      height: 36px;
+      background: var(--primary);
+      color: var(--white);
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 700;
+      font-size: 13px;
+      letter-spacing: 0.04em;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+      overflow: hidden;
+    }
+    .head-logo .logo-mark::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 0;
+      height: 0;
+      border-top: 12px solid var(--accent);
+      border-left: 12px solid transparent;
+    }
+    .head-logo .logo-wordmark {
+      display: flex;
+      flex-direction: column;
+      line-height: 1.1;
+    }
+    .head-logo .logo-wordmark .name {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      color: var(--primary);
+      letter-spacing: -0.005em;
+    }
+    .head-logo .logo-wordmark .tag {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 400;
+      font-size: 9.5px;
+      color: var(--gray);
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-top: 2px;
     }
 
     /* ============================================================
@@ -154,14 +187,16 @@
        SECTION
        ============================================================ */
     .section {
-      margin-bottom: 24px;
+      margin-bottom: 18px;
+      page-break-inside: avoid;
+      break-inside: avoid;
     }
     .section-head {
       display: flex;
       align-items: baseline;
       gap: 10px;
-      margin-bottom: 14px;
-      padding-bottom: 6px;
+      margin-bottom: 10px;
+      padding-bottom: 5px;
       border-bottom: 1px solid var(--rule);
     }
     .section-num {
@@ -357,66 +392,66 @@
     .action-box {
       background: var(--primary);
       color: var(--white);
-      padding: 16px 18px;
-      margin-bottom: 12px;
+      padding: 11px 14px;
+      margin-bottom: 8px;
       border-left: 4px solid var(--accent);
     }
     .action-trigger {
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 600;
-      font-size: 10.5px;
+      font-size: 9.5px;
       letter-spacing: 0.16em;
       text-transform: uppercase;
       color: var(--accent);
-      margin-bottom: 6px;
+      margin-bottom: 3px;
       display: block;
     }
     .action-title {
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 600;
-      font-size: 14px;
+      font-size: 12.5px;
       color: var(--white);
-      margin-bottom: 6px;
+      margin-bottom: 4px;
     }
     .action-body {
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 12px;
-      line-height: 1.5;
+      font-size: 11px;
+      line-height: 1.45;
       color: rgba(255,255,255,0.92);
     }
 
     .redline-list {
-      margin-top: 6px;
+      margin-top: 4px;
       padding-left: 0;
       list-style: none;
     }
     .redline-list li {
-      padding: 8px 10px 8px 28px;
+      padding: 6px 10px 6px 26px;
       border-left: 3px solid var(--accent);
       background: #F8FAFC;
-      margin-bottom: 6px;
+      margin-bottom: 4px;
       position: relative;
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 11.5px;
-      line-height: 1.45;
+      font-size: 11px;
+      line-height: 1.4;
       color: #1a1a1a;
     }
     .redline-list li::before {
       content: "§";
       position: absolute;
       left: 10px;
-      top: 7px;
+      top: 5px;
       font-family: 'IBM Plex Mono', monospace;
       font-weight: 600;
       color: var(--primary);
-      font-size: 13px;
+      font-size: 12px;
     }
     .redline-list li strong {
       display: block;
       font-weight: 600;
       color: var(--primary);
-      margin-bottom: 2px;
-      font-size: 11.5px;
+      margin-bottom: 1px;
+      font-size: 11px;
     }
 
     /* ============================================================
@@ -490,8 +525,14 @@
 <section class="page">
 
   <div class="page-head">
-    <div class="head-mark">Prescription Benefit Solutions</div>
-    <div class="head-eyebrow">Benefit Blind Spots · Plan Sponsor Toolkit</div>
+    <div class="head-eyebrow-left">Plan Sponsor Toolkit</div>
+    <div class="head-logo">
+      <div class="logo-wordmark">
+        <span class="name">Prescription Benefit Solutions</span>
+        <span class="tag">rxbs.org</span>
+      </div>
+      <div class="logo-mark">PBS</div>
+    </div>
   </div>
 
   <div class="title-block">
@@ -582,7 +623,7 @@
   </div>
 
   <footer class="footer">
-    <span class="publication">Benefit Blind Spots · The Pharmacy Benefits Briefing</span>
+    <span class="publication">PA ROI Audit · Scorecard · Page 1</span>
     <span>rxbs.org · benefitblindspots.substack.com</span>
     <span class="page-num">01 / 02</span>
   </footer>
@@ -590,13 +631,19 @@
 </section>
 
 <!-- ============================================================================
-     PAGE 2 — FEE REFERENCE + OPTIMIZATION ACTIONS
+     PAGE 2 — FEE REFERENCE + OPTIMIZATION ACTIONS + CONTRACT ASKS
      ============================================================================ -->
 <section class="page">
 
   <div class="page-head">
-    <div class="head-mark">Prescription Benefit Solutions</div>
-    <div class="head-eyebrow">Benefit Blind Spots · Plan Sponsor Toolkit</div>
+    <div class="head-eyebrow-left">Plan Sponsor Toolkit</div>
+    <div class="head-logo">
+      <div class="logo-wordmark">
+        <span class="name">Prescription Benefit Solutions</span>
+        <span class="tag">rxbs.org</span>
+      </div>
+      <div class="logo-mark">PBS</div>
+    </div>
   </div>
 
   <div class="section">
@@ -674,7 +721,7 @@
   </div>
 
   <footer class="footer">
-    <span class="publication">Benefit Blind Spots · The Pharmacy Benefits Briefing</span>
+    <span class="publication">PA ROI Audit · Scorecard · Page 2</span>
     <span>rxbs.org · benefitblindspots.substack.com</span>
     <span class="page-num">02 / 02</span>
   </footer>
