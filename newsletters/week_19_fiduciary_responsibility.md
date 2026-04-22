@@ -691,7 +691,7 @@ I was invited to speak on ERISA fiduciary responsibility at a benefits conferenc
 The litigation trend in pharmacy benefits is accelerating, and the pattern is consistent. Plaintiffs identify a self-funded plan. They request the PBM contract under discovery. They compare the terms to market benchmarks. They look for documentation of a prudent selection and oversight process. When that documentation does not exist, the case moves forward. The absence of process is the vulnerability.
 
 **Afternoon (3-5 PM) — Origin Story #2:**
-A client told me recently that fiduciary documentation felt like "covering ourselves." I pushed back. The documentation is not about self-protection. It is about demonstrating that the plan's interests drove the decision. If the interests line up and the process is clean, the protection is a byproduct. If you are documenting for your own defense instead of your members' benefit, you are documenting the wrong thing.
+A client told me a while back that fiduciary documentation felt like "covering ourselves." I pushed back. The documentation is not about self-protection. It is about demonstrating that the plan's interests drove the decision. If the interests line up and the process is clean, the protection is a byproduct. If you are documenting for your own defense instead of your members' benefit, you are documenting the wrong thing.
 
 ## Bonus Notes (Evergreen)
 

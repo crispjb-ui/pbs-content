@@ -45,7 +45,7 @@ Free drug. Full price claim. Your plan pays.
 
 That is how copay cards work. The manufacturer funds the card. The member pays nothing at the counter. The pharmacy submits a full-price claim. Your plan covers its share based on list price. The drug was never free. The cost just moved: from member to plan, from visible to invisible.
 
-I walked a client through this flow last quarter. They had flagged a specialty drug generating significant plan spend, but the members on it were not complaining because the drug appeared "affordable" to them. Zero out of pocket, every fill. We pulled the claims and traced what was actually happening. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because those copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was hit.
+In the early days of PBS I walked a client through this flow. They had flagged a specialty drug generating significant plan spend, but the members on it were not complaining because the drug appeared "affordable" to them. Zero out of pocket, every fill. We pulled the claims and traced what was actually happening. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because those copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was hit.
 
 Nobody on the plan side had made a deliberate decision to cover this drug at this cost. It happened by default. That is how PBM claims processing is designed to work.
 
@@ -240,7 +240,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 Free drug. Full price claim. Your plan pays. That is how copay cards work.
 
-I walked a client through this flow last quarter after they noticed a specialty drug generating significant plan spend despite appearing "affordable" to members. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because the copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was reached.
+A few years back I walked a client through this flow after they noticed a specialty drug generating significant plan spend despite appearing "affordable" to members. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because the copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was reached.
 
 Nobody on the plan side had made a deliberate decision to cover this drug at this cost. The PBM's default claims processing made the decision for them. That is the Visibility Gap in manufacturer programs: the member sees affordability, the plan sees a claim, and the manufacturer sees market share. Three perspectives on one transaction. Only one of them feels like a deal.
 

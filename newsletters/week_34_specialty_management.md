@@ -157,7 +157,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
-We reviewed a client's specialty claims last quarter and found members who had been on the same biologic therapy for over three years without a single reauthorization review. The original prior authorization was approved, the refills continued, and nobody asked whether the therapy was still clinically appropriate.
+A few years back we reviewed a client's specialty claims and found members who had been on the same biologic therapy for over three years without a single reauthorization review. The original prior authorization was approved, the refills continued, and nobody asked whether the therapy was still clinically appropriate.
 
 Some of those members may still need the therapy. But some may not. Clinical circumstances change. Conditions improve. Alternative therapies become available. Without periodic review, the authorization runs on autopilot.
 
@@ -575,7 +575,7 @@ A pharmacy student asked me whether specialty management was a "pharmacy job" or
 Specialty management is not one lever pulled once. It is eight levers pulled continuously. The plans that pull them all well stay ahead of the cost trajectory. The plans that pull one or two and assume the PBM handles the rest fall behind. The PBM's default settings are not aligned with the plan's cost objectives. Active management is the only option.
 
 **Afternoon (3-5 PM) — Origin Story #2:**
-A broker told me recently that specialty management had become the hardest conversation she had with new clients because the data always looked worse than clients expected. I told her that is actually the easy conversation. The hard conversation is the one a year later when the plan has not acted on the data. Bad news at the start beats avoidable bad news at the end. Clients who hear it early usually move. Clients who do not usually do not.
+A broker told me a while back that specialty management had become the hardest conversation she had with new clients because the data always looked worse than clients expected. I told her that is actually the easy conversation. The hard conversation is the one a year later when the plan has not acted on the data. Bad news at the start beats avoidable bad news at the end. Clients who hear it early usually move. Clients who do not usually do not.
 
 ## Engagement Reply Templates
 

@@ -82,7 +82,7 @@ There is also a negotiating angle that often gets overlooked. The ability to car
 
 **The decision scorecard**
 
-I walked a client through this evaluation last quarter, and the scorecard made the conversation much more productive than the usual back-and-forth about "what feels right." Rate each of the following ten factors on a 1 to 5 scale based on your current situation. Higher scores favor carve-out. Lower scores favor staying bundled.
+I walked a client through this evaluation a couple years ago, and the scorecard made the conversation much more productive than the usual back-and-forth about "what feels right." Rate each of the following ten factors on a 1 to 5 scale based on your current situation. Higher scores favor carve-out. Lower scores favor staying bundled.
 
 > **Pricing Transparency**. Can you verify your PBM's pricing against market benchmarks?
 > Score 1 (Favor Bundled): Full transparency, competitive pricing.
@@ -732,7 +732,7 @@ Ginny Crisp breaks down the language that changes everything about your pharmacy
 
 #### Post Copy
 
-We ran a carve-out comparison for a mid-size self-funded employer last quarter.
+A few years back we ran a carve-out comparison for a mid-size self-funded employer.
 
 The bundled PBM's retention offer came back before the carved-out RFP had even closed. New pricing. New transparency provisions. Reporting the employer had been asking for, that had never been on the table before.
 
@@ -962,7 +962,7 @@ FDA advisory committee schedules are public. PDUFA target action dates are publi
 
 Most employers learn about new drug approvals from claims data. After the launch. After coverage defaulted to the PBM's standard position. After members started therapy at full cost.
 
-We had an employer last quarter get a gene therapy claim with no advance notice. No coverage position. No stop-loss coordination. The information was available months earlier. It just never reached them.
+Years ago we had an employer get a gene therapy claim with no advance notice. No coverage position. No stop-loss coordination. The information was available months earlier. It just never reached them.
 
 Next week: how to run a quarterly pipeline review so the intelligence reaches you instead of the claims department.
 

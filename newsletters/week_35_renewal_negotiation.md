@@ -553,7 +553,7 @@ The PBM's initial renewal proposal is not an offer. It is an opening position. T
 Next week: contract language that costs you. Ten provisions. Three versions each: weak, moderate, strong. The reference document you bring to renewal. Two words can be worth six figures.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-I had a client tell me recently that my renewal playbook felt "intimidating" at first read because of the number of provisions. I told her: the intimidation is the point. A serious negotiation has a lot of moving parts. Intimidation is how the PBM keeps employers focused on two provisions instead of twelve. Naming that intimidation out loud often dissolves it. The framework is not intimidating once you start using it.
+I had a client tell me years ago that my renewal playbook felt "intimidating" at first read because of the number of provisions. I told her: the intimidation is the point. A serious negotiation has a lot of moving parts. Intimidation is how the PBM keeps employers focused on two provisions instead of twelve. Naming that intimidation out loud often dissolves it. The framework is not intimidating once you start using it.
 
 ## Saturday
 

@@ -44,7 +44,7 @@
 
 ### Article Body
 
-We were reviewing a client's formulary last quarter and asked a straightforward question: how does your drug list differ from the PBM's standard book of business formulary? The employer believed they had a customized formulary. That is what their PBM had told them. That is what the contract referenced.
+In the early days of PBS we were reviewing a client's formulary and asked a straightforward question: how does your drug list differ from the PBM's standard book of business formulary? The employer believed they had a customized formulary. That is what their PBM had told them. That is what the contract referenced.
 
 After some digging, the answer was that it did not differ at all. The "customized" formulary was identical to what every other client on that PBM received. Same tiers. Same preferred products. Same exclusions. The only customization was the employer's name on the cover page.
 
@@ -267,7 +267,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ### Newsletter Body
 
-We asked a client a simple question last quarter: how does your formulary differ from the PBM's standard book of business formulary? The employer believed they had a customized formulary. That is what their PBM told them.
+A few years back we asked a client a simple question: how does your formulary differ from the PBM's standard book of business formulary? The employer believed they had a customized formulary. That is what their PBM told them.
 
 After some digging, it did not differ at all. Same tiers. Same preferred products. Same exclusions. The "customization" was the employer's name on the cover page.
 

@@ -513,7 +513,7 @@ Early in my career I assumed clinical programs were mostly clinical. The rigorou
 Next week: communicating pharmacy changes. The best pharmacy strategy fails without the right messaging. Five scenarios. Five template frameworks. Because the backlash is never about the clinical decision. It is about the letter.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-A CFO told me recently that the clinical program audit had been the single highest-ROI engagement we had run for his plan. Not because the recovery was the largest. Because the future improvement was most sustainable. Once the methodology was cleaned up, the savings became defensible going forward. One-time recoveries fade. Clean methodology compounds.
+A CFO told me a few years ago that the clinical program audit had been the single highest-ROI engagement we had run for his plan. Not because the recovery was the largest. Because the future improvement was most sustainable. Once the methodology was cleaned up, the savings became defensible going forward. One-time recoveries fade. Clean methodology compounds.
 
 ## Saturday
 

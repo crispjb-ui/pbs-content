@@ -652,7 +652,7 @@ Ginny Crisp maps the renewal timeline from data pull to signature, and the decis
 
 Your PBM calls it a "customized formulary." Customized for whom?
 
-We reviewed a client's formulary last quarter. Asked a simple question: how does your drug list differ from the PBM's standard book of business formulary? After some digging, the answer was that it did not differ at all. The "customized" formulary was identical to what every other client on that PBM received.
+Years ago we reviewed a client's formulary and asked a simple question: how does your drug list differ from the PBM's standard book of business formulary? After some digging, the answer was that it did not differ at all. The "customized" formulary was identical to what every other client on that PBM received.
 
 The formulary is where PBM rebate economics meet clinical decision-making. Whose interests win that contest determines what your members pay and what your plan spends.
 
@@ -716,7 +716,7 @@ Read the field note: [LINK]
 The first time I helped a client prepare for renewal using the 90-day framework, I was surprised by how much the preparation itself changed the dynamic. Before we even sat down with the PBM, the client's confidence was different. They had their own data. Their own benchmarks. Their own priorities documented. The PBM noticed immediately. Preparation changes the negotiation before any terms are discussed.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-A broker I work with runs the 90-day framework alongside me on every joint client. She told me recently that her renewal win rate changed after she started following it. Not because she is a different broker. Because the clients show up different. A prepared client is easier to advocate for. That downstream effect is why I make the framework public. Good work should be copyable.
+A broker I work with runs the 90-day framework alongside me on every joint client. She told me a while back that her renewal win rate changed after she started following it. Not because she is a different broker. Because the clients show up different. A prepared client is easier to advocate for. That downstream effect is why I make the framework public. Good work should be copyable.
 
 ## Friday
 

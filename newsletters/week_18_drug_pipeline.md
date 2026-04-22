@@ -268,7 +268,7 @@ One drug. One patient. One claim. $2.1 million. That is not hypothetical. Gene t
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
 
-I got a call last quarter from a broker after her client's plan received a gene therapy claim nobody on the advisory side had seen coming. The PBM had issued no advance notice. The coverage position had not been developed because the drug had launched faster than the review cycle. The broker and the plan sponsor were on the phone together the morning the claim hit, rebuilding the playbook in real time. The broker had done the right things at the right cadence. The pipeline had just moved faster than the quarterly review window.
+I got a call a couple years ago from a broker after her client's plan received a gene therapy claim nobody on the advisory side had seen coming. The PBM had issued no advance notice. The coverage position had not been developed because the drug had launched faster than the review cycle. The broker and the plan sponsor were on the phone together the morning the claim hit, rebuilding the playbook in real time. The broker had done the right things at the right cadence. The pipeline had just moved faster than the quarterly review window.
 
 The information was available months earlier. FDA advisory committee schedules are public. PDUFA target action dates are published. Their PBM had manufacturer contracts negotiated before approval. But that intelligence never reached the employer. It reached the claims department instead.
 
@@ -679,7 +679,7 @@ Pipeline drugs are exciting clinically. As a pharmacist I want every new therapy
 Next week on Benefit Blind Spots: fiduciary duty and your pharmacy benefit. "We trusted our PBM" is not a legal defense. Courts are examining whether plan sponsors followed a documented, prudent process. The documentation most employers are missing, and why inaction is the real exposure.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-A plan sponsor told me recently that pipeline planning felt like speculation. I said: it is the opposite of speculation. The PDUFA dates are published. The Phase 3 readouts are in the public literature. The manufacturer contracts are being negotiated right now. Speculation is assuming none of it will reach your plan. Planning is reading the same public information the PBM is reading and acting on it first.
+A plan sponsor once told me that pipeline planning felt like speculation. I said: it is the opposite of speculation. The PDUFA dates are published. The Phase 3 readouts are in the public literature. The manufacturer contracts are being negotiated right now. Speculation is assuming none of it will reach your plan. Planning is reading the same public information the PBM is reading and acting on it first.
 
 ## Saturday
 
