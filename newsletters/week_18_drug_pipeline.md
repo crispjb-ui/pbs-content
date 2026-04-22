@@ -74,6 +74,8 @@ What this means for your plan: indication expansion means more members qualify f
 
 To prepare: review your current GLP-1 coverage policy and medical necessity criteria, model the financial impact of expanded indications on your population, evaluate step therapy protocols, and discuss biosimilar substitution strategy with your PBM before biosimilars launch.
 
+**The market signal worth sitting with.** On April 21, 2026, CMS announced it was extending the Medicare GLP-1 Bridge through December 31, 2027, and delaying the BALANCE Model entirely. BALANCE was the voluntary CMS program that would have allowed Medicare Part D plans to cover GLP-1s for weight management starting January 1, 2027. The announcement buried the most important detail: the 80 percent Part D Sponsor participation threshold was not met. The plans most able to manage GLP-1 coverage economics, with the most data and the most leverage, overwhelmingly declined to participate. When the sophisticated segment of the market looks at a CMS-subsidized GLP-1 model and walks away for another year, that is the strongest signal commercial self-funded plans can ask for. It does not change where coverage is ultimately headed. It does change the timing. Plans now have a window to let Medicare generate utilization and cost data from the Bridge, watch how pricing evolves, and make coverage commitments for 2027 from a position of evidence rather than pressure.
+
 **Gene and Cell Therapy.** Additional gene therapies are approaching approval for hemophilia, sickle cell disease, and inherited retinal conditions. CAR-T cell therapy is expanding to earlier lines of cancer treatment. CRISPR-based gene editing therapies are entering clinical use. Individual claims range from $500,000 to $3.5 million per treatment.
 
 Yes, these are one-time curative treatments that eliminate ongoing therapy costs. But the stop-loss exposure for self-funded plans is real. These price points are genuinely new territory, and stop-loss carriers are still adapting their products accordingly. That makes coordination between your plan, your PBM, and your stop-loss carrier more important than ever.
@@ -311,17 +313,17 @@ Full framework with 2026-2027 watch list on Substack.
 ## Post 61 - Tuesday 8:30 AM
 ### "What GLP-1 Coverage Actually Means in 2026" — Whiteboard Decoder Carousel
 
-**Template:** Whiteboard carousel (`claude_design_prompts.md` template #3). 7 slides, 1080 x 1350 px each, Claude Design project type: **Slide deck from template**.
+**Template:** Whiteboard carousel (`claude_design_prompts.md` template #3). 8 slides, 1080 x 1350 px each, Claude Design project type: **Slide deck from template**.
 **Format class:** Carousel (Tuesday Cycle-W2 slot)
 **Pillar:** Clinical Pharmacy Perspectives (different from Monday's Cost Containment / Drug Pipeline topic — satisfies the Tuesday ≠ Monday anti-cannibalization rule)
 **Content shape:** Decoder (proven 20-25K impression floor, 9-12 followers per 10K conversion rate)
-**Why this combination:** GLP-1 is the highest-ceiling topic on the board (64K all-time). The decoder shape is the highest-converting shape on the board. A GLP-1 decoder in the Whiteboard template exercises the Whiteboard format (untested at scale) while carrying both proven advantages.
+**Why this combination:** GLP-1 is the highest-ceiling topic on the board (64K all-time). The decoder shape is the highest-converting shape on the board. A GLP-1 decoder in the Whiteboard template exercises the Whiteboard format (untested at scale) while carrying both proven advantages. Slide 7 added April 22, 2026 to surface the CMS BALANCE delay and Medicare GLP-1 Bridge extension as the market signal commercial self-funded plans should read.
 
 #### Post Copy
 
 90 days ago, your GLP-1 formulary was sized for diabetes and obesity.
 
-Today, GLP-1s have FDA-approved indications in sleep apnea, cardiovascular risk reduction, and chronic kidney disease. NASH trials are reading out. Oral formulations are advancing toward approval. Biosimilar competition is starting on first-generation agents.
+Today, GLP-1s have FDA-approved indications in sleep apnea, cardiovascular risk reduction, and chronic kidney disease. NASH trials are reading out. Oral formulations are advancing toward approval. Biosimilar competition is starting on first-generation agents. And this week, CMS extended the Medicare GLP-1 Bridge through 2027 and delayed BALANCE because 80 percent of Part D Sponsors declined to participate.
 
 Every one of those shifts changes which members qualify, what step therapy should look like, and what the PBM is already negotiating on your behalf.
 
@@ -329,7 +331,7 @@ Your formulary was last written when GLP-1 meant two indications. The market is 
 
 If you have not revisited your GLP-1 coverage policy this year, you are deciding by default.
 
-Swipe through to see what the language in your coverage policy actually has to cover now.
+Swipe through to see what the language in your coverage policy actually has to cover now, and the market signal commercial plans should sit with before committing to 2027 terms.
 
 #PharmacyBenefits #GLP1 #ClinicalPharmacy #SelfFundedEmployers
 
@@ -341,32 +343,35 @@ More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
 
 All seven slides render as a Whiteboard carousel: soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn feel, marker-pressure variation. Ginny is the pharmacist working through the reasoning on a whiteboard; every slide is legibly imperfect. No computer typography anywhere except the cover title and closing CTA. Primary Blue (#015880) marker as default, Accent Blue (#A7E0FA) highlights on the phrase or number that carries each slide, red marker strikethroughs on retired language, green marker for added language.
 
-**Slide 1 — Cover.** Soft off-white background. Hand-lettered title top-left: "What GLP-1 Coverage Actually Means in 2026" in Primary Blue marker, with "Actually" underlined in Accent Blue. Below it in smaller Plex Sans SemiBold (the only typographic element on the slide): "A pharmacist walks through what changed." Bottom-left corner: a small hand-drawn caduceus with "GLP-1" lettered inside. Bottom-right: "1 / 7" in Gray marker.
+**Slide 1 — Cover.** Soft off-white background. Hand-lettered title top-left: "What GLP-1 Coverage Actually Means in 2026" in Primary Blue marker, with "Actually" underlined in Accent Blue. Below it in smaller Plex Sans SemiBold (the only typographic element on the slide): "A pharmacist walks through what changed." Bottom-left corner: a small hand-drawn caduceus with "GLP-1" lettered inside. Bottom-right: "1 / 8" in Gray marker.
 
-**Slide 2 — What the policy used to say.** Title hand-lettered: "What your policy said." Below, a boxed block of hand-lettered policy text rendered in Primary Blue marker, two lines: "Covered for type 2 diabetes. Covered for obesity with BMI ≥30." A red marker strikethrough cuts horizontally across the whole block. Small Gray margin note pointing to the box: "written 2023-2024."
+**Slide 2 — What the policy used to say.** Title hand-lettered: "What your policy said." Below, a boxed block of hand-lettered policy text rendered in Primary Blue marker, two lines: "Covered for type 2 diabetes. Covered for obesity with BMI ≥30." A red marker strikethrough cuts horizontally across the whole block. Small Gray margin note pointing to the box: "written 2023-2024." "2 / 8" bottom-right.
 
-**Slide 3 — What it has to cover now.** Title hand-lettered: "What it has to cover now." Below, the same boxed block expanded to five bullets, rendered in green marker with Accent Blue accents on the new-indication phrases: "Type 2 diabetes · Obesity (BMI thresholds widening) · Cardiovascular risk reduction · Chronic kidney disease · Sleep apnea." A green marker check beside each. Margin note in Gray: "FDA-approved indications as of Q2 2026."
+**Slide 3 — What it has to cover now.** Title hand-lettered: "What it has to cover now." Below, the same boxed block expanded to five bullets, rendered in green marker with Accent Blue accents on the new-indication phrases: "Type 2 diabetes · Obesity (BMI thresholds widening) · Cardiovascular risk reduction · Chronic kidney disease · Sleep apnea." A green marker check beside each. Margin note in Gray: "FDA-approved indications as of Q2 2026." "3 / 8" bottom-right.
 
-**Slide 4 — What step therapy looks like now.** Title hand-lettered: "Step therapy is not just diabetes anymore." Below, a rough hand-drawn decision tree with three branches: "Diabetes indication" → standard step therapy; "CV/CKD indication" → clinical path that includes cardiology or nephrology input; "Obesity indication" → tighter PA with lifestyle documentation. Accent Blue highlight on the middle branch (the one most policies have not written yet). Margin note: "most PBMs do not have this written either."
+**Slide 4 — What step therapy looks like now.** Title hand-lettered: "Step therapy is not just diabetes anymore." Below, a rough hand-drawn decision tree with three branches: "Diabetes indication" → standard step therapy; "CV/CKD indication" → clinical path that includes cardiology or nephrology input; "Obesity indication" → tighter PA with lifestyle documentation. Accent Blue highlight on the middle branch (the one most policies have not written yet). Margin note: "most PBMs do not have this written either." "4 / 8" bottom-right.
 
-**Slide 5 — The question on oral formulations.** Title hand-lettered: "Oral GLP-1 changes the math." Below, a two-column comparison drawn on the whiteboard: left side labeled "Injectable-only world" with three bullets (narrower eligible population, supply-constrained, injection barrier); right side labeled "Oral available" with three bullets (eligible population expands, supply eases, member access barrier drops). A green arrow sweeps from left to right. Accent Blue highlight on "eligible population expands" — the budget line item that moves. Margin note: "this is a formulary decision, not just a clinical one."
+**Slide 5 — The question on oral formulations.** Title hand-lettered: "Oral GLP-1 changes the math." Below, a two-column comparison drawn on the whiteboard: left side labeled "Injectable-only world" with three bullets (narrower eligible population, supply-constrained, injection barrier); right side labeled "Oral available" with three bullets (eligible population expands, supply eases, member access barrier drops). A green arrow sweeps from left to right. Accent Blue highlight on "eligible population expands" — the budget line item that moves. Margin note: "this is a formulary decision, not just a clinical one." "5 / 8" bottom-right.
 
-**Slide 6 — The biosimilar question.** Title hand-lettered: "Biosimilar entry changes the rebate math." Below, a simple hand-drawn ladder: "Brand reference" at top with "~$1,000+/mo list" in Primary Blue marker; "Biosimilar entry" in the middle with "discount TBD, usually 25-40%" in Accent Blue; "Net cost to plan" at the bottom with a question mark in red. Margin note: "the net number depends on your contract language, not the list price."
+**Slide 6 — The biosimilar question.** Title hand-lettered: "Biosimilar entry changes the rebate math." Below, a simple hand-drawn ladder: "Brand reference" at top with "~$1,000+/mo list" in Primary Blue marker; "Biosimilar entry" in the middle with "discount TBD, usually 25-40%" in Accent Blue; "Net cost to plan" at the bottom with a question mark in red. Margin note: "the net number depends on your contract language, not the list price." "6 / 8" bottom-right.
 
-**Slide 7 — Close.** Soft off-white background, hand-lettered headline top-left: "Is your GLP-1 policy current, or are you deciding by default?" with "deciding by default" underlined in red marker. Below, in the only other typographic element: a small Plex Sans SemiBold line in Primary Blue — "The decoder carousel for this week's contract language lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library." Bottom-right corner: "Benefit Blind Spots" hand-lettered tag in Primary Blue. "7 / 7" in Gray marker.
+**Slide 7 — The Medicare signal.** Title hand-lettered: "What Medicare Part D just told us." Below, a rough hand-drawn "scoreboard" divided by a vertical marker line. Left side labeled in red marker: "BALANCE 2027 launch" with a red strikethrough cutting diagonally across it and a hand-lettered "DELAYED" stamp. Right side labeled in Primary Blue: "GLP-1 Bridge extended" with a green arrow pointing to "thru 12/31/2027." Below the scoreboard, a large Accent Blue highlighted number in hand-lettered Caveat-style: "80%." Beneath the number, in smaller hand-lettered Primary Blue: "of Part D Sponsors declined to participate in BALANCE." Red margin annotation on the right: "the plans with the most data and the most leverage walked away." Green margin annotation on the bottom: "commercial plans now have a year of Medicare data to watch before committing to 2027 terms." "7 / 8" bottom-right.
+
+**Slide 8 — Close.** Soft off-white background, hand-lettered headline top-left: "Is your GLP-1 policy current, or are you deciding by default?" with "deciding by default" underlined in red marker. Below, in the only other typographic element: a small Plex Sans SemiBold line in Primary Blue — "The decoder carousel for this week's contract language lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library." Bottom-right corner: "Benefit Blind Spots" hand-lettered tag in Primary Blue. "8 / 8" in Gray marker.
 
 #### Image Generation Prompt (one prompt produces all seven slides via Claude Design)
 
-Claude Design project type: **Slide deck from template**. Use the Whiteboard carousel master from `claude_design_prompts.md` (template #3) as the base. Generate 7 stacked slides at 1080 x 1350 px each. Shared system across all slides: soft off-white (#F8F5ED) background with subtle paper-grain texture; hand-drawn marker feel with marker-pressure variation; Primary Blue (#015880) marker for default writing; Accent Blue (#A7E0FA) for the phrase or number that carries the slide; red marker for strikethroughs and retired language; green marker for added or current language; Gray (#4D4D4D) marker for margin notes; 60px padding; slide number bottom-right in Gray "N / 7." Pull slide-by-slide content from the spec above, slide 1 through slide 7. All handwriting must be legibly imperfect, not computer typography, except the small Plex Sans SemiBold typographic elements explicitly called out on Slide 1 and Slide 7.
+Claude Design project type: **Slide deck from template**. Use the Whiteboard carousel master from `claude_design_prompts.md` (template #3) as the base. Generate 8 stacked slides at 1080 x 1350 px each. Shared system across all slides: soft off-white (#F8F5ED) background with subtle paper-grain texture; hand-drawn marker feel with marker-pressure variation; Primary Blue (#015880) marker for default writing; Accent Blue (#A7E0FA) for the phrase or number that carries the slide; red marker for strikethroughs and retired language; green marker for added or current language; Gray (#4D4D4D) marker for margin notes; 60px padding; slide number bottom-right in Gray "N / 8." Pull slide-by-slide content from the spec above, slide 1 through slide 8. All handwriting must be legibly imperfect, not computer typography, except the small Plex Sans SemiBold typographic elements explicitly called out on Slide 1 and Slide 8.
 
 **Post-Generation Steps:**
 
-1. Generate 7-slide deck via Claude Design using the prompt and slide-by-slide spec above
+1. Generate 8-slide deck via Claude Design using the prompt and slide-by-slide spec above
 2. Export individual slides as PNGs, 1080 x 1350 px each
 3. Spot-check each slide: handwriting legibility at thumbnail, Accent Blue highlight lands on the intended phrase, strikethroughs and green-marker inserts clearly distinguishable
-4. Add "Benefit Blind Spots" hand-lettered tag bottom-right on Slide 7 if Claude Design did not render it
-5. Verify the Contract Library URL on Slide 7 renders correctly (type pass if handwriting is ambiguous)
-6. Upload as native LinkedIn carousel (document upload, not image sequence)
+4. Verify Slide 7 renders the "80%" number prominently and the "BALANCE · DELAYED" red stamp is visible
+5. Add "Benefit Blind Spots" hand-lettered tag bottom-right on Slide 8 if Claude Design did not render it
+6. Verify the Contract Library URL on Slide 8 renders correctly (type pass if handwriting is ambiguous)
+7. Upload as native LinkedIn carousel (document upload, not image sequence)
 
 ---
 
