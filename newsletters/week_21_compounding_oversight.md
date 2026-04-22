@@ -146,13 +146,13 @@ Have you pulled your compounding claims data recently? If you found something un
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design mortar-and-pestle icon in deep teal-blue (#015880), roughly 400px wide, with "COMPOUND" rendered in deep teal-blue bold sans-serif text inside the mortar bowl. The pestle is rendered in upward, turning motion with three short motion arcs in Accent Blue (#A7E0FA) around its top implying mixing action. A caution triangle overlay in Accent Blue (#A7E0FA) outline sits on the upper-right rim of the mortar, with its outline highlighted as the primary accent. A small red-flag pennant in deep teal-blue (#015880) with an Accent Blue (#A7E0FA) shaft emerges from the mortar bowl. Six small ingredient-dot marks in Accent Blue (#A7E0FA) spiral inside the mortar bowl. Below the mortar, two-tone centered headline: "The Compounding Problem" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "A High-Risk Category" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design mortar-and-pestle icon in deep teal-blue (#015880), roughly 400px wide, with "COMPOUND" rendered in white bold sans-serif text inside the mortar bowl. The pestle is rendered in upward, turning motion with three short motion arcs in Accent Blue (#A7E0FA) around its top implying mixing action. A caution triangle overlay in Accent Blue (#A7E0FA) outline sits on the upper-right rim of the mortar, with its outline highlighted as the primary accent. A small red-flag pennant in deep teal-blue (#015880) with an Accent Blue (#A7E0FA) shaft emerges from the mortar bowl. Six small ingredient-dot marks in Accent Blue (#A7E0FA) spiral inside the mortar bowl. Below the mortar, two-tone centered headline: "The Compounding Problem" in white (#FFFFFF) bold sans-serif (80-96pt), with "A High-Risk Category" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

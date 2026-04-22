@@ -145,13 +145,13 @@ Have you compared your rebate provisions to strong language benchmarks? If you h
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design money-flow pipeline icon in deep teal-blue (#015880), roughly 500px wide: three stacked dollar-sign containers labeled "MANUFACTURER," "PBM," "PLAN" in deep teal-blue bold sans-serif text inside each. Between them, two downward arrows showing flow direction; the middle PBM container is rendered with a secondary side-pipe in Accent Blue (#A7E0FA) diverting some flow outward, labeled "RETAINED" in Accent Blue. A small "LEAKAGE" annotation in Accent Blue sits next to the side-pipe with a tick mark indicator. Eight small flow-rate tick marks in Accent Blue (#A7E0FA) sit along the main pipeline length. Below the pipeline, two-tone centered headline: "Rebate Economics" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "What the Report Hides" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design money-flow pipeline icon in deep teal-blue (#015880), roughly 500px wide: three stacked dollar-sign containers labeled "MANUFACTURER," "PBM," "PLAN" in deep teal-blue bold sans-serif text inside each. Between them, two downward arrows showing flow direction; the middle PBM container is rendered with a secondary side-pipe in Accent Blue (#A7E0FA) diverting some flow outward, labeled "RETAINED" in Accent Blue. A small "LEAKAGE" annotation in Accent Blue sits next to the side-pipe with a tick mark indicator. Eight small flow-rate tick marks in Accent Blue (#A7E0FA) sit along the main pipeline length. Below the pipeline, two-tone centered headline: "Rebate Economics" in white (#FFFFFF) bold sans-serif (80-96pt), with "What the Report Hides" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

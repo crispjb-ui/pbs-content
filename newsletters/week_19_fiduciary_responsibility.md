@@ -139,13 +139,13 @@ Have you audited your fiduciary documentation trail for pharmacy benefits? If yo
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design shield icon in deep teal-blue (#015880) outline, roughly 400px tall, with "FIDUCIARY" rendered in deep teal-blue bold sans-serif text across the center of the shield. A gavel icon in deep teal-blue strikes downward into the top of the shield, with three short motion lines in Accent Blue (#A7E0FA) radiating upward from the gavel head implying impact. A thin impact ring in Accent Blue (#A7E0FA) surrounds the strike point. Inside the shield segments, five small document-page icons in deep teal-blue radiate outward from the center, one per fiduciary documentation category. Below the shield, two-tone centered headline: "Fiduciary Duty" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "What ERISA Requires" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design shield icon in white (#FFFFFF) outline, roughly 400px tall, with "FIDUCIARY" rendered in white bold sans-serif text across the center of the shield. A gavel icon in deep teal-blue strikes downward into the top of the shield, with three short motion lines in Accent Blue (#A7E0FA) radiating upward from the gavel head implying impact. A thin impact ring in Accent Blue (#A7E0FA) surrounds the strike point. Inside the shield segments, five small document-page icons in deep teal-blue radiate outward from the center, one per fiduciary documentation category. Below the shield, two-tone centered headline: "Fiduciary Duty" in white (#FFFFFF) bold sans-serif (80-96pt), with "What ERISA Requires" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

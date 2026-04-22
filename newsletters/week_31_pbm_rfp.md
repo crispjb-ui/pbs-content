@@ -161,13 +161,13 @@ Have you evaluated PBM proposals using a structured scoring rubric? If you have 
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design RFP document icon in deep teal-blue (#015880) outline, roughly 400px tall, with "RFP" rendered in deep teal-blue bold sans-serif text across the document's top header and "30 QUESTIONS" in Accent Blue (#A7E0FA) below it. A pen in Accent Blue hovers over the document mid-motion scoring responses, with one checkmark in Accent Blue already placed on the first row. The scoring column on the right edge is highlighted in Accent Blue. Thirty small numbered hash marks in Accent Blue (#A7E0FA) run vertically down the left margin representing the thirty questions. Below the document, two-tone centered headline: "The PBM RFP" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "What Answers Actually Mean" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design RFP document icon in white (#FFFFFF) outline, roughly 400px tall, with "RFP" rendered in white bold sans-serif text across the document's top header and "30 QUESTIONS" in Accent Blue (#A7E0FA) below it. A pen in Accent Blue hovers over the document mid-motion scoring responses, with one checkmark in Accent Blue already placed on the first row. The scoring column on the right edge is highlighted in Accent Blue. Thirty small numbered hash marks in Accent Blue (#A7E0FA) run vertically down the left margin representing the thirty questions. Below the document, two-tone centered headline: "The PBM RFP" in white (#FFFFFF) bold sans-serif (80-96pt), with "What Answers Actually Mean" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

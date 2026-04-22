@@ -290,7 +290,7 @@ Every Substack image prompt (Monday deep dive header, Thursday field note header
 
 | Channel | Background | Badge (top-right) | Two-tone headline |
 |---------|------------|-------------------|-------------------|
-| Monday deep dive | Option A: White (#FFFFFF), or Option B: Primary Blue (#015880). Alternate week-to-week for variety. | None | Primary Blue + Accent Blue (on white); White + Accent Blue (on Primary Blue) |
+| Monday deep dive | Primary Blue (#015880) — locked April 22, 2026 so Monday never shares a background with Thursday field notes | None | White + Accent Blue |
 | Wednesday roundup | Accent Blue (#A7E0FA) | "WHAT CROSSED MY DESK" | Primary Blue + White |
 | Thursday field note | White (#FFFFFF) | "FIELD NOTE" | Primary Blue + Accent Blue |
 | Reference Channel (standalone / evergreen) | Gray (#4D4D4D) | Per asset: "CONTRACT LIBRARY", "MONTHLY Q&A", "WHAT I'D ASK", "WHAT WE'RE SEEING · Q[#]" | White + Accent Blue |

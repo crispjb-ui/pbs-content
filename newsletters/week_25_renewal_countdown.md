@@ -153,13 +153,13 @@ Have you started your renewal preparation yet? If you have a timeline that works
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design stopwatch icon in deep teal-blue (#015880), roughly 400px wide, with "90" rendered in deep teal-blue bold sans-serif text inside the watch face (120-140pt equivalent). The stopwatch hands point to different positions suggesting countdown in progress. The outer ring of the stopwatch face is rendered in Accent Blue (#A7E0FA) with a small "DAYS" label in Accent Blue just below the numeral. Ninety small tick marks in Accent Blue (#A7E0FA) sit evenly around the watch face perimeter. Below the stopwatch, two-tone centered headline: "The 90-Day" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "Renewal Window" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design stopwatch icon in deep teal-blue (#015880), roughly 400px wide, with "90" rendered in white bold sans-serif text inside the watch face (120-140pt equivalent). The stopwatch hands point to different positions suggesting countdown in progress. The outer ring of the stopwatch face is rendered in Accent Blue (#A7E0FA) with a small "DAYS" label in Accent Blue just below the numeral. Ninety small tick marks in Accent Blue (#A7E0FA) sit evenly around the watch face perimeter. Below the stopwatch, two-tone centered headline: "The 90-Day" in white (#FFFFFF) bold sans-serif (80-96pt), with "Renewal Window" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

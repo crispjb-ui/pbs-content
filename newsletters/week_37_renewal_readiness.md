@@ -209,13 +209,13 @@ We have been building toward this for 13 weeks. The preparation is the strategy.
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design scorecard icon in deep teal-blue (#015880) outline, roughly 400px wide, with "READINESS" rendered in deep teal-blue bold sans-serif text across the top header and "75" in Accent Blue (#A7E0FA) displayed prominently inside a circular score-badge, with "/75" in smaller text next to it. A circular progress ring in Accent Blue wraps around the score badge rendered approximately 80 percent filled, implying nearly-ready state. Fifteen small factor hash marks in Accent Blue sit around the perimeter representing the fifteen readiness factors. Five section dividers in Accent Blue split the scorecard into the five assessment categories. Below the scorecard, two-tone centered headline: "Renewal Readiness" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "Fifteen Factors, One Answer" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design scorecard icon in white (#FFFFFF) outline, roughly 400px wide, with "READINESS" rendered in white bold sans-serif text across the top header and "75" in Accent Blue (#A7E0FA) displayed prominently inside a circular score-badge, with "/75" in smaller text next to it. A circular progress ring in Accent Blue wraps around the score badge rendered approximately 80 percent filled, implying nearly-ready state. Fifteen small factor hash marks in Accent Blue sit around the perimeter representing the fifteen readiness factors. Five section dividers in Accent Blue split the scorecard into the five assessment categories. Below the scorecard, two-tone centered headline: "Renewal Readiness" in white (#FFFFFF) bold sans-serif (80-96pt), with "Fifteen Factors, One Answer" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

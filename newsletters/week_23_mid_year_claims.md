@@ -128,13 +128,13 @@ Have you pulled your mid-year claims data yet? If you have started identifying p
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design calendar icon in deep teal-blue (#015880) outline, roughly 400px wide, with "MID-YEAR" rendered in deep teal-blue bold sans-serif text across the top month-header row. A magnifying glass icon in Accent Blue (#A7E0FA) hovers over the calendar grid, centered on a data cell that is highlighted. Inside the calendar grid, five small trend-line segments ascend and descend across the weekly rows, with one line rendered in Accent Blue (#A7E0FA) showing a clear upward spike. Six small hash-mark tick marks in Accent Blue (#A7E0FA) sit along the calendar's bottom edge representing the six months of H1. Below the calendar, two-tone centered headline: "Five Claims Patterns" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "That Signal Trouble" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design calendar icon in white (#FFFFFF) outline, roughly 400px wide, with "MID-YEAR" rendered in white bold sans-serif text across the top month-header row. A magnifying glass icon in Accent Blue (#A7E0FA) hovers over the calendar grid, centered on a data cell that is highlighted. Inside the calendar grid, five small trend-line segments ascend and descend across the weekly rows, with one line rendered in Accent Blue (#A7E0FA) showing a clear upward spike. Six small hash-mark tick marks in Accent Blue (#A7E0FA) sit along the calendar's bottom edge representing the six months of H1. Below the calendar, two-tone centered headline: "Five Claims Patterns" in white (#FFFFFF) bold sans-serif (80-96pt), with "That Signal Trouble" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

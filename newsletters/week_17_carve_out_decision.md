@@ -175,13 +175,13 @@ Have you evaluated carve-out for your plan? If you went through the process and 
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design split gateway icon in deep teal-blue (#015880) outline, roughly 400px wide, with the words "CARVE OUT" rendered in deep teal-blue inside the left opening and "BUNDLED" rendered in gray (#4D4D4D) inside the right opening. The left door is swinging outward, implying decision-in-progress. The opening door outline glows in Accent Blue (#A7E0FA) and a directional arrow in Accent Blue (#A7E0FA) points through the opening. Four small decision-branch lines in Accent Blue (#A7E0FA) radiate outward from the threshold at the base of the gateway. Below the gateway, two-tone centered headline: "Carve Out" in deep teal-blue (#015880) bold sans-serif (80-96pt) on the left, "or Stay Bundled" in Accent Blue (#A7E0FA) bold sans-serif immediately adjacent. Below the headline, smaller gray (#4D4D4D) text reads "A Decision Framework for Self-Funded Plans." No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design split gateway icon in white (#FFFFFF) outline, roughly 400px wide, with the words "CARVE OUT" rendered in white inside the left opening and "BUNDLED" rendered in Accent Blue (#A7E0FA) inside the right opening. The left door is swinging outward, implying decision-in-progress. The opening door outline glows in Accent Blue (#A7E0FA) and a directional arrow in Accent Blue (#A7E0FA) points through the opening. Four small decision-branch lines in Accent Blue (#A7E0FA) radiate outward from the threshold at the base of the gateway. Below the gateway, two-tone centered headline: "Carve Out" in white (#FFFFFF) bold sans-serif (80-96pt) on the left, "or Stay Bundled" in Accent Blue (#A7E0FA) bold sans-serif immediately adjacent. Below the headline, smaller Accent Blue (#A7E0FA) text reads "A Decision Framework for Self-Funded Plans." No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 

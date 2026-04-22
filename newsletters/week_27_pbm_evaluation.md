@@ -175,13 +175,13 @@ Have you scored your PBM relationship? If you have gone through the evaluation, 
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid white background (#FFFFFF). Centered is a large flat-design balance scale icon in deep teal-blue (#015880) outline, roughly 400px wide, tilted slightly to the left implying an active decision in progress. The left pan holds a small contract document icon labeled "STAY" in deep teal-blue; the right pan holds a door icon labeled "SWITCH" in deep teal-blue. The tilted motion is emphasized with three short arc lines in Accent Blue (#A7E0FA) at the scale's pivot. The scale's crossbar is highlighted in Accent Blue with a small "100" label above it representing the 100-point scorecard. Ten small tick marks in Accent Blue (#A7E0FA) sit along the crossbar. Below the scale, two-tone centered headline: "Stay or Switch" in deep teal-blue (#015880) bold sans-serif (80-96pt), with "Evaluating Your PBM" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), gray (#4D4D4D), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design balance scale icon in white (#FFFFFF) outline, roughly 400px wide, tilted slightly to the left implying an active decision in progress. The left pan holds a small contract document icon labeled "STAY" in deep teal-blue; the right pan holds a door icon labeled "SWITCH" in deep teal-blue. The tilted motion is emphasized with three short arc lines in Accent Blue (#A7E0FA) at the scale's pivot. The scale's crossbar is highlighted in Accent Blue with a small "100" label above it representing the 100-point scorecard. Ten small tick marks in Accent Blue (#A7E0FA) sit along the crossbar. Below the scale, two-tone centered headline: "Stay or Switch" in white (#FFFFFF) bold sans-serif (80-96pt), with "Evaluating Your PBM" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva at 2240 x 1200 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 20-24pt) - top left
-4. Add PBS logo (dark version) - bottom right, 100-120px width
+4. Add PBS logo (white version) - bottom right, 100-120px width
 5. Preview at Substack thumbnail size (~600x300) to confirm readability
 6. Export as PNG
 
