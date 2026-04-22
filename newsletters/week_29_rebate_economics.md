@@ -327,7 +327,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 ## Post 105 - Tuesday 10:00 AM
 ### "The Audit Right Most Self-Funded Plans Never Exercise" — Sticky Note Dashboard
 
-**Template:** Sticky Note Dashboard messy infographic from `claude_design_prompts.md` (template #14). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Sticky Note Dashboard messy infographic from `claude_design_prompts.md` (template #15). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W1 slot, third cycle)
 **Pillar:** PBM Contract Insights (different from Monday's Transparency / Rebate Economics topic)
 **Content shape:** Decoder-adjacent — the post decodes what an audit-right clause actually permits and what happens when plans never use it.

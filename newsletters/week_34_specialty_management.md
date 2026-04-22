@@ -273,7 +273,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 ## Post 125 - Tuesday 10:00 AM
 ### "From Programs That Cost Money to Programs That Earn Their Keep" — Bridge Clean Infographic
 
-**Template:** Bridge clean infographic from `claude_design_prompts.md` (template #6 — "Weak Contract Language to Strong Contract Language"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Bridge clean infographic from `claude_design_prompts.md` (template #7 — "Weak Contract Language to Strong Contract Language"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Clean Infographic (Tuesday Cycle-W6 slot, third cycle)
 **Pillar:** Clinical Pharmacy Perspectives (different from Monday's Cost Containment / Specialty Management topic)
 **Content shape:** Contrast / transition metaphor. Fourth entry in the Clean Info rotation: Iceberg (W19) → Funnel (W28) → Mountain (W31) → Bridge (W34).

@@ -305,7 +305,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 ## Post 81 - Tuesday 8:30 AM
 ### "The Contract Clause That Saved a Client Six Figures" — Chart-on-Whiteboard Audit Trail
 
-**Template:** Chart-on-Whiteboard messy infographic from `claude_design_prompts.md` (template #13). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Chart-on-Whiteboard messy infographic from `claude_design_prompts.md` (template #14). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W1 slot, second cycle)
 **Pillar:** PBM Contract Insights (different from Monday's Self-Funded / Mid-Year Claims topic)
 **Content shape:** Decoder-in-story form. Anchor is the unfakeable proprietary detail: PBS pulled the reconciliation, found the shortfall, recovered six figures on a clause most employers do not know is there.

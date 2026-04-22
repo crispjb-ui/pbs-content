@@ -247,7 +247,7 @@ This week's Benefit Blind Spots includes a **clinical program evaluation scoreca
 ## Post 117 - Tuesday 10:00 AM
 ### "4 Things Your PBM's Quarterly Report Does Not Show" — Ledger Annotated Messy Infographic
 
-**Template:** Ledger with Handwritten Annotations messy infographic from `claude_design_prompts.md` (template #18). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Ledger with Handwritten Annotations messy infographic from `claude_design_prompts.md` (template #19). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W4 slot, third cycle)
 **Pillar:** Transparency & Industry Education (different from Monday's Clinical Pharmacy / Clinical Program ROI topic)
 **Content shape:** Decoder (22-25K impression floor on the decoder × messy × Transparency combination). Points at what the PBM omits from the report, not at what the contract says.

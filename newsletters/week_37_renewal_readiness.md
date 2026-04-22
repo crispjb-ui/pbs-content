@@ -494,7 +494,7 @@ Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_rev
 ## Post 137 - Tuesday 10:00 AM
 ### "What 'Industry Standard' Actually Means in PBM Proposals" — Marked-Up Contract Page Decoder
 
-**Template:** Marked-Up Contract Page messy infographic (template #15). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Visual parity with W20 and W26 Marked-Up Contract Page decoders.
+**Template:** Marked-Up Contract Page messy infographic (template #16). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Visual parity with W20 and W26 Marked-Up Contract Page decoders.
 **Format class:** Messy infographic (Tuesday Cycle-W4 slot, fourth cycle)
 **Pillar:** Transparency & Industry Education (different from Monday's PBM Contract Insights / Renewal Readiness topic)
 **Content shape:** Decoder (22-25K impression floor on decoder × messy × Transparency). The three-times-proven combination, closing Q3 on the pillar and format with the highest conversion rate in the data.

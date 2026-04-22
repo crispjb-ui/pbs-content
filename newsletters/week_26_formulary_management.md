@@ -294,7 +294,7 @@ This week's Benefit Blind Spots includes a **formulary decision audit**: seven s
 ## Post 93 - Tuesday 10:00 AM
 ### "The Formulary Decision You Never Made" — Marked-Up Contract Page Decoder
 
-**Template:** Marked-Up Contract Page messy infographic (template #15) from `claude_design_prompts.md`. Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Marked-Up Contract Page messy infographic (template #16) from `claude_design_prompts.md`. Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W4 slot, second cycle)
 **Pillar:** Transparency & Industry Education (different from Monday's Clinical Pharmacy / Formulary Management topic)
 **Content shape:** Decoder (the proven 20-25K combination of decoder shape × messy format × Transparency pillar). The message: a "customized formulary" line in your contract does not mean you made the decisions.

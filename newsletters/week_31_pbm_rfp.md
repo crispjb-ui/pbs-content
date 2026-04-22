@@ -312,7 +312,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 ## Post 113 - Tuesday 10:00 AM
 ### "Three Cost Containment Levers. Three Different Clocks." — Mountain Clean Infographic
 
-**Template:** Mountain clean infographic from `claude_design_prompts.md` (template #9 — "The 90-Day Renewal Climb"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Mountain clean infographic from `claude_design_prompts.md` (template #10 — "The 90-Day Renewal Climb"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Clean Infographic (Tuesday Cycle-W3 slot, third cycle)
 **Pillar:** Cost Containment Strategies (different from Monday's PBM Contract Insights / PBM RFP topic)
 **Content shape:** Metaphor-driven topic brief. Third entry in the Clean Info rotation: Iceberg (W19) → Funnel (W28) → Mountain (W31) → Bridge (W34).

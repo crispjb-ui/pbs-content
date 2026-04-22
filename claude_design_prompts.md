@@ -12,32 +12,37 @@ Every prompt assumes these are loaded:
 - **Accent Blue:** #A7E0FA (light blue)
 - **Gray:** #4D4D4D (body text)
 - **White:** #FFFFFF (backgrounds)
-- **Headers:** Krona One
-- **Body:** Roboto
+- **Display / headlines:** Plex Sans SemiBold (600)
+- **Body / labels:** Plex Sans Regular (400), Medium (500), Bold (700) for headings only
+- **Numbers, dates, NDCs, dollar figures, stat counts:** Plex Mono Medium, tabular figures
+- **Emphasis in prose:** italic. Never bold inside running prose.
+- **Uppercase:** labels and micro-captions only, with +4% to +8% letter tracking. Never on buttons, headings, or body.
 - **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+- **Retired:** Krona One and Roboto are retired from active prompts. Krona One reads too quirky-editorial for a clinical-credibility category; Roboto is kept only as a silent fallback on machines missing Plex.
 - **Rule:** No logos, no publication badges, no people, no watermarks on LinkedIn feed images. Feed posts come from Ginny Crisp's personal profile, not Benefit Blind Spots.
 
 ---
 
 ## Format catalog
 
-Twelve templates. Four base formats plus eight metaphor infographics.
+Thirteen templates. Five base formats plus eight metaphor infographics, plus seven hybrid messy formats below.
 
-**Base formats:**
+**Base formats (narrative carousel masters + single image):**
 1. Clean single-image infographic
-2. Seven-slide carousel (master template)
-3. Whiteboard carousel
-4. Contract comparison carousel
+2. Seven-slide carousel (master template) — RETIRED from active rotation
+3. Whiteboard carousel — Template B
+4. Contract comparison carousel — Template A (PROVEN, April 2026)
+5. One Number carousel — Template C (PROVEN, April 2026)
 
 **Metaphor infographics (single image):**
-5. Iceberg
-6. Bridge
-7. Funnel
-8. Stopwatch
-9. Mountain
-10. Door / Gateway
-11. Tree
-12. Maze
+6. Iceberg
+7. Bridge
+8. Funnel
+9. Stopwatch
+10. Mountain
+11. Door / Gateway
+12. Tree
+13. Maze
 
 ---
 
@@ -47,9 +52,9 @@ Twelve templates. Four base formats plus eight metaphor infographics.
 Create a clean, professional LinkedIn infographic as an HTML+CSS artifact at 1080 x 1350 pixels (4:5 vertical).
 
 Layout:
-- Top 15%: Deep teal-blue (#015880) header band. White Krona One headline, 48pt, centered: "[HEADLINE]". Below it, Accent Blue (#A7E0FA) Roboto Italic subhead, 20pt: "[SUBHEAD]".
-- Middle 70%: White background. Five stacked rows, each with bold Krona One label in Primary Blue (left 30%, 36pt) and Roboto Gray body (right 70%, 18pt, left-aligned). 2px Accent Blue horizontal dividers between rows.
-- Bottom 15%: Accent Blue footer band. Primary Blue Roboto Bold 16pt centered: "[CTA]".
+- Top 15%: Deep teal-blue (#015880) header band. White Plex Sans SemiBold headline, 48pt, centered: "[HEADLINE]". Below it, Accent Blue (#A7E0FA) Plex Sans Italic subhead, 20pt: "[SUBHEAD]".
+- Middle 70%: White background. Five stacked rows, each with Plex Sans SemiBold label in Primary Blue (left 30%, 36pt) and Plex Sans Regular Gray body (right 70%, 18pt, left-aligned). 2px Accent Blue horizontal dividers between rows. Any dollar figures or stat counts in the body render in Plex Mono Medium tabular figures.
+- Bottom 15%: Accent Blue footer band. Primary Blue Plex Sans SemiBold 16pt centered: "[CTA]".
 - 80px horizontal padding, 40px between rows.
 - No icons, no logos, no emojis. Typography does the work.
 
@@ -60,7 +65,9 @@ Render as HTML+CSS artifact exportable as PNG.
 
 ---
 
-## 2. Seven-slide carousel (master)
+## 2. Seven-slide carousel (master) — RETIRED
+
+**Status:** Retired from active rotation per CLAUDE.md. The three narrative masters (Contract Comparison #4, Whiteboard #3, One Number #5) cover every job this master was doing. Kept in this file for reference only; do not schedule.
 
 ```
 Create a 7-slide LinkedIn carousel as an HTML+CSS artifact. Each slide 1080 x 1350 px. Render all 7 stacked in preview, exportable individually.
@@ -68,73 +75,124 @@ Create a 7-slide LinkedIn carousel as an HTML+CSS artifact. Each slide 1080 x 13
 Visual system:
 - Primary Blue (#015880) backgrounds on cover and closing slides
 - White backgrounds on content slides (2-6) with Primary Blue text
-- Krona One for headlines (48pt cover, 40pt content)
-- Roboto for body (20-22pt) and labels (14-16pt, uppercase, letter-spaced)
+- Plex Sans SemiBold for headlines (48pt cover, 40pt content)
+- Plex Sans Regular for body (20-22pt); labels in Plex Sans SemiBold 14-16pt uppercase with +6% letter tracking
+- Plex Mono Medium tabular figures for any number, date, or stat count
 - Accent Blue (#A7E0FA) for highlights and key data
 - Gray (#4D4D4D) for secondary text
 - 60px horizontal padding
-- Slide number bottom right: "N / 7" Gray 14pt
+- Slide number bottom right: "N / 7" Plex Mono Medium Gray 14pt
 
-Slide 1 cover: full Primary Blue. Krona One headline white 60pt centered. Subhead Accent Blue Roboto Italic 24pt. ">>>" swipe indicator top right.
+Slide 1 cover: full Primary Blue. Plex Sans SemiBold headline white 60pt centered. Subhead Accent Blue Plex Sans Italic 24pt. ">>>" swipe indicator top right.
 
-Slides 2-6 content: white background. Accent Blue label top-left uppercase. Primary Blue Krona One headline 40pt. Gray body 22pt (max 40 words). One visual emphasis per slide: pull number in Primary Blue 80pt, or Accent Blue highlight box.
+Slides 2-6 content: white background. Accent Blue label top-left Plex Sans SemiBold uppercase. Primary Blue Plex Sans SemiBold headline 40pt. Gray Plex Sans Regular body 22pt (max 40 words). One visual emphasis per slide: pull number in Plex Mono Medium Primary Blue 80pt tabular, or Accent Blue highlight box.
 
-Slide 7 close: full Primary Blue. Krona One white 48pt. Supporting Accent Blue Roboto 24pt. Footer white Roboto 16pt.
+Slide 7 close: full Primary Blue. Plex Sans SemiBold white 48pt. Supporting Accent Blue Plex Sans Regular 24pt. Footer white Plex Sans Regular 16pt.
 
 Content: [per slide]
 ```
 
 ---
 
-## 3. Whiteboard carousel (7 slides)
+## 3. Whiteboard carousel (7 slides) — Template B, PROVEN
+
+**Production-tested:** Reused across Weeks 18, 25, and 35 with visual parity. Handwriting is the aesthetic, so the typography rule is narrower here: any computer-set typography must be Plex Sans SemiBold (small subtitle and CTA lines only).
 
 ```
 Create a 7-slide LinkedIn carousel as HTML+CSS artifact. 1080 x 1350 px per slide.
 
 Visual system:
 - Background: soft off-white (#F8F5ED) with subtle paper grain texture, simulating a whiteboard
-- All text in handwritten marker style (Caveat or Permanent Marker font)
+- All primary text in handwritten marker style (Caveat or Permanent Marker font)
 - Primary Blue (#015880) for marker text
 - Accent Blue (#A7E0FA) for marker highlights (drawn rectangles, circles, underlines)
+- Red marker (#C0392B) for strikethroughs, retired language, walk/risk annotations
 - Gray (#4D4D4D) for secondary
 - Slight imperfections: marker strokes not perfectly straight, corners of boxes not quite meeting, light smudges
+- Small Plex Sans SemiBold typographic elements only on Slide 1 (subtitle line) and Slide 7 (CTA line)
+- Numbers rendered in marker style on content slides; when a slide carries a single anchor figure, render it in Plex Mono Medium tabular figures as a clean overlay
 - No logos
-- Slide number bottom right: small Gray "N/7"
+- Slide number bottom right: small Gray Plex Mono Medium "N / 7"
 
-Cover: Primary Blue hand-lettered headline 80pt. Gray subhead 28pt. Small arrow and "swipe" bottom right.
+Cover: Primary Blue hand-lettered headline 80pt. Gray subhead 28pt (marker, with small Plex Sans SemiBold subtitle line below in Gray 14pt). Small arrow and "swipe" bottom right.
 
 Content slides: hand-drawn label box top-left (Primary Blue outline, 18pt inside). Main headline Primary Blue 40pt. One circled or highlighted key phrase in Accent Blue marker. Body Gray 22pt, 3-5 lines. One hand-drawn arrow, bracket, or underline per slide.
 
-Close: hand-lettered takeaway Primary Blue 56pt. Signature-style "— Ginny" line Gray 20pt. Accent Blue horizontal line across bottom.
+Close: hand-lettered takeaway Primary Blue 56pt. Signature-style "— Ginny" line Gray 20pt (Plex Sans Italic). Accent Blue horizontal line across bottom. Small Plex Sans SemiBold CTA line in Gray 14pt under signature.
 
 Style: feels like a pharmacist working through reasoning on a whiteboard. Deliberately imperfect.
 ```
 
 ---
 
-## 4. Contract comparison carousel (7 slides) — PROVEN (April 2026)
+## 4. Contract comparison carousel (7 slides) — Template A, PROVEN (April 2026)
 
-**Production-tested:** First built for Week 17 Tuesday (April 22, 2026) and came out production-quality. Reuse as a template for future contract-comparison carousels. Save the Claude design project as "Contract Comparison Carousel Template v1."
+**Production-tested:** First built for Week 17 Tuesday (April 22, 2026) and came out production-quality. Reused for Library 01 (April 21), 02 (Week 21), 03 (Week 24), 04 (Week 27), 05 (Week 33), 06 (Week 36). Save the Claude design project as "Contract Comparison Carousel Template v1."
 
 ```
 Create a 7-slide LinkedIn carousel as HTML+CSS artifact. 1080 x 1350 px per slide.
 
-Visual system: split vertical layout with top half and bottom half clearly separated.
-- Top half background: Accent Blue (#A7E0FA) with Primary Blue text
-- Bottom half background: Primary Blue (#015880) with white text
-- Krona One for labels (uppercase, letter-spaced)
-- Roboto Italic for quoted contract language
+Visual system: cover and close use solid Primary Blue; content slides use a split off-white paper / Primary Blue layout.
+- Cover + close background: Primary Blue (#015880)
+- Content slide top half: off-white paper (#F5F0E4) with typed Plex Mono 11-12pt black contract text
+- Content slide bottom half: Primary Blue (#015880) with white text
+- Plex Sans SemiBold for labels (uppercase, +6% letter tracking)
+- Plex Mono Medium for quoted contract language (reads as typeset legal document)
+- Red (#C0392B) strikethroughs on retired / weak language
+- Accent Blue (#A7E0FA) highlights on inserted protective language
 - 60px horizontal, 40px vertical padding
-- Slide number bottom right in small Gray
+- Slide number bottom right: "N / 7" Plex Mono Medium 14pt
+- "PBM CONTRACT LANGUAGE · LIBRARY NN" eyebrow top-left on cover in Plex Sans SemiBold 14pt white, +6% tracking
+- PBS word-mark top-right on cover and close; "rxbs.org" bottom-left in Plex Mono Medium 14pt
 
-Cover: full Primary Blue. White Krona One 56pt title. Accent Blue Roboto Italic 24pt subhead. Bottom right: "swipe for the comparison".
+Cover: full Primary Blue. White Plex Sans SemiBold 56pt title. Accent Blue Plex Sans Italic 24pt subhead. Bottom right: "swipe for the comparison".
 
 Content slides (each slide = one provision compared):
-- Top half: "WHAT YOU MIGHT SEE" label Krona One 16pt. Weak quoted language Roboto Italic 26pt in quotes. Small caption Roboto Italic 16pt: [what it actually means].
-- Bottom half: "WHAT TO ASK FOR" label Krona One Accent Blue 16pt. Strong quoted language white Roboto Italic 24pt in quotes. Provision name tag bottom Accent Blue Roboto Bold 14pt.
+- Top half: "WHAT YOU MIGHT SEE" label Plex Sans SemiBold 16pt uppercase Gray. Weak quoted language Plex Mono 12pt black, with red (#C0392B) strikethroughs on the phrases being retired. Small caption Plex Sans Italic 14pt Gray: [what it actually means].
+- Bottom half: "WHAT TO ASK FOR" label Plex Sans SemiBold Accent Blue 16pt uppercase, +6% tracking. Strong quoted language white Plex Mono 12pt, with Accent Blue (#A7E0FA) highlights on the inserted protective phrases. Provision name tag bottom Accent Blue Plex Sans SemiBold 14pt.
+- "WHY IT MATTERS" panel across the bottom ~18% of the slide height: Primary Blue background, white Plex Sans Regular 16pt body, 2-3 lines.
 
-Close: full Primary Blue. Krona One white 48pt takeaway. Accent Blue Roboto 20pt support line. Small Accent Blue link: benefitblindspots.substack.com/p/pbm-contract-language-library
+Close: full Primary Blue. Plex Sans SemiBold white 48pt takeaway. Accent Blue Plex Sans Regular 20pt support line. Small Accent Blue link: benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
+
+---
+
+## 5. One Number carousel (7 slides) — Template C, PROVEN (April 2026)
+
+**Production-tested:** First built for Week 22 Tuesday (biosimilar strategy CFO metrics). Reused for Week 30 (Q4 renewal prep decisions) and Week 32 (clinical program ROI). Save the Claude design project as "One Number Carousel Template v1." Visual parity across all One Number entries anchors on one large Plex Mono tabular figure per content slide, a Plex Sans SemiBold label above, a Plex Sans Regular interpretation block below, and a Primary Blue "WHY IT MATTERS" panel across the bottom.
+
+**When to reach for it:** quantitative argument, dollar comparisons, stat-forward topics, deadline stacks, 5-number CFO metric decks. Any week where each slide earns its place by anchoring on a single figure, date, or count and interpreting it in one or two lines.
+
+```
+Create a 7-slide LinkedIn carousel as HTML+CSS artifact. 1080 x 1350 px per slide.
+
+Visual system: cover and close use solid Primary Blue; content slides (2-6) are white with one dominant number per slide.
+- Cover + close background: Primary Blue (#015880)
+- Content slide background: white (#FFFFFF)
+- Plex Sans SemiBold for display headlines and labels
+- Plex Sans Regular for interpretation body copy
+- Plex Sans Italic + Accent Blue (#A7E0FA) for emphasis words inside headlines
+- Plex Mono Medium, tabular figures, for every dollar figure, percentage, date, count, or ratio — this is the non-negotiable rule of the template
+- Primary Blue (#015880) "WHY IT MATTERS" panel across the bottom ~18% of every content slide, white Plex Sans Regular 16pt body
+- 60px horizontal, 40px vertical padding
+- Slide-number footer "N / 7" Plex Mono Medium 14pt bottom-right on every slide
+- "PBS [CONTEXT] · [MODIFIER]" eyebrow top-left on cover only, Plex Sans SemiBold 14pt white, +6% letter tracking (examples: "PBS CFO METRICS · Q3", "PBS Q4 DECISIONS · 2026 RENEWAL PREP", "PBS CLINICAL ROI · MID-YEAR")
+- PBS word-mark top-right on cover and close; "rxbs.org" bottom-left Plex Mono Medium 14pt
+
+Cover (Slide 1): full Primary Blue. Plex Sans SemiBold 56pt white display headline, centered-left, with one italic Accent Blue emphasis word inside the headline. Plex Sans Italic 22pt Accent Blue subhead below the headline. Bottom-right Plex Sans SemiBold 18pt white: "SWIPE FOR THE NUMBERS →". Cover eyebrow top-left in Plex Sans SemiBold 14pt white, +6% tracking.
+
+Content slides (Slides 2-6): white background. Top zone: Plex Sans SemiBold 24pt Primary Blue label "Number N · [what the number measures]". Center zone: one large Plex Mono Medium tabular figure, 180-220pt, Primary Blue. Variants permitted: a side-by-side pair separated by Plex Sans SemiBold Accent Blue "vs." (e.g., "Actual vs Guarantee"), a stylized arrow or direction symbol for trend slides, a clean ratio rendered as "numerator / denominator" in Plex Mono Medium. Small arrow or directional symbol in Accent Blue next to the figure where direction matters. Below the figure: Plex Sans Regular 20pt Primary Blue, two lines max, interpretation of what the number actually means for the plan. Bottom panel (~18%): Primary Blue background, white Plex Sans Regular 16pt body, 2-3 lines, framing the number as a decision input.
+
+Close (Slide 7): full Primary Blue. Plex Sans SemiBold 52pt white, centered-left, with one italic Accent Blue emphasis phrase. Plex Sans Regular 20pt white support line below. Bottom block Plex Sans Regular 16pt Accent Blue CTA line (e.g., "Send this to your CFO. team@rxbs.org | Benefit Blind Spots"). Bottom-right Plex Mono Medium 14pt Accent Blue: "07 / 07". Bottom-left Plex Mono Medium 14pt white: "rxbs.org".
+```
+
+**Post-generation QC (locked):**
+
+1. Tabular alignment on every Plex Mono figure — decimals, commas, and digit widths must sit on the same grid across Slides 2-6.
+2. Each content slide is visually dominated by its figure. If the figure does not command at least 40% of the slide's visual weight, scale up.
+3. "WHY IT MATTERS" panels land at the same vertical position on all five content slides.
+4. Italic Accent Blue emphasis appears once on cover and once on close — never more, never in running prose on content slides.
+5. Eyebrow format holds: `PBS [CONTEXT] · [MODIFIER]`, uppercase, +6% tracking.
 
 ---
 
@@ -143,9 +201,10 @@ Close: full Primary Blue. Krona One white 48pt takeaway. Accent Blue Roboto 20pt
 | Format | Project type | Reason |
 |--------|--------------|--------|
 | Clean single-image infographic | **Prototype** | HTML+CSS artifact, export as PNG |
-| Seven-slide carousel (master) | **Slide deck from template** | Native multi-slide handling, batch export |
-| Whiteboard carousel | **Slide deck from template** | Multi-slide, consistent visual system |
-| Contract comparison carousel | **Slide deck from template** | Split-layout consistency across slides |
+| Seven-slide carousel (master) — RETIRED | — | Kept for reference; do not schedule |
+| Whiteboard carousel (Template B) | **Slide deck from template** | Multi-slide, consistent visual system |
+| Contract comparison carousel (Template A) | **Slide deck from template** | Split-layout consistency across slides |
+| One Number carousel (Template C) | **Slide deck from template** | Multi-slide number-forward consistency |
 | All metaphor infographics (iceberg, bridge, funnel, stopwatch, mountain, door, tree, maze) | **Prototype** | Single-image vector-style output, export as PNG |
 
 **Rule of thumb:** If it is one image = Prototype. If it is multiple slides = Slide deck from template.
@@ -159,7 +218,7 @@ Do NOT use Document (wrong output format) or Website (no clean export path to st
 
 ---
 
-## 5. Iceberg: "What You See vs. What You Pay"
+## 6. Iceberg: "What You See vs. What You Pay"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration style, not 3D.
@@ -167,50 +226,50 @@ Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration 
 TOP 40% (above waterline):
 - Sky gradient from very light Accent Blue (#A7E0FA) to white
 - Iceberg tip in white with thin Primary Blue outline
-- Five small Roboto Bold 16pt labels floating around the tip with thin connecting lines: "Admin fees", "Rebate guarantees", "Pricing discounts", "Clinical programs", "Network access"
-- Top label in Krona One Primary Blue 32pt centered: "WHAT YOU SEE"
+- Five small Plex Sans SemiBold 16pt labels floating around the tip with thin connecting lines: "Admin fees", "Rebate guarantees", "Pricing discounts", "Clinical programs", "Network access"
+- Top label in Plex Sans SemiBold Primary Blue 32pt centered, +6% letter tracking: "WHAT YOU SEE"
 
-WATERLINE (4%): Accent Blue horizontal wave line. Small Gray Roboto Italic 14pt right: "contract surface".
+WATERLINE (4%): Accent Blue horizontal wave line. Small Gray Plex Sans Italic 14pt right: "contract surface".
 
 BOTTOM 56% (below waterline):
 - Gradient from Accent Blue to Primary Blue
 - Larger iceberg mass white with thin outline, 70% of section
-- Seven white Roboto Bold 16pt labels with connecting lines: "Formulary placement fees", "Market share rebates", "Administrative service fees", "Data licensing revenue", "GPO arrangements", "Manufacturer direct payments", "Affiliate margin on specialty"
-- Bottom label Krona One white 32pt centered: "WHAT YOU PAY"
+- Seven white Plex Sans SemiBold 16pt labels with connecting lines: "Formulary placement fees", "Market share rebates", "Administrative service fees", "Data licensing revenue", "GPO arrangements", "Manufacturer direct payments", "Affiliate margin on specialty"
+- Bottom label Plex Sans SemiBold white 32pt centered, +6% letter tracking: "WHAT YOU PAY"
 
-FOOTER (5%): Primary Blue band. White Roboto Bold 14pt centered: "The gap between visible and invisible revenue is where your contract either protects you or does not."
+FOOTER (5%): Primary Blue band. White Plex Sans SemiBold 14pt centered: "The gap between visible and invisible revenue is where your contract either protects you or does not."
 
 No logos, no people. Palette strict: Primary Blue #015880, Accent Blue #A7E0FA, White, Gray #4D4D4D.
 ```
 
 ---
 
-## 6. Bridge: "Weak Contract Language to Strong Contract Language"
+## 7. Bridge: "Weak Contract Language to Strong Contract Language"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration.
 
-TOP (15%): Krona One Primary Blue 40pt centered: "THE CONTRACT LANGUAGE BRIDGE". Gray Roboto Italic 18pt subhead: "From vague promises to enforceable guarantees".
+TOP (15%): Plex Sans SemiBold Primary Blue 40pt centered, +6% letter tracking: "THE CONTRACT LANGUAGE BRIDGE". Gray Plex Sans Italic 18pt subhead: "From vague promises to enforceable guarantees".
 
-LEFT TOWER (30% of canvas, bottom-left): Tall Gray (#4D4D4D) rectangle. Above: Krona One Primary Blue 28pt "WHERE YOU ARE". Inside tower, three lines stacked white Roboto Bold 16pt: "'Competitive pricing'", "'Reasonable audit access'", "'Timely turnaround'".
+LEFT TOWER (30% of canvas, bottom-left): Tall Gray (#4D4D4D) rectangle. Above: Plex Sans SemiBold Primary Blue 28pt "WHERE YOU ARE". Inside tower, three lines stacked white Plex Sans SemiBold 16pt: "'Competitive pricing'", "'Reasonable audit access'", "'Timely turnaround'".
 
-RIGHT TOWER (30% of canvas, bottom-right): Taller Primary Blue rectangle. Above: Krona One Primary Blue 28pt "WHERE YOU GO". Inside, three lines white Roboto Bold 16pt: "'GER minimum 85%'", "'Full claims and rebate audit'", "'48-hour PA turnaround'".
+RIGHT TOWER (30% of canvas, bottom-right): Taller Primary Blue rectangle. Above: Plex Sans SemiBold Primary Blue 28pt "WHERE YOU GO". Inside, three lines white Plex Sans SemiBold 16pt: "'GER minimum 85%'", "'Full claims and rebate audit'", "'48-hour PA turnaround'". The "85%" and "48-hour" render in Plex Mono Medium tabular figures.
 
-BRIDGE (center, connecting towers): Arc in Accent Blue (#A7E0FA). Three stepping stones on the arc as small Primary Blue circles with white Roboto Bold 14pt numbers 1, 2, 3. Above each: Gray Roboto 14pt: "Audit your current contract", "Benchmark to market", "Redline before renewal".
+BRIDGE (center, connecting towers): Arc in Accent Blue (#A7E0FA). Three stepping stones on the arc as small Primary Blue circles with white Plex Mono Medium 14pt numbers 1, 2, 3. Above each: Gray Plex Sans Regular 14pt: "Audit your current contract", "Benchmark to market", "Redline before renewal".
 
-BOTTOM (10%): Primary Blue band. White Roboto Bold 14pt centered: "Three steps. Three months. Fundamentally different negotiating position."
+BOTTOM (10%): Primary Blue band. White Plex Sans SemiBold 14pt centered: "Three steps. Three months. Fundamentally different negotiating position."
 
 No logos, no people. Palette: Primary Blue, Accent Blue, Gray, White.
 ```
 
 ---
 
-## 7. Funnel: "Your Pharmacy Dollar: Where It Actually Goes"
+## 8. Funnel: "Your Pharmacy Dollar: Where It Actually Goes"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration.
 
-TOP (15%): White background. Krona One Primary Blue 44pt centered: "$100 OF PHARMACY SPEND". Gray Roboto Italic 18pt subhead: "Where the dollars go. Most employers never trace this." Primary Blue Krona One 72pt "$100" centered below subhead.
+TOP (15%): White background. Plex Sans SemiBold Primary Blue 44pt centered, +6% letter tracking on the dollar label: "$100 OF PHARMACY SPEND". Gray Plex Sans Italic 18pt subhead: "Where the dollars go. Most employers never trace this." Primary Blue Plex Mono Medium 72pt tabular "$100" centered below subhead.
 
 FUNNEL (70%): Wide at top, narrows to point at bottom. Primary Blue outline 3px stroke. Five horizontal bands inside, each a different tint:
 - Band 1 widest top: Accent Blue (#A7E0FA) - "Drug acquisition cost" - "$62"
@@ -218,9 +277,9 @@ FUNNEL (70%): Wide at top, narrows to point at bottom. Primary Blue outline 3px 
 - Band 3: mid Primary Blue - "PBM admin fee" - "$8"
 - Band 4: darker Primary Blue - "Rebate retained by PBM" - "$12"
 - Band 5 narrowest bottom: deep Primary Blue - "Net to plan in true savings" - "$14"
-Each band: dollar amount in Krona One 36pt white centered. Right of each band: Roboto Bold Gray 18pt label left-aligned.
+Each band: dollar amount in Plex Mono Medium 36pt white, tabular figures, centered. Right of each band: Plex Sans SemiBold Gray 18pt label left-aligned.
 
-BOTTOM (15%): Primary Blue background. White Krona One 28pt: "14% NET TO YOUR PLAN". White Roboto 16pt: "The other 86% is the math you need to interrogate."
+BOTTOM (15%): Primary Blue background. White Plex Sans SemiBold 28pt with "14%" in Plex Mono Medium tabular: "14% NET TO YOUR PLAN". White Plex Sans Regular 16pt: "The other 86% is the math you need to interrogate." ("86%" in Plex Mono Medium.)
 
 Note: dollar allocations illustrative, not plan-specific.
 No logos, no people. Palette strict.
@@ -228,129 +287,129 @@ No logos, no people. Palette strict.
 
 ---
 
-## 8. Stopwatch: "How Long Until Your PBM Actually Responds"
+## 9. Stopwatch: "How Long Until Your PBM Actually Responds"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration.
 
-TOP (15%): White background. Krona One Primary Blue 40pt centered: "PA TURNAROUND TIME". Gray Roboto Italic 18pt centered subhead: "From prescription to approval. The gap matters."
+TOP (15%): White background. Plex Sans SemiBold Primary Blue 40pt centered, +6% letter tracking: "PA TURNAROUND TIME". Gray Plex Sans Italic 18pt centered subhead: "From prescription to approval. The gap matters."
 
-STOPWATCH (60%, centered): Large circular stopwatch white background with 4px Primary Blue stroke. Hour/minute markers as small Primary Blue lines every 30 degrees. Crown/button top in Primary Blue. Inside, three colored wedges:
-- GREEN zone (Accent Blue #A7E0FA), 12 o'clock to 3 o'clock (25% of face): "UNDER 24 HOURS" Primary Blue Roboto Bold 14pt inside wedge
+STOPWATCH (60%, centered): Large circular stopwatch white background with 4px Primary Blue stroke. Hour/minute markers as small Primary Blue lines every 30 degrees. Crown/button top in Primary Blue. Inside, three colored wedges, zone labels in Plex Sans SemiBold 14pt uppercase with "24" / "72" numerals in Plex Mono Medium tabular:
+- GREEN zone (Accent Blue #A7E0FA), 12 o'clock to 3 o'clock (25% of face): "UNDER 24 HOURS" Primary Blue inside wedge
 - YELLOW zone (Gray at 30% opacity), 3 o'clock to 9 o'clock (50%): "24 TO 72 HOURS"
 - RED zone (deeper Primary Blue full saturation), 9 o'clock to 12 o'clock (25%): "OVER 72 HOURS" white
 Clock hand Primary Blue pointing 9 o'clock (entering red). Small Accent Blue center dot.
 
 BELOW STOPWATCH (15%): Three equal columns, label above text below:
-- "GREEN" Krona One 22pt Primary Blue. Below: "Access preserved. Friction justifies clinical benefit."
-- "YELLOW" Krona One 22pt Gray. Below: "Acceptable for most. Negotiate for faster."
-- "RED" Krona One 22pt deep Primary Blue. Below: "Members are abandoning therapy. Fix this."
+- "GREEN" Plex Sans SemiBold 22pt Primary Blue. Below Plex Sans Regular 16pt: "Access preserved. Friction justifies clinical benefit."
+- "YELLOW" Plex Sans SemiBold 22pt Gray. Below: "Acceptable for most. Negotiate for faster."
+- "RED" Plex Sans SemiBold 22pt deep Primary Blue. Below: "Members are abandoning therapy. Fix this."
 
-FOOTER (10%): Primary Blue band. White Krona One 20pt "CHECK YOUR CONTRACT". White Roboto 14pt: "PA turnaround guarantees are negotiable. Most contracts do not have them."
+FOOTER (10%): Primary Blue band. White Plex Sans SemiBold 20pt "CHECK YOUR CONTRACT". White Plex Sans Regular 14pt: "PA turnaround guarantees are negotiable. Most contracts do not have them."
 
 No logos, no people. Palette strict.
 ```
 
 ---
 
-## 9. Mountain: "The 90-Day Renewal Climb"
+## 10. Mountain: "The 90-Day Renewal Climb"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration.
 
-TOP (12%): White background. Krona One Primary Blue 40pt centered: "THE 90-DAY RENEWAL CLIMB". Gray Roboto Italic 18pt subhead: "Where negotiating position gets built."
+TOP (12%): White background. Plex Sans SemiBold Primary Blue 40pt centered, +6% letter tracking: "THE 90-DAY RENEWAL CLIMB". Gray Plex Sans Italic 18pt subhead: "Where negotiating position gets built."
 
 MOUNTAIN (73%): Large mountain silhouette filling majority of canvas. Mountain in Primary Blue with three distinct plateau ledges. Sky behind in very pale Accent Blue gradient. Thin path traced up the mountain in dashed white line.
 
-Three plateau labels, each with Krona One Primary Blue label and Roboto body:
+Three plateau labels, each with Plex Sans SemiBold Primary Blue label (week range in Plex Mono Medium tabular) and Plex Sans Regular body:
 - BASE CAMP (bottom-left of mountain): "WEEKS 1-4" label. Body: "Pull data. Benchmark. Identify priorities."
 - MID-CAMP (middle of mountain): "WEEKS 5-8" label. Body: "Read the contract. Draft the term sheet. Coordinate with advisors."
 - SUMMIT APPROACH (near peak): "WEEKS 9-12" label. Body: "Opening position. PBM meeting. Counter-offer. Close."
 
-Small Primary Blue flag on peak. Above the peak, in Krona One Primary Blue 32pt: "RENEWAL".
+Small Primary Blue flag on peak. Above the peak, in Plex Sans SemiBold Primary Blue 32pt, +6% letter tracking: "RENEWAL".
 
-BOTTOM (15%): Primary Blue band. White Krona One 22pt "START AT WEEK 1". White Roboto 14pt: "Thirty days out is reactive. Ninety days out is negotiated."
+BOTTOM (15%): Primary Blue band. White Plex Sans SemiBold 22pt "START AT WEEK 1" ("1" in Plex Mono Medium). White Plex Sans Regular 14pt: "Thirty days out is reactive. Ninety days out is negotiated."
 
 No logos, no people, no figures climbing. Palette strict.
 ```
 
 ---
 
-## 10. Door / Gateway: "Your Audit Rights"
+## 11. Door / Gateway: "Your Audit Rights"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration.
 
-TOP (12%): White background. Krona One Primary Blue 40pt centered: "YOUR AUDIT RIGHTS". Gray Roboto Italic 18pt centered: "The door most employers never open."
+TOP (12%): White background. Plex Sans SemiBold Primary Blue 40pt centered, +6% letter tracking: "YOUR AUDIT RIGHTS". Gray Plex Sans Italic 18pt centered: "The door most employers never open."
 
 DOOR (73%, centered): Large rectangular door shape in Primary Blue, slightly ajar (tilted 10 degrees open showing a sliver of bright Accent Blue behind). Gray frame around the door. Gray doorknob on the right side. Small brass-toned lock plate above the knob.
 
-On the closed/Primary Blue portion of the door, five white Roboto Bold 18pt lines stacked:
+On the closed/Primary Blue portion of the door, five white Plex Sans SemiBold 18pt lines stacked:
 "Reasonable notice"
 "PBM-approved auditor"
 "Summary data only"
 "Recovery caps apply"
 "One audit per year"
 
-Above the door, Krona One Primary Blue 24pt: "WHAT MOST CONTRACTS SAY"
+Above the door, Plex Sans SemiBold Primary Blue 24pt, +6% letter tracking: "WHAT MOST CONTRACTS SAY"
 
-Through the open sliver of the door (Accent Blue), visible: five white Roboto Bold 14pt lines "What is behind the door" suggesting the recovery, the data, the leverage.
+Through the open sliver of the door (Accent Blue), visible: five white Plex Sans SemiBold 14pt lines "What is behind the door" suggesting the recovery, the data, the leverage.
 
-Small Primary Blue key hovering near the lock, with tag Roboto Bold 14pt: "30-DAY NOTICE. NO APPROVAL. FULL SCOPE."
+Small Primary Blue key hovering near the lock, with tag Plex Sans SemiBold 14pt (numeric "30-DAY" in Plex Mono Medium): "30-DAY NOTICE. NO APPROVAL. FULL SCOPE."
 
-BOTTOM (15%): Primary Blue band. White Krona One 20pt "OPEN THE DOOR". White Roboto 14pt: "Contract language determines whether audit rights have teeth or just exist on paper."
+BOTTOM (15%): Primary Blue band. White Plex Sans SemiBold 20pt "OPEN THE DOOR". White Plex Sans Regular 14pt: "Contract language determines whether audit rights have teeth or just exist on paper."
 
 No logos, no people. Palette strict.
 ```
 
 ---
 
-## 11. Tree: "What Your Claims Data Is Growing From"
+## 12. Tree: "What Your Claims Data Is Growing From"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration.
 
-TOP (12%): White background. Krona One Primary Blue 40pt centered: "WHAT YOUR CLAIMS DATA IS GROWING FROM". Gray Roboto Italic 18pt subhead: "The contract roots under every report."
+TOP (12%): White background. Plex Sans SemiBold Primary Blue 40pt centered, +6% letter tracking: "WHAT YOUR CLAIMS DATA IS GROWING FROM". Gray Plex Sans Italic 18pt subhead: "The contract roots under every report."
 
 ABOVE GROUND (40%):
 - Ground line Gray horizontal across midsection
 - Stylized tree with thick Primary Blue trunk and full canopy in Accent Blue (#A7E0FA)
-- Three Krona One Primary Blue 18pt labels floating among canopy: "CLAIMS REPORTS", "REBATE STATEMENTS", "UTILIZATION DATA"
-- Small Gray Roboto Italic 14pt caption below canopy: "What you see"
+- Three Plex Sans SemiBold Primary Blue 18pt labels floating among canopy, +6% letter tracking: "CLAIMS REPORTS", "REBATE STATEMENTS", "UTILIZATION DATA"
+- Small Gray Plex Sans Italic 14pt caption below canopy: "What you see"
 
-TRUNK (15%): Thick Primary Blue trunk meeting ground at center. White Krona One 18pt down the trunk: "PBM ADJUDICATION".
+TRUNK (15%): Thick Primary Blue trunk meeting ground at center. White Plex Sans SemiBold 18pt down the trunk, +6% letter tracking: "PBM ADJUDICATION".
 
 BELOW GROUND (33%):
 - Soil background in pale Gray
 - Root system spreading downward from trunk, roots in Primary Blue
-- Five Krona One Primary Blue 16pt labels scattered among roots: "DEFINITIONS", "FEE STRUCTURE", "REBATE SCOPE", "AUDIT LIMITS", "TERMINATION TERMS"
-- Small Gray Roboto Italic 14pt caption at very bottom: "What you signed"
+- Five Plex Sans SemiBold Primary Blue 16pt labels scattered among roots, +6% letter tracking: "DEFINITIONS", "FEE STRUCTURE", "REBATE SCOPE", "AUDIT LIMITS", "TERMINATION TERMS"
+- Small Gray Plex Sans Italic 14pt caption at very bottom: "What you signed"
 
 Thin dashed Primary Blue arrow pointing from roots upward to canopy with small label "everything flows from here".
 
-BOTTOM (not a separate band, integrated at very bottom of below-ground section): Primary Blue text Roboto Bold 16pt centered: "Every number in your reports is a product of your contract."
+BOTTOM (not a separate band, integrated at very bottom of below-ground section): Primary Blue Plex Sans SemiBold 16pt centered: "Every number in your reports is a product of your contract."
 
 No logos, no people. Palette strict.
 ```
 
 ---
 
-## 12. Maze: "The Path Through PA"
+## 13. Maze: "The Path Through PA"
 
 ```
 Create a clean LinkedIn infographic at 1080 x 1350 px. Flat vector illustration.
 
-TOP (12%): White background. Krona One Primary Blue 40pt centered: "THE PATH THROUGH PA". Gray Roboto Italic 18pt centered: "Most members walk the long one."
+TOP (12%): White background. Plex Sans SemiBold Primary Blue 40pt centered, +6% letter tracking: "THE PATH THROUGH PA". Gray Plex Sans Italic 18pt centered: "Most members walk the long one."
 
-MAZE (73%): White background with Primary Blue maze walls, 4px stroke. Maze covers center of canvas. Entry labeled "PRESCRIPTION" in Krona One Primary Blue 18pt at bottom-left. Exit labeled "APPROVED" in Krona One Primary Blue 18pt at top-right.
+MAZE (73%): White background with Primary Blue maze walls, 4px stroke. Maze covers center of canvas. Entry labeled "PRESCRIPTION" in Plex Sans SemiBold Primary Blue 18pt at bottom-left. Exit labeled "APPROVED" in Plex Sans SemiBold Primary Blue 18pt at top-right. Both labels +6% letter tracking.
 
 Inside maze, two paths drawn:
-- LONG PATH: thin Gray dashed line winding through many dead-ends and turns, passing labels Roboto Bold 14pt Gray: "Initial submission", "Denial", "Appeal", "Clinical review", "Additional documentation", "Peer-to-peer", "Re-submission", "Final approval". Estimated time label in Gray: "11 days average".
-- SHORT PATH: thick Accent Blue (#A7E0FA) straight line with single label in Primary Blue Roboto Bold 16pt: "GOLD CARD". Estimated time label: "Same day".
+- LONG PATH: thin Gray dashed line winding through many dead-ends and turns, passing labels Plex Sans SemiBold 14pt Gray: "Initial submission", "Denial", "Appeal", "Clinical review", "Additional documentation", "Peer-to-peer", "Re-submission", "Final approval". Estimated time label Plex Mono Medium 14pt Gray tabular: "11 days average".
+- SHORT PATH: thick Accent Blue (#A7E0FA) straight line with single label in Primary Blue Plex Sans SemiBold 16pt: "GOLD CARD". Estimated time label Plex Mono Medium: "Same day".
 
 Small icons to mark the two entry points (no detailed illustration, just geometric shapes).
 
-BOTTOM (15%): Primary Blue band. White Krona One 22pt "CONTRACTS SHOULD INCLUDE BOTH PATHS". White Roboto 14pt: "Gold card programs exist. They are just rarely requested."
+BOTTOM (15%): Primary Blue band. White Plex Sans SemiBold 22pt "CONTRACTS SHOULD INCLUDE BOTH PATHS". White Plex Sans Regular 14pt: "Gold card programs exist. They are just rarely requested."
 
 No logos, no people. Palette strict.
 ```
@@ -431,7 +490,7 @@ Formats that combine precise data (clean, defensible) with handwritten authentic
 
 ---
 
-## 13. Chart-on-Whiteboard
+## 14. Chart-on-Whiteboard
 
 ```
 Create a LinkedIn infographic at 1080 x 1350 pixels showing a chart on a real-looking whiteboard.
@@ -455,7 +514,7 @@ Plug in: TITLE, HIGHLIGHTED WORD, UNDERLINED WORD, CHART TYPE, AXES, DATA, CTA.
 
 ---
 
-## 14. Sticky Note Dashboard
+## 15. Sticky Note Dashboard
 
 ```
 Create a LinkedIn infographic at 1080 x 1350 pixels showing a dashboard of sticky notes on a corkboard.
@@ -484,7 +543,7 @@ Plug in: TITLE, 5-6 METRICS with number, label, context. 1-2 ANNOTATIONS. BYLINE
 
 ---
 
-## 15. Marked-Up Contract Page
+## 16. Marked-Up Contract Page
 
 ```
 Create a LinkedIn infographic at 1080 x 1350 pixels showing a contract page with handwritten annotations.
@@ -514,7 +573,7 @@ Plug in: PAGE TITLE, CONTRACT TEXT body (paragraphs), SPECIFIC PHRASES TO HIGHLI
 
 ---
 
-## 16. Annotated Email Screenshot
+## 17. Annotated Email Screenshot
 
 ```
 Create a LinkedIn infographic at 1080 x 1350 pixels showing a screenshot of a PBM email with handwritten annotations overlaid.
@@ -550,7 +609,7 @@ Plug in: EMAIL SUBJECT, EMAIL BODY, PHRASES TO HIGHLIGHT, ANNOTATIONS for each.
 
 ---
 
-## 17. Spreadsheet with Marker Overlay
+## 18. Spreadsheet with Marker Overlay
 
 ```
 Create a LinkedIn infographic at 1080 x 1350 pixels showing a spreadsheet screenshot with handwritten marker annotations.
@@ -584,7 +643,7 @@ Plug in: TITLE, COLUMN HEADERS, ROW DATA (drug names + quarterly values), HIGHLI
 
 ---
 
-## 18. Ledger with Handwritten Annotations
+## 19. Ledger with Handwritten Annotations
 
 ```
 Create a LinkedIn infographic at 1080 x 1350 pixels showing an accountant's ledger page with handwritten entries and marker annotations.
@@ -617,7 +676,7 @@ Plug in: TITLE, COLUMN HEADERS, ROW DATA, ANNOTATIONS.
 
 ---
 
-## 19. Prescription Pad with Annotations
+## 20. Prescription Pad with Annotations
 
 ```
 Create a LinkedIn infographic at 1080 x 1350 pixels showing a prescription pad with printed and handwritten content plus red annotations.
@@ -656,13 +715,13 @@ Plug in: TITLE, DRUG NAME, MEMBER NAME (generic), ANNOTATIONS.
 
 | Format | Best for | First build | Subsequent builds |
 |--------|----------|-------------|-------------------|
-| 13. Chart-on-Whiteboard | Data-driven monthly showcase | 60 min | 20-30 min |
-| 14. Sticky Note Dashboard | 5-metric scorecards | 45 min | 15-20 min |
-| 15. Marked-Up Contract Page | Contract language lessons | 60 min | 30-40 min |
-| 16. Annotated Email Screenshot | PBM language decode | 45 min | 20-25 min |
-| 17. Spreadsheet with Marker Overlay | Claims data stories | 50 min | 20-30 min |
-| 18. Ledger with Annotations | Follow-the-money topics | 60 min | 25-35 min |
-| 19. Prescription Pad with Annotations | Clinical/PA friction | 45 min | 20-25 min |
+| 14. Chart-on-Whiteboard | Data-driven monthly showcase | 60 min | 20-30 min |
+| 15. Sticky Note Dashboard | 5-metric scorecards | 45 min | 15-20 min |
+| 16. Marked-Up Contract Page | Contract language lessons | 60 min | 30-40 min |
+| 17. Annotated Email Screenshot | PBM language decode | 45 min | 20-25 min |
+| 18. Spreadsheet with Marker Overlay | Claims data stories | 50 min | 20-30 min |
+| 19. Ledger with Annotations | Follow-the-money topics | 60 min | 25-35 min |
+| 20. Prescription Pad with Annotations | Clinical/PA friction | 45 min | 20-25 min |
 
 **Strategic note:** These are higher production cost per piece than the base formats, but they produce the highest engagement and the most "save" behavior. Rotate one hybrid format per month (not per week) to keep the effort sustainable.
 
@@ -691,12 +750,13 @@ Which templates have been production-tested and are ready for plug-in-only workf
 
 | Template | Status | First production use | Plug-in only fields |
 |----------|--------|---------------------|---------------------|
-| #4 Contract comparison carousel | PROVEN (April 2026) | Week 17 Tuesday Apr 22 | Cover title, 5 provisions (weak + strong + provision name each), closing takeaway |
+| #4 Contract comparison carousel (Template A) | PROVEN (April 2026) | Week 17 Tuesday Apr 22 | Cover title, 5 provisions (weak + strong + provision name each), closing takeaway |
+| #3 Whiteboard carousel (Template B) | PROVEN (April 2026) | Week 18 Tuesday | Cover title, per-slide label + headline + body, takeaway |
+| #5 One Number carousel (Template C) | PROVEN (April 2026) | Week 22 Tuesday | Cover eyebrow + headline, 5 number / label / interpretation / "WHY IT MATTERS" sets, closing takeaway |
 | #1 Clean single-image infographic | Not yet tested | Pending first use | HEADLINE, SUBHEAD, 5 Label/Body pairs, CTA |
-| #2 Seven-slide carousel (master) | Not yet tested | Pending first use | Cover title/subhead, 5 content slide texts, close takeaway |
-| #3 Whiteboard carousel | Not yet tested | Pending first use | Cover title, per-slide label + headline + body, takeaway |
-| #5-12 Metaphor infographics | Not yet tested | Pending first use | Topic-specific label set |
-| #13-19 Hybrid formats | Not yet tested | Pending first use | Per-template content spec |
+| #2 Seven-slide carousel (master) | RETIRED | — | Not scheduled; reference only |
+| #6-13 Metaphor infographics | Not yet tested | Pending first use | Topic-specific label set |
+| #14-20 Hybrid formats | Not yet tested | Pending first use | Per-template content spec |
 
 **How to make a new template PROVEN:**
 

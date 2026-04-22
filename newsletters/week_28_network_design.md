@@ -262,7 +262,7 @@ This week's Benefit Blind Spots includes a **network cost comparison model**: a 
 ## Post 101 - Tuesday 10:00 AM
 ### "Where 2026 Specialty Dollars Actually Go" — Funnel Clean Infographic
 
-**Template:** Funnel clean infographic from `claude_design_prompts.md` (template #7 — "Your Pharmacy Dollar: Where It Actually Goes"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Funnel clean infographic from `claude_design_prompts.md` (template #8 — "Your Pharmacy Dollar: Where It Actually Goes"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Clean Infographic (Tuesday Cycle-W6 slot)
 **Pillar:** Clinical Pharmacy Perspectives (different from Monday's Cost Containment / Network Design topic)
 **Content shape:** Topic-anchored (Clinical Pharmacy topic, not a decoder this week). Funnel is the rotation's "flow/allocation" metaphor and fits a "where the dollars concentrate" argument without forcing decoder framing.

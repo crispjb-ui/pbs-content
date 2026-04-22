@@ -272,7 +272,7 @@ This week's Benefit Blind Spots includes a **biosimilar readiness assessment**: 
 ## Post 77 - Tuesday 8:30 AM
 ### "5 Numbers Every Self-Funded CFO Should Pull Before Q3" — One Number Carousel
 
-**Template:** One Number carousel (Template C) from `claude_design_prompts.md`. Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
+**Template:** One Number carousel (template #5, Template C, PROVEN) from `claude_design_prompts.md`. Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
 **Format class:** Carousel (Tuesday Cycle-W2 slot)
 **Pillar:** Self-Funded Employer Guidance (different from Monday's Clinical Pharmacy / Biosimilar Strategy topic)
 **Content shape:** Number-forward with decoder framing ("here is the number, here is what it actually tells you"). Proven 20-24K impression range for One Number format (reference: Post 97 One Number Carousel on W15 340B).
@@ -322,7 +322,7 @@ All seven slides render as a One Number Carousel. Cover and close use solid Prim
 
 #### Image Generation Prompt (one prompt produces all seven slides via Claude Design)
 
-Claude Design project type: **Slide deck from template**. Use the One Number carousel (Template C) master from `claude_design_prompts.md` as the base. Generate 7 stacked slides at 1080 x 1350 px each. Shared visual system: Cover (Slide 1) and close (Slide 7) use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold display headlines and Accent Blue (#A7E0FA) italic emphasis words. Content slides (2-6) use white backgrounds with one large Plex Mono Medium tabular figure (or stylized symbol on Slide 2) as the center visual, a Plex Sans SemiBold label above, and a Plex Sans Regular interpretation block below. Every content slide carries a Primary Blue (#015880) "WHY IT MATTERS" panel across the bottom ~18% with white Plex Sans Regular 16pt body. Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right of every slide. Cover eyebrow "PBS CFO METRICS · Q3" top-left in Plex Sans SemiBold 14pt white, +6% letter tracking. Pull slide-by-slide content (labels, numbers, interpretation text, "WHY IT MATTERS" copy) from the spec above, Slide 1 through Slide 7.
+Claude Design project type: **Slide deck from template**. Use the One Number carousel master (template #5, Template C) from `claude_design_prompts.md` as the base. Generate 7 stacked slides at 1080 x 1350 px each. Shared visual system: Cover (Slide 1) and close (Slide 7) use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold display headlines and Accent Blue (#A7E0FA) italic emphasis words. Content slides (2-6) use white backgrounds with one large Plex Mono Medium tabular figure (or stylized symbol on Slide 2) as the center visual, a Plex Sans SemiBold label above, and a Plex Sans Regular interpretation block below. Every content slide carries a Primary Blue (#015880) "WHY IT MATTERS" panel across the bottom ~18% with white Plex Sans Regular 16pt body. Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right of every slide. Cover eyebrow "PBS CFO METRICS · Q3" top-left in Plex Sans SemiBold 14pt white, +6% letter tracking. Pull slide-by-slide content (labels, numbers, interpretation text, "WHY IT MATTERS" copy) from the spec above, Slide 1 through Slide 7.
 
 **Post-Generation Steps:**
 

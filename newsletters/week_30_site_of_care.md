@@ -298,7 +298,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 ## Post 109 - Tuesday 10:00 AM
 ### "5 Self-Funded Decisions That Have to Land Before Year-End" — One Number Carousel
 
-**Template:** One Number carousel (Template C). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W22 One Number carousel.
+**Template:** One Number carousel (template #5, Template C). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W22 One Number carousel.
 **Format class:** Carousel (Tuesday Cycle-W2 slot, third cycle)
 **Pillar:** Self-Funded Employer Guidance (different from Monday's Cost Containment / Site-of-Care topic)
 **Content shape:** Number-forward decision stack. Second One Number carousel in the rotation after W22; each slide anchors on a single date, count, or timing figure with a one-line interpretation and a "WHY IT MATTERS" panel.
@@ -348,7 +348,7 @@ Same visual system as W22 One Number Carousel. Cover and close Primary Blue with
 
 #### Image Generation Prompt
 
-Claude Design project type: **Slide deck from template**. One Number carousel (Template C). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W22 One Number Carousel. Pull slide-by-slide content (labels, numbers/dates, interpretation, "WHY IT MATTERS" copy) from the spec above. Cover eyebrow "PBS Q4 DECISIONS · 2026 RENEWAL PREP."
+Claude Design project type: **Slide deck from template**. One Number carousel (template #5, Template C). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W22 One Number Carousel. Pull slide-by-slide content (labels, numbers/dates, interpretation, "WHY IT MATTERS" copy) from the spec above. Cover eyebrow "PBS Q4 DECISIONS · 2026 RENEWAL PREP."
 
 **Post-Generation Steps:**
 

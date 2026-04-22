@@ -281,7 +281,7 @@ Full framework including direct contracting models on Substack.
 ## Post 69 - Tuesday 8:30 AM
 ### "Same Word. Three Contracts. Three Different Economics." — Marked-Up Contract Page Decoder
 
-**Template:** Marked-Up Contract Page messy infographic from `claude_design_prompts.md` (template #15). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Marked-Up Contract Page messy infographic from `claude_design_prompts.md` (template #16). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W4 slot)
 **Pillar:** Transparency & Industry Education (different from Monday's Cost Containment / Manufacturer Programs topic)
 **Content shape:** Decoder (proven 20-25K impression floor, 9-12 followers per 10K conversion rate — the highest-converting shape in the data)

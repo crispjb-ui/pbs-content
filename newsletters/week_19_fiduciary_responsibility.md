@@ -344,7 +344,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 ## Post 65 - Tuesday 8:30 AM
 ### "What You See vs. What You Pay: Between-Renewal Leakage" — Iceberg Infographic
 
-**Template:** Iceberg ("What You See vs. What You Pay") clean infographic from `claude_design_prompts.md` (template #5). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Template:** Iceberg ("What You See vs. What You Pay") clean infographic from `claude_design_prompts.md` (template #6). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Clean Infographic (Tuesday Cycle-W3 slot)
 **Pillar:** Cost Containment Strategies (different from Monday's Broker/Consultant Resources / Fiduciary topic)
 **Content shape:** Decoder-adjacent (translates "what the plan tracks" into "what the plan actually pays")
