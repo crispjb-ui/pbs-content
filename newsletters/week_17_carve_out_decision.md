@@ -962,7 +962,7 @@ FDA advisory committee schedules are public. PDUFA target action dates are publi
 
 Most employers learn about new drug approvals from claims data. After the launch. After coverage defaulted to the PBM's standard position. After members started therapy at full cost.
 
-Years ago we had an employer get a gene therapy claim with no advance notice. No coverage position. No stop-loss coordination. The information was available months earlier. It just never reached them.
+A couple years ago we had an employer get a gene therapy claim with no advance notice. No coverage position. No stop-loss coordination. The information was available months earlier. It just never reached them.
 
 Next week: how to run a quarterly pipeline review so the intelligence reaches you instead of the claims department.
 
