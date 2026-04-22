@@ -1,0 +1,685 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prior Authorization ROI Audit Scorecard · Benefit Blind Spots</title>
+  <style>
+    /* =========================================================================
+       PBS PRIOR AUTHORIZATION ROI AUDIT SCORECARD
+       A branded, printable 2-page scorecard that self-funded plan sponsors can
+       use to audit their PA program against the five-metric rubric from the
+       Week 16 Monday deep dive.
+
+       Format: US Letter (8.5 × 11 in). Renders in browser, prints to PDF with
+       backgrounds on, or export with WeasyPrint for a server-side PDF.
+
+       SOURCE: Week 16 "The Prior Authorization Problem: Balancing Control
+       and Care" — newsletters/week_16_prior_authorization.md.
+       ========================================================================= */
+
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
+    :root {
+      --primary: #015880;
+      --accent:  #A7E0FA;
+      --gray:    #4D4D4D;
+      --gray-2:  #8C8C8C;
+      --white:   #FFFFFF;
+      --paper:   #FFFFFF;
+      --rule:    #D6D6D6;
+      --green:   #2F8F4E;
+      --yellow:  #D9A618;
+      --red:     #C0392B;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      font-family: 'IBM Plex Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #2a2a2a;
+      color: #1a1a1a;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    .doc-header {
+      max-width: 8.5in;
+      margin: 0 auto;
+      padding: 32px 24px 16px;
+      color: #e0e0e0;
+      font-size: 13px;
+      line-height: 1.5;
+    }
+    .doc-header h1 { font-size: 18px; font-weight: 600; margin-bottom: 6px; color: #fff; }
+    .doc-header code { background: #444; padding: 2px 6px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; font-size: 12px; }
+
+    .page {
+      width: 8.5in;
+      height: 11in;
+      margin: 24px auto;
+      padding: 0.6in 0.7in;
+      background: var(--paper);
+      color: #1a1a1a;
+      box-shadow: 0 10px 36px rgba(0,0,0,0.4);
+      position: relative;
+      page-break-after: always;
+      break-after: page;
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .page:last-child { page-break-after: auto; break-after: auto; }
+
+    /* ============================================================
+       PAGE HEADER (every page)
+       ============================================================ */
+    .page-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-end;
+      padding-bottom: 16px;
+      border-bottom: 2px solid var(--primary);
+      margin-bottom: 28px;
+    }
+    .head-mark {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      letter-spacing: 0.04em;
+      color: var(--primary);
+    }
+    .head-mark::before {
+      content: "";
+      display: inline-block;
+      width: 0;
+      height: 0;
+      border-left: 7px solid transparent;
+      border-right: 7px solid transparent;
+      border-bottom: 12px solid var(--primary);
+    }
+    .head-eyebrow {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--gray);
+    }
+
+    /* ============================================================
+       TITLE BLOCK (page 1 only)
+       ============================================================ */
+    .title-block {
+      margin-bottom: 32px;
+    }
+    .title-eyebrow {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--accent);
+      background: var(--primary);
+      padding: 5px 12px;
+      display: inline-block;
+      border-radius: 999px;
+      margin-bottom: 14px;
+    }
+    .title {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 34px;
+      line-height: 1.1;
+      color: var(--primary);
+      letter-spacing: -0.015em;
+      margin-bottom: 8px;
+    }
+    .title em {
+      font-style: italic;
+      color: var(--primary);
+    }
+    .subtitle {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 400;
+      font-style: italic;
+      font-size: 15px;
+      color: var(--gray);
+      line-height: 1.4;
+    }
+
+    /* ============================================================
+       SECTION
+       ============================================================ */
+    .section {
+      margin-bottom: 24px;
+    }
+    .section-head {
+      display: flex;
+      align-items: baseline;
+      gap: 10px;
+      margin-bottom: 14px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--rule);
+    }
+    .section-num {
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 600;
+      font-size: 13px;
+      color: var(--accent);
+      background: var(--primary);
+      padding: 3px 9px;
+      border-radius: 3px;
+      letter-spacing: 0.08em;
+    }
+    .section-title {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 17px;
+      color: var(--primary);
+      letter-spacing: -0.005em;
+    }
+
+    .section p,
+    .section li {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 400;
+      font-size: 12.5px;
+      line-height: 1.55;
+      color: #222;
+    }
+    .section p { margin-bottom: 10px; }
+    .section strong {
+      font-weight: 600;
+      color: var(--primary);
+    }
+
+    /* ============================================================
+       DATA PULL CHECKLIST
+       ============================================================ */
+    .data-checklist {
+      background: #FAFBFC;
+      border-left: 3px solid var(--accent);
+      padding: 14px 18px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px 24px;
+    }
+    .data-checklist .item {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 1.45;
+      color: #1a1a1a;
+    }
+    .data-checklist .box {
+      flex-shrink: 0;
+      width: 14px;
+      height: 14px;
+      border: 1.5px solid var(--primary);
+      border-radius: 2px;
+      margin-top: 2px;
+    }
+
+    /* ============================================================
+       SCORING TABLE
+       ============================================================ */
+    .score-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 4px;
+    }
+    .score-table thead th {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 10.5px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--white);
+      background: var(--primary);
+      padding: 8px 10px;
+      text-align: left;
+      border-right: 1px solid rgba(255,255,255,0.18);
+    }
+    .score-table thead th:last-child { border-right: none; }
+    .score-table thead th.center { text-align: center; }
+
+    .score-table tbody tr {
+      border-bottom: 1px solid var(--rule);
+    }
+    .score-table tbody tr:last-child { border-bottom: 2px solid var(--primary); }
+    .score-table tbody td {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 11.5px;
+      line-height: 1.45;
+      color: #1a1a1a;
+      padding: 12px 10px;
+      vertical-align: top;
+    }
+    .score-table td.metric {
+      font-weight: 600;
+      color: var(--primary);
+      width: 22%;
+    }
+    .score-table td.benchmark {
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 500;
+      font-size: 11px;
+      color: #1a1a1a;
+      width: 20%;
+      border-left: 4px solid;
+    }
+    .score-table td.benchmark.green  { border-left-color: var(--green); }
+    .score-table td.benchmark.yellow { border-left-color: var(--yellow); }
+    .score-table td.benchmark.red    { border-left-color: var(--red); }
+    .score-table td.benchmark .label {
+      display: block;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 10px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      margin-bottom: 3px;
+    }
+    .score-table td.benchmark.green .label  { color: var(--green); }
+    .score-table td.benchmark.yellow .label { color: var(--yellow); }
+    .score-table td.benchmark.red .label    { color: var(--red); }
+
+    .score-table td.your-number {
+      width: 12%;
+      border-left: 1px solid var(--rule);
+    }
+    .your-number .blank {
+      display: block;
+      height: 20px;
+      border-bottom: 1.5px solid var(--gray-2);
+    }
+    .score-table td.your-score {
+      width: 12%;
+      border-left: 1px solid var(--rule);
+    }
+    .chips {
+      display: flex;
+      gap: 4px;
+      justify-content: flex-start;
+    }
+    .chip {
+      width: 16px;
+      height: 16px;
+      border-radius: 50%;
+      border: 1.5px solid;
+      display: inline-block;
+    }
+    .chip.g { border-color: var(--green); }
+    .chip.y { border-color: var(--yellow); }
+    .chip.r { border-color: var(--red); }
+
+    /* ============================================================
+       PAGE 2 — FEE REFERENCE + OPTIMIZATION
+       ============================================================ */
+    .fee-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .fee-table td {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 12px;
+      line-height: 1.5;
+      padding: 10px 12px;
+      border-bottom: 1px solid var(--rule);
+      vertical-align: top;
+    }
+    .fee-table tr:last-child td { border-bottom: 2px solid var(--primary); }
+    .fee-table td.fee-name {
+      width: 35%;
+      font-weight: 600;
+      color: var(--primary);
+    }
+    .fee-table td.fee-range {
+      width: 25%;
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 500;
+      font-size: 12px;
+      color: #1a1a1a;
+    }
+    .fee-table td.fee-note {
+      width: 40%;
+      font-size: 11px;
+      color: var(--gray);
+      font-style: italic;
+    }
+
+    .action-box {
+      background: var(--primary);
+      color: var(--white);
+      padding: 16px 18px;
+      margin-bottom: 12px;
+      border-left: 4px solid var(--accent);
+    }
+    .action-trigger {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 10.5px;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: var(--accent);
+      margin-bottom: 6px;
+      display: block;
+    }
+    .action-title {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 14px;
+      color: var(--white);
+      margin-bottom: 6px;
+    }
+    .action-body {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 12px;
+      line-height: 1.5;
+      color: rgba(255,255,255,0.92);
+    }
+
+    .redline-list {
+      margin-top: 6px;
+      padding-left: 0;
+      list-style: none;
+    }
+    .redline-list li {
+      padding: 8px 10px 8px 28px;
+      border-left: 3px solid var(--accent);
+      background: #F8FAFC;
+      margin-bottom: 6px;
+      position: relative;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 11.5px;
+      line-height: 1.45;
+      color: #1a1a1a;
+    }
+    .redline-list li::before {
+      content: "§";
+      position: absolute;
+      left: 10px;
+      top: 7px;
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 600;
+      color: var(--primary);
+      font-size: 13px;
+    }
+    .redline-list li strong {
+      display: block;
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 2px;
+      font-size: 11.5px;
+    }
+
+    /* ============================================================
+       FOOTER (every page)
+       ============================================================ */
+    .footer {
+      margin-top: auto;
+      padding-top: 14px;
+      border-top: 1px solid var(--rule);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 400;
+      font-size: 9.5px;
+      color: var(--gray);
+      letter-spacing: 0.02em;
+    }
+    .footer .publication {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      color: var(--primary);
+      font-size: 10px;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+    .footer .page-num {
+      font-family: 'IBM Plex Mono', monospace;
+      font-weight: 500;
+      color: var(--primary);
+      letter-spacing: 0.1em;
+    }
+
+    .disclaimer {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-style: italic;
+      font-size: 9.5px;
+      color: var(--gray-2);
+      line-height: 1.4;
+      margin-top: 10px;
+    }
+
+    /* ============================================================
+       PRINT
+       ============================================================ */
+    @media print {
+      html, body { background: none; }
+      .doc-header { display: none; }
+      .page {
+        margin: 0;
+        box-shadow: none;
+        page-break-after: always;
+        break-after: page;
+      }
+      .page:last-child { page-break-after: auto; break-after: auto; }
+      @page { size: letter; margin: 0; }
+    }
+  </style>
+</head>
+<body>
+
+<header class="doc-header">
+  <h1>Prior Authorization ROI Audit Scorecard</h1>
+  <p>Printable 2-page branded document. Source: Week 16 Monday deep dive — The Prior Authorization Problem.</p>
+  <p>Export: <code>Cmd/Ctrl+P</code> → paper size <code>Letter</code>, margins <code>None</code>, background graphics <code>ON</code>.</p>
+</header>
+
+<!-- ============================================================================
+     PAGE 1 — TITLE, DATA PULL CHECKLIST, SCORING TABLE
+     ============================================================================ -->
+<section class="page">
+
+  <div class="page-head">
+    <div class="head-mark">Prescription Benefit Solutions</div>
+    <div class="head-eyebrow">Benefit Blind Spots · Plan Sponsor Toolkit</div>
+  </div>
+
+  <div class="title-block">
+    <span class="title-eyebrow">PA ROI Audit · Scorecard</span>
+    <h1 class="title">Prior Authorization ROI Audit.</h1>
+    <p class="subtitle">The five-metric scorecard we walk self-funded clients through to tell whether your PA program is doing the work it costs.</p>
+  </div>
+
+  <div class="section">
+    <div class="section-head">
+      <span class="section-num">01</span>
+      <h2 class="section-title">Before You Score — Data to Pull from Your PBM</h2>
+    </div>
+    <p>Request a twelve-month extract. If the PBM's standard dashboard does not carry all six items, ask for them as a custom pull; that request is itself diagnostic.</p>
+
+    <div class="data-checklist">
+      <div class="item"><span class="box"></span><span>Total PA requests submitted (12-month count)</span></div>
+      <div class="item"><span class="box"></span><span>Approval rate — first-pass and after appeal</span></div>
+      <div class="item"><span class="box"></span><span>Average turnaround time — standard and urgent</span></div>
+      <div class="item"><span class="box"></span><span>Top 20 drugs by PA volume — with per-drug approval rate</span></div>
+      <div class="item"><span class="box"></span><span>Denial reasons by category</span></div>
+      <div class="item"><span class="box"></span><span>Appeal volume with overturn rate</span></div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-head">
+      <span class="section-num">02</span>
+      <h2 class="section-title">Score Your Program</h2>
+    </div>
+
+    <table class="score-table">
+      <thead>
+        <tr>
+          <th>Metric</th>
+          <th class="center">Green</th>
+          <th class="center">Yellow</th>
+          <th class="center">Red</th>
+          <th class="center">Your Number</th>
+          <th class="center">Score</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="metric">Overall approval rate</td>
+          <td class="benchmark green"><span class="label">Green</span>70 – 85%</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>85 – 95%</td>
+          <td class="benchmark red"><span class="label">Red</span>&gt; 95% (rubber stamp)<br>or &lt; 70% (too restrictive)</td>
+          <td class="your-number"><span class="blank"></span></td>
+          <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
+        </tr>
+        <tr>
+          <td class="metric">Average turnaround time</td>
+          <td class="benchmark green"><span class="label">Green</span>&lt; 24 hours</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>24 – 72 hours</td>
+          <td class="benchmark red"><span class="label">Red</span>&gt; 72 hours</td>
+          <td class="your-number"><span class="blank"></span></td>
+          <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
+        </tr>
+        <tr>
+          <td class="metric">Appeal overturn rate</td>
+          <td class="benchmark green"><span class="label">Green</span>&lt; 25%</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>25 – 50%</td>
+          <td class="benchmark red"><span class="label">Red</span>&gt; 50% (initial criteria too tight)</td>
+          <td class="your-number"><span class="blank"></span></td>
+          <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
+        </tr>
+        <tr>
+          <td class="metric">Therapy abandonment</td>
+          <td class="benchmark green"><span class="label">Green</span>&lt; 5%</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>5 – 15%</td>
+          <td class="benchmark red"><span class="label">Red</span>&gt; 15%</td>
+          <td class="your-number"><span class="blank"></span></td>
+          <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
+        </tr>
+        <tr>
+          <td class="metric">Top 20 drugs with &gt; 90% approval rate</td>
+          <td class="benchmark green"><span class="label">Green</span>0 – 3 drugs</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>4 – 8 drugs</td>
+          <td class="benchmark red"><span class="label">Red</span>&gt; 8 drugs<br>(remove PA from these)</td>
+          <td class="your-number"><span class="blank"></span></td>
+          <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="disclaimer">Illustrative example for educational purposes. Actual metrics vary by plan. A single Red score is not disqualifying; a pattern of Yellow and Red indicates the PA program is either rubber-stamping claims (net negative on ROI) or over-restricting care (net negative on outcomes).</p>
+  </div>
+
+  <footer class="footer">
+    <span class="publication">Benefit Blind Spots · The Pharmacy Benefits Briefing</span>
+    <span>rxbs.org · benefitblindspots.substack.com</span>
+    <span class="page-num">01 / 02</span>
+  </footer>
+
+</section>
+
+<!-- ============================================================================
+     PAGE 2 — FEE REFERENCE + OPTIMIZATION ACTIONS
+     ============================================================================ -->
+<section class="page">
+
+  <div class="page-head">
+    <div class="head-mark">Prescription Benefit Solutions</div>
+    <div class="head-eyebrow">Benefit Blind Spots · Plan Sponsor Toolkit</div>
+  </div>
+
+  <div class="section">
+    <div class="section-head">
+      <span class="section-num">03</span>
+      <h2 class="section-title">PA Fee Structure Reference</h2>
+    </div>
+    <p>Cross-reference your PBM invoice or fee schedule. If your PA is bundled into the administrative fee and not itemized, that is the first redline: require a fee transparency clause that produces itemized PA billing.</p>
+
+    <table class="fee-table">
+      <tr>
+        <td class="fee-name">Administrative PA review</td>
+        <td class="fee-range">$25 – $40 / PA</td>
+        <td class="fee-note">No clinical review required. Rubber-stamp territory if your approval rate is above 95%.</td>
+      </tr>
+      <tr>
+        <td class="fee-name">Clinical pharmacist review</td>
+        <td class="fee-range">$60 – $80 / PA</td>
+        <td class="fee-note">Clinical review performed. Expect if complex therapies dominate your PA volume.</td>
+      </tr>
+      <tr>
+        <td class="fee-name">"Included" in admin fee</td>
+        <td class="fee-range">Not visible</td>
+        <td class="fee-note">Not auditable without a fee transparency clause. Fix this at the next renewal redline.</td>
+      </tr>
+    </table>
+  </div>
+
+  <div class="section">
+    <div class="section-head">
+      <span class="section-num">04</span>
+      <h2 class="section-title">Optimization Actions by Score</h2>
+    </div>
+
+    <div class="action-box">
+      <span class="action-trigger">If Red on Overall Approval Rate (&gt; 95%)</span>
+      <div class="action-title">Remove PA from the rubber-stamp drugs.</div>
+      <div class="action-body">Pull the top-20 list filtered to drugs with first-pass approval above 90%. Remove PA. Implement gold-card exemptions for prescribers who cleared at 100% across the period. The review time and fees those PAs consumed were never doing clinical work.</div>
+    </div>
+
+    <div class="action-box">
+      <span class="action-trigger">If Yellow or Red on Turnaround Time</span>
+      <div class="action-title">Negotiate turnaround guarantees with remediation.</div>
+      <div class="action-body">Write 48-hour standard and 24-hour urgent turnaround into the contract with dollar-denominated remediation if missed. Require quarterly compliance reporting as a standing deliverable, not a custom request. See also the Week 16 Field Note on PA turnaround contract language.</div>
+    </div>
+
+    <div class="action-box">
+      <span class="action-trigger">If Red on Appeal Overturn Rate (&gt; 50%)</span>
+      <div class="action-title">Tighten the initial criteria source, not the criteria itself.</div>
+      <div class="action-body">Criteria that get overturned half the time were not written from current clinical evidence. Require the PBM to disclose the evidence source and update cycle for PA criteria on your top 20 PA drugs. Criteria older than 24 months without citation should trigger immediate review.</div>
+    </div>
+
+    <div class="action-box">
+      <span class="action-trigger">If Yellow or Red on Therapy Abandonment</span>
+      <div class="action-title">Coordinate medical and pharmacy benefit sides.</div>
+      <div class="action-body">Abandonment usually signals that the member experience is breaking, not the criteria. Pull the top abandonment drugs and trace the specific handoff (prescriber → PBM → member → pharmacy). Every handoff is a fix point.</div>
+    </div>
+  </div>
+
+  <div class="section">
+    <div class="section-head">
+      <span class="section-num">05</span>
+      <h2 class="section-title">Contract Language Asks for the Next Renewal</h2>
+    </div>
+
+    <ul class="redline-list">
+      <li><strong>Fee transparency clause</strong>Itemized PA billing by review type (admin vs. clinical), delivered quarterly, with unit counts and per-unit rates.</li>
+      <li><strong>Turnaround standards</strong>48-hour standard / 24-hour urgent PA turnaround written as a contract commitment with dollar-denominated remediation for systemic failure.</li>
+      <li><strong>Criteria disclosure</strong>PBM shall disclose the evidence source and last-updated date for PA criteria on the top 20 PA drugs upon Plan Sponsor request.</li>
+      <li><strong>PA removal option</strong>Plan Sponsor shall have the right to remove PA from any drug upon written notice, without adjustment to pricing or rebate guarantees.</li>
+      <li><strong>Quarterly PA performance reporting</strong>PA volume, approval rate, turnaround compliance, and overturn rate delivered on a quarterly cadence as a standing deliverable.</li>
+    </ul>
+
+    <p class="disclaimer">The full protective contract language for each of these five asks lives in the PBM Contract Language Library (free, updated quarterly): benefitblindspots.substack.com/p/pbm-contract-language-library.</p>
+  </div>
+
+  <footer class="footer">
+    <span class="publication">Benefit Blind Spots · The Pharmacy Benefits Briefing</span>
+    <span>rxbs.org · benefitblindspots.substack.com</span>
+    <span class="page-num">02 / 02</span>
+  </footer>
+
+</section>
+
+</body>
+</html>
