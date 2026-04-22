@@ -93,53 +93,11 @@
     .head-logo {
       display: flex;
       align-items: center;
-      gap: 10px;
     }
-    .head-logo .logo-mark {
-      width: 36px;
-      height: 36px;
-      background: var(--primary);
-      color: var(--white);
-      font-family: 'IBM Plex Sans', sans-serif;
-      font-weight: 700;
-      font-size: 13px;
-      letter-spacing: 0.04em;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      position: relative;
-      overflow: hidden;
-    }
-    .head-logo .logo-mark::before {
-      content: "";
-      position: absolute;
-      top: 0;
-      right: 0;
-      width: 0;
-      height: 0;
-      border-top: 12px solid var(--accent);
-      border-left: 12px solid transparent;
-    }
-    .head-logo .logo-wordmark {
-      display: flex;
-      flex-direction: column;
-      line-height: 1.1;
-    }
-    .head-logo .logo-wordmark .name {
-      font-family: 'IBM Plex Sans', sans-serif;
-      font-weight: 600;
-      font-size: 13px;
-      color: var(--primary);
-      letter-spacing: -0.005em;
-    }
-    .head-logo .logo-wordmark .tag {
-      font-family: 'IBM Plex Sans', sans-serif;
-      font-weight: 400;
-      font-size: 9.5px;
-      color: var(--gray);
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-top: 2px;
+    .head-logo img {
+      height: 44px;
+      width: auto;
+      display: block;
     }
 
     /* ============================================================
@@ -527,11 +485,7 @@
   <div class="page-head">
     <div class="head-eyebrow-left">Plan Sponsor Toolkit</div>
     <div class="head-logo">
-      <div class="logo-wordmark">
-        <span class="name">Prescription Benefit Solutions</span>
-        <span class="tag">rxbs.org</span>
-      </div>
-      <div class="logo-mark">PBS</div>
+      <img src="../assets/pbs_logo_transparent.png" alt="Prescription Benefit Solutions">
     </div>
   </div>
 
@@ -638,11 +592,7 @@
   <div class="page-head">
     <div class="head-eyebrow-left">Plan Sponsor Toolkit</div>
     <div class="head-logo">
-      <div class="logo-wordmark">
-        <span class="name">Prescription Benefit Solutions</span>
-        <span class="tag">rxbs.org</span>
-      </div>
-      <div class="logo-mark">PBS</div>
+      <img src="../assets/pbs_logo_transparent.png" alt="Prescription Benefit Solutions">
     </div>
   </div>
 
