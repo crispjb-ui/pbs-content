@@ -15,7 +15,7 @@
        backgrounds on, or export with WeasyPrint for a server-side PDF.
 
        SOURCE: Week 16 "The Prior Authorization Problem: Balancing Control
-       and Care" — newsletters/week_16_prior_authorization.md.
+       and Care" · newsletters/week_16_prior_authorization.md.
        ========================================================================= */
 
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
@@ -57,15 +57,14 @@
       width: 8.5in;
       height: 11in;
       margin: 24px auto;
-      padding: 0.55in 0.7in 0.5in 0.7in;
+      padding: 0.5in 0.7in 0.95in 0.7in;
       background: var(--paper);
       color: #1a1a1a;
       box-shadow: 0 10px 36px rgba(0,0,0,0.4);
       position: relative;
       page-break-after: always;
       break-after: page;
-      display: flex;
-      flex-direction: column;
+      overflow: hidden;
     }
     .page:last-child { page-break-after: auto; break-after: auto; }
 
@@ -104,7 +103,7 @@
        TITLE BLOCK (page 1 only)
        ============================================================ */
     .title-block {
-      margin-bottom: 32px;
+      margin-bottom: 20px;
     }
     .title-eyebrow {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -122,11 +121,11 @@
     .title {
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 600;
-      font-size: 34px;
+      font-size: 26px;
       line-height: 1.1;
       color: var(--primary);
       letter-spacing: -0.015em;
-      margin-bottom: 8px;
+      margin-bottom: 6px;
     }
     .title em {
       font-style: italic;
@@ -136,7 +135,7 @@
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 400;
       font-style: italic;
-      font-size: 15px;
+      font-size: 13px;
       color: var(--gray);
       line-height: 1.4;
     }
@@ -145,16 +144,14 @@
        SECTION
        ============================================================ */
     .section {
-      margin-bottom: 18px;
-      page-break-inside: avoid;
-      break-inside: avoid;
+      margin-bottom: 14px;
     }
     .section-head {
       display: flex;
       align-items: baseline;
       gap: 10px;
-      margin-bottom: 10px;
-      padding-bottom: 5px;
+      margin-bottom: 8px;
+      padding-bottom: 4px;
       border-bottom: 1px solid var(--rule);
     }
     .section-num {
@@ -248,10 +245,10 @@
     .score-table tbody tr:last-child { border-bottom: 2px solid var(--primary); }
     .score-table tbody td {
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 11.5px;
-      line-height: 1.45;
+      font-size: 11px;
+      line-height: 1.4;
       color: #1a1a1a;
-      padding: 12px 10px;
+      padding: 7px 10px;
       vertical-align: top;
     }
     .score-table td.metric {
@@ -313,7 +310,7 @@
     .chip.r { border-color: var(--red); }
 
     /* ============================================================
-       PAGE 2 — FEE REFERENCE + OPTIMIZATION
+       PAGE 2: FEE REFERENCE + OPTIMIZATION
        ============================================================ */
     .fee-table {
       width: 100%;
@@ -416,7 +413,10 @@
        FOOTER (every page)
        ============================================================ */
     .footer {
-      margin-top: auto;
+      position: absolute;
+      left: 0.7in;
+      right: 0.7in;
+      bottom: 0.35in;
       padding-top: 14px;
       border-top: 1px solid var(--rule);
       display: flex;
@@ -450,6 +450,7 @@
       color: var(--gray-2);
       line-height: 1.4;
       margin-top: 10px;
+      margin-bottom: 16px;
     }
 
     /* ============================================================
@@ -473,12 +474,12 @@
 
 <header class="doc-header">
   <h1>Prior Authorization ROI Audit Scorecard</h1>
-  <p>Printable 2-page branded document. Source: Week 16 Monday deep dive — The Prior Authorization Problem.</p>
+  <p>Printable 2-page branded document. Source: Week 16 Monday deep dive: The Prior Authorization Problem.</p>
   <p>Export: <code>Cmd/Ctrl+P</code> → paper size <code>Letter</code>, margins <code>None</code>, background graphics <code>ON</code>.</p>
 </header>
 
 <!-- ============================================================================
-     PAGE 1 — TITLE, DATA PULL CHECKLIST, SCORING TABLE
+     PAGE 1: TITLE, DATA PULL CHECKLIST, SCORING TABLE
      ============================================================================ -->
 <section class="page">
 
@@ -498,15 +499,15 @@
   <div class="section">
     <div class="section-head">
       <span class="section-num">01</span>
-      <h2 class="section-title">Before You Score — Data to Pull from Your PBM</h2>
+      <h2 class="section-title">Before You Score: Data to Pull from Your PBM</h2>
     </div>
     <p>Request a twelve-month extract. If the PBM's standard dashboard does not carry all six items, ask for them as a custom pull; that request is itself diagnostic.</p>
 
     <div class="data-checklist">
       <div class="item"><span class="box"></span><span>Total PA requests submitted (12-month count)</span></div>
-      <div class="item"><span class="box"></span><span>Approval rate — first-pass and after appeal</span></div>
-      <div class="item"><span class="box"></span><span>Average turnaround time — standard and urgent</span></div>
-      <div class="item"><span class="box"></span><span>Top 20 drugs by PA volume — with per-drug approval rate</span></div>
+      <div class="item"><span class="box"></span><span>Approval rate, first-pass and after appeal</span></div>
+      <div class="item"><span class="box"></span><span>Average turnaround time, standard and urgent</span></div>
+      <div class="item"><span class="box"></span><span>Top 20 drugs by PA volume, with per-drug approval rate</span></div>
       <div class="item"><span class="box"></span><span>Denial reasons by category</span></div>
       <div class="item"><span class="box"></span><span>Appeal volume with overturn rate</span></div>
     </div>
@@ -532,8 +533,8 @@
       <tbody>
         <tr>
           <td class="metric">Overall approval rate</td>
-          <td class="benchmark green"><span class="label">Green</span>70 – 85%</td>
-          <td class="benchmark yellow"><span class="label">Yellow</span>85 – 95%</td>
+          <td class="benchmark green"><span class="label">Green</span>70-85%</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>85-95%</td>
           <td class="benchmark red"><span class="label">Red</span>&gt; 95% (rubber stamp)<br>or &lt; 70% (too restrictive)</td>
           <td class="your-number"><span class="blank"></span></td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
@@ -541,7 +542,7 @@
         <tr>
           <td class="metric">Average turnaround time</td>
           <td class="benchmark green"><span class="label">Green</span>&lt; 24 hours</td>
-          <td class="benchmark yellow"><span class="label">Yellow</span>24 – 72 hours</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>24-72 hours</td>
           <td class="benchmark red"><span class="label">Red</span>&gt; 72 hours</td>
           <td class="your-number"><span class="blank"></span></td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
@@ -549,7 +550,7 @@
         <tr>
           <td class="metric">Appeal overturn rate</td>
           <td class="benchmark green"><span class="label">Green</span>&lt; 25%</td>
-          <td class="benchmark yellow"><span class="label">Yellow</span>25 – 50%</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>25-50%</td>
           <td class="benchmark red"><span class="label">Red</span>&gt; 50% (initial criteria too tight)</td>
           <td class="your-number"><span class="blank"></span></td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
@@ -557,15 +558,15 @@
         <tr>
           <td class="metric">Therapy abandonment</td>
           <td class="benchmark green"><span class="label">Green</span>&lt; 5%</td>
-          <td class="benchmark yellow"><span class="label">Yellow</span>5 – 15%</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>5-15%</td>
           <td class="benchmark red"><span class="label">Red</span>&gt; 15%</td>
           <td class="your-number"><span class="blank"></span></td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
         </tr>
         <tr>
           <td class="metric">Top 20 drugs with &gt; 90% approval rate</td>
-          <td class="benchmark green"><span class="label">Green</span>0 – 3 drugs</td>
-          <td class="benchmark yellow"><span class="label">Yellow</span>4 – 8 drugs</td>
+          <td class="benchmark green"><span class="label">Green</span>0-3 drugs</td>
+          <td class="benchmark yellow"><span class="label">Yellow</span>4-8 drugs</td>
           <td class="benchmark red"><span class="label">Red</span>&gt; 8 drugs<br>(remove PA from these)</td>
           <td class="your-number"><span class="blank"></span></td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
@@ -573,7 +574,7 @@
       </tbody>
     </table>
 
-    <p class="disclaimer">Illustrative example for educational purposes. Actual metrics vary by plan. A single Red score is not disqualifying; a pattern of Yellow and Red indicates the PA program is either rubber-stamping claims (net negative on ROI) or over-restricting care (net negative on outcomes).</p>
+    <p class="disclaimer">Illustrative example for educational purposes. Actual metrics vary by plan. A single Red is not disqualifying; a pattern of Yellow and Red signals a PA program either rubber-stamping or over-restricting.</p>
   </div>
 
   <footer class="footer">
@@ -585,7 +586,7 @@
 </section>
 
 <!-- ============================================================================
-     PAGE 2 — FEE REFERENCE + OPTIMIZATION ACTIONS + CONTRACT ASKS
+     PAGE 2: FEE REFERENCE + OPTIMIZATION ACTIONS + CONTRACT ASKS
      ============================================================================ -->
 <section class="page">
 
@@ -606,12 +607,12 @@
     <table class="fee-table">
       <tr>
         <td class="fee-name">Administrative PA review</td>
-        <td class="fee-range">$25 – $40 / PA</td>
+        <td class="fee-range">$25-$40 / PA</td>
         <td class="fee-note">No clinical review required. Rubber-stamp territory if your approval rate is above 95%.</td>
       </tr>
       <tr>
         <td class="fee-name">Clinical pharmacist review</td>
-        <td class="fee-range">$60 – $80 / PA</td>
+        <td class="fee-range">$60-$80 / PA</td>
         <td class="fee-note">Clinical review performed. Expect if complex therapies dominate your PA volume.</td>
       </tr>
       <tr>
