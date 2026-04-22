@@ -42,7 +42,7 @@
 
 ### Article Body
 
-A couple years ago a client asked us to review their specialty pharmacy spend. One biologic stood out: a brand-name product with a biosimilar available at a meaningfully lower net cost. The plan was still paying for the brand. Every refill. Every member on that therapy. For over a year after the biosimilar launched.
+A while back a client asked us to review their specialty pharmacy spend. One biologic stood out: a brand-name product with a biosimilar available at a meaningfully lower net cost. The plan was still paying for the brand. Every refill. Every member on that therapy. For over a year after the biosimilar launched.
 
 When we asked the PBM why the biosimilar was not preferred, the answer was familiar: "Our formulary committee evaluated both options." What the PBM did not volunteer was that the brand manufacturer's rebate contract included exclusivity provisions that made switching financially disadvantageous for the PBM, not for the plan. The PBM was earning more by keeping members on the brand. The employer was paying more.
 
@@ -243,7 +243,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ### Newsletter Body
 
-A client's specialty pharmacy spend told a clear story a couple years ago. One biologic, one biosimilar available at a meaningfully lower net cost, and every refill still going to the brand. For over a year.
+A client's specialty pharmacy spend told a clear story a while back. One biologic, one biosimilar available at a meaningfully lower net cost, and every refill still going to the brand. For over a year.
 
 The PBM's explanation referenced their formulary committee process. What the PBM did not share was that the brand manufacturer's rebate contract made the brand more profitable for the PBM than the biosimilar. The PBM was earning more. The employer was paying more.
 
