@@ -25,7 +25,7 @@ Every prompt assumes these are loaded:
 
 ## Format catalog
 
-Thirteen templates. Five base formats plus eight metaphor infographics, plus seven hybrid messy formats below.
+Twenty templates. Five base formats, eight metaphor infographics, seven hybrid messy formats.
 
 **Base formats (narrative carousel masters + single image):**
 1. Clean single-image infographic
@@ -43,6 +43,15 @@ Thirteen templates. Five base formats plus eight metaphor infographics, plus sev
 11. Door / Gateway
 12. Tree
 13. Maze
+
+**Hybrid messy formats (single image, clean + handwritten):**
+14. Chart-on-Whiteboard
+15. Sticky Note Dashboard
+16. Marked-Up Contract Page
+17. Annotated Email Screenshot
+18. Spreadsheet with Marker Overlay
+19. Ledger with Handwritten Annotations
+20. Prescription Pad with Annotations
 
 ---
 
