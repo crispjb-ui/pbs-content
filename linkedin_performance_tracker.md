@@ -727,7 +727,186 @@ The newsletter is clearly accelerating. The subscriber base (605) is growing, op
 
 ---
 
-# REPLY-BASED REACH (Added April 17, 2026)
+## Weeks 15-16 Snapshot: Cuban Amplification Cluster (April 13-24, 2026)
+
+### Context
+
+- **Week 15 theme:** 340B Program Impact (Mon Apr 13 newsletter)
+- **Week 16 theme:** Prior Authorization (Mon Apr 20 newsletter)
+- **Cuban cluster:** four feed posts amplified by Mark Cuban inside a single weekend window (repost and/or comment on Sun Apr 19). This is the second Cuban cluster after the Apr 5 white-bagging amplification; the pattern is now recurring.
+
+### Raw Performance Data (LinkedIn Feed Posts)
+
+| # | Post | Type | Day | Age | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Cuban Signal |
+|---|------|------|------|-----|-------|---------|-----|------|---------|-------|-------|---------------|-----------|--------------|
+| 1 | "The provider paid $20. Your plan paid $100. For the same drug." (340B) | POV Text (dollar comparison) | Wed | 1w | 42,968 | 33,205 | 50 | 56 | 6 | 2 | 2 | 69 | +21 | Reposted + commented |
+| 2 | "PBM contracts have their own language" (Contract Language Decoder, re-surge) | Messy Infographic | (earlier post) | 2w | 19,470 | 12,843 | 104 | 16 | 12 | 7 | 2 | 68 | +23 | Reposted Sun Apr 19 |
+| 3 | "The 340B pricing gap most employers do not track" (340B decoder) | Messy Infographic | Thu | 1w | 12,885 | 10,067 | 62 | 13 | 7 | 6 | 0 | 25 | +3 | Reposted Sun Apr 19 |
+| 4 | "There is a process in pharmacy benefits that everyone agrees is broken. Prior authorization…" | POV Text | Fri | 1w | 22,289 | 17,826 | 19 | 12 | 1 | 1 | 0 | 41 | +5 | Commented Sun Apr 19 |
+
+### LinkedIn Newsletter Edition 7 — "Prior Authorization Briefing" (Mon Apr 20)
+
+| Metric | Value |
+|--------|-------|
+| Feed-card impressions | 1,752 |
+| Feed-card members reached | 1,088 |
+| Article views | 478 |
+| Email sends | 563 |
+| Email open rate | 46% |
+| Reactions | 21 |
+| Comments | 2 |
+| Reposts | 1 |
+| Saves | 1 |
+| Profile viewers from this post | 6 |
+| Followers gained | +3 |
+
+### Demographics (Cuban cluster)
+
+| # | Post | Top Seniority | Top Company Size | Top Industry |
+|---|------|---------------|-------------------|--------------|
+| 1 | 340B $20 vs $100 | Senior (30%) | 10,001+ (26%) | Hospitals & Health Care (9%) |
+| 2 | PBM Contracts Decoder (re-surge) | Senior (26%) | 10,001+ (25%) | Hospitals & Health Care (18%) |
+| 3 | 340B pricing gap decoder | Senior (27%) | 10,001+ (26%) | Hospitals & Health Care (17%) |
+| 4 | PA "everyone agrees is broken" | Senior (30%) | 10,001+ (27%) | Hospitals & Health Care (10%) |
+| 7 | PA Briefing newsletter (article viewers) | Director (20%) | 10,001+ (12%) | Hospitals & Health Care (22%) |
+
+### Follower-Per-10K Conversion (Cuban cluster)
+
+| # | Post | Shape | Impressions | Followers | Conv. rate | vs. CLAUDE.md floor |
+|---|------|-------|-------------|-----------|------------|---------------------|
+| 1 | 340B $20 vs $100 | Dollar comparison | 42,968 | +21 | 4.9 / 10K | in band (3-5) |
+| 2 | PBM Contracts Decoder | Decoder | 19,470 | +23 | 11.8 / 10K | top of band (9-12) |
+| 3 | 340B pricing gap decoder | Decoder | 12,885 | +3 | 2.3 / 10K | **below band** |
+| 4 | PA "broken" POV | Best-kept secret / POV | 22,289 | +5 | 2.2 / 10K | **below band** (6-8) |
+
+### Newsletter Edition Comparison (All Editions, through Edition 7)
+
+| Edition | Topic | Feed Impr | Article Views | Email Sends | Open Rate | Reactions | Comments | Status |
+|---------|-------|-----------|---------------|-------------|-----------|-----------|----------|--------|
+| 3 | "Data Without Questions" | 823 | 275 | 331 | 44% | 2 | 2 | Published |
+| 4 | "The Audit Rights Gap" | 661 | 285 | 362 | 46% | 5 | 2 | Published |
+| 5 | "Specialty Pharmacy Briefing" | 860 | 417 | 468 | 49% | 6 | 0 | Published |
+| 6 | "Stop-Loss Strategy" | - | ~350 | - | 43%* | - | - | DELETED |
+| 7 | "Prior Authorization Briefing" | 1,752 | 478 | 563 | 46% | 21 | 2 | Published |
+
+### Week 16 Feed Posts (Apr 21-23, separate from Cuban cluster)
+
+These are the three current-week feed posts landing alongside the Cuban re-surge. Different topic cadence (contract language library, admin fee dollar comparison, PA decoder) — useful as an un-amplified baseline against the Cuban-amplified cluster above.
+
+| # | Post | Type | Date | Age | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Cuban Signal |
+|---|------|------|------|-----|-------|---------|-----|------|---------|-------|-------|---------------|-----------|--------------|
+| 5 | "Five clauses decide your PBM contract. Most employers never read them." (Library 01 — Contract Language Costing Your Plan, 7p) | Contract Comparison Carousel | Tue Apr 21 | 3d | 2,129 | 1,234 | 19 | 3 | 4 | **14** | 3 | 25 | +2 | — |
+| 6 | "$25-40 admin. $60-80 clinical. Some bundle it. Admin PA review: $25 to $40 each…" | POV Text (dollar comparison on admin fees) | Wed Apr 22 | 2d | 1,336 | 883 | 11 | 6 | 2 | 1 | 0 | 10 | +1 | — |
+| 7 | "5 terms in your PA contract that do not mean what you think they mean." (PA decoder, Thursday Slot A) | Messy Infographic | Thu Apr 23 | 1d | 4,304 | 3,645 | 15 | 6 | 3 | 0 | 0 | 4 | +1 | Reposted late Thu night (early; numbers likely to climb) |
+
+**Week of Apr 18-24 total post impressions (LinkedIn profile view):** 99,516 across all live posts (includes Cuban-cluster re-surges).
+
+### Week 16 Demographics
+
+| # | Post | Top Seniority | Top Company Size | Top Industry |
+|---|------|---------------|-------------------|--------------|
+| 5 | Library 01 carousel | Senior (24%) | 10,001+ (20%) | **Insurance (25%)** |
+| 6 | Admin-fee dollar comparison | Entry (34%) | 10,001+ (34%) | **Hospitals & Health Care (36%)** |
+| 7 | PA 5-terms decoder | Senior (31%) | 10,001+ (24%) | Hospitals & Health Care (7%) |
+
+### Library 01 Forecast vs. Actual (3-day snapshot)
+
+CLAUDE.md recorded a forecast on this first Library NN carousel based on comparable prior decoder carousels.
+
+| Metric | Forecast | Actual (3d) | Delta |
+|--------|----------|-------------|-------|
+| Impressions | ~18,000 | 2,129 | **12% of forecast** (underperforming) |
+| Followers gained | +22 | +2 | **9% of forecast** (underperforming) |
+| Saves | 7 | **14** | **200% of forecast** (outperforming) |
+| Reposts | 11 | 4 | 36% of forecast |
+
+The shape of this divergence is specific: reach and conversion are weak, bookmark depth is exceptional. Library 01 is behaving like a reference document, not a feed post.
+
+### Substack Performance (Week 16, Apr 17-24)
+
+**Publication total: 47 subscribers** (up from 24 on Apr 10, +23 in 14 days — fastest growth to date).
+
+| Date | Post | Type | Views | Open Rate | New Subs |
+|------|------|------|-------|-----------|----------|
+| Apr 17 | PBM Contract Language Library | Evergreen (free SEO) | 34 | 53% | 0 |
+| Apr 20 | The Prior Authorization Problem: Balancing Control and Care | Deep Dive | 61 | 54% | +1 |
+| Apr 22 | What Crossed My Desk This Week: April 22, 2026 | Wednesday Roundup | **84** | 44% | 0 |
+| Apr 23 | PA Turnaround Time: What Your Contract Should Guarantee | Field Note | 58 | 47% | 0 |
+
+Wednesday Roundup is the highest-reach Substack format this week (84 views vs. 61 deep dive / 58 field note). The curated news angle is outperforming the analytical deep dive on reach, though the deep dive beat it on open rate (54% vs. 44%) and subscriber conversion.
+
+### Updated Current Stats (as of Apr 24, 2026)
+
+- **LinkedIn Followers:** 1,610 (+161 since Apr 10, +236 since Apr 3)
+- **LinkedIn Newsletter Subscribers:** 757 (+104 since Apr 10, +152 since Apr 3)
+- **Substack Subscribers:** 47 (+23 since Apr 10)
+- **Subscriber-to-follower ratio (LinkedIn):** 47.0% (757 of 1,610)
+
+### Week 16 Analysis (Feed Posts, Non-Amplified Baseline)
+
+1. **Library 01 is a reference document first, feed post second.** 12% of the reach forecast but 2x the save forecast tells a consistent story. Contract-language carousels with side-by-side weak/strong language are saved at a rate that none of our other formats hit. Reach underperformance is the cost of a carousel dense with redlines and legal quotes — LinkedIn's algorithm does not reward that format the way it rewards a dollar comparison or a simple decoder. **Reframe Library 01-N as bookmark-driven reference assets whose success metric is saves and long-tail profile visits, not first-week impressions.**
+
+2. **Wednesday admin-fee post underperformed dollar-comparison expectations badly.** 1,336 impressions at 2 days is ~3% of the dollar-comparison floor (39K). Without Cuban amplification the shape does not carry itself. The framing ("$25-40 admin. $60-80 clinical. Some bundle it.") is technically dollar comparison but reads as a pricing disclosure, not a gap accusation. Compare to the 340B "$20 vs $100" that hit 42K — that one named the actor (the plan) paying 5x for the same drug. This one names neither actor nor victim. **Dollar comparison works when it names someone getting fleeced.**
+
+3. **Hospitals & Health Care 36% on the admin-fee post is a distribution signal.** Entry-level 34%, Senior only moderate. Algorithm distributed the post sideways into hospital operations, not up into self-funded decision-makers. Likely because "$25-40 admin" is hospital-workflow language, not plan-sponsor language. Reinforces the finding from the 340B pricing-gap decoder: content that codes as insider-operations misses the self-funded employer audience even when the topic is adjacent.
+
+4. **Thursday PA decoder is on decoder track but early.** 4,304 at 1 day is on pace for the 20-25K decoder floor. Cuban reposted late Thursday night, so the next 48 hours will tell whether this becomes the third consecutive Cuban-amplified decoder.
+
+5. **Substack is inflecting.** +23 subscribers in 14 days is 2x the prior 14-day pace. Wednesday Roundup (84 views) beating the Monday deep dive (61 views) on reach suggests the automated news-roundup format has legitimate discovery value and is not just a filler slot.
+
+6. **Follower and newsletter-sub compounding continues.** +37 LinkedIn followers in the 3 days since the Apr 21 snapshot; +22 newsletter subs in the same window. The Cuban cluster's reach is still converting. Newsletter ratio holds at 47%, which is the highest ratio PBS has posted.
+
+### Week 16 Additional Recommendations
+
+8. **Ship Library 02 (Week 21 Compounding) on the Library 01 positioning.** Tell the audience explicitly that the Library series is reference material, not a viral feed play. Pin it to the Substack Contract Language Library. Repost Library 01 to Substack Notes with the actual save count as the hook ("14 saves in 3 days on LinkedIn — apparently this one is worth keeping"). Save-driven proof leans into the format's actual strength.
+
+9. **Sharpen Wednesday dollar-comparison hooks to name an actor.** Template: "[Plan type] pays [$X]. [Actor] pays [$Y]. Same [drug / service]. [Actor] keeps the difference." The 340B post worked because it named the plan as the payer and the provider as the spread-keeper. The admin-fee post failed because it read as a price list.
+
+10. **Pause Friday tease hooks until the framing is rebuilt.** Two consecutive Fridays (W15 "everyone agrees is broken" at 0.14% engagement; W16 Friday not yet captured but likely similar) suggest the Friday slot's current execution is not earning its place on the calendar. Better to run a fifth weekend-of-Cuban engagement-post or a Substack Notes cluster than to ship a weak tease.
+
+11. **Treat Wednesday Roundup as a discovery asset, not a filler.** 84 views on a curated news roundup with a Tuesday-morning automated draft is the cheapest Substack reach PBS produces. Invest modestly in the roundup (better headlines, more editorial voice) rather than the default automated pass.
+
+12. **Name Library 01's performance in CLAUDE.md.** Update the performance data block from "forecast, not measured" to the actual 3-day snapshot. Also replace the "Library 01 shipped April 21" forecast with the 14-saves / 2-followers / 2,129-impressions reality so future Library entries are planned against real data.
+
+### All-Time Ranking Update
+
+Shot 1 (340B $20 vs $100) now sits at **42,968 impressions**, moving it to all-time **#2** behind only GLP-1 "1 in 12" (64,323). It displaces Generic drugs ($ comparison, 39,025) and the earlier 340B snapshot (38,631). The dollar-comparison shape is now the clearest path to a 40K+ ceiling when Cuban amplifies.
+
+### Weeks 15-16 Analysis
+
+1. **Cuban cluster, not one-off.** Four feed posts in a single weekend window received Cuban engagement: a repost-plus-comment on the 340B $20 vs $100 text, a Sunday repost of the PBM contracts decoder, a Sunday repost of the 340B pricing-gap decoder, and a Sunday comment on the PA POV. The second Cuban cluster (after Apr 5 white bagging) confirms CLAUDE.md's read: Cuban is an active amplifier on PBM/340B adversarial content and should be factored as a distribution variable when dollar-comparison, decoder, and PBM-adversary shapes are on the calendar.
+
+2. **Dollar comparison ceiling now 42K+ with Cuban assist.** The 340B $20 vs $100 post becomes the #2 all-time impression leader. Conversion rate (4.9 / 10K) stays inside the predicted 3-5 band — dollar comparison earns reach but converts at mid-tier. The shape is a top-of-funnel amplifier, not a subscriber engine on its own.
+
+3. **Decoder conversion split in two.** The PBM contracts decoder hit 11.8 / 10K (top of the 9-12 band) on the Cuban-assisted re-surge. The 340B pricing-gap decoder came in at 2.3 / 10K — below band. Both used the messy-infographic format and both got Cuban reposts. The difference points to **content specificity:** the PBM contracts decoder translates adversary language into employer action. The 340B pricing-gap decoder explains a mechanism that most self-funded employers cannot act on directly (the 340B asymmetry lives with providers and hospitals, not plan sponsors). Decoder format works best when the decoded content is actionable by the reader.
+
+4. **Friday POV pulled reach without discussion.** The PA "everyone agrees is broken" post hit 22K impressions with Cuban's comment pulling view-throughs, but landed only 19 reactions and 12 comments (0.14% engagement rate) and +5 followers. High-reach / low-engagement is the classic signature of a post that the algorithm distributed past the core audience but did not compel action. The "everyone agrees is broken" framing is soft consensus; it lacks the named adversary or knowledge gap the Wednesday hook rule calls for.
+
+5. **Newsletter Edition 7 is the strongest yet.** Article views (478), email sends (563), reactions (21), and profile viewers all exceed prior editions. Open rate (46%) is stable in the 46-49% band. PA is the topic that resonated hardest; the Substack equivalent ("PA ROI Audit Scorecard" deep dive) is worth cross-promoting again in a Week 17 note or tease hook.
+
+6. **Hospitals & Health Care is now a first-tier segment on 340B and contract content.** 17-18% on the two decoders, 22% of newsletter article viewers. This matches the CLAUDE.md note about the segment growing. 340B content pulls hospital-side readers; contract-language content pulls across. Worth naming this audience explicitly alongside the 10,001+ employer tier in content planning.
+
+7. **Follower growth acceleration.** +124 followers in two weeks vs. +75 in the prior week. Newsletter subs +82 vs. +48 prior. The Cuban cluster is moving the top-of-funnel meaningfully. Ratio holds above 46%, so the conversion pipe is keeping up with reach.
+
+### Weeks 15-16 Recommendations
+
+1. **Lock a Wednesday dollar-comparison post into the calendar every 2-3 weeks.** The shape is the highest-ceiling amplifier PBS has when Cuban is watching. Rotate targets: 340B gap, generic pricing gap, admin-fee gap, specialty-channel gap. Keep the hook sentence structure identical ("$X vs $Y for the same [drug / service / member]").
+
+2. **Contract Language Decoder stays the Thursday Slot A workhorse.** 11.8 / 10K conversion reconfirms it as the highest-converting infographic format in the library. Keep it on Thursday. Do not substitute unless there is a topic-forced reason.
+
+3. **Audit decoder topics for reader-actionability before scheduling.** The 340B pricing-gap decoder drew reach but did not convert because the mechanism sits outside the self-funded employer's direct control. Before green-lighting a decoder, ask: can a plan sponsor do something on Monday based on this post? If the answer is no, reshape it as a Wednesday POV (awareness play) rather than a Thursday decoder (conversion play).
+
+4. **Friday tease hooks need a named adversary, not soft consensus.** "Everyone agrees X is broken" distributes but does not convert. Replace with "Your PBM's PA process is designed to take 11 days. Here is why" or similar — name the adversary, create the knowledge gap, keep the Wednesday hook rule applied to Friday too.
+
+5. **Leverage PA momentum into Week 17.** Edition 7 is the best-performing newsletter. A Week 17 Substack field note or LinkedIn Note revisiting one specific PA tactic (gold card program, clinical pathway, or the PA ROI Audit Scorecard) will compound the audience this week built.
+
+6. **Formalize Hospitals & Health Care as a named audience tier.** Update CLAUDE.md and weekly briefs to list three primary tiers: (a) 10,001+ self-funded employers, (b) senior HR/CFO decision-makers, (c) Hospitals & Health Care commenters on 340B and contract content. Content targeting can be more explicit now that the segment is stable at 17-22% on relevant posts.
+
+7. **Start logging Cuban reposts in the tracker explicitly.** Add a "Cuban Signal" column to future weekly raw-data tables (as above). Pattern recognition over the next 4-6 weeks will tell us whether Cuban assist is weekend-clustered, topic-specific, or both — which lets PBS time the highest-ceiling posts into his window of attention.
+
+---
+
+
 
 ## Why track this
 
@@ -759,6 +938,14 @@ Copy this table at the end of each week's analysis section and fill in the top 5
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
+
+## Reply volume log (weekly aggregate)
+
+Rolling count of replies Ginny has posted to other accounts per week. Per-reply impression data is captured separately in the log above when material. This aggregate is the leading indicator for the reply channel.
+
+| Week | Week of | Replies posted | Notes |
+|------|---------|----------------|-------|
+| 16 | Apr 20-24, 2026 | **45** | First weekly aggregate captured. Coincides with +37 LinkedIn followers and +22 newsletter subs in the 3 days after the prior Apr 21 snapshot, and a +23 Substack sub jump in 14 days. Reply volume appears to be a meaningful contributor alongside the Cuban cluster. |
 
 ## How to capture reply impressions
 
