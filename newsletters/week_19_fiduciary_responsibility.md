@@ -431,17 +431,19 @@ Ginny Crisp breaks down what the PBM quarterly report never flags and how a mid-
 
 > **NOTE - PERFORMANCE OPTIMIZATION:** Reframed from analytical case study comparison to direct confrontation with the reader's own liability. Expanded from 95 to ~240 words for dwell time optimization. Hook lands before 210-character "See More" cutoff.
 
+> **NOTE (revised Apr 24 after Weeks 15-16 review):** Removed stacked Formula-1 / Formula-4 pair ("Not your PBM's interest. Your members'." + "Not bad decisions. No decisions at all.") per Humanize Check rule (b). Kept the Formula-4 punchline (it is the payoff) and reworded the earlier line as plain assertion. Added a concrete origin-story paragraph so the proprietary anchor has an unfakeable detail. Broker-partner frame kept.
+
 #### Post Copy
 
 If you manage a self-funded health plan, you are an ERISA fiduciary.
 
-That means you have a legal obligation to act in your members' best interest when managing pharmacy benefits. Not your PBM's interest. Your members'.
+That means you have a legal obligation to act in your members' best interest when managing pharmacy benefits, and that obligation is not satisfied by deferring to the PBM you hired to administer the plan.
 
-Too many employers treat PBM oversight as an administrative task. Sign the contract. Process the claims. Accept the renewal terms as presented.
+Too many employers treat PBM oversight as an administrative task. Sign the contract. Process the claims. Accept the renewal terms as presented. That is not a prudent process. "We trusted our PBM" is not a fiduciary defense.
 
-That is not a prudent process. And "we trusted our PBM" is not a fiduciary defense.
+A while back I sat with an HR director whose counsel had just received a demand letter tied to plan fees. She asked me what records we could pull together. The claims data was intact. The contract was on file. What was missing was the paper showing how decisions had been made: the evaluation memos, the committee minutes, the record of what had been asked at renewal. The gap was not in the numbers. It was in the decision trail.
 
-I bring this up because the litigation pattern in this space is accelerating, and the employers being targeted are not the ones who made bad decisions. They are the ones who made no decisions at all. No documented PBM selection process. No evidence of competitive evaluation. No record of annual performance review. No fiduciary file showing they asked any questions before signing the renewal.
+The litigation pattern in this space is accelerating, and the employers being targeted are not the ones who made bad decisions. They are the ones who made no decisions at all.
 
 The legal standard is not perfection. It is prudent process. Did you evaluate? Did you document? Did you act on what you found? Courts are not asking whether you chose the cheapest PBM. They are asking whether you followed a reasonable process for choosing at all.
 
@@ -586,7 +588,9 @@ Ginny Crisp walks through the six documentation categories every plan sponsor sh
 
 **Format:** Text Post (Tease Hook)
 **Pillar:** Transparency
-**Word Count:** 70 words
+**Word Count:** ~100 words
+
+> **NOTE (revised Apr 24):** Added one proprietary-observation line per Humanize Check rule (c). Original read as generic industry commentary; the added line ("I have reviewed plans where this cycle absorbed an entire category's manufacturer rebate within a quarter") is the kind of specificity only PBS could write.
 
 #### Post Copy
 
@@ -594,9 +598,9 @@ Let me show you how manufacturer money flows.
 
 High list price enables rebates. Rebates partly fund copay assistance. Copay assistance keeps patients on the drug. The drug generates more rebates.
 
-Somewhere in this cycle, your plan is paying. The question is whether you understand where.
+I have reviewed plans where this cycle absorbed an entire category's manufacturer rebate within a quarter. Not because anybody was hiding it. Because nobody was looking at the flow in one place.
 
-Copay cards, patient support programs, hub services: they are not free. They are funded.
+Your plan is paying somewhere in this cycle. Copay cards, patient support programs, hub services: they are not free. They are funded.
 
 Next week: following the flow.
 

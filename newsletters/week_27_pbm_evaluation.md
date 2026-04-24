@@ -390,8 +390,10 @@ Use the canonical "Contract Language Library" prompt from `newsletters/week_17_c
 **Template:** Contract Comparison carousel (template #4, PROVEN). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01, 02, and 03.
 **Format class:** Carousel (Tuesday Cycle-W5 slot)
 **Pillar:** Broker/Consultant Resources (different from Monday's PBM Contract Insights / PBM Evaluation topic)
-**Content shape:** Decoder. **Library 04** in the Library NN series. Focus: contract language that governs performance-review data access and methodology.
-**Why this combination:** The "annual performance review" is only as good as the contract clauses that define what data the PBM must deliver, how guarantees are calculated, and what leverage the plan has if reports are inadequate. Library 04 gives brokers and plan sponsors the exact redlines they need to make performance reviews into audits, not PowerPoints.
+**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 04 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Focus: contract language that governs performance-review data access and methodology.
+**Why this combination:** The "annual performance review" is only as good as the contract clauses that define what data the PBM must deliver, how guarantees are calculated, and what leverage the plan has if reports are inadequate. Library 04 gives brokers and plan sponsors the exact redlines they need to make performance reviews into audits, not PowerPoints. Closing slide funnels back to the Substack Contract Language Library where the full protective language lives.
+
+> **Success metric (Library 04):** Target 12+ saves in first 2 weeks. Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework based on first-week feed impressions alone. Publish a contingent Substack Note once save count crosses 10.
 
 #### Post Copy
 

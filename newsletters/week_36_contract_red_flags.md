@@ -229,8 +229,10 @@ This week's Benefit Blind Spots includes a **contract language comparison librar
 **Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-05.
 **Format class:** Carousel (Tuesday Cycle-W2 slot, fourth cycle)
 **Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Contract Red Flags topic)
-**Content shape:** Decoder. **Library 06** in the Library NN series — decodes the three contract clauses that create the observable Q4 cost patterns (copay card accumulator handling, year-end stockpiling via channel pricing, specialty timing via claim-cutoff language). Funnels to Contract Library Substack post.
-**Why this combination:** Parallels Library 03's mid-year pattern decoder at the Q4-close moment. Plans that see the Q4 cost patterns but do not understand the clause origin re-experience them every year. Library 06 names the three clauses and provides the redlines so the patterns can actually be prevented, not just flagged.
+**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 06 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Library 06 decodes the three contract clauses that create the observable Q4 cost patterns (copay card accumulator handling, year-end stockpiling via channel pricing, specialty timing via claim-cutoff language).
+**Why this combination:** Parallels Library 03's mid-year pattern decoder at the Q4-close moment. Plans that see the Q4 cost patterns but do not understand the clause origin re-experience them every year. Library 06 names the three clauses and provides the redlines so the patterns can actually be prevented, not just flagged. Closing slide funnels back to the Substack Contract Language Library where the full protective language lives.
+
+> **Success metric (Library 06):** Target 12+ saves in first 2 weeks. Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework based on first-week feed impressions alone. Publish a contingent Substack Note once save count crosses 10.
 
 #### Post Copy
 

@@ -222,14 +222,46 @@ Additional provision-specific deep dives publish throughout the year. The formul
 
 *Illustrative examples for educational purposes. Actual contract terms vary by plan, PBM, and market conditions.*
 
-*Last updated: April 2026*
-*Next update: July 2026*
+*Last updated (this file): April 2026*
+*Last pushed to Substack: April 2026*
+*Next quarterly push to Substack: July 2026*
 
 ---
 
-## Q3 2026 Update Queue (Internal Notes)
+## How this file stays in sync with Substack
 
-Additions to fold into the July 2026 update, sourced from the Week 16 "The Five Clauses That Decide Your PBM Contract" Library 01 carousel:
+This markdown file is the source of truth. Substack holds a rendered copy. The two are synced on a **quarterly cadence** (January, April, July, October) so the published post does not get rewritten every week — reference documents hold weight only when they feel stable.
+
+### Quarterly update workflow (standing process)
+
+**Between quarter boundaries (ongoing):**
+- Every new Library NN carousel, every contract review field note, and every "What I'd Ask" scenario that surfaces a provision not already in the main library above gets appended to the current-quarter Update Queue below. This happens automatically as content ships — if a week's work draws on a contract clause that is not yet in the library, the clause goes into the queue before the week's work is committed.
+- The queue entry captures: the provision name, which section it belongs in (Pricing / Rebate / Audit / Clinical / Termination / Specialty / new), the weak "what you might see" language, the plain-English interpretation, the protective "what to ask for" language, and the source week number.
+
+**At each quarter boundary (Jan 1, Apr 1, Jul 1, Oct 1 — first business day):**
+- The quarter-end session reviews the Update Queue and produces a consolidated "push to Substack" brief for Ginny. The brief lists each new provision in library format (ready to paste) and flags any existing provision that needs expansion.
+- Ginny updates the live Substack post from the brief.
+- Once pushed, the Update Queue is closed (moved to Update Log below), the "Last pushed to Substack" date at the top of this file is updated, and a fresh empty Update Queue is opened for the next quarter.
+- Publication of an updated Substack post is a calendar event: Ginny announces the update via LinkedIn and Substack Notes. The save count on in-flight Library NN carousels typically spikes around these announcements because the carousels point readers to the newly-expanded Substack post.
+
+**If a new Library NN carousel ships within 2 weeks of a quarter boundary**, the carousel's provisions get surfaced to the Update Queue immediately and rolled into the next quarter's push rather than waiting. This keeps the Substack reference closer to what LinkedIn readers are seeing in the carousel.
+
+---
+
+## Update Log (Substack sync history)
+
+| Date pushed to Substack | Quarter | Provisions added | Provisions expanded | Source |
+|-------------------------|---------|------------------|---------------------|--------|
+| April 2026 (initial) | Q2 2026 | Full initial library (Pricing, Rebate, Audit, Clinical, Termination, Specialty) | - | Week 17 launch |
+| _Pending: July 2026_ | Q3 2026 | Generic-drug definition, spread pricing / claim pricing | Termination notice (add termination-for-convenience) | Week 16 Library 01 |
+
+Pending-row content ships to Substack at the next quarter-boundary review.
+
+---
+
+## Q3 2026 Update Queue (pending, publishes July 2026)
+
+**Source: Week 16 (Apr 21, 2026) Library 01 carousel — "The Five Clauses That Decide Your PBM Contract."** See `newsletters/week_16_prior_authorization.md` Post 53 section for the redline visuals and "Why it matters" framing that can be lifted into the library copy.
 
 **New provisions to add:**
 
@@ -250,4 +282,10 @@ Additions to fold into the July 2026 update, sourced from the Week 16 "The Five 
    - Additional "what it actually means": No PBM will ever concede "material breach" in writing, so this clause locks you in for the contract duration regardless of performance.
    - Additional "what you should ask for": "Plan Sponsor may terminate this Agreement for convenience upon ninety (90) days' written notice, without penalty, repayment of implementation credits, or recoupment of rebates already earned."
 
-**Source:** Week 16 (Apr 21, 2026) Library 01 carousel. See `newsletters/week_16_prior_authorization.md` Post 53 section for the redline visuals and "Why it matters" framing that can be lifted into the library copy.
+**Planned additions (Library 02, ships Week 21 May 26):** rebate definition breadth, AWP discount base specificity, guarantee remediation timing and audit rights, termination data-transfer language, audit scope and frequency. These will be appended to this queue immediately after Library 02 ships.
+
+---
+
+## Q4 2026 Update Queue (pending, publishes October 2026)
+
+_(Empty — opens when Library 02 ships on May 26, 2026.)_

@@ -296,8 +296,10 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 **Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-04.
 **Format class:** Carousel (Tuesday Cycle-W5 slot, third cycle)
 **Pillar:** Broker/Consultant Resources (different from Monday's Self-Funded / Member Communication topic)
-**Content shape:** Decoder. **Library 05** in the Library NN series — decodes the contract clauses that anchor the five Q4 renewal-prep conversations strong brokers run. Funnels to Contract Language Library Substack post.
-**Why this combination:** Q4 is the strategic conversation window for brokers; the quality of each conversation depends on whether the contract gives them standing to have it. Library 05 pairs each of the five Q4 conversations (biosimilar pipeline, stop-loss alignment, PBM evaluation calendar, fiduciary documentation, independent claims data access) with the specific contract clause that either permits or blocks the action, with a redline on each.
+**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 05 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Library 05 decodes the contract clauses that anchor the five Q4 renewal-prep conversations strong brokers run.
+**Why this combination:** Q4 is the strategic conversation window for brokers; the quality of each conversation depends on whether the contract gives them standing to have it. Library 05 pairs each of the five Q4 conversations (biosimilar pipeline, stop-loss alignment, PBM evaluation calendar, fiduciary documentation, independent claims data access) with the specific contract clause that either permits or blocks the action, with a redline on each. Closing slide funnels back to the Substack Contract Language Library where the full protective language lives.
+
+> **Success metric (Library 05):** Target 12+ saves in first 2 weeks. Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework based on first-week feed impressions alone. Publish a contingent Substack Note once save count crosses 10.
 
 #### Post Copy
 

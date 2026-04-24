@@ -400,6 +400,8 @@ Ginny Crisp maps what shifted and what employers should revisit now.
 
 *Expanded from 75 to ~230 words for dwell time optimization. Hook stays above 210-character "See More" cutoff.*
 
+> **NOTE (revised Apr 24 after Weeks 15-16 review):** Opener kept (strong, unfakeable with disclaimer). Added origin-story paragraph for proprietary anchor per Humanize Check rule (e). Removed "The value we add is..." sales phrasing. Collapsed the process-vs-crisis Formula-4 close per rule (b). Broker-partner frame preserved.
+
 #### Post Copy
 
 One drug. One patient. One claim. $2.1 million.
@@ -408,15 +410,15 @@ That is not hypothetical. Gene therapies at this price point are already approve
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
 
-Here is what the strongest brokers in our network are flagging right now: the pharmacy contract and the stop-loss policy need to be compared side by side for single-claim gene therapy coordination. Both documents exist. Both were negotiated carefully. But they were drafted by different teams against different models, and reconciling the two is the kind of work that benefits from an independent pharmacy-side review alongside the broker and stop-loss carrier.
+A couple years ago I sat in a client meeting where a gene therapy claim came across the desk that was bigger than any single claim the plan had ever paid. The CFO asked me what they were supposed to do. I told him honestly that we were going to build the answer together, because the category was new. That meeting is why I keep the pipeline watch list now. I do not want to be in another room where the answer is improvised.
 
-That reconciliation is where the financial shock gets prevented. Not in the drug cost itself, which is known. In the coverage coordination, which deserves a deliberate cross-document check rather than an assumption.
+Here is what the strongest brokers flag for their clients before a claim like that one lands: the pharmacy contract and the stop-loss policy need to be read side by side for single-claim gene therapy coordination. Both documents exist. Both were negotiated carefully. But they were drafted by different teams against different models, and reconciling them benefits from an independent pharmacy-side review alongside the broker and stop-loss carrier.
 
-The pipeline makes this more urgent every quarter. New gene therapies are advancing across hemophilia, sickle cell disease, rare metabolic conditions, and several forms of cancer. Each approval expands the population of members who could generate a claim that exceeds the specific stop-loss attachment point in a single day.
+That reconciliation is where the financial shock gets prevented. Not in the drug cost, which is known. In the coverage coordination, which deserves a deliberate cross-document check rather than an assumption.
 
-Your stop-loss carrier has modeled this. Your PBM has modeled this. Your broker is almost certainly raising the coordination question. The value we add is running the pharmacy-side analysis so all three models can be reconciled at the same table, ideally well before renewal.
+Your stop-loss carrier has modeled this. Your PBM has modeled this. Your broker is raising the coordination question. The pharmacy-side analysis is the piece that pulls the three models onto the same page, ideally well before renewal.
 
-That reconciliation is a one-meeting, two-document conversation when the broker, the stop-loss carrier, and the pharmacy reviewer are in the same room. The employers who build that meeting into their quarterly cadence handle these claims as a process. The ones who wait for the claim to force the meeting handle them as a crisis. The broker usually sees it coming first. Our role is making sure the pharmacy documents are ready when the broker calls.
+The employers who build that meeting into their quarterly cadence handle these claims as a process. The ones who wait for the claim to force the meeting do not.
 
 #### VIDEO SCRIPT OPTION (40 seconds, filmed on phone)
 
