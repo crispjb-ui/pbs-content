@@ -42,31 +42,39 @@
 - **Total Followers Gained:** +104+ (from posts alone)
 - **Total Profile Viewers:** 520+
 
-### All-Time Rankings by Impressions
+### All-Time Rankings by Impressions (Updated Apr 24, 2026)
 
 | Rank | Post | Format | Impressions | Pillar |
 |------|------|--------|-------------|--------|
 | 1 | GLP-1 Reality Check | Text Only | 41,594 | Clinical Pharmacy |
-| 2 | Express Scripts Lawsuit | Link Share | 26,431 | Transparency |
-| 3 | "PBM contracts have their own language" | Messy Infographic | 22,047 | PBM Contract Insights |
-| 4 | 5 PBM Reporting Questions | Carousel | 19,404 | Self-Funded Guidance |
-| 5 | Rebate Confusion Guide | Carousel | 18,185 | PBM Contract Insights |
-| 6 | DIR fees best-kept secrets | Carousel | 10,727 | PBM Contract Insights |
-| 7 | Biosimilars Savings | Infographic | 10,555 | Cost Containment |
-| 8 | "Same drug. Same dose. Same member." | Carousel | 6,957 | PBM Contract Insights |
-| 9 | GLP-1 Strategies | Carousel | 5,807 | Clinical Pharmacy |
-| 10 | Specialty Carve-Out | Carousel | 2,535 | Cost Containment |
-| 11 | "Specialty pharmacy question most employers never ask" | Tease Hook Text | 2,549 | Cost Containment |
-| 12 | We're hiring | Job/Link | 2,418 | - |
-| 13 | Audit rights "means nothing" | POV Text | 1,993 | PBM Contract Insights |
-| 14 | LI Newsletter (Edition 5 - Specialty Pharmacy) | Newsletter | 860 | Cost Containment |
-| 15 | LI Newsletter (Edition 3) | Newsletter | 823 | Self-Funded Guidance |
-| 16 | LI Newsletter (Edition 4) | Newsletter | 661 | PBM Contract Insights |
-| 17 | "Audit clause nobody reads" | Carousel | 623 | PBM Contract Insights |
-| 18 | "Data without questions" text | POV Text | 499 | Self-Funded Guidance |
-| 19 | "Specialty Pharmacy Decision?" | Carousel (7p) | 498 | Cost Containment |
-| 20 | "Your PBM contract defines what you pay" | POV Text | 495 | PBM Contract Insights |
-| 21 | "White bagging saves employers substantial money" | POV Text | 19,507 | Cost Containment |
+| 2 | 340B "$20 vs $100 same drug" (Cuban reposted + commented) | POV Text (Dollar Comparison) | **42,968** | Transparency |
+| 3 | Express Scripts Lawsuit | Link Share | 26,431 | Transparency |
+| 4 | PA "everyone agrees is broken" (Cuban commented) | POV Text | **22,289** | Clinical Pharmacy |
+| 5 | "PBM contracts have their own language" (Mar 11 original) | Messy Infographic | 22,047 | PBM Contract Insights |
+| 6 | White bagging saves employers substantial money (Cuban reposted Apr 5) | POV Text | 19,507 | Cost Containment |
+| 7 | "PBM contracts have their own language" (Apr 7 re-surge with Cuban) | Messy Infographic | **19,470** | PBM Contract Insights |
+| 8 | 5 PBM Reporting Questions | Carousel | 19,404 | Self-Funded Guidance |
+| 9 | Rebate Confusion Guide | Carousel | 18,185 | PBM Contract Insights |
+| 10 | 340B "pricing gap most employers do not track" (Cuban reposted) | Messy Infographic | **12,885** | Transparency |
+| 11 | DIR fees best-kept secrets | Carousel | 10,727 | PBM Contract Insights |
+| 12 | Biosimilars Savings | Infographic | 10,555 | Cost Containment |
+| 13 | "Same drug. Same dose. Same member." | Carousel | 6,957 | PBM Contract Insights |
+| 14 | GLP-1 Strategies | Carousel | 5,807 | Clinical Pharmacy |
+| 15 | PA "5 terms in your PA contract" (Cuban reposted, 1d snapshot, will climb) | Messy Infographic | **4,304** | PBM Contract Insights |
+| 16 | Specialty Carve-Out | Carousel | 2,535 | Cost Containment |
+| 17 | "Specialty pharmacy question most employers never ask" | Tease Hook Text | 2,549 | Cost Containment |
+| 18 | We're hiring | Job/Link | 2,418 | - |
+| 19 | Library 01 Contract Comparison carousel (3d, reference-asset behavior) | Carousel (7p) | **2,129** | PBM Contract Insights |
+| 20 | Audit rights "means nothing" | POV Text | 1,993 | PBM Contract Insights |
+| 21 | LI Newsletter Edition 7 (Prior Authorization Briefing, Apr 20) | Newsletter | **1,752** | Clinical Pharmacy |
+| 22 | Admin-fee dollar comparison ("$25-40 admin. $60-80 clinical.") | POV Text | **1,336** | PBM Contract Insights |
+| 23 | LI Newsletter Edition 5 (Specialty Pharmacy) | Newsletter | 860 | Cost Containment |
+| 24 | LI Newsletter Edition 3 | Newsletter | 823 | Self-Funded Guidance |
+| 25 | LI Newsletter Edition 4 | Newsletter | 661 | PBM Contract Insights |
+| 26 | "Audit clause nobody reads" | Carousel | 623 | PBM Contract Insights |
+| 27 | "Data without questions" text | POV Text | 499 | Self-Funded Guidance |
+| 28 | "Specialty Pharmacy Decision?" | Carousel (7p) | 498 | Cost Containment |
+| 29 | "Your PBM contract defines what you pay" | POV Text | 495 | PBM Contract Insights |
 
 ### All-Time Rankings by Follower Conversion
 

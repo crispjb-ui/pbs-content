@@ -193,21 +193,22 @@ The LinkedIn newsletter CTA references the specific exclusive tool: "This week's
 
 ### Primary conversion metric: followers per 10K impressions
 
-LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of April 21, 2026: **1,573 LinkedIn followers, 735 newsletter subscribers**.
+LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of April 24, 2026: **1,610 LinkedIn followers, 757 newsletter subscribers, 47 Substack subscribers**. Week 16 added 45 outbound replies to larger accounts as a parallel growth channel (first aggregate captured; `linkedin_performance_tracker.md` Reply Volume Log).
 
-### All-time top posts by impressions (top 9)
+### All-time top posts by impressions (top 10)
 
 | Rank | Impr | Post | Shape |
 |------|------|------|-------|
 | 1 | 64,323 | GLP-1 "1 in 12" | Topic: GLP-1 |
-| 2 | 39,025 | Generic drugs cost pennies to make, plans pay dollars | Dollar comparison |
-| 3 | 38,631 | 340B "$20 vs $100 same drug" (Mark Cuban engagement) | Dollar comparison + amplifier |
+| 2 | 42,968 | 340B "$20 vs $100 same drug" (Mark Cuban reposted + commented, Apr 15) | Dollar comparison + amplifier |
+| 3 | 39,025 | Generic drugs cost pennies to make, plans pay dollars | Dollar comparison |
 | 4 | 26,491 | Express Scripts "flipped" drugs (news + article) | News critique |
 | 5 | 24,830 | DIR fees are pharmacy's best-kept secret | Decoder |
 | 6 | 23,275 | PBM contracts have their own language | Decoder (messy infographic) |
-| 7 | 21,444 | White bagging saves employers money (specialty) | Specialty / site-of-care |
-| 8 | 20,683 | 5 PBM Reporting Questions carousel | 5-Questions evergreen carousel |
-| 9 | 20,563 | Copay Accumulators ("There is a program running…") | Decoder |
+| 7 | 22,289 | PA "everyone agrees is broken" (Cuban commented, Apr 17 Fri) | POV / soft consensus |
+| 8 | 21,444 | White bagging saves employers money (specialty) | Specialty / site-of-care |
+| 9 | 20,683 | 5 PBM Reporting Questions carousel | 5-Questions evergreen carousel |
+| 10 | 20,563 | Copay Accumulators ("There is a program running…") | Decoder |
 
 ### Key patterns from the data
 
@@ -217,7 +218,7 @@ LinkedIn auto-prompts newsletter subscription immediately after a follow, so fol
 - **Mark Cuban is a reliable amplifier on PBM/340B adversarial content.** Cuban-assisted posts see +60-75% reach vs. non-amplified baseline. Content shapes he engages with: dollar comparison, industry-adversary framing, decoder of PBM practices, 340B critique. Cannot be engineered per post; should be factored as a distribution variable when those shapes are on the calendar.
 - **"Best-kept secret" is a proven confrontational opener** alongside the dollar-comparison structure already in the Wednesday hook rule.
 - **Hospitals & Health Care is a new and growing audience segment** (9-19% of post viewers across recent posts). Pulled in by 340B and contract-language content. Worth treating as a named audience tier alongside the existing 24-41% 10,001+ employee segment.
-- **Decoder carousel performance is forecast, not measured.** Library 01 shipped April 21, 2026 as the first branded Contract Comparison carousel in the Library NN series. Early indications from comparable prior decoder carousels (~18K, 22 followers gained, 7 saves, 11 reposts) suggest similar range is likely. Backfill real Library 01-03 numbers after 2-week window.
+- **Library 01 behaves as a reference document, not a feed post.** First branded Contract Comparison carousel shipped April 21, 2026. 3-day actuals: **2,129 impressions, +2 followers, 14 saves, 4 reposts, 3 sends, 25 profile viewers**. Against the 18K / 22-follower / 7-save / 11-repost forecast from comparable prior decoder carousels, reach and conversion came in at 9-12% of forecast while saves came in at 200% of forecast. The divergence is consistent: contract-language carousels dense with redlines and side-by-side legal quotes do not travel on the LinkedIn feed the way dollar comparisons or simple decoders do, but they get bookmarked at rates no other PBS format matches. **Reframe Library NN as bookmark-driven reference assets** whose success metric is saves and long-tail profile visits, not first-week impressions. Backfill Library 02-N against the same metric set.
 - **Confrontational hooks outperform informational by 10-100x** on LinkedIn (carried from prior data set, still holds).
 - **Newsletter is the primary conversion engine:** 735 subs at 49% open rate, accelerating.
 - **Saves correlate with educational depth:** checklists, frameworks, comparisons get bookmarked.
