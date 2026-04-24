@@ -375,8 +375,10 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 **Template:** Contract Comparison carousel from `claude_design_prompts.md` (template #4, PROVEN April 2026). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
 **Format class:** Carousel (Tuesday Cycle-W5 slot)
 **Pillar:** Broker/Consultant Resources (different from Monday's PBM Contract Insights / Compounding Oversight topic)
-**Content shape:** Decoder (20-25K impression floor, 9-12 followers per 10K conversion rate). Also a Library NN series entry — **Library 02** in the "PBM Contract Language · Library NN" series.
-**Why this combination:** Library 01 shipped April 21 and is the series benchmark. Library 02 extends the same Contract Comparison redline aesthetic to broker-readable clauses. Broker pillar framing positions the content as "here is what the best brokers read first, so you know what to expect at your next renewal meeting," consistent with the brokers-as-partners brand rule. Funnels to the Contract Language Library Substack post via the closing slide.
+**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, **14 saves, 4 reposts** — 9-12% of forecast on reach and conversion, 200% of forecast on saves. Success metric for Library 02 mirrors Library 01: saves and long-tail profile visits over 30 days, not first-week impressions. **Do not evaluate this post on the 20-25K decoder floor.**
+**Why this combination:** Library 01 (April 21, Week 16 Tuesday) demonstrated the Library NN series behaves as a reference document, not a feed post. Dense with redlines and side-by-side legal quotes, these carousels do not travel on the LinkedIn feed the way dollar comparisons or simple decoders do, but they are bookmarked at rates no other PBS format matches. Library 02 extends the same aesthetic to broker-readable clauses and is scheduled on the same reference-asset logic. Broker pillar framing positions the content as "here is what the best brokers read first, so you know what to expect at your next renewal meeting," consistent with the brokers-as-partners brand rule. Funnels to the Contract Language Library Substack post via the closing slide, where the full protective language lives.
+
+> **Success metric (Library 02):** Target 12+ saves in the first 2 weeks (Library 01 hit 14 in 3 days). Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework this format based on first-week feed impressions alone — the Library NN pattern is bookmark-first, feed-distributed-second.
 
 #### Post Copy
 
@@ -392,13 +394,27 @@ I redlined each of them below.
 
 The brokers who win renewal negotiations do not arrive to learn. They arrive to verify. Self-funded sponsors should expect that standard from their broker, and brokers should expect their clients to ask for it.
 
-Swipe through for the redline on each clause.
+Swipe through for the redline on each clause. Save this one — it is the carousel you want pulled up at your next renewal meeting.
 
 #PharmacyBenefits #BrokerResources #PBMContracts #SelfFundedEmployers
 
 #### First Comment
 
 The full protective language for each of these five clauses sits in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+
+#### Contingent Substack Note (publish 3-5 days post-launch, once save count is visible)
+
+**Trigger:** Library 02 accumulates 10+ LinkedIn saves.
+
+**Note copy (one-liner, Substack publication under Benefit Blind Spots):**
+
+> Library 02 just crossed [N] saves in [X] days on LinkedIn. Apparently these are the clauses worth keeping pulled up at your next renewal meeting.
+>
+> The full protective language for all five — plus ten more — lives in our free Contract Language Library on Benefit Blind Spots.
+>
+> [Link to Library 02 carousel on LinkedIn] · [Link to Contract Language Library Substack post]
+
+**Why:** Social-proof cross-promo. Library 01 hit 14 saves in 3 days on LinkedIn; using the real count as a hook converts the bookmark behavior into Substack traffic and gives the Library NN series a visible momentum story. Skip this note if save count under 10 at the 5-day mark — the hook only works with the real number.
 
 #### Carousel Slide-by-Slide Spec
 
