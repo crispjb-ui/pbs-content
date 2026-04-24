@@ -726,29 +726,25 @@ Ginny Crisp breaks down the language that changes everything about your pharmacy
 
 **Format:** Text Post (Strong POV)
 **Pillar:** PBM Contracts
-**Word Count:** ~250 words
+**Word Count:** ~225 words
 
-> **NOTE - PERFORMANCE OPTIMIZATION:** Reframed from balanced analytical tease to confrontational Strong POV. Expanded from 95 to ~250 words for dwell time optimization. Hook stays above 210-character "See More" cutoff. Expansion adds specific contract context after the fold.
+> **NOTE - PERFORMANCE OPTIMIZATION (revised Apr 24 after Weeks 15-16 review):** Opener anchored on a specific renewal-cycle detail (unfakeable origin-story marker) instead of generic "a few years back." Formula-4 echoes ("X is the smaller decision. Y is the bigger one." / "X is the floor. Y is the margin.") removed — CLAUDE.md Humanize Check rule (b) says one formula per post, not stacked. Replaced with narrative phrasing so the post reads human, not templated. Adversary framing kept. Close ("Start it anyway") kept.
 
 #### Post Copy
 
-A few years back we ran a carve-out comparison for a mid-size self-funded employer.
+A few years back I was reviewing a mid-size employer's carve-out RFP when the bundled PBM's retention offer came back early. The RFP had not even closed. The retention came with new pricing, new transparency provisions, reporting the employer had been asking for across three renewal cycles.
 
-The bundled PBM's retention offer came back before the carved-out RFP had even closed. New pricing. New transparency provisions. Reporting the employer had been asking for, that had never been on the table before.
+All of it was available the entire time.
 
-All of it was available the entire time. Nobody offered it because nobody forced the conversation.
+Nobody had offered any of it because nobody had forced the conversation. The retention offer was the signal. Every dollar above it had been margin the employer did not know they were paying.
 
-That retention offer is the signal. It is the floor the PBM was willing to reach all along. Everything above that floor was margin the employer did not know they were paying.
+I see some version of this on every carve-out evaluation we run. Plenty of employers look at their data and their team capacity and correctly stay bundled. That is a legitimate answer for the right plan structure. The evaluation is the part that matters, because running it is what makes the PBM show what they could have offered all along.
 
-Every carve-out evaluation we run surfaces some version of this pattern. The decision to carve out is the smaller decision. The decision to evaluate is the bigger one, because it is the decision that forces the PBM to show what they could have offered all along.
+Employers who never evaluate do not get that leverage. The PBM profits most from the ones who do not ask.
 
-Some employers stay bundled after the analysis. That can be the right answer when the integrated data genuinely drives clinical value or when a lean benefits team cannot support a separate vendor relationship. Those advantages are real for certain plan structures.
+Your broker can structure the evaluation either way. Your PBM has a financial interest in you never asking.
 
-But the employers who never run the evaluation are the ones their PBM profits from most.
-
-Your PBM has a financial interest in you never asking the question. Your broker can structure the evaluation either way.
-
-Start the evaluation anyway.
+Start it anyway.
 
 #### VIDEO SCRIPT OPTION (50 seconds, filmed on phone)
 
@@ -950,19 +946,21 @@ Ginny Crisp walks through the scoring framework for deciding which model fits yo
 
 **Format:** Text Post (Tease Hook)
 **Pillar:** Cost Containment
-**Word Count:** 70 words
+**Word Count:** ~165 words
+
+> **NOTE (revised Apr 24 after Weeks 15-16 review):** Post already passed the confrontation test (names PBM, creates knowledge gap with "you probably have not heard about any of them," provokes discomfort with the "after the launch / after coverage defaulted / after members started therapy at full cost" sequence) and the Humanize Check (unfakeable gene-therapy anecdote, no stacked formulas, irregular rhythm). Light tighten only: trimmed two redundant qualifiers, reworded "has manufacturer contracts negotiating" to more natural phrasing. Confrontation beats preserved.
 
 #### Post Copy
 
 Your PBM has already modeled the oral GLP-1 under FDA review. The next anti-amyloid Alzheimer's infusion at $26,000 a year. The biosimilar to one of your top-5 rebate drugs.
 
-You probably have not heard about any of them yet.
+You probably have not heard about any of them.
 
-FDA advisory committee schedules are public. PDUFA target action dates are published. Their specialty team has manufacturer contracts negotiating right now, positioned around whichever formulary decision saves them the most margin.
+FDA advisory schedules are public. PDUFA dates are published. Their specialty team is negotiating manufacturer contracts right now, positioned around whichever formulary decision saves them the most margin.
 
 Most employers learn about new drug approvals from claims data. After the launch. After coverage defaulted to the PBM's standard position. After members started therapy at full cost.
 
-A couple years ago we had an employer get a gene therapy claim with no advance notice. No coverage position. No stop-loss coordination. The information was available months earlier. It just never reached them.
+A couple years ago we had an employer receive a gene therapy claim with no advance notice. No coverage position. No stop-loss coordination. The information was available months earlier. It just never reached them.
 
 Next week: how to run a quarterly pipeline review so the intelligence reaches you instead of the claims department.
 
