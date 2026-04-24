@@ -381,17 +381,21 @@ Ginny Crisp walks through the five decisions that have to land before Q1.
 **Pillar:** Cost Containment Strategies
 **Word Count:** ~220 words
 
+> **NOTE (revised Apr 24):** Three Formula-4 stacks removed per Humanize Check rule (b): "Different setting. Different cost.", "Not percentages. Multiples.", and "The barrier is not clinical. It is structural." Replaced with an unfakeable origin-story paragraph drawn from the Monday newsletter's site-of-care client example. Same-X / Same-Y opener preserved (proven 22K-impression shape).
+
 #### Post Copy
 
-Same infusion. Hospital outpatient: one price. Home infusion: a fraction. Same drug. Same outcome. Different setting. Different cost.
+Same infusion. Hospital outpatient: one price. Home infusion: a fraction. Same drug. Same outcome.
 
-The administration setting can change the cost of an infusion therapy by multiples. Not percentages. Multiples. And for most plans, the default setting was chosen by inertia, not by analysis.
+The administration setting can change the cost of an infusion therapy by multiples. For most plans, the default setting was chosen by inertia, not by analysis.
+
+A client's broker flagged a site-of-care opportunity last year on a single rheumatology biologic. When we pulled the numbers, moving that drug's infusions out of the hospital outpatient setting into home infusion produced facility-fee savings at a meaningful share of the plan's entire annual pharmacy spend. One category. One drug class. One routing decision that had never been questioned.
 
 Hospital outpatient departments apply facility fees that can multiply the administration cost beyond the drug itself. Those fees do not improve the clinical outcome for stable, maintenance infusion patients. They improve the hospital's revenue. The clinical guidelines for most infusion biologics do not require hospital administration after the initial doses.
 
 Ambulatory infusion centers and home infusion eliminate facility fees entirely. For clinically stable members on established therapies, these settings are clinically appropriate and substantially less expensive.
 
-The barrier is not clinical. It is structural. Site-of-care crosses the pharmacy and medical benefit boundary. The drug is covered under one benefit. The administration under the other. Nobody coordinates the total cost because nobody owns both sides.
+Site-of-care crosses the pharmacy and medical benefit boundary. The drug is covered under one benefit. The administration under the other. Nobody coordinates the total cost because nobody owns both sides.
 
 Your broker can help bridge that gap. The best advisory teams are already identifying site-of-care opportunities in claims reviews and coordinating across PBM and medical plan vendors.
 

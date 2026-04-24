@@ -438,13 +438,15 @@ Ginny Crisp walks through the scorecard that separates reported savings from ver
 ## Post 120 - Friday 10:00 AM
 ### Tease Hook - TEASES WEEK 33
 
+> **NOTE (revised Apr 24):** Dropped the "Same change. Different communication. Different outcome." rule-of-three stacked on top of the Formula-4 "not the clinical decision. It is the messaging." close, per Humanize Check rule (b). Kept the stronger Formula-4 beat.
+
 #### Post Copy
 
 You saved your plan six figures by switching to a biosimilar. Your members think you took away their medication.
 
 The best pharmacy strategy fails without the right communication. Formulary changes. Biosimilar transitions. Network changes. PA implementation. Each one is clinically sound and financially justified. Each one feels like a takeaway to the member who gets the letter.
 
-The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging. Same change. Different communication. Different outcome.
+The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging.
 
 Next week: communicating pharmacy changes, and five scenario-specific templates that prevent the backlash.
 

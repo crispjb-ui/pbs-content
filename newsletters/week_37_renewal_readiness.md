@@ -581,17 +581,19 @@ Ginny Crisp translates the language and shows what to replace it with.
 
 ## Post 138 - Wednesday 10:00 AM
 
+> **NOTE (revised Apr 24):** Dropped "Data first. Analysis second. Preparation third." rule of three and softened "Not because they are less capable. Because they started later." to plain prose per Humanize Check rule (b). Kept the closer "Preparation is the strategy. Renewal is just the meeting." as the post's punchline.
+
 #### Post Copy (~230 words)
 
 Renewal season starts in weeks. The employers who prepared in Q3 will negotiate different outcomes than those who did not.
 
 Over 13 weeks, we covered the full renewal preparation arc. Data benchmarking. Formulary evaluation. PBM relationship scoring. Network cost analysis. Rebate contract provisions. RFP design. Clinical program verification. Member communication strategy. Specialty management assessment. Negotiation tactics. Contract language comparison.
 
-Each week built on the one before. Data first. Analysis second. Preparation third. The sequence matters because each phase depends on the previous one. You cannot write a term sheet without understanding your contract. You cannot analyze your contract without understanding your data.
+Each week built on the one before, because each phase depends on the previous one. You cannot write a term sheet without understanding your contract. You cannot analyze your contract without understanding your data.
 
 The employers who followed this arc have their own claims analysis, their own market benchmarks, a term sheet with specific language, advisory team alignment, and communication plans for anticipated changes. They will walk into renewal as informed buyers.
 
-The employers who did not will walk in with the PBM's summary report. They will react to the PBM's framework. They will negotiate within terms the PBM set. Not because they are less capable. Because they started later.
+The employers who did not will walk in with the PBM's summary report. They will react to the PBM's framework. They will negotiate within terms the PBM set. Timing, not capability, is what separates them.
 
 If you are reading this and you have not started, three steps take about one working day: run five core metrics, flag ten contract provisions, have three conversations. That day of preparation changes outcomes more than any single contract provision.
 
