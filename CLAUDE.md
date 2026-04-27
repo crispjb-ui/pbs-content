@@ -50,12 +50,14 @@
 
 | Day | Format | Time |
 |-----|--------|------|
-| Tuesday | Carousel / Infographic / Messy Infographic | 8:30 AM EST |
+| Tuesday | Carousel / Infographic / Messy Infographic | 10:00 AM EST |
 | Tuesday | Company Reshare | 1:30 PM EST |
-| Wednesday | Strong POV Text Post (confrontational hook required) | 8:30 AM EST |
-| Thursday | Carousel / Infographic / Messy Infographic | 8:30 AM EST |
+| Wednesday | Strong POV Text Post (confrontational hook required) | 10:00 AM EST |
+| Thursday | Carousel / Infographic / Messy Infographic | 10:00 AM EST |
 | Thursday | Company Reshare | 1:30 PM EST |
-| Friday | Tease Hook Text Post (teases next week's newsletter) | 8:30 AM EST |
+| Friday | Tease Hook Text Post (teases next week's newsletter) | 10:00 AM EST |
+
+**Posting-time test (active April 2026, continuing through ~Week 18):** Tue-Fri feed posts shifted from 8:30 AM EST to 10:00 AM EST, research-backed optimal time. Week 16 (Apr 21-24) was the first full week on the 10:00 AM schedule. Track Week 16-18 separately when comparing performance to historical Q1/early-Q2 8:30 AM baselines — early-2026 impression and conversion floors were measured at 8:30 AM, so direct comparison without time normalization risks attributing time-shift effects to format or content shape.
 
 ### Channel 2: LinkedIn Newsletter
 - **Name:** "The Pharmacy Benefits Briefing"
