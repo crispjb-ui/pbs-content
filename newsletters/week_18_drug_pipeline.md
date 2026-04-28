@@ -402,6 +402,8 @@ Ginny Crisp maps what shifted and what employers should revisit now.
 
 > **NOTE (revised Apr 24 after Weeks 15-16 review):** Opener kept (strong, unfakeable with disclaimer). Added origin-story paragraph for proprietary anchor per Humanize Check rule (e). Removed "The value we add is..." sales phrasing. Collapsed the process-vs-crisis Formula-4 close per rule (b). Broker-partner frame preserved.
 
+> **NOTE (revised again Apr 24 for broker sensitivity):** Earlier draft had three lines that could read as implying brokers were missing the coordination question — same pattern that got the Week 14 Stop-Loss newsletter deleted. (a) The CFO asked PBS what to do, not the broker. (b) "The strongest brokers flag for their clients..." implied other brokers do not. (c) "Your broker is raising the coordination question. The pharmacy-side analysis is the piece..." positioned PBS as the layer above the broker. Reframed so the broker is in the meeting alongside PBS from the start; PBS adds pharmacy-side detail to a framework the broker already had; the structural adversary is named explicitly as the carriers (PBM and stop-loss carrier) drafting against different models. The gap lives between the documents, not in the broker reading them.
+
 #### Post Copy
 
 One drug. One patient. One claim. $2.1 million.
@@ -410,15 +412,13 @@ That is not hypothetical. Gene therapies at this price point are already approve
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
 
-A couple years ago I sat in a client meeting where a gene therapy claim came across the desk that was bigger than any single claim the plan had ever paid. The CFO asked me what they were supposed to do. I told him honestly that we were going to build the answer together, because the category was new. That meeting is why I keep the pipeline watch list now. I do not want to be in another room where the answer is improvised.
+A couple years ago I joined a client's broker in a meeting where a gene therapy claim came across the desk that was bigger than any single claim the plan had ever paid. The broker had flagged the coordination question with the client months earlier. What our review added was the pharmacy-side detail: net cost after rebates, channel routing, and the contract clauses that determined whether the claim hit the medical or pharmacy side of the stop-loss attachment. The framework was already there. The pharmacy specifics filled it in.
 
-Here is what the strongest brokers flag for their clients before a claim like that one lands: the pharmacy contract and the stop-loss policy need to be read side by side for single-claim gene therapy coordination. Both documents exist. Both were negotiated carefully. But they were drafted by different teams against different models, and reconciling them benefits from an independent pharmacy-side review alongside the broker and stop-loss carrier.
+That meeting is the model. Pharmacy contracts and stop-loss policies are drafted by different carrier teams against different models. Each document protects its own carrier's economics. The gap, when it exists, lives between the two documents — not in the broker reading them. A pharmacy-side review is one analytical layer that lets the broker reconcile the two with full detail in front of them.
 
-That reconciliation is where the financial shock gets prevented. Not in the drug cost, which is known. In the coverage coordination, which deserves a deliberate cross-document check rather than an assumption.
+Your PBM has manufacturer contracts negotiated before FDA approval. Your stop-loss carrier has modeled the claim profile. Your broker has the cross-document view. The cleanest move an employer can make this quarter is to ask their broker to bring a pharmacy-side reviewer into one meeting, before a claim forces the timing.
 
-Your stop-loss carrier has modeled this. Your PBM has modeled this. Your broker is raising the coordination question. The pharmacy-side analysis is the piece that pulls the three models onto the same page, ideally well before renewal.
-
-The employers who build that meeting into their quarterly cadence handle these claims as a process. The ones who wait for the claim to force the meeting do not.
+The carriers do not coordinate on purpose. Their interests are not aligned with yours. The broker's are.
 
 #### VIDEO SCRIPT OPTION (40 seconds, filmed on phone)
 
