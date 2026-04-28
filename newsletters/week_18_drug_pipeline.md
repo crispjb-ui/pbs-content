@@ -414,7 +414,7 @@ That is not hypothetical. Gene therapies at this price point are already approve
 
 A couple years ago I joined a client's broker in a meeting where a gene therapy claim came across the desk that was bigger than any single claim the plan had ever paid. The broker had flagged the coordination question with the client months earlier. What our review added was the pharmacy-side detail: net cost after rebates, channel routing, and the contract clauses that determined whether the claim hit the medical or pharmacy side of the stop-loss attachment. The framework was already there. The pharmacy specifics filled it in.
 
-That meeting is the model. Pharmacy contracts and stop-loss policies are drafted by different carrier teams against different models. Each document protects its own carrier's economics. The gap, when it exists, lives between the two documents — not in the broker reading them. A pharmacy-side review is one analytical layer that lets the broker reconcile the two with full detail in front of them.
+That meeting is the model. Pharmacy contracts and stop-loss policies are drafted by different carrier teams against different models. Each document protects its own carrier's economics. The gap, when it exists, lives between the two documents, not in the broker reading them. A pharmacy-side review is one analytical layer that lets the broker reconcile the two with full detail in front of them.
 
 Your PBM has manufacturer contracts negotiated before FDA approval. Your stop-loss carrier has modeled the claim profile. Your broker has the cross-document view. The cleanest move an employer can make this quarter is to ask their broker to bring a pharmacy-side reviewer into one meeting, before a claim forces the timing.
 
