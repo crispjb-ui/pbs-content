@@ -182,6 +182,26 @@ The Substack deep dive must contain content the LinkedIn newsletter does NOT inc
 
 The LinkedIn newsletter CTA references the specific exclusive tool: "This week's Benefit Blind Spots includes a [specific tool]. That [tool] is exclusive to the Substack: [link]"
 
+### Plan Sponsor Toolkit deliverables (added Apr 24)
+
+Every Monday Substack deep dive whose integrated tool is a scorecard, checklist, framework, or scoring rubric also ships a **branded printable handout** in `templates/documents/`. HTML source plus WeasyPrint-rendered PDF, same visual system as `pa_roi_audit_scorecard.html` (the Week 16 PA ROI Audit Scorecard, the first in the series).
+
+These handouts are the **lead-magnet ladder**. A vendor request for the PA scorecard validated the format the week it shipped. When paid subscriptions or email-gated downloads turn on, these become the gated assets that drive Substack subscriber conversion.
+
+**Rules of production:**
+
+(a) **Source of truth is the HTML in `templates/documents/`.** The PDF is a render artifact. To update content, edit the HTML and re-render.
+
+(b) **Visual system is fixed.** PBS triangle wordmark in the page header, "PLAN SPONSOR TOOLKIT" eyebrow, numbered Primary Blue section pills, traffic-light Green/Yellow/Red indicators where there is a scoring rubric, redline-list section markers (§) where there is contract language, footer with "Benefit Blind Spots" attribution + rxbs.org + Substack URL + page number on every page. PBS v2 typography only (Plex Sans SemiBold display, Plex Sans Regular body, Plex Mono for numeric benchmarks and dates).
+
+(c) **Length target: 2 pages.** PA scorecard fit two pages by design; future scorecards should aim for the same. If a tool needs more than 2 pages, the tool itself is too sprawling; tighten the rubric before tightening the layout.
+
+(d) **Naming convention:** `templates/documents/{week_topic_slug}_{type}.html` and `.pdf`. Examples: `pa_roi_audit_scorecard.html`, `carve_out_decision_scorecard.html`, `drug_pipeline_watch_list.html`, `fiduciary_documentation_checklist.html`. Slug is lowercased, underscore-separated, derived from the Monday topic.
+
+(e) **Production cadence:** new scorecards ship by the Saturday before the Monday Substack deep dive that introduces them. The toolkit handout is referenced in the Substack article's tool section ("the printable scorecard is available below" + link, or just embed the PDF). Backfill earlier weeks as time allows; prioritize whatever ships next.
+
+(f) **The toolkit is referenced from the LinkedIn newsletter CTA when present.** Update the standard CTA from "this week's Benefit Blind Spots includes a [specific tool]" to "this week's Benefit Blind Spots includes a [specific tool], plus a printable plan-sponsor scorecard" when a toolkit handout exists.
+
 ## Six Content Pillars
 
 1. **Transparency & Industry Education** - How the PBM industry works
