@@ -257,6 +257,8 @@ Four proven structural shapes with measured floors, plus one reference-asset pat
 
 (e) **Content-building rules that depend on the library:** when drafting a new Library NN carousel, open `substack_contract_language_library.md` first and pick the provision family to feature from what is already documented there — do not invent new clauses for a carousel that are not already in the reservoir (or in the pending queue). When a week's topic has a contract-language angle and the library has a matching provision documented, prefer a Library NN carousel for that week's Tuesday Contract Comparison slot over inventing a new clause set. The quarterly update cadence is what sustains the carousel series long-term: a bigger reservoir means more Library NN entries can ship without repeating clauses.
 
+**Evergreen visual backlog rule (added Apr 24, required behavior):** `evergreen_visual_backlog.md` catalogs 21 never-shipped Tuesday/Thursday carousel and infographic concepts with full slide-by-slide specs. These were drafted for specific weeks (W17-W37), repurposed to their respective Monday Substack deep dives, and freed up for future use. Concepts are evergreen and pillar-scoped, so they fit any future Tuesday or Thursday slot whose format class and pillar match. **Required content-building behavior:** (a) when filling a Tuesday or Thursday slot that does not have a fixed topic — holiday weeks, low-energy weeks, slot-pillar collisions with the Monday newsletter, decoder-fatigue substitutions, cycle slots whose assigned pillar does not have an obvious week-topic fit — open `evergreen_visual_backlog.md` first and check whether a backlog concept matches the slot's format class and pillar before drafting a new visual. (b) when a backlog concept is used, lift the slide spec from the cited source-week file, refresh the cover eyebrow / context labels to the publishing week, and update the inventory table's Status column from `available` to `published [date, week-N]`. (c) target a burn-down cadence of 8-10 backlog entries across Q3-Q4 so the reserve does not stockpile indefinitely while staying available for unforeseen content gaps. Distinct from `repurpose_queue.md`, which tracks viral-hit posts being redistributed across channels.
+
 ### Seasonal Patterns
 
 - **Jan-Mar:** Peak LinkedIn engagement (PBS's best window)
@@ -389,6 +391,8 @@ When a week's Tuesday or Thursday visual is being scheduled, the brief in the we
 ├── substack_what_id_ask_series.md           # "What I'd Ask" biweekly scenario series
 ├── podcast_pitching_guide.md               # Podcast guesting strategy, 22 target shows, pitch templates
 ├── wednesday_roundup_implementation_guide.md # Automation setup for weekly roundup
+├── repurpose_queue.md                       # Viral-hit posts queued for cross-channel redistribution
+├── evergreen_visual_backlog.md              # 21 never-shipped Tue/Thu carousel + infographic concepts with full slide specs, available for any future open slot
 └── newsletters/
     ├── templates/
     │   └── wednesday_roundup_template.md    # Format template for automated roundup
