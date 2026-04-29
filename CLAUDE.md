@@ -184,7 +184,7 @@ The LinkedIn newsletter CTA references the specific exclusive tool: "This week's
 
 ### Plan Sponsor Toolkit deliverables (added Apr 24)
 
-Every Monday Substack deep dive whose integrated tool is a scorecard, checklist, framework, or scoring rubric also ships a **branded printable handout** in `templates/documents/`. HTML source plus WeasyPrint-rendered PDF, same visual system as `pa_roi_audit_scorecard.html` (the Week 16 PA ROI Audit Scorecard, the first in the series).
+Every Monday Substack deep dive whose integrated tool is a scorecard, checklist, framework, or scoring rubric also ships a **branded printable handout** in `templates/documents/`. HTML source plus WeasyPrint-rendered PDF, same visual system as `week_16_pa_roi_audit_scorecard.html` (the Week 16 PA ROI Audit Scorecard, the first in the series).
 
 These handouts are the **lead-magnet ladder**. A vendor request for the PA scorecard validated the format the week it shipped. When paid subscriptions or email-gated downloads turn on, these become the gated assets that drive Substack subscriber conversion.
 
@@ -196,7 +196,7 @@ These handouts are the **lead-magnet ladder**. A vendor request for the PA score
 
 (c) **Length target: 2 pages.** PA scorecard fit two pages by design; future scorecards should aim for the same. If a tool needs more than 2 pages, the tool itself is too sprawling; tighten the rubric before tightening the layout.
 
-(d) **Naming convention:** `templates/documents/{week_topic_slug}_{type}.html` and `.pdf`. Examples: `pa_roi_audit_scorecard.html`, `carve_out_decision_scorecard.html`, `drug_pipeline_watch_list.html`, `fiduciary_documentation_checklist.html`. Slug is lowercased, underscore-separated, derived from the Monday topic.
+(d) **Naming convention:** `templates/documents/week_{NN}_{topic_slug}.html` and `.pdf`. Week number is two-digit, zero-padded, matching the newsletter file (e.g., `newsletters/week_16_prior_authorization.md` → `templates/documents/week_16_pa_roi_audit_scorecard.html`). Examples: `week_16_pa_roi_audit_scorecard.html`, `week_17_carve_out_decision_scorecard.html`, `week_18_drug_pipeline_watch_list.html`, `week_19_fiduciary_documentation_checklist.html`. Slug is lowercased, underscore-separated, derived from the Monday topic. Week prefix keeps the toolkit roster aligned with the newsletter calendar at a glance.
 
 (e) **Production cadence:** new scorecards ship by the Saturday before the Monday Substack deep dive that introduces them. The toolkit handout is referenced in the Substack article's tool section ("the printable scorecard is available below" + link, or just embed the PDF). Backfill earlier weeks as time allows; prioritize whatever ships next.
 
