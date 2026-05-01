@@ -43,13 +43,14 @@
 | 19 | Messy Infographic | Negotiation Leverage Points | PBM Contract Insights | W35 | `newsletters/week_35_renewal_negotiation.md:394` | available |
 | 20 | Contract Markup Carousel | Contract Language Comparison | PBM Contract Insights | W36 | `newsletters/week_36_contract_red_flags.md:326` | available |
 | 21 | One Number Carousel | Renewal Readiness Scorecard | Self-Funded Employer Guidance | W37 | `newsletters/week_37_renewal_readiness.md:609` | available |
-| 22 | Messy Infographic (Contract Language Decoder variant) | 5 Rebate Terms Decoded | PBM Contract Insights | W17 (intended Thursday Slot A; did not ship Apr 30) | `newsletters/week_17_carve_out_decision.md:882` | available — high priority, was the W17 Thursday Slot A that did not ship |
+| 22 | Messy Infographic (Contract Language Decoder variant) | 5 Rebate Terms Decoded | PBM Contract Insights | W17 (intended Thursday Slot A; did not ship Apr 30) | `newsletters/week_17_carve_out_decision.md:882` | scheduled W20 Thursday May 21 (swap with displaced 5 Specialty Pharmacy Terms Decoded — see entry #23) |
+| 23 | Messy Infographic (Contract Language Decoder variant) | 5 Specialty Pharmacy Terms Decoded | PBM Contract Insights | W20 (originally Thursday Slot A; displaced May 1 by W17 5 Rebate Terms swap) | `newsletters/week_20_manufacturer_programs.md:518` | available — fits any Thursday Slot A in a non-specialty week. **Do not slot in W34 Specialty Management** (cannibalization). Clean candidate weeks: W22 Biosimilar, W26 Formulary, W28 Network Design |
 
 ## Distribution by pillar
 
 | Pillar | Count | Available concepts |
 |--------|-------|---------------------|
-| PBM Contract Insights | 6 | #1, #11, #15, #19, #20, #22 |
+| PBM Contract Insights | 7 | #1, #11, #15, #19, #20, #22 (scheduled), #23 |
 | Self-Funded Employer Guidance | 5 | #7, #8, #9, #17, #21 |
 | Cost Containment Strategies | 4 | #2, #6, #12, #14 |
 | Transparency & Industry Education | 3 | #4, #10, #13 |
@@ -62,12 +63,14 @@
 |--------|-------|---------------------|
 | Whiteboard Carousel | 5 | #1, #12, #13, #15, #17 |
 | One Number Carousel | 4 | #2, #16, #18, #21 |
-| Messy Infographic | 5 | #3, #5, #9, #19, #22 |
+| Messy Infographic | 6 | #3, #5, #9, #19, #22 (scheduled), #23 |
 | Carousel (general) | 3 | #4, #8, #14 |
 | Clean Infographic | 3 | #6, #7, #11 |
 | Contract Markup Carousel | 2 | #10, #20 |
 
-**Priority note (added Apr 30):** Concept #22 (5 Rebate Terms Decoded) is the W17 Thursday Slot A evergreen rotation post that did not ship on Apr 30. Slot A is the proven 22-25K-floor format and the highest-converting decoder vehicle PBS has. Pull this entry into the next available Thursday Slot A where the topic does not directly conflict — earliest natural fit is W18 Thursday May 7 (Drug Pipeline week, Slot A is Contract Language Decoder per the rotation; rebate terms is a clean substitute that does not collide with the Drug Pipeline Monday topic). Do not let this one sit in the backlog past Q2.
+**Priority note (revised May 1):**
+- Concept #22 (5 Rebate Terms Decoded) is now **scheduled for W20 Thursday May 21**. Originally the W17 Thursday Slot A that did not ship Apr 30; rotated forward into the next non-rebate-conflict Slot A week.
+- Concept #23 (5 Specialty Pharmacy Terms Decoded) is the displaced original W20 Slot A. Available for any future Thursday Slot A in a non-specialty week. Earliest natural fits: W22 Biosimilar (May 26 — Memorial Day week, possibly low-energy), W26 Formulary (Jun 30, July 4 week — also low-energy), or W28 Network Design (Jul 14, normal energy). Avoid W34 Specialty Management (cannibalization with Monday topic).
 
 ## Suggested burn-down cadence
 

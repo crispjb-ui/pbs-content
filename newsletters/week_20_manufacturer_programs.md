@@ -17,7 +17,7 @@
 | Wed May 20 | 8:30 AM | LinkedIn Feed | Post 70 - "Free drug. Full price claim. Your plan pays." Tease Hook (TEXT) | [ ] |
 | Wed May 20 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 21 | 7:30 AM | Substack | Field Note: "Copay Accumulator vs. Copay Maximizer" | [ ] |
-| Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - 5 Specialty Pharmacy Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
+| Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - 5 Rebate Terms Decoded (Messy Infographic, Slot A evergreen rotation; swapped from W17 Thursday May 1 which did not ship) | [ ] |
 | Thu May 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 71 | [ ] |
 | Thu May 21 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 22 | 8:30 AM | LinkedIn Feed | Post 72 - "The High-Risk Category" Tease Hook (TEXT) | [ ] |
@@ -430,7 +430,7 @@ Follow the claim. Not the card.
 ## Post 71 - Thursday 8:30 AM
 
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Specialty Pharmacy Terms Decoded (Slot A of the evergreen rotation).**
+> **This Thursday slot is now filled by: 5 Rebate Terms Decoded (Slot A of the evergreen rotation; swapped in from W17 May 1 which did not ship). 5 Specialty Pharmacy Terms Decoded has been moved to `evergreen_visual_backlog.md` entry #23 for use in a future non-specialty Slot A week.**
 
 ### Copay Card Impact: How Manufacturer Programs Affect Your Plan (Carousel) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
@@ -515,20 +515,22 @@ The manufacturer programs briefing covers the full copay card economics, from li
 
 ---
 
-### Thursday Evergreen Rotation (Slot A) - 5 Specialty Pharmacy Terms Decoded
+### Thursday Evergreen Rotation (Slot A) - 5 Rebate Terms Decoded
+
+> **NOTE (added May 1):** This slot is filled by 5 Rebate Terms Decoded, swapped in from W17 Thursday May 1 (Carve-Out week) where the post was scheduled but did not ship. The originally planned W20 Slot A content (5 Specialty Pharmacy Terms Decoded) has moved to `evergreen_visual_backlog.md` entry #23 and is available for any future Thursday Slot A in a week where the Monday topic is not specialty-related (W34 Specialty Management would cannibalize; W22 Biosimilar / W26 Formulary / W28 Network Design are clean fits).
 
 - **Slot:** A
 - **Format:** Messy Infographic
 - **Pillar:** PBM Contract Insights
-- **Topic:** 5 Specialty Pharmacy Terms Decoded
-- **Hook:** "Specialty pharmacy contracts have their own language. Your PBM knows it. Your contract may not reflect what you think you agreed to."
+- **Topic:** 5 Rebate Terms Decoded
+- **Hook:** "Your PBM says 'rebate.' Your contract says something else. Here is what those five words actually mean."
 
 **Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
-- "Specialty drug list" - PBM means: the list of drugs the PBM designates as specialty. Read it as: a list the PBM can modify unilaterally, because the definition of "specialty" is almost never fixed in the contract.
-- "Limited distribution drug (LDD)" - PBM means: drugs distributed only through specific specialty pharmacies. Read it as: a category where the PBM's owned specialty pharmacy may be the only dispenser, removing price competition.
-- "Specialty dispensing fee" - PBM means: the per-claim fee for specialty medications. Read it as: a fee that can be significantly higher than retail and is often excluded from guarantees.
-- "White bagging" - PBM means: specialty drugs shipped directly from specialty pharmacy to the site of administration. Read it as: a routing decision the PBM makes that affects your site-of-care economics.
-- "Channel steering" - PBM means: directing specialty prescriptions through the preferred specialty pharmacy. Read it as: the mechanism by which your PBM moves revenue to its owned or affiliated specialty pharmacy.
+- "Rebate" - PBM means: manufacturer payment tied to formulary placement. Read it as: a payment stream the PBM may keep, share, or redirect depending on contract language.
+- "Rebate guarantee" - PBM means: minimum per-script or per-member amount the PBM commits to pass through. Read it as: a floor, not a ceiling, and usually excludes the categories where the real rebate dollars sit.
+- "Rebate aggregator" - PBM means: affiliate entity that negotiates manufacturer contracts on the PBM's behalf. Read it as: a separate legal entity where rebate dollars can be retained outside your audit scope.
+- "Manufacturer revenue" - PBM means: all payments received from drug manufacturers. Read it as: a broader bucket than "rebates" that often includes admin fees, data fees, and other retained dollars your contract may not address.
+- "Net cost guarantee" - PBM means: a committed cost per claim after rebates are applied. Read it as: a definition worth reading carefully, because what counts as "net" is written by the PBM.
 
 #### Messy Infographic Concept
 
@@ -536,25 +538,25 @@ The manufacturer programs briefing covers the full copay card economics, from li
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** Spiral notebook page, ballpoint pen.
+**Setting:** Whiteboard with dry-erase markers, a bit smudged.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open spiral-bound notebook rests on a light oak desk. The visible page has faint blue horizontal rule lines and a red left margin. A blue ballpoint pen rests diagonally across the upper-right corner of the page. The page is filled with clean human handwriting in blue and black ballpoint ink. No logos, no brand marks, no people, no text outside the notebook page.
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A classroom or conference-room whiteboard fills the frame. Two dry-erase markers (black and blue) rest on the bottom tray. The board shows clean human handwriting with a few faint smudges and ghosted erasures, as if recently worked on. No logos, no brand marks, no people, no text outside the board.
 >
-> At the top of the page, in larger handwriting, black ink, double-underlined: 5 Specialty Pharmacy Terms Decoded
+> At the top of the board, in larger handwriting, black marker, double-underlined: 5 Rebate Terms Decoded
 >
-> Five rows below the title. Each row shows a quoted term on the left in black ink, a short hand-drawn arrow, and a plain-English translation on the right in blue ink:
+> Five rows below the title. Each row shows a quoted term on the left in black marker, a short hand-drawn arrow, and a plain-English translation on the right in blue marker:
 >
-> "Specialty drug list" → PBM can modify it unilaterally.
-> "Limited distribution drug" → PBM's specialty pharmacy may be the only dispenser.
-> "Specialty dispensing fee" → Often excluded from guarantees.
-> "White bagging" → PBM routing that shifts site-of-care economics.
-> "Channel steering" → Moves revenue to the PBM's owned pharmacy.
+> "Rebate" → A payment stream the PBM may keep, share, or redirect.
+> "Rebate guarantee" → A floor, not a ceiling. Excludes where real dollars sit.
+> "Rebate aggregator" → Separate legal entity. Outside your audit scope.
+> "Manufacturer revenue" → Broader than rebates. Admin fees, data fees, more.
+> "Net cost guarantee" → The PBM writes what counts as "net."
 >
-> At the bottom of the page, inside a hand-drawn black ink rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+> At the bottom of the board, inside a hand-drawn black rectangle: Your PBM wrote these definitions. Your contract should redefine them.
 >
-> Style: realistic notebook paper texture with visible spiral binding on the left edge, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, minor ink smudges, occasional ink pooling) for authenticity. Colors: white notebook page, faint blue rule lines, red margin line, black and blue ballpoint ink, light oak desk.
+> Style: realistic whiteboard texture with faint smudges and erasure ghosts, soft overhead daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, occasional marker bleed) for authenticity. Colors: white board, black marker for terms and title, blue marker for translations, light gray smudge marks.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
 1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching ink colors.
