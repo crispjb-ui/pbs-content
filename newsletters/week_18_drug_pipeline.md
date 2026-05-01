@@ -577,9 +577,98 @@ All seven slides render as a One Number Carousel. Cover and close use solid Prim
 
 **Slide 7 — Close.** Solid Primary Blue (#015880) background. Plex Sans SemiBold 52pt white centered-left: "Channel pricing is a *design* decision." (word "design" italic Accent Blue.) Below, Plex Sans Regular 20pt white: "Whose design is yours?" Bottom block Plex Sans Regular 16pt Accent Blue: "Send this to your CFO. team@rxbs.org | Benefit Blind Spots." Bottom-right Plex Mono Medium 14pt Accent Blue: "07 / 07." Bottom-left Plex Mono Medium 14pt white: "rxbs.org." Top-right Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions."
 
-#### Image Generation Prompt (one prompt produces all seven slides via Claude Design)
+#### Image Generation Prompt (paste-ready, generates all 7 slides via Claude Design)
 
-Claude Design project type: **Slide deck from template**. Use the saved One Number Carousel Template v1 project (or build from `claude_design_prompts.md` template #5 if v1 is not yet saved). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01 (April 21, 2026), W22 Biosimilar CFO Metrics, and W30 Q4 Decisions One Number carousels. Cover (Slide 1) and close (Slide 7) use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold display headlines and Accent Blue (#A7E0FA) italic emphasis words. Content slides (2-6) alternate Primary Blue and white backgrounds per the spec above; each has one large Plex Sans SemiBold display word as the center visual (or a Plex Mono Medium tabular figure on Slide 5), a Plex Sans SemiBold label above, and a Plex Sans Regular interpretation block below. Every content slide carries a "WHY IT MATTERS" panel across the bottom ~18% with white Plex Sans Regular 16pt body (Primary Blue background on white-bg slides; Accent-Blue-bordered card on Primary-Blue-bg slides). Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right of every slide. Cover eyebrow "PBS CHANNEL PRICING · TRANSPARENCY" top-left in Plex Sans SemiBold 14pt white, +6% letter tracking. Pull slide-by-slide content (labels, display words, interpretation text, "WHY IT MATTERS" copy) from the spec above, Slide 1 through Slide 7.
+```
+Create a 7-slide LinkedIn carousel as an HTML+CSS artifact. Each slide 1080 x 1350 px. Render all 7 stacked vertically in preview, exportable individually as PNG.
+
+SHARED VISUAL SYSTEM:
+- Cover (Slide 1) and close (Slide 7): solid Primary Blue (#015880) backgrounds, white Plex Sans SemiBold display, Accent Blue (#A7E0FA) italic emphasis words
+- Content slides (2-6): alternating Primary Blue and white backgrounds per the per-slide spec below
+- Plex Sans SemiBold for display headlines and labels
+- Plex Sans Regular for interpretation body
+- Plex Sans Italic + Accent Blue for emphasis words
+- Plex Mono Medium tabular figures for any number
+- "WHY IT MATTERS" panel across bottom ~18% of every content slide. On white-background slides: Primary Blue background panel with white Plex Sans Regular 16pt body. On Primary-Blue-background slides: Accent-Blue-bordered card with white Plex Sans Regular 16pt body.
+- 60px horizontal, 40px vertical padding
+- Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right of every slide
+- PBS word-mark top-right on cover and close: "Prescription Benefit Solutions" Plex Sans SemiBold 12pt white
+- "rxbs.org" bottom-left in Plex Mono Medium 14pt on cover and close
+- Color palette strict: Primary Blue #015880, Accent Blue #A7E0FA, Gray #4D4D4D, White #FFFFFF
+- No icons, no people, no logos beyond the PBS word-mark
+- Visual parity with Library 01 (April 21, 2026), W22 Biosimilar CFO Metrics, W30 Q4 Decisions One Number carousels
+
+SLIDE 1 — COVER (Primary Blue background)
+- Eyebrow top-left, Plex Sans SemiBold 14pt white, +6% letter tracking: PBS CHANNEL PRICING · TRANSPARENCY
+- Headline centered-left, Plex Sans SemiBold 56pt white, with italic Accent Blue emphasis on "prices": Same drug. Three *prices*.
+- Subhead, Plex Sans Regular Italic 22pt Accent Blue: Why retail, mail, and specialty rarely match — and who designs the gap.
+- Bottom-right, Plex Sans SemiBold 18pt white: SWIPE FOR THE COMPARISON →
+- Top-right, Plex Sans SemiBold 12pt white: Prescription Benefit Solutions
+- Bottom-left, Plex Mono Medium 14pt white: rxbs.org
+- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 01 / 07
+
+SLIDE 2 — RETAIL (white background)
+- Top-left label, Plex Sans SemiBold 24pt Primary Blue: Channel one · Retail pharmacy
+- Center display, Plex Sans SemiBold ~120pt Primary Blue: RETAIL
+- Below display, Plex Sans Regular 20pt Primary Blue, two lines: AWP minus a contracted discount. Plus a dispensing fee. One per-unit price.
+- "WHY IT MATTERS" panel, Primary Blue background, white Plex Sans Regular 16pt: Retail is the simplest pricing math in the system. It is also the channel most plan sponsors benchmark against, even though their spend is split across three channels.
+- Slide number bottom-right, Plex Mono Medium 14pt Gray: 02 / 07
+
+SLIDE 3 — MAIL ORDER (Primary Blue background)
+- Top-left label, Plex Sans SemiBold 24pt white: Channel two · Mail order
+- Center display, Plex Sans SemiBold ~120pt white: MAIL
+- Below display, Plex Sans Regular 20pt white, two lines: Same drug. Different discount percentage. Different dispensing fee. Different per-unit price.
+- "WHY IT MATTERS" panel rendered as Accent-Blue-bordered card, white Plex Sans Regular 16pt: Mail's discount looks deeper. The methodology is different. Comparing mail to retail at the per-unit level is rarely apples to apples.
+- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 03 / 07
+
+SLIDE 4 — SPECIALTY (white background)
+- Top-left label, Plex Sans SemiBold 24pt Primary Blue: Channel three · Specialty pharmacy
+- Center display, Plex Sans SemiBold ~120pt Primary Blue: SPECIALTY
+- Below display, Plex Sans Regular 20pt Primary Blue, two lines: Same drug. Different pricing methodology entirely. Different per-unit price. Often a different formulary tier.
+- "WHY IT MATTERS" panel, Primary Blue background, white Plex Sans Regular 16pt: Specialty pricing typically uses AWP-based math too, but with different discounts, different dispensing fees, and a separate set of guarantees, many of which are excluded from the contract's overall pricing performance language.
+- Slide number bottom-right, Plex Mono Medium 14pt Gray: 04 / 07
+
+SLIDE 5 — THE PATTERN (Primary Blue background)
+- Top-left label, Plex Sans SemiBold 24pt white: The pattern
+- Center figure, Plex Mono Medium tabular figures, 220pt white: 3
+- Caption beneath figure, Plex Sans Italic 22pt Accent Blue: different prices
+- Below caption, Plex Sans Regular 20pt white: Same drug. Same dose. Same manufacturer. Three channels. Three different per-unit prices.
+- "WHY IT MATTERS" panel rendered as Accent-Blue-bordered card, white Plex Sans Regular 16pt: Channel pricing is not an accident. The spread between channels is a design decision the PBM made. Most plan sponsors have not benchmarked it.
+- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 05 / 07
+
+SLIDE 6 — ACTION (white background)
+- Top-left label, Plex Sans SemiBold 24pt Primary Blue: What to ask your PBM
+- Center display, Plex Sans SemiBold ~120pt Primary Blue with italic Accent Blue period: ASK*.*
+- Below display, Plex Sans Regular 20pt Primary Blue: Net cost per script, by channel, for your top 10 drugs by spend. The single data request that makes the channel design visible.
+- "WHY IT MATTERS" panel, Primary Blue background, white Plex Sans Regular 16pt: If your PBM cannot produce per-channel net cost on your top 10 drugs, that itself is a finding worth bringing to renewal.
+- Slide number bottom-right, Plex Mono Medium 14pt Gray: 06 / 07
+
+SLIDE 7 — CLOSE (Primary Blue background)
+- Center-left headline, Plex Sans SemiBold 52pt white with italic Accent Blue emphasis on "design": Channel pricing is a *design* decision.
+- Below headline, Plex Sans Regular 20pt white: Whose design is yours?
+- Bottom block, Plex Sans Regular 16pt Accent Blue: Send this to your CFO. team@rxbs.org | Benefit Blind Spots.
+- Top-right, Plex Sans SemiBold 12pt white: Prescription Benefit Solutions
+- Bottom-left, Plex Mono Medium 14pt white: rxbs.org
+- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 07 / 07
+
+Maintain exact visual parity with the Library 01 carousel that shipped April 21, 2026 — same eyebrow label position, same slide-number format, same PBS word-mark placement on cover and close.
+```
+
+#### Refinement Prompts (per-slide, only if iterating)
+
+If the master prompt above produces a render that is 80% right but needs a specific slide tightened, paste one of these into the same project rather than starting over.
+
+```
+SLIDE 5 REFINEMENT (the "3" slide): the "3" should fill 60% of vertical center space, with "different prices" caption sitting tight beneath. The "WHY IT MATTERS" card should be Accent Blue 4px border on left edge only, transparent fill, white text. Tighten the gap between the caption and the lower paragraph.
+```
+
+```
+SLIDE 6 REFINEMENT (the "ASK." slide): the period after ASK is the design moment — render it in italic Accent Blue, ~80% the size of the K. The display word ASK stays Primary Blue Plex Sans SemiBold. Keep the period attached visually to the K (no space), italic-styled like the "prices" emphasis on Slide 1.
+```
+
+```
+COVER / CLOSE BACKGROUND CONSISTENCY: Slides 1, 3, 5, 7 share the same Primary Blue background (#015880). Slides 2, 4, 6 share the same pure white background (#FFFFFF). Confirm no slight shade drift between Primary Blue slides; they should be identical. Same for white slides.
+```
 
 **Post-Generation Steps:**
 
