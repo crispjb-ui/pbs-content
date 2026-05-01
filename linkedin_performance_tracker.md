@@ -846,12 +846,82 @@ The shape of this divergence is specific: reach and conversion are weak, bookmar
 
 Wednesday Roundup is the highest-reach Substack format this week (84 views vs. 61 deep dive / 58 field note). The curated news angle is outperforming the analytical deep dive on reach, though the deep dive beat it on open rate (54% vs. 44%) and subscriber conversion.
 
-### Updated Current Stats (as of Apr 24, 2026)
+### Updated Current Stats (as of Apr 30, 2026)
 
-- **LinkedIn Followers:** 1,610 (+161 since Apr 10, +236 since Apr 3)
-- **LinkedIn Newsletter Subscribers:** 757 (+104 since Apr 10, +152 since Apr 3)
-- **Substack Subscribers:** 47 (+23 since Apr 10)
-- **Subscriber-to-follower ratio (LinkedIn):** 47.0% (757 of 1,610)
+- **LinkedIn Followers:** 1,670 (+60 since Apr 24, +221 since Apr 10, +296 since Apr 3)
+- **LinkedIn Newsletter Subscribers:** 799 (+42 since Apr 24, +146 since Apr 10, +194 since Apr 3)
+- **Substack Subscribers:** 55 (+8 since Apr 24, +31 since Apr 10; +266.7% versus prior 30-day period per Substack overview)
+- **Subscriber-to-follower ratio (LinkedIn):** 47.8% (799 of 1,670)
+
+### Week 17 Snapshot (Apr 27 - May 1, 2026)
+
+#### Theme: Carve-Out Decision (full week of W17 content shipped)
+
+#### Cuban Signal (second consecutive week)
+Cuban reposted the W17 Wednesday Carve-Out POV ("A few years back I was reviewing a mid-size employer's carve-out RFP…"). 1-day numbers: 10,601 impressions, 8,401 reached, 22 profile viewers, +6 followers, 25 reactions, 2 comments, 2 reposts, 2 premium-button clicks. **Demographics held the plan-sponsor decision-maker profile** (Senior 30%, 10,001+ employees 22%, Financial Services 7%, Founder 2%) without the sideways drift into hospital ops we saw on the admin-fee post. The broker-sensitivity rewrite paid off: the post is squarely in PBM-adversary frame with broker-as-partner positioning, and Cuban amplified clean.
+
+#### Raw Performance Data (LinkedIn Feed Posts, partial week)
+
+| Post | Type | Day | Age | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Cuban Signal |
+|------|------|-----|-----|-------|---------|-----|------|---------|-------|-------|---------------|-----------|--------------|
+| "The most expensive structural decision in pharmacy benefits is one most employers made by default." | POV Text (carve-out tease) | (off-schedule, ~6d old) | 6d | 3,668 | 2,787 | 15 | 2 | 1 | 2 | 0 | 6 | +2 | — |
+| "Five PBM contract clauses that cost employers money…" (Animated Video Carousel, Post 57) | Video Carousel | Tue Apr 28 | 2d | 504 | 238 | 5 | 3 | 4 | 0 | 0 | 3 | 0 | — |
+| "A few years back I was reviewing a mid-size employer's carve-out RFP…" (Carve-Out POV, Post 58) | POV Text | Wed Apr 29 | 1d | **10,601** | 8,401 | 25 | 2 | 2 | 0 | 0 | 22 | **+6** | **Reposted by Cuban** |
+| "Bundled or carved-out pharmacy benefit?" (Carve In or Out? 7p Carousel) | Carousel | (~Wed-Thu, off-schedule) | 23h | 813 | 483 | 12 | 5 | 2 | 2 | 0 | 2 | +1 | — |
+
+#### LinkedIn Newsletter Edition 8 — "Carve-Out Decision Briefing" (Mon Apr 27, 4d snapshot)
+
+| Metric | Value |
+|--------|-------|
+| Feed-card impressions | 1,104 |
+| Feed-card members reached | 708 |
+| Article views | 451 |
+| Email sends | 612 |
+| Email open rate | 45% |
+| Reactions | 15 |
+| Comments | 0 |
+| Reposts | 3 |
+| Saves | 2 |
+| Profile viewers from this post | 6 |
+| Followers gained | +1 |
+| Premium custom button interactions | 1 |
+| Top demographic | Senior 39% |
+
+Email sends 612 (vs. Edition 7's 563) confirms the +42 newsletter sub growth shows up in send volume. Open rate 45% (vs. Edition 7's 47%) is in the 45-49% band. Article views 451 (vs. Edition 7's 512 at the same age) is slightly behind — the topic (Carve-Out decision framework) is a more strategic/abstract pull than the operational PA topic that Edition 7 carried.
+
+#### Newsletter Edition Comparison (through Edition 8)
+
+| Edition | Topic | Feed Impr | Article Views | Email Sends | Open Rate | Reactions | Comments | Status |
+|---------|-------|-----------|---------------|-------------|-----------|-----------|----------|--------|
+| 3 | "Data Without Questions" | 823 | 275 | 331 | 44% | 2 | 2 | Published |
+| 4 | "The Audit Rights Gap" | 661 | 285 | 362 | 46% | 5 | 2 | Published |
+| 5 | "Specialty Pharmacy Briefing" | 860 | 417 | 468 | 49% | 6 | 0 | Published |
+| 6 | "Stop-Loss Strategy" | - | ~350 | - | 43%* | - | - | DELETED |
+| 7 | "Prior Authorization Briefing" | 2,586 | 512 | 563 | 47% | 23 | 2 | Published (Apr 28 update) |
+| 8 | "Carve-Out Decision Briefing" | 1,104 | 451 | 612 | 45% | 15 | 0 | Published (Apr 30 4d snapshot) |
+
+#### Substack Performance (Apr 17-30 published posts)
+
+**Publication total: 55 subscribers** (+8 since Apr 24 when at 47; +266.7% vs prior 30-day period per Substack overview). 30-day views: 1.07K.
+
+| Date | Post | Type | Views | Open Rate | New Subs |
+|------|------|------|-------|-----------|----------|
+| Apr 17 | PBM Contract Language Library | Evergreen (free SEO) | 43 | 59% | +1 |
+| Apr 20 | The Prior Authorization Problem (W16 deep dive) | Deep Dive | 64 | 54% | +1 |
+| Apr 22 | What Crossed My Desk This Week: April 22, 2026 | Wed Roundup | 89 | 49% | 0 |
+| Apr 23 | PA Turnaround Time: What Your Contract Should Guarantee (W16 field note) | Field Note | 70 | 53% | +1 |
+| Apr 27 | The Carve-Out Question (W17 deep dive) | Deep Dive | 70 | 53% | **+3** |
+| Apr 29 | What Crossed My Desk This Week: April 29, 2026 | Wed Roundup | 68 | 53% | 0 |
+| Apr 30 | The First 90 Days After Carve-Out (W17 field note) | Field Note | 41 | 36% | 0 |
+| Apr 30 | "What I'd Ask" #1: Evaluating a Specialty Pharmacy Carve-Out | Subscriber-Only Series Launch | 27 | 33% | 0 |
+
+**Substack signals worth flagging:**
+
+1. **Carve-Out Question deep dive drove +3 subscribers on 70 views** (4.3% conversion) — best deep-dive subscriber conversion since the publication launched. The Monday Substack is functioning as the conversion engine the strategy assumed it would.
+2. **Wednesday Roundup is the highest-reach Substack format two weeks running** (89 views Apr 22, 68 views Apr 29). Above the deep dive on raw views; below it on subscribers driven (0 vs +3). Confirms the roundup is a discovery / SEO play, not a conversion play.
+3. **"What I'd Ask" #1 (subscriber-only series launch) sits at 27 views / 33% open rate** — open rate is meaningfully below the 53-59% on free posts, which is the expected pattern for subscriber-only content (smaller audience but more engaged on average; here the open rate suggests subs may not have realized this was a launch post). Worth tracking the next 2-3 entries to see whether the open rate stabilizes around the free-post baseline or stays in the 30s.
+4. **Subscriber growth velocity inflected**: 8 (Mar 7) → 15 (Apr 3) → 24 (Apr 10) → 47 (Apr 24) → 55 (Apr 30). The Apr 17-24 window added 23; the Apr 24-30 window added 8 — slower but still accelerating versus the early-2026 trickle.
+5. **Library remains an SEO anchor**: 43 views, 59% open rate, +1 sub. The free evergreen post continues to convert at a small but steady rate.
 
 ### Week 16 Analysis (Feed Posts, Non-Amplified Baseline)
 

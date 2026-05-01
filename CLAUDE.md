@@ -215,7 +215,7 @@ These handouts are the **lead-magnet ladder**. A vendor request for the PA score
 
 ### Primary conversion metric: followers per 10K impressions
 
-LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of April 24, 2026: **1,610 LinkedIn followers, 757 newsletter subscribers, 47 Substack subscribers**. Week 16 added 45 outbound replies to larger accounts as a parallel growth channel (first aggregate captured; `linkedin_performance_tracker.md` Reply Volume Log).
+LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of April 30, 2026: **1,670 LinkedIn followers, 799 newsletter subscribers, 55 Substack subscribers**. Cuban amplification confirmed for two consecutive weeks (Apr 19 cluster, Apr 30 W17 carve-out POV). Substack growth +266.7% vs prior 30-day period; W17 Carve-Out deep dive drove +3 subscribers on 70 views (best deep-dive conversion since launch).
 
 ### All-time top posts by impressions (top 10)
 
