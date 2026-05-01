@@ -386,7 +386,7 @@ Start with one question: which of the eight levers has the largest gap on your p
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Questions About Your Audit Rights (Slot C of the evergreen rotation).**
 
-### Specialty Management Assessment (One Number Carousel) - WEEKLY THEME [REPURPOSED]
+### Specialty Management Assessment (One Number Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** One Number Carousel (7 slides) - Template C
 

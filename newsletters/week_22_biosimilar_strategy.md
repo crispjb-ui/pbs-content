@@ -495,7 +495,7 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Questions About Spread Pricing (Slot C of the evergreen rotation).**
 
-### Biosimilar Readiness Checklist (Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
+### Biosimilar Readiness Checklist (Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Single Infographic (INFO)
 **Pillar:** Cost Containment Strategies

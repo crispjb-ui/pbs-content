@@ -411,7 +411,7 @@ The fix is not a longer RFP. It is 30 specific follow-up questions with 0-3 scor
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Questions About Clinical Program ROI (Slot C of the evergreen rotation).**
 
-### RFP Process Timeline (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED]
+### RFP Process Timeline (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** PBM Contract Insights

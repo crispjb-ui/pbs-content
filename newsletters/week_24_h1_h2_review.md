@@ -622,7 +622,7 @@ June is not early. June is late.
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: Same diagnosis. Same drug. Different member out-of-pocket. (Slot B of the evergreen rotation).**
 
-### H1 Metrics Dashboard - What to Measure Now (Carousel) [REPURPOSED]
+### H1 Metrics Dashboard - What to Measure Now (Carousel) [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Carousel (7 slides)
 **Pillar:** Transparency

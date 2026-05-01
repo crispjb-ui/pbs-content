@@ -801,7 +801,7 @@ Your PBM has a financial interest in you never asking the question.
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Rebate Terms Decoded (Slot A of the evergreen rotation).**
 
-### Carve-In vs Carve-Out (Whiteboard Carousel) - Weekly Theme Visual [REPURPOSED]
+### Carve-In vs Carve-Out (Whiteboard Carousel) - Weekly Theme Visual [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** PBM Contracts

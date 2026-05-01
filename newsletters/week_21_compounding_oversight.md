@@ -541,7 +541,7 @@ It is working for someone else.
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: Same MAC. Different dispensing channel. Different margin. (Slot B of the evergreen rotation).**
 
-### Compounding Red Flags: What to Watch For (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
+### Compounding Red Flags: What to Watch For (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Messy Infographic
 **Pillar:** Clinical Pharmacy

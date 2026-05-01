@@ -424,7 +424,7 @@ One analysis: compare your top infusion drugs by total cost (drug plus administr
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: Same infusion. Hospital. Office. Home. Four prices. (Slot B of the evergreen rotation).**
 
-### Site-of-Care Decision Framework (Carousel) - WEEKLY THEME [REPURPOSED]
+### Site-of-Care Decision Framework (Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Cost Containment Strategies

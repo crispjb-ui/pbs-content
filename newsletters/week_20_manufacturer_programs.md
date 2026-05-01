@@ -432,7 +432,7 @@ Follow the claim. Not the card.
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Specialty Pharmacy Terms Decoded (Slot A of the evergreen rotation).**
 
-### Copay Card Impact: How Manufacturer Programs Affect Your Plan (Carousel) - WEEKLY THEME VISUAL [REPURPOSED]
+### Copay Card Impact: How Manufacturer Programs Affect Your Plan (Carousel) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Carousel (7 slides)
 **Pillar:** Transparency

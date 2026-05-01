@@ -438,7 +438,7 @@ One question changes the conversation: what is the net cost, our formulary vs. a
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Rebate Retention Terms Decoded (Slot A of the evergreen rotation).**
 
-### Formulary Evaluation Framework (Contract Markup Carousel) - WEEKLY THEME VISUAL [REPURPOSED]
+### Formulary Evaluation Framework (Contract Markup Carousel) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Contract Markup Carousel (7 slides) - NEW TEMPLATE B
 **Pillar:** Transparency & Industry Education

@@ -391,7 +391,7 @@ A term sheet that covers all twelve provisions changes the dynamic. Your broker 
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Termination Clause Terms Decoded (Slot A of the evergreen rotation).**
 
-### Negotiation Leverage Points (Messy Infographic) - WEEKLY THEME [REPURPOSED]
+### Negotiation Leverage Points (Messy Infographic) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Messy Infographic
 **Word Count:** ~80 words

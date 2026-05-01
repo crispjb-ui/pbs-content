@@ -458,7 +458,7 @@ If you cannot produce those five documents today, the gap is worth closing befor
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Formulary Questions Your PBM Avoids (Slot C of the evergreen rotation).**
 
-### Fiduciary Documentation Framework (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
+### Fiduciary Documentation Framework (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Messy Infographic
 **Pillar:** Broker/Consultant Resources

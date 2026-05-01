@@ -354,7 +354,7 @@ One request changes the conversation: ask your PBM for the specific savings meth
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Fiduciary Terms Decoded (Slot A of the evergreen rotation).**
 
-### Clinical Program Evaluation (One Number Carousel) - WEEKLY THEME [REPURPOSED]
+### Clinical Program Evaluation (One Number Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** One Number Carousel (7 slides) - Template C
 **Pillar:** Clinical Pharmacy Perspectives

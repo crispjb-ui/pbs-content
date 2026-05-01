@@ -323,7 +323,7 @@ Your broker or benefits counsel should know which version your contract uses. If
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: Same contract language. Different interpretations. Different outcomes. (Slot B of the evergreen rotation).**
 
-### Contract Language Comparison (Contract Markup Carousel) - WEEKLY THEME [REPURPOSED]
+### Contract Language Comparison (Contract Markup Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Contract Markup Carousel (7 slides) - Template B
 

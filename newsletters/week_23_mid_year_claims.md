@@ -445,7 +445,7 @@ Mid-year is when you can still act. Renewal is when you react.
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Admin Fee Terms Decoded (Slot A of the evergreen rotation).**
 
-### Five Mid-Year Claims Red Flags (Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
+### Five Mid-Year Claims Red Flags (Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Single Infographic (INFO)
 **Pillar:** Self-Funded Employer Guidance

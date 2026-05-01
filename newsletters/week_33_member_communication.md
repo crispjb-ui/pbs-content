@@ -394,7 +394,7 @@ The fix is not better clinical rationale. It is better messaging: specific, earl
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: Same benefit change. Different messaging. Different uptake. (Slot B of the evergreen rotation).**
 
-### Member Communication Checklist (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED]
+### Member Communication Checklist (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Broker/Consultant Resources

@@ -867,7 +867,9 @@ Cuban reposted the W17 Wednesday Carve-Out POV ("A few years back I was reviewin
 | "The most expensive structural decision in pharmacy benefits is one most employers made by default." | POV Text (carve-out tease) | (off-schedule, ~6d old) | 6d | 3,668 | 2,787 | 15 | 2 | 1 | 2 | 0 | 6 | +2 | — |
 | "Five PBM contract clauses that cost employers money…" (Animated Video Carousel, Post 57) | Video Carousel | Tue Apr 28 | 2d | 504 | 238 | 5 | 3 | 4 | 0 | 0 | 3 | 0 | — |
 | "A few years back I was reviewing a mid-size employer's carve-out RFP…" (Carve-Out POV, Post 58) | POV Text | Wed Apr 29 | 1d | **10,601** | 8,401 | 25 | 2 | 2 | 0 | 0 | 22 | **+6** | **Reposted by Cuban** |
-| "Bundled or carved-out pharmacy benefit?" (Carve In or Out? 7p Carousel) | Carousel | (~Wed-Thu, off-schedule) | 23h | 813 | 483 | 12 | 5 | 2 | 2 | 0 | 2 | +1 | — |
+| "Bundled or carved-out pharmacy benefit?" (Carve In or Out? 7p Whiteboard Carousel, Post 59) | Whiteboard Carousel | Thu May 1 | 23h | 813 | 483 | 12 | 5 | 2 | 2 | 0 | 2 | +1 | — |
+
+> **Process note (Apr 30):** Post 59 was originally drafted as the W17 Thursday Carve-In vs Carve-Out Whiteboard Carousel (full slide spec in `newsletters/week_17_carve_out_decision.md` line 882-area), then marked `[REPURPOSED]` to the Monday Substack and replaced on the Thursday calendar by **5 Rebate Terms Decoded** (Slot A evergreen rotation). The Carve-In/Out carousel shipped instead, and the 5 Rebate Terms Decoded did not ship at all. The Slot A evergreen post is now back in rotation via `evergreen_visual_backlog.md` entry #22 — earliest natural fit is W18 Thursday May 7. **Performance read:** 813 impressions at 23h is early data on the Whiteboard format; the proven 20-25K floor typically develops over 2-3 days. Do not call this post underperformance until Day 3 numbers land. Confounding variables for this specific post: (a) same-topic-as-Monday cannibalization risk (W17 Monday was the Carve-Out deep dive), (b) Cuban-amplified W17 Wed POV one day prior may have absorbed feed attention. Will reassess after Day 3.
 
 #### LinkedIn Newsletter Edition 8 — "Carve-Out Decision Briefing" (Mon Apr 27, 4d snapshot)
 

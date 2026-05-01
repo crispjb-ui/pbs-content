@@ -431,7 +431,7 @@ One question cuts through the complexity: what is our net drug cost, after all r
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Network Contract Terms Decoded (Slot A of the evergreen rotation).**
 
-### Rebate Model Comparison (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED]
+### Rebate Model Comparison (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Transparency & Industry Education

@@ -483,7 +483,7 @@ Two hours now. Different outcome in September.
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Questions About Your PBM Contract Renewal (Slot C of the evergreen rotation).**
 
-### Renewal Timeline: Month-by-Month Milestones (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
+### Renewal Timeline: Month-by-Month Milestones (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Messy Infographic
 **Pillar:** Self-Funded Employer Guidance

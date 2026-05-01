@@ -391,7 +391,7 @@ One data request: net cost per script by dispensing channel, for your top 10 dru
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: 5 Questions About Mail-Order Economics (Slot C of the evergreen rotation).**
 
-### Network Channel Comparison (Whiteboard Carousel) - WEEKLY THEME VISUAL [REPURPOSED]
+### Network Channel Comparison (Whiteboard Carousel) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Whiteboard Carousel (7 slides) - Template A
 **Pillar:** Cost Containment Strategies

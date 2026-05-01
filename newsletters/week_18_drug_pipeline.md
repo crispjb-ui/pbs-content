@@ -467,7 +467,7 @@ Your PBM knows what is coming. Your broker is raising the question. The pharmacy
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: Same drug. Retail. Mail order. Specialty. Three prices. (Slot B of the evergreen rotation).**
 
-### Drug Pipeline Watch List (One Number Carousel) - Weekly Theme Visual [REPURPOSED]
+### Drug Pipeline Watch List (One Number Carousel) - Weekly Theme Visual [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** One Number Carousel (7 slides) - Template C
 **Pillar:** Cost Containment

@@ -519,7 +519,7 @@ The score does not make the decision. It structures the decision so you are eval
 > **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
 > **This Thursday slot is now filled by: Same plan. Same data. Different PBM interpretations. (Slot B of the evergreen rotation).**
 
-### PBM Evaluation Scorecard Overview (Infographic) - WEEKLY THEME VISUAL [REPURPOSED]
+### PBM Evaluation Scorecard Overview (Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Standard Infographic (INFO)
 **Pillar:** PBM Contract Insights
