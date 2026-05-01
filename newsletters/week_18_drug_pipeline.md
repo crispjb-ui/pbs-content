@@ -22,7 +22,7 @@
 | Wed May 6 | 12:30 PM | Substack Notes | Afternoon Note - Quick tip | [ ] |
 | Thu May 7 | 7:15 AM | Substack Notes | Morning Note - Field Note launch | [ ] |
 | Thu May 7 | 7:30 AM | Substack | Field Note: "One Drug Class to Watch: The Next Wave of GLP-1 Approvals" | [ ] |
-| Thu May 7 | 8:30 AM | LinkedIn Feed | Post 63 - Same drug. Three channels. Three prices. (One Number Carousel, Slot B evergreen rotation; Transparency pillar) | [ ] |
+| Thu May 7 | 8:30 AM | LinkedIn Feed | Post 63 - Same drug. Three channels. Three prices. (Messy Infographic — single image; one-off Slot B format swap; Transparency pillar) | [ ] |
 | Thu May 7 | 12:30 PM | Substack Notes | Afternoon Note - Deeper angle | [ ] |
 | Thu May 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 63 | [ ] |
 | Fri May 8 | 7:15 AM | Substack Notes | Morning Note - Week-in-review | [ ] |
@@ -530,13 +530,13 @@ The full pipeline preparation framework is in this week's Pharmacy Benefits Brie
 
 ### Thursday Evergreen Rotation (Slot B) - Same drug. Three channels. Three prices.
 
-> **NOTE (revised May 1):** Reformatted from a 6-slide hybrid carousel to a **One Number carousel (Template C, 7 slides)** for visual parity with Library 01 / W22 / W30 / W32 / W37 entries and lower production cost (saved v1 template). Pillar corrected from "Cost Containment Strategies" to "Transparency & Industry Education" per the CLAUDE.md Slot B rotation definition (Cost Containment is W18 Monday's pillar; keeping Thursday on the same pillar would violate the anti-cannibalization rule). Hook tightened: replaced "Three invoices your PBM hopes you never compare" (conspiracy framing) with named-actor framing plus a proprietary-data anchor per Humanize Check rule (c). Companion **Channel Pricing Audit Worksheet** (Plan Sponsor Toolkit handout, `templates/documents/week_18_channel_pricing_audit_worksheet.html|.pdf`) ships alongside this Thursday post.
+> **NOTE (revised May 1, second pass):** Reformatted again — this time from a 7-slide One Number Carousel to a **single-image messy infographic** (photorealistic 3-bottle composition with hand-lettered marker annotations). The "Same X. Three Different Z." content is fundamentally a visual comparison; readers need to see all three channels on the same screen rather than reconstruct the spread from sequential carousel slides. Single image makes the gap visceral on first glance. **One-off Slot B deviation noted:** Slot B is normally a carousel slot per CLAUDE.md's locked Thursday rotation; this is a one-time content-format-fit swap, not a rotation change. Slot B reverts to carousel format from W21 onward (W21 Compounding's Slot B is "Same MAC. Different dispensing channel. Different margin." carousel as documented). The Channel Pricing Audit Worksheet PDF (`templates/documents/week_18_channel_pricing_audit_worksheet.html|.pdf`) carries the save mechanic, so the LinkedIn visual is freed to optimize purely for reach (messy infographic strength) instead of bookmark depth (carousel strength).
 
-- **Slot:** B
-- **Format:** One Number Carousel (Template C, 7 slides at 1080 x 1350 px)
+- **Slot:** B (one-off format swap from carousel to messy infographic)
+- **Format:** Messy Infographic (single image, 1080 x 1350 px) — Midjourney/DALL-E for photorealistic base, Canva for hand-lettered annotation overlay
 - **Pillar:** Transparency & Industry Education (different from Monday's Cost Containment / Drug Pipeline)
 - **Topic:** Same drug. Three channels. Three prices.
-- **Content shape:** Decoder + named-actor framing. Proven 22K floor on the Same/Same/Different shape. Conversion: 9-12 followers per 10K (decoder rate).
+- **Content shape:** Decoder + named-actor framing. Proven 22-25K floor on the Contract Language Decoder messy infographic format (PA Contracts decoder hit 22K, PBM Contracts decoder hit 11.8/10K conversion).
 - **Hook:** "Same drug. Same dose. Same manufacturer. Three channels. Three different prices — set by the same PBM."
 
 #### Post Copy
@@ -559,126 +559,68 @@ The companion worksheet for this exact audit is below.
 
 The full Channel Pricing Audit Worksheet (printable plan-sponsor handout) is attached to this week's Substack: [SUBSTACK FIELD NOTE URL]. Two pages — top 10 drug worksheet, variance bands, and a 4-step action plan with contract asks for next renewal.
 
-#### One Number Carousel Slide-by-Slide Spec (Template C)
+#### Messy Infographic Spec (single image, 1080 x 1350 px)
 
-All seven slides render as a One Number Carousel. Cover and close use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold display type. Content slides (2-6) use white backgrounds with one large Plex Sans SemiBold display word per slide as the primary visual anchor (channel name or punchline number), a Plex Sans SemiBold label above, and a two-line Plex Sans Regular interpretation block below. Every content slide carries a Primary Blue "WHY IT MATTERS" panel across the bottom ~18% with white Plex Sans Regular 16pt body. Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right of every slide. Cover eyebrow "PBS CHANNEL PRICING · TRANSPARENCY" in Plex Sans SemiBold 14pt white, +6% letter tracking.
+The visual is a photorealistic top-down photo of three identical amber prescription pill bottles arranged side-by-side on a clean light-gray pharmacy counter or desk surface, each labeled with a different channel name. Hand-lettered marker annotations sit in the surface space around the bottles, calling out the per-channel pricing methodology. A red-marker bracket spans all three bottles with the punchline. A boxed callout at the bottom carries the action ask. Visual signal: a pharmacist sketching out the comparison on the spot, not a corporate marketing graphic.
 
-**Slide 1 — Cover.** Solid Primary Blue (#015880) background. Cover eyebrow top-left in Plex Sans SemiBold 14pt white, +6% tracking: "PBS CHANNEL PRICING · TRANSPARENCY." Headline centered-left in Plex Sans SemiBold 56pt white: "Same drug. Three *prices*." (word "prices" in italic Accent Blue.) Subhead in Plex Sans Regular italic 22pt Accent Blue: "Why retail, mail, and specialty rarely match — and who designs the gap." Bottom-right in Plex Sans SemiBold 18pt white: "SWIPE FOR THE COMPARISON →." Top-right in Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions." Bottom-left in Plex Mono Medium 14pt white: "rxbs.org." Bottom-right corner in Plex Mono Medium 14pt Accent Blue: "01 / 07."
+**Composition:**
 
-**Slide 2 — Retail.** White background. Top: Plex Sans SemiBold 24pt Primary Blue label "Channel one · Retail pharmacy." Center: Plex Sans SemiBold display, ~120pt Primary Blue: "RETAIL." Below, Plex Sans Regular 20pt Primary Blue, two lines: "AWP minus a contracted discount. Plus a dispensing fee. One per-unit price." Primary Blue "WHY IT MATTERS" panel at bottom, ~18% of slide, white Plex Sans Regular 16pt: "Retail is the simplest pricing math in the system. It is also the channel most plan sponsors benchmark against, even though their spend is split across three channels."
+- **Top 12% (header):** Hand-lettered black marker title, slightly imperfect: "Same drug. Three channels. Three prices." Word "Three" repeated, with the third instance underlined in Accent Blue (#A7E0FA) marker. Small Plex Sans SemiBold subtitle line beneath in Gray Permanent-Marker font: "What changes between Retail, Mail, and Specialty — and who designs the spread."
+- **Middle 60% (the bottles):** Three identical amber prescription pill bottles standing upright on the surface, evenly spaced left-to-right. Each bottle has a clean white printed pharmacy label facing the camera. Reading left to right, the three labels read: **"RETAIL"** / **"MAIL ORDER"** / **"SPECIALTY"** in clean black sans-serif print. The same drug name (use a placeholder like "Drug X 50mg / #30" — kept generic, not a real branded drug name to avoid endorsement issues) prints below each channel label in smaller text. Subtle shadow under each bottle. No bottle caps tilted, no liquid visible, just the three labels facing the camera at identical angles.
+- **Hand-lettered annotations on the surface around the bottles** (Permanent Marker / Caveat / Kalam style font, mixed Primary Blue and black marker, slightly imperfect):
+   - Above the RETAIL bottle, written in Primary Blue marker: *"AWP discount. Dispensing fee. One unit price."*
+   - Above the MAIL ORDER bottle, in Primary Blue marker: *"Different discount %. Different dispensing fee. Different unit price."*
+   - Above the SPECIALTY bottle, in Primary Blue marker: *"Different methodology entirely. Often a different formulary tier."*
+   - A red-marker curved bracket arching across all three bottles from above, with red marker text along the bracket: *"Same drug. Three different per-unit prices."*
+   - Small handwritten margin note in Gray (#4D4D4D) marker pointing diagonally toward the bracket: *"One PBM setting every number."*
+- **Bottom 18% (callout box):** A hand-drawn rectangular box in Primary Blue marker outline, slightly imperfect corners. Inside the box, hand-lettered in black marker: *"ASK: net cost per script, by channel, top 10 drugs by spend. The single data request that makes the channel design visible."*
+- **Bottom-right corner (5%, byline):** Tiny hand-lettered marker in Gray: *"— Ginny Crisp, PharmD · rxbs.org"*
+- **Color palette strict:** PBS Primary Blue (#015880) for marker writing, Accent Blue (#A7E0FA) for one underline, red marker (#C0392B) for the bracket, Gray (#4D4D4D) for margin notes. Amber bottles for realism. Light gray surface. White printed labels. No additional colors.
+- **No PBS logo overlay. No "Benefit Blind Spots" badge. No watermarks.** LinkedIn feed posts come from Ginny Crisp's personal profile, not Benefit Blind Spots — the image stands on its own.
 
-**Slide 3 — Mail order.** Solid Primary Blue (#015880) background. Top: Plex Sans SemiBold 24pt white label "Channel two · Mail order." Center: Plex Sans SemiBold display, ~120pt white: "MAIL." Below, Plex Sans Regular 20pt white, two lines: "Same drug. Different discount percentage. Different dispensing fee. Different per-unit price." White-on-Primary-Blue "WHY IT MATTERS" panel rendered as Accent-Blue-bordered card at bottom: "Mail's discount looks deeper. The methodology is different. Comparing mail to retail at the per-unit level is rarely apples to apples."
+#### Image Generation Prompts (paste-ready)
 
-**Slide 4 — Specialty.** White background. Top: Plex Sans SemiBold 24pt Primary Blue label "Channel three · Specialty pharmacy." Center: Plex Sans SemiBold display, ~120pt Primary Blue: "SPECIALTY." Below, Plex Sans Regular 20pt Primary Blue, two lines: "Same drug. Different pricing methodology entirely. Different per-unit price. Often a different formulary tier." Primary Blue "WHY IT MATTERS" panel: "Specialty pricing typically uses AWP-based math too, but with different discounts, different dispensing fees, and a separate set of guarantees, many of which are excluded from the contract's overall pricing performance language."
+This is a hybrid messy format per `claude_design_prompts.md` — Midjourney for the realistic base, Canva for the handwritten annotation overlay.
 
-**Slide 5 — The pattern.** Solid Primary Blue (#015880) background. Top: Plex Sans SemiBold 24pt white label "The pattern." Center: Plex Mono Medium tabular figure, 220pt white: "3" with smaller italic Accent Blue caption beneath: "different prices." Below, Plex Sans Regular 20pt white: "Same drug. Same dose. Same manufacturer. Three channels. Three different per-unit prices." Accent-Blue-bordered "WHY IT MATTERS" panel: "Channel pricing is not an accident. The spread between channels is a design decision the PBM made. Most plan sponsors have not benchmarked it."
-
-**Slide 6 — Action.** White background. Top: Plex Sans SemiBold 24pt Primary Blue label "What to ask your PBM." Center: Plex Sans SemiBold display, ~120pt Primary Blue with italic Accent Blue period: "ASK*.*" Below, Plex Sans Regular 20pt Primary Blue: "Net cost per script, by channel, for your top 10 drugs by spend. The single data request that makes the channel design visible." Primary Blue "WHY IT MATTERS" panel: "If your PBM cannot produce per-channel net cost on your top 10 drugs, that itself is a finding worth bringing to renewal."
-
-**Slide 7 — Close.** Solid Primary Blue (#015880) background. Plex Sans SemiBold 52pt white centered-left: "Channel pricing is a *design* decision." (word "design" italic Accent Blue.) Below, Plex Sans Regular 20pt white: "Whose design is yours?" Bottom block Plex Sans Regular 16pt Accent Blue: "Send this to your CFO. team@rxbs.org | Benefit Blind Spots." Bottom-right Plex Mono Medium 14pt Accent Blue: "07 / 07." Bottom-left Plex Mono Medium 14pt white: "rxbs.org." Top-right Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions."
-
-#### Image Generation Prompt (paste-ready, generates all 7 slides via Claude Design)
-
-```
-Create a 7-slide LinkedIn carousel as an HTML+CSS artifact. Each slide 1080 x 1350 px. Render all 7 stacked vertically in preview, exportable individually as PNG.
-
-SHARED VISUAL SYSTEM:
-- Cover (Slide 1) and close (Slide 7): solid Primary Blue (#015880) backgrounds, white Plex Sans SemiBold display, Accent Blue (#A7E0FA) italic emphasis words
-- Content slides (2-6): alternating Primary Blue and white backgrounds per the per-slide spec below
-- Plex Sans SemiBold for display headlines and labels
-- Plex Sans Regular for interpretation body
-- Plex Sans Italic + Accent Blue for emphasis words
-- Plex Mono Medium tabular figures for any number
-- "WHY IT MATTERS" panel across bottom ~18% of every content slide. On white-background slides: Primary Blue background panel with white Plex Sans Regular 16pt body. On Primary-Blue-background slides: Accent-Blue-bordered card with white Plex Sans Regular 16pt body.
-- 60px horizontal, 40px vertical padding
-- Slide-number footer "N / 7" in Plex Mono Medium 14pt bottom-right of every slide
-- PBS word-mark top-right on cover and close: "Prescription Benefit Solutions" Plex Sans SemiBold 12pt white
-- "rxbs.org" bottom-left in Plex Mono Medium 14pt on cover and close
-- Color palette strict: Primary Blue #015880, Accent Blue #A7E0FA, Gray #4D4D4D, White #FFFFFF
-- No icons, no people, no logos beyond the PBS word-mark
-- Visual parity with Library 01 (April 21, 2026), W22 Biosimilar CFO Metrics, W30 Q4 Decisions One Number carousels
-
-SLIDE 1 — COVER (Primary Blue background)
-- Eyebrow top-left, Plex Sans SemiBold 14pt white, +6% letter tracking: PBS CHANNEL PRICING · TRANSPARENCY
-- Headline centered-left, Plex Sans SemiBold 56pt white, with italic Accent Blue emphasis on "prices": Same drug. Three *prices*.
-- Subhead, Plex Sans Regular Italic 22pt Accent Blue: Why retail, mail, and specialty rarely match — and who designs the gap.
-- Bottom-right, Plex Sans SemiBold 18pt white: SWIPE FOR THE COMPARISON →
-- Top-right, Plex Sans SemiBold 12pt white: Prescription Benefit Solutions
-- Bottom-left, Plex Mono Medium 14pt white: rxbs.org
-- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 01 / 07
-
-SLIDE 2 — RETAIL (white background)
-- Top-left label, Plex Sans SemiBold 24pt Primary Blue: Channel one · Retail pharmacy
-- Center display, Plex Sans SemiBold ~120pt Primary Blue: RETAIL
-- Below display, Plex Sans Regular 20pt Primary Blue, two lines: AWP minus a contracted discount. Plus a dispensing fee. One per-unit price.
-- "WHY IT MATTERS" panel, Primary Blue background, white Plex Sans Regular 16pt: Retail is the simplest pricing math in the system. It is also the channel most plan sponsors benchmark against, even though their spend is split across three channels.
-- Slide number bottom-right, Plex Mono Medium 14pt Gray: 02 / 07
-
-SLIDE 3 — MAIL ORDER (Primary Blue background)
-- Top-left label, Plex Sans SemiBold 24pt white: Channel two · Mail order
-- Center display, Plex Sans SemiBold ~120pt white: MAIL
-- Below display, Plex Sans Regular 20pt white, two lines: Same drug. Different discount percentage. Different dispensing fee. Different per-unit price.
-- "WHY IT MATTERS" panel rendered as Accent-Blue-bordered card, white Plex Sans Regular 16pt: Mail's discount looks deeper. The methodology is different. Comparing mail to retail at the per-unit level is rarely apples to apples.
-- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 03 / 07
-
-SLIDE 4 — SPECIALTY (white background)
-- Top-left label, Plex Sans SemiBold 24pt Primary Blue: Channel three · Specialty pharmacy
-- Center display, Plex Sans SemiBold ~120pt Primary Blue: SPECIALTY
-- Below display, Plex Sans Regular 20pt Primary Blue, two lines: Same drug. Different pricing methodology entirely. Different per-unit price. Often a different formulary tier.
-- "WHY IT MATTERS" panel, Primary Blue background, white Plex Sans Regular 16pt: Specialty pricing typically uses AWP-based math too, but with different discounts, different dispensing fees, and a separate set of guarantees, many of which are excluded from the contract's overall pricing performance language.
-- Slide number bottom-right, Plex Mono Medium 14pt Gray: 04 / 07
-
-SLIDE 5 — THE PATTERN (Primary Blue background)
-- Top-left label, Plex Sans SemiBold 24pt white: The pattern
-- Center figure, Plex Mono Medium tabular figures, 220pt white: 3
-- Caption beneath figure, Plex Sans Italic 22pt Accent Blue: different prices
-- Below caption, Plex Sans Regular 20pt white: Same drug. Same dose. Same manufacturer. Three channels. Three different per-unit prices.
-- "WHY IT MATTERS" panel rendered as Accent-Blue-bordered card, white Plex Sans Regular 16pt: Channel pricing is not an accident. The spread between channels is a design decision the PBM made. Most plan sponsors have not benchmarked it.
-- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 05 / 07
-
-SLIDE 6 — ACTION (white background)
-- Top-left label, Plex Sans SemiBold 24pt Primary Blue: What to ask your PBM
-- Center display, Plex Sans SemiBold ~120pt Primary Blue with italic Accent Blue period: ASK*.*
-- Below display, Plex Sans Regular 20pt Primary Blue: Net cost per script, by channel, for your top 10 drugs by spend. The single data request that makes the channel design visible.
-- "WHY IT MATTERS" panel, Primary Blue background, white Plex Sans Regular 16pt: If your PBM cannot produce per-channel net cost on your top 10 drugs, that itself is a finding worth bringing to renewal.
-- Slide number bottom-right, Plex Mono Medium 14pt Gray: 06 / 07
-
-SLIDE 7 — CLOSE (Primary Blue background)
-- Center-left headline, Plex Sans SemiBold 52pt white with italic Accent Blue emphasis on "design": Channel pricing is a *design* decision.
-- Below headline, Plex Sans Regular 20pt white: Whose design is yours?
-- Bottom block, Plex Sans Regular 16pt Accent Blue: Send this to your CFO. team@rxbs.org | Benefit Blind Spots.
-- Top-right, Plex Sans SemiBold 12pt white: Prescription Benefit Solutions
-- Bottom-left, Plex Mono Medium 14pt white: rxbs.org
-- Slide number bottom-right, Plex Mono Medium 14pt Accent Blue: 07 / 07
-
-Maintain exact visual parity with the Library 01 carousel that shipped April 21, 2026 — same eyebrow label position, same slide-number format, same PBS word-mark placement on cover and close.
-```
-
-#### Refinement Prompts (per-slide, only if iterating)
-
-If the master prompt above produces a render that is 80% right but needs a specific slide tightened, paste one of these into the same project rather than starting over.
+**Step 1 — Midjourney prompt for the photorealistic base (paste as-is):**
 
 ```
-SLIDE 5 REFINEMENT (the "3" slide): the "3" should fill 60% of vertical center space, with "different prices" caption sitting tight beneath. The "WHY IT MATTERS" card should be Accent Blue 4px border on left edge only, transparent fill, white text. Tighten the gap between the caption and the lower paragraph.
+A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical aspect ratio). Three identical amber prescription pill bottles stand upright side by side on a clean light gray pharmacy counter surface, evenly spaced with about 4 inches between each bottle. Each bottle is the same size, height, and angle. Each has a white printed pharmacy label facing the camera. Reading left to right, the three labels read in clean black sans-serif print: "RETAIL" on the first bottle, "MAIL ORDER" on the second, "SPECIALTY" on the third. Below each channel label on each bottle, smaller printed text reads "Drug X 50mg / #30." Subtle soft shadow under each bottle. Soft even daylight from a slight upper-left angle. No reflections, no glare. No logos visible anywhere except the printed labels. No people, no hands. The bottle caps are matched and centered. Color palette: amber bottles, white labels with black text, neutral light gray counter surface. Style: realistic product photography, clean and crisp, slightly editorial. Composition leaves visible empty surface space above the bottles (top 25% of frame) and below the bottles (bottom 25% of frame) for handwritten annotation overlay in post-production.
 ```
 
-```
-SLIDE 6 REFINEMENT (the "ASK." slide): the period after ASK is the design moment — render it in italic Accent Blue, ~80% the size of the K. The display word ASK stays Primary Blue Plex Sans SemiBold. Keep the period attached visually to the K (no space), italic-styled like the "prices" emphasis on Slide 1.
-```
+**Step 2 — Canva annotation overlay (manual composition):**
 
-```
-COVER / CLOSE BACKGROUND CONSISTENCY: Slides 1, 3, 5, 7 share the same Primary Blue background (#015880). Slides 2, 4, 6 share the same pure white background (#FFFFFF). Confirm no slight shade drift between Primary Blue slides; they should be identical. Same for white slides.
-```
+After Midjourney returns the bottle photo:
 
-**Post-Generation Steps:**
+1. Open the photo in Canva at 1080 x 1350 px
+2. Add the **header** (top 12%) in Permanent Marker / Caveat font:
+   - Black marker, ~52pt, slightly hand-imperfect spacing: `Same drug. Three channels. Three prices.`
+   - Underline the second "Three" in Accent Blue (#A7E0FA) marker
+   - Below in Gray Permanent Marker ~22pt: `What changes between Retail, Mail, and Specialty — and who designs the spread.`
+3. Add **per-bottle annotations** in Primary Blue (#015880) Permanent Marker / Caveat ~28pt, positioned above each bottle:
+   - Above RETAIL: `AWP discount. Dispensing fee. One unit price.`
+   - Above MAIL ORDER: `Different discount %. Different dispensing fee. Different unit price.`
+   - Above SPECIALTY: `Different methodology entirely. Often a different formulary tier.`
+4. Draw a **red curved marker bracket** (#C0392B, 4-6px stroke, slightly imperfect) arching from above the RETAIL bottle to above the SPECIALTY bottle. Add red marker text along the bracket: `Same drug. Three different per-unit prices.`
+5. Add a **gray margin note** (#4D4D4D) pointing diagonally toward the bracket from the upper-right area: `One PBM setting every number.` Add a small hand-drawn arrow from the note to the bracket.
+6. Add the **bottom callout box** (Primary Blue marker outline, ~3px stroke, slightly imperfect corners), positioned in the bottom 18% of the frame. Inside the box, hand-lettered in black Permanent Marker ~24pt: `ASK: net cost per script, by channel, top 10 drugs by spend. The single data request that makes the channel design visible.`
+7. Add the **byline** (bottom-right corner, ~14pt Gray Permanent Marker): `— Ginny Crisp, PharmD · rxbs.org`
+8. Verify color palette is strict: only Primary Blue, Accent Blue, red marker, gray, plus the amber/white/gray of the photo base.
+9. Export as PNG at 1080 x 1350 px.
 
-1. Generate 7-slide deck via Claude Design using the prompt and slide-by-slide spec above
-2. Export individual slides as PNGs, 1080 x 1350 px each (named `slide_1.png` through `slide_7.png` in order)
-3. Visual-parity check against Library 01 / W22 One Number carousel
-4. Verify "WHY IT MATTERS" panels land at consistent vertical position across content slides
-5. Verify Slide 5's Plex Mono "3" renders cleanly (tabular alignment)
-6. Verify italic Accent Blue emphasis on Slide 1 ("prices") and Slide 7 ("design") renders correctly
-7. Upload as native LinkedIn carousel (document upload)
+**Step 3 — Quality check before upload:**
+
+- All three bottle labels are crisp and legible at LinkedIn feed size (test by viewing at 50% zoom)
+- Hand-lettered annotations look intentionally imperfect, not sloppy
+- Red bracket is the visual anchor; the eye is drawn to it first
+- The callout box at the bottom is the second-strongest element (the action ask)
+- Color palette holds; no stray colors slip in
+- No "Benefit Blind Spots" or PBS publication badge anywhere
+- Byline is small and unobtrusive
+
+#### Total production cost
+
+~45-60 minutes for the first build (Midjourney rounds + Canva annotation). Subsequent messy infographic builds in this style drop to ~30-40 minutes once the Canva template is saved with the annotation positions.
 
 ---
 
