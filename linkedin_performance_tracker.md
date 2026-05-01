@@ -49,7 +49,7 @@
 | 1 | GLP-1 Reality Check | Text Only | 41,594 | Clinical Pharmacy |
 | 2 | 340B "$20 vs $100 same drug" (Cuban reposted + commented) | POV Text (Dollar Comparison) | **42,968** | Transparency |
 | 3 | Express Scripts Lawsuit | Link Share | 26,431 | Transparency |
-| 4 | PA "everyone agrees is broken" (Cuban commented) | POV Text | **22,289** | Clinical Pharmacy |
+| 4 | PA "everyone agrees is broken" (Cuban commented; Apr 28 update) | POV Text | **24,228** | Clinical Pharmacy |
 | 5 | "PBM contracts have their own language" (Mar 11 original) | Messy Infographic | 22,047 | PBM Contract Insights |
 | 6 | White bagging saves employers substantial money (Cuban reposted Apr 5) | POV Text | 19,507 | Cost Containment |
 | 7 | "PBM contracts have their own language" (Apr 7 re-surge with Cuban) | Messy Infographic | **19,470** | PBM Contract Insights |
@@ -60,14 +60,14 @@
 | 12 | Biosimilars Savings | Infographic | 10,555 | Cost Containment |
 | 13 | "Same drug. Same dose. Same member." | Carousel | 6,957 | PBM Contract Insights |
 | 14 | GLP-1 Strategies | Carousel | 5,807 | Clinical Pharmacy |
-| 15 | PA "5 terms in your PA contract" (Cuban reposted, 1d snapshot, will climb) | Messy Infographic | **4,304** | PBM Contract Insights |
+| 15 | PA "5 terms in your PA contract" (Cuban reposted; Apr 28 update) | Messy Infographic | **7,048** | PBM Contract Insights |
 | 16 | Specialty Carve-Out | Carousel | 2,535 | Cost Containment |
 | 17 | "Specialty pharmacy question most employers never ask" | Tease Hook Text | 2,549 | Cost Containment |
 | 18 | We're hiring | Job/Link | 2,418 | - |
-| 19 | Library 01 Contract Comparison carousel (3d, reference-asset behavior) | Carousel (7p) | **2,129** | PBM Contract Insights |
+| 19 | Library 01 Contract Comparison carousel (1w update, 19 saves) | Carousel (7p) | **3,964** | PBM Contract Insights |
 | 20 | Audit rights "means nothing" | POV Text | 1,993 | PBM Contract Insights |
-| 21 | LI Newsletter Edition 7 (Prior Authorization Briefing, Apr 20) | Newsletter | **1,752** | Clinical Pharmacy |
-| 22 | Admin-fee dollar comparison ("$25-40 admin. $60-80 clinical.") | POV Text | **1,336** | PBM Contract Insights |
+| 21 | LI Newsletter Edition 7 (Prior Authorization Briefing, Apr 20; Apr 28 update) | Newsletter | **2,586** | Clinical Pharmacy |
+| 22 | Admin-fee dollar comparison ("$25-40 admin. $60-80 clinical."; Apr 28 update) | POV Text | **1,848** | PBM Contract Insights |
 | 23 | LI Newsletter Edition 5 (Specialty Pharmacy) | Newsletter | 860 | Cost Containment |
 | 24 | LI Newsletter Edition 3 | Newsletter | 823 | Self-Funded Guidance |
 | 25 | LI Newsletter Edition 4 | Newsletter | 661 | PBM Contract Insights |
@@ -752,21 +752,22 @@ The newsletter is clearly accelerating. The subscriber base (605) is growing, op
 | 3 | "The 340B pricing gap most employers do not track" (340B decoder) | Messy Infographic | Thu | 1w | 12,885 | 10,067 | 62 | 13 | 7 | 6 | 0 | 25 | +3 | Reposted Sun Apr 19 |
 | 4 | "There is a process in pharmacy benefits that everyone agrees is broken. Prior authorization…" | POV Text | Fri | 1w | 22,289 | 17,826 | 19 | 12 | 1 | 1 | 0 | 41 | +5 | Commented Sun Apr 19 |
 
-### LinkedIn Newsletter Edition 7 — "Prior Authorization Briefing" (Mon Apr 20)
+### LinkedIn Newsletter Edition 7 — "Prior Authorization Briefing" (Mon Apr 20, updated Apr 28)
 
 | Metric | Value |
 |--------|-------|
-| Feed-card impressions | 1,752 |
-| Feed-card members reached | 1,088 |
-| Article views | 478 |
+| Feed-card impressions | 2,586 |
+| Feed-card members reached | 1,494 |
+| Article views | 512 |
 | Email sends | 563 |
-| Email open rate | 46% |
-| Reactions | 21 |
+| Email open rate | 47% |
+| Reactions | 23 |
 | Comments | 2 |
 | Reposts | 1 |
 | Saves | 1 |
-| Profile viewers from this post | 6 |
-| Followers gained | +3 |
+| Profile viewers from this post | 7 |
+| Followers gained | +5 |
+| Premium custom button interactions | 1 |
 
 ### Demographics (Cuban cluster)
 
@@ -795,7 +796,7 @@ The newsletter is clearly accelerating. The subscriber base (605) is growing, op
 | 4 | "The Audit Rights Gap" | 661 | 285 | 362 | 46% | 5 | 2 | Published |
 | 5 | "Specialty Pharmacy Briefing" | 860 | 417 | 468 | 49% | 6 | 0 | Published |
 | 6 | "Stop-Loss Strategy" | - | ~350 | - | 43%* | - | - | DELETED |
-| 7 | "Prior Authorization Briefing" | 1,752 | 478 | 563 | 46% | 21 | 2 | Published |
+| 7 | "Prior Authorization Briefing" | 2,586 | 512 | 563 | 47% | 23 | 2 | Published (updated Apr 28) |
 
 ### Week 16 Feed Posts (Apr 21-23, separate from Cuban cluster)
 
@@ -805,9 +806,9 @@ These are the three current-week feed posts landing alongside the Cuban re-surge
 
 | # | Post | Type | Date | Age | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Cuban Signal |
 |---|------|------|------|-----|-------|---------|-----|------|---------|-------|-------|---------------|-----------|--------------|
-| 5 | "Five clauses decide your PBM contract. Most employers never read them." (Library 01 — Contract Language Costing Your Plan, 7p) | Contract Comparison Carousel | Tue Apr 21 | 3d | 2,129 | 1,234 | 19 | 3 | 4 | **14** | 3 | 25 | +2 | — |
-| 6 | "$25-40 admin. $60-80 clinical. Some bundle it. Admin PA review: $25 to $40 each…" | POV Text (dollar comparison on admin fees) | Wed Apr 22 | 2d | 1,336 | 883 | 11 | 6 | 2 | 1 | 0 | 10 | +1 | — |
-| 7 | "5 terms in your PA contract that do not mean what you think they mean." (PA decoder, Thursday Slot A) | Messy Infographic | Thu Apr 23 | 1d | 4,304 | 3,645 | 15 | 6 | 3 | 0 | 0 | 4 | +1 | Reposted late Thu night (early; numbers likely to climb) |
+| 5 | "Five clauses decide your PBM contract. Most employers never read them." (Library 01 — Contract Language Costing Your Plan, 7p) | Contract Comparison Carousel | Tue Apr 21 | 1w (Apr 28 update) | 3,964 | 2,520 | 30 | 3 | 5 | **19** | 4 | 30 | +4 | — |
+| 6 | "$25-40 admin. $60-80 clinical. Some bundle it. Admin PA review: $25 to $40 each…" | POV Text (dollar comparison on admin fees) | Wed Apr 22 | 1w (Apr 28 update) | 1,848 | 1,242 | 11 | 6 | 2 | 1 | 0 | 11 | +1 | — |
+| 7 | "5 terms in your PA contract that do not mean what you think they mean." (PA decoder, Thursday Slot A) | Messy Infographic | Thu Apr 23 | 1w (Apr 28 update) | 7,048 | 5,939 | 20 | 6 | 3 | 0 | 0 | 4 | +3 | Reposted late Thu night |
 
 **Week of Apr 18-24 total post impressions (LinkedIn profile view):** 99,516 across all live posts (includes Cuban-cluster re-surges).
 
