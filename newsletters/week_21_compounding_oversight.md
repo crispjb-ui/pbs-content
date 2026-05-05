@@ -280,7 +280,7 @@ This week's Benefit Blind Spots includes the full **15-line quarterly reporting 
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
-## "What I'd Ask" #3: Investigating a High-Cost Compounding Claim
+## "What I'd Ask" #3: Reading Your PBM's Quarterly Report
 
 **Publish:** Tuesday, May 27, 2026 at 7:30 AM EST
 **Format:** Standalone Substack post
@@ -291,27 +291,25 @@ This week's Benefit Blind Spots includes the full **15-line quarterly reporting 
 
 ### Ready-to-Publish Content
 
-If a high-cost compounding claim crossed my desk, here are the questions I would ask before approving or denying it.
+If a quarterly PBM report landed on my desk, here are the questions I would ask before signing off on the "Plan Performance: On Track" footer.
 
-**About the claim:**
-1. What are the active ingredients in this compound? List every ingredient with its concentration.
-2. Is there an FDA-approved commercial product available that contains the same primary active ingredient?
-3. What is the cost of the commercial alternative vs. the cost of this compound?
+**About what is in the report:**
+1. Total plan spend YTD - what is the year-over-year and quarter-over-quarter comparison, not just the YTD number?
+2. Generic dispensing rate - what is the substitution-by-opportunity ratio, not just the aggregate rate?
+3. Mail-order penetration - is the per-script net cost lower in mail than retail for the drugs your members are filling there?
+4. Specialty drug count - which specialty drugs filled where, by drug name and pharmacy?
 
-**About the prescriber:**
-4. What is this prescriber's total compounding volume? How does it compare to peers in the same specialty?
-5. Does the prescriber have a financial relationship with the dispensing pharmacy?
-6. Is the prescriber aware that a commercial alternative exists?
+**About what is missing from the report:**
+5. Where is the net cost per script by channel for the top 10 drugs by spend? If it is not in the report, the data exists at the PBM and the contract did not require disclosure.
+6. Where is the rebate gross-to-net by therapeutic class? Aggregate rebate dollars hide which classes are subsidizing which.
+7. Where is the affiliated-pharmacy share of plan claims by drug category, with specialty separately?
+8. Where is the PA approval-and-denial breakdown by therapeutic class? Aggregate rates mask utilization-management drift.
 
-**About the pharmacy:**
-7. What is this pharmacy's total compounding claims volume with our plan?
-8. What percentage of this pharmacy's claims with our plan are compounding vs. traditional?
-9. Is this pharmacy flagged in any state board of pharmacy enforcement actions?
+**About the source of the numbers:**
+9. Is there a signed attestation that the data in this report is complete and accurate, with a named PBM contact for follow-up? If not, what is the PBM committing to in writing?
+10. Will the PBM produce these line items as standing quarterly deliverables? If not now, will the contract require them at renewal?
 
-**About the clinical justification:**
-10. What is the documented clinical rationale for why the commercial product cannot meet this patient's need? (The answer should be specific: allergy to an inactive ingredient, need for a dosage form not commercially available, etc. "Patient preference" or "prescriber preference" is not a clinical justification for a significantly higher cost.)
-
-One compounding claim is a question. A pattern of high-cost compounds from the same prescriber and pharmacy is an investigation.
+One missing line is a question. Five missing lines is a renewal redline. Fifteen missing lines is the standard quarterly report most plan sponsors get every quarter and read without asking what is not there.
 
 ### Preview Image Prompt
 
@@ -322,7 +320,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 **Per-instance overrides:**
 - Badge (top-right): "WHAT I'D ASK"
-- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 03 · High-cost compounding claim`
+- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 03 · PBM quarterly report review`
 
 ---
 
