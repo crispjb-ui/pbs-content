@@ -627,28 +627,28 @@ Next week: why your plan may be missing the biosimilar opportunity.
 ## Monday
 
 **Morning (7-8 AM) — Article Launch Teaser:**
-New on Benefit Blind Spots this morning: the compounding pharmacy problem. We walk through the red flags, the claims patterns, and the six-flag checklist for identifying compounding claims that warrant investigation.
+New on Benefit Blind Spots this morning: what your PBM's quarterly report actually tells you. We walk through the five sections every standard report includes, the fifteen lines a complete report should include, and the gap that determines your next renewal price.
 
 Read the full analysis: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
-Compounding has a legitimate place in pharmacy. I learned that as a pharmacist. But I also learned to recognize when a compounding claim did not add up. The ingredients did not match the diagnosis. The quantities did not make sense. The cost was wildly out of range. You develop a feel for it over years of practice. That instinct is what I bring to claims review now.
+A self-funded CFO emailed me his most recent quarterly PBM report last fall. 14 pages. Color charts. "Plan Performance: On Track" footer. He asked if the numbers were as good as they looked. I asked him to send the underlying claim file. Two weeks later we were having a different conversation. The report had not been wrong. It had been incomplete. That is the pattern with most quarterly reports we audit.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-I pulled a compounding claim during a routine audit that stopped the conversation. $1,200 cream. $47 commercial alternative. Same active ingredient. The compounded version had five ingredients with no clinical evidence supporting the combination. The commercial product was available the entire time. The PBM's claims system processed it without question. That is the claim that still gets to me.
+Pharmacy school teaches you to read drug data. It does not teach you to read what is missing from a PBM's quarterly summary. That part I learned in audit work. The first time a client showed me their quarterly report, I spent half an hour looking for a line item I knew the PBM had — net cost per script by channel — and could not find it. The CFO asked me what was missing. I told him. He asked why. The contract is why.
 
 ## Tuesday
 
 **Morning (7-8 AM) — Origin Story #1:**
-When I was practicing, a sales rep from a compounding pharmacy came to the clinic offering to pay for training and sample kits if our prescribers would consider writing more compound prescriptions. That visit taught me everything I needed to know about how certain compounding volume gets generated. Not clinical need. Commercial relationships. I never forgot it.
+A broker I respect once told me a quarterly report is the single most useful artifact in a renewal conversation. He meant it because what is in the report shows you what the PBM is willing to disclose under the current contract. What is not in the report shows you what you have to write into the next contract. He reads what is there and what is not, equally. I learned that habit from him.
 
 **Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
-State boards of pharmacy are beginning to scrutinize compounding volume more closely, but enforcement varies dramatically by state. For self-funded employers with employees across multiple states, the oversight landscape is inconsistent. The plan's own claims review may be the most reliable safeguard.
+The CAA 2026 reporting requirements are coming. Detailed semiannual reporting on gross-to-net drug spend, spread pricing, and PBM compensation categories, effective for plan years beginning January 1, 2029. Plan sponsors who get those line items in their quarterly reports now, ahead of the regulatory deadline, will have a 12-to-18-month head start on the contract conversations the rest of the market will be having in 2028.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-A client's HR team sent me a compounding claim they could not explain. A single employee, three refills in a quarter, $4,000 total. When I dug into the pharmacy and prescriber, both names appeared on several other claims from the same plan. The pattern was only visible when the data was sorted a specific way. That is why reviews matter. The individual claim tells you nothing. The pattern tells you everything.
+A long-time client called me about a quarterly report that arrived in a different format than the prior quarter's. The PBM had simplified some sections "for ease of review." Those simplifications happened to remove three line items the client had been tracking against guarantees. The new format showed Plan Performance: On Track. The old format would have shown the guarantees were missing. The format change was not on a contract amendment we had seen. We asked.
 
 ## Wednesday
 
@@ -658,71 +658,71 @@ What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shap
 Read the roundup: [LINK]
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
-I remember the first compounding claim I flagged during a contract review. The dollar amount was high enough to stand out, but what really caught my attention was the formulation. My pharmacy training told me it did not match any standard of care I knew. That is the value of having a pharmacist look at claims data. Some things only make sense if you have spent years in clinical practice.
+The first time I redlined a PBM contract reporting clause, I thought I was overreaching. It was a three-line clause that said "standard reports in the form customarily provided." I rewrote it to name fifteen specific line items by description, plus a signed attestation. The PBM pushed back on every line. We negotiated for six weeks. The client got eleven of the fifteen. The four they did not get became the audit list for the next contract review.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-A long-time client asked me why I keep flagging compounding claims when their total compound spend looks small. I told her: concentrated cost in a category with minimal clinical value is a canary. If the plan lets that through, it lets other things through too. She pulled a full audit. The compounding was the surface. Three other patterns surfaced underneath it. That is why small findings matter.
+A CFO once asked me how I had time to read all 14 pages of a quarterly PBM report. I told her I do not read it. I scan it for what is not there. The 14 pages take 30 minutes the first time, less the second. The five line items that should be there but are not take 5 minutes to mark. That is the audit. The 14 pages are the surface area; the missing five are the finding.
 
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: three compounding claims patterns that signal problems. Not every compounding claim is a problem. But certain combinations of volume, pricing, and prescriber concentration are worth investigating.
+New field note: the five lines to read first in your PBM's quarterly report. The 30-minute version of the full audit. If you have your most recent quarterly report and time between meetings, here is the order to scan it in, plus a printable plan-sponsor checklist attached.
 
 Read the field note: [LINK]
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
-In one of my earliest compounding reviews, I found a pattern that would not have looked suspicious to a non-pharmacist. Four ingredients in a topical cream, all individually defensible, but combined in a way that had no clinical rationale. The reviewer before me had accepted the claims because each ingredient passed scrutiny on its own. Clinical training is what catches the combination problem. The parts looked fine. The whole did not.
+A new client sent over their PBM contract for review last spring. The reporting clause was four lines long. One of the lines said "and any other reports the PBM customarily provides." I told the client that line was the one that mattered. Whatever the PBM customarily decides to provide is what they get. We changed it. Whatever the PBM is required by name to provide is what they get now.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-I worked a case where the "clinical justification" for a series of high-cost compounds was identical, copy-pasted across different patients and different prescribers. The language was too clean. Real clinical notes have the fingerprints of real patients in them. Identical notes are a pattern that tells me somebody was generating paperwork, not documenting care. That case ended with a referral to the state board.
+The most expensive line on a quarterly report is usually the line that is not there. I have said that to enough clients now that one of them quoted it back to me at her renewal meeting. Her broker had asked the PBM why a particular metric was missing. The PBM said it was not part of the standard report. The broker said the contract no longer accepted "standard." Six weeks later the metric showed up.
 
 ## Friday
 
 **Morning (7-8 AM) — Origin Story #1:**
-Finding compounding fraud in claims data is satisfying and depressing at the same time. Satisfying because you caught it. Depressing because it means patients were used. Someone prescribed a $1,200 compound when a $47 alternative existed, and the patient had no idea. I do this work because the patterns need to be named. Some days the patterns are hard to look at.
+The first PBM contract I ever reviewed had a reporting clause I did not know how to redline. I copied it into a document, sent it to a colleague who had been doing this for fifteen years, and asked her what was missing. She laughed. "Everything important." Then she walked me through, line by line, what a complete reporting clause looks like. That conversation became my baseline for every contract review since.
 
 **Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
 Next week on Benefit Blind Spots: the biosimilar opportunity most self-funded plans are missing. A biosimilar is available. FDA-approved. Clinically equivalent. Lower net cost. Your formulary still prefers the brand. We walk through why PBM rebate economics may not align with your plan's cost objectives, and share a six-factor readiness assessment.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-A pharmacy student once asked me if compounding reviews were "worth the time" when the total spend was small relative to specialty. My answer: the dollar amount is not the point. The signal is the point. A plan that is paying attention to compounding is a plan paying attention. A plan that is not is missing more than compounding.
+A client's HR director once told me she felt embarrassed asking the PBM for "more reports." I reframed it for her. The PBM has the data. The contract entitles you to specific reports. Asking for what the contract entitles you to is not asking for more. It is asking for what was already negotiated. She started using that framing. The next quarter's report came back with three new sections.
 
 ## Saturday
 
 **Morning (8-9 AM) — Origin Story #1:**
-My first week practicing pharmacy, a compounding pharmacist showed me around their lab. It was meticulous. The measurements were precise, the protocols were clean, the records were impeccable. That is the version of compounding that deserves the profession's respect. The version I flag in claims reviews is not that. The two are not the same work, even if the billing codes overlap.
+Pharmacy school had us do a rotation in claims review. It was the rotation I least wanted at the time. Twenty years later it is the work I do every week. The data does not lie. The reports built on the data sometimes do. Reading both at the same time is the skill that the rotation taught and that the standard quarterly report assumes nobody on the plan side has.
 
 **Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Red flag combination we watch for: high-cost compound, single-source pharmacy, prescriber concentration, and commercially available alternative. Any one of those factors could be coincidence. All four together is a pattern that warrants a closer look. The plan sponsor who identifies this pattern before renewal has data. The one who discovers it afterward has regret.
+The standard PBM quarterly report contains five sections almost universally: total spend YTD, generic dispensing rate, mail-order penetration, specialty drug count, member out-of-pocket. A complete report contains fifteen. The gap between five and fifteen is the gap between performance theater and actual analysis. The five-section report is enough information to make the PBM look good. It is not enough information to renegotiate price.
 
 **Afternoon (3-5 PM) — Origin Story #2:**
-A plan sponsor thanked me once for a compounding review that identified a suspected fraud scheme. She also asked why her PBM had not caught it. My honest answer: the PBM's system is built to process, not investigate. The edits they run are designed for volume, not pattern recognition. The PBM was doing exactly what the PBM is paid to do. The gap is in what the plan is not paying anyone to do.
+A CFO at an 800-employee plan once told me the most useful thing I had done for him was hand him a list of fifteen questions to ask his broker. He had been hesitant to ask the PBM directly. The list took the personal weight off the conversation. The questions were the audit. He read them in order. The PBM could not answer four of them. The renewal followed.
 
 ## Sunday
 
 **Morning (8-9 AM) — Origin Story #1:**
-A pharmacy preceptor of mine told me, "compounding is one of the most skilled and most abused parts of our profession." That dual nature has stayed with me. I do not want to help erode legitimate compounding for the patients who need it. I also cannot ignore what the data shows when the volume goes the other way. Holding both realities at once is how I try to approach this category.
+Early in my consulting work I assumed PBMs were generating quarterly reports in good faith and just leaving things out by accident. After enough audits, I revised that assumption. The omissions are not random. They are systematic. The same line items are missing from the same PBMs across different clients. That is not accident. That is design.
 
 **Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Here is what makes compounding oversight difficult: the claims look normal in the system. They process like any other prescription. They have an NDC. They have a prescriber. They adjudicate through the PBM. The difference is in the pricing, the patterns, and the clinical rationale. You do not find compounding problems by reviewing individual claims. You find them by reviewing utilization patterns across the category.
+Here is the test I run on a PBM quarterly report. Look for "Plan Performance: On Track" or any equivalent confidence language at the bottom. Then ask: based on what data? If the report contains five aggregate metrics and a confidence statement, the PBM is offering you their judgment on data they curated. That is a presentation, not a performance assessment. The performance assessment is in the data the PBM did not include.
 
 **Afternoon (3-5 PM) — Origin Story #2:**
-Early in my career I assumed that if a claim was adjudicated, it had passed some kind of oversight. Years of claims review disabused me of that assumption. Adjudication is a payment event. It is not a judgment about whether the claim should have been paid in the first place. That realization changed how I advise plans. Do not assume the processing means approval of the appropriateness. It just means the claim fit the format.
+A plan sponsor asked me last year whether her PBM was "good." I told her I cannot answer that until I see the contract and the last four quarterly reports. She sent both. The contract had a reporting clause that ran four lines. The reports had five sections each. The PBM had not done anything wrong by the contract. The contract was the wrong contract. That is usually the answer.
 
 ## Engagement Reply Templates
 
 Use these when engaging with other writers' content. Adapt to whatever they posted.
 
-**Template A (on a pharmacy cost post):**
-"Compounding claims are one of the least visible cost drivers in this conversation. A single compounding pharmacy can generate more spend than employers realize, especially with multi-ingredient topicals that have commercially available alternatives. The claims process normally. The cost does not."
+**Template A (on a quarterly reporting / data transparency post):**
+"The standard PBM quarterly report has five sections: total spend YTD, generic dispensing rate, mail-order penetration, specialty drug count, member out-of-pocket aggregate. Every one is a metric the PBM controls. The numbers that move next year's renewal price are usually not in the report at all. Whether your contract requires them to be is the conversation."
 
-**Template B (on a PBM or plan management post):**
-"This connects to a gap we see consistently: PBM compounding pharmacy oversight. PBMs process compounding claims, but most do not flag the patterns that matter: prescriber concentration, single-source pharmacies, and commercial alternatives being bypassed. That is a PBM system failure, and it means the plan sponsor and their advisory team have to look for this proactively."
+**Template B (on a PBM contract / negotiation post):**
+"The reporting clause is the line item I redline first in PBM contract reviews. Most contracts run three to five lines that give the PBM full discretion over what to disclose. The protective version names every line item by description, plus a signed attestation. The brokers we work with handle this conversation as a standing pre-renewal exercise."
 
-**Template C (on a fraud/waste/abuse post):**
-"Compounding is exactly the category where this plays out. The individual claims are technically compliant. The patterns tell a different story. One pharmacy, a handful of prescribers, multi-ingredient formulations at multiples of commercially available pricing. One flag is a question. Three flags is an investigation."
+**Template C (on a fiduciary or plan-sponsor responsibility post):**
+"The fiduciary case for reading what is NOT in your PBM quarterly report is stronger than reading what is. Net cost per script by channel, rebate gross-to-net by class, affiliated-pharmacy share of specialty. The PBM has the data. If the report does not surface it, the gap is the contract. Your renewal redline is where it gets fixed."
 
 ---
 
