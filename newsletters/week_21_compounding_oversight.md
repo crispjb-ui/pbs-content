@@ -157,57 +157,58 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid Primary 
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Three Compounding Claims Patterns That Signal Problems
+## Five Lines to Read First in Your PBM's Quarterly Report
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, May 28, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Clinical Pharmacy
+**Pillar:** Transparency & Industry Education
 **Type:** Field Note
 
 ---
 
 ### Field Note Body
 
-If you read Monday's article on compounding oversight, you know the category carries real financial risk. This Field Note gets into the specific claims patterns. These are the three things we look for first when we pull compounding data for a client.
+Monday's article walked through the full 15-line checklist for what a PBM quarterly report should contain. Today's field note is the 30-minute version. If you have your most recent quarterly report in front of you and time to read five lines, here are the five.
 
-**Pattern 1: Sudden volume spikes from single providers**
+**1. The first line that is not in the report.**
 
-When a single pharmacy goes from a handful of compounding claims per month to dozens or hundreds, that is a signal. Legitimate compounding demand does not typically spike. What spikes is marketing: a compounding operation targeting prescribers in your network with aggressive outreach.
+Open the table of contents. Scan for "net cost per script by channel" or "per-channel net cost" or "channel pricing." If those words do not appear anywhere, that is the first finding. The PBM has the data. They are not putting it in front of you because the contract did not require it.
 
-Pull your compounding claims by dispensing pharmacy. If one pharmacy accounts for a disproportionate share of your compounding spend, investigate. Look at when the volume started, which prescribers are sending prescriptions there, and whether the clinical justification holds up across that volume.
+Note that down. Do not call your account team yet. The pattern matters more than the line item.
 
-**Pattern 2: Topical compounds priced far above commercial alternatives**
+**2. The rebate page.**
 
-This is the pattern that generated the most notorious compounding claims in recent years. A topical pain cream compounded with multiple ingredients (sometimes five or six), billed at $800 to $1,500 per fill, when a commercial topical with the primary active ingredient costs $30 to $60.
+Find the rebate section. Look for one number: total rebate dollars received during the quarter, broken out by therapeutic class. If the report shows only an aggregate "rebates passed through" figure, that is finding number two. Aggregate rebate dollars hide which classes are subsidizing which. Plans that get rebate detail by class can renegotiate formulary positioning. Plans that get only the aggregate cannot.
 
-The additional ingredients often lack clinical evidence supporting their combination. The compounding creates a custom product that justifies a custom price. But the clinical value over the commercial alternative is frequently unsupported.
+**3. The PA approval and denial section, if there is one.**
 
-When we review these claims, we pull up the primary active ingredient and check what is available commercially. If there is an FDA-approved product at a fraction of the cost, the compounding should have documented clinical justification. Usually it does not.
+Most reports include a prior-authorization summary. Read three numbers: total submitted, total approved, total denied. Then look for a denial-by-class breakdown. If you only see totals, the PBM is masking utilization-management drift. A 12 percent denial rate aggregate can hide a 35 percent denial rate on a specific class where the PBM has shifted its policy mid-quarter.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
+**4. The specialty drug routing report, if it exists.**
 
-**Pattern 3: Compound prescriptions from out-of-state prescribers**
+If your plan has any specialty drug spend (most do), look for a drug-by-pharmacy table. Where did each specialty drug fill, this quarter, by drug name? If that table is missing, you cannot see the affiliated-pharmacy share that drives the spread on specialty. We see this gap on roughly every standard PBM quarterly report we audit.
 
-This pattern is subtler but telling. When compounding claims originate from prescribers located in a different state from the patient, with no apparent patient relationship, it often indicates a marketing-driven prescription pattern rather than a clinical one.
+**5. The signed attestation.**
 
-Compounding operations sometimes build prescriber networks across state lines, using telehealth encounters or referral arrangements to generate prescriptions. The prescriber may have minimal knowledge of the patient's medical history or current medications.
+Last page. Look for a sentence stating the PBM attests that the data in the report is complete and accurate, with a named contact. If the report ends with auto-generated charts and no attestation, the PBM has not committed to anything in writing about what is in the document. That is finding number five.
 
-Cross-reference prescriber location with patient location in your compounding claims. Geographic disconnects warrant further review of the prescriber-patient relationship.
+**What to do with the five findings**
 
-**What to do when you find these patterns**
+> **Email the gap list to your broker.** Five lines, one sentence each, no formatting needed. The broker takes it from there.
 
-> **Flag the claims for clinical review** by your PBM or an independent reviewer.
-> **Request ingredient-level detail on high-cost compounds** to evaluate clinical appropriateness.
-> **Consider implementing prior authorization requirements** for compounding above a cost threshold if you have not already.
-> **Include compounding as a specific category** in your next claims audit scope.
+> **Add the five items to your renewal redline list.** The next contract should require these as standing reporting deliverables, by name, not "customary reports."
 
-Not every pattern indicates fraud. But each pattern indicates that the claims deserve closer scrutiny than PBM systems typically provide by default.
+> **Do not wait for next quarter.** The PBM can produce these data cuts now if asked. Whether the contract requires them is the renewal conversation. Whether they exist is a today conversation.
+
+The five-line read is not the full audit. The full 15-line audit is in Monday's deep dive and the printable plan-sponsor checklist below. The five-line read is what to do this week, with the report you already have, in 30 minutes between meetings.
+
+**[EMBED PDF: `templates/documents/week_21_quarterly_reporting_checklist.pdf`]**
 
 ---
 
-*This is a Field Note - shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
+*This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
 
 *Questions? Reach out at team@rxbs.org.*
 
@@ -215,18 +216,20 @@ Not every pattern indicates fraud. But each pattern indicates that the claims de
 
 ### Field Note Meta
 
-**SEO Title:** Three Compounding Claims Patterns That Signal Problems | Benefit Blind Spots
-**Meta Description:** Specific claims data patterns that indicate compounding abuse or waste. Here is what to look for in your data and what to do when you find it.
-**Tags:** compounding pharmacy, claims patterns, pharmacy audit, cost containment, clinical pharmacy, self-funded employers
+**SEO Title:** Five Lines to Read First in Your PBM's Quarterly Report | Benefit Blind Spots
+**Meta Description:** The 30-minute version of the full PBM quarterly reporting audit. Five lines to scan in your most recent report this week, with a printable plan-sponsor checklist attached.
+**Tags:** PBM quarterly reporting, transparency, pharmacy benefits, self-funded employers, audit, plan sponsor toolkit
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
+**Background:** White (#FFFFFF)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are three stacked claim-form card icons in deep teal-blue (#015880) outline, each roughly 250px wide, labeled "PATTERN 1," "PATTERN 2," "PATTERN 3" in deep teal-blue bold sans-serif text across their tops, offset so all three are partially visible. A magnifying glass icon in Accent Blue (#A7E0FA) hovers over the top card with its lens centered on the "PATTERN 1" label; the lens outline and the PATTERN 1 label are both highlighted in Accent Blue (#A7E0FA). Three small red-flag pennants in Accent Blue (#A7E0FA) emerge from the right edges of each card, one per claim. Below the stacked cards, two-tone centered headline: "Three Compounding Patterns" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "What the Claims Reveal" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a stylized flat-design clipboard outline in Primary Blue (#015880), roughly 700px tall, centered. Inside the clipboard, a simulated report layout: at the top, a header strip labeled "QUARTERLY REPORT" in Plex Mono Medium 22pt Primary Blue. Below the header, fifteen horizontal line-item rows in Plex Mono Medium 14pt; the first five rows are highlighted with a thin Accent Blue (#A7E0FA) fill behind them and a small Accent Blue numbered marker (1 through 5) at the left edge of each. The remaining ten rows are rendered in light gray (#D6D6D6) with no fill. To the right of the clipboard, five Accent Blue (#A7E0FA) tick marks run vertically, evenly spaced, each aligned to one of the five highlighted rows. Below the clipboard, a two-tone centered headline: "Five lines." in Primary Blue (#015880) Plex Sans SemiBold 56pt, immediately followed by "Thirty minutes." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt on the same line. Subtitle below in Gray (#4D4D4D) Plex Sans Regular 22pt: "What to scan in your most recent quarterly report this week." Flat corporate editorial style. No grid pattern, no textured background, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
