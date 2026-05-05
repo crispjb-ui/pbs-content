@@ -3,21 +3,25 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Compounding Claims Red Flag Report · Benefit Blind Spots</title>
+  <title>Quarterly Reporting Checklist · Benefit Blind Spots</title>
   <style>
     /* =========================================================================
-       PBS COMPOUNDING CLAIMS RED FLAG REPORT
-       A branded, printable 2-page report walkthrough that self-funded plan
-       sponsors can use to identify suspect compounding claims in their data.
-       Page 1 lists the data-pull request and the six red flags to apply.
-       Page 2 covers what "normal" looks like, plus a 4-item action plan
-       and PBM contract gaps to address.
+       PBS QUARTERLY REPORTING CHECKLIST
+       A branded, printable 2-page checklist self-funded plan sponsors use to
+       audit their PBM's most recent quarterly report against the 15 line items
+       a complete report should contain. Page 1: how to use the checklist
+       and the 15 numbered line items. Page 2: paste-ready broker request
+       language and a 4-step quarterly action plan.
+
+       Companion to the Week 21 Monday Substack deep dive ("What Your PBM's
+       Quarterly Report Actually Tells You") and the Thursday Field Note
+       ("Five Lines to Read First in Your PBM's Quarterly Report").
 
        Format: US Letter (8.5 × 11 in). Renders in browser, prints to PDF with
        backgrounds on, or export with WeasyPrint for a server-side PDF.
 
-       SOURCE: Week 21 "The Compounding Pharmacy Problem: Managing a High-
-       Risk Category" · newsletters/week_21_compounding_oversight.md.
+       SOURCE: Week 21 Substack deep dive on PBM quarterly reporting
+       · newsletters/week_18_drug_pipeline.md.
        ========================================================================= */
 
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
@@ -57,16 +61,17 @@
 
     .page {
       width: 8.5in;
-      height: 11in;
+      min-height: 11in;
       margin: 24px auto;
-      padding: 0.5in 0.7in 0.95in 0.7in;
+      padding: 0.5in 0.7in 0.55in 0.7in;
       background: var(--paper);
       color: #1a1a1a;
       box-shadow: 0 10px 36px rgba(0,0,0,0.4);
       position: relative;
+      display: flex;
+      flex-direction: column;
       page-break-after: always;
       break-after: page;
-      overflow: hidden;
     }
     .page:last-child { page-break-after: auto; break-after: auto; }
 
@@ -79,9 +84,9 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding-bottom: 12px;
+      padding-bottom: 10px;
       border-bottom: 2px solid var(--primary);
-      margin-bottom: 22px;
+      margin-bottom: 14px;
     }
     .head-eyebrow-left {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -105,7 +110,7 @@
        TITLE BLOCK (page 1 only)
        ============================================================ */
     .title-block {
-      margin-bottom: 20px;
+      margin-bottom: 12px;
     }
     .title-eyebrow {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -118,7 +123,7 @@
       padding: 5px 12px;
       display: inline-block;
       border-radius: 999px;
-      margin-bottom: 14px;
+      margin-bottom: 8px;
     }
     .title {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -146,14 +151,14 @@
        SECTION
        ============================================================ */
     .section {
-      margin-bottom: 14px;
+      margin-bottom: 4px;
     }
     .section-head {
       display: flex;
       align-items: baseline;
       gap: 10px;
-      margin-bottom: 8px;
-      padding-bottom: 4px;
+      margin-bottom: 4px;
+      padding-bottom: 2px;
       border-bottom: 1px solid var(--rule);
     }
     .section-num {
@@ -194,19 +199,19 @@
     .data-checklist {
       background: #FAFBFC;
       border-left: 3px solid var(--accent);
-      padding: 14px 18px;
+      padding: 10px 14px;
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 8px 24px;
+      gap: 6px 20px;
     }
     .data-checklist .item {
       display: flex;
       align-items: flex-start;
-      gap: 10px;
+      gap: 8px;
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 400;
-      font-size: 12px;
-      line-height: 1.45;
+      font-size: 10.5px;
+      line-height: 1.35;
       color: #1a1a1a;
     }
     .data-checklist .box {
@@ -247,16 +252,19 @@
     .score-table tbody tr:last-child { border-bottom: 2px solid var(--primary); }
     .score-table tbody td {
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 11px;
-      line-height: 1.4;
+      font-size: 10.5px;
+      line-height: 1.25;
       color: #1a1a1a;
-      padding: 7px 10px;
+      padding: 2px 10px;
       vertical-align: top;
     }
     .score-table td.metric {
       font-weight: 600;
       color: var(--primary);
-      width: 22%;
+      width: 6%;
+      font-family: 'IBM Plex Mono', monospace;
+      text-align: right;
+      padding-right: 12px;
     }
     .score-table td.benchmark {
       font-family: 'IBM Plex Mono', monospace;
@@ -283,8 +291,9 @@
     .score-table td.benchmark.red .label    { color: var(--red); }
 
     .score-table td.your-number {
-      width: 12%;
+      width: 80%;
       border-left: 1px solid var(--rule);
+      padding-left: 14px;
     }
     .your-number .blank {
       display: block;
@@ -292,7 +301,7 @@
       border-bottom: 1.5px solid var(--gray-2);
     }
     .score-table td.your-score {
-      width: 12%;
+      width: 14%;
       border-left: 1px solid var(--rule);
     }
     .chips {
@@ -349,8 +358,8 @@
     .action-box {
       background: var(--primary);
       color: var(--white);
-      padding: 11px 14px;
-      margin-bottom: 8px;
+      padding: 6px 13px;
+      margin-bottom: 4px;
       border-left: 4px solid var(--accent);
     }
     .action-trigger {
@@ -373,7 +382,7 @@
     .action-body {
       font-family: 'IBM Plex Sans', sans-serif;
       font-size: 11px;
-      line-height: 1.45;
+      line-height: 1.4;
       color: rgba(255,255,255,0.92);
     }
 
@@ -383,21 +392,21 @@
       list-style: none;
     }
     .redline-list li {
-      padding: 6px 10px 6px 26px;
+      padding: 3px 10px 3px 22px;
       border-left: 3px solid var(--accent);
       background: #F8FAFC;
-      margin-bottom: 4px;
+      margin-bottom: 2px;
       position: relative;
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 11px;
-      line-height: 1.4;
+      font-size: 10.5px;
+      line-height: 1.3;
       color: #1a1a1a;
     }
     .redline-list li::before {
       content: "§";
       position: absolute;
       left: 10px;
-      top: 5px;
+      top: 4px;
       font-family: 'IBM Plex Mono', monospace;
       font-weight: 600;
       color: var(--primary);
@@ -415,10 +424,7 @@
        FOOTER (every page)
        ============================================================ */
     .footer {
-      position: absolute;
-      left: 0.7in;
-      right: 0.7in;
-      bottom: 0.35in;
+      margin-top: auto;
       padding-top: 14px;
       border-top: 1px solid var(--rule);
       display: flex;
@@ -462,13 +468,17 @@
       html, body { background: none; }
       .doc-header { display: none; }
       .page {
+        width: auto;
         margin: 0;
+        padding: 0;
         box-shadow: none;
+        min-height: 0;
+        height: auto;
         page-break-after: always;
         break-after: page;
       }
       .page:last-child { page-break-after: auto; break-after: auto; }
-      @page { size: letter; margin: 0; }
+      @page { size: letter; margin: 0.4in 0.5in 0.4in 0.5in; }
     }
 
     /* ============================================================
@@ -598,8 +608,8 @@
 <body>
 
 <header class="doc-header">
-  <h1>Compounding Claims Red Flag Report</h1>
-  <p>Printable 2-page branded document. Source: Week 21 Monday deep dive: The Compounding Pharmacy Problem.</p>
+  <h1>Quarterly Reporting Checklist</h1>
+  <p>Printable 2-page branded checklist. Companion to Week 21 Monday Substack: What Your PBM's Quarterly Report Actually Tells You.</p>
   <p>Export: <code>Cmd/Ctrl+P</code> → paper size <code>Letter</code>, margins <code>None</code>, background graphics <code>ON</code>.</p>
 </header>
 
@@ -616,98 +626,67 @@
   </div>
 
   <div class="title-block">
-    <span class="title-eyebrow">Compounding Claims · Red Flag Report</span>
-    <h1 class="title">$1,200 Cream. $47 Alternative.</h1>
-    <p class="subtitle">A six-flag walkthrough for spotting compounding claims that warrant a closer look. The pattern is consistent: high-cost multi-ingredient compounds with commercial alternatives available the entire time. The system processed it. Nobody flagged it.</p>
+    <span class="title-eyebrow">Quarterly Reporting · 15-Line Audit</span>
+    <h1 class="title">Read what your quarterly report shows you. Read what it doesn't, more carefully.</h1>
+    <p class="subtitle">Most quarterly PBM reports run 14 pages and five recurring sections, every one a metric the PBM controls. The numbers that determine next year's renewal price are usually not in the report at all. Use this checklist to audit your most recent quarterly report against the 15 line items a complete report should contain.</p>
   </div>
 
   <div class="section">
     <div class="section-head">
       <span class="section-num">01</span>
-      <h2 class="section-title">Six Red Flags to Apply</h2>
+      <h2 class="section-title">How to Use This Checklist</h2>
     </div>
-    <p><strong>Data pull first:</strong> request a compounding-specific claims extract from your PBM covering the past 12 months. Need all claims with a compounding indicator, dispensing pharmacy name and NPI, prescriber name and NPI, ingredient lists for multi-ingredient compounds, total claim cost with ingredient cost breakdown, and therapeutic category. Sort by total cost, highest first; focus on the top 20% by dollar amount. Apply each flag below to those high-cost claims.</p>
+    <p>Pull your most recent quarterly PBM report. Read it once cover to cover. Then run it against the 15 line items below. Mark every item that is in the report and every item that is missing. Send the gap list to your broker as a one-page diff. Standing version of this audit runs quarterly; the renewal version turns the gap list into contract-required reporting language.</p>
 
-    <div class="cat-panel">
-      <div class="cat-head">
-        <span class="cat-name">Flag 1 · High cost per claim</span>
-        <span class="cat-cost">Threshold: &gt; $500 / claim</span>
-      </div>
-      <p class="cat-impact">Individual compounding claims exceeding $500 warrant review. Most legitimate compounds cost substantially less than that. The high-cost outliers are where the problem patterns live.</p>
-      <div class="cat-checklist">
-        <div class="item"><span class="box"></span><span>Filter claims to compounds with total cost above $500</span></div>
-        <div class="item"><span class="box"></span><span>Rank flagged claims by total dollars to prioritize review</span></div>
-      </div>
-    </div>
-
-    <div class="cat-panel">
-      <div class="cat-head">
-        <span class="cat-name">Flag 2 · Multi-ingredient topicals</span>
-        <span class="cat-cost">Threshold: 4+ active ingredients</span>
-      </div>
-      <p class="cat-impact">Creams or ointments with four or more active ingredients. The most common vehicle for inflated pricing. Clinical evidence for multi-ingredient topical combinations is limited, and that is a pharmacist's read, not a marketing one.</p>
-      <div class="cat-checklist">
-        <div class="item"><span class="box"></span><span>Identify topical compounds with 4+ active ingredients</span></div>
-        <div class="item"><span class="box"></span><span>Confirm clinical rationale for each combination is documented</span></div>
-      </div>
-    </div>
-
-    <div class="cat-panel">
-      <div class="cat-head">
-        <span class="cat-name">Flag 3 · Pharmacy concentration</span>
-        <span class="cat-cost">Single pharmacy disproportionate share</span>
-      </div>
-      <p class="cat-impact">If a single pharmacy generates a disproportionate share of your compounding claims, that concentration suggests marketing or incentive relationships rather than organic patient need. We see this constantly in our reviews.</p>
-      <div class="cat-checklist">
-        <div class="item"><span class="box"></span><span>Group compounding claims by dispensing pharmacy NPI</span></div>
-        <div class="item"><span class="box"></span><span>Flag any single pharmacy with disproportionate compound volume</span></div>
-      </div>
-    </div>
-
-    <div class="cat-panel">
-      <div class="cat-head">
-        <span class="cat-name">Flag 4 · Prescriber concentration</span>
-        <span class="cat-cost">Single prescriber disproportionate share</span>
-      </div>
-      <p class="cat-impact">A single prescriber generating a disproportionate share of compounding referrals may indicate a prescriber-pharmacy financial relationship. Worth investigating before paying the next claim.</p>
-      <div class="cat-checklist">
-        <div class="item"><span class="box"></span><span>Group compounding claims by prescriber NPI</span></div>
-        <div class="item"><span class="box"></span><span>Flag prescribers driving unusual compounding referral volume</span></div>
-      </div>
-    </div>
-
-    <div class="cat-panel">
-      <div class="cat-head">
-        <span class="cat-name">Flag 5 · Commercial alternative available</span>
-        <span class="cat-cost">FDA-approved product exists at fraction of cost</span>
-      </div>
-      <p class="cat-impact">The most straightforward flag. If an FDA-approved product exists for the same indication at a fraction of the cost, the clinical justification for the compound should be documented and defensible. In our experience, usually it is not.</p>
-      <div class="cat-checklist">
-        <div class="item"><span class="box"></span><span>Identify primary active ingredient in each flagged compound</span></div>
-        <div class="item"><span class="box"></span><span>Search FDA-approved commercial products with same ingredient</span></div>
-        <div class="item"><span class="box"></span><span>Document the cost differential per claim</span></div>
-        <div class="item"><span class="box"></span><span>Confirm clinical rationale for compound vs. commercial</span></div>
-      </div>
-    </div>
-
-    <div class="cat-panel">
-      <div class="cat-head">
-        <span class="cat-name">Flag 6 · Rapid spend growth</span>
-        <span class="cat-cost">Quarter-over-quarter without population change</span>
-      </div>
-      <p class="cat-impact">Compounding costs increasing significantly quarter over quarter without corresponding population changes. Often signals a new pharmacy or prescriber entering your network with an aggressive utilization pattern.</p>
-      <div class="cat-checklist">
-        <div class="item"><span class="box"></span><span>Plot quarterly compounding spend over the past 8 quarters</span></div>
-        <div class="item"><span class="box"></span><span>Identify quarters with material growth</span></div>
-        <div class="item"><span class="box"></span><span>Cross-reference growth with new pharmacies or prescribers</span></div>
-      </div>
+    <div class="data-checklist">
+      <div class="item"><span class="box"></span><span><strong>Mark each line item:</strong> ✓ in the report · ⚠ partial · ◯ missing.</span></div>
+      <div class="item"><span class="box"></span><span><strong>Five sections you will probably see:</strong> total spend YTD, generic dispensing rate, mail-order penetration, specialty drug count, member out-of-pocket. All metrics the PBM controls.</span></div>
+      <div class="item"><span class="box"></span><span><strong>Gap list workflow:</strong> the missing items become the broker conversation now and the contract redline at renewal.</span></div>
+      <div class="item"><span class="box"></span><span><strong>If the PBM cannot produce a line item:</strong> the contract did not require it. That is the audit finding. Document the response and date it.</span></div>
     </div>
   </div>
 
+  <div class="section">
+    <div class="section-head">
+      <span class="section-num">02</span>
+      <h2 class="section-title">The 15-Line Checklist</h2>
+    </div>
+    <p>Fifteen line items a complete PBM quarterly report should contain. Mark each row's status against your most recent report.</p>
 
-  <p class="disclaimer">Illustrative red flag thresholds for educational purposes. Specific cost thresholds and concentration ratios should be calibrated to your plan size and population. Compounding can serve legitimate clinical needs; the flags identify claims worth a closer look, not automatic denials.</p>
+    <table class="score-table">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Line Item</th>
+          <th class="center">Status</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td class="metric">1.</td><td class="your-number">Net cost per script by channel for top 10 drugs by spend</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">2.</td><td class="your-number">Rebate gross-to-net by therapeutic class</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">3.</td><td class="your-number">Affiliated-pharmacy share of claims by drug category</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">4.</td><td class="your-number">Formulary tier changes (with rationale)</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">5.</td><td class="your-number">PA approval and denial rates by therapeutic class</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">6.</td><td class="your-number">Claim-level audit trail for high-cost outliers</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">7.</td><td class="your-number">PBM compensation by category (spread, fees, manufacturer)</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">8.</td><td class="your-number">Member access metrics (refill abandonment, days-to-fill, OOP)</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">9.</td><td class="your-number">YoY and QoQ comparisons (not just YTD)</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">10.</td><td class="your-number">Specialty drug routing report (drug-by-pharmacy matrix)</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">11.</td><td class="your-number">Manufacturer payment categories by drug</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">12.</td><td class="your-number">Generic and biosimilar substitution-by-opportunity ratio</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">13.</td><td class="your-number">Top 25 drugs with utilization detail</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">14.</td><td class="your-number">Network changes during the quarter</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+        <tr><td class="metric">15.</td><td class="your-number">Reporting attestation signed by named PBM contact</td><td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td></tr>
+      </tbody>
+    </table>
+
+    
+  </div>
+
+
+  <p class="disclaimer">Illustrative checklist for educational purposes. The 15 line items reflect what a complete quarterly report should contain; specific contract language requirements vary by plan size, PBM, and contract vintage. The audit identifies what is missing from the report, not whether the underlying PBM performance is favorable or unfavorable.</p>
   <footer class="footer">
-    <span class="publication">Compounding Claims · Red Flag Report · Page 1</span>
+    <span class="publication">Quarterly Reporting Checklist · Page 1</span>
     <span>rxbs.org · benefitblindspots.substack.com</span>
     <span class="page-num">01 / 02</span>
   </footer>
@@ -729,53 +708,41 @@
   <div class="section">
     <div class="section-head">
       <span class="section-num">03</span>
-      <h2 class="section-title">What "Normal" Looks Like</h2>
+      <h2 class="section-title">Paste-Ready Broker Request</h2>
     </div>
-    <p>The flags identify outliers; you also need a baseline that says what the data should look like in a healthy plan. For most self-funded plans, compounding sits within these parameters. Material deviation from any of them is a problem worth investigating.</p>
+    <p>Once you have marked each line item on page 1, paste this email to your broker. Replace the bracketed fields with your specifics; the body is intentionally short so the gap list does the work.</p>
 
     <div class="action-box">
-      <span class="action-trigger">Volume</span>
-      <div class="action-title">Compounding is a small percentage of total pharmacy claims.</div>
-      <div class="action-body">By claim count, legitimate compounding sits in single-digit-percentage territory of total pharmacy volume. Plans where compounding has grown into a meaningful share of total claims usually have an upstream pharmacy or prescriber concentration driving it.</div>
-    </div>
-
-    <div class="action-box">
-      <span class="action-trigger">Average Compound Cost</span>
-      <div class="action-title">Typically under $200 per claim for legitimate compounds.</div>
-      <div class="action-body">Average compound cost above $200-$300 suggests the plan's compounding mix is weighted toward high-cost multi-ingredient claims. The Flag 1 threshold ($500 per claim) catches the worst outliers; the average is the population-level signal.</div>
-    </div>
-
-    <div class="action-box">
-      <span class="action-trigger">Pharmacy and Prescriber Distribution</span>
-      <div class="action-title">No single pharmacy or prescriber dominates compounding volume.</div>
-      <div class="action-body">Healthy distributions show compounding spread across multiple pharmacies and prescribers in proportion to overall network share. Single-source concentration is the strongest pattern signal in the entire flag set.</div>
-    </div>
-
-    <div class="action-box">
-      <span class="action-trigger">Commercial Alternative Use</span>
-      <div class="action-title">Commercial alternatives are used when available.</div>
-      <div class="action-body">When an FDA-approved product exists at a fraction of the compound cost, healthy plans show meaningful uptake of the commercial alternative. Plans where the compound dominates despite an alternative being available are missing a clinical-review step somewhere upstream of dispensing.</div>
+      <span class="action-trigger">Subject Line</span>
+      <div class="action-title">Quarterly PBM Report Audit — Gap List for Next Cycle</div>
+      <div class="action-body">Hi [broker name],<br><br>
+      I ran our most recent quarterly PBM report against a 15-line audit checklist. The items below are missing from the report or appear without sufficient detail to act on.<br><br>
+      <strong>Gap list:</strong><br>
+      [Paste the line items marked ◯ missing or ⚠ partial from page 1, with item number and description]<br><br>
+      Could you raise the gap list with the PBM and confirm whether each item can be added to the next quarterly report under our existing contract? For items the PBM declines or cannot produce, I want to add them to our renewal redline as standing reporting deliverables.<br><br>
+      Goal: next quarterly report shows the gap items, contract redline locks them in at renewal.<br><br>
+      Thanks,<br>
+      [Your name]</div>
     </div>
   </div>
 
   <div class="section">
     <div class="section-head">
       <span class="section-num">04</span>
-      <h2 class="section-title">Action Plan and Contract Asks</h2>
+      <h2 class="section-title">4-Step Quarterly Action Plan</h2>
     </div>
-    <p>Findings without action are observations. Build the plan from your flagged claims, then close the contract gaps that let the pattern develop in the first place. Many PBM contracts treat compounding as an afterthought; that gap is fixable at the next renewal redline.</p>
+    <p>Findings without action are observations. The reporting clause is what gets the data into the report. Run the cycle below every quarter; redline at renewal.</p>
 
     <ul class="redline-list">
-      <li><strong>Flag high-cost compounds with available alternatives for clinical review</strong>Submit each flagged claim that meets Flag 5 to your clinical advisory team for documented review. Decisions on go-forward coverage should be on file with rationale.</li>
-      <li><strong>Implement quantity limits or PA above a cost threshold</strong>Set a dollar threshold for compounding that requires prior authorization. The threshold itself is a meaningful filter; pharmacies that cannot document clinical rationale will route patients to commercial alternatives.</li>
-      <li><strong>Push your PBM to implement compounding edits</strong>Ingredient-level cost caps, automatic commercial-alternative checks at adjudication, and quarterly compounding utilization reports as a standing deliverable. Most PBMs have these capabilities; few enable them by default.</li>
-      <li><strong>Add compounding-specific contract language at next renewal</strong>Define utilization controls, pricing methodology, credentialed-pharmacy criteria, separate compounding reporting, and audit rights with full access to verify appropriateness. Contract gaps are how compounding becomes a problem in the first place.</li>
-      <li><strong>Schedule quarterly compounding claims review</strong>Put it on the benefits committee calendar as a standing quarterly item, not an ad hoc audit. Track flag findings over time and close the loop on prior-quarter actions.</li>
+      <li><strong>This quarter: complete the page-1 audit and email your broker.</strong>Mark each of the 15 line items ✓ / ⚠ / ◯ against your most recent quarterly PBM report. Email the gap list to your broker within five business days using the page-2 paste-ready language. Keep your dated copy with the quarterly file.</li>
+      <li><strong>Next quarter: confirm the gap items appeared in the new report.</strong>The PBM should be able to produce the missing line items under your existing contract; whether they will is the question the broker conversation tests. Mark which of the gap items show up in the next quarterly report. Items still missing become the renewal redline.</li>
+      <li><strong>Pre-renewal: name every line item in the contract reporting clause.</strong>Replace any "standard" or "customarily provided" language with a clause that lists each of the 15 line items by description, plus a signed PBM attestation that the data is complete and accurate. The strongest contracts we review write the format, lookback window, and delivery cadence into the clause itself.</li>
+      <li><strong>Standing: schedule the audit on the benefits committee calendar.</strong>Quarterly cadence. Document each quarter's checklist results and the actions taken since the prior quarter. Builds the fiduciary documentation trail (see Week 19 framework) at the same time it protects the plan from the next contract drift.</li>
     </ul>
   </div>
 
   <footer class="footer">
-    <span class="publication">Compounding Claims · Red Flag Report · Page 2</span>
+    <span class="publication">Quarterly Reporting Checklist · Page 2</span>
     <span>rxbs.org · benefitblindspots.substack.com</span>
     <span class="page-num">02 / 02</span>
   </footer>
