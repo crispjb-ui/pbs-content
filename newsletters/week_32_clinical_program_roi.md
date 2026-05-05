@@ -269,7 +269,7 @@ Four things we look for in the gaps:
 
 Every one of these is producible from data the PBM already has. None of them appear by default. Ask for the four. The PBM's response tells you what kind of relationship you have.
 
-#PharmacyBenefits #Transparency #PBMReporting #SelfFundedEmployers
+#PBMTransparency #SpecialtyPharmacy #PharmacyBenefits
 
 #### First Comment
 
@@ -326,7 +326,7 @@ The PBM quarterly report shows what the PBM wants the plan to see. Four metrics 
 
 Ginny Crisp walks through how to ask.
 
-#PharmacyBenefits #Transparency #PBMReporting #SelfFundedEmployers
+#PBMTransparency #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -431,7 +431,7 @@ Clinical program ROI should be auditable. Methodology, sample calculations, and 
 
 Ginny Crisp walks through the scorecard that separates reported savings from verified savings across prior authorization, step therapy, and DUR.
 
-#PharmacyBenefits #ClinicalPrograms #ROI #PBMAudit
+#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
 
 ---
 

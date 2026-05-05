@@ -409,7 +409,7 @@ Five clauses determine whether a performance review can actually do the work:
 
 I redlined each of them below.
 
-#PharmacyBenefits #BrokerResources #PBMContracts #SelfFundedEmployers
+#BenefitsBrokers #PBMConsulting #EmployeeBenefits
 
 #### First Comment
 
@@ -459,7 +459,7 @@ These are the signals that a PBM relationship has stopped working for the plan.
 
 Ginny Crisp covers the five signs and the broker conversation they should trigger.
 
-#PharmacyBenefits #PBM #Renewal #SelfFundedEmployers
+#PBMRenewal #PBMConsulting #PharmacyBenefits
 
 ---
 
@@ -535,7 +535,7 @@ Below 50: go to market. 50-70: renegotiate. Above 70: optimize.
 
 The decision should be data, not frustration. Score your PBM relationship before renewal, not during it.
 
-#PharmacyBenefits #PBMEvaluation #Scorecard #SelfFundedEmployers
+#PBMRFP #SelfFundedEmployers #PharmacyBenefits
 
 #### First Comment
 
@@ -633,7 +633,7 @@ A PBM evaluation is not a gut call. Pricing, rebate transparency, clinical progr
 
 Ginny Crisp walks through the 10-factor framework that tells plan sponsors whether to optimize, renegotiate, or go to market.
 
-#PharmacyBenefits #PBM #Renewal #SelfFundedEmployers
+#PBMRenewal #PlanSponsors #EmployeeBenefits
 
 ---
 

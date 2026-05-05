@@ -347,7 +347,7 @@ When we run an audit on a plan that has never audited, we find findings. Recover
 
 The right costs nothing. Using it requires knowing it exists, knowing the window, and pulling the trigger before the clock resets.
 
-#PharmacyBenefits #PBMContracts #AuditRights #SelfFundedEmployers
+#PBMAudit #DrugPricing #PharmacyBenefits
 
 #### First Comment
 
@@ -397,7 +397,7 @@ Every PBM contract grants an audit right. Most self-funded plans let the window 
 
 Ginny Crisp walks through what is in the contract, why the PBM does not flag it, and how to pull the trigger.
 
-#PharmacyBenefits #PBMContracts #AuditRights #SelfFundedEmployers
+#PBMAudit #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -443,7 +443,7 @@ Three rebate models. Three different economics. One plan sponsor paying the bill
 
 Pass-through. Traditional. Hybrid. The labels sound simple. The economics behind each are not. Where the PBM's margin lives depends entirely on which model your contract uses.
 
-#PharmacyBenefits #Rebates #PBMContracts #CostContainment
+#Rebates #DrugPricing #PharmacyBenefits
 
 #### First Comment
 
@@ -525,7 +525,7 @@ Pass-through. Traditional. Hybrid. Three rebate models, three different places t
 
 Ginny Crisp compares the three models and the eight contract provisions that determine what your plan actually receives.
 
-#PharmacyBenefits #Rebates #PBMContracts #Transparency
+#Rebates #PlanSponsors #EmployeeBenefits
 
 ---
 

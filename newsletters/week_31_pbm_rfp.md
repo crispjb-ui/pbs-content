@@ -330,7 +330,7 @@ Lever 3: PA criteria reset on Q4/Q1 launches. New molecules show up in claims be
 
 Each lever has a window. The window closes on its own schedule, not the renewal cycle's.
 
-#PharmacyBenefits #CostContainment #SpecialtyPharmacy #SelfFundedEmployers
+#PBMContracts #SelfFundedEmployers #PharmacyBenefits
 
 #### First Comment
 
@@ -381,7 +381,7 @@ Three cost containment levers consistently get activated too late: biosimilar re
 
 Ginny Crisp walks through what the windows look like and how to catch them.
 
-#PharmacyBenefits #CostContainment #SpecialtyPharmacy #SelfFundedEmployers
+#PBMContracts #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -423,7 +423,7 @@ The PBM RFP timeline most employers underestimate.
 
 RFP development. Distribution. Response evaluation. Finalist presentations. Selection. Contract negotiation. Implementation. Each phase takes longer than planned and matters more than expected.
 
-#PharmacyBenefits #PBMRFP #Timeline #SelfFundedEmployers
+#PBMRFP #SelfFundedEmployers #PharmacyBenefits
 
 #### Whiteboard Carousel Slides
 
@@ -504,7 +504,7 @@ A PBM RFP is not a template download. It is a four to six month sequence where d
 
 Ginny Crisp walks through the phase-by-phase timeline and the weeks where most evaluations go sideways.
 
-#PharmacyBenefits #PBMRFP #Timeline #SelfFundedEmployers
+#PBMRFP #PlanSponsors #EmployeeBenefits
 
 ---
 

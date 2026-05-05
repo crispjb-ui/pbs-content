@@ -396,7 +396,7 @@ The brokers who win renewal negotiations do not arrive to learn. They arrive to 
 
 Swipe through for the redline on each clause. Save this one — it is the carousel you want pulled up at your next renewal meeting.
 
-#PharmacyBenefits #BrokerResources #PBMContracts #SelfFundedEmployers
+#BenefitsBrokers #PBMConsulting #EmployeeBenefits
 
 #### First Comment
 
@@ -459,7 +459,7 @@ The best brokers arrive at PBM renewal meetings to verify, not to learn. Five qu
 
 Ginny Crisp walks through the pre-meeting checklist the strongest broker partners use with their self-funded clients.
 
-#PharmacyBenefits #BrokerResources #PBMRenewal #SelfFundedEmployers
+#PBMRenewal #PBMConsulting #PharmacyBenefits
 
 ---
 
@@ -532,7 +532,7 @@ Compounding serves legitimate needs. But when a $47 product becomes a $1,200 cla
 
 It is working for someone else.
 
-#PharmacyBenefits #Compounding #CostContainment #SelfFundedEmployers
+#Compounding #SpecialtyPharmacy #PharmacyBenefits
 
 ---
 
@@ -559,7 +559,7 @@ High volume from single pharmacies. Prescribers generating unusual compounding p
 
 One flag is a question. Three flags is an investigation.
 
-#PharmacyBenefits #Compounding #CostContainment #ClaimsReview
+#Compounding #SelfFundedEmployers #EmployeeBenefits
 
 #### First Comment
 
@@ -641,7 +641,7 @@ Compounding claims hide in plain sight. Single pharmacies, unusual prescriber pa
 
 Ginny Crisp maps the six red flags that distinguish appropriate compounding from claims that deserve investigation.
 
-#PharmacyBenefits #Compounding #ClaimsReview #CostContainment
+#Compounding #SpecialtyPharmacy #PharmacyBenefits
 
 ---
 

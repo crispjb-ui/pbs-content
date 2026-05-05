@@ -296,7 +296,7 @@ Five metrics self-funded CFOs should pull before the Q3 planning cycle:
 
 None of these require a new vendor. All of them are in your existing claims data. The question is whether anyone is pulling them before the PBM does.
 
-#PharmacyBenefits #SelfFundedEmployers #CFO #PlanSponsors
+#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
 
 #### First Comment
 
@@ -423,7 +423,7 @@ Q3 planning starts in July, and five claims-data metrics tell a self-funded CFO 
 
 Ginny Crisp walks through the numbers to pull before the Q3 meeting, not after.
 
-#PharmacyBenefits #SelfFundedEmployers #CFO #PlanSponsors
+#ClinicalPharmacy #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -486,7 +486,7 @@ The brand's rebate contract may make it more profitable for the PBM. Higher reba
 
 One question reveals everything: what is the net cost, brand vs. biosimilar, after all rebates?
 
-#PharmacyBenefits #Biosimilars #PBMTransparency #CostContainment
+#Biosimilars #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -516,7 +516,7 @@ Contract language: Are biosimilar guarantees in writing?
 
 Six factors. One assessment. The savings opportunity is real, but only if your plan is structured to capture it.
 
-#PharmacyBenefits #Biosimilars #CostContainment #SelfFundedEmployers
+#Biosimilars #PlanSponsors #PharmacyBenefits
 
 #### First Comment
 
@@ -662,7 +662,7 @@ Biosimilar adoption is not just a clinical decision. Contract language, rebate s
 
 Ginny Crisp walks through the six-factor readiness checklist plan sponsors should run before the next biosimilar launch.
 
-#PharmacyBenefits #Biosimilars #CostContainment #SelfFundedEmployers
+#Biosimilars #SelfFundedEmployers #EmployeeBenefits
 
 ---
 

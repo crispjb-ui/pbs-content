@@ -353,7 +353,7 @@ If you handed me your renewal file today, here is how I would work through it on
 
 Sponsors who arrive with the framework negotiate. Sponsors without it renew.
 
-#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
 
 #### First Comment
 
@@ -402,7 +402,7 @@ Sponsors who arrive at renewal with a framework negotiate. Sponsors without one 
 
 Ginny Crisp walks through the 90-day decision window self-funded CFOs should own, not their PBM.
 
-#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
+#PBMRenewal #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -474,7 +474,7 @@ Align your team on priorities.
 
 Two hours now. Different outcome in September.
 
-#PharmacyBenefits #PBMRenewal #SelfFundedEmployers #CostContainment
+#PBMRenewal #PharmacyCosts #PharmacyBenefits
 
 ---
 
@@ -503,7 +503,7 @@ Month 3: Negotiation prep. Set walk-away points. Anticipate the PBM's position. 
 
 The employers who follow this timeline negotiate from their own data. Those who skip it negotiate from the PBM's narrative.
 
-#PharmacyBenefits #PBMRenewal #Timeline #SelfFundedEmployers
+#PBMRenewal #PlanSponsors #EmployeeBenefits
 
 #### First Comment
 
@@ -637,7 +637,7 @@ Renewal preparation is not a single event. It is a month-by-month sequence with 
 
 Ginny Crisp maps the renewal timeline from data pull to signature, and the decisions each month should produce before the PBM sends their proposal.
 
-#PharmacyBenefits #Renewal #PBMContracts #SelfFundedEmployers
+#PBMRenewal #PharmacyCosts #PharmacyBenefits
 
 ---
 

@@ -306,7 +306,7 @@ This briefing covers pipeline monitoring, preparation framework, and the PBM com
 
 Full framework with 2026-2027 watch list on Substack.
 
-#PharmacyBenefits #DrugPipeline #NewDrugs #SelfFundedEmployers #CostContainment
+#DrugPipeline #SpecialtyPharmacy #PharmacyBenefits
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -333,7 +333,7 @@ If you have not revisited your GLP-1 coverage policy this year, you are deciding
 
 Swipe through to see what the language in your coverage policy actually has to cover now, and the market signal commercial plans should sit with before committing to 2027 terms.
 
-#PharmacyBenefits #GLP1 #ClinicalPharmacy #SelfFundedEmployers
+#GLP1 #SelfFundedEmployers #EmployeeBenefits
 
 #### First Comment
 
@@ -387,7 +387,7 @@ If your GLP-1 strategy was built six months ago, it is already out of date.
 
 Ginny Crisp maps what shifted and what employers should revisit now.
 
-#PharmacyBenefits #GLP1 #CostContainment #SelfFundedEmployers
+#GLP1 #SpecialtyPharmacy #PharmacyBenefits
 
 ---
 
@@ -458,7 +458,7 @@ The strongest brokers are already flagging the stop-loss and pharmacy benefit co
 
 Your PBM knows what is coming. Your broker is raising the question. The pharmacy-side review is the piece that pulls the documents together.
 
-#PharmacyBenefits #GeneTherapy #StopLoss #SelfFundedEmployers
+#GeneTherapy #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -481,7 +481,7 @@ Five drug categories that will hit your plan in 2026-2027. Each one changes the 
 
 The time to prepare is before the claims arrive. Not after.
 
-#PharmacyBenefits #DrugPipeline #NewDrugs #SelfFundedEmployers
+#DrugPipeline #PlanSponsors #PharmacyBenefits
 
 #### First Comment
 
@@ -553,7 +553,7 @@ The single data request that makes the channel design visible: net cost per scri
 
 The companion worksheet for this exact audit is below.
 
-#PharmacyBenefits #PBM #Transparency #ChannelPricing #SelfFundedEmployers
+#PBMTransparency #SelfFundedEmployers #EmployeeBenefits
 
 #### First Comment
 
@@ -634,7 +634,7 @@ Gene therapy. Oncology combinations. Rare disease approvals. The 2026-2027 pipel
 
 Ginny Crisp walks through the categories to watch and the prep steps to take before the claims arrive.
 
-#PharmacyBenefits #DrugPipeline #SpecialtyDrugs #CostContainment
+#DrugPipeline #PlanSponsors #PharmacyBenefits
 
 ---
 

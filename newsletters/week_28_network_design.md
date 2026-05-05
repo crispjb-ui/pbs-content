@@ -282,7 +282,7 @@ Category 4: Autoimmune biologics post-biosimilar launch. Humira biosimilars are 
 
 Each category has a different intervention. The intervention only works if the plan sees the category coming.
 
-#PharmacyBenefits #ClinicalPharmacy #SpecialtyPharmacy #SelfFundedEmployers
+#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
 
 #### First Comment
 
@@ -335,7 +335,7 @@ Four drug categories are driving 2026 specialty spend: GLP-1 indication expansio
 
 Ginny Crisp walks through what the plan has to see coming.
 
-#PharmacyBenefits #ClinicalPharmacy #SpecialtyPharmacy #SelfFundedEmployers
+#ClinicalPharmacy #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -405,7 +405,7 @@ Retail. Mail order. Specialty. White bagging. Home infusion. Each handles differ
 
 Here is the channel-by-channel breakdown.
 
-#PharmacyBenefits #NetworkDesign #CostContainment #ChannelOptimization
+#NetworkDesign #SelfFundedEmployers #EmployeeBenefits
 
 #### First Comment
 
@@ -526,7 +526,7 @@ Retail, mail order, specialty, white bagging, home infusion. Five dispensing cha
 
 Ginny Crisp maps the channels, the cost patterns, and the single data request that reveals the real picture.
 
-#PharmacyBenefits #NetworkDesign #CostContainment #SelfFundedEmployers
+#NetworkDesign #PlanSponsors #PharmacyBenefits
 
 ---
 

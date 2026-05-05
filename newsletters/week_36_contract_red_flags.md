@@ -246,7 +246,7 @@ Pattern 3: Elective specialty treatment timing. Members on Humira, Stelara, or K
 
 Each pattern is visible in claims data by early November. Each pattern is already written into the contract somewhere. I redlined each of them below.
 
-#PharmacyBenefits #SelfFundedEmployers #PBMContracts #Q4
+#Q4Planning #SelfFundedEmployers #PharmacyBenefits
 
 #### First Comment
 
@@ -294,7 +294,7 @@ Three cost patterns surface in Q4 claims data every year: copay card deductible 
 
 Ginny Crisp walks through what each pattern does to the plan's P&L and how to intervene before year-end.
 
-#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
+#ClaimsAudit #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -398,7 +398,7 @@ Weak, moderate, strong. Every major PBM contract provision has versions. The ver
 
 Ginny Crisp walks through ten provisions and the redlines that strengthen each one.
 
-#PharmacyBenefits #ContractLanguage #PBMRenewal #SelfFundedEmployers
+#PBMContracts #SelfFundedEmployers #PharmacyBenefits
 
 ---
 

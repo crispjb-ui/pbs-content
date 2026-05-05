@@ -322,7 +322,7 @@ Five we walk our self-funded clients through:
 
 The plans that walk into 2026 with these five decisions made are negotiating from position. The ones that wait are reacting.
 
-#PharmacyBenefits #SelfFundedEmployers #PlanSponsors #Q4Planning
+#Q4Planning #SelfFundedEmployers #EmployeeBenefits
 
 #### First Comment
 
@@ -370,7 +370,7 @@ Q4 is when self-funded plans decide whether 2026 renewal happens to them or beca
 
 Ginny Crisp walks through the five decisions that have to land before Q1.
 
-#PharmacyBenefits #SelfFundedEmployers #PlanSponsors #Q4Planning
+#Q4Planning #PlanSponsors #PharmacyBenefits
 
 ---
 
@@ -436,7 +436,7 @@ Four settings. One decision tree. Which administration setting is right for each
 
 Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion. The clinical criteria are well established. The cost differences are substantial. The default routing is usually inertia.
 
-#PharmacyBenefits #SiteOfCare #DecisionTree #CostContainment
+#SiteOfCare #SelfFundedEmployers #EmployeeBenefits
 
 #### Whiteboard Carousel Slides
 
@@ -511,7 +511,7 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 
 Ginny Crisp walks through the clinical and cost criteria that determine which setting fits each therapy, and how to move members off default routing.
 
-#PharmacyBenefits #SiteOfCare #ClinicalPharmacy #CostContainment
+#SiteOfCare #PlanSponsors #PharmacyBenefits
 
 ---
 

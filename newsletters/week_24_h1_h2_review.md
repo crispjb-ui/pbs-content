@@ -485,7 +485,7 @@ Each pattern costs the plan money. Each one is visible in H1 data. Each one is c
 
 I redlined each of them below.
 
-#PharmacyBenefits #CostContainment #PBMContracts #SelfFundedEmployers
+#PharmacyCosts #SelfFundedEmployers #EmployeeBenefits
 
 #### First Comment
 
@@ -534,7 +534,7 @@ Three cost patterns show up in almost every mid-year claims review: specialty co
 
 Ginny Crisp walks through what each pattern costs the plan and how to catch them before renewal.
 
-#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
+#ClaimsAudit #PlanSponsors #PharmacyBenefits
 
 ---
 
@@ -613,7 +613,7 @@ The window between H1 close and renewal season is where leverage is built or los
 
 June is not early. June is late.
 
-#PharmacyBenefits #Renewal #SelfFundedEmployers #PBM
+#PBMRenewal #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -638,7 +638,7 @@ These are the metrics that matter right now. The numbers that tell you whether y
 
 Seven metrics. Seven benchmarks. The framework for every renewal conversation that follows.
 
-#PharmacyBenefits #H1Review #Renewal #SelfFundedEmployers #Metrics
+#MidYearReview #DrugPricing #PharmacyBenefits
 
 #### First Comment
 
@@ -751,7 +751,7 @@ Your PBM already has your H1 numbers modeled. Per-member-per-month trend, guaran
 
 Ginny Crisp walks through the five metrics every plan sponsor should measure before the PBM conversation starts.
 
-#PharmacyBenefits #H1Review #Renewal #SelfFundedEmployers
+#MidYearReview #PlanSponsors #EmployeeBenefits
 
 ---
 

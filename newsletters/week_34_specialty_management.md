@@ -299,7 +299,7 @@ Programs that often do not earn their cost as reported:
 
 3. MTM programs without measurable adherence outcomes. The contact happened. Whether it changed anything is the question the report does not answer.
 
-#PharmacyBenefits #ClinicalPharmacy #PBMPrograms #SelfFundedEmployers
+#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
 
 #### First Comment
 
@@ -356,7 +356,7 @@ Three clinical programs consistently earn their cost: specialty case management,
 
 Ginny Crisp walks through how to tell which is which.
 
-#PharmacyBenefits #ClinicalPharmacy #PBMPrograms #SelfFundedEmployers
+#ClinicalPharmacy #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -469,7 +469,7 @@ Specialty cost is set by eight management levers across routing, formulary, auth
 
 Ginny Crisp walks through the 120-point assessment that identifies which lever to fix first before renewal.
 
-#PharmacyBenefits #SpecialtyPharmacy #Renewal #SelfFundedEmployers
+#PBMRenewal #SpecialtyPharmacy #PharmacyBenefits
 
 ---
 

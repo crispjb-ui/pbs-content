@@ -291,7 +291,7 @@ This briefing covers what prudent process looks like and the documentation that 
 
 Full framework with litigation landscape context on Substack.
 
-#PharmacyBenefits #ERISA #FiduciaryDuty #SelfFundedEmployers #Compliance
+#ERISA #PBMConsulting #EmployeeBenefits
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
@@ -368,7 +368,7 @@ Each pattern is quiet. Each one compounds. None of them show up as a line item o
 
 A mid-cycle claims review is the only way to catch them before renewal.
 
-#PharmacyBenefits #CostContainment #ClaimsReview #SelfFundedEmployers
+#ClaimsAudit #PBMConsulting #PharmacyBenefits
 
 #### First Comment
 
@@ -418,7 +418,7 @@ Between renewals, self-funded plans leak money in four predictable places: formu
 
 Ginny Crisp breaks down what the PBM quarterly report never flags and how a mid-cycle review surfaces it.
 
-#PharmacyBenefits #CostContainment #SelfFundedEmployers
+#BenefitsBrokers #PBMConsulting #EmployeeBenefits
 
 ---
 
@@ -482,7 +482,7 @@ Each piece supports the others. Missing one creates a gap in your fiduciary defe
 
 Build the framework before litigation forces you to.
 
-#PharmacyBenefits #ERISA #FiduciaryDuty #SelfFundedEmployers #Compliance
+#ERISA #PBMConsulting #PharmacyBenefits
 
 #### First Comment
 
@@ -579,7 +579,7 @@ Most employers cannot produce the paper trail their PBM selection would require 
 
 Ginny Crisp walks through the six documentation categories every plan sponsor should maintain.
 
-#PharmacyBenefits #Fiduciary #ERISA #SelfFundedEmployers
+#FiduciaryDuty #PBMConsulting #EmployeeBenefits
 
 ---
 

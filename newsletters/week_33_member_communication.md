@@ -317,7 +317,7 @@ The brokers we work most often with are running the same five conversations with
 
 Five clauses. Five conversations. I redlined each of them below.
 
-#PharmacyBenefits #BrokerResources #PBMContracts #SelfFundedEmployers
+#BenefitsBrokers #PBMConsulting #EmployeeBenefits
 
 #### First Comment
 
@@ -364,7 +364,7 @@ The strongest broker partners are running five conversations with self-funded cl
 
 Ginny Crisp walks through what each conversation looks like at the table.
 
-#PharmacyBenefits #BrokerResources #SelfFundedEmployers #PBMRenewal
+#PBMRenewal #PBMConsulting #PharmacyBenefits
 
 ---
 
@@ -470,7 +470,7 @@ Provider notification first. Member notification second. Call center briefed thi
 
 Ginny Crisp walks through the communication checklist that turns a clinically sound pharmacy change into one members actually accept without the backlash.
 
-#PharmacyBenefits #MemberCommunication #BenefitChanges #SelfFundedEmployers
+#MemberCommunication #PBMConsulting #EmployeeBenefits
 
 ---
 

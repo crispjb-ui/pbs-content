@@ -516,7 +516,7 @@ In the ~100 contracts we review annually, "industry standard" appears in almost 
 
 Every phrase is technically accurate and practically meaningless. Replace every instance with a specific number. The PBM's willingness to commit is the signal.
 
-#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
+#PBMTransparency #DrugPricing #PharmacyBenefits
 
 #### First Comment
 
@@ -575,7 +575,7 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render 
 
 Ginny Crisp translates the language and shows what to replace it with.
 
-#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
+#PBMTransparency #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -691,7 +691,7 @@ Data readiness, contract readiness, market readiness, clinical readiness, and ne
 
 Ginny Crisp walks through the scorecard and the one-day preparation sprint that still moves the number.
 
-#PharmacyBenefits #RenewalReadiness #PBMNegotiation #SelfFundedEmployers
+#PBMRenewal #DrugPricing #PharmacyBenefits
 
 ---
 

@@ -321,7 +321,7 @@ The clause had been in the contract the entire three-year term. Nobody had cross
 
 Contract language only protects the plan if someone enforces it.
 
-#PharmacyBenefits #PBMContracts #AuditRights #SelfFundedEmployers
+#PBMAudit #SelfFundedEmployers #PharmacyBenefits
 
 #### First Comment
 
@@ -371,7 +371,7 @@ Contract language only protects your plan if someone enforces it. Rebate guarant
 
 Ginny Crisp walks through the contract clauses and audit pattern that produced a six-figure recovery.
 
-#PharmacyBenefits #PBMAudit #ContractLanguage #SelfFundedEmployers
+#PBMAudit #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -436,7 +436,7 @@ You probably have not looked at your own data yet.
 
 Mid-year is when you can still act. Renewal is when you react.
 
-#PharmacyBenefits #ClaimsData #RenewalStrategy #SelfFundedEmployers
+#ClaimsAudit #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -465,7 +465,7 @@ Rebate per claim eroding quarter over quarter.
 
 Two or more of these patterns in the same review period is a signal. Your renewal trajectory may be different from what the summary report suggests.
 
-#PharmacyBenefits #ClaimsData #MidYearReview #SelfFundedEmployers
+#ClaimsAudit #PharmacyCosts #PharmacyBenefits
 
 #### First Comment
 
@@ -597,7 +597,7 @@ Your claims data is already telling you what your renewal will look like. Specia
 
 Ginny Crisp maps the five mid-year patterns to watch and the interventions that change the outcome.
 
-#PharmacyBenefits #ClaimsReview #Renewal #SelfFundedEmployers
+#ClaimsAudit #PlanSponsors #EmployeeBenefits
 
 ---
 

@@ -314,7 +314,7 @@ Q4 2027: Go-live monitoring. First-90-days audit scheduled. Guarantee tracking f
 
 Plans that arrive at each phase with the prior phase complete negotiate. Plans that compress phases concede.
 
-#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
 
 #### First Comment
 
@@ -362,7 +362,7 @@ If renewal lands in 2027, the calendar starts in Q4 2026. RFP scope, independent
 
 Ginny Crisp walks through the quarterly gates that separate self-funded plans that negotiate from plans that concede.
 
-#PharmacyBenefits #SelfFundedEmployers #PBMRenewal #PlanSponsors
+#PBMRenewal #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -404,7 +404,7 @@ Your data. Your benchmarks. Your term sheet. Your termination clause. Your willi
 
 The PBM negotiates from their data advantage. You negotiate from preparation. The employers who match the PBM's preparation level negotiate fundamentally different outcomes.
 
-#PharmacyBenefits #Negotiation #PBMRenewal #SelfFundedEmployers
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
 
 #### Messy Infographic Concept
 
@@ -471,7 +471,7 @@ Your data. Your benchmarks. Your term sheet. Your termination clause. Your willi
 
 Ginny Crisp covers the leverage points that close the preparation gap between PBM and plan at renewal.
 
-#PharmacyBenefits #Negotiation #PBMRenewal #SelfFundedEmployers
+#PBMRenewal #PlanSponsors #EmployeeBenefits
 
 ---
 

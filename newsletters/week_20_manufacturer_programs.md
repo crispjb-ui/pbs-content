@@ -274,7 +274,7 @@ This briefing breaks down how these programs work, their impact on your plan, an
 
 Full framework including direct contracting models on Substack.
 
-#PharmacyBenefits #ManufacturerPrograms #CopayCards #Rebates #SelfFundedEmployers
+#CopayCards #SelfFundedEmployers #EmployeeBenefits
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -301,7 +301,7 @@ In the ~100 contracts we review annually, we see this pattern repeatedly.
 
 The contract definition section is where the economics live. Most employers never read it.
 
-#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
+#PBMTransparency #DrugPricing #PharmacyBenefits
 
 #### First Comment
 
@@ -348,7 +348,7 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render 
 
 Ginny Crisp walks through the three contract terms that move plan spend the most.
 
-#PharmacyBenefits #Transparency #PBMContracts #SelfFundedEmployers
+#PBMTransparency #PlanSponsors #EmployeeBenefits
 
 ---
 
@@ -423,7 +423,7 @@ The drug was never free. The cost just moved. From member to plan. From visible 
 
 Follow the claim. Not the card.
 
-#PharmacyBenefits #CopayCards #Transparency #SelfFundedEmployers
+#CopayCards #DrugPricing #PharmacyBenefits
 
 ---
 
@@ -452,7 +452,7 @@ The drug was never free. The cost moved from member to plan. From visible to inv
 
 Understanding this flow changes how you evaluate manufacturer programs.
 
-#PharmacyBenefits #CopayCards #ManufacturerPrograms #SelfFundedEmployers
+#CopayCards #PlanSponsors #EmployeeBenefits
 
 #### First Comment
 
@@ -577,7 +577,7 @@ Accumulators, maximizers, and full-price claims on zero-cost drugs all change th
 
 Ginny Crisp analyzes how manufacturer programs affect your plan's true spend.
 
-#PharmacyBenefits #CopayCards #ManufacturerPrograms #CostContainment
+#CopayCards #DrugPricing #PharmacyBenefits
 
 ---
 

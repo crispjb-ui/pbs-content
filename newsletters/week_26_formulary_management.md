@@ -310,7 +310,7 @@ The drug on your preferred tier may be there because it is the best clinical opt
 
 Here is what the contract actually gives you the right to see.
 
-#PharmacyBenefits #FormularyManagement #PBMTransparency #SelfFundedEmployers
+#Formulary #SpecialtyPharmacy #PharmacyBenefits
 
 #### First Comment
 
@@ -363,7 +363,7 @@ Higher rebate does not always mean lower net cost.
 
 Ginny Crisp walks through how to ask for the net cost analysis that exposes the difference.
 
-#PharmacyBenefits #Formulary #Rebates #Transparency
+#Formulary #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -429,7 +429,7 @@ When two drugs are clinically equivalent, the higher-rebate drug gets preferred 
 
 One question changes the conversation: what is the net cost, our formulary vs. alternatives?
 
-#PharmacyBenefits #Formulary #PBMTransparency #SelfFundedEmployers
+#Formulary #DrugPricing #PharmacyBenefits
 
 ---
 
@@ -456,7 +456,7 @@ The formulary is the most consequential financial document in your pharmacy bene
 
 Swipe through the audit.
 
-#PharmacyBenefits #FormularyAudit #PBMContracts #SelfFundedEmployers
+#Formulary #PlanSponsors #EmployeeBenefits
 
 #### First Comment
 
@@ -583,7 +583,7 @@ Formulary evaluation is not about which drugs are on the list. It is about how t
 
 Ginny Crisp walks through the contract language that distinguishes a PBM-controlled formulary from one the plan sponsor can actually steer.
 
-#PharmacyBenefits #Formulary #PBMContracts #SelfFundedEmployers
+#Formulary #DrugPricing #PharmacyBenefits
 
 ---
 
