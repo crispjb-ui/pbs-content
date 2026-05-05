@@ -100,7 +100,9 @@
 
 **Prompt:**
 
-A clean, professional flat-design digital graphic at 2240 x 1260 pixels with a solid Accent Blue (#A7E0FA) background. No logos, no badges, no newsletter names, no watermarks, no signatures. On the left side, large bold sans-serif text in deep teal-blue (#015880), 72-96pt: "WHAT CROSSED MY DESK." Directly below in smaller sans-serif Gray (#4D4D4D) text, 40-48pt: "[Publish date, e.g., July 8, 2026]." On the right side, arrange 3-4 simple flat-style icons in deep teal-blue (#015880) outline representing the week's story categories (choose from: pill bottle, dollar sign, contract/document with fold, DNA helix, gavel, shield, bar chart, building/hospital, stethoscope). Icons should be clean geometric shapes with even line weight, sized roughly 200-280px each, arranged with generous spacing. Flat corporate infographic style with no gradients, no 3D, no shadows, no realistic elements, no photographs, no illustrations of people. Color palette strictly: Accent Blue (#A7E0FA) background, deep teal-blue (#015880), Gray (#4D4D4D) only.
+**Date rule (non-negotiable):** The date rendered in the image prompt MUST be the **Wednesday publish date**, not the Tuesday generation date. The roundup ships Wednesday at 7:30 AM EST. If you are drafting Tuesday for Wednesday publish, the image date is **Wednesday's calendar date**. Do not substitute "today's date" or the file's `Generated:` timestamp. Mismatched dates have shipped before; this rule exists to prevent recurrence.
+
+A clean, professional flat-design digital graphic at 2240 x 1260 pixels with a solid Accent Blue (#A7E0FA) background. No logos, no badges, no newsletter names, no watermarks, no signatures. On the left side, large bold sans-serif text in deep teal-blue (#015880), 72-96pt: "WHAT CROSSED MY DESK." Directly below in smaller sans-serif Gray (#4D4D4D) text, 40-48pt: "[WEDNESDAY publish date, e.g., May 6, 2026 — never Tuesday's generation date]." On the right side, arrange 3-4 simple flat-style icons in deep teal-blue (#015880) outline representing the week's story categories (choose from: pill bottle, dollar sign, contract/document with fold, DNA helix, gavel, shield, bar chart, building/hospital, stethoscope). Icons should be clean geometric shapes with even line weight, sized roughly 200-280px each, arranged with generous spacing. Flat corporate infographic style with no gradients, no 3D, no shadows, no realistic elements, no photographs, no illustrations of people. Color palette strictly: Accent Blue (#A7E0FA) background, deep teal-blue (#015880), Gray (#4D4D4D) only.
 
 **Post-Generation Steps:**
 
@@ -154,6 +156,7 @@ Before publishing, verify:
 - [ ] At least one story includes a specific action step for employers
 - [ ] Total word count: 400-600 words
 - [ ] Does not duplicate Monday's deep dive topic from same week
+- [ ] **Image prompt date is WEDNESDAY's publish date, not Tuesday's generation date** (title, subtitle, SEO meta, image prompt all match)
 - [ ] **HUMANIZE REVIEW COMPLETE** (run `/humanize` on the draft before publishing)
 
 ## Humanize Review Process
