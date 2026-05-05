@@ -247,7 +247,18 @@ jobs:
           prompt: |
             Read CLAUDE.md for voice and brand rules.
             Read newsletters/templates/wednesday_roundup_template.md for the article format.
-            
+
+            DATE RULE (read first): This script runs Tuesday morning. The
+            roundup publishes Wednesday at 7:30 AM EST. Every date string in
+            the article (title, **Publish:** line, SEO Title, SEO URL Slug,
+            and the date subtitle inside the image generation prompt) must
+            be the **Wednesday publish date**, i.e. tomorrow from the
+            runner's perspective, NOT today. Compute Wednesday's calendar
+            date explicitly before drafting. The only place the Tuesday
+            (today) date belongs is the `Generated:` header line and the
+            saved filename (`roundup_YYYY_MM_DD.md` is intentionally the
+            Tuesday generation date so files sort by drafting day).
+
             Search for pharmacy benefits industry news from the past 7 days:
             1. PBM industry news (lawsuits, regulation, mergers)
             2. FDA drug approvals relevant to pharmacy benefits
@@ -329,8 +340,16 @@ and targeted web search:
 
 2. Write the article following this exact structure:
 
-TITLE: What Crossed My Desk This Week: [Publish Date]
+TITLE: What Crossed My Desk This Week: [Wednesday Publish Date — the day AFTER you generate the draft, not today]
 SUBTITLE: [SEO-optimized, 40-60 characters]
+
+DATE RULE: Every date string in the article (title, **Publish:** line, SEO
+Title, SEO URL Slug, image prompt date subtitle) refers to the **Wednesday
+publish date**, never the Tuesday generation date. The roundup is written
+Tuesday and ships Wednesday at 7:30 AM EST. Compute Wednesday's calendar
+date explicitly. If today is Tuesday May 5, 2026, every date in the file
+reads "May 6, 2026" — including inside the image prompt. Do not paste the
+file's `Generated:` timestamp into the image prompt.
 
 OPENING (2-3 sentences): Brief personal framing. "Four stories this
 week that self-funded employers need on their radar." or "Busy week
@@ -364,7 +383,7 @@ Write a Canva/AI image generation prompt for the header image:
 - Dimensions: 2240 x 1260 px
 - Background: Accent Blue (#A7E0FA)
 - "WHAT CROSSED MY DESK" in deep teal-blue (#015880) Krona One
-- Publish date in Gray (#4D4D4D) Roboto
+- **Wednesday publish date** in Gray (#4D4D4D) Roboto — the day after the draft is generated, never the Tuesday generation date
 - 3-4 small flat icons representing that week's story categories
 - "Benefit Blind Spots" badge top-left
 - PBS logo bottom-right (dark version)
@@ -458,7 +477,7 @@ Every file lands on main. No branches to check. Look in `newsletters/roundups/` 
 
 The image prompt does not change week-to-week. The template in `newsletters/templates/wednesday_roundup_template.md` contains the full static prompt. Only two variables change each week:
 
-1. **Publish date** (e.g., "July 8, 2026")
+1. **Publish date — always WEDNESDAY's calendar date** (e.g., if drafted Tuesday May 5, 2026, the image date is "May 6, 2026"). Never use Tuesday's generation date or `$(date +...)` from the workflow runner. Compute Wednesday explicitly: it is the day after the script runs, since the automation runs Tuesday morning for a Wednesday 7:30 AM EST publish. The same Wednesday date must appear in: the article title (`# What Crossed My Desk This Week: [Wednesday date]`), the `**Publish:**` line, the SEO Title, the SEO URL Slug, the Meta Description if dated, and the image prompt's date text. All five must match.
 2. **Icon selection** (pick 3-4 from the fixed list: pill bottle, dollar sign, contract/document, DNA helix, gavel, shield, chart, building, stethoscope)
 
 Everything else (background color, typography, logo, badge placement, flat style) is identical every week. The routine just fills in the two variables and references the template rather than rewriting the prompt from scratch.
