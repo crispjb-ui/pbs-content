@@ -1,4 +1,4 @@
-# Week 21 Newsletter Bundle: Compounding Pharmacy Oversight
+# Week 21 Newsletter Bundle: PBM Quarterly Reporting
 ## May 26-30, 2026 (Memorial Day Week)
 
 ---
@@ -8,15 +8,15 @@
 | Day | Time | Platform | Content | Status |
 |-----|------|----------|---------|--------|
 | Sun May 24 | - | Prep | Final review of all content | [ ] |
-| Mon May 25 | 7:30 AM | Substack | "The Compounding Pharmacy Problem" | [ ] |
-| Mon May 25 | 7:45 AM | LinkedIn Newsletter | Compounding Oversight Briefing | [ ] |
+| Mon May 25 | 7:30 AM | Substack | "What Your PBM's Quarterly Report Actually Tells You" | [ ] |
+| Mon May 25 | 7:45 AM | LinkedIn Newsletter | Quarterly Reporting Briefing | [ ] |
 | Mon May 25 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
 | Tue May 26 | 8:30 AM | LinkedIn Feed | Post 73 - "The Five Clauses the Best Brokers Check First" Library 02 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue May 26 | 8:35 AM | LinkedIn Feed | Post 73 - First Comment | [ ] |
 | Tue May 26 | 1:30 PM | LinkedIn Company | Company Reshare of Post 73 | [ ] |
-| Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "$1,200 cream. $47 alternative. Same ingredient." Tease Hook (TEXT) | [ ] |
+| Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Thu May 28 | 7:30 AM | Substack | Field Note: "Three Compounding Claims Patterns" | [ ] |
+| Thu May 28 | 7:30 AM | Substack | Field Note: "Five Lines to Read First in Your PBM's Quarterly Report" | [ ] |
 | Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Same MAC. Different dispensing channel. Different margin. (Carousel, Slot B evergreen rotation) | [ ] |
 | Thu May 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 75 | [ ] |
 | Thu May 28 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
