@@ -28,104 +28,100 @@
 
 # PART 1: SUBSTACK ARTICLE
 
-## The Compounding Pharmacy Problem: Managing a High-Risk Category
-**Subtitle:** How to identify and manage high-risk compounding pharmacy claims in self-funded plans
+## What Your PBM's Quarterly Report Actually Tells You
+**Subtitle:** What standard quarterly reports show, what they leave out, and the 15-line checklist plan sponsors should hold their PBM to
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, May 25, 2026 at 7:30 AM EST
 **Length:** ~1,500 words (~6 min read)
 **Tone:** Analytical authority
-**Pillar:** Clinical Pharmacy
+**Pillar:** Transparency & Industry Education
 
 ---
 
 ### Article Body
 
-I pulled a compounding claim during a routine audit that stopped the conversation. $1,200 cream. $47 commercial alternative. Same active ingredient. The compounded version had five ingredients in it with no clinical evidence supporting the combination. The commercial product was available the entire time. The PBM's claims system processed it without question. No edit. No flag. The claim paid.
+A self-funded CFO emailed me a quarterly PBM report last fall. 14 pages. Color charts. A "Plan Performance: On Track" footer. He asked if the trend lines were as good as they looked. I asked him to send the underlying claim file. Two weeks later we walked through what the report had not surfaced.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
+Net cost per script by channel for the top 10 drugs. Not in the report. Rebate gross-to-net by therapeutic class. Not in the report. Affiliated-pharmacy share of the plan's specialty claims. Not in the report. Quarter-over-quarter formulary tier movement on covered drugs. Not in the report. Prior authorization approval and denial rates by class. Not in the report.
 
-This one gets to me, honestly. Not because compounding is bad. Compounding is a legitimate, necessary part of pharmacy care. But it is one of the least scrutinized categories in most plans because PBMs do not build the edits to catch it. That lack of scrutiny has turned it into a consistent source of waste. The gap between ingredient cost and billed amount is where the problem lives. Most employers never see the individual components because the PBM does not surface them.
+The report was not wrong. It was incomplete by design. It was built to satisfy the reporting obligation in the contract, which the PBM had written. The reporting obligation was three lines long. Whatever the PBM volunteered above those three lines was a choice, and the choice was about what to leave out.
 
-When we pull compounding claims for clients, the waste is often obvious once someone actually looks. That is what frustrates me. It is not hidden behind complex analytics. It is sitting right there in the claims data. But PBM systems are not built to surface it, so the data just sits there until someone pulls it apart.
+This is the pattern. Most quarterly PBM reports are designed for compliance, not for analysis. The information that determines your next renewal price is the information that almost never appears in them. After reviewing approximately 100 PBM contracts annually at PBS, the gap is consistent: the data exists at the PBM. The reporting obligation that requires the data to be shared with the plan does not.
 
-**When compounding makes sense**
+This week's deep dive is about closing that gap. What a complete quarterly report should contain, what most reports actually contain, and a 15-line checklist plan sponsors can hand their broker for the next quarter's request.
 
-I want to be clear about this. Compounding serves real clinical needs. A patient who cannot swallow pills needs a liquid formulation. A child needs a dosage that is not commercially manufactured. A medication gets discontinued and a compounded version is the only option. These are clinically appropriate uses. The costs are generally reasonable.
+**What the standard report contains**
 
-The problem is what happens when a category with limited oversight, opaque billing, and high margins attracts operators whose primary interest is revenue. Topical "pain creams" with five or six active ingredients, billed at hundreds or thousands of dollars per fill, became the most notorious example. But it goes beyond topicals. Any compounded medication where a commercial alternative exists and costs a fraction of the compounded version deserves scrutiny.
+A typical quarterly PBM report I review has five recurring sections. Total spend year-to-date. Generic dispensing rate. Mail-order penetration. Specialty drug count. Member out-of-pocket aggregate.
 
-**Why the problem persists**
+Every one of those is a metric the PBM controls and benefits from showing. Total spend looks small if you do not separate channels. Generic dispensing rate looks high because the denominator includes mass-utilization generics. Mail-order penetration looks like savings even when mail-order net cost runs above retail on specific drugs. Specialty drug count is a volume measure, not an economic measure. Member out-of-pocket is what the member paid, not what the plan paid through the channel structure that produced the member's number.
 
-I see three dynamics keeping compounding waste alive in self-funded plans.
+These metrics are not lies. They are the metrics the PBM chose because the PBM knows what the metrics will say before the report is written. A "Plan Performance: On Track" assessment from numbers the PBM curated is not a performance assessment. It is a presentation.
 
-Most PBM claims systems are not designed to flag compounding claims effectively. A $1,200 compound processes through the same system as a $12 generic. Unless the PBM has built specific edits or alerts (and most have not), the claim pays without question. The system treats a five-ingredient topical the same way it treats amoxicillin. No cost threshold trigger. No commercial alternative check. No ingredient-level review. It just pays.
+**What a complete report should contain**
 
-Compounding billing is also inherently opaque. The ingredient list on a compound claim does not tell you whether those ingredients are clinically justified together, whether they are available commercially, or whether the total cost bears any relationship to ingredient value. A custom product with a custom price. The customization itself obscures whether the price is reasonable.
+Fifteen lines. If you are getting fewer, you are getting less than the analysis your plan deserves.
 
-And then there is the prescriber piece. Compounding pharmacies that focus on high-margin compounds often build prescriber networks through aggressive marketing. The prescription volume looks organic in the claims data, but the relationships behind the volume may be financial rather than clinical. A prescriber who suddenly starts sending dozens of compound prescriptions to a single pharmacy did not independently discover compounding. Someone marketed to them. I have seen this pattern in more audits than I can count.
+> **1. Net cost per script by channel for the top 10 drugs by spend.** Retail, mail-order, specialty. The same drug across all three channels in the same quarter, with the per-unit price the plan paid in each. The single line that surfaces channel pricing design.
 
-**Red flags in your claims data**
+> **2. Rebate gross-to-net by therapeutic class.** Quarterly rebate dollars received by class, applied to which guarantee, with the residual net cost to the plan. Not the aggregate rebate dollar; the gross-to-net path.
 
-We review compounding claims regularly for clients, and the same patterns show up. After doing this for years, we can usually spot the problem claims within the first hour of pulling the data. Here is how we approach it, and the six flags that tell us a closer look is needed.
+> **3. Affiliated-pharmacy share of plan claims by drug category.** The percentage of the plan's prescriptions filled at PBM-affiliated pharmacies, by therapeutic class. Specialty separately.
 
-Start by requesting a compounding-specific claims extract from your PBM covering the past 12 months. You need all claims with a compounding indicator, dispensing pharmacy name and NPI, prescriber name and NPI, ingredient lists for multi-ingredient compounds, total claim cost with ingredient cost breakdown, and therapeutic category.
+> **4. Formulary tier changes affecting covered drugs.** Drug-by-drug list of formulary tier movement during the quarter, with the rationale. Movements that increased plan spend separately flagged.
 
-Sort by total cost, highest first. Focus on the top 20% by dollar amount. In most plans, a small number of high-cost compounds drive the majority of compounding spend. That is where you start.
+> **5. PA approval and denial rates by therapeutic class.** Volume submitted, approved, denied, appealed. The class breakdown is what surfaces utilization-management drift.
 
-For each high-cost claim, run through these six flags:
+> **6. Claim-level audit trail for high-cost outliers.** Every claim above a plan-set dollar threshold (typically $2,500 or $5,000), with prescriber, pharmacy, drug, billed amount, and reimbursement source.
 
-> **1. High cost per claim.**
->
-> Individual compounding claims exceeding $500 warrant review. Most legitimate compounds cost substantially less than that.
+> **7. PBM compensation summary by category.** Spread, dispensing fees, formulary management fees, manufacturer payments, administrative fees. Not aggregate revenue; the categories.
 
-> **2. Multi-ingredient topicals.**
->
-> Creams or ointments with four or more active ingredients. This is the most common vehicle for inflated pricing. The clinical evidence for multi-ingredient topical combinations is limited, and I say that as a pharmacist.
+> **8. Member access metrics.** Refill abandonment rate, days-to-fill on PA-required drugs, out-of-pocket trend by tier. The plan sponsor's clinical-outcome data, not the PBM's.
 
-> **3. Pharmacy concentration.**
->
-> If a single pharmacy generates a disproportionate share of your compounding claims, that concentration suggests marketing or incentive relationships rather than organic patient need. We see this constantly.
+> **9. Year-over-year and quarter-over-quarter comparisons.** Not just YTD. The trend line that surfaces seasonal effects and PBM-side process changes.
 
-> **4. Prescriber concentration.**
->
-> A single prescriber generating a disproportionate share of compounding referrals may indicate a prescriber-pharmacy financial relationship. Worth investigating.
+> **10. Specialty drug routing report.** Which specialty drugs filled where. The drug-pharmacy matrix that exposes routing discretion.
 
-> **5. Commercial alternative available.**
->
-> The most straightforward flag. If an FDA-approved product exists for the same indication at a fraction of the cost, there should be documented clinical justification for why the commercial product was not appropriate. Usually there is not.
+> **11. Manufacturer payment categories.** What the PBM received from manufacturers connected to the plan's claims, by category and by drug. The CAA 2026 disclosure preview.
 
-> **6. Rapid spend growth.**
->
-> Compounding costs increasing significantly quarter over quarter without corresponding population changes. This often signals a new pharmacy or prescriber entering your network with an aggressive utilization pattern.
+> **12. Generic and biosimilar substitution trend.** Where substitution did and did not occur, with reasons. Substitution rate alone is a denominator metric; substitution-by-opportunity is the real one.
 
-**How to pull and interpret a compounding report**
+> **13. Top 25 drugs by plan spend with utilization detail.** Not just dollars. Member count, scripts per member, days supply, refills per member.
 
-For each flagged compound, identify the primary active ingredient and search for FDA-approved commercial products with the same ingredient. Compare the compounding claim cost to the commercial product cost. Document the price differential. If a compounded cream costs $1,200 and the commercial alternative costs $47, the clinical justification for the compound should be documented and defensible. In my experience, it usually is not.
+> **14. Network changes during the quarter.** Pharmacies added and removed, with notice given to the plan and to members.
 
-Build your action plan from there. Flag high-cost compounds with available commercial alternatives for clinical review. Implement quantity limits or prior authorization for compounding claims above a cost threshold. Review your pharmacy network for compounding-focused pharmacies with unusual patterns. Push your PBM to implement compounding edits: ingredient-level cost caps, commercial alternative checks. And put quarterly compounding claims review on the agenda. Keep it there.
+> **15. Reporting attestation.** A signed statement from the PBM that the data above is complete and accurate, with named contact for follow-up.
 
-**What "normal" looks like**
+That is the 15-line checklist. The printable plan-sponsor handout for this week's deep dive is exactly that, formatted as a one-page request you can send your broker before the next quarterly cycle.
 
-For most self-funded plans, compounding is a small percentage of total pharmacy claims by volume. Average compound cost is moderate, typically under $200 per claim for legitimate compounds. No single pharmacy or prescriber dominates. Commercial alternatives are used when available.
+**Why most plans do not get this**
 
-If your data deviates from those patterns, you have a problem worth investigating.
+The most common pattern I see in contract reviews is a quarterly reporting clause that runs three to five lines. Something like: *"PBM shall provide standard quarterly utilization and financial reports in the form customarily provided to plan sponsors of similar size."* Customarily provided. Standard. Of similar size. Three different ways the contract gives the PBM full discretion over what is reported.
 
-**What to do with the findings**
+A more protective clause names every line item the report will contain. Not "utilization and financial reports." Specifically: net cost per script by channel for the top 10 drugs by spend. Specifically: rebate gross-to-net by therapeutic class. Specifically: PA approval and denial rates by class. Specifically: affiliated-pharmacy share of plan claims by category. Specifically: claim-level audit trail above a defined dollar threshold.
 
-Your PBM contract should address compounding specifically. What utilization controls exist? How is compounding priced? Which pharmacies are credentialed? Can you report compounding claims separately? Do your audit rights cover compounding with sufficient access to verify appropriateness?
+Specificity in the contract is what gets the data into the report.
 
-Many PBM contracts do not address compounding at all. The PBM's standard contract template covers generics, brands, and specialty drugs in detail, then treats compounding as an afterthought. We see this across the industry. If your contract does not define how compounding is managed, priced, and reported, that is a gap worth raising with your broker or benefits consultant at the next review.
+**What to do this quarter**
 
-We tell employers to review compounding as part of every claims audit, implement prior authorization above a reasonable cost threshold, and monitor trends quarterly. Your broker or consultant can help build this into the regular review cadence. The employers who do this consistently find that their compounding spend aligns with clinical need. The ones who have not started yet keep discovering the $1,200 creams after the money is already gone.
+Three actions, in order:
 
-Have you pulled your compounding claims data recently? If you found something unexpected, leave a comment below. If this analysis is useful, share it with your benefits team or broker.
+> **1. Pull your last quarterly report and run it against the 15-line checklist.** Mark every line item missing. Do not pre-judge which were intentionally omitted versus genuinely unavailable. Just mark them.
+
+> **2. Send the gap list to your broker.** A line-by-line diff between what the contract requires the PBM to report and what the PBM actually reported. The brokers we work with handle this conversation directly with the PBM. The gap list is what makes the conversation concrete instead of theoretical.
+
+> **3. Add the gap list to your renewal language.** When the contract is renegotiated, the missing items become contract-required reporting. The reporting obligation is the leverage point. Without specific contract language, the next quarterly report looks like the last one.
+
+The plan sponsors who run this exercise consistently know more about their pharmacy spend than the PBMs reporting to them. The ones who do not are reading reports the PBM designed for them to read.
+
+If you have run a quarterly report audit recently and found something the report had buried, leave a comment below. The patterns we see in client reports are remarkably consistent; the gaps are the same gaps. Naming them helps every plan sponsor reading.
 
 ---
 
-*For the full protective contract language on prior authorization and clinical program provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on quarterly reporting and audit rights, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
-*Questions on compounding oversight? Reach out at team@rxbs.org.*
+*Questions on quarterly reporting? Reach out at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe to receive the weekly deep dive and Thursday field notes.*
 
@@ -133,20 +129,20 @@ Have you pulled your compounding claims data recently? If you found something un
 
 ### Article Meta
 
-**SEO Title:** The Compounding Pharmacy Problem: Managing a High-Risk Category | Benefit Blind Spots
-**Meta Description:** A $1,200 compounding claim with a $47 commercial alternative. Here is how to pull your compounding data, spot the six red flags, and build an oversight plan.
-**Tags:** compounding pharmacy, pharmacy benefits, claims audit, cost containment, self-funded employers
+**SEO Title:** What Your PBM's Quarterly Report Actually Tells You | Benefit Blind Spots
+**Meta Description:** Most quarterly PBM reports are designed for compliance, not analysis. The 15-line checklist plan sponsors should hold their PBM to, with a printable handout.
+**Tags:** PBM quarterly reporting, PBM contracts, pharmacy benefits, transparency, self-funded employers, plan sponsor toolkit, audit rights
 
 ---
 
 ### Substack Header Image Prompt
 
 **Dimensions:** 2240 x 1200 px
-**Template:** Topic Icon
+**Template:** Topic Icon (Monday Substack Deep Dive — Primary Blue background per CLAUDE.md image recipe)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design mortar-and-pestle icon in deep teal-blue (#015880), roughly 400px wide, with "COMPOUND" rendered in white bold sans-serif text inside the mortar bowl. The pestle is rendered in upward, turning motion with three short motion arcs in Accent Blue (#A7E0FA) around its top implying mixing action. A caution triangle overlay in Accent Blue (#A7E0FA) outline sits on the upper-right rim of the mortar, with its outline highlighted as the primary accent. A small red-flag pennant in deep teal-blue (#015880) with an Accent Blue (#A7E0FA) shaft emerges from the mortar bowl. Six small ingredient-dot marks in Accent Blue (#A7E0FA) spiral inside the mortar bowl. Below the mortar, two-tone centered headline: "The Compounding Problem" in white (#FFFFFF) bold sans-serif (80-96pt), with "A High-Risk Category" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid Primary Blue (#015880) background and generous negative space. No logos, no badges, no newsletter names, no watermarks, no signatures. Central composition: a stylized flat-design clipboard outline in Accent Blue (#A7E0FA), roughly 900px tall, oriented vertically center-left of the canvas. Inside the clipboard, a simulated quarterly report layout: at the top, a bold header strip in Accent Blue (#A7E0FA) labeled "QUARTERLY REPORT" in Plex Mono Medium 24pt white (#FFFFFF). Below the header, fifteen horizontal line-item rows in Plex Mono Medium 16pt, each prefixed with a small numbered checkbox in Accent Blue (#A7E0FA). The first five rows show check marks in white (#FFFFFF) inside their boxes. The remaining ten rows show empty boxes (Accent Blue outline only) with small Accent Blue (#A7E0FA) fill bars trailing each row title that fade from solid to nothing, suggesting incomplete data. To the right of the clipboard, a vertical column of six Accent Blue (#A7E0FA) tick marks running top to bottom, evenly spaced, suggesting a measurement scale. Below the clipboard, a two-tone centered headline: "What your quarterly report" in white (#FFFFFF) Plex Sans SemiBold 64pt, with "doesn't show you." in Accent Blue (#A7E0FA) Plex Sans SemiBold 64pt immediately below. Subtitle in Plex Mono Medium 24pt Gray-on-white badge: "15 LINES · WHAT TO ASK FOR." Flat corporate editorial style. No grid pattern, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Primary Blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
