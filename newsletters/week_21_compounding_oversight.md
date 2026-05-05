@@ -457,124 +457,83 @@ Ginny Crisp walks through the pre-meeting checklist the strongest broker partner
 ---
 
 ## Post 74 - Wednesday 8:30 AM
-### "$1,200 cream. $47 alternative. Same ingredient." Tease Hook (Text)
+### "14 pages. 3 numbers. None of them are in the report." Tease Hook (Text)
 
 **Format:** Text Post (Tease Hook)
-**Pillar:** Clinical Pharmacy
-**Word Count:** ~240 words
+**Pillar:** Transparency & Industry Education
+**Word Count:** ~220 words
 
-*Expanded from 75 to ~240 words for dwell time optimization. Hook stays above 210-character "See More" cutoff.*
+*Expanded for dwell time optimization. Hook stays above 210-character "See More" cutoff. Confrontational opener per CLAUDE.md Wednesday hook rule (names PBM as adversary, creates a knowledge gap on the three numbers).*
 
 #### Post Copy
 
-$1,200 cream. $47 alternative. Same active ingredient.
+Your PBM sends a quarterly report. 14 pages. Three numbers determine your renewal price.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
+None of them are in the report.
 
-That is a compounding claim pattern we see in self-funded plan data. The compounded version adds multiple ingredients with no clinical evidence supporting the combination. The commercial product, FDA-approved and available at a fraction of the price, was an option the entire time.
+Net cost per script by channel for your top 10 drugs. The PBM has it. The standard quarterly report does not show it.
 
-The PBM's claims system processed it without a flag. No cost threshold alert. No clinical edit. No notification to the plan. The claim paid at full price.
+Rebate gross-to-net by therapeutic class. The PBM has it. The standard quarterly report aggregates the rebate dollars into one line.
 
-When I look at compounding claims in our audits, the pattern is consistent. A small number of prescribers generating a disproportionate share of compounding volume. Multi-ingredient formulations where the added ingredients serve no documented therapeutic purpose. Claims priced at multiples of the commercially available alternative. And PBM utilization management systems that were not configured to catch any of it.
+Affiliated-pharmacy share of your specialty claims. The PBM has it. The standard quarterly report shows you a network roster, not where the scripts actually filled.
 
-Compounding serves legitimate clinical needs. Patients who cannot tolerate commercial formulations, pediatric dosing requirements, specific allergen avoidance. Those are real use cases and I support them.
+Three numbers your PBM keeps. Three numbers that drive next year's contract.
 
-But when a $47 commercially available product becomes a $1,200 compounded claim with five unnecessary ingredients, the system is not working for the plan. It is working for the compounding pharmacy and, in some cases, for the prescriber who directed the patient there.
+I have reviewed approximately 100 PBM contracts in our work at PBS. The reporting clause runs three to five lines in most contracts. "Standard utilization and financial reports in the form customarily provided to plan sponsors of similar size." Customarily. Standard. Of similar size. Three different ways the contract gives the PBM full discretion over what gets disclosed.
 
-Three things your broker or consultant can request: a compounding claims report by prescriber, a cost comparison against commercial alternatives, and a volume trend by therapeutic category. The patterns are usually obvious once someone looks.
+The data exists. Whether your contract requires it to be shown is the question worth taking to your broker before the next renewal cycle.
+
+If your last quarterly report did not include all three of those line items, the gap is the contract, not the PBM. The renewal redline is where it gets fixed.
 
 #### VIDEO SCRIPT OPTION (45 seconds, filmed on phone)
 
-**Setup:** Vertical phone, natural light, head and shoulders. This one has the biggest "jaw drop" moment of any script. The price comparison is the entire hook. Deliver the opening like you just found something in an audit and cannot believe what you are looking at.
+**Setup:** Vertical phone, natural light, head and shoulders. The "three numbers" structure is the hook. Deliver the opening like you have a quarterly report in your hand and you are walking through what is missing from it.
 
 **Script:**
 
-[Look at camera. Slight disbelief in your voice.]
+[Look at camera. Calm, matter-of-fact.]
 
-"Twelve hundred dollar cream. Forty-seven dollar alternative. Same active ingredient."
+"Your PBM sends a quarterly report. Fourteen pages. Three numbers determine your renewal price."
 
-[Pause. Let it sit.]
+[Pause.]
 
-"That is a real compounding claim from a self-funded plan. The compounded version had five ingredients with no clinical evidence supporting the combination. The commercial product was available the entire time."
+"None of them are in the report."
 
-[Slight frustration.]
+[Lean slightly forward.]
 
-"And the PBM's claims system? Processed it without a flag. No edit. No cost threshold alert. It just paid."
+"Net cost per script by channel for your top ten drugs. The PBM has it. The standard quarterly report does not show it."
 
-[Shift to authoritative.]
+"Rebate gross-to-net by therapeutic class. The PBM has it. The standard quarterly report aggregates it into one line."
 
-"Look, compounding serves legitimate clinical needs. But when a forty-seven dollar product becomes a twelve hundred dollar claim, the system is not working for the plan."
+"Affiliated-pharmacy share of your specialty claims. The PBM has it. The standard quarterly report shows you a network roster, not where the scripts actually filled."
 
-[Lean in. Lower voice slightly.]
+[Slow down.]
 
-"It is working for someone else."
+"Three numbers your PBM keeps. Three numbers that drive next year's contract."
 
-**Filming tips:** This is probably the easiest video to film because the numbers do all the work. The "$1,200 cream, $47 alternative" comparison is so striking that even if you stumble on the rest, people will watch. Deliver the opening with genuine disbelief, like you are telling a friend what you found at work. "It is working for someone else" is your mic drop. Hold eye contact with the camera for a full beat after saying it.
+[Mic drop.]
+
+"The data exists. Whether your contract requires it to be shown is the conversation worth taking to your broker before the next renewal cycle."
+
+**Filming tips:** This is a slower, more analytical delivery than the dollar-comparison hooks. The numbers do not shock; the GAP between what exists and what is shown is what lands. Slow down on each "The PBM has it." Let the parallel structure build. The closer ("the conversation worth taking to your broker") is the one to hold eye contact through.
 
 **Caption (use instead of post copy above):**
 
-$1,200 cream. $47 alternative. Same ingredient.
+Your PBM sends a quarterly report. 14 pages. Three numbers determine your renewal price.
 
-That is a real compounding claim from a self-funded plan.
+None of them are in the report.
 
-The compounded version had five ingredients with no clinical evidence supporting the combination. The commercial product was available the entire time.
+Net cost per script by channel. Rebate gross-to-net by class. Affiliated-pharmacy share of specialty.
 
-The PBM's claims system processed it without a flag.
+The PBM has all three. The standard quarterly report shows none.
 
-Compounding serves legitimate needs. But when a $47 product becomes a $1,200 claim, the system is not working for the plan.
+The data exists. Whether your contract requires it to be shown is the conversation worth taking to your broker before renewal.
 
-It is working for someone else.
-
-#Compounding #SpecialtyPharmacy #PharmacyBenefits
+#PBMTransparency #DrugPricing #PharmacyBenefits
 
 ---
 
 ## Post 75 - Thursday 8:30 AM
-
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: Same MAC. Different dispensing channel. Different margin. (Slot B of the evergreen rotation).**
-
-### Compounding Red Flags: What to Watch For (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Messy Infographic
-**Pillar:** Clinical Pharmacy
-**Word Count:** ~85 words
-
-> **NOTE - PERFORMANCE LESSON:** Thursday carries the weekly theme visual (compounding), placed 3 days after the Monday newsletter to avoid cannibalization. Messy infographic format selected based on performance data (22K impressions - best visual format tested).
-
-#### Post Copy
-
-Compounding red flags your plan should be monitoring.
-
-These are the patterns we see in claims audits that signal problems. Not every flag means fraud. But when multiple flags appear together, the claims deserve a closer look.
-
-High volume from single pharmacies. Prescribers generating unusual compounding patterns. Multi-ingredient topicals at high cost. Commercial alternatives sitting right there, unused. Costs completely disconnected from ingredient value.
-
-One flag is a question. Three flags is an investigation.
-
-#Compounding #SelfFundedEmployers #EmployeeBenefits
-
-#### First Comment
-
-The compounding oversight briefing covers the full category risk framework. For the specific claims data patterns that signal problems (volume spikes, pricing disconnects, geographic prescriber patterns), this week's field note gets tactical. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
-#### Messy Infographic Concept
-
-**Style:** Hand-drawn aesthetic, slightly imperfect lines, marker-style text
-**Layout:** Scattered red flag icons across the canvas with handwritten-style callouts
-
-- **Center:** Large hand-drawn red flag icon with "Compounding Red Flags" in marker-style Plex Sans SemiBold
-- **Flag 1 (top left):** Sketch of pharmacy building - "High volume from single pharmacies"
-- **Flag 2 (top right):** Sketch of prescription pad - "Prescribers with unusual compounding patterns"
-- **Flag 3 (middle left):** Sketch of cream tube with dollar signs - "Multi-ingredient topicals at high cost"
-- **Flag 4 (middle right):** Two bottles side by side with arrow - "Commercial alternatives exist but ignored"
-- **Flag 5 (bottom left):** Cost chart with disconnected line - "Costs disconnected from ingredient value"
-- **Flag 6 (bottom right):** Upward trend arrow - "Rapid spend growth, no population change"
-- **Bottom bar:** PBS branding, Primary Blue (#015880), "team@rxbs.org"
-- **Color palette:** Primary Blue (#015880) headers, red accent for flag icons, Gray (#4D4D4D) body text, White (#FFFFFF) background with slight off-white texture
-
----
-
 ### Thursday Evergreen Rotation (Slot B) - Same MAC. Different dispensing channel. Different margin.
 
 - **Slot:** B
@@ -626,15 +585,15 @@ The compounding oversight briefing covers the full category risk framework. For 
 
 ## Post 75 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 45 words
+**Word Count:** 44 words
 
 #### Reshare Copy
 
-Compounding claims hide in plain sight. Single pharmacies, unusual prescriber patterns, and multi-ingredient topicals at high cost are all patterns that deserve a second look.
+Same MAC list. Three dispensing channels. Three different margins. The MAC is public; the margin is not, and one PBM decides who sees which number.
 
-Ginny Crisp maps the six red flags that distinguish appropriate compounding from claims that deserve investigation.
+Ginny Crisp walks through where channel-level margin lives in the contract and the single data ask that surfaces it.
 
-#Compounding #SpecialtyPharmacy #PharmacyBenefits
+#NetworkDesign #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
