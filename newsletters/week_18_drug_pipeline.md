@@ -21,7 +21,7 @@
 | Wed May 6 | 8:30 AM | LinkedIn Feed | Post 62 - "One drug. One patient. One claim. $2.1 million." Tease Hook (TEXT) | [ ] |
 | Wed May 6 | 12:30 PM | Substack Notes | Afternoon Note - Quick tip | [ ] |
 | Thu May 7 | 7:15 AM | Substack Notes | Morning Note - Field Note launch | [ ] |
-| Thu May 7 | 7:30 AM | Substack | Field Note: "One Drug Class to Watch: The Next Wave of GLP-1 Approvals" | [ ] |
+| Thu May 7 | 7:30 AM | Substack | Field Note: "What We See When We Audit Channel Pricing" | [ ] |
 | Thu May 7 | 8:30 AM | LinkedIn Feed | Post 63 - Same drug. Three channels. Three prices. (Messy Infographic — single image; one-off Slot B format swap; Transparency pillar) | [ ] |
 | Thu May 7 | 12:30 PM | Substack Notes | Afternoon Note - Deeper angle | [ ] |
 | Thu May 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 63 | [ ] |
@@ -156,67 +156,66 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## One Drug Class to Watch: The Next Wave of GLP-1 Approvals
+## What We See When We Audit Channel Pricing
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, May 7, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Clinical Pharmacy
+**Pillar:** Transparency & Industry Education
 **Type:** Field Note
 
 ---
 
 ### Field Note Body
 
-Monday's article covered pipeline monitoring broadly. Today we are focusing on a single drug class that deserves its own strategy: GLP-1 receptor agonists.
+Tuesday's LinkedIn carousel walked through GLP-1 coverage. Today's field note is about something quieter and, for most plans, more expensive: the same drug, on the same plan, billed at three different per-unit prices because it goes through three different channels.
 
-GLP-1s started as a diabetes drug class. That feels like a long time ago. Where this class is headed now matters for every employer managing pharmacy costs.
+We run channel pricing audits as a standard part of our work at PBS. The pattern is the same on almost every audit. Pull the top 10 drugs by spend. Check what the plan paid per unit through retail, mail-order, and specialty in the same month. The retail price, the mail-order price, and the specialty price rarely match. The gap is not a bug. It is how the contract was designed.
 
-**The indication expansion**
+**Why the three prices exist**
 
-GLP-1 agonists initially gained approval for type 2 diabetes management. Then came obesity indications, which dramatically expanded the eligible population. Now the class is moving into additional territories:
+Each channel has its own pricing methodology in the PBM contract.
 
-- Cardiovascular risk reduction in patients with established heart disease
-- NASH/MASH (metabolic dysfunction-associated steatohepatitis), a liver condition affecting a substantial portion of adults
-- Obstructive sleep apnea linked to obesity
-- Chronic kidney disease progression
-
-Each new indication expands the population of members who may qualify for these medications. For plan sponsors, this is not one coverage decision. It is a series of coverage decisions that will continue for the foreseeable future.
-
-**New formulations and competitors**
-
-The competitive picture is shifting. Oral formulations are advancing through the pipeline, which could change the convenience profile and push utilization higher compared to injectable-only options. Multiple manufacturers are developing next-generation molecules with potentially improved efficacy profiles.
-
-More competition should eventually bring pricing pressure. But in the near term, new entrants with improved profiles may drive utilization growth that outpaces any per-unit cost reduction.
-
-**What this means for your plan**
-
-The cost impact depends on your coverage policy decisions:
-
-*Coverage Scope:* Which indications will you cover? Diabetes and obesity are the current standards. As cardiovascular, NASH/MASH, and other indications gain FDA approval, your formulary needs a position.
-
-*Clinical Criteria:* What prior authorization criteria will you apply? BMI thresholds, comorbidity requirements, and step therapy through lifestyle interventions all affect eligible population size.
-
-*Formulary Strategy:* With multiple GLP-1 agents available, formulary positioning creates real negotiating power. Preferred agent status in exchange for manufacturer concessions is a meaningful cost management tool.
-
-*Quantity and Duration:* Coverage duration limits and quantity management affect long-term cost trajectory. These are chronic therapies with indefinite treatment duration for most indications.
-
-**Three actions for plan sponsors**
-
-> **1. Review your current GLP-1 coverage policy.**
+> *Retail:* AWP discount, dispensing fee, one unit price.
 >
-> If it was written before the obesity indication expansion, it needs updating to address current and upcoming indications.
-
-> **2. Request pipeline briefing from your PBM specifically on GLP-1 and related metabolic agents.**
+> *Mail-order:* different AWP discount percentage, different dispensing fee, different unit price.
 >
-> Understand what is approaching approval and the estimated timeline.
+> *Specialty:* different methodology entirely. Often a different formulary tier. Sometimes a different drug list.
 
-> **3. Model the cost impact of indication expansion.**
+The same drug, on the same plan, on the same day, can ride three different price ladders depending on where it is filled. One PBM is setting every number. The plan sponsor is paying every difference.
+
+**What the audit surfaces**
+
+When we walk a CFO through their own channel data, the moments that land are not the averages. They are the specific lines.
+
+The maintenance medication that costs the plan twice as much through the channel the PBM defaults their members into. The specialty drug routed to the PBM-affiliated pharmacy at a higher per-unit cost than the same drug billed through a competitor. The mail-order discount that looks generous in the headline but excludes the dispensing-fee structure underneath.
+
+These are not contract violations. They are contract terms. They are how the spread was authored.
+
+**Four asks for your next renewal**
+
+> **1. Net cost per script, by channel, for the top 10 drugs by spend.**
 >
-> If your current GLP-1 spend covers diabetes, model what adding obesity, cardiovascular, and NASH/MASH indications would mean for total plan cost.
+> Single data request. Forces every channel onto the same comparison line.
 
-GLP-1 management is not a one-time formulary decision. It is an ongoing strategy that needs regular review as the market evolves.
+> **2. The pricing methodology language for each channel, in writing.**
+>
+> AWP discount. Dispensing fee. Formulary tier rules. Specialty routing logic. All four for retail. All four for mail-order. All four for specialty.
+
+> **3. Variance bands across the three channels for those top 10 drugs.**
+>
+> If the spread between cheapest and most expensive channel exceeds a threshold you set, that is your starting point for the negotiation.
+
+> **4. The clause that ties channel routing to clinical necessity, not affiliated-pharmacy economics.**
+>
+> If the contract has no such clause, that is the first piece of language to add at renewal.
+
+The four asks above are also the four steps in the printable Channel Pricing Audit Worksheet, attached at the bottom of this post. Two pages. Top-10 drug worksheet, variance bands, and the four contract asks above as a renewal-ready handout.
+
+If your PBM cannot produce per-channel net cost for your top 10 drugs on a single page within a week of the request, that is the audit finding. The data is there. Whether your contract requires it to be shown is the question worth taking to your broker before the next renewal cycle.
+
+**[EMBED PDF: `templates/documents/week_18_channel_pricing_audit_worksheet.pdf`]**
 
 ---
 
@@ -228,18 +227,20 @@ GLP-1 management is not a one-time formulary decision. It is an ongoing strategy
 
 ### Field Note Meta
 
-**SEO Title:** One Drug Class to Watch: The Next Wave of GLP-1 Approvals | Benefit Blind Spots
-**Meta Description:** GLP-1 agonists are expanding beyond diabetes and obesity. Here is what plan sponsors need to prepare for.
-**Tags:** GLP-1, drug pipeline, pharmacy benefits, clinical pharmacy, formulary strategy, obesity
+**SEO Title:** What We See When We Audit Channel Pricing | Benefit Blind Spots
+**Meta Description:** A pharmacist walks through what a top-10 channel pricing audit actually surfaces, and the four asks that unlock the data your PBM contract leaves out. Printable worksheet attached.
+**Tags:** channel pricing, PBM contracts, pharmacy benefits, self-funded employers, audit, transparency, mail order, specialty pharmacy
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
+**Background:** White (#FFFFFF)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized pill capsule icon in deep teal-blue (#015880) outline, roughly 300px wide, with "GLP-1" rendered in deep teal-blue bold sans-serif text inside the capsule body. Three arrows radiate outward from the capsule in Accent Blue (#A7E0FA): one to the upper right, one to the lower right, one horizontally right. Each arrow tip points at a small rounded label in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text reading "CARDIO," "KIDNEY," and "NASH" respectively. Three small numbered dots in Accent Blue (#A7E0FA) sit at the arrow origins where they touch the capsule. Below the capsule, two-tone centered headline: "The Expansion" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "You Need to Prepare For" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold, 28pt, with +6% letter tracking. Central composition: three identical stylized prescription pill bottle silhouettes in deep teal-blue (#015880) outline, each roughly 380px tall, arranged in a horizontal row across the middle of the canvas with even spacing. Each bottle has a flat solid Accent Blue (#A7E0FA) cap. Below each bottle, a small label in Plex Mono Medium uppercase, Primary Blue (#015880), 22pt, +8% tracking: "RETAIL" under the leftmost bottle, "MAIL ORDER" under the center bottle, "SPECIALTY" under the rightmost. Above each bottle, a small Accent Blue (#A7E0FA) filled circular price-tag icon connected to the bottle by a thin dotted Accent Blue line. The three price tags sit at three different heights to suggest unequal prices: the Retail tag is at one height, the Mail Order tag is noticeably higher, the Specialty tag is highest of the three. Inside each price tag, a "$" symbol in white (#FFFFFF), Plex Sans SemiBold, 36pt. Beneath the bottle row, a horizontal row of evenly spaced small Primary Blue (#015880) tick marks running the full width of the bottle group, suggesting a price ladder. Below the tick row, a two-tone centered headline reading "Same drug." in Primary Blue (#015880) Plex Sans SemiBold, 64pt, immediately followed on the same line by "Three prices." in Accent Blue (#A7E0FA) Plex Sans SemiBold, 64pt. Below the headline, a single subtitle line in Gray (#4D4D4D) Plex Sans Regular, 28pt: "What an audit of your top 10 drugs surfaces." No grid pattern, no textured background, no gradients, no 3D, no shadows, no photographs, no human figures, no logos. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -485,7 +486,7 @@ The time to prepare is before the claims arrive. Not after.
 
 #### First Comment
 
-The full pipeline preparation framework is in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]. For the drug class expanding fastest, today's field note covers the next wave of GLP-1 approvals: [SUBSTACK FIELD NOTE URL]
+The full pipeline preparation framework is in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]. Today's field note covers what we see when we audit channel pricing, with a printable plan-sponsor worksheet attached: [SUBSTACK FIELD NOTE URL]
 
 #### One Number Carousel Slides (Template C)
 
@@ -707,7 +708,7 @@ A client's benefits director once asked me how I keep track of the pipeline. I o
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: the next wave of GLP-1 approvals is broader than most employers realize. We break down what is coming and why your current GLP-1 strategy may need an update.
+New field note: the same drug, on the same plan, on the same day, can be billed at three different per-unit prices depending on where it is filled. We walk through what a top-10 channel pricing audit actually surfaces, plus a printable worksheet with the four asks for your next renewal.
 
 Read the field note: [LINK]
 
@@ -791,7 +792,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Wednesday: Post 62 - "One drug. One patient. One claim. $2.1 million." text post at 8:30 AM
 - [ ] Wednesday Morning: Substack Note (7:15 AM) - Clinical pattern
 - [ ] Wednesday Afternoon: Substack Note (12:30 PM) - Quick tip
-- [ ] Thursday: Substack Field Note "One Drug Class to Watch: The Next Wave of GLP-1 Approvals" published at 7:30 AM
+- [ ] Thursday: Substack Field Note "What We See When We Audit Channel Pricing" published at 7:30 AM (PDF: `templates/documents/week_18_channel_pricing_audit_worksheet.pdf` embedded at bottom of post)
 - [ ] Thursday: Post 63 - Drug Pipeline Watch List Carousel (weekly theme visual) at 8:30 AM
 - [ ] Thursday: Company Reshare of Post 63 at 1:30 PM
 - [ ] Thursday Morning: Substack Note (7:15 AM) - Field Note launch
