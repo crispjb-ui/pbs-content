@@ -366,7 +366,7 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 | 69 | Tue | "Specialty Pharmacy Steering: Who Chose Your Pharmacy?" | Cost Containment | MESSY INFOGRAPHIC |
 | 70 | Wed | "Free drug. Full price claim. Your plan pays." Tease Hook | Transparency | TEXT - Tease Hook |
 | 71 | Thu | Copay Card Impact: How Manufacturer Programs Affect Your Plan (weekly theme visual) | Transparency | CAR (7 slides) |
-| 72 | Fri | "The High-Risk Category" Tease Hook (teases Week 21) | Clinical Pharmacy | TEXT - Tease Hook |
+| 72 | Fri | "14 Pages, 5 Sections, 0 Numbers That Matter" Tease Hook (teases Week 21 PBM Quarterly Reporting) | Transparency & Industry Education | TEXT - Tease Hook |
 
 *Tuesday pulls from Cost Containment (specialty routing). Thursday carries the weekly manufacturer programs theme. Wednesday hook uses short declarative cadence.*
 
@@ -390,34 +390,34 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 
 ---
 
-### WEEK 21 (May 26-30) - COMPOUNDING PHARMACY OVERSIGHT (Memorial Day Week)
+### WEEK 21 (May 26-30) - PBM QUARTERLY REPORTING (Memorial Day Week)
 
 | Post # | Day | Topic | Pillar | Format |
 |--------|-----|-------|--------|--------|
-| 73 | Tue | "Renewal Season Checklist: 5 Things to Lock Down Now" | Self-Funded Guidance | CAR (7 slides) |
-| 74 | Wed | "$1,200 cream. $47 alternative. Same ingredient." Tease Hook | Clinical Pharmacy | TEXT - Tease Hook |
-| 75 | Thu | Compounding Red Flags: What to Watch For (weekly theme visual) | Clinical Pharmacy | MESSY INFOGRAPHIC |
-| 76 | Fri | "The Therapy That Changes Everything" Tease Hook (teases Week 22) | Self-Funded Guidance | TEXT - Tease Hook |
+| 73 | Tue | "The Five Clauses the Best Brokers Check First" Library 02 Contract Comparison Carousel | Broker/Consultant Resources | CAR (7 slides) |
+| 74 | Wed | "14 pages. 3 numbers. None of them are in the report." Tease Hook | Transparency & Industry Education | TEXT - Tease Hook |
+| 75 | Thu | "Same MAC. Different dispensing channel. Different margin." (Slot B evergreen rotation) | Cost Containment Strategies | CAR (6 slides) |
+| 76 | Fri | "The Therapy That Changes Everything" Tease Hook (teases Week 22 Biosimilar Strategy) | Self-Funded Guidance | TEXT - Tease Hook |
 
-*Tuesday pulls from Self-Funded Guidance (renewal prep - timely for May). Thursday carries the weekly compounding theme as messy infographic. Wednesday hook uses specific dollar contrast.*
+*Tuesday Library 02 (Broker pillar) is intentionally different from Monday's Transparency pillar. Thursday Slot B (Cost Containment) is also different from Monday. Wednesday hook uses parallel decoder structure naming the PBM as the actor keeping the three numbers. Memorial Day week is a known engagement dip; the topic is intentionally evergreen so value lives beyond the publish week.*
 
 #### SUBSTACK #16 - Week 21 (Mon May 25)
-**Title:** The Compounding Pharmacy Problem: Managing a High-Risk Category
+**Title:** What Your PBM's Quarterly Report Actually Tells You
 **Status:** DRAFT COMPLETE
 **Length:** ~1,500 words
-**Summary:** Legitimate vs problematic compounding, red flags, oversight framework
+**Summary:** Five sections every standard report includes, the 15 lines a complete report should include, and the gap that determines next renewal price. Integrated tool: Quarterly Reporting Checklist (printable plan-sponsor handout).
 
 #### LINKEDIN NEWSLETTER #16 - Week 21 (Mon May 25)
-**Title:** Compounding Oversight Briefing
+**Title:** Quarterly Reporting Briefing
 **Status:** DRAFT COMPLETE
 **Length:** ~450 words
-**Summary:** Where problems emerge, red flags, contract considerations
+**Summary:** Briefing version of the Substack deep dive. CTA references the printable Quarterly Reporting Checklist on Substack.
 
 #### SUBSTACK FIELD NOTE #9 - Week 21 (Thu May 28)
-**Title:** Three Compounding Claims Patterns That Signal Problems
+**Title:** Five Lines to Read First in Your PBM's Quarterly Report
 **Status:** DRAFT COMPLETE
-**Length:** ~550 words
-**Summary:** Claims data red flags, volume spikes, cost anomalies
+**Length:** ~580 words
+**Summary:** 30-minute version of the full audit; five lines to scan first in the most recent quarterly report this week. Quarterly Reporting Checklist PDF embedded at bottom of post.
 
 ---
 
@@ -530,7 +530,7 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 | 18 | May 4 | The Pipeline That Will Hit Your Plan | Drug Pipeline |
 | 19 | May 11 | Fiduciary Duty and Pharmacy Benefits: What ERISA Requires | Fiduciary |
 | 20 | May 18 | Manufacturer Programs and Your Plan | Manufacturer Programs |
-| 21 | May 25 | The Compounding Pharmacy Problem | Compounding |
+| 21 | May 25 | What Your PBM's Quarterly Report Actually Tells You | Quarterly Reporting |
 | 22 | Jun 1 | The Biosimilar Opportunity Your Plan Is Missing | Biosimilar Strategy |
 | 23 | Jun 8 | Five Claims Data Patterns That Signal Trouble Before Renewal | Mid-Year Claims |
 | 24 | Jun 15 | H1 Review: What the First Half Data Shows | Q2 Close |
@@ -547,7 +547,7 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 | 18 | May 7 | One Drug Class to Watch: The Next Wave of GLP-1 Approvals | GLP-1 Expansion |
 | 19 | May 14 | The Documentation That Matters in PBM Litigation | Fiduciary Documentation |
 | 20 | May 21 | Copay Accumulator vs. Copay Maximizer: Choosing the Right Program | Accumulator vs. Maximizer |
-| 21 | May 28 | Three Compounding Claims Patterns That Signal Problems | Compounding Red Flags |
+| 21 | May 28 | Five Lines to Read First in Your PBM's Quarterly Report | Quarterly Reporting Checklist |
 | 22 | Jun 4 | Three Biosimilar Contract Provisions Worth Negotiating | Biosimilar Contracts |
 | 23 | Jun 11 | How to Read a PBM Utilization Report Without Getting Lost | Claims Data |
 | 24 | Jun 18 | Five Numbers That Determine Your Renewal Leverage | Renewal Metrics |
@@ -574,7 +574,7 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 | 18 | May 4 | Drug Pipeline Briefing |
 | 19 | May 11 | Fiduciary Responsibility Briefing |
 | 20 | May 18 | Manufacturer Programs Briefing |
-| 21 | May 25 | Compounding Oversight Briefing |
+| 21 | May 25 | Quarterly Reporting Briefing |
 | 22 | Jun 1 | Biosimilar Strategy Briefing |
 | 23 | Jun 8 | Mid-Year Claims Briefing |
 | 24 | Jun 15 | H1/H2 Briefing |
@@ -596,7 +596,7 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 - Manufacturer program economics
 
 ### June: Preparation & Review
-- Compounding oversight
+- PBM quarterly reporting (15-line audit checklist)
 - Biosimilar strategy and PBM rebate economics
 - Mid-year claims red flags and data patterns
 - H1 review and H2 positioning
@@ -643,7 +643,7 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 - Week 17 Tue: "The Rebate You Think You're Getting"
 - Week 19 Thu: Fiduciary Documentation Framework
 - Week 20 Tue: "Specialty Pharmacy Steering"
-- Week 21 Thu: Compounding Red Flags
+- Week 21 Thu: Same MAC. Different dispensing channel. Different margin. (Slot B evergreen)
 - Week 22 Tue: "How PBM Spread Pricing Works"
 - Week 24 Tue: "Contract Language That Changed Outcomes"
 
@@ -727,7 +727,7 @@ If all four are not checked, rewrite the hook before publishing.
 | 18 | May 5-9 | Strong | "$2.1 million" dollar shock hook well-placed here. |
 | 19 | May 12-16 | Pre-Memorial Day, still solid | ERISA fiduciary personal liability hook is strong. |
 | 20 | May 19-23 | Softening begins | "Free drug. Full price claim." is strong enough to push through. |
-| **21** | **May 26-30** | **Memorial Day week dip** | **Consider:** "$1,200 cream. $47 alternative." is one of the strongest hooks in Q2. Swap with Week 20's lighter manufacturer content to avoid wasting a strong hook during a dip? |
+| **21** | **May 26-30** | **Memorial Day week dip** | **Topic retargeted May 5, 2026:** swapped from Compounding Oversight (narrow, Clinical Pharmacy) to PBM Quarterly Reporting (broader, Transparency & Industry Education — the highest-viral pillar). Topic is intentionally evergreen so the value lives beyond the holiday-week impression dip. The "$1,200 cream / $47 alternative" hook is preserved for a future Q3-Q4 Wednesday slot when compounding fits a stronger week. |
 | 22 | Jun 2-6 | Summer slowdown begins | Gene therapy content. Lean on newsletter (email unaffected by summer dip). |
 | 23 | Jun 9-13 | Summer | Parity content. Expect lower feed reach. Newsletter carries the weight. |
 | 24 | Jun 16-20 | Summer, but renewal prep aligns | H1 review content is timely for audience even during platform dip. Lean heavily on newsletter and Substack. |

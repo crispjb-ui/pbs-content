@@ -20,7 +20,7 @@
 | Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - 5 Rebate Terms Decoded (Messy Infographic, Slot A evergreen rotation; swapped from W17 Thursday May 1 which did not ship) | [ ] |
 | Thu May 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 71 | [ ] |
 | Thu May 21 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
-| Fri May 22 | 8:30 AM | LinkedIn Feed | Post 72 - "The High-Risk Category" Tease Hook (TEXT) | [ ] |
+| Fri May 22 | 8:30 AM | LinkedIn Feed | Post 72 - "14 Pages, 5 Sections, 0 Numbers That Matter" Tease Hook (TEXT) | [ ] |
 | Fri May 22 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
 | Sat May 23 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
 
@@ -582,23 +582,23 @@ Ginny Crisp analyzes how manufacturer programs affect your plan's true spend.
 ---
 
 ## Post 72 - Friday 8:30 AM
-### "The High-Risk Category" Tease Hook (Text) - TEASES WEEK 21: COMPOUNDING OVERSIGHT
+### "14 Pages, 5 Sections, 0 Numbers That Matter" Tease Hook (Text) - TEASES WEEK 21: PBM QUARTERLY REPORTING
 
 **Format:** Text Post (Tease Hook)
-**Pillar:** Clinical Pharmacy
-**Word Count:** 70 words
+**Pillar:** Transparency & Industry Education
+**Word Count:** 95 words
 
 #### Post Copy
 
-There is a pharmacy category that keeps showing up in our audits. Every time, the pattern is the same: claims that should have been flagged, prices that should not have been paid, and a PBM system that processed all of it without a single alert.
+Your PBM sends a quarterly report. Most are 14 pages. Five recurring sections.
 
-Compounding.
+Total spend YTD. Generic dispensing rate. Mail-order penetration. Specialty drug count. Member out-of-pocket aggregate.
 
-A $1,200 topical cream. A $47 commercial alternative with the same active ingredient was available the entire time. The PBM's system processed the claim at full price. No edit. No flag. No notification to the plan.
+Every one is a metric the PBM controls. Every one looks favorable on the page. None of them is the number that determines next year's renewal price.
 
-One serves patients. The other serves pharmacy revenue. Your plan is paying for both.
+The numbers that move the renewal price are in the data the PBM has. They are not in the report the PBM sends.
 
-Next week: how to tell which is which, and the three reports that reveal the pattern immediately.
+Next week: the 15-line audit checklist for what should be in your quarterly report, and the contract clause that makes it a standing deliverable.
 
 ---
 
@@ -666,7 +666,7 @@ Years ago I took a call from a patient advocate who had read one of my pieces an
 Copay cards help individual patients afford their medications. They also shift significant cost to the plan. I hold both of those perspectives because I have been on both sides, as a pharmacist watching patients fill prescriptions and as a consultant reviewing what those fills cost the employer. That tension does not resolve. You just get better at naming it.
 
 **Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week on Benefit Blind Spots: the compounding pharmacy problem. The claims look normal. They process like any prescription. But certain patterns of volume, pricing, and prescriber concentration tell a very different story. Most plans have never pulled the data.
+Next week on Benefit Blind Spots: what your PBM's quarterly report actually tells you. The standard report is 14 pages and five sections, every one a metric the PBM controls. The numbers that determine your renewal price are not in the report. We walk through the 15-line audit checklist for what should be there, plus a printable plan-sponsor handout.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
 A CFO asked me to estimate what his plan was paying in hidden copay card cost shift. I ran the math for his top ten specialty drugs. The number was substantially higher than the invisible cost of the copay card program his broker had previously described as "a nice perk." He stopped calling it a perk in the next meeting. Naming what is actually happening changes the decision.
@@ -722,7 +722,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Post 69 first comment drafted with link to LinkedIn Newsletter
 - [ ] Post 70 text post finalized - "Free drug. Full price claim. Your plan pays."
 - [ ] Post 71 carousel created - Copay Card Impact (7 slides) (WEEKLY THEME VISUAL)
-- [ ] Post 72 text post finalized - "The High-Risk Category" tease hook
+- [ ] Post 72 text post finalized - "14 Pages, 5 Sections, 0 Numbers That Matter" tease hook (teases W21 PBM Quarterly Reporting)
 - [ ] Company reshares scheduled (Tue + Thu at 1:30 PM)
 - [ ] All Substack Notes drafted (morning/afternoon cadence, Mon-Fri + Saturday engagement)
 

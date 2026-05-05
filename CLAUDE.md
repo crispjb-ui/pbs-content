@@ -188,7 +188,7 @@ The Substack deep dive must contain content the LinkedIn newsletter does NOT inc
 | 18 | Drug pipeline watch list 2026-2027 (5 categories + prep steps) |
 | 19 | Fiduciary documentation checklist (5 categories + one-page test) |
 | 20 | Copay card financial impact calculator (5-step model) |
-| 21 | Compounding claims red flag report (6-flag checklist) |
+| 21 | Quarterly Reporting Checklist (15-line audit framework + paste-ready broker request) |
 | 22 | Biosimilar readiness assessment (6-factor checklist + scoring framework) |
 | 23 | Mid-year claims red flag checklist (5-pattern assessment + interventions) |
 | 24 | H1 benchmark dashboard (5 metrics + renewal readiness scorecard) |
