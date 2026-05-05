@@ -733,26 +733,28 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Post-publish: Stay on LinkedIn for 30 minutes. Reply to every comment with a follow-up question to generate threads.
 
 ## Content Schedule
-- [ ] Substack article finalized and scheduled (Mon 7:30 AM)
-- [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
-- [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
-- [ ] Post 73 Library 02 Contract Comparison carousel created - "The Five Clauses the Best Brokers Check First" (7 slides, matches Library 01 standard) — Broker/Consultant Resources pillar, DIFFERENT from Monday's PBM Contract Insights
+- [ ] Substack article finalized and scheduled (Mon 7:30 AM) — "What Your PBM's Quarterly Report Actually Tells You"
+- [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM) — Quarterly Reporting Briefing
+- [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM) — "Five Lines to Read First in Your PBM's Quarterly Report" (Quarterly Reporting Checklist PDF embedded at bottom of post)
+- [ ] Post 73 Library 02 Contract Comparison carousel created - "The Five Clauses the Best Brokers Check First" (7 slides, matches Library 01 standard) — Broker/Consultant Resources pillar, DIFFERENT from Monday's Transparency & Industry Education pillar
 - [ ] Post 73 first comment drafted with link to LinkedIn Newsletter
-- [ ] Post 74 text post finalized - "$1,200 cream. $47 alternative. Same ingredient."
-- [ ] Post 75 MESSY INFOGRAPHIC designed - Compounding Red Flags (WEEKLY THEME VISUAL)
-- [ ] Post 76 text post finalized - "The Therapy That Changes Everything" tease hook
+- [ ] Post 74 text post finalized - "14 pages. 3 numbers. None of them are in the report." Wednesday tease hook
+- [ ] Post 75 SLOT B carousel designed - "Same MAC. Different dispensing channel. Different margin." (6 slides, Cost Containment pillar; Thursday evergreen rotation Slot B)
+- [ ] Post 76 text post finalized - "The Therapy That Changes Everything" tease hook (teases W22 biosimilar strategy)
 - [ ] Company reshares scheduled (Tue + Thu at 1:30 PM)
 - [ ] All Substack Notes drafted (morning/afternoon cadence, Mon-Fri + Saturday engagement)
+- [ ] Plan Sponsor Toolkit handout finalized: `templates/documents/week_21_quarterly_reporting_checklist.html` and `.pdf` (15-line checklist, 2-page printable, embedded in Field Note)
 
 ---
 
 # PART 6: ASSETS NEEDED
 
 - [ ] Post 73: Library 02 Contract Comparison carousel (7 slides, 1080 x 1350 px each) - "The Five Clauses the Best Brokers Check First." Matches Library 01 visual standard: Primary Blue cover + close, off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "Why it matters" panels. Broker/Consultant Resources pillar. See PART 3 Post 73 for slide-by-slide spec and image generation prompt.
-- [ ] Post 75: Messy Infographic - Compounding Red Flags, hand-drawn/whiteboard style, scattered red flag icons layout, PBS colors (#015880, #A7E0FA)
+- [ ] Post 75: Slot B Same MAC carousel (6 slides, 1080 x 1350 px each) - photorealistic three-receipt hero slide + five copy slides per the Same/Same/Different structure. See PART 3 Post 75 for slide-by-slide outline and AI image generation prompt.
 - [ ] LinkedIn Newsletter header image
-- [ ] Substack article header image
-- [ ] Substack Field Note header image
+- [ ] Substack article header image (Topic Icon template, Primary Blue background, clipboard with 15-line report layout)
+- [ ] Substack Field Note header image (Data Highlight template, white background, clipboard with 5 highlighted rows)
+- [ ] Plan Sponsor Toolkit PDF: `templates/documents/week_21_quarterly_reporting_checklist.pdf` (rendered from `.html` source; 2 pages; visual parity with Week 16 PA ROI Audit Scorecard)
 
 ---
 
@@ -782,19 +784,20 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 |------|------------|-----------------|--------|
 | Post 73 (Library 02 Contract Comparison Carousel) | - | - | |
 | Post 74 (Text) | - | - | |
-| Post 75 (Messy Infographic) | - | - | |
+| Post 75 (Slot B Same MAC Carousel) | - | - | |
 | Post 76 (Text) | - | - | |
 
 > **PERFORMANCE NOTES APPLIED:**
-> - Tuesday uses different pillar from Monday newsletter (prevents cannibalization)
-> - Thursday carries weekly theme visual (3-day gap from newsletter = no overlap)
-> - Messy infographic format selected for Thursday (best-performing visual format)
-> - Wednesday hook uses short repetitive structure: "$1,200 cream. $47 alternative. Same ingredient."
+> - Tuesday uses different pillar from Monday newsletter (prevents cannibalization). Tue Library 02 = Broker/Consultant Resources; Mon = Transparency & Industry Education.
+> - Thursday carries Slot B evergreen rotation post (Cost Containment pillar), different from Monday's Transparency pillar.
+> - Wednesday hook uses parallel decoder structure: "Your PBM has it. The standard quarterly report does not show it." — names PBM as adversary and creates a knowledge gap on the three numbers that determine renewal price.
+> - Memorial Day week is a known engagement dip per CLAUDE.md seasonal patterns; topic is intentionally evergreen so the value lives beyond the publish date.
 
 ---
 
 *File created: February 2026*
 *Updated: March 2026 - Performance lessons applied*
+*Updated: May 2026 - Topic retargeted from Compounding Oversight to PBM Quarterly Reporting (broader, higher-converting Transparency pillar fit for Memorial Day evergreen)*
 *Status: DRAFT COMPLETE*
 
 ---
