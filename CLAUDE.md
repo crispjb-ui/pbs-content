@@ -211,9 +211,11 @@ These handouts are the **lead-magnet ladder**. A vendor request for the PA score
 
 (d) **Naming convention:** `templates/documents/week_{NN}_{topic_slug}.html` and `.pdf`. Week number is two-digit, zero-padded, matching the newsletter file (e.g., `newsletters/week_16_prior_authorization.md` → `templates/documents/week_16_pa_roi_audit_scorecard.html`). Examples: `week_16_pa_roi_audit_scorecard.html`, `week_17_carve_out_decision_scorecard.html`, `week_18_drug_pipeline_watch_list.html`, `week_19_fiduciary_documentation_checklist.html`. Slug is lowercased, underscore-separated, derived from the Monday topic. Week prefix keeps the toolkit roster aligned with the newsletter calendar at a glance.
 
-(e) **Production cadence:** new scorecards ship by the Saturday before the Monday Substack deep dive that introduces them. The toolkit handout is referenced in the Substack article's tool section ("the printable scorecard is available below" + link, or just embed the PDF). Backfill earlier weeks as time allows; prioritize whatever ships next.
+(e) **Production cadence:** new scorecards ship by the Saturday before the Monday Substack deep dive that introduces them. The toolkit handout is referenced in the Substack article's tool section ("the printable scorecard is available below" + embedded PDF). Backfill earlier weeks as time allows; prioritize whatever ships next.
 
 (f) **The toolkit is referenced from the LinkedIn newsletter CTA when present.** Update the standard CTA from "this week's Benefit Blind Spots includes a [specific tool]" to "this week's Benefit Blind Spots includes a [specific tool], plus a printable plan-sponsor scorecard" when a toolkit handout exists.
+
+(g) **Substack PDF embed (added May 5, 2026):** The toolkit PDF embeds **natively in the Substack post editor via drag-and-drop**. Drop the `.pdf` from `templates/documents/` directly into the post body where the embed should render — Substack converts it to a styled inline file tile that readers can click to view or download. No external hosting (Google Drive, Dropbox) needed. The `**[EMBED PDF: <path>]**` marker in week files is the placement instruction for the publisher; replace it with the dragged-in PDF tile when publishing the post.
 
 ## Six Content Pillars
 
