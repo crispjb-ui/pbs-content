@@ -569,17 +569,15 @@ The full fiduciary framework is in this week's Pharmacy Benefits Briefing: [LINK
 
 ## Post 67 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 46 words
+**Word Count:** 44 words
 
 #### Reshare Copy
 
-ERISA fiduciary duty is not about making perfect decisions. It is about documenting a prudent process.
+Five formulary questions most plan sponsors do not ask their PBM. The answers sit in rebate contracts, aggregator overrides, and net-cost detail the standard quarterly report does not surface.
 
-Most employers cannot produce the paper trail their PBM selection would require if challenged.
+Ginny Crisp walks through the questions worth bringing to your next renewal conversation.
 
-Ginny Crisp walks through the six documentation categories every plan sponsor should maintain.
-
-#FiduciaryDuty #PBMConsulting #EmployeeBenefits
+#ClinicalPharmacy #Formulary #PharmacyBenefits
 
 ---
 
