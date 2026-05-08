@@ -63,14 +63,14 @@
 
 | Day | Format | Time |
 |-----|--------|------|
-| Tuesday | Carousel / Infographic / Messy Infographic | 10:00 AM EST |
+| Tuesday | Carousel / Infographic / Messy Infographic | 8:30 AM EST |
 | Tuesday | Company Reshare | 1:30 PM EST |
-| Wednesday | Strong POV Text Post (confrontational hook required) | 10:00 AM EST |
-| Thursday | Carousel / Infographic / Messy Infographic | 10:00 AM EST |
+| Wednesday | Strong POV Text Post (confrontational hook required) | 8:30 AM EST |
+| Thursday | Carousel / Infographic / Messy Infographic | 8:30 AM EST |
 | Thursday | Company Reshare | 1:30 PM EST |
-| Friday | Tease Hook Text Post (teases next week's newsletter) | 10:00 AM EST |
+| Friday | Tease Hook Text Post (teases next week's newsletter) | 8:30 AM EST |
 
-**Posting-time test (active April 2026, continuing through ~Week 18):** Tue-Fri feed posts shifted from 8:30 AM EST to 10:00 AM EST, research-backed optimal time. Week 16 (Apr 21-24) was the first full week on the 10:00 AM schedule. Track Week 16-18 separately when comparing performance to historical Q1/early-Q2 8:30 AM baselines — early-2026 impression and conversion floors were measured at 8:30 AM, so direct comparison without time normalization risks attributing time-shift effects to format or content shape.
+**Posting-time test (concluded May 8, 2026 — reverted to 8:30 AM EST starting W19 Monday May 11):** Tue-Fri feed posts ran at 10:00 AM EST for four weeks (W16-W18) on research-backed "optimal time" guidance. Result across four weeks: no non-amplified post cleared 4K impressions. Highest non-Cuban 10 AM result was the W18 Channel Pricing messy infographic at 3,948 impressions; documented 8:30 AM era floors for the same format ran 5-15K non-amplified. Documented decoder floor of 20-25K (Cuban-cluster inclusive) did not return at 10 AM either — W16 PA decoder hit 7,048 only after Cuban repost. PBS's target audience (CFOs, HR Directors, brokers) appears to skew early-morning Eastern; "10 AM optimal" is generic professional-audience research that does not match PBS's plan-sponsor decision-maker segment specifically. **Reverted to 8:30 AM starting W19.** First full 8:30 AM week monitoring expectation: decoder, dollar-comparison, and messy-infographic posts should return to 5-15K non-amplified floor. If they do not, time was not the issue and other variables need examination.
 
 **Personal post cadence (added May 8, 2026):** Personal posts (family milestones, career reflections, professional travel) ship **occasionally — once every 4-6 weeks max** — on **weekend placement** (Saturday or Sunday). Personal posts are **additions**, not replacements: never drop a Tue-Fri scheduled professional post to make room for one. Treat conversion as **zero by design** — the deliverables are algorithmic warmth (LinkedIn rewards varied content + high engagement-rate posts), brand humanization (reinforces "clinical pharmacist with opinions" positioning that AI-slop competitors cannot fake), and network maintenance (Ginny's broader professional network resurfacing as referral pathways). W18 daughter Summit Championship cheer post returned 47 reactions / 1,650 impressions / 3.15% engagement rate — 3-6× LinkedIn average, 0 followers gained, 0 Substack subs, demographics drift to Insurance 31% / Greater Indianapolis 7% (Ginny's local peer network, not plan-sponsor decision-makers). Topic guardrails: family milestones, career reflections, conference travel. Avoid politics, polarizing causes, or anything that pulls Ginny's expert positioning sideways.
 
