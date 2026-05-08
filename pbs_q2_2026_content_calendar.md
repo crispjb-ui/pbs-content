@@ -456,12 +456,12 @@ Based on all-time pillar performance (PBM Contract Insights 10,315 avg impressio
 
 | Post # | Day | Topic | Pillar | Format |
 |--------|-----|-------|--------|--------|
-| 81 | Tue | "The Contract Clause That Saved a Client Six Figures" | PBM Contracts | INFO - Story Flow |
+| 81 | Tue | Library 03 Contract Comparison Carousel — Audit Rights | PBM Contract Insights | CAR (7 slides) |
 | 82 | Wed | "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" Strong POV | Self-Funded Guidance | TEXT - Strong POV |
 | 83 | Thu | Five Mid-Year Claims Red Flags (weekly theme visual) | Self-Funded Guidance | INFO - Warning List |
 | 84 | Fri | "Your PBM Already Knows Your H1 Numbers" Tease Hook (teases Week 24) | Transparency | TEXT - Tease Hook |
 
-*Tuesday pulls from PBM Contract Insights (contract story, different from Monday's Self-Funded Guidance). Thursday carries the weekly claims theme. Wednesday hook creates urgency about the mid-year data window.*
+*Tuesday Library 03 Contract Comparison Carousel — Audit Rights (PBM Contract Insights pillar, different from Monday's Self-Funded Guidance). Thursday carries the weekly claims theme. Wednesday hook creates urgency about the mid-year data window. Library NN cadence updated May 8, 2026 from every-3-weeks to every-2-weeks; W23 Tuesday's prior Chart-on-Whiteboard Messy Infographic ("Six Figures") moved to `evergreen_visual_backlog.md` entry #24.*
 
 #### SUBSTACK #18 - Week 23 (Mon Jun 8)
 **Title:** Five Claims Data Patterns That Signal Trouble Before Renewal

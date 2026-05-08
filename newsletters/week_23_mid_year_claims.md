@@ -11,7 +11,7 @@
 | Mon Jun 8 | 7:30 AM | Substack | "Five Claims Data Patterns That Signal Trouble Before Renewal" | [ ] |
 | Mon Jun 8 | 7:45 AM | LinkedIn Newsletter | Mid-Year Claims Briefing | [ ] |
 | Mon Jun 8 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jun 9 | 8:30 AM | LinkedIn Feed | Post 81 - "The Contract Clause That Saved a Client Six Figures" Chart-on-Whiteboard Messy Infographic (different pillar) | [ ] |
+| Tue Jun 9 | 8:30 AM | LinkedIn Feed | Post 81 - Library 03 Contract Comparison Carousel: Audit Rights (PBM Contract Insights pillar) | [ ] |
 | Tue Jun 9 | 8:35 AM | LinkedIn Feed | Post 81 - First Comment | [ ] |
 | Tue Jun 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 81 | [ ] |
 | Wed Jun 10 | 8:30 AM | LinkedIn Feed | Post 82 - "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" Strong POV (TEXT) | [ ] |
@@ -303,75 +303,84 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 81 - Tuesday 8:30 AM
-### "The Contract Clause That Saved a Client Six Figures" — Chart-on-Whiteboard Audit Trail
+### Library 03 Contract Comparison Carousel — Audit Rights
 
-**Template:** Chart-on-Whiteboard messy infographic from `claude_design_prompts.md` (template #14). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
-**Format class:** Messy infographic (Tuesday Cycle-W1 slot, second cycle)
+> **NOTE (added May 8, 2026):** This Tuesday slot was previously a Chart-on-Whiteboard Messy Infographic ("The Contract Clause That Saved a Client Six Figures"). That post has been **moved to `evergreen_visual_backlog.md` entry #24** (preserved verbatim) and replaced with **Library 03 Contract Comparison Carousel** as part of the every-2-weeks Library NN cadence locked in CLAUDE.md on May 8. Thematic fit: Audit Rights contract language pairs with the W23 Monday Mid-Year Claims topic — readers get the audit framework Monday and the contract language that enables the audit Tuesday.
+
+**Template:** Contract Comparison carousel from `claude_design_prompts.md` (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
+**Format class:** Carousel (Tuesday Cycle-W1 slot, second cycle — slot reassigned from Messy Infographic to Carousel for the Library NN entry)
 **Pillar:** PBM Contract Insights (different from Monday's Self-Funded / Mid-Year Claims topic)
-**Content shape:** Decoder-in-story form. Anchor is the unfakeable proprietary detail: PBS pulled the reconciliation, found the shortfall, recovered six figures on a clause most employers do not know is there.
-**Why this combination:** Chart-on-Whiteboard renders a real-looking chart of year-over-year rebate performance against the contract's guaranteed minimum, with handwritten marker annotations walking through what PBS saw, what the PBM had not flagged, and what the recovery looked like. Strong for an audit-narrative topic because the chart does the evidentiary work and the annotations do the reasoning.
+**Content shape:** Library NN reference asset (save-driven, not feed-reach). Library 01 3-day actuals: 2,129 impressions, +2 followers, **14 saves, 4 reposts** — 9-12% of forecast on reach and conversion, 200% of forecast on saves. Success metric for Library 03 mirrors Library 01-02: saves and long-tail profile visits over 30 days, not first-week impressions. **Do not evaluate this post on the 20-25K decoder floor.**
+**Why this combination:** Audit Rights is a foundational provision family. Most PBM contracts run 3-5 lines on audit rights and give the PBM full discretion over frequency, scope, auditor identity, and remediation. The protective version names every parameter explicitly. Five clauses to redline cover the audit-frequency clause, the audit-scope clause, the auditor-identity clause, the findings-binding clause, and the cost-responsibility / remediation-timing clause. Funnels to the Substack Contract Language Library Audit Rights provision section via the closing slide.
+
+> **Success metric (Library 03):** Target 12+ saves in the first 2 weeks (Library 01 hit 14 in 3 days). Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework this format based on first-week feed impressions alone — the Library NN pattern is bookmark-first, feed-distributed-second.
 
 #### Post Copy
 
-One contract clause. One audit finding. Six figures back to the plan.
+Five clauses in your PBM audit rights provision that decide whether your audit happens on your terms or theirs.
 
-A client's PBM contract included a minimum rebate guarantee with an annual true-up provision. When we audited the rebate performance, the PBM had fallen short of the guarantee. The true-up was owed. The employer did not know the provision was there.
+Most contracts run three to five lines on audit rights. The protective version names every parameter — frequency, scope, who can audit, how findings get adjudicated, who pays.
 
-The clause had been in the contract the entire three-year term. Nobody had cross-referenced it against the annual rebate performance data. That cross-reference is the audit.
+Swipe through for the redline on each clause.
 
-Contract language only protects the plan if someone enforces it.
+1. Audit frequency and notice period — "once per term" vs. twice per contract year on 30 days notice
+2. Audit scope — "customary records" vs. claims, pricing, rebates, and clinical programs explicitly
+3. Auditor identity — PBM-approved auditor only vs. plan sponsor's designated auditor with no PBM veto
+4. Findings binding — informal vs. binding within 30 days unless contested with documentation
+5. Cost responsibility — plan pays regardless vs. PBM pays if findings exceed defined materiality threshold
 
-#PBMAudit #SelfFundedEmployers #PharmacyBenefits
+The brokers we work with check these five before signing. Save this carousel for your next renewal conversation.
+
+#PBMContracts #SelfFundedEmployers #PharmacyBenefits
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on mid-year claims analysis: [LINKEDIN NEWSLETTER URL]
+The full protective language for each of these five audit-rights clauses, plus the dispute-resolution and remediation provisions that pair with them, lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 
-#### Image Layout Spec
+Updated quarterly from patterns we see in client contract reviews.
 
-Single image at 1080 x 1350 px rendered as a photographed whiteboard with a hand-drawn chart and marker annotations. Gray plastic whiteboard frame visible around the edges. Small dry-erase marker tray at the bottom of the frame with 3-4 markers (red, blue, black, green). Slight reflections and marker ghosting on the surface for realism.
+#### Carousel Slide-by-Slide Spec
 
-**Top of whiteboard:** Handwritten title in black marker, Caveat-style handwriting ~34pt: "Rebate Guarantee vs. Actual · 3-year term." Underlined with a single horizontal blue marker stroke.
+Following the Library 01 / Library 02 visual standard exactly. All seven slides render as a Library NN Contract Comparison carousel. Cover and closing slides use solid Primary Blue (#015880) backgrounds with white Plex Sans SemiBold headlines and italic emphasis words rendered in Accent Blue (#A7E0FA). Content slides (2-6) use an off-white paper background (#F5F0E4) with a typed contract-document aesthetic: Plex Mono 11-12pt contract body text, red (#C0392B) strikethroughs on language to retire, Accent Blue (#A7E0FA) highlight on inserted/protective language, section markers in Plex Sans SemiBold uppercase ("§ SECTION 10.01 · AUDIT FREQUENCY" style). Each content slide carries a Primary Blue "WHY IT MATTERS" panel at the bottom, ~18% of slide height, white Plex Sans Regular 16pt body text explaining the audit-leverage stakes in two lines.
 
-**Center of whiteboard (the chart):** A hand-drawn bar chart or line chart showing three years of rebate performance, each year labeled on the x-axis in Plex Mono-style hand-lettering: "Year 1," "Year 2," "Year 3." Y-axis labeled "$ per brand claim" with three horizontal gridlines in Gray marker. A horizontal dashed red line across the chart at the guaranteed minimum level, labeled on the right end in red marker handwriting: "Guaranteed minimum (contract § 4.05)." Three bars (or data points) rendered in blue marker: Year 1 sits just above the guarantee line, Year 2 sits at the guarantee line, Year 3 sits visibly below the guarantee line. The Year 3 bar is circled heavily in red marker with a squiggly double-outline.
+**Slide 1 — Cover.** Solid Primary Blue (#015880) background. Small uppercased eyebrow label top-left in Plex Sans SemiBold 14pt white, +6% letter tracking: "PBM CONTRACT LANGUAGE · LIBRARY 03." Headline centered-left in Plex Sans SemiBold 56pt white: "Five clauses that decide whether your audit happens on *your* terms." (word "your" in italic Accent Blue.) Subhead in Plex Sans Regular italic 22pt Accent Blue: "Most contracts give the PBM the audit. Yours does not have to." Bottom-right in Plex Sans SemiBold 18pt white: "SWIPE FOR THE REDLINE →." Top-right in Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions." Bottom-left in Plex Mono Medium 14pt white: "rxbs.org." Bottom-right corner in Plex Mono Medium 14pt Accent Blue: "01 / 07."
 
-**Annotations radiating from the chart:**
-- Red arrow pointing to the Year 3 bar with Caveat handwritten note: "Shortfall · never flagged by PBM."
-- Blue arrow pointing to the red guaranteed-minimum line with Caveat handwritten note: "This provision was in the contract the entire time."
-- Green arrow pointing from the Year 3 bar to a green Accent Blue (#A7E0FA) filled rectangle in the lower-right quadrant with large Caveat handwriting inside in Primary Blue: "$$$ TRUE-UP OWED. Six figures."
+**Slides 2-6 — Five clauses, redline format.** Each slide follows the Library 01/02 contract-paper template:
+- **Slide 2:** § 10.01 · Audit Frequency and Notice. Strikethrough on "Plan Sponsor may audit once per contract term at PBM's reasonable convenience." Insert: "Plan Sponsor or its designee may audit not more than twice per contract year, on 30 days written notice, at times reasonably scheduled to avoid PBM operational disruption." WHY IT MATTERS: "Once per term plus 'reasonable convenience' lets the PBM defer indefinitely. Annual frequency with notice puts the audit on your calendar."
+- **Slide 3:** § 10.02 · Audit Scope. Strikethrough on "PBM shall make customary records available." Insert: "PBM shall make available all records relating to Plan Sponsor's claims, pricing, rebates, manufacturer payments, formulary management, prior authorization decisions, and clinical program performance, in the format reasonably requested by auditor." WHY IT MATTERS: "'Customary records' is the PBM's call. Naming the categories closes the discretion gap."
+- **Slide 4:** § 10.03 · Auditor Identity. Strikethrough on "Audit shall be conducted by an auditor mutually agreed upon by both parties." Insert: "Plan Sponsor shall designate the auditor in its sole discretion. PBM may not require the use of a PBM-affiliated auditor or veto the auditor's independence." WHY IT MATTERS: "Mutual agreement = PBM veto. Plan-sponsor-chosen auditor with no veto = independence."
+- **Slide 5:** § 10.04 · Findings Binding. Strikethrough on "Audit findings are advisory and informational." Insert: "Audit findings are binding on PBM unless contested in writing within 30 days of delivery, with documented objection. Uncontested findings shall be remediated within 60 days of delivery." WHY IT MATTERS: "Advisory findings are not findings. Binding findings with a remediation deadline are leverage."
+- **Slide 6:** § 10.05 · Cost Responsibility. Strikethrough on "Audits shall be conducted at Plan Sponsor's sole expense." Insert: "Plan Sponsor pays audit cost if findings are below 1% of audited payment value. PBM pays audit cost (including Plan Sponsor's reasonable auditor fees) if findings equal or exceed 1% materiality threshold." WHY IT MATTERS: "Materiality threshold flips the risk. Plans audit more aggressively when the PBM is on the hook for findings."
 
-**Bottom of whiteboard:** Handwritten in red marker, underlined with a scribbled line: "Contract language only protects the plan if someone enforces it." Below that, smaller Caveat handwriting in Gray: "When was your last PBM audit?"
-
-**Outside the whiteboard frame:** Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" badge top-left. Plex Mono Medium 12pt Gray "rxbs.org" bottom-left. PBS logo (dark version, 60-80px) bottom-right.
+**Slide 7 — Close.** Solid Primary Blue (#015880) background. Plex Sans SemiBold 52pt white centered-left: "Your audit clause is your *enforcement* clause." (word "enforcement" italic Accent Blue.) Below, Plex Sans Regular 20pt white: "Five lines decide whether the contract has teeth." Bottom block in Plex Sans Regular 16pt Accent Blue: "Full protective language for each of these five clauses lives in our free PBM Contract Language Library. benefitblindspots.substack.com/p/pbm-contract-language-library." Bottom-right Plex Mono Medium 14pt Accent Blue: "07 / 07." Bottom-left Plex Mono Medium 14pt white: "rxbs.org." Top-right Plex Sans SemiBold 12pt white: "Prescription Benefit Solutions."
 
 #### Image Generation Prompt
 
-Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Photorealistic whiteboard surface photographed straight-on, gray plastic frame visible around the edges, small tray at the bottom with 3-4 dry-erase markers (red, blue, black, green), slight surface reflections and marker ghosting. On the whiteboard: at the top, handwritten title in black marker, Caveat-style ~34pt: "Rebate Guarantee vs. Actual · 3-year term." A single blue marker underline beneath the title. Center: hand-drawn bar chart with three vertical bars labeled "Year 1," "Year 2," "Year 3" on the x-axis and "$ per brand claim" on the y-axis, three horizontal gridlines in Gray marker, a horizontal dashed red line across the chart representing the guaranteed minimum labeled "Guaranteed minimum (contract § 4.05)." Year 1 bar just above the red line, Year 2 bar at the red line, Year 3 bar visibly below. Year 3 bar circled in red marker with a squiggly double outline. Red arrow with handwritten Caveat note "Shortfall · never flagged by PBM." pointing to the Year 3 bar. Blue arrow with handwritten note "This provision was in the contract the entire time." pointing to the guarantee line. Green arrow from Year 3 to an Accent Blue (#A7E0FA) filled rectangle in the lower-right with large Primary Blue Caveat handwriting: "$$$ TRUE-UP OWED. Six figures." Bottom of whiteboard: red marker handwritten Caveat "Contract language only protects the plan if someone enforces it." with scribbled underline. Below in smaller Gray Caveat: "When was your last PBM audit?" All writing imperfect but legible, marker pressure variation, no computer typography on the whiteboard surface. Color palette: whiteboard off-white (#F8F7F2), black marker, red marker (#C0392B), blue marker (#015880), green marker / Accent Blue (#A7E0FA), Gray (#4D4D4D). Flat photograph style, no 3D, no text outside the whiteboard except PBS branding elements.
+Use the Library NN Contract Comparison master from `claude_design_prompts.md` (template #4) following Library 01 / Library 02 visual standard exactly. Generate 7 stacked slides at 1080 x 1350 px each. Pull slide-by-slide content from the spec above.
 
 **Post-Generation Steps:**
 
-1. Generate base image using the prompt above
-2. Verify the bar heights correctly represent Year 3 below the guaranteed minimum line (most common failure: all three bars render at the same height)
-3. If the handwriting renders as illegible scribble, overlay Caveat handwritten annotations in Canva on top of the AI-generated base
-4. Confirm the red "TRUE-UP OWED" rectangle is visible in the lower-right quadrant, not off-frame
-5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 14pt, Primary Blue) top-left OUTSIDE the whiteboard frame
-6. Add "rxbs.org" (Plex Mono Medium, 12pt, Gray) bottom-left outside the frame
-7. Add PBS logo (dark, 60-80px) bottom-right outside the frame
-8. Export as PNG
+1. Generate 7-slide deck via Claude Design using the slide-by-slide spec above
+2. Export as PNGs at 1080 x 1350 px each (NOT a combined PDF — Claude Design's combined-PDF export rerasterizes poorly on LinkedIn upload per the W19 Thursday carousel finding)
+3. Visual-parity check against Library 01 and Library 02: eyebrow label, slide-number style, "why it matters" panel position, strikethrough and insertion color rendering
+4. If any clause text is mangled or insertion color bleeds, overlay corrected Plex Mono text in Canva
+5. Verify the closing slide's Contract Language Library URL renders correctly
+6. Combine the 7 PNGs into a single LinkedIn-friendly PDF using img2pdf (lossless) — workflow per W19 Thursday: drop PNGs in `templates/carousels/`, run img2pdf, save final at `templates/carousels/week_23_tuesday_carousel.pdf`
+7. Upload the img2pdf-built PDF to LinkedIn as a document carousel
 
 ---
 
 ## Post 81 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 45 words
 
 #### Reshare Copy
 
-Contract language only protects your plan if someone enforces it. Rebate guarantees, performance standards, and audit rights all turn into recovered dollars when a structured audit follows.
+Five clauses in your PBM audit rights provision decide whether your audit happens on your terms or theirs. Frequency, scope, auditor identity, findings binding, and cost responsibility all turn discretionary unless the contract names them.
 
-Ginny Crisp walks through the contract clauses and audit pattern that produced a six-figure recovery.
+Ginny Crisp walks through the redline on each.
 
-#PBMAudit #PlanSponsors #EmployeeBenefits
+#PBMContracts #PBMAudit #PharmacyBenefits
 
 ---
 
@@ -738,7 +747,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM)
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
-- [ ] Post 81 Chart-on-Whiteboard messy infographic designed and ready - "The Contract Clause That Saved a Client Six Figures" (PBM Contract Insights pillar, DIFFERENT from Monday's Self-Funded / Mid-Year Claims topic)
+- [ ] Post 81 Library 03 Contract Comparison carousel created — Audit Rights (7 slides, 1080 x 1350 px each, matches Library 01/02 visual standard). PBM Contract Insights pillar, DIFFERENT from Monday's Self-Funded / Mid-Year Claims topic. Combined into single PDF via img2pdf for LinkedIn document upload.
 - [ ] Post 81 - First comment drafted with link to LinkedIn Newsletter
 - [ ] Post 82 - "Your Claims Data Is Already Telling You" text post ready (Wed 8:30 AM)
 - [ ] Post 83 - Five Mid-Year Claims Red Flags infographic designed and ready (Thu 8:30 AM)
@@ -759,7 +768,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 81 Chart-on-Whiteboard Messy Infographic | Single image (1080 x 1350 px) | Photorealistic whiteboard with 3-year rebate guarantee chart, Year 3 shortfall circled in red, "TRUE-UP OWED" recovery callout in Accent Blue. PBM Contract Insights pillar. See PART 3 Post 81 for layout and image generation prompt. |
+| Post 81 Library 03 Contract Comparison Carousel — Audit Rights | 7 slides at 1080 x 1350 px each | Library NN reference asset (save-driven). Five audit-rights clauses with side-by-side weak/strong contract redlines on Plex Mono off-white paper background, each with a Primary Blue "Why it matters" panel. Cover and close on solid Primary Blue. Matches Library 01 and Library 02 visual standard exactly. PBM Contract Insights pillar. See PART 3 Post 81 for slide-by-slide spec and image generation prompt. Combine to single PDF via img2pdf for LinkedIn upload. |
 | Post 83 Infographic | Single image | Five Mid-Year Claims Red Flags - weekly theme visual |
 | Substack article header image | 2240x1260 | [ ] Design needed |
 | Substack Field Note header image | 2240x1260 | [ ] Design needed |

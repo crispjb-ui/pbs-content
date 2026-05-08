@@ -261,31 +261,92 @@ Pending-row content ships to Substack at the next quarter-boundary review.
 
 ## Q3 2026 Update Queue (pending, publishes July 2026)
 
-**Source: Week 16 (Apr 21, 2026) Library 01 carousel — "The Five Clauses That Decide Your PBM Contract."** See `newsletters/week_16_prior_authorization.md` Post 53 section for the redline visuals and "Why it matters" framing that can be lifted into the library copy.
+**Sources:** Week 16 (Apr 21, 2026) Library 01 carousel; future Library 02 (May 26) and Library 03 (Jun 9) provisions append below as those ship.
 
-**New provisions to add:**
+**Quarterly push instructions (5-minute workflow):**
 
-1. **Definition of Generic Drug** (add to Pricing Guarantees section)
-   - What you might see: "those products identified as generic in the PBM's proprietary classification and pricing file, as updated from time to time in the PBM's sole discretion"
-   - What it actually means: The PBM can reclassify a brand drug as non-generic whenever that classification improves their guarantee margin.
-   - What you should ask for: "Generic Drug means drug products assigned an 'A' therapeutic equivalence rating in the current FDA Orange Book, excluding brand-name, authorized-generic, and single-source products."
+1. Open the live Substack post at `benefitblindspots.substack.com/p/pbm-contract-language-library` in edit mode.
+2. For each section block below, copy the **paste-ready block** between the `▼ START` and `▲ END` markers. The block is formatted exactly as it should appear in the live post — no editing needed.
+3. Find the matching section header in the live post (e.g., `### Pricing Guarantees`).
+4. Position cursor at the END of that section's last existing provision (just before the next `### [Section]` header).
+5. Paste the block. The format will match what's already there.
+6. Repeat for each section that has updates this quarter.
+7. Update the post's "Last updated" date to the current quarterly push date and publish.
+8. After publishing, in this file: move the Q3 entries to the Update Log table at the top, change the "Last pushed to Substack" date, and open a fresh empty Q3 queue for next quarter.
 
-2. **Spread Pricing / Claim Pricing** (add to Pricing Guarantees section)
-   - What you might see: "The amount charged to Plan Sponsor shall be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis."
-   - What it actually means: Aggregate measurement hides per-claim spread. The PBM can charge the plan more than it pays the pharmacy on any individual claim as long as the aggregate guarantee is met.
-   - What you should ask for: "The amount charged to Plan Sponsor for any Claim shall equal the amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted."
+---
 
-**Existing provision to expand:**
+### → PASTE INTO: `### Pricing Guarantees` section
 
-3. **Termination Notice** (expand the existing entry to cover termination for convenience, not only auto-renewal)
-   - Additional "what you might see" example: "Either party may terminate this Agreement for material breach following a 90-day cure period and written notice."
-   - Additional "what it actually means": No PBM will ever concede "material breach" in writing, so this clause locks you in for the contract duration regardless of performance.
-   - Additional "what you should ask for": "Plan Sponsor may terminate this Agreement for convenience upon ninety (90) days' written notice, without penalty, repayment of implementation credits, or recoupment of rebates already earned."
+▼ START COPY ▼
 
-**Planned additions (Library 02, ships Week 21 May 26):** rebate definition breadth, AWP discount base specificity, guarantee remediation timing and audit rights, termination data-transfer language, audit scope and frequency. These will be appended to this queue immediately after Library 02 ships.
+---
+
+**Provision: Definition of Generic Drug**
+
+What you might see:
+> "Generic Drug means those products identified as generic in the PBM's proprietary classification and pricing file, as updated from time to time in the PBM's sole discretion."
+
+What it actually means: The PBM can reclassify a brand drug as non-generic whenever that classification improves their guarantee margin. Reclassifications happen quietly and the plan only sees the impact in the next reconciliation.
+
+What you should ask for:
+> "Generic Drug means drug products assigned an 'A' therapeutic equivalence rating in the current FDA Orange Book, excluding brand-name, authorized-generic, and single-source products. Classification disputes shall be resolved by reference to the Orange Book, not PBM discretion."
+
+---
+
+**Provision: Spread Pricing / Claim Pricing**
+
+What you might see:
+> "The amount charged to Plan Sponsor shall be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis."
+
+What it actually means: Aggregate measurement hides per-claim spread. The PBM can charge the plan more than it pays the pharmacy on any individual claim as long as the aggregate guarantee is met across the book of business.
+
+What you should ask for:
+> "The amount charged to Plan Sponsor for any Claim shall equal the amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted. Plan Sponsor may audit per-claim pricing on demand and at PBM's expense if discrepancies exceed 1% of audited claim value."
+
+▲ END COPY ▲
+
+---
+
+### → PASTE INTO: `### Termination and Transition` section (REPLACES existing "Termination Notice" entry)
+
+▼ START COPY ▼
+
+---
+
+**Provision: Termination Notice and Termination for Convenience**
+
+What you might see:
+> "Either party may terminate this Agreement for material breach following a 90-day cure period and written notice. Auto-renewal applies for successive one-year terms unless either party provides written notice of non-renewal at least 180 days before the renewal date."
+
+What it actually means: No PBM will ever concede "material breach" in writing, so the breach clause locks you in for the contract duration regardless of performance. The auto-renewal clause means missing the 180-day window forces you into another full term — and the PBM controls the implementation calendar that surfaces the deadline.
+
+What you should ask for:
+> "Plan Sponsor may terminate this Agreement for convenience upon ninety (90) days' written notice, without penalty, repayment of implementation credits, or recoupment of rebates already earned. Auto-renewal is hereby disabled; this Agreement terminates at the end of the initial term unless both parties affirmatively renew in writing. PBM shall provide Plan Sponsor with written notice 270 days before term end identifying the renewal decision deadline."
+
+▲ END COPY ▲
+
+---
+
+**Planned appends (will populate after each Library entry ships):**
+
+- After Library 02 (W21, May 26 ships): rebate definition breadth, AWP discount base specificity, guarantee remediation timing, audit rights scope, termination data-transfer language. Will be appended to this queue with paste-ready formatting on the same day Library 02 ships.
+- After Library 03 (W23, Jun 9 ships): five Audit Rights clauses (frequency, scope, auditor identity, findings binding, cost responsibility / materiality threshold). Same format.
 
 ---
 
 ## Q4 2026 Update Queue (pending, publishes October 2026)
 
-_(Empty — opens when Library 02 ships on May 26, 2026.)_
+_(Empty — opens when Library 04 ships on Jun 23, 2026.)_
+
+**Will accumulate provisions from Library 04-10:**
+
+- Library 04 (W25): Renewal and Amendment provisions
+- Library 05 (W27): PBM Compensation Disclosure provisions (NEW SECTION needed in Substack post)
+- Library 06 (W29): Rebate Definitions and Gross-to-Net provisions (expand existing Rebate Provisions section)
+- Library 07 (W31): Specialty Routing and Affiliated-Pharmacy Disclosure provisions (expand existing Specialty Pharmacy section)
+- Library 08 (W33): Formulary Management and Override Authority provisions (NEW SECTION needed in Substack post)
+- Library 09 (W35): Performance Guarantees and Remediation Triggers provisions (expand Pricing Guarantees + Audit Rights sections)
+- Library 10 (W37): Reporting and Disclosure Provisions (NEW SECTION needed in Substack post)
+
+When Library 04 ships, the empty placeholder above gets replaced with paste-ready blocks following the same format as Q3.
