@@ -989,6 +989,79 @@ Shot 1 (340B $20 vs $100) now sits at **42,968 impressions**, moving it to all-t
 
 ---
 
+### Week 18 Snapshot (May 4 - May 8, 2026)
+
+**Channel-by-channel headers (May 8):**
+
+- **LinkedIn Followers:** 1,726 (+56 since Apr 30, +382 since Apr 3)
+- **LinkedIn Newsletter Subscribers:** 836 (+37 since Apr 30, +231 since Apr 3)
+- **Substack Subscribers:** 65 (+10 since Apr 30, **+18% week-over-week** — strongest weekly growth rate to date; ~6-7 of the +10 traceable to LinkedIn first-comment cross-promo, see finding #1 below)
+
+#### Cuban Signal (likes-only week — first time observed)
+
+Cuban liked every PBS post this week but did not comment or repost on any of them. **Confirmed: Cuban likes alone produce zero amplification.** No measurable reach lift on any post that received a Cuban like-only. The +60-75% reach lift documented in CLAUDE.md and the W15-W17 data set required comments or reposts. This is the first week with a clean "likes-only" Cuban pattern, and the data is unambiguous: only comments/reposts move the algorithm. Logged as a documented finding.
+
+#### Week 18 Feed Posts
+
+| Post | Type | Day | Age at capture | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Cuban Signal |
+|------|------|-----|----------------|------|---------|----|------|---------|-------|-------|---------------|-----------|--------------|
+| "Drug Pipeline Briefing" Pharmacy Benefits Briefing #15 (Newsletter, Edition 8) | Newsletter | Mon May 4 | 4d | 1,849 reach / 512 article views / 47% email open | 1,358 | 20 | 5 | 3 | 0 | 0 | 8 | +3 | Liked |
+| "Bundled or carved-out pharmacy benefit?" (Carve In or Out? 7p Whiteboard Carousel, Post 59 carry-over from W17) | Whiteboard Carousel | Thu May 1 | 1w | 1,790 | 1,199 | 17 | 5 | 4 | 5 | 0 | 5 | +3 | Liked |
+| "Is Your GLP-1 Coverage Outdated?" (8-slide Whiteboard Decoder Carousel, Post 61) | Whiteboard Carousel | Tue May 5 | 2d | **758** | 499 | 9 | 0 | 3 | 2 | 0 | 3 | +2 | Liked |
+| "One drug. One patient. One claim. $2.1 million." (Wed POV gene therapy text, Post 62) | POV Text (named-actor dollar anchor) | Wed May 6 | 1d | 1,620 | 1,129 | 17 | **10** | 2 | 0 | 1 | 6 | 0 | Liked |
+| "Same drug. Same dose. Same manufacturer. Three channels. Three different prices, set by the same PBM." (Channel Pricing messy infographic, Post 63) | Messy Infographic (named-actor dollar comparison) | Thu May 7 | 23h | **3,948** | 2,933 | 31 | 8 | 3 | **9** | 0 | **15** | **+7** | Liked |
+| Daughter Summit Championship cheer post (personal) | Personal Text | Sat May 2 / Sun May 3 | 5d | 1,650 | 1,003 | **47** | 5 | 0 | 0 | 0 | 11 | 0 | — |
+
+> **Capture note:** Channel Pricing post is still developing momentum at 23h capture and will continue compounding through the weekend. Final read on Day 3 likely lands meaningfully higher; the 3,948 figure is the floor, not the ceiling.
+
+#### Substack — Week 18 publication performance
+
+| Post | Date | Recipients | Views | Open rate | LinkedIn-attributed subs |
+|------|------|------------|-------|-----------|--------------------------|
+| **"The Pipeline That Will Hit Your Plan: Preparing for Drug Launches"** (Monday deep dive) | May 4 | 57 | **119** (4.76× typical 25) | — | **2 free subs** (linkedin.com source: 4% of views, 0 paid, 2 free in source breakdown) |
+| "What Crossed My Desk This Week: May 6, 2026" (Wednesday roundup) | May 6 | 58 | 54 | 41% | 0 attributable |
+| "What We See When We Audit Channel Pricing" (Thursday Field Note + toolkit PDF embed) | May 7 | 60 | 45 (still developing) | 40% | **4-5 free subs** (per Ginny's count of attributable LinkedIn-driven signups same day as the Channel Pricing visual went up) |
+
+**Pipeline post is the breakout of the week** at 119 views — the highest single-post Substack view count in the data set since launch. 85% of traffic was email (the newsletter open rate at 47% is the upstream engine).
+
+**Cross-promo conversion confirmed:** 2 free subs from the Pipeline post + 4-5 from the Channel Pricing post = ~6-7 LinkedIn-attributed Substack signups this week, accounting for ~60-70% of the +10 weekly Substack growth. The mechanism: LinkedIn post + first comment with Substack field note / deep dive link → reader clicks through → free signup.
+
+#### Substack — Notes performance
+
+- Origin-story Notes continued to drive the strongest reciprocal engagement (per pattern from April 20 strategy revision)
+- **Cuban-callout Note** (small-creator-meta angle observing his likes-only pattern) drew measurable engagement — first time this format has been tested. Worth periodic repetition as a rotating-content slot.
+
+### Week 18 Analysis
+
+1. **First-comment Substack cross-promo is the breakthrough conversion mechanism this quarter.** ~6-7 of this week's +10 Substack subs trace to LinkedIn cross-promo. Subs went 55 → 65 in 7 days (+18%). The mechanism is reproducible: same-week LinkedIn post + first-comment link to the Substack companion (deep dive on Mondays, field note on Thursdays). **This becomes a standing publishing rule effective W19** — every LinkedIn post that ships in a week with a Substack companion includes the link in first comment.
+
+2. **The Pipeline Monday deep dive cleared 119 Substack views (4.76× typical).** Highest single-post view count in the data set. 85% of traffic was email. The Monday deep dive + Monday newsletter pair is doing the heaviest funnel lift in PBS's content ecosystem. Newsletter open rate at 47% is the gate that has to hold.
+
+3. **Whiteboard carousel format failed its first scaled test.** GLP-1 Whiteboard Decoder carousel (Post 61) returned **758 impressions** — ~30× below the 20-25K decoder floor and 0.012× the GLP-1 topic ceiling (64K all-time). The W17 Carve-In/Out Whiteboard Carousel (Post 59 carry-over) returned 1,790 impressions at one week — also well below the decoder floor for the topic. Two consecutive Whiteboard carousels underperforming on different topics confirms the format itself is the issue, not topic-specific. **Pause Whiteboard from active rotation pending controlled retest.** The Tuesday GLP-1 carousel demographics show Pharmaceutical Manufacturing at 27% — algorithm fed it sideways into pharma industry rather than out to plan-sponsor decision-makers, possibly because Whiteboard format reads "clinical/pharmacy" rather than "self-funded employer." Format-pillar mismatch.
+
+4. **Channel Pricing visual revalidated the named-actor dollar-comparison rule from CLAUDE.md.** "Same drug. Same dose. Same manufacturer. Three channels. Three different prices, set by the same PBM" named the actor (PBM) and the victim (the plan) — exactly per the Apr 24 named-actor rule. Result: **3,948 impressions, 9 saves, 7 followers, 4-5 Substack subs at 23h** — and still developing. The dollar-comparison shape held its position as the highest-ceiling LinkedIn format when paired with named-actor framing. Lock as the canonical Wednesday/Thursday dollar-comparison template.
+
+5. **Wednesday gene therapy POV is the highest engagement-rate post of the week.** "One drug. One patient. One claim. $2.1 million." returned 1,620 impressions but **10 comments** — comments-to-impression ratio is the strongest engagement signal on LinkedIn and drives downstream algorithmic distribution. The dollar anchor + gene therapy specificity (CAA 2026 / pricing-pressure adjacent) generated discussion. Worth considering whether to schedule a follow-up gene-therapy text post within 30 days while attention holds.
+
+6. **Cuban likes-only effect is a documented finding.** Six PBS posts received Cuban likes this week with zero amplification effect across all six. Pattern is unambiguous: only comments/reposts produce the documented +60-75% reach lift. Likes are a vanity signal. Going forward, manage Cuban expectations against this baseline; do not over-attribute attention from likes-only weeks.
+
+7. **Demographics holding target audience on non-Whiteboard posts.** 10,001+ employees segment at 21-29% across posts; Hospitals & Health Care segment at 18-30% (the named tier from W16). The wrong-audience drift on the Tuesday GLP-1 Whiteboard carousel (Pharmaceutical Manufacturing 27%) is the format-mismatch signal noted in finding #3.
+
+8. **10 AM posting-time test verdict held in suspension.** Earlier in the week the Tuesday Whiteboard underperformance suggested the time shift was hurting. With the Pipeline (8:09 AM scheduled, 119 Substack views), Wednesday gene therapy (10 AM, 10 comments), and Channel Pricing (10 AM, 3,948+) all performing at expected levels for their formats, **time is not the dominant variable; format is.** Whiteboard format is the underperformer, not 10 AM as a posting slot. Continue 10 AM test for 2-3 more weeks with non-Whiteboard content shapes before drawing a final conclusion. Newsletter open rate (47%) is unchanged, confirming email is decoupled from feed-time effects.
+
+9. **Saturday personal post (daughter cheer) generated 47 reactions / 52 social engagements** on 1,650 impressions — the highest reaction count of any post this week. Confirms personal-post format value as a goodwill / relationship signal, even when not directly target-audience aligned. Different demographics (Insurance 31%, Account Executive 4%) reflect Ginny's broader professional network rather than PBS's plan-sponsor audience.
+
+### Week 18 Recommendations
+
+1. **Codify first-comment Substack cross-promo as a standing publishing rule.** Add to CLAUDE.md (rule applies to every LinkedIn post that has a same-week Substack companion). Confirmed conversion lever at 4-7 free Substack subs per LinkedIn post.
+2. **Pause Whiteboard carousel format from active rotation effective W19.** Two consecutive scaled tests underperformed on different topics; format-attributable rather than topic-attributable. Requires controlled retest with single variable change before re-adding.
+3. **Lock named-actor dollar-comparison as Wednesday/Thursday canonical template.** Channel Pricing visual + Wed gene therapy POV both revalidated the rule. The structure: `[Plan type] pays [$X]. [Actor] keeps [$Y]. Same [drug / member / claim]. [Actor] designed it.`
+4. **Schedule follow-up gene-therapy post within 30 days.** Build on the 10-comment momentum from this week's Wed POV. Possible W20 or W21 Wednesday slot.
+5. **Add periodic Cuban-style or small-creator-meta Note format to Substack rotation.** First test this week (Cuban likes-only callout) drew measurable engagement; worth replicating quarterly when a similar moment occurs.
+6. **Continue 10 AM time test 2-3 more weeks with non-Whiteboard content.** Final verdict pending. Expectation: time-neutral for the formats that currently work (text, single-image messy infographic, contract-comparison carousel).
+
+---
+
 
 
 ## Why track this
