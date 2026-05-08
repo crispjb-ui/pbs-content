@@ -58,16 +58,17 @@
 
     .page {
       width: 8.5in;
-      height: 11in;
+      min-height: 11in;
       margin: 24px auto;
-      padding: 0.5in 0.7in 0.95in 0.7in;
+      padding: 0.5in 0.7in 0.55in 0.7in;
       background: var(--paper);
       color: #1a1a1a;
       box-shadow: 0 10px 36px rgba(0,0,0,0.4);
       position: relative;
+      display: flex;
+      flex-direction: column;
       page-break-after: always;
       break-after: page;
-      overflow: hidden;
     }
     .page:last-child { page-break-after: auto; break-after: auto; }
 
@@ -106,7 +107,7 @@
        TITLE BLOCK (page 1 only)
        ============================================================ */
     .title-block {
-      margin-bottom: 20px;
+      margin-bottom: 10px;
     }
     .title-eyebrow {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -147,14 +148,14 @@
        SECTION
        ============================================================ */
     .section {
-      margin-bottom: 14px;
+      margin-bottom: 3px;
     }
     .section-head {
       display: flex;
       align-items: baseline;
       gap: 10px;
-      margin-bottom: 8px;
-      padding-bottom: 4px;
+      margin-bottom: 4px;
+      padding-bottom: 2px;
       border-bottom: 1px solid var(--rule);
     }
     .section-num {
@@ -350,8 +351,8 @@
     .action-box {
       background: var(--primary);
       color: var(--white);
-      padding: 11px 14px;
-      margin-bottom: 8px;
+      padding: 7px 13px;
+      margin-bottom: 4px;
       border-left: 4px solid var(--accent);
     }
     .action-trigger {
@@ -384,14 +385,14 @@
       list-style: none;
     }
     .redline-list li {
-      padding: 6px 10px 6px 26px;
+      padding: 4px 10px 4px 24px;
       border-left: 3px solid var(--accent);
       background: #F8FAFC;
-      margin-bottom: 4px;
+      margin-bottom: 3px;
       position: relative;
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 11px;
-      line-height: 1.4;
+      font-size: 10.5px;
+      line-height: 1.3;
       color: #1a1a1a;
     }
     .redline-list li::before {
@@ -416,10 +417,7 @@
        FOOTER (every page)
        ============================================================ */
     .footer {
-      position: absolute;
-      left: 0.7in;
-      right: 0.7in;
-      bottom: 0.35in;
+      margin-top: auto;
       padding-top: 14px;
       border-top: 1px solid var(--rule);
       display: flex;
@@ -449,11 +447,11 @@
     .disclaimer {
       font-family: 'IBM Plex Sans', sans-serif;
       font-style: italic;
-      font-size: 9.5px;
+      font-size: 9px;
       color: var(--gray-2);
-      line-height: 1.4;
-      margin-top: 10px;
-      margin-bottom: 16px;
+      line-height: 1.3;
+      margin-top: 4px;
+      margin-bottom: 4px;
     }
 
     /* ============================================================
@@ -463,13 +461,17 @@
       html, body { background: none; }
       .doc-header { display: none; }
       .page {
+        width: auto;
         margin: 0;
+        padding: 0;
         box-shadow: none;
+        min-height: 0;
+        height: auto;
         page-break-after: always;
         break-after: page;
       }
       .page:last-child { page-break-after: auto; break-after: auto; }
-      @page { size: letter; margin: 0; }
+      @page { size: letter; margin: 0.35in 0.5in 0.35in 0.5in; }
     }
 
     /* ============================================================
@@ -538,8 +540,8 @@
     .cat-panel {
       border-left: 4px solid var(--accent);
       background: #FAFBFC;
-      padding: 9px 13px;
-      margin-bottom: 6px;
+      padding: 5px 12px;
+      margin-bottom: 3px;
     }
     .cat-head {
       display: flex;
@@ -566,15 +568,15 @@
     .cat-impact {
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 400;
-      font-size: 10.5px;
+      font-size: 10px;
       color: #1a1a1a;
-      line-height: 1.4;
-      margin-bottom: 5px;
+      line-height: 1.3;
+      margin-bottom: 3px;
     }
     .cat-checklist {
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 2px 16px;
+      gap: 1px 16px;
     }
     .cat-checklist .item {
       display: flex;
@@ -582,8 +584,8 @@
       gap: 7px;
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 400;
-      font-size: 10px;
-      line-height: 1.35;
+      font-size: 9.5px;
+      line-height: 1.25;
       color: #1a1a1a;
     }
     .cat-checklist .box {
@@ -627,14 +629,14 @@
       <span class="section-num">01</span>
       <h2 class="section-title">The Five Documentation Categories</h2>
     </div>
-    <p>Each panel names a category courts evaluate, the records that should live in your fiduciary file, and what "good" looks like for each. Check off each item that is currently in your file. Anything unchecked is a gap worth closing this quarter.</p>
+    <p style="font-size:10px;line-height:1.3;margin-bottom:6px;">Check off each item currently in your file. Anything unchecked is a gap worth closing this quarter.</p>
 
     <div class="cat-panel">
       <div class="cat-head">
         <span class="cat-name">PBM Selection and Procurement</span>
         <span class="cat-cost">Decision trail · pre-signing</span>
       </div>
-      <p class="cat-impact"><em>What good looks like:</em> a memo dated before contract signing that explains the decision, references the criteria, and documents which alternatives were considered and why they were passed over.</p>
+      <p class="cat-impact"><em>What good looks like:</em> a dated memo before signing that explains the decision and lists the alternatives considered.</p>
       <div class="cat-checklist">
         <div class="item"><span class="box"></span><span>RFP document with evaluation criteria defined before proposals</span></div>
         <div class="item"><span class="box"></span><span>Proposals from at least three PBM candidates</span></div>
@@ -650,7 +652,7 @@
         <span class="cat-name">Contract Negotiation</span>
         <span class="cat-cost">Redline trail · not a clean signature</span>
       </div>
-      <p class="cat-impact"><em>What good looks like:</em> evidence you did not sign the PBM's standard contract unchanged. A clean signature page with no redlines is the gap worth closing.</p>
+      <p class="cat-impact"><em>What good looks like:</em> evidence you did not sign the PBM's standard contract unchanged. A clean signature page is the gap.</p>
       <div class="cat-checklist">
         <div class="item"><span class="box"></span><span>Redlined contracts showing changes from PBM's initial terms</span></div>
         <div class="item"><span class="box"></span><span>Legal review from benefits counsel (not just general counsel)</span></div>
@@ -666,7 +668,7 @@
         <span class="cat-name">Ongoing Performance Monitoring</span>
         <span class="cat-cost">Quarterly cadence · most common gap</span>
       </div>
-      <p class="cat-impact"><em>What good looks like:</em> quarterly records showing someone reviewed the numbers, compared them to guarantees, and acted on shortfalls. This is where the most fiduciary gaps live.</p>
+      <p class="cat-impact"><em>What good looks like:</em> quarterly records showing someone reviewed the numbers against guarantees and acted on shortfalls.</p>
       <div class="cat-checklist">
         <div class="item"><span class="box"></span><span>Quarterly PBM performance reports against contract guarantees</span></div>
         <div class="item"><span class="box"></span><span>Independent analysis verifying PBM-reported performance</span></div>
@@ -682,7 +684,7 @@
         <span class="cat-name">Renewal and Amendment</span>
         <span class="cat-cost">Market check · not auto-renewal</span>
       </div>
-      <p class="cat-impact"><em>What good looks like:</em> evidence you treated renewal as a decision, not an automatic continuation. Auto-renewals are the easiest gap for a plaintiff to find.</p>
+      <p class="cat-impact"><em>What good looks like:</em> evidence renewal was a decision, not automatic. Auto-renewals are the easiest plaintiff gap.</p>
       <div class="cat-checklist">
         <div class="item"><span class="box"></span><span>Market check or RFP at renewal (even if you stay with the current PBM)</span></div>
         <div class="item"><span class="box"></span><span>Analysis comparing renewal terms to what else is available</span></div>
@@ -697,7 +699,7 @@
         <span class="cat-name">Committee Governance</span>
         <span class="cat-cost">Cadence + minutes · documented decisions</span>
       </div>
-      <p class="cat-impact"><em>What good looks like:</em> a regular cadence of documented meetings where pharmacy decisions are discussed, data is reviewed, and actions are recorded. Ad hoc, undocumented decision-making creates the most exposure in litigation.</p>
+      <p class="cat-impact"><em>What good looks like:</em> regular documented meetings where pharmacy decisions are discussed, data reviewed, actions recorded.</p>
       <div class="cat-checklist">
         <div class="item"><span class="box"></span><span>Named fiduciary or committee charter for pharmacy benefit oversight</span></div>
         <div class="item"><span class="box"></span><span>Regular meeting schedule, quarterly at minimum</span></div>

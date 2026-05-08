@@ -112,6 +112,10 @@ The one that frustrates me most: making smart decisions but never writing them d
 
 Fiduciary compliance comes down to this: can you show that you took reasonable steps to understand what was happening with plan dollars? Benchmarking. Auditing. Monitoring guarantees. Documenting decisions. Not defensive paperwork for its own sake, but genuinely prudent management with a trail that proves it.
 
+The full **Fiduciary Documentation Checklist** is available below as a printable plan-sponsor handout. Five categories, the records that should live in each, what "good" looks like, and a one-page test you can run on your file in 24 hours.
+
+**[EMBED PDF: `templates/documents/week_19_fiduciary_documentation_checklist.pdf`]**
+
 Have you audited your fiduciary documentation trail for pharmacy benefits? If you found gaps, leave a comment below. If this framework is useful, share it with your benefits team or legal counsel.
 
 ---
@@ -207,6 +211,10 @@ The trend in litigation is clear. Courts are not asking whether you got the abso
 
 The documentation you build today is the evidence you will need if your process is ever questioned. Start now.
 
+The full **Fiduciary Documentation Checklist** is attached below. Five categories, the records that should live in each, what "good" looks like, and a one-page test you can run on your file in 24 hours.
+
+**[EMBED PDF: `templates/documents/week_19_fiduciary_documentation_checklist.pdf`]**
+
 ---
 
 *This is a Field Note - shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
@@ -271,7 +279,7 @@ Start building the documentation now. The employer I mentioned wishes they had.
 
 ---
 
-This week's Benefit Blind Spots includes a **fiduciary documentation checklist**: the five categories of records you need, what "good" looks like for each, and a one-page test to identify gaps in your fiduciary defense. That checklist is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes a **Fiduciary Documentation Checklist** as a printable plan-sponsor handout: the five categories of records you need, what "good" looks like for each, and a one-page test to identify gaps in your fiduciary defense. That checklist is exclusive to the Substack: [SUBSTACK URL]
 
 ---
 
@@ -333,11 +341,19 @@ The quarterly review is where fiduciary documentation is built. Every question a
 **Dimensions:** 2240 x 1260 px
 **Template:** Reference Channel — "What I'd Ask" (Gray background)
 
-Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono subtitle changes per scenario.
+**Prompt (paste-ready):**
 
-**Per-instance overrides:**
-- Badge (top-right): "WHAT I'D ASK"
-- Plex Mono subtitle (22pt, white, tabular figures): `Scenario 02 · First PBM quarterly review`
+A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a solid Gray (#4D4D4D) background and generous negative space. No logos, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge, roughly 280px wide by 56px tall, with the text "WHAT I'D ASK" in Primary Blue (#015880), Plex Sans SemiBold, 26pt, +6% letter tracking. Central composition on the left half: a large stylized flat legal notepad, roughly 720px tall by 560px wide, Accent Blue (#A7E0FA) outline, with seven thin horizontal Accent Blue (#A7E0FA) lines representing ruled rows. Layered over the notepad, three oversized question marks "?" in Plex Sans SemiBold, vertically stacked: the topmost filled solid Accent Blue (#A7E0FA), the middle filled translucent white (#FFFFFF 40% opacity), the bottom as Accent Blue (#A7E0FA) outline only, each roughly 140pt. A flat pencil, white (#FFFFFF) shaft with an Accent Blue (#A7E0FA) tip and Accent Blue (#A7E0FA) eraser, sits at a 30-degree angle across the lower right corner of the notepad as if mid-stroke. Eight small tick marks in Accent Blue (#A7E0FA), evenly spaced, run along the left spiral binding edge of the notepad as a rhythmic texture. Below the composition, a two-tone headline reads "What I'd ask." with "What I'd" in white (#FFFFFF) and "ask." in Accent Blue (#A7E0FA), Plex Sans SemiBold, 72pt, -1% tracking. Beneath it in smaller type: "Scenario 02 · First PBM quarterly review" in Plex Mono Medium, 22pt, white (#FFFFFF) tabular figures. Flat editorial style, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: Gray (#4D4D4D) background, Accent Blue (#A7E0FA), white (#FFFFFF), Primary Blue (#015880) for the badge text only.
+
+**Post-Generation Steps:**
+
+1. Generate in the AI tool at 2240 x 1260 px
+2. Open in Canva at 2240 x 1260 px
+3. Verify exact hex values: Gray (#4D4D4D), Accent Blue (#A7E0FA), Primary Blue (#015880), white (#FFFFFF) — generators tend to drift on the gray
+4. If "WHAT I'D ASK" or "Scenario 02 · First PBM quarterly review" is misspelled or misaligned, overlay corrected text in Plex Sans SemiBold (badge) and Plex Mono Medium (subtitle)
+5. If the legal notepad renders with shading or texture, replace with a flat vector notepad and recolor to Accent Blue outline
+6. Verify the three stacked question marks read in the intended order (solid → translucent → outline) — generators sometimes flip the layering
+7. Export as PNG at 2240 x 1260 px
 
 # PART 3: LINKEDIN FEED POSTS
 
