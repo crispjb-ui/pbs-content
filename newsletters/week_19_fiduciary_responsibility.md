@@ -534,7 +534,31 @@ The full fiduciary framework is in this week's Pharmacy Benefits Briefing: [LINK
 - **Topic:** 5 Formulary Questions Your PBM Avoids
 - **Hook:** "Five questions about your formulary that your PBM will redirect, defer, or answer incompletely. Ask all five anyway."
 
-**Content outline (5 confrontational questions, each with one-line why-it-matters):**
+#### Post Copy
+
+Five questions about your formulary that your PBM will redirect, defer, or answer incompletely.
+
+Each one has an answer in your PBM's data. None of them shows up on the standard quarterly report. The contract is what decides whether they show up at all.
+
+What changed on your formulary last quarter, and why?
+Which drugs moved because of rebate contracts, not clinical evidence?
+What is the net cost on your top 10 drugs after all rebates and fees?
+Which tier decisions are overridden by the rebate aggregator?
+What is the therapy abandonment rate on your step-therapy drugs?
+
+We review approximately 100 PBM contracts annually at PBS. The strongest contracts require the answers to all five as standing quarterly deliverables. The weakest do not require any of them.
+
+Save this carousel for your next renewal conversation. Forward to your broker.
+
+#PBMTransparency #Formulary #PharmacyBenefits
+
+#### First Comment
+
+For protective contract language on quarterly reporting, rebate disclosure, and formulary management, our free PBM Contract Language Library lives on Substack: https://benefitblindspots.substack.com/p/pbm-contract-language-library
+
+Updated quarterly from patterns we see in client contract reviews.
+
+#### Content outline (5 confrontational questions, each with one-line why-it-matters)
 - Slide 1 (Hook): "5 Formulary Questions Your PBM Avoids." Accent Blue swipe indicator.
 - Slide 2 (Q1): "What changed on our formulary last quarter, and why?" Why it matters: formulary shifts drive member disruption and rebate flow. The "why" is almost always economic, not clinical.
 - Slide 3 (Q2): "Which drugs were added or removed because of rebate contracts?" Why it matters: clinical rationale and rebate rationale are different answers. You are entitled to both.
