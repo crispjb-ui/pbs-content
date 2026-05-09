@@ -531,16 +531,16 @@ The full formulary management analysis and field note on three questions your PB
 
 ---
 
-### Thursday Excellence Slot - 5 Step Therapy Override Terms Decoded — Marked-Up Contract Page Messy Infographic
+### Thursday Excellence Slot - 5 Step Therapy Override Terms Decoded — Sticky Note Dashboard Messy Infographic
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously "5 Rebate Retention Terms Decoded" sticky-note messy infographic. Displaced under Architecture B — rebate-retention content is closer to W20 (5 Rebate Terms Decoded just shipped) and W29 (Monday Rebate Economics) than ideal cadence allows. Replaced with 5 Step Therapy Override Terms Decoded that pairs with W26 Field Note "Auditing Your Step Therapy Override Workflow." Original 5 Rebate Retention Terms sticky-note carousel content preserved in `evergreen_visual_backlog.md` as concept #28 for a future PBM Contract Insights Thursday on a non-rebate Monday.
+> **NOTE (May 9, 2026):** This Thursday slot was previously "5 Rebate Retention Terms Decoded" sticky-note messy infographic. Replaced with 5 Step Therapy Override Terms Decoded under Architecture B + canvas-variation rule. Reformatted from Marked-Up Contract Page (default) to Sticky Note Dashboard messy infographic to vary the canvas across consecutive Thursdays — workflow-step topics map naturally to the sticky-note-on-corkboard composition.
 
-**Format:** Single messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px.
+**Format:** Single messy infographic, Sticky Note Dashboard aesthetic (yellow sticky notes pinned to gray corkboard). 1080 x 1350 px.
 **Pillar:** PBM Contract Insights
 **Field Note pairing:** Same-day Substack Field Note "Auditing Your Step Therapy Override Workflow."
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Step Therapy Override Audit Worksheet" — `templates/documents/week_26_thursday_step_therapy_override_audit.html/.pdf`.
 
-**Winning-profile traits hit (9 of 10):** decoder shape · dollar-comparison adjacent (cost of denial-driven therapy switching) · named-actor framing (PBM as actor running the workflow) · plan-sponsor-actionable · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
+**Winning-profile traits hit (9 of 10):** decoder shape · dollar-comparison adjacent (cost of denial-driven therapy switching) · named-actor framing (PBM as actor running the workflow) · plan-sponsor-actionable · confrontational hook · messy infographic format (Sticky Note Dashboard variant) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
 #### Post Copy
 
@@ -570,28 +570,34 @@ Save this for your next quarterly review.
 
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual override workflow (approval rate, denial reason mix, contract clause vs. workflow comparison). Plus a paste-ready Step Therapy Override Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 
-#### Marked-Up Contract Page Image Generation Prompt
+#### Sticky Note Dashboard Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 8.05 STEP THERAPY OVERRIDE." Below the header, five vertically stacked clause entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight, natural drop shadows. Six yellow sticky notes are pinned to the corkboard with brass pushpins in a clean two-column arrangement: one larger title note at the top spanning both columns, then five content notes stacked below in two columns. Each note is slightly angled (1-3 degrees off-axis), with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
 >
-> 1. **Override Trigger Conditions.** "Override pathway available upon documented prior medication trial, contraindication, intolerance, or clinical exception."
-> 2. **Documentation Burden.** "Prescriber shall submit chart notes, prior trial records, and clinical attestation in form prescribed by PBM."
-> 3. **Denial Appeal Timeline.** "Initial determination within fourteen (14) days. Prescriber appeal window: seven (7) days from denial notice."
-> 4. **Prescriber Attestation Language.** "Prescriber attests under penalty of clinical liability that override criteria are met as of date of submission."
-> 5. **Member Cost-Share Treatment.** "Member responsible for full price during override review period."
+> The title sticky note at the top, slightly larger than the others, reads in larger handwriting, double-underlined: "5 Override Workflow Failures"
 >
-> Five handwritten red ballpoint annotations:
-> - Red circle around "in form prescribed by PBM" in clause 2, red note: "PBM controls the burden"
-> - Red circle around "fourteen (14) days" in clause 3, red note: "Workflow rarely meets contract"
-> - Red circle around "penalty of clinical liability" in clause 4, red note: "Aggressive — deters prescribers"
-> - Red circle around "full price during override" in clause 5, red note: "Abandonment at counter"
-> - Red note pointing at clause 1 trigger list: "What documentation actually proves these?"
+> Below the title, five content sticky notes, each showing a quoted clause name in black Sharpie at the top of the note, followed by a short red-pen audit annotation:
 >
-> Top of page, handwritten black marker, double-underlined: "Five override clauses."
-> Below in red pen: "The workflow is rarely what the clauses describe."
-> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. When approval rate drops below 60%, the workflow is gating."
+> Note 1 (top-left): "Override Trigger Conditions" → red pen: "Contract names them. Workflow rarely accepts the documentation that proves them."
+> Note 2 (top-right): "Documentation Burden" → red pen: "PBM controls the form. Heavier burden = more 'insufficient documentation' denials."
+> Note 3 (middle-left): "Denial Appeal Timeline" → red pen: "Contract: 14 days. Workflow: rarely meets it."
+> Note 4 (middle-right): "Prescriber Attestation Language" → red pen: "Aggressive liability language deters prescribers from filing at all."
+> Note 5 (bottom-center): "Member Cost-Share During Override" → red pen: "Full price = abandonment at counter, regardless of medical necessity."
 >
-> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink as a summary card: "PBS reviews ~100 PBM contracts a year. Override approval rate <60% = workflow is gating. Audit the gap."
+>
+> A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
+>
+> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows under each sticky note. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style with marker pressure variation, uneven line spacing, minor Sharpie bleed) for authenticity. Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink for primary text, red Sharpie ink for audit annotations.
+
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the title note and five content notes at mobile size
+3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching Sharpie color
+4. Verify the title "5 Override Workflow Failures" is readable in feed thumbnail
+5. Verify the five clause names render distinctly across notes (most common AI failure: repeated text)
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+7. Export as PNG at 1080 x 1350
 
 ---
 
