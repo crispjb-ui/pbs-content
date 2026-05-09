@@ -149,42 +149,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Mail Order Economics: When It Saves and When It Does Not
+## Auditing Your Generic Effective Rate Against the Guarantee
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 16, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Cost Containment Strategies
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Generic Effective Rate Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the GER calculation vocabulary; Field Note is the operational follow-on for auditing actual GER performance against the contracted guarantee.
+**Why this pairing (not the displaced "Mail Order Economics" draft):** Architecture B triple-distinct topic rule — Monday W28 is Network Design (the channel mix decision); Thursday is Generic Effective Rate (the pricing performance metric that channel mix drives). Adjacent within PBM Contract Insights pillar, different subject matter (channel design vs. GER guarantee mechanics). Original "Mail Order Economics" Field Note parked as FN-11.
 
 ---
 
 ### Field Note Body
 
-We get asked about mail order pharmacy savings constantly. The assumption is usually that mail order is always cheaper. In our experience, that is mostly true for brand medications and not always true for generics.
+This morning's LinkedIn post decoded the five terms PBMs use to define the generic effective rate (GER): GER calculation methodology, exclusion list, multi-source vs. single-source generic treatment, MAC list update frequency, and remediation language. Today is the operational follow-on. You have the vocabulary. Here is how to audit your plan's actual GER against the contracted guarantee.
 
-Here is what the data actually shows.
+We run GER audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**Where mail order saves money**
+**Pass one: pull the actual GER from your claims data**
 
-For brand maintenance medications (90-day supplies), mail order almost always produces a lower cost per unit. The PBM negotiates volume-based pricing, the dispensing fee is lower than retail, and the manufacturer rebate structure often favors mail. When we compare retail vs. mail for the same brand drug on the same plan, the mail order cost is typically lower.
+Open your most recent quarterly report. Find the GER calculation. Verify the formula matches the contract's GER methodology clause: usually total generic ingredient cost as a percentage discount off AWP, with specific exclusions named.
 
-For specialty medications routed through a PBM-owned specialty pharmacy (which is functionally a mail order model), the pricing advantage depends heavily on the contract. Some PBMs pass through favorable specialty pricing. Others retain margin in the specialty channel that exceeds what the plan would pay through alternative specialty pharmacies. This is worth auditing independently.
+If the report's GER number is calculated differently than the contract methodology — different exclusion list, different denominator, different time window — the reported number is not the contracted number. PBMs sometimes report a GER under a methodology more favorable than the contracted methodology. The variance can be material.
 
-**Where mail order does not always save**
+**Pass two: compare actual GER to the guarantee**
 
-For generic medications, the math gets more complicated. Retail generic pricing has become very competitive, particularly at large chain pharmacies with loss-leader pricing strategies on common generics. In some cases, the retail generic cost (especially at 90-day supply through preferred retail networks) is lower than the PBM's mail order generic pricing.
+Your contract names a GER guarantee. Calculate the gap between actual GER and guarantee. If actual is meeting or exceeding guarantee, document and move on. If actual is below guarantee, the contract typically requires remediation. Many PBMs do not flag GER misses on their own; the plan sponsor has to find the gap.
 
-We have seen plans where the mail order generic effective rate was actually higher than the retail generic effective rate. This is not common, but it is not rare either. The only way to know is to compare.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: GER guarantee misses go unreconciled on most plans because the plan sponsor never calculates the comparison. The remediation clause is in the contract; the trigger is the audit.
 
-**How to evaluate for your plan**
+**Pass three: audit the exclusion list**
 
-Ask your PBM for a cost comparison: retail vs. mail, by drug category, net of all fees and rebates. Specifically request the comparison for brand maintenance, generic maintenance, and specialty medications separately. The aggregate "mail saves X%" number that PBMs often cite hides significant variation across categories.
+Open the GER methodology clause and find the exclusion list — drugs or categories excluded from the GER calculation. Common exclusions: limited-distribution drugs, specialty generics, single-source generics, drugs without competitive alternatives, drugs added to the formulary mid-year.
 
-Also evaluate member utilization patterns. Mandatory mail order (requiring members to use mail for maintenance medications after an initial retail fill) drives the highest savings but creates the most member friction. Voluntary mail order with cost-sharing incentives (lower copays for mail) produces less savings but better member satisfaction. The right approach depends on your plan's priorities.
+Compare the exclusion list to your top 25 generic claims. If high-volume generics are sitting in the exclusion list, the contracted GER guarantee applies to a smaller and smaller portion of your actual generic spend over time. The drift is usually invisible until audited.
 
-Your broker can help you model both scenarios and calculate the net impact for your specific population. The answer varies by plan, which is exactly why the default assumption ("mail is always cheaper") needs testing with your own data.
+**What to do this quarter**
+
+> **Pull the GER calculation methodology clause and the actual GER from your quarterly report.** Verify the formulas match.
+> **Calculate the gap between actual GER and guarantee.** Document any miss with the date range and dollar magnitude.
+> **Audit the exclusion list against your top 25 generic claims.** Identify drift.
+
+The decoded vocabulary tells you how GER is supposed to work. The audit tells you what your plan is actually getting. The remediation clause is how the gap closes.
 
 ---
 
@@ -196,21 +204,21 @@ Your broker can help you model both scenarios and calculate the net impact for y
 
 ### Field Note Meta
 
-**SEO Title:** Mail Order Pharmacy Economics: When It Saves and When It Does Not | Benefit Blind Spots
-**SEO URL Slug:** mail-order-pharmacy-savings-analysis
-**Meta Description:** Mail order is not always cheaper. Where it saves (brand maintenance), where it may not (generics), and how to compare for your specific plan.
-**Tags:** mail order pharmacy, cost containment, generic pricing, pharmacy network, self-funded employers
+**SEO Title:** Auditing Your Generic Effective Rate Against the Guarantee | Benefit Blind Spots
+**SEO URL Slug:** audit-generic-effective-rate-guarantee
+**Meta Description:** Five GER terms decoded this morning. Three audit passes plan sponsors can run on the contract's GER methodology, the pattern PBS sees most often, and the remediation lever.
+**Tags:** generic effective rate, GER guarantee, AWP discount, MAC list, PBM contracts, exclusion list, self-funded employers
 
 ---
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized mail truck icon in deep teal-blue (#015880) outline, roughly 300px wide, with "MAIL ORDER" rendered in deep teal-blue bold sans-serif text across the truck's side panel. The truck is rendered in forward motion with three short motion lines in Accent Blue (#A7E0FA) trailing behind it. A small dollar sign ($) in Accent Blue (#A7E0FA) sits above the truck with a downward arrow implying lower cost, while a second dollar sign ($$) in gray (#4D4D4D) with a line through it sits behind, representing the higher retail alternative. Three small prescription-bottle hash marks in Accent Blue sit along the truck's base. Below the truck, two-tone centered headline: "Mail Order Economics" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "When It Saves, When It Does Not" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: two flat-design percentage gauges in Primary Blue (#015880) outline, side-by-side, one labeled "GUARANTEE" (left) at a fixed position and one labeled "ACTUAL" (right) at a slightly lower position. Each gauge shows a percentage value rendered in Plex Mono Medium tabular figures (placeholder values, e.g., "85%" left and "82%" right). A bold horizontal Accent Blue (#A7E0FA) double-headed arrow runs between the two gauges, suggesting comparison. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the gap between them. Three numbered tick marks in Accent Blue (#A7E0FA) below the gauges, suggesting three audit passes. Below the composition, a two-tone centered headline: "Actual." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Guaranteed." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below, with a small em-rule between them suggesting subtraction. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One remediation clause." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above

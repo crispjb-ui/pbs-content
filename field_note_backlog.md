@@ -26,6 +26,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-08 | Three Conversations to Have Before Renewal Season | Self-Funded Employer Guidance | W25 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Renewal Countdown deep dive. Field Note retargeted to RFP Scoring Methodology pairing with W25 Thursday 5 RFP Scoring Methodology Terms Decoded) | available |
 | FN-09 | Three Formulary Questions Your PBM Should Answer Immediately | PBM Contract Insights | W26 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Formulary Management deep dive. Field Note retargeted to Step Therapy Override pairing with W26 Thursday 5 Step Therapy Override Terms Decoded) | available |
 | FN-10 | What a PBM Transition Actually Looks Like: Timeline and Pitfalls | Self-Funded Employer Guidance | W27 (displaced May 9, 2026 under Architecture B — Field Note borderline-matched Monday PBM Evaluation deep dive. Field Note retargeted to PBM Compensation Audit pairing with W27 Thursday 5 PBM Compensation Terms Decoded) | available |
+| FN-11 | Mail Order Economics: When It Saves and When It Does Not | Cost Containment | W28 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Network Design deep dive. Field Note retargeted to GER Audit pairing with W28 Thursday 5 GER Terms Decoded) | available |
 
 ---
 
