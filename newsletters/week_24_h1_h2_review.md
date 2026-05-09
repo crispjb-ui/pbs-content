@@ -190,58 +190,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Five Numbers That Determine Your Renewal Leverage
+## Auditing Your Mid-Year Contract Amendment Window
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, June 18, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** PBM Contracts
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Contract Amendment Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the contract vocabulary; Field Note is the operational follow-on for using the amendment window mid-year. First-comment cross-promo on the Thursday LinkedIn lands here.
+**Why this pairing (not the displaced "Five Numbers" draft):** Architecture B triple-distinct topic rule — Monday W24 is H1/H2 Review (the metrics that drive renewal leverage); Thursday is Contract Amendment language (the mechanism by which mid-year findings turn into contract changes). Adjacent within renewal-prep family, different subject matter (metrics vs. clauses). Original "Five Numbers That Determine Your Renewal Leverage" Field Note parked as FN-07.
 
 ---
 
 ### Field Note Body
 
-When we sit down with clients to prepare for PBM renewal negotiations, we start with five numbers. These are what determine whether you negotiate from strength or react to terms.
+This morning's LinkedIn post decoded the five contract clauses that govern mid-year amendments: amendment trigger language, notice period, materiality threshold, fee adjustment authority, and dispute resolution. Today is the operational follow-on. You have the vocabulary. Here is how to actually use the amendment window when your H1 review surfaces a finding.
 
-**1. Generic Effective Rate vs. Guarantee**
+We help clients run mid-year amendments as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-Your generic effective rate (GER) is the actual discount you receive on generic medications, expressed as a percentage of AWP. Compare it to your contract guarantee.
+**Pass one: identify the amendment-eligible findings**
 
-If your GER is meeting or exceeding the guarantee, you have confirmation your pricing is performing. If it is falling short, you have a documented shortfall that strengthens your position. That shortfall works as remedy under the current contract or as leverage in renewal discussions.
+Open your H1 review (or the most recent quarterly report) and pull every gap, miss, or anomaly. Then open your contract's amendment trigger clause. The clause names which conditions allow either party to request a contract amendment mid-term: performance guarantee misses, regulatory changes, formulary changes, materiality thresholds.
 
-The gap between actual GER and guarantee is one of the most concrete data points you can bring to a renewal table.
+For each H1 finding, check whether it falls inside an amendment trigger condition. Not every finding does. The ones that do are the leverage; the ones that do not are renewal-cycle conversations.
 
-**2. PMPM Trend vs. Benchmark**
+**Pass two: map the notice and materiality requirements**
 
-Your per-member-per-month cost trend tells you how fast your pharmacy spend is growing. The number alone is not enough. You need to compare it to market benchmarks.
+Find the notice period clause. Most contracts require 30, 60, or 90 days written notice before an amendment becomes effective. Find the materiality threshold clause. Some contracts require the proposed amendment to exceed a defined dollar or percentage threshold before the amendment process is even available.
 
-If your trend is above benchmark, something in your plan design, utilization patterns, or PBM management is driving higher cost growth. That is a problem to solve. If your trend is below benchmark, that is leverage. Your plan is performing well and your PBM should be motivated to retain the business.
+Document the notice deadline working backward from the date you want the amendment effective. If you want an amendment in place for Q4, the 90-day-notice window is starting now in mid-June. The amendment window is real, time-bounded, and often missed because plan sponsors do not track the deadline.
 
-**3. Specialty PMPM Trajectory**
+**Pass three: draft the amendment ask**
 
-Specialty pharmacy drives a large share of total drug spend for most plans. Track your specialty PMPM over the past 12 to 24 months and project forward.
+Use the decoded vocabulary from this morning's LinkedIn post. The amendment letter should reference: the specific contract clause being amended, the trigger condition that is being invoked, the proposed new language, the notice period being initiated, and the dispute resolution clause that applies if the PBM declines.
 
-Is specialty spend accelerating? Slowing down? Stable? The trajectory matters more than the current number because it tells you where cost pressure is heading. An accelerating specialty trajectory means your renewal should address specialty management programs, network strategies, and clinical criteria.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the amendment window is rarely used by plan sponsors. Most plans wait until renewal and absorb the H1 finding for two more quarters. The amendment window costs nothing to invoke and forces the PBM into a documented response — which is itself the most valuable record you can bring to renewal six months later.
 
-**4. Rebate Per Brand Claim**
+**What to do this quarter**
 
-Total rebates divided by total brand claims gives you rebate productivity per claim. Track this over time and compare to contract terms.
+> **Pull your H1 review findings and your contract's amendment trigger clause.** Match each finding to a trigger condition. Document the eligible amendments.
+> **Calculate the notice deadline working backward from the desired effective date.** Mid-June for Q4 effective. Late September for Q1 next year.
+> **Draft the amendment letter using the five decoded terms** (this morning's LinkedIn post). Send through your broker. Document the PBM's response in writing.
 
-A declining rebate per brand claim may point to formulary changes, manufacturer rebate reductions, or mix shifts working against you. If this number is going down while your PBM says rebate performance is strong, that disconnect is worth exploring before renewal.
-
-**5. High-Cost Claimant Count**
-
-The number of members with pharmacy claims exceeding a defined threshold (often $50,000 or $100,000 annually). Track both the count and the total spend associated with these claimants.
-
-High-cost claimant activity drives stop-loss discussions, specialty management strategy, and overall plan volatility. Knowing this number and its trend gives you context for every other renewal conversation.
-
-**How to use these in renewal**
-
-Compile all five metrics with 12 to 24 months of history. Benchmark against available market data. Figure out where your plan is performing well and where the gaps are.
-
-The employers who walk into renewal conversations with these five numbers documented and benchmarked negotiate different terms than those who rely on their PBM's summary reports. Your PBM controls the narrative when you do not have your own data. These five numbers change that.
+The H1 review is the diagnostic. The amendment window is the treatment. Both have to happen before renewal.
 
 ---
 
@@ -253,18 +245,18 @@ The employers who walk into renewal conversations with these five numbers docume
 
 ### Field Note Meta
 
-**SEO Title:** Five Numbers That Determine Your Renewal Leverage | Benefit Blind Spots
-**Meta Description:** The five specific metrics that drive PBM renewal negotiations: generic effective rate, PMPM trend, specialty trajectory, rebate productivity, and high-cost claimant count.
-**Tags:** PBM renewal, negotiation leverage, generic effective rate, PMPM trend, specialty pharmacy, rebates, self-funded employers
+**SEO Title:** Auditing Your Mid-Year Contract Amendment Window | Benefit Blind Spots
+**Meta Description:** Five contract amendment terms decoded this morning. Here is how to use the mid-year amendment window when H1 review surfaces a finding: three steps, the pattern PBS sees most often across 100 contract reviews per year, and the amendment letter draft.
+**Tags:** PBM contract amendment, mid-year amendment, contract clauses, performance guarantee, materiality threshold, self-funded employers, PBM contracts
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized five-tile dashboard icon in deep teal-blue (#015880) outline, roughly 400px wide, with "5 NUMBERS" rendered in deep teal-blue bold sans-serif text across the top header bar. Each of the five tiles contains a stylized metric icon (GER, PMPM, specialty %, rebate, claimants) in deep teal-blue. The middle tile is highlighted in Accent Blue (#A7E0FA) with a thin border ring as the primary accent. Three small trend-arrows in Accent Blue (#A7E0FA) point upward from three of the tiles indicating growth. Five hash-mark ticks in Accent Blue sit evenly spaced along the dashboard's bottom edge. Below the dashboard, two-tone centered headline: "Five Numbers" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "That Determine Your Leverage" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design contract page in Primary Blue (#015880) outline, roughly 380px tall, with "AMENDMENT" rendered in Plex Mono Medium uppercase across the top banner. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion underlining a clause on the contract. Above the contract page, a calendar icon in Accent Blue (#A7E0FA) shows three months ticked off (Jun, Jul, Aug) with the third month circled in red marker, suggesting the 90-day notice window. Three small numbered hash marks in Accent Blue (#A7E0FA) sit along the contract's left margin, suggesting three amendment passes. Below the composition, a two-tone centered headline: "Mid-Year." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Amendment Window." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three steps. One contract clause. Ninety days." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -692,52 +684,67 @@ The H1/H2 briefing covers the full assessment framework and renewal positioning 
 
 ---
 
-### Thursday Evergreen Rotation (Slot B) - Same diagnosis. Same drug. Different member out-of-pocket.
+### Thursday Excellence Slot - 5 Contract Amendment Terms Decoded — Marked-Up Contract Page Messy Infographic
 
-- **Slot:** B
-- **Format:** Carousel (6 slides)
-- **Pillar:** Cost Containment Strategies
-- **Topic:** Same diagnosis. Same drug. Different member out-of-pocket.
-- **Hook:** "Same diagnosis. Same drug. Three members at your company. Three different out-of-pocket bills. Benefit design is a variable, not a constant."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence (7+ trait standard) — Cost Containment pillar averages 3.2K impressions vs. PBM Contract Insights decoder floor of 20-25K, and Same OOP carousel did not pair with the Field Note. Replaced with Thursday Excellence Slot 5 Contract Amendment Terms Decoded messy infographic that pairs exclusively with the W24 Field Note "Auditing Your Mid-Year Contract Amendment Window." Original Same OOP carousel content preserved in `evergreen_visual_backlog.md` as concept #26 for a future Cost Containment Thursday on a non-benefit-design Monday.
 
-**Content outline (Same/Same/Different structure, parallel lines then punchline):**
-- Slide 1 (Hook): "Same diagnosis. Same drug. Different out-of-pocket." Swipe indicator in Accent Blue.
-- Slide 2 (Member A): "Retail fill. Tier 2 brand. Standard copay. One out-of-pocket amount."
-- Slide 3 (Member B): "Mail-order fill. Same drug. Different tier handling. Different out-of-pocket."
-- Slide 4 (Member C): "Specialty channel. Same drug. Coinsurance instead of copay. Different out-of-pocket entirely."
-- Slide 5 (Punchline): "Same diagnosis. Same drug. Three members. Three bills. One benefit design creating all three." Accent Blue underline under "One benefit design."
-- Slide 6 (CTA): Primary Blue background. White: "Benefit design is a choice. Model it before the complaints arrive." team@rxbs.org | Benefit Blind Spots | PBS logo.
+**Format:** Single messy infographic, Marked-Up Contract Page aesthetic (paper-card photoreal). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights (highest-converting decoder pillar; W18 Channel Pricing 17K precedent)
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your Mid-Year Contract Amendment Window."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Contract Amendment Letter Template" — `templates/documents/week_24_thursday_contract_amendment_letter.html/.pdf` (paste-ready amendment letter referencing the five decoded clauses + notice deadline calculator).
 
-#### Same/Same/Different Carousel Concept
+**Winning-profile traits hit (9 of 10 — clears 7+ bar):** decoder shape · dollar-comparison adjacent (the cost of NOT amending mid-year) · named-actor framing (PBM as actor; contract amendment trigger as plan-sponsor lever) · plan-sponsor-actionable (amendment letter draft) · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor (~100 contracts/year) · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five contract clauses govern mid-year amendments. Most plan sponsors never invoke any of them.
 
-**Setting:** Three insurance Explanation of Benefits (EOB) pages side by side.
+I review approximately 100 PBM contracts a year at PBS. The amendment trigger clause is in nearly every contract. The amendment letter is in almost no plan sponsor's inbox. H1 review surfaces a finding; the plan absorbs it for two more quarters; the renewal cycle inherits a worse position than necessary.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five clauses to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking insurance Explanation of Benefits pages are laid out side by side on a clean light gray surface, evenly spaced. Each page has the header "Explanation of Benefits" printed at the top, followed by the same diagnosis code and same drug name on each page. Reading left to right, each page shows a different "Member Responsibility" total line item in larger bold type. Each EOB shows slightly different processing stamps and channel labels (Retail, Mail Order, Specialty) printed near the top. No logos, no brand marks, no people, no text outside the pages.
+1. **Amendment Trigger Language.** Names which conditions allow either party to request an amendment mid-term: performance guarantee misses, regulatory changes, formulary changes, materiality thresholds. Read it before the next H1 review.
+
+2. **Notice Period.** 30, 60, or 90 days written notice before an amendment becomes effective. Mid-June is the 90-day window for Q4 effective. Late September is the window for Q1 next year. Calculate the deadline working backward.
+
+3. **Materiality Threshold.** Some contracts require the proposed amendment to exceed a defined dollar or percentage threshold before the process is even available. Map this against your H1 finding before drafting the ask.
+
+4. **Fee Adjustment Authority.** Whether the PBM can change administrative fees mid-term unilaterally vs. requiring plan sponsor consent. The default in most contracts is more PBM-favorable than plan sponsors realize.
+
+5. **Dispute Resolution Clause.** What happens if the PBM declines the proposed amendment. Arbitration timeline, named forum, fee allocation. Read this before sending the amendment letter, not after.
+
+The amendment window costs nothing to invoke. The amendment letter forces a documented PBM response. That response is the most valuable record you can bring to renewal six months later.
+
+Save this for next quarter's H1 review.
+
+#PBMContracts #ContractAmendment #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually use the amendment window when H1 review surfaces a finding. Three steps (identify amendment-eligible findings, calculate the notice deadline, draft the amendment letter) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Contract Amendment Letter Template you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Marked-Up Contract Page Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 11.04 AMENDMENT AND MODIFICATION." Below the header, five vertically stacked clause entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
 >
-> Above the three EOBs, in clean bold handwriting on the surface: Same diagnosis. Same drug. Three bills.
+> 1. **Amendment Trigger.** "Either party may propose an amendment upon Material Change in regulatory environment, performance guarantee miss, or formulary modification."
+> 2. **Notice Period.** "Proposed amendments shall be effective ninety (90) days following written notice to the non-proposing party."
+> 3. **Materiality Threshold.** "Material Change defined as five percent (5%) or greater impact on aggregate contract economics."
+> 4. **Fee Adjustment Authority.** "PBM may adjust administrative fees upon thirty (30) days written notice without Plan Sponsor consent."
+> 5. **Dispute Resolution.** "Disputed amendment requests subject to binding arbitration under American Arbitration Association rules."
 >
-> Below the EOBs, in smaller handwriting: One benefit design creating all three.
+> Five handwritten red ballpoint annotations in the margins:
+> - Red circle around "Either party may propose" in clause 1, with red note: "Plan sponsor side, too"
+> - Red circle around "ninety (90) days" in clause 2, red note: "Mid-June for Q4 effective"
+> - Red circle around "five percent" in clause 3, red note: "Map your H1 findings"
+> - Red circle around "without Plan Sponsor consent" in clause 4, red note: "Default is PBM-favorable"
+> - Red circle around "binding arbitration" in clause 5, red note: "Read before sending letter"
 >
-> Style: realistic document photography, soft even daylight, subtle shadows under each page, slight paper curl at corners. Colors: off-white EOB pages with black printed text, light gray surface, black handwritten ink.
-
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Three EOB pages photo described above. Overlay: "Same diagnosis. Same drug. Different out-of-pocket." Swipe indicator in Accent Blue.
-- Slide 2 (Member A): "Retail fill. Tier 2 brand. Standard copay. One out-of-pocket amount."
-- Slide 3 (Member B): "Mail-order fill. Same drug. Different tier handling. Different out-of-pocket."
-- Slide 4 (Member C): "Specialty channel. Same drug. Coinsurance instead of copay. Different out-of-pocket entirely."
-- Slide 5 (Punchline): "Same diagnosis. Same drug. Three members. Three bills. One benefit design creating all three." Accent Blue underline under "One benefit design."
-- Slide 6 (CTA): Primary Blue background. White text: "Benefit design is a choice. Model it before the complaints arrive." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any EOB header or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+> Top of page, handwritten black marker double-underlined: "Five amendment clauses."
+> Below in red pen: "Most plan sponsors never invoke any of them."
+> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. The window is rarely used."
+>
+> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white contract paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks, no people, no PBM names.
 
 ---
 
