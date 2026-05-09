@@ -590,10 +590,33 @@ The mid-year claims briefing covers why the first-half data window is the most v
 ### Thursday Evergreen Rotation (Slot A) - 5 Admin Fee Terms Decoded
 
 - **Slot:** A
-- **Format:** Messy Infographic
+- **Format:** Messy Infographic (photorealistic contract-page-with-red-pen aesthetic per the W18 Channel Pricing secret-sauce thesis)
 - **Pillar:** PBM Contract Insights
 - **Topic:** 5 Admin Fee Terms Decoded
-- **Hook:** "Admin fees sound administrative. They are revenue. Here is what those five line items actually mean."
+- **Hook:** "Five admin fee line items on your monthly PBM invoice. Five definitions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin."
+- **Winning-profile traits hit:** decoder shape ✓ · named-actor framing (PBM as the actor naming the fees) ✓ · plan-sponsor-actionable (read your invoice, audit the fees) ✓ · confrontational hook ✓ · messy infographic format ✓ · first-comment Substack cross-promo (to same-day Admin Fee audit Field Note) ✓ · proprietary anchor (~100 contracts/year) ✓ · save-driven structure (5-term reference) ✓ · single-image photoreal aesthetic ✓ — **9 of 10 traits.**
+
+#### Post Copy
+
+Five admin fee line items on your monthly PBM invoice. Five descriptions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin.
+
+I review approximately 100 PBM contracts a year at PBS. The same five line items show up under different labels on nearly every contract. The labels change. The underlying revenue does not.
+
+Administrative fee. Claims processing fee. Network access fee. Manufacturer admin fee. Data fee.
+
+Each one is a place the PBM sits between you and a vendor, a member, or a manufacturer — and bills you for the privilege.
+
+The decoder is in the image. Match each PBM definition against what your contract should require it to mean. Where they diverge, that is the audit conversation worth having before your next renewal.
+
+Save this for your next PBM meeting. Forward to your broker.
+
+#PBMContracts #SelfFundedEmployers #PharmacyBenefits
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually audit these line items on your monthly PBM invoice. Three-outcome diagnostic, the five patterns we see most often after ~100 PBM contract reviews annually, and what to do with unauthorized fees at renewal.
+
+[SUBSTACK FIELD NOTE URL]
 
 **Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
 - "Administrative fee" - PBM means: per-member-per-month fee for processing claims. Read it as: the visible portion of PBM revenue. The rest sits elsewhere.
