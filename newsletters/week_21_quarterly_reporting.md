@@ -534,13 +534,40 @@ The data exists. Whether your contract requires it to be shown is the conversati
 ---
 
 ## Post 75 - Thursday 8:30 AM
-### Thursday Evergreen Rotation (Slot B) - Same MAC. Different dispensing channel. Different margin.
+### Thursday Excellence Slot (Slot B) - Same MAC. Different dispensing channel. Different margin.
 
-- **Slot:** B
-- **Format:** Carousel (6 slides)
-- **Pillar:** Cost Containment Strategies
+- **Slot:** Thursday Excellence (Slot B category — Same/Same/Different photoreal carousel)
+- **Format:** Carousel (6 slides), photoreal three-receipt aesthetic per the W18 Channel Pricing secret-sauce thesis
+- **Pillar:** Transparency & Industry Education (with ChannelPricing topic anchor)
 - **Topic:** Same MAC. Different dispensing channel. Different margin.
-- **Hook:** "Same MAC price. Same drug. Different dispensing channel. Different margin. The MAC is a price list. The margin is the story."
+- **Hook:** "Same MAC list. Same drug. Three dispensing channels. Three different margins, all set by the same PBM."
+- **Winning-profile traits hit:** decoder shape ✓ · dollar comparison shape (MAC vs. margin spread) ✓ · named-actor framing (PBM as actor deciding margins) ✓ · plan-sponsor-actionable (ask for the margin alongside the MAC) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-receipt carousel) ✓ · first-comment Substack cross-promo ✓ · proprietary anchor (~100 contracts/year) ✓ · save-driven structure ✓ — **9 of 10 traits.**
+
+#### Post Copy
+
+Same MAC list. Same drug. Three dispensing channels. Three different margins, all set by the same PBM.
+
+The MAC list is public. The margin is not.
+
+Retail chain pharmacy: MAC sets ingredient reimbursement, dispensing fee attached, one margin.
+
+Mail order: same MAC list on paper, different ingredient spread applied to the PBM, different margin.
+
+PBM-owned pharmacy: same MAC, different internal transfer pricing, different margin entirely.
+
+I review approximately 100 PBM contracts a year at PBS. The MAC clause is in every contract. The margin clause — the part that decides who keeps the difference between MAC and what the pharmacy actually gets paid — is in fewer than half.
+
+Same MAC. Three channels. Three margins. One PBM deciding who sees which number.
+
+Ask for both. Save this for your next renewal conversation.
+
+#PBMTransparency #ChannelPricing #PharmacyBenefits
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the broader frame: five lines to read first in your PBM's quarterly report. Net cost per channel (the MAC margin question above) is line 1; the other four are rebate gross-to-net, PA approval and denial rates, specialty drug routing, and the signed PBM attestation. Thirty-minute read with your most recent quarterly report next to you.
+
+[SUBSTACK FIELD NOTE URL]
 
 **Content outline (Same/Same/Different structure, parallel lines then punchline):**
 - Slide 1 (Hook): "Same MAC. Different channel. Different margin." Swipe indicator in Accent Blue.
