@@ -143,71 +143,83 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## How to Read a PBM Utilization Report Without Getting Lost
+## How Plan Sponsors Actually Enforce Audit Rights
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, June 11, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Self-Funded Employer Guidance
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
 
 ---
 
 ### Field Note Body
 
-We sit down with clients regularly to review PBM utilization reports. The most common reaction when we open the file together: "I have received these reports for years and never known what to focus on."
+Tuesday's LinkedIn carousel walked through the five clauses that decide whether your audit happens on your terms or theirs. Today's field note is what comes next: how to actually run the audit once the contract has the right language.
 
-That is not a knowledge failure. It is a design problem. PBM utilization reports are built for PBM analysts, not for employers. The data is there. The narrative is not. Here is how to find what matters.
+Audit rights in the contract are necessary. They are not sufficient. The contract gives you the *authority* to look. The audit is what you find when you look. We run audits as a standard part of our work at PBS. Here is what they actually look like.
 
-**Start with three reports, not ten**
+**The audit is a comparison, not an inspection**
 
-Most PBMs provide a stack of reports monthly or quarterly. You do not need to read all of them to identify problems. Start with three: the utilization summary by therapeutic category, the cost trending report (PMPM over time), and the rebate performance summary.
+A PBM audit is not a forensic accounting exercise. It is a comparison between what the contract requires and what the data shows. Three comparison passes do most of the work.
 
-These three reports, reviewed together, tell you whether spend is being driven by utilization changes or cost changes, which drug categories are moving the numbers, and whether rebate performance is keeping pace with cost growth. Everything else is supporting detail you can dig into once you know where to look.
+First pass: contract guarantees vs. actual performance. Pull the rebate guarantee, the AWP discount guarantee, the dispensing-fee guarantee — every guaranteed minimum the contract names. Pull the actual performance from the claims and rebate data over the same period. Diff the two. Where actual performance fell below guarantee, the contract typically requires remediation. Many PBMs do not flag misses on their own.
 
-**What to look for in the utilization summary**
+Second pass: contract reporting requirements vs. actual reports delivered. Open your contract's reporting clause. Mark every line item the PBM is required to deliver. Pull the last year of quarterly reports. Mark which line items appeared and which did not. Items missing from the reports are contract violations *and* audit findings — both worth raising.
 
-The utilization summary breaks down claims by therapeutic category. Focus on two things: the categories with the highest total spend, and the categories with the highest growth rate compared to the prior period. High spend tells you where the money goes. High growth tells you where the money is going. Those are different questions with different interventions.
+Third pass: claim-level pricing vs. contracted pricing. Pull a sample of high-cost claims (top 50 by spend). For each, recalculate what the contract says the plan should have paid (AWP discount, dispensing fee, applicable rebate) and compare to what was actually paid. Material variances are the audit's most concrete findings.
 
-Within each high-growth category, identify the top drugs by spend. Are they new-to-market therapies? Dose escalations on existing therapies? Volume increases across the category? The answer determines whether the issue is formulary management, utilization management, or population health trending.
+**What plan sponsors find most often**
 
-**What to look for in cost trending**
+After approximately 100 PBM contract reviews and audits annually at PBS, the consistent patterns:
 
-The PMPM trend report shows your per-member-per-month cost over time. Look for two patterns: the overall slope (is PMPM accelerating, stable, or decelerating?) and any sudden step changes (months where PMPM jumps significantly). Gradual increases reflect market trends. Sudden jumps usually reflect specific events: a new high-cost claimant, a specialty therapy start, or a formulary change that shifted utilization.
+> **1. Guarantee misses that were never reconciled.** The contract requires reconciliation; the PBM never produced the report. Plan paid more than the guarantee allowed and never got the true-up.
 
-Flag the step changes. Each one has a cause. Understanding the cause tells you whether the trend will continue or normalize.
+> **2. Reporting requirements that were quietly ignored.** Line items in the contract that did not appear in the quarterly reports. Plan never knew the data existed.
 
-**What to look for in rebate performance**
+> **3. Generic-classification reclassifications.** Drugs that started the contract as generics moved to brand status mid-term, lifting them out of the generic-discount guarantee. Sometimes legitimate; sometimes margin-driven.
 
-The rebate summary typically shows total rebates and may show rebates by category. Calculate rebate per claim by dividing total rebates by total claims. Track this quarterly. Declining rebate per claim may signal formulary changes, manufacturer contract shifts, or movement away from rebate-eligible products. Rising rebate per claim does not automatically mean better performance if total spend is rising faster.
+> **4. Specialty drugs routed off-network.** Specialty fills directed to PBM-affiliated pharmacies at higher per-unit cost than the contracted rate would have allowed at non-affiliated pharmacies.
 
-**The question to bring to your broker**
+> **5. Rebate categories excluded from pass-through.** Manufacturer payments classified as "fees" or "data licensing" rather than "rebates" — outside the rebate pass-through clause by definition.
 
-After reviewing these three reports, bring one question to your next meeting with your broker or consultant: "Based on this data, what is different about our cost trajectory compared to six months ago, and what should we do about it before renewal?" That question turns a data review into a strategy conversation.
+**What to do with audit findings**
+
+> **Document everything in writing.** PBM responses, dates, and any remediation offered. The findings file becomes the renewal leverage.
+
+> **Set a remediation deadline.** The contract typically requires the PBM to remediate within a defined window. Hold the deadline; do not let it drift.
+
+> **Bring findings to the broker.** Your broker handles the PBM conversation; you keep the audit posture neutral. Adversarial findings handled by an intermediary land better than direct confrontation.
+
+> **Bring findings to renewal.** Audit history is the strongest renewal-negotiation asset a plan sponsor has. The PBM that knows you audit is the PBM that performs against the contract.
+
+The contract clauses (in Tuesday's carousel) are the prerequisite. The audit (above) is the act. Both have to happen.
 
 ---
 
 *This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
 
-*Questions? Reach out at team@rxbs.org.*
+*Questions on running a PBM audit? Reach out at team@rxbs.org.*
 
 ---
 
 ### Field Note Meta
 
-**SEO Title:** How to Read a PBM Utilization Report Without Getting Lost | Benefit Blind Spots
-**Meta Description:** PBM utilization reports are built for PBM analysts, not employers. Three reports to focus on, what to look for in each, and the one question to bring to your broker.
-**Tags:** PBM reporting, utilization reports, claims data, self-funded employers, pharmacy benefits, data analysis
+**SEO Title:** How Plan Sponsors Actually Enforce Audit Rights | Benefit Blind Spots
+**Meta Description:** Audit rights in the contract are necessary but not sufficient. The three comparison passes that do most of the audit work, the five patterns plan sponsors find most often, and what to do with the findings.
+**Tags:** PBM audit, audit rights, PBM contracts, pharmacy benefits, self-funded employers, mid-year claims
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
+**Background:** White (#FFFFFF)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized utilization-report document in deep teal-blue (#015880) outline, roughly 300px tall, with "UTILIZATION REPORT" rendered in deep teal-blue bold sans-serif text across the top banner. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion annotating a row on the report, with one circled data point highlighted in Accent Blue. Four small margin-note brackets in Accent Blue (#A7E0FA) sit along the document's right edge, each pointing at a report row. Five bar-chart hash marks ascending in the report body render in alternating deep teal-blue and Accent Blue. Below the document, two-tone centered headline: "How to Read" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "a PBM Utilization Report" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: two flat-design contract documents in Primary Blue (#015880) outline, side-by-side, each roughly 380px tall, slightly overlapping. The left document is labeled "CONTRACT" in small Plex Mono Medium uppercase letters across its top banner; the right document is labeled "PERFORMANCE" in the same style. A bold horizontal Accent Blue (#A7E0FA) double-headed arrow runs across the top of both documents, suggesting comparison. Below the documents, three Accent Blue (#A7E0FA) numbered tick marks (1, 2, 3) running horizontally, evenly spaced, suggesting the three comparison passes (guarantees vs. actual; reporting requirements vs. delivered reports; claim-level pricing vs. contracted pricing). On each document, two thin Accent Blue rules running horizontally suggest data lines. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the seam between the two documents at the bottom-center, with its lens roughly 90px diameter. Below the composition, a two-tone centered headline reading "Audit rights are the *authority*." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "The audit is the *act*." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. (Italic emphasis on "authority" and "act.") Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt centered: "Three comparison passes that do most of the work." No grid pattern, no textured background, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above

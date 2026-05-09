@@ -17,6 +17,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | ID | Title | Pillar | Source week | Status |
 |----|-------|--------|-------------|--------|
 | FN-01 | One Drug Class to Watch: The Next Wave of GLP-1 Approvals | Clinical Pharmacy | W18 (displaced May 5, 2026 when W18 Thursday Field Note was retargeted to Channel Pricing to match the Thursday LinkedIn visual + Plan Sponsor Toolkit handout) | available |
+| FN-02 | How to Read a PBM Utilization Report Without Getting Lost | Self-Funded Employer Guidance | W23 (displaced May 8, 2026 when W23 Thursday Field Note was retargeted to Audit Rights enforcement to pair with Library 03 Tuesday carousel) | available |
 
 ---
 
@@ -104,3 +105,71 @@ GLP-1 management is not a one-time formulary decision. It is an ongoing strategy
 **Prompt:**
 
 A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized pill capsule icon in deep teal-blue (#015880) outline, roughly 300px wide, with "GLP-1" rendered in deep teal-blue Plex Sans SemiBold text inside the capsule body. Three arrows radiate outward from the capsule in Accent Blue (#A7E0FA): one to the upper right, one to the lower right, one horizontally right. Each arrow tip points at a small rounded label in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text reading "CARDIO," "KIDNEY," and "NASH" respectively. Three small numbered dots in Accent Blue (#A7E0FA) sit at the arrow origins where they touch the capsule. Below the capsule, two-tone centered headline: "The Expansion" in deep teal-blue (#015880) Plex Sans SemiBold (40-48pt), with "You Need to Prepare For" in Accent Blue (#A7E0FA) Plex Sans SemiBold immediately below. A small Accent Blue (#A7E0FA) pill-shaped "FIELD NOTE" badge in the top right corner with deep teal-blue (#015880) Plex Sans SemiBold text. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+---
+
+## FN-02: How to Read a PBM Utilization Report Without Getting Lost
+
+**Original week:** 23 (June 11, 2026 publish date — needs re-anchoring before reuse)
+**Pillar:** Self-Funded Employer Guidance
+**Length:** ~550 words (~3 min read)
+**Tone:** Practical, tactical
+**Why it was displaced:** W23 Thursday Field Note was retargeted to Audit Rights enforcement to pair with the W23 Tuesday Library 03 Contract Comparison Carousel (Audit Rights provision family). The first-comment Substack cross-promo on the Tuesday carousel now lands on the Audit Rights Field Note, creating a tighter sub-conversion package per the Field-Note-pairing rule. This Field Note remains a strong standalone Self-Funded Employer Guidance field note and should be slotted into a future Thursday whose Tuesday LinkedIn post is not on contract-language redlines.
+
+**Re-anchoring notes before reuse:**
+- "We sit down with clients regularly to review PBM utilization reports" — opener stays evergreen, no anchoring needed.
+- No specific dates in body, fully reusable.
+- Pillar (Self-Funded Employer Guidance) maps cleanly to most weeks; verify the destination week's pillar mix before slotting.
+
+---
+
+### Field Note Body (FN-02 draft)
+
+We sit down with clients regularly to review PBM utilization reports. The most common reaction when we open the file together: "I have received these reports for years and never known what to focus on."
+
+That is not a knowledge failure. It is a design problem. PBM utilization reports are built for PBM analysts, not for employers. The data is there. The narrative is not. Here is how to find what matters.
+
+**Start with three reports, not ten**
+
+Most PBMs provide a stack of reports monthly or quarterly. You do not need to read all of them to identify problems. Start with three: the utilization summary by therapeutic category, the cost trending report (PMPM over time), and the rebate performance summary.
+
+These three reports, reviewed together, tell you whether spend is being driven by utilization changes or cost changes, which drug categories are moving the numbers, and whether rebate performance is keeping pace with cost growth. Everything else is supporting detail you can dig into once you know where to look.
+
+**What to look for in the utilization summary**
+
+The utilization summary breaks down claims by therapeutic category. Focus on two things: the categories with the highest total spend, and the categories with the highest growth rate compared to the prior period. High spend tells you where the money goes. High growth tells you where the money is going. Those are different questions with different interventions.
+
+Within each high-growth category, identify the top drugs by spend. Are they new-to-market therapies? Dose escalations on existing therapies? Volume increases across the category? The answer determines whether the issue is formulary management, utilization management, or population health trending.
+
+**What to look for in cost trending**
+
+The PMPM trend report shows your per-member-per-month cost over time. Look for two patterns: the overall slope (is PMPM accelerating, stable, or decelerating?) and any sudden step changes (months where PMPM jumps significantly). Gradual increases reflect market trends. Sudden jumps usually reflect specific events: a new high-cost claimant, a specialty therapy start, or a formulary change that shifted utilization.
+
+Flag the step changes. Each one has a cause. Understanding the cause tells you whether the trend will continue or normalize.
+
+**What to look for in rebate performance**
+
+The rebate summary typically shows total rebates and may show rebates by category. Calculate rebate per claim by dividing total rebates by total claims. Track this quarterly. Declining rebate per claim may signal formulary changes, manufacturer contract shifts, or movement away from rebate-eligible products. Rising rebate per claim does not automatically mean better performance if total spend is rising faster.
+
+**The question to bring to your broker**
+
+After reviewing these three reports, bring one question to your next meeting with your broker or consultant: "Based on this data, what is different about our cost trajectory compared to six months ago, and what should we do about it before renewal?" That question turns a data review into a strategy conversation.
+
+---
+
+### Field Note Meta (FN-02 draft)
+
+**SEO Title:** How to Read a PBM Utilization Report Without Getting Lost | Benefit Blind Spots
+**Meta Description:** PBM utilization reports are built for PBM analysts, not employers. Three reports to focus on, what to look for in each, and the one question to bring to your broker.
+**Tags:** PBM reporting, utilization reports, claims data, self-funded employers, pharmacy benefits, data analysis
+
+### Field Note Header Image Prompt (FN-02 draft)
+
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
+**Background:** White (#FFFFFF)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized utilization-report document in deep teal-blue (#015880) outline, roughly 300px tall, with "UTILIZATION REPORT" rendered in deep teal-blue Plex Sans SemiBold text across the top banner. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion annotating a row on the report, with one circled data point highlighted in Accent Blue. Four small margin-note brackets in Accent Blue (#A7E0FA) sit along the document's right edge, each pointing at a report row. Five bar-chart hash marks ascending in the report body render in alternating deep teal-blue and Accent Blue. Below the document, two-tone centered headline: "How to Read" in deep teal-blue (#015880) Plex Sans SemiBold (40-48pt), with "a PBM Utilization Report" in Accent Blue (#A7E0FA) Plex Sans SemiBold immediately below. A small Accent Blue (#A7E0FA) pill-shaped "FIELD NOTE" badge in the top right corner with deep teal-blue (#015880) Plex Sans SemiBold text. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
