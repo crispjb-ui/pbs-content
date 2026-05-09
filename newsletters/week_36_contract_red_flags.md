@@ -146,31 +146,46 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Data Ownership and Portability: The Clause That Determines Your Exit Options
+## Auditing How Your PBM Defines the Same Words Your Old Contract Defined
 
 **Publish:** Thursday, September 10, 2026 at 7:30 AM EST
-**Length:** ~450 words
+**Length:** ~580 words
 **Pillar:** PBM Contract Insights
+**Type:** Field Note
+**Pairs with:** Thursday LinkedIn "Same contract language. Different interpretations. Different outcomes." Three-Contract Photoreal Same/Same/Different carousel. LinkedIn post shows three PBMs reading the same clause three different ways; Field Note is the operational follow-on for auditing definition variance in your own contract history.
+**Why this pairing (not the displaced "Data Ownership and Portability" draft):** Architecture B triple-distinct topic rule — Monday W36 is Contract Red Flags (broad contract evaluation); Thursday is Definition Variance (how the same words mean different things across contracts). Adjacent within PBM Contract Insights pillar, different subject matter. Original "Data Ownership and Portability" Field Note parked as FN-18.
 
 ---
 
 ### Field Note Body
 
-We have guided clients through PBM transitions where the data portability clause became the biggest obstacle. The employer decided to switch. The new PBM needed claims history, PA records, and accumulator data. The departing PBM took weeks to provide it, citing "standard processing timelines." The transition was delayed. Members experienced coverage gaps. All because the contract did not specify data delivery requirements.
+This morning's LinkedIn post showed three PBMs reading the same ten-word clause three different ways. Today is the operational follow-on. You have the framing. Here is how to audit definition variance in your own contract history — the renewal-by-renewal drift that costs the plan money without changing a word of the visible contract.
 
-**What your data clause should include:**
+We help plan sponsors run definition-variance audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-*Ownership:* "All claims data generated from Plan's pharmacy benefit is owned by Plan." This is non-negotiable. Your data should belong to you, not your PBM.
+**Pass one: pull every active contract and every prior contract on file**
 
-*Delivery timeline:* "Complete claims data in NCPDP standard format within 30 days of request." Not 60 or 90 days. 30 days gives your new PBM enough lead time to configure systems.
+Open your contract repository. Pull the current PBM agreement plus every prior version (renewal cycles, amendments, addenda) on file. List the high-economic-impact clauses across all versions: rebate definition, AWP discount methodology, pass-through clause, performance guarantee thresholds, exclusion lists, audit rights scope.
 
-*Scope:* Claims history, PA authorizations (including status and approval dates), accumulator data (deductible and out-of-pocket progress), and member eligibility records. If any of these are missing, the transition creates member-facing problems.
+**Pass two: compare definitions clause-by-clause across versions**
 
-*De-identified data use:* "PBM shall not use Plan's de-identified data for any purpose without Plan's written consent." Some PBMs use aggregated client data for their own analytics products. Your data should require your permission.
+For each high-impact clause, lay the language side by side across versions. Note the changes: what was added, what was removed, what was reworded. Most plan sponsors assume the contract "stays the same" between renewals; definition variance is what makes that assumption costly.
 
-*Post-termination access:* "PBM shall provide data access for 24 months following termination for audit and reconciliation purposes." You will need to verify final rebate payments and true-up calculations after the relationship ends.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The contract reads similar; the economics shift quarterly.
 
-Your broker should review these provisions at every renewal. The data clause is not exciting until you need to use it. Then it is the most important provision in the contract.
+**Pass three: estimate the dollar impact of each definition change**
+
+For each definition change, estimate the dollar magnitude. Did narrowing the rebate definition by excluding "data licensing payments" reduce the plan's pass-through capture by 1-2% of gross rebate? Did changing the AWP source from Medi-Span to First DataBank shift the discount calculation? Did adding a new exclusion to the GER calculation reduce the guarantee's coverage scope?
+
+Document the impact with claims data. Bring the documentation to your broker before the next renewal. The definition variance is the most consequential silent change in any multi-year PBM relationship.
+
+**What to do this quarter**
+
+> **Pull the current contract and every prior version on file.**
+> **Compare the high-impact clauses side by side.** Document changes.
+> **Estimate the dollar impact of each change** and bring the audit to your broker before renewal.
+
+The decoded vocabulary tells you what the words can mean. The audit tells you how the meanings drifted in your own contract. The drift is your renewal-leverage item.
 
 ---
 
@@ -178,12 +193,12 @@ Your broker should review these provisions at every renewal. The data clause is 
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized data-file icon in deep teal-blue (#015880) outline, roughly 300px tall, with "DATA" rendered in deep teal-blue bold sans-serif text across the file's label. A bidirectional arrow in Accent Blue (#A7E0FA) runs horizontally across the icon representing portability, rendered in mid-motion with a short motion arc. A small exit-door icon in Accent Blue sits to the right of the data file implying departure with data in hand. The data file outline and the exit arrow are both highlighted in Accent Blue. Thirty small transfer-tick hash marks in Accent Blue run along the arrow's length representing the 30-day transfer window. Below the icons, two-tone centered headline: "Data Ownership" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Exit-Options Clause" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design contract-version stacks in Primary Blue (#015880) outline, side-by-side, each labeled "v1 · 2022," "v2 · 2024," "v3 · 2026" in Plex Mono Medium small caps. Each stack shows a small horizontal line representing a key clause; the line is shorter on each successive stack, suggesting the clause has narrowed over time. A red marker line connects across the three stacks at the same clause position, showing the drift. Three numbered tick marks in Accent Blue (#A7E0FA) below, suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the rightmost stack. Below the composition, a two-tone centered headline: "Same Words." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Quietly Smaller." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. The drift is silent. The economics are not." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
