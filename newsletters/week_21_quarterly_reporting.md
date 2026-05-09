@@ -157,7 +157,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid Primary 
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Five Lines to Read First in Your PBM's Quarterly Report
+## Auditing Your MAC Margin: Three Channels, One PBM
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, May 28, 2026 at 7:30 AM EST
@@ -165,46 +165,60 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid Primary 
 **Tone:** Practical, tactical
 **Pillar:** Transparency & Industry Education
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "Same MAC. Different dispensing channel. Different margin." Slot B carousel. LinkedIn post lays out the three-channel comparison; Field Note is the audit framework for verifying it on your plan's claims data. First-comment cross-promo on the Thursday LinkedIn lands here.
+**Why this pairing (not the displaced "Five Lines" draft):** Architecture B (added May 9, 2026) requires Thursday Field Note + Thursday LinkedIn to share a topic and both to be distinct from Monday's deep dive. Monday W21 is Quarterly Reporting (the entire audit-the-PBM-report territory); Thursday is MAC channel-pricing territory (adjacent within Transparency, different subject matter). Original "Five Lines to Read First in Your PBM's Quarterly Report" Field Note is parked in `field_note_backlog.md` as FN-05 for a future week where Monday's topic is not quarterly reporting.
 
 ---
 
 ### Field Note Body
 
-Monday's article walked through the full 15-line checklist for what a PBM quarterly report should contain. Today's field note is the 30-minute version. If you have your most recent quarterly report in front of you and time to read five lines, here are the five.
+This morning's LinkedIn post showed the same MAC list applied to the same drug across three dispensing channels (retail chain, mail order, PBM-owned pharmacy) producing three different margins. Today is the audit framework for verifying that pattern on your own plan's claims data.
 
-**1. The first line that is not in the report.**
+We run channel-pricing audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-Open the table of contents. Scan for "net cost per script by channel" or "per-channel net cost" or "channel pricing." If those words do not appear anywhere, that is the first finding. The PBM has the data. They are not putting it in front of you because the contract did not require it.
+**Pass one: pull the MAC schedule and pull the actuals**
 
-Note that down. Do not call your account team yet. The pattern matters more than the line item.
+Open your contract. Find the MAC clause and any referenced MAC schedule. The MAC list itself is a contract attachment, sometimes lengthy, sometimes summarized as "PBM standard MAC, updated weekly." Pull whichever version your contract includes.
 
-**2. The rebate page.**
+Then pull a representative sample of generic claims from your last quarter, by channel: 50 retail-chain claims, 50 mail-order claims, 50 PBM-owned-pharmacy claims if your plan permits routing there.
 
-Find the rebate section. Look for one number: total rebate dollars received during the quarter, broken out by therapeutic class. If the report shows only an aggregate "rebates passed through" figure, that is finding number two. Aggregate rebate dollars hide which classes are subsidizing which. Plans that get rebate detail by class can renegotiate formulary positioning. Plans that get only the aggregate cannot.
+For each claim, calculate two numbers: the MAC reimbursement (what the contract says the pharmacy is paid) and the plan ingredient cost (what the plan paid for that fill). The difference is the margin per claim, by channel.
 
-**3. The PA approval and denial section, if there is one.**
+**Pass two: spread the margin across channels**
 
-Most reports include a prior-authorization summary. Read three numbers: total submitted, total approved, total denied. Then look for a denial-by-class breakdown. If you only see totals, the PBM is masking utilization-management drift. A 12 percent denial rate aggregate can hide a 35 percent denial rate on a specific class where the PBM has shifted its policy mid-quarter.
+Aggregate the per-claim margin by channel. Most plans see a wider margin spread than they expected. The MAC is the same across channels in the contract; the margin is not, because the dispensing-fee, ingredient-spread, and internal-transfer-pricing layers are not.
 
-**4. The specialty drug routing report, if it exists.**
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: PBM-owned pharmacy margins run materially wider than retail-chain margins on the same MAC for the same drug. The contract's MAC clause is silent on the difference. The dispensing-channel-margin clause, if it exists at all in your contract, is where the gap lives.
 
-If your plan has any specialty drug spend (most do), look for a drug-by-pharmacy table. Where did each specialty drug fill, this quarter, by drug name? If that table is missing, you cannot see the affiliated-pharmacy share that drives the spread on specialty. We see this gap on roughly every standard PBM quarterly report we audit.
+**Pass three: compare to the contract's pass-through clause**
 
-**5. The signed attestation.**
+Many contracts include a pass-through clause that promises plan-level economics on ingredient cost. Read the clause carefully. Does it apply to all channels equally? Are PBM-owned pharmacies carved out as "affiliated dispensing" with separate economics? Does the pass-through apply to the MAC reimbursement specifically or to the total claim cost? Each carve-out is where margin sits.
 
-Last page. Look for a sentence stating the PBM attests that the data in the report is complete and accurate, with a named contact. If the report ends with auto-generated charts and no attestation, the PBM has not committed to anything in writing about what is in the document. That is finding number five.
+**The pattern plan sponsors find most often**
 
-**What to do with the five findings**
+> **Across approximately 100 PBM contract reviews and audits annually at PBS:** the MAC clause is in every contract; the per-channel margin disclosure clause is in fewer than half. Plans that audit channel margin without the disclosure clause find the gaps anyway. Plans that audit with the disclosure clause find them faster, with the contract on their side.
 
-> **Email the gap list to your broker.** Five lines, one sentence each, no formatting needed. The broker takes it from there.
+**What to do this quarter**
 
-> **Add the five items to your renewal redline list.** The next contract should require these as standing reporting deliverables, by name, not "customary reports."
+> **Pull the MAC schedule and a 150-claim sample (50 per channel).** Run the per-claim margin calculation. The number you want is the per-channel average margin spread.
+> **Open your contract's MAC clause and pass-through clause.** Note any carve-outs for PBM-owned dispensing or affiliated-pharmacy economics. Those are the negotiation items at renewal.
+> **Bring the audit to your broker before the next quarterly review.** The MAC margin question deserves a place on the agenda alongside rebate, AWP discount, and pass-through performance.
 
-> **Do not wait for next quarter.** The PBM can produce these data cuts now if asked. Whether the contract requires them is the renewal conversation. Whether they exist is a today conversation.
+The MAC is public. The margin is not. The audit is how you make it both.
 
-The five-line read is not the full audit. The full 15-line audit is in Monday's deep dive and the printable plan-sponsor checklist below. The five-line read is what to do this week, with the report you already have, in 30 minutes between meetings.
+---
 
-**[EMBED PDF: `templates/documents/week_21_quarterly_reporting_checklist.pdf`]**
+*This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
+
+*Questions? Reach out at team@rxbs.org.*
+
+---
+
+### Field Note Meta
+
+**SEO Title:** Auditing Your MAC Margin: Three Channels, One PBM | Benefit Blind Spots
+**Meta Description:** Same MAC list, three dispensing channels, three different margins. Three comparison passes plan sponsors can run on their own claims data, the pattern PBS finds across ~100 contract reviews per year, and what to bring to the next quarterly review.
+**Tags:** MAC pricing, channel pricing, PBM audits, dispensing channel, pharmacy benefits, transparency, self-funded employers, contract clauses
 
 ---
 
@@ -229,7 +243,7 @@ The five-line read is not the full audit. The full 15-line audit is in Monday's 
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks, no signatures. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a stylized flat-design clipboard outline in Primary Blue (#015880), roughly 700px tall, centered. Inside the clipboard, a simulated report layout: at the top, a header strip labeled "QUARTERLY REPORT" in Plex Mono Medium 22pt Primary Blue. Below the header, fifteen horizontal line-item rows in Plex Mono Medium 14pt; the first five rows are highlighted with a thin Accent Blue (#A7E0FA) fill behind them and a small Accent Blue numbered marker (1 through 5) at the left edge of each. The remaining ten rows are rendered in light gray (#D6D6D6) with no fill. To the right of the clipboard, five Accent Blue (#A7E0FA) tick marks run vertically, evenly spaced, each aligned to one of the five highlighted rows. Below the clipboard, a two-tone centered headline: "Five lines." in Primary Blue (#015880) Plex Sans SemiBold 56pt, immediately followed by "Thirty minutes." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt on the same line. Subtitle below in Gray (#4D4D4D) Plex Sans Regular 22pt: "What to scan in your most recent quarterly report this week." Flat corporate editorial style. No grid pattern, no textured background, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design pharmacy receipts in Primary Blue (#015880) outline, side-by-side, evenly spaced, each roughly 380px tall. Each receipt is labeled at the top in Plex Mono Medium 16pt: "RETAIL CHAIN," "MAIL ORDER," "PBM-OWNED" respectively. Each receipt shows two horizontal line items: one labeled "MAC" in Plex Mono Medium 14pt with the same dollar value rendered in Plex Mono Medium 14pt tabular figures across all three receipts; one labeled "MARGIN" in Plex Mono Medium 14pt with three different dollar values (smallest on Retail Chain, larger on Mail Order, largest on PBM-Owned), each rendered in Accent Blue (#A7E0FA) tabular figures. A thin Accent Blue (#A7E0FA) horizontal arrow runs across the top of all three receipts, suggesting comparison. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the bottom-right of the third receipt. Below the composition, a two-tone centered headline: "Same MAC." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Three margins." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes plan sponsors can run on their own claims data." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -565,9 +579,7 @@ Ask for both. Save this for your next renewal conversation.
 
 #### First Comment
 
-Today's Field Note on Benefit Blind Spots is the broader frame: five lines to read first in your PBM's quarterly report. Net cost per channel (the MAC margin question above) is line 1; the other four are rebate gross-to-net, PA approval and denial rates, specialty drug routing, and the signed PBM attestation. Thirty-minute read with your most recent quarterly report next to you.
-
-[SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the audit framework for the channel-margin question above: three comparison passes plan sponsors can run on their own claims data (MAC schedule vs. actuals, per-channel margin spread, contract pass-through clause check), the pattern PBS finds across ~100 contract reviews per year, and what to bring to the next quarterly review. Thirty-minute read with your contract's MAC clause and a 150-claim sample next to you. [SUBSTACK FIELD NOTE URL]
 
 **Content outline (Same/Same/Different structure, parallel lines then punchline):**
 - Slide 1 (Hook): "Same MAC. Different channel. Different margin." Swipe indicator in Accent Blue.

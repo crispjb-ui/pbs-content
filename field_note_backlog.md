@@ -20,6 +20,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-02 | How to Read a PBM Utilization Report Without Getting Lost | Self-Funded Employer Guidance | W23 (displaced May 8, 2026 when W23 Thursday Field Note was retargeted under the two-track architecture) | available |
 | FN-03 | How Plan Sponsors Actually Enforce Audit Rights | PBM Contract Insights | W23 (displaced May 8, 2026 evening when W23 Field Note retargeted again to Admin Fees per "don't make whole week audit rights" guidance — Tuesday Library 03 already covers Audit Rights and routes to Contract Library) | available |
 | FN-04 | Copay Accumulator vs. Copay Maximizer: Choosing the Right Program | Cost Containment | W20 (displaced May 9, 2026 under Architecture B triple-distinct topic rule — Field Note matched Monday Manufacturer Programs deep dive, creating Thursday LinkedIn cannibalization risk if Thursday post aligned with Field Note. Field Note retargeted to rebate-themed pairing with 5 Rebate Terms Decoded Thursday LinkedIn) | available |
+| FN-05 | Five Lines to Read First in Your PBM's Quarterly Report | Transparency & Industry Education | W21 (displaced May 9, 2026 under Architecture B triple-distinct topic rule — Field Note matched Monday Quarterly Reporting deep dive. Field Note retargeted to MAC pricing pairing with W21 Thursday Same MAC Slot B carousel) | available |
 
 ---
 
@@ -334,3 +335,62 @@ The right program fits your plan's economics, your members' clinical needs, and 
 **Prompt:**
 
 A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized card icons in deep teal-blue (#015880) outline, side by side, approximately 250px wide each, one labeled "ACCUMULATOR" and the other labeled "MAXIMIZER" in deep teal-blue bold sans-serif text across their faces. Between the two cards, a decision-arrow in Accent Blue (#A7E0FA) hovers, tilted slightly toward the right card to imply the choice in motion. The right card's outline is rendered in Accent Blue (#A7E0FA) as the active selection. Five small dollar-sign marks ($) in Accent Blue (#A7E0FA) are arrayed evenly along the arrow's path between the cards. Below the cards, two-tone centered headline: "Accumulator or Maximizer" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Structure That Matters" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+---
+
+## FN-05: Five Lines to Read First in Your PBM's Quarterly Report
+
+**Original week:** 21 (May 28, 2026 publish date — needs re-anchoring before reuse)
+**Pillar:** Transparency & Industry Education
+**Length:** ~580 words (~3 min read)
+**Tone:** Practical, tactical
+**Why it was displaced:** W21 Thursday Field Note matched Monday's Quarterly Reporting deep dive topic family. Under Architecture B (Thursday Field Note + Thursday LinkedIn = same topic, both adjacent or different from Monday), keeping the Field Note on quarterly-report content would force Thursday LinkedIn to also cover quarterly reporting, cannibalizing Monday LinkedIn newsletter reach. Field Note retargeted to MAC-pricing pairing with W21 Thursday Slot B "Same MAC. Different Channel." carousel. This Field Note remains a strong Transparency Field Note and should be slotted into a future Thursday whose Monday topic is NOT quarterly reporting — natural fits include W24 H1 Review (different angle on plan-sponsor reporting), W27 PBM Evaluation (reporting-as-evaluation-input), or any Q4 audit-prep week.
+
+**Re-anchoring notes before reuse:**
+- "Monday's article walked through the full 15-line checklist" — re-anchor to that week's actual Monday topic, or rewrite the opener if Monday's topic is unrelated.
+- The 30-minute / 5-line read framing is evergreen.
+- Update the embed to point at whichever toolkit handout pairs with the destination week's Monday or Thursday content.
+
+---
+
+### Field Note Body (FN-05 draft)
+
+Monday's article walked through the full 15-line checklist for what a PBM quarterly report should contain. Today's field note is the 30-minute version. If you have your most recent quarterly report in front of you and time to read five lines, here are the five.
+
+**1. The first line that is not in the report.**
+
+Open the table of contents. Scan for "net cost per script by channel" or "per-channel net cost" or "channel pricing." If those words do not appear anywhere, that is the first finding. The PBM has the data. They are not putting it in front of you because the contract did not require it.
+
+Note that down. Do not call your account team yet. The pattern matters more than the line item.
+
+**2. The rebate page.**
+
+Find the rebate section. Look for one number: total rebate dollars received during the quarter, broken out by therapeutic class. If the report shows only an aggregate "rebates passed through" figure, that is finding number two. Aggregate rebate dollars hide which classes are subsidizing which.
+
+**3. The PA approval and denial section, if there is one.**
+
+Most reports include a prior-authorization summary. Read three numbers: total submitted, total approved, total denied. Then look for a denial-by-class breakdown. If you only see totals, the PBM is masking utilization-management drift.
+
+**4. The specialty drug routing report, if it exists.**
+
+If your plan has any specialty drug spend (most do), look for a drug-by-pharmacy table. Where did each specialty drug fill, this quarter, by drug name? If that table is missing, you cannot see the affiliated-pharmacy share that drives the spread on specialty.
+
+**5. The signed attestation.**
+
+Last page. Look for a sentence stating the PBM attests that the data in the report is complete and accurate, with a named contact. If the report ends with auto-generated charts and no attestation, the PBM has not committed to anything in writing about what is in the document.
+
+**What to do with the five findings**
+
+> **Email the gap list to your broker.** Five lines, one sentence each, no formatting needed.
+> **Add the five items to your renewal redline list.** The next contract should require these as standing reporting deliverables, by name.
+> **Do not wait for next quarter.** The PBM can produce these data cuts now if asked.
+
+The five-line read is not the full audit. It is what to do this week, with the report you already have, in 30 minutes between meetings.
+
+---
+
+### Field Note Meta (FN-05 draft)
+
+**SEO Title:** Five Lines to Read First in Your PBM's Quarterly Report | Benefit Blind Spots
+**Meta Description:** The 30-minute version of the full PBM quarterly reporting audit. Five lines to scan in your most recent report this week.
+**Tags:** PBM quarterly reporting, transparency, pharmacy benefits, self-funded employers, audit, plan sponsor toolkit
