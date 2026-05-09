@@ -422,29 +422,30 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 ---
 
 ## Post 79 - Thursday 8:30 AM
-### 5 Specialty Routing Terms Decoded — Marked-Up Contract Page Messy Infographic
+### 5 Specialty Routing Terms Decoded — Three-Pill-Bottle Photoreal Messy Infographic
 
-**Format:** Single messy infographic, Marked-Up Contract Page aesthetic (paper-card photoreal). 1080 x 1350 px.
-**Pillar:** PBM Contract Insights (Thursday Slot A messy-infographic standard; highest-converting decoder pillar in the data set per W18 Channel Pricing 17K precedent)
-**Field Note pairing:** Same-day Substack Field Note "Auditing Where Your Specialty Drugs Actually Fill" (Thu Jun 4, 7:30 AM EST). LinkedIn post decodes the contract vocabulary; Field Note is the operational follow-on for auditing actual specialty drug routing on plan claims data. First-comment cross-promo on the LinkedIn post lands on the Field Note.
-**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Specialty Routing Audit Worksheet" — `templates/documents/week_22_thursday_specialty_routing_audit_worksheet.html/.pdf` (3-pass audit framework + paste-ready PBM data request for drug-by-pharmacy specialty fill breakdown).
-**Why this topic (not the displaced Biosimilar Provisions concept):** Architecture B triple-distinct topic rule — Monday W22 is Biosimilar Strategy (formulary positioning of biologics); Thursday is Specialty Routing (which pharmacy fills the prescription). Adjacent within Cost Containment / Specialty pillar, different subject matter. Original Biosimilar Provisions Marked-Up Contract Page concept and post copy are preserved in git history (commit 497003e) for future use; original Biosimilar Provisions Field Note is parked as FN-06.
+**Format:** Single messy infographic, Three-Pill-Bottle Photoreal aesthetic (W18 Channel Pricing precedent applied to specialty routing). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Canvas variation note (May 9, 2026):** This Thursday slot was originally drafted as a Marked-Up Contract Page messy infographic. Reformatted to Three-Pill-Bottle Photoreal to vary the messy-infographic canvas across consecutive Thursdays per the format-rotation rule (no single canvas more than ~31% across 16 Thursdays). Topic-format affinity: specialty routing names three destination pharmacies (PBM-owned, independent specialty, limited-distribution), which maps cleanly to a three-bottle composition with handwritten routing annotations.
+**Field Note pairing:** Same-day Substack Field Note "Auditing Where Your Specialty Drugs Actually Fill" (Thu Jun 4, 7:30 AM EST).
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Specialty Routing Audit Worksheet" — `templates/documents/week_22_thursday_specialty_routing_audit_worksheet.html/.pdf`.
+**Why this topic (not the displaced Biosimilar Provisions concept):** Architecture B triple-distinct topic rule — Monday W22 is Biosimilar Strategy (formulary positioning of biologics); Thursday is Specialty Routing (which pharmacy fills the prescription). Adjacent within Cost Containment / Specialty pillar, different subject matter. Original Biosimilar Provisions Field Note parked as FN-06.
 
 **Winning-profile traits hit (9 of 10 — clears 7+ bar):**
-1. Decoder shape ✓ — five-term contract-vocabulary decoder, the highest-converting shape in the data (20-25K floor, 9-12 followers per 10K)
-2. Dollar-comparison shape ✓ — central composition includes the 80%-PBM-owned-share callout that quantifies the routing imbalance
-3. Named-actor framing ✓ — PBM as actor (writes the contract, designs the prior-authorization workflow, owns the specialty pharmacy); plan as victim; specialty fills as leverage point
-4. Plan-sponsor-actionable ✓ — every term has an audit step the reader can run on this quarter's specialty claims
-5. Confrontational hook ✓ — "Five contract clauses that decide where your specialty drugs fill. The PBM owns four of them."
-6. Messy infographic format ✓ — Marked-Up Contract Page paper-card photoreal aesthetic (W18 Channel Pricing winning DNA)
-7. First-comment Substack cross-promo ✓ — links to same-day Field Note "Auditing Where Your Specialty Drugs Actually Fill"
-8. Proprietary anchor ✓ — "~100 PBM contract reviews and audits annually at PBS; the routing pattern rarely matches the network-membership clause"
-9. Save-driven structure ✓ — 5-term decoder is a reference asset readers bookmark
-10. Single-image / photoreal aesthetic ✓ — single image, photoreal contract-page aesthetic, no carousel
+1. Decoder shape ✓ — five-term contract-vocabulary decoder mapped to three pharmacy destinations
+2. Dollar-comparison shape ✓ — implicit margin spread between three destinations
+3. Named-actor framing ✓ — PBM as actor; plan as victim; routing as leverage
+4. Plan-sponsor-actionable ✓ — every term has an audit step
+5. Confrontational hook ✓ — "Three pharmacies. One PBM. Five contract clauses that decide which one fills your specialty drug."
+6. Messy infographic format ✓ — Three-Pill-Bottle Photoreal (W18 Channel Pricing canvas, applied to specialty routing topic)
+7. First-comment Substack cross-promo ✓
+8. Proprietary anchor ✓ — "~100 PBM contract reviews and audits annually at PBS"
+9. Save-driven structure ✓ — 5-term decoder as bookmarkable reference
+10. Single-image / photoreal aesthetic ✓
 
 #### Post Copy
 
-Five contract clauses decide where your specialty drugs fill. The PBM owns four of them.
+Three pharmacies. One PBM. Five contract clauses that decide which pharmacy actually fills your specialty drug.
 
 I review approximately 100 PBM contracts a year at PBS. The routing pattern rarely matches the network-membership clause. The contract preserves "any in-network specialty pharmacy" on paper; the operational workflow steers most fills to the PBM-owned channel anyway. The leverage is in the four other clauses.
 
@@ -468,63 +469,68 @@ Save this for your next specialty review.
 
 Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually audit your specialty drug routing using the five terms above. Three comparison passes (drug-by-pharmacy breakdown, ownership classification, contract-clause check) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Specialty Routing Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 
-#### Marked-Up Contract Page Concept
+#### Three-Pill-Bottle Photoreal Concept
 
-**Aesthetic:** Photoreal close-up of a printed PBM contract page on a desk, with handwritten margin annotations in red pen calling out the five specialty-routing clauses and which ones the PBM controls. Same DNA as W18 Channel Pricing 17K winner and W20 5 Rebate Terms Decoded.
+**Aesthetic:** Photoreal top-down composition of three labeled prescription pill bottles on a dark wood desk surface, with handwritten red-pen routing arrows and margin annotations connecting each bottle to a contract-clause callout. W18 Channel Pricing pill-bottle canvas applied to specialty routing.
 
 **Visual elements:**
-- Photoreal printed contract page, slightly off-white paper (#F5F0E4), faint section header visible: "§ 6.04 Specialty Pharmacy Network and Routing"
-- Five visible printed clause entries stacked vertically, each in Plex Mono 11pt black:
-  1. "Specialty Pharmacy Designation"
-  2. "Limited Distribution Drug Access"
-  3. "Exclusive Specialty Arrangement"
-  4. "Specialty Channel Pass-Through"
-  5. "Specialty Performance Guarantee"
-- Below each clause, a short typed definition snippet in Plex Mono 10pt (rendered as recognizable legalese)
-- Five handwritten red-pen circles around clauses 1, 2, 3, 4 (the four PBM controls), with handwritten margin annotations:
-  - Next to clause 1: "PBM writes the list"
-  - Next to clause 2: "PBM-owned has access"
-  - Next to clause 3: "Workflow defaults here"
-  - Next to clause 4: "Carved out of pass-through"
-  - Next to clause 5: "Often missing entirely"
-- Top of image, bold handwritten title in black marker, double-underlined: "Five specialty routing clauses."
-- Subtitle below in red pen: "The PBM owns four of them."
-- Bottom of image, small handwritten red note: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
+- Three identical clear plastic prescription pill bottles arranged in a horizontal row on a dark wood desk, evenly spaced, soft natural daylight from upper-left
+- Each bottle has a small white printed prescription label. Reading left to right, the labels read:
+  - Bottle 1: "PBM-OWNED SPECIALTY"
+  - Bottle 2: "INDEPENDENT SPECIALTY"
+  - Bottle 3: "LIMITED DISTRIBUTION"
+- Above the three bottles, a hand-printed black-marker line: "Same drug. Three pharmacies. One PBM deciding which one fills it."
+- Five handwritten red-pen routing notes around the bottles, each pointing at a contract-clause callout:
+  - Pointing at Bottle 1 (PBM-owned), red note: "Specialty designation list — PBM writes it"
+  - Pointing at Bottle 1 (PBM-owned), second red note: "Exclusive specialty arrangement — workflow defaults here"
+  - Pointing at Bottle 2 (Independent), red note: "Pass-through carve-out — economics differ here"
+  - Pointing at Bottle 3 (Limited Distribution), red note: "LDD access list — PBM-affiliated has access; independents often do not"
+  - Pointing across all three bottles, red note in larger handwriting: "Performance guarantee — often missing entirely"
+- Bottom of image, hand-printed red marker, double-underlined: "Five contract clauses. Three destinations. The PBM owns four of the five."
+- Below that, smaller hand-printed sepia line: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
 - A black ballpoint pen rests at a slight angle in the top-right corner of the desk surface
+
+**Color hierarchy:**
+- Dark wood desk surface (warm tone, natural grain)
+- Clear plastic bottles with subtle reflection, off-white printed labels
+- Black printed label text and prescription markings
+- Red ballpoint handwriting for routing notes and corrections
+- One small Accent Blue (#A7E0FA) sticky-flag tab on Bottle 1's label edge marking "PBM-owned" as the pattern destination
 
 #### Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 6.04 SPECIALTY PHARMACY NETWORK AND ROUTING." Below the header, five vertically stacked clause entries, each formatted as a bold clause name in Plex Mono Medium black followed by a 2-3 line definition snippet in Plex Mono Regular black smaller type (rendered as recognizable legalese). The five clause entries, top to bottom:
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A clean dark wood desk surface fills the frame, slight perspective angle, soft natural daylight from upper-left, gentle shadows lower-right. Three identical clear plastic prescription pill bottles stand upright in a horizontal row across the middle of the canvas, evenly spaced. Each bottle has a small white printed prescription label. Reading left to right, the printed labels read:
 >
-> 1. **Specialty Pharmacy Designation.** "Drugs classified as 'specialty' under this Agreement are listed in Attachment C, which PBM may update with thirty (30) days written notice."
-> 2. **Limited Distribution Drug Access.** "Network pharmacies authorized to dispense Limited Distribution Drugs are listed in Schedule LDD-1."
-> 3. **Exclusive Specialty Arrangement.** "Members shall be directed to PBM's preferred specialty pharmacy for initial fills of designated specialty therapies."
-> 4. **Specialty Channel Pass-Through.** "Pass-through pricing under § 4.02 shall not apply to specialty drug claims dispensed through PBM-affiliated specialty pharmacies."
-> 5. **Specialty Performance Guarantee.** "[No language present]"
+> Bottle 1: "PBM-OWNED SPECIALTY" in clean serif printed type
+> Bottle 2: "INDEPENDENT SPECIALTY" in clean serif printed type
+> Bottle 3: "LIMITED DISTRIBUTION" in clean serif printed type
 >
-> Five handwritten red ballpoint annotations are drawn in the margins:
-> - A red circle around the words "Attachment C" in clause 1, with a red note: "PBM writes the list"
-> - A red circle around "Schedule LDD-1" in clause 2, with a red note: "PBM-owned has access"
-> - A red circle around "preferred specialty pharmacy" in clause 3, with a red note: "Workflow defaults here"
-> - A red circle around "shall not apply" in clause 4, with a red note: "Carved out of pass-through"
-> - A red circle around "[No language present]" in clause 5, with a red note: "Often missing entirely"
+> Above the three bottles, in larger hand-printed black marker handwriting, double-underlined: "Same drug. Three pharmacies. One PBM deciding which one fills it."
 >
-> At the top of the page, in larger handwritten black marker, double-underlined: "Five specialty routing clauses."
+> Around the bottles, five handwritten red ballpoint routing notes are written directly on the desk surface, each with a short curved arrow pointing at the relevant bottle:
 >
-> Directly below, in handwritten red pen: "The PBM owns four of them."
+> - Above Bottle 1 (PBM-owned), red handwritten note: "Specialty designation — PBM writes the list"
+> - Below Bottle 1 (PBM-owned), red handwritten note: "Exclusive specialty arrangement — workflow defaults here"
+> - Below Bottle 2 (Independent), red handwritten note: "Pass-through carve-out — economics differ"
+> - Below Bottle 3 (Limited Distribution), red handwritten note: "LDD access list — PBM-affiliated has access"
+> - Below all three bottles, in slightly larger handwriting: "Performance guarantee — often missing entirely"
 >
-> At the bottom of the page, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
+> Below all annotations, in red marker, double-underlined: "Five clauses. Three destinations. The PBM owns four of five."
+>
+> Below that, in smaller hand-printed sepia ink: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
+>
+> A small light-blue (#A7E0FA) sticky-flag tab is placed on the edge of Bottle 1's label, marking it as the dominant routing destination.
 >
 > A black ballpoint pen rests at an angle in the top-right corner of the desk surface.
 >
-> Style: realistic paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style, uneven line spacing, minor ink variation) for authenticity. Colors: off-white contract paper (#F5F0E4), faint black printed legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks, no people, no PBM names, no client names. The image stands on its own without additional branding overlays.
+> Style: photorealistic product photography, warm natural daylight, slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style with marker pressure variation, uneven line spacing) for authenticity. Color palette: dark wood desk, clear plastic bottles with subtle reflection, off-white labels, black printed type, red handwritten ballpoint, one small Accent Blue tab, sepia secondary handwriting. No logos, no brand marks, no people, no PBM names, no drug names. The image stands on its own without additional branding overlays.
 
 **Post-Generation Steps:**
 1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px to verify legibility of the five clause names and red-pen margin annotations at mobile size
-3. If any handwritten text renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
-4. Verify the title "Five specialty routing clauses." is readable in feed thumbnail
-5. Verify the five clause names render with visible distinction (different definitions, not repeated filler)
+2. Open in Canva at 1080 x 1350 px to verify legibility of the three bottle labels and five red-pen routing notes at mobile size
+3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
+4. Verify the title "Same drug. Three pharmacies. One PBM deciding which one fills it." is readable in feed thumbnail
+5. Verify the three bottle labels render distinctly (PBM-OWNED / INDEPENDENT / LIMITED DISTRIBUTION) — most common AI failure is repeated label text
 6. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
 7. Export as PNG at 1080 x 1350
 
