@@ -19,6 +19,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-01 | One Drug Class to Watch: The Next Wave of GLP-1 Approvals | Clinical Pharmacy | W18 (displaced May 5, 2026 when W18 Thursday Field Note was retargeted to Channel Pricing to match the Thursday LinkedIn visual + Plan Sponsor Toolkit handout) | available |
 | FN-02 | How to Read a PBM Utilization Report Without Getting Lost | Self-Funded Employer Guidance | W23 (displaced May 8, 2026 when W23 Thursday Field Note was retargeted under the two-track architecture) | available |
 | FN-03 | How Plan Sponsors Actually Enforce Audit Rights | PBM Contract Insights | W23 (displaced May 8, 2026 evening when W23 Field Note retargeted again to Admin Fees per "don't make whole week audit rights" guidance — Tuesday Library 03 already covers Audit Rights and routes to Contract Library) | available |
+| FN-04 | Copay Accumulator vs. Copay Maximizer: Choosing the Right Program | Cost Containment | W20 (displaced May 9, 2026 under Architecture B triple-distinct topic rule — Field Note matched Monday Manufacturer Programs deep dive, creating Thursday LinkedIn cannibalization risk if Thursday post aligned with Field Note. Field Note retargeted to rebate-themed pairing with 5 Rebate Terms Decoded Thursday LinkedIn) | available |
 
 ---
 
@@ -252,3 +253,84 @@ The contract clauses (in Tuesday's carousel) are the prerequisite. The audit (ab
 **Prompt:**
 
 A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: two flat-design contract documents in Primary Blue (#015880) outline, side-by-side, each roughly 380px tall, slightly overlapping. The left document is labeled "CONTRACT" in small Plex Mono Medium uppercase letters across its top banner; the right document is labeled "PERFORMANCE" in the same style. A bold horizontal Accent Blue (#A7E0FA) double-headed arrow runs across the top of both documents, suggesting comparison. Below the documents, three Accent Blue (#A7E0FA) numbered tick marks (1, 2, 3) running horizontally, evenly spaced, suggesting the three comparison passes. On each document, two thin Accent Blue rules running horizontally suggest data lines. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the seam between the two documents at the bottom-center. Below the composition, a two-tone centered headline reading "Audit rights are the *authority*." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "The audit is the *act*." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt centered: "Three comparison passes that do most of the work." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
+
+---
+
+## FN-04: Copay Accumulator vs. Copay Maximizer: Choosing the Right Program
+
+**Original week:** 20 (May 21, 2026 publish date — needs re-anchoring before reuse)
+**Pillar:** Cost Containment
+**Length:** ~550 words (~3 min read)
+**Tone:** Practical, tactical
+**Why it was displaced:** W20 Thursday Field Note matched Monday's Manufacturer Programs deep dive topic family. Under Architecture B (Thursday Field Note + Thursday LinkedIn = same topic, both adjacent or different from Monday), keeping the Field Note on accumulator/maximizer would force Thursday LinkedIn to also cover that topic, cannibalizing Monday LinkedIn newsletter reach (W15 pattern: Thursday on Monday topic = 340 impressions). Field Note retargeted to a rebate-themed companion for the Thursday "5 Rebate Terms Decoded" LinkedIn messy infographic instead. This Accumulator/Maximizer Field Note remains a strong Cost Containment field note and should be slotted into a future Thursday whose Monday topic is NOT manufacturer programs / copay programs / specialty cost-sharing — natural fits include W29 Rebate Economics (different angle on member-level cost-sharing), W34 Specialty Management (post-renewal copay program decision), or any Q4 plan-design week where copay program selection is on the agenda.
+
+**Re-anchoring notes before reuse:**
+- "We get this question all the time" — opener stays evergreen, no anchoring needed.
+- No specific dates in body, fully reusable.
+- Pillar (Cost Containment) maps to most weeks; verify the destination week's pillar mix before slotting.
+- "When we help clients choose between these programs" — evergreen voice; no change needed.
+
+---
+
+### Field Note Body (FN-04 draft)
+
+We get this question all the time: should we implement an accumulator program or a maximizer program?
+
+The honest answer is that it depends on your plan's priorities. The trade-offs are more nuanced than most summaries make them sound.
+
+**What each program does**
+
+Both programs address the same dynamic: manufacturer copay cards paying member cost-sharing on brand drugs, which accelerates members toward their out-of-pocket maximum. Once the member hits that max, the plan pays everything.
+
+A copay accumulator blocks manufacturer copay card payments from counting toward the member's deductible and out-of-pocket maximum. The manufacturer keeps paying, but the member's accumulator does not advance. When the copay card runs out, the member faces their full cost-sharing obligation. Some members switch to generics at that point. Others stop therapy.
+
+A copay maximizer takes a different approach. It restructures the member's cost-sharing so the plan captures the full value of the manufacturer's copay card throughout the year. The member's copay is set at the maximum the card will cover, and the card pays it. The member pays nothing out of pocket, and the plan avoids the cost it would otherwise bear.
+
+**The trade-offs**
+
+Accumulators are simpler to implement and more straightforward in design. They are also more disruptive to members. When the copay card exhausts, members face a sudden cost increase. Adherence can drop. Members contact HR. For specialty medications treating serious conditions, therapy discontinuation raises clinical concerns.
+
+Maximizers preserve member experience: the member pays nothing all year. But they require more sophisticated administration. The PBM must coordinate with the copay card program, adjust cost-sharing dynamically, and track manufacturer funding throughout the benefit year. Not every PBM handles this well.
+
+**How to evaluate**
+
+When we help clients choose between these programs, we focus on three factors:
+
+> **1. Member population and drug mix.**
+>
+> If your high-cost copay card utilization is concentrated in specialty drugs for serious conditions, member disruption from an accumulator program carries real clinical risk. Maximizer programs maintain adherence while still capturing savings.
+
+> **2. PBM capability.**
+>
+> Ask your PBM detailed questions about their maximizer administration. How do they track manufacturer card funding? What happens when a card maxes out mid-year? How is the transition handled? If the answers are vague, the execution may be too.
+
+> **3. Financial modeling.**
+>
+> Run the numbers for your specific population. The savings difference between accumulator and maximizer depends on your drug mix, member demographics, and current copay card utilization. Generic projections do not substitute for plan-specific analysis.
+
+**What to do this quarter**
+
+> **Request a copay card utilization report from your PBM** showing which drugs have active manufacturer cards.
+> **Ask your PBM to model both accumulator and maximizer savings** for your specific plan.
+> **Review member communication requirements** for whichever approach you consider; member notification is critical for either program.
+
+The right program fits your plan's economics, your members' clinical needs, and your PBM's actual operational capability. We have seen both work well. We have also seen both implemented poorly. There is no universal answer, but there is a right answer for your plan.
+
+---
+
+### Field Note Meta (FN-04 draft)
+
+**SEO Title:** Copay Accumulator vs. Copay Maximizer: Choosing the Right Program | Benefit Blind Spots
+**Meta Description:** Accumulator and maximizer programs address copay card economics differently. Here is how to evaluate which approach fits your plan.
+**Tags:** copay accumulator, copay maximizer, manufacturer copay cards, pharmacy benefits, cost containment, self-funded employers
+
+### Field Note Header Image Prompt (FN-04 draft)
+
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
+**Background:** White (#FFFFFF)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized card icons in deep teal-blue (#015880) outline, side by side, approximately 250px wide each, one labeled "ACCUMULATOR" and the other labeled "MAXIMIZER" in deep teal-blue bold sans-serif text across their faces. Between the two cards, a decision-arrow in Accent Blue (#A7E0FA) hovers, tilted slightly toward the right card to imply the choice in motion. The right card's outline is rendered in Accent Blue (#A7E0FA) as the active selection. Five small dollar-sign marks ($) in Accent Blue (#A7E0FA) are arrayed evenly along the arrow's path between the cards. Below the cards, two-tone centered headline: "Accumulator or Maximizer" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Structure That Matters" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.

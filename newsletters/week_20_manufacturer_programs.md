@@ -137,60 +137,54 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Copay Accumulator vs. Copay Maximizer: Choosing the Right Program
+## Reading the Rebate Report Without Getting Spun
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, May 21, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Cost Containment
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Rebate Terms Decoded" messy infographic (Slot A). LinkedIn post decodes the vocabulary; Field Note is the operational follow-on for using the vocabulary against an actual rebate report. First-comment cross-promo on the Thursday LinkedIn lands here.
+**Why this pairing (not the displaced Accumulator/Maximizer draft):** Architecture B (added May 9, 2026) requires Thursday Field Note + Thursday LinkedIn to share a topic and both to be distinct from Monday's deep dive. Monday W20 is Manufacturer Programs (copay/accumulator/maximizer territory); Thursday is rebate territory (adjacent within Cost Containment / Transparency, different subject matter). Original Accumulator vs. Maximizer Field Note draft is parked in `field_note_backlog.md` as FN-04 for a future week where Monday's topic is not manufacturer-program-adjacent.
 
 ---
 
 ### Field Note Body
 
-We get this question all the time: should we implement an accumulator program or a maximizer program?
+This morning's LinkedIn post decoded the five terms PBMs use most often in rebate reports: gross rebate, net pass-through rebate, price protection rebate, administrative fee, and manufacturer drug education payment. Today is the operational follow-on. You have the vocabulary. Here is how to use it when an actual rebate report lands on your desk.
 
-The honest answer is that it depends on your plan's priorities. The trade-offs are more nuanced than most summaries make them sound.
+We run rebate-report audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**What each program does**
+**Pass one: gross rebate vs. net rebate**
 
-Both programs address the same dynamic: manufacturer copay cards paying member cost-sharing on brand drugs, which accelerates members toward their out-of-pocket maximum. Once the member hits that max, the plan pays everything.
+Open the rebate report. Find total gross rebate dollars and total net rebate dollars (the amount that flowed to the plan). Calculate the gap. Then go back to your contract and find the rebate pass-through percentage clause. Multiply gross rebate by the contracted pass-through percentage. Compare to actual net rebate.
 
-A copay accumulator blocks manufacturer copay card payments from counting toward the member's deductible and out-of-pocket maximum. The manufacturer keeps paying, but the member's accumulator does not advance. When the copay card runs out, the member faces their full cost-sharing obligation. Some members switch to generics at that point. Others stop therapy.
+If actual net rebate is below the contracted percentage, the contract typically requires reconciliation. Many PBMs do not flag this on their own. The plan sponsor has to find the gap and ask for the true-up.
 
-A copay maximizer takes a different approach. It restructures the member's cost-sharing so the plan captures the full value of the manufacturer's copay card throughout the year. The member's copay is set at the maximum the card will cover, and the card pays it. The member pays nothing out of pocket, and the plan avoids the cost it would otherwise bear.
+**Pass two: rebate categorization audit**
 
-**The trade-offs**
+The plan sponsor's pass-through clause applies to "rebates" as the contract defines them. PBM rebate aggregators have a financial interest in classifying manufacturer payments as something other than rebates: administrative fees, data licensing fees, drug education payments, manufacturer support payments. Each of those categories typically sits outside the rebate pass-through clause.
 
-Accumulators are simpler to implement and more straightforward in design. They are also more disruptive to members. When the copay card exhausts, members face a sudden cost increase. Adherence can drop. Members contact HR. For specialty medications treating serious conditions, therapy discontinuation raises clinical concerns.
+Pull the report's category breakdown. Total all manufacturer-funded categories. Calculate what percentage are classified as "rebate" versus "fee" versus "other." If the fee-and-other share is climbing year-over-year, the plan is losing pass-through dollars to category reclassification.
 
-Maximizers preserve member experience: the member pays nothing all year. But they require more sophisticated administration. The PBM must coordinate with the copay card program, adjust cost-sharing dynamically, and track manufacturer funding throughout the benefit year. Not every PBM handles this well.
+**Pass three: rebate-per-claim trend**
 
-**How to evaluate**
+Calculate rebate per brand claim by dividing total net rebate by total brand claims for the period. Track this quarterly. Declining rebate-per-claim with rising specialty share usually signals manufacturer payments shifting into excluded categories. Rising rebate-per-claim with rising gross spend may mean the rebate is keeping pace with cost rather than driving net cost down. Both patterns deserve a follow-up question to the PBM.
 
-When we help clients choose between these programs, we focus on three factors:
+**The pattern we find most often**
 
-> **1. Member population and drug mix.**
->
-> If your high-cost copay card utilization is concentrated in specialty drugs for serious conditions, member disruption from an accumulator program carries real clinical risk. Maximizer programs maintain adherence while still capturing savings.
+> **Across approximately 100 PBM contract reviews and audits annually at PBS, the consistent rebate finding:** the gap between gross rebate and net rebate is rarely the contracted pass-through percentage. It is usually a few percentage points lower, and the difference is captured in administrative-fee or data-licensing categories that the PBM classifies outside the rebate definition.
 
-> **2. PBM capability.**
->
-> Ask your PBM detailed questions about their maximizer administration. How do they track manufacturer card funding? What happens when a card maxes out mid-year? How is the transition handled? If the answers are vague, the execution may be too.
-
-> **3. Financial modeling.**
->
-> Run the numbers for your specific population. The savings difference between accumulator and maximizer depends on your drug mix, member demographics, and current copay card utilization. Generic projections do not substitute for plan-specific analysis.
+That is not unique to one PBM. It is structural across the contracted-rebate model. The plan sponsor's leverage is in the contract definition section: how the contract defines "rebate," what categories are explicitly included or excluded from pass-through, and what the remediation clause says when the categorization shifts.
 
 **What to do this quarter**
 
-> **Request a copay card utilization report from your PBM** showing which drugs have active manufacturer cards.
-> **Ask your PBM to model both accumulator and maximizer savings** for your specific plan.
-> **Review member communication requirements** for whichever approach you consider; member notification is critical for either program.
+> **Pull your last four quarterly rebate reports** and run the three comparison passes above.
+> **Open your contract's rebate definition** and the rebate pass-through clause. Note which manufacturer-payment categories the contract explicitly includes or excludes.
+> **Bring the gap to your broker or consultant** before renewal. Audit history is the strongest renewal-negotiation asset a plan sponsor has.
 
-The right program fits your plan's economics, your members' clinical needs, and your PBM's actual operational capability. We have seen both work well. We have also seen both implemented poorly. There is no universal answer, but there is a right answer for your plan.
+The decoded vocabulary (this morning's LinkedIn post) is the prerequisite. The audit (above) is the act. Both have to happen.
 
 ---
 
@@ -202,18 +196,18 @@ The right program fits your plan's economics, your members' clinical needs, and 
 
 ### Field Note Meta
 
-**SEO Title:** Copay Accumulator vs. Copay Maximizer: Choosing the Right Program | Benefit Blind Spots
-**Meta Description:** Accumulator and maximizer programs address copay card economics differently. Here is how to evaluate which approach fits your plan.
-**Tags:** copay accumulator, copay maximizer, manufacturer copay cards, pharmacy benefits, cost containment, self-funded employers
+**SEO Title:** Reading the Rebate Report Without Getting Spun | Benefit Blind Spots
+**Meta Description:** Five rebate terms decoded this morning. Here is how to actually audit a rebate report when it lands on your desk: three comparison passes, the pattern PBS sees most often across 100 contract reviews per year, and what to bring to renewal.
+**Tags:** rebate audit, rebate pass-through, PBM contracts, rebate reporting, pharmacy benefits, self-funded employers, contract definitions
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized card icons in deep teal-blue (#015880) outline, side by side, approximately 250px wide each, one labeled "ACCUMULATOR" and the other labeled "MAXIMIZER" in deep teal-blue bold sans-serif text across their faces. Between the two cards, a decision-arrow in Accent Blue (#A7E0FA) hovers, tilted slightly toward the right card to imply the choice in motion. The right card's outline is rendered in Accent Blue (#A7E0FA) as the active selection. Five small dollar-sign marks ($) in Accent Blue (#A7E0FA) are arrayed evenly along the arrow's path between the cards. Below the cards, two-tone centered headline: "Accumulator or Maximizer" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Structure That Matters" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design rebate report document in Primary Blue (#015880) outline, roughly 380px tall, with "REBATE REPORT" rendered in Plex Mono Medium uppercase across the top banner. The document body shows three horizontal data rows in alternating Primary Blue and Accent Blue thin rules, each annotated with a small Accent Blue (#A7E0FA) numbered tick mark (1, 2, 3) in the left margin. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion crossing one of the data rows with a small handwritten margin note. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers near the right edge of the document. Below the document, a two-tone centered headline reading "Three Passes." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "One Rebate Audit." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular, tabular figures in Plex Mono Medium for any numeric callout: "Gross vs. net. Categorization. Trend." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -305,7 +299,7 @@ The contract definition section is where the economics live. Most employers neve
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+This week's Benefit Blind Spots deep dive walks through how manufacturer programs (copay cards, accumulators, maximizers) interact with these contract definitions to determine where the dollars actually land. Includes a copay card financial impact model with the 5-step audit framework. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 
@@ -515,78 +509,117 @@ The manufacturer programs briefing covers the full copay card economics, from li
 
 ---
 
-### Thursday Excellence Slot (Slot A) - Manufacturer Pays $5,000. Three Places It Can Land.
+### Thursday Excellence Slot (Slot A) - 5 Rebate Terms Decoded — Marked-Up Contract Page Messy Infographic
 
-> **NOTE (updated May 8, 2026 evening):** This Thursday slot was previously "5 Rebate Terms Decoded" (swapped in from W17 May 1). That post has been **rescheduled to W29 Thursday Jul 23, 2026** (`evergreen_visual_backlog.md` entry #22) where it pairs cleanly with W29 Library 06 Rebate Definitions Tuesday + W29 Field Note "Three Rebate Report Red Flags." W20 Thursday now hosts a copay-card messy infographic that exclusively supports the W20 Field Note (Copay Accumulator vs. Copay Maximizer) per the Thursday Excellence Rule (Field Note must exclusively support the LinkedIn concept).
+> **NOTE (updated May 9, 2026 under Architecture B):** Previous Thursday slot content ("Manufacturer Pays $5,000. Three Places It Can Land.") was a copay-program messy infographic that paired with the original Accumulator vs Maximizer Field Note. Both displaced May 9, 2026 under the triple-distinct topic rule (Architecture B): Monday's Manufacturer Programs deep dive shares topic family with copay-program content, creating Thursday LinkedIn cannibalization risk (W15 pattern: 340 impressions when Thursday matches Monday topic family). 5 Rebate Terms Decoded restored to W20 Thursday per Ginny's "rebate original topic is always good" call (May 9, 2026); rebate decoder is adjacent to Monday Manufacturer Programs (different subject — rebate economics is the PBM-side compensation lever; manufacturer programs are the member-side cost-sharing lever) and hits 9 of 10 winning-profile traits. The displaced "Manufacturer Pays $5,000" messy infographic is logged in `evergreen_visual_backlog.md` for a future non-manufacturer-program Thursday Cost Containment slot. The Accumulator/Maximizer Field Note is logged in `field_note_backlog.md` as FN-04.
 
-- **Slot:** Thursday Excellence (Slot A category — messy infographic)
-- **Format:** Messy Infographic — photorealistic three-pill-bottle aesthetic per the W18 Channel Pricing secret-sauce thesis
-- **Pillar:** Cost Containment Strategies (with Manufacturer Programs topic anchor)
-- **Topic:** The $5,000 manufacturer copay assistance and where it lands
-- **Hook:** "Manufacturer pays $5,000 in copay card assistance per member per year. Three places the $5,000 can land. Your contract decides which."
-- **Winning-profile traits hit:** dollar comparison shape ✓ · named-actor framing (manufacturer as actor, contract as leverage) ✓ · plan-sponsor-actionable (which program does your contract specify?) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-bottle composition) ✓ · first-comment Substack cross-promo (to same-day Accumulator vs Maximizer Field Note) ✓ · proprietary anchor (~100 contracts/year at PBS) ✓ · save-driven structure (3-program decision reference) ✓ · single-image photoreal aesthetic ✓ — **9 of 10 traits.**
+- **Slot:** Thursday Excellence (Slot A — messy infographic, Marked-Up Contract Page aesthetic)
+- **Format:** Single image messy infographic, paper-card photoreal aesthetic. 1080 x 1350 px.
+- **Pillar:** PBM Contract Insights (highest-converting decoder pillar in the data set; W18 Channel Pricing precedent)
+- **Topic:** Five rebate-economics terms PBMs use to classify manufacturer payments outside the rebate pass-through clause
+- **Field Note pairing:** Same-day Substack Field Note "Reading the Rebate Report Without Getting Spun" (Thu May 21, 7:30 AM EST). LinkedIn post decodes the vocabulary; Field Note is the operational follow-on for using it on an actual rebate report.
+- **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Rebate Report Audit Worksheet" — `templates/documents/week_20_thursday_rebate_report_audit_worksheet.html/.pdf` (3-pass audit framework + paste-ready PBM data request).
+
+**Winning-profile traits hit (9 of 10 — clears 7+ bar):**
+1. Decoder shape ✓ — five-term contract-vocabulary decoder, the highest-converting shape in the data (20-25K floor, 9-12 followers per 10K)
+2. Dollar-comparison shape ✓ — central composition includes the gross-vs-net rebate gap line "Gross $X.XX. Net $Y.YY. Gap $Z.ZZ. The PBM keeps the gap."
+3. Named-actor framing ✓ — PBM as actor (writes the definitions, classifies the categories, keeps the gap); plan as victim; contract as leverage
+4. Plan-sponsor-actionable ✓ — every term has an audit step the reader can run on this week's rebate report
+5. Confrontational hook ✓ — "Five terms in your rebate report. Five definitions the PBM wrote. Four of them shrink your pass-through."
+6. Messy infographic format ✓ — Marked-Up Contract Page paper-card photoreal aesthetic (same DNA as W18 Channel Pricing 17K winner)
+7. First-comment Substack cross-promo ✓ — links to same-day Field Note "Reading the Rebate Report Without Getting Spun"
+8. Proprietary anchor ✓ — "~100 PBM contract reviews and audits annually at PBS; the gap between gross rebate and net rebate is rarely the contracted pass-through percentage"
+9. Save-driven structure ✓ — 5-term decoder is a reference asset readers bookmark (Library 01 saved at 200% of forecast on the same aesthetic)
+10. Single-image / photoreal aesthetic ✓ — single image, photoreal contract-page aesthetic, no carousel
 
 #### Post Copy
 
-Manufacturer pays $5,000 in copay card assistance per member per year. Three places the $5,000 can land. Your contract decides which.
+Five terms in your rebate report. Five definitions the PBM wrote. Four of them shrink your pass-through.
 
-Place 1: Member's out-of-pocket. Member hits their max faster. Plan covers everything afterward. The $5,000 just accelerated the plan's exposure.
+I review approximately 100 PBM contracts a year at PBS. The same five rebate-economics terms show up under different labels on nearly every contract. The plan sponsors who know what each one means audit their rebate reports against the contract. The ones who do not assume the rebate report is the rebate.
 
-Place 2: Plan offset under an accumulator. Manufacturer dollars do not count toward member's deductible. Plan absorbs less; member absorbs more.
+1. **Gross rebate.** Total manufacturer payments before any retention or admin offsets. Looks generous on the report; this is not the number that flows to your plan.
 
-Place 3: Plan offset under a maximizer. Manufacturer dollars are spread across the year. Member out-of-pocket stays predictable. Plan's exposure is capped at the contracted amount.
+2. **Net pass-through rebate.** What actually flows to the plan after the PBM applies its retention percentage. The contract names a pass-through percentage. Compare gross times percentage to actual net. The gap is usually a few points lower than the contract specifies.
 
-Same drug. Same $5,000 manufacturer payment. Three economic outcomes for your plan. The contract clause that decides which is rarely on the standard agenda.
+3. **Price protection rebate.** Manufacturer payments tied to drug price increases. Often defined separately from "rebate" in the contract definitions section, then carved out of the pass-through clause. Plan never sees these dollars.
 
-I review approximately 100 PBM contracts a year at PBS. The accumulator-vs-maximizer language sits in five clauses across three sections. The plan sponsors who know what those clauses say negotiate the program their plan needs. The ones who do not inherit the program their PBM defaults them to.
+4. **Administrative fee.** Manufacturer payments classified as PBM administrative fees rather than rebates. Sits outside the pass-through clause by definition. The fee-and-other share has been climbing year-over-year on most contracts we audit.
 
-*Illustrative example for educational purposes. Actual amounts vary by plan and program.*
+5. **Manufacturer drug education / data licensing payment.** PBM-collected manufacturer dollars classified as something other than rebate. Same effect as #4: outside the pass-through clause, retained by the PBM.
 
-Save this for your next benefits committee meeting.
+The pass-through clause does its job on item 2. It is silent on items 3, 4, and 5. The plan's leverage is in the contract definition section, not in the rebate report.
 
-#CopayCards #SelfFundedEmployers #EmployeeBenefits
+Save this for your next rebate-report review.
+
+#PBMContracts #Rebates #SelfFundedEmployers
 
 #### First Comment
 
-Today's Field Note on Benefit Blind Spots walks through the three evaluation factors that drive the accumulator-vs-maximizer choice — member access risk, plan economics, and specialty drug exposure. Specifically what to look at in your claims data before locking in a program for next plan year.
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually run a rebate-report audit using the five terms above. Three comparison passes (gross vs. net, categorization audit, rebate-per-claim trend) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Rebate Report Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 
-[SUBSTACK FIELD NOTE URL]
+#### Marked-Up Contract Page Concept
 
-#### Messy Infographic Concept
+**Aesthetic:** Photoreal close-up of a printed PBM contract definitions page on a desk, with handwritten margin annotations in red pen calling out the five rebate-economics terms and their pass-through implications. Same DNA as the W18 Channel Pricing 17K winner (paper-card photoreal aesthetic).
 
-**Format:** Single LinkedIn feed image, photorealistic top-down composition.
-**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
-**Setting:** Manufacturer copay assistance card above three pill bottles representing the three landing places, with hand-drawn red marker arrows and sepia annotations.
+**Visual elements:**
+- Photoreal printed contract page, slightly off-white paper (#F5F0E4), faint section header visible: "§ 4.07 Definitions of Manufacturer Payments"
+- Five visible printed term entries stacked vertically, each in Plex Mono 11pt black: "Gross Rebate," "Net Pass-Through Rebate," "Price Protection Rebate," "Administrative Fee," "Drug Education Payment"
+- Below each term, a short typed definition snippet in Plex Mono 10pt (rendered as legalese — readable enough to recognize as definitions, not blurred filler)
+- Five handwritten red-pen circles around the four terms (#2, #3, #4, #5) that the PBM uses to shrink pass-through, with handwritten margin annotations:
+  - Next to Gross Rebate: a yellow highlighter pass and red note: "The headline number"
+  - Next to Net Pass-Through: red circle around the percentage, red note: "Compare to actual. The gap is real."
+  - Next to Price Protection: red circle, red note: "Carved OUT of pass-through"
+  - Next to Administrative Fee: red circle, red note: "Outside pass-through clause"
+  - Next to Drug Education Payment: red circle, red note: "Same. Reclassified, retained."
+- Top of image, bold handwritten title in black marker, double-underlined: "Five rebate terms. Five definitions the PBM wrote."
+- Subtitle below in red pen: "Four of them sit outside the pass-through clause."
+- Bottom of image, small handwritten red note: "PBS reviews ~100 PBM contracts a year. The gap is the pattern."
+- A black ballpoint pen rests at a slight angle in the top-right corner of the desk surface
 
-**AI Image Generation Prompt (copy-paste as-is):**
+**Color hierarchy:**
+- Off-white printed contract page (paper texture)
+- Black printed contract definition body type
+- Red ballpoint handwriting for circles, margin notes, and corrections
+- Yellow highlighter pass over the gross-rebate definition only
+- Dark wood desk surface visible at edges
 
-> A photorealistic top-down photograph at 1080 x 1350 pixels of a clean light gray-tan desk surface, slight perspective angle. Centered toward the upper third of the canvas: a single off-white prescription card / coupon, slightly weathered, with printed text reading "MANUFACTURER COPAY ASSISTANCE" in clean serif at the top and "$5,000 PER MEMBER · ANNUAL" in monospace below. The card is tilted approximately 4 degrees clockwise.
->
-> Below the card, three identical clear plastic prescription pill bottles arranged in a horizontal row, evenly spaced, each with a small white printed prescription label. Reading left to right, the labels read:
->
-> Bottle 1: "MEMBER OOP"
-> Bottle 2: "PLAN — ACCUMULATOR"
-> Bottle 3: "PLAN — MAXIMIZER"
->
-> From the manufacturer card, three hand-drawn red marker arrows radiate downward, each terminating at one of the three pill bottles. Each arrow has a short hand-printed sepia annotation in casual marker handwriting (Caveat-style, slightly imperfect):
->
-> Arrow to Bottle 1 (Member OOP): "Member hits max faster. Plan absorbs the difference."
-> Arrow to Bottle 2 (Accumulator): "Doesn't count toward deductible. Plan absorbs less; member absorbs more."
-> Arrow to Bottle 3 (Maximizer): "Spread across year. Plan exposure capped."
->
-> Below the three bottles on the desk surface, a hand-printed line in red marker, double-underlined: "Same drug. Same $5,000. Three economic outcomes."
->
-> Below that line, smaller hand-printed sepia line: "Your contract decides which."
->
-> Soft natural daylight from upper-left, gentle shadows lower-right. The desk has subtle texture but no other objects, no logos, no brand marks, no FIELD NOTE badge (LinkedIn feed image, no Substack badge), no people, no text outside the card / bottles / hand-drawn annotations.
->
-> Style: photorealistic product photography, warm natural daylight, slightly imperfect handwriting (Caveat/Permanent Marker style with marker pressure variation). Color palette: light gray-tan desk surface, off-white paper / labels, clear plastic with subtle reflection, dark sepia ink, red marker accents.
+#### Image Generation Prompt
 
-**Canva touch-up (no publication branding — LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any label or annotation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching marker color.
-2. Verify the three arrow paths terminate clearly at the correct bottle (most common failure: arrows pointing at the wrong bottle).
-3. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-4. Export as PNG at 1080 x 1350.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 4.07 DEFINITIONS OF MANUFACTURER PAYMENTS." Below the header, five vertically stacked term entries, each formatted as a bold term name in Plex Mono Medium black followed by a 2-3 line definition snippet in Plex Mono Regular black smaller type (rendered as recognizable legalese, not blurred filler). The five term entries, top to bottom:
+>
+> 1. **Gross Rebate.** "Total manufacturer payments to the PBM, calculated before any retention, administrative offset, or category exclusion."
+> 2. **Net Pass-Through Rebate.** "Manufacturer payments passed to the plan sponsor at the contracted pass-through percentage of gross rebate."
+> 3. **Price Protection Rebate.** "Manufacturer payments tied to drug price increases. Excluded from the rebate pass-through clause."
+> 4. **Administrative Fee.** "Manufacturer payments classified as PBM administrative compensation. Outside the rebate pass-through definition."
+> 5. **Drug Education / Data Licensing Payment.** "Manufacturer-funded payments for educational programming or data services. Not classified as rebate."
+>
+> Five handwritten red ballpoint annotations are drawn in the margins:
+> - A yellow highlighter pass (#F4E27B at 60% opacity) covers the Gross Rebate definition, with a red handwritten note in the right margin: "The headline number"
+> - A red circle around the percentage in the Net Pass-Through definition, with a red note: "Compare to actual. The gap is real."
+> - A red circle around "Excluded" in the Price Protection definition, with a red note: "Carved OUT of pass-through"
+> - A red circle around "Outside" in the Administrative Fee definition, with a red note: "Outside pass-through clause"
+> - A red circle around "Not classified" in the Drug Education Payment definition, with a red note: "Same. Reclassified, retained."
+>
+> At the top of the page, in larger handwritten black marker, double-underlined: "Five rebate terms. Five definitions the PBM wrote."
+>
+> Directly below, in handwritten red pen: "Four of them sit outside the pass-through clause."
+>
+> At the bottom of the page, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. The gap is the pattern."
+>
+> A black ballpoint pen rests at an angle in the top-right corner of the desk surface.
+>
+> Style: realistic paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style, uneven line spacing, minor ink variation) for authenticity. Colors: off-white contract paper (#F5F0E4), faint black printed legalese, red handwritten ballpoint, yellow highlighter (#F4E27B at 60% opacity), dark wood desk. No logos, no brand marks, no people, no PBM names, no client names. The image stands on its own without additional branding overlays.
+
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the five term names and red-pen margin annotations at mobile size
+3. If any handwritten text renders illegibly or with misspellings, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
+4. Verify the title "Five rebate terms. Five definitions the PBM wrote." is readable in feed thumbnail
+5. Verify the five term names render with visible distinction (different definitions, not repeated filler)
+6. Verify the yellow highlighter overlays the Gross Rebate definition only
+7. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
+8. Export as PNG at 1080 x 1350
 
 ---
 
