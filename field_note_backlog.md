@@ -21,6 +21,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-03 | How Plan Sponsors Actually Enforce Audit Rights | PBM Contract Insights | W23 (displaced May 8, 2026 evening when W23 Field Note retargeted again to Admin Fees per "don't make whole week audit rights" guidance — Tuesday Library 03 already covers Audit Rights and routes to Contract Library) | available |
 | FN-04 | Copay Accumulator vs. Copay Maximizer: Choosing the Right Program | Cost Containment | W20 (displaced May 9, 2026 under Architecture B triple-distinct topic rule — Field Note matched Monday Manufacturer Programs deep dive, creating Thursday LinkedIn cannibalization risk if Thursday post aligned with Field Note. Field Note retargeted to rebate-themed pairing with 5 Rebate Terms Decoded Thursday LinkedIn) | available |
 | FN-05 | Five Lines to Read First in Your PBM's Quarterly Report | Transparency & Industry Education | W21 (displaced May 9, 2026 under Architecture B triple-distinct topic rule — Field Note matched Monday Quarterly Reporting deep dive. Field Note retargeted to MAC pricing pairing with W21 Thursday Same MAC Slot B carousel) | available |
+| FN-06 | Three Biosimilar Contract Provisions Worth Negotiating | Cost Containment | W22 (displaced May 9, 2026 under Architecture B triple-distinct topic rule — Field Note matched Monday Biosimilar Strategy deep dive. Field Note retargeted to Specialty Pharmacy Routing pairing with W22 Thursday 5 Specialty Routing Terms Decoded) | available |
 
 ---
 
@@ -394,3 +395,58 @@ The five-line read is not the full audit. It is what to do this week, with the r
 **SEO Title:** Five Lines to Read First in Your PBM's Quarterly Report | Benefit Blind Spots
 **Meta Description:** The 30-minute version of the full PBM quarterly reporting audit. Five lines to scan in your most recent report this week.
 **Tags:** PBM quarterly reporting, transparency, pharmacy benefits, self-funded employers, audit, plan sponsor toolkit
+
+---
+
+## FN-06: Three Biosimilar Contract Provisions Worth Negotiating
+
+**Original week:** 22 (June 4, 2026 publish date — needs re-anchoring before reuse)
+**Pillar:** Cost Containment
+**Length:** ~550 words (~3 min read)
+**Tone:** Practical, tactical
+**Why it was displaced:** W22 Thursday Field Note matched Monday's Biosimilar Strategy deep dive topic family. Under Architecture B (Thursday Field Note + Thursday LinkedIn = same topic, both adjacent or different from Monday), keeping the Field Note on biosimilar provisions would force Thursday LinkedIn to also cover biosimilars, cannibalizing Monday LinkedIn newsletter reach. Field Note retargeted to Specialty Pharmacy Routing pairing with W22 Thursday "5 Specialty Routing Terms Decoded" LinkedIn messy infographic. This Biosimilar Provisions Field Note remains a strong Cost Containment field note and should be slotted into a future Thursday whose Monday topic is NOT biosimilar / specialty pharmacy / formulary-positioning — natural fits include W30 Site of Care (different angle on specialty cost containment), W36 Contract Red Flags (contract-language angle), or any Q4 renewal-prep week.
+
+**Re-anchoring notes before reuse:**
+- "We have been reviewing PBM contracts this quarter with a specific focus on biosimilar language" — opener stays evergreen, no anchoring needed.
+- The three provisions (Dispensing Rate Guarantee, Transition Timeline, Net Cost Comparison Reporting) are evergreen.
+- Confirm the "90-day evaluation and transition commitment" market-standard reference is still current.
+
+---
+
+### Field Note Body (FN-06 draft)
+
+We have been reviewing PBM contracts this quarter with a specific focus on biosimilar language. Here is what we are finding: most contracts say very little about biosimilars. That silence has a cost.
+
+When a PBM contract does not address biosimilar performance, the PBM has no obligation to prioritize biosimilar adoption. Formulary decisions default to whatever serves the PBM's financial model, which may or may not align with the plan's cost objectives. Three contract provisions can change that dynamic.
+
+> **Provision 1: Biosimilar Dispensing Rate Guarantee**
+>
+> This is the most direct performance metric. It establishes a minimum percentage of biologic claims that must be filled with a biosimilar when one is available. The guarantee creates accountability. Without it, you are relying on the PBM's good faith that their formulary prioritizes the lowest net cost option.
+>
+> When negotiating this provision, define the denominator carefully. Which therapeutic categories are included? Are specialty pharmacy claims included alongside retail? Is the rate measured at the claim level or the member level? Vague definitions produce metrics that look good on paper but do not reflect actual performance.
+
+> **Provision 2: Brand-to-Biosimilar Transition Timeline**
+>
+> When a new biosimilar launches, how quickly does the PBM move it to preferred status? A transition timeline provision requires the PBM to evaluate and implement formulary changes within a defined period after FDA approval of a new biosimilar. Without this language, transition timelines are entirely at the PBM's discretion.
+>
+> We see plans where biosimilars that have been available for over a year still sit at non-preferred status. That delay costs the plan money every month. A 90-day evaluation and transition commitment is reasonable and increasingly standard in well-negotiated contracts.
+
+> **Provision 3: Net Cost Comparison Reporting**
+>
+> This provision requires the PBM to provide regular reporting that compares the net cost (after rebates, fees, and administrative costs) of brand biologics versus available biosimilars for your specific plan population. This is the transparency tool that reveals whether the formulary is serving the plan or the PBM's rebate economics.
+>
+> Request this reporting quarterly. The data should be specific enough to show, by therapeutic category, what the plan paid net for the brand versus what it would have paid for the biosimilar. If the PBM resists providing this level of detail, that resistance tells you something important about whose interests the current formulary serves.
+
+**How to introduce these provisions**
+
+If your contract is up for renewal, include all three as negotiation points. If renewal is not imminent, request a contract amendment or addendum. Some PBMs will push back. That pushback itself is informative. A PBM confident in its biosimilar strategy should welcome performance guarantees and transparency requirements.
+
+Work with your broker or consultant to benchmark these provisions against market standards. The language is becoming more common in well-negotiated contracts, which means PBMs are already agreeing to these terms with other clients.
+
+---
+
+### Field Note Meta (FN-06 draft)
+
+**SEO Title:** Three Biosimilar Contract Provisions Worth Negotiating | Benefit Blind Spots
+**Meta Description:** Most PBM contracts say nothing about biosimilar performance. Three provisions that create accountability: dispensing rate guarantees, transition timelines, and net cost reporting.
+**Tags:** biosimilars, PBM contracts, contract negotiation, pharmacy benefits, self-funded employers, cost containment
