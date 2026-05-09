@@ -189,46 +189,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## What a PBM Transition Actually Looks Like: Timeline and Pitfalls
+## Auditing How Your PBM Actually Makes Money
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 9, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
 **Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 PBM Compensation Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the five revenue mechanisms PBMs use; Field Note is the operational follow-on for auditing which mechanisms apply to your contract.
+**Why this pairing (not the displaced "PBM Transition" draft):** Architecture B triple-distinct topic rule — Monday W27 is PBM Evaluation (deciding to stay or switch); Thursday is PBM Compensation (how the PBM actually makes money on your plan). Adjacent within PBM Contract Insights pillar, different subject matter (evaluation decision vs. compensation mechanisms). Original "PBM Transition Timeline" Field Note parked as FN-10.
 
 ---
 
 ### Field Note Body
 
-We have guided clients through PBM transitions, and the most common surprise is not the cost or the complexity. It is the timeline. Employers who decide to switch PBMs often underestimate how long the process takes from decision to go-live.
+This morning's LinkedIn post decoded the five mechanisms PBMs use to compensate themselves: spread pricing, rebate retention, administrative fees, manufacturer-direct payments, and PBM-owned-pharmacy margin. Today is the operational follow-on. You have the vocabulary. Here is how to audit which mechanisms apply to your specific contract.
 
-Here is what a realistic timeline looks like, and where the pitfalls hide.
+We run PBM compensation audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**Months 1-2: RFP and evaluation**
+**Pass one: identify which compensation mechanisms your contract authorizes**
 
-The RFP process itself takes 6-8 weeks when done properly. Drafting the RFP, distributing to qualified PBMs, receiving responses, normalizing pricing methodologies for comparison, conducting finalist presentations, and making the selection. Rushing this phase leads to poor evaluations. The PBMs know this and will pressure you to decide quickly. Your broker can manage the timeline and push back on artificial deadlines.
+Open your contract. For each of the five mechanisms decoded this morning, find the clause that authorizes (or excludes) it. Spread pricing is in the pricing methodology clause; rebate retention is in the rebate definition and pass-through clauses; administrative fees are in the fee schedule; manufacturer-direct payments are in the rebate definition exclusions; PBM-owned-pharmacy margin is in the network and routing clauses.
 
-**Months 3-4: Contract negotiation**
+For each mechanism, classify: explicitly authorized, implicitly authorized (silent — default favors PBM), or excluded. Most contracts have all five implicitly authorized.
 
-Once you select a PBM, the contract negotiation takes 4-8 weeks. This is where every guarantee, every performance metric, every reporting requirement, and every termination provision gets defined. Do not rush this. The contract you sign determines the relationship for 2-3 years. Every provision that gets deferred to "we will work that out after implementation" is a provision that will not get resolved in your favor.
+**Pass two: estimate the dollar magnitude of each mechanism**
 
-**Months 5-6: Implementation**
+For each authorized mechanism, estimate the annual dollar magnitude on your plan. Spread is calculated from per-claim margin × claim volume; rebate retention is gross rebate × retention percentage; administrative fees are per-claim or PEPM × volume; manufacturer-direct payments are typically not disclosed and require contract-language interrogation; PBM-owned-pharmacy margin requires the specialty routing data.
 
-Implementation is where member experience is most at risk. New pharmacy cards need to be produced and distributed. Formulary mapping from the old PBM to the new PBM must be completed (which drugs are covered, at which tier, with which PA requirements). Claims processing systems need to be configured and tested. Member communications need to be drafted and sent. Provider notifications need to go out.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four mechanisms are where the rest sits. Plan sponsors who only track administrative fees see a small fraction of total PBM compensation.
 
-**Common pitfalls we see:**
+**Pass three: map the disclosure obligations**
 
-*Formulary mapping gaps.* The new PBM's formulary may not match the old one exactly. Members on specific drugs may face tier changes, new PA requirements, or coverage gaps. Identify these before go-live, not after members start calling.
+For each mechanism, find the contract's disclosure obligation: what reporting must the PBM provide, on what cadence, with what level of detail. Some mechanisms (administrative fees) are typically disclosed quarterly. Others (manufacturer-direct payments classified as fees) are typically not disclosed at all.
 
-*Data migration delays.* Claims history, PA authorizations, and accumulator data (deductible and out-of-pocket progress) need to transfer from the old PBM to the new one. This transfer is routinely problematic. Build extra time into the timeline for data validation.
+The disclosure gap is the renewal-leverage item. A PBM confident in its compensation structure should welcome disclosure obligations. A PBM resistant to disclosure is signaling something about what the disclosure would reveal.
 
-*Member communication timing.* Communicating too early creates confusion (the transition is months away). Communicating too late creates disruption (members find out at the pharmacy counter). The sweet spot is 30-45 days before go-live, with a follow-up at 7-10 days before.
+**What to do this quarter**
 
-*Stop-loss coordination.* If your PBM transition coincides with a stop-loss renewal, coordinate both timelines. Changes to your pharmacy benefit structure affect your stop-loss carrier's exposure calculation. Your broker should manage both conversations in parallel.
+> **Pull the contract clauses for all five compensation mechanisms.** Classify each as authorized, implicitly authorized, or excluded.
+> **Estimate the dollar magnitude of each authorized mechanism.** Compare to the headline administrative fee.
+> **Map the disclosure obligation for each.** The undisclosed mechanisms are the renewal-leverage items.
 
-**The realistic minimum timeline:** 6 months from RFP launch to go-live. Compressed timelines are possible but increase implementation risk. If you are considering a transition for January 1, the RFP should launch no later than July.
+The decoded vocabulary tells you the mechanisms. The audit tells you which ones apply to your contract and at what magnitude. Both have to happen before renewal.
 
 ---
 
@@ -240,21 +244,21 @@ Implementation is where member experience is most at risk. New pharmacy cards ne
 
 ### Field Note Meta
 
-**SEO Title:** What a PBM Transition Actually Looks Like | Benefit Blind Spots
-**SEO URL Slug:** pbm-transition-timeline-pitfalls
-**Meta Description:** Realistic PBM transition timeline: 6 months minimum from RFP to go-live. Common pitfalls in formulary mapping, data migration, and member communication.
-**Tags:** PBM transition, PBM switch, implementation, self-funded employers, pharmacy benefits
+**SEO Title:** Auditing How Your PBM Actually Makes Money | Benefit Blind Spots
+**SEO URL Slug:** audit-pbm-compensation-mechanisms
+**Meta Description:** Five PBM compensation mechanisms decoded this morning. Three audit passes plan sponsors can run on the contract to identify which mechanisms apply, the dollar magnitude of each, and the disclosure gap.
+**Tags:** PBM compensation, spread pricing, rebate retention, administrative fees, manufacturer-direct payments, self-funded employers, contract audit
 
 ---
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized horizontal timeline icon in deep teal-blue (#015880), roughly 500px wide, with "TRANSITION" rendered in deep teal-blue bold sans-serif text above the timeline. Four milestone dots sit along the timeline at evenly spaced intervals, labeled "30," "60," "90," "120" days in deep teal-blue. A small moving marker in Accent Blue (#A7E0FA) sits between the 30 and 60 dots implying transition in progress, with a short motion arc trailing behind it. The 60-day dot is highlighted in Accent Blue (#A7E0FA) with a ring accent. Twelve small tick marks in Accent Blue sit evenly along the timeline baseline. Below the timeline, two-tone centered headline: "What a PBM Transition" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Actually Looks Like" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: five flat-design dollar-sign tokens in Primary Blue (#015880) outline, arranged in a horizontal row, each roughly 100px tall. Each token is labeled in Plex Mono Medium small caps below: "SPREAD," "REBATE," "ADMIN FEE," "MFR DIRECT," "OWNED-RX." Each token has a small Accent Blue (#A7E0FA) ring around it indicating active compensation flow. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers above the row. Three numbered tick marks in Accent Blue (#A7E0FA) below the tokens, suggesting three audit passes. Below the composition, a two-tone centered headline: "Five Revenue Streams." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "One PBM Contract." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. The four streams beyond the admin fee." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -574,36 +578,67 @@ The full PBM evaluation scorecard with weighted scoring criteria is in this week
 
 ---
 
-### Thursday Evergreen Rotation (Slot B) - Same plan. Same data. Different PBM interpretations.
+### Thursday Excellence Slot - 5 PBM Compensation Terms Decoded — Marked-Up Contract Page Messy Infographic
 
-- **Slot:** B
-- **Format:** Carousel (6 slides)
-- **Pillar:** Cost Containment Strategies
-- **Topic:** Same plan. Same data. Different PBM interpretations.
-- **Hook:** "Same plan. Same claims file. Send it to three PBMs for an RFP. Get three different trend stories. The data is fixed. The narrative is a choice."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same plan. Same data. Different PBM interpretations." three-clipboard carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence — replaced with PBM Contract Insights pillar messy infographic that hits more winning-profile traits and pairs with the W27 Field Note retarget. Original Slot B Same/Same/Different content preserved in `evergreen_visual_backlog.md` as concept #29.
 
-**Content outline (Same/Same/Different structure, parallel lines then punchline):**
-- Slide 1 (Hook): "Same plan. Same data. Different PBM interpretations." Swipe indicator in Accent Blue.
-- Slide 2 (PBM A): "PBM A: trend is specialty-driven. Their solution: specialty pharmacy contract improvements."
-- Slide 3 (PBM B): "PBM B: same data. Trend is utilization-driven. Their solution: clinical programs and step therapy."
-- Slide 4 (PBM C): "PBM C: same data. Trend is mix-driven. Their solution: formulary changes and rebate optimization."
-- Slide 5 (Punchline): "Same data. Three diagnoses. Three prescriptions. Each one profitable for the PBM recommending it." Accent Blue underline under "profitable."
-- Slide 6 (CTA): Primary Blue background. White: "The data is the data. The interpretation is the sale. Verify independently." team@rxbs.org | Benefit Blind Spots | PBS logo.
+**Format:** Single messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing How Your PBM Actually Makes Money."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "PBM Compensation Audit Worksheet" — `templates/documents/week_27_thursday_pbm_compensation_audit.html/.pdf`.
 
-#### Same/Same/Different Carousel Concept
+**Winning-profile traits hit (10 of 10 — clears 7+ bar):** decoder shape · dollar-comparison shape (each compensation mechanism is a $ flow) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five revenue streams flow from your plan to your PBM. Most plan sponsors only track one of them.
 
-**Setting:** Three clipboards with report printouts, each with different highlighted numbers.
+I review approximately 100 PBM contracts a year at PBS. Aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four streams are where the rest sits. The contract authorizes them; the disclosure obligations rarely require the PBM to show them.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five streams to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three wooden clipboards are laid out in a row on a light gray surface, evenly spaced. Each clipboard holds a printed report page with a header reading, left to right: "PBM A Analysis," "PBM B Analysis," "PBM C Analysis." Each page shows the same table of claims data at the top, but different numbers have been highlighted in different colored highlighter (yellow, pink, green) to emphasize different categories. A capped highlighter of the matching color rests next to each clipboard. No logos, no brand marks, no people, no text outside the clipboards.
+1. **Spread Pricing.** The difference between what your plan pays the PBM per claim and what the PBM pays the dispensing pharmacy. Public on the MAC list; private on the margin per channel.
+
+2. **Rebate Retention.** The portion of manufacturer rebates the PBM keeps as compensation. Pass-through clauses define what flows to the plan; everything outside that definition is retained.
+
+3. **Administrative Fee.** The headline number on the proposal: per-claim or PEPM compensation. Often the only stream plan sponsors track. Usually the smallest.
+
+4. **Manufacturer-Direct Payments.** Manufacturer payments to the PBM classified as administrative fees, data licensing fees, or drug education payments — not "rebate." Outside the rebate pass-through clause by definition.
+
+5. **PBM-Owned-Pharmacy Margin.** When specialty drugs route to the PBM-affiliated pharmacy, the dispensing margin stays inside the PBM corporate family. Routed through the contract's specialty network and prior-authorization workflow design.
+
+The headline fee is the cover. The four streams above are where the economics live.
+
+Save this for your next compensation audit.
+
+#PBMContracts #PBMCompensation #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the contract to identify which compensation mechanisms apply, estimate the dollar magnitude of each, and map the disclosure gap. Plus a paste-ready PBM Compensation Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Marked-Up Contract Page Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 4.02 PBM COMPENSATION AND REVENUE STREAMS." Below the header, five vertically stacked term entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
 >
-> Above the three clipboards, in clean bold handwriting on the surface: Same data. Three interpretations.
+> 1. **Spread Pricing.** "The difference between Plan Sponsor's payment to PBM per claim and PBM's payment to dispensing pharmacy."
+> 2. **Rebate Retention.** "PBM shall retain the portion of manufacturer rebates not explicitly defined as Pass-Through Rebates herein."
+> 3. **Administrative Fee.** "Plan Sponsor shall pay PBM a per-claim administrative fee as set forth in Schedule A."
+> 4. **Manufacturer-Direct Payments.** "Payments from manufacturers classified as administrative fees, data licensing, or educational programming shall not be classified as Rebates."
+> 5. **Owned-Pharmacy Margin.** "Specialty drug claims dispensed through PBM-affiliated pharmacies shall be subject to separate dispensing economics as defined in Schedule SP-1."
 >
+> Five handwritten red ballpoint annotations:
+> - Red circle around "difference" in clause 1, red note: "Public MAC. Private margin."
+> - Red circle around "not explicitly defined" in clause 2, red note: "Definition is the leverage"
+> - Red circle around "per-claim administrative fee" in clause 3, red note: "Headline only. Smallest stream."
+> - Red circle around "shall not be classified as Rebates" in clause 4, red note: "Outside pass-through"
+> - Red circle around "separate dispensing economics" in clause 5, red note: "Margin stays in the family"
+>
+> Top of page, handwritten black marker, double-underlined: "Five revenue streams."
+> Below in red pen: "Most plan sponsors only track one of them."
+> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. Aggregate compensation > headline fee."
+>
+> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
 > Below the clipboards, in smaller handwriting: The data is fixed. The narrative is a choice.
 >
 > Style: realistic product photography, soft even daylight, subtle shadows under each clipboard, slight paper texture. Colors: warm wood clipboard clips, white report pages with black tabular data, yellow, pink, and green highlighter strokes, light gray surface, black handwritten ink.
