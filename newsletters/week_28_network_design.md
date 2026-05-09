@@ -467,60 +467,82 @@ Full network cost comparison model in this week's Pharmacy Benefits Briefing. Fo
 
 ---
 
-### Thursday Evergreen Rotation (Slot C) - 5 Questions About Mail-Order Economics
+### Thursday Excellence Slot - 5 GER Terms Decoded — Chart-on-Whiteboard Messy Infographic
 
-- **Slot:** C
-- **Format:** Carousel (6 slides)
-- **Pillar:** Transparency & Industry Education
-- **Topic:** 5 Questions About Mail-Order Economics
-- **Hook:** "Mail-order pharmacy markets itself as savings. Five questions that reveal who is actually saving, your plan or your PBM."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Mail-Order Economics" shipping-box carousel. Displaced under Architecture B (mail-order economics matched Monday Network Design topic family) and replaced with 5 Generic Effective Rate (GER) Terms Decoded that pairs with W28 Field Note "Auditing Your Generic Effective Rate Against the Guarantee." Format: Chart-on-Whiteboard messy infographic — GER calculation math fits naturally on a whiteboard with handwritten percentages, gap-visualization arrows, and audit annotations. Original Slot C 5-Questions shipping-box carousel content preserved in `evergreen_visual_backlog.md` as concept #30.
 
-**Content outline (5 confrontational questions, each with one-line why-it-matters):**
-- Slide 1 (Hook): "5 Questions About Mail-Order Economics." Accent Blue swipe indicator.
-- Slide 2 (Q1): "Who owns the mail-order pharmacy our plan uses?" Why it matters: if the PBM or a PBM affiliate owns the pharmacy, mail-order savings and PBM revenue are the same dollars.
-- Slide 3 (Q2): "What is the net cost per script, mail-order versus 90-day retail, for our top 25 drugs?" Why it matters: the "mail order saves" claim is a per-category answer, not a universal one. Some drugs are cheaper at retail.
-- Slide 4 (Q3): "Is our mail-order program mandatory, preferred, or optional, and what is the member impact?" Why it matters: mandatory mail programs move volume to the PBM-owned pharmacy regardless of whether that is the cheapest option for your plan.
-- Slide 5 (Q4): "What is the waste rate on our 90-day mail-order fills?" Why it matters: unused medication is a cost with no clinical benefit. Mail-order savings net of waste is the real number.
-- Slide 6 (Q5): "Can we audit mail-order pricing against retail 90-day for the same drug?" Why it matters: the comparison is contractually available only if you negotiated the right to it. Without audit rights, the savings claim is a marketing statement.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One channel. Know who is saving." team@rxbs.org | Benefit Blind Spots.
+**Format:** Single messy infographic, Chart-on-Whiteboard aesthetic (whiteboard with handwritten GER chart + red-pen audit annotations). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your Generic Effective Rate Against the Guarantee."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "GER Audit Worksheet" — `templates/documents/week_28_thursday_ger_audit_worksheet.html/.pdf`.
 
-#### 5 Questions Carousel Concept
+**Winning-profile traits hit (10 of 10):** decoder shape · dollar-comparison shape (actual vs. guarantee gap rendered visually) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Chart-on-Whiteboard variant) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five terms decide whether your generic effective rate guarantee actually applies to your plan's generic spend. The PBM controls four of them.
 
-**Setting:** A shipping label or parcel box with questions written on it in marker.
+I review approximately 100 PBM contracts a year at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five terms to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A plain brown cardboard shipping box sits centered on a light gray surface. A white shipping label is affixed to the top face of the box, printed with a generic "Pharmacy Shipment" header and a redacted address block. A black permanent marker rests diagonally next to the box. Across the cardboard surface around the label, five questions are hand-written in bold black marker, each in its own area. No logos, no brand marks, no people, no text outside the box.
+1. **GER Calculation Methodology.** How GER is computed: usually a percentage discount off AWP on generic ingredient cost. The denominator and the time window are the leverage points. The PBM's report formula and the contract's definition often differ.
+
+2. **Exclusion List.** Drugs or categories excluded from the GER calculation: limited-distribution generics, single-source generics, drugs added mid-year, specialty generics. Drift in the exclusion list shrinks the contracted guarantee's coverage over time.
+
+3. **Multi-Source vs. Single-Source Treatment.** Whether single-source generics (no competitive alternative) are scored against the same guarantee as multi-source generics. Single-source is where margin lives; carving them out of the guarantee is common.
+
+4. **MAC List Update Frequency.** How often the PBM updates the Maximum Allowable Cost list that drives generic reimbursement. Weekly is contractually common; the workflow update can lag, and the lag favors the PBM.
+
+5. **Remediation Language.** What happens when actual GER falls below the guarantee: cash true-up, credit against next-year fees, or PBM "remediation" left undefined. Undefined remediation is functionally no remediation.
+
+The GER guarantee is the contract. The actual GER is the audit. The gap is the leverage.
+
+Save this for your next quarterly review.
+
+#PBMContracts #GenericEffectiveRate #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual GER vs. the contracted guarantee (formula verification, gap calculation, exclusion list audit). Plus a paste-ready GER Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Chart-on-Whiteboard Image Generation Prompt
+
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A clean white office whiteboard fills the frame, slightly off-axis (1-2 degrees), faint board-marker residue visible on the surface from prior writing partially erased. Soft natural overhead daylight, no harsh shadows. A black dry-erase marker rests in the bottom-left tray of the whiteboard.
 >
-> Above the shipping label, in larger handwriting, black marker, double-underlined: 5 Questions About Mail-Order Economics
+> The whiteboard contains a hand-drawn chart and five hand-written audit notes:
 >
-> The five hand-written questions on the cardboard read, in order:
+> At the top of the whiteboard, in larger black-marker handwriting, double-underlined: "GER · Actual vs. Guarantee"
 >
-> 1. Who owns the mail-order pharmacy our plan uses?
-> 2. What is the net cost per script, mail-order vs 90-day retail, for our top 25 drugs?
-> 3. Is our mail-order program mandatory, preferred, or optional?
-> 4. What is the waste rate on our 90-day mail-order fills?
-> 5. Can we audit mail-order pricing against retail 90-day for the same drug?
+> Below the title, a hand-drawn horizontal bar chart with two bars side-by-side, each roughly 280 pixels wide. The left bar is labeled "GUARANTEE" in black marker and extends to a clean horizontal mark at "85%" (rendered in marker tabular figures). The right bar is labeled "ACTUAL" in black marker and extends to a slightly shorter mark at "82%". The space between the two bar tops is shaded in red-marker hatching with a hand-drawn red-marker arrow pointing into the gap, labeled in red: "GAP = remediation owed."
 >
-> Style: realistic product photography, soft overhead daylight, natural shadow under the box, visible cardboard grain and corrugation. Slightly imperfect handwriting (uneven line spacing, marker bleed into the cardboard) for authenticity. Colors: warm tan cardboard, white shipping label with black printed text, bold black marker handwriting, light gray surface.
+> Below the chart, five hand-written term annotations in black marker, each numbered and underlined:
+>
+> 1. "GER methodology: contract formula vs. report formula"
+> 2. "Exclusion list: which generics are NOT in the guarantee"
+> 3. "Multi-source vs. single-source treatment"
+> 4. "MAC update frequency: weekly per contract"
+> 5. "Remediation language: cash true-up or 'TBD'?"
+>
+> Five red-marker audit annotations to the right of the term list, each connected by a short curved arrow:
+> - Arrow to term 1, red note: "Match the formulas first."
+> - Arrow to term 2, red note: "Drift = shrinking guarantee."
+> - Arrow to term 3, red note: "Single-source = margin."
+> - Arrow to term 4, red note: "Workflow lag favors PBM."
+> - Arrow to term 5, red note: "Undefined = no remedy."
+>
+> At the bottom of the whiteboard, in smaller red-marker handwriting: "PBS reviews ~100 PBM contracts a year. The gap is rarely flagged by the PBM. The audit is how it gets flagged."
+>
+> Style: realistic dry-erase whiteboard photography, soft natural daylight, slight glare in upper-right corner, faint surface texture and ghost-erase marks visible. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style with marker pressure variation) for authenticity. Colors: white whiteboard, black dry-erase marker for primary text, red dry-erase marker for audit annotations and the gap shading. No logos, no brand marks, no people, no PBM names.
 
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Shipping box photo described above. Title overlay: "5 Questions About Mail-Order Economics." Accent Blue swipe indicator.
-- Slide 2 (Q1): "Who owns the mail-order pharmacy our plan uses?" Why it matters: if the PBM or a PBM affiliate owns the pharmacy, mail-order savings and PBM revenue are the same dollars.
-- Slide 3 (Q2): "What is the net cost per script, mail-order versus 90-day retail, for our top 25 drugs?" Why it matters: the "mail order saves" claim is a per-category answer, not a universal one. Some drugs are cheaper at retail.
-- Slide 4 (Q3): "Is our mail-order program mandatory, preferred, or optional, and what is the member impact?" Why it matters: mandatory mail programs move volume to the PBM-owned pharmacy regardless of whether that is the cheapest option for your plan.
-- Slide 5 (Q4): "What is the waste rate on our 90-day mail-order fills?" Why it matters: unused medication is a cost with no clinical benefit. Mail-order savings net of waste is the real number.
-- Slide 6 (Q5): "Can we audit mail-order pricing against retail 90-day for the same drug?" Why it matters: the comparison is contractually available only if you negotiated the right to it. Without audit rights, the savings claim is a marketing statement.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One channel. Know who is saving." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any question text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching marker color.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the bar chart and five term annotations at mobile size
+3. If the bar chart percentages render unclearly, overlay clean tabular figures in Caveat / Permanent Marker font
+4. Verify the gap-arrow callout reads cleanly ("GAP = remediation owed") in feed thumbnail
+5. Verify the five term annotations render distinctly (most common AI failure: repeated text)
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+7. Export as PNG at 1080 x 1350
 
 ---
 
