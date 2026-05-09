@@ -17,7 +17,7 @@
 | Wed May 20 | 8:30 AM | LinkedIn Feed | Post 70 - "Free drug. Full price claim. Your plan pays." Tease Hook (TEXT) | [ ] |
 | Wed May 20 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 21 | 7:30 AM | Substack | Field Note: "Copay Accumulator vs. Copay Maximizer" | [ ] |
-| Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - 5 Rebate Terms Decoded (Messy Infographic, Slot A evergreen rotation; swapped from W17 Thursday May 1 which did not ship) | [ ] |
+| Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - "Manufacturer Pays $5,000. Three Places It Can Land." Messy Infographic (Thursday Excellence slot, photoreal three-pill-bottle composition, pairs with same-day Field Note on Accumulator vs Maximizer) | [ ] |
 | Thu May 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 71 | [ ] |
 | Thu May 21 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 22 | 8:30 AM | LinkedIn Feed | Post 72 - "14 Pages, 5 Sections, 0 Numbers That Matter" Tease Hook (TEXT) | [ ] |
@@ -515,53 +515,78 @@ The manufacturer programs briefing covers the full copay card economics, from li
 
 ---
 
-### Thursday Evergreen Rotation (Slot A) - 5 Rebate Terms Decoded
+### Thursday Excellence Slot (Slot A) - Manufacturer Pays $5,000. Three Places It Can Land.
 
-> **NOTE (added May 1):** This slot is filled by 5 Rebate Terms Decoded, swapped in from W17 Thursday May 1 (Carve-Out week) where the post was scheduled but did not ship. The originally planned W20 Slot A content (5 Specialty Pharmacy Terms Decoded) has moved to `evergreen_visual_backlog.md` entry #23 and is available for any future Thursday Slot A in a week where the Monday topic is not specialty-related (W34 Specialty Management would cannibalize; W22 Biosimilar / W26 Formulary / W28 Network Design are clean fits).
+> **NOTE (updated May 8, 2026 evening):** This Thursday slot was previously "5 Rebate Terms Decoded" (swapped in from W17 May 1). That post has been **rescheduled to W29 Thursday Jul 23, 2026** (`evergreen_visual_backlog.md` entry #22) where it pairs cleanly with W29 Library 06 Rebate Definitions Tuesday + W29 Field Note "Three Rebate Report Red Flags." W20 Thursday now hosts a copay-card messy infographic that exclusively supports the W20 Field Note (Copay Accumulator vs. Copay Maximizer) per the Thursday Excellence Rule (Field Note must exclusively support the LinkedIn concept).
 
-- **Slot:** A
-- **Format:** Messy Infographic
-- **Pillar:** PBM Contract Insights
-- **Topic:** 5 Rebate Terms Decoded
-- **Hook:** "Your PBM says 'rebate.' Your contract says something else. Here is what those five words actually mean."
+- **Slot:** Thursday Excellence (Slot A category — messy infographic)
+- **Format:** Messy Infographic — photorealistic three-pill-bottle aesthetic per the W18 Channel Pricing secret-sauce thesis
+- **Pillar:** Cost Containment Strategies (with Manufacturer Programs topic anchor)
+- **Topic:** The $5,000 manufacturer copay assistance and where it lands
+- **Hook:** "Manufacturer pays $5,000 in copay card assistance per member per year. Three places the $5,000 can land. Your contract decides which."
+- **Winning-profile traits hit:** dollar comparison shape ✓ · named-actor framing (manufacturer as actor, contract as leverage) ✓ · plan-sponsor-actionable (which program does your contract specify?) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-bottle composition) ✓ · first-comment Substack cross-promo (to same-day Accumulator vs Maximizer Field Note) ✓ · proprietary anchor (~100 contracts/year at PBS) ✓ · save-driven structure (3-program decision reference) ✓ · single-image photoreal aesthetic ✓ — **9 of 10 traits.**
 
-**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
-- "Rebate" - PBM means: manufacturer payment tied to formulary placement. Read it as: a payment stream the PBM may keep, share, or redirect depending on contract language.
-- "Rebate guarantee" - PBM means: minimum per-script or per-member amount the PBM commits to pass through. Read it as: a floor, not a ceiling, and usually excludes the categories where the real rebate dollars sit.
-- "Rebate aggregator" - PBM means: affiliate entity that negotiates manufacturer contracts on the PBM's behalf. Read it as: a separate legal entity where rebate dollars can be retained outside your audit scope.
-- "Manufacturer revenue" - PBM means: all payments received from drug manufacturers. Read it as: a broader bucket than "rebates" that often includes admin fees, data fees, and other retained dollars your contract may not address.
-- "Net cost guarantee" - PBM means: a committed cost per claim after rebates are applied. Read it as: a definition worth reading carefully, because what counts as "net" is written by the PBM.
+#### Post Copy
+
+Manufacturer pays $5,000 in copay card assistance per member per year. Three places the $5,000 can land. Your contract decides which.
+
+Place 1: Member's out-of-pocket. Member hits their max faster. Plan covers everything afterward. The $5,000 just accelerated the plan's exposure.
+
+Place 2: Plan offset under an accumulator. Manufacturer dollars do not count toward member's deductible. Plan absorbs less; member absorbs more.
+
+Place 3: Plan offset under a maximizer. Manufacturer dollars are spread across the year. Member out-of-pocket stays predictable. Plan's exposure is capped at the contracted amount.
+
+Same drug. Same $5,000 manufacturer payment. Three economic outcomes for your plan. The contract clause that decides which is rarely on the standard agenda.
+
+I review approximately 100 PBM contracts a year at PBS. The accumulator-vs-maximizer language sits in five clauses across three sections. The plan sponsors who know what those clauses say negotiate the program their plan needs. The ones who do not inherit the program their PBM defaults them to.
+
+*Illustrative example for educational purposes. Actual amounts vary by plan and program.*
+
+Save this for your next benefits committee meeting.
+
+#CopayCards #SelfFundedEmployers #EmployeeBenefits
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots walks through the three evaluation factors that drive the accumulator-vs-maximizer choice — member access risk, plan economics, and specialty drug exposure. Specifically what to look at in your claims data before locking in a program for next plan year.
+
+[SUBSTACK FIELD NOTE URL]
 
 #### Messy Infographic Concept
 
-**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
-
+**Format:** Single LinkedIn feed image, photorealistic top-down composition.
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
-
-**Setting:** Whiteboard with dry-erase markers, a bit smudged.
+**Setting:** Manufacturer copay assistance card above three pill bottles representing the three landing places, with hand-drawn red marker arrows and sepia annotations.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A classroom or conference-room whiteboard fills the frame. Two dry-erase markers (black and blue) rest on the bottom tray. The board shows clean human handwriting with a few faint smudges and ghosted erasures, as if recently worked on. No logos, no brand marks, no people, no text outside the board.
+> A photorealistic top-down photograph at 1080 x 1350 pixels of a clean light gray-tan desk surface, slight perspective angle. Centered toward the upper third of the canvas: a single off-white prescription card / coupon, slightly weathered, with printed text reading "MANUFACTURER COPAY ASSISTANCE" in clean serif at the top and "$5,000 PER MEMBER · ANNUAL" in monospace below. The card is tilted approximately 4 degrees clockwise.
 >
-> At the top of the board, in larger handwriting, black marker, double-underlined: 5 Rebate Terms Decoded
+> Below the card, three identical clear plastic prescription pill bottles arranged in a horizontal row, evenly spaced, each with a small white printed prescription label. Reading left to right, the labels read:
 >
-> Five rows below the title. Each row shows a quoted term on the left in black marker, a short hand-drawn arrow, and a plain-English translation on the right in blue marker:
+> Bottle 1: "MEMBER OOP"
+> Bottle 2: "PLAN — ACCUMULATOR"
+> Bottle 3: "PLAN — MAXIMIZER"
 >
-> "Rebate" → A payment stream the PBM may keep, share, or redirect.
-> "Rebate guarantee" → A floor, not a ceiling. Excludes where real dollars sit.
-> "Rebate aggregator" → Separate legal entity. Outside your audit scope.
-> "Manufacturer revenue" → Broader than rebates. Admin fees, data fees, more.
-> "Net cost guarantee" → The PBM writes what counts as "net."
+> From the manufacturer card, three hand-drawn red marker arrows radiate downward, each terminating at one of the three pill bottles. Each arrow has a short hand-printed sepia annotation in casual marker handwriting (Caveat-style, slightly imperfect):
 >
-> At the bottom of the board, inside a hand-drawn black rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+> Arrow to Bottle 1 (Member OOP): "Member hits max faster. Plan absorbs the difference."
+> Arrow to Bottle 2 (Accumulator): "Doesn't count toward deductible. Plan absorbs less; member absorbs more."
+> Arrow to Bottle 3 (Maximizer): "Spread across year. Plan exposure capped."
 >
-> Style: realistic whiteboard texture with faint smudges and erasure ghosts, soft overhead daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, occasional marker bleed) for authenticity. Colors: white board, black marker for terms and title, blue marker for translations, light gray smudge marks.
+> Below the three bottles on the desk surface, a hand-printed line in red marker, double-underlined: "Same drug. Same $5,000. Three economic outcomes."
+>
+> Below that line, smaller hand-printed sepia line: "Your contract decides which."
+>
+> Soft natural daylight from upper-left, gentle shadows lower-right. The desk has subtle texture but no other objects, no logos, no brand marks, no FIELD NOTE badge (LinkedIn feed image, no Substack badge), no people, no text outside the card / bottles / hand-drawn annotations.
+>
+> Style: photorealistic product photography, warm natural daylight, slightly imperfect handwriting (Caveat/Permanent Marker style with marker pressure variation). Color palette: light gray-tan desk surface, off-white paper / labels, clear plastic with subtle reflection, dark sepia ink, red marker accents.
 
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching ink colors.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export as PNG at 1080 x 1350.
+**Canva touch-up (no publication branding — LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. If the AI misspells any label or annotation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching marker color.
+2. Verify the three arrow paths terminate clearly at the correct bottle (most common failure: arrows pointing at the wrong bottle).
+3. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+4. Export as PNG at 1080 x 1350.
 
 ---
 

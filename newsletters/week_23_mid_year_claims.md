@@ -143,76 +143,115 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## How to Read a PBM Utilization Report Without Getting Lost
+## Decoded the Admin Fees. Now Audit Them.
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, June 11, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
-**Tone:** Practical, tactical
-**Pillar:** Self-Funded Employer Guidance
+**Length:** ~580 words (~3 min read)
+**Tone:** Practical, tactical, named-actor
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
 
 ---
 
 ### Field Note Body
 
-We sit down with clients regularly to review PBM utilization reports. The most common reaction when we open the file together: "I have received these reports for years and never known what to focus on."
+This morning's LinkedIn carousel decoded five admin fee terms most plan sponsors never read closely. Today's field note is what to do once you can read them.
 
-That is not a knowledge failure. It is a design problem. PBM utilization reports are built for PBM analysts, not for employers. The data is there. The narrative is not. Here is how to find what matters.
+Admin fees are where PBM compensation hides in plain sight. They are not the rebate spread. They are not the dispensing-fee margin. They are line items on the invoice the PBM sends you each month — and on most contracts I review, the plan sponsor cannot tell what those lines are paying for.
 
-**Start with three reports, not ten**
+We pull the admin-fee schedule on every PBM contract audit at PBS. Same patterns recur. Here is what to look for in your own.
 
-Most PBMs provide a stack of reports monthly or quarterly. You do not need to read all of them to identify problems. Start with three: the utilization summary by therapeutic category, the cost trending report (PMPM over time), and the rebate performance summary.
+**The first audit question: what does each line item buy?**
 
-These three reports, reviewed together, tell you whether spend is being driven by utilization changes or cost changes, which drug categories are moving the numbers, and whether rebate performance is keeping pace with cost growth. Everything else is supporting detail you can dig into once you know where to look.
+Open your most recent month's PBM invoice next to your contract's fee schedule. For each admin-fee line item, find the corresponding contract clause that defines what the fee buys. Three outcomes are common.
 
-**What to look for in the utilization summary**
+The fee is for a service the contract clearly defines (claims adjudication, eligibility maintenance, member services). That is the easy case.
 
-The utilization summary breaks down claims by therapeutic category. Focus on two things: the categories with the highest total spend, and the categories with the highest growth rate compared to the prior period. High spend tells you where the money goes. High growth tells you where the money is going. Those are different questions with different interventions.
+The fee is for a service the contract describes vaguely ("administrative oversight," "account management," "data analytics"). The fee is real; the deliverable is whatever the PBM says it is. That is the audit conversation.
 
-Within each high-growth category, identify the top drugs by spend. Are they new-to-market therapies? Dose escalations on existing therapies? Volume increases across the category? The answer determines whether the issue is formulary management, utilization management, or population health trending.
+The fee has no corresponding clause at all. The line item appears on the invoice; the contract does not authorize it. That is the audit *finding*.
 
-**What to look for in cost trending**
+In my contract reviews, the third outcome happens more often than plan sponsors expect.
 
-The PMPM trend report shows your per-member-per-month cost over time. Look for two patterns: the overall slope (is PMPM accelerating, stable, or decelerating?) and any sudden step changes (months where PMPM jumps significantly). Gradual increases reflect market trends. Sudden jumps usually reflect specific events: a new high-cost claimant, a specialty therapy start, or a formulary change that shifted utilization.
+**What we typically find**
 
-Flag the step changes. Each one has a cause. Understanding the cause tells you whether the trend will continue or normalize.
+After ~100 PBM contract reviews annually at PBS:
 
-**What to look for in rebate performance**
+> **1. Stacked fees for one service.** "Account management" plus "client services" plus "operational support" — three line items, one underlying activity, three separate fees.
 
-The rebate summary typically shows total rebates and may show rebates by category. Calculate rebate per claim by dividing total rebates by total claims. Track this quarterly. Declining rebate per claim may signal formulary changes, manufacturer contract shifts, or movement away from rebate-eligible products. Rising rebate per claim does not automatically mean better performance if total spend is rising faster.
+> **2. Fees marked "pass-through" that are not.** The PBM charges the plan a "data licensing fee" and pockets the difference between what they pay the data vendor and what they bill the plan.
 
-**The question to bring to your broker**
+> **3. PMPM fees that don't scale down with covered lives.** Plan loses 200 members; admin fees stay flat. The contract did not include a true-up clause.
 
-After reviewing these three reports, bring one question to your next meeting with your broker or consultant: "Based on this data, what is different about our cost trajectory compared to six months ago, and what should we do about it before renewal?" That question turns a data review into a strategy conversation.
+> **4. Implementation fees recouped in admin charges.** "Free implementation" amortized into the first 12 months of admin fees. You paid for the implementation; you just paid in monthly installments labeled differently.
+
+> **5. Manufacturer admin fees retained by the PBM.** Manufacturer payments classified as "administrative reimbursement" rather than "rebate" — keeps them outside the pass-through clause.
+
+**What to do this quarter**
+
+> **Pull six months of PBM invoices.** Line items only — not the contract. Map every fee to the deliverable.
+
+> **Diff against the contract.** For each fee, find the clause. Mark the line items where you cannot.
+
+> **Send the diff to your broker.** "Can you confirm what the contract requires for each of these fees?" The broker handles the PBM conversation.
+
+> **Bring the unauthorized fees to renewal.** Each one is leverage. PBMs do not concede admin-fee disputes mid-term unless the documentation is overwhelming. They do concede at renewal when the alternative is losing the contract.
+
+The five admin fee terms in this morning's carousel are the vocabulary. The audit above is the application. Both happen at the same time, or neither happens.
 
 ---
 
 *This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
 
-*Questions? Reach out at team@rxbs.org.*
+*Questions on auditing PBM admin fees? Reach out at team@rxbs.org.*
 
 ---
 
 ### Field Note Meta
 
-**SEO Title:** How to Read a PBM Utilization Report Without Getting Lost | Benefit Blind Spots
-**Meta Description:** PBM utilization reports are built for PBM analysts, not employers. Three reports to focus on, what to look for in each, and the one question to bring to your broker.
-**Tags:** PBM reporting, utilization reports, claims data, self-funded employers, pharmacy benefits, data analysis
+**SEO Title:** Decoded the Admin Fees. Now Audit Them. | Benefit Blind Spots
+**Meta Description:** Admin fees are where PBM compensation hides in plain sight. The first audit question, the five patterns plan sponsors find most often, and what to do with the unauthorized line items at renewal.
+**Tags:** PBM admin fees, PBM contracts, pharmacy benefits, self-funded employers, contract audit, PBM compensation
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight — photoreal aesthetic per W18 Channel Pricing reference (secret-sauce format)
+**Background:** Light gray-tan desk surface (matches the W19 paper-card carousel aesthetic)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized utilization-report document in deep teal-blue (#015880) outline, roughly 300px tall, with "UTILIZATION REPORT" rendered in deep teal-blue bold sans-serif text across the top banner. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion annotating a row on the report, with one circled data point highlighted in Accent Blue. Four small margin-note brackets in Accent Blue (#A7E0FA) sit along the document's right edge, each pointing at a report row. Five bar-chart hash marks ascending in the report body render in alternating deep teal-blue and Accent Blue. Below the document, two-tone centered headline: "How to Read" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "a PBM Utilization Report" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A photorealistic top-down photograph at 2240 x 1260 pixels of a single PBM monthly invoice page lying centered on a clean light gray-tan desk surface, slight perspective angle, the invoice tilted approximately 4 degrees clockwise. The invoice is off-white printer-paper with subtle texture, edges slightly curled. Soft natural daylight from upper-left, gentle shadow lower-right.
+
+The invoice has a printed letterhead at the top reading "PHARMACY BENEFIT SERVICES INVOICE" in clean serif font, with a date line below in smaller monospace ("Period: 04.01.2026 — 04.30.2026"). Below the letterhead, a column of seven line items, each rendered in monospace font, format: "[Fee description] ........ $[amount]." The line items, top to bottom:
+
+1. Claims Adjudication ........ $X,XXX
+2. Account Management ........ $X,XXX
+3. Client Services ........ $X,XXX
+4. Operational Support ........ $X,XXX
+5. Data Licensing ........ $X,XXX
+6. Administrative Reimbursement ........ $X,XXX
+7. Implementation Recovery ........ $X,XXX
+
+Each fee has a hand-drawn red marker annotation in the right margin, slightly imperfect Caveat-style handwriting:
+- Line 1: a small green checkmark
+- Lines 2, 3, 4: a single red bracket grouping all three with a handwritten note "= one service?"
+- Line 5: a red question mark with handwritten "pass-through?"
+- Line 6: a red circle around the line item with handwritten "rebate or fee?"
+- Line 7: a red strikethrough with handwritten "amortized impl?"
+
+Below the invoice on the desk surface, a hand-printed marker note in red and dark sepia: "Decoded the admin fees. Now audit them." The "Now audit them." is underlined twice.
+
+In the upper-right of the canvas (off the invoice, on the desk surface), the FIELD NOTE pill badge: Accent Blue (#A7E0FA) filled rounded rectangle, white "FIELD NOTE" text in Plex Sans SemiBold 28pt with +6% letter tracking, no other text or logo. The badge is the only computer-typography element in the image; everything else is photoreal physical objects with handwritten annotations.
+
+Style: photorealistic product photography, warm natural daylight, no other objects on the desk, no logos other than the FIELD NOTE badge, no charts, no icons. Color palette: light gray-tan desk surface, off-white invoice paper with subtle texture, black printed text on the invoice, dark sepia and red marker annotations, Accent Blue (#A7E0FA) badge.
 
 **Post-Generation Steps:**
-1. Generate the base image using the prompt above
+1. Generate the base image using the prompt above (use the W19 5 Formulary Questions cover slide as a style reference if attaching reference images is supported)
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left, on the desk surface area not overlapping the invoice
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
@@ -551,10 +590,33 @@ The mid-year claims briefing covers why the first-half data window is the most v
 ### Thursday Evergreen Rotation (Slot A) - 5 Admin Fee Terms Decoded
 
 - **Slot:** A
-- **Format:** Messy Infographic
+- **Format:** Messy Infographic (photorealistic contract-page-with-red-pen aesthetic per the W18 Channel Pricing secret-sauce thesis)
 - **Pillar:** PBM Contract Insights
 - **Topic:** 5 Admin Fee Terms Decoded
-- **Hook:** "Admin fees sound administrative. They are revenue. Here is what those five line items actually mean."
+- **Hook:** "Five admin fee line items on your monthly PBM invoice. Five definitions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin."
+- **Winning-profile traits hit:** decoder shape ✓ · named-actor framing (PBM as the actor naming the fees) ✓ · plan-sponsor-actionable (read your invoice, audit the fees) ✓ · confrontational hook ✓ · messy infographic format ✓ · first-comment Substack cross-promo (to same-day Admin Fee audit Field Note) ✓ · proprietary anchor (~100 contracts/year) ✓ · save-driven structure (5-term reference) ✓ · single-image photoreal aesthetic ✓ — **9 of 10 traits.**
+
+#### Post Copy
+
+Five admin fee line items on your monthly PBM invoice. Five descriptions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin.
+
+I review approximately 100 PBM contracts a year at PBS. The same five line items show up under different labels on nearly every contract. The labels change. The underlying revenue does not.
+
+Administrative fee. Claims processing fee. Network access fee. Manufacturer admin fee. Data fee.
+
+Each one is a place the PBM sits between you and a vendor, a member, or a manufacturer — and bills you for the privilege.
+
+The decoder is in the image. Match each PBM definition against what your contract should require it to mean. Where they diverge, that is the audit conversation worth having before your next renewal.
+
+Save this for your next PBM meeting. Forward to your broker.
+
+#PBMContracts #SelfFundedEmployers #PharmacyBenefits
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually audit these line items on your monthly PBM invoice. Three-outcome diagnostic, the five patterns we see most often after ~100 PBM contract reviews annually, and what to do with unauthorized fees at renewal.
+
+[SUBSTACK FIELD NOTE URL]
 
 **Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
 - "Administrative fee" - PBM means: per-member-per-month fee for processing claims. Read it as: the visible portion of PBM revenue. The rest sits elsewhere.
