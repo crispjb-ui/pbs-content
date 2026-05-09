@@ -290,17 +290,17 @@ Five metrics self-funded CFOs should pull before the Q3 planning cycle:
 
 3. Rebate-to-gross-claims ratio, compared to the contractual minimum guarantee. A widening gap is where renewal leverage lives.
 
-4. Top 25 drugs by plan spend. Every name on that list needs a clinical rationale and a renewal strategy, especially anything on the Humira, Stelara, or Keytruda tier.
+4. Top 25 drugs by plan spend. Every name on that list needs a clinical rationale and a renewal strategy, especially anything on the Humira, Stelara, or Keytruda tier where biosimilars are now FDA-approved and available.
 
 5. Claims-to-eligibility ratio. If the claims count is drifting from active member count, terminated members may still be generating spend.
 
-None of these require a new vendor. All of them are in your existing claims data. The question is whether anyone is pulling them before the PBM does.
+I review approximately 100 PBM contracts a year at PBS. None of these metrics require a new vendor. All of them are already in your existing claims data. The only question is whether anyone is pulling them before the PBM does.
 
-#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
+#SelfFundedEmployers #PlanSponsors #EmployeeBenefits
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN NEWSLETTER URL]
+This week's Benefit Blind Spots deep dive is the companion to numbers 3 and 4: a biosimilar readiness assessment with a 6-factor scoring framework and the exact net-cost data request to send your PBM. Run the assessment with your top-25 drug list next to you. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Carousel Slide-by-Slide Spec
 
@@ -333,83 +333,6 @@ Claude Design project type: **Slide deck from template**. Use the One Number car
 5. Verify "WHY IT MATTERS" panels land at consistent vertical position across Slides 2-6
 6. Verify the closing slide's Plex Sans italic emphasis on "Not after" renders correctly
 7. Upload as native LinkedIn carousel (document upload)
-
-#### First Comment
-
-More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN NEWSLETTER URL]
-
-#### Infographic Concept
-
-**Title:** How PBM Spread Pricing Works
-**Style:** Process Flow / Educational Explainer
-**Dimensions:** 1080 x 1350 px (vertical LinkedIn)
-**Template:** Vertical flow diagram with three tiers
-
-**Layout:**
-
-**Top Header Bar:** Deep teal-blue (#015880) background with "How PBM Spread Pricing Works" in white Plex Sans SemiBold (36-48pt). Small magnifying glass icon in Accent Blue (#A7E0FA) to the left of the title.
-
-**Section 1 — The Transaction You See:**
-- Large box in light gray (#E0E0E0) background
-- "Your Plan Pays: $500" in deep teal-blue (#015880) bold text
-- Downward arrow in Primary Blue (#015880) pointing to PBM box
-- Label: "What your claims report shows"
-
-**Section 2 — The PBM (Center):**
-- Large box in Accent Blue (#A7E0FA) background
-- "PBM" in deep teal-blue (#015880) Plex Sans SemiBold (48pt)
-- Two arrows: one coming in from top ($500), one going out bottom ($350)
-- Center callout: "The Spread: $150" in deep teal-blue (#015880) bold, highlighted with light yellow (#FFF3CD) background
-
-**Section 3 — The Transaction You Do Not See:**
-- Large box in light gray (#E0E0E0) background
-- "Pharmacy Receives: $350" in Gray (#4D4D4D) bold text
-- Label: "What the pharmacy actually gets paid"
-
-**Bottom Section — Key Facts:**
-Three small info boxes side by side:
-- Box 1: "Not on your claims report" with document icon
-- Box 2: "Not in your rebate summary" with chart icon
-- Box 3: "Adds up across every claim" with calculator icon
-
-**Bottom Bar:** Accent Blue (#A7E0FA) background with "Do you know your PBM's spread?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
-
-**Design Notes:**
-- Vertical flow: Plan → PBM → Pharmacy, top to bottom
-- The "spread" callout in the center is the visual focal point
-- Clean arrows connecting the three tiers
-- Dollar amounts are illustrative and large enough to read at mobile size
-- Plex Sans body text (18-22pt), dollar amounts in Plex Sans SemiBold (28-36pt)
-- Professional format, not messy infographic style
-
-**Color Palette:**
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Primary Blue | #015880 | Header bar, PBM label, dollar amounts, arrows |
-| Accent Blue | #A7E0FA | PBM box background, bottom bar, icons |
-| Gray | #4D4D4D | Pharmacy text, disclaimer, labels |
-| Light Gray | #E0E0E0 | Plan and pharmacy box backgrounds |
-| White | #FFFFFF | Overall background |
-| Light Yellow | #FFF3CD | Spread callout highlight |
-
-#### Image Generation Prompt
-
-**Dimensions:** 1080 x 1350 px
-
-**Prompt:**
-
-A clean, professional vertical infographic at 1080 x 1350 pixels with a white background (#FFFFFF). At the top, a deep teal-blue (#015880) header bar containing white sans-serif text "How PBM Spread Pricing Works" with a small magnifying glass icon in light blue (#A7E0FA). Below, a vertical flow diagram with three tiers connected by arrows. Top tier: a light gray (#E0E0E0) rounded rectangle labeled "Your Plan Pays: $500" in deep teal-blue text. Middle tier: a light blue (#A7E0FA) rounded rectangle labeled "PBM" in large deep teal-blue text, with a highlighted callout box reading "The Spread: $150." Bottom tier: a light gray (#E0E0E0) rounded rectangle labeled "Pharmacy Receives: $350" in gray (#4D4D4D) text. Deep teal-blue arrows connect the tiers top-to-bottom. Below the flow diagram, three small info boxes in a row with flat icons. Bottom bar in light blue (#A7E0FA) with "Do you know your PBM's spread?" in deep teal-blue. No photographs, no realistic elements. Flat corporate infographic style.
-
-**Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px
-3. Replace placeholder text with exact content from infographic concept above
-4. Adjust arrow sizing and alignment between tiers
-5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 16-20pt) in top-left corner of header bar
-6. Add PBS logo (color version) in bottom-right of bottom bar, 80-100px width
-7. Add disclaimer text (Plex Sans Regular, 10pt, gray) centered above bottom bar
-8. Verify all text is legible at mobile viewing size (test at 50% zoom)
-9. Export as PNG
 
 ---
 
@@ -491,11 +414,102 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 ---
 
 ## Post 79 - Thursday 8:30 AM
+### Three Biosimilar Contract Provisions Decoded — Marked-Up Contract Page Messy Infographic
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Questions About Spread Pricing (Slot C of the evergreen rotation).**
+**Format:** Single messy infographic, Marked-Up Contract Page aesthetic (paper-card photoreal). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights (Thursday Slot A messy-infographic standard, retargeted from Slot C spread-pricing rotation to align with same-day Field Note per Thursday Excellence Rule)
+**Field Note pairing:** Same-day Substack Field Note "Three Biosimilar Contract Provisions Worth Negotiating" (Thu Jun 4, 7:30 AM EST). LinkedIn post and Field Note are exclusively the same concept; Field Note delivers the deeper read on each provision's negotiation language.
+**Why this combination:** The Tuesday Post 77 CFO Numbers carousel covers the metrics. Thursday's marked-up contract page shows the **contract-language hooks** that produce those metrics. Decoder shape (proven 20-25K floor, 9-12 followers per 10K conversion) on PBM Contract Insights pillar (the highest-converting decoder pillar in the data set). Most contracts say nothing about biosimilars; this post names the three provisions that change that and routes to the Field Note for negotiation language.
 
-### Biosimilar Readiness Checklist (Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
+**Thursday Excellence Rule audit:**
+1. Format = messy infographic, Marked-Up Contract Page aesthetic (photoreal contract page with handwritten redline annotations) ✓
+2. Hook = confrontational, named-actor (PBM as actor with no biosimilar accountability; the contract's silence is the leverage point) ✓
+3. Proprietary anchor in post copy (~100 PBM contracts annually at PBS; the silence on biosimilars is the pattern PBS sees on most contracts) ✓
+4. First comment names same-day Substack Field Note specifically (the three provisions broken out by negotiation language) ✓
+5. Field Note exclusively supports concept (already drafted as "Three Biosimilar Contract Provisions Worth Negotiating") ✓
+
+**Winning-profile traits hit:** decoder shape, named-actor framing, plan-sponsor-actionable, confrontational hook, messy infographic format, first-comment Substack cross-promo, proprietary anchor, save-driven structure (8 of 10 traits — clears the 5+ bar).
+
+#### Post Copy
+
+We review approximately 100 PBM contracts a year at PBS. Most of them say nothing about biosimilars.
+
+That silence is not neutral. When the contract is silent on biosimilar performance, the PBM has no obligation to prioritize biosimilar adoption. Formulary decisions default to whatever serves the PBM's rebate model, which may or may not align with your plan's net cost.
+
+Three provisions close the gap.
+
+1. **Biosimilar Dispensing Rate Guarantee.** A minimum percentage of biologic claims that must be filled with a biosimilar when one is available. The denominator is everything: which therapeutic categories, which dispensing channels, claim level vs. member level. Vague definitions produce metrics that look good and do not move the cost.
+
+2. **Brand-to-Biosimilar Transition Timeline.** A defined evaluation window after FDA approval of a new biosimilar (90 days is reasonable and increasingly standard). Without this, transition timelines are at the PBM's discretion. We see plans where biosimilars launched over a year ago still sit at non-preferred status.
+
+3. **Net Cost Comparison Reporting.** Quarterly reporting that shows, by therapeutic category, what the plan paid net for the brand versus what it would have paid for the biosimilar. If the PBM resists providing this, the resistance itself answers the question of whose interests the formulary serves.
+
+Three provisions. One contract amendment. The market has matured; the language is becoming standard in well-negotiated contracts. Yours can match.
+
+#PBMContracts #Biosimilars #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the negotiation language for all three provisions: how to define the dispensing-rate denominator so it can't be gamed, how to write the transition-timeline evaluation window, and what level of detail to require on the net-cost comparison reporting. Three-minute read with your most recent PBM contract next to you. [SUBSTACK FIELD NOTE URL]
+
+#### Marked-Up Contract Page Concept
+
+**Aesthetic:** Photoreal close-up of a printed PBM contract page on a desk, with handwritten margin annotations in red pen calling out where biosimilar provisions would appear in a well-negotiated contract. Same DNA as the W19 5 Formulary Questions paper-card carousel that performed well, in single-image messy-infographic form.
+
+**Visual elements:**
+- Photoreal printed contract page, slightly off-white paper, faint section numbering visible (e.g., "§ 4.07 Formulary Management," "§ 5.03 Performance Guarantees," "§ 7.12 Reporting Obligations") — three section markers placed at staggered vertical positions on the page
+- Three handwritten red-pen circles around blank/silent areas of the contract where biosimilar language is missing, with handwritten margin notes pointing into the page:
+  - Circle 1 next to § 5.03: "Biosimilar dispensing rate ≥ X% — define denominator"
+  - Circle 2 next to § 4.07: "Transition timeline: 90 days post-FDA approval"
+  - Circle 3 next to § 7.12: "Quarterly net cost reporting, by therapeutic category"
+- Top of image, bold handwritten title in black marker: "Three provisions your contract is missing."
+- Subtitle below the title in smaller red pen handwriting: "PBS reviews ~100 PBM contracts a year. The silence is the pattern."
+- Bottom-right corner, faint editor's "stet" mark or red-pen check
+- A black ballpoint pen rests at a slight angle in the top-right corner of the desk surface
+
+**Color hierarchy:**
+- Off-white printed contract page (paper texture)
+- Black printed contract body type (blurred enough to read as "legalese" without specific words triggering OCR)
+- Red ballpoint handwriting for circles, margin notes, and corrections
+- Dark wood desk surface visible at edges (warm tone)
+- One small Accent Blue (#A7E0FA) tab/sticky-flag on the page edge marking § 5.03
+
+#### Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white with faint horizontal text rules and three visible section headers in bold black serif type, at staggered vertical positions: "§ 4.07 Formulary Management" near the top, "§ 5.03 Performance Guarantees" in the middle, "§ 7.12 Reporting Obligations" near the bottom. The contract body text is rendered as realistic legalese paragraphs (slightly blurred so it reads as dense legal copy without specific words being legible).
+>
+> Three handwritten red ballpoint circles are drawn around blank or thin areas next to each section header, with handwritten red-pen margin notes pointing into each circle:
+>
+> - Next to § 4.07: "Transition timeline: 90 days post-FDA approval"
+> - Next to § 5.03: "Biosimilar dispensing rate ≥ X% — define denominator"
+> - Next to § 7.12: "Quarterly net cost reporting, by therapeutic category"
+>
+> At the top of the page, in larger handwritten black marker, double-underlined: "Three provisions your contract is missing."
+>
+> Directly below the title, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. The silence is the pattern."
+>
+> A black ballpoint pen rests at an angle in the top-right corner of the desk surface. A small light-blue (#A7E0FA) sticky-flag tab marks the edge of the page next to § 5.03.
+>
+> Style: realistic paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, minor ink variation) for authenticity. Colors: off-white contract paper, faint black printed legalese, red handwritten ballpoint, dark wood desk, one small Accent Blue tab. No logos, no brand marks, no people, no PBM names, no client names. The image stands on its own without additional branding overlays.
+
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the three handwritten margin notes at mobile size
+3. If any handwritten text renders illegibly, overlay clean handwritten text in a Caveat / Permanent Marker / Kalam font in matching red ink color
+4. Verify the title "Three provisions your contract is missing." is readable in feed thumbnail
+5. Verify the three section headers (§ 4.07, § 5.03, § 7.12) read cleanly without OCR-grade legalese underneath
+6. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W19 paper-card precedent
+7. Export as PNG at 1080 x 1350
+
+---
+
+## Post 79 (Displaced) - 5 Questions About Spread Pricing — MOVED TO EVERGREEN BACKLOG
+
+> **NOTE:** The Slot C "5 Questions About Spread Pricing" carousel originally scheduled here was displaced May 9, 2026 to align W22 Thursday with the Field Note per Thursday Excellence Rule. Full slide spec, post copy, and image prompt are preserved below for future use as a Thursday Slot C evergreen on a non-spread-pricing-collision week. Logged in `evergreen_visual_backlog.md` as concept #25.
+
+---
+
+## Post 79 (Repurposed Original) - Biosimilar Readiness Checklist [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Single Infographic (INFO)
 **Pillar:** Cost Containment Strategies
