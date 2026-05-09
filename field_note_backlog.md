@@ -31,6 +31,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-13 | White Bagging vs. Brown Bagging: The Practical Differences | Cost Containment | W30 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Site-of-Care Optimization deep dive. Field Note retargeted to Coordination of Benefits audit pairing with W30 Thursday 5 COB Terms Decoded Three-EOB Photoreal) | available |
 | FN-14 | Normalizing PBM Pricing Proposals: Apples to Apples | PBM Contract Insights | W31 (displaced May 9, 2026 under Architecture B — Field Note matched Monday PBM RFP Process deep dive. Field Note retargeted to PBM Disclosure audit pairing with W31 Thursday 5 PBM Disclosure Terms Decoded Sticky Note Dashboard) | available |
 | FN-15 | Step Therapy Protocols: Where They Help and Where They Harm | Clinical Pharmacy Perspectives | W32 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Clinical Program ROI deep dive. Field Note retargeted to Fiduciary Compliance audit pairing with W32 Thursday 5 Fiduciary Terms Decoded Index Cards messy infographic) | available |
+| FN-16 | Provider Communication: The Step Most Plans Skip | Broker/Consultant Resources | W33 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Member Communication deep dive. Field Note retargeted to Member Transition Disruption audit pairing with W33 Thursday 5 Member Transition Disruption Terms Decoded Marked-Up Plan Document Page) | available |
 
 ---
 
