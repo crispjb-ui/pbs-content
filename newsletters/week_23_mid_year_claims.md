@@ -16,7 +16,7 @@
 | Tue Jun 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 81 | [ ] |
 | Wed Jun 10 | 8:30 AM | LinkedIn Feed | Post 82 - "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" Strong POV (TEXT) | [ ] |
 | Wed Jun 10 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Thu Jun 11 | 7:30 AM | Substack | Field Note: "How to Read a PBM Utilization Report Without Getting Lost" | [ ] |
+| Thu Jun 11 | 7:30 AM | Substack | Field Note: "Decoded the Admin Fees. Now Audit Them." | [ ] |
 | Thu Jun 11 | 8:30 AM | LinkedIn Feed | Post 83 - 5 Admin Fee Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
 | Thu Jun 11 | 1:30 PM | LinkedIn Company | Company Reshare of Post 83 | [ ] |
 | Thu Jun 11 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
