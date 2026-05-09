@@ -24,6 +24,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-06 | Three Biosimilar Contract Provisions Worth Negotiating | Cost Containment | W22 (displaced May 9, 2026 under Architecture B triple-distinct topic rule — Field Note matched Monday Biosimilar Strategy deep dive. Field Note retargeted to Specialty Pharmacy Routing pairing with W22 Thursday 5 Specialty Routing Terms Decoded) | available |
 | FN-07 | Five Numbers That Determine Your Renewal Leverage | Self-Funded Employer Guidance | W24 (displaced May 9, 2026 under Architecture B — Field Note matched Monday H1/H2 Review deep dive. Field Note retargeted to Contract Amendment language pairing with W24 Thursday 5 Contract Amendment Terms Decoded) | available |
 | FN-08 | Three Conversations to Have Before Renewal Season | Self-Funded Employer Guidance | W25 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Renewal Countdown deep dive. Field Note retargeted to RFP Scoring Methodology pairing with W25 Thursday 5 RFP Scoring Methodology Terms Decoded) | available |
+| FN-09 | Three Formulary Questions Your PBM Should Answer Immediately | PBM Contract Insights | W26 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Formulary Management deep dive. Field Note retargeted to Step Therapy Override pairing with W26 Thursday 5 Step Therapy Override Terms Decoded) | available |
 
 ---
 

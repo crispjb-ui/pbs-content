@@ -179,46 +179,52 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Three Formulary Questions Your PBM Should Answer Immediately
+## Auditing Your Step Therapy Override Workflow
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 2, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Transparency & Industry Education
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Step Therapy Override Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the override-clause vocabulary; Field Note is the operational follow-on for auditing how step therapy actually executes on plan claims.
+**Why this pairing (not the displaced "Three Formulary Questions" draft):** Architecture B triple-distinct topic rule — Monday W26 is Formulary Management (the drug list and tier placement); Thursday is Step Therapy Override (the workflow that runs when a member needs to bypass the formulary's preferred therapy). Adjacent within Cost Containment / Clinical pillar, different subject matter (formulary list vs. override workflow). Original "Three Formulary Questions" Field Note parked as FN-09.
 
 ---
 
 ### Field Note Body
 
-We have been asking PBMs a set of specific formulary questions on behalf of clients this quarter. The answers (and the speed of the answers) reveal more about the PBM relationship than most employers realize.
+This morning's LinkedIn post decoded the five contract terms that govern step therapy overrides: override trigger conditions, documentation burden, denial appeal timeline, prescriber attestation language, and member cost-share treatment during override. Today is the operational follow-on. You have the vocabulary. Here is how to audit how step therapy actually executes on your plan's claims.
 
-Three questions. Ask them this month.
+We run step therapy audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-> **Question 1: What is the net cost difference between our current formulary and your standard formulary?**
->
-> Most PBMs offer a "standard" formulary and variations. If your plan is on the standard formulary, there is no difference. If you have a customized version, the PBM should be able to quantify the net cost impact of the customization. If they cannot answer this question, your customization may be nominal.
->
-> The net cost comparison (not gross cost, not rebate dollars, but net cost after all rebates and fees) is the metric that matters. A formulary that generates higher rebates but costs the plan more on a net basis is optimized for the PBM, not for you.
+**Pass one: pull the override approval and denial rate**
 
-> **Question 2: Which drugs on our formulary are placed at their current tier primarily because of rebate agreements?**
->
-> This is a direct question and many PBMs will resist answering it directly. That resistance itself is informative. A PBM confident in its formulary's clinical foundation should be able to identify which tier decisions were influenced by rebate contracts and explain the clinical rationale alongside the financial rationale.
->
-> If every tier decision is described as "clinically driven" with no acknowledgment of rebate influence, the answer is not complete. Rebates influence formulary decisions at every PBM. The question is whether that influence is transparent.
+Open your most recent quarterly report. Find the prior authorization summary. Look for step-therapy-specific override numbers: total step therapy edits triggered, total override requests submitted, total approved, total denied.
 
-> **Question 3: How will we be notified before any mid-year formulary changes?**
->
-> Mid-year formulary changes can affect members, providers, and plan costs without the employer's knowledge. Review your contract for formulary change notification requirements. If the contract is silent on this, the PBM can move drugs between tiers, add exclusions, or change coverage criteria without advance notice.
->
-> At minimum, you should require written notification 60 days before any formulary change that affects your plan, with the option to opt out of changes you disagree with. The strongest contracts require employer approval before any mid-year formulary modification.
+If the report aggregates step therapy with general PA, request the breakout. Step therapy overrides have a different clinical and contractual profile than general PA. The aggregate number hides drift.
 
-**What the answers tell you**
+Calculate the override approval rate. The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: when override approval rates fall below 60%, the override workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
-A PBM that answers all three questions promptly and specifically is operating with a level of transparency that benefits the plan. A PBM that delays, deflects, or provides vague responses may be protecting decisions that do not serve the employer's interests.
+**Pass two: classify the denial reasons**
 
-Your broker or consultant can help you interpret the answers and benchmark them against market standards. The best advisory teams are already asking these questions. If yours has not, bring these three questions to your next review meeting.
+For denied overrides, request the denial reason breakdown by category: insufficient documentation, prescriber attestation incomplete, clinical criteria not met, administrative timeout. The category mix tells you what is actually causing the denials.
+
+If "insufficient documentation" or "administrative timeout" dominates the denial mix, the workflow is failing on process, not clinical judgment. That is fixable. If "clinical criteria not met" dominates, the criteria themselves may be tighter than the formulary requires.
+
+**Pass three: compare the override clause to the override workflow**
+
+Open your contract. Find the step therapy override clause. Note the documentation burden, prescriber attestation requirements, and denial appeal timeline.
+
+Then look at the actual workflow: what does a prescriber need to submit, how long is the response window, who decides the appeal. If the workflow is more burdensome than the contract requires, the workflow is doing different work than the contract is doing.
+
+**What to do this quarter**
+
+> **Pull the step therapy override approval and denial breakdown.** Calculate the approval rate and the denial-reason category mix.
+> **Open your contract's override clause.** Compare to the actual workflow.
+> **Bring the gap to your broker.** Override workflow is a renewal-leverage item.
+
+The decoded vocabulary tells you what the contract says. The audit tells you what the workflow does. The gap is your leverage.
 
 ---
 
@@ -230,19 +236,19 @@ Your broker or consultant can help you interpret the answers and benchmark them 
 
 ### Field Note Meta
 
-**SEO Title:** Three Formulary Questions Your PBM Should Answer | Benefit Blind Spots
-**SEO URL Slug:** three-formulary-questions-pbm
-**Meta Description:** Three specific questions to ask your PBM about formulary management. The answers reveal whether your drug list serves your plan or their rebate strategy.
-**Tags:** formulary management, PBM questions, rebate transparency, self-funded employers, pharmacy benefits
+**SEO Title:** Auditing Your Step Therapy Override Workflow | Benefit Blind Spots
+**SEO URL Slug:** audit-step-therapy-override-workflow
+**Meta Description:** Five step therapy override terms decoded this morning. Three audit passes plan sponsors can run on the actual override workflow, the pattern PBS sees most often, and the gap between contract clause and workflow execution.
+**Tags:** step therapy, override workflow, PBM contracts, prior authorization, denial rates, self-funded employers
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized pill bottle icon in deep teal-blue (#015880) outline, roughly 280px tall, with "3 QUESTIONS" rendered in deep teal-blue bold sans-serif text across the bottle's label. A question mark overlay in Accent Blue (#A7E0FA) sits on the bottle's cap. Three numbered circles (1, 2, 3) in Accent Blue (#A7E0FA), each roughly 50px wide, arrange in a horizontal row below the bottle, connected by a short arrow path in Accent Blue implying sequence. Three small hash-mark underlines in Accent Blue sit beneath each numbered circle. Below the bottle and circles, two-tone centered headline: "Three Questions" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "One Answer" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design override request form in Primary Blue (#015880) outline, roughly 380px tall, with "OVERRIDE REQUEST" rendered in Plex Mono Medium uppercase across the top banner. Inside the form, four horizontal rows: "TRIGGER" / "DOCUMENTATION" / "ATTESTATION" / "DECISION" — each with a small Accent Blue (#A7E0FA) checkbox. The "DECISION" row shows two outcomes branching out: a thin Accent Blue arrow up to "APPROVED" and a thin red marker arrow down to "DENIED." Three numbered tick marks in Accent Blue (#A7E0FA) sit along the form's right edge, suggesting three audit passes. Below the composition, a two-tone centered headline: "What the Workflow Does." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Not What the Clause Says." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One step therapy clause." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -525,51 +531,67 @@ The full formulary management analysis and field note on three questions your PB
 
 ---
 
-### Thursday Evergreen Rotation (Slot A) - 5 Rebate Retention Terms Decoded
+### Thursday Excellence Slot - 5 Step Therapy Override Terms Decoded — Marked-Up Contract Page Messy Infographic
 
-- **Slot:** A
-- **Format:** Messy Infographic
-- **Pillar:** PBM Contract Insights
-- **Topic:** 5 Rebate Retention Terms Decoded
-- **Hook:** "Rebate passthrough sounds like one thing. Rebate retention is where the money lives. Five terms that decide which side of the line your dollars land on."
+> **NOTE (May 9, 2026):** This Thursday slot was previously "5 Rebate Retention Terms Decoded" sticky-note messy infographic. Displaced under Architecture B — rebate-retention content is closer to W20 (5 Rebate Terms Decoded just shipped) and W29 (Monday Rebate Economics) than ideal cadence allows. Replaced with 5 Step Therapy Override Terms Decoded that pairs with W26 Field Note "Auditing Your Step Therapy Override Workflow." Original 5 Rebate Retention Terms sticky-note carousel content preserved in `evergreen_visual_backlog.md` as concept #28 for a future PBM Contract Insights Thursday on a non-rebate Monday.
 
-**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
-- "Pass-through rebates" - PBM means: rebates the PBM passes to the plan. Read it as: the portion of rebates explicitly defined as pass-through. Everything outside that definition is retained.
-- "Retained rebate" - PBM means: rebate dollars the PBM keeps as compensation. Read it as: the portion your contract authorizes the PBM to keep, often under broad definitions that cover more than you expect.
-- "Non-rebate manufacturer revenue" - PBM means: manufacturer payments that are not classified as rebates. Read it as: data fees, admin fees, and inflation payments that often sit outside pass-through clauses and are retained by the PBM.
-- "Rebate aggregator fee" - PBM means: fee paid to the rebate aggregator for negotiating manufacturer contracts. Read it as: a fee that reduces the rebate pool before passthrough is calculated, on a contract with a PBM affiliate.
-- "Guaranteed minimum rebate" - PBM means: the committed rebate dollar floor. Read it as: a floor the PBM controls by influencing which drugs are dispensed. The guarantee is real. The leverage it requires is not.
+**Format:** Single messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your Step Therapy Override Workflow."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Step Therapy Override Audit Worksheet" — `templates/documents/week_26_thursday_step_therapy_override_audit.html/.pdf`.
 
-#### Messy Infographic Concept
+**Winning-profile traits hit (9 of 10):** decoder shape · dollar-comparison adjacent (cost of denial-driven therapy switching) · named-actor framing (PBM as actor running the workflow) · plan-sponsor-actionable · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
+Five contract clauses govern step therapy overrides. The override workflow is rarely what the clauses describe.
 
-**Setting:** Yellow sticky notes arranged on a gray corkboard.
+I review approximately 100 PBM contracts a year at PBS. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
-**AI Image Generation Prompt (copy-paste as-is):**
+Five terms to know:
 
-> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame. Six yellow sticky notes are pinned to the corkboard in a tidy vertical arrangement with brass pushpins: one title note at the top, five content notes stacked below. Each note is slightly angled, with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
+1. **Override Trigger Conditions.** What circumstances activate the override pathway: prior medication trial, contraindication, intolerance, clinical exception. The contract names the conditions; the workflow decides whether the documentation meets them.
+
+2. **Documentation Burden.** What the prescriber must submit: chart notes, prior trial records, attestation forms, lab values. Heavier documentation burden produces more "insufficient documentation" denials regardless of clinical merit.
+
+3. **Denial Appeal Timeline.** How long the PBM has to respond, how long the prescriber has to appeal, and whether expedited appeal is available. Tight contractual timelines are common; tight workflow timelines are rare.
+
+4. **Prescriber Attestation Language.** Whether the prescriber must sign a clinical attestation under specific liability language. Aggressive attestation requirements deter prescribers from running the override pathway at all.
+
+5. **Member Cost-Share Treatment.** What the member pays during the override window: full price until approval, deposit, or held harmless. The wrong setup creates abandonment at the pharmacy counter regardless of medical necessity.
+
+The override clause is the contract. The workflow is the operations. The gap is your audit.
+
+Save this for your next quarterly review.
+
+#PBMContracts #StepTherapy #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual override workflow (approval rate, denial reason mix, contract clause vs. workflow comparison). Plus a paste-ready Step Therapy Override Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Marked-Up Contract Page Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 8.05 STEP THERAPY OVERRIDE." Below the header, five vertically stacked clause entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
 >
-> The title sticky note at the top reads, in larger handwriting, double-underlined: 5 Rebate Retention Terms
+> 1. **Override Trigger Conditions.** "Override pathway available upon documented prior medication trial, contraindication, intolerance, or clinical exception."
+> 2. **Documentation Burden.** "Prescriber shall submit chart notes, prior trial records, and clinical attestation in form prescribed by PBM."
+> 3. **Denial Appeal Timeline.** "Initial determination within fourteen (14) days. Prescriber appeal window: seven (7) days from denial notice."
+> 4. **Prescriber Attestation Language.** "Prescriber attests under penalty of clinical liability that override criteria are met as of date of submission."
+> 5. **Member Cost-Share Treatment.** "Member responsible for full price during override review period."
 >
-> Five content sticky notes below, each showing a quoted term in black marker with a short arrow to a plain-English translation:
+> Five handwritten red ballpoint annotations:
+> - Red circle around "in form prescribed by PBM" in clause 2, red note: "PBM controls the burden"
+> - Red circle around "fourteen (14) days" in clause 3, red note: "Workflow rarely meets contract"
+> - Red circle around "penalty of clinical liability" in clause 4, red note: "Aggressive — deters prescribers"
+> - Red circle around "full price during override" in clause 5, red note: "Abandonment at counter"
+> - Red note pointing at clause 1 trigger list: "What documentation actually proves these?"
 >
-> "Pass-through rebates" → Only what the contract explicitly names. Everything else is retained.
-> "Retained rebate" → What your contract authorizes the PBM to keep.
-> "Non-rebate manufacturer revenue" → Data fees, admin fees, inflation payments. Outside pass-through.
-> "Rebate aggregator fee" → Reduces the rebate pool before passthrough is calculated.
-> "Guaranteed minimum rebate" → A floor the PBM controls by choosing what gets dispensed.
+> Top of page, handwritten black marker, double-underlined: "Five override clauses."
+> Below in red pen: "The workflow is rarely what the clauses describe."
+> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. When approval rate drops below 60%, the workflow is gating."
 >
-> At the bottom, pinned as a final sticky note in a slightly different orientation: Your PBM wrote these definitions. Your contract should redefine them.
->
-> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows under each sticky note. Slightly imperfect handwriting (uneven line spacing, minor Sharpie bleed) for authenticity. Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export as PNG at 1080 x 1350.
+> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
 
 ---
 
