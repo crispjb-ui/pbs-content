@@ -578,16 +578,16 @@ The full PBM evaluation scorecard with weighted scoring criteria is in this week
 
 ---
 
-### Thursday Excellence Slot - 5 PBM Compensation Terms Decoded — Marked-Up Contract Page Messy Infographic
+### Thursday Excellence Slot - 5 PBM Compensation Terms Decoded — Ledger Annotated Messy Infographic
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same plan. Same data. Different PBM interpretations." three-clipboard carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence — replaced with PBM Contract Insights pillar messy infographic that hits more winning-profile traits and pairs with the W27 Field Note retarget. Original Slot B Same/Same/Different content preserved in `evergreen_visual_backlog.md` as concept #29.
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same plan. Same data. Different PBM interpretations." three-clipboard carousel on Cost Containment pillar. Displaced and replaced with 5 PBM Compensation Terms Decoded that pairs with the W27 Field Note. Reformatted from default Marked-Up Contract Page to Ledger Annotated messy infographic to vary the canvas across consecutive Thursdays — revenue-stream / line-item topics map naturally to an annotated accounting ledger composition. Original Slot B Same/Same/Different content preserved in `evergreen_visual_backlog.md` as concept #29.
 
-**Format:** Single messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px.
+**Format:** Single messy infographic, Ledger Annotated aesthetic (open accounting ledger book with handwritten red-pen audit annotations). 1080 x 1350 px.
 **Pillar:** PBM Contract Insights
 **Field Note pairing:** Same-day Substack Field Note "Auditing How Your PBM Actually Makes Money."
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "PBM Compensation Audit Worksheet" — `templates/documents/week_27_thursday_pbm_compensation_audit.html/.pdf`.
 
-**Winning-profile traits hit (10 of 10 — clears 7+ bar):** decoder shape · dollar-comparison shape (each compensation mechanism is a $ flow) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
+**Winning-profile traits hit (10 of 10 — clears 7+ bar):** decoder shape · dollar-comparison shape (each compensation mechanism is a $ flow rendered as a ledger line item) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Ledger Annotated variant) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
 #### Post Copy
 
@@ -617,44 +617,43 @@ Save this for your next compensation audit.
 
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the contract to identify which compensation mechanisms apply, estimate the dollar magnitude of each, and map the disclosure gap. Plus a paste-ready PBM Compensation Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 
-#### Marked-Up Contract Page Image Generation Prompt
+#### Ledger Annotated Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 4.02 PBM COMPENSATION AND REVENUE STREAMS." Below the header, five vertically stacked term entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open green-tinted accountant's ledger book rests on a dark wood desk under soft natural daylight. The visible double-page spread shows faint printed horizontal rules and vertical columns in light green tint. The header at the top of the left page reads, in printed black serif type: "PBM COMPENSATION LEDGER · ANNUAL." A fountain pen with a dark barrel rests across the upper-right corner of the right page.
 >
-> 1. **Spread Pricing.** "The difference between Plan Sponsor's payment to PBM per claim and PBM's payment to dispensing pharmacy."
-> 2. **Rebate Retention.** "PBM shall retain the portion of manufacturer rebates not explicitly defined as Pass-Through Rebates herein."
-> 3. **Administrative Fee.** "Plan Sponsor shall pay PBM a per-claim administrative fee as set forth in Schedule A."
-> 4. **Manufacturer-Direct Payments.** "Payments from manufacturers classified as administrative fees, data licensing, or educational programming shall not be classified as Rebates."
-> 5. **Owned-Pharmacy Margin.** "Specialty drug claims dispensed through PBM-affiliated pharmacies shall be subject to separate dispensing economics as defined in Schedule SP-1."
+> Five line-item entries are printed down the left page in Plex Mono Regular black, each with a label on the left and a dollar-amount column on the right:
 >
-> Five handwritten red ballpoint annotations:
-> - Red circle around "difference" in clause 1, red note: "Public MAC. Private margin."
-> - Red circle around "not explicitly defined" in clause 2, red note: "Definition is the leverage"
-> - Red circle around "per-claim administrative fee" in clause 3, red note: "Headline only. Smallest stream."
-> - Red circle around "shall not be classified as Rebates" in clause 4, red note: "Outside pass-through"
-> - Red circle around "separate dispensing economics" in clause 5, red note: "Margin stays in the family"
+> 1. **Spread Pricing** ............................. $ [varies by claim volume]
+> 2. **Rebate Retention** ........................... $ [varies by gross rebate]
+> 3. **Administrative Fee** ......................... $ [headline number]
+> 4. **Manufacturer-Direct Payments** ................ $ [undisclosed]
+> 5. **PBM-Owned-Pharmacy Margin** ................... $ [varies by specialty mix]
 >
-> Top of page, handwritten black marker, double-underlined: "Five revenue streams."
-> Below in red pen: "Most plan sponsors only track one of them."
-> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. Aggregate compensation > headline fee."
+> A bold horizontal rule separates the five line items from a "TOTAL COMPENSATION" row at the bottom, with the Total field showing a hand-circled red question mark instead of a dollar amount.
 >
-> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
-> Below the clipboards, in smaller handwriting: The data is fixed. The narrative is a choice.
+> Five handwritten red ballpoint annotations are written in the right-page margin, each with a short curved arrow pointing at the corresponding line item:
+> - Pointing at line 1 (Spread Pricing), red note: "Public MAC. Private margin."
+> - Pointing at line 2 (Rebate Retention), red note: "Pass-through definition is the leverage"
+> - Pointing at line 3 (Administrative Fee), red note: "Smallest stream. Only one most plans track."
+> - Pointing at line 4 (Manufacturer-Direct), red note: "Reclassified as fees → outside rebate clause"
+> - Pointing at line 5 (Owned-Pharmacy Margin), red note: "Margin stays in the corporate family"
 >
-> Style: realistic product photography, soft even daylight, subtle shadows under each clipboard, slight paper texture. Colors: warm wood clipboard clips, white report pages with black tabular data, yellow, pink, and green highlighter strokes, light gray surface, black handwritten ink.
+> At the top of the right page, in larger handwritten black marker, double-underlined: "Five revenue streams. One headline number."
+>
+> Below that, in handwritten red pen: "The other four are where the rest sits."
+>
+> At the bottom of the right page, smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. Aggregate compensation > headline fee."
+>
+> Style: realistic ledger paper texture (faint green tint, slightly imperfect print alignment), soft natural daylight, no harsh shadows. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style, uneven line spacing, minor ink variation) for authenticity. Colors: pale green ledger paper, light green rule lines and columns, black printed Plex Mono labels and dollar signs, red handwritten ballpoint, dark wood desk surface visible at edges, dark fountain-pen barrel. No logos, no brand marks, no people, no PBM names.
 
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Three clipboards photo described above. Overlay: "Same plan. Same data. Different PBM interpretations." Swipe indicator in Accent Blue.
-- Slide 2 (PBM A): "PBM A: trend is specialty-driven. Their solution: specialty pharmacy contract improvements."
-- Slide 3 (PBM B): "PBM B: same data. Trend is utilization-driven. Their solution: clinical programs and step therapy."
-- Slide 4 (PBM C): "PBM C: same data. Trend is mix-driven. Their solution: formulary changes and rebate optimization."
-- Slide 5 (Punchline): "Same data. Three diagnoses. Three prescriptions. Each one profitable for the PBM recommending it." Accent Blue underline under "profitable."
-- Slide 6 (CTA): Primary Blue background. White text: "The data is the data. The interpretation is the sale. Verify independently." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any clipboard header or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the five line items and red-pen margin annotations at mobile size
+3. If any handwritten annotation renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
+4. Verify the title "Five revenue streams. One headline number." reads cleanly in feed thumbnail
+5. Verify the five line-item labels render distinctly (most common AI failure: repeated label text)
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+7. Export as PNG at 1080 x 1350
 
 ---
 
