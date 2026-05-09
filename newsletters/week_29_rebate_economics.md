@@ -159,46 +159,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Three Rebate Report Red Flags That Signal Margin Retention
+## Auditing Your Pharmacy Network Configuration
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 23, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Transparency & Industry Education
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Network Contract Terms Decoded" Composition Notebook messy infographic. LinkedIn post decodes the network vocabulary; Field Note is the operational follow-on for auditing how the network configuration actually executes against your plan's claims data.
+**Why this pairing (not the displaced "Three Rebate Report Red Flags" draft):** Architecture B triple-distinct topic rule — Monday W29 is Rebate Economics; Thursday is Pharmacy Network Configuration (which pharmacies are in-network and how the contract's network clauses execute). Adjacent within PBM Contract Insights pillar, different subject matter (rebate flow vs. network membership). Original "Three Rebate Report Red Flags" Field Note parked as FN-12.
 
 ---
 
 ### Field Note Body
 
-We review rebate reports for clients regularly, and three patterns surface consistently that suggest the PBM may be retaining margin the plan should be receiving. Not proof of wrongdoing. Patterns worth investigating.
+This morning's LinkedIn post decoded the five network contract terms PBMs use most often: preferred network, broad network, network guarantee, mandatory mail, and network exclusion list. Today is the operational follow-on. You have the vocabulary. Here is how to audit how the network configuration actually executes against your plan's claims.
 
-**Red Flag 1: Rebate per claim is declining while total rebates are stable or growing.**
+We run network audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-If total rebate dollars are flat or increasing but rebate per brand claim is declining, the PBM's rebate efficiency is weakening. Total rebates can grow simply because total spend grew. The per-claim metric is more revealing.
+**Pass one: pull the actual fill distribution by network configuration**
 
-When we see this pattern, the most common cause is formulary mix shift. The PBM moved higher-rebate drugs off the preferred tier (or the manufacturer reduced rebate terms) and did not adjust the plan's rebate guarantee accordingly. The plan's claim base shifted, the per-claim yield declined, but the total dollar number looked acceptable.
+Open your most recent quarterly report. Find the dispensing-channel breakdown. Calculate the share of fills that landed in each configuration: preferred network, broad network, mandatory mail, and PBM-affiliated specialty.
 
-Ask your PBM to explain rebate per claim trends over the past four quarters. If the number is declining, ask why and what changed.
+If the breakdown is not in the report, request it. The PBM has the data.
 
-**Red Flag 2: Rebate payments consistently arrive at the maximum allowed timeline.**
+**Pass two: compare the actual fill distribution to the contract's network design**
 
-If your contract allows 180-day remittance and the PBM consistently pays at day 175-180, they are maximizing float. This is legal and within contract terms, but it tells you the PBM is managing cash flow, not partnership. A PBM that views the relationship as a partnership remits faster than required.
+Open your contract. Find the network membership clause and the preferred network list. Compare the contracted network design to the actual fill pattern. Common findings: preferred-network share is lower than the contract's preferred-network design suggests, indicating member out-of-network drift; mandatory-mail share is higher than expected, indicating PBM-affiliated mail volume is being captured by workflow design even when the plan didn't intend mandatory mail.
 
-Compare your PBM's remittance timing to the contract minimum. If they are always at the ceiling, negotiate a shorter timeline at renewal. Sixty to 90 days is achievable.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the network exclusion list grows over the contract term as pharmacies are removed for not accepting the PBM's reimbursement terms. Plan sponsors rarely receive notification of these removals, but they affect member access and aggregate plan economics.
 
-**Red Flag 3: The rebate report does not break out specialty claims separately.**
+**Pass three: audit the network guarantee clauses**
 
-Specialty claims generate the highest per-claim rebates. If the PBM's rebate report aggregates retail, mail, and specialty into a single number, you cannot see whether specialty rebates are being passed through at the same rate as retail and mail.
+Open the network guarantee clause. Note any guaranteed minimums (preferred-network share, retail dispensing fee, mail discount). Compare actual performance to the guarantee.
 
-Request a rebate report broken out by dispensing channel: retail, mail, and specialty separately. If the PBM resists separating specialty, the likely reason is that specialty rebate pass-through is different from the headline number. Your broker can help you benchmark the channel-level rebate performance.
+Network guarantees are often subject to carve-outs (specific drug categories, specialty channels, or member populations excluded from the guarantee). The carve-outs are where the guarantee does and does not apply. If your plan's actual network performance falls below the guarantee within the in-scope categories, the contract typically requires remediation.
 
-**What to do with these flags**
+**What to do this quarter**
 
-Any single red flag may have a legitimate explanation. Two or more appearing simultaneously warrants a deeper review. Share the findings with your broker and consider requesting an independent rebate audit.
+> **Pull the dispensing-channel fill distribution and the network membership / exclusion clauses.** Compare actual to contract design.
+> **Calculate the gap between actual network performance and the network guarantee.** Document any miss.
+> **Request the network exclusion log for the past 12 months.** Pharmacies removed from the network are signal about the PBM's reimbursement-term enforcement.
 
-Your contract's audit provisions determine how deep you can dig. If your audit rights are limited (see Monday's article, Provision 5), expanding them should be a renewal priority.
+The decoded vocabulary tells you the contract design. The audit tells you what the network is doing. The gap is your renewal-leverage item.
 
 ---
 
@@ -210,21 +214,21 @@ Your contract's audit provisions determine how deep you can dig. If your audit r
 
 ### Field Note Meta
 
-**SEO Title:** Three Rebate Report Red Flags That Signal PBM Margin Retention | Benefit Blind Spots
-**SEO URL Slug:** rebate-report-red-flags-margin-retention
-**Meta Description:** Three patterns in your PBM rebate report that suggest margin retention: declining per-claim yield, maximum-timeline payments, and aggregated specialty reporting.
-**Tags:** rebate reporting, PBM transparency, margin retention, audit, self-funded employers
+**SEO Title:** Auditing Your Pharmacy Network Configuration | Benefit Blind Spots
+**SEO URL Slug:** audit-pharmacy-network-configuration
+**Meta Description:** Five network contract terms decoded this morning. Three audit passes plan sponsors can run on the actual network configuration vs. contract design, the pattern PBS sees most often, and the renewal-leverage item.
+**Tags:** pharmacy network, network configuration, network guarantee, preferred network, mandatory mail, PBM contracts, network exclusion list
 
 ---
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized rebate-report document in deep teal-blue (#015880) outline, roughly 300px tall, with "REBATE REPORT" rendered in deep teal-blue bold sans-serif text across the top banner. Three red-flag pennants in Accent Blue (#A7E0FA) emerge from the right edge of the document, each pointing at a specific report row. The three flagged rows are highlighted in Accent Blue (#A7E0FA) outline. A magnifying glass in Accent Blue hovers over the middle flagged row. Three numbered dots (1, 2, 3) in Accent Blue sit along the document's left margin. Below the document, two-tone centered headline: "Three Rebate Report" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Red Flags" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design pharmacy-network map in Primary Blue (#015880) outline, roughly 480px wide, showing five small storefront icons evenly spaced along a horizontal network line. The first three storefronts are filled with Primary Blue (in-network); the fourth is highlighted in Accent Blue (#A7E0FA) with a small "PREFERRED" pill above it; the fifth is rendered in light gray (#D6D6D6) with a thin red strike-through indicating exclusion. Above the network line, a small label in Plex Mono Medium uppercase: "NETWORK MEMBERSHIP." Below the network line, three small numbered tick marks in Accent Blue (#A7E0FA) labeled "1 / 2 / 3" suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers above the middle storefront. Below the composition, a two-tone centered headline: "Network." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Configuration." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One contract clause. One exclusion log." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), light gray (#D6D6D6). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
