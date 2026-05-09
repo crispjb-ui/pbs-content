@@ -17,7 +17,8 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | ID | Title | Pillar | Source week | Status |
 |----|-------|--------|-------------|--------|
 | FN-01 | One Drug Class to Watch: The Next Wave of GLP-1 Approvals | Clinical Pharmacy | W18 (displaced May 5, 2026 when W18 Thursday Field Note was retargeted to Channel Pricing to match the Thursday LinkedIn visual + Plan Sponsor Toolkit handout) | available |
-| FN-02 | How to Read a PBM Utilization Report Without Getting Lost | Self-Funded Employer Guidance | W23 (displaced May 8, 2026 when W23 Thursday Field Note was retargeted to Audit Rights enforcement to pair with Library 03 Tuesday carousel) | available |
+| FN-02 | How to Read a PBM Utilization Report Without Getting Lost | Self-Funded Employer Guidance | W23 (displaced May 8, 2026 when W23 Thursday Field Note was retargeted under the two-track architecture) | available |
+| FN-03 | How Plan Sponsors Actually Enforce Audit Rights | PBM Contract Insights | W23 (displaced May 8, 2026 evening when W23 Field Note retargeted again to Admin Fees per "don't make whole week audit rights" guidance — Tuesday Library 03 already covers Audit Rights and routes to Contract Library) | available |
 
 ---
 
@@ -173,3 +174,81 @@ After reviewing these three reports, bring one question to your next meeting wit
 **Prompt:**
 
 A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized utilization-report document in deep teal-blue (#015880) outline, roughly 300px tall, with "UTILIZATION REPORT" rendered in deep teal-blue Plex Sans SemiBold text across the top banner. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion annotating a row on the report, with one circled data point highlighted in Accent Blue. Four small margin-note brackets in Accent Blue (#A7E0FA) sit along the document's right edge, each pointing at a report row. Five bar-chart hash marks ascending in the report body render in alternating deep teal-blue and Accent Blue. Below the document, two-tone centered headline: "How to Read" in deep teal-blue (#015880) Plex Sans SemiBold (40-48pt), with "a PBM Utilization Report" in Accent Blue (#A7E0FA) Plex Sans SemiBold immediately below. A small Accent Blue (#A7E0FA) pill-shaped "FIELD NOTE" badge in the top right corner with deep teal-blue (#015880) Plex Sans SemiBold text. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+
+---
+
+## FN-03: How Plan Sponsors Actually Enforce Audit Rights
+
+**Original week:** 23 (June 11, 2026 publish date — needs re-anchoring before reuse)
+**Pillar:** PBM Contract Insights
+**Length:** ~580 words (~3 min read)
+**Tone:** Practical, tactical
+**Why it was displaced:** W23 Field Note was retargeted to Admin Fees per the May 8 two-track architecture. Tuesday Library 03 already covers Audit Rights and routes to the Contract Language Library; making the Thursday Field Note ALSO about audit rights would over-saturate the week on a single theme. Field Note retargeted to pair with the Thursday Slot A "5 Admin Fee Terms Decoded" LinkedIn carousel instead. This Audit Rights Field Note remains a strong standalone PBM Contract Insights field note and should be slotted into a future Thursday whose Tuesday LinkedIn is NOT about audit rights — natural fits include any week paired with a Library NN entry on a non-audit provision family (Renewal/Amendment, Specialty Routing, Formulary Override, etc.).
+
+**Re-anchoring notes before reuse:**
+- "Tuesday's LinkedIn carousel walked through the five clauses..." — opener references Tuesday Library 03; if reused on a non-Library-Audit-Rights week, replace with a different opener tying to that week's Tuesday or Monday content.
+- The "approximately 100 PBM contract reviews and audits annually at PBS" anchor is evergreen.
+- All numbered patterns and four-step what-to-do-with-findings list are evergreen.
+
+---
+
+### Field Note Body (FN-03 draft)
+
+Tuesday's LinkedIn carousel walked through the five clauses that decide whether your audit happens on your terms or theirs. Today's field note is what comes next: how to actually run the audit once the contract has the right language.
+
+Audit rights in the contract are necessary. They are not sufficient. The contract gives you the *authority* to look. The audit is what you find when you look. We run audits as a standard part of our work at PBS. Here is what they actually look like.
+
+**The audit is a comparison, not an inspection**
+
+A PBM audit is not a forensic accounting exercise. It is a comparison between what the contract requires and what the data shows. Three comparison passes do most of the work.
+
+First pass: contract guarantees vs. actual performance. Pull the rebate guarantee, the AWP discount guarantee, the dispensing-fee guarantee — every guaranteed minimum the contract names. Pull the actual performance from the claims and rebate data over the same period. Diff the two. Where actual performance fell below guarantee, the contract typically requires remediation. Many PBMs do not flag misses on their own.
+
+Second pass: contract reporting requirements vs. actual reports delivered. Open your contract's reporting clause. Mark every line item the PBM is required to deliver. Pull the last year of quarterly reports. Mark which line items appeared and which did not. Items missing from the reports are contract violations *and* audit findings — both worth raising.
+
+Third pass: claim-level pricing vs. contracted pricing. Pull a sample of high-cost claims (top 50 by spend). For each, recalculate what the contract says the plan should have paid (AWP discount, dispensing fee, applicable rebate) and compare to what was actually paid. Material variances are the audit's most concrete findings.
+
+**What plan sponsors find most often**
+
+After approximately 100 PBM contract reviews and audits annually at PBS, the consistent patterns:
+
+> **1. Guarantee misses that were never reconciled.** The contract requires reconciliation; the PBM never produced the report. Plan paid more than the guarantee allowed and never got the true-up.
+
+> **2. Reporting requirements that were quietly ignored.** Line items in the contract that did not appear in the quarterly reports. Plan never knew the data existed.
+
+> **3. Generic-classification reclassifications.** Drugs that started the contract as generics moved to brand status mid-term, lifting them out of the generic-discount guarantee. Sometimes legitimate; sometimes margin-driven.
+
+> **4. Specialty drugs routed off-network.** Specialty fills directed to PBM-affiliated pharmacies at higher per-unit cost than the contracted rate would have allowed at non-affiliated pharmacies.
+
+> **5. Rebate categories excluded from pass-through.** Manufacturer payments classified as "fees" or "data licensing" rather than "rebates" — outside the rebate pass-through clause by definition.
+
+**What to do with audit findings**
+
+> **Document everything in writing.** PBM responses, dates, and any remediation offered. The findings file becomes the renewal leverage.
+
+> **Set a remediation deadline.** The contract typically requires the PBM to remediate within a defined window. Hold the deadline; do not let it drift.
+
+> **Bring findings to the broker.** Your broker handles the PBM conversation; you keep the audit posture neutral. Adversarial findings handled by an intermediary land better than direct confrontation.
+
+> **Bring findings to renewal.** Audit history is the strongest renewal-negotiation asset a plan sponsor has. The PBM that knows you audit is the PBM that performs against the contract.
+
+The contract clauses (in Tuesday's carousel) are the prerequisite. The audit (above) is the act. Both have to happen.
+
+---
+
+### Field Note Meta (FN-03 draft)
+
+**SEO Title:** How Plan Sponsors Actually Enforce Audit Rights | Benefit Blind Spots
+**Meta Description:** Audit rights in the contract are necessary but not sufficient. The three comparison passes that do most of the audit work, the five patterns plan sponsors find most often, and what to do with the findings.
+**Tags:** PBM audit, audit rights, PBM contracts, pharmacy benefits, self-funded employers, mid-year claims
+
+### Field Note Header Image Prompt (FN-03 draft)
+
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
+**Background:** White (#FFFFFF)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: two flat-design contract documents in Primary Blue (#015880) outline, side-by-side, each roughly 380px tall, slightly overlapping. The left document is labeled "CONTRACT" in small Plex Mono Medium uppercase letters across its top banner; the right document is labeled "PERFORMANCE" in the same style. A bold horizontal Accent Blue (#A7E0FA) double-headed arrow runs across the top of both documents, suggesting comparison. Below the documents, three Accent Blue (#A7E0FA) numbered tick marks (1, 2, 3) running horizontally, evenly spaced, suggesting the three comparison passes. On each document, two thin Accent Blue rules running horizontally suggest data lines. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the seam between the two documents at the bottom-center. Below the composition, a two-tone centered headline reading "Audit rights are the *authority*." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "The audit is the *act*." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt centered: "Three comparison passes that do most of the work." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).

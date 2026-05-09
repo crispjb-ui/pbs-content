@@ -143,12 +143,12 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## How Plan Sponsors Actually Enforce Audit Rights
+## Decoded the Admin Fees. Now Audit Them.
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, June 11, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
-**Tone:** Practical, tactical
+**Tone:** Practical, tactical, named-actor
 **Pillar:** PBM Contract Insights
 **Type:** Field Note
 
@@ -156,75 +156,102 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
-Tuesday's LinkedIn carousel walked through the five clauses that decide whether your audit happens on your terms or theirs. Today's field note is what comes next: how to actually run the audit once the contract has the right language.
+This morning's LinkedIn carousel decoded five admin fee terms most plan sponsors never read closely. Today's field note is what to do once you can read them.
 
-Audit rights in the contract are necessary. They are not sufficient. The contract gives you the *authority* to look. The audit is what you find when you look. We run audits as a standard part of our work at PBS. Here is what they actually look like.
+Admin fees are where PBM compensation hides in plain sight. They are not the rebate spread. They are not the dispensing-fee margin. They are line items on the invoice the PBM sends you each month — and on most contracts I review, the plan sponsor cannot tell what those lines are paying for.
 
-**The audit is a comparison, not an inspection**
+We pull the admin-fee schedule on every PBM contract audit at PBS. Same patterns recur. Here is what to look for in your own.
 
-A PBM audit is not a forensic accounting exercise. It is a comparison between what the contract requires and what the data shows. Three comparison passes do most of the work.
+**The first audit question: what does each line item buy?**
 
-First pass: contract guarantees vs. actual performance. Pull the rebate guarantee, the AWP discount guarantee, the dispensing-fee guarantee — every guaranteed minimum the contract names. Pull the actual performance from the claims and rebate data over the same period. Diff the two. Where actual performance fell below guarantee, the contract typically requires remediation. Many PBMs do not flag misses on their own.
+Open your most recent month's PBM invoice next to your contract's fee schedule. For each admin-fee line item, find the corresponding contract clause that defines what the fee buys. Three outcomes are common.
 
-Second pass: contract reporting requirements vs. actual reports delivered. Open your contract's reporting clause. Mark every line item the PBM is required to deliver. Pull the last year of quarterly reports. Mark which line items appeared and which did not. Items missing from the reports are contract violations *and* audit findings — both worth raising.
+The fee is for a service the contract clearly defines (claims adjudication, eligibility maintenance, member services). That is the easy case.
 
-Third pass: claim-level pricing vs. contracted pricing. Pull a sample of high-cost claims (top 50 by spend). For each, recalculate what the contract says the plan should have paid (AWP discount, dispensing fee, applicable rebate) and compare to what was actually paid. Material variances are the audit's most concrete findings.
+The fee is for a service the contract describes vaguely ("administrative oversight," "account management," "data analytics"). The fee is real; the deliverable is whatever the PBM says it is. That is the audit conversation.
 
-**What plan sponsors find most often**
+The fee has no corresponding clause at all. The line item appears on the invoice; the contract does not authorize it. That is the audit *finding*.
 
-After approximately 100 PBM contract reviews and audits annually at PBS, the consistent patterns:
+In my contract reviews, the third outcome happens more often than plan sponsors expect.
 
-> **1. Guarantee misses that were never reconciled.** The contract requires reconciliation; the PBM never produced the report. Plan paid more than the guarantee allowed and never got the true-up.
+**What we typically find**
 
-> **2. Reporting requirements that were quietly ignored.** Line items in the contract that did not appear in the quarterly reports. Plan never knew the data existed.
+After ~100 PBM contract reviews annually at PBS:
 
-> **3. Generic-classification reclassifications.** Drugs that started the contract as generics moved to brand status mid-term, lifting them out of the generic-discount guarantee. Sometimes legitimate; sometimes margin-driven.
+> **1. Stacked fees for one service.** "Account management" plus "client services" plus "operational support" — three line items, one underlying activity, three separate fees.
 
-> **4. Specialty drugs routed off-network.** Specialty fills directed to PBM-affiliated pharmacies at higher per-unit cost than the contracted rate would have allowed at non-affiliated pharmacies.
+> **2. Fees marked "pass-through" that are not.** The PBM charges the plan a "data licensing fee" and pockets the difference between what they pay the data vendor and what they bill the plan.
 
-> **5. Rebate categories excluded from pass-through.** Manufacturer payments classified as "fees" or "data licensing" rather than "rebates" — outside the rebate pass-through clause by definition.
+> **3. PMPM fees that don't scale down with covered lives.** Plan loses 200 members; admin fees stay flat. The contract did not include a true-up clause.
 
-**What to do with audit findings**
+> **4. Implementation fees recouped in admin charges.** "Free implementation" amortized into the first 12 months of admin fees. You paid for the implementation; you just paid in monthly installments labeled differently.
 
-> **Document everything in writing.** PBM responses, dates, and any remediation offered. The findings file becomes the renewal leverage.
+> **5. Manufacturer admin fees retained by the PBM.** Manufacturer payments classified as "administrative reimbursement" rather than "rebate" — keeps them outside the pass-through clause.
 
-> **Set a remediation deadline.** The contract typically requires the PBM to remediate within a defined window. Hold the deadline; do not let it drift.
+**What to do this quarter**
 
-> **Bring findings to the broker.** Your broker handles the PBM conversation; you keep the audit posture neutral. Adversarial findings handled by an intermediary land better than direct confrontation.
+> **Pull six months of PBM invoices.** Line items only — not the contract. Map every fee to the deliverable.
 
-> **Bring findings to renewal.** Audit history is the strongest renewal-negotiation asset a plan sponsor has. The PBM that knows you audit is the PBM that performs against the contract.
+> **Diff against the contract.** For each fee, find the clause. Mark the line items where you cannot.
 
-The contract clauses (in Tuesday's carousel) are the prerequisite. The audit (above) is the act. Both have to happen.
+> **Send the diff to your broker.** "Can you confirm what the contract requires for each of these fees?" The broker handles the PBM conversation.
+
+> **Bring the unauthorized fees to renewal.** Each one is leverage. PBMs do not concede admin-fee disputes mid-term unless the documentation is overwhelming. They do concede at renewal when the alternative is losing the contract.
+
+The five admin fee terms in this morning's carousel are the vocabulary. The audit above is the application. Both happen at the same time, or neither happens.
 
 ---
 
 *This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
 
-*Questions on running a PBM audit? Reach out at team@rxbs.org.*
+*Questions on auditing PBM admin fees? Reach out at team@rxbs.org.*
 
 ---
 
 ### Field Note Meta
 
-**SEO Title:** How Plan Sponsors Actually Enforce Audit Rights | Benefit Blind Spots
-**Meta Description:** Audit rights in the contract are necessary but not sufficient. The three comparison passes that do most of the audit work, the five patterns plan sponsors find most often, and what to do with the findings.
-**Tags:** PBM audit, audit rights, PBM contracts, pharmacy benefits, self-funded employers, mid-year claims
+**SEO Title:** Decoded the Admin Fees. Now Audit Them. | Benefit Blind Spots
+**Meta Description:** Admin fees are where PBM compensation hides in plain sight. The first audit question, the five patterns plan sponsors find most often, and what to do with the unauthorized line items at renewal.
+**Tags:** PBM admin fees, PBM contracts, pharmacy benefits, self-funded employers, contract audit, PBM compensation
 
 ### Field Note Header Image Prompt
 
 **Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
-**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
-**Background:** White (#FFFFFF)
+**Template:** Data Highlight — photoreal aesthetic per W18 Channel Pricing reference (secret-sauce format)
+**Background:** Light gray-tan desk surface (matches the W19 paper-card carousel aesthetic)
 **Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: two flat-design contract documents in Primary Blue (#015880) outline, side-by-side, each roughly 380px tall, slightly overlapping. The left document is labeled "CONTRACT" in small Plex Mono Medium uppercase letters across its top banner; the right document is labeled "PERFORMANCE" in the same style. A bold horizontal Accent Blue (#A7E0FA) double-headed arrow runs across the top of both documents, suggesting comparison. Below the documents, three Accent Blue (#A7E0FA) numbered tick marks (1, 2, 3) running horizontally, evenly spaced, suggesting the three comparison passes (guarantees vs. actual; reporting requirements vs. delivered reports; claim-level pricing vs. contracted pricing). On each document, two thin Accent Blue rules running horizontally suggest data lines. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the seam between the two documents at the bottom-center, with its lens roughly 90px diameter. Below the composition, a two-tone centered headline reading "Audit rights are the *authority*." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "The audit is the *act*." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. (Italic emphasis on "authority" and "act.") Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt centered: "Three comparison passes that do most of the work." No grid pattern, no textured background, no gradients, no 3D, no shadows, no photographs, no human figures. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
+A photorealistic top-down photograph at 2240 x 1260 pixels of a single PBM monthly invoice page lying centered on a clean light gray-tan desk surface, slight perspective angle, the invoice tilted approximately 4 degrees clockwise. The invoice is off-white printer-paper with subtle texture, edges slightly curled. Soft natural daylight from upper-left, gentle shadow lower-right.
+
+The invoice has a printed letterhead at the top reading "PHARMACY BENEFIT SERVICES INVOICE" in clean serif font, with a date line below in smaller monospace ("Period: 04.01.2026 — 04.30.2026"). Below the letterhead, a column of seven line items, each rendered in monospace font, format: "[Fee description] ........ $[amount]." The line items, top to bottom:
+
+1. Claims Adjudication ........ $X,XXX
+2. Account Management ........ $X,XXX
+3. Client Services ........ $X,XXX
+4. Operational Support ........ $X,XXX
+5. Data Licensing ........ $X,XXX
+6. Administrative Reimbursement ........ $X,XXX
+7. Implementation Recovery ........ $X,XXX
+
+Each fee has a hand-drawn red marker annotation in the right margin, slightly imperfect Caveat-style handwriting:
+- Line 1: a small green checkmark
+- Lines 2, 3, 4: a single red bracket grouping all three with a handwritten note "= one service?"
+- Line 5: a red question mark with handwritten "pass-through?"
+- Line 6: a red circle around the line item with handwritten "rebate or fee?"
+- Line 7: a red strikethrough with handwritten "amortized impl?"
+
+Below the invoice on the desk surface, a hand-printed marker note in red and dark sepia: "Decoded the admin fees. Now audit them." The "Now audit them." is underlined twice.
+
+In the upper-right of the canvas (off the invoice, on the desk surface), the FIELD NOTE pill badge: Accent Blue (#A7E0FA) filled rounded rectangle, white "FIELD NOTE" text in Plex Sans SemiBold 28pt with +6% letter tracking, no other text or logo. The badge is the only computer-typography element in the image; everything else is photoreal physical objects with handwritten annotations.
+
+Style: photorealistic product photography, warm natural daylight, no other objects on the desk, no logos other than the FIELD NOTE badge, no charts, no icons. Color palette: light gray-tan desk surface, off-white invoice paper with subtle texture, black printed text on the invoice, dark sepia and red marker annotations, Accent Blue (#A7E0FA) badge.
 
 **Post-Generation Steps:**
-1. Generate the base image using the prompt above
+1. Generate the base image using the prompt above (use the W19 5 Formulary Questions cover slide as a style reference if attaching reference images is supported)
 2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
+3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left, on the desk surface area not overlapping the invoice
 4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
