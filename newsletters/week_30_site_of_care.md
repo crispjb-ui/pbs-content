@@ -144,45 +144,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## White Bagging vs. Brown Bagging: The Practical Differences
+## Auditing Your Coordination of Benefits Claims
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 30, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Cost Containment Strategies
+**Pillar:** PBM Contract Insights
+**Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Coordination of Benefits Terms Decoded" Three-EOB Photoreal messy infographic. LinkedIn post decodes the COB vocabulary; Field Note is the operational follow-on for auditing how COB executes on plan claims.
+**Why this pairing (not the displaced "White Bagging vs. Brown Bagging" draft):** Architecture B triple-distinct topic rule — Monday W30 is Site-of-Care Optimization; Thursday is Coordination of Benefits (how the plan's claim coordinates with secondary insurance, copay assistance, Medicare interactions). Adjacent within PBM Contract Insights pillar, different subject matter. Original "White Bagging vs. Brown Bagging" Field Note parked as FN-13.
 
 ---
 
 ### Field Note Body
 
-We get questions about white bagging and brown bagging frequently. Both move provider-administered drugs from the medical benefit to the pharmacy benefit. Both can reduce cost. They work differently, and the practical implications matter.
+This morning's LinkedIn post decoded the five COB terms PBMs use most often when claims interact across multiple coverage sources: primary-secondary determination, member responsibility carve-out, Medicare-as-secondary handling, copay assistance crediting, and double-dipping prevention language. Today is the operational follow-on. You have the vocabulary. Here is how to audit how COB executes on your plan's claims.
 
-**White bagging:** The PBM's specialty pharmacy dispenses the drug and ships it directly to the physician's office or infusion center. The provider administers a drug they did not purchase or store. The claim processes through the pharmacy benefit at PBM-negotiated pricing instead of through the medical benefit at the provider's acquisition cost plus markup.
+We run COB audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**Brown bagging:** The specialty pharmacy dispenses the drug and ships it to the patient's home. The patient brings the drug to their appointment. The provider administers a drug the patient physically carried in.
+**Pass one: pull the COB-flagged claims sample**
 
-**Where white bagging works well**
+Open your most recent quarterly report and request a COB-flagged claims sample. Most PBMs can produce this on request: claims where coordination of benefits applies because the member has secondary coverage (spouse's plan), Medicare entitlement, or active manufacturer copay assistance.
 
-White bagging is more operationally straightforward than brown bagging. The drug ships directly to the provider with cold chain management handled by the specialty pharmacy. The provider receives the drug, verifies it, stores it appropriately, and administers it. The claim moves from medical to pharmacy benefit, capturing PBM-negotiated pricing.
+If your PBM cannot produce a COB-flagged sample, that is the first finding. The flag exists in the adjudication data; the report needs to surface it.
 
-The savings come from eliminating the provider's drug markup (buy-and-bill margin) and the hospital facility fees. For high-cost biologics, this differential is meaningful per administration.
+**Pass two: classify each COB scenario by type**
 
-**Where complications arise**
+For each COB-flagged claim, classify the coordination type: primary-secondary, Medicare-as-secondary, manufacturer copay card crediting, or member-billed-separately. Calculate the share by type.
 
-Providers often resist white bagging because it eliminates their buy-and-bill revenue. Some health systems have policies against administering drugs they did not purchase, citing liability concerns about storage, handling, and chain of custody. These concerns are legitimate and need to be addressed in the implementation.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the manufacturer copay card crediting category is rarely flagged correctly. Copay accumulator and copay maximizer programs depend on accurate flagging at the claim level; if the flag is missing or wrong, the program does not capture the manufacturer dollars correctly.
 
-Drug waste is another consideration. If a dose-specific biologic is shipped to the provider and the patient cancels or the dose needs adjustment, the drug may be wasted. Unlike buy-and-bill where the provider manages inventory, white bagging creates one-to-one drug-to-patient matching that does not accommodate last-minute changes well.
+**Pass three: compare COB outcomes to the contract**
 
-**Brown bagging: higher member burden**
+Open your contract. Find the COB clause. Note the rules: primary-secondary determination order, member responsibility carve-out, copay assistance crediting policy, and double-dipping prevention.
 
-Brown bagging adds complexity for the member. They receive the drug at home, must store it properly (often refrigerated), transport it to the appointment, and present it to the provider. If storage or transport is mishandled, the drug may be compromised. Most providers and clinical pharmacists, myself included, have concerns about brown bagging for temperature-sensitive biologics.
+Compare the contract rules to the actual claim outcomes from Pass two. If the contract says the plan applies copay assistance to the deductible (maximizer-style) but the actual claims show the assistance bypassing the deductible (accumulator-style), the workflow is doing different work than the contract specifies.
 
-**What we recommend**
+**What to do this quarter**
 
-White bagging is generally preferable to brown bagging for operational and clinical reasons. But implementation requires provider engagement, clear policies on drug handling and waste, and contract provisions that support the routing.
+> **Request a COB-flagged claims sample from your PBM.** Classify by coordination type.
+> **Open your contract's COB clause.** Compare rules to actual outcomes.
+> **Bring discrepancies to your broker.** COB workflow drift is a renewal-leverage item and an audit-rights item.
 
-Before implementing either program, work with your broker and PBM to model the financial impact for your top infusion drugs by spend. Start with the drugs where the cost differential is largest and the clinical transition is simplest. Your broker can help identify which providers in your network are receptive.
+The decoded vocabulary tells you the COB rules. The audit tells you how COB actually executes. The gap is where copay-program economics live or die.
 
 ---
 
@@ -194,20 +199,21 @@ Before implementing either program, work with your broker and PBM to model the f
 
 ### Field Note Meta
 
-**SEO Title:** White Bagging vs. Brown Bagging: Practical Differences | Benefit Blind Spots
-**SEO URL Slug:** white-bagging-vs-brown-bagging
-**Tags:** white bagging, brown bagging, site of care, specialty pharmacy, cost containment
+**SEO Title:** Auditing Your Coordination of Benefits Claims | Benefit Blind Spots
+**SEO URL Slug:** audit-coordination-of-benefits-claims
+**Meta Description:** Five COB terms decoded this morning. Three audit passes plan sponsors can run on COB-flagged claims, the pattern PBS sees most often, and what to bring to renewal.
+**Tags:** coordination of benefits, COB, primary secondary, Medicare secondary, copay assistance, copay accumulator, copay maximizer, PBM contracts
 
 ---
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized infusion-bag icons in deep teal-blue (#015880) outline, side by side, each roughly 180px tall, labeled "WHITE BAG" and "BROWN BAG" in deep teal-blue bold sans-serif text across their fronts. A directional arrow in Accent Blue (#A7E0FA) runs between the two bags, tilted slightly toward WHITE BAG to imply the preferred path. The WHITE BAG icon's outline is highlighted in Accent Blue as the active comparison. Four small cost-differential hash marks in Accent Blue (#A7E0FA) sit in a descending row below the bags. Below the bags, two-tone centered headline: "White Bag or Brown Bag" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Practical Differences" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design Explanation-of-Benefits documents in Primary Blue (#015880) outline, side-by-side, each roughly 360px tall, slightly overlapping. Each document is labeled in Plex Mono Medium uppercase across its top banner: "PRIMARY," "SECONDARY," "COPAY ASSIST." A small Accent Blue (#A7E0FA) coordination-arrow runs across the top of the three documents, suggesting claim flow. Three small numbered hash marks in Accent Blue (#A7E0FA) below the documents, suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers near the seam between the SECONDARY and COPAY ASSIST documents. Below the composition, a two-tone centered headline: "Three EOBs." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "One Coordination Rule." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One contract clause. Where copay-program economics live or die." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -450,54 +456,78 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 
 ---
 
-### Thursday Evergreen Rotation (Slot B) - Same infusion. Hospital. Office. Home. Four prices.
+### Thursday Excellence Slot - 5 Coordination of Benefits Terms Decoded — Three-EOB Photoreal Messy Infographic
 
-- **Slot:** B
-- **Format:** Carousel (6 slides)
-- **Pillar:** Cost Containment Strategies
-- **Topic:** Same infusion. Hospital. Office. Home. Four prices.
-- **Hook:** "Same infusion. Same drug. Same clinical outcome. Four settings. Four bills. One employer paying the difference."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same infusion. Hospital. Office. Home. Four prices." four-placard photoreal carousel on Cost Containment / Site of Care. Displaced under Architecture B — Same infusion site-of-care content matched Monday Site-of-Care Optimization topic family. Replaced with 5 COB Terms Decoded Three-EOB Photoreal messy infographic that pairs with W30 Field Note "Auditing Your Coordination of Benefits Claims." Original four-placard Slot B carousel content preserved in `evergreen_visual_backlog.md` as concept #31.
 
-**Content outline (Same/Same/Different structure, parallel lines then punchline):**
-- Slide 1 (Hook): "Same infusion. Four settings. Four prices." Swipe indicator in Accent Blue.
-- Slide 2 (Hospital outpatient): "Hospital outpatient department. Facility fee. Administration fee. Drug markup. Highest price."
-- Slide 3 (Physician office): "Physician office. Administration fee. Lower drug markup. Lower total."
-- Slide 4 (Ambulatory infusion center): "Ambulatory infusion center. No facility fee. Negotiated drug pricing. Lower still."
-- Slide 5 (Home infusion): "Home infusion. No facility fee. No office overhead. Lowest of the four."
-- Slide 6 (Punchline): "Same infusion. Four settings. Four prices. One employer paying whichever setting the default routes to." Accent Blue underline under "default routes."
-- Slide 7 (CTA): Primary Blue background. White: "Site-of-care is a choice. Make it before the claims arrive." team@rxbs.org | Benefit Blind Spots | PBS logo.
+**Format:** Single messy infographic, Three-EOB Photoreal aesthetic (three Explanation-of-Benefits documents on a desk with handwritten coordination-flow notes). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your Coordination of Benefits Claims."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "COB Claims Audit Worksheet" — `templates/documents/week_30_thursday_cob_audit_worksheet.html/.pdf`.
 
-#### Same/Same/Different Carousel Concept
+**Winning-profile traits hit (10 of 10):** decoder shape · dollar-comparison shape (member responsibility shifts across coordination scenarios) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Three-EOB Photoreal) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five contract terms decide how a single claim coordinates across primary, secondary, and copay assistance. Most plan sponsors never audit how the rules execute.
 
-**Setting:** Four location signs or door markers stacked.
+I review approximately 100 PBM contracts a year at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging — and the flagging is rarely audited.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five terms to know:
 
-> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). Four minimalist hospital/clinic-style door placards are stacked vertically on a clean off-white wall, each a brushed aluminum plate with raised black lettering. Reading top to bottom, the four placards read: "Hospital Outpatient," "Physician Office," "Ambulatory Infusion Center," "Home Infusion." Below each placard, a smaller price tag hangs on a thin string, showing a different dollar amount (blurred or stylized so the relative size is what reads, not the exact number). No logos, no brand marks, no people, no text outside the placards and tags.
+1. **Primary-Secondary Determination.** The order in which coverage applies when a member has multiple plans. Standard rules exist (birthday rule, employee/dependent), but the contract's language can vary the default — and the default determines who pays first.
+
+2. **Member Responsibility Carve-Out.** What portion of the claim the member must absorb regardless of secondary coverage. Carve-out language can shift the deductible / OOP-max calculation in ways that change the year-end member burden.
+
+3. **Medicare-as-Secondary Handling.** When members have Medicare entitlement, how the plan coordinates with Medicare's payment rules. Misclassified Medicare-secondary claims drive overpayments by the plan and underpayments by the member.
+
+4. **Copay Assistance Crediting.** Whether manufacturer copay card dollars credit toward the member's deductible (maximizer-style) or bypass it (accumulator-style). The flag at the claim level is what makes the program work.
+
+5. **Double-Dipping Prevention.** Language that prevents the plan from paying the same claim twice across primary and secondary coverage. Audit-rights territory; rarely flagged on the standard report.
+
+The COB clause is the contract. The COB workflow is the operations. The gap is where copay-program economics live or die.
+
+Save this for your next quarterly review.
+
+#PBMContracts #CoordinationOfBenefits #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on COB-flagged claims (sample pull, scenario classification, contract-rule comparison). Plus a paste-ready COB Claims Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Three-EOB Photoreal Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking insurance Explanation of Benefits pages are laid out side by side on a dark wood desk, evenly spaced, slight perspective angle. Each page has the header "Explanation of Benefits" printed at the top in clean serif type. Reading left to right, each page has a distinct printed sub-header label below the EOB title, indicating the coordination role:
 >
-> Overlaid at the top of the image, in clean bold handwriting: Same infusion. Four settings. Four prices.
+> - Page 1: "PRIMARY · This Plan"
+> - Page 2: "SECONDARY · Spouse's Plan"
+> - Page 3: "COPAY ASSIST · Manufacturer Card"
 >
-> Overlaid at the bottom, in smaller handwriting: One employer paying whichever the default routes to.
+> Each EOB shows the same printed claim header (same drug, same date, same member ID) but a different "Member Responsibility" total in larger bold type. A capped red ballpoint pen rests diagonally across the upper-right corner of the right-most EOB.
 >
-> Style: realistic architectural photography, soft even daylight, subtle shadow behind each placard, very shallow depth of field on the price tags. Colors: brushed aluminum silver placards with black engraved text, off-white wall, warm cream paper price tags with black handwritten numbers.
+> Above the three EOBs, in larger handwritten black-marker handwriting, double-underlined: "Same claim. Three EOBs. Five COB clauses."
+>
+> Five handwritten red ballpoint annotations are written in the spaces between and below the EOBs, each pointing at a coordination scenario:
+> - Pointing between Pages 1 and 2: "Primary-Secondary determination order"
+> - Pointing at Page 1 sub-header: "Member responsibility carve-out"
+> - Pointing at Page 2: "Medicare-as-secondary handling (when applicable)"
+> - Pointing between Pages 2 and 3: "Copay assistance crediting — accumulator or maximizer?"
+> - Pointing across all three: "Double-dipping prevention language"
+>
+> Below the three EOBs, in larger red marker, double-underlined: "Five COB clauses. The flag at the claim level is what makes copay programs work."
+>
+> Below that, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. The COB workflow is rarely audited."
+>
+> Style: realistic document photography, soft natural daylight from upper-left, subtle shadow under each page, slight paper curl at the corners, faint paper texture. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style) for authenticity. Colors: off-white EOB pages with black printed text, dark wood desk, red handwritten ballpoint, black handwritten title marker. No logos, no brand marks, no people, no insurance carrier names, no member names.
 
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Four placards photo described above. Overlay: "Same infusion. Four settings. Four prices." Swipe indicator in Accent Blue.
-- Slide 2 (Hospital outpatient): "Hospital outpatient department. Facility fee. Administration fee. Drug markup. Highest price."
-- Slide 3 (Physician office): "Physician office. Administration fee. Lower drug markup. Lower total."
-- Slide 4 (Ambulatory infusion center): "Ambulatory infusion center. No facility fee. Negotiated drug pricing. Lower still."
-- Slide 5 (Home infusion): "Home infusion. No facility fee. No office overhead. Lowest of the four."
-- Slide 6 (Punchline): "Same infusion. Four settings. Four prices. One employer paying whichever setting the default routes to." Accent Blue underline under "default routes."
-- Slide 7 (CTA): Primary Blue background. White text: "Site-of-care is a choice. Make it before the claims arrive." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any placard or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the three EOB sub-header labels and five red-pen annotations at mobile size
+3. If any handwritten annotation renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
+4. Verify the title "Same claim. Three EOBs. Five COB clauses." reads cleanly in feed thumbnail
+5. Verify the three EOB sub-headers render distinctly (PRIMARY / SECONDARY / COPAY ASSIST — most common AI failure: repeated text)
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+7. Export as PNG at 1080 x 1350
 
 ---
 

@@ -161,28 +161,51 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Provider Communication: The Step Most Plans Skip
+## Auditing Your Member Transition Disruption Clauses
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 20, 2026 at 7:30 AM EST
-**Length:** ~450 words (~2 min read)
-**Pillar:** Broker/Consultant Resources
+**Length:** ~580 words (~3 min read)
+**Pillar:** PBM Contract Insights
+**Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Member Transition Disruption Terms Decoded" Marked-Up Plan Document Page messy infographic. LinkedIn post decodes the transition-clause vocabulary; Field Note is the operational follow-on for auditing whether the contract's transition language actually protects members during change events.
+**Why this pairing (not the displaced "Provider Communication" draft):** Architecture B triple-distinct topic rule — Monday W33 is Member Communication (the messaging strategy and playbook); Thursday is Member Transition Disruption Clauses (the contract language that governs member experience during PBM transitions, formulary changes, and benefit modifications). Adjacent within plan-sponsor concern, different subject matter (communication strategy vs. contractual transition protections). Original "Provider Communication" Field Note parked as FN-16.
 
 ---
 
 ### Field Note Body
 
-The most common mistake in pharmacy benefit change implementation: notifying members without notifying their prescribers. The member receives a letter about a formulary change. They call their doctor. The doctor has no idea what they are talking about. Both are frustrated. Both call the benefits team.
+This morning's LinkedIn post decoded the five clauses that govern member transitions: continuity-of-care language, transition supply provision, formulary-change member-notification requirement, prior-authorization grandfathering, and benefit-modification ratification standard. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether the contract's transition language actually protects members during change events.
 
-We see this pattern repeatedly, and it is entirely preventable.
+We help plan sponsors document transition compliance as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**Why provider communication matters:** Prescribers are the member's trusted source for medication decisions. When a member hears "your medication is changing," their first call is to their doctor. If the doctor is informed and supportive, the member accepts the change. If the doctor is surprised and alarmed, the member resists it. Same change. Different provider awareness. Different outcome.
+**Pass one: identify every transition event in the past 12 months**
 
-**What to communicate to providers:** The specific drugs affected, the clinical rationale for the change, the timeline, the exception/override process, and a point of contact for questions. Keep it clinical, not administrative. Prescribers respond to evidence-based rationale, not cost-containment language.
+Open your benefits committee minutes and PBM correspondence. List every member-affecting transition: formulary changes, PA criteria changes, network changes, specialty-pharmacy routing changes, mail-order configuration changes.
 
-**Timing:** Providers should be notified 60 days before the effective date. Members should be notified 45 days before. That 15-day gap ensures the provider knows before the member calls. Your PBM or broker can coordinate the provider mailing.
+For each transition, document the date, the member population affected, and the contractual transition window (continuity-of-care period, transition supply offered, notification cadence).
 
-**Format:** A one-page clinical communication on the plan's letterhead, not the PBM's. Providers are more likely to read a communication from the employer's benefits team than a mass mailing from a PBM they may not recognize. Your broker can help draft the clinical language.
+**Pass two: compare contract language to actual member experience**
+
+Open your contract's transition clauses. Note the protections: how many days of continuity-of-care, what transition supply is mandated, what notification cadence is required, what PA grandfathering window is preserved.
+
+For each transition event from Pass one, audit whether the contract's protections were actually delivered. Did members on affected drugs receive the contractual continuity-of-care period? Was the transition supply provisioned? Did notifications hit the contractual cadence? Were existing PAs grandfathered?
+
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the transition clauses are in most contracts but rarely audited. Members report disruption; the plan sponsor assumes the PBM is following the contract; the PBM is following its operational playbook, which may or may not match the contract.
+
+**Pass three: catalog the gap**
+
+For each transition where the audit surfaces a gap (less than contractual continuity, missed notifications, ungrandfathered PAs), document the impact: how many members affected, how the disruption manifested, what the cost or clinical consequence was.
+
+The gap document is the renewal-leverage item. A PBM that is operationally tighter than its contract suggests will welcome the audit; a PBM that is not will resist documentation.
+
+**What to do this quarter**
+
+> **Build the transition event log for the past 12 months.**
+> **Compare contractual protections to actual member experience.**
+> **Catalog the gap with member counts and clinical / cost consequences.**
+
+The decoded vocabulary tells you the protections owed. The audit tells you which ones were delivered. The gap is the lever.
 
 ---
 
@@ -190,12 +213,12 @@ We see this pattern repeatedly, and it is entirely preventable.
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are two stylized icons in deep teal-blue (#015880) outline: a physician figure on the left and an envelope on the right, connected by a directional arrow in Accent Blue (#A7E0FA) running from the physician to the envelope. The physician icon is labeled "PROVIDER" and the envelope is labeled "MEMBER LETTER" in deep teal-blue bold sans-serif text. The arrow is rendered in mid-motion with a short motion arc, implying the notification step most plans skip. The physician icon's outline is highlighted in Accent Blue as the focal point. Four small timing hash marks in Accent Blue sit below the arrow representing the 60-day prescriber lead time. Below the icons, two-tone centered headline: "Provider Communication" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Step Most Plans Skip" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design transition timeline in Primary Blue (#015880), 480px wide, with five labeled checkpoint dots evenly spaced. Each checkpoint has a small label in Plex Mono Medium uppercase: "NOTIFY," "GRANDFATHER," "TRANSITION SUPPLY," "CONTINUITY," "RATIFY." Three of the five checkpoints have a small Accent Blue (#A7E0FA) check mark; two show a red "?" symbol indicating gaps. Three numbered tick marks in Accent Blue (#A7E0FA) below the timeline, suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the gap checkpoints. Below the composition, a two-tone centered headline: "Five Protections." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Three Delivered." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. The gap is your renewal lever." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -411,52 +434,67 @@ The fix is not better clinical rationale. It is better messaging: specific, earl
 
 ---
 
-### Thursday Evergreen Rotation (Slot B) - Same benefit change. Different messaging. Different uptake.
+### Thursday Excellence Slot - 5 Member Transition Disruption Terms Decoded — Marked-Up Plan Document Page Messy Infographic
 
-- **Slot:** B
-- **Format:** Carousel (6 slides)
-- **Pillar:** Cost Containment Strategies
-- **Topic:** Same benefit change. Different messaging. Different uptake.
-- **Hook:** "Same biosimilar switch. Same clinical equivalence. Three employers. Three messages. Three uptake rates. The change was not the variable."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same benefit change. Different messaging. Different uptake." three-phone-screen carousel on Cost Containment / Member Communication pillar. Displaced under Architecture B — content matched Monday Member Communication topic family. Replaced with 5 Member Transition Disruption Terms Decoded that pairs with W33 Field Note. Original Slot B three-phone carousel content preserved in `evergreen_visual_backlog.md` as concept #33.
 
-**Content outline (Same/Same/Different structure, parallel lines then punchline):**
-- Slide 1 (Hook): "Same benefit change. Different messaging. Different uptake." Swipe indicator in Accent Blue.
-- Slide 2 (Employer A): "Employer A. Letter at 14 days. Drug name only. No provider context. Low uptake."
-- Slide 3 (Employer B): "Employer B. Same change. Letter at 45 days. Clinical rationale explained. Members hear 'FDA-approved, same outcome.' Higher uptake."
-- Slide 4 (Employer C): "Employer C. Same change. Provider notified at 60 days. Member letter at 45 days. Call center briefed. Highest uptake."
-- Slide 5 (Punchline): "Same change. Three messages. Three outcomes. The clinical decision was identical. The communication was not." Accent Blue underline under "communication."
-- Slide 6 (CTA): Primary Blue background. White: "Messaging is implementation. Script it before you send it." team@rxbs.org | Benefit Blind Spots | PBS logo.
+**Format:** Single messy infographic, Marked-Up Plan Document Page aesthetic (a Summary Plan Description / SPD page on a desk with handwritten red-pen audit annotations on transition clauses). 1080 x 1350 px. Distinct from Marked-Up Contract Page in that the document is the SPD/plan document rather than the PBM services agreement.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your Member Transition Disruption Clauses."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Member Transition Audit Worksheet" — `templates/documents/week_33_thursday_member_transition_audit.html/.pdf`.
 
-#### Same/Same/Different Carousel Concept
+**Winning-profile traits hit (10 of 10):** decoder shape · dollar-comparison adjacent (cost of disruption events) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Marked-Up Plan Document Page variant) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five contract clauses protect members during pharmacy benefit transitions. Most plan sponsors assume the protections execute automatically. They do not.
 
-**Setting:** Three phone screens showing different versions of the same email.
+I review approximately 100 PBM contracts a year at PBS. The transition clauses are in nearly every contract. The audit of whether the protections actually executed during the past year's changes is rarely run. Members report disruption; the plan sponsor assumes the contract was followed; the PBM is following an operational playbook that may or may not match the contract.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five clauses to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical smartphones are laid out in a row on a light gray surface, evenly spaced. Each phone screen displays an email from HR about a pharmacy benefit change. The emails have identical sender names and the same subject line topic, but the visible body copy is noticeably different on each: terse and short on the left, longer with a bulleted clinical explanation in the middle, longer still with a highlighted provider-notification block on the right. No logos, no brand marks, no people, no text outside the screens.
+1. **Continuity-of-Care Language.** How long members on affected medications can continue to fill at the prior arrangement after a change. The contract specifies a window (often 30–90 days); the workflow may not honor the full window.
+
+2. **Transition Supply Provision.** A bridge supply (often 30 days) at the existing benefit configuration when a change is implemented. Frequently triggered, infrequently delivered without prompt.
+
+3. **Formulary-Change Member Notification.** Required notice cadence (often 60 days) before a member-affecting formulary change takes effect. The contract specifies; the actual notice often arrives later.
+
+4. **Prior-Authorization Grandfathering.** Existing PAs that should be honored after a change rather than re-adjudicated. Re-adjudication is friction; grandfathering is the contractual protection.
+
+5. **Benefit-Modification Ratification.** What counts as "approved" when the PBM proposes mid-term operational changes. Plan-sponsor consent vs. notice-only is the leverage clause.
+
+The protections are written. The execution is not automatic. The audit is what closes the gap.
+
+Save this for your next member-transition planning meeting.
+
+#PBMContracts #MemberExperience #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the transition clauses (event log, contract vs. actual experience, gap catalog). Plus a paste-ready Member Transition Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Marked-Up Plan Document Page Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed Summary Plan Description (SPD) page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "ARTICLE VII · PHARMACY BENEFIT TRANSITIONS AND CONTINUITY." Below the header, five vertically stacked clause entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
 >
-> Above the three phones, in clean bold handwriting on the surface: Same change. Three messages.
+> 1. **Continuity of Care.** "Members on affected medications shall continue to access the prior benefit configuration for sixty (60) days following a Plan Change."
+> 2. **Transition Supply.** "PBM shall provide a thirty (30) day transition supply at existing benefit configuration upon Implementation of any Plan Change."
+> 3. **Formulary-Change Notification.** "Members shall receive written notice no fewer than sixty (60) days prior to any Material Formulary Change."
+> 4. **Prior Authorization Grandfathering.** "Existing Prior Authorizations in effect at the date of any Plan Change shall remain in effect through the original PA expiration date."
+> 5. **Benefit Modification Ratification.** "Any mid-term Benefit Modification proposed by PBM shall require Plan Sponsor written approval prior to Implementation."
 >
-> Below the phones, in smaller handwriting: Three uptake rates. The change was not the variable.
+> Five handwritten red ballpoint annotations:
+> - Red circle around "sixty (60) days" in clause 1, red note: "Did the workflow honor it?"
+> - Red circle around "transition supply" in clause 2, red note: "Triggered automatically?"
+> - Red circle around "no fewer than sixty (60) days" in clause 3, red note: "When did the notice actually arrive?"
+> - Red circle around "shall remain in effect" in clause 4, red note: "Re-adjudication = breach"
+> - Red circle around "written approval prior" in clause 5, red note: "Notice-only is not approval"
 >
-> Style: realistic product photography, soft even daylight, subtle shadows under each phone, crisp glossy screen reflection. Colors: dark phone bezels, white email client backgrounds with black body text, a soft accent highlight in the middle and right phones, light gray surface, black handwritten ink.
-
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Three phone screens photo described above. Overlay: "Same benefit change. Different messaging. Different uptake." Swipe indicator in Accent Blue.
-- Slide 2 (Employer A): "Employer A. Letter at 14 days. Drug name only. No provider context. Low uptake."
-- Slide 3 (Employer B): "Employer B. Same change. Letter at 45 days. Clinical rationale explained. Members hear 'FDA-approved, same outcome.' Higher uptake."
-- Slide 4 (Employer C): "Employer C. Same change. Provider notified at 60 days. Member letter at 45 days. Call center briefed. Highest uptake."
-- Slide 5 (Punchline): "Same change. Three messages. Three outcomes. The clinical decision was identical. The communication was not." Accent Blue underline under "communication."
-- Slide 6 (CTA): Primary Blue background. White text: "Messaging is implementation. Script it before you send it." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any email content or overlay text, overlay the correct text in a clean sans-serif font.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+> Top of page, handwritten black marker, double-underlined: "Five transition protections."
+> Below in red pen: "The audit is what closes the gap."
+> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. The clauses are in most contracts. The audit is in few plan sponsors' quarterly reviews."
+>
+> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white SPD paper (#F5F0E4), faint black plan-document text, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
 
 ---
 

@@ -153,33 +153,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Step Therapy Protocols: Where They Help and Where They Harm
+## Auditing Your Fiduciary Compliance Against the Contract
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 13, 2026 at 7:30 AM EST
-**Length:** ~500 words (~2 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Clinical Pharmacy Perspectives
+**Pillar:** PBM Contract Insights / Self-Funded Employer Guidance
+**Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Fiduciary Terms Decoded" Index Cards messy infographic. LinkedIn post decodes the ERISA fiduciary vocabulary; Field Note is the operational follow-on for auditing whether your plan's actual decision-making process satisfies the prudent-process standard.
+**Why this pairing (not the displaced "Step Therapy Protocols" draft):** Architecture B triple-distinct topic rule — Monday W32 is Clinical Program ROI; Thursday is ERISA Fiduciary Compliance (your personal exposure as a plan fiduciary, separate from clinical program design). Adjacent within plan-sponsor concern but different subject matter (clinical ROI measurement vs. fiduciary process documentation). Original "Step Therapy Protocols" Field Note parked as FN-15.
 
 ---
 
 ### Field Note Body
 
-Step therapy is one of the most debated clinical management tools in pharmacy benefits. When designed well, it ensures members try cost-effective alternatives before expensive options. When designed poorly, it delays appropriate therapy and creates provider friction.
+This morning's LinkedIn post decoded the five ERISA fiduciary terms most plan sponsors interact with regularly: fiduciary, prudent process, plan assets, conflict of interest, and co-fiduciary liability. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether your plan's actual decision-making satisfies the prudent-process standard.
 
-We evaluate step therapy protocols for clients with a clinical lens, and the quality varies enormously.
+We help plan sponsors document fiduciary compliance as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**Where step therapy helps:** Therapeutic categories with multiple clinically equivalent options at different price points. Proton pump inhibitors, statins, ACE inhibitors, ARBs. Starting with a generic before moving to a brand makes clinical and financial sense. The evidence supports therapeutic equivalence across the class, and the cost savings are real.
+**Pass one: identify every pharmacy benefit decision in the past 12 months**
 
-**Where step therapy harms:** Categories where clinical differentiation matters. Biologics for autoimmune conditions where one agent may work for a patient and another may not. Psychiatric medications where response is highly individual. Oncology where treatment protocols are specific. Requiring a "fail first" on a clinically inappropriate agent delays effective therapy and can cause real harm.
+Open your benefits committee minutes, broker correspondence, and any documented PBM decisions from the past 12 months. List every decision: contract amendments, formulary changes, RFP outcomes, cost containment programs, vendor selections, fee approvals.
 
-**What to evaluate in your PBM's step therapy program:**
+For each decision, document the date, the deciders, and the documentation that supported the decision (data, broker analysis, alternatives considered).
 
-Does the protocol reflect current clinical guidelines, or is it based on cost alone? Are clinical override criteria clear and accessible? Can a prescriber bypass the step with a documented clinical rationale without a lengthy appeals process? What is the therapy abandonment rate for members in step therapy (members who never fill the target drug because they gave up during the step)?
+**Pass two: apply the prudent-process test to each decision**
 
-The abandonment rate is the metric most PBMs do not report. If members who need specialty medications are abandoning therapy because the step therapy process is too burdensome, the financial savings come at a clinical cost. Your broker can help you request this data.
+The prudent-process standard does not require optimal outcomes. It requires a reasonable, documented decision-making process. For each decision in your list, ask: was the alternative considered? Was the data assessed? Was the conflict-of-interest landscape documented?
 
-The strongest step therapy protocols have clear clinical criteria, straightforward override processes, and transparency about where cost optimization ends and clinical compromise begins.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most plan sponsors have decisions, but few have decision documentation that would survive a fiduciary audit. The decision happened; the prudent-process record did not.
+
+**Pass three: catalog conflict-of-interest disclosures and co-fiduciary exposure**
+
+Open your contract's conflict-of-interest clause (if it exists). Document every PBM relationship that creates structural conflict: PBM-owned specialty pharmacy, rebate aggregator, GPO ownership, manufacturer data partnerships.
+
+For each conflict, document whether the plan sponsor has acknowledged the conflict in writing and whether reasonable inquiry has been made to mitigate exposure. Co-fiduciary liability triggers on conduct you saw, suspected, or could have discovered through reasonable inquiry. Reasonable inquiry is what the audit produces.
+
+**What to do this quarter**
+
+> **Build the decision log for the past 12 months** with documentation references.
+> **Apply the prudent-process test** to each decision. Identify documentation gaps.
+> **Catalog the conflict-of-interest landscape and your inquiry record.** This is your co-fiduciary defense.
+
+The decoded vocabulary tells you the standard. The audit produces the documentation. Both are needed before a regulator or plaintiff is asking the questions.
 
 ---
 
@@ -187,12 +204,12 @@ The strongest step therapy protocols have clear clinical criteria, straightforwa
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized staircase icon in deep teal-blue (#015880) outline, roughly 400px wide, with "STEP THERAPY" rendered in deep teal-blue bold sans-serif text above it. The staircase has three ascending steps labeled "STEP 1," "STEP 2," "STEP 3" in deep teal-blue. A small patient figure silhouette in Accent Blue (#A7E0FA) stands on STEP 2 mid-stride with a short motion arc trailing behind, implying clinical progression. STEP 2 is highlighted in Accent Blue. Three small pill icons in Accent Blue sit along the staircase base, one per step. Below the staircase, two-tone centered headline: "Step Therapy Protocols" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Where They Help and Harm" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design fiduciary decision log in Primary Blue (#015880) outline, roughly 380px tall, with "DECISION LOG" rendered in Plex Mono Medium uppercase across the top banner. Inside the log, five horizontal rows representing decisions, each with a small Accent Blue (#A7E0FA) checkbox on the left. The first three checkboxes are checked; the last two show a red "?" symbol indicating documentation gaps. To the right of the log, a small balance-scale icon in Accent Blue (#A7E0FA) indicating the prudent-process test. Three numbered tick marks in Accent Blue (#A7E0FA) below the log, suggesting three audit passes. Below the composition, a two-tone centered headline: "Fiduciary." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Documented." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. The decision happened. The record is what survives." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above

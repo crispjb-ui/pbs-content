@@ -156,46 +156,54 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Three Biosimilar Contract Provisions Worth Negotiating
+## Auditing Where Your Specialty Drugs Actually Fill
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, June 4, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Cost Containment Strategies
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Specialty Routing Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the contract vocabulary; Field Note is the operational follow-on for auditing actual specialty drug routing on plan claims data. First-comment cross-promo on the Thursday LinkedIn lands here.
+**Why this pairing (not the displaced Biosimilar Provisions draft):** Architecture B (added May 9, 2026) requires Thursday Field Note + Thursday LinkedIn to share a topic and both to be distinct from Monday's deep dive. Monday W22 is Biosimilar Strategy (formulary positioning of biologics); Thursday is Specialty Routing (which pharmacy actually fills the prescription) — adjacent within Cost Containment / Specialty pillar, different subject matter. Original "Three Biosimilar Contract Provisions" Field Note is parked in `field_note_backlog.md` as FN-06.
 
 ---
 
 ### Field Note Body
 
-We have been reviewing PBM contracts this quarter with a specific focus on biosimilar language. Here is what we are finding: most contracts say very little about biosimilars. That silence has a cost.
+This morning's LinkedIn post decoded the five contract terms that determine where your specialty drugs actually fill: specialty pharmacy designation, limited distribution drug clause, exclusive specialty arrangement, specialty channel pass-through, and specialty performance guarantee. Today is the operational follow-on. You have the vocabulary. Here is how to audit which pharmacies are actually filling your specialty claims.
 
-When a PBM contract does not address biosimilar performance, the PBM has no obligation to prioritize biosimilar adoption. Formulary decisions default to whatever serves the PBM's financial model, which may or may not align with the plan's cost objectives. Three contract provisions can change that dynamic.
+We run specialty routing audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-> **Provision 1: Biosimilar Dispensing Rate Guarantee**
->
-> This is the most direct performance metric. It establishes a minimum percentage of biologic claims that must be filled with a biosimilar when one is available. The guarantee creates accountability. Without it, you are relying on the PBM's good faith that their formulary prioritizes the lowest net cost option.
->
-> When negotiating this provision, define the denominator carefully. Which therapeutic categories are included? Are specialty pharmacy claims included alongside retail? Is the rate measured at the claim level or the member level? Vague definitions produce metrics that look good on paper but do not reflect actual performance.
+**Pass one: pull the by-pharmacy specialty claim breakdown**
 
-> **Provision 2: Brand-to-Biosimilar Transition Timeline**
->
-> When a new biosimilar launches, how quickly does the PBM move it to preferred status? A transition timeline provision requires the PBM to evaluate and implement formulary changes within a defined period after FDA approval of a new biosimilar. Without this language, transition timelines are entirely at the PBM's discretion.
->
-> We see plans where biosimilars that have been available for over a year still sit at non-preferred status. That delay costs the plan money every month. A 90-day evaluation and transition commitment is reasonable and increasingly standard in well-negotiated contracts.
+Open your most recent quarterly report. Find the specialty drug section, if it exists. Most reports show specialty drug spend in aggregate. Push for a drug-by-pharmacy breakdown: for each specialty drug filled in the quarter, where did it fill, by pharmacy NPI or pharmacy name?
 
-> **Provision 3: Net Cost Comparison Reporting**
->
-> This provision requires the PBM to provide regular reporting that compares the net cost (after rebates, fees, and administrative costs) of brand biologics versus available biosimilars for your specific plan population. This is the transparency tool that reveals whether the formulary is serving the plan or the PBM's rebate economics.
->
-> Request this reporting quarterly. The data should be specific enough to show, by therapeutic category, what the plan paid net for the brand versus what it would have paid for the biosimilar. If the PBM resists providing this level of detail, that resistance tells you something important about whose interests the current formulary serves.
+If your PBM does not provide that breakdown in the standard quarterly report, request it. The data exists in their adjudication system; the report format is a contract negotiation, not a data limitation.
 
-**How to introduce these provisions**
+**Pass two: classify each fill by pharmacy ownership**
 
-If your contract is up for renewal, include all three as negotiation points. If renewal is not imminent, request a contract amendment or addendum. Some PBMs will push back. That pushback itself is informative. A PBM confident in its biosimilar strategy should welcome performance guarantees and transparency requirements.
+For each specialty fill in the breakdown, classify the dispensing pharmacy as: PBM-owned (or PBM-affiliated), independent specialty pharmacy in the network, or limited distribution drug pharmacy (manufacturer-restricted).
 
-Work with your broker or consultant to benchmark these provisions against market standards. The language is becoming more common in well-negotiated contracts, which means PBMs are already agreeing to these terms with other clients.
+Calculate the share by ownership category. The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: PBM-owned specialty pharmacy share is materially higher than the network-balance language in the contract suggests. The contract often says "members may use any in-network specialty pharmacy"; the prior authorization workflow routes most fills to the PBM-owned channel anyway.
+
+**Pass three: compare the routing pattern to the contract clauses**
+
+Open your contract. Find the specialty routing language: any clause naming the PBM-owned pharmacy as preferred, exclusive, or default; any "specialty drug list" attachment; any prior-authorization or step-therapy provision tied to specialty fills.
+
+Read those clauses against the actual routing pattern. If the contract says "any in-network specialty pharmacy" but 80% of fills go to the PBM-owned pharmacy, the contract language is doing different work than the contract operations are doing.
+
+**The pattern plan sponsors find most often**
+
+> **Across approximately 100 PBM contract reviews and audits annually at PBS:** the specialty routing clause is rarely as exclusive as the routing pattern. The contract preserves member choice on paper; the operational workflow steers most fills to the PBM-owned pharmacy regardless. The leverage is in the prior-authorization and step-therapy clauses, not in the network-membership clause.
+
+**What to do this quarter**
+
+> **Request a drug-by-pharmacy specialty fill breakdown** for the last four quarters. Aggregate the share by pharmacy ownership category.
+> **Open your contract's specialty routing, prior-authorization, and step-therapy clauses.** Note which clauses point routing toward the PBM-owned pharmacy. Those are the negotiation items at renewal.
+> **Bring the pattern to your broker.** The specialty routing question deserves a place on the agenda alongside rebate, AWP discount, and quarterly reporting performance.
+
+The decoded vocabulary (this morning's LinkedIn post) tells you what the clauses say. The audit (above) tells you what they do.
 
 ---
 
@@ -207,18 +215,18 @@ Work with your broker or consultant to benchmark these provisions against market
 
 ### Field Note Meta
 
-**SEO Title:** Three Biosimilar Contract Provisions Worth Negotiating | Benefit Blind Spots
-**Meta Description:** Most PBM contracts say nothing about biosimilar performance. Three provisions that create accountability: dispensing rate guarantees, transition timelines, and net cost reporting.
-**Tags:** biosimilars, PBM contracts, contract negotiation, pharmacy benefits, self-funded employers, cost containment
+**SEO Title:** Auditing Where Your Specialty Drugs Actually Fill | Benefit Blind Spots
+**Meta Description:** Five specialty routing terms decoded this morning. Here is how to actually audit which pharmacies are filling your specialty claims: three comparison passes, the pattern PBS sees most often across 100 contract reviews per year, and what to bring to renewal.
+**Tags:** specialty pharmacy, specialty routing, PBM contracts, contract clauses, limited distribution drug, pharmacy benefits, self-funded employers, audit
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a flat-design contract document icon in deep teal-blue (#015880) outline, roughly 300px tall, labeled "3 PROVISIONS" in deep teal-blue bold sans-serif text across the top. A pen in Accent Blue (#A7E0FA) is rendered in mid-motion ticking through three provision lines on the document, with one large checkmark in Accent Blue (#A7E0FA) already placed next to the first provision. The pen tip and the completed checkmark are the primary Accent Blue highlights. Three small numbered bullet dots (1, 2, 3) in Accent Blue (#A7E0FA) sit along the document's left margin, each with a small hash-mark underline. Below the document, two-tone centered headline: "Three Provisions" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Real Accountability" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern, no textured background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design prescription bottle icon in Primary Blue (#015880) outline, roughly 300px tall, labeled "SPECIALTY DRUG" in Plex Mono Medium across the bottle's printed label. Three Accent Blue (#A7E0FA) routing arrows fan out from the bottle to three small destination icons: a building labeled "PBM-OWNED" (largest), a smaller building labeled "INDEPENDENT," and an even smaller building labeled "LIMITED DISTRIBUTION." Above the largest destination, a small Accent Blue badge reads "80%" in Plex Mono Medium tabular figures, suggesting the disproportionate routing share. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the central bottle. Below the composition, a two-tone centered headline: "Where the Fills" in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Actually Land." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One contract. One routing pattern." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -290,17 +298,17 @@ Five metrics self-funded CFOs should pull before the Q3 planning cycle:
 
 3. Rebate-to-gross-claims ratio, compared to the contractual minimum guarantee. A widening gap is where renewal leverage lives.
 
-4. Top 25 drugs by plan spend. Every name on that list needs a clinical rationale and a renewal strategy, especially anything on the Humira, Stelara, or Keytruda tier.
+4. Top 25 drugs by plan spend. Every name on that list needs a clinical rationale and a renewal strategy, especially anything on the Humira, Stelara, or Keytruda tier where biosimilars are now FDA-approved and available.
 
 5. Claims-to-eligibility ratio. If the claims count is drifting from active member count, terminated members may still be generating spend.
 
-None of these require a new vendor. All of them are in your existing claims data. The question is whether anyone is pulling them before the PBM does.
+I review approximately 100 PBM contracts a year at PBS. None of these metrics require a new vendor. All of them are already in your existing claims data. The only question is whether anyone is pulling them before the PBM does.
 
-#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
+#SelfFundedEmployers #PlanSponsors #EmployeeBenefits
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN NEWSLETTER URL]
+This week's Benefit Blind Spots deep dive is the companion to numbers 3 and 4: a biosimilar readiness assessment with a 6-factor scoring framework and the exact net-cost data request to send your PBM. Run the assessment with your top-25 drug list next to you. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Carousel Slide-by-Slide Spec
 
@@ -333,83 +341,6 @@ Claude Design project type: **Slide deck from template**. Use the One Number car
 5. Verify "WHY IT MATTERS" panels land at consistent vertical position across Slides 2-6
 6. Verify the closing slide's Plex Sans italic emphasis on "Not after" renders correctly
 7. Upload as native LinkedIn carousel (document upload)
-
-#### First Comment
-
-More in this week's Pharmacy Benefits Briefing on biosimilar strategy: [LINKEDIN NEWSLETTER URL]
-
-#### Infographic Concept
-
-**Title:** How PBM Spread Pricing Works
-**Style:** Process Flow / Educational Explainer
-**Dimensions:** 1080 x 1350 px (vertical LinkedIn)
-**Template:** Vertical flow diagram with three tiers
-
-**Layout:**
-
-**Top Header Bar:** Deep teal-blue (#015880) background with "How PBM Spread Pricing Works" in white Plex Sans SemiBold (36-48pt). Small magnifying glass icon in Accent Blue (#A7E0FA) to the left of the title.
-
-**Section 1 — The Transaction You See:**
-- Large box in light gray (#E0E0E0) background
-- "Your Plan Pays: $500" in deep teal-blue (#015880) bold text
-- Downward arrow in Primary Blue (#015880) pointing to PBM box
-- Label: "What your claims report shows"
-
-**Section 2 — The PBM (Center):**
-- Large box in Accent Blue (#A7E0FA) background
-- "PBM" in deep teal-blue (#015880) Plex Sans SemiBold (48pt)
-- Two arrows: one coming in from top ($500), one going out bottom ($350)
-- Center callout: "The Spread: $150" in deep teal-blue (#015880) bold, highlighted with light yellow (#FFF3CD) background
-
-**Section 3 — The Transaction You Do Not See:**
-- Large box in light gray (#E0E0E0) background
-- "Pharmacy Receives: $350" in Gray (#4D4D4D) bold text
-- Label: "What the pharmacy actually gets paid"
-
-**Bottom Section — Key Facts:**
-Three small info boxes side by side:
-- Box 1: "Not on your claims report" with document icon
-- Box 2: "Not in your rebate summary" with chart icon
-- Box 3: "Adds up across every claim" with calculator icon
-
-**Bottom Bar:** Accent Blue (#A7E0FA) background with "Do you know your PBM's spread?" in deep teal-blue (#015880) bold text. PBS logo bottom-right, 80-100px. "team@rxbs.org" bottom-left.
-
-**Design Notes:**
-- Vertical flow: Plan → PBM → Pharmacy, top to bottom
-- The "spread" callout in the center is the visual focal point
-- Clean arrows connecting the three tiers
-- Dollar amounts are illustrative and large enough to read at mobile size
-- Plex Sans body text (18-22pt), dollar amounts in Plex Sans SemiBold (28-36pt)
-- Professional format, not messy infographic style
-
-**Color Palette:**
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Primary Blue | #015880 | Header bar, PBM label, dollar amounts, arrows |
-| Accent Blue | #A7E0FA | PBM box background, bottom bar, icons |
-| Gray | #4D4D4D | Pharmacy text, disclaimer, labels |
-| Light Gray | #E0E0E0 | Plan and pharmacy box backgrounds |
-| White | #FFFFFF | Overall background |
-| Light Yellow | #FFF3CD | Spread callout highlight |
-
-#### Image Generation Prompt
-
-**Dimensions:** 1080 x 1350 px
-
-**Prompt:**
-
-A clean, professional vertical infographic at 1080 x 1350 pixels with a white background (#FFFFFF). At the top, a deep teal-blue (#015880) header bar containing white sans-serif text "How PBM Spread Pricing Works" with a small magnifying glass icon in light blue (#A7E0FA). Below, a vertical flow diagram with three tiers connected by arrows. Top tier: a light gray (#E0E0E0) rounded rectangle labeled "Your Plan Pays: $500" in deep teal-blue text. Middle tier: a light blue (#A7E0FA) rounded rectangle labeled "PBM" in large deep teal-blue text, with a highlighted callout box reading "The Spread: $150." Bottom tier: a light gray (#E0E0E0) rounded rectangle labeled "Pharmacy Receives: $350" in gray (#4D4D4D) text. Deep teal-blue arrows connect the tiers top-to-bottom. Below the flow diagram, three small info boxes in a row with flat icons. Bottom bar in light blue (#A7E0FA) with "Do you know your PBM's spread?" in deep teal-blue. No photographs, no realistic elements. Flat corporate infographic style.
-
-**Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px
-3. Replace placeholder text with exact content from infographic concept above
-4. Adjust arrow sizing and alignment between tiers
-5. Add "Benefit Blind Spots" badge (Plex Sans SemiBold, 16-20pt) in top-left corner of header bar
-6. Add PBS logo (color version) in bottom-right of bottom bar, 80-100px width
-7. Add disclaimer text (Plex Sans Regular, 10pt, gray) centered above bottom bar
-8. Verify all text is legible at mobile viewing size (test at 50% zoom)
-9. Export as PNG
 
 ---
 
@@ -491,11 +422,127 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 ---
 
 ## Post 79 - Thursday 8:30 AM
+### 5 Specialty Routing Terms Decoded — Three-Pill-Bottle Photoreal Messy Infographic
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Questions About Spread Pricing (Slot C of the evergreen rotation).**
+**Format:** Single messy infographic, Three-Pill-Bottle Photoreal aesthetic (W18 Channel Pricing precedent applied to specialty routing). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Canvas variation note (May 9, 2026):** This Thursday slot was originally drafted as a Marked-Up Contract Page messy infographic. Reformatted to Three-Pill-Bottle Photoreal to vary the messy-infographic canvas across consecutive Thursdays per the format-rotation rule (no single canvas more than ~31% across 16 Thursdays). Topic-format affinity: specialty routing names three destination pharmacies (PBM-owned, independent specialty, limited-distribution), which maps cleanly to a three-bottle composition with handwritten routing annotations.
+**Field Note pairing:** Same-day Substack Field Note "Auditing Where Your Specialty Drugs Actually Fill" (Thu Jun 4, 7:30 AM EST).
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Specialty Routing Audit Worksheet" — `templates/documents/week_22_thursday_specialty_routing_audit_worksheet.html/.pdf`.
+**Why this topic (not the displaced Biosimilar Provisions concept):** Architecture B triple-distinct topic rule — Monday W22 is Biosimilar Strategy (formulary positioning of biologics); Thursday is Specialty Routing (which pharmacy fills the prescription). Adjacent within Cost Containment / Specialty pillar, different subject matter. Original Biosimilar Provisions Field Note parked as FN-06.
 
-### Biosimilar Readiness Checklist (Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
+**Winning-profile traits hit (9 of 10 — clears 7+ bar):**
+1. Decoder shape ✓ — five-term contract-vocabulary decoder mapped to three pharmacy destinations
+2. Dollar-comparison shape ✓ — implicit margin spread between three destinations
+3. Named-actor framing ✓ — PBM as actor; plan as victim; routing as leverage
+4. Plan-sponsor-actionable ✓ — every term has an audit step
+5. Confrontational hook ✓ — "Three pharmacies. One PBM. Five contract clauses that decide which one fills your specialty drug."
+6. Messy infographic format ✓ — Three-Pill-Bottle Photoreal (W18 Channel Pricing canvas, applied to specialty routing topic)
+7. First-comment Substack cross-promo ✓
+8. Proprietary anchor ✓ — "~100 PBM contract reviews and audits annually at PBS"
+9. Save-driven structure ✓ — 5-term decoder as bookmarkable reference
+10. Single-image / photoreal aesthetic ✓
+
+#### Post Copy
+
+Three pharmacies. One PBM. Five contract clauses that decide which pharmacy actually fills your specialty drug.
+
+I review approximately 100 PBM contracts a year at PBS. The routing pattern rarely matches the network-membership clause. The contract preserves "any in-network specialty pharmacy" on paper; the operational workflow steers most fills to the PBM-owned channel anyway. The leverage is in the four other clauses.
+
+1. **Specialty Pharmacy Designation.** Which drugs the PBM classifies as "specialty." The definition is in the contract attachment, not the formulary. A drug classified as specialty falls under specialty routing; the same drug classified as non-specialty does not. The PBM controls the classification list.
+
+2. **Limited Distribution Drug (LDD) Clause.** Manufacturer-restricted drugs that only authorized pharmacies can dispense. The contract names which network pharmacies have LDD access. Plans with PBM-affiliated specialty pharmacies usually find the affiliated pharmacy on the LDD list. Independent specialty pharmacies often are not.
+
+3. **Exclusive Specialty Arrangement.** A clause naming the PBM-owned pharmacy as the preferred or default specialty fill location. Sometimes explicit; more often implicit through prior-authorization workflow design that defaults to the PBM-owned channel.
+
+4. **Specialty Channel Pass-Through.** Whether the contract's general pass-through clause applies to specialty drug economics. Often it does not. The contract carves specialty out as "affiliated dispensing" with separate (read: PBM-favorable) economics.
+
+5. **Specialty Performance Guarantee.** Contract terms for specialty net cost, dispensing fee, fill rate, or member experience. Many contracts have none. Without performance guarantees, specialty economics are entirely at PBM discretion.
+
+The network-membership clause is the cover. The four clauses above are the steering wheel. Read all five together, or read none of them.
+
+Save this for your next specialty review.
+
+#PBMContracts #SpecialtyPharmacy #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually audit your specialty drug routing using the five terms above. Three comparison passes (drug-by-pharmacy breakdown, ownership classification, contract-clause check) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Specialty Routing Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Three-Pill-Bottle Photoreal Concept
+
+**Aesthetic:** Photoreal top-down composition of three labeled prescription pill bottles on a dark wood desk surface, with handwritten red-pen routing arrows and margin annotations connecting each bottle to a contract-clause callout. W18 Channel Pricing pill-bottle canvas applied to specialty routing.
+
+**Visual elements:**
+- Three identical clear plastic prescription pill bottles arranged in a horizontal row on a dark wood desk, evenly spaced, soft natural daylight from upper-left
+- Each bottle has a small white printed prescription label. Reading left to right, the labels read:
+  - Bottle 1: "PBM-OWNED SPECIALTY"
+  - Bottle 2: "INDEPENDENT SPECIALTY"
+  - Bottle 3: "LIMITED DISTRIBUTION"
+- Above the three bottles, a hand-printed black-marker line: "Same drug. Three pharmacies. One PBM deciding which one fills it."
+- Five handwritten red-pen routing notes around the bottles, each pointing at a contract-clause callout:
+  - Pointing at Bottle 1 (PBM-owned), red note: "Specialty designation list — PBM writes it"
+  - Pointing at Bottle 1 (PBM-owned), second red note: "Exclusive specialty arrangement — workflow defaults here"
+  - Pointing at Bottle 2 (Independent), red note: "Pass-through carve-out — economics differ here"
+  - Pointing at Bottle 3 (Limited Distribution), red note: "LDD access list — PBM-affiliated has access; independents often do not"
+  - Pointing across all three bottles, red note in larger handwriting: "Performance guarantee — often missing entirely"
+- Bottom of image, hand-printed red marker, double-underlined: "Five contract clauses. Three destinations. The PBM owns four of the five."
+- Below that, smaller hand-printed sepia line: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
+- A black ballpoint pen rests at a slight angle in the top-right corner of the desk surface
+
+**Color hierarchy:**
+- Dark wood desk surface (warm tone, natural grain)
+- Clear plastic bottles with subtle reflection, off-white printed labels
+- Black printed label text and prescription markings
+- Red ballpoint handwriting for routing notes and corrections
+- One small Accent Blue (#A7E0FA) sticky-flag tab on Bottle 1's label edge marking "PBM-owned" as the pattern destination
+
+#### Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A clean dark wood desk surface fills the frame, slight perspective angle, soft natural daylight from upper-left, gentle shadows lower-right. Three identical clear plastic prescription pill bottles stand upright in a horizontal row across the middle of the canvas, evenly spaced. Each bottle has a small white printed prescription label. Reading left to right, the printed labels read:
+>
+> Bottle 1: "PBM-OWNED SPECIALTY" in clean serif printed type
+> Bottle 2: "INDEPENDENT SPECIALTY" in clean serif printed type
+> Bottle 3: "LIMITED DISTRIBUTION" in clean serif printed type
+>
+> Above the three bottles, in larger hand-printed black marker handwriting, double-underlined: "Same drug. Three pharmacies. One PBM deciding which one fills it."
+>
+> Around the bottles, five handwritten red ballpoint routing notes are written directly on the desk surface, each with a short curved arrow pointing at the relevant bottle:
+>
+> - Above Bottle 1 (PBM-owned), red handwritten note: "Specialty designation — PBM writes the list"
+> - Below Bottle 1 (PBM-owned), red handwritten note: "Exclusive specialty arrangement — workflow defaults here"
+> - Below Bottle 2 (Independent), red handwritten note: "Pass-through carve-out — economics differ"
+> - Below Bottle 3 (Limited Distribution), red handwritten note: "LDD access list — PBM-affiliated has access"
+> - Below all three bottles, in slightly larger handwriting: "Performance guarantee — often missing entirely"
+>
+> Below all annotations, in red marker, double-underlined: "Five clauses. Three destinations. The PBM owns four of five."
+>
+> Below that, in smaller hand-printed sepia ink: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
+>
+> A small light-blue (#A7E0FA) sticky-flag tab is placed on the edge of Bottle 1's label, marking it as the dominant routing destination.
+>
+> A black ballpoint pen rests at an angle in the top-right corner of the desk surface.
+>
+> Style: photorealistic product photography, warm natural daylight, slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style with marker pressure variation, uneven line spacing) for authenticity. Color palette: dark wood desk, clear plastic bottles with subtle reflection, off-white labels, black printed type, red handwritten ballpoint, one small Accent Blue tab, sepia secondary handwriting. No logos, no brand marks, no people, no PBM names, no drug names. The image stands on its own without additional branding overlays.
+
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the three bottle labels and five red-pen routing notes at mobile size
+3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
+4. Verify the title "Same drug. Three pharmacies. One PBM deciding which one fills it." is readable in feed thumbnail
+5. Verify the three bottle labels render distinctly (PBM-OWNED / INDEPENDENT / LIMITED DISTRIBUTION) — most common AI failure is repeated label text
+6. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
+7. Export as PNG at 1080 x 1350
+
+---
+
+## Post 79 (Displaced) - 5 Questions About Spread Pricing — MOVED TO EVERGREEN BACKLOG
+
+> **NOTE:** The Slot C "5 Questions About Spread Pricing" carousel originally scheduled here was displaced May 9, 2026 to align W22 Thursday with the Field Note per Thursday Excellence Rule. Full slide spec, post copy, and image prompt are preserved below for future use as a Thursday Slot C evergreen on a non-spread-pricing-collision week. Logged in `evergreen_visual_backlog.md` as concept #25.
+
+---
+
+## Post 79 (Repurposed Original) - Biosimilar Readiness Checklist [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
 **Format:** Single Infographic (INFO)
 **Pillar:** Cost Containment Strategies

@@ -168,46 +168,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Three Conversations to Have Before Renewal Season
+## Auditing Your RFP Scoring Methodology Before You Send It
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, June 25, 2026 at 7:30 AM EST
-**Length:** ~550 words (~3 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** Self-Funded Employer Guidance
+**Pillar:** PBM Contract Insights
 **Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 RFP Scoring Methodology Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the scoring vocabulary; Field Note is the operational follow-on for designing a scoring methodology that actually surfaces the differences between PBM proposals.
+**Why this pairing (not the displaced "Three Conversations" draft):** Architecture B triple-distinct topic rule — Monday W25 is Renewal Countdown (the 90-day timeline). Thursday is RFP Scoring Methodology (how proposals are evaluated when they arrive). Adjacent within renewal-prep family, different subject matter (timeline vs. scoring mechanic). Original "Three Conversations" Field Note parked as FN-08.
 
 ---
 
 ### Field Note Body
 
-We have been helping clients prepare for fall renewals, and the same pattern keeps emerging. The employers who have the best renewal outcomes are the ones who had three specific conversations before the PBM ever presented terms.
+This morning's LinkedIn post decoded the five terms most plan sponsors miss when designing an RFP scoring methodology: weighted scoring, baseline normalization, financial vs. non-financial scoring split, scenario-modeling vs. point-in-time pricing, and tiebreaker hierarchy. Today is the operational follow-on. Before you send the RFP, audit the scoring methodology that determines who wins it.
 
-**Conversation 1: With your broker or benefits consultant**
+We design RFP scoring methodologies as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-This one seems obvious but it often happens too late. The conversation should not be "we got our renewal terms, what do you think?" It should be "renewal is 90 days out, here is our data, what should our priorities be?"
+**Pass one: weight the scoring categories against your priorities**
 
-Your broker sees the market across multiple clients. They know which PBM terms are moving, which guarantees are tightening, and where other clients are extracting concessions. That market intelligence is most valuable before you have terms to react to. Ask your broker three questions: what are you seeing in the market right now for plans our size? Where do you think our current terms are weakest relative to market? And what should our top three negotiation priorities be?
+Pull the scoring methodology your broker or consultant proposed. List the categories: financial terms, clinical programs, reporting capability, account team experience, technology platform, references. Assign a weight to each.
 
-The best brokers will have specific answers. If yours does not, that is worth noting.
+Then compare the weights to your internal priority document (the one you produced when you aligned with your benefits committee). If the weights do not match the priorities, the scoring methodology will not surface the PBM that best matches your priorities. We see RFPs where financial terms are weighted 70 percent and reporting capability is weighted 5 percent for plan sponsors who later discover the winning PBM produces unusable reports.
 
-**Conversation 2: With your stop-loss carrier**
+**Pass two: normalize the financial scoring**
 
-This is the conversation most employers skip. Your stop-loss renewal may happen on a different timeline than your PBM renewal, but the two are connected. Changes to your PBM contract affect your stop-loss exposure. New specialty drug coverage, site-of-care policies, gene therapy provisions: all of these affect what your stop-loss carrier is underwriting.
+PBM pricing proposals are not directly comparable. Different MAC lists, different rebate methodologies, different administrative fee structures, different discount calculation methods. Without baseline normalization, the lowest-headline-number proposal can be the highest-net-cost contract.
 
-Ask your stop-loss carrier: are there any new exclusions or limitations in next year's policy? How are pharmacy claims trending against our attachment points? And are there any gene therapy or specialty provisions we should coordinate before renewal?
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most RFP scoring methodologies score against headline pricing, not normalized net cost. The PBMs know this; the headline number is engineered to win the RFP, not to match what the plan will actually pay.
 
-Coordinating these two renewals saves surprises. I have watched employers negotiate strong PBM terms only to discover their stop-loss carrier added an exclusion that undermined the benefit.
+**Pass three: build scenario-modeling into the financial score**
 
-**Conversation 3: With your internal team**
+Static pricing proposals favor the PBM that engineered the proposal for the static scenario. Build three scenarios into the scoring methodology: current claims mix, projected next-year claims mix (with specialty drift), and stress scenario (high-cost claimant cluster, biosimilar adoption shift, formulary exclusion impact).
 
-Who owns the PBM relationship internally? HR? Finance? A benefits committee? Before renewal, align on priorities. What matters most: cost containment, member experience, reporting quality, clinical programs? If your internal stakeholders disagree on priorities, you will negotiate without a clear mandate, and the PBM will exploit the ambiguity.
+Score each PBM's proposal against all three scenarios. The proposal that wins the static score may rank third under stress. That information matters.
 
-One meeting. Thirty minutes. "What are our top three priorities for this renewal?" Document the answer. Bring it to every subsequent conversation.
+**What to do this quarter**
 
-**The timing that matters**
+> **Pull the RFP scoring methodology and your internal priority document.** Compare weights to priorities. Adjust before sending the RFP, not after the proposals arrive.
+> **Build baseline normalization into the financial scoring.** Net-cost-equivalent comparison, not headline pricing.
+> **Add three scenario models to the financial score.** Static, projected, stress.
 
-All three conversations should happen before the PBM presents renewal terms. Once terms arrive, the frame is set by the PBM. Before terms arrive, you set your own frame. That distinction determines whether you negotiate or react.
+The RFP scoring methodology is the most consequential design decision in the renewal process. The plan sponsor that audits the methodology before sending the RFP runs a different process than the plan sponsor who scores against whatever methodology arrives in the broker's draft.
 
 ---
 
@@ -219,19 +223,19 @@ All three conversations should happen before the PBM presents renewal terms. Onc
 
 ### Field Note Meta
 
-**SEO Title:** Three Conversations to Have Before PBM Renewal Season | Benefit Blind Spots
-**SEO URL Slug:** three-conversations-before-pbm-renewal
-**Meta Description:** The employers with the best renewal outcomes have three specific conversations before the PBM presents terms. Here is who to talk to, what to ask, and when.
-**Tags:** PBM renewal, broker strategy, stop-loss coordination, self-funded employers, renewal preparation
+**SEO Title:** Auditing Your RFP Scoring Methodology Before You Send It | Benefit Blind Spots
+**SEO URL Slug:** audit-pbm-rfp-scoring-methodology
+**Meta Description:** Five RFP scoring terms decoded this morning. Three comparison passes plan sponsors should run on the scoring methodology before sending the RFP, the pattern PBS sees most often, and the audit framework.
+**Tags:** PBM RFP, RFP scoring, weighted scoring, baseline normalization, scenario modeling, self-funded employers, renewal preparation
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are three flat-design speech-bubble icons in deep teal-blue (#015880) outline, arranged in an arc, each roughly 180px wide, labeled "01 BROKER," "02 COUNSEL," "03 STOP-LOSS" in deep teal-blue bold sans-serif text inside the bubbles. A short arrow in Accent Blue (#A7E0FA) connects each bubble to the next in sequence, implying a conversation flow. The "03 STOP-LOSS" bubble is highlighted in Accent Blue (#A7E0FA) as the active conversation. Three numbered dots (1, 2, 3) in Accent Blue (#A7E0FA) sit below each bubble. Below the arc, two-tone centered headline: "Three Conversations" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Before Renewal Season" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design RFP scorecard in Primary Blue (#015880) outline, roughly 380px tall, with "RFP SCORING" rendered in Plex Mono Medium uppercase across the top banner. The scorecard shows five horizontal category rows in alternating Primary Blue and Accent Blue thin rules, each with a small Accent Blue (#A7E0FA) percentage callout in Plex Mono Medium tabular figures (different weights). A pen in Accent Blue (#A7E0FA) is rendered in mid-motion adjusting one of the percentage values upward. Three small numbered tick marks in Accent Blue (#A7E0FA) sit along the scorecard's right edge, suggesting three audit passes. Below the composition, a two-tone centered headline: "Three Audit Passes." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Before You Send the RFP." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Weights. Normalization. Scenarios." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -570,60 +574,67 @@ The full 90-day renewal preparation timeline is in this week's Pharmacy Benefits
 
 ---
 
-### Thursday Evergreen Rotation (Slot C) - 5 Questions About Your PBM Contract Renewal
+### Thursday Excellence Slot - 5 RFP Scoring Methodology Terms Decoded — Marked-Up Contract Page Messy Infographic
 
-- **Slot:** C
-- **Format:** Carousel (6 slides)
-- **Pillar:** Transparency & Industry Education
-- **Topic:** 5 Questions About Your PBM Contract Renewal
-- **Hook:** "Five questions we ask every renewal review. Four out of five clients had never raised any of them before we did."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Your PBM Contract Renewal" calendar-photo carousel. Displaced under Architecture B — questions are on Monday's Renewal Countdown topic family. Replaced with 5 RFP Scoring Methodology Terms Decoded that pairs with W25 Field Note "Auditing Your RFP Scoring Methodology Before You Send It." Original Slot C calendar-questions carousel preserved in `evergreen_visual_backlog.md` as concept #27.
 
-**Content outline (5 confrontational questions, each with one-line why-it-matters):**
-- Slide 1 (Hook): "5 Questions About Your PBM Contract Renewal." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What pricing methodology changed from our original contract?" Why it matters: renewals rarely keep the original definitions intact. The drift is where the margin goes.
-- Slide 3 (Q2): "Which guarantees have remediation rights, and which are aspirational?" Why it matters: a guarantee without a remedy is a target, not a commitment.
-- Slide 4 (Q3): "What is our termination cost if we leave mid-term?" Why it matters: termination economics determine your actual leverage. If leaving costs more than staying, you are not negotiating. You are renewing.
-- Slide 5 (Q4): "Which audit rights were added, narrowed, or removed at renewal?" Why it matters: audit rights tend to shrink quietly. The renewal redline is where they disappear.
-- Slide 6 (Q5): "What would it cost you to lose our business?" Why it matters: the answer calibrates the conversation. Your broker can help you gauge whether the PBM is pricing for retention or for market share.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One renewal decision. Ask before you sign." team@rxbs.org | Benefit Blind Spots.
+**Format:** Single messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your RFP Scoring Methodology Before You Send It."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "RFP Scoring Methodology Audit Worksheet" — `templates/documents/week_25_thursday_rfp_scoring_audit_worksheet.html/.pdf`.
 
-#### 5 Questions Carousel Concept
+**Winning-profile traits hit (9 of 10 — clears 7+ bar):** decoder shape · dollar-comparison adjacent · named-actor framing (PBM as actor that engineers proposals to win the static score) · plan-sponsor-actionable · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor (~100 contracts/year) · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five RFP scoring terms decide which PBM wins your renewal. Most plan sponsors never audit the scoring methodology before sending the RFP.
 
-**Setting:** Desk calendar page with questions written across the date squares.
+I review approximately 100 PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using. The headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five terms to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A large desk calendar page showing a single month sits on a light wood desk. Printed date numbers fill each day square. A black felt-tip marker rests diagonally across the upper-right corner. Five of the date squares have handwritten questions written across them, overflowing slightly into the adjacent squares, each a different one of five questions. One corner of the calendar page has "RENEWAL DEADLINE" circled in red marker. No logos, no brand marks, no people, no text outside the calendar.
+1. **Weighted Scoring.** Each category (financial, clinical, reporting, technology, references) gets a weight. If financial is 70% and reporting is 5%, the lowest-headline-pricing proposal wins regardless of whether you can actually read the reports. Match weights to your priority document.
+
+2. **Baseline Normalization.** PBM proposals are not directly comparable: different MAC lists, rebate methodologies, fee structures. Without baseline normalization, the lowest-headline number can be the highest net cost.
+
+3. **Financial vs. Non-Financial Split.** What percentage of the score is financial vs. account team, technology, or clinical capability. Financial-heavy weighting favors the PBM that engineers the financial proposal. Non-financial weighting requires you to actually evaluate reference checks and capability demos.
+
+4. **Static vs. Scenario Pricing.** Static pricing favors the proposal engineered for a snapshot. Scenario pricing forces every PBM to price three scenarios (current claims mix, projected, stress) and reveals which proposal holds up under change.
+
+5. **Tiebreaker Hierarchy.** When two PBMs tie on financial score, what determines the winner: account team rating, reporting capability, clinical depth? The tiebreaker is often where the actual decision lives. Set it deliberately, not by accident.
+
+The RFP scoring methodology is the most consequential design decision in the renewal process. Audit it before sending the RFP, not after the proposals arrive.
+
+Save this for your next RFP design meeting.
+
+#PBMContracts #PBMRFP #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the RFP scoring methodology before sending it (weights vs. priorities, baseline normalization, scenario modeling). Plus a paste-ready RFP Scoring Methodology Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Marked-Up Contract Page Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed RFP scoring methodology document rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "PBM RFP SCORING METHODOLOGY — APPENDIX C." Below the header, five vertically stacked term entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
 >
-> Above the calendar grid, in larger handwriting, black marker, double-underlined: 5 Questions Before Your PBM Renewal
+> 1. **Weighted Scoring.** "Categories shall be weighted as follows: Financial Terms 70%, Clinical Programs 10%, Reporting 5%, Technology 5%, References 5%, Account Team 5%."
+> 2. **Baseline Normalization.** "Financial proposals shall be evaluated against headline pricing as submitted by each Vendor."
+> 3. **Financial vs. Non-Financial.** "Financial Score: 70%. Non-Financial Score: 30%."
+> 4. **Static vs. Scenario Pricing.** "Pricing evaluated against current-quarter claims data, single scenario."
+> 5. **Tiebreaker Hierarchy.** "[No language present]"
 >
-> The five hand-written date-square questions read, in order earliest to latest:
+> Five handwritten red ballpoint annotations:
+> - Red circle around "70%" in clause 1, red note: "Match to your priorities, not the default"
+> - Red circle around "headline pricing as submitted" in clause 2, red note: "PBMs engineer the headline. Normalize."
+> - Red circle around "30%" in clause 3, red note: "Capability matters as much as price"
+> - Red circle around "single scenario" in clause 4, red note: "Force three scenarios"
+> - Red circle around "[No language present]" in clause 5, red note: "Set the tiebreaker"
 >
-> 1. What pricing methodology changed from our original contract?
-> 2. Which guarantees have remediation rights, and which are aspirational?
-> 3. What is our termination cost if we leave mid-term?
-> 4. Which audit rights were added, narrowed, or removed?
-> 5. What would it cost the PBM to lose our business?
+> Top of page, handwritten black marker, double-underlined: "Five RFP scoring terms."
+> Below in red pen: "Most plan sponsors never audit any of them."
+> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. PBMs engineer proposals to the methodology."
 >
-> Style: realistic photograph, soft natural daylight, subtle drop shadow under the calendar, slight paper texture. Colors: white calendar page, crisp black printed dates and grid lines, black handwritten marker for questions, one red circle around "RENEWAL DEADLINE," light wood desk.
-
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Calendar page photo described above. Title overlay: "5 Questions Before Your PBM Renewal." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What pricing methodology changed from our original contract?" Why it matters: renewals rarely keep the original definitions intact. The drift is where the margin goes.
-- Slide 3 (Q2): "Which guarantees have remediation rights, and which are aspirational?" Why it matters: a guarantee without a remedy is a target, not a commitment.
-- Slide 4 (Q3): "What is our termination cost if we leave mid-term?" Why it matters: termination economics determine your actual leverage. If leaving costs more than staying, you are not negotiating. You are renewing.
-- Slide 5 (Q4): "Which audit rights were added, narrowed, or removed at renewal?" Why it matters: audit rights tend to shrink quietly. The renewal redline is where they disappear.
-- Slide 6 (Q5): "What would it cost you to lose our business?" Why it matters: the answer calibrates the conversation. Your broker can help you gauge whether the PBM is pricing for retention or for market share.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One renewal decision. Ask before you sign." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any question text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching marker color.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks, no people, no PBM names.
 
 ---
 

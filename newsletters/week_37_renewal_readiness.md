@@ -622,60 +622,73 @@ Preparation is the strategy. Renewal is just the meeting.
 
 ---
 
-### Thursday Evergreen Rotation (Slot C) - 5 Questions About PBM Performance Guarantees
+### Thursday Excellence Slot - 5 First-Meeting Items to Bring — Sticky Note Dashboard Messy Infographic
 
-- **Slot:** C
-- **Format:** Carousel (6 slides)
-- **Pillar:** Transparency & Industry Education
-- **Topic:** 5 Questions About PBM Performance Guarantees
-- **Hook:** "Performance guarantees sound like commitments. Five questions reveal whether they are enforceable, measurable, or just marketing."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About PBM Performance Guarantees" tablet-with-sticky-notes carousel. Displaced — cross-week duplication with W34 Thursday 5 Mid-Year Performance Guarantee Terms Decoded (3 weeks earlier). Replaced with 5 First-Meeting Items to Bring that pairs with W37 Field Note "The First Meeting with Your PBM at Renewal." Original Slot C 5-Questions Performance Guarantees carousel content preserved in `evergreen_visual_backlog.md` as concept #35.
 
-**Content outline (5 confrontational questions, each with one-line why-it-matters):**
-- Slide 1 (Hook): "5 Questions About PBM Performance Guarantees." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What is the measurement methodology for each guarantee?" Why it matters: the methodology is the guarantee. "GER of 88%" means nothing without the definition of GER, the claim set, and the calculation window.
-- Slide 3 (Q2): "What is the remedy if a guarantee is missed, and is there a cap?" Why it matters: a guarantee with a capped remedy is a capped risk for the PBM. The cap is the real commitment.
-- Slide 4 (Q3): "Who calculates guarantee performance, and can we independently verify?" Why it matters: if the PBM calculates and reports, the guarantee is self-graded. Independent verification is where guarantees become enforceable.
-- Slide 5 (Q4): "Which claims are excluded from the guarantee calculation?" Why it matters: exclusions are where guarantees lose their teeth. Specialty, compounds, and 340B carve-outs routinely move volume outside the measurement.
-- Slide 6 (Q5): "What is the cure period before remedies apply?" Why it matters: long cure periods let the PBM miss without consequence. Shorter cure periods align incentives with performance.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One enforceable guarantee. Verify the mechanics." team@rxbs.org | Benefit Blind Spots.
+**Format:** Single messy infographic, Sticky Note Dashboard aesthetic (yellow sticky notes pinned to gray corkboard with the renewal-meeting checklist). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights / Self-Funded Employer Guidance
+**Field Note pairing:** Same-day Substack Field Note "The First Meeting with Your PBM at Renewal: What to Bring and What to Ask."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Pre-Meeting Renewal Checklist" — `templates/documents/week_37_thursday_pre_meeting_renewal_checklist.html/.pdf`.
 
-#### 5 Questions Carousel Concept
+**Winning-profile traits hit (9 of 10):** decoder shape · plan-sponsor-actionable · confrontational hook · messy infographic format (Sticky Note Dashboard) · first-comment Substack cross-promo · proprietary anchor · save-driven structure (5-item reference) · single-image photoreal aesthetic · named-actor framing.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five items to bring to your first PBM renewal meeting. Most plan sponsors walk in with one of them.
 
-**Setting:** A simple performance dashboard mockup on a tablet, with questions written on sticky notes attached.
+I review approximately 100 PBM contracts a year at PBS. The plan sponsors who walk into the first renewal meeting with all five items negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five items to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A modern tablet rests on a clean light gray desk. The tablet screen displays a minimalist performance dashboard mockup, with a few bar charts, a trend line, and two large KPI tiles reading "GER" and "Rebate Guarantee" (numbers stylized or blurred). Five small square sticky notes in a muted teal color are attached around the edges of the tablet screen, each with a hand-written question in black marker. A black permanent marker rests diagonally at the lower-right corner of the tablet. No logos, no brand marks, no people, no text outside the tablet and sticky notes.
+1. **Mid-Year Performance Audit.** Actual GER, BER, dispensing fee, rebate per claim performance vs. contract guarantees. Documented gaps where remediation is owed.
+
+2. **Definition Variance Document.** Side-by-side comparison of high-impact clauses across the past 3-5 contract versions. Highlights of any silent narrowing in rebate definitions, GER methodology, exclusion lists.
+
+3. **Disclosure Gap List.** Which contractually obligated annual disclosures the PBM has actually delivered, which they have not. The list itself signals you have read the contract.
+
+4. **Network Configuration Audit.** Per-channel margin and routing pattern vs. contract design. Identifies pharmacy network drift the PBM has not flagged.
+
+5. **Internal Priority Document.** A one-page summary of what the plan sponsor's benefits committee has prioritized for this renewal cycle. Costs the PBM the option of optimizing for what they want to optimize.
+
+The first meeting is the frame-setting meeting. Bring the documentation, set the frame.
+
+Save this for the next renewal cycle.
+
+#PBMContracts #PBMRenewal #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: a question-by-question script for the first PBM renewal meeting and how to use the five items above. Plus a paste-ready Pre-Meeting Renewal Checklist you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Sticky Note Dashboard Image Generation Prompt
+
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight. Six yellow sticky notes pinned with brass pushpins: one larger title note at top, then five content notes stacked below in a 2-3-or-so layout. Each note slightly angled, subtle curl. Notes filled with clean handwriting in black Sharpie. No logos, no brand marks, no people.
 >
-> Overlaid above the tablet, in clean bold handwriting on the desk surface: 5 Questions About PBM Performance Guarantees
+> Title sticky note at top, slightly larger, double-underlined: "5 Items to Bring · First PBM Renewal Meeting"
 >
-> The five sticky-note questions read, in order clockwise from top-left:
+> Five content sticky notes below, each with an item heading in black Sharpie at the top followed by a short red-pen prep note:
 >
-> 1. What is the measurement methodology for each guarantee?
-> 2. What is the remedy if a guarantee is missed, and is there a cap?
-> 3. Who calculates performance, and can we independently verify?
-> 4. Which claims are excluded from the guarantee calculation?
-> 5. What is the cure period before remedies apply?
+> Note 1: "Mid-Year Performance Audit" → red pen: "Actuals vs. guarantees. Documented gaps."
+> Note 2: "Definition Variance Document" → red pen: "Past 3-5 versions, side by side."
+> Note 3: "Disclosure Gap List" → red pen: "What was delivered, what was not."
+> Note 4: "Network Configuration Audit" → red pen: "Per-channel margin and routing pattern."
+> Note 5: "Internal Priority Document" → red pen: "Your committee's frame, not the PBM's."
 >
-> Style: realistic product photography, soft even daylight, subtle shadow under the tablet, natural drop shadows beneath each sticky note, glossy screen reflection. Colors: dark tablet bezel, clean white dashboard UI with muted blue and gray chart elements, muted teal sticky notes, black marker handwriting, light gray desk, black overlaid handwriting.
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink: "PBS reviews ~100 PBM contracts a year. The first meeting is the frame. Bring the documentation."
+>
+> A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
+>
+> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style). Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink, red Sharpie ink for prep annotations.
 
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Tablet dashboard with sticky notes photo described above. Title overlay: "5 Questions About PBM Performance Guarantees." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What is the measurement methodology for each guarantee?" Why it matters: the methodology is the guarantee. "GER of 88%" means nothing without the definition of GER, the claim set, and the calculation window.
-- Slide 3 (Q2): "What is the remedy if a guarantee is missed, and is there a cap?" Why it matters: a guarantee with a capped remedy is a capped risk for the PBM. The cap is the real commitment.
-- Slide 4 (Q3): "Who calculates guarantee performance, and can we independently verify?" Why it matters: if the PBM calculates and reports, the guarantee is self-graded. Independent verification is where guarantees become enforceable.
-- Slide 5 (Q4): "Which claims are excluded from the guarantee calculation?" Why it matters: exclusions are where guarantees lose their teeth. Specialty, compounds, and 340B carve-outs routinely move volume outside the measurement.
-- Slide 6 (Q5): "What is the cure period before remedies apply?" Why it matters: long cure periods let the PBM miss without consequence. Shorter cure periods align incentives with performance.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One enforceable guarantee. Verify the mechanics." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any question text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility at mobile size
+3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font
+4. Verify the title "5 Items to Bring · First PBM Renewal Meeting" reads cleanly in feed thumbnail
+5. Verify the five item names render distinctly across notes
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+7. Export as PNG at 1080 x 1350
 
 ---
 

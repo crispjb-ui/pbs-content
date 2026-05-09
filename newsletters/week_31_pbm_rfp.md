@@ -175,29 +175,50 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Normalizing PBM Pricing Proposals: Apples to Apples
+## Auditing Your PBM's Annual Disclosure Obligations
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 6, 2026 at 7:30 AM EST
-**Length:** ~500 words (~2 min read)
+**Length:** ~580 words (~3 min read)
 **Tone:** Practical, tactical
 **Pillar:** PBM Contract Insights
+**Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 PBM Disclosure Terms Decoded" Sticky Note Dashboard messy infographic. LinkedIn post decodes the disclosure vocabulary; Field Note is the operational follow-on for auditing whether the PBM has actually delivered the disclosures the contract obligates them to provide.
+**Why this pairing (not the displaced "Normalizing Pricing Proposals" draft):** Architecture B triple-distinct topic rule — Monday W31 is PBM RFP Process; Thursday is PBM Disclosure (annual audit obligations). Adjacent within PBM Contract Insights pillar, different subject matter (RFP selection process vs. ongoing disclosure audit). Original "Normalizing PBM Pricing Proposals" Field Note parked as FN-14.
 
 ---
 
 ### Field Note Body
 
-We normalize PBM pricing proposals for clients regularly. The most common discovery: proposals that looked comparable on the surface were separated by meaningful dollars once we adjusted for methodology differences.
+This morning's LinkedIn post decoded the five disclosure obligations PBMs typically include in their contracts: rebate-flow attestation, conflict-of-interest disclosure, data-partnership disclosure, audit-results delivery, and material-change notice. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether your PBM has actually delivered the disclosures the contract obligates them to provide.
 
-Three adjustments that matter most.
+We run disclosure audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**1. AWP source alignment.** Different PBMs may reference different AWP sources (Medi-Span vs. First DataBank) or update frequencies. A "discount off AWP" guarantee is only comparable when the AWP base is the same. Ask each PBM to specify their source, then normalize to a single reference for comparison.
+**Pass one: pull the contract's disclosure clause and list every obligation by cadence**
 
-**2. Ingredient cost vs. total claim cost.** Some guarantees apply to ingredient cost only. Others include dispensing fees and taxes. A guarantee at ingredient level looks more favorable but the total claim cost may be higher. Ensure all proposals are compared on the same basis.
+Open your contract. Find the disclosure clause (sometimes a single clause, sometimes scattered across reporting, audit, and conflicts sections). For each disclosure obligation, document: what the PBM must disclose, to whom, on what cadence (annual, quarterly, on-event), and in what format.
 
-**3. Rebate timing and methodology.** One PBM guarantees $X per brand claim with quarterly true-up. Another guarantees a percentage of WAC with annual reconciliation. A third offers a per-claim minimum with no true-up. These are not comparable without normalization. Your broker should model each structure against your actual claims mix.
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most contracts have at least four required disclosures, but plan sponsors typically receive only one (the standard quarterly report). The other three are obligations the PBM has but rarely fulfills proactively.
 
-The PBMs know their methodology differences make direct comparison difficult. That complexity is not accidental. Your broker can help cut through it by running all proposals through the same normalization framework.
+**Pass two: collect what you've actually received in the past 12 months**
+
+Pull all formal communications from the PBM over the past year: quarterly reports, annual attestations, ad-hoc notifications, audit responses, conflict-of-interest disclosures. Catalog by date and content category.
+
+Compare to the contract list. Which obligations were fulfilled? Which were missed entirely? Which were partial?
+
+**Pass three: send a written disclosure request for the missed items**
+
+For each missed disclosure, draft a written request citing the contract clause that requires it. Send through your broker. Document the PBM's response in writing.
+
+The PBM's response itself is informative. A PBM operating with disclosure transparency will produce the missing items within the contractual timeline. A PBM that treats disclosure obligations as optional will deflect, delay, or claim the obligations are "informally satisfied" through other communications. The deflection is the finding.
+
+**What to do this quarter**
+
+> **Pull the disclosure clause and build the obligation list.** Annual cadence vs. quarterly vs. on-event.
+> **Compare to what you received this year.** Identify gaps.
+> **Send a written request for the gap items.** Document responses.
+
+The decoded vocabulary tells you what the PBM owes you. The audit tells you what they have actually delivered. The gap is your renewal-leverage item.
 
 ---
 
@@ -205,12 +226,12 @@ The PBMs know their methodology differences make direct comparison difficult. Th
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered are three stylized pricing-proposal document icons in deep teal-blue (#015880) outline, stacked in a fanned-out arrangement, each roughly 200px tall, labeled "PBM A," "PBM B," "PBM C" in deep teal-blue bold sans-serif text across their tops. Above the documents, a horizontal equivalence bar in Accent Blue (#A7E0FA) with "NORMALIZE" rendered in Accent Blue bold sans-serif text in its center. Three downward arrows in Accent Blue connect the normalize bar to each document, implying alignment in progress. Three numbered price-tag hash marks in Accent Blue sit at the base of each document. Below the documents, two-tone centered headline: "Normalizing PBM Proposals" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Apples to Apples" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design checklist in Primary Blue (#015880) outline, roughly 380px tall, with "DISCLOSURE OBLIGATIONS" rendered in Plex Mono Medium uppercase across the top banner. Inside the checklist, five horizontal rows, each with a small checkbox on the left in Primary Blue. The first row's checkbox shows a small Accent Blue (#A7E0FA) check mark; rows two through five show empty checkboxes with a small red "?" symbol next to each. Three numbered tick marks in Accent Blue (#A7E0FA) along the right edge, suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over rows two through five. Below the composition, a two-tone centered headline: "Five Disclosures Owed." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "One Is Usually Delivered." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. Four missing items. The gap is your leverage." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -437,60 +458,73 @@ RFP development. Distribution. Response evaluation. Finalist presentations. Sele
 
 ---
 
-### Thursday Evergreen Rotation (Slot C) - 5 Questions About Clinical Program ROI
+### Thursday Excellence Slot - 5 PBM Disclosure Terms Decoded — Sticky Note Dashboard Messy Infographic
 
-- **Slot:** C
-- **Format:** Carousel (6 slides)
-- **Pillar:** Transparency & Industry Education
-- **Topic:** 5 Questions About Clinical Program ROI
-- **Hook:** "Your PBM reports millions in clinical savings. Five questions reveal how much of that is math and how much is marketing."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Clinical Program ROI" clipboard carousel on Transparency pillar. Displaced — the topic conflicted with W32 Monday Clinical Program ROI deep dive (cross-week cannibalization). Replaced with 5 PBM Disclosure Terms Decoded that pairs with W31 Field Note "Auditing Your PBM's Annual Disclosure Obligations." Original Clinical Program ROI 5-Questions carousel content preserved in `evergreen_visual_backlog.md` as concept #32.
 
-**Content outline (5 confrontational questions, each with one-line why-it-matters):**
-- Slide 1 (Hook): "5 Questions About Clinical Program ROI." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What is the savings methodology for each clinical program?" Why it matters: "methodology" is where assumptions live. Avoided cost assumptions drive most of the reported savings and rarely hold up to audit.
-- Slide 3 (Q2): "Can we see a sample calculation, claim-by-claim, for each program?" Why it matters: topline savings are a summary. A sample calculation is the evidence. Without it, the number is a claim, not a measurement.
-- Slide 4 (Q3): "Which savings are counted in multiple programs?" Why it matters: double-counting is common across PA, step therapy, and DUR. One intervention gets credited to multiple programs, inflating the total.
-- Slide 5 (Q4): "What is the therapy abandonment rate for members denied or stepped?" Why it matters: savings from members giving up care are not savings. They are deferred costs with clinical consequences.
-- Slide 6 (Q5): "How do you verify the counterfactual, what would have happened without the program?" Why it matters: a program is only saving money if costs would have been higher without it. Most PBM methodologies never answer this question.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One verified savings number. Audit before you trust." team@rxbs.org | Benefit Blind Spots.
+**Format:** Single messy infographic, Sticky Note Dashboard aesthetic. 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your PBM's Annual Disclosure Obligations."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "PBM Disclosure Audit Worksheet" — `templates/documents/week_31_thursday_pbm_disclosure_audit.html/.pdf`.
 
-#### 5 Questions Carousel Concept
+**Winning-profile traits hit (9 of 10):** decoder shape · dollar-comparison adjacent · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Sticky Note Dashboard) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five disclosures your PBM owes you every year. Most plan sponsors receive only one of them.
 
-**Setting:** A clipboard with a printed form and hand-ticked checkboxes next to each question.
+I review approximately 100 PBM contracts a year at PBS. The disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five disclosures to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A wooden clipboard holding a crisp white form page rests on a light gray surface. A black ballpoint pen lies diagonally across the bottom-right corner. The form is titled at the top in clean serif type and lists five printed questions, each with an empty checkbox to the left. Four of the five checkboxes have been ticked by hand with a black ballpoint check mark; one remains empty. No logos, no brand marks, no people, no text outside the form.
+1. **Rebate-Flow Attestation.** A signed annual statement that the PBM has applied the contract's rebate pass-through methodology accurately. Names the methodology, the period, the dollar magnitude, and who signed it.
+
+2. **Conflict-of-Interest Disclosure.** Annual disclosure of relationships between the PBM and downstream entities (specialty pharmacies, GPOs, rebate aggregators, owned-pharmacy chains) that could affect formulary or routing decisions.
+
+3. **Data-Partnership Disclosure.** Disclosure of how member-level claims data is shared with third parties (manufacturers, data brokers, research firms), under what terms, and for what consideration.
+
+4. **Audit-Results Delivery.** When the PBM is audited (by a regulator, a CMS process, or an internal review), the contract typically requires delivery of relevant findings. The trigger is rarely flagged proactively.
+
+5. **Material-Change Notice.** Written notice when the PBM changes ownership, key personnel, or core operational components in a way that affects the plan's contract performance.
+
+The disclosure clause is the contract. The actual delivery is the audit. The gap is what you bring to renewal.
+
+Save this for your next quarterly review.
+
+#PBMContracts #PBMTransparency #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the disclosure clause (build the obligation list, catalog what was actually received, send written requests for the gaps). Plus a paste-ready PBM Disclosure Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Sticky Note Dashboard Image Generation Prompt
+
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight, natural drop shadows. Six yellow sticky notes are pinned to the corkboard with brass pushpins: one larger title note at the top, then five content notes stacked below in two columns. Each note is slightly angled (1-3 degrees off-axis), with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
 >
-> Printed at the top of the form, larger serif type, underlined: 5 Questions About Clinical Program ROI
+> The title sticky note at the top, slightly larger, reads in larger handwriting, double-underlined: "5 Disclosures Your PBM Owes You"
 >
-> Below the title, the five printed questions with checkboxes, in order:
+> Below the title, five content sticky notes, each showing a disclosure name in black Sharpie at the top followed by a short red-pen audit annotation:
 >
-> [x] 1. What is the savings methodology for each clinical program?
-> [x] 2. Can we see a sample calculation, claim-by-claim, for each program?
-> [x] 3. Which savings are counted in multiple programs?
-> [x] 4. What is the therapy abandonment rate for members denied or stepped?
-> [ ] 5. How do you verify the counterfactual, what would have happened without the program?
+> Note 1 (top-left): "Rebate-Flow Attestation" → red pen: "Annual signed statement. Often missing."
+> Note 2 (top-right): "Conflict-of-Interest Disclosure" → red pen: "Affiliated specialty pharmacy, rebate aggregator, GPO."
+> Note 3 (middle-left): "Data-Partnership Disclosure" → red pen: "Who gets your member-level data?"
+> Note 4 (middle-right): "Audit-Results Delivery" → red pen: "Regulatory or internal — owed when triggered."
+> Note 5 (bottom-center): "Material-Change Notice" → red pen: "Ownership, personnel, operational changes."
 >
-> Style: realistic document photography, soft natural daylight, subtle shadow under the clipboard and pen, faint paper texture. Colors: warm wood clipboard clip, bright white form page, crisp black serif printed type, black ballpoint check marks, light gray surface.
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink: "PBS reviews ~100 PBM contracts a year. Most plan sponsors receive only one of these without asking."
+>
+> A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
+>
+> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows under each sticky note. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style with marker pressure variation). Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink for primary text, red Sharpie ink for audit annotations.
 
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Clipboard and form photo described above. Title overlay: "5 Questions About Clinical Program ROI." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What is the savings methodology for each clinical program?" Why it matters: "methodology" is where assumptions live. Avoided cost assumptions drive most of the reported savings and rarely hold up to audit.
-- Slide 3 (Q2): "Can we see a sample calculation, claim-by-claim, for each program?" Why it matters: topline savings are a summary. A sample calculation is the evidence. Without it, the number is a claim, not a measurement.
-- Slide 4 (Q3): "Which savings are counted in multiple programs?" Why it matters: double-counting is common across PA, step therapy, and DUR. One intervention gets credited to multiple programs, inflating the total.
-- Slide 5 (Q4): "What is the therapy abandonment rate for members denied or stepped?" Why it matters: savings from members giving up care are not savings. They are deferred costs with clinical consequences.
-- Slide 6 (Q5): "How do you verify the counterfactual, what would have happened without the program?" Why it matters: a program is only saving money if costs would have been higher without it. Most PBM methodologies never answer this question.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One verified savings number. Audit before you trust." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any question text, overlay the correct text in a clean serif font.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility at mobile size
+3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font
+4. Verify the title "5 Disclosures Your PBM Owes You" reads cleanly in feed thumbnail
+5. Verify the five disclosure names render distinctly across notes
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+7. Export as PNG at 1080 x 1350
 
 ---
 

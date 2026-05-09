@@ -146,30 +146,49 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Reauthorization Protocols: The Specialty Cost Lever Nobody Discusses
+## Auditing Your Mid-Year Performance Guarantees
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 27, 2026 at 7:30 AM EST
-**Length:** ~450 words (~2 min read)
-**Pillar:** Clinical Pharmacy Perspectives
+**Length:** ~580 words (~3 min read)
+**Pillar:** PBM Contract Insights
+**Type:** Field Note
+**Pairs with:** Thursday LinkedIn "5 Mid-Year Performance Guarantee Terms Decoded" Ledger Annotated messy infographic. LinkedIn post decodes the performance-guarantee vocabulary; Field Note is the operational follow-on for running the mid-year audit against the contract's named guarantees.
+**Why this pairing (not the displaced "Reauthorization Protocols" draft):** Architecture B triple-distinct topic rule — Monday W34 is Specialty Drug Management; Thursday is Mid-Year Performance Guarantee Audit (a contract-mechanics audit, not specialty-specific). Adjacent within PBM Contract Insights pillar, different subject matter. Original "Reauthorization Protocols" Field Note parked as FN-17.
 
 ---
 
 ### Field Note Body
 
-A few years back we reviewed a client's specialty claims and found members who had been on the same biologic therapy for over three years without a single reauthorization review. The original prior authorization was approved, the refills continued, and nobody asked whether the therapy was still clinically appropriate.
+This morning's LinkedIn post decoded the five terms PBMs use to define mid-year performance guarantees: GER guarantee, BER (brand effective rate) guarantee, dispensing-fee guarantee, rebate per-claim minimum, and performance-remediation language. Today is the operational follow-on. You have the vocabulary. Here is how to actually run the mid-year audit against the contract's named guarantees.
 
-Some of those members may still need the therapy. But some may not. Clinical circumstances change. Conditions improve. Alternative therapies become available. Without periodic review, the authorization runs on autopilot.
+We run mid-year guarantee audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
-**What reauthorization does:** At defined intervals (typically 6-12 months), the PBM or plan requires the prescriber to confirm that the specialty therapy remains clinically appropriate for the member. This is not a new PA. It is a review of the existing authorization against current clinical status.
+**Pass one: pull each guarantee's actual mid-year performance**
 
-**Why it matters financially:** Specialty therapies cost tens of thousands of dollars annually. If even a small percentage of members on long-term specialty therapy no longer meet clinical criteria, the savings from identifying and transitioning those members are meaningful.
+Open your contract. List every named performance guarantee with its threshold (GER ≥ X%, BER ≥ Y%, dispensing fee ≤ $Z, rebate per claim ≥ $W, etc.).
 
-**What to look for in your contract:** Does your PBM contract require periodic reauthorization for specialty therapies? If so, at what interval? If not, the PBM has no obligation to review ongoing authorizations. Adding a reauthorization requirement at renewal is straightforward and should be part of your specialty management strategy.
+Open your H1 / mid-year claims data. For each guarantee, calculate the actual mid-year performance using the same formula the contract specifies. Document the gap (or surplus) for each.
 
-**The clinical balance:** Reauthorization must be designed to prevent unnecessary continuation without creating access barriers for members who still need therapy. The review criteria should be evidence-based, the process should be efficient for prescribers, and the timeline should allow for continuity of therapy during the review.
+**Pass two: classify gaps by remediation type**
 
-Your broker can help you benchmark reauthorization practices across PBMs and add the appropriate contract language at renewal.
+For each guarantee where actual performance is below threshold, find the corresponding remediation clause. Classify by remediation type: cash true-up at year-end, credit against next-year admin fees, "PBM shall remediate" undefined, or no remediation specified at all.
+
+The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most contracts name guarantees but specify remediation only for some of them. The unguarded guarantees are where the PBM keeps the difference at year-end without consequence. The remediation classification is the audit's most important output.
+
+**Pass three: deliver the gap document to the PBM in writing, before year-end**
+
+For each gap with named remediation, send a written notification to the PBM citing the guarantee, the actual performance, the gap, and the remediation clause. Do this in mid-year, not at year-end.
+
+Mid-year notification establishes the audit on the calendar before the PBM has time to optimize Q3-Q4 performance to bury the gap. Year-end notification often arrives after the PBM has already self-corrected on paper.
+
+**What to do this quarter**
+
+> **Pull every named performance guarantee from the contract.** Calculate actual mid-year performance.
+> **Classify gaps by remediation type.** Identify guarantees with no remediation language — those are renewal-leverage items.
+> **Send the written gap notification to the PBM mid-year, not at year-end.**
+
+The decoded vocabulary tells you the guarantees. The audit measures actual performance. The mid-year notification is the timing lever that makes remediation real.
 
 ---
 
@@ -177,12 +196,12 @@ Your broker can help you benchmark reauthorization practices across PBMs and add
 
 ### Field Note Header Image Prompt
 
-**Dimensions:** 1200 x 600 px
-**Template:** Data Highlight
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized calendar-with-arrow icon in deep teal-blue (#015880) outline, roughly 300px wide, with "REAUTH" rendered in deep teal-blue bold sans-serif text across the calendar's top header. A circular refresh arrow in Accent Blue (#A7E0FA) wraps around the calendar implying periodic review in motion. Three month-boxes on the calendar are highlighted in Accent Blue showing the reauth cycle. Four small review-trigger hash marks in Accent Blue run along the calendar's bottom edge. Below the calendar, two-tone centered headline: "Reauthorization Protocols" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "The Specialty Lever Nobody Discusses" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design ledger spread in Primary Blue (#015880) outline, roughly 480px wide, with "MID-YEAR GUARANTEE LEDGER" rendered in Plex Mono Medium uppercase across the top banner. The ledger shows five horizontal line items, each with a guarantee name on the left and two columns on the right: "THRESHOLD" and "ACTUAL." Three of the five rows show ACTUAL above THRESHOLD (small Accent Blue check); two rows show ACTUAL below THRESHOLD (small red minus sign). A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the two below-threshold rows. Three numbered tick marks in Accent Blue (#A7E0FA) below the ledger, suggesting three audit passes. Below the composition, a two-tone centered headline: "Five Guarantees." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Two Below Threshold." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. Mid-year notification. Year-end remediation." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -402,60 +421,69 @@ Start with one question: which of the eight levers has the largest gap on your p
 
 ---
 
-### Thursday Evergreen Rotation (Slot C) - 5 Questions About Your Audit Rights
+### Thursday Excellence Slot - 5 Mid-Year Performance Guarantee Terms Decoded — Ledger Annotated Messy Infographic
 
-- **Slot:** C
-- **Format:** Carousel (6 slides)
-- **Pillar:** Transparency & Industry Education
-- **Topic:** 5 Questions About Your Audit Rights
-- **Hook:** "Audit rights sound like protection. Read your contract. Most audit clauses are narrow enough that the PBM never has to worry about what you find."
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Your Audit Rights" magnifier-on-document carousel. Displaced — overlapped with W23 Library 03 Audit Rights Contract Comparison carousel (cross-week duplication). Replaced with 5 Mid-Year Performance Guarantee Terms Decoded that pairs with W34 Field Note. Original Slot C audit-rights 5-Questions carousel content preserved in `evergreen_visual_backlog.md` as concept #34.
 
-**Content outline (5 confrontational questions, each with one-line why-it-matters):**
-- Slide 1 (Hook): "5 Questions About Your Audit Rights." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What is the exact scope of our audit rights in the contract?" Why it matters: "audit rights" is a category. The scope is the substance. Narrow scopes protect PBM retained revenue.
-- Slide 3 (Q2): "Who chooses the auditor, and who pays for the audit?" Why it matters: if the PBM must approve the auditor, your audit is not independent. If you pay for the audit, the economics discourage you from ever conducting one.
-- Slide 4 (Q3): "How long do we have to audit after a claim is processed?" Why it matters: short look-back windows hide margin retention behind the statute of limitations the contract creates.
-- Slide 5 (Q4): "What is the remedy if an audit finds overcharges?" Why it matters: a right without a remedy is a formality. Remedy clauses determine whether findings become refunds.
-- Slide 6 (Q5): "Can we audit rebate aggregator and affiliate transactions?" Why it matters: this is where retained dollars live. If affiliates are excluded from audit scope, the most important transactions are off-limits.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract clause. Verify before you need it." team@rxbs.org | Benefit Blind Spots.
+**Format:** Single messy infographic, Ledger Annotated aesthetic (open accountant's ledger with handwritten red-pen audit notes on five guarantee line items). 1080 x 1350 px.
+**Pillar:** PBM Contract Insights
+**Field Note pairing:** Same-day Substack Field Note "Auditing Your Mid-Year Performance Guarantees."
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Mid-Year Performance Guarantee Audit Worksheet" — `templates/documents/week_34_thursday_midyear_guarantee_audit.html/.pdf`.
 
-#### 5 Questions Carousel Concept
+**Winning-profile traits hit (10 of 10):** decoder shape · dollar-comparison shape (threshold vs. actual) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Ledger Annotated) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+#### Post Copy
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+Five contract guarantees you should already have audited at mid-year. Most plan sponsors do not run the audit until year-end, when the PBM has had two more quarters to optimize the numbers.
 
-**Setting:** A magnifying glass resting on a printed document with questions highlighted in yellow.
+I review approximately 100 PBM contracts a year at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Five terms to know:
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed document page rests on a warm wood desk. A classic brass-and-glass magnifying glass rests on the document, its lens magnifying a portion of the text. The document shows five printed questions, each with a line of body copy highlighted in bright yellow highlighter stroke. A yellow highlighter pen lies diagonally at the bottom-right corner of the document. No logos, no brand marks, no people, no text outside the document.
+1. **Generic Effective Rate (GER) Guarantee.** Threshold for actual generic discount off AWP. Most-watched guarantee; rarely audited mid-year against the contract's named methodology.
+
+2. **Brand Effective Rate (BER) Guarantee.** Threshold for actual brand discount off AWP. Closely watched by the PBM's pricing team; rarely calculated independently by the plan sponsor.
+
+3. **Dispensing Fee Guarantee.** Threshold maximum for per-claim dispensing fees. Often inverted (actual ≤ threshold). Easy to miss when the threshold is loosely defined.
+
+4. **Rebate-Per-Claim Minimum.** Minimum rebate dollar per brand claim. The most concrete remediation trigger; needs the channel breakdown to audit accurately.
+
+5. **Performance-Remediation Language.** What happens when actual falls below threshold: cash true-up, credit, undefined, or absent. The remediation clause is what makes the guarantee real.
+
+Pulling the actual mid-year and writing the gap notification to the PBM is a half-day of work. Most plan sponsors do not do it. The ones who do negotiate different terms at renewal.
+
+Save this for your H1/H2 review.
+
+#PBMContracts #PerformanceGuarantees #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the named guarantees mid-year (calculate actuals, classify by remediation type, send written notification before year-end). Plus a paste-ready Mid-Year Performance Guarantee Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
+#### Ledger Annotated Image Generation Prompt
+
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open green-tinted accountant's ledger book rests on a dark wood desk under soft natural daylight. The visible double-page spread shows faint printed horizontal rules and vertical columns in light green tint. The header at the top of the left page reads, in printed black serif type: "MID-YEAR PERFORMANCE GUARANTEE LEDGER · H1." A fountain pen with a dark barrel rests across the upper-right corner of the right page.
 >
-> Printed at the top of the document, larger type, underlined: 5 Questions About Your Audit Rights
+> Five line items printed down the left page in Plex Mono Regular black, each with the guarantee name on the left and two columns on the right ("THRESHOLD" and "H1 ACTUAL"):
 >
-> Below the title, the five printed questions in order, each with its key phrase highlighted yellow:
+> 1. **Generic Effective Rate (GER)** ........... 85.0% / 82.7%
+> 2. **Brand Effective Rate (BER)** ............. 18.5% / 17.9%
+> 3. **Dispensing Fee (max)** ................... $1.50 / $1.62
+> 4. **Rebate per Brand Claim (min)** ........... $X / $Y
+> 5. **Performance Remediation** ................ [No language present]
 >
-> 1. What is the exact scope of our audit rights in the contract?
-> 2. Who chooses the auditor, and who pays for the audit?
-> 3. How long do we have to audit after a claim is processed?
-> 4. What is the remedy if an audit finds overcharges?
-> 5. Can we audit rebate aggregator and affiliate transactions?
+> Five handwritten red ballpoint annotations in the right-page margin, each with a short curved arrow:
+> - Pointing at line 1, red note: "Audit the methodology, not the headline"
+> - Pointing at line 2, red note: "Mid-year gap = remediation owed"
+> - Pointing at line 3, red note: "Inverse threshold — easy to miss"
+> - Pointing at line 4, red note: "Channel breakdown required"
+> - Pointing at line 5, red note: "Undefined = no remedy"
 >
-> Style: realistic photograph, soft natural daylight, slight lens distortion on the text under the magnifier, warm reflections on the brass rim, faint paper texture. Colors: off-white document page with crisp black serif type, bright yellow highlighter strokes, brass magnifier rim, clear glass lens, warm wood desk.
-
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Magnifier on document photo described above. Title overlay: "5 Questions About Your Audit Rights." Accent Blue swipe indicator.
-- Slide 2 (Q1): "What is the exact scope of our audit rights in the contract?" Why it matters: "audit rights" is a category. The scope is the substance. Narrow scopes protect PBM retained revenue.
-- Slide 3 (Q2): "Who chooses the auditor, and who pays for the audit?" Why it matters: if the PBM must approve the auditor, your audit is not independent. If you pay for the audit, the economics discourage you from ever conducting one.
-- Slide 4 (Q3): "How long do we have to audit after a claim is processed?" Why it matters: short look-back windows hide margin retention behind the statute of limitations the contract creates.
-- Slide 5 (Q4): "What is the remedy if an audit finds overcharges?" Why it matters: a right without a remedy is a formality. Remedy clauses determine whether findings become refunds.
-- Slide 6 (Q5): "Can we audit rebate aggregator and affiliate transactions?" Why it matters: this is where retained dollars live. If affiliates are excluded from audit scope, the most important transactions are off-limits.
-- Slide 7 (CTA): Primary Blue background. White: "Five questions. One contract clause. Verify before you need it." team@rxbs.org.
-
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any question text, overlay the correct text in a clean serif font.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+> Top of right page, handwritten black marker, double-underlined: "Five guarantees. Two below threshold."
+> Below in red pen: "Mid-year audit beats year-end notification."
+> Bottom, smaller red pen: "PBS reviews ~100 PBM contracts a year. Mid-year is when remediation works."
+>
+> Black ballpoint pen at top-right corner. Style: realistic ledger paper texture, soft natural daylight. Colors: pale green ledger paper, light green rules, black printed Plex Mono, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
 
 ---
 
