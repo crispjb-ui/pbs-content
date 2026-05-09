@@ -29,6 +29,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-11 | Mail Order Economics: When It Saves and When It Does Not | Cost Containment | W28 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Network Design deep dive. Field Note retargeted to GER Audit pairing with W28 Thursday 5 GER Terms Decoded) | available |
 | FN-12 | Three Rebate Report Red Flags That Signal Margin Retention | PBM Contract Insights | W29 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Rebate Economics deep dive. Field Note retargeted to Pharmacy Network Configuration audit pairing with W29 Thursday 5 Network Contract Terms Decoded) | available |
 | FN-13 | White Bagging vs. Brown Bagging: The Practical Differences | Cost Containment | W30 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Site-of-Care Optimization deep dive. Field Note retargeted to Coordination of Benefits audit pairing with W30 Thursday 5 COB Terms Decoded Three-EOB Photoreal) | available |
+| FN-14 | Normalizing PBM Pricing Proposals: Apples to Apples | PBM Contract Insights | W31 (displaced May 9, 2026 under Architecture B — Field Note matched Monday PBM RFP Process deep dive. Field Note retargeted to PBM Disclosure audit pairing with W31 Thursday 5 PBM Disclosure Terms Decoded Sticky Note Dashboard) | available |
 
 ---
 
