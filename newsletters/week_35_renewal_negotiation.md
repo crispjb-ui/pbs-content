@@ -428,6 +428,28 @@ The PBM negotiates from their data advantage. You negotiate from preparation. Th
 - "Early termination fee" - PBM means: fee due if the plan terminates before a defined date. Read it as: an exit cost that can exceed projected savings from switching, neutralizing your leverage before the conversation starts.
 - "Data return obligation" - PBM means: the PBM's duty to return plan data on termination. Read it as: the provision that determines whether your next PBM can actually use your history. Without strong language, migration becomes expensive and slow.
 
+#### Post Copy
+
+Five contract terms decide whether you can actually use your termination clause. Most plan sponsors cannot, and most PBMs know it.
+
+I review approximately 100 PBM contracts a year at PBS. Most termination-clause negotiations never end in termination. But a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
+
+1. **Termination for convenience.** Often exists only for the PBM, or with notice periods long enough to neutralize plan-sponsor leverage. 90 days vs. 180 is the negotiation.
+2. **Termination for cause.** Usable only if "cause" is broadly defined. Vague "material breach" language favors the PBM.
+3. **Runoff period.** The window after termination during which your plan is captive to outgoing PBM pricing. Long runoff = no competitive pressure.
+4. **Early termination fee.** Exit cost that can exceed projected switching savings. Caps and step-downs matter.
+5. **Data return obligation.** Determines whether your next PBM can use your claims history. Without strong language, migration is expensive and slow.
+
+The termination clause is the leverage everywhere else. Read it before you renew.
+
+Save this for your next renewal redline.
+
+#PBMContracts #PBMRenewal #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the termination clauses before renewal (read the convenience and cause provisions, audit the runoff period and exit fees, verify the data return obligation). Plus a paste-ready Termination Clause Audit Worksheet with the redline priorities for your next renewal. [SUBSTACK FIELD NOTE URL]
+
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.

@@ -370,6 +370,22 @@ Your broker or benefits counsel should know which version your contract uses. If
 - Slide 5 (Punchline): "Same ten words. Three definitions. Three financial outcomes. The contract is only as strong as the definition written underneath it." Accent Blue underline under "definition."
 - Slide 6 (CTA): Primary Blue background. White: "Definitions are the contract. Read them twice." team@rxbs.org | Benefit Blind Spots | PBS logo.
 
+#### Post Copy
+
+Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did.
+
+I review approximately 100 PBM contracts a year at PBS. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
+
+The pattern: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The current contract reads cleanly. The trajectory across versions does not.
+
+Save this for your next contract review.
+
+#PBMContracts #ContractLanguage #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on their own contract history (pull every prior version, compare high-impact clauses side by side, estimate the dollar impact of each definition change). Plus a paste-ready Definition Variance Audit Worksheet you can hand to your broker before the next renewal. [SUBSTACK FIELD NOTE URL]
+
 #### Same/Same/Different Carousel Concept
 
 **Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.

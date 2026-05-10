@@ -405,6 +405,28 @@ One request changes the conversation: ask your PBM for the specific savings meth
 - "Conflict of interest" - Statute means: a situation where the fiduciary's duty conflicts with another interest. Read it as: the PBM's ownership of pharmacies, rebate aggregators, and GPOs that create structural conflicts in every claim.
 - "Co-fiduciary liability" - Statute means: liability for another fiduciary's breach you knew about. Read it as: your exposure for PBM conduct you saw, suspected, or could have discovered through reasonable inquiry.
 
+#### Post Copy
+
+ERISA uses five words that sound procedural. They are not. They define your personal exposure as a plan fiduciary.
+
+I review approximately 100 PBM contracts a year at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
+
+1. **Fiduciary.** You, if you influence pharmacy benefit decisions. Title not required.
+2. **Prudent process.** Not "did you get the best deal" but "can you show how you decided."
+3. **Plan assets.** Rebates and manufacturer payments attributable to your plan, whether they reach your plan or not.
+4. **Conflict of interest.** PBM-owned pharmacies, rebate aggregators, GPOs. Structural, every claim.
+5. **Co-fiduciary liability.** Your exposure for PBM conduct you saw or could have discovered through reasonable inquiry.
+
+The standard is documented process, not optimal outcome. The audit produces the documentation.
+
+Save this for your next benefits committee meeting.
+
+#PBMContracts #FiduciaryDuty #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the past 12 months of pharmacy benefit decisions (decision log build, prudent-process test, conflict-of-interest catalog). Plus a paste-ready Fiduciary Compliance Audit Worksheet you can hand to your broker or counsel. [SUBSTACK FIELD NOTE URL]
+
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.

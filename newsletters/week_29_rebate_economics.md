@@ -486,6 +486,26 @@ Full rebate contract analysis in this week's Pharmacy Benefits Briefing. For reb
 - "Mandatory mail" - PBM means: requirement that members use mail-order for maintenance drugs. Read it as: a volume-steering mechanism that benefits the PBM's owned mail-order pharmacy, whether or not it benefits your plan.
 - "Network exclusion list" - PBM means: pharmacies removed from the network. Read it as: a list that moves revenue. The pharmacies excluded are usually the ones that do not accept the PBM's reimbursement terms.
 
+#### Post Copy
+
+Five network contract terms decide where your members fill and what your plan pays. The PBM writes the definitions; your contract should redefine them.
+
+I review approximately 100 PBM contracts a year at PBS. The network membership clause says "any in-network pharmacy"; the routing pattern rarely matches. The leverage is in the four other terms.
+
+1. **Preferred network.** A subset the PBM shapes by reimbursement terms, not member access.
+2. **Broad network.** The highest-cost configuration with the least PBM leverage.
+3. **Network guarantee.** Applies only to specified channels and categories. Carve-outs are common.
+4. **Mandatory mail.** A volume-steering mechanism that benefits the PBM-owned pharmacy.
+5. **Network exclusion list.** Moves revenue. Excluded pharmacies are usually the ones that rejected the PBM's terms.
+
+Save this for your next quarterly review.
+
+#PBMContracts #PharmacyNetwork #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on actual network configuration vs. contract design (fill distribution by channel, network exclusion log review, guarantee performance vs. minimum). Plus a paste-ready Pharmacy Network Configuration Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.
