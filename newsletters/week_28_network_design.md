@@ -294,7 +294,7 @@ Each category has a different intervention. The intervention only works if the p
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on network design walks through how each channel (retail, mail, specialty) produces different cost outcomes for the same drug, plus the audit framework for surfacing where your specialty dollars are actually going. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 

@@ -332,7 +332,7 @@ The plans that walk into 2026 with these five decisions made are negotiating fro
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on site-of-care strategy: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on site-of-care optimization is the deeper read on Decision 3 above (where high-cost specialty therapies are administered). The 4-channel cost comparison and the routing audit framework are in the article. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Carousel Slide-by-Slide Spec
 

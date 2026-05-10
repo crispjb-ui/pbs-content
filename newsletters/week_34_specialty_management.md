@@ -322,7 +322,7 @@ Programs that often do not earn their cost as reported:
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on specialty management: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on specialty drug management walks through the 8 management levers (utilization, routing, formulary, authorization, reporting) that decide whether each program earns its keep. The 120-point assessment is in the article. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 

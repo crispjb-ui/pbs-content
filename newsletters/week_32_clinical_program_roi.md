@@ -290,7 +290,7 @@ Every one of these is producible from data the PBM already has. None of them app
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on clinical program ROI: [LINKEDIN NEWSLETTER URL]
+The reporting clauses that determine what is required to be in your quarterly report (and what most contracts leave optional) live in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
 #### Image Layout Spec
 

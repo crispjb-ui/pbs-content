@@ -355,7 +355,7 @@ Each lever has a window. The window closes on its own schedule, not the renewal 
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on PBM RFP strategy: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on the PBM RFP process is the operational follow-on: the 4-6 month timeline, the scoring methodology framework, and the contract negotiation phase that decides which lever above lands first. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 

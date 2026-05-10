@@ -355,7 +355,7 @@ The right costs nothing. Using it requires knowing it exists, knowing the window
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on rebate economics: [LINKEDIN NEWSLETTER URL]
+The full protective language for the audit-rights clauses referenced above (auditor selection, audit scope, look-back window, remedy, affiliate transactions) lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
 #### Image Layout Spec
 

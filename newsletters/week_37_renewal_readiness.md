@@ -520,7 +520,7 @@ Every phrase is technically accurate and practically meaningless. Replace every 
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on renewal readiness: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on renewal readiness is the operational follow-on: the 12-provision scorecard for evaluating PBM proposals against your plan's actual needs, not the PBM's "industry standard" framing. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 
