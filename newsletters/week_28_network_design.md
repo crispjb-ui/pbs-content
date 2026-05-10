@@ -294,7 +294,7 @@ Each category has a different intervention. The intervention only works if the p
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on network design walks through how each channel (retail, mail, specialty) produces different cost outcomes for the same drug, plus the audit framework for surfacing where your specialty dollars are actually going. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 
@@ -392,6 +392,11 @@ One data request: net cost per script by dispensing channel, for your top 10 dru
 
 "One data request reveals the story: net cost per script, by channel, for your top 10 drugs. Ask for it."
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on pharmacy network design is the operational follow-on: the network channel comparison framework + audit-rights checklist. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 103 - Thursday 10:00 AM
@@ -415,10 +420,9 @@ Here is the channel-by-channel breakdown.
 
 #NetworkDesign #SelfFundedEmployers #EmployeeBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Full network cost comparison model in this week's Pharmacy Benefits Briefing. For when mail order actually saves (and when it does not), see this week's field note. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Whiteboard Carousel Slides (Template A)
 
 **Design:** Off-white (#F5F5F0) grid background. Caveat font. Hand-drawn elements.
@@ -576,6 +580,11 @@ The disconnect is not a math error. It is a reporting choice. The PBM shows you 
 Rebate economics is the most manipulated element of PBM contracts. Not because the numbers are fabricated. Because the numbers are selected. What gets highlighted, what gets buried, and what never gets reported at all.
 
 Next week: rebate economics decoded. Eight contract provisions compared: weak vs. strong language.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Rebate Economics in your inbox: benefitblindspots.substack.com
 
 ---
 

@@ -331,6 +331,11 @@ Ten provisions determine whether your contract protects your plan: pricing metho
 
 Your broker or benefits counsel should know which version your contract uses. If they do not, that is the first question to ask before renewal.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on contract red flags is the operational follow-on: the provision-by-provision comparison with weak vs. strong contract language. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 135 - Thursday 10:00 AM
@@ -370,6 +375,21 @@ Your broker or benefits counsel should know which version your contract uses. If
 - Slide 5 (Punchline): "Same ten words. Three definitions. Three financial outcomes. The contract is only as strong as the definition written underneath it." Accent Blue underline under "definition."
 - Slide 6 (CTA): Primary Blue background. White: "Definitions are the contract. Read them twice." team@rxbs.org | Benefit Blind Spots | PBS logo.
 
+#### Post Copy
+
+Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did.
+
+I review approximately 100 PBM contracts a year at PBS. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
+
+The pattern: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The current contract reads cleanly. The trajectory across versions does not.
+
+Save this for your next contract review.
+
+#PBMContracts #ContractLanguage #SelfFundedEmployers
+
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Same/Same/Different Carousel Concept
 
 **Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
@@ -429,6 +449,11 @@ Over 13 weeks, we covered the full arc: data benchmarking, formulary evaluation,
 One question remains: are you ready?
 
 Next week: a 15-factor renewal readiness scorecard. Five categories. 75 points. The assessment that tells you whether to proceed with confidence or focus on gaps.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Renewal Readiness in your inbox: benefitblindspots.substack.com
 
 ---
 

@@ -607,6 +607,11 @@ June is not early. June is late.
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on H1 review and H2 preview is the operational follow-on: the H1 benchmark dashboard with 5 metrics and the renewal readiness scorecard. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 87 - Thursday 8:30 AM
@@ -632,10 +637,9 @@ Seven metrics. Seven benchmarks. The framework for every renewal conversation th
 
 #MidYearReview #DrugPricing #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The H1/H2 briefing covers the full assessment framework and renewal positioning strategy. For the five specific numbers that determine your renewal leverage (GER, PMPM trend, specialty trajectory, rebate productivity, high-cost claimant count), this week's field note breaks down each metric and what "good" looks like. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### One Number Carousel Slides (Template C)
 
 **Design:** Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold 96-120pt for stat. Plex Sans Regular 20-24pt for context. Accent Blue (#A7E0FA) accent elements.
@@ -780,6 +784,11 @@ Q3 on Benefit Blind Spots is built around one arc: renewal preparation. Formular
 Thirteen weeks. Every tool you need before you sit across from your PBM.
 
 The employers who prepare through the summer negotiate different outcomes in the fall. Every year, I watch the same pattern. Next week: the 90-day renewal countdown begins.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Renewal Countdown in your inbox: benefitblindspots.substack.com
 
 ---
 

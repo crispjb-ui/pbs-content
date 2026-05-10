@@ -516,6 +516,11 @@ The score does not make the decision. It structures the decision so you are eval
 
 "Stop debating. Score it."
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is the operational follow-on: the 10-factor PBM evaluation scorecard with stay-or-switch thresholds. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 99 - Thursday 10:00 AM
@@ -541,10 +546,9 @@ The decision should be data, not frustration. Score your PBM relationship before
 
 #PBMRFP #SelfFundedEmployers #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full PBM evaluation scorecard with weighted scoring criteria is in this week's Pharmacy Benefits Briefing. For what a PBM transition timeline actually looks like, this week's field note breaks it down. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Infographic Concept
 
 **Title:** PBM Evaluation Scorecard
@@ -689,6 +693,11 @@ Same drug. Retail pharmacy: one price. Mail order: different price. Specialty ph
 The channel where your member fills the prescription can change the cost more than the drug itself. Most employers have never compared across channels because the data is not presented that way. The PBM knows the comparison. You do not.
 
 Next week: pharmacy network design, and the five-channel cost model that reveals where the money goes.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Pharmacy Network Design in your inbox: benefitblindspots.substack.com
 
 ---
 

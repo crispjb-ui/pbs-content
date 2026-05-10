@@ -355,7 +355,7 @@ Each lever has a window. The window closes on its own schedule, not the renewal 
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on PBM RFP strategy: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on the PBM RFP process is the operational follow-on: the 4-6 month timeline, the scoring methodology framework, and the contract negotiation phase that decides which lever above lands first. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 
@@ -425,6 +425,11 @@ I have evaluated PBM proposals where three responses looked competitive on paper
 
 The fix is not a longer RFP. It is 30 specific follow-up questions with 0-3 scoring on each answer, where a vague response costs points. Your broker can add that layer. The best ones already do.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on the PBM RFP process is the operational follow-on: the 4-6 month RFP timeline and the proposal-normalization framework. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 115 - Thursday 10:00 AM
@@ -493,10 +498,9 @@ Save this for your next quarterly review.
 
 #PBMContracts #PBMTransparency #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the disclosure clause (build the obligation list, catalog what was actually received, send written requests for the gaps). Plus a paste-ready PBM Disclosure Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Sticky Note Dashboard Image Generation Prompt
 
 > A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight, natural drop shadows. Six yellow sticky notes are pinned to the corkboard with brass pushpins: one larger title note at the top, then five content notes stacked below in two columns. Each note is slightly angled (1-3 degrees off-axis), with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
@@ -554,6 +558,11 @@ Prior authorization. Step therapy. Drug utilization review. Medication therapy m
 The PBM counts avoided costs that were never going to occur. They attribute formulary-driven savings to clinical programs that had nothing to do with the outcome.
 
 Next week: clinical program ROI, and the scorecard that separates real savings from reported savings.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Clinical Program ROI in your inbox: benefitblindspots.substack.com
 
 ---
 

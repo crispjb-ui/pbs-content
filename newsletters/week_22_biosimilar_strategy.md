@@ -419,6 +419,11 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 
 #Biosimilars #SelfFundedEmployers #EmployeeBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on biosimilar strategy is the operational follow-on: the 6-factor biosimilar readiness assessment + scoring framework. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 79 - Thursday 8:30 AM
@@ -565,10 +570,9 @@ Six factors. One assessment. The savings opportunity is real, but only if your p
 
 #Biosimilars #PlanSponsors #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The biosimilar strategy briefing covers why PBM rebate economics may not align with your plan's cost objectives. For three specific contract provisions that create biosimilar accountability, this week's field note breaks it down. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Infographic Concept
 
 **Title:** Biosimilar Readiness Checklist
@@ -729,6 +733,11 @@ Specialty spend shifting. Generic rates declining. High-cost claimants clusterin
 These are not random fluctuations. They are signals. And mid-year is the window where you can still act on them.
 
 Next week: five claims data patterns that signal trouble before renewal. The smoke signals your data is sending right now.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Mid-Year Claims Red Flags in your inbox: benefitblindspots.substack.com
 
 ---
 

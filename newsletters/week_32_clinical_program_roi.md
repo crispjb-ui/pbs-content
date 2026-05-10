@@ -290,7 +290,7 @@ Every one of these is producible from data the PBM already has. None of them app
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on clinical program ROI: [LINKEDIN NEWSLETTER URL]
+The reporting clauses that determine what is required to be in your quarterly report (and what most contracts leave optional) live in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
 #### Image Layout Spec
 
@@ -364,6 +364,11 @@ But the gap between reported savings and verified savings is consistent across a
 
 One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If the PBM cannot produce it, the number is a marketing metric, not a financial metric.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on clinical program ROI is the operational follow-on: the savings-methodology audit framework with the one request to send your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 119 - Thursday 10:00 AM
@@ -405,6 +410,27 @@ One request changes the conversation: ask your PBM for the specific savings meth
 - "Conflict of interest" - Statute means: a situation where the fiduciary's duty conflicts with another interest. Read it as: the PBM's ownership of pharmacies, rebate aggregators, and GPOs that create structural conflicts in every claim.
 - "Co-fiduciary liability" - Statute means: liability for another fiduciary's breach you knew about. Read it as: your exposure for PBM conduct you saw, suspected, or could have discovered through reasonable inquiry.
 
+#### Post Copy
+
+ERISA uses five words that sound procedural. They are not. They define your personal exposure as a plan fiduciary.
+
+I review approximately 100 PBM contracts a year at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
+
+1. **Fiduciary.** You, if you influence pharmacy benefit decisions. Title not required.
+2. **Prudent process.** Not "did you get the best deal" but "can you show how you decided."
+3. **Plan assets.** Rebates and manufacturer payments attributable to your plan, whether they reach your plan or not.
+4. **Conflict of interest.** PBM-owned pharmacies, rebate aggregators, GPOs. Structural, every claim.
+5. **Co-fiduciary liability.** Your exposure for PBM conduct you saw or could have discovered through reasonable inquiry.
+
+The standard is documented process, not optimal outcome. The audit produces the documentation.
+
+Save this for your next benefits committee meeting.
+
+#PBMContracts #FiduciaryDuty #SelfFundedEmployers
+
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.
@@ -466,6 +492,11 @@ The best pharmacy strategy fails without the right communication. Formulary chan
 The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging.
 
 Next week: communicating pharmacy changes, and five scenario-specific templates that prevent the backlash.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Member Communication in your inbox: benefitblindspots.substack.com
 
 ---
 

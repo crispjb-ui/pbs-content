@@ -355,7 +355,7 @@ The right costs nothing. Using it requires knowing it exists, knowing the window
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on rebate economics: [LINKEDIN NEWSLETTER URL]
+The full protective language for the audit-rights clauses referenced above (auditor selection, audit scope, look-back window, remedy, affiliate transactions) lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 
 #### Image Layout Spec
 
@@ -428,6 +428,11 @@ Each one either protects the plan or protects the PBM's margin. In the ~100 cont
 
 One question cuts through the complexity: what is our net drug cost, after all rebates, compared to what the market would offer?
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on rebate economics decoded is the operational follow-on: the 8-provision rebate contract framework + traditional vs. pass-through model comparison. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 107 - Thursday 10:00 AM
@@ -449,10 +454,9 @@ Pass-through. Traditional. Hybrid. The labels sound simple. The economics behind
 
 #Rebates #DrugPricing #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Full rebate contract analysis in this week's Pharmacy Benefits Briefing. For rebate report red flags, see this week's field note. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Whiteboard Carousel Slides (Template A)
 
 **Slide 1:** "3 Rebate Models. Where Does the Margin Live?" Hand-drawn dollar sign with three arrows. Swipe.
@@ -485,6 +489,26 @@ Full rebate contract analysis in this week's Pharmacy Benefits Briefing. For reb
 - "Network guarantee" - PBM means: contractual commitment on discount, fees, or performance for the network. Read it as: a commitment that applies only to the channels and drug categories specified, often with carve-outs.
 - "Mandatory mail" - PBM means: requirement that members use mail-order for maintenance drugs. Read it as: a volume-steering mechanism that benefits the PBM's owned mail-order pharmacy, whether or not it benefits your plan.
 - "Network exclusion list" - PBM means: pharmacies removed from the network. Read it as: a list that moves revenue. The pharmacies excluded are usually the ones that do not accept the PBM's reimbursement terms.
+
+#### Post Copy
+
+Five network contract terms decide where your members fill and what your plan pays. The PBM writes the definitions; your contract should redefine them.
+
+I review approximately 100 PBM contracts a year at PBS. The network membership clause says "any in-network pharmacy"; the routing pattern rarely matches. The leverage is in the four other terms.
+
+1. **Preferred network.** A subset the PBM shapes by reimbursement terms, not member access.
+2. **Broad network.** The highest-cost configuration with the least PBM leverage.
+3. **Network guarantee.** Applies only to specified channels and categories. Carve-outs are common.
+4. **Mandatory mail.** A volume-steering mechanism that benefits the PBM-owned pharmacy.
+5. **Network exclusion list.** Moves revenue. Excluded pharmacies are usually the ones that rejected the PBM's terms.
+
+Save this for your next quarterly review.
+
+#PBMContracts #PharmacyNetwork #SelfFundedEmployers
+
+#### First Comment
+
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on actual network configuration vs. contract design (fill distribution by channel, network exclusion log review, guarantee performance vs. minimum). Plus a paste-ready Pharmacy Network Configuration Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 
 #### Messy Infographic Concept
 
@@ -551,6 +575,11 @@ The setting where a drug gets administered can change the cost by multiples. Not
 Site-of-care is the cost lever that crosses the pharmacy and medical benefit boundary. Most employers have never evaluated it because it requires coordinating two benefits that rarely talk to each other.
 
 Next week: site-of-care optimization, and the decision tree by therapeutic category.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Site-of-Care Optimization in your inbox: benefitblindspots.substack.com
 
 ---
 

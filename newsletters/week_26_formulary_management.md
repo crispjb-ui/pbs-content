@@ -298,7 +298,13 @@ This week's Benefit Blind Spots includes a **formulary decision audit**: seven s
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 10:00 AM
-### "The Formulary Decision You Never Made" — Marked-Up Contract Page Decoder
+
+> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** Topic is on Monday's formulary-management family = anti-cannibalization violation per Tuesday ≠ Monday rule.
+> - Format (Marked-Up Contract Page messy infographic) is correct for Cycle-W4 Transparency slot. Keep the format; change the topic.
+> - **Recommended replacement topics (non-formulary, Transparency pillar):** 5 Plan-Sponsor Reporting Rights Decoded · Same Plan. Three PBM Quarterly Reports. Three Different Net Costs. (Same/Same/Different photoreal) · 5 Manufacturer-Direct Compensation Terms Decoded.
+> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
+
+### "The Formulary Decision You Never Made" — Marked-Up Contract Page Decoder [DRAFT — DO NOT SHIP, see RETARGET note above]
 
 **Template:** Marked-Up Contract Page messy infographic (template #16) from `claude_design_prompts.md`. Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W4 slot, second cycle)
@@ -437,6 +443,11 @@ One question changes the conversation: what is the net cost, our formulary vs. a
 
 #Formulary #DrugPricing #PharmacyBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on formulary management and PBM rebate economics is the operational follow-on: the formulary evaluation framework with the 4 questions to ask your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 95 - Thursday 10:00 AM
@@ -464,10 +475,9 @@ Swipe through the audit.
 
 #Formulary #PlanSponsors #EmployeeBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full formulary management analysis and field note on three questions your PBM should answer immediately. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Contract Markup Carousel Slides (Template B)
 
 **Design:** White background with faint gray horizontal rules (legal document style). Monospace body text (Courier Prime). Handwritten annotations in red (#C0392B) and Primary Blue (#015880). Yellow highlights (#FFF3CD). Small "CONTRACT REVIEW" rubber stamp in top-right, angled.
@@ -635,6 +645,11 @@ Most employers have never asked it. Not because the answer is hard to get. Becau
 Your PBM knows the market. Your broker knows the market. The question is whether you know it.
 
 Next week: when to stay, when to switch, and a 100-point scorecard that removes the guesswork.
+
+
+#### First Comment
+
+Get next Monday's deep dive on PBM Evaluation in your inbox: benefitblindspots.substack.com
 
 ---
 

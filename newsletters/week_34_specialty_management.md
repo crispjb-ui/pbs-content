@@ -322,7 +322,7 @@ Programs that often do not earn their cost as reported:
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on specialty management: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on specialty drug management walks through the 8 management levers (utilization, routing, formulary, authorization, reporting) that decide whether each program earns its keep. The 120-point assessment is in the article. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 
@@ -398,6 +398,11 @@ The gap compounds every quarter on every authorization that runs on autopilot an
 
 Start with one question: which of the eight levers has the largest gap on your plan?
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on specialty drug management is the operational follow-on: the 8-lever specialty management 120-point assessment. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 127 - Thursday 10:00 AM
@@ -456,10 +461,9 @@ Save this for your H1/H2 review.
 
 #PBMContracts #PerformanceGuarantees #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the named guarantees mid-year (calculate actuals, classify by remediation type, send written notification before year-end). Plus a paste-ready Mid-Year Performance Guarantee Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Ledger Annotated Image Generation Prompt
 
 > A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open green-tinted accountant's ledger book rests on a dark wood desk under soft natural daylight. The visible double-page spread shows faint printed horizontal rules and vertical columns in light green tint. The header at the top of the left page reads, in printed black serif type: "MID-YEAR PERFORMANCE GUARANTEE LEDGER · H1." A fountain pen with a dark barrel rests across the upper-right corner of the right page.
@@ -515,6 +519,11 @@ The question is whether you have your own strategy built from the same data, for
 Twelve contract provisions determine your renewal outcome. Most employers negotiate fewer than half of them.
 
 Next week: the renewal negotiation playbook.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Renewal Negotiation in your inbox: benefitblindspots.substack.com
 
 ---
 

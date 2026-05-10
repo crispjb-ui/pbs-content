@@ -288,7 +288,14 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 129 - Tuesday 10:00 AM
-### "How I'd Map a 2027 Renewal on a Whiteboard" — Whiteboard Carousel
+
+> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** This post violates two rules in CLAUDE.md and must be replaced before ship date.
+> - **Whiteboard Carousel format is paused** per CLAUDE.md May 8 update (W17 Carve-In/Out 1,790 impressions; W18 GLP-1 Whiteboard 758 impressions). Reformat to a non-Whiteboard canvas.
+> - **Topic is on Monday's renewal-negotiation family** = anti-cannibalization violation per Tuesday ≠ Monday rule.
+> - **Recommended replacement:** Library 09 Contract Comparison Carousel on a non-renewal provision family per the every-2-weeks Library NN cadence (W35 = Library 09 per CLAUDE.md schedule). Provision family suggestions: Performance Remediation, Manufacturer Payment Categories, Step Therapy Override.
+> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
+
+### "How I'd Map a 2027 Renewal on a Whiteboard" — Whiteboard Carousel [DRAFT — DO NOT SHIP, see RETARGET note above]
 
 **Template:** Whiteboard carousel (template #3). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W18 and W25 Whiteboard carousels.
 **Format class:** Carousel (Tuesday Cycle-W1 slot, fourth cycle — cycle-pillar PBM Contracts carried by Monday's Renewal Negotiation topic, so Tuesday shifts to Self-Funded Guidance)
@@ -384,6 +391,11 @@ The PBM knows this. Their initial proposal is engineered accordingly: competitiv
 
 A term sheet that covers all twelve provisions changes the dynamic. Your broker should be building it with you. If they have not started, bring the list to them.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on renewal negotiation is the operational follow-on: the 12-provision renewal playbook with redline priorities. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 131 - Thursday 10:00 AM
@@ -428,6 +440,27 @@ The PBM negotiates from their data advantage. You negotiate from preparation. Th
 - "Early termination fee" - PBM means: fee due if the plan terminates before a defined date. Read it as: an exit cost that can exceed projected savings from switching, neutralizing your leverage before the conversation starts.
 - "Data return obligation" - PBM means: the PBM's duty to return plan data on termination. Read it as: the provision that determines whether your next PBM can actually use your history. Without strong language, migration becomes expensive and slow.
 
+#### Post Copy
+
+Five contract terms decide whether you can actually use your termination clause. Most plan sponsors cannot, and most PBMs know it.
+
+I review approximately 100 PBM contracts a year at PBS. Most termination-clause negotiations never end in termination. But a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
+
+1. **Termination for convenience.** Often exists only for the PBM, or with notice periods long enough to neutralize plan-sponsor leverage. 90 days vs. 180 is the negotiation.
+2. **Termination for cause.** Usable only if "cause" is broadly defined. Vague "material breach" language favors the PBM.
+3. **Runoff period.** The window after termination during which your plan is captive to outgoing PBM pricing. Long runoff = no competitive pressure.
+4. **Early termination fee.** Exit cost that can exceed projected switching savings. Caps and step-downs matter.
+5. **Data return obligation.** Determines whether your next PBM can use your claims history. Without strong language, migration is expensive and slow.
+
+The termination clause is the leverage everywhere else. Read it before you renew.
+
+Save this for your next renewal redline.
+
+#PBMContracts #PBMRenewal #SelfFundedEmployers
+
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.
@@ -487,6 +520,11 @@ Two words in your PBM contract can cost your plan six figures. Most employers ha
 Contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance. It is financial exposure.
 
 Next week: contract language that costs you. Ten provisions shown in weak, moderate, and strong versions. A reference document for your next renewal.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Contract Red Flags in your inbox: benefitblindspots.substack.com
 
 ---
 

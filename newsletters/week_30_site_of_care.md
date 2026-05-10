@@ -332,7 +332,7 @@ The plans that walk into 2026 with these five decisions made are negotiating fro
 
 #### First Comment
 
-More in this week's Pharmacy Benefits Briefing on site-of-care strategy: [LINKEDIN NEWSLETTER URL]
+Monday's Benefit Blind Spots deep dive on site-of-care optimization is the deeper read on Decision 3 above (where high-cost specialty therapies are administered). The 4-channel cost comparison and the routing audit framework are in the article. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Carousel Slide-by-Slide Spec
 
@@ -423,6 +423,11 @@ One analysis: compare your top infusion drugs by total cost (drug plus administr
 [Close.]
 "One analysis changes the conversation: compare your top infusion drugs by total cost across settings. The math speaks for itself."
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on site-of-care optimization is the operational follow-on: the 4-channel cost comparison and the routing decision framework. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 111 - Thursday 10:00 AM
@@ -491,10 +496,9 @@ Save this for your next quarterly review.
 
 #PBMContracts #CoordinationOfBenefits #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on COB-flagged claims (sample pull, scenario classification, contract-rule comparison). Plus a paste-ready COB Claims Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Three-EOB Photoreal Image Generation Prompt
 
 > A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking insurance Explanation of Benefits pages are laid out side by side on a dark wood desk, evenly spaced, slight perspective angle. Each page has the header "Explanation of Benefits" printed at the top in clean serif type. Reading left to right, each page has a distinct printed sub-header label below the EOB title, indicating the coordination role:
@@ -560,6 +564,11 @@ PBM RFP responses are designed to win evaluations, not to reveal true cost. Diff
 The questions you ask determine the answers you get. And the questions most RFP templates include were written by the industry, not by the employers who pay the bills.
 
 Next week: the PBM RFP, and 30 questions with answer scoring that reveal what responses actually mean.
+
+
+#### First Comment
+
+Get next Monday's deep dive on PBM RFP Process in your inbox: benefitblindspots.substack.com
 
 ---
 

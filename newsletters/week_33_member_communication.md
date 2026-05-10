@@ -410,6 +410,11 @@ Pharmacy changes are uniquely sensitive because members associate drug changes w
 
 The fix is not better clinical rationale. It is better messaging: specific, early, and coordinated with prescribers before anyone writes to members. The communication is the implementation.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on communicating pharmacy changes is the operational follow-on: the 4-step member communication checklist with the language that works vs. backfires. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 123 - Thursday 10:00 AM
@@ -469,10 +474,9 @@ Save this for your next member-transition planning meeting.
 
 #PBMContracts #MemberExperience #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the transition clauses (event log, contract vs. actual experience, gap catalog). Plus a paste-ready Member Transition Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Marked-Up Plan Document Page Image Generation Prompt
 
 > A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed Summary Plan Description (SPD) page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "ARTICLE VII · PHARMACY BENEFIT TRANSITIONS AND CONTINUITY." Below the header, five vertically stacked clause entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
@@ -524,6 +528,11 @@ Your PBM manages specialty routing. Your PBM manages specialty formulary. Your P
 Eight management levers determine whether specialty cost is controlled or catastrophic. Most plans we review have gaps in at least half of them.
 
 Next week: specialty drug management, and the assessment that reveals where your gaps are.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Specialty Drug Management in your inbox: benefitblindspots.substack.com
 
 ---
 

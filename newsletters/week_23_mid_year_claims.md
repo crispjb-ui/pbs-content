@@ -486,6 +486,11 @@ Mid-year is when you can still act. Renewal is when you react.
 
 #ClaimsAudit #PlanSponsors #EmployeeBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on mid-year claims data and renewal trajectory is the operational follow-on: the 5-pattern claims-data red flag checklist + intervention framework. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 83 - Thursday 8:30 AM
@@ -515,10 +520,9 @@ Two or more of these patterns in the same review period is a signal. Your renewa
 
 #ClaimsAudit #PharmacyCosts #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The mid-year claims briefing covers why the first-half data window is the most valuable in the benefit cycle. For a practical guide to reading PBM utilization reports, this week's field note breaks it down step by step. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Infographic Concept
 
 **Title:** Five Mid-Year Claims Red Flags
@@ -688,6 +692,11 @@ They know your per-member-per-month trend. They know which guarantees they are m
 The window between H1 close and renewal season is where leverage gets built or lost. What you learn now shapes what you negotiate in September.
 
 Next week: the five numbers that define your renewal position and how to calculate them.
+
+
+#### First Comment
+
+Get next Monday's deep dive on H1 Review and Renewal Leverage in your inbox: benefitblindspots.substack.com
 
 ---
 

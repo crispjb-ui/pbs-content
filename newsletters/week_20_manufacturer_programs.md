@@ -419,6 +419,11 @@ Follow the claim. Not the card.
 
 #CopayCards #DrugPricing #PharmacyBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on manufacturer programs and copay economics is the operational follow-on: the 5-step copay card financial impact model. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 71 - Thursday 8:30 AM
@@ -448,10 +453,9 @@ Understanding this flow changes how you evaluate manufacturer programs.
 
 #CopayCards #PlanSponsors #EmployeeBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The manufacturer programs briefing covers the full copay card economics, from list price to plan exposure. For the tactical breakdown on choosing between accumulator and maximizer programs, this week's field note walks through the three evaluation factors that drive the decision. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Whiteboard Carousel Slides (Template A)
 
 **Design:** Off-white (#F5F5F0) background with faint grid lines. Handwritten font (Caveat). Primary Blue (#015880) headers. Gray (#4D4D4D) body. Red (#C0392B) for key reveals. Accent Blue (#A7E0FA) for highlights.
@@ -657,6 +661,11 @@ Every one is a metric the PBM controls. Every one looks favorable on the page. N
 The numbers that move the renewal price are in the data the PBM has. They are not in the report the PBM sends.
 
 Next week: the 15-line audit checklist for what should be in your quarterly report, and the contract clause that makes it a standing deliverable.
+
+
+#### First Comment
+
+Get next Monday's deep dive on PBM Quarterly Reporting in your inbox: benefitblindspots.substack.com
 
 ---
 

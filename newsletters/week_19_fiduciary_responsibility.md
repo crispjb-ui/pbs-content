@@ -500,10 +500,9 @@ Build the framework before litigation forces you to.
 
 #ERISA #PBMConsulting #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full fiduciary framework is in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]. For the specific documentation courts evaluate in PBM litigation, today's field note on Benefit Blind Spots covers RFP records, benchmarking reports, and the evidence trail that matters most: [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Messy Infographic Concept
 
 **Layout:** Hand-drawn style framework diagram with interconnected documentation nodes
