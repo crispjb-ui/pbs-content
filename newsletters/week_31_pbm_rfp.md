@@ -425,6 +425,11 @@ I have evaluated PBM proposals where three responses looked competitive on paper
 
 The fix is not a longer RFP. It is 30 specific follow-up questions with 0-3 scoring on each answer, where a vague response costs points. Your broker can add that layer. The best ones already do.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on the PBM RFP process is the operational follow-on: the 4-6 month RFP timeline and the proposal-normalization framework. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 115 - Thursday 10:00 AM
@@ -554,6 +559,11 @@ Prior authorization. Step therapy. Drug utilization review. Medication therapy m
 The PBM counts avoided costs that were never going to occur. They attribute formulary-driven savings to clinical programs that had nothing to do with the outcome.
 
 Next week: clinical program ROI, and the scorecard that separates real savings from reported savings.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Clinical Program ROI in your inbox: benefitblindspots.substack.com
 
 ---
 

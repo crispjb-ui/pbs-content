@@ -384,6 +384,11 @@ The PBM knows this. Their initial proposal is engineered accordingly: competitiv
 
 A term sheet that covers all twelve provisions changes the dynamic. Your broker should be building it with you. If they have not started, bring the list to them.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on renewal negotiation is the operational follow-on: the 12-provision renewal playbook with redline priorities. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 131 - Thursday 10:00 AM
@@ -509,6 +514,11 @@ Two words in your PBM contract can cost your plan six figures. Most employers ha
 Contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance. It is financial exposure.
 
 Next week: contract language that costs you. Ten provisions shown in weak, moderate, and strong versions. A reference document for your next renewal.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Contract Red Flags in your inbox: benefitblindspots.substack.com
 
 ---
 

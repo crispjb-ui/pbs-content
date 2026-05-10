@@ -410,6 +410,11 @@ Pharmacy changes are uniquely sensitive because members associate drug changes w
 
 The fix is not better clinical rationale. It is better messaging: specific, early, and coordinated with prescribers before anyone writes to members. The communication is the implementation.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on communicating pharmacy changes is the operational follow-on: the 4-step member communication checklist with the language that works vs. backfires. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 123 - Thursday 10:00 AM
@@ -524,6 +529,11 @@ Your PBM manages specialty routing. Your PBM manages specialty formulary. Your P
 Eight management levers determine whether specialty cost is controlled or catastrophic. Most plans we review have gaps in at least half of them.
 
 Next week: specialty drug management, and the assessment that reveals where your gaps are.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Specialty Drug Management in your inbox: benefitblindspots.substack.com
 
 ---
 

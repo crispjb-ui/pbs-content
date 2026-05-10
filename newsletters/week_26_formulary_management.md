@@ -437,6 +437,11 @@ One question changes the conversation: what is the net cost, our formulary vs. a
 
 #Formulary #DrugPricing #PharmacyBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on formulary management and PBM rebate economics is the operational follow-on: the formulary evaluation framework with the 4 questions to ask your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 95 - Thursday 10:00 AM
@@ -635,6 +640,11 @@ Most employers have never asked it. Not because the answer is hard to get. Becau
 Your PBM knows the market. Your broker knows the market. The question is whether you know it.
 
 Next week: when to stay, when to switch, and a 100-point scorecard that removes the guesswork.
+
+
+#### First Comment
+
+Get next Monday's deep dive on PBM Evaluation in your inbox: benefitblindspots.substack.com
 
 ---
 

@@ -428,6 +428,11 @@ Each one either protects the plan or protects the PBM's margin. In the ~100 cont
 
 One question cuts through the complexity: what is our net drug cost, after all rebates, compared to what the market would offer?
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on rebate economics decoded is the operational follow-on: the 8-provision rebate contract framework + traditional vs. pass-through model comparison. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 107 - Thursday 10:00 AM
@@ -571,6 +576,11 @@ The setting where a drug gets administered can change the cost by multiples. Not
 Site-of-care is the cost lever that crosses the pharmacy and medical benefit boundary. Most employers have never evaluated it because it requires coordinating two benefits that rarely talk to each other.
 
 Next week: site-of-care optimization, and the decision tree by therapeutic category.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Site-of-Care Optimization in your inbox: benefitblindspots.substack.com
 
 ---
 

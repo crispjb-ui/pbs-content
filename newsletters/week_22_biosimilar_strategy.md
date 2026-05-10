@@ -419,6 +419,11 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 
 #Biosimilars #SelfFundedEmployers #EmployeeBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on biosimilar strategy is the operational follow-on: the 6-factor biosimilar readiness assessment + scoring framework. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 79 - Thursday 8:30 AM
@@ -729,6 +734,11 @@ Specialty spend shifting. Generic rates declining. High-cost claimants clusterin
 These are not random fluctuations. They are signals. And mid-year is the window where you can still act on them.
 
 Next week: five claims data patterns that signal trouble before renewal. The smoke signals your data is sending right now.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Mid-Year Claims Red Flags in your inbox: benefitblindspots.substack.com
 
 ---
 

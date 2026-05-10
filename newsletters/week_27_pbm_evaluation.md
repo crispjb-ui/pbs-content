@@ -516,6 +516,11 @@ The score does not make the decision. It structures the decision so you are eval
 
 "Stop debating. Score it."
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is the operational follow-on: the 10-factor PBM evaluation scorecard with stay-or-switch thresholds. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 99 - Thursday 10:00 AM
@@ -689,6 +694,11 @@ Same drug. Retail pharmacy: one price. Mail order: different price. Specialty ph
 The channel where your member fills the prescription can change the cost more than the drug itself. Most employers have never compared across channels because the data is not presented that way. The PBM knows the comparison. You do not.
 
 Next week: pharmacy network design, and the five-channel cost model that reveals where the money goes.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Pharmacy Network Design in your inbox: benefitblindspots.substack.com
 
 ---
 

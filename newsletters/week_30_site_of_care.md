@@ -423,6 +423,11 @@ One analysis: compare your top infusion drugs by total cost (drug plus administr
 [Close.]
 "One analysis changes the conversation: compare your top infusion drugs by total cost across settings. The math speaks for itself."
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on site-of-care optimization is the operational follow-on: the 4-channel cost comparison and the routing decision framework. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 111 - Thursday 10:00 AM
@@ -560,6 +565,11 @@ PBM RFP responses are designed to win evaluations, not to reveal true cost. Diff
 The questions you ask determine the answers you get. And the questions most RFP templates include were written by the industry, not by the employers who pay the bills.
 
 Next week: the PBM RFP, and 30 questions with answer scoring that reveal what responses actually mean.
+
+
+#### First Comment
+
+Get next Monday's deep dive on PBM RFP Process in your inbox: benefitblindspots.substack.com
 
 ---
 

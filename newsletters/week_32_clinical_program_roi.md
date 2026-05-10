@@ -364,6 +364,11 @@ But the gap between reported savings and verified savings is consistent across a
 
 One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If the PBM cannot produce it, the number is a marketing metric, not a financial metric.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on clinical program ROI is the operational follow-on: the savings-methodology audit framework with the one request to send your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 119 - Thursday 10:00 AM
@@ -488,6 +493,11 @@ The best pharmacy strategy fails without the right communication. Formulary chan
 The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging.
 
 Next week: communicating pharmacy changes, and five scenario-specific templates that prevent the backlash.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Member Communication in your inbox: benefitblindspots.substack.com
 
 ---
 

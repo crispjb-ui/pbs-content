@@ -480,6 +480,11 @@ Two hours now. Different outcome in September.
 
 #PBMRenewal #PharmacyCosts #PharmacyBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on the 90-day renewal window is the operational follow-on: the month-by-month renewal preparation timeline. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 91 - Thursday 8:30 AM
@@ -668,6 +673,11 @@ Years ago we reviewed a client's formulary and asked a simple question: how does
 The formulary is where PBM rebate economics meet clinical decision-making. Whose interests win that contest determines what your members pay and what your plan spends.
 
 Next week: who really controls your drug list, and the seven questions that reveal the answer.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Formulary Management in your inbox: benefitblindspots.substack.com
 
 ---
 

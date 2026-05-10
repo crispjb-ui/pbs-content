@@ -545,6 +545,11 @@ The data exists. Whether your contract requires it to be shown is the conversati
 
 #PBMTransparency #DrugPricing #PharmacyBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on PBM quarterly reporting is the operational follow-on: the 15-line quarterly reporting checklist + paste-ready broker request. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 75 - Thursday 8:30 AM
@@ -654,6 +659,11 @@ This is not a clinical decision. The clinical evidence is clear. This is an econ
 Most employers have never asked for the one data point that reveals everything: the net cost comparison, brand versus biosimilar, after all rebates.
 
 Next week: why your plan may be missing the biosimilar opportunity.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Biosimilar Strategy in your inbox: benefitblindspots.substack.com
 
 ---
 

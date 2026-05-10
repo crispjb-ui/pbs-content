@@ -398,6 +398,11 @@ The gap compounds every quarter on every authorization that runs on autopilot an
 
 Start with one question: which of the eight levers has the largest gap on your plan?
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on specialty drug management is the operational follow-on: the 8-lever specialty management 120-point assessment. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 127 - Thursday 10:00 AM
@@ -515,6 +520,11 @@ The question is whether you have your own strategy built from the same data, for
 Twelve contract provisions determine your renewal outcome. Most employers negotiate fewer than half of them.
 
 Next week: the renewal negotiation playbook.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Renewal Negotiation in your inbox: benefitblindspots.substack.com
 
 ---
 

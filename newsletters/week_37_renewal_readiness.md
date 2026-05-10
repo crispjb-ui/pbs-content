@@ -599,6 +599,11 @@ If you are reading this and you have not started, three steps take about one wor
 
 Preparation is the strategy. Renewal is just the meeting.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on renewal readiness is the operational follow-on: the renewal readiness scorecard and the pre-meeting checklist. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 139 - Thursday 10:00 AM
@@ -722,6 +727,11 @@ Over the past 13 weeks, we built the toolkit: scorecards, comparison libraries, 
 What comes next: how the negotiations play out, what we are seeing in the market, and the implementation decisions that determine whether contract improvements translate to plan savings.
 
 Q4 content starts next Monday.
+
+
+#### First Comment
+
+Get next Monday's deep dive on next quarter's content cycle in your inbox: benefitblindspots.substack.com
 
 ---
 

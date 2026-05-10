@@ -331,6 +331,11 @@ Ten provisions determine whether your contract protects your plan: pricing metho
 
 Your broker or benefits counsel should know which version your contract uses. If they do not, that is the first question to ask before renewal.
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on contract red flags is the operational follow-on: the provision-by-provision comparison with weak vs. strong contract language. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 135 - Thursday 10:00 AM
@@ -445,6 +450,11 @@ Over 13 weeks, we covered the full arc: data benchmarking, formulary evaluation,
 One question remains: are you ready?
 
 Next week: a 15-factor renewal readiness scorecard. Five categories. 75 points. The assessment that tells you whether to proceed with confidence or focus on gaps.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Renewal Readiness in your inbox: benefitblindspots.substack.com
 
 ---
 

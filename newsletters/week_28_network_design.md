@@ -392,6 +392,11 @@ One data request: net cost per script by dispensing channel, for your top 10 dru
 
 "One data request reveals the story: net cost per script, by channel, for your top 10 drugs. Ask for it."
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on pharmacy network design is the operational follow-on: the network channel comparison framework + audit-rights checklist. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 103 - Thursday 10:00 AM
@@ -576,6 +581,11 @@ The disconnect is not a math error. It is a reporting choice. The PBM shows you 
 Rebate economics is the most manipulated element of PBM contracts. Not because the numbers are fabricated. Because the numbers are selected. What gets highlighted, what gets buried, and what never gets reported at all.
 
 Next week: rebate economics decoded. Eight contract provisions compared: weak vs. strong language.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Rebate Economics in your inbox: benefitblindspots.substack.com
 
 ---
 

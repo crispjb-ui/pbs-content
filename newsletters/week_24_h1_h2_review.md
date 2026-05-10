@@ -607,6 +607,11 @@ June is not early. June is late.
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
 
+
+#### First Comment
+
+This week's Benefit Blind Spots deep dive on H1 review and H2 preview is the operational follow-on: the H1 benchmark dashboard with 5 metrics and the renewal readiness scorecard. [SUBSTACK MONDAY DEEP DIVE URL]
+
 ---
 
 ## Post 87 - Thursday 8:30 AM
@@ -780,6 +785,11 @@ Q3 on Benefit Blind Spots is built around one arc: renewal preparation. Formular
 Thirteen weeks. Every tool you need before you sit across from your PBM.
 
 The employers who prepare through the summer negotiate different outcomes in the fall. Every year, I watch the same pattern. Next week: the 90-day renewal countdown begins.
+
+
+#### First Comment
+
+Get next Monday's deep dive on Renewal Countdown in your inbox: benefitblindspots.substack.com
 
 ---
 
