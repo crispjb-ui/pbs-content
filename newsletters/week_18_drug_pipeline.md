@@ -484,10 +484,9 @@ The time to prepare is before the claims arrive. Not after.
 
 #DrugPipeline #PlanSponsors #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full pipeline preparation framework is in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]. Today's field note covers what we see when we audit channel pricing, with a printable plan-sponsor worksheet attached: [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### One Number Carousel Slides (Template C)
 
 **Design:** Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold 96-120pt for stat. Plex Sans Regular 20-24pt for context. Accent Blue (#A7E0FA) accent elements.

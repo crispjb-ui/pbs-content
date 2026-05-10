@@ -546,10 +546,9 @@ The decision should be data, not frustration. Score your PBM relationship before
 
 #PBMRFP #SelfFundedEmployers #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full PBM evaluation scorecard with weighted scoring criteria is in this week's Pharmacy Benefits Briefing. For what a PBM transition timeline actually looks like, this week's field note breaks it down. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Infographic Concept
 
 **Title:** PBM Evaluation Scorecard

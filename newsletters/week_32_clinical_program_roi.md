@@ -428,10 +428,9 @@ Save this for your next benefits committee meeting.
 
 #PBMContracts #FiduciaryDuty #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the past 12 months of pharmacy benefit decisions (decision log build, prudent-process test, conflict-of-interest catalog). Plus a paste-ready Fiduciary Compliance Audit Worksheet you can hand to your broker or counsel. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.

@@ -520,10 +520,9 @@ Two or more of these patterns in the same review period is a signal. Your renewa
 
 #ClaimsAudit #PharmacyCosts #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The mid-year claims briefing covers why the first-half data window is the most valuable in the benefit cycle. For a practical guide to reading PBM utilization reports, this week's field note breaks it down step by step. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Infographic Concept
 
 **Title:** Five Mid-Year Claims Red Flags

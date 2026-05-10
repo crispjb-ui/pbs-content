@@ -387,10 +387,9 @@ Save this for your next contract review.
 
 #PBMContracts #ContractLanguage #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on their own contract history (pull every prior version, compare high-impact clauses side by side, estimate the dollar impact of each definition change). Plus a paste-ready Definition Variance Audit Worksheet you can hand to your broker before the next renewal. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Same/Same/Different Carousel Concept
 
 **Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.

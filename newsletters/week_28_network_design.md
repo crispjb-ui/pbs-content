@@ -420,10 +420,9 @@ Here is the channel-by-channel breakdown.
 
 #NetworkDesign #SelfFundedEmployers #EmployeeBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Full network cost comparison model in this week's Pharmacy Benefits Briefing. For when mail order actually saves (and when it does not), see this week's field note. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Whiteboard Carousel Slides (Template A)
 
 **Design:** Off-white (#F5F5F0) grid background. Caveat font. Hand-drawn elements.

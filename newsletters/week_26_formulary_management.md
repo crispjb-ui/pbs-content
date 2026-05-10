@@ -469,10 +469,9 @@ Swipe through the audit.
 
 #Formulary #PlanSponsors #EmployeeBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full formulary management analysis and field note on three questions your PBM should answer immediately. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Contract Markup Carousel Slides (Template B)
 
 **Design:** White background with faint gray horizontal rules (legal document style). Monospace body text (Courier Prime). Handwritten annotations in red (#C0392B) and Primary Blue (#015880). Yellow highlights (#FFF3CD). Small "CONTRACT REVIEW" rubber stamp in top-right, angled.

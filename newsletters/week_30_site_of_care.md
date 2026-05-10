@@ -496,10 +496,9 @@ Save this for your next quarterly review.
 
 #PBMContracts #CoordinationOfBenefits #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on COB-flagged claims (sample pull, scenario classification, contract-rule comparison). Plus a paste-ready COB Claims Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Three-EOB Photoreal Image Generation Prompt
 
 > A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking insurance Explanation of Benefits pages are laid out side by side on a dark wood desk, evenly spaced, slight perspective angle. Each page has the header "Explanation of Benefits" printed at the top in clean serif type. Reading left to right, each page has a distinct printed sub-header label below the EOB title, indicating the coordination role:

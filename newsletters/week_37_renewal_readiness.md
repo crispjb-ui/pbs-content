@@ -662,10 +662,9 @@ Save this for the next renewal cycle.
 
 #PBMContracts #PBMRenewal #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: a question-by-question script for the first PBM renewal meeting and how to use the five items above. Plus a paste-ready Pre-Meeting Renewal Checklist you can hand to your broker. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Sticky Note Dashboard Image Generation Prompt
 
 > A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight. Six yellow sticky notes pinned with brass pushpins: one larger title note at top, then five content notes stacked below in a 2-3-or-so layout. Each note slightly angled, subtle curl. Notes filled with clean handwriting in black Sharpie. No logos, no brand marks, no people.

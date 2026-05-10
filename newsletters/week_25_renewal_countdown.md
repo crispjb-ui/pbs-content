@@ -514,10 +514,9 @@ The employers who follow this timeline negotiate from their own data. Those who 
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full 90-day renewal preparation timeline is in this week's Pharmacy Benefits Briefing. For the three conversations to have before renewal season, this week's field note on Benefit Blind Spots breaks it down. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Messy Infographic Concept
 
 **Title:** The 90-Day PBM Renewal Timeline

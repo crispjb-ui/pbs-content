@@ -570,10 +570,9 @@ Six factors. One assessment. The savings opportunity is real, but only if your p
 
 #Biosimilars #PlanSponsors #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The biosimilar strategy briefing covers why PBM rebate economics may not align with your plan's cost objectives. For three specific contract provisions that create biosimilar accountability, this week's field note breaks it down. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Infographic Concept
 
 **Title:** Biosimilar Readiness Checklist

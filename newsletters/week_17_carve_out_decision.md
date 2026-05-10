@@ -819,10 +819,9 @@ Some employers achieve excellent results bundled. Others achieve better results 
 
 #PharmacyBenefits #PBM #CarveOut #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The full carve-out decision framework is in this week's Pharmacy Benefits Briefing: [LINKEDIN NEWSLETTER URL]. For what happens after you make the decision, today's field note on Benefit Blind Spots covers the first 90 days of implementation: [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Whiteboard Carousel Slides (Template A)
 
 **Design:** Off-white (#F5F5F0) background with faint grid lines. Handwritten font (Caveat). Primary Blue (#015880) for headers, Gray (#4D4D4D) for body, Accent Blue (#A7E0FA) for highlights.

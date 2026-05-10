@@ -451,10 +451,9 @@ Save this for your next renewal redline.
 
 #PBMContracts #PBMRenewal #SelfFundedEmployers
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the termination clauses before renewal (read the convenience and cause provisions, audit the runoff period and exit fees, verify the data return obligation). Plus a paste-ready Termination Clause Audit Worksheet with the redline priorities for your next renewal. [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.

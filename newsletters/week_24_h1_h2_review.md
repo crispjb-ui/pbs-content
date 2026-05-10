@@ -637,10 +637,9 @@ Seven metrics. Seven benchmarks. The framework for every renewal conversation th
 
 #MidYearReview #DrugPricing #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-The H1/H2 briefing covers the full assessment framework and renewal positioning strategy. For the five specific numbers that determine your renewal leverage (GER, PMPM trend, specialty trajectory, rebate productivity, high-cost claimant count), this week's field note breaks down each metric and what "good" looks like. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### One Number Carousel Slides (Template C)
 
 **Design:** Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold 96-120pt for stat. Plex Sans Regular 20-24pt for context. Accent Blue (#A7E0FA) accent elements.

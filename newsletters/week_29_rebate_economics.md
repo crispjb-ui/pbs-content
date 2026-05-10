@@ -454,10 +454,9 @@ Pass-through. Traditional. Hybrid. The labels sound simple. The economics behind
 
 #Rebates #DrugPricing #PharmacyBenefits
 
-#### First Comment
+#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
-Full rebate contract analysis in this week's Pharmacy Benefits Briefing. For rebate report red flags, see this week's field note. [LINKEDIN NEWSLETTER URL] | [SUBSTACK FIELD NOTE URL]
-
+This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
 #### Whiteboard Carousel Slides (Template A)
 
 **Slide 1:** "3 Rebate Models. Where Does the Margin Live?" Hand-drawn dollar sign with three arrows. Swipe.
