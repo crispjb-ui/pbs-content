@@ -331,7 +331,14 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 89 - Tuesday 8:30 AM
-### "How I'd Walk a Client Through the 90-Day Renewal Decision" — Whiteboard Carousel
+
+> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** This post violates two rules in CLAUDE.md and must be replaced before ship date.
+> - **Whiteboard Carousel format is paused** per CLAUDE.md May 8 update (W17 Carve-In/Out 1,790 impressions; W18 GLP-1 Whiteboard 758 impressions). Reformat to a non-Whiteboard canvas.
+> - **Topic is on Monday's renewal-countdown family** = anti-cannibalization violation per Tuesday ≠ Monday rule (Week 15 data: Thursday on Monday topic = 340 impressions vs. 22K floor).
+> - **Recommended replacement:** Library 04 Contract Comparison Carousel on a non-renewal provision family (e.g., Termination Language or Performance Remediation). Library NN format is save-driven; routes to Contract Library cross-promo. Alternative: One Number Carousel on a non-renewal CFO-metric topic with First Comment to a relevant Substack asset.
+> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
+
+### "How I'd Walk a Client Through the 90-Day Renewal Decision" — Whiteboard Carousel [DRAFT — DO NOT SHIP, see RETARGET note above]
 
 **Template:** Whiteboard carousel (template #3) from `claude_design_prompts.md`. Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
 **Format class:** Carousel (Tuesday Cycle-W2 slot, second cycle)

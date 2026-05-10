@@ -288,7 +288,14 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 129 - Tuesday 10:00 AM
-### "How I'd Map a 2027 Renewal on a Whiteboard" — Whiteboard Carousel
+
+> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** This post violates two rules in CLAUDE.md and must be replaced before ship date.
+> - **Whiteboard Carousel format is paused** per CLAUDE.md May 8 update (W17 Carve-In/Out 1,790 impressions; W18 GLP-1 Whiteboard 758 impressions). Reformat to a non-Whiteboard canvas.
+> - **Topic is on Monday's renewal-negotiation family** = anti-cannibalization violation per Tuesday ≠ Monday rule.
+> - **Recommended replacement:** Library 09 Contract Comparison Carousel on a non-renewal provision family per the every-2-weeks Library NN cadence (W35 = Library 09 per CLAUDE.md schedule). Provision family suggestions: Performance Remediation, Manufacturer Payment Categories, Step Therapy Override.
+> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
+
+### "How I'd Map a 2027 Renewal on a Whiteboard" — Whiteboard Carousel [DRAFT — DO NOT SHIP, see RETARGET note above]
 
 **Template:** Whiteboard carousel (template #3). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W18 and W25 Whiteboard carousels.
 **Format class:** Carousel (Tuesday Cycle-W1 slot, fourth cycle — cycle-pillar PBM Contracts carried by Monday's Renewal Negotiation topic, so Tuesday shifts to Self-Funded Guidance)

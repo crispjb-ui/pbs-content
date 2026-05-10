@@ -298,7 +298,13 @@ This week's Benefit Blind Spots includes a **formulary decision audit**: seven s
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 10:00 AM
-### "The Formulary Decision You Never Made" — Marked-Up Contract Page Decoder
+
+> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** Topic is on Monday's formulary-management family = anti-cannibalization violation per Tuesday ≠ Monday rule.
+> - Format (Marked-Up Contract Page messy infographic) is correct for Cycle-W4 Transparency slot. Keep the format; change the topic.
+> - **Recommended replacement topics (non-formulary, Transparency pillar):** 5 Plan-Sponsor Reporting Rights Decoded · Same Plan. Three PBM Quarterly Reports. Three Different Net Costs. (Same/Same/Different photoreal) · 5 Manufacturer-Direct Compensation Terms Decoded.
+> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
+
+### "The Formulary Decision You Never Made" — Marked-Up Contract Page Decoder [DRAFT — DO NOT SHIP, see RETARGET note above]
 
 **Template:** Marked-Up Contract Page messy infographic (template #16) from `claude_design_prompts.md`. Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W4 slot, second cycle)
