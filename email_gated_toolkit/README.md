@@ -2,6 +2,11 @@
 
 > **Companion to** `email_gated_toolkit_implementation_guide.md` (the 6-phase build runbook). This folder contains all the production-ready artifacts the guide references: copy-paste-ready emails, HTML mockups for landing and thank-you pages, LinkedIn ad creative specs, the privacy policy template, and the tracking dashboard structure.
 
+> **Related strategy docs at the repo root:**
+> - `email_gated_toolkit_implementation_guide.md` — the 6-phase build runbook (now uses dynamic-page architecture per `Phase 1`)
+> - `paid_substack_operationalization_plan.md` — when and how to launch the Substack paid tier without disrupting the lead-magnet flow
+> - `ad_spend_topic_selection_framework.md` — 4-factor scoring rubric for deciding which Toolkits get LinkedIn ad budget
+
 ## What's here
 
 ```

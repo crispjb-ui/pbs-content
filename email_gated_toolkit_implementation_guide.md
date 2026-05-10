@@ -81,31 +81,34 @@ The Sandeep Desai inquiry (May 9, 2026) validated demand: a senior PBM oversight
 
 ---
 
-# PHASE 1 — WIX INFRASTRUCTURE
+# PHASE 1 — WIX INFRASTRUCTURE (DYNAMIC-PAGE ARCHITECTURE)
 
-**Time:** Days 1-3 (4-6 hours total)
+**Time:** Days 1-3 (6-8 hours upfront, then ~5-10 min per new Toolkit)
+
+**Architecture summary:** instead of building a separate landing page for each Toolkit (high upfront cost + ongoing per-Toolkit maintenance), we build ONE master template page driven by a Wix Data Collection. Each row in the collection becomes a unique landing page at `rxbs.org/toolkit/<slug>` automatically. Adding a new Toolkit = adding one row. The page template is built once.
+
+This pattern preserves the conversion benefit of dedicated topic-specific pages (each Toolkit gets its own URL with topic-specific copy) while collapsing the per-Toolkit maintenance from 30-45 minutes to 5-10 minutes.
 
 ## Step 1.1 — Confirm Wix Premium plan capabilities
 
-Sign in to the Wix dashboard for rxbs.org. Go to the Account section.
-
-Confirm the following are included or available on the current plan:
+Sign in to the Wix dashboard for rxbs.org. Confirm the following are included on the current plan:
 
 - [ ] **Custom domain** (rxbs.org connected)
-- [ ] **Wix Forms** (every Premium plan includes basic forms; some advanced field types require Business or higher)
-- [ ] **Wix Email Marketing / Campaigns** (some Premium plans include limited monthly campaigns; check the cap; if low, upgrade is worth considering for ~$5-15/month)
+- [ ] **Wix Forms** (every Premium plan includes basic forms)
+- [ ] **Wix Email Marketing / Campaigns**
 - [ ] **Wix Contacts** (built into every Wix site)
-- [ ] **Wix Automations** (most Premium plans include this; verify)
-- [ ] **Custom URL slugs / page paths** (so you can use `rxbs.org/toolkit/channel-pricing`)
+- [ ] **Wix Automations**
+- [ ] **Wix Data Collections + Dynamic Pages** ← REQUIRED for this architecture; available on Wix Premium plans that include Wix CMS / Velo / Wix Editor (most Business plans, some Pro plans). If your current plan does not include Data Collections, the upgrade cost is typically ~$10-25/month and pays for itself in saved maintenance time within 2-3 Toolkit additions.
+- [ ] **Custom URL slugs / page paths**
 
-If any are missing, note them and check the upgrade path before proceeding.
+If Wix Data Collections is not available on the current plan, either upgrade or fall back to the manual-duplicate pattern documented in version 1 of this guide (preserved in git history at commit `23bed26`).
 
 ## Step 1.2 — Set up domain authentication for email deliverability
 
 This is a one-time technical setup that prevents your welcome emails from landing in spam.
 
 1. In the Wix dashboard, go to **Domains** → click on **rxbs.org** → **Advanced Settings** → **DNS Records**
-2. Add the three records below. Wix has step-by-step instructions, but the values are typically:
+2. Add the three records below:
    - **SPF** (TXT record at root): `v=spf1 include:_spf.wix.com ~all`
    - **DKIM** (Wix generates the value automatically when you enable email sending; copy the TXT record they provide)
    - **DMARC** (TXT record at `_dmarc.rxbs.org`): `v=DMARC1; p=none; rua=mailto:team@rxbs.org`
@@ -114,106 +117,139 @@ This is a one-time technical setup that prevents your welcome emails from landin
 
 **Why this matters:** Without proper SPF/DKIM/DMARC, Gmail and Outlook may flag your welcome emails as spam, especially when sending volume picks up. This step alone improves deliverability ~30-50%.
 
-## Step 1.3 — Build the master Toolkit landing page template
+## Step 1.3 — Build the Toolkits Data Collection
 
-In Wix Editor:
+This is the structured data source that drives every Toolkit landing page.
 
-1. **Create a new page**: Pages menu → Add Page → Blank → name it "Toolkit · Channel Pricing"
-2. **Set the URL slug**: page Settings (gear icon) → SEO → Page URL: `rxbs.org/toolkit/channel-pricing`
-3. **Hide from main navigation** (Settings → Hide from menu) — these are landing pages, not part of the main site nav
+1. In the Wix dashboard, go to **Database** (or **CMS**, depending on your Wix UI version) → **+ New Collection**
+2. Name the collection: **`Toolkits`**
+3. Set permissions: **Anyone can read** (so the public landing pages can render)
+4. Add the following fields to the collection:
 
-**Page structure (top to bottom):**
+| Field name | Type | Required | Notes / example |
+|---|---|---|---|
+| `slug` | Text | ✅ | URL slug, lowercase, hyphenated. Example: `channel-pricing` |
+| `tier` | Text | ✅ | "1" or "2" or "3" — for sorting in the library index |
+| `eyebrow` | Text | ✅ | Example: `Channel Pricing · Audit Worksheet` |
+| `headline` | Text | ✅ | The H1. Example: `Same Drug. Three Channels. Three Prices.` |
+| `headline_emphasis` | Text |  | The italic/highlighted phrase in the H1. Example: `The Audit Worksheet to Surface the Gap.` |
+| `subtitle` | Text | ✅ | One-sentence value prop. Example: `A 2-page printable framework PBS uses across approximately 100 PBM contract reviews annually. Free download.` |
+| `bullet_1` | Text | ✅ | First hero bullet. Example: `3 audit passes plan sponsors run on per-channel net cost` |
+| `bullet_2` | Text | ✅ | Example: `Paste-ready PBM data request (drop into a broker email)` |
+| `bullet_3` | Text | ✅ | Example: `The pattern PBS sees most often across ~100 contracts/year` |
+| `bullet_4` | Text | ✅ | Example: `4-step action plan you can execute this quarter` |
+| `pdf_url` | URL | ✅ | Wix Media Manager public URL for the Toolkit PDF |
+| `pdf_filename_display` | Text |  | Display name shown in PDF preview. Example: `Channel Pricing Audit Worksheet` |
+| `valueprop_card_1_title` | Text |  | "Pass 01" card title |
+| `valueprop_card_1_body` | Text |  | "Pass 01" card body |
+| `valueprop_card_2_title` | Text |  | "Pass 02" |
+| `valueprop_card_2_body` | Text |  |  |
+| `valueprop_card_3_title` | Text |  | "Pass 03" |
+| `valueprop_card_3_body` | Text |  |  |
+| `valueprop_card_4_title` | Text |  | "Action Plan" |
+| `valueprop_card_4_body` | Text |  |  |
+| `seo_title` | Text |  | `<title>` tag content for the page (defaults to eyebrow if blank) |
+| `seo_description` | Text |  | Meta description |
+| `related_toolkit_slugs` | Text |  | Comma-separated slugs of 2-3 related Toolkits (used in welcome Email 2's "second toolkit" recommendation) |
+| `is_featured` | Boolean |  | If true, surfaces in the library index hero rotation |
+| `is_archived` | Boolean |  | If true, hides from the library index but landing page still works (for retired Toolkits) |
+| `created_date` | Date | auto |  |
+| `updated_date` | Date | auto |  |
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  HEADER (PBS logo, minimal nav: rxbs.org · About · Contact) │
-├──────────────────────────────────────────────────────────────┤
-│  HERO BLOCK                                                   │
-│                                                                │
-│  Eyebrow: PLAN SPONSOR TOOLKIT                                │
-│  H1: Same Drug. Three Channels. Three Prices.                 │
-│      The Audit Worksheet to Surface the Gap.                  │
-│                                                                │
-│  Sub: A 2-page printable framework PBS uses across ~100 PBM  │
-│       contract reviews per year. Free download.               │
-│                                                                │
-│  [PREVIEW IMAGE: PDF page 1 thumbnail, slight angle]          │
-├──────────────────────────────────────────────────────────────┤
-│  FORM BLOCK (right or below hero, depending on layout)        │
-│                                                                │
-│  First name: [___________]                                    │
-│  Work email: [___________]                                    │
-│  Company:    [___________]                                    │
-│  Role:       [▼ Select]                                       │
-│              · VP / Director of Benefits                      │
-│              · CFO / Finance leader                           │
-│              · HR Director / HR leader                        │
-│              · Benefits Broker / Consultant                   │
-│              · PBM Oversight (health plan)                    │
-│              · Other                                          │
-│                                                                │
-│  [SEND ME THE WORKSHEET →]                                    │
-│                                                                │
-│  Privacy: We use this email only to deliver the PDF and an   │
-│  occasional update. Unsubscribe anytime.                      │
-├──────────────────────────────────────────────────────────────┤
-│  WHAT'S IN THE WORKSHEET                                      │
-│                                                                │
-│  · 3 audit passes plan sponsors run on per-channel net cost   │
-│  · Paste-ready PBM data request (drop into broker email)      │
-│  · The pattern PBS sees most often across ~100 contracts/yr   │
-│  · 4-step action plan you can execute this quarter            │
-├──────────────────────────────────────────────────────────────┤
-│  WHO USES THIS                                                │
-│                                                                │
-│  Self-funded employer benefits leaders, finance teams, and    │
-│  brokers running independent PBM oversight. Hand directly to  │
-│  your PBM account team or your broker as the agenda for the   │
-│  next quarterly review.                                       │
-├──────────────────────────────────────────────────────────────┤
-│  ABOUT GINNY CRISP, PHARMD                                    │
-│                                                                │
-│  CEO of Prescription Benefit Solutions. PBS reviews ~100 PBM  │
-│  contracts annually for self-funded employers. The Toolkit    │
-│  is built from the patterns we surface in those reviews.      │
-├──────────────────────────────────────────────────────────────┤
-│  FOOTER (PBS contact, privacy, terms)                         │
-└──────────────────────────────────────────────────────────────┘
-```
+5. Save the collection schema. Do not populate rows yet — that comes in Step 1.5.
 
-**Design notes:**
-- Use Plex Sans (digital register per CLAUDE.md typography rule)
-- Primary Blue (#015880) for the eyebrow and headline accents
-- Accent Blue (#A7E0FA) for the H1 emphasis word and CTA button
-- Keep the page at one screen worth of content above the fold on desktop and mobile (form should be visible without scrolling on most laptops)
+## Step 1.4 — Build the master template page (dynamic page)
 
-**Save this page as a template** (Wix has a "Duplicate page" feature) so you can clone it for each subsequent Toolkit handout in <10 minutes.
+This is the ONE page that renders all Toolkit landing pages at runtime. Wix calls this a "Dynamic Item Page."
 
-## Step 1.4 — Build the Wix Form
+1. In Wix Editor, with the **Toolkits** collection created, click **+ Add** → **Dynamic Pages** → **Item Page** → connected to the **Toolkits** collection
+2. Wix prompts you for the URL pattern. Set: `toolkit/{slug}` (no leading rxbs.org — Wix prepends the domain). This means each row's `slug` field becomes the URL path. So a row with `slug = channel-pricing` lands at `rxbs.org/toolkit/channel-pricing`.
+3. **Hide the master template page from the main navigation** (Page Settings → Hide from menu)
 
-On the landing page, add a Wix Form:
+**Now build the page layout.** Use `email_gated_toolkit/landing_pages/channel_pricing_landing.html` as the visual spec. Replicate the layout in Wix Editor with one critical difference: instead of typing static content, **bind each text element to the corresponding Data Collection field.**
 
-1. **Add element** → **Forms** → **Contact Form** (start with the basic template)
-2. **Edit Form** to configure fields:
+Wix Editor binding pattern:
+- Click the text element
+- Choose **Connect to Data** (chain icon in the toolbar)
+- Select the Toolkits collection field that should populate this element
+
+Bind these elements:
+- Hero eyebrow → `eyebrow`
+- Hero H1 → `headline`
+- Hero italic emphasis → `headline_emphasis`
+- Hero subtitle → `subtitle`
+- Hero bullet 1-4 → `bullet_1` through `bullet_4`
+- PDF preview title → `pdf_filename_display`
+- Value-prop card 1-4 (titles + bodies) → `valueprop_card_1_title` through `valueprop_card_4_body`
+- `<title>` tag (Page Settings → SEO) → `seo_title`
+- Meta description → `seo_description`
+
+**Result:** every text element on the page is dynamic. Adding a Toolkit = adding a row. The page renders the new content automatically at the new URL.
+
+## Step 1.5 — Build the Wix Form on the master template
+
+The form lives on the master template page (so it appears on every Toolkit landing page automatically).
+
+1. Add a Wix Form widget to the master template page below the hero block
+2. Configure form fields:
 
 | Field | Type | Required | Notes |
 |---|---|---|---|
 | First Name | Short text | ✅ | Max 50 chars |
 | Work Email | Email | ✅ | Validates email format |
 | Company | Short text | ✅ | Max 100 chars |
-| Role | Dropdown | ✅ | Options: VP / Director of Benefits · CFO / Finance leader · HR Director · Benefits Broker / Consultant · PBM Oversight (health plan) · Other |
+| Role | Dropdown | ✅ | Options: VP / Director of Benefits · CFO / Finance leader · HR Director / HR leader · Benefits Broker / Consultant · PBM Oversight (health plan) · Other |
+| **Hidden field: Toolkit slug** | Hidden text | ✅ | **Critical:** auto-populates with the current page's `slug` value via Wix's dynamic-page binding |
+
+The **hidden Toolkit slug field** is what makes the dynamic system work. When a reader on `rxbs.org/toolkit/channel-pricing` submits the form, the hidden field captures `channel-pricing` and passes it through to Wix Contacts and Wix Automation. The downstream automation then sends the right PDF based on this value.
+
+To configure the hidden field:
+- Add a hidden field type (or a regular text field with visibility set to "Hidden")
+- **Connect to Data** → bind it to the dynamic page's `slug` field
+- Field name in form data: `toolkit_slug`
 
 3. **Submit button text:** "Send me the worksheet"
-4. **Confirmation message:** "Check your inbox in the next 2 minutes. The worksheet is on its way. If it doesn't arrive, check your spam folder or email team@rxbs.org."
-5. **Notification email:** Configure to send a copy of every submission to team@rxbs.org so PBS sees leads in real-time.
+4. **Confirmation:** redirect to `rxbs.org/toolkit/<slug>/thank-you` — this can also be a dynamic thank-you page if you build one (or a single static thank-you page for all Toolkits)
+5. **Notification email:** send a copy of every submission to team@rxbs.org
+6. **Critical setting:** enable **"Add submitter to Wix Contacts"** + automatically apply the label `asset:<toolkit_slug>` based on the hidden field value. This is configured via Wix Form's "Add Label" action with conditional logic.
 
-**Critical setting:** In the form's advanced settings, enable **"Add submitter to Wix Contacts"** so every form submission becomes a CRM contact automatically.
+## Step 1.6 — Build the library index page (optional but recommended)
 
-## Step 1.5 — Set up Wix Contacts segments and tags
+In addition to the dynamic master template, build a library index page at `rxbs.org/toolkit` (no slug) that lists all Toolkits in a grid.
 
-In the Wix dashboard, go to **Contacts**.
+1. Create a new page: `rxbs.org/toolkit`
+2. Add a **Repeater** widget connected to the Toolkits collection
+3. Configure the repeater to show a card per Toolkit with:
+   - Eyebrow
+   - Headline (truncated if needed)
+   - Subtitle (truncated)
+   - "Get the worksheet →" button linking to the dynamic page (Wix auto-generates the link)
+4. Filter: `is_archived = false`
+5. Sort: by `tier` ascending (so Tier 1 toolkits appear first), then by `created_date` descending
+6. Optionally: section the grid by tier with section headers ("Tier 1 — PBS Engagement Journey," "Tier 2 — Audit Components," "Tier 3 — Workflow + Member Experience")
 
-Create the following labels (Wix uses the term "Labels" for tags):
+The library index is the "browse all" page for organic readers who want to see the full catalog. Most ad-driven traffic will land on the dedicated Toolkit pages directly; the library index serves the discovery use case.
+
+## Step 1.7 — Upload PDFs to Wix Media Manager + populate the Data Collection
+
+1. In the Wix dashboard, go to **Media Manager** → upload all 25 Toolkit handout PDFs from `templates/documents/`
+2. For each PDF, copy the public URL (right-click → "Copy file URL")
+3. In the Toolkits Data Collection (Database → Toolkits → Manage Items), add a row per Toolkit with all the required field values + the PDF URL
+4. Save each row
+
+**Time estimate:** ~5-10 minutes per Toolkit row. For 25 Toolkits: 2-4 hours one time. After this, all 25 Toolkit landing pages exist at their respective URLs.
+
+**Recommended populate order** (to validate the system as you go):
+1. Channel Pricing (the canonical winner — test the system end-to-end on this one first)
+2. Contract Review Readiness Checklist (Tier 1 priority #1)
+3. Optimize Existing vs. Go-to-Market Decision Framework (Tier 1 #2)
+4. Pharmacy Benefit Review Framework (Tier 1 #3)
+5. Rebate Report Audit (Tier 2 #5)
+6. ... continue per priority order in `email_gated_toolkit/README.md`
+
+## Step 1.8 — Set up Wix Contacts segments and tags
+
+In the Wix dashboard, go to **Contacts**. Create the following labels (Wix uses the term "Labels" for tags):
 
 **Source labels:**
 - `source:linkedin-ad`
@@ -223,21 +259,16 @@ Create the following labels (Wix uses the term "Labels" for tags):
 - `source:email-sig`
 - `source:podcast`
 
-**Asset labels (one per Toolkit):**
+**Asset labels (one per Toolkit, applied automatically by the form via the hidden `toolkit_slug` field):**
 - `asset:channel-pricing`
-- `asset:pbm-compensation`
-- `asset:quarterly-reporting`
-- `asset:specialty-routing`
-- `asset:contract-amendment`
-- (one for each of the 25 Toolkit handouts as you build out)
+- `asset:contract-review-readiness`
+- `asset:optimize-vs-go-to-market`
+- `asset:pbr-framework`
+- `asset:rebate-report-audit`
+- (one for each Toolkit row in the Data Collection, matching the slug)
 
 **Role labels:**
-- `role:vp-benefits`
-- `role:cfo`
-- `role:hr-director`
-- `role:broker`
-- `role:pbm-oversight`
-- `role:other`
+- `role:vp-benefits` · `role:cfo` · `role:hr-director` · `role:broker` · `role:pbm-oversight` · `role:other`
 
 **Status labels:**
 - `status:lead-new` (default on signup)
@@ -251,46 +282,42 @@ Create the following labels (Wix uses the term "Labels" for tags):
 
 This labeling structure lets you segment any list of contacts by any combination (e.g., "show me all `role:cfo` contacts who downloaded `asset:channel-pricing` in the last 30 days").
 
-## Step 1.6 — Upload PDFs to Wix Media Manager
-
-1. In the Wix dashboard, go to **Media Manager** → upload all 25 Toolkit handout PDFs from `templates/documents/`
-2. For each PDF, copy the public URL Wix generates (right-click → "Copy file URL")
-3. Save the URL list in a spreadsheet (you'll reference these in the welcome emails)
-
-**Naming convention** to keep things organized: upload as `toolkit_<slug>.pdf` (e.g., `toolkit_channel_pricing_audit_worksheet.pdf`).
-
 ---
 
 # PHASE 2 — EMAIL AUTOMATION
 
 **Time:** Days 4-7 (5-7 hours total)
 
-## Step 2.1 — Configure the Wix Automation
+## Step 2.1 — Configure the single Wix Automation
+
+With dynamic-page architecture, you build ONE Wix Automation that handles every Toolkit (not one per Toolkit). The hidden `toolkit_slug` field on the form tells the automation which Toolkit was selected; the email logic uses that field to send the right PDF.
 
 In the Wix dashboard, go to **Automations** → **+ New Automation**.
 
-**Trigger:** "Form is submitted" → select the Toolkit landing page form
+**Trigger:** "Form is submitted" → select the master template form (the one on the dynamic Toolkit pages)
 
 **Actions** (configure in this order):
 
-1. **Add label**: `source:direct` (or whatever source applies — you can update this conditionally later if needed)
-2. **Add label**: `asset:channel-pricing` (specific to this Toolkit)
-3. **Add label**: based on the Role field: `role:<selected-role>` (use Wix's conditional logic)
+1. **Add label** (dynamic): `asset:<toolkit_slug>` — Wix conditional logic reads the hidden `toolkit_slug` field and applies the matching label automatically
+2. **Add label** (dynamic): `source:direct` initially, or `source:linkedin-ad` if the lead came in via Zapier (set conditionally based on a separate hidden field that Zapier populates)
+3. **Add label** (dynamic): `role:<selected-role>` based on the Role dropdown answer
 4. **Add label**: `status:lead-new`
 5. **Add label**: `workflow:welcome-active`
-6. **Send email**: trigger Email 1 (configured in Step 2.2)
+6. **Send email**: trigger **Email 1 — PDF Delivery** (one campaign template; conditional content inside the email body uses the `toolkit_slug` to insert the right PDF link, toolkit name, and topic mechanic phrase)
 7. **Wait**: 2 days
-8. **Send email**: Email 2
-9. **Wait**: 3 days (now Day 5 from signup)
-10. **Send email**: Email 3
+8. **Send email**: **Email 2 — Second Toolkit** (campaign template uses the `related_toolkit_slugs` field from the Data Collection to pick the second Toolkit recommendation dynamically)
+9. **Wait**: 3 days (Day 5 from signup)
+10. **Send email**: **Email 3 — Field Note Match** (uses `toolkit_slug` to pick the Field Note pairing per the rotation table in `email_gated_toolkit/emails/03_field_note_match.md`)
 11. **Wait**: 4 days (Day 9)
-12. **Send email**: Email 4
+12. **Send email**: **Email 4 — LinkedIn Newsletter** (generic, no per-Toolkit customization)
 13. **Wait**: 5 days (Day 14)
-14. **Send email**: Email 5
+14. **Send email**: **Email 5 — Two Ways Forward** (generic, ends with the Contract Review CTA)
 15. **Remove label**: `workflow:welcome-active`
 16. **Add label**: `workflow:welcome-complete`
 
 Save and activate the automation.
+
+**The single-automation pattern means:** when you add Toolkit #26, you do NOT touch this automation. You add a row to the Data Collection (Step 1.7) and the existing automation handles it correctly because Email 1's PDF link is dynamically pulled from the `pdf_url` field via the `toolkit_slug` lookup.
 
 ## Step 2.2 — Build the 5 welcome emails in Wix Email Marketing
 
@@ -459,19 +486,19 @@ If any step fails, the most common issues are:
 - **Wrong labels applied** → Check the conditional logic in the automation
 - **PDF link broken** → Verify the public URL in Wix Media Manager
 
-## Step 2.4 — Duplicate the automation for each Toolkit
+## Step 2.4 — Add a Toolkit to the system (ongoing operation)
 
-Once the Channel Pricing flow works end-to-end, duplicate the automation and customize for the next Toolkit:
+With dynamic-page architecture, adding a new Toolkit does NOT require duplicating the automation. The single automation built in Step 2.1 handles every Toolkit. To add a new one:
 
-1. Wix Automations → Channel Pricing automation → **Duplicate**
-2. Rename to "PBM Compensation Toolkit Welcome"
-3. Update the trigger to point at the PBM Compensation landing page form
-4. Update the asset label (`asset:pbm-compensation`)
-5. Update Email 1 to deliver the PBM Compensation PDF and reference Channel Pricing as the *next* email
-6. Update Email 2 to deliver Channel Pricing (or another Toolkit)
-7. Save
+1. **Build the PDF** (generate via `templates/documents/build_thursday_docs.py` per the established Toolkit production workflow)
+2. **Upload the PDF** to Wix Media Manager. Copy the public URL.
+3. **Add a row** to the Toolkits Data Collection (Database → Toolkits → Add Item) with all required fields. ~5-10 min.
+4. **Add the asset label** to Wix Contacts: `asset:<new-toolkit-slug>` (single label, applied automatically by the form going forward)
+5. **Verify** by visiting `rxbs.org/toolkit/<new-toolkit-slug>` — the page should render with the new content. Submit a test entry; verify Email 1 arrives with the right PDF.
 
-Repeat for the strongest 3-5 Toolkit handouts. You don't need to build all 25 immediately — start with the highest-engagement topics and build out as performance data tells you what to scale.
+**Total time per new Toolkit: ~10-15 minutes.** No automation duplication. No email template duplication. No new landing page build. Just one row in the Data Collection.
+
+This is the maintenance-economy benefit of dynamic-page architecture: setup cost is higher upfront, but per-Toolkit cost collapses to a fraction of the manual-duplicate pattern.
 
 **Recommended launch set (revised May 9, 2026 — service-aligned priority):**
 
