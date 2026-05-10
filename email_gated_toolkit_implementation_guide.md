@@ -473,12 +473,31 @@ Once the Channel Pricing flow works end-to-end, duplicate the automation and cus
 
 Repeat for the strongest 3-5 Toolkit handouts. You don't need to build all 25 immediately — start with the highest-engagement topics and build out as performance data tells you what to scale.
 
-**Recommended starting set (in order):**
-1. Channel Pricing Audit Worksheet (W18 — proven 17K reach + 4-5 Substack subs)
-2. PBM Compensation Audit Worksheet (W27)
-3. Quarterly Reporting Checklist (W21 — Sandeep-pattern interest)
-4. Specialty Routing Audit Worksheet (W22)
-5. GER Audit Worksheet (W28)
+**Recommended launch set (revised May 9, 2026 — service-aligned priority):**
+
+The Toolkit lineup mirrors PBS's three-part service offering. Tier 1 toolkits ARE the services in self-service form; they convert directly to PBS revenue. Tier 2 toolkits are the audit components that integrate into the Tier 1 flow.
+
+**Tier 1 — PBS engagement journey (ranked, strongest first):**
+1. **Contract Review Readiness Checklist** (Evergreen) — entry product, first touch with new clients
+2. **Optimize Existing vs. Go-to-Market Decision Framework** (Evergreen) — Contract Review output, RFP seed
+3. **Pharmacy Benefit Review (PBR) Twice-Yearly Framework** (Evergreen) — ongoing engagement
+4. **Contract Amendment Letter Template** (W24) — optimize-existing path execution
+5. **RFP Scoring Methodology Audit Worksheet** (W25) — go-to-market path execution
+
+**Tier 2 — Mechanic-specific audit components (top 5, in priority order):**
+6. **Channel Pricing Audit Worksheet** (W18) — proven 17K reach + 4-5 Substack subs canonical winner
+7. **Rebate Report Audit Worksheet** (W20) — top topic, regulatory tailwind
+8. **PBM Compensation Audit Worksheet** (W27) — CFO buyer profile
+9. **Quarterly Reporting Checklist** (W21) — broad PBM-oversight audience
+10. **GER Audit Worksheet** (W28) — concrete dollar magnitude per audit
+
+**Tier 2 secondary:** Specialty Routing (W22) · Mid-Year Performance Guarantee (W34) · PBM Disclosure (W31) · Termination Clause (W35) · Definition Variance (W36)
+
+**Tier 3 (workflow + member experience, not priority for paid promotion):** Step Therapy Override (W26) · COB Claims (W30) · Member Transition (W33) · Network Configuration (W29) · Fiduciary Compliance (W32) · Pre-Meeting Renewal Checklist (W37)
+
+**Phase 1-2 build order:** start with Tier 1 #1 (Contract Review Readiness) since that's the highest-leverage funnel asset. Once the flow is proven on one Toolkit, duplicate to the other 4 Tier 1 toolkits. Tier 2 toolkits roll out as ad spend scales.
+
+> **All artifacts (5 welcome emails, landing page HTML, thank-you page, 5 ad creative specs, privacy policy, tracking dashboard) live in `email_gated_toolkit/` — see that folder's README.md for the full index.**
 
 ---
 
