@@ -75,6 +75,53 @@ Replace the closing paragraph's "If there's a specific question or scenario" wit
 
 > "Given your seat in [brokerage / consulting / clinical pharmacy], I'd love to hear what you'd want from the paid tier specifically. The Q&A and 'What I'd Ask' formats are still shaping, and a sharper read from someone working the same problems would help me build them right."
 
+## Variant: if the subscriber is a PBM employee (or other industry-adjacent buyer who is structurally not a PBS client)
+
+Replace the body entirely with a shorter, neutral-professional version. PBM employees are part of the public audience but are not Contract Review buyers and should not be asked to shape editorial direction.
+
+**Subject:** `Welcome to Benefit Blind Spots paid`
+
+**Sender:** `Ginny Crisp <team@rxbs.org>`
+
+**Body:**
+
+---
+
+[First name],
+
+Thank you for upgrading to a paid subscription to Benefit Blind Spots. I send a personal welcome to every new paid subscriber and I want to be upfront about a few things.
+
+The publication is written for self-funded plan sponsors and the brokers and consultants who advise them. The paid layer adds biweekly *"What I'd Ask"* contract scenarios (first one ships this Tuesday), the quarterly *"What We're Seeing"* aggregate report (Q2 in late June), and a monthly subscriber Q&A thread starting in June. The content reads from a plan-sponsor perspective and is openly adversarial to PBM contracting practices that move costs sideways. I assume you know that going in.
+
+You'll receive everything every other paid subscriber receives. No insider access, no advance copy. The Monday deep dive, Wednesday roundup, Thursday Field Note, LinkedIn Newsletter, and the Toolkit handouts stay free.
+
+If at any point the subscription isn't what you wanted, Substack handles refunds cleanly inside the subscription settings; no hard feelings either way.
+
+Ginny Crisp, PharmD
+Founder, Prescription Benefit Solutions
+team@rxbs.org · rxbs.org
+
+---
+
+**What's deliberately NOT in this variant and why:**
+
+- No "I read every reply" / engagement ask. PBM-employee replies create a tactical-bias risk on editorial direction; do not invite them.
+- No "what scenario would you want me to cover" ask. Same reason.
+- No Contract Review or consulting reference. PBS does not audit PBMs for PBMs; the standard Email 5 funnel doesn't apply.
+- No Founding Member pitch. Don't sell a deeper tier to a subscriber who isn't a buyer-shape match.
+- No "I'd love to hear what you're working on" warmth. Polite, professional, neutral, brief.
+- An explicit refund mention. Substack handles it cleanly; signaling that the door is open if they decide they don't want the content matures the relationship.
+
+**When to use this variant:**
+
+- Subscriber's name + email is identifiable as a PBM employee (Substack subscriber detail panel often shows company; supplement with a quick LinkedIn check)
+- Includes: Big-3 PBM employees (Caremark, ESI, OptumRx), regional / mid-size PBM employees (Benecard, Navitus, MedImpact, Capital Rx, etc.), PBM-owned specialty pharmacies, rebate aggregators (Ascent, Emisar, Zinc)
+- Does NOT include: pharmacy benefit consultants who happen to also have PBM-side experience (use the industry-contact variant instead), benefits brokers who work with PBMs as vendors (industry-contact variant), or independent specialty pharmacies / TPAs / payer-side employees (standard primary email)
+
+**Operational note (do not include in sent email):**
+
+Log the subscriber's PBM affiliation in the Substack subscriber detail panel notes field. If a pattern emerges (e.g., 3+ PBM-employee paid subs within 30 days), revisit the paid-tier content positioning to ensure no inadvertent PBM-friendly drift. Adversarial framing on the paid tier is a feature, not a bug.
+
 ---
 
 *Last updated: May 11, 2026.*
