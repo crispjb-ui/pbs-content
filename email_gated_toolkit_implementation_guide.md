@@ -532,18 +532,49 @@ The Toolkit lineup mirrors PBS's three-part service offering. Tier 1 toolkits AR
 
 **Time:** Days 8-10 (1-2 hours total)
 
-## Step 3.1 — Convert Toolkit Substack posts from paywall to email gate
+> **Two states to understand: pre-Wix bridge state and post-Wix steady state.** While Wix infrastructure is being built (Phases 1-2), Substack itself is the email-gate mechanism for Toolkit-paired posts. Once Wix goes live, the gate moves to rxbs.org and Substack returns to a pure publication role.
 
-For each of the 5 strongest Toolkit-paired Substack posts (the ones whose Toolkit has been built into Wix in Phase 2):
+## Pre-Wix bridge state (right now, until Wix funnel goes live)
+
+While Wix is in build, every Substack post that has an embedded Toolkit PDF should be gated to **Free subscribers**. This is the email-capture mechanism — reader hits the gate, enters their email, becomes a free subscriber, gets access to the post + PDF. That email becomes the entry point to the (eventually-Wix) welcome sequence.
+
+This applies to BOTH:
+
+- **Monday Toolkit-paired deep dives** (the ones with `templates/documents/week_NN_<topic>.pdf` Monday handouts)
+- **Thursday Toolkit-paired Field Notes** (the ones with `templates/documents/week_NN_thursday_<topic>.pdf` Thursday handouts per the two-handouts-per-week rule from W22 forward, plus W18 and W20 which had Thursday Toolkits earlier)
+
+Posts without an embedded Toolkit stay **Public** (no gate):
+
+- Wednesday "What Crossed My Desk" roundup — never gated
+- Thursday Field Notes that don't have a Toolkit PDF (W19, W21, W23 examples) — Public
+- Substack Notes — never gated
+- Contract Language Library — Public (SEO/discovery asset)
+
+For the gating checklist of which existing posts need the gate flipped on, see `paid_substack/transition_checklist.md`.
+
+## Post-Wix steady state (after Phase 1-2 build completes)
+
+Once `rxbs.org/toolkit/*` landing pages are live and the Wix Form is capturing emails:
+
+1. Toolkit PDFs move OUT of Substack post bodies and ONTO `rxbs.org/toolkit/<slug>` landing pages
+2. Substack posts return to **Public** access (no gate)
+3. Each Substack post containing a Toolkit reference adds a callout: "Free download at rxbs.org/toolkit/<slug>"
+4. Email capture moves from Substack subscriber list → Wix Contacts via the rxbs.org form
+
+The transition is one-time per post (remove PDF, set to Public, add callout) and happens during the Wix go-live week.
+
+## Step 3.1 — Pre-Wix: gate Toolkit-paired Substack posts to Free subscribers
+
+For each Toolkit-paired post (Monday or Thursday) currently shipping with an embedded PDF:
 
 1. Open the post in the Substack editor
 2. Click the gear/settings icon (right sidebar)
 3. **Who can read this?** → change from "Everyone" or "Paid subscribers" to **"Free subscribers"**
 4. Save / Republish
 
-Now anyone visiting the post sees a "Subscribe to read" wall with an email field. They subscribe (free) → unlock the post + the embedded PDF.
+Now anyone visiting the post sees a "Subscribe to read" wall with an email field. They subscribe (free) → unlock the post + the embedded PDF. Email lands in your Substack subscriber list.
 
-## Step 3.2 — Optimize the title and subtitle for the email gate
+## Step 3.2 — Optimize the title and subtitle for the gate
 
 Substack only shows the **title + subtitle/meta description** before the gate. Make them sell the trade.
 
@@ -554,20 +585,33 @@ Substack only shows the **title + subtitle/meta description** before the gate. M
 | Title | Specific deliverable + audit framing | Channel Pricing Audit Worksheet: Three Passes Plan Sponsors Should Run This Quarter |
 | Subtitle | Proprietary anchor + free trade | The 5-line audit framework PBS uses across ~100 PBM contract reviews per year. Free download. |
 
-Update each Toolkit-paired post to follow this pattern.
+Update each Toolkit-paired post (both Monday and Thursday variants) to follow this pattern.
 
-## Step 3.3 — Add the rxbs.org landing page link inside the post
+## Step 3.3 — Post-Wix: convert from Free subscribers gate to rxbs.org callout
 
-Above the embedded PDF in each Toolkit Substack post, add a callout block:
+This step runs ONCE, the week Wix goes live. For each Toolkit-paired Substack post:
 
-> **Prefer to download the worksheet directly?**
-> Get it at rxbs.org/toolkit/channel-pricing — same PDF, sent to your inbox.
+1. Open the post in the Substack editor
+2. **Remove the embedded PDF** from the post body
+3. Add a callout block where the PDF used to be:
 
-This gives readers two paths:
-- **Path A**: Subscribe to Substack (free) → unlock + download PDF (Substack captures the email)
-- **Path B**: Click through to Wix landing page → download PDF (Wix captures the email + enrolls in welcome sequence)
+   > **Free download:** Get the [Toolkit name] (PDF, 2 pages) at **rxbs.org/toolkit/<slug>**.
 
-Path B is the higher-conversion path because the welcome sequence kicks in. Both are valid; both put the email into a system PBS controls.
+4. **Who can read this?** → change back to **Everyone** (public, no gate)
+5. Save / Republish
+
+The Substack post is now public; email capture moves to rxbs.org/toolkit/<slug>. Existing Substack subscribers who already accessed the post (during the Free Subscribers gate window) keep their access — no retroactive loss.
+
+## Step 3.4 — First-comment cross-promo update
+
+The LinkedIn first-comment cross-promo on Thursday Toolkit-paired posts also changes between bridge and steady state:
+
+| State | LinkedIn first comment |
+|---|---|
+| **Pre-Wix (bridge)** | Single link to Substack Field Note (the gate captures the email) |
+| **Post-Wix (steady)** | Two-link pattern: "Read the Field Note: [SUBSTACK URL]" + "Download the worksheet directly: rxbs.org/toolkit/<slug>" — gives reader two paths, both end in email capture |
+
+Same one-time content sweep on each Thursday post the week Wix goes live: add the rxbs.org link to the first comment.
 
 ---
 
