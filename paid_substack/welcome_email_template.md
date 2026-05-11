@@ -77,54 +77,37 @@ Replace the closing paragraph's "If there's a specific question or scenario" wit
 
 ## Variant: if the subscriber is a PBM employee
 
-Replace the body entirely with a measured, professionally-direct version. PBS doesn't treat the PBM industry as monolithic. The firm maintains a roster of **5 preferred partner PBMs** that have been vetted on transparency, audit rights, and pass-through rebate structure, and those partners deliver the best pricing to PBS clients. A PBM-employee subscriber is a legitimate part of the audience and a potential preferred-partner-pipeline contact. Two valid framings for why a PBM employee is reading: (a) they're studying the bar PBS sets for the partner roster and want to sharpen their offering against it, or (b) they're gathering competitive intelligence on what informed plan sponsors are asking. Both framings are fine; the content is already public on LinkedIn and the free Substack tier, and PBS's job is to make plan sponsors more knowledgeable. If the worst case (b) outcome is that a PBM has to compete harder on transparency because their clients are now better-informed, that's a win for PBS clients regardless of who paid the $80.
+PBS maintains a roster of 5 preferred partner PBMs vetted on transparency, audit rights, and pass-through rebate structure. A PBM-employee subscriber is a legitimate part of the audience and a potential preferred-partner-pipeline contact. Treat the subscription as the warm welcome it is. Do NOT lead with defensive editorial position-stating; do not write "from the other side of the table" framing into the body of a welcome email.
 
-**Subject:** `Welcome to Benefit Blind Spots paid`
+Use the **primary template body verbatim** with two paragraph swaps:
 
-**Sender:** `Ginny Crisp <team@rxbs.org>`
+**Swap 1 — replace the "Coming in Q3" paragraph** (the one starting "Coming in Q3 — A few more pieces I'm still shaping") with a softer version that omits the "office hours" reference (avoids implying the subscriber would attend a session where plan sponsors discuss their PBM):
 
-**Body:**
+> "**Coming later this year** — A few more pieces I'm still shaping: 'What's Changing' mid-month alerts when something material moves (a new state PBM regulation, a manufacturer program change that hits a covered specialty drug, a court ruling on fiduciary scope). I'll write you separately when those are firm."
 
----
+**Swap 2 — replace the engagement-ask paragraph** (the one starting "If there's a specific question or scenario you'd want me to address") with a warm preferred-partner mention:
 
-[First name],
+> "A small note since I saw your [PBM name] affiliation: PBS works with a roster of preferred partner PBMs we've vetted and recommend to clients. The criteria we look for are transparent pricing, full audit rights, and pass-through rebate structures. If it would ever be useful to compare notes on how [PBM name] is positioned on those axes, I'd welcome the conversation. The partner roster grows by demonstrated alignment, not by inbound pitch, so there's no sales ask on either side."
 
-Thank you for upgrading to a paid subscription to Benefit Blind Spots. I write a personal welcome to every new paid subscriber, and I want to be straightforward about how PBS thinks about subscribers who sit on the PBM side of the table.
+Everything else (greeting, soft-launch honesty, the "what's in the queue" content, the "Not changing" reassurance paragraph, sign-off) stays the same as the primary template.
 
-The publication is written for self-funded plan sponsors and the brokers and consultants who advise them. The content is plan-sponsor-aligned and is openly critical of PBM contracting practices that move costs sideways. That said, PBS doesn't treat the PBM industry as monolithic. We maintain a roster of preferred partner PBMs we recommend to clients, typically because they offer transparent pricing, full audit rights, and pass-through rebate structures. Those partners deliver the best pricing for our clients.
+**Why the variant is this light:**
 
-You'll receive everything every other paid subscriber receives: biweekly *"What I'd Ask"* contract scenarios (first paid one ships this Tuesday), the quarterly *"What We're Seeing"* aggregate report (Q2 late June), and the monthly subscriber Q&A thread starting in June. No insider access, no advance copy. The Monday deep dive, Wednesday roundup, Thursday Field Note, LinkedIn Newsletter, and the Toolkit handouts stay free.
-
-If the subscription isn't what you expected, Substack handles refunds cleanly inside the subscription settings; no hard feelings. If, on the other hand, you'd want to share how [PBM name] is positioned on the transparency, audit-rights, and pass-through axes PBS evaluates against, I'd welcome that conversation. The preferred partner roster grows by demonstrated alignment, not by inbound pitch, so this isn't a sales call on either side, just a useful exchange when the alignment is real.
-
-Ginny Crisp, PharmD
-Founder, Prescription Benefit Solutions
-team@rxbs.org · rxbs.org
-
----
-
-**What's in this variant vs. the primary template:**
-
-- **No** "what scenarios do you want me to cover" engagement ask. The Q&A thread is the right surface for any topic ask; editorial direction stays independent of subscriber-side input from any party with a competitive interest.
-- **No** Contract Review consulting pitch. PBS does not audit PBMs for PBMs; the Email 5 funnel doesn't apply to this buyer shape.
-- **No** Founding Member pitch. Not a buyer-shape match.
-- **Yes**, an open door to a preferred-partner-alignment conversation. PBS has 5 preferred partner PBMs already; the path from PBM-employee subscriber to vetted partner is real and worth naming explicitly when the subscriber is from a PBM PBS doesn't yet have a relationship with.
-- **Yes**, an explicit refund mention. Substack handles it cleanly; signaling the door is open either way matures the relationship.
-
-**Why "competitive intelligence gathering" isn't a problem:**
-
-If a PBM employee is reading the paid tier to study what informed plan sponsors are asking, that's a feature of the strategy, not a leak. The content is already public on LinkedIn and the free Substack tier; the paid tier adds operational depth, not secrets. The downstream effect of a PBM employee learning the bar PBS sets is one of: (1) they sharpen their offering and become a preferred-partner candidate, which is a win, or (2) they sharpen their offering and don't, but PBS's clients still benefit because the PBM has to compete harder on transparency, which is still a win. The losing case (PBM learns nothing, gains nothing, but still pays $80) is also fine. The only outcome PBS protects against is letting a PBM-side reader influence editorial direction, which is what the "no engagement ask" rule above is for.
+- A PBM-employee subscriber is a paying reader. The welcome should feel like one.
+- The two swaps above handle the only two material differences: (1) the office-hours reference doesn't make sense for a PBM-side reader, and (2) the topic-ask gets replaced with a preferred-partner door-opener instead.
+- The editorial-direction guardrail (no "what scenarios should I cover") is preserved by Swap 2; the Q&A thread is the surface for any topic input from any subscriber.
+- Do NOT add a refund mention, do NOT add "the content is openly critical of PBM contracting practices" defensive framing, do NOT call out their PBM affiliation in the opening. The primary template's warmth carries; the variant just adjusts where needed.
 
 **When to use this variant:**
 
 - Subscriber's name + email is identifiable as a PBM employee (Substack subscriber detail panel often shows company; supplement with a quick LinkedIn check)
 - Includes: Big-3 PBM employees (Caremark, ESI, OptumRx), regional / mid-size PBM employees (Benecard, Navitus, MedImpact, Capital Rx, etc.), PBM-owned specialty pharmacies, rebate aggregators (Ascent, Emisar, Zinc)
 - Does NOT include: pharmacy benefit consultants who happen to also have PBM-side experience (use the industry-contact variant instead), benefits brokers who work with PBMs as vendors (industry-contact variant), or independent specialty pharmacies / TPAs / payer-side employees (standard primary email)
-- If the subscriber is from a PBM **already** on PBS's preferred partner roster, skip this variant entirely and send a warmer note that acknowledges the existing relationship
+- If the subscriber is from a PBM **already** on PBS's preferred partner roster, skip this variant entirely and write a personal note that names the existing relationship warmly
 
 **Operational note (do not include in sent email):**
 
-If a PBM-employee subscriber engages on the preferred-partner-alignment question, route the conversation through the same evaluation lens PBS already uses for partner candidates (transparent pricing, full audit rights, pass-through rebate structure). PBM subscribers are not adversaries by default; the adversary is the practice, not the firm.
+If a PBM-employee subscriber engages on the preferred-partner-alignment question, route the conversation through PBS's existing partner-evaluation lens (transparent pricing, full audit rights, pass-through rebate structure). PBM subscribers are not adversaries by default; the publication critiques the practice, not the firm.
 
 ---
 
