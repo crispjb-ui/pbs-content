@@ -102,8 +102,13 @@ Everything else (greeting, soft-launch honesty, the "what's in the queue" conten
 
 - Subscriber's name + email is identifiable as a PBM employee (Substack subscriber detail panel often shows company; supplement with a quick LinkedIn check)
 - Includes: Big-3 PBM employees (Caremark, ESI, OptumRx), regional / mid-size PBM employees (Benecard, Navitus, MedImpact, Capital Rx, etc.), PBM-owned specialty pharmacies, rebate aggregators (Ascent, Emisar, Zinc)
-- Does NOT include: pharmacy benefit consultants who happen to also have PBM-side experience (use the industry-contact variant instead), benefits brokers who work with PBMs as vendors (industry-contact variant), or independent specialty pharmacies / TPAs / payer-side employees (standard primary email)
+- Does NOT include: pharmacy benefit consultants who happen to also have PBM-side experience (use the industry-contact variant instead), benefits brokers who work with PBMs as vendors (industry-contact variant), independent specialty pharmacies / TPAs / payer-side employees (standard primary email), **or self-funded benefits cooperative managers / captive operators (Benecon, Hilb Group, World Insurance Associates, RogersGray, etc.) — these are plan-sponsor-side fellow travelers and should get the industry-contact variant, not this one**
 - If the subscriber is from a PBM **already** on PBS's preferred partner roster, skip this variant entirely and write a personal note that names the existing relationship warmly
+
+**Quick disambiguation when the company name isn't obviously a PBM:**
+
+If the company sells benefits, manages a consortium, runs a captive, places self-funded coverage, or operates a benefits-consulting platform → industry-contact variant (or primary).
+If the company adjudicates prescription claims, owns mail-order or specialty dispensing, negotiates manufacturer rebates, sets formularies, or appears on the standard PBM lists (Big-3, mid-size, transparent-positioned) → this variant.
 
 **Operational note (do not include in sent email):**
 
