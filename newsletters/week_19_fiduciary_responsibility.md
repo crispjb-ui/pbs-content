@@ -439,7 +439,66 @@ Ginny Crisp breaks down what the PBM quarterly report never flags and how a mid-
 ---
 
 ## Post 66 - Wednesday 8:30 AM
+### "A PBM Trade Association Told a State Legislature Spread Pricing Is Good for Employers." (Strong POV Text)
+
+**Format:** Text Post (Strong POV)
+**Pillar:** Transparency & Industry Education
+**Word Count:** ~190 words
+**Schedule:** Wednesday May 13, 2026, 8:30 AM EST
+
+> **NOTE (added May 11, 2026):** This post replaces the originally-scheduled "You Are an ERISA Fiduciary" fiduciary POV (preserved below in the `[DISPLACED]` block). Reason: (a) original Wednesday was on Monday's topic (fiduciary), violating the same-week-topic-doubling principle behind the triple-distinct rule; (b) the Rhode Island PBM bills story published May 11, 2026 by Rhode Island Current includes a verbatim on-record PCMA defense of spread pricing that delivers a named-actor / dollar-comparison / proprietary-anchor combination, hitting 6-7 winning-profile traits; (c) topic is distinct from Monday (fiduciary) and Thursday (formulary questions Slot C), satisfying the triple-distinct rule. Source article: Rhode Island Current, May 11, 2026, "RI attorney general makes final push to boost enforcement powers against pharmaceutical middlemen" by Alexander Castro. Same-day Wednesday roundup (`newsletters/roundups/roundup_2026_05_12.md`) also leads with this story; the first-comment cross-promo routes there.
+
+#### Post Copy
+
+A PBM trade association recently told a Rhode Island legislative committee, on the record, that spread pricing is good for employers.
+
+"Many small and mid-sized employers select spread pricing because it gives them predictable, stable drug costs."
+
+Spread pricing is when the PBM charges your plan $100 for a drug it pays the pharmacy $20 for. The PBM keeps the $80. PCMA called that "transferring risk onto the PBM."
+
+When the middleman keeps 80% of the money, that is not risk transfer. That is just taking your money.
+
+~100 PBM contracts reviewed at PBS annually. Spread pricing language sits in most of them. Most plan sponsors do not know it is there until someone reads the definitions section out loud.
+
+Rhode Island AG Peter Neronha is trying to ban it this session. He will get fought. Watch who fights him, and ask why.
+
+The brokers and consultants I respect are the ones who flag this language at renewal, not after the year-end statement.
+
+#PBMTransparency #DrugPricing #PharmacyBenefits
+
+#### First Comment (post AFTER the post is live)
+
+More on the Rhode Island bills (and three other stories from this week) in today's *What Crossed My Desk* on Benefit Blind Spots: [insert Wednesday roundup Substack URL]
+
+#### Winning-profile trait audit
+
+- Decoder shape ✅ (partial — decodes spread pricing)
+- Dollar comparison ✅ ($100 / $20 / $80)
+- Named-actor framing ✅ (PCMA quoted verbatim, Hallemeier's name available)
+- Plan-sponsor-actionable ✅ (read definitions section, watch who fights, brokers flag at renewal)
+- Confrontational hook ✅ (PCMA quote indicts itself in paragraph two)
+- Messy infographic format ❌ (text-only, Wednesday slot)
+- First-comment Substack cross-promo ✅ (Wednesday roundup link)
+- Proprietary anchor ✅ ("~100 PBM contracts reviewed at PBS annually. Spread pricing language sits in most of them.")
+- Save-driven structure ❌ (no checklist — confrontational reveal post)
+- Single-image / photoreal aesthetic ❌ (text-only)
+
+**Trait count: 7 out of 10.** Above the 5+ minimum for the weekly winning-profile post requirement.
+
+#### Humanize Check audit
+
+- One unfakeable detail: "Spread pricing language sits in most of them. Most plan sponsors do not know it is there until someone reads the definitions section out loud" — specific PBS-context observation drawn from ~100 contract reviews. AI cannot fake.
+- One formula: confrontation / contrast (Formula 3 — Different X, Different Y, Same Z applied to the "risk transfer" claim vs reality). Not stacked with other formulas.
+- No AI-tell phrases ("Here's the thing," "The truth is," etc.). No em dashes.
+- Brokers framed as partners (closing line).
+- Sentence rhythm: long-long-short-medium-short-short-long-short-staccato-medium. Arrhythmic, reads as human.
+
+---
+
+## [DISPLACED] Post 66 — Original Wednesday Draft (PARKED FOR W26 OR W32 FIDUCIARY-THEMED WEEK)
 ### "You Are an ERISA Fiduciary. Most Employers Do Not Act Like It." (Strong POV Text)
+
+> **NOTE (added May 11, 2026):** This draft was the originally-scheduled Wednesday W19 LinkedIn POV. Replaced by the Rhode Island PBM story above because (a) Wednesday on Monday's topic violates the anti-cannibalization principle, and (b) the RI story scored higher on winning-profile traits. Park for W26 (step therapy override → fiduciary-adjacent compliance angle) or W32 (fiduciary compliance audit week — exact fit). The 5-document checklist, HR-director origin-story paragraph, and confrontational hook are all reusable. Do not delete. When repurposed, refresh: the litigation-pattern reference to current date and any rate or court-ruling specifics that age.
 
 **Format:** Text Post (Strong POV)
 **Pillar:** Broker/Consultant Resources
