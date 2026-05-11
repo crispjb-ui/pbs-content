@@ -18,7 +18,7 @@ Starting today, a subset of posts moves behind a paid subscription. Specifically
 
 Everything else stays free. The Monday deep dive, the Wednesday roundup, the Thursday Field Note, the LinkedIn Newsletter, the printable Toolkit handouts. Nothing that has shipped to date is being retroactively gated. The Contract Language Library stays free and stays public.
 
-The paid tier exists for readers who want the operational scenario work alongside the published commentary, not as a tax on the regular publication. $100/year. A founding tier at $300/year is open with a 100-subscriber cap if you want to support what's being built here directly.
+The paid tier exists for readers who want the operational scenario work alongside the published commentary, not as a tax on the regular publication. $80/year, $8/month, or $240/year for a Founding Member subscription if you want to support what's being built here directly.
 
 If the free version is the right altitude for you, nothing changes. Thank you for reading.
 
@@ -28,7 +28,7 @@ If the free version is the right altitude for you, nothing changes. Thank you fo
 
 Small Benefit Blind Spots update.
 
-The biweekly *"What I'd Ask"* scenarios, the quarterly *"What We're Seeing"* report, and a new monthly subscriber Q&A thread are moving to a paid tier. $100/year, founding tier at $300/year (100-sub cap).
+The biweekly *"What I'd Ask"* scenarios, the quarterly *"What We're Seeing"* report, and a new monthly subscriber Q&A thread are moving to a paid tier. $80/year, $8/month, Founding Member at $240/year.
 
 The Monday deep dive, Wednesday roundup, Thursday Field Note, LinkedIn Newsletter, and the Toolkit handouts stay free. Nothing already shipped is being retroactively gated. The Contract Language Library stays free.
 
@@ -40,7 +40,7 @@ If the free version is the right altitude for you, nothing changes. Thank you fo
 
 This morning's post — *"What I'd Ask: [scenario title]"* — is the first paid-only piece in a new layer of Benefit Blind Spots.
 
-Three formats moving to paid going forward: the biweekly *"What I'd Ask"* scenarios, the quarterly *"What We're Seeing"* aggregate report (Q2 in late June), and a monthly subscriber Q&A thread (starting June). $100/year, with a $300 founding tier capped at 100 subscribers.
+Three formats moving to paid going forward: the biweekly *"What I'd Ask"* scenarios, the quarterly *"What We're Seeing"* aggregate report (Q2 in late June), and a monthly subscriber Q&A thread (starting June). $80/year or $8/month, with a Founding Member tier at $240/year.
 
 The Monday deep dive, Wednesday roundup, Thursday Field Note, LinkedIn Newsletter, and the Toolkit handouts stay free. Nothing already shipped is being retroactively gated. The Contract Language Library stays free.
 
@@ -51,7 +51,8 @@ Thank you for reading either way.
 ## Pre-publish checklist
 
 - [ ] "What I'd Ask" #2 is published and live (paid Substack gate verified working — try viewing as a free subscriber to confirm the upgrade prompt fires)
-- [ ] Confirm $100 standard / $300 founding pricing is set in Substack publication settings
+- [ ] Confirm pricing is set in Substack publication settings: Annual $80 / Monthly $8 / Founding Member $240 (flexible founding pricing enabled)
+- [ ] **Edit the Substack "Paid subscriber benefits" panel:** remove the "Printable Plan Sponsor Toolkit handouts" line. Toolkits stay free as the lead-magnet layer; if they appear in the paid benefits panel, the signup page contradicts the publication's actual gating architecture. Replace with paid-only deliverables: "Biweekly *What I'd Ask* contract scenarios", "Quarterly *What We're Seeing* report", "Monthly subscriber Q&A thread".
 - [ ] Confirm Substack publication account is the publisher (not Ginny's personal account)
 - [ ] Pick one of versions A / B / C based on word-count tolerance and whether the Note ships same-time as the post
 - [ ] Schedule for mid-morning (around 9:30 AM EST, after the post itself is at full distribution)
@@ -67,17 +68,17 @@ Thank you for reading either way.
 
 > No. The W15 and W17 "What I'd Ask" posts that already shipped stay free, exactly as they were. The paid gate applies going forward — starting with W19 (today's post) and every "What I'd Ask" after it.
 
-**"What if I can't afford the $100?"**
+**"What if I can't afford the $80?"**
 
 > No problem at all. The free version covers four pieces a week — the Monday deep dive, the Wednesday roundup, the Thursday Field Note, the LinkedIn Newsletter — plus every Toolkit handout. The free version is the publication. The paid tier is an additional layer.
 
-**"How do I become a founding subscriber?"**
+**"How do I become a Founding Member?"**
 
-> The founding tier is $300/year, capped at 100 subscribers. You can upgrade from the standard tier inside Substack's subscription settings. It's open now; first-come, first-served until 100 is reached.
+> The Founding Member tier is $240/year. You can upgrade from the standard tier inside Substack's subscription settings, and Substack also allows you to set a custom amount above $80 if you want to support at a level between standard and Founding.
 
 **"Is there a monthly option?"**
 
-> Not yet. I'm keeping it annual-only at launch to keep the operations simple. If there's clear demand, I'll revisit it in Q3.
+> Yes, $8/month. Either tier gets you the same paid content; the monthly option exists for readers who want to try the paid layer before committing to annual.
 
 ---
 

@@ -65,30 +65,21 @@ The Sandeep Desai inquiry (May 9, 2026) validated the demand for Layer 2. He's a
 
 ## Pricing strategy
 
-### Recommended launch pricing
+### Launch pricing (live as of May 11, 2026)
 
 | Tier | Price | What's included |
 |---|---|---|
-| **Free** | $0 | Monday deep dive · Wednesday roundup · Thursday Field Note · Substack Notes · Contract Language Library |
-| **Premium** | $100/year ($10/month) | Free tier + everything in the "moves to paid" list above |
-| **Founding member** | $300/year (one-time tier) | Premium + listed as founding member + lifetime access to monthly office hours · only available for the first 100 subscribers |
+| **Free** | $0 | Monday deep dive · Wednesday roundup · Thursday Field Note · Substack Notes · Contract Language Library · every Toolkit handout (the lead-magnet layer) |
+| **Annual** | $80/year | Free tier + everything in the "moves to paid" list below |
+| **Monthly** | $8/month | Same content as Annual, monthly billing for readers who want to try the layer before committing annually |
+| **Founding Member** | $240/year (flexible founding pricing enabled, so subscribers can choose any amount above $80) | Annual benefits + Founding-tier recognition + direct response from Ginny on contract questions (time permitting) + early access to new Toolkits |
 
-### Why $100/year (not $80)
+### Pricing rationale
 
-Sandeep proposed $80/year unprompted, which is a useful data point — it tells us $80 is at the lower bound of what informed buyers expect. But:
-
-- **B2B professional development pricing is not consumer pricing.** Most analogous B2B newsletter paid tiers ($Stratechery, Heard On The Street, Drug Channels) sit at $100-300/year.
-- **$100 is psychologically cleaner than $80** — it implies more value, signals "real B2B product," and gives room for end-of-year discount promotions ($79 holiday pricing reads as a discount from $100).
-- **The Founding Member tier at $300** captures the buyers who want to support PBS specifically and value the office-hours access. Limit to 100 founders. At even 50 founders, that's $15K of upfront cash flow that funds the next year of operations.
-- **Volume discount is unnecessary** at this scale. Don't offer team plans until you have a critical mass of individuals.
-
-### Sandeep specifically
-
-Honor his $80 quote. He inquired before the paid tier was officially launched. Reply:
-
-> "Subscription at $80/year for the first year, $100/year on renewal. I'll send the activation link when we turn on the paid tier (target: Q3 2026)."
-
-Do this for any inbound inquiry that arrives before paid tier launches. Limit to ~10 of these "pre-launch grandfathered" subscribers and close it once paid is live.
+- **$80/year matches reader expectation.** Sandeep volunteered $80 unprompted, which validates this as the price point informed buyers expect for a niche B2B publication. The original draft of this plan recommended $100; reverted to $80 because (a) it's already the configured price in Substack, (b) the first paid conversion validated demand at this rate without resistance, and (c) the Founding Member tier captures upside from buyers who want to pay more.
+- **$8 monthly is a soft on-ramp.** Pricing is 20% above the annual rate when annualized ($96/yr equivalent), which is standard for monthly-vs-annual incentive structures.
+- **$240 Founding Member** at the recommended price, with **flexible pricing enabled** so readers can set custom amounts above $80. No hard 100-subscriber cap configured; this is intentional, since the tier signals support level rather than scarcity.
+- **No retroactive pricing discounts.** Anyone who paid $80 before a future price change keeps their rate at Substack's renewal terms. No "founding-year locked" framing needed because the standard rate is already $80.
 
 ---
 
@@ -115,7 +106,7 @@ If any of these aren't true at the planned launch date, push the launch. The pai
 Operational setup before any subscriber sees a paywall:
 
 1. **Substack admin → Settings → Payments** → enable paid subscriptions
-2. **Set pricing tiers**: Free, Premium $100/yr ($10/mo), Founding $300/yr
+2. **Set pricing tiers**: Free, Annual $80/yr ($8/mo), Founding Member $240/yr (flexible founding pricing enabled). **NOTE: pricing is already configured in Substack as of May 11, 2026; this step is verification only.**
 3. **Stripe connection** (Substack handles this; verify bank account is set)
 4. **Tax setup**: confirm 1099 receipt and any state-level tax obligations
 5. **Update the publication "About" page** to mention the paid tier without selling hard
@@ -132,10 +123,10 @@ Limit visibility. Don't run an aggressive launch campaign — let the paid tier 
 
 1. **Day 1 of soft launch:** publish the launch announcement post (free tier sees it)
    - Title: "A premium tier for Benefit Blind Spots — what's coming"
-   - Content: the "moves to paid" map above, the pricing, the "founding member" offer (capped at 100)
+   - Content: the "moves to paid" map above, the pricing, the Founding Member offer
    - CTA: subscribe link
 2. **Day 1 (same day):** send the first "What We're Seeing Q[X] 2026" report to all paid subscribers (which is zero on Day 1 — but the post is published behind the paywall and waiting)
-3. **Day 1-7:** monitor signups daily. Founding-member tier should start filling. Target: 25-50 founders in week 1.
+3. **Day 1-7:** monitor signups daily. Founding Member tier should start filling. Target: 25-50 founders in week 1.
 4. **Day 8-14:** ship the first "What I'd Ask" subscriber-only scenario
 5. **Day 15-21:** ship the first "What's Changing" alert
 6. **Day 15:** send a paid-only welcome email to all paid subscribers introducing the office hours schedule
@@ -152,7 +143,7 @@ Visibility expands. Active promotion.
 2. **Day 46:** Substack Notes thread highlighting the paid-tier benefits
 3. **Day 46-50:** email blast to the LinkedIn Newsletter subscriber base (cross-promote)
 4. **Day 50-60:** mention the paid tier in the Tuesday LinkedIn first-comment cross-promo (subtle, not aggressive — "Substack premium subscribers got the operational follow-on this week")
-5. **Day 60:** founding-member tier closes (100 cap reached or 60 days expired, whichever comes first)
+5. **Day 60:** Founding Member tier remains open (no hard cap configured; flexible founding pricing stays enabled indefinitely)
 6. **Day 60-90:** steady growth. New paid subscribers via:
    - Welcome sequence Email 5 (mentions paid tier alongside Contract Review)
    - Ongoing LinkedIn Newsletter promotion
@@ -196,7 +187,7 @@ Track in a simple Google Sheet or Substack admin → Stats. Refresh monthly.
 | Metric | Goal Q1 | Goal Q2 | Goal Q4 (year 1) | Action threshold |
 |---|---|---|---|---|
 | Paid subscribers (cumulative) | 100 | 250 | 500 | Below 50% of goal at any quarter → audit content quality + value prop |
-| Founding members (cap 100) | 50 | 100 (closed) | — | If under 25 by Day 45 → soft-launch value prop is weak |
+| Founding Members | 10 | 25 | 50 | If under 5 by Day 45 → Founding-tier value prop or visibility is weak |
 | Monthly recurring revenue (MRR) | $850 | $2,100 | $4,200 | Calculated as paid subs × avg subscription value ÷ 12 |
 | Annual recurring revenue (ARR) | $10K | $25K | $50K | At $50K ARR, paid tier covers ~25% of a part-time staffer to operate |
 | Free → paid conversion rate | 2-3% | 3-5% | 5-7% | Below 2% sustained → free content is too good (cannibalization) or paid content is too thin |
@@ -216,10 +207,10 @@ Paid tier promotion happens at three touch points within the existing Wix system
 Email 5 currently names the Contract Review as the entry-product offer. Once paid tier is live, update Email 5 to also mention paid Substack:
 
 > "Two ways forward:
-> (1) Stay free with Substack, or upgrade to the premium tier ($100/yr) for monthly Q&A, quarterly 'What We're Seeing' reports, and the Premium Toolkit derivatives.
+> (1) Stay free with Substack, or upgrade to paid ($80/yr or $8/mo) for biweekly *What I'd Ask* contract scenarios, the quarterly *What We're Seeing* report, and the monthly subscriber Q&A thread.
 > (2) Consider a Contract Review with PBS for the integrated audit + recommendation."
 
-Same email, two CTAs at different price points: $100 (Substack premium) and $10-50K (Contract Review). Self-selecting.
+Same email, two CTAs at different price points: $80 (Substack paid) and $10-50K (Contract Review). Self-selecting.
 
 ### 2. Substack post first-comment cross-promo (LinkedIn)
 
@@ -233,7 +224,7 @@ Subtle, not aggressive. Maybe 1-in-4 first-comment posts mention the paid tier; 
 
 The Pharmacy Benefits Briefing on LinkedIn Newsletter (~836 subs) is the warmest audience for paid tier conversion — they've already opted into ongoing Ginny content. Once paid tier is live, add a recurring footer to the LinkedIn Newsletter:
 
-> "**Subscriber upgrade:** premium Substack tier at $100/year delivers monthly Q&A, quarterly industry reports, and Premium Toolkit derivatives. Sign up: [link]"
+> "**Subscriber upgrade:** paid Substack tier at $80/year delivers biweekly *What I'd Ask* contract scenarios, the quarterly *What We're Seeing* report, and the monthly subscriber Q&A thread. Sign up: [link]"
 
 Drives roughly 3-5% conversion from LinkedIn Newsletter sub → paid Substack sub over time.
 
@@ -263,13 +254,13 @@ If the paid tier doesn't hit 150+ subs by end of year 1, evaluate whether to sca
 
 | Risk | Mitigation |
 |---|---|
-| Free subscribers feel bait-and-switched ("I subscribed for the deep dives, now you want $100/yr") | Keep all current free content free. Paid tier adds only NEW content types. Be explicit in launch announcement. |
+| Free subscribers feel bait-and-switched ("I subscribed for the deep dives, now you want $80/yr") | Keep all current free content free. Paid tier adds only NEW content types. Be explicit in launch announcement. |
 | Cannibalization of Toolkit lead-magnet funnel | Toolkits stay free. Paid tier doesn't gate any audit framework. The free → paid path is a separate journey from the lead-magnet path. |
 | Low conversion (free → paid) | Soft launch validates value prop before public launch. If sub goal is hit by Day 45, content is landing. If not, pause public launch and iterate. |
 | High churn after first year | Monitor month-over-month engagement. If paid post open rate drops below 40%, content frequency or relevance is wrong. |
 | Office hours unsustainable at scale | Cap attendance per session at 25; if waitlist grows, add a second monthly session. Recording covers people who can't attend live. |
 | Founding member promise fatigue | Limit founder benefits to lifetime office-hours access + acknowledgment post. Don't over-promise (e.g., don't promise quarterly 1:1s — that doesn't scale at 100 founders). |
-| Pricing confusion at renewal | Auto-renew at the Premium $100 rate (not the Founding $300). Founding-member status is one-time, not recurring. Clearly explain at signup. |
+| Pricing confusion at renewal | Substack auto-renews each tier at its stated rate (Annual $80 → $80 renewal; Founding $240 → $240 renewal). Founding Member status is recurring at the chosen rate unless the subscriber actively downgrades. |
 
 ---
 

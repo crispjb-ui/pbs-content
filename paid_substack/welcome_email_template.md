@@ -6,7 +6,7 @@
 
 > **Pre-send checklist:**
 > - [ ] Confirm the new subscriber's first name (Substack subscriber detail panel)
-> - [ ] Confirm the price they paid ($80 grandfathered, or $100 standard once pricing is public)
+> - [ ] Confirm which tier they purchased (Annual $80, Monthly $8, or Founding Member $240)
 > - [ ] Confirm whether they came in through a specific post (the Substack analytics referrer often shows which post triggered the upgrade)
 > - [ ] Personalize the second paragraph with the post-specific reference if available
 
@@ -28,7 +28,7 @@
 
 Thank you for upgrading to a paid subscription to Benefit Blind Spots. I read every reply to these and I wanted to write you personally before the autoresponder takes over.
 
-A bit of honesty about where you've landed: the paid tier is in soft launch right now. You came in early. I haven't done a formal announcement, the pricing page is still being built, and most of what you'll receive going forward starts shipping over the next two weeks. You're getting in at the $80 founding-year rate; that rate is locked for you as long as your subscription stays active. The standard rate when the tier is announced publicly will be $100/year.
+A bit of honesty about where you've landed: the paid tier is in soft launch right now. You came in early. I haven't done a formal announcement, and most of what you'll receive going forward starts shipping over the next two weeks. The annual rate is $80/year, the monthly is $8, and the Founding Member tier is $240/year for readers who want to support the publication directly. Your subscription is active now; nothing else to do on your side.
 
 Here's what's already in the queue for paid subscribers:
 
@@ -57,9 +57,9 @@ team@rxbs.org · rxbs.org
 - No em dashes; commas, colons, semicolons, periods, or parentheses only.
 - "I read every reply" is the posture, not a flourish. Mean it.
 - Acknowledge the soft-launch state honestly. Do not oversell what's already shipping vs. what's coming.
-- Honor the $80 grandfathered price. If someone paid $80 before the public $100 price was set, that price is locked for them.
-- No "limited spots" or "founding member" urgency theatrics. The 100-cap founding tier exists, but this isn't the email to pitch it.
-- The ask in the last paragraph (reply with a question or scenario) is the conversion to engagement. Founding-year readers who reply once stay longer.
+- Pricing is set in Substack: Annual $80, Monthly $8, Founding Member $240 (flexible founding pricing enabled, no hard cap configured). Do not invent grandfathered or discount framing. $80 IS the standard published rate.
+- No "limited spots" or scarcity theatrics on the Founding Member tier. Mention it once in the body as an option; do not pitch it.
+- The ask in the last paragraph (reply with a question or scenario) is the conversion to engagement. Early readers who reply once stay longer.
 
 ## Variant: if the subscriber came in through a specific post
 
@@ -67,7 +67,7 @@ Replace the second paragraph's opening with a reference to the post they came in
 
 > "I saw you upgraded after [reading this week's fiduciary deep dive / the Channel Pricing Field Note / the Carve-Out scorecard]. That's useful signal for me — it tells me which kind of content is doing the heavy lifting toward upgrade. Thank you for that."
 
-Keep the rest of the paragraph the same (soft-launch honesty, $80 rate lock, $100 standard).
+Keep the rest of the paragraph the same (soft-launch honesty, paid-tier scope, what's coming).
 
 ## Variant: if the subscriber is a known industry contact (broker, consultant, vendor, peer pharmacist)
 
