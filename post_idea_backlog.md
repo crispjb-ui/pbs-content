@@ -19,6 +19,7 @@ Raw post concepts captured from competitive intelligence (LinkedIn comment monit
 | ID | Working title | Pillar | Format candidates | Source observation | Status |
 |----|--------------|--------|---------------------|---------------------|--------|
 | PI-01 | Five contract-side levers on GLP-1 spend that come before carving it out of the plan | Cost Containment Strategies / PBM Contract Insights | Wednesday text post (confrontational) or Thursday messy infographic Slot A | Mike Athas LinkedIn sales pitch (May 13, 2026) on supplemental GLP-1 carve-outs as renewal-pressure relief. PBS view: carve-outs reclassify cost rather than reduce it; the contract-side levers on GLP-1 spend itself are unaddressed by carve-out approach. | available |
+| PI-02 | "Two years out of date" is the medical-side problem. Pharmacy data has a different lag profile. | Transparency & Industry Education / PBM Contract Insights | Wednesday text post (data/transparency frame) or Thursday messy infographic | Kavin Williams LinkedIn sales pitch (May 14, 2026) for METRA platform claiming employer-side data lags carrier-side data by two years. PBS view: medical-side claims lag is real, but pharmacy data has a structurally different lag profile (rebate flow, GPO fees, manufacturer payments take 6-12 months to land post-dispense; some line items never land in standard reporting without specific data request). | available |
 
 ---
 
@@ -54,3 +55,40 @@ Raw post concepts captured from competitive intelligence (LinkedIn comment monit
 - Yesterday's comment on Louise Short post (May 8, 2026) deployed the rebate-eligibility-by-dosing point (Lever 1) at comment depth — full post depth is unshipped
 - Yesterday's comment on Aaron Cichy post (May 13, 2026) deployed the "pharmacy spend underneath medical-side funding-model alternatives" framing — adjacent but distinct angle
 - Yesterday's comment on Jonathan Pearlstein post deployed the broader GLP-1 contract levers framing at high-altitude — this concept goes one level deeper into the specific five
+
+---
+
+## PI-02: "Two years out of date" is the medical-side problem. Pharmacy data has a different lag profile.
+
+**Source observation:** Kavin Williams (founder, METRA platform) ran a long-form CFO-targeted LinkedIn post pitching METRA as the fix for healthcare data lag. Headline claim: American employers will overpay $400B because they negotiate with data two years out of date. Pitch: "METRA delivers the same data the carrier already has, twelve months earlier, on the employer's side of the table." The post cited Mercer ($16,501/employee 2024), CDC (90% of spend from predictable chronic conditions), Aon (9.5% gross trend 2026), and name-dropped Jamie Dimon's Haven failure, Marc Benioff, Howard Schultz, and Business Roundtable to build credibility. The pitch is medical-side framed throughout.
+
+**Why PBS should write this:** Kavin's "two years out of date" framing is correct on the medical side and is going to circulate in CFO/CHRO circles as the explanatory frame for healthcare data problems. Pharmacy data lags for structurally different reasons that no medical-side platform solves, and the PBS audience (CFOs at self-funded employers) needs to know the pharmacy-side lag is its own problem with its own fix. Owning the distinction publicly positions PBS as the authority on what medical-side data platforms don't cover.
+
+**Hook candidate (Wednesday text post):**
+
+> The "two years out of date" framing is the medical-side problem. Pharmacy data has a different lag profile, and most platforms built to fix medical data don't touch it.
+
+**Body content (in approximate order):**
+
+1. **Medical-side lag is a reporting cadence problem.** Carriers adjudicate claims relatively cleanly. The data exists; it's just delivered slowly. Faster reporting cadence (the medical-side fix) closes most of that gap.
+2. **Pharmacy financial data has three lag layers, not one.**
+   - **Dispense-to-claim:** Generally fast, comparable to medical.
+   - **Rebate flow:** Manufacturer rebates often don't land in the plan sponsor's quarterly report for 6-12 months after dispense, and the rebate-to-prescription attribution is often aggregated rather than line-item.
+   - **GPO and manufacturer payment streams:** Payments routed through PBM-affiliated GPOs (Emisar for Optum, Zinc for CVS, Ascent for ESI) may never land in the standard plan sponsor report without a specific contractual data request. Some categories of manufacturer payment are not classified as "rebates" at all and live in entirely separate disclosure schedules, if those schedules exist.
+3. **The medical-side fix is reporting cadence. The pharmacy-side fix is contract-level data rights.** Faster reporting on pharmacy doesn't help if the contract's rebate definition aggregates manufacturer payments before they hit the plan-sponsor view, or if GPO fees are scoped out of the disclosure schedule entirely. The fix is the contract clause that determines what makes it into the report at all, not how fast the report ships.
+4. **What the medical-side platforms don't cover.** Most CFO-facing data platforms model medical claims trend, not pharmacy financial disclosure depth. A plan sponsor adopting a medical-side forecasting platform can close the medical-side lag while leaving the pharmacy-side lag completely untouched.
+
+**Close candidate:**
+
+> Two-year-old data is a real problem. So is data that was never going to land in the report at all. Plan sponsors solving for the first one without solving for the second one are still negotiating blind.
+
+**Format recommendation:** Wednesday confrontational text post is the primary candidate (passes confrontational hook test: names the medical-side framing as the dominant narrative, creates a knowledge gap on pharmacy-side structural lag, plan-sponsor-actionable). Thursday messy infographic on Transparency & Industry Education pillar is a secondary candidate. The three-layer pharmacy lag structure (dispense-to-claim / rebate flow / GPO and manufacturer payment streams) maps cleanly to a numbered-pill-bottle or numbered-clipboard messy infographic if Thursday is the destination.
+
+**Proprietary anchor to thread through the post:** "In the contracts we review each year, the rebate flow language and the GPO disclosure schedule together determine whether the plan sponsor will ever see the full financial picture, no matter how fast the standard report ships."
+
+**Source citation if used:** Standard industry citations (Mercer, CDC, Aon) are available if the post wants to lean on the same prestige scaffolding Kavin used. PBS-specific anchor (~100 PBM contracts reviewed annually) is the real differentiator and should lead.
+
+**Cross-references:**
+- Yesterday's Adam Fein comment (May 14, 2026) named Emisar specifically and tied contract-language gaps to the Optum transparency announcement
+- Yesterday's Chris Vanderwolk comment (May 14, 2026) named Emisar/Zinc/Ascent triplet on vendor compensation disclosure — this concept extends that observation into the data-lag/reporting-format domain rather than the disclosure-clause domain
+- Yesterday's Pearly Chen comment (May 14, 2026) deployed the "PBM quarterly report aggregates claims in formats that obscure unit economics" framing at comment depth — this concept is the data-lag-specific extension of that observation
