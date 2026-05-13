@@ -218,7 +218,7 @@ For each mechanism, classify: explicitly authorized, implicitly authorized (sile
 
 For each authorized mechanism, estimate the annual dollar magnitude on your plan. Spread is calculated from per-claim margin × claim volume; rebate retention is gross rebate × retention percentage; administrative fees are per-claim or PEPM × volume; manufacturer-direct payments are typically not disclosed and require contract-language interrogation; PBM-owned-pharmacy margin requires the specialty routing data.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four mechanisms are where the rest sits. Plan sponsors who only track administrative fees see a small fraction of total PBM compensation.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four mechanisms are where the rest sits. Plan sponsors who only track administrative fees see a small fraction of total PBM compensation.
 
 **Pass three: map the disclosure obligations**
 
@@ -597,7 +597,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 Five revenue streams flow from your plan to your PBM. Most plan sponsors only track one of them.
 
-I review approximately 100 PBM contracts a year at PBS. Aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four streams are where the rest sits. The contract authorizes them; the disclosure obligations rarely require the PBM to show them.
+I review hundreds of PBM contracts a year at PBS. Aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four streams are where the rest sits. The contract authorizes them; the disclosure obligations rarely require the PBM to show them.
 
 Five streams to know:
 
@@ -646,7 +646,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 >
 > Below that, in handwritten red pen: "The other four are where the rest sits."
 >
-> At the bottom of the right page, smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. Aggregate compensation > headline fee."
+> At the bottom of the right page, smaller handwritten red pen: "PBS reviews 100s of PBM contracts a year. Aggregate compensation > headline fee."
 >
 > Style: realistic ledger paper texture (faint green tint, slightly imperfect print alignment), soft natural daylight, no harsh shadows. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style, uneven line spacing, minor ink variation) for authenticity. Colors: pale green ledger paper, light green rule lines and columns, black printed Plex Mono labels and dollar signs, red handwritten ballpoint, dark wood desk surface visible at edges, dark fountain-pen barrel. No logos, no brand marks, no people, no PBM names.
 
@@ -724,7 +724,7 @@ Two clients called me within the same week, both unhappy with their PBM. I told 
 I watched a plan sponsor nearly switch PBMs because her account manager had turned over three times in two years. When we ran the scorecard, the contract economics were strong. The service disruption was real, but renegotiating for stability clauses was the right move, not a transition. She stayed. The contract now includes team-stability language. That language came out of a specific frustration getting translated into a specific contractual protection.
 
 **Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
-Across the approximately 100 contracts we review annually: the employers with the strongest PBM relationships are not the ones with the best PBMs. They are the ones who evaluate continuously. They benchmark. They score. They know their position. That awareness changes the dynamic even when the score says "stay."
+Across the hundreds of contracts we review each year: the employers with the strongest PBM relationships are not the ones with the best PBMs. They are the ones who evaluate continuously. They benchmark. They score. They know their position. That awareness changes the dynamic even when the score says "stay."
 
 **Afternoon (3-6 PM) — Origin Story #2:**
 A broker called me once because a client's PBM scorecard had come back at 42 and she was worried about delivering the message. I asked her to lead with the data, not the conclusion. The data was clean. The conclusion followed. The client did not shoot the messenger. The client scheduled the RFP. Bad news lands better when it shows its math.

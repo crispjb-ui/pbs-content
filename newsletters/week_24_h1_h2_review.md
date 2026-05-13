@@ -225,7 +225,7 @@ Document the notice deadline working backward from the date you want the amendme
 
 Use the decoded vocabulary from this morning's LinkedIn post. The amendment letter should reference: the specific contract clause being amended, the trigger condition that is being invoked, the proposed new language, the notice period being initiated, and the dispute resolution clause that applies if the PBM declines.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the amendment window is rarely used by plan sponsors. Most plans wait until renewal and absorb the H1 finding for two more quarters. The amendment window costs nothing to invoke and forces the PBM into a documented response — which is itself the most valuable record you can bring to renewal six months later.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the amendment window is rarely used by plan sponsors. Most plans wait until renewal and absorb the H1 finding for two more quarters. The amendment window costs nothing to invoke and forces the PBM into a documented response — which is itself the most valuable record you can bring to renewal six months later.
 
 **What to do this quarter**
 
@@ -367,7 +367,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 
 This is a new addition to Benefit Blind Spots. Each quarter, we will share aggregated patterns from the PBM contracts Prescription Benefit Solutions reviews. No client is identified. No proprietary information is disclosed. These are the trends, gaps, and opportunities we are seeing across the market.
 
-**Why we are doing this:** The employers and brokers reading this publication manage pharmacy benefits with limited visibility into what other plans look like. We see approximately 100 contracts a year. That pattern recognition is valuable, and sharing it (in aggregate) helps the entire market make better decisions.
+**Why we are doing this:** The employers and brokers reading this publication manage pharmacy benefits with limited visibility into what other plans look like. We see hundreds of contracts a year. That pattern recognition is valuable, and sharing it (in aggregate) helps the entire market make better decisions.
 
 ---
 
@@ -697,13 +697,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 **Field Note pairing:** Same-day Substack Field Note "Auditing Your Mid-Year Contract Amendment Window."
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Contract Amendment Letter Template" — `templates/documents/week_24_thursday_contract_amendment_letter.html/.pdf` (paste-ready amendment letter referencing the five decoded clauses + notice deadline calculator).
 
-**Winning-profile traits hit (9 of 10 — clears 7+ bar):** decoder shape · dollar-comparison adjacent (the cost of NOT amending mid-year) · named-actor framing (PBM as actor; contract amendment trigger as plan-sponsor lever) · plan-sponsor-actionable (amendment letter draft) · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor (~100 contracts/year) · save-driven structure · single-image photoreal aesthetic.
+**Winning-profile traits hit (9 of 10 — clears 7+ bar):** decoder shape · dollar-comparison adjacent (the cost of NOT amending mid-year) · named-actor framing (PBM as actor; contract amendment trigger as plan-sponsor lever) · plan-sponsor-actionable (amendment letter draft) · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor (hundreds of contracts a year) · save-driven structure · single-image photoreal aesthetic.
 
 #### Post Copy
 
 Five contract clauses govern mid-year amendments. Most plan sponsors never invoke any of them.
 
-I review approximately 100 PBM contracts a year at PBS. The amendment trigger clause is in nearly every contract. The amendment letter is in almost no plan sponsor's inbox. H1 review surfaces a finding; the plan absorbs it for two more quarters; the renewal cycle inherits a worse position than necessary.
+I review hundreds of PBM contracts a year at PBS. The amendment trigger clause is in nearly every contract. The amendment letter is in almost no plan sponsor's inbox. H1 review surfaces a finding; the plan absorbs it for two more quarters; the renewal cycle inherits a worse position than necessary.
 
 Five clauses to know:
 
@@ -746,7 +746,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 >
 > Top of page, handwritten black marker double-underlined: "Five amendment clauses."
 > Below in red pen: "Most plan sponsors never invoke any of them."
-> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. The window is rarely used."
+> Bottom of page, smaller red pen: "PBS reviews 100s of PBM contracts a year. The window is rarely used."
 >
 > Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white contract paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks, no people, no PBM names.
 

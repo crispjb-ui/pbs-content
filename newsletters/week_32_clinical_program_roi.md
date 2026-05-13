@@ -41,7 +41,7 @@ I share this not to dismiss PBM clinical programs. Some are genuinely valuable. 
 
 The problem is measurement. PBMs report savings using methodologies they designed, applied to their own data, with no independent verification. The employer sees a headline number. The methodology behind that number is rarely shared. And when it is shared, the assumptions often do not hold up under scrutiny.
 
-As a pharmacist, I believe in clinical programs. As a consultant who reviews approximately 100 contracts annually, I believe in verifying the numbers.
+As a pharmacist, I believe in clinical programs. As a consultant who reviews hundreds of contracts a year, I believe in verifying the numbers.
 
 **Six programs, six methodologies, six questions**
 
@@ -182,7 +182,7 @@ For each decision, document the date, the deciders, and the documentation that s
 
 The prudent-process standard does not require optimal outcomes. It requires a reasonable, documented decision-making process. For each decision in your list, ask: was the alternative considered? Was the data assessed? Was the conflict-of-interest landscape documented?
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most plan sponsors have decisions, but few have decision documentation that would survive a fiduciary audit. The decision happened; the prudent-process record did not.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most plan sponsors have decisions, but few have decision documentation that would survive a fiduciary audit. The decision happened; the prudent-process record did not.
 
 **Pass three: catalog conflict-of-interest disclosures and co-fiduciary exposure**
 
@@ -414,7 +414,7 @@ This week's Benefit Blind Spots deep dive on clinical program ROI is the operati
 
 ERISA uses five words that sound procedural. They are not. They define your personal exposure as a plan fiduciary.
 
-I review approximately 100 PBM contracts a year at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
+I review hundreds of PBM contracts a year at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
 
 1. **Fiduciary.** You, if you influence pharmacy benefit decisions. Title not required.
 2. **Prudent process.** Not "did you get the best deal" but "can you show how you decided."

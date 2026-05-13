@@ -300,7 +300,7 @@ One question remains: are you ready?
 
 The employers who worked through this quarter's content have a fundamentally different position than those arriving at renewal with the PBM's summary as their only reference. They have their own claims analysis. Their own benchmarks. A term sheet with specific language. Advisory team alignment. Communication plans for anticipated changes.
 
-Here is what I know from reviewing approximately 100 contracts annually: preparation is the variable that separates renewal outcomes. Same PBM. Same market. Different preparation. Different results. Every time.
+Here is what I know from reviewing hundreds of contracts a year: preparation is the variable that separates renewal outcomes. Same PBM. Same market. Different preparation. Different results. Every time.
 
 The readiness scorecard this week evaluates 15 factors across five categories: data and benchmarking, contract analysis, market evaluation, clinical program assessment, and negotiation preparation. Each scored 1-5. Total: 75 points.
 
@@ -504,7 +504,7 @@ Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_rev
 
 "Industry standard" is the three most expensive words in a PBM proposal.
 
-In the ~100 contracts we review annually, "industry standard" appears in almost every one. It is rarely defined. It is rarely the same number in any two contracts. It is almost always worse than what the plan could have negotiated.
+In the hundreds of contracts we review each year, "industry standard" appears in almost every one. It is rarely defined. It is rarely the same number in any two contracts. It is almost always worse than what the plan could have negotiated.
 
 "Industry-standard AWP discount." Whose industry? Large-employer market? Self-funded mid-market? National? The phrase lets the PBM reference whichever benchmark makes their number look favorable.
 
@@ -642,7 +642,7 @@ This week's Benefit Blind Spots deep dive on renewal readiness is the operationa
 
 Five items to bring to your first PBM renewal meeting. Most plan sponsors walk in with one of them.
 
-I review approximately 100 PBM contracts a year at PBS. The plan sponsors who walk into the first renewal meeting with all five items negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.
+I review hundreds of PBM contracts a year at PBS. The plan sponsors who walk into the first renewal meeting with all five items negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.
 
 Five items to know:
 
@@ -679,7 +679,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 > Note 4: "Network Configuration Audit" → red pen: "Per-channel margin and routing pattern."
 > Note 5: "Internal Priority Document" → red pen: "Your committee's frame, not the PBM's."
 >
-> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink: "PBS reviews ~100 PBM contracts a year. The first meeting is the frame. Bring the documentation."
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink: "PBS reviews 100s of PBM contracts a year. The first meeting is the frame. Bring the documentation."
 >
 > A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
 >

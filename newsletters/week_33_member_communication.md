@@ -191,7 +191,7 @@ Open your contract's transition clauses. Note the protections: how many days of 
 
 For each transition event from Pass one, audit whether the contract's protections were actually delivered. Did members on affected drugs receive the contractual continuity-of-care period? Was the transition supply provisioned? Did notifications hit the contractual cadence? Were existing PAs grandfathered?
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the transition clauses are in most contracts but rarely audited. Members report disruption; the plan sponsor assumes the PBM is following the contract; the PBM is following its operational playbook, which may or may not match the contract.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the transition clauses are in most contracts but rarely audited. Members report disruption; the plan sponsor assumes the PBM is following the contract; the PBM is following its operational playbook, which may or may not match the contract.
 
 **Pass three: catalog the gap**
 
@@ -454,7 +454,7 @@ This week's Benefit Blind Spots deep dive on communicating pharmacy changes is t
 
 Five contract clauses protect members during pharmacy benefit transitions. Most plan sponsors assume the protections execute automatically. They do not.
 
-I review approximately 100 PBM contracts a year at PBS. The transition clauses are in nearly every contract. The audit of whether the protections actually executed during the past year's changes is rarely run. Members report disruption; the plan sponsor assumes the contract was followed; the PBM is following an operational playbook that may or may not match the contract.
+I review hundreds of PBM contracts a year at PBS. The transition clauses are in nearly every contract. The audit of whether the protections actually executed during the past year's changes is rarely run. Members report disruption; the plan sponsor assumes the contract was followed; the PBM is following an operational playbook that may or may not match the contract.
 
 Five clauses to know:
 
@@ -496,7 +496,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 >
 > Top of page, handwritten black marker, double-underlined: "Five transition protections."
 > Below in red pen: "The audit is what closes the gap."
-> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. The clauses are in most contracts. The audit is in few plan sponsors' quarterly reviews."
+> Bottom of page, smaller red pen: "PBS reviews 100s of PBM contracts a year. The clauses are in most contracts. The audit is in few plan sponsors' quarterly reviews."
 >
 > Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white SPD paper (#F5F0E4), faint black plan-document text, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
 

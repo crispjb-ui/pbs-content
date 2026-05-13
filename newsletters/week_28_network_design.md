@@ -178,7 +178,7 @@ If the report's GER number is calculated differently than the contract methodolo
 
 Your contract names a GER guarantee. Calculate the gap between actual GER and guarantee. If actual is meeting or exceeding guarantee, document and move on. If actual is below guarantee, the contract typically requires remediation. Many PBMs do not flag GER misses on their own; the plan sponsor has to find the gap.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: GER guarantee misses go unreconciled on most plans because the plan sponsor never calculates the comparison. The remediation clause is in the contract; the trigger is the audit.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: GER guarantee misses go unreconciled on most plans because the plan sponsor never calculates the comparison. The remediation clause is in the contract; the trigger is the audit.
 
 **Pass three: audit the exclusion list**
 
@@ -486,7 +486,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 Five terms decide whether your generic effective rate guarantee actually applies to your plan's generic spend. The PBM controls four of them.
 
-I review approximately 100 PBM contracts a year at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
+I review hundreds of PBM contracts a year at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
 
 Five terms to know:
 
@@ -535,7 +535,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 > - Arrow to term 4, red note: "Workflow lag favors PBM."
 > - Arrow to term 5, red note: "Undefined = no remedy."
 >
-> At the bottom of the whiteboard, in smaller red-marker handwriting: "PBS reviews ~100 PBM contracts a year. The gap is rarely flagged by the PBM. The audit is how it gets flagged."
+> At the bottom of the whiteboard, in smaller red-marker handwriting: "PBS reviews 100s of PBM contracts a year. The gap is rarely flagged by the PBM. The audit is how it gets flagged."
 >
 > Style: realistic dry-erase whiteboard photography, soft natural daylight, slight glare in upper-right corner, faint surface texture and ghost-erase marks visible. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style with marker pressure variation) for authenticity. Colors: white whiteboard, black dry-erase marker for primary text, red dry-erase marker for audit annotations and the gap shading. No logos, no brand marks, no people, no PBM names.
 

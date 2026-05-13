@@ -198,7 +198,7 @@ We run disclosure audits as a standard part of our work at PBS. Three comparison
 
 Open your contract. Find the disclosure clause (sometimes a single clause, sometimes scattered across reporting, audit, and conflicts sections). For each disclosure obligation, document: what the PBM must disclose, to whom, on what cadence (annual, quarterly, on-event), and in what format.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most contracts have at least four required disclosures, but plan sponsors typically receive only one (the standard quarterly report). The other three are obligations the PBM has but rarely fulfills proactively.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most contracts have at least four required disclosures, but plan sponsors typically receive only one (the standard quarterly report). The other three are obligations the PBM has but rarely fulfills proactively.
 
 **Pass two: collect what you've actually received in the past 12 months**
 
@@ -478,7 +478,7 @@ RFP development. Distribution. Response evaluation. Finalist presentations. Sele
 
 Five disclosures your PBM owes you every year. Most plan sponsors receive only one of them.
 
-I review approximately 100 PBM contracts a year at PBS. The disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.
+I review hundreds of PBM contracts a year at PBS. The disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.
 
 Five disclosures to know:
 
@@ -515,7 +515,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 > Note 4 (middle-right): "Audit-Results Delivery" → red pen: "Regulatory or internal — owed when triggered."
 > Note 5 (bottom-center): "Material-Change Notice" → red pen: "Ownership, personnel, operational changes."
 >
-> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink: "PBS reviews ~100 PBM contracts a year. Most plan sponsors receive only one of these without asking."
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink: "PBS reviews 100s of PBM contracts a year. Most plan sponsors receive only one of these without asking."
 >
 > A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
 >

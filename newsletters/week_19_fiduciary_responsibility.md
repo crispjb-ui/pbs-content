@@ -458,7 +458,7 @@ Spread pricing is when the PBM charges your plan $100 for a drug it pays the pha
 
 When the middleman keeps 80% of the money, that is not risk transfer. That is just taking your money.
 
-~100 PBM contracts reviewed at PBS annually. Spread pricing language sits in most of them. Most plan sponsors do not know it is there until someone reads the definitions section out loud.
+Hundreds of PBM contracts reviewed at PBS each year. Spread pricing language sits in most of them. Most plan sponsors do not know it is there until someone reads the definitions section out loud.
 
 Rhode Island AG Peter Neronha is trying to ban it this session. He will get fought. Watch who fights him, and ask why.
 
@@ -479,7 +479,7 @@ More on the Rhode Island bills (and three other stories from this week) in today
 - Confrontational hook ✅ (PCMA quote indicts itself in paragraph two)
 - Messy infographic format ❌ (text-only, Wednesday slot)
 - First-comment Substack cross-promo ✅ (Wednesday roundup link)
-- Proprietary anchor ✅ ("~100 PBM contracts reviewed at PBS annually. Spread pricing language sits in most of them.")
+- Proprietary anchor ✅ ("Hundreds of PBM contracts reviewed at PBS each year. Spread pricing language sits in most of them.")
 - Save-driven structure ❌ (no checklist — confrontational reveal post)
 - Single-image / photoreal aesthetic ❌ (text-only)
 
@@ -604,7 +604,7 @@ What is the net cost on your top 10 drugs after all rebates and fees?
 Which tier decisions are overridden by the rebate aggregator?
 What is the therapy abandonment rate on your step-therapy drugs?
 
-We review approximately 100 PBM contracts annually at PBS. The strongest contracts require the answers to all five as standing quarterly deliverables. The weakest do not require any of them.
+We review hundreds of PBM contracts a year at PBS. The strongest contracts require the answers to all five as standing quarterly deliverables. The weakest do not require any of them.
 
 Save this carousel for your next renewal conversation. Forward to your broker.
 

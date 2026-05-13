@@ -47,7 +47,7 @@ Net cost per script by channel for the top 10 drugs. Not in the report. Rebate g
 
 The report was not wrong. It was incomplete by design. It was built to satisfy the reporting obligation in the contract, which the PBM had written. The reporting obligation was three lines long. Whatever the PBM volunteered above those three lines was a choice, and the choice was about what to leave out.
 
-This is the pattern. Most quarterly PBM reports are designed for compliance, not for analysis. The information that determines your next renewal price is the information that almost never appears in them. After reviewing approximately 100 PBM contracts annually at PBS, the gap is consistent: the data exists at the PBM. The reporting obligation that requires the data to be shared with the plan does not.
+This is the pattern. Most quarterly PBM reports are designed for compliance, not for analysis. The information that determines your next renewal price is the information that almost never appears in them. After reviewing hundreds of PBM contracts a year at PBS, the gap is consistent: the data exists at the PBM. The reporting obligation that requires the data to be shared with the plan does not.
 
 This week's deep dive is about closing that gap. What a complete quarterly report should contain, what most reports actually contain, and a 15-line checklist plan sponsors can hand their broker for the next quarter's request.
 
@@ -188,7 +188,7 @@ For each claim, calculate two numbers: the MAC reimbursement (what the contract 
 
 Aggregate the per-claim margin by channel. Most plans see a wider margin spread than they expected. The MAC is the same across channels in the contract; the margin is not, because the dispensing-fee, ingredient-spread, and internal-transfer-pricing layers are not.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: PBM-owned pharmacy margins run materially wider than retail-chain margins on the same MAC for the same drug. The contract's MAC clause is silent on the difference. The dispensing-channel-margin clause, if it exists at all in your contract, is where the gap lives.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: PBM-owned pharmacy margins run materially wider than retail-chain margins on the same MAC for the same drug. The contract's MAC clause is silent on the difference. The dispensing-channel-margin clause, if it exists at all in your contract, is where the gap lives.
 
 **Pass three: compare to the contract's pass-through clause**
 
@@ -196,7 +196,7 @@ Many contracts include a pass-through clause that promises plan-level economics 
 
 **The pattern plan sponsors find most often**
 
-> **Across approximately 100 PBM contract reviews and audits annually at PBS:** the MAC clause is in every contract; the per-channel margin disclosure clause is in fewer than half. Plans that audit channel margin without the disclosure clause find the gaps anyway. Plans that audit with the disclosure clause find them faster, with the contract on their side.
+> **Across hundreds of PBM contract reviews and audits a year at PBS:** the MAC clause is in every contract; the per-channel margin disclosure clause is in fewer than half. Plans that audit channel margin without the disclosure clause find the gaps anyway. Plans that audit with the disclosure clause find them faster, with the contract on their side.
 
 **What to do this quarter**
 
@@ -274,7 +274,7 @@ I asked for the underlying claim file. Two weeks later we walked through what th
 
 The report was not wrong. It was incomplete by design. It was built to satisfy a reporting clause in the contract that ran three lines long and gave the PBM full discretion over what to volunteer. Whatever showed up above those three lines was a choice, and the choice was about what to leave out.
 
-This is the pattern. Most quarterly PBM reports are designed for compliance, not for analysis. The information that determines your next renewal price almost never appears in them. After reviewing approximately 100 PBM contracts annually at PBS, the gap is consistent: the data exists at the PBM. The reporting obligation that requires the data to be shared with the plan does not.
+This is the pattern. Most quarterly PBM reports are designed for compliance, not for analysis. The information that determines your next renewal price almost never appears in them. After reviewing hundreds of PBM contracts a year at PBS, the gap is consistent: the data exists at the PBM. The reporting obligation that requires the data to be shared with the plan does not.
 
 A typical quarterly report I review has five recurring sections. Total spend year-to-date. Generic dispensing rate. Mail-order penetration. Specialty drug count. Member out-of-pocket aggregate. Every one is a metric the PBM controls and benefits from showing. None of them is the number that moves the renewal price.
 
@@ -493,7 +493,7 @@ Affiliated-pharmacy share of your specialty claims. The PBM has it. The standard
 
 Three numbers your PBM keeps. Three numbers that drive next year's contract.
 
-I have reviewed approximately 100 PBM contracts in our work at PBS. The reporting clause runs three to five lines in most contracts. "Standard utilization and financial reports in the form customarily provided to plan sponsors of similar size." Customarily. Standard. Of similar size. Three different ways the contract gives the PBM full discretion over what gets disclosed.
+I have reviewed hundreds of PBM contracts in our work at PBS. The reporting clause runs three to five lines in most contracts. "Standard utilization and financial reports in the form customarily provided to plan sponsors of similar size." Customarily. Standard. Of similar size. Three different ways the contract gives the PBM full discretion over what gets disclosed.
 
 The data exists. Whether your contract requires it to be shown is the question worth taking to your broker before the next renewal cycle.
 
@@ -560,7 +560,7 @@ This week's Benefit Blind Spots deep dive on PBM quarterly reporting is the oper
 - **Pillar:** Transparency & Industry Education (with ChannelPricing topic anchor)
 - **Topic:** Same MAC. Different dispensing channel. Different margin.
 - **Hook:** "Same MAC list. Same drug. Three dispensing channels. Three different margins, all set by the same PBM."
-- **Winning-profile traits hit:** decoder shape ✓ · dollar comparison shape (MAC vs. margin spread) ✓ · named-actor framing (PBM as actor deciding margins) ✓ · plan-sponsor-actionable (ask for the margin alongside the MAC) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-receipt carousel) ✓ · first-comment Substack cross-promo ✓ · proprietary anchor (~100 contracts/year) ✓ · save-driven structure ✓ — **9 of 10 traits.**
+- **Winning-profile traits hit:** decoder shape ✓ · dollar comparison shape (MAC vs. margin spread) ✓ · named-actor framing (PBM as actor deciding margins) ✓ · plan-sponsor-actionable (ask for the margin alongside the MAC) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-receipt carousel) ✓ · first-comment Substack cross-promo ✓ · proprietary anchor (hundreds of contracts a year) ✓ · save-driven structure ✓ — **9 of 10 traits.**
 
 #### Post Copy
 
@@ -574,7 +574,7 @@ Mail order: same MAC list on paper, different ingredient spread applied to the P
 
 PBM-owned pharmacy: same MAC, different internal transfer pricing, different margin entirely.
 
-I review approximately 100 PBM contracts a year at PBS. The MAC clause is in every contract. The margin clause — the part that decides who keeps the difference between MAC and what the pharmacy actually gets paid — is in fewer than half.
+I review hundreds of PBM contracts a year at PBS. The MAC clause is in every contract. The margin clause — the part that decides who keeps the difference between MAC and what the pharmacy actually gets paid — is in fewer than half.
 
 Same MAC. Three channels. Three margins. One PBM deciding who sees which number.
 

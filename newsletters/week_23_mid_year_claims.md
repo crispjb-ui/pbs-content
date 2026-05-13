@@ -598,13 +598,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 - **Pillar:** PBM Contract Insights
 - **Topic:** 5 Admin Fee Terms Decoded
 - **Hook:** "Five admin fee line items on your monthly PBM invoice. Five definitions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin."
-- **Winning-profile traits hit:** decoder shape ✓ · named-actor framing (PBM as the actor naming the fees) ✓ · plan-sponsor-actionable (read your invoice, audit the fees) ✓ · confrontational hook ✓ · messy infographic format ✓ · first-comment Substack cross-promo (to same-day Admin Fee audit Field Note) ✓ · proprietary anchor (~100 contracts/year) ✓ · save-driven structure (5-term reference) ✓ · single-image photoreal aesthetic ✓ — **9 of 10 traits.**
+- **Winning-profile traits hit:** decoder shape ✓ · named-actor framing (PBM as the actor naming the fees) ✓ · plan-sponsor-actionable (read your invoice, audit the fees) ✓ · confrontational hook ✓ · messy infographic format ✓ · first-comment Substack cross-promo (to same-day Admin Fee audit Field Note) ✓ · proprietary anchor (hundreds of contracts a year) ✓ · save-driven structure (5-term reference) ✓ · single-image photoreal aesthetic ✓ — **9 of 10 traits.**
 
 #### Post Copy
 
 Five admin fee line items on your monthly PBM invoice. Five descriptions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin.
 
-I review approximately 100 PBM contracts a year at PBS. The same five line items show up under different labels on nearly every contract. The labels change. The underlying revenue does not.
+I review hundreds of PBM contracts a year at PBS. The same five line items show up under different labels on nearly every contract. The labels change. The underlying revenue does not.
 
 Administrative fee. Claims processing fee. Network access fee. Manufacturer admin fee. Data fee.
 

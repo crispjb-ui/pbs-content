@@ -197,7 +197,7 @@ Then compare the weights to your internal priority document (the one you produce
 
 PBM pricing proposals are not directly comparable. Different MAC lists, different rebate methodologies, different administrative fee structures, different discount calculation methods. Without baseline normalization, the lowest-headline-number proposal can be the highest-net-cost contract.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most RFP scoring methodologies score against headline pricing, not normalized net cost. The PBMs know this; the headline number is engineered to win the RFP, not to match what the plan will actually pay.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most RFP scoring methodologies score against headline pricing, not normalized net cost. The PBMs know this; the headline number is engineered to win the RFP, not to match what the plan will actually pay.
 
 **Pass three: build scenario-modeling into the financial score**
 
@@ -594,13 +594,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 **Field Note pairing:** Same-day Substack Field Note "Auditing Your RFP Scoring Methodology Before You Send It."
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "RFP Scoring Methodology Audit Worksheet" — `templates/documents/week_25_thursday_rfp_scoring_audit_worksheet.html/.pdf`.
 
-**Winning-profile traits hit (9 of 10 — clears 7+ bar):** decoder shape · dollar-comparison adjacent · named-actor framing (PBM as actor that engineers proposals to win the static score) · plan-sponsor-actionable · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor (~100 contracts/year) · save-driven structure · single-image photoreal aesthetic.
+**Winning-profile traits hit (9 of 10 — clears 7+ bar):** decoder shape · dollar-comparison adjacent · named-actor framing (PBM as actor that engineers proposals to win the static score) · plan-sponsor-actionable · confrontational hook · messy infographic format · first-comment Substack cross-promo · proprietary anchor (hundreds of contracts a year) · save-driven structure · single-image photoreal aesthetic.
 
 #### Post Copy
 
 Five RFP scoring terms decide which PBM wins your renewal. Most plan sponsors never audit the scoring methodology before sending the RFP.
 
-I review approximately 100 PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using. The headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
+I review hundreds of PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using. The headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
 
 Five terms to know:
 
@@ -643,7 +643,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 >
 > Top of page, handwritten black marker, double-underlined: "Five RFP scoring terms."
 > Below in red pen: "Most plan sponsors never audit any of them."
-> Bottom of page, smaller red pen: "PBS reviews ~100 PBM contracts a year. PBMs engineer proposals to the methodology."
+> Bottom of page, smaller red pen: "PBS reviews 100s of PBM contracts a year. PBMs engineer proposals to the methodology."
 >
 > Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks, no people, no PBM names.
 
@@ -784,7 +784,7 @@ A broker called me once to say her client had asked for a renewal review from me
 "The timing dimension of renewal preparation is underappreciated. The same data, analyzed at 90 days vs. 30 days before renewal, produces fundamentally different negotiating positions. The PBM starts months early. The employer who matches that timeline changes the entire dynamic."
 
 **Template B (on a benefits strategy or employer post):**
-"One area worth examining: when does renewal preparation actually start? In our experience reviewing approximately 100 contracts annually, the start date predicts the outcome more reliably than plan size, PBM relationship history, or market conditions."
+"One area worth examining: when does renewal preparation actually start? In our experience reviewing hundreds of contracts a year, the start date predicts the outcome more reliably than plan size, PBM relationship history, or market conditions."
 
 **Template C (on a broker or consultant post):**
 "The brokers who produce the strongest renewal outcomes share one trait: they start early. Not at renewal. Months before. Pulling data independently, benchmarking against current market, and building term sheets before the PBM presents. Preparation is the variable that matters most."
