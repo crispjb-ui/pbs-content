@@ -2,6 +2,8 @@
 
 > **Companion to** `email_gated_toolkit_implementation_guide.md` (the 6-phase build runbook). This folder contains all the production-ready artifacts the guide references: copy-paste-ready emails, HTML mockups for landing and thank-you pages, LinkedIn ad creative specs, the privacy policy template, and the tracking dashboard structure.
 
+> **Build status (as of May 13, 2026):** Phase 1 (Wix infrastructure) and Phase 2 (email pipeline) are FUNCTIONALLY COMPLETE for the Channel Pricing pilot. System validated end-to-end. Architecture uses Hybrid Velo + Wix Automation (dynamic CMS values injected into hidden form fields, then read by Wix Automation as email variables). Three small polish items pending; site not yet published. **See `SESSION_LOG_2026_05_13.md` for the full build record, architectural decisions, and next-session pickup points.**
+
 > **Related strategy docs at the repo root:**
 > - `email_gated_toolkit_implementation_guide.md` — the 6-phase build runbook (now uses dynamic-page architecture per `Phase 1`)
 > - `paid_substack_operationalization_plan.md` — when and how to launch the Substack paid tier without disrupting the lead-magnet flow
@@ -172,4 +174,4 @@ Keep this README current as artifacts are added or retired.
 
 ---
 
-*Last updated: May 9, 2026.*
+*Last updated: May 13, 2026.*
