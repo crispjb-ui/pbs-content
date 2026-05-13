@@ -170,7 +170,7 @@ Front-loaded for impact. Ordered so Ginny's lane is established by Piece 3 and W
 
 **Proprietary anchor sentence:** *These programs show up in plan documents that employers do not realize they signed. The provision is named in the formulary administration clause; the member-experience consequence is not.*
 
-**Prescriptive ending:** Federal floor on accumulator restrictions matching the protective state floor that 21+ states have already enacted. ERISA preemption resolved by federal statute that mirrors state law for self-insured plans. HHS issues sub-regulatory guidance interpreting MHPAEA non-quantitative treatment limits as encompassing accumulator programs that disproportionately affect specialty therapy classes.
+**Prescriptive ending:** Federal floor on accumulator restrictions matching the protective state floor that twenty-six states plus DC and Puerto Rico have already enacted. ERISA preemption resolved by federal statute that mirrors state law for self-insured plans. HHS issues sub-regulatory guidance interpreting MHPAEA non-quantitative treatment limits as encompassing accumulator programs that disproportionately affect specialty therapy classes.
 
 **Cascade-week PBS angle:** "Member-Harm Audit: Surfacing Accumulator Provisions in Your Plan Docs" — Plan Sponsor Toolkit handout that walks an HR Director through the relevant plan-document sections.
 
@@ -200,7 +200,7 @@ Front-loaded for impact. Ordered so Ginny's lane is established by Piece 3 and W
 
 **Working title:** *The FTC Already Told Us the PBM Industry Is Broken. Here Is What Should Happen Next.*
 
-**Opening metaphor:** *When a federal regulator publishes a 200-page interim report titled "The Pharmacy Middlemen Are Inflating Drug Costs and Squeezing Pharmacies," that is a finding. What follows is supposed to be policy. We are now well past the point where silence is acceptable.*
+**Opening metaphor:** *When the FTC publishes an interim staff report titled "Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies," that is a finding. What follows is supposed to be policy. We are now well past the point where silence is acceptable.*
 
 **Named villains:** The Big 3 PBMs collectively. PCMA. The members of Congress who have blocked PBM reform votes in successive sessions.
 
@@ -215,7 +215,7 @@ Front-loaded for impact. Ordered so Ginny's lane is established by Piece 3 and W
 
 **Cascade-week PBS angle:** "What the FTC Findings Mean for Your Q4 Renewal" — operationalizes the macro into employer-action.
 
-**Wednesday text-post hook potential:** Moderate-to-strong. Hook depends on a specific Congress-member callout or a specific stalled bill. *"The FTC issued a 200-page report documenting PBM practices that inflate drug costs and squeeze pharmacies. Eighteen months later: no enforcement, no final report, no legislative action. Ask your Senator why."*
+**Wednesday text-post hook potential:** Moderate-to-strong. Hook depends on a specific Congress-member callout or a specific stalled bill. *"The FTC issued an interim staff report titled 'The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies.' Nearly two years later: no final report, no comprehensive enforcement action, no legislative action. Ask your Senator why."*
 
 ---
 
