@@ -16,11 +16,11 @@ My lane: clinical pharmacist auditing hundreds of PBM contracts a year, focused 
 
 3. **GLP-1 Coverage and the PBM Profit Layer.** The GLP-1 access debate everyone is having is the wrong debate. The list-price-to-net-cost gap on the highest-leverage drug class in modern memory is where the money is actually moving, and where reform should focus.
 
-4. **Copay Accumulator and Maximizer Programs.** Your employee uses a manufacturer coupon at the pharmacy, and the coupon dollars go to the PBM while the deductible they were supposed to cover stays unmet. Twenty-one states have banned this; federal law has not caught up yet.
+4. **Copay Accumulator and Maximizer Programs.** Your employee uses a manufacturer coupon at the pharmacy, and the coupon dollars go to the PBM while the deductible they were supposed to cover stays unmet. Twenty-six states plus DC and Puerto Rico have banned this; federal law has not caught up yet.
 
 5. **White-Bagging and Channel Steering.** Same drug. Same dose. Same patient. Three different prices, all set by the same PBM, who is paid more when the pharmacy it chooses is its own.
 
-6. **The FTC PBM Report: What Should Happen Next.** The FTC published a 200-page report titled "The Pharmacy Middlemen Are Inflating Drug Costs and Squeezing Pharmacies." Eighteen months later there has been no enforcement, no final report, and no legislative action; here are five named actions that should follow.
+6. **The FTC PBM Report: What Should Happen Next.** In July 2024, the FTC published an interim staff report titled "Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies." Nearly two years later there has been no final report and no comprehensive enforcement action; here are five named actions that should follow.
 
 ## Long Roster (Pieces 7-12)
 

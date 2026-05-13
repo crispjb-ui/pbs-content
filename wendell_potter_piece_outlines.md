@@ -165,7 +165,7 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 **Opening metaphor:**
 > *The manufacturer coupon a patient hands the pharmacist is supposed to reduce that patient's annual out-of-pocket. The PBM accumulator program intercepts the coupon, applies the dollars to the claim, and never credits them to the patient's deductible. The patient still pays the deductible. The manufacturer still spends the discount dollars. The PBM keeps both halves of a transaction that was supposed to be between the patient and the manufacturer.*
 
-**Thesis:** Accumulator and maximizer programs are member-harm programs operating inside employer plan documents that HR Directors didn't know they signed. 21+ states have enacted protections; ERISA preemption gaps that protection for self-insured plans. Federal floor is the next step.
+**Thesis:** Accumulator and maximizer programs are member-harm programs operating inside employer plan documents that HR Directors didn't know they signed. Twenty-six states plus DC and Puerto Rico have enacted protections; ERISA preemption gaps that protection for self-insured plans. Federal floor is the next step.
 
 **Named villains:** SaveOnSP (Express Scripts subsidiary), PrudentRx (CVS Caremark), Variable Copay (OptumRx variant). The plan documents that incorporate these programs without surfacing the member-harm consequence.
 
@@ -174,7 +174,7 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 1. **Cold open with the coupon-intercept metaphor** (~120 words).
 2. **How accumulator/maximizer programs technically work** (~200 words). The mechanic: manufacturer coupon used at pharmacy → PBM applies dollars to claim → coupon dollars don't credit member deductible → member exposure persists. Proprietary anchor about provisions buried in formulary administration clauses that HR Directors didn't realize they signed.
 3. **Member experience: the financial-harm story** (~150 words). Specialty drug member uses manufacturer assistance program; deductible never met; out-of-pocket exposure unchanged from baseline. The PBM captures the manufacturer dollars; the member captures none of the intended benefit.
-4. **The state-by-state patchwork and the ERISA gap** (~150 words). 21+ states have banned accumulator programs in fully insured plans. Self-insured plans (the majority of employer-sponsored coverage) sit outside state regulation due to ERISA preemption. The protection exists in concept; in practice it doesn't reach the plans most employers offer.
+4. **The state-by-state patchwork and the ERISA gap** (~150 words). Twenty-six states plus DC and Puerto Rico have banned accumulator programs in fully insured plans. Self-insured plans (the majority of employer-sponsored coverage) sit outside state regulation due to ERISA preemption. The protection exists in concept; in practice it doesn't reach the plans most employers offer.
 5. **The prescription** (~150 words). Federal floor matching the protective state floors. ERISA amendment to extend state protections to self-insured plans. HHS sub-regulatory guidance interpreting MHPAEA non-quantitative treatment limits to encompass accumulator programs that disproportionately affect specialty therapy classes.
 6. **Opinion-stated-openly closing** (~80 words). "What I'd argue is that this is the cleanest member-harm reform on the table, and it should be the one that gets bipartisan votes. The harm is documented. The fix is administrative. The political cost is low. The patient benefit is direct."
 
@@ -182,7 +182,7 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 
 - *"Your employee uses a manufacturer coupon at the pharmacy. The coupon dollars go to the PBM. The deductible the coupon was supposed to cover stays unmet. Your employee pays twice. The PBM keeps the coupon. The contract you signed permits this."*
 - *"These programs show up in plan documents that employers do not realize they signed. The provision is named in the formulary administration clause; the member-experience consequence is not."*
-- *"Twenty-one states have banned accumulator programs. Federal action is the missing piece. Self-insured plans need ERISA preemption resolved before state protections reach them."*
+- *"Twenty-six states have banned accumulator programs. Federal action is the missing piece. Self-insured plans need ERISA preemption resolved before state protections reach them."*
 
 **Prescriptive ending:** Federal floor on accumulator restrictions matching protective state floors. ERISA amendment extending state law to self-insured plans. HHS sub-regulatory MHPAEA guidance.
 
@@ -233,7 +233,7 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 **Working title:** *The FTC Already Told Us the PBM Industry Is Broken. Here Is What Should Happen Next.*
 
 **Opening metaphor:**
-> *When a federal regulator publishes a 200-page interim report titled "The Pharmacy Middlemen Are Inflating Drug Costs and Squeezing Pharmacies," that is a finding. What follows is supposed to be policy. We are now well past the point where silence is acceptable.*
+> *When the FTC publishes an interim staff report titled "Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies," that is a finding. What follows is supposed to be policy. We are now well past the point where silence is acceptable.*
 
 **Thesis:** The FTC's interim report documented PBM structural failures comprehensively. The diagnostic is complete. The treatment plan is what is missing. Two of the five next steps are within existing FTC authority; the other three require Congress.
 
@@ -243,7 +243,7 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 
 1. **Cold open with the report-as-diagnosis metaphor** (~100 words).
 2. **What the FTC actually documented in the interim report** (~200 words). Concise summary of the major findings, anchored by Ginny's contract-review observations that match each: spread pricing patterns, vertical integration effects, formulary-control concentration, pharmacy reimbursement pressure. "Everything the FTC documented in that report is something I have been seeing in contracts I review for a decade."
-3. **What has happened in the 18 months since the report** (~150 words). The silence. The absence of an FTC final report or enforcement action. The failed legislative votes. The continuing PCMA defense posture. The PBM industry's structural moat reinforcement.
+3. **What has happened in the nearly two years since the report** (~150 words). The silence. The absence of an FTC final report or enforcement action. The failed legislative votes. The continuing PCMA defense posture. The PBM industry's structural moat reinforcement.
 4. **The five named actions for 2026** (~300 words):
     - **Action 1 — FTC final report with enforcement actions, not another interim.** Under Section 5 authority. Doesn't require Congress.
     - **Action 2 — HHS Secretary directs CMS to require PBM transparency in Medicare Part D bids matching the FTC's documented disclosure failures.** Doesn't require Congress.
@@ -255,15 +255,15 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 **Pull-quote candidates:**
 
 - *"Everything the FTC documented in that report is something I have been seeing in contracts I review for a decade. The diagnostic is complete. The treatment plan is what is missing."*
-- *"The FTC has the authority to act on at least two of the five actions without Congress. The interim report is the basis. Eighteen months in, what is missing is the final order."*
-- *"When a federal regulator publishes a 200-page interim report and eighteen months later there is no final order, that is itself a policy choice. Reverse the choice."*
+- *"The FTC has the authority to act on at least two of the five actions without Congress. The interim report is the basis. Nearly two years in, what is missing is the final order."*
+- *"When a federal regulator publishes an interim staff report and nearly two years later there is no final order, that is itself a policy choice. Reverse the choice."*
 
 **Prescriptive ending:** Five named actions, two within existing FTC/HHS authority, three requiring Congress. The unilateral actions are the leverage point; the legislative actions are the structural endgame.
 
 **Cascade-week PBS angle:** "What the FTC Findings Mean for Your Q4 Renewal" — operationalizes the macro findings into employer-action items.
 
 **Wednesday text-post hook:**
-> *"The FTC issued a 200-page report documenting PBM practices that inflate drug costs and squeeze pharmacies. Eighteen months later: no enforcement, no final report, no legislative action. Ask your Senator why."*
+> *"The FTC issued an interim staff report titled 'The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies.' Nearly two years later: no final report, no comprehensive enforcement action, no legislative action. Ask your Senator why."*
 
 ---
 
@@ -484,8 +484,8 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 Several outlines reference public-record facts that must be verified before publication:
 
 1. **Piece 2:** The "17% pay differential" stat is referenced from Ron Howrigon's May 13, 2026 piece. Source the original study before re-citing.
-2. **Piece 4:** "21+ states have enacted accumulator protections." Verify current count and exact state list before publication. State legislation moves quickly.
-3. **Piece 6:** The FTC interim report title and findings — verify exact title and major finding language directly from FTC publication.
+2. **Piece 4 [VERIFIED May 13, 2026]:** Twenty-six states plus DC and Puerto Rico have enacted accumulator protections as of January 2026 (New Jersey became the 26th in January 2026). Recheck before each piece publication since state legislation moves quickly.
+3. **Piece 6 [VERIFIED May 13, 2026]:** FTC interim staff report title confirmed as "Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies" (released July 9, 2024). Note: a Second Interim Staff Report was released January 2025 titled "Specialty Generic Drugs: A Growing Profit Center for Vertically Integrated Pharmacy Benefit Managers." This is useful additional ammunition for Pieces 2 (Vertical Integration) and 9 (Specialty Routing Economics).
 4. **Piece 6 — Action 5:** Pending PBM-Specialty Pharmacy / PBM-Insurer mergers. Identify specific transactions under review before publication.
 5. **Piece 8:** The 2024 CMS DIR rule effective date and exact scope — verify directly from CMS final rule.
 6. **Piece 11:** ERISA fiduciary duty case law for brokers and consultants — verify current state of law before prescriptive ending.
