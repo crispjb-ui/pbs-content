@@ -1,5 +1,22 @@
 # Piece 4 — Humanize-Tool-Friendly Variant
 
+> **[ARCHIVED — Experiment Result: Detection-Tool Bypass Path Closed]**
+>
+> This file documents an unsuccessful experiment to defeat Originality.ai's AI detection through aggressive rewriting. Empirical results on May 13, 2026:
+> - This file (v1, surface humanization) scored **89% AI-likely** on Originality.ai
+> - The follow-up `wendell_potter_piece_04_draft_humanize_v2.md` (aggressive rewrite) scored **100% AI-likely**
+> - This v1 content run through Originality's own humanizer tool also scored **100% AI-likely**
+>
+> Conclusion: AI-drafted content cannot reliably defeat Originality detection through any amount of post-hoc humanization, including Originality's own humanizer tool. Additional finding: ~50% of Wendell Potter's currently-published contributor pieces score 90-100% AI-likely on Originality, indicating his editorial workflow does not gate on detection.
+>
+> **The CLAUDE.md "AI-Detection Pass Rule" originally added May 13, 2026 has been rescinded and replaced with "AI-Detection Scores Are Informational Only."** Voice authenticity per the PBS Humanize Check (Apr 19, 2026) is the load-bearing metric.
+>
+> **The canonical Piece 4 draft for submission to Wendell is `wendell_potter_piece_04_draft.md`** (the original draft, strongest voice fidelity). This humanize variant is retained as institutional learning, not as a candidate for submission.
+>
+> Archived May 13, 2026.
+
+---
+
 **Purpose:** Comparison draft against `wendell_potter_piece_04_draft.md`. Same ~900-word content, same structural-conflict-of-interest argument, but voice tuned to pass AI-detection tools (Originality.ai, GPTZero) under 10% AI-likelihood.
 
 **Key voice shifts vs. the original draft:**
