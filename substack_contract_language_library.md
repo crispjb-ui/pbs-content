@@ -218,7 +218,7 @@ Additional provision-specific deep dives publish throughout the year. The formul
 
 ---
 
-*Prescription Benefit Solutions reviews approximately 100 PBM contracts annually. These examples represent common patterns, not specific client contracts.*
+*Prescription Benefit Solutions reviews hundreds of PBM contracts a year. These examples represent common patterns, not specific client contracts.*
 
 *Illustrative examples for educational purposes. Actual contract terms vary by plan, PBM, and market conditions.*
 

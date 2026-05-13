@@ -52,7 +52,7 @@ This question segments leads by where they are in the engagement cycle. Reply ra
 >
 > Connecting all branches: a small note in red marker at the bottom-center: "Either way: schedule next PBR."
 >
-> Below the decision tree, in smaller handwriting: "PBS reviews ~100 PBM contracts/year. ~70% optimize. ~30% go to market."
+> Below the decision tree, in smaller handwriting: "PBS reviews 100s of PBM contracts a year. ~70% optimize. ~30% go to market."
 >
 > Style: realistic dry-erase whiteboard photography, soft natural daylight, faint surface texture and ghost-erase marks visible. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style). Colors: white whiteboard, black dry-erase marker for primary text, green dry-erase for the optimize path, red dry-erase for the go-to-market path. No logos, no client names.
 

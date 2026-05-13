@@ -56,7 +56,7 @@ The draft must contain at least one line only PBS could have written. Acceptable
 - A specific contract section reference (e.g., "§5.03")
 - A named drug or drug class tied to a specific scenario
 - A dated reference ("last quarter," "this week")
-- A proprietary-volume line ("We review approximately 100 PBM contracts annually," "This phrase appears in most of them")
+- A proprietary-volume line ("We review hundreds of PBM contracts a year," "This phrase appears in most of them")
 - A clinical pharmacy scene moment ("the room went quiet")
 - A pharmacist-origin moment tied to a specific career event
 

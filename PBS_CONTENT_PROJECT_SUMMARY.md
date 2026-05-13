@@ -47,7 +47,7 @@ Some topics warrant a **member-centric** angle focused on the employee/plan part
 | CEO | Ginny Crisp, PharmD |
 | Industry | Pharmacy benefits consulting |
 
-**What PBS Does:** PBM (Pharmacy Benefit Manager) audits, contract language development, claims reviews, cost containment consulting for self-funded employers. PBS reviews approximately 100 PBM contracts annually.
+**What PBS Does:** PBM (Pharmacy Benefit Manager) audits, contract language development, claims reviews, cost containment consulting for self-funded employers. PBS reviews hundreds of PBM contracts a year.
 
 **Target Audience:** Self-funded employers, CFOs, HR Directors, CEOs, and benefits brokers/consultants who manage pharmacy benefits.
 

@@ -31,7 +31,7 @@ The {{toolkit_name}} Worksheet is ready to download.
 
 Two things you might want to know before you open it:
 
-(1) The framework is built from patterns we see across approximately 100 PBM
+(1) The framework is built from patterns we see across hundreds of PBM
 contracts a year at PBS. The same handful of clauses move {{topic_mechanic}}
 on most plans. The worksheet walks through the three audit passes that
 surface where your dollars are going.
