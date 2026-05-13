@@ -16,7 +16,7 @@ My lane: clinical pharmacist auditing hundreds of PBM contracts a year, focused 
 
 3. **GLP-1 Coverage and the PBM Profit Layer.** The GLP-1 access debate everyone is having is the wrong debate. The list-price-to-net-cost gap on the highest-leverage drug class in modern memory is where the money is actually moving, and where reform should focus.
 
-4. **Copay Accumulator and Maximizer Programs.** Your employee uses a manufacturer coupon at the pharmacy, and the coupon dollars go to the PBM while the deductible they were supposed to cover stays unmet. Twenty-six states plus DC and Puerto Rico have banned this; federal law has not caught up yet.
+4. **The Conflict of Interest at the Heart of Copay Accumulator Programs.** Manufacturer copay cards are a legitimate patient affordability tool and plan-sponsor accumulator programs can be a legitimate cost-containment lever, but the same PBM should not be controlling formulary placement, specialty pharmacy routing, and accumulator crediting math simultaneously. The reform is the structural firewall and member disclosure, not the prohibition.
 
 5. **White-Bagging and Channel Steering.** Same drug. Same dose. Same patient. Three different prices, all set by the same PBM, who is paid more when the pharmacy it chooses is its own.
 
