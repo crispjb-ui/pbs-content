@@ -173,7 +173,7 @@ If your PBM cannot produce a COB-flagged sample, that is the first finding. The 
 
 For each COB-flagged claim, classify the coordination type: primary-secondary, Medicare-as-secondary, manufacturer copay card crediting, or member-billed-separately. Calculate the share by type.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the manufacturer copay card crediting category is rarely flagged correctly. Copay accumulator and copay maximizer programs depend on accurate flagging at the claim level; if the flag is missing or wrong, the program does not capture the manufacturer dollars correctly.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the manufacturer copay card crediting category is rarely flagged correctly. Copay accumulator and copay maximizer programs depend on accurate flagging at the claim level; if the flag is missing or wrong, the program does not capture the manufacturer dollars correctly.
 
 **Pass three: compare COB outcomes to the contract**
 
@@ -476,7 +476,7 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 
 Five contract terms decide how a single claim coordinates across primary, secondary, and copay assistance. Most plan sponsors never audit how the rules execute.
 
-I review approximately 100 PBM contracts a year at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging — and the flagging is rarely audited.
+I review hundreds of PBM contracts a year at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging — and the flagging is rarely audited.
 
 Five terms to know:
 
@@ -520,7 +520,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 >
 > Below the three EOBs, in larger red marker, double-underlined: "Five COB clauses. The flag at the claim level is what makes copay programs work."
 >
-> Below that, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. The COB workflow is rarely audited."
+> Below that, in smaller handwritten red pen: "PBS reviews 100s of PBM contracts a year. The COB workflow is rarely audited."
 >
 > Style: realistic document photography, soft natural daylight from upper-left, subtle shadow under each page, slight paper curl at the corners, faint paper texture. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style) for authenticity. Colors: off-white EOB pages with black printed text, dark wood desk, red handwritten ballpoint, black handwritten title marker. No logos, no brand marks, no people, no insurance carrier names, no member names.
 

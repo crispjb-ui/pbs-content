@@ -174,7 +174,7 @@ Open your H1 / mid-year claims data. For each guarantee, calculate the actual mi
 
 For each guarantee where actual performance is below threshold, find the corresponding remediation clause. Classify by remediation type: cash true-up at year-end, credit against next-year admin fees, "PBM shall remediate" undefined, or no remediation specified at all.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: most contracts name guarantees but specify remediation only for some of them. The unguarded guarantees are where the PBM keeps the difference at year-end without consequence. The remediation classification is the audit's most important output.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most contracts name guarantees but specify remediation only for some of them. The unguarded guarantees are where the PBM keeps the difference at year-end without consequence. The remediation classification is the audit's most important output.
 
 **Pass three: deliver the gap document to the PBM in writing, before year-end**
 
@@ -441,7 +441,7 @@ This week's Benefit Blind Spots deep dive on specialty drug management is the op
 
 Five contract guarantees you should already have audited at mid-year. Most plan sponsors do not run the audit until year-end, when the PBM has had two more quarters to optimize the numbers.
 
-I review approximately 100 PBM contracts a year at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
+I review hundreds of PBM contracts a year at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
 
 Five terms to know:
 
@@ -485,7 +485,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 >
 > Top of right page, handwritten black marker, double-underlined: "Five guarantees. Two below threshold."
 > Below in red pen: "Mid-year audit beats year-end notification."
-> Bottom, smaller red pen: "PBS reviews ~100 PBM contracts a year. Mid-year is when remediation works."
+> Bottom, smaller red pen: "PBS reviews 100s of PBM contracts a year. Mid-year is when remediation works."
 >
 > Black ballpoint pen at top-right corner. Style: realistic ledger paper texture, soft natural daylight. Colors: pale green ledger paper, light green rules, black printed Plex Mono, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
 

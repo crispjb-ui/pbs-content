@@ -33,7 +33,7 @@ This is the single most important thing I have learned. "GLP-1 Reality Check" (c
 "PBM contracts have their own language" hit 22,047 impressions in 2 days, making it the #3 all-time post. I did not expect the informal whiteboard style to outperform polished carousels, but the data is overwhelming. Imperfect signals authentic. We should use this format every other week minimum.
 
 **3. PBM Contract Insights is the dominant pillar.**
-8 posts, 82,517 total impressions, 10,315 average. Nearly 2x the next closest pillar. This audience has an appetite for content that reveals hidden contract economics. When I share what I see in the approximately 100 contracts we review annually, the engagement follows.
+8 posts, 82,517 total impressions, 10,315 average. Nearly 2x the next closest pillar. This audience has an appetite for content that reveals hidden contract economics. When I share what I see in the hundreds of contracts we review each year, the engagement follows.
 
 **4. Short, repetitive hook structures drive saves.**
 "Same drug. Same dose. Same member." got 12 saves in 1 day. The cadence works for bookmarking. Saves correlate with educational depth: checklists, frameworks, comparisons.

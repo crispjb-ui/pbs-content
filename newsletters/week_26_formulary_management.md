@@ -204,7 +204,7 @@ Open your most recent quarterly report. Find the prior authorization summary. Lo
 
 If the report aggregates step therapy with general PA, request the breakout. Step therapy overrides have a different clinical and contractual profile than general PA. The aggregate number hides drift.
 
-Calculate the override approval rate. The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: when override approval rates fall below 60%, the override workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
+Calculate the override approval rate. The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: when override approval rates fall below 60%, the override workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
 **Pass two: classify the denial reasons**
 
@@ -556,7 +556,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 Five contract clauses govern step therapy overrides. The override workflow is rarely what the clauses describe.
 
-I review approximately 100 PBM contracts a year at PBS. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
+I review hundreds of PBM contracts a year at PBS. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
 Five terms to know:
 
@@ -594,7 +594,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 > Note 4 (middle-right): "Prescriber Attestation Language" → red pen: "Aggressive liability language deters prescribers from filing at all."
 > Note 5 (bottom-center): "Member Cost-Share During Override" → red pen: "Full price = abandonment at counter, regardless of medical necessity."
 >
-> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink as a summary card: "PBS reviews ~100 PBM contracts a year. Override approval rate <60% = workflow is gating. Audit the gap."
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink as a summary card: "PBS reviews 100s of PBM contracts a year. Override approval rate <60% = workflow is gating. Audit the gap."
 >
 > A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
 >

@@ -188,7 +188,7 @@ If the breakdown is not in the report, request it. The PBM has the data.
 
 Open your contract. Find the network membership clause and the preferred network list. Compare the contracted network design to the actual fill pattern. Common findings: preferred-network share is lower than the contract's preferred-network design suggests, indicating member out-of-network drift; mandatory-mail share is higher than expected, indicating PBM-affiliated mail volume is being captured by workflow design even when the plan didn't intend mandatory mail.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: the network exclusion list grows over the contract term as pharmacies are removed for not accepting the PBM's reimbursement terms. Plan sponsors rarely receive notification of these removals, but they affect member access and aggregate plan economics.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the network exclusion list grows over the contract term as pharmacies are removed for not accepting the PBM's reimbursement terms. Plan sponsors rarely receive notification of these removals, but they affect member access and aggregate plan economics.
 
 **Pass three: audit the network guarantee clauses**
 
@@ -341,7 +341,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 Every PBM contract includes an audit right. Almost no plan exercises it.
 
-In the ~100 contracts we review annually, the pattern is consistent. The audit right is in the contract from day one. It usually allows the plan or its designee to audit claims, rebate calculations, and guarantee performance. The window to exercise is typically annual, sometimes shorter.
+In the hundreds of contracts we review each year, the pattern is consistent. The audit right is in the contract from day one. It usually allows the plan or its designee to audit claims, rebate calculations, and guarantee performance. The window to exercise is typically annual, sometimes shorter.
 
 The audit right expires with the clock. Year passes, right resets, year passes again. By renewal, three or four audit windows have come and gone unused.
 
@@ -361,7 +361,7 @@ The full protective language for the audit-rights clauses referenced above (audi
 
 Single image at 1080 x 1350 px rendered as a photographed corkboard or desk surface covered with six sticky notes and a single pulled contract page. Slightly angled, faint shadow under each note, warm paper texture. The corkboard aesthetic signals "these are the notes from ~100 audits we ran."
 
-**Top header (outside the board):** Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge top-left. Handwritten title on a banner taped across the top in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from ~100 contracts."
+**Top header (outside the board):** Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge top-left. Handwritten title on a banner taped across the top in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from 100s of contracts."
 
 **Sticky notes arrangement (6 notes, slightly overlapping, angled 2-5 degrees off-axis each):**
 
@@ -378,7 +378,7 @@ Single image at 1080 x 1350 px rendered as a photographed corkboard or desk surf
 
 #### Image Generation Prompt
 
-Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking corkboard or desk surface with six paper sticky notes slightly overlapping and angled 2-5 degrees off-axis, each with a soft shadow for depth. Warm paper-texture background. Sticky notes colored: yellow, pink, blue-tinted, yellow, green, pink. On each sticky, handwritten Caveat-font text (one short phrase per note): (1) "Right is in the contract from Day 1." with small red arrow; (2) "Window expires every year — sometimes faster." with red clock icon; (3) "PBM never reminds you it exists."; (4) "When we audit a plan that never audited, we find findings. Every time."; (5) "Recoverable $ = prior period only. Earlier windows closed."; (6) "Pull the contract. Find the window. Use it." with Accent Blue underline. Below the stickies, a corner of a pulled contract page visible with red marker circle around "§ 10.01 AUDIT RIGHTS" and handwritten "Here it is." annotation pointing to the clause. Top of image, above the stickies, a taped banner in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from ~100 contracts." Top-left Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Bottom Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo bottom-right, rxbs.org bottom-left. Color palette: warm paper board background, sticky-note colors above, black/red/blue handwritten markers, Primary Blue structure, Accent Blue accent band. No photos of people.
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking corkboard or desk surface with six paper sticky notes slightly overlapping and angled 2-5 degrees off-axis, each with a soft shadow for depth. Warm paper-texture background. Sticky notes colored: yellow, pink, blue-tinted, yellow, green, pink. On each sticky, handwritten Caveat-font text (one short phrase per note): (1) "Right is in the contract from Day 1." with small red arrow; (2) "Window expires every year — sometimes faster." with red clock icon; (3) "PBM never reminds you it exists."; (4) "When we audit a plan that never audited, we find findings. Every time."; (5) "Recoverable $ = prior period only. Earlier windows closed."; (6) "Pull the contract. Find the window. Use it." with Accent Blue underline. Below the stickies, a corner of a pulled contract page visible with red marker circle around "§ 10.01 AUDIT RIGHTS" and handwritten "Here it is." annotation pointing to the clause. Top of image, above the stickies, a taped banner in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from 100s of contracts." Top-left Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Bottom Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo bottom-right, rxbs.org bottom-left. Color palette: warm paper board background, sticky-note colors above, black/red/blue handwritten markers, Primary Blue structure, Accent Blue accent band. No photos of people.
 
 **Post-Generation Steps:**
 
@@ -424,7 +424,7 @@ I see this pattern in client data regularly. The quarterly rebate report shows g
 
 Rebate economics are structurally controlled by four contract provisions: how "rebate" is defined, which claims are counted as eligible, what percentage passes through to the plan, and when the plan actually receives the cash.
 
-Each one either protects the plan or protects the PBM's margin. In the ~100 contracts we review annually, we see the full spectrum: from fully transparent pass-through arrangements to structures where the PBM retains meaningful manufacturer payments that never appear in the rebate report.
+Each one either protects the plan or protects the PBM's margin. In the hundreds of contracts we review each year, we see the full spectrum: from fully transparent pass-through arrangements to structures where the PBM retains meaningful manufacturer payments that never appear in the rebate report.
 
 One question cuts through the complexity: what is our net drug cost, after all rebates, compared to what the market would offer?
 
@@ -494,7 +494,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 Five network contract terms decide where your members fill and what your plan pays. The PBM writes the definitions; your contract should redefine them.
 
-I review approximately 100 PBM contracts a year at PBS. The network membership clause says "any in-network pharmacy"; the routing pattern rarely matches. The leverage is in the four other terms.
+I review hundreds of PBM contracts a year at PBS. The network membership clause says "any in-network pharmacy"; the routing pattern rarely matches. The leverage is in the four other terms.
 
 1. **Preferred network.** A subset the PBM shapes by reimbursement terms, not member access.
 2. **Broad network.** The highest-cost configuration with the least PBM leverage.

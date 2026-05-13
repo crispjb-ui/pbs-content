@@ -444,7 +444,7 @@ The PBM negotiates from their data advantage. You negotiate from preparation. Th
 
 Five contract terms decide whether you can actually use your termination clause. Most plan sponsors cannot, and most PBMs know it.
 
-I review approximately 100 PBM contracts a year at PBS. Most termination-clause negotiations never end in termination. But a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
+I review hundreds of PBM contracts a year at PBS. Most termination-clause negotiations never end in termination. But a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
 
 1. **Termination for convenience.** Often exists only for the PBM, or with notice periods long enough to neutralize plan-sponsor leverage. 90 days vs. 180 is the negotiation.
 2. **Termination for cause.** Usable only if "cause" is broadly defined. Vague "material breach" language favors the PBM.

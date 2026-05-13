@@ -94,7 +94,7 @@ We developed a six-factor framework for evaluating whether your plan is capturin
 
 > **Factor 6: Contract Language.**
 >
-> Does your PBM contract include biosimilar-specific performance metrics? Look for biosimilar dispensing rate guarantees, brand-to-biosimilar transition timelines, net cost optimization requirements, and penalties for failing to meet biosimilar adoption targets. If your contract is silent on biosimilars, your PBM has no contractual obligation to prioritize them. In the approximately 100 contracts we review annually, biosimilar-specific language is still uncommon. That is a missed opportunity.
+> Does your PBM contract include biosimilar-specific performance metrics? Look for biosimilar dispensing rate guarantees, brand-to-biosimilar transition timelines, net cost optimization requirements, and penalties for failing to meet biosimilar adoption targets. If your contract is silent on biosimilars, your PBM has no contractual obligation to prioritize them. In the hundreds of contracts we review each year, biosimilar-specific language is still uncommon. That is a missed opportunity.
 
 **Scoring your readiness**
 
@@ -185,7 +185,7 @@ If your PBM does not provide that breakdown in the standard quarterly report, re
 
 For each specialty fill in the breakdown, classify the dispensing pharmacy as: PBM-owned (or PBM-affiliated), independent specialty pharmacy in the network, or limited distribution drug pharmacy (manufacturer-restricted).
 
-Calculate the share by ownership category. The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: PBM-owned specialty pharmacy share is materially higher than the network-balance language in the contract suggests. The contract often says "members may use any in-network specialty pharmacy"; the prior authorization workflow routes most fills to the PBM-owned channel anyway.
+Calculate the share by ownership category. The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: PBM-owned specialty pharmacy share is materially higher than the network-balance language in the contract suggests. The contract often says "members may use any in-network specialty pharmacy"; the prior authorization workflow routes most fills to the PBM-owned channel anyway.
 
 **Pass three: compare the routing pattern to the contract clauses**
 
@@ -195,7 +195,7 @@ Read those clauses against the actual routing pattern. If the contract says "any
 
 **The pattern plan sponsors find most often**
 
-> **Across approximately 100 PBM contract reviews and audits annually at PBS:** the specialty routing clause is rarely as exclusive as the routing pattern. The contract preserves member choice on paper; the operational workflow steers most fills to the PBM-owned pharmacy regardless. The leverage is in the prior-authorization and step-therapy clauses, not in the network-membership clause.
+> **Across hundreds of PBM contract reviews and audits a year at PBS:** the specialty routing clause is rarely as exclusive as the routing pattern. The contract preserves member choice on paper; the operational workflow steers most fills to the PBM-owned pharmacy regardless. The leverage is in the prior-authorization and step-therapy clauses, not in the network-membership clause.
 
 **What to do this quarter**
 
@@ -302,7 +302,7 @@ Five metrics self-funded CFOs should pull before the Q3 planning cycle:
 
 5. Claims-to-eligibility ratio. If the claims count is drifting from active member count, terminated members may still be generating spend.
 
-I review approximately 100 PBM contracts a year at PBS. None of these metrics require a new vendor. All of them are already in your existing claims data. The only question is whether anyone is pulling them before the PBM does.
+I review hundreds of PBM contracts a year at PBS. None of these metrics require a new vendor. All of them are already in your existing claims data. The only question is whether anyone is pulling them before the PBM does.
 
 #SelfFundedEmployers #PlanSponsors #EmployeeBenefits
 
@@ -452,7 +452,7 @@ This week's Benefit Blind Spots deep dive on biosimilar strategy is the operatio
 
 Three pharmacies. One PBM. Five contract clauses that decide which pharmacy actually fills your specialty drug.
 
-I review approximately 100 PBM contracts a year at PBS. The routing pattern rarely matches the network-membership clause. The contract preserves "any in-network specialty pharmacy" on paper; the operational workflow steers most fills to the PBM-owned channel anyway. The leverage is in the four other clauses.
+I review hundreds of PBM contracts a year at PBS. The routing pattern rarely matches the network-membership clause. The contract preserves "any in-network specialty pharmacy" on paper; the operational workflow steers most fills to the PBM-owned channel anyway. The leverage is in the four other clauses.
 
 1. **Specialty Pharmacy Designation.** Which drugs the PBM classifies as "specialty." The definition is in the contract attachment, not the formulary. A drug classified as specialty falls under specialty routing; the same drug classified as non-specialty does not. The PBM controls the classification list.
 
@@ -492,7 +492,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
   - Pointing at Bottle 3 (Limited Distribution), red note: "LDD access list — PBM-affiliated has access; independents often do not"
   - Pointing across all three bottles, red note in larger handwriting: "Performance guarantee — often missing entirely"
 - Bottom of image, hand-printed red marker, double-underlined: "Five contract clauses. Three destinations. The PBM owns four of the five."
-- Below that, smaller hand-printed sepia line: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
+- Below that, smaller hand-printed sepia line: "PBS reviews 100s of PBM contracts a year. The routing rarely matches the network clause."
 - A black ballpoint pen rests at a slight angle in the top-right corner of the desk surface
 
 **Color hierarchy:**
@@ -522,7 +522,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 >
 > Below all annotations, in red marker, double-underlined: "Five clauses. Three destinations. The PBM owns four of five."
 >
-> Below that, in smaller hand-printed sepia ink: "PBS reviews ~100 PBM contracts a year. The routing rarely matches the network clause."
+> Below that, in smaller hand-printed sepia ink: "PBS reviews 100s of PBM contracts a year. The routing rarely matches the network clause."
 >
 > A small light-blue (#A7E0FA) sticky-flag tab is placed on the edge of Bottle 1's label, marking it as the dominant routing destination.
 >

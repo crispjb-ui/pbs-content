@@ -102,7 +102,7 @@ I would love to share what I am seeing with your audience. Specifically:
 - Why "we pass through all rebates" rarely means what employers think it means
 - The single contract change that has delivered the most value for our clients this year
 
-This is not theoretical. It is based on what we see across approximately 100 contracts reviewed each year.
+This is not theoretical. It is based on what we see across hundreds of contracts reviewed each year.
 
 My LinkedIn content on PBM contracts has reached over 80,000 professionals, and I recently appeared on SHRM's podcast discussing GLP-1 coverage strategies.
 

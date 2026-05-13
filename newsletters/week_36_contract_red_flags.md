@@ -171,7 +171,7 @@ Open your contract repository. Pull the current PBM agreement plus every prior v
 
 For each high-impact clause, lay the language side by side across versions. Note the changes: what was added, what was removed, what was reworded. Most plan sponsors assume the contract "stays the same" between renewals; definition variance is what makes that assumption costly.
 
-The pattern we see across approximately 100 PBM contract reviews and audits annually at PBS: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The contract reads similar; the economics shift quarterly.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The contract reads similar; the economics shift quarterly.
 
 **Pass three: estimate the dollar impact of each definition change**
 
@@ -325,7 +325,7 @@ The employer had relied on a promise the contract did not actually make.
 
 I share this because contract language is where PBM economics hide in plain sight. The provisions look similar. "Competitive pricing." "Standard practices." "Reasonable efforts." Professional language. Signing pages. But the financial outcomes these different versions produce are not comparable.
 
-In the approximately 100 contracts we review annually, the language ranges from fully protective to functionally empty. Both types look professional. Both have legal counsel signatures. The difference shows up when you try to enforce a guarantee, exit the relationship, or audit the performance.
+In the hundreds of contracts we review each year, the language ranges from fully protective to functionally empty. Both types look professional. Both have legal counsel signatures. The difference shows up when you try to enforce a guarantee, exit the relationship, or audit the performance.
 
 Ten provisions determine whether your contract protects your plan: pricing methodology, rebate definition, audit scope, performance penalties, formulary notification, termination terms, data ownership, claim accuracy, network access, and amendment provisions. Each exists in weak, moderate, and strong versions.
 
@@ -379,7 +379,7 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 
 Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did.
 
-I review approximately 100 PBM contracts a year at PBS. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
+I review hundreds of PBM contracts a year at PBS. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
 
 The pattern: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The current contract reads cleanly. The trajectory across versions does not.
 

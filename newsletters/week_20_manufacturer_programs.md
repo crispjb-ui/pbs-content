@@ -174,7 +174,7 @@ Calculate rebate per brand claim by dividing total net rebate by total brand cla
 
 **The pattern we find most often**
 
-> **Across approximately 100 PBM contract reviews and audits annually at PBS, the consistent rebate finding:** the gap between gross rebate and net rebate is rarely the contracted pass-through percentage. It is usually a few percentage points lower, and the difference is captured in administrative-fee or data-licensing categories that the PBM classifies outside the rebate definition.
+> **Across hundreds of PBM contract reviews and audits a year at PBS, the consistent rebate finding:** the gap between gross rebate and net rebate is rarely the contracted pass-through percentage. It is usually a few percentage points lower, and the difference is captured in administrative-fee or data-licensing categories that the PBM classifies outside the rebate definition.
 
 That is not unique to one PBM. It is structural across the contracted-rebate model. The plan sponsor's leverage is in the contract definition section: how the contract defines "rebate," what categories are explicitly included or excluded from pass-through, and what the remediation clause says when the categorization shifts.
 
@@ -285,7 +285,7 @@ Full framework including direct contracting models on Substack.
 
 Pick three PBM contracts and read the definition sections side by side. "Rebate," "AWP discount," and "pass-through" will not mean the same thing in any two of them.
 
-In the ~100 contracts we review annually, we see this pattern repeatedly.
+In the hundreds of contracts we review each year, we see this pattern repeatedly.
 
 "Rebate." Contract A defines it as manufacturer payments tied to formulary placement. Contract B includes those plus manufacturer administrative fees. Contract C carves out price protection payments entirely and calls them something else.
 
@@ -540,7 +540,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 Five terms in your rebate report. Five definitions the PBM wrote. Four of them shrink your pass-through.
 
-I review approximately 100 PBM contracts a year at PBS. The same five rebate-economics terms show up under different labels on nearly every contract. The plan sponsors who know what each one means audit their rebate reports against the contract. The ones who do not assume the rebate report is the rebate.
+I review hundreds of PBM contracts a year at PBS. The same five rebate-economics terms show up under different labels on nearly every contract. The plan sponsors who know what each one means audit their rebate reports against the contract. The ones who do not assume the rebate report is the rebate.
 
 1. **Gross rebate.** Total manufacturer payments before any retention or admin offsets. Looks generous on the report; this is not the number that flows to your plan.
 
@@ -578,7 +578,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
   - Next to Drug Education Payment: red circle, red note: "Same. Reclassified, retained."
 - Top of image, bold handwritten title in black marker, double-underlined: "Five rebate terms. Five definitions the PBM wrote."
 - Subtitle below in red pen: "Four of them sit outside the pass-through clause."
-- Bottom of image, small handwritten red note: "PBS reviews ~100 PBM contracts a year. The gap is the pattern."
+- Bottom of image, small handwritten red note: "PBS reviews 100s of PBM contracts a year. The gap is the pattern."
 - A black ballpoint pen rests at a slight angle in the top-right corner of the desk surface
 
 **Color hierarchy:**
@@ -609,7 +609,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 >
 > Directly below, in handwritten red pen: "Four of them sit outside the pass-through clause."
 >
-> At the bottom of the page, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. The gap is the pattern."
+> At the bottom of the page, in smaller handwritten red pen: "PBS reviews 100s of PBM contracts a year. The gap is the pattern."
 >
 > A black ballpoint pen rests at an angle in the top-right corner of the desk surface.
 >

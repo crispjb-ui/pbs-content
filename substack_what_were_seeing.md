@@ -35,7 +35,7 @@ Prescription Benefit Solutions reviews hundreds of PBM contracts a year. This gi
 
 This is a new addition to Benefit Blind Spots. Each quarter, we will share aggregated patterns from the PBM contracts Prescription Benefit Solutions reviews. No client is identified. No proprietary information is disclosed. These are the trends, gaps, and opportunities we are seeing across the market.
 
-**Why we are doing this:** The employers and brokers reading this publication manage pharmacy benefits with limited visibility into what other plans look like. We see approximately 100 contracts a year. That pattern recognition is valuable, and sharing it (in aggregate) helps the entire market make better decisions.
+**Why we are doing this:** The employers and brokers reading this publication manage pharmacy benefits with limited visibility into what other plans look like. We see hundreds of contracts a year. That pattern recognition is valuable, and sharing it (in aggregate) helps the entire market make better decisions.
 
 ---
 
