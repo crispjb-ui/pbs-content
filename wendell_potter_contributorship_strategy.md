@@ -160,21 +160,23 @@ Front-loaded for impact. Ordered so Ginny's lane is established by Piece 3 and W
 
 ---
 
-### Piece 4: Copay Accumulator / Maximizer Programs
+### Piece 4: Copay Accumulator Programs — The Structural Conflict of Interest
 
-**Working title:** *Why That Manufacturer Coupon Doesn't Count Toward Your Deductible Anymore — And What 21 States Have Already Banned*
+**Working title:** *The Conflict of Interest at the Heart of Copay Accumulator Programs*
 
-**Opening metaphor:** *The manufacturer coupon a patient hands the pharmacist is supposed to reduce that patient's annual out-of-pocket cost. The PBM accumulator program intercepts the coupon, applies the dollars to the claim, and never credits them to the patient's deductible. The patient still pays the deductible. The manufacturer still spends the discount dollars. The PBM keeps both halves of a transaction that was supposed to be between the patient and the manufacturer.*
+**Opening metaphor:** *Imagine a charitable foundation that gives scholarships to college students to help them afford tuition. Now imagine the foundation hires an administrator to process those scholarships. Now imagine the administrator also owns the college, decides which courses qualify for the scholarship, and decides whether the scholarship counts toward the student's tuition bill or simply toward the college's revenue. Same dollars. Different beneficiary depending on how the administrator counts. One entity controlling every decision in the transaction.*
 
-**Named villains:** SaveOnSP (Express Scripts subsidiary). PrudentRx (CVS Caremark). Variable Copay (OptumRx variant). The plan documents that incorporate these programs without surfacing the member-harm consequence.
+**Named villains:** SaveOnSP (Express Scripts subsidiary). PrudentRx (CVS Caremark). Variable Copay (OptumRx variant). The vertical-integration structure that lets one PBM control formulary placement, specialty pharmacy routing, and accumulator crediting math simultaneously.
 
-**Proprietary anchor sentence:** *These programs show up in plan documents that employers do not realize they signed. The provision is named in the formulary administration clause; the member-experience consequence is not.*
+**Proprietary anchor sentence:** *In the contracts I review, the accumulator program is almost always administered by the same PBM that owns the specialty pharmacy dispensing the drug and writes the formulary that defines the drug as accumulator-eligible. Three roles. One vendor.*
 
-**Prescriptive ending:** Federal floor on accumulator restrictions matching the protective state floor that twenty-six states plus DC and Puerto Rico have already enacted. ERISA preemption resolved by federal statute that mirrors state law for self-insured plans. HHS issues sub-regulatory guidance interpreting MHPAEA non-quantitative treatment limits as encompassing accumulator programs that disproportionately affect specialty therapy classes.
+**Prescriptive ending:** Three structural reforms in order of political achievability: federal disclosure rule for plans using accumulator or maximizer programs (HHS sub-regulatory guidance or ERISA amendment); federal firewall statute prohibiting PBMs from administering accumulator programs while also owning the specialty pharmacy dispensing eligible drugs; formulary-design firewall requiring clinical-criteria basis for eligibility, auditable by plan sponsor. The reform is the firewall and the disclosure, not the prohibition.
 
-**Cascade-week PBS angle:** "Member-Harm Audit: Surfacing Accumulator Provisions in Your Plan Docs" — Plan Sponsor Toolkit handout that walks an HR Director through the relevant plan-document sections.
+**Cascade-week PBS angle:** "The Firewall Audit: Does Your PBM Administer the Program AND Own the Specialty Pharmacy?" — Plan Sponsor Toolkit handout walking an HR Director or benefits manager through a self-audit of conflict-of-interest exposure in their current PBM setup.
 
-**Wednesday text-post hook potential:** Strong. Member-harm hook works confrontationally. *"Your employee uses a manufacturer coupon at the pharmacy. The coupon dollars go to the PBM. The deductible the coupon was supposed to cover stays unmet. Your employee pays twice. The PBM keeps the coupon. The contract you signed permits this."*
+**Wednesday text-post hook potential:** Strong. Reframes from member-harm confrontation to structural-conflict-of-interest confrontation, preserving Ginny's pro-copay-card and pro-plan-sponsor-judgment positions. *"Your PBM decides which drugs are accumulator-eligible. Your PBM owns the specialty pharmacy that fills them. Your PBM administers the crediting math. Three jobs, one vendor, and the difference goes to the PBM."*
+
+**Voice note:** The structural-firewall reframe (vs the more common "ban accumulator programs" reform argument) preserves three Ginny positions simultaneously: pro-manufacturer-copay-card (legitimate patient affordability tool), pro-plan-sponsor-judgment (plan sponsors retain the right to choose accumulator programs as a cost lever), and anti-PBM-self-dealing (the vertical-integration conflict of interest is the structural problem). Full draft in `wendell_potter_piece_04_draft.md`.
 
 ---
 
