@@ -11,7 +11,7 @@
 
 ## Why This Content Matters
 
-Prescription Benefit Solutions reviews approximately 100 PBM contracts annually. This gives PBS pattern recognition that no individual employer or broker has. Aggregating those patterns (without identifying clients) into a quarterly report creates content that:
+Prescription Benefit Solutions reviews hundreds of PBM contracts a year. This gives PBS pattern recognition that no individual employer or broker has. Aggregating those patterns (without identifying clients) into a quarterly report creates content that:
 
 1. **Only PBS can produce** (proprietary insight from contract review volume)
 2. **Cannot be found anywhere else** (not on LinkedIn, not in industry reports)

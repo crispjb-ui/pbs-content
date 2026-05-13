@@ -94,7 +94,7 @@ Each pitch is tied to a proven PBS content topic with demonstrated engagement da
 
 Hi [Host name],
 
-I review approximately 100 PBM contracts annually as CEO of Prescription Benefit Solutions. The patterns are consistent: most self-funded employers are paying significantly more than they should because of contract language they never questioned.
+I review hundreds of PBM contracts a year as CEO of Prescription Benefit Solutions. The patterns are consistent: most self-funded employers are paying significantly more than they should because of contract language they never questioned.
 
 I would love to share what I am seeing with your audience. Specifically:
 
@@ -216,7 +216,7 @@ Hi [Host name],
 
 The 340B Drug Pricing Program was created for safety-net providers. It now affects commercially insured employer plans in ways most plan sponsors do not track. Providers acquire drugs at substantial discounts and can bill employer plans at standard rates. The spread is invisible in most claims data.
 
-I review roughly 100 PBM contracts annually at Prescription Benefit Solutions. The 340B blind spot comes up consistently. I would like to share with your audience:
+I review hundreds of PBM contracts a year at Prescription Benefit Solutions. The 340B blind spot comes up consistently. I would like to share with your audience:
 
 - How 340B actually works (most explanations miss the employer impact)
 - How to identify 340B claims in your pharmacy data
@@ -256,7 +256,7 @@ team@rxbs.org | www.rxbs.org
 ### What to Include in Every Pitch
 
 - [ ] Specific topic with 3-4 bullet points of what you would cover
-- [ ] Credential: "I review approximately 100 PBM contracts annually"
+- [ ] Credential: "I review hundreds of PBM contracts a year"
 - [ ] Social proof: LinkedIn following (1,374), newsletter subscribers (605+), SHRM appearance
 - [ ] Why their specific audience would care (not just why the topic is important generally)
 - [ ] Clear ask: "Would this be a good fit for [podcast name]?"
@@ -323,7 +323,7 @@ After each podcast recording:
 CEO, Prescription Benefit Solutions | Charleston, SC
 
 **Bio (100 words):**
-Ginny Crisp, PharmD, is the CEO of Prescription Benefit Solutions (PBS), a pharmacy benefits consulting firm specializing in PBM audits, contract language development, and cost containment strategies for self-funded employers. PBS reviews approximately 100 PBM contracts annually. Ginny writes the weekly Pharmacy Benefits Briefing newsletter for over 600 benefits professionals and the Benefit Blind Spots deep-dive publication. Her LinkedIn content on pharmacy benefit transparency has reached over 170,000 professionals. She has appeared on SHRM's podcast discussing GLP-1 coverage strategies.
+Ginny Crisp, PharmD, is the CEO of Prescription Benefit Solutions (PBS), a pharmacy benefits consulting firm specializing in PBM audits, contract language development, and cost containment strategies for self-funded employers. PBS reviews hundreds of PBM contracts a year. Ginny writes the weekly Pharmacy Benefits Briefing newsletter for over 600 benefits professionals and the Benefit Blind Spots deep-dive publication. Her LinkedIn content on pharmacy benefit transparency has reached over 170,000 professionals. She has appeared on SHRM's podcast discussing GLP-1 coverage strategies.
 
 **Topics I Cover:**
 - PBM contract language and negotiation strategies
@@ -335,7 +335,7 @@ Ginny Crisp, PharmD, is the CEO of Prescription Benefit Solutions (PBS), a pharm
 - Mental health parity in pharmacy benefits
 
 **What Makes Me Different:**
-I review approximately 100 PBM contracts annually. I do not speak from theory. I speak from what I see in the contracts, the claims data, and the audit findings. Every topic I discuss is grounded in patterns from actual plan reviews.
+I review hundreds of PBM contracts a year. I do not speak from theory. I speak from what I see in the contracts, the claims data, and the audit findings. Every topic I discuss is grounded in patterns from actual plan reviews.
 
 **Contact:** team@rxbs.org | www.rxbs.org | LinkedIn: Ginny Crisp
 

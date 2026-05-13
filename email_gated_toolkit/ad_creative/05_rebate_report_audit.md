@@ -65,7 +65,7 @@ Same base as #4 (Channel Pricing). Tighten:
 >
 > Below in handwritten red pen: "Four sit outside the pass-through clause."
 >
-> At the bottom, smaller red pen: "PBS reviews ~100 PBM contracts a year. The gap is the pattern."
+> At the bottom, smaller red pen: "PBS reviews 100s of PBM contracts a year. The gap is the pattern."
 >
 > A black ballpoint pen rests at an angle in the top-right corner.
 >

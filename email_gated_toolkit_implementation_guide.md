@@ -133,10 +133,10 @@ This is the structured data source that drives every Toolkit landing page.
 | `eyebrow` | Text | ✅ | Example: `Channel Pricing · Audit Worksheet` |
 | `headline` | Text | ✅ | The H1. Example: `Same Drug. Three Channels. Three Prices.` |
 | `headline_emphasis` | Text |  | The italic/highlighted phrase in the H1. Example: `The Audit Worksheet to Surface the Gap.` |
-| `subtitle` | Text | ✅ | One-sentence value prop. Example: `A 2-page printable framework PBS uses across approximately 100 PBM contract reviews annually. Free download.` |
+| `subtitle` | Text | ✅ | One-sentence value prop. Example: `A 2-page printable framework PBS uses across hundreds of PBM contract reviews a year. Free download.` |
 | `bullet_1` | Text | ✅ | First hero bullet. Example: `3 audit passes plan sponsors run on per-channel net cost` |
 | `bullet_2` | Text | ✅ | Example: `Paste-ready PBM data request (drop into a broker email)` |
-| `bullet_3` | Text | ✅ | Example: `The pattern PBS sees most often across ~100 contracts/year` |
+| `bullet_3` | Text | ✅ | Example: `The pattern PBS sees most often across hundreds of contracts a year` |
 | `bullet_4` | Text | ✅ | Example: `4-step action plan you can execute this quarter` |
 | `pdf_url` | URL | ✅ | Wix Media Manager public URL for the Toolkit PDF |
 | `pdf_filename_display` | Text |  | Display name shown in PDF preview. Example: `Channel Pricing Audit Worksheet` |
@@ -341,8 +341,8 @@ The Channel Pricing Audit Worksheet is attached below.
 
 Two things you might want to know before you open it:
 
-(1) The framework is built from patterns we see across ~100 PBM contracts a
-year at PBS. The same handful of clauses move per-channel margin on most
+(1) The framework is built from patterns we see across hundreds of PBM
+contracts a year at PBS. The same handful of clauses move per-channel margin on most
 plans. The worksheet walks through the three audit passes that surface
 where your dollars are going.
 

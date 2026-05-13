@@ -57,7 +57,7 @@ This question segments leads by audit-maturity. "We have not audited" + the rest
 >
 > Below all three bottles, in red marker, double-underlined: "The contract decides which margin you see."
 >
-> Below that, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. The MAC clause is in every contract; the margin clause is in fewer than half."
+> Below that, in smaller handwritten red pen: "PBS reviews 100s of PBM contracts a year. The MAC clause is in every contract; the margin clause is in fewer than half."
 >
 > A black ballpoint pen rests at an angle in the top-right corner. Style: photorealistic product photography, warm natural daylight, slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style). Colors: dark wood desk, clear plastic bottles, off-white labels, black printed type, red handwritten ballpoint. No logos, no PBM names, no client names.
 

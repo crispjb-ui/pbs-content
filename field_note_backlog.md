@@ -202,7 +202,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 **Re-anchoring notes before reuse:**
 - "Tuesday's LinkedIn carousel walked through the five clauses..." — opener references Tuesday Library 03; if reused on a non-Library-Audit-Rights week, replace with a different opener tying to that week's Tuesday or Monday content.
-- The "approximately 100 PBM contract reviews and audits annually at PBS" anchor is evergreen.
+- The "hundreds of PBM contract reviews and audits a year at PBS" anchor is evergreen.
 - All numbered patterns and four-step what-to-do-with-findings list are evergreen.
 
 ---
@@ -225,7 +225,7 @@ Third pass: claim-level pricing vs. contracted pricing. Pull a sample of high-co
 
 **What plan sponsors find most often**
 
-After approximately 100 PBM contract reviews and audits annually at PBS, the consistent patterns:
+Across hundreds of PBM contract reviews and audits a year at PBS, the consistent patterns:
 
 > **1. Guarantee misses that were never reconciled.** The contract requires reconciliation; the PBM never produced the report. Plan paid more than the guarantee allowed and never got the true-up.
 

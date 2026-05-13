@@ -56,7 +56,7 @@
 >
 > Top of page, in larger handwritten black marker, double-underlined: "Eight findings. One contract review."
 >
-> Below, in smaller handwritten red pen: "PBS reviews ~100 PBM contracts a year. Most surface 4-6 of these."
+> Below, in smaller handwritten red pen: "PBS reviews 100s of PBM contracts a year. Most surface 4-6 of these."
 >
 > A black ballpoint pen rests at the top-right corner. Style: realistic paper texture, soft natural daylight, slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style). Colors: off-white contract paper, faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no PBM names, no client names.
 

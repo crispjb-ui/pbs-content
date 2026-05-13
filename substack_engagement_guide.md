@@ -199,7 +199,7 @@ Track engagement results weekly to see what's working:
 
 ## Voice and Tone
 
-- **Analytical authority.** You are a clinical pharmacist who reviews ~100 PBM contracts annually. Speak from that expertise.
+- **Analytical authority.** You are a clinical pharmacist who reviews hundreds of PBM contracts a year. Speak from that expertise.
 - **"We" framing** when referencing PBS work: "We see this pattern in claims audits..."
 - **Never use "Dr. Ginny Crisp"** (Dr. and PharmD are redundant). Use "Ginny Crisp, PharmD" or just first person.
 - **Company name:** Prescription Benefit Solutions (PBS). Never use RXBS.
