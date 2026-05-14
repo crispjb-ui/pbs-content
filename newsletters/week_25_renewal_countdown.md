@@ -247,6 +247,46 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: RFP Scoring Methodology Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/rfp-scoring-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Thursday Field Note Handout · RFP Scoring Methodology Audit Worksheet
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `rfp-scoring-audit` |
+| `name` | `RFP Scoring Methodology Audit Worksheet` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `RFP scoring design` |
+| `pillar` | `PBM Contract Insights` |
+| `second_toolkit_name` | `Optimize Existing vs Go-to-Market Decision Framework` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Optimize Existing vs Go-to-Market Decision Framework]` |
+| `second_toolkit_blurb` | `The RFP Scoring Audit only matters if go-to-market is the right decision. The Optimize vs Go-to-Market Framework is the three-variable decision tree that produces the recommendation in the first place. About 70% of contract reviews end in 'optimize existing,' which means the RFP path is the wrong path for most plans. Together they pair as decision then design.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_25_thursday_rfp_scoring_audit_worksheet.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Optimize Existing vs Go-to-Market Decision Framework → `templates/documents/evergreen_optimize_vs_go_to_market_decision_framework.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/rfp-scoring-audit` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+Optimize vs Go-to-Market is the natural upstream decision Tier 1 framework. Channel Pricing Field Note demonstrates the kind of audit finding that often supports 'optimize' over 'RFP.'
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #20

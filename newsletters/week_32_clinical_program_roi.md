@@ -223,6 +223,46 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Fiduciary Compliance Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/fiduciary-compliance-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Thursday Field Note Handout · Fiduciary Compliance Audit Worksheet
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `fiduciary-compliance-audit` |
+| `name` | `Fiduciary Compliance Audit Worksheet` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `ERISA prudent process audit` |
+| `pillar` | `PBM Contract Insights` |
+| `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
+| `second_toolkit_blurb` | `ERISA prudent process requires a reasonable, documented decision-making process. The PBR Framework is the twice-yearly comprehensive audit that produces that documentation across six categories of plan performance. The Fiduciary Audit names the standard; the PBR delivers the artifact. Together they pair as the legal obligation and the operational practice that satisfies it.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_32_thursday_fiduciary_compliance_audit.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Pharmacy Benefit Review (PBR) Framework → `templates/documents/evergreen_pbr_pharmacy_benefit_review_framework.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/fiduciary-compliance-audit` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+PBR Framework Tier 1 evergreen is the documentation-producing partner to a fiduciary audit. Channel Pricing Field Note is the kind of finding that should be in the PBR write-up.
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #27

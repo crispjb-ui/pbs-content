@@ -290,6 +290,45 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Pre-Meeting Renewal Checklist); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/pre-meeting-renewal-checklist` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Thursday Field Note Handout · Pre-Meeting Renewal Checklist
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `pre-meeting-renewal-checklist` |
+| `name` | `Pre-Meeting Renewal Checklist` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `renewal-meeting preparation` |
+| `pillar` | `Self-Funded Employer Guidance` |
+| `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
+| `second_toolkit_blurb` | `The Pre-Meeting Checklist names what to walk into the renewal meeting with. The PBR Framework is the twice-yearly comprehensive audit that produces those items. Run the PBR in mid-year and year-end; the renewal-meeting items are the natural artifact of the audit. The checklist is the conclusion; the PBR is the work that produces it.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_37_thursday_pre_meeting_renewal_checklist.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Pharmacy Benefit Review (PBR) Framework → `templates/documents/evergreen_pbr_pharmacy_benefit_review_framework.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/pre-meeting-renewal-checklist` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+PBR Tier 1 evergreen is the work that produces what the checklist lists. Channel Pricing Field Note is an example renewal-leverage finding the PBR surfaces.
+
+---
+
 # PART 2: LINKEDIN NEWSLETTER - Issue #32
 
 ### Newsletter Body (~400 words)
