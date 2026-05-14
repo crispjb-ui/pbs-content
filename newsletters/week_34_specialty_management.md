@@ -233,7 +233,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `performance guarantee mid-year audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `Quarterly Reporting Checklist` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_9c41b84a48ca4eb4b2bf16a666ee3623.pdf` |
 | `second_toolkit_blurb` | `The Mid-Year Guarantee Audit names which guarantees to check at mid-year. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows the data those guarantees are measured against. The 15-line framework is the report-side audit; the guarantee audit is the contract-side audit. Together they pair as the two halves of a documented mid-year position.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

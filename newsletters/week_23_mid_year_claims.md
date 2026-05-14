@@ -275,7 +275,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `claims-data pattern audit` |
 | `pillar` | `Self-Funded Employer Guidance` |
 | `second_toolkit_name` | `Quarterly Reporting Checklist` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_9c41b84a48ca4eb4b2bf16a666ee3623.pdf` |
 | `second_toolkit_blurb` | `The Red Flag Checklist surfaces patterns in your claims data. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows those patterns or buries them. Five patterns to look for in claims data; fifteen lines to audit on the report that should reflect them. Together they pair as cause and disclosure-trace.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

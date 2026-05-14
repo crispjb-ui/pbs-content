@@ -268,7 +268,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 |---|---|
 | `slug` | `quarterly-reporting` |
 | `name` | `Quarterly Reporting Checklist` |
-| `pdf_url` | `[fill after Wix Media upload]` |
+| `pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_9c41b84a48ca4eb4b2bf16a666ee3623.pdf` |
 | `mechanic_phrase` | `15-line audit framework` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
