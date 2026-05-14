@@ -272,7 +272,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `15-line audit framework` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Quarterly Reporting names what to audit on the report your PBM sends. PBM Compensation names where the money goes that does not always show up on the report. The five compensation streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) are what the Quarterly Reporting framework checks against. Together they pair as the two halves of one renewal-leverage record.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

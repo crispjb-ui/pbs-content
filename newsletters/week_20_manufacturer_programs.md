@@ -236,7 +236,7 @@ This section is the operational source-of-truth for the Wix work this week. 2 to
 | `mechanic_phrase` | `copay accumulator economics` |
 | `pillar` | `Cost Containment Strategies` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Copay cards move manufacturer money through your plan. Manufacturer money is one of five PBM compensation streams. This worksheet zooms out to all five (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) and walks through the three audit passes that surface which mechanisms apply to your contract. The accumulator vs maximizer decision sits inside the rebate-retention stream, not outside it.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
@@ -269,7 +269,7 @@ PBM Compensation is the universal zoom-out anchor when the first toolkit audits 
 | `mechanic_phrase` | `rebate flow audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Rebates are one of five PBM compensation streams. This worksheet walks through all five (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin), the three audit passes to identify which mechanisms apply to your contract, and the disclosure-gap framework that becomes your renewal-leverage item. Plan sponsors who audit the rebate flow alone miss four of the five streams the contract is silently paying out on.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

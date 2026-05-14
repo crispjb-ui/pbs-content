@@ -250,7 +250,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `transition disruption audit` |
 | `pillar` | `Self-Funded Employer Guidance` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Member-disruption events (formulary changes, network changes, PA criteria changes) are usually downstream of a compensation-stream optimization the PBM ran on the contract. PBM Compensation maps the five streams and the disclosure-gap framework that surfaces the contract-economics decisions producing the disruption. Member experience is downstream of contract economics; auditing one without the other misses the cause.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

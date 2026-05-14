@@ -284,7 +284,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 |---|---|
 | `slug` | `pbm-compensation` |
 | `name` | `PBM Compensation Audit Worksheet` |
-| `pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `mechanic_phrase` | `five-stream compensation map` |
 | `pillar` | `Transparency & Industry Education` |
 | `second_toolkit_name` | `Quarterly Reporting Checklist` |

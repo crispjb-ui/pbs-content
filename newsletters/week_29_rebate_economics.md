@@ -258,7 +258,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `network design audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Network configuration produces one of the five PBM compensation streams (owned-pharmacy margin when mandatory mail or PBM-affiliated specialty is in play). PBM Compensation maps the other four and the disclosure-gap framework that becomes your renewal-leverage item. Network design is one revenue lever; PBM Compensation is the full map.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

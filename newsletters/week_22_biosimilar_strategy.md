@@ -255,7 +255,7 @@ This section is the operational source-of-truth for the Wix work this week. 2 to
 | `mechanic_phrase` | `biosimilar adoption economics` |
 | `pillar` | `Clinical Pharmacy Perspectives` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Biosimilar adoption rates are suppressed by rebate-retention economics on the originator drug. Rebate retention is one of five PBM compensation streams. This worksheet walks through all five and the disclosure-gap framework that surfaces whether your contract financially incentivizes the PBM to delay biosimilar conversion. The biosimilar question is downstream of the compensation question.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
@@ -288,7 +288,7 @@ PBM Compensation anchors the rebate-retention thread that drives biosimilar supp
 | `mechanic_phrase` | `specialty fill routing` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Specialty routing produces one of the five PBM compensation streams (owned-pharmacy margin). This worksheet maps the other four (spread, rebate retention, admin fees, manufacturer-direct) and walks through the three audit passes to identify which mechanisms apply to your contract. Specialty routing alone is one revenue stream; PBM Compensation is the full map.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
