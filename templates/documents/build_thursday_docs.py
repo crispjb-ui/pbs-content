@@ -66,19 +66,24 @@ body.preview .doc-header { display: block; }
 .doc-header code { background: #444; padding: 2px 6px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; font-size: 12px; }
 
 .page {
-  width: 8.5in;
-  height: 11in;
-  margin: 24px auto;
-  padding: 0.45in 0.65in 0.95in 0.65in;
-  background: #FFFFFF;
-  color: #1a1a1a;
-  box-shadow: 0 10px 36px rgba(0,0,0,0.4);
-  position: relative;
   page-break-after: always;
   break-after: page;
-  overflow: hidden;
 }
 .page:last-child { page-break-after: auto; break-after: auto; }
+
+@media screen {
+  body { background: #2a2a2a; padding: 24px 0; min-height: 100vh; }
+  .page {
+    width: 8.5in;
+    min-height: 11in;
+    margin: 24px auto;
+    padding: 0.45in 0.65in 0.75in 0.65in;
+    background: #FFFFFF;
+    color: #1a1a1a;
+    box-shadow: 0 10px 36px rgba(0,0,0,0.4);
+    position: relative;
+  }
+}
 
 .page-head {
   display: flex;
@@ -238,33 +243,49 @@ body.preview .doc-header { display: block; }
   color: var(--gray);
 }
 
-.footer {
-  position: absolute;
-  left: 0.65in;
-  right: 0.65in;
-  bottom: 0.4in;
-  padding-top: 10px;
-  border-top: 1px solid var(--rule);
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  font-size: 10px;
-  color: var(--gray-2);
-}
-.footer .footer-brand strong { color: var(--primary); font-weight: 600; }
-.page-num {
+.footer-runner {
+  position: running(footer);
   font-family: 'IBM Plex Mono', monospace;
-  font-weight: 500;
+  font-weight: 400;
+  font-size: 9.5px;
+  color: var(--gray);
+  letter-spacing: 0.02em;
+  padding-top: 8px;
+  border-top: 1px solid var(--rule);
 }
+.footer-runner strong { color: var(--primary); font-weight: 600; }
 
 @page {
   size: Letter;
-  margin: 0;
+  margin: 0.4in 0.6in 0.55in 0.6in;
+
+  @bottom-left {
+    content: element(footer);
+    width: 75%;
+    vertical-align: top;
+  }
+
+  @bottom-right {
+    content: counter(page) " / " counter(pages);
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 500;
+    font-size: 10px;
+    color: #8C8C8C;
+    text-align: right;
+    width: 25%;
+    border-top: 1px solid #D6D6D6;
+    padding-top: 6px;
+    vertical-align: top;
+  }
 }
+
+@media screen {
+  .footer-runner { display: none; }
+}
+
 @media print {
   html, body { background: #fff; }
   .doc-header { display: none; }
-  .page { box-shadow: none; margin: 0; }
 }
 """
 
@@ -325,6 +346,10 @@ def render_html(spec):
   <p>Plan Sponsor Toolkit reference document. Renders in the browser; export to PDF via Print or WeasyPrint. Built file: <code>{slug}.pdf</code>.</p>
 </header>
 
+<div class="footer-runner">
+  <strong>{footer_brand}</strong> · {footer_url}
+</div>
+
 <!-- ============================================================
      PAGE 1
      ============================================================ -->
@@ -345,11 +370,6 @@ def render_html(spec):
   </div>
 
   {sections_p1}
-
-  <footer class="footer">
-    <span class="footer-brand"><strong>{footer_brand}</strong> · {footer_url}</span>
-    <span class="page-num">01 / 02</span>
-  </footer>
 </section>
 
 <!-- ============================================================
@@ -393,11 +413,6 @@ def render_html(spec):
 {actions_html}
     </div>
   </div>
-
-  <footer class="footer">
-    <span class="footer-brand"><strong>{footer_brand}</strong> · {footer_url}</span>
-    <span class="page-num">02 / 02</span>
-  </footer>
 </section>
 
 </body>
