@@ -277,7 +277,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `override workflow audit` |
 | `pillar` | `Clinical Pharmacy Perspectives` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Step therapy override approval rates are often driven by rebate-retention economics on the step-1 drug, not clinical criteria alone. Rebate retention is one of five PBM compensation streams. This worksheet maps all five and the disclosure-gap framework that surfaces whether your override workflow is compensation-driven or clinically-driven. The clinical question is often downstream of the contract question.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

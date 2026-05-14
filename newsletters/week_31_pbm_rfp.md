@@ -263,7 +263,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `disclosure obligation audit` |
 | `pillar` | `Transparency & Industry Education` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Disclosure obligations are the contractual mechanism for surfacing compensation streams the PBM otherwise does not name. PBM Compensation maps the five streams; PBM Disclosure audits whether the contract requires the PBM to disclose each. Together they pair as the substance (what the PBM is paid) and the form (how the contract requires it disclosed). The gap between the two is the renewal-leverage item.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
