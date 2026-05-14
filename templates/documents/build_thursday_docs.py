@@ -67,17 +67,16 @@ body.preview .doc-header { display: block; }
 
 .page {
   width: 8.5in;
-  min-height: 11in;
+  height: 11in;
   margin: 24px auto;
-  padding: 0.45in 0.65in 0.45in 0.65in;
+  padding: 0.45in 0.65in 0.95in 0.65in;
   background: #FFFFFF;
   color: #1a1a1a;
   box-shadow: 0 10px 36px rgba(0,0,0,0.4);
   position: relative;
-  display: flex;
-  flex-direction: column;
   page-break-after: always;
   break-after: page;
+  overflow: hidden;
 }
 .page:last-child { page-break-after: auto; break-after: auto; }
 
@@ -240,7 +239,10 @@ body.preview .doc-header { display: block; }
 }
 
 .footer {
-  margin-top: auto;
+  position: absolute;
+  left: 0.65in;
+  right: 0.65in;
+  bottom: 0.4in;
   padding-top: 10px;
   border-top: 1px solid var(--rule);
   display: flex;
