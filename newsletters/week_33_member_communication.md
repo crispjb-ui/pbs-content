@@ -383,11 +383,11 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ca
 
 #### Reshare Copy
 
-The strongest broker partners are running five conversations with self-funded clients this quarter: biosimilar pipeline, stop-loss + pharmacy alignment, 2026 PBM evaluation calendar, fiduciary documentation, and independent claims data access.
+Five contract clauses anchor every Q4 broker-and-client conversation worth having. Each one moves the renewal-year decision from defensive to deliberate.
 
-Ginny Crisp walks through what each conversation looks like at the table.
+Ginny Crisp walks through the five clauses and the redline brokers should bring to every fourth-quarter client meeting.
 
-#PBMRenewal #PBMConsulting #PharmacyBenefits
+#PBMContracts #BenefitsBrokers #PharmacyBenefits
 
 ---
 
@@ -508,11 +508,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
-Provider notification first. Member notification second. Call center briefed third. Follow-up last. The sequence matters more than the letter itself.
+Five plan-document terms decide whether a pharmacy benefit change disrupts members or moves through cleanly. Continuity-of-care window, prior authorization grandfathering, formulary transition rules, network change notice, and refill protection.
 
-Ginny Crisp walks through the communication checklist that turns a clinically sound pharmacy change into one members actually accept without the backlash.
+Ginny Crisp decodes the language plan sponsors should require before any change.
 
-#MemberCommunication #PBMConsulting #EmployeeBenefits
+#PBMContracts #MemberCommunication #EmployeeBenefits
 
 ---
 

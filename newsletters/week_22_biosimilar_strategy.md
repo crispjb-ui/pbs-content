@@ -709,11 +709,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
-Biosimilar adoption is not just a clinical decision. Contract language, rebate structure, and formulary placement all shape whether the savings actually reach your plan.
+Five specialty routing clauses decide which pharmacy fills the script and what the plan pays. The contract preserves member choice on paper while the operational workflow steers most fills to the PBM-owned channel.
 
-Ginny Crisp walks through the six-factor readiness checklist plan sponsors should run before the next biosimilar launch.
+Ginny Crisp decodes the five routing clauses and where each one drives the spend.
 
-#Biosimilars #SelfFundedEmployers #EmployeeBenefits
+#PBMContracts #SpecialtyPharmacy #PharmacyBenefits
 
 ---
 

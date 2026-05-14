@@ -497,11 +497,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
-Specialty cost is set by eight management levers across routing, formulary, authorization, and reporting. Most plans have gaps on at least half of them.
+Five mid-year performance guarantee terms decide whether the PBM hits its targets or pays the plan when it does not. Measurement methodology, reconciliation timing, remediation structure, guarantee exclusions, and audit rights each shape the outcome.
 
-Ginny Crisp walks through the 120-point assessment that identifies which lever to fix first before renewal.
+Ginny Crisp decodes the five terms.
 
-#PBMRenewal #SpecialtyPharmacy #PharmacyBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 
 ---
 

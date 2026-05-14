@@ -655,11 +655,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
-Renewal preparation is not a single event. It is a month-by-month sequence with milestones that build leverage or lose it.
+Five RFP scoring methodology terms decide which PBM wins your renewal before the proposals arrive. Weighting, normalization, scenario testing, scoring rubrics, and tiebreaker rules each open or close the door for a different vendor.
 
-Ginny Crisp maps the renewal timeline from data pull to signature, and the decisions each month should produce before the PBM sends their proposal.
+Ginny Crisp decodes the scoring terms.
 
-#PBMRenewal #PharmacyCosts #PharmacyBenefits
+#PBMRFP #PlanSponsors #PharmacyBenefits
 
 ---
 

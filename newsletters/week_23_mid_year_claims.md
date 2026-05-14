@@ -668,11 +668,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Reshare Copy
 
-Your claims data is already telling you what your renewal will look like. Specialty shifts, generic rate erosion, and rebate drift all show up before the PBM calls.
+Five admin fee line items appear on the monthly PBM invoice, and five definitions the PBM wrote. Most plan sponsors review the total and pay it. Few audit the line-item language against the contract.
 
-Ginny Crisp maps the five mid-year patterns to watch and the interventions that change the outcome.
+Ginny Crisp decodes the five terms and what each one should be audited against.
 
-#ClaimsAudit #PlanSponsors #EmployeeBenefits
+#PBMTransparency #PBMContracts #PharmacyBenefits
 
 ---
 

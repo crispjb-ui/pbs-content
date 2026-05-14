@@ -522,11 +522,11 @@ Claude Design project type: **Slide deck from template**. Use the Contract Compa
 
 #### Reshare Copy
 
-Three cost patterns show up in almost every mid-year claims review: specialty concentration, missing PA discipline on Q4/Q1 launches, and maintenance scripts stuck at retail instead of mail.
+Three contract clauses sit behind nearly every cost pattern that surfaces at mid-year claims review. Specialty routing, PA discipline language, and channel-steering provisions each turn a visible pattern into either a closeable gap or a structural absorb.
 
-Ginny Crisp walks through what each pattern costs the plan and how to catch them before renewal.
+Ginny Crisp walks through the redline that converts each.
 
-#ClaimsAudit #PlanSponsors #PharmacyBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 
 ---
 
@@ -758,11 +758,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Reshare Copy
 
-Your PBM already has your H1 numbers modeled. Per-member-per-month trend, guarantee performance, specialty concentration, and rebate position all shape what they will propose at renewal.
+Five amendment clauses decide whether your contract changes on your terms or the PBM's. Notice period, scope, trigger events, plan-sponsor consent, and reversion rights each turn discretionary unless the contract names them specifically.
 
-Ginny Crisp walks through the five metrics every plan sponsor should measure before the PBM conversation starts.
+Ginny Crisp decodes the redline on each.
 
-#MidYearReview #PlanSponsors #EmployeeBenefits
+#PBMContracts #ContractLanguage #PharmacyBenefits
 
 ---
 

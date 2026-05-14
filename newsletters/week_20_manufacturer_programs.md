@@ -633,13 +633,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Reshare Copy
 
-Copay assistance programs help members at the pharmacy counter. They also shift plan economics in ways most employers never quantify.
+Five rebate terms appear in nearly every PBM contract, and five definitions the PBM wrote. The pass-through promise depends entirely on which definition makes it into your contract, and what gets carved out of each.
 
-Accumulators, maximizers, and full-price claims on zero-cost drugs all change the math.
+Ginny Crisp decodes the five terms and the gap each one hides.
 
-Ginny Crisp analyzes how manufacturer programs affect your plan's true spend.
-
-#CopayCards #DrugPricing #PharmacyBenefits
+#PBMContracts #Rebates #PharmacyBenefits
 
 ---
 

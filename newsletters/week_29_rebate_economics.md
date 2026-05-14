@@ -549,11 +549,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
-Pass-through. Traditional. Hybrid. Three rebate models, three different places the PBM's margin lives, and the label in your contract may not match the economics.
+Network design lives in five contract terms most plan sponsors never read. Membership scope, preferred-pharmacy designation, exclusion criteria, mail-order economics, and out-of-network reimbursement each shape where members fill and what the plan pays.
 
-Ginny Crisp compares the three models and the eight contract provisions that determine what your plan actually receives.
+Ginny Crisp decodes the five terms.
 
-#Rebates #PlanSponsors #EmployeeBenefits
+#PBMContracts #NetworkDesign #PharmacyBenefits
 
 ---
 

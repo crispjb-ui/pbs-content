@@ -305,11 +305,11 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ca
 
 #### Reshare Copy
 
-Three cost patterns surface in Q4 claims data every year: copay card deductible acceleration, year-end maintenance stockpiling, and specialty treatment timing. Each one is visible by early November.
+Three contract clauses sit behind every Q4 cost pattern that shows up in claims data. Copay accumulator language, maintenance-fill rules, and specialty timing provisions each turn a recurring pattern into a fixable contract item.
 
-Ginny Crisp walks through what each pattern does to the plan's P&L and how to intervene before year-end.
+Ginny Crisp walks through the clauses and what to redline before next renewal.
 
-#ClaimsAudit #PlanSponsors #EmployeeBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 
 ---
 
