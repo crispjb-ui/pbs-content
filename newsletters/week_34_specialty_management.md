@@ -215,6 +215,46 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Mid-Year Performance Guarantee Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/midyear-guarantee-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Thursday Field Note Handout · Mid-Year Performance Guarantee Audit Worksheet
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `midyear-guarantee-audit` |
+| `name` | `Mid-Year Performance Guarantee Audit Worksheet` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `performance guarantee mid-year audit` |
+| `pillar` | `PBM Contract Insights` |
+| `second_toolkit_name` | `Quarterly Reporting Checklist` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
+| `second_toolkit_blurb` | `The Mid-Year Guarantee Audit names which guarantees to check at mid-year. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows the data those guarantees are measured against. The 15-line framework is the report-side audit; the guarantee audit is the contract-side audit. Together they pair as the two halves of a documented mid-year position.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_34_thursday_midyear_guarantee_audit.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Quarterly Reporting Checklist → `templates/documents/week_21_quarterly_reporting_checklist.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/midyear-guarantee-audit` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+Quarterly Reporting is the natural disclosure-trace partner to a performance-guarantee audit. Channel Pricing Field Note covers a similar audit framework.
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #29

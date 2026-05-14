@@ -255,6 +255,46 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (monday deep dive: Quarterly Reporting Checklist); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/quarterly-reporting` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Monday Deep Dive · Quarterly Reporting Checklist
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `quarterly-reporting` |
+| `name` | `Quarterly Reporting Checklist` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `15-line audit framework` |
+| `pillar` | `PBM Contract Insights` |
+| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_blurb` | `Quarterly Reporting names what to audit on the report your PBM sends. PBM Compensation names where the money goes that does not always show up on the report. The five compensation streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) are what the Quarterly Reporting framework checks against. Together they pair as the two halves of one renewal-leverage record.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_21_quarterly_reporting_checklist.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/quarterly-reporting` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+PBM Compensation is the universal zoom-out anchor for any single-stream audit framework. Channel Pricing Field Note is the strongest published audit-themed Field Note available for Email 3.
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #16

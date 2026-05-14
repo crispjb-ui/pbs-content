@@ -258,6 +258,46 @@ Style: photorealistic product photography, warm natural daylight, no other objec
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (monday deep dive: Mid-Year Claims Red Flag Checklist); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/midyear-claims-red-flag` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Monday Deep Dive · Mid-Year Claims Red Flag Checklist
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `midyear-claims-red-flag` |
+| `name` | `Mid-Year Claims Red Flag Checklist` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `claims-data pattern audit` |
+| `pillar` | `Self-Funded Employer Guidance` |
+| `second_toolkit_name` | `Quarterly Reporting Checklist` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
+| `second_toolkit_blurb` | `The Red Flag Checklist surfaces patterns in your claims data. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows those patterns or buries them. Five patterns to look for in claims data; fifteen lines to audit on the report that should reflect them. Together they pair as cause and disclosure-trace.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_23_midyear_claims_red_flag_checklist.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Quarterly Reporting Checklist → `templates/documents/week_21_quarterly_reporting_checklist.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/midyear-claims-red-flag` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+Quarterly Reporting is the natural operational follow-on (data audit then reporting audit). Channel Pricing Field Note covers the most common Red Flag pattern.
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #18

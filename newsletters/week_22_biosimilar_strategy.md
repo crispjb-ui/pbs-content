@@ -238,6 +238,79 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. 2 toolkits ship this week (Monday Deep Dive Biosimilar Readiness Assessment + Thursday Field Note Handout Specialty Routing Audit Worksheet); each becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/<slug>` and each gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Monday Deep Dive · Biosimilar Readiness Assessment
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `biosimilar-readiness` |
+| `name` | `Biosimilar Readiness Assessment` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `biosimilar adoption economics` |
+| `pillar` | `Clinical Pharmacy Perspectives` |
+| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_blurb` | `Biosimilar adoption rates are suppressed by rebate-retention economics on the originator drug. Rebate retention is one of five PBM compensation streams. This worksheet walks through all five and the disclosure-gap framework that surfaces whether your contract financially incentivizes the PBM to delay biosimilar conversion. The biosimilar question is downstream of the compensation question.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_22_biosimilar_readiness_assessment.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/biosimilar-readiness` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+PBM Compensation anchors the rebate-retention thread that drives biosimilar suppression. Channel Pricing Field Note carries the same audit-framework posture.
+
+---
+
+## Toolkit 2 — Thursday Field Note Handout · Specialty Routing Audit Worksheet
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `specialty-routing` |
+| `name` | `Specialty Routing Audit Worksheet` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `specialty fill routing` |
+| `pillar` | `PBM Contract Insights` |
+| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_blurb` | `Specialty routing produces one of the five PBM compensation streams (owned-pharmacy margin). This worksheet maps the other four (spread, rebate retention, admin fees, manufacturer-direct) and walks through the three audit passes to identify which mechanisms apply to your contract. Specialty routing alone is one revenue stream; PBM Compensation is the full map.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_22_thursday_specialty_routing_audit_worksheet.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/specialty-routing` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+PBM Compensation universal anchor. Channel Pricing Field Note is the structurally similar revenue-stream audit; reader continues in the same analytical posture.
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #17

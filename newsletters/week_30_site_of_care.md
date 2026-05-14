@@ -225,6 +225,46 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Coordination of Benefits (COB) Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/cob-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Thursday Field Note Handout · Coordination of Benefits (COB) Audit Worksheet
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `cob-audit` |
+| `name` | `Coordination of Benefits (COB) Audit Worksheet` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `COB claim-flag audit` |
+| `pillar` | `Self-Funded Employer Guidance` |
+| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_blurb` | `COB flagging at the claim level determines whether copay-assistance dollars stack onto your plan's out-of-pocket maximums or stay separate. The economics of that flag are entirely about the rebate-retention and manufacturer-direct streams in your PBM compensation. This worksheet maps all five compensation streams and the disclosure-gap framework that surfaces which mechanism your COB workflow is silently optimized for.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_30_thursday_cob_audit_worksheet.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/cob-audit` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+PBM Compensation universal anchor (COB ties to rebate-retention and manufacturer-direct streams). Channel Pricing Field Note carries the same audit posture.
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #25

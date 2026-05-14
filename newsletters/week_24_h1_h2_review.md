@@ -268,6 +268,79 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. 2 toolkits ship this week (Monday Deep Dive H1 Renewal Readiness Scorecard + Thursday Field Note Handout Contract Amendment Letter Template); each becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/<slug>` and each gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Monday Deep Dive · H1 Renewal Readiness Scorecard
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `h1-renewal-readiness` |
+| `name` | `H1 Renewal Readiness Scorecard` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `five mid-year metrics` |
+| `pillar` | `Self-Funded Employer Guidance` |
+| `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
+| `second_toolkit_blurb` | `The H1 Scorecard is the five-metric mid-year snapshot. The PBR Framework is the twice-yearly six-category comprehensive audit PBS runs for clients. Run the H1 Scorecard in July to surface the metrics that matter; run the full PBR in mid-year to produce the documentation that goes into the renewal cycle. Together they pair as the lean check and the thorough audit.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_24_h1_renewal_readiness_scorecard.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Pharmacy Benefit Review (PBR) Framework → `templates/documents/evergreen_pbr_pharmacy_benefit_review_framework.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/h1-renewal-readiness` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+Tier 1 evergreen PBR Framework is the natural deeper companion to a Tier 2 scorecard. Channel Pricing Field Note covers a renewal-relevant audit.
+
+---
+
+## Toolkit 2 — Thursday Field Note Handout · Contract Amendment Letter Template
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `contract-amendment-letter` |
+| `name` | `Contract Amendment Letter Template` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `mid-year amendment notice` |
+| `pillar` | `PBM Contract Insights` |
+| `second_toolkit_name` | `Quarterly Reporting Checklist` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
+| `second_toolkit_blurb` | `The Amendment Letter Template is what you send when an H1 finding meets the amendment trigger. The Quarterly Reporting Checklist is what produces the H1 finding in the first place. The 15-line audit framework names the gap; the amendment letter documents the response. Together they pair as audit then ask.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_24_thursday_contract_amendment_letter.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Quarterly Reporting Checklist → `templates/documents/week_21_quarterly_reporting_checklist.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/contract-amendment-letter` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+Quarterly Reporting is the natural prerequisite that surfaces the gap the Amendment Letter responds to. Channel Pricing Field Note is the structurally similar audit-framework example.
+
+---
+
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #19

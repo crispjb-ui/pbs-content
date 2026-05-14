@@ -214,6 +214,45 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+
+This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Termination Clause Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/termination-clause-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+---
+
+## Toolkit 1 — Thursday Field Note Handout · Termination Clause Audit Worksheet
+
+### Wix Toolkits dataset row
+
+| Column | Value |
+|---|---|
+| `slug` | `termination-clause-audit` |
+| `name` | `Termination Clause Audit Worksheet` |
+| `pdf_url` | `[fill after Wix Media upload]` |
+| `mechanic_phrase` | `exit-option audit` |
+| `pillar` | `PBM Contract Insights` |
+| `second_toolkit_name` | `Optimize Existing vs Go-to-Market Decision Framework` |
+| `second_toolkit_pdf_url` | `[Wix Media URL of Optimize Existing vs Go-to-Market Decision Framework]` |
+| `second_toolkit_blurb` | `Termination clauses determine your exit options. Exit options determine your leverage even when you have no intention of terminating. The Optimize vs Go-to-Market Framework is the three-variable decision tree where 'go to market' becomes the recommended path, and the path requires functional termination language to execute. Termination clause audit is the prerequisite; the decision framework is what you do with the leverage it creates.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+
+### Wix build checklist
+
+- [ ] Upload `templates/documents/week_35_thursday_termination_clause_audit.pdf` to Wix Media Manager
+- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `second_toolkit_pdf_url` is set (Optimize Existing vs Go-to-Market Decision Framework → `templates/documents/evergreen_optimize_vs_go_to_market_decision_framework.pdf`)
+- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
+- [ ] Verify `rxbs.org/toolkit/termination-clause-audit` renders correctly
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+
+### Pairing rationale
+
+Optimize vs Go-to-Market Tier 1 evergreen is the strategic frame inside which termination leverage operates. Channel Pricing Field Note demonstrates a typical audit finding that supports the 'go to market' path.
+
+---
+
 # PART 2: LINKEDIN NEWSLETTER - Issue #30
 
 ### Newsletter Body (~400 words)
