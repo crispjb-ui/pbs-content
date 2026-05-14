@@ -165,7 +165,6 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ---
 
-
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Auditing Your RFP Scoring Methodology Before You Send It
@@ -268,7 +267,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_pdf_url` | `[Wix Media URL of Optimize Existing vs Go-to-Market Decision Framework]` |
 | `second_toolkit_blurb` | `The RFP Scoring Audit only matters if go-to-market is the right decision. The Optimize vs Go-to-Market Framework is the three-variable decision tree that produces the recommendation in the first place. About 70% of contract reviews end in 'optimize existing,' which means the RFP path is the wrong path for most plans. Together they pair as decision then design.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -285,7 +284,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 Optimize vs Go-to-Market is the natural upstream decision Tier 1 framework. Channel Pricing Field Note demonstrates the kind of audit finding that often supports 'optimize' over 'RFP.'
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -527,7 +525,6 @@ Two hours now. Different outcome in September.
 
 #PBMRenewal #PharmacyCosts #PharmacyBenefits
 
-
 #### First Comment
 
 This week's Benefit Blind Spots deep dive on the 90-day renewal window is the operational follow-on: the month-by-month renewal preparation timeline. [SUBSTACK MONDAY DEEP DIVE URL]
@@ -719,7 +716,6 @@ Years ago we reviewed a client's formulary and asked a simple question: how does
 The formulary is where PBM rebate economics meet clinical decision-making. Whose interests win that contest determines what your members pay and what your plan spends.
 
 Next week: who really controls your drug list, and the seven questions that reveal the answer.
-
 
 #### First Comment
 

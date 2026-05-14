@@ -263,10 +263,10 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `disclosure obligation audit` |
 | `pillar` | `Transparency & Industry Education` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Disclosure obligations are the contractual mechanism for surfacing compensation streams the PBM otherwise does not name. PBM Compensation maps the five streams; PBM Disclosure audits whether the contract requires the PBM to disclose each. Together they pair as the substance (what the PBM is paid) and the form (how the contract requires it disclosed). The gap between the two is the renewal-leverage item.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -283,7 +283,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 PBM Compensation is the natural substantive partner to a disclosure-obligation audit. Channel Pricing Field Note covers the kind of finding disclosure obligations should surface.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -366,7 +365,6 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 **Per-instance overrides:**
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 08 · Evaluating RFP responses`
-
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -464,7 +462,6 @@ Standard RFP questions allow good-sounding answers that commit to nothing specif
 I have evaluated PBM proposals where three responses looked competitive on paper. When we normalized the methodologies and asked specific follow-up questions, one was substantially more expensive than the others despite appearing cheapest on the cover page.
 
 The fix is not a longer RFP. It is 30 specific follow-up questions with 0-3 scoring on each answer, where a vague response costs points. Your broker can add that layer. The best ones already do.
-
 
 #### First Comment
 
@@ -598,7 +595,6 @@ Prior authorization. Step therapy. Drug utilization review. Medication therapy m
 The PBM counts avoided costs that were never going to occur. They attribute formulary-driven savings to clinical programs that had nothing to do with the outcome.
 
 Next week: clinical program ROI, and the scorecard that separates real savings from reported savings.
-
 
 #### First Comment
 

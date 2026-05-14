@@ -244,7 +244,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
 | `second_toolkit_blurb` | `ERISA prudent process requires a reasonable, documented decision-making process. The PBR Framework is the twice-yearly comprehensive audit that produces that documentation across six categories of plan performance. The Fiduciary Audit names the standard; the PBR delivers the artifact. Together they pair as the legal obligation and the operational practice that satisfies it.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -261,7 +261,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 PBR Framework Tier 1 evergreen is the documentation-producing partner to a fiduciary audit. Channel Pricing Field Note is the kind of finding that should be in the PBR write-up.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -404,7 +403,6 @@ But the gap between reported savings and verified savings is consistent across a
 
 One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If the PBM cannot produce it, the number is a marketing metric, not a financial metric.
 
-
 #### First Comment
 
 This week's Benefit Blind Spots deep dive on clinical program ROI is the operational follow-on: the savings-methodology audit framework with the one request to send your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
@@ -532,7 +530,6 @@ The best pharmacy strategy fails without the right communication. Formulary chan
 The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging.
 
 Next week: communicating pharmacy changes, and five scenario-specific templates that prevent the backlash.
-
 
 #### First Comment
 

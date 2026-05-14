@@ -248,10 +248,10 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `GER variance audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `GER is one specific contract guarantee. PBM Compensation is the full map of how the PBM is paid (including the streams that distort how GER is calculated). The five streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) explain why GER variance is rarely a math error and almost always a methodology design. Together they pair as one guarantee and the full economics that shape it.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -268,7 +268,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 PBM Compensation universal anchor for single-mechanic audits. Channel Pricing Field Note covers a similar single-mechanic audit framework.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -431,7 +430,6 @@ One data request: net cost per script by dispensing channel, for your top 10 dru
 [Close.]
 
 "One data request reveals the story: net cost per script, by channel, for your top 10 drugs. Ask for it."
-
 
 #### First Comment
 
@@ -620,7 +618,6 @@ The disconnect is not a math error. It is a reporting choice. The PBM shows you 
 Rebate economics is the most manipulated element of PBM contracts. Not because the numbers are fabricated. Because the numbers are selected. What gets highlighted, what gets buried, and what never gets reported at all.
 
 Next week: rebate economics decoded. Eight contract provisions compared: weak vs. strong language.
-
 
 #### First Comment
 

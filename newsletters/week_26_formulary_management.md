@@ -176,7 +176,6 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ---
 
-
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Auditing Your Step Therapy Override Workflow
@@ -278,10 +277,10 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `override workflow audit` |
 | `pillar` | `Clinical Pharmacy Perspectives` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Step therapy override approval rates are often driven by rebate-retention economics on the step-1 drug, not clinical criteria alone. Rebate retention is one of five PBM compensation streams. This worksheet maps all five and the disclosure-gap framework that surfaces whether your override workflow is compensation-driven or clinically-driven. The clinical question is often downstream of the contract question.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -298,7 +297,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 PBM Compensation anchors the rebate-retention thread driving step therapy decisions. Channel Pricing Field Note carries the same audit posture.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -482,7 +480,6 @@ When two drugs are clinically equivalent, the higher-rebate drug gets preferred 
 One question changes the conversation: what is the net cost, our formulary vs. alternatives?
 
 #Formulary #DrugPricing #PharmacyBenefits
-
 
 #### First Comment
 
@@ -685,7 +682,6 @@ Most employers have never asked it. Not because the answer is hard to get. Becau
 Your PBM knows the market. Your broker knows the market. The question is whether you know it.
 
 Next week: when to stay, when to switch, and a 100-point scorecard that removes the guesswork.
-
 
 #### First Comment
 

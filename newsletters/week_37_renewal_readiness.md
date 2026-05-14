@@ -311,7 +311,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
 | `second_toolkit_blurb` | `The Pre-Meeting Checklist names what to walk into the renewal meeting with. The PBR Framework is the twice-yearly comprehensive audit that produces those items. Run the PBR in mid-year and year-end; the renewal-meeting items are the natural artifact of the audit. The checklist is the conclusion; the PBR is the work that produces it.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -527,7 +527,6 @@ Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_rev
 - Badge (top-right): "WHAT WE'RE SEEING · Q3"
 - Plex Mono subtitle (22pt, white, tabular figures): `Aggregated from ~100 contract reviews · Q3 2026`
 
-
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 137 - Tuesday 10:00 AM
@@ -637,7 +636,6 @@ The employers who did not will walk in with the PBM's summary report. They will 
 If you are reading this and you have not started, three steps take about one working day: run five core metrics, flag ten contract provisions, have three conversations. That day of preparation changes outcomes more than any single contract provision.
 
 Preparation is the strategy. Renewal is just the meeting.
-
 
 #### First Comment
 
@@ -763,7 +761,6 @@ Over the past 13 weeks, we built the toolkit: scorecards, comparison libraries, 
 What comes next: how the negotiations play out, what we are seeing in the market, and the implementation decisions that determine whether contract improvements translate to plan savings.
 
 Q4 content starts next Monday.
-
 
 #### First Comment
 

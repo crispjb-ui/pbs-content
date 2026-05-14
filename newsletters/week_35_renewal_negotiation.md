@@ -235,7 +235,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_pdf_url` | `[Wix Media URL of Optimize Existing vs Go-to-Market Decision Framework]` |
 | `second_toolkit_blurb` | `Termination clauses determine your exit options. Exit options determine your leverage even when you have no intention of terminating. The Optimize vs Go-to-Market Framework is the three-variable decision tree where 'go to market' becomes the recommended path, and the path requires functional termination language to execute. Termination clause audit is the prerequisite; the decision framework is what you do with the leverage it creates.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -322,7 +322,6 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 **Per-instance overrides:**
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 10 · Reviewing a renewal proposal`
-
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -429,7 +428,6 @@ Twelve contract provisions drive the economics: GER, rebates, specialty pricing,
 The PBM knows this. Their initial proposal is engineered accordingly: competitive headline numbers, weak structural provisions. The employer celebrates the pricing. The PBM keeps the structural advantages.
 
 A term sheet that covers all twelve provisions changes the dynamic. Your broker should be building it with you. If they have not started, bring the list to them.
-
 
 #### First Comment
 
@@ -559,7 +557,6 @@ Two words in your PBM contract can cost your plan six figures. Most employers ha
 Contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance. It is financial exposure.
 
 Next week: contract language that costs you. Ten provisions shown in weak, moderate, and strong versions. A reference document for your next renewal.
-
 
 #### First Comment
 

@@ -134,7 +134,6 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ---
 
-
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Reading the Rebate Report Without Getting Spun
@@ -221,7 +220,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. Two toolkits ship in W20 (Monday Copay Card Calculator + Thursday Rebate Report Audit Worksheet); each becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/<slug>`, and each gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+This section is the operational source-of-truth for the Wix work this week. 2 toolkits ship this week (Monday Deep Dive Copay Card Financial Impact Calculator + Thursday Field Note Handout Rebate Report Audit Worksheet); each becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/<slug>` and each gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
 
 ---
 
@@ -237,24 +236,24 @@ This section is the operational source-of-truth for the Wix work this week. Two 
 | `mechanic_phrase` | `copay accumulator economics` |
 | `pillar` | `Cost Containment Strategies` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Comp PDF]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Copay cards move manufacturer money through your plan. Manufacturer money is one of five PBM compensation streams. This worksheet zooms out to all five (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) and walks through the three audit passes that surface which mechanisms apply to your contract. The accumulator vs maximizer decision sits inside the rebate-retention stream, not outside it.` |
-| `field_note_title` | `Reading the Rebate Report Without Getting Spun` |
-| `field_note_url` | `[fill after Thursday May 21 publish]` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
 - [ ] Upload `templates/documents/week_20_copay_card_financial_impact_calculator.pdf` to Wix Media Manager
 - [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation PDF should already be uploaded from W19 work)
+- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
 - [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
 - [ ] Verify `rxbs.org/toolkit/copay-card-calculator` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with Copay Card PDF link
-- [ ] **Thursday May 21 after Field Note publishes:** update `field_note_url` cell with live Substack URL
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
 
 ### Pairing rationale
 
-PBM Compensation is the universal "zoom out" anchor when the first toolkit audits a single compensation mechanism (copay cards interact with rebate retention and manufacturer-direct payments, two of the five streams). The Thursday Field Note "Reading the Rebate Report" ships same-week and deepens the manufacturer-money thread Email 1 introduced.
+PBM Compensation is the universal zoom-out anchor when the first toolkit audits a single compensation mechanism (copay cards interact with rebate retention and manufacturer-direct payments, two of the five streams). Channel Pricing Field Note carries the same audit-framework posture.
 
 ---
 
@@ -270,23 +269,24 @@ PBM Compensation is the universal "zoom out" anchor when the first toolkit audit
 | `mechanic_phrase` | `rebate flow audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Comp PDF]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Rebates are one of five PBM compensation streams. This worksheet walks through all five (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin), the three audit passes to identify which mechanisms apply to your contract, and the disclosure-gap framework that becomes your renewal-leverage item. Plan sponsors who audit the rebate flow alone miss four of the five streams the contract is silently paying out on.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
 - [ ] Upload `templates/documents/week_20_thursday_rebate_report_audit_worksheet.pdf` to Wix Media Manager
 - [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` (PBM Compensation, shared with Toolkit 1)
+- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
 - [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
 - [ ] Verify `rxbs.org/toolkit/rebate-report-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with Rebate Audit PDF link
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
+- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
 
 ### Pairing rationale
 
-PBM Compensation again as the "zoom out" anchor (rebate is one of the five streams). Field Note pairs to the published W18 Channel Pricing Field Note as the structurally similar audit-framework deep read; both Rebate and Channel Pricing are revenue-stream audits, so the reader continues in the same analytical posture.
+PBM Compensation again as the zoom-out anchor (rebate is one of the five streams). Channel Pricing Field Note is the structurally similar revenue-stream audit; reader continues in the same analytical posture.
 
 ---
 
@@ -489,7 +489,6 @@ The drug was never free. The cost just moved. From member to plan. From visible 
 Follow the claim. Not the card.
 
 #CopayCards #DrugPricing #PharmacyBenefits
-
 
 #### First Comment
 
@@ -730,7 +729,6 @@ Every one is a metric the PBM controls. Every one looks favorable on the page. N
 The numbers that move the renewal price are in the data the PBM has. They are not in the report the PBM sends.
 
 Next week: the 15-line audit checklist for what should be in your quarterly report, and the contract clause that makes it a standing deliverable.
-
 
 #### First Comment
 

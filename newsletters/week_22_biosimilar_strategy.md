@@ -153,7 +153,6 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ---
 
-
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Auditing Where Your Specialty Drugs Actually Fill
@@ -256,10 +255,10 @@ This section is the operational source-of-truth for the Wix work this week. 2 to
 | `mechanic_phrase` | `biosimilar adoption economics` |
 | `pillar` | `Clinical Pharmacy Perspectives` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Biosimilar adoption rates are suppressed by rebate-retention economics on the originator drug. Rebate retention is one of five PBM compensation streams. This worksheet walks through all five and the disclosure-gap framework that surfaces whether your contract financially incentivizes the PBM to delay biosimilar conversion. The biosimilar question is downstream of the compensation question.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -289,10 +288,10 @@ PBM Compensation anchors the rebate-retention thread that drives biosimilar supp
 | `mechanic_phrase` | `specialty fill routing` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Specialty routing produces one of the five PBM compensation streams (owned-pharmacy margin). This worksheet maps the other four (spread, rebate retention, admin fees, manufacturer-direct) and walks through the three audit passes to identify which mechanisms apply to your contract. Specialty routing alone is one revenue stream; PBM Compensation is the full map.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -309,7 +308,6 @@ PBM Compensation anchors the rebate-retention thread that drives biosimilar supp
 PBM Compensation universal anchor. Channel Pricing Field Note is the structurally similar revenue-stream audit; reader continues in the same analytical posture.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -491,7 +489,6 @@ The brand's rebate contract may make it more profitable for the PBM. Higher reba
 One question reveals everything: what is the net cost, brand vs. biosimilar, after all rebates?
 
 #Biosimilars #SelfFundedEmployers #EmployeeBenefits
-
 
 #### First Comment
 
@@ -806,7 +803,6 @@ Specialty spend shifting. Generic rates declining. High-cost claimants clusterin
 These are not random fluctuations. They are signals. And mid-year is the window where you can still act on them.
 
 Next week: five claims data patterns that signal trouble before renewal. The smoke signals your data is sending right now.
-
 
 #### First Comment
 

@@ -258,10 +258,10 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `network design audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Network configuration produces one of the five PBM compensation streams (owned-pharmacy margin when mandatory mail or PBM-affiliated specialty is in play). PBM Compensation maps the other four and the disclosure-gap framework that becomes your renewal-leverage item. Network design is one revenue lever; PBM Compensation is the full map.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -278,7 +278,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 PBM Compensation universal anchor. Channel Pricing Field Note explicitly addresses the retail/mail/specialty channel split that network design controls.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -364,7 +363,6 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 **Per-instance overrides:**
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 07 · Tracking rebate dollars`
-
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -467,7 +465,6 @@ Rebate economics are structurally controlled by four contract provisions: how "r
 Each one either protects the plan or protects the PBM's margin. In the hundreds of contracts we review each year, we see the full spectrum: from fully transparent pass-through arrangements to structures where the PBM retains meaningful manufacturer payments that never appear in the rebate report.
 
 One question cuts through the complexity: what is our net drug cost, after all rebates, compared to what the market would offer?
-
 
 #### First Comment
 
@@ -615,7 +612,6 @@ The setting where a drug gets administered can change the cost by multiples. Not
 Site-of-care is the cost lever that crosses the pharmacy and medical benefit boundary. Most employers have never evaluated it because it requires coordinating two benefits that rarely talk to each other.
 
 Next week: site-of-care optimization, and the decision tree by therapeutic category.
-
 
 #### First Comment
 
