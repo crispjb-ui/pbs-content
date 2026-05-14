@@ -265,6 +265,20 @@ These handouts are the **lead-magnet ladder**. A vendor request for the PA score
 
 (g) **Substack PDF embed (added May 5, 2026):** The toolkit PDF embeds **natively in the Substack post editor via drag-and-drop**. Drop the `.pdf` from `templates/documents/` directly into the post body where the embed should render — Substack converts it to a styled inline file tile that readers can click to view or download. No external hosting (Google Drive, Dropbox) needed. The `**[EMBED PDF: <path>]**` marker in week files is the placement instruction for the publisher; replace it with the dragged-in PDF tile when publishing the post.
 
+(h) **Per-week PART 1C Toolkit Pairings + Wix Build section (added May 14, 2026, required behavior):** Every newsletter week file that ships a Plan Sponsor Toolkit handout (Monday integrated tool, Thursday Field Note handout, or both) must include a `PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD` section placed after the Field Note build (PART 1B) and before the LinkedIn Newsletter section (PART 2). This section is the operational source-of-truth for the Wix work Ginny does that week to wire up the new toolkit(s) as lead magnets.
+
+For each toolkit shipping that week, the section contains:
+
+  (1) **Wix Toolkits dataset row** — the full set of column values for the Wix Data Collection row: `slug`, `name`, `pdf_url` (filled after Wix Media upload), `mechanic_phrase`, `pillar`, `second_toolkit_name`, `second_toolkit_pdf_url`, `second_toolkit_blurb`, `field_note_title`, `field_note_url` (filled after Field Note publishes).
+
+  (2) **Wix build checklist** — the per-toolkit weekly clicks: upload PDF to Wix Media Manager, paste public URL into the dataset row, add row to Toolkits collection, verify landing page renders at `rxbs.org/toolkit/<slug>`, submit test form, confirm Email 1 fires within 5 min with the right PDF. After Thursday Field Note publishes, update the `field_note_url` cell with the live Substack URL.
+
+  (3) **Pairing rationale** — 1-2 sentences explaining why `second_toolkit` and `field_note` were selected per the pairing rules in `email_gated_toolkit/toolkit_dataset.md` (different mechanic from the first; PBM Compensation as the universal "zoom out" anchor for single-revenue-stream audits; Tier 1 toolkits pair down to Tier 2 mechanics; PBM Compensation entry pairs to Quarterly Reporting).
+
+The repo-level companion file `email_gated_toolkit/toolkit_dataset.md` consolidates all toolkit pairings across the calendar; PART 1C is the week-file mirror that puts the same information in the natural workflow place. Without PART 1C, the Wix Email 2-5 sequence cannot be configured for the new toolkit and the toolkit cannot ship as a lead magnet.
+
+Applies to all newsletter week files from W20 forward. Backfill prior weeks (W16-W19) as bandwidth allows; do not block forward content production on backfill. When a week ships zero toolkits (rare), the section can be omitted with a one-line note `_No Plan Sponsor Toolkit shipping this week._` so the absence is intentional and visible.
+
 ## Six Content Pillars
 
 1. **Transparency & Industry Education** - How the PBM industry works
@@ -521,6 +535,7 @@ When a week's Tuesday or Thursday visual is being scheduled, the brief in the we
     ├── week_07_mac_pricing_transparency.md  # Each file contains:
     └── ... (through week_37)                #   PART 1: Substack article
                                              #   PART 1B: Field Note
+                                             #   PART 1C: Toolkit Pairings + Wix Build
                                              #   PART 2: LinkedIn Newsletter
                                              #   PART 3: LinkedIn Feed Posts
                                              #   PART 4: Substack Notes
