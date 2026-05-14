@@ -241,7 +241,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `ERISA prudent process audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_0dcd81cf62924b97b81c0bf88b96bf99.pdf` |
 | `second_toolkit_blurb` | `ERISA prudent process requires a reasonable, documented decision-making process. The PBR Framework is the twice-yearly comprehensive audit that produces that documentation across six categories of plan performance. The Fiduciary Audit names the standard; the PBR delivers the artifact. Together they pair as the legal obligation and the operational practice that satisfies it.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

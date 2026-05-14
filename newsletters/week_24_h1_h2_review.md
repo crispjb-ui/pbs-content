@@ -285,7 +285,7 @@ This section is the operational source-of-truth for the Wix work this week. 2 to
 | `mechanic_phrase` | `five mid-year metrics` |
 | `pillar` | `Self-Funded Employer Guidance` |
 | `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_0dcd81cf62924b97b81c0bf88b96bf99.pdf` |
 | `second_toolkit_blurb` | `The H1 Scorecard is the five-metric mid-year snapshot. The PBR Framework is the twice-yearly six-category comprehensive audit PBS runs for clients. Run the H1 Scorecard in July to surface the metrics that matter; run the full PBR in mid-year to produce the documentation that goes into the renewal cycle. Together they pair as the lean check and the thorough audit.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

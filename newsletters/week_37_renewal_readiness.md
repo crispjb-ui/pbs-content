@@ -308,7 +308,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `renewal-meeting preparation` |
 | `pillar` | `Self-Funded Employer Guidance` |
 | `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_0dcd81cf62924b97b81c0bf88b96bf99.pdf` |
 | `second_toolkit_blurb` | `The Pre-Meeting Checklist names what to walk into the renewal meeting with. The PBR Framework is the twice-yearly comprehensive audit that produces those items. Run the PBR in mid-year and year-end; the renewal-meeting items are the natural artifact of the audit. The checklist is the conclusion; the PBR is the work that produces it.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
