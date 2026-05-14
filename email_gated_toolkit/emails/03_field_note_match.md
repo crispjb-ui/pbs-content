@@ -1,19 +1,19 @@
-# Email 3 — Day 5 — Recent Field Note (Topic-Matched)
+# Email 3 — Day 5 — Recent Field Note
 
 **Trigger:** 3 days after Email 2 sends (Wix Automation: Wait 3 days → Send).
 **Sender:** Ginny Crisp, PharmD · team@rxbs.org
-**Personalization tokens:** `{{first_name}}`, `{{first_slug}}`, `{{field_note_title}}`, `{{field_note_url}}`, `{{field_note_blurb}}`
+**Personalization tokens:** `{{first_name}}` (Wix built-in), `{{field_note_url}}` (Wix Contacts custom field populated by the Automation)
 
 ---
 
 ## Subject line
 
-`{{field_note_title}} — recent Field Note`
+`A recent Field Note (3-min read)`
 
 **Variants to test:**
-- `Recent Field Note (3-min read)`
-- `{{first_name}}, this Field Note pairs with what you downloaded`
+- `{{first_name}}, a Field Note that pairs with what you downloaded`
 - `From the work this week`
+- `Three minutes on contract language audit`
 
 ---
 
@@ -25,20 +25,17 @@ Hi {{first_name}},
 A recent Field Note from Benefit Blind Spots that pairs with the audit
 frameworks you've been reviewing:
 
-{{field_note_title}}
-→ Read it: {{field_note_url}}?utm_source=wix&utm_medium=email&utm_campaign=toolkit-{{first_slug}}&utm_content=email-3
+→ Read it: {{field_note_url}}
 
-{{field_note_blurb}}
-
-Field Notes are the practical, tactical companion to the Monday deep dives.
-Same audit-framework structure, smaller scope: a single contract clause or
-a single workflow audited end-to-end.
+Field Notes are the practical, tactical companion to the Monday deep
+dives. Same audit-framework structure, smaller scope: a single contract
+clause or a single workflow audited end-to-end.
 
 Each Field Note pairs with a Plan Sponsor Toolkit handout (like the two
-you've already received). Subscribe to Benefit Blind Spots and you'll get
-each new Toolkit handout the week it ships.
+you've already received). Subscribe to Benefit Blind Spots and you'll
+get each new Toolkit handout the week it ships.
 
-→ Subscribe (free): benefitblindspots.substack.com?utm_source=wix&utm_medium=email&utm_campaign=toolkit-{{first_slug}}&utm_content=email-3-substack
+→ Subscribe (free): benefitblindspots.substack.com
 
 - Ginny
 
@@ -46,6 +43,16 @@ Ginny Crisp, PharmD
 CEO, Prescription Benefit Solutions
 team@rxbs.org · rxbs.org · benefitblindspots.substack.com
 ```
+
+---
+
+## Tokens NOT used (dropped per Wix form-field cap May 14)
+
+- `{{field_note_title}}` — the Field Note title doesn't render in the email body; reader sees a generic "recent Field Note" intro followed by the link. Title is on the linked Substack page itself. Functional loss: minor.
+- `{{field_note_blurb}}` — the 1-2 sentence preview blurb is dropped. Email 3 prose stays generic about what Field Notes are. The Field Note's own intro paragraph on Substack does the topic-specific work after click.
+- `{{slug}}` / UTM tracking — UTM params dropped. Static link without UTM. Can reintroduce if Wix Forms cap loosens.
+
+The 4 hidden form fields we kept (out of 6 needed) prioritize Email 2 (the second-toolkit pairing, which carries the most per-toolkit strategic logic) over Email 1 + Email 3 personalization. Email 2 → fully personalized. Email 1 + 3 → first-toolkit name and field-note link only.
 
 ---
 

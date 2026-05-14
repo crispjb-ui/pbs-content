@@ -3,7 +3,7 @@
 **Trigger:** 2 days after Email 1 sends (Wix Automation: Wait 2 days → Send).
 **Sender name:** Ginny Crisp, PharmD
 **Sender email:** team@rxbs.org
-**Personalization tokens:** `{{first_name}}`, `{{first_toolkit_name}}`, `{{second_toolkit_name}}`, `{{second_pdf_url}}`, `{{second_toolkit_blurb}}`
+**Personalization tokens:** `{{first_name}}` (Wix built-in), `{{first_toolkit_name}}`, `{{second_toolkit_name}}`, `{{second_toolkit_pdf_url}}`, `{{second_toolkit_blurb}}` (Wix Contacts custom fields populated by the Automation)
 
 ---
 
@@ -23,11 +23,11 @@
 ```
 Hi {{first_name}},
 
-You opened the {{first_toolkit_name}} worksheet a couple days ago. If it
-was useful, here's the second one.
+You opened the {{first_toolkit_name}} a couple days ago. If it was
+useful, here's the second one.
 
 → {{second_toolkit_name}} (PDF, 2 pages):
-   {{second_pdf_url}}?utm_source=wix&utm_medium=email&utm_campaign=toolkit-{{first_slug}}&utm_content=email-2
+   {{second_toolkit_pdf_url}}
 
 {{second_toolkit_blurb}}
 
@@ -35,7 +35,7 @@ If you want the weekly version of this kind of analysis, our Substack
 publication "Benefit Blind Spots" ships a deep dive every Monday and a
 tactical Field Note every Thursday. Free.
 
-→ Subscribe: benefitblindspots.substack.com?utm_source=wix&utm_medium=email&utm_campaign=toolkit-{{first_slug}}&utm_content=email-2-substack
+→ Subscribe: benefitblindspots.substack.com
 
 - Ginny
 

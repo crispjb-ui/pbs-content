@@ -5,13 +5,13 @@
 **Sender name:** Ginny Crisp, PharmD
 **Sender email:** team@rxbs.org
 **Reply-to:** team@rxbs.org
-**Personalization tokens:** `{{first_name}}`, `{{toolkit_name}}`, `{{pdf_url}}`
+**Personalization tokens:** `{{first_name}}` (Wix built-in), `{{first_toolkit_name}}`, `{{first_toolkit_pdf_url}}` (both Wix Contacts custom fields populated by the Automation at signup time)
 
 ---
 
 ## Subject line
 
-`Your {{toolkit_name}} Worksheet`
+`Your {{first_toolkit_name}}`
 
 **Variants to test (after 30 days of baseline data):**
 - `The 2-page worksheet (as promised)`
@@ -25,27 +25,26 @@
 ```
 Hi {{first_name}},
 
-The {{toolkit_name}} Worksheet is ready to download.
+The {{first_toolkit_name}} is ready to download.
 
-→ Download (PDF, 2 pages): {{pdf_url}}?utm_source=wix&utm_medium=email&utm_campaign=toolkit-{{slug}}&utm_content=email-1
+→ Download (PDF, 2 pages): {{first_toolkit_pdf_url}}
 
 Two things you might want to know before you open it:
 
 (1) The framework is built from patterns we see across hundreds of PBM
-contracts a year at PBS. The same handful of clauses move {{topic_mechanic}}
-on most plans. The worksheet walks through the three audit passes that
-surface where your dollars are going.
+contracts a year at PBS. The worksheet walks through the three audit
+passes that surface where your dollars are going.
 
-(2) The paste-ready data request (page 2) is designed to drop directly into
-an email to your broker or PBM account team. We use it on client engagements
-in roughly the form you'll see.
+(2) The paste-ready data request (page 2) is designed to drop directly
+into an email to your broker or PBM account team. We use it on client
+engagements in roughly the form you'll see.
 
-If the format is useful, I'll send a few more along over the next two weeks
-- one every few days, each one a different audit framework on a different
-PBM mechanic.
+If the format is useful, I'll send a few more along over the next two
+weeks - one every few days, each one a different audit framework on a
+different PBM mechanic.
 
-If it's not useful, just hit reply and let me know what you'd want instead.
-I read every reply.
+If it's not useful, just hit reply and let me know what you'd want
+instead. I read every reply.
 
 - Ginny
 
@@ -53,17 +52,6 @@ Ginny Crisp, PharmD
 CEO, Prescription Benefit Solutions
 team@rxbs.org · rxbs.org · benefitblindspots.substack.com
 ```
-
----
-
-## Token reference per Toolkit
-
-| Token | Channel Pricing | PBM Compensation | Quarterly Reporting | Specialty Routing | GER Audit |
-|---|---|---|---|---|---|
-| `{{toolkit_name}}` | Channel Pricing Audit | PBM Compensation Audit | Quarterly Reporting Checklist | Specialty Routing Audit | GER Audit |
-| `{{slug}}` | channel-pricing | pbm-compensation | quarterly-reporting | specialty-routing | ger-audit |
-| `{{topic_mechanic}}` | per-channel margin | total PBM compensation across five revenue streams | what shows up (and what doesn't) in the quarterly report | where your specialty drugs actually fill | actual GER vs. the contracted guarantee |
-| `{{pdf_url}}` | Wix Media Manager URL for the Channel Pricing PDF | (one per Toolkit) | | | |
 
 ---
 
@@ -79,3 +67,8 @@ team@rxbs.org · rxbs.org · benefitblindspots.substack.com
 ## Notes on the unsubscribe link
 
 Wix Email Marketing adds the unsubscribe link automatically in the footer. Verify it works on every test send. CAN-SPAM compliance requires a working unsubscribe + a physical mailing address.
+
+## Tokens NOT used (dropped per Wix form-field cap May 14)
+
+- `{{topic_mechanic}}` / `{{first_toolkit_mechanic_phrase}}` — Wix form has a 4-more-fields cap; mechanic phrase didn't make the cut. Email 1 prose stays generic ("patterns we see across hundreds of PBM contracts a year") rather than topic-specific ("...patterns we see on per-channel margin"). Functional loss minor.
+- `{{slug}}` / UTM tracking — UTM params dropped from email body. Static link without UTM. Loses per-toolkit-origin attribution in Substack/site analytics. Can reintroduce if Wix Forms cap loosens.
