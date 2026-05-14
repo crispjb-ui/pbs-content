@@ -288,7 +288,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `five-stream compensation map` |
 | `pillar` | `Transparency & Industry Education` |
 | `second_toolkit_name` | `Quarterly Reporting Checklist` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_9c41b84a48ca4eb4b2bf16a666ee3623.pdf` |
 | `second_toolkit_blurb` | `PBM Compensation names where the money goes. Quarterly Reporting audits whether the PBM's report shows it. The five compensation streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) are what the 15-line Quarterly Reporting audit checks against. Together they pair as identification then disclosure-trace, which is the two halves of any renewal-leverage finding.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

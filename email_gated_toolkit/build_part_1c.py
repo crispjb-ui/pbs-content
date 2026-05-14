@@ -36,6 +36,8 @@ NEWSLETTERS = REPO_ROOT / "newsletters"
 # to Wix Media Manager so PART 1C sections inherit the real URLs.
 TOOLKIT_WIX_URLS = {
     "week_27_thursday_pbm_compensation_audit.pdf": "https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf",
+    "week_21_quarterly_reporting_checklist.pdf": "https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_9c41b84a48ca4eb4b2bf16a666ee3623.pdf",
+    "evergreen_optimize_vs_go_to_market_decision_framework.pdf": "https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_1004abdf90fb477a9a07a07a8863a19d.pdf",
 }
 
 # Live Substack Field Note URLs keyed by title. Fill as Field Notes

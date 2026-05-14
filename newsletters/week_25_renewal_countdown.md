@@ -264,7 +264,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `RFP scoring design` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `Optimize Existing vs Go-to-Market Decision Framework` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Optimize Existing vs Go-to-Market Decision Framework]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_1004abdf90fb477a9a07a07a8863a19d.pdf` |
 | `second_toolkit_blurb` | `The RFP Scoring Audit only matters if go-to-market is the right decision. The Optimize vs Go-to-Market Framework is the three-variable decision tree that produces the recommendation in the first place. About 70% of contract reviews end in 'optimize existing,' which means the RFP path is the wrong path for most plans. Together they pair as decision then design.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

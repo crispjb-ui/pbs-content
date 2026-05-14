@@ -232,7 +232,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `exit-option audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `Optimize Existing vs Go-to-Market Decision Framework` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Optimize Existing vs Go-to-Market Decision Framework]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_1004abdf90fb477a9a07a07a8863a19d.pdf` |
 | `second_toolkit_blurb` | `Termination clauses determine your exit options. Exit options determine your leverage even when you have no intention of terminating. The Optimize vs Go-to-Market Framework is the three-variable decision tree where 'go to market' becomes the recommended path, and the path requires functional termination language to execute. Termination clause audit is the prerequisite; the decision framework is what you do with the leverage it creates.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |

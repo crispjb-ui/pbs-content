@@ -318,7 +318,7 @@ Tier 1 evergreen PBR Framework is the natural deeper companion to a Tier 2 score
 | `mechanic_phrase` | `mid-year amendment notice` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `Quarterly Reporting Checklist` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_9c41b84a48ca4eb4b2bf16a666ee3623.pdf` |
 | `second_toolkit_blurb` | `The Amendment Letter Template is what you send when an H1 finding meets the amendment trigger. The Quarterly Reporting Checklist is what produces the H1 finding in the first place. The 15-line audit framework names the gap; the amendment letter documents the response. Together they pair as audit then ask.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
