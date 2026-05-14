@@ -538,11 +538,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
-A PBM RFP is not a template download. It is a four to six month sequence where development, evaluation, and contract negotiation each take longer than planned.
+Five disclosure clauses in nearly every PBM contract require the PBM to surface specific data to the plan. Most plan sponsors receive only one (the standard quarterly report). The other four sit silent until asked.
 
-Ginny Crisp walks through the phase-by-phase timeline and the weeks where most evaluations go sideways.
+Ginny Crisp decodes the disclosure obligations.
 
-#PBMRFP #PlanSponsors #EmployeeBenefits
+#PBMTransparency #PBMContracts #PharmacyBenefits
 
 ---
 

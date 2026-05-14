@@ -470,11 +470,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
-Clinical program ROI should be auditable. Methodology, sample calculations, and member-level data all belong in the review, not just the topline savings number.
+Five fiduciary terms distinguish a plan-sponsor-aligned PBM from one operating in its own interest. Standard of care, decision documentation, exclusive benefit, prudent process, and conflicts disclosure each set the bar.
 
-Ginny Crisp walks through the scorecard that separates reported savings from verified savings across prior authorization, step therapy, and DUR.
+Ginny Crisp decodes the five terms and what plan sponsors should require.
 
-#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
+#FiduciaryDuty #PBMContracts #PharmacyBenefits
 
 ---
 

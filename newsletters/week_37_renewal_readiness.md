@@ -702,13 +702,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
-Fifteen factors. Five categories. One scorecard.
+Five items change the first renewal meeting with your PBM: independent claims analysis, benchmarking data, contract-language redline, performance shortfall summary, and walk-away criteria.
 
-Data readiness, contract readiness, market readiness, clinical readiness, and negotiation readiness each shape what the PBM hears when you sit across the table.
+Ginny Crisp walks through what each item does at the table and how to assemble each one.
 
-Ginny Crisp walks through the scorecard and the one-day preparation sprint that still moves the number.
-
-#PBMRenewal #DrugPricing #PharmacyBenefits
+#PBMRenewal #PlanSponsors #PharmacyBenefits
 
 ---
 

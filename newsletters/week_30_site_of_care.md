@@ -541,11 +541,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
-Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion. Four settings, one decision tree, and substantial cost differences between them.
+Five contract terms decide whether secondary-payer dollars actually credit the plan. COB methodology, member-flagging accuracy, claim-level adjudication, audit window, and remediation timing each shape what comes back.
 
-Ginny Crisp walks through the clinical and cost criteria that determine which setting fits each therapy, and how to move members off default routing.
+Ginny Crisp decodes the COB clauses and the audit that surfaces the gap.
 
-#SiteOfCare #PlanSponsors #PharmacyBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 
 ---
 

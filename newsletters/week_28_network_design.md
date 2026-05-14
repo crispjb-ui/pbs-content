@@ -556,11 +556,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
-Retail, mail order, specialty, white bagging, home infusion. Five dispensing channels, five different cost structures, and most plan sponsors have never compared them side by side.
+Generic Effective Rate is one number that hides five contract definitions. Reconciliation methodology, claim universe, dispensing channel inclusion, brand-to-generic timing, and guarantee remediation each move the gap between guaranteed and actual.
 
-Ginny Crisp maps the channels, the cost patterns, and the single data request that reveals the real picture.
+Ginny Crisp decodes the five GER terms.
 
-#NetworkDesign #PlanSponsors #PharmacyBenefits
+#PBMContracts #PharmacyCosts #PharmacyBenefits
 
 ---
 

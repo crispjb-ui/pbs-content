@@ -617,11 +617,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
-Formulary evaluation is not about which drugs are on the list. It is about how tier placement, rebate flow, and clinical criteria get decided.
+Five terms in the step therapy override clause decide whether members reach the right drug or absorb months of trial-and-fail. Turnaround, evidence threshold, prescriber authority, exception scope, and appeal rights each set the bar.
 
-Ginny Crisp walks through the contract language that distinguishes a PBM-controlled formulary from one the plan sponsor can actually steer.
+Ginny Crisp decodes the override language.
 
-#Formulary #DrugPricing #PharmacyBenefits
+#ClinicalPharmacy #PBMContracts #PharmacyBenefits
 
 ---
 

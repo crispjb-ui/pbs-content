@@ -457,13 +457,11 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ca
 
 #### Reshare Copy
 
-Rising invoices without rising utilization. Stonewalling on audit requests. Renewal proposals that skip the market question.
+Five reporting clauses decide whether you can actually run a PBM review or whether the PBM controls what you see. Frequency, scope, data format, third-party access, and audit window each open the door or shut it.
 
-These are the signals that a PBM relationship has stopped working for the plan.
+Ginny Crisp walks through the redline that gives the plan sponsor visibility.
 
-Ginny Crisp covers the five signs and the broker conversation they should trigger.
-
-#PBMRenewal #PBMConsulting #PharmacyBenefits
+#PBMContracts #PBMRenewal #PharmacyBenefits
 
 ---
 
@@ -667,11 +665,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
-A PBM evaluation is not a gut call. Pricing, rebate transparency, clinical programs, contract flexibility, and specialty management all belong on the scorecard.
+PBM compensation extends well past the headline administration fee. Five revenue stream terms in the contract control where the rest sits.
 
-Ginny Crisp walks through the 10-factor framework that tells plan sponsors whether to optimize, renegotiate, or go to market.
+Ginny Crisp decodes the five streams and how plans surface them.
 
-#PBMRenewal #PlanSponsors #EmployeeBenefits
+#PBMTransparency #PBMContracts #PharmacyBenefits
 
 ---
 

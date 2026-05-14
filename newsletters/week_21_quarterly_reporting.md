@@ -462,11 +462,11 @@ Claude Design project type: **Slide deck from template**. Use the Contract Compa
 
 #### Reshare Copy
 
-The best brokers arrive at PBM renewal meetings to verify, not to learn. Five questions and the supporting data should be run before the meeting starts.
+Five contract clauses the best brokers check first before any PBM renewal meeting. Each one decides whether the plan sponsor walks in with leverage or walks out responding to the PBM's frame.
 
-Ginny Crisp walks through the pre-meeting checklist the strongest broker partners use with their self-funded clients.
+Ginny Crisp walks through the clauses every broker conversation should include.
 
-#PBMRenewal #PBMConsulting #PharmacyBenefits
+#PBMRenewal #BenefitsBrokers #PharmacyBenefits
 
 ---
 
