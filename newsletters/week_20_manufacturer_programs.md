@@ -11,7 +11,7 @@
 | Mon May 18 | 7:30 AM | Substack | "Manufacturer Programs and Your Plan" | [ ] |
 | Mon May 18 | 7:45 AM | LinkedIn Newsletter | Manufacturer Programs Briefing | [ ] |
 | Mon May 18 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue May 19 | 8:30 AM | LinkedIn Feed | Post 69 - "Same Word. Three Contracts. Three Different Economics." Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
+| Tue May 19 | 8:30 AM | LinkedIn Feed | Post 69 - "MAC vs WAC vs AWP" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
 | Tue May 19 | 8:35 AM | LinkedIn Feed | Post 69 - First Comment | [ ] |
 | Tue May 19 | 1:30 PM | LinkedIn Company | Company Reshare of Post 69 | [ ] |
 | Wed May 20 | 8:30 AM | LinkedIn Feed | Post 70 - "Free drug. Full price claim. Your plan pays." Tease Hook (TEXT) | [ ] |
@@ -273,59 +273,59 @@ Full framework including direct contracting models on Substack.
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 69 - Tuesday 8:30 AM
-### "Same Word. Three Contracts. Three Different Economics." — Marked-Up Contract Page Decoder
+### "MAC vs WAC vs AWP — Three Pricing Reference Rates, Three Different Things in Your Contract" — Marked-Up Contract Page Decoder
 
 **Template:** Marked-Up Contract Page messy infographic from `claude_design_prompts.md` (template #16). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
 **Format class:** Messy infographic (Tuesday Cycle-W4 slot)
 **Pillar:** Transparency & Industry Education (different from Monday's Cost Containment / Manufacturer Programs topic)
 **Content shape:** Decoder (proven 20-25K impression floor, 9-12 followers per 10K conversion rate — the highest-converting shape in the data)
-**Why this combination:** Decoder on Transparency pillar in messy-infographic format is the proven 22-25K combination in the performance data. Marked-Up Contract Page template is the strongest visual expression of "here is the actual contract language, here is what it actually means." Topic is literally a three-term decoder.
+**Why this combination:** Decoder on Transparency pillar in messy-infographic format is the proven 22-25K combination in the performance data. Marked-Up Contract Page template is the strongest visual expression of "here is the actual contract language, here is what it actually means." MAC vs WAC vs AWP are three universally-confused drug pricing reference rates that appear in nearly every PBM contract pricing guarantee. Distinct from Thursday's 5 Rebate Terms Decoded (Slot A) — pricing-references decoder, not rebate-flow decoder.
 
 #### Post Copy
 
-Pick three PBM contracts and read the definition sections side by side. "Rebate," "AWP discount," and "pass-through" will not mean the same thing in any two of them.
+Three acronyms. Three different drug pricing reference rates. The PBM contract pricing guarantee depends entirely on which one your contract names as the basis.
 
-In the hundreds of contracts we review each year, we see this pattern repeatedly.
+In the hundreds of contracts we review each year, plan sponsors confuse these three more than any other pricing terms.
 
-"Rebate." Contract A defines it as manufacturer payments tied to formulary placement. Contract B includes those plus manufacturer administrative fees. Contract C carves out price protection payments entirely and calls them something else.
+"MAC" is Maximum Allowable Cost. A PBM-set ceiling for what the plan pays on generic dispensing. The PBM publishes the MAC list, updates it, and controls which generics make the list and which do not. Two PBMs can set different MAC prices for the same generic drug.
 
-"AWP discount." The guaranteed number looks competitive in every proposal. But is it applied to ingredient cost or total claim cost? Are specialty, compounded, and limited-distribution drugs excluded? Those exclusions move the real rate by hundreds of basis points.
+"WAC" is Wholesale Acquisition Cost. The manufacturer's published list price to wholesalers. Closer to a real market reference, but the published WAC excludes rebates, discounts, and the secondary economics that determine what wholesalers actually pay.
 
-"Pass-through." Contract A means 100% of manufacturer rebates, dollar-for-dollar. Contract B means 100% after undefined administrative offsets. Contract C means a minimum guarantee with the upside retained by the PBM.
+"AWP" is Average Wholesale Price. The most-published reference rate in PBM contracts. Historically inflated relative to actual transaction prices. The "discount off AWP" guarantee is only as meaningful as the specific AWP source the contract names (Medi-Span, First DataBank, others) and the frequency at which it is updated.
 
-The contract definition section is where the economics live. Most employers never read it.
+The pricing guarantee that anchors your contract uses one of these three (or a derivative). Most plan sponsors do not know which one their guarantee is based on. The definition section is where the economics live.
 
-#PBMTransparency #DrugPricing #PharmacyBenefits
+#PBMTransparency #PBMContracts #PharmacyBenefits
 
 #### First Comment
 
-This week's Benefit Blind Spots deep dive walks through how manufacturer programs (copay cards, accumulators, maximizers) interact with these contract definitions to determine where the dollars actually land. Includes a copay card financial impact model with the 5-step audit framework. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive walks through how manufacturer programs (copay cards, accumulators, maximizers) affect plan economics, including how the pricing reference rate your contract uses determines what the plan actually pays. Includes a copay card financial impact model with the 5-step audit framework. [SUBSTACK MONDAY DEEP DIVE URL]
 
 #### Image Layout Spec
 
-A single image at 1080 x 1350 px rendered as a photographed contract page sitting on a desk. The page fills ~85% of the image area, angled ~2 degrees off-axis for authenticity. Off-white paper (#F5F0E4) with a faint edge shadow. Typed contract body in Plex Mono Regular 12pt black ink. At the top of the page, a small header label in Plex Sans SemiBold uppercase 10pt Gray (#4D4D4D): "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · ARTICLE V · DEFINITIONS." The page is divided into three visible sections, each targeting one term.
+A single image at 1080 x 1350 px rendered as a photographed contract page sitting on a desk. The page fills ~85% of the image area, angled ~2 degrees off-axis for authenticity. Off-white paper (#F5F0E4) with a faint edge shadow. Typed contract body in Plex Mono Regular 12pt black ink. At the top of the page, a small header label in Plex Sans SemiBold uppercase 10pt Gray (#4D4D4D): "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · ARTICLE V · PRICING DEFINITIONS." The page is divided into three visible sections, each targeting one pricing reference rate.
 
-**Section 1 — "Rebate."** Three short typed contract-language snippets stacked, labeled in the left margin in Plex Mono 10pt: "Contract A," "Contract B," "Contract C." Each snippet shows the actual definition language in Plex Mono 11pt. To the right of the three snippets, a handwritten red-marker curly brace spans all three, with a handwritten red annotation in Caveat-style handwriting: "Same word. Different scope."
+**Section 1 — "MAC (Maximum Allowable Cost)."** A short typed definition snippet in Plex Mono 11pt, followed by a contract-language sample showing how MAC is invoked in a pricing clause. To the right, a handwritten red-marker annotation in Caveat-style handwriting: "PBM sets the list. PBM updates the list. Plan rarely sees how."
 
-**Section 2 — "AWP Discount."** Same three-contract structure. Inside each snippet, the exclusion clauses are highlighted with a yellow marker pass (#F4E27B at 60% opacity). A red handwritten annotation in the right margin points to the exclusions with an arrow: "The exclusions are the real rate."
+**Section 2 — "WAC (Wholesale Acquisition Cost)."** Same definition-plus-contract-snippet structure. Inside the snippet, the phrase "before rebates and discounts" is highlighted with a yellow marker pass (#F4E27B at 60% opacity). A red handwritten annotation in the right margin: "Closer to market, but never the final price."
 
-**Section 3 — "Pass-through."** Same structure. Each snippet shows a different percentage construct with the actual percentage or phrase circled in blue marker (#015880). A red handwritten annotation in the right margin: "100 percent of what, exactly?"
+**Section 3 — "AWP (Average Wholesale Price)."** Same structure. The contract snippet's reference to the AWP source (e.g., "Medi-Span" or "First DataBank") is circled in blue marker (#015880). A red handwritten annotation in the right margin: "The discount is only as real as the source it's discounted from."
 
-Across the page, running diagonally bottom-left to top-right, a large red handwritten callout in Caveat-style marker 28pt: "One term. Three contracts. Three different economics."
+Across the page, running diagonally bottom-left to top-right, a large red handwritten callout in Caveat-style marker 28pt: "Three pricing rates. Three different things. One contract guarantee that names just one."
 
-Above the top margin of the page, Benefit Blind Spots badge in Plex Sans SemiBold 14pt Primary Blue (#015880). Below the bottom edge of the page, a thin Accent Blue (#A7E0FA) band with Primary Blue (#015880) Plex Sans SemiBold 16pt: "Ask: which definition is in YOUR contract?" PBS logo (dark) bottom-right corner of the image, 60px.
+Above the top margin of the page, Benefit Blind Spots badge in Plex Sans SemiBold 14pt Primary Blue (#015880). Below the bottom edge of the page, a thin Accent Blue (#A7E0FA) band with Primary Blue (#015880) Plex Sans SemiBold 16pt: "Ask: which reference rate is in YOUR pricing guarantee?" PBS logo (dark) bottom-right corner of the image, 60px.
 
 #### Image Generation Prompt
 
-Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking PBM contract page on an off-white paper (#F5F0E4) background, slight angle ~2 degrees, faint edge shadow for depth. Paper fills ~85% of image. Typed contract body text in Plex Mono Regular 11-12pt black. Top of page: small uppercase header in Plex Sans SemiBold 10pt Gray (#4D4D4D): "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · ARTICLE V · DEFINITIONS." Below that, three sections: "Rebate," "AWP Discount," and "Pass-through," each containing three labeled snippets "Contract A / Contract B / Contract C" rendered as short typed-looking definition lines in Plex Mono. Apply hand-drawn marker-style annotations in Caveat or Kalam handwriting font: (1) a red curly brace with "Same word. Different scope." spanning the Rebate snippets; (2) a yellow highlighter pass (#F4E27B at 60% opacity) over exclusion clauses in the AWP Discount snippets with a red handwritten arrow-and-note "The exclusions are the real rate."; (3) blue marker circles (#015880) around the percentage constructs in the Pass-through snippets with a red handwritten note "100 percent of what, exactly?" Across the page, a single large red handwritten diagonal callout "One term. Three contracts. Three different economics." in Caveat-style marker ~28pt. Above the paper: Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" badge. Below the paper: thin Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold "Ask: which definition is in YOUR contract?" Color palette: off-white paper (#F5F0E4), black body text, red annotation (#C0392B), yellow highlight (#F4E27B), blue circle marker (#015880), Accent Blue band (#A7E0FA), Gray (#4D4D4D) secondary. No photographs of people, no logos beyond PBS.
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking PBM contract page on an off-white paper (#F5F0E4) background, slight angle ~2 degrees, faint edge shadow for depth. Paper fills ~85% of image. Typed contract body text in Plex Mono Regular 11-12pt black. Top of page: small uppercase header in Plex Sans SemiBold 10pt Gray (#4D4D4D): "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · ARTICLE V · PRICING DEFINITIONS." Below that, three sections: "MAC (Maximum Allowable Cost)," "WAC (Wholesale Acquisition Cost)," and "AWP (Average Wholesale Price)," each containing a short typed-looking definition line followed by a contract-language snippet showing how the term is invoked in a pricing clause. Apply hand-drawn marker-style annotations in Caveat or Kalam handwriting font: (1) in Section 1 (MAC), a red handwritten note "PBM sets the list. PBM updates the list. Plan rarely sees how."; (2) in Section 2 (WAC), a yellow highlighter pass (#F4E27B at 60% opacity) over the phrase "before rebates and discounts" with a red handwritten arrow-and-note "Closer to market, but never the final price."; (3) in Section 3 (AWP), a blue marker circle (#015880) around the AWP source name (Medi-Span or First DataBank) with a red handwritten note "The discount is only as real as the source it's discounted from." Across the page, a single large red handwritten diagonal callout "Three pricing rates. Three different things. One contract guarantee that names just one." in Caveat-style marker ~28pt. Above the paper: Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" badge. Below the paper: thin Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold "Ask: which reference rate is in YOUR pricing guarantee?" Color palette: off-white paper (#F5F0E4), black body text, red annotation (#C0392B), yellow highlight (#F4E27B), blue circle marker (#015880), Accent Blue band (#A7E0FA), Gray (#4D4D4D) secondary. No photographs of people, no logos beyond PBS.
 
 **Post-Generation Steps:**
 
 1. Generate base image using the prompt above
-2. Verify the three sections render with distinct clause language (not repeated filler text); if identical filler appears, regenerate with explicit instruction that each "Contract A/B/C" snippet shows different language
+2. Verify the three sections render with distinct contract-snippet language for each pricing reference rate; if identical filler appears, regenerate with explicit instruction that each section shows different language
 3. Open in Canva at 1080 x 1350 px
 4. If any handwritten annotation is illegible or misspelled, overlay with Caveat 28pt in the specified colors
-5. Verify yellow highlighter overlays the exclusion clauses (not the whole snippet) and blue circles land on the percentage constructs specifically
+5. Verify yellow highlighter overlays "before rebates and discounts" specifically in Section 2 (not the whole snippet) and blue circle lands on the AWP source name in Section 3
 6. Add PBS logo (dark version) bottom-right corner of image, 60-80px
 7. Verify legibility at thumbnail (50% zoom test)
 8. Export as PNG
@@ -633,11 +633,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Reshare Copy
 
-Five rebate terms appear in nearly every PBM contract, and five definitions the PBM wrote. The pass-through promise depends entirely on which definition makes it into your contract, and what gets carved out of each.
+MAC, WAC, and AWP are three different drug pricing reference rates. The PBM contract names one of them (or a derivative) as the basis for the pricing guarantee, and most plan sponsors do not know which.
 
-Ginny Crisp decodes the five terms and the gap each one hides.
+Ginny Crisp decodes the three reference rates and the gap each one hides.
 
-#PBMContracts #Rebates #PharmacyBenefits
+#PBMTransparency #PBMContracts #PharmacyBenefits
 
 ---
 
@@ -783,7 +783,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM)
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM)
-- [ ] Post 69 Marked-Up Contract Page messy infographic designed - "Same Word. Three Contracts. Three Different Economics." decoder on three PBM contract terms (Transparency pillar, DIFFERENT from Monday newsletter's Cost Containment)
+- [ ] Post 69 Marked-Up Contract Page messy infographic designed - "MAC vs WAC vs AWP" decoder on three drug pricing reference rates (Transparency pillar, DIFFERENT from Monday newsletter's Cost Containment and from Thursday's Rebate Terms decoder)
 - [ ] Post 69 first comment drafted with link to LinkedIn Newsletter
 - [ ] Post 70 text post finalized - "Free drug. Full price claim. Your plan pays."
 - [ ] Post 71 carousel created - Copay Card Impact (7 slides) (WEEKLY THEME VISUAL)
@@ -795,7 +795,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 # PART 6: ASSETS NEEDED
 
-- [ ] Post 69: Marked-Up Contract Page messy infographic (1 image, 1080 x 1350 px) - photographed contract page with three decoded terms (Rebate, AWP Discount, Pass-through), handwritten red/yellow/blue marker annotations, Primary Blue structure and Accent Blue closing band. See PART 3 Post 69 for full layout and image generation prompt.
+- [ ] Post 69: Marked-Up Contract Page messy infographic (1 image, 1080 x 1350 px) - photographed contract page with three decoded pricing reference rates (MAC, WAC, AWP), handwritten red/yellow/blue marker annotations, Primary Blue structure and Accent Blue closing band. See PART 3 Post 69 for full layout and image generation prompt.
 - [ ] Post 71: Carousel (7 slides) - Copay Card Impact flow, Plex Sans SemiBold headers, Plex Sans body, PBS brand colors
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image
