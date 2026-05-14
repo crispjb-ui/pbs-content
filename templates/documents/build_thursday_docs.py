@@ -68,7 +68,6 @@ body.preview .doc-header { display: block; }
 .page {
   width: 8.5in;
   min-height: 11in;
-  max-height: 11in;
   margin: 24px auto;
   padding: 0.45in 0.65in 0.45in 0.65in;
   background: #FFFFFF;
@@ -79,7 +78,6 @@ body.preview .doc-header { display: block; }
   flex-direction: column;
   page-break-after: always;
   break-after: page;
-  overflow: hidden;
 }
 .page:last-child { page-break-after: auto; break-after: auto; }
 
@@ -322,7 +320,7 @@ def render_html(spec):
 
 <header class="doc-header">
   <h1>Week {week} Thursday Plan Sponsor Toolkit · {eyebrow}</h1>
-  <p>Companion to the Thursday LinkedIn messy infographic + same-day Substack Field Note. Renders in the browser; export to PDF via Print or WeasyPrint. Embed the rendered <code>{slug}.pdf</code> directly into the Substack Field Note via drag-and-drop.</p>
+  <p>Plan Sponsor Toolkit reference document. Renders in the browser; export to PDF via Print or WeasyPrint. Built file: <code>{slug}.pdf</code>.</p>
 </header>
 
 <!-- ============================================================
@@ -466,7 +464,7 @@ SPECS = [
         "eyebrow": "Pharmacy Benefit Review · Twice-Yearly Framework",
         "title_html": "Pharmacy Benefit Review. <em>Twice a Year. Six Categories. Twenty Audit Items.</em>",
         "title_sub": "The framework PBS uses on the semi-annual PBR engagement, formatted as a self-service audit checklist for plan sponsors who want to run it internally.",
-        "intro": "This is the self-service version of the Pharmacy Benefit Review (PBR) — a twice-yearly comprehensive audit PBS runs for clients across six categories of pharmacy benefit performance. Each category has three to four audit items. Run the full framework in mid-year (June-July) and again at year-end (November-December) to surface the patterns that decide your renewal position. PBS clients receive a written PBR report; plan sponsors running this internally produce the same artifact.",
+        "intro": "This is the self-service version of the Pharmacy Benefit Review (PBR), a twice-yearly comprehensive audit PBS runs for clients across six categories of pharmacy benefit performance. Each category has three to four audit items. Run the full framework in mid-year (June-July) and again at year-end (November-December) to surface the patterns that decide your renewal position. PBS clients receive a written PBR report; plan sponsors running this internally produce the same artifact.",
         "passes": [
             (1, "Run the six-category audit",
              "<p>Each PBR audit covers six categories with the prompts below. Score each item 1-5; the rubric and the dollar magnitude live in the per-mechanic Toolkit handouts (Channel Pricing, Rebate Audit, GER Audit, etc.).</p><p><strong>1. Financial Performance:</strong> PMPM trend vs. budget · GER vs. guarantee · BER vs. guarantee · Rebate per claim trend.</p><p><strong>2. Contract Compliance:</strong> Performance guarantee misses · Mid-year notification record · Reporting clause delivery · Disclosure obligation fulfillment.</p><p><strong>3. Clinical Programs:</strong> PA approval/denial rate · Step therapy override rate · Specialty utilization trend · Clinical-program-claimed savings audit.</p>"),
@@ -491,7 +489,7 @@ SPECS = [
         "eyebrow": "Rebate Report · Audit Worksheet",
         "title_html": "Five Rebate Terms. Five Definitions the PBM Wrote. <em>Four Sit Outside the Pass-Through Clause.</em>",
         "title_sub": "Three audit passes. One rebate report. The gap is rarely the contracted percentage.",
-        "intro": "This worksheet pairs with the Thursday LinkedIn '5 Rebate Terms Decoded' messy infographic + the W20 Field Note 'Reading the Rebate Report Without Getting Spun.' The five terms (gross rebate, net pass-through rebate, price protection rebate, administrative fee, manufacturer drug education / data licensing payment) decode the report. This worksheet runs the audit. Half a day of work surfaces the gap between gross rebate and net pass-through that rarely matches the contracted percentage.",
+        "intro": "This worksheet decodes the five rebate terms that determine what your plan actually receives versus what the report says: gross rebate, net pass-through rebate, price protection rebate, administrative fee, and manufacturer drug education / data licensing payment. The audit runs in half a day and surfaces the gap between gross rebate and net pass-through that rarely matches the contracted percentage.",
         "passes": [
             (1, "Gross rebate vs. net rebate",
              "<p>Open the rebate report. Find total gross rebate dollars and total net rebate dollars (the amount that flowed to the plan). Calculate the gap.</p><p>Then go to your contract and find the rebate pass-through percentage clause. Multiply gross rebate by the contracted pass-through percentage. Compare to actual net rebate.</p><p>If actual net rebate is below the contracted percentage, the contract typically requires reconciliation. Many PBMs do not flag this on their own.</p>"),
@@ -516,7 +514,7 @@ SPECS = [
         "eyebrow": "Specialty Routing · Audit Worksheet",
         "title_html": "Five Clauses Decide Where Your Specialty Drugs Fill. <em>The PBM Owns Four.</em>",
         "title_sub": "Three audit passes. One contract clause set. One routing pattern.",
-        "intro": "This worksheet walks plan sponsors through a three-pass audit of specialty drug routing. Each pass uses the five contract terms decoded in this morning's LinkedIn post (specialty pharmacy designation, limited distribution drug access, exclusive specialty arrangement, specialty channel pass-through, specialty performance guarantee). Half a day of work surfaces the routing pattern your contract design does not predict.",
+        "intro": "This worksheet walks plan sponsors through a three-pass audit of specialty drug routing. Each pass uses the five contract terms that govern where specialty drugs are filled: specialty pharmacy designation, limited distribution drug access, exclusive specialty arrangement, specialty channel pass-through, and specialty performance guarantee. Half a day of work surfaces the routing pattern your contract design does not predict.",
         "passes": [
             (1, "Pull the by-pharmacy specialty fill breakdown",
              "<p>Open your most recent quarterly report. Find the specialty drug section. Push for a drug-by-pharmacy breakdown: for each specialty drug filled in the quarter, where did it fill, by pharmacy NPI or pharmacy name?</p><p>If the breakdown is not in the report, request it. The PBM has the data; the report format is a contract negotiation.</p>"),
@@ -541,7 +539,7 @@ SPECS = [
         "eyebrow": "Mid-Year Amendment · Letter Template",
         "title_html": "Five Clauses Govern Mid-Year Amendments. <em>Most Plan Sponsors Never Invoke Them.</em>",
         "title_sub": "Three steps. One amendment letter. Ninety-day notice window.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five contract clauses that govern mid-year amendments (amendment trigger language, notice period, materiality threshold, fee adjustment authority, dispute resolution). Use it when H1 review surfaces a finding that meets the amendment trigger conditions. Most amendments cost the PBM nothing to decline; the documented response is itself the renewal-leverage record.",
+        "intro": "This handout decodes the five contract clauses that govern mid-year amendments: amendment trigger language, notice period, materiality threshold, fee adjustment authority, and dispute resolution. Use it when H1 review surfaces a finding that meets the amendment trigger conditions. Most amendments cost the PBM nothing to decline; the documented response is itself the renewal-leverage record.",
         "passes": [
             (1, "Identify amendment-eligible findings from H1 review",
              "<p>Open your H1 review or most recent quarterly report. Pull every gap, miss, or anomaly. Then open your contract's amendment trigger clause. Match each finding to a trigger condition (performance guarantee miss, regulatory change, formulary change, materiality threshold).</p>"),
@@ -566,7 +564,7 @@ SPECS = [
         "eyebrow": "RFP Scoring · Audit Worksheet",
         "title_html": "Five RFP Scoring Terms Decide the Winner. <em>The PBM Knows Your Methodology.</em>",
         "title_sub": "Three audit passes. One scoring methodology. Adjust before the RFP goes out.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five RFP scoring terms (weighted scoring, baseline normalization, financial vs. non-financial split, scenario pricing, tiebreaker hierarchy). Run the three audit passes on the methodology your broker proposes BEFORE sending the RFP — the scoring methodology is the most consequential design decision in the renewal process.",
+        "intro": "This handout decodes the five RFP scoring terms: weighted scoring, baseline normalization, financial vs. non-financial split, scenario pricing, and tiebreaker hierarchy. Run the three audit passes on the methodology your broker proposes BEFORE sending the RFP. The scoring methodology is the most consequential design decision in the renewal process.",
         "passes": [
             (1, "Weight the scoring categories against your priorities",
              "<p>Pull the scoring methodology your broker or consultant proposed. List the categories: financial terms, clinical programs, reporting capability, account team, technology, references. Assign weights.</p><p>Compare to your internal priority document. If financial is 70% but reporting matters most, the scoring will not surface the right winner.</p>"),
@@ -591,7 +589,7 @@ SPECS = [
         "eyebrow": "Step Therapy Override · Audit Worksheet",
         "title_html": "Five Clauses Govern Step Therapy Overrides. <em>The Workflow Rarely Matches the Clause.</em>",
         "title_sub": "Three audit passes. One override clause. One operational workflow.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five step therapy override terms (trigger conditions, documentation burden, denial appeal timeline, prescriber attestation language, member cost-share treatment). Run the three audit passes when override approval rates fall below 60% — that is the threshold where the workflow is gating clinically appropriate therapy more than the contract intends.",
+        "intro": "This handout decodes the five step therapy override terms: trigger conditions, documentation burden, denial appeal timeline, prescriber attestation language, and member cost-share treatment. Run the three audit passes when override approval rates fall below 60%. That is the threshold where the workflow is gating clinically appropriate therapy more than the contract intends.",
         "passes": [
             (1, "Pull the override approval and denial rate",
              "<p>Open your most recent quarterly report. Find the prior authorization summary. Look for step-therapy-specific override numbers: total step therapy edits triggered, total override requests submitted, total approved, total denied.</p><p>If the report aggregates step therapy with general PA, request the breakout. Calculate the override approval rate.</p>"),
@@ -616,7 +614,7 @@ SPECS = [
         "eyebrow": "PBM Compensation · Audit Worksheet",
         "title_html": "Five Revenue Streams Flow from Your Plan to Your PBM. <em>Most Plan Sponsors Track One.</em>",
         "title_sub": "Three audit passes. Five compensation mechanisms. One contract.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five PBM compensation mechanisms (spread pricing, rebate retention, administrative fees, manufacturer-direct payments, PBM-owned-pharmacy margin). Most plan sponsors only track the administrative fee — the smallest of the five streams. The four others are where aggregate compensation actually sits.",
+        "intro": "This handout decodes the five PBM compensation mechanisms that flow from your plan to your PBM: spread pricing, rebate retention, administrative fees, manufacturer-direct payments, and PBM-owned-pharmacy margin. Most plan sponsors only track the administrative fee, the smallest of the five streams. The four others are where aggregate compensation actually sits.",
         "passes": [
             (1, "Identify which mechanisms your contract authorizes",
              "<p>Open your contract. For each of the five mechanisms, find the clause that authorizes (or excludes) it. Spread pricing → pricing methodology clause. Rebate retention → rebate definition + pass-through clauses. Administrative fees → fee schedule. Manufacturer-direct → rebate exclusions. Owned-pharmacy margin → network and routing clauses.</p><p>Classify each: explicitly authorized, implicitly authorized (silent), or excluded.</p>"),
@@ -641,7 +639,7 @@ SPECS = [
         "eyebrow": "Generic Effective Rate · Audit Worksheet",
         "title_html": "Five GER Terms Decide Whether Your Guarantee Applies. <em>The PBM Controls Four.</em>",
         "title_sub": "Three audit passes. One GER methodology. One actual performance number.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five GER terms (calculation methodology, exclusion list, multi-source vs. single-source treatment, MAC list update frequency, remediation language). The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.",
+        "intro": "This handout decodes the five GER terms: calculation methodology, exclusion list, multi-source vs. single-source treatment, MAC list update frequency, and remediation language. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.",
         "passes": [
             (1, "Pull the actual GER from your claims data",
              "<p>Open your most recent quarterly report. Find the GER calculation. Verify the formula matches the contract's GER methodology clause: usually total generic ingredient cost as a percentage discount off AWP, with specific exclusions named.</p><p>If the report's GER is calculated differently than the contract methodology, the reported number is not the contracted number.</p>"),
@@ -666,7 +664,7 @@ SPECS = [
         "eyebrow": "Pharmacy Network Configuration · Audit Worksheet",
         "title_html": "Five Network Terms Set Where Members Fill. <em>The Routing Pattern Rarely Matches the Clause.</em>",
         "title_sub": "Three audit passes. One network design. One exclusion log.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five network contract terms (preferred network, broad network, network guarantee, mandatory mail, network exclusion list). Most plans receive the network membership list once at contract signing and never again. The exclusion log compounds quietly; the audit is what surfaces the drift.",
+        "intro": "This handout decodes the five network contract terms: preferred network, broad network, network guarantee, mandatory mail, and network exclusion list. Most plans receive the network membership list once at contract signing and never again. The exclusion log compounds quietly; the audit is what surfaces the drift.",
         "passes": [
             (1, "Pull the actual fill distribution by network configuration",
              "<p>Open your most recent quarterly report. Calculate the share of fills landing in each configuration: preferred network, broad network, mandatory mail, PBM-affiliated specialty.</p><p>If the breakdown is not in the report, request it.</p>"),
@@ -691,7 +689,7 @@ SPECS = [
         "eyebrow": "Coordination of Benefits · Audit Worksheet",
         "title_html": "Five COB Terms Decide How a Single Claim Coordinates. <em>The Flag Is Rarely Audited.</em>",
         "title_sub": "Three audit passes. One COB clause. Where copay-program economics live.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five COB terms (primary-secondary determination, member responsibility carve-out, Medicare-as-secondary handling, copay assistance crediting, double-dipping prevention). Copay accumulator and maximizer programs depend entirely on accurate COB flagging at the claim level. Without auditing the flag, the program does not capture the manufacturer dollars correctly.",
+        "intro": "This handout decodes the five COB terms: primary-secondary determination, member responsibility carve-out, Medicare-as-secondary handling, copay assistance crediting, and double-dipping prevention. Copay accumulator and maximizer programs depend entirely on accurate COB flagging at the claim level. Without auditing the flag, the program does not capture the manufacturer dollars correctly.",
         "passes": [
             (1, "Pull the COB-flagged claims sample",
              "<p>Request a COB-flagged claims sample: claims where coordination applies because the member has secondary coverage, Medicare entitlement, or active manufacturer copay assistance.</p><p>If the PBM cannot produce a COB-flagged sample, that is the first finding.</p>"),
@@ -716,7 +714,7 @@ SPECS = [
         "eyebrow": "PBM Disclosure · Audit Worksheet",
         "title_html": "Five Disclosures Your PBM Owes You Annually. <em>Most Plan Sponsors Receive One.</em>",
         "title_sub": "Three audit passes. One disclosure clause. One inquiry record.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five PBM disclosure obligations (rebate-flow attestation, conflict-of-interest disclosure, data-partnership disclosure, audit-results delivery, material-change notice). The disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.",
+        "intro": "This handout decodes the five PBM disclosure obligations: rebate-flow attestation, conflict-of-interest disclosure, data-partnership disclosure, audit-results delivery, and material-change notice. The disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.",
         "passes": [
             (1, "Build the disclosure obligation list from the contract",
              "<p>Open your contract. Find the disclosure clause (sometimes scattered across reporting, audit, and conflicts sections). For each obligation, document: what the PBM must disclose, to whom, on what cadence (annual, quarterly, on-event), in what format.</p>"),
@@ -741,7 +739,7 @@ SPECS = [
         "eyebrow": "Fiduciary Compliance · Audit Worksheet",
         "title_html": "ERISA's Five Words Define Your Personal Exposure. <em>The Documentation Is What Survives.</em>",
         "title_sub": "Three audit passes. One decision log. One co-fiduciary defense.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five ERISA fiduciary terms (fiduciary, prudent process, plan assets, conflict of interest, co-fiduciary liability). The prudent-process standard does not require optimal outcomes — it requires a reasonable, documented decision-making process. The audit produces the documentation that would survive a fiduciary review.",
+        "intro": "This handout decodes the five ERISA fiduciary terms: fiduciary, prudent process, plan assets, conflict of interest, and co-fiduciary liability. The prudent-process standard does not require optimal outcomes; it requires a reasonable, documented decision-making process. The audit produces the documentation that would survive a fiduciary review.",
         "passes": [
             (1, "Identify every pharmacy benefit decision in the past 12 months",
              "<p>Open benefits committee minutes, broker correspondence, and PBM decisions from the past 12 months. List every decision: contract amendments, formulary changes, RFP outcomes, cost containment programs, vendor selections, fee approvals.</p><p>For each, document the date, the deciders, and the documentation that supported the decision.</p>"),
@@ -766,7 +764,7 @@ SPECS = [
         "eyebrow": "Member Transition · Audit Worksheet",
         "title_html": "Five Clauses Protect Members During Transitions. <em>Most Plan Sponsors Assume They Execute.</em>",
         "title_sub": "Three audit passes. One transition event log. One gap document.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five member transition disruption clauses (continuity of care, transition supply, formulary-change member notification, prior authorization grandfathering, benefit-modification ratification). The clauses are written; the execution is not automatic. The audit is what closes the gap.",
+        "intro": "This handout decodes the five member transition disruption clauses: continuity of care, transition supply, formulary-change member notification, prior authorization grandfathering, and benefit-modification ratification. The clauses are written; the execution is not automatic. The audit is what closes the gap.",
         "passes": [
             (1, "Identify every transition event in the past 12 months",
              "<p>Open benefits committee minutes and PBM correspondence. List every member-affecting transition: formulary changes, PA criteria changes, network changes, specialty-pharmacy routing changes, mail-order configuration changes.</p><p>For each, document date, member population affected, contractual transition window.</p>"),
@@ -791,7 +789,7 @@ SPECS = [
         "eyebrow": "Mid-Year Performance Guarantee · Audit Worksheet",
         "title_html": "Five Guarantees You Should Audit at Mid-Year. <em>Year-End Notification Comes Too Late.</em>",
         "title_sub": "Three audit passes. Mid-year notification. Year-end remediation.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five mid-year performance guarantee terms (GER, BER, dispensing fee, rebate per claim minimum, performance-remediation language). Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.",
+        "intro": "This handout decodes the five mid-year performance guarantee terms: GER, BER, dispensing fee, rebate per claim minimum, and performance-remediation language. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.",
         "passes": [
             (1, "Pull each guarantee's actual mid-year performance",
              "<p>Open your contract. List every named performance guarantee with its threshold (GER, BER, dispensing fee maximum, rebate-per-claim minimum, etc.).</p><p>Open your H1 / mid-year claims data. Calculate actual mid-year performance using the formula the contract specifies.</p>"),
@@ -816,7 +814,7 @@ SPECS = [
         "eyebrow": "Termination Clause · Audit Worksheet",
         "title_html": "Five Termination Terms Decide Your Leverage. <em>Most Plans Are Locked In Without Knowing It.</em>",
         "title_sub": "Three audit passes. One termination clause. One exit timeline.",
-        "intro": "This handout pairs with the Thursday LinkedIn post decoding the five termination clause terms (termination for convenience, termination for cause, runoff period, early termination fee, data return obligation). The termination clause determines your exit options, and your exit options determine your leverage throughout the entire relationship — even when you have no intention of terminating.",
+        "intro": "This handout decodes the five termination clause terms: termination for convenience, termination for cause, runoff period, early termination fee, and data return obligation. The termination clause determines your exit options, and your exit options determine your leverage throughout the entire relationship, even when you have no intention of terminating.",
         "passes": [
             (1, "Read the termination for convenience and cause clauses",
              "<p>Find the termination for convenience clause. Note the notice period (90 days vs. 180 days makes a material difference).</p><p>Find the termination for cause clause. Note how 'cause' is defined. Vague 'material breach' language favors the PBM.</p>"),
@@ -841,7 +839,7 @@ SPECS = [
         "eyebrow": "Definition Variance · Audit Worksheet",
         "title_html": "Same Words. Different Meanings. <em>Across Renewal Cycles, the Definitions Quietly Shrink.</em>",
         "title_sub": "Three audit passes. Past contract versions. Silent drift.",
-        "intro": "This handout pairs with the Thursday LinkedIn post showing how three PBMs read the same ten-word clause three different ways. Today's audit is on your own contract history: the renewal-by-renewal drift in your contract's high-impact definitions that costs the plan money without changing a visible word.",
+        "intro": "This handout walks plan sponsors through how three PBMs typically read the same ten-word clause three different ways. The audit is on your own contract history: the renewal-by-renewal drift in your contract's high-impact definitions that costs the plan money without changing a visible word.",
         "passes": [
             (1, "Pull every active and prior contract on file",
              "<p>List the current PBM agreement plus every prior version, renewal cycle, amendment, and addendum on file. Identify the high-economic-impact clauses across versions: rebate definition, AWP discount methodology, pass-through clause, performance guarantee thresholds, exclusion lists, audit rights scope.</p>"),
@@ -866,7 +864,7 @@ SPECS = [
         "eyebrow": "First Renewal Meeting · Pre-Meeting Checklist",
         "title_html": "Five Items to Bring to the First PBM Renewal Meeting. <em>The First Meeting Sets the Frame.</em>",
         "title_sub": "Five documents. One internal priority list. One counter-narrative.",
-        "intro": "This handout pairs with the Thursday LinkedIn post on the first PBM renewal meeting. The plan sponsors who walk in with all five items negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.",
+        "intro": "This handout names the five items every plan sponsor should walk into the first PBM renewal meeting with. The plan sponsors who walk in with all five negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.",
         "passes": [
             (1, "Mid-Year Performance Audit",
              "<p>Actual GER, BER, dispensing fee, rebate-per-claim performance vs. contracted guarantees. Documented gaps where remediation is owed. Mid-year notification record.</p><p>This is the W34 Thursday handout, refreshed for the renewal meeting.</p>"),
