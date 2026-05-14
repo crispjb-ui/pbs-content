@@ -236,7 +236,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
 | `second_toolkit_blurb` | `The Mid-Year Guarantee Audit names which guarantees to check at mid-year. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows the data those guarantees are measured against. The 15-line framework is the report-side audit; the guarantee audit is the contract-side audit. Together they pair as the two halves of a documented mid-year position.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -253,7 +253,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 Quarterly Reporting is the natural disclosure-trace partner to a performance-guarantee audit. Channel Pricing Field Note covers a similar audit framework.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -325,7 +324,6 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 **Per-instance overrides:**
 - Badge (top-right): "MONTHLY Q&A"
 - Plex Mono subtitle (22pt, white, tabular figures): `August 2026 thread`
-
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -437,7 +435,6 @@ Eight levers determine whether specialty cost is controlled: formulary managemen
 The gap compounds every quarter on every authorization that runs on autopilot and every biosimilar that sits at non-preferred tier.
 
 Start with one question: which of the eight levers has the largest gap on your plan?
-
 
 #### First Comment
 
@@ -559,7 +556,6 @@ The question is whether you have your own strategy built from the same data, for
 Twelve contract provisions determine your renewal outcome. Most employers negotiate fewer than half of them.
 
 Next week: the renewal negotiation playbook.
-
 
 #### First Comment
 

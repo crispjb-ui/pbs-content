@@ -187,7 +187,6 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ---
 
-
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Auditing Your Mid-Year Contract Amendment Window
@@ -289,7 +288,7 @@ This section is the operational source-of-truth for the Wix work this week. 2 to
 | `second_toolkit_pdf_url` | `[Wix Media URL of Pharmacy Benefit Review (PBR) Framework]` |
 | `second_toolkit_blurb` | `The H1 Scorecard is the five-metric mid-year snapshot. The PBR Framework is the twice-yearly six-category comprehensive audit PBS runs for clients. Run the H1 Scorecard in July to surface the metrics that matter; run the full PBR in mid-year to produce the documentation that goes into the renewal cycle. Together they pair as the lean check and the thorough audit.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -322,7 +321,7 @@ Tier 1 evergreen PBR Framework is the natural deeper companion to a Tier 2 score
 | `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
 | `second_toolkit_blurb` | `The Amendment Letter Template is what you send when an H1 finding meets the amendment trigger. The Quarterly Reporting Checklist is what produces the H1 finding in the first place. The 15-line audit framework names the gap; the amendment letter documents the response. Together they pair as audit then ask.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -339,7 +338,6 @@ Tier 1 evergreen PBR Framework is the natural deeper companion to a Tier 2 score
 Quarterly Reporting is the natural prerequisite that surfaces the gap the Amendment Letter responds to. Channel Pricing Field Note is the structurally similar audit-framework example.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -680,7 +678,6 @@ June is not early. June is late.
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
 
-
 #### First Comment
 
 This week's Benefit Blind Spots deep dive on H1 review and H2 preview is the operational follow-on: the H1 benchmark dashboard with 5 metrics and the renewal readiness scorecard. [SUBSTACK MONDAY DEEP DIVE URL]
@@ -857,7 +854,6 @@ Q3 on Benefit Blind Spots is built around one arc: renewal preparation. Formular
 Thirteen weeks. Every tool you need before you sit across from your PBM.
 
 The employers who prepare through the summer negotiate different outcomes in the fall. Every year, I watch the same pattern. Next week: the 90-day renewal countdown begins.
-
 
 #### First Comment
 

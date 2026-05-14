@@ -230,10 +230,10 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `definition drift audit` |
 | `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Definition variance is how the PBM expands compensation streams across renewal cycles without changing visible contract language. PBM Compensation maps the five streams the definitions silently modulate (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin). The definition audit names the words that drifted; the compensation audit names the dollar amounts those drifts produced. Together they pair as the mechanism and the financial impact.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -370,7 +370,6 @@ Ten provisions determine whether your contract protects your plan: pricing metho
 
 Your broker or benefits counsel should know which version your contract uses. If they do not, that is the first question to ask before renewal.
 
-
 #### First Comment
 
 This week's Benefit Blind Spots deep dive on contract red flags is the operational follow-on: the provision-by-provision comparison with weak vs. strong contract language. [SUBSTACK MONDAY DEEP DIVE URL]
@@ -488,7 +487,6 @@ Over 13 weeks, we covered the full arc: data benchmarking, formulary evaluation,
 One question remains: are you ready?
 
 Next week: a 15-factor renewal readiness scorecard. Five categories. 75 points. The assessment that tells you whether to proceed with confidence or focus on gaps.
-
 
 #### First Comment
 

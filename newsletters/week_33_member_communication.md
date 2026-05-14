@@ -250,10 +250,10 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `transition disruption audit` |
 | `pillar` | `Self-Funded Employer Guidance` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `Member-disruption events (formulary changes, network changes, PA criteria changes) are usually downstream of a compensation-stream optimization the PBM ran on the contract. PBM Compensation maps the five streams and the disclosure-gap framework that surfaces the contract-economics decisions producing the disruption. Member experience is downstream of contract economics; auditing one without the other misses the cause.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -270,7 +270,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 PBM Compensation universal anchor (transitions trace to compensation-stream optimizations). Channel Pricing Field Note covers a similar contract-economics-driven member impact.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -349,7 +348,6 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 **Per-instance overrides:**
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 09 · Rolling out a formulary change`
-
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -449,7 +447,6 @@ The second employer sent a specific letter 45 days out, naming the drug, explain
 Pharmacy changes are uniquely sensitive because members associate drug changes with quality-of-care changes. "Biosimilar transition" sounds like "cheaper substitute" to a member who does not know the clinical evidence. "Prior authorization" sounds like "barrier" to someone who needs medication.
 
 The fix is not better clinical rationale. It is better messaging: specific, early, and coordinated with prescribers before anyone writes to members. The communication is the implementation.
-
 
 #### First Comment
 
@@ -568,7 +565,6 @@ Your PBM manages specialty routing. Your PBM manages specialty formulary. Your P
 Eight management levers determine whether specialty cost is controlled or catastrophic. Most plans we review have gaps in at least half of them.
 
 Next week: specialty drug management, and the assessment that reveals where your gaps are.
-
 
 #### First Comment
 

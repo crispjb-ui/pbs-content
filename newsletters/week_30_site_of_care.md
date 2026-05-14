@@ -243,10 +243,10 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `mechanic_phrase` | `COB claim-flag audit` |
 | `pillar` | `Self-Funded Employer Guidance` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of PBM Compensation Audit Worksheet]` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `COB flagging at the claim level determines whether copay-assistance dollars stack onto your plan's out-of-pocket maximums or stay separate. The economics of that flag are entirely about the rebate-retention and manufacturer-direct streams in your PBM compensation. This worksheet maps all five compensation streams and the disclosure-gap framework that surfaces which mechanism your COB workflow is silently optimized for.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -263,7 +263,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 PBM Compensation universal anchor (COB ties to rebate-retention and manufacturer-direct streams). Channel Pricing Field Note carries the same audit posture.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -337,7 +336,6 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 **Per-instance overrides:**
 - Badge (top-right): "MONTHLY Q&A"
 - Plex Mono subtitle (22pt, white, tabular figures): `July 2026 thread`
-
 
 # PART 3: LINKEDIN FEED POSTS
 
@@ -462,7 +460,6 @@ One analysis: compare your top infusion drugs by total cost (drug plus administr
 
 [Close.]
 "One analysis changes the conversation: compare your top infusion drugs by total cost across settings. The math speaks for itself."
-
 
 #### First Comment
 
@@ -604,7 +601,6 @@ PBM RFP responses are designed to win evaluations, not to reveal true cost. Diff
 The questions you ask determine the answers you get. And the questions most RFP templates include were written by the industry, not by the employers who pay the bills.
 
 Next week: the PBM RFP, and 30 questions with answer scoring that reveal what responses actually mean.
-
 
 #### First Comment
 

@@ -32,12 +32,69 @@ import sys
 REPO_ROOT = Path(__file__).resolve().parent.parent
 NEWSLETTERS = REPO_ROOT / "newsletters"
 
+# Live Wix Media URLs keyed by PDF filename. Fill as files are uploaded
+# to Wix Media Manager so PART 1C sections inherit the real URLs.
+TOOLKIT_WIX_URLS = {
+    "week_27_thursday_pbm_compensation_audit.pdf": "https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf",
+}
+
+# Live Substack Field Note URLs keyed by title. Fill as Field Notes
+# publish so PART 1C sections inherit the real URLs.
+FIELD_NOTE_URLS = {
+    "What We See When We Audit Channel Pricing": "https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next",
+}
+
+
+def wix_pdf_url(filename: str, fallback_label: str = None) -> str:
+    if filename in TOOLKIT_WIX_URLS:
+        return TOOLKIT_WIX_URLS[filename]
+    return fallback_label or "[fill after Wix Media upload]"
+
+
+def field_note_url(title: str) -> str:
+    if title in FIELD_NOTE_URLS:
+        return FIELD_NOTE_URLS[title]
+    return "[fill after Field Note publishes on Substack]"
+
+
 # Each entry: (week, file_stem, [toolkit dicts])
 # Toolkit dict keys: slot (Monday Deep Dive | Thursday Field Note Handout),
 #   name, slug, pdf_filename, mechanic_phrase, pillar,
-#   second_name, second_slug, second_pdf_filename, second_blurb,
-#   field_note_title, field_note_url_placeholder, rationale
+#   second_name, second_pdf_filename, second_blurb,
+#   field_note_title, rationale
+# Live URLs are looked up via TOOLKIT_WIX_URLS / FIELD_NOTE_URLS at render time.
 PAIRINGS = {
+    20: {
+        "file": "week_20_manufacturer_programs.md",
+        "toolkits": [
+            {
+                "slot": "Monday Deep Dive",
+                "name": "Copay Card Financial Impact Calculator",
+                "slug": "copay-card-calculator",
+                "pdf_filename": "week_20_copay_card_financial_impact_calculator.pdf",
+                "mechanic_phrase": "copay accumulator economics",
+                "pillar": "Cost Containment Strategies",
+                "second_name": "PBM Compensation Audit Worksheet",
+                "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
+                "second_blurb": "Copay cards move manufacturer money through your plan. Manufacturer money is one of five PBM compensation streams. This worksheet zooms out to all five (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) and walks through the three audit passes that surface which mechanisms apply to your contract. The accumulator vs maximizer decision sits inside the rebate-retention stream, not outside it.",
+                "field_note_title": "What We See When We Audit Channel Pricing",
+                "rationale": "PBM Compensation is the universal zoom-out anchor when the first toolkit audits a single compensation mechanism (copay cards interact with rebate retention and manufacturer-direct payments, two of the five streams). Channel Pricing Field Note carries the same audit-framework posture.",
+            },
+            {
+                "slot": "Thursday Field Note Handout",
+                "name": "Rebate Report Audit Worksheet",
+                "slug": "rebate-report-audit",
+                "pdf_filename": "week_20_thursday_rebate_report_audit_worksheet.pdf",
+                "mechanic_phrase": "rebate flow audit",
+                "pillar": "PBM Contract Insights",
+                "second_name": "PBM Compensation Audit Worksheet",
+                "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
+                "second_blurb": "Rebates are one of five PBM compensation streams. This worksheet walks through all five (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin), the three audit passes to identify which mechanisms apply to your contract, and the disclosure-gap framework that becomes your renewal-leverage item. Plan sponsors who audit the rebate flow alone miss four of the five streams the contract is silently paying out on.",
+                "field_note_title": "What We See When We Audit Channel Pricing",
+                "rationale": "PBM Compensation again as the zoom-out anchor (rebate is one of the five streams). Channel Pricing Field Note is the structurally similar revenue-stream audit; reader continues in the same analytical posture.",
+            },
+        ],
+    },
     21: {
         "file": "week_21_quarterly_reporting.md",
         "toolkits": [
@@ -52,7 +109,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Quarterly Reporting names what to audit on the report your PBM sends. PBM Compensation names where the money goes that does not always show up on the report. The five compensation streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) are what the Quarterly Reporting framework checks against. Together they pair as the two halves of one renewal-leverage record.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation is the universal zoom-out anchor for any single-stream audit framework. Channel Pricing Field Note is the strongest published audit-themed Field Note available for Email 3.",
             }
         ],
@@ -71,7 +127,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Biosimilar adoption rates are suppressed by rebate-retention economics on the originator drug. Rebate retention is one of five PBM compensation streams. This worksheet walks through all five and the disclosure-gap framework that surfaces whether your contract financially incentivizes the PBM to delay biosimilar conversion. The biosimilar question is downstream of the compensation question.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation anchors the rebate-retention thread that drives biosimilar suppression. Channel Pricing Field Note carries the same audit-framework posture.",
             },
             {
@@ -85,7 +140,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Specialty routing produces one of the five PBM compensation streams (owned-pharmacy margin). This worksheet maps the other four (spread, rebate retention, admin fees, manufacturer-direct) and walks through the three audit passes to identify which mechanisms apply to your contract. Specialty routing alone is one revenue stream; PBM Compensation is the full map.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation universal anchor. Channel Pricing Field Note is the structurally similar revenue-stream audit; reader continues in the same analytical posture.",
             },
         ],
@@ -104,7 +158,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_21_quarterly_reporting_checklist.pdf",
                 "second_blurb": "The Red Flag Checklist surfaces patterns in your claims data. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows those patterns or buries them. Five patterns to look for in claims data; fifteen lines to audit on the report that should reflect them. Together they pair as cause and disclosure-trace.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "Quarterly Reporting is the natural operational follow-on (data audit then reporting audit). Channel Pricing Field Note covers the most common Red Flag pattern.",
             }
         ],
@@ -123,7 +176,6 @@ PAIRINGS = {
                 "second_pdf_filename": "evergreen_pbr_pharmacy_benefit_review_framework.pdf",
                 "second_blurb": "The H1 Scorecard is the five-metric mid-year snapshot. The PBR Framework is the twice-yearly six-category comprehensive audit PBS runs for clients. Run the H1 Scorecard in July to surface the metrics that matter; run the full PBR in mid-year to produce the documentation that goes into the renewal cycle. Together they pair as the lean check and the thorough audit.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "Tier 1 evergreen PBR Framework is the natural deeper companion to a Tier 2 scorecard. Channel Pricing Field Note covers a renewal-relevant audit.",
             },
             {
@@ -137,7 +189,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_21_quarterly_reporting_checklist.pdf",
                 "second_blurb": "The Amendment Letter Template is what you send when an H1 finding meets the amendment trigger. The Quarterly Reporting Checklist is what produces the H1 finding in the first place. The 15-line audit framework names the gap; the amendment letter documents the response. Together they pair as audit then ask.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "Quarterly Reporting is the natural prerequisite that surfaces the gap the Amendment Letter responds to. Channel Pricing Field Note is the structurally similar audit-framework example.",
             },
         ],
@@ -156,7 +207,6 @@ PAIRINGS = {
                 "second_pdf_filename": "evergreen_optimize_vs_go_to_market_decision_framework.pdf",
                 "second_blurb": "The RFP Scoring Audit only matters if go-to-market is the right decision. The Optimize vs Go-to-Market Framework is the three-variable decision tree that produces the recommendation in the first place. About 70% of contract reviews end in 'optimize existing,' which means the RFP path is the wrong path for most plans. Together they pair as decision then design.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "Optimize vs Go-to-Market is the natural upstream decision Tier 1 framework. Channel Pricing Field Note demonstrates the kind of audit finding that often supports 'optimize' over 'RFP.'",
             }
         ],
@@ -175,7 +225,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Step therapy override approval rates are often driven by rebate-retention economics on the step-1 drug, not clinical criteria alone. Rebate retention is one of five PBM compensation streams. This worksheet maps all five and the disclosure-gap framework that surfaces whether your override workflow is compensation-driven or clinically-driven. The clinical question is often downstream of the contract question.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation anchors the rebate-retention thread driving step therapy decisions. Channel Pricing Field Note carries the same audit posture.",
             }
         ],
@@ -194,7 +243,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_21_quarterly_reporting_checklist.pdf",
                 "second_blurb": "PBM Compensation names where the money goes. Quarterly Reporting audits whether the PBM's report shows it. The five compensation streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) are what the 15-line Quarterly Reporting audit checks against. Together they pair as identification then disclosure-trace, which is the two halves of any renewal-leverage finding.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "Quarterly Reporting is the operational disclosure-trace partner to PBM Compensation. Channel Pricing Field Note is a worked example of one compensation stream audited in detail.",
             }
         ],
@@ -213,7 +261,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "GER is one specific contract guarantee. PBM Compensation is the full map of how the PBM is paid (including the streams that distort how GER is calculated). The five streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) explain why GER variance is rarely a math error and almost always a methodology design. Together they pair as one guarantee and the full economics that shape it.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation universal anchor for single-mechanic audits. Channel Pricing Field Note covers a similar single-mechanic audit framework.",
             }
         ],
@@ -232,7 +279,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Network configuration produces one of the five PBM compensation streams (owned-pharmacy margin when mandatory mail or PBM-affiliated specialty is in play). PBM Compensation maps the other four and the disclosure-gap framework that becomes your renewal-leverage item. Network design is one revenue lever; PBM Compensation is the full map.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation universal anchor. Channel Pricing Field Note explicitly addresses the retail/mail/specialty channel split that network design controls.",
             }
         ],
@@ -251,7 +297,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "COB flagging at the claim level determines whether copay-assistance dollars stack onto your plan's out-of-pocket maximums or stay separate. The economics of that flag are entirely about the rebate-retention and manufacturer-direct streams in your PBM compensation. This worksheet maps all five compensation streams and the disclosure-gap framework that surfaces which mechanism your COB workflow is silently optimized for.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation universal anchor (COB ties to rebate-retention and manufacturer-direct streams). Channel Pricing Field Note carries the same audit posture.",
             }
         ],
@@ -270,7 +315,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Disclosure obligations are the contractual mechanism for surfacing compensation streams the PBM otherwise does not name. PBM Compensation maps the five streams; PBM Disclosure audits whether the contract requires the PBM to disclose each. Together they pair as the substance (what the PBM is paid) and the form (how the contract requires it disclosed). The gap between the two is the renewal-leverage item.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation is the natural substantive partner to a disclosure-obligation audit. Channel Pricing Field Note covers the kind of finding disclosure obligations should surface.",
             }
         ],
@@ -289,7 +333,6 @@ PAIRINGS = {
                 "second_pdf_filename": "evergreen_pbr_pharmacy_benefit_review_framework.pdf",
                 "second_blurb": "ERISA prudent process requires a reasonable, documented decision-making process. The PBR Framework is the twice-yearly comprehensive audit that produces that documentation across six categories of plan performance. The Fiduciary Audit names the standard; the PBR delivers the artifact. Together they pair as the legal obligation and the operational practice that satisfies it.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBR Framework Tier 1 evergreen is the documentation-producing partner to a fiduciary audit. Channel Pricing Field Note is the kind of finding that should be in the PBR write-up.",
             }
         ],
@@ -308,7 +351,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Member-disruption events (formulary changes, network changes, PA criteria changes) are usually downstream of a compensation-stream optimization the PBM ran on the contract. PBM Compensation maps the five streams and the disclosure-gap framework that surfaces the contract-economics decisions producing the disruption. Member experience is downstream of contract economics; auditing one without the other misses the cause.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation universal anchor (transitions trace to compensation-stream optimizations). Channel Pricing Field Note covers a similar contract-economics-driven member impact.",
             }
         ],
@@ -327,7 +369,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_21_quarterly_reporting_checklist.pdf",
                 "second_blurb": "The Mid-Year Guarantee Audit names which guarantees to check at mid-year. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows the data those guarantees are measured against. The 15-line framework is the report-side audit; the guarantee audit is the contract-side audit. Together they pair as the two halves of a documented mid-year position.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "Quarterly Reporting is the natural disclosure-trace partner to a performance-guarantee audit. Channel Pricing Field Note covers a similar audit framework.",
             }
         ],
@@ -346,7 +387,6 @@ PAIRINGS = {
                 "second_pdf_filename": "evergreen_optimize_vs_go_to_market_decision_framework.pdf",
                 "second_blurb": "Termination clauses determine your exit options. Exit options determine your leverage even when you have no intention of terminating. The Optimize vs Go-to-Market Framework is the three-variable decision tree where 'go to market' becomes the recommended path, and the path requires functional termination language to execute. Termination clause audit is the prerequisite; the decision framework is what you do with the leverage it creates.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "Optimize vs Go-to-Market Tier 1 evergreen is the strategic frame inside which termination leverage operates. Channel Pricing Field Note demonstrates a typical audit finding that supports the 'go to market' path.",
             }
         ],
@@ -365,7 +405,6 @@ PAIRINGS = {
                 "second_pdf_filename": "week_27_thursday_pbm_compensation_audit.pdf",
                 "second_blurb": "Definition variance is how the PBM expands compensation streams across renewal cycles without changing visible contract language. PBM Compensation maps the five streams the definitions silently modulate (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin). The definition audit names the words that drifted; the compensation audit names the dollar amounts those drifts produced. Together they pair as the mechanism and the financial impact.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBM Compensation universal anchor (definitions modulate compensation streams). Channel Pricing Field Note covers a definitions-driven audit finding.",
             }
         ],
@@ -384,7 +423,6 @@ PAIRINGS = {
                 "second_pdf_filename": "evergreen_pbr_pharmacy_benefit_review_framework.pdf",
                 "second_blurb": "The Pre-Meeting Checklist names what to walk into the renewal meeting with. The PBR Framework is the twice-yearly comprehensive audit that produces those items. Run the PBR in mid-year and year-end; the renewal-meeting items are the natural artifact of the audit. The checklist is the conclusion; the PBR is the work that produces it.",
                 "field_note_title": "What We See When We Audit Channel Pricing",
-                "field_note_url_placeholder": "https://benefitblindspots.substack.com/p/[grab-from-Substack]",
                 "rationale": "PBR Tier 1 evergreen is the work that produces what the checklist lists. Channel Pricing Field Note is an example renewal-leverage finding the PBR surfaces.",
             }
         ],
@@ -408,14 +446,14 @@ TOOLKIT_BLOCK_TEMPLATE = """
 |---|---|
 | `slug` | `{slug}` |
 | `name` | `{name}` |
-| `pdf_url` | `[fill after Wix Media upload]` |
+| `pdf_url` | `{pdf_url}` |
 | `mechanic_phrase` | `{mechanic_phrase}` |
 | `pillar` | `{pillar}` |
 | `second_toolkit_name` | `{second_name}` |
-| `second_toolkit_pdf_url` | `[Wix Media URL of {second_name}]` |
+| `second_toolkit_pdf_url` | `{second_pdf_url}` |
 | `second_toolkit_blurb` | `{second_blurb}` |
 | `field_note_title` | `{field_note_title}` |
-| `field_note_url` | `{field_note_url_placeholder}` |
+| `field_note_url` | `{field_note_url}` |
 
 ### Wix build checklist
 
@@ -454,16 +492,32 @@ def build_section(toolkits):
             f"Wix Automation."
         )
 
-    blocks = "".join(
-        TOOLKIT_BLOCK_TEMPLATE.format(idx=i + 1, **t) for i, t in enumerate(toolkits)
-    )
-    return PART_1C_TEMPLATE.format(plural_intro=plural_intro, toolkit_blocks=blocks)
+    blocks = []
+    for i, t in enumerate(toolkits):
+        enriched = dict(t)
+        enriched["pdf_url"] = wix_pdf_url(t["pdf_filename"])
+        enriched["second_pdf_url"] = wix_pdf_url(
+            t["second_pdf_filename"], f"[Wix Media URL of {t['second_name']}]"
+        )
+        enriched["field_note_url"] = field_note_url(t["field_note_title"])
+        blocks.append(TOOLKIT_BLOCK_TEMPLATE.format(idx=i + 1, **enriched))
+    return PART_1C_TEMPLATE.format(plural_intro=plural_intro, toolkit_blocks="".join(blocks))
 
 
 def insert_part_1c(week_file: Path, section: str, force: bool = False) -> str:
     text = week_file.read_text()
-    if "# PART 1C:" in text and not force:
+    has_existing = "# PART 1C:" in text
+    if has_existing and not force:
         return "skipped (already present)"
+
+    if has_existing:
+        # Replace existing PART 1C section: from "# PART 1C:" to before "# PART 2:"
+        replace_pat = re.compile(
+            r"# PART 1C:.*?(?=\n# PART 2: LINKEDIN NEWSLETTER)", re.DOTALL
+        )
+        text = replace_pat.sub("", text)
+        # Collapse any leftover blank lines
+        text = re.sub(r"\n{3,}", "\n\n", text)
 
     pattern = re.compile(r"\n(# PART 2: LINKEDIN NEWSLETTER[^\n]*\n)")
     m = pattern.search(text)
@@ -472,7 +526,7 @@ def insert_part_1c(week_file: Path, section: str, force: bool = False) -> str:
 
     new_text = text[: m.start()] + f"\n{section}\n" + text[m.start() + 1 :]
     week_file.write_text(new_text)
-    return "inserted"
+    return "replaced" if has_existing else "inserted"
 
 
 def main():

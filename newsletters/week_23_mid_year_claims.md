@@ -140,7 +140,6 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ---
 
-
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Decoded the Admin Fees. Now Audit Them.
@@ -279,7 +278,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_pdf_url` | `[Wix Media URL of Quarterly Reporting Checklist]` |
 | `second_toolkit_blurb` | `The Red Flag Checklist surfaces patterns in your claims data. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows those patterns or buries them. Five patterns to look for in claims data; fifteen lines to audit on the report that should reflect them. Together they pair as cause and disclosure-trace.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/[grab-from-Substack]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 ### Wix build checklist
 
@@ -296,7 +295,6 @@ This section is the operational source-of-truth for the Wix work this week. One 
 Quarterly Reporting is the natural operational follow-on (data audit then reporting audit). Channel Pricing Field Note covers the most common Red Flag pattern.
 
 ---
-
 
 # PART 2: LINKEDIN NEWSLETTER
 
@@ -526,7 +524,6 @@ Mid-year is when you can still act. Renewal is when you react.
 
 #ClaimsAudit #PlanSponsors #EmployeeBenefits
 
-
 #### First Comment
 
 This week's Benefit Blind Spots deep dive on mid-year claims data and renewal trajectory is the operational follow-on: the 5-pattern claims-data red flag checklist + intervention framework. [SUBSTACK MONDAY DEEP DIVE URL]
@@ -732,7 +729,6 @@ They know your per-member-per-month trend. They know which guarantees they are m
 The window between H1 close and renewal season is where leverage gets built or lost. What you learn now shapes what you negotiate in September.
 
 Next week: the five numbers that define your renewal position and how to calculate them.
-
 
 #### First Comment
 
