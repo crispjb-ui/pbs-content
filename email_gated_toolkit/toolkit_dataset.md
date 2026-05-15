@@ -63,7 +63,127 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 
 ---
 
-### Remaining 28 rows — to be populated
+### contract-review-readiness — Contract Review Readiness Checklist (Tier 1)
+
+| Column | Value |
+|---|---|
+| `slug` | `contract-review-readiness` |
+| `Title` | `Contract Review Readiness Checklist` |
+| `eyebrow` | `TIER 1 · PBM CONTRACT REVIEW · READINESS CHECKLIST` |
+| `headline` | `Pull Eight Documents. Surface Fifteen Audits.` |
+| `headline_emphasis` | `The Readiness Checklist Before Your PBM Contract Review.` |
+| `subtitle` | `A 2-page printable framework PBS uses across 100s of PBM contract reviews annually. Free download. Sent to your inbox.` |
+| `bullet_1` | `8-document set to pull before the review kickoff` |
+| `bullet_2` | `15 per-mechanic audit components mapped (financial, contract, workflow)` |
+| `bullet_3` | `Optimize-existing vs go-to-market recommendation with dollar magnitudes` |
+| `bullet_4` | `Paste-ready broker email to request what's missing` |
+| `valueprop_card_1_title` | `Documents to Gather` |
+| `valueprop_card_1_body` | `Pull eight items before the review kickoff: current PBM Services Agreement and amendments, prior contract versions, last four quarterly reports, Plan Document, stop-loss policy, prior RFP/evaluation docs, member disruption logs. Whatever is missing is a finding by itself.` |
+| `valueprop_card_2_title` | `Fifteen Audits Mapped` |
+| `valueprop_card_2_body` | `Every Contract Review integrates fifteen per-mechanic audits: financial (channel pricing, rebate, PBM compensation, GER/BER), contract clauses (performance guarantee, network, disclosure, termination, definitions), workflow (step therapy, specialty routing, COB, member transition). Each runs standalone in half a day.` |
+| `valueprop_card_3_title` | `The Decision the Review Produces` |
+| `valueprop_card_3_body` | `Every Contract Review ends with one of two recommendations: optimize existing (negotiate redlines and amendments with the current PBM) or go to market (issue an RFP). The Decision Framework Toolkit walks the three variables: total finding magnitude, negotiability, and switching cost.` |
+| `valueprop_card_4_title` | `This Quarter's Action Plan` |
+| `valueprop_card_4_body` | `Pull the document set. Schedule a 60-90 minute kickoff. Make the team available for follow-up questions. Convene the benefits committee to receive the findings and the optimize-vs-go-to-market recommendation. The next 12-18 months continue under twice-yearly Pharmacy Benefit Review cadence.` |
+| `pdf_filename_display` | `Contract Review Readiness Checklist` |
+| `seo_title` | `PBM Contract Review Readiness Checklist - Free Download - Prescription Benefit Solutions` |
+| `seo_description` | `The readiness checklist PBS uses across 100s of PBM contract reviews annually. 8 documents to pull, 15 audits mapped, optimize-vs-go-to-market recommendation. Free download.` |
+| `related_toolkit_slugs` | `channel-pricing, pbm-compensation, optimize-vs-go-to-market` |
+| `image_alt_text` | `Marked-up PBM Services Agreement contract page with handwritten red-pen annotations on unmonitored clauses` |
+| `pdf_url` | `[Upload evergreen_contract_review_readiness_checklist.pdf to Wix Media, paste URL]` |
+| `tier` | `1` |
+| `mechanic_phrase` | `integrated contract review` |
+| `is_featured` | `TRUE` |
+| `is_archived` | `FALSE` |
+| `second_toolkit_name` | `Channel Pricing Audit Worksheet` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
+| `second_toolkit_blurb` | `The Channel Pricing Audit Worksheet runs one of the fifteen audits inside a Contract Review. Half a day per-channel for retail, mail, specialty. Run standalone or as part of the integrated review.` |
+| `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+
+---
+
+### optimize-vs-go-to-market — Optimize Existing vs Go-to-Market Decision Framework (Tier 1)
+
+| Column | Value |
+|---|---|
+| `slug` | `optimize-vs-go-to-market` |
+| `Title` | `Optimize Existing vs Go-to-Market Decision Framework` |
+| `eyebrow` | `TIER 1 · POST-CONTRACT-REVIEW · DECISION FRAMEWORK` |
+| `headline` | `Optimize Existing. Or Go to Market.` |
+| `headline_emphasis` | `The Three-Variable Decision Framework PBS Uses After Every Contract Review.` |
+| `subtitle` | `A 2-page printable framework PBS uses to score the optimize-vs-go-to-market call after every contract review. Free download. Sent to your inbox.` |
+| `bullet_1` | `Three-variable rubric: finding magnitude, negotiability, switching cost` |
+| `bullet_2` | `Score template you can run with your benefits committee` |
+| `bullet_3` | `Optimize path: redline agenda + amendment timeline` |
+| `bullet_4` | `Go-to-market path: 4-6 month RFP backplan from effective date` |
+| `valueprop_card_1_title` | `Quantify the Gap` |
+| `valueprop_card_1_body` | `Total the dollar magnitude of audit findings from the per-mechanic toolkits. The contract review surfaces individual gaps; the Decision Framework converts the stack into a single number that drives the recommendation. Document the rationale for each gap.` |
+| `valueprop_card_2_title` | `Negotiability Assessment` |
+| `valueprop_card_2_body` | `Score the current PBM on willingness to move on each finding. Track recent responses, contract history, and prior amendment patterns. PBMs that haven't moved in three renewal cycles rarely move now. The score determines whether optimize is even a viable path.` |
+| `valueprop_card_3_title` | `Switching Cost Analysis` |
+| `valueprop_card_3_body` | `Quantify implementation cost, member disruption risk, and timeline risk for a PBM change. Add data migration, member communication, and clinical program reconfiguration. The switching cost is real but bounded; document it before recommending either path.` |
+| `valueprop_card_4_title` | `This Quarter's Action Plan` |
+| `valueprop_card_4_body` | `Score the three variables. If recommendation is optimize: schedule the amendment process using the Contract Amendment Letter Toolkit. If go-to-market: schedule the RFP using the RFP Scoring Methodology Audit. Either way: schedule the next twice-yearly Pharmacy Benefit Review.` |
+| `pdf_filename_display` | `Optimize vs Go-to-Market Decision Framework` |
+| `seo_title` | `Optimize Existing vs Go-to-Market PBM Decision Framework - Free Download - Prescription Benefit Solutions` |
+| `seo_description` | `The three-variable decision framework PBS uses after every contract review. Score finding magnitude, negotiability, and switching cost. Free download.` |
+| `related_toolkit_slugs` | `contract-review-readiness, rfp-scoring-audit, contract-amendment-letter` |
+| `image_alt_text` | `Decision matrix chart on a whiteboard with three variables scored: dollar magnitude, negotiability, switching cost` |
+| `pdf_url` | `[Upload evergreen_optimize_vs_go_to_market_decision_framework.pdf to Wix Media, paste URL]` |
+| `tier` | `1` |
+| `mechanic_phrase` | `optimize vs go-to-market` |
+| `is_featured` | `TRUE` |
+| `is_archived` | `FALSE` |
+| `second_toolkit_name` | `Contract Amendment Letter Template` |
+| `second_toolkit_pdf_url` | `[Upload week_24_thursday_contract_amendment_letter.pdf to Wix Media, paste URL]` |
+| `second_toolkit_blurb` | `The Contract Amendment Letter Template carries the optimize-existing path forward. Paste your audit findings into the redline letter, send to your PBM with the negotiation timeline. Mid-year window beats year-end.` |
+| `field_note_title` | `[TBD — pair with renewal/decision-themed Field Note]` |
+| `field_note_url` | `[TBD]` |
+
+---
+
+### pbr-framework — Pharmacy Benefit Review Framework (Tier 1)
+
+| Column | Value |
+|---|---|
+| `slug` | `pbr-framework` |
+| `Title` | `Pharmacy Benefit Review Framework` |
+| `eyebrow` | `TIER 1 · PHARMACY BENEFIT REVIEW · TWICE-YEARLY FRAMEWORK` |
+| `headline` | `Six Categories. Twenty Audit Items.` |
+| `headline_emphasis` | `The Twice-Yearly Pharmacy Benefit Review Framework.` |
+| `subtitle` | `A 2-page printable framework PBS uses for the twice-yearly PBR audit. Six categories, twenty scored items, paste-ready renewal agenda. Free download. Sent to your inbox.` |
+| `bullet_1` | `Six PBR categories: financial, contract, clinical, member, vendor, strategic` |
+| `bullet_2` | `Twenty audit items scored 1-5 against PBM data` |
+| `bullet_3` | `Score interpretation: below 50 / 50-70 / above 70 with next-step paths` |
+| `bullet_4` | `Use the PBR findings as your renewal redline agenda` |
+| `valueprop_card_1_title` | `Run the Six-Category Audit` |
+| `valueprop_card_1_body` | `The PBR covers Financial Performance, Contract Compliance, Clinical Programs, Member Experience, Vendor Management, Strategic Position. Each category has 3-4 audit items (20 total). Pull the data package from the PBM and score each item 1-5 against the data.` |
+| `valueprop_card_2_title` | `Score and Interpret` |
+| `valueprop_card_2_body` | `Total score: 20-100. Below 50 = meaningful unrealized cost containment and member experience risk; bring full audit findings to next renewal cycle. 50-70 = focus the next 90 days on the lowest-scoring category. Above 70 = strong oversight position; shift focus to renewal readiness.` |
+| `valueprop_card_3_title` | `Bring the PBR to Renewal` |
+| `valueprop_card_3_body` | `Plan sponsors with documented PBR findings negotiate different renewal terms than plan sponsors walking in with the PBM's summary report. The PBR is the counter-narrative. Build the written report and pre-circulate to the benefits committee before the first renewal meeting.` |
+| `valueprop_card_4_title` | `This Quarter's Action Plan` |
+| `valueprop_card_4_body` | `Pull the six-category data and score the framework. Re-run six months later and write the period-over-period comparison. Use the audit findings as the renewal redline agenda. PBS can run the PBR for your plan as a standing twice-yearly engagement.` |
+| `pdf_filename_display` | `Pharmacy Benefit Review Framework` |
+| `seo_title` | `Pharmacy Benefit Review (PBR) Framework - Free Download - Prescription Benefit Solutions` |
+| `seo_description` | `The twice-yearly Pharmacy Benefit Review framework PBS uses with self-funded plan sponsors. Six categories, twenty audit items, renewal-ready findings. Free download.` |
+| `related_toolkit_slugs` | `contract-review-readiness, midyear-claims-red-flag, h1-renewal-readiness` |
+| `image_alt_text` | `Six-category PBR scoring framework with twenty audit items on a sticky-note dashboard layout` |
+| `pdf_url` | `[Upload evergreen_pbr_pharmacy_benefit_review_framework.pdf to Wix Media, paste URL]` |
+| `tier` | `1` |
+| `mechanic_phrase` | `pharmacy benefit review` |
+| `is_featured` | `TRUE` |
+| `is_archived` | `FALSE` |
+| `second_toolkit_name` | `Mid-Year Claims Red Flag Checklist` |
+| `second_toolkit_pdf_url` | `[Upload week_23_midyear_claims_red_flag_checklist.pdf to Wix Media, paste URL]` |
+| `second_toolkit_blurb` | `The Mid-Year Claims Red Flag Checklist is the within-cycle audit that feeds your PBR. Five claim patterns surface between renewals; pair with twice-yearly PBR for ongoing oversight.` |
+| `field_note_title` | `[TBD — pair with renewal-readiness or PBR-themed Field Note]` |
+| `field_note_url` | `[TBD]` |
+
+---
+
+### Remaining 26 rows — to be populated
 
 Toolkit roster (from `templates/documents/`):
 
