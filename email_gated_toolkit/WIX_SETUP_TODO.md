@@ -61,8 +61,7 @@ $w.onReady(function () {
   - Field Key: `second_toolkit_blurb` (set in Advanced tab)
   - Position: alongside the other hidden fields below Submit
   - Verify the white cover box still hides it after re-adding
-- [ ] **Confirm `second_toolkit_blurb` column in the Toolkits CMS is Text type, not Rich Text**
-  - If still Rich Text: change to Text (single-line or long), confirming Wix's warning about losing formatting (your text is plain prose, no formatting to lose)
+- [x] **Confirm `second_toolkit_blurb` column in the Toolkits CMS is Text type, not Rich Text** — done May 15. Column changed from Rich Text to plain Text; HTML wrapper overhead eliminated.
 - [ ] **Update the CMS row for Channel Pricing** with the tightened blurb (see "Tightened Email 2 blurbs" section below)
 - [ ] **Update the Velo code** to the version below:
 
