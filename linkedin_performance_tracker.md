@@ -1062,6 +1062,94 @@ Cuban liked every PBS post this week but did not comment or repost on any of the
 
 ---
 
+### Week 18 Matured Snapshot (Day 7+, captured May 15, 2026)
+
+The W18 capture at 23h-1d underread matured numbers significantly. Day 7+ reads on the four primary posts:
+
+| Post | Initial (23h-1d) | Matured (Day 7+) | Multiplier |
+|------|------------------|------------------|------------|
+| "Same drug. Same dose..." Channel Pricing messy infographic (Thu May 7) | 3,948 / +7 / 9 saves / 8 comments | **29,487 / +29 / 21 saves / 19 comments** | 7.5× impressions / 4.1× followers / 2.3× saves / 2.4× comments |
+| "One drug. One patient. $2.1M." Gene therapy POV (Wed May 6) | 1,620 / 0 / 0 saves / 10 comments | 2,153 / 0 / 0 saves / 13 comments | 1.3× / no follower lift / floor reached |
+| "The Pipeline That Will Hit Your Plan" Substack deep dive (Mon May 4) | 119 views / 2 subs | 127 views / 2 subs | 1.07× views (mature) |
+| "What We See When We Audit Channel Pricing" Substack Field Note (Thu May 7) | 45 views / 4-5 subs estimated | 89 views / **5 subs confirmed** | 1.98× views, conversion confirmed |
+
+**Refined W18 reads:**
+
+1. **Channel Pricing is the new canonical Thursday Excellence reference at 29,487 organic / +29 / 21 saves / 19 comments / 26% Hospitals & Health Care / 37% 10,001+.** All metrics fully organic (Cuban like-only, zero amplification per the documented likes-only rule). Significantly higher than the 17K reference figure cited in CLAUDE.md, which was captured at early maturation. The Thursday Excellence Rule reference numbers should update to reflect the mature read.
+
+2. **Gene therapy POV underperformed the named-actor dollar-comparison rule.** At maturation: 2,153 impressions vs. the documented dollar-comparison floor of ~39K. The hook stated price ($2.1M for one gene therapy) without naming an actor keeping the spread — exactly the failure pattern from the Apr 24 admin-fee post (1,336 impressions). Two clean data points now confirm: **price disclosures ≠ dollar comparisons; the algorithm penalizes the missing actor consistently.** The 13 comments / 2,153 impressions engagement density (0.60% comment rate) was the only redeeming signal.
+
+3. **Channel Pricing Field Note converted 5 free Substack subs (confirmed against the W18 estimate of 4-5).** Confirms the first-comment Substack cross-promo mechanism delivers ~5 subs per Thursday Field Note + Thursday LinkedIn post pairing when both hit Thursday Excellence criteria.
+
+---
+
+### Week 19 Snapshot (May 11 - May 15, 2026)
+
+**Channel-by-channel headers (May 15):**
+
+- **LinkedIn Followers:** 1,814 (+88 since May 8)
+- **LinkedIn Newsletter Subscribers:** 883 (+47 since May 8)
+- **Substack Subscribers:** 72 (+7 since May 8) — **of which 1 paid + 71 free**
+- **Substack Revenue:** **$80 — FIRST PAID SUBSCRIPTION** (May 11, attributed to Fiduciary Duty deep dive)
+
+#### Cuban Signal (likes-only on two posts, second week confirming the rule)
+
+Cuban liked the W18 Thursday Channel Pricing post (which then matured to 29,487 organic) and the W19 Wednesday PCMA spread-pricing post (4,037 organic at day 2). Both like-only, no comment or repost. **The May 8 likes-only rule held on both data points:** Cuban likes did not move reach. The W18 Channel Pricing post's 29,487 organic reach is structurally attributable to format + named-actor hook + Thursday cross-promo stack, not Cuban activity. Second confirming week for the likes-only rule (W18 was the first).
+
+#### Week 19 Feed Posts
+
+| Post | Type | Day | Age at capture | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Cuban Signal |
+|------|------|-----|----------------|------|---------|----|------|---------|-------|-------|---------------|-----------|--------------|
+| "Fiduciary Responsibility Briefing" Pharmacy Benefits Briefing (Newsletter Edition 9) | Newsletter | Mon May 11 | 4d | 871 / 503 reach / 452 article views / 687 email sends / **47% open** | 503 | 11 | 1 | 2 | 1 | 0 | 5 | +2 | — |
+| "Between renewals, most self-funded plans leak money in predictable places" | Carousel / Infographic | Tue May 12 | 3d | **687** | 432 | 9 | 0 | 2 | 2 | 0 | 4 | 0 | — |
+| "A PBM trade association recently told a Rhode Island legislative committee, on the record, that spread pricing is good for employers..." (PCMA Wednesday text) | POV Text (named-adversary + on-the-record quote) | Wed May 13 | 2d | **4,037** | 2,964 | 40 | **22** | 6 | 2 | 4 | 8 | +2 | **Liked** |
+| "Five questions about your formulary that your PBM will redirect, defer, or answer incompletely..." (Questions Your PBM Avoids, 7p paper-card carousel) | Carousel (paper-card aesthetic) | Thu May 14 | 1d | 741 | 485 | 10 | 12 | 4 | 5 | 0 | 5 | 0 | — |
+
+> **Capture note:** Thursday post is 1 day old at capture; W18 reference (Channel Pricing) was at ~3K at day 1 and matured to 29K by day 7. The 741 reading is the floor, not the ceiling. Day 7 read (May 21) will determine whether this hits the Thursday Excellence bar.
+
+#### Substack — Week 19 publication performance
+
+| Post | Date | Recipients | Views | Open rate | Link CTR | New subs | Revenue |
+|------|------|------------|-------|-----------|----------|----------|---------|
+| **"Fiduciary Duty and Pharmacy Benefits: What ERISA Requires"** (Monday deep dive) | May 11 | 67 | 88 | **43.28%** | **31% (9 of 29 openers)** | **5 (1 paid + 4 free)** | **$80** |
+| **"What I'd Ask" #2: Your First PBM Quarterly Review** (Tuesday biweekly scenario, subscriber-only) | May 12 | 68 | 63 | 41.18% | 4% (1 click) | 0 | — |
+| "What Crossed My Desk This Week: May 13, 2026" (Wednesday roundup) | May 13 | 71 | **105** | 43.66% | 13% | 0 | — |
+| "The Documentation That Matters in PBM Litigation" (Thursday Field Note) | May 14 | 71 | 54 | 42.25% | 10% | 0 | — |
+
+**Fiduciary deep dive is the breakthrough Substack post of the cycle.** First paid subscriber attributed to the post ($80 revenue). 9 of 29 openers clicked a link (31% CTR, well above the typical ~10% bar in the data set). **5 openers clicked `mailto:team@rxbs.org`** — first surfaced inbound-email behavior in the data set, direct lead-generation from a Substack post. 3 clicked the toolkit PDF (10%); 2 clicked /subscribe (7%). Traffic: 77% email, **11% linkedin.com** (confirming the first-comment cross-promo lever holds at full strength one week after W18 introduced it), 5% direct to app, 3% direct, 3% open.substack.com.
+
+**"What I'd Ask" #2 underperformed across the board.** 0 new subs, 1 link click out of 28 openers (4% CTR — well below the data set's typical 10% bar), 41.18% open rate (the lowest of the four W19 Substack posts). Second weak entry in the biweekly subscriber-only scenario series (entry #1 was also light per prior tracking). Worth re-evaluating the format if entry #3 continues the pattern.
+
+**Wednesday Roundup at 105 views outperformed the Monday Deep Dive on raw views (105 vs. 88).** First time the Roundup tops the Monday in the data set. The Roundup pulls weekly-news-curious openers; the Deep Dive pulls action-takers (5 subs / $80 revenue / 5 inbound emails despite 17 fewer views). Quality of viewer ≠ quantity. Worth monitoring whether this is a one-off or a pattern shift.
+
+### Week 19 Analysis
+
+1. **Fiduciary deep dive is the highest-converting Substack topic to date.** 5 new subs (matching W18 Channel Pricing's 5) PLUS the first paid sub PLUS 5 inbound `mailto:team@rxbs.org` clicks. The combination is unique in the data: paid conversion + direct lead-generation behavior + topic-anchor authority. Fiduciary duty / ERISA-anchored topics now elevate from "content pillar" to **paid-conversion shape**. `#FiduciaryDuty` topic-anchor should be prioritized when a week's mix allows.
+
+2. **PCMA Wednesday text post is a structural template worth replicating.** 4,037 organic impressions at day 2 + 22 comments + 6 reposts + 2 followers = 0.55% comment rate, highest engagement density of any post in W19. Shape: named PBM industry actor → direct on-the-record quote → make the absurdity self-evident without editorial gloss. The "named adversary + their own words" structure is distinct from the named-actor dollar comparison shape; both should be in the active Wednesday rotation. Add to the Content Shape Library.
+
+3. **W19 Tuesday at 687 organic impressions sits below the Tuesday Excellence Rule bar.** The rule was added May 9 to prevent "lazy Tuesday." This post likely shipped before the rule was fully internalized in the calendar. Note as a baseline pre-rule data point. W20 Tuesday becomes the first fully-Tuesday-Excellence-Rule-built post in the calendar; track whether the rule lift moves measurable reach.
+
+4. **W19 Thursday "5 Formulary Questions" at 741 day-1 impressions is on a watch list.** W18 Channel Pricing was at ~3K at day 1 and matured to 29K by day 7. The Thursday Excellence Rule predicts that paper-card photoreal carousels on confrontational hooks should hit the 17K+ standard at maturation. Day 7 read (May 21) will determine: if it matures to 5-15K+, the rule holds and the carousel-format-as-Slot-C reading from CLAUDE.md stands; if it stays in the 1-2K range at day 7, the Thursday Excellence Rule needs revision around what "messy infographic / photoreal aesthetic" actually includes.
+
+5. **The 8:30 AM revert verdict is partially validated by the matured W18 read.** W18 Channel Pricing at 8:30 AM hit 29,487 organic — squarely inside the documented 5-15K to 22K+ era band. W19 Wednesday PCMA at 8:30 AM hit 4,037 organic at day 2, on a confrontational text-post shape that historically floors at ~25K — still climbing but below floor at day 2. W19 Tuesday at 8:30 AM landed at 687 mature (below floor). The pattern: when the post hits all rules (named-actor + messy-infographic + named-adversary), 8:30 AM delivers documented era performance (Channel Pricing). When the post misses rules (Tuesday non-Library, no confrontational hook, no named-actor), 8:30 AM does not rescue it. **Time was vindicated by the W18 mature read; the W19 underperformers are post-specific issues, not time-of-day issues.**
+
+6. **Newsletter open rate at 47% (W19 Fiduciary) holds the W18 baseline.** Flat, not declining. Subscriber growth +47 in 7 days (836 → 883) is the strongest weekly newsletter growth rate in the data set.
+
+7. **W18 → W19 follower growth +88.** A third (+29) traced to a single Thursday post (W18 Channel Pricing maturation). The leverage of one well-executed Thursday post is documented yet again. W19 has not yet produced a comparable Thursday post; Thursday day-7 read (May 21) will determine whether W19 closes with another high-leverage post or runs flat.
+
+### Week 19 Recommendations
+
+1. **Elevate Fiduciary / ERISA topic-anchor to paid-conversion priority.** Schedule additional fiduciary-anchored deep dives in W22 or W24 to test the paid-conversion repeatability. The format that worked: ERISA legal framing + `mailto:team@rxbs.org` inbound link in body + toolkit PDF embed + LinkedIn first-comment cross-promo. Replicate the stack.
+2. **Codify the "named adversary + on-the-record quote" Wednesday shape in the Content Shape Library.** Add to CLAUDE.md alongside Decoder, Dollar Comparison, Best-Kept Secret, 5-Questions, and Library NN. The W19 PCMA post is the canonical reference.
+3. **Watch list: W19 Thursday day-7 read on May 21.** If "5 Formulary Questions" matures above 5K, the paper-card-carousel-as-messy-infographic claim holds. If it stays below 2K, revisit the Thursday Excellence Rule's format definition.
+4. **Watch list: "What I'd Ask" #3 conversion in 2 weeks.** Two weak entries in a row. If #3 also returns 0 subs, the biweekly scenario series needs reformatting or pausing.
+5. **Update CLAUDE.md Thursday Excellence Rule reference numbers to reflect W18 maturation.** Current cited 17K / +22 / 18 saves / 17 comments is the early read; the mature read is 29,487 / +29 / 21 saves / 19 comments / 26% H&HC / 37% 10,001+.
+6. **W20 Tuesday is the first fully-Tuesday-Excellence-Rule-built Tuesday post.** Track whether the rule lift moves measurable reach (target: above 2K organic at day 3, well above the W19 baseline of 687).
+7. **Investigate the 5 inbound `mailto:team@rxbs.org` clicks from the W19 Fiduciary deep dive.** Determine if those 5 clicks landed actual emails in the team inbox (vs. tab opens that did not convert), and whether any of the resulting inquiries reference the Substack post specifically. If yes, the Fiduciary deep dive is the first documented lead-generation post in the ecosystem and warrants its own attribution row in future tracker entries.
+
+---
+
 
 
 ## Why track this
