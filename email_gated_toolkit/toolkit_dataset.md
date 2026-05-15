@@ -57,7 +57,7 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `pillar` | `Transparency & Industry Education` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
-| `second_toolkit_blurb` | `Channel pricing is one of five revenue streams that flow from your plan to your PBM. Most plan sponsors only track the administrative fee, the smallest of the five. This worksheet walks through all five compensation mechanisms (spread, rebate retention, admin fees, manufacturer-direct payments, owned-pharmacy margin), the three audit passes to identify which apply to your contract, and the disclosure-gap framework that becomes your renewal-leverage item.` |
+| `second_toolkit_blurb` | `The PBM Compensation Audit Worksheet maps all five revenue streams that flow from your plan to your PBM. Channel pricing is one. The other four are where most disclosure gaps live.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 

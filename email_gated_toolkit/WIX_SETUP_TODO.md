@@ -145,9 +145,9 @@ These replace the longer blurbs in `email_gated_toolkit/emails/02_second_toolkit
 
 ### Channel Pricing row → second_toolkit_blurb column:
 
-> Channel pricing is one of five PBM revenue streams. Most plan sponsors track only the admin fee. This worksheet maps all five and the audit that surfaces which apply to your contract.
+> The PBM Compensation Audit Worksheet maps all five revenue streams that flow from your plan to your PBM. Channel pricing is one. The other four are where most disclosure gaps live.
 
-(184 chars)
+(199 chars)
 
 ### PBM Compensation row → second_toolkit_blurb column:
 
