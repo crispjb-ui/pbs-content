@@ -434,7 +434,7 @@ Elizabeth Warren and Josh Hawley don't agree on much. They just agreed PBMs shou
 
 The Patients Before Monopolies Act, reintroduced last week, would force CVS Caremark, Express Scripts, and OptumRx to divest their pharmacy operations within one year. Same corporation can no longer set the reimbursement rate AND own the pharmacy collecting it.
 
-The bill picked up new co-sponsors across both chambers: Senators Fetterman and Marshall, Representatives Landsman and Carter (Energy and Commerce), Nadler and Nehls (Judiciary). Bipartisan momentum is unusual on antitrust legislation. This is not.
+Warren and Hawley first introduced the bill in December 2024. It expired with the 118th Congress on January 3, 2025 without a committee vote. This time the bill picks up new co-sponsors across both chambers: Senators Fetterman and Marshall, Representatives Landsman and Carter (Energy and Commerce), Nadler and Nehls (Judiciary). Bipartisan momentum is unusual on antitrust legislation. This is not.
 
 Tennessee passed the same divestiture requirement at the state level last month. 39 state attorneys general have asked Congress to pass a federal version. The pressure was already there. The bill now sits in Energy and Commerce.
 
@@ -450,7 +450,7 @@ The bill exists. Whether it moves is a different question.
 
 Today's What Crossed My Desk on Benefit Blind Spots opens with the full breakdown: the bill text, the divestiture timeline, the three vertically-integrated PBMs that would be affected, and what to watch in Energy and Commerce. Plus four other PBM-policy stories from the past week. [SUBSTACK WEDNESDAY ROUNDUP URL]
 
-Source: Sen. Warren press release, May 13, 2026 — https://www.warren.senate.gov/newsroom/press-releases/warren-hawley-harshbarger-auchincloss-introduce-bipartisan-bill-to-cut-drug-costs-rein-in-pharmacy-benefit-managers-pbms
+Source: Health Exec — https://healthexec.com/topics/healthcare-management/healthcare-policy/bill-congress-would-rein-pbms-force-divestment-pharmacies
 
 #### Wednesday Excellence checklist (Wednesday hook + Humanize Check)
 
