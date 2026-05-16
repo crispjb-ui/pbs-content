@@ -450,7 +450,7 @@ The bill exists. Whether it moves is a different question.
 
 Today's What Crossed My Desk on Benefit Blind Spots opens with the full breakdown: the bill text, the divestiture timeline, the three vertically-integrated PBMs that would be affected, and what to watch in Energy and Commerce. Plus four other PBM-policy stories from the past week. [SUBSTACK WEDNESDAY ROUNDUP URL]
 
-Source: VitalLaw, Antitrust News, May 15, 2026 — https://www.vitallaw.com/news/antitrust-news-senators-renew-bipartisan-push-for-pbm-conflict-of-interest-legislation/ald01212819e2beaa4dc3a10686e4a48b7c5a
+Source: Sen. Warren press release, May 13, 2026 — https://www.warren.senate.gov/newsroom/press-releases/warren-hawley-harshbarger-auchincloss-introduce-bipartisan-bill-to-cut-drug-costs-rein-in-pharmacy-benefit-managers-pbms
 
 #### Wednesday Excellence checklist (Wednesday hook + Humanize Check)
 
