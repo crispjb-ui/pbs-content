@@ -14,7 +14,8 @@
 | Tue May 19 | 8:30 AM | LinkedIn Feed | Post 69 - "MAC vs WAC vs AWP" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
 | Tue May 19 | 8:35 AM | LinkedIn Feed | Post 69 - First Comment | [ ] |
 | Tue May 19 | 1:30 PM | LinkedIn Company | Company Reshare of Post 69 | [ ] |
-| Wed May 20 | 8:30 AM | LinkedIn Feed | Post 70 - "Free drug. Full price claim. Your plan pays." Tease Hook (TEXT) | [ ] |
+| Wed May 20 | 8:30 AM | LinkedIn Feed | Post 70 - "Warren and Hawley don't agree on much. They just agreed PBMs shouldn't own the pharmacies they pay." PBM Act news critique (TEXT) | [ ] |
+| Wed May 20 | 8:35 AM | LinkedIn Feed | Post 70 - First Comment (link to Wed Roundup) | [ ] |
 | Wed May 20 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 21 | 7:30 AM | Substack | Field Note: "Copay Accumulator vs. Copay Maximizer" | [ ] |
 | Thu May 21 | 8:30 AM | LinkedIn Feed | Post 71 - "Manufacturer Pays $5,000. Three Places It Can Land." Messy Infographic (Thursday Excellence slot, photoreal three-pill-bottle composition, pairs with same-day Field Note on Accumulator vs Maximizer) | [ ] |
@@ -418,29 +419,50 @@ Ginny Crisp walks through the three contract terms that move plan spend the most
 ---
 
 ## Post 70 - Wednesday 8:30 AM
-### "Free drug. Full price claim. Your plan pays." Tease Hook (Text)
+### PBM Act News Critique — "Warren and Hawley don't agree on much. They just agreed PBMs shouldn't own the pharmacies they pay." (Text)
 
-**Format:** Text Post (Tease Hook)
-**Pillar:** Transparency
-**Word Count:** ~235 words
+> **NOTE (added May 16, 2026):** Original Wednesday post was "Free drug. Full price claim. Your plan pays." copay-card tease (~235 words). Swapped May 16 in favor of the PBM Act news critique because the Patients Before Monopolies Act was reintroduced by Warren + Hawley on May 13, 2026 — a bipartisan-momentum news event with multi-week half-life that fits the Wednesday confrontational-POV slot perfectly and resolves a Monday-Wednesday topic-cannibalization risk (Monday W20 newsletter is also copay/manufacturer-program territory; the displaced post would have collapsed Mon/Wed onto the same subject family per the May 9 triple-distinct topic rule). The displaced "Free drug. Full price claim." text post is logged in `evergreen_visual_backlog.md` entry #22 for use in a future Transparency-pillar Wednesday slot.
 
-*Expanded from 75 to ~235 words for dwell time optimization. Hook stays above 210-character "See More" cutoff.*
+**Format:** Text Post (Confrontational POV — News Critique + Named Adversary + Bipartisan Hook)
+**Pillar:** Transparency & Industry Education
+**Word Count:** ~245 words
+**News anchor:** Patients Before Monopolies Act, reintroduced May 13, 2026 by Sens. Warren (D-Mass.) and Hawley (R-Mo.) + Reps. Harshbarger (R-Tenn.) and Auchincloss (D-Mass.)
 
 #### Post Copy
 
-Free drug. Full price claim. Your plan pays.
+Elizabeth Warren and Josh Hawley don't agree on much. They just agreed PBMs shouldn't own the pharmacies they pay.
 
-That is how copay cards work. And most employers have never followed the transaction to its conclusion.
+The Patients Before Monopolies Act, reintroduced Tuesday, would force CVS Caremark, Express Scripts, and OptumRx to divest their pharmacy operations within one year. Same corporation can no longer set the reimbursement rate AND own the pharmacy collecting it.
 
-The manufacturer funds the copay card. The member pays nothing at the pharmacy counter. The pharmacy submits a claim at full price. Your plan covers its contractual share based on list price, not the discounted price the manufacturer is effectively offering.
+The bill picked up new co-sponsors across both chambers: Senators Fetterman and Marshall, Representatives Landsman and Carter (Energy and Commerce), Nadler and Nehls (Judiciary). Bipartisan momentum is unusual on antitrust legislation. This is not.
 
-Here is where it gets expensive. The copay card payments count toward the member's deductible and out-of-pocket maximum. The member hits their OOP max faster than they would without the card. Once they do, your plan pays the full cost of every subsequent fill for the rest of the plan year. The manufacturer saved the member money in January. Your plan absorbs the cost from March through December.
+Tennessee passed the same divestiture requirement at the state level last month. 39 state attorneys general have asked Congress to pass a federal version. The pressure was already there. The bill now sits in Energy and Commerce.
 
-We see this pattern in claims data regularly. A specialty drug with a copay card that accelerates the member through their cost-sharing obligations in two or three fills. The remaining fills for the year are entirely plan-funded. The annual cost to the plan can be substantially higher than it would have been without the copay card.
+In the hundreds of PBM contracts we review at PBS each year, the most opaque pricing clauses are the ones where the PBM owns the dispensing pharmacy. Specialty drug routing patterns are the clearest tell. Plan sponsors who audit their channel pricing find the gap between the network clause and the actual margin is widest exactly where the integration runs deepest.
 
-The drug was never free. The cost was redistributed. From member to plan. From visible to invisible.
+For self-funded employers: if this passes, the specialty pharmacy your members use may not be the same one twelve months from now. The PBM's owned-pharmacy referral pattern is the line item that disappears first. Whether you support or oppose the bill, the audit work to understand your current routing pattern is the work to do this quarter regardless.
 
-Copay accumulator programs exist specifically to address this. Ask your broker whether your plan has one in place. If it does not, the math is working against you on every copay card transaction.
+The bill exists. Whether it moves is a different question.
+
+#PBMTransparency #SelfFundedEmployers #PharmacyBenefits
+
+#### First Comment
+
+Today's What Crossed My Desk on Benefit Blind Spots opens with the full breakdown: the bill text, the divestiture timeline, the three vertically-integrated PBMs that would be affected, and what to watch in Energy and Commerce. Plus four other PBM-policy stories from the past week. [SUBSTACK WEDNESDAY ROUNDUP URL]
+
+#### Wednesday Excellence checklist (Wednesday hook + Humanize Check)
+
+1. Confrontational hook ✓ — "Warren and Hawley don't agree on much" creates a knowledge gap (why are these two agreeing) + names PBMs as adversary
+2. Named-actor framing ✓ — CVS Caremark, Express Scripts, OptumRx named explicitly; Warren, Hawley, Harshbarger, Auchincloss named as bipartisan champions; 39 state AGs named as state-level pressure
+3. Proprietary anchor ✓ — "in the hundreds of PBM contracts we review at PBS each year, the most opaque pricing clauses are the ones where the PBM owns the dispensing pharmacy" — specific, unfakeable, PBS-only insight
+4. Plan-sponsor-actionable ✓ — "the audit work to understand your current routing pattern is the work to do this quarter regardless" — concrete this-quarter action regardless of bill outcome
+5. First-comment Substack cross-promo ✓ — Wednesday Roundup link with named asset (bill breakdown, divestiture timeline, named PBMs, Energy and Commerce watch)
+6. Bipartisan angle as the standout ✓ — Warren + Hawley alignment is the rarest signal in current US political environment, makes the post scroll-stopping for non-political-aligned audiences
+7. No em-dashes as sentence separators ✓
+8. No AI-tell blacklist phrases ✓
+9. Irregular sentence length ✓ — alternates between short declarative ("This is not.") and full-paragraph analytical
+10. One formula per post ✓ — news critique only, not stacked with rule-of-three or contrast-pivot
+11. Brokers framed as partners not adversaries ✓ — no broker mention here; PBMs are the structural adversary, plan sponsors are the audience
 
 #### VIDEO SCRIPT OPTION (40 seconds, filmed on phone)
 
