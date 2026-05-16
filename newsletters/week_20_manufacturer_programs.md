@@ -432,7 +432,7 @@ Ginny Crisp walks through the three contract terms that move plan spend the most
 
 Elizabeth Warren and Josh Hawley don't agree on much. They just agreed PBMs shouldn't own the pharmacies they pay.
 
-The Patients Before Monopolies Act, reintroduced Tuesday, would force CVS Caremark, Express Scripts, and OptumRx to divest their pharmacy operations within one year. Same corporation can no longer set the reimbursement rate AND own the pharmacy collecting it.
+The Patients Before Monopolies Act, reintroduced last week, would force CVS Caremark, Express Scripts, and OptumRx to divest their pharmacy operations within one year. Same corporation can no longer set the reimbursement rate AND own the pharmacy collecting it.
 
 The bill picked up new co-sponsors across both chambers: Senators Fetterman and Marshall, Representatives Landsman and Carter (Energy and Commerce), Nadler and Nehls (Judiciary). Bipartisan momentum is unusual on antitrust legislation. This is not.
 
