@@ -1,8 +1,10 @@
 # Zapier Implementation Spec — Toolkit Lead-Gen Email Automation
 
 **Status:** Replaces the Wix Automations 5-email chain that has proven unreliable on the Wix Free tier.
-**Architecture:** Velo posts form submission data directly to Zapier webhook → Zapier sends 5 emails on staggered delays via Gmail (`team@rxbs.org`) or SendGrid.
+**Architecture:** Velo posts form submission data directly to Zapier webhook → Zapier sends 5 emails on staggered delays via **Microsoft Outlook** (`team@rxbs.org` on Microsoft 365). Gmail and SendGrid remain as alternative send services if Outlook is ever swapped out.
 **Bypasses:** Wix Automations engine entirely. Wix Forms App still receives the submission (for the Submissions database record), but no Wix Automation chain fires.
+
+**Implementation note (May 18, 2026 evening):** Earlier sections of this spec reference Gmail as the send service; the live Zap actually uses **Microsoft Outlook Send Email** (because `team@rxbs.org` is hosted on Microsoft 365, not Google Workspace). The merge tag patterns, BCC behavior, and 5-step chain shape are identical between Gmail and Outlook actions in Zapier; treat any "Gmail" reference below as interchangeable with "Microsoft Outlook" for the actual implementation. Validated path: Velo → Catch Hook → Outlook Send → external Gmail recipient, confirmed delivered end-to-end via Microsoft 365 Message Trace.
 
 ---
 
@@ -305,6 +307,18 @@ Once Zapier is firing reliably, disable the Wix Automation chain to avoid any ch
 4. Save
 
 The Wix Form's default "New submission received" notification to Ginny can STAY active — it's separate from the email chain and gives you a real-time alert when someone submits.
+
+---
+
+## Testing gotchas (added May 18, 2026 evening)
+
+**Gmail filter false negatives.** If the test recipient is a Gmail address belonging to someone who is already a subscriber to multiple Substacks, they likely have a personal filter routing any Substack-URL-containing email into a `Substack` label/folder. Email 2 mentions `benefitblindspots.substack.com` twice and will trip this filter. Symptom: BCC monitor address receives the email, recipient's Gmail inbox appears empty, Microsoft 365 Message Trace shows "Delivered." **Fix:** use a fresh Gmail alias without filters for test sends (e.g., `name+toolkit-test@gmail.com` on an account that doesn't subscribe to Substacks), OR explicitly check the recipient's Substack/labeled folders before treating a delivery as missing.
+
+**Test-step button does not honor delays.** When clicking "Test action" on individual Zap steps in the Zapier UI, each step runs immediately with no Delay step enforcement. This is fine for validating per-step wiring (merge tags, recipient address, body content) but does NOT validate the production chain's pacing. To test the full chain with delays, submit the actual form on the live landing page once and let the Zap run end-to-end.
+
+**Test delays vs production delays.** During chain wiring it's tempting to set all Delay actions to 1 minute for fast iteration. Note that Gmail's spam classifier treats rapid (sub-5-minute) sequential sends from the same external sender to the same recipient differently than day-spaced sends. If you're testing on tight delays and seeing Promotions placement that wouldn't happen on day-spaced production cadence, that's a testing artifact, not a production issue. Flip delays to production values (Day 0/2/5/9/14) before drawing final conclusions about inbox placement.
+
+**Microsoft 365 Message Trace is the source of truth for "did Microsoft deliver."** Path: `admin.microsoft.com` → expand **Admin centers** → **Exchange** → **Mail flow** → **Message trace** → **Start a trace**. Filter by sender (`team@rxbs.org`) and recipient. Status column tells you: `Delivered` (Microsoft handed off to the recipient mailbox and the receiving server accepted), `Failed`, `Pending` (still retrying), `FilteredAsSpam`, `Quarantined`. If status is `Delivered` and the recipient says the email is missing, the message is somewhere in the recipient's mail account (Promotions tab, label, filter folder, archive) — not a deliverability problem.
 
 ---
 
