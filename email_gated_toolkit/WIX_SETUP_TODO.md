@@ -260,13 +260,13 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 
 ---
 
-## TODO — Next Session Pickup (priority order)
+## Pipeline status — VALIDATED end-to-end May 18, 2026 evening
 
-### Critical — Zapier pipeline completion
+Wix form → Velo → Zapier webhook pipeline is **functional**. Last validated submission: request G captured in Zapier with all 13 fields parsed cleanly (4 visible form fields + 6 hidden CMS-driven fields + 3 metadata fields).
 
-**Diagnosis of why nothing has fired so far (revised May 18, 2026 evening):** The earlier draft used `import { onSubmissionCreated } from 'wix-forms.v2/onSubmissionCreated'` as if it were an SDK function. **It isn't.** Like the legacy `wixForms_onSubmit` hook, the v2 Wix Forms backend event uses a **magic-named export** that Wix's backend runtime scans for in `/backend/events.js`. The correct hook name is `wixForms_onSubmissionCreated` and the submitted field values live at `event.entity.submissions` (an object where keys are the form Field Keys and values are the submitted data). The form's namespace for the new Wix Forms App is `wix.form_app.form` (different from the legacy CRM forms namespace, which is why the legacy hook silently no-oped).
+**What's live and working in Wix:**
 
-#### Step 1 — Replace `/backend/events.js` with this exact code:
+`/backend/events.js`:
 
 ```javascript
 import { sendToZapier } from 'backend/zapier.jsw';
@@ -275,35 +275,34 @@ import { sendToZapier } from 'backend/zapier.jsw';
 // Wix's backend runtime auto-discovers this export by name; no import needed.
 export async function wixForms_onSubmissionCreated(event) {
     console.log('[events] wixForms_onSubmissionCreated fired');
-    console.log('[events] full event:', JSON.stringify(event));
+    console.log('[events] full event:', JSON.stringify(event, null, 2));
 
     const entity = event.entity || {};
     const submissions = entity.submissions || {};
 
     // Defensive: only act on the new Wix Forms App submissions.
-    // Other namespaces (wix.form_app.contact_form, wix.events.v2, etc.) can hit
-    // the same hook and we want to ignore them.
     if (entity.namespace && entity.namespace !== 'wix.form_app.form') {
         console.log('[events] ignoring submission from namespace:', entity.namespace);
         return;
     }
 
+    // Wix auto-generates suffixes on contact field keys (e.g. email_d952).
+    // Find the email key dynamically so this works across duplicated forms.
+    const emailKey = Object.keys(submissions).find(
+        k => k === 'email' || k.startsWith('email_')
+    );
+
     const payload = {
-        // Visible form fields (Field Keys as set in Wix Form Editor → Advanced tab)
         first_name: submissions.first_name,
-        email: submissions.email,
+        email: emailKey ? submissions[emailKey] : undefined,
         company: submissions.company,
         role: submissions.role,
-
-        // Hidden CMS-driven fields (populated by page-side Velo setFieldValues)
         toolkit_name: submissions.toolkit_name,
         pdf_url: submissions.pdf_url,
         second_toolkit_name: submissions.second_toolkit_name,
         second_toolkit_pdf_url: submissions.second_toolkit_pdf_url,
         second_toolkit_blurb: submissions.second_toolkit_blurb,
         field_note_url: submissions.field_note_url,
-
-        // Metadata
         submission_id: entity._id,
         form_id: entity.formId,
         submitted_at: entity._createdDate || new Date().toISOString()
@@ -313,14 +312,14 @@ export async function wixForms_onSubmissionCreated(event) {
 
     try {
         const result = await sendToZapier(payload);
-        console.log('[events] Zapier POST result:', result);
+        console.log('[events] Zapier POST result:', JSON.stringify(result));
     } catch (err) {
         console.error('[events] Zapier POST failed:', err.message || err);
     }
 }
 ```
 
-#### Step 2 — Confirm `/backend/zapier.jsw` matches this (recreate if missing):
+`/backend/zapier.jsw`:
 
 ```javascript
 import { fetch } from 'wix-fetch';
@@ -340,26 +339,64 @@ export async function sendToZapier(payload) {
 }
 ```
 
-#### Step 3 — Test plan (do these in order; do NOT skip the "Publish" step):
+Page-side Velo on the Toolkits (Item) dynamic page:
 
-1. [ ] Open Wix dashboard → Dev Mode → `/backend/events.js` → paste Step 1 code → Save
-2. [ ] Open `/backend/zapier.jsw` → confirm it matches Step 2 → Save
-3. [ ] **Publish the site** (top-right Publish button). Backend events do NOT fire on Preview, only on Published. This trips every Velo debug session.
-4. [ ] In Zapier, open the Zap → click "Test trigger" → Zapier shows "Waiting for request"
-5. [ ] In a new incognito window, open `rxbs.org/toolkit/channel-pricing`
-6. [ ] Submit the form with a **fresh email** that has never hit the page before (e.g. `ginny+v2test1@gmail.com`) to avoid any per-recipient suppression confounds
-7. [ ] Within 30 seconds: Wix dashboard → Dev Mode → **Site Monitoring → Logs** (or "Function Logs"). Filter on the last 5 minutes.
-8. [ ] **What you should see in Wix Logs:**
+```javascript
+$w.onReady(function () {
+    $w('#dynamicDataset').onReady(() => {
+        const toolkit = $w('#dynamicDataset').getCurrentItem();
+        $w('#form1').setFieldValues({
+            pdf_url: toolkit.pdf_url,
+            toolkit_name: toolkit.title_fld || toolkit.pdf_filename_display,
+            second_toolkit_name: toolkit.second_toolkit_name,
+            second_toolkit_pdf_url: toolkit.second_toolkit_pdf_url,
+            second_toolkit_blurb: toolkit.second_toolkit_blurb,
+            field_note_url: toolkit.field_note_url
+        });
+    });
+});
+```
+
+### Three traps we hit and resolved (record for future-proofing)
+
+**Trap 1: v2 hook syntax.** Previous draft used `import { onSubmissionCreated } from 'wix-forms.v2/onSubmissionCreated'` as if it were an SDK function. It isn't. Like the legacy `wixForms_onSubmit` hook, the v2 Wix Forms backend event uses a **magic-named export** that Wix's backend runtime scans for in `/backend/events.js`. Correct pattern: `export async function wixForms_onSubmissionCreated(event)`. Field values live at `event.entity.submissions` (an object where keys are the form Field Keys and values are the submitted data). Namespace for the new Wix Forms App is `wix.form_app.form`.
+
+**Trap 2: Email field key is auto-generated and locked.** Wix auto-generates suffixes on contact field keys (`email_d952` in our case) and **does not let you rename them in the Form Editor → Advanced tab** (the input is read-only for contact fields). Code must use `Object.keys(submissions).find(k => k === 'email' || k.startsWith('email_'))` to find the email key defensively. This pattern will work across duplicated forms even though each form gets its own random suffix.
+
+**Trap 3: CMS field labels vs field keys.** What the CMS edit screen shows as "headline" is not necessarily the field key `headline` in Velo. On the Channel Pricing row:
+- CMS UI shows "headline" column with value "Same Drug. Three Channels. Three Prices." — that's `toolkit.headline1` in Velo
+- `toolkit.headline` actually returns "The Audit Worksheet to Surface the Gap." — a different column whose UI label may be different
+- System Title field "Channel Pricing Audit Worksheet" is `toolkit.title_fld` in Velo, NOT `toolkit.title` or `toolkit.name` (both undefined on this schema)
+
+When unsure of a Velo accessor, add a debug log `console.log('toolkit:', JSON.stringify(toolkit, null, 2))` to the page Velo code, publish, load the page, and inspect the full dump in Wix Logs. The real field keys are visible there.
+
+### Test plan to re-validate the pipeline (use this anytime the Wix code is edited)
+
+1. [ ] Wix editor → Dev Mode → confirm code in `/backend/events.js`, `/backend/zapier.jsw`, and Toolkits (Item) page matches the blocks above
+2. [ ] **Publish the site** (top-right Publish button). Backend events do NOT fire on Preview, only on Published.
+3. [ ] In Zapier, open the Zap → click "Test trigger" → Zapier shows "Waiting for request"
+4. [ ] Fresh incognito window → open `rxbs.org/toolkit/channel-pricing`
+5. [ ] **Wait at least 10 seconds** after the page is fully loaded before submitting (gives the page Velo code time to populate hidden fields via `setFieldValues`; submitting faster than that can produce a submission with hidden fields blank)
+6. [ ] Submit with a fresh email (e.g. `ginny+v2testN@gmail.com`)
+7. [ ] Wix dashboard → Dev Mode → Site Monitoring → Logs. Confirm:
    - `[events] wixForms_onSubmissionCreated fired`
-   - `[events] full event: {...}` with the entity object visible
-   - `[events] payload to Zapier: {...}` with all 10 fields populated
-   - `[events] Zapier POST result: { status: 200, ok: true }`
-9. [ ] **What you should see in Zapier:** "Test trigger" finds the request; clicking it shows the JSON payload with all 10 fields parsed into named keys (first_name, email, company, role, toolkit_name, pdf_url, second_toolkit_name, second_toolkit_pdf_url, second_toolkit_blurb, field_note_url, plus the 3 metadata fields)
+   - `[events] full event: {...}`
+   - `[events] payload to Zapier: {...}` — all 10 form fields populated
+   - `[events] Zapier POST result: {"ok":true,"status":200}`
+8. [ ] Back to Zapier → click Test trigger again → confirm the new request appears with all 13 parsed fields including Toolkit Name = "Channel Pricing Audit Worksheet"
 
-#### Step 4 — Branch on what you see
+### Next — build the 5 Zapier email actions
 
-- **If `wixForms_onSubmissionCreated fired` appears in Wix Logs AND Zapier captures the payload:** v2 path works. Proceed to building the 5 Zapier email actions per `zapier_implementation_spec.md` Part 1.3-1.11.
-- **If `wixForms_onSubmissionCreated fired` appears BUT `submissions` is empty or missing keys:** the form's Field Keys (set in Wix Form Editor → Advanced tab) don't match what we're reading. Open the form, list every field's Field Key value, and adjust the `submissions.X` reads to match exactly. Field Keys are case-sensitive.
+Pipeline is validated; the Zap currently has only the trigger configured (Catch Hook) with no email actions. Build per `email_gated_toolkit/zapier_implementation_spec.md` Part 1.3-1.11:
+- Action 1: Gmail Send Email (Day 0 welcome with PDF) — body from `emails/01_welcome_pdf_delivery.md`
+- Action 2: Delay 2 days
+- Action 3: Gmail Send Email (Day 2 second toolkit) — body from `emails/02_second_toolkit.md`
+- Action 4: Delay 3 days
+- Action 5: Gmail Send Email (Day 5 field note) — body from `emails/03_field_note_match.md`
+- Action 6: Delay 4 days
+- Action 7: Gmail Send Email (Day 9 LinkedIn newsletter) — body from `emails/04_linkedin_newsletter.md`
+- Action 8: Delay 5 days
+- Action 9: Gmail Send Email (Day 14 two ways forward) — body from `emails/05_two_ways_forward.md`
 - **If `wixForms_onSubmissionCreated fired` does NOT appear in Wix Logs:** the form is on a different namespace than `wix.form_app.form` OR the form is not the new Wix Forms App. Drop the namespace filter (delete the `if (entity.namespace && ...)` block) and re-test to see what fires. Also consider: the form widget might still be the **old** Wix Forms (CRM Contacts) app, in which case `wixForms_onFormSubmit` (legacy CRM hook in `wix-crm-backend/events`) is the right hook, not v2.
 - **If nothing fires at all from any export name:** fall back to a dataset `_afterInsert` hook on the Submissions data collection (Wix dashboard → CMS → Submissions → Hooks). This catches the row insertion directly and bypasses the forms event system entirely.
 
