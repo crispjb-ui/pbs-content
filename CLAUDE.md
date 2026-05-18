@@ -507,6 +507,38 @@ Library NN (PBM Contract Language carousel series, linked to the Contract Librar
 
 When a week's Tuesday or Thursday visual is being scheduled, the brief in the week file is rewritten **holistically** so topic, template, slide-by-slide copy, image generation prompt, and caption read as **one integrated spec**. Never stack a "template rule" layer on top of an existing "topic copy" layer as two separate sets of directions in the same week file. A brief that reads as two overlapping instruction sets is a brief that gets misbuilt.
 
+## Wix Toolkit Lead-Gen Funnel Status (as of May 18, 2026)
+
+The Channel Pricing toolkit lead-gen funnel is **partially live** at `rxbs.org/toolkit/channel-pricing` and is the current acquisition entry point for the email-gated toolkit strategy. Full operational status and remaining work is tracked in `email_gated_toolkit/WIX_SETUP_TODO.md`. This section is the high-level pointer.
+
+**What's working:**
+- Wix landing page live, form captures submissions, Velo populates hidden CMS fields, submissions land in Wix Submissions DB
+- Channel Pricing CMS row fully populated; Tier 1 toolkit rows (Contract Review Readiness, Optimize vs Go-to-Market, PBR Framework) fully spec'd in `email_gated_toolkit/toolkit_dataset.md` + CSV ready for bulk import
+- Wix's default "New submission received" form notification to Ginny works reliably
+- Wix Automation 5-email chain proved capable of full delivery (7 emails delivered May 15, +1 on May 18)
+
+**What's blocked (the funnel can't ship yet):**
+- Wix Free Email Marketing tier per-recipient anti-flood suppression causes the custom 5-email automation chain to fire inconsistently — same trigger fires once then goes dormant; per-recipient throttling blocks repeated test sends
+- Decision (May 18): bypass Wix Automations entirely via Zapier; Zapier endpoint set up but the Wix-side webhook delivery doesn't fire because the new Wix Forms App doesn't support legacy Velo events (`onWixFormSubmit`, `onWixFormSubmitted`, or `wixForms_onSubmit` backend hook). Need to try v2 API (`onSubmissionCreated` from `wix-forms.v2/onSubmissionCreated`)
+- Ginny declined the Wix Forms native auto-reply fallback (May 18); continuing Zapier path in a future session
+- Phantom-box UX issue: form's success behavior shows inline message that gets hidden by the cover box; planned fix is redirect-to-thank-you-page
+
+**Funnel ship blockers, prioritized:**
+1. Test the v2 Wix Forms backend hook in `/backend/events.js` (code drafted in `WIX_SETUP_TODO.md`) → confirms whether Zapier path can be unblocked
+2. If v2 hook fires: build out the 5 Zapier email actions per `email_gated_toolkit/zapier_implementation_spec.md` and disable the Wix Automation chain
+3. If v2 hook also fails: escalate (Wix support OR upgrade Wix tier OR rebuild on a different platform)
+4. Switch form success behavior to redirect-to-thank-you-page (cosmetic + UX)
+5. Set up SPF/DKIM authentication on `rxbs.org` for inbox deliverability at scale
+
+**Do NOT ship Wix Forms auto-reply as a fallback for Email 1** (per Ginny's May 18 direction). The 5-email chain via Zapier is the target architecture; partial-shipping with native auto-reply loses the nurture sequence value and creates technical debt around migrating later.
+
+**Tier 1 toolkit rollout (queued behind funnel reliability):**
+- 3 Tier 1 rows ready for bulk CSV import to Wix CMS once funnel works end-to-end
+- 3 Tier 1 PDFs ready in `templates/documents/` (evergreen_contract_review_readiness_checklist.pdf, evergreen_optimize_vs_go_to_market_decision_framework.pdf, evergreen_pbr_pharmacy_benefit_review_framework.pdf)
+- Toolkit Library page needs Tier 1 section added above the existing Tier 2 Repeater (label as "Start Here · Foundational Frameworks")
+
+**Until the funnel is functional, the Channel Pricing landing page should NOT be promoted in ads, sig lines, or LinkedIn first comments.** Substack and LinkedIn first-comment cross-promo continues to route to Substack posts (which work) rather than the toolkit landing page (which captures the lead but doesn't deliver Email 1 reliably).
+
 ## Repository Structure
 
 ```

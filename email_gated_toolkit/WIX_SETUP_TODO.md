@@ -223,6 +223,101 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 - Decision: use the 10th slot for `second_toolkit_blurb` (not field_note_title) because Email 2 is the higher-leverage email and dynamic-template saves 5 variants
 - Tightened all 5 second_toolkit_blurb variants to ≤200 chars; documented above for paste into CMS
 - Did NOT yet re-add the blurb field, update CMS column type, or paste tightened blurbs into CMS rows — that's the next step
+
+**May 15-18, 2026 (extended Wix automation debugging + Zapier pivot):**
+
+**Progress confirmed working:**
+- Channel Pricing landing page live at `rxbs.org/toolkit/channel-pricing`
+- All 10 form fields wired (4 visible + 6 hidden including `second_toolkit_blurb`)
+- Velo `$w('#form1').setFieldValues({...})` reliably populates hidden fields from current CMS row
+- Wix CMS column type for `second_toolkit_blurb` confirmed plain Text (not Rich Text); 199-char blurb pastes cleanly
+- Channel Pricing CMS row has full metadata (slug, eyebrow, headline, subtitle, 4 bullets, 4 value prop cards, SEO, pairings, blurb, mechanic_phrase, tier, etc.)
+- Form submissions land in Wix Submissions database reliably (~17 test submissions confirmed)
+- Default "New submission received" notification to Ginny works (confirmed)
+- Wix Automation 5-email chain fired successfully ONCE on May 18 10:49 AM after trigger rebinding — delivered Email 1 with broken merge tags (Velo race condition that submit happened before hidden fields populated)
+- Friday May 15: full 5-email chain delivered (7 emails total to brett@rxbs.org)
+- Tier 1 toolkit rows (Contract Review Readiness, Optimize vs Go-to-Market, PBR Framework) fully spec'd in `email_gated_toolkit/toolkit_dataset.md` + ready-to-import `email_gated_toolkit/toolkits_csv_for_wix_import.csv`
+
+**Blockers identified:**
+- **Wix Free Email Marketing tier per-recipient anti-flood suppression:** brett@rxbs.org received 7 automation emails total today (one chain + isolated fire); subsequent submissions from same email silently dropped at delivery layer. Fresh emails initially work, then suppression kicks in.
+- **Wix Automation trigger goes dormant after one fire:** post-rebinding the trigger fires ONCE on the next submission, then stops firing on subsequent submissions. Trigger config remains correct (Specific form = Toolkit Form, Trigger once per person OFF, Published) but execution is sporadic.
+- **Counter "Emails sent: X/200" stuck at 8 after one good fire today** — Wix Automation is not registering subsequent submission events as triggers.
+- **Velo page-side submit events don't exist** on the new Wix Forms App element. Tested `$w('#form1').onWixFormSubmitted(...)` → TypeError. Tested `$w('#form1').onWixFormSubmit(...)` → TypeError. The new Wix Forms App doesn't expose either of these methods.
+- **Backend `wixForms_onSubmit` hook in `/backend/events.js` doesn't fire** for the new Wix Forms App — confirmed via Wix Logs (only the default page-load log appears, no entries from the hook). The new Wix Forms App uses the v2 API (`onSubmissionCreated` from `wix-forms.v2/onSubmissionCreated`), not the legacy `wixForms_onSubmit` hook.
+
+**Zapier bypass attempt (May 18):**
+- Zapier account set up with "Webhooks by Zapier → Catch Hook" trigger
+- Webhook URL generated: `https://hooks.zapier.com/hooks/catch/4477930/4o4iszd/`
+- Backend module `/backend/zapier.jsw` created with `sendToZapier(payload)` function using `wix-fetch`
+- Backend events file `/backend/events.js` created with legacy `wixForms_onSubmit` handler — DOES NOT FIRE (Wix Forms App uses v2 API)
+- Status: Zapier endpoint ready and listening; Wix side cannot deliver the webhook hit because no page-side event or legacy backend hook fires for the form
+- Decision (May 18 EOD): NOT shipping Wix Forms auto-reply as fallback. Continuing Zapier pursuit with v2 API in a future session.
+
+**Diagnostic confirmed via Wix Logs (May 18, 1:45 PM):**
+- Page Velo code DOES run (default "Running the code for the Toolkits (Item) page" message appears)
+- Backend hook in events.js NEVER fires (no log entries despite form submissions)
+- `wixForms_onSubmit` is the wrong hook name for this form type
+
+---
+
+## TODO — Next Session Pickup (priority order)
+
+### Critical — Zapier pipeline completion
+
+- [ ] **Try v2 Wix Forms backend hook in `/backend/events.js`:**
+  ```javascript
+  import { onSubmissionCreated } from 'wix-forms.v2/onSubmissionCreated';
+  import { sendToZapier } from 'backend/zapier.jsw';
+
+  export const onSubmissionCreatedHandler = onSubmissionCreated(async (event) => {
+      console.log('v2 onSubmissionCreated fired:', JSON.stringify(event));
+      const submissionData = event.submission?.submissions || {};
+      const payload = {
+          first_name: submissionData.first_name,
+          email: submissionData.email,
+          company: submissionData.company,
+          role: submissionData.role,
+          toolkit_name: submissionData.toolkit_name || submissionData.toolkitname,
+          pdf_url: submissionData.pdf_url || submissionData.pdfUrl,
+          second_toolkit_name: submissionData.second_toolkit_name,
+          second_toolkit_pdf_url: submissionData.second_toolkit_pdf_url,
+          second_toolkit_blurb: submissionData.second_toolkit_blurb,
+          field_note_url: submissionData.field_note_url
+      };
+      const result = await sendToZapier(payload);
+      console.log('Zapier result:', result);
+  });
+  ```
+- [ ] Save events.js → Publish Wix site → test submission → check Wix Logs for `v2 onSubmissionCreated fired` entry
+- [ ] If v2 hook fires: confirm Zapier "Test trigger" finds the captured request with full payload
+- [ ] If v2 hook ALSO fails: investigate `wix-forms.v2` module path (may require different import like `wix-forms.v2/forms`), or fall back to dataset hooks on the Submissions collection
+- [ ] Once Zapier captures payload, build 5 email actions per `email_gated_toolkit/zapier_implementation_spec.md`
+- [ ] Test end-to-end on Live with fresh email
+- [ ] Disable Wix Automation chain once Zapier confirmed working
+
+### High priority — landing page polish
+
+- [ ] Fix the "phantom box" UX issue: form's success behavior currently shows inline message that gets hidden by the cover box. Switch to redirect-to-thank-you-page approach (build a Wix thank-you page using `email_gated_toolkit/landing_pages/thank_you_template.html` as design reference). Once form submits, visitor goes to a new page — no post-submit form state to clean up.
+- [ ] Confirm Velo race condition is addressed in production (5+ second wait after page load before submit; real users won't hit this but it's worth documenting)
+
+### Medium priority — Tier 1 toolkit rollout
+
+- [ ] Bulk import Tier 1 toolkit rows via `email_gated_toolkit/toolkits_csv_for_wix_import.csv` (Wix CMS → Import CSV)
+- [ ] Upload 3 Tier 1 PDFs to Wix Media Manager (drag-and-drop bulk):
+  - `evergreen_contract_review_readiness_checklist.pdf`
+  - `evergreen_optimize_vs_go_to_market_decision_framework.pdf`
+  - `evergreen_pbr_pharmacy_benefit_review_framework.pdf`
+- [ ] Paste each PDF's Wix Media URL into the imported rows' `pdf_url` cells
+- [ ] Build Tier 1 landing pages in Wix (duplicate the Channel Pricing dynamic page template — should auto-populate from the new CMS rows)
+- [ ] Add "Start Here · Foundational Frameworks" Tier 1 section to the Toolkit Library page (duplicate the existing Tier 2 Repeater, filter dataset to `tier=1`, position above)
+
+### Low priority — production deliverability
+
+- [ ] Set up SPF/DKIM authentication for `rxbs.org` sender domain in Wix Email Marketing → Settings → Senders → Authenticate Domain (or in Zapier's email service if using Zapier path)
+- [ ] Add cookie-based "skip form for returning visitors" Velo logic (Phase 2 of the strategic architecture)
+- [ ] Eventually add Library 02-N toolkits and the rest of the 26 Tier 2 toolkit rows (full CSV build per `toolkit_dataset.md` pairing rules)
+
+---
 - Did NOT yet build any of the 5 emails in Wix Email Marketing — that's the next major work
 - Did NOT yet wire any Wix Automation — that's the next major work after emails are built
 
