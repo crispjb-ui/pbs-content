@@ -264,33 +264,105 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 
 ### Critical — Zapier pipeline completion
 
-- [ ] **Try v2 Wix Forms backend hook in `/backend/events.js`:**
-  ```javascript
-  import { onSubmissionCreated } from 'wix-forms.v2/onSubmissionCreated';
-  import { sendToZapier } from 'backend/zapier.jsw';
+**Diagnosis of why nothing has fired so far (revised May 18, 2026 evening):** The earlier draft used `import { onSubmissionCreated } from 'wix-forms.v2/onSubmissionCreated'` as if it were an SDK function. **It isn't.** Like the legacy `wixForms_onSubmit` hook, the v2 Wix Forms backend event uses a **magic-named export** that Wix's backend runtime scans for in `/backend/events.js`. The correct hook name is `wixForms_onSubmissionCreated` and the submitted field values live at `event.entity.submissions` (an object where keys are the form Field Keys and values are the submitted data). The form's namespace for the new Wix Forms App is `wix.form_app.form` (different from the legacy CRM forms namespace, which is why the legacy hook silently no-oped).
 
-  export const onSubmissionCreatedHandler = onSubmissionCreated(async (event) => {
-      console.log('v2 onSubmissionCreated fired:', JSON.stringify(event));
-      const submissionData = event.submission?.submissions || {};
-      const payload = {
-          first_name: submissionData.first_name,
-          email: submissionData.email,
-          company: submissionData.company,
-          role: submissionData.role,
-          toolkit_name: submissionData.toolkit_name || submissionData.toolkitname,
-          pdf_url: submissionData.pdf_url || submissionData.pdfUrl,
-          second_toolkit_name: submissionData.second_toolkit_name,
-          second_toolkit_pdf_url: submissionData.second_toolkit_pdf_url,
-          second_toolkit_blurb: submissionData.second_toolkit_blurb,
-          field_note_url: submissionData.field_note_url
-      };
-      const result = await sendToZapier(payload);
-      console.log('Zapier result:', result);
-  });
-  ```
-- [ ] Save events.js → Publish Wix site → test submission → check Wix Logs for `v2 onSubmissionCreated fired` entry
-- [ ] If v2 hook fires: confirm Zapier "Test trigger" finds the captured request with full payload
-- [ ] If v2 hook ALSO fails: investigate `wix-forms.v2` module path (may require different import like `wix-forms.v2/forms`), or fall back to dataset hooks on the Submissions collection
+#### Step 1 — Replace `/backend/events.js` with this exact code:
+
+```javascript
+import { sendToZapier } from 'backend/zapier.jsw';
+
+// v2 hook for the new Wix Forms App (namespace: wix.form_app.form).
+// Wix's backend runtime auto-discovers this export by name; no import needed.
+export async function wixForms_onSubmissionCreated(event) {
+    console.log('[events] wixForms_onSubmissionCreated fired');
+    console.log('[events] full event:', JSON.stringify(event));
+
+    const entity = event.entity || {};
+    const submissions = entity.submissions || {};
+
+    // Defensive: only act on the new Wix Forms App submissions.
+    // Other namespaces (wix.form_app.contact_form, wix.events.v2, etc.) can hit
+    // the same hook and we want to ignore them.
+    if (entity.namespace && entity.namespace !== 'wix.form_app.form') {
+        console.log('[events] ignoring submission from namespace:', entity.namespace);
+        return;
+    }
+
+    const payload = {
+        // Visible form fields (Field Keys as set in Wix Form Editor → Advanced tab)
+        first_name: submissions.first_name,
+        email: submissions.email,
+        company: submissions.company,
+        role: submissions.role,
+
+        // Hidden CMS-driven fields (populated by page-side Velo setFieldValues)
+        toolkit_name: submissions.toolkit_name,
+        pdf_url: submissions.pdf_url,
+        second_toolkit_name: submissions.second_toolkit_name,
+        second_toolkit_pdf_url: submissions.second_toolkit_pdf_url,
+        second_toolkit_blurb: submissions.second_toolkit_blurb,
+        field_note_url: submissions.field_note_url,
+
+        // Metadata
+        submission_id: entity._id,
+        form_id: entity.formId,
+        submitted_at: entity._createdDate || new Date().toISOString()
+    };
+
+    console.log('[events] payload to Zapier:', JSON.stringify(payload));
+
+    try {
+        const result = await sendToZapier(payload);
+        console.log('[events] Zapier POST result:', result);
+    } catch (err) {
+        console.error('[events] Zapier POST failed:', err.message || err);
+    }
+}
+```
+
+#### Step 2 — Confirm `/backend/zapier.jsw` matches this (recreate if missing):
+
+```javascript
+import { fetch } from 'wix-fetch';
+
+const ZAPIER_WEBHOOK_URL = 'https://hooks.zapier.com/hooks/catch/4477930/4o4iszd/';
+
+export async function sendToZapier(payload) {
+    const response = await fetch(ZAPIER_WEBHOOK_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+    });
+    return {
+        status: response.status,
+        ok: response.ok
+    };
+}
+```
+
+#### Step 3 — Test plan (do these in order; do NOT skip the "Publish" step):
+
+1. [ ] Open Wix dashboard → Dev Mode → `/backend/events.js` → paste Step 1 code → Save
+2. [ ] Open `/backend/zapier.jsw` → confirm it matches Step 2 → Save
+3. [ ] **Publish the site** (top-right Publish button). Backend events do NOT fire on Preview, only on Published. This trips every Velo debug session.
+4. [ ] In Zapier, open the Zap → click "Test trigger" → Zapier shows "Waiting for request"
+5. [ ] In a new incognito window, open `rxbs.org/toolkit/channel-pricing`
+6. [ ] Submit the form with a **fresh email** that has never hit the page before (e.g. `ginny+v2test1@gmail.com`) to avoid any per-recipient suppression confounds
+7. [ ] Within 30 seconds: Wix dashboard → Dev Mode → **Site Monitoring → Logs** (or "Function Logs"). Filter on the last 5 minutes.
+8. [ ] **What you should see in Wix Logs:**
+   - `[events] wixForms_onSubmissionCreated fired`
+   - `[events] full event: {...}` with the entity object visible
+   - `[events] payload to Zapier: {...}` with all 10 fields populated
+   - `[events] Zapier POST result: { status: 200, ok: true }`
+9. [ ] **What you should see in Zapier:** "Test trigger" finds the request; clicking it shows the JSON payload with all 10 fields parsed into named keys (first_name, email, company, role, toolkit_name, pdf_url, second_toolkit_name, second_toolkit_pdf_url, second_toolkit_blurb, field_note_url, plus the 3 metadata fields)
+
+#### Step 4 — Branch on what you see
+
+- **If `wixForms_onSubmissionCreated fired` appears in Wix Logs AND Zapier captures the payload:** v2 path works. Proceed to building the 5 Zapier email actions per `zapier_implementation_spec.md` Part 1.3-1.11.
+- **If `wixForms_onSubmissionCreated fired` appears BUT `submissions` is empty or missing keys:** the form's Field Keys (set in Wix Form Editor → Advanced tab) don't match what we're reading. Open the form, list every field's Field Key value, and adjust the `submissions.X` reads to match exactly. Field Keys are case-sensitive.
+- **If `wixForms_onSubmissionCreated fired` does NOT appear in Wix Logs:** the form is on a different namespace than `wix.form_app.form` OR the form is not the new Wix Forms App. Drop the namespace filter (delete the `if (entity.namespace && ...)` block) and re-test to see what fires. Also consider: the form widget might still be the **old** Wix Forms (CRM Contacts) app, in which case `wixForms_onFormSubmit` (legacy CRM hook in `wix-crm-backend/events`) is the right hook, not v2.
+- **If nothing fires at all from any export name:** fall back to a dataset `_afterInsert` hook on the Submissions data collection (Wix dashboard → CMS → Submissions → Hooks). This catches the row insertion directly and bypasses the forms event system entirely.
+
 - [ ] Once Zapier captures payload, build 5 email actions per `email_gated_toolkit/zapier_implementation_spec.md`
 - [ ] Test end-to-end on Live with fresh email
 - [ ] Disable Wix Automation chain once Zapier confirmed working
