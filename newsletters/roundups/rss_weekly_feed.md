@@ -1,188 +1,198 @@
 # Weekly RSS Feed Stories
 
-*Fetched: 2026-05-12 09:20 EDT. Lookback: past 7 days.*
+*Fetched: 2026-05-19 10:11 EDT. Lookback: past 7 days.*
 
 ---
 
 ## Drug Channels
 
-### 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders (NEW Live Video Webinar)
-- **Date:** 2026-05-12
-- **URL:** https://feeds.feedblitz.com/~/955788983/0/drugchannels~B-in-Market-Shifts-Policy-Battles-and-What-They-Mean-for-Stakeholders-NEW-Live-Video-Webinar.html
-- **Summary:** Join Dr. Adam J. Fein, president of Drug Channels Institute (DCI) and the editor of Drug Channels, for his latest exclusive video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders This event will be broadcast live on: Friday, June 12, 2026 12:00 p.m. to 1:30 p.m. ET Register Now Dr. Fein will be joined by Tyler Novotny, MBA, the SVP at DCI.The webinar will be broadcast live from the Drug Channels studio in beautiful downtown Philadelphia. It is part of Th…
+### Protecting Gross-to-Net Performance Through Single-Channel Ecosystems
+- **Date:** 2026-05-15
+- **URL:** https://feeds.feedblitz.com/~/956031881/0/drugchannels~Protecting-GrosstoNet-Performance-Through-SingleChannel-Ecosystems.html
+- **Summary:** Today’s guest post comes from Peter Darch, SVP of Strategy and Operations at PHIL Inc. Peter explains that growing pressure on drug pricing is exposing structural inefficiencies in gross-to-net (GTN) across traditional distribution channels. He argues that single-channel ecosystems can better coordinate affordability, coverage, and dispensing, improving both patient outcomes and brand performance. Click here to learn more about PHIL’s technology solution for brands. Read on for Peter’s insights…
 
-### The Hidden Costs of Over-Customizing Your Hub Technology Stack
-- **Date:** 2026-05-08
-- **URL:** https://feeds.feedblitz.com/~/955542974/0/drugchannels~The-Hidden-Costs-of-OverCustomizing-Your-Hub-Technology-Stack.html
-- **Summary:** Today’s guest post comes from George Moore, Chief Product and Technology Officer at CareMetx. George argues that customer relationship management (CRM) program customization delivers short-term workflow gains at the expense of long-term scalability, integration simplicity, and upgradeability. He highlights three common pitfalls and offers an approach on how to avoid them. To learn more, download CareMetx’s Guide to Building an Agile, Scalable Hub Architecture. Read on for George’s insights. Rea…
+### Drug Channels News Roundup, Mid-May 2026: Flawed Launch Price Math, Rising Pharmacy Closures, Hospital Pay Realities, 340B Hospitals vs. Grantees, and a Luxury Take on Specialty Pharmacy
+- **Date:** 2026-05-13
+- **URL:** https://feeds.feedblitz.com/~/955844123/0/drugchannels~Drug-Channels-News-Roundup-MidMay-Flawed-Launch-Price-Math-Rising-Pharmacy-Closures-Hospital-Pay-Realities-B-Hospitals-vs-Grantees-and-a-Luxury-Take-on.html
+- **Summary:** By Bryce Platt, PharmD The onslaught of pharmacy-related news doesn’t end. It may even be increasing in volume due to AI. But don’t worry—I’ve gathered some high-impact information over the last month from my LinkedIn posts that you can quickly read between your sets at the gym. I recommend reading BETWEEN your sets, but some may be brave enough to read during the set itself. In this issue: Why Drug Launch Price Analyses May Be Misleading Pharmacy Closures Are Accelerating—New Data Reveal Where…
 
 ## KFF Health News
 
-### Low Wages, Empty Plates, Heavy Toll: Rethinking Suicide Prevention
-- **Date:** 2026-05-12
-- **URL:** https://kffhealthnews.org/mental-health/suicide-prevention-economic-assistance-mental-health-eleven-minutes/
-- **Summary:** Decades of research indicate that interventions that bring down people’s cost of living, such as ensuring they have access to stable housing and food, are linked to lower suicide rates.
+### Listen to the Latest ‘KFF Health News Minute’
+- **Date:** 2026-05-19
+- **URL:** https://kffhealthnews.org/news/listen-to-the-latest-kff-health-news-minute-2026/
+- **Summary:** The "KFF Health News Minute” brings original health care and health policy reporting from our newsroom to the airwaves each week.
 
-### Watch: 8 Health Insurance Terms You Should Know
-- **Date:** 2026-05-11
-- **URL:** https://kffhealthnews.org/insurance/watch-8-health-insurance-terms-you-should-know/
-- **Summary:** Deductible. Copay. Out-of-pocket limit. What do these health insurance terms actually mean? We explain common phrases from insurance policies so navigating your plan is less of a headache.
+### Efforts To Understand the Nation’s Drugged Driving Problem Stall Under Trump
+- **Date:** 2026-05-19
+- **URL:** https://kffhealthnews.org/news/drugged-driving-impairment-research-stalled-trump-policies/
+- **Summary:** The data behind alcohol-related traffic deaths is well studied. Less understood is the toll of vehicle deaths involving drugs or a combination of drugs and alcohol. Attempts to fix that have been stymied by federal budget and staffing cuts.
 
-### As Ranks of Uninsured Grow, Minnesota’s Hospitals Are Among Least Charitable in Nation
-- **Date:** 2026-05-11
-- **URL:** https://kffhealthnews.org/health-care-costs/medical-debt-uninsured-minnesota-hospitals-among-least-charitable/
-- **Summary:** A Minnesota Star Tribune-KFF Health News investigation of hospital data and charity care programs shows most Minnesota hospitals provide little financial aid to patients and often make assistance difficult to get.
+### Eroding ACA Enrollment Portends Higher Insurance Rates
+- **Date:** 2026-05-19
+- **URL:** https://kffhealthnews.org/insurance/eroding-aca-enrollment-higher-insurance-rates/
+- **Summary:** An uptick in people skipping Obamacare premium payments in many states suggests the Affordable Care Act’s rising costs — driven partly by lower subsidies to help people buy plans — are hitting home for 2026 enrollees. The trend adds to voter concerns about affordability ahead of the midterm elections.
 
-### Journalists Shed Light on Deadly Hantavirus Outbreak and a Crisis in the Nation’s ERs
-- **Date:** 2026-05-09
-- **URL:** https://kffhealthnews.org/on-air/on-air-may-9-2026-hantavirus-virus-cruise-ship-outbreak-emergency-rooms-er/
-- **Summary:** KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.
+### A Danish Couple’s Maverick African Research Finds Its Moment in RFK Jr.’s Vaccine Policy
+- **Date:** 2026-05-18
+- **URL:** https://kffhealthnews.org/public-health/rfk-kennedy-vaccines-denmark-danish-scientists-africa-aaby-benn-dtap-dtp/
+- **Summary:** The work of Peter Aaby and Christine Stabell Benn has long been controversial. Until Robert F. Kennedy Jr. became the U.S. health policy chief, most vaccine scientists tended to ignore it. That has changed.
 
-### The Make America Healthy Again Movement Comes for Hospital Food
-- **Date:** 2026-05-08
-- **URL:** https://kffhealthnews.org/health-industry/the-week-in-brief-maha-movement-hospital-food/
+### Kids Keep Getting Stuck in Hospitals, Even After Being Cleared for Discharge
+- **Date:** 2026-05-18
+- **URL:** https://kffhealthnews.org/health-industry/hospital-boarding-social-stays-children-kids-missouri-illinois/
+- **Summary:** Some children are healthy enough to leave the hospital after a medical stay but have no place to go. Across the country, the practice of allowing children to remain hospitalized “beyond medical necessity” has become a costly problem, and states have struggled to address the issue.
+
+### Trump Bought Stock in Drugmaker as His Government Boosted Its Obesity Drugs
+- **Date:** 2026-05-18
+- **URL:** https://kffhealthnews.org/health-industry/trump-stock-trades-eli-lilly-glp-1-weight-loss-drugs-invest-ethics-disclosures/
+- **Summary:** New ethics disclosures show the president invested in Eli Lilly and a company that manufactures injectable devices as his health agencies implemented policies that benefited them.
+
+### Journalists Unpack Latest on Vaccines, Vaping, and TrumpRx
+- **Date:** 2026-05-16
+- **URL:** https://kffhealthnews.org/on-air/on-air-may-16-2026-vaccines-vaping-mifepristone-trumprx/
+- **Summary:** KFF Health News journalists made the rounds on national media recently to discuss topical stories. Here’s a collection of their appearances.
+
+### Kennedy Swaps Vaccine Rhetoric for Story Time but Can’t Quite Change the Subject
+- **Date:** 2026-05-15
+- **URL:** https://kffhealthnews.org/public-health/the-week-in-brief-rfk-jr-ohio-visit-maha-rhetoric/
 - **Summary:** Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.
 
-### Listen: A Federal Agency Is After Workers’ Health Data, and Critics Are Alarmed
-- **Date:** 2026-05-08
-- **URL:** https://kffhealthnews.org/health-industry/wamu-health-hub-opm-federal-worker-unredacted-medical-records-hipaa-audio/
-- **Summary:** The Trump administration is seeking unprecedented access to medical records of federal workers and retirees, and their families. The data could be used to implement cost-saving measures, but it would also give the administration access to reams of personal information. Legal experts and insurers say the pursuit is overbroad.
+### Minnesota Lawmaker Proposes Using Hospital Tax To Fill Charity Care Gap
+- **Date:** 2026-05-15
+- **URL:** https://kffhealthnews.org/health-care-costs/minnesota-hospitals-charity-care-tax-legislation/
+- **Summary:** A Minnesota Star Tribune-KFF Health News investigation found charity care at hospitals in the state is offered at low and arbitrary levels, prompting Minnesota Attorney General Keith Ellison to say, “There is more work in front of us.”
 
-### In California Governor Race, Single-Payer Is a Litmus Test. There’s Still No Way To Pay for It.
-- **Date:** 2026-05-08
-- **URL:** https://kffhealthnews.org/health-care-costs/california-governor-race-single-payer-healthcare-becerra-cma-steyer/
-- **Summary:** Single-payer healthcare is a central talking point in the chaotic race for California governor. In a crowded field, top-polling Democrats are declaring their support for a government-run health system but providing few details about how they’d accomplish it in the nation’s most populous state.
-
-### That Discount at the Pharmacy Counter May Pack Hidden Costs
-- **Date:** 2026-05-07
-- **URL:** https://kffhealthnews.org/health-care-costs/pharmacy-discount-coupons-hidden-costs/
-- **Summary:** The new TrumpRx program relies partly on connecting consumers with discount coupons offered by drugmakers. For insured patients, though, using a coupon can prove dicey.
-
-### Trump Promised Cheaper Drugs. Some Prices Dropped. Many Others Shot Up.
-- **Date:** 2026-05-07
-- **URL:** https://kffhealthnews.org/health-care-costs/trumprx-reality-check-drugs-not-always-cheaper/
-- **Summary:** For all of President Donald Trump’s showmanship, the share of Americans his policies will likely help remains slim, even if some patients do come out ahead.
-
-### A New Medicare Option for Weight Loss Drugs: What Older Americans Should Know
-- **Date:** 2026-05-06
-- **URL:** https://kffhealthnews.org/medicare/cheaper-glp-1-weight-loss-medicare-bridge-wegovy-zepbound-foundayo/
-- **Summary:** It may soon get easier for millions of people with Medicare to get discounted GLP-1 drugs for weight loss.
+### FDA Blocked Melanoma Drug as Confusion Reigned Under Makary
+- **Date:** 2026-05-15
+- **URL:** https://kffhealthnews.org/health-industry/fda-blocked-melanoma-drug-marty-makary-confusion-reigned/
+- **Summary:** A third of patients in a clinical trial had tumors shrink while taking a genetically engineered treatment known as RP1.
 
 ## STAT News - Pharma
 
-### STAT+: Capsida says it still doesn’t know what caused gene therapy death
-- **Date:** 2026-05-12
-- **URL:** https://www.statnews.com/2026/05/12/capsida-gene-therapy-trial-death-protein-target-adam-15/?utm_campaign=rss
-- **Summary:** Some in the gene therapy field lament lost time while Capsida kept silent about the brain receptor it was targeting when things went wrong.
+### STAT+: A new ranking of pharma companies by R&D performance
+- **Date:** 2026-05-19
+- **URL:** https://www.statnews.com/2026/05/19/biotech-news-new-ranking-of-pharma-companies-by-rd-performance/?utm_campaign=rss
+- **Summary:** Maryland drug board to cap price of Ozempic, TrumpRx partners with Cuban, GoodRx, and more biotech news
 
-### STAT+: Bristol Myers Squibb partners with China’s Hengrui Pharma on a dozen drugs
-- **Date:** 2026-05-12
-- **URL:** https://www.statnews.com/2026/05/12/bristol-myers-squibb-hengrui-china-licensing-deal/?utm_campaign=rss
-- **Summary:** Bristol Myers Squibb and China's Hengrui Pharma are teaming up to advance more than a dozen early-stage drugs, in a deal worth up to $15.2 billion.
+### STAT+: Pharmalittle: We’re reading about a Supreme Court setback for pharma, TrumpRx expands and much more
+- **Date:** 2026-05-19
+- **URL:** https://www.statnews.com/pharmalot/2026/05/19/supreme-court-setback-for-pharma-trumprx-expands/?utm_campaign=rss
+- **Summary:** The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter
 
-### STAT+: Colombia wins a key court ruling over a compulsory license issued for an HIV medicine
-- **Date:** 2026-05-11
-- **URL:** https://www.statnews.com/pharmalot/2026/05/11/colombia-dolutegravir-court-case-patent-cost/?utm_campaign=rss
-- **Summary:** A South American court upheld the steps taken by the Colombian government when it issued a compulsory license two years ago for an HIV medicine.
+### STAT+: Eli Lilly tops prominent rankings on pharma R&D performance
+- **Date:** 2026-05-19
+- **URL:** https://www.statnews.com/2026/05/19/pharma-rankings-innovation-invention/?utm_campaign=rss
+- **Summary:** A new set of lists ranks drug company laboratories on two criteria: innovation and invention.
 
-### STAT+: Astellas treatment offers new hope to a devastated rare disease community
-- **Date:** 2026-05-11
-- **URL:** https://www.statnews.com/2026/05/11/biotech-news-astellas-treatment-offers-hope-to-rare-disease-community/?utm_campaign=rss
-- **Summary:** Alzheimer's drug rollout letdown, a China-based heart drug startup, and more biotech news from The Readout
+### STAT+: Maryland state affordability board places a price cap on Ozempic
+- **Date:** 2026-05-18
+- **URL:** https://www.statnews.com/pharmalot/2026/05/18/maryland-state-affordability-board-places-price-cap-on-ozempic/?utm_campaign=rss
+- **Summary:** Nine states have been pursuing the idea of prescription drug affordability boards. Maryland's board just set limits on the price of Ozempic.
 
-### STAT+: Pharmalittle: We’re reading about Medicare and Alzheimer’s drugs, estrogen patch shortages, and more
-- **Date:** 2026-05-11
-- **URL:** https://www.statnews.com/pharmalot/2026/05/11/medicare-alzheimers-drugs-estrogen-patch-shortage/?utm_campaign=rss
-- **Summary:** People on Medicare are not getting the recently approved Alzheimer’s medications nearly as much as federal officials anticipated
+### STAT+: White House taps Amazon, GoodRx, and Mark Cuban to bolster TrumpRx
+- **Date:** 2026-05-18
+- **URL:** https://www.statnews.com/2026/05/18/trumprx-adds-generic-drugs-amazon-pharmacy-mark-cuban-goodrx/?utm_campaign=rss
+- **Summary:** Trump's drug discount platform adds 600 generic medications via major online pharmacies.
 
-### STAT+: Five years after disaster, a rare disease community gets new chance at treatment
-- **Date:** 2026-05-11
-- **URL:** https://www.statnews.com/2026/05/11/astellas-gene-therapy-trials-resume-promising-myotubular-myopathy-treatment/?utm_campaign=rss
-- **Summary:** Some boys had astonishing recoveries. But other boys died. Now Astellas is returning to revised gene therapy for XLMTM.
+### STAT+: AstraZeneca picks up FDA approval for hypertension drug
+- **Date:** 2026-05-18
+- **URL:** https://www.statnews.com/2026/05/18/biotech-news-astrazeneca-picks-up-fda-approval-hypertension-drug/?utm_campaign=rss
+- **Summary:** The China question, FDA leadership shakeups, and other biotech news from The Readout
 
-### STAT+: Medicare is spending far less than expected on new Alzheimer’s drugs
-- **Date:** 2026-05-11
-- **URL:** https://www.statnews.com/2026/05/11/medicare-spending-less-than-expected-alzheimers-drugs-leqembi-kisunla/?utm_campaign=rss
-- **Summary:** Adoption has been slow with new Alzheimer’s drugs because the treatments are complicated to administer and the benefits are uncertain.
+### STAT+: Supreme Court rejects challenge to Medicare drug price negotiation
+- **Date:** 2026-05-18
+- **URL:** https://www.statnews.com/2026/05/18/supreme-court-rejects-challenge-medicare-drug-price-negotiations/?utm_campaign=rss
+- **Summary:** The rejection may make the pharma firms remaining lawsuits more difficult.
 
-### Trump reportedly plans to fire FDA Commissioner Makary
-- **Date:** 2026-05-08
-- **URL:** https://www.statnews.com/2026/05/08/fda-commissioner-marty-makary-exit-controversial-tenure/?utm_campaign=rss
-- **Summary:** Makary's ouster would create another high-profile vacancy atop RFK Jr.'s health department.
+### STAT+: Pharmalittle: We’re reading about U.S. biotech’s China problem, a Regeneron flop, and much more
+- **Date:** 2026-05-18
+- **URL:** https://www.statnews.com/pharmalot/2026/05/18/biotech-has-china-problem-regeneron-melanoma-drug-flops/?utm_campaign=rss
+- **Summary:** The question of whether to partner with Chinese firms — or see them as rivals — is tearing biotech apart, pitting peers and partners against one another
 
-### STAT+: Capricor Therapeutics accuses Nippon Shinyaku of slow-walking plans on Duchenne drug
-- **Date:** 2026-05-08
-- **URL:** https://www.statnews.com/pharmalot/2026/05/08/capricor-accuses-nippon-slow-walking-plans-for-duchenne-drug/?utm_campaign=rss
-- **Summary:** Capricor Therapeutics has accused Nippon Shinyaku and its U.S. subsidiary of botching the rollout of a Duchenne muscular dystrophy treatment.
+### STAT+: The China question is tearing biotech apart
+- **Date:** 2026-05-18
+- **URL:** https://www.statnews.com/2026/05/18/biotech-industry-split-chinese-drugs-opportunity-versus-existential-threat/?utm_campaign=rss
+- **Summary:** China's ascent is forcing U.S. biotech companies and investors to pick a side: Is it an ally or an existential threat?
+
+### STAT+: U.K. advocacy groups threaten court action over a key provision in the pharma trade deal with the U.S.
+- **Date:** 2026-05-17
+- **URL:** https://www.statnews.com/pharmalot/2026/05/17/uk-advocates-threaten-court-action-over-pharma-trade-deal-with-us/?utm_campaign=rss
+- **Summary:** A pair of advocacy groups is threatening legal action unless the U.K. government revokes regulations at the heart of a new pharma trade agreement with the U.S.
+
+### STAT+: Takeda will pay $13.6 million to settle allegations it paid kickbacks to doctors
+- **Date:** 2026-05-15
+- **URL:** https://www.statnews.com/pharmalot/2026/05/15/takeda-settle-allegations-kickbacks-to-doctors/?utm_campaign=rss
+- **Summary:** Takeda Pharmaceuticals agreed to pay $13.6 million to settle allegations that it paid kickbacks to doctors to prescribe an antidepressant.
 
 ### STAT+: Up and down the ladder: The latest comings and goings
-- **Date:** 2026-05-08
-- **URL:** https://www.statnews.com/pharmalot/2026/05/08/up-and-down-the-ladder-the-latest-comings-and-going/?utm_campaign=rss
+- **Date:** 2026-05-15
+- **URL:** https://www.statnews.com/pharmalot/2026/05/15/up-and-down-the-ladder-the-latest-comings-and-goings-jobs/?utm_campaign=rss
 - **Summary:** From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
-### The biotechs wear Prada
-- **Date:** 2026-05-08
-- **URL:** https://www.statnews.com/2026/05/08/met-gala-pharma-biotech/?utm_campaign=rss
-- **Summary:** Was Naomi Osaka's Met Gala outfit inspired by Gilead's logo? Janelle Monáe's by Insilico's? Probably not — and yet.
+### STAT+: A political contest in the U.K. could shake up drug pricing
+- **Date:** 2026-05-15
+- **URL:** https://www.statnews.com/2026/05/15/health-news-uk-political-contest-shaking-up-drug-pricing/?utm_campaign=rss
+- **Summary:** Makary and Cassidy's fates, U.S. pressures Germany to pay more for drugs, and other health news
 
-### STAT+: The biotech news you need to read today
-- **Date:** 2026-05-08
-- **URL:** https://www.statnews.com/2026/05/08/biotech-news-capricor-sues-partner-scientists-age-more-and-innovate-less/?utm_campaign=rss
-- **Summary:** A Duchenne therapy lawsuit, FDA Commissioner Marty Makary’s White House troubles, and other news from The Readout
+### STAT+: Pharmalittle: We’re reading about U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and more
+- **Date:** 2026-05-15
+- **URL:** https://www.statnews.com/pharmalot/2026/05/15/germany-drug-prices-biotech-clinical-trials-pharmalittle-newsletter/?utm_campaign=rss
+- **Summary:** In today's Pharmalittle roundup: U.S. pressuring Germany on drug prices, FDA upheaval and biotech clinical trials, and much more.
 
-### STAT+: Pharmalittle: We’re reading about an FDA gender rule change, its program for one-day inspections, and more
-- **Date:** 2026-05-08
-- **URL:** https://www.statnews.com/pharmalot/2026/05/08/fda-gender-rule-change-pilot-program-for-inspections/?utm_campaign=rss
-- **Summary:** An FDA proposal to remove references to “gender” from its regulations sparked concerns about unintended consequences on research
+### STAT+: Top U.S. officials pressured Germany to pay more for prescription drugs
+- **Date:** 2026-05-15
+- **URL:** https://www.statnews.com/2026/05/15/trump-administration-presses-germany-presciption-drug-prices/?utm_campaign=rss
+- **Summary:** It's a key piece of Trump's effort to secure lower drug prices for U.S. patients.
 
-### STAT+: More political interference at the FDA?
-- **Date:** 2026-05-07
-- **URL:** https://www.statnews.com/2026/05/07/fda-political-interference-sanofi-tzield-rfk-hhs-ssri/?utm_campaign=rss
-- **Summary:** A political appointee gets in the way of a Sanofi drug's approval, and more from STAT's D.C. Diagnosis newsletter.
+### STAT+: CDC plans to transfer monkeys to nonprofit’s sanctuary as it seeks to reduce animal testing
+- **Date:** 2026-05-14
+- **URL:** https://www.statnews.com/pharmalot/2026/05/14/cdc-plans-transfer-monkeys-to-sanctuary-seeks-to-reduce-animal-testing/?utm_campaign=rss
+- **Summary:** The CDC intends to transfer more than 160 macaques to Born Free USA, a nonprofit that runs a large primate sanctuary in Texas, as the agency seeks to phase out&#8230;
 
-### STAT+: Pharmalittle: We’re reading about Sanofi and an FDA voucher, FDA rethinking a rejection, and more
-- **Date:** 2026-05-07
-- **URL:** https://www.statnews.com/pharmalot/2026/05/07/sanofi-diabetes-drug-voucher-fda-rethinking-rare-disease-rejection/?utm_campaign=rss
-- **Summary:** Sanofi asked the FDA to pull teplizumab out of a speedy review voucher program after a political appointee disagreed with staff over its approval
+### STAT+: The hunt for FDA’s next leader
+- **Date:** 2026-05-14
+- **URL:** https://www.statnews.com/2026/05/14/next-fda-commissioner-bill-cassidy-primary-challenge-dc-diagnosis/?utm_campaign=rss
+- **Summary:** Marty Makary is out, and the Trump administration has a long wish list for its next FDA commissioner.
 
-### STAT+: FDA revisits a rare cancer treatment it rejected a few months ago
-- **Date:** 2026-05-07
-- **URL:** https://www.statnews.com/2026/05/07/biotech-news-fda-reconsiders-rare-cancer-treatment-after-surprise-rejection/?utm_campaign=rss
-- **Summary:** Secret drug pricing deals, a virtual AI cancer clinic, and other biotech news from The Readout
+### STAT+: BeOne wins FDA approval in lymphoma race
+- **Date:** 2026-05-14
+- **URL:** https://www.statnews.com/2026/05/14/biotech-news-beone-wins-fda-approval-in-lymphoma-race/?utm_campaign=rss
+- **Summary:** Diamantas takes the reins, Regenxbio stakes claim in Duchenne gene therapy, and more biotech news from The Readout
 
-### STAT+: FDA to reconsider treatment for rare cancer after its surprise rejection
-- **Date:** 2026-05-07
-- **URL:** https://www.statnews.com/2026/05/07/fda-reconsider-rare-disease-drug-ebvallo/?utm_campaign=rss
-- **Summary:** The companies developing Ebvallo reached an agreement with the FDA to address its main reason for rejecting the drug.
+### STAT+: Why big digital health players are missing from Medicare’s chronic care experiment
+- **Date:** 2026-05-14
+- **URL:** https://www.statnews.com/2026/05/14/medicare-chronic-care-pilot-access-digital-health-tech/?utm_campaign=rss
+- **Summary:** In this edition of STAT Health Tech: Why big digital health players skipped Medicare's ACCESS pilot, Isomorphic's big raise, and more.
 
-### STAT+: What was lost at the FDA
-- **Date:** 2026-05-07
-- **URL:** https://www.statnews.com/2026/05/07/fda-rebuilding-after-doge-former-regulators-speaking-out/?utm_campaign=rss
-- **Summary:** What was lost at the FDA: A year after DOGE’s cuts, six agency staffers describe the work they never thought they’d leave.
-
-### STAT+: Sanofi asks to pull diabetes drug out of FDA voucher program after political appointee interfered with review
-- **Date:** 2026-05-06
-- **URL:** https://www.statnews.com/2026/05/06/sanofi-asks-to-pull-diabetes-drug-teplizumab-makary-fda-voucher-program/?utm_campaign=rss
-- **Summary:** Sanofi has asked the FDA to pull its type 1 diabetes drug out of Commissioner Marty Makary’s new speedy drug review program.
-
-### STAT+: Novo Nordisk’s less-bad news on its Wegovy pill boosts earnings and share price
-- **Date:** 2026-05-06
-- **URL:** https://www.statnews.com/2026/05/06/biotech-news-novo-nordisk-wegovy-pill-raises-share-prices/?utm_campaign=rss
-- **Summary:** Vivek Ramaswamy wins GOP primary for Ohio governor, CellCentric raises $220M for myeloma drug, and more biotech news
+### STAT+: Pharmalittle: We’re reading about upbeat results for a Duchenne drug, Takeda layoffs, and much more
+- **Date:** 2026-05-14
+- **URL:** https://www.statnews.com/pharmalot/2026/05/14/biogen-regenxbio-report-results-for-alzheimers-duchenne-takeda-layoffs/?utm_campaign=rss
+- **Summary:** Biogen reported mixed results from a mid-stage clinical trial investigating a treatment for Alzheimer’s disease that targets the protein tau
 
 ## PCMA Blog
 
-### Inside PBM Reform: Major Changes Impacting Medicare Present Opportunities to Improve Affordability for America’s Seniors
-- **Date:** 2026-05-11
-- **URL:** https://www.pcmanet.org/pcma-blog/inside-pbm-reform-major-changes-impacting-medicare-present-opportunities-to-improve-affordability-for-americas-seniors/
-- **Summary:** The Consolidated Appropriations Act (CAA) passed this year includes wide-ranging reforms to pharmacy benefit managers (PBMs). This piece marks the final installment in our Inside PBM Reform series, examining how these provisions impact patients, employers, and taxpayers. Between the Inflation Reduction Act and a steady stream of recent regulations, Medicare’s drug benefit has been in constant change lately. And now, the CAA contains changes aimed at improving transparency, competition, and affo…
+### PCMA Statement on Expansion of TrumpRx Offerings
+- **Date:** 2026-05-18
+- **URL:** https://www.pcmanet.org/press-releases/pcma-statement-on-expansion-of-trumprx-offerings/
+- **Summary:** (WASHINGTON, D.C.) – Today, President Trump announced new medications and partnerships through the TrumpRx platform. Following this news, David Marin, President and CEO of the Pharmaceutical Care Management Association, released the following statement: “Expanding access to more affordable generics is critical to bringing down drug costs in America. We applaud the president’s continued focus on [&#8230;] The post PCMA Statement on Expansion of TrumpRx Offerings first appeared on PCMA.
 
-### Patent Abuse In Practice: How Pay‑for‑Delay Keeps Drug Prices High
-- **Date:** 2026-05-07
-- **URL:** https://www.pcmanet.org/pcma-blog/patent-abuse-in-practice-how-pay-for-delay-keeps-drug-prices-high/
-- **Summary:** Big Pharma is at it again. Last week, we saw the latest chapter of Big Pharma’s ongoing War on Generics as a big drugmaker reached settlements with three generic drug manufacturers that will delay the entry of generic versions of heart disease drug Vyndamax – with a list price of over $225,000 per year – until mid-2031. [&#8230;] The post Patent Abuse In Practice: How Pay‑for‑Delay Keeps Drug Prices High first appeared on PCMA.
+### PCMA: New Jersey Assembly Votes to Increase Prescription Costs
+- **Date:** 2026-05-18
+- **URL:** https://www.pcmanet.org/press-releases/pcma-new-jersey-assembly-votes-to-increase-prescription-costs/
+- **Summary:** (WASHINGTON, D.C.) – Today, the New Jersey Assembly passed A1502, the so-called “Patient and Provider Protection Act.&#8221; An analysis by the Pharmaceutical Care Management Association (PCMA) found the bill would increase costs by approximately $1 billion in the first year alone for New Jersey employers, unions, the State Health Benefits Program (SHBP), the School Employees’ Health [&#8230;] The post PCMA: New Jersey Assembly Votes to Increase Prescription Costs first appeared on PCMA.
 
-### Big Pharma’s Big Tell – A New Ad Campaign Lays Bare Its Fight to Drive Patients to Costly Brand Drugs Over Affordable Generics
-- **Date:** 2026-05-05
-- **URL:** https://www.pcmanet.org/pcma-blog/big-pharmas-big-tell-a-new-ad-campaign-lays-bare-its-fight-to-drive-patients-to-costly-brand-drugs-over-affordable-generics/
-- **Summary:** For years, big drugmakers have been waging a war against patient access to affordable generic drugs. This fight against generics is part and parcel of its multi-million-dollar campaign to tarnish the reputation of pharmacy benefit managers (PBMs). After all, PBMs are highly effective at using generic drug competition to drive down prices for patients, employers, [&#8230;] The post Big Pharma’s Big Tell – A New Ad Campaign Lays Bare Its Fight to Drive Patients to Costly Brand Drugs Over Affordab…
+### Supporting Patients Every Step of the Way: The Value of PBM Disease Management Programs
+- **Date:** 2026-05-15
+- **URL:** https://www.pcmanet.org/pcma-blog/supporting-patients-every-step-of-the-way-the-value-of-pbm-disease-management-programs/
+- **Summary:** Did you know&#8230; Pharmacy benefit managers (PBMs) do more than reduce the cost of prescription drugs – by $300 billion each year. PBMs also play an important clinical role. PBM clinicians support patients suffering from chronic conditions by helping them stay on the appropriate medications and avoid potentially harmful drug interactions that would make their condition worse. Behind the scenes, they conduct safety checks on prescriptions and provide doctors with resources that help inform the…
+
+### With PBM Reform Now Law, PCMA’s David Marin Joins Axios Future of Health Summit to Highlight Opportunities for Greater Transparency and Competition
+- **Date:** 2026-05-14
+- **URL:** https://www.pcmanet.org/pcma-blog/david-marin-at-axios-foh-summit/
+- **Summary:** Yesterday, David Marin, PCMA President and CEO, joined health care reporter Maya Goldman at the Axios Future of Health Summit to discuss the critical role that pharmacy benefit managers (PBMs) play and the need for Congress to bring greater transparency and competition to other segments of the drug supply chain. Marin highlighted how significant business changes, coupled [&#8230;] The post With PBM Reform Now Law, PCMA’s David Marin Joins Axios Future of Health Summit to Highlight Opportunities…
+
+### The Trillion-Dollar Blind Spot – How Influential Wholesalers Have Stayed in the Shadows
+- **Date:** 2026-05-13
+- **URL:** https://www.pcmanet.org/pcma-blog/the-trillion-dollar-blind-spot-how-influential-wholesalers-have-stayed-in-the-shadows/
+- **Summary:** By Amanda Frost, PhD Vice President, Research, PCMA &#160; Federal and state policymakers have been focused lately on pharmacy benefit managers (PBMs), and sweeping industry reform has brought unprecedented transparency to this segment of the prescription drug payment and supply chain. Transparency into the health care system is a good thing, increasing our understanding of [&#8230;] The post The Trillion-Dollar Blind Spot – How Influential Wholesalers Have Stayed in the Shadows first appeared …
