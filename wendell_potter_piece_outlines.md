@@ -34,20 +34,70 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 
 ## Roster at a Glance
 
-| # | Topic | Wednesday hook potential |
-|---|---|---|
-| 1 | Spread Pricing — FTC Mandatory Disclosure | Strong |
-| 2 | Vertical Integration in PBMs | Strong |
-| 3 | GLP-1 Coverage and the PBM Profit Layer | Strong |
-| 4 | Copay Accumulator / Maximizer Programs | Strong |
-| 5 | White-Bagging / Channel Steering | Strong |
-| 6 | The FTC PBM Report Follow-On | Moderate-Strong |
-| 7 | Rebate Aggregators — The Offshore Middlemen | Weak (specialized; Wendell-only, no PBS cascade) |
-| 8 | DIR Fees and Their Successor | Moderate |
-| 9 | Specialty Drug Routing Economics | Moderate-Strong |
-| 10 | Manufacturer Patient Assistance Diversion | Strong |
-| 11 | The PBM RFP Methodology Problem | Moderate |
-| 12 | The Audit Rights Gap | Moderate |
+| # | Topic | Provisional date | Wednesday hook potential |
+|---|---|---|---|
+| Opening | PBM Economics 101 — Five Revenue Streams, Five Reforms | Wed Jun 3 | Strong |
+| 1 | Spread Pricing — FTC Mandatory Disclosure | Wed Jun 17 | Strong |
+| 2 | Vertical Integration in PBMs | Wed Jul 1 | Strong |
+| 3 | GLP-1 Coverage and the PBM Profit Layer | Wed Jul 15 | Strong |
+| 4 | Copay Accumulator / Maximizer Programs | Wed Jul 29 | Strong |
+| 5 | White-Bagging / Channel Steering | Wed Aug 12 | Strong |
+| 6 | The FTC PBM Report Follow-On | Wed Aug 26 | Moderate-Strong |
+| 7 | Rebate Aggregators — The Offshore Middlemen | Wed Sep 9 | Weak (specialized; Wendell-only, no PBS cascade) |
+| 8 | DIR Fees and Their Successor | Wed Sep 23 | Moderate |
+| 9 | Specialty Drug Routing Economics | Wed Oct 7 | Moderate-Strong |
+| 10 | Manufacturer Patient Assistance Diversion | Wed Oct 21 | Strong |
+| 11 | The PBM RFP Methodology Problem | Wed Nov 4 | Moderate |
+| 12 | The Audit Rights Gap | Wed Nov 18 | Moderate |
+
+**Dates above are PROVISIONAL.** Jun 3 start has not been confirmed with Wendell as of May 19, 2026. Pending confirmation; if Wendell prefers a different start date or different cadence, the roster shifts en bloc.
+
+---
+
+## Opening Piece: PBM Economics 101 (the Map)
+
+**Working title:** *The Five Revenue Streams That Run Through Every PBM Contract — and the Five Reforms Each One Requires*
+
+**Opening metaphor:**
+> *Imagine a tollbooth on a highway where the toll collector also owns the cars passing through, the gas stations along the road, the rest stops, and the road repair contracts. The same entity sets the toll, collects the toll, audits whether the right toll was charged, and reports the result to the highway commission. That is the modern PBM business model — not in metaphor but in mechanics. Five revenue streams run through every PBM contract; one entity collects on all five and discloses, in full, on none of them.*
+
+**Thesis:** The fragmented reform debate over PBMs persists because the business model is fragmented. The structural picture is not. Five revenue streams flow from every plan into the PBM, the disclosure floor on each is uneven, and each requires its own structural fix. This piece is the map. The pieces that follow argue each reform.
+
+**Named villains:** CVS Caremark, Express Scripts, OptumRx as the collective holders of the five-stream model. PCMA as the industry-defense arm. The vertical-integration structure that lets one entity collect on all five mechanisms simultaneously.
+
+**Section beats (~900 words):**
+
+1. **Cold open with the metaphor** (~120 words). Establish the five-stream + single-vendor framing immediately. Name the structural picture.
+2. **The five revenue streams** (~400 words; ~80 words each):
+   - **Spread Pricing.** The AWP gap; what the plan pays vs. what the pharmacy receives. The MAC pricing schedule, the dispensing fee, and the spread itself. Where the math hides.
+   - **Rebate Retention.** What comes back from manufacturers and what doesn't get passed through. Rebate-aggregator carve-outs that sit outside the pass-through guarantee.
+   - **Administrative Fees.** The named line items (per-claim, per-member-per-month) and the unnamed line items (formulary management, clinical, network access) in the same family — five definitions the PBM wrote.
+   - **Manufacturer-Direct Payments.** Formulary placement fees, manufacturer education funding, rebate aggregator side-channels. The compensation streams the manufacturer-to-PBM contract documents but the plan sponsor never sees.
+   - **Owned-Pharmacy Margin.** The per-claim margin earned when the PBM-owned channel fills. Specialty routing is the largest single source.
+3. **Why fragmented reform fails** (~120 words). Single-stream regulation pushes margin to the unregulated stream(s). Spread bans push margin into rebate retention; rebate-pass-through bans push margin into admin fees; admin-fee caps push margin into owned-pharmacy routing. The structural picture has to be reformed structurally.
+4. **The five reforms previewed** (~200 words; ~40 words each):
+   - **Spread:** Mandatory FTC disclosure (Piece 1 will argue the full case).
+   - **Vertical integration:** Federal contractual firewall + plan sponsor audit rights, with divestiture mandate as the structural endpoint (Piece 2).
+   - **GLP-1 / category-specific:** HHS threshold-trigger disclosure rule for any drug class crossing $X billion in annual U.S. spend (Piece 3).
+   - **Copay accumulator structural firewall:** Federal disclosure rule for plans using accumulator or maximizer programs; PBM firewall when the same vendor owns the specialty pharmacy and administers the program (Piece 4).
+   - **Channel steering / white-bagging:** Site-of-care neutrality regulation; per-channel net cost disclosure before routing (Piece 5).
+5. **Why this map matters for self-funded plan sponsors right now** (~80 words). The audit posture is the same regardless of which reform moves first. Pull the contract; sort the revenue streams; document the disclosure gaps. The reform argument doesn't require the legislation to pass.
+6. **Opinion-stated-openly closing** (~80 words). "In my view, the reason PBM reform has stalled at the federal level is that every fight has been framed as a single-stream fight. The reformers have been chasing the margin around the contract. The fix is to put the structural picture on the record and reform all five streams at once. The pieces that follow argue each reform; this piece exists so the map is on the record first."
+
+**Pull-quote candidates:**
+
+- *"Every PBM contract I audit has all five revenue streams baked into it. Most plan sponsors only see one — the admin fee, the smallest of the five — clearly named in the contract."*
+- *"The reform conversation is fragmented because the business model is fragmented. The structural picture is not. Five revenue streams. Five reforms. One vendor."*
+- *"Spread bans push the margin into rebate retention. Rebate-pass-through bans push the margin into admin fees. Admin-fee caps push the margin into owned-pharmacy routing. Single-stream reform is the reformer chasing the margin around the contract."*
+
+**Prescriptive ending:** Five named regulatory or legislative actions, one per revenue stream, each previewed with the responsible regulator named. Closes with the explicit signpost: each subsequent piece in the column argues one of these reforms in detail; the map exists so the structural picture is on the record before the individual fights are joined.
+
+**Cascade-week PBS angle:** "The Five Revenue Streams Audit — How to Map Where Your Plan's Margin Goes" — extends the existing PBM Compensation Audit Worksheet (Tier 1 toolkit, already shipped). High-leverage: the Map piece cascades into a re-deployment + light refresh of an existing toolkit rather than a new build. Pairs naturally with W24 H1/H2 Review (the Monday topic that cascade week was already planned to be): "as part of your mid-year review, audit the five streams." Monday newsletter opens with the Map piece pull-quote; Wednesday roundup features it; Thursday Field Note operationalizes one stream (likely spread or admin-fee mapping) as the deeper companion.
+
+**Wednesday text-post hook (cascade-week amplifier):**
+> *"Your PBM has five revenue streams running through your contract. You probably only see one of them clearly named: the admin fee, the smallest of the five. The other four are where most of the margin lives."*
+
+**Why the Opening Piece comes first (strategic note):** This piece establishes Ginny's PBM-specific lane (distinct from Ron's and Wendell's broader health-system frame) on Day 1 of the contributorship rather than waiting for Piece 3 to do the lane-setting work. It also creates a single anchor every subsequent piece can link back to: each subsequent piece argues one of the five reforms previewed here, so readers always know how the current piece fits the larger argument. The trade-off vs starting with Spread Pricing is one extra cycle before the first single-issue prescriptive piece lands. That cost is worth paying because the map piece is itself prescriptive at the systems level (names five reforms with regulators) and because the map gives every subsequent piece more leverage.
 
 ---
 

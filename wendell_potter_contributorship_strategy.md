@@ -3,7 +3,8 @@
 ## HEALTH CARE un-covered Contributing Author — Twice Monthly
 
 **Drafted:** May 13, 2026
-**Status:** Strategy locked. Pending Wendell publish date and cadence confirmation.
+**Revised:** May 19, 2026 — added Opening Piece (PBM Economics 101) ahead of Piece 1; shifted proposed start date from May 27 to **Wed Jun 3, 2026 (PROVISIONAL — not yet confirmed with Wendell)**; recalendared the 12-piece roster by one cycle
+**Status:** Strategy locked. Opening Piece + Pieces 1-12 outlines drafted. Pending Wendell publish date and cadence confirmation.
 **Branch:** `claude/ginny-social-media-strategy-iDE7J`
 
 ---
@@ -102,9 +103,43 @@ Every Wendell piece is drafted with **pull-quote-ability** in mind. Each piece c
 
 ---
 
-## The First 6 Pieces
+## The Opening Piece and the First 6 (after the Opening)
 
-Front-loaded for impact. Ordered so Ginny's lane is established by Piece 3 and Wendell's audience knows what to expect from her by Piece 4.
+The column opens with a Map piece — PBM Economics 101 — that lays out the five revenue streams running through every PBM contract and the five reforms each requires. The Map sets Ginny's PBM-specific lane on Day 1 (vs. waiting until Piece 3) and gives every subsequent piece a single anchor to link back to. Pieces 1-6 then argue each reform in front-loaded impact order. By Piece 4, Wendell's audience knows what to expect from her.
+
+Provisional publish cadence (every other Wednesday, Jun 3 start — not yet confirmed with Wendell):
+
+| Slot | Date | Topic |
+|---|---|---|
+| Opening | Wed Jun 3 | PBM Economics 101 — Five Revenue Streams, Five Reforms |
+| Piece 1 | Wed Jun 17 | Spread Pricing |
+| Piece 2 | Wed Jul 1 | Vertical Integration |
+| Piece 3 | Wed Jul 15 | GLP-1 Coverage and the PBM Profit Layer |
+| Piece 4 | Wed Jul 29 | Copay Accumulator Conflict of Interest |
+| Piece 5 | Wed Aug 12 | White-Bagging / Channel Steering |
+| Piece 6 | Wed Aug 26 | FTC Report Follow-On |
+
+Pieces 7-12 continue every-other-Wednesday through Wed Nov 18, 2026. Full schedule in `wendell_potter_proposed_schedule_email.md`.
+
+### Opening Piece: PBM Economics 101 (the Map)
+
+**Working title:** *The Five Revenue Streams That Run Through Every PBM Contract — and the Five Reforms Each One Requires*
+
+**Opening metaphor:** *Imagine a tollbooth on a highway where the toll collector also owns the cars passing through, the gas stations along the road, the rest stops, and the road repair contracts. The same entity sets the toll, collects the toll, audits whether the right toll was charged, and reports the result to the highway commission. That is the modern PBM business model. Five revenue streams run through every PBM contract; one entity collects on all five and discloses, in full, on none of them.*
+
+**Named villains:** CVS Caremark, Express Scripts, OptumRx as collective holders of the five-stream model. PCMA as the industry-defense arm.
+
+**Proprietary anchor sentence (pull-quote candidate):** *Every PBM contract I audit has all five revenue streams baked into it. Most plan sponsors only see the admin fee — the smallest of the five — clearly named in the contract.*
+
+**Prescriptive ending:** Five named regulatory or legislative actions, one per revenue stream, each previewed with the responsible regulator. Closes with the signpost that each subsequent piece argues one of these reforms in detail.
+
+**Cascade-week PBS angle:** "The Five Revenue Streams Audit" — extends the existing PBM Compensation Audit Worksheet (Tier 1 toolkit, already shipped). Cascade week is W24 H1/H2 Review (natural fit — "audit the five streams as part of your mid-year review"). High-leverage because the Monday cascade Toolkit handout is a re-deployment + refresh of an existing asset rather than a new build.
+
+**Wednesday text-post hook potential:** Strong. *"Your PBM has five revenue streams running through your contract. You probably only see one of them clearly named: the admin fee, the smallest of the five. The other four are where most of the margin lives."*
+
+Full outline in `wendell_potter_piece_outlines.md`.
+
+---
 
 ### Piece 1: Spread Pricing
 
@@ -288,25 +323,37 @@ Before drafting Piece 1:
 
 ## Phase 0: Pre-Launch LinkedIn Announcement
 
-The week before Piece 1 ships, run a LinkedIn announcement post on a Tuesday or Wednesday slot (NOT Thursday — Thursday stays the Excellence/conversion lever). Working draft of the announcement hook:
+The week before the Opening Piece ships (provisional W22, the week before W23's Wed Jun 3 publish), run a LinkedIn announcement post on a Tuesday or Wednesday slot (NOT Thursday — Thursday stays the Excellence/conversion lever). Working draft of the announcement hook:
 
-> *I am joining Wendell Potter at HEALTH CARE un-covered as a contributing author, twice a month. The frame: what hundreds of PBM contracts a year teach you about reform that should be happening. First piece: [topic]. The rest of the schedule operationalizes the reform argument for plan sponsors. Same Ginny. Different altitude.*
+> *I am joining Wendell Potter at HEALTH CARE un-covered as a contributing author, twice a month. The frame: what hundreds of PBM contracts a year teach you about reform that should be happening. The column opens with a map piece — the five revenue streams running through every PBM contract and the five reforms each one requires. The pieces that follow argue each reform. Same Ginny. Different altitude.*
 
-This post positions Ginny as Wendell's peer to PBS's existing audience and seeds the cascade architecture before the first Wendell piece runs.
+This post positions Ginny as Wendell's peer to PBS's existing audience and seeds the cascade architecture before the Opening Piece runs.
 
 ---
 
 ## PBS Calendar Restructure
 
-**To be filled when Wendell publish date is locked.** The calendar restructure will:
+**To be filled when Wendell publish date is locked.** Provisional cascade-week map assuming Jun 3 start:
 
-1. Re-map W20-W34 (and beyond) so each cascade week W+1 anchors on the prior week's Wendell topic
-2. Displaced PBS Monday topics shift into non-cascade weeks where the original topic still fits the pillar grid
+| Wendell W | Wendell topic | Cascade W+1 | Currently-planned PBS Monday topic | Cascade fit |
+|---|---|---|---|---|
+| W23 (Jun 3) | Opening Piece — Map | W24 (Jun 8) | H1/H2 Review | Strong — natural fit; map cascade adds "audit the 5 revenue streams as part of H1/H2 review" |
+| W25 (Jun 17) | Spread Pricing | W26 (Jun 22) | Formulary Management | Soft conflict — formulary is adjacent but not spread-specific. Swap Monday to Channel Pricing redux (extends W18) OR keep Formulary Monday and put Spread Pricing in the Wednesday text-post + roundup |
+| W27 (Jul 1) | Vertical Integration | W28 (Jul 6) | Network Design | Strong — network design IS where vertical integration shows up operationally |
+| W29 (Jul 15) | GLP-1 Profit Layer | W30 (Jul 20) | Site of Care | Strong — site of care is where GLP-1 routing decisions live |
+| W31 (Jul 29) | Copay Accumulator | W32 (Aug 3) | TBD | Soft conflict if W32 Monday isn't accumulator-adjacent; Monday swap likely needed |
+| W33 (Aug 12) | White-Bagging / Channel Steering | W34 (Aug 17) | TBD (open) | Easy fit |
+| W35 (Aug 26) | FTC Report Follow-On | W36 (Aug 31) | TBD (open) | Easy fit |
+
+The calendar restructure will:
+
+1. Re-map W23-W49 (and beyond) so each cascade week W+1 anchors on the prior Wendell topic
+2. Displaced PBS Monday topics (likely W26 Formulary, W32 if mismatched) shift into non-cascade weeks where the original topic still fits the pillar grid
 3. Library NN cadence preserved (every 2 weeks Tuesday); displacement handled through `evergreen_visual_backlog.md`
 4. Thursday Excellence preserved on every cascade week with a different-pillar Field Note + carousel; displaced Field Notes saved into `field_note_backlog.md` for later use
 5. Cycle-rotation pillar grid (Tuesday non-topic visual cycle) adjusts so the 6-week distribution still hits each pillar at least once
 
-Calendar restructure is a second commit, separate from this strategy doc, executed when timing is confirmed.
+Calendar restructure is a second commit, separate from this strategy doc, executed when Wendell confirms timing.
 
 ---
 
