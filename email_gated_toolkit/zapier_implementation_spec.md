@@ -6,6 +6,8 @@
 
 **Implementation note (May 18, 2026 evening):** Earlier sections of this spec reference Gmail as the send service; the live Zap actually uses **Microsoft Outlook Send Email** (because `team@rxbs.org` is hosted on Microsoft 365, not Google Workspace). The merge tag patterns, BCC behavior, and 5-step chain shape are identical between Gmail and Outlook actions in Zapier; treat any "Gmail" reference below as interchangeable with "Microsoft Outlook" for the actual implementation. Validated path: Velo → Catch Hook → Outlook Send → external Gmail recipient, confirmed delivered end-to-end via Microsoft 365 Message Trace.
 
+**Architecture revision (May 19, 2026 evening — CMS-driven Email 3, form-field cleanup):** Email 3's "10 hardcoded variants via Paths" plan replaced with a single CMS-driven Outlook Send. `field_note_title` and `field_note_blurb` added to the Wix CMS Toolkits collection alongside the existing `field_note_url`. Velo webhook payload now includes all three; Step 6 in Zapier is a single Outlook Send with four merge tags. **Form-side hidden fields reduced from 6 to 1** — only `toolkit_name` kept (for Submissions DB readability); the other 5 hidden fields (pdf_url, second_toolkit_name, second_toolkit_pdf_url, second_toolkit_blurb, field_note_url) deleted because Zapier reads them from CMS via the webhook payload, not from form submission. Form goes from 10 fields to 5. **Why:** future-proofing for the weekly toolkit-addition cadence. Adding a new toolkit becomes a single CMS row insertion with all metadata; zero Zapier edits, zero Velo edits, zero form edits required.
+
 ---
 
 ## Why bypass Wix Automations entirely
@@ -106,7 +108,38 @@ One Zap handles all toolkit landing pages. Hidden field values (different per la
 
 ### 1.7 Action 5 — Send Email 3 (Day 5)
 
-Same pattern. Body from `03_field_note_match.md`.
+**Architecture revised May 19, 2026 evening to CMS-driven single Send (no Paths).** `field_note_title` and `field_note_blurb` added to the Wix CMS Toolkits collection and to the Velo webhook payload. Email 3 body uses four merge tags: `{{trigger__first_name}}`, `{{trigger__field_note_title}}`, `{{trigger__field_note_blurb}}`, `{{trigger__field_note_url}}`. Adding a new toolkit = adding a CMS row with all three field_note fields populated; no Zapier action edits required ever.
+
+**Email 3 body (paste into the Outlook Send action's Body field):**
+
+```
+Hi {{trigger__first_name}},
+
+A recent Field Note from Benefit Blind Spots that pairs directly
+with what you downloaded:
+
+→ {{trigger__field_note_title}}
+
+{{trigger__field_note_blurb}}
+
+Read it: {{trigger__field_note_url}}
+
+Field Notes are the practical, tactical companion to the Monday
+deep dives. Same audit-framework structure, smaller scope: a single
+contract clause or workflow audited end-to-end.
+
+Each Field Note pairs with a Plan Sponsor Toolkit handout (like the
+two you've already received). Subscribe to Benefit Blind Spots and
+you'll get each new Toolkit handout the week it ships.
+
+→ Subscribe (free): benefitblindspots.substack.com
+
+- Ginny
+
+Ginny Crisp, PharmD
+CEO, Prescription Benefit Solutions
+team@rxbs.org · rxbs.org · benefitblindspots.substack.com
+```
 
 ### 1.8 Action 6 — Delay 4 days
 
@@ -140,31 +173,26 @@ import { fetch } from 'wix-fetch';
 const ZAPIER_WEBHOOK_URL = 'PASTE_YOUR_ZAPIER_WEBHOOK_URL_HERE';
 
 $w.onReady(function () {
-    // 1. Populate hidden fields from CMS (existing behavior)
+    // 1. Populate the single remaining hidden form field (toolkit_name) for Submissions DB readability
     $w('#dynamicDataset').onReady(() => {
         const toolkit = $w('#dynamicDataset').getCurrentItem();
         $w('#form1').setFieldValues({
-            pdf_url: toolkit.pdf_url,
-            toolkit_name: toolkit.headline,
-            second_toolkit_name: toolkit.second_toolkit_name,
-            second_toolkit_pdf_url: toolkit.second_toolkit_pdf_url,
-            second_toolkit_blurb: toolkit.second_toolkit_blurb,
-            field_note_url: toolkit.field_note_url
+            toolkit_name: toolkit.headline
         });
     });
 
-    // 2. On successful form submission, POST to Zapier webhook
+    // 2. On successful form submission, POST full toolkit context to Zapier webhook (read from CMS, not form)
     $w('#form1').onWixFormSubmitted(async (event) => {
         const toolkit = $w('#dynamicDataset').getCurrentItem();
         const formValues = event.fieldValues || {};
 
         const payload = {
-            // Visible form fields
+            // Visible form fields (user input)
             first_name: formValues.first_name || formValues.firstName,
             email: formValues.email || formValues.work_email,
             company: formValues.company,
             role: formValues.role,
-            // Hidden CMS-driven fields (sent fresh from current item)
+            // CMS-derived toolkit context (read fresh from current item; not stored as form fields)
             toolkit_slug: toolkit.slug,
             toolkit_name: toolkit.headline,
             pdf_url: toolkit.pdf_url,
@@ -172,6 +200,7 @@ $w.onReady(function () {
             second_toolkit_pdf_url: toolkit.second_toolkit_pdf_url,
             second_toolkit_blurb: toolkit.second_toolkit_blurb,
             field_note_title: toolkit.field_note_title,
+            field_note_blurb: toolkit.field_note_blurb,
             field_note_url: toolkit.field_note_url,
             // Metadata
             submission_timestamp: new Date().toISOString(),

@@ -290,10 +290,22 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 - [x] **Step 3 (Delay) configured** — currently 1-minute for testing
 - [x] **Step 4 (Email 2, Day 2) wired** — same pattern as Step 2, body from `02_second_toolkit.md`; test send delivered
 - [ ] **Step 5 (Delay)** — add Delay by Zapier action, 1-min for testing, 3 days for production
-- [ ] **Step 6 (Email 3, Day 5) — Field Note pairing** — this is the highest-friction step. Per `03_field_note_match.md`, Email 3 needs 10 hardcoded variants (one per first-toolkit pairing) because `field_note_title` and `field_note_url` are not form fields. Two implementation options:
-  - **Option A (recommended):** Add a Zapier **Paths by Zapier** action after Delay, branching on `{{trigger__toolkit_name}}`. One path per first-toolkit value (Channel Pricing, PBM Compensation, Quarterly Reporting, etc.). Each path has its own Outlook Send with the matching Field Note title and URL hardcoded in body.
-  - **Option B:** Add a Zapier **Formatter → Utilities → Lookup Table** step that maps `{{trigger__toolkit_name}}` to two output values (`field_note_title`, `field_note_url`). Then a single Outlook Send uses those Formatter outputs as merge tags. Cleaner, fewer actions, but each new toolkit requires editing the Lookup Table row.
-  - For Channel Pricing only (minimum viable), wire one Outlook Send with the Channel Pricing Field Note hardcoded; add the branching/lookup later when Tier 1 toolkits go live.
+- [ ] **Step 6 (Email 3, Day 5) — Field Note pairing — CMS-DRIVEN SINGLE SEND (revised May 19, 2026 evening).** No Paths needed. Architecture: Wix CMS Toolkits collection holds `field_note_title`, `field_note_blurb`, `field_note_url` per toolkit row. Velo's webhook payload includes those three values from `dynamicDataset.getCurrentItem()`. Step 6 is a single Microsoft Outlook Send action with body using `{{trigger__first_name}}`, `{{trigger__field_note_title}}`, `{{trigger__field_note_blurb}}`, `{{trigger__field_note_url}}` merge tags. Paste-ready Email 3 body is documented in the **CMS-driven architecture pivot** session log entry below.
+
+  **Why CMS-driven instead of Paths:** new toolkits ship weekly. Each new toolkit needs Field Note + 2nd toolkit pairing. With CMS-driven, adding a new toolkit = adding a CMS row with all metadata populated; zero Zapier edits, zero Velo edits, zero form edits. With Paths, every new toolkit requires editing the Zap (add a new branch, exact-string match on toolkit_name, test, republish). Paths approach was rejected as not future-proof at the weekly-cadence rate.
+
+  **Sub-tasks for Step 6:**
+  - [ ] Add `field_note_blurb` column to Wix CMS Toolkits collection (plain Text, not Rich Text) — `field_note_title` and `field_note_url` columns already exist
+  - [ ] Populate `field_note_title` + `field_note_blurb` + `field_note_url` for all current Toolkits rows (values for Channel Pricing + 3 Tier 1 toolkits drafted in `email_gated_toolkit/toolkit_dataset.md`)
+  - [ ] Update Velo webhook-payload code to include `field_note_title: toolkit.field_note_title` and `field_note_blurb: toolkit.field_note_blurb` alongside the existing `field_note_url` line. Republish site.
+  - [ ] Wire single Outlook Send for Step 6 with the paste-ready body, no Paths action
+  - [ ] Verify the Channel Pricing CMS row's `field_note_url` (currently `/p/one-drug-class-to-watch-the-next` which does not match the title `What We See When We Audit Channel Pricing`) and correct before live test
+- [ ] **Form-side cleanup (revised May 19 evening, do this alongside Step 6):**
+  - [ ] Delete the 5 hidden form fields no longer needed: `pdf_url`, `second_toolkit_name`, `second_toolkit_pdf_url`, `second_toolkit_blurb`, `field_note_url`. Zapier reads these from CMS via the webhook payload, not from the form submission.
+  - [ ] **Keep `toolkit_name` as the single remaining hidden field** so the Wix Submissions DB shows at-a-glance which toolkit each lead downloaded
+  - [ ] Simplify Velo's `setFieldValues` call to populate only `toolkit_name` (one-line)
+  - [ ] Remove the white-box cover hiding the hidden fields (now over-engineered for a single remaining field)
+  - [ ] Form goes from 10 fields to 5 (4 visible + 1 hidden). Wix Forms 10-field cap is no longer a constraint going forward.
 - [ ] **Step 7 (Delay)** — 4 days production
 - [ ] **Step 8 (Email 4, Day 9) — LinkedIn Newsletter subscribe** — Microsoft Outlook Send, body from `04_linkedin_newsletter.md`. Replace `[LINKEDIN NEWSLETTER URL]` placeholder with actual canonical URL from LinkedIn → Manage → Newsletters; update subscriber count to current month (836+ as of May 2026)
 - [ ] **Step 9 (Delay)** — 5 days production

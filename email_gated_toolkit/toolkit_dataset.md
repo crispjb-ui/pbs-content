@@ -20,16 +20,13 @@
 | `second_toolkit_name` | Text | Email 2 token `{{second_toolkit_name}}` | The paired toolkit's full name. |
 | `second_toolkit_pdf_url` | URL | Email 2 download link | The paired toolkit's public Wix Media URL. |
 | `second_toolkit_blurb` | Long Text | Email 2 body (3-4 sentence pair explanation) | Drafted per-pairing, not generic. |
-| `field_note_title` | Text | Email 3 token `{{field_note_title}}` | The paired published Field Note's title. |
+| `field_note_title` | Text | Email 3 token `{{trigger__field_note_title}}` | The paired published Field Note's title. |
+| `field_note_blurb` | Long Text | Email 3 body (1-2 sentence pairing explanation) | Drafted per-pairing. Added May 19, 2026 as part of CMS-driven Email 3 architecture (single Send action, no Zapier Paths needed). |
 | `field_note_url` | URL | Email 3 link | benefitblindspots.substack.com URL. |
 
-**Wix Contacts Custom Fields (matching tokens for email templates):**
-- `first_toolkit_slug` · `first_toolkit_name` · `first_toolkit_pdf_url` · `first_toolkit_mechanic_phrase`
-- `second_toolkit_name` · `second_toolkit_pdf_url` · `second_toolkit_blurb`
-- `field_note_title` · `field_note_url`
-- `pillar`
+**Architecture note (revised May 19, 2026):** All toolkit-specific email content is driven from this CMS collection via Velo's `dynamicDataset.getCurrentItem()` and posted directly to the Zapier webhook. Adding a new toolkit ships its full email content as soon as the CMS row is populated — no Zapier edits, no Velo code edits, no form-field changes required. The Wix Contacts custom-fields path from the original Wix Automation architecture is deprecated.
 
-The Wix Automation copies form-submission values into these contact custom fields at signup time; Emails 1-5 reference them as tokens.
+**Form-side hidden fields (revised May 19, 2026):** The form-side hidden-field population (Velo `setFieldValues`) is now simplified to a single hidden field `toolkit_name` — kept only so the Wix Submissions DB record shows at-a-glance which toolkit each lead downloaded. All other CMS-derived values (pdf_url, second_toolkit_*, field_note_*) are sent to Zapier directly from CMS via the webhook payload, not via form fields. Form drops from 10 fields to 5 (4 visible + 1 hidden), eliminating the Wix Forms 10-field cap headache and the white-box hidden-field workaround.
 
 ---
 
@@ -59,7 +56,10 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `The PBM Compensation Audit Worksheet maps all five revenue streams that flow from your plan to your PBM. Channel pricing is one. The other four are where most disclosure gaps live.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
+| `field_note_blurb` | `This morning's worksheet decoded the channel-pricing terms. The Field Note runs the same audit on the MAC list itself: the per-channel margin spread that the contract's MAC clause is silent on.` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+
+**Verification flag (May 19, 2026):** the `field_note_url` slug `/p/one-drug-class-to-watch-the-next` does not match the `field_note_title` `What We See When We Audit Channel Pricing`. Confirm the live Substack URL for the W18 Channel Pricing Field Note and update this row before Email 3 ships to Channel Pricing leads.
 
 ---
 
@@ -98,8 +98,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Channel Pricing Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `The Channel Pricing Audit Worksheet runs one of the fifteen audits inside a Contract Review. Half a day per-channel for retail, mail, specialty. Run standalone or as part of the integrated review.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `field_note_title` | `How Plan Sponsors Actually Enforce Audit Rights` |
+| `field_note_blurb` | `The Contract Review surfaces audit-rights gaps. This Field Note is what comes next: how to actually run the audit once the contract has the right language.` |
+| `field_note_url` | `[PLACEHOLDER — FN-03 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
 
 ---
 
@@ -138,7 +139,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Contract Amendment Letter Template` |
 | `second_toolkit_pdf_url` | `[Upload week_24_thursday_contract_amendment_letter.pdf to Wix Media, paste URL]` |
 | `second_toolkit_blurb` | `The Contract Amendment Letter Template carries the optimize-existing path forward. Paste your audit findings into the redline letter, send to your PBM with the negotiation timeline. Mid-year window beats year-end.` |
-| `field_note_title` | `[TBD — pair with renewal/decision-themed Field Note]` |
+| `field_note_title` | `What a PBM Transition Actually Looks Like: Timeline and Pitfalls` |
+| `field_note_blurb` | `The strategic decision is one thing. The operational reality of the switch is another. Six months minimum from RFP to go-live, with the pitfalls that catch most plans by surprise.` |
+| `field_note_url` | `[PLACEHOLDER — FN-10 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
 | `field_note_url` | `[TBD]` |
 
 ---
@@ -178,7 +181,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Mid-Year Claims Red Flag Checklist` |
 | `second_toolkit_pdf_url` | `[Upload week_23_midyear_claims_red_flag_checklist.pdf to Wix Media, paste URL]` |
 | `second_toolkit_blurb` | `The Mid-Year Claims Red Flag Checklist is the within-cycle audit that feeds your PBR. Five claim patterns surface between renewals; pair with twice-yearly PBR for ongoing oversight.` |
-| `field_note_title` | `[TBD — pair with renewal-readiness or PBR-themed Field Note]` |
+| `field_note_title` | `Five Lines to Read First in Your PBM's Quarterly Report` |
+| `field_note_blurb` | `The PBR is the comprehensive twice-yearly view. This is the 30-minute version: five lines to scan in the most recent quarterly report this week.` |
+| `field_note_url` | `[PLACEHOLDER — FN-05 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
 | `field_note_url` | `[TBD]` |
 
 ---
