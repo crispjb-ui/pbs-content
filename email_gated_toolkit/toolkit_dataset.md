@@ -56,7 +56,7 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `The PBM Compensation Audit Worksheet maps all five revenue streams that flow from your plan to your PBM. Channel pricing is one. The other four are where most disclosure gaps live.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_blurb` | `This morning's worksheet decoded the channel-pricing terms. The Field Note runs the same audit on the MAC list itself: the per-channel margin spread that the contract's MAC clause is silent on.` |
+| `field_note_blurb` | `The Channel Pricing Audit Worksheet decoded the channel-pricing terms. The Field Note runs the same audit on the MAC list itself: the per-channel margin spread that the contract's MAC clause is silent on.` |
 | `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
 
 **Verification flag (May 19, 2026):** the `field_note_url` slug `/p/one-drug-class-to-watch-the-next` does not match the `field_note_title` `What We See When We Audit Channel Pricing`. Confirm the live Substack URL for the W18 Channel Pricing Field Note and update this row before Email 3 ships to Channel Pricing leads.
