@@ -333,8 +333,104 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 ### Low priority — production deliverability
 
 - [ ] Set up SPF/DKIM authentication for `rxbs.org` sender domain in Wix Email Marketing → Settings → Senders → Authenticate Domain (or in Zapier's email service if using Zapier path)
-- [ ] Add cookie-based "skip form for returning visitors" Velo logic (Phase 2 of the strategic architecture)
 - [ ] Eventually add Library 02-N toolkits and the rest of the 26 Tier 2 toolkit rows (full CSV build per `toolkit_dataset.md` pairing rules)
+
+### Phase 1 prep — one decision today (do this alongside Step 6 wiring)
+
+- [ ] **Add a Zapier step that writes each form submission to a contact registry** keyed by email. This becomes the lookup table for Phase 1 returning-visitor recognition. Implementation options (pick whichever fits the team's tooling):
+  - **Wix Custom Collection** (recommended for tightest Wix integration): Zapier action "Wix → Insert Data Item" into a new collection `ToolkitSubmissions` with columns `email`, `first_name`, `company`, `role`, `last_toolkit_slug`, `last_toolkit_name`, `last_download_date`, `total_downloads_count`. Insert step runs after Step 1 (Catch Hook), before Step 2 (Email 1). When an email already exists in the collection, increment `total_downloads_count` instead of inserting a duplicate (Zapier's "Find or Create" pattern).
+  - **Google Sheets** (simpler, less coupled to Wix): Zapier action "Google Sheets → Lookup Spreadsheet Row" by email; if not found, "Create Spreadsheet Row" with the same fields. Operationally simpler but requires Google Sheets account and is harder to expose to a future Members dashboard.
+  - **Airtable** (best long-term contact-database UX): structured database with views per toolkit, automation hooks, future CRM integration. Heavier setup; consider if PBS has Airtable already.
+
+  **Why do this now:** the registry sits there populating as leads come in. When you build Phase 1 (returning-visitor recognition) and Phase 2 (Wix Members library), the contact history is already there to power both. Without the registry from Day 1, you'd have to backfill from Zapier task history later, which is technically possible but ugly.
+
+  **Recommended:** Wix Custom Collection. Tightest integration with the future Members-gated library page. ~10 minutes to wire as a single Zapier step.
+
+---
+
+## Future architecture roadmap — repeat-user recognition + Library access
+
+**Context:** the Channel Pricing funnel is Phase 0 — first-time toolkit delivery + 5-email nurture for net-new leads. The user research signal is clear that repeat visitors are real ("there are repeat people coming back for more toolkits") and shouldn't have to re-fill the same form per toolkit. This roadmap captures the phased path to handling repeat users and library-style access without painting the current build into a corner.
+
+### Phase 0 — current build (status as of May 19, 2026)
+
+- First-time visitor lands on a toolkit landing page (e.g., `rxbs.org/toolkit/channel-pricing`)
+- Fills 4-visible-field form (first_name, email, company, role)
+- Velo posts CMS + form data to Zapier
+- Zapier delivers 5-email sequence (Email 1 immediately; 2, 3, 4, 5 on Day 2/5/9/14 production delays)
+- Same email address on a second toolkit landing page = full second 5-email sequence in parallel with the first (the friction-and-blast problem)
+
+### Phase 1 — cookie recognition + sequence dedup
+
+**Trigger to build:** funnel is live end-to-end; first 2-3 weeks of real submissions have proven the chain works; team has bandwidth to invest 1-2 sessions in UX improvement.
+
+**What it solves:**
+- Returning visitors don't re-fill the form on the same browser
+- Same email across multiple toolkit downloads doesn't trigger overlapping 5-email sequences
+- Repeat downloaders get a short delivery-only email instead of full nurture re-run
+
+**Mechanics:**
+
+1. **Velo cookie at form-submit time.** On successful form submission, set a `wix-storage-frontend` cookie with `{email, first_name, company, role, last_toolkit_downloaded, last_download_date}`. Persists across visits to any `rxbs.org/toolkit/*` page.
+
+2. **Returning visitor on a toolkit page.** Velo reads the cookie on page load. If cookie exists and email is non-empty, hide the form and show a "Welcome back, [first_name]" button. Button onClick fires the Zapier webhook directly with the cookie data + the current page's `toolkit.slug`, then triggers the PDF download (or redirects to a thank-you page) without form submission.
+
+3. **Zapier first-time vs repeat branch.** Add a Filter step early in the Zap (after Step 1 Catch Hook, before Step 2 Email 1):
+   - **First-time path** (email not in `ToolkitSubmissions` registry): full 5-email sequence runs as today
+   - **Repeat-downloader path** (email already in registry): single delivery email with the new toolkit's PDF link + a one-line acknowledgment ("here's your second toolkit"). Optionally a different short sequence for repeat downloaders (1-2 emails over 3-5 days) instead of full 5-email blast.
+
+4. **Registry update on every download.** Increment `total_downloads_count`, update `last_toolkit_*` fields, append the new toolkit_slug to a `download_history` column (or maintain a related collection of download events).
+
+**Effort:** 1-2 sessions of work. Velo cookie + page-load handler, Zapier Filter + Path branch, registry update step. No new infrastructure needed beyond the Phase 1 prep registry already in place.
+
+**Risk to monitor:** cookie-based recognition only works on the same browser. A user who downloads on phone then revisits on desktop will still see the form on desktop. Phase 2 (Members account) solves this; Phase 1 accepts the same-browser limitation.
+
+### Phase 2 — Wix Members library + account dashboard
+
+**Trigger to build:** funnel has been converting for 4-6 weeks; repeat downloads are measurable; team has bandwidth to invest 2-3 weeks in member infrastructure. Phase 2 is the right model when conversion volume justifies the build.
+
+**What it solves:**
+- Cross-device recognition (Phase 1's same-browser limitation)
+- Library-style access (browse all toolkits + download any without form-per-item)
+- Account dashboard showing what user has downloaded + recommended next toolkits
+- Segmentation by engagement signals (opens, click-throughs, repeat downloads) for differentiated email content
+
+**Mechanics:**
+
+1. **Wix Members integration.** Convert the form submission flow to auto-create a free Wix Member account at first toolkit download. Member is created with email as identifier; profile populated from form fields (first_name, company, role).
+
+2. **Library page at `rxbs.org/toolkit-library`.** Public preview of all toolkits (titles, headlines, subtitle copy from CMS). Toolkit PDFs gated behind member sign-in. Repeater on the page reads from the existing `Toolkits` CMS collection (no new data structure required).
+
+3. **Account dashboard at `rxbs.org/my-toolkits`.** Lists toolkits the signed-in member has downloaded, with download dates. "Recommended next" row pulled from `related_toolkit_slugs` (already a CMS column on each toolkit row). Member can re-download any prior toolkit without re-entering form data.
+
+4. **Migration path from Phase 0/1 contacts.** Existing `ToolkitSubmissions` registry rows (from Phase 1 prep) become the seed for Wix Members. Bulk-create Member accounts from registry on rollout day, send a one-time "claim your account" email with auto-sign-in link. Members can update their profile, set email preferences, view download history.
+
+5. **Email sequence differentiation by engagement signal.** Zapier (or Wix Automation, or both) branches on member engagement signals:
+   - High engagement (opened 4-5 of last 5 emails) → continued nurture with content premieres
+   - Low engagement (opened 0-1 of last 5 emails) → re-engagement email or sequence pause
+   - Specific drug class/topic interest signaled by repeat downloads of related toolkits → topic-anchored sequence
+
+**Effort:** 2-3 weeks. Wix Members feature configuration, library page design + build, account dashboard, migration tooling for existing leads, sequence differentiation logic, deliverability re-test under Member-account branding.
+
+**Tier requirement:** Wix Members is on the Wix Premium tier (likely already in use for the Wix Business plan covering the current site). No new platform fees expected; check Wix tier-feature matrix to confirm.
+
+### Decision dependencies between phases
+
+| Decision in Phase 0/1 | Affects Phase 2? |
+|---|---|
+| Registry keyed by email (not by anonymous ID) | YES — emails are how Wix Members will match existing contacts |
+| Registry includes first_name, company, role | YES — these populate Member profile fields at conversion |
+| Zapier writes timestamp + toolkit_slug on every download | YES — becomes Member dashboard history |
+| Email-as-identifier across all touchpoints (form, Zapier, CMS) | YES — Phase 2 Members account uses email as the join key |
+
+**Hard rule:** never assign or rely on anonymous IDs (UUID, session ID) in the registry. Always email. If email is missing, the submission is incomplete and shouldn't enter the registry. Phase 2 depends on email being the canonical identity.
+
+### Out of scope for both phases (deferred indefinitely)
+
+- Paid tier / payment processing (toolkits remain free lead magnets through Phase 2)
+- Native mobile app
+- Single-sign-on (SSO) with LinkedIn or other providers — email-and-password Wix Members is sufficient
+- Account deletion / GDPR self-service portal (handle via team@rxbs.org request flow until volume justifies)
 
 ---
 - Did NOT yet build any of the 5 emails in Wix Email Marketing — that's the next major work
@@ -342,4 +438,4 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 
 ---
 
-*Handoff doc locked: May 14, 2026. Pick up at the top of the TODO list.*
+*Handoff doc revised: May 19, 2026 (architecture pivot: CMS-driven Email 3, form-side cleanup, Phase 1 + Phase 2 roadmap added). Pick up at the top of the TODO list.*
