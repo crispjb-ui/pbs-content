@@ -258,42 +258,49 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 - Backend hook in events.js NEVER fires (no log entries despite form submissions)
 - `wixForms_onSubmit` is the wrong hook name for this form type
 
+**May 18, 2026 (evening — Zapier chain validation):**
+
+**Email service decision diverged from `zapier_implementation_spec.md`.** Actual implementation uses **Microsoft Outlook Send Email** action in Zapier (against `team@rxbs.org`, which is hosted on Microsoft 365). The spec assumes Gmail; the spec is out of date and needs updating. Outlook works fine for the use case — same merge tag pattern, same authentication flow, same end-recipient delivery.
+
+**Zapier chain wiring status:**
+- Step 1: Catch Hook (Webhooks by Zapier) — receiving payload from upstream ✓
+- Step 2: Microsoft Outlook Send (Email 1, Day 0) — wired with `To` from Catch Hook `1. Email` field, Body from `01_welcome_pdf_delivery.md` content with merge tags substituted, BCC hardcoded to `brett@rxbs.org`; test send confirmed delivered to Gmail ✓
+- Step 3: Delay by Zapier — configured (currently 1-minute for testing; flip to 2 days for production) ✓
+- Step 4: Microsoft Outlook Send (Email 2, Day 2) — wired with same `To`/BCC pattern as Step 2, Body from `02_second_toolkit.md` with `second_toolkit_blurb` merge tag; test send confirmed delivered ✓
+- Step 5+: not yet wired
+
+**Microsoft 365 Message Trace results (admin.microsoft.com → Exchange admin → Mail flow → Message trace):** all five test sends from `team@rxbs.org` → `crispjb+test6@gmail.com` between 4:08 PM and 4:50 PM status **Delivered**. SMTP path Microsoft → Gmail is healthy, no NDR generated, no throttling observed.
+
+**Apparent "missing email" debugging episode (preserved for future testing reference):**
+- After wiring Step 4 and clicking Test, BCC (`brett@rxbs.org`) received Email 2 but Gmail inbox at `crispjb+test6@gmail.com` appeared empty for the same message
+- Initial hypotheses (rate limiting, sender auth, content filtering, Microsoft throttling, merge-tag misfire) all ruled out via Message Trace + manual compose test
+- **Actual cause:** Ginny's Gmail account has a pre-existing filter that routes any email mentioning Substack URLs to a `Substack` folder. Email 2 mentions `benefitblindspots.substack.com` twice (PDF context + subscribe pitch), tripped the filter, landed in the Substack folder instead of inbox
+- **Lesson for future testing:** use a fresh Gmail alias without personal filters for test sends, OR explicitly check Substack/labeled folders before treating a delivery as missing. Real recipients without these filters will see Email 2 in Primary or Promotions depending on Gmail's classifier, not in a hidden filter folder.
+
+**Velo → Zapier webhook path:** test sends so far used Zapier's manual Test button per step; full Velo → Catch Hook delivery from a real form submission still needs end-to-end validation. The Catch Hook itself receives data fine when test-fired manually.
+
 ---
 
 ## TODO — Next Session Pickup (priority order)
 
-### Critical — Zapier pipeline completion
+### Critical — finish Zapier chain wiring (Steps 5-10)
 
-- [ ] **Try v2 Wix Forms backend hook in `/backend/events.js`:**
-  ```javascript
-  import { onSubmissionCreated } from 'wix-forms.v2/onSubmissionCreated';
-  import { sendToZapier } from 'backend/zapier.jsw';
-
-  export const onSubmissionCreatedHandler = onSubmissionCreated(async (event) => {
-      console.log('v2 onSubmissionCreated fired:', JSON.stringify(event));
-      const submissionData = event.submission?.submissions || {};
-      const payload = {
-          first_name: submissionData.first_name,
-          email: submissionData.email,
-          company: submissionData.company,
-          role: submissionData.role,
-          toolkit_name: submissionData.toolkit_name || submissionData.toolkitname,
-          pdf_url: submissionData.pdf_url || submissionData.pdfUrl,
-          second_toolkit_name: submissionData.second_toolkit_name,
-          second_toolkit_pdf_url: submissionData.second_toolkit_pdf_url,
-          second_toolkit_blurb: submissionData.second_toolkit_blurb,
-          field_note_url: submissionData.field_note_url
-      };
-      const result = await sendToZapier(payload);
-      console.log('Zapier result:', result);
-  });
-  ```
-- [ ] Save events.js → Publish Wix site → test submission → check Wix Logs for `v2 onSubmissionCreated fired` entry
-- [ ] If v2 hook fires: confirm Zapier "Test trigger" finds the captured request with full payload
-- [ ] If v2 hook ALSO fails: investigate `wix-forms.v2` module path (may require different import like `wix-forms.v2/forms`), or fall back to dataset hooks on the Submissions collection
-- [ ] Once Zapier captures payload, build 5 email actions per `email_gated_toolkit/zapier_implementation_spec.md`
-- [ ] Test end-to-end on Live with fresh email
-- [ ] Disable Wix Automation chain once Zapier confirmed working
+- [x] **Catch Hook receiving payload** — Step 1 confirmed working May 18 evening
+- [x] **Step 2 (Email 1, Day 0) wired** — Microsoft Outlook Send action with merge tags substituting from Catch Hook trigger; test send delivered
+- [x] **Step 3 (Delay) configured** — currently 1-minute for testing
+- [x] **Step 4 (Email 2, Day 2) wired** — same pattern as Step 2, body from `02_second_toolkit.md`; test send delivered
+- [ ] **Step 5 (Delay)** — add Delay by Zapier action, 1-min for testing, 3 days for production
+- [ ] **Step 6 (Email 3, Day 5) — Field Note pairing** — this is the highest-friction step. Per `03_field_note_match.md`, Email 3 needs 10 hardcoded variants (one per first-toolkit pairing) because `field_note_title` and `field_note_url` are not form fields. Two implementation options:
+  - **Option A (recommended):** Add a Zapier **Paths by Zapier** action after Delay, branching on `{{trigger__toolkit_name}}`. One path per first-toolkit value (Channel Pricing, PBM Compensation, Quarterly Reporting, etc.). Each path has its own Outlook Send with the matching Field Note title and URL hardcoded in body.
+  - **Option B:** Add a Zapier **Formatter → Utilities → Lookup Table** step that maps `{{trigger__toolkit_name}}` to two output values (`field_note_title`, `field_note_url`). Then a single Outlook Send uses those Formatter outputs as merge tags. Cleaner, fewer actions, but each new toolkit requires editing the Lookup Table row.
+  - For Channel Pricing only (minimum viable), wire one Outlook Send with the Channel Pricing Field Note hardcoded; add the branching/lookup later when Tier 1 toolkits go live.
+- [ ] **Step 7 (Delay)** — 4 days production
+- [ ] **Step 8 (Email 4, Day 9) — LinkedIn Newsletter subscribe** — Microsoft Outlook Send, body from `04_linkedin_newsletter.md`. Replace `[LINKEDIN NEWSLETTER URL]` placeholder with actual canonical URL from LinkedIn → Manage → Newsletters; update subscriber count to current month (836+ as of May 2026)
+- [ ] **Step 9 (Delay)** — 5 days production
+- [ ] **Step 10 (Email 5, Day 14) — Two ways forward** — Microsoft Outlook Send, body from `05_two_ways_forward.md`. Role-conditional content if Zapier supports inline conditionals; otherwise 6 hardcoded variants in a Paths branch on `{{trigger__role}}`
+- [ ] **Once chain wired, flip all delays from test values to production values** (Day 0 / Day 2 / Day 5 / Day 9 / Day 14)
+- [ ] **End-to-end live test:** submit the actual form on `rxbs.org/toolkit/channel-pricing` from an incognito browser with a fresh Gmail alias (avoid the Substack-filter testing gotcha), confirm all 5 emails arrive on the production delay schedule with correct merge tag values, correct PDF link, correct Field Note URL for the Channel Pricing pairing
+- [ ] **Verify Velo → Catch Hook is actually firing on real form submissions** (we've only validated each Zap step individually via Zapier's manual Test button; the upstream Velo backend hook firing is implied by the fact that Channel Pricing test submissions appeared in Wix Submissions DB, but we haven't confirmed the webhook fires on real submissions end-to-end yet)
 
 ### High priority — landing page polish
 
