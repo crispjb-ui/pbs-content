@@ -281,6 +281,72 @@ Each variant of Email 3 also uses these merge tags (dynamic): `{{first_name}}`, 
 
 ---
 
+**May 19, 2026 (evening — corrected understanding of working mechanism + pickup state for next session):**
+
+**Critical correction to the architectural picture documented above.** Today's session uncovered that the May 18 working mechanism that delivered form submissions to Zapier was **NOT** the Velo backend hook in `/backend/events.js` (legacy `wixForms_onSubmit` or v2 `onSubmissionCreated`). It was a **Wix Automation HTTP action** configured directly in the Wix dashboard, which POSTed form data to Zapier on form submission. The earlier WIX_SETUP_TODO note from May 18 ("Wix-side webhook delivery doesn't fire") was based on the assumption that the Velo backend was the intended path; the user had set up a Wix Automation HTTP action that wasn't documented here.
+
+**Evidence (from Zapier Catch Hook captured records dated May 18):** the payload structure includes `Submission Id`, `Form Id`, `Submitted At` fields — these are automatic variables that Wix Automation injects when its HTTP action POSTs a payload. The Velo code in the spec did NOT include those fields. The signature confirms the working delivery path was Wix Automation, not Velo.
+
+**Today's accidental regression:**
+
+Based on the wrong assumption that Velo was the working path, the session proposed an architecture pivot to "drop the 5 hidden form fields, CMS-driven Email 3, simplified form." The user implemented the pivot. **This broke the Wix Automation HTTP action's payload bindings**, because the Automation builds its JSON body from form field variables — when the fields were deleted, the payload bindings broke and Zapier stopped receiving submissions.
+
+The session ended with the form fields RE-ADDED and the page Velo RESTORED to the original 6-field `setFieldValues`, matching yesterday's working state. **However, even after restoring the form fields, the 1:29 PM May 19 test submission did not appear in Zapier** — meaning the Wix Automation HTTP action is still not firing for some reason. The diagnostic was incomplete; pickup state below.
+
+**Pickup state for next session:**
+
+Form + page Velo confirmed restored:
+- Toolkit form has 4 visible (first_name, email, company, role) + 6 hidden (pdf_url, toolkit_name, second_toolkit_name, second_toolkit_pdf_url, second_toolkit_blurb, field_note_url) = 10 fields
+- Page Velo `setFieldValues` populates all 6 hidden fields from CMS at page load
+- 1:29 PM May 19 test submission created a proper row in Wix Submissions DB with all hidden fields populated
+
+What did NOT happen on that test submission:
+- No new record appeared in Zapier Catch Hook (still showing only May 18 records)
+- Unknown whether the Wix Automation fired at all (Ginny's notification email check was the planned diagnostic but session ended before confirmation)
+
+**Critical pickup task for next session:**
+
+1. **Check Wix Dashboard → Automations.** Find the Automation that was firing on Toolkit Form submissions (it had Send Email actions sending the "broken-button" emails). Verify three things:
+   - Is the Automation Active? (toggle at top)
+   - What actions does it currently have? Specifically, is the HTTP/Webhook action still present? Has anyone deleted it?
+   - Does the trigger still match the current form?
+2. **Did Ginny receive a notification email for the 1:29 PM JBC test submission?**
+   - YES → Automation is firing but HTTP action is gone or broken; rebuild the HTTP action only
+   - NO → Automation is entirely disabled or deleted; rebuild from scratch with trigger=form submitted, action=HTTP request to Zapier webhook
+3. **The Wix Automation HTTP action JSON body needs to reference the form's hidden field variables.** Document what variables Wix Automation exposes (these become Zapier's payload structure):
+   - `{{form.first_name}}` / `{{form.firstName}}`
+   - `{{form.email}}` / `{{form.work_email}}`
+   - `{{form.company}}`
+   - `{{form.role}}`
+   - `{{form.toolkit_name}}` (or `toolkitname` — Wix may strip underscore; check Submissions DB column name)
+   - `{{form.pdf_url}}`
+   - `{{form.second_toolkit_name}}`
+   - `{{form.second_toolkit_pdf_url}}`
+   - `{{form.second_toolkit_blurb}}`
+   - `{{form.field_note_url}}`
+
+**Architecture decisions to NOT carry forward until working state is confirmed:**
+
+- The "drop hidden form fields" pivot proposed today is **incompatible with the Wix Automation HTTP action approach**, because the Automation builds its payload from form fields. Either keep the 10-field form OR replace the Wix Automation path with a Velo HTTP function (which would need to be tested first; backend hooks have not worked on this form configuration).
+- The "CMS-driven Email 3 with `field_note_title` + `field_note_blurb`" enhancement is similarly blocked — adding those fields would put the form at 12 fields, over the 10-field cap. For now, Email 3 reverts to the generic body using only `{{trigger__field_note_url}}` per the original `03_field_note_match.md` spec.
+- The page-level Velo `onWixFormSubmitted` event handler approach (drafted in `zapier_implementation_spec.md` Part 2) was never confirmed to work — it errors with TypeError on the new Wix Forms App per the May 18 diagnostic. Do not implement this code as written.
+
+**File state in this branch (pushed to `claude/fix-email-delivery-issue-L9YaX` and merged to main):**
+
+- `zapier_implementation_spec.md` was edited today to reflect the abandoned architecture pivot (CMS-driven, drop hidden fields). **The Velo code block in Part 2 is now misleading** — it shows the simplified 1-field setFieldValues + an `onWixFormSubmitted` handler that doesn't work. The actual working state is the original 6-field setFieldValues with NO `onWixFormSubmitted` block.
+- `toolkit_dataset.md` has the `field_note_blurb` column added and populated for 4 toolkits. **This is fine to keep** — the column is harmless on the CMS side even though the form fields can't carry it forward to Zapier under the 10-field cap.
+- `toolkits_csv_for_wix_import.csv` has `field_note_blurb` column added. Same — harmless on the CMS side.
+- The Phase 1 + Phase 2 architecture roadmap section in this file is forward-looking and not impacted by today's session.
+
+**Recommended next-session opening:**
+
+Before any code/architecture changes, the next session should:
+1. Open Wix Dashboard → Automations and screenshot the list view + the actions inside the relevant Automation
+2. Confirm whether the 1:29 PM May 19 submission triggered the Automation (notification email check)
+3. If Automation needs rebuild, rebuild only that — do NOT propose architecture changes until form-to-Zapier delivery is confirmed working again
+
+---
+
 ## TODO — Next Session Pickup (priority order)
 
 ### Critical — finish Zapier chain wiring (Steps 5-10)
