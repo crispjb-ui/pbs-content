@@ -6,7 +6,11 @@ May 13, 2026
 
 ---
 
-My lane: clinical pharmacist auditing hundreds of PBM contracts a year, focused on PBM-specific structural reform. The roster below front-loads six pieces for impact, naming the structural mechanics that employer plan sponsors and policymakers most need to see, each with a specific regulatory or legislative prescription. Pieces seven through twelve continue the framework into more specialized PBM economics once the first six have established the analytic frame.
+My lane: clinical pharmacist auditing hundreds of PBM contracts a year, focused on PBM-specific structural reform. The roster opens with a map piece that lays out the five revenue streams running through every PBM contract and the five reforms each requires. The pieces that follow argue each reform in detail; pieces seven through twelve continue the framework into more specialized PBM economics once the first six have established the analytic frame.
+
+## Opening Piece (the Map)
+
+**PBM Economics 101: The Five Revenue Streams That Run Through Every PBM Contract — and the Five Reforms Each One Requires.** Most reform debates fix on one revenue stream — spread pricing, rebates, owned-pharmacy margin — and watch the margin migrate to one of the others. The structural picture is unified: five revenue streams, one entity collecting on all five, uneven disclosure floors on each. This piece is the map. The pieces that follow argue each reform.
 
 ## First Six (Impact-Front-Loaded)
 
