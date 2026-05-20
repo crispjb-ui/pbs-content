@@ -1,7 +1,99 @@
 # Wix Email-Gated Toolkit — Session Handoff TODOs
 
 **Branched from main:** May 14, 2026
-**Status:** Channel Pricing landing page form is partially live. Velo code populates 5 hidden CMS-bound fields. Wix Forms App caps at 10 total fields per form (4 visible + 6 hidden). Blurb stays as the 10th form field with tightened text under 200 characters.
+**Status (May 20, 2026, end of day):** Channel Pricing toolkit lead-gen funnel is **functionally complete and end-to-end tested**. All 5 emails fire from Zapier with correct CMS-driven merge tags per submission. Three cleanup items remain before promoting the landing page broadly (see "Current state — May 20, 2026" section directly below). Everything below the "Historical context" divider is retained for reference but superseded by the May 20 architecture.
+
+---
+
+## Current state — May 20, 2026
+
+### Working architecture
+
+```
+User submits form on rxbs.org/toolkit/<slug>
+    ↓
+Wix Forms App processes the submission (Submissions DB + native notification to Ginny)
+    ↓
+Wix Automation "5 email welcome" Action: Send HTTP request
+    POST to Zapier Catch Hook with 5 form fields
+    (first_name, email, company, role, toolkit_name)
+    ↓
+Zapier Step 1: Catch Hook receives payload
+    ↓
+Zapier Step 2: Webhooks GET → calls Velo HTTP function get_toolkit
+    Returns: toolkit_slug, toolkit_name, pdf_url, second_toolkit_name,
+    second_toolkit_pdf_url, second_toolkit_blurb, field_note_title,
+    field_note_blurb, field_note_url
+    ↓
+Zapier Steps 3-11: Email 1 → Delay → Email 2 → Delay → Email 3 → Delay → Email 4 → Delay → Email 5
+    All sends via Microsoft Outlook Send action
+    Form-field merge tags use {{1__*}}; CMS-derived merge tags use {{2__*}}
+```
+
+### What's working (don't touch)
+
+- **Wix landing page** at `rxbs.org/toolkit/channel-pricing` — 4 visible form fields + 1 hidden (toolkit_name)
+- **Velo page code on `Toolkits (Item)`** — populates only toolkit_name via setFieldValues from CMS
+- **Velo HTTP function `backend/http-functions.js → get_toolkit`** — queries Toolkits CMS by title_fld, returns 9 fields as JSON. Public at `https://www.rxbs.org/_functions/toolkit?name=<toolkit name>`
+- **Wix Automation "5 email welcome"** — triggers on Form Submitted, fires Send HTTP request action with 5 form fields to Zapier
+- **Zapier Zap** — 11 steps (Catch Hook + Webhooks GET + 5 Outlook Sends + 4 Delays). All 5 emails tested end-to-end with the right merge tags.
+
+### Three cleanup items remaining
+
+- [ ] **Disable Wix's native Email 1-5 actions** in the "5 email welcome" Wix Automation. Currently both chains fire on every submission (Wix sends its 5 + Zapier sends its 5 = recipient gets 10 emails). Keep only the trigger + the Send HTTP request action.
+- [ ] **Switch Zapier delays from 1-minute test values to production**: Day 0 (no delay), Delay 2 days between Email 1→2, Delay 3 days between Email 2→3, Delay 4 days between Email 3→4, Delay 5 days between Email 4→5.
+- [ ] **Publish the Zap** (top-right Publish button — currently in Draft). Until published, Zapier won't run on live form submissions.
+
+### One final test after cleanup
+
+- [ ] Submit a real form on `rxbs.org/toolkit/channel-pricing` from an incognito browser with a fresh Gmail alias (avoid the Substack-filter testing gotcha documented below). Confirm Email 1 arrives immediately. Use Zapier Zap History to verify Delays are scheduled for the right intervals (the actual Email 2-5 deliveries happen 2/5/9/14 days later; you don't have to wait, just verify the schedule in Zap History).
+
+### Tier 1 toolkit rollout (now unblocked)
+
+Once cleanup is complete, this same Zapier chain handles every toolkit landing page automatically — the Velo HTTP function looks up whichever toolkit_name comes through the webhook. To roll out Tier 1:
+
+- [ ] Bulk CSV import 3 Tier 1 toolkit rows via `email_gated_toolkit/toolkits_csv_for_wix_import.csv`
+- [ ] Upload 3 Tier 1 PDFs to Wix Media Manager:
+  - `evergreen_contract_review_readiness_checklist.pdf`
+  - `evergreen_optimize_vs_go_to_market_decision_framework.pdf`
+  - `evergreen_pbr_pharmacy_benefit_review_framework.pdf`
+- [ ] Paste each PDF's Wix Media URL into the imported CMS rows' `pdf_url` cells
+- [ ] Verify each row's `field_note_*` fields are populated (or stub for now and update when Field Notes ship)
+- [ ] Confirm dynamic page renders at `rxbs.org/toolkit/contract-review-readiness`, `/optimize-vs-go-to-market`, `/pbr-framework`
+- [ ] Add "Start Here · Foundational Frameworks" Tier 1 section to the Toolkit Library page (duplicate existing Tier 2 Repeater, filter `tier=1`, position above)
+- [ ] Test-submit on one Tier 1 page; confirm Email 1 arrives with that toolkit's PDF URL
+
+### Approaches that DO NOT work — do not revisit
+
+Documented so future sessions don't re-investigate:
+
+| Approach | Why it doesn't work |
+|---|---|
+| `$w('#form1').onWixFormSubmitted(...)` page-level Velo event | TypeError on Wix Forms v2. The new Forms App doesn't expose this method. |
+| `backend/events.js` with `wixForms_onSubmit` Service Plugin event | Doesn't fire on Wix Forms v2. Different event API. |
+| Native Wix → Zapier integration (Find Item / Wix Form Submitted in Zapier) | Requires Wix Business+ tier. PBS is on Wix Free; the Wix app is greyed out in Zapier search. |
+| 6-hidden-field form populated via setFieldValues for all 6 | Only toolkit_name field key matches reliably; others auto-rename on re-add. Velo HTTP function approach eliminates the need entirely. |
+
+### Files referenced
+
+- Velo HTTP function: lives in Wix Velo at `backend/http-functions.js` (Wix-side, not in this repo). Canonical code block in `zapier_implementation_spec.md`.
+- Email bodies: `email_gated_toolkit/emails/01-05_*.md` (paste-ready content with merge tags)
+- Toolkit CMS data: `email_gated_toolkit/toolkit_dataset.md` (source of truth for CMS rows)
+- Bulk CSV import: `email_gated_toolkit/toolkits_csv_for_wix_import.csv`
+
+### Testing gotcha (from May 18, still relevant)
+
+When test-recipient Gmail addresses have personal filters routing Substack-mentioning emails to a separate folder, Email 2 will appear "missing" from the inbox even though Microsoft + Gmail both confirm delivery. Use a fresh Gmail alias without personal filters for test sends, or check the user's Substack/labeled folders before treating a delivery as missing.
+
+---
+
+## Historical context (May 14-19, 2026)
+
+The remainder of this file documents the architectural pivots and dead ends that preceded the May 20 working state. Everything below this divider is retained for reference but is superseded by the "Current state — May 20, 2026" section above. **If you're implementing or maintaining this funnel, stop reading here and reference only the current state section.**
+
+---
+
+**Original status header (May 14, 2026):** Channel Pricing landing page form is partially live. Velo code populates 5 hidden CMS-bound fields. Wix Forms App caps at 10 total fields per form (4 visible + 6 hidden). Blurb stays as the 10th form field with tightened text under 200 characters.
 
 ---
 

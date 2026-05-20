@@ -507,39 +507,72 @@ Library NN (PBM Contract Language carousel series, linked to the Contract Librar
 
 When a week's Tuesday or Thursday visual is being scheduled, the brief in the week file is rewritten **holistically** so topic, template, slide-by-slide copy, image generation prompt, and caption read as **one integrated spec**. Never stack a "template rule" layer on top of an existing "topic copy" layer as two separate sets of directions in the same week file. A brief that reads as two overlapping instruction sets is a brief that gets misbuilt.
 
-## Wix Toolkit Lead-Gen Funnel Status (as of May 18, 2026 evening)
+## Wix Toolkit Lead-Gen Funnel Status (as of May 20, 2026 evening)
 
-The Channel Pricing toolkit lead-gen funnel is **partially live** at `rxbs.org/toolkit/channel-pricing` and is the current acquisition entry point for the email-gated toolkit strategy. Full operational status and remaining work is tracked in `email_gated_toolkit/WIX_SETUP_TODO.md`. This section is the high-level pointer.
+The Channel Pricing toolkit lead-gen funnel is **functionally complete and end-to-end tested** at `rxbs.org/toolkit/channel-pricing`. All 5 emails fire from Zapier with correct CMS-driven merge tags per submission. Three cleanup items remain before promoting the landing page broadly. Full operational status and remaining work is tracked in `email_gated_toolkit/WIX_SETUP_TODO.md`. This section is the high-level pointer.
 
-**What's working:**
-- Wix landing page live, form captures submissions, Velo populates hidden CMS fields, submissions land in Wix Submissions DB
+### Working architecture (the path that actually works)
+
+```
+User submits form on rxbs.org/toolkit/<slug>
+    ↓
+Wix Forms App processes the submission (Submissions DB + native notification email to Ginny)
+    ↓
+Wix Automation "5 email welcome" fires on Form Submitted trigger
+    ↓
+Automation Action: Send HTTP request → POSTs 5 fields to Zapier Catch Hook
+    (first_name, email, company, role, toolkit_name)
+    ↓
+Zapier Step 1: Catch Hook receives payload
+    ↓
+Zapier Step 2: Webhooks GET → calls Velo HTTP function backend/http-functions.js get_toolkit
+    Returns all 9 CMS fields for the matching Toolkits row
+    (toolkit_slug, toolkit_name, pdf_url, second_toolkit_*, field_note_*)
+    ↓
+Zapier Steps 3, 5, 7, 9, 11: Microsoft Outlook Send (Emails 1, 2, 3, 4, 5)
+    Form fields from Step 1 via {{1__*}}, toolkit fields from Step 2 via {{2__*}}
+    ↓
+Zapier Steps 4, 6, 8, 10: Delay by Zapier (production: Day 0 / +2 / +3 / +4 / +5)
+```
+
+### What's working
+
+- Wix landing page live; 5-field form (4 visible: first_name, email, company, role + 1 hidden: toolkit_name)
+- Velo page code on `Toolkits (Item)` populates the hidden toolkit_name field from CMS via `setFieldValues` (just one field; no white-box workaround needed)
+- Velo backend HTTP function `backend/http-functions.js → get_toolkit` queries Toolkits CMS by title_fld and returns the full row as JSON; reachable at `https://www.rxbs.org/_functions/toolkit?name=<toolkit name>`
+- Wix Automation "5 email welcome" fires reliably on every form submission; **Send HTTP request action** POSTs 5 fields to Zapier
+- Zapier Zap wires all 5 emails (Microsoft Outlook Send) with CMS-driven merge tags. Each email tested end-to-end and confirmed to deliver with the right toolkit-specific PDF link, Field Note title, Field Note URL, and UTM-tagged Substack/LinkedIn links
 - Channel Pricing CMS row fully populated; Tier 1 toolkit rows (Contract Review Readiness, Optimize vs Go-to-Market, PBR Framework) fully spec'd in `email_gated_toolkit/toolkit_dataset.md` + CSV ready for bulk import
-- Wix's default "New submission received" form notification to Ginny works reliably
-- **Zapier → Microsoft Outlook → Gmail delivery path validated end-to-end (May 18 evening).** Microsoft 365 Message Trace confirms all test sends from `team@rxbs.org` to external Gmail addresses delivered cleanly; Email 1 (Step 2) and Email 2 (Step 4) wired in Zapier with To pulled from Catch Hook payload and BCC hardcoded to `brett@rxbs.org` for monitoring. Note: actual email service in the Zap is Microsoft Outlook, not Gmail as the original `zapier_implementation_spec.md` assumes — `team@rxbs.org` is hosted on Microsoft 365.
 
-**What's blocked (the funnel can't ship yet):**
-- **Zapier chain wiring is partial** — Steps 1-4 (Catch Hook, Email 1, Delay, Email 2) wired and tested. Steps 5-10 (Delay, Email 3, Delay, Email 4, Delay, Email 5) still to wire per `email_gated_toolkit/zapier_implementation_spec.md`. Email 3 is the highest-friction remaining step because it needs branch-by-toolkit-name logic (10 hardcoded variants per `03_field_note_match.md`) rather than a single dynamic template.
-- **No full end-to-end test yet** — Zapier test-step button has been used to validate each step individually; need a single real form submission from the live landing page that fires the full chain sequentially with delays to confirm production behavior.
-- **Wix Free Email Marketing tier per-recipient anti-flood suppression** (Wix Automations path, since deprecated in favor of Zapier) — kept as documentation in case Zapier path needs fallback
-- Phantom-box UX issue: form's success behavior shows inline message that gets hidden by the cover box; planned fix is redirect-to-thank-you-page
+### What's dead — do NOT attempt to revive
 
-**Funnel ship blockers, prioritized:**
-1. Wire Email 3 (Step 6, with 10-variant branch-by-toolkit-name logic), Email 4 (Step 8), Email 5 (Step 10), and the intervening delays in the Zap
-2. Run one real form submission against the live landing page to confirm Velo → webhook → full 5-email chain fires end-to-end with correct delays and correct merge tag values
-3. Switch test delays (1-minute) to production values (Days 0/2/5/9/14) once chain validated
-4. Switch form success behavior to redirect-to-thank-you-page (cosmetic + UX)
-5. Set up SPF/DKIM/DMARC authentication on `rxbs.org` for Primary tab placement at scale (currently Email 2 lands in Promotions or filtered folders due to multiple links + Substack mention; will not fix without sender domain auth)
+These approaches were tried and confirmed not viable for this Wix tier/form version. Documented here so future sessions don't re-discover the same dead ends:
 
-**Testing gotcha to remember (May 18 evening):** when test-recipient Gmail addresses have personal filters routing Substack-mentioning emails to a separate folder, Email 2 will appear "missing" from the inbox even though Microsoft + Gmail both confirm delivery. Use a fresh Gmail alias without filters for test sends, or check the user's Substack/labeled folders before assuming a delivery failure.
+- **`$w('#form1').onWixFormSubmitted(...)` page-level Velo event** — TypeError on Wix Forms v2. The new Forms App doesn't expose this method. (Confirmed May 20, 2026 via Wix Logs.)
+- **`backend/events.js` with `wixForms_onSubmit` Service Plugin event** — does not fire on Wix Forms v2. Different event API for the new Forms App. (Confirmed May 20, 2026 via Wix Logs.)
+- **Native Wix → Zapier integration ("Find Item" / "Wix Form Submitted" Zapier triggers/actions)** — requires Wix Business+ tier. PBS is on Wix Free; the Wix app is greyed out in Zapier action search. (Confirmed May 20, 2026.)
+- **6-hidden-field form with `setFieldValues` populating all 6** — only `toolkit_name` reliably populates because the other 5 field keys got mismatched on re-add. With the Velo HTTP function approach, only 1 hidden field is needed (toolkit_name as the CMS lookup key); the rest of the toolkit data is fetched server-side at email-send time.
 
-**Do NOT ship Wix Forms auto-reply as a fallback for Email 1** (per Ginny's May 18 direction). The 5-email chain via Zapier is the target architecture; partial-shipping with native auto-reply loses the nurture sequence value and creates technical debt around migrating later.
+### Three cleanup items remaining
 
-**Tier 1 toolkit rollout (queued behind funnel reliability):**
-- 3 Tier 1 rows ready for bulk CSV import to Wix CMS once funnel works end-to-end
+1. **Disable Wix's native Email 1-5 actions** in the "5 email welcome" Wix Automation. Currently both chains fire on every submission (Wix sends its 5 + Zapier sends its 5 = recipient gets 10 emails). Keep only the trigger + the Send HTTP request action.
+2. **Switch Zapier delays from 1-minute test values to production**: Day 0 (no delay), Delay 2 days between Email 1→2, Delay 3 days between Email 2→3, Delay 4 days between Email 3→4, Delay 5 days between Email 4→5.
+3. **Publish the Zap** (top-right Publish button — currently in Draft). Until published, Zapier won't run on live form submissions.
+
+### Recommended landing-page-promotion gate
+
+The Channel Pricing landing page should remain de-promoted in ads, sig lines, and LinkedIn first comments **until the three cleanup items above are complete and one final end-to-end test on the production delay schedule confirms all 5 emails deliver at the right intervals**. Substack and LinkedIn first-comment cross-promo continues to route to Substack posts (which work) rather than the toolkit landing page until then.
+
+### Tier 1 toolkit rollout (queued behind cleanup)
+
+- 3 Tier 1 rows ready for bulk CSV import to Wix CMS once cleanup is complete
 - 3 Tier 1 PDFs ready in `templates/documents/` (evergreen_contract_review_readiness_checklist.pdf, evergreen_optimize_vs_go_to_market_decision_framework.pdf, evergreen_pbr_pharmacy_benefit_review_framework.pdf)
 - Toolkit Library page needs Tier 1 section added above the existing Tier 2 Repeater (label as "Start Here · Foundational Frameworks")
+- Once added, the SAME Zapier chain handles every toolkit landing page automatically. The Velo HTTP function looks up whichever toolkit_name comes through the webhook; no per-toolkit Zapier branching required.
 
-**Until the funnel is functional, the Channel Pricing landing page should NOT be promoted in ads, sig lines, or LinkedIn first comments.** Substack and LinkedIn first-comment cross-promo continues to route to Substack posts (which work) rather than the toolkit landing page (which captures the lead but doesn't deliver Email 1 reliably).
+### Testing gotcha to remember (May 18 evening, still relevant)
+
+When test-recipient Gmail addresses have personal filters routing Substack-mentioning emails to a separate folder, Email 2 will appear "missing" from the inbox even though Microsoft + Gmail both confirm delivery. Use a fresh Gmail alias without filters for test sends, or check the user's Substack/labeled folders before assuming a delivery failure.
 
 ## Repository Structure
 

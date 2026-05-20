@@ -1,12 +1,133 @@
 # Zapier Implementation Spec — Toolkit Lead-Gen Email Automation
 
-**Status:** Replaces the Wix Automations 5-email chain that has proven unreliable on the Wix Free tier.
-**Architecture:** Velo posts form submission data directly to Zapier webhook → Zapier sends 5 emails on staggered delays via **Microsoft Outlook** (`team@rxbs.org` on Microsoft 365). Gmail and SendGrid remain as alternative send services if Outlook is ever swapped out.
-**Bypasses:** Wix Automations engine entirely. Wix Forms App still receives the submission (for the Submissions database record), but no Wix Automation chain fires.
+**Status (May 20, 2026):** Live and end-to-end tested for Channel Pricing landing page. All 5 emails confirmed delivering with correct CMS-driven merge tags. Three cleanup items remain before promoting the landing page broadly (see `WIX_SETUP_TODO.md`).
 
-**Implementation note (May 18, 2026 evening):** Earlier sections of this spec reference Gmail as the send service; the live Zap actually uses **Microsoft Outlook Send Email** (because `team@rxbs.org` is hosted on Microsoft 365, not Google Workspace). The merge tag patterns, BCC behavior, and 5-step chain shape are identical between Gmail and Outlook actions in Zapier; treat any "Gmail" reference below as interchangeable with "Microsoft Outlook" for the actual implementation. Validated path: Velo → Catch Hook → Outlook Send → external Gmail recipient, confirmed delivered end-to-end via Microsoft 365 Message Trace.
+**Working architecture:** Wix Automation "Send HTTP request" posts 5 fields to Zapier → Zapier calls Velo HTTP function to look up the rest from CMS → Zapier sends 5 Microsoft Outlook emails on staggered delays. `team@rxbs.org` is hosted on Microsoft 365.
 
-**Architecture revision (May 19, 2026 evening — CMS-driven Email 3, form-field cleanup):** Email 3's "10 hardcoded variants via Paths" plan replaced with a single CMS-driven Outlook Send. `field_note_title` and `field_note_blurb` added to the Wix CMS Toolkits collection alongside the existing `field_note_url`. Velo webhook payload now includes all three; Step 6 in Zapier is a single Outlook Send with four merge tags. **Form-side hidden fields reduced from 6 to 1** — only `toolkit_name` kept (for Submissions DB readability); the other 5 hidden fields (pdf_url, second_toolkit_name, second_toolkit_pdf_url, second_toolkit_blurb, field_note_url) deleted because Zapier reads them from CMS via the webhook payload, not from form submission. Form goes from 10 fields to 5. **Why:** future-proofing for the weekly toolkit-addition cadence. Adding a new toolkit becomes a single CMS row insertion with all metadata; zero Zapier edits, zero Velo edits, zero form edits required.
+**IMPORTANT: Multiple architectural pivots have been documented and reversed in this file. The actual working path as of May 20, 2026 is:**
+
+```
+User submits form on rxbs.org/toolkit/<slug>
+    ↓
+Wix Forms App processes submission (Submissions DB + native notification to Ginny)
+    ↓
+Wix Automation "5 email welcome" Action 1: Send HTTP request
+    POST to Zapier Catch Hook with 5 form fields
+    (first_name, email, company, role, toolkit_name)
+    ↓
+Zapier Step 1: Catch Hook receives payload
+    ↓
+Zapier Step 2: Webhooks GET → calls https://www.rxbs.org/_functions/toolkit?name={{1__toolkit_name}}
+    Velo backend/http-functions.js → get_toolkit() queries Toolkits CMS by title_fld
+    Returns: toolkit_slug, toolkit_name, pdf_url, second_toolkit_name,
+    second_toolkit_pdf_url, second_toolkit_blurb, field_note_title,
+    field_note_blurb, field_note_url
+    ↓
+Zapier Steps 3-11: Email 1 → Delay 2d → Email 2 → Delay 3d → Email 3 → Delay 4d → Email 4 → Delay 5d → Email 5
+    All sends via Microsoft Outlook Send action
+    Form-field merge tags use {{1__...}}; CMS-derived merge tags use {{2__...}}
+```
+
+**What's documented below but NOT the working path:**
+
+The older sections of this spec describe Velo page-level (`onWixFormSubmitted`) and Velo backend (`wixForms_onSubmit`) approaches that DO NOT work on Wix Forms v2 (the new Forms App). Both error with TypeError or fail to fire respectively. Native Wix→Zapier integration is also unavailable because PBS is on Wix Free; the Wix app is greyed out in Zapier's action search. Those sections are retained for historical context but should not be implemented.
+
+---
+
+## The Velo HTTP function (load-bearing — keep this file in sync with the Wix code)
+
+The single source of truth for toolkit data at email-send time is the Wix CMS Toolkits collection, accessed via a public HTTP function defined in `backend/http-functions.js` on the Wix site:
+
+```javascript
+import { ok, badRequest, notFound, serverError } from 'wix-http-functions';
+import wixData from 'wix-data';
+
+export async function get_toolkit(request) {
+    try {
+        const toolkitName = request.query.name;
+
+        if (!toolkitName) {
+            return badRequest({
+                headers: { 'Content-Type': 'application/json' },
+                body: { error: 'Missing required query parameter: name' }
+            });
+        }
+
+        const result = await wixData.query('Toolkits')
+            .eq('title_fld', toolkitName)
+            .limit(1)
+            .find();
+
+        if (result.items.length === 0) {
+            return notFound({
+                headers: { 'Content-Type': 'application/json' },
+                body: { error: 'No toolkit found with name: ' + toolkitName }
+            });
+        }
+
+        const toolkit = result.items[0];
+
+        return ok({
+            headers: { 'Content-Type': 'application/json' },
+            body: {
+                toolkit_slug: toolkit.slug,
+                toolkit_name: toolkit.title_fld,
+                pdf_url: toolkit.pdf_url,
+                second_toolkit_name: toolkit.second_toolkit_name,
+                second_toolkit_pdf_url: toolkit.second_toolkit_pdf_url,
+                second_toolkit_blurb: toolkit.second_toolkit_blurb,
+                field_note_title: toolkit.field_note_title,
+                field_note_blurb: toolkit.field_note_blurb,
+                field_note_url: toolkit.field_note_url
+            }
+        });
+    } catch (err) {
+        return serverError({
+            headers: { 'Content-Type': 'application/json' },
+            body: { error: 'Server error: ' + err.message }
+        });
+    }
+}
+```
+
+Endpoint format: `https://www.rxbs.org/_functions/<function-name-without-method-prefix>?<query-params>`. The export `get_toolkit` exposes at `GET /_functions/toolkit?name=...`. HTTP functions go live only after the site is Published in Wix (not just saved).
+
+## The page-level Velo on Toolkits (Item) dynamic page
+
+```javascript
+$w.onReady(function () {
+    $w('#dynamicDataset').onReady(() => {
+        const toolkit = $w('#dynamicDataset').getCurrentItem();
+        $w('#form1').setFieldValues({
+            toolkit_name: toolkit.title_fld
+        });
+    });
+});
+```
+
+Single hidden form field (`toolkit_name`) gets populated from the CMS via setFieldValues at page load. The toolkit_name value rides the form submission into the Wix Submissions DB AND into the Wix Automation HTTP request action's payload to Zapier. Zapier uses it as the lookup key when calling the HTTP function above.
+
+## Wix Automation "5 email welcome" Send HTTP request action
+
+- **URL:** Zapier Catch Hook URL (`https://hooks.zapier.com/hooks/catch/4477930/4o4iszd/`)
+- **Method:** POST
+- **Body params:** Custom mode with 5 Key/Value pairs:
+
+| Key | Value (Wix dynamic-value picker) |
+|---|---|
+| `first_name` | First name (form field) |
+| `email` | Work Email (form field) |
+| `company` | Company (form field) |
+| `role` | Role (form field) |
+| `toolkit_name` | toolkitname (hidden form field — pulls from setFieldValues) |
+
+The toolkit data is NOT in this payload. Zapier looks it up via the Velo HTTP function in Step 2.
+
+---
+
+## Older spec material (retained for historical context, NOT the implementation path)
+
+The sections below describe approaches that were attempted and abandoned. They are kept so future sessions don't re-investigate the same dead ends. **If you're implementing or maintaining this funnel, stop reading here and reference only the sections above.**
 
 ---
 
