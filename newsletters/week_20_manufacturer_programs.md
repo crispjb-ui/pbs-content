@@ -684,30 +684,33 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 4.07 DEFINITIONS OF MANUFACTURER PAYMENTS." Below the header, five vertically stacked term entries, each formatted as a bold term name in Plex Mono Medium black followed by a 2-3 line definition snippet in Plex Mono Regular black smaller type (rendered as recognizable legalese, not blurred filler). The five term entries, top to bottom:
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 4.07 DEFINITIONS OF MANUFACTURER PAYMENTS."
 >
-> 1. **Gross Rebate.** "Total manufacturer payments to the PBM, calculated before any retention, administrative offset, or category exclusion."
-> 2. **Net Pass-Through Rebate.** "Manufacturer payments passed to the plan sponsor at the contracted pass-through percentage of gross rebate."
-> 3. **Price Protection Rebate.** "Manufacturer payments tied to drug price increases. Excluded from the rebate pass-through clause."
-> 4. **Administrative Fee.** "Manufacturer payments classified as PBM administrative compensation. Outside the rebate pass-through definition."
-> 5. **Drug Education / Data Licensing Payment.** "Manufacturer-funded payments for educational programming or data services. Not classified as rebate."
+> **Visual hierarchy (load-bearing — this must read at LinkedIn feed thumbnail size ~600px wide):**
 >
-> Five handwritten red ballpoint annotations are drawn in the margins:
-> - A yellow highlighter pass (#F4E27B at 60% opacity) covers the Gross Rebate definition, with a red handwritten note in the right margin: "The headline number"
-> - A red circle around the percentage in the Net Pass-Through definition, with a red note: "Compare to actual. The gap is real."
-> - A red circle around "Excluded" in the Price Protection definition, with a red note: "Carved OUT of pass-through"
-> - A red circle around "Outside" in the Administrative Fee definition, with a red note: "Outside pass-through clause"
-> - A red circle around "Not classified" in the Drug Education Payment definition, with a red note: "Same. Reclassified, retained."
+> **Layer 1 (must dominate the composition, readable at any size):** The five term names rendered LARGE — Plex Sans SemiBold 22-24pt black, stacked vertically with generous line spacing. These are the primary visual element. They must be legible at feed thumbnail.
 >
-> At the top of the page, in larger handwritten black marker, double-underlined: "Five rebate terms. Five definitions the PBM wrote."
+> **Layer 2 (secondary, supports but does not compete):** A single one-line typed legalese fragment under each term name in Plex Mono Regular 11pt black. Renders as recognizable contract language but stays subordinate to the term names above it.
 >
-> Directly below, in handwritten red pen: "Four of them sit outside the pass-through clause."
+> **Layer 3 (the punchline at thumbnail size):** Handwritten red-ballpoint margin annotation to the right of each term. Caveat or Permanent Marker style, 18-20pt, bold red ink. These are what a scrolling reader reads at feed thumbnail before they decide to expand. Make them visible.
 >
-> At the bottom of the page, in smaller handwritten red pen: "PBS reviews 100s of PBM contracts a year. The gap is the pattern."
+> The five term entries, top to bottom (term name LARGE, definition snippet small, margin annotation BOLD):
 >
-> A black ballpoint pen rests at an angle in the top-right corner of the desk surface.
+> 1. **Gross Rebate.** "Total manufacturer payments before retention or offset." → Margin: "The headline number" (plus a yellow highlighter pass #F4E27B at 60% opacity over the typed line)
+> 2. **Net Pass-Through Rebate.** "Payments passed to the plan at contracted percentage." → Margin: "Compare to actual. The gap is real." (plus a red circle around "percentage")
+> 3. **Price Protection Rebate.** "Payments tied to drug price increases. Excluded from pass-through." → Margin: "Carved OUT of pass-through" (plus a red circle around "Excluded")
+> 4. **Administrative Fee.** "Classified as PBM admin compensation. Outside pass-through." → Margin: "Outside pass-through clause" (plus a red circle around "Outside")
+> 5. **Drug Education / Data Licensing.** "Payments for educational or data services. Not classified as rebate." → Margin: "Same. Reclassified, retained." (plus a red circle around "Not classified")
 >
-> Style: realistic paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style, uneven line spacing, minor ink variation) for authenticity. Colors: off-white contract paper (#F5F0E4), faint black printed legalese, red handwritten ballpoint, yellow highlighter (#F4E27B at 60% opacity), dark wood desk. No logos, no brand marks, no people, no PBM names, no client names. The image stands on its own without additional branding overlays.
+> **Title at the top of the page**, in large handwritten black marker (Permanent Marker style, 32-36pt), double-underlined: "Five rebate terms. Five definitions the PBM wrote."
+>
+> **Directly below the title**, in handwritten red pen (Caveat 20pt): "Four of them sit outside the pass-through clause."
+>
+> **At the bottom of the page**, in smaller handwritten red pen (Caveat 14pt): "PBS reviews 100s of PBM contracts a year. The gap is the pattern."
+>
+> Style: realistic paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style, uneven line spacing, minor ink variation) for authenticity. Colors: off-white contract paper (#F5F0E4), faint black printed legalese, red handwritten ballpoint, yellow highlighter (#F4E27B at 60% opacity), dark wood desk. No pen prop in the corner. No logos, no brand marks, no people, no PBM names, no client names. The image stands on its own without additional branding overlays.
+>
+> **Density check:** the image must read as a contract page with someone's annotations on it, NOT as an infographic. Term names dominant, definition snippets subordinate, margin annotations bold and visible. A scrolling reader at LinkedIn feed thumbnail (~600px wide) should be able to count five terms and read at least three of the margin annotations without expanding the image.
 
 **Post-Generation Steps:**
 1. Generate base image using the prompt above
@@ -717,7 +720,8 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 5. Verify the five term names render with visible distinction (different definitions, not repeated filler)
 6. Verify the yellow highlighter overlays the Gross Rebate definition only
 7. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
-8. Export as PNG at 1080 x 1350
+8. **Hard legibility gate before publish (added May 20 after W20 Tuesday underperformance diagnosis).** Open the exported PNG and resize the view to 600px wide (LinkedIn mobile feed thumbnail width). At that size, you must be able to: (a) read all five term names clearly, (b) read at least three of the five red-pen margin annotations without zooming, and (c) read the big black-marker title at the top. If any of these three fail, regenerate with stronger emphasis on Layer 1 (term names) and Layer 3 (margin annotations), OR hand-overlay the failing elements in Canva at the required sizes (Plex Sans SemiBold 22-24pt for term names, Caveat or Permanent Marker 18-20pt bold for margin annotations). Do not publish until the thumbnail-legibility test passes.
+9. Export as PNG at 1080 x 1350
 
 ---
 
