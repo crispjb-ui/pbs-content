@@ -720,6 +720,43 @@ Plug in: TITLE, DRUG NAME, MEMBER NAME (generic), ANNOTATIONS.
 
 ---
 
+## 21. Legal Pad with Contract Review Notes (PROVEN, May 2026)
+
+```
+Photorealistic top-down photo at 1080 x 1350 pixels (vertical 4:5). A yellow ruled legal pad lying flat on a dark wood desk surface under soft natural daylight. The pad fills about 85% of the frame. Standard legal pad detail: horizontal blue rule lines, a vertical red margin line down the left edge, a small metal binding strip at the top. The page is covered in handwritten notes from a PBM contract review — Caveat / Permanent Marker / Kalam style, slightly imperfect, with natural ink variation. Most writing is dark blue ballpoint; corrections, annotations, and margin notes are red ballpoint.
+
+CRITICAL: render all on-page text with attention to spelling and legibility. The [N] term names and the red margin annotations must be readable at LinkedIn feed thumbnail size (~600px wide).
+
+LAYER 1 PAGE HEADER (top, small): "§ [section reference] — PBM contract review notes." Faint pencil or smaller dark-blue pen.
+
+LAYER 2 TITLE: Large hand-written title in thick black permanent marker, double-underlined: "[TITLE — e.g., 'Five rebate terms. Five definitions the PBM wrote.']"
+
+LAYER 3 SUBTITLE: Hand-written red-pen subtitle directly below the title: "[SUBTITLE — e.g., 'Four of them sit outside the pass-through clause.']"
+
+LAYER 4 ENTRIES (body): [N] entries stacked vertically, each with three sub-layers:
+- Sub-layer A (dominant): Term name in large bold dark-blue ballpoint handwriting, underlined. This is the most visible element of the entry.
+- Sub-layer B (subordinate): A one-line handwritten definition under the term name in regular dark-blue ballpoint.
+- Sub-layer C (bold and visible at thumbnail): A red-pen margin annotation to the right of the entry in larger script.
+
+OPTIONAL within entries: pink or orange highlighter pass (~60% opacity, NOT yellow — yellow is invisible on a yellow legal pad) over key phrases, red ballpoint circles around contract-language weasel words.
+
+LAYER 5 BOTTOM HOOK: Handwritten red pen at the bottom of the page, slightly larger: "[CLOSING LINE — e.g., 'PBS reviews 100s of PBM contracts a year. The gap is the pattern.']"
+
+Style: realistic yellow legal pad with visible blue rule lines and red left margin line. Imperfect handwriting with natural variation. Soft natural daylight, no harsh shadows. The image must read as a real legal pad with hand-written contract review notes — NOT a designed infographic. No people, no logos, no PBM company names, no client names, no PBS branding overlay, no pen prop or extra desk clutter.
+
+Color palette: yellow ruled legal pad, blue horizontal rule lines, red left margin line, dark blue ballpoint handwriting, red ballpoint handwriting and circles, pink or orange highlighter at 60% opacity, dark wood desk visible at edges.
+
+Plug in: SECTION REFERENCE, TITLE, SUBTITLE, [N] ENTRIES (term name + one-line definition + margin annotation), CLOSING LINE.
+```
+
+**Best use:** Any "N terms decoded" or "N things you didn't know" post that needs to be thumbnail-legible without sacrificing photo-real authenticity. Originated May 2026 W20 Thursday "5 Rebate Terms Decoded" after the W20 Tuesday MAC vs WAC vs AWP Marked-Up Contract Page (template #16) underperformed (11 reactions) due to Plex Mono 11pt body text becoming illegible at LinkedIn feed thumbnail. Legal pad's all-handwritten nature solves the legibility-vs-authenticity tradeoff: handwriting is naturally larger and reads at thumbnail; the artifact ("contract review notes on a legal pad") is more authentic to what PBS actually does than rendering a fake contract page.
+
+**Why this beats template #16 (Marked-Up Contract Page) for high-density decoder content:** Marked-Up Contract Page hits a ceiling when you stack 5+ entries — each entry needs a typed legalese line, and those lines compete for legibility against the term names and margin annotations at LinkedIn feed thumbnail. Legal Pad replaces typed legalese with handwritten definition, which is naturally larger and lives in the same visual layer as the term name and margin annotation. Use Marked-Up Contract Page for 1-3 entries (W18 Channel Pricing's 17K success — 3 channels in one composition). Use Legal Pad for 4+ entries where the contract-page density would compress.
+
+**Pair with same-day Substack Field Note + Plan Sponsor Toolkit handout** per the Thursday Excellence Rule. The proprietary anchor ("PBS reviews 100s of PBM contracts a year") is built into the bottom hook so it ships with every Legal Pad image automatically.
+
+---
+
 ## Hybrid format summary and production cost
 
 | Format | Best for | First build | Subsequent builds |
