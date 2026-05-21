@@ -251,7 +251,7 @@ These handouts are the **lead-magnet ladder**. A vendor request for the PA score
 
 **Rules of production:**
 
-(a) **Source of truth is the HTML in `templates/documents/`.** The PDF is a render artifact. To update content, edit the HTML and re-render.
+(a) **Source of truth is the HTML in `templates/documents/`. The PDF is a render artifact and must stay in sync with the HTML at every commit (added May 21, 2026, required behavior).** Whenever Claude edits a toolkit HTML, Claude re-renders the matching PDF via WeasyPrint and includes both files in the same commit. The HTML and the PDF are never allowed to diverge on main. WeasyPrint is installed in the session environment (`pip install weasyprint` if not already present); render with `cd templates/documents && weasyprint <name>.html <name>.pdf`. Commit message should mention both the HTML change and the PDF re-render. If the user uploads the PDF to Wix Media for the live lead-magnet, the regenerated file from the commit is the version they upload — replacing the existing file at the existing pdf_url so leads continue to receive the updated worksheet via Email 1.
 
 (b) **Visual system is fixed.** PBS triangle wordmark in the page header, "PLAN SPONSOR TOOLKIT" eyebrow, numbered Primary Blue section pills, traffic-light Green/Yellow/Red indicators where there is a scoring rubric, redline-list section markers (§) where there is contract language, footer with "Benefit Blind Spots" attribution + rxbs.org + Substack URL + page number on every page. PBS v2 typography only (Plex Sans SemiBold display, Plex Sans Regular body, Plex Mono for numeric benchmarks and dates).
 
