@@ -106,7 +106,7 @@
        TITLE BLOCK (page 1 only)
        ============================================================ */
     .title-block {
-      margin-bottom: 10px;
+      margin-bottom: 6px;
     }
     .title-eyebrow {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -463,17 +463,13 @@
       html, body { background: none; }
       .doc-header { display: none; }
       .page {
-        width: auto;
         margin: 0;
-        padding: 0;
         box-shadow: none;
-        min-height: 0;
-        height: auto;
         page-break-after: always;
         break-after: page;
       }
       .page:last-child { page-break-after: auto; break-after: auto; }
-      @page { size: letter; margin: 0.35in 0.5in 0.35in 0.5in; }
+      @page { size: letter; margin: 0; }
     }
 
     /* ============================================================
@@ -542,8 +538,8 @@
     .cat-panel {
       border-left: 4px solid var(--accent);
       background: #FAFBFC;
-      padding: 5px 12px;
-      margin-bottom: 3px;
+      padding: 3px 11px;
+      margin-bottom: 2px;
     }
     .cat-head {
       display: flex;

@@ -108,7 +108,7 @@
        TITLE BLOCK (page 1 only)
        ============================================================ */
     .title-block {
-      margin-bottom: 12px;
+      margin-bottom: 8px;
     }
     .title-eyebrow {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -147,14 +147,14 @@
     .terms-used {
       font-family: 'IBM Plex Sans', sans-serif;
       font-style: normal;
-      font-size: 10.5px;
-      line-height: 1.5;
+      font-size: 9px;
+      line-height: 1.35;
       color: var(--gray);
-      background: rgba(167, 224, 250, 0.18);
+      background: rgba(167, 224, 250, 0.16);
       border-left: 3px solid var(--accent);
-      padding: 7px 11px;
-      margin-top: 8px;
-      margin-bottom: 4px;
+      padding: 4px 9px;
+      margin-top: 5px;
+      margin-bottom: 2px;
       border-radius: 0 4px 4px 0;
     }
     .terms-used .term-label {
@@ -202,7 +202,7 @@
       line-height: 1.55;
       color: #222;
     }
-    .section p { margin-bottom: 10px; }
+    .section p { margin-bottom: 6px; }
     .section strong {
       font-weight: 600;
       color: var(--primary);
@@ -214,10 +214,10 @@
     .data-checklist {
       background: #FAFBFC;
       border-left: 3px solid var(--accent);
-      padding: 14px 18px;
+      padding: 10px 16px;
       display: grid;
       grid-template-columns: 1fr 1fr;
-      gap: 8px 24px;
+      gap: 5px 22px;
     }
     .data-checklist .item {
       display: flex;
@@ -268,9 +268,9 @@
     .score-table tbody td {
       font-family: 'IBM Plex Sans', sans-serif;
       font-size: 11px;
-      line-height: 1.35;
+      line-height: 1.25;
       color: #1a1a1a;
-      padding: 4px 10px;
+      padding: 3px 10px;
       vertical-align: top;
     }
     .score-table td.metric {
@@ -369,8 +369,8 @@
     .action-box {
       background: var(--primary);
       color: var(--white);
-      padding: 6px 13px;
-      margin-bottom: 4px;
+      padding: 4px 11px;
+      margin-bottom: 3px;
       border-left: 4px solid var(--accent);
     }
     .action-trigger {
@@ -380,33 +380,33 @@
       letter-spacing: 0.16em;
       text-transform: uppercase;
       color: var(--accent);
-      margin-bottom: 3px;
+      margin-bottom: 2px;
       display: block;
     }
     .action-title {
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 600;
-      font-size: 12.5px;
+      font-size: 12px;
       color: var(--white);
-      margin-bottom: 4px;
+      margin-bottom: 2px;
     }
     .action-body {
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 11px;
-      line-height: 1.4;
+      font-size: 10.5px;
+      line-height: 1.35;
       color: rgba(255,255,255,0.92);
     }
 
     .redline-list {
-      margin-top: 4px;
+      margin-top: 3px;
       padding-left: 0;
       list-style: none;
     }
     .redline-list li {
-      padding: 3px 10px 3px 22px;
+      padding: 2px 10px 2px 22px;
       border-left: 3px solid var(--accent);
       background: #F8FAFC;
-      margin-bottom: 2px;
+      margin-bottom: 1px;
       position: relative;
       font-family: 'IBM Plex Sans', sans-serif;
       font-size: 10.5px;
@@ -470,9 +470,9 @@
       font-style: italic;
       font-size: 9.5px;
       color: var(--gray-2);
-      line-height: 1.4;
-      margin-top: 10px;
-      margin-bottom: 16px;
+      line-height: 1.35;
+      margin-top: 6px;
+      margin-bottom: 10px;
     }
 
     /* ============================================================
@@ -482,17 +482,13 @@
       html, body { background: none; }
       .doc-header { display: none; }
       .page {
-        width: auto;
         margin: 0;
-        padding: 0;
         box-shadow: none;
-        min-height: 0;
-        height: auto;
         page-break-after: always;
         break-after: page;
       }
       .page:last-child { page-break-after: auto; break-after: auto; }
-      @page { size: letter; margin: 0.4in 0.5in 0.4in 0.5in; }
+      @page { size: letter; margin: 0; }
     }
 
     /* ============================================================
@@ -645,9 +641,9 @@
     <p class="subtitle">A worksheet for auditing per-channel net cost on your top 10 drugs by spend. The retail, mail-order, and specialty channels rarely match, and the spread is the design choice your PBM made for you.</p>
     <p class="terms-used">
       <span class="term-label">Terms used.</span>
-      <span class="term-label">Net cost</span> = what your plan actually pays per script after AWP discount, dispensing fee, and rebate allocation.
-      <span class="term-label">AWP</span> = Average Wholesale Price, a published reference rate PBM discount guarantees are expressed against.
-      <span class="term-label">Dispensing fee</span> = a flat per-script administrative fee the PBM charges in addition to ingredient cost.
+      <span class="term-label">Net cost</span> = what your plan pays per script after AWP discount, dispensing fee, and rebates.
+      <span class="term-label">AWP</span> = Average Wholesale Price, a published reference rate PBM discounts are calculated against.
+      <span class="term-label">Dispensing fee</span> = per-script administrative fee added to ingredient cost.
       <span class="term-label">GER</span> = Generic Effective Rate, the negotiated minimum percentage discount off AWP for generics.
     </p>
   </div>
