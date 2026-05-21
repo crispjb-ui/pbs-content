@@ -669,14 +669,14 @@ The table body has roughly 12 rows in small Plex Mono Regular 9pt black type —
 Three of the rows are physically highlighted with marker passes, each a different color, and each row shows the SAME drug "Atorvastatin 40mg" with the SAME MAC value "$4.20" but a different channel and different Plan Paid amount:
 - Yellow highlighter pass (#F4E27B at 60% opacity) on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
 - Green highlighter pass (#B8E6B8 at 60% opacity) on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $7.60"
-- Pink highlighter pass (#F4B8C8 at 60% opacity) on the PBM-Owned Pharmacy row: "Atorvastatin 40mg | Owned Specialty | NDC 00378-2375 | $4.20 | $11.30"
+- Pink highlighter pass (#F4B8C8 at 60% opacity) on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $11.30"
 
 Across the top of the page, in large handwritten red permanent marker (Permanent Marker style, 32pt, double-underlined): "Same drug. Same MAC. Three margins."
 
 To the right of each highlighted row, in handwritten red ballpoint (Caveat or Permanent Marker style, 18pt bold), arrows draw from the row to the annotation:
 - Right of the yellow row: "Retail. Margin $0.85."
 - Right of the green row: "Mail. Margin $3.40."
-- Right of the pink row: "Owned pharmacy. Margin $7.10."
+- Right of the pink row: "PBM-owned mail. Margin $7.10."
 
 At the bottom of the page, in smaller handwritten red pen (Caveat style, 14pt): "The MAC list is public. The margin is not."
 
@@ -706,14 +706,14 @@ The report's content, top to bottom:
 
    - YELLOW highlighter on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
    - GREEN highlighter on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $7.60"
-   - PINK highlighter on the PBM-Owned Pharmacy row: "Atorvastatin 40mg | Owned Specialty | NDC 00378-2375 | $4.20 | $11.30"
+   - PINK highlighter on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $11.30"
 
 5. Across the top of the page (overlaid over the page header area), a large hand-written red-marker title in thick Permanent Marker style, double-underlined: "Same drug. Same MAC. Three margins."
 
 6. To the right of each highlighted row, in bold red handwritten ballpoint (Caveat or Permanent Marker style), with a hand-drawn arrow pointing from the annotation to the row:
    - Beside the yellow row: "Retail. Margin $0.85."
    - Beside the green row: "Mail. Margin $3.40."
-   - Beside the pink row: "Owned pharmacy. Margin $7.10."
+   - Beside the pink row: "PBM-owned mail. Margin $7.10."
 
 7. At the bottom of the page, in smaller handwritten red pen: "The MAC list is public. The margin is not."
 
