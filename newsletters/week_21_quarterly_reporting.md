@@ -668,15 +668,15 @@ The table body has roughly 12 rows in small Plex Mono Regular 9pt black type —
 
 Three of the rows are physically highlighted with marker passes, each a different color, and each row shows the SAME drug "Atorvastatin 40mg" with the SAME MAC value "$4.20" but a different channel and different Plan Paid amount:
 - Yellow highlighter pass (#F4E27B at 60% opacity) on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
-- Green highlighter pass (#B8E6B8 at 60% opacity) on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $7.60"
-- Pink highlighter pass (#F4B8C8 at 60% opacity) on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $11.30"
+- Green highlighter pass (#B8E6B8 at 60% opacity) on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $6.60"
+- Pink highlighter pass (#F4B8C8 at 60% opacity) on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $9.40"
 
 Across the top of the page, in large handwritten red permanent marker (Permanent Marker style, 32pt, double-underlined): "Same drug. Same MAC. Three margins."
 
 To the right of each highlighted row, in handwritten red ballpoint (Caveat or Permanent Marker style, 18pt bold), arrows draw from the row to the annotation:
 - Right of the yellow row: "Retail. Margin $0.85."
-- Right of the green row: "Mail. Margin $3.40."
-- Right of the pink row: "PBM-owned mail. Margin $7.10."
+- Right of the green row: "Mail. Margin $2.40."
+- Right of the pink row: "PBM-owned mail. Margin $5.20."
 
 At the bottom of the page, in smaller handwritten red pen (Caveat style, 14pt): "The MAC list is public. The margin is not."
 
@@ -705,15 +705,15 @@ The report's content, top to bottom:
 4. Three of the rows are highlighted with marker passes (about 60% opacity, slightly imperfect strokes), each a different color, and EACH HIGHLIGHTED ROW SHOWS THE SAME DRUG ("Atorvastatin 40mg") WITH THE SAME MAC ("$4.20") BUT A DIFFERENT CHANNEL AND DIFFERENT PLAN PAID AMOUNT:
 
    - YELLOW highlighter on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
-   - GREEN highlighter on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $7.60"
-   - PINK highlighter on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $11.30"
+   - GREEN highlighter on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $6.60"
+   - PINK highlighter on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $9.40"
 
 5. Across the top of the page (overlaid over the page header area), a large hand-written red-marker title in thick Permanent Marker style, double-underlined: "Same drug. Same MAC. Three margins."
 
 6. To the right of each highlighted row, in bold red handwritten ballpoint (Caveat or Permanent Marker style), with a hand-drawn arrow pointing from the annotation to the row:
    - Beside the yellow row: "Retail. Margin $0.85."
-   - Beside the green row: "Mail. Margin $3.40."
-   - Beside the pink row: "PBM-owned mail. Margin $7.10."
+   - Beside the green row: "Mail. Margin $2.40."
+   - Beside the pink row: "PBM-owned mail. Margin $5.20."
 
 7. At the bottom of the page, in smaller handwritten red pen: "The MAC list is public. The margin is not."
 
@@ -731,7 +731,7 @@ No people, no logos, no real PBM company names, no client names, no PBS branding
 4. Verify each of the three margin annotations renders legibly with the correct margin dollar value ($0.85 / $3.40 / $7.10)
 5. If any text renders illegibly or misspelled (including drug names, NDC codes, or channel labels), overlay clean text in Canva using Plex Mono for printed data and Permanent Marker / Caveat for handwriting
 6. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
-7. **Hard legibility gate before publish:** resize the exported PNG view to 600px wide. You must be able to read the big handwritten title, the three margin dollar values ($0.85 / $3.40 / $7.10), and the channel names in the annotations without zooming. The smaller printed claims data does NOT need to be readable at thumbnail (it provides authenticity but isn't the message). If any of the three required elements fail, regenerate or hand-overlay in Canva.
+7. **Hard legibility gate before publish:** resize the exported PNG view to 600px wide. You must be able to read the big handwritten title, the three margin dollar values ($0.85 / $2.40 / $5.20), and the channel names in the annotations without zooming. The smaller printed claims data does NOT need to be readable at thumbnail (it provides authenticity but isn't the message). If any of the three required elements fail, regenerate or hand-overlay in Canva.
 8. Export as PNG at 1080 x 1350
 
 ---
