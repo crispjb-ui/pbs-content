@@ -144,6 +144,23 @@
       color: var(--gray);
       line-height: 1.4;
     }
+    .terms-used {
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-style: normal;
+      font-size: 10.5px;
+      line-height: 1.5;
+      color: var(--gray);
+      background: rgba(167, 224, 250, 0.18);
+      border-left: 3px solid var(--accent);
+      padding: 7px 11px;
+      margin-top: 8px;
+      margin-bottom: 4px;
+      border-radius: 0 4px 4px 0;
+    }
+    .terms-used .term-label {
+      font-weight: 600;
+      color: var(--primary);
+    }
 
     /* ============================================================
        SECTION
@@ -625,7 +642,14 @@
   <div class="title-block">
     <span class="title-eyebrow">Channel Pricing · Audit Worksheet</span>
     <h1 class="title">Same Drug. Three Channels. Three Prices.</h1>
-    <p class="subtitle">A worksheet for auditing per-channel net cost on your top 10 drugs by spend. The retail, mail-order, and specialty channels rarely match — and the spread is the design choice your PBM made for you.</p>
+    <p class="subtitle">A worksheet for auditing per-channel net cost on your top 10 drugs by spend. The retail, mail-order, and specialty channels rarely match, and the spread is the design choice your PBM made for you.</p>
+    <p class="terms-used">
+      <span class="term-label">Terms used.</span>
+      <span class="term-label">Net cost</span> = what your plan actually pays per script after AWP discount, dispensing fee, and rebate allocation.
+      <span class="term-label">AWP</span> = Average Wholesale Price, a published reference rate PBM discount guarantees are expressed against.
+      <span class="term-label">Dispensing fee</span> = a flat per-script administrative fee the PBM charges in addition to ingredient cost.
+      <span class="term-label">GER</span> = Generic Effective Rate, the negotiated minimum percentage discount off AWP for generics.
+    </p>
   </div>
 
   <div class="section">

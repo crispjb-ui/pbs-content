@@ -279,6 +279,19 @@ The repo-level companion file `email_gated_toolkit/toolkit_dataset.md` consolida
 
 Applies to all newsletter week files from W20 forward. Backfill prior weeks (W16-W19) as bandwidth allows; do not block forward content production on backfill. When a week ships zero toolkits (rare), the section can be omitted with a one-line note `_No Plan Sponsor Toolkit shipping this week._` so the absence is intentional and visible.
 
+(i) **Glossary convention for toolkit handouts (added May 21, 2026, required behavior on every new toolkit and every toolkit update).** Every toolkit HTML in `templates/documents/` that uses PBM technical terms in narrative content (net cost, AWP, MAC, GER, dispensing fee, rebate, biosimilar, fiduciary, etc.) must include a "Terms used" callout block on page 1, directly under the subtitle and before the first section. The callout uses the `.terms-used` CSS class established in `week_18_channel_pricing_audit_worksheet.html` (compact gray-text block with Accent Blue left border). Each term defined in one line using the **Compact form for callouts** from the canonical glossary at `templates/documents/_glossary_terms.md`. The canonical glossary file is the single source of truth — definitions live there; toolkits pull the subset of terms they use.
+
+  **Workflow when building or updating a toolkit:**
+  - Scan the toolkit's narrative content for PBM technical terms (strip base64 image data first via `sed -E 's/data:image\/[^"]*//g; s/<[^>]+>/ /g'` if grepping the HTML directly).
+  - For each term the toolkit uses, look up the compact form in `_glossary_terms.md`. Drop it into the page 1 `.terms-used` callout.
+  - Add the toolkit's name to the term's `**Used in:**` list in `_glossary_terms.md` so a future definition change propagates correctly.
+  - If the toolkit uses a term not yet in `_glossary_terms.md`, add the term to the glossary file FIRST with full definition + compact form, then reference it in the toolkit.
+  - **Hard constraint: 2-page page count.** Most toolkits are intentionally 2 pages. The callout adds ~3-4 lines under the subtitle on page 1. If a toolkit's page 1 is already tight, trim the callout to the 2-3 most-critical terms rather than overflowing to page 3. If even a trimmed callout would force a page break, flag the toolkit as a spacing exception in the commit message and skip the callout (the inline use of the term in body text is the fallback definition mechanism).
+
+  **Propagation when a definition is refined:** if the wording of a term changes in `_glossary_terms.md`, update every toolkit listed under that term's `**Used in:**` field with the new wording. Re-render the affected PDFs.
+
+  **Canonical pattern reference:** `templates/documents/week_18_channel_pricing_audit_worksheet.html` is the prototype for the callout structure (CSS + markup placement). Future toolkits copy the same pattern.
+
 ## Six Content Pillars
 
 1. **Transparency & Industry Education** - How the PBM industry works
