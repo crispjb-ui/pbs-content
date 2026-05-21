@@ -340,6 +340,22 @@ This week's Benefit Blind Spots includes the full **15-line quarterly reporting 
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+---
+
+### LinkedIn Newsletter Publish Post Copy
+
+**Post Copy (65 words):**
+
+New issue of The Pharmacy Benefits Briefing.
+
+Your PBM's quarterly report runs 14 pages. The three numbers that determine your next renewal price are not in it.
+
+This briefing walks through the five sections every standard report has, the 15 lines a complete report should have, and the gap to bring to your broker before renewal.
+
+15-line checklist plus protective contract language on Substack.
+
+#PBMTransparency #SelfFundedEmployers #PharmacyBenefits
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #3: Reading Your PBM's Quarterly Report
