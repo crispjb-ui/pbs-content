@@ -731,11 +731,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Reshare Copy
 
-MAC, WAC, and AWP are three different drug pricing reference rates. The PBM contract names one of them (or a derivative) as the basis for the pricing guarantee, and most plan sponsors do not know which.
+Five terms in your rebate report. Four sit outside the pass-through clause by definition. The contract section that defines them is where the leverage lives, and most plan sponsors never read it.
 
-Ginny Crisp decodes the three reference rates and the gap each one hides.
+Ginny Crisp decodes the five rebate-economics terms PBMs use and shows where the pass-through actually stops.
 
-#PBMTransparency #PBMContracts #PharmacyBenefits
+#PBMContracts #Rebates #SelfFundedEmployers
 
 ---
 
