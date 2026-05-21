@@ -17,7 +17,7 @@
 | Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 28 | 7:30 AM | Substack | Field Note: "Five Lines to Read First in Your PBM's Quarterly Report" | [ ] |
-| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Same MAC. Different dispensing channel. Different margin. (Single-image messy infographic, Three Prescription Receipts aesthetic, Slot B evergreen rotation) | [ ] |
+| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Same MAC. Different dispensing channel. Different margin. (Single-image messy infographic, Claims Report with three highlighted rows aesthetic, Slot B evergreen rotation) | [ ] |
 | Thu May 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 75 | [ ] |
 | Thu May 28 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 29 | 8:30 AM | LinkedIn Feed | Post 76 - "The Therapy That Changes Everything" Tease Hook (TEXT) | [ ] |
@@ -611,9 +611,9 @@ This week's Benefit Blind Spots deep dive on PBM quarterly reporting is the oper
 ## Post 75 - Thursday 8:30 AM
 ### Thursday Excellence Slot (Slot B) - Same MAC. Different dispensing channel. Different margin.
 
-> **Format conversion (May 20, 2026):** Originally drafted as a 6-slide carousel. Converted to a single-image messy infographic because Tuesday's Library 02 already occupies the carousel slot for the week, and the W20 Tuesday underperformance (MAC vs WAC vs AWP Marked-Up Contract Page, 11 reactions) plus W20 Thursday's Legal Pad success suggest a unique-spin messy infographic is the right Thursday play. The "Three Prescription Receipts on a Desk" concept keeps the W18 Channel Pricing photoreal DNA (the proven 17K winner aesthetic) but uses pharmacy receipts as the artifact instead of a contract page — visually distinct from W20 Tuesday's contract page, W20 Thursday's legal pad, and W21 Tuesday's Library 02 carousel.
+> **Format conversion (May 20, 2026; aesthetic revised May 21):** Originally drafted as a 6-slide carousel. Converted to a single-image messy infographic because Tuesday's Library 02 already occupies the carousel slot for the week, and the W20 Tuesday underperformance (MAC vs WAC vs AWP Marked-Up Contract Page, 11 reactions) plus W20 Thursday's Legal Pad success suggest a unique-spin messy infographic is the right Thursday play. After review, the "Three Prescription Receipts" aesthetic felt too static at thumbnail, so the artifact shifted to a single printed PBM claims report with three highlighted rows showing the same drug at different channels — reads as "PBS doing the audit," matches the W18 Channel Pricing 17K winner photoreal DNA, and is visually distinct from W20 Tuesday's contract page, W20 Thursday's legal pad, and W21 Tuesday's Library 02 carousel.
 
-- **Slot:** Thursday Excellence (Slot B — single-image messy infographic, photoreal Three Prescription Receipts aesthetic)
+- **Slot:** Thursday Excellence (Slot B — single-image messy infographic, photoreal Claims Report aesthetic with three highlighted rows)
 - **Format:** Single image messy infographic, 1080 x 1350 px
 - **Pillar:** Transparency & Industry Education (with ChannelPricing topic anchor)
 - **Topic:** Same MAC. Different dispensing channel. Different margin.
@@ -644,40 +644,45 @@ Ask for both. Save this for your next renewal conversation.
 
 Today's Field Note on Benefit Blind Spots is the audit framework for the channel-margin question above: three comparison passes plan sponsors can run on their own claims data (MAC schedule vs. actuals, per-channel margin spread, contract pass-through clause check), the pattern PBS finds across ~100 contract reviews per year, and what to bring to the next quarterly review. Thirty-minute read with your contract's MAC clause and a 150-claim sample next to you. [SUBSTACK FIELD NOTE URL]
 
-#### Three Prescription Receipts Concept
+#### Claims Report with Three Highlighted Rows Concept
 
-**Aesthetic:** Photoreal close-up of three pharmacy prescription receipts laid out on a desk surface, each receipt showing the same drug at a different channel with a different margin printed at the bottom. Handwritten red-pen margin annotations connect them. Same DNA as the W18 Channel Pricing 17K winner (paper-card photoreal aesthetic) — but the physical artifact is pharmacy receipts, not a contract page.
+**Aesthetic:** Photoreal close-up of a printed PBM claims report page on a dark wood desk, with three rows physically highlighted in three different colors and red-pen handwritten margin annotations pointing to each. Reads as "PBS doing the audit" — the visual is the actual artifact behind channel pricing economics. Same DNA as the W18 Channel Pricing 17K winner (paper-on-desk photoreal) but the artifact is a claims-data printout rather than a contract clause.
 
 **Visual hierarchy (must read at LinkedIn feed thumbnail ~600px wide):**
-- Layer 1 (dominant): Big handwritten title at the top — "Same MAC. Different channel. Different margin." in thick black permanent marker, double-underlined
-- Layer 2 (anchor): Three receipts in a row, each with a clearly readable channel name header (Retail Chain / Mail Order / PBM-Owned Pharmacy) and a margin value printed at the bottom in Plex Mono Medium
-- Layer 3 (the punchline at thumbnail): Three red-pen handwritten margin annotations labeled "Margin: $X" / "Margin: $Y" / "Margin: $Z" connecting the receipts, plus a bottom hook line
+- Layer 1 (dominant): Large handwritten red-marker title across the top of the page — "Same drug. Same MAC. Three margins." in thick Permanent Marker style, double-underlined
+- Layer 2 (anchor): Three highlighted rows in the body of the claims report, each in a different color (yellow, green, pink), each showing the same drug at a different channel with a different per-script cost
+- Layer 3 (punchline): Red-pen handwritten margin annotations to the right of each highlighted row naming the channel and the margin (e.g., "Retail. $0.85 margin." / "Mail. $3.40." / "PBM-owned. $7.10.")
 
 **Image Generation Prompt — Gemini (Imagen 4):**
 
 ```
-Photorealistic top-down photo, vertical 4:5 aspect ratio (1080x1350 px). Three printed pharmacy prescription receipts laid out side by side in a row on a dark wood desk surface under soft natural daylight. The receipts fill the middle 60% of the frame. Each receipt is a narrow thermal-style pharmacy slip, off-white paper, crisp but slightly curled at the edges, with faint shadows beneath.
+Photorealistic top-down photo, vertical 4:5 aspect ratio (1080x1350 px). A single printed PBM claims report page rests on a dark wood desk under soft natural daylight. The page is slightly off-white (#F5F0E4), positioned at a barely-perceptible 2-degree angle for authenticity, with a faint edge shadow.
 
-Render all on-receipt and on-desk text exactly as written, with careful attention to spelling and legibility. The three channel headers, the three margin values, and the red handwritten annotations must be readable at LinkedIn feed thumbnail size (about 600 pixels wide).
+Render all on-page and margin text exactly as written, with attention to spelling and legibility. The handwritten title, the three highlighted-row values, and the red margin annotations must all be readable at LinkedIn feed thumbnail size (about 600 pixels wide).
 
-Each receipt is structured top to bottom:
-- Channel header in bold black Plex Sans SemiBold (large): "RETAIL CHAIN" (left receipt), "MAIL ORDER" (middle), "PBM-OWNED PHARMACY" (right)
-- A horizontal printed line: "Drug: Atorvastatin 40mg"
-- A horizontal printed line: "MAC: $4.20"
-- A bold horizontal printed line at the bottom in Plex Mono Medium: "Margin: $0.85" (left receipt), "Margin: $3.40" (middle), "Margin: $7.10" (right)
+At the top of the page, a small printed report header in bold black serif type: "PHARMACY BENEFIT MANAGEMENT · QUARTERLY CLAIMS DETAIL · Q1 2026."
 
-Above the three receipts, on the wood desk surface, a large handwritten title in thick black permanent marker, double-underlined: "Same MAC. Different channel. Different margin."
+Below the header, a printed table with five column headers in small uppercase Plex Sans SemiBold: DRUG, CHANNEL, NDC, MAC, PLAN PAID.
 
-Three handwritten red-pen annotations (Caveat or Permanent Marker style, bold red ink) connect to each receipt with small arrows:
-- Above the left receipt's margin line, red note: "One PBM."
-- Above the middle receipt's margin line, red note: "Same PBM."
-- Above the right receipt's margin line, red note: "Same PBM."
+The table body has roughly 12 rows in small Plex Mono Regular 9pt black type — realistic claims data with plausible generic drug names (Metformin 500mg, Lisinopril 10mg, Amlodipine 5mg, Levothyroxine 50mcg, etc.), each row showing a channel, an NDC, a MAC value, and a plan-paid amount. The rows look like real PBM claims data: dense, monospace, slightly mundane.
 
-At the bottom of the image, on the desk surface in handwritten red pen: "The MAC list is public. The margin is not."
+Three of the rows are physically highlighted with marker passes, each a different color, and each row shows the SAME drug "Atorvastatin 40mg" with the SAME MAC value "$4.20" but a different channel and different Plan Paid amount:
+- Yellow highlighter pass (#F4E27B at 60% opacity) on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
+- Green highlighter pass (#B8E6B8 at 60% opacity) on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $7.60"
+- Pink highlighter pass (#F4B8C8 at 60% opacity) on the PBM-Owned Pharmacy row: "Atorvastatin 40mg | Owned Specialty | NDC 00378-2375 | $4.20 | $11.30"
 
-Style: realistic thermal-receipt paper texture with slight curl, soft natural daylight, subtle shadows under each receipt. Slightly imperfect handwriting with natural variation. Colors: off-white thermal receipts (#F5F0E4), black printed text, red handwritten ballpoint, dark wood desk.
+Across the top of the page, in large handwritten red permanent marker (Permanent Marker style, 32pt, double-underlined): "Same drug. Same MAC. Three margins."
 
-No people, no logos, no PBM company names, no pharmacy brand names, no extra props (no pen prop, no coffee cup), no PBS branding overlay. The image stands on its own.
+To the right of each highlighted row, in handwritten red ballpoint (Caveat or Permanent Marker style, 18pt bold), arrows draw from the row to the annotation:
+- Right of the yellow row: "Retail. Margin $0.85."
+- Right of the green row: "Mail. Margin $3.40."
+- Right of the pink row: "Owned pharmacy. Margin $7.10."
+
+At the bottom of the page, in smaller handwritten red pen (Caveat style, 14pt): "The MAC list is public. The margin is not."
+
+Style: realistic paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting with natural variation. Highlighter strokes have slightly uneven edges (not perfect rectangles) for authenticity. No people, no logos, no real PBM company names, no client names, no extra props (no coffee cup, no pen prop), no PBS branding overlay.
+
+Color palette: dark wood desk, off-white claims-report paper (#F5F0E4), faint black printed claims data, yellow highlighter (#F4E27B), green highlighter (#B8E6B8), pink highlighter (#F4B8C8), red handwritten ballpoint and marker (#C0392B).
 ```
 
 **Image Generation Prompt — ChatGPT (GPT-4o):**
@@ -685,42 +690,48 @@ No people, no logos, no PBM company names, no pharmacy brand names, no extra pro
 ```
 Generate a photorealistic top-down photograph at 1080x1350 pixels (vertical 4:5).
 
-The scene: three pharmacy prescription receipts laid out in a row on a dark wood desk surface under soft natural daylight. The receipts occupy the middle 60% of the frame. Each receipt is a narrow thermal-style pharmacy slip on off-white paper, crisp but slightly curled at the edges, casting subtle shadows on the desk.
+The scene: a single page of a printed PBM claims report lying flat on a dark wood desk under soft natural daylight. The page is slightly off-white, angled about 2 degrees, with a soft shadow underneath. The page fills about 85% of the frame.
 
-Important: render all on-receipt and on-desk text exactly as written, with careful attention to spelling and legibility. The three channel headers, the three margin values, and the red handwritten annotations are the most important text elements — they must be readable at LinkedIn feed thumbnail size (about 600 pixels wide). No extra decorative props on the desk — no coffee cup, no pen, no books, no clutter.
+Important: render all text on the page and in the handwritten margin annotations with careful attention to spelling and legibility. The handwritten title, the three highlighted rows, and the three red margin annotations are the most important text elements — they must be readable at LinkedIn feed thumbnail size (about 600 pixels wide). No additional decorative props on the desk — no coffee cup, no pen, no books, no clutter.
 
-The three receipts, left to right, each structured top to bottom:
+The report's content, top to bottom:
 
-LEFT RECEIPT — Channel header in bold black Plex Sans SemiBold (large): "RETAIL CHAIN." Below: "Drug: Atorvastatin 40mg." Below: "MAC: $4.20." Bottom line, bold Plex Mono Medium: "Margin: $0.85."
+1. Small printed header at the top: "PHARMACY BENEFIT MANAGEMENT · QUARTERLY CLAIMS DETAIL · Q1 2026"
 
-MIDDLE RECEIPT — Channel header in bold black Plex Sans SemiBold (large): "MAIL ORDER." Below: "Drug: Atorvastatin 40mg." Below: "MAC: $4.20." Bottom line, bold Plex Mono Medium: "Margin: $3.40."
+2. A printed table with five column headers in small uppercase letters: DRUG, CHANNEL, NDC, MAC, PLAN PAID
 
-RIGHT RECEIPT — Channel header in bold black Plex Sans SemiBold (large): "PBM-OWNED PHARMACY." Below: "Drug: Atorvastatin 40mg." Below: "MAC: $4.20." Bottom line, bold Plex Mono Medium: "Margin: $7.10."
+3. About 12 rows of small printed claims data in monospace font. Use plausible generic drug names (Metformin 500mg, Lisinopril 10mg, Amlodipine 5mg, Levothyroxine 50mcg, Omeprazole 20mg, etc.). Each row shows a channel, an NDC code, a MAC value, and a plan-paid amount. The rows should look like real, mundane claims data.
 
-Above all three receipts, on the wood desk surface, a large hand-written title in thick black permanent marker, double-underlined: "Same MAC. Different channel. Different margin."
+4. Three of the rows are highlighted with marker passes (about 60% opacity, slightly imperfect strokes), each a different color, and EACH HIGHLIGHTED ROW SHOWS THE SAME DRUG ("Atorvastatin 40mg") WITH THE SAME MAC ("$4.20") BUT A DIFFERENT CHANNEL AND DIFFERENT PLAN PAID AMOUNT:
 
-Three handwritten red-pen annotations (Caveat or Permanent Marker style, bold red ink) sit just above each receipt's margin line with a small drawn arrow pointing down to it:
-- Above the left receipt: "One PBM."
-- Above the middle receipt: "Same PBM."
-- Above the right receipt: "Same PBM."
+   - YELLOW highlighter on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
+   - GREEN highlighter on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $7.60"
+   - PINK highlighter on the PBM-Owned Pharmacy row: "Atorvastatin 40mg | Owned Specialty | NDC 00378-2375 | $4.20 | $11.30"
 
-At the bottom of the image, on the desk surface in handwritten red pen: "The MAC list is public. The margin is not."
+5. Across the top of the page (overlaid over the page header area), a large hand-written red-marker title in thick Permanent Marker style, double-underlined: "Same drug. Same MAC. Three margins."
 
-Style: realistic thermal-receipt paper texture with slight natural curl, soft natural daylight, subtle shadows under each receipt. Imperfect handwriting with natural variation. The image should read as three real pharmacy receipts that someone laid out on their desk and annotated — not as a designed infographic.
+6. To the right of each highlighted row, in bold red handwritten ballpoint (Caveat or Permanent Marker style), with a hand-drawn arrow pointing from the annotation to the row:
+   - Beside the yellow row: "Retail. Margin $0.85."
+   - Beside the green row: "Mail. Margin $3.40."
+   - Beside the pink row: "Owned pharmacy. Margin $7.10."
 
-Color palette: off-white thermal receipt paper (#F5F0E4), black printed receipt text, red handwritten ballpoint, dark wood desk.
+7. At the bottom of the page, in smaller handwritten red pen: "The MAC list is public. The margin is not."
 
-No people, no logos, no PBM company names, no pharmacy brand names, no PBS branding overlay.
+Style notes: realistic paper texture, soft natural daylight, slight imperfections in the handwriting (uneven line spacing, minor ink variation), highlighter strokes that aren't perfect rectangles. The image should read as a real claims report that someone (a pharmacy benefits auditor) printed out and physically annotated by hand. Not as a designed infographic.
+
+Color palette: dark wood desk surface, off-white claims paper (#F5F0E4), faint black printed claims data, yellow highlighter (#F4E27B), green highlighter (#B8E6B8), pink highlighter (#F4B8C8), red handwritten marker and ballpoint (#C0392B).
+
+No people, no logos, no real PBM company names, no client names, no PBS branding overlay.
 ```
 
 **Post-Generation Steps:**
 1. Generate base image using either Gemini or ChatGPT prompt above
-2. Verify the three channel headers (RETAIL CHAIN / MAIL ORDER / PBM-OWNED PHARMACY) render with distinct text and are readable at thumbnail
-3. Verify the three margin values ($0.85 / $3.40 / $7.10) are visibly different and legible at thumbnail
-4. Verify the title "Same MAC. Different channel. Different margin." is readable at feed thumbnail size
-5. If any handwritten text renders illegibly or with misspellings, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching ink color
+2. Verify the three highlighted rows render with the correct three colors (yellow, green, pink) and that each highlighted row shows the same drug name + same MAC + different Plan Paid amount
+3. Verify the handwritten title "Same drug. Same MAC. Three margins." renders legibly at the top
+4. Verify each of the three margin annotations renders legibly with the correct margin dollar value ($0.85 / $3.40 / $7.10)
+5. If any text renders illegibly or misspelled (including drug names, NDC codes, or channel labels), overlay clean text in Canva using Plex Mono for printed data and Permanent Marker / Caveat for handwriting
 6. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
-7. **Hard legibility gate before publish:** resize the exported PNG view to 600px wide. You must be able to read all three channel headers, all three margin values, the big handwritten title, and at least two of the red margin annotations without zooming. If any fail, regenerate with stronger emphasis on those elements, or hand-overlay in Canva.
+7. **Hard legibility gate before publish:** resize the exported PNG view to 600px wide. You must be able to read the big handwritten title, the three margin dollar values ($0.85 / $3.40 / $7.10), and the channel names in the annotations without zooming. The smaller printed claims data does NOT need to be readable at thumbnail (it provides authenticity but isn't the message). If any of the three required elements fail, regenerate or hand-overlay in Canva.
 8. Export as PNG at 1080 x 1350
 
 ---
@@ -885,7 +896,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Post 73 Library 02 Contract Comparison carousel created - "The Five Clauses the Best Brokers Check First" (7 slides, matches Library 01 standard) — Broker/Consultant Resources pillar, DIFFERENT from Monday's Transparency & Industry Education pillar
 - [ ] Post 73 first comment drafted with link to LinkedIn Newsletter
 - [ ] Post 74 text post finalized - "14 pages. 3 numbers. None of them are in the report." Wednesday tease hook
-- [ ] Post 75 SLOT B single-image messy infographic designed - "Same MAC. Different dispensing channel. Different margin." (Three Prescription Receipts photoreal aesthetic, Transparency & Industry Education pillar; Thursday evergreen rotation Slot B). See PART 3 Post 75 for image generation prompts (Gemini and ChatGPT versions) and legibility gate.
+- [ ] Post 75 SLOT B single-image messy infographic designed - "Same MAC. Different dispensing channel. Different margin." (Claims Report with three highlighted rows photoreal aesthetic, Transparency & Industry Education pillar; Thursday evergreen rotation Slot B). See PART 3 Post 75 for image generation prompts (Gemini and ChatGPT versions) and legibility gate.
 - [ ] Post 76 text post finalized - "The Therapy That Changes Everything" tease hook (teases W22 biosimilar strategy)
 - [ ] Company reshares scheduled (Tue + Thu at 1:30 PM)
 - [ ] All Substack Notes drafted (morning/afternoon cadence, Mon-Fri + Saturday engagement)
@@ -896,7 +907,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 # PART 6: ASSETS NEEDED
 
 - [ ] Post 73: Library 02 Contract Comparison carousel (7 slides, 1080 x 1350 px each) - "The Five Clauses the Best Brokers Check First." Matches Library 01 visual standard: Primary Blue cover + close, off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "Why it matters" panels. Broker/Consultant Resources pillar. See PART 3 Post 73 for slide-by-slide spec and image generation prompt.
-- [ ] Post 75: Slot B Same MAC single-image messy infographic (1 image, 1080 x 1350 px) - photorealistic three prescription receipts on a desk with handwritten red-pen margin annotations. See PART 3 Post 75 for the full image generation prompts (Gemini and ChatGPT) and post-generation legibility gate.
+- [ ] Post 75: Slot B Same MAC single-image messy infographic (1 image, 1080 x 1350 px) - photorealistic printed PBM claims report on a desk with three rows highlighted in yellow/green/pink, handwritten red-marker title across the top, and red-pen margin annotations naming each channel's margin. See PART 3 Post 75 for the full image generation prompts (Gemini and ChatGPT) and post-generation legibility gate.
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image (Topic Icon template, Primary Blue background, clipboard with 15-line report layout)
 - [ ] Substack Field Note header image (Data Highlight template, white background, clipboard with 5 highlighted rows)
@@ -930,7 +941,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 |------|------------|-----------------|--------|
 | Post 73 (Library 02 Contract Comparison Carousel) | - | - | |
 | Post 74 (Text) | - | - | |
-| Post 75 (Slot B Same MAC Three Receipts Messy Infographic) | - | - | |
+| Post 75 (Slot B Same MAC Claims Report Messy Infographic) | - | - | |
 | Post 76 (Text) | - | - | |
 
 > **PERFORMANCE NOTES APPLIED:**
