@@ -2,7 +2,7 @@
 
 **Purpose:** Polls Google Alerts RSS feeds for pharmacy benefits news and emails matching items to `crispjb@gmail.com`. Brett uses the inbox stream to stay current on breaking PBM/drug-pricing news, which feeds into Wednesday Roundup curation and Wednesday LinkedIn POV posts.
 
-**Distinct from the Wednesday Roundup automation** (documented in `wednesday_roundup_implementation_guide.md`). The Roundup is a separate Claude Code Routine that runs Tuesday morning and drafts the actual Roundup article. The Zap below is a lighter-weight always-on inbox stream so breaking news surfaces in real time rather than waiting for the Tuesday batch.
+**Distinct from the Wednesday Roundup automation** (the GitHub Action at `.github/workflows/weekly-roundup.yml`, which runs Tuesday mornings on cron, uses the Claude Code Action to web-search + draft + humanize the Roundup article, and commits the draft directly to main). The Zap below is a lighter-weight always-on inbox stream so breaking news surfaces in real time rather than waiting for the Tuesday batch. The `wednesday_roundup_implementation_guide.md` file describes three setup options for the Roundup (Claude Code Routines / Zapier / GitHub Actions), but only the GitHub Actions option is the one actually wired up.
 
 ---
 
@@ -102,17 +102,40 @@ The free-tier 2-step structure is fine as a baseline. The paid tier gives task h
 
 **Recommend:** Yes, easy quality-of-life win.
 
-### Option B — Append matched items to a Google Sheet / Notion table for Wednesday Roundup prep
+### Option B — Add the Google Alerts feeds to the Roundup's fetch_rss.py instead
 
-**What it does:** Every RSS item that fires also writes a row to a Google Sheet (or Notion / Airtable) with columns: date, title, source URL, source domain. Tuesday morning Roundup-prep workflow becomes: open the sheet, filter to last 7 days, scan all the week's items in one place, pick the 4-5 stories.
+**What it does:** Makes the same Google Alerts breaking-news stream visible to the Wednesday Roundup GitHub Action, so the Tuesday-morning draft sees these items alongside the eight industry RSS feeds it already pulls. Solves the same problem (news-stream → Roundup feedback loop) without adding any Zapier steps.
 
-**How:** Add a third action step **Google Sheets → Create Spreadsheet Row** (or Notion equivalent). Map RSS fields to columns. Run alongside the existing email step; don't replace it (email stream stays for real-time awareness; sheet is for weekly compilation).
+**Why this is the right path (verified May 21, 2026):** `.github/scripts/fetch_rss.py` has a hardcoded `FEEDS` list — currently Drug Channels, Fierce Healthcare, KFF Health News, STAT News, Benefits Pro, PCMA, Pharmacy Times, Modern Healthcare. The script pulls past-7-days items from each feed Tuesday morning and writes them to `newsletters/roundups/rss_weekly_feed.md`, which the Roundup Action then ingests as part of its drafting prompt. The Google Alerts feeds Brett's Zap watches are NOT in that list, so the breaking-news Zap stream is invisible to the Roundup.
+
+**How:**
+
+1. Open `.github/scripts/fetch_rss.py`
+2. Add three entries to the `FEEDS` list, one per Google Alerts feed, with descriptive names (e.g., names should match the keyword each Alert is tracking, not just "Google Alert 1"):
+   ```python
+   ("Google Alert - [keyword]", "https://www.google.com/alerts/feeds/17991989331388356952/4714318431491019217"),
+   ("Google Alert - [keyword]", "https://www.google.com/alerts/feeds/17991989331388356952/15092640591485083440"),
+   ("Google Alert - [keyword]", "https://www.google.com/alerts/feeds/17991989331388356952/12055287841271080051"),
+   ```
+3. Commit. Next Tuesday's Roundup Action will pick up the Google Alerts items automatically.
+
+To name each Alert descriptively, log into Google Alerts (`google.com/alerts` under the Google account that owns these feeds), look at the three active alerts, and use the search-query keyword as the name. E.g., if one Alert tracks "PBM lawsuit," the entry becomes `("Google Alert - PBM lawsuit", "https://...4714318431491019217")`.
+
+**Cost:** Zero Zapier tasks added (this enhancement happens entirely in the repo, not in the Zap). Roundup Action runtime increases by ~1-2 seconds for the additional feed fetches.
+
+**Trade-off vs. a Zapier Google Sheet step:** The repo-side approach updates the Roundup automatically each Tuesday. A Zapier Sheet step would give Brett a real-time-visible single-pane view that's queryable any time, not just Tuesday. If both views matter, do both.
+
+**Recommend:** Yes. Highest-leverage enhancement of the four because it directly improves the Roundup output without requiring any Tuesday-morning manual step.
+
+### Option B-alt — Append matched items to a Google Sheet for Brett's own single-pane view
+
+**What it does:** Every RSS item that fires also writes a row to a Google Sheet with columns: date, title, source URL, source domain. Brett gets a continuously-updated table he can scan at any time, alongside the email stream.
+
+**How:** Add a third action step **Google Sheets → Create Spreadsheet Row** alongside the existing email step. Map RSS fields to columns.
 
 **Cost:** +1 Zapier task per fire. Low.
 
-**Why it might matter:** The Wednesday Roundup automation already exists (`wednesday_roundup_implementation_guide.md` describes the Claude Code Routine that searches the web Tuesday morning), but it does a fresh web search every week — it doesn't see the breaking-news items that came through the RSS stream mid-week unless Brett manually surfaces them. A sheet gives the Roundup Routine an additional input to pull from, OR gives Ginny a single-pane-of-glass view for manual curation. Useful if the email inbox stream is getting hard to scan when the Roundup is being drafted.
-
-**Recommend:** Worth doing if you want to tighten the news-stream → Wednesday Roundup feedback loop. Skip if the email inbox is already serving as your roundup-prep view.
+**Recommend:** Optional layer on top of Option B. Do this only if the email inbox is hard to scan when compiling the Wednesday Roundup or when drafting Wednesday POV posts. Otherwise the email stream + the Tuesday Roundup Action covers the same ground.
 
 ### Option C — AI categorization step
 
