@@ -626,9 +626,9 @@ Same MAC list. Same drug. Three dispensing channels. Three different margins, al
 
 The MAC list is public. The margin is not.
 
-Retail chain pharmacy: MAC sets ingredient reimbursement, dispensing fee attached, one margin. The spread is thinnest at retail because thousands of competing pharmacies push back on PBM reimbursements. Any individual pharmacy can refuse a contract that does not pencil out.
+Retail chain pharmacy: MAC sets ingredient reimbursement, dispensing fee attached, one margin. The spread is thinnest at retail because retail MAC reimbursement is the most visible part of the PBM contract and the one plan sponsors and brokers compare across PBM proposals. Pharmacies have no leverage to push back on terms (they sign what is offered or lose patient access). The constraint on spread is plan-side visibility, not pharmacy-side resistance.
 
-Mail order: same MAC list on paper, different ingredient spread applied to the PBM, different margin. Fewer mail facilities mean less competition. 90-day fills stack the per-script economics. The PBM steers members into mail with "preferred" pricing the plan rarely audits the other side of.
+Mail order: same MAC list on paper, different ingredient spread applied to the PBM, different margin. Mail has fewer audit benchmarks because most plans use only their PBM's mail option. The PBM steers members in with "preferred" pricing that compares mail to retail in marketing materials but rarely surfaces the underlying spread in claims data. 90-day fills stack the per-script economics.
 
 PBM-owned pharmacy: same MAC, different internal transfer pricing, different margin entirely. When CVS Caremark dispenses through CVS Pharmacy, when Express Scripts dispenses through ESI Home Delivery, when OptumRx dispenses through OptumRx Mail, the PBM writes the price on both sides of the transaction. The spread stays inside the same corporate parent.
 
