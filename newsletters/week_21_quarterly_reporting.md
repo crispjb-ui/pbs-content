@@ -17,7 +17,7 @@
 | Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 28 | 7:30 AM | Substack | Field Note: "Five Lines to Read First in Your PBM's Quarterly Report" | [ ] |
-| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Same MAC. Different dispensing channel. Different margin. (Carousel, Slot B evergreen rotation) | [ ] |
+| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Same MAC. Different dispensing channel. Different margin. (Single-image messy infographic, Three Prescription Receipts aesthetic, Slot B evergreen rotation) | [ ] |
 | Thu May 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 75 | [ ] |
 | Thu May 28 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 29 | 8:30 AM | LinkedIn Feed | Post 76 - "The Therapy That Changes Everything" Tease Hook (TEXT) | [ ] |
@@ -376,6 +376,25 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 ---
 
+## Substack Contract Library Update — Library 02 Week
+
+Library 02 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
+
+**Publishing prompt:**
+
+> Open the live Substack post at `benefitblindspots.substack.com/p/pbm-contract-language-library` in edit mode. Copy everything between the `▼ BEGIN PASTE ▼` and `▲ END PASTE ▲` markers in `substack_contract_language_library.md` and paste over the existing post body. Publish.
+
+After publishing, tell Claude the push is done so the Update Log in `substack_contract_language_library.md` gets moved from `_Pending: next push_` to a dated row.
+
+**Provisions Library 02 should have added or amended before this push** (confirm Claude has merged these into the article body — if not, ask Claude "update the contract library for Library 02"):
+- Rebate pass-through definition breadth (expand existing "Rebate Passthrough")
+- AWP discount base specificity (expand existing "Brand Discount Guarantee" with AWP-source naming, NDC-level exclusion handling)
+- Guarantee Reconciliation (NEW provision in Pricing Guarantees — currently absent from the article)
+- Termination data-transfer specificity (expand existing "Data Transfer" with 45-day timeline, accumulator and PA file specificity)
+- Audit rights scope (expand existing "Audit Access" with twice-per-year frequency and binding-findings clause)
+
+---
+
 ## Monthly Q&A Thread #2: PBM Contract Questions
 
 **Publish:** Thursday, May 28, 2026 (last Thursday of May)
@@ -592,12 +611,14 @@ This week's Benefit Blind Spots deep dive on PBM quarterly reporting is the oper
 ## Post 75 - Thursday 8:30 AM
 ### Thursday Excellence Slot (Slot B) - Same MAC. Different dispensing channel. Different margin.
 
-- **Slot:** Thursday Excellence (Slot B category — Same/Same/Different photoreal carousel)
-- **Format:** Carousel (6 slides), photoreal three-receipt aesthetic per the W18 Channel Pricing secret-sauce thesis
+> **Format conversion (May 20, 2026):** Originally drafted as a 6-slide carousel. Converted to a single-image messy infographic because Tuesday's Library 02 already occupies the carousel slot for the week, and the W20 Tuesday underperformance (MAC vs WAC vs AWP Marked-Up Contract Page, 11 reactions) plus W20 Thursday's Legal Pad success suggest a unique-spin messy infographic is the right Thursday play. The "Three Prescription Receipts on a Desk" concept keeps the W18 Channel Pricing photoreal DNA (the proven 17K winner aesthetic) but uses pharmacy receipts as the artifact instead of a contract page — visually distinct from W20 Tuesday's contract page, W20 Thursday's legal pad, and W21 Tuesday's Library 02 carousel.
+
+- **Slot:** Thursday Excellence (Slot B — single-image messy infographic, photoreal Three Prescription Receipts aesthetic)
+- **Format:** Single image messy infographic, 1080 x 1350 px
 - **Pillar:** Transparency & Industry Education (with ChannelPricing topic anchor)
 - **Topic:** Same MAC. Different dispensing channel. Different margin.
 - **Hook:** "Same MAC list. Same drug. Three dispensing channels. Three different margins, all set by the same PBM."
-- **Winning-profile traits hit:** decoder shape ✓ · dollar comparison shape (MAC vs. margin spread) ✓ · named-actor framing (PBM as actor deciding margins) ✓ · plan-sponsor-actionable (ask for the margin alongside the MAC) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-receipt carousel) ✓ · first-comment Substack cross-promo ✓ · proprietary anchor (hundreds of contracts a year) ✓ · save-driven structure ✓ — **9 of 10 traits.**
+- **Winning-profile traits hit:** decoder shape ✓ · dollar comparison shape (MAC vs. margin spread) ✓ · named-actor framing (PBM as actor deciding margins) ✓ · plan-sponsor-actionable (ask for the margin alongside the MAC) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-receipt single image) ✓ · first-comment Substack cross-promo ✓ · proprietary anchor (hundreds of contracts a year) ✓ · save-driven structure ✓ · single-image photoreal aesthetic ✓ — **10 of 10 traits.**
 
 #### Post Copy
 
@@ -611,7 +632,7 @@ Mail order: same MAC list on paper, different ingredient spread applied to the P
 
 PBM-owned pharmacy: same MAC, different internal transfer pricing, different margin entirely.
 
-I review hundreds of PBM contracts a year at PBS. The MAC clause is in every contract. The margin clause — the part that decides who keeps the difference between MAC and what the pharmacy actually gets paid — is in fewer than half.
+I review hundreds of PBM contracts a year at PBS. The MAC clause is in every contract. The margin clause, the part that decides who keeps the difference between MAC and what the pharmacy actually gets paid, is in fewer than half.
 
 Same MAC. Three channels. Three margins. One PBM deciding who sees which number.
 
@@ -623,44 +644,84 @@ Ask for both. Save this for your next renewal conversation.
 
 Today's Field Note on Benefit Blind Spots is the audit framework for the channel-margin question above: three comparison passes plan sponsors can run on their own claims data (MAC schedule vs. actuals, per-channel margin spread, contract pass-through clause check), the pattern PBS finds across ~100 contract reviews per year, and what to bring to the next quarterly review. Thirty-minute read with your contract's MAC clause and a 150-claim sample next to you. [SUBSTACK FIELD NOTE URL]
 
-**Content outline (Same/Same/Different structure, parallel lines then punchline):**
-- Slide 1 (Hook): "Same MAC. Different channel. Different margin." Swipe indicator in Accent Blue.
-- Slide 2 (Retail chain): "Retail chain pharmacy. MAC sets the ingredient reimbursement. Dispensing fee attached. One margin."
-- Slide 3 (Mail order): "Mail order. Same MAC list on paper. Different ingredient spread applied to the PBM. Different margin."
-- Slide 4 (Owned pharmacy): "PBM-owned pharmacy. Same MAC. Different internal transfer pricing. Different margin entirely."
-- Slide 5 (Punchline): "Same MAC. Three channels. Three margins. One PBM deciding who sees which number." Accent Blue underline under "One PBM."
-- Slide 6 (CTA): Primary Blue background. White: "The MAC list is public. The margin is not. Ask for both." team@rxbs.org | Benefit Blind Spots | PBS logo.
+#### Three Prescription Receipts Concept
 
-#### Same/Same/Different Carousel Concept
+**Aesthetic:** Photoreal close-up of three pharmacy prescription receipts laid out on a desk surface, each receipt showing the same drug at a different channel with a different margin printed at the bottom. Handwritten red-pen margin annotations connect them. Same DNA as the W18 Channel Pricing 17K winner (paper-card photoreal aesthetic) — but the physical artifact is pharmacy receipts, not a contract page.
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+**Visual hierarchy (must read at LinkedIn feed thumbnail ~600px wide):**
+- Layer 1 (dominant): Big handwritten title at the top — "Same MAC. Different channel. Different margin." in thick black permanent marker, double-underlined
+- Layer 2 (anchor): Three receipts in a row, each with a clearly readable channel name header (Retail Chain / Mail Order / PBM-Owned Pharmacy) and a margin value printed at the bottom in Plex Mono Medium
+- Layer 3 (the punchline at thumbnail): Three red-pen handwritten margin annotations labeled "Margin: $X" / "Margin: $Y" / "Margin: $Z" connecting the receipts, plus a bottom hook line
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+**Image Generation Prompt — Gemini (Imagen 4):**
 
-**Setting:** Three prescription receipts laid out in a row.
+```
+Photorealistic top-down photo, vertical 4:5 aspect ratio (1080x1350 px). Three printed pharmacy prescription receipts laid out side by side in a row on a dark wood desk surface under soft natural daylight. The receipts fill the middle 60% of the frame. Each receipt is a narrow thermal-style pharmacy slip, off-white paper, crisp but slightly curled at the edges, with faint shadows beneath.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+Render all on-receipt and on-desk text exactly as written, with careful attention to spelling and legibility. The three channel headers, the three margin values, and the red handwritten annotations must be readable at LinkedIn feed thumbnail size (about 600 pixels wide).
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three printed prescription receipts are laid out in a row on a clean light gray surface, evenly spaced. Each receipt is a narrow thermal-style pharmacy slip, crisp but slightly curled at the edges. Reading left to right, the header line on each receipt reads: "Retail Chain," "Mail Order," and "PBM-Owned Pharmacy." Each receipt shows the same drug name and the same MAC price, but a different line item labeled "margin" with a different number. No logos, no brand marks, no people, no text outside the receipts.
->
-> Above the three receipts, in clean bold handwriting on the surface: Same MAC. Different margin.
->
-> Below the receipts, in smaller handwriting: One PBM deciding who sees which number.
->
-> Style: realistic product photography, soft even daylight, subtle shadows under each receipt, faint paper curl. Colors: off-white thermal receipts with black printed text, light gray surface, black handwritten ink.
+Each receipt is structured top to bottom:
+- Channel header in bold black Plex Sans SemiBold (large): "RETAIL CHAIN" (left receipt), "MAIL ORDER" (middle), "PBM-OWNED PHARMACY" (right)
+- A horizontal printed line: "Drug: Atorvastatin 40mg"
+- A horizontal printed line: "MAC: $4.20"
+- A bold horizontal printed line at the bottom in Plex Mono Medium: "Margin: $0.85" (left receipt), "Margin: $3.40" (middle), "Margin: $7.10" (right)
 
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Three prescription receipts photo described above. Overlay: "Same MAC. Different channel. Different margin." Swipe indicator in Accent Blue.
-- Slide 2 (Retail chain): "Retail chain pharmacy. MAC sets the ingredient reimbursement. Dispensing fee attached. One margin."
-- Slide 3 (Mail order): "Mail order. Same MAC list on paper. Different ingredient spread applied to the PBM. Different margin."
-- Slide 4 (Owned pharmacy): "PBM-owned pharmacy. Same MAC. Different internal transfer pricing. Different margin entirely."
-- Slide 5 (Punchline): "Same MAC. Three channels. Three margins. One PBM deciding who sees which number." Accent Blue underline under "One PBM."
-- Slide 6 (CTA): Primary Blue background. White text: "The MAC list is public. The margin is not. Ask for both." team@rxbs.org.
+Above the three receipts, on the wood desk surface, a large handwritten title in thick black permanent marker, double-underlined: "Same MAC. Different channel. Different margin."
 
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any receipt header or overlay text, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+Three handwritten red-pen annotations (Caveat or Permanent Marker style, bold red ink) connect to each receipt with small arrows:
+- Above the left receipt's margin line, red note: "One PBM."
+- Above the middle receipt's margin line, red note: "Same PBM."
+- Above the right receipt's margin line, red note: "Same PBM."
+
+At the bottom of the image, on the desk surface in handwritten red pen: "The MAC list is public. The margin is not."
+
+Style: realistic thermal-receipt paper texture with slight curl, soft natural daylight, subtle shadows under each receipt. Slightly imperfect handwriting with natural variation. Colors: off-white thermal receipts (#F5F0E4), black printed text, red handwritten ballpoint, dark wood desk.
+
+No people, no logos, no PBM company names, no pharmacy brand names, no extra props (no pen prop, no coffee cup), no PBS branding overlay. The image stands on its own.
+```
+
+**Image Generation Prompt — ChatGPT (GPT-4o):**
+
+```
+Generate a photorealistic top-down photograph at 1080x1350 pixels (vertical 4:5).
+
+The scene: three pharmacy prescription receipts laid out in a row on a dark wood desk surface under soft natural daylight. The receipts occupy the middle 60% of the frame. Each receipt is a narrow thermal-style pharmacy slip on off-white paper, crisp but slightly curled at the edges, casting subtle shadows on the desk.
+
+Important: render all on-receipt and on-desk text exactly as written, with careful attention to spelling and legibility. The three channel headers, the three margin values, and the red handwritten annotations are the most important text elements — they must be readable at LinkedIn feed thumbnail size (about 600 pixels wide). No extra decorative props on the desk — no coffee cup, no pen, no books, no clutter.
+
+The three receipts, left to right, each structured top to bottom:
+
+LEFT RECEIPT — Channel header in bold black Plex Sans SemiBold (large): "RETAIL CHAIN." Below: "Drug: Atorvastatin 40mg." Below: "MAC: $4.20." Bottom line, bold Plex Mono Medium: "Margin: $0.85."
+
+MIDDLE RECEIPT — Channel header in bold black Plex Sans SemiBold (large): "MAIL ORDER." Below: "Drug: Atorvastatin 40mg." Below: "MAC: $4.20." Bottom line, bold Plex Mono Medium: "Margin: $3.40."
+
+RIGHT RECEIPT — Channel header in bold black Plex Sans SemiBold (large): "PBM-OWNED PHARMACY." Below: "Drug: Atorvastatin 40mg." Below: "MAC: $4.20." Bottom line, bold Plex Mono Medium: "Margin: $7.10."
+
+Above all three receipts, on the wood desk surface, a large hand-written title in thick black permanent marker, double-underlined: "Same MAC. Different channel. Different margin."
+
+Three handwritten red-pen annotations (Caveat or Permanent Marker style, bold red ink) sit just above each receipt's margin line with a small drawn arrow pointing down to it:
+- Above the left receipt: "One PBM."
+- Above the middle receipt: "Same PBM."
+- Above the right receipt: "Same PBM."
+
+At the bottom of the image, on the desk surface in handwritten red pen: "The MAC list is public. The margin is not."
+
+Style: realistic thermal-receipt paper texture with slight natural curl, soft natural daylight, subtle shadows under each receipt. Imperfect handwriting with natural variation. The image should read as three real pharmacy receipts that someone laid out on their desk and annotated — not as a designed infographic.
+
+Color palette: off-white thermal receipt paper (#F5F0E4), black printed receipt text, red handwritten ballpoint, dark wood desk.
+
+No people, no logos, no PBM company names, no pharmacy brand names, no PBS branding overlay.
+```
+
+**Post-Generation Steps:**
+1. Generate base image using either Gemini or ChatGPT prompt above
+2. Verify the three channel headers (RETAIL CHAIN / MAIL ORDER / PBM-OWNED PHARMACY) render with distinct text and are readable at thumbnail
+3. Verify the three margin values ($0.85 / $3.40 / $7.10) are visibly different and legible at thumbnail
+4. Verify the title "Same MAC. Different channel. Different margin." is readable at feed thumbnail size
+5. If any handwritten text renders illegibly or with misspellings, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching ink color
+6. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
+7. **Hard legibility gate before publish:** resize the exported PNG view to 600px wide. You must be able to read all three channel headers, all three margin values, the big handwritten title, and at least two of the red margin annotations without zooming. If any fail, regenerate with stronger emphasis on those elements, or hand-overlay in Canva.
+8. Export as PNG at 1080 x 1350
 
 ---
 
@@ -824,7 +885,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Post 73 Library 02 Contract Comparison carousel created - "The Five Clauses the Best Brokers Check First" (7 slides, matches Library 01 standard) — Broker/Consultant Resources pillar, DIFFERENT from Monday's Transparency & Industry Education pillar
 - [ ] Post 73 first comment drafted with link to LinkedIn Newsletter
 - [ ] Post 74 text post finalized - "14 pages. 3 numbers. None of them are in the report." Wednesday tease hook
-- [ ] Post 75 SLOT B carousel designed - "Same MAC. Different dispensing channel. Different margin." (6 slides, Cost Containment pillar; Thursday evergreen rotation Slot B)
+- [ ] Post 75 SLOT B single-image messy infographic designed - "Same MAC. Different dispensing channel. Different margin." (Three Prescription Receipts photoreal aesthetic, Transparency & Industry Education pillar; Thursday evergreen rotation Slot B). See PART 3 Post 75 for image generation prompts (Gemini and ChatGPT versions) and legibility gate.
 - [ ] Post 76 text post finalized - "The Therapy That Changes Everything" tease hook (teases W22 biosimilar strategy)
 - [ ] Company reshares scheduled (Tue + Thu at 1:30 PM)
 - [ ] All Substack Notes drafted (morning/afternoon cadence, Mon-Fri + Saturday engagement)
@@ -835,7 +896,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 # PART 6: ASSETS NEEDED
 
 - [ ] Post 73: Library 02 Contract Comparison carousel (7 slides, 1080 x 1350 px each) - "The Five Clauses the Best Brokers Check First." Matches Library 01 visual standard: Primary Blue cover + close, off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "Why it matters" panels. Broker/Consultant Resources pillar. See PART 3 Post 73 for slide-by-slide spec and image generation prompt.
-- [ ] Post 75: Slot B Same MAC carousel (6 slides, 1080 x 1350 px each) - photorealistic three-receipt hero slide + five copy slides per the Same/Same/Different structure. See PART 3 Post 75 for slide-by-slide outline and AI image generation prompt.
+- [ ] Post 75: Slot B Same MAC single-image messy infographic (1 image, 1080 x 1350 px) - photorealistic three prescription receipts on a desk with handwritten red-pen margin annotations. See PART 3 Post 75 for the full image generation prompts (Gemini and ChatGPT) and post-generation legibility gate.
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image (Topic Icon template, Primary Blue background, clipboard with 15-line report layout)
 - [ ] Substack Field Note header image (Data Highlight template, white background, clipboard with 5 highlighted rows)
@@ -869,7 +930,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 |------|------------|-----------------|--------|
 | Post 73 (Library 02 Contract Comparison Carousel) | - | - | |
 | Post 74 (Text) | - | - | |
-| Post 75 (Slot B Same MAC Carousel) | - | - | |
+| Post 75 (Slot B Same MAC Three Receipts Messy Infographic) | - | - | |
 | Post 76 (Text) | - | - | |
 
 > **PERFORMANCE NOTES APPLIED:**
