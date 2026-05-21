@@ -253,7 +253,8 @@ Additional provision-specific deep dives publish throughout the year. The formul
 | Date pushed to Substack | Provisions added | Provisions amended | Source |
 |-------------------------|------------------|--------------------|--------|
 | April 2026 (initial publish) | Full initial library (Pricing, Rebate, Audit, Clinical, Termination, Specialty) | — | Week 17 launch |
-| _Pending: next push_ | Definition of Generic Drug; Spread Pricing / Claim Pricing | Termination Notice expanded to "Termination Notice and Termination for Convenience" | Week 16 Library 01 |
+| May 21, 2026 | Definition of Generic Drug; Spread Pricing / Claim Pricing | Termination Notice expanded to "Termination Notice and Termination for Convenience" | Week 16 Library 01 |
+| _Pending: next push_ | — | — | — |
 
 When Ginny confirms a Substack push is done, move the `_Pending: next push_` row to a dated row and open a fresh `_Pending: next push_` row for the next round of provisions.
 
