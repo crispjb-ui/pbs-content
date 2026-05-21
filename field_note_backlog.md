@@ -34,6 +34,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-16 | Provider Communication: The Step Most Plans Skip | Broker/Consultant Resources | W33 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Member Communication deep dive. Field Note retargeted to Member Transition Disruption audit pairing with W33 Thursday 5 Member Transition Disruption Terms Decoded Marked-Up Plan Document Page) | available |
 | FN-17 | Reauthorization Protocols: The Specialty Cost Lever Nobody Discusses | Clinical Pharmacy Perspectives | W34 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Specialty Drug Management deep dive. Field Note retargeted to Mid-Year Performance Guarantee audit pairing with W34 Thursday 5 Mid-Year Performance Guarantee Terms Decoded Ledger Annotated) | available |
 | FN-18 | Data Ownership and Portability: The Clause That Determines Your Exit Options | PBM Contract Insights | W36 (displaced May 9, 2026 under Architecture B — Field Note didn't pair with Thursday Slot B "Same contract language different interpretations" topic. Field Note retargeted to Definition Variance audit pairing with W36 Thursday Three-Contract Photoreal Same/Same/Different) | available |
+| FN-19 | Auditing Your MAC Margin: Three Channels, One PBM | Transparency & Industry Education | W21 (displaced May 21, 2026 when W21 Thursday was rebuilt around Rebate Aggregator decoder — Memorial Day topic-recency vs. W18 Channel Pricing 17K winner DNA + W18/W20/W21 Thursday pricing-mechanic cluster concerns. Strong audit framework, fully drafted, pairs cleanly with any future Channel Pricing Thursday LinkedIn) | available |
 
 ---
 
@@ -462,3 +463,75 @@ Work with your broker or consultant to benchmark these provisions against market
 **SEO Title:** Three Biosimilar Contract Provisions Worth Negotiating | Benefit Blind Spots
 **Meta Description:** Most PBM contracts say nothing about biosimilar performance. Three provisions that create accountability: dispensing rate guarantees, transition timelines, and net cost reporting.
 **Tags:** biosimilars, PBM contracts, contract negotiation, pharmacy benefits, self-funded employers, cost containment
+
+---
+
+## FN-19: Auditing Your MAC Margin: Three Channels, One PBM
+
+**Original week:** 21 (May 28, 2026 publish date — needs re-anchoring before reuse)
+**Pillar:** Transparency & Industry Education
+**Length:** ~580 words (~3 min read)
+**Tone:** Practical, tactical
+**Why it was displaced:** W21 Thursday LinkedIn was rebuilt May 21, 2026 from "Same MAC. Different dispensing channel. Different margin." (single-image Claims Report photoreal messy infographic) to "The rebate aggregator your contract does not name." (Rebate Flow Ledger on grid paper). Drivers: (a) topic-recency risk against W18 Channel Pricing 17K winner — Same/Same/Different decoder shape, paper-on-desk photoreal aesthetic, and named-actor framing were nearly identical DNA; (b) Memorial Day low-floor week is not the right placement for the canonical Channel Pricing follow-on; (c) W18 (Channel Pricing) + W20 (MAC vs WAC vs AWP pricing benchmarks) + W21 (Same MAC three channels) were clustering three Thursdays out of four on the pricing-mechanic decoder family, with subject-matter overlap that the cannibalization data shows compresses reach. This MAC Margin Field Note remains a strong Transparency Field Note and should be slotted into a future Thursday whose LinkedIn post is a Channel Pricing / MAC decoder and whose Monday topic does NOT cover quarterly reporting or pricing benchmarks. Natural fits: a Q3 or Q4 Thursday in the 8:30 AM EST cadence where Channel Pricing is the planned visual.
+
+**Re-anchoring notes before reuse:**
+- "This morning's LinkedIn post showed the same MAC list applied to the same drug across three dispensing channels" — re-anchor to that week's actual Thursday LinkedIn topic. If the destination week's Thursday is the displaced "Same MAC three channels" Claims Report visual (evergreen_visual_backlog.md #36), the opener works as-is.
+- Confirm the channel labels and audit pattern still match the contract-language reality at re-publish (retail / mail / PBM-owned routing is structurally stable but the names of the dominant PBM-owned dispensing entities may shift on M&A activity).
+- Update the embed to point at whichever toolkit handout pairs with the destination week's Monday or Thursday content. The W21 Quarterly Reporting Checklist no longer pairs naturally with this Field Note; a Channel Pricing Audit Worksheet (W18 toolkit) is the natural pairing if available.
+
+---
+
+### Field Note Body (FN-19 draft)
+
+This morning's LinkedIn post showed the same MAC list applied to the same drug across three dispensing channels (retail chain, mail order, PBM-owned pharmacy) producing three different margins. Today is the audit framework for verifying that pattern on your own plan's claims data.
+
+We run channel-pricing audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+
+**Pass one: pull the MAC schedule and pull the actuals**
+
+Open your contract. Find the MAC clause and any referenced MAC schedule. The MAC list itself is a contract attachment, sometimes lengthy, sometimes summarized as "PBM standard MAC, updated weekly." Pull whichever version your contract includes.
+
+Then pull a representative sample of generic claims from your last quarter, by channel: 50 retail-chain claims, 50 mail-order claims, 50 PBM-owned-pharmacy claims if your plan permits routing there.
+
+For each claim, calculate two numbers: the MAC reimbursement (what the contract says the pharmacy is paid) and the plan ingredient cost (what the plan paid for that fill). The difference is the margin per claim, by channel.
+
+**Pass two: spread the margin across channels**
+
+Aggregate the per-claim margin by channel. Most plans see a wider margin spread than they expected. The MAC is the same across channels in the contract; the margin is not, because the dispensing-fee, ingredient-spread, and internal-transfer-pricing layers are not.
+
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: PBM-owned pharmacy margins run materially wider than retail-chain margins on the same MAC for the same drug. The contract's MAC clause is silent on the difference. The dispensing-channel-margin clause, if it exists at all in your contract, is where the gap lives.
+
+**Pass three: compare to the contract's pass-through clause**
+
+Many contracts include a pass-through clause that promises plan-level economics on ingredient cost. Read the clause carefully. Does it apply to all channels equally? Are PBM-owned pharmacies carved out as "affiliated dispensing" with separate economics? Does the pass-through apply to the MAC reimbursement specifically or to the total claim cost? Each carve-out is where margin sits.
+
+**The pattern plan sponsors find most often**
+
+> **Across hundreds of PBM contract reviews and audits a year at PBS:** the MAC clause is in every contract; the per-channel margin disclosure clause is in fewer than half. Plans that audit channel margin without the disclosure clause find the gaps anyway. Plans that audit with the disclosure clause find them faster, with the contract on their side.
+
+**What to do this quarter**
+
+> **Pull the MAC schedule and a 150-claim sample (50 per channel).** Run the per-claim margin calculation. The number you want is the per-channel average margin spread.
+> **Open your contract's MAC clause and pass-through clause.** Note any carve-outs for PBM-owned dispensing or affiliated-pharmacy economics. Those are the negotiation items at renewal.
+> **Bring the audit to your broker before the next quarterly review.** The MAC margin question deserves a place on the agenda alongside rebate, AWP discount, and pass-through performance.
+
+The MAC is public. The margin is not. The audit is how you make it both.
+
+---
+
+### Field Note Meta (FN-19 draft)
+
+**SEO Title:** Auditing Your MAC Margin: Three Channels, One PBM | Benefit Blind Spots
+**Meta Description:** Same MAC list, three dispensing channels, three different margins. Three comparison passes plan sponsors can run on their own claims data, the pattern PBS finds across hundreds of contract reviews per year, and what to bring to the next quarterly review.
+**Tags:** MAC pricing, channel pricing, PBM audits, dispensing channel, pharmacy benefits, transparency, self-funded employers, contract clauses
+
+### Field Note Header Image Prompt (FN-19 draft)
+
+**Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
+**Template:** Data Highlight (Substack image recipe per CLAUDE.md)
+**Background:** White (#FFFFFF)
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
+
+**Prompt:**
+
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design pharmacy receipts in Primary Blue (#015880) outline, side-by-side, evenly spaced, each roughly 380px tall. Each receipt is labeled at the top in Plex Mono Medium 16pt: "RETAIL CHAIN," "MAIL ORDER," "PBM-OWNED" respectively. Each receipt shows two horizontal line items: one labeled "MAC" in Plex Mono Medium 14pt with the same dollar value rendered in Plex Mono Medium 14pt tabular figures across all three receipts; one labeled "MARGIN" in Plex Mono Medium 14pt with three different dollar values (smallest on Retail Chain, larger on Mail Order, largest on PBM-Owned), each rendered in Accent Blue (#A7E0FA) tabular figures. A thin Accent Blue (#A7E0FA) horizontal arrow runs across the top of all three receipts, suggesting comparison. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the bottom-right of the third receipt. Below the composition, a two-tone centered headline: "Same MAC." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Three margins." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes plan sponsors can run on their own claims data." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.

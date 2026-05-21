@@ -16,8 +16,8 @@
 | Tue May 26 | 1:30 PM | LinkedIn Company | Company Reshare of Post 73 | [ ] |
 | Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Thu May 28 | 7:30 AM | Substack | Field Note: "Five Lines to Read First in Your PBM's Quarterly Report" | [ ] |
-| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - Same MAC. Different dispensing channel. Different margin. (Single-image messy infographic, Claims Report with three highlighted rows aesthetic, Slot B evergreen rotation) | [ ] |
+| Thu May 28 | 7:30 AM | Substack | Field Note: "Finding the Rebate Aggregator in Your PBM Contract" | [ ] |
+| Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - The rebate aggregator your contract does not name. (Single-image messy infographic, Rebate Flow Ledger on grid paper photoreal aesthetic, Thursday Excellence Slot B) | [ ] |
 | Thu May 28 | 1:30 PM | LinkedIn Company | Company Reshare of Post 75 | [ ] |
 | Thu May 28 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
 | Fri May 29 | 8:30 AM | LinkedIn Feed | Post 76 - "The Therapy That Changes Everything" Tease Hook (TEXT) | [ ] |
@@ -156,68 +156,62 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid Primary 
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your MAC Margin: Three Channels, One PBM
+## Finding the Rebate Aggregator in Your PBM Contract
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, May 28, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
+**Length:** ~620 words (~3 min read)
 **Tone:** Practical, tactical
 **Pillar:** Transparency & Industry Education
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "Same MAC. Different dispensing channel. Different margin." Slot B carousel. LinkedIn post lays out the three-channel comparison; Field Note is the audit framework for verifying it on your plan's claims data. First-comment cross-promo on the Thursday LinkedIn lands here.
-**Why this pairing (not the displaced "Five Lines" draft):** Architecture B (added May 9, 2026) requires Thursday Field Note + Thursday LinkedIn to share a topic and both to be distinct from Monday's deep dive. Monday W21 is Quarterly Reporting (the entire audit-the-PBM-report territory); Thursday is MAC channel-pricing territory (adjacent within Transparency, different subject matter). Original "Five Lines to Read First in Your PBM's Quarterly Report" Field Note is parked in `field_note_backlog.md` as FN-05 for a future week where Monday's topic is not quarterly reporting.
+**Pairs with:** Thursday LinkedIn "The rebate aggregator your contract does not name." Slot B single-image messy infographic. LinkedIn post names the aggregators by entity and corporate parent; Field Note is the audit framework for finding the aggregator's economics in your own contract language. First-comment cross-promo on the Thursday LinkedIn lands here.
+**Why this pairing (replaces the displaced "MAC Margin" draft, May 21, 2026):** W21 Thursday was originally a Channel Pricing decoder ("Same MAC. Three channels. Three margins.") with the matching MAC Margin Field Note. Pulled on Memorial Day topic-recency concerns — too close to W18 Channel Pricing 17K winner DNA, and W18/W20/W21 Thursdays were clustering on the pricing-mechanic decoder family. Rebate Aggregator decoder is fresh subject matter, names the three GPOs by name and domicile (Zinc, Ascent in Switzerland, Emisar in Ireland) mapped to their PBMs (Caremark, ESI, OptumRx), and ties tightly to Monday's quarterly-reporting deep dive ("rebate gross-to-net by therapeutic class" is one of the three missing-from-the-report numbers Monday flags). Original MAC Margin Field Note draft is parked in `field_note_backlog.md` as FN-19 for a future Channel Pricing Thursday. FN-05 "Five Lines to Read First in Your PBM's Quarterly Report" remains in backlog.
 
 ---
 
 ### Field Note Body
 
-This morning's LinkedIn post showed the same MAC list applied to the same drug across three dispensing channels (retail chain, mail order, PBM-owned pharmacy) producing three different margins. Today is the audit framework for verifying that pattern on your own plan's claims data.
+This morning's LinkedIn post named the three rebate aggregators that sit between the major PBMs and the manufacturers paying rebates: Ascent Health Services, Emisar Pharma Services, Zinc Health Services. Today is the audit framework for finding that aggregator's economics in your own contract.
 
-We run channel-pricing audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+We see this in nearly every PBM contract we review at PBS. The aggregator is usually not named. The aggregator's fee is usually not disclosed. The contract language reads as if the PBM and the manufacturer transact directly. The structure reads differently when you know where to look.
 
-**Pass one: pull the MAC schedule and pull the actuals**
+Three places to look. Open the contract.
 
-Open your contract. Find the MAC clause and any referenced MAC schedule. The MAC list itself is a contract attachment, sometimes lengthy, sometimes summarized as "PBM standard MAC, updated weekly." Pull whichever version your contract includes.
+**Pass one: the pass-through clause noun**
 
-Then pull a representative sample of generic claims from your last quarter, by channel: 50 retail-chain claims, 50 mail-order claims, 50 PBM-owned-pharmacy claims if your plan permits routing there.
+Find the rebate pass-through clause. Read the noun the clause uses. There is a meaningful difference between these three phrasings:
 
-For each claim, calculate two numbers: the MAC reimbursement (what the contract says the pharmacy is paid) and the plan ingredient cost (what the plan paid for that fill). The difference is the margin per claim, by channel.
+> "100% of rebates received by the PBM"
+> "100% of manufacturer rebates"
+> "100% of pharmaceutical company rebates and related payments"
 
-**Pass two: spread the margin across channels**
+The first defines pass-through as a percentage of what the PBM receives. The aggregator is upstream; the PBM receives what the aggregator forwarded after retaining its fee. The PBM can pass through 100% of that and still leave the aggregator's fee on the table.
 
-Aggregate the per-claim margin by channel. Most plans see a wider margin spread than they expected. The MAC is the same across channels in the contract; the margin is not, because the dispensing-fee, ingredient-spread, and internal-transfer-pricing layers are not.
+The second and third reach further upstream. They reference the manufacturer's payment, not the PBM's receipt. The aggregator's retention is captured.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: PBM-owned pharmacy margins run materially wider than retail-chain margins on the same MAC for the same drug. The contract's MAC clause is silent on the difference. The dispensing-channel-margin clause, if it exists at all in your contract, is where the gap lives.
+This single noun choice is the most consequential word in the rebate clause. Read it carefully.
 
-**Pass three: compare to the contract's pass-through clause**
+**Pass two: the GPO and affiliated-entity definition**
 
-Many contracts include a pass-through clause that promises plan-level economics on ingredient cost. Read the clause carefully. Does it apply to all channels equally? Are PBM-owned pharmacies carved out as "affiliated dispensing" with separate economics? Does the pass-through apply to the MAC reimbursement specifically or to the total claim cost? Each carve-out is where margin sits.
+Look for definitions of "Group Purchasing Organization," "affiliated rebate aggregator," "rebate intermediary," or any similar entity. Most contracts do not name them. Many contracts do not define them. A small number of contracts carve them out of the pass-through obligation explicitly, with language like "for the avoidance of doubt, pass-through obligations do not extend to payments retained by group purchasing organizations or rebate aggregators."
 
-**The pattern plan sponsors find most often**
+If the aggregator is named, the contract acknowledges it exists. If the aggregator is defined and carved out, the contract acknowledges it retains a fee. If the aggregator is neither named nor defined, you have to ask whether one is in your rebate chain at all. At the major PBMs, the honest answer is yes.
 
-> **Across hundreds of PBM contract reviews and audits a year at PBS:** the MAC clause is in every contract; the per-channel margin disclosure clause is in fewer than half. Plans that audit channel margin without the disclosure clause find the gaps anyway. Plans that audit with the disclosure clause find them faster, with the contract on their side.
+**Pass three: the manufacturer payment categories list**
 
-**What to do this quarter**
+Scan the section of the contract that lists manufacturer payment categories. Most contracts include three to seven categories: rebates, administrative fees, service fees, formulary placement fees, data fees, manufacturer-direct payments, education grants. The PBM and the aggregator can each receive different categories on the list. Read the category list. Compare it to the pass-through obligations line by line. The categories listed in the contract but not covered by pass-through obligations are where compensation may sit unreturned.
 
-> **Pull the MAC schedule and a 150-claim sample (50 per channel).** Run the per-claim margin calculation. The number you want is the per-channel average margin spread.
-> **Open your contract's MAC clause and pass-through clause.** Note any carve-outs for PBM-owned dispensing or affiliated-pharmacy economics. Those are the negotiation items at renewal.
-> **Bring the audit to your broker before the next quarterly review.** The MAC margin question deserves a place on the agenda alongside rebate, AWP discount, and pass-through performance.
+**The pattern we see**
 
-The MAC is public. The margin is not. The audit is how you make it both.
+> **Across hundreds of PBM contracts a year at PBS:** the rebate pass-through clause defines pass-through as a percentage of what the PBM receives in nearly every case. The aggregator's fee is rarely disclosed and rarely carved out. The pass-through math looks correct, and the aggregator's cut still happens.
 
----
+**What to ask before renewal**
 
-*This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
+> **Ask the broker to add a definition.** Define the rebate aggregator, the GPO, or any affiliated rebate-intermediary entity by name in the next contract. Definitions are leverage.
+> **Ask for the pass-through noun to change.** Rebate pass-through should reference the manufacturer's payment, not the PBM's receipt. The aggregator's fee disappears or gets disclosed.
+> **Ask for the manufacturer payment categories list.** Get the full list. Compare it to the pass-through obligations. The gaps are the negotiation items.
 
-*Questions? Reach out at team@rxbs.org.*
-
----
-
-### Field Note Meta
-
-**SEO Title:** Auditing Your MAC Margin: Three Channels, One PBM | Benefit Blind Spots
-**Meta Description:** Same MAC list, three dispensing channels, three different margins. Three comparison passes plan sponsors can run on their own claims data, the pattern PBS finds across ~100 contract reviews per year, and what to bring to the next quarterly review.
-**Tags:** MAC pricing, channel pricing, PBM audits, dispensing channel, pharmacy benefits, transparency, self-funded employers, contract clauses
+The PBM's pass-through math is correct. The aggregator's cut is real. Both can be true. The contract is where they get reconciled.
 
 ---
 
@@ -229,9 +223,9 @@ The MAC is public. The margin is not. The audit is how you make it both.
 
 ### Field Note Meta
 
-**SEO Title:** Five Lines to Read First in Your PBM's Quarterly Report | Benefit Blind Spots
-**Meta Description:** The 30-minute version of the full PBM quarterly reporting audit. Five lines to scan in your most recent report this week, with a printable plan-sponsor checklist attached.
-**Tags:** PBM quarterly reporting, transparency, pharmacy benefits, self-funded employers, audit, plan sponsor toolkit
+**SEO Title:** Finding the Rebate Aggregator in Your PBM Contract | Benefit Blind Spots
+**Meta Description:** Three rebate aggregators sit between the major PBMs and the manufacturers paying rebates. Three places their economics hide in contract language, the pattern PBS finds across hundreds of contract reviews per year, and what to ask before the next renewal.
+**Tags:** rebate aggregator, GPO, group purchasing organization, PBM contracts, pass-through, transparency, self-funded employers, manufacturer payment categories
 
 ### Field Note Header Image Prompt
 
@@ -242,7 +236,23 @@ The MAC is public. The margin is not. The audit is how you make it both.
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design pharmacy receipts in Primary Blue (#015880) outline, side-by-side, evenly spaced, each roughly 380px tall. Each receipt is labeled at the top in Plex Mono Medium 16pt: "RETAIL CHAIN," "MAIL ORDER," "PBM-OWNED" respectively. Each receipt shows two horizontal line items: one labeled "MAC" in Plex Mono Medium 14pt with the same dollar value rendered in Plex Mono Medium 14pt tabular figures across all three receipts; one labeled "MARGIN" in Plex Mono Medium 14pt with three different dollar values (smallest on Retail Chain, larger on Mail Order, largest on PBM-Owned), each rendered in Accent Blue (#A7E0FA) tabular figures. A thin Accent Blue (#A7E0FA) horizontal arrow runs across the top of all three receipts, suggesting comparison. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the bottom-right of the third receipt. Below the composition, a two-tone centered headline: "Same MAC." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Three margins." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes plan sponsors can run on their own claims data." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking.
+
+Central composition: a horizontal flow diagram of four rectangular boxes connected by left-to-right arrows, evenly spaced across the center of the canvas. Each box is approximately 280px wide by 160px tall, with Primary Blue (#015880) outline strokes 4px thick. The four boxes are labeled in Plex Sans SemiBold 24pt Primary Blue (#015880), centered: "MANUFACTURER," "AGGREGATOR," "PBM," "PLAN" from left to right.
+
+The AGGREGATOR box (position 2) is rendered differently from the others: filled with Accent Blue (#A7E0FA), with a Primary Blue (#015880) outline, and a small "$" symbol in Primary Blue (#015880) Plex Mono Medium 32pt rendered inside the upper-right corner of the box to indicate the retained fee.
+
+Between each pair of boxes, a thin Accent Blue (#A7E0FA) horizontal arrow points right. Above each arrow, a small dollar amount label in Plex Mono Medium 18pt tabular figures in Gray (#4D4D4D): "$10.00" between MANUFACTURER and AGGREGATOR, "$8.50" between AGGREGATOR and PBM, "$8.50" between PBM and PLAN. The amounts indicate the rebate dollar flow, with the aggregator's $1.50 retention implied by the drop from $10.00 to $8.50.
+
+Below the flow diagram, three small Accent Blue (#A7E0FA) dotted underline marks (each about 280px wide, evenly spaced) sit beneath the three transitions between boxes, with a small numeric label "1," "2," "3" in Plex Mono Medium 16pt Accent Blue (#A7E0FA) at the left endpoint of each — suggesting the three audit passes the Field Note walks through.
+
+Below the composition, a two-tone centered headline in Plex Sans SemiBold 56pt:
+- "Find the Aggregator" in Primary Blue (#015880)
+- "in Your Contract" in Accent Blue (#A7E0FA) directly below
+
+Subtitle in Plex Sans Regular 22pt Gray (#4D4D4D): "Three places the rebate aggregator's economics hide in contract language."
+
+Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements. Flat infographic style.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -274,8 +284,8 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Quarterly Reporting names what to audit on the report your PBM sends. PBM Compensation names where the money goes that does not always show up on the report. The five compensation streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) are what the Quarterly Reporting framework checks against. Together they pair as the two halves of one renewal-leverage record.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `field_note_title` | `Finding the Rebate Aggregator in Your PBM Contract` |
+| `field_note_url` | `[PENDING — fill after Thu May 28, 2026 publish]` |
 
 ### Wix build checklist
 
@@ -289,7 +299,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 
 ### Pairing rationale
 
-PBM Compensation is the universal zoom-out anchor for any single-stream audit framework. Channel Pricing Field Note is the strongest published audit-themed Field Note available for Email 3.
+PBM Compensation is the universal zoom-out anchor for any single-stream audit framework. The W21 Thursday Rebate Aggregator Field Note is the tightest topical pairing for the Quarterly Reporting toolkit — Monday's deep dive flags rebate gross-to-net by therapeutic class as one of the three numbers missing from the standard quarterly report, and the Thursday Field Note explains exactly why the rebate line aggregates: the GPO sits between manufacturer and PBM and retains a service fee that contract pass-through math does not capture. The Quarterly Reporting framework asks the question; the Rebate Aggregator Field Note answers it.
 
 ---
 
@@ -609,80 +619,87 @@ This week's Benefit Blind Spots deep dive on PBM quarterly reporting is the oper
 ---
 
 ## Post 75 - Thursday 8:30 AM
-### Thursday Excellence Slot (Slot B) - Same MAC. Different dispensing channel. Different margin.
+### Thursday Excellence Slot (Slot B) - The rebate aggregator your contract does not name.
 
-> **Format conversion (May 20, 2026; aesthetic revised May 21):** Originally drafted as a 6-slide carousel. Converted to a single-image messy infographic because Tuesday's Library 02 already occupies the carousel slot for the week, and the W20 Tuesday underperformance (MAC vs WAC vs AWP Marked-Up Contract Page, 11 reactions) plus W20 Thursday's Legal Pad success suggest a unique-spin messy infographic is the right Thursday play. After review, the "Three Prescription Receipts" aesthetic felt too static at thumbnail, so the artifact shifted to a single printed PBM claims report with three highlighted rows showing the same drug at different channels — reads as "PBS doing the audit," matches the W18 Channel Pricing 17K winner photoreal DNA, and is visually distinct from W20 Tuesday's contract page, W20 Thursday's legal pad, and W21 Tuesday's Library 02 carousel.
+> **Topic rebuild (May 21, 2026):** Original W21 Thursday was "Same MAC. Different dispensing channel. Different margin." photoreal Claims Report messy infographic. Pulled because (a) topic-recency risk against W18 Channel Pricing 17K winner (very similar paper-on-desk photoreal DNA, similar Same/Same/Different decoder shape), (b) Memorial Day low-floor week is not the place to repeat the canonical Channel Pricing play, and (c) W18/W20/W21 Thursdays were clustering on the pricing-mechanic decoder family (Channel Pricing → MAC vs WAC vs AWP → Same MAC). Rebate Aggregator decoder is fresh subject matter that hasn't shipped before, names three GPO entities by name and domicile (Zinc Health Services, Ascent Health Services in Switzerland, Emisar Pharma Services in Ireland) mapped to their PBMs (CVS Caremark, Express Scripts, OptumRx) per the 2024 FTC interim report on PBMs, and ties tightly to Monday's Quarterly Reporting deep dive — rebate gross-to-net is one of the three missing-from-the-report numbers Mon flags, and Thursday explains exactly why the line aggregates. The displaced Claims Report visual is parked in `evergreen_visual_backlog.md` as entry #36 for a future Channel Pricing Thursday in September back-to-business territory where the 5-15K floor is intact.
 
-- **Slot:** Thursday Excellence (Slot B — single-image messy infographic, photoreal Claims Report aesthetic with three highlighted rows)
+- **Slot:** Thursday Excellence (Slot B — single-image messy infographic, photoreal Rebate Flow Ledger on grid paper aesthetic)
 - **Format:** Single image messy infographic, 1080 x 1350 px
-- **Pillar:** Transparency & Industry Education (with ChannelPricing topic anchor)
-- **Topic:** Same MAC. Different dispensing channel. Different margin.
-- **Hook:** "Same MAC list. Same drug. Three dispensing channels. Three different margins, all set by the same PBM."
-- **Winning-profile traits hit:** decoder shape ✓ · dollar comparison shape (MAC vs. margin spread) ✓ · named-actor framing (PBM as actor deciding margins) ✓ · plan-sponsor-actionable (ask for the margin alongside the MAC) ✓ · confrontational hook ✓ · messy infographic format (photoreal three-receipt single image) ✓ · first-comment Substack cross-promo ✓ · proprietary anchor (hundreds of contracts a year) ✓ · save-driven structure ✓ · single-image photoreal aesthetic ✓ — **10 of 10 traits.**
+- **Pillar:** Transparency & Industry Education (with Rebates / RebateAggregator topic anchor)
+- **Topic:** The rebate aggregator your contract does not name.
+- **Hook:** "Your PBM passes through 100% of manufacturer rebates. The rebate aggregator does not have to."
+- **Winning-profile traits hit:** decoder shape ✓ · dollar comparison shape (manufacturer rebate vs. PBM receipt vs. plan pass-through) ✓ · named-actor framing (3 GPOs named by name + domicile: Zinc Health Services, Ascent Health Services / Switzerland, Emisar Pharma Services / Ireland — mapped to Caremark, ESI, OptumRx per 2024 FTC interim report) ✓ · plan-sponsor-actionable (ask for the GPO definition + the pass-through noun change) ✓ · confrontational hook ✓ · messy infographic format (photoreal hand-drawn ledger on grid paper) ✓ · first-comment Substack cross-promo ✓ · proprietary anchor (hundreds of contracts a year, "rebate pass-through defines pass-through as a percentage of what the PBM receives in nearly every case") ✓ · save-driven structure ✓ · single-image photoreal aesthetic ✓ — **10 of 10 traits.**
 
 #### Post Copy
 
-Same MAC list. Same drug. Three dispensing channels. Three different margins, all set by the same PBM.
+Your PBM passes through 100% of manufacturer rebates. The rebate aggregator does not have to.
 
-The MAC list is public. The margin is not.
+Most PBM contracts I review do not name the rebate aggregator.
 
-Retail chain pharmacy: MAC sets ingredient reimbursement, dispensing fee attached, one margin. The spread is thinnest at retail because retail MAC reimbursement is the most visible part of the PBM contract and the one plan sponsors and brokers compare across PBM proposals. Pharmacies have no leverage to push back on terms (they sign what is offered or lose patient access). The constraint on spread is plan-side visibility, not pharmacy-side resistance.
+Here is the structure. Manufacturer pays a rebate. The rebate is invoiced through a Group Purchasing Organization, not the PBM directly. The GPO is a separately incorporated entity, often offshore, with a small employee count. The GPO retains a portion of the rebate as a service fee. What the GPO forwards to the PBM is what the PBM "passes through" to your plan.
 
-Mail order: same MAC list on paper, different ingredient spread applied to the PBM, different margin. Mail has fewer audit benchmarks because most plans use only their PBM's mail option. The PBM steers members in with "preferred" pricing that compares mail to retail in marketing materials but rarely surfaces the underlying spread in claims data. 90-day fills stack the per-script economics.
+Three PBMs. Three GPOs. Each PBM's aggregator shares its corporate parent.
 
-PBM-owned pharmacy: same MAC, different internal transfer pricing, different margin entirely. When CVS Caremark dispenses through CVS Pharmacy, when Express Scripts dispenses through ESI Home Delivery, when OptumRx dispenses through OptumRx Mail, the PBM writes the price on both sides of the transaction. The spread stays inside the same corporate parent.
+CVS Caremark uses Zinc Health Services. Both under CVS Health.
 
-I review hundreds of PBM contracts a year at PBS. The MAC clause is in every contract. The margin clause, the part that decides who keeps the difference between MAC and what the pharmacy actually gets paid, is in fewer than half.
+Express Scripts uses Ascent Health Services. Both under Cigna. Ascent is domiciled in Switzerland.
 
-Same MAC. Three channels. Three margins. One PBM deciding who sees which number.
+OptumRx uses Emisar Pharma Services. Both under UnitedHealth Group. Emisar is domiciled in Ireland.
 
-Ask for both. Save this for your next renewal conversation.
+I review hundreds of PBM contracts a year at PBS. The rebate pass-through clause almost always defines pass-through as a percentage of what the PBM receives. Not as a percentage of what the manufacturer paid. The difference between those two definitions is where the aggregator's fee lives.
 
-#PBMTransparency #ChannelPricing #PharmacyBenefits
+Same rebate dollar from the manufacturer. The aggregator keeps a cut. The PBM passes through what is left.
+
+Ask for the GPO's role in your contract. Ask where the aggregator's compensation is disclosed. Save this for your next renewal.
+
+#PBMTransparency #Rebates #PharmacyBenefits
 
 #### First Comment
 
-Today's Field Note on Benefit Blind Spots is the audit framework for the channel-margin question above: three comparison passes plan sponsors can run on their own claims data (MAC schedule vs. actuals, per-channel margin spread, contract pass-through clause check), the pattern PBS finds across ~100 contract reviews per year, and what to bring to the next quarterly review. Thirty-minute read with your contract's MAC clause and a 150-claim sample next to you. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the audit framework for the rebate aggregator question above: three places the aggregator's economics hide in contract language (the pass-through clause noun, the GPO/affiliated-entity definition, and the manufacturer payment categories list), the pattern PBS finds across hundreds of contract reviews per year, and what to ask before the next renewal conversation. Twenty-minute read with your contract's rebate section next to you. [SUBSTACK FIELD NOTE URL]
 
-#### Claims Report with Three Highlighted Rows Concept
+#### Rebate Flow Ledger Concept
 
-**Aesthetic:** Photoreal close-up of a printed PBM claims report page on a dark wood desk, with three rows physically highlighted in three different colors and red-pen handwritten margin annotations pointing to each. Reads as "PBS doing the audit" — the visual is the actual artifact behind channel pricing economics. Same DNA as the W18 Channel Pricing 17K winner (paper-on-desk photoreal) but the artifact is a claims-data printout rather than a contract clause.
+**Aesthetic:** Photoreal top-down close-up of a sheet of engineering grid paper resting on a dark wood desk, with three horizontal rebate-flow chains hand-drawn in black ballpoint, the middle (AGGREGATOR) box of each chain circled in red marker, and red-pen handwritten annotations to the right of each row naming the aggregator's role. Reads as "PBS sketching the structure during a contract review" — the visual is the artifact behind the rebate decoder. Same paper-on-desk photoreal DNA as the W18 Channel Pricing 17K winner, but the artifact is a hand-drawn corporate flow diagram on grid paper rather than a marked-up contract page (W18) or a claims printout (the displaced W21 concept).
 
 **Visual hierarchy (must read at LinkedIn feed thumbnail ~600px wide):**
-- Layer 1 (dominant): Large handwritten red-marker title across the top of the page — "Same drug. Same MAC. Three margins." in thick Permanent Marker style, double-underlined
-- Layer 2 (anchor): Three highlighted rows in the body of the claims report, each in a different color (yellow, green, pink), each showing the same drug at a different channel with a different per-script cost
-- Layer 3 (punchline): Red-pen handwritten margin annotations to the right of each highlighted row naming the channel and the margin (e.g., "Retail. $0.85 margin." / "Mail. $3.40." / "PBM-owned. $7.10.")
+- Layer 1 (dominant): Large handwritten red-marker title across the top of the page — "Same rebate dollar. Different stop." in thick Permanent Marker style, double-underlined
+- Layer 2 (anchor): Three horizontal rebate-flow chains drawn in black ballpoint, evenly spaced from top to bottom. Each chain: four hand-drawn rectangular boxes connected by left-to-right arrows, labels "MANUFACTURER → AGGREGATOR → PBM → PLAN." In each chain, the AGGREGATOR box (position 2) is circled in red marker with a single freehand circle.
+- Layer 3 (punchline): Red-pen handwritten annotations to the right of each row, each pointing back to the circled AGGREGATOR box with a hand-drawn arrow, naming what the aggregator does in that row
 
 **Image Generation Prompt — Gemini (Imagen 4):**
 
 ```
-Photorealistic top-down photo, vertical 4:5 aspect ratio (1080x1350 px). A single printed PBM claims report page rests on a dark wood desk under soft natural daylight. The page is slightly off-white (#F5F0E4), positioned at a barely-perceptible 2-degree angle for authenticity, with a faint edge shadow.
+Photorealistic top-down photo, vertical 4:5 aspect ratio (1080x1350 px). A single sheet of white engineering grid paper (light blue 5-square-per-inch grid lines visible) rests on a dark wood desk under soft natural daylight. The paper is positioned at a barely-perceptible 2-degree angle for authenticity, with a faint shadow at the edges.
 
-Render all on-page and margin text exactly as written, with attention to spelling and legibility. The handwritten title, the three highlighted-row values, and the red margin annotations must all be readable at LinkedIn feed thumbnail size (about 600 pixels wide).
+Render all on-page text exactly as written, with attention to spelling and legibility. The handwritten title, the box labels (MANUFACTURER, AGGREGATOR, PBM, PLAN), and the red-pen margin annotations must all be readable at LinkedIn feed thumbnail size (about 600 pixels wide). No additional decorative props on the desk — no coffee cup, no pen prop, no clipboard, no clutter.
 
-At the top of the page, a small printed report header in bold black serif type: "PHARMACY BENEFIT MANAGEMENT · QUARTERLY CLAIMS DETAIL · Q1 2026."
+At the top of the page, large handwritten red permanent marker (Permanent Marker style, 36pt, double-underlined): "Same rebate dollar. Different stop."
 
-Below the header, a printed table with five column headers in small uppercase Plex Sans SemiBold: DRUG, CHANNEL, NDC, MAC, PLAN PAID.
+Below the title, three horizontal rebate-flow chains drawn in black ballpoint pen, evenly spaced from top to bottom of the page. Each chain is identical in structure and consists of four hand-drawn rectangular boxes connected by left-to-right arrows.
 
-The table body has roughly 12 rows in small Plex Mono Regular 9pt black type — realistic claims data with plausible generic drug names (Metformin 500mg, Lisinopril 10mg, Amlodipine 5mg, Levothyroxine 50mcg, etc.), each row showing a channel, an NDC, a MAC value, and a plan-paid amount. The rows look like real PBM claims data: dense, monospace, slightly mundane.
+Row 1 (about 350px from top):
+  Four boxes labeled left to right in handwritten black ballpoint print: "MANUFACTURER" → "AGGREGATOR" → "PBM" → "PLAN"
+  Each box about 130px wide x 70px tall, hand-drawn with slightly imperfect edges
+  Arrows between boxes are hand-drawn black ballpoint arrows
+  The AGGREGATOR box (position 2) is circled in red marker — a single freehand circle with slightly imperfect edges
+  Red-pen annotation to the right of the row, with a hand-drawn arrow pointing from the annotation back to the circled AGGREGATOR box: "Keeps a service fee."
 
-Three of the rows are physically highlighted with marker passes, each a different color, and each row shows the SAME drug "Atorvastatin 40mg" with the SAME MAC value "$4.20" but a different channel and different Plan Paid amount:
-- Yellow highlighter pass (#F4E27B at 60% opacity) on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
-- Green highlighter pass (#B8E6B8 at 60% opacity) on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $6.60"
-- Pink highlighter pass (#F4B8C8 at 60% opacity) on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $9.40"
+Row 2 (about 600px from top):
+  Same four-box chain layout: "MANUFACTURER" → "AGGREGATOR" → "PBM" → "PLAN"
+  AGGREGATOR box circled in red marker
+  Red-pen annotation to the right with arrow: "Separately incorporated. Often offshore."
 
-Across the top of the page, in large handwritten red permanent marker (Permanent Marker style, 32pt, double-underlined): "Same drug. Same MAC. Three margins."
+Row 3 (about 850px from top):
+  Same four-box chain layout: "MANUFACTURER" → "AGGREGATOR" → "PBM" → "PLAN"
+  AGGREGATOR box circled in red marker
+  Red-pen annotation to the right with arrow: "Same corporate parent as the PBM."
 
-To the right of each highlighted row, in handwritten red ballpoint (Caveat or Permanent Marker style, 18pt bold), arrows draw from the row to the annotation:
-- Right of the yellow row: "Retail. Margin $0.85."
-- Right of the green row: "Mail. Margin $2.40."
-- Right of the pink row: "PBM-owned mail. Margin $5.20."
+At the bottom of the page, in smaller handwritten red pen (Caveat style, 14pt): "The pass-through is what the PBM receives. Not what the manufacturer paid."
 
-At the bottom of the page, in smaller handwritten red pen (Caveat style, 14pt): "The MAC list is public. The margin is not."
+Style: realistic paper texture with subtle light-blue grid lines visible underneath the handwriting, soft natural daylight, no harsh shadows. Slightly imperfect handwriting with natural variation in ink pressure. Hand-drawn boxes have slightly uneven edges (not perfect rectangles) for authenticity. Red marker circles are imperfect freehand. No people, no logos, no real company names visible in the image (the boxes use generic labels MANUFACTURER, AGGREGATOR, PBM, PLAN), no PBS branding overlay.
 
-Style: realistic paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting with natural variation. Highlighter strokes have slightly uneven edges (not perfect rectangles) for authenticity. No people, no logos, no real PBM company names, no client names, no extra props (no coffee cup, no pen prop), no PBS branding overlay.
-
-Color palette: dark wood desk, off-white claims-report paper (#F5F0E4), faint black printed claims data, yellow highlighter (#F4E27B), green highlighter (#B8E6B8), pink highlighter (#F4B8C8), red handwritten ballpoint and marker (#C0392B).
+Color palette: dark wood desk, white engineering grid paper with light blue 5-square-per-inch grid lines (#A8C8E0 at low opacity), black ballpoint pen (#1C1C1C), red handwritten marker and ballpoint (#C0392B).
 ```
 
 **Image Generation Prompt — ChatGPT (GPT-4o):**
@@ -690,63 +707,56 @@ Color palette: dark wood desk, off-white claims-report paper (#F5F0E4), faint bl
 ```
 Generate a photorealistic top-down photograph at 1080x1350 pixels (vertical 4:5).
 
-The scene: a single page of a printed PBM claims report lying flat on a dark wood desk under soft natural daylight. The page is slightly off-white, angled about 2 degrees, with a soft shadow underneath. The page fills about 85% of the frame.
+The scene: a single sheet of white engineering grid paper (light blue 5-square-per-inch grid lines) lying flat on a dark wood desk under soft natural daylight. The paper is angled about 2 degrees, with a soft shadow underneath. The paper fills about 85% of the frame.
 
-Important: render all text on the page and in the handwritten margin annotations with careful attention to spelling and legibility. The handwritten title, the three highlighted rows, and the three red margin annotations are the most important text elements — they must be readable at LinkedIn feed thumbnail size (about 600 pixels wide). No additional decorative props on the desk — no coffee cup, no pen, no books, no clutter.
+Important: render all text on the page and in the handwritten margin annotations with careful attention to spelling and legibility. The handwritten title, the four box labels in each chain (MANUFACTURER, AGGREGATOR, PBM, PLAN), and the three red-pen margin annotations must all be readable at LinkedIn feed thumbnail size (about 600 pixels wide). No additional decorative props on the desk — no coffee cup, no pen, no books, no clutter.
 
-The report's content, top to bottom:
+The page contents, top to bottom:
 
-1. Small printed header at the top: "PHARMACY BENEFIT MANAGEMENT · QUARTERLY CLAIMS DETAIL · Q1 2026"
+1. Across the top of the page, a large hand-written red-marker title in thick Permanent Marker style, double-underlined: "Same rebate dollar. Different stop."
 
-2. A printed table with five column headers in small uppercase letters: DRUG, CHANNEL, NDC, MAC, PLAN PAID
+2. Three horizontal rebate-flow chains drawn in black ballpoint pen, evenly spaced from top to bottom. Each chain has the same structure: four hand-drawn rectangular boxes connected by left-to-right arrows. The four boxes are labeled, left to right: MANUFACTURER, AGGREGATOR, PBM, PLAN. The boxes are hand-drawn with slightly imperfect edges. The arrows between boxes are hand-drawn black ballpoint.
 
-3. About 12 rows of small printed claims data in monospace font. Use plausible generic drug names (Metformin 500mg, Lisinopril 10mg, Amlodipine 5mg, Levothyroxine 50mcg, Omeprazole 20mg, etc.). Each row shows a channel, an NDC code, a MAC value, and a plan-paid amount. The rows should look like real, mundane claims data.
+3. In each of the three chains, the AGGREGATOR box (position 2) is circled by a freehand red marker stroke — a single circle with slightly imperfect edges.
 
-4. Three of the rows are highlighted with marker passes (about 60% opacity, slightly imperfect strokes), each a different color, and EACH HIGHLIGHTED ROW SHOWS THE SAME DRUG ("Atorvastatin 40mg") WITH THE SAME MAC ("$4.20") BUT A DIFFERENT CHANNEL AND DIFFERENT PLAN PAID AMOUNT:
+4. To the right of each chain, a hand-drawn arrow in red pen points from a handwritten red-pen annotation back to the circled AGGREGATOR box. The three annotations, top to bottom:
+   - Row 1: "Keeps a service fee."
+   - Row 2: "Separately incorporated. Often offshore."
+   - Row 3: "Same corporate parent as the PBM."
 
-   - YELLOW highlighter on the Retail row: "Atorvastatin 40mg | Retail | NDC 00378-2375 | $4.20 | $5.05"
-   - GREEN highlighter on the Mail row: "Atorvastatin 40mg | Mail | NDC 00378-2375 | $4.20 | $6.60"
-   - PINK highlighter on the PBM-Owned row: "Atorvastatin 40mg | PBM-Owned Mail | NDC 00378-2375 | $4.20 | $9.40"
+5. At the bottom of the page, in smaller handwritten red pen: "The pass-through is what the PBM receives. Not what the manufacturer paid."
 
-5. Across the top of the page (overlaid over the page header area), a large hand-written red-marker title in thick Permanent Marker style, double-underlined: "Same drug. Same MAC. Three margins."
+Style notes: realistic paper texture with the engineering grid visible at low opacity behind the handwriting, soft natural daylight, slight imperfections in the handwriting (uneven line spacing, minor ink variation), red marker circles that are imperfect freehand. The image should read as a real sketch that someone (a pharmacy benefits auditor) drew on grid paper during a contract review. Not as a designed infographic.
 
-6. To the right of each highlighted row, in bold red handwritten ballpoint (Caveat or Permanent Marker style), with a hand-drawn arrow pointing from the annotation to the row:
-   - Beside the yellow row: "Retail. Margin $0.85."
-   - Beside the green row: "Mail. Margin $2.40."
-   - Beside the pink row: "PBM-owned mail. Margin $5.20."
+Color palette: dark wood desk surface, white engineering grid paper, light-blue grid lines at low opacity, black ballpoint pen, red handwritten marker and ballpoint.
 
-7. At the bottom of the page, in smaller handwritten red pen: "The MAC list is public. The margin is not."
-
-Style notes: realistic paper texture, soft natural daylight, slight imperfections in the handwriting (uneven line spacing, minor ink variation), highlighter strokes that aren't perfect rectangles. The image should read as a real claims report that someone (a pharmacy benefits auditor) printed out and physically annotated by hand. Not as a designed infographic.
-
-Color palette: dark wood desk surface, off-white claims paper (#F5F0E4), faint black printed claims data, yellow highlighter (#F4E27B), green highlighter (#B8E6B8), pink highlighter (#F4B8C8), red handwritten marker and ballpoint (#C0392B).
-
-No people, no logos, no real PBM company names, no client names, no PBS branding overlay.
+No people, no logos, no real PBM or GPO company names visible in the image (the post copy names them; the image uses only generic labels MANUFACTURER, AGGREGATOR, PBM, PLAN), no PBS branding overlay.
 ```
 
 **Post-Generation Steps:**
 1. Generate base image using either Gemini or ChatGPT prompt above
-2. Verify the three highlighted rows render with the correct three colors (yellow, green, pink) and that each highlighted row shows the same drug name + same MAC + different Plan Paid amount
-3. Verify the handwritten title "Same drug. Same MAC. Three margins." renders legibly at the top
-4. Verify each of the three margin annotations renders legibly with the correct margin dollar value ($0.85 / $3.40 / $7.10)
-5. If any text renders illegibly or misspelled (including drug names, NDC codes, or channel labels), overlay clean text in Canva using Plex Mono for printed data and Permanent Marker / Caveat for handwriting
-6. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
-7. **Hard legibility gate before publish:** resize the exported PNG view to 600px wide. You must be able to read the big handwritten title, the three margin dollar values ($0.85 / $2.40 / $5.20), and the channel names in the annotations without zooming. The smaller printed claims data does NOT need to be readable at thumbnail (it provides authenticity but isn't the message). If any of the three required elements fail, regenerate or hand-overlay in Canva.
-8. Export as PNG at 1080 x 1350
+2. Verify all three chains render the same four-box sequence (MANUFACTURER → AGGREGATOR → PBM → PLAN)
+3. Verify the AGGREGATOR box is circled in red in each of the three chains
+4. Verify the handwritten title "Same rebate dollar. Different stop." renders legibly at the top
+5. Verify each of the three red-pen annotations renders legibly with the correct text ("Keeps a service fee." / "Separately incorporated. Often offshore." / "Same corporate parent as the PBM.")
+6. If any text renders illegibly or misspelled (including box labels), overlay clean text in Canva using Plex Mono for box labels and Permanent Marker / Caveat for handwriting
+7. No PBS logo, no Benefit Blind Spots badge — the image stands on its own per W18 Channel Pricing precedent
+8. **Hard legibility gate before publish:** resize the exported PNG view to 600px wide. You must be able to read the big handwritten title, the four box labels in at least one chain, and the three red-pen annotations without zooming. If any of those fail, regenerate or hand-overlay in Canva.
+9. Export as PNG at 1080 x 1350
 
 ---
 
 ## Post 75 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 44 words
+**Word Count:** ~50 words
 
 #### Reshare Copy
 
-Same MAC list. Three dispensing channels. Three different margins. The MAC is public; the margin is not, and one PBM decides who sees which number.
+Your PBM passes through 100% of manufacturer rebates. The rebate aggregator in the chain does not have to. Three PBMs, three GPOs (Zinc, Ascent, Emisar), each sitting upstream of the PBM.
 
-Ginny Crisp walks through where channel-level margin lives in the contract and the single data ask that surfaces it.
+Ginny Crisp walks through where the aggregator's economics hide in PBM contract language and what to ask before the next renewal.
 
-#NetworkDesign #SelfFundedEmployers #EmployeeBenefits
+#Rebates #SelfFundedEmployers #EmployeeBenefits
 
 ---
 
@@ -823,7 +833,7 @@ A CFO once asked me how I had time to read all 14 pages of a quarterly PBM repor
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: the five lines to read first in your PBM's quarterly report. The 30-minute version of the full audit. If you have your most recent quarterly report and time between meetings, here is the order to scan it in, plus a printable plan-sponsor checklist attached.
+New field note: finding the rebate aggregator in your PBM contract. The three places the aggregator's economics hide in contract language, the pattern we see across hundreds of contract reviews per year at PBS, and what to ask before the next renewal. Twenty minutes with your rebate clause and a coffee.
 
 Read the field note: [LINK]
 
@@ -892,11 +902,11 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 ## Content Schedule
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM) — "What Your PBM's Quarterly Report Actually Tells You"
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM) — Quarterly Reporting Briefing
-- [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM) — "Five Lines to Read First in Your PBM's Quarterly Report" (Quarterly Reporting Checklist PDF embedded at bottom of post)
+- [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM) — "Finding the Rebate Aggregator in Your PBM Contract" (Quarterly Reporting Checklist PDF embedded at bottom of post — same Mon toolkit, since the Field Note answers the rebate-aggregation question Mon's checklist flags)
 - [ ] Post 73 Library 02 Contract Comparison carousel created - "The Five Clauses the Best Brokers Check First" (7 slides, matches Library 01 standard) — Broker/Consultant Resources pillar, DIFFERENT from Monday's Transparency & Industry Education pillar
 - [ ] Post 73 first comment drafted with link to LinkedIn Newsletter
 - [ ] Post 74 text post finalized - "14 pages. 3 numbers. None of them are in the report." Wednesday tease hook
-- [ ] Post 75 SLOT B single-image messy infographic designed - "Same MAC. Different dispensing channel. Different margin." (Claims Report with three highlighted rows photoreal aesthetic, Transparency & Industry Education pillar; Thursday evergreen rotation Slot B). See PART 3 Post 75 for image generation prompts (Gemini and ChatGPT versions) and legibility gate.
+- [ ] Post 75 SLOT B single-image messy infographic designed - "The rebate aggregator your contract does not name." (Rebate Flow Ledger on engineering grid paper photoreal aesthetic, Transparency & Industry Education pillar with Rebates topic anchor; Thursday Excellence Slot B). See PART 3 Post 75 for image generation prompts (Gemini and ChatGPT versions) and legibility gate.
 - [ ] Post 76 text post finalized - "The Therapy That Changes Everything" tease hook (teases W22 biosimilar strategy)
 - [ ] Company reshares scheduled (Tue + Thu at 1:30 PM)
 - [ ] All Substack Notes drafted (morning/afternoon cadence, Mon-Fri + Saturday engagement)
@@ -907,10 +917,10 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 # PART 6: ASSETS NEEDED
 
 - [ ] Post 73: Library 02 Contract Comparison carousel (7 slides, 1080 x 1350 px each) - "The Five Clauses the Best Brokers Check First." Matches Library 01 visual standard: Primary Blue cover + close, off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "Why it matters" panels. Broker/Consultant Resources pillar. See PART 3 Post 73 for slide-by-slide spec and image generation prompt.
-- [ ] Post 75: Slot B Same MAC single-image messy infographic (1 image, 1080 x 1350 px) - photorealistic printed PBM claims report on a desk with three rows highlighted in yellow/green/pink, handwritten red-marker title across the top, and red-pen margin annotations naming each channel's margin. See PART 3 Post 75 for the full image generation prompts (Gemini and ChatGPT) and post-generation legibility gate.
+- [ ] Post 75: Slot B Rebate Aggregator single-image messy infographic (1 image, 1080 x 1350 px) - photorealistic engineering grid paper on a dark wood desk with three hand-drawn rebate-flow chains (MANUFACTURER → AGGREGATOR → PBM → PLAN), the AGGREGATOR box circled in red marker in each chain, handwritten red-marker title across the top ("Same rebate dollar. Different stop."), and red-pen margin annotations naming the aggregator's role per row. See PART 3 Post 75 for the full image generation prompts (Gemini and ChatGPT) and post-generation legibility gate.
 - [ ] LinkedIn Newsletter header image
 - [ ] Substack article header image (Topic Icon template, Primary Blue background, clipboard with 15-line report layout)
-- [ ] Substack Field Note header image (Data Highlight template, white background, clipboard with 5 highlighted rows)
+- [ ] Substack Field Note header image (Data Highlight template, white background, four-box rebate flow diagram with AGGREGATOR box highlighted in Accent Blue, dollar-flow labels showing manufacturer-to-PBM retention)
 - [ ] Plan Sponsor Toolkit PDF: `templates/documents/week_21_quarterly_reporting_checklist.pdf` (rendered from `.html` source; 2 pages; visual parity with Week 16 PA ROI Audit Scorecard)
 
 ---
@@ -941,12 +951,13 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 |------|------------|-----------------|--------|
 | Post 73 (Library 02 Contract Comparison Carousel) | - | - | |
 | Post 74 (Text) | - | - | |
-| Post 75 (Slot B Same MAC Claims Report Messy Infographic) | - | - | |
+| Post 75 (Slot B Rebate Aggregator Rebate Flow Ledger Messy Infographic) | - | - | |
 | Post 76 (Text) | - | - | |
 
 > **PERFORMANCE NOTES APPLIED:**
 > - Tuesday uses different pillar from Monday newsletter (prevents cannibalization). Tue Library 02 = Broker/Consultant Resources; Mon = Transparency & Industry Education.
-> - Thursday carries Slot B evergreen rotation post (Cost Containment pillar), different from Monday's Transparency pillar.
+> - Thursday carries Slot B Thursday Excellence post (Transparency pillar with Rebates topic anchor). Monday is also Transparency (Quarterly Reporting) but different subject matter — Mon is "what the report shows and what it leaves out," Thu is "the corporate-structure reason one of those missing lines aggregates." Adjacent, not duplicative; passes the triple-distinct topic test per CLAUDE.md Architecture B.
+> - Thursday topic rebuilt May 21, 2026 from "Same MAC. Three channels. Three margins." after Memorial Day topic-recency and W18/W20 pricing-mechanic cluster analysis. Displaced Claims Report visual parked in `evergreen_visual_backlog.md` #36; displaced "Auditing Your MAC Margin" Field Note parked in `field_note_backlog.md` FN-19.
 > - Wednesday hook uses parallel decoder structure: "Your PBM has it. The standard quarterly report does not show it." — names PBM as adversary and creates a knowledge gap on the three numbers that determine renewal price.
 > - Memorial Day week is a known engagement dip per CLAUDE.md seasonal patterns; topic is intentionally evergreen so the value lives beyond the publish date.
 
@@ -955,6 +966,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 *File created: February 2026*
 *Updated: March 2026 - Performance lessons applied*
 *Updated: May 2026 - Topic retargeted from Compounding Oversight to PBM Quarterly Reporting (broader, higher-converting Transparency pillar fit for Memorial Day evergreen)*
+*Updated: May 21, 2026 - Thursday LinkedIn + Field Note rebuilt from "Same MAC. Three channels. Three margins." Channel Pricing decoder to Rebate Aggregator decoder. Memorial Day topic-recency concerns vs. W18 Channel Pricing 17K winner + W18/W20/W21 Thursday pricing-mechanic cluster were the drivers. New Thursday names the three PBM GPOs (Zinc / Ascent / Emisar) by name and domicile mapped to their PBMs (Caremark / ESI / OptumRx) per 2024 FTC interim report; new Field Note is the audit framework for finding the aggregator's economics in contract language. Displaced Claims Report visual parked in evergreen_visual_backlog.md #36; displaced MAC Margin Field Note parked in field_note_backlog.md FN-19.*
 *Status: DRAFT COMPLETE*
 
 ---
