@@ -25,6 +25,9 @@ FEEDS: list[tuple[str, str]] = [
     ("PCMA Blog", "https://www.pcmanet.org/feed/"),
     ("Pharmacy Times", "https://www.pharmacytimes.com/rss"),
     ("Modern Healthcare", "https://www.modernhealthcare.com/rss.xml"),
+    ('Google Alert - PBM + FTC', "https://www.google.com/alerts/feeds/17991989331388356952/4714318431491019217"),
+    ('Google Alert - Pharmacy Benefit Manager + lawsuit', "https://www.google.com/alerts/feeds/17991989331388356952/15092640591485083440"),
+    ('Google Alert - spread pricing + legislation', "https://www.google.com/alerts/feeds/17991989331388356952/12055287841271080051"),
 ]
 
 OUTPUT = Path("newsletters/roundups/rss_weekly_feed.md")
