@@ -101,7 +101,7 @@
 
 ### Channel 1: LinkedIn Feed
 - **Profile:** Ginny Crisp's personal LinkedIn
-- **Followers:** 1,374 (as of April 3, 2026)
+- **Followers:** 1,866 (as of May 22, 2026; was 1,374 on April 3)
 - **Frequency:** 4x/week + company reshares
 - **Tone:** Confident clinical provocation. Short. Declarative. One stat as hook.
 
@@ -120,7 +120,7 @@
 
 ### Channel 2: LinkedIn Newsletter
 - **Name:** "The Pharmacy Benefits Briefing"
-- **Subscribers:** 605 (as of April 3, 2026)
+- **Subscribers:** 913 (as of May 22, 2026; was 605 on April 3)
 - **Frequency:** Weekly, Mondays at 7:45 AM EST
 - **Length:** 350-500 words (~2-minute read)
 - **Tone:** Executive briefing. Story-driven opening. First sentence is substance.
@@ -131,7 +131,7 @@
 - **Tagline:** "What your pharmacy benefits aren't showing you"
 - **URL:** benefitblindspots.substack.com
 - **Handle:** @ginnycrisp
-- **Subscribers:** 15 (as of April 3, 2026)
+- **Subscribers:** 78 (as of May 22, 2026; 1 paid + 77 free. Was 15 on April 3)
 - **Frequency:** Weekly, Mondays at 7:30 AM EST (15 min before LinkedIn Newsletter)
 - **Length:** 1,400-1,600 words (~6-minute read)
 - **Tone:** Analytical authority with personal voice. Uses "I" and "we" framing.
@@ -305,7 +305,7 @@ Applies to all newsletter week files from W20 forward. Backfill prior weeks (W16
 
 ### Primary conversion metric: followers per 10K impressions
 
-LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of May 8, 2026: **1,726 LinkedIn followers, 836 newsletter subscribers, 65 Substack subscribers**. Cuban amplification confirmed for two consecutive weeks (Apr 19 cluster, Apr 30 W17 carve-out POV). Substack growth +18% week-over-week (May 4-8); ~6-7 of W18's +10 Substack subs traced to LinkedIn first-comment cross-promo. W18 Pipeline Monday deep dive cleared **119 Substack views** (4.76× typical), the highest single-post Substack view count in the data set since launch.
+LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of May 22, 2026: **1,866 LinkedIn followers (+140 since May 8), 913 newsletter subscribers (+77 since May 8), 78 Substack subscribers (+13 since May 8) — of which 1 paid + 77 free; first paid sub attributed to W19 Fiduciary deep dive May 11, $80 revenue**. Cuban amplification confirmed for two consecutive weeks (Apr 19 cluster, Apr 30 W17 carve-out POV); Cuban likes-only on W18 Thursday Channel Pricing and W19 Wednesday PCMA produced zero reach lift, validating the May 8 likes-only rule (second and third confirming data points). **W20 Manufacturer Programs Monday deep dive (May 18) cleared 145 Substack views, the new single-post view record, surpassing W18 Pipeline's 119/127 mature.** 4 new subs from W20 Mon deep dive (3 traceable to LinkedIn first-comment cross-promo, 1 direct). Substack lead-magnet ladder is now load-bearing: gated-PDF behind free-sub + LinkedIn first-comment cross-promo = 4-5 subs per Monday deep dive across W18, W19, W20 — even before the Wix landing page goes live. Inbound-email behavior (mailto:team@rxbs.org clicks) reproduced across W19 Fiduciary (5 clicks) and W20 Reading the Rebate Report (5 clicks), establishing it as a third documented Substack-conversion mechanism alongside gated-PDF and first-comment cross-promo.
 
 ### All-time top posts by impressions (top 10)
 
