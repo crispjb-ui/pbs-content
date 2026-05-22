@@ -14,7 +14,7 @@
 | Tue May 26 | 8:30 AM | LinkedIn Feed | Post 73 - "The Five Clauses the Best Brokers Check First" Library 02 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue May 26 | 8:35 AM | LinkedIn Feed | Post 73 - First Comment | [ ] |
 | Tue May 26 | 1:30 PM | LinkedIn Company | Company Reshare of Post 73 | [ ] |
-| Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) — OR Post 74 ALTERNATE "Three nonprofit hospital systems sued CVS Health yesterday." 340B News Critique (TEXT). Pick one. | [ ] |
+| Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) — OR Post 74 ALTERNATE "Three nonprofit hospital systems sued CVS Health on May 21." 340B News Critique (TEXT). Pick one. | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 28 | 7:30 AM | Substack | Field Note: "Finding the Rebate Aggregator in Your PBM Contract" | [ ] |
 | Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - The rebate aggregator your contract does not name. (Single-image messy infographic, Rebate Flow Ledger on grid paper photoreal aesthetic, Thursday Excellence Slot B) | [ ] |
@@ -635,21 +635,21 @@ This week's Benefit Blind Spots deep dive on PBM quarterly reporting is the oper
 ---
 
 ## Post 74 ALTERNATE - Wednesday 8:30 AM
-### "Three nonprofit hospital systems sued CVS Health yesterday." 340B Vertical-Integration News Critique (Text)
+### "Three nonprofit hospital systems sued CVS Health on May 21." 340B Vertical-Integration News Critique (Text)
 
 > **Added May 22, 2026 as a second option for W21 Wednesday.** Both posts are drafted and ready; Ginny picks one to publish Wednesday 8:30 AM. The original "14 pages. 3 numbers." tease (above) keeps the Mon→Wed→Thu quarterly-reporting throughline intact. This alternate trades that throughline for a fresh news cycle: the May 21, 2026 federal lawsuits filed by Mount Sinai, University of Michigan Health (with Sparrow Hospital), and University of Kansas Hospital Authority against CVS Health and four subsidiaries (CaremarkPCS, Caremark LLC, CVS Specialty, Wellpartner), alleging ~$250M in 340B savings diversion between 2020 and 2025. Per Frier Levitt (Jonathan Levitt, founding partner) the alleged mechanism is retroactive 340B identification by Wellpartner followed by an artificially reduced CaremarkPCS-to-CVS-Specialty reimbursement that conceals the spread. Per the CLAUDE.md decoder reader-actionability rule (340B economics sit with providers, not plan sponsors), 340B content reshapes as Wednesday POV awareness play rather than Thursday decoder. Vertical-integration thesis ties cleanly to W21 Thursday's Rebate Aggregator decoder (same corporate-shell mechanism in a different revenue stream) and to Monday's Quarterly Reporting deep dive (audit-rights clauses determine whether a plan sponsor can follow the dollar across affiliated entities). Sources: Fierce Healthcare, AJMC, Modern Healthcare, Fox Business, amNewYork, Becker's. CVS had not publicly responded to the suits as of post draft date; re-verify morning of publish and add an acknowledgment line if CVS files a denial.
 
 - **Format:** Text Post (News Critique)
 - **Pillar:** Transparency & Industry Education (with 340B topic anchor)
 - **Word Count:** ~295 words
-- **Hook:** "Three nonprofit hospital systems sued CVS Health yesterday. Mount Sinai. University of Michigan Health. University of Kansas Hospital Authority."
+- **Hook:** "Three nonprofit hospital systems sued CVS Health on May 21. Mount Sinai. University of Michigan Health. University of Kansas Hospital Authority."
 - **Named actors:** CVS Health, CaremarkPCS, CVS Specialty, Wellpartner (defendants); Mount Sinai, University of Michigan + Sparrow, University of Kansas Hospital Authority (plaintiffs)
 - **Proprietary anchor:** "After reviewing hundreds of PBM contracts a year at PBS, the affiliated-entity audit-rights clause that would let a plan sponsor follow the dollar across CaremarkPCS, CVS Specialty, and CVS-affiliated dispensing appears in fewer than half of the contracts we see."
 - **Discipline rules baked in:** (a) every CVS-conduct claim uses "allege" / "according to the complaint" / "per the complaint" — never stated as fact; (b) one acknowledgment line that CVS has not publicly responded as of this writing (re-verify morning of publish); (c) plan-sponsor pivot anchors the news to PBS's audience rather than retelling the story for its own sake.
 
 #### Post Copy
 
-Three nonprofit hospital systems sued CVS Health yesterday.
+Three nonprofit hospital systems sued CVS Health on May 21.
 
 Mount Sinai. University of Michigan Health. University of Kansas Hospital Authority.
 
