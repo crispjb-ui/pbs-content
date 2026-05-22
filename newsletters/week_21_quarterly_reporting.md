@@ -305,6 +305,97 @@ PBM Compensation is the universal zoom-out anchor for any single-stream audit fr
 
 ---
 
+# PART 1D: WEDNESDAY SUBSTACK ROUNDUP — STORY DRAFTS
+
+> **Manually curated trifecta for `roundup_2026_05_26.md` (publishes Wed May 27 7:30 AM EST).** The Tuesday auto-generation routine should be reviewed against this draft; the three stories below are the required content, in order, with PBS's interpretive framing. If the auto-routine pulled different leads, replace its output with the prose below. The 48-hour-arc narrative (May 21-22) is the reason this roundup needs manual lock — the auto-routine pulls news but does not synthesize across stories.
+
+## Roundup Header
+
+**Title:** What Crossed My Desk This Week: May 27, 2026
+
+**Subtitle:** Three hospital systems sue CVS for $250M, Pennsylvania releases its Act 77 PBM study, CVS sues Tennessee to block its divestiture law
+
+**Publication:** Benefit Blind Spots
+**Publish:** Wednesday, May 27, 2026 at 7:30 AM EST
+**Length:** ~850 words (4-5 min read)
+**Tone:** Informed authority with personal filter
+**Type:** Weekly Roundup (Free, not paywalled)
+**Pillar:** Cross-pillar (Transparency, PBM Contract Insights, Self-Funded Employer Guidance)
+
+---
+
+## Article Body
+
+Three PBM stories landed in 48 hours last week. Read together, they tell one story about where extraction is moving next and what state regulators are catching up to.
+
+Thursday morning, three nonprofit hospital systems filed federal lawsuits against CVS Health alleging $250 million in 340B savings were quietly diverted by four CVS subsidiaries acting together. The same afternoon, Pennsylvania's Insurance Department released a study commissioned under the state's Pharmacy Benefit Reform Act, finding that traditional spread pricing has decreased meaningfully under state pressure. Then Friday, CVS filed its own lawsuit against the State of Tennessee, challenging the constitutionality of Tennessee's new law requiring PBMs to divest pharmacy ownership.
+
+Here is what plan sponsors should take from each.
+
+---
+
+### Hospital Systems Sue CVS for $250M in Alleged 340B Diversion
+
+*Fierce Healthcare, AJMC, Modern Healthcare, Becker's | May 21, 2026*
+
+Mount Sinai, University of Michigan Health (with Sparrow Hospital), and the University of Kansas Hospital Authority each filed separate federal lawsuits last Thursday. The hospitals allege CVS Health subsidiaries (CaremarkPCS, Caremark LLC, CVS Specialty, and Wellpartner) operated together to capture approximately $250 million in 340B Drug Pricing Program savings between 2020 and 2025.
+
+The alleged mechanism, per the complaints: Wellpartner, the third-party administrator, identifies a claim as 340B-eligible weeks after the point of sale. CaremarkPCS, the PBM, then pays CVS Specialty, the dispensing pharmacy, an artificially reduced reimbursement rate. Wellpartner reports that reduced amount to the hospital as the full reimbursement. The earlier, higher-rate claim is concealed.
+
+From the complaints: "this scheme could not function without vertical integration."
+
+For self-funded plan sponsors, the lawsuit is about 340B, but the pattern is not. The same vertical-integration mechanism operates on commercial claims at every self-funded plan whose PBM contract does not reach affiliated-entity transactions in its audit-rights clause. The hospitals could litigate this because their audit rights were broad enough and the dollars were big enough. Most plan sponsors have neither. In the hundreds of PBM contracts we review each year at PBS, the affiliated-entity audit-rights clause that would let a plan sponsor follow the dollar across CaremarkPCS, CVS Specialty, and CVS-affiliated dispensing appears in fewer than half. The other half are working from an audit clause that stops at the PBM's books. CVS has not publicly responded to the lawsuits as of this writing.
+
+---
+
+### Pennsylvania Insurance Department Releases Act 77 PBM Study
+
+*Pennsylvania Insurance Department | May 21, 2026*
+
+Also Thursday, Pennsylvania released the PBM study Act 77 of 2024 required the Insurance Department to commission. Freedman Healthcare LLC analyzed 2022-2024 data from the five PBMs that account for 100 percent of Pennsylvania's fully-insured individual and small group market and 84 percent of the large group market: Caremark, Express Scripts, Navitus, OptumRx, and Prime Therapeutics.
+
+The findings are quotable and worth reading carefully. Steering had limited evidence of broad effect on prescription drug costs and pharmacy access. Spread pricing exists but is relatively limited and decreasing. A proposed reimbursement reform requiring pharmacy payments to be based on the National Average Drug Acquisition Cost plus a $10.49 dispensing fee would redistribute payments rather than increase total spending. The redistribution would shift approximately $14 million annually to independent retail pharmacies, or 0.3 percent of total fully-insured drug costs in the Commonwealth.
+
+The headline read is that under sustained state pressure, traditional spread pricing has measurably retreated. Insurance Commissioner Michael Humphreys credits Act 77 specifically for the shift.
+
+For plan sponsors, the study is the rear-view mirror. The PBM extraction methods state regulators are now documenting are the ones PBMs have already moved past. Where the extraction is going next is what the CVS lawsuit above describes: vertical integration, affiliated-entity transactions, dispensing-channel margin spread. The PA study covers fully-insured plans, not self-funded, but the directional signal (extraction migrating, not disappearing) applies to both.
+
+---
+
+### CVS Sues Tennessee to Block PBM Divestiture Law
+
+*Six Rivers Media | May 22, 2026*
+
+Friday afternoon, CVS Pharmacy and CVS Caremark filed a federal complaint against the Tennessee Board of Pharmacy and Attorney General in the U.S. District Court for the Middle District of Tennessee. The complaint challenges the constitutionality of Tennessee's new law that would require PBMs to divest pharmacy ownership, arguing the law unconstitutionally restricts interstate commerce and is preempted by federal law.
+
+The legal theory is roadmap material. The complaint cites a similar Arkansas law that was blocked by a federal judge in July 2025 on Dormant Commerce Clause grounds. If Tennessee follows the Arkansas path, the parallel federal Patients Before Monopolies Act reintroduced by Senators Warren and Hawley two weeks ago faces a related test.
+
+The bill's Tennessee Senate sponsor, Bobby Harshbarger, framed the purpose plainly in March: "When you have insurers owning providers, owning the pharmacy benefit manager, owning the healthcare insurance, it's fundamentally wrong, in my opinion." CVS, in its complaint, frames the law as "targeting PBMs as a proxy" for what it characterizes as state protectionism for in-state pharmacies. As of 2023, CVS Caremark managed one-third of all U.S. prescription drug claims. As of 2021, the top three PBMs controlled 80 percent of the national market.
+
+---
+
+### The Through-Line
+
+The 340B lawsuit shows where extraction is happening: vertical integration. The Pennsylvania study shows where state pressure has reshaped traditional spread pricing. The Tennessee countersuit shows PBMs litigating to protect the vertical-integration model the other two stories expose.
+
+PBMs are evolving extraction methods faster than regulators can document them, and where regulators do catch up, PBMs are litigating to block the law.
+
+For plan sponsors, the practical takeaway is at the contract level. Three audit-rights and affiliated-entity questions worth asking your broker before the next renewal:
+
+- Does our PBM contract's audit-rights clause reach affiliated entities (the PBM's specialty pharmacy, mail-order pharmacy, and third-party administrator), or does it stop at the PBM's books?
+- Does our pass-through clause distinguish between rebates received by the PBM and rebates received by a corporate affiliate of the PBM that the PBM does not technically control but is owned by the same parent?
+- If we asked our PBM to disclose all corporate affiliates that touch our plan's claim flow, at any point, would the contract require them to answer?
+
+The hospitals that sued CVS this week could ask those questions because their contracts let them. Most plan sponsor contracts do not.
+
+---
+
+*This is the Wednesday Roundup. The full Monday Deep Dive on PBM quarterly reporting is here: [SUBSTACK MONDAY DEEP DIVE URL]. Thursday's Field Note on finding the rebate aggregator in your PBM contract is here: [SUBSTACK THURSDAY FIELD NOTE URL].*
+
+*Questions? Reach out at team@rxbs.org.*
+
+---
+
 # PART 2: LINKEDIN NEWSLETTER
 
 ## The Pharmacy Benefits Briefing - Issue #16
