@@ -1150,6 +1150,101 @@ Cuban liked the W18 Thursday Channel Pricing post (which then matured to 29,487 
 
 ---
 
+### Week 19 Matured Snapshot (Day 7+, captured May 22, 2026)
+
+W19 day-7+ reads on the four feed posts plus the Friday tease (which was missing from the initial W19 capture):
+
+| Post | Initial (day-1 to day-4) | Matured (Day 7+) | Multiplier |
+|------|---------------------------|-------------------|------------|
+| "Between renewals..." Tuesday infographic (Tue May 12) | 687 / 0 / 2 saves | **1,184 / 0 / 3 saves** | 1.72× / no follower lift |
+| PCMA Rhode Island Wednesday text (Wed May 13) | 4,037 / +2 / 22 comments / 6 rep (day 2) | **4,948 / +2 / 22 comments / 7 rep / 4 sends** | 1.22× / comments held / sends new |
+| "5 Formulary Questions" Thursday carousel (Thu May 14) | 741 / 0 / 5 saves / 12 comments (day 1) | **2,980 / +3 / 8 saves / 15 comments / 17 profile views** | 4.02× / +3 follower lift / save lift |
+| "Manufacturer money flows" Friday tease (Fri May 15) | (not captured at initial snapshot) | 755 / +1 / 1 save / 3 comments / 2 profile views | new entry |
+
+**Refined W19 reads:**
+
+1. **PCMA Wednesday post matures at 4,948 — a clear text-post breakout in W19 but below the documented confrontational-text floor (~25K).** 22 comments / 4,948 impressions = 0.44% comment rate is exceptional engagement density (third-highest in the data set after Cuban-amplified posts). The named-adversary + on-the-record-quote shape works; it just did not catch the full distribution this round. Possible factors: post-Cuban-cluster cooling, mid-May seasonality, or first-comment Substack cross-promo splitting attention with the article body. Sends (4) and reposts (7) are healthy.
+
+2. **W19 Thursday "5 Formulary Questions" matures at 2,980 — below the 5-15K Thursday Excellence band, but a 4× multiplier from day 1.** Confirms the rule's prediction that early reads under-represent Thursday carousels, but the mature read still falls short of the 17K reference figure. Working hypothesis: paper-card carousel aesthetic + decoder shape lands solidly, but doesn't replicate the "spread the dollars" emotional pull of the Channel Pricing named-PBM dollar comparison. Top demographic on the matured read: 32% Hospitals & Health Care, 29% 10,001+ employees, 6% Pharmacist — segment penetration is real even when raw impressions miss the 17K bar.
+
+3. **W19 Tuesday matures to 1,184 — still below the Tuesday Excellence Rule bar.** 1.72× multiplier on what was already a soft floor. Even at maturation, the "Between renewals" infographic landed under 2K impressions. Confirms the rule's diagnosis: lazy Tuesday underperforms regardless of timing. W20 Tuesday is the first post built under the rule; comparison below.
+
+4. **W19 Friday tease at 755 / +1 follower** is on the floor for Friday tease posts. The "Manufacturer money flows" hook teased W20 Monday but did not name the actor keeping the difference — likely the missing ingredient. Pattern continues from W18 / W19 Friday teases: text-only Friday teases without named adversaries reliably land in the 500-1K range.
+
+---
+
+### Week 20 Snapshot (May 18 - May 22, 2026)
+
+**Channel-by-channel headers (May 22):**
+
+- **LinkedIn Followers:** 1,866 (+52 since May 15)
+- **LinkedIn Newsletter Subscribers:** 913 (+30 since May 15)
+- **Substack Subscribers:** 78 (+6 since May 15) — **of which 1 paid + 77 free**
+
+#### Cuban Signal
+
+No documented Cuban signal on W20 posts at capture (May 22). User did not flag a like, comment, or repost from Cuban on any W20 content. First W-week without a Cuban signal since the April cluster.
+
+#### Week 20 Feed Posts
+
+| Post | Type | Day | Age at capture | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Demo Signal |
+|------|------|-----|----------------|------|---------|----|------|---------|-------|-------|---------------|-----------|-------------|
+| "Manufacturer Programs Briefing" Pharmacy Benefits Briefing (Newsletter Edition 10) | Newsletter | Mon May 18 | 4d | 1,188 feed / **523 article views / 703 email sends / 45% open** | 774 | 14 | 7 | 2 | 2 | 0 | 6 | +1 | HC 32%, Senior 28%, Salesperson 22% |
+| "PBM contract alphabet soup warning. Three acronyms. Three different drug pricing reference rates." MAC vs WAC vs AWP (Marked-Up Contract Page messy infographic) | Visual | Tue May 19 | 3d | **925** | 621 | 18 | 3 | 2 | 3 | 0 | 2 | +1 | HC 31%, Senior 25%, Hylant 2% |
+| "Elizabeth Warren and Josh Hawley don't agree on much. They just agreed PBMs shouldn't own the pharmacies they pay." Patients Before Monopolies Act reintroduction (Wed text post) | POV Text (named-adversary + bipartisan-policy event) | Wed May 20 | 2d | **2,163** | 1,404 | 42 | 10 | 5 | 3 | 1 | 11 | +1 | HC 28%, 10,001+ 25%, CVS Health 2% |
+| "Five terms in your rebate contract. Five definitions the PBM wrote. Four of them shrink your pass-through." 5 Rebate Terms Decoded (Slot A messy infographic) | Messy Infographic (decoder) | Thu May 21 | 1d | **2,074** | 1,512 | 22 | 2 | 4 | **8** | 1 | 8 | **+3** | HC 31%, 10,001+ 29%, Pharmacist 3% |
+| W20 Friday tease (Fri May 22) | Text | Fri May 22 | hours | data pending | — | — | — | — | — | — | — | — | — |
+
+> **Capture note:** W20 Thursday post is 1 day old at capture. W18 reference (Channel Pricing) matured from 3,948 at day 1 → 29,487 at day 7. W19 reference ("5 Formulary Questions") matured from 741 at day 1 → 2,980 at day 7. The 2,074 day-1 reading on W20 Thursday is between those two baselines; day-7 read (May 28) will determine which trajectory it tracks.
+
+#### Substack — Week 20 publication performance
+
+| Post | Date | Recipients | Views | Open rate | Link CTR | New subs | Revenue |
+|------|------|------------|-------|-----------|----------|----------|---------|
+| **"Manufacturer Programs and Your Plan: Understanding the Economics"** (Monday deep dive, free-sub-gated PDF) | May 18 | 72 | **145** | **44.44%** | **25% (8 clicks on toolkit PDF)** | **4 (3 from LinkedIn + 1 direct)** | — |
+| "What Crossed My Desk This Week: May 20, 2026" (Wednesday roundup, open / not gated) | May 20 | 78 | **78** | 100% reach-equivalent (typical 34 = **2.3× typical**) | engagement view not captured | 0 | — |
+| **"Reading the Rebate Report Without Getting Spun"** (Thursday Field Note, free-sub-gated PDF) | May 21 | 76 | 75 | 36.84% | 21.43% (6 link clicks: **5 to mailto:team@rxbs.org**, 1 to PDF, 1 to /subscribe) | 0 | — |
+
+**Manufacturer Programs deep dive is the new Substack record at 145 views — surpassing the W18 Pipeline deep dive (119 / 127 mature) cited in CLAUDE.md as the prior single-post high.** 25% CTR matched the W19 Fiduciary high; 4 new subs (3 traceable to LinkedIn first-comment cross-promo) confirms the Mon-deep-dive + gated-PDF + LinkedIn-first-comment funnel as the conversion engine.
+
+**The free-sub gate works as designed.** Ginny gated the toolkit PDF behind a free Substack subscription since the rxbs.org landing page is not yet live. 8 PDF clicks on the gated content → 4 free subs followed. User's note at capture: "it seems to work" — confirmed in the data.
+
+**Wednesday Roundup hit 78 views vs. 34 typical (2.3× typical view count) but produced 0 new subs.** The Warren-Hawley federal bill reintroduction as manually-curated lead (restored after automation overwrote per the W20 roundup file header) drove the open-rate spike. Pattern continues from W19 (Roundup 105 views, 0 subs) — Roundup is retention/engagement, not conversion.
+
+**Thursday Field Note "Reading the Rebate Report" had 5 of 6 clicks go to mailto:team@rxbs.org** — second consecutive week with significant inbound-email behavior (W19 Fiduciary deep dive also had 5 mailto clicks). Confirms the Substack mailto link as a reproducible lead-generation pattern across topics.
+
+### Week 20 Analysis
+
+1. **Tuesday underperformance is now a 3-week pattern (W18 MAC vs WAC vs AWP visual not captured at depth; W19 Tuesday 1,184 mature; W20 Tuesday 925 day-3).** W20 Tuesday "alphabet soup" Marked-Up Contract Page was the first post drafted under the Tuesday Excellence Rule (added May 9) — and it still underperformed. Three possible diagnoses: (a) the rule's craft bar is right but W20 implementation missed (no named adversary, decoder shape without confrontational hook), (b) the Marked-Up Contract Page format itself is the issue (illustration aesthetic rather than photoreal), (c) Tuesday slot fundamentally absorbs less feed attention because of Monday-newsletter spillover. W21 Library 02 Tuesday read on May 26 becomes the critical data point.
+
+2. **Wednesday is now the highest-leverage day in the current rotation.** W19 Wed (PCMA, 4,948 mature) and W20 Wed (Warren-Hawley, 2,163 day-2) both deliver above-Tuesday performance on text-post named-actor / named-policy-event format. Shared DNA: confrontational hook + named adversary + public-policy event the reader can verify externally. **The W21 CVS 340B alternate Wednesday post fits this pattern exactly.** Strong empirical case for shipping the alternate over the "14 pages. 3 numbers." original tease.
+
+3. **Thursday 5 Rebate Terms Decoded is on the Day-7 Watch List.** 2,074 at day 1 / 8 saves / 4 reposts / +3 followers — solid early data. 0.39% save-to-impression rate (8 / 2,074) is among the strongest save behaviors in the data set, characteristic of bookmark-for-renewal-prep decoder content. Day-7 read on May 28 determines whether it tracks the W19 trajectory (4× multiplier → 2,980 mature) or the W18 Channel Pricing trajectory (7.5× → 29,487). Either way, save behavior is already W18-comparable.
+
+4. **Substack lead-magnet ladder is now load-bearing.** W20 Mon deep dive + gated toolkit PDF + LinkedIn first-comment cross-promo = 4 new subs (3 LinkedIn-attributed). W19 Fiduciary deep dive + same funnel = 5 new subs + 1 paid. Two clean data points confirm: gated-PDF behind free-sub + LinkedIn first-comment is the documented Substack conversion engine. Even before the Wix landing page goes live, the free-sub gate replicates the lead-magnet behavior.
+
+5. **The mailto:team@rxbs.org inbound-link pattern is reproducible across topics.** W19 Fiduciary deep dive: 5 mailto clicks (clinical pharmacy + ERISA topic). W20 Thursday Field Note Reading the Rebate Report: 5 mailto clicks (contract decoder topic). Two consecutive weeks, two different topics, same pattern. Cumulative 10 mailto clicks. Worth treating as a third documented Substack-conversion mechanism alongside gated-PDF subs and LinkedIn-first-comment subs.
+
+6. **Newsletter open rate at 45% (W20 Manufacturer Programs) holds within the 44-47% baseline.** Subscriber growth +30 in 7 days (883 → 913) — solid but lower than W19's +47. Cumulative LinkedIn → Newsletter conversion held steady.
+
+7. **Substack subscriber growth +6 (72 → 78) in 7 days, including the 4 from Monday deep dive.** Consistent with W19's +7 growth. The 6-7/week growth rate held two consecutive weeks — that is the new baseline.
+
+### Week 20 Recommendations
+
+1. **Ship the W21 Wed alternate (CVS 340B vertical-integration news critique) over the original "14 pages. 3 numbers." tease.** W19 PCMA and W20 Warren-Hawley confirm the "named adversary + public-policy event + named victims" Wednesday shape outperforms generic Wednesday teases. The CVS 340B alternate has stronger named victims (Mount Sinai, U Michigan, U Kansas) and a clearer dollar anchor ($250M) than either W19 or W20 Wed — empirical upside relative to both.
+
+2. **Tuesday Excellence Rule needs an iteration round before W22.** Three consecutive Tuesday underperformances (W18 MAC vs WAC vs AWP, W19 "Between renewals," W20 "alphabet soup") strongly suggest the rule's craft bar isn't being met OR the Marked-Up Contract Page / illustration-aesthetic format needs to retire from active rotation. W21 Library 02 (Tuesday May 26) is the critical data point. If Library 02 also underperforms, the rule needs revision around format (photoreal aesthetic + named-actor hook on Tuesday, not just Thursday).
+
+3. **Investigate the cumulative mailto:team@rxbs.org pattern.** 10 mailto clicks across W19 Fiduciary + W20 Reading the Rebate Report. Tag as a tracked conversion mechanism in future tracker entries. If the clicks resulted in 5-10 actual emails to team@rxbs.org, this becomes the third documented conversion channel after gated-PDF and LinkedIn first-comment. Ask Ginny to check the team inbox for inbound traffic referencing the W19 or W20 posts.
+
+4. **Watch list: W20 Friday tease (data pending), W20 Thursday day-7 read (May 28), W20 Wed Roundup engagement-tab data.** W20 Thursday read on May 28 is the most informative — it'll determine whether decoder messy infographics on rebate topics land in the 2,980 or 29,487 trajectory.
+
+5. **The 145-view Substack record on W20 Mon Manufacturer Programs deserves close examination.** Variables to isolate: (a) topic (manufacturer programs / copay assistance is broadly relevant), (b) free-sub gate creating intrigue, (c) LinkedIn newsletter teaser effect, (d) cumulative discovery from earlier posts. Worth running a second free-sub-gated post on a different topic in W22 or W23 to isolate the variable. If gating drives the surge, gate every Monday deep dive going forward. If topic drives it, the manufacturer-programs angle deserves repeat treatment.
+
+6. **Newsletter Edition 10 (Manufacturer Programs Briefing): 25 social engagements, 14 reactions, 7 comments, 2 reposts is the second-strongest newsletter engagement in the tracked set after W19 Fiduciary.** Topic continuity on newsletter is working — both editions hit content the audience actively reacts to. Continue selecting Monday topics for newsletter-engagement potential, not just feed-impression potential.
+
+---
+
 
 
 ## Why track this
