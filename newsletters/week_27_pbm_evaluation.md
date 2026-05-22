@@ -8,7 +8,7 @@
 | Day | Time | Platform | Content | Status |
 |-----|------|----------|---------|--------|
 | Sun Jul 5 | - | Prep | Final review of all content | [ ] |
-| Mon Jul 6 | 7:30 AM | Substack | "When to Stay and When to Switch: Evaluating Your PBM Relationship" | [ ] |
+| Mon Jul 6 | 7:30 AM | Substack | "The Vertical Integration Question: Stay or Switch in 2026" | [ ] |
 | Mon Jul 6 | 7:45 AM | LinkedIn Newsletter | PBM Evaluation Briefing | [ ] |
 | Mon Jul 6 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
 | Tue Jul 7 | 10:00 AM | LinkedIn Feed | Post 97 - "Five Reporting Clauses That Let You Actually Run the PBM Review" Library 04 Contract Comparison Carousel (different pillar) | [ ] |
@@ -16,7 +16,7 @@
 | Tue Jul 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 97 | [ ] |
 | Wed Jul 8 | 10:00 AM | LinkedIn Feed | Post 98 - "Switching PBMs is disruptive. Staying with the wrong one is expensive." Strong POV (TEXT) | [ ] |
 | Wed Jul 8 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Thu Jul 9 | 7:30 AM | Substack | Field Note: "What a PBM Transition Actually Looks Like" | [ ] |
+| Thu Jul 9 | 7:30 AM | Substack | Field Note: "Auditing How Your PBM Actually Makes Money" | [ ] |
 | Thu Jul 9 | 10:00 AM | LinkedIn Feed | Post 99 - Same plan. Same data. Different PBM interpretations. (Carousel, Slot B evergreen rotation) | [ ] |
 | Thu Jul 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 99 | [ ] |
 | Thu Jul 9 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
@@ -28,7 +28,10 @@
 
 # PART 1: SUBSTACK ARTICLE
 
-## When to Stay and When to Switch: Evaluating Your PBM Relationship
+## The Vertical Integration Question: Stay or Switch in 2026
+**Subtitle:** A 10-factor PBM evaluation scorecard, with the vertical integration question layered on top — what the May 2026 PBM news cycle changed about how plan sponsors should score the stay-or-switch decision
+
+> **Reframe note (May 22, 2026):** Original W27 deep dive was "When to Stay and When to Switch: Evaluating Your PBM Relationship" — a structured 10-factor scorecard for the PBM evaluation decision. Reframed in response to the May 21-22, 2026 trifecta: (1) Mount Sinai / U Michigan / U Kansas sued CVS for $250M in alleged 340B diversion through vertical integration; (2) Pennsylvania released its Act 77 PBM study finding spread pricing has retreated under state pressure; (3) CVS countersued Tennessee to block PBM divestiture law. The 10-factor scorecard structure is unchanged. Five factors (Rebate Transparency, Reporting and Analytics, Formulary Independence, Contract Flexibility, Specialty Management) now carry more weight under the vertical-integration question. New sections added: "What changed in 2026" (between Why the decision is hard and The PBM evaluation scorecard) + "2026 reframe: Five factors weighted differently" (after Factor 10 + before Interpreting your score) + "Layer the vertical integration question over the score" (after Interpreting your score + before A note on the decision). Title, SEO meta, LinkedIn newsletter body, and Substack header image prompt updated to match. ~30% of file content changed; 70% intact. The Wed roundup of W21 carries the news-cycle peak synthesis; this W27 deep dive carries the durable analytical thesis tying the May trifecta to the July renewal-evaluation decisions plan sponsors are about to make.
 
 **Subtitle:** A 100-point weighted scorecard that removes the guesswork from the biggest decision in pharmacy benefits
 
@@ -57,6 +60,20 @@ Switching PBMs is genuinely disruptive. Member pharmacy cards change. Provider n
 But staying with the wrong PBM is expensive in ways that accumulate quietly. Below-market pricing erodes plan value every fill. Weak contract language means guarantees that cannot be enforced. Poor rebate transparency hides margin retention. Over a multi-year contract, those quiet costs can exceed the one-time disruption cost of a transition significantly.
 
 The question is not "are we happy with our PBM?" Satisfaction is subjective. The question is: "does the data support staying, renegotiating, or going to market?" That question has a measurable answer.
+
+**What changed in 2026: The vertical integration question**
+
+Since I had those two client conversations, three news stories landed in 48 hours that changed how I would score either decision today.
+
+On May 21, three nonprofit hospital systems (Mount Sinai, University of Michigan Health, and the University of Kansas Hospital Authority) filed federal lawsuits alleging that CVS Health subsidiaries diverted $250 million in 340B savings between 2020 and 2025. The complaints describe a vertically-integrated mechanism: the PBM, the specialty pharmacy, the third-party administrator, and the contract pharmacy all under the same corporate parent, operating together to capture spread that contract pass-through math would not surface. The complaints state directly: "this scheme could not function without vertical integration."
+
+The same afternoon, Pennsylvania's Insurance Department released a study commissioned under the Pharmacy Benefit Reform Act. The finding: traditional spread pricing exists but is limited and decreasing under state pressure. The state had moved the visible extraction. The CVS lawsuit, filed hours earlier, showed where the invisible extraction had migrated.
+
+Then on May 22, CVS sued the State of Tennessee to block Tennessee's new law requiring PBMs to divest pharmacy ownership. The complaint argued the law unconstitutionally restricts interstate commerce. A parallel Arkansas law had been blocked on the same grounds in July 2025. PBMs are not just defending vertical integration; they are litigating to protect the corporate structures that make it possible.
+
+The implication for the stay-or-switch decision is direct. Five of the ten factors below now require harder questions than they did a year ago. Rebate transparency now means reaching the rebate aggregator, not just the PBM. Reporting and analytics now means reaching affiliated entities, not just the PBM's books. Formulary independence now means understanding which biosimilars and specialty drugs your PBM steers to its own pharmacy. Contract flexibility now turns on whether your audit-rights clause reaches affiliated entities. And specialty management is, increasingly, the topic where vertical integration is operationalized in your plan's day-to-day claims.
+
+The scorecard structure is unchanged. The scoring has gotten stricter.
 
 **The PBM evaluation scorecard**
 
@@ -132,11 +149,39 @@ I developed this framework because the stay-or-switch decision kept coming down 
 > 2-3: One team change in past 18 months.
 > 0-1: Multiple changes, loss of institutional knowledge.
 
+**2026 reframe: Five factors weighted differently**
+
+The May 2026 trifecta did not change the scorecard's structure. It changed the scoring on five factors.
+
+*Factor 2 (Rebate Transparency)* now requires audit reach to the rebate aggregator (Ascent under CVS Health, Emisar under Cigna, Zinc under UnitedHealth Group — the GPO middlemen between the PBM and the manufacturer), not just the PBM's pass-through math. If your scoring rests on PBM-side rebate detail without aggregator-side disclosure, lower the score by 2-3 points to reflect what the May 2026 CVS lawsuit and Pennsylvania Act 77 study documented.
+
+*Factor 4 (Reporting and Analytics)* now requires affiliated-entity transparency. Can you see claim-level data on prescriptions that ran through the PBM's affiliated specialty pharmacy, mail-order pharmacy, or third-party administrator? If your access stops at the PBM's books, the gap is the affiliated-entity transactions the hospital lawsuits surfaced. Lower the score 2-3 points if the data does not reach affiliates.
+
+*Factor 5 (Formulary Independence)* now requires looking at the dispensing channel your formulary tiers actively route members toward. When the PBM owns the dispensing pharmacy, the formulary is the vehicle that drives utilization toward affiliated dispensing. Score against the Week 26 formulary audit, then ask separately: does our formulary tier strategy align with our plan's economics, or with our PBM's affiliated-entity revenue?
+
+*Factor 7 (Contract Flexibility)* now turns most directly on whether your audit-rights clause reaches affiliated entities. In the hundreds of PBM contracts we review each year at PBS, the affiliated-entity audit-rights clause appears in fewer than half. The hospitals that sued CVS in May could litigate because their audit rights were broad enough. Most plan sponsor contracts do not yet meet that bar.
+
+*Factor 8 (Specialty Management)* is the factor where vertical integration is operationalized on your plan's day-to-day claims. Pull a quarter's specialty fills and sort by dispensing pharmacy NPI. What percentage flowed through the PBM's affiliated specialty pharmacy? The pattern PBS sees: PBM-owned specialty capture runs 60-80% of specialty spend in plans that have not actively negotiated the specialty network clause.
+
 **Interpreting your score**
 
 - **Below 50: Strong case for going to market.** The relationship has structural deficiencies that renegotiation alone is unlikely to fix. Work with your broker to prepare an RFP.
 - **50-70: Renegotiate with data.** The PBM relationship has value worth preserving, but specific areas need improvement. Use the low-scoring factors as your negotiation priority list.
 - **Above 70: Optimize the existing relationship.** Your PBM is performing competitively. Focus on incremental improvements in the lowest-scoring factors rather than the disruption of a transition.
+
+**Layer the vertical integration question over the score**
+
+The score gives you the structured answer. The vertical integration question gives you the 2026 context.
+
+Before finalizing the stay-or-switch decision, run the score through three additional filters that the May 2026 news cycle made unavoidable.
+
+First: can my audit rights actually reach the corporate structures my PBM uses to capture spread? If the answer is no, even a 75-point score may be incomplete because the audit floor is too low to verify the score.
+
+Second: is my PBM the same corporate parent as the specialty pharmacy, mail-order pharmacy, and third-party administrator handling my plan? If yes, every factor above carries more weight because the same parent benefits from every direction the dollars flow.
+
+Third: if the federal Patients Before Monopolies Act or a state divestiture law passes during my contract term, what protection do I have if my PBM is required to spin off its pharmacy operations mid-contract? Most contracts do not address this. Ask before you sign or renew.
+
+A high scorecard score on a vertically-integrated PBM still leaves audit and transition risks on the table that a slightly-lower-scoring non-vertically-integrated PBM may not carry. The decision is not just stay or switch. It is also: stay or switch toward what kind of PBM.
 
 **A note on the decision**
 
@@ -161,10 +206,10 @@ Have you scored your PBM relationship? If you have gone through the evaluation, 
 
 ### Article Meta
 
-**SEO Title:** When to Stay and When to Switch PBMs: 100-Point Evaluation Scorecard | Benefit Blind Spots
-**SEO URL Slug:** pbm-evaluation-scorecard-stay-or-switch
-**Meta Description:** Switching PBMs is disruptive. Staying with the wrong one is expensive. A 100-point weighted scorecard that evaluates 10 factors and removes the guesswork.
-**Tags:** PBM evaluation, PBM switch, contract negotiation, self-funded employers, pharmacy benefits, scorecard
+**SEO Title:** The Vertical Integration Question: PBM Stay-or-Switch Scorecard for 2026 | Benefit Blind Spots
+**SEO URL Slug:** pbm-vertical-integration-stay-or-switch-2026
+**Meta Description:** Three PBM news stories in 48 hours changed how plan sponsors should evaluate their PBM. A 10-factor scorecard with the vertical integration question layered on top — five factors now scored differently than they were a year ago.
+**Tags:** PBM evaluation, PBM switch, vertical integration, 340B, rebate aggregator, audit rights, contract negotiation, self-funded employers, pharmacy benefits, scorecard
 
 ---
 
@@ -175,7 +220,7 @@ Have you scored your PBM relationship? If you have gone through the evaluation, 
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design balance scale icon in white (#FFFFFF) outline, roughly 400px wide, tilted slightly to the left implying an active decision in progress. The left pan holds a small contract document icon labeled "STAY" in deep teal-blue; the right pan holds a door icon labeled "SWITCH" in deep teal-blue. The tilted motion is emphasized with three short arc lines in Accent Blue (#A7E0FA) at the scale's pivot. The scale's crossbar is highlighted in Accent Blue with a small "100" label above it representing the 100-point scorecard. Ten small tick marks in Accent Blue (#A7E0FA) sit along the crossbar. Below the scale, two-tone centered headline: "Stay or Switch" in white (#FFFFFF) bold sans-serif (80-96pt), with "Evaluating Your PBM" in Accent Blue (#A7E0FA) bold sans-serif immediately below. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
+A clean professional digital graphic at 2240 x 1200 pixels with a solid deep teal-blue background (#015880). Centered is a large flat-design balance scale icon in white (#FFFFFF) outline, roughly 400px wide, tilted slightly to the left implying an active decision in progress. The left pan holds a small contract document icon labeled "STAY" in deep teal-blue; the right pan holds a door icon labeled "SWITCH" in deep teal-blue. Below the scale, a small corporate-hierarchy diagram in Accent Blue (#A7E0FA) — one parent box with three branching child boxes labeled "PBM," "SPECIALTY PHARMACY," and "TPA" — visualizing the vertical-integration question the scale is weighing. A small label "AFFILIATED ENTITIES" sits next to the hierarchy in Plex Mono Medium, white (#FFFFFF), +6% letter tracking, 18pt. The tilted motion of the scale is emphasized with three short arc lines in Accent Blue (#A7E0FA) at the scale's pivot. The scale's crossbar is highlighted in Accent Blue with a small "100" label above it representing the 100-point scorecard. Ten small tick marks in Accent Blue (#A7E0FA) sit along the crossbar. Below the scale and hierarchy, two-tone centered headline: "The Vertical Integration" in white (#FFFFFF) Plex Sans SemiBold (72-84pt), with "Question" in Accent Blue (#A7E0FA) Plex Sans SemiBold immediately below. Subtitle in Plex Mono Medium 22pt, white, tabular figures: "Stay or Switch in 2026". No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style. Color palette: deep teal-blue (#015880), Accent Blue (#A7E0FA), white (#FFFFFF).
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -324,23 +369,21 @@ Quarterly Reporting is the operational disclosure-trace partner to PBM Compensat
 
 Two clients called me within the same week, both unhappy with their PBM. I told one to stay and renegotiate. I told the other to go to market. Both made the right decision. The difference was not frustration level. It was data.
 
-The first client had competitive pricing, strong clinical programs, and a responsive account team. Their frustration was about reporting quality and formulary transparency. Those are fixable within the existing relationship. Going to market would have cost them transition disruption for problems a contract amendment could solve.
+Then May happened. Three PBM news stories landed in 48 hours: three hospital systems sued CVS for $250 million in alleged 340B diversion through vertical integration, Pennsylvania released a state study finding traditional spread pricing has retreated under regulatory pressure, and CVS countersued Tennessee to block its PBM divestiture law. Read together, the three stories say one thing: PBM extraction is not going away. It is migrating into vertical integration, into affiliated-entity transactions, into the structures most plan sponsor audit-rights clauses do not reach.
 
-The second client had pricing well below market, nonexistent rebate transparency, and contract language that had not been updated in three cycles. The relationship had structural problems. Renegotiation alone would not fix them.
+That changes how plan sponsors should evaluate their PBM this year.
 
-Here is my position: the stay-or-switch decision should never come down to gut feel. It should come down to a structured evaluation.
+The first client I mentioned had competitive pricing, strong clinical programs, and a responsive account team. The reframe in 2026: their pricing was competitive against PBM-side rates, but they had not yet asked the affiliated-entity audit question. The second client had pricing well below market, nonexistent rebate transparency, and a contract that had not been updated in three cycles. The reframe in 2026: they were missing the rebate aggregator visibility the CVS lawsuit just made unmissable.
 
-The advice I hear most in this industry is either "just switch" or "just renegotiate." Both are oversimplified. Switching is genuinely disruptive: member cards change, formularies shift, claims systems migrate. The transition creates months of operational friction. But staying with the wrong PBM is expensive in ways that accumulate quietly. Below-market pricing. Unenforceable guarantees. Hidden margin retention. Over a multi-year contract, those quiet costs can exceed the one-time disruption cost of a transition.
+The stay-or-switch decision should never come down to gut feel. It comes down to a structured evaluation, scored against 10 measurable factors: pricing competitiveness, rebate transparency, clinical program quality, reporting and analytics, formulary independence, service responsiveness, contract flexibility, specialty management, technology integration, and account team stability. Five of those factors now carry more weight than they did a year ago.
 
-The answer depends on 10 measurable factors: pricing competitiveness, rebate transparency, clinical program quality, reporting and analytics, formulary independence, service responsiveness, contract flexibility, specialty management, technology integration, and account team stability. Each can be scored and weighted.
+Below 50 out of 100: strong case for going to market. 50-70: renegotiate with specific priorities. Above 70: optimize the existing relationship. The score structures the decision so you are evaluating data instead of frustration. The vertical integration layer determines how stringent the scoring should be.
 
-Below 50 out of 100: strong case for going to market. 50-70: renegotiate with specific priorities. Above 70: optimize the relationship you have. The score does not make the decision. It structures the decision so you are evaluating data instead of frustration.
-
-The best brokers and consultants run a version of this analysis with their clients. If yours has not raised the stay-or-switch question proactively, bring this framework to them.
+The best brokers run a version of this analysis with their clients. If yours has not raised the stay-or-switch question against the 2026 context proactively, bring this framework to them.
 
 ---
 
-This week's Benefit Blind Spots includes the **full PBM evaluation scorecard**: 10 factors on a 100-point weighted scale with specific scoring criteria and interpretation guidelines. That scorecard is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes the **full PBM evaluation scorecard** with the 2026 vertical-integration layer: 10 factors on a 100-point weighted scale, scoring notes on the five factors the May 2026 trifecta reframed, and the three additional filters to apply on top of the score. That scorecard is exclusive to the Substack: [SUBSTACK URL]
 
 ---
 
