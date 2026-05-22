@@ -11,9 +11,11 @@
 | Mon May 25 | 7:30 AM | Substack | "What Your PBM's Quarterly Report Actually Tells You" | [ ] |
 | Mon May 25 | 7:45 AM | LinkedIn Newsletter | Quarterly Reporting Briefing | [ ] |
 | Mon May 25 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Tue May 26 | Morning | Roundup Drafting | Wed Substack Roundup `roundup_2026_05_26.md` auto-generates. **LEAD STORY MUST BE: CVS Health 340B lawsuits (Mount Sinai / U Michigan / U Kansas, filed May 21, ~$250M alleged diversion).** If automation surfaces a different lead, manually re-anchor. Sources: Fierce Healthcare, AJMC, Modern Healthcare, Fox Business, amNewYork, Becker's. | [ ] |
 | Tue May 26 | 8:30 AM | LinkedIn Feed | Post 73 - "The Five Clauses the Best Brokers Check First" Library 02 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue May 26 | 8:35 AM | LinkedIn Feed | Post 73 - First Comment | [ ] |
 | Tue May 26 | 1:30 PM | LinkedIn Company | Company Reshare of Post 73 | [ ] |
+| Wed May 27 | 7:30 AM | Substack | Weekly Roundup "What Crossed My Desk This Week" — **verify lead = CVS 340B lawsuits before publish; if auto-routine overwrote the lead (W20 history shows this has happened), restore manually.** | [ ] |
 | Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) — OR Post 74 ALTERNATE "Three nonprofit hospital systems sued CVS Health on May 21." 340B News Critique (TEXT). Pick one. | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 28 | 7:30 AM | Substack | Field Note: "Finding the Rebate Aggregator in Your PBM Contract" | [ ] |
@@ -964,9 +966,10 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - [ ] Substack article finalized and scheduled (Mon 7:30 AM) — "What Your PBM's Quarterly Report Actually Tells You"
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM) — Quarterly Reporting Briefing
 - [ ] Substack Field Note finalized and scheduled (Thu 7:30 AM) — "Finding the Rebate Aggregator in Your PBM Contract" (Quarterly Reporting Checklist PDF embedded at bottom of post — same Mon toolkit, since the Field Note answers the rebate-aggregation question Mon's checklist flags)
+- [ ] **Wed Substack Roundup (Wed 7:30 AM) lead-story verification: CVS Health 340B lawsuits MUST be the lead story.** Tuesday May 26 morning, after auto-generation runs, open `newsletters/roundups/roundup_2026_05_26.md` and confirm the lead is the CVS / Mount Sinai / U Michigan / U Kansas 340B suits (filed May 21, ~$250M alleged diversion). If automation surfaced a different lead, manually re-anchor before publish. W20 history (`roundup_2026_05_19.md` header line 2) shows automation has overwritten pre-curated leads before; do not assume this lead is locked just because the story is the biggest PBM news of the week.
 - [ ] Post 73 Library 02 Contract Comparison carousel created - "The Five Clauses the Best Brokers Check First" (7 slides, matches Library 01 standard) — Broker/Consultant Resources pillar, DIFFERENT from Monday's Transparency & Industry Education pillar
 - [ ] Post 73 first comment drafted with link to LinkedIn Newsletter
-- [ ] Post 74 text post finalized - "14 pages. 3 numbers. None of them are in the report." Wednesday tease hook
+- [ ] Post 74 text post finalized - "14 pages. 3 numbers. None of them are in the report." Wednesday tease hook (OR Post 74 ALTERNATE 340B vertical-integration news critique — see PART 3, pick one before Wednesday 8:30 AM)
 - [ ] Post 75 SLOT B single-image messy infographic designed - "The rebate aggregator your contract does not name." (Rebate Flow Ledger on engineering grid paper photoreal aesthetic, Transparency & Industry Education pillar with Rebates topic anchor; Thursday Excellence Slot B). See PART 3 Post 75 for image generation prompts (Gemini and ChatGPT versions) and legibility gate.
 - [ ] Post 76 text post finalized - "The Therapy That Changes Everything" tease hook (teases W22 biosimilar strategy)
 - [ ] Company reshares scheduled (Tue + Thu at 1:30 PM)
