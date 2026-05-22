@@ -14,7 +14,7 @@
 | Tue May 26 | 8:30 AM | LinkedIn Feed | Post 73 - "The Five Clauses the Best Brokers Check First" Library 02 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue May 26 | 8:35 AM | LinkedIn Feed | Post 73 - First Comment | [ ] |
 | Tue May 26 | 1:30 PM | LinkedIn Company | Company Reshare of Post 73 | [ ] |
-| Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) | [ ] |
+| Wed May 27 | 8:30 AM | LinkedIn Feed | Post 74 - "14 pages. 3 numbers. None of them are in the report." Tease Hook (TEXT) — OR Post 74 ALTERNATE "Three nonprofit hospital systems sued CVS Health yesterday." 340B News Critique (TEXT). Pick one. | [ ] |
 | Wed May 27 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu May 28 | 7:30 AM | Substack | Field Note: "Finding the Rebate Aggregator in Your PBM Contract" | [ ] |
 | Thu May 28 | 8:30 AM | LinkedIn Feed | Post 75 - The rebate aggregator your contract does not name. (Single-image messy infographic, Rebate Flow Ledger on grid paper photoreal aesthetic, Thursday Excellence Slot B) | [ ] |
@@ -631,6 +631,51 @@ The data exists. Whether your contract requires it to be shown is the conversati
 #### First Comment
 
 This week's Benefit Blind Spots deep dive on PBM quarterly reporting is the operational follow-on: the 15-line quarterly reporting checklist + paste-ready broker request. [SUBSTACK MONDAY DEEP DIVE URL]
+
+---
+
+## Post 74 ALTERNATE - Wednesday 8:30 AM
+### "Three nonprofit hospital systems sued CVS Health yesterday." 340B Vertical-Integration News Critique (Text)
+
+> **Added May 22, 2026 as a second option for W21 Wednesday.** Both posts are drafted and ready; Ginny picks one to publish Wednesday 8:30 AM. The original "14 pages. 3 numbers." tease (above) keeps the Mon→Wed→Thu quarterly-reporting throughline intact. This alternate trades that throughline for a fresh news cycle: the May 21, 2026 federal lawsuits filed by Mount Sinai, University of Michigan Health (with Sparrow Hospital), and University of Kansas Hospital Authority against CVS Health and four subsidiaries (CaremarkPCS, Caremark LLC, CVS Specialty, Wellpartner), alleging ~$250M in 340B savings diversion between 2020 and 2025. Per Frier Levitt (Jonathan Levitt, founding partner) the alleged mechanism is retroactive 340B identification by Wellpartner followed by an artificially reduced CaremarkPCS-to-CVS-Specialty reimbursement that conceals the spread. Per the CLAUDE.md decoder reader-actionability rule (340B economics sit with providers, not plan sponsors), 340B content reshapes as Wednesday POV awareness play rather than Thursday decoder. Vertical-integration thesis ties cleanly to W21 Thursday's Rebate Aggregator decoder (same corporate-shell mechanism in a different revenue stream) and to Monday's Quarterly Reporting deep dive (audit-rights clauses determine whether a plan sponsor can follow the dollar across affiliated entities). Sources: Fierce Healthcare, AJMC, Modern Healthcare, Fox Business, amNewYork, Becker's. CVS had not publicly responded to the suits as of post draft date; re-verify morning of publish and add an acknowledgment line if CVS files a denial.
+
+- **Format:** Text Post (News Critique)
+- **Pillar:** Transparency & Industry Education (with 340B topic anchor)
+- **Word Count:** ~295 words
+- **Hook:** "Three nonprofit hospital systems sued CVS Health yesterday. Mount Sinai. University of Michigan Health. University of Kansas Hospital Authority."
+- **Named actors:** CVS Health, CaremarkPCS, CVS Specialty, Wellpartner (defendants); Mount Sinai, University of Michigan + Sparrow, University of Kansas Hospital Authority (plaintiffs)
+- **Proprietary anchor:** "After reviewing hundreds of PBM contracts a year at PBS, the affiliated-entity audit-rights clause that would let a plan sponsor follow the dollar across CaremarkPCS, CVS Specialty, and CVS-affiliated dispensing appears in fewer than half of the contracts we see."
+- **Discipline rules baked in:** (a) every CVS-conduct claim uses "allege" / "according to the complaint" / "per the complaint" — never stated as fact; (b) one acknowledgment line that CVS has not publicly responded as of this writing (re-verify morning of publish); (c) plan-sponsor pivot anchors the news to PBS's audience rather than retelling the story for its own sake.
+
+#### Post Copy
+
+Three nonprofit hospital systems sued CVS Health yesterday.
+
+Mount Sinai. University of Michigan Health. University of Kansas Hospital Authority.
+
+$250 million in 340B savings, allegedly diverted between 2020 and 2025.
+
+The hospitals had contracts with four CVS subsidiaries: CaremarkPCS (the PBM), CVS Specialty (the specialty pharmacy), Wellpartner (the third-party administrator), and Caremark LLC. Per the complaints, the four subsidiaries operated together.
+
+The alleged mechanism: Wellpartner identifies a claim as 340B-eligible weeks after the point of sale. CaremarkPCS then pays CVS Specialty an artificially reduced reimbursement rate. Wellpartner reports that reduced amount to the hospital as the full reimbursement. The higher initial claim is concealed. The spread stays inside CVS Health.
+
+From the complaints: "this scheme could not function without vertical integration."
+
+The lawsuit is about 340B. The pattern is not.
+
+This is the same vertical-integration mechanism operating on commercial claims at every self-funded plan whose PBM contract does not reach affiliated-entity transactions in its audit-rights clause. The hospitals could litigate because the dollars were large enough and their audit rights were broad enough. Plan sponsors usually have neither.
+
+After reviewing hundreds of PBM contracts a year at PBS, the affiliated-entity audit-rights clause that would let a plan sponsor follow the dollar across CaremarkPCS, CVS Specialty, and CVS-affiliated dispensing appears in fewer than half of the contracts we see. The other half are working off an audit clause that stops at the PBM's books. That is the same kind of clause the hospitals say allowed the alleged scheme to operate undetected for five years.
+
+CVS has not publicly responded to the lawsuits as of this writing.
+
+The discovery in this case will be worth watching. So will what plan sponsors and their brokers do with the audit-rights clauses in their own contracts in the meantime.
+
+#PBMTransparency #340B #PharmacyBenefits
+
+#### First Comment (Alternate)
+
+If your PBM contract's audit-rights clause stops at the PBM's books and does not reach affiliated-entity transactions, you are working from the same kind of language the hospitals say enabled the alleged scheme. This week's deep dive on Benefit Blind Spots walks through the audit-rights and reporting clauses that change that. It includes a printable 15-line quarterly reporting checklist as a plan-sponsor handout. [SUBSTACK MONDAY DEEP DIVE URL]
 
 ---
 
