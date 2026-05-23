@@ -1282,9 +1282,40 @@ Copy this table at the end of each week's analysis section and fill in the top 5
 
 Rolling count of replies Ginny has posted to other accounts per week. Per-reply impression data is captured separately in the log above when material. This aggregate is the leading indicator for the reply channel.
 
+### Weekly target (set May 22, 2026)
+
+**50-60 substantive comments per week.** Anchored against the W16 documented data point (45 replies/week correlated with +37 LinkedIn followers, +22 newsletter subs, +23 Substack subs in the surrounding 14-day window). The target lifts slightly above proven baseline without overshooting into quantity-degrades-quality territory.
+
+**Tier distribution (within 50-60/week):**
+
+| Tier | What | Weekly target | Why |
+|---|---|---|---|
+| A — Amplifier accounts | Cuban, Adam Fein, Cost Plus, Jen Berger, Antonio Ciaccia, Michael Thompson, Brian Reid, Van Sarris (see Target accounts list above) | 10-15 | Highest reach per comment. One Cuban-engaged reply has carried 5K+ impressions historically. Patrol daily. |
+| B — Peer / network accounts | Other PBM consultants, large brokers (Lockton, Mercer, AON consultants), healthcare journalists, employer-side benefits leaders, FTC/policy commentators | 25-30 | Network-maintenance layer. Lower reach per comment but builds referral pathways and keeps PBS visible to the broker-consultant ecosystem. |
+| C — Buyer-prospect accounts | CFOs, HR Directors, VPs of Benefits at target self-funded employers (1K-10K follower accounts) | 10-15 | Direct pipeline impact. Lower reach, higher relevance. Drop first if time-constrained. |
+
+**Quality bar (non-negotiable):**
+
+- 2-4 sentences minimum per comment
+- Proprietary anchor on at least half ("In the hundreds of contracts we review at PBS..." / specific clause numbers, dollar figures, clinical pharmacy POV)
+- No "great post" / "couldn't agree more" / "love this"
+- No AI-tell phrases ("Here's the thing," "The truth is," "Most people don't realize")
+- Adds data, alternative framing, or a question — never just agrees
+- Em-dash sentence-separator ban applies in comments too (per CLAUDE.md brand rules)
+
+**Time budget:** 50-60 comments at 2-3 minutes each = 100-180 minutes/week = roughly 20-30 minutes/day Monday-Friday. Matches the "20-30 minutes/day patrol" guidance in the Target accounts section above.
+
+**Why not higher (75-100+):** Past ~15 substantive comments/day, quality reliably degrades to formula. PBS's edge in comments is the same as in posts: only Ginny can write a clinical-pharmacist-who-reviews-hundreds-of-contracts-a-year comment. Past the quality threshold, you add noise that pulls the wrong audience and dilutes the signal.
+
+**Why not lower (25-35):** W16 already demonstrated 45/week at a sustainable pace. Dropping below your own proven baseline gives up a documented growth lever for no clear gain.
+
+### Aggregate log
+
 | Week | Week of | Replies posted | Notes |
 |------|---------|----------------|-------|
 | 16 | Apr 20-24, 2026 | **45** | First weekly aggregate captured. Coincides with +37 LinkedIn followers and +22 newsletter subs in the 3 days after the prior Apr 21 snapshot, and a +23 Substack sub jump in 14 days. Reply volume appears to be a meaningful contributor alongside the Cuban cluster. |
+| 17-21 | Apr 27 - May 22, 2026 | (not logged) | Weekly aggregate tracking lapsed after W16. LinkedIn followers +492 / newsletter +308 / Substack +63 cumulative across this 7-week window — the discovery-engine read likely held, but reply contribution can't be isolated without per-week logging. Restart at W22. |
+| 22 | May 25-29, 2026 | _target: 50-60_ | First week of the formal 50-60/week target. Tier distribution: 10-15 A / 25-30 B / 10-15 C. |
 
 ## How to capture reply impressions
 
