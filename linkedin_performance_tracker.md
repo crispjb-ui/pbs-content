@@ -1282,9 +1282,9 @@ Copy this table at the end of each week's analysis section and fill in the top 5
 
 Rolling count of replies Ginny has posted to other accounts per week. Per-reply impression data is captured separately in the log above when material. This aggregate is the leading indicator for the reply channel.
 
-### Weekly target (set May 22, 2026)
+### Weekly target (set May 22, 2026; range widened same day after W19 data point added)
 
-**50-60 substantive comments per week.** Anchored against the W16 documented data point (45 replies/week correlated with +37 LinkedIn followers, +22 newsletter subs, +23 Substack subs in the surrounding 14-day window). The target lifts slightly above proven baseline without overshooting into quantity-degrades-quality territory.
+**50-65 substantive comments per week.** Anchored against two documented data points: W16 = 45 replies/week (correlated with +37 LinkedIn followers, +22 newsletter subs, +23 Substack subs in the surrounding 14-day window) and W19 = 65 replies/week (correlated with the breakthrough growth week — first paid Substack sub / $80 revenue, +47 newsletter subs strongest in the data set, +88 LinkedIn followers W18→W19). Lower end matches the proven sustainable floor; upper end matches the documented breakout week. Higher volume at the same quality bar appears to produce measurably better outcomes within this range.
 
 **Tier distribution (within 50-60/week):**
 
@@ -1303,7 +1303,7 @@ Rolling count of replies Ginny has posted to other accounts per week. Per-reply 
 - Adds data, alternative framing, or a question — never just agrees
 - Em-dash sentence-separator ban applies in comments too (per CLAUDE.md brand rules)
 
-**Time budget:** 50-60 comments at 2-3 minutes each = 100-180 minutes/week = roughly 20-30 minutes/day Monday-Friday. Matches the "20-30 minutes/day patrol" guidance in the Target accounts section above.
+**Time budget:** 50-65 comments at 2-3 minutes each = 100-195 minutes/week = roughly 20-40 minutes/day Monday-Friday. Lower end matches the "20-30 minutes/day patrol" guidance in the Target accounts section above; upper end (W19 pace) requires a slightly longer daily window, justified by the W19 outcome data.
 
 **Why not higher (75-100+):** Past ~15 substantive comments/day, quality reliably degrades to formula. PBS's edge in comments is the same as in posts: only Ginny can write a clinical-pharmacist-who-reviews-hundreds-of-contracts-a-year comment. Past the quality threshold, you add noise that pulls the wrong audience and dilutes the signal.
 
@@ -1314,8 +1314,10 @@ Rolling count of replies Ginny has posted to other accounts per week. Per-reply 
 | Week | Week of | Replies posted | Notes |
 |------|---------|----------------|-------|
 | 16 | Apr 20-24, 2026 | **45** | First weekly aggregate captured. Coincides with +37 LinkedIn followers and +22 newsletter subs in the 3 days after the prior Apr 21 snapshot, and a +23 Substack sub jump in 14 days. Reply volume appears to be a meaningful contributor alongside the Cuban cluster. |
-| 17-21 | Apr 27 - May 22, 2026 | (not logged) | Weekly aggregate tracking lapsed after W16. LinkedIn followers +492 / newsletter +308 / Substack +63 cumulative across this 7-week window — the discovery-engine read likely held, but reply contribution can't be isolated without per-week logging. Restart at W22. |
-| 22 | May 25-29, 2026 | _target: 50-60_ | First week of the formal 50-60/week target. Tier distribution: 10-15 A / 25-30 B / 10-15 C. |
+| 17-18 | Apr 27 - May 8, 2026 | (not logged) | Weekly aggregate tracking lapsed. LinkedIn followers grew through this window, but per-week reply contribution can't be isolated. |
+| 19 | May 11-15, 2026 | **65** | **Highest documented reply volume in the data set.** Coincides with the strongest growth week to date: Fiduciary deep dive earned the first paid Substack subscriber ($80 revenue), +47 newsletter subs (strongest weekly newsletter growth in the data set), +88 LinkedIn followers W18→W19. Two documented data points (W16=45 / W19=65) both correlate with above-average growth windows; the upper end (65) correlates with the breakthrough week. Suggests the proven productive range is 45-65 replies/week, with higher volume at the same quality bar producing measurably better outcomes. |
+| 20-21 | May 18-22, 2026 | (not logged) | Logging gap. W20 had +52 followers / +30 newsletter / +6 Substack — solid but below W19's breakout. Whether the gap is reply-volume-driven or content-driven cannot be determined without per-week logging. |
+| 22 | May 25-29, 2026 | _target: 50-65_ | First week of the formal target. Tier distribution: 10-15 A / 25-30 B / 10-20 C. **Range revised May 22, 2026 to 50-65** after W19 data point added — upper end matches the documented breakout week; lower end matches the proven sustainable floor (W16). |
 
 ## How to capture reply impressions
 
