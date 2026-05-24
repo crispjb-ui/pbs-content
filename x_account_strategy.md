@@ -22,8 +22,8 @@ X is the only new social channel where PBS's proven reach amplifier actually liv
 
 | Field | Value |
 |-------|-------|
-| **Display name** | Ginny Crisp, PharmD |
-| **Handle** | `@GinnyCrispRx` (primary recommendation — 12 chars, ties to the rxbs.org domain, "Rx" reads as pharmacy). Alternates if taken: `@GinnyCrispPBS` (13), `@GCrispPharmD` (12). X handle limit is 15 chars, so the full "PharmD" cannot go in the handle — it lives in the display name instead. |
+| **Display name** | Ginny Crisp, PharmD (the credential is load-bearing — it carries the clinical-pharmacist authority; don't drop it to just "Ginny Crisp") |
+| **Handle** | `@ginny_crisp` — Ginny's existing account since March 2013. Kept rather than creating a new handle: the 12-year account age is a small trust signal, and it's clean. (Earlier draft suggested `@GinnyCrispRx`; superseded — the established handle wins.) |
 | **Bio (160 char max)** | `Clinical pharmacist. CEO of Prescription Benefit Solutions. I review hundreds of PBM contracts a year and decode what they actually say.` (133 chars) |
 | **Location** | Charleston, SC |
 | **Link** | `benefitblindspots.substack.com` (the newsletter is the conversion engine; point the bio link there, not the corporate site). Swap to `rxbs.org` only if the priority shifts to consulting leads over audience growth. |

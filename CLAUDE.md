@@ -154,7 +154,7 @@
 - **Paywall:** Free (discovery/SEO play)
 
 ### Channel 6: X / Twitter (added May 22, 2026)
-- **Account:** Ginny Crisp, PharmD — `@GinnyCrispRx` (handle pending availability check)
+- **Account:** Ginny Crisp, PharmD — `@ginny_crisp` (existing account since March 2013; live as of May 24, 2026 with bio, header, pinned post set)
 - **Role:** Amplification + policy/journalist relationships. NOT a direct-conversion channel; measure by reach + amplification events (Cuban/Ciaccia/Fein reposts), not newsletter subs.
 - **Frequency:** 3 scheduled posts/day + same-hour reactions when PBM news breaks
 - **Content skew:** ~40% named-adversary/dollar comparison, ~30% breaking-news reactions, ~20% decoders, ~10% origin (capped 1/week). NOT topic-locked to the Monday deep dive. Origin stories underperform on X — they are the Substack Notes format, not the X format.
