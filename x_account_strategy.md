@@ -32,19 +32,23 @@ X is the only new social channel where PBS's proven reach amplifier actually liv
 
 **Brand rules carry over to X:** company is **Prescription Benefit Solutions (PBS)**, never RXBS. Ginny is **Ginny Crisp, PharmD**, never "Dr. Ginny Crisp." No em dashes or hyphens as sentence separators in any post or the bio.
 
+**Subscription tier: Premium ($8/mo, $4 for first 2 months) — recommended.** Not Basic, not Premium+. Premium earns its keep on three features that serve this channel's strategy: (1) verified checkmark (credibility signal when replying to amplifiers in a credibility-driven niche), (2) boosted replies (the reply-patrol is the documented discovery engine, so reply boost amplifies the highest-leverage behavior), (3) advanced analytics (feeds the X tracking section in the performance tracker). Basic ($3) only unlocks longer posts and a small reply boost — too thin, no checkmark. Premium+ ($40/$20) adds X Pro/scheduler + highest reply boost but is overkill for a low-priority amplification channel (the free native composer scheduler and Typefully's free tier already cover scheduling). Premium also lifts the 280-char post cap, so the fuller pinned post becomes postable.
+
 ---
 
 ## Pinned post
 
-Pin a single authority-establishing post on day one. Draft:
+Pin a single authority-establishing post on day one. Draft (fits X's 280-character free-tier limit at ~268):
 
 > I read PBM contracts for a living. Hundreds a year, for self-funded employers.
 >
-> Being a clinical pharmacist taught me the PBM industry runs on language plan sponsors never decode: the same drug at three different prices, rebates routed through offshore middlemen, audit rights that conveniently stop at the PBM's own books.
+> The industry runs on language plan sponsors never decode. Same drug, three prices. Audit rights that conveniently stop at the PBM's own books.
 >
-> I decode it here. Follow for the parts your PBM hopes you skip.
+> Follow for the parts your PBM hopes you skip.
 
 (Link to benefitblindspots.substack.com goes in the FIRST REPLY to the pinned post, not in the post itself — links suppress reach on X.)
+
+**Character-limit note:** X free tier caps posts at 280 characters. The pinned post above is built to fit. If a draft runs over (the composer shows a negative number), either tighten, split into a thread (first tweet + reply chain), or use X Premium (lifts the limit). The fuller original version — which adds "rebates routed through offshore middlemen" as a third beat — runs ~388 chars and only fits as a 2-tweet thread or on Premium.
 
 Re-pin whenever a post breaks out (a Cuban-amplified post becomes the new pin until the next one lands).
 
