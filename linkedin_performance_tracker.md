@@ -1333,6 +1333,29 @@ LinkedIn shows reply impressions in the notifications view. Tap any of your comm
 
 ---
 
+# X / TWITTER CHANNEL TRACKING (Added May 22, 2026)
+
+X launched W21 (May 25) as an amplification channel — 3 posts/day, news-skewed, per `x_account_strategy.md`. It is NOT a direct-conversion channel; measure it by reach and amplification events, not newsletter/Substack subs. Weekly posts are drafted in each newsletter week file's PART 4B.
+
+## What to log weekly
+
+| Week | X followers | Top post (impressions) | Amplification events | Notes |
+|------|-------------|------------------------|----------------------|-------|
+| 21 | _baseline TBD_ | | | Launch week. Account setup + first 21 posts riding the vertical-integration trifecta. |
+
+- **X followers:** week-over-week count. Launch baseline is whatever the account opens at; track the slope, not the absolute.
+- **Top post by impressions:** log the single highest-reach post each week and its shape (named-adversary / news reaction / decoder / dollar comparison).
+- **Amplification events:** any repost or quote-tweet from Cuban, Ciaccia, Fein, Cost Plus, Potter, or a journalist. **Log repost/quote separately from like-only** — per the May 8 Cuban likes-only rule, likes alone don't move reach; reposts/quotes do. A single amplifier repost is the documented reach multiplier and the primary success signal for this channel.
+
+## Questions to answer after 4 weeks of X data
+
+- Does X reach correlate with any LinkedIn follower / newsletter lift (cross-channel halo), or is it self-contained?
+- Which content shape earns amplifier reposts most reliably (hypothesis: dollar comparison + named-adversary, per the LinkedIn data)?
+- Is 3/day sustainable at the quality bar, or does the mix drift toward low-effort filler?
+- Has even one Cuban/Ciaccia/journalist repost landed? (The 30-day go/no-go signal per `x_account_strategy.md`.)
+
+---
+
 # SUBSTACK NOTES PERFORMANCE (Added April 17, 2026)
 
 ## Why track this
