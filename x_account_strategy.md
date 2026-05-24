@@ -172,6 +172,9 @@ Add an X row to the channel-by-channel headers in `linkedin_performance_tracker.
 **Amplification event log:**
 - **May 24, 2026 (launch day) — Mark Cuban REPOSTED + liked Ginny's straight reply** on his "Break Up Big Medicine Bill" post (the "closed loop with a contract stapled to it" reply, vertical-integration / three-PBMs-owned-by-three-insurers anchor). Repost, not likes-only, so it counts as a real reach lift. First X Cuban repost and a Day-1 hit on the 30-day success criterion. Full draft + thread context logged in `newsletters/week_21_quarterly_reporting.md` PART 4B same-hour reaction log.
 
+**Cuban active-window log (build the dataset, don't guess his hours):** log timestamps of Cuban posts/reposts here. Over 2-3 weeks this becomes PBS's own evidence for when his reply-patrol pays off, the same way the 8:30 AM LinkedIn finding was built empirically. The amplification lever is reaction speed when he posts, not timing scheduled posts to him.
+- **May 24, 2026 (Sun, holiday weekend):** active late morning into early afternoon ET. Posted the "Break Up Big Medicine" thread ~11:30 AM ET and the brand-drug/formulary thread ~12:06 PM ET; reposted Ginny within ~25 seconds around midday (actively scrolling, not just scheduling). One data point on a holiday Sunday, do not over-index.
+
 ---
 
 ## 30-day launch sequence
