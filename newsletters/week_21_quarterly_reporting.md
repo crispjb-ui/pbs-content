@@ -1047,6 +1047,49 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md`):** 3 scheduled posts/day, plus same-hour reactions fired on top when PBM news breaks. **NOT locked to Monday's quarterly-reporting topic** — X skews to breaking news and the Cuban-bait shapes (dollar comparison, named-adversary, decoder). This is the **X launch week**, riding the live vertical-integration trifecta (CVS 340B suit / PA Act 77 study / CVS-sues-Tennessee). Schedule via X native scheduler or Typefully. `[VISUAL]` flags posts that attach an asset; links go in the FIRST REPLY, never the post body. Slot times ET. Set up account first per `x_account_strategy.md` (handle `@GinnyCrispRx`, bio, pinned post).
+
+**Mon May 25**
+- **AM — news reaction `[VISUAL: Fierce Healthcare headline screenshot]`:** Three hospital systems sued CVS Health last week. The allegation: $250 million in 340B savings diverted through vertical integration. It only works because one company owns the PBM, the specialty pharmacy, and the third-party administrator. Same parent. Every direction the dollars flow.
+- **Midday — decoder:** "Pass-through" in a PBM contract usually means the PBM passes through what *it* received. Not what the manufacturer paid. The gap between those two numbers is where the rebate middleman's cut lives. Read the noun.
+- **PM — punchy:** The most expensive line on your PBM's quarterly report is the one that isn't on it.
+
+**Tue May 26**
+- **AM — named-adversary `[VISUAL: rebate-flow ledger from Thursday's Rebate Aggregator post]`:** Your PBM doesn't collect your rebates anymore. A company you've never heard of does. CVS uses Zinc. Express Scripts uses Ascent, registered in Switzerland. OptumRx uses Emisar, registered in Ireland. Same corporate parent as the PBM. The rebate stops there first.
+- **Midday — news reaction (PA):** Pennsylvania just studied its PBM market and found spread pricing is shrinking under state pressure. Win? Half a win. The extraction didn't stop. It moved into vertical integration, where the state isn't looking yet.
+- **PM — Library 02 driver `[VISUAL: Library 02 carousel slide]`:** Five clauses the best brokers check before any PBM renewal. The audit-rights clause is the one that decides whether you can follow the dollar across the PBM's affiliated pharmacies. Most contracts stop at the PBM's own books.
+
+**Wed May 27**
+- **AM — named-adversary (TN news) `[VISUAL: TN lawsuit coverage screenshot]`:** CVS just sued the state of Tennessee. The reason: Tennessee passed a law saying a PBM can't also own the pharmacies it pays. CVS calls that unconstitutional. Plan sponsors should call it confirmation that the ownership matters enough to litigate over.
+- **Midday — decoder:** Three letters decide what your plan pays: MAC, WAC, AWP. Three different reference prices for the same drug. Your PBM picks which one applies, line by line, and the contract usually lets them.
+- **PM — stat-shock (cited):** CVS Caremark managed one-third of all U.S. prescription claims in 2023. The top three PBMs: 80% of the market. That's not a competitive market. It's three referees who also own teams.
+
+**Thu May 28**
+- **AM — dollar comparison `[VISUAL: channel-pricing claims report]`:** Same generic drug. The retail pharmacy fills it for one price. The PBM's own mail-order pharmacy fills it for another. The PBM sets both prices. Guess which one it steers your members toward.
+- **Midday — Thursday-visual driver `[VISUAL: Rebate Aggregator ledger from today's LinkedIn post]`:** The rebate your PBM "passes through" stops at a middleman first. CVS → Zinc. Express Scripts → Ascent. OptumRx → Emisar. The GPO takes its cut, then the PBM passes through what's left. The contract calls it 100% pass-through. The noun is doing the lying.
+- **PM — news reaction (Warren-Hawley):** Warren and Hawley agree on almost nothing. They co-sponsored a bill to force PBMs to sell off their pharmacies. When the populist left and right agree on your industry, the structure is the problem.
+
+**Fri May 29**
+- **AM — named-adversary / specialty:** Pull a quarter of your plan's specialty claims. Sort by which pharmacy filled them. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. That's not a network. It's a funnel.
+- **Midday — decoder / audit:** The hospitals suing CVS could sue because their contracts let them audit affiliated entities. In the hundreds of PBM contracts we review a year, fewer than half of plan sponsors have that right. Most audits stop at the PBM's own books.
+- **PM — punchy:** Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+
+**Sat May 30 (lighter, still skewed adversary not origin)**
+- **AM — decoder / best-kept-secret:** Copay accumulators: a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly.
+- **Midday — dollar comparison:** Generic drugs cost pennies to make. Plans pay dollars. The gap isn't the pharmacy's margin. It's everything that happens between the manufacturer and the claim.
+- **PM — punchy:** Transparency is the word every PBM uses and the thing every PBM contract is built to prevent.
+
+**Sun May 31**
+- **AM — synthesis reaction:** Three PBM stories in 48 hours this week: a $250M lawsuit, a state study, and a countersuit. Different angles, one theme. The middleman is fighting to stay in the middle.
+- **Midday — decoder:** When a PBM says "we pass through 100% of rebates," ask: 100% of what the PBM received, or 100% of what the manufacturer paid? Those are different numbers. A middleman sits between them.
+- **PM — origin (the one allowed this week):** I became a pharmacist to help people afford their medications. I read contracts now because that's where affordability actually gets decided. Same mission. Different room.
+
+> **Note on Memorial Day (Mon May 25):** holiday — engagement is soft. Keep Monday's posts scheduled (X news-reaction content runs fine on holidays, people check phones for news), but the amplifier patrol can be lighter. The CVS/PA/TN news is the launch fuel regardless of the holiday.
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)

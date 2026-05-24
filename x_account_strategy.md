@@ -75,6 +75,8 @@ Re-pin whenever a post breaks out (a Cuban-amplified post becomes the new pin un
 
 A strong messy-infographic + a punchy confrontational caption is a top-tier Cuban-bait format. When a post has a matching visual in the library, attach it.
 
+**Tuesday and Thursday LinkedIn visuals are the prime X drivers.** The messy infographics and carousels built for those two slots are the strongest weekly visual assets PBS produces. An X post can lead directly off them, and on a slow news week the Tue/Thu visual can drive that day's X theme. When the library has no fit for a strong X angle, it is fine to create an **X-specific visual** (same PBS v2 visual system and Substack image-prompt recipe). X visuals don't have to wait for a LinkedIn slot.
+
 **Threads:** when a decoder or dollar-comparison has multiple beats, post it as a thread (hook + reply chain) or a multi-image post. Threads and image posts travel further on X than single text posts.
 
 **Breaking news gets the visual treatment too:** when reacting to a story (CVS 340B, PA study, TN suit), a screenshot of the source headline or the relevant chart, plus a punchy 2-line take, outperforms a bare text reaction and gives the source credibility.
@@ -136,44 +138,15 @@ _Verify exact handles when setting up; some of the LinkedIn target accounts have
 
 ---
 
-## Launch Week Content (Week 1)
+## Where the weekly posts live
 
-3 scheduled posts/day, heavily skewed to Cuban-repost potential, riding the current vertical-integration news cycle (CVS 340B suit / PA Act 77 study / CVS-sues-Tennessee). Slot times are ET. Fire additional same-hour reactions on top if news breaks. `[VISUAL]` flags posts that should attach an existing asset from the library; links go in the first reply, never the post body.
+**The 3-posts/day X content is drafted inside each newsletter week file, in a `PART 4B: X (TWITTER) POSTS` section placed directly after PART 4 (Substack Notes).** This file is the standing reference (account setup, content mix, vibe, patrol list, tracking); the week files hold the actual scheduled posts.
 
-**Day 1**
-- **AM — news reaction `[VISUAL: screenshot of Fierce Healthcare headline]`:** Three hospital systems sued CVS Health last week. The allegation: $250 million in 340B savings diverted through vertical integration. It only works because one company owns the PBM, the specialty pharmacy, and the third-party administrator. Same parent. Every direction the dollars flow.
-- **Midday — decoder:** "Pass-through" in a PBM contract usually means the PBM passes through what *it* received. Not what the manufacturer paid. The gap between those two numbers is where the rebate middleman's cut lives. Read the noun.
-- **PM — punchy:** The most expensive line on your PBM's quarterly report is the one that isn't on it.
+Two rules distinguish X content from the rest of the week file:
+- **Not topic-locked.** X content does NOT follow the week's Monday deep-dive topic. It skews to breaking PBM news and the evergreen Cuban-bait shapes (dollar comparison, named-adversary, decoder). A quarterly-reporting Monday can sit beside a week of X posts about a CVS lawsuit.
+- **Tue/Thu visuals + X-specific visuals.** The week's Tuesday and Thursday LinkedIn visuals are prime X drivers; pull them into PART 4B where they fit. Create X-specific visuals when no library asset fits a strong angle.
 
-**Day 2**
-- **AM — named-adversary `[VISUAL: rebate-flow ledger from W21 Thursday]`:** Your PBM doesn't collect your rebates anymore. A company you've never heard of does. CVS uses Zinc. Express Scripts uses Ascent, registered in Switzerland. OptumRx uses Emisar, registered in Ireland. Same corporate parent as the PBM. The rebate stops there first.
-- **Midday — news reaction (PA):** Pennsylvania just studied its PBM market and found spread pricing is shrinking under state pressure. Win? Half a win. The extraction didn't stop. It moved into vertical integration, where the state isn't looking yet.
-- **PM — best-kept-secret:** Spread pricing is pharmacy's best-known secret now. Vertical integration is the one nobody's pricing in yet.
-
-**Day 3**
-- **AM — named-adversary (TN news) `[VISUAL: screenshot of TN lawsuit coverage]`:** CVS just sued the state of Tennessee. The reason: Tennessee passed a law saying a PBM can't also own the pharmacies it pays. CVS calls that unconstitutional. Plan sponsors should call it confirmation that the ownership matters enough to litigate over.
-- **Midday — decoder `[VISUAL: MAC vs WAC vs AWP marked-up page]`:** Three letters decide what your plan pays: MAC, WAC, AWP. Three different reference prices for the same drug. Your PBM picks which one applies, line by line, and the contract usually lets them.
-- **PM — stat-shock (cited):** CVS Caremark managed one-third of all U.S. prescription claims in 2023. The top three PBMs: 80% of the market. That's not a competitive market. It's three referees who also own teams.
-
-**Day 4**
-- **AM — dollar comparison `[VISUAL: channel-pricing claims report]`:** Same generic drug. The retail pharmacy fills it for one price. The PBM's own mail-order pharmacy fills it for another. The PBM sets both prices. Guess which one it steers your members toward.
-- **Midday — news reaction (Warren-Hawley):** Warren and Hawley agree on almost nothing. They co-sponsored a bill to force PBMs to sell off their pharmacies. When the populist left and right agree on your industry, the structure is the problem.
-- **PM — decoder one-liner:** "Affiliated pharmacy" is the most important phrase in your PBM contract you've never circled.
-
-**Day 5**
-- **AM — named-adversary / specialty:** Pull a quarter of your plan's specialty claims. Sort by which pharmacy filled them. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. That's not a network. It's a funnel.
-- **Midday — decoder / audit:** The hospitals suing CVS could sue because their contracts let them audit affiliated entities. In the hundreds of PBM contracts we review a year, fewer than half of plan sponsors have that right. Most audits stop at the PBM's own books.
-- **PM — punchy:** Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
-
-**Day 6 (weekend — lighter, still skewed adversary not origin)**
-- **AM — decoder / best-kept-secret:** Copay accumulators: a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly.
-- **Midday — dollar comparison:** Generic drugs cost pennies to make. Plans pay dollars. The gap isn't the pharmacy's margin. It's everything that happens between the manufacturer and the claim.
-- **PM — punchy:** Transparency is the word every PBM uses and the thing every PBM contract is built to prevent.
-
-**Day 7 (weekend)**
-- **AM — synthesis reaction:** Three PBM stories in 48 hours last week: a $250M lawsuit, a state study, and a countersuit. Different angles, one theme. The middleman is fighting to stay in the middle.
-- **Midday — decoder:** When a PBM says "we pass through 100% of rebates," ask: 100% of what the PBM received, or 100% of what the manufacturer paid? Those are different numbers. A middleman sits between them.
-- **PM — origin (the one allowed this week):** I became a pharmacist to help people afford their medications. I read contracts now because that's where affordability actually gets decided. Same mission. Different room.
+The W21 file (`newsletters/week_21_quarterly_reporting.md`) PART 4B is the launch week and the canonical example of the convention.
 
 ---
 
@@ -190,6 +163,6 @@ Add an X row to the channel-by-channel headers in `linkedin_performance_tracker.
 
 1. **Day 1:** Claim the handle, set display name / bio / location / link / photo / header. Post and pin the authority post.
 2. **Days 1-3:** Follow the Tier A and Tier B patrol lists. Reply substantively to 3-5 amplifier posts to seed presence before posting volume.
-3. **Week 1:** Cross-post the current week's Wednesday text post and 2-3 Substack Notes. React to any breaking PBM news same-day.
-4. **Weeks 2-4:** Hold 3-5 posts/week + daily 5-10 min patrol. Log follower count and any amplification events weekly.
-5. **End of Day 30:** Assess. If you've had even one Cuban/Ciaccia/journalist repost, the channel is earning its (low) keep. If reach is flat AND effort crept above 10 min/day, pause and reassess rather than escalating.
+3. **Week 1:** Schedule the W21 PART 4B posts (3/day). React to any breaking PBM news same-day on top.
+4. **Weeks 2-4:** Hold 3/day from each week file's PART 4B + daily 5-10 min patrol. Log follower count and amplification events weekly.
+5. **End of Day 30:** Assess. If you've had even one Cuban/Ciaccia/journalist repost, the channel is earning its keep. If reach is flat after 30 days at 3/day, reassess the content mix (likely too few named-adversary/news posts, too many decoders) before abandoning.

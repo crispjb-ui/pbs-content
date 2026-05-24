@@ -153,6 +153,18 @@
 - **Visual:** Accent Blue (#A7E0FA) background header images (distinct from Monday deep teal-blue and Thursday white)
 - **Paywall:** Free (discovery/SEO play)
 
+### Channel 6: X / Twitter (added May 22, 2026)
+- **Account:** Ginny Crisp, PharmD — `@GinnyCrispRx` (handle pending availability check)
+- **Role:** Amplification + policy/journalist relationships. NOT a direct-conversion channel; measure by reach + amplification events (Cuban/Ciaccia/Fein reposts), not newsletter subs.
+- **Frequency:** 3 scheduled posts/day + same-hour reactions when PBM news breaks
+- **Content skew:** ~40% named-adversary/dollar comparison, ~30% breaking-news reactions, ~20% decoders, ~10% origin (capped 1/week). NOT topic-locked to the Monday deep dive. Origin stories underperform on X — they are the Substack Notes format, not the X format.
+- **Vibe:** punchier than LinkedIn, shorter wind-up, more teeth. Same proprietary anchor, half the words. Links in the first reply, never the post body (links suppress X reach). Hashtags 0-1 max (NOT the LinkedIn 3-tag rule).
+- **Visuals:** attach the strongest library assets (toolkit preview PNGs, Tue/Thu messy-infographic heroes, Library carousel slides). Tue/Thu LinkedIn visuals are prime X drivers; X-specific visuals are fine when no library asset fits.
+- **Full strategy:** `x_account_strategy.md` (account setup, content mix, engagement patrol list, tracking).
+- **Where weekly posts live:** `PART 4B: X (TWITTER) POSTS` in each newsletter week file (see convention below).
+
+**PART 4B convention (added May 22, 2026, required behavior):** Every newsletter week file includes a `PART 4B: X (TWITTER) POSTS` section placed directly after PART 4 (Substack Notes) and before PART 5 (Publishing Checklist). It holds that week's 3-posts/day X content (labeled by day + AM/midday/PM slot), `[VISUAL]` flags where an asset attaches, and a note on any same-hour news reactions. **X content is NOT locked to the week's Monday topic** — it skews to breaking PBM news and the Cuban-bait shapes per the content mix in `x_account_strategy.md`. Pull the week's Tuesday and Thursday LinkedIn visuals in as X drivers where they fit; create X-specific visuals when no library asset matches a strong angle. The W21 file PART 4B is the canonical example (X launch week). When drafting a new week file from scratch, include PART 4B automatically; backfill prior weeks as bandwidth allows.
+
 ### Publishing Flow (Every Week)
 
 ```
@@ -613,6 +625,7 @@ When test-recipient Gmail addresses have personal filters routing Substack-menti
                                              #   PART 2: LinkedIn Newsletter
                                              #   PART 3: LinkedIn Feed Posts
                                              #   PART 4: Substack Notes
+                                             #   PART 4B: X (Twitter) Posts
                                              #   PART 5: Publishing Checklist
                                              #   PART 6: Assets Needed
                                              #   PART 7: Metrics Tracking
