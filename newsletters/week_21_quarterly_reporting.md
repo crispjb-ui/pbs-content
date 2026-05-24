@@ -1090,22 +1090,61 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 > **Note on Memorial Day (Mon May 25):** holiday — engagement is soft. Keep Monday's posts scheduled (X news-reaction content runs fine on holidays, people check phones for news), but the amplifier patrol can be lighter. The CVS/PA/TN news is the launch fuel regardless of the holiday.
 
-## Same-hour reaction log — Sun May 24, 2026 (launch day, Cuban vertical-integration thread)
+## Same-hour reaction log — Sun May 24, 2026 (launch day)
 
-Cuban ran a multi-post thread the day the account went live: the "Break Up Big Medicine Bill" (Hawley/Warren), a "self-insured employers can already choose / will they self-correct without enforcement" post, and a quote of Mansi's CVS Health Aetna + Caremark + Pharmacy breakdown. Three Ginny engagements, method tagged per the reply-vs-quote rule in `x_account_strategy.md`:
+A full afternoon of live PBM-thread engagement the day the account went live, all riding the vertical-integration conversation Cuban was driving. **12 posts shipped (8 straight replies, 4 quote-posts) + 1 deliberate skip; 1 confirmed amplification event (Cuban repost).** Every engagement method-tagged per the reply-vs-quote rule in `x_account_strategy.md`. All posts below are the recommended drafts, confirmed posted by Ginny.
 
-1. **Cuban's "Break Up Big Medicine Bill" post → STRAIGHT REPLY (POSTED).**
+**Cuban "Break Up Big Medicine" thread:**
+
+1. **Cuban's "Break Up Big Medicine Bill" post → STRAIGHT REPLY.**
    > Exactly. The three biggest PBMs are owned by the three biggest insurers. We review hundreds of their contracts a year and the self-dealing is right there in the language: your plan pays the PBM, the PBM sends the script to its own specialty pharmacy, and the markup never leaves the building. That's not a market. It's a closed loop with a contract stapled to it.
 
-   **→ AMPLIFICATION EVENT: Mark Cuban REPOSTED + liked it within ~25 seconds.** This is a repost (not likes-only), so it counts as a real reach lift per the May 8 Cuban likes-only rule. First X Cuban repost; Day-1 hit on the 30-day launch success criterion ("if you've had even one Cuban/Ciaccia/journalist repost, the channel is earning its keep"). Method called correctly: a straight reply on the amplifier's own tweet put Ginny in his notifications, which is where the repost came from.
+   **→ AMPLIFICATION EVENT: Mark Cuban REPOSTED + liked it within ~25 seconds.** A repost (not likes-only), so it counts as a real reach lift per the May 8 Cuban likes-only rule. First X Cuban repost; Day-1 hit on the 30-day launch success criterion ("if you've had even one Cuban/Ciaccia/journalist repost, the channel is earning its keep"). The reply reached 12K views off the repost. Method called correctly: a straight reply on the amplifier's own tweet put Ginny in his notifications, which is where the repost came from.
 
-2. **Cuban's "self-insured employers can choose / will they be honest" post → STRAIGHT REPLY (drafted, ready).**
+2. **Cuban's "self-insured employers can choose / will they be honest" post → STRAIGHT REPLY.**
    > You're right that nothing forces a self-insured employer to use the big three. Helping them leave is the whole job. And to your last question: no, they won't self-correct. "Transparent" is already a word in their contracts. I've read "pass-through" deals that still let the PBM keep spread, because the PBM wrote the definition. Choice is real. Honesty without enforcement isn't.
 
-3. **Mansi's CVS-breakdown post (Cuban-reposted, 91K views) → QUOTE-POST (drafted, ready).** Crowded thread plus a standalone take that builds Ginny's own reach; framed as building on Mansi, not dunking.
+3. **Mansi's CVS-breakdown post (Cuban-reposted, 91K views) → QUOTE-POST.** Crowded thread + standalone take that builds Ginny's own reach; framed as building on Mansi, not dunking.
    > Mansi's got the member side exactly right. Now add the self-funded employer paying for that same script: the plan pays Caremark a "negotiated" price that Caremark negotiated with a pharmacy its own parent owns. That $160B in inter-company transfers Cuban mentions? A lot of it is the spread, relabeled as internal accounting. You can't audit a price a company set with itself.
 
-**Anchor note:** the posted reply (#1) used the "hundreds of contracts a year" volume anchor and Cuban reposted it, so the line still lands with the amplifier crowd. The anchor-rotation guidance (vary off the volume line across a run of posts so it does not harden into a tagline) still applies; it is not a ban on the line where it fits.
+4. **Cuban's brand-drug / formulary-threat post ($600 drug, 5% distributor discount, CEOs can't cut list) → STRAIGHT REPLY.** Fired fast into a 4-min-old post during peak amplification window.
+   > You just described the trap from the manufacturer's side. Here's the PBM's side: the rebate is a percentage of list price. So the higher the list, the bigger the PBM's cut. The formulary threat isn't just defense, it's the PBM protecting a number it profits from keeping high. The plan pays coinsurance on the $600. The PBM banks the rebate on the spread. Nobody at the table is paid to lower the price.
+
+**HomersBeer good-faith exchange (on Ginny's Cuban-reposted #1 comment, 12K views):**
+
+5. **HomersBeer "wouldn't the same happen, just one fewer company taking profit?" → STRAIGHT REPLY.**
+   > Fair question, and the answer is the arm's-length transaction. Three separate companies each protect their own margin, so they negotiate against each other and the price that falls out is real and auditable. One company owning all three means the "price" between them is just internal accounting set to maximize the total. No opposing party, nothing to audit, and every script gets steered to the captive pharmacy with no competing bid. Breaking them up doesn't remove the greed. It puts someone back at the table with a reason to push the price down.
+
+6. **HomersBeer "but breakup could create pharmacy deserts" → STRAIGHT REPLY (DIR-fee flip).**
+   > You're right, it was about capturing margin across the chain. But flip the pharmacy-desert worry: the independents serving rural areas are closing right now, and the reason is the vertically integrated PBMs paying them below cost and clawing it back through DIR fees. The current structure creates the deserts. Separation plus fair reimbursement is what keeps those pharmacies open.
+
+7. **HomersBeer "I'd just drive 2 miles in Phoenix" → STRAIGHT REPLY (gracious closer, then disengaged).** Sub-thread had dropped to 3 views; made the one point worth making (rural ≠ suburban) and exited warm.
+   > In Phoenix, sure, 2 miles is nothing. The deserts that worry me are the rural counties where the next pharmacy is 40 miles and the only one in town just closed because the PBM paid it below cost. For them it's not a drive, it's no pharmacy. Good thread though.
+
+**Other threads:**
+
+8. **Bradford Holland / Dutch Rojas ERISA-preemption thread → QUOTE-POST (Dutch Rojas).** On-pillar (Self-Funded Employer Guidance / Fiduciary); quoted the aligned ERISA-as-escape-hatch take to Ginny's own audience, build-don't-dunk.
+   > Dutch is right, and here's the part self-funded employers miss. ERISA is the escape hatch from carrier-captured state regulation. But it only works if you use the leverage on the way out. ERISA gives a self-funded plan the right to audit its PBM and control its formulary. The PBM-written contract is where most plans sign that right away. Self-funding is the exit. The contract decides whether you walk through it.
+
+9. **Evis Drenova GLP-1 / Ozempic "fascinating consequence" post (9.7K views) → QUOTE-POST.** GLP-1 is the documented topic-level amplifier; reframed pharma-vs-conspiracy to the plan-cost value-capture question.
+   > Drenova's right, the drugs work and the old conspiracy was backwards. The question for anyone paying the bill: who captures the downstream savings? A GLP-1 that prevents years of diabetes and heart-disease spend creates real value. Whether your plan sees it depends on the PBM in the middle, pricing these off a high list and keeping the rebate. The drug works. The plumbing decides who benefits.
+
+10. **Dutch Rojas one-liner ("healthcare is a group project where the patient does all the work and gets an F") → STRAIGHT REPLY.** Matched his register (witty, light), ally-building, no soapbox.
+    > And the group member who did the least keeps the most. We just call it a rebate.
+
+11. **KP, Pharm.D. Ohio single-PBM Medicaid post (5.1K views) → STRAIGHT REPLY** (not quote-post: KP's post was itself a 3-deep quote-tweet, and a reply builds the pharmacist-peer relationship cleanly).
+    > This is the proof point the whole debate needs. Worth being precise on why it worked, though: Ohio's savings didn't come from the number of PBMs, they came from killing spread pricing, mandating pass-through, and giving the state audit rights. A self-funded employer can't force a single statewide PBM, but it can write those same three things into its own contract. The Ohio lesson is transparency, not consolidation.
+
+12. **American Economic Liberties FAIR Rx Act post (Tennessee bans PBM pharmacy ownership, signed Fri) → QUOTE-POST.** Strongest on-thesis breaking news of the day; connects to the W21 Wednesday CVS-sued-TN X post. ERISA-preemption claim deliberately hedged ("live legal question") per post-Rutledge accuracy.
+    > This is the closed loop I described this morning, now illegal in Tennessee. The FAIR Rx Act bans the exact conflict: a PBM owning the pharmacy it reimburses, paying its own one rate and competitors another, pocketing the difference. Passed 86-7. For self-funded employers: how far a state PBM law reaches your ERISA plan is a live legal question, so don't assume Tennessee's protection covers you. The version you can count on is the one you write into your own contract.
+
+**Deliberate skip (engagement discipline):**
+
+- **Suneel Dhand MD "cut 50% of all prescriptions and the country would be healthier" (499 views) → SKIPPED.** Off-lane (deprescribing/overmedication, not PBM/pricing) and a positioning trap for a pharmacist (agree = anti-medication; disagree = fighting a physician). Logged as a deliberate pass to document the discipline call, not an oversight.
+
+**Anchor note:** the posted reply (#1) used the "hundreds of contracts a year" volume anchor and Cuban reposted it, so the line still lands with the amplifier crowd. Across the rest of the day the anchor was deliberately rotated (network definitions, "transparent" as a defined term, rebate-as-percentage-of-list, arm's-length transaction, DIR fees, ERISA audit rights, pass-through, FAIR Rx Act) so the volume line does not harden into a tagline. The rotation guidance is about variety across a run, not a ban on any one line where it fits.
+
+**Method tally for the day:** 8 straight replies (engage the amplifier / good-faith interlocutor / pharmacist peer), 4 quote-posts (surface a standalone take to Ginny's own audience: Mansi, Dutch ERISA, Drenova GLP-1, AELP FAIR Rx Act), 1 skip. Pattern held: reply to be noticed by the big account; quote-post to put the take in front of Ginny's followers.
 
 ---
 
