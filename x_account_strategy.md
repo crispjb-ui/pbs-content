@@ -14,7 +14,7 @@ X is the only new social channel where PBS's proven reach amplifier actually liv
 
 **What X is NOT for:** direct newsletter/Substack conversion. PBS's buyers (CFOs, HR Directors) make pharmacy-benefit decisions on LinkedIn and in their inbox, not on X. **Treat conversion as near-zero by design.** Measuring X by newsletter subs will wrongly conclude it failed. Measure it by reach, amplification events (Cuban/Ciaccia/Fein reposts), and policy-conversation presence.
 
-**Effort budget:** low, by rule. X works for PBS *only* as a repurpose-and-engage channel. The moment it requires bespoke daily content creation, the opportunity cost against the already-full LinkedIn + Substack cadence makes it not worth it. Cross-post existing content + 5-10 minutes/day of engagement. Nothing more.
+**Effort budget:** moderate, high-cadence. Target **3 scheduled posts/day** plus reactive news posts added as relevant. The bulk is still repurposed or fast-reaction (not bespoke long-form), but 3/day is a real commitment — it works because the content skews to material that writes fast: confrontational PBM-adversary takes, dollar comparisons, contract decoders, and same-hour reactions to breaking PBM news. Pair with 5-10 minutes/day of amplifier engagement.
 
 ---
 
@@ -38,37 +38,61 @@ X is the only new social channel where PBS's proven reach amplifier actually liv
 
 Pin a single authority-establishing post on day one. Draft:
 
-> I'm a clinical pharmacist who reads PBM contracts for a living. Hundreds a year, for self-funded employers.
+> I read PBM contracts for a living. Hundreds a year, for self-funded employers.
 >
-> Here's what I've learned: the most expensive line in your pharmacy benefit is usually the one that isn't in the report.
+> Being a clinical pharmacist taught me the PBM industry runs on language plan sponsors never decode: the same drug at three different prices, rebates routed through offshore middlemen, audit rights that conveniently stop at the PBM's own books.
 >
-> I write about what PBM contracts actually say. The deeper analysis goes out weekly: benefitblindspots.substack.com
+> I decode it here. Follow for the parts your PBM hopes you skip.
+
+(Link to benefitblindspots.substack.com goes in the FIRST REPLY to the pinned post, not in the post itself — links suppress reach on X.)
 
 Re-pin whenever a post breaks out (a Cuban-amplified post becomes the new pin until the next one lands).
 
 ---
 
-## Content model (low-effort repurposing only)
+## Content model — heavily skewed to Cuban-repost potential + reactions
 
-Three sources, all already produced for other channels. Nothing X-original required except real-time news reactions.
+**Content mix is the whole strategy here.** On X, origin stories underperform (they're the *Substack Notes* performer, not the X amplification engine). What Cuban and the transparency crowd repost is confrontational PBM-adversary material and fast news reactions. Skew accordingly.
 
-| Source | What to post | Reformatting |
-|--------|--------------|--------------|
-| **Wednesday LinkedIn confrontational text posts** | The whole post, or its hook + 2-3 lines | Already X-native (short, named-adversary, confrontational). Often fits in a single post or a 2-3 post thread. |
-| **Best Substack Notes** | The provocative one-liners and origin-story Notes | Already written for this format. Copy across. |
-| **Breaking PBM news reactions** | Quick take on news the moment it lands (CVS 340B lawsuit, PA Act 77 study, CVS-sues-Tennessee, FTC actions, Warren-Hawley movement) | This is the ONE X-native behavior. X rewards speed on news; LinkedIn doesn't. A 2-sentence reaction the hour a story breaks, tagging the journalist or quoting the source, is the highest-amplification play. |
+**Target mix across the ~21 posts/week:**
 
-**Threads:** when a LinkedIn decoder or dollar-comparison post has multiple beats, post it as a thread (hook post + reply chain). Threads travel further on X than single posts.
+| Share | Type | What it is | Cuban-repost potential |
+|-------|------|-----------|------------------------|
+| ~40% | **Named-adversary / dollar comparison** | "Same drug, three prices, set by the same PBM." "$X vs $Y, [actor] keeps the difference." Names the PBM, the rebate aggregator, the vertical-integration structure. | Highest. This is the documented Cuban-bait shape (the 340B "$20 vs $100" post he reposted). |
+| ~30% | **Breaking-news reactions** | Same-hour take on PBM news (CVS 340B lawsuit, PA Act 77, CVS-sues-Tennessee, FTC actions, Warren-Hawley). Tag the journalist/source. | High. X rewards speed on news; tagging sources pulls amplification. |
+| ~20% | **Contract / clinical decoders** | "'Pass-through' means what the PBM received, not what the manufacturer paid. Read the noun." Translates the language only Ginny can translate. | Medium-high. Authority play; the proprietary anchor (hundreds of contracts/year) is the differentiator. |
+| ~10% | **Human/origin (capped)** | One per week max. Signals there's a real pharmacist behind the account. Do NOT let this creep up — it's the Substack format, not the X format. | Low reach, but earns trust. One per week, no more. |
+
+**Source material (all already produced):** Wednesday LinkedIn confrontational text posts, the dollar-comparison and decoder shapes from the Content Shape Library, the current news trifecta, and the PBM-adversary Substack Notes (NOT the origin-story Notes).
+
+**Match the X vibe.** X is not LinkedIn. Punchier, more edge, shorter wind-up, native voice. Lead with the confrontation; cut the throat-clearing. Where a LinkedIn post would say "After reviewing hundreds of PBM contracts a year at PBS, I've observed that..." the X version says "I read PBM contracts for a living. Here's the part they bury." Same proprietary anchor, half the words, more teeth.
+
+**Post the strongest visuals.** X is image-friendly and visual posts outperform text-only on reach. PBS already has a deep visual library to attach — no new design needed:
+- The 29 toolkit preview PNGs in `templates/documents/` (auto-rendered product shots)
+- Thursday messy-infographic heroes (channel-pricing claims report, rebate-flow ledger, the 5-Terms-Decoded marked-up pages)
+- Contract Comparison / Library NN carousel slides (post as X multi-image, up to 4, or as an image thread)
+- Substack header graphics (the two-tone topic-icon images)
+
+A strong messy-infographic + a punchy confrontational caption is a top-tier Cuban-bait format. When a post has a matching visual in the library, attach it.
+
+**Threads:** when a decoder or dollar-comparison has multiple beats, post it as a thread (hook + reply chain) or a multi-image post. Threads and image posts travel further on X than single text posts.
+
+**Breaking news gets the visual treatment too:** when reacting to a story (CVS 340B, PA study, TN suit), a screenshot of the source headline or the relevant chart, plus a punchy 2-line take, outperforms a bare text reaction and gives the source credibility.
 
 ---
 
 ## Posting cadence
 
-Start small and sustainable. Scale only if it's working and effort stays low.
+**3 scheduled posts/day, plus reactive news posts added as relevant.**
 
-- **Phase 1 (first 4 weeks):** 3-5 posts/week. Cross-post Wednesday text post + 2-3 of the week's Substack Notes + react to any breaking PBM news.
-- **Phase 2 (if Phase 1 holds):** 1 post/day + news reactions as they happen.
-- **News reactions are additive,** not scheduled — fire them when a story breaks regardless of the day's plan. These are the amplification engine.
+Daily template (skewed to Cuban-bait, per the content mix above):
+- **Morning (~8 AM ET):** the day's strongest named-adversary / dollar-comparison post. Highest Cuban-repost potential goes in the morning slot when the amplifier crowd is active.
+- **Midday (~12 PM ET):** a news reaction or a contract/clinical decoder.
+- **Evening (~5 PM ET):** a punchy one-liner, stat-shock (real cited figures only), or quote-the-source post.
+
+**News reactions are additive,** not part of the scheduled 3 — fire them the hour a story breaks, regardless of the day's plan, and tag the journalist/source. These are the single highest-amplification behavior on the channel.
+
+Schedule the 3 daily posts a week at a time (X native scheduler or Typefully). Keep the evening slot loosely held so a breaking-news reaction can bump a pre-scheduled filler post if something big lands.
 
 ---
 
@@ -104,10 +128,52 @@ _Verify exact handles when setting up; some of the LinkedIn target accounts have
 
 ## What NOT to do
 
-- Don't bespoke-create for X. Repurpose + react only. (The moment it's a content-creation burden, it fails the low-effort test.)
-- Don't chase X conversion metrics. It's an amplification channel.
+- Don't let origin stories creep past one per week. They're the Substack format; on X they underperform. The mix stays skewed to named-adversary + reactions + decoders.
+- Don't chase X conversion metrics. It's an amplification channel; measure reach + amplification events.
 - Don't post politics or polarizing non-PBM content. Same guardrails as the LinkedIn personal-post rule: family/career/PBM-policy only.
-- Don't auto-cross-post identically from LinkedIn via a tool that mangles formatting. Light manual touch keeps it native.
+- Don't auto-cross-post identically from LinkedIn via a tool that mangles formatting. Match the X vibe: punchier, shorter, more teeth. Light manual touch keeps it native.
+- Don't put links in the post body. Links go in the first reply.
+
+---
+
+## Launch Week Content (Week 1)
+
+3 scheduled posts/day, heavily skewed to Cuban-repost potential, riding the current vertical-integration news cycle (CVS 340B suit / PA Act 77 study / CVS-sues-Tennessee). Slot times are ET. Fire additional same-hour reactions on top if news breaks. `[VISUAL]` flags posts that should attach an existing asset from the library; links go in the first reply, never the post body.
+
+**Day 1**
+- **AM — news reaction `[VISUAL: screenshot of Fierce Healthcare headline]`:** Three hospital systems sued CVS Health last week. The allegation: $250 million in 340B savings diverted through vertical integration. It only works because one company owns the PBM, the specialty pharmacy, and the third-party administrator. Same parent. Every direction the dollars flow.
+- **Midday — decoder:** "Pass-through" in a PBM contract usually means the PBM passes through what *it* received. Not what the manufacturer paid. The gap between those two numbers is where the rebate middleman's cut lives. Read the noun.
+- **PM — punchy:** The most expensive line on your PBM's quarterly report is the one that isn't on it.
+
+**Day 2**
+- **AM — named-adversary `[VISUAL: rebate-flow ledger from W21 Thursday]`:** Your PBM doesn't collect your rebates anymore. A company you've never heard of does. CVS uses Zinc. Express Scripts uses Ascent, registered in Switzerland. OptumRx uses Emisar, registered in Ireland. Same corporate parent as the PBM. The rebate stops there first.
+- **Midday — news reaction (PA):** Pennsylvania just studied its PBM market and found spread pricing is shrinking under state pressure. Win? Half a win. The extraction didn't stop. It moved into vertical integration, where the state isn't looking yet.
+- **PM — best-kept-secret:** Spread pricing is pharmacy's best-known secret now. Vertical integration is the one nobody's pricing in yet.
+
+**Day 3**
+- **AM — named-adversary (TN news) `[VISUAL: screenshot of TN lawsuit coverage]`:** CVS just sued the state of Tennessee. The reason: Tennessee passed a law saying a PBM can't also own the pharmacies it pays. CVS calls that unconstitutional. Plan sponsors should call it confirmation that the ownership matters enough to litigate over.
+- **Midday — decoder `[VISUAL: MAC vs WAC vs AWP marked-up page]`:** Three letters decide what your plan pays: MAC, WAC, AWP. Three different reference prices for the same drug. Your PBM picks which one applies, line by line, and the contract usually lets them.
+- **PM — stat-shock (cited):** CVS Caremark managed one-third of all U.S. prescription claims in 2023. The top three PBMs: 80% of the market. That's not a competitive market. It's three referees who also own teams.
+
+**Day 4**
+- **AM — dollar comparison `[VISUAL: channel-pricing claims report]`:** Same generic drug. The retail pharmacy fills it for one price. The PBM's own mail-order pharmacy fills it for another. The PBM sets both prices. Guess which one it steers your members toward.
+- **Midday — news reaction (Warren-Hawley):** Warren and Hawley agree on almost nothing. They co-sponsored a bill to force PBMs to sell off their pharmacies. When the populist left and right agree on your industry, the structure is the problem.
+- **PM — decoder one-liner:** "Affiliated pharmacy" is the most important phrase in your PBM contract you've never circled.
+
+**Day 5**
+- **AM — named-adversary / specialty:** Pull a quarter of your plan's specialty claims. Sort by which pharmacy filled them. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. That's not a network. It's a funnel.
+- **Midday — decoder / audit:** The hospitals suing CVS could sue because their contracts let them audit affiliated entities. In the hundreds of PBM contracts we review a year, fewer than half of plan sponsors have that right. Most audits stop at the PBM's own books.
+- **PM — punchy:** Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+
+**Day 6 (weekend — lighter, still skewed adversary not origin)**
+- **AM — decoder / best-kept-secret:** Copay accumulators: a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly.
+- **Midday — dollar comparison:** Generic drugs cost pennies to make. Plans pay dollars. The gap isn't the pharmacy's margin. It's everything that happens between the manufacturer and the claim.
+- **PM — punchy:** Transparency is the word every PBM uses and the thing every PBM contract is built to prevent.
+
+**Day 7 (weekend)**
+- **AM — synthesis reaction:** Three PBM stories in 48 hours last week: a $250M lawsuit, a state study, and a countersuit. Different angles, one theme. The middleman is fighting to stay in the middle.
+- **Midday — decoder:** When a PBM says "we pass through 100% of rebates," ask: 100% of what the PBM received, or 100% of what the manufacturer paid? Those are different numbers. A middleman sits between them.
+- **PM — origin (the one allowed this week):** I became a pharmacist to help people afford their medications. I read contracts now because that's where affordability actually gets decided. Same mission. Different room.
 
 ---
 
