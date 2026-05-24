@@ -916,6 +916,57 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md`; W21 PART 4B is the prototype):** 3 scheduled posts/day (AM ~8 ET, midday ~12 ET, PM ~5 ET), plus same-hour reactions fired on top when PBM news breaks. **NOT locked to Monday's biosimilar topic** — X skews to breaking news and the Cuban-bait shapes. Links go in the FIRST REPLY, never the post body. `[VISUAL]` flags an attached asset.
+>
+> **Format experiment (this week's emphasis, per the May 24 launch learning):** we don't yet know which X shapes/formats convert for PBS, so W22 deliberately **spreads formats** — every post is tagged by shape (decoder / punchy / named-adversary / best-kept-secret / dollar comparison / stat-shock / news reaction / origin) and by format (text-only vs. visual). Goal: log impressions + engagement per post, then after 2-3 weeks correlate shape+format with what actually performs before concentrating. Don't run the same shape twice in a day.
+>
+> **LinkedIn-first rule (required):** no X post may use a same-week LinkedIn post's visual/material before it publishes at 8:30 AM. This week that means: the **biosimilar-rebate-steering** angle belongs to Wed's LinkedIn POV (X can't run it until Wed after 8:30); the **CFO-numbers** carousel (Tue), **spread-pricing** carousel (Thu), and **claims-data** tease (Fri) are likewise embargoed until each publishes. Toolkit preview X-crops are Substack/lead-magnet assets, not LinkedIn feed visuals, so they're free to use anytime.
+
+**Mon Jun 1** _(Monday biosimilar deep dive publishes 7:30 AM; first replies route to it + the readiness toolkit)_
+- **AM — decoder / opportunity `[VISUAL: week_22_biosimilar_readiness_assessment_x.png]`:** A biosimilar is the same biologic, built by a different maker, at a fraction of the price. The clinical case was settled years ago. The savings are sitting on the table. The only open question for a self-funded plan is whether your formulary actually puts the biosimilar in front of members, or just lists it and moves on.
+  - **First reply (link):** Today's deep dive breaks down the 6-factor biosimilar readiness assessment, with the printable scorecard: [Monday Substack deep dive link]
+- **Midday — decoder (text-only):** Biosimilar isn't a generic. A generic is an identical chemical copy. A biosimilar is a highly similar copy of a biologic, grown from living cells, FDA-reviewed to work the same. The word "similar" spooks people off a drug that performs like the original. That hesitation is worth billions to whoever still sells the brand.
+- **PM — punchy (text-only):** The cheapest version of your plan's most expensive drug has been FDA-approved for years. Ask your PBM why you're not on it.
+
+**Tue Jun 2** _(LinkedIn 8:30 = "5 Numbers Every Self-Funded CFO Should Pull" carousel; biosimilar-rebate + spread-pricing angles embargoed)_
+- **AM — best-kept-secret (text-only):** Copay accumulators are the program your PBM never explains. Your member uses a manufacturer coupon. The PBM keeps that value off the deductible and routes it back to itself. The member pays twice. The PBM collects twice. It's rarely written down that plainly.
+- **Midday — news reaction `[HOLD for live PBM news — react the hour it breaks, tag the source]`.** Backup if nothing breaks (stat-shock, cited): The top three PBMs control roughly 80% of U.S. prescription claims. Three companies. That's not a market with referees. It's three referees who own teams.
+- **PM — named-adversary / stat (text-only; schedule AFTER the 8:30 carousel, echoes its theme):** Before Q3, pull one number: what share of your specialty spend runs through a pharmacy your PBM owns. In most plans we see, it's the majority. That's not a network. It's a funnel.
+
+**Wed Jun 3** _(LinkedIn 8:30 = "PBM May Have a Financial Incentive to Keep You on the Brand" biosimilar POV; rebate-steering angle unlocks AFTER 8:30)_
+- **AM — decoder / GLP-1 (text-only; non-biosimilar, runs 8 AM, no embargo):** A GLP-1 lists north of a thousand dollars a month. Your plan doesn't pay list. Your member doesn't pay list. And your PBM won't show you the net. The list price is theater. The rebate is the real number. You're billed somewhere in between and never shown the math.
+- **Midday — named-adversary / biosimilar (text-only; AFTER 8:30, amplifies the Wed POV):** Your PBM may have a financial reason to keep your plan on the brand over the cheaper biosimilar. It's called a rebate. The brand pays it. The biosimilar can't match it. So the drug your formulary calls "preferred" is preferred by the PBM's P&L, not your plan's.
+  - **First reply (link):** The net-cost-comparison request that surfaces this is in Monday's deep dive: [Monday Substack deep dive link]
+- **PM — punchy (text-only):** A biosimilar saves your plan money. A rebate keeps your PBM whole. Guess which one ends up "preferred."
+
+**Thu Jun 4** _(Field Note 7:30 = "Three Biosimilar Contract Provisions Worth Negotiating"; LinkedIn 8:30 = "5 Questions About Spread Pricing" carousel)_
+- **AM — decoder / contract (text-only; Field Note already live 7:30):** Three provisions decide whether your plan ever captures biosimilar savings: an interchangeability clause, a formulary-placement guarantee, and a rebate-neutral substitution right. Most contracts have none of the three. The biosimilar exists. The contract is what lets you use it.
+  - **First reply (link):** Today's Field Note walks all three, with the language to ask for: [Thursday Field Note link]
+- **Midday — 5-questions / named-adversary (text-only; AFTER 8:30, amplifies the spread-pricing carousel):** Five questions about spread pricing went up this morning. The one your PBM hopes you skip: show me what you billed the plan and what you paid the pharmacy, side by side, for the same claim. If they can't, the gap is the answer.
+- **PM — punchy (text-only):** Spread pricing has one tell: your PBM will show you what it charged you, or what it paid the pharmacy. Never both on the same line.
+
+**Fri Jun 5** _(LinkedIn 8:30 = "Your Claims Data Is Already Talking" tease; claims-data angle embargoed until then)_
+- **AM — named-adversary / specialty `[VISUAL: week_22_thursday_specialty_routing_audit_worksheet_x.png]`:** Pull a quarter of your specialty claims and sort by which pharmacy filled them. In most plans we review, the majority ran through the pharmacy the PBM owns. Members didn't pick it. The contract routed them there.
+  - **First reply (link):** The specialty-routing audit worksheet that surfaces this is in this week's Field Note: [Thursday Field Note link]
+- **Midday — decoder / audit (text-only):** Your PBM contract's audit clause is either a flashlight or a blindfold. The flashlight lets you audit the PBM's affiliated pharmacies. The blindfold stops at the PBM's own books, which is exactly where the affiliated markup isn't.
+- **PM — origin (the one allowed this week; text-only):** I trained as a pharmacist to help people afford their medicine. I read PBM contracts now because that's the room where affordability actually gets decided. Different room. Same job.
+
+**Sat Jun 6** _(lighter, still adversary-skewed)_
+- **AM — dollar comparison (text-only):** Generic drugs cost pennies to make. Plans pay dollars. The gap isn't the pharmacy's margin. It's everyone standing between the factory and the claim.
+- **Midday — best-kept-secret (text-only):** White bagging sounds like a logistics term. It's a billing one. It's how a specialty drug gets routed so the PBM's own pharmacy captures the markup instead of the hospital. Ask where your specialty drugs are actually filled, and who owns that pharmacy.
+- **PM — punchy (text-only):** Every PBM says it's transparent, then writes the definition of "transparent" into a contract you're not allowed to audit.
+
+**Sun Jun 7** _(lighter)_
+- **AM — synthesis / decoder (text-only):** The biosimilar story in one line: the cheaper drug exists, the science is settled, and the only thing between your plan and the savings is a contract the PBM wrote.
+- **Midday — stat-shock (cited; text-only):** Humira biosimilars have been on the U.S. market since 2023. Years later, the original still holds a large share of plan spend, not because it works better, but because the rebate held the formulary.
+- **PM — punchy / forward (text-only):** Fall renewal? The biosimilar conversation starts now, not in October. The savings are already FDA-approved. The contract is the only thing that isn't.
+
+**Format-spread tally (for the experiment):** decoder ×6, punchy ×5, named-adversary ×3, best-kept-secret ×2, dollar comparison ×1, stat-shock ×1 (+1 backup), news reaction ×1 (hold slot), 5-questions ×1, origin ×1. Format: 2 visual (toolkit X-crops), 19 text-only. The visual-vs-text split and the shape variety are intentional test variables. **Tracking ask:** log impressions, reposts, and saves per post tagged by shape+format in the X tracker, so after W22-W24 we can see which X shape and which format (text vs. toolkit-crop visual) actually convert for PBS before concentrating the mix.
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)
