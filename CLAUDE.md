@@ -165,6 +165,8 @@
 
 **PART 4B convention (added May 22, 2026, required behavior):** Every newsletter week file includes a `PART 4B: X (TWITTER) POSTS` section placed directly after PART 4 (Substack Notes) and before PART 5 (Publishing Checklist). It holds that week's 3-posts/day X content (labeled by day + AM/midday/PM slot), `[VISUAL]` flags where an asset attaches, and a note on any same-hour news reactions. **X content is NOT locked to the week's Monday topic** — it skews to breaking PBM news and the Cuban-bait shapes per the content mix in `x_account_strategy.md`. Pull the week's Tuesday and Thursday LinkedIn visuals in as X drivers where they fit; create X-specific visuals when no library asset matches a strong angle. The W21 file PART 4B is the canonical example (X launch week). When drafting a new week file from scratch, include PART 4B automatically; backfill prior weeks as bandwidth allows.
 
+**LinkedIn-first rule (added May 22, 2026, required behavior):** An X post must NOT use a LinkedIn post's visual or material before that LinkedIn post publishes. This protects the Thursday Excellence reveal especially: the Thursday LinkedIn post + Field Note + first-comment Substack cross-promo is the week's conversion stack, and an X post scooping the Thursday material earlier in the week would undercut it. X posts that reuse a same-week LinkedIn visual or topic (a Tuesday Library NN driver, a Thursday decoder amplifier) must be scheduled AFTER that LinkedIn post goes live. Same-day-after-publish amplification is encouraged; pre-publish scooping is not. When drafting PART 4B, do not place any Thursday-LinkedIn-post material in the Mon-Wed X slots.
+
 ### Publishing Flow (Every Week)
 
 ```

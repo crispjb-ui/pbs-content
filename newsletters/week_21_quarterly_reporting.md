@@ -1050,6 +1050,8 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 # PART 4B: X (TWITTER) POSTS
 
 > **Convention (see `x_account_strategy.md`):** 3 scheduled posts/day, plus same-hour reactions fired on top when PBM news breaks. **NOT locked to Monday's quarterly-reporting topic** — X skews to breaking news and the Cuban-bait shapes (dollar comparison, named-adversary, decoder). This is the **X launch week**, riding the live vertical-integration trifecta (CVS 340B suit / PA Act 77 study / CVS-sues-Tennessee). Schedule via X native scheduler or Typefully. `[VISUAL]` flags posts that attach an asset; links go in the FIRST REPLY, never the post body. Slot times ET. Set up account first per `x_account_strategy.md` (handle `@GinnyCrispRx`, bio, pinned post).
+>
+> **LinkedIn-first rule (required):** an X post must NOT use a LinkedIn post's visual or material before that LinkedIn post publishes. This protects the Thursday Excellence reveal especially — the Thursday LinkedIn post (Rebate Aggregator decoder, 8:30 AM) + Field Note + first-comment cross-promo is the conversion stack, and X scooping it on Tuesday would undercut it. X posts that reuse a same-week LinkedIn visual/topic (Tue Library 02 driver, Thu Rebate Aggregator amplifier) must be scheduled AFTER that LinkedIn post goes live.
 
 **Mon May 25**
 - **AM — news reaction `[VISUAL: Fierce Healthcare headline screenshot]`:** Three hospital systems sued CVS Health last week. The allegation: $250 million in 340B savings diverted through vertical integration. It only works because one company owns the PBM, the specialty pharmacy, and the third-party administrator. Same parent. Every direction the dollars flow.
@@ -1057,9 +1059,9 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - **PM — punchy:** The most expensive line on your PBM's quarterly report is the one that isn't on it.
 
 **Tue May 26**
-- **AM — named-adversary `[VISUAL: rebate-flow ledger from Thursday's Rebate Aggregator post]`:** Your PBM doesn't collect your rebates anymore. A company you've never heard of does. CVS uses Zinc. Express Scripts uses Ascent, registered in Switzerland. OptumRx uses Emisar, registered in Ireland. Same corporate parent as the PBM. The rebate stops there first.
+- **AM — best-kept-secret:** DIR fees are pharmacy's best-kept secret. A PBM claws money back from the pharmacy weeks after the prescription is filled. Retroactively. The plan never sees it. The pharmacy absorbs it. The PBM keeps it. Ask your PBM what it collected in DIR fees last year, and whether any of it flowed back to your plan. _(Rebate-aggregator material moved off Tuesday — it's Thursday's LinkedIn post; per the LinkedIn-first rule it can't run on X until Thursday after 8:30 AM.)_
 - **Midday — news reaction (PA):** Pennsylvania just studied its PBM market and found spread pricing is shrinking under state pressure. Win? Half a win. The extraction didn't stop. It moved into vertical integration, where the state isn't looking yet.
-- **PM — Library 02 driver `[VISUAL: Library 02 carousel slide]`:** Five clauses the best brokers check before any PBM renewal. The audit-rights clause is the one that decides whether you can follow the dollar across the PBM's affiliated pharmacies. Most contracts stop at the PBM's own books.
+- **PM — Library 02 driver `[VISUAL: Library 02 carousel slide]` (schedule AFTER the 8:30 AM LinkedIn publish):** Five clauses the best brokers check before any PBM renewal. The audit-rights clause is the one that decides whether you can follow the dollar across the PBM's affiliated pharmacies. Most contracts stop at the PBM's own books.
 
 **Wed May 27**
 - **AM — named-adversary (TN news) `[VISUAL: TN lawsuit coverage screenshot]`:** CVS just sued the state of Tennessee. The reason: Tennessee passed a law saying a PBM can't also own the pharmacies it pays. CVS calls that unconstitutional. Plan sponsors should call it confirmation that the ownership matters enough to litigate over.
@@ -1067,8 +1069,8 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - **PM — stat-shock (cited):** CVS Caremark managed one-third of all U.S. prescription claims in 2023. The top three PBMs: 80% of the market. That's not a competitive market. It's three referees who also own teams.
 
 **Thu May 28**
-- **AM — dollar comparison `[VISUAL: channel-pricing claims report]`:** Same generic drug. The retail pharmacy fills it for one price. The PBM's own mail-order pharmacy fills it for another. The PBM sets both prices. Guess which one it steers your members toward.
-- **Midday — Thursday-visual driver `[VISUAL: Rebate Aggregator ledger from today's LinkedIn post]`:** The rebate your PBM "passes through" stops at a middleman first. CVS → Zinc. Express Scripts → Ascent. OptumRx → Emisar. The GPO takes its cut, then the PBM passes through what's left. The contract calls it 100% pass-through. The noun is doing the lying.
+- **AM — dollar comparison `[VISUAL: optional — toolkit X-crop or text-only]`:** Same generic drug. The retail pharmacy fills it for one price. The PBM's own mail-order pharmacy fills it for another. The PBM sets both prices. Guess which one it steers your members toward. _(Channel-pricing claims-report visual is reserved for a future LinkedIn slot — backlog #36 — so don't attach it here; run text-only or a toolkit X-crop.)_
+- **Midday — Thursday-visual amplifier `[VISUAL: Rebate Aggregator ledger from today's LinkedIn post]` (MUST schedule AFTER the 8:30 AM LinkedIn Thursday post publishes — this amplifies same-day, it does not pre-empt):** The rebate your PBM "passes through" stops at a middleman first. CVS to Zinc. Express Scripts to Ascent. OptumRx to Emisar. The GPO takes its cut, then the PBM passes through what's left. The contract calls it 100% pass-through. The noun is doing the lying.
 - **PM — news reaction (Warren-Hawley):** Warren and Hawley agree on almost nothing. They co-sponsored a bill to force PBMs to sell off their pharmacies. When the populist left and right agree on your industry, the structure is the problem.
 
 **Fri May 29**
