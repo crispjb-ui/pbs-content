@@ -108,6 +108,12 @@ Schedule the 3 daily posts a week at a time (X native scheduler or Typefully). K
 
 Mirror the LinkedIn reply-patrol discipline. On X this matters more because amplification (reposts/quote-tweets) is the whole point. Reply with a specific clinical or contract insight — same quality bar as LinkedIn comments (2-4 sentences, proprietary anchor on at least half, no "great thread," no AI-tell phrases).
 
+**Reply vs. quote-post — pick the method on every engagement (added May 24, 2026, required behavior):** Default to a **straight reply**; quote-post is the deliberate exception. When drafting any engagement, tag the recommended method.
+- **Straight reply** when the account you're answering is the one whose attention you want (Cuban, Ciaccia, Fein, a journalist), or the thread is small or fresh enough for a reply to surface. Replies put Ginny in the amplifier's notifications, which is where the documented amplification events come from. Confirmed on launch day (May 24, 2026): a straight reply on a Cuban post got reposted plus liked within 25 seconds.
+- **Quote-post (repost + comment)** when the take stands on its own AND you want Ginny's own followers to see it, or the original thread is too crowded for a reply to surface. Quote-posts land on Ginny's profile and travel to her followers; replies mostly stay inside the thread. When quoting someone you agree with, build, do not dunk ("X nailed this, here's the part that hits plan sponsors") so it stays ally-positive.
+- **Never bare-repost (no comment).** No added voice means no PBS positioning.
+- **One-line rule:** reply when you want the big account to notice you; quote-post when you want your own audience to hear the take.
+
 **Tier A — amplifiers (patrol daily):**
 - Mark Cuban (@mcuban) — confirmed PBS amplifier; most active on X
 - Antonio Ciaccia / 46brooklyn — drug-pricing transparency research
@@ -162,6 +168,9 @@ Add an X row to the channel-by-channel headers in `linkedin_performance_tracker.
 - X follower count (week-over-week)
 - Top post by impressions (logged when material)
 - **Amplification events:** any Cuban / Ciaccia / Fein / journalist repost or quote-tweet — log these specifically, since they're the documented reach multiplier. Note like-only vs. repost/quote (per the May 8 Cuban likes-only rule: likes alone don't move reach; reposts/quotes do).
+
+**Amplification event log:**
+- **May 24, 2026 (launch day) — Mark Cuban REPOSTED + liked Ginny's straight reply** on his "Break Up Big Medicine Bill" post (the "closed loop with a contract stapled to it" reply, vertical-integration / three-PBMs-owned-by-three-insurers anchor). Repost, not likes-only, so it counts as a real reach lift. First X Cuban repost and a Day-1 hit on the 30-day success criterion. Full draft + thread context logged in `newsletters/week_21_quarterly_reporting.md` PART 4B same-hour reaction log.
 
 ---
 

@@ -1090,6 +1090,23 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 > **Note on Memorial Day (Mon May 25):** holiday — engagement is soft. Keep Monday's posts scheduled (X news-reaction content runs fine on holidays, people check phones for news), but the amplifier patrol can be lighter. The CVS/PA/TN news is the launch fuel regardless of the holiday.
 
+## Same-hour reaction log — Sun May 24, 2026 (launch day, Cuban vertical-integration thread)
+
+Cuban ran a multi-post thread the day the account went live: the "Break Up Big Medicine Bill" (Hawley/Warren), a "self-insured employers can already choose / will they self-correct without enforcement" post, and a quote of Mansi's CVS Health Aetna + Caremark + Pharmacy breakdown. Three Ginny engagements, method tagged per the reply-vs-quote rule in `x_account_strategy.md`:
+
+1. **Cuban's "Break Up Big Medicine Bill" post → STRAIGHT REPLY (POSTED).**
+   > Exactly. The three biggest PBMs are owned by the three biggest insurers. We review hundreds of their contracts a year and the self-dealing is right there in the language: your plan pays the PBM, the PBM sends the script to its own specialty pharmacy, and the markup never leaves the building. That's not a market. It's a closed loop with a contract stapled to it.
+
+   **→ AMPLIFICATION EVENT: Mark Cuban REPOSTED + liked it within ~25 seconds.** This is a repost (not likes-only), so it counts as a real reach lift per the May 8 Cuban likes-only rule. First X Cuban repost; Day-1 hit on the 30-day launch success criterion ("if you've had even one Cuban/Ciaccia/journalist repost, the channel is earning its keep"). Method called correctly: a straight reply on the amplifier's own tweet put Ginny in his notifications, which is where the repost came from.
+
+2. **Cuban's "self-insured employers can choose / will they be honest" post → STRAIGHT REPLY (drafted, ready).**
+   > You're right that nothing forces a self-insured employer to use the big three. Helping them leave is the whole job. And to your last question: no, they won't self-correct. "Transparent" is already a word in their contracts. I've read "pass-through" deals that still let the PBM keep spread, because the PBM wrote the definition. Choice is real. Honesty without enforcement isn't.
+
+3. **Mansi's CVS-breakdown post (Cuban-reposted, 91K views) → QUOTE-POST (drafted, ready).** Crowded thread plus a standalone take that builds Ginny's own reach; framed as building on Mansi, not dunking.
+   > Mansi's got the member side exactly right. Now add the self-funded employer paying for that same script: the plan pays Caremark a "negotiated" price that Caremark negotiated with a pharmacy its own parent owns. That $160B in inter-company transfers Cuban mentions? A lot of it is the spread, relabeled as internal accounting. You can't audit a price a company set with itself.
+
+**Anchor note:** the posted reply (#1) used the "hundreds of contracts a year" volume anchor and Cuban reposted it, so the line still lands with the amplifier crowd. The anchor-rotation guidance (vary off the volume line across a run of posts so it does not harden into a tagline) still applies; it is not a ban on the line where it fits.
+
 ---
 
 # PART 5: PUBLISHING CHECKLIST
