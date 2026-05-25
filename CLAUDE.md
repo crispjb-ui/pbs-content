@@ -101,7 +101,7 @@
 
 ### Channel 1: LinkedIn Feed
 - **Profile:** Ginny Crisp's personal LinkedIn
-- **Followers:** 1,866 (as of May 22, 2026; was 1,374 on April 3)
+- **Followers:** 1,903 (as of May 25, 2026; was 1,866 on May 22, 1,374 on April 3)
 - **Frequency:** 4x/week + company reshares
 - **Tone:** Confident clinical provocation. Short. Declarative. One stat as hook.
 
@@ -116,11 +116,33 @@
 
 **Posting-time test (concluded May 8, 2026 — reverted to 8:30 AM EST starting W19 Monday May 11):** Tue-Fri feed posts ran at 10:00 AM EST for four weeks (W16-W18) on research-backed "optimal time" guidance. Result across four weeks: no non-amplified post cleared 4K impressions. Highest non-Cuban 10 AM result was the W18 Channel Pricing messy infographic at 3,948 impressions; documented 8:30 AM era floors for the same format ran 5-15K non-amplified. Documented decoder floor of 20-25K (Cuban-cluster inclusive) did not return at 10 AM either — W16 PA decoder hit 7,048 only after Cuban repost. PBS's target audience (CFOs, HR Directors, brokers) appears to skew early-morning Eastern; "10 AM optimal" is generic professional-audience research that does not match PBS's plan-sponsor decision-maker segment specifically. **Reverted to 8:30 AM starting W19.** First full 8:30 AM week monitoring expectation: decoder, dollar-comparison, and messy-infographic posts should return to 5-15K non-amplified floor. If they do not, time was not the issue and other variables need examination.
 
-**Personal post cadence (added May 8, 2026):** Personal posts (family milestones, career reflections, professional travel) ship **occasionally — once every 4-6 weeks max** — on **weekend placement** (Saturday or Sunday). Personal posts are **additions**, not replacements: never drop a Tue-Fri scheduled professional post to make room for one. Treat conversion as **zero by design** — the deliverables are algorithmic warmth (LinkedIn rewards varied content + high engagement-rate posts), brand humanization (reinforces "clinical pharmacist with opinions" positioning that AI-slop competitors cannot fake), and network maintenance (Ginny's broader professional network resurfacing as referral pathways). W18 daughter Summit Championship cheer post returned 47 reactions / 1,650 impressions / 3.15% engagement rate — 3-6× LinkedIn average, 0 followers gained, 0 Substack subs, demographics drift to Insurance 31% / Greater Indianapolis 7% (Ginny's local peer network, not plan-sponsor decision-makers). Topic guardrails: family milestones, career reflections, conference travel. Avoid politics, polarizing causes, or anything that pulls Ginny's expert positioning sideways.
+**Personal post cadence and craft (added May 8, 2026; substantially refined May 25, 2026 after the anniversary-post data):** Personal posts ship **occasionally — once every 4-6 weeks max** — on **weekend placement** unless the date is occasion-specific (an anniversary posts on the anniversary, regardless of day). They are **additions**, not replacements: never drop a Tue-Fri scheduled professional post to make room for one. Topic guardrails: family milestones, career reflections, professional/conference travel, profession-identity occasions, gratitude. Avoid politics, polarizing causes, or anything that pulls Ginny's expert positioning sideways.
+
+**Two tiers of personal post, with very different outcomes (the May 25, 2026 finding):**
+
+- **Casual snapshot (low craft):** a quick photo + caption. W18 daughter Summit Championship cheer post returned 47 reactions / 1,650 impressions / 0 followers / 0 subs, and **drifted** to Insurance 31% / Greater Indianapolis 7% (local peer network, not buyers). Conversion genuinely ~zero; value is pure warmth. Use sparingly.
+
+- **High-craft milestone (written as a piece):** the W21 17th-anniversary post (May 24). Returned **18,917 impressions / 11,475 reached / 201 profile viewers / 111 reactions / 16 comments**, held the **core plan-sponsor audience with no drift** (10,001+ employees 29%, Senior 27%, Hospitals & Health Care 15%), and drove a follower spike the post-level "+4 followers" metric under-counts (LinkedIn only attributes follows clicked on the post itself, not the far larger profile-visit-driven follows; total followers 1,866 → 1,903 over the window, funnel carrying through to newsletter 913 → 930). **High-craft milestone posts are a profile-visit and follower engine, NOT zero-conversion.** The "conversion is zero by design" framing applies to casual snapshots, not to crafted milestone posts.
+
+**What made the anniversary post work (replicable craft checklist):**
+1. **Specific anchors throughout** — exact years (20 together, 17 married), named places, named people, counted houses ("four houses, two we built"). Specificity reads as real and unfakeable (same principle as the Humanize Check).
+2. **Naming locations reactivated geographic networks.** Chapel Hill pulled the pharmacy-school network, Columbus the residency network, Charleston the local community, producing geographically-clustered follows. These are warm extended-network follows (referral pathways), not net-new national buyers — exactly the network-maintenance deliverable personal posts are for. **Location call-outs are a personal-post lever only; never transplant to professional posts, where geographic clustering pulls against national plan-sponsor reach.**
+3. **Then-and-now photo** (combined collage, not a stack of separate images) drove dwell.
+4. **Universal-resonance narrative** (marriage, moves, building a life) carried broad reach while the craft held the professional audience.
+
+**Milestone menu (occasions worth documenting, all guardrail-safe):**
+- **Annual anniversaries:** wedding anniversary (reusable yearly, fresh angle each time), PBS founding anniversary, pharmacy-school-grad or licensure anniversary ("X years since I became a pharmacist").
+- **Career-origin reflections:** residency completion, a formative early career moment (anonymized), "what I wish I knew when I started," a mentor-gratitude post (high warmth, strong network reactivation).
+- **Audience/company milestones:** newsletter subscriber milestones ("1,000 subscribers to The Pharmacy Benefits Briefing"), follower milestones, "Nth PBM contract reviewed" — these thank the audience (warmth) AND signal momentum (credibility) AND reactivate the existing audience.
+- **Profession-identity occasions:** National Pharmacy Week / Pharmacist Appreciation, a speaking engagement or podcast appearance, conference travel.
+- **Seasonal/calendar:** New Year reflection (Jan, PBS's peak-engagement window), Thanksgiving gratitude, working-parent/back-to-school reflection.
+- **Use sparingly, high craft only:** kids' milestones (graduation, college). The W18 cheer post shows casual kid-snapshots drift to local network; post these only as written pieces, never quick snapshots.
+
+**Bottom line:** conversion is no longer "zero by design" across the board — high-craft milestone posts measurably drive profile visits, follows, and network reactivation while holding the core audience. The lever is craft + specific anchors + a photo + universal resonance, posted within the 4-6-week cadence and the guardrails. Full data in `linkedin_performance_tracker.md` Personal Post Performance section.
 
 ### Channel 2: LinkedIn Newsletter
 - **Name:** "The Pharmacy Benefits Briefing"
-- **Subscribers:** 913 (as of May 22, 2026; was 605 on April 3)
+- **Subscribers:** 930 (as of May 25, 2026; was 913 on May 22, 605 on April 3)
 - **Frequency:** Weekly, Mondays at 7:45 AM EST
 - **Length:** 350-500 words (~2-minute read)
 - **Tone:** Executive briefing. Story-driven opening. First sentence is substance.
@@ -131,7 +153,7 @@
 - **Tagline:** "What your pharmacy benefits aren't showing you"
 - **URL:** benefitblindspots.substack.com
 - **Handle:** @ginnycrisp
-- **Subscribers:** 78 (as of May 22, 2026; 1 paid + 77 free. Was 15 on April 3)
+- **Subscribers:** ~80 (as of May 25, 2026; 1 paid. Was 78 on May 22, 15 on April 3) — +2 free confirmed from the May 25 Dr. Archelle Georgiou LinkedIn→Substack exchange; confirm exact count, likely higher with launch-week activity
 - **Frequency:** Weekly, Mondays at 7:30 AM EST (15 min before LinkedIn Newsletter)
 - **Length:** 1,400-1,600 words (~6-minute read)
 - **Tone:** Analytical authority with personal voice. Uses "I" and "we" framing.
@@ -321,7 +343,7 @@ Applies to all newsletter week files from W20 forward. Backfill prior weeks (W16
 
 ### Primary conversion metric: followers per 10K impressions
 
-LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of May 22, 2026: **1,866 LinkedIn followers (+140 since May 8), 913 newsletter subscribers (+77 since May 8), 78 Substack subscribers (+13 since May 8) — of which 1 paid + 77 free; first paid sub attributed to W19 Fiduciary deep dive May 11, $80 revenue**. Cuban amplification confirmed for two consecutive weeks (Apr 19 cluster, Apr 30 W17 carve-out POV); Cuban likes-only on W18 Thursday Channel Pricing and W19 Wednesday PCMA produced zero reach lift, validating the May 8 likes-only rule (second and third confirming data points). **W20 Manufacturer Programs Monday deep dive (May 18) cleared 145 Substack views, the new single-post view record, surpassing W18 Pipeline's 119/127 mature.** 4 new subs from W20 Mon deep dive (3 traceable to LinkedIn first-comment cross-promo, 1 direct). Substack lead-magnet ladder is now load-bearing: gated-PDF behind free-sub + LinkedIn first-comment cross-promo = 4-5 subs per Monday deep dive across W18, W19, W20 — even before the Wix landing page goes live. Inbound-email behavior (mailto:team@rxbs.org clicks) reproduced across W19 Fiduciary (5 clicks) and W20 Reading the Rebate Report (5 clicks), establishing it as a third documented Substack-conversion mechanism alongside gated-PDF and first-comment cross-promo.
+LinkedIn auto-prompts newsletter subscription immediately after a follow, so follower gain is a near-direct proxy for newsletter subscribers. Optimize posts for this conversion rate, not raw impression ceiling. Totals as of May 25, 2026: **1,903 LinkedIn followers (was 1,866 May 22), 930 newsletter subscribers (was 913 May 22), ~80 Substack subscribers (1 paid; was 78 May 22)**. The W21 17th-anniversary personal post (May 24) is the documented engine behind the May 22→25 jump: 18,917 impressions / 201 profile viewers / no audience drift (held 10,001+ / Senior / Hospitals & Health Care) drove follows that LinkedIn under-attributes to the post, and the follow → newsletter auto-prompt funnel carried into the newsletter +17. See the refined personal-post rule (Channel 1) and `linkedin_performance_tracker.md` Personal Post Performance section. First paid Substack sub attributed to W19 Fiduciary deep dive May 11, $80 revenue. Cuban amplification confirmed for two consecutive weeks (Apr 19 cluster, Apr 30 W17 carve-out POV); Cuban likes-only on W18 Thursday Channel Pricing and W19 Wednesday PCMA produced zero reach lift, validating the May 8 likes-only rule (second and third confirming data points). **W20 Manufacturer Programs Monday deep dive (May 18) cleared 145 Substack views, the new single-post view record, surpassing W18 Pipeline's 119/127 mature.** 4 new subs from W20 Mon deep dive (3 traceable to LinkedIn first-comment cross-promo, 1 direct). Substack lead-magnet ladder is now load-bearing: gated-PDF behind free-sub + LinkedIn first-comment cross-promo = 4-5 subs per Monday deep dive across W18, W19, W20 — even before the Wix landing page goes live. Inbound-email behavior (mailto:team@rxbs.org clicks) reproduced across W19 Fiduciary (5 clicks) and W20 Reading the Rebate Report (5 clicks), establishing it as a third documented Substack-conversion mechanism alongside gated-PDF and first-comment cross-promo.
 
 ### All-time top posts by impressions (top 10)
 

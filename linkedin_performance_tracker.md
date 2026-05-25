@@ -1356,6 +1356,24 @@ X launched W21 (May 25) as an amplification channel — 3 posts/day, news-skewed
 
 ---
 
+# PERSONAL POST PERFORMANCE (Added May 25, 2026)
+
+Personal posts are an occasional (every 4-6 weeks), weekend, additions-not-replacements format. Two tiers emerged with very different outcomes:
+
+| Post | Date | Impr | Profile views | Reactions | Comments | Followers (attributed) | Audience | Read |
+|------|------|------|---------------|-----------|----------|------------------------|----------|------|
+| W18 daughter Summit Championship cheer (casual snapshot) | ~May 8 | 1,650 | low | 47 | — | 0 | **drifted** to Insurance 31% / Greater Indianapolis 7% (local peers) | Warmth only; ~zero conversion |
+| W21 17th-anniversary (high-craft written piece) | May 24 | **18,917** | **201** | 111 | 16 | 4 attributed (under-counts) | **held core** 10,001+ 29% / Senior 27% / H&HC 15% | Profile-visit + follower engine; no drift |
+
+**Key reads:**
+1. **Profile visits are the real metric, and LinkedIn under-attributes the follows.** 201 profile viewers is 10-100x a normal post. LinkedIn's "+4 followers from this post" only counts post-click follows; profile-visit-driven follows show up in overall growth (1,866 → 1,903 over the window) not post attribution. Funnel carried through to newsletter (913 → 930).
+2. **No audience drift** — unlike the W18 cheer post. Craft + universal resonance held the plan-sponsor audience (10,001+ / Senior / Hospitals & Health Care).
+3. **Naming locations reactivated geographic networks** (Chapel Hill pharmacy-school / Columbus residency / Charleston local). Warm referral-pathway follows, not net-new national buyers. Personal-post lever only; never on professional posts.
+
+**Implication:** the "personal posts = zero conversion by design" framing is refined — high-craft milestone posts convert via profile visits + network reactivation while holding the core audience. The lever is craft + specific anchors (places/dates/names/numbers) + a then-and-now photo + universal resonance. See the CLAUDE.md Channel 1 personal-post rule for the milestone menu and craft checklist.
+
+---
+
 # SUBSTACK NOTES PERFORMANCE (Added April 17, 2026)
 
 ## Why track this
