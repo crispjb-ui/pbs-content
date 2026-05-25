@@ -119,6 +119,8 @@ The plan sponsors who run this exercise consistently know more about their pharm
 
 If you have run a quarterly report audit recently and found something the report had buried, leave a comment below. The patterns we see in client reports are remarkably consistent; the gaps are the same gaps. Naming them helps every plan sponsor reading.
 
+*With thanks to Dr. Archelle Georgiou, who sharpened item 5: tracking PA overturns on appeal, not just approvals and denials, surfaces the PBM's own error rate. A high share of denials reversed on appeal means the PBM denied things it should not have.*
+
 ---
 
 *For the full protective contract language on quarterly reporting and audit rights, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
