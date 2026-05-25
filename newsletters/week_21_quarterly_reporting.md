@@ -45,7 +45,7 @@
 
 A self-funded CFO emailed me a quarterly PBM report last fall. 14 pages. Color charts. A "Plan Performance: On Track" footer. He asked if the trend lines were as good as they looked. I asked him to send the underlying claim file. Two weeks later we walked through what the report had not surfaced.
 
-Net cost per script by channel for the top 10 drugs. Not in the report. Rebate gross-to-net by therapeutic class. Not in the report. Affiliated-pharmacy share of the plan's specialty claims. Not in the report. Quarter-over-quarter formulary tier movement on covered drugs. Not in the report. Prior authorization approval and denial rates by class. Not in the report.
+Net cost per script by channel for the top 10 drugs. Not in the report. Rebate gross-to-net by therapeutic class. Not in the report. Affiliated-pharmacy share of the plan's specialty claims. Not in the report. Quarter-over-quarter formulary tier movement on covered drugs. Not in the report. Prior authorization approval, denial, and overturn rates by class. Not in the report.
 
 The report was not wrong. It was incomplete by design. It was built to satisfy the reporting obligation in the contract, which the PBM had written. The reporting obligation was three lines long. Whatever the PBM volunteered above those three lines was a choice, and the choice was about what to leave out.
 
@@ -73,7 +73,7 @@ Fifteen lines. If you are getting fewer, you are getting less than the analysis 
 
 > **4. Formulary tier changes affecting covered drugs.** Drug-by-drug list of formulary tier movement during the quarter, with the rationale. Movements that increased plan spend separately flagged.
 
-> **5. PA approval and denial rates by therapeutic class.** Volume submitted, approved, denied, appealed. The class breakdown is what surfaces utilization-management drift.
+> **5. PA approval, denial, and overturn rates by therapeutic class.** Volume submitted, approved, denied, appealed, and overturned on appeal. The overturn rate is the PBM's own error rate: a high share of denials reversed on appeal means the PBM denied things it should not have. The class breakdown is what surfaces utilization-management drift.
 
 > **6. Claim-level audit trail for high-cost outliers.** Every claim above a plan-set dollar threshold (typically $2,500 or $5,000), with prescriber, pharmacy, drug, billed amount, and reimbursement source.
 
@@ -101,7 +101,7 @@ That is the 15-line checklist. The printable plan-sponsor handout for this week'
 
 The most common pattern I see in contract reviews is a quarterly reporting clause that runs three to five lines. Something like: *"PBM shall provide standard quarterly utilization and financial reports in the form customarily provided to plan sponsors of similar size."* Customarily provided. Standard. Of similar size. Three different ways the contract gives the PBM full discretion over what is reported.
 
-A more protective clause names every line item the report will contain. Not "utilization and financial reports." Specifically: net cost per script by channel for the top 10 drugs by spend. Specifically: rebate gross-to-net by therapeutic class. Specifically: PA approval and denial rates by class. Specifically: affiliated-pharmacy share of plan claims by category. Specifically: claim-level audit trail above a defined dollar threshold.
+A more protective clause names every line item the report will contain. Not "utilization and financial reports." Specifically: net cost per script by channel for the top 10 drugs by spend. Specifically: rebate gross-to-net by therapeutic class. Specifically: PA approval, denial, and overturn rates by class. Specifically: affiliated-pharmacy share of plan claims by category. Specifically: claim-level audit trail above a defined dollar threshold.
 
 Specificity in the contract is what gets the data into the report.
 
@@ -411,7 +411,7 @@ The hospitals that sued CVS this week could ask those questions because their co
 
 A self-funded CFO emailed me a quarterly PBM report last fall. 14 pages. Color charts. A "Plan Performance: On Track" footer. He asked if the trend lines were as good as they looked.
 
-I asked for the underlying claim file. Two weeks later we walked through what the report had not surfaced. Net cost per script by channel for the top 10 drugs. Not in the report. Rebate gross-to-net by therapeutic class. Not in the report. Affiliated-pharmacy share of the plan's specialty claims. Not in the report. Quarter-over-quarter formulary tier movement on covered drugs. Not in the report. PA approval and denial rates by class. Not in the report.
+I asked for the underlying claim file. Two weeks later we walked through what the report had not surfaced. Net cost per script by channel for the top 10 drugs. Not in the report. Rebate gross-to-net by therapeutic class. Not in the report. Affiliated-pharmacy share of the plan's specialty claims. Not in the report. Quarter-over-quarter formulary tier movement on covered drugs. Not in the report. PA approval, denial, and overturn rates by class. Not in the report.
 
 The report was not wrong. It was incomplete by design. It was built to satisfy a reporting clause in the contract that ran three lines long and gave the PBM full discretion over what to volunteer. Whatever showed up above those three lines was a choice, and the choice was about what to leave out.
 
@@ -419,7 +419,7 @@ This is the pattern. Most quarterly PBM reports are designed for compliance, not
 
 A typical quarterly report I review has five recurring sections. Total spend year-to-date. Generic dispensing rate. Mail-order penetration. Specialty drug count. Member out-of-pocket aggregate. Every one is a metric the PBM controls and benefits from showing. None of them is the number that moves the renewal price.
 
-A complete quarterly report should run 15 lines: net cost per script by channel for the top 10 drugs, rebate gross-to-net by therapeutic class, affiliated-pharmacy share by drug category, formulary tier changes affecting covered drugs, PA approval and denial rates by class, claim-level audit trail for high-cost outliers, PBM compensation by category, member access metrics, year-over-year and quarter-over-quarter comparisons, specialty drug routing, manufacturer payment categories, generic and biosimilar substitution detail, top 25 drugs with utilization detail, network changes, and a signed PBM attestation that the data is complete and accurate.
+A complete quarterly report should run 15 lines: net cost per script by channel for the top 10 drugs, rebate gross-to-net by therapeutic class, affiliated-pharmacy share by drug category, formulary tier changes affecting covered drugs, PA approval, denial, and overturn rates by class, claim-level audit trail for high-cost outliers, PBM compensation by category, member access metrics, year-over-year and quarter-over-quarter comparisons, specialty drug routing, manufacturer payment categories, generic and biosimilar substitution detail, top 25 drugs with utilization detail, network changes, and a signed PBM attestation that the data is complete and accurate.
 
 The brokers we work with are running this audit on client quarterly reports as a standing pre-renewal exercise. The plan sponsors who do this consistently know more about their pharmacy spend than the PBMs reporting to them. The ones who do not are reading reports the PBM designed for them to read.
 
@@ -474,7 +474,7 @@ If a quarterly PBM report landed on my desk, here are the questions I would ask 
 5. Where is the net cost per script by channel for the top 10 drugs by spend? If it is not in the report, the data exists at the PBM and the contract did not require disclosure.
 6. Where is the rebate gross-to-net by therapeutic class? Aggregate rebate dollars hide which classes are subsidizing which.
 7. Where is the affiliated-pharmacy share of plan claims by drug category, with specialty separately?
-8. Where is the PA approval-and-denial breakdown by therapeutic class? Aggregate rates mask utilization-management drift.
+8. Where is the PA approval, denial, appeal, and overturn breakdown by therapeutic class? Aggregate rates mask utilization-management drift, and the overturn-on-appeal rate is the PBM's own error rate.
 
 **About the source of the numbers:**
 9. Is there a signed attestation that the data in this report is complete and accurate, with a named PBM contact for follow-up? If not, what is the PBM committing to in writing?
