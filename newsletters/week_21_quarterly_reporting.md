@@ -516,41 +516,51 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 
 ---
 
-## Monthly Q&A Thread #2: PBM Contract Questions
+## Subscriber Chat Launch + First Q&A Thread (combined)
 
-**Publish:** Thursday, May 28, 2026 (last Thursday of May)
-**Format:** Substack Discussion Thread (not an article)
-**Access:** Subscriber-only (free subscribers can access)
+**Publish:** Thursday, May 28, 2026, early afternoon ET (spaced from the 7:30 AM Field Note email so the two Thursday emails aren't back-to-back)
+**Format:** Substack **Chat thread** (the "Start a new thread" composer), NOT a post/article
+**Why combined:** this one thread does double duty — it announces the new subscriber chat AND opens the first monthly Q&A, in a single emailed moment. Decided May 2026 to merge rather than send a separate announcement email (a standalone announcement would have stacked a 4th email across the Wed roundup + Thu Field Note + Thu Q&A, which fatigues an ~80-person list).
 
-> Create this as a Discussion Thread on Substack, not a regular post.
+### How to set it up in Substack (exact steps)
 
-### Ready-to-Publish Content
+1. Substack dashboard → **Chat** → **Start a new thread** (the composer with the "Everyone ▼" audience dropdown).
+2. **Audience:** set who can access. **Decision needed (see note below).** Recommend **all subscribers (free + paid)** for this launch thread to build momentum; the monthly Q&A moves to **paid-only starting June** per the paid-tier plan.
+3. **Paste the Thread Copy below** into the "Write something…" field.
+4. **Optional inline image:** click the image icon (bottom-left of the composer, left of the video icon) to drop the "MONTHLY Q&A" Reference Channel graphic at the top. Chat threads have no header-image slot, so the image sits inline. Optional.
+5. **Check "Send as email."** This emails the thread **opener only** (one email) to drive subscribers to the thread.
+6. **Send** in the early afternoon.
 
-**Thread Title:** Ask Me Anything: PBM Contract Questions
+**Email-notification model (confirmed behavior):** checking "Send as email" emails ONLY the opener. Every reply/comment after that does NOT email the list — replies trigger in-app/push notifications to people in the thread or with chat notifications on. So the announcement is the one and only broadcast email; the conversation then lives in the thread without inbox spam. Going forward: email each monthly Q&A opener (the marquee threads); leave ad-hoc in-between threads app-only to avoid fatigue.
 
-**Thread Body:**
+**Audience decision:** the original plan had the Q&A free-subscriber-accessible; the paid-tier launch moved the monthly Q&A to **paid-only starting June**. For this late-May launch thread, opening to all subscribers builds momentum and goodwill before the paid gate goes up. Confirm the setting before sending.
 
-Renewal season is approaching for many plans. This month's Q&A is focused on PBM contracts.
+### Thread Copy (announcement + first AMA, in Ginny's voice)
 
-Questions I can help with:
-- Contract language you do not understand
-- Terms you are not sure are competitive
-- Provisions you think are missing
-- Negotiation strategies for specific situations
-- How to evaluate what your PBM is telling you
+I'm opening a subscriber chat, and this is the first thread.
 
-If you have your contract in front of you and something does not look right, describe the provision. I will tell you what it means and whether it serves your interest or your PBM's.
+Let me be clear about what it's for. It's not a hangout. It's a direct line.
 
-### Preview Image Prompt
+Most plan sponsors, brokers, and benefits leaders have questions they can't get a straight answer to: what a clause actually means, whether a number in their quarterly report is normal, what's worth fighting for at renewal. This is where you ask, and I answer. Subscriber-only, so the conversation stays candid.
 
-**Dimensions:** 2240 x 1260 px
-**Template:** Reference Channel — "Monthly Q&A" (Gray background)
+Once a month I'll open a thread like this one for PBM and contract questions. In between, I'll drop what's crossing my desk and you can jump in.
 
-Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`. Only the Plex Mono month label changes per thread.
+To follow along: I'll email the monthly threads like this one. For the conversation in between, get the Substack app and turn on notifications (tap the Chat icon, the two speech bubbles in the bottom bar, and you'll see Benefit Blind Spots). You can also use chat on the web.
 
-**Per-instance overrides:**
-- Badge (top-right): "MONTHLY Q&A"
-- Plex Mono subtitle (22pt, white, tabular figures): `May 2026 thread`
+So, the first one. Ask Me Anything: PBM Contracts.
+
+Renewal season is coming for a lot of plans. Bring me:
+- Contract language you don't understand
+- A number in your quarterly report that doesn't look right
+- A clause you're not sure is worth fighting for
+- Anything a PBM has told you that didn't sit right
+
+Drop it below. I'll answer every one.
+
+### Optional inline image (Reference Channel "Monthly Q&A")
+
+**Dimensions:** 2240 x 1260 px · **Template:** Reference Channel — "Monthly Q&A" (Gray background). Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decision.md`; only the Plex Mono month label changes.
+**Per-instance overrides:** Badge (top-right) "MONTHLY Q&A"; Plex Mono subtitle (22pt, white, tabular figures) `May 2026 thread`. Drop it in via the composer's inline image icon (threads have no cover-image slot).
 
 # PART 3: LINKEDIN FEED POSTS
 
