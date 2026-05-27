@@ -525,7 +525,7 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 ### How to set it up in Substack (exact steps)
 
 1. Substack dashboard → **Chat** → **Start a new thread** (the composer with the "Everyone ▼" audience dropdown).
-2. **Audience:** set who can access. **Decision needed (see note below).** Recommend **all subscribers (free + paid)** for this launch thread to build momentum; the monthly Q&A moves to **paid-only starting June** per the paid-tier plan.
+2. **Audience: all subscribers (free + paid). Confirmed May 2026.** Set the thread to everyone (rationale below).
 3. **Paste the Thread Copy below** into the "Write something…" field.
 4. **Optional inline image:** click the image icon (bottom-left of the composer, left of the video icon) to drop the "MONTHLY Q&A" Reference Channel graphic at the top. Chat threads have no header-image slot, so the image sits inline. Optional.
 5. **Check "Send as email."** This emails the thread **opener only** (one email) to drive subscribers to the thread.
@@ -533,7 +533,7 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 
 **Email-notification model (confirmed behavior):** checking "Send as email" emails ONLY the opener. Every reply/comment after that does NOT email the list — replies trigger in-app/push notifications to people in the thread or with chat notifications on. So the announcement is the one and only broadcast email; the conversation then lives in the thread without inbox spam. Going forward: email each monthly Q&A opener (the marquee threads); leave ad-hoc in-between threads app-only to avoid fatigue.
 
-**Audience decision:** the original plan had the Q&A free-subscriber-accessible; the paid-tier launch moved the monthly Q&A to **paid-only starting June**. For this late-May launch thread, opening to all subscribers builds momentum and goodwill before the paid gate goes up. Confirm the setting before sending.
+**Audience (confirmed May 2026): all subscribers, free and paid.** A Q&A needs an actual audience for questions to flow; with ~80 subscribers and 1 paid, gating to paid now would gate the thread to one person, which defeats the purpose. The paid subscriber (Nick Miller) is there for the help, not the exclusivity, so an open thread serves him better too. **Gate to paid-only later, when the paid base is large enough that a gated thread still has real participation. Not a hard June date; gate when the numbers support it.**
 
 ### Thread Copy (announcement + first AMA, in Ginny's voice)
 
