@@ -286,6 +286,32 @@ This week's Benefit Blind Spots includes a **specialty drug management assessmen
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Specialty drug management: the category that defines your plan's cost trajectory** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Specialty is two percent of your scripts and roughly half of your spend. Most plans manage it like the other 98.** (confrontational opener with stat)
+3. **Eight factors that decide whether your specialty spend stays a category or becomes a crisis** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Specialty drugs are two percent of prescriptions and roughly half of pharmacy spend. The category trends double-digits annually. Most plan sponsors are managing it the way they manage everything else.
+
+This briefing walks through what specialty management actually requires, the eight factors that determine whether your plan controls the spend or the spend controls your plan, and the assessment to run before renewal.
+
+Specialty drug management assessment on Substack.
+
+#SpecialtyPharmacy #SelfFundedEmployers #PharmacyBenefits
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## Monthly Q&A Thread #5: Pre-Renewal Strategy

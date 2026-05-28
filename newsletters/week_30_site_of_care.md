@@ -299,6 +299,32 @@ This week's Benefit Blind Spots includes a **site-of-care decision tree**: thera
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Site-of-care optimization: the cost lever most plans ignore** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Same infusion. Hospital. Office. Home. Four different prices.** (confrontational opener)
+3. **The site-of-care decision tree most plans need but never build** (action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+The same infusion costs your plan two to five times more in a hospital outpatient setting than in a physician office or at home. Most plans pay the hospital rate because they have no site-of-care policy on the books.
+
+This briefing walks through the cost gap by setting, four therapeutic categories where site-of-care moves the most dollars, and the decision tree to build.
+
+Site-of-care decision tree on Substack.
+
+#SiteOfCare #SelfFundedEmployers #PharmacyBenefits
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## Monthly Q&A Thread #4: Mid-Summer Plan Check-In

@@ -391,6 +391,32 @@ This week's Benefit Blind Spots includes the **full PBM evaluation scorecard** w
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **The vertical integration question: stay or switch in 2026** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Three PBM news stories in 48 hours changed how plan sponsors should evaluate their PBM** (named-event opener)
+3. **PBM stay or switch: the 2026 question your evaluation has to answer** (action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Three PBM news stories in 48 hours this May changed the stay-or-switch decision. The CVS 340B lawsuits, the Pennsylvania Act 77 study, and CVS suing Tennessee to block its divestiture law all pointed at the same thing: vertical integration.
+
+This briefing walks through how to score your PBM in 2026, the five factors that just got harder to grade, and the three filters to apply over the score.
+
+PBM evaluation scorecard with the 2026 vertical-integration layer on Substack.
+
+#PBMContracts #PBMRenewal #SelfFundedEmployers
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #6: Scoring PBM Finalists

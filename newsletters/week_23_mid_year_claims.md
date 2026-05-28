@@ -331,6 +331,32 @@ This week's Benefit Blind Spots includes a **mid-year claims red flag checklist*
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+---
+
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Five claims data patterns that signal trouble before renewal** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Your PBM's mid-year report has five red flags. Most plans miss all five.** (confrontational opener, named-actor framing)
+3. **The five mid-year claims patterns that change your renewal leverage** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Mid-year is when your claims data tells you whether the renewal will go in your favor or your PBM's. Most plans miss the signals.
+
+This briefing walks through five claims patterns that surface before the renewal window opens, what each one means, and what to do about it now while there's still time.
+
+Mid-year claims red flag checklist on Substack.
+
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #4: Investigating a Mid-Year Claims Anomaly

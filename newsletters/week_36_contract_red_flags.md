@@ -275,6 +275,32 @@ This week's Benefit Blind Spots includes a **contract language comparison librar
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Contract language that costs you: a provision-by-provision comparison** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Ten PBM contract provisions you signed once and live with every quarter** (confrontational opener)
+3. **Ten provisions in weak, moderate, and strong versions: the contract language library** (number-led, reference-asset)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+The PBM contract you signed three years ago is still deciding what your plan pays today, claim by claim. Most plan sponsors have not re-read it since.
+
+This briefing walks through ten contract provisions in three versions each (weak, moderate, strong), plain-language explanations of what each version actually means, and the redline language to bring to renewal.
+
+Contract language comparison library on Substack.
+
+#PBMContracts #PBMRenewal #PharmacyBenefits
+```
+
+---
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 133 - Tuesday 10:00 AM

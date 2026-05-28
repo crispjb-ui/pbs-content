@@ -303,6 +303,32 @@ This week's Benefit Blind Spots includes a **communication template library**: f
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Communicating pharmacy changes: why good strategy fails without good messaging** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **The best pharmacy strategy on paper fails the day a member is denied at the counter** (confrontational opener)
+3. **Five pharmacy-change communication templates, scripts, and FAQs** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+A pharmacy benefit change that saves the plan money and surprises a member at the counter is a failed change. Most cost-containment decisions fail at the communication layer, not the strategy layer.
+
+This briefing breaks down what to communicate when, who needs which message, and the five most-common change scenarios with ready-to-adapt templates.
+
+Communication template library on Substack.
+
+#EmployeeBenefits #SelfFundedEmployers #PharmacyBenefits
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #9: Rolling Out a Formulary Change

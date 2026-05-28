@@ -318,6 +318,32 @@ This week's Benefit Blind Spots includes a **PBM RFP question bank**: 30 questio
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **The PBM RFP: what to ask and what the answers actually mean** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Most PBM RFPs ask the wrong questions. The right thirty change the decision.** (confrontational opener)
+3. **Thirty PBM RFP questions, scored on a 90-point scale** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Most PBM RFPs ask the questions a PBM is most prepared to answer. The questions that actually decide a competitive bid are different.
+
+This briefing walks through the thirty questions that change a PBM evaluation, how to score the answers on a 90-point scale, and what to do when a finalist refuses to answer.
+
+PBM RFP question bank on Substack.
+
+#PBMRFP #PBMContracts #SelfFundedEmployers
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #8: Evaluating PBM RFP Responses

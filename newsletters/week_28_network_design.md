@@ -304,6 +304,32 @@ This week's Benefit Blind Spots includes a **network cost comparison model**: a 
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Pharmacy network design: the cost variable most employers overlook** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Same drug. Five dispensing channels. Five different costs to your plan.** (confrontational opener)
+3. **The five-channel model that surfaces your plan's network cost gap** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+The same generic costs your plan a different amount at every dispensing channel. Most plan sponsors review their PBM contract once; they review their network design never.
+
+This briefing breaks down the five channels (retail chain, independent retail, mail order, PBM-owned mail, PBM-owned specialty) and the cost gap each one hides from the report.
+
+Network cost comparison model on Substack.
+
+#NetworkDesign #PharmacyBenefits #SelfFundedEmployers
+```
+
+---
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 101 - Tuesday 10:00 AM

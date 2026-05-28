@@ -333,6 +333,32 @@ This week's Benefit Blind Spots includes a **formulary decision audit**: seven s
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+---
+
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Who really controls your drug list: formulary decisions and PBM economics** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Your PBM picks your drug list. Your PBM also picks the rebates on your drug list.** (confrontational opener, named-actor)
+3. **Seven questions that reveal whether your formulary serves your plan or your PBM** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+The drug list your members fill against was picked by your PBM. The rebates on those drugs are also paid to your PBM. The same party makes both decisions.
+
+This briefing breaks down where the PBM's formulary committee gets its incentives, what that means for your members' access, and the seven questions that reveal whether your drug list works for you.
+
+Formulary decision audit on Substack.
+
+#Formulary #PBMTransparency #PharmacyBenefits
+```
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 10:00 AM

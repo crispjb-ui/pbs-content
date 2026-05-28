@@ -374,6 +374,32 @@ This week's Benefit Blind Spots includes an **H1 benchmark dashboard**: the five
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+---
+
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **H1 review: what the first half data shows** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **The five numbers from H1 that decide your renewal leverage** (number-led, action-oriented)
+3. **Why the H1 review your broker doesn't run costs you in H2** (confrontational opener)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Q2 close is the cleanest time to read your plan's actual position. Five numbers from H1 tell you whether your renewal goes well or expensively.
+
+This briefing walks through the H1 read most plans skip, what good looks like against market benchmarks, and how to convert the read into negotiating leverage for H2.
+
+H1 benchmark dashboard plus renewal readiness scorecard on Substack.
+
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## Monthly Q&A Thread #3: Renewal Season Preparation

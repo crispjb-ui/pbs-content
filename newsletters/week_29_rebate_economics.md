@@ -318,6 +318,32 @@ This week's Benefit Blind Spots includes a **rebate contract analysis framework*
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Rebate economics: what your PBM's rebate report is not showing you** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Your PBM's rebate report is correct. It is also incomplete by design.** (confrontational opener, named-actor)
+3. **Eight contract provisions that decide how much of the rebate actually reaches your plan** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Your PBM's rebate report is mathematically correct and operationally incomplete. The math accounts for what the PBM received. It does not account for what the rebate aggregator kept before the PBM received it.
+
+This briefing walks through where the gap lives, the eight contract provisions that determine your real rebate yield, and the language to bring to renewal.
+
+Rebate contract analysis framework on Substack.
+
+#Rebates #PBMContracts #PharmacyBenefits
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #7: Tracking Your Rebate Dollars

@@ -277,6 +277,32 @@ This week's Benefit Blind Spots includes a **renewal negotiation checklist**: 12
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **The renewal negotiation playbook: where your negotiating power actually lives** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Your renewal leverage is in the contract, not the rate. Twelve provisions remember why.** (confrontational opener)
+3. **Twelve PBM renewal provisions, market benchmarks, and the language to ask for each** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Plan sponsors enter PBM renewals focused on the rate. PBMs enter focused on the contract. The contract is where the next three years of leverage actually lives.
+
+This briefing breaks down the twelve renewal provisions that matter most, the market benchmarks for each, the specific language to ask for, and the tactical sequence to use.
+
+Renewal negotiation checklist on Substack.
+
+#PBMRenewal #PBMContracts #SelfFundedEmployers
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #10: Reviewing a PBM Renewal Proposal

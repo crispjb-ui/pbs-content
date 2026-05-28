@@ -320,6 +320,32 @@ This week's Benefit Blind Spots includes a **90-day renewal preparation timeline
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+---
+
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **The 90-day renewal window: what to do before your PBM sets the terms** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Your PBM is setting the terms of next year right now. The 90-day window is your only window.** (confrontational opener, named-actor)
+3. **Ninety days, week by week: the renewal preparation timeline most plans skip** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Ninety days before your PBM contract renews, the PBM has already started setting the terms. Most plan sponsors start preparing thirty days in. The gap costs you.
+
+This briefing maps the 90-day window week by week: what to ask, what to pull, what to send your broker, and when.
+
+Week-by-week renewal preparation timeline on Substack.
+
+#PBMRenewal #PBMContracts #SelfFundedEmployers
+```
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #5: Preparing for a PBM RFP

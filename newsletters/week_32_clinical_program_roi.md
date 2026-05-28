@@ -298,6 +298,32 @@ This week's Benefit Blind Spots includes a **clinical program evaluation scoreca
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Clinical program ROI: measuring what your PBM claims to deliver** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **Your PBM's clinical programs may be saving exactly what your PBM says they are. Or not.** (confrontational opener)
+3. **Six clinical programs, four dimensions: the evaluation scorecard your PBM wishes you skipped** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+Your PBM reports the savings their clinical programs generated last year. The reports are usually impressive. The methodology behind them is usually unverified.
+
+This briefing walks through how PBM clinical-program savings get calculated, where the methodologies typically break down, and the four dimensions you should score each program on.
+
+Clinical program evaluation scorecard on Substack.
+
+#ClinicalPharmacy #PBMTransparency #PharmacyBenefits
+```
+
+---
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 117 - Tuesday 10:00 AM

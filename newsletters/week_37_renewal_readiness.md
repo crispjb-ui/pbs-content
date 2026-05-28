@@ -359,6 +359,32 @@ This week's Benefit Blind Spots includes the **renewal readiness scorecard**: 15
 
 ---
 
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **Renewal readiness: the assessment that determines your negotiating position** (matches the Substack deep dive title — cleanest cross-channel consistency)
+2. **The PBM that handles your renewal already knows whether you are ready. The scorecard tells you what they see.** (confrontational, named-actor)
+3. **Fifteen factors across five categories: the renewal readiness scorecard** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+Paste-ready (use the GitHub copy button on the code block to preserve numbers + spacing):
+
+```
+New issue of The Pharmacy Benefits Briefing.
+
+The PBM on the other side of your renewal table has already scored you. They know whether you are prepared to push back or not. The scorecard in this briefing tells you what they see.
+
+This briefing walks through fifteen renewal-readiness factors across five categories, a self-scoring scale, and a three-step prioritization for plan sponsors who realize they are behind.
+
+Renewal readiness scorecard on Substack.
+
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
+
+---
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #11: Final Checks Before Signing
