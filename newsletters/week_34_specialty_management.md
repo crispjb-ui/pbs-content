@@ -364,6 +364,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 
 #### Post Copy
 
+```
 Not every clinical program earns its cost. We see the same pattern across audits.
 
 Programs that consistently earn their cost:
@@ -383,10 +384,13 @@ Programs that often do not earn their cost as reported:
 3. MTM programs without measurable adherence outcomes. The contact happened. Whether it changed anything is the question the report does not answer.
 
 #ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 Monday's Benefit Blind Spots deep dive on specialty drug management walks through the 8 management levers (utilization, routing, formulary, authorization, reporting) that decide whether each program earns its keep. The 120-point assessment is in the article. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 #### Image Layout Spec
 
@@ -435,11 +439,13 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white b
 
 #### Reshare Copy
 
+```
 Three clinical programs consistently earn their cost: specialty case management, biosimilar transition with prescriber engagement, and PA on first-launch specialty drugs. Three often do not as reported: DUR overrides, step therapy crediting non-steered members, and MTM without measured outcomes.
 
 Ginny Crisp walks through how to tell which is which.
 
 #ClinicalPharmacy #SelfFundedEmployers #EmployeeBenefits
+```
 
 ---
 
@@ -448,6 +454,7 @@ Ginny Crisp walks through how to tell which is which.
 
 #### Post Copy
 
+```
 Specialty drives the majority of your pharmacy spend on a single-digit share of prescriptions. It is also the part of your benefit plan with the least independent oversight.
 
 Your PBM manages specialty routing, the specialty formulary, the authorization criteria, and the savings methodology. In many cases, they also own the specialty pharmacy that fills the prescriptions.
@@ -461,10 +468,13 @@ Eight levers determine whether specialty cost is controlled: formulary managemen
 The gap compounds every quarter on every authorization that runs on autopilot and every biosimilar that sits at non-preferred tier.
 
 Start with one question: which of the eight levers has the largest gap on your plan?
+```
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on specialty drug management is the operational follow-on: the 8-lever specialty management 120-point assessment. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -502,6 +512,7 @@ This week's Benefit Blind Spots deep dive on specialty drug management is the op
 
 #### Post Copy
 
+```
 Five contract guarantees you should already have audited at mid-year. Most plan sponsors do not run the audit until year-end, when the PBM has had two more quarters to optimize the numbers.
 
 I review hundreds of PBM contracts a year at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
@@ -523,6 +534,7 @@ Pulling the actual mid-year and writing the gap notification to the PBM is a hal
 Save this for your H1/H2 review.
 
 #PBMContracts #PerformanceGuarantees #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -560,11 +572,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Five mid-year performance guarantee terms decide whether the PBM hits its targets or pays the plan when it does not. Measurement methodology, reconciliation timing, remediation structure, guarantee exclusions, and audit rights each shape the outcome.
 
 Ginny Crisp decodes the five terms.
 
 #PBMContracts #PlanSponsors #PharmacyBenefits
+```
 
 ---
 
@@ -573,6 +587,7 @@ Ginny Crisp decodes the five terms.
 
 #### Post Copy
 
+```
 Your PBM has a renewal strategy. It was built from your data, for their margin objectives.
 
 They know your pricing competitiveness. They know where your guarantees fell short. They know which concessions they can offer while protecting their revenue. They have modeled scenarios. They have prepared their presentation.
@@ -582,10 +597,13 @@ The question is whether you have your own strategy built from the same data, for
 Twelve contract provisions determine your renewal outcome. Most employers negotiate fewer than half of them.
 
 Next week: the renewal negotiation playbook.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Renewal Negotiation in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

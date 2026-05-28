@@ -316,6 +316,7 @@ Contract language comparison library on Substack.
 
 #### Post Copy
 
+```
 Q4 claims data follows the same three patterns in almost every self-funded plan. Each one traces back to a specific clause in the contract.
 
 Pattern 1: Deductible acceleration via copay cards. Manufacturer copay cards push members through their OOP max faster than organic spend. By Q4, the plan is covering full cost on claims the member paid nothing for. The clause behind it: accumulator adjustment language.
@@ -327,10 +328,13 @@ Pattern 3: Elective specialty treatment timing. Members on Humira, Stelara, or K
 Each pattern is visible in claims data by early November. Each pattern is already written into the contract somewhere. I redlined each of them below.
 
 #Q4Planning #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 Full protective language for these three clauses, plus the rest of the year-end set, lives in our Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -370,11 +374,13 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ca
 
 #### Reshare Copy
 
+```
 Three contract clauses sit behind every Q4 cost pattern that shows up in claims data. Copay accumulator language, maintenance-fill rules, and specialty timing provisions each turn a recurring pattern into a fixable contract item.
 
 Ginny Crisp walks through the clauses and what to redline before next renewal.
 
 #PBMContracts #PlanSponsors #PharmacyBenefits
+```
 
 ---
 
@@ -398,7 +404,9 @@ Your broker or benefits counsel should know which version your contract uses. If
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on contract red flags is the operational follow-on: the provision-by-provision comparison with weak vs. strong contract language. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -441,6 +449,7 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 
 #### Post Copy
 
+```
 Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did.
 
 I review hundreds of PBM contracts a year at PBS. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
@@ -450,6 +459,7 @@ The pattern: rebate definitions narrow over successive renewals. Words like "man
 Save this for your next contract review.
 
 #PBMContracts #ContractLanguage #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -493,11 +503,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Weak, moderate, strong. Every major PBM contract provision has versions. The version in your contract determines whether guarantees are enforceable, rebates are passed through, and amendments require your agreement.
 
 Ginny Crisp walks through ten provisions and the redlines that strengthen each one.
 
 #PBMContracts #SelfFundedEmployers #PharmacyBenefits
+```
 
 ---
 
@@ -506,6 +518,7 @@ Ginny Crisp walks through ten provisions and the redlines that strengthen each o
 
 #### Post Copy
 
+```
 Renewal season starts in weeks. The employers who prepared in Q3 will negotiate different outcomes than those who did not.
 
 Over 13 weeks, we covered the full arc: data benchmarking, formulary evaluation, PBM scoring, network analysis, rebate economics, RFP design, clinical program verification, communication strategy, specialty management, negotiation tactics, and contract language.
@@ -513,10 +526,13 @@ Over 13 weeks, we covered the full arc: data benchmarking, formulary evaluation,
 One question remains: are you ready?
 
 Next week: a 15-factor renewal readiness scorecard. Five categories. 75 points. The assessment that tells you whether to proceed with confidence or focus on gaps.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Renewal Readiness in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

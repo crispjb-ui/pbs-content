@@ -403,6 +403,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 #### Post Copy
 
+```
 Every PBM contract includes an audit right. Almost no plan exercises it.
 
 In the hundreds of contracts we review each year, the pattern is consistent. The audit right is in the contract from day one. It usually allows the plan or its designee to audit claims, rebate calculations, and guarantee performance. The window to exercise is typically annual, sometimes shorter.
@@ -416,10 +417,13 @@ When we run an audit on a plan that has never audited, we find findings. Recover
 The right costs nothing. Using it requires knowing it exists, knowing the window, and pulling the trigger before the clock resets.
 
 #PBMAudit #DrugPricing #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 The full protective language for the audit-rights clauses referenced above (auditor selection, audit scope, look-back window, remedy, affiliate transactions) lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+```
 
 #### Image Layout Spec
 
@@ -461,11 +465,13 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render 
 
 #### Reshare Copy
 
+```
 Every PBM contract grants an audit right. Most self-funded plans let the window expire annually without using it. By renewal, three or four windows have closed.
 
 Ginny Crisp walks through what is in the contract, why the PBM does not flag it, and how to pull the trigger.
 
 #PBMAudit #PlanSponsors #EmployeeBenefits
+```
 
 ---
 
@@ -478,6 +484,7 @@ Ginny Crisp walks through what is in the contract, why the PBM does not flag it,
 
 #### Post Copy
 
+```
 The rebate line on your PBM's quarterly report grew. Your plan's net drug cost also grew. Both numbers can move up in the same quarter without anyone lying.
 
 The disconnect is a reporting choice, not a math error.
@@ -491,10 +498,13 @@ Rebate economics are structurally controlled by four contract provisions: how "r
 Each one either protects the plan or protects the PBM's margin. In the hundreds of contracts we review each year, we see the full spectrum: from fully transparent pass-through arrangements to structures where the PBM retains meaningful manufacturer payments that never appear in the rebate report.
 
 One question cuts through the complexity: what is our net drug cost, after all rebates, compared to what the market would offer?
+```
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on rebate economics decoded is the operational follow-on: the 8-provision rebate contract framework + traditional vs. pass-through model comparison. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -511,11 +521,13 @@ This week's Benefit Blind Spots deep dive on rebate economics decoded is the ope
 
 #### Post Copy
 
+```
 Three rebate models. Three different economics. One plan sponsor paying the bill.
 
 Pass-through. Traditional. Hybrid. The labels sound simple. The economics behind each are not. Where the PBM's margin lives depends entirely on which model your contract uses.
 
 #Rebates #DrugPricing #PharmacyBenefits
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -555,6 +567,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Post Copy
 
+```
 Five network contract terms decide where your members fill and what your plan pays. The PBM writes the definitions; your contract should redefine them.
 
 I review hundreds of PBM contracts a year at PBS. The network membership clause says "any in-network pharmacy"; the routing pattern rarely matches. The leverage is in the four other terms.
@@ -568,10 +581,13 @@ I review hundreds of PBM contracts a year at PBS. The network membership clause 
 Save this for your next quarterly review.
 
 #PBMContracts #PharmacyNetwork #SelfFundedEmployers
+```
 
 #### First Comment
 
+```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on actual network configuration vs. contract design (fill distribution by channel, network exclusion log review, guarantee performance vs. minimum). Plus a paste-ready Pharmacy Network Configuration Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
 
 #### Messy Infographic Concept
 
@@ -612,11 +628,13 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
+```
 Network design lives in five contract terms most plan sponsors never read. Membership scope, preferred-pharmacy designation, exclusion criteria, mail-order economics, and out-of-network reimbursement each shape where members fill and what the plan pays.
 
 Ginny Crisp decodes the five terms.
 
 #PBMContracts #NetworkDesign #PharmacyBenefits
+```
 
 ---
 
@@ -629,6 +647,7 @@ Ginny Crisp decodes the five terms.
 
 #### Post Copy
 
+```
 Same infusion. Same drug. Same dose. Same clinical outcome.
 
 Hospital outpatient department: one price. Ambulatory infusion center: a fraction. Home infusion: lower still.
@@ -638,10 +657,13 @@ The setting where a drug gets administered can change the cost by multiples. Not
 Site-of-care is the cost lever that crosses the pharmacy and medical benefit boundary. Most employers have never evaluated it because it requires coordinating two benefits that rarely talk to each other.
 
 Next week: site-of-care optimization, and the decision tree by therapeutic category.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Site-of-Care Optimization in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

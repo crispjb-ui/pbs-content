@@ -369,6 +369,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 #### Post Copy
 
+```
 If renewal lands in 2027, the calendar starts now.
 
 Self-funded plans that arrive at renewal with position built do not improvise. They follow a calendar. Here is the one we walk clients through:
@@ -386,10 +387,13 @@ Q4 2027: Go-live monitoring. First-90-days audit scheduled. Guarantee tracking f
 Plans that arrive at each phase with the prior phase complete negotiate. Plans that compress phases concede.
 
 #PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 More in this week's Pharmacy Benefits Briefing on renewal negotiation: [LINKEDIN NEWSLETTER URL]
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -429,11 +433,13 @@ Claude Design project type: **Slide deck from template**. Whiteboard carousel ma
 
 #### Reshare Copy
 
+```
 If renewal lands in 2027, the calendar starts in Q4 2026. RFP scope, independent scoring, best-and-final with specific language demands, execution milestones, first-90-days audit.
 
 Ginny Crisp walks through the quarterly gates that separate self-funded plans that negotiate from plans that concede.
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
+```
 
 ---
 
@@ -457,7 +463,9 @@ A term sheet that covers all twelve provisions changes the dynamic. Your broker 
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on renewal negotiation is the operational follow-on: the 12-provision renewal playbook with redline priorities. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -473,6 +481,7 @@ This week's Benefit Blind Spots deep dive on renewal negotiation is the operatio
 
 #### Post Copy
 
+```
 Where your negotiating power actually lives in a PBM renewal.
 
 Your data. Your benchmarks. Your term sheet. Your termination clause. Your willingness to go to market.
@@ -480,6 +489,7 @@ Your data. Your benchmarks. Your term sheet. Your termination clause. Your willi
 The PBM negotiates from their data advantage. You negotiate from preparation. The employers who match the PBM's preparation level negotiate fundamentally different outcomes.
 
 #PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### Messy Infographic Concept
 
@@ -505,6 +515,7 @@ The PBM negotiates from their data advantage. You negotiate from preparation. Th
 
 #### Post Copy
 
+```
 Five contract terms decide whether you can actually use your termination clause. Most plan sponsors cannot, and most PBMs know it.
 
 I review hundreds of PBM contracts a year at PBS. Most termination-clause negotiations never end in termination. But a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
@@ -520,6 +531,7 @@ The termination clause is the leverage everywhere else. Read it before you renew
 Save this for your next renewal redline.
 
 #PBMContracts #PBMRenewal #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -563,11 +575,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Your data. Your benchmarks. Your term sheet. Your termination clause. Your willingness to go to market. That is where a plan sponsor's negotiating power actually lives.
 
 Ginny Crisp covers the leverage points that close the preparation gap between PBM and plan at renewal.
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
+```
 
 ---
 
@@ -576,6 +590,7 @@ Ginny Crisp covers the leverage points that close the preparation gap between PB
 
 #### Post Copy
 
+```
 Two words in your PBM contract can cost your plan six figures. Most employers have never read them.
 
 "Commercially reasonable efforts" vs. "best efforts." The first gives the PBM an exit. The second does not. The employer relied on a guarantee the contract did not actually require.
@@ -583,10 +598,13 @@ Two words in your PBM contract can cost your plan six figures. Most employers ha
 Contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance. It is financial exposure.
 
 Next week: contract language that costs you. Ten provisions shown in weak, moderate, and strong versions. A reference document for your next renewal.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Contract Red Flags in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

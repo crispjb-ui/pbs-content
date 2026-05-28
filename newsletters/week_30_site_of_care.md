@@ -376,6 +376,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 
 #### Post Copy
 
+```
 Q4 is the decision window for self-funded plans. The renewal process formally starts in Q1 for most plans. The decisions that determine renewal leverage have to land before then.
 
 Five we walk our self-funded clients through:
@@ -393,10 +394,13 @@ Five we walk our self-funded clients through:
 The plans that walk into 2026 with these five decisions made are negotiating from position. The ones that wait are reacting.
 
 #Q4Planning #SelfFundedEmployers #EmployeeBenefits
+```
 
 #### First Comment
 
+```
 Monday's Benefit Blind Spots deep dive on site-of-care optimization is the deeper read on Decision 3 above (where high-cost specialty therapies are administered). The 4-channel cost comparison and the routing audit framework are in the article. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -436,11 +440,13 @@ Claude Design project type: **Slide deck from template**. One Number carousel (t
 
 #### Reshare Copy
 
+```
 Q4 is when self-funded plans decide whether 2026 renewal happens to them or because of them. RFP timeline, shortfalls compiled, independent benchmarks, stop-loss coordination, fiduciary file built.
 
 Ginny Crisp walks through the five decisions that have to land before Q1.
 
 #Q4Planning #PlanSponsors #PharmacyBenefits
+```
 
 ---
 
@@ -455,6 +461,7 @@ Ginny Crisp walks through the five decisions that have to land before Q1.
 
 #### Post Copy
 
+```
 Same infusion. Hospital outpatient: one price. Home infusion: a fraction. Same drug. Same outcome.
 
 The administration setting can change the cost of an infusion therapy by multiples. For most plans, the default setting was chosen by inertia, not by analysis.
@@ -470,6 +477,7 @@ Site-of-care crosses the pharmacy and medical benefit boundary. The drug is cove
 Your broker can help bridge that gap. The best advisory teams are already identifying site-of-care opportunities in claims reviews and coordinating across PBM and medical plan vendors.
 
 One analysis: compare your top infusion drugs by total cost (drug plus administration) across settings. The math usually speaks for itself.
+```
 
 #### VIDEO SCRIPT (45 seconds)
 
@@ -489,7 +497,9 @@ One analysis: compare your top infusion drugs by total cost (drug plus administr
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on site-of-care optimization is the operational follow-on: the 4-channel cost comparison and the routing decision framework. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -506,11 +516,13 @@ This week's Benefit Blind Spots deep dive on site-of-care optimization is the op
 
 #### Post Copy
 
+```
 Four settings. One decision tree. Which administration setting is right for each therapy?
 
 Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion. The clinical criteria are well established. The cost differences are substantial. The default routing is usually inertia.
 
 #SiteOfCare #SelfFundedEmployers #EmployeeBenefits
+```
 
 #### Whiteboard Carousel Slides
 
@@ -537,6 +549,7 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 
 #### Post Copy
 
+```
 Five contract terms decide how a single claim coordinates across primary, secondary, and copay assistance. Most plan sponsors never audit how the rules execute.
 
 I review hundreds of PBM contracts a year at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging — and the flagging is rarely audited.
@@ -558,6 +571,7 @@ The COB clause is the contract. The COB workflow is the operations. The gap is w
 Save this for your next quarterly review.
 
 #PBMContracts #CoordinationOfBenefits #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -604,11 +618,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Five contract terms decide whether secondary-payer dollars actually credit the plan. COB methodology, member-flagging accuracy, claim-level adjudication, audit window, and remediation timing each shape what comes back.
 
 Ginny Crisp decodes the COB clauses and the audit that surfaces the gap.
 
 #PBMContracts #PlanSponsors #PharmacyBenefits
+```
 
 ---
 
@@ -620,6 +636,7 @@ Ginny Crisp decodes the COB clauses and the audit that surfaces the gap.
 
 #### Post Copy
 
+```
 You sent a 50-page RFP. Your PBM sent a 50-page response. Neither document tells you what you will actually pay.
 
 PBM RFP responses are designed to win evaluations, not to reveal true cost. Different discount methodologies. Different rebate timing assumptions. Different guarantee structures. Three proposals that look competitive on page one can be separated by substantial dollars when normalized.
@@ -627,10 +644,13 @@ PBM RFP responses are designed to win evaluations, not to reveal true cost. Diff
 The questions you ask determine the answers you get. And the questions most RFP templates include were written by the industry, not by the employers who pay the bills.
 
 Next week: the PBM RFP, and 30 questions with answer scoring that reveal what responses actually mean.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on PBM RFP Process in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

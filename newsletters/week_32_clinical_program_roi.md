@@ -337,6 +337,7 @@ Clinical program evaluation scorecard on Substack.
 
 #### Post Copy
 
+```
 The PBM quarterly report shows what the PBM wants the plan to see. The metrics that matter often live in what is missing.
 
 Four things we look for in the gaps:
@@ -352,10 +353,13 @@ Four things we look for in the gaps:
 Every one of these is producible from data the PBM already has. None of them appear by default. Ask for the four. The PBM's response tells you what kind of relationship you have.
 
 #PBMTransparency #SpecialtyPharmacy #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 The reporting clauses that determine what is required to be in your quarterly report (and what most contracts leave optional) live in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+```
 
 #### Image Layout Spec
 
@@ -404,11 +408,13 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render 
 
 #### Reshare Copy
 
+```
 The PBM quarterly report shows what the PBM wants the plan to see. Four metrics that determine real plan performance almost never appear: trended net cost per script, same-NDC channel breakdown, rebate eligibility ratio, and PA approval rate by drug class.
 
 Ginny Crisp walks through how to ask.
 
 #PBMTransparency #SelfFundedEmployers #EmployeeBenefits
+```
 
 ---
 
@@ -417,6 +423,7 @@ Ginny Crisp walks through how to ask.
 
 #### Post Copy
 
+```
 Your PBM's latest report attributes seven figures to clinical program savings. Can you verify a single dollar of it?
 
 Prior authorization. Step therapy. Quantity limits. Drug utilization review. Medication therapy management. Specialty management. Six programs. Six reported savings numbers. Six methodologies you have probably never seen.
@@ -428,10 +435,13 @@ I am not saying these programs have no value. Some are genuinely important. PA p
 But the gap between reported savings and verified savings is consistent across almost every audit we conduct. The headline number is constructed by the PBM using assumptions the PBM chose, applied to data the PBM controls.
 
 One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If the PBM cannot produce it, the number is a marketing metric, not a financial metric.
+```
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on clinical program ROI is the operational follow-on: the savings-methodology audit framework with the one request to send your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -476,6 +486,7 @@ This week's Benefit Blind Spots deep dive on clinical program ROI is the operati
 
 #### Post Copy
 
+```
 ERISA uses five words that sound procedural. They are not. They define your personal exposure as a plan fiduciary.
 
 I review hundreds of PBM contracts a year at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
@@ -491,6 +502,7 @@ The standard is documented process, not optimal outcome. The audit produces the 
 Save this for your next benefits committee meeting.
 
 #PBMContracts #FiduciaryDuty #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -534,11 +546,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Five fiduciary terms distinguish a plan-sponsor-aligned PBM from one operating in its own interest. Standard of care, decision documentation, exclusive benefit, prudent process, and conflicts disclosure each set the bar.
 
 Ginny Crisp decodes the five terms and what plan sponsors should require.
 
 #FiduciaryDuty #PBMContracts #PharmacyBenefits
+```
 
 ---
 
@@ -549,6 +563,7 @@ Ginny Crisp decodes the five terms and what plan sponsors should require.
 
 #### Post Copy
 
+```
 You saved your plan six figures by switching to a biosimilar. Your members think you took away their medication.
 
 The best pharmacy strategy fails without the right communication. Formulary changes. Biosimilar transitions. Network changes. PA implementation. Each one is clinically sound and financially justified. Each one feels like a takeaway to the member who gets the letter.
@@ -556,10 +571,13 @@ The best pharmacy strategy fails without the right communication. Formulary chan
 The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging.
 
 Next week: communicating pharmacy changes, and five scenario-specific templates that prevent the backlash.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Member Communication in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

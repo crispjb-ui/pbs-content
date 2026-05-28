@@ -420,6 +420,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 #### Post Copy
 
+```
 Five clauses in your PBM audit rights provision that decide whether your audit happens on your terms or theirs.
 
 Most contracts run three to five lines on audit rights. The protective version names every parameter — frequency, scope, who can audit, how findings get adjudicated, who pays.
@@ -435,12 +436,15 @@ Swipe through for the redline on each clause.
 The brokers we work with check these five before signing. Save this carousel for your next renewal conversation.
 
 #PBMContracts #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 The full protective language for each of these five audit-rights clauses, plus the dispute-resolution and remediation provisions that pair with them, lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 
 Updated quarterly from patterns we see in client contract reviews.
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -479,11 +483,13 @@ Use the Library NN Contract Comparison master from `claude_design_prompts.md` (t
 
 #### Reshare Copy
 
+```
 Five clauses in your PBM audit rights provision decide whether your audit happens on your terms or theirs. Frequency, scope, auditor identity, findings binding, and cost responsibility all turn discretionary unless the contract names them.
 
 Ginny Crisp walks through the redline on each.
 
 #PBMContracts #PBMAudit #PharmacyBenefits
+```
 
 ---
 
@@ -498,6 +504,7 @@ Ginny Crisp walks through the redline on each.
 
 #### Post Copy
 
+```
 Your claims data is already telling you what your renewal will look like. Most employers are not listening.
 
 Your PBM has already pulled the first half numbers. They know your trend. They know where your guarantees stand. They are building their renewal strategy from your data right now.
@@ -513,6 +520,7 @@ Five patterns in your claims data right now predict your renewal trajectory: spe
 Two or more of those patterns appearing together is not a coincidence. It is a cost trajectory that the PBM's summary report may not show you explicitly.
 
 Mid-year is when you can still act. Renewal is when you react. The best brokers are already pulling this data with their clients. If yours has not started, bring it up this week.
+```
 
 #### VIDEO SCRIPT OPTION (40 seconds, filmed on phone)
 
@@ -552,7 +560,9 @@ Mid-year is when you can still act. Renewal is when you react.
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on mid-year claims data and renewal trajectory is the operational follow-on: the 5-pattern claims-data red flag checklist + intervention framework. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -571,6 +581,7 @@ This week's Benefit Blind Spots deep dive on mid-year claims data and renewal tr
 
 #### Post Copy
 
+```
 Five mid-year claims red flags for self-funded plans.
 
 Specialty concentration climbing as share of total spend.
@@ -582,6 +593,7 @@ Rebate per claim eroding quarter over quarter.
 Two or more of these patterns in the same review period is a signal. Your renewal trajectory may be different from what the summary report suggests.
 
 #ClaimsAudit #PharmacyCosts #PharmacyBenefits
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -665,6 +677,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Post Copy
 
+```
 Five admin fee line items on your monthly PBM invoice. Five descriptions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin.
 
 I review hundreds of PBM contracts a year at PBS. The same five line items show up under different labels on nearly every contract. The labels change. The underlying revenue does not.
@@ -678,9 +691,11 @@ The decoder is in the image. Match each PBM definition against what your contrac
 Save this for your next PBM meeting. Forward to your broker.
 
 #PBMContracts #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually audit these line items on your monthly PBM invoice. Three-outcome diagnostic, the five patterns we see most often after ~100 PBM contract reviews annually, and what to do with unauthorized fees at renewal.
 
 [SUBSTACK FIELD NOTE URL]
@@ -691,6 +706,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 - "Network access fee" - PBM means: charge for access to the PBM's pharmacy network. Read it as: a charge for using an asset the PBM maintains for every client, often duplicative of the admin fee.
 - "Manufacturer admin fee" - PBM means: fee the PBM collects from manufacturers for formulary and data services. Read it as: PBM revenue from drug companies, typically retained in full unless your contract addresses it explicitly.
 - "Data fee" - PBM means: charge for data sold or provided to third parties related to your plan. Read it as: your plan's data, monetized. Ask who pays and who keeps the revenue.
+```
 
 #### Messy Infographic Concept
 
@@ -731,11 +747,13 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Reshare Copy
 
+```
 Five admin fee line items appear on the monthly PBM invoice, and five definitions the PBM wrote. Most plan sponsors review the total and pay it. Few audit the line-item language against the contract.
 
 Ginny Crisp decodes the five terms and what each one should be audited against.
 
 #PBMTransparency #PBMContracts #PharmacyBenefits
+```
 
 ---
 
@@ -748,6 +766,7 @@ Ginny Crisp decodes the five terms and what each one should be audited against.
 
 #### Post Copy
 
+```
 Your PBM already knows your H1 numbers. You probably do not.
 
 They know your per-member-per-month trend. They know which guarantees they are meeting and which ones they are missing. They know your specialty concentration and your rebate position. They have already modeled renewal scenarios.
@@ -755,10 +774,13 @@ They know your per-member-per-month trend. They know which guarantees they are m
 The window between H1 close and renewal season is where leverage gets built or lost. What you learn now shapes what you negotiate in September.
 
 Next week: the five numbers that define your renewal position and how to calculate them.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on H1 Review and Renewal Leverage in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

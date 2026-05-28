@@ -566,6 +566,7 @@ Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_rev
 
 #### Post Copy
 
+```
 "Industry standard" is the three most expensive words in a PBM proposal.
 
 In the hundreds of contracts we review each year, "industry standard" appears in almost every one. It is rarely defined. It is rarely the same number in any two contracts. It is almost always worse than what the plan could have negotiated.
@@ -581,10 +582,13 @@ In the hundreds of contracts we review each year, "industry standard" appears in
 Every phrase is technically accurate and practically meaningless. Replace every instance with a specific number. The PBM's willingness to commit is the signal.
 
 #PBMTransparency #DrugPricing #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 Monday's Benefit Blind Spots deep dive on renewal readiness is the operational follow-on: the 12-provision scorecard for evaluating PBM proposals against your plan's actual needs, not the PBM's "industry standard" framing. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 #### Image Layout Spec
 
@@ -635,11 +639,13 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render 
 
 #### Reshare Copy
 
+```
 "Industry standard" appears in almost every PBM proposal and almost never means the same thing in any two of them. AWP discount, rebate pass-through, performance guarantees, reporting. Every phrase is technically accurate and practically meaningless.
 
 Ginny Crisp translates the language and shows what to replace it with.
 
 #PBMTransparency #PlanSponsors #EmployeeBenefits
+```
 
 ---
 
@@ -665,7 +671,9 @@ Preparation is the strategy. Renewal is just the meeting.
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on renewal readiness is the operational follow-on: the renewal readiness scorecard and the pre-meeting checklist. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -703,6 +711,7 @@ This week's Benefit Blind Spots deep dive on renewal readiness is the operationa
 
 #### Post Copy
 
+```
 Five items to bring to your first PBM renewal meeting. Most plan sponsors walk in with one of them.
 
 I review hundreds of PBM contracts a year at PBS. The plan sponsors who walk into the first renewal meeting with all five items negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.
@@ -724,6 +733,7 @@ The first meeting is the frame-setting meeting. Bring the documentation, set the
 Save this for the next renewal cycle.
 
 #PBMContracts #PBMRenewal #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -765,11 +775,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Five items change the first renewal meeting with your PBM: independent claims analysis, benchmarking data, contract-language redline, performance shortfall summary, and walk-away criteria.
 
 Ginny Crisp walks through what each item does at the table and how to assemble each one.
 
 #PBMRenewal #PlanSponsors #PharmacyBenefits
+```
 
 ---
 
@@ -778,6 +790,7 @@ Ginny Crisp walks through what each item does at the table and how to assemble e
 
 #### Post Copy
 
+```
 Renewal season is here. The preparation window is closed. The negotiation window is open.
 
 Q4 will bring PBM renewal proposals, stop-loss renewals, open enrollment preparation, and the implementation decisions that shape next year's pharmacy benefit.
@@ -787,10 +800,13 @@ Over the past 13 weeks, we built the toolkit: scorecards, comparison libraries, 
 What comes next: how the negotiations play out, what we are seeing in the market, and the implementation decisions that determine whether contract improvements translate to plan savings.
 
 Q4 content starts next Monday.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on next quarter's content cycle in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

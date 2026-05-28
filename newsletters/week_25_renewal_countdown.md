@@ -412,6 +412,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 #### Post Copy
 
+```
 90 days before renewal is the decision window. The PBM will have their proposal ready. Most plans do not have their framework ready.
 
 If you handed me your renewal file today, here is how I would work through it on a whiteboard.
@@ -429,10 +430,13 @@ If you handed me your renewal file today, here is how I would work through it on
 Sponsors who arrive with the framework negotiate. Sponsors without it renew.
 
 #PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 More in this week's Pharmacy Benefits Briefing on the 90-day renewal window: [LINKEDIN NEWSLETTER URL]
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -473,11 +477,13 @@ Claude Design project type: **Slide deck from template**. Use Whiteboard carouse
 
 #### Reshare Copy
 
+```
 Sponsors who arrive at renewal with a framework negotiate. Sponsors without one renew. Five questions define the framework: benchmarking, documented shortfalls, accept/counter/walk lines, independent analysis, and fallback plan.
 
 Ginny Crisp walks through the 90-day decision window self-funded CFOs should own, not their PBM.
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
+```
 
 ---
 
@@ -492,6 +498,7 @@ Ginny Crisp walks through the 90-day decision window self-funded CFOs should own
 
 #### Post Copy
 
+```
 Your PBM renewal is 90 days away. Your preparation should have started yesterday.
 
 Your PBM has been preparing for months. They have already analyzed your claims data. They know your PMPM trend, your specialty concentration, your rebate position, and where your guarantees fell short. They have modeled multiple renewal scenarios and determined which terms they can offer while protecting their margins.
@@ -507,6 +514,7 @@ Three things you can do this week: ask your broker to pull a market benchmark fo
 Those three steps take a total of about two hours. The employers who invest those two hours now negotiate fundamentally different outcomes in September.
 
 Ninety days. The clock started.
+```
 
 #### VIDEO SCRIPT OPTION (45 seconds, filmed on phone)
 
@@ -553,7 +561,9 @@ Two hours now. Different outcome in September.
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on the 90-day renewal window is the operational follow-on: the month-by-month renewal preparation timeline. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -572,6 +582,7 @@ This week's Benefit Blind Spots deep dive on the 90-day renewal window is the op
 
 #### Post Copy
 
+```
 The 90-day PBM renewal timeline.
 
 Month 1: Data and benchmarking. Pull your own claims data. Run the five core metrics. Benchmark against market.
@@ -583,6 +594,7 @@ Month 3: Negotiation prep. Set walk-away points. Anticipate the PBM's position. 
 The employers who follow this timeline negotiate from their own data. Those who skip it negotiate from the PBM's narrative.
 
 #PBMRenewal #PlanSponsors #EmployeeBenefits
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -661,6 +673,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Post Copy
 
+```
 Five RFP scoring terms decide which PBM wins your renewal. Most plan sponsors never audit the scoring methodology before sending the RFP.
 
 I review hundreds of PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using. The headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
@@ -682,10 +695,13 @@ The RFP scoring methodology is the most consequential design decision in the ren
 Save this for your next RFP design meeting.
 
 #PBMContracts #PBMRFP #SelfFundedEmployers
+```
 
 #### First Comment
 
+```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the RFP scoring methodology before sending it (weights vs. priorities, baseline normalization, scenario modeling). Plus a paste-ready RFP Scoring Methodology Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
 
 #### Marked-Up Contract Page Image Generation Prompt
 
@@ -718,11 +734,13 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
+```
 Five RFP scoring methodology terms decide which PBM wins your renewal before the proposals arrive. Weighting, normalization, scenario testing, scoring rubrics, and tiebreaker rules each open or close the door for a different vendor.
 
 Ginny Crisp decodes the scoring terms.
 
 #PBMRFP #PlanSponsors #PharmacyBenefits
+```
 
 ---
 
@@ -735,6 +753,7 @@ Ginny Crisp decodes the scoring terms.
 
 #### Post Copy
 
+```
 Your PBM calls it a "customized formulary." Customized for whom?
 
 Years ago we reviewed a client's formulary and asked a simple question: how does your drug list differ from the PBM's standard book of business formulary? After some digging, the answer was that it did not differ at all. The "customized" formulary was identical to what every other client on that PBM received.
@@ -742,10 +761,13 @@ Years ago we reviewed a client's formulary and asked a simple question: how does
 The formulary is where PBM rebate economics meet clinical decision-making. Whose interests win that contest determines what your members pay and what your plan spends.
 
 Next week: who really controls your drug list, and the seven questions that reveal the answer.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Formulary Management in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

@@ -405,6 +405,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 #### Post Copy
 
+```
 The cost containment levers that work are not new. The reason most plans underuse them is timing.
 
 Lever 1: Biosimilar coverage repositioning. When a Humira, Stelara, or Enbrel biosimilar launches, the PBM's default tier placement runs at non-preferred for six to nine months. Plans that wait for the PBM to re-tier pay the spread for that entire window. Plans that pre-position with their broker capture savings from the launch month.
@@ -416,10 +417,13 @@ Lever 3: PA criteria reset on Q4/Q1 launches. New molecules show up in claims be
 Each lever has a window. The window closes on its own schedule, not the renewal cycle's.
 
 #PBMContracts #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 Monday's Benefit Blind Spots deep dive on the PBM RFP process is the operational follow-on: the 4-6 month timeline, the scoring methodology framework, and the contract negotiation phase that decides which lever above lands first. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 #### Image Layout Spec
 
@@ -462,11 +466,13 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white b
 
 #### Reshare Copy
 
+```
 Three cost containment levers consistently get activated too late: biosimilar repositioning before launch, infusion site-of-care steering, and PA on Q4/Q1 launches. Each has a window. None match the renewal cycle.
 
 Ginny Crisp walks through what the windows look like and how to catch them.
 
 #PBMContracts #PlanSponsors #EmployeeBenefits
+```
 
 ---
 
@@ -475,6 +481,7 @@ Ginny Crisp walks through what the windows look like and how to catch them.
 
 #### Post Copy
 
+```
 You sent a 50-page RFP. Your PBM sent a 50-page response. Neither document tells you what you will actually pay.
 
 PBM RFP responses are engineered to win evaluations. Every response team knows exactly how to present pricing, rebates, and clinical programs in the most favorable light. That is their job. They are good at it.
@@ -488,10 +495,13 @@ Standard RFP questions allow good-sounding answers that commit to nothing specif
 I have evaluated PBM proposals where three responses looked competitive on paper. When we normalized the methodologies and asked specific follow-up questions, one was substantially more expensive than the others despite appearing cheapest on the cover page.
 
 The fix is not a longer RFP. It is 30 specific follow-up questions with 0-3 scoring on each answer, where a vague response costs points. Your broker can add that layer. The best ones already do.
+```
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on the PBM RFP process is the operational follow-on: the 4-6 month RFP timeline and the proposal-normalization framework. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -508,11 +518,13 @@ This week's Benefit Blind Spots deep dive on the PBM RFP process is the operatio
 
 #### Post Copy
 
+```
 The PBM RFP timeline most employers underestimate.
 
 RFP development. Distribution. Response evaluation. Finalist presentations. Selection. Contract negotiation. Implementation. Each phase takes longer than planned and matters more than expected.
 
 #PBMRFP #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### Whiteboard Carousel Slides
 
@@ -539,6 +551,7 @@ RFP development. Distribution. Response evaluation. Finalist presentations. Sele
 
 #### Post Copy
 
+```
 Five disclosures your PBM owes you every year. Most plan sponsors receive only one of them.
 
 I review hundreds of PBM contracts a year at PBS. The disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.
@@ -560,6 +573,7 @@ The disclosure clause is the contract. The actual delivery is the audit. The gap
 Save this for your next quarterly review.
 
 #PBMContracts #PBMTransparency #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -601,11 +615,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Five disclosure clauses in nearly every PBM contract require the PBM to surface specific data to the plan. Most plan sponsors receive only one (the standard quarterly report). The other four sit silent until asked.
 
 Ginny Crisp decodes the disclosure obligations.
 
 #PBMTransparency #PBMContracts #PharmacyBenefits
+```
 
 ---
 
@@ -614,6 +630,7 @@ Ginny Crisp decodes the disclosure obligations.
 
 #### Post Copy
 
+```
 Your PBM reports $3 million in clinical program savings. Can you verify a single dollar?
 
 Prior authorization. Step therapy. Drug utilization review. Medication therapy management. Specialty management. Your PBM reports savings from each. The methodology behind those numbers is rarely shared. When we audit the methodology, the verified savings are often a fraction of the reported number.
@@ -621,10 +638,13 @@ Prior authorization. Step therapy. Drug utilization review. Medication therapy m
 The PBM counts avoided costs that were never going to occur. They attribute formulary-driven savings to clinical programs that had nothing to do with the outcome.
 
 Next week: clinical program ROI, and the scorecard that separates real savings from reported savings.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Clinical Program ROI in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

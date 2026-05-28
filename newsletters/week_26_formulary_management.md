@@ -378,6 +378,7 @@ Formulary decision audit on Substack.
 
 #### Post Copy
 
+```
 Your PBM calls it a customized formulary. But who made the decisions?
 
 The P&T committee reviews the clinical evidence. The contracting team negotiates the rebates. When both point to the same drug, the system works. When they point to different drugs, rebate economics usually win.
@@ -387,10 +388,13 @@ The drug on your preferred tier may be there because it is the best clinical opt
 Here is what the contract actually gives you the right to see.
 
 #Formulary #SpecialtyPharmacy #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 More in this week's Pharmacy Benefits Briefing on formulary management: [LINKEDIN NEWSLETTER URL]
+```
 
 #### Image Layout Spec
 
@@ -433,6 +437,7 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render 
 
 #### Reshare Copy
 
+```
 Most employers never decided which drugs sit on their formulary. The PBM did, using rebate math the plan sponsor rarely sees.
 
 Higher rebate does not always mean lower net cost.
@@ -440,6 +445,7 @@ Higher rebate does not always mean lower net cost.
 Ginny Crisp walks through how to ask for the net cost analysis that exposes the difference.
 
 #Formulary #SelfFundedEmployers #EmployeeBenefits
+```
 
 ---
 
@@ -455,6 +461,7 @@ Ginny Crisp walks through how to ask for the net cost analysis that exposes the 
 
 #### Post Copy
 
+```
 Your formulary was built for your PBM's rebate strategy. Not your members' health.
 
 That sounds provocative. Let me explain what I mean.
@@ -468,6 +475,7 @@ For the PBM, that is rational. For your plan, it depends entirely on whether the
 The fix is not removing the PBM from formulary management. They have the clinical infrastructure to do it well. The fix is asking for the data that reveals whose interests the formulary serves. One question: what is the net cost comparison between our current formulary and alternatives?
 
 That one question changes the conversation.
+```
 
 #### VIDEO SCRIPT OPTION (50 seconds, filmed on phone)
 
@@ -509,7 +517,9 @@ One question changes the conversation: what is the net cost, our formulary vs. a
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on formulary management and PBM rebate economics is the operational follow-on: the formulary evaluation framework with the 4 questions to ask your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -528,6 +538,7 @@ This week's Benefit Blind Spots deep dive on formulary management and PBM rebate
 
 #### Post Copy
 
+```
 Seven questions that reveal whether your formulary serves your plan or your PBM's rebate strategy.
 
 Most employers have never asked these questions. Most PBMs have never been asked to answer them.
@@ -537,6 +548,7 @@ The formulary is the most consequential financial document in your pharmacy bene
 Swipe through the audit.
 
 #Formulary #PlanSponsors #EmployeeBenefits
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -617,6 +629,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Post Copy
 
+```
 Five contract clauses govern step therapy overrides. The override workflow is rarely what the clauses describe.
 
 I review hundreds of PBM contracts a year at PBS. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
@@ -638,10 +651,13 @@ The override clause is the contract. The workflow is the operations. The gap is 
 Save this for your next quarterly review.
 
 #PBMContracts #StepTherapy #SelfFundedEmployers
+```
 
 #### First Comment
 
+```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual override workflow (approval rate, denial reason mix, contract clause vs. workflow comparison). Plus a paste-ready Step Therapy Override Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
 
 #### Sticky Note Dashboard Image Generation Prompt
 
@@ -680,11 +696,13 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
+```
 Five terms in the step therapy override clause decide whether members reach the right drug or absorb months of trial-and-fail. Turnaround, evidence threshold, prescriber authority, exception scope, and appeal rights each set the bar.
 
 Ginny Crisp decodes the override language.
 
 #ClinicalPharmacy #PBMContracts #PharmacyBenefits
+```
 
 ---
 
@@ -697,6 +715,7 @@ Ginny Crisp decodes the override language.
 
 #### Post Copy
 
+```
 One question reveals everything about your PBM relationship.
 
 Not "what are my rebates?" Not "what is my GER?" Not "how does my trend compare?"
@@ -708,10 +727,13 @@ Most employers have never asked it. Not because the answer is hard to get. Becau
 Your PBM knows the market. Your broker knows the market. The question is whether you know it.
 
 Next week: when to stay, when to switch, and a 100-point scorecard that removes the guesswork.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on PBM Evaluation in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

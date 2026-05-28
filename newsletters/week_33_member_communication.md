@@ -390,6 +390,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 #### Post Copy
 
+```
 The brokers we work most often with are running the same five conversations with self-funded clients this quarter. Each one depends on a specific clause giving the broker standing to act.
 
 1. Biosimilar pipeline. Humira baseline. Stelara next. Enbrel follows. The tier-placement clause determines whether pre-launch positioning is even allowed.
@@ -405,10 +406,13 @@ The brokers we work most often with are running the same five conversations with
 Five clauses. Five conversations. I redlined each of them below.
 
 #BenefitsBrokers #PBMConsulting #EmployeeBenefits
+```
 
 #### First Comment
 
+```
 Full protective language for these five clauses lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -447,11 +451,13 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ca
 
 #### Reshare Copy
 
+```
 Five contract clauses anchor every Q4 broker-and-client conversation worth having. Each one moves the renewal-year decision from defensive to deliberate.
 
 Ginny Crisp walks through the five clauses and the redline brokers should bring to every fourth-quarter client meeting.
 
 #PBMContracts #BenefitsBrokers #PharmacyBenefits
+```
 
 ---
 
@@ -460,6 +466,7 @@ Ginny Crisp walks through the five clauses and the redline brokers should bring 
 
 #### Post Copy
 
+```
 You saved your plan six figures by moving from Humira to an adalimumab biosimilar. Your members think you took away their medication.
 
 That disconnect is not a failure of the clinical decision. It is a failure of the communication.
@@ -473,10 +480,13 @@ The second employer sent a specific letter 45 days out, naming the drug, explain
 Pharmacy changes are uniquely sensitive because members associate drug changes with quality-of-care changes. "Biosimilar transition" sounds like "cheaper substitute" to a member who does not know the clinical evidence. "Prior authorization" sounds like "barrier" to someone who needs medication.
 
 The fix is not better clinical rationale. It is better messaging: specific, early, and coordinated with prescribers before anyone writes to members. The communication is the implementation.
+```
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on communicating pharmacy changes is the operational follow-on: the 4-step member communication checklist with the language that works vs. backfires. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -515,6 +525,7 @@ This week's Benefit Blind Spots deep dive on communicating pharmacy changes is t
 
 #### Post Copy
 
+```
 Five contract clauses protect members during pharmacy benefit transitions. Most plan sponsors assume the protections execute automatically. They do not.
 
 I review hundreds of PBM contracts a year at PBS. The transition clauses are in nearly every contract. The audit of whether the protections actually executed during the past year's changes is rarely run. Members report disruption; the plan sponsor assumes the contract was followed; the PBM is following an operational playbook that may or may not match the contract.
@@ -536,6 +547,7 @@ The protections are written. The execution is not automatic. The audit is what c
 Save this for your next member-transition planning meeting.
 
 #PBMContracts #MemberExperience #SelfFundedEmployers
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -571,11 +583,13 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Reshare Copy
 
+```
 Five plan-document terms decide whether a pharmacy benefit change disrupts members or moves through cleanly. Continuity-of-care window, prior authorization grandfathering, formulary transition rules, network change notice, and refill protection.
 
 Ginny Crisp decodes the language plan sponsors should require before any change.
 
 #PBMContracts #MemberCommunication #EmployeeBenefits
+```
 
 ---
 
@@ -584,6 +598,7 @@ Ginny Crisp decodes the language plan sponsors should require before any change.
 
 #### Post Copy
 
+```
 Specialty pharmacy is the fastest-growing line item in your benefit plan. It is also the least independently managed.
 
 Your PBM manages specialty routing. Your PBM manages specialty formulary. Your PBM often owns the specialty pharmacy itself. At no point in that chain does the employer's cost objective enter the equation unless the contract requires it.
@@ -591,10 +606,13 @@ Your PBM manages specialty routing. Your PBM manages specialty formulary. Your P
 Eight management levers determine whether specialty cost is controlled or catastrophic. Most plans we review have gaps in at least half of them.
 
 Next week: specialty drug management, and the assessment that reveals where your gaps are.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Specialty Drug Management in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

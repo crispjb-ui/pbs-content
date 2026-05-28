@@ -343,6 +343,7 @@ Network cost comparison model on Substack.
 
 #### Post Copy
 
+```
 Specialty spend is not distributed evenly across therapeutic categories. Four are driving the 2026 trend in the plans we review.
 
 Category 1: GLP-1s for cardiovascular and kidney disease. The indication expansion is adding members who were not on GLP-1s for diabetes or obesity. Different qualifying criteria. Different PA structure. Different downstream spend pattern.
@@ -356,10 +357,13 @@ Category 4: Autoimmune biologics post-biosimilar launch. Humira biosimilars are 
 Each category has a different intervention. The intervention only works if the plan sees the category coming.
 
 #ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
+```
 
 #### First Comment
 
+```
 Monday's Benefit Blind Spots deep dive on network design walks through how each channel (retail, mail, specialty) produces different cost outcomes for the same drug, plus the audit framework for surfacing where your specialty dollars are actually going. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 #### Image Layout Spec
 
@@ -404,11 +408,13 @@ Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white b
 
 #### Reshare Copy
 
+```
 Four drug categories are driving 2026 specialty spend: GLP-1 indication expansion, anti-amyloid Alzheimer's infusions, gene therapies, and autoimmune biosimilars. Each needs a different intervention. None of them work as a reaction.
 
 Ginny Crisp walks through what the plan has to see coming.
 
 #ClinicalPharmacy #SelfFundedEmployers #EmployeeBenefits
+```
 
 ---
 
@@ -421,6 +427,7 @@ Ginny Crisp walks through what the plan has to see coming.
 
 #### Post Copy
 
+```
 Same drug. Retail pharmacy: one price. Mail order: different price. Specialty pharmacy: another price entirely. Same PBM managing all three channels.
 
 The channel where your member fills the prescription can change the cost more than the drug itself. We see it in claims data across every review we run.
@@ -432,6 +439,7 @@ The math is not hidden. Most employers never see it because PBM reporting presen
 Why would the PBM not present this comparison proactively? The default routing serves their network margins more than the plan's cost objectives. Particularly in specialty, where the PBM often owns the dispensing pharmacy. The routing was designed for PBM economics. Whether it was designed for yours is a question worth asking.
 
 One data request: net cost per script by dispensing channel, for your top 10 drugs by spend. That comparison tells the network design story.
+```
 
 #### VIDEO SCRIPT OPTION (50 seconds)
 
@@ -459,7 +467,9 @@ One data request: net cost per script by dispensing channel, for your top 10 dru
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on pharmacy network design is the operational follow-on: the network channel comparison framework + audit-rights checklist. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -476,6 +486,7 @@ This week's Benefit Blind Spots deep dive on pharmacy network design is the oper
 
 #### Post Copy
 
+```
 Five pharmacy channels. Five different cost profiles. One comparison most employers have never run.
 
 Retail. Mail order. Specialty. White bagging. Home infusion. Each handles different drug types at different costs. The default routing was set by the PBM. Whether it was set for your plan's cost objectives is the question.
@@ -483,6 +494,7 @@ Retail. Mail order. Specialty. White bagging. Home infusion. Each handles differ
 Here is the channel-by-channel breakdown.
 
 #NetworkDesign #SelfFundedEmployers #EmployeeBenefits
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -548,6 +560,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Post Copy
 
+```
 Five terms decide whether your generic effective rate guarantee actually applies to your plan's generic spend. The PBM controls four of them.
 
 I review hundreds of PBM contracts a year at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
@@ -569,10 +582,13 @@ The GER guarantee is the contract. The actual GER is the audit. The gap is the l
 Save this for your next quarterly review.
 
 #PBMContracts #GenericEffectiveRate #SelfFundedEmployers
+```
 
 #### First Comment
 
+```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual GER vs. the contracted guarantee (formula verification, gap calculation, exclusion list audit). Plus a paste-ready GER Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
 
 #### Chart-on-Whiteboard Image Generation Prompt
 
@@ -620,11 +636,13 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
+```
 Generic Effective Rate is one number that hides five contract definitions. Reconciliation methodology, claim universe, dispensing channel inclusion, brand-to-generic timing, and guarantee remediation each move the gap between guaranteed and actual.
 
 Ginny Crisp decodes the five GER terms.
 
 #PBMContracts #PharmacyCosts #PharmacyBenefits
+```
 
 ---
 
@@ -637,6 +655,7 @@ Ginny Crisp decodes the five GER terms.
 
 #### Post Copy
 
+```
 Your PBM reports $2 million in rebates. Your plan's total drug cost went up. Both statements are accurate. Both come from the same data.
 
 The disconnect is not a math error. It is a reporting choice. The PBM shows you the metric that makes their performance look strong. The metric that matters to your plan tells a different story.
@@ -644,10 +663,13 @@ The disconnect is not a math error. It is a reporting choice. The PBM shows you 
 Rebate economics is the most manipulated element of PBM contracts. Not because the numbers are fabricated. Because the numbers are selected. What gets highlighted, what gets buried, and what never gets reported at all.
 
 Next week: rebate economics decoded. Eight contract provisions compared: weak vs. strong language.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Rebate Economics in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

@@ -509,6 +509,7 @@ Use the canonical "Contract Language Library" prompt from `newsletters/week_17_c
 
 #### Post Copy
 
+```
 Annual performance reviews are in every PBM contract. Most get treated as a PowerPoint from the PBM. The best brokers treat them as an audit — but only because the contract language lets them.
 
 Five clauses determine whether a performance review can actually do the work:
@@ -522,10 +523,13 @@ Five clauses determine whether a performance review can actually do the work:
 I redlined each of them below.
 
 #BenefitsBrokers #PBMConsulting #EmployeeBenefits
+```
 
 #### First Comment
 
+```
 Full protective language for these five clauses, plus seventeen more, lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -565,11 +569,13 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ca
 
 #### Reshare Copy
 
+```
 Five reporting clauses decide whether you can actually run a PBM review or whether the PBM controls what you see. Frequency, scope, data format, third-party access, and audit window each open the door or shut it.
 
 Ginny Crisp walks through the redline that gives the plan sponsor visibility.
 
 #PBMContracts #PBMRenewal #PharmacyBenefits
+```
 
 ---
 
@@ -584,6 +590,7 @@ Ginny Crisp walks through the redline that gives the plan sponsor visibility.
 
 #### Post Copy
 
+```
 Switching PBMs is disruptive. Staying with the wrong one is expensive. Here is how to know which cost is higher.
 
 I hear both pieces of advice constantly. "Just switch." "Just renegotiate." Both are oversimplified.
@@ -597,6 +604,7 @@ The question is not "are we frustrated with our PBM?" Frustration is subjective.
 Ten factors. Weighted scoring. Below 50: strong case for the market. 50-70: renegotiate with specific priorities. Above 70: optimize what you have.
 
 The score does not make the decision. It structures the decision so you are evaluating data instead of emotion. The best brokers run this analysis with their clients. If yours has not raised the question, bring the data to them. This is a conversation worth having before renewal, not during it.
+```
 
 #### VIDEO SCRIPT OPTION (50 seconds)
 
@@ -624,7 +632,9 @@ The score does not make the decision. It structures the decision so you are eval
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is the operational follow-on: the 10-factor PBM evaluation scorecard with stay-or-switch thresholds. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -641,6 +651,7 @@ This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is
 
 #### Post Copy
 
+```
 The PBM evaluation scorecard. 10 factors. 100 points. One answer.
 
 Pricing competitiveness. Rebate transparency. Clinical program quality. Reporting. Formulary independence. Service. Contract flexibility. Specialty management. Technology. Team stability.
@@ -650,6 +661,7 @@ Below 50: go to market. 50-70: renegotiate. Above 70: optimize.
 The decision should be data, not frustration. Score your PBM relationship before renewal, not during it.
 
 #PBMRFP #SelfFundedEmployers #PharmacyBenefits
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -700,6 +712,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Post Copy
 
+```
 Five revenue streams flow from your plan to your PBM. Most plan sponsors only track one of them.
 
 I review hundreds of PBM contracts a year at PBS. Aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four streams are where the rest sits. The contract authorizes them; the disclosure obligations rarely require the PBM to show them.
@@ -721,10 +734,13 @@ The headline fee is the cover. The four streams above are where the economics li
 Save this for your next compensation audit.
 
 #PBMContracts #PBMCompensation #SelfFundedEmployers
+```
 
 #### First Comment
 
+```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the contract to identify which compensation mechanisms apply, estimate the dollar magnitude of each, and map the disclosure gap. Plus a paste-ready PBM Compensation Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
 
 #### Ledger Annotated Image Generation Prompt
 
@@ -772,11 +788,13 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 #### Reshare Copy
 
+```
 PBM compensation extends well past the headline administration fee. Five revenue stream terms in the contract control where the rest sits.
 
 Ginny Crisp decodes the five streams and how plans surface them.
 
 #PBMTransparency #PBMContracts #PharmacyBenefits
+```
 
 ---
 
@@ -789,6 +807,7 @@ Ginny Crisp decodes the five streams and how plans surface them.
 
 #### Post Copy
 
+```
 There is a number your PBM hopes you never calculate. It is not your rebate total. It is not your GER. It is not your PMPM.
 
 It is the cost per script by dispensing channel.
@@ -798,10 +817,13 @@ Same drug. Retail pharmacy: one price. Mail order: different price. Specialty ph
 The channel where your member fills the prescription can change the cost more than the drug itself. Most employers have never compared across channels because the data is not presented that way. The PBM knows the comparison. You do not.
 
 Next week: pharmacy network design, and the five-channel cost model that reveals where the money goes.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Pharmacy Network Design in your inbox: benefitblindspots.substack.com
+```
 
 ---
 

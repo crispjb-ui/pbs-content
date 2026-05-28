@@ -562,6 +562,7 @@ A clean, editorial flat-design digital graphic at 2240 x 1260 pixels with a soli
 
 #### Post Copy
 
+```
 Mid-year claims reviews surface the same cost patterns across most self-funded plans. Each one traces back to a specific clause most employers never read.
 
 Pattern 1: Specialty concentration. A single drug on the Humira, Stelara, or Keytruda tier eats a disproportionate share of H1 spend. The clause behind it: specialty routing and affiliated-pharmacy permissions.
@@ -575,10 +576,13 @@ Each pattern costs the plan money. Each one is visible in H1 data. Each one is c
 I redlined each of them below.
 
 #PharmacyCosts #SelfFundedEmployers #EmployeeBenefits
+```
 
 #### First Comment
 
+```
 The full protective language for these three clauses, plus twelve more, is in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+```
 
 #### Carousel Slide-by-Slide Spec
 
@@ -619,11 +623,13 @@ Claude Design project type: **Slide deck from template**. Use the Contract Compa
 
 #### Reshare Copy
 
+```
 Three contract clauses sit behind nearly every cost pattern that surfaces at mid-year claims review. Specialty routing, PA discipline language, and channel-steering provisions each turn a visible pattern into either a closeable gap or a structural absorb.
 
 Ginny Crisp walks through the redline that converts each.
 
 #PBMContracts #PlanSponsors #PharmacyBenefits
+```
 
 ---
 
@@ -638,6 +644,7 @@ Ginny Crisp walks through the redline that converts each.
 
 #### Post Copy
 
+```
 Your PBM has already run your H1 numbers. They know your trend. They know your rebate position. They know where your guarantees fell short.
 
 They are using that information right now to prepare their renewal strategy.
@@ -655,6 +662,7 @@ The window between H1 close and renewal season is where your negotiating positio
 June is not early. June is late.
 
 The best brokers and consultants are already pulling this data with their clients. If your advisory team has not started the H1 review, bring it up this week. This is the conversation that defines your renewal.
+```
 
 #### VIDEO SCRIPT OPTION (45 seconds, filmed on phone)
 
@@ -706,7 +714,9 @@ June is not early. June is late.
 
 #### First Comment
 
+```
 This week's Benefit Blind Spots deep dive on H1 review and H2 preview is the operational follow-on: the H1 benchmark dashboard with 5 metrics and the renewal readiness scorecard. [SUBSTACK MONDAY DEEP DIVE URL]
+```
 
 ---
 
@@ -725,6 +735,7 @@ This week's Benefit Blind Spots deep dive on H1 review and H2 preview is the ope
 
 #### Post Copy
 
+```
 H1 is done. Before renewal conversations begin, you need to know where you stand.
 
 These are the metrics that matter right now. The numbers that tell you whether your PBM is performing, where your costs are trending, and what leverage you carry into H2.
@@ -732,6 +743,7 @@ These are the metrics that matter right now. The numbers that tell you whether y
 Seven metrics. Seven benchmarks. The framework for every renewal conversation that follows.
 
 #MidYearReview #DrugPricing #PharmacyBenefits
+```
 
 #### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
 
@@ -797,6 +809,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 #### Post Copy
 
+```
 Five contract clauses govern mid-year amendments. Most plan sponsors never invoke any of them.
 
 I review hundreds of PBM contracts a year at PBS. The amendment trigger clause is in nearly every contract. The amendment letter is in almost no plan sponsor's inbox. H1 review surfaces a finding; the plan absorbs it for two more quarters; the renewal cycle inherits a worse position than necessary.
@@ -818,10 +831,13 @@ The amendment window costs nothing to invoke. The amendment letter forces a docu
 Save this for next quarter's H1 review.
 
 #PBMContracts #ContractAmendment #SelfFundedEmployers
+```
 
 #### First Comment
 
+```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually use the amendment window when H1 review surfaces a finding. Three steps (identify amendment-eligible findings, calculate the notice deadline, draft the amendment letter) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Contract Amendment Letter Template you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
 
 #### Marked-Up Contract Page Image Generation Prompt
 
@@ -854,11 +870,13 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 #### Reshare Copy
 
+```
 Five amendment clauses decide whether your contract changes on your terms or the PBM's. Notice period, scope, trigger events, plan-sponsor consent, and reversion rights each turn discretionary unless the contract names them specifically.
 
 Ginny Crisp decodes the redline on each.
 
 #PBMContracts #ContractLanguage #PharmacyBenefits
+```
 
 ---
 
@@ -871,6 +889,7 @@ Ginny Crisp decodes the redline on each.
 
 #### Post Copy
 
+```
 Your PBM's renewal team is already working. They have your H1 data. They have modeled scenarios. They know which terms they can move on and which they will hold firm.
 
 Your preparation should be at the same stage. If it is not, the next 90 days determine whether you negotiate from your own data or from their narrative.
@@ -880,10 +899,13 @@ Q3 on Benefit Blind Spots is built around one arc: renewal preparation. Formular
 Thirteen weeks. Every tool you need before you sit across from your PBM.
 
 The employers who prepare through the summer negotiate different outcomes in the fall. Every year, I watch the same pattern. Next week: the 90-day renewal countdown begins.
+```
 
 #### First Comment
 
+```
 Get next Monday's deep dive on Renewal Countdown in your inbox: benefitblindspots.substack.com
+```
 
 ---
 
