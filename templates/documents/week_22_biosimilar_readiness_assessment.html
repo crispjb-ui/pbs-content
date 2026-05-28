@@ -58,7 +58,7 @@
       width: 8.5in;
       height: 11in;
       margin: 24px auto;
-      padding: 0.5in 0.7in 0.95in 0.7in;
+      padding: 0.4in 0.7in 0.85in 0.7in;
       background: var(--paper);
       color: #1a1a1a;
       box-shadow: 0 10px 36px rgba(0,0,0,0.4);
@@ -104,7 +104,7 @@
        TITLE BLOCK (page 1 only)
        ============================================================ */
     .title-block {
-      margin-bottom: 20px;
+      margin-bottom: 12px;
     }
     .title-eyebrow {
       font-family: 'IBM Plex Sans', sans-serif;
@@ -122,11 +122,11 @@
     .title {
       font-family: 'IBM Plex Sans', sans-serif;
       font-weight: 600;
-      font-size: 26px;
+      font-size: 21px;
       line-height: 1.1;
       color: var(--primary);
       letter-spacing: -0.015em;
-      margin-bottom: 6px;
+      margin-bottom: 4px;
     }
     .title em {
       font-style: italic;
@@ -145,14 +145,14 @@
        SECTION
        ============================================================ */
     .section {
-      margin-bottom: 14px;
+      margin-bottom: 10px;
     }
     .section-head {
       display: flex;
       align-items: baseline;
       gap: 10px;
-      margin-bottom: 8px;
-      padding-bottom: 4px;
+      margin-bottom: 6px;
+      padding-bottom: 3px;
       border-bottom: 1px solid var(--rule);
     }
     .section-num {
@@ -181,7 +181,7 @@
       line-height: 1.55;
       color: #222;
     }
-    .section p { margin-bottom: 10px; }
+    .section p { margin-bottom: 6px; }
     .section strong {
       font-weight: 600;
       color: var(--primary);
@@ -193,7 +193,7 @@
     .data-checklist {
       background: #FAFBFC;
       border-left: 3px solid var(--accent);
-      padding: 14px 18px;
+      padding: 10px 14px;
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 8px 24px;
@@ -233,7 +233,7 @@
       text-transform: uppercase;
       color: var(--white);
       background: var(--primary);
-      padding: 8px 10px;
+      padding: 5px 8px;
       text-align: left;
       border-right: 1px solid rgba(255,255,255,0.18);
     }
@@ -246,10 +246,10 @@
     .score-table tbody tr:last-child { border-bottom: 2px solid var(--primary); }
     .score-table tbody td {
       font-family: 'IBM Plex Sans', sans-serif;
-      font-size: 11px;
-      line-height: 1.4;
+      font-size: 10px;
+      line-height: 1.3;
       color: #1a1a1a;
-      padding: 7px 10px;
+      padding: 4px 7px;
       vertical-align: top;
     }
     .score-table td.metric {
@@ -449,9 +449,9 @@
       font-style: italic;
       font-size: 9.5px;
       color: var(--gray-2);
-      line-height: 1.4;
-      margin-top: 10px;
-      margin-bottom: 16px;
+      line-height: 1.3;
+      margin-top: 5px;
+      margin-bottom: 0;
     }
 
     /* ============================================================
@@ -494,7 +494,7 @@
   <div class="title-block">
     <span class="title-eyebrow">Biosimilar Readiness · Assessment</span>
     <h1 class="title">The Biosimilar Opportunity Your Plan Is Missing.</h1>
-    <p class="subtitle">A six-factor framework for evaluating whether your plan is capturing biosimilar savings, or leaving them on the table because the PBM's formulary serves rebate revenue better than it serves your bottom line.</p>
+    <p class="subtitle">Six factors for whether your plan is capturing biosimilar savings, or leaving them on the table because the PBM's formulary serves rebate revenue over your bottom line.</p>
   </div>
 
   <div class="section">
@@ -502,7 +502,7 @@
       <span class="section-num">01</span>
       <h2 class="section-title">Before You Score: Data to Pull from Your PBM</h2>
     </div>
-    <p>Request these items by therapeutic category for every drug class with an approved biosimilar in the U.S. market. The third item, net cost comparison, is the single most diagnostic data request in the entire assessment. If your PBM resists providing it, that resistance is itself a finding.</p>
+    <p>Request these by therapeutic category for every drug class with an approved biosimilar. The third (net cost comparison) is the single most diagnostic request. PBM resistance to providing it is itself a finding.</p>
 
     <div class="data-checklist">
       <div class="item"><span class="box"></span><span>Current formulary placement for each biosimilar vs. reference brand</span></div>
@@ -533,50 +533,49 @@
       <tbody>
         <tr>
           <td class="metric">Formulary positioning</td>
-          <td class="benchmark green"><span class="label">Strong</span>Biosimilar preferred tier with lower member cost-sharing than brand.</td>
-          <td class="benchmark yellow"><span class="label">Moderate</span>Biosimilar same tier as brand. No cost-sharing incentive.</td>
-          <td class="benchmark red"><span class="label">Weak</span>Biosimilar at higher tier, or not on formulary at all.</td>
+          <td class="benchmark green"><span class="label">Strong</span>Preferred tier; lower cost-share than brand.</td>
+          <td class="benchmark yellow"><span class="label">Moderate</span>Same tier as brand; no incentive.</td>
+          <td class="benchmark red"><span class="label">Weak</span>Higher tier than brand, or off-formulary.</td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
         </tr>
         <tr>
           <td class="metric">Auto-substitution policy</td>
-          <td class="benchmark green"><span class="label">Strong</span>Plan document explicitly addresses biosimilar substitution aligned with state law.</td>
-          <td class="benchmark yellow"><span class="label">Moderate</span>State law allows interchangeable substitution; plan document silent.</td>
-          <td class="benchmark red"><span class="label">Weak</span>No plan document language; pharmacist substitution unclear.</td>
+          <td class="benchmark green"><span class="label">Strong</span>Plan document addresses biosimilar substitution per state law.</td>
+          <td class="benchmark yellow"><span class="label">Moderate</span>State law allows; plan document silent.</td>
+          <td class="benchmark red"><span class="label">Weak</span>No plan language; substitution unclear.</td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
         </tr>
         <tr>
           <td class="metric">Rebate transparency</td>
-          <td class="benchmark green"><span class="label">Strong</span>Net cost comparison (after rebates) provided per category, on request or quarterly.</td>
-          <td class="benchmark yellow"><span class="label">Moderate</span>Aggregate rebate reporting; no net cost comparison.</td>
-          <td class="benchmark red"><span class="label">Weak</span>No net cost comparison available; rebate detail opaque.</td>
+          <td class="benchmark green"><span class="label">Strong</span>Net cost comparison provided per category.</td>
+          <td class="benchmark yellow"><span class="label">Moderate</span>Aggregate rebate reporting only; no net cost.</td>
+          <td class="benchmark red"><span class="label">Weak</span>No net cost comparison; rebate detail opaque.</td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
         </tr>
         <tr>
           <td class="metric">Provider education</td>
-          <td class="benchmark green"><span class="label">Strong</span>PBM actively communicates with prescribers; clinical evidence summaries provided.</td>
-          <td class="benchmark yellow"><span class="label">Moderate</span>PBM offers provider outreach but not consistently activated for your plan.</td>
-          <td class="benchmark red"><span class="label">Weak</span>No provider education program; prescriber awareness left to chance.</td>
+          <td class="benchmark green"><span class="label">Strong</span>Active PBM prescriber outreach; clinical summaries.</td>
+          <td class="benchmark yellow"><span class="label">Moderate</span>Outreach offered but not consistently activated.</td>
+          <td class="benchmark red"><span class="label">Weak</span>No provider education; awareness left to chance.</td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
         </tr>
         <tr>
           <td class="metric">Member communication</td>
-          <td class="benchmark green"><span class="label">Strong</span>Member communications address biosimilars by name; cost-sharing incentive explained.</td>
-          <td class="benchmark yellow"><span class="label">Moderate</span>General member communications; biosimilar topic surfaced reactively.</td>
-          <td class="benchmark red"><span class="label">Weak</span>Members first hear about biosimilars at the pharmacy counter.</td>
+          <td class="benchmark green"><span class="label">Strong</span>Member comms name biosimilars; incentive explained.</td>
+          <td class="benchmark yellow"><span class="label">Moderate</span>General member comms; biosimilars surfaced reactively.</td>
+          <td class="benchmark red"><span class="label">Weak</span>Members first hear at the pharmacy counter.</td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
         </tr>
         <tr>
           <td class="metric">Contract language</td>
-          <td class="benchmark green"><span class="label">Strong</span>PBM contract includes biosimilar dispensing-rate guarantees with remediation.</td>
-          <td class="benchmark yellow"><span class="label">Moderate</span>Contract references biosimilars but lacks dispensing or net-cost guarantees.</td>
-          <td class="benchmark red"><span class="label">Weak</span>Contract silent on biosimilars. PBM has no obligation to prioritize them.</td>
+          <td class="benchmark green"><span class="label">Strong</span>Biosimilar dispensing guarantees with remediation.</td>
+          <td class="benchmark yellow"><span class="label">Moderate</span>Biosimilars referenced; no dispensing or net-cost guarantees.</td>
+          <td class="benchmark red"><span class="label">Weak</span>Silent on biosimilars; PBM has no obligation.</td>
           <td class="your-score"><div class="chips"><span class="chip g"></span><span class="chip y"></span><span class="chip r"></span></div></td>
         </tr>
       </tbody>
     </table>
 
-    <p class="disclaimer">Illustrative scoring framework for educational purposes. Actual readiness varies by plan. Three or more Weak scores typically signals meaningful unrealized biosimilar savings. Factor 3 (rebate transparency) is the single most diagnostic data point: if you do one thing, request the net cost comparison.</p>
   </div>
 
   <footer class="footer">
@@ -602,42 +601,6 @@
   <div class="section">
     <div class="section-head">
       <span class="section-num">03</span>
-      <h2 class="section-title">Categories with Approved Biosimilars to Audit</h2>
-    </div>
-    <p>For each therapeutic category below, request the net cost comparison from your PBM and verify formulary placement. These are the categories where biosimilar savings opportunities most often go unrealized.</p>
-
-    <table class="fee-table">
-      <tr>
-        <td class="fee-name">Adalimumab biosimilars</td>
-        <td class="fee-range">Reference: Humira</td>
-        <td class="fee-note">Multiple biosimilars approved. The largest savings opportunity in most plans; check formulary tier and net cost first.</td>
-      </tr>
-      <tr>
-        <td class="fee-name">Infliximab biosimilars</td>
-        <td class="fee-range">Reference: Remicade</td>
-        <td class="fee-note">Long-established biosimilars. Typically administered via medical benefit; site-of-care also matters.</td>
-      </tr>
-      <tr>
-        <td class="fee-name">Rituximab biosimilars</td>
-        <td class="fee-range">Reference: Rituxan</td>
-        <td class="fee-note">Oncology and rheumatology indications. Net cost comparison varies meaningfully by plan rebate structure.</td>
-      </tr>
-      <tr>
-        <td class="fee-name">Trastuzumab / Bevacizumab biosimilars</td>
-        <td class="fee-range">Reference: Herceptin / Avastin</td>
-        <td class="fee-note">Oncology. Site-of-care, channel routing, and clinical pathway alignment all influence realized savings.</td>
-      </tr>
-      <tr>
-        <td class="fee-name">Pegfilgrastim biosimilars</td>
-        <td class="fee-range">Reference: Neulasta</td>
-        <td class="fee-note">Supportive oncology care. Established biosimilar competition; high adoption is achievable when formulary aligns.</td>
-      </tr>
-    </table>
-  </div>
-
-  <div class="section">
-    <div class="section-head">
-      <span class="section-num">04</span>
       <h2 class="section-title">Optimization Actions by Factor</h2>
     </div>
 
