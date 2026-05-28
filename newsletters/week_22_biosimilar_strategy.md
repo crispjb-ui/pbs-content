@@ -346,6 +346,30 @@ This week's Benefit Blind Spots includes a **biosimilar readiness assessment**: 
 
 *Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions. Reach the team at team@rxbs.org.*
 
+---
+
+### Newsletter Title Options
+
+The LinkedIn newsletter title is also the post's SEO headline. Pick one before scheduling:
+
+1. **The biosimilar opportunity your plan is missing** (matches the Substack deep dive title — conventional move, cleanest cross-channel consistency)
+2. **When a biosimilar is available, why does your plan still pay brand prices?** (confrontational question opener, PBM as implicit named actor)
+3. **Six factors that decide whether your plan captures biosimilar savings** (number-led, action-oriented)
+
+### LinkedIn Newsletter Publish Post Copy
+
+**Post Copy (~68 words):**
+
+New issue of The Pharmacy Benefits Briefing.
+
+When a biosimilar is available, why does your plan still pay brand prices? Often because higher brand rebates pay the PBM better than the biosimilar pays your plan.
+
+This briefing breaks down the economics, the six factors that determine whether your plan captures biosimilar savings, and the one data request that surfaces the gap.
+
+Biosimilar readiness assessment on Substack.
+
+#Biosimilars #SelfFundedEmployers #PharmacyBenefits
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 77 - Tuesday 8:30 AM
