@@ -875,6 +875,126 @@ A broker called me once to say her client had asked for a renewal review from me
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md`):** 3 scheduled posts/day + same-hour reactions on top when PBM news breaks. **NOT locked to Monday's renewal-countdown topic** — X skews to the Cuban-bait shapes and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention). Hold the PM slot loosely for a live news-reaction bump; tag the source.
+>
+> **LinkedIn-first rule (required):** this is a **Library 04 week** (Tue contract-comparison carousel on Termination / Performance Remediation — the Whiteboard slot in the header is paused per CLAUDE.md and replaced by Library 04). (1) the **Library 04 carousel** publishes Tue 8:30 AM — the Tue PM Library driver is scheduled AFTER it and routes to the Contract Library. (2) the **Thu Slot C "5 Questions About Your PBM Contract Renewal" carousel** publishes Thu 8:30 AM — its material does NOT appear in Mon-Wed slots; the Thu midday amplifier runs AFTER the 8:30 publish. AM slots lead with the named-adversary shape.
+
+**Mon Jun 22**
+- **AM — named-adversary / channel-pricing (proven W21 template, insulin):**
+```
+Same insulin. Filled at the corner pharmacy, one price. Filled by the PBM's mail-order arm, another. The PBM set both, then nudged your member toward the one it profits from most. The "convenience" of mail order has a price tag, and your plan is paying it.
+```
+- **Midday — decoder (auto-renewal clock):**
+```
+Your PBM contract "auto-renews" unless you give notice 90 to 180 days out. Miss the window and you're locked into another full term at rates you never reopened. The renewal clock started before you knew it was running.
+```
+- **PM — punchy:**
+```
+A PBM renewal isn't a negotiation you start in Q4. It's one your PBM started planning the day the last contract was signed. Ninety days out is late, not early.
+```
+
+**Tue Jun 23**
+- **AM — dollar comparison (rebate aggregator skim):**
+```
+Your plan was promised "100% of rebates." The manufacturer paid $1,000 per script. A middleman the PBM owns took $300 first. You got 100% of the $700 that was left, and a report that called it 100%.
+```
+- **Midday — structural / news-adjacent (hold for a reactive bump):**
+```
+Notice how every PBM contract lets the PBM amend terms mid-term "with notice," but locks the plan sponsor in until renewal? The flexibility runs one direction. That's not a partnership. It's a lease where only the landlord can change the rent.
+```
+- **PM — Library 04 driver (Termination / Performance Remediation — SCHEDULE AFTER the 8:30 AM Tue carousel publishes):**
+```
+Every PBM contract says you can leave. The clauses that decide whether you can leave clean: who owns your claims data on the way out, how runout claims get priced, and whether the PBM faces any penalty for missing its guarantees. Most contracts answer all three in the PBM's favor.
+```
+  - **First reply (link):**
+```
+The protective termination and performance-remediation language is in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+```
+
+**Wed Jun 24**
+- **AM — named-adversary / vertical integration:**
+```
+When your PBM, your mail-order pharmacy, your specialty pharmacy, and your rebate aggregator are all the same company wearing four name tags, "negotiation" is just that company moving money between its own pockets and billing you for the motion.
+```
+- **Midday — decoder (audit rights at renewal):**
+```
+"Audit rights" in most PBM contracts mean: once a year, the PBM's auditor, the PBM's selected records, the PBM decides if findings count. Renewal is your one moment to rewrite that into a real right. After you sign, the flashlight is whatever they handed you.
+```
+- **PM — stat-shock / structural:**
+```
+The big three PBMs extract more in quiet spread and fees than they ever lose to the denial headlines everyone argues about. The outrage goes to the denials. The money lives in the contract language. Plan sponsors keep watching the wrong hand.
+```
+
+**Thu Jun 25**
+- **AM — named-adversary / definitions trick (protects the 8:30 AM Thursday reveal):**
+```
+Your renewal quote will look great on the headline discount. Then check the definitions page: how "brand," "generic," and "specialty" are defined. A PBM can hit any discount you want by reclassifying drugs into the bucket with the softest guarantee. The discount is real. The definition is the trick.
+```
+- **Midday — Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot C "5 Questions About Your PBM Contract Renewal" carousel]`:**
+```
+Five questions to ask before you sign a PBM renewal. Not "what's the discount." The five your PBM hopes you skip: how are the drug categories defined, what's the spread, who owns the data, what are the audit limits, and what happens if you leave. Today's breakdown:
+```
+  - **First reply (link):**
+```
+The three conversations to have before renewal season, with who to have them with, are in today's field note: [paste live Field Note URL after Thu 7:30 AM publish]
+```
+- **PM — punchy:**
+```
+Three conversations before renewal season: one with your broker, one with your CFO, and one with the contract you've never actually read. The third is the one that saves the money.
+```
+
+**Fri Jun 26**
+- **AM — named-adversary / formulary (after the 8:30 AM Friday tease; teases W26):**
+```
+Your drug list looks like a clinical document. It's a financial one. Which drugs are "preferred" tracks rebate dollars more reliably than it tracks outcomes. You didn't build your formulary. Your PBM's rebate strategy did.
+```
+- **Midday — decoder (formulary control):**
+```
+"Formulary" just means the list of drugs your plan covers and at what tier. You'd assume your plan controls it. In most contracts the PBM does, and it can move drugs between tiers mid-year to chase a better rebate. Your members feel it as a coverage change. The PBM books it as revenue.
+```
+- **PM — synthesis:**
+```
+Renewal season is the one window where the leverage flips back to the plan sponsor. You can walk. They know it. Everything in the PBM-written contract is built to make walking feel harder than it is.
+```
+
+**Sat Jun 27** (lighter, still adversary-skewed)
+- **AM — best-kept-secret (rebate aggregator):**
+```
+A middleman most plan sponsors have never heard of: the rebate aggregator. Your PBM owns one. Manufacturer rebates route through it first, it takes a cut, and only then does the "pass-through" begin. It's a toll booth your PBM built on its own road.
+```
+- **Midday — dollar comparison (specialty rebate gap):**
+```
+A specialty drug with a $30,000 annual cost. The manufacturer's rebate on it can run 40%. Your plan often sees a fraction of that, because the contract defines "rebate" narrowly enough to leave most of it behind. The gap is the business.
+```
+- **PM — punchy:**
+```
+Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+```
+
+**Sun Jun 28**
+- **AM — synthesis / structural:**
+```
+The PBM industry's best defense is complexity. Spread, DIR, effective rate, rebate aggregation, formulary tiering: each layer is a place to hide a margin and a reason you "couldn't possibly audit it." Complexity isn't a side effect. It's the product.
+```
+- **Midday — decoder + GLP-1 amplifier:**
+```
+Your PBM put a specific GLP-1 in the "preferred" slot. Ask why. If the answer is about outcomes, you'll get data. If it's about rebates, you'll get a pause. The pause is the answer, and it's costing your plan.
+```
+- **PM — origin (the one allowed this week):**
+```
+I didn't set out to read contracts for a living. I set out to help people afford their prescriptions. Turns out the price was decided in a contract nobody at the pharmacy counter ever saw. So I learned to read the contract.
+```
+
+> **Content-mix check (21 posts):** ~8 named-adversary / dollar-comparison ≈ 40% ✓ · ~6 decoders ✓ · ~3 structural/synthesis (news reactions additive) ✓ · ~3 punchy · 1 origin (Sun PM, capped) ✓. Library 04 driver (Tue PM, after publish) and Thursday Slot C amplifier (after publish) both present; GLP-1 amplifier Sun Midday.
+
+## Same-hour reaction log — W25 (fill as news breaks)
+
+_No scheduled entries. Fire same-hour reactions on PBM news Jun 22-26; tag the source. Straight reply to engage an amplifier; quote-post for a standalone take to Ginny's audience. Log method, views, and amplification events (like-only vs. repost/quote)._
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)

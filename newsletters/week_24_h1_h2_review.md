@@ -1015,6 +1015,126 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md`):** 3 scheduled posts/day + same-hour reactions fired on top when PBM news breaks. **NOT locked to Monday's H1/H2-review topic** — X skews to the Cuban-bait shapes (dollar comparison, named-adversary, decoder, vertical integration) and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention) so they paste clean. Hold the PM slot loosely for a live news-reaction bump; tag the source.
+>
+> **LinkedIn-first rule (required):** (1) the **Tue contract-comparison carousel** (cost-pattern clauses) publishes Tue 8:30 AM — the Tue PM clause driver is scheduled AFTER it. (2) the **Thu Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel** publishes Thu 8:30 AM — its material does NOT appear in the Mon-Wed slots, and the Thu midday amplifier runs AFTER the 8:30 publish. AM slots lead with the named-adversary shape (the W21 performer's shape).
+
+**Mon Jun 15**
+- **AM — named-adversary / vertical integration:**
+```
+Your PBM negotiates your drug prices with a pharmacy its own parent company owns. Then it reports the "savings" it won against itself. You're paying a referee to bet on a game it's also playing.
+```
+- **Midday — decoder (mid-year reporting):**
+```
+Your PBM's mid-year report shows aggregate numbers because aggregates hide the trend lines. Specialty creeping up. Generic efficiency slipping. Rebate-per-claim drifting. The summary is built to reassure. The detail is where your renewal is already being decided.
+```
+- **PM — punchy:**
+```
+By the time your PBM "presents" renewal terms in Q4, the terms were set by data it collected in Q1. You're not negotiating. You're being shown the result.
+```
+
+**Tue Jun 16**
+- **AM — dollar comparison (specialty / site-of-care):**
+```
+One specialty drug. $8,000 at the PBM's mail-order pharmacy. $5,000 at the hospital outpatient site your plan tried to use. The PBM denied the cheaper site for "safety." It owns the expensive one.
+```
+- **Midday — structural / news-adjacent (hold for a reactive bump):**
+```
+The FTC spent two years studying PBMs and reached the conclusion plan sponsors reach after one contract review: the middleman profits more when drugs cost more. Every incentive in the chain runs the wrong direction.
+```
+- **PM — contract-clause carousel driver (SCHEDULE AFTER the 8:30 AM Tue LinkedIn carousel publishes):**
+```
+Mid-year cost patterns don't happen by accident. Specialty concentration, missed prior-auth on new launches, mail-order underuse: each one traces to a specific clause your PBM wrote permissively. The pattern is the symptom. The clause is the cause.
+```
+  - **First reply (link):**
+```
+The protective language for the clauses behind each pattern is in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+```
+
+**Wed Jun 17**
+- **AM — named-adversary / rebate incentive:**
+```
+The higher the list price, the bigger your PBM's rebate. So when a manufacturer raises a drug's price 9%, your PBM doesn't fight it. It profits from it. The rebate is a percentage, and a percentage of a bigger number is a bigger check.
+```
+- **Midday — decoder (effective rate guarantee):**
+```
+"Effective rate guarantee" sounds like price protection. It's an average. The PBM hits the average by deep-discounting drugs nobody uses and marking up the ones everybody does. The guarantee is real. The savings are not.
+```
+- **PM — stat-shock / structural:**
+```
+Around 80% of U.S. specialty drug spend now flows through pharmacies the PBMs own. That share didn't grow because those pharmacies are better. It grew because the same companies write the rules that send the scripts there.
+```
+
+**Thu Jun 18**
+- **AM — named-adversary / formulary exclusion (protects the 8:30 AM Thursday reveal):**
+```
+Every year your PBM "excludes" dozens of drugs from the formulary. The list looks clinical. Cross-reference it with which manufacturers paid the biggest rebates and the clinical logic gets clearer. Exclusion is a negotiating weapon, and your members are the leverage.
+```
+- **Midday — Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel]`:**
+```
+Same diagnosis. Same drug. Two of your members. Wildly different out-of-pocket. The variable isn't health. It's which pharmacy the PBM steered each script to, and how the contract priced it. Today's breakdown:
+```
+  - **First reply (link):**
+```
+The five numbers that actually determine your renewal leverage are in today's field note: [paste live Field Note URL after Thu 7:30 AM publish]
+```
+- **PM — punchy:**
+```
+Five numbers decide your renewal leverage. Your PBM has all five. Mid-year is your last clean shot at getting them before the terms are written for you.
+```
+
+**Fri Jun 19**
+- **AM — named-adversary / specialty funnel:**
+```
+Audit where your specialty scripts actually get filled. In plan after plan, the answer is the PBM's own specialty pharmacy, reached through prior-auth rules the PBM wrote. Nobody picked it. The maze did.
+```
+- **Midday — decoder (pass-through vs transparent):**
+```
+"Pass-through pricing" and "transparent pricing" are not the same thing, and your PBM is counting on you not knowing the difference. Pass-through can still hide spread if the PBM defines what it "received." Transparent means you see the invoice. Most contracts promise the first and deliver neither.
+```
+- **PM — synthesis / forward (Q3 tie-in, after the 8:30 AM Friday tease):**
+```
+Half the plan year is gone. The claims that will define your renewal are already in your PBM's system. Q3 is when smart plan sponsors pull the data themselves. Q4 is when everyone else finds out what it said.
+```
+
+**Sat Jun 20** (lighter, still adversary-skewed)
+- **AM — best-kept-secret (spread pricing):**
+```
+Spread pricing is the trick hiding in plain sight: your PBM bills your plan one price for a drug, pays the pharmacy a lower one, and keeps the difference. Both numbers are real. Only one is on your report. Ask for both.
+```
+- **Midday — dollar comparison (generics):**
+```
+A 90-day supply of a common generic: about $12 cash. Run it through your PBM and the plan can pay five times that. The pill is identical. The markup is the middleman.
+```
+- **PM — punchy:**
+```
+Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+```
+
+**Sun Jun 21**
+- **AM — synthesis / structural:**
+```
+Every defense of the PBM model comes down to one claim: trust us, the savings are real, you just can't see them. In what other business do you accept "the savings are real but unverifiable" from the company keeping the difference?
+```
+- **Midday — decoder + GLP-1 amplifier:**
+```
+Your plan's GLP-1 spend is about to dwarf everything else. The formulary choice between them is being made on rebate size, not outcomes. Ask your PBM which GLP-1 is preferred and how much rebate it pays. Watch the room go quiet.
+```
+- **PM — origin (the one allowed this week):**
+```
+Twenty years ago I counted pills behind a pharmacy counter and watched patients put medicine back because of the price. I read PBM contracts now because that price was decided long before they reached my register. Same problem. Upstream.
+```
+
+> **Content-mix check (21 posts):** ~8 named-adversary / dollar-comparison ≈ 40% ✓ · ~6 decoders ✓ · ~3 structural/synthesis (news reactions additive on top) ✓ · ~3 punchy · 1 origin (Sun PM, capped) ✓. GLP-1 amplifier (Sun Midday) present; Thursday Slot B carousel amplified after publish.
+
+## Same-hour reaction log — W24 (fill as news breaks)
+
+_No scheduled entries. Fire same-hour reactions on PBM news Jun 15-19 (FTC actions, state PBM laws, Cuban/Ciaccia/Fein threads, payer disclosures); tag the source. Default to a straight reply on an amplifier's own post; quote-post for a standalone take to Ginny's own audience. Log method, views, and any amplification event (like-only vs. repost/quote)._
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)
