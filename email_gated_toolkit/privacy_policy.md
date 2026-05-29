@@ -62,9 +62,16 @@ rxbs.org uses cookies for:
 - **Essential functionality** (form submissions, language preferences)
 - **Analytics** through Wix Analytics and (optionally) Google Analytics
 - **Marketing attribution** (UTM parameters from email and ad campaigns)
+- **Repeat-download convenience** — when you download a Plan Sponsor Toolkit,
+  we store your name, email, company, and role locally in your browser so you
+  do not have to re-enter them the next time you request another toolkit. This
+  information stays on your device, is used only to pre-fill the download form,
+  and can be cleared at any time through your browser settings or the "Not you?"
+  option on the form.
 
-You can disable cookies through your browser settings. Disabling cookies
-may affect some site functionality.
+You can disable cookies and local storage through your browser settings.
+Doing so may affect some site functionality, including the repeat-download
+convenience above.
 
 ## Third-party services we use
 
