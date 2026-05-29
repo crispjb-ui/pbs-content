@@ -40,27 +40,23 @@
  *     Collection "ToolkitLeads" with fields:
  *       first_name (Text), email (Text), company (Text), role (Text),
  *       toolkit_name (Text), toolkit_slug (Text), repeat (Boolean)
- *     Permissions: allow "Anyone" / site visitors to ADD content
- *       (or move the insert to a backend .jsw — see HARDENING note at bottom).
+ *     Permissions: admin-only insert is fine — the backend module writes with
+ *       suppressAuth, so you do NOT need to allow public inserts.
  *
  *   Zapier: paste your live Catch Hook URL into CONFIG.zapierHook.
  * ------------------------------------------------------------------
  */
 
 import { local } from 'wix-storage';
-import { fetch } from 'wix-fetch';
-import wixData from 'wix-data';
+import { submitLead } from 'backend/toolkitLead';
+
+// The Zapier hook, Wix Contacts (CRM) write, ToolkitLeads logging, and the
+// repeat-detection all live in backend/toolkitLead.jsw. Paste your hook there.
 
 const CONFIG = {
-  // PASTE your live Zapier Catch Hook URL here:
-  zapierHook: 'https://hooks.zapier.com/hooks/catch/XXXXXXX/YYYYYYY/',
-
   // Set to true to HIDE the form for known visitors and show one-click instead.
   // false = pre-fill the form and let them click "Get the Worksheet" (recommended).
   oneClickForReturning: false,
-
-  // Internal log collection (set '' to skip internal logging).
-  logCollection: 'ToolkitLeads',
 
   storageKey: 'pbs_lead',
   datasetId: '#toolkitDataset',
@@ -146,28 +142,12 @@ $w.onReady(() => {
 
     setBusy(id.button, true);
     try {
-      // Remember for next time
+      // Remember for next time (client-side, this browser/device)
       local.setItem(CONFIG.storageKey, JSON.stringify(lead));
 
-      // Fire the email sequence (same hook the Wix Automation used)
-      await fetch(CONFIG.zapierHook, {
-        method: 'post',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ ...lead, toolkit_name: toolkitName }),
-      });
-
-      // Internal log (non-blocking — never fail the user over logging)
-      if (CONFIG.logCollection) {
-        wixData.insert(CONFIG.logCollection, {
-          first_name: lead.first_name,
-          email: lead.email,
-          company: lead.company,
-          role: lead.role,
-          toolkit_name: toolkitName,
-          toolkit_slug: toolkitSlug,
-          repeat: isReturning,
-        }).catch((e) => console.warn('ToolkitLeads insert failed:', e));
-      }
+      // Server-side: Wix Contact (CRM) + ToolkitLeads log + Zapier email
+      // sequence, with robust repeat detection (skips Emails 2-5 on repeats).
+      await submitLead(lead, toolkitName, toolkitSlug, isReturning);
 
       hide(id.formBox);
       hide(id.welcomeBack);
@@ -201,27 +181,14 @@ function setBusy(sel, busy) { const el = $w(sel); if (!el) return; if (busy) { e
 
 /*
  * ------------------------------------------------------------------
- * HARDENING (optional, do after launch):
- * The Zapier hook URL sits in client code above, so a bot could POST to it.
- * To hide it + control CMS inserts with elevated permissions, move both the
- * fetch and the wixData.insert into a backend web module and call it from here:
- *
- *   // backend/toolkitLead.jsw
- *   import { fetch } from 'wix-fetch';
- *   import wixData from 'wix-data';
- *   const HOOK = 'https://hooks.zapier.com/hooks/catch/XXXX/YYYY/';
- *   export async function submitLead(lead, toolkitName, toolkitSlug, repeat) {
- *     await fetch(HOOK, { method:'post', headers:{'Content-Type':'application/json'},
- *       body: JSON.stringify({ ...lead, toolkit_name: toolkitName }) });
- *     await wixData.insert('ToolkitLeads',
- *       { ...lead, toolkit_name: toolkitName, toolkit_slug: toolkitSlug, repeat },
- *       { suppressAuth: true });
- *   }
- *
- * Then in the page code:  import { submitLead } from 'backend/toolkitLead';
- * and replace the fetch + wixData.insert block with:
- *   await submitLead(lead, toolkitName, toolkitSlug, isReturning);
- * With the backend approach you can set the ToolkitLeads collection back to
- * admin-only insert (suppressAuth handles it server-side).
+ * This page code calls backend/toolkitLead.jsw (provided separately), which
+ * does the Wix Contacts (CRM) write, the ToolkitLeads log, the Zapier POST, and
+ * the repeat detection — all server-side. Benefits:
+ *   - Zapier hook URL stays off the client.
+ *   - CRM + CMS writes run with backend permissions (ToolkitLeads can be
+ *     admin-only insert; suppressAuth handles it server-side).
+ *   - `repeat` is decided server-side (email already in the log), so repeats are
+ *     caught even on a new browser/device.
+ * Paste your live Zapier hook into backend/toolkitLead.jsw, not here.
  * ------------------------------------------------------------------
  */
