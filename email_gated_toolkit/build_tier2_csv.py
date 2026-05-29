@@ -13,8 +13,10 @@ the live field Keys. The `Image`/preview field is intentionally NOT a column
 Placeholders to resolve after import:
   - pdf_url: upload the named PDF to Wix Media, paste the public URL.
   - second_toolkit_pdf_url: live for channel-pricing + pbm-compensation; others upload.
-  - field_note_*: drafted as a sensible pairing; CONFIRM the title + paste the live
-    Substack URL before Email 3 ships (same caveat the channel-pricing row carries).
+  - field_note_*: Option A (2026-05-29) routes Email 3 to the always-live Contract
+    Language Library for every row, so Email 3 never dead-links to an unpublished
+    Field Note. Each row's drafted dedicated field-note title/blurb is kept in the
+    data below (fn_title / fn_blurb) and swapped into that row as the Field Note ships.
 
 Run: python3 email_gated_toolkit/build_tier2_csv.py
 """
@@ -43,8 +45,16 @@ URL_PBMCOMP = "https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a
 def up(fname):
     return f"[Upload {fname} to Wix Media, paste URL]"
 
-def fn_url():
-    return "[CONFIRM title + paste live Substack Field Note URL before Email 3]"
+# Email 3 default destination (Option A, chosen 2026-05-29): until each toolkit's
+# dedicated Field Note publishes, Email 3 routes to the always-live evergreen
+# Contract Language Library so it never dead-links. Each row's drafted dedicated
+# field-note title/blurb is preserved below in `fn_title`/`fn_blurb` and swapped in
+# per row as that Field Note ships.
+LIBRARY_URL = "https://benefitblindspots.substack.com/p/pbm-contract-language-library"
+LIBRARY_TITLE = "The PBM Contract Language Library"
+LIBRARY_BLURB = ("Free and evergreen: the protective PBM contract language behind this "
+                 "audit, with the exact redlines to ask your PBM for. Drawn from the "
+                 "patterns we see across hundreds of contract reviews a year.")
 
 SUBTITLE = ("A 2-page printable {kind} PBS uses across 100s of PBM contract reviews "
             "annually. Free download. Sent to your inbox.")
@@ -638,9 +648,11 @@ def build_row(d):
         "second_toolkit_name": d["second_name"],
         "second_toolkit_pdf_url": d["second_url"],
         "second_toolkit_blurb": d["second_blurb"],
-        "field_note_title": d["fn_title"],
-        "field_note_blurb": d["fn_blurb"],
-        "field_note_url": fn_url(),
+        # Option A: evergreen Library default until the dedicated Field Note ships.
+        # Per-row dedicated copy is preserved in d["fn_title"] / d["fn_blurb"] for the swap.
+        "field_note_title": LIBRARY_TITLE,
+        "field_note_blurb": LIBRARY_BLURB,
+        "field_note_url": LIBRARY_URL,
     }
 
 def main():
