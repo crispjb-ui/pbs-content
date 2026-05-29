@@ -1245,7 +1245,67 @@ No documented Cuban signal on W20 posts at capture (May 22). User did not flag a
 
 ---
 
+### Week 20 Matured Snapshot (Day 7+, captured May 28, 2026)
 
+W20 day-7+ reads on the Wednesday and Thursday feed posts, plus the Friday tease that was "data pending" at the initial capture:
+
+| Post | Initial (day-1 to day-3) | Matured (Day 7+) | Multiplier |
+|------|---------------------------|-------------------|------------|
+| Warren-Hawley "PBMs shouldn't own the pharmacies they pay" Wednesday text (Wed May 20) | 2,163 / +1 / 10 comm / 5 rep / 3 saves (day 2) | **2,506 / +1 / 12 comm / 5 rep / 3 saves / 1 send / 12 profile** | 1.16× / comments held / no follower lift |
+| "5 Rebate Terms Decoded" Thursday messy infographic (Thu May 21) | 2,074 / +3 / 8 saves / 4 rep / 22 rx (day 1) | **6,284 / +14 / 27 saves / 6 rep / 34 rx / 2 comm / 24 profile / 5 button clicks** | 3.03× / **+14 follower lift** / **3.4× save lift** |
+| W20 Friday tease "Your PBM sends a quarterly report. Most are 14 pages…" (Fri May 22) | (data pending at initial snapshot) | 2,220 / +3 / 23 rx / 5 comm / 3 rep / 2 saves / 15 profile / 2 button clicks | new entry |
+
+**Refined W20 reads:**
+
+1. **The W20 Thursday "5 Rebate Terms Decoded" decoder is the conversion standout of the recent set, even though it missed the Thursday Excellence reach bar.** Matured to 6,284 (3× day-1 multiplier — between W19 Formulary's 4×→2,980 and W18 Channel Pricing's 7.5×→29,487). It did NOT clear the 17K reach standard, but it converted at **22.3 followers per 10K impressions** (14 followers / 6,284) — roughly 2× the top of the documented decoder band (9-12) and the highest per-impression follower conversion in the recent data set. Saves matured to **27 (0.43% save rate)**, W18-comparable bookmark behavior. The read: the rebate decoder shape + messy-infographic format on an 8:30 AM Thursday is a **conversion engine, not a reach engine** this round. Reach missed, but the post did the actual job (followers → newsletter auto-prompt). 5 Premium custom-button clicks = the gated toolkit lead-magnet button working on the feed post itself.
+
+2. **8:30 AM revert continues to hold for conversion.** The rebate decoder's +14 followers is the strongest single-post follower lift since the W18 Channel Pricing maturation (+29). Two of the three highest follower-lift posts of the cycle are now 8:30 AM messy-infographic decoders. Time-of-day is not the constraint; shape + format is what drives conversion.
+
+3. **W20 Friday tease broke the documented Friday-tease floor (500-1K) at 2,220 / +3 followers / 5 comments.** Prior text-only Friday teases (W18, W19 "Manufacturer money flows" at 755) floored at 500-1K. The difference here is structural: this tease previewed a **concrete itemized list** ("Total spend YTD. Generic dispensing rate. Mail-order penetration. Specialty…") rather than an abstract hook. The specific-list tease gave readers a reason to anticipate Monday's quarterly-reporting deep dive. **Friday-tease craft finding: itemized-preview teases outperform abstract-promise teases.** 3 followers on a Friday tease is notable — Friday is usually a near-zero conversion slot.
+
+4. **Warren-Hawley Wednesday matured to 2,506 with a 0.48% comment rate (12 / 2,506).** Engagement density stayed high (consistent with the W19/W20 finding that the named-adversary + verifiable-public-policy-event Wednesday shape drives comments), but raw reach stayed in the low thousands and produced no follower lift. The Wednesday named-policy shape is an **engagement/awareness** play, not a conversion play — confirms the decoder vs. POV split (decoder converts, POV engages).
+
+---
+
+### Week 21 Snapshot (May 25 - May 29, 2026) — opening reads, more posts to follow
+
+**Channel-by-channel headers (May 25 baseline, per CLAUDE.md):**
+
+- **LinkedIn Followers:** 1,903 (+37 since May 22; W21 anniversary personal post May 24 is the documented driver)
+- **LinkedIn Newsletter Subscribers:** 930 (+17 since May 22)
+- **Substack Subscribers:** ~80 (1 paid + ~79 free; +2 since May 22)
+
+#### Cuban Signal — REPOST (real amplification event)
+
+**Mark Cuban liked AND reposted the W21 Monday newsletter announcement (Quarterly Reporting Briefing).** This is a **repost, not likes-only**, so per the May 8 rule it is a genuine amplification event — the first since the April cluster / W17 carve-out POV (Apr 30). W18, W19, and W20 had no Cuban repost/comment (W18/W19 were likes-only non-events; W20 had no signal at all). Two firsts here: (a) Cuban amplified a **newsletter announcement** rather than a feed post — a new content type for Cuban amplification, and (b) the amplified post cleared **12,895 impressions** vs. the W20 newsletter announcement's 1,188 feed impressions — roughly a 10× lift on the newsletter-announcement format, squarely inside the documented +60-75%-and-up Cuban-repost band (amplification on a low baseline reads as a large multiple).
+
+#### Week 21 Feed Posts (early reads)
+
+| Post | Type | Day | Age at capture | Impr | Reached | Rx | Comm | Reposts | Saves | Sends | Profile Views | Followers | Link/Button | Demo Signal |
+|------|------|-----|----------------|------|---------|----|------|---------|-------|-------|---------------|-----------|-------------|-------------|
+| "Quarterly Reporting Briefing" Pharmacy Benefits Briefing (Newsletter Edition 11) — **Cuban reposted** | Newsletter | Mon May 25 | 3d | **12,895 feed / 570 article views / 728 email sends / 45% open** | 10,404 | 27 | 8 | 3 | 7 | 1 | 26 | +6 | 3 button / 0 visits | Senior 26% (rest n/c) |
+| "Ahead of renewals the best brokers and consultants check the same five clauses first…" **Library 02 — PBM Contract Language Must Haves** (Contract Comparison carousel, Broker pillar) | Carousel (Library NN reference asset) | Tue May 26 | 2d | **1,264** | 830 | 18 | 3 | 3 | **7** | 0 | 7 | +1 | 1 button / 0 visits | Senior 28%, Insurance 25%, 10,001+ 18%, Founder 4% |
+
+> **Capture note:** Both W21 posts are early reads (2-3 days). Mon newsletter is Cuban-amplified, so its reach is not a clean organic baseline. Library 02 is a bookmark-driven reference asset — judge it on saves and 30-day profile visits, NOT first-week feed reach (Library NN rule). Wed / Thu / Fri W21 posts and the W21 Substack publication data still to come ("more shots to follow").
+
+### Week 21 Analysis (partial — opening reads)
+
+1. **Library 02 is tracking Library 01's save-driven reference-asset pattern, and it resolves the W20 "Tuesday Excellence" watch question.** Library 01 (W16): 2,129 impressions / 14 saves at day 3. Library 02 (W21): 1,264 impressions / **7 saves at day 2** — on the same save trajectory (0.55% save rate, the highest in the W20-W21 set). The W20 analysis flagged Library 02 as "the critical data point" for whether the Tuesday Excellence Rule needs format revision after three soft Tuesdays. **The answer: Library 02 does NOT extend the Tuesday-underperformance pattern, because Library NN is explicitly exempt from the feed-reach bar.** Its low impressions (1,264) are expected and fine; the 7 saves at day 2 are the success metric and they're on pace for the 12+-saves-in-2-weeks Library bar. **The real Tuesday Excellence test resumes on the next non-Library Tuesday (W22)** — that's where the format question (Marked-Up Contract Page illustration vs. photoreal + named-actor) actually gets answered. Do not conflate Library Tuesdays with non-Library Tuesdays in the Tuesday-reach diagnosis.
+
+2. **Library 02 demographics drifted toward Insurance (25%) and away from Hospitals & Health Care.** Broker-pillar content classifying into the Insurance industry segment is expected (brokers/agents sit in Insurance), and Founder 4% + Senior 28% + 10,001+ 18% confirm decision-maker reach held. Not a concerning drift — it's the Broker-pillar audience the post was built for. Worth noting for the Broker-pillar baseline: Library/Broker content pulls Insurance where decoder/contract content pulls H&HC.
+
+3. **Cuban-reposted newsletter announcement converted +6 followers on 12,895 impressions (4.65 / 10K).** Lower per-impression conversion than the organic decoder (22.3 / 10K on the rebate post), which is expected — Cuban amplification inflates the impression denominator with reach that converts at a lower rate than tightly-targeted organic decoder reach. The value of the Cuban repost is top-of-funnel reach + the newsletter article views (570) + the auto-prompt-to-subscribe mechanic, not direct follower-rate efficiency. 7 saves + 8 comments on a newsletter announcement is strong engagement for the format.
+
+4. **Newsletter email metrics: 728 email sends (up from 703 at W20), 45% open rate (holds the 44-47% baseline), 570 article views.** Note the email-send count (728) is the email-delivery subset, distinct from the 930 total-subscriber badge — both growing in parallel (703→728 email sends week-over-week). 570 article views is the second-highest in the tracked set, lifted by the Cuban repost driving feed traffic into the article.
+
+### Week 21 Watch List (carry into next capture)
+
+- **Library 02 day-14 save count** (target: 12+ saves by ~June 9 to confirm the Library reference-asset metric). Currently 7 at day 2.
+- **W21 Wednesday / Thursday / Friday feed posts** — confirm whether the CVS 340B Wednesday alternate shipped (W20 rec #1) and how the named-victims + $250M dollar anchor performed against the W19 PCMA (4,948) and W20 Warren-Hawley (2,506) Wednesday benchmarks.
+- **W21 Substack publication data** (Mon Quarterly Reporting deep dive views/subs, Wed roundup, Thu field note) — does the gated-PDF + first-comment funnel reproduce the 4-5-sub W18/W19/W20 pattern? Does the Cuban repost lift Monday deep-dive views past the W20 record of 145?
+- **W21 Thursday day-7 read** — apply the rebate-decoder finding: track conversion (followers/saves) as the primary read, not just reach.
+
+---
 
 ## Why track this
 
