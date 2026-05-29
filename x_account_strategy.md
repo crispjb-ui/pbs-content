@@ -71,6 +71,12 @@ Re-pin whenever a post breaks out (a Cuban-amplified post becomes the new pin un
 
 **Match the X vibe.** X is not LinkedIn. Punchier, more edge, shorter wind-up, native voice. Lead with the confrontation; cut the throat-clearing. Where a LinkedIn post would say "After reviewing hundreds of PBM contracts a year at PBS, I've observed that..." the X version says "I read PBM contracts for a living. Here's the part they bury." Same proprietary anchor, half the words, more teeth.
 
+**First-performer learnings (W21, captured May 28, 2026 — the channel's first standalone-post data point).** The best organic post of the launch fortnight was the Thu AM channel-pricing comparison: *"Same generic drug. The retail pharmacy fills it for one price. The PBM's own mail-order pharmacy fills it for another. The PBM sets both prices. Guess which one it steers your members toward."* — 453 views, **9 reposts** (~2% repost rate), 12 likes, text-only, no amplifier. Four things to carry forward into every week's PART 4B:
+- **The mix bet is right.** It's the ~40% named-adversary / channel-comparison shape in the AM amplifier-window slot. Keep leading each day's AM slot with this shape.
+- **Proven template — reuse the structure:** *"Same [drug/service]. [Party A] one price. [PBM's own entity] another. The PBM sets both. Guess which one it steers your [members] toward."* Named actor + named victim + vertical-integration angle + an **interactive rhetorical close** that makes the reader finish the accusation. The "Guess which…" close is a repeatable engagement lever.
+- **Vertical integration / PBM-owns-the-channel is the strongest evergreen theme** — it traveled (9 reposts) with no amplifier. Heavy rotation.
+- **Text-only is enough for this shape;** visuals are additive, not required. And read the channel by **repost rate + amplification events**, not raw views — the 12K-view ceiling came from the launch-day Cuban repost, not any standalone post. Ship the shapes consistently AND patrol daily; the patrol is where the big numbers come from.
+
 **Post the strongest visuals.** X is image-friendly and visual posts outperform text-only on reach. PBS already has a deep visual library to attach — no new design needed:
 - The 29 toolkit preview PNGs in `templates/documents/` (auto-rendered product shots)
 - Thursday messy-infographic heroes (channel-pricing claims report, rebate-flow ledger, the 5-Terms-Decoded marked-up pages)

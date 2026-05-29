@@ -890,6 +890,130 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md`):** 3 scheduled posts/day, plus same-hour reactions fired on top when PBM news breaks. **NOT locked to Monday's mid-year-claims topic** — X skews to breaking news and the Cuban-bait shapes (dollar comparison, named-adversary, decoder, vertical integration). Schedule via X native scheduler or Typefully. `[VISUAL]` flags posts that attach an asset; links go in the FIRST REPLY, never the post body. Hashtags 0-1 max (usually none). Slot times ET. Post bodies are in fenced code blocks (W23-forward post-copy convention) so they paste clean.
+>
+> **No live news trifecta this week (unlike the W21 launch).** W23 is ~10 days out, so the backbone below is the evergreen Cuban-bait rotation. Hold the evening slot loosely: when a PBM story breaks (FTC action, a new state PBM-ownership law, a Cuban/Ciaccia thread, an earnings disclosure), fire a same-hour reaction and let it bump that day's PM filler. Reactions tagging the journalist/source are the single highest-amplification behavior on the channel.
+>
+> **LinkedIn-first rule (required):** an X post must NOT use a LinkedIn post's visual or material before that LinkedIn post publishes. Two constraints this week: (1) the **Tue Library 03 Audit Rights** carousel publishes Tue 8:30 AM — the Tue PM audit-rights driver is scheduled AFTER that. (2) the **Thu "5 Admin Fee Terms Decoded"** messy infographic publishes Thu 8:30 AM (with the 7:30 AM Field Note) — the Thu midday admin-fee amplifier + visual is scheduled AFTER that. No admin-fee material runs in the Mon-Wed slots; no audit-rights carousel material runs before Tue 8:30.
+>
+> **First-performer learning applied (W21):** the AM slots lead with the named-adversary / channel-comparison shape (the W21 performer's shape), and the proven *"Same X. Different price. Same PBM sets both. Guess which…"* template runs Mon AM. Read this week by repost rate + amplification events, not raw views.
+
+**Mon Jun 8**
+- **AM — named-adversary / channel-pricing (proven W21 template, specialty/site-of-care angle):**
+```
+Same specialty drug. Filled at the hospital, one price. Filled at the PBM's own specialty pharmacy, another. The PBM set both prices. Then it told your plan the cheaper site wasn't in network. Guess who owns the site that was.
+```
+- **Midday — decoder (mid-year true-up):**
+```
+"Mid-year true-up" sounds like your PBM correcting an overcharge in your favor. Read the clause. It almost always means the PBM can revise your rates upward when its own math says it underpriced. The true-up runs one direction, and it isn't yours.
+```
+- **PM — punchy (PBM compensation, three revenue streams):**
+```
+Your PBM makes money three ways on a single prescription: the spread on the price, the rebate on the list, and the fee for processing the claim. You were sold one of those. The contract contains all three.
+```
+
+**Tue Jun 9**
+- **AM — dollar comparison (generics, the #3 all-time LinkedIn shape):**
+```
+A generic that costs the pharmacy $4 to buy. Your plan gets billed $40. The pharmacy keeps $6. The PBM keeps the other $30 and files it under "spread." Then sends you a report with no line called spread.
+```
+- **Midday — structural / news-adjacent (hold for a reactive bump if news breaks):**
+```
+Every PBM reform bill moving through the states this year points at the same target: a middleman that owns the pharmacy, sets the price, pays itself, and audits its own books. When the fix is that identical across red and blue states, it isn't a loophole. It's the business model.
+```
+- **PM — Library 03 audit-rights driver (text decode — SCHEDULE AFTER the 8:30 AM Tue LinkedIn carousel publishes):**
+```
+Your PBM contract says you can audit it. Then the fine print: once a year, only the PBM's chosen auditor, only the records the PBM hands over, and the PBM decides whether the findings count. That isn't an audit right. It's a guided tour of the lobby.
+```
+  - **First reply (link):**
+```
+The five audit-rights clauses the best brokers redline before signing are in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+```
+
+**Wed Jun 10**
+- **AM — named-adversary / vertical integration:**
+```
+The three biggest PBMs are owned by the three biggest insurers, run the three biggest mail-order pharmacies, own the three biggest specialty pharmacies, and now control the rebate middlemen that collect the checks. "PBM" stopped being a service your plan buys. It's a toll road your plan is required to drive.
+```
+- **Midday — decoder (rebate pass-through):**
+```
+When your PBM says it "passed through 100% of rebates," the load-bearing word is "received," not "paid." A rebate aggregator it owns takes a cut first. 100% of what's left is still 100%. The math is honest. The noun is not.
+```
+- **PM — stat-shock (cited):**
+```
+Three PBMs process about 80% of U.S. prescription claims. Picture three companies handling 80% of every paycheck in America while also owning the banks. Nobody would call that a market. The pharmacy version just has a friendlier name.
+```
+
+**Thu Jun 11**
+- **AM — named-adversary / copay accumulator (NOT admin fees — protects the 8:30 AM Thursday reveal):**
+```
+Copay accumulator: your member uses a manufacturer's $5,000 copay card, the PBM keeps the $5,000, and none of it counts toward the member's deductible. The member hits the same out-of-pocket wall and pays again. The PBM got paid twice. It's probably in your contract, just not labeled that plainly.
+```
+- **Midday — Thursday-visual amplifier (admin-fee decoder — SCHEDULE AFTER the 8:30 AM Thu LinkedIn post publishes) `[VISUAL: 5 Admin Fee Terms Decoded marked-up page from today's LinkedIn post]`:**
+```
+Five line items on your monthly PBM invoice. Administrative fee. Clinical program fee. Network access fee. Implementation recovery. Rebate administration. The PBM wrote all five definitions. Four of them are margin wearing the name of a service.
+```
+  - **First reply (link):**
+```
+Decoded all five this morning. What to do once you can read them, the first audit question and the five patterns plan sponsors find most, is in today's field note: [paste live Field Note URL after Thu 7:30 AM publish]
+```
+- **PM — punchy:**
+```
+The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+```
+
+**Fri Jun 12**
+- **AM — named-adversary / specialty funnel:**
+```
+Pull your specialty claims and sort by which pharmacy filled them. In most plans we review, well over half ran through the PBM's own specialty pharmacy. No member chose that. The PBM's prior-auth and network rules chose it for them. That's not a network. It's a funnel with a clinical-sounding name.
+```
+- **Midday — decoder (network access fee):**
+```
+"Network access fee" means your plan is paying the PBM for permission to use the pharmacies the PBM already requires you to use. Read it twice. You are being charged rent on the cage.
+```
+- **PM — punchy / H1 tie-in (same-day amplification, after the 8:30 AM Friday tease publishes):**
+```
+Half the plan year is nearly gone. Your PBM has six months of your claims and a renewal model already built on them. You have a reporting login you've never opened. Mid-year is when you even up the information, or you hand the renewal to the side that already did the math.
+```
+
+**Sat Jun 13** (lighter, still adversary-skewed, not origin)
+- **AM — best-kept-secret (DIR fees):**
+```
+DIR fees are the industry's best-kept secret. The PBM reimburses a pharmacy for a script, then quietly claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. Ask your PBM what it collected in DIR last year and how much reached your plan. The pause before the answer is the answer.
+```
+- **Midday — dollar comparison (insulin):**
+```
+A vial of insulin costs under $10 to make. Your plan pays north of $300. The member pays a copay on top of that. Somewhere between the factory and the counter, the other $290 gets divided up by people who never touched the vial.
+```
+- **PM — punchy:**
+```
+PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+```
+
+**Sun Jun 14**
+- **AM — synthesis / structural (mid-year through-line):**
+```
+Strip the acronyms off every PBM story and it's one story: a middleman sits between your plan and the pharmacy, sets the price on both sides, owns half the pieces, and wrote the contract that says you can't check. Mid-year is when the bill for all of it quietly comes due.
+```
+- **Midday — decoder + GLP-1 amplifier:**
+```
+GLP-1s are about to be the largest line on your pharmacy spend. Which one your plan covers has less to do with which works best and more to do with which manufacturer wrote the bigger rebate check. The drug on your formulary is the one that paid to be there.
+```
+- **PM — origin (the one allowed this week):**
+```
+I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
+```
+
+> **Content-mix check (21 scheduled posts):** ~8 named-adversary / dollar-comparison (Mon AM, Tue AM, Wed AM, Thu AM, Fri AM, Sat Midday + the channel-pricing and specialty-funnel posts) ≈ 40% ✓ · ~6 decoders (Mon Midday, Tue PM, Wed Midday, Fri Midday, Sat AM, Sun Midday) ≈ 28% ✓ · ~3 structural/news-adjacent/synthesis (Tue Midday, Wed PM, Sun AM) ≈ 14%, with live news reactions additive on top ✓ · ~3 punchy (Mon PM, Thu PM, Fri PM) · 1 origin (Sun PM, capped) ✓. GLP-1 amplifier (Sun Midday) and the proven W21 channel-pricing template (Mon AM) both present.
+
+## Same-hour reaction log — W23 (fill as news breaks)
+
+_No scheduled entries. Fire same-hour reactions when PBM news lands Jun 8-14 (FTC actions, new state PBM-ownership laws, Cuban/Ciaccia/Fein threads, payer earnings disclosures). Tag the journalist/source. Default to a straight reply on an amplifier's own post (puts Ginny in their notifications); quote-post when the take stands alone for Ginny's own audience. Log each here with method, view count, and any amplification event (note like-only vs. repost/quote per the Cuban likes-only rule)._
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)
