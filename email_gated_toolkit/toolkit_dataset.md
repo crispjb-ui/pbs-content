@@ -50,6 +50,7 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `slug` | `channel-pricing` |
 | `name` | `Channel Pricing Audit Worksheet` |
 | `pdf_url` | `[Wix Media URL — already live]` |
+| `image_alt_text` | `Channel Pricing Audit Worksheet, a 2-page PBS plan sponsor toolkit for auditing per-channel net cost across retail, mail, and specialty` |
 | `mechanic_phrase` | `per-channel margin` |
 | `pillar` | `Transparency & Industry Education` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
