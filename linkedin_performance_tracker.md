@@ -1353,6 +1353,26 @@ W20 day-7+ reads on the Wednesday and Thursday feed posts, plus the Friday tease
 - **Substack Notes** weekly performance — not captured for W21 (tracked occasionally, not every week).
 - **X channel** — only the one performer captured (by design); the full 3-posts/day PART 4B set is not individually tracked.
 
+### W21 Growth in Context — record week on all three channels, but two of the three are anniversary-inflated
+
+Weekly net growth, recent weeks (week-end totals; deltas are week-over-week):
+
+| Week | LinkedIn Followers (Δ) | LinkedIn Newsletter (Δ) | Substack (Δ) |
+|------|------------------------|--------------------------|--------------|
+| W17 (→May 1) | 1,670 (+60) | 799 (+42) | 55 (+8) |
+| W18 (→May 8) | 1,726 (+56) | 836 (+37) | 65 (**+10**) |
+| W19 (→May 15) | 1,814 (**+88**) | 883 (**+47**) | 72 (+7) |
+| W20 (→May 22) | 1,866 (+52) | 913 (+30) | 78 (+6) |
+| **W21 (→May 29)** | **1,972 (+106)** ← all-time high | **969 (+56)** ← all-time high | **89 (+11)** ← all-time high |
+
+**W21 set new weekly records on all three channels** (followers +106 vs. prior best +88 at W19; newsletter +56 vs. prior best +47 at W19; Substack +11 vs. prior best +10 at W18). But the three records are NOT equally clean:
+
+1. **LinkedIn followers (+106): anniversary-inflated.** Ginny attributes ~+60 of the +106 to the anniversary post alone (profile-visit follows LinkedIn under-attributes). Backing it out leaves ~+46 from professional content + 61 replies — a normal-good week, in line with W20's +52. So the record = a normal week + a ~+60 outlier post.
+2. **LinkedIn newsletter (+56): almost entirely anniversary-driven.** ~+39 of the +56 traces to the anniversary follow → newsletter auto-prompt funnel. The underlying content-driven newsletter growth (~+17) was actually on the LOW side (W20 was +30, W19 +47). Without the anniversary post this would have been a soft newsletter week — worth noting so the +56 isn't read as a content-strength signal.
+3. **Substack (+11/+9): the cleanest and most repeatable record.** The anniversary post doesn't route to Substack, so none of this is personal-post lift. It's gated Monday deep dive (6) + gated Thursday field note (3) + the Dr. Georgiou LinkedIn→Substack exchange (2), with the Cuban-amplified Monday newsletter driving 23% linkedin.com traffic into the deep dive. **This is the one record earned purely by content + funnel mechanics — the signal that the gated-PDF + first-comment engine is strengthening, independent of the personal-post outlier.**
+
+**Read:** W21 looks like a blowout across the board, but the durable, repeatable wins are (a) the Substack +11 content record and (b) the proof that a single high-craft milestone post can add ~+60 followers / ~+39 newsletter subs in a weekend. The LinkedIn newsletter's underlying content growth was soft this week and should be watched in W22 (Biosimilar) when there's no personal-post tailwind.
+
 ---
 
 ## Why track this
