@@ -128,6 +128,13 @@ $w.onReady(() => {
   $w(id.button).onClick(async () => {
     hide(id.error);
 
+    // Safety: ensure we have the current toolkit (covers a very fast click
+    // before the dataset onReady closure above has run).
+    if (!toolkitName) {
+      const it = ds && ds.getCurrentItem && ds.getCurrentItem();
+      if (it) { toolkitName = it.title || it.name || ''; toolkitSlug = it.slug || ''; }
+    }
+
     // If one-click for a known visitor, use stored values; else read inputs.
     const usingStored = CONFIG.oneClickForReturning && isReturning;
     const lead = usingStored ? saved : {
