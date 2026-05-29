@@ -1269,11 +1269,11 @@ W20 day-7+ reads on the Wednesday and Thursday feed posts, plus the Friday tease
 
 ### Week 21 Snapshot (May 25 - May 29, 2026) — opening reads, more posts to follow
 
-**Channel-by-channel headers (May 25 baseline, per CLAUDE.md):**
+**Channel-by-channel headers (updated May 28-29):**
 
-- **LinkedIn Followers:** 1,903 (+37 since May 22; W21 anniversary personal post May 24 is the documented driver)
-- **LinkedIn Newsletter Subscribers:** 930 (+17 since May 22)
-- **Substack Subscribers:** ~80 (1 paid + ~79 free; +2 since May 22)
+- **LinkedIn Followers:** **1,972** (was 1,903 May 25 → +69 in 3 days; the W21 anniversary personal post May 24 is the documented driver — Ginny estimates ~60+ of the +69 trace to that one post)
+- **LinkedIn Newsletter Subscribers:** **969** (was 930 May 25 → +39 in 3 days; follow → newsletter auto-prompt funnel off the anniversary-post follower spike)
+- **Substack Subscribers:** **89** (1 paid + ~88 free; +9 since May 22 — strongest Substack week in the data set, all 9 from the gated Mon deep dive (6) + Thu field note (3))
 
 #### Cuban Signal — REPOST (real amplification event)
 
@@ -1285,10 +1285,28 @@ W20 day-7+ reads on the Wednesday and Thursday feed posts, plus the Friday tease
 |------|------|-----|----------------|------|---------|----|------|---------|-------|-------|---------------|-----------|-------------|-------------|
 | "Quarterly Reporting Briefing" Pharmacy Benefits Briefing (Newsletter Edition 11) — **Cuban reposted** | Newsletter | Mon May 25 | 3d | **12,895 feed / 570 article views / 728 email sends / 45% open** | 10,404 | 27 | 8 | 3 | 7 | 1 | 26 | +6 | 3 button / 0 visits | Senior 26% (rest n/c) |
 | "Ahead of renewals the best brokers and consultants check the same five clauses first…" **Library 02 — PBM Contract Language Must Haves** (Contract Comparison carousel, Broker pillar) | Carousel (Library NN reference asset) | Tue May 26 | 2d | **1,264** | 830 | 18 | 3 | 3 | **7** | 0 | 7 | +1 | 1 button / 0 visits | Senior 28%, Insurance 25%, 10,001+ 18%, Founder 4% |
+| "Three nonprofit hospital systems sued CVS Health on May 21. Mount Sinai. University of Michigan Health. University of Kansas…" **CVS 340B lawsuit** (Wed text/news POV — the W20-rec'd alternate) | POV Text (named-actor + litigation event) | Wed May 27 | 1d | **608** | 383 | 14 | 1 | 1 | 1 | 0 | 4 | **0** | — / — | H&HC 29%, Senior 29%, 10,001+ 17%, Founder 6%, Hylant 5% |
+| "Your PBM passes through 100% of manufacturer rebates. The rebate aggregator does not have to." **Rebate aggregator decoder** (Thu messy infographic) | Messy Infographic (decoder + named-actor) | Thu May 28 | 23h (early) | **6,976** | 5,123 | 47 | **29** | 5 | **16** | 5 | 19 | **+4** | 2 button / 0 visits | 10,001+ **36%**, H&HC 31%, Senior 27%, NYC 9%, CVS Health 5% |
+| W21 personal anniversary post (Sun May 24) — see Personal Post Performance section | Personal milestone | Sun May 24 | 4d | **52,491** | 33,819 | 194 | 29 | 0 | 1 | 1 | **453** | +15 (actual ~60+) | 4 button / 0 visits | 10,001+ 30%, Senior 29%, H&HC 18% |
 
-> **Capture note:** Both W21 posts are early reads (2-3 days). Mon newsletter is Cuban-amplified, so its reach is not a clean organic baseline. Library 02 is a bookmark-driven reference asset — judge it on saves and 30-day profile visits, NOT first-week feed reach (Library NN rule). Wed / Thu / Fri W21 posts and the W21 Substack publication data still to come ("more shots to follow").
+> **Capture note:** Mon newsletter is Cuban-amplified (not a clean organic baseline). Library 02 is a bookmark-driven reference asset — judge on saves, not feed reach. Wed CVS 340B is ~2 days old; Thu rebate aggregator is an early 23h read and climbing ("still early" per Ginny). The personal anniversary post is logged in full in the Personal Post Performance section. W21 Substack publication data below.
 
-### Week 21 Analysis (partial — opening reads)
+#### Substack — Week 21 publication performance (subs ~80 → **89**, +9 — strongest Substack week in the data set)
+
+| Post | Date | Recipients | Views | Open rate | Link CTR | New subs | Revenue |
+|------|------|------------|-------|-----------|----------|----------|---------|
+| **"What Your PBM's Quarterly Report Actually Tells You"** (Mon deep dive, free-sub-gated PDF) | May 25 | 76 | **132** | **46.05%** | **31% (11 clicks: 7 → Contract Library /p/pbm-contract-language-library, ~5 → toolkit PDF, 1 like, 1 /subscribe)** | **6 (0 paid)** | — |
+| "What I'd Ask #3: Reading Your PBM's Quarterly Report" (biweekly subscriber-only) | May 26 2:46 PM | 83 | 45 | **33.73%** (lowest of set) | **0 (no link clicks)** | 0 | — |
+| "What Crossed My Desk This Week: May 27, 2026" (Wed roundup, open) | May 27 | 84 | 55 | 34.52% | 0 (no link clicks) | 0 | — |
+| **"Finding the Rebate Aggregator in Your PBM Contract"** (Thu Field Note, free-sub-gated PDF) | May 28 | 85 | 83 | 35.29% | ~10% (1 link + 1 /subscribe; 2 Like button) | **3 (0 paid)** | — |
+
+#### X (Twitter) — the one post that performed
+
+| Post | Date/Time | Views | Reposts | Likes | Notes |
+|------|-----------|-------|---------|-------|-------|
+| "Same generic drug. The retail pharmacy fills it for one price. The PBM's own mail-order pharmacy fills it for another. The PBM sets both prices. Guess which one it steers your members toward." | May 28 8:11 AM | 453 | 9 | 12 | Channel-pricing / steering decoder, named-actor (PBM sets both prices + steers). Text-only, no LinkedIn-visual reuse (LinkedIn-first rule intact). 9 reposts / 453 views = ~2% repost rate, healthy for the channel. |
+
+### Week 21 Analysis
 
 1. **Library 02 is tracking Library 01's save-driven reference-asset pattern, and it resolves the W20 "Tuesday Excellence" watch question.** Library 01 (W16): 2,129 impressions / 14 saves at day 3. Library 02 (W21): 1,264 impressions / **7 saves at day 2** — on the same save trajectory (0.55% save rate, the highest in the W20-W21 set). The W20 analysis flagged Library 02 as "the critical data point" for whether the Tuesday Excellence Rule needs format revision after three soft Tuesdays. **The answer: Library 02 does NOT extend the Tuesday-underperformance pattern, because Library NN is explicitly exempt from the feed-reach bar.** Its low impressions (1,264) are expected and fine; the 7 saves at day 2 are the success metric and they're on pace for the 12+-saves-in-2-weeks Library bar. **The real Tuesday Excellence test resumes on the next non-Library Tuesday (W22)** — that's where the format question (Marked-Up Contract Page illustration vs. photoreal + named-actor) actually gets answered. Do not conflate Library Tuesdays with non-Library Tuesdays in the Tuesday-reach diagnosis.
 
@@ -1298,12 +1316,42 @@ W20 day-7+ reads on the Wednesday and Thursday feed posts, plus the Friday tease
 
 4. **Newsletter email metrics: 728 email sends (up from 703 at W20), 45% open rate (holds the 44-47% baseline), 570 article views.** Note the email-send count (728) is the email-delivery subset, distinct from the 930 total-subscriber badge — both growing in parallel (703→728 email sends week-over-week). 570 article views is the second-highest in the tracked set, lifted by the Cuban repost driving feed traffic into the article.
 
+5. **CVS 340B Wednesday post FAILED (608 impressions / 0 followers / 1 comment), and it cleanly refutes W20 Recommendation #1.** W20 rec #1 argued for shipping the CVS 340B alternate over the original tease because it had "stronger named victims (Mount Sinai, U Michigan, U Kansas) and a clearer dollar anchor." That recommendation over-weighted the named-adversary + public-policy-event pattern and **under-weighted the reader-actionability test.** The named victims here are *hospitals*, not plan sponsors — the self-funded employer is a bystander to a hospital-vs-CVS 340B margin dispute, with nothing to act on Monday. This is exactly the documented 340B weakness in CLAUDE.md's decoder rule (340B pricing-gap decoder: 2.3/10K, below band — "340B economics sit with providers and hospitals, not plan sponsors"). The 29% H&HC demographic confirms it fed sideways to a hospital-adjacent audience. **Correction to the Wednesday-shape rule: "named adversary + public-policy event" only works when the plan sponsor is the victim/actor (Warren-Hawley: PBM-pharmacy ownership hits employer plans). When the victim is a hospital or provider, the reader-actionability test overrides the named-adversary pattern and the post underperforms regardless of how strong the villain or the dollar anchor is.**
+
+6. **Same-week clean A/B confirms the reader-actionability test.** Wednesday CVS 340B (608 impr / H&HC 29% / plan-sponsor bystander) vs. Thursday rebate aggregator (6,976 impr / 10,001+ 36% / plan-sponsor actionable) — both are "named adversary" posts shipped 24h apart, but only the plan-sponsor-actionable one reached and converted. The variable isn't the villain or the format; it's whether the self-funded employer can do something with it. **11× reach difference on the actionability variable alone.** This is the cleanest reader-actionability data point in the set — pair it with the 340B/contract-decoder split in CLAUDE.md.
+
+7. **W21 Thursday rebate-aggregator decoder is the strongest early Thursday read of the cycle and tracking toward Thursday Excellence.** 6,976 at 23h with **29 comments (0.42% comment rate), 16 saves, 5 sends, +4 followers** — comment density rivals the W19 PCMA breakout and save behavior matches the W20 rebate decoder. Hook names the actor keeping the difference ("the rebate aggregator does not have to"), decoder shape, plan-sponsor-actionable, 10,001+ at 36% (top-tier decision-maker penetration). "Still early" per Ginny — day-7 read (~June 4) will determine whether it tracks the W20 rebate trajectory (3×→6,284) or breaks higher. Either way the early conversion signal is already strong; apply the rebate-decoder lesson and read it on followers/saves, not just reach.
+
+8. **Anniversary personal post is the dominant event of W21 across every channel** (52,491 impr / +60 follows / +39 newsletter subs). Full diagnosis in the Personal Post Performance section. Headline implication for the calendar: the next milestone post (newsletter-subscriber milestone is now in reach at 969 → 1,000) should be built to the documented 10-point standard and slotted within the 4-6-week cadence.
+
+9. **Substack +9 in one week is the strongest Substack growth in the data set** (prior weeks +6, +7). All 9 came from the two gated Monday/Thursday deep-dive-and-field-note posts (6 + 3); the open roundup and the subscriber-only "What I'd Ask" produced 0. Confirms again: the gated-PDF + LinkedIn first-comment funnel is the only Substack conversion engine — open and subscriber-only formats are retention, not acquisition.
+
+10. **Monday Quarterly Reporting deep dive (132 views) is the second-best Monday ever, just under the W20 record of 145 — and the Cuban repost is visible in the traffic mix.** linkedin.com traffic hit **23%** (vs. the typical ~11% first-comment baseline), the direct fingerprint of the Cuban-amplified newsletter pushing feed readers into the article. 6 new subs beats W20's 4 and W19's 5 — new Monday-deep-dive sub-conversion high. 46.05% open rate is the W21 ceiling.
+
+11. **The Library NN ↔ Contract Library feeding loop is working and now measurable.** 7 of the Monday deep dive's 11 link clicks (20% of openers) went to **/p/pbm-contract-language-library** — readers routing from the Monday deep dive into the evergreen Contract Library in the same week Library 02 shipped on LinkedIn. This is the first time the deep-dive → Contract-Library internal funnel shows up quantitatively. Pair with Library 02's save behavior: the contract-language reservoir is pulling traffic from both LinkedIn (saves) and Substack (clicks).
+
+12. **The Thursday rebate-aggregator pairing worked end to end (Thursday Excellence stack intact).** Same-topic Thursday LinkedIn post (6,976 impr, rebate aggregator) + same-topic Thursday Field Note ("Finding the Rebate Aggregator in Your PBM Contract") + first-comment cross-promo → linkedin.com = 7% of field-note traffic and **3 new subs**. Slightly below the W18/W20 Thursday 4-5-sub mark but in band, and the topic-matched pairing is exactly the W18 Channel Pricing pattern.
+
+13. **Two format-decay signals to act on:**
+    - **"What I'd Ask" #3 is the third consecutive weak entry** (0 subs, 0 link clicks, 33.73% open — lowest of the set). W19 flagged "re-evaluate if #3 continues the pattern." It did. The biweekly subscriber-only scenario format is not converting or engaging. Compounding factor: #3 published **May 26 at 2:46 PM**, off the standard 7:30 AM slot — afternoon publish likely suppressed the open. **Recommendation: either move it back to a 7:30 AM slot and give it one more controlled run, or retire the series and redirect the effort into a second gated deep-dive-class asset (which is what actually converts).**
+    - **Wednesday Roundup views are declining three weeks running** (W19 105 → W20 78 → W21 55), all at 0 subs. Roundup is confirmed retention-not-conversion, but the view erosion is worth watching — if it keeps falling, the automated-draft roundup may be losing its discovery value. Not urgent; flag for trend.
+
+14. **The mailto:team@rxbs.org lead-gen pattern did NOT reproduce in W21.** W19 Fiduciary and W20 Reading the Rebate Report each had 5 mailto clicks; the W21 Thursday Field Note shows only 1 generic link click + 1 /subscribe, no visible mailto. Possible the Monday deep dive's "More…" link expansion hides a mailto click (not visible in the capture). **To confirm: expand the Monday deep dive's full link list — if 0 mailto clicks there too, the inbound-email pattern is topic-dependent (fiduciary/rebate-report-specific) rather than a universal mechanism, and the W20 rec to treat it as a third standing conversion channel needs qualifying.**
+
 ### Week 21 Watch List (carry into next capture)
 
 - **Library 02 day-14 save count** (target: 12+ saves by ~June 9 to confirm the Library reference-asset metric). Currently 7 at day 2.
-- **W21 Wednesday / Thursday / Friday feed posts** — confirm whether the CVS 340B Wednesday alternate shipped (W20 rec #1) and how the named-victims + $250M dollar anchor performed against the W19 PCMA (4,948) and W20 Warren-Hawley (2,506) Wednesday benchmarks.
-- **W21 Substack publication data** (Mon Quarterly Reporting deep dive views/subs, Wed roundup, Thu field note) — does the gated-PDF + first-comment funnel reproduce the 4-5-sub W18/W19/W20 pattern? Does the Cuban repost lift Monday deep-dive views past the W20 record of 145?
-- **W21 Thursday day-7 read** — apply the rebate-decoder finding: track conversion (followers/saves) as the primary read, not just reach.
+- **W21 Thursday rebate-aggregator day-7 read (~June 4)** — most informative remaining W21 data point. Does it mature past the W20 rebate decoder's 6,284, given it's already at 6,976 at 23h? Track followers + saves as primary.
+- **W21 Friday tease** — did it ship, and does it replicate the W20 itemized-list-tease floor-break (2,220) or revert to the 500-1K abstract-tease floor?
+- **Confirm the +69 follower / +39 newsletter attribution to the anniversary post** holds as the spike settles (vs. a temporary bump that partially reverts).
+- **Expand the Monday deep dive's "More…" link list** to confirm whether any mailto:team@rxbs.org clicks occurred in W21 (see analysis #14).
+
+#### Still missing from the W21 capture (normally tracked)
+
+- **W21 Friday tease (Fri May 29)** — the only LinkedIn feed slot without data. Likely not yet posted/matured at capture (capture is May 28-29). Capture next round; test whether it replicates the W20 itemized-list-tease floor-break (2,220).
+- **Weekly reply-log top 5** (the "Why track this" discovery-engine metric) — no W21 reply data. This is the channel formalized as possibly the real discovery engine; worth a top-5-by-impressions capture when convenient.
+- **Substack Notes** weekly performance — not captured for W21 (tracked occasionally, not every week).
+- **X channel** — only the one performer captured (by design); the full 3-posts/day PART 4B set is not individually tracked.
 
 ---
 
@@ -1423,14 +1471,29 @@ Personal posts are an occasional (every 4-6 weeks), weekend, additions-not-repla
 | Post | Date | Impr | Profile views | Reactions | Comments | Followers (attributed) | Audience | Read |
 |------|------|------|---------------|-----------|----------|------------------------|----------|------|
 | W18 daughter Summit Championship cheer (casual snapshot) | ~May 8 | 1,650 | low | 47 | — | 0 | **drifted** to Insurance 31% / Greater Indianapolis 7% (local peers) | Warmth only; ~zero conversion |
-| W21 17th-anniversary (high-craft written piece) | May 24 | **18,917** | **201** | 111 | 16 | 4 attributed (under-counts) | **held core** 10,001+ 29% / Senior 27% / H&HC 15% | Profile-visit + follower engine; no drift |
+| W21 17th-anniversary (high-craft written piece) — **DAY-4 MATURED, captured May 28** | May 24 | **52,491** (was 18,917 at day-1 May 25 — **2.77× growth**) | **453** (was 201) | **194** (was 111) | **29** (was 16) | 15 attributed (**actual ~60+** per Ginny — profile-visit follows LinkedIn doesn't attribute) | **held core** 10,001+ 30% / Senior 29% / H&HC 18% / President 2% | **#2 all-time by impressions** (behind GLP-1 64K, ahead of 340B Cuban 42,968); profile-visit + follower engine; no drift |
 
-**Key reads:**
-1. **Profile visits are the real metric, and LinkedIn under-attributes the follows.** 201 profile viewers is 10-100x a normal post. LinkedIn's "+4 followers from this post" only counts post-click follows; profile-visit-driven follows show up in overall growth (1,866 → 1,903 over the window) not post attribution. Funnel carried through to newsletter (913 → 930).
-2. **No audience drift** — unlike the W18 cheer post. Craft + universal resonance held the plan-sponsor audience (10,001+ / Senior / Hospitals & Health Care).
-3. **Naming locations reactivated geographic networks** (Chapel Hill pharmacy-school / Columbus residency / Charleston local). Warm referral-pathway follows, not net-new national buyers. Personal-post lever only; never on professional posts.
+**Key reads (updated May 28 with day-4 matured numbers):**
+1. **The post matured to 52,491 — now the #2 all-time PBS post by impressions, and the highest-reach post of the entire cycle.** It nearly tripled from the May 25 day-1 read (18,917 → 52,491). A high-craft personal milestone post out-reached every professional post in the data set except the all-time GLP-1 record. This permanently retires any "personal posts are low-reach by design" assumption.
+2. **Profile visits are the real metric, and LinkedIn massively under-attributes the follows.** 453 profile viewers is ~100× a normal post. LinkedIn's "+15 from this post" only counts post-click follows; Ginny's read is **~60+ actual follows** traceable to it via profile visits. Overall growth corroborates: **1,903 → 1,972 followers (+69) and 930 → 969 newsletter subs (+39) in the 3 days since the post** — the anniversary post is the documented driver of both. The mechanism: personal post drives reach + profile visits → the profile headline ("Helping Self-Funded Employers Eliminate PBM Waste \| PharmD & CEO" + "View my newsletter") does the conversion → LinkedIn attributes almost none of it to the originating post.
+3. **No audience drift even at 52K reach** — H&HC actually *rose* to 18% (from 15% at day-1) and 10,001+ held at 30%. Craft + universal resonance held the plan-sponsor audience all the way up the reach curve. Contrast the W18 cheer snapshot, which drifted to local peers at a fraction of the reach.
 
-**Implication:** the "personal posts = zero conversion by design" framing is refined — high-craft milestone posts convert via profile visits + network reactivation while holding the core audience. The lever is craft + specific anchors (places/dates/names/numbers) + a then-and-now photo + universal resonance. See the CLAUDE.md Channel 1 personal-post rule for the milestone menu and craft checklist.
+**Best-practices diagnosis (requested May 28 — what made this the replicable gold standard):**
+
+The post is the canonical template for the high-craft milestone format. Ten mechanics, all replicable:
+
+1. **Unfakeable specific anchors, stacked throughout.** Exact counts in every beat: "17 years," "20 years ago in pharmacy school," "8 years of pharmacy school between us, 4 years of residency," "Three states. Four houses. Two we built ourselves," "we became five. Three daughters." Numbers in nearly every sentence. Specificity is the Humanize Check made visible — no ghostwriter or AI could produce this set.
+2. **Named person + tag drives network amplification.** "I married Brett Crisp" with Brett tagged pushes the post into his network on day one — the seed reach that the universal-resonance narrative then compounds. The 52K ceiling starts with the tagged-spouse seed.
+3. **Geographic place-names reactivate dormant networks.** Chapel Hill (pharmacy school), Columbus (residency), Charleston (local) each light up a distinct warm network → geographically-clustered follows (referral pathways, not net-new national buyers). Personal-post lever ONLY; never transplant to professional posts (geographic clustering pulls against national plan-sponsor reach there).
+4. **Professional identity is seeded into the personal story, which is why the audience held.** The post opens on pharmacy school and residency — Ginny's clinical credential is in the first three lines of a love story. This keeps the plan-sponsor audience oriented (no drift) while the marriage narrative carries broad reach. The W18 cheer post had zero professional anchor and drifted; this one never lets go of the professional thread.
+5. **Then-and-now photo collage** (young Brett + present-day, combined into one image, not a stack) drives dwell time and reads as a single artifact rather than a gallery.
+6. **Universal-resonance thesis with a non-cliché turn.** "It isn't about holding steady. It's about choosing the same person every time the ground shifts." A reflection broad enough for anyone married, specific enough to feel earned. This is the line that travels.
+7. **Arrhythmic, fragment-driven cadence** (Humanize Check compliant). "Three states. Four houses. Two we built ourselves, the last one renovated down to the studs." Short fragments next to long sentences read human, not AI-rhythmic.
+8. **Callback close that pays off the opening image.** Opens with "every box packed and unpacked with the same person beside me"; closes with "I'd do it again, every box and every wall." The structural bookend gives the piece the feel of a written essay, not a caption.
+9. **Occasion-specific timing overrides the weekend rule, and Sunday-evening is high-dwell.** Posted ON the anniversary (Sunday May 24 evening) — occasion specificity beats the weekend-placement default, and Sunday evening is a high-dwell, low-competition window.
+10. **It's an addition, not a replacement.** It ran alongside the full W21 professional calendar (Mon newsletter, Tue Library 02, Wed, Thu) — it didn't displace a scheduled post. The reach + follower lift is purely additive.
+
+**Implication (refined again):** high-craft milestone posts are not just "occasionally worth it" — at 52K reach / +60 follows / +39 newsletter subs from a single post, this is the **single highest-conversion event in the cycle**, outperforming any professional post on absolute follower and newsletter gain. The lever is the ten mechanics above, used **sparingly** (every 4-6 weeks, guardrails intact) so the format doesn't fatigue. Next milestone candidates from the menu (CLAUDE.md Channel 1): newsletter-subscriber milestone ("1,000 subscribers to The Pharmacy Benefits Briefing" — now within reach at 969), "Nth PBM contract reviewed," or a pharmacy-licensure anniversary. Build the next one to this exact ten-point standard.
 
 ---
 
