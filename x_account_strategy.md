@@ -77,6 +77,8 @@ Re-pin whenever a post breaks out (a Cuban-amplified post becomes the new pin un
 - **Vertical integration / PBM-owns-the-channel is the strongest evergreen theme** — it traveled (9 reposts) with no amplifier. Heavy rotation.
 - **Text-only is enough for this shape;** visuals are additive, not required. And read the channel by **repost rate + amplification events**, not raw views — the 12K-view ceiling came from the launch-day Cuban repost, not any standalone post. Ship the shapes consistently AND patrol daily; the patrol is where the big numbers come from.
 
+**The "named program · hidden extraction" recipe is the daily AM workhorse (codified May 30, 2026).** After Cuban reposted the copay-accumulator post (2nd X Cuban repost), the winning shape is locked into a reusable bank: `x_recipe_post_bank.md` holds one paste-ready post per nameable PBM program (copay accumulator, spread pricing, DIR fees, rebate aggregator, specialty routing, etc.), all built from the same 7-ingredient recipe. **Pull one into the AM amplifier-window slot each day, rotate programs in order, don't repeat within ~2 weeks.** Midday/PM slots keep the content-mix variety. The bank is the source for the AM slot in every week file's PART 4B from W23 forward.
+
 **Post the strongest visuals.** X is image-friendly and visual posts outperform text-only on reach. PBS already has a deep visual library to attach — no new design needed:
 - The 29 toolkit preview PNGs in `templates/documents/` (auto-rendered product shots)
 - Thursday messy-infographic heroes (channel-pricing claims report, rebate-flow ledger, the 5-Terms-Decoded marked-up pages)
