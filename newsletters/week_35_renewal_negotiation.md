@@ -703,22 +703,116 @@ A plan sponsor once asked me whether I ever "lose" renewal negotiations. My hone
 
 # PART 4B: X (TWITTER) POSTS
 
-> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.** _(Labor Day week — Mon Sep 1 is a holiday; keep the post scheduled, news content runs fine on holidays, but the amplifier patrol is lighter.)_
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. _Labor Day week — Mon is a holiday; keep the post scheduled (news runs fine on holidays) but lighten the amplifier patrol._
 
-| Day | AM (recipe — bank #) | First reply → | Midday | PM |
-|-----|----------------------|---------------|--------|-----|
-| Mon Sep 1 _(Labor Day)_ | #13 Drug reclassification | toolkit/definition-variance-audit | news-hold · D3 | P3 |
-| Tue Sep 2 | #14 Pass-through definition trick | toolkit/rebate-report-audit | news-hold · D4 | P4 |
-| Wed Sep 3 | #15 Auto-renewal / lock-in | toolkit/termination-clause-audit | news-hold · D5 | P5 |
-| Thu Sep 4 | #16 Audit rights limitation | Contract Library | news-hold · D6 | P6 |
-| Fri Sep 5 | #17 MAC list control | toolkit/channel-pricing | news-hold · D1 | P1 |
-| **Sat Sep 6** | **#4 DIR fees (Tier A)** | Contract Library | D2 | P2 |
-| **Sun Sep 7** | **#7 Mail-order steering (Tier A)** | toolkit/channel-pricing | D3 | origin O1 |
+**Mon Sep 1** _(Labor Day)_
+- **AM — recipe / Drug reclassification (Tier B):**
+```
+"Specialty" has no fixed clinical definition. It's whatever your PBM's contract says it is, and the specialty bucket carries the weakest pricing guarantee. So the PBM has every reason to call more of your drugs "specialty." Watch the list grow between renewals.
+```
+  - **First reply (link):** rxbs.org/toolkit/definition-variance-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+```
+- **PM — punchy:**
+```
+Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
+```
 
-> Weekend Tier A per the Q3 rotation (Sat DIR / Sun mail-order). Renewal-negotiation is the Monday topic, so the auto-renewal/audit-rights/MAC contract posts cluster the weekday AMs without scooping the renewal LinkedIn visuals. AM text + pool items in `x_recipe_post_bank.md`.
+**Tue Sep 2**
+- **AM — recipe / Pass-through definition trick (Tier B):**
+```
+"100% pass-through" hides a noun. 100% of what the PBM received, or 100% of what the manufacturer paid? A middleman it owns sits between those two numbers. Same percentage. Different starting line. The definition is the whole game.
+```
+  - **First reply (link):** rxbs.org/toolkit/rebate-report-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+```
+- **PM — punchy:**
+```
+Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+```
+
+**Wed Sep 3**
+- **AM — recipe / Auto-renewal / lock-in (Tier B):**
+```
+Auto-renewal: your PBM contract renews itself unless you give notice 90 to 180 days out. Miss the window and you're locked in another full term at rates you never reopened. The clock started before anyone told you it was running.
+```
+  - **First reply (link):** rxbs.org/toolkit/termination-clause-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+```
+- **PM — punchy:**
+```
+PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+```
+
+**Thu Sep 4**
+- **AM — recipe / Audit rights limitation (Tier B):**
+```
+Audit rights: your contract says you can audit the PBM. Then the fine print: once a year, the PBM's chosen auditor, the records the PBM selects, and the PBM decides if the findings count. That's not an audit right. It's a guided tour of the lobby.
+```
+  - **First reply (link):** the PBM Contract Language Library
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+```
+- **PM — punchy:**
+```
+Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
+```
+
+**Fri Sep 5**
+- **AM — recipe / MAC list control (Tier B):**
+```
+The MAC list sets what your plan pays for generics, and your PBM controls it. It can price the same generic differently across pharmacies and adjust it line by line. You agreed to "MAC pricing." You never saw the list. The list is the price.
+```
+  - **First reply (link):** rxbs.org/toolkit/channel-pricing
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+```
+- **PM — punchy:**
+```
+The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+```
+
+**Sat Sep 6**
+- **AM — recipe / DIR fees (Tier A weekend Cuban-bait):**
+```
+DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
+```
+  - **First reply (link):** the PBM Contract Language Library
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+```
+- **PM — punchy:**
+```
+Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+```
+
+**Sun Sep 7**
+- **AM — recipe / Mail-order steering (Tier A weekend Cuban-bait):**
+```
+Mail-order steering: same drug, same dose. Filled at the retail pharmacy, one price. Filled at the PBM's own mail-order pharmacy, another. The PBM sets both, and writes the rules that nudge your members to the one it owns. Convenience with a markup attached.
+```
+  - **First reply (link):** rxbs.org/toolkit/channel-pricing
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+```
+- **PM — origin (the one allowed this week):**
+```
+I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
+```
+
+> Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
 
 ---
-
 # PARTS 5-7
 
 ## Checklist

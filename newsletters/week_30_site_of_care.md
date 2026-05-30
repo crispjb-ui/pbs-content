@@ -751,22 +751,116 @@ A client thanked me once for including her home health agency in the site-of-car
 
 # PART 4B: X (TWITTER) POSTS
 
-> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.**
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. _Site-of-care / white-bagging is the Monday topic; hold white bagging off mid-week and amplify the Thursday LinkedIn visual after it publishes._
 
-| Day | AM (recipe — bank #) | First reply → | Midday | PM |
-|-----|----------------------|---------------|--------|-----|
-| Mon Jul 27 | #10 GER gaming | toolkit/ger-audit | news-hold · D4 | P4 |
-| Tue Jul 28 | #11 Admin fee unbundling | toolkit/pbm-compensation | news-hold · D5 | P5 |
-| Wed Jul 29 | #12 Network access fee | toolkit/network-configuration-audit | news-hold · D6 | P6 |
-| Thu Jul 30 | #13 Drug reclassification | toolkit/definition-variance-audit | news-hold · D1 | P1 |
-| Fri Jul 31 | #14 Pass-through definition trick | toolkit/rebate-report-audit | news-hold · D2 | P2 |
-| **Sat Aug 1** | **#5 Rebate aggregator (Tier A)** | toolkit/rebate-report-audit | D3 | P3 |
-| **Sun Aug 2** | **#3 Spread pricing (Tier A)** | toolkit/pbm-compensation | D4 | origin O4 |
+**Mon Jul 27**
+- **AM — recipe / GER gaming (Tier B):**
+```
+Generic effective rate guarantees: your PBM promises an average discount, then hits it by deep-discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings are an average that doesn't match your invoice.
+```
+  - **First reply (link):** rxbs.org/toolkit/ger-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+```
+- **PM — punchy:**
+```
+Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+```
 
-> Weekend Tier A per the Q3 rotation (Sat rebate aggregator / Sun spread). Site-of-care / white-bagging angle is the Monday LinkedIn topic this week, so hold the white-bagging X post (bank 8) off mid-week and amplify the Thursday LinkedIn visual after it publishes. AM text + pool items in `x_recipe_post_bank.md`.
+**Tue Jul 28**
+- **AM — recipe / Admin fee unbundling (Tier B):**
+```
+Admin fees: five line items on your monthly PBM invoice. Administrative. Clinical program. Network access. Implementation recovery. Rebate administration. The PBM wrote all five definitions. Four of them are margin wearing a service's name.
+```
+  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+```
+- **PM — punchy:**
+```
+PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+```
+
+**Wed Jul 29**
+- **AM — recipe / Network access fee (Tier B):**
+```
+Network access fee: your plan pays your PBM for permission to use the pharmacies your PBM already requires you to use. Read that twice. You're being charged rent on the cage.
+```
+  - **First reply (link):** rxbs.org/toolkit/network-configuration-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+```
+- **PM — punchy:**
+```
+Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
+```
+
+**Thu Jul 30**
+- **AM — recipe / Drug reclassification (Tier B):**
+```
+"Specialty" has no fixed clinical definition. It's whatever your PBM's contract says it is, and the specialty bucket carries the weakest pricing guarantee. So the PBM has every reason to call more of your drugs "specialty." Watch the list grow between renewals.
+```
+  - **First reply (link):** rxbs.org/toolkit/definition-variance-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+```
+- **PM — punchy:**
+```
+The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+```
+
+**Fri Jul 31**
+- **AM — recipe / Pass-through definition trick (Tier B):**
+```
+"100% pass-through" hides a noun. 100% of what the PBM received, or 100% of what the manufacturer paid? A middleman it owns sits between those two numbers. Same percentage. Different starting line. The definition is the whole game.
+```
+  - **First reply (link):** rxbs.org/toolkit/rebate-report-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+```
+- **PM — punchy:**
+```
+Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+```
+
+**Sat Aug 1**
+- **AM — recipe / Rebate aggregator (Tier A weekend Cuban-bait):**
+```
+Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
+```
+  - **First reply (link):** rxbs.org/toolkit/rebate-report-audit
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+```
+- **PM — punchy:**
+```
+Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
+```
+
+**Sun Aug 2**
+- **AM — recipe / Spread pricing (Tier A weekend Cuban-bait):**
+```
+Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
+```
+  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
+- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+```
+- **PM — origin (the one allowed this week):**
+```
+Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me why it costs what it does. The second lesson wasn't in any textbook.
+```
+
+> Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
 
 ---
-
 # PART 5: PUBLISHING CHECKLIST
 
 - [ ] **HUMANIZE REVIEW:** Run `/humanize` on Monday article, Thursday field note before publishing
