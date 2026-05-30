@@ -133,9 +133,18 @@ First reply → `rxbs.org/toolkit/pbm-compensation`
 
 ---
 
+## Weekend = the heavy-hitter window (Cuban's active time on X)
+
+Both Cuban X reposts landed on a **weekend** (Sun May 24 launch, Sat May 30 copay accumulator). Weekend is Cuban's active scrolling window, so **load the strongest Cuban-bait posts into the Saturday and Sunday AM slots, and patrol hardest Sat/Sun.** Tiering for slotting:
+
+- **Tier A — weekend AM slots (strongest Cuban-bait):** the vertical-integration / self-dealing / "PBM owns the middleman and routes value to itself" posts. From the bank: **1 copay accumulator, 5 rebate aggregator, 3 spread pricing, 6 specialty routing, 7 mail-order steering, 8 white bagging, 4 DIR fees.** These are the shapes Cuban has reposted. Put your freshest/strongest of these on Sat/Sun.
+- **Tier B — weekday AM slots (plan-sponsor-tactical, strong but less viral):** the contract-mechanics posts — **10 GER, 11 admin fees, 12 network access fee, 9 formulary exclusions, 13 reclassification, 14 pass-through, 15 auto-renewal, 16 audit rights, 17 MAC list, 18 manufacturer-fee reclassification.** Great for converting plan-sponsor readers; less likely to catch a Cuban repost. Run these Mon-Fri.
+
+So the weekly rhythm: **Sat/Sun = Tier A (Cuban-bait), Mon-Fri = Tier B rotation**, news reactions on top any day. When a Tier A post breaks out on a weekend, re-pin it and thread a second Tier A program within the hour while Cuban's audience is live.
+
 ## How to run it across W23 and beyond
 
-- **AM slot = recipe slot.** Each day, the ~8 AM amplifier-window post is the next program in this bank, in order (1 → 18 → loop). One full cycle ≈ 18 posting days (~2.5 weeks), so no program repeats inside a 2-week window.
+- **AM slot = recipe slot.** Each day, the ~8 AM amplifier-window post is a program from this bank. **Weekends pull Tier A; weekdays rotate Tier B in order.** Don't repeat a program inside a ~2-week window.
 - **Midday / PM slots keep variety** per `x_account_strategy.md`: news reactions, decoders, punchy one-liners, structural/synthesis, one capped origin/week. The recipe is the main worker, not the only shape.
 - **News override:** when a program here is in the headlines (FTC action, a lawsuit, a state law), pull that program's post forward to the same-hour reaction slot and tag the source.
 - **First reply = the link.** Route to the matching toolkit landing page above (or the Contract Library when no direct toolkit fits). Never put the link in the post body.

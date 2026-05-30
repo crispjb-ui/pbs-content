@@ -205,7 +205,9 @@ Pure Cuban-bait: vertical integration + hidden self-dealing extraction (the shap
 ## Tracking
 
 **Cuban active-window log (build the dataset, don't guess his hours):** log timestamps of Cuban posts/reposts here. Over 2-3 weeks this becomes PBS's own evidence for when his reply-patrol pays off, the same way the 8:30 AM LinkedIn finding was built empirically. The amplification lever is reaction speed when he posts, not timing scheduled posts to him.
-- **May 24, 2026 (Sun, holiday weekend):** active late morning into early afternoon ET. Posted the "Break Up Big Medicine" thread ~11:30 AM ET and the brand-drug/formulary thread ~12:06 PM ET; reposted Ginny within ~25 seconds around midday (actively scrolling, not just scheduling). One data point on a holiday Sunday, do not over-index.
+- **May 24, 2026 (Sun, holiday weekend):** active late morning into early afternoon ET. Posted the "Break Up Big Medicine" thread ~11:30 AM ET and the brand-drug/formulary thread ~12:06 PM ET; reposted Ginny within ~25 seconds around midday (actively scrolling, not just scheduling).
+- **May 30, 2026 (Sat):** reposted Ginny's copay-accumulator post around midday. Second amplification event, second weekend.
+- **PATTERN (Ginny's read, confirmed by the data): weekend = Cuban's active window on X.** Both reposts landed on a weekend (Sun + Sat). **Scheduling implication: weekend AM slots get the strongest Cuban-bait posts, and the amplifier patrol runs hardest Sat/Sun.** Two data points, so keep logging, but the weekend skew is now the working assumption. (Weekdays still post the full rotation; weekends just front-load the heaviest self-dealing/vertical-integration material when he's most likely scrolling.)
 
 ---
 
