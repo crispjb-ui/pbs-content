@@ -152,3 +152,27 @@ So the weekly rhythm: **Sat/Sun = Tier A (Cuban-bait), Mon-Fri = Tier B rotation
 - **Refresh the wording on each loop.** Reuse the program, vary the phrasing/closer (Humanize Check) so a repeat viewer doesn't see the identical sentence.
 
 This bank is the source for the AM "main worker" slot in every week file's PART 4B from W23 forward. The already-built W23-W26 PART 4B AM slots can be swapped to bank posts as you schedule; new weeks pull from here directly.
+
+## Q3 AM Workhorse Rotation (W23 → W37) — weekend Tier A pre-assigned
+
+The evergreen part of the X build, locked for the whole quarter. **Weekend Sat/Sun AM = Tier A** (Cuban's window), cycling the 7 Tier A posts so none repeats inside ~3 weeks. **Weekday Mon-Fri AM = Tier B**, rotating posts 2,9,10,11,12,13,14,15,16,17,18 in order (no repeat within 2 weeks), with the week's biosimilar/topic-tied amplifiers folded into midday where they fit. Bank post numbers in parentheses.
+
+| Week | Sat AM (Tier A) | Sun AM (Tier A) |
+|------|-----------------|-----------------|
+| W23 | Rebate aggregator (5) | Spread pricing (3) |
+| W24 | Specialty routing (6) | DIR fees (4) |
+| W25 | Mail-order steering (7) | White bagging (8) |
+| W26 | _Jul 4 — lighter profession-identity post_ | Rebate aggregator (5) |
+| W27 | Spread pricing (3) | Specialty routing (6) |
+| W28 | DIR fees (4) | Mail-order steering (7) |
+| W29 | White bagging (8) | Copay accumulator (1) |
+| W30 | Rebate aggregator (5) | Spread pricing (3) |
+| W31 | Specialty routing (6) | DIR fees (4) |
+| W32 | Mail-order steering (7) | White bagging (8) |
+| W33 | Copay accumulator (1) | Rebate aggregator (5) |
+| W34 | Spread pricing (3) | Specialty routing (6) |
+| W35 | DIR fees (4) | Mail-order steering (7) |
+| W36 | White bagging (8) | Copay accumulator (1) |
+| W37 | Rebate aggregator (5) | Spread pricing (3) |
+
+**How to use per week:** pull the two weekend AM posts from this table, rotate Tier B through the five weekday AMs, fill midday/PM with the variety pool + that week's Tue/Thu LinkedIn amplifiers (after they publish) + news-reaction holds. Refresh the wording on each loop (Humanize Check) and pull any program forward to a same-hour reaction slot when it's in the news. When Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
