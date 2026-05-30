@@ -1114,10 +1114,11 @@ Your PBM's quarterly report is a magic trick. The numbers it shows you are real.
 ```
 
 **Sun Jun 21**
-- **AM — synthesis / structural:**
+- **AM — recipe / DIR fees (Tier A weekend Cuban-bait):**
 ```
-Every defense of the PBM model comes down to one claim: trust us, the savings are real, you just can't see them. In what other business do you accept "the savings are real but unverifiable" from the company keeping the difference?
+DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
 ```
+  - **First reply (link):** the PBM Contract Language Library
 - **Midday — decoder + GLP-1 amplifier:**
 ```
 Your plan's GLP-1 spend is about to dwarf everything else. The formulary choice between them is being made on rebate size, not outcomes. Ask your PBM which GLP-1 is preferred and how much rebate it pays. Watch the room go quiet.

@@ -974,10 +974,11 @@ Read your PBM contract the way the PBM's lawyers wrote it: every undefined word 
 ```
 
 **Sun Jun 28**
-- **AM — synthesis / structural:**
+- **AM — recipe / white bagging (Tier A weekend Cuban-bait):**
 ```
-The PBM industry's best defense is complexity. Spread, DIR, effective rate, rebate aggregation, formulary tiering: each layer is a place to hide a margin and a reason you "couldn't possibly audit it." Complexity isn't a side effect. It's the product.
+White bagging: your PBM requires a specialty drug be shipped from its own pharmacy to the clinic, instead of the clinic buying it. Sounds like a safety rule. It's a routing rule, and it routes the margin to the PBM. Read who owns the pharmacy in the mandate.
 ```
+  - **First reply (link):** rxbs.org/toolkit/specialty-routing
 - **Midday — decoder + GLP-1 amplifier:**
 ```
 Your PBM put a specific GLP-1 in the "preferred" slot. Ask why. If the answer is about outcomes, you'll get data. If it's about rebates, you'll get a pause. The pause is the answer, and it's costing your plan.

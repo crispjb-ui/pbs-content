@@ -993,10 +993,11 @@ PBM contracts are written in a dialect built so the person paying the bill can't
 ```
 
 **Sun Jun 14**
-- **AM — synthesis / structural (mid-year through-line):**
+- **AM — recipe / spread pricing (Tier A weekend Cuban-bait):**
 ```
-Strip the acronyms off every PBM story and it's one story: a middleman sits between your plan and the pharmacy, sets the price on both sides, owns half the pieces, and wrote the contract that says you can't check. Mid-year is when the bill for all of it quietly comes due.
+Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
 ```
+  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
 - **Midday — decoder + GLP-1 amplifier:**
 ```
 GLP-1s are about to be the largest line on your pharmacy spend. Which one your plan covers has less to do with which works best and more to do with which manufacturer wrote the bigger rebate check. The drug on your formulary is the one that paid to be there.

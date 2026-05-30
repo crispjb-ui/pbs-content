@@ -938,10 +938,11 @@ Affordable medicine shouldn't require a forensic accountant. The fact that audit
 ```
 
 **Sun Jul 5**
-- **AM — synthesis / structural:**
+- **AM — recipe / rebate aggregator (Tier A weekend Cuban-bait):**
 ```
-The PBM model survives on one assumption: that the people paying the bill, employers and their members, will never have the time or the language to read the contract. That assumption is the whole moat. It's also beatable.
+Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
 ```
+  - **First reply (link):** rxbs.org/toolkit/rebate-report-audit
 - **Midday — decoder + GLP-1 amplifier:**
 ```
 GLP-1 demand is rewriting every plan's pharmacy budget. Your PBM's formulary pick among them is a rebate decision dressed as a clinical one. Ask for the rebate figure behind the "preferred" choice. You're entitled to know what's steering your largest new cost.
