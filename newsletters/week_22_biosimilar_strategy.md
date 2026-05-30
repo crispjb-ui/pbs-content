@@ -980,9 +980,9 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 **Sat Jun 6** _(lighter, still adversary-skewed)_
 - **AM — recipe / rebate aggregator (Tier A weekend Cuban-bait, text-only):** Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
   - **First reply (link):** rxbs.org/toolkit/rebate-report-audit (or the Contract Language Library)
-- **Midday — six-factor thread (biosimilar; atomized from Mon deep dive):**
+- **Midday — six-factor long post (biosimilar; atomized from Mon deep dive; single long post, NOT a thread):**
 ```
-6 questions that tell you whether your plan is capturing biosimilar savings or just paying for your PBM's rebate revenue. A thread.
+6 questions that tell you whether your plan is capturing biosimilar savings or just paying for your PBM's rebate revenue.
 
 1. Formulary placement: is the biosimilar preferred over the brand, or buried at the same tier?
 2. Substitution: does your plan document actually allow biosimilar substitution at the counter?
@@ -1010,9 +1010,9 @@ A client paid brand price on a biologic for over a year after the biosimilar lau
 
 **Atomization atoms — NOW SCHEDULED:** Atom 5 six-factor thread → **Sat Jun 6 midday**; Atom 1 anchor story → **Sun Jun 7 midday** (each displaced weekend-midday post preserved as a backup in its slot above). Reference copy retained below:
 
-- **Atom 5 — six-factor thread** (deploy as one thread; swap into a quiet midday or run the weekend after the Tier A AM):
+- **Atom 5 — six-factor long post** (single long post, NOT a thread; swap into a quiet midday or run the weekend after the Tier A AM):
 ```
-6 questions that tell you whether your plan is capturing biosimilar savings or just paying for your PBM's rebate revenue. A thread.
+6 questions that tell you whether your plan is capturing biosimilar savings or just paying for your PBM's rebate revenue.
 
 1. Formulary placement: is the biosimilar preferred over the brand, or buried at the same tier?
 2. Substitution: does your plan document actually allow biosimilar substitution at the counter?
