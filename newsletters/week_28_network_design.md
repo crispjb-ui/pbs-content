@@ -770,6 +770,24 @@ A client's HR director called me after she had successfully implemented a networ
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (the D-pool line is the quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.**
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Jul 13 | #11 Admin fee unbundling | toolkit/pbm-compensation | news-hold · D2 | P2 |
+| Tue Jul 14 | #12 Network access fee | toolkit/network-configuration-audit | news-hold · D3 | P3 |
+| Wed Jul 15 | #13 Drug reclassification | toolkit/definition-variance-audit | news-hold · D4 | P4 |
+| Thu Jul 16 | #14 Pass-through definition trick | toolkit/rebate-report-audit | news-hold · D5 | P5 |
+| Fri Jul 17 | #15 Auto-renewal / lock-in | toolkit/termination-clause-audit | news-hold · D6 | P6 |
+| **Sat Jul 18** | **#4 DIR fees (Tier A)** | Contract Library | D1 | P1 |
+| **Sun Jul 19** | **#7 Mail-order steering (Tier A)** | toolkit/channel-pricing | D2 | origin O2 |
+
+> Weekend Tier A per the Q3 rotation (Sat DIR / Sun mail-order). Pull AM text from `x_recipe_post_bank.md`; D#/P#/O# are the midday/PM pool items there. Any program in the news that week → pull forward to a same-hour reaction.
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement

@@ -701,6 +701,24 @@ A plan sponsor once asked me whether I ever "lose" renewal negotiations. My hone
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.** _(Labor Day week — Mon Sep 1 is a holiday; keep the post scheduled, news content runs fine on holidays, but the amplifier patrol is lighter.)_
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Sep 1 _(Labor Day)_ | #13 Drug reclassification | toolkit/definition-variance-audit | news-hold · D3 | P3 |
+| Tue Sep 2 | #14 Pass-through definition trick | toolkit/rebate-report-audit | news-hold · D4 | P4 |
+| Wed Sep 3 | #15 Auto-renewal / lock-in | toolkit/termination-clause-audit | news-hold · D5 | P5 |
+| Thu Sep 4 | #16 Audit rights limitation | Contract Library | news-hold · D6 | P6 |
+| Fri Sep 5 | #17 MAC list control | toolkit/channel-pricing | news-hold · D1 | P1 |
+| **Sat Sep 6** | **#4 DIR fees (Tier A)** | Contract Library | D2 | P2 |
+| **Sun Sep 7** | **#7 Mail-order steering (Tier A)** | toolkit/channel-pricing | D3 | origin O1 |
+
+> Weekend Tier A per the Q3 rotation (Sat DIR / Sun mail-order). Renewal-negotiation is the Monday topic, so the auto-renewal/audit-rights/MAC contract posts cluster the weekday AMs without scooping the renewal LinkedIn visuals. AM text + pool items in `x_recipe_post_bank.md`.
+
+---
+
 # PARTS 5-7
 
 ## Checklist

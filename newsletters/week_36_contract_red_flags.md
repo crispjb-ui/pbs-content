@@ -629,6 +629,24 @@ A client's attorney told me once that she appreciated working alongside a pharma
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.** _(Contract red flags is the Monday topic — the whole recipe is on-theme this week, so the AM rotation lands especially well.)_
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Sep 7 | #18 Manufacturer-fee reclassification | toolkit/pbm-compensation | news-hold · D4 | P4 |
+| Tue Sep 8 | #2 Copay maximizer | toolkit/copay-card-calculator | news-hold · D5 | P5 |
+| Wed Sep 9 | #9 Formulary exclusions | toolkit/step-therapy-override | news-hold · D6 | P6 |
+| Thu Sep 10 | #10 GER gaming | toolkit/ger-audit | news-hold · D1 | P1 |
+| Fri Sep 11 | #11 Admin fee unbundling | toolkit/pbm-compensation | news-hold · D2 | P2 |
+| **Sat Sep 12** | **#8 White bagging (Tier A)** | toolkit/specialty-routing | D3 | P3 |
+| **Sun Sep 13** | **#1 Copay accumulator (Tier A)** | toolkit/copay-card-calculator | D4 | origin O2 |
+
+> Weekend Tier A per the Q3 rotation (Sat white bagging / Sun copay accumulator). AM text + pool items in `x_recipe_post_bank.md`.
+
+---
+
 # PARTS 5-7
 
 ## Checklist

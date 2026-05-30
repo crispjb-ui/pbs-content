@@ -927,6 +927,56 @@ A broker told me she was going to share my scorecard with a client without credi
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction), per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Links in the FIRST REPLY only; 0-1 hashtags. Midday slot defaults to a **news reaction** (fire same-hour, tag the source); the D-pool line is the quiet-day backup. PM rotates the P-pool; Sun PM is the one weekly origin. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish.
+
+**Mon Jul 6** — **AM (Tier B · MAC list, bank 17):**
+```
+The MAC list sets what your plan pays for generics, and your PBM controls it. It can price the same generic differently across pharmacies and adjust it line by line. You agreed to "MAC pricing." You never saw the list. The list is the price.
+```
+First reply → `rxbs.org/toolkit/channel-pricing` · Midday: news-hold (backup **D1**) · PM: **P1**
+
+**Tue Jul 7** — **AM (Tier B · manufacturer-fee reclassification, bank 18):**
+```
+Watch where manufacturer money lands in your contract. Payments labeled "administrative reimbursement" instead of "rebate" sit outside the pass-through clause entirely. Same dollars, same manufacturer. One word decides whether your plan ever sees them.
+```
+First reply → `rxbs.org/toolkit/pbm-compensation` · Midday: news-hold (backup **D2**) · PM: **P2**
+
+**Wed Jul 8** — **AM (Tier B · copay maximizer, bank 2):**
+```
+Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+```
+First reply → `rxbs.org/toolkit/copay-card-calculator` · Midday: news-hold (backup **D3**) · PM: **P3**
+
+**Thu Jul 9** — **AM (Tier B · formulary exclusions, bank 9):**
+```
+Formulary exclusions: every year your PBM drops dozens of drugs "for value." Cross-reference the list against which manufacturers paid the biggest rebates. The logic gets clearer. The exclusion isn't clinical. It's leverage, and your members are the chip.
+```
+First reply → `rxbs.org/toolkit/step-therapy-override` · Midday: news-hold (backup **D4**) · PM: **P4**
+
+**Fri Jul 10** — **AM (Tier B · GER gaming, bank 10):**
+```
+Generic effective rate guarantees: your PBM promises an average discount, then hits it by deep-discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings are an average that doesn't match your invoice.
+```
+First reply → `rxbs.org/toolkit/ger-audit` · Midday: news-hold (backup **D5**) · PM: **P5**
+
+**Sat Jul 11** — **AM (Tier A · spread pricing, bank 3):**
+```
+Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
+```
+First reply → `rxbs.org/toolkit/pbm-compensation` · Midday: backup **D6** · PM: **P6**
+
+**Sun Jul 12** — **AM (Tier A · specialty routing, bank 6):**
+```
+Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. That's not a network. It's a funnel.
+```
+First reply → `rxbs.org/toolkit/specialty-routing` · Midday: backup **D1** · PM: origin **O1**
+
+> Weekend Tier A per the Q3 rotation (Sat spread / Sun specialty). Midday/PM pool items (D#/P#/O#) are in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news.
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)

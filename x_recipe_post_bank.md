@@ -176,3 +176,27 @@ The evergreen part of the X build, locked for the whole quarter. **Weekend Sat/S
 | W37 | Rebate aggregator (5) | Spread pricing (3) |
 
 **How to use per week:** pull the two weekend AM posts from this table, rotate Tier B through the five weekday AMs, fill midday/PM with the variety pool + that week's Tue/Thu LinkedIn amplifiers (after they publish) + news-reaction holds. Refresh the wording on each loop (Humanize Check) and pull any program forward to a same-hour reaction slot when it's in the news. When Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
+
+## Midday / PM pools (the variety slots — rotate; news-reaction always overrides midday)
+
+**Midday decoder pool (quiet-day backups when no news to react to):**
+- **D1 — pass-through noun:** "Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+- **D2 — effective rate:** "Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+- **D3 — GLP-1:** GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+- **D4 — MAC/WAC/AWP:** Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+- **D5 — audit clause:** Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+- **D6 — three referees:** About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+
+**PM punchy pool:**
+- **P1:** The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+- **P2:** Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+- **P3:** Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
+- **P4:** Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+- **P5:** PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+- **P6:** Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
+
+**Origin pool (Sun PM only, 1/week max):**
+- **O1:** I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
+- **O2:** Twenty years ago I counted pills behind a pharmacy counter and watched patients put medicine back over the price. I read PBM contracts now because that price was decided long before they reached my register.
+- **O3:** I didn't set out to read contracts for a living. I set out to help people afford their prescriptions. Turns out the price was decided in a contract nobody at the counter ever saw.
+- **O4:** Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me why it costs what it does. The second lesson wasn't in any textbook.

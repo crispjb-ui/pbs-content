@@ -674,6 +674,24 @@ A plan sponsor told me she felt bad challenging her PBM's clinical numbers becau
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.**
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Aug 10 | #9 Formulary exclusions | toolkit/step-therapy-override | news-hold · D6 | P6 |
+| Tue Aug 11 | #10 GER gaming | toolkit/ger-audit | news-hold · D1 | P1 |
+| Wed Aug 12 | #11 Admin fee unbundling | toolkit/pbm-compensation | news-hold · D2 | P2 |
+| Thu Aug 13 | #12 Network access fee | toolkit/network-configuration-audit | news-hold · D3 | P3 |
+| Fri Aug 14 | #13 Drug reclassification | toolkit/definition-variance-audit | news-hold · D4 | P4 |
+| **Sat Aug 15** | **#7 Mail-order steering (Tier A)** | toolkit/channel-pricing | D5 | P5 |
+| **Sun Aug 16** | **#8 White bagging (Tier A)** | toolkit/specialty-routing | D6 | origin O2 |
+
+> Weekend Tier A per the Q3 rotation (Sat mail-order / Sun white bagging). AM text + D#/P#/O# pool items in `x_recipe_post_bank.md`.
+
+---
+
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS
 
 ## Publishing Checklist

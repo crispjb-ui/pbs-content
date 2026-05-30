@@ -743,6 +743,24 @@ I had a client thank me after an RFP by saying, "I learned more from the questio
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.**
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Aug 3 | #15 Auto-renewal / lock-in | toolkit/termination-clause-audit | news-hold · D5 | P5 |
+| Tue Aug 4 | #16 Audit rights limitation | Contract Library | news-hold · D6 | P6 |
+| Wed Aug 5 | #17 MAC list control | toolkit/channel-pricing | news-hold · D1 | P1 |
+| Thu Aug 6 | #18 Manufacturer-fee reclassification | toolkit/pbm-compensation | news-hold · D2 | P2 |
+| Fri Aug 7 | #2 Copay maximizer | toolkit/copay-card-calculator | news-hold · D3 | P3 |
+| **Sat Aug 8** | **#6 Specialty routing (Tier A)** | toolkit/specialty-routing | D4 | P4 |
+| **Sun Aug 9** | **#4 DIR fees (Tier A)** | Contract Library | D5 | origin O1 |
+
+> Weekend Tier A per the Q3 rotation (Sat specialty / Sun DIR). RFP is the Monday topic, so the auto-renewal/audit-rights/RFP-adjacent contract posts cluster the weekday AMs nicely without scooping the Tue RFP-scoring LinkedIn visual (amplify that after it publishes). AM text + pool items in `x_recipe_post_bank.md`.
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 - [ ] **HUMANIZE REVIEW:** Run `/humanize` on Monday article, Thursday field note before publishing

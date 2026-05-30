@@ -903,6 +903,24 @@ A client thanked me at the end of a successful renewal by saying, "I negotiated 
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.**
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Sep 14 | #12 Network access fee | toolkit/network-configuration-audit | news-hold · D5 | P5 |
+| Tue Sep 15 | #13 Drug reclassification | toolkit/definition-variance-audit | news-hold · D6 | P6 |
+| Wed Sep 16 | #14 Pass-through definition trick | toolkit/rebate-report-audit | news-hold · D1 | P1 |
+| Thu Sep 17 | #15 Auto-renewal / lock-in | toolkit/termination-clause-audit | news-hold · D2 | P2 |
+| Fri Sep 18 | #16 Audit rights limitation | Contract Library | news-hold · D3 | P3 |
+| **Sat Sep 19** | **#5 Rebate aggregator (Tier A)** | toolkit/rebate-report-audit | D4 | P4 |
+| **Sun Sep 20** | **#3 Spread pricing (Tier A)** | toolkit/pbm-compensation | D5 | origin O3 |
+
+> Weekend Tier A per the Q3 rotation (Sat rebate aggregator / Sun spread). Renewal-readiness is the Monday topic, so the renewal-window contract posts (auto-renewal, audit rights) land on-theme through the week. AM text + pool items in `x_recipe_post_bank.md`.
+
+---
+
 # PARTS 5-7
 
 ## Checklist

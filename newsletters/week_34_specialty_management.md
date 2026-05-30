@@ -700,6 +700,24 @@ A broker told me a while back that specialty management had become the hardest c
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.** _(Specialty management is the Monday topic, so hold the specialty-routing X post off mid-week; the Sun Tier A specialty post sits after the week's LinkedIn has run.)_
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Aug 24 | #2 Copay maximizer | toolkit/copay-card-calculator | news-hold · D2 | P2 |
+| Tue Aug 25 | #9 Formulary exclusions | toolkit/step-therapy-override | news-hold · D3 | P3 |
+| Wed Aug 26 | #10 GER gaming | toolkit/ger-audit | news-hold · D4 | P4 |
+| Thu Aug 27 | #11 Admin fee unbundling | toolkit/pbm-compensation | news-hold · D5 | P5 |
+| Fri Aug 28 | #12 Network access fee | toolkit/network-configuration-audit | news-hold · D6 | P6 |
+| **Sat Aug 29** | **#3 Spread pricing (Tier A)** | toolkit/pbm-compensation | D1 | P1 |
+| **Sun Aug 30** | **#6 Specialty routing (Tier A)** | toolkit/specialty-routing | D2 | origin O4 |
+
+> Weekend Tier A per the Q3 rotation (Sat spread / Sun specialty). AM text + pool items in `x_recipe_post_bank.md`.
+
+---
+
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS
 
 ## Checklist

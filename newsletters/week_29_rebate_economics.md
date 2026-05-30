@@ -762,6 +762,24 @@ A client's HR director thanked me after a rebate audit returned money to her pla
 
 ---
 
+# PART 4B: X (TWITTER) POSTS
+
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe per the Q3 rotation; **weekend AM = Tier A.** Midday defaults to a news reaction (D-pool = quiet-day backup); PM rotates the P-pool; Sun PM = the weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu visuals on X only after they publish. **AM post text is in `x_recipe_post_bank.md` by the bank number shown.** _(Note: rebate-economics is the Monday topic, so X leans away from rebate posts mid-week to avoid LinkedIn cannibalization; the rebate-aggregator Tier A is held to the weekend.)_
+
+| Day | AM (recipe — bank #) | First reply → | Midday | PM |
+|-----|----------------------|---------------|--------|-----|
+| Mon Jul 20 | #16 Audit rights limitation | Contract Library | news-hold · D3 | P3 |
+| Tue Jul 21 | #17 MAC list control | toolkit/channel-pricing | news-hold · D4 | P4 |
+| Wed Jul 22 | #18 Manufacturer-fee reclassification | toolkit/pbm-compensation | news-hold · D5 | P5 |
+| Thu Jul 23 | #2 Copay maximizer | toolkit/copay-card-calculator | news-hold · D6 | P6 |
+| Fri Jul 24 | #9 Formulary exclusions | toolkit/step-therapy-override | news-hold · D1 | P1 |
+| **Sat Jul 25** | **#8 White bagging (Tier A)** | toolkit/specialty-routing | D2 | P2 |
+| **Sun Jul 26** | **#1 Copay accumulator (Tier A)** | toolkit/copay-card-calculator | D3 | origin O3 |
+
+> Weekend Tier A per the Q3 rotation (Sat white bagging / Sun copay accumulator — the proven Cuban-repost shape). AM text + D#/P#/O# pool items in `x_recipe_post_bank.md`.
+
+---
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement
