@@ -25,8 +25,10 @@ below surfaces the right ones each morning so nothing gets missed.
 ## Scheduling (one-time setup in Claude Code on the web)
 
 1. Open this repo's environment in Claude Code on the web.
-2. Create a **scheduled session / trigger** set to run **daily at 8:15 AM ET** (13:15 UTC; adjust for DST).
-   Just before the 8:30 AM LinkedIn feed posts.
+2. Create a **scheduled session / trigger** set to run **daily at 7:30 AM ET**. Set the timezone to
+   **America/New_York** so it auto-adjusts for daylight saving. (If the scheduler only accepts UTC: that
+   is **11:30 UTC** during EDT / **12:30 UTC** during EST.) 7:30 AM ET is when the Substack pieces publish,
+   giving a full hour to grab live URLs before the 8:30 AM LinkedIn posts.
 3. Set the session prompt to: `/first-comments-today`
 4. Save. Each morning the session runs, and the checklist arrives as the session output / notification.
 

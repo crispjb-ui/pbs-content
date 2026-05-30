@@ -70,7 +70,7 @@ in one line: **"No first comments needed today."** Do not pad.
 
 ## Notes
 
-- This runs as a scheduled morning session (~8:15 AM ET, just before the 8:30 posts). The reader is
-  Ginny, mid-coffee, about to publish. Be a checklist, not an essay.
+- This runs as a scheduled morning session (7:30 AM ET; Substack pieces publish at 7:30, an hour before
+  the 8:30 LinkedIn posts). The reader is Ginny, mid-coffee, about to publish. Be a checklist, not an essay.
 - Order matters: X first replies are the most time-sensitive (seconds after posting); call that out.
 - Never post anything yourself. You surface; Ginny pastes.
