@@ -14,7 +14,7 @@
 | Tue Jun 9 | 8:30 AM | LinkedIn Feed | Post 81 - Library 03 Contract Comparison Carousel: Audit Rights (PBM Contract Insights pillar) | [ ] |
 | Tue Jun 9 | 8:35 AM | LinkedIn Feed | Post 81 - First Comment | [ ] |
 | Tue Jun 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 81 | [ ] |
-| Wed Jun 10 | 8:30 AM | LinkedIn Feed | Post 82 - "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" Strong POV (TEXT) | [ ] |
+| Wed Jun 10 | 8:30 AM | LinkedIn Feed | Post 82 - "A Dermatologist Explained PBMs Better Than Anyone in Pharmacy" Strong POV + decoder visual (guest analogy, Matthew Zirwas MD, used w/ permission) | [ ] |
 | Wed Jun 10 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Thu Jun 11 | 7:30 AM | Substack | Field Note: "Decoded the Admin Fees. Now Audit Them." | [ ] |
 | Thu Jun 11 | 8:30 AM | LinkedIn Feed | Post 83 - 5 Admin Fee Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
@@ -494,6 +494,89 @@ Ginny Crisp walks through the redline on each.
 ---
 
 ## Post 82 - Wednesday 8:30 AM
+### "A Dermatologist Explained PBMs Better Than Anyone in Pharmacy" (Strong POV + Decoder Visual) — GUEST ANALOGY, used with permission
+
+**Format:** Strong POV Text Post + single decoder image (1080x1350)
+**Pillar:** Transparency & Industry Education
+**Attribution:** Analogy by Matthew Zirwas, MD (@mattzirwas on X). Used with explicit permission. Credit appears in the post body AND the visual footer.
+
+> **WHY THIS BUMPED THE ORIGINAL POST 82 (preserved below as Post 82-ALT):** Zirwas's housing analogy is a full-system decoder (rebate inflation → list price, fail-first → step therapy, "prove it was bad enough" → prior auth, owns-the-buildings → owns-the-pharmacy) and is best run while his original is still circulating on X. It is topic-distinct from Monday's Mid-Year Claims deep dive (Transparency/rebate vs. claims-data), which improves the week's topic spread rather than cannibalizing it. The displaced "Your Claims Data" POV is preserved intact below for a future open Wednesday.
+
+> **Humanize Check:** proprietary anchor present ("I read PBM contracts for a living," "every clause of it from the contracts on my desk, hundreds a year"). Confrontational/knowledge-gap hook names a surprising actor (a dermatologist). Broker/agent kept as the ally (the real estate agent is on your side); all blame aimed at the HBM/PBM. Illustrative housing dollars are clearly hypothetical, not PBM stats (no fabricated-statistic issue).
+
+#### Post Copy
+
+```
+A dermatologist's post on X just explained pharmacy benefit managers better than almost anyone in pharmacy ever has.
+
+He never used the word PBM. He used housing.
+
+It's by Matthew Zirwas, MD (@mattzirwas). He gave me permission to share it here, and I'm glad he did, because I read PBM contracts for a living and it is the clearest translation of them I have seen.
+
+Here is his version, lightly trimmed.
+
+Imagine you can't rent or buy a home directly. You tell an agent what you need, they find the right place. But only your "housing insurer" can approve it, and you don't choose the insurer. Your employer does, and pays about $2,500 a month out of your check. That money stays tax-free only if it runs through the insurer. Take it as cash and you lose a third to taxes. The law won't let your employer just hand it to you.
+
+Now the part that matters. Nobody rents to you directly. Only middlemen called Housing Benefit Managers. And HBMs make their money on rebates.
+
+So the rent on a $2,500 home gets written as $10,000. The landlord sends $7,500 back to the HBM as a rebate and keeps $2,500. The real cost was always $2,500. They charge $10,000 so there is a rebate to pay.
+
+A landlord can't win by building a better home. The HBM doesn't care about better. It cares about the rebate. The only way onto the list is to inflate the rent and pay a bigger kickback.
+
+It gets worse. The HBM lets you into the good place only after you've lived in the bad one first. Cheap wiring, thin walls, worst part of town. The safe home stays off the table until you prove something bad enough happened. Kids bullied? See a therapist. Break-in? Only if the report says the door was locked. Fire? Only if the department is certain it was the wiring.
+
+Then the HBM buys its own buildings, makes itself the default, and tells every other landlord: match my rent and my rebate, or you're off the list.
+
+When the slumlord, the HBM, and the insurer are the same company, real landlords can't compete. They can only comply.
+
+Now swap housing for drugs.
+
+The inflated rent is list price. The rebate is why your "savings" never reach you. The bad building you fail in first is step therapy. The "prove it was bad enough" gauntlet is prior authorization. The HBM that owns the buildings is the PBM that owns the pharmacy.
+
+I can point to every one of those mechanisms in the contracts on my desk. Hundreds of them a year.
+
+You and your doctor want the right drug at the best price.
+
+The system is built so no one in the middle has to.
+
+Credit to Matthew Zirwas, MD (@mattzirwas) for the analogy. I just recognize every clause of it.
+
+#PBMTransparency #Rebates #PharmacyBenefits
+```
+
+#### First Comment
+
+```
+If the rebate trick is the part that stopped you, here's the pharmacy version in plain English: how to read your PBM's rebate report and find the dollars that never reach your plan. [SUBSTACK: Reading the Rebate Report URL]
+```
+
+#### Visual — "Same Structure. Two Markets." decoder card (single image, 1080x1350)
+
+Status: **generated and approved (ChatGPT render, PBS v2 brand).** The cleaner of two renders; ship this one. Source prompt kept here for reproducibility / future edits:
+
+```
+1080 x 1350 px, LinkedIn portrait. Clean editorial infographic, white (#FFFFFF) background, generous negative space, flat and precise, no texture or grid. PBS v2 type system: IBM Plex Sans for display/body, IBM Plex Mono for all numbers (tabular figures).
+
+EYEBROW (top, uppercase, Gray #4D4D4D, +6% letter tracking, Plex Sans): "THE PBM, REBUILT IN HOUSING"
+HEADLINE (two lines, left-aligned, Plex Sans SemiBold): line 1 "SAME STRUCTURE." in Primary Blue (#015880); line 2 "TWO MARKETS." in Accent Blue (#A7E0FA).
+CENTER ICON: line-art house (left) joined by one bold Accent Blue right-pointing arrow to a prescription pill bottle marked Rx (right). Plex Mono uppercase label on the arrow: "TRANSLATE".
+MAPPING TABLE, two columns, five rows. Left header "HOUSING" (Gray); right header "YOUR PHARMACY BENEFIT" (Primary Blue). Thin Accent Blue arrow + faint Accent Blue dotted leader connect each pair.
+  Rent billed at $10,000 so a $7,500 rebate flows back  ->  List price inflated so the rebate exists
+  You can only rent through a Housing Benefit Manager  ->  You can only fill through a PBM
+  Live in the bad building first  ->  Step therapy: fail the cheap drug first
+  Prove it was bad enough  ->  Prior authorization
+  The HBM owns the buildings  ->  The PBM owns the pharmacy
+ACCENT BLUE only on: the central arrow, the five dotted connectors, and the right-column bullet markers.
+FOOTER: PBS triangle wordmark bottom-left. Bottom-right micro-caption, Gray, Plex Mono uppercase +6% tracking: "ANALOGY: MATTHEW ZIRWAS, MD — @MATTZIRWAS".
+```
+
+#### X amplification (Channel 6 — after the LinkedIn post is live)
+
+Per the LinkedIn-first rule, do NOT post this visual or material on X before the Wednesday LinkedIn post publishes. Once live, quote-post / reply to @mattzirwas's original thread crediting him and adding the PBS contract-reviewer anchor (relationship + amplification play, not a conversion play). The decoder card is a strong X visual; attach it on the same-day-after amplification post.
+
+---
+
+## Post 82-ALT — BUMPED (preserved for a future open Wednesday)
 ### "Your Claims Data Is Already Telling You What Your Renewal Will Look Like" (Strong POV Text)
 
 **Format:** Text Post (Strong POV)
