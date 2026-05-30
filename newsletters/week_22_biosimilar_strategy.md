@@ -989,6 +989,29 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - **Midday — stat-shock (cited; text-only):** Humira biosimilars have been on the U.S. market since 2023. Years later, the original still holds a large share of plan spend, not because it works better, but because the rebate held the formulary.
 - **PM — punchy / forward (text-only):** Fall renewal? The biosimilar conversation starts now, not in October. The savings are already FDA-approved. The contract is the only thing that isn't.
 
+**Atomization add-ons (from the Monday deep dive; ADD on a low-news weekday slot or hold as evergreen X material — do not drop a scheduled post for them):**
+
+- **Atom 5 — six-factor thread** (deploy as one thread; swap into a quiet midday or run the weekend after the Tier A AM):
+```
+6 questions that tell you whether your plan is capturing biosimilar savings or just paying for your PBM's rebate revenue. A thread.
+
+1. Formulary placement: is the biosimilar preferred over the brand, or buried at the same tier?
+2. Substitution: does your plan document actually allow biosimilar substitution at the counter?
+3. Rebate transparency: can you see net cost, after rebates, brand vs. biosimilar?
+4. Provider education: is your PBM briefing prescribers, or staying quiet?
+5. Member communication: do members hear about the biosimilar before the pharmacy counter?
+6. Contract language: does your PBM contract carry a single biosimilar performance metric?
+
+Three or more weak answers and your plan likely has unrealized savings. Start with #3.
+```
+  - **First reply (link):** Monday deep dive (the 6-factor readiness assessment + printable scorecard)
+
+- **Atom 1 — anchor story** (strong Cuban-bait; not LinkedIn material, so no embargo):
+```
+A client paid brand price on a biologic for over a year after the biosimilar launched. The cheaper option was right there. Why stay on the brand? The brand's rebate paid the PBM more to keep members on it. The plan paid more so the middleman could earn more.
+```
+  - **First reply (link):** Monday deep dive
+
 **Shape note (post-recipe, May 30 update):** AM slots now lead with the recipe (weekend = Tier A Cuban-bait: rebate aggregator Sat, spread pricing Sun); weekday AMs carry copay accumulator + the biosimilar-tied amplifiers. Midday/PM keep variety (decoder / punchy / news reaction / origin). **Tracking ask:** keep logging impressions, reposts, and saves per post in the X tracker so the recipe wording and the Tier A/Tier B split keep sharpening.
 
 ---

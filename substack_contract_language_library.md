@@ -212,6 +212,32 @@ What you should ask for:
 
 ---
 
+### Biosimilar Provisions
+
+**Provision: Biosimilar Formulary Placement**
+
+What you might see:
+> "PBM's formulary committee evaluates biosimilars and reference products and determines preferred status."
+
+What it actually means: The PBM decides placement, and the decision can favor the product carrying the larger manufacturer rebate. That is frequently the higher-cost brand, not the biosimilar with the lower net cost to your plan. "Our committee evaluated both options" is the sentence that ends the conversation before net cost is ever shown.
+
+What you should ask for:
+> "When an FDA-approved biosimilar is available for a reference product, PBM will place the lowest-net-cost option (after all rebates and fees) at preferred status within 60 days of launch and will provide Plan a net-cost comparison supporting the placement. Plan sponsor may request preferred placement of an available biosimilar, and PBM will document the net-cost basis for any decision to decline."
+
+---
+
+**Provision: Brand-to-Biosimilar Transition and Performance**
+
+What you might see:
+> "Biosimilar substitution will be handled in accordance with applicable law and PBM's standard clinical policies."
+
+What it actually means: No timeline, no fill-rate commitment, no accountability. The PBM is not obligated to move members to a lower-net-cost biosimilar or to report the savings the plan forgoes while the brand stays preferred. In the hundreds of contracts we review each year, biosimilar-specific performance language is still uncommon.
+
+What you should ask for:
+> "PBM will report biosimilar dispensing rates by therapeutic category each quarter, meet a minimum biosimilar fill rate where an interchangeable biosimilar is available, and complete brand-to-biosimilar transitions within 90 days of a biosimilar achieving preferred status. PBM will provide after-rebate net-cost reporting by category so Plan can verify the formulary is optimized for Plan cost rather than rebate revenue."
+
+---
+
 ## How to Use This Library
 
 1. **Before renewal:** Pull your current PBM contract. Compare each provision against the "what you should ask for" language.
@@ -233,6 +259,7 @@ Each section in this library connects to a deeper analysis on the Benefit Blind 
 - **Specialty pharmacy routing:** *The Specialty Pharmacy Decision Your PBM Made For You* (published March 30, 2026)
 - **340B claims identification:** *Contract Pharmacy Arrangements: The 340B Variable Employers Miss* (published April 13, 2026)
 - **Prior authorization:** *The Prior Authorization Problem: Balancing Control and Care* (published April 20, 2026)
+- **Biosimilar strategy:** *The Biosimilar Opportunity Your Plan Is Missing* (published June 1, 2026)
 
 Additional provision-specific deep dives publish throughout the year. The formulary management, termination and transition, and rebate economics deep dives are scheduled for Q2 and Q3 2026. Subscribe to Benefit Blind Spots to receive them as they go live.
 
@@ -242,7 +269,7 @@ Additional provision-specific deep dives publish throughout the year. The formul
 
 *Illustrative examples for educational purposes. Actual contract terms vary by plan, PBM, and market conditions.*
 
-*Last updated: May 20, 2026.*
+*Last updated: May 30, 2026.*
 
 ▲ END PASTE ▲
 
@@ -254,7 +281,7 @@ Additional provision-specific deep dives publish throughout the year. The formul
 |-------------------------|------------------|--------------------|--------|
 | April 2026 (initial publish) | Full initial library (Pricing, Rebate, Audit, Clinical, Termination, Specialty) | — | Week 17 launch |
 | May 21, 2026 | Definition of Generic Drug; Spread Pricing / Claim Pricing | Termination Notice expanded to "Termination Notice and Termination for Convenience" | Week 16 Library 01 |
-| _Pending: next push_ | — | — | — |
+| _Pending: next push_ | Biosimilar Provisions section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance) | — | W22 Biosimilar deep dive atomization |
 
 When Ginny confirms a Substack push is done, move the `_Pending: next push_` row to a dated row and open a fresh `_Pending: next push_` row for the next round of provisions.
 
