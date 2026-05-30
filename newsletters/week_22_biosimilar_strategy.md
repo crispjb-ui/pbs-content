@@ -944,7 +944,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 > **Convention (see `x_account_strategy.md`; W21 PART 4B is the prototype):** 3 scheduled posts/day (AM ~8 ET, midday ~12 ET, PM ~5 ET), plus same-hour reactions fired on top when PBM news breaks. **NOT locked to Monday's biosimilar topic** — X skews to breaking news and the Cuban-bait shapes. Links go in the FIRST REPLY, never the post body. `[VISUAL]` flags an attached asset.
 >
-> **Format experiment (this week's emphasis, per the May 24 launch learning):** we don't yet know which X shapes/formats convert for PBS, so W22 deliberately **spreads formats** — every post is tagged by shape (decoder / punchy / named-adversary / best-kept-secret / dollar comparison / stat-shock / news reaction / origin) and by format (text-only vs. visual). Goal: log impressions + engagement per post, then after 2-3 weeks correlate shape+format with what actually performs before concentrating. Don't run the same shape twice in a day.
+> **AM slot = the recipe (updated May 30, 2026 — see `x_recipe_post_bank.md`).** The early format experiment has its answer: the **"named program · hidden extraction"** shape is the daily AM workhorse, confirmed when Cuban reposted the copay-accumulator post (2nd Cuban repost, 2nd consecutive weekend). **Weekend AM slots run Tier A Cuban-bait** (rebate aggregator, spread pricing, DIR fees, specialty/mail-order routing) because both Cuban reposts landed on a weekend; weekday AM rotates Tier B + the biosimilar-tied amplifiers. Midday/PM keep shape variety. Keep logging impressions/reposts/saves per post so the bank's wording sharpens.
 >
 > **LinkedIn-first rule (required):** no X post may use a same-week LinkedIn post's visual/material before it publishes at 8:30 AM. This week that means: the **biosimilar-rebate-steering** angle belongs to Wed's LinkedIn POV (X can't run it until Wed after 8:30); the **CFO-numbers** carousel (Tue), **spread-pricing** carousel (Thu), and **claims-data** tease (Fri) are likewise embargoed until each publishes. Toolkit preview X-crops are Substack/lead-magnet assets, not LinkedIn feed visuals, so they're free to use anytime.
 
@@ -978,16 +978,18 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - **PM — origin (the one allowed this week; text-only):** I trained as a pharmacist to help people afford their medicine. I read PBM contracts now because that's the room where affordability actually gets decided. Different room. Same job.
 
 **Sat Jun 6** _(lighter, still adversary-skewed)_
-- **AM — dollar comparison (text-only):** Generic drugs cost pennies to make. Plans pay dollars. The gap isn't the pharmacy's margin. It's everyone standing between the factory and the claim.
+- **AM — recipe / rebate aggregator (Tier A weekend Cuban-bait, text-only):** Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
+  - **First reply (link):** rxbs.org/toolkit/rebate-report-audit (or the Contract Language Library)
 - **Midday — best-kept-secret (text-only):** White bagging sounds like a logistics term. It's a billing one. It's how a specialty drug gets routed so the PBM's own pharmacy captures the markup instead of the hospital. Ask where your specialty drugs are actually filled, and who owns that pharmacy.
 - **PM — punchy (text-only):** Every PBM says it's transparent, then writes the definition of "transparent" into a contract you're not allowed to audit.
 
 **Sun Jun 7** _(lighter)_
-- **AM — synthesis / decoder (text-only):** The biosimilar story in one line: the cheaper drug exists, the science is settled, and the only thing between your plan and the savings is a contract the PBM wrote.
+- **AM — recipe / spread pricing (Tier A weekend Cuban-bait, text-only):** Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
+  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
 - **Midday — stat-shock (cited; text-only):** Humira biosimilars have been on the U.S. market since 2023. Years later, the original still holds a large share of plan spend, not because it works better, but because the rebate held the formulary.
 - **PM — punchy / forward (text-only):** Fall renewal? The biosimilar conversation starts now, not in October. The savings are already FDA-approved. The contract is the only thing that isn't.
 
-**Format-spread tally (for the experiment):** decoder ×6, punchy ×5, named-adversary ×3, best-kept-secret ×2, dollar comparison ×1, stat-shock ×1 (+1 backup), news reaction ×1 (hold slot), 5-questions ×1, origin ×1. Format: 2 visual (toolkit X-crops), 19 text-only. The visual-vs-text split and the shape variety are intentional test variables. **Tracking ask:** log impressions, reposts, and saves per post tagged by shape+format in the X tracker, so after W22-W24 we can see which X shape and which format (text vs. toolkit-crop visual) actually convert for PBS before concentrating the mix.
+**Shape note (post-recipe, May 30 update):** AM slots now lead with the recipe (weekend = Tier A Cuban-bait: rebate aggregator Sat, spread pricing Sun); weekday AMs carry copay accumulator + the biosimilar-tied amplifiers. Midday/PM keep variety (decoder / punchy / news reaction / origin). **Tracking ask:** keep logging impressions, reposts, and saves per post in the X tracker so the recipe wording and the Tier A/Tier B split keep sharpening.
 
 ---
 
