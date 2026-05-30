@@ -980,16 +980,35 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 **Sat Jun 6** _(lighter, still adversary-skewed)_
 - **AM — recipe / rebate aggregator (Tier A weekend Cuban-bait, text-only):** Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
   - **First reply (link):** rxbs.org/toolkit/rebate-report-audit (or the Contract Language Library)
-- **Midday — best-kept-secret (text-only):** White bagging sounds like a logistics term. It's a billing one. It's how a specialty drug gets routed so the PBM's own pharmacy captures the markup instead of the hospital. Ask where your specialty drugs are actually filled, and who owns that pharmacy.
+- **Midday — six-factor thread (biosimilar; atomized from Mon deep dive):**
+```
+6 questions that tell you whether your plan is capturing biosimilar savings or just paying for your PBM's rebate revenue. A thread.
+
+1. Formulary placement: is the biosimilar preferred over the brand, or buried at the same tier?
+2. Substitution: does your plan document actually allow biosimilar substitution at the counter?
+3. Rebate transparency: can you see net cost, after rebates, brand vs. biosimilar?
+4. Provider education: is your PBM briefing prescribers, or staying quiet?
+5. Member communication: do members hear about the biosimilar before the pharmacy counter?
+6. Contract language: does your PBM contract carry a single biosimilar performance metric?
+
+Three or more weak answers and your plan likely has unrealized savings. Start with #3.
+```
+  - **First reply (link):** Monday deep dive (6-factor readiness assessment + printable scorecard)
+  - _Displaced backup (was this slot): white-bagging best-kept-secret, "White bagging sounds like a logistics term. It's a billing one. It's how a specialty drug gets routed so the PBM's own pharmacy captures the markup instead of the hospital. Ask where your specialty drugs are actually filled, and who owns that pharmacy." Hold for a future midday._
 - **PM — punchy (text-only):** Every PBM says it's transparent, then writes the definition of "transparent" into a contract you're not allowed to audit.
 
 **Sun Jun 7** _(lighter)_
 - **AM — recipe / spread pricing (Tier A weekend Cuban-bait, text-only):** Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
   - **First reply (link):** rxbs.org/toolkit/pbm-compensation
-- **Midday — stat-shock (cited; text-only):** Humira biosimilars have been on the U.S. market since 2023. Years later, the original still holds a large share of plan spend, not because it works better, but because the rebate held the formulary.
+- **Midday — anchor story (biosimilar Cuban-bait; atomized from Mon deep dive):**
+```
+A client paid brand price on a biologic for over a year after the biosimilar launched. The cheaper option was right there. Why stay on the brand? The brand's rebate paid the PBM more to keep members on it. The plan paid more so the middleman could earn more.
+```
+  - **First reply (link):** Monday deep dive
+  - _Displaced backup (was this slot): Humira stat-shock, "Humira biosimilars have been on the U.S. market since 2023. Years later, the original still holds a large share of plan spend, not because it works better, but because the rebate held the formulary." Redundant with the anchor story; hold as backup._
 - **PM — punchy / forward (text-only):** Fall renewal? The biosimilar conversation starts now, not in October. The savings are already FDA-approved. The contract is the only thing that isn't.
 
-**Atomization add-ons (from the Monday deep dive; ADD on a low-news weekday slot or hold as evergreen X material — do not drop a scheduled post for them):**
+**Atomization atoms — NOW SCHEDULED:** Atom 5 six-factor thread → **Sat Jun 6 midday**; Atom 1 anchor story → **Sun Jun 7 midday** (each displaced weekend-midday post preserved as a backup in its slot above). Reference copy retained below:
 
 - **Atom 5 — six-factor thread** (deploy as one thread; swap into a quiet midday or run the weekend after the Tier A AM):
 ```
