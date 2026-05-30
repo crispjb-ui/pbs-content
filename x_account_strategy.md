@@ -177,6 +177,30 @@ Add an X row to the channel-by-channel headers in `linkedin_performance_tracker.
 
 **Amplification event log:**
 - **May 24, 2026 (launch day) — Mark Cuban REPOSTED + liked Ginny's straight reply** on his "Break Up Big Medicine Bill" post (the "closed loop with a contract stapled to it" reply, vertical-integration / three-PBMs-owned-by-three-insurers anchor). Repost, not likes-only, so it counts as a real reach lift. First X Cuban repost and a Day-1 hit on the 30-day success criterion. Full draft + thread context logged in `newsletters/week_21_quarterly_reporting.md` PART 4B same-hour reaction log.
+- **May 30, 2026 (~7:14 AM ET post, Cuban reposted ~midday) — Mark Cuban REPOSTED Ginny's own timeline post** on **copay accumulators** ("a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly."). Second X Cuban repost, and the first on Ginny's **own scheduled post** (vs. a reply on his thread). Pre-Cuban snapshot: 1,072 views / 2 reposts / 6 likes; expect a large spike post-repost. **Confirms X is delivering the documented Cuban amplification the channel was built for** — two reposts inside the first week.
+
+### Winning X shape (confirmed May 30, 2026 — the "named program · hidden extraction" recipe)
+
+Three May 28-30 posts outperformed the rest of the rotation, and Cuban reposted one. Shared DNA, now the canonical X-post recipe (use it for the highest-leverage daily slots):
+
+| # | Post | Views | Reposts | Likes |
+|---|------|-------|---------|-------|
+| 1 | Channel pricing / mail-order steering ("Same generic drug… guess which one it steers your members toward") | ~1K | 11 | 21 |
+| 2 | Specialty funnel ("60 to 80% ran through the PBM's own specialty pharmacy. That's not a network. It's a funnel.") | 894 | 10 | 15 |
+| 3 | **Copay accumulators** ("routes the value back to the PBM… probably not labeled that clearly") — **Cuban reposted** | 1,072+ | 2→spiking | 6→spiking |
+
+**The seven ingredients (all three share them):**
+1. **Name a specific, real PBM program by its actual name** (copay accumulator, spread pricing, specialty routing). Concrete and nameable, never abstract. Specificity = credibility + repostability.
+2. **Define it as an extraction in 3 plain-English beats:** they take X → hide Y → keep Z.
+3. **PBM = named adversary; your plan / members = named victim.** Self-dealing framing (PBM owns the pharmacy/middleman, routes value to itself).
+4. **The "it's in your contract, just not labeled" close** — the killer hook; makes the reader ask "is this in MY contract?" Discomfort + knowledge gap.
+5. **A sharp reframe turn at the end** ("That's not a network. It's a funnel." / "Guess which one it steers your members toward." / "Probably not labeled that clearly.").
+6. **Proprietary anchor where it fits** ("in most plans we audit, 60 to 80%").
+7. **X-native form:** short, plain, no link in body, no hashtag, no wind-up. Lead with the program name.
+
+Pure Cuban-bait: vertical integration + hidden self-dealing extraction (the shape he's now reposted twice). Reach-for templates that fit the recipe: rebate aggregators (PBM-owned skim), spread pricing, DIR-fee clawbacks, copay maximizers, white/brown bagging, formulary exclusion tied to rebates. **Run these in the AM amplifier-window slot; route the first-reply link to the matching toolkit landing page or the Contract Language Library.** When Cuban reposts one, re-pin it and ship a same-vein follow-on within the hour while his audience is live.
+
+## Tracking
 
 **Cuban active-window log (build the dataset, don't guess his hours):** log timestamps of Cuban posts/reposts here. Over 2-3 weeks this becomes PBS's own evidence for when his reply-patrol pays off, the same way the 8:30 AM LinkedIn finding was built empirically. The amplification lever is reaction speed when he posts, not timing scheduled posts to him.
 - **May 24, 2026 (Sun, holiday weekend):** active late morning into early afternoon ET. Posted the "Break Up Big Medicine" thread ~11:30 AM ET and the brand-drug/formulary thread ~12:06 PM ET; reposted Ginny within ~25 seconds around midday (actively scrolling, not just scheduling). One data point on a holiday Sunday, do not over-index.
