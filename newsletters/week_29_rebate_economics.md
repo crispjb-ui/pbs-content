@@ -874,6 +874,34 @@ I didn't set out to read contracts for a living. I set out to help people afford
 > Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
 
 ---
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
+
+**Sat Jul 25 +10:00 AM — copay maximizer (Tier A):**
+```
+Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Jul 25 +2:30 PM — GPO offshore rebate routing (Tier A):**
+```
+Your PBM's rebates may run through a group purchasing organization it owns, often registered offshore. Fees get taken at that layer before the "pass-through" to your plan even begins. The contract says 100%. The GPO already took its cut in another country.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jul 26 +10:00 AM — formulary exclusivity payment (Tier A):**
+```
+A brand pays your PBM extra to be the only option in its class, biosimilars and competitors blocked. That payment isn't a discount to your plan. It's a toll the brand pays to keep cheaper drugs off your formulary, and your members pay the brand price.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jul 26 +2:30 PM — dispensing fee spread (Tier A):**
+```
+Your PBM pays its own mail-order pharmacy a richer dispensing fee than the corner pharmacy down the street. Same pill in the bottle. The fee isn't for the work. It's a transfer from your plan to the pharmacy the PBM owns.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement

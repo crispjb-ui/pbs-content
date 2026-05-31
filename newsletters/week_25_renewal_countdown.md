@@ -996,6 +996,34 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 22-26; tag the s
 
 ---
 
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
+
+**Sat Jun 27 +10:00 AM — formulary exclusivity payment (Tier A):**
+```
+A brand pays your PBM extra to be the only option in its class, biosimilars and competitors blocked. That payment isn't a discount to your plan. It's a toll the brand pays to keep cheaper drugs off your formulary, and your members pay the brand price.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Jun 27 +2:30 PM — dispensing fee spread (Tier A):**
+```
+Your PBM pays its own mail-order pharmacy a richer dispensing fee than the corner pharmacy down the street. Same pill in the bottle. The fee isn't for the work. It's a transfer from your plan to the pharmacy the PBM owns.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jun 28 +10:00 AM — price protection reclassification (Tier A):**
+```
+Manufacturers pay PBMs "price protection" when a drug's list price rises. Your contract's rebate definition may not count it as a rebate. Same manufacturer money, tied to your plan's drugs, sitting just outside the pass-through. One label keeps it off your report.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jun 28 +2:30 PM — copay accumulator (Tier A):**
+```
+Copay accumulators: a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)

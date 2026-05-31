@@ -861,6 +861,34 @@ Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me wh
 > Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
 
 ---
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
+
+**Sat Aug 1 +10:00 AM — price protection reclassification (Tier A):**
+```
+Manufacturers pay PBMs "price protection" when a drug's list price rises. Your contract's rebate definition may not count it as a rebate. Same manufacturer money, tied to your plan's drugs, sitting just outside the pass-through. One label keeps it off your report.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Aug 1 +2:30 PM — copay accumulator (Tier A):**
+```
+Copay accumulators: a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Aug 2 +10:00 AM — copay maximizer vendor (SaveOnSP-style) (Tier A):**
+```
+There's a vendor whose entire job is to reclassify your member's specialty drug as "non-essential" so the manufacturer's copay cap comes off, then drain the full year of assistance to the PBM. It's a program with a name and a contract. Ask if one is bolted onto your plan.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Aug 2 +2:30 PM — brown bagging (Tier A):**
+```
+Brown bagging: your PBM has the specialty drug shipped to the member, who carries it into the clinic. Sounds convenient. It moves the storage risk to the patient and the billing to a pharmacy the PBM owns. Ask who profits from the hand-off, and who eats it if the drug spoils.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PART 5: PUBLISHING CHECKLIST
 
 - [ ] **HUMANIZE REVIEW:** Run `/humanize` on Monday article, Thursday field note before publishing

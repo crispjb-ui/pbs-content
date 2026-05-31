@@ -960,6 +960,34 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 
 ---
 
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library. **(W26 note: if you keep July 4 light, run only the Sun adds.)**
+
+**Sat Jul 4 +10:00 AM — copay maximizer vendor (SaveOnSP-style) (Tier A):**
+```
+There's a vendor whose entire job is to reclassify your member's specialty drug as "non-essential" so the manufacturer's copay cap comes off, then drain the full year of assistance to the PBM. It's a program with a name and a contract. Ask if one is bolted onto your plan.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Jul 4 +2:30 PM — brown bagging (Tier A):**
+```
+Brown bagging: your PBM has the specialty drug shipped to the member, who carries it into the clinic. Sounds convenient. It moves the storage risk to the patient and the billing to a pharmacy the PBM owns. Ask who profits from the hand-off, and who eats it if the drug spoils.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jul 5 +10:00 AM — step therapy (fail-first) (Tier A):**
+```
+Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jul 5 +2:30 PM — specialty exclusive distribution (Tier A):**
+```
+Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)

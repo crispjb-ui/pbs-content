@@ -200,3 +200,81 @@ The evergreen part of the X build, locked for the whole quarter. **Weekend Sat/S
 - **O2:** Twenty years ago I counted pills behind a pharmacy counter and watched patients put medicine back over the price. I read PBM contracts now because that price was decided long before they reached my register.
 - **O3:** I didn't set out to read contracts for a living. I set out to help people afford their prescriptions. Turns out the price was decided in a contract nobody at the counter ever saw.
 - **O4:** Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me why it costs what it does. The second lesson wasn't in any textbook.
+
+---
+
+## Extended bank (recipes 19-30) — added May 31, 2026 for the 5/day weekend cadence
+
+The 3/day weekday + **5/day weekend** cadence (weekend = Cuban active window) burns the original 18-recipe rotation too fast. These 12 add depth so weekend Tier A slots don't repeat within a short window. Same 7-ingredient recipe, same first-reply discipline (Contract Language Library or matching toolkit). Reword on any repeat (Humanize rule).
+
+**19. Brown Bagging**
+```
+Brown bagging: your PBM has the specialty drug shipped to the member, who carries it into the clinic. Sounds convenient. It moves the storage risk to the patient and the billing to a pharmacy the PBM owns. Ask who profits from the hand-off, and who eats it if the drug spoils.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**20. Gpo Offshore Rebate Routing**
+```
+Your PBM's rebates may run through a group purchasing organization it owns, often registered offshore. Fees get taken at that layer before the "pass-through" to your plan even begins. The contract says 100%. The GPO already took its cut in another country.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**21. Price Protection Reclassification**
+```
+Manufacturers pay PBMs "price protection" when a drug's list price rises. Your contract's rebate definition may not count it as a rebate. Same manufacturer money, tied to your plan's drugs, sitting just outside the pass-through. One label keeps it off your report.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**22. Formulary Exclusivity Payment**
+```
+A brand pays your PBM extra to be the only option in its class, biosimilars and competitors blocked. That payment isn't a discount to your plan. It's a toll the brand pays to keep cheaper drugs off your formulary, and your members pay the brand price.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**23. Step Therapy (Fail-First)**
+```
+Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**24. Point-Of-Sale Clawback**
+```
+Clawback: your member's copay is set higher than the drug actually costs, and the PBM pockets the difference at the counter. A $10 generic, a $15 copay, $5 back to the middleman. Multiply by every script. A gag clause used to keep the pharmacist from telling them.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**25. Dispensing Fee Spread**
+```
+Your PBM pays its own mail-order pharmacy a richer dispensing fee than the corner pharmacy down the street. Same pill in the bottle. The fee isn't for the work. It's a transfer from your plan to the pharmacy the PBM owns.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**26. Effective-Rate True-Up Timing**
+```
+Your PBM "guarantees" an effective discount, then reconciles it once a year, months late, on its own math. The guarantee is real. The timing means the PBM holds your money and controls the calculation. Ask who audits the true-up, and when you actually get paid.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**27. Specialty Exclusive Distribution**
+```
+Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**28. Copay Maximizer Vendor (Saveonsp-Style)**
+```
+There's a vendor whose entire job is to reclassify your member's specialty drug as "non-essential" so the manufacturer's copay cap comes off, then drain the full year of assistance to the PBM. It's a program with a name and a contract. Ask if one is bolted onto your plan.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**29. Mid-Year Formulary Change**
+```
+Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**30. Nadac/Mac Arbitrage**
+```
+There's a public benchmark for what pharmacies actually pay for a generic: NADAC. Your PBM bills your plan off its own private MAC list instead. When MAC sits above NADAC, the gap is margin. Ask to see both numbers on the same claim.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library

@@ -786,6 +786,34 @@ Twenty years ago I counted pills behind a pharmacy counter and watched patients 
 > Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
 
 ---
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
+
+**Sat Aug 15 +10:00 AM — spread pricing (Tier A):**
+```
+Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Aug 15 +2:30 PM — rebate aggregator (Tier A):**
+```
+Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Aug 16 +10:00 AM — DIR fees (Tier A):**
+```
+DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Aug 16 +2:30 PM — specialty routing (Tier A):**
+```
+Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. That's not a network. It's a funnel.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS
 
 ## Publishing Checklist

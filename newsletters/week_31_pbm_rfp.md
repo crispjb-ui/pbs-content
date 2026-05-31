@@ -855,6 +855,34 @@ I trained as a clinical pharmacist to help people take the right drug at the rig
 > Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
 
 ---
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
+
+**Sat Aug 8 +10:00 AM — step therapy (fail-first) (Tier A):**
+```
+Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Aug 8 +2:30 PM — specialty exclusive distribution (Tier A):**
+```
+Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Aug 9 +10:00 AM — effective-rate true-up timing (Tier A):**
+```
+Your PBM "guarantees" an effective discount, then reconciles it once a year, months late, on its own math. The guarantee is real. The timing means the PBM holds your money and controls the calculation. Ask who audits the true-up, and when you actually get paid.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Aug 9 +2:30 PM — mid-year formulary change (Tier A):**
+```
+Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PART 5: PUBLISHING CHECKLIST
 
 - [ ] **HUMANIZE REVIEW:** Run `/humanize` on Monday article, Thursday field note before publishing

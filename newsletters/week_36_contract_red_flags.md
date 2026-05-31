@@ -741,6 +741,34 @@ Twenty years ago I counted pills behind a pharmacy counter and watched patients 
 > Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
 
 ---
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
+
+**Sat Sep 12 +10:00 AM — effective-rate true-up timing (Tier A):**
+```
+Your PBM "guarantees" an effective discount, then reconciles it once a year, months late, on its own math. The guarantee is real. The timing means the PBM holds your money and controls the calculation. Ask who audits the true-up, and when you actually get paid.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Sep 12 +2:30 PM — mid-year formulary change (Tier A):**
+```
+Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Sep 13 +10:00 AM — spread pricing (Tier A):**
+```
+Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Sep 13 +2:30 PM — mail-order steering (Tier A):**
+```
+Mail-order steering: same drug, same dose. Filled at the retail pharmacy, one price. Filled at the PBM's own mail-order pharmacy, another. The PBM sets both, and writes the rules that nudge your members to the one it owns. Convenience with a markup attached.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PARTS 5-7
 
 ## Checklist

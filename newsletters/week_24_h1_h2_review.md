@@ -1136,6 +1136,34 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 15-19 (FTC actio
 
 ---
 
+### Weekend cadence add-ons (5/day) — paste-ready
+
+Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
+
+**Sat Jun 20 +10:00 AM — point-of-sale clawback (Tier A):**
+```
+Clawback: your member's copay is set higher than the drug actually costs, and the PBM pockets the difference at the counter. A $10 generic, a $15 copay, $5 back to the middleman. Multiply by every script. A gag clause used to keep the pharmacist from telling them.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sat Jun 20 +2:30 PM — NADAC/MAC arbitrage (Tier A):**
+```
+There's a public benchmark for what pharmacies actually pay for a generic: NADAC. Your PBM bills your plan off its own private MAC list instead. When MAC sits above NADAC, the gap is margin. Ask to see both numbers on the same claim.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jun 21 +10:00 AM — copay maximizer (Tier A):**
+```
+Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**Sun Jun 21 +2:30 PM — GPO offshore rebate routing (Tier A):**
+```
+Your PBM's rebates may run through a group purchasing organization it owns, often registered offshore. Fees get taken at that layer before the "pass-through" to your plan even begins. The contract says 100%. The GPO already took its cut in another country.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)
