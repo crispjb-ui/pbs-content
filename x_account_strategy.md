@@ -179,7 +179,7 @@ Add an X row to the channel-by-channel headers in `linkedin_performance_tracker.
 
 **Amplification event log:**
 - **May 24, 2026 (launch day) — Mark Cuban REPOSTED + liked Ginny's straight reply** on his "Break Up Big Medicine Bill" post (the "closed loop with a contract stapled to it" reply, vertical-integration / three-PBMs-owned-by-three-insurers anchor). Repost, not likes-only, so it counts as a real reach lift. First X Cuban repost and a Day-1 hit on the 30-day success criterion. Full draft + thread context logged in `newsletters/week_21_quarterly_reporting.md` PART 4B same-hour reaction log.
-- **May 30, 2026 (~7:14 AM ET post, Cuban reposted ~midday) — Mark Cuban REPOSTED Ginny's own timeline post** on **copay accumulators** ("a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly."). Second X Cuban repost, and the first on Ginny's **own scheduled post** (vs. a reply on his thread). Pre-Cuban snapshot: 1,072 views / 2 reposts / 6 likes; expect a large spike post-repost. **Confirms X is delivering the documented Cuban amplification the channel was built for** — two reposts inside the first week.
+- **May 30, 2026 (~7:14 AM ET post, Cuban reposted ~midday) — Mark Cuban REPOSTED Ginny's own timeline post** on **copay accumulators** ("a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly."). Second X Cuban repost, and the first on Ginny's **own scheduled post** (vs. a reply on his thread). Pre-Cuban snapshot: 1,072 views / 2 reposts / 6 likes. **Confirmed result (observed May 31): ~52K views / 8 reposts / 38 likes** — the repost delivered the spike, as expected, and is the channel's biggest single-post reach to date off a non-reply post. **Confirms X is delivering the documented Cuban amplification the channel was built for** — two reposts inside the first week, the second a ~50x reach lift on Ginny's own scheduled post.
 
 ### Winning X shape (confirmed May 30, 2026 — the "named program · hidden extraction" recipe)
 
@@ -189,7 +189,7 @@ Three May 28-30 posts outperformed the rest of the rotation, and Cuban reposted 
 |---|------|-------|---------|-------|
 | 1 | Channel pricing / mail-order steering ("Same generic drug… guess which one it steers your members toward") | ~1K | 11 | 21 |
 | 2 | Specialty funnel ("60 to 80% ran through the PBM's own specialty pharmacy. That's not a network. It's a funnel.") | 894 | 10 | 15 |
-| 3 | **Copay accumulators** ("routes the value back to the PBM… probably not labeled that clearly") — **Cuban reposted** | 1,072+ | 2→spiking | 6→spiking |
+| 3 | **Copay accumulators** ("routes the value back to the PBM… probably not labeled that clearly") — **Cuban reposted** | **52K** | 8 | 38 |
 
 **The seven ingredients (all three share them):**
 1. **Name a specific, real PBM program by its actual name** (copay accumulator, spread pricing, specialty routing). Concrete and nameable, never abstract. Specificity = credibility + repostability.
@@ -208,6 +208,9 @@ Pure Cuban-bait: vertical integration + hidden self-dealing extraction (the shap
 - **May 24, 2026 (Sun, holiday weekend):** active late morning into early afternoon ET. Posted the "Break Up Big Medicine" thread ~11:30 AM ET and the brand-drug/formulary thread ~12:06 PM ET; reposted Ginny within ~25 seconds around midday (actively scrolling, not just scheduling).
 - **May 30, 2026 (Sat):** reposted Ginny's copay-accumulator post around midday. Second amplification event, second weekend.
 - **PATTERN (Ginny's read, confirmed by the data): weekend = Cuban's active window on X.** Both reposts landed on a weekend (Sun + Sat). **Scheduling implication: weekend AM slots get the strongest Cuban-bait posts, and the amplifier patrol runs hardest Sat/Sun.** Two data points, so keep logging, but the weekend skew is now the working assumption. (Weekdays still post the full rotation; weekends just front-load the heaviest self-dealing/vertical-integration material when he's most likely scrolling.)
+
+**Cuban like-only log (NOT amplification events; targeting signal only).** Per the likes-only rule (CLAUDE.md), Cuban likes produce zero reach lift, so they are logged here separately from the repost log above to keep the amplification record clean. Likes still reveal which shapes catch his eye, which is how we decide what to load into the weekend Tier A slots.
+- **May 31, 2026 (observed):** liked the *"Transparency is the word every PBM uses and the thing every PBM contract is built to prevent"* punchy decoder aphorism (named-adversary, ~93 views, May 29 post). Like-only, no repost, no reach lift. Shape read: he is drawn to the sharp named-adversary decoder one-liners (the P-pool punchy shape), consistent with the dollar-comparison / self-dealing material he has actually reposted. Implication: keep the punchy named-adversary decoder aphorisms in rotation as weekend Cuban-bait. The like is a step toward a repost, not the prize.
 
 ---
 
