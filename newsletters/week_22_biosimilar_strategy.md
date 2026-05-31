@@ -977,9 +977,13 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 - **Midday — decoder / audit (text-only):** Your PBM contract's audit clause is either a flashlight or a blindfold. The flashlight lets you audit the PBM's affiliated pharmacies. The blindfold stops at the PBM's own books, which is exactly where the affiliated markup isn't.
 - **PM — origin (the one allowed this week; text-only):** I trained as a pharmacist to help people afford their medicine. I read PBM contracts now because that's the room where affordability actually gets decided. Different room. Same job.
 
-**Sat Jun 6** _(lighter, still adversary-skewed)_
-- **AM — recipe / rebate aggregator (Tier A weekend Cuban-bait, text-only):** Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
+**Weekend cadence (W22 forward): 5 X posts/day on Sat + Sun** (vs. 3/day weekday), Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. The two ADDED slots (10:00 AM + 2:30 PM ET) are named-adversary / dollar-comparison recipes (his repost DNA), reworded to avoid near-duplicate spam-flagging. All times ET. Existing slots: AM 8:00 / midday 12:00 / PM 5:00.
+
+**Sat Jun 6** _(5 posts; still adversary-skewed)_
+- **8:00 AM — recipe / rebate aggregator (Tier A weekend Cuban-bait, text-only):** Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
   - **First reply (link):** rxbs.org/toolkit/rebate-report-audit (or the Contract Language Library)
+- **+10:00 AM — ADD (Tier A · DIR fees, text-only):** DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
+  - **First reply (link):** the PBM Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **Midday — six-factor long post (biosimilar; atomized from Mon deep dive; single long post, NOT a thread):**
 ```
 6 questions that tell you whether your plan is capturing biosimilar savings or just paying for your PBM's rebate revenue.
@@ -994,19 +998,24 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 Three or more weak answers and your plan likely has unrealized savings. Start with #3.
 ```
   - **First reply (link):** Monday deep dive: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
-  - _Displaced backup (was this slot): white-bagging best-kept-secret, "White bagging sounds like a logistics term. It's a billing one. It's how a specialty drug gets routed so the PBM's own pharmacy captures the markup instead of the hospital. Ask where your specialty drugs are actually filled, and who owns that pharmacy." Hold for a future midday._
-- **PM — punchy (text-only):** Every PBM says it's transparent, then writes the definition of "transparent" into a contract you're not allowed to audit.
+- **+2:30 PM — ADD (Tier A · white bagging, text-only):** White bagging sounds like a logistics term. It's a billing one. It's how a specialty drug gets routed so the PBM's own pharmacy captures the markup instead of the hospital. Ask where your specialty drugs are actually filled, and who owns that pharmacy.
+  - **First reply (link):** the PBM Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **5:00 PM — punchy (text-only):** Every PBM says it's transparent, then writes the definition of "transparent" into a contract you're not allowed to audit.
 
-**Sun Jun 7** _(lighter)_
-- **AM — recipe / spread pricing (Tier A weekend Cuban-bait, text-only):** Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
+**Sun Jun 7** _(5 posts)_
+- **8:00 AM — recipe / spread pricing (Tier A weekend Cuban-bait, text-only):** Spread pricing: your PBM bills your plan one price for a generic, pays the pharmacy a lower one, and keeps the gap. Both numbers are real. Your report only shows you one of them. It's in your contract, just not on a line called "spread."
   - **First reply (link):** rxbs.org/toolkit/pbm-compensation
+- **+10:00 AM — ADD (Tier A · mail-order steering / dollar comparison, text-only):** Mail-order steering: same drug, same dose. Filled at the retail pharmacy, one price. Filled at the PBM's own mail-order pharmacy, another. The PBM sets both, and writes the rules that nudge your members to the one it owns. Convenience with a markup attached.
+  - **First reply (link):** the PBM Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **Midday — anchor story (biosimilar Cuban-bait; atomized from Mon deep dive):**
 ```
 A client paid brand price on a biologic for over a year after the biosimilar launched. The cheaper option was right there. Why stay on the brand? The brand's rebate paid the PBM more to keep members on it. The plan paid more so the middleman could earn more.
 ```
   - **First reply (link):** Monday deep dive: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
-  - _Displaced backup (was this slot): Humira stat-shock, "Humira biosimilars have been on the U.S. market since 2023. Years later, the original still holds a large share of plan spend, not because it works better, but because the rebate held the formulary." Redundant with the anchor story; hold as backup._
-- **PM — punchy / forward (text-only):** Fall renewal? The biosimilar conversation starts now, not in October. The savings are already FDA-approved. The contract is the only thing that isn't.
+- **+2:30 PM — ADD (Tier A · copay maximizer; same-vein follow-on to the reposted accumulator, text-only):** Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+  - **First reply (link):** the PBM Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+  - _(Humira stat-shock previously held here stays a backup if a slot opens.)_
+- **5:00 PM — punchy / forward (text-only):** Fall renewal? The biosimilar conversation starts now, not in October. The savings are already FDA-approved. The contract is the only thing that isn't.
 
 **Atomization atoms — NOW SCHEDULED:** Atom 5 six-factor thread → **Sat Jun 6 midday**; Atom 1 anchor story → **Sun Jun 7 midday** (each displaced weekend-midday post preserved as a backup in its slot above). Reference copy retained below:
 
