@@ -340,7 +340,7 @@ The single most important step is requesting a net cost comparison from your PBM
 
 ---
 
-This week's Benefit Blind Spots includes a **biosimilar readiness assessment**: six factors that determine whether your plan is capturing biosimilar savings, with a scoring framework and specific questions for your PBM. That assessment is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes a **biosimilar readiness assessment**: six factors that determine whether your plan is capturing biosimilar savings, with a scoring framework and specific questions for your PBM. That assessment is exclusive to the Substack: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 
 ---
 
@@ -403,7 +403,7 @@ I review hundreds of PBM contracts a year at PBS. None of these metrics require 
 
 #### First Comment
 
-This week's Benefit Blind Spots deep dive is the companion to numbers 3 and 4: a biosimilar readiness assessment with a 6-factor scoring framework and the exact net-cost data request to send your PBM. Run the assessment with your top-25 drug list next to you. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive is the companion to numbers 3 and 4: a biosimilar readiness assessment with a 6-factor scoring framework and the exact net-cost data request to send your PBM. Run the assessment with your top-25 drug list next to you. https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 
 #### Carousel Slide-by-Slide Spec
 
@@ -516,7 +516,7 @@ One question reveals everything: what is the net cost, brand vs. biosimilar, aft
 
 #### First Comment
 
-This week's Benefit Blind Spots deep dive on biosimilar strategy is the operational follow-on: the 6-factor biosimilar readiness assessment + scoring framework. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive on biosimilar strategy is the operational follow-on: the 6-factor biosimilar readiness assessment + scoring framework. https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 
 ---
 
@@ -566,7 +566,7 @@ Save this for your next specialty review.
 
 #### First Comment
 
-Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually audit your specialty drug routing using the five terms above. Three comparison passes (drug-by-pharmacy breakdown, ownership classification, contract-clause check) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Specialty Routing Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually audit your specialty drug routing using the five terms above. Three comparison passes (drug-by-pharmacy breakdown, ownership classification, contract-clause check) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Specialty Routing Audit Worksheet you can hand to your broker. https://benefitblindspots.substack.com/p/auditing-where-your-specialty-drugs-fill
 
 #### Three-Pill-Bottle Photoreal Concept
 
@@ -843,7 +843,7 @@ Get next Monday's deep dive on Mid-Year Claims Red Flags in your inbox: benefitb
 **Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the biosimilar opportunity most self-funded plans are missing. We walk through why PBM rebate economics may not align with your plan's cost objectives, and share our six-factor biosimilar readiness assessment.
 
-Read the full analysis: [LINK]
+Read the full analysis: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
@@ -880,9 +880,9 @@ A pharmacy student asked me during a guest lecture whether biosimilars were "a b
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: three biosimilar contract provisions worth negotiating. Dispensing rate guarantees, brand-to-biosimilar transition timelines, and net cost comparison reporting. Most PBM contracts say nothing about biosimilar performance. That silence has a cost.
+New field note: where your specialty drugs actually fill. Pull a quarter of your specialty claims, sort by filling pharmacy, and see how many ran through the one your PBM owns. We walk the audit, the ownership check, and the contract clause that lets you redirect.
 
-Read the field note: [LINK]
+Read the field note: https://benefitblindspots.substack.com/p/auditing-where-your-specialty-drugs-fill
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
@@ -950,7 +950,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 **Mon Jun 1** _(Monday biosimilar deep dive publishes 7:30 AM; first replies route to it + the readiness toolkit)_
 - **AM — decoder / opportunity `[VISUAL: week_22_biosimilar_readiness_assessment_x.png]`:** A biosimilar is the same biologic, built by a different maker, at a fraction of the price. The clinical case was settled years ago. The savings are sitting on the table. The only open question for a self-funded plan is whether your formulary actually puts the biosimilar in front of members, or just lists it and moves on.
-  - **First reply (link):** Today's deep dive breaks down the 6-factor biosimilar readiness assessment, with the printable scorecard: [Monday Substack deep dive link]
+  - **First reply (link):** Today's deep dive breaks down the 6-factor biosimilar readiness assessment, with the printable scorecard: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 - **Midday — decoder (text-only):** Biosimilar isn't a generic. A generic is an identical chemical copy. A biosimilar is a highly similar copy of a biologic, grown from living cells, FDA-reviewed to work the same. The word "similar" spooks people off a drug that performs like the original. That hesitation is worth billions to whoever still sells the brand.
 - **PM — punchy (text-only):** The cheapest version of your plan's most expensive drug has been FDA-approved for years. Ask your PBM why you're not on it.
 
@@ -962,18 +962,18 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 **Wed Jun 3** _(LinkedIn 8:30 = "PBM May Have a Financial Incentive to Keep You on the Brand" biosimilar POV; rebate-steering angle unlocks AFTER 8:30)_
 - **AM — decoder / GLP-1 (text-only; non-biosimilar, runs 8 AM, no embargo):** A GLP-1 lists north of a thousand dollars a month. Your plan doesn't pay list. Your member doesn't pay list. And your PBM won't show you the net. The list price is theater. The rebate is the real number. You're billed somewhere in between and never shown the math.
 - **Midday — named-adversary / biosimilar (text-only; AFTER 8:30, amplifies the Wed POV):** Your PBM may have a financial reason to keep your plan on the brand over the cheaper biosimilar. It's called a rebate. The brand pays it. The biosimilar can't match it. So the drug your formulary calls "preferred" is preferred by the PBM's P&L, not your plan's.
-  - **First reply (link):** The net-cost-comparison request that surfaces this is in Monday's deep dive: [Monday Substack deep dive link]
+  - **First reply (link):** The net-cost-comparison request that surfaces this is in Monday's deep dive: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 - **PM — punchy (text-only):** A biosimilar saves your plan money. A rebate keeps your PBM whole. Guess which one ends up "preferred."
 
 **Thu Jun 4** _(Field Note 7:30 = "Three Biosimilar Contract Provisions Worth Negotiating"; LinkedIn 8:30 = "5 Questions About Spread Pricing" carousel)_
 - **AM — decoder / contract (text-only; Field Note already live 7:30):** Three provisions decide whether your plan ever captures biosimilar savings: an interchangeability clause, a formulary-placement guarantee, and a rebate-neutral substitution right. Most contracts have none of the three. The biosimilar exists. The contract is what lets you use it.
-  - **First reply (link):** Today's Field Note walks all three, with the language to ask for: [Thursday Field Note link]
+  - **First reply (link):** The contract-language factor (Factor 6) is in Monday's deep dive, the 6-factor readiness assessment: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 - **Midday — 5-questions / named-adversary (text-only; AFTER 8:30, amplifies the spread-pricing carousel):** Five questions about spread pricing went up this morning. The one your PBM hopes you skip: show me what you billed the plan and what you paid the pharmacy, side by side, for the same claim. If they can't, the gap is the answer.
 - **PM — punchy (text-only):** Spread pricing has one tell: your PBM will show you what it charged you, or what it paid the pharmacy. Never both on the same line.
 
 **Fri Jun 5** _(LinkedIn 8:30 = "Your Claims Data Is Already Talking" tease; claims-data angle embargoed until then)_
 - **AM — named-adversary / specialty `[VISUAL: week_22_thursday_specialty_routing_audit_worksheet_x.png]`:** Pull a quarter of your specialty claims and sort by which pharmacy filled them. In most plans we review, the majority ran through the pharmacy the PBM owns. Members didn't pick it. The contract routed them there.
-  - **First reply (link):** The specialty-routing audit worksheet that surfaces this is in this week's Field Note: [Thursday Field Note link]
+  - **First reply (link):** The specialty-routing audit worksheet that surfaces this is in this week's Field Note: https://benefitblindspots.substack.com/p/auditing-where-your-specialty-drugs-fill
 - **Midday — decoder / audit (text-only):** Your PBM contract's audit clause is either a flashlight or a blindfold. The flashlight lets you audit the PBM's affiliated pharmacies. The blindfold stops at the PBM's own books, which is exactly where the affiliated markup isn't.
 - **PM — origin (the one allowed this week; text-only):** I trained as a pharmacist to help people afford their medicine. I read PBM contracts now because that's the room where affordability actually gets decided. Different room. Same job.
 
@@ -993,7 +993,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 Three or more weak answers and your plan likely has unrealized savings. Start with #3.
 ```
-  - **First reply (link):** Monday deep dive (6-factor readiness assessment + printable scorecard)
+  - **First reply (link):** Monday deep dive: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
   - _Displaced backup (was this slot): white-bagging best-kept-secret, "White bagging sounds like a logistics term. It's a billing one. It's how a specialty drug gets routed so the PBM's own pharmacy captures the markup instead of the hospital. Ask where your specialty drugs are actually filled, and who owns that pharmacy." Hold for a future midday._
 - **PM — punchy (text-only):** Every PBM says it's transparent, then writes the definition of "transparent" into a contract you're not allowed to audit.
 
@@ -1004,7 +1004,7 @@ Three or more weak answers and your plan likely has unrealized savings. Start wi
 ```
 A client paid brand price on a biologic for over a year after the biosimilar launched. The cheaper option was right there. Why stay on the brand? The brand's rebate paid the PBM more to keep members on it. The plan paid more so the middleman could earn more.
 ```
-  - **First reply (link):** Monday deep dive
+  - **First reply (link):** Monday deep dive: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
   - _Displaced backup (was this slot): Humira stat-shock, "Humira biosimilars have been on the U.S. market since 2023. Years later, the original still holds a large share of plan spend, not because it works better, but because the rebate held the formulary." Redundant with the anchor story; hold as backup._
 - **PM — punchy / forward (text-only):** Fall renewal? The biosimilar conversation starts now, not in October. The savings are already FDA-approved. The contract is the only thing that isn't.
 
@@ -1023,13 +1023,13 @@ A client paid brand price on a biologic for over a year after the biosimilar lau
 
 Three or more weak answers and your plan likely has unrealized savings. Start with #3.
 ```
-  - **First reply (link):** Monday deep dive (the 6-factor readiness assessment + printable scorecard)
+  - **First reply (link):** Monday deep dive: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 
 - **Atom 1 — anchor story** (strong Cuban-bait; not LinkedIn material, so no embargo):
 ```
 A client paid brand price on a biologic for over a year after the biosimilar launched. The cheaper option was right there. Why stay on the brand? The brand's rebate paid the PBM more to keep members on it. The plan paid more so the middleman could earn more.
 ```
-  - **First reply (link):** Monday deep dive
+  - **First reply (link):** Monday deep dive: https://benefitblindspots.substack.com/p/the-biosimilar-opportunity-your-plan-is-missing
 
 **Shape note (post-recipe, May 30 update):** AM slots now lead with the recipe (weekend = Tier A Cuban-bait: rebate aggregator Sat, spread pricing Sun); weekday AMs carry copay accumulator + the biosimilar-tied amplifiers. Midday/PM keep variety (decoder / punchy / news reaction / origin). **Tracking ask:** keep logging impressions, reposts, and saves per post in the X tracker so the recipe wording and the Tier A/Tier B split keep sharpening.
 
