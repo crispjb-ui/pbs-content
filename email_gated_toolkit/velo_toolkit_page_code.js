@@ -49,7 +49,7 @@
  *   Internal logging collection (CMS) — create/confirm fields once:
  *     Collection "ToolkitLeads":
  *       first_name (Text), email (Text), company (Text), role (Text),
- *       last_toolkit_name (Text), last_toolkit_slug (Text),
+ *       toolkit_name (Text), toolkit_slug (Text),
  *       toolkits_requested (Text), downloads (Number), repeat (Boolean),
  *       last_download (Date and Time)
  *     Permissions: admin-only insert is fine — backend writes with suppressAuth.

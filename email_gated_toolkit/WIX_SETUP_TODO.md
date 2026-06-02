@@ -103,7 +103,7 @@ Custom form (native inputs + button) on rxbs.org/toolkit/<slug>
 backend/toolkitLead.jsw → submitLead()
     1) Wix Contacts appendOrCreateContact (dedupes by email)
     2) ToolkitLeads UPSERT — ONE ROW PER EMAIL (insert first time; update on repeat:
-       downloads++, repeat=true, last_toolkit_*, toolkits_requested history, last_download)
+       downloads++, repeat=true, toolkit_name/slug, toolkits_requested history, last_download)
     3) POST to the SAME Zapier Catch Hook, payload includes repeat: true|false
     ↓
 Zapier: Email 1 (PDF) → **Filter: only continue if repeat is false** → Emails 2-5
@@ -115,7 +115,7 @@ Repeats get Email 1 only (the PDF they asked for); first-timers get the full 1-5
 
 1. **Page elements** — on the `Toolkits (Item)` dynamic page, add native inputs + button + status texts with the IDs listed in the `velo_toolkit_page_code.js` header (`#inputFirstName`, `#inputEmail`, `#inputCompany`, `#inputRole`, `#getButton`, `#welcomeBack`, `#successMsg`, `#errorMsg`, `#editInfoLink`, `#formBox`). Bind the dataset as `#toolkitDataset`.
 2. **KEEP the existing Wix Forms App form on the page** and give it ID `#wixFormsApp` (this is the revert target — do not delete it).
-3. **ToolkitLeads collection** — create/confirm fields: `first_name` (Text), `email` (Text), `company` (Text), `role` (Text), `last_toolkit_name` (Text), `last_toolkit_slug` (Text), `toolkits_requested` (Text), `downloads` (Number), `repeat` (Boolean), `last_download` (Date and Time). Admin-only insert is fine (backend writes with `suppressAuth`).
+3. **ToolkitLeads collection** — the existing collection already has `first_name`, `email`, `company`, `role`, `toolkit_name`, `toolkit_slug`, `repeat`. Add the 3 missing fields: `toolkits_requested` (Text), `downloads` (Number), `last_download` (Date and Time). Backend reuses the existing `toolkit_name`/`toolkit_slug` keys (no rename needed). Admin-only insert is fine (backend writes with `suppressAuth`).
 4. **Paste the live Zapier Catch Hook URL** into `ZAPIER_HOOK` in `backend/toolkitLead.jsw` (same hook the Automation uses today).
 5. **Velo files** — paste `velo_toolkit_page_code.js` into the page code and `velo_backend_toolkitLead.jsw` into `backend/toolkitLead.jsw`.
 6. **Zapier** — add ONE Filter step immediately after Email 1: *only continue if `repeat` is `false` (or does not exist)*. Steps 1 (Catch Hook), 2 (Velo GET get_toolkit), and Email 1 are unchanged; the Filter gates Emails 2-5.

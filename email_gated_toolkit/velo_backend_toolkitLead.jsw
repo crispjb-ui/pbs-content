@@ -7,7 +7,7 @@
  *   1) Wix Contacts (the real CRM) — appendOrCreateContact, dedupes by email.
  *   2) ToolkitLeads CMS collection — ONE ROW PER EMAIL (no duplicate records).
  *        First download inserts the row; every later download UPDATES it
- *        (downloads++, repeat=true, last_toolkit_*, toolkits_requested history,
+ *        (downloads++, repeat=true, toolkit_name/slug, toolkits_requested history,
  *        last_download). This is what makes one-click safe: a returning lead
  *        clicking again never creates a second internal record.
  *   3) Zapier catch hook — fires the welcome email sequence.
@@ -61,8 +61,8 @@ export async function submitLead(lead, toolkitName, toolkitSlug, repeatHint) {
       row.first_name = lead.first_name || row.first_name;
       row.company = lead.company || row.company;
       row.role = lead.role || row.role;
-      row.last_toolkit_name = toolkitName;
-      row.last_toolkit_slug = toolkitSlug;
+      row.toolkit_name = toolkitName;
+      row.toolkit_slug = toolkitSlug;
       row.last_download = new Date();
       // de-duplicated history of every toolkit this lead has requested
       const slugs = (row.toolkits_requested || '')
@@ -77,8 +77,8 @@ export async function submitLead(lead, toolkitName, toolkitSlug, repeatHint) {
         email: lead.email,
         company: lead.company,
         role: lead.role,
-        last_toolkit_name: toolkitName,
-        last_toolkit_slug: toolkitSlug,
+        toolkit_name: toolkitName,
+        toolkit_slug: toolkitSlug,
         toolkits_requested: toolkitSlug || '',
         downloads: 1,
         repeat: false,
