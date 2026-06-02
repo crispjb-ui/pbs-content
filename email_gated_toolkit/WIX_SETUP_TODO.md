@@ -38,11 +38,13 @@ Zapier Steps 3-11: Email 1 → Delay → Email 2 → Delay → Email 3 → Delay
 - **Wix Automation "5 email welcome"** — triggers on Form Submitted, fires Send HTTP request action with 5 form fields to Zapier
 - **Zapier Zap** — 11 steps (Catch Hook + Webhooks GET + 5 Outlook Sends + 4 Delays). All 5 emails tested end-to-end with the right merge tags.
 
-### Three cleanup items remaining
+### Three cleanup items — COMPLETE (confirmed by Ginny, May 31, 2026)
 
-- [ ] **Disable Wix's native Email 1-5 actions** in the "5 email welcome" Wix Automation. Currently both chains fire on every submission (Wix sends its 5 + Zapier sends its 5 = recipient gets 10 emails). Keep only the trigger + the Send HTTP request action.
-- [ ] **Switch Zapier delays from 1-minute test values to production**: Day 0 (no delay), Delay 2 days between Email 1→2, Delay 3 days between Email 2→3, Delay 4 days between Email 3→4, Delay 5 days between Email 4→5.
-- [ ] **Publish the Zap** (top-right Publish button — currently in Draft). Until published, Zapier won't run on live form submissions.
+- [x] **Disable Wix's native Email 1-5 actions** in the "5 email welcome" Wix Automation. Only the trigger + Send HTTP request action remain (no more double-send).
+- [x] **Switch Zapier delays to production**: Day 0 / +2 / +3 / +4 / +5.
+- [x] **Publish the Zap.** Live.
+
+First real lead through the live path: **Sandeep, Biosimilar Readiness Assessment, Jun 1, 2026.**
 
 ### One final test after cleanup
 
