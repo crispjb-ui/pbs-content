@@ -38,8 +38,10 @@
  *     #inputRole        (Text input or Dropdown)
  *   Button:
  *     #getButton        ("Get the Worksheet")
- *   Text / boxes (start hidden via Properties panel "Hidden on load"):
- *     #welcomeBack #successMsg #errorMsg #editInfoLink #formBox
+ *   Text / boxes (set "Collapsed on load" in the Properties panel):
+ *     #welcomeBack #successMsg #errorMsg #editInfoLink
+ *   Also set the OLD form #form1 to "Collapsed on load" (custom form shows by default;
+ *   the revert flag expands #form1 and collapses the custom form).
  *   Legacy form (KEEP IT ON THE PAGE for revert):
  *     #wixFormsApp      — the original Wix Forms App form element. Leave it placed
  *                         on the page; this code shows/hides it via the revert flag.
@@ -207,9 +209,10 @@ function safeParse(s) { try { return s ? JSON.parse(s) : null; } catch (e) { ret
 function getVal(sel) { const el = $w(sel); return el && el.value ? el.value.trim() : ''; }
 function setVal(sel, v) { const el = $w(sel); if (el) el.value = v || ''; }
 function clearVal(sel) { const el = $w(sel); if (el) el.value = ''; }
-function show(sel) { const el = $w(sel); if (el && el.show) el.show(); }
-function hide(sel) { const el = $w(sel); if (el && el.hide) el.hide(); }
-function showText(sel, t) { const el = $w(sel); if (el) { if ('text' in el) el.text = t; el.show && el.show(); } }
+// Use collapse/expand (removes layout space, no gap) with hide/show as fallback.
+function show(sel) { const el = $w(sel); if (el) { if (el.expand) el.expand(); else if (el.show) el.show(); } }
+function hide(sel) { const el = $w(sel); if (el) { if (el.collapse) el.collapse(); else if (el.hide) el.hide(); } }
+function showText(sel, t) { const el = $w(sel); if (el) { if ('text' in el) el.text = t; if (el.expand) el.expand(); else if (el.show) el.show(); } }
 function setLabel(sel, t) { const el = $w(sel); if (el && 'label' in el) el.label = t; }
 function setBusy(sel, busy) { const el = $w(sel); if (!el) return; if (busy) { el.disable && el.disable(); } else { el.enable && el.enable(); } }
 
