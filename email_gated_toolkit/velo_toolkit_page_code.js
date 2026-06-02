@@ -1,18 +1,31 @@
 /*
  * PBS Toolkit Landing Page — Velo page code
  * ------------------------------------------------------------------
- * Goal: remove the re-entry friction for returning leads.
- *   - First visit: lead fills a custom form -> we save their details in the
- *     browser (wix-storage local), POST to the Zapier catch hook (fires the
- *     5-email sequence), and log the download internally.
- *   - Return visit (any other toolkit): we recognize them and either PRE-FILL
- *     the form (they click once) or show a ONE-CLICK "get it instantly" button.
+ * Goal: remove re-entry friction for returning leads, and prevent the
+ * 5-email nurture from re-firing on repeats — WITHOUT losing the ability to
+ * instantly revert to the proven Wix Forms App + Automation path.
  *
- * Why a custom form (not the Wix Forms App):
- *   Wix Forms v2 doesn't let Velo hook the submit (onWixFormSubmitted TypeErrors,
- *   wixForms_onSubmit doesn't fire — confirmed in prior setup). A custom form of
- *   native inputs + a button gives full control of the click, which is what
- *   "remember me" requires. It calls the SAME Zapier hook the Automation used.
+ *   - First visit: lead fills a custom form -> save details in the browser
+ *     (wix-storage local), call backend submitLead (CRM + ToolkitLeads upsert +
+ *     Zapier), show success.
+ *   - Return visit: recognized via local storage -> ONE-CLICK "get it instantly"
+ *     using saved details (CONFIG.oneClickForReturning = true). The backend
+ *     upsert means a repeat click NEVER creates a duplicate internal record, and
+ *     `repeat: true` makes Zapier send only Email 1 (the PDF), skipping 2-5.
+ *
+ * REVERT SWITCH (hidden rollback to the old form):
+ *   CONFIG.useCustomForm controls which form is live on the page.
+ *     true  = custom form active (this new flow); legacy Wix Forms App form hidden.
+ *     false = custom form hidden; legacy Wix Forms App form shown, and the existing
+ *             Wix Automation handles submissions exactly as it does today.
+ *   To revert: set useCustomForm = false, click Publish. No data migration, no
+ *   Zapier changes. Both forms live on the page; only one is ever visible, so only
+ *   one path can fire (no double-sends).
+ *
+ * Why a custom form (not the Wix Forms App): Wix Forms v2 doesn't let Velo hook
+ * the submit (onWixFormSubmitted TypeErrors, wixForms_onSubmit doesn't fire —
+ * confirmed). A custom form of native inputs + a button gives full control of the
+ * click, which "remember me" + one-click require. It calls the SAME Zapier hook.
  *
  * ------------------------------------------------------------------
  * ONE-TIME EDITOR SETUP (add these native elements to the dynamic toolkit page
@@ -25,38 +38,38 @@
  *     #inputRole        (Text input or Dropdown)
  *   Button:
  *     #getButton        ("Get the Worksheet")
- *   Text / boxes (Add > Text, start hidden via Properties panel "Hidden on load"):
- *     #welcomeBack      (Text — "Welcome back, NAME…")
- *     #successMsg       (Text or Box — "Check your inbox in ~2 minutes")
- *     #errorMsg         (Text — validation / send errors)
- *     #editInfoLink     (Text/Button — "Not you? Enter different details")  [optional]
- *     #formBox          (the Box/Container holding the 4 inputs)            [optional, for one-click hide]
- *
+ *   Text / boxes (start hidden via Properties panel "Hidden on load"):
+ *     #welcomeBack #successMsg #errorMsg #editInfoLink #formBox
+ *   Legacy form (KEEP IT ON THE PAGE for revert):
+ *     #wixFormsApp      — the original Wix Forms App form element. Leave it placed
+ *                         on the page; this code shows/hides it via the revert flag.
  *   Dataset:
- *     The dynamic toolkit page already has a dataset bound to Toolkits.
- *     Set its ID to #toolkitDataset (or change CONFIG.datasetId).
+ *     The dynamic toolkit page's Toolkits dataset, ID #toolkitDataset.
  *
- *   Internal logging collection (CMS) — create once:
- *     Collection "ToolkitLeads" with fields:
+ *   Internal logging collection (CMS) — create/confirm fields once:
+ *     Collection "ToolkitLeads":
  *       first_name (Text), email (Text), company (Text), role (Text),
- *       toolkit_name (Text), toolkit_slug (Text), repeat (Boolean)
- *     Permissions: admin-only insert is fine — the backend module writes with
- *       suppressAuth, so you do NOT need to allow public inserts.
+ *       last_toolkit_name (Text), last_toolkit_slug (Text),
+ *       toolkits_requested (Text), downloads (Number), repeat (Boolean),
+ *       last_download (Date and Time)
+ *     Permissions: admin-only insert is fine — backend writes with suppressAuth.
  *
- *   Zapier: paste your live Catch Hook URL into CONFIG.zapierHook.
+ *   Zapier: paste your live Catch Hook URL into backend/toolkitLead.jsw.
  * ------------------------------------------------------------------
  */
 
 import { local } from 'wix-storage';
 import { submitLead } from 'backend/toolkitLead';
 
-// The Zapier hook, Wix Contacts (CRM) write, ToolkitLeads logging, and the
-// repeat-detection all live in backend/toolkitLead.jsw. Paste your hook there.
-
 const CONFIG = {
-  // Set to true to HIDE the form for known visitors and show one-click instead.
-  // false = pre-fill the form and let them click "Get the Worksheet" (recommended).
-  oneClickForReturning: false,
+  // ---- REVERT SWITCH ----  true = new custom form ; false = old Wix Forms App form.
+  // To roll back: set false, Publish. (See header.)
+  useCustomForm: true,
+
+  // For a recognized returning visitor: true = one-click instant (hide inputs),
+  // false = pre-fill the form and let them click. Backend upsert prevents any
+  // duplicate internal record either way.
+  oneClickForReturning: true,
 
   storageKey: 'pbs_lead',
   datasetId: '#toolkitDataset',
@@ -72,6 +85,7 @@ const CONFIG = {
     error: '#errorMsg',
     editLink: '#editInfoLink',
     formBox: '#formBox',
+    legacyForm: '#wixFormsApp',   // original Wix Forms App form (revert target)
   },
 };
 
@@ -79,6 +93,18 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 $w.onReady(() => {
   const id = CONFIG.ids;
+
+  // ===== REVERT SWITCH =====
+  // If the custom form is OFF, restore the old path: show the Wix Forms App form,
+  // hide every custom element, and stop. The Wix Automation handles the rest.
+  if (!CONFIG.useCustomForm) {
+    show(id.legacyForm);
+    hide(id.formBox); hide(id.button); hide(id.welcomeBack);
+    hide(id.success); hide(id.error); hide(id.editLink);
+    return;
+  }
+  // Custom form ON: hide the legacy form so only one path can ever fire.
+  hide(id.legacyForm);
 
   // ---- Resolve the current toolkit from the dynamic dataset ----
   let toolkitName = '';
@@ -152,8 +178,9 @@ $w.onReady(() => {
       // Remember for next time (client-side, this browser/device)
       local.setItem(CONFIG.storageKey, JSON.stringify(lead));
 
-      // Server-side: Wix Contact (CRM) + ToolkitLeads log + Zapier email
-      // sequence, with robust repeat detection (skips Emails 2-5 on repeats).
+      // Server-side: Wix Contact (CRM) + ToolkitLeads UPSERT (one row per email,
+      // no duplicates) + Zapier email sequence, with server-side repeat detection
+      // (repeats get Email 1 only).
       await submitLead(lead, toolkitName, toolkitSlug, isReturning);
 
       hide(id.formBox);
@@ -188,14 +215,8 @@ function setBusy(sel, busy) { const el = $w(sel); if (!el) return; if (busy) { e
 
 /*
  * ------------------------------------------------------------------
- * This page code calls backend/toolkitLead.jsw (provided separately), which
- * does the Wix Contacts (CRM) write, the ToolkitLeads log, the Zapier POST, and
- * the repeat detection — all server-side. Benefits:
- *   - Zapier hook URL stays off the client.
- *   - CRM + CMS writes run with backend permissions (ToolkitLeads can be
- *     admin-only insert; suppressAuth handles it server-side).
- *   - `repeat` is decided server-side (email already in the log), so repeats are
- *     caught even on a new browser/device.
- * Paste your live Zapier hook into backend/toolkitLead.jsw, not here.
+ * Calls backend/toolkitLead.jsw, which does the Wix Contacts (CRM) write, the
+ * ToolkitLeads UPSERT (one row per email), the Zapier POST, and repeat detection
+ * — all server-side. Paste your live Zapier hook into the backend file, not here.
  * ------------------------------------------------------------------
  */

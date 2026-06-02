@@ -87,6 +87,53 @@ When test-recipient Gmail addresses have personal filters routing Substack-menti
 
 ---
 
+## Custom-form upgrade — dedup + one-click + instant revert (added May 31, 2026)
+
+**Why:** the live Wix Forms App path works (first real lead: **Sandeep, Biosimilar Readiness Assessment, Jun 1, 2026, 8:16 AM** — captured in Submissions with toolkitname + name + work email). The upgrade adds: (a) returning leads don't re-type (one-click), (b) repeats don't re-fire Emails 2-5, (c) no duplicate internal record, (d) a one-flag revert to the proven form.
+
+**Decisions locked:** revert = **code flag + republish**; returning UX = **one-click instant**; hard constraint = **no duplicate internal record** (handled by the upsert below).
+
+### New architecture (custom form)
+
+```
+Custom form (native inputs + button) on rxbs.org/toolkit/<slug>
+    ↓ (button click; Velo controls it — Wix Forms v2 can't be hooked, so we don't use it here)
+backend/toolkitLead.jsw → submitLead()
+    1) Wix Contacts appendOrCreateContact (dedupes by email)
+    2) ToolkitLeads UPSERT — ONE ROW PER EMAIL (insert first time; update on repeat:
+       downloads++, repeat=true, last_toolkit_*, toolkits_requested history, last_download)
+    3) POST to the SAME Zapier Catch Hook, payload includes repeat: true|false
+    ↓
+Zapier: Email 1 (PDF) → **Filter: only continue if repeat is false** → Emails 2-5
+```
+
+Repeats get Email 1 only (the PDF they asked for); first-timers get the full 1-5.
+
+### One-time Wix setup
+
+1. **Page elements** — on the `Toolkits (Item)` dynamic page, add native inputs + button + status texts with the IDs listed in the `velo_toolkit_page_code.js` header (`#inputFirstName`, `#inputEmail`, `#inputCompany`, `#inputRole`, `#getButton`, `#welcomeBack`, `#successMsg`, `#errorMsg`, `#editInfoLink`, `#formBox`). Bind the dataset as `#toolkitDataset`.
+2. **KEEP the existing Wix Forms App form on the page** and give it ID `#wixFormsApp` (this is the revert target — do not delete it).
+3. **ToolkitLeads collection** — create/confirm fields: `first_name` (Text), `email` (Text), `company` (Text), `role` (Text), `last_toolkit_name` (Text), `last_toolkit_slug` (Text), `toolkits_requested` (Text), `downloads` (Number), `repeat` (Boolean), `last_download` (Date and Time). Admin-only insert is fine (backend writes with `suppressAuth`).
+4. **Paste the live Zapier Catch Hook URL** into `ZAPIER_HOOK` in `backend/toolkitLead.jsw` (same hook the Automation uses today).
+5. **Velo files** — paste `velo_toolkit_page_code.js` into the page code and `velo_backend_toolkitLead.jsw` into `backend/toolkitLead.jsw`.
+6. **Zapier** — add ONE Filter step immediately after Email 1: *only continue if `repeat` is `false` (or does not exist)*. Steps 1 (Catch Hook), 2 (Velo GET get_toolkit), and Email 1 are unchanged; the Filter gates Emails 2-5.
+
+### Cutover (go live)
+
+1. Confirm `CONFIG.useCustomForm = true` in the page code.
+2. Publish. The custom form shows; the legacy `#wixFormsApp` is hidden by the code, so the Wix Automation cannot fire (its form is not submittable) — no double-sends.
+3. Test: new email → expect Emails 1-5. Same email again → expect Email 1 only, and **one** ToolkitLeads row (downloads = 2), **one** Contact. Different toolkit, same email → Email 1 with the new PDF, still one row (toolkits_requested lists both).
+
+### REVERT (instant rollback to the old form)
+
+1. In the page code set **`CONFIG.useCustomForm = false`**.
+2. Publish.
+3. That's it. The custom form + button hide; the legacy `#wixFormsApp` shows; the existing Wix Automation handles submissions exactly as it does today (the path that captured Sandeep). No data migration, no Zapier change. Leave the Wix Automation **enabled** at all times — it's harmless while its form is hidden and is the fallback.
+
+**Guardrail:** never delete `#wixFormsApp` and never disable the Wix Automation, or the revert path is gone. Both forms live on the page permanently; the flag just decides which one is visible, and only the visible one can submit.
+
+---
+
 ## Historical context (May 14-19, 2026)
 
 The remainder of this file documents the architectural pivots and dead ends that preceded the May 20 working state. Everything below this divider is retained for reference but is superseded by the "Current state — May 20, 2026" section above. **If you're implementing or maintaining this funnel, stop reading here and reference only the current state section.**

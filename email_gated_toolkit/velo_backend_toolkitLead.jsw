@@ -3,24 +3,22 @@
  * ------------------------------------------------------------------
  * Save this in Wix as:  backend/toolkitLead.jsw
  *
- * Handles a toolkit lead submission server-side and does THREE captures so a
- * custom Velo form builds the CRM exactly like (better than) the Wix Forms App:
- *
+ * Handles a toolkit lead submission server-side. Three captures:
  *   1) Wix Contacts (the real CRM) — appendOrCreateContact, dedupes by email.
- *   2) ToolkitLeads CMS collection — a row per DOWNLOAD EVENT (keeps repeats).
+ *   2) ToolkitLeads CMS collection — ONE ROW PER EMAIL (no duplicate records).
+ *        First download inserts the row; every later download UPDATES it
+ *        (downloads++, repeat=true, last_toolkit_*, toolkits_requested history,
+ *        last_download). This is what makes one-click safe: a returning lead
+ *        clicking again never creates a second internal record.
  *   3) Zapier catch hook — fires the welcome email sequence.
  *
- * REPEAT HANDLING (added per "skip the 5 emails on repeats"):
- *   The payload sent to Zapier includes `repeat: true|false`. A returning
- *   downloader still needs Email 1 (the PDF they just requested), but should
- *   NOT get Emails 2-5 again. We compute `repeat` robustly server-side:
- *   the client hint OR (more reliably) "this email already exists in the log"
- *   — which also catches the same person on a different browser/device, where
- *   local storage wouldn't know them.
- *
- *   In Zapier: add a Filter step AFTER Email 1 — "only continue if repeat is
- *   false / does not exist." First-timers flow through Emails 1-5; repeats stop
- *   after Email 1 (PDF delivered, nurture skipped).
+ * REPEAT HANDLING ("skip the 5 emails on repeats"):
+ *   The payload to Zapier includes `repeat: true|false`. A returning downloader
+ *   still gets Email 1 (the PDF they just requested) but NOT Emails 2-5.
+ *   `repeat` is decided server-side — the upsert query below detects whether the
+ *   email already exists, so it catches the same person on any browser/device.
+ *   In Zapier: a Filter step AFTER Email 1 — "only continue if repeat is false."
+ *   First-timers flow through Emails 1-5; repeats stop after Email 1.
  * ------------------------------------------------------------------
  */
 
@@ -33,18 +31,6 @@ const ZAPIER_HOOK = 'https://hooks.zapier.com/hooks/catch/XXXXXXX/YYYYYYY/';
 const LOG_COLLECTION = 'ToolkitLeads';
 
 export async function submitLead(lead, toolkitName, toolkitSlug, repeatHint) {
-  // --- Robust repeat detection: client hint OR email already in the log ---
-  let isRepeat = !!repeatHint;
-  try {
-    const prior = await wixData.query(LOG_COLLECTION)
-      .eq('email', lead.email)
-      .limit(1)
-      .find({ suppressAuth: true });
-    if (prior.totalCount > 0) isRepeat = true;
-  } catch (e) {
-    console.warn('repeat lookup failed (defaulting to client hint):', e);
-  }
-
   // 1) CRM — create or update the Wix Contact (dedupes by email).
   try {
     await contacts.appendOrCreateContact({
@@ -57,19 +43,50 @@ export async function submitLead(lead, toolkitName, toolkitSlug, repeatHint) {
     console.warn('appendOrCreateContact (CRM) failed:', e);
   }
 
-  // 2) Download-event log — one row per download (keeps repeats).
+  // 2) ToolkitLeads — UPSERT: one row per email, no duplicate records.
+  //    Also the source of truth for `repeat` (email already on file).
+  let isRepeat = !!repeatHint;
   try {
-    await wixData.insert(LOG_COLLECTION, {
-      first_name: lead.first_name,
-      email: lead.email,
-      company: lead.company,
-      role: lead.role,
-      toolkit_name: toolkitName,
-      toolkit_slug: toolkitSlug,
-      repeat: isRepeat,
-    }, { suppressAuth: true });
+    const existing = await wixData.query(LOG_COLLECTION)
+      .eq('email', lead.email)
+      .limit(1)
+      .find({ suppressAuth: true });
+
+    if (existing.totalCount > 0) {
+      // Returning lead — UPDATE the single existing row, never insert a new one.
+      isRepeat = true;
+      const row = existing.items[0];
+      row.downloads = (row.downloads || 1) + 1;
+      row.repeat = true;
+      row.first_name = lead.first_name || row.first_name;
+      row.company = lead.company || row.company;
+      row.role = lead.role || row.role;
+      row.last_toolkit_name = toolkitName;
+      row.last_toolkit_slug = toolkitSlug;
+      row.last_download = new Date();
+      // de-duplicated history of every toolkit this lead has requested
+      const slugs = (row.toolkits_requested || '')
+        .split(',').map(s => s.trim()).filter(Boolean);
+      if (toolkitSlug && !slugs.includes(toolkitSlug)) slugs.push(toolkitSlug);
+      row.toolkits_requested = slugs.join(', ');
+      await wixData.update(LOG_COLLECTION, row, { suppressAuth: true });
+    } else {
+      // First-time lead — INSERT a fresh row.
+      await wixData.insert(LOG_COLLECTION, {
+        first_name: lead.first_name,
+        email: lead.email,
+        company: lead.company,
+        role: lead.role,
+        last_toolkit_name: toolkitName,
+        last_toolkit_slug: toolkitSlug,
+        toolkits_requested: toolkitSlug || '',
+        downloads: 1,
+        repeat: false,
+        last_download: new Date(),
+      }, { suppressAuth: true });
+    }
   } catch (e) {
-    console.warn('ToolkitLeads insert failed:', e);
+    console.warn('ToolkitLeads upsert failed (defaulting repeat to client hint):', e);
   }
 
   // 3) Email sequence — must succeed; let it throw so the page shows an error.
