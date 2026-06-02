@@ -72,7 +72,7 @@ const CONFIG = {
   oneClickForReturning: true,
 
   storageKey: 'pbs_lead',
-  datasetId: '#toolkitDataset',
+  datasetId: '#dynamicDataset',   // your existing dataset ID
 
   ids: {
     firstName: '#inputFirstName',
@@ -85,7 +85,7 @@ const CONFIG = {
     error: '#errorMsg',
     editLink: '#editInfoLink',
     formBox: '#formBox',
-    legacyForm: '#wixFormsApp',   // original Wix Forms App form (revert target)
+    legacyForm: '#form1',   // your existing Wix Forms App form = revert target (ID is form1)
   },
 };
 
