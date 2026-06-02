@@ -134,6 +134,32 @@ Repeats get Email 1 only (the PDF they asked for); first-timers get the full 1-5
 
 **Guardrail:** never delete `#wixFormsApp` and never disable the Wix Automation, or the revert path is gone. Both forms live on the page permanently; the flag just decides which one is visible, and only the visible one can submit.
 
+### DEPLOYED & WORKING — Jun 2, 2026 (Biosimilar Readiness toolkit)
+
+The custom-form funnel is live on `rxbs.org/toolkit/biosimilar-readiness` and proven end-to-end:
+- First-timer submit → ToolkitLeads row (`downloads` 1, `repeat` false) + Wix Contact + Zapier Emails 1-5.
+- Returning visitor (same browser) → "Welcome back, [name]" one-click instant mode (inputs hidden), via `wix-storage` local.
+- Repeat submit (email already in ToolkitLeads) → backend sets `repeat: true` → **same row updates** (`downloads` 2, `repeat` true, no duplicate row, no duplicate contact) → Zapier Filter sends **Email 1 only**.
+
+**As-built specifics (differ from the generic notes above):**
+- Backend file is `backend/toolkitLead.web.js` (new `.web.js` web-module format, `webMethod(Permissions.Anyone, …)`), NOT `.jsw`. Frontend import is `import { submitLead } from 'backend/toolkitLead.web';` (note the `.web`).
+- Live element IDs the page code targets: dataset `#dynamicDataset`, legacy form `#form1`, legacy mask box `#box19` (a container masking `#form1`'s un-hideable fields — collapses WITH `#form1`). Toolkit name field on the Toolkits collection is `title_fld` (page code reads `item.title_fld`).
+- ToolkitLeads reuses the pre-existing keys `toolkit_name` / `toolkit_slug` (not `last_toolkit_*`); the 3 added fields were `toolkits_requested`, `downloads`, `last_download`.
+- The two standalone title texts ("Get the Worksheet" + subtitle) sit OUTSIDE `#box19`, so they stay as a shared header when `#form1`/`#box19` collapse. The teal panel WAS part of `#box19` and collapses away (new form sits on white — acceptable).
+- Zapier Filter: `Only continue if  1. Repeat  (Boolean) is false`, placed after Email 1 (Step 3), before the first Delay.
+
+### ⚠️ Zapier stale-binding gotcha (cost ~1 hr on first deploy — read before changing the payload)
+
+When the form's webhook **payload shape changes** (e.g., switching from the old rich payload to the new lean `{first_name,email,company,role,toolkit_name,toolkit_slug,repeat}`), **every Zapier field bound to the Catch Hook (Step 1) silently goes empty at runtime** — the chip still *displays* the old label (e.g. "1. Data Email"), but the underlying binding points at the old sample's field IDs and resolves to nothing. Symptoms seen: Step 2 GET "Missing required query parameter: name", then Step 3 "Required field To Email(s) is missing", with yield-sign (⚠️) warnings on the affected steps.
+
+**Fix (do this any time the payload changes):**
+1. Step 1 Catch Hook → Test → **"Find new records"** to pull a fresh sample that reflects the new payload (this also surfaces new fields like `repeat`).
+2. In every downstream step with a ⚠️, **delete and re-insert** each Catch-Hook field chip (To Email = `1. Email`, Subject/Body First Name = `1. First Name`, `1. Toolkit Name`, and the GET's `name` query param = `1. Toolkit Name`). Re-selecting re-binds it to the new sample. **Viewing the chip is not enough — it must be re-picked.**
+3. Step-2 (GET) references (Pdf Url, second toolkit, field note) do NOT break — leave them.
+4. Test each step → Publish → Replay the failed run (or re-submit live).
+
+Because all bindings now point at the current payload, this is a **one-time** fix and won't recur unless the payload shape changes again.
+
 ---
 
 ## Historical context (May 14-19, 2026)
