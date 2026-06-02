@@ -95,7 +95,7 @@ export async function submitLead(lead, toolkitName, toolkitSlug, repeatHint) {
   await fetch(ZAPIER_HOOK, {
     method: 'post',
     headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify({ ...lead, toolkit_name: toolkitName, repeat: isRepeat }),
+    body: JSON.stringify({ ...lead, toolkit_name: toolkitName, toolkit_slug: toolkitSlug, repeat: isRepeat }),
   });
 
   return { ok: true, repeat: isRepeat };

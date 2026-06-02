@@ -114,7 +114,7 @@ $w.onReady(() => {
     ds.onReady(() => {
       const item = ds.getCurrentItem();
       if (item) {
-        toolkitName = item.title || item.name || '';
+        toolkitName = item.title_fld || item.title || item.name || '';
         toolkitSlug = item.slug || '';
       }
     });
@@ -158,7 +158,7 @@ $w.onReady(() => {
     // before the dataset onReady closure above has run).
     if (!toolkitName) {
       const it = ds && ds.getCurrentItem && ds.getCurrentItem();
-      if (it) { toolkitName = it.title || it.name || ''; toolkitSlug = it.slug || ''; }
+      if (it) { toolkitName = it.title_fld || it.title || it.name || ''; toolkitSlug = it.slug || ''; }
     }
 
     // If one-click for a known visitor, use stored values; else read inputs.
