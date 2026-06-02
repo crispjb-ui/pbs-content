@@ -88,6 +88,7 @@ const CONFIG = {
     editLink: '#editInfoLink',
     formBox: '#formBox',
     legacyForm: '#form1',   // your existing Wix Forms App form = revert target (ID is form1)
+    legacyMask: '#box19',   // container box masking #form1's un-hideable hidden fields; collapses with the old form
   },
 };
 
@@ -100,13 +101,14 @@ $w.onReady(() => {
   // If the custom form is OFF, restore the old path: show the Wix Forms App form,
   // hide every custom element, and stop. The Wix Automation handles the rest.
   if (!CONFIG.useCustomForm) {
-    show(id.legacyForm);
+    show(id.legacyForm); show(id.legacyMask);   // bring the old form + its mask back together
     hide(id.formBox); hide(id.button); hide(id.welcomeBack);
     hide(id.success); hide(id.error); hide(id.editLink);
     return;
   }
-  // Custom form ON: hide the legacy form so only one path can ever fire.
-  hide(id.legacyForm);
+  // Custom form ON: collapse the legacy form AND its masking box so neither shows
+  // (and the mask can't float over the new form). Only one path can ever fire.
+  hide(id.legacyForm); hide(id.legacyMask);
 
   // ---- Resolve the current toolkit from the dynamic dataset ----
   let toolkitName = '';
