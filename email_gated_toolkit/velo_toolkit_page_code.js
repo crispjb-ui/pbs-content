@@ -143,9 +143,10 @@ $w.onReady(() => {
     }
   }
 
-  // "Not you?" — clear storage and reveal the form again
-  if ($w(id.editLink)) {
-    $w(id.editLink).onClick(() => {
+  // "Not you?" — clear storage and reveal the form again (optional element; safe if absent)
+  const editEl = $w(id.editLink);
+  if (editEl && editEl.onClick) {
+    editEl.onClick(() => {
       local.removeItem(CONFIG.storageKey);
       clearVal(id.firstName); clearVal(id.email); clearVal(id.company); clearVal(id.role);
       hide(id.welcomeBack); hide(id.editLink);
