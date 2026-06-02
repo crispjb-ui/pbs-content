@@ -61,7 +61,7 @@
  */
 
 import { local } from 'wix-storage';
-import { submitLead } from 'backend/toolkitLead';
+import { submitLead } from 'backend/toolkitLead.web';
 
 const CONFIG = {
   // ---- REVERT SWITCH ----  true = new custom form ; false = old Wix Forms App form.
