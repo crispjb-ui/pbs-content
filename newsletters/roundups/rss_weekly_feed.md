@@ -1,195 +1,198 @@
 # Weekly RSS Feed Stories
 
-*Fetched: 2026-05-26 10:14 EDT. Lookback: past 7 days.*
+*Fetched: 2026-06-02 12:33 EDT. Lookback: past 7 days.*
 
 ---
 
 ## Drug Channels
 
-### PBM Shakeout: How Vertical Integration Is Reshaping What’s Next (VIDEO)
-- **Date:** 2026-05-20
-- **URL:** https://feeds.feedblitz.com/~/956758814/0/drugchannels~PBM-Shakeout-How-Vertical-Integration-Is-Reshaping-What%e2%80%99s-Next-VIDEO.html
-- **Summary:** Here at Drug Channels, we’ve been closely tracking the evolution of the pharmacy benefit management (PBM) industry for many years. The short video below—excerpted from DCI’s recent PBM Industry Update 2026: Trends, Challenges, and What’s Ahead video webinar—reviews the shifting market positions of the largest PBMs and explains why vertical integration continues to reshape the industry’s competitive dynamics. I also discuss the proliferation of smaller PBMs, many of which still depend on the lar…
+### The 340B Contract Pharmacy Market in 2026: A Maturing Industry Dominated by Big Chains and PBMs
+- **Date:** 2026-06-02
+- **URL:** https://feeds.feedblitz.com/~/957642419/0/drugchannels~The-B-Contract-Pharmacy-Market-in-A-Maturing-Industry-Dominated-by-Big-Chains-and-PBMs.html
+- **Summary:** By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels Institute’s latest exclusive analysis of the 340B contract pharmacy market, which continues to boom along with the overall program’s expansion.However, our 2026 analysis finds that the contract pharmacy market is now entering a more mature phase characterized by consolidation, slower growth, and increasing dominance by the industry’s largest participants. Below, we characterize the state of the marketplace: Nearly two-thirds …
+
+### Drugs, Discounts and Data: Crafting Sustainability in an Imperfect System
+- **Date:** 2026-05-29
+- **URL:** https://feeds.feedblitz.com/~/957471446/0/drugchannels~Drugs-Discounts-and-Data-Crafting-Sustainability-in-an-Imperfect-System.html
+- **Summary:** Today’s guest post comes from Angie Franks, Chief Executive Officer at Kalderos. As Angie explains, the industry still lacks the transparency needed to effectively manage where discounts occur and how funds move across stakeholders. She argues that improving visibility and coordination across the ecosystem is essential to building a more sustainable and accountable model for both innovation and patient support. To learn more, register for Kalderos’ free webinar on June 23, 2026:GTN Oversight: A…
+
+### Drug Channels News Roundup, May 2026: My $0.02 on Optum Rx’s Transparency, Must-Read 340B History, PBM Unbundling Update, PA Delays, and Vegas Fun
+- **Date:** 2026-05-27
+- **URL:** https://feeds.feedblitz.com/~/957355640/0/drugchannels~Drug-Channels-News-Roundup-May-My-on-Optum-Rx%e2%80%99s-Transparency-MustRead-B-History-PBM-Unbundling-Update-PA-Delays-and-Vegas-Fun.html
+- **Summary:** By Adam J. Fein, Ph.D.Summer unofficially kicked off last weekend. So fire up the grill and enjoy these noteworthy delicacies, seared to perfection on the Drug Channels barbeque: Why Optum Rx Is Accelerating Its Transparency Strategy The Most Important 340B Paper You’ll Ever Read Blue Shield of California’s PBM Unbundling Plan Meets Reality Prior Authorization: Administrative Complexity = Delayed Care Plus: The Drug Channels Institute team takes on Las Vegas—with stickers! P.S. Join my 70,000+ …
 
 ## KFF Health News
 
-### Listen to the Latest ‘KFF Health News Minute’
-- **Date:** 2026-05-26
-- **URL:** https://kffhealthnews.org/news/listen-to-the-latest-kff-health-news-minute-2026/
-- **Summary:** The "KFF Health News Minute” brings original health care and health policy reporting from our newsroom to the airwaves each week.
+### Desde infecciones que supuran hasta cáncer sin tratar: detenidos por el ICE describen negligencia médica a lo largo de EE.UU.
+- **Date:** 2026-06-02
+- **URL:** https://kffhealthnews.org/noticias-en-espanol/desde-infecciones-que-supuran-hasta-cancer-sin-tratar-detenidos-por-el-ice-describen-negligencia-medica-en-todo-estados-unidos/
+- **Summary:** En demandas federales, cientos de detenidos en al menos 33 estados alegan que los centros de detención de inmigrantes no están proporcionando atención médica adecuada, revela una investigación de KFF Health News y The Associated Press.
 
-### Cheaper, Alternative Health Plans Are Having a Moment, but Critics Urge Caution
-- **Date:** 2026-05-26
-- **URL:** https://kffhealthnews.org/health-industry/alternative-health-plans-growth-sharing-ministries-short-term-aca-premiums/
-- **Summary:** Congress' decision not to extend enhanced marketplace tax credits has boosted the appeal of alternative health coverage with lower monthly premiums. Consumer advocates dismiss the plans as "junk insurance,” while proponents say patients need alternatives to pricey marketplace options.
+### Festering Infections to Untreated Cancer: ICE Detainees Describe Medical Neglect Across US
+- **Date:** 2026-06-02
+- **URL:** https://kffhealthnews.org/courts/ice-immigration-detention-medical-care-neglect-court-records-ap-investigation/
+- **Summary:** Immigrant detainees have told courts across the nation that detention officials have failed to treat or stabilize their conditions, from pregnancy to prostate cancer, suggesting that systemic lapses in care extend well beyond record deaths in Immigration and Customs Enforcement custody.
 
-### Journalists Distill News on Ebola, Licensing Midwives, and California’s Budget
-- **Date:** 2026-05-23
-- **URL:** https://kffhealthnews.org/on-air/on-air-may-23-2026-ebola-midwife-licensing-gavin-newsom-california-budget-medicaid/
-- **Summary:** KFF Health News journalists made the rounds on national or local media recently to discuss topical stories. Here’s a collection of their appearances.
+### Focused on Work, Needed at Home: A Federal Caregiving Policy Might Help
+- **Date:** 2026-06-02
+- **URL:** https://kffhealthnews.org/news/healthq-fmla-caregiving-family-leave/
+- **Summary:** The Family and Medical Leave Act gives eligible employees up to 12 weeks of job-protected leave for caregiving. But the federal policy has noteworthy limitations. The HealthQ team explains.
 
-### Trump Bought Stock in Eli Lilly as His Policies Gave the Drugmaker a Big Boost, Documents Show
-- **Date:** 2026-05-22
-- **URL:** https://kffhealthnews.org/health-industry/the-week-in-brief-trump-eli-lilly-stock-pharmaceuticals/
+### Telehealth Booms as Demand for GLP-1s Surges and Questions Mount About Safety, Oversight
+- **Date:** 2026-06-01
+- **URL:** https://kffhealthnews.org/health-industry/glp1-weight-loss-drugs-telehealth-oversight-regulation-compounded-semaglutide/
+- **Summary:** Many telehealth companies have emerged in recent years offering easy access to GLP-1 weight loss drugs as demand has exploded. Meanwhile, researchers and doctors are concerned that some of these online companies aren't properly screening or monitoring patients. “It gives a black eye to telemedicine,” one researcher said.
+
+### Amid Ebola, Hantavirus Outbreaks, Democrats Decry Trump’s Health Cuts
+- **Date:** 2026-06-01
+- **URL:** https://kffhealthnews.org/public-health/ebola-hantavirus-trump-cuts-federal-response-infectious-disease-usaid-africa/
+- **Summary:** Infectious disease specialists say the viruses are unlikely to become pandemics, but some are still raising concerns about the federal health response and what it portends should a pandemic similar to or worse than covid occur.
+
+### Baffling. Frustrating. Frightening. What It’s Like To Be Sued Over Medical Debt.
+- **Date:** 2026-06-01
+- **URL:** https://kffhealthnews.org/health-care-costs/connecticut-hospitals-medical-debt-patient-lawsuits-frustration/
+- **Summary:** Patients’ experiences encapsulate breakdowns in a healthcare system that traps patients in debt. The industry’s key players blame one another.
+
+### Gounder Gives Lowdown on Ebola, Peptides, and Colorectal Screenings
+- **Date:** 2026-05-30
+- **URL:** https://kffhealthnews.org/on-air/on-air-may-30-2026-celine-gounder-peptides-colorectal-cancer-ebola/
+- **Summary:** KFF Health News' editor-at-large for public health discussed peptides, colorectal cancer screening, and Ebola in TV appearances this week.
+
+### Budget-Strapped Montana Will Stress-Test Trump’s Medicaid Work Rules
+- **Date:** 2026-05-29
+- **URL:** https://kffhealthnews.org/medicaid/the-week-in-brief-montana-medicaid/
 - **Summary:** Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.
 
-### 3 Medical Routines That Older People May Not Need
-- **Date:** 2026-05-22
-- **URL:** https://kffhealthnews.org/aging/new-old-age-colonoscopy-screenings-treatments-actinic-keratosis-levothyroxine/
-- **Summary:** Some screenings and treatments no longer make sense for patients as they age. Researchers have just added a few more to the list.
+### After Her Bout of Amnesia, a $59,000 Billing Dispute Wouldn’t Go Away
+- **Date:** 2026-05-29
+- **URL:** https://kffhealthnews.org/health-care-costs/amnesia-arizona-hospital-prior-authorization-bill-of-the-month-may-2026/
+- **Summary:** Last spring, a woman started exhibiting unusual memory problems after a hike in Arizona. It turns out she was experiencing a disorder called transient global amnesia. She has fully recovered, but a dispute over nearly $60,000 in hospital charges has been a source of stress for over a year.
 
-### Trump’s $50B Rural Health Bet Meets a Healthcare Desert in North Carolina
-- **Date:** 2026-05-22
-- **URL:** https://kffhealthnews.org/rural-health/rural-health-fund-hospital-closures-north-carolina-martin-general/
-- **Summary:** Republicans promise that $50 billion in new health funding will help rural America. But it’s not expected to aid the years-long effort in North Carolina’s Martin County to reopen its only hospital.
-
-### ICE Arrests Are Separating Families. Here’s How To Plan Ahead.
-- **Date:** 2026-05-21
-- **URL:** https://kffhealthnews.org/news/wamu-health-hub-children-detained-immigrants-may-21-2026/
-- **Summary:** As immigration authorities carry out President Donald Trump’s promise to conduct what’s billed as the largest mass deportation operation in U.S. history, several states are passing laws to protect the children of detained immigrants. Guardianship can become complicated when no family or friends are available to take temporary custody.
-
-### Colorado Charts Its Own Course on Vaccines Amid Federal Pullback
-- **Date:** 2026-05-21
-- **URL:** https://kffhealthnews.org/public-health/colorado-vaccine-law-coalition-cdc-acip-infectious-disease-prevention-polio/
-- **Summary:** Doctors, lawmakers, and other advocates are joining forces to promote recommended childhood vaccines.
-
-### Religious Anti-Abortion Center Finds Opportunity in Town Without OB-GYNs
-- **Date:** 2026-05-20
-- **URL:** https://kffhealthnews.org/rural-health/anti-abortion-crisis-pregnancy-center-sandpoint-idaho-obgyn-maternity-care-desert/
-- **Summary:** A crisis pregnancy center in Sandpoint, Idaho, wants to expand women’s healthcare three years after the labor and delivery unit at the town’s hospital closed and its OB-GYNs moved out of state.
-
-### Watch: The Tug-of-War Over Taxpayer Dollars
-- **Date:** 2026-05-20
-- **URL:** https://kffhealthnews.org/news/podcast-interview-senator-tammy-baldwin-taxpayer-dollars-988/
-- **Summary:** Podcast host Julie Rovner chats with Sen. Tammy Baldwin, a top Democrat on health issues, about President Donald Trump’s stewardship of federal spending and the effectiveness of the 988 Suicide &#38; Crisis Lifeline.
+### A Trump Stronghold Grapples With Health Risks of ICE Detention Sites
+- **Date:** 2026-05-29
+- **URL:** https://kffhealthnews.org/race-and-health/ice-detention-center-social-circle-georgia-lawsuit-trump-stronghold/
+- **Summary:** Several rural communities were thrust into a charged national debate over the Trump administration’s mass deportation strategy when federal officials sought to place new detention centers in them. In Social Circle, Georgia, locals fear the effort will overburden its modest healthcare infrastructure.
 
 ## STAT News - Pharma
 
-### What do early data from Utah’s Doctronic AI pilot show?
-- **Date:** 2026-05-26
-- **URL:** https://www.statnews.com/2026/05/26/utah-doctronic-ai-experiment-early-data-health-tech/?utm_campaign=rss
-- **Summary:** In this edition of STAT Health Tech: Early data from a Utah pilot using AI to renew prescriptions, Oura files to go public, and more.
+### STAT+: Radiopharmaceutical shows promise in post-Pluvicto setting
+- **Date:** 2026-06-02
+- **URL:** https://www.statnews.com/2026/06/02/biotech-news-radiopharmaceutical-shows-promise-in-post-pluvicto/?utm_campaign=rss
+- **Summary:** Abivax's ulcerative colitis data, Fulcrum's scrapped sickle cell drug, and more biotech news from The Readout
 
-### STAT+: Five biotech news updates to stay on top of today
-- **Date:** 2026-05-26
-- **URL:** https://www.statnews.com/2026/05/26/biotech-news-eli-lilly-spends-more-of-its-glp-1-cash/?utm_campaign=rss
-- **Summary:** Eli Lilly spends more of its GLP-1 cash, Humira's masterclass in monopoly, and more updates from The Readout
+### STAT+: Pharmalittle: We’re reading about a Lilly threat to 340B hospitals, Ebola vaccine funding, and more
+- **Date:** 2026-06-02
+- **URL:** https://www.statnews.com/pharmalot/2026/06/02/lilly-threat-to-340b-hospitals-ebola-vaccine-funding/?utm_campaign=rss
+- **Summary:** Lilly gave hospitals participating in a federal drug discount program five days to submit claims data or it will stop the price breaks
 
-### STAT+: Pharmalittle: We’re reading about a Lilly gene therapy for cholesterol, three new Lilly deals, and more
-- **Date:** 2026-05-26
-- **URL:** https://www.statnews.com/pharmalot/2026/05/26/lilly-gene-therapy-for-cholesterol-three-new-lilly-deals/?utm_campaign=rss
-- **Summary:** Eli Lilly reported that a high dose of its gene-editing therapy reduced cholesterol levels by 62% in participants in a Phase 1 clinical trial
+### STAT+: Eli Lilly warns hospitals to submit claims data in the next five days or lose their 340B drug discounts
+- **Date:** 2026-06-01
+- **URL:** https://www.statnews.com/pharmalot/2026/06/01/lilly-warns-hospitals-submit-claims-data-or-lose-340b-drug-discounts/?utm_campaign=rss
+- **Summary:** Eli Lilly has told more than 1,000 hospitals participating in the 340B drug discount program to submit claims data over the next five days — or lose price breaks.
 
-### STAT+: Eli Lilly to buy three small vaccine developers
-- **Date:** 2026-05-26
-- **URL:** https://www.statnews.com/2026/05/26/eli-lilly-acquisitions-vaccine-developers/?utm_campaign=rss
-- **Summary:** Eli Lilly is acquiring three small vaccine developers, expanding its work in infectious diseases and giving the field a boost.
+### STAT+: At ASCO, talk of barriers to cancer care, new treatments, and other big takeaways
+- **Date:** 2026-06-01
+- **URL:** https://www.statnews.com/2026/06/01/asco-news-day-4-merkel-cell-carcinoma-glp1s-grail/?utm_campaign=rss
+- **Summary:** Here is some of what you may have missed from the world's largest cancer research meeting.
 
-### Opinion: The innovation trap: How pharma weaponizes a word to extend monopolies
-- **Date:** 2026-05-26
-- **URL:** https://www.statnews.com/2026/05/26/humira-patents-abbvie-innovation-pharma-monopoly-excerpt/?utm_campaign=rss
-- **Summary:** “Just because a company invests does not mean it has invented anything novel,” Tahir Amin and Rohit Malpani write in this excerpt from “Pharma Monopoly.”
+### STAT+: Medicare’s mum on GLP-1s, and Massachusetts sues United
+- **Date:** 2026-06-01
+- **URL:** https://www.statnews.com/2026/06/01/medicare-bridge-obesity-drug-coverage-no-surprises-act-idr-rules-health-care-inc/?utm_campaign=rss
+- **Summary:** We've been asking Medicare for weeks about the cost of giving seniors $50 obesity drugs.
 
-### STAT+: How Kyle Diamantas defied expectations as he rose to lead the FDA
-- **Date:** 2026-05-26
-- **URL:** https://www.statnews.com/2026/05/26/kyle-diamantas-acting-fda-commissioner-wins-trust-exceeds-expectations/?utm_campaign=rss
-- **Summary:** WASHINGTON — People in the food world didn’t know what to expect when the Trump administration appointed a little-known Florida attorney as the FDA’s top food official in 2025. They&#8230;
+### STAT+: Pharmalittle: We’re reading about pancreatic and lung cancer drugs, China biotech growth, and more
+- **Date:** 2026-06-01
+- **URL:** https://www.statnews.com/pharmalot/2026/06/01/asco-pancreatic-lung-cancer-drugs-china-growth-as-drug-developer/?utm_campaign=rss
+- **Summary:** Detailed study data for a pancreatic cancer treatment from Revolution Medicines confirmed it increased overall survival, from 13.2 months to 6.7 months
 
-### STAT+: Eli Lilly says Verve’s gene editor lowers cholesterol levels in early study
-- **Date:** 2026-05-25
-- **URL:** https://www.statnews.com/2026/05/25/eli-lilly-verv-102-gene-editing-cholesterol-phase-1-trial-data/?utm_campaign=rss
-- **Summary:** Eli Lilly said Monday that a high dose of its gene-editing therapy reduced cholesterol levels by 62% in participants in a clinical trial.
+### STAT+: A turning point for pancreatic cancer patients
+- **Date:** 2026-06-01
+- **URL:** https://www.statnews.com/2026/06/01/biotech-news-turning-point-for-pancreatic-cancer-revmed/?utm_campaign=rss
+- **Summary:** Eli Lilly announces two China deals, Akeso's lung cancer bispecific payoff, and more biotech news from The Readout
 
-### STAT+: EU and US advisers split over AstraZeneca breast cancer drug
-- **Date:** 2026-05-22
-- **URL:** https://www.statnews.com/2026/05/22/biotech-news-astrazeneca-breast-cancer-drug-mixed-eu-and-us-approval/?utm_campaign=rss
-- **Summary:** Merck-Kelun ADC outperforms Keytruda in trial, a closely watched Parkinson’s drug fails, and more biotech news from The Readout
+### STAT+: Medicare still won’t say how much covering obesity drugs will cost
+- **Date:** 2026-06-01
+- **URL:** https://www.statnews.com/2026/06/01/medicare-50-dollar-weight-loss-drugs-glp-1-bridge-program-cost-estimate/?utm_campaign=rss
+- **Summary:** Older adults on Medicare can get Wegovy and Zepbound for $50 a month, starting in July. But the agency still is not sharing how much this will cost taxpayers.
 
-### STAT+: Pharmalittle: We’re reading about a Parkinson’s drug setback, a Merck lung cancer therapy, and more
-- **Date:** 2026-05-22
-- **URL:** https://www.statnews.com/pharmalot/2026/05/22/parkinson-drug-trial-setback-merck-lung-cancer-therapy/?utm_campaign=rss
-- **Summary:** Biogen and Denali said their experimental Parkinson’s therapy failed to slow the degenerative brain disorder in a randomized trial
+### STAT+: A standing ovation for RevMed, and caution for Akeso
+- **Date:** 2026-05-31
+- **URL:** https://www.statnews.com/2026/05/31/asco-news-day-3-revmed-akeso-summit-lilly-kelonia/?utm_campaign=rss
+- **Summary:** ASCO Day 3: A huge advance for pancreatic cancer, a let down for Akeso and Summit, and a new approach to immunotherapy.
 
-### STAT+: Genentech is soliciting research that can be used to blunt pharma reforms in Washington
-- **Date:** 2026-05-22
-- **URL:** https://www.statnews.com/pharmalot/2026/05/22/genentech-soliciting-academics-write-papers-to-blunt-pharma-reforms-dc/?utm_campaign=rss
-- **Summary:** How a pharma company is soliciting research that can be used to blunt pharma proposed reforms in Washington.
+### Ultra-low doses could bring costly cancer treatments to more patients in poorer countries
+- **Date:** 2026-05-31
+- **URL:** https://www.statnews.com/2026/05/31/low-dose-nivolumab-extends-survival-trial-head-neck-squamous-cell-carcinoma-asco-2026/?utm_campaign=rss
+- **Summary:** Low-dose, low-cost immunotherapies may help patients in poorer countries access high-tech cancer treatments.
 
-### STAT+: Merck-Kelun lung cancer drug cut risk of tumor progression by 65%, ASCO abstract shows
-- **Date:** 2026-05-21
-- **URL:** https://www.statnews.com/2026/05/21/merck-kelun-sac-tmt-lung-cancer-drug-trial-results/?utm_campaign=rss
-- **Summary:** A type of targeted chemotherapy developed by China-based Kelun-Biotech and licensed to Merck cut the risk of tumor progression by 65% in patients with lung cancer, according to Phase 3&#8230;
+### STAT+: Practice-changing results reported for Revolution Medicines pancreatic cancer drug
+- **Date:** 2026-05-31
+- **URL:** https://www.statnews.com/2026/05/31/pancreatic-cancer-daraxonrasib-revolution-medicines-results-asco-2026/?utm_campaign=rss
+- **Summary:** Much-awaited results at ASCO show that scientists have indeed found a way to drug a "greasy ball" involved in pancreatic cancer.
 
-### STAT+: Immunovant shares surge on arthritis trial data
-- **Date:** 2026-05-21
-- **URL:** https://www.statnews.com/2026/05/21/biotech-news-immunovant-shares-surge-on-arthritis-trial-data/?utm_campaign=rss
-- **Summary:** Trial results for Lilly's "triple-G" drug, FDA's leadership purge leaves chaos, and more biotech news from The Readout
+### STAT+: Akeso and Summit’s ivonescimab extends survival in squamous cell lung cancer
+- **Date:** 2026-05-31
+- **URL:** https://www.statnews.com/2026/05/31/squamous-cell-lung-cancer-akeso-summit-harmoni-asco-2026/?utm_campaign=rss
+- **Summary:** A lung cancer drug developed in China was a highlight of ASCO but doctors want to see follow-up in a more diverse population.
 
-### STAT+: Pharmalittle: We’re reading about a Lilly obesity drug trial, statistics for an Alzheimer’s drug, and more
-- **Date:** 2026-05-21
-- **URL:** https://www.statnews.com/pharmalot/2026/05/21/lilly-obesity-drug-trial-alzheimer-drug-claims-questioned/?utm_campaign=rss
-- **Summary:** Eli Lilly reported that in a late-stage trial, its next-generation obesity drug led to weight loss approaching the effectiveness seen with bariatric surgery
+### STAT+: For prostate cancer patients set on surgery, new hormone regimen may improve outcomes, study finds
+- **Date:** 2026-05-31
+- **URL:** https://www.statnews.com/2026/05/31/prostate-cancer-hormone-therapy-cut-relapse-asco-2026/?utm_campaign=rss
+- **Summary:** By doing hormone therapy upfront in prostate cancer cases, the hope was to shrink the relapse rate after surgery. Results were encouraging.
 
-### STAT+: Lilly’s ‘triple-G’ drug leads to bariatric-surgery levels of weight loss in trial
-- **Date:** 2026-05-21
-- **URL:** https://www.statnews.com/2026/05/21/eli-lilly-retatrutide-triple-g-weight-loss-obesity-discontinuations-trial/?utm_campaign=rss
-- **Summary:** A next-gen Eli Lilly obesity drug led to bariatric-surgery levels of weight loss in a study, but also saw patients dropping out because of side effects.
+### STAT+: China competition, ‘destruction’ at FDA give agency chance to restructure, Rick Pazdur says
+- **Date:** 2026-05-30
+- **URL:** https://www.statnews.com/2026/05/30/rick-pazdur-fda-destruction-rebuilding-asco-2026/?utm_campaign=rss
+- **Summary:** Rick Pazdur on the FDA: “We've had a lot of destruction here, and it doesn't mean that we have to just go back and say, well, let's rebuild it as&#8230;
 
-### STAT+: Drugmakers guard IP more tightly amid China competition
-- **Date:** 2026-05-20
-- **URL:** https://www.statnews.com/2026/05/20/biotech-news-drugmakers-guard-ip-more-tightly-amid-china-competiti/?utm_campaign=rss
-- **Summary:** The FDA's new path, the status of animal testing, and other biotech news from The Readout
+### STAT+: Revolution Medicines starts shipping experimental pancreatic cancer drug
+- **Date:** 2026-05-30
+- **URL:** https://www.statnews.com/2026/05/30/pancreatic-cancer-daraxonrasib-revolution-medicines-early-access-asco-2026/?utm_campaign=rss
+- **Summary:** CEO Mark Goldsmith says Revolution Medicines will submit pancreatic cancer drug daraxonrasib for FDA approval soon.
 
-### STAT+: Pharmalittle: We’re reading about biotech investors’ mood, a former FDA head’s confidence, and more
-- **Date:** 2026-05-20
-- **URL:** https://www.statnews.com/pharmalot/2026/05/20/biotech-investors-mood-former-fda-commissioner-kessler-confidence/?utm_campaign=rss
-- **Summary:** For Wall Street, the political risk of investing in drug companies has been demoted in comparison to other concerns
+### STAT+: At ASCO, positive data for Bristol in multiple myeloma and Pfizer in lung cancer
+- **Date:** 2026-05-29
+- **URL:** https://www.statnews.com/2026/05/29/asco-news-day-1-multiple-myeloma-bristol-lung-cancer-pfizer/?utm_campaign=rss
+- **Summary:** You’re reading the web edition of ASCO in 30 Seconds, STAT’s guide to the American Society of Clinical Oncology annual meeting. Sign up for email editions here. We’re ASCOmaxxing. Rest&#8230;
 
-### STAT+: Virginia governor vetoes legislation to create an advisory panel to lower the cost of prescription drugs
-- **Date:** 2026-05-19
-- **URL:** https://www.statnews.com/pharmalot/2026/05/19/virginia-governor-vetoes-bill-to-create-panel-to-lower-drug-costs/?utm_campaign=rss
-- **Summary:** Virginia's governor vetoed a closely watched effort to create an advisory panel to lower prescription drug costs.
+### STAT+: Pharmalittle: We’re reading about Replimune drug getting third try at FDA approval, a Pfizer deal in China, and more
+- **Date:** 2026-05-29
+- **URL:** https://www.statnews.com/pharmalot/2026/05/29/pharmalittle-were-reading-about-replimune-drug-getting-third-try-at-fda-approval-a-pfizer-deal-in-china-and-more/?utm_campaign=rss
+- **Summary:** Pharma updates from the Pharmalot campus via the Pharmalittle newsletter
 
-### STAT+: Canadian medical societies lack sufficient conflict-of-interest policies, study finds
-- **Date:** 2026-05-19
-- **URL:** https://www.statnews.com/pharmalot/2026/05/19/canadian-medical-societies-lack-sufficient-conflict-of-interest-policies/?utm_campaign=rss
-- **Summary:** Most Canadian medical societies lack comprehensive policies governing conflicts of interest, and many policies are generally fragmented and narrow in scope, according to a new analysis.
+### STAT+: Allogene CEO David Chang stepping down
+- **Date:** 2026-05-29
+- **URL:** https://www.statnews.com/2026/05/29/biotech-news-allogene-ceo-david-chang-steps-down/?utm_campaign=rss
+- **Summary:** Pfizer invests billions to buy Chinese drugs, WHO maps experimental response to Ebola outbreak, and other biotech news from The Readout
 
-### STAT+: TrumpRx adds generic drugs
-- **Date:** 2026-05-19
-- **URL:** https://www.statnews.com/2026/05/19/trumprx-generic-drugs-cassidy-loses-fda-turmoil-dc-diagnosis/?utm_campaign=rss
-- **Summary:** A deal with Mark Cuban, Amazon Pharmacy, and GoodRx is boosting TrumpRx's offerings.
+### STAT+: Up and down the ladder: The latest comings and goings
+- **Date:** 2026-05-29
+- **URL:** https://www.statnews.com/pharmalot/2026/05/29/up-and-down-the-ladder-comings-and-goings-merck-pfizer-amgen/?utm_campaign=rss
+- **Summary:** From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
+
+### STAT+: Trump’s pharma deals get tested
+- **Date:** 2026-05-28
+- **URL:** https://www.statnews.com/2026/05/28/trump-pharma-mfn-deals-medicaid-work-requirement-rules-dc-diagnosis/?utm_campaign=rss
+- **Summary:** We still have a lot of questions about Trump's MFN deals with pharma companies.
 
 ## PCMA Blog
 
-### PCMA Asks DOJ and FTC to Investigate Role of Large Drug Wholesalers in Generic Drug Prices, Acquisition Costs for Pharmacies
-- **Date:** 2026-05-22
-- **URL:** https://www.pcmanet.org/press-releases/pcma-asks-doj-and-ftc-to-investigate-role-of-large-drug-wholesalers/
-- **Summary:** (WASHINGTON, D.C.) – Yesterday, the Pharmaceutical Care Management Association (PCMA) submitted comments to the Department of Justice (DOJ) Antitrust Division and the Federal Trade Commission (FTC) encouraging them to seek information about the business practices of large drug wholesaler companies. Earlier this year, DOJ and FTC issued a request for public comments about reinstating guidelines [&#8230;] The post PCMA Asks DOJ and FTC to Investigate Role of Large Drug Wholesalers in Generic Drug…
+### Showing Up
+- **Date:** 2026-06-02
+- **URL:** https://www.pcmanet.org/press-releases/showing-up/
+- **Summary:** You’re going to start hearing more about PBMs soon, and it may sound different than you’re used to. Odds are, if you’ve heard something about pharmacy benefit managers in recent years, it wasn’t good. Driving up costs, getting in the way of patient care, pocketing savings. All sounds terrible. It’s also intended to mislead you. That’s [&#8230;] The post Showing Up first appeared on PCMA.
 
-### PCMA Supports Bipartisan ECAPS Act to Expand Access to Care and Strengthen Role of Pharmacists
-- **Date:** 2026-05-21
-- **URL:** https://www.pcmanet.org/press-releases/pcma-supports-bipartisan-ecaps-act-to-expand-access-to-care-and-strengthen-role-of-pharmacists/
-- **Summary:** (WASHINGTON, D.C.) – Today, the House Ways and Means Committee is marking up HR 3164, the Ensuring Community Access to Pharmacist Services Act (ECAPS). The Pharmaceutical Care Management Association (PCMA) supports the legislation’s objective to expand access to care for seniors by allowing Medicare to reimburse pharmacists for important clinical care services they provide to [&#8230;] The post PCMA Supports Bipartisan ECAPS Act to Expand Access to Care and Strengthen Role of Pharmacists first …
+### PCMA Launches New Campaign on the Value of PBMs: Lowering Drug Prices, Protecting Patients
+- **Date:** 2026-06-01
+- **URL:** https://www.pcmanet.org/press-releases/pcma-launches-new-campaign-on-the-value-of-pbms-lowering-drug-prices-protecting-patients/
+- **Summary:** (WASHINGTON, D.C.) – Today, the Pharmaceutical Care Management Association (PCMA) is launching a new seven-figure multi-channel campaign to educate policymakers on the role and value of pharmacy benefit managers (PBMs) for American families. The campaign will include digital, email, streaming advertising, events, podcasts, a new microsite, and a suite of resources designed to better explain [&#8230;] The post PCMA Launches New Campaign on the Value of PBMs: Lowering Drug Prices, Protecting Pati…
 
-### PMCA Welcomes Lawmaker Focus on Insurance Brokers and Consultants
-- **Date:** 2026-05-21
-- **URL:** https://www.pcmanet.org/press-releases/pmca-welcomes-lawmaker-focus-on-insurance-brokers-and-consultants/
-- **Summary:** (WASHINGTON, D.C.) – Today, the House Education and Workforce Committee is set to consider the PBM Kickback Prohibition Act, which bars payments from a pharmacy benefit manager (PBM) to a health care broker or consultant. While ostensibly focused on PBMs, in practice the transactions covered by the bill are not kickbacks, but rather common arrangements often included in employer contracts that require [&#8230;] The post PMCA Welcomes Lawmaker Focus on Insurance Brokers and Consultants first app…
+### Behind the Scenes: How Consultant-Driven Employer RFPs Shape Pharmacy Benefits
+- **Date:** 2026-05-28
+- **URL:** https://www.pcmanet.org/pcma-blog/behind-the-scenes-how-consultant-driven-employer-rfps-shape-pharmacy-benefits/
+- **Summary:** Companies make high-stakes decisions every day &#8211; and this includes setting up pharmacy benefits for their employees. Employers need affordable prescription drug coverage that meets the needs of a diverse workforce, and for this they hire a pharmacy benefit manager, or PBM. But many important decisions about a drug benefit are not made by the [&#8230;] The post Behind the Scenes: How Consultant-Driven Employer RFPs Shape Pharmacy Benefits first appeared on PCMA.
 
-### HHS OIG: Vertical Integration Doesn’t Raise Drug Costs, PBM-Affiliated Pharmacies Paid Less
-- **Date:** 2026-05-20
-- **URL:** https://www.pcmanet.org/press-releases/hhs-oig-vertical-integration-doesnt-raise-drug-costs-pbm-affiliated-pharmacies-paid-less/
-- **Summary:** (WASHINGTON, D.C.) &#8211; A new report from the HHS Office of Inspector General (OIG) examines the impacts of vertical integration in the market on drug costs, pharmacy reimbursement, and cost sharing in Medicare Part D. After reviewing a range of drugs in Part D, OIG found: The net cost of drugs was similar between vertically integrated and non-integrated Part D plans. Part D plans with PBM-affiliated pharmacies [&#8230;] The post HHS OIG: Vertical Integration Doesn’t Raise Drug Costs, PBM-Af…
-
-### After Landmark PBM Reform, Now It’s Time to Address What’s Really Driving Drug Prices
-- **Date:** 2026-05-19
-- **URL:** https://www.pcmanet.org/pcma-blog/after-landmark-pbm-reform-now-its-time-to-address-whats-really-driving-drug-prices/
-- **Summary:** There’s no denying it – Congress gave big drugmakers a big win this year by passing landmark pharmacy benefit manager (PBM) reform in the Consolidated Appropriations Act (CAA). Last week at the Axios Future of Health Summit, PhRMA President and CEO Stephen Ubl outlined developments that he believes “will move the marketplace in the right [&#8230;] The post After Landmark PBM Reform, Now It’s Time to Address What’s Really Driving Drug Prices first appeared on PCMA.
-
-## Google Alert - spread pricing + legislation
-
-### Don't Miss These 3 Important Changes in Workers' Comp Pharmacy This Month — May 2026
-- **Date:** 2026-05-25
-- **URL:** https://www.google.com/url?rct=j&sa=t&url=https://www.workerscompensation.com/expert-analysis/dont-miss-these-3-important-changes-in-workers-comp-pharmacy-this-month-may-2026/&ct=ga&cd=CAIyGmNjMWY2ODYzYjcxMGM3ZTE6Y29tOmVuOlVT&usg=AOvVaw1CJeqXq6Ec_PF9fXuLY8iv
-- **Summary:** ... PBM programs. Two have immediate operational impacts ... The FTC's PBM Playbook Is Going Industrywide — A June Hearing Will Tell Us How Far.
+### PCMA Names Veteran Government Affairs Leader Sean Hoffman as New California Leader
+- **Date:** 2026-05-27
+- **URL:** https://www.pcmanet.org/press-releases/sean-hoffman-joins-pcma/
+- **Summary:** (SACRAMENTO, CA) — The Pharmaceutical Care Management Association (PCMA) today announced that Sean Hoffman will join the organization as Senior Director, State Affairs, supporting advocacy and engagement efforts in California. Hoffman brings more than 20 years of experience in government affairs, public policy, and stakeholder engagement across both the public and private sectors, including leading multi-state advocacy efforts for a [&#8230;] The post PCMA Names Veteran Government Affairs Leade…
