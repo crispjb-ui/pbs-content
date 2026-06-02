@@ -147,6 +147,7 @@ The custom-form funnel is live on `rxbs.org/toolkit/biosimilar-readiness` and pr
 - ToolkitLeads reuses the pre-existing keys `toolkit_name` / `toolkit_slug` (not `last_toolkit_*`); the 3 added fields were `toolkits_requested`, `downloads`, `last_download`.
 - The two standalone title texts ("Get the Worksheet" + subtitle) sit OUTSIDE `#box19`, so they stay as a shared header when `#form1`/`#box19` collapse. The teal panel WAS part of `#box19` and collapses away (new form sits on white — acceptable).
 - Zapier Filter: `Only continue if  1. Repeat  (Boolean) is false`, placed after Email 1 (Step 3), before the first Delay.
+- **Lead notification to Ginny:** a Zapier **Microsoft Outlook → Send Email** step placed **right after the Catch Hook (Step 1)**, To `team@rxbs.org`, body built from Step 1 fields (`1. First Name`, `1. Email`, `1. Company`, `1. Role`, `1. Toolkit Name`, `1. Repeat`). Fires on **every** submission (before the GET and the filter) — replaces the native Wix Forms "new submission" email the old `#form1` used to send. The `1. Repeat` field shows new-lead vs returning-download. Replicate this step for any future toolkit funnel (it's per-Zap, not per-toolkit, so the single shared Zap already covers all toolkits).
 
 ### ⚠️ Zapier stale-binding gotcha (cost ~1 hr on first deploy — read before changing the payload)
 
