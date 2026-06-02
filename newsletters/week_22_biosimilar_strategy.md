@@ -869,7 +869,7 @@ A rheumatologist called me once upset that her patient's biosimilar transition h
 **Morning (7-8 AM) — Roundup Launch Teaser:**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-Read the roundup: [LINK]
+Read the roundup: https://benefitblindspots.substack.com/p/what-crossed-my-desk-2026-06-03
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 When I started reviewing PBM contracts, I assumed formularies were primarily clinical decisions. They are, partly. But they are also financial decisions, rebate decisions, and market access decisions. Biosimilars taught me that lesson clearly. A clinically equivalent product at a lower net cost that does not get preferred formulary status because the brand's rebate contract is more profitable for the PBM. Understanding that dynamic changed how I read every contract.
