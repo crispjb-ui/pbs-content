@@ -403,6 +403,29 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 04 · Mid-year claims anomaly`
 
+---
+
+## Substack Contract Library Update — Library 03 Week
+
+Library 03 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
+
+**Publishing prompt:**
+
+> Open the live Substack post at `benefitblindspots.substack.com/p/pbm-contract-language-library` in edit mode. Copy everything between the `▼ BEGIN PASTE ▼` and `▲ END PASTE ▲` markers in `substack_contract_language_library.md` and paste over the existing post body. Publish.
+
+After publishing, tell Claude the push is done so the Update Log in `substack_contract_language_library.md` gets moved from `_Pending: next push_` to a dated row.
+
+**Provisions Library 03 should have added or amended before this push** (already merged into the article body as of Jun 3, 2026 — confirm before pushing; if anything is missing, ask Claude "update the contract library for Library 03"):
+- Audit Frequency and Notice (§ 10.01) — NEW provision in Audit Rights
+- Audit Scope (§ 10.02) — NEW provision in Audit Rights
+- Auditor Identity (§ 10.03) — NEW provision in Audit Rights
+- Findings Binding (§ 10.04) — NEW provision in Audit Rights
+- Cost Responsibility and Materiality Threshold (§ 10.05) — NEW provision in Audit Rights
+
+_Note: this whole-article paste also carries the previously-merged Biosimilar Provisions section (from W22), which has not yet been pasted to Substack. One paste delivers both._
+
+---
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 81 - Tuesday 8:30 AM
