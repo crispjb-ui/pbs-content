@@ -59,7 +59,8 @@
 | 34 | Magnifier-on-Document 5 Questions Carousel | 5 Questions About Your Audit Rights | Transparency & Industry Education (Audit Rights anchor) | W34 (originally Thursday Slot C carousel August 27, 2026; displaced May 9, 2026 — overlaps with W23 Library 03 Audit Rights carousel) | git history: `git show 41bf3ee:newsletters/week_34_specialty_management.md` (lines 405-458 show full Slot C 5-Questions magnifier-on-document carousel spec including hero slide image prompt) | available — fits any future Thursday Slot C 5-Questions evergreen rotation slot whose recent calendar has NOT covered audit rights |
 | 35 | Tablet-with-Sticky-Notes 5 Questions Carousel | 5 Questions About PBM Performance Guarantees | Transparency & Industry Education (Performance Guarantees anchor) | W37 (originally Thursday Slot C carousel September 17, 2026; displaced May 9, 2026 — cross-week duplication with W34 Thursday 5 Mid-Year Performance Guarantee Terms Decoded) | git history: `git show 2faa7d6:newsletters/week_37_renewal_readiness.md` (lines 625-678 show full Slot C 5-Questions tablet-with-sticky-notes carousel spec including hero slide image prompt) | available — fits any future Thursday Slot C 5-Questions evergreen rotation slot whose recent calendar has NOT covered performance guarantees |
 | 36 | Photoreal Claims-Report-with-Three-Highlighted-Rows Messy Infographic | Same MAC. Three channels. Three margins. | Transparency & Industry Education (Channel Pricing anchor) | W21 (originally Thursday Slot B May 28, 2026; displaced May 21, 2026 — Memorial Day topic-recency vs. W18 Channel Pricing 17K winner photoreal DNA + W18/W20/W21 Thursday pricing-mechanic cluster cannibalization concern. Replaced by Rebate Aggregator decoder.) | git history: `git show HEAD~1:newsletters/week_21_quarterly_reporting.md` (lines 611-735 in pre-rebuild revision show full single-image Claims Report photoreal spec including Gemini and ChatGPT image prompts, hand-written red-marker title, three highlighted rows in yellow/green/pink, three red-pen margin annotations) | available — fits any future Channel Pricing Thursday Slot B slot. **Earliest natural fit: a September back-to-business Thursday at 8:30 AM EST** when the 5-15K floor is intact and the Memorial Day-style engagement dip has passed. 10/10 winning-profile traits per Thursday Excellence Rule. Pairs cleanly with `field_note_backlog.md` FN-19 (Auditing Your MAC Margin Field Note) which was displaced from W21 in the same rebuild |
-| 37 | **Messy Infographic (Thu Slot A) or Carousel (Tue) — NEWS-PEGGED** | Medicare GLP-1 "Bridge" Access Gauntlet, Decoded | Transparency & Industry Education | News-pegged (CMS PA form, surfaced by @DavidNBrennan on X, Jun 3 2026) | inline "Entry 37 detail" below — no source week file yet | available — news-pegged; target a Thursday decoder or Tuesday visual near program launch (~Jul 2026). Source + plan retained below. |
+| 37 | Messy Infographic — NEWS-PEGGED | Medicare GLP-1 "Bridge" Access Gauntlet, Decoded | Transparency & Industry Education | News-pegged (CMS PA form, @DavidNBrennan on X, Jun 3 2026) | `newsletters/week_28_network_design.md` Post 101 + Entry 37 detail below | **SLOTTED → W28 Tuesday (Jul 14), Post 101.** Built; pending publish. |
+| 38 | Funnel Clean Infographic | "Where 2026 Specialty Dollars Actually Go" | Clinical Pharmacy Perspectives | Displaced from W28 Tue (Jun 3 2026) by Entry 37 | inline "Entry 38 detail" below (preserved verbatim) | available — fits a future Tuesday clean-infographic slot on a non-specialty Monday |
 
 ### Entry 37 detail — Medicare GLP-1 "Bridge" Access Gauntlet (news-pegged; source retained)
 
@@ -79,7 +80,37 @@ _Added June 3, 2026. Unlike entries 1-36 (repurposed-from-deep-dive concepts tha
 - **Plan-sponsor bridge (REQUIRED — a Medicare topic must connect to the employer buyer):** Medicare's GLP-1 utilization-management playbook is a template self-funded employers can study; the mechanics (fail-first, comorbidity gating, step-by-step PA) are exactly what commercial PBMs run. Frame as "a benchmark for your own GLP-1 policy," never "Medicare is the villain."
 - **Winning traits:** decoder, named-actor (the access system), GLP-1 amplifier, plan-sponsor-actionable, confrontational hook, single-image photoreal (if Thursday).
 
-**Slotting guidance — recommended target: Thursday of W27 (week of July 7-11), just after the ~July 1 program launch.** Rationale: rides the launch news beat (the X reaction already covered the form-publication beat); avoids the W26 July-4 slow week; reach floor intact post-holiday. **Thursday over Tuesday** because the content is decoder-shaped + GLP-1 (the 64K amplifier) + confrontational = textbook Thursday Excellence, and Thursday carries the Field Note + first-comment conversion stack (don't waste GLP-1 on a Tuesday). Requires a **paired Field Note** (the plan-sponsor application, e.g., "What Medicare's GLP-1 Gauntlet Teaches Self-Funded Plans") for the cross-promo. Before locking: confirm W27's current Thursday Slot A plan (park whatever it displaces here) and run the triple-distinct check vs W27 Monday (PBM Evaluation) and Tuesday (Library 05). Keep tone analytical/clinical, not anti-CMS. **Tuesday fallback** only if no Field Note is built or W27 Thursday is locked: run it as a non-Library Tuesday standalone decoder. W28 (Jul 14-18) is a secondary fallback if launch slips.
+**Slotting guidance — SLOTTED: W28 Tuesday (Jul 14, 2026), Post 101.** Decision (Jun 3, 2026): both W27 and W28 Thursdays were already fully-built, on-theme conversion stacks (W27 = PBM Compensation post + Field Note + toolkit; W28 = GER post + Field Note + toolkit), so displacing a Thursday was too costly. Cleanest landing was **W28 Tuesday**, which displaced only the lightweight "Where 2026 Specialty Dollars Actually Go" funnel clean infographic (no Field Note / toolkit), now preserved as Entry 38. Triple-distinct holds: Mon Network Design / Tue GLP-1 Access / Thu GER. Built as a messy-infographic decoder (marked-up form, photoreal, mobile-legibility applied) in `newsletters/week_28_network_design.md` Post 101. Tone analytical, not anti-CMS. **Status: built, pending publish Jul 14.**
+
+---
+
+### Entry 38 detail — "Where 2026 Specialty Dollars Actually Go" Funnel Clean Infographic (displaced from W28 Tuesday; preserved verbatim)
+
+_Displaced June 3, 2026 when the Medicare GLP-1 Bridge decoder (Entry 37) was slotted into W28 Tuesday. Clean Infographic, Tuesday Cycle-W6 slot, Clinical Pharmacy Perspectives pillar. Fits any future Tuesday clean-infographic slot whose Monday is NOT specialty / clinical-spend themed. Preserved in full below because it was overwritten in the W28 file._
+
+**Post copy:**
+
+```
+Specialty spend is not distributed evenly across therapeutic categories. Four are driving the 2026 trend in the plans we review.
+
+Category 1: GLP-1s for cardiovascular and kidney disease. The indication expansion is adding members who were not on GLP-1s for diabetes or obesity. Different qualifying criteria. Different PA structure. Different downstream spend pattern.
+
+Category 2: Anti-amyloid Alzheimer's infusions. New class, new administration requirements, new site-of-care considerations. Medical benefit and pharmacy benefit coordination matters before the first claim arrives.
+
+Category 3: Gene therapies for rare conditions. Single-dose, high-ticket. Stop-loss coordination and specialty carve-out decisions are material on a single claim.
+
+Category 4: Autoimmune biologics post-biosimilar launch. Humira biosimilars are a proven transition. Stelara biosimilars are the next lever. Coverage position needs review before the launch, not after.
+
+Each category has a different intervention. The intervention only works if the plan sees the category coming.
+
+#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
+```
+
+**Image (funnel clean infographic) generation prompt:**
+
+> Claude Design project type: Prototype. Single image, 1080 x 1350 px, white background. Large flat-design vertical funnel in the center. Funnel outline: Primary Blue (#015880) 4px stroke, interior filled Accent Blue (#A7E0FA) at 20% opacity. Top of funnel labeled in Plex Sans SemiBold 28pt Primary Blue: "2026 SPECIALTY SPEND, Total plan dollar." Four horizontal bands inside the funnel body, each labeled with one specialty drug category (GLP-1s CV/CKD indications; Anti-amyloid Alzheimer's infusions; Gene therapies for rare conditions; Autoimmune biosimilars Humira/Stelara), each with a Plex Sans Regular 14pt Gray sublabel. Narrower end labeled "Four categories. Four interventions." in Plex Sans SemiBold 22pt Primary Blue. Bottom callout band in Accent Blue with Primary Blue Plex Sans SemiBold "The intervention only works if the plan sees the category coming." PBS logo bottom-right, team@rxbs.org bottom-left, Benefit Blind Spots badge top-left. Flat corporate editorial style, no 3D, no photographs. Palette: white, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
+
+When reused, route the first comment to the destination week's Monday deep dive or a relevant evergreen (the original W28 version pointed to the network-design Monday deep dive).
 
 ## Distribution by pillar
 

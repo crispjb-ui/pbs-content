@@ -11,7 +11,7 @@
 | Mon Jul 13 | 7:30 AM | Substack | "Pharmacy Network Design: The Cost Variable Most Employers Overlook" | [ ] |
 | Mon Jul 13 | 7:45 AM | LinkedIn Newsletter | Network Design Briefing | [ ] |
 | Mon Jul 13 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Tue Jul 14 | 10:00 AM | LinkedIn Feed | Post 101 - "Where 2026 Specialty Dollars Actually Go" Funnel Clean Infographic (different pillar) | [ ] |
+| Tue Jul 14 | 10:00 AM | LinkedIn Feed | Post 101 - Medicare GLP-1 "Bridge" Access Gauntlet, Decoded (Messy Infographic, news-pegged; displaced the Specialty Dollars funnel → backlog Entry 38) | [ ] |
 | Tue Jul 14 | 10:05 AM | LinkedIn Feed | Post 101 - First Comment | [ ] |
 | Tue Jul 14 | 1:30 PM | LinkedIn Company | Company Reshare of Post 101 | [ ] |
 | Wed Jul 15 | 10:00 AM | LinkedIn Feed | Post 102 - "Same drug. Retail: one price. Mail order: different price. Specialty: another." Strong POV (TEXT) / VIDEO TEST #2 | [ ] |
@@ -333,72 +333,67 @@ Network cost comparison model on Substack.
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 101 - Tuesday 10:00 AM
-### "Where 2026 Specialty Dollars Actually Go" — Funnel Clean Infographic
+### Medicare GLP-1 "Bridge" Access Gauntlet, Decoded — Messy Infographic (news-pegged)
 
-**Template:** Funnel clean infographic from `claude_design_prompts.md` (template #8 — "Your Pharmacy Dollar: Where It Actually Goes"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
-**Format class:** Clean Infographic (Tuesday Cycle-W6 slot)
-**Pillar:** Clinical Pharmacy Perspectives (different from Monday's Cost Containment / Network Design topic)
-**Content shape:** Topic-anchored (Clinical Pharmacy topic, not a decoder this week). Funnel is the rotation's "flow/allocation" metaphor and fits a "where the dollars concentrate" argument without forcing decoder framing.
-**Why this combination:** Second entry in the Clean Info rotation after W19 Iceberg. The Funnel narrative ("$1 enters, $X exits into specific categories") maps cleanly to specialty-spend concentration. Rotates the visual metaphor so the Clean Info slot does not feel identical to the Iceberg slot three weeks ago.
+**Format:** Messy Infographic (photoreal marked-up-form decoder). Single image, 1080 x 1350 px. Apply the mobile-feed legibility rule (`claude_design_prompts.md` → "Mobile-feed legibility (mandatory for every prompt)").
+**Format class:** Tuesday Cycle-W6 slot reassigned from Clean Infographic to Messy Infographic for this news-pegged decoder. The displaced "Where 2026 Specialty Dollars Actually Go" funnel clean infographic is preserved verbatim in `evergreen_visual_backlog.md` as Entry 38.
+**Pillar:** Transparency & Industry Education. Triple-distinct holds: Mon Network Design / Tue GLP-1 Access / Thu GER are three different topics.
+**Source:** CMS "Medicare GLP-1 Bridge Prior Authorization Request Form," surfaced by David Brennan, MD (@DavidNBrennan) on X, June 3, 2026. Full source retained in `evergreen_visual_backlog.md` Entry 37.
+**Timing:** Jul 14, ~2 weeks after the ~July 1 program launch (rides the launch news beat; the June 3 X reaction already covered the form-publication beat).
+
+**Tuesday Excellence checklist:** confrontational hook ✓ (a denied claim is a *required step*) · proprietary anchor ✓ ("I read prior-auth criteria for a living") · named-actor ✓ (the access system / the PBM in the plan-sponsor bridge) · plan-sponsor-actionable ✓ (benchmark your own GLP-1 policy) · GLP-1 amplifier ✓ · cross-promo path ✓ (first comment → Contract Language Library clinical / PA provisions) · tone analytical, not anti-CMS ✓.
 
 #### Post Copy
 
 ```
-Specialty spend is not distributed evenly across therapeutic categories. Four are driving the 2026 trend in the plans we review.
+Medicare just published the prior-authorization form for its new GLP-1 "Bridge." Read past the headline and look at the architecture.
 
-Category 1: GLP-1s for cardiovascular and kidney disease. The indication expansion is adding members who were not on GLP-1s for diabetes or obesity. Different qualifying criteria. Different PA structure. Different downstream spend pattern.
+A denied pharmacy claim is required before a prescriber can even file the PA. In this design the denial is not a risk. It is a required step.
 
-Category 2: Anti-amyloid Alzheimer's infusions. New class, new administration requirements, new site-of-care considerations. Medical benefit and pharmacy benefit coordination matters before the first claim arrives.
+From there: a 12-question clinical gauntlet (BMI tiers, sleep apnea, MASH, heart failure, kidney disease), routed through a dedicated BIN and PCN built so the denial happens by design.
 
-Category 3: Gene therapies for rare conditions. Single-dose, high-ticket. Stop-loss coordination and specialty carve-out decisions are material on a single claim.
+I read prior-authorization criteria for a living. That is not a coverage pathway. It is a sequence of gates with a coverage door at the end.
 
-Category 4: Autoimmune biologics post-biosimilar launch. Humira biosimilars are a proven transition. Stelara biosimilars are the next lever. Coverage position needs review before the launch, not after.
+Here is why it matters for self-funded employers, even though this is a Medicare program. It is a utilization-management playbook published in full: fail-first, comorbidity gating, step-by-step PA. Your commercial PBM is fluent in every one of these moves. Read it as a benchmark for what your own GLP-1 policy does, and what you would want it to do differently.
 
-Each category has a different intervention. The intervention only works if the plan sees the category coming.
+Save this for your next GLP-1 coverage conversation.
 
-#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
+#PBMTransparency #GLP1 #PharmacyBenefits
 ```
 
 #### First Comment
 
 ```
-Monday's Benefit Blind Spots deep dive on network design walks through how each channel (retail, mail, specialty) produces different cost outcomes for the same drug, plus the audit framework for surfacing where your specialty dollars are actually going. [SUBSTACK MONDAY DEEP DIVE URL]
+The Medicare gauntlet is one program's version of utilization management. What governs it on YOUR plan is contract language: how prior authorization, step therapy, and formulary control are actually written. The protective versions of those clauses live in our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
-#### Image Layout Spec
+#### Messy Infographic Concept
 
-Single image at 1080 x 1350 px on a white (#FFFFFF) background. A large flat-design funnel fills the center of the image, oriented vertically. Top opening is wide, bottom is narrow.
+**Setting:** Photoreal printed "MEDICARE GLP-1 BRIDGE PRIOR AUTHORIZATION REQUEST FORM" on a dark wood desk, with red-pen annotations flagging four points of the access gauntlet. Form medium, distinct from the contract-page and invoice decoders used in other weeks.
 
-**Top of funnel (wide mouth):** Labeled in Plex Sans SemiBold 28pt Primary Blue (#015880): "2026 SPECIALTY SPEND — Total plan dollar." A small downward arrow inside the mouth shows flow direction.
+**Mobile-feed legibility (mandatory):** Keep the form's realistic fine print minimal so the four red callouts dominate the center ~70% of the frame. Cap at four callouts plus title plus bottom box. Title and callout labels must be readable at thumbnail (~400px); margin notes readable on tap. High red-on-cream contrast, large bold handwriting. Canva legibility pass before export.
 
-**Funnel body (trapezoid):** Rendered in Accent Blue (#A7E0FA) at 20% opacity outline, Primary Blue (#015880) outline stroke 4px. Inside the funnel body, four horizontal bands stacked vertically, each labeled with one category. Each band is a distinct shade of Accent Blue (getting denser as the funnel narrows) to signal concentration:
+**AI Image Generation Prompt (copy-paste as-is):**
 
-- Band 1 (widest, at top): Label in Plex Sans SemiBold 20pt Primary Blue: "GLP-1s · CV and CKD indications." Sublabel in Plex Sans Regular 14pt Gray: "New indication spend pattern. Different PA. Ask: rewrite PA criteria."
-- Band 2: Label: "Anti-amyloid Alzheimer's infusions." Sublabel: "Medical + pharmacy coordination before first claim. Site-of-care matters."
-- Band 3: Label: "Gene therapies for rare conditions." Sublabel: "Single-dose, seven-figure claims. Stop-loss coordination is material."
-- Band 4 (narrowest, at bottom): Label: "Autoimmune biosimilars — Humira and Stelara transitions." Sublabel: "Pre-launch tier placement beats post-launch chasing."
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed government prior-authorization form titled "MEDICARE GLP-1 BRIDGE PRIOR AUTHORIZATION REQUEST FORM" rests on a dark wood desk. CRITICAL: this is read in the LinkedIn mobile feed, so the four red callouts must DOMINATE the frame and be large and legible. Keep the form's printed fine print minimal so it never competes with the callouts. A red uncapped ballpoint pen lies in the lower-right corner. No logos, no brand marks, no people, no real names.
+>
+> Stamped across the top in large red-pen handwriting, double-underlined: The GLP-1 Access Gauntlet, Decoded
+>
+> Four elements on the form are circled in red pen, each with a red arrow to a LARGE, high-contrast, bright-red handwritten margin note (well spaced, never thin or cramped):
+> 1. a line reading "a DENIED pharmacy claim is required before the PA" -> "Fail-first. The denial is a required step, not a risk."
+> 2. a block of numbered clinical questions -> "12 gates: BMI, sleep apnea, MASH, heart failure, kidney disease."
+> 3. "BIN 028918 / PCN MEDDGLP1BR" -> "A separate rail, built so the denial happens by design."
+> 4. two coverage paths -> "Eligible diagnosis routes to Part D. Weight-loss-only routes to the Bridge."
+>
+> At the bottom, inside a bold hand-drawn red rectangle in large legible red text: Your PBM runs the same playbook on your plan.
+>
+> Style: realistic off-white government form with minimal small print, soft natural daylight, no harsh shadows, a faint coffee-ring stain in one corner, bright red ballpoint ink with strong contrast, dark wood desk. Any form text beyond the four callouts is illustrative.
 
-**Bottom of funnel (narrow spout):** Labeled in Plex Sans SemiBold 22pt Primary Blue: "Four categories. Four interventions." A downward arrow exits the spout to a bottom callout.
-
-**Bottom callout band (Accent Blue #A7E0FA, ~60px tall):** Primary Blue Plex Sans SemiBold 20pt: "The intervention only works if the plan sees the category coming." PBS logo (dark) bottom-right, 80-100px. "team@rxbs.org" bottom-left Plex Mono Medium 14pt Primary Blue.
-
-Top-left of image: Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge.
-
-#### Image Generation Prompt
-
-Claude Design project type: **Prototype**. Single image, 1080 x 1350 px, white background. Large flat-design vertical funnel in the center. Funnel outline: Primary Blue (#015880) 4px stroke, interior filled Accent Blue (#A7E0FA) at 20% opacity. Top of funnel labeled in Plex Sans SemiBold 28pt Primary Blue: "2026 SPECIALTY SPEND — Total plan dollar." Small downward arrow inside the funnel mouth. Four horizontal bands inside the funnel body, each labeled with one specialty drug category (GLP-1s CV/CKD indications; Anti-amyloid Alzheimer's infusions; Gene therapies for rare conditions; Autoimmune biosimilars Humira/Stelara). Each band labeled in Plex Sans SemiBold 20pt Primary Blue with a Plex Sans Regular 14pt Gray sublabel. Narrower end of funnel labeled "Four categories. Four interventions." in Plex Sans SemiBold 22pt Primary Blue. Bottom callout band in Accent Blue with Primary Blue Plex Sans SemiBold "The intervention only works if the plan sees the category coming." PBS logo bottom-right, team@rxbs.org bottom-left. Benefit Blind Spots badge top-left. Flat corporate editorial style, no 3D, no gradients beyond funnel interior opacity, no photographs. Color palette: white, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D) secondary.
-
-**Post-Generation Steps:**
-
-1. Generate base image
-2. Verify four bands fit inside the funnel with readable labels (mobile thumbnail test)
-3. If labels crowd, reduce sublabel to single line
-4. Add PBS logo bottom-right
-5. Export as PNG
-
-**Bottom Callout Bar:** Accent Blue (#A7E0FA) background. Primary Blue (#015880) text: "Each category has a different intervention. Only works if you see it coming." PBS logo bottom-right, team@rxbs.org bottom-left.
-
-**Style:** Clean professional format. Plex Sans body (16-18pt), Plex Sans SemiBold for panel headers (20-22pt). Icons are flat, single-color, 40-50px.
+**Canva touch-up (no publication branding; LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
+1. **Mobile-legibility pass first.** Preview at ~400px wide (or on a phone). Enlarge or overlay any callout or title that is hard to read, in a large bold handwritten red font (Permanent Marker / Caveat / Kalam).
+2. Fix any AI misspellings by overlaying the correct text in matching red.
+3. No "Benefit Blind Spots" badge, no PBS logo overlay. The image stands on its own.
+4. Export as PNG at 1080 x 1350.
 
 ---
 
