@@ -767,17 +767,17 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Post Copy
 
 ```
-Five admin fee line items on your monthly PBM invoice. Five descriptions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin.
+Your PBM wrote the words on your invoice. Then they wrote what the words mean. Then they sent you the bill.
 
-I review hundreds of PBM contracts a year at PBS. The same five line items show up under different labels on nearly every contract. The labels change. The underlying revenue does not.
+Five admin fee line items show up on nearly every monthly PBM invoice I read, and I read hundreds of PBM contracts a year at PBS. They look like a services menu: administrative fee, claims processing fee, network access fee, manufacturer admin fee, data fee.
 
-Administrative fee. Claims processing fee. Network access fee. Manufacturer admin fee. Data fee.
+They are not a services menu. They are five revenue streams, worded so you read them as the cost of doing business instead of margin pulled out of your plan.
 
-Each one is a place the PBM sits between you and a vendor, a member, or a manufacturer — and bills you for the privilege.
+One I see constantly: "free implementation," then the implementation cost quietly amortized into the first twelve months of admin fees. The plan paid for it in full. It just paid in installments, under a friendlier label.
 
-The decoder is in the image. Match each PBM definition against what your contract should require it to mean. Where they diverge, that is the audit conversation worth having before your next renewal.
+The decoder is in the image. Each term, and what your contract should force it to mean. Anywhere the two diverge is a line item to raise before renewal, not after it.
 
-Save this for your next PBM meeting. Forward to your broker.
+If these five are on your invoice, you are already paying them. The only open question is whether anyone on your side has read what they actually are.
 
 #PBMContracts #SelfFundedEmployers #PharmacyBenefits
 ```
