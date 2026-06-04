@@ -799,28 +799,35 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 **Setting:** Photorealistic monthly PBM invoice (a billing statement with line items and a dollar column) on a desk, with red-pen annotations circling five fee line items. Invoice medium, NOT a contract page, so it stays visually distinct from Tuesday's Library 03 contract carousel.
 
+**Mobile-feed legibility (the fix for the past decoder problem):** Past contract decoders underperformed because the type was too small to read in the LinkedIn mobile feed. The prompt below is built to mitigate that: minimal realistic fine print, five items only with generous spacing, labels and translations sized to DOMINATE the frame, and high red-on-cream contrast. **Hard rule: the title and the five fee labels must be readable at thumbnail size (image shrunk to ~400px wide); the translations must be readable on tap-to-expand.** If the AI render puts any of that at small, thin, or low-contrast type, fix it in the Canva pass below rather than shipping it.
+
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed monthly pharmacy-benefit invoice rests on a dark mahogany desk. The invoice reads clearly as a billing statement: a header block at top, an account/period line, and a table of fee line items down the page with right-aligned dollar amounts in a column and a subtotal row near the bottom. A red uncapped ballpoint pen lies diagonally across the lower-right corner. Five line items in the fee table have been circled in red pen, each with a hand-drawn red arrow pointing to a hand-written red-pen annotation in the right margin. No logos, no brand marks, no people, no real company names, no text outside the invoice.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed monthly pharmacy-benefit invoice rests on a dark mahogany desk. CRITICAL: this image is read in the LinkedIn mobile feed, so the five decoded line items must DOMINATE the frame and be large and legible. Keep the invoice's realistic fine print to an absolute minimum (a small header block and one short account/period line only) so it never competes with the decoded content. No dense paragraphs anywhere.
 >
-> Stamped across the top of the invoice, in larger red-pen handwriting, double-underlined: 5 Admin Fee Terms Decoded
+> Layout: the top ~15% holds the stamped title; the middle ~70% holds five large fee line-item rows, generously spaced; the bottom ~15% holds the red callout box.
 >
-> Five circled line items in the fee table (each a fee label with an illustrative dollar amount in the right column), each with a red-pen arrow leading to a hand-written translation in the margin:
+> A red uncapped ballpoint pen lies diagonally across the lower-right corner. Each of the five fee labels is printed LARGE and bold, one per row, big enough to read when the image is shrunk to phone-feed size. Each label is circled in red pen with a red arrow to a LARGE, high-contrast, bright-red handwritten translation beside it, in clear well-spaced block handwriting, never thin or cramped. No logos, no brand marks, no people, no real company names, no text outside the invoice.
 >
-> "Administrative fee" → The visible part of PBM revenue. The rest sits elsewhere.
-> "Claims processing fee" → Scales with utilization. More fills = more PBM revenue.
+> Stamped across the top in large red-pen handwriting, double-underlined: 5 Admin Fee Terms Decoded
+>
+> Five large line items, each a bold fee label (with a small illustrative dollar amount to its right) and a big red translation:
+>
+> "Administrative fee" → The visible slice of PBM revenue. The rest sits elsewhere.
+> "Claims processing fee" → Scales with use. More fills, more PBM revenue.
 > "Network access fee" → Often duplicative of the admin fee.
-> "Manufacturer admin fee" → PBM revenue from drug companies. Usually retained in full.
-> "Data fee" → Your plan's data, monetized. Ask who keeps the revenue.
+> "Manufacturer admin fee" → PBM revenue from drug makers. Usually kept in full.
+> "Data fee" → Your plan's data, monetized. Who keeps the revenue?
 >
-> At the bottom of the invoice, inside a hand-drawn red rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+> At the bottom, inside a bold hand-drawn red rectangle in large legible red text: Your PBM wrote these definitions. Your contract should redefine them.
 >
-> Style: realistic paper texture with a faint coffee-ring stain in one corner for authenticity, soft natural daylight, no harsh shadows. The page reads as an itemized billing statement (line-item rows, right-aligned dollar amounts, a subtotal), not a contract or prose page. Slightly imperfect handwriting (uneven line spacing, minor pen smudges). Colors: off-white statement paper with black printed type, bright red ballpoint ink for annotations and circles, dark mahogany desk. Dollar amounts are illustrative placeholders only, not real figures.
+> Style: off-white statement paper with subtle texture and a faint coffee-ring stain in one corner, soft natural daylight, no harsh shadows. Reads as a short itemized invoice, not a contract or prose page. Bright red ballpoint ink with strong contrast against the pale paper. Dark mahogany desk. Dollar amounts are illustrative placeholders only, not real figures.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching red ink color.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export as PNG at 1080 x 1350.
+1. **Mobile-legibility pass first.** Preview the render at ~400px wide (or on a phone). If any fee label or translation is hard to read at that size, overlay it in a LARGE bold handwritten font (Permanent Marker, Caveat, Kalam) in matching bright red, sized up until it is clearly legible at feed size. The title and the five labels are the priority, never ship them small.
+2. If the AI misspells any term or translation, overlay the correct text in the same handwritten red.
+3. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+4. Export as PNG at 1080 x 1350.
 
 ---
 
