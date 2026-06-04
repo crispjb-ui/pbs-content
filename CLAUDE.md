@@ -409,13 +409,11 @@ Four proven structural shapes with measured floors, plus one reference-asset pat
 - Library 01 — W16 (Apr 21, 2026) ✓ shipped
 - Library 02 — W21 (May 26, 2026) — Five Clauses the Best Brokers Check First (Broker pillar)
 - Library 03 — W23 (Jun 9, 2026) — Audit Rights (PBM Contract Insights pillar)
-- Library 04 — W25 (Jun 23, 2026)
-- Library 05 — W27 (Jul 7, 2026)
-- Library 06 — W29 (Jul 21, 2026)
-- Library 07 — W31 (Aug 4, 2026)
-- Library 08 — W33 (Aug 18, 2026)
-- Library 09 — W35 (Sep 1, 2026)
-- Library 10 — W37 (Sep 15, 2026)
+- Library 04 — W27 (Jul 7, 2026) — Five Reporting Clauses That Let You Actually Run the PBM Review
+- Library 05 — W33 (Aug 18, 2026) — Five Clauses That Anchor Q4 Broker Conversations
+- Library 06+ — opportunistic, not pinned to a fixed 2-week grid; number consecutively from 05 as each entry is actually built
+
+**Cadence realigned to as-built (June 3, 2026):** the every-2-week aspiration drifted in production. W25, W29, W31, W35, and W37 did NOT ship Library carousels (their Tuesdays carry paused-Whiteboard drafts or other cycle visuals), so they are NOT Library weeks. The built sequence is the five above (01, 02, 03, 04, 05). Treat the cadence as opportunistic: a Tuesday becomes a Library week only when a Contract Comparison carousel is actually drafted for it, and it takes the next consecutive number. Every Library-shipping week must carry the `## Substack Contract Library Update — Library 0X Week` section (W23 / W27 / W33 now do).
 
 **Slot reassignment rule:** when a Library NN entry lands on a Tuesday whose currently-planned post is a different format (messy infographic, clean infographic, non-Library carousel), move the displaced post to `evergreen_visual_backlog.md` with full preservation (slide spec, post copy, image prompt) so it can be slotted into a future open Tuesday or Thursday. **Do not delete displaced content** — it represents drafted work that fits any future non-Library slot whose pillar/format matches. The May 8 displacement of W23 Tuesday's "The Contract Clause That Saved a Client Six Figures" Chart-on-Whiteboard Messy Infographic into backlog entry #24 is the canonical example.
 

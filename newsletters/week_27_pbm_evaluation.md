@@ -494,6 +494,27 @@ Use the canonical "Contract Language Library" prompt from `newsletters/week_17_c
 - Badge (top-right): "CONTRACT LIBRARY"
 - Plex Mono subtitle (22pt, white, tabular figures): `Library · Updated July 2026`
 
+---
+
+## Substack Contract Library Update — Library 04 Week
+
+Library 04 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
+
+**Publishing prompt:**
+
+> Open the live Substack post at `benefitblindspots.substack.com/p/pbm-contract-language-library` in edit mode. Copy everything between the `▼ BEGIN PASTE ▼` and `▲ END PASTE ▲` markers in `substack_contract_language_library.md` and paste over the existing post body. Publish.
+
+After publishing, tell Claude the push is done so the Update Log in `substack_contract_language_library.md` gets moved from `_Pending: next push_` to a dated row.
+
+**Provisions Library 04 should have added or amended before this push** (confirm Claude has merged these into the article body; if not, ask Claude "update the contract library for Library 04"). The Library 04 carousel is "Five Reporting Clauses That Let You Actually Run the PBM Review":
+- Reporting data-access clause: what claims, pricing, and rebate data the PBM must deliver, in what format, on what cadence
+- Guarantee calculation methodology clause: how GER, rebate, and admin guarantees are computed and reconciled
+- Benchmarking rights clause: the plan's right to benchmark pricing against market
+- Specialty-routing disclosure clause: PBM must disclose affiliated-pharmacy routing
+- Inadequate-report remedy clause: the plan's leverage if reports are incomplete or late
+
+---
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 97 - Tuesday 10:00 AM

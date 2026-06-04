@@ -375,6 +375,27 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 09 · Rolling out a formulary change`
 
+---
+
+## Substack Contract Library Update — Library 05 Week
+
+Library 05 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
+
+**Publishing prompt:**
+
+> Open the live Substack post at `benefitblindspots.substack.com/p/pbm-contract-language-library` in edit mode. Copy everything between the `▼ BEGIN PASTE ▼` and `▲ END PASTE ▲` markers in `substack_contract_language_library.md` and paste over the existing post body. Publish.
+
+After publishing, tell Claude the push is done so the Update Log in `substack_contract_language_library.md` gets moved from `_Pending: next push_` to a dated row.
+
+**Provisions Library 05 should have added or amended before this push** (confirm Claude has merged these into the article body; if not, ask Claude "update the contract library for Library 05"). The Library 05 carousel is "Five Clauses That Anchor Q4 Broker Conversations":
+- Biosimilar tier-placement clause: formulary positioning of biosimilars vs. the reference brand
+- Stop-loss cooperation / data-sharing clause: PBM coordination and data-sharing with the stop-loss carrier
+- Termination and PBM-evaluation timing clause: notice windows that keep the evaluation calendar open
+- Fiduciary reporting clause: the documentation the plan needs for its fiduciary file
+- Audit rights / independent data access clause: the broker's standing to pull claims data independently (see the Library 03 Audit Rights provisions)
+
+---
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 121 - Tuesday 10:00 AM
