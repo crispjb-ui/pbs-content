@@ -547,7 +547,7 @@ Credit to Matthew Zirwas, MD (@mattzirwas) for the analogy. I just recognize eve
 #### First Comment
 
 ```
-If the rebate trick is the part that stopped you, here's the pharmacy version in plain English: how to read your PBM's rebate report and find the dollars that never reach your plan. [SUBSTACK: Reading the Rebate Report URL]
+If the rebate trick is the part that stopped you, that is one of four mechanisms in Zirwas's analogy, and all four show up as ordinary-looking clauses in your own contract, not a clever story. The protective language for each one (how "rebate" gets defined, the step-therapy and prior-auth triggers, the pharmacy-ownership conflict) lives in our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
 #### Visual — "Same Structure. Two Markets." decoder card (single image, 1080x1350)
@@ -752,7 +752,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 ### Thursday Evergreen Rotation (Slot A) - 5 Admin Fee Terms Decoded
 
 - **Slot:** A
-- **Format:** Messy Infographic (photorealistic contract-page-with-red-pen aesthetic per the W18 Channel Pricing secret-sauce thesis)
+- **Format:** Messy Infographic (photorealistic **annotated PBM invoice** aesthetic per the W18 Channel Pricing secret-sauce thesis). Invoice deliberately chosen over a contract-page-with-red-pen treatment so Thursday does NOT collide visually with Tuesday's Library 03 contract-comparison carousel. The invoice also matches the hook one-to-one ("five line items on your monthly PBM invoice").
 - **Pillar:** PBM Contract Insights
 - **Topic:** 5 Admin Fee Terms Decoded
 - **Hook:** "Five admin fee line items on your monthly PBM invoice. Five definitions the PBM wrote. Five revenue streams plan sponsors usually do not audit because the words sound like services, not margin."
@@ -797,15 +797,15 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** Printed contract page with red pen annotations and circled phrases.
+**Setting:** Photorealistic monthly PBM invoice (a billing statement with line items and a dollar column) on a desk, with red-pen annotations circling five fee line items. Invoice medium, NOT a contract page, so it stays visually distinct from Tuesday's Library 03 contract carousel.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed contract page, Times-Roman body text, rests on a dark mahogany desk. A red uncapped ballpoint pen lies diagonally across the lower-right corner. Across the printed page, five specific phrases have been circled in red pen, with hand-drawn red arrows pointing to hand-written red-pen annotations in the margins and between paragraphs. No logos, no brand marks, no people, no text outside the page.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed monthly pharmacy-benefit invoice rests on a dark mahogany desk. The invoice reads clearly as a billing statement: a header block at top, an account/period line, and a table of fee line items down the page with right-aligned dollar amounts in a column and a subtotal row near the bottom. A red uncapped ballpoint pen lies diagonally across the lower-right corner. Five line items in the fee table have been circled in red pen, each with a hand-drawn red arrow pointing to a hand-written red-pen annotation in the right margin. No logos, no brand marks, no people, no real company names, no text outside the invoice.
 >
-> Stamped at the top of the page, in larger red-pen handwriting, double-underlined: 5 Admin Fee Terms Decoded
+> Stamped across the top of the invoice, in larger red-pen handwriting, double-underlined: 5 Admin Fee Terms Decoded
 >
-> Five circled terms on the page, each with a red-pen arrow leading to a hand-written translation in the margin:
+> Five circled line items in the fee table (each a fee label with an illustrative dollar amount in the right column), each with a red-pen arrow leading to a hand-written translation in the margin:
 >
 > "Administrative fee" → The visible part of PBM revenue. The rest sits elsewhere.
 > "Claims processing fee" → Scales with utilization. More fills = more PBM revenue.
@@ -813,9 +813,9 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 > "Manufacturer admin fee" → PBM revenue from drug companies. Usually retained in full.
 > "Data fee" → Your plan's data, monetized. Ask who keeps the revenue.
 >
-> At the bottom of the page, inside a hand-drawn red rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+> At the bottom of the invoice, inside a hand-drawn red rectangle: Your PBM wrote these definitions. Your contract should redefine them.
 >
-> Style: realistic paper texture with slight coffee-ring stain in one corner for authenticity, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, minor pen smudges). Colors: off-white printed page with black body type, bright red ballpoint ink for annotations and circles, dark mahogany desk.
+> Style: realistic paper texture with a faint coffee-ring stain in one corner for authenticity, soft natural daylight, no harsh shadows. The page reads as an itemized billing statement (line-item rows, right-aligned dollar amounts, a subtotal), not a contract or prose page. Slightly imperfect handwriting (uneven line spacing, minor pen smudges). Colors: off-white statement paper with black printed type, bright red ballpoint ink for annotations and circles, dark mahogany desk. Dollar amounts are illustrative placeholders only, not real figures.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
 1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching red ink color.
