@@ -1,5 +1,5 @@
 ---
-description: Surface today's LinkedIn + X first comments that must be posted manually after each post publishes
+description: Surface today's LinkedIn + X first comments AND company reshares that must be posted manually after each post publishes
 allowed-tools: Bash, Read, Grep, Glob
 ---
 
@@ -32,11 +32,17 @@ timeline) and `Jun 10` (loose match). Also note whether today is Mon/Wed/Thu (Su
      comment unless the file specifies one; check.
    - **X posts dated today** — from PART 4B, the `**<Day Date>**` block. List every slot (AM / midday /
      PM) that has a `First reply (link):` line. Text-only posts with no link need NO first comment; skip them.
+   - **Company reshares dated today** — grep the week file for reshare section headers carrying today's
+     weekday: `## Post NN Company Reshare - {today's weekday} 1:30 PM` (reshares are usually Tue and Thu).
+     The section header is the reliable source; some week files do not list reshares as separate timeline
+     rows, so match on the header weekday, not the timeline. If a reshare section header exists but its
+     `#### Reshare Copy` is empty, FLAG it as missing (do not invent copy).
 
 ## Step 3 — Pull the paste-ready copy
 
 - For each LinkedIn post today: open `## Post NN` in PART 3 and lift its `#### First Comment` block verbatim.
 - For each X slot today: lift the `First reply (link):` text verbatim from PART 4B.
+- For each company reshare today: open `## Post NN Company Reshare` and lift its `#### Reshare Copy` block verbatim. If the section is missing or empty, flag it rather than inventing copy.
 
 ## Step 4 — Flag URLs that must be filled first
 
@@ -54,8 +60,8 @@ Lead with a one-line summary. Then a **time-ordered checklist**, each item paste
 
 Format:
 
-> **First comments to post by hand today — {Weekday}, {Date}**
-> {N} LinkedIn + {M} X. {one line on any live-URL you need to grab first, or "no Substack URL needed today."}
+> **Manual posts to do by hand today — {Weekday}, {Date}**
+> {N} LinkedIn first comments + {M} X first replies + {R} company reshares. {one line on any live-URL you need to grab first, or "no Substack URL needed today."}
 >
 > For each item, in time order:
 >
@@ -73,4 +79,5 @@ in one line: **"No first comments needed today."** Do not pad.
 - This runs as a scheduled morning session (7:30 AM ET; Substack pieces publish at 7:30, an hour before
   the 8:30 LinkedIn posts). The reader is Ginny, mid-coffee, about to publish. Be a checklist, not an essay.
 - Order matters: X first replies are the most time-sensitive (seconds after posting); call that out.
+- Company reshares are the 1:30 PM items, the least time-sensitive; list them last in the time-ordered checklist.
 - Never post anything yourself. You surface; Ginny pastes.

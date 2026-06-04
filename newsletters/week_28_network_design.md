@@ -404,11 +404,11 @@ The Medicare gauntlet is one program's version of utilization management. What g
 #### Reshare Copy
 
 ```
-Four drug categories are driving 2026 specialty spend: GLP-1 indication expansion, anti-amyloid Alzheimer's infusions, gene therapies, and autoimmune biosimilars. Each needs a different intervention. None of them work as a reaction.
+Medicare just published the prior-authorization form for its new GLP-1 "Bridge." The access architecture is the story: a denied claim required first, a 12-question clinical gauntlet, routing built so the denial happens by design.
 
-Ginny Crisp walks through what the plan has to see coming.
+Ginny Crisp decodes the form and what self-funded employers should take from it.
 
-#ClinicalPharmacy #SelfFundedEmployers #EmployeeBenefits
+#PBMTransparency #GLP1 #PharmacyBenefits
 ```
 
 ---
