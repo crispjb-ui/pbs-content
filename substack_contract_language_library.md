@@ -146,6 +146,66 @@ What you should ask for:
 
 ---
 
+**Provision: Audit Frequency and Notice (§ 10.01)**
+
+What you might see:
+> "Plan Sponsor may audit once per contract term at PBM's reasonable convenience."
+
+What it actually means: "Once per term" plus "reasonable convenience" lets the PBM defer the audit indefinitely. You hold a right you can never actually schedule.
+
+What you should ask for:
+> "Plan Sponsor or its designee may audit not more than twice per contract year, on 30 days written notice, at times reasonably scheduled to avoid PBM operational disruption."
+
+---
+
+**Provision: Audit Scope (§ 10.02)**
+
+What you might see:
+> "PBM shall make customary records available."
+
+What it actually means: "Customary records" is the PBM's call. It can withhold the pricing, rebate, and manufacturer-payment detail the audit exists to test.
+
+What you should ask for:
+> "PBM shall make available all records relating to Plan Sponsor's claims, pricing, rebates, manufacturer payments, formulary management, prior authorization decisions, and clinical program performance, in the format reasonably requested by auditor."
+
+---
+
+**Provision: Auditor Identity (§ 10.03)**
+
+What you might see:
+> "Audit shall be conducted by an auditor mutually agreed upon by both parties."
+
+What it actually means: "Mutually agreed" gives the PBM a veto over who audits it, often steering you toward a PBM-friendly firm. Independence quietly disappears.
+
+What you should ask for:
+> "Plan Sponsor shall designate the auditor in its sole discretion. PBM may not require the use of a PBM-affiliated auditor or veto the auditor's independence."
+
+---
+
+**Provision: Findings Binding (§ 10.04)**
+
+What you might see:
+> "Audit findings are advisory and informational."
+
+What it actually means: Advisory findings are not findings. The PBM can acknowledge an error and still decline to fix it, so no leverage attaches to what the audit uncovers.
+
+What you should ask for:
+> "Audit findings are binding on PBM unless contested in writing within 30 days of delivery, with documented objection. Uncontested findings shall be remediated within 60 days of delivery."
+
+---
+
+**Provision: Cost Responsibility and Materiality Threshold (§ 10.05)**
+
+What you might see:
+> "Audits shall be conducted at Plan Sponsor's sole expense."
+
+What it actually means: When the plan always pays for the audit, the PBM bears no cost for being wrong, so there is no deterrent to errors that happen to favor the PBM.
+
+What you should ask for:
+> "Plan Sponsor pays audit cost if findings are below 1% of audited payment value. PBM pays audit cost, including Plan Sponsor's reasonable auditor fees, if findings equal or exceed a 1% materiality threshold."
+
+---
+
 ### Clinical Program Provisions
 
 **Provision: Prior Authorization**
@@ -281,7 +341,7 @@ Additional provision-specific deep dives publish throughout the year. The formul
 |-------------------------|------------------|--------------------|--------|
 | April 2026 (initial publish) | Full initial library (Pricing, Rebate, Audit, Clinical, Termination, Specialty) | — | Week 17 launch |
 | May 21, 2026 | Definition of Generic Drug; Spread Pricing / Claim Pricing | Termination Notice expanded to "Termination Notice and Termination for Convenience" | Week 16 Library 01 |
-| _Pending: next push_ | Biosimilar Provisions section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance) | — | W22 Biosimilar deep dive atomization |
+| _Pending: next push_ | Biosimilar Provisions section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance); five Library 03 Audit Rights clauses (Audit Frequency and Notice, Audit Scope, Auditor Identity, Findings Binding, Cost Responsibility and Materiality Threshold) | — | W22 Biosimilar atomization; W23 Library 03 Audit Rights |
 
 When Ginny confirms a Substack push is done, move the `_Pending: next push_` row to a dated row and open a fresh `_Pending: next push_` row for the next round of provisions.
 
@@ -294,7 +354,7 @@ These notes track which provisions are expected to be added/expanded as each Lib
 - **ALREADY MERGED INTO THE BODY, PENDING NEXT PUSH (added May 30, 2026, NOT yet pasted to Substack):** the **Biosimilar Provisions** section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance), from the W22 deep dive atomization, plus a Biosimilar bullet in "Further Reading." These are live in the article body between the `▼ BEGIN PASTE ▼` / `▲ END PASTE ▲` markers right now, so the **next whole-article paste (whenever it happens, e.g., the Library 02 / 03 push) carries them automatically.** No separate action needed; just don't be surprised to see biosimilar language in the body before a biosimilar-specific Library carousel ships. The Update Log `_Pending: next push_` row also records this.
 
 - **Library 02 (W21, May 26, 2026):** Rebate pass-through definition breadth (expand existing "Rebate Passthrough"), AWP discount base specificity (expand "Brand Discount Guarantee" with AWP-source naming), Guarantee Reconciliation (new provision in Pricing Guarantees), Termination data-transfer specificity (expand existing "Data Transfer"), Audit rights scope (expand existing "Audit Access" with twice-per-year and binding-findings clauses)
-- **Library 03 (W23, Jun 9, 2026):** Five Audit Rights clauses (frequency, scope, auditor identity, findings binding, cost responsibility / materiality threshold) — expands existing Audit Rights section
+- **Library 03 (W23, Jun 9, 2026):** Five Audit Rights clauses (frequency, scope, auditor identity, findings binding, cost responsibility / materiality threshold) — expands existing Audit Rights section. **✅ MERGED INTO BODY (Jun 3, 2026), pending next push** (added as §10.01-§10.05 provisions matching the Library 03 carousel redlines).
 - **Library 04 (W25, Jun 23, 2026):** Renewal and Amendment provisions (new subsection or expand Termination and Transition)
 - **Library 05 (W27, Jul 7, 2026):** PBM Compensation Disclosure provisions (NEW SECTION in Substack post)
 - **Library 06 (W29, Jul 21, 2026):** Rebate Definitions and Gross-to-Net provisions (expand existing Rebate Provisions section)
