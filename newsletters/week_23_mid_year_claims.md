@@ -767,7 +767,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Post Copy
 
 ```
-Your PBM wrote the words on your invoice. Then they wrote what the words mean. Then they sent you the bill.
+Your PBM names the fees on your invoice, writes what each one means, and sends you the bill. Most plan sponsors pay the total without translating a single line.
 
 Five admin fee line items show up on nearly every monthly PBM invoice I read, and I read hundreds of PBM contracts a year at PBS. They look like a services menu: administrative fee, claims processing fee, network access fee, manufacturer admin fee, data fee.
 
