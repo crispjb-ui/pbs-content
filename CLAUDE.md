@@ -544,6 +544,8 @@ Template #2 (Seven-slide master) is **retired from active rotation**. It remains
 
 Retired from active rotation until re-proven: Annotated Email, Spreadsheet with Marker, Prescription Pad. Keep in the design catalog, bring back if a specific topic calls for them.
 
+**Mobile-feed legibility rule (added June 3, 2026, mandatory for all messy-infographics and decoders):** The recurring failure mode for decoders is type too small to read in the LinkedIn mobile feed, the documented cause of past contract-decoder underperformance. Every messy-infographic / decoder prompt must: keep realistic fine print minimal so the decoded payload dominates the center ~70% of the frame; cap at five generously-spaced items; make the title and primary labels readable at thumbnail size (~400px wide, the in-feed pre-tap state) with translations readable on tap; use high contrast and large bold annotations; and pass a mandatory Canva legibility check (preview at ~400px or on a phone, enlarge anything hard to read) before export. Highest-risk formats are the photoreal documents dense with small text (Marked-Up Contract Page, Annotated Email, Spreadsheet with Marker, Ledger Annotated, annotated invoice); apply it most aggressively there. Full operational detail in `claude_design_prompts.md` → "Mobile-feed legibility (mandatory for every prompt)."
+
 **Clean infographic rotation (4 templates):**
 
 Rotate through Iceberg → Funnel → Mountain → Bridge in order across clean-infographic slots. These four cover the most common argument shapes (hidden cost, flow, climb, weak-to-strong). Stopwatch, Door, Tree, Maze are saved for topic-specific weeks where the metaphor is obvious.
