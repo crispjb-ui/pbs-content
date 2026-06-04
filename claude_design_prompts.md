@@ -23,6 +23,21 @@ Every prompt assumes these are loaded:
 
 ---
 
+## Mobile-feed legibility (mandatory for every prompt)
+
+The single most common failure mode for PBS decoders and messy-infographics: the type renders too small to read in the LinkedIn mobile feed, which kills reach and saves (the documented cause of past contract-decoder underperformance). Every prompt in this file, and every one-off, must design for the phone-feed read. Non-negotiables:
+
+- **Payload dominates the frame.** The decoded content (the terms, the numbers, the translations) fills the center ~70% of the image. Realistic "texture" (invoice fine print, contract body copy, email headers) is kept to the absolute minimum needed to sell the surface, never enough to compete with the payload.
+- **Five items max, generously spaced.** More than five rows forces small type. If a concept needs more, split it or cut it.
+- **Two-tier read.** The title and the primary labels (the 5 terms, the headline number) must be readable at THUMBNAIL size (image shrunk to ~400px wide, the in-feed state before tap). Secondary detail (translations, sub-notes) must be readable on tap-to-expand. Design both tiers deliberately.
+- **High contrast.** Bright red on cream, Primary Blue on white, white on Primary Blue. Avoid thin, gray-on-gray, pencil, or low-contrast handwriting for anything that carries meaning.
+- **Large, bold annotations.** When using handwritten overlays (Caveat / Permanent Marker / Kalam), size them up. Thin or cramped marker text is the classic legibility killer.
+- **Canva legibility pass is mandatory before export.** Preview at ~400px wide (or on a phone). If any meaning-carrying text is hard to read at that size, enlarge or overlay it before shipping. AI renders are unreliable on text size; this pass is the safety net, not optional.
+
+**Highest-risk formats** (photoreal documents dense with small text): Marked-Up Contract Page (#16), Annotated Email (#17), Spreadsheet with Marker (#18), Ledger Annotated (#19), and any annotated-invoice variant. Apply this rule most aggressively there.
+
+---
+
 ## Format catalog
 
 Twenty templates. Five base formats, eight metaphor infographics, seven hybrid messy formats.
