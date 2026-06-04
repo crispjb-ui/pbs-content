@@ -216,44 +216,27 @@ The five admin fee terms in this morning's carousel are the vocabulary. The audi
 ### Field Note Header Image Prompt
 
 **Dimensions:** 1200 x 600 px final (generate at 2240 x 1260 for detail)
-**Template:** Data Highlight — photoreal aesthetic per W18 Channel Pricing reference (secret-sauce format)
-**Background:** Light gray-tan desk surface (matches the W19 paper-card carousel aesthetic)
-**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text
+**Template:** Data Highlight — **flat digital graphic** (the standard Thursday field-note header style, matching the W23 Monday header and the other field notes). NOT photoreal. The photoreal marked-up-invoice aesthetic belongs to the Thursday LinkedIn feed post (Post 83), not the field-note header.
+**Background:** White (#FFFFFF), generous negative space. Leave the top-left and bottom-right corners clear: the "BENEFIT BLIND SPOTS" title + dot-matrix (top-left) and the PBS logo (bottom-right) are added in Canva.
+**Badge:** "FIELD NOTE" top-right, Accent Blue (#A7E0FA) pill with Primary Blue (#015880) Plex Sans SemiBold text.
 
 **Prompt:**
 
-A photorealistic top-down photograph at 2240 x 1260 pixels of a single PBM monthly invoice page lying centered on a clean light gray-tan desk surface, slight perspective angle, the invoice tilted approximately 4 degrees clockwise. The invoice is off-white printer-paper with subtle texture, edges slightly curled. Soft natural daylight from upper-left, gentle shadow lower-right.
+A clean flat-design digital graphic at 2240 x 1260 pixels on a solid white (#FFFFFF) background with generous negative space, flat corporate infographic style. Centered slightly above the middle, a flat line-art monthly PBM invoice rendered as a simple rounded-rectangle statement card with a Primary Blue (#015880) outline, containing five short fee line-item rows, each a thin Primary Blue rule with a small "$" block at the right edge. A flat magnifying-glass icon in Accent Blue (#A7E0FA), tilted about 15 degrees, hovers over the card and centers on the middle line item, which is highlighted with an Accent Blue fill bar (the audit "find," the implied-motion cue). To the right of three rows, small flat Accent Blue audit markers signal the three audit outcomes: one checkmark, one question mark, one flag. A row of five small Accent Blue tick marks runs along the bottom edge of the card as a repeating geometric detail.
 
-The invoice has a printed letterhead at the top reading "PHARMACY BENEFIT SERVICES INVOICE" in clean serif font, with a date line below in smaller monospace ("Period: 04.01.2026 — 04.30.2026"). Below the letterhead, a column of seven line items, each rendered in monospace font, format: "[Fee description] ........ $[amount]." The line items, top to bottom:
+Below the card, a two-tone centered headline in Plex Sans SemiBold: "Decoded the Admin Fees" in Primary Blue (#015880), with "Now Audit Them" in Accent Blue (#A7E0FA) on the line immediately below. Under the headline, one thin Gray (#4D4D4D) Plex Sans Regular subtitle line: "Match every fee line item to the contract clause that authorizes it."
 
-1. Claims Adjudication ........ $X,XXX
-2. Account Management ........ $X,XXX
-3. Client Services ........ $X,XXX
-4. Operational Support ........ $X,XXX
-5. Data Licensing ........ $X,XXX
-6. Administrative Reimbursement ........ $X,XXX
-7. Implementation Recovery ........ $X,XXX
+In the upper-right, the FIELD NOTE pill badge: Accent Blue (#A7E0FA) filled rounded rectangle with white "FIELD NOTE" text in Plex Sans SemiBold, +6% letter tracking.
 
-Each fee has a hand-drawn red marker annotation in the right margin, slightly imperfect Caveat-style handwriting:
-- Line 1: a small green checkmark
-- Lines 2, 3, 4: a single red bracket grouping all three with a handwritten note "= one service?"
-- Line 5: a red question mark with handwritten "pass-through?"
-- Line 6: a red circle around the line item with handwritten "rebate or fee?"
-- Line 7: a red strikethrough with handwritten "amortized impl?"
-
-Below the invoice on the desk surface, a hand-printed marker note in red and dark sepia: "Decoded the admin fees. Now audit them." The "Now audit them." is underlined twice.
-
-In the upper-right of the canvas (off the invoice, on the desk surface), the FIELD NOTE pill badge: Accent Blue (#A7E0FA) filled rounded rectangle, white "FIELD NOTE" text in Plex Sans SemiBold 28pt with +6% letter tracking, no other text or logo. The badge is the only computer-typography element in the image; everything else is photoreal physical objects with handwritten annotations.
-
-Style: photorealistic product photography, warm natural daylight, no other objects on the desk, no logos other than the FIELD NOTE badge, no charts, no icons. Color palette: light gray-tan desk surface, off-white invoice paper with subtle texture, black printed text on the invoice, dark sepia and red marker annotations, Accent Blue (#A7E0FA) badge.
+No photographs, no realistic textures, no desk, no handwriting, no logos (the logo and title are added in Canva). Color palette: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
 
 **Post-Generation Steps:**
-1. Generate the base image using the prompt above (use the W19 5 Formulary Questions cover slide as a style reference if attaching reference images is supported)
-2. Open in Canva and resize to 1200 x 600 px
-3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left, on the desk surface area not overlapping the invoice
-4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
-5. Add PBS logo (color version) - bottom right, 80-100px width
-6. Export as PNG
+1. Generate the base image using the prompt above (use the W23 Monday header or the "Find the Aggregator" field-note header as a style reference if attaching reference images is supported).
+2. Open in Canva and resize to 1200 x 600 px.
+3. Add the "BENEFIT BLIND SPOTS" title + "What your pharmacy benefits aren't showing you" tagline and the dot-matrix, top-left (the standard field-note masthead).
+4. Verify the "FIELD NOTE" badge reads cleanly at thumbnail size.
+5. Add the PBS logo (color version), bottom-right, 80-100px width.
+6. Export as PNG.
 
 ---
 
