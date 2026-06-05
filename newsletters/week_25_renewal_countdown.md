@@ -385,6 +385,21 @@ Week-by-week renewal preparation timeline on Substack.
 #PBMRenewal #PBMContracts #SelfFundedEmployers
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Your PBM has been preparing for renewal for months. The 90-day window is where you catch up or fall behind.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's RFP Scoring Methodology Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/rfp-scoring-audit
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/rfp-scoring-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #5: Preparing for a PBM RFP

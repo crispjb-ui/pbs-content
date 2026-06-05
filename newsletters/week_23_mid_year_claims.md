@@ -379,6 +379,21 @@ Mid-year claims red flag checklist on Substack.
 #PBMRenewal #SelfFundedEmployers #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Your H1 claims data is already telling you what your renewal will look like. Most plans have not read it yet.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Mid-Year Claims Red Flag Checklist is the companion to run on your own plan: rxbs.org/toolkit/midyear-claims-red-flag
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/midyear-claims-red-flag`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## "What I'd Ask" #4: Investigating a Mid-Year Claims Anomaly

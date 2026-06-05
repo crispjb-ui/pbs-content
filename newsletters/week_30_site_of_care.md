@@ -362,6 +362,21 @@ Site-of-care decision tree on Substack.
 #SiteOfCare #SelfFundedEmployers #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+The same infusion can cost multiples more in a hospital outpatient setting than at home, and nobody owns the total cost across both benefits.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Coordination of Benefits (COB) Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/cob-audit
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/cob-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 ---
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
