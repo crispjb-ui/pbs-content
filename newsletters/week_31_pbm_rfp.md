@@ -488,7 +488,7 @@ PBM RFP responses are engineered to win evaluations. Every response team knows e
 
 Standard RFP questions allow good-sounding answers that commit to nothing specific.
 
-"What is your discount off AWP?" Every PBM quotes a competitive number. But which AWP source? Applied to ingredient cost or total claim cost? With what exclusions? The headline number means nothing without the methodology behind it.
+"What is your discount off AWP?" Every PBM quotes a competitive number. But AWP, the "average wholesale price" that discount is measured against, is neither an average nor a price anyone wholesales at. It is a list figure drug publishers set, so widely gamed that the industry's own nickname for it is "ain't what's paid," and the largest publisher settled litigation and moved to stop calculating it years ago. Your headline discount is anchored to a benchmark nobody actually pays. Which AWP source, applied to ingredient cost or total claim cost, with what exclusions? The number means nothing without the methodology behind it.
 
 "Do you offer clinical management programs?" Every PBM says yes. But can you audit the savings methodology? Can you verify a single dollar of claimed savings independently? Are the programs producing clinical value or administrative friction?
 
