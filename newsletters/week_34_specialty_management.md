@@ -365,7 +365,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 #### Post Copy
 
 ```
-Not every clinical program earns its cost. We see the same pattern across audits.
+Your PBM grades its own clinical programs and reports the savings it wants you to see. In the plans we audit, about half of those programs genuinely earn their cost. The other half cannot prove they did. Telling them apart is the whole game.
 
 Programs that consistently earn their cost:
 

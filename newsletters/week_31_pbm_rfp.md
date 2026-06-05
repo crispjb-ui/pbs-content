@@ -406,7 +406,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 #### Post Copy
 
 ```
-The cost containment levers that work are not new. The reason most plans underuse them is timing.
+Three cost containment levers can save your plan real money this year. You will likely miss all three, not because they are hard, but because each one has a window that closes on its own clock and the PBM has no incentive to tell you it is closing.
 
 Lever 1: Biosimilar coverage repositioning. When a Humira, Stelara, or Enbrel biosimilar launches, the PBM's default tier placement runs at non-preferred for six to nine months. Plans that wait for the PBM to re-tier pay the spread for that entire window. Plans that pre-position with their broker capture savings from the launch month.
 

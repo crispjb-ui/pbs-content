@@ -377,7 +377,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 #### Post Copy
 
 ```
-Q4 is the decision window for self-funded plans. The renewal process formally starts in Q1 for most plans. The decisions that determine renewal leverage have to land before then.
+Your renewal does not start in Q1. It starts now, with five decisions that quietly settle your leverage before the PBM ever sends a proposal. Make none of them on purpose and they default the PBM's way while everyone waits for renewal season.
 
 Five we walk our self-funded clients through:
 
