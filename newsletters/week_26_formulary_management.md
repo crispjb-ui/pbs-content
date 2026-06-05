@@ -398,6 +398,21 @@ Formulary decision audit on Substack.
 #Formulary #PBMTransparency #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Your formulary was built around your PBM's rebate strategy, not your members' health. Here is how to tell whose interests it serves.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Step Therapy Override Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/step-therapy-override
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/step-therapy-override`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 10:00 AM

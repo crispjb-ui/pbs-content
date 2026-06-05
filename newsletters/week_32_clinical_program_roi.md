@@ -361,6 +361,21 @@ Clinical program evaluation scorecard on Substack.
 #ClinicalPharmacy #PBMTransparency #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Your PBM grades its own clinical programs and reports the savings it wants you to see. Half of them cannot prove they earned their cost.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Fiduciary Compliance Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/fiduciary-compliance-audit
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/fiduciary-compliance-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 ---
 
 # PART 3: LINKEDIN FEED POSTS

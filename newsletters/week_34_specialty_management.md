@@ -349,6 +349,21 @@ Specialty drug management assessment on Substack.
 #SpecialtyPharmacy #SelfFundedEmployers #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Specialty is most of your spend on a fraction of your prescriptions, and the part of your plan with the least independent oversight.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Mid-Year Performance Guarantee Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/midyear-guarantee-audit
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/midyear-guarantee-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 ---
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)

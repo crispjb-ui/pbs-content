@@ -439,6 +439,21 @@ H1 benchmark dashboard plus renewal readiness scorecard on Substack.
 #PBMRenewal #SelfFundedEmployers #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+The first half of your plan year is on the books, and the five numbers that decide your renewal are already set.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's H1 Renewal Readiness Scorecard is the companion to run on your own plan: rxbs.org/toolkit/h1-renewal-readiness
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/h1-renewal-readiness`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
 ## Monthly Q&A Thread #3: Renewal Season Preparation

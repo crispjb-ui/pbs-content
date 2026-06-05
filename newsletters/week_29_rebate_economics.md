@@ -381,6 +381,21 @@ Rebate contract analysis framework on Substack.
 #Rebates #PBMContracts #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Your rebate report can grow while your net cost grows faster. The report shows one number; the other one is the one that matters.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Pharmacy Network Configuration Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/network-configuration-audit
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/network-configuration-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 ---
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)

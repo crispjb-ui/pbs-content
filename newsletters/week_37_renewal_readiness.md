@@ -422,6 +422,21 @@ Renewal readiness scorecard on Substack.
 #PBMRenewal #SelfFundedEmployers #PharmacyBenefits
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Renewal season starts in weeks. The plans that prepared in Q3 will negotiate different outcomes than those that did not.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Pre-Meeting Renewal Checklist is the companion to run on your own plan: rxbs.org/toolkit/pre-meeting-renewal-checklist
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/pre-meeting-renewal-checklist`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 ---
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)

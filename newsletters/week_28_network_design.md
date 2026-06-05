@@ -367,6 +367,21 @@ Network cost comparison model on Substack.
 #NetworkDesign #PharmacyBenefits #SelfFundedEmployers
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Same drug, three pharmacies, three prices, one PBM setting all of them. The channel is the cost lever most plans never pull.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's Generic Effective Rate (GER) Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/ger-audit
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/ger-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 ---
 
 # PART 3: LINKEDIN FEED POSTS

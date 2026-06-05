@@ -454,6 +454,21 @@ PBM evaluation scorecard with the 2026 vertical-integration layer on Substack.
 #PBMContracts #PBMRenewal #SelfFundedEmployers
 ```
 
+### LinkedIn Newsletter First Comment
+
+Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
+
+```
+Switching PBMs is disruptive. Staying with the wrong one is expensive. Here is how to know which cost is higher.
+
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+
+And this week's PBM Compensation Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/pbm-compensation
+```
+
+_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/pbm-compensation`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+
+
 ---
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
