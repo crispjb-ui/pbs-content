@@ -1139,6 +1139,126 @@ Specialty routing: pull a quarter of your specialty claims and sort by filling p
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
+---
+
+### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
+
+> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** and an **8:30 PM close**. W23 has no live news, so 7 PM runs **polls** (evergreen, schedulable); hold a newsjack/news-to-contract bridge (`x_evening_block_bank.md` E/F) to bump the poll if a story breaks. 8:30 PM runs an aphorism / one-question / the week's single origin-anchored note. Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside 2 weeks. Polls: set 1-day duration, put the answer in the first reply. Links in first reply only.
+
+**Mon Jun 8**
+- **+7:00 PM — poll (generic spread) [A1]:**
+```
+Does your plan know its generic spread, the gap between what the PBM pays the pharmacy and what it bills you?
+
+· We've measured it
+· We think our broker checks
+· Our PBM says there's no spread
+· What's a spread?
+```
+First reply → Most plans can't answer this. The spread rarely appears on a line in your report. Here's how to find it: rxbs.org/toolkit/pbm-compensation
+- **+8:30 PM — aphorism [C1]:**
+```
+Transparency is the word every PBM uses and the thing every PBM contract is built to prevent.
+```
+
+**Tue Jun 9**
+- **+7:00 PM — poll (audit rights) [A4]:**
+```
+Your PBM contract says you can audit it. In practice, who picks the auditor and the records?
+
+· We do
+· The PBM does
+· "Mutually agreed" (read: the PBM)
+· We've never tried to audit
+```
+First reply → If the honest answer is "the PBM," you have a guided tour, not an audit right. The five clauses that fix it: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question (audit clause) [B5]:**
+```
+Ask your PBM for the audit clause and read who picks the auditor, who picks the records, and who decides if the findings count. Three answers tell you if you have an audit right or a tour.
+```
+
+**Wed Jun 10**
+- **+7:00 PM — poll (where the money is made) [A6]:**
+```
+Where does your PBM make the most money on a single prescription?
+
+· The dispensing fee
+· The spread on the price
+· The rebate on the list price
+· All three at once
+```
+First reply → All three. Spread on the price, rebate on the list, fee for the claim. You were sold one. The contract contains all three: rxbs.org/toolkit/pbm-compensation
+- **+8:30 PM — aphorism [C2]:**
+```
+The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+```
+
+**Thu Jun 11**
+- **+7:00 PM — poll (specialty fill location) [A3]:**
+```
+Pull your specialty claims. What share filled at the PBM's OWN specialty pharmacy?
+
+· Under 25%
+· 25 to 50%
+· Over half
+· We've never pulled that
+```
+First reply → In most plans we audit, over half. No member chose that. The prior-auth rules chose it for them. That's not a network. It's a funnel.
+- **+8:30 PM — one question (list every fee) [B6]:**
+```
+Ask your PBM: "List every fee on our monthly invoice and the contract section that authorizes each one." The line items with no clause behind them are the ones to cut.
+```
+
+**Fri Jun 12**
+- **+7:00 PM — poll (mid-year posture) [A8]:**
+```
+It's mid-year. Who has a renewal model built on your H1 claims right now?
+
+· We do
+· Our broker does
+· Only the PBM does
+· What renewal model?
+```
+First reply → If only the PBM does, the renewal is already half decided. Mid-year is when you even up the information. This week's deep dive on Benefit Blind Spots: benefitblindspots.substack.com
+- **+8:30 PM — origin-anchored field note (the one this week) [D1]:**
+```
+Reviewed a contract last week where "pass-through pricing" had its definition three clauses away, and the definition quietly undid the promise. Read your nouns. The PBM defined them, not you.
+```
+
+**Sat Jun 13**
+- **+7:00 PM — poll (rebate destination) [A2]:**
+```
+When your PBM says it passes through "100% of rebates," 100% of what?
+
+· What the manufacturer paid
+· What the PBM "received" after its aggregator's cut
+· Not sure, never asked
+· We don't get rebates?
+```
+First reply → 100% of what the PBM "received" after a rebate aggregator it owns took a cut first. The noun does the work: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C3]:**
+```
+A PBM contract is written in a dialect designed so the person paying the bill can't read it. It isn't complicated. It's hidden on purpose.
+```
+
+**Sun Jun 14**
+- **+7:00 PM — poll (reporting login) [A5]:**
+```
+Have you logged into your PBM reporting portal in the last 90 days?
+
+· Yes, monthly
+· Once this year
+· My broker handles it
+· I have a login?
+```
+First reply → If you've never opened it, the PBM is the only side reading your plan's data. The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question (show me the difference) [B1]:**
+```
+One question that changes the room: "Show me the difference between what you paid the pharmacy and what you billed us, by claim." Watch how long the answer takes.
+```
+
+> **Evening block content-mix check (14 added posts):** 7 polls (interactive, evergreen, schedulable) + 4 aphorisms + 2 one-questions + 1 origin-anchored (capped at 1/week) ✓. No newsjack/bridge scheduled (no live news this week); E/F templates held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM (3-post block); weekend = 5 posts + 2 evening = up to 7/day. Nothing repeats inside 2 weeks (rotation tracked in `x_evening_block_bank.md`).
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement (Every Post Day)
