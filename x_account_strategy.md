@@ -110,6 +110,30 @@ Daily template (skewed to Cuban-bait, per the content mix above):
 
 Schedule the 3 daily posts a week at a time (X native scheduler or Typefully). Keep the evening slot loosely held so a breaking-news reaction can bump a pre-scheduled filler post if something big lands.
 
+### Evening block (added June 5, 2026)
+
+Evening (after ~5 PM ET) is a documented high-attention window for PBM content on X: the after-work scroll, where brokers, plan-sponsor staff, the transparency crowd, and journalists are active. The single ~5 PM "PM" slot expands into a **3-post evening block**. The existing ~5 PM post stays the anchor; **two posts are added** per day (7:00 PM and 8:30 PM):
+
+| Slot | Time (ET) | Job | Source bank |
+|------|-----------|-----|-------------|
+| PM anchor | ~5:00 PM | the day's heavy hitter: named-adversary / recipe-bank extraction post (Cuban-bait) | `x_recipe_post_bank.md` |
+| Evening interactive | ~7:00 PM | the engagement driver: a poll, a news-to-contract bridge, or a newsjack of an adjacent viral medical-bill / drug-price post | `x_evening_block_bank.md` |
+| Evening close | ~8:30 PM | the sharp close: a decoder aphorism, a "one question for your PBM," or (max once/week) an origin-anchored field note | `x_evening_block_bank.md` |
+
+This takes weekdays from 3 to 5 posts/day and weekends (which already carry 2 Tier A add-ons) to 6-7/day. Total ~35 scheduled posts/week.
+
+**New angles the evening block deploys (all defined with starter copy in `x_evening_block_bank.md`):**
+- **Newsjack adjacent virality (net-new).** Quote-post the PBM mechanism under a viral *consumer* medical-bill / drug-price post, not just PBM-source news. Sympathize with the patient; name the PBM structure that produced the price. Evening is when those consumer posts peak. Ally-positive only, never "you overpaid."
+- **News → contract one-two punch (net-new).** Morning reacts to the PBM headline; the 7 PM evening post decodes the contract clause the story is actually about.
+- **Polls (net-new).** Interactive and algorithm-favored. The throwaway "what's a spread?"-style option is the hook; the reveal goes in the first reply.
+- **One question for your PBM (net-new, evergreen).** A single actionable question per post. Plan-sponsor-actionable, repostable.
+- **Origin-anchored field note (net-new — NOT an origin story).** A first-person, in-the-room proof atom welded to a confrontational decode ("Reviewed a contract last week where 'pass-through' had a definition three clauses away that undid it. Read your nouns."). Captures origin's unfakeable-authority payload in the shape X rewards. **Caps at one evening-close slot per week.** Distinct from a true origin story, which stays the Substack Notes format (≤1×/week on X, where it underperforms).
+
+**Evening backbone is bumpable filler, by design.** Same rule as the existing PM slot: when a PBM story breaks, fire a same-hour reaction and let it bump that evening's scheduled post. The backbone is a floor, not a ceiling; reactions remain the highest-leverage behavior and take priority.
+
+**Evening attention-window log (build the dataset, don't guess).** Log evening post repost-rate vs. AM/midday over 2-3 weeks, the way the 8:30 AM LinkedIn finding and the weekend-Cuban window were built empirically. If evening repost-rate beats the AM amplifier slot, shift more recipe-bank heavy hitters into the 5-7 PM window.
+- _(stub — add entries as evening data comes in)_
+
 ---
 
 ## Engagement patrol list (5-10 min/day)
