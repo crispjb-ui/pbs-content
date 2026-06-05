@@ -562,9 +562,11 @@ Library NN (PBM Contract Language carousel series, linked to the Contract Librar
 
 When a week's Tuesday or Thursday visual is being scheduled, the brief in the week file is rewritten **holistically** so topic, template, slide-by-slide copy, image generation prompt, and caption read as **one integrated spec**. Never stack a "template rule" layer on top of an existing "topic copy" layer as two separate sets of directions in the same week file. A brief that reads as two overlapping instruction sets is a brief that gets misbuilt.
 
-## Wix Toolkit Lead-Gen Funnel Status (as of May 20, 2026 evening)
+## Wix Toolkit Lead-Gen Funnel Status (updated June 2026 — production-live)
 
-The Channel Pricing toolkit lead-gen funnel is **functionally complete and end-to-end tested** at `rxbs.org/toolkit/channel-pricing`. All 5 emails fire from Zapier with correct CMS-driven merge tags per submission. Three cleanup items remain before promoting the landing page broadly. Full operational status and remaining work is tracked in `email_gated_toolkit/WIX_SETUP_TODO.md`. This section is the high-level pointer.
+**Status (June 2026): LIVE and production-proven.** The custom Velo form funnel has now processed its first real inbound lead end-to-end: the toolkit-delivery email reached the lead and the new-submission notification reached Ginny at team@rxbs.org. The earlier three cleanup items (disable native Wix Email 1-5, switch Zapier delays to production, publish the Zap) are complete, and the first Wix-Forms-App-path lead (Sandeep) landed Jun 1 before the custom form went live Jun 2. The **custom Velo form is the live production path**; the Wix Forms App version stays only as the instant-revert fallback (`useCustomForm` flag). Full operational detail and as-built specifics are in `email_gated_toolkit/WIX_SETUP_TODO.md` (see the "DEPLOYED & WORKING" section). The historical Zapier-path notes below are retained for reference.
+
+The Channel Pricing toolkit lead-gen funnel reached **functionally complete and end-to-end tested** at `rxbs.org/toolkit/channel-pricing`. All 5 emails fire from Zapier with correct CMS-driven merge tags per submission. Full operational status is tracked in `email_gated_toolkit/WIX_SETUP_TODO.md`. This section is the high-level pointer.
 
 ### Working architecture (the path that actually works)
 
