@@ -485,19 +485,19 @@ Ginny Crisp walks through what is in the contract, why the PBM does not flag it,
 #### Post Copy
 
 ```
-The rebate line on your PBM's quarterly report grew. Your plan's net drug cost also grew. Both numbers can move up in the same quarter without anyone lying.
+Your PBM says it passes through 100% of your rebates. The company that collects those rebates is one the PBM owns, and it takes its cut before the 100% is ever counted.
 
-The disconnect is a reporting choice, not a math error.
+That company is a rebate aggregator. The largest PBMs run theirs through entities registered offshore. Switzerland. Ireland. The manufacturer money lands there, a fee comes off the top, and what reaches your plan is "100%" of whatever is left. None of that fee shows up on your rebate report.
 
-Total rebate dollars can increase simply because total drug spend increased. The PBM reports the number that makes their performance look strong. The number that matters to your plan, net cost after rebates compared to alternatives, is a different calculation entirely.
+That report shows one number going up. Your net drug cost is often going up faster.
 
-I see this pattern in client data regularly. The quarterly rebate report shows growth. The employer is reassured. Then we run the net cost analysis and the picture changes. Rebates grew. Gross cost grew faster. The plan's actual financial position deteriorated while the rebate headline improved.
+Total rebate dollars can increase simply because total drug spend increased. The PBM reports the figure that makes its performance look strong. The figure that matters to your plan, net cost after rebates compared to alternatives, is a different calculation, and it lives nowhere on the quarterly report.
 
-Rebate economics are structurally controlled by four contract provisions: how "rebate" is defined, which claims are counted as eligible, what percentage passes through to the plan, and when the plan actually receives the cash.
+I see this in client data regularly. The rebate headline improves. Then we run the net cost analysis and the plan's actual position has deteriorated. In the hundreds of contracts we review each year, the spread runs from genuine pass-through to structures where meaningful manufacturer money never appears on your plan's books at all.
 
-Each one either protects the plan or protects the PBM's margin. In the hundreds of contracts we review each year, we see the full spectrum: from fully transparent pass-through arrangements to structures where the PBM retains meaningful manufacturer payments that never appear in the rebate report.
+Rebate economics are controlled by four contract provisions: how "rebate" is defined, which claims count as eligible, what percentage passes through, and when the plan actually receives the cash. Each one either protects the plan or protects the PBM's margin.
 
-One question cuts through the complexity: what is our net drug cost, after all rebates, compared to what the market would offer?
+One question cuts through it: what is our net drug cost, after every rebate and aggregator fee, compared to what the market would offer?
 ```
 
 #### First Comment
