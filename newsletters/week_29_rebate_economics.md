@@ -946,9 +946,9 @@ Opened a rebate report this week that proudly said "100% pass-through." A PBM-ow
 White bagging: your PBM requires a specialty drug be shipped from its own pharmacy to the clinic, instead of the clinic buying it. Sounds like a safety rule. It's a routing rule, and it routes the margin to the PBM. Read who owns the pharmacy in the mandate.
 ```
   First reply (link): rxbs.org/toolkit/specialty-routing
-- **10:00 AM · copay maximizer (Tier A):**
+- **10:00 AM · step therapy (fail-first) (Tier A):**
 ```
-Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
@@ -987,7 +987,7 @@ A brand pays your PBM extra to be the only option in its class, biosimilars and 
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
 ```
-GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · dispensing fee spread (Tier A):**
 ```

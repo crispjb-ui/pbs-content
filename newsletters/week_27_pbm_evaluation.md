@@ -1155,9 +1155,9 @@ Your PBM makes money three ways on one prescription: the spread, the rebate, and
 When your PBM says it passes through 100% of rebates, ask one word back: of what? What the manufacturer paid, or what the PBM "received" after a rebate aggregator it owns took a cut first? The noun does all the work.
 ```
   First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
-- **8:30 PM · aphorism [C2]:**
+- **8:30 PM · aphorism [C9]:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+Every fee on your PBM invoice that sounds like a service is worth one question: which clause authorizes it? The silence after that question is the audit.
 ```
 
 **Sun Jul 12**
@@ -1173,7 +1173,7 @@ Mail-order steering: same drug, same dose. Filled at the retail pharmacy, one pr
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
 ```
-"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · rebate aggregator (Tier A):**
 ```
