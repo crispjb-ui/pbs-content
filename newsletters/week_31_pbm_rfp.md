@@ -799,228 +799,197 @@ I had a client thank me after an RFP by saying, "I learned more from the questio
 
 # PART 4B: X (TWITTER) POSTS
 
-> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** 3 posts/day (AM ~8 / midday ~12 / PM ~5 ET) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. _RFP is the Monday topic; the auto-renewal / audit-rights contract posts cluster the weekday AMs without scooping the Tue RFP-scoring LinkedIn visual._
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. _RFP is the Monday topic; the auto-renewal / audit-rights contract posts cluster the weekday AMs without scooping the Tue RFP-scoring LinkedIn visual._
 
 **Mon Aug 3**
-- **AM — recipe / Auto-renewal / lock-in (Tier B):**
+- **8:00 AM · recipe / Auto-renewal / lock-in (Tier B):**
 ```
 Auto-renewal: your PBM contract renews itself unless you give notice 90 to 180 days out. Miss the window and you're locked in another full term at rates you never reopened. The clock started before anyone told you it was running.
 ```
   - **First reply (link):** rxbs.org/toolkit/termination-clause-audit
-- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
 ```
-- **PM — punchy:**
+- **5:00 PM · punchy:**
 ```
 PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
 ```
+- **7:00 PM · question post [A9]:**
+```
+Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
+```
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · aphorism [C2]:**
+```
+The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+```
 
 **Tue Aug 4**
-- **AM — recipe / Audit rights limitation (Tier B):**
+- **8:00 AM · recipe / Audit rights limitation (Tier B):**
 ```
 Audit rights: your contract says you can audit the PBM. Then the fine print: once a year, the PBM's chosen auditor, the records the PBM selects, and the PBM decides if the findings count. That's not an audit right. It's a guided tour of the lobby.
 ```
   - **First reply (link):** the PBM Contract Language Library
-- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
 ```
-- **PM — punchy:**
+- **5:00 PM · punchy:**
 ```
 Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
 ```
-
-**Wed Aug 5**
-- **AM — recipe / MAC list control (Tier B):**
-```
-The MAC list sets what your plan pays for generics, and your PBM controls it. It can price the same generic differently across pharmacies and adjust it line by line. You agreed to "MAC pricing." You never saw the list. The list is the price.
-```
-  - **First reply (link):** rxbs.org/toolkit/channel-pricing
-- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
-```
-"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
-```
-- **PM — punchy:**
-```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
-```
-
-**Thu Aug 6**
-- **AM — recipe / Manufacturer-fee reclassification (Tier B):**
-```
-Watch where manufacturer money lands in your contract. Payments labeled "administrative reimbursement" instead of "rebate" sit outside the pass-through clause entirely. Same dollars, same manufacturer. One word decides whether your plan ever sees them.
-```
-  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
-- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
-```
-"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
-```
-- **PM — punchy:**
-```
-Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
-```
-
-**Fri Aug 7**
-- **AM — recipe / Copay maximizer (Tier B):**
-```
-Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
-```
-  - **First reply (link):** rxbs.org/toolkit/copay-card-calculator
-- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
-```
-GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
-```
-- **PM — punchy:**
-```
-Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
-```
-
-**Sat Aug 8**
-- **AM — recipe / Specialty routing (Tier A weekend Cuban-bait):**
-```
-Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. That's not a network. It's a funnel.
-```
-  - **First reply (link):** rxbs.org/toolkit/specialty-routing
-- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
-```
-Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
-```
-- **PM — punchy:**
-```
-Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
-```
-
-**Sun Aug 9**
-- **AM — recipe / DIR fees (Tier A weekend Cuban-bait):**
-```
-DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
-```
-  - **First reply (link):** the PBM Contract Language Library
-- **Midday — news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
-```
-Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
-```
-- **PM — origin (the one allowed this week):**
-```
-I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
-```
-
-> Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour.
-
----
-### Weekend cadence add-ons (5/day) — paste-ready
-
-Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library.
-
-**Sat Aug 8 +10:00 AM — step therapy (fail-first) (Tier A):**
-```
-Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
-**Sat Aug 8 +2:30 PM — specialty exclusive distribution (Tier A):**
-```
-Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
-**Sun Aug 9 +10:00 AM — effective-rate true-up timing (Tier A):**
-```
-Your PBM "guarantees" an effective discount, then reconciles it once a year, months late, on its own math. The guarantee is real. The timing means the PBM holds your money and controls the calculation. Ask who audits the true-up, and when you actually get paid.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
-**Sun Aug 9 +2:30 PM — mid-year formulary change (Tier A):**
-```
-Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
----
-
-### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
-
-> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (a confrontational question post, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump it if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Links in first reply only.
-
-**Mon Aug 3**
-- **+7:00 PM — question post [A9]:**
-```
-Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
-```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — aphorism [C2]:**
-```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
-```
-
-**Tue Aug 4**
-- **+7:00 PM — question post [A10]:**
+- **7:00 PM · question post [A10]:**
 ```
 Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — one question [B2]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · one question [B2]:**
 ```
 Ask your PBM: "What did you collect in rebates and fees from manufacturers on our plan last year, and how much reached us?" The gap between the two numbers is the conversation.
 ```
 
 **Wed Aug 5**
-- **+7:00 PM — question post [A11]:**
+- **8:00 AM · recipe / MAC list control (Tier B):**
+```
+The MAC list sets what your plan pays for generics, and your PBM controls it. It can price the same generic differently across pharmacies and adjust it line by line. You agreed to "MAC pricing." You never saw the list. The list is the price.
+```
+  - **First reply (link):** rxbs.org/toolkit/channel-pricing
+- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+```
+- **5:00 PM · punchy:**
+```
+The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+```
+- **7:00 PM · question post [A11]:**
 ```
 Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go: back to your plan, or kept by the PBM? On most contracts it is kept, and it is rarely itemized anywhere you would see it.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — aphorism [C3]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · aphorism [C3]:**
 ```
 A PBM contract is written in a dialect designed so the person paying the bill can't read it. It isn't complicated. It's hidden on purpose.
 ```
 
 **Thu Aug 6**
-- **+7:00 PM — question post [A12]:**
+- **8:00 AM · recipe / Manufacturer-fee reclassification (Tier B):**
+```
+Watch where manufacturer money lands in your contract. Payments labeled "administrative reimbursement" instead of "rebate" sit outside the pass-through clause entirely. Same dollars, same manufacturer. One word decides whether your plan ever sees them.
+```
+  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
+- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+```
+- **5:00 PM · punchy:**
+```
+Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+```
+- **7:00 PM · question post [A12]:**
 ```
 If you wanted to fire your PBM tomorrow, what in the contract slows you down? Notice periods, transition fees, a data handoff you do not control. Most plans never read the termination clause until the day they need it.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — one question [B3]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · one question [B3]:**
 ```
 Ask your PBM to define "pass-through" in writing, then ask which noun it attaches to: what the manufacturer paid, or what you received. The definition is the whole deal.
 ```
 
 **Fri Aug 7**
-- **+7:00 PM — question post [A13]:**
+- **8:00 AM · recipe / Copay maximizer (Tier B):**
+```
+Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+```
+  - **First reply (link):** rxbs.org/toolkit/copay-card-calculator
+- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+```
+- **5:00 PM · punchy:**
+```
+Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
+```
+- **7:00 PM · question post [A13]:**
 ```
 The GLP-1 your plan covers: is it on the formulary because it works best, or because it wrote the biggest rebate check? The drug that paid to be there is usually the one on the list.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — origin-anchored (1/week) [D8]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · origin-anchored (1/week) [D8]:**
 ```
 Reviewed an invoice last week with five admin line items. Four had no clause behind them anywhere in the contract. We cut three. That's a quiet raise the plan was paying without knowing.
 ```
 
 **Sat Aug 8**
-- **+7:00 PM — question post [A14]:**
+- **8:00 AM · recipe / Specialty routing (Tier A weekend Cuban-bait):**
+```
+Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. That's not a network. It's a funnel.
+```
+  - **First reply (link):** rxbs.org/toolkit/specialty-routing
+- **10:00 AM · step therapy (fail-first) (Tier A):**
+```
+Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+```
+- **2:30 PM · specialty exclusive distribution (Tier A):**
+```
+Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **5:00 PM · punchy:**
+```
+Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+```
+- **7:00 PM · question post [A14]:**
 ```
 When your PBM calls a drug "lowest net cost," lowest for whom? Your plan, or the PBM's rebate math? The phrase is built to sound like it is on your side. Check whether it actually is.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — aphorism [C4]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · aphorism [C4]:**
 ```
 "Rebate" doesn't mean discount. It means a payment that arrives after the price was already set high enough to fund it.
 ```
 
 **Sun Aug 9**
-- **+7:00 PM — question post [A15]:**
+- **8:00 AM · recipe / DIR fees (Tier A weekend Cuban-bait):**
+```
+DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
+```
+  - **First reply (link):** the PBM Contract Language Library
+- **10:00 AM · effective-rate true-up timing (Tier A):**
+```
+Your PBM "guarantees" an effective discount, then reconciles it once a year, months late, on its own math. The guarantee is real. The timing means the PBM holds your money and controls the calculation. Ask who audits the true-up, and when you actually get paid.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+```
+Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+```
+- **2:30 PM · mid-year formulary change (Tier A):**
+```
+Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **5:00 PM · origin (the one allowed this week):**
+```
+I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
+```
+- **7:00 PM · question post [A15]:**
 ```
 A biosimilar launched at a fraction of the brand's price. Is your plan on it, or is your PBM still steering to the brand because the brand pays a bigger rebate? Pull the claims and find out.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — one question [B4]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · one question [B4]:**
 ```
 Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If the answer is most of them, that's not a network. It's a funnel.
 ```
 
-> **Evening block content-mix check (14 added posts):** 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: auto-renewal, audit rights, MAC list control, manufacturer-fee reclassification, copay maximizer) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM specialty routing + DIR fees, plus the four 10 AM / 2:30 PM Tier-A adds: step therapy, specialty exclusive distribution, effective-rate true-up timing, mid-year formulary change) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
 
 
 # PART 5: PUBLISHING CHECKLIST
