@@ -820,9 +820,9 @@ PBM contracts are written in a dialect built so the person paying the bill can't
 Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **8:30 PM · aphorism [C2]:**
+- **8:30 PM · aphorism [C7]:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+A middleman that owns the pharmacy, sets the price, pays itself, and audits its own books isn't a service you buy. It's a toll road you're required to drive.
 ```
 
 **Tue Aug 4**
@@ -968,7 +968,7 @@ Your PBM "guarantees" an effective discount, then reconciles it once a year, mon
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · mid-year formulary change (Tier A):**
 ```
