@@ -9,11 +9,50 @@
 |-----|------|----------|---------|--------|
 | Mon Jul 27 | 7:30 AM | Substack | "Site-of-Care Optimization: The Cost Lever Most Plans Ignore" | [ ] |
 | Mon Jul 27 | 7:45 AM | LinkedIn Newsletter | Site-of-Care Briefing | [ ] |
+| Mon Jul 27 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
+| Mon Jul 27 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Jul 27 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Mon Jul 27 | 7:00 PM | X (Twitter) | poll [A2] | [ ] |
+| Mon Jul 27 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
+| Tue Jul 28 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
 | Tue Jul 28 | 10:00 AM | LinkedIn Feed | Post 109 - "5 Self-Funded Decisions That Have to Land Before Year-End" One Number Carousel (different pillar) | [ ] |
+| Tue Jul 28 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Tue Jul 28 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Jul 28 | 7:00 PM | X (Twitter) | poll [A3] | [ ] |
+| Tue Jul 28 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
+| Wed Jul 29 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
 | Wed Jul 29 | 10:00 AM | LinkedIn Feed | Post 110 - Strong POV TEXT / VIDEO TEST #3 | [ ] |
+| Wed Jul 29 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Jul 29 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Jul 29 | 7:00 PM | X (Twitter) | poll [A4] | [ ] |
+| Wed Jul 29 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "White Bagging vs. Brown Bagging: The Practical Differences" | [ ] |
+| Thu Jul 30 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
 | Thu Jul 30 | 10:00 AM | LinkedIn Feed | Post 111 - Same infusion. Hospital. Office. Home. Four prices. (Carousel, Slot B evergreen rotation) | [ ] |
+| Thu Jul 30 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Thu Jul 30 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Jul 30 | 7:00 PM | X (Twitter) | poll [A5] | [ ] |
+| Thu Jul 30 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
+| Fri Jul 31 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
 | Fri Jul 31 | 10:00 AM | LinkedIn Feed | Post 112 - Tease Hook TEXT (teases Week 31) | [ ] |
+| Fri Jul 31 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Jul 31 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Jul 31 | 7:00 PM | X (Twitter) | poll [A6] | [ ] |
+| Fri Jul 31 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D7] | [ ] |
+| Sat Aug 1 | 8:00 AM | X (Twitter) | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
+| Sat Aug 1 | 10:00 AM | X (Twitter) | price protection reclassification (Tier A) | [ ] |
+| Sat Aug 1 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Aug 1 | 2:30 PM | X (Twitter) | copay accumulator (Tier A) | [ ] |
+| Sat Aug 1 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Aug 1 | 7:00 PM | X (Twitter) | poll [A7] | [ ] |
+| Sat Aug 1 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
+| Sun Aug 2 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
+| Sun Aug 2 | 10:00 AM | X (Twitter) | copay maximizer vendor (SaveOnSP-style) (Tier A) | [ ] |
+| Sun Aug 2 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Aug 2 | 2:30 PM | X (Twitter) | brown bagging (Tier A) | [ ] |
+| Sun Aug 2 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Aug 2 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Sun Aug 2 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
 
 ---
 

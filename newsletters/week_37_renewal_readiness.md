@@ -9,11 +9,50 @@
 |-----|------|----------|---------|--------|
 | Mon Sep 14 | 7:30 AM | Substack | "Renewal Readiness: The Assessment That Determines Your Negotiating Position" | [ ] |
 | Mon Sep 14 | 7:45 AM | LinkedIn Newsletter | Renewal Readiness Briefing | [ ] |
+| Mon Sep 14 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
+| Mon Sep 14 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Sep 14 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Mon Sep 14 | 7:00 PM | X (Twitter) | poll [A3] | [ ] |
+| Mon Sep 14 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
+| Tue Sep 15 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
 | Tue Sep 15 | 10:00 AM | LinkedIn Feed | Post 137 - "What 'Industry Standard' Actually Means in PBM Proposals" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
+| Tue Sep 15 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Tue Sep 15 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Sep 15 | 7:00 PM | X (Twitter) | poll [A4] | [ ] |
+| Tue Sep 15 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
+| Wed Sep 16 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
 | Wed Sep 16 | 10:00 AM | LinkedIn Feed | Post 138 - Strong POV TEXT (~230 words) | [ ] |
+| Wed Sep 16 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Sep 16 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Sep 16 | 7:00 PM | X (Twitter) | poll [A5] | [ ] |
+| Wed Sep 16 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
 | Thu Sep 17 | 7:30 AM | Substack | Field Note: "The First Meeting with Your PBM at Renewal" | [ ] |
+| Thu Sep 17 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
 | Thu Sep 17 | 10:00 AM | LinkedIn Feed | Post 139 - 5 Questions About PBM Performance Guarantees (Carousel, Slot C evergreen rotation) | [ ] |
+| Thu Sep 17 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Thu Sep 17 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Sep 17 | 7:00 PM | X (Twitter) | poll [A6] | [ ] |
+| Thu Sep 17 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
+| Fri Sep 18 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
 | Fri Sep 18 | 10:00 AM | LinkedIn Feed | Post 140 - "What Q4 Will Bring" Tease Hook | [ ] |
+| Fri Sep 18 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Sep 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Sep 18 | 7:00 PM | X (Twitter) | poll [A7] | [ ] |
+| Fri Sep 18 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D6] | [ ] |
+| Sat Sep 19 | 8:00 AM | X (Twitter) | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
+| Sat Sep 19 | 10:00 AM | X (Twitter) | DIR fees (Tier A) | [ ] |
+| Sat Sep 19 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Sep 19 | 2:30 PM | X (Twitter) | white bagging (Tier A) | [ ] |
+| Sat Sep 19 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Sep 19 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Sat Sep 19 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
+| Sun Sep 20 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
+| Sun Sep 20 | 10:00 AM | X (Twitter) | specialty routing (Tier A) | [ ] |
+| Sun Sep 20 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Sep 20 | 2:30 PM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
+| Sun Sep 20 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Sep 20 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Sun Sep 20 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
 
 ---
 

@@ -10,19 +10,58 @@
 | Sun Jul 5 | - | Prep | Final review of all content | [ ] |
 | Mon Jul 6 | 7:30 AM | Substack | "The Vertical Integration Question: Stay or Switch in 2026" | [ ] |
 | Mon Jul 6 | 7:45 AM | LinkedIn Newsletter | PBM Evaluation Briefing | [ ] |
+| Mon Jul 6 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
+| Mon Jul 6 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Jul 6 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Mon Jul 6 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Mon Jul 6 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Mon Jul 6 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
+| Tue Jul 7 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
 | Tue Jul 7 | 10:00 AM | LinkedIn Feed | Post 97 - "Five Reporting Clauses That Let You Actually Run the PBM Review" Library 04 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue Jul 7 | 10:05 AM | LinkedIn Feed | Post 97 - First Comment | [ ] |
+| Tue Jul 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Tue Jul 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 97 | [ ] |
+| Tue Jul 7 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Jul 7 | 7:00 PM | X (Twitter) | poll [A14] | [ ] |
+| Tue Jul 7 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
+| Wed Jul 8 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
 | Wed Jul 8 | 10:00 AM | LinkedIn Feed | Post 98 - "Switching PBMs is disruptive. Staying with the wrong one is expensive." Strong POV (TEXT) | [ ] |
+| Wed Jul 8 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Wed Jul 8 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
+| Wed Jul 8 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Jul 8 | 7:00 PM | X (Twitter) | poll [A15] | [ ] |
+| Wed Jul 8 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
 | Thu Jul 9 | 7:30 AM | Substack | Field Note: "Auditing How Your PBM Actually Makes Money" | [ ] |
+| Thu Jul 9 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
 | Thu Jul 9 | 10:00 AM | LinkedIn Feed | Post 99 - Same plan. Same data. Different PBM interpretations. (Carousel, Slot B evergreen rotation) | [ ] |
+| Thu Jul 9 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Thu Jul 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 99 | [ ] |
+| Thu Jul 9 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jul 9 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
+| Thu Jul 9 | 7:00 PM | X (Twitter) | poll [A16] | [ ] |
+| Thu Jul 9 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
+| Fri Jul 10 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
 | Fri Jul 10 | 10:00 AM | LinkedIn Feed | Post 100 - "The number your PBM hopes you never calculate" Tease Hook (TEXT) | [ ] |
+| Fri Jul 10 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Fri Jul 10 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
+| Fri Jul 10 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Jul 10 | 7:00 PM | X (Twitter) | poll [A1] | [ ] |
+| Fri Jul 10 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D4] | [ ] |
 | Sat Jul 11 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
+| Sat Jul 11 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
+| Sat Jul 11 | 10:00 AM | X (Twitter) | effective-rate true-up timing (Tier A) | [ ] |
+| Sat Jul 11 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Jul 11 | 2:30 PM | X (Twitter) | mid-year formulary change (Tier A) | [ ] |
+| Sat Jul 11 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Jul 11 | 7:00 PM | X (Twitter) | poll [A2] | [ ] |
+| Sat Jul 11 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
+| Sun Jul 12 | 8:00 AM | X (Twitter) | recipe / Specialty routing (Tier A weekend Cuban-bait) | [ ] |
+| Sun Jul 12 | 10:00 AM | X (Twitter) | mail-order steering (Tier A) | [ ] |
+| Sun Jul 12 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Jul 12 | 2:30 PM | X (Twitter) | rebate aggregator (Tier A) | [ ] |
+| Sun Jul 12 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Jul 12 | 7:00 PM | X (Twitter) | poll [A3] | [ ] |
+| Sun Jul 12 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
 
 ---
 

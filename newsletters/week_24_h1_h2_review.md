@@ -10,19 +10,58 @@
 | Sun Jun 14 | - | Prep | Final review of all content | [ ] |
 | Mon Jun 15 | 7:30 AM | Substack | "H1 Review: What the Data Shows" | [ ] |
 | Mon Jun 15 | 7:45 AM | LinkedIn Newsletter | H1/H2 Briefing | [ ] |
+| Mon Jun 15 | 8:00 AM | X (Twitter) | named-adversary / vertical integration | [ ] |
+| Mon Jun 15 | 12:00 PM | X (Twitter) | decoder (mid-year reporting) | [ ] |
+| Mon Jun 15 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Mon Jun 15 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Mon Jun 15 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Mon Jun 15 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
+| Tue Jun 16 | 8:00 AM | X (Twitter) | dollar comparison (specialty / site-of-care) | [ ] |
 | Tue Jun 16 | 8:30 AM | LinkedIn Feed | Post 85 - "Three Clauses Behind the Cost Patterns That Surface at Mid-Year" Library 03 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue Jun 16 | 8:35 AM | LinkedIn Feed | Post 85 - First Comment | [ ] |
+| Tue Jun 16 | 12:00 PM | X (Twitter) | structural / news-adjacent (hold for a reactive bump) | [ ] |
 | Tue Jun 16 | 1:30 PM | LinkedIn Company | Company Reshare of Post 85 | [ ] |
+| Tue Jun 16 | 5:00 PM | X (Twitter) | contract-clause carousel driver (SCHEDULE AFTER the 8:30 AM Tue LinkedIn carousel publishes) | [ ] |
+| Tue Jun 16 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Tue Jun 16 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
+| Wed Jun 17 | 8:00 AM | X (Twitter) | named-adversary / rebate incentive | [ ] |
 | Wed Jun 17 | 8:30 AM | LinkedIn Feed | Post 86 - "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." Tease Hook (TEXT) | [ ] |
+| Wed Jun 17 | 12:00 PM | X (Twitter) | decoder (effective rate guarantee) | [ ] |
 | Wed Jun 17 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
+| Wed Jun 17 | 5:00 PM | X (Twitter) | stat-shock / structural | [ ] |
+| Wed Jun 17 | 7:00 PM | X (Twitter) | poll [A10] | [ ] |
+| Wed Jun 17 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
 | Thu Jun 18 | 7:30 AM | Substack | Field Note: "Five Numbers That Determine Your Renewal Leverage" | [ ] |
+| Thu Jun 18 | 8:00 AM | X (Twitter) | named-adversary / formulary exclusion (protects the 8:30 AM Thursday reveal) | [ ] |
 | Thu Jun 18 | 8:30 AM | LinkedIn Feed | Post 87 - Same diagnosis. Same drug. Different member out-of-pocket. (Carousel, Slot B evergreen rotation) | [ ] |
+| Thu Jun 18 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel]` | [ ] |
 | Thu Jun 18 | 1:30 PM | LinkedIn Company | Company Reshare of Post 87 | [ ] |
+| Thu Jun 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jun 18 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
+| Thu Jun 18 | 7:00 PM | X (Twitter) | poll [A11] | [ ] |
+| Thu Jun 18 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
+| Fri Jun 19 | 8:00 AM | X (Twitter) | named-adversary / specialty funnel | [ ] |
 | Fri Jun 19 | 8:30 AM | LinkedIn Feed | Post 88 - "What Q3 Will Bring" Tease Hook (TEXT) | [ ] |
+| Fri Jun 19 | 12:00 PM | X (Twitter) | decoder (pass-through vs transparent) | [ ] |
 | Fri Jun 19 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
+| Fri Jun 19 | 5:00 PM | X (Twitter) | synthesis / forward (Q3 tie-in, after the 8:30 AM Friday tease) | [ ] |
+| Fri Jun 19 | 7:00 PM | X (Twitter) | poll [A12] | [ ] |
+| Fri Jun 19 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D1] | [ ] |
 | Sat Jun 20 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
+| Sat Jun 20 | 8:00 AM | X (Twitter) | best-kept-secret (spread pricing) | [ ] |
+| Sat Jun 20 | 10:00 AM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
+| Sat Jun 20 | 12:00 PM | X (Twitter) | dollar comparison (generics) | [ ] |
+| Sat Jun 20 | 2:30 PM | X (Twitter) | NADAC/MAC arbitrage (Tier A) | [ ] |
+| Sat Jun 20 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Jun 20 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Sat Jun 20 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
+| Sun Jun 21 | 8:00 AM | X (Twitter) | recipe / DIR fees (Tier A weekend Cuban-bait) | [ ] |
+| Sun Jun 21 | 10:00 AM | X (Twitter) | copay maximizer (Tier A) | [ ] |
+| Sun Jun 21 | 12:00 PM | X (Twitter) | decoder + GLP-1 amplifier | [ ] |
+| Sun Jun 21 | 2:30 PM | X (Twitter) | GPO offshore rebate routing (Tier A) | [ ] |
+| Sun Jun 21 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Jun 21 | 7:00 PM | X (Twitter) | poll [A14] | [ ] |
+| Sun Jun 21 | 8:30 PM | X (Twitter) | one question [B3] | [ ] |
 
 ---
 
@@ -1363,4 +1402,3 @@ Ask your PBM to define "pass-through" in writing, then ask which noun it attache
 *Status: DRAFT COMPLETE - Q2 FINAL*
 
 ---
-

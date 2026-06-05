@@ -9,11 +9,50 @@
 |-----|------|----------|---------|--------|
 | Mon Sep 7 | 7:30 AM | Substack | "Contract Language That Costs You: A Provision-by-Provision Comparison" | [ ] |
 | Mon Sep 7 | 7:45 AM | LinkedIn Newsletter | Contract Language Briefing | [ ] |
+| Mon Sep 7 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
+| Mon Sep 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Sep 7 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Mon Sep 7 | 7:00 PM | X (Twitter) | poll [A12] | [ ] |
+| Mon Sep 7 | 8:30 PM | X (Twitter) | aphorism [C7] | [ ] |
+| Tue Sep 8 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
 | Tue Sep 8 | 10:00 AM | LinkedIn Feed | Post 133 - "Three Clauses Behind Every Q4 Cost Pattern" Library 06 Contract Comparison Carousel (different pillar) | [ ] |
+| Tue Sep 8 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Tue Sep 8 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Sep 8 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Tue Sep 8 | 8:30 PM | X (Twitter) | one question [B7] | [ ] |
+| Wed Sep 9 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
 | Wed Sep 9 | 10:00 AM | LinkedIn Feed | Post 134 - Strong POV TEXT (~230 words) | [ ] |
+| Wed Sep 9 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Sep 9 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Sep 9 | 7:00 PM | X (Twitter) | poll [A14] | [ ] |
+| Wed Sep 9 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
 | Thu Sep 10 | 7:30 AM | Substack | Field Note: "Data Ownership and Portability: The Clause That Determines Exit Options" | [ ] |
+| Thu Sep 10 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
 | Thu Sep 10 | 10:00 AM | LinkedIn Feed | Post 135 - Same contract language. Different interpretations. Different outcomes. (Carousel, Slot B evergreen rotation) | [ ] |
+| Thu Sep 10 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Thu Sep 10 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Sep 10 | 7:00 PM | X (Twitter) | poll [A15] | [ ] |
+| Thu Sep 10 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
+| Fri Sep 11 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
 | Fri Sep 11 | 10:00 AM | LinkedIn Feed | Post 136 - Tease Hook (teases Week 37) | [ ] |
+| Fri Sep 11 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Sep 11 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Sep 11 | 7:00 PM | X (Twitter) | poll [A16] | [ ] |
+| Fri Sep 11 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D5] | [ ] |
+| Sat Sep 12 | 8:00 AM | X (Twitter) | recipe / White bagging (Tier A weekend Cuban-bait) | [ ] |
+| Sat Sep 12 | 10:00 AM | X (Twitter) | effective-rate true-up timing (Tier A) | [ ] |
+| Sat Sep 12 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Sep 12 | 2:30 PM | X (Twitter) | mid-year formulary change (Tier A) | [ ] |
+| Sat Sep 12 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Sep 12 | 7:00 PM | X (Twitter) | poll [A1] | [ ] |
+| Sat Sep 12 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
+| Sun Sep 13 | 8:00 AM | X (Twitter) | recipe / Copay accumulator (Tier A weekend Cuban-bait) | [ ] |
+| Sun Sep 13 | 10:00 AM | X (Twitter) | spread pricing (Tier A) | [ ] |
+| Sun Sep 13 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Sep 13 | 2:30 PM | X (Twitter) | mail-order steering (Tier A) | [ ] |
+| Sun Sep 13 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Sep 13 | 7:00 PM | X (Twitter) | poll [A2] | [ ] |
+| Sun Sep 13 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
 
 ---
 

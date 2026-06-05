@@ -9,13 +9,52 @@
 
 | Day | Time | Platform | Content | Status |
 |-----|------|----------|---------|--------|
+| Mon Aug 31 | 7:00 PM | X (Twitter) | poll [A5] | [ ] |
+| Mon Aug 31 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
+| Mon Sep 1 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
+| Mon Sep 1 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Sep 1 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Sep 1 | 7:00 PM | X (Twitter) | poll [A6] | [ ] |
+| Tue Sep 1 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
 | Tue Sep 2 | 7:30 AM | Substack | "The Renewal Negotiation Playbook" | [ ] |
 | Tue Sep 2 | 7:45 AM | LinkedIn Newsletter | Renewal Negotiation Briefing | [ ] |
+| Tue Sep 2 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
 | Tue Sep 2 | 10:00 AM | LinkedIn Feed | Post 129 - "How I'd Map a 2027 Renewal on a Whiteboard" Whiteboard Carousel (different pillar) | [ ] |
+| Tue Sep 2 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Tue Sep 2 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Sep 2 | 7:00 PM | X (Twitter) | poll [A7] | [ ] |
+| Wed Sep 2 | 8:30 PM | X (Twitter) | aphorism [C5] | [ ] |
+| Wed Sep 3 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
 | Wed Sep 3 | 10:00 AM | LinkedIn Feed | Post 130 - Strong POV TEXT (~230 words) | [ ] |
+| Wed Sep 3 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Sep 3 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Sep 3 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Thu Sep 3 | 8:30 PM | X (Twitter) | one question [B5] | [ ] |
 | Thu Sep 4 | 7:30 AM | Substack | Field Note: "The Termination Clause: Your Most Powerful Negotiating Tool" | [ ] |
+| Thu Sep 4 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
 | Thu Sep 4 | 10:00 AM | LinkedIn Feed | Post 131 - 5 Termination Clause Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
+| Thu Sep 4 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Thu Sep 4 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Sep 4 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Fri Sep 4 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D4] | [ ] |
+| Fri Sep 5 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
 | Fri Sep 5 | 10:00 AM | LinkedIn Feed | Post 132 - Tease Hook (teases Week 36) | [ ] |
+| Fri Sep 5 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Sep 5 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Sep 5 | 7:00 PM | X (Twitter) | poll [A10] | [ ] |
+| Sat Sep 5 | 8:30 PM | X (Twitter) | aphorism [C6] | [ ] |
+| Sat Sep 6 | 8:00 AM | X (Twitter) | recipe / DIR fees (Tier A weekend Cuban-bait) | [ ] |
+| Sat Sep 6 | 10:00 AM | X (Twitter) | copay maximizer vendor (SaveOnSP-style) (Tier A) | [ ] |
+| Sat Sep 6 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Sep 6 | 2:30 PM | X (Twitter) | brown bagging (Tier A) | [ ] |
+| Sat Sep 6 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sun Sep 6 | 7:00 PM | X (Twitter) | poll [A11] | [ ] |
+| Sun Sep 6 | 8:30 PM | X (Twitter) | one question [B6] | [ ] |
+| Sun Sep 7 | 8:00 AM | X (Twitter) | recipe / Mail-order steering (Tier A weekend Cuban-bait) | [ ] |
+| Sun Sep 7 | 10:00 AM | X (Twitter) | step therapy (fail-first) (Tier A) | [ ] |
+| Sun Sep 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Sep 7 | 2:30 PM | X (Twitter) | specialty exclusive distribution (Tier A) | [ ] |
+| Sun Sep 7 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
 
 ---
 

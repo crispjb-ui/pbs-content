@@ -10,15 +10,54 @@
 | Sun Jul 19 | - | Prep | Final review of all content | [ ] |
 | Mon Jul 20 | 7:30 AM | Substack | "Rebate Economics: What Your PBM's Rebate Report Is Not Showing You" | [ ] |
 | Mon Jul 20 | 7:45 AM | LinkedIn Newsletter | Rebate Economics Briefing | [ ] |
+| Mon Jul 20 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
+| Mon Jul 20 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Jul 20 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Mon Jul 20 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Mon Jul 20 | 7:00 PM | X (Twitter) | poll [A11] | [ ] |
+| Mon Jul 20 | 8:30 PM | X (Twitter) | aphorism [C6] | [ ] |
+| Tue Jul 21 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
 | Tue Jul 21 | 10:00 AM | LinkedIn Feed | Post 105 - "The Audit Right Most Self-Funded Plans Never Exercise" Sticky Note Dashboard Messy Infographic (different pillar) | [ ] |
+| Tue Jul 21 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Tue Jul 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 105 | [ ] |
+| Tue Jul 21 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Jul 21 | 7:00 PM | X (Twitter) | poll [A12] | [ ] |
+| Tue Jul 21 | 8:30 PM | X (Twitter) | one question [B6] | [ ] |
+| Wed Jul 22 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
 | Wed Jul 22 | 10:00 AM | LinkedIn Feed | Post 106 - Strong POV TEXT (~230 words) | [ ] |
+| Wed Jul 22 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Jul 22 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Jul 22 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Wed Jul 22 | 8:30 PM | X (Twitter) | aphorism [C7] | [ ] |
 | Thu Jul 23 | 7:30 AM | Substack | Field Note: "Three Rebate Report Red Flags That Signal Margin Retention" | [ ] |
+| Thu Jul 23 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
 | Thu Jul 23 | 10:00 AM | LinkedIn Feed | Post 107 - 5 Network Contract Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
+| Thu Jul 23 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Thu Jul 23 | 1:30 PM | LinkedIn Company | Company Reshare of Post 107 | [ ] |
+| Thu Jul 23 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Jul 23 | 7:00 PM | X (Twitter) | poll [A14] | [ ] |
+| Thu Jul 23 | 8:30 PM | X (Twitter) | one question [B7] | [ ] |
+| Fri Jul 24 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
 | Fri Jul 24 | 10:00 AM | LinkedIn Feed | Post 108 - Tease Hook TEXT | [ ] |
+| Fri Jul 24 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Jul 24 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Jul 24 | 7:00 PM | X (Twitter) | poll [A15] | [ ] |
+| Fri Jul 24 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D6] | [ ] |
 | Sat Jul 25 | - | Substack Notes | Engagement note | [ ] |
+| Sat Jul 25 | 8:00 AM | X (Twitter) | recipe / White bagging (Tier A weekend Cuban-bait) | [ ] |
+| Sat Jul 25 | 10:00 AM | X (Twitter) | copay maximizer (Tier A) | [ ] |
+| Sat Jul 25 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Jul 25 | 2:30 PM | X (Twitter) | GPO offshore rebate routing (Tier A) | [ ] |
+| Sat Jul 25 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Jul 25 | 7:00 PM | X (Twitter) | poll [A16] | [ ] |
+| Sat Jul 25 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
+| Sun Jul 26 | 8:00 AM | X (Twitter) | recipe / Copay accumulator (Tier A weekend Cuban-bait) | [ ] |
+| Sun Jul 26 | 10:00 AM | X (Twitter) | formulary exclusivity payment (Tier A) | [ ] |
+| Sun Jul 26 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Jul 26 | 2:30 PM | X (Twitter) | dispensing fee spread (Tier A) | [ ] |
+| Sun Jul 26 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Jul 26 | 7:00 PM | X (Twitter) | poll [A1] | [ ] |
+| Sun Jul 26 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
 
 ---
 

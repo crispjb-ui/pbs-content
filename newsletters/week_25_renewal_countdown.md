@@ -10,19 +10,58 @@
 | Sun Jun 21 | - | Prep | Final review of all content | [ ] |
 | Mon Jun 22 | 7:30 AM | Substack | "The 90-Day Renewal Window: What to Do Before Your PBM Sets the Terms" | [ ] |
 | Mon Jun 22 | 7:45 AM | LinkedIn Newsletter | Renewal Countdown Briefing | [ ] |
+| Mon Jun 22 | 8:00 AM | X (Twitter) | named-adversary / channel-pricing (proven W21 template, insulin) | [ ] |
+| Mon Jun 22 | 12:00 PM | X (Twitter) | decoder (auto-renewal clock) | [ ] |
+| Mon Jun 22 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Mon Jun 22 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Mon Jun 22 | 7:00 PM | X (Twitter) | poll [A15] | [ ] |
+| Mon Jun 22 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
+| Tue Jun 23 | 8:00 AM | X (Twitter) | dollar comparison (rebate aggregator skim) | [ ] |
 | Tue Jun 23 | 8:30 AM | LinkedIn Feed | Post 89 - "How I'd Walk a Client Through the 90-Day Renewal Decision" Whiteboard Carousel (different pillar) | [ ] |
 | Tue Jun 23 | 8:35 AM | LinkedIn Feed | Post 89 - First Comment | [ ] |
+| Tue Jun 23 | 12:00 PM | X (Twitter) | structural / news-adjacent (hold for a reactive bump) | [ ] |
 | Tue Jun 23 | 1:30 PM | LinkedIn Company | Company Reshare of Post 89 | [ ] |
+| Tue Jun 23 | 5:00 PM | X (Twitter) | Library 04 driver (Termination / Performance Remediation — SCHEDULE AFTER the 8:30 AM Tue carousel publishes) | [ ] |
+| Tue Jun 23 | 7:00 PM | X (Twitter) | poll [A16] | [ ] |
+| Tue Jun 23 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
+| Wed Jun 24 | 8:00 AM | X (Twitter) | named-adversary / vertical integration | [ ] |
 | Wed Jun 24 | 8:30 AM | LinkedIn Feed | Post 90 - "Your PBM renewal is 90 days away. Your preparation should have started yesterday." Strong POV (TEXT) | [ ] |
+| Wed Jun 24 | 12:00 PM | X (Twitter) | decoder (audit rights at renewal) | [ ] |
 | Wed Jun 24 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
+| Wed Jun 24 | 5:00 PM | X (Twitter) | stat-shock / structural | [ ] |
+| Wed Jun 24 | 7:00 PM | X (Twitter) | poll [A1] | [ ] |
+| Wed Jun 24 | 8:30 PM | X (Twitter) | aphorism [C5] | [ ] |
 | Thu Jun 25 | 7:30 AM | Substack | Field Note: "Three Conversations to Have Before Renewal Season" | [ ] |
+| Thu Jun 25 | 8:00 AM | X (Twitter) | named-adversary / definitions trick (protects the 8:30 AM Thursday reveal) | [ ] |
 | Thu Jun 25 | 8:30 AM | LinkedIn Feed | Post 91 - 5 Questions About Your PBM Contract Renewal (Carousel, Slot C evergreen rotation) | [ ] |
+| Thu Jun 25 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot C "5 Questions About Your PBM Contract Renewal" carousel]` | [ ] |
 | Thu Jun 25 | 1:30 PM | LinkedIn Company | Company Reshare of Post 91 | [ ] |
+| Thu Jun 25 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jun 25 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
+| Thu Jun 25 | 7:00 PM | X (Twitter) | poll [A2] | [ ] |
+| Thu Jun 25 | 8:30 PM | X (Twitter) | one question [B5] | [ ] |
+| Fri Jun 26 | 8:00 AM | X (Twitter) | named-adversary / formulary (after the 8:30 AM Friday tease; teases W26) | [ ] |
 | Fri Jun 26 | 8:30 AM | LinkedIn Feed | Post 92 - "Who really controls your drug list?" Tease Hook (TEXT) | [ ] |
+| Fri Jun 26 | 12:00 PM | X (Twitter) | decoder (formulary control) | [ ] |
 | Fri Jun 26 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
+| Fri Jun 26 | 5:00 PM | X (Twitter) | synthesis | [ ] |
+| Fri Jun 26 | 7:00 PM | X (Twitter) | poll [A3] | [ ] |
+| Fri Jun 26 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D2] | [ ] |
 | Sat Jun 27 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
+| Sat Jun 27 | 8:00 AM | X (Twitter) | best-kept-secret (rebate aggregator) | [ ] |
+| Sat Jun 27 | 10:00 AM | X (Twitter) | formulary exclusivity payment (Tier A) | [ ] |
+| Sat Jun 27 | 12:00 PM | X (Twitter) | dollar comparison (specialty rebate gap) | [ ] |
+| Sat Jun 27 | 2:30 PM | X (Twitter) | dispensing fee spread (Tier A) | [ ] |
+| Sat Jun 27 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Jun 27 | 7:00 PM | X (Twitter) | poll [A4] | [ ] |
+| Sat Jun 27 | 8:30 PM | X (Twitter) | aphorism [C6] | [ ] |
+| Sun Jun 28 | 8:00 AM | X (Twitter) | recipe / white bagging (Tier A weekend Cuban-bait) | [ ] |
+| Sun Jun 28 | 10:00 AM | X (Twitter) | price protection reclassification (Tier A) | [ ] |
+| Sun Jun 28 | 12:00 PM | X (Twitter) | decoder + GLP-1 amplifier | [ ] |
+| Sun Jun 28 | 2:30 PM | X (Twitter) | copay accumulator (Tier A) | [ ] |
+| Sun Jun 28 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Jun 28 | 7:00 PM | X (Twitter) | poll [A5] | [ ] |
+| Sun Jun 28 | 8:30 PM | X (Twitter) | one question [B6] | [ ] |
 
 ---
 
