@@ -870,6 +870,127 @@ Your PBM's rebates may run through a group purchasing organization it owns, ofte
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
+---
+
+### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
+
+> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (polls this week, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump a poll if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Polls: set 1-day duration, put the answer in the first reply. Links in first reply only.
+
+**Mon Aug 17**
+- **+7:00 PM — poll [A7]:**
+```
+The drug on your formulary is there mostly because:
+
+· It works best
+· It's cheapest net
+· It paid the biggest rebate to be there
+· I assumed reason 1
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C8]:**
+```
+The PBM didn't lower your drug costs. It moved them to a line you don't read and called the move a discount.
+```
+
+**Tue Aug 18**
+- **+7:00 PM — poll [A8]:**
+```
+It's mid-year. Who has a renewal model built on your H1 claims right now?
+
+· We do
+· Our broker does
+· Only the PBM does
+· What renewal model?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B8]:**
+```
+Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not to clinical evidence?" The honest answer reorders your formulary.
+```
+
+**Wed Aug 19**
+- **+7:00 PM — poll [A9]:**
+```
+Has your plan ever seen what the PBM clawed back from pharmacies (DIR) and how much reached you?
+
+· Yes, it's in our report
+· No, never itemized
+· Our PBM says there's none
+· What's DIR?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C9]:**
+```
+Every fee on your PBM invoice that sounds like a service is worth one question: which clause authorizes it? The silence after that question is the audit.
+```
+
+**Thu Aug 20**
+- **+7:00 PM — poll [A10]:**
+```
+Could the person who signs your PBM invoice read the contract clause that defines what they're paying for?
+
+· Easily
+· With effort
+· No, it's written to be unreadable
+· We've never tried
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B9]:**
+```
+Ask your PBM for your generic effective rate against the contract guarantee, by month. "On average over the year" is where the misses hide.
+```
+
+**Fri Aug 21**
+- **+7:00 PM — poll [A11]:**
+```
+Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go?
+
+· Back to our plan
+· Kept by the PBM
+· We've never seen it itemized
+· Manufacturers pay the PBM?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — origin-anchored (1/week) [D2]:**
+```
+Pulled a client's specialty claims this month and sorted by filling pharmacy. Most of them filled at one the PBM owns. No member chose that. The prior-auth rules chose it for them.
+```
+
+**Sat Aug 22**
+- **+7:00 PM — poll [A12]:**
+```
+If you wanted to fire your PBM tomorrow, what in the contract slows you down?
+
+· Nothing, clean exit
+· 90 to 180 days notice
+· Transition fees and a data handoff you don't control
+· We've never read the termination clause
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C10]:**
+```
+"Spread" is the only word in pharmacy pricing the PBM will never print on your report, because printing it would end it.
+```
+
+**Sun Aug 23**
+- **+7:00 PM — poll [A13]:**
+```
+The GLP-1 your plan covers sits on the formulary mainly because:
+
+· It works best
+· It's lowest net cost
+· It wrote the biggest rebate check
+· We didn't choose, the PBM did
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B10]:**
+```
+Ask your PBM: "If we wanted to leave, what in this contract makes it expensive or slow?" The termination and transition language is the leash. Read it before you need it.
+```
+
+> **Evening block content-mix check (14 added posts):** 7 polls (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+
+
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS
 
 ## Checklist

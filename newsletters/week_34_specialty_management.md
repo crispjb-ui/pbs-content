@@ -840,6 +840,127 @@ Copay accumulators: a program that takes the manufacturer's copay assistance, ke
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
+---
+
+### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
+
+> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (polls this week, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump a poll if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Polls: set 1-day duration, put the answer in the first reply. Links in first reply only.
+
+**Mon Aug 24**
+- **+7:00 PM — poll [A14]:**
+```
+When your PBM recommends a drug as "lowest net cost," lowest for whom?
+
+· Our plan
+· The PBM's rebate math
+· Not sure how it's calculated
+· What's net cost?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C1]:**
+```
+Transparency is the word every PBM uses and the thing every PBM contract is built to prevent.
+```
+
+**Tue Aug 25**
+- **+7:00 PM — poll [A15]:**
+```
+A biosimilar launched at a fraction of the brand's price. Is your plan on it?
+
+· Yes, switched
+· No, the PBM still favors the brand
+· Not sure
+· The brand pays a bigger rebate, doesn't it?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B1]:**
+```
+One question that changes the room: "Show me the difference between what you paid the pharmacy and what you billed us, by claim." Watch how long the answer takes.
+```
+
+**Wed Aug 26**
+- **+7:00 PM — poll [A16]:**
+```
+When your covered lives drop, do your PBM admin fees drop with them?
+
+· Yes, they true up
+· No, they stay flat
+· Never checked
+· There's a true-up clause?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C2]:**
+```
+The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+```
+
+**Thu Aug 27**
+- **+7:00 PM — poll [A1]:**
+```
+Does your plan know its generic spread, the gap between what the PBM pays the pharmacy and what it bills you?
+
+· We've measured it
+· We think our broker checks
+· Our PBM says there's no spread
+· What's a spread?
+```
+First reply → `rxbs.org/toolkit/pbm-compensation`
+- **+8:30 PM — one question [B2]:**
+```
+Ask your PBM: "What did you collect in rebates and fees from manufacturers on our plan last year, and how much reached us?" The gap between the two numbers is the conversation.
+```
+
+**Fri Aug 28**
+- **+7:00 PM — poll [A2]:**
+```
+When your PBM says it passes through "100% of rebates," 100% of what?
+
+· What the manufacturer paid
+· What the PBM "received" after its aggregator's cut
+· Not sure, never asked
+· We don't get rebates?
+```
+First reply → `benefitblindspots.substack.com/p/pbm-contract-language-library`
+- **+8:30 PM — origin-anchored (1/week) [D3]:**
+```
+Found a "free implementation" clause this week that turned out to be amortized into twelve months of admin fees. The plan paid for it in full. It just paid in installments under a friendlier label.
+```
+
+**Sat Aug 29**
+- **+7:00 PM — poll [A3]:**
+```
+Pull your specialty claims. What share filled at the PBM's OWN specialty pharmacy?
+
+· Under 25%
+· 25 to 50%
+· Over half
+· We've never pulled that
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C3]:**
+```
+A PBM contract is written in a dialect designed so the person paying the bill can't read it. It isn't complicated. It's hidden on purpose.
+```
+
+**Sun Aug 30**
+- **+7:00 PM — poll [A4]:**
+```
+Your PBM contract says you can audit it. In practice, who picks the auditor and the records?
+
+· We do
+· The PBM does
+· "Mutually agreed" (read: the PBM)
+· We've never tried to audit
+```
+First reply → `benefitblindspots.substack.com/p/pbm-contract-language-library`
+- **+8:30 PM — one question [B3]:**
+```
+Ask your PBM to define "pass-through" in writing, then ask which noun it attaches to: what the manufacturer paid, or what you received. The definition is the whole deal.
+```
+
+> **Evening block content-mix check (14 added posts):** 7 polls (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+
+
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS
 
 ## Checklist

@@ -123,6 +123,72 @@ Could the person who signs your PBM invoice read the contract clause that define
 ```
 First reply → Contract Language Library
 
+**A11 · Manufacturer admin fees**
+```
+Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go?
+
+· Back to our plan
+· Kept by the PBM
+· We've never seen it itemized
+· Manufacturers pay the PBM?
+```
+First reply → Contract Language Library
+
+**A12 · Termination / exit**
+```
+If you wanted to fire your PBM tomorrow, what in the contract slows you down?
+
+· Nothing, clean exit
+· 90 to 180 days notice
+· Transition fees and a data handoff you don't control
+· We've never read the termination clause
+```
+First reply → Contract Language Library
+
+**A13 · GLP-1 formulary driver**
+```
+The GLP-1 your plan covers sits on the formulary mainly because:
+
+· It works best
+· It's lowest net cost
+· It wrote the biggest rebate check
+· We didn't choose, the PBM did
+```
+First reply → Contract Language Library
+
+**A14 · Net cost, for whom**
+```
+When your PBM recommends a drug as "lowest net cost," lowest for whom?
+
+· Our plan
+· The PBM's rebate math
+· Not sure how it's calculated
+· What's net cost?
+```
+First reply → Contract Language Library
+
+**A15 · Biosimilar adoption**
+```
+A biosimilar launched at a fraction of the brand's price. Is your plan on it?
+
+· Yes, switched
+· No, the PBM still favors the brand
+· Not sure
+· The brand pays a bigger rebate, doesn't it?
+```
+First reply → Contract Language Library
+
+**A16 · Admin fee true-up**
+```
+When your covered lives drop, do your PBM admin fees drop with them?
+
+· Yes, they true up
+· No, they stay flat
+· Never checked
+· There's a true-up clause?
+```
+First reply → Contract Language Library
+
 ---
 
 ## B · ONE QUESTION FOR YOUR PBM (8:30 PM close)
@@ -313,4 +379,18 @@ The [FTC action] names the practice. Your contract is where you find out if you'
 | Week | 7 PM items used | 8:30 PM items used |
 |------|-----------------|--------------------|
 | W23 | A1, A4, A6, A3, A8, A2, A5 (all polls — no live news) | C1, B5, C2, B6, D1 (origin), C3, B1 |
-| _next (W24)_ | | |
+| W24 | A8, A9, A10, A11, A12, A13, A14 | C1, B1, C2, B2, D1, C3, B3 |
+| W25 | A15, A16, A1, A2, A3, A4, A5 | C4, B4, C5, B5, D2, C6, B6 |
+| W26 | A6, A7, A8, A9, A10, A11, A12 | C7, B7, C8, B8, D3, C9, B9 |
+| W27 | A13, A14, A15, A16, A1, A2, A3 | C10, B10, C1, B1, D4, C2, B2 |
+| W28 | A4, A5, A6, A7, A8, A9, A10 | C3, B3, C4, B4, D5, C5, B5 |
+| W29 | A11, A12, A13, A14, A15, A16, A1 | C6, B6, C7, B7, D6, C8, B8 |
+| W30 | A2, A3, A4, A5, A6, A7, A8 | C9, B9, C10, B10, D7, C1, B1 |
+| W31 | A9, A10, A11, A12, A13, A14, A15 | C2, B2, C3, B3, D8, C4, B4 |
+| W32 | A16, A1, A2, A3, A4, A5, A6 | C5, B5, C6, B6, D1, C7, B7 |
+| W33 | A7, A8, A9, A10, A11, A12, A13 | C8, B8, C9, B9, D2, C10, B10 |
+| W34 | A14, A15, A16, A1, A2, A3, A4 | C1, B1, C2, B2, D3, C3, B3 |
+| W35 | A5, A6, A7, A8, A9, A10, A11 | C4, B4, C5, B5, D4, C6, B6 |
+| W36 | A12, A13, A14, A15, A16, A1, A2 | C7, B7, C8, B8, D5, C9, B9 |
+| W37 | A3, A4, A5, A6, A7, A8, A9 | C10, B10, C1, B1, D6, C2, B2 |
+| _next (W38)_ | | |

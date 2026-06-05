@@ -902,6 +902,127 @@ Your PBM pays its own mail-order pharmacy a richer dispensing fee than the corne
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
+---
+
+### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
+
+> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (polls this week, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump a poll if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Polls: set 1-day duration, put the answer in the first reply. Links in first reply only.
+
+**Mon Jul 20**
+- **+7:00 PM — poll [A11]:**
+```
+Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go?
+
+· Back to our plan
+· Kept by the PBM
+· We've never seen it itemized
+· Manufacturers pay the PBM?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C6]:**
+```
+"Pass-through" is the most expensive two words in your contract, because of the definition sitting three clauses away.
+```
+
+**Tue Jul 21**
+- **+7:00 PM — poll [A12]:**
+```
+If you wanted to fire your PBM tomorrow, what in the contract slows you down?
+
+· Nothing, clean exit
+· 90 to 180 days notice
+· Transition fees and a data handoff you don't control
+· We've never read the termination clause
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B6]:**
+```
+Ask your PBM: "List every fee on our monthly invoice and the contract section that authorizes each one." The line items with no clause behind them are the ones to cut.
+```
+
+**Wed Jul 22**
+- **+7:00 PM — poll [A13]:**
+```
+The GLP-1 your plan covers sits on the formulary mainly because:
+
+· It works best
+· It's lowest net cost
+· It wrote the biggest rebate check
+· We didn't choose, the PBM did
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C7]:**
+```
+A middleman that owns the pharmacy, sets the price, pays itself, and audits its own books isn't a service you buy. It's a toll road you're required to drive.
+```
+
+**Thu Jul 23**
+- **+7:00 PM — poll [A14]:**
+```
+When your PBM recommends a drug as "lowest net cost," lowest for whom?
+
+· Our plan
+· The PBM's rebate math
+· Not sure how it's calculated
+· What's net cost?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B7]:**
+```
+Ask your PBM: "When our covered lives drop, do our admin fees drop with them?" If there's no true-up clause, you're paying for members you no longer have.
+```
+
+**Fri Jul 24**
+- **+7:00 PM — poll [A15]:**
+```
+A biosimilar launched at a fraction of the brand's price. Is your plan on it?
+
+· Yes, switched
+· No, the PBM still favors the brand
+· Not sure
+· The brand pays a bigger rebate, doesn't it?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — origin-anchored (1/week) [D6]:**
+```
+Opened a rebate report this week that proudly said "100% pass-through." A PBM-owned aggregator had already taken its cut upstream. 100% of what was left is still 100%. The math was honest. The noun wasn't.
+```
+
+**Sat Jul 25**
+- **+7:00 PM — poll [A16]:**
+```
+When your covered lives drop, do your PBM admin fees drop with them?
+
+· Yes, they true up
+· No, they stay flat
+· Never checked
+· There's a true-up clause?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C8]:**
+```
+The PBM didn't lower your drug costs. It moved them to a line you don't read and called the move a discount.
+```
+
+**Sun Jul 26**
+- **+7:00 PM — poll [A1]:**
+```
+Does your plan know its generic spread, the gap between what the PBM pays the pharmacy and what it bills you?
+
+· We've measured it
+· We think our broker checks
+· Our PBM says there's no spread
+· What's a spread?
+```
+First reply → `rxbs.org/toolkit/pbm-compensation`
+- **+8:30 PM — one question [B8]:**
+```
+Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not to clinical evidence?" The honest answer reorders your formulary.
+```
+
+> **Evening block content-mix check (14 added posts):** 7 polls (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+
+
 # PART 5: PUBLISHING CHECKLIST
 
 ## Daily Engagement

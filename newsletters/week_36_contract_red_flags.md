@@ -769,6 +769,127 @@ Mail-order steering: same drug, same dose. Filled at the retail pharmacy, one pr
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
+---
+
+### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
+
+> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (polls this week, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump a poll if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Polls: set 1-day duration, put the answer in the first reply. Links in first reply only.
+
+**Mon Sep 7**
+- **+7:00 PM — poll [A12]:**
+```
+If you wanted to fire your PBM tomorrow, what in the contract slows you down?
+
+· Nothing, clean exit
+· 90 to 180 days notice
+· Transition fees and a data handoff you don't control
+· We've never read the termination clause
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C7]:**
+```
+A middleman that owns the pharmacy, sets the price, pays itself, and audits its own books isn't a service you buy. It's a toll road you're required to drive.
+```
+
+**Tue Sep 8**
+- **+7:00 PM — poll [A13]:**
+```
+The GLP-1 your plan covers sits on the formulary mainly because:
+
+· It works best
+· It's lowest net cost
+· It wrote the biggest rebate check
+· We didn't choose, the PBM did
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B7]:**
+```
+Ask your PBM: "When our covered lives drop, do our admin fees drop with them?" If there's no true-up clause, you're paying for members you no longer have.
+```
+
+**Wed Sep 9**
+- **+7:00 PM — poll [A14]:**
+```
+When your PBM recommends a drug as "lowest net cost," lowest for whom?
+
+· Our plan
+· The PBM's rebate math
+· Not sure how it's calculated
+· What's net cost?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — aphorism [C8]:**
+```
+The PBM didn't lower your drug costs. It moved them to a line you don't read and called the move a discount.
+```
+
+**Thu Sep 10**
+- **+7:00 PM — poll [A15]:**
+```
+A biosimilar launched at a fraction of the brand's price. Is your plan on it?
+
+· Yes, switched
+· No, the PBM still favors the brand
+· Not sure
+· The brand pays a bigger rebate, doesn't it?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — one question [B8]:**
+```
+Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not to clinical evidence?" The honest answer reorders your formulary.
+```
+
+**Fri Sep 11**
+- **+7:00 PM — poll [A16]:**
+```
+When your covered lives drop, do your PBM admin fees drop with them?
+
+· Yes, they true up
+· No, they stay flat
+· Never checked
+· There's a true-up clause?
+```
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **+8:30 PM — origin-anchored (1/week) [D5]:**
+```
+Checked a plan's generic effective rate month by month last week. The annual average hit the guarantee. Eight of twelve months missed it. The averaging clause is where the money hides.
+```
+
+**Sat Sep 12**
+- **+7:00 PM — poll [A1]:**
+```
+Does your plan know its generic spread, the gap between what the PBM pays the pharmacy and what it bills you?
+
+· We've measured it
+· We think our broker checks
+· Our PBM says there's no spread
+· What's a spread?
+```
+First reply → `rxbs.org/toolkit/pbm-compensation`
+- **+8:30 PM — aphorism [C9]:**
+```
+Every fee on your PBM invoice that sounds like a service is worth one question: which clause authorizes it? The silence after that question is the audit.
+```
+
+**Sun Sep 13**
+- **+7:00 PM — poll [A2]:**
+```
+When your PBM says it passes through "100% of rebates," 100% of what?
+
+· What the manufacturer paid
+· What the PBM "received" after its aggregator's cut
+· Not sure, never asked
+· We don't get rebates?
+```
+First reply → `benefitblindspots.substack.com/p/pbm-contract-language-library`
+- **+8:30 PM — one question [B9]:**
+```
+Ask your PBM for your generic effective rate against the contract guarantee, by month. "On average over the year" is where the misses hide.
+```
+
+> **Evening block content-mix check (14 added posts):** 7 polls (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+
+
 # PARTS 5-7
 
 ## Checklist
