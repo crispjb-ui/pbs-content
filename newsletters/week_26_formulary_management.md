@@ -893,239 +893,207 @@ I had a young pharmacist ask me whether she should stay in retail or move into p
 
 # PART 4B: X (TWITTER) POSTS
 
-> **Convention (see `x_account_strategy.md`):** 3 scheduled posts/day + same-hour reactions on top when PBM news breaks. **NOT locked to Monday's formulary topic** — X skews to the Cuban-bait shapes and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention). Hold the PM slot loosely for a live news-reaction bump; tag the source.
+> **Convention (see `x_account_strategy.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour reactions on top when PBM news breaks. **NOT locked to Monday's formulary topic.** X skews to the Cuban-bait shapes and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention). Hold the PM slot loosely for a live news-reaction bump; tag the source.
 >
 > **LinkedIn-first rule (required):** (1) the **Tue "The Formulary Decision You Never Made" Marked-Up Contract Page decoder** publishes Tue (listed 10:00 AM; may revert to 8:30 per the W19 finding) — the Tue PM decoder driver is scheduled AFTER it. (2) the **Thu "5 Rebate Retention Terms Decoded" messy infographic** publishes Thu — its specific term-set does NOT appear in Mon-Wed slots; the Thu midday amplifier runs AFTER the Thu publish. AM slots lead with the named-adversary shape.
 >
 > **Holiday note:** this week spans the **July 4 weekend** (Fri Jul 3 / Sat Jul 4 / Sun Jul 5). Per CLAUDE.md this is a documented slow window. Keep the scheduled posts (X news/evergreen content runs fine on holidays), but lighten the amplifier patrol and soften the Sat Jul 4 morning post off hard adversary framing. No politics on the holiday; profession-identity and affordability framing only.
 
 **Mon Jun 29**
-- **AM — named-adversary / channel-pricing (proven W21 template, "preferred" framing):**
+- **8:00 AM · named-adversary / channel-pricing (proven W21 template, "preferred" framing):**
 ```
 Same brand drug, same dose. Your PBM lists it "preferred" for one plan and "excluded" for another. The clinical profile didn't change between them. The rebate deal did. "Preferred" is a price, not a recommendation.
 ```
-- **Midday — decoder (formulary tiering):**
+- **12:00 PM · decoder (formulary tiering):**
 ```
 A "formulary" is just your covered-drug list. The part nobody flags: in most contracts the PBM can move a drug to a worse tier mid-year to chase a richer rebate, and your members absorb it as a surprise denial or a higher copay.
 ```
-- **PM — punchy:**
+- **5:00 PM · punchy:**
 ```
 You think your formulary is a clinical document built by pharmacists. It's a revenue document built by a PBM, with a pharmacist's signature borrowed for cover.
 ```
-
-**Tue Jun 30**
-- **AM — dollar comparison (copay vs cash):**
-```
-Your member's drug: $300 copay through the plan. $80 cash with a coupon the PBM never mentions. The PBM makes nothing on the $80 version, so your member never hears about it. The expensive path is the only one the system lights up.
-```
-- **Midday — structural / news-adjacent (hold for a reactive bump):**
-```
-Every few months a state passes a law reining in PBM formulary games, and the PBM sues to block it. They don't litigate over things that don't make money. The lawsuits are a map of where the margin is.
-```
-- **PM — Tue decoder driver (Marked-Up Contract Page — SCHEDULE AFTER the Tue LinkedIn post publishes):**
-```
-The formulary decision you never made: somewhere in your contract is a clause letting your PBM change your drug list to fit its rebate strategy, no plan-sponsor sign-off required. You delegated your drug list and didn't know it was on the form.
-```
-  - **First reply (link):**
-```
-The contract language that puts formulary control back with the plan sponsor is in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
-```
-
-**Wed Jul 1**
-- **AM — named-adversary / rebate retention (general — protects Thursday's specific term-set):**
-```
-Your PBM keeps a slice of every manufacturer rebate and calls the rest "pass-through." The slice wears a dozen names in the contract: administrative allowance, rebate processing fee, market-share payment. Different labels, same hand in the same pocket.
-```
-- **Midday — decoder (rebate vs discount):**
-```
-"Rebate" and "discount" are not the same word, and the difference is where your money goes. A discount lowers what your plan pays at the counter. A rebate is paid later, to the PBM, and only partly to you. PBMs prefer rebates for a reason: they sit in the middle of them.
-```
-- **PM — stat-shock / structural:**
-```
-Drug list prices have roughly doubled over a decade while net prices stayed flatter. The gap didn't vanish. It got captured by the middlemen sitting between list and net. Your formulary is built to keep that gap wide.
-```
-
-**Thu Jul 2**
-- **AM — named-adversary / formulary swap (protects the Thursday reveal):**
-```
-Your PBM excluded a drug your member was stable on, citing "formulary management." The replacement isn't better. It just pays a bigger rebate. Your member's working therapy got swapped for the PBM's preferred revenue. That's not management. It's a sale, and your member is the inventory.
-```
-- **Midday — Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: 5 Rebate Retention Terms Decoded messy infographic]`:**
-```
-Five places your PBM retains rebate money before "pass-through" even begins. Five terms in your contract that authorize it. Most plan sponsors have never read any of them, because they sound like services. Today's decode:
-```
-  - **First reply (link):**
-```
-The field note walks through what to do once you can read these terms: [paste live Field Note URL after Thu 7:30 AM publish]
-```
-- **PM — punchy:**
-```
-The fastest way to find your PBM's profit is to read your contract for every word that ends in "fee" or "allowance" and ask what service it actually bought.
-```
-
-**Fri Jul 3** (July 4 eve — news/evergreen content runs fine; after the Friday tease publishes)
-- **AM — named-adversary / specialty concentration:**
-```
-Pull your top 10 drugs by spend. Odds are most are specialty, most run through the PBM's own specialty pharmacy, and most carry a rebate your plan only partly sees. Your biggest costs and your biggest blind spots are the same line items.
-```
-- **Midday — decoder (specialty definition):**
-```
-"Specialty drug" has no fixed clinical definition. It's whatever your PBM's contract says it is, and the specialty bucket usually carries the weakest pricing guarantee. So the PBM has every reason to define more of your drugs as "specialty." Watch the list grow.
-```
-- **PM — punchy / forward (light pre-holiday; teases W27):**
-```
-One question reveals everything about your PBM: "Show me, in writing, every dollar you make on our plan." The contract that can't answer that cleanly is the answer.
-```
-
-**Sat Jul 4** (holiday — lighter, softened off hard adversary)
-- **AM — profession-identity (guardrail-safe, not adversarial):**
-```
-Independence Day. Worth remembering that nobody filling a prescription today is thinking about rebate aggregators or spread pricing. They just want the medicine to be affordable. That's the whole job, on both sides of the counter.
-```
-- **Midday — decoder (light, holiday-weekend pace):**
-```
-A simple one for the long weekend: "net cost" is what your plan actually pays after every rebate and fee nets out. It's the only number that matters, and it's the one most PBM reports are built to avoid showing you in a single place.
-```
-- **PM — punchy:**
-```
-Affordable medicine shouldn't require a forensic accountant. The fact that auditing your own drug spend takes one tells you who designed the system.
-```
-
-**Sun Jul 5**
-- **AM — recipe / rebate aggregator (Tier A weekend Cuban-bait):**
-```
-Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
-```
-  - **First reply (link):** rxbs.org/toolkit/rebate-report-audit
-- **Midday — decoder + GLP-1 amplifier:**
-```
-GLP-1 demand is rewriting every plan's pharmacy budget. Your PBM's formulary pick among them is a rebate decision dressed as a clinical one. Ask for the rebate figure behind the "preferred" choice. You're entitled to know what's steering your largest new cost.
-```
-- **PM — origin (the one allowed this week):**
-```
-Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me why the medicine costs what it does. The second lesson wasn't in any textbook. It was in the fine print nobody at the counter ever got to see.
-```
-
-> **Content-mix check (21 posts):** ~7-8 named-adversary / dollar-comparison ≈ 40% ✓ · ~6 decoders ✓ · ~3 structural/synthesis (news reactions additive) ✓ · ~3 punchy · 1 origin (Sun PM, capped) ✓ · 1 holiday profession-identity (Sat AM, in place of hard adversary). Tue decoder driver and Thursday rebate-retention amplifier both after publish; GLP-1 amplifier Sun Midday.
-
-## Same-hour reaction log — W26 (fill as news breaks)
-
-_No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag the source. Lighter patrol over the July 4 weekend. Straight reply to engage an amplifier; quote-post for a standalone take. Log method, views, and amplification events (like-only vs. repost/quote)._
-
----
-
-### Weekend cadence add-ons (5/day) — paste-ready
-
-Add these 4 Tier A posts to the existing weekend schedule (8 AM / 12 PM / 5 PM already in the Sat/Sun blocks above) so each weekend day runs 5 posts, Tier A front-loaded for the Cuban-active window, staggered ~2 hrs apart. All times ET. First reply on each routes to the Contract Language Library. **(W26 note: if you keep July 4 light, run only the Sun adds.)**
-
-**Sat Jul 4 +10:00 AM — copay maximizer vendor (SaveOnSP-style) (Tier A):**
-```
-There's a vendor whose entire job is to reclassify your member's specialty drug as "non-essential" so the manufacturer's copay cap comes off, then drain the full year of assistance to the PBM. It's a program with a name and a contract. Ask if one is bolted onto your plan.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
-**Sat Jul 4 +2:30 PM — brown bagging (Tier A):**
-```
-Brown bagging: your PBM has the specialty drug shipped to the member, who carries it into the clinic. Sounds convenient. It moves the storage risk to the patient and the billing to a pharmacy the PBM owns. Ask who profits from the hand-off, and who eats it if the drug spoils.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
-**Sun Jul 5 +10:00 AM — step therapy (fail-first) (Tier A):**
-```
-Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
-**Sun Jul 5 +2:30 PM — specialty exclusive distribution (Tier A):**
-```
-Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
-```
-First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-
----
-
-### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
-
-> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (a confrontational question post, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump it if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Links in first reply only.
-
-**Mon Jun 29**
-- **+7:00 PM — question post [A6]:**
+- **7:00 PM · question post [A6]:**
 ```
 Where does your PBM make the most money on a single prescription? Not the dispensing fee. The spread on the price, the rebate on the list, and the fee on the claim, all at once. You were sold one of the three. The contract contains all three.
 ```
-First reply → Map all three on your own plan: rxbs.org/toolkit/pbm-compensation
-- **+8:30 PM — aphorism [C7]:**
+  First reply → Map all three on your own plan: rxbs.org/toolkit/pbm-compensation
+- **8:30 PM · aphorism [C7]:**
 ```
 A middleman that owns the pharmacy, sets the price, pays itself, and audits its own books isn't a service you buy. It's a toll road you're required to drive.
 ```
 
 **Tue Jun 30**
-- **+7:00 PM — question post [A7]:**
+- **8:00 AM · dollar comparison (copay vs cash):**
+```
+Your member's drug: $300 copay through the plan. $80 cash with a coupon the PBM never mentions. The PBM makes nothing on the $80 version, so your member never hears about it. The expensive path is the only one the system lights up.
+```
+- **12:00 PM · structural / news-adjacent (hold for a reactive bump):**
+```
+Every few months a state passes a law reining in PBM formulary games, and the PBM sues to block it. They don't litigate over things that don't make money. The lawsuits are a map of where the margin is.
+```
+- **5:00 PM · Tue decoder driver (Marked-Up Contract Page; SCHEDULE AFTER the Tue LinkedIn post publishes):**
+```
+The formulary decision you never made: somewhere in your contract is a clause letting your PBM change your drug list to fit its rebate strategy, no plan-sponsor sign-off required. You delegated your drug list and didn't know it was on the form.
+```
+  First reply (link):
+```
+The contract language that puts formulary control back with the plan sponsor is in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+```
+- **7:00 PM · question post [A7]:**
 ```
 Is the drug on your formulary there because it works best, or because it paid the biggest rebate to sit there? For too many plans the honest answer is the second one, and the net cost analysis proves it.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — one question [B7]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · one question [B7]:**
 ```
 Ask your PBM: "When our covered lives drop, do our admin fees drop with them?" If there's no true-up clause, you're paying for members you no longer have.
 ```
 
 **Wed Jul 1**
-- **+7:00 PM — question post [A8]:**
+- **8:00 AM · named-adversary / rebate retention (general; protects Thursday's specific term-set):**
+```
+Your PBM keeps a slice of every manufacturer rebate and calls the rest "pass-through." The slice wears a dozen names in the contract: administrative allowance, rebate processing fee, market-share payment. Different labels, same hand in the same pocket.
+```
+- **12:00 PM · decoder (rebate vs discount):**
+```
+"Rebate" and "discount" are not the same word, and the difference is where your money goes. A discount lowers what your plan pays at the counter. A rebate is paid later, to the PBM, and only partly to you. PBMs prefer rebates for a reason: they sit in the middle of them.
+```
+- **5:00 PM · stat-shock / structural:**
+```
+Drug list prices have roughly doubled over a decade while net prices stayed flatter. The gap didn't vanish. It got captured by the middlemen sitting between list and net. Your formulary is built to keep that gap wide.
+```
+- **7:00 PM · question post [A8]:**
 ```
 It is mid-year. Who has a renewal model built on your H1 claims right now? Your PBM does. If your plan does not, the renewal is already half-decided before the first meeting.
 ```
-First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
-- **+8:30 PM — aphorism [C8]:**
+  First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
+- **8:30 PM · aphorism [C8]:**
 ```
 The PBM didn't lower your drug costs. It moved them to a line you don't read and called the move a discount.
 ```
 
 **Thu Jul 2**
-- **+7:00 PM — question post [A9]:**
+- **8:00 AM · named-adversary / formulary swap (protects the Thursday reveal):**
+```
+Your PBM excluded a drug your member was stable on, citing "formulary management." The replacement isn't better. It just pays a bigger rebate. Your member's working therapy got swapped for the PBM's preferred revenue. That's not management. It's a sale, and your member is the inventory.
+```
+- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: 5 Rebate Retention Terms Decoded messy infographic]`:**
+```
+Five places your PBM retains rebate money before "pass-through" even begins. Five terms in your contract that authorize it. Most plan sponsors have never read any of them, because they sound like services. Today's decode:
+```
+  First reply (link):
+```
+The field note walks through what to do once you can read these terms: [paste live Field Note URL after Thu 7:30 AM publish]
+```
+- **5:00 PM · punchy:**
+```
+The fastest way to find your PBM's profit is to read your contract for every word that ends in "fee" or "allowance" and ask what service it actually bought.
+```
+- **7:00 PM · question post [A9]:**
 ```
 Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — one question [B8]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · one question [B8]:**
 ```
 Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not to clinical evidence?" The honest answer reorders your formulary.
 ```
 
-**Fri Jul 3**
-- **+7:00 PM — question post [A10]:**
+**Fri Jul 3** (July 4 eve — news/evergreen content runs fine; after the Friday tease publishes)
+- **8:00 AM · named-adversary / specialty concentration:**
+```
+Pull your top 10 drugs by spend. Odds are most are specialty, most run through the PBM's own specialty pharmacy, and most carry a rebate your plan only partly sees. Your biggest costs and your biggest blind spots are the same line items.
+```
+- **12:00 PM · decoder (specialty definition):**
+```
+"Specialty drug" has no fixed clinical definition. It's whatever your PBM's contract says it is, and the specialty bucket usually carries the weakest pricing guarantee. So the PBM has every reason to define more of your drugs as "specialty." Watch the list grow.
+```
+- **5:00 PM · punchy / forward (light pre-holiday; teases W27):**
+```
+One question reveals everything about your PBM: "Show me, in writing, every dollar you make on our plan." The contract that can't answer that cleanly is the answer.
+```
+- **7:00 PM · question post [A10]:**
 ```
 Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — origin-anchored (1/week) [D3]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · origin-anchored (1/week) [D3]:**
 ```
 Found a "free implementation" clause this week that turned out to be amortized into twelve months of admin fees. The plan paid for it in full. It just paid in installments under a friendlier label.
 ```
 
-**Sat Jul 4**
-- **+7:00 PM — question post [A11]:**
+**Sat Jul 4** (holiday — lighter, softened off hard adversary)
+- **8:00 AM · profession-identity (guardrail-safe, not adversarial):**
+```
+Independence Day. Worth remembering that nobody filling a prescription today is thinking about rebate aggregators or spread pricing. They just want the medicine to be affordable. That's the whole job, on both sides of the counter.
+```
+- **10:00 AM · copay maximizer vendor (SaveOnSP-style) (Tier A):**
+```
+There's a vendor whose entire job is to reclassify your member's specialty drug as "non-essential" so the manufacturer's copay cap comes off, then drain the full year of assistance to the PBM. It's a program with a name and a contract. Ask if one is bolted onto your plan.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **12:00 PM · decoder (light, holiday-weekend pace):**
+```
+A simple one for the long weekend: "net cost" is what your plan actually pays after every rebate and fee nets out. It's the only number that matters, and it's the one most PBM reports are built to avoid showing you in a single place.
+```
+- **2:30 PM · brown bagging (Tier A):**
+```
+Brown bagging: your PBM has the specialty drug shipped to the member, who carries it into the clinic. Sounds convenient. It moves the storage risk to the patient and the billing to a pharmacy the PBM owns. Ask who profits from the hand-off, and who eats it if the drug spoils.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **5:00 PM · punchy:**
+```
+Affordable medicine shouldn't require a forensic accountant. The fact that auditing your own drug spend takes one tells you who designed the system.
+```
+- **7:00 PM · question post [A11]:**
 ```
 Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go: back to your plan, or kept by the PBM? On most contracts it is kept, and it is rarely itemized anywhere you would see it.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — aphorism [C9]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · aphorism [C9]:**
 ```
 Every fee on your PBM invoice that sounds like a service is worth one question: which clause authorizes it? The silence after that question is the audit.
 ```
 
 **Sun Jul 5**
-- **+7:00 PM — question post [A12]:**
+- **8:00 AM · recipe / rebate aggregator (Tier A weekend Cuban-bait):**
+```
+Rebate aggregators: a company your PBM owns that skims every manufacturer rebate before the "pass-through" even starts. Your contract still says 100%. 100% of whatever's left after the PBM paid itself first. One definition away from the truth.
+```
+  First reply (link): rxbs.org/toolkit/rebate-report-audit
+- **10:00 AM · step therapy (fail-first) (Tier A):**
+```
+Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **12:00 PM · decoder + GLP-1 amplifier:**
+```
+GLP-1 demand is rewriting every plan's pharmacy budget. Your PBM's formulary pick among them is a rebate decision dressed as a clinical one. Ask for the rebate figure behind the "preferred" choice. You're entitled to know what's steering your largest new cost.
+```
+- **2:30 PM · specialty exclusive distribution (Tier A):**
+```
+Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
+```
+  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+- **5:00 PM · origin (the one allowed this week):**
+```
+Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me why the medicine costs what it does. The second lesson wasn't in any textbook. It was in the fine print nobody at the counter ever got to see.
+```
+- **7:00 PM · question post [A12]:**
 ```
 If you wanted to fire your PBM tomorrow, what in the contract slows you down? Notice periods, transition fees, a data handoff you do not control. Most plans never read the termination clause until the day they need it.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **+8:30 PM — one question [B9]:**
+  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+- **8:30 PM · one question [B9]:**
 ```
 Ask your PBM for your generic effective rate against the contract guarantee, by month. "On average over the year" is where the misses hide.
 ```
 
-> **Evening block content-mix check (14 added posts):** 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+> **Content-mix check (35 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: ~7-8 named-adversary / dollar-comparison ≈ 40% ✓ · ~6 decoders ✓ · ~3 structural/synthesis (news reactions additive) ✓ · ~3 punchy · 1 origin (Sun 5 PM, capped) ✓ · 1 holiday profession-identity (Sat 8 AM, in place of hard adversary). Weekend Tier-A Cuban-bait: 4 (Sat 10 AM + 2:30 PM, Sun 10 AM + 2:30 PM; if you keep July 4 light, run only the Sun adds) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (Fri 8:30 PM, capped) ✓. Tue decoder driver and Thursday rebate-retention amplifier both after publish; GLP-1 amplifier (Sun 12 PM) present. Newsjack/bridge (E/F) held for reactive bumps. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
+
+## Same-hour reaction log — W26 (fill as news breaks)
+
+_No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag the source. Lighter patrol over the July 4 weekend. Straight reply to engage an amplifier; quote-post for a standalone take. Log method, views, and amplification events (like-only vs. repost/quote)._
 
 
 # PART 5: PUBLISHING CHECKLIST
