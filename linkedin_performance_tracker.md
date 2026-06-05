@@ -107,6 +107,8 @@ _The Apr 24 ranking tables above are a preserved snapshot; new top-tier posts ar
 
 **Week takeaway (early June 2026):** one confrontational named-adversary decoder (the offshore-GPO rebate reveal) did ~66% of the week's total LinkedIn reach; every informational/educational post landed under 1.5K. Clean in-week proof of the confrontation-vs-information gap. **Summer slowdown is real** (the non-breakout floor ran 779-3,546, below the documented 5-15K non-amplified floor), **but a genuinely-shocking unknown-fact reveal still cleared 17.8K.** The season lowers the floor; the hook still clears it. Drafting implication: lean harder into named-adversary + shocking-unknown-fact reveals through Jun-Aug, not lighter. Substack side same week: every post beat the 44-view baseline (Biosimilar Mon 93, Roundup Wed 73, Specialty Thu 72), +3 free subs, 2 free traceable to the LinkedIn first-comment, ~75-85% email-driven traffic.
 
+**Channel totals (as of June 5, 2026):** **2,040 LinkedIn followers** (was 1,903 on May 25, +137), **1,017 LinkedIn newsletter subscribers** (crossed 1,000; was 930 on May 25, +87), **97 Substack subscribers, 2 paid** (was ~80 / 1 paid on May 25). The newsletter clearing 1,000 and the second paid Substack sub both landed in the early-June window that included the offshore-GPO breakout (+18 followers on that post alone). Follower → newsletter auto-prompt funnel continues to convert: LinkedIn +137 ↔ newsletter +87 over the same ~11 days.
+
 ### Performance by Format (All-Time Averages)
 
 | Format | Posts | Avg Impressions | Avg Reactions | Avg Comments | Avg Saves | Avg Followers |
