@@ -455,17 +455,15 @@ Ginny Crisp walks through how to tell which is which.
 #### Post Copy
 
 ```
-Specialty drives the majority of your pharmacy spend on a single-digit share of prescriptions. It is also the part of your benefit plan with the least independent oversight.
+Pull your specialty claims and sort them by which pharmacy filled them. In most plans we review, well over half ran through a specialty pharmacy the PBM owns. No member chose that. The PBM's prior-authorization and network rules chose it for them.
 
-Your PBM manages specialty routing, the specialty formulary, the authorization criteria, and the savings methodology. In many cases, they also own the specialty pharmacy that fills the prescriptions.
+Specialty is a single-digit share of your prescriptions and the majority of your pharmacy spend. It is also the part of the plan with the least independent oversight, and the PBM controls every lever: the routing, the specialty formulary, the authorization criteria, the savings methodology, and in many cases the pharmacy that dispenses the drug.
 
-At no point in that chain does the employer's cost objective enter the equation unless the contract requires it. The routing was designed for PBM economics. The formulary reflects rebate negotiations. The authorization criteria were set by the PBM's clinical team. The savings report uses the PBM's methodology.
+At no point in that chain does the employer's cost objective enter the equation unless the contract requires it. The routing was designed for PBM economics. The formulary reflects rebate negotiations. The criteria were set by the PBM's clinical team. The savings report uses the PBM's own math.
 
-I am not saying PBMs do a poor job managing specialty. Many have strong clinical programs. But when the same entity manages, dispenses, and reports on a drug category that represents the majority of your pharmacy spend, independent oversight is not optional. It is fiduciary.
+I am not saying PBMs manage specialty poorly. Many have strong clinical programs. But when one entity routes, dispenses, and reports on the category that drives most of your spend, independent oversight is not optional. It is fiduciary.
 
-Eight levers determine whether specialty cost is controlled: formulary management, site-of-care, step therapy, biosimilar adoption, limited distribution access, copay programs, clinical pathways, and reauthorization. Most plans we review have strong positions on two or three. Gaps on the rest.
-
-The gap compounds every quarter on every authorization that runs on autopilot and every biosimilar that sits at non-preferred tier.
+Eight levers determine whether specialty cost is controlled: formulary, site-of-care, step therapy, biosimilar adoption, limited-distribution access, copay programs, clinical pathways, and reauthorization. Most plans we review are strong on two or three. The gaps compound every quarter, on every authorization that runs on autopilot and every biosimilar parked at non-preferred tier.
 
 Start with one question: which of the eight levers has the largest gap on your plan?
 ```
