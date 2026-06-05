@@ -219,7 +219,7 @@ Your PBM's rebates may run through a group purchasing organization it owns, ofte
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
-> **Top-tier shape.** The LinkedIn version of this reveal ("Your PBM passes through 100% of manufacturer rebates. The rebate aggregator does not have to.") hit **17,816 impressions / 40 comments / 33 saves / 18 followers** in early June 2026, roughly 10x the same week's informational posts and clearing the summer-slowdown floor. This is the **genuinely-unknown structural-fact reveal** (offshore rebate aggregators/GPOs: the real entities are Ascent, Emisar, Zinc). Prioritize it for AM amplifier-window and weekend Tier A slots. The lever is the shock of a fact the audience truly did not know, so rotate to the next genuinely-unknown one as spread/DIR become common knowledge. See CLAUDE.md "Best-kept secret" pattern.
+> **Top-tier shape.** The LinkedIn version of this reveal ("Your PBM passes through 100% of manufacturer rebates. The rebate aggregator does not have to.") hit **17,816 impressions / 40 comments / 33 saves / 18 followers** in early June 2026, roughly 10x the same week's informational posts and clearing the summer-slowdown floor, **fully organic with no Cuban or amplifier** (so 17.8K is the organic ceiling for the shape in a slow season). This is the **genuinely-unknown structural-fact reveal** (offshore rebate aggregators/GPOs: the real entities are Ascent, Emisar, Zinc). Prioritize it for AM amplifier-window and weekend Tier A slots. The lever is the shock of a fact the audience truly did not know, so rotate to the next genuinely-unknown one as spread/DIR become common knowledge. See CLAUDE.md "Best-kept secret" pattern.
 
 **21. Price Protection Reclassification**
 ```
