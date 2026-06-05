@@ -12,46 +12,46 @@
 | Mon Aug 17 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
 | Mon Aug 17 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Mon Aug 17 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Aug 17 | 7:00 PM | X (Twitter) | poll [A7] | [ ] |
+| Mon Aug 17 | 7:00 PM | X (Twitter) | question post [A7] | [ ] |
 | Mon Aug 17 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
 | Tue Aug 18 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
 | Tue Aug 18 | 10:00 AM | LinkedIn Feed | Post 121 - "Five Clauses That Anchor Q4 Broker Conversations" Library 05 Contract Comparison Carousel (different pillar) | [ ] |
 | Tue Aug 18 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Tue Aug 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Aug 18 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Tue Aug 18 | 7:00 PM | X (Twitter) | question post [A8] | [ ] |
 | Tue Aug 18 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
 | Wed Aug 19 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
 | Wed Aug 19 | 10:00 AM | LinkedIn Feed | Post 122 - Strong POV TEXT (~230 words) | [ ] |
 | Wed Aug 19 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Wed Aug 19 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Aug 19 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Wed Aug 19 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
 | Wed Aug 19 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
 | Thu Aug 20 | 7:30 AM | Substack | Field Note: "Provider Communication: The Step Most Plans Skip" | [ ] |
 | Thu Aug 20 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
 | Thu Aug 20 | 10:00 AM | LinkedIn Feed | Post 123 - Same benefit change. Different messaging. Different uptake. (Carousel, Slot B evergreen rotation) | [ ] |
 | Thu Aug 20 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Thu Aug 20 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Aug 20 | 7:00 PM | X (Twitter) | poll [A10] | [ ] |
+| Thu Aug 20 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
 | Thu Aug 20 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
 | Fri Aug 21 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
 | Fri Aug 21 | 10:00 AM | LinkedIn Feed | Post 124 - Tease Hook (teases Week 34) | [ ] |
 | Fri Aug 21 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Fri Aug 21 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Aug 21 | 7:00 PM | X (Twitter) | poll [A11] | [ ] |
+| Fri Aug 21 | 7:00 PM | X (Twitter) | question post [A11] | [ ] |
 | Fri Aug 21 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D2] | [ ] |
 | Sat Aug 22 | 8:00 AM | X (Twitter) | recipe / Copay accumulator (Tier A weekend Cuban-bait) | [ ] |
 | Sat Aug 22 | 10:00 AM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
 | Sat Aug 22 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Sat Aug 22 | 2:30 PM | X (Twitter) | NADAC/MAC arbitrage (Tier A) | [ ] |
 | Sat Aug 22 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Aug 22 | 7:00 PM | X (Twitter) | poll [A12] | [ ] |
+| Sat Aug 22 | 7:00 PM | X (Twitter) | question post [A12] | [ ] |
 | Sat Aug 22 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
 | Sun Aug 23 | 8:00 AM | X (Twitter) | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
 | Sun Aug 23 | 10:00 AM | X (Twitter) | copay maximizer (Tier A) | [ ] |
 | Sun Aug 23 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Sun Aug 23 | 2:30 PM | X (Twitter) | GPO offshore rebate routing (Tier A) | [ ] |
 | Sun Aug 23 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Aug 23 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Sun Aug 23 | 7:00 PM | X (Twitter) | question post [A13] | [ ] |
 | Sun Aug 23 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
 
 ---
@@ -913,17 +913,12 @@ First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
 ### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
 
-> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (polls this week, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump a poll if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Polls: set 1-day duration, put the answer in the first reply. Links in first reply only.
+> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (a confrontational question post, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump it if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Links in first reply only.
 
 **Mon Aug 17**
-- **+7:00 PM — poll [A7]:**
+- **+7:00 PM — question post [A7]:**
 ```
-The drug on your formulary is there mostly because:
-
-· It works best
-· It's cheapest net
-· It paid the biggest rebate to be there
-· I assumed reason 1
+Is the drug on your formulary there because it works best, or because it paid the biggest rebate to sit there? For too many plans the honest answer is the second one, and the net cost analysis proves it.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — aphorism [C8]:**
@@ -932,30 +927,20 @@ The PBM didn't lower your drug costs. It moved them to a line you don't read and
 ```
 
 **Tue Aug 18**
-- **+7:00 PM — poll [A8]:**
+- **+7:00 PM — question post [A8]:**
 ```
-It's mid-year. Who has a renewal model built on your H1 claims right now?
-
-· We do
-· Our broker does
-· Only the PBM does
-· What renewal model?
+It is mid-year. Who has a renewal model built on your H1 claims right now? Your PBM does. If your plan does not, the renewal is already half-decided before the first meeting.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
 - **+8:30 PM — one question [B8]:**
 ```
 Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not to clinical evidence?" The honest answer reorders your formulary.
 ```
 
 **Wed Aug 19**
-- **+7:00 PM — poll [A9]:**
+- **+7:00 PM — question post [A9]:**
 ```
-Has your plan ever seen what the PBM clawed back from pharmacies (DIR) and how much reached you?
-
-· Yes, it's in our report
-· No, never itemized
-· Our PBM says there's none
-· What's DIR?
+Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — aphorism [C9]:**
@@ -964,14 +949,9 @@ Every fee on your PBM invoice that sounds like a service is worth one question: 
 ```
 
 **Thu Aug 20**
-- **+7:00 PM — poll [A10]:**
+- **+7:00 PM — question post [A10]:**
 ```
-Could the person who signs your PBM invoice read the contract clause that defines what they're paying for?
-
-· Easily
-· With effort
-· No, it's written to be unreadable
-· We've never tried
+Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — one question [B9]:**
@@ -980,14 +960,9 @@ Ask your PBM for your generic effective rate against the contract guarantee, by 
 ```
 
 **Fri Aug 21**
-- **+7:00 PM — poll [A11]:**
+- **+7:00 PM — question post [A11]:**
 ```
-Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go?
-
-· Back to our plan
-· Kept by the PBM
-· We've never seen it itemized
-· Manufacturers pay the PBM?
+Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go: back to your plan, or kept by the PBM? On most contracts it is kept, and it is rarely itemized anywhere you would see it.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — origin-anchored (1/week) [D2]:**
@@ -996,14 +971,9 @@ Pulled a client's specialty claims this month and sorted by filling pharmacy. Mo
 ```
 
 **Sat Aug 22**
-- **+7:00 PM — poll [A12]:**
+- **+7:00 PM — question post [A12]:**
 ```
-If you wanted to fire your PBM tomorrow, what in the contract slows you down?
-
-· Nothing, clean exit
-· 90 to 180 days notice
-· Transition fees and a data handoff you don't control
-· We've never read the termination clause
+If you wanted to fire your PBM tomorrow, what in the contract slows you down? Notice periods, transition fees, a data handoff you do not control. Most plans never read the termination clause until the day they need it.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — aphorism [C10]:**
@@ -1012,14 +982,9 @@ First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
 **Sun Aug 23**
-- **+7:00 PM — poll [A13]:**
+- **+7:00 PM — question post [A13]:**
 ```
-The GLP-1 your plan covers sits on the formulary mainly because:
-
-· It works best
-· It's lowest net cost
-· It wrote the biggest rebate check
-· We didn't choose, the PBM did
+The GLP-1 your plan covers: is it on the formulary because it works best, or because it wrote the biggest rebate check? The drug that paid to be there is usually the one on the list.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — one question [B10]:**
@@ -1027,7 +992,7 @@ First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 Ask your PBM: "If we wanted to leave, what in this contract makes it expensive or slow?" The termination and transition language is the leash. Read it before you need it.
 ```
 
-> **Evening block content-mix check (14 added posts):** 7 polls (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+> **Evening block content-mix check (14 added posts):** 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
 
 
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS

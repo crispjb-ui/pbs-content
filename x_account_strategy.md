@@ -117,7 +117,7 @@ Evening (after ~5 PM ET) is a documented high-attention window for PBM content o
 | Slot | Time (ET) | Job | Source bank |
 |------|-----------|-----|-------------|
 | PM anchor | ~5:00 PM | the day's heavy hitter: named-adversary / recipe-bank extraction post (Cuban-bait) | `x_recipe_post_bank.md` |
-| Evening interactive | ~7:00 PM | the engagement driver: a poll, a news-to-contract bridge, or a newsjack of an adjacent viral medical-bill / drug-price post | `x_evening_block_bank.md` |
+| Evening interactive | ~7:00 PM | the engagement driver: a confrontational question post, a news-to-contract bridge, or a newsjack of an adjacent viral medical-bill / drug-price post | `x_evening_block_bank.md` |
 | Evening close | ~8:30 PM | the sharp close: a decoder aphorism, a "one question for your PBM," or (max once/week) an origin-anchored field note | `x_evening_block_bank.md` |
 
 This takes weekdays from 3 to 5 posts/day and weekends (which already carry 2 Tier A add-ons) to 6-7/day. Total ~35 scheduled posts/week.
@@ -125,7 +125,7 @@ This takes weekdays from 3 to 5 posts/day and weekends (which already carry 2 Ti
 **New angles the evening block deploys (all defined with starter copy in `x_evening_block_bank.md`):**
 - **Newsjack adjacent virality (net-new).** Quote-post the PBM mechanism under a viral *consumer* medical-bill / drug-price post, not just PBM-source news. Sympathize with the patient; name the PBM structure that produced the price. Evening is when those consumer posts peak. Ally-positive only, never "you overpaid."
 - **News → contract one-two punch (net-new).** Morning reacts to the PBM headline; the 7 PM evening post decodes the contract clause the story is actually about.
-- **Polls (net-new).** Interactive and algorithm-favored. The throwaway "what's a spread?"-style option is the hook; the reveal goes in the first reply.
+- **Question posts (net-new).** A confrontational question to the audience as schedulable plain text (X polls cannot be pre-scheduled, so the poll mechanic is out). Pose the question, land the reveal, invite a reply; the reveal and any link go in the first reply.
 - **One question for your PBM (net-new, evergreen).** A single actionable question per post. Plan-sponsor-actionable, repostable.
 - **Origin-anchored field note (net-new — NOT an origin story).** A first-person, in-the-room proof atom welded to a confrontational decode ("Reviewed a contract last week where 'pass-through' had a definition three clauses away that undid it. Read your nouns."). Captures origin's unfakeable-authority payload in the shape X rewards. **Caps at one evening-close slot per week.** Distinct from a true origin story, which stays the Substack Notes format (≤1×/week on X, where it underperforms).
 

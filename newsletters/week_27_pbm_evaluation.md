@@ -14,7 +14,7 @@
 | Mon Jul 6 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Mon Jul 6 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Mon Jul 6 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Mon Jul 6 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Mon Jul 6 | 7:00 PM | X (Twitter) | question post [A13] | [ ] |
 | Mon Jul 6 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
 | Tue Jul 7 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
 | Tue Jul 7 | 10:00 AM | LinkedIn Feed | Post 97 - "Five Reporting Clauses That Let You Actually Run the PBM Review" Library 04 Contract Comparison Carousel (different pillar) | [ ] |
@@ -22,14 +22,14 @@
 | Tue Jul 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Tue Jul 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 97 | [ ] |
 | Tue Jul 7 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Jul 7 | 7:00 PM | X (Twitter) | poll [A14] | [ ] |
+| Tue Jul 7 | 7:00 PM | X (Twitter) | question post [A14] | [ ] |
 | Tue Jul 7 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
 | Wed Jul 8 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
 | Wed Jul 8 | 10:00 AM | LinkedIn Feed | Post 98 - "Switching PBMs is disruptive. Staying with the wrong one is expensive." Strong POV (TEXT) | [ ] |
 | Wed Jul 8 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Wed Jul 8 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Wed Jul 8 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Jul 8 | 7:00 PM | X (Twitter) | poll [A15] | [ ] |
+| Wed Jul 8 | 7:00 PM | X (Twitter) | question post [A15] | [ ] |
 | Wed Jul 8 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
 | Thu Jul 9 | 7:30 AM | Substack | Field Note: "Auditing How Your PBM Actually Makes Money" | [ ] |
 | Thu Jul 9 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
@@ -38,14 +38,14 @@
 | Thu Jul 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 99 | [ ] |
 | Thu Jul 9 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jul 9 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
-| Thu Jul 9 | 7:00 PM | X (Twitter) | poll [A16] | [ ] |
+| Thu Jul 9 | 7:00 PM | X (Twitter) | question post [A16] | [ ] |
 | Thu Jul 9 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
 | Fri Jul 10 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
 | Fri Jul 10 | 10:00 AM | LinkedIn Feed | Post 100 - "The number your PBM hopes you never calculate" Tease Hook (TEXT) | [ ] |
 | Fri Jul 10 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Fri Jul 10 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
 | Fri Jul 10 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Jul 10 | 7:00 PM | X (Twitter) | poll [A1] | [ ] |
+| Fri Jul 10 | 7:00 PM | X (Twitter) | question post [A1] | [ ] |
 | Fri Jul 10 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D4] | [ ] |
 | Sat Jul 11 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
 | Sat Jul 11 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
@@ -53,14 +53,14 @@
 | Sat Jul 11 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Sat Jul 11 | 2:30 PM | X (Twitter) | mid-year formulary change (Tier A) | [ ] |
 | Sat Jul 11 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Jul 11 | 7:00 PM | X (Twitter) | poll [A2] | [ ] |
+| Sat Jul 11 | 7:00 PM | X (Twitter) | question post [A2] | [ ] |
 | Sat Jul 11 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
 | Sun Jul 12 | 8:00 AM | X (Twitter) | recipe / Specialty routing (Tier A weekend Cuban-bait) | [ ] |
 | Sun Jul 12 | 10:00 AM | X (Twitter) | mail-order steering (Tier A) | [ ] |
 | Sun Jul 12 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Sun Jul 12 | 2:30 PM | X (Twitter) | rebate aggregator (Tier A) | [ ] |
 | Sun Jul 12 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Jul 12 | 7:00 PM | X (Twitter) | poll [A3] | [ ] |
+| Sun Jul 12 | 7:00 PM | X (Twitter) | question post [A3] | [ ] |
 | Sun Jul 12 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
 
 ---
@@ -1131,17 +1131,12 @@ First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
 ### Evening block add-ons (7:00 PM + 8:30 PM) — paste-ready
 
-> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (polls this week, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump a poll if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Polls: set 1-day duration, put the answer in the first reply. Links in first reply only.
+> New per `x_account_strategy.md` → Evening block. Two posts added to each day's evening on top of the existing ~5 PM PM-anchor: a **7:00 PM interactive** (a confrontational question post, evergreen and schedulable; hold a newsjack/news-to-contract bridge from `x_evening_block_bank.md` E/F to bump it if a story breaks) and an **8:30 PM close** (aphorism / one-question / the week's single origin-anchored note). Sourced from `x_evening_block_bank.md`, rotated so nothing repeats inside ~2 weeks. Links in first reply only.
 
 **Mon Jul 6**
-- **+7:00 PM — poll [A13]:**
+- **+7:00 PM — question post [A13]:**
 ```
-The GLP-1 your plan covers sits on the formulary mainly because:
-
-· It works best
-· It's lowest net cost
-· It wrote the biggest rebate check
-· We didn't choose, the PBM did
+The GLP-1 your plan covers: is it on the formulary because it works best, or because it wrote the biggest rebate check? The drug that paid to be there is usually the one on the list.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — aphorism [C10]:**
@@ -1150,14 +1145,9 @@ First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
 **Tue Jul 7**
-- **+7:00 PM — poll [A14]:**
+- **+7:00 PM — question post [A14]:**
 ```
-When your PBM recommends a drug as "lowest net cost," lowest for whom?
-
-· Our plan
-· The PBM's rebate math
-· Not sure how it's calculated
-· What's net cost?
+When your PBM calls a drug "lowest net cost," lowest for whom? Your plan, or the PBM's rebate math? The phrase is built to sound like it is on your side. Check whether it actually is.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — one question [B10]:**
@@ -1166,14 +1156,9 @@ Ask your PBM: "If we wanted to leave, what in this contract makes it expensive o
 ```
 
 **Wed Jul 8**
-- **+7:00 PM — poll [A15]:**
+- **+7:00 PM — question post [A15]:**
 ```
-A biosimilar launched at a fraction of the brand's price. Is your plan on it?
-
-· Yes, switched
-· No, the PBM still favors the brand
-· Not sure
-· The brand pays a bigger rebate, doesn't it?
+A biosimilar launched at a fraction of the brand's price. Is your plan on it, or is your PBM still steering to the brand because the brand pays a bigger rebate? Pull the claims and find out.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — aphorism [C1]:**
@@ -1182,14 +1167,9 @@ Transparency is the word every PBM uses and the thing every PBM contract is buil
 ```
 
 **Thu Jul 9**
-- **+7:00 PM — poll [A16]:**
+- **+7:00 PM — question post [A16]:**
 ```
-When your covered lives drop, do your PBM admin fees drop with them?
-
-· Yes, they true up
-· No, they stay flat
-· Never checked
-· There's a true-up clause?
+When your covered lives drop, do your PBM admin fees drop with them? If there is no true-up clause, you are paying for members you no longer have, every month, until renewal.
 ```
 First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — one question [B1]:**
@@ -1198,54 +1178,39 @@ One question that changes the room: "Show me the difference between what you pai
 ```
 
 **Fri Jul 10**
-- **+7:00 PM — poll [A1]:**
+- **+7:00 PM — question post [A1]:**
 ```
-Does your plan know its generic spread, the gap between what the PBM pays the pharmacy and what it bills you?
-
-· We've measured it
-· We think our broker checks
-· Our PBM says there's no spread
-· What's a spread?
+Do you know your plan's generic spread? Not the discount. The spread is the gap between what your PBM pays the pharmacy for a generic and what it bills you. Most plan sponsors have never been shown it, because it is rarely a line on the report.
 ```
-First reply → `rxbs.org/toolkit/pbm-compensation`
+First reply → Here is how to find it on your own claims: rxbs.org/toolkit/pbm-compensation
 - **+8:30 PM — origin-anchored (1/week) [D4]:**
 ```
 Read an audit clause yesterday that let the plan audit "once per year, using the PBM's auditor, on the records the PBM provides." That's not an audit right. I see that exact language constantly.
 ```
 
 **Sat Jul 11**
-- **+7:00 PM — poll [A2]:**
+- **+7:00 PM — question post [A2]:**
 ```
-When your PBM says it passes through "100% of rebates," 100% of what?
-
-· What the manufacturer paid
-· What the PBM "received" after its aggregator's cut
-· Not sure, never asked
-· We don't get rebates?
+When your PBM says it passes through 100% of rebates, ask one word back: of what? What the manufacturer paid, or what the PBM "received" after a rebate aggregator it owns took a cut first? The noun does all the work.
 ```
-First reply → `benefitblindspots.substack.com/p/pbm-contract-language-library`
+First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — aphorism [C2]:**
 ```
 The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
 ```
 
 **Sun Jul 12**
-- **+7:00 PM — poll [A3]:**
+- **+7:00 PM — question post [A3]:**
 ```
-Pull your specialty claims. What share filled at the PBM's OWN specialty pharmacy?
-
-· Under 25%
-· 25 to 50%
-· Over half
-· We've never pulled that
+Pull your specialty claims and sort by filling pharmacy. What share filled at a pharmacy your PBM owns? In most plans we audit, it is well over half. No member chose that. The prior-auth rules chose it for them.
 ```
-First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **+8:30 PM — one question [B2]:**
 ```
 Ask your PBM: "What did you collect in rebates and fees from manufacturers on our plan last year, and how much reached us?" The gap between the two numbers is the conversation.
 ```
 
-> **Evening block content-mix check (14 added posts):** 7 polls (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
+> **Evening block content-mix check (14 added posts):** 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday evening = 5 PM anchor + 7 PM + 8:30 PM; weekend up to 7/day. Rotation tracked in `x_evening_block_bank.md`.
 
 
 # PART 5: PUBLISHING CHECKLIST
