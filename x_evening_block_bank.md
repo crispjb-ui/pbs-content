@@ -3,191 +3,112 @@
 **Created:** June 5, 2026 (after the evening high-attention-window read; see `x_account_strategy.md` → Evening block).
 **What this is:** the source bank for the two **added** evening slots — **7:00 PM (interactive)** and **8:30 PM (close)**. The ~5:00 PM PM-anchor slot keeps pulling from `x_recipe_post_bank.md` (named-program extraction). This file feeds the new angles only.
 
-**How to use:** pull one item into each evening slot, rotate in order, **don't repeat an item within ~2 weeks**. Polls/newsjacks/bridges → 7 PM. Aphorisms / one-questions / origin-anchored → 8:30 PM. Origin-anchored is capped at **one 8:30 slot per week**. Links go in the FIRST REPLY, never the post body. Hashtags 0-1 (usually none).
+**How to use:** pull one item into each evening slot, rotate in order, **don't repeat an item within ~2 weeks**. Question posts / newsjacks / bridges → 7 PM. Aphorisms / one-questions / origin-anchored → 8:30 PM. Origin-anchored is capped at **one 8:30 slot per week**. Links go in the FIRST REPLY, never the post body. Hashtags 0-1 (usually none).
 
 **Brand rules carry over:** PBS never RXBS; Ginny Crisp, PharmD never "Dr."; no em dashes or hyphens as sentence separators; no fabricated statistics (cited public figures only, qualitative otherwise).
 
 ---
 
-## A · POLL BANK (7 PM interactive)
+## A · QUESTION-POST BANK (7 PM interactive)
 
-Format: question + 4 options (the throwaway option is the hook). Put the reveal/answer in the FIRST REPLY. X polls run 1-7 days; default 1 day so it closes same week.
+Format: a short confrontational question post (schedulable plain text, no native-poll mechanic, since X polls cannot be pre-scheduled). Pose the question, land the reveal, invite a reply. Any link or the full reveal goes in the FIRST REPLY.
 
 **A1 · Generic spread**
 ```
-Does your plan know its generic spread, the gap between what the PBM pays the pharmacy and what it bills you?
-
-· We've measured it
-· We think our broker checks
-· Our PBM says there's no spread
-· What's a spread?
+Do you know your plan's generic spread? Not the discount. The spread is the gap between what your PBM pays the pharmacy for a generic and what it bills you. Most plan sponsors have never been shown it, because it is rarely a line on the report.
 ```
-First reply → `rxbs.org/toolkit/pbm-compensation`
+First reply → Here is how to find it on your own claims: rxbs.org/toolkit/pbm-compensation
 
 **A2 · Rebate destination**
 ```
-When your PBM says it passes through "100% of rebates," 100% of what?
-
-· What the manufacturer paid
-· What the PBM "received" after its aggregator's cut
-· Not sure, never asked
-· We don't get rebates?
+When your PBM says it passes through 100% of rebates, ask one word back: of what? What the manufacturer paid, or what the PBM "received" after a rebate aggregator it owns took a cut first? The noun does all the work.
 ```
-First reply → `benefitblindspots.substack.com/p/pbm-contract-language-library`
+First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A3 · Specialty fill location**
 ```
-Pull your specialty claims. What share filled at the PBM's OWN specialty pharmacy?
-
-· Under 25%
-· 25 to 50%
-· Over half
-· We've never pulled that
+Pull your specialty claims and sort by filling pharmacy. What share filled at a pharmacy your PBM owns? In most plans we audit, it is well over half. No member chose that. The prior-auth rules chose it for them.
 ```
-First reply → the specialty-routing recipe + Library link
+First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A4 · Audit rights**
 ```
-Your PBM contract says you can audit it. In practice, who picks the auditor and the records?
-
-· We do
-· The PBM does
-· "Mutually agreed" (read: the PBM)
-· We've never tried to audit
+Your contract says you can audit your PBM. In practice, who picks the auditor, who picks the records, and who decides whether the findings count? If the honest answer is "the PBM," you have a guided tour, not an audit right.
 ```
-First reply → `benefitblindspots.substack.com/p/pbm-contract-language-library`
+First reply → The five clauses that fix it: benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A5 · Reporting login**
 ```
-Have you logged into your PBM reporting portal in the last 90 days?
-
-· Yes, monthly
-· Once this year
-· My broker handles it
-· I have a login?
+When did you last open your PBM reporting portal? If the answer is "never," the PBM is the only party reading your plan's own data. That asymmetry is most of the game.
 ```
-First reply → quarterly reporting toolkit
+First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A6 · Where the money is made**
 ```
-Where does your PBM make the most money on a single prescription?
-
-· The dispensing fee
-· The spread on the price
-· The rebate on the list price
-· All three at once (correct)
+Where does your PBM make the most money on a single prescription? Not the dispensing fee. The spread on the price, the rebate on the list, and the fee on the claim, all at once. You were sold one of the three. The contract contains all three.
 ```
-First reply → `rxbs.org/toolkit/pbm-compensation`
+First reply → Map all three on your own plan: rxbs.org/toolkit/pbm-compensation
 
 **A7 · Formulary driver**
 ```
-The drug on your formulary is there mostly because:
-
-· It works best
-· It's cheapest net
-· It paid the biggest rebate to be there
-· I assumed reason 1
+Is the drug on your formulary there because it works best, or because it paid the biggest rebate to sit there? For too many plans the honest answer is the second one, and the net cost analysis proves it.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A8 · Mid-year posture**
 ```
-It's mid-year. Who has a renewal model built on your H1 claims right now?
-
-· We do
-· Our broker does
-· Only the PBM does
-· What renewal model?
+It is mid-year. Who has a renewal model built on your H1 claims right now? Your PBM does. If your plan does not, the renewal is already half-decided before the first meeting.
 ```
-First reply → mid-year claims toolkit
+First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
 
-**A9 · DIR / clawback awareness**
+**A9 · DIR clawback**
 ```
-Has your plan ever seen what the PBM clawed back from pharmacies (DIR) and how much reached you?
-
-· Yes, it's in our report
-· No, never itemized
-· Our PBM says there's none
-· What's DIR?
+Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A10 · Contract readability**
 ```
-Could the person who signs your PBM invoice read the contract clause that defines what they're paying for?
-
-· Easily
-· With effort
-· No, it's written to be unreadable
-· We've never tried
+Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A11 · Manufacturer admin fees**
 ```
-Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go?
-
-· Back to our plan
-· Kept by the PBM
-· We've never seen it itemized
-· Manufacturers pay the PBM?
+Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go: back to your plan, or kept by the PBM? On most contracts it is kept, and it is rarely itemized anywhere you would see it.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A12 · Termination / exit**
 ```
-If you wanted to fire your PBM tomorrow, what in the contract slows you down?
-
-· Nothing, clean exit
-· 90 to 180 days notice
-· Transition fees and a data handoff you don't control
-· We've never read the termination clause
+If you wanted to fire your PBM tomorrow, what in the contract slows you down? Notice periods, transition fees, a data handoff you do not control. Most plans never read the termination clause until the day they need it.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A13 · GLP-1 formulary driver**
 ```
-The GLP-1 your plan covers sits on the formulary mainly because:
-
-· It works best
-· It's lowest net cost
-· It wrote the biggest rebate check
-· We didn't choose, the PBM did
+The GLP-1 your plan covers: is it on the formulary because it works best, or because it wrote the biggest rebate check? The drug that paid to be there is usually the one on the list.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A14 · Net cost, for whom**
 ```
-When your PBM recommends a drug as "lowest net cost," lowest for whom?
-
-· Our plan
-· The PBM's rebate math
-· Not sure how it's calculated
-· What's net cost?
+When your PBM calls a drug "lowest net cost," lowest for whom? Your plan, or the PBM's rebate math? The phrase is built to sound like it is on your side. Check whether it actually is.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A15 · Biosimilar adoption**
 ```
-A biosimilar launched at a fraction of the brand's price. Is your plan on it?
-
-· Yes, switched
-· No, the PBM still favors the brand
-· Not sure
-· The brand pays a bigger rebate, doesn't it?
+A biosimilar launched at a fraction of the brand's price. Is your plan on it, or is your PBM still steering to the brand because the brand pays a bigger rebate? Pull the claims and find out.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 **A16 · Admin fee true-up**
 ```
-When your covered lives drop, do your PBM admin fees drop with them?
-
-· Yes, they true up
-· No, they stay flat
-· Never checked
-· There's a true-up clause?
+When your covered lives drop, do your PBM admin fees drop with them? If there is no true-up clause, you are paying for members you no longer have, every month, until renewal.
 ```
-First reply → Contract Language Library
+First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+
 
 ---
 
@@ -326,7 +247,7 @@ Reviewed an invoice last week with five admin line items. Four had no clause beh
 
 ## E · NEWSJACK TEMPLATES (7 PM interactive — fill the bracket when a viral consumer post lands)
 
-Quote-post the PBM mechanism under a viral consumer medical-bill / drug-price post. Sympathize with the patient; name the PBM structure. **Ally-positive only.** These are templates, not pre-scheduled; deploy when a matching viral post appears (evening is when they peak). If none lands, fall back to a poll.
+Quote-post the PBM mechanism under a viral consumer medical-bill / drug-price post. Sympathize with the patient; name the PBM structure. **Ally-positive only.** These are templates, not pre-scheduled; deploy when a matching viral post appears (evening is when they peak). If none lands, fall back to a question post.
 
 **E1 · "$X for [drug]" viral bill**
 ```
@@ -378,7 +299,7 @@ The [FTC action] names the practice. Your contract is where you find out if you'
 
 | Week | 7 PM items used | 8:30 PM items used |
 |------|-----------------|--------------------|
-| W23 | A1, A4, A6, A3, A8, A2, A5 (all polls — no live news) | C1, B5, C2, B6, D1 (origin), C3, B1 |
+| W23 | A1, A4, A6, A3, A8, A2, A5 (all question posts — no live news) | C1, B5, C2, B6, D1 (origin), C3, B1 |
 | W24 | A8, A9, A10, A11, A12, A13, A14 | C1, B1, C2, B2, D1, C3, B3 |
 | W25 | A15, A16, A1, A2, A3, A4, A5 | C4, B4, C5, B5, D2, C6, B6 |
 | W26 | A6, A7, A8, A9, A10, A11, A12 | C7, B7, C8, B8, D3, C9, B9 |
