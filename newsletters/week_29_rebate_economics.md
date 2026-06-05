@@ -556,7 +556,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 - **Format:** Messy Infographic
 - **Pillar:** PBM Contract Insights
 - **Topic:** 5 Network Contract Terms Decoded
-- **Hook:** "Pharmacy networks have their own contract vocabulary. These five terms decide where your members fill and what your plan pays."
+- **Hook:** "'Any in-network pharmacy' sounds like member choice. Then the PBM writes the network rules so the lowest-friction path runs through a pharmacy it owns. Five terms decide where your members actually fill."
 
 **Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
 - "Preferred network" - PBM means: a narrower subset of pharmacies with enhanced pricing. Read it as: a network the PBM shapes to include or exclude pharmacies based on reimbursement terms, not just member access.
@@ -568,9 +568,9 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Post Copy
 
 ```
-Five network contract terms decide where your members fill and what your plan pays. The PBM writes the definitions; your contract should redefine them.
+"Any in-network pharmacy," your contract says. Then mandatory-mail rules and an exclusion list quietly route the volume to a pharmacy the PBM owns. That is not a network. It is a steering system with a network's name on it.
 
-I review hundreds of PBM contracts a year at PBS. The network membership clause says "any in-network pharmacy"; the routing pattern rarely matches. The leverage is in the four other terms.
+I review hundreds of PBM contracts a year at PBS. The membership clause says one thing; the routing pattern rarely matches. The PBM writes these five definitions, and your contract should redefine them. The leverage is in the four terms past the first.
 
 1. **Preferred network.** A subset the PBM shapes by reimbursement terms, not member access.
 2. **Broad network.** The highest-cost configuration with the least PBM leverage.
