@@ -455,6 +455,8 @@ Most employers walk into renewal without a comparable level of preparation. The 
 
 I have watched this dynamic play out across hundreds of renewals. The employers who accept initial terms and the employers who negotiate substantially different outcomes are not separated by plan size, market conditions, or PBM relationship history. They are separated by preparation.
 
+Some employers never get to negotiate at all. Buried in the termination section of many PBM contracts is an evergreen clause: the agreement renews itself automatically for another full term unless you send written notice of non-renewal by a deadline, often 90 or 180 days before expiration. Miss the date and you are locked in again before the conversation even starts. The deadline is almost never flagged. Renewal is the default, and silence is consent.
+
 Twelve contract provisions drive the economics: GER, rebates, specialty pricing, dispensing fees, admin fees, clinical guarantees, audit rights, performance penalties, biosimilar commitments, formulary notification, termination terms, and annual true-up. Most employers negotiate hard on the first two and accept default language on the rest.
 
 The PBM knows this. Their initial proposal is engineered accordingly: competitive headline numbers, weak structural provisions. The employer celebrates the pricing. The PBM keeps the structural advantages.
