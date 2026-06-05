@@ -10,19 +10,58 @@
 | Sun Jul 12 | - | Prep | Final review of all content | [ ] |
 | Mon Jul 13 | 7:30 AM | Substack | "Pharmacy Network Design: The Cost Variable Most Employers Overlook" | [ ] |
 | Mon Jul 13 | 7:45 AM | LinkedIn Newsletter | Network Design Briefing | [ ] |
+| Mon Jul 13 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
+| Mon Jul 13 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Jul 13 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Mon Jul 13 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Mon Jul 13 | 7:00 PM | X (Twitter) | poll [A4] | [ ] |
+| Mon Jul 13 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
+| Tue Jul 14 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
 | Tue Jul 14 | 10:00 AM | LinkedIn Feed | Post 101 - Medicare GLP-1 "Bridge" Access Gauntlet, Decoded (Messy Infographic, news-pegged; displaced the Specialty Dollars funnel → backlog Entry 38) | [ ] |
 | Tue Jul 14 | 10:05 AM | LinkedIn Feed | Post 101 - First Comment | [ ] |
+| Tue Jul 14 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Tue Jul 14 | 1:30 PM | LinkedIn Company | Company Reshare of Post 101 | [ ] |
+| Tue Jul 14 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Jul 14 | 7:00 PM | X (Twitter) | poll [A5] | [ ] |
+| Tue Jul 14 | 8:30 PM | X (Twitter) | one question [B3] | [ ] |
+| Wed Jul 15 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
 | Wed Jul 15 | 10:00 AM | LinkedIn Feed | Post 102 - "Same drug. Retail: one price. Mail order: different price. Specialty: another." Strong POV (TEXT) / VIDEO TEST #2 | [ ] |
+| Wed Jul 15 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Wed Jul 15 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
+| Wed Jul 15 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Jul 15 | 7:00 PM | X (Twitter) | poll [A6] | [ ] |
+| Wed Jul 15 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
 | Thu Jul 16 | 7:30 AM | Substack | Field Note: "Mail Order Economics: When It Saves and When It Does Not" | [ ] |
+| Thu Jul 16 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
 | Thu Jul 16 | 10:00 AM | LinkedIn Feed | Post 103 - 5 Questions About Mail-Order Economics (Carousel, Slot C evergreen rotation) | [ ] |
+| Thu Jul 16 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Thu Jul 16 | 1:30 PM | LinkedIn Company | Company Reshare of Post 103 | [ ] |
+| Thu Jul 16 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jul 16 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
+| Thu Jul 16 | 7:00 PM | X (Twitter) | poll [A7] | [ ] |
+| Thu Jul 16 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
+| Fri Jul 17 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
 | Fri Jul 17 | 10:00 AM | LinkedIn Feed | Post 104 - "The money trail your claims report does not show" Tease Hook (TEXT) | [ ] |
+| Fri Jul 17 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
 | Fri Jul 17 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
+| Fri Jul 17 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Jul 17 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Fri Jul 17 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D5] | [ ] |
 | Sat Jul 18 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
+| Sat Jul 18 | 8:00 AM | X (Twitter) | recipe / DIR fees (Tier A weekend Cuban-bait) | [ ] |
+| Sat Jul 18 | 10:00 AM | X (Twitter) | white bagging (Tier A) | [ ] |
+| Sat Jul 18 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Jul 18 | 2:30 PM | X (Twitter) | specialty routing (Tier A) | [ ] |
+| Sat Jul 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Jul 18 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Sat Jul 18 | 8:30 PM | X (Twitter) | aphorism [C5] | [ ] |
+| Sun Jul 19 | 8:00 AM | X (Twitter) | recipe / Mail-order steering (Tier A weekend Cuban-bait) | [ ] |
+| Sun Jul 19 | 10:00 AM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
+| Sun Jul 19 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Jul 19 | 2:30 PM | X (Twitter) | NADAC/MAC arbitrage (Tier A) | [ ] |
+| Sun Jul 19 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Jul 19 | 7:00 PM | X (Twitter) | poll [A10] | [ ] |
+| Sun Jul 19 | 8:30 PM | X (Twitter) | one question [B5] | [ ] |
 
 ---
 

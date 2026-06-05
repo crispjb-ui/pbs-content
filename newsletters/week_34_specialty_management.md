@@ -9,11 +9,50 @@
 |-----|------|----------|---------|--------|
 | Mon Aug 24 | 7:30 AM | Substack | "Specialty Drug Management: The Category That Defines Your Plan's Cost Trajectory" | [ ] |
 | Mon Aug 24 | 7:45 AM | LinkedIn Newsletter | Specialty Management Briefing | [ ] |
+| Mon Aug 24 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
+| Mon Aug 24 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Aug 24 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Mon Aug 24 | 7:00 PM | X (Twitter) | poll [A14] | [ ] |
+| Mon Aug 24 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
+| Tue Aug 25 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
 | Tue Aug 25 | 10:00 AM | LinkedIn Feed | Post 125 - "From Programs That Cost Money to Programs That Earn Their Keep" Bridge Clean Infographic (different pillar) | [ ] |
+| Tue Aug 25 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Tue Aug 25 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Aug 25 | 7:00 PM | X (Twitter) | poll [A15] | [ ] |
+| Tue Aug 25 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
+| Wed Aug 26 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
 | Wed Aug 26 | 10:00 AM | LinkedIn Feed | Post 126 - Strong POV TEXT (~230 words) | [ ] |
+| Wed Aug 26 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Aug 26 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Aug 26 | 7:00 PM | X (Twitter) | poll [A16] | [ ] |
+| Wed Aug 26 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Field Note: "Reauthorization Protocols: The Specialty Cost Lever Nobody Discusses" | [ ] |
+| Thu Aug 27 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
 | Thu Aug 27 | 10:00 AM | LinkedIn Feed | Post 127 - 5 Questions About Your Audit Rights (Carousel, Slot C evergreen rotation) | [ ] |
+| Thu Aug 27 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Thu Aug 27 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Aug 27 | 7:00 PM | X (Twitter) | poll [A1] | [ ] |
+| Thu Aug 27 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
+| Fri Aug 28 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
 | Fri Aug 28 | 10:00 AM | LinkedIn Feed | Post 128 - Tease Hook (teases Week 35) | [ ] |
+| Fri Aug 28 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Aug 28 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Aug 28 | 7:00 PM | X (Twitter) | poll [A2] | [ ] |
+| Fri Aug 28 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D3] | [ ] |
+| Sat Aug 29 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
+| Sat Aug 29 | 10:00 AM | X (Twitter) | formulary exclusivity payment (Tier A) | [ ] |
+| Sat Aug 29 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Aug 29 | 2:30 PM | X (Twitter) | dispensing fee spread (Tier A) | [ ] |
+| Sat Aug 29 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Aug 29 | 7:00 PM | X (Twitter) | poll [A3] | [ ] |
+| Sat Aug 29 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
+| Sun Aug 30 | 8:00 AM | X (Twitter) | recipe / Specialty routing (Tier A weekend Cuban-bait) | [ ] |
+| Sun Aug 30 | 10:00 AM | X (Twitter) | price protection reclassification (Tier A) | [ ] |
+| Sun Aug 30 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Aug 30 | 2:30 PM | X (Twitter) | copay accumulator (Tier A) | [ ] |
+| Sun Aug 30 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Aug 30 | 7:00 PM | X (Twitter) | poll [A4] | [ ] |
+| Sun Aug 30 | 8:30 PM | X (Twitter) | one question [B3] | [ ] |
 
 ---
 

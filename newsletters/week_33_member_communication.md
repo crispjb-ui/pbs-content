@@ -9,11 +9,50 @@
 |-----|------|----------|---------|--------|
 | Mon Aug 17 | 7:30 AM | Substack | "Communicating Pharmacy Changes: Why Good Strategy Fails Without Good Messaging" | [ ] |
 | Mon Aug 17 | 7:45 AM | LinkedIn Newsletter | Member Communication Briefing | [ ] |
+| Mon Aug 17 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
+| Mon Aug 17 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Aug 17 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Mon Aug 17 | 7:00 PM | X (Twitter) | poll [A7] | [ ] |
+| Mon Aug 17 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
+| Tue Aug 18 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
 | Tue Aug 18 | 10:00 AM | LinkedIn Feed | Post 121 - "Five Clauses That Anchor Q4 Broker Conversations" Library 05 Contract Comparison Carousel (different pillar) | [ ] |
+| Tue Aug 18 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Tue Aug 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Aug 18 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Tue Aug 18 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
+| Wed Aug 19 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
 | Wed Aug 19 | 10:00 AM | LinkedIn Feed | Post 122 - Strong POV TEXT (~230 words) | [ ] |
+| Wed Aug 19 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Aug 19 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Aug 19 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Wed Aug 19 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
 | Thu Aug 20 | 7:30 AM | Substack | Field Note: "Provider Communication: The Step Most Plans Skip" | [ ] |
+| Thu Aug 20 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
 | Thu Aug 20 | 10:00 AM | LinkedIn Feed | Post 123 - Same benefit change. Different messaging. Different uptake. (Carousel, Slot B evergreen rotation) | [ ] |
+| Thu Aug 20 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Thu Aug 20 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Aug 20 | 7:00 PM | X (Twitter) | poll [A10] | [ ] |
+| Thu Aug 20 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
+| Fri Aug 21 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
 | Fri Aug 21 | 10:00 AM | LinkedIn Feed | Post 124 - Tease Hook (teases Week 34) | [ ] |
+| Fri Aug 21 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Aug 21 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Aug 21 | 7:00 PM | X (Twitter) | poll [A11] | [ ] |
+| Fri Aug 21 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D2] | [ ] |
+| Sat Aug 22 | 8:00 AM | X (Twitter) | recipe / Copay accumulator (Tier A weekend Cuban-bait) | [ ] |
+| Sat Aug 22 | 10:00 AM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
+| Sat Aug 22 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Aug 22 | 2:30 PM | X (Twitter) | NADAC/MAC arbitrage (Tier A) | [ ] |
+| Sat Aug 22 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Aug 22 | 7:00 PM | X (Twitter) | poll [A12] | [ ] |
+| Sat Aug 22 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
+| Sun Aug 23 | 8:00 AM | X (Twitter) | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
+| Sun Aug 23 | 10:00 AM | X (Twitter) | copay maximizer (Tier A) | [ ] |
+| Sun Aug 23 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Aug 23 | 2:30 PM | X (Twitter) | GPO offshore rebate routing (Tier A) | [ ] |
+| Sun Aug 23 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Aug 23 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Sun Aug 23 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
 
 ---
 

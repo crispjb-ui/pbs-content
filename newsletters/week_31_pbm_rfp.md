@@ -9,11 +9,50 @@
 |-----|------|----------|---------|--------|
 | Mon Aug 3 | 7:30 AM | Substack | "The PBM RFP: What to Ask and What the Answers Actually Mean" | [ ] |
 | Mon Aug 3 | 7:45 AM | LinkedIn Newsletter | PBM RFP Briefing | [ ] |
+| Mon Aug 3 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
+| Mon Aug 3 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Mon Aug 3 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Mon Aug 3 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Mon Aug 3 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
+| Tue Aug 4 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
 | Tue Aug 4 | 10:00 AM | LinkedIn Feed | Post 113 - "Three Cost Containment Levers. Three Different Clocks." Mountain Clean Infographic (different pillar) | [ ] |
+| Tue Aug 4 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Tue Aug 4 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Tue Aug 4 | 7:00 PM | X (Twitter) | poll [A10] | [ ] |
+| Tue Aug 4 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
+| Wed Aug 5 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
 | Wed Aug 5 | 10:00 AM | LinkedIn Feed | Post 114 - Strong POV TEXT (~230 words) | [ ] |
+| Wed Aug 5 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Wed Aug 5 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Wed Aug 5 | 7:00 PM | X (Twitter) | poll [A11] | [ ] |
+| Wed Aug 5 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
 | Thu Aug 6 | 7:30 AM | Substack | Field Note: "Normalizing PBM Pricing Proposals: Apples to Apples" | [ ] |
+| Thu Aug 6 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
 | Thu Aug 6 | 10:00 AM | LinkedIn Feed | Post 115 - 5 Questions About Clinical Program ROI (Carousel, Slot C evergreen rotation) | [ ] |
+| Thu Aug 6 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Thu Aug 6 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Thu Aug 6 | 7:00 PM | X (Twitter) | poll [A12] | [ ] |
+| Thu Aug 6 | 8:30 PM | X (Twitter) | one question [B3] | [ ] |
+| Fri Aug 7 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
 | Fri Aug 7 | 10:00 AM | LinkedIn Feed | Post 116 - Tease Hook (teases Week 32) | [ ] |
+| Fri Aug 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Fri Aug 7 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Fri Aug 7 | 7:00 PM | X (Twitter) | poll [A13] | [ ] |
+| Fri Aug 7 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D8] | [ ] |
+| Sat Aug 8 | 8:00 AM | X (Twitter) | recipe / Specialty routing (Tier A weekend Cuban-bait) | [ ] |
+| Sat Aug 8 | 10:00 AM | X (Twitter) | step therapy (fail-first) (Tier A) | [ ] |
+| Sat Aug 8 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sat Aug 8 | 2:30 PM | X (Twitter) | specialty exclusive distribution (Tier A) | [ ] |
+| Sat Aug 8 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Aug 8 | 7:00 PM | X (Twitter) | poll [A14] | [ ] |
+| Sat Aug 8 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
+| Sun Aug 9 | 8:00 AM | X (Twitter) | recipe / DIR fees (Tier A weekend Cuban-bait) | [ ] |
+| Sun Aug 9 | 10:00 AM | X (Twitter) | effective-rate true-up timing (Tier A) | [ ] |
+| Sun Aug 9 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
+| Sun Aug 9 | 2:30 PM | X (Twitter) | mid-year formulary change (Tier A) | [ ] |
+| Sun Aug 9 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Aug 9 | 7:00 PM | X (Twitter) | poll [A15] | [ ] |
+| Sun Aug 9 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
 
 ---
 

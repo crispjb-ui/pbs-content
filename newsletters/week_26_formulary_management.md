@@ -10,19 +10,58 @@
 | Sun Jun 28 | - | Prep | Final review of all content | [ ] |
 | Mon Jun 29 | 7:30 AM | Substack | "Who Really Controls Your Drug List" | [ ] |
 | Mon Jun 29 | 7:45 AM | LinkedIn Newsletter | Formulary Management Briefing | [ ] |
+| Mon Jun 29 | 8:00 AM | X (Twitter) | named-adversary / channel-pricing (proven W21 template, "preferred" framing) | [ ] |
+| Mon Jun 29 | 12:00 PM | X (Twitter) | decoder (formulary tiering) | [ ] |
+| Mon Jun 29 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Mon Jun 29 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Mon Jun 29 | 7:00 PM | X (Twitter) | poll [A6] | [ ] |
+| Mon Jun 29 | 8:30 PM | X (Twitter) | aphorism [C7] | [ ] |
+| Tue Jun 30 | 8:00 AM | X (Twitter) | dollar comparison (copay vs cash) | [ ] |
 | Tue Jun 30 | 10:00 AM | LinkedIn Feed | Post 93 - "The Formulary Decision You Never Made" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
 | Tue Jun 30 | 10:05 AM | LinkedIn Feed | Post 93 - First Comment | [ ] |
+| Tue Jun 30 | 12:00 PM | X (Twitter) | structural / news-adjacent (hold for a reactive bump) | [ ] |
 | Tue Jun 30 | 1:30 PM | LinkedIn Company | Company Reshare of Post 93 | [ ] |
+| Tue Jun 30 | 5:00 PM | X (Twitter) | Tue decoder driver (Marked-Up Contract Page — SCHEDULE AFTER the Tue LinkedIn post publishes) | [ ] |
+| Tue Jun 30 | 7:00 PM | X (Twitter) | poll [A7] | [ ] |
+| Tue Jun 30 | 8:30 PM | X (Twitter) | one question [B7] | [ ] |
+| Wed Jul 1 | 8:00 AM | X (Twitter) | named-adversary / rebate retention (general — protects Thursday's specific term-set) | [ ] |
 | Wed Jul 1 | 10:00 AM | LinkedIn Feed | Post 94 - "Your formulary was built for your PBM's rebate strategy." Strong POV (TEXT) / VIDEO TEST #1 | [ ] |
+| Wed Jul 1 | 12:00 PM | X (Twitter) | decoder (rebate vs discount) | [ ] |
 | Wed Jul 1 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
+| Wed Jul 1 | 5:00 PM | X (Twitter) | stat-shock / structural | [ ] |
+| Wed Jul 1 | 7:00 PM | X (Twitter) | poll [A8] | [ ] |
+| Wed Jul 1 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
 | Thu Jul 2 | 7:30 AM | Substack | Field Note: "Three Formulary Questions Your PBM Should Answer" | [ ] |
+| Thu Jul 2 | 8:00 AM | X (Twitter) | named-adversary / formulary swap (protects the Thursday reveal) | [ ] |
 | Thu Jul 2 | 10:00 AM | LinkedIn Feed | Post 95 - 5 Rebate Retention Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
+| Thu Jul 2 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: 5 Rebate Retention Terms Decoded messy infographic]` | [ ] |
 | Thu Jul 2 | 1:30 PM | LinkedIn Company | Company Reshare of Post 95 | [ ] |
+| Thu Jul 2 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jul 2 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
+| Thu Jul 2 | 7:00 PM | X (Twitter) | poll [A9] | [ ] |
+| Thu Jul 2 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
+| Fri Jul 3 | 8:00 AM | X (Twitter) | named-adversary / specialty concentration | [ ] |
 | Fri Jul 3 | 10:00 AM | LinkedIn Feed | Post 96 - "The question that reveals everything about your PBM" Tease Hook (TEXT) | [ ] |
+| Fri Jul 3 | 12:00 PM | X (Twitter) | decoder (specialty definition) | [ ] |
 | Fri Jul 3 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
+| Fri Jul 3 | 5:00 PM | X (Twitter) | punchy / forward (light pre-holiday; teases W27) | [ ] |
+| Fri Jul 3 | 7:00 PM | X (Twitter) | poll [A10] | [ ] |
+| Fri Jul 3 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D3] | [ ] |
 | Sat Jul 4 | - | Substack Notes | Note #5 - Light holiday engagement | [ ] |
+| Sat Jul 4 | 8:00 AM | X (Twitter) | profession-identity (guardrail-safe, not adversarial) | [ ] |
+| Sat Jul 4 | 10:00 AM | X (Twitter) | copay maximizer vendor (SaveOnSP-style) (Tier A) | [ ] |
+| Sat Jul 4 | 12:00 PM | X (Twitter) | decoder (light, holiday-weekend pace) | [ ] |
+| Sat Jul 4 | 2:30 PM | X (Twitter) | brown bagging (Tier A) | [ ] |
+| Sat Jul 4 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Jul 4 | 7:00 PM | X (Twitter) | poll [A11] | [ ] |
+| Sat Jul 4 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
+| Sun Jul 5 | 8:00 AM | X (Twitter) | recipe / rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
+| Sun Jul 5 | 10:00 AM | X (Twitter) | step therapy (fail-first) (Tier A) | [ ] |
+| Sun Jul 5 | 12:00 PM | X (Twitter) | decoder + GLP-1 amplifier | [ ] |
+| Sun Jul 5 | 2:30 PM | X (Twitter) | specialty exclusive distribution (Tier A) | [ ] |
+| Sun Jul 5 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Jul 5 | 7:00 PM | X (Twitter) | poll [A12] | [ ] |
+| Sun Jul 5 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
 
 > **NOTE:** July 4 week. Lower LinkedIn engagement expected. Testing 10:00 AM post time (research-backed optimal vs. our 8:30 AM baseline). Strong newsletter week since email is unaffected by holiday.
 

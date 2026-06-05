@@ -10,19 +10,58 @@
 | Sun Jun 7 | - | Prep | Final review of all content | [ ] |
 | Mon Jun 8 | 7:30 AM | Substack | "Five Claims Data Patterns That Signal Trouble Before Renewal" | [ ] |
 | Mon Jun 8 | 7:45 AM | LinkedIn Newsletter | Mid-Year Claims Briefing | [ ] |
+| Mon Jun 8 | 8:00 AM | X (Twitter) | named-adversary / channel-pricing (proven W21 template, specialty/site-of-care angle) | [ ] |
+| Mon Jun 8 | 12:00 PM | X (Twitter) | decoder (mid-year true-up) | [ ] |
+| Mon Jun 8 | 5:00 PM | X (Twitter) | punchy (PBM compensation, three revenue streams) | [ ] |
 | Mon Jun 8 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
+| Mon Jun 8 | 7:00 PM | X (Twitter) | poll (generic spread) [A1] | [ ] |
+| Mon Jun 8 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
+| Tue Jun 9 | 8:00 AM | X (Twitter) | dollar comparison (generics, the #3 all-time LinkedIn shape) | [ ] |
 | Tue Jun 9 | 8:30 AM | LinkedIn Feed | Post 81 - Library 03 Contract Comparison Carousel: Audit Rights (PBM Contract Insights pillar) | [ ] |
 | Tue Jun 9 | 8:35 AM | LinkedIn Feed | Post 81 - First Comment | [ ] |
+| Tue Jun 9 | 12:00 PM | X (Twitter) | structural / news-adjacent (hold for a reactive bump if news breaks) | [ ] |
 | Tue Jun 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 81 | [ ] |
+| Tue Jun 9 | 5:00 PM | X (Twitter) | Library 03 audit-rights driver (text decode — SCHEDULE AFTER the 8:30 AM Tue LinkedIn carousel publishes) | [ ] |
+| Tue Jun 9 | 7:00 PM | X (Twitter) | poll (audit rights) [A4] | [ ] |
+| Tue Jun 9 | 8:30 PM | X (Twitter) | one question (audit clause) [B5] | [ ] |
+| Wed Jun 10 | 8:00 AM | X (Twitter) | named-adversary / vertical integration | [ ] |
 | Wed Jun 10 | 8:30 AM | LinkedIn Feed | Post 82 - "A Dermatologist Explained PBMs Better Than Anyone in Pharmacy" Strong POV + decoder visual (guest analogy, Matthew Zirwas MD, used w/ permission) | [ ] |
+| Wed Jun 10 | 12:00 PM | X (Twitter) | decoder (rebate pass-through) | [ ] |
 | Wed Jun 10 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
+| Wed Jun 10 | 5:00 PM | X (Twitter) | stat-shock (cited) | [ ] |
+| Wed Jun 10 | 7:00 PM | X (Twitter) | poll (where the money is made) [A6] | [ ] |
+| Wed Jun 10 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
 | Thu Jun 11 | 7:30 AM | Substack | Field Note: "Decoded the Admin Fees. Now Audit Them." | [ ] |
+| Thu Jun 11 | 8:00 AM | X (Twitter) | named-adversary / copay accumulator (NOT admin fees — protects the 8:30 AM Thursday reveal) | [ ] |
 | Thu Jun 11 | 8:30 AM | LinkedIn Feed | Post 83 - 5 Admin Fee Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
+| Thu Jun 11 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (admin-fee decoder — SCHEDULE AFTER the 8:30 AM Thu LinkedIn post publishes) `[VISUAL: 5 Admin Fee Terms Decoded marked-up page from today's LinkedIn post]` | [ ] |
 | Thu Jun 11 | 1:30 PM | LinkedIn Company | Company Reshare of Post 83 | [ ] |
+| Thu Jun 11 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jun 11 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
+| Thu Jun 11 | 7:00 PM | X (Twitter) | poll (specialty fill location) [A3] | [ ] |
+| Thu Jun 11 | 8:30 PM | X (Twitter) | one question (list every fee) [B6] | [ ] |
+| Fri Jun 12 | 8:00 AM | X (Twitter) | named-adversary / specialty funnel | [ ] |
 | Fri Jun 12 | 8:30 AM | LinkedIn Feed | Post 84 - "Your PBM Already Knows Your H1 Numbers" Tease Hook (TEXT) | [ ] |
+| Fri Jun 12 | 12:00 PM | X (Twitter) | decoder (network access fee) | [ ] |
 | Fri Jun 12 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
+| Fri Jun 12 | 5:00 PM | X (Twitter) | punchy / H1 tie-in (same-day amplification, after the 8:30 AM Friday tease publishes) | [ ] |
+| Fri Jun 12 | 7:00 PM | X (Twitter) | poll (mid-year posture) [A8] | [ ] |
+| Fri Jun 12 | 8:30 PM | X (Twitter) | origin-anchored field note (the one this week) [D1] | [ ] |
 | Sat Jun 13 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
+| Sat Jun 13 | 8:00 AM | X (Twitter) | best-kept-secret (DIR fees) | [ ] |
+| Sat Jun 13 | 10:00 AM | X (Twitter) | mail-order steering (Tier A) | [ ] |
+| Sat Jun 13 | 12:00 PM | X (Twitter) | dollar comparison (insulin) | [ ] |
+| Sat Jun 13 | 2:30 PM | X (Twitter) | rebate aggregator (Tier A) | [ ] |
+| Sat Jun 13 | 5:00 PM | X (Twitter) | punchy | [ ] |
+| Sat Jun 13 | 7:00 PM | X (Twitter) | poll (rebate destination) [A2] | [ ] |
+| Sat Jun 13 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
+| Sun Jun 14 | 8:00 AM | X (Twitter) | recipe / spread pricing (Tier A weekend Cuban-bait) | [ ] |
+| Sun Jun 14 | 10:00 AM | X (Twitter) | white bagging (Tier A) | [ ] |
+| Sun Jun 14 | 12:00 PM | X (Twitter) | decoder + GLP-1 amplifier | [ ] |
+| Sun Jun 14 | 2:30 PM | X (Twitter) | specialty routing (Tier A) | [ ] |
+| Sun Jun 14 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+| Sun Jun 14 | 7:00 PM | X (Twitter) | poll (reporting login) [A5] | [ ] |
+| Sun Jun 14 | 8:30 PM | X (Twitter) | one question (show me the difference) [B1] | [ ] |
 
 ---
 
