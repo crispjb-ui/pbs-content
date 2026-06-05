@@ -141,6 +141,8 @@ The custom-form funnel is live on `rxbs.org/toolkit/biosimilar-readiness` and pr
 - Returning visitor (same browser) → "Welcome back, [name]" one-click instant mode (inputs hidden), via `wix-storage` local.
 - Repeat submit (email already in ToolkitLeads) → backend sets `repeat: true` → **same row updates** (`downloads` 2, `repeat` true, no duplicate row, no duplicate contact) → Zapier Filter sends **Email 1 only**.
 
+**First real production lead confirmed (early June 2026).** The first genuine inbound lead through the custom Velo form (NOT a test, and NOT Sandeep, who came in Jun 1 via the older Wix Forms App path) submitted successfully. Both emails fired correctly: the toolkit-delivery email reached the lead, and the new-submission notification reached Ginny at team@rxbs.org. The full chain (custom Velo form → backend upsert + `appendOrCreateContact` → Zapier Catch Hook → Ginny notification + Email 1) is now production-proven with a real user, not just internal test submissions. The Velo custom form is the live production path; the Wix Forms App version remains only as the instant-revert fallback (`useCustomForm` flag).
+
 **As-built specifics (differ from the generic notes above):**
 - Backend file is `backend/toolkitLead.web.js` (new `.web.js` web-module format, `webMethod(Permissions.Anyone, …)`), NOT `.jsw`. Frontend import is `import { submitLead } from 'backend/toolkitLead.web';` (note the `.web`).
 - Live element IDs the page code targets: dataset `#dynamicDataset`, legacy form `#form1`, legacy mask box `#box19` (a container masking `#form1`'s un-hideable fields — collapses WITH `#form1`). Toolkit name field on the Toolkits collection is `title_fld` (page code reads `item.title_fld`).
