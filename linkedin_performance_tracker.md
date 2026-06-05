@@ -92,6 +92,21 @@
 | 10 | "Same drug. Same dose. Same member." | Carousel | +3 | 6,957 | 0.04% |
 | 11 | DIR fees | Carousel | +3 | 10,727 | 0.03% |
 
+### Recent breakouts logged since Apr 24 (added June 2026)
+
+_The Apr 24 ranking tables above are a preserved snapshot; new top-tier posts are logged here rather than renumbering the historical table._
+
+| Post | Format | Impr | Reached | Followers | Comments | Saves | Reposts | Notes |
+|------|--------|------|---------|-----------|----------|-------|---------|-------|
+| **"Your PBM passes through 100% of manufacturer rebates. The rebate aggregator does not have to."** (offshore rebate-aggregator/GPO reveal, early Jun 2026) | Decoder / named-adversary text | **17,816** | 13,482 | **18** | **40** | **33** | 13 | Top-10-caliber. ~10.1 followers/10K (in decoder band). Audience held: 10,001+ 35%, H&HC 30%, Senior 28%, CVS Health 5%. 40 comments exceeds the documented 7-30 dollar/rebate band. **Canonical "shocking unknown structural fact" reveal** (see CLAUDE.md Best-kept-secret pattern). Confirm whether Cuban engaged; 17.8K looks organic. |
+| "Three pharmacies. One PBM. Five contract clauses that decide which pharmacy fills your specialty drug." (specialty routing) | Contract decoder | 3,546 | 2,633 | 8 | 1 | 6 | 4 | Reference-asset behavior (Library-NN-like): low reach, **highest follower-conversion of the week at 22.6/10K**, save-driven, 1 comment. Measure on saves + qualified conversion, not reach. |
+| "A biosimilar is available. FDA-approved. Clinically equivalent. Lower net cost." (ran twice) | Informational text | 1,453 / 779 | 982 / 497 | 2 / 0 | 7 / 6 | 4 / 1 | 4 / 4 | Same educational message, two slots, both soft. Isolates the variable: informational opener with **no named villain** underperforms a named-adversary decoder by ~10x in the same week. |
+| "Q3 planning starts in July… your claims data" (Self-Funded CFO PBM Metrics, 2-pg visual) | Planning / toolkit | 984 | 648 | 0 | 5 | 6 | 3 | Decent saves (reference value), low reach. Educational, nobody named. |
+| "Audit rights keep coming up…" | Musing text | 989 | 761 | 0 | 0 | 1 | 2 | No hook teeth, no conversion. Musing, not accusation. |
+| LinkedIn Newsletter (Biosimilar Strategy Briefing) | Newsletter | 1,303 | 914 | 2 | 1 | 1 | 1 | 585 article views, 764 email sends, **47% open rate** (vs. ~49% historical). Steady. |
+
+**Week takeaway (early June 2026):** one confrontational named-adversary decoder (the offshore-GPO rebate reveal) did ~66% of the week's total LinkedIn reach; every informational/educational post landed under 1.5K. Clean in-week proof of the confrontation-vs-information gap. **Summer slowdown is real** (the non-breakout floor ran 779-3,546, below the documented 5-15K non-amplified floor), **but a genuinely-shocking unknown-fact reveal still cleared 17.8K.** The season lowers the floor; the hook still clears it. Drafting implication: lean harder into named-adversary + shocking-unknown-fact reveals through Jun-Aug, not lighter. Substack side same week: every post beat the 44-view baseline (Biosimilar Mon 93, Roundup Wed 73, Specialty Thu 72), +3 free subs, 2 free traceable to the LinkedIn first-comment, ~75-85% email-driven traffic.
+
 ### Performance by Format (All-Time Averages)
 
 | Format | Posts | Avg Impressions | Avg Reactions | Avg Comments | Avg Saves | Avg Followers |

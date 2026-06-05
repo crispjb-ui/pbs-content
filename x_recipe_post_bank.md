@@ -213,11 +213,13 @@ Brown bagging: your PBM has the specialty drug shipped to the member, who carrie
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 
-**20. Gpo Offshore Rebate Routing**
+**20. Gpo Offshore Rebate Routing** _(PROVEN BREAKOUT — the "shocking unknown fact" reveal)_
 ```
 Your PBM's rebates may run through a group purchasing organization it owns, often registered offshore. Fees get taken at that layer before the "pass-through" to your plan even begins. The contract says 100%. The GPO already took its cut in another country.
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+> **Top-tier shape.** The LinkedIn version of this reveal ("Your PBM passes through 100% of manufacturer rebates. The rebate aggregator does not have to.") hit **17,816 impressions / 40 comments / 33 saves / 18 followers** in early June 2026, roughly 10x the same week's informational posts and clearing the summer-slowdown floor. This is the **genuinely-unknown structural-fact reveal** (offshore rebate aggregators/GPOs: the real entities are Ascent, Emisar, Zinc). Prioritize it for AM amplifier-window and weekend Tier A slots. The lever is the shock of a fact the audience truly did not know, so rotate to the next genuinely-unknown one as spread/DIR become common knowledge. See CLAUDE.md "Best-kept secret" pattern.
 
 **21. Price Protection Reclassification**
 ```
