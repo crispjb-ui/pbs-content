@@ -5,6 +5,9 @@ allowed-tools: Bash, Read, Grep, Glob
 
 You are printing the PBS content-pipeline health report. **Read-only — do not build or edit anything.**
 
+## Step 0 — Open items reminder
+If `OPEN_ITEMS.md` exists at the repo root, print its contents verbatim at the TOP of the report under an `OPEN ITEMS` banner. This is the standing reminder of pending builds/decisions (the email funnel role-segmentation build, the Potter cascade hold, etc.) so they surface every time pipeline health is checked.
+
 ## Step 1 — Buffer
 1. `date +%Y-%m-%d` (America/New_York).
 2. Current week: anchor **W25 Monday = 2026-06-22**; `current_week = 25 + floor((today - 2026-06-22)/7)`.
