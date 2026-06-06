@@ -19,9 +19,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jun 29 | 7:00 PM | X | question [A6] | PART 4B · Mon | [ ] |
 | Mon Jun 29 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
 | Tue Jun 30 | 8:00 AM | X | dollar comparison (copay vs cash) | PART 4B · Tue | [ ] |
-| Tue Jun 30 | 10:00 AM | LI Feed | Post 93 — Tuesday visual ⚠ (original "Formulary Decision You Never Made" draft is on Monday's topic; displaced to backlog. Slot needs a non-formulary Transparency replacement before ship) | Post 93 | [ ] |
+| Tue Jun 30 | 10:00 AM | LI Feed | Post 93 — "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (Marked-Up Contract Page, Transparency) | Post 93 | [ ] |
 | Tue Jun 30 | 12:00 PM | X | structural / news-adjacent (hold) | PART 4B · Tue | [ ] |
-| Tue Jun 30 | 1:30 PM | LI Company | Reshare of Post 93 ⚠ (redo after Tuesday slot is refilled) | Post 93 Reshare | [ ] |
+| Tue Jun 30 | 1:30 PM | LI Company | Reshare of Post 93 | Post 93 Reshare | [ ] |
 | Tue Jun 30 | 5:00 PM | X | Tue decoder driver (after the Tue LinkedIn post publishes) | PART 4B · Tue | [ ] |
 | Tue Jun 30 | 7:00 PM | X | question [A7] | PART 4B · Tue | [ ] |
 | Tue Jun 30 | 8:30 PM | X | one question [B7] | PART 4B · Tue | [ ] |
@@ -483,26 +483,67 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 93 - Tuesday 10:00 AM ⚠ SLOT OPEN
+## Post 93 - Tuesday 10:00 AM
+### "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" — Marked-Up Contract Page Messy Infographic
 
-_⚠ Tuesday slot needs a non-formulary Transparency-pillar replacement before ship. The original draft ("The Formulary Decision You Never Made," Marked-Up Contract Page messy infographic) sat on Monday's formulary-management family, which violates the Tuesday ≠ Monday anti-cannibalization rule and has no deep-dive home, so it was parked in `evergreen_visual_backlog.md` ("Stripped from W26" section) with its full spec, post copy, and image prompt preserved. Recommended non-formulary Transparency replacement topics: 5 Plan-Sponsor Reporting Rights Decoded · Same Plan. Three PBM Quarterly Reports. Three Different Net Costs. (Same/Same/Different photoreal) · 5 Manufacturer-Direct Compensation Terms Decoded. Format (Marked-Up Contract Page messy infographic, Cycle-W4) stays; only the topic changes. Until filled, the Tuesday Company Reshare below is also ⚠._
+**Format:** Messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px. (Tuesday Cycle-W4 messy-infographic slot; replaces the displaced formulary draft, which is parked in `evergreen_visual_backlog.md`.)
+**Pillar:** Transparency & Industry Education.
+**Triple-distinct check:** Mon = Formulary Management (the drug list) · Tue = manufacturer payments that sit OUTSIDE the rebate pass-through · Thu = Step Therapy Override (the workflow). Three different subjects. ✓
+**Why this combination:** Monday shows rebates shape the formulary; Tuesday shows the manufacturer money that never gets *called* a rebate, so the pass-through guarantee never touches it. Non-formulary, Transparency-pillar, and it foreshadows W29 Rebate Economics. Hits the Tuesday Excellence bar (confrontational hook, proprietary anchor, Contract Library cross-promo).
+
+#### Post Copy
+
+```
+Your PBM says it passes through 100% of rebates. Then it collects five other payments from drug manufacturers it does not call rebates, so the pass-through guarantee never touches them.
+
+We review hundreds of PBM contracts a year at PBS. These line items hide outside the rebate definition on most of them. Same manufacturer money, tied to your plan's drugs, sitting one defined word away from your report.
+
+Five payments to decode:
+
+1. Administrative / "admin reimbursement" fees
+2. Price protection payments
+3. Formulary placement / exclusivity payments
+4. Data and insights fees
+5. GPO / rebate-aggregator service fees
+
+What each one is, and the contract language that keeps it off your pass-through, in the card.
+
+Save this before your next rebate-guarantee conversation.
+
+#PBMTransparency #DrugPricing #PharmacyBenefits
+```
+
+#### First Comment
+
+```
+The full protective language for manufacturer payment categories, the redline that pulls all five back inside your pass-through definition, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+```
+
+#### Marked-Up Contract Page Image Generation Prompt
+
+> Photorealistic top-down photo, 1080 x 1350 px (4:5). An open printed contract page on a dark wood desk under soft daylight. Off-white page (#F5F0E4), bold black serif header: "MANUFACTURER PAYMENTS — DEFINITIONS." Five Plex Mono term entries, each with a 2-line legalese snippet:
+> 1. Administrative Fee. "...amounts retained by PBM for administrative services, excluded from Rebate."
+> 2. Price Protection. "...payments tied to list-price increases, not classified as Rebates hereunder."
+> 3. Formulary Placement Payment. "...consideration for preferred status, separate from Rebate accrual."
+> 4. Data & Insights Fee. "...fees for de-identified utilization data licensed to manufacturers."
+> 5. GPO Service Fee. "...fees collected by the group purchasing organization prior to pass-through."
+>
+> Five red ballpoint annotations circling "excluded from Rebate," "not classified as Rebates," "separate from Rebate," "licensed to manufacturers," and "prior to pass-through," each with a short red note ("Manufacturer money. Pull it into pass-through."). Top, handwritten black marker, double-underlined: "Five payments. Zero called 'rebate.'" Below in red: "100% pass-through never touches them." Bottom red pen: "PBS reviews 100s of PBM contracts a year. These hide outside the rebate definition on most." Black ballpoint at top-right. Realistic paper texture, soft daylight; off-white paper, faint black legalese, red handwritten ballpoint, dark wood. No logos, no people, no PBM names. Mobile-feed legibility: five generously-spaced items; title + terms readable at ~400px.
 
 ---
 
-## Post 93 Company Reshare - Tuesday 1:30 PM ⚠ (redo after Tuesday slot is refilled)
+## Post 93 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 48 words
+**Word Count:** ~45 words
 
 #### Reshare Copy
 
 ```
-Most employers never decided which drugs sit on their formulary. The PBM did, using rebate math the plan sponsor rarely sees.
+Your PBM passes through 100% of rebates, then collects five other manufacturer payments it never calls rebates: admin fees, price protection, formulary placement, data fees, and GPO service fees.
 
-Higher rebate does not always mean lower net cost.
+Ginny Crisp decodes the five and the contract language that pulls them back into pass-through.
 
-Ginny Crisp walks through how to ask for the net cost analysis that exposes the difference.
-
-#Formulary #SelfFundedEmployers #EmployeeBenefits
+#PBMTransparency #PlanSponsors #PharmacyBenefits
 ```
 
 ---

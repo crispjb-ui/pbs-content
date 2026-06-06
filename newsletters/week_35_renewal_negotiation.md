@@ -19,9 +19,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Sep 2 | 7:30 AM | Substack | Deep dive: "The Renewal Negotiation Playbook" | PART 1 | [ ] |
 | Tue Sep 2 | 7:45 AM | LI Newsletter | Renewal Negotiation Briefing (Issue #30) | PART 2 | [ ] |
 | Tue Sep 2 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Tue | [ ] |
-| Tue Sep 2 | 10:00 AM | LI Feed | ⚠ Tuesday visual OPEN — paused-Whiteboard "2027 Renewal" draft parked to `evergreen_visual_backlog.md` #39; slot Library 09 Contract Comparison (non-renewal provision family) or a backlog messy-infographic on a non-renewal pillar | PART 3 (Post 129) | [ ] |
+| Tue Sep 2 | 10:00 AM | LI Feed | Post 129 — "$1,200 Cream. $47 Alternative. Same Active Ingredient." (dollar-comparison messy infographic, Cost Containment) | Post 129 | [ ] |
 | Tue Sep 2 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
-| Tue Sep 2 | 1:30 PM | LI Company | ⚠ Reshare of Post 129 (redo after Tuesday retarget) | Post 129 Reshare | [ ] |
+| Tue Sep 2 | 1:30 PM | LI Company | Reshare of Post 129 | Post 129 Reshare | [ ] |
 | Tue Sep 2 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Sep 2 | 7:00 PM | X | question [A6] | PART 4B · Tue | [ ] |
 | Tue Sep 2 | 8:30 PM | X | one question [B4] | PART 4B · Tue | [ ] |
@@ -428,17 +428,50 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 129 - Tuesday 10:00 AM
+### "$1,200 Cream. $47 Alternative. Same Active Ingredient." — Dollar-Comparison Messy Infographic
 
-⚠ **Tuesday visual OPEN.** The original "How I'd Map a 2027 Renewal on a Whiteboard" Whiteboard Carousel was a paused-format draft (Whiteboard is paused per CLAUDE.md) AND on Monday's renewal-negotiation topic family (anti-cannibalization). It has been **parked in full to `evergreen_visual_backlog.md` (entry #39)** with its complete slide spec, post copy, and image prompt. Replace this slot before ship with one of:
+**Format:** Messy infographic, dollar-comparison card (single image, 1080 x 1350 px). Replaces the paused Whiteboard draft (parked in `evergreen_visual_backlog.md` #39).
+**Pillar:** Cost Containment Strategies.
+**Triple-distinct check:** Mon/Tue 7:30 deep dive (Labor Day shift) = Renewal Negotiation · Tue 10:00 feed = high-cost-formulation waste (dollar comparison) · Thu = Termination Clause decoder. Three different subjects. ✓
+**Why this combination:** A concrete, scroll-stopping dollar comparison that doubles as renewal leverage (the waste you find is what you take to the table), so the first comment bridges to the deep dive without repeating it. Named-actor, save-driven, hits the Tuesday Excellence bar.
 
-- **Library 09 Contract Comparison Carousel** on a non-renewal provision family (Performance Remediation, Manufacturer Payment Categories, or Step Therapy Override) per the Library NN cadence and the Tuesday-visual-≠-Monday rule. Library week → add the `## Substack Contract Library Update` section and route the first comment to the Contract Language Library.
-- **A backlog messy-infographic / carousel** on a non-renewal pillar from `evergreen_visual_backlog.md`.
+#### Post Copy
 
-When the replacement is built, redo the Post 129 Company Reshare below to match.
+```
+$1,200 cream. $47 alternative. Same active ingredient, same strength. Your plan paid for the first one because nobody flagged it.
+
+We see this on nearly every claims review at PBS: high-cost compounded and "specialty" formulations that have a clinically equivalent option sitting one substitution away. The PBM adjudicated the expensive one. The contract let it. The report did not flag it.
+
+Pull your top 20 claims by cost. For each, ask: is there a clinically equivalent option, and why did the expensive version pay? That list is your renewal leverage.
+
+Same ingredient. Different price. The difference is whoever was supposed to be watching.
+
+#PharmacyCosts #SelfFundedEmployers #EmployeeBenefits
+```
+
+#### First Comment
+
+```
+This is exactly the kind of line item that becomes leverage at renewal. This week's deep dive on Benefit Blind Spots walks how to turn claims findings into negotiating position: [MONDAY DEEP DIVE URL]
+```
+
+#### Dollar-Comparison Image Generation Prompt
+
+> Photorealistic 1080 x 1350 px (4:5). A desk scene, two prescription items side by side under soft daylight. Left: a high-end compounded cream tube/box with a printed price tag in Plex Mono Medium tabular figures: "$1,200.00". Right: a plain generic tube with a tag: "$47.00". Between them a bold hand-written red marker "=" crossed out, and red text: "SAME ACTIVE INGREDIENT." Top, black marker double-underlined: "$1,200 cream. $47 alternative." Below in red pen: "Same molecule. Your plan paid the first one." Bottom red pen: "PBS sees this on nearly every claims review." Off-white tags (#F5F0E4), Plex Mono for the dollar amounts, red handwritten ballpoint annotations, dark wood surface. No logos, no people, no brand names. Mobile-feed legibility: the two prices dominate the center ~70% and read at ~400px.
 
 #### Post 129 Company Reshare - Tuesday 1:30 PM
 
-⚠ Redo after the Tuesday slot is retargeted (the prior reshare copy referenced the parked Whiteboard draft and was removed with it).
+**Word Count:** ~45 words
+
+#### Reshare Copy
+
+```
+$1,200 cream. $47 alternative. Same active ingredient. The expensive one adjudicated because the contract let it and the report never flagged it.
+
+Ginny Crisp shows how to pull the claims that become your renewal leverage.
+
+#PharmacyCosts #PlanSponsors #EmployeeBenefits
+```
 
 ---
 

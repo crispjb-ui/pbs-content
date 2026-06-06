@@ -19,7 +19,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jul 6 | 7:00 PM | X | question [A13] | PART 4B · Mon | [ ] |
 | Mon Jul 6 | 8:30 PM | X | aphorism [C10] | PART 4B · Mon | [ ] |
 | Tue Jul 7 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Tue | [ ] |
-| Tue Jul 7 | 10:00 AM | LI Feed | Post 97 — "Five Reporting Clauses That Let You Actually Run the PBM Review" (Library 04 · Contract Comparison) | Post 97 | [ ] |
+| Tue Jul 7 | 10:00 AM | LI Feed | Post 97 — "Five Reporting Clauses That Let You Actually Run the PBM Review" (Library 05 · Contract Comparison) | Post 97 | [ ] |
 | Tue Jul 7 | 10:05 AM | LI Feed | Post 97 first comment | Post 97 | [ ] |
 | Tue Jul 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Jul 7 | 1:30 PM | LI Company | Reshare of Post 97 | Post 97 Reshare | [ ] |
@@ -589,9 +589,9 @@ Use the canonical "Contract Language Library" prompt from `newsletters/week_17_c
 
 ---
 
-## Substack Contract Library Update — Library 04 Week
+## Substack Contract Library Update — Library 05 Week
 
-Library 04 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
+Library 05 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
 
 **Publishing prompt:**
 
@@ -599,7 +599,7 @@ Library 04 ships Tuesday on LinkedIn. Push the matching Contract Library update 
 
 After publishing, tell Claude the push is done so the Update Log in `substack_contract_language_library.md` gets moved from `_Pending: next push_` to a dated row.
 
-**Provisions Library 04 should have added or amended before this push** (confirm Claude has merged these into the article body; if not, ask Claude "update the contract library for Library 04"). The Library 04 carousel is "Five Reporting Clauses That Let You Actually Run the PBM Review":
+**Provisions Library 05 should have added or amended before this push** (confirm Claude has merged these into the article body; if not, ask Claude "update the contract library for Library 05"). The Library 05 carousel is "Five Reporting Clauses That Let You Actually Run the PBM Review":
 - Reporting data-access clause: what claims, pricing, and rebate data the PBM must deliver, in what format, on what cadence
 - Guarantee calculation methodology clause: how GER, rebate, and admin guarantees are computed and reconciled
 - Benchmarking rights clause: the plan's right to benchmark pricing against market
@@ -611,15 +611,15 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 97 - Tuesday 10:00 AM
-### "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library 04 Contract Comparison Carousel
+### "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library 05 Contract Comparison Carousel
 
 **Template:** Contract Comparison carousel (template #4, PROVEN). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01, 02, and 03.
 **Format class:** Carousel (Tuesday Cycle-W5 slot)
 **Pillar:** Broker/Consultant Resources (different from Monday's PBM Contract Insights / PBM Evaluation topic)
-**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 04 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Focus: contract language that governs performance-review data access and methodology.
-**Why this combination:** The "annual performance review" is only as good as the contract clauses that define what data the PBM must deliver, how guarantees are calculated, and what leverage the plan has if reports are inadequate. Library 04 gives brokers and plan sponsors the exact redlines they need to make performance reviews into audits, not PowerPoints. Closing slide funnels back to the Substack Contract Language Library where the full protective language lives.
+**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 05 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Focus: contract language that governs performance-review data access and methodology.
+**Why this combination:** The "annual performance review" is only as good as the contract clauses that define what data the PBM must deliver, how guarantees are calculated, and what leverage the plan has if reports are inadequate. Library 05 gives brokers and plan sponsors the exact redlines they need to make performance reviews into audits, not PowerPoints. Closing slide funnels back to the Substack Contract Language Library where the full protective language lives.
 
-> **Success metric (Library 04):** Target 12+ saves in first 2 weeks. Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework based on first-week feed impressions alone. Publish a contingent Substack Note once save count crosses 10.
+> **Success metric (Library 05):** Target 12+ saves in first 2 weeks. Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework based on first-week feed impressions alone. Publish a contingent Substack Note once save count crosses 10.
 
 #### Post Copy
 
@@ -1189,7 +1189,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 
 ## Content Schedule
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
-- [ ] Tuesday: Post 97 Library 04 Contract Comparison Carousel at 10:00 AM + First Comment + Reshare 1:30 PM
+- [ ] Tuesday: Post 97 Library 05 Contract Comparison Carousel at 10:00 AM + First Comment + Reshare 1:30 PM
 - [ ] Wednesday: Post 98 Strong POV text at 10:00 AM
 - [ ] Thursday: Field Note at 7:30 AM, Post 99 Infographic at 10:00 AM + Reshare 1:30 PM
 - [ ] Friday: Post 100 Tease Hook at 10:00 AM
@@ -1202,7 +1202,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 97 Library 04 Contract Comparison Carousel | 7 slides (1080x1350 each) | "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library NN series entry on performance-review data / methodology / benchmarking / specialty-routing disclosure / findings clauses, Broker/Consultant Resources pillar |
+| Post 97 Library 05 Contract Comparison Carousel | 7 slides (1080x1350 each) | "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library NN series entry on performance-review data / methodology / benchmarking / specialty-routing disclosure / findings clauses, Broker/Consultant Resources pillar |
 | Post 99 Infographic | Single image (1080x1350) | Scorecard overview with 10 factors + score zones |
 | Substack article header | 2240x1260 | [ ] Design needed |
 | Field Note header | 1200x600 | [ ] Design needed |
@@ -1216,7 +1216,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 
 | Post | Time | Impressions | Eng Rate | Comments | Saves |
 |------|------|------------|----------|----------|-------|
-| Post 97 (Tue Library 04 Contract Comparison Carousel) | 10:00 AM | | | | |
+| Post 97 (Tue Library 05 Contract Comparison Carousel) | 10:00 AM | | | | |
 | Post 98 (Wed Text) | 10:00 AM | | | | |
 | Post 99 (Thu Infographic) | 10:00 AM | | | | |
 | Post 100 (Fri Tease) | 10:00 AM | | | | |
