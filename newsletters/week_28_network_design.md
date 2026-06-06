@@ -3,65 +3,67 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Sun Jul 12 | - | Prep | Final review of all content | [ ] |
-| Mon Jul 13 | 7:30 AM | Substack | "Pharmacy Network Design: The Cost Variable Most Employers Overlook" | [ ] |
-| Mon Jul 13 | 7:45 AM | LinkedIn Newsletter | Network Design Briefing | [ ] |
-| Mon Jul 13 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
-| Mon Jul 13 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Jul 13 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Jul 13 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Mon Jul 13 | 7:00 PM | X (Twitter) | question post [A4] | [ ] |
-| Mon Jul 13 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
-| Tue Jul 14 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
-| Tue Jul 14 | 10:00 AM | LinkedIn Feed | Post 101 - Medicare GLP-1 "Bridge" Access Gauntlet, Decoded (Messy Infographic, news-pegged; displaced the Specialty Dollars funnel → backlog Entry 38) | [ ] |
-| Tue Jul 14 | 10:05 AM | LinkedIn Feed | Post 101 - First Comment | [ ] |
-| Tue Jul 14 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Jul 14 | 1:30 PM | LinkedIn Company | Company Reshare of Post 101 | [ ] |
-| Tue Jul 14 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Jul 14 | 7:00 PM | X (Twitter) | question post [A5] | [ ] |
-| Tue Jul 14 | 8:30 PM | X (Twitter) | one question [B3] | [ ] |
-| Wed Jul 15 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
-| Wed Jul 15 | 10:00 AM | LinkedIn Feed | Post 102 - "Same drug. Retail: one price. Mail order: different price. Specialty: another." Strong POV (TEXT) / VIDEO TEST #2 | [ ] |
-| Wed Jul 15 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Jul 15 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Wed Jul 15 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Jul 15 | 7:00 PM | X (Twitter) | question post [A6] | [ ] |
-| Wed Jul 15 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
-| Thu Jul 16 | 7:30 AM | Substack | Field Note: "Mail Order Economics: When It Saves and When It Does Not" | [ ] |
-| Thu Jul 16 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
-| Thu Jul 16 | 10:00 AM | LinkedIn Feed | Post 103 - 5 Questions About Mail-Order Economics (Carousel, Slot C evergreen rotation) | [ ] |
-| Thu Jul 16 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Jul 16 | 1:30 PM | LinkedIn Company | Company Reshare of Post 103 | [ ] |
-| Thu Jul 16 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Jul 16 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
-| Thu Jul 16 | 7:00 PM | X (Twitter) | question post [A7] | [ ] |
-| Thu Jul 16 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
-| Fri Jul 17 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
-| Fri Jul 17 | 10:00 AM | LinkedIn Feed | Post 104 - "The money trail your claims report does not show" Tease Hook (TEXT) | [ ] |
-| Fri Jul 17 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Jul 17 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
-| Fri Jul 17 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Jul 17 | 7:00 PM | X (Twitter) | question post [A8] | [ ] |
-| Fri Jul 17 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D5] | [ ] |
-| Sat Jul 18 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
-| Sat Jul 18 | 8:00 AM | X (Twitter) | recipe / DIR fees (Tier A weekend Cuban-bait) | [ ] |
-| Sat Jul 18 | 10:00 AM | X (Twitter) | white bagging (Tier A) | [ ] |
-| Sat Jul 18 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Jul 18 | 2:30 PM | X (Twitter) | specialty routing (Tier A) | [ ] |
-| Sat Jul 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Jul 18 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
-| Sat Jul 18 | 8:30 PM | X (Twitter) | aphorism [C5] | [ ] |
-| Sun Jul 19 | 8:00 AM | X (Twitter) | recipe / Mail-order steering (Tier A weekend Cuban-bait) | [ ] |
-| Sun Jul 19 | 10:00 AM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
-| Sun Jul 19 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Jul 19 | 2:30 PM | X (Twitter) | NADAC/MAC arbitrage (Tier A) | [ ] |
-| Sun Jul 19 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Jul 19 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
-| Sun Jul 19 | 8:30 PM | X (Twitter) | one question [B5] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (timeline had drifted: the Thursday Field Note and post that actually shipped are GER-focused, "Auditing Your Generic Effective Rate Against the Guarantee" plus "5 GER Terms Decoded," not the Mail-Order Economics drafts, which were displaced to the backlog under the triple-distinct rule)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Jul 12 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Jul 13 | 7:30 AM | Substack | Deep dive: "Pharmacy Network Design: The Cost Variable Most Employers Overlook" | PART 1 | [ ] |
+| Mon Jul 13 | 7:45 AM | LI Newsletter | Network Design Briefing | PART 2 | [ ] |
+| Mon Jul 13 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Mon | [ ] |
+| Mon Jul 13 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Jul 13 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Jul 13 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Jul 13 | 7:00 PM | X | question [A4] | PART 4B · Mon | [ ] |
+| Mon Jul 13 | 8:30 PM | X | aphorism [C3] | PART 4B · Mon | [ ] |
+| Tue Jul 14 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Tue | [ ] |
+| Tue Jul 14 | 10:00 AM | LI Feed | Post 101 — Medicare GLP-1 "Bridge" Access Gauntlet, Decoded (messy infographic, news-pegged) | Post 101 | [ ] |
+| Tue Jul 14 | 10:05 AM | LI Feed | Post 101 first comment | Post 101 | [ ] |
+| Tue Jul 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Jul 14 | 1:30 PM | LI Company | Reshare of Post 101 | Post 101 Reshare | [ ] |
+| Tue Jul 14 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Jul 14 | 7:00 PM | X | question [A5] | PART 4B · Tue | [ ] |
+| Tue Jul 14 | 8:30 PM | X | one question [B3] | PART 4B · Tue | [ ] |
+| Wed Jul 15 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Wed | [ ] |
+| Wed Jul 15 | 10:00 AM | LI Feed | Post 102 — "Same drug. Retail: one price. Mail order: different price. Specialty: another." (POV text / Video Test #2) | Post 102 | [ ] |
+| Wed Jul 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Jul 15 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Jul 15 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Jul 15 | 7:00 PM | X | question [A6] | PART 4B · Wed | [ ] |
+| Wed Jul 15 | 8:30 PM | X | aphorism [C4] | PART 4B · Wed | [ ] |
+| Thu Jul 16 | 7:30 AM | Substack | Field Note: "Auditing Your Generic Effective Rate Against the Guarantee" | PART 1B | [ ] |
+| Thu Jul 16 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Thu | [ ] |
+| Thu Jul 16 | 10:00 AM | LI Feed | Post 103 — "5 GER Terms Decoded" (Chart-on-Whiteboard messy infographic) | Post 103 | [ ] |
+| Thu Jul 16 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: GER decoder]` | PART 4B · Thu | [ ] |
+| Thu Jul 16 | 1:30 PM | LI Company | Reshare of Post 103 | Post 103 Reshare | [ ] |
+| Thu Jul 16 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Jul 16 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Jul 16 | 7:00 PM | X | question [A7] | PART 4B · Thu | [ ] |
+| Thu Jul 16 | 8:30 PM | X | one question [B4] | PART 4B · Thu | [ ] |
+| Fri Jul 17 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Fri | [ ] |
+| Fri Jul 17 | 10:00 AM | LI Feed | Post 104 — "The money trail your claims report does not show" tease (teases W29) | Post 104 | [ ] |
+| Fri Jul 17 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Jul 17 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Jul 17 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Jul 17 | 7:00 PM | X | question [A8] | PART 4B · Fri | [ ] |
+| Fri Jul 17 | 8:30 PM | X | origin-anchored (1/week) [D5] | PART 4B · Fri | [ ] |
+| Sat Jul 18 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
+| Sat Jul 18 | 8:00 AM | X | recipe / DIR fees (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 18 | 10:00 AM | X | white bagging (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 18 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Jul 18 | 2:30 PM | X | specialty routing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 18 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Jul 18 | 7:00 PM | X | question [A9] | PART 4B · Sat | [ ] |
+| Sat Jul 18 | 8:30 PM | X | aphorism [C5] | PART 4B · Sat | [ ] |
+| Sun Jul 19 | 8:00 AM | X | recipe / Mail-order steering (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 19 | 10:00 AM | X | point-of-sale clawback (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 19 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Jul 19 | 2:30 PM | X | NADAC/MAC arbitrage (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 19 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Jul 19 | 7:00 PM | X | question [A10] | PART 4B · Sun | [ ] |
+| Sun Jul 19 | 8:30 PM | X | one question [B5] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -150,6 +152,57 @@ Have you compared cost per script across dispensing channels on your plan? If yo
 *Questions on network design? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*
+
+---
+
+### In-Article Visual: Network Channel Comparison
+
+_Embedded channel-comparison visual for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the "Five channels, five different cost profiles" section above. Rendered as a single static comparison graphic for the article, not a feed carousel (the Whiteboard carousel format is paused for LinkedIn feed use)._
+
+#### Channel Comparison Concept
+
+**Design:** Off-white (#F5F5F0) grid background. Caveat font. Hand-drawn elements. Originally specced as 7 slides; render as a single stacked comparison graphic for the article body.
+
+**Panel 1 - Hook:**
+- "5 Pharmacy Channels. 5 Cost Profiles."
+- Below: "Which one is costing your plan the most?"
+- Hand-drawn pill icon with five arrows spreading outward
+
+**Panel 2 - Retail:**
+- Large handwritten "RETAIL"
+- Cost indicator: "$$$" circled in red
+- Bullets: "Convenient for acute Rx" / "Most expensive for maintenance" / "90-day at retail = better than 30-day, still not cheapest"
+- Annotation: "Good for: short-term prescriptions"
+
+**Panel 3 - Mail Order:**
+- Large "MAIL ORDER"
+- Cost: "$$" in Primary Blue
+- Bullets: "Lower unit cost for brand maintenance" / "Not always cheaper for generics" / "Member friction with mandatory programs"
+- Annotation: "Test with your own data"
+
+**Panel 4 - Specialty:**
+- Large "SPECIALTY"
+- Cost: "$$$$" circled in red
+- Bullets: "Highest cost per claim" / "PBM often owns the pharmacy" / "Routing serves PBM margin?"
+- Red annotation: "← Ask who chose this pharmacy"
+
+**Panel 5 - White Bagging:**
+- Large "WHITE BAGGING"
+- Cost: "$" in green
+- Bullets: "Pharmacy → physician office for admin" / "Medical benefit → pharmacy benefit" / "Captures PBM-negotiated pricing"
+- Green annotation: "Biggest per-claim savings potential"
+
+**Panel 6 - Home Infusion:**
+- Large "HOME INFUSION"
+- Cost: "$" in green
+- Bullets: "No facility fees" / "Clinically appropriate candidates" / "Member convenience"
+- Annotation: "Lowest setting cost for infusion drugs"
+
+**Panel 7 - CTA:**
+- Primary Blue background
+- White: "One data request reveals the story."
+- Accent Blue: "Net cost per script. By channel. Top 10 drugs."
+- team@rxbs.org | Benefit Blind Spots | PBS logo
 
 ---
 
@@ -524,77 +577,7 @@ This week's Benefit Blind Spots deep dive on pharmacy network design is the oper
 
 ## Post 103 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Questions About Mail-Order Economics (Slot C of the evergreen rotation).**
-
-### Network Channel Comparison (Whiteboard Carousel) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Whiteboard Carousel (7 slides) - Template A
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~80 words
-
-#### Post Copy
-
-```
-Five pharmacy channels. Five different cost profiles. One comparison most employers have never run.
-
-Retail. Mail order. Specialty. White bagging. Home infusion. Each handles different drug types at different costs. The default routing was set by the PBM. Whether it was set for your plan's cost objectives is the question.
-
-Here is the channel-by-channel breakdown.
-
-#NetworkDesign #SelfFundedEmployers #EmployeeBenefits
-```
-
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
-
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
-#### Whiteboard Carousel Slides (Template A)
-
-**Design:** Off-white (#F5F5F0) grid background. Caveat font. Hand-drawn elements.
-
-**Slide 1 - Hook:**
-- "5 Pharmacy Channels. 5 Cost Profiles."
-- Below: "Which one is costing your plan the most?"
-- Hand-drawn pill icon with five arrows spreading outward
-- Swipe indicator in Accent Blue
-
-**Slide 2 - Retail:**
-- Large handwritten "RETAIL"
-- Cost indicator: "$$$" circled in red
-- Bullets: "Convenient for acute Rx" / "Most expensive for maintenance" / "90-day at retail = better than 30-day, still not cheapest"
-- Annotation: "Good for: short-term prescriptions"
-
-**Slide 3 - Mail Order:**
-- Large "MAIL ORDER"
-- Cost: "$$" in Primary Blue
-- Bullets: "Lower unit cost for brand maintenance" / "Not always cheaper for generics" / "Member friction with mandatory programs"
-- Annotation: "Test with your own data"
-
-**Slide 4 - Specialty:**
-- Large "SPECIALTY"
-- Cost: "$$$$" circled in red
-- Bullets: "Highest cost per claim" / "PBM often owns the pharmacy" / "Routing serves PBM margin?"
-- Red annotation: "← Ask who chose this pharmacy"
-
-**Slide 5 - White Bagging:**
-- Large "WHITE BAGGING"
-- Cost: "$" in green
-- Bullets: "Pharmacy → physician office for admin" / "Medical benefit → pharmacy benefit" / "Captures PBM-negotiated pricing"
-- Green annotation: "Biggest per-claim savings potential"
-
-**Slide 6 - Home Infusion:**
-- Large "HOME INFUSION"
-- Cost: "$" in green
-- Bullets: "No facility fees" / "Clinically appropriate candidates" / "Member convenience"
-- Annotation: "Lowest setting cost for infusion drugs"
-
-**Slide 7 - CTA:**
-- Primary Blue background
-- White: "One data request reveals the story."
-- Accent Blue: "Net cost per script. By channel. Top 10 drugs."
-- team@rxbs.org | Benefit Blind Spots | PBS logo
-
----
+_The Network Channel Comparison visual was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Network Channel Comparison). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 GER Terms Decoded — Chart-on-Whiteboard Messy Infographic
 
@@ -610,7 +593,7 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Post Copy
 
 ```
-Five terms decide whether your generic effective rate guarantee actually applies to your plan's generic spend. The PBM controls four of them.
+Same generic. Your PBM pays its own pharmacy up to twice what it pays the independent down the street, then its routing rules make sure the script lands at the one it owns. The FTC found the big-3 PBMs reimbursed their affiliated pharmacies as much as 100 percent more than independents for the identical drug. Your generic effective rate guarantee is supposed to be the check on exactly that spread. Five terms decide whether it actually applies to your plan's generic spend. The PBM controls four of them.
 
 I review hundreds of PBM contracts a year at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
 
@@ -990,7 +973,7 @@ Clawback: your member's copay is set higher than the drug actually costs, and th
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
 ```
-"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · NADAC/MAC arbitrage (Tier A):**
 ```
