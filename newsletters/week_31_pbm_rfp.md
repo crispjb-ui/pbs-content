@@ -3,56 +3,69 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Aug 3 | 7:30 AM | Substack | "The PBM RFP: What to Ask and What the Answers Actually Mean" | [ ] |
-| Mon Aug 3 | 7:45 AM | LinkedIn Newsletter | PBM RFP Briefing | [ ] |
-| Mon Aug 3 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
-| Mon Aug 3 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Aug 3 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Aug 3 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
-| Mon Aug 3 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
-| Tue Aug 4 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
-| Tue Aug 4 | 10:00 AM | LinkedIn Feed | Post 113 - "Three Cost Containment Levers. Three Different Clocks." Mountain Clean Infographic (different pillar) | [ ] |
-| Tue Aug 4 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Aug 4 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Aug 4 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
-| Tue Aug 4 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
-| Wed Aug 5 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
-| Wed Aug 5 | 10:00 AM | LinkedIn Feed | Post 114 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Aug 5 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Aug 5 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Aug 5 | 7:00 PM | X (Twitter) | question post [A11] | [ ] |
-| Wed Aug 5 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
-| Thu Aug 6 | 7:30 AM | Substack | Field Note: "Normalizing PBM Pricing Proposals: Apples to Apples" | [ ] |
-| Thu Aug 6 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
-| Thu Aug 6 | 10:00 AM | LinkedIn Feed | Post 115 - 5 Questions About Clinical Program ROI (Carousel, Slot C evergreen rotation) | [ ] |
-| Thu Aug 6 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Aug 6 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Aug 6 | 7:00 PM | X (Twitter) | question post [A12] | [ ] |
-| Thu Aug 6 | 8:30 PM | X (Twitter) | one question [B3] | [ ] |
-| Fri Aug 7 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
-| Fri Aug 7 | 10:00 AM | LinkedIn Feed | Post 116 - Tease Hook (teases Week 32) | [ ] |
-| Fri Aug 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Aug 7 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Aug 7 | 7:00 PM | X (Twitter) | question post [A13] | [ ] |
-| Fri Aug 7 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D8] | [ ] |
-| Sat Aug 8 | 8:00 AM | X (Twitter) | recipe / Specialty routing (Tier A weekend Cuban-bait) | [ ] |
-| Sat Aug 8 | 10:00 AM | X (Twitter) | step therapy (fail-first) (Tier A) | [ ] |
-| Sat Aug 8 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Aug 8 | 2:30 PM | X (Twitter) | specialty exclusive distribution (Tier A) | [ ] |
-| Sat Aug 8 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Aug 8 | 7:00 PM | X (Twitter) | question post [A14] | [ ] |
-| Sat Aug 8 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
-| Sun Aug 9 | 8:00 AM | X (Twitter) | recipe / DIR fees (Tier A weekend Cuban-bait) | [ ] |
-| Sun Aug 9 | 10:00 AM | X (Twitter) | effective-rate true-up timing (Tier A) | [ ] |
-| Sun Aug 9 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Aug 9 | 2:30 PM | X (Twitter) | mid-year formulary change (Tier A) | [ ] |
-| Sun Aug 9 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Aug 9 | 7:00 PM | X (Twitter) | question post [A15] | [ ] |
-| Sun Aug 9 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday slot = live "5 PBM Disclosure Terms Decoded" Sticky Note Dashboard; the repurposed RFP Process Timeline whiteboard moved into PART 1 as an In-Article Visual)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Aug 2 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Aug 3 | 7:30 AM | Substack | Deep dive: "The PBM RFP: What to Ask and What the Answers Actually Mean" | PART 1 | [ ] |
+| Mon Aug 3 | 7:45 AM | LI Newsletter | PBM RFP Briefing (Issue #26) | PART 2 | [ ] |
+| Mon Aug 3 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Mon | [ ] |
+| Mon Aug 3 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Aug 3 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Aug 3 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Aug 3 | 7:00 PM | X | question [A9] | PART 4B · Mon | [ ] |
+| Mon Aug 3 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
+| Tue Aug 4 | 7:30 AM | Substack | "What I'd Ask" #8: Evaluating PBM RFP Responses | PART 2B | [ ] |
+| Tue Aug 4 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Tue | [ ] |
+| Tue Aug 4 | 10:00 AM | LI Feed | Post 113 — "Three Cost Containment Levers. Three Different Clocks." (Mountain Clean Infographic) | Post 113 | [ ] |
+| Tue Aug 4 | 10:05 AM | LI Feed | Post 113 first comment | Post 113 | [ ] |
+| Tue Aug 4 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Aug 4 | 1:30 PM | LI Company | Reshare of Post 113 | Post 113 Reshare | [ ] |
+| Tue Aug 4 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Aug 4 | 7:00 PM | X | question [A10] | PART 4B · Tue | [ ] |
+| Tue Aug 4 | 8:30 PM | X | one question [B2] | PART 4B · Tue | [ ] |
+| Wed Aug 5 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Wed | [ ] |
+| Wed Aug 5 | 10:00 AM | LI Feed | Post 114 — PBM RFP POV (Strong POV text, shocking-fact weave) | Post 114 | [ ] |
+| Wed Aug 5 | 10:05 AM | LI Feed | Post 114 first comment | Post 114 | [ ] |
+| Wed Aug 5 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Aug 5 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Aug 5 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Aug 5 | 7:00 PM | X | question [A11] | PART 4B · Wed | [ ] |
+| Wed Aug 5 | 8:30 PM | X | aphorism [C3] | PART 4B · Wed | [ ] |
+| Thu Aug 6 | 7:30 AM | Substack | Field Note: "Auditing Your PBM's Annual Disclosure Obligations" | PART 1B | [ ] |
+| Thu Aug 6 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Thu | [ ] |
+| Thu Aug 6 | 10:00 AM | LI Feed | Post 115 — "5 PBM Disclosure Terms Decoded" (Sticky Note Dashboard) | Post 115 | [ ] |
+| Thu Aug 6 | 10:05 AM | LI Feed | Post 115 first comment | Post 115 | [ ] |
+| Thu Aug 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
+| Thu Aug 6 | 1:30 PM | LI Company | Reshare of Post 115 | Post 115 Reshare | [ ] |
+| Thu Aug 6 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Aug 6 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Aug 6 | 7:00 PM | X | question [A12] | PART 4B · Thu | [ ] |
+| Thu Aug 6 | 8:30 PM | X | one question [B3] | PART 4B · Thu | [ ] |
+| Fri Aug 7 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Fri | [ ] |
+| Fri Aug 7 | 10:00 AM | LI Feed | Post 116 — Clinical Program ROI tease (teases W32) | Post 116 | [ ] |
+| Fri Aug 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Aug 7 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Aug 7 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 7 | 7:00 PM | X | question [A13] | PART 4B · Fri | [ ] |
+| Fri Aug 7 | 8:30 PM | X | origin-anchored [D8] | PART 4B · Fri | [ ] |
+| Sat Aug 8 | 8:00 AM | X | recipe / Specialty routing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 10:00 AM | X | step therapy (fail-first) (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 2:30 PM | X | specialty exclusive distribution (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 7:00 PM | X | question [A14] | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 8:30 PM | X | aphorism [C4] | PART 4B · Sat | [ ] |
+| Sun Aug 9 | 8:00 AM | X | recipe / DIR fees (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 10:00 AM | X | effective-rate true-up timing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 2:30 PM | X | mid-year formulary change (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 7:00 PM | X | question [A15] | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 8:30 PM | X | one question [B4] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -181,6 +194,23 @@ Have you evaluated PBM proposals using a structured scoring rubric? If you have 
 *Questions? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*
+
+---
+
+### In-Article Visual: RFP Process Timeline
+
+_Embedded whiteboard-style carousel/graphic for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the "Why standard RFPs fail" and "Scoring the responses" sections above._
+
+**Format:** Whiteboard Carousel (7 slides) — Template A
+**Pillar:** PBM Contract Insights
+
+**Slide 1:** "The PBM RFP Timeline (It Takes Longer Than You Think)" Clock icon with timeline arrow.
+**Slide 2:** "WEEKS 1-2: RFP Development" "Not a template download. A strategic document." Annotation: "Your questions determine the quality of answers you get."
+**Slide 3:** "WEEKS 3-6: Distribution + Responses" "Give PBMs 3-4 weeks. Less = rushed answers."
+**Slide 4:** "WEEKS 7-8: Normalize + Score" "Different methodologies. Different bases. Apples to apples." Red annotation: "This is where most evaluations fail."
+**Slide 5:** "WEEKS 9-10: Finalist Presentations" "Ask follow-up questions from scoring. Watch for vague answers."
+**Slide 6:** "WEEKS 11-16: Contract Negotiation" "Every provision matters. Do not rush this phase." Annotation: "The contract defines the relationship for 2-3 years."
+**Slide 7:** Primary Blue bg. "Total: 4-6 months from RFP to go-live." "Starting now for January 1? You are on time." team@rxbs.org
 
 ---
 
@@ -538,6 +568,8 @@ Ginny Crisp walks through what the windows look like and how to catch them.
 ```
 You sent a 50-page RFP. Your PBM sent a 50-page response. Neither document tells you what you will actually pay.
 
+Start with what you are actually evaluating. Per the FTC's July 2024 report, three PBMs now process roughly 80 percent of U.S. prescriptions, up from 52 percent in 2004, and their affiliated pharmacies collect about 70 percent of all specialty drug revenue. You are not choosing among independent vendors in a competitive market. You are choosing among three companies that sit on both sides of the counter.
+
 PBM RFP responses are engineered to win evaluations. Every response team knows exactly how to present pricing, rebates, and clinical programs in the most favorable light. That is their job. They are good at it.
 
 Standard RFP questions allow good-sounding answers that commit to nothing specific.
@@ -561,36 +593,7 @@ This week's Benefit Blind Spots deep dive on the PBM RFP process is the operatio
 
 ## Post 115 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Questions About Clinical Program ROI (Slot C of the evergreen rotation).**
-
-### RFP Process Timeline (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Whiteboard Carousel (7 slides) - Template A
-**Pillar:** PBM Contract Insights
-**Word Count:** ~80 words
-
-#### Post Copy
-
-```
-The PBM RFP timeline most employers underestimate.
-
-RFP development. Distribution. Response evaluation. Finalist presentations. Selection. Contract negotiation. Implementation. Each phase takes longer than planned and matters more than expected.
-
-#PBMRFP #SelfFundedEmployers #PharmacyBenefits
-```
-
-#### Whiteboard Carousel Slides
-
-**Slide 1:** "The PBM RFP Timeline (It Takes Longer Than You Think)" Clock icon with timeline arrow.
-**Slide 2:** "WEEKS 1-2: RFP Development" "Not a template download. A strategic document." Annotation: "Your questions determine the quality of answers you get."
-**Slide 3:** "WEEKS 3-6: Distribution + Responses" "Give PBMs 3-4 weeks. Less = rushed answers."
-**Slide 4:** "WEEKS 7-8: Normalize + Score" "Different methodologies. Different bases. Apples to apples." Red annotation: "This is where most evaluations fail."
-**Slide 5:** "WEEKS 9-10: Finalist Presentations" "Ask follow-up questions from scoring. Watch for vague answers."
-**Slide 6:** "WEEKS 11-16: Contract Negotiation" "Every provision matters. Do not rush this phase." Annotation: "The contract defines the relationship for 2-3 years."
-**Slide 7:** Primary Blue bg. "Total: 4-6 months from RFP to go-live." "Starting now for January 1? You are on time." team@rxbs.org
-
----
+_The RFP Process Timeline whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: RFP Process Timeline). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 PBM Disclosure Terms Decoded — Sticky Note Dashboard Messy Infographic
 
@@ -629,9 +632,12 @@ Save this for your next quarterly review.
 #PBMContracts #PBMTransparency #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the disclosure clause (list every obligation by cadence, catalog what you actually received this year, send a written request for the gap items). Plus a paste-ready PBM Disclosure Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Sticky Note Dashboard Image Generation Prompt
 
 > A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight, natural drop shadows. Six yellow sticky notes are pinned to the corkboard with brass pushpins: one larger title note at the top, then five content notes stacked below in two columns. Each note is slightly angled (1-3 degrees off-axis), with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
@@ -870,7 +876,7 @@ Your PBM collects a fee from drug manufacturers tied to your plan. Where does th
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C3]:**
 ```
-A PBM contract is written in a dialect designed so the person paying the bill can't read it. It isn't complicated. It's hidden on purpose.
+An RFP response is a sales document wearing a spreadsheet's clothes. The headline number is the costume. The methodology underneath is the body.
 ```
 
 **Thu Aug 6**
@@ -1006,7 +1012,8 @@ Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If t
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 113 Mountain Clean Infographic | 1080x1350 | "Three Cost Containment Levers. Three Different Clocks." — flat-design mountain climb with three lever bands plotted at different altitudes, Cost Containment pillar |
-| Post 115 Whiteboard Carousel | 7 slides | Template A - RFP timeline |
+| Post 115 PBM Disclosure Terms Decoded (Sticky Note Dashboard Messy Infographic) | 1080x1350 | "5 PBM Disclosure Terms Decoded" — PBM Contract Insights pillar |
+| In-Article Visual: RFP Process Timeline (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Headers | Standard | [ ] |
 
 # PART 7: METRICS

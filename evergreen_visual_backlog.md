@@ -61,6 +61,7 @@
 | 36 | Photoreal Claims-Report-with-Three-Highlighted-Rows Messy Infographic | Same MAC. Three channels. Three margins. | Transparency & Industry Education (Channel Pricing anchor) | W21 (originally Thursday Slot B May 28, 2026; displaced May 21, 2026 — Memorial Day topic-recency vs. W18 Channel Pricing 17K winner photoreal DNA + W18/W20/W21 Thursday pricing-mechanic cluster cannibalization concern. Replaced by Rebate Aggregator decoder.) | git history: `git show HEAD~1:newsletters/week_21_quarterly_reporting.md` (lines 611-735 in pre-rebuild revision show full single-image Claims Report photoreal spec including Gemini and ChatGPT image prompts, hand-written red-marker title, three highlighted rows in yellow/green/pink, three red-pen margin annotations) | available — fits any future Channel Pricing Thursday Slot B slot. **Earliest natural fit: a September back-to-business Thursday at 8:30 AM EST** when the 5-15K floor is intact and the Memorial Day-style engagement dip has passed. 10/10 winning-profile traits per Thursday Excellence Rule. Pairs cleanly with `field_note_backlog.md` FN-19 (Auditing Your MAC Margin Field Note) which was displaced from W21 in the same rebuild |
 | 37 | Messy Infographic — NEWS-PEGGED | Medicare GLP-1 "Bridge" Access Gauntlet, Decoded | Transparency & Industry Education | News-pegged (CMS PA form, @DavidNBrennan on X, Jun 3 2026) | `newsletters/week_28_network_design.md` Post 101 + Entry 37 detail below | **SLOTTED → W28 Tuesday (Jul 14), Post 101.** Built; pending publish. |
 | 38 | Funnel Clean Infographic | "Where 2026 Specialty Dollars Actually Go" | Clinical Pharmacy Perspectives | Displaced from W28 Tue (Jun 3 2026) by Entry 37 | inline "Entry 38 detail" below (preserved verbatim) | available — fits a future Tuesday clean-infographic slot on a non-specialty Monday |
+| 39 | Whiteboard Carousel | "How I'd Map a 2027 Renewal on a Whiteboard" | Self-Funded Employer Guidance | W35 (Tuesday Cycle-W1; parked June 2026 — Whiteboard format is paused per CLAUDE.md AND topic sat on Monday's renewal-negotiation family, anti-cannibalization) | inline "Entry 39 detail" below (preserved verbatim) | available BUT format-paused — do not ship until the Whiteboard format clears its controlled retest. Content (5 quarterly renewal gates) is reusable in a non-paused format on any Self-Funded Guidance Tuesday whose Monday is NOT renewal-themed |
 
 ### Entry 37 detail — Medicare GLP-1 "Bridge" Access Gauntlet (news-pegged; source retained)
 
@@ -112,6 +113,66 @@ Each category has a different intervention. The intervention only works if the p
 
 When reused, route the first comment to the destination week's Monday deep dive or a relevant evergreen (the original W28 version pointed to the network-design Monday deep dive).
 
+---
+
+### Entry 39 detail — "How I'd Map a 2027 Renewal on a Whiteboard" Whiteboard Carousel (parked from W35 Tuesday; preserved verbatim)
+
+_Parked June 2026 during the W35 build pass. Two reasons it could not ship as-is: (1) the Whiteboard carousel format is **paused** per CLAUDE.md (W17 Carve-In/Out 1,790 impressions; W18 GLP-1 Whiteboard 758 impressions); (2) the topic sat on Monday's renewal-negotiation family, an anti-cannibalization violation. The content (a 5-quarter renewal calendar walked gate-by-gate) is strong and reusable in a non-paused format (Contract Comparison carousel, clean infographic, or messy infographic) on any future Self-Funded Employer Guidance Tuesday whose Monday is NOT renewal-themed. Do not ship in Whiteboard form until the format clears its controlled retest._
+
+**Format class:** Carousel, 7 slides, 1080 x 1350 px each. **Pillar:** Self-Funded Employer Guidance.
+
+#### Post Copy
+
+```
+If renewal lands in 2027, the calendar starts now.
+
+Self-funded plans that arrive at renewal with position built do not improvise. They follow a calendar. Here is the one we walk clients through:
+
+Q4 2026: RFP scope, evaluation criteria, and finalist panel built. If the current PBM is in the finalist panel, the market check is real. If they are not, the conversation is about transition.
+
+Q1 2027: RFP issued. Vendor responses pulled and scored with an independent methodology, not the PBM's spreadsheet. Reference checks run on finalists.
+
+Q2 2027: Best-and-final rounds with specific contract language demands, not generic improvement requests. Committee review and fiduciary documentation updated at each decision point.
+
+Q3 2027: Contract execution with implementation milestones, data transition plan, and performance baselines locked. Member communication strategy approved 60 days before go-live.
+
+Q4 2027: Go-live monitoring. First-90-days audit scheduled. Guarantee tracking framework in place.
+
+Plans that arrive at each phase with the prior phase complete negotiate. Plans that compress phases concede.
+
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
+
+#### First Comment
+
+```
+More in this week's Pharmacy Benefits Briefing on renewal negotiation: [LINKEDIN NEWSLETTER URL]
+```
+
+#### Carousel Slide-by-Slide Spec
+
+Whiteboard visual system (when un-paused, or translate to the destination format): soft off-white (#F8F5ED) background with paper-grain texture, hand-drawn marker feel, Primary Blue marker default, Accent Blue highlights on the commitments each quarter must produce, red marker for slip-risk annotations, Gray marker for margin notes. Small Plex Sans SemiBold typographic elements only on cover and close. Slide numbers "N / 7" Gray marker bottom-right.
+
+**Slide 1 — Cover.** Hand-lettered title Primary Blue marker: "How I'd map a 2027 renewal on a whiteboard." "2027" underlined in Accent Blue. Plex Sans SemiBold subtitle: "Every quarter closes a gate. Miss one and the next phase starts at a discount." "1 / 7."
+
+**Slide 2 — Q4 2026 · Scope and panel.** Hand-lettered title: "First gate: Q4 2026 · Build the RFP scope and finalist panel." Hand-drawn whiteboard layout: a table with two columns labeled "Panel" (with three incumbent-plus-2 rough rectangles) and "Criteria" (with 5 bullet points hand-drawn). Accent Blue highlight on one criteria row: "Current PBM in panel = real market check." Red margin note: "If incumbent is missing, this is a transition conversation, not a benchmarking one."
+
+**Slide 3 — Q1 2027 · RFP out.** Hand-lettered title: "Second gate: Q1 2027 · RFP issued. Score independently." Whiteboard layout: a left-side flowchart showing "Responses in → Independent scoring → Finalist selection → Reference checks." Accent Blue arrow highlights "Independent scoring." Red margin note: "If you are scoring with the PBM's spreadsheet, you are not scoring."
+
+**Slide 4 — Q2 2027 · Best-and-final.** Hand-lettered title: "Third gate: Q2 2027 · Best-and-final with SPECIFIC language." Whiteboard layout: two columns, "generic asks" (struck through in red marker) vs. "specific redlines" (Accent Blue outlined). Examples in each column with hand-lettered snippets. Red margin note: "Generic asks get generic commitments. Specific clause redlines get specific commitments."
+
+**Slide 5 — Q3 2027 · Execute.** Hand-lettered title: "Fourth gate: Q3 2027 · Contract execution." Whiteboard layout: hand-drawn execution timeline with four milestone flags: "Contract signed / Data transition / Baselines locked / Member comms 60 days pre-launch." Accent Blue highlight on "Baselines locked." Red margin note: "If baselines are not locked, your go-live performance has no comparator. You cannot enforce what you did not baseline."
+
+**Slide 6 — Q4 2027 · Monitor.** Hand-lettered title: "Fifth gate: Q4 2027 · Go-live monitoring." Whiteboard layout: a rough calendar view with "First 90 days audit" circled in Accent Blue. Hand-lettered list of three items to monitor: guarantee tracking, member disruption, claims-file integrity. Red margin note: "Go-live is not the finish line. It is the first audit window opening."
+
+**Slide 7 — Close.** Hand-lettered headline: "Plans that complete each phase *negotiate*." ("negotiate" underlined Accent Blue.) Below in red marker: "Plans that compress phases concede." Small Plex Sans SemiBold line: "The full 2027 renewal playbook is in this week's deep dive. benefitblindspots.substack.com." "7 / 7."
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Whiteboard carousel master (template #3) when un-paused, OR translate to Contract Comparison / clean-infographic for the destination format. Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W18 and W25 Whiteboard carousels — off-white background with paper grain, hand-drawn marker aesthetic with Primary Blue default, Accent Blue highlights, red slip-risk marker annotations, Gray margin notes. Plex Sans SemiBold typographic elements only on cover (subtitle) and close (CTA line). Pull slide-by-slide content from spec above.
+
+**Post-Generation Steps:** generate 7-slide deck → export PNGs 1080 x 1350 → verify handwriting legibility at thumbnail → Accent Blue highlights land on the specified phrases (the gate of each quarter) → upload as native LinkedIn carousel.
+
 ## Distribution by pillar
 
 | Pillar | Count | Available concepts |
@@ -162,6 +223,74 @@ The repurpose queue tracks **viral-hit posts** that are being redistributed acro
 
 This backlog tracks **never-shipped concepts** with full specs that are waiting for an open slot. Different mechanic: pure content reserve.
 
+
+---
+
+## Stripped from W26 during scheduling-flow cleanup (June 2026)
+
+_One displaced Tuesday draft pulled out of `newsletters/week_26_formulary_management.md` so the live week reads in publish order. The topic ("The Formulary Decision You Never Made") sits on Monday's formulary-management family, which violates the Tuesday ≠ Monday anti-cannibalization rule, and it has no deep-dive home, so it is parked here in full. The format (Marked-Up Contract Page messy infographic, Transparency-pillar Cycle-W4 slot) is correct; only the topic collides. Reuse in a non-formulary week. The W26 Tuesday slot itself is flagged ⚠ in that week's Run of Show pending a non-formulary Transparency replacement._
+
+### W26 Tuesday — "The Formulary Decision You Never Made" (Marked-Up Contract Page messy infographic, displaced topic)
+_Status: available for any future Tuesday messy-infographic slot on the Transparency & Industry Education pillar whose Monday topic is NOT formulary management. Source: W26 Post 93._
+
+**Template:** Marked-Up Contract Page messy infographic (template #16) from `claude_design_prompts.md`. Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
+**Format class:** Messy infographic (Tuesday Cycle-W4 slot, second cycle)
+**Pillar:** Transparency & Industry Education
+**Content shape:** Decoder (the proven 20-25K combination of decoder shape × messy format × Transparency pillar). The message: a "customized formulary" line in your contract does not mean you made the decisions.
+**Why it was displaced:** Topic is on Monday W26's formulary-management family = anti-cannibalization violation per the Tuesday ≠ Monday rule. No deep-dive home, so parked here rather than moved in-article.
+
+#### Post Copy
+
+```
+Your PBM calls it a customized formulary. But who made the decisions?
+
+The P&T committee reviews the clinical evidence. The contracting team negotiates the rebates. When both point to the same drug, the system works. When they point to different drugs, rebate economics usually win.
+
+The drug on your preferred tier may be there because it is the best clinical option. Or it may be there because the manufacturer offered the highest rebate. Without net cost transparency, you cannot tell which.
+
+Here is what the contract actually gives you the right to see.
+
+#Formulary #SpecialtyPharmacy #PharmacyBenefits
+```
+
+#### First Comment
+
+```
+More in this week's Pharmacy Benefits Briefing on formulary management: [LINKEDIN NEWSLETTER URL]
+```
+
+#### Image Layout Spec
+
+Single image at 1080 x 1350 px rendered as a photographed PBM contract page sitting slightly angled on a desk. Off-white paper (#F5F0E4) with faint edge shadow. Typed contract body in Plex Mono 11-12pt black. Header eyebrow: "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · § 3.02 · FORMULARY MANAGEMENT." The page shows a single contract section governing formulary authority with two annotated paragraphs.
+
+**Paragraph 1 — What the PBM keeps.** Typed Plex Mono: "PBM shall develop, maintain, and administer the formulary in the ordinary course. PBM may add, remove, or re-tier products in its reasonable discretion based on clinical, financial, and market factors." A yellow marker pass (#F4E27B at 60% opacity) runs over "in its reasonable discretion" and "clinical, financial, and market factors." Red handwritten margin annotation with arrow pointing to the yellow highlight, Caveat 18pt: "'Reasonable discretion' is the PBM's call. 'Financial' includes rebate economics."
+
+**Paragraph 2 — What the plan does not get.** Typed Plex Mono: "PBM shall provide quarterly formulary updates to Plan Sponsor at such intervals as PBM may determine. Plan Sponsor's role in formulary decisions shall be advisory." Red marker strikethrough on "advisory." Blue marker circle around "at such intervals as PBM may determine." Red handwritten margin annotation: "'Advisory' is where the leverage dies."
+
+**Across the page, running diagonally, a large red Caveat handwritten callout (28pt):** "Higher rebate does not mean lower plan cost."
+
+**Below the contract paragraphs, a boxed section in light Accent Blue (#A7E0FA at 20% opacity)** with a typed Plex Mono list titled "WHAT TO ASK FOR IN THE NEXT RENEWAL":
+1. "Net cost analysis by therapeutic class, brand vs. biosimilar"
+2. "Plan Sponsor right to veto tier changes above $50K projected impact"
+3. "Rebate disclosure at the drug level, not aggregate"
+
+Small Caveat handwritten annotation in red next to the Accent Blue box, pointing to it: "This is the redline."
+
+**Bottom of image:** Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" badge top-left outside the paper. Plex Mono Medium 12pt Gray "rxbs.org" bottom-left. PBS logo (dark, 60-80px) bottom-right.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking PBM contract page on an off-white paper (#F5F0E4) background, slight angle, faint edge shadow. Paper fills ~85% of image. Header eyebrow in Plex Sans SemiBold 10pt uppercase Gray (#4D4D4D): "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · § 3.02 · FORMULARY MANAGEMENT." Two typed Plex Mono 11-12pt contract paragraphs beneath: first about PBM's formulary discretion (with yellow highlighter pass on "in its reasonable discretion" and "clinical, financial, and market factors"); second about quarterly updates and advisory role (with red strikethrough on "advisory" and blue marker circle around "at such intervals as PBM may determine"). Red Caveat-handwritten margin annotations beside each highlight: "'Reasonable discretion' is the PBM's call. 'Financial' includes rebate economics." and "'Advisory' is where the leverage dies." Diagonal large red Caveat callout across the page ~28pt: "Higher rebate does not mean lower plan cost." Below the contract text, a boxed section with light Accent Blue (#A7E0FA 20% opacity) background titled in Plex Mono 11pt "WHAT TO ASK FOR IN THE NEXT RENEWAL" with three numbered items. Small red Caveat annotation pointing to the box: "This is the redline." Outside the paper: Primary Blue Plex Sans SemiBold "Benefit Blind Spots" top-left, Gray Plex Mono "rxbs.org" bottom-left, PBS logo bottom-right. Color palette: off-white paper, black body text, red annotation (#C0392B), yellow highlight (#F4E27B), blue circle marker (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photos of people, no other logos.
+
+**Post-Generation Steps:**
+
+1. Generate base image using the prompt above
+2. Verify the two paragraphs render with distinct content (not repeated filler)
+3. Confirm the yellow highlights land on the specified phrases and the red strikethrough lands on "advisory"
+4. If handwriting is illegible, overlay Caveat text in Canva
+5. Verify the Accent Blue "WHAT TO ASK FOR" box is clearly differentiated from the contract body
+6. Add PBS logo bottom-right, 60-80px
+7. Export as PNG
 
 ---
 

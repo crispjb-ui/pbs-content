@@ -3,56 +3,71 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Aug 17 | 7:30 AM | Substack | "Communicating Pharmacy Changes: Why Good Strategy Fails Without Good Messaging" | [ ] |
-| Mon Aug 17 | 7:45 AM | LinkedIn Newsletter | Member Communication Briefing | [ ] |
-| Mon Aug 17 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
-| Mon Aug 17 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Aug 17 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Aug 17 | 7:00 PM | X (Twitter) | question post [A7] | [ ] |
-| Mon Aug 17 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
-| Tue Aug 18 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
-| Tue Aug 18 | 10:00 AM | LinkedIn Feed | Post 121 - "Five Clauses That Anchor Q4 Broker Conversations" Library 05 Contract Comparison Carousel (different pillar) | [ ] |
-| Tue Aug 18 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Aug 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Aug 18 | 7:00 PM | X (Twitter) | question post [A8] | [ ] |
-| Tue Aug 18 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
-| Wed Aug 19 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
-| Wed Aug 19 | 10:00 AM | LinkedIn Feed | Post 122 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Aug 19 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Aug 19 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Aug 19 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
-| Wed Aug 19 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
-| Thu Aug 20 | 7:30 AM | Substack | Field Note: "Provider Communication: The Step Most Plans Skip" | [ ] |
-| Thu Aug 20 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
-| Thu Aug 20 | 10:00 AM | LinkedIn Feed | Post 123 - Same benefit change. Different messaging. Different uptake. (Carousel, Slot B evergreen rotation) | [ ] |
-| Thu Aug 20 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Aug 20 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Aug 20 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
-| Thu Aug 20 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
-| Fri Aug 21 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
-| Fri Aug 21 | 10:00 AM | LinkedIn Feed | Post 124 - Tease Hook (teases Week 34) | [ ] |
-| Fri Aug 21 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Aug 21 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Aug 21 | 7:00 PM | X (Twitter) | question post [A11] | [ ] |
-| Fri Aug 21 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D2] | [ ] |
-| Sat Aug 22 | 8:00 AM | X (Twitter) | recipe / Copay accumulator (Tier A weekend Cuban-bait) | [ ] |
-| Sat Aug 22 | 10:00 AM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
-| Sat Aug 22 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Aug 22 | 2:30 PM | X (Twitter) | NADAC/MAC arbitrage (Tier A) | [ ] |
-| Sat Aug 22 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Aug 22 | 7:00 PM | X (Twitter) | question post [A12] | [ ] |
-| Sat Aug 22 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
-| Sun Aug 23 | 8:00 AM | X (Twitter) | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
-| Sun Aug 23 | 10:00 AM | X (Twitter) | copay maximizer (Tier A) | [ ] |
-| Sun Aug 23 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Aug 23 | 2:30 PM | X (Twitter) | GPO offshore rebate routing (Tier A) | [ ] |
-| Sun Aug 23 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Aug 23 | 7:00 PM | X (Twitter) | question post [A13] | [ ] |
-| Sun Aug 23 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (Library 05 week; the Thursday slot is the live "5 Member Transition Disruption Terms Decoded" messy infographic; the repurposed Whiteboard checklist now lives in PART 1 as an In-Article Visual)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Aug 16 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Aug 17 | 7:30 AM | Substack | Deep dive: "Communicating Pharmacy Changes: Why Good Strategy Fails Without Good Messaging" | PART 1 | [ ] |
+| Mon Aug 17 | 7:45 AM | LI Newsletter | Member Communication Briefing (Issue #28) | PART 2 | [ ] |
+| Mon Aug 17 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Mon | [ ] |
+| Mon Aug 17 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Aug 17 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Aug 17 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Aug 17 | 7:00 PM | X | question [A7] | PART 4B · Mon | [ ] |
+| Mon Aug 17 | 8:30 PM | X | aphorism [C8] | PART 4B · Mon | [ ] |
+| Tue Aug 18 | 7:30 AM | Substack | "What I'd Ask" #9: Rolling Out a Formulary Change | PART 2B | [ ] |
+| Tue Aug 18 | 7:30 AM | Substack | Contract Library push — Library 05 provisions | PART 2B (Library 05 Update) | [ ] |
+| Tue Aug 18 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Tue | [ ] |
+| Tue Aug 18 | 10:00 AM | LI Feed | Post 121 — "Five Clauses That Anchor Q4 Broker Conversations" (Library 05 · Contract Comparison) | Post 121 | [ ] |
+| Tue Aug 18 | 10:05 AM | LI Feed | Post 121 first comment | Post 121 | [ ] |
+| Tue Aug 18 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Aug 18 | 1:30 PM | LI Company | Reshare of Post 121 | Post 121 Reshare | [ ] |
+| Tue Aug 18 | 5:00 PM | X | Library 05 driver (Q4 broker clauses; after 10 AM carousel) | PART 4B · Tue | [ ] |
+| Tue Aug 18 | 7:00 PM | X | question [A8] | PART 4B · Tue | [ ] |
+| Tue Aug 18 | 8:30 PM | X | one question [B8] | PART 4B · Tue | [ ] |
+| Wed Aug 19 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Wed | [ ] |
+| Wed Aug 19 | 10:00 AM | LI Feed | Post 122 — Strong POV text (biosimilar communication; carries the week's shocking fact) | Post 122 | [ ] |
+| Wed Aug 19 | 10:05 AM | LI Feed | Post 122 first comment | Post 122 | [ ] |
+| Wed Aug 19 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Aug 19 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Aug 19 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Aug 19 | 7:00 PM | X | question [A9] | PART 4B · Wed | [ ] |
+| Wed Aug 19 | 8:30 PM | X | aphorism [C9] | PART 4B · Wed | [ ] |
+| Thu Aug 20 | 7:30 AM | Substack | Field Note: "Auditing Your Member Transition Disruption Clauses" | PART 1B | [ ] |
+| Thu Aug 20 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Thu | [ ] |
+| Thu Aug 20 | 10:00 AM | LI Feed | Post 123 — "5 Member Transition Disruption Terms Decoded" (Marked-Up Plan Document Page) | Post 123 | [ ] |
+| Thu Aug 20 | 10:05 AM | LI Feed | Post 123 first comment | Post 123 | [ ] |
+| Thu Aug 20 | 12:00 PM | X | Thu-visual amplifier [VISUAL: Transition Disruption decoder] (after 10 AM) | PART 4B · Thu | [ ] |
+| Thu Aug 20 | 1:30 PM | LI Company | Reshare of Post 123 | Post 123 Reshare | [ ] |
+| Thu Aug 20 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Aug 20 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Aug 20 | 7:00 PM | X | question [A10] | PART 4B · Thu | [ ] |
+| Thu Aug 20 | 8:30 PM | X | one question [B9] | PART 4B · Thu | [ ] |
+| Fri Aug 21 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Fri | [ ] |
+| Fri Aug 21 | 10:00 AM | LI Feed | Post 124 — Tease Hook (teases W34) | Post 124 | [ ] |
+| Fri Aug 21 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Aug 21 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Aug 21 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 21 | 7:00 PM | X | question [A11] | PART 4B · Fri | [ ] |
+| Fri Aug 21 | 8:30 PM | X | origin-anchored [D2] | PART 4B · Fri | [ ] |
+| Sat Aug 22 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
+| Sat Aug 22 | 8:00 AM | X | recipe / Copay accumulator (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 22 | 10:00 AM | X | point-of-sale clawback (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 22 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Aug 22 | 2:30 PM | X | NADAC/MAC arbitrage (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 22 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Aug 22 | 7:00 PM | X | question [A12] | PART 4B · Sat | [ ] |
+| Sat Aug 22 | 8:30 PM | X | aphorism [C10] | PART 4B · Sat | [ ] |
+| Sun Aug 23 | 8:00 AM | X | recipe / Rebate aggregator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 10:00 AM | X | copay maximizer (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 2:30 PM | X | GPO offshore rebate routing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 7:00 PM | X | question [A13] | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 8:30 PM | X | one question [B10] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -167,6 +182,24 @@ Have you implemented a pharmacy change where the communication made or broke the
 *For the full protective contract language on formulary management, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
+
+---
+
+### In-Article Visual: The Member Communication Checklist
+
+_Embedded coordination-sequence visual for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the "coordination that matters" section above._
+
+**Format:** Whiteboard / hand-drawn checklist, 1080 x 1350 px (vertical). Off-white notepad aesthetic, Caveat-style handwriting, Primary Blue and Accent Blue accents per the PBS visual system.
+
+**Slide / panel sequence:**
+
+- **Panel 1:** "The Communication Checklist That Prevents the Backlash." Hand-drawn megaphone icon. "5 scenarios. Same framework."
+- **Panel 2:** "STEP 1: Notify Providers FIRST." "60 days before. Clinical rationale. Exception process." Annotation: "The doctor must know before the member calls."
+- **Panel 3:** "STEP 2: Notify Members." "45 days before. Name the drug. Explain why. Confirm doctor knows." Annotation: "Specific beats generic. Always."
+- **Panel 4:** "STEP 3: Brief the Call Center." "30 days before. Drug-specific FAQ. Escalation path." Annotation: "The first call should get a real answer."
+- **Panel 5:** "STEP 4: Follow-Up Reminder." "7-10 days before. Short. Reassuring. Action steps clear."
+- **Panel 6:** "LANGUAGE THAT WORKS vs. LANGUAGE THAT BACKFIRES." Two columns. Works: "FDA-approved," "your doctor has been informed," "same or lower copay." Backfires: "cost savings initiative," "cheaper alternative," "you must switch."
+- **Panel 7:** Primary Blue background. "Communication is not the afterthought. It is the implementation." team@rxbs.org
 
 ---
 
@@ -554,6 +587,8 @@ The second employer sent a specific letter 45 days out, naming the drug, explain
 
 Pharmacy changes are uniquely sensitive because members associate drug changes with quality-of-care changes. "Biosimilar transition" sounds like "cheaper substitute" to a member who does not know the clinical evidence. "Prior authorization" sounds like "barrier" to someone who needs medication.
 
+And the members on the receiving end of these letters are often the most exposed already. The FTC found that the generic drugs PBMs mark up most are the generics for leukemia, multiple sclerosis, transplant, and HIV. The markup scales with how sick the member is. So when a change letter lands, it lands on someone who is frequently already paying the most and feeling the least in control. That is exactly why the messaging cannot be an afterthought.
+
 The fix is not better clinical rationale. It is better messaging: specific, early, and coordinated with prescribers before anyone writes to members. The communication is the implementation.
 ```
 
@@ -567,25 +602,7 @@ This week's Benefit Blind Spots deep dive on communicating pharmacy changes is t
 
 ## Post 123 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: Same benefit change. Different messaging. Different uptake. (Slot B of the evergreen rotation).**
-
-### Member Communication Checklist (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Whiteboard Carousel (7 slides) - Template A
-**Pillar:** Broker/Consultant Resources
-
-#### Whiteboard Carousel Slides
-
-**Slide 1:** "The Communication Checklist That Prevents the Backlash" Hand-drawn megaphone icon. "5 scenarios. Same framework."
-**Slide 2:** "STEP 1: Notify Providers FIRST" "60 days before. Clinical rationale. Exception process." Annotation: "The doctor must know before the member calls."
-**Slide 3:** "STEP 2: Notify Members" "45 days before. Name the drug. Explain why. Confirm doctor knows." Annotation: "Specific > generic. Always."
-**Slide 4:** "STEP 3: Brief the Call Center" "30 days before. Drug-specific FAQ. Escalation path." Annotation: "The first call should get a real answer."
-**Slide 5:** "STEP 4: Follow-Up Reminder" "7-10 days before. Short. Reassuring. Action steps clear."
-**Slide 6:** "LANGUAGE THAT WORKS vs. LANGUAGE THAT BACKFIRES" Two columns. Works: "FDA-approved," "your doctor has been informed," "same or lower copay." Backfires: "cost savings initiative," "cheaper alternative," "you must switch."
-**Slide 7:** Primary Blue bg. "Communication is not the afterthought. It is the implementation." team@rxbs.org
-
----
+_The "Member Communication Checklist" Whiteboard Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 Member Transition Disruption Terms Decoded — Marked-Up Plan Document Page Messy Infographic
 
@@ -624,9 +641,12 @@ Save this for your next member-transition planning meeting.
 #PBMContracts #MemberExperience #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes that test whether the contract's transition protections actually executed during the past year's changes (build the transition-event log, compare contract language to actual member experience, catalog the gap). Plus a paste-ready Member Transition Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Marked-Up Plan Document Page Image Generation Prompt
 
 > A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed Summary Plan Description (SPD) page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "ARTICLE VII · PHARMACY BENEFIT TRANSITIONS AND CONTINUITY." Below the header, five vertically stacked clause entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
@@ -955,7 +975,7 @@ Copay maximizers: the accumulator's cousin. The PBM treats your member's copay c
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · GPO offshore rebate routing (Tier A):**
 ```
