@@ -186,9 +186,12 @@ The evergreen part of the X build, locked for the whole quarter. **Weekend Sat/S
 - **D4 — MAC/WAC/AWP:** Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
 - **D5 — audit clause:** Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
 - **D6 — three referees:** About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+- **D7 — rebate guarantee floor:** A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
+
+_Seven decoders (D1-D7), one per day, so a week's seven midday news-hold slots stay distinct when no news breaks. Don't reuse a decoder twice in the same week._
 
 **PM punchy pool:**
-- **P1:** The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+- **P1:** The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract. _(Identical to evening aphorism C2 in `x_evening_block_bank.md` — never schedule both in the same week; if P1 runs as the Monday punchy, rotate that week's evening aphorism to an unused C.)_
 - **P2:** Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
 - **P3:** Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
 - **P4:** Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
