@@ -19,7 +19,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jun 22 | 7:00 PM | X | question [A15] | PART 4B · Mon | [ ] |
 | Mon Jun 22 | 8:30 PM | X | aphorism [C4] | PART 4B · Mon | [ ] |
 | Tue Jun 23 | 8:00 AM | X | dollar comparison (rebate aggregator skim) | PART 4B · Tue | [ ] |
-| Tue Jun 23 | 8:30 AM | LI Feed | **⚠ Post 89 NEEDS RETARGET** — Whiteboard paused + cannibalizes Mon; build Library 04 (Termination / Performance Remediation) or One Number | Post 89 | [ ] |
+| Tue Jun 23 | 8:30 AM | LI Feed | Post 89 — "Five Termination Clauses That Decide Whether You Can Actually Leave" (Library 04 · Contract Comparison) | Post 89 | [ ] |
 | Tue Jun 23 | 8:35 AM | LI Feed | Post 89 first comment | Post 89 | [ ] |
 | Tue Jun 23 | 12:00 PM | X | structural / news-adjacent (hold) | PART 4B · Tue | [ ] |
 | Tue Jun 23 | 1:30 PM | LI Company | Reshare of Post 89 (⚠ redo after retarget) | Post 89 Reshare | [ ] |
@@ -517,15 +517,83 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 ## Post 89 - Tuesday 8:30 AM
 
-> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** This post violates two rules in CLAUDE.md and must be replaced before ship date.
-> - **Whiteboard Carousel format is paused** per CLAUDE.md May 8 update (W17 Carve-In/Out 1,790 impressions; W18 GLP-1 Whiteboard 758 impressions). Reformat to a non-Whiteboard canvas.
-> - **Topic is on Monday's renewal-countdown family** = anti-cannibalization violation per Tuesday ≠ Monday rule (Week 15 data: Thursday on Monday topic = 340 impressions vs. 22K floor).
-> - **Recommended replacement:** Library 04 Contract Comparison Carousel on a non-renewal provision family (e.g., Termination Language or Performance Remediation). Library NN format is save-driven; routes to Contract Library cross-promo. Alternative: One Number Carousel on a non-renewal CFO-metric topic with First Comment to a relevant Substack asset.
-> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
+### "Five Termination Clauses That Decide Whether You Can Actually Leave" — Contract Comparison Carousel (Library 04)
 
-### Post 89 visual — RETARGET IN PROGRESS
+**Template:** Contract Comparison (redline aesthetic), Library NN series. 7 slides, 1080 x 1350 px.
+**Format class:** Carousel (Tuesday Cycle-W2 slot; replaces the paused Whiteboard draft).
+**Pillar:** PBM Contract Insights.
+**Provision family:** Termination & Transition (from the Substack Contract Language Library).
+**Triple-distinct check:** Mon = renewal-prep timeline (process) · Tue = termination clause language (provision) · Thu = RFP scoring methodology (evaluation). Three different subjects within the renewal-prep family. ✓
+**Why this combination:** Termination is the leverage clause sponsors only read when they are already trying to leave. Contract Comparison is the save-driven reference format; routes to the Contract Library. Different subject from Monday and Thursday, so anti-cannibalization holds.
 
-_The original Whiteboard carousel draft (paused format + Monday-topic cannibalization) was moved to `evergreen_visual_backlog.md`. Build the replacement here per the retarget note above: a **Library 04 Contract Comparison** carousel (Termination Language or Performance Remediation) or a **One Number** carousel on a non-renewal CFO metric, first comment to the matching Substack asset._
+#### Post Copy
+
+```
+Your PBM contract has an exit door. The PBM wrote it. Most plan sponsors only read it when they are already trying to leave, which is exactly too late.
+
+We review hundreds of PBM contracts a year at PBS. The termination and transition section is where leverage is quietly removed: the auto-renewal you missed, the data you cannot get back, the run-out the PBM bills you for on the way out.
+
+Five clauses decide whether you can actually leave:
+
+1. Auto-renewal / evergreen
+2. Termination for convenience
+3. Termination for cause and the cure period
+4. Transition and run-out services
+5. Data and rebate-accrual return
+
+Weak language next to the protective version for each one, in the carousel.
+
+Save this before your next renewal conversation.
+
+#PBMContracts #SelfFundedEmployers #PharmacyBenefits
+```
+
+#### First Comment
+
+```
+The full protective termination and transition language, the exact "what to ask for" redlines for all five clauses, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+```
+
+#### Carousel Slide-by-Slide Spec
+
+Contract Comparison template (Library NN aesthetic): off-white paper (#F5F0E4), Plex Mono throughout, two stacked panels per clause slide. "What you might see" panel in red (#C0392B); "What to ask for" panel in Primary Blue (#015880). A short Gray (#4D4D4D) margin note per slide. Slide number "N / 7" bottom-right. PBS triangle wordmark small, top-left.
+
+**Slide 1 — Cover.** Title: "Five termination clauses that decide whether you can actually leave." Subtitle (Plex Mono Medium): "What you might see vs. what to ask for." Eyebrow: "Contract Language Library · Termination & Transition." "1 / 7".
+
+**Slide 2 — Clause 1: Auto-renewal / evergreen.**
+- What you might see (red): "This Agreement automatically renews for successive terms unless either party provides written notice at least 180 days prior to the end of the then-current term."
+- What to ask for (blue): "No automatic renewal. Renewal requires a signed amendment. PBM shall send written renewal notice 90 days before term end."
+- Margin: "Miss the 180-day window and you are locked in another full term at rates you never reopened."
+
+**Slide 3 — Clause 2: Termination for convenience.**
+- What you might see (red): "PBM may terminate for convenience upon 90 days' notice." (no equivalent right for the Plan)
+- What to ask for (blue): "Either party may terminate for convenience on 90 days' written notice, with no penalty or termination fee."
+- Margin: "Read who gets the convenient exit. Often it is only the PBM."
+
+**Slide 4 — Clause 3: Termination for cause and cure.**
+- What you might see (red): "Either party may terminate for material breach." (term undefined; cure period unspecified)
+- What to ask for (blue): "Defined breach events (missed guarantees, audit obstruction, data-delivery failures); 30-day cure period; Plan may terminate and recover fees if uncured."
+- Margin: "Undefined 'material breach' favors the party with the lawyers."
+
+**Slide 5 — Clause 4: Transition and run-out services.**
+- What you might see (red): "Upon termination, PBM will provide transition services at its then-current rates."
+- What to ask for (blue): "PBM shall provide up to 180 days of run-out and transition services at no additional cost, including claims-adjudication continuity and member communications."
+- Margin: "Run-out billed 'at then-current rates' is a tax on leaving."
+
+**Slide 6 — Clause 5: Data and rebate-accrual return.**
+- What you might see (red): "PBM will return Plan data upon request." (format, timing, and rebate accruals unspecified)
+- What to ask for (blue): "All eligibility and claims data returned within 30 days at no cost in a usable format; all rebate accruals earned through the termination date paid to the Plan."
+- Margin: "Your data and your unpaid rebates are leverage. Name them, or lose them on exit."
+
+**Slide 7 — Close.** "The exit door is leverage. Read it before you need it." Below: "Full protective language for every clause is in the Contract Language Library." benefitblindspots.substack.com/p/pbm-contract-language-library. PBS triangle. "7 / 7".
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Contract Comparison master (redline aesthetic). Generate 7 stacked slides at 1080 x 1350 px. Shared system: off-white paper texture (#F5F0E4), IBM Plex Mono throughout (tabular figures), each clause slide a two-panel redline: top panel "WHAT YOU MIGHT SEE" in red (#C0392B) with the weak contract language set as legalese; bottom panel "WHAT TO ASK FOR" in Primary Blue (#015880) with the protective language; one Gray (#4D4D4D) handwritten-style margin note per slide. Slide-number footer "N / 7" bottom-right; small PBS triangle wordmark top-left. Pull slide content from the spec above. Mobile-feed legibility: cap each panel at the quoted clause + one margin note, large readable type at thumbnail (~400px).
+
+**Post-Generation Steps:** generate 7-slide deck → export PNGs 1080 x 1350 → legibility spot-check at ~400px → upload as native LinkedIn document carousel.
+
+_⚠ Library numbering: this file labels the Tuesday carousel "Library 04," but CLAUDE.md's as-built cadence lists Library 04 at W27. Reconcile before ship (either this becomes Library 04 and W27 shifts to 05, or this ships as an unnumbered Contract Comparison Tuesday). Flagged for decision._
 
 ---
 
@@ -536,11 +604,11 @@ _The original Whiteboard carousel draft (paused format + Monday-topic cannibaliz
 #### Reshare Copy
 
 ```
-Sponsors who arrive at renewal with a framework negotiate. Sponsors without one renew. Five questions define the framework: benchmarking, documented shortfalls, accept/counter/walk lines, independent analysis, and fallback plan.
+The PBM writes your contract's exit door. Five clauses decide whether you can actually leave: auto-renewal, termination for convenience, cause and cure, transition and run-out, and data and rebate-accrual return.
 
-Ginny Crisp walks through the 90-day decision window self-funded CFOs should own, not their PBM.
+Ginny Crisp lays the weak language next to the protective version for each one.
 
-#PBMRenewal #PlanSponsors #EmployeeBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 ```
 
 ---
