@@ -161,3 +161,82 @@ When a backlog concept publishes:
 The repurpose queue tracks **viral-hit posts** that are being redistributed across channels (GLP-1 Reality Check, White Bagging, PBM Contracts decoder). Different mechanic: those posts already shipped and are being reused to compound their reach.
 
 This backlog tracks **never-shipped concepts** with full specs that are waiting for an open slot. Different mechanic: pure content reserve.
+
+
+---
+
+## Stripped from W25 during scheduling-flow cleanup (June 2026)
+
+_One dead draft pulled out of `newsletters/week_25_renewal_countdown.md` so the live week reads in publish order. Preserved here in full; also in git history before the cleanup commit. (The repurposed renewal-timeline infographic was NOT parked here — it was moved into the W25 Monday deep dive as an in-article visual, per the deep-dive-visual rule.)_
+
+### W25 Tuesday — "How I'd Walk a Client Through the 90-Day Renewal Decision" (Whiteboard carousel, PAUSED format)
+_Status: available IF the Whiteboard format is un-paused. Topic (90-day renewal) cannibalizes a renewal-week Monday, so reuse only in a non-renewal week. Source: W25 Post 89._
+
+### "How I'd Walk a Client Through the 90-Day Renewal Decision" — Whiteboard Carousel [DRAFT — DO NOT SHIP, see RETARGET note above]
+
+**Template:** Whiteboard carousel (template #3) from `claude_design_prompts.md`. Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
+**Format class:** Carousel (Tuesday Cycle-W2 slot, second cycle)
+**Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Renewal Countdown topic)
+**Content shape:** Decoder-in-reasoning form. Ginny walks through the decision like a pharmacist thinking out loud on a whiteboard; the unfakeable detail is the clinical-pharmacy cadence of the reasoning itself.
+**Why this combination:** The 90-day renewal decision is an iterative reasoning exercise, not a stat dump. Whiteboard carousel is the template built for "pharmacist working through the logic" and fits a decision-framework topic better than Contract Comparison (which is clause-focused) or One Number (which is stat-focused). The framework stays the same 5-question structure, but the visual system signals "this is how I would think through this" rather than "here is a list."
+
+#### Post Copy
+
+```
+90 days before renewal is the decision window. The PBM will have their proposal ready. Most plans do not have their framework ready.
+
+If you handed me your renewal file today, here is how I would work through it on a whiteboard.
+
+1. Have we benchmarked our current economics against market in the last 12 months? If no, we benchmark before the renewal conversation.
+
+2. Have we documented every guarantee shortfall in the current term, with dollar values? If no, we have no remediation to negotiate.
+
+3. Do we know what we would accept, what we would counter, and what we would walk from? If no, we are negotiating the PBM's terms, not ours.
+
+4. Is the broker running independent market analysis or relying on PBM-provided data? The distinction matters at the table.
+
+5. What is our fallback if the terms are unacceptable? Timing, alternatives, transition plan. All of it, written down before the first meeting.
+
+Sponsors who arrive with the framework negotiate. Sponsors without it renew.
+
+#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+```
+
+#### First Comment
+
+```
+More in this week's Pharmacy Benefits Briefing on the 90-day renewal window: [LINKEDIN NEWSLETTER URL]
+```
+
+#### Carousel Slide-by-Slide Spec
+
+All seven slides render as a Whiteboard carousel. Soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn marker feel with marker-pressure variation, Primary Blue (#015880) marker as default, Accent Blue (#A7E0FA) highlight on the decision that carries each slide, red marker for the "walk line" or risk annotations, Gray (#4D4D4D) for margin notes. No computer typography except the small Plex Sans SemiBold typographic elements on Slide 1 and Slide 7. Slide numbers "N / 7" in Gray marker bottom-right.
+
+**Slide 1 — Cover.** Soft off-white background. Hand-lettered title top-left in Primary Blue marker: "How I'd walk a client through the 90-day renewal decision." "90-day" underlined in Accent Blue. Below, the only typographic element, a small Plex Sans SemiBold line: "Five questions. One whiteboard. In order." Bottom-left a small hand-drawn calendar icon with "90" lettered inside. Bottom-right: "1 / 7" Gray marker.
+
+**Slide 2 — Question 1: Benchmarking.** Hand-lettered title: "First: have we benchmarked in the last 12 months?" Below, a rough hand-drawn two-column comparison: left labeled "PBM view" (with a small eye icon), right labeled "Market view" (with a ruler icon). An Accent Blue arrow sweeps from Market view to a boxed hand-lettered phrase: "our leverage number." Margin note in Gray marker: "The PBM has already run this. If your broker has not, you are negotiating blind."
+
+**Slide 3 — Question 2: Documented shortfalls.** Hand-lettered title: "Second: what shortfalls do we have in writing?" Below, a three-row hand-drawn ledger: rows labeled "Guarantee A," "Guarantee B," "Guarantee C." Each row has two columns: "Contract minimum" (left) and "Actual" (right), with a handwritten shortfall amount like "— $XX,XXX" in red marker. A green marker arrow from the red shortfalls points to a boxed phrase: "remediation owed." Margin note: "Unpaid remediation is the easiest recovery in renewal. Most plans leave it on the table."
+
+**Slide 4 — Question 3: Accept/Counter/Walk lines.** Hand-lettered title: "Third: accept, counter, or walk?" Below, a hand-drawn three-column grid with headers in marker: "ACCEPT" (Primary Blue), "COUNTER" (Gray), "WALK" (red, double-underlined). Underneath each column, two or three short hand-lettered phrases as placeholders: e.g., under ACCEPT "GER within 2 pts of market" / "rebate base-plus 8 pts"; under COUNTER "remediation structure"; under WALK "auto-renewal without opt-out." Accent Blue highlight on the WALK column header. Margin note: "Without the walk line defined, you are negotiating the PBM's terms."
+
+**Slide 5 — Question 4: Independent analysis.** Hand-lettered title: "Fourth: whose numbers are we using?" Below, a hand-drawn Venn-style pair of circles labeled "PBM data" and "Independent pull" with a small overlap. Inside the overlap: hand-lettered "gaps are the conversation." Accent Blue highlight on the independent-pull circle. Margin note: "PBM-provided data never shows the PBM in a losing position. Independent pulls do."
+
+**Slide 6 — Question 5: Fallback plan.** Hand-lettered title: "Fifth: what happens if the terms are unacceptable?" Below, a hand-drawn decision tree with three branches: "RFP timing" / "transition carrier options" / "temporary extension terms." Accent Blue highlight on one branch depending on the scenario. Red marker note spanning the bottom: "Written down before the first meeting, not during it."
+
+**Slide 7 — Close.** Soft off-white background. Hand-lettered headline: "Sponsors with the framework *negotiate*." ("negotiate" underlined in Accent Blue.) Below in red marker: "Sponsors without it renew." Small Plex Sans SemiBold typographic line at the bottom in Primary Blue: "The full 90-day renewal playbook is in this week's deep dive. benefitblindspots.substack.com." "7 / 7" Gray marker bottom-right.
+
+#### Image Generation Prompt
+
+Claude Design project type: **Slide deck from template**. Use Whiteboard carousel master (template #3). Generate 7 stacked slides at 1080 x 1350 px each. Shared visual system across all slides: soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn marker feel with pressure variation, Primary Blue (#015880) marker default, Accent Blue (#A7E0FA) highlights on the decision each slide carries, red marker (#C0392B) for walk/risk annotations, Gray (#4D4D4D) for margin notes. No computer typography except small Plex Sans SemiBold typographic elements on Slide 1 (subtitle line) and Slide 7 (CTA line). Slide-number footer "N / 7" in Gray marker bottom-right. Pull slide-by-slide content from the spec above. Handwriting must be legibly imperfect, not computer typography. Reference the Week 18 Whiteboard Decoder Carousel for handwriting fidelity and marker aesthetic.
+
+**Post-Generation Steps:**
+
+1. Generate 7-slide deck via Claude Design using the spec above
+2. Export PNGs at 1080 x 1350 each
+3. Spot-check handwriting legibility at thumbnail; Accent Blue highlights land on the specified phrases (not random text)
+4. Verify the three-column Slide 4 grid renders readably; if crowded, reduce to two phrases per column
+5. Verify the Slide 7 small Plex Sans line contrasts enough against the off-white background
+6. Upload as native LinkedIn carousel (document upload)
+
+---
