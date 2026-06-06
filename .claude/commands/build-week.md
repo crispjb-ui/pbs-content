@@ -24,6 +24,7 @@ From `shocking_fact_bank.md`, take the fact mapped to this week (fact→week tab
 Check `wendell_potter_cascade_alignment.md` + `wendell_potter_contributorship_strategy.md` + the Potter schedule against this week:
 - **Potter-publish week:** build the same-day cross-promo to the WP article (LinkedIn + X tagging @wendellpotter); coordinate topic; do not scoop pre-publish.
 - **Cascade week (week after a Potter piece):** align the Monday deep-dive topic to the prior piece per the alignment map (SWAP/REFRAME), and build the reference-back block (Mon newsletter opener + deep-dive callout + early-week Note/X back-link).
+- **Series arc:** any Potter piece built/queued must advance the one continuous series story (`wendell_potter_piece_outlines.md` → Series Narrative Arc) — open with a callback + map anchor, close with a handoff to the next, carry the recurring black-box image and refrain, plant/pay off cross-piece seeds. A chapter, not a standalone essay.
 - Confirm the every-other-week guest-article + video-podcast cadence is reflected and the next Potter piece's topic/copy is queued. If none apply, note "no Potter dependency this week."
 
 ## Step 4 — Generate from the template

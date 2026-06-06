@@ -54,6 +54,30 @@ Pieces 1-6 are front-loaded for impact. Pieces 7-12 ship after Ginny's lane is e
 
 ---
 
+## Series Narrative Arc (the throughline — every piece is a chapter, not a standalone essay)
+
+**Added June 2026 (required behavior for drafting + the `/build-week` Wendell check).** The series must read as **one continuous story** with flow and symbiosis, not twelve disconnected op-eds. The reader should feel they are being walked through a single building, room by room, and arrive at a complete reform agenda.
+
+**The overarching story (one line):** *Five revenue streams flow from your plan into the PBM black box. This series follows the money, one mechanism at a time, from the map to the systemic picture to the fix — assembling the complete structural case for PBM reform.*
+
+**Recurring spine (carried in every piece):** the **black box / tollbooth** image from the Opening, the **five-revenue-streams map**, and the running refrain that every mechanism is *structural, not a bad actor* (the fix is structural, not "name a villain and move on"). Named villains stay consistent (CVS Caremark / Caremark Rx, OptumRx, Express Scripts; rebate aggregators Ascent, Emisar, Zinc) so the cast carries across chapters.
+
+**Three-act structure:**
+- **Act I — The Map (Opening).** Lays the five revenue streams and previews the five reforms. Every later piece links back here.
+- **Act II — The Mechanisms (Pieces 1–5, 7–10).** Each zooms into one extraction stream (spread, vertical integration, GLP-1 profit layer, copay accumulator, white-bagging/channel steering, rebate aggregators, DIR successor, specialty routing, patient-assistance diversion). Each is a chapter that deepens the map.
+- **Act III — The System and the Fix (Pieces 6, 11, 12).** The FTC follow-on (diagnosis complete, treatment missing), the RFP methodology problem (how sponsors fight back), and a closing synthesis that reassembles all the reforms into one agenda. The series lands, not just stops.
+
+**Connective-tissue rule (every piece):**
+1. **Open with a callback** — one line placing this piece on the map and referencing the prior chapter ("Last time we followed the rebate dollar; this time we follow the script itself").
+2. **Close with a handoff** — one line threading to the next chapter ("Spread hides one number; next, the contract that hides the pharmacy that filled it").
+3. **Anchor to the map** — state which of the five revenue streams this piece is about, so the reader always knows where they are in the building.
+4. **Plant/pay off a seed** — foreshadow a later piece where natural (Piece 3 already foreshadows the Ascent/Emisar/Zinc rebate aggregators of Piece 7) and pay off earlier seeds.
+5. **Carry the recurring image and refrain** so the voice and frame are continuous.
+
+**Maintenance:** keep this arc current as pieces are drafted/reordered; if a piece moves, fix its callback/handoff and the seeds that point to it. The `/build-week` Wendell check (and `week_build_spec.md` §1.7) requires that any Potter piece built or queued advances this arc and carries its callback + handoff. The PBS cascade weeks (`wendell_potter_cascade_alignment.md`) ride the same throughline so the LinkedIn/Substack echo matches the series story.
+
+---
+
 ## Opening Piece: PBM Economics 101 (the Map)
 
 **Working title:** *The Five Revenue Streams That Run Through Every PBM Contract — and the Five Reforms Each One Requires*
