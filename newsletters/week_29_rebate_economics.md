@@ -3,61 +3,65 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Sun Jul 19 | - | Prep | Final review of all content | [ ] |
-| Mon Jul 20 | 7:30 AM | Substack | "Rebate Economics: What Your PBM's Rebate Report Is Not Showing You" | [ ] |
-| Mon Jul 20 | 7:45 AM | LinkedIn Newsletter | Rebate Economics Briefing | [ ] |
-| Mon Jul 20 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
-| Mon Jul 20 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Jul 20 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Jul 20 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Mon Jul 20 | 7:00 PM | X (Twitter) | question post [A11] | [ ] |
-| Mon Jul 20 | 8:30 PM | X (Twitter) | aphorism [C6] | [ ] |
-| Tue Jul 21 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
-| Tue Jul 21 | 10:00 AM | LinkedIn Feed | Post 105 - "The Audit Right Most Self-Funded Plans Never Exercise" Sticky Note Dashboard Messy Infographic (different pillar) | [ ] |
-| Tue Jul 21 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Jul 21 | 1:30 PM | LinkedIn Company | Company Reshare of Post 105 | [ ] |
-| Tue Jul 21 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Jul 21 | 7:00 PM | X (Twitter) | question post [A12] | [ ] |
-| Tue Jul 21 | 8:30 PM | X (Twitter) | one question [B6] | [ ] |
-| Wed Jul 22 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
-| Wed Jul 22 | 10:00 AM | LinkedIn Feed | Post 106 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Jul 22 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Jul 22 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Jul 22 | 7:00 PM | X (Twitter) | question post [A13] | [ ] |
-| Wed Jul 22 | 8:30 PM | X (Twitter) | aphorism [C7] | [ ] |
-| Thu Jul 23 | 7:30 AM | Substack | Field Note: "Three Rebate Report Red Flags That Signal Margin Retention" | [ ] |
-| Thu Jul 23 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
-| Thu Jul 23 | 10:00 AM | LinkedIn Feed | Post 107 - 5 Network Contract Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
-| Thu Jul 23 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Jul 23 | 1:30 PM | LinkedIn Company | Company Reshare of Post 107 | [ ] |
-| Thu Jul 23 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Jul 23 | 7:00 PM | X (Twitter) | question post [A14] | [ ] |
-| Thu Jul 23 | 8:30 PM | X (Twitter) | one question [B7] | [ ] |
-| Fri Jul 24 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
-| Fri Jul 24 | 10:00 AM | LinkedIn Feed | Post 108 - Tease Hook TEXT | [ ] |
-| Fri Jul 24 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Jul 24 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Jul 24 | 7:00 PM | X (Twitter) | question post [A15] | [ ] |
-| Fri Jul 24 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D6] | [ ] |
-| Sat Jul 25 | - | Substack Notes | Engagement note | [ ] |
-| Sat Jul 25 | 8:00 AM | X (Twitter) | recipe / White bagging (Tier A weekend Cuban-bait) | [ ] |
-| Sat Jul 25 | 10:00 AM | X (Twitter) | copay maximizer (Tier A) | [ ] |
-| Sat Jul 25 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Jul 25 | 2:30 PM | X (Twitter) | GPO offshore rebate routing (Tier A) | [ ] |
-| Sat Jul 25 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Jul 25 | 7:00 PM | X (Twitter) | question post [A16] | [ ] |
-| Sat Jul 25 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
-| Sun Jul 26 | 8:00 AM | X (Twitter) | recipe / Copay accumulator (Tier A weekend Cuban-bait) | [ ] |
-| Sun Jul 26 | 10:00 AM | X (Twitter) | formulary exclusivity payment (Tier A) | [ ] |
-| Sun Jul 26 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Jul 26 | 2:30 PM | X (Twitter) | dispensing fee spread (Tier A) | [ ] |
-| Sun Jul 26 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Jul 26 | 7:00 PM | X (Twitter) | question post [A1] | [ ] |
-| Sun Jul 26 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday slot = live "5 Network Contract Terms Decoded" Slot A; the repurposed Rebate Model Comparison whiteboard moved into PART 1 as an In-Article Visual)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Jul 19 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Jul 20 | 7:30 AM | Substack | Deep dive: "Rebate Economics: What Your PBM's Rebate Report Is Not Showing You" | PART 1 | [ ] |
+| Mon Jul 20 | 7:45 AM | LI Newsletter | Rebate Economics Briefing (Issue #24) | PART 2 | [ ] |
+| Mon Jul 20 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Mon | [ ] |
+| Mon Jul 20 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Jul 20 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Jul 20 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Jul 20 | 7:00 PM | X | question [A11] | PART 4B · Mon | [ ] |
+| Mon Jul 20 | 8:30 PM | X | aphorism [C6] | PART 4B · Mon | [ ] |
+| Tue Jul 21 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Tue | [ ] |
+| Tue Jul 21 | 10:00 AM | LI Feed | Post 105 — "The Audit Right Most Self-Funded Plans Never Exercise" (Sticky Note Dashboard) | Post 105 | [ ] |
+| Tue Jul 21 | 10:05 AM | LI Feed | Post 105 first comment | Post 105 | [ ] |
+| Tue Jul 21 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Jul 21 | 1:30 PM | LI Company | Reshare of Post 105 | Post 105 Reshare | [ ] |
+| Tue Jul 21 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Jul 21 | 7:00 PM | X | question [A12] | PART 4B · Tue | [ ] |
+| Tue Jul 21 | 8:30 PM | X | one question [B6] | PART 4B · Tue | [ ] |
+| Wed Jul 22 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Wed | [ ] |
+| Wed Jul 22 | 10:00 AM | LI Feed | Post 106 — "100% pass-through" / offshore rebate aggregator (Strong POV text, shocking-fact weave) | Post 106 | [ ] |
+| Wed Jul 22 | 10:05 AM | LI Feed | Post 106 first comment | Post 106 | [ ] |
+| Wed Jul 22 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Jul 22 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Jul 22 | 7:00 PM | X | question [A13] | PART 4B · Wed | [ ] |
+| Wed Jul 22 | 8:30 PM | X | aphorism [C7] | PART 4B · Wed | [ ] |
+| Thu Jul 23 | 7:30 AM | Substack | Field Note: "Auditing Your Pharmacy Network Configuration" | PART 1B | [ ] |
+| Thu Jul 23 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Thu | [ ] |
+| Thu Jul 23 | 10:00 AM | LI Feed | Post 107 — "5 Network Contract Terms Decoded" (Messy Infographic, Slot A) | Post 107 | [ ] |
+| Thu Jul 23 | 10:05 AM | LI Feed | Post 107 first comment | Post 107 | [ ] |
+| Thu Jul 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
+| Thu Jul 23 | 1:30 PM | LI Company | Reshare of Post 107 | Post 107 Reshare | [ ] |
+| Thu Jul 23 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Jul 23 | 7:00 PM | X | question [A14] | PART 4B · Thu | [ ] |
+| Thu Jul 23 | 8:30 PM | X | one question [B7] | PART 4B · Thu | [ ] |
+| Fri Jul 24 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Fri | [ ] |
+| Fri Jul 24 | 10:00 AM | LI Feed | Post 108 — Site-of-care tease (teases W30) | Post 108 | [ ] |
+| Fri Jul 24 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Jul 24 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Jul 24 | 7:00 PM | X | question [A15] | PART 4B · Fri | [ ] |
+| Fri Jul 24 | 8:30 PM | X | origin-anchored [D6] | PART 4B · Fri | [ ] |
+| Sat Jul 25 | 8:00 AM | X | recipe / White bagging (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 10:00 AM | X | step therapy / fail-first (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 2:30 PM | X | GPO offshore rebate routing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 7:00 PM | X | question [A16] | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 8:30 PM | X | aphorism [C8] | PART 4B · Sat | [ ] |
+| Sun Jul 26 | 8:00 AM | X | recipe / Copay accumulator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 26 | 10:00 AM | X | formulary exclusivity payment (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 26 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Jul 26 | 2:30 PM | X | dispensing fee spread (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 26 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Jul 26 | 7:00 PM | X | question [A1] | PART 4B · Sun | [ ] |
+| Sun Jul 26 | 8:30 PM | X | one question [B8] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -160,6 +164,29 @@ Have you compared your rebate provisions to strong language benchmarks? If you h
 *Questions on rebate economics? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*
+
+---
+
+### In-Article Visual: Rebate Model Comparison
+
+_Embedded whiteboard-style carousel/graphic for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the "How rebate economics actually work" section above._
+
+**Format:** Whiteboard Carousel (7 slides) — Template A
+**Pillar:** Transparency & Industry Education
+
+**Slide 1:** "3 Rebate Models. Where Does the Margin Live?" Hand-drawn dollar sign with three arrows. Swipe.
+
+**Slide 2 — Pass-Through:** "PASS-THROUGH" in Primary Blue. Flow: Manufacturer → PBM → Plan (100%). Annotation: "PBM margin = admin fees + spread. Not rebates." Green checkmark: "Most transparent."
+
+**Slide 3 — Traditional:** "TRADITIONAL" in red. Flow: Manufacturer → PBM (retains %) → Plan (gets remainder). Red circle: "How much does PBM retain? Can you see it?" Annotation: "PBM margin = retained rebates + fees + spread."
+
+**Slide 4 — Hybrid:** "HYBRID" in Primary Blue. Flow: Manufacturer → PBM → Plan (guaranteed minimum). Annotation: "PBM keeps anything above the guarantee." Question: "Is the guarantee competitive?"
+
+**Slide 5 — The Key Question:** Large handwritten: "Which model is yours?" Below: "The label in your contract may not match the economics." Red underline under "economics."
+
+**Slide 6 — What to Check:** Three hand-drawn checkboxes: "Rebate definition (broad or narrow?)" / "Eligible claims (specialty included?)" / "True-up provision (exists?)"
+
+**Slide 7 — CTA:** Primary Blue background. White: "Pull your contract. Find these 8 provisions." Accent Blue: "The comparison speaks for itself." team@rxbs.org
 
 ---
 
@@ -564,45 +591,7 @@ This week's Benefit Blind Spots deep dive on rebate economics decoded is the ope
 
 ## Post 107 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Network Contract Terms Decoded (Slot A of the evergreen rotation).**
-
-### Rebate Model Comparison (Whiteboard Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Whiteboard Carousel (7 slides) - Template A
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~80 words
-
-#### Post Copy
-
-```
-Three rebate models. Three different economics. One plan sponsor paying the bill.
-
-Pass-through. Traditional. Hybrid. The labels sound simple. The economics behind each are not. Where the PBM's margin lives depends entirely on which model your contract uses.
-
-#Rebates #DrugPricing #PharmacyBenefits
-```
-
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
-
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
-#### Whiteboard Carousel Slides (Template A)
-
-**Slide 1:** "3 Rebate Models. Where Does the Margin Live?" Hand-drawn dollar sign with three arrows. Swipe.
-
-**Slide 2 - Pass-Through:** "PASS-THROUGH" in Primary Blue. Flow: Manufacturer → PBM → Plan (100%). Annotation: "PBM margin = admin fees + spread. Not rebates." Green checkmark: "Most transparent."
-
-**Slide 3 - Traditional:** "TRADITIONAL" in red. Flow: Manufacturer → PBM (retains %) → Plan (gets remainder). Red circle: "How much does PBM retain? Can you see it?" Annotation: "PBM margin = retained rebates + fees + spread."
-
-**Slide 4 - Hybrid:** "HYBRID" in Primary Blue. Flow: Manufacturer → PBM → Plan (guaranteed minimum). Annotation: "PBM keeps anything above the guarantee." Question: "Is the guarantee competitive?"
-
-**Slide 5 - The Key Question:** Large handwritten: "Which model is yours?" Below: "The label in your contract may not match the economics." Red underline under "economics."
-
-**Slide 6 - What to Check:** Three hand-drawn checkboxes: "Rebate definition (broad or narrow?)" / "Eligible claims (specialty included?)" / "True-up provision (exists?)"
-
-**Slide 7 - CTA:** Primary Blue background. White: "Pull your contract. Find these 8 provisions." Accent Blue: "The comparison speaks for itself." team@rxbs.org
-
----
+_The Rebate Model Comparison whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Rebate Model Comparison). The live Thursday post is below._
 
 ### Thursday Evergreen Rotation (Slot A) - 5 Network Contract Terms Decoded
 
@@ -1032,7 +1021,8 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 105 Sticky Note Dashboard Messy Infographic | 1080x1350 | "The Audit Right Most Self-Funded Plans Never Exercise" — corkboard of 6 sticky notes summarizing audit-right findings from ~100 contract reviews, PBM Contract Insights pillar |
-| Post 107 Whiteboard Carousel | 7 slides | Template A - rebate model comparison |
+| Post 107 Network Terms Decoded (Marked-Up Notebook Messy Infographic) | 1080x1350 | "5 Network Contract Terms Decoded" — Slot A, PBM Contract Insights pillar |
+| In-Article Visual: Rebate Model Comparison (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Substack header | 2240x1260 | [ ] |
 | Field Note header | 1200x600 | [ ] |
 

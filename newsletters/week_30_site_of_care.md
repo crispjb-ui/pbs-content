@@ -3,56 +3,69 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Jul 27 | 7:30 AM | Substack | "Site-of-Care Optimization: The Cost Lever Most Plans Ignore" | [ ] |
-| Mon Jul 27 | 7:45 AM | LinkedIn Newsletter | Site-of-Care Briefing | [ ] |
-| Mon Jul 27 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
-| Mon Jul 27 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Jul 27 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Jul 27 | 7:00 PM | X (Twitter) | question post [A2] | [ ] |
-| Mon Jul 27 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
-| Tue Jul 28 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
-| Tue Jul 28 | 10:00 AM | LinkedIn Feed | Post 109 - "5 Self-Funded Decisions That Have to Land Before Year-End" One Number Carousel (different pillar) | [ ] |
-| Tue Jul 28 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Jul 28 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Jul 28 | 7:00 PM | X (Twitter) | question post [A3] | [ ] |
-| Tue Jul 28 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
-| Wed Jul 29 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
-| Wed Jul 29 | 10:00 AM | LinkedIn Feed | Post 110 - Strong POV TEXT / VIDEO TEST #3 | [ ] |
-| Wed Jul 29 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Jul 29 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Jul 29 | 7:00 PM | X (Twitter) | question post [A4] | [ ] |
-| Wed Jul 29 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
-| Thu Jul 30 | 7:30 AM | Substack | Field Note: "White Bagging vs. Brown Bagging: The Practical Differences" | [ ] |
-| Thu Jul 30 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
-| Thu Jul 30 | 10:00 AM | LinkedIn Feed | Post 111 - Same infusion. Hospital. Office. Home. Four prices. (Carousel, Slot B evergreen rotation) | [ ] |
-| Thu Jul 30 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Jul 30 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Jul 30 | 7:00 PM | X (Twitter) | question post [A5] | [ ] |
-| Thu Jul 30 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
-| Fri Jul 31 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
-| Fri Jul 31 | 10:00 AM | LinkedIn Feed | Post 112 - Tease Hook TEXT (teases Week 31) | [ ] |
-| Fri Jul 31 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Jul 31 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Jul 31 | 7:00 PM | X (Twitter) | question post [A6] | [ ] |
-| Fri Jul 31 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D7] | [ ] |
-| Sat Aug 1 | 8:00 AM | X (Twitter) | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
-| Sat Aug 1 | 10:00 AM | X (Twitter) | price protection reclassification (Tier A) | [ ] |
-| Sat Aug 1 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Aug 1 | 2:30 PM | X (Twitter) | copay accumulator (Tier A) | [ ] |
-| Sat Aug 1 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Aug 1 | 7:00 PM | X (Twitter) | question post [A7] | [ ] |
-| Sat Aug 1 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
-| Sun Aug 2 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
-| Sun Aug 2 | 10:00 AM | X (Twitter) | copay maximizer vendor (SaveOnSP-style) (Tier A) | [ ] |
-| Sun Aug 2 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Aug 2 | 2:30 PM | X (Twitter) | brown bagging (Tier A) | [ ] |
-| Sun Aug 2 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Aug 2 | 7:00 PM | X (Twitter) | question post [A8] | [ ] |
-| Sun Aug 2 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday slot = live "5 Coordination of Benefits Terms Decoded" COB decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Jul 26 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Jul 27 | 7:30 AM | Substack | Deep dive: "Site-of-Care Optimization: The Cost Lever Most Plans Ignore" | PART 1 | [ ] |
+| Mon Jul 27 | 7:45 AM | LI Newsletter | Site-of-Care Briefing (Issue #25) | PART 2 | [ ] |
+| Mon Jul 27 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Mon | [ ] |
+| Mon Jul 27 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Jul 27 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Jul 27 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Jul 27 | 7:00 PM | X | question [A2] | PART 4B · Mon | [ ] |
+| Mon Jul 27 | 8:30 PM | X | aphorism [C9] | PART 4B · Mon | [ ] |
+| Tue Jul 28 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Tue | [ ] |
+| Tue Jul 28 | 10:00 AM | LI Feed | Post 109 — "5 Self-Funded Decisions That Have to Land Before Year-End" (One Number Carousel) | Post 109 | [ ] |
+| Tue Jul 28 | 10:05 AM | LI Feed | Post 109 first comment | Post 109 | [ ] |
+| Tue Jul 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Jul 28 | 1:30 PM | LI Company | Reshare of Post 109 | Post 109 Reshare | [ ] |
+| Tue Jul 28 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Jul 28 | 7:00 PM | X | question [A3] | PART 4B · Tue | [ ] |
+| Tue Jul 28 | 8:30 PM | X | one question [B9] | PART 4B · Tue | [ ] |
+| Wed Jul 29 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Wed | [ ] |
+| Wed Jul 29 | 10:00 AM | LI Feed | Post 110 — Site-of-care POV (Strong POV text / Video Test #3, shocking-fact weave) | Post 110 | [ ] |
+| Wed Jul 29 | 10:05 AM | LI Feed | Post 110 first comment | Post 110 | [ ] |
+| Wed Jul 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Jul 29 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Jul 29 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Jul 29 | 7:00 PM | X | question [A4] | PART 4B · Wed | [ ] |
+| Wed Jul 29 | 8:30 PM | X | aphorism [C10] | PART 4B · Wed | [ ] |
+| Thu Jul 30 | 7:30 AM | Substack | Field Note: "Auditing Your Coordination of Benefits Claims" | PART 1B | [ ] |
+| Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: Mid-Summer Plan Check-In | PART 2B | [ ] |
+| Thu Jul 30 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Thu | [ ] |
+| Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "5 Coordination of Benefits Terms Decoded" (Three-EOB Photoreal) | Post 111 | [ ] |
+| Thu Jul 30 | 10:05 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
+| Thu Jul 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
+| Thu Jul 30 | 1:30 PM | LI Company | Reshare of Post 111 | Post 111 Reshare | [ ] |
+| Thu Jul 30 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Jul 30 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Jul 30 | 7:00 PM | X | question [A5] | PART 4B · Thu | [ ] |
+| Thu Jul 30 | 8:30 PM | X | one question [B10] | PART 4B · Thu | [ ] |
+| Fri Jul 31 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Fri | [ ] |
+| Fri Jul 31 | 10:00 AM | LI Feed | Post 112 — PBM RFP tease (teases W31) | Post 112 | [ ] |
+| Fri Jul 31 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Jul 31 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Jul 31 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Jul 31 | 7:00 PM | X | question [A6] | PART 4B · Fri | [ ] |
+| Fri Jul 31 | 8:30 PM | X | origin-anchored [D7] | PART 4B · Fri | [ ] |
+| Sat Aug 1 | 8:00 AM | X | recipe / Rebate aggregator (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 10:00 AM | X | price protection reclassification (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 2:30 PM | X | copay accumulator (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 7:00 PM | X | question [A7] | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 8:30 PM | X | aphorism [C1] | PART 4B · Sat | [ ] |
+| Sun Aug 2 | 8:00 AM | X | recipe / Spread pricing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 2 | 10:00 AM | X | copay maximizer vendor (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 2 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Aug 2 | 2:30 PM | X | brown bagging (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 2 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Aug 2 | 7:00 PM | X | question [A8] | PART 4B · Sun | [ ] |
+| Sun Aug 2 | 8:30 PM | X | one question [B1] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -145,6 +158,23 @@ Have you evaluated site-of-care for your plan's infusion therapies? If you have 
 *Questions on site-of-care strategy? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*
+
+---
+
+### In-Article Visual: Site-of-Care Decision Framework
+
+_Embedded whiteboard-style carousel/graphic for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the "Four administration settings compared" and "The site-of-care decision tree" sections above._
+
+**Format:** Whiteboard Carousel (7 slides) — Template A
+**Pillar:** Cost Containment Strategies
+
+**Slide 1:** "4 Settings. 1 Decision." Hand-drawn building icons getting smaller (hospital → home). "Which one is right for each therapy?"
+**Slide 2:** "HOSPITAL OUTPATIENT - $$$$" Red. "Initial infusions. Complex therapies. High monitoring needs." Annotation: "Not the default for maintenance."
+**Slide 3:** "PHYSICIAN OFFICE - $$$" Primary Blue. "Prescriber administers. Moderate cost." Annotation: "Limited by office infusion capacity."
+**Slide 4:** "AMBULATORY CENTER - $$" Green. "Purpose-built. No facility fees. Clinical oversight." Annotation: "Best option for most stable patients."
+**Slide 5:** "HOME INFUSION - $" Green. "Lowest cost. No facility fees. Member convenience." Annotation: "Clinically stable + established therapy + consent."
+**Slide 6:** "THE DECISION TREE" Hand-drawn flow: "Clinically stable?" → Yes → "REMS restrictions?" → No → "Alternative available?" → Yes → "Cost differential meaningful?" → Yes → "TRANSITION."
+**Slide 7:** Primary Blue bg. "One analysis: top infusion drugs, total cost by setting." team@rxbs.org
 
 ---
 
@@ -518,7 +548,9 @@ Ginny Crisp walks through the five decisions that have to land before Q1.
 ```
 Same infusion. Hospital outpatient: one price. Home infusion: a fraction. Same drug. Same outcome.
 
-The administration setting can change the cost of an infusion therapy by multiples. For most plans, the default setting was chosen by inertia, not by analysis.
+Where a drug gets administered or dispensed is rarely an accident, and the FTC put numbers on why. In its January 2025 staff report, the FTC found the big-3 PBMs marked up more than one in five specialty generics by over 1,000 percent at the pharmacies they own, generating $7.3 billion above what those drugs actually cost them. Not brand drugs. Generics. At the pharmacy the PBM steers your members toward.
+
+The administration and dispensing setting can change the cost of a therapy by multiples. For most plans, the default setting was chosen by inertia or by the PBM, not by analysis.
 
 A client's broker flagged a site-of-care opportunity last year on a single rheumatology biologic. When we pulled the numbers, moving that drug's infusions out of the hospital outpatient setting into home infusion produced facility-fee savings at a meaningful share of the plan's entire annual pharmacy spend. One category. One drug class. One routing decision that had never been questioned.
 
@@ -559,36 +591,7 @@ This week's Benefit Blind Spots deep dive on site-of-care optimization is the op
 
 ## Post 111 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: Same infusion. Hospital. Office. Home. Four prices. (Slot B of the evergreen rotation).**
-
-### Site-of-Care Decision Framework (Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Whiteboard Carousel (7 slides) - Template A
-**Pillar:** Cost Containment Strategies
-**Word Count:** ~80 words
-
-#### Post Copy
-
-```
-Four settings. One decision tree. Which administration setting is right for each therapy?
-
-Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion. The clinical criteria are well established. The cost differences are substantial. The default routing is usually inertia.
-
-#SiteOfCare #SelfFundedEmployers #EmployeeBenefits
-```
-
-#### Whiteboard Carousel Slides
-
-**Slide 1:** "4 Settings. 1 Decision." Hand-drawn building icons getting smaller (hospital → home). "Which one is right for each therapy?"
-**Slide 2:** "HOSPITAL OUTPATIENT - $$$$" Red. "Initial infusions. Complex therapies. High monitoring needs." Annotation: "Not the default for maintenance."
-**Slide 3:** "PHYSICIAN OFFICE - $$$" Primary Blue. "Prescriber administers. Moderate cost." Annotation: "Limited by office infusion capacity."
-**Slide 4:** "AMBULATORY CENTER - $$" Green. "Purpose-built. No facility fees. Clinical oversight." Annotation: "Best option for most stable patients."
-**Slide 5:** "HOME INFUSION - $" Green. "Lowest cost. No facility fees. Member convenience." Annotation: "Clinically stable + established therapy + consent."
-**Slide 6:** "THE DECISION TREE" Hand-drawn flow: "Clinically stable?" → Yes → "REMS restrictions?" → No → "Alternative available?" → Yes → "Cost differential meaningful?" → Yes → "TRANSITION."
-**Slide 7:** Primary Blue bg. "One analysis: top infusion drugs, total cost by setting." team@rxbs.org
-
----
+_The Site-of-Care Decision Framework whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Site-of-Care Decision Framework). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 Coordination of Benefits Terms Decoded — Three-EOB Photoreal Messy Infographic
 
@@ -606,11 +609,11 @@ Hospital outpatient. Physician office. Ambulatory infusion center. Home infusion
 ```
 Five contract terms decide how a single claim coordinates across primary, secondary, and copay assistance. Most plan sponsors never audit how the rules execute.
 
-I review hundreds of PBM contracts a year at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging — and the flagging is rarely audited.
+I review hundreds of PBM contracts a year at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging, and the flagging is rarely audited.
 
 Five terms to know:
 
-1. **Primary-Secondary Determination.** The order in which coverage applies when a member has multiple plans. Standard rules exist (birthday rule, employee/dependent), but the contract's language can vary the default — and the default determines who pays first.
+1. **Primary-Secondary Determination.** The order in which coverage applies when a member has multiple plans. Standard rules exist (birthday rule, employee/dependent), but the contract's language can vary the default, and the default determines who pays first.
 
 2. **Member Responsibility Carve-Out.** What portion of the claim the member must absorb regardless of secondary coverage. Carve-out language can shift the deductible / OOP-max calculation in ways that change the year-end member burden.
 
@@ -627,9 +630,12 @@ Save this for your next quarterly review.
 #PBMContracts #CoordinationOfBenefits #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on COB-flagged claims (pull the COB-flagged sample, classify by coordination type, compare outcomes to the contract clause). Plus a paste-ready Coordination of Benefits (COB) Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Three-EOB Photoreal Image Generation Prompt
 
 > A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking insurance Explanation of Benefits pages are laid out side by side on a dark wood desk, evenly spaced, slight perspective angle. Each page has the header "Explanation of Benefits" printed at the top in clean serif type. Reading left to right, each page has a distinct printed sub-header label below the EOB title, indicating the coordination role:
@@ -958,7 +964,7 @@ Is the drug on your formulary there because it works best, or because it paid th
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C1]:**
 ```
-Transparency is the word every PBM uses and the thing every PBM contract is built to prevent.
+The cheapest place to administer a drug and the place your PBM routes it to are almost never the same address. That gap is the business model.
 ```
 
 **Sun Aug 2**
@@ -1017,7 +1023,8 @@ One question that changes the room: "Show me the difference between what you pai
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 109 One Number Carousel | 7 slides (1080x1350) | "5 Self-Funded Decisions That Have to Land Before Year-End" — Q4 renewal-prep decisions anchored by dates and counts, Self-Funded Employer Guidance pillar |
-| Post 111 Whiteboard Carousel | 7 slides | Template A - decision tree |
+| Post 111 COB Terms Decoded (Three-EOB Photoreal Messy Infographic) | 1080x1350 | "5 Coordination of Benefits Terms Decoded" — PBM Contract Insights pillar |
+| In-Article Visual: Site-of-Care Decision Framework (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Post 110 Video (optional) | Vertical, 45 sec | VIDEO TEST #3 |
 | Substack header | 2240x1260 | [ ] |
 | Field Note header | 1200x600 | [ ] |

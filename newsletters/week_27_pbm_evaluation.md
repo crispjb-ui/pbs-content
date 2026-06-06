@@ -3,65 +3,67 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Sun Jul 5 | - | Prep | Final review of all content | [ ] |
-| Mon Jul 6 | 7:30 AM | Substack | "The Vertical Integration Question: Stay or Switch in 2026" | [ ] |
-| Mon Jul 6 | 7:45 AM | LinkedIn Newsletter | PBM Evaluation Briefing | [ ] |
-| Mon Jul 6 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
-| Mon Jul 6 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Jul 6 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Jul 6 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Mon Jul 6 | 7:00 PM | X (Twitter) | question post [A13] | [ ] |
-| Mon Jul 6 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
-| Tue Jul 7 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
-| Tue Jul 7 | 10:00 AM | LinkedIn Feed | Post 97 - "Five Reporting Clauses That Let You Actually Run the PBM Review" Library 04 Contract Comparison Carousel (different pillar) | [ ] |
-| Tue Jul 7 | 10:05 AM | LinkedIn Feed | Post 97 - First Comment | [ ] |
-| Tue Jul 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Jul 7 | 1:30 PM | LinkedIn Company | Company Reshare of Post 97 | [ ] |
-| Tue Jul 7 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Jul 7 | 7:00 PM | X (Twitter) | question post [A14] | [ ] |
-| Tue Jul 7 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
-| Wed Jul 8 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
-| Wed Jul 8 | 10:00 AM | LinkedIn Feed | Post 98 - "Switching PBMs is disruptive. Staying with the wrong one is expensive." Strong POV (TEXT) | [ ] |
-| Wed Jul 8 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Jul 8 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Wed Jul 8 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Jul 8 | 7:00 PM | X (Twitter) | question post [A15] | [ ] |
-| Wed Jul 8 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
-| Thu Jul 9 | 7:30 AM | Substack | Field Note: "Auditing How Your PBM Actually Makes Money" | [ ] |
-| Thu Jul 9 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
-| Thu Jul 9 | 10:00 AM | LinkedIn Feed | Post 99 - Same plan. Same data. Different PBM interpretations. (Carousel, Slot B evergreen rotation) | [ ] |
-| Thu Jul 9 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Jul 9 | 1:30 PM | LinkedIn Company | Company Reshare of Post 99 | [ ] |
-| Thu Jul 9 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Jul 9 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
-| Thu Jul 9 | 7:00 PM | X (Twitter) | question post [A16] | [ ] |
-| Thu Jul 9 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
-| Fri Jul 10 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
-| Fri Jul 10 | 10:00 AM | LinkedIn Feed | Post 100 - "The number your PBM hopes you never calculate" Tease Hook (TEXT) | [ ] |
-| Fri Jul 10 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Jul 10 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
-| Fri Jul 10 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Jul 10 | 7:00 PM | X (Twitter) | question post [A1] | [ ] |
-| Fri Jul 10 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D4] | [ ] |
-| Sat Jul 11 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
-| Sat Jul 11 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
-| Sat Jul 11 | 10:00 AM | X (Twitter) | effective-rate true-up timing (Tier A) | [ ] |
-| Sat Jul 11 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Jul 11 | 2:30 PM | X (Twitter) | mid-year formulary change (Tier A) | [ ] |
-| Sat Jul 11 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Jul 11 | 7:00 PM | X (Twitter) | question post [A2] | [ ] |
-| Sat Jul 11 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
-| Sun Jul 12 | 8:00 AM | X (Twitter) | recipe / Specialty routing (Tier A weekend Cuban-bait) | [ ] |
-| Sun Jul 12 | 10:00 AM | X (Twitter) | mail-order steering (Tier A) | [ ] |
-| Sun Jul 12 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Jul 12 | 2:30 PM | X (Twitter) | rebate aggregator (Tier A) | [ ] |
-| Sun Jul 12 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Jul 12 | 7:00 PM | X (Twitter) | question post [A3] | [ ] |
-| Sun Jul 12 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (timeline had drifted: the Thursday post that actually shipped is "5 PBM Compensation Terms Decoded" Ledger Annotated messy infographic, not the "Same plan / different interpretations" carousel, which was displaced to the evergreen backlog)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Jul 5 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Jul 6 | 7:30 AM | Substack | Deep dive: "The Vertical Integration Question: Stay or Switch in 2026" | PART 1 | [ ] |
+| Mon Jul 6 | 7:45 AM | LI Newsletter | PBM Evaluation Briefing | PART 2 | [ ] |
+| Mon Jul 6 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Mon | [ ] |
+| Mon Jul 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Jul 6 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Jul 6 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Jul 6 | 7:00 PM | X | question [A13] | PART 4B · Mon | [ ] |
+| Mon Jul 6 | 8:30 PM | X | aphorism [C10] | PART 4B · Mon | [ ] |
+| Tue Jul 7 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Tue | [ ] |
+| Tue Jul 7 | 10:00 AM | LI Feed | Post 97 — "Five Reporting Clauses That Let You Actually Run the PBM Review" (Library 04 · Contract Comparison) | Post 97 | [ ] |
+| Tue Jul 7 | 10:05 AM | LI Feed | Post 97 first comment | Post 97 | [ ] |
+| Tue Jul 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Jul 7 | 1:30 PM | LI Company | Reshare of Post 97 | Post 97 Reshare | [ ] |
+| Tue Jul 7 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Jul 7 | 7:00 PM | X | question [A14] | PART 4B · Tue | [ ] |
+| Tue Jul 7 | 8:30 PM | X | one question [B10] | PART 4B · Tue | [ ] |
+| Wed Jul 8 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Wed | [ ] |
+| Wed Jul 8 | 10:00 AM | LI Feed | Post 98 — "Switching PBMs is disruptive. Staying with the wrong one is expensive." (POV text) | Post 98 | [ ] |
+| Wed Jul 8 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Jul 8 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Jul 8 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Jul 8 | 7:00 PM | X | question [A15] | PART 4B · Wed | [ ] |
+| Wed Jul 8 | 8:30 PM | X | aphorism [C1] | PART 4B · Wed | [ ] |
+| Thu Jul 9 | 7:30 AM | Substack | Field Note: "Auditing How Your PBM Actually Makes Money" | PART 1B | [ ] |
+| Thu Jul 9 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Thu | [ ] |
+| Thu Jul 9 | 10:00 AM | LI Feed | Post 99 — "5 PBM Compensation Terms Decoded" (Ledger Annotated messy infographic) | Post 99 | [ ] |
+| Thu Jul 9 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: PBM Compensation decoder]` | PART 4B · Thu | [ ] |
+| Thu Jul 9 | 1:30 PM | LI Company | Reshare of Post 99 | Post 99 Reshare | [ ] |
+| Thu Jul 9 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Jul 9 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Jul 9 | 7:00 PM | X | question [A16] | PART 4B · Thu | [ ] |
+| Thu Jul 9 | 8:30 PM | X | one question [B1] | PART 4B · Thu | [ ] |
+| Fri Jul 10 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Fri | [ ] |
+| Fri Jul 10 | 10:00 AM | LI Feed | Post 100 — "The number your PBM hopes you never calculate" tease (teases W28) | Post 100 | [ ] |
+| Fri Jul 10 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Jul 10 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Jul 10 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Jul 10 | 7:00 PM | X | question [A1] | PART 4B · Fri | [ ] |
+| Fri Jul 10 | 8:30 PM | X | origin-anchored (1/week) [D4] | PART 4B · Fri | [ ] |
+| Sat Jul 11 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
+| Sat Jul 11 | 8:00 AM | X | recipe / Spread pricing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 11 | 10:00 AM | X | effective-rate true-up timing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 11 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Jul 11 | 2:30 PM | X | mid-year formulary change (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 11 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Jul 11 | 7:00 PM | X | question [A2] | PART 4B · Sat | [ ] |
+| Sat Jul 11 | 8:30 PM | X | aphorism [C2] | PART 4B · Sat | [ ] |
+| Sun Jul 12 | 8:00 AM | X | recipe / Specialty routing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 12 | 10:00 AM | X | mail-order steering (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 12 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Jul 12 | 2:30 PM | X | rebate aggregator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 12 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Jul 12 | 7:00 PM | X | question [A3] | PART 4B · Sun | [ ] |
+| Sun Jul 12 | 8:30 PM | X | one question [B2] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -235,6 +237,43 @@ Have you scored your PBM relationship? If you have gone through the evaluation, 
 *Questions on PBM evaluation? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*
+
+---
+
+### In-Article Visual: PBM Evaluation Scorecard Overview (Infographic)
+
+_Embedded infographic for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the 10-factor scorecard section above._
+
+#### Infographic Concept
+
+**Title:** PBM Evaluation Scorecard
+**Style:** Scored checklist with color-coded thresholds
+**Dimensions:** 1080 x 1350 px
+
+**Layout:**
+
+**Header:** Primary Blue (#015880) background. White Plex Sans SemiBold: "PBM Evaluation Scorecard" (36pt). "100 Points. One Answer." in Accent Blue (#A7E0FA).
+
+**10-Factor List:** Each row shows factor name, weight, and a color-coded score zone.
+- Row 1: Pricing Competitiveness (15 pts) — bar chart indicator
+- Row 2: Rebate Transparency (15 pts)
+- Row 3: Clinical Programs (10 pts)
+- Row 4: Reporting & Analytics (10 pts)
+- Row 5: Formulary Independence (10 pts)
+- Row 6: Service Responsiveness (10 pts)
+- Row 7: Contract Flexibility (10 pts)
+- Row 8: Specialty Management (10 pts)
+- Row 9: Technology (5 pts)
+- Row 10: Team Stability (5 pts)
+
+**Score Zones (bottom):**
+- Green: "70+ Optimize" with checkmark
+- Yellow: "50-70 Renegotiate" with caution icon
+- Red: "Below 50 Go to Market" with arrow icon
+
+**Bottom Bar:** Accent Blue. "Score before you negotiate." PBS logo, team@rxbs.org.
+
+**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan."
 
 ---
 
@@ -715,64 +754,7 @@ This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is
 
 ## Post 99 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: Same plan. Same data. Different PBM interpretations. (Slot B of the evergreen rotation).**
-
-### PBM Evaluation Scorecard Overview (Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Standard Infographic (INFO)
-**Pillar:** PBM Contract Insights
-**Word Count:** ~80 words
-
-#### Post Copy
-
-```
-The PBM evaluation scorecard. 10 factors. 100 points. One answer.
-
-Pricing competitiveness. Rebate transparency. Clinical program quality. Reporting. Formulary independence. Service. Contract flexibility. Specialty management. Technology. Team stability.
-
-Below 50: go to market. 50-70: renegotiate. Above 70: optimize.
-
-The decision should be data, not frustration. Score your PBM relationship before renewal, not during it.
-
-#PBMRFP #SelfFundedEmployers #PharmacyBenefits
-```
-
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
-
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
-#### Infographic Concept
-
-**Title:** PBM Evaluation Scorecard
-**Style:** Scored checklist with color-coded thresholds
-**Dimensions:** 1080 x 1350 px
-
-**Layout:**
-
-**Header:** Primary Blue (#015880) background. White Plex Sans SemiBold: "PBM Evaluation Scorecard" (36pt). "100 Points. One Answer." in Accent Blue (#A7E0FA).
-
-**10-Factor List:** Each row shows factor name, weight, and a color-coded score zone.
-- Row 1: Pricing Competitiveness (15 pts) — bar chart indicator
-- Row 2: Rebate Transparency (15 pts)
-- Row 3: Clinical Programs (10 pts)
-- Row 4: Reporting & Analytics (10 pts)
-- Row 5: Formulary Independence (10 pts)
-- Row 6: Service Responsiveness (10 pts)
-- Row 7: Contract Flexibility (10 pts)
-- Row 8: Specialty Management (10 pts)
-- Row 9: Technology (5 pts)
-- Row 10: Team Stability (5 pts)
-
-**Score Zones (bottom):**
-- Green: "70+ Optimize" with checkmark
-- Yellow: "50-70 Renegotiate" with caution icon
-- Red: "Below 50 Go to Market" with arrow icon
-
-**Bottom Bar:** Accent Blue. "Score before you negotiate." PBS logo, team@rxbs.org.
-
-**Disclaimer:** "Illustrative example for educational purposes. Actual amounts vary by plan."
-
----
+_The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: PBM Evaluation Scorecard Overview). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 PBM Compensation Terms Decoded — Ledger Annotated Messy Infographic
 
@@ -788,6 +770,8 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Post Copy
 
 ```
+Three companies decide what 80 percent of American prescriptions cost. The FTC found the big-3 PBMs now process roughly 80 percent of the country's prescriptions, up from 52 percent in 2004, and the pharmacies they own collect about 70 percent of every specialty dollar. Both sides of the counter, one corporate family. That concentration is the reason your PBM's compensation hides in plain sight.
+
 Five revenue streams flow from your plan to your PBM. Most plan sponsors only track one of them.
 
 I review hundreds of PBM contracts a year at PBS. Aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four streams are where the rest sits. The contract authorizes them; the disclosure obligations rarely require the PBM to show them.
