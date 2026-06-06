@@ -593,7 +593,7 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ma
 
 **Post-Generation Steps:** generate 7-slide deck → export PNGs 1080 x 1350 → legibility spot-check at ~400px → upload as native LinkedIn document carousel.
 
-_⚠ Library numbering: this file labels the Tuesday carousel "Library 04," but CLAUDE.md's as-built cadence lists Library 04 at W27. Reconcile before ship (either this becomes Library 04 and W27 shifts to 05, or this ships as an unnumbered Contract Comparison Tuesday). Flagged for decision._
+_Library numbering RESOLVED (June 2026): this Termination carousel is **Library 04** (W25); the W27 Reporting Clauses carousel is **Library 05**; W33 Q4 Broker is **Library 06**. CLAUDE.md cadence updated to match._
 
 ---
 
