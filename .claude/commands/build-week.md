@@ -20,6 +20,12 @@ Write the triple-distinct line: **Mon / Tue / Thu+Field Note**, three different 
 ## Step 3 — Pull the shocking fact
 From `shocking_fact_bank.md`, take the fact mapped to this week (fact→week table) or the best unused fit. Confirm its citation; if a figure may be stale, `WebSearch` to re-verify (no fabricated stats). This fact gets woven into the Thursday breakout (first choice), else the Wednesday POV or X AM amplifier.
 
+## Step 3.5 — Wendell Potter check (required)
+Check `wendell_potter_cascade_alignment.md` + `wendell_potter_contributorship_strategy.md` + the Potter schedule against this week:
+- **Potter-publish week:** build the same-day cross-promo to the WP article (LinkedIn + X tagging @wendellpotter); coordinate topic; do not scoop pre-publish.
+- **Cascade week (week after a Potter piece):** align the Monday deep-dive topic to the prior piece per the alignment map (SWAP/REFRAME), and build the reference-back block (Mon newsletter opener + deep-dive callout + early-week Note/X back-link).
+- Confirm the every-other-week guest-article + video-podcast cadence is reflected and the next Potter piece's topic/copy is queued. If none apply, note "no Potter dependency this week."
+
 ## Step 4 — Generate from the template
 Copy `newsletters/templates/week_build_template.md` to `newsletters/week_NN_<slug>.md` and fill every PART. Keep the section order. All paste-ready blocks in fenced code blocks. Hashtags 3/post per the pillar+anchor rule. No em-dashes as separators; PBS not RXBS; Ginny Crisp, PharmD.
 

@@ -34,6 +34,13 @@ The calendar is an arc, not a pile of weeks.
 - [ ] **Flow:** the week reads as the next step in the quarter's arc — builds on the prior week, and the Friday tease sets up next Monday. No random topic drops.
 - [ ] **Stack for the surge:** in the summer trough, bank breakout-grade assets (shocking facts, Potter pieces, toolkits) for Sep–Oct rather than spending them in the slow window.
 
+## 1.7 Wendell Potter contributorship (new, required when applicable)
+Check `wendell_potter_cascade_alignment.md`, `wendell_potter_contributorship_strategy.md`, and the Potter publish schedule against this week.
+- [ ] **Potter-publish week** (a HEALTH CARE un-covered piece ships this week): build the same-day cross-promo to the WP article (LinkedIn + X tagging @wendellpotter) per the strategy; do NOT scoop the piece before it publishes; coordinate the week's topic so it does not collide with the piece.
+- [ ] **Cascade week** (the PBS week AFTER a Potter piece): align the Monday deep-dive topic to the prior Potter piece per the cascade-alignment map (SWAP or REFRAME as documented), and build the cascade reference-back block — Monday newsletter opener + deep-dive callout + an early-week Note/X back-link to the now-published piece.
+- [ ] **Guest-authoring + podcast cadence kept:** confirm the every-other-week Potter guest article and the Potter video-podcast commitments are reflected; the next Potter piece's topic and copy are queued so the Potter pipeline never goes dark.
+- [ ] If none apply, note "no Potter dependency this week" so the check is visible.
+
 ## 2. Shocking-fact weaving (new, required)
 - [ ] At least one sourced fact from `shocking_fact_bank.md` is built into a real post this week — Thursday breakout first choice, else Wednesday POV or the X AM amplifier.
 - [ ] The fact carries its citation framing ("the FTC found…") and is paired with a PBS proprietary anchor. No naked stat; no fabricated figure (re-verify the number at build time).
