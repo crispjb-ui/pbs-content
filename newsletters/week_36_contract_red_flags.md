@@ -3,56 +3,63 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Sep 7 | 7:30 AM | Substack | "Contract Language That Costs You: A Provision-by-Provision Comparison" | [ ] |
-| Mon Sep 7 | 7:45 AM | LinkedIn Newsletter | Contract Language Briefing | [ ] |
-| Mon Sep 7 | 8:00 AM | X (Twitter) | recipe / Manufacturer-fee reclassification (Tier B) | [ ] |
-| Mon Sep 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Sep 7 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Sep 7 | 7:00 PM | X (Twitter) | question post [A12] | [ ] |
-| Mon Sep 7 | 8:30 PM | X (Twitter) | aphorism [C7] | [ ] |
-| Tue Sep 8 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
-| Tue Sep 8 | 10:00 AM | LinkedIn Feed | Post 133 - "Three Clauses Behind Every Q4 Cost Pattern" Library 06 Contract Comparison Carousel (different pillar) | [ ] |
-| Tue Sep 8 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Sep 8 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Sep 8 | 7:00 PM | X (Twitter) | question post [A13] | [ ] |
-| Tue Sep 8 | 8:30 PM | X (Twitter) | one question [B7] | [ ] |
-| Wed Sep 9 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
-| Wed Sep 9 | 10:00 AM | LinkedIn Feed | Post 134 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Sep 9 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Sep 9 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Sep 9 | 7:00 PM | X (Twitter) | question post [A14] | [ ] |
-| Wed Sep 9 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
-| Thu Sep 10 | 7:30 AM | Substack | Field Note: "Data Ownership and Portability: The Clause That Determines Exit Options" | [ ] |
-| Thu Sep 10 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
-| Thu Sep 10 | 10:00 AM | LinkedIn Feed | Post 135 - Same contract language. Different interpretations. Different outcomes. (Carousel, Slot B evergreen rotation) | [ ] |
-| Thu Sep 10 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Sep 10 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Sep 10 | 7:00 PM | X (Twitter) | question post [A15] | [ ] |
-| Thu Sep 10 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
-| Fri Sep 11 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
-| Fri Sep 11 | 10:00 AM | LinkedIn Feed | Post 136 - Tease Hook (teases Week 37) | [ ] |
-| Fri Sep 11 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Sep 11 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Sep 11 | 7:00 PM | X (Twitter) | question post [A16] | [ ] |
-| Fri Sep 11 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D5] | [ ] |
-| Sat Sep 12 | 8:00 AM | X (Twitter) | recipe / White bagging (Tier A weekend Cuban-bait) | [ ] |
-| Sat Sep 12 | 10:00 AM | X (Twitter) | effective-rate true-up timing (Tier A) | [ ] |
-| Sat Sep 12 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Sep 12 | 2:30 PM | X (Twitter) | mid-year formulary change (Tier A) | [ ] |
-| Sat Sep 12 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Sep 12 | 7:00 PM | X (Twitter) | question post [A1] | [ ] |
-| Sat Sep 12 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
-| Sun Sep 13 | 8:00 AM | X (Twitter) | recipe / Copay accumulator (Tier A weekend Cuban-bait) | [ ] |
-| Sun Sep 13 | 10:00 AM | X (Twitter) | spread pricing (Tier A) | [ ] |
-| Sun Sep 13 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Sep 13 | 2:30 PM | X (Twitter) | mail-order steering (Tier A) | [ ] |
-| Sun Sep 13 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Sep 13 | 7:00 PM | X (Twitter) | question post [A2] | [ ] |
-| Sun Sep 13 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday repurposed-into-deep-dive visual moved to PART 1; live Thursday Slot B carousel is the schedulable post)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Mon Sep 7 | 7:30 AM | Substack | Deep dive: "Contract Language That Costs You" | PART 1 | [ ] |
+| Mon Sep 7 | 7:45 AM | LI Newsletter | Contract Language Briefing (Issue #31) | PART 2 | [ ] |
+| Mon Sep 7 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Mon | [ ] |
+| Mon Sep 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Sep 7 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Sep 7 | 7:00 PM | X | question [A12] | PART 4B · Mon | [ ] |
+| Mon Sep 7 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
+| Tue Sep 8 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Tue | [ ] |
+| Tue Sep 8 | 10:00 AM | LI Feed | Post 133 — "Three Clauses Behind Every Q4 Cost Pattern" (Library 06 Contract Comparison) | Post 133 | [ ] |
+| Tue Sep 8 | 8:35 AM | LI Feed | Post 133 first comment (Contract Language Library) | Post 133 | [ ] |
+| Tue Sep 8 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Sep 8 | 1:30 PM | LI Company | Reshare of Post 133 | Post 133 Reshare | [ ] |
+| Tue Sep 8 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Sep 8 | 7:00 PM | X | question [A13] | PART 4B · Tue | [ ] |
+| Tue Sep 8 | 8:30 PM | X | one question [B7] | PART 4B · Tue | [ ] |
+| Wed Sep 9 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Wed | [ ] |
+| Wed Sep 9 | 10:00 AM | LI Feed | Post 134 — Strong POV text (two-word contract trap) | Post 134 | [ ] |
+| Wed Sep 9 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Sep 9 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Sep 9 | 7:00 PM | X | question [A14] | PART 4B · Wed | [ ] |
+| Wed Sep 9 | 8:30 PM | X | aphorism [C8] | PART 4B · Wed | [ ] |
+| Thu Sep 10 | 7:30 AM | Substack | Field Note: "Auditing How Your PBM Defines the Same Words Your Old Contract Defined" | PART 1B | [ ] |
+| Thu Sep 10 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Thu | [ ] |
+| Thu Sep 10 | 10:00 AM | LI Feed | Post 135 — "Same contract language. Different interpretations. Different outcomes." (Same/Same/Different photoreal carousel, Slot B) | Post 135 | [ ] |
+| Thu Sep 10 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
+| Thu Sep 10 | 1:30 PM | LI Company | Reshare of Post 135 | Post 135 Reshare | [ ] |
+| Thu Sep 10 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Sep 10 | 7:00 PM | X | question [A15] | PART 4B · Thu | [ ] |
+| Thu Sep 10 | 8:30 PM | X | one question [B8] | PART 4B · Thu | [ ] |
+| Fri Sep 11 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Fri | [ ] |
+| Fri Sep 11 | 10:00 AM | LI Feed | Post 136 — Tease Hook (teases Week 37) | Post 136 | [ ] |
+| Fri Sep 11 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Sep 11 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Sep 11 | 7:00 PM | X | question [A16] | PART 4B · Fri | [ ] |
+| Fri Sep 11 | 8:30 PM | X | origin-anchored [D5] | PART 4B · Fri | [ ] |
+| Sat Sep 12 | 8:00 AM | X | recipe / White bagging (Tier A weekend Cuban-bait) | PART 4B · Sat | [ ] |
+| Sat Sep 12 | 10:00 AM | X | effective-rate true-up timing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Sep 12 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Sep 12 | 2:30 PM | X | mid-year formulary change (Tier A) | PART 4B · Sat | [ ] |
+| Sat Sep 12 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Sep 12 | 7:00 PM | X | question [A1] | PART 4B · Sat | [ ] |
+| Sat Sep 12 | 8:30 PM | X | aphorism [C9] | PART 4B · Sat | [ ] |
+| Sun Sep 13 | 8:00 AM | X | recipe / Copay accumulator (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 10:00 AM | X | spread pricing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 2:30 PM | X | mail-order steering (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 7:00 PM | X | question [A2] | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 8:30 PM | X | one question [B9] | PART 4B · Sun | [ ] |
+
+_Substack Notes (3/day) schedule straight down PART 4 in day order. Launch teasers: Mon (deep dive), Wed (roundup), Thu (field note)._
 
 ---
 
@@ -156,6 +163,24 @@ Pull your contract. Read each of these ten provisions (or note where they are ab
 
 ---
 
+### In-Article Visual: Contract Language Comparison (Weak vs Strong)
+
+_Embedded contract-markup carousel for this deep dive, moved here from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive lives here in PART 1, it is not discarded). Render and place inline alongside the comparison library section above; the slides mirror the provision rows in the article body._
+
+**Format:** Contract Markup Carousel, 7 slides, 1080 x 1350 px each. Off-white contract-paper aesthetic, Plex Mono body, yellow highlight on the weak phrase, red margin note, handwritten strong-language redline.
+
+**Slide 1:** "CONTRACT REVIEW" stamp. "10 Provisions. 3 Versions Each." Red annotation: "Which version is in YOUR contract?"
+**Slide 2:** Plex Mono: "PBM shall provide competitive pricing." Yellow highlight. Red margin note: "WEAK. 'Competitive' is undefined. Unenforceable." Below, handwritten redline: "GER of [X]% by channel, quarterly true-up."
+**Slide 3:** Plex Mono: "PBM shall pass through manufacturer rebates." Highlight. Note: "MODERATE. But what counts as a 'rebate'?" Handwritten: "Add: all compensation from manufacturers."
+**Slide 4:** Plex Mono: "Plan may audit during normal business hours." Note: "WEAK. No access to manufacturer contracts." Handwritten: "Add: including manufacturer agreements relevant to Plan."
+**Slide 5:** Plex Mono: "Penalties capped at $50,000." Red X. Note: "The cap limits your protection." Handwritten: "Dollar-for-dollar. No cap."
+**Slide 6:** Plex Mono: "PBM may amend with 30-day notice." Red strikethrough. Note: "They can change YOUR terms." Handwritten: "Mutual written agreement required."
+**Slide 7:** Primary Blue background. "Print this. Mark your contract. The gaps are your negotiation agenda." team@rxbs.org
+
+**Color Palette:** off-white paper (#F5F0E4), Plex Mono black body, yellow highlight, red (#C0392B) margin notes, Primary Blue (#015880) close, Accent Blue (#A7E0FA) accents.
+
+---
+
 ### Article Meta
 
 **SEO Title:** PBM Contract Language: 10 Provisions Compared Weak vs Strong | Benefit Blind Spots
@@ -198,7 +223,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
-This morning's LinkedIn post showed three PBMs reading the same ten-word clause three different ways. Today is the operational follow-on. You have the framing. Here is how to audit definition variance in your own contract history — the renewal-by-renewal drift that costs the plan money without changing a word of the visible contract.
+This morning's LinkedIn post showed three PBMs reading the same ten-word clause three different ways. Today is the operational follow-on. You have the framing. Here is how to audit definition variance in your own contract history: the renewal-by-renewal drift that costs the plan money without changing a word of the visible contract.
 
 We help plan sponsors run definition-variance audits as a standard part of our work at PBS. Three comparison passes do most of the work.
 
@@ -466,26 +491,9 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 
 ## Post 135 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: Same contract language. Different interpretations. Different outcomes. (Slot B of the evergreen rotation).**
+_The "Contract Language Comparison" Contract Markup Carousel was repurposed into Monday's deep dive (the 10-provision weak/moderate/strong comparison library is the article body) and now lives in PART 1 as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
-### Contract Language Comparison (Contract Markup Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Contract Markup Carousel (7 slides) - Template B
-
-#### Contract Markup Carousel Slides
-
-**Slide 1:** "CONTRACT REVIEW" stamp. "10 Provisions. 3 Versions Each." Red annotation: "Which version is in YOUR contract?"
-**Slide 2:** Monospace: "PBM shall provide competitive pricing." Yellow highlight. Margin note in red: "WEAK. 'Competitive' is undefined. Unenforceable." Below: strikethrough, handwritten: "GER of [X]% by channel, quarterly true-up."
-**Slide 3:** Monospace: "PBM shall pass through manufacturer rebates." Highlight. Note: "MODERATE. But what counts as a 'rebate'?" Handwritten: "Add: all compensation from manufacturers."
-**Slide 4:** Monospace: "Plan may audit during normal business hours." Note: "WEAK. No access to manufacturer contracts." Handwritten: "Add: including manufacturer agreements relevant to Plan."
-**Slide 5:** Monospace: "Penalties capped at $50,000." Red X. Note: "The cap limits your protection." Handwritten: "Dollar-for-dollar. No cap."
-**Slide 6:** Monospace: "PBM may amend with 30-day notice." Red strikethrough. Note: "They can change YOUR terms." Handwritten: "Mutual written agreement required."
-**Slide 7:** Primary Blue bg. "Print this. Mark your contract. The gaps are your negotiation agenda." team@rxbs.org
-
----
-
-### Thursday Evergreen Rotation (Slot B) - Same contract language. Different interpretations. Different outcomes.
+### Thursday Excellence Slot (Slot B) - Same contract language. Different interpretations. Different outcomes.
 
 - **Slot:** B
 - **Format:** Carousel (6 slides)
@@ -506,18 +514,25 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 ```
 Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did.
 
+Here is the red flag that hides in the most reassuring phrase in your contract. "100% pass-through" of manufacturer rebates sounds airtight. But the big-3 PBMs collect those rebates through their own aggregator companies, and two of the three are registered offshore: Ascent in Switzerland, Emisar in Ireland, Zinc for the third. The pass-through starts AFTER that offshore aggregator takes its cut. 100% of what is left is still "100%."
+
 I review hundreds of PBM contracts a year at PBS. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
 
 The pattern: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The current contract reads cleanly. The trajectory across versions does not.
+
+Read the noun, not the percentage. Then read who collects the rebate before the pass-through clock even starts.
 
 Save this for your next contract review.
 
 #PBMContracts #ContractLanguage #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to audit definition variance in your own contract history (pull every version, compare the high-impact clauses side by side, estimate the dollar impact of each silent narrowing). Plus the Definition Variance Audit Worksheet you can run before your next renewal. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Same/Same/Different Carousel Concept
 
 **Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
@@ -558,11 +573,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Reshare Copy
 
 ```
-Weak, moderate, strong. Every major PBM contract provision has versions. The version in your contract determines whether guarantees are enforceable, rebates are passed through, and amendments require your agreement.
+Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did. And "100% pass-through" can start only after an offshore aggregator the PBM owns takes its cut.
 
-Ginny Crisp walks through ten provisions and the redlines that strengthen each one.
+Ginny Crisp shows how the same contract language produces three different financial outcomes.
 
-#PBMContracts #SelfFundedEmployers #PharmacyBenefits
+#PBMContracts #ContractLanguage #PharmacyBenefits
 ```
 
 ---
@@ -854,7 +869,7 @@ Spread pricing: your PBM bills your plan one price for a generic, pays the pharm
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+The company that actually collects your PBM's drug rebates is registered in Switzerland. Another's in Ireland. Both owned by your PBM. "100% pass-through" starts only after that offshore aggregator takes its cut.
 ```
 - **2:30 PM · mail-order steering (Tier A):**
 ```

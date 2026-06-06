@@ -3,58 +3,62 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-> **NOTE:** Labor Day Monday Sep 1. Substack/newsletter publish Tuesday Sep 2.
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Labor Day shifts the Monday cadence to Tuesday; stale duplicate dates in the prior timeline corrected; paused-Whiteboard Tuesday parked to the backlog, leaving Tuesday open)._
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Aug 31 | 7:00 PM | X (Twitter) | question post [A5] | [ ] |
-| Mon Aug 31 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
-| Mon Sep 1 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
-| Mon Sep 1 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Sep 1 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Sep 1 | 7:00 PM | X (Twitter) | question post [A6] | [ ] |
-| Tue Sep 1 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
-| Tue Sep 2 | 7:30 AM | Substack | "The Renewal Negotiation Playbook" | [ ] |
-| Tue Sep 2 | 7:45 AM | LinkedIn Newsletter | Renewal Negotiation Briefing | [ ] |
-| Tue Sep 2 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
-| Tue Sep 2 | 10:00 AM | LinkedIn Feed | Post 129 - "How I'd Map a 2027 Renewal on a Whiteboard" Whiteboard Carousel (different pillar) | [ ] |
-| Tue Sep 2 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Sep 2 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Sep 2 | 7:00 PM | X (Twitter) | question post [A7] | [ ] |
-| Wed Sep 2 | 8:30 PM | X (Twitter) | aphorism [C5] | [ ] |
-| Wed Sep 3 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
-| Wed Sep 3 | 10:00 AM | LinkedIn Feed | Post 130 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Sep 3 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Sep 3 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Sep 3 | 7:00 PM | X (Twitter) | question post [A8] | [ ] |
-| Thu Sep 3 | 8:30 PM | X (Twitter) | one question [B5] | [ ] |
-| Thu Sep 4 | 7:30 AM | Substack | Field Note: "The Termination Clause: Your Most Powerful Negotiating Tool" | [ ] |
-| Thu Sep 4 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
-| Thu Sep 4 | 10:00 AM | LinkedIn Feed | Post 131 - 5 Termination Clause Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
-| Thu Sep 4 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Sep 4 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Sep 4 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
-| Fri Sep 4 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D4] | [ ] |
-| Fri Sep 5 | 8:00 AM | X (Twitter) | recipe / MAC list control (Tier B) | [ ] |
-| Fri Sep 5 | 10:00 AM | LinkedIn Feed | Post 132 - Tease Hook (teases Week 36) | [ ] |
-| Fri Sep 5 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Sep 5 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Sep 5 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
-| Sat Sep 5 | 8:30 PM | X (Twitter) | aphorism [C6] | [ ] |
-| Sat Sep 6 | 8:00 AM | X (Twitter) | recipe / DIR fees (Tier A weekend Cuban-bait) | [ ] |
-| Sat Sep 6 | 10:00 AM | X (Twitter) | copay maximizer vendor (SaveOnSP-style) (Tier A) | [ ] |
-| Sat Sep 6 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Sep 6 | 2:30 PM | X (Twitter) | brown bagging (Tier A) | [ ] |
-| Sat Sep 6 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sun Sep 6 | 7:00 PM | X (Twitter) | question post [A11] | [ ] |
-| Sun Sep 6 | 8:30 PM | X (Twitter) | one question [B6] | [ ] |
-| Sun Sep 7 | 8:00 AM | X (Twitter) | recipe / Mail-order steering (Tier A weekend Cuban-bait) | [ ] |
-| Sun Sep 7 | 10:00 AM | X (Twitter) | step therapy (fail-first) (Tier A) | [ ] |
-| Sun Sep 7 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Sep 7 | 2:30 PM | X (Twitter) | specialty exclusive distribution (Tier A) | [ ] |
-| Sun Sep 7 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
+> **NOTE:** Labor Day is Monday Sep 1. Substack deep dive + LinkedIn newsletter publish Tuesday Sep 2.
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Mon Sep 1 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Mon | [ ] |
+| Mon Sep 1 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Sep 1 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Sep 1 | 7:00 PM | X | question [A5] | PART 4B · Mon | [ ] |
+| Mon Sep 1 | 8:30 PM | X | aphorism [C4] | PART 4B · Mon | [ ] |
+| Tue Sep 2 | 7:30 AM | Substack | Deep dive: "The Renewal Negotiation Playbook" | PART 1 | [ ] |
+| Tue Sep 2 | 7:45 AM | LI Newsletter | Renewal Negotiation Briefing (Issue #30) | PART 2 | [ ] |
+| Tue Sep 2 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Tue | [ ] |
+| Tue Sep 2 | 10:00 AM | LI Feed | Post 129 — "$1,200 Cream. $47 Alternative. Same Active Ingredient." (dollar-comparison messy infographic, Cost Containment) | Post 129 | [ ] |
+| Tue Sep 2 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Sep 2 | 1:30 PM | LI Company | Reshare of Post 129 | Post 129 Reshare | [ ] |
+| Tue Sep 2 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Sep 2 | 7:00 PM | X | question [A6] | PART 4B · Tue | [ ] |
+| Tue Sep 2 | 8:30 PM | X | one question [B4] | PART 4B · Tue | [ ] |
+| Wed Sep 3 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Wed | [ ] |
+| Wed Sep 3 | 10:00 AM | LI Feed | Post 130 — Strong POV text (renewal asymmetry + auto-renewal trap) | Post 130 | [ ] |
+| Wed Sep 3 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Sep 3 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Sep 3 | 7:00 PM | X | question [A7] | PART 4B · Wed | [ ] |
+| Wed Sep 3 | 8:30 PM | X | aphorism [C5] | PART 4B · Wed | [ ] |
+| Thu Sep 4 | 7:30 AM | Substack | Field Note: "The Termination Clause: Your Most Powerful Negotiating Tool" | PART 1B | [ ] |
+| Thu Sep 4 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Thu | [ ] |
+| Thu Sep 4 | 10:00 AM | LI Feed | Post 131 — "5 Termination Clause Terms Decoded" (Marked-Up Folder messy infographic, Slot A) | Post 131 | [ ] |
+| Thu Sep 4 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
+| Thu Sep 4 | 1:30 PM | LI Company | Reshare of Post 131 | Post 131 Reshare | [ ] |
+| Thu Sep 4 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Sep 4 | 7:00 PM | X | question [A8] | PART 4B · Thu | [ ] |
+| Thu Sep 4 | 8:30 PM | X | one question [B5] | PART 4B · Thu | [ ] |
+| Fri Sep 5 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Fri | [ ] |
+| Fri Sep 5 | 10:00 AM | LI Feed | Post 132 — Tease Hook (teases Week 36) | Post 132 | [ ] |
+| Fri Sep 5 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Sep 5 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Sep 5 | 7:00 PM | X | question [A9] | PART 4B · Fri | [ ] |
+| Fri Sep 5 | 8:30 PM | X | origin-anchored [D4] | PART 4B · Fri | [ ] |
+| Sat Sep 6 | 8:00 AM | X | recipe / DIR fees (Tier A weekend Cuban-bait) | PART 4B · Sat | [ ] |
+| Sat Sep 6 | 10:00 AM | X | copay maximizer vendor (Tier A) | PART 4B · Sat | [ ] |
+| Sat Sep 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Sep 6 | 2:30 PM | X | brown bagging (Tier A) | PART 4B · Sat | [ ] |
+| Sat Sep 6 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Sep 6 | 7:00 PM | X | question [A10] | PART 4B · Sat | [ ] |
+| Sat Sep 6 | 8:30 PM | X | aphorism [C6] | PART 4B · Sat | [ ] |
+| Sun Sep 7 | 8:00 AM | X | recipe / Mail-order steering (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
+| Sun Sep 7 | 10:00 AM | X | step therapy (fail-first) (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Sep 7 | 2:30 PM | X | specialty exclusive distribution (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 7 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
+
+_Substack Notes (3/day) schedule straight down PART 4 in day order. Launch teasers: Tue (deep dive), Wed (roundup), Thu (field note)._
 
 ---
 
@@ -166,6 +170,24 @@ The employers who do this negotiate measurably different outcomes. Every time.
 *For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
+
+---
+
+### In-Article Visual: Where Your Negotiating Power Lives
+
+_Embedded messy-infographic for this deep dive, moved here from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive lives here in PART 1, it is not discarded). Render and place inline in the Substack article alongside the "Bringing it together" section above._
+
+**Title:** Where Your Negotiating Power Lives
+**Style:** Hand-drawn balance scale messy infographic. 1080 x 1350 px (vertical).
+**Layout:** A hand-drawn balance scale. Left pan labeled "PBM's Position" (their data, their scenarios, their timeline). Right pan labeled "Your Position" (your data, your benchmarks, your term sheet, your exit options). The scale tips toward the side with more preparation. Accent Blue (#A7E0FA) highlight on the "Your Position" pan and the fulcrum label. Hand-lettered annotation across the bottom in Primary Blue (#015880): "Preparation is the equalizer."
+
+**Color Palette:**
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Primary Blue | #015880 | Scale frame, headline, annotations |
+| Accent Blue | #A7E0FA | "Your Position" pan, fulcrum highlight |
+| Gray | #4D4D4D | Item labels, margin notes |
+| Off-white | #F5F5F0 | Background |
 
 ---
 
@@ -406,93 +428,49 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 129 - Tuesday 10:00 AM
+### "$1,200 Cream. $47 Alternative. Same Active Ingredient." — Dollar-Comparison Messy Infographic
 
-> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** This post violates two rules in CLAUDE.md and must be replaced before ship date.
-> - **Whiteboard Carousel format is paused** per CLAUDE.md May 8 update (W17 Carve-In/Out 1,790 impressions; W18 GLP-1 Whiteboard 758 impressions). Reformat to a non-Whiteboard canvas.
-> - **Topic is on Monday's renewal-negotiation family** = anti-cannibalization violation per Tuesday ≠ Monday rule.
-> - **Recommended replacement:** Library 09 Contract Comparison Carousel on a non-renewal provision family per the every-2-weeks Library NN cadence (W35 = Library 09 per CLAUDE.md schedule). Provision family suggestions: Performance Remediation, Manufacturer Payment Categories, Step Therapy Override.
-> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
-
-### "How I'd Map a 2027 Renewal on a Whiteboard" — Whiteboard Carousel [DRAFT — DO NOT SHIP, see RETARGET note above]
-
-**Template:** Whiteboard carousel (template #3). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W18 and W25 Whiteboard carousels.
-**Format class:** Carousel (Tuesday Cycle-W1 slot, fourth cycle — cycle-pillar PBM Contracts carried by Monday's Renewal Negotiation topic, so Tuesday shifts to Self-Funded Guidance)
-**Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Renewal Negotiation topic)
-**Content shape:** Decoder-in-reasoning form. Pharmacist-on-whiteboard pacing through the renewal calendar, showing what gates close each quarter and what falls off the board when they slip.
-**Why this combination:** A renewal calendar is an iterative reasoning artifact, not a stat dump or a contract clause. Whiteboard template matches how strong brokers actually talk clients through the timing — drawing it out, annotating where the gates live, circling the commitments. Third Whiteboard in the rotation after W18 (GLP-1) and W25 (90-day renewal decision).
+**Format:** Messy infographic, dollar-comparison card (single image, 1080 x 1350 px). Replaces the paused Whiteboard draft (parked in `evergreen_visual_backlog.md` #39).
+**Pillar:** Cost Containment Strategies.
+**Triple-distinct check:** Mon/Tue 7:30 deep dive (Labor Day shift) = Renewal Negotiation · Tue 10:00 feed = high-cost-formulation waste (dollar comparison) · Thu = Termination Clause decoder. Three different subjects. ✓
+**Why this combination:** A concrete, scroll-stopping dollar comparison that doubles as renewal leverage (the waste you find is what you take to the table), so the first comment bridges to the deep dive without repeating it. Named-actor, save-driven, hits the Tuesday Excellence bar.
 
 #### Post Copy
 
 ```
-If renewal lands in 2027, the calendar starts now.
+$1,200 cream. $47 alternative. Same active ingredient, same strength. Your plan paid for the first one because nobody flagged it.
 
-Self-funded plans that arrive at renewal with position built do not improvise. They follow a calendar. Here is the one we walk clients through:
+We see this on nearly every claims review at PBS: high-cost compounded and "specialty" formulations that have a clinically equivalent option sitting one substitution away. The PBM adjudicated the expensive one. The contract let it. The report did not flag it.
 
-Q4 2026: RFP scope, evaluation criteria, and finalist panel built. If the current PBM is in the finalist panel, the market check is real. If they are not, the conversation is about transition.
+Pull your top 20 claims by cost. For each, ask: is there a clinically equivalent option, and why did the expensive version pay? That list is your renewal leverage.
 
-Q1 2027: RFP issued. Vendor responses pulled and scored with an independent methodology, not the PBM's spreadsheet. Reference checks run on finalists.
+Same ingredient. Different price. The difference is whoever was supposed to be watching.
 
-Q2 2027: Best-and-final rounds with specific contract language demands, not generic improvement requests. Committee review and fiduciary documentation updated at each decision point.
-
-Q3 2027: Contract execution with implementation milestones, data transition plan, and performance baselines locked. Member communication strategy approved 60 days before go-live.
-
-Q4 2027: Go-live monitoring. First-90-days audit scheduled. Guarantee tracking framework in place.
-
-Plans that arrive at each phase with the prior phase complete negotiate. Plans that compress phases concede.
-
-#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+#PharmacyCosts #SelfFundedEmployers #EmployeeBenefits
 ```
 
 #### First Comment
 
 ```
-More in this week's Pharmacy Benefits Briefing on renewal negotiation: [LINKEDIN NEWSLETTER URL]
+This is exactly the kind of line item that becomes leverage at renewal. This week's deep dive on Benefit Blind Spots walks how to turn claims findings into negotiating position: [MONDAY DEEP DIVE URL]
 ```
 
-#### Carousel Slide-by-Slide Spec
+#### Dollar-Comparison Image Generation Prompt
 
-Same Whiteboard visual system as W18 and W25: soft off-white (#F8F5ED) background with paper-grain texture, hand-drawn marker feel, Primary Blue marker default, Accent Blue highlights on the commitments each quarter must produce, red marker for slip-risk annotations, Gray marker for margin notes. Small Plex Sans SemiBold typographic elements only on cover and close. Slide numbers "N / 7" Gray marker bottom-right.
+> Photorealistic 1080 x 1350 px (4:5). A desk scene, two prescription items side by side under soft daylight. Left: a high-end compounded cream tube/box with a printed price tag in Plex Mono Medium tabular figures: "$1,200.00". Right: a plain generic tube with a tag: "$47.00". Between them a bold hand-written red marker "=" crossed out, and red text: "SAME ACTIVE INGREDIENT." Top, black marker double-underlined: "$1,200 cream. $47 alternative." Below in red pen: "Same molecule. Your plan paid the first one." Bottom red pen: "PBS sees this on nearly every claims review." Off-white tags (#F5F0E4), Plex Mono for the dollar amounts, red handwritten ballpoint annotations, dark wood surface. No logos, no people, no brand names. Mobile-feed legibility: the two prices dominate the center ~70% and read at ~400px.
 
-**Slide 1 — Cover.** Hand-lettered title Primary Blue marker: "How I'd map a 2027 renewal on a whiteboard." "2027" underlined in Accent Blue. Plex Sans SemiBold subtitle: "Every quarter closes a gate. Miss one and the next phase starts at a discount." "1 / 7."
+#### Post 129 Company Reshare - Tuesday 1:30 PM
 
-**Slide 2 — Q4 2026 · Scope and panel.** Hand-lettered title: "First gate: Q4 2026 · Build the RFP scope and finalist panel." Hand-drawn whiteboard layout: a table with two columns labeled "Panel" (with three incumbent-plus-2 rough rectangles) and "Criteria" (with 5 bullet points hand-drawn). Accent Blue highlight on one criteria row: "Current PBM in panel = real market check." Red margin note: "If incumbent is missing, this is a transition conversation, not a benchmarking one."
-
-**Slide 3 — Q1 2027 · RFP out.** Hand-lettered title: "Second gate: Q1 2027 · RFP issued. Score independently." Whiteboard layout: a left-side flowchart showing "Responses in → Independent scoring → Finalist selection → Reference checks." Accent Blue arrow highlights "Independent scoring." Red margin note: "If you are scoring with the PBM's spreadsheet, you are not scoring."
-
-**Slide 4 — Q2 2027 · Best-and-final.** Hand-lettered title: "Third gate: Q2 2027 · Best-and-final with SPECIFIC language." Whiteboard layout: two columns, "generic asks" (struck through in red marker) vs. "specific redlines" (Accent Blue outlined). Examples in each column with hand-lettered snippets. Red margin note: "Generic asks get generic commitments. Specific clause redlines get specific commitments."
-
-**Slide 5 — Q3 2027 · Execute.** Hand-lettered title: "Fourth gate: Q3 2027 · Contract execution." Whiteboard layout: hand-drawn execution timeline with four milestone flags: "Contract signed / Data transition / Baselines locked / Member comms 60 days pre-launch." Accent Blue highlight on "Baselines locked." Red margin note: "If baselines are not locked, your go-live performance has no comparator. You cannot enforce what you did not baseline."
-
-**Slide 6 — Q4 2027 · Monitor.** Hand-lettered title: "Fifth gate: Q4 2027 · Go-live monitoring." Whiteboard layout: a rough calendar view with "First 90 days audit" circled in Accent Blue. Hand-lettered list of three items to monitor: guarantee tracking, member disruption, claims-file integrity. Red margin note: "Go-live is not the finish line. It is the first audit window opening."
-
-**Slide 7 — Close.** Hand-lettered headline: "Plans that complete each phase *negotiate*." ("negotiate" underlined Accent Blue.) Below in red marker: "Plans that compress phases concede." Small Plex Sans SemiBold line: "The full 2027 renewal playbook is in this week's deep dive. benefitblindspots.substack.com." "7 / 7."
-
-#### Image Generation Prompt
-
-Claude Design project type: **Slide deck from template**. Whiteboard carousel master (template #3). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W18 and W25 Whiteboard carousels — same off-white background with paper grain, same hand-drawn marker aesthetic with Primary Blue default, Accent Blue highlights, red slip-risk marker annotations, Gray margin notes. Plex Sans SemiBold typographic elements only on cover (subtitle) and close (CTA line). Pull slide-by-slide content from spec above.
-
-**Post-Generation Steps:**
-
-1. Generate 7-slide deck
-2. Export PNGs 1080 x 1350
-3. Verify handwriting legibility at thumbnail
-4. Accent Blue highlights land on the specified phrases (the "commitment" or "gate" of each quarter)
-5. Upload as native LinkedIn carousel
-
----
-
-## Post 129 Company Reshare - Tuesday 1:30 PM
-
-**Word Count:** 48 words
+**Word Count:** ~45 words
 
 #### Reshare Copy
 
 ```
-If renewal lands in 2027, the calendar starts in Q4 2026. RFP scope, independent scoring, best-and-final with specific language demands, execution milestones, first-90-days audit.
+$1,200 cream. $47 alternative. Same active ingredient. The expensive one adjudicated because the contract let it and the report never flagged it.
 
-Ginny Crisp walks through the quarterly gates that separate self-funded plans that negotiate from plans that concede.
+Ginny Crisp shows how to pull the claims that become your renewal leverage.
 
-#PBMRenewal #PlanSponsors #EmployeeBenefits
+#PharmacyCosts #PlanSponsors #EmployeeBenefits
 ```
 
 ---
@@ -513,6 +491,8 @@ Some employers never get to negotiate at all. Buried in the termination section 
 
 Twelve contract provisions drive the economics: GER, rebates, specialty pricing, dispensing fees, admin fees, clinical guarantees, audit rights, performance penalties, biosimilar commitments, formulary notification, termination terms, and annual true-up. Most employers negotiate hard on the first two and accept default language on the rest.
 
+Here is one leverage move almost nobody uses. There is a public benchmark for what a generic actually costs a pharmacy: NADAC, the National Average Drug Acquisition Cost. The FTC found that PBM-affiliated pharmacy dispensing revenue in excess of NADAC grew at a 42 percent compound annual rate from 2017 to 2021. That gap compounds, and it sits on your generic spend right now. In our contract reviews at PBS we ask the PBM to show NADAC next to its MAC price on a single high-volume generic claim. The number is public. The PBM has it. The willingness to put both numbers on one line is the tell.
+
 The PBM knows this. Their initial proposal is engineered accordingly: competitive headline numbers, weak structural provisions. The employer celebrates the pricing. The PBM keeps the structural advantages.
 
 A term sheet that covers all twelve provisions changes the dynamic. Your broker should be building it with you. If they have not started, bring the list to them.
@@ -527,34 +507,9 @@ This week's Benefit Blind Spots deep dive on renewal negotiation is the operatio
 
 ## Post 131 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Termination Clause Terms Decoded (Slot A of the evergreen rotation).**
+_The "Negotiation Leverage Points" balance-scale messy infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
-### Negotiation Leverage Points (Messy Infographic) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Messy Infographic
-**Word Count:** ~80 words
-
-#### Post Copy
-
-```
-Where your negotiating power actually lives in a PBM renewal.
-
-Your data. Your benchmarks. Your term sheet. Your termination clause. Your willingness to go to market.
-
-The PBM negotiates from their data advantage. You negotiate from preparation. The employers who match the PBM's preparation level negotiate fundamentally different outcomes.
-
-#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
-```
-
-#### Messy Infographic Concept
-
-**Title:** Where Your Negotiating Power Lives
-**Style:** Hand-drawn balance scale. Left side: "PBM's Position" (their data, their scenarios, their timeline). Right side: "Your Position" (your data, your benchmarks, your term sheet, your exit options). Scale tips based on preparation. Annotations: "Preparation is the equalizer."
-
----
-
-### Thursday Evergreen Rotation (Slot A) - 5 Termination Clause Terms Decoded
+### Thursday Excellence Slot (Slot A) - 5 Termination Clause Terms Decoded
 
 - **Slot:** A
 - **Format:** Messy Infographic
@@ -589,9 +544,12 @@ Save this for your next renewal redline.
 #PBMContracts #PBMRenewal #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how the termination clause sets the leverage for every other provision in the contract, and the four sub-clauses to negotiate (convenience notice, cause triggers, data portability, run-out). Plus the Termination Clause Audit Worksheet you can run on your own contract. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.
@@ -627,16 +585,16 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 ## Post 131 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 48 words
 
 #### Reshare Copy
 
 ```
-Your data. Your benchmarks. Your term sheet. Your termination clause. Your willingness to go to market. That is where a plan sponsor's negotiating power actually lives.
+Five contract terms decide whether you can actually use your termination clause: termination for convenience, termination for cause, runoff period, early termination fee, and data return obligation. The PBM wrote all five definitions.
 
-Ginny Crisp covers the leverage points that close the preparation gap between PBM and plan at renewal.
+Ginny Crisp decodes each one and shows the redline that restores the leverage.
 
-#PBMRenewal #PlanSponsors #EmployeeBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 ```
 
 ---
@@ -928,7 +886,7 @@ Step therapy sounds clinical. Often it's financial. Your member has to fail the 
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+There is a public price for what a generic costs a pharmacy: NADAC. The FTC found the amount PBMs bill above it, through pharmacies they own, grew 42% a year. Ask to see both numbers on one claim.
 ```
 - **2:30 PM · specialty exclusive distribution (Tier A):**
 ```
