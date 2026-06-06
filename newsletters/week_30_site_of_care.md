@@ -974,7 +974,7 @@ There's a vendor whose entire job is to reclassify your member's specialty drug 
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · brown bagging (Tier A):**
 ```
