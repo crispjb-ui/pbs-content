@@ -3,56 +3,69 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Aug 10 | 7:30 AM | Substack | "Clinical Program ROI: Measuring What Your PBM Claims to Deliver" | [ ] |
-| Mon Aug 10 | 7:45 AM | LinkedIn Newsletter | Clinical Program Briefing | [ ] |
-| Mon Aug 10 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
-| Mon Aug 10 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Aug 10 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Aug 10 | 7:00 PM | X (Twitter) | question post [A16] | [ ] |
-| Mon Aug 10 | 8:30 PM | X (Twitter) | aphorism [C5] | [ ] |
-| Tue Aug 11 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
-| Tue Aug 11 | 10:00 AM | LinkedIn Feed | Post 117 - "4 Things Your PBM's Quarterly Report Does Not Show" Ledger Annotated Messy Infographic (different pillar) | [ ] |
-| Tue Aug 11 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Aug 11 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Aug 11 | 7:00 PM | X (Twitter) | question post [A1] | [ ] |
-| Tue Aug 11 | 8:30 PM | X (Twitter) | one question [B5] | [ ] |
-| Wed Aug 12 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
-| Wed Aug 12 | 10:00 AM | LinkedIn Feed | Post 118 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Aug 12 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Aug 12 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Aug 12 | 7:00 PM | X (Twitter) | question post [A2] | [ ] |
-| Wed Aug 12 | 8:30 PM | X (Twitter) | aphorism [C6] | [ ] |
-| Thu Aug 13 | 7:30 AM | Substack | Field Note: "Step Therapy Protocols: Where They Help and Where They Harm" | [ ] |
-| Thu Aug 13 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
-| Thu Aug 13 | 10:00 AM | LinkedIn Feed | Post 119 - 5 Fiduciary Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
-| Thu Aug 13 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Aug 13 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Aug 13 | 7:00 PM | X (Twitter) | question post [A3] | [ ] |
-| Thu Aug 13 | 8:30 PM | X (Twitter) | one question [B6] | [ ] |
-| Fri Aug 14 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
-| Fri Aug 14 | 10:00 AM | LinkedIn Feed | Post 120 - Tease Hook (teases Week 33) | [ ] |
-| Fri Aug 14 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Aug 14 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Aug 14 | 7:00 PM | X (Twitter) | question post [A4] | [ ] |
-| Fri Aug 14 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D1] | [ ] |
-| Sat Aug 15 | 8:00 AM | X (Twitter) | recipe / Mail-order steering (Tier A weekend Cuban-bait) | [ ] |
-| Sat Aug 15 | 10:00 AM | X (Twitter) | spread pricing (Tier A) | [ ] |
-| Sat Aug 15 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Aug 15 | 2:30 PM | X (Twitter) | rebate aggregator (Tier A) | [ ] |
-| Sat Aug 15 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Aug 15 | 7:00 PM | X (Twitter) | question post [A5] | [ ] |
-| Sat Aug 15 | 8:30 PM | X (Twitter) | aphorism [C7] | [ ] |
-| Sun Aug 16 | 8:00 AM | X (Twitter) | recipe / White bagging (Tier A weekend Cuban-bait) | [ ] |
-| Sun Aug 16 | 10:00 AM | X (Twitter) | DIR fees (Tier A) | [ ] |
-| Sun Aug 16 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Aug 16 | 2:30 PM | X (Twitter) | specialty routing (Tier A) | [ ] |
-| Sun Aug 16 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Aug 16 | 7:00 PM | X (Twitter) | question post [A6] | [ ] |
-| Sun Aug 16 | 8:30 PM | X (Twitter) | one question [B7] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (the Thursday slot is the live "5 Fiduciary Terms Decoded" messy infographic; the repurposed One Number Carousel now lives in PART 1 as an In-Article Visual)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Aug 9 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Aug 10 | 7:30 AM | Substack | Deep dive: "Clinical Program ROI: Measuring What Your PBM Claims to Deliver" | PART 1 | [ ] |
+| Mon Aug 10 | 7:45 AM | LI Newsletter | Clinical Program Briefing (Issue #27) | PART 2 | [ ] |
+| Mon Aug 10 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Mon | [ ] |
+| Mon Aug 10 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Aug 10 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Aug 10 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Aug 10 | 7:00 PM | X | question [A16] | PART 4B · Mon | [ ] |
+| Mon Aug 10 | 8:30 PM | X | aphorism [C5] | PART 4B · Mon | [ ] |
+| Tue Aug 11 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Tue | [ ] |
+| Tue Aug 11 | 10:00 AM | LI Feed | Post 117 — "4 Things Your PBM's Quarterly Report Does Not Show" (Ledger Annotated messy infographic) | Post 117 | [ ] |
+| Tue Aug 11 | 10:05 AM | LI Feed | Post 117 first comment | Post 117 | [ ] |
+| Tue Aug 11 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Aug 11 | 1:30 PM | LI Company | Reshare of Post 117 | Post 117 Reshare | [ ] |
+| Tue Aug 11 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Aug 11 | 7:00 PM | X | question [A1] | PART 4B · Tue | [ ] |
+| Tue Aug 11 | 8:30 PM | X | one question [B5] | PART 4B · Tue | [ ] |
+| Wed Aug 12 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Wed | [ ] |
+| Wed Aug 12 | 10:00 AM | LI Feed | Post 118 — Strong POV text (clinical-program savings; carries the week's shocking fact) | Post 118 | [ ] |
+| Wed Aug 12 | 10:05 AM | LI Feed | Post 118 first comment | Post 118 | [ ] |
+| Wed Aug 12 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Aug 12 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Aug 12 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Aug 12 | 7:00 PM | X | question [A2] | PART 4B · Wed | [ ] |
+| Wed Aug 12 | 8:30 PM | X | aphorism [C6] | PART 4B · Wed | [ ] |
+| Thu Aug 13 | 7:30 AM | Substack | Field Note: "Auditing Your Fiduciary Compliance Against the Contract" | PART 1B | [ ] |
+| Thu Aug 13 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Thu | [ ] |
+| Thu Aug 13 | 10:00 AM | LI Feed | Post 119 — "5 Fiduciary Terms Decoded" (Index Cards messy infographic, Slot A) | Post 119 | [ ] |
+| Thu Aug 13 | 10:05 AM | LI Feed | Post 119 first comment | Post 119 | [ ] |
+| Thu Aug 13 | 12:00 PM | X | Thu-visual amplifier [VISUAL: 5 Fiduciary Terms decoder] (after 10 AM) | PART 4B · Thu | [ ] |
+| Thu Aug 13 | 1:30 PM | LI Company | Reshare of Post 119 | Post 119 Reshare | [ ] |
+| Thu Aug 13 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Aug 13 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Aug 13 | 7:00 PM | X | question [A3] | PART 4B · Thu | [ ] |
+| Thu Aug 13 | 8:30 PM | X | one question [B6] | PART 4B · Thu | [ ] |
+| Fri Aug 14 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Fri | [ ] |
+| Fri Aug 14 | 10:00 AM | LI Feed | Post 120 — Tease Hook (teases W33) | Post 120 | [ ] |
+| Fri Aug 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Aug 14 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Aug 14 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 14 | 7:00 PM | X | question [A4] | PART 4B · Fri | [ ] |
+| Fri Aug 14 | 8:30 PM | X | origin-anchored [D1] | PART 4B · Fri | [ ] |
+| Sat Aug 15 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
+| Sat Aug 15 | 8:00 AM | X | recipe / Mail-order steering (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 15 | 10:00 AM | X | spread pricing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Aug 15 | 2:30 PM | X | rebate aggregator (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 15 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Aug 15 | 7:00 PM | X | question [A5] | PART 4B · Sat | [ ] |
+| Sat Aug 15 | 8:30 PM | X | aphorism [C7] | PART 4B · Sat | [ ] |
+| Sun Aug 16 | 8:00 AM | X | recipe / White bagging (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 10:00 AM | X | DIR fees (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 2:30 PM | X | specialty routing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 7:00 PM | X | question [A6] | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 8:30 PM | X | one question [B7] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -159,6 +172,26 @@ Have you audited your PBM's clinical program savings? Leave a comment below.
 *For the full protective contract language on prior authorization and clinical program provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
+
+---
+
+### In-Article Visual: Clinical Program ROI — Reported vs. Verified
+
+_Embedded One Number visual for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the scorecard section above._
+
+**Format:** One Number Carousel (7 slides), Template C. Primary Blue / White alternating slides, Plex Sans SemiBold display, Plex Mono for the numeric anchors, tabular figures. 1080 x 1350 px each.
+
+**Slide-by-slide:**
+
+- **Slide 1 (Blue):** "$4.2M" — "That is what the PBM reported in clinical savings."
+- **Slide 2 (White):** "6" — "Programs. Six different methodologies. Six different assumptions."
+- **Slide 3 (Blue):** "PA" — "Counts full cost of denied drugs. Net savings = cost difference only."
+- **Slide 4 (White):** "DUR" — "Counts every alert. Most are overridden as clinically irrelevant."
+- **Slide 5 (Blue):** "12/20" — "Programs scoring below this threshold need independent audit."
+- **Slide 6 (White):** "1" — "One request: the methodology and a sample calculation per program."
+- **Slide 7 (Blue):** "Verified ≠ Reported" — "Score your PBM's programs before you trust the numbers." team@rxbs.org
+
+*Illustrative example for educational purposes. Actual amounts vary by plan.*
 
 ---
 
@@ -488,6 +521,8 @@ I am not saying these programs have no value. Some are genuinely important. PA p
 
 But the gap between reported savings and verified savings is consistent across almost every audit we conduct. The headline number is constructed by the PBM using assumptions the PBM chose, applied to data the PBM controls.
 
+And some "programs" are not even savings. They are extraction wearing a clinical label. In Johnson & Johnson's lawsuit against the copay-maximizer vendor SaveOnSP, the program reclassified a member's specialty drug as a "non-essential health benefit" to bypass the ACA out-of-pocket cap, then drained the manufacturer's full copay assistance: Stelara assistance ran about $1,200 per script for non-enrolled patients and about $4,300 per script for enrolled ones. That is a vendor program that can be bolted onto a plan right now, reported as member-cost relief, while it routes manufacturer dollars away from the member and the plan.
+
 One request changes the conversation: ask your PBM for the specific savings methodology and a sample calculation for each program. If the PBM cannot produce it, the number is a marketing metric, not a financial metric.
 ```
 
@@ -501,27 +536,7 @@ This week's Benefit Blind Spots deep dive on clinical program ROI is the operati
 
 ## Post 119 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Fiduciary Terms Decoded (Slot A of the evergreen rotation).**
-
-### Clinical Program Evaluation (One Number Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** One Number Carousel (7 slides) - Template C
-**Pillar:** Clinical Pharmacy Perspectives
-
-#### One Number Carousel Slides
-
-**Slide 1 (Blue):** "$4.2M" — "That is what the PBM reported in clinical savings."
-**Slide 2 (White):** "6" — "Programs. Six different methodologies. Six different assumptions."
-**Slide 3 (Blue):** "PA" — "Counts full cost of denied drugs. Net savings = cost difference only."
-**Slide 4 (White):** "DUR" — "Counts every alert. Most are overridden as clinically irrelevant."
-**Slide 5 (Blue):** "12/20" — "Programs scoring below this threshold need independent audit."
-**Slide 6 (White):** "1" — "One request: the methodology and a sample calculation per program."
-**Slide 7 (Blue):** "Verified ≠ Reported" — "Score your PBM's programs before you trust the numbers." team@rxbs.org
-
-*Illustrative example for educational purposes. Actual amounts vary by plan.*
-
----
+_The "Clinical Program Evaluation" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
 ### Thursday Evergreen Rotation (Slot A) - 5 Fiduciary Terms Decoded
 
@@ -558,9 +573,12 @@ Save this for your next benefits committee meeting.
 #PBMContracts #FiduciaryDuty #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes that turn the decoded vocabulary into a documented fiduciary file (build the 12-month decision log, apply the prudent-process test, catalog the conflict-of-interest landscape). Plus a paste-ready Fiduciary Compliance Audit Worksheet you can run on your own plan. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Messy Infographic Concept
 
 **Format:** Single LinkedIn feed image, photorealistic hand-written note style.
@@ -899,7 +917,7 @@ DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of 
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · specialty routing (Tier A):**
 ```

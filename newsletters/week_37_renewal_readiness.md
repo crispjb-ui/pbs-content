@@ -3,56 +3,62 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Sep 14 | 7:30 AM | Substack | "Renewal Readiness: The Assessment That Determines Your Negotiating Position" | [ ] |
-| Mon Sep 14 | 7:45 AM | LinkedIn Newsletter | Renewal Readiness Briefing | [ ] |
-| Mon Sep 14 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
-| Mon Sep 14 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Sep 14 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Sep 14 | 7:00 PM | X (Twitter) | question post [A3] | [ ] |
-| Mon Sep 14 | 8:30 PM | X (Twitter) | aphorism [C10] | [ ] |
-| Tue Sep 15 | 8:00 AM | X (Twitter) | recipe / Drug reclassification (Tier B) | [ ] |
-| Tue Sep 15 | 10:00 AM | LinkedIn Feed | Post 137 - "What 'Industry Standard' Actually Means in PBM Proposals" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
-| Tue Sep 15 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Sep 15 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Sep 15 | 7:00 PM | X (Twitter) | question post [A4] | [ ] |
-| Tue Sep 15 | 8:30 PM | X (Twitter) | one question [B10] | [ ] |
-| Wed Sep 16 | 8:00 AM | X (Twitter) | recipe / Pass-through definition trick (Tier B) | [ ] |
-| Wed Sep 16 | 10:00 AM | LinkedIn Feed | Post 138 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Sep 16 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Sep 16 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Sep 16 | 7:00 PM | X (Twitter) | question post [A5] | [ ] |
-| Wed Sep 16 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
-| Thu Sep 17 | 7:30 AM | Substack | Field Note: "The First Meeting with Your PBM at Renewal" | [ ] |
-| Thu Sep 17 | 8:00 AM | X (Twitter) | recipe / Auto-renewal / lock-in (Tier B) | [ ] |
-| Thu Sep 17 | 10:00 AM | LinkedIn Feed | Post 139 - 5 Questions About PBM Performance Guarantees (Carousel, Slot C evergreen rotation) | [ ] |
-| Thu Sep 17 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Sep 17 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Sep 17 | 7:00 PM | X (Twitter) | question post [A6] | [ ] |
-| Thu Sep 17 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
-| Fri Sep 18 | 8:00 AM | X (Twitter) | recipe / Audit rights limitation (Tier B) | [ ] |
-| Fri Sep 18 | 10:00 AM | LinkedIn Feed | Post 140 - "What Q4 Will Bring" Tease Hook | [ ] |
-| Fri Sep 18 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Sep 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Sep 18 | 7:00 PM | X (Twitter) | question post [A7] | [ ] |
-| Fri Sep 18 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D6] | [ ] |
-| Sat Sep 19 | 8:00 AM | X (Twitter) | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
-| Sat Sep 19 | 10:00 AM | X (Twitter) | DIR fees (Tier A) | [ ] |
-| Sat Sep 19 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Sep 19 | 2:30 PM | X (Twitter) | white bagging (Tier A) | [ ] |
-| Sat Sep 19 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Sep 19 | 7:00 PM | X (Twitter) | question post [A8] | [ ] |
-| Sat Sep 19 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
-| Sun Sep 20 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
-| Sun Sep 20 | 10:00 AM | X (Twitter) | specialty routing (Tier A) | [ ] |
-| Sun Sep 20 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Sep 20 | 2:30 PM | X (Twitter) | point-of-sale clawback (Tier A) | [ ] |
-| Sun Sep 20 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Sep 20 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
-| Sun Sep 20 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday repurposed-into-deep-dive One Number carousel moved to PART 1; live Thursday Sticky Note Dashboard messy infographic is the schedulable post)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Mon Sep 14 | 7:30 AM | Substack | Deep dive: "Renewal Readiness Scorecard" | PART 1 | [ ] |
+| Mon Sep 14 | 7:45 AM | LI Newsletter | Renewal Readiness Briefing (Issue #32) | PART 2 | [ ] |
+| Mon Sep 14 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Mon | [ ] |
+| Mon Sep 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Sep 14 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Sep 14 | 7:00 PM | X | question [A3] | PART 4B · Mon | [ ] |
+| Mon Sep 14 | 8:30 PM | X | aphorism [C10] | PART 4B · Mon | [ ] |
+| Tue Sep 15 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Tue | [ ] |
+| Tue Sep 15 | 10:00 AM | LI Feed | Post 137 — "What 'Industry Standard' Actually Means in PBM Proposals" (Marked-Up Contract Page decoder) | Post 137 | [ ] |
+| Tue Sep 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Sep 15 | 1:30 PM | LI Company | Reshare of Post 137 | Post 137 Reshare | [ ] |
+| Tue Sep 15 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Sep 15 | 7:00 PM | X | question [A4] | PART 4B · Tue | [ ] |
+| Tue Sep 15 | 8:30 PM | X | one question [B10] | PART 4B · Tue | [ ] |
+| Wed Sep 16 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Wed | [ ] |
+| Wed Sep 16 | 10:00 AM | LI Feed | Post 138 — Strong POV text (13-week arc / preparation is the strategy) | Post 138 | [ ] |
+| Wed Sep 16 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Sep 16 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Sep 16 | 7:00 PM | X | question [A5] | PART 4B · Wed | [ ] |
+| Wed Sep 16 | 8:30 PM | X | aphorism [C1] | PART 4B · Wed | [ ] |
+| Thu Sep 17 | 7:30 AM | Substack | Field Note: "The First Meeting with Your PBM at Renewal" | PART 1B | [ ] |
+| Thu Sep 17 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Thu | [ ] |
+| Thu Sep 17 | 10:00 AM | LI Feed | Post 139 — "5 First-Meeting Items to Bring" (Sticky Note Dashboard messy infographic) | Post 139 | [ ] |
+| Thu Sep 17 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
+| Thu Sep 17 | 1:30 PM | LI Company | Reshare of Post 139 | Post 139 Reshare | [ ] |
+| Thu Sep 17 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Sep 17 | 7:00 PM | X | question [A6] | PART 4B · Thu | [ ] |
+| Thu Sep 17 | 8:30 PM | X | one question [B1] | PART 4B · Thu | [ ] |
+| Fri Sep 18 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Fri | [ ] |
+| Fri Sep 18 | 10:00 AM | LI Feed | Post 140 — "What Q4 Will Bring" Tease Hook | Post 140 | [ ] |
+| Fri Sep 18 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Sep 18 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Sep 18 | 7:00 PM | X | question [A7] | PART 4B · Fri | [ ] |
+| Fri Sep 18 | 8:30 PM | X | origin-anchored [D6] | PART 4B · Fri | [ ] |
+| Sat Sep 19 | 8:00 AM | X | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 10:00 AM | X | DIR fees (Tier A) | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 2:30 PM | X | white bagging (Tier A) | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 7:00 PM | X | question [A8] | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 8:30 PM | X | aphorism [C2] | PART 4B · Sat | [ ] |
+| Sun Sep 20 | 8:00 AM | X | recipe / Spread pricing (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 10:00 AM | X | specialty routing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 2:30 PM | X | point-of-sale clawback (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 7:00 PM | X | question [A9] | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 8:30 PM | X | one question [B2] | PART 4B · Sun | [ ] |
+
+_Substack Notes (3/day) schedule straight down PART 4 in day order. Launch teasers: Mon (deep dive), Wed (roundup), Thu (field note). This week also carries the September Monthly Q&A (Thu Sep 24) and the Q3 "What We're Seeing" report (Mon Sep 28) in PART 2B; both fall after this week's window._
 
 ---
 
@@ -230,6 +236,24 @@ We have been building toward this for 13 weeks. The preparation is the strategy.
 *For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
+
+---
+
+### In-Article Visual: Renewal Readiness Scorecard (One Number)
+
+_Embedded One Number carousel for this deep dive, moved here from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive lives here in PART 1, it is not discarded). Render and place inline alongside the scorecard and "Interpreting your score" sections above._
+
+**Format:** One Number carousel, 7 slides, 1080 x 1350 px each. Alternating Primary Blue (#015880) and white slides, one large Plex Mono tabular figure per slide.
+
+**Slide 1 (Blue):** "75" — "Points. 15 factors. Your renewal readiness score."
+**Slide 2 (White):** "5" — "Categories: data, contract, market, clinical, negotiation."
+**Slide 3 (Blue):** "Below 30" — "Not ready. Focus on the lowest-scoring category first."
+**Slide 4 (White):** "30-50" — "Partially prepared. Address the 1s and 2s before the first meeting."
+**Slide 5 (Blue):** "Above 50" — "Strong position. Proceed with confidence."
+**Slide 6 (White):** "1 Day" — "Three steps. Five metrics. Ten provisions. Three conversations. One day of preparation changes the outcome."
+**Slide 7 (Blue):** "Preparation is the strategy." team@rxbs.org | Benefit Blind Spots
+
+**Color Palette:** Primary Blue (#015880), white (#FFFFFF), Accent Blue (#A7E0FA) accents, Plex Mono Medium tabular figures for every number.
 
 ---
 
@@ -733,24 +757,7 @@ This week's Benefit Blind Spots deep dive on renewal readiness is the operationa
 
 ## Post 139 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Questions About PBM Performance Guarantees (Slot C of the evergreen rotation).**
-
-### Renewal Readiness Scorecard (One Number Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** One Number Carousel (7 slides) - Template C
-
-#### Slides
-
-**Slide 1 (Blue):** "75" — "Points. 15 factors. Your renewal readiness score."
-**Slide 2 (White):** "5" — "Categories: data, contract, market, clinical, negotiation."
-**Slide 3 (Blue):** "Below 30" — "Not ready. Focus on the lowest-scoring category first."
-**Slide 4 (White):** "30-50" — "Partially prepared. Address the 1s and 2s before the first meeting."
-**Slide 5 (Blue):** "Above 50" — "Strong position. Proceed with confidence."
-**Slide 6 (White):** "1 Day" — "Three steps. Five metrics. Ten provisions. Three conversations. One day of preparation changes the outcome."
-**Slide 7 (Blue):** "Preparation is the strategy." team@rxbs.org | Benefit Blind Spots
-
----
+_The "Renewal Readiness Scorecard" One Number carousel was repurposed into Monday's deep dive (the 15-factor scorecard is the article body) and now lives in PART 1 as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 First-Meeting Items to Bring — Sticky Note Dashboard Messy Infographic
 
@@ -767,6 +774,8 @@ This week's Benefit Blind Spots deep dive on renewal readiness is the operationa
 
 ```
 Five items to bring to your first PBM renewal meeting. Most plan sponsors walk in with one of them.
+
+Start with the leverage reality you are negotiating inside of. The FTC found three PBMs now process about 80% of all US prescriptions, up from 52% in 2004, and the same three own the pharmacies filling roughly 70% of every specialty dollar. You are not negotiating with a vendor in a competitive market. You are negotiating with one of three companies that sit on both sides of the counter. Renewal readiness is how you offset that.
 
 I review hundreds of PBM contracts a year at PBS. The plan sponsors who walk into the first renewal meeting with all five items negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.
 
@@ -789,9 +798,12 @@ Save this for the next renewal cycle.
 #PBMContracts #PBMRenewal #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: what to bring and what to ask in the first renewal meeting, including the four questions that force PBM specificity and the three things never to do in that first session. Plus the Pre-Meeting Renewal Checklist you can run before you walk in. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Sticky Note Dashboard Image Generation Prompt
 
 > A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight. Six yellow sticky notes pinned with brass pushpins: one larger title note at top, then five content notes stacked below in a 2-3-or-so layout. Each note slightly angled, subtle curl. Notes filled with clean handwriting in black Sharpie. No logos, no brand marks, no people.
@@ -830,11 +842,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Reshare Copy
 
 ```
-Five items change the first renewal meeting with your PBM: independent claims analysis, benchmarking data, contract-language redline, performance shortfall summary, and walk-away criteria.
+Five items change the first renewal meeting with your PBM: a mid-year performance audit, a definition-variance document, a disclosure gap list, a network configuration audit, and your internal priority document. Most plan sponsors walk in with one of them.
 
 Ginny Crisp walks through what each item does at the table and how to assemble each one.
 
-#PBMRenewal #PlanSponsors #PharmacyBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 ```
 
 ---
@@ -1112,7 +1124,7 @@ It is mid-year. Who has a renewal model built on your H1 claims right now? Your 
   First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
 - **8:30 PM · aphorism [C2]:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+Renewal isn't where you win the contract. It's where you collect on the preparation you either did or skipped six months earlier.
 ```
 
 **Sun Sep 20**
@@ -1128,7 +1140,7 @@ Specialty routing: pull a quarter of your specialty claims and sort by filling p
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+3 PBMs process about 80% of US prescriptions, up from 52% in 2004. The same 3 own the pharmacies filling ~70% of specialty spend. That is the leverage reality you negotiate inside of.
 ```
 - **2:30 PM · point-of-sale clawback (Tier A):**
 ```

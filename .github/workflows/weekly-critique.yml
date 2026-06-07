@@ -1,0 +1,54 @@
+name: Weekly Pre-Ship Critique
+
+# Runs /critique against the week about to publish and commits a dated report,
+# so quality flags surface before scheduling. Advisory only — it does not change
+# content. Mirrors the roundup/pipeline workflows; uses the same ANTHROPIC_API_KEY.
+
+on:
+  schedule:
+    - cron: '0 14 * * 0'   # Sundays ~9-10 AM ET (approximate; not time-critical)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  critique:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - id: vars
+        run: echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+      - name: Run /critique on the next week to ship
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Glob,Grep,Bash"
+          prompt: |
+            Read CLAUDE.md first. Then run the /critique slash command
+            (.claude/commands/critique.md) against the newsletter week that is
+            next to publish.
+
+            Determine that week: anchor W25 Monday = 2026-06-22, so
+            current_week = 25 + floor((today America/New_York - 2026-06-22)/7).
+            Critique newsletters/week_<current_week>_*.md (if today is already past
+            that week's Monday, use current_week+1).
+
+            Write the full critique report to
+            critique_reports/critique_${{ steps.vars.outputs.date_iso }}.md
+            (create the folder if needed). Do NOT edit any week file — critique is
+            advisory. Do not commit; the next step commits the report.
+      - name: Commit critique report
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git add critique_reports/ 2>/dev/null || true
+          if git diff --staged --quiet; then echo "No critique report produced."; exit 0; fi
+          git commit -m "Weekly critique report: ${{ steps.vars.outputs.date_iso }}"
+          git push origin HEAD:main

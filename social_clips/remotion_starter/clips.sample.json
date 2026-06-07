@@ -1,0 +1,40 @@
+{
+  "show": "The Derm Docs",
+  "episodeUrl": "https://www.youtube.com/watch?v=EXAMPLE",
+  "date": "2026-06-15",
+  "sourceVideo": "source.mp4",
+  "fps": 30,
+  "clips": [
+    {
+      "id": "clip1",
+      "slug": "offshore-rebate",
+      "inSec": 412.0,
+      "outSec": 451.5,
+      "aspect": "9x16",
+      "platform": "reels",
+      "hookTitle": "Your rebates run through Switzerland",
+      "showName": "The Derm Docs",
+      "cta": { "text": "Free PBM contract toolkit", "url": "rxbs.org/toolkit/pbm-compensation" },
+      "captions": [
+        { "startSec": 412.0, "endSec": 415.4, "text": "Your PBM says it passes through 100% of rebates." },
+        { "startSec": 415.4, "endSec": 419.1, "text": "The aggregator it owns is registered in Switzerland." },
+        { "startSec": 419.1, "endSec": 422.0, "text": "Pass-through stops at the water's edge." }
+      ]
+    },
+    {
+      "id": "clip2",
+      "slug": "specialty-markup",
+      "inSec": 980.2,
+      "outSec": 1022.0,
+      "aspect": "4x5",
+      "platform": "linkedin",
+      "hookTitle": "1 in 5 generics, marked up 1,000%",
+      "showName": "The Derm Docs",
+      "cta": { "text": "The specialty audit worksheet", "url": "rxbs.org/toolkit/specialty-routing" },
+      "captions": [
+        { "startSec": 980.2, "endSec": 984.0, "text": "The FTC studied the generics PBMs mark up most." },
+        { "startSec": 984.0, "endSec": 988.5, "text": "One in five: over 1,000 percent." }
+      ]
+    }
+  ]
+}

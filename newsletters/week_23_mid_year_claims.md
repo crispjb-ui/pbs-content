@@ -1138,7 +1138,7 @@ Decoded all five this morning. What to do once you can read them, the first audi
 ```
 - **5:00 PM · punchy:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
 ```
 - **7:00 PM · question post [A3]:**
 ```
@@ -1194,7 +1194,7 @@ Rebate aggregators: a company your PBM owns that skims every manufacturer rebate
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · punchy:**
 ```
-PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
 ```
 - **7:00 PM · question post [A2]:**
 ```
