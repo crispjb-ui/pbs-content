@@ -16,6 +16,7 @@ Plan committed at `email_gated_toolkit/role_funnel_plan.md`. Decisions locked: b
 ## 🟢 Brand-awareness pushes (specs ready, activate when bandwidth allows)
 - **Podcast outreach sprint** — `podcast_outreach_sprint.md`. Activate: 2-3 pitches/week using the "as seen on Potter + Derm Docs" credential, off the 49-show list in `podcast_pitching_guide.md`; every appearance CTAs to a toolkit (feeds the funnel). Highest-trust reach lever; ready to start.
 - **Proprietary data report** — `pbm_contract_data_report_spec.md`. The flagship "what we see across hundreds of contracts" report (qualifiers, never fabricated %). Needs the lightweight review-tally to feed real numbers; then quarterly + annual flagship, gated + PR-pitched.
+- **Podcast → social clips** — `/clip-podcast` (YouTube link/transcript → 3-5 clip plan + per-platform copy + funnel CTA) + `social_clips/remotion_pbs_caption_template_spec.md` (build the branded caption template once in the Remotion project). Works off the public YouTube version — no host raw file needed. The repurposing engine for the podcast sprint.
 
 ## ⚙️ Automation cadence (scheduled workflows live)
 - **`/critique` → weekly** (Sun) via `.github/workflows/weekly-critique.yml`: auto-critiques the next week to ship, commits a report to `critique_reports/`.
