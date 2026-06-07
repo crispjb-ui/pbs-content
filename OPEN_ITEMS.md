@@ -13,6 +13,16 @@ Plan committed at `email_gated_toolkit/role_funnel_plan.md`. Decisions locked: b
 **Decision:** pipeline tracker = **Google Sheets** (locked, no Airtable).
 **Spec is written and ready: `email_gated_toolkit/closing_layer_spec.md`** (copy-into-Zapier, ~½ day). **Build target: Monday.** Monday order: (1) create + seed the Google Sheet, (2) add `ceo` role + `size` field to the Wix form, (3) add the score step + Sheets row to the existing Zap, (4) build the 3-step alert Zap, (5) run the 4 tests. Role-branched email copy (in `role_funnel_plan.md`) is Phase 2, after the alert/tracking layer is live.
 
+## 🟢 Brand-awareness pushes (specs ready, activate when bandwidth allows)
+- **Podcast outreach sprint** — `podcast_outreach_sprint.md`. Activate: 2-3 pitches/week using the "as seen on Potter + Derm Docs" credential, off the 49-show list in `podcast_pitching_guide.md`; every appearance CTAs to a toolkit (feeds the funnel). Highest-trust reach lever; ready to start.
+- **Proprietary data report** — `pbm_contract_data_report_spec.md`. The flagship "what we see across hundreds of contracts" report (qualifiers, never fabricated %). Needs the lightweight review-tally to feed real numbers; then quarterly + annual flagship, gated + PR-pitched.
+
+## ⚙️ Automation cadence (scheduled workflows live)
+- **`/critique` → weekly** (Sun) via `.github/workflows/weekly-critique.yml`: auto-critiques the next week to ship, commits a report to `critique_reports/`.
+- **`/system-audit` → monthly** (1st) via `.github/workflows/monthly-system-audit.yml`: anti-rot + fact-bank refresh, commits safe fixes + report to `audit_reports/`.
+- **`/log-metrics` → manual weekly** (needs Ginny to paste the week's numbers; no auto-run possible). The monthly audit flags if the tracker goes stale.
+- Already scheduled: weekly roundup, weekly build-pipeline.
+
 ## 🔴 Wendell Potter cascade topic conversions (ON HOLD)
 Cascade-week topic alignment (`wendell_potter_cascade_alignment.md`) is gated on two inputs from Ginny: **(1) confirmed WP publish day**, **(2) the Opening piece pull-quote/thesis line**. When both land: re-anchor the schedule and wire the cascade reference-back + same-day cross-promo into the week files.
 
