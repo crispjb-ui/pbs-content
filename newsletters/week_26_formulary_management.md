@@ -3,65 +3,66 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Sun Jun 28 | - | Prep | Final review of all content | [ ] |
-| Mon Jun 29 | 7:30 AM | Substack | "Who Really Controls Your Drug List" | [ ] |
-| Mon Jun 29 | 7:45 AM | LinkedIn Newsletter | Formulary Management Briefing | [ ] |
-| Mon Jun 29 | 8:00 AM | X (Twitter) | named-adversary / channel-pricing (proven W21 template, "preferred" framing) | [ ] |
-| Mon Jun 29 | 12:00 PM | X (Twitter) | decoder (formulary tiering) | [ ] |
-| Mon Jun 29 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Jun 29 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Mon Jun 29 | 7:00 PM | X (Twitter) | question post [A6] | [ ] |
-| Mon Jun 29 | 8:30 PM | X (Twitter) | aphorism [C7] | [ ] |
-| Tue Jun 30 | 8:00 AM | X (Twitter) | dollar comparison (copay vs cash) | [ ] |
-| Tue Jun 30 | 10:00 AM | LinkedIn Feed | Post 93 - "The Formulary Decision You Never Made" Marked-Up Contract Page Decoder Messy Infographic (different pillar) | [ ] |
-| Tue Jun 30 | 10:05 AM | LinkedIn Feed | Post 93 - First Comment | [ ] |
-| Tue Jun 30 | 12:00 PM | X (Twitter) | structural / news-adjacent (hold for a reactive bump) | [ ] |
-| Tue Jun 30 | 1:30 PM | LinkedIn Company | Company Reshare of Post 93 | [ ] |
-| Tue Jun 30 | 5:00 PM | X (Twitter) | Tue decoder driver (Marked-Up Contract Page — SCHEDULE AFTER the Tue LinkedIn post publishes) | [ ] |
-| Tue Jun 30 | 7:00 PM | X (Twitter) | question post [A7] | [ ] |
-| Tue Jun 30 | 8:30 PM | X (Twitter) | one question [B7] | [ ] |
-| Wed Jul 1 | 8:00 AM | X (Twitter) | named-adversary / rebate retention (general — protects Thursday's specific term-set) | [ ] |
-| Wed Jul 1 | 10:00 AM | LinkedIn Feed | Post 94 - "Your formulary was built for your PBM's rebate strategy." Strong POV (TEXT) / VIDEO TEST #1 | [ ] |
-| Wed Jul 1 | 12:00 PM | X (Twitter) | decoder (rebate vs discount) | [ ] |
-| Wed Jul 1 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Wed Jul 1 | 5:00 PM | X (Twitter) | stat-shock / structural | [ ] |
-| Wed Jul 1 | 7:00 PM | X (Twitter) | question post [A8] | [ ] |
-| Wed Jul 1 | 8:30 PM | X (Twitter) | aphorism [C8] | [ ] |
-| Thu Jul 2 | 7:30 AM | Substack | Field Note: "Three Formulary Questions Your PBM Should Answer" | [ ] |
-| Thu Jul 2 | 8:00 AM | X (Twitter) | named-adversary / formulary swap (protects the Thursday reveal) | [ ] |
-| Thu Jul 2 | 10:00 AM | LinkedIn Feed | Post 95 - 5 Rebate Retention Terms Decoded (Messy Infographic, Slot A evergreen rotation) | [ ] |
-| Thu Jul 2 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: 5 Rebate Retention Terms Decoded messy infographic]` | [ ] |
-| Thu Jul 2 | 1:30 PM | LinkedIn Company | Company Reshare of Post 95 | [ ] |
-| Thu Jul 2 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Jul 2 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
-| Thu Jul 2 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
-| Thu Jul 2 | 8:30 PM | X (Twitter) | one question [B8] | [ ] |
-| Fri Jul 3 | 8:00 AM | X (Twitter) | named-adversary / specialty concentration | [ ] |
-| Fri Jul 3 | 10:00 AM | LinkedIn Feed | Post 96 - "The question that reveals everything about your PBM" Tease Hook (TEXT) | [ ] |
-| Fri Jul 3 | 12:00 PM | X (Twitter) | decoder (specialty definition) | [ ] |
-| Fri Jul 3 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
-| Fri Jul 3 | 5:00 PM | X (Twitter) | punchy / forward (light pre-holiday; teases W27) | [ ] |
-| Fri Jul 3 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
-| Fri Jul 3 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D3] | [ ] |
-| Sat Jul 4 | - | Substack Notes | Note #5 - Light holiday engagement | [ ] |
-| Sat Jul 4 | 8:00 AM | X (Twitter) | profession-identity (guardrail-safe, not adversarial) | [ ] |
-| Sat Jul 4 | 10:00 AM | X (Twitter) | copay maximizer vendor (SaveOnSP-style) (Tier A) | [ ] |
-| Sat Jul 4 | 12:00 PM | X (Twitter) | decoder (light, holiday-weekend pace) | [ ] |
-| Sat Jul 4 | 2:30 PM | X (Twitter) | brown bagging (Tier A) | [ ] |
-| Sat Jul 4 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Jul 4 | 7:00 PM | X (Twitter) | question post [A11] | [ ] |
-| Sat Jul 4 | 8:30 PM | X (Twitter) | aphorism [C9] | [ ] |
-| Sun Jul 5 | 8:00 AM | X (Twitter) | recipe / rebate aggregator (Tier A weekend Cuban-bait) | [ ] |
-| Sun Jul 5 | 10:00 AM | X (Twitter) | step therapy (fail-first) (Tier A) | [ ] |
-| Sun Jul 5 | 12:00 PM | X (Twitter) | decoder + GLP-1 amplifier | [ ] |
-| Sun Jul 5 | 2:30 PM | X (Twitter) | specialty exclusive distribution (Tier A) | [ ] |
-| Sun Jul 5 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Jul 5 | 7:00 PM | X (Twitter) | question post [A12] | [ ] |
-| Sun Jul 5 | 8:30 PM | X (Twitter) | one question [B9] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (timeline had drifted: the Tue post was a displaced formulary draft and the Thu/Field Note that actually shipped are Step Therapy Override, not Rebate Retention / Three Formulary Questions)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Jun 28 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Jun 29 | 7:30 AM | Substack | Deep dive: "Who Really Controls Your Drug List" | PART 1 | [ ] |
+| Mon Jun 29 | 7:45 AM | LI Newsletter | Formulary Management Briefing (Issue #21) | PART 2 | [ ] |
+| Mon Jun 29 | 8:00 AM | X | named-adversary / channel-pricing ("preferred" framing) | PART 4B · Mon | [ ] |
+| Mon Jun 29 | 12:00 PM | X | decoder (formulary tiering) | PART 4B · Mon | [ ] |
+| Mon Jun 29 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Jun 29 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Jun 29 | 7:00 PM | X | question [A6] | PART 4B · Mon | [ ] |
+| Mon Jun 29 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
+| Tue Jun 30 | 8:00 AM | X | dollar comparison (copay vs cash) | PART 4B · Tue | [ ] |
+| Tue Jun 30 | 10:00 AM | LI Feed | Post 93 — "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (Marked-Up Contract Page, Transparency) | Post 93 | [ ] |
+| Tue Jun 30 | 12:00 PM | X | structural / news-adjacent (hold) | PART 4B · Tue | [ ] |
+| Tue Jun 30 | 1:30 PM | LI Company | Reshare of Post 93 | Post 93 Reshare | [ ] |
+| Tue Jun 30 | 5:00 PM | X | Tue decoder driver (after the Tue LinkedIn post publishes) | PART 4B · Tue | [ ] |
+| Tue Jun 30 | 7:00 PM | X | question [A7] | PART 4B · Tue | [ ] |
+| Tue Jun 30 | 8:30 PM | X | one question [B7] | PART 4B · Tue | [ ] |
+| Wed Jul 1 | 8:00 AM | X | named-adversary / rebate retention (general; protects the Thu term-set) | PART 4B · Wed | [ ] |
+| Wed Jul 1 | 10:00 AM | LI Feed | Post 94 — "Your formulary was built for your PBM's rebate strategy" (POV text / Video Test #1) | Post 94 | [ ] |
+| Wed Jul 1 | 12:00 PM | X | decoder (rebate vs discount) | PART 4B · Wed | [ ] |
+| Wed Jul 1 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Jul 1 | 5:00 PM | X | stat-shock / structural | PART 4B · Wed | [ ] |
+| Wed Jul 1 | 7:00 PM | X | question [A8] | PART 4B · Wed | [ ] |
+| Wed Jul 1 | 8:30 PM | X | aphorism [C8] | PART 4B · Wed | [ ] |
+| Thu Jul 2 | 7:30 AM | Substack | Field Note: "Auditing Your Step Therapy Override Workflow" | PART 1B | [ ] |
+| Thu Jul 2 | 8:00 AM | X | named-adversary / formulary swap (protects the Thu reveal) | PART 4B · Thu | [ ] |
+| Thu Jul 2 | 10:00 AM | LI Feed | Post 95 — "5 Step Therapy Override Terms Decoded" (Sticky Note Dashboard messy infographic) | Post 95 | [ ] |
+| Thu Jul 2 | 12:00 PM | X | Thu-visual amplifier (after 8:30/10:00 publish) `[VISUAL: Step Therapy Override decoder]` | PART 4B · Thu | [ ] |
+| Thu Jul 2 | 1:30 PM | LI Company | Reshare of Post 95 | Post 95 Reshare | [ ] |
+| Thu Jul 2 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Jul 2 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Jul 2 | 7:00 PM | X | question [A9] | PART 4B · Thu | [ ] |
+| Thu Jul 2 | 8:30 PM | X | one question [B8] | PART 4B · Thu | [ ] |
+| Fri Jul 3 | 8:00 AM | X | named-adversary / specialty concentration | PART 4B · Fri | [ ] |
+| Fri Jul 3 | 10:00 AM | LI Feed | Post 96 — "The question that reveals everything about your PBM" tease (teases W27) | Post 96 | [ ] |
+| Fri Jul 3 | 12:00 PM | X | decoder (specialty definition) | PART 4B · Fri | [ ] |
+| Fri Jul 3 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Jul 3 | 5:00 PM | X | punchy / forward (light pre-holiday; teases W27) | PART 4B · Fri | [ ] |
+| Fri Jul 3 | 7:00 PM | X | question [A10] | PART 4B · Fri | [ ] |
+| Fri Jul 3 | 8:30 PM | X | origin-anchored [D3] | PART 4B · Fri | [ ] |
+| Sat Jul 4 | - | Notes | Note #5 light holiday engagement | PART 4 · Sat | [ ] |
+| Sat Jul 4 | 8:00 AM | X | profession-identity (guardrail-safe, holiday) | PART 4B · Sat | [ ] |
+| Sat Jul 4 | 10:00 AM | X | copay maximizer vendor (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 4 | 12:00 PM | X | decoder (light, holiday pace) | PART 4B · Sat | [ ] |
+| Sat Jul 4 | 2:30 PM | X | brown bagging (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 4 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Jul 4 | 7:00 PM | X | question [A11] | PART 4B · Sat | [ ] |
+| Sat Jul 4 | 8:30 PM | X | aphorism [C9] | PART 4B · Sat | [ ] |
+| Sun Jul 5 | 8:00 AM | X | recipe / rebate aggregator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 5 | 10:00 AM | X | step therapy (fail-first) (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 5 | 12:00 PM | X | decoder + GLP-1 amplifier | PART 4B · Sun | [ ] |
+| Sun Jul 5 | 2:30 PM | X | specialty exclusive distribution (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 5 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Jul 5 | 7:00 PM | X | question [A12] | PART 4B · Sun | [ ] |
+| Sun Jul 5 | 8:30 PM | X | one question [B9] | PART 4B · Sun | [ ] |
 
 > **NOTE:** July 4 week. Lower LinkedIn engagement expected. Testing 10:00 AM post time (research-backed optimal vs. our 8:30 AM baseline). Strong newsletter week since email is unaffected by holiday.
 
@@ -179,6 +180,73 @@ Have you ever asked your PBM how your formulary differs from their standard? If 
 *Questions on formulary evaluation? Reach out at team@rxbs.org.*
 
 *Subscribe to Benefit Blind Spots for the weekly deep dive and Thursday field notes.*
+
+---
+
+### In-Article Visual: Formulary Evaluation Framework (Contract Markup Carousel)
+
+_Embedded contract-markup visual for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the seven-question formulary decision audit section above._
+
+#### Contract Markup Carousel Concept
+
+**Design:** White background with faint gray horizontal rules (legal document style). Monospace body text (Courier Prime). Handwritten annotations in red (#C0392B) and Primary Blue (#015880). Yellow highlights (#FFF3CD). Small "CONTRACT REVIEW" rubber stamp in top-right, angled. 7 slides, 1080 x 1350 px each.
+
+**Slide 1 - Hook:**
+- White background with gray rules
+- "CONTRACT REVIEW" stamp top-right in red, angled
+- Centered monospace text: "FORMULARY MANAGEMENT PROVISIONS"
+- Below, handwritten in red: "7 questions. Your score reveals everything."
+- Yellow highlight over "7 questions"
+- Bottom: Small PBS logo, "Benefit Blind Spots"
+
+**Slide 2 - Question 1:**
+- Monospace text simulating contract: "The Plan's formulary shall be managed by the PBM's Pharmacy and Therapeutics Committee..."
+- Handwritten margin note in red: "Can you name a single member of this committee?"
+- Score indicator: "0 = No | 1 = On request | 2 = Direct access"
+
+**Slide 3 - Question 3 (most revealing):**
+- Monospace text: "PBM shall provide annual formulary performance reporting..."
+- Yellow highlight over "annual formulary performance"
+- Handwritten margin note: "Has the PBM ever shown you what your formulary COSTS compared to alternatives?"
+- Red circle around "COSTS"
+- Score: "0 = Never | 1 = On request | 2 = Proactively"
+
+**Slide 4 - Question 5 (rebate transparency):**
+- Monospace text: "Rebate revenue shall be allocated in accordance with the PBM's standard methodology..."
+- Yellow highlight over "standard methodology"
+- Handwritten margin note: "Can you see how rebates influenced each tier decision?"
+- Annotation arrow pointing to "standard": "← Standard for whom?"
+- Score: "0 = No visibility | 1 = Aggregate only | 2 = Tier-level"
+
+**Slide 5 - Question 7 (change notification):**
+- Monospace text: "PBM reserves the right to modify formulary at any time..."
+- Red strikethrough over "at any time"
+- Handwritten replacement above: "with 60-day advance written notice"
+- Margin note: "Without this, the PBM can change your formulary without telling you."
+- Score: "0 = No requirement | 1 = Annual | 2 = Advance notice + approval"
+
+**Slide 6 - Scoring:**
+- Background: slightly off-white
+- Large handwritten numbers:
+  - "11-14: Strong independence" (green checkmark)
+  - "6-10: Moderate. Gaps exist." (yellow caution)
+  - "0-5: Low. PBM controls with minimal oversight." (red flag)
+- Margin note: "Below 6? Start with Questions 3 and 5."
+
+**Slide 7 - CTA:**
+- Background: Primary Blue (#015880)
+- White text: "One question changes the conversation."
+- Accent Blue text: "What is the net cost comparison?"
+- Small: team@rxbs.org | Benefit Blind Spots
+- PBS logo (white, 60px)
+
+**Canva Production Notes:**
+1. Use Canva Brand Template: Contract Markup Carousel
+2. Font: Courier Prime for contract text (18-20pt), Caveat for annotations (20-24pt)
+3. Yellow highlight: #FFF3CD rectangles behind key phrases
+4. Red annotations: #C0392B, hand-drawn style
+5. "CONTRACT REVIEW" stamp: Caveat Bold, 14pt, rotated -8 degrees, red
+6. Export all slides as PNG, 1080 x 1350 px
 
 ---
 
@@ -416,89 +484,66 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 10:00 AM
+### "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" — Marked-Up Contract Page Messy Infographic
 
-> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** Topic is on Monday's formulary-management family = anti-cannibalization violation per Tuesday ≠ Monday rule.
-> - Format (Marked-Up Contract Page messy infographic) is correct for Cycle-W4 Transparency slot. Keep the format; change the topic.
-> - **Recommended replacement topics (non-formulary, Transparency pillar):** 5 Plan-Sponsor Reporting Rights Decoded · Same Plan. Three PBM Quarterly Reports. Three Different Net Costs. (Same/Same/Different photoreal) · 5 Manufacturer-Direct Compensation Terms Decoded.
-> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
-
-### "The Formulary Decision You Never Made" — Marked-Up Contract Page Decoder [DRAFT — DO NOT SHIP, see RETARGET note above]
-
-**Template:** Marked-Up Contract Page messy infographic (template #16) from `claude_design_prompts.md`. Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
-**Format class:** Messy infographic (Tuesday Cycle-W4 slot, second cycle)
-**Pillar:** Transparency & Industry Education (different from Monday's Clinical Pharmacy / Formulary Management topic)
-**Content shape:** Decoder (the proven 20-25K combination of decoder shape × messy format × Transparency pillar). The message: a "customized formulary" line in your contract does not mean you made the decisions.
-**Why this combination:** Marked-Up Contract Page renders the exact contract section that governs formulary authority as an actual page with annotations exposing what the language permits. More specific and more decoder-shaped than the prior tree-metaphor concept.
+**Format:** Messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px. (Tuesday Cycle-W4 messy-infographic slot; replaces the displaced formulary draft, which is parked in `evergreen_visual_backlog.md`.)
+**Pillar:** Transparency & Industry Education.
+**Triple-distinct check:** Mon = Formulary Management (the drug list) · Tue = manufacturer payments that sit OUTSIDE the rebate pass-through · Thu = Step Therapy Override (the workflow). Three different subjects. ✓
+**Why this combination:** Monday shows rebates shape the formulary; Tuesday shows the manufacturer money that never gets *called* a rebate, so the pass-through guarantee never touches it. Non-formulary, Transparency-pillar, and it foreshadows W29 Rebate Economics. Hits the Tuesday Excellence bar (confrontational hook, proprietary anchor, Contract Library cross-promo).
 
 #### Post Copy
 
 ```
-Your PBM calls it a customized formulary. But who made the decisions?
+Your PBM says it passes through 100% of rebates. Then it collects five other payments from drug manufacturers it does not call rebates, so the pass-through guarantee never touches them.
 
-The P&T committee reviews the clinical evidence. The contracting team negotiates the rebates. When both point to the same drug, the system works. When they point to different drugs, rebate economics usually win.
+We review hundreds of PBM contracts a year at PBS. These line items hide outside the rebate definition on most of them. Same manufacturer money, tied to your plan's drugs, sitting one defined word away from your report.
 
-The drug on your preferred tier may be there because it is the best clinical option. Or it may be there because the manufacturer offered the highest rebate. Without net cost transparency, you cannot tell which.
+Five payments to decode:
 
-Here is what the contract actually gives you the right to see.
+1. Administrative / "admin reimbursement" fees
+2. Price protection payments
+3. Formulary placement / exclusivity payments
+4. Data and insights fees
+5. GPO / rebate-aggregator service fees
 
-#Formulary #SpecialtyPharmacy #PharmacyBenefits
+What each one is, and the contract language that keeps it off your pass-through, in the card.
+
+Save this before your next rebate-guarantee conversation.
+
+#PBMTransparency #DrugPricing #PharmacyBenefits
 ```
 
 #### First Comment
 
 ```
-More in this week's Pharmacy Benefits Briefing on formulary management: [LINKEDIN NEWSLETTER URL]
+The full protective language for manufacturer payment categories, the redline that pulls all five back inside your pass-through definition, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
-#### Image Layout Spec
+#### Marked-Up Contract Page Image Generation Prompt
 
-Single image at 1080 x 1350 px rendered as a photographed PBM contract page sitting slightly angled on a desk. Off-white paper (#F5F0E4) with faint edge shadow. Typed contract body in Plex Mono 11-12pt black. Header eyebrow: "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · § 3.02 · FORMULARY MANAGEMENT." The page shows a single contract section governing formulary authority with two annotated paragraphs.
-
-**Paragraph 1 — What the PBM keeps.** Typed Plex Mono: "PBM shall develop, maintain, and administer the formulary in the ordinary course. PBM may add, remove, or re-tier products in its reasonable discretion based on clinical, financial, and market factors." A yellow marker pass (#F4E27B at 60% opacity) runs over "in its reasonable discretion" and "clinical, financial, and market factors." Red handwritten margin annotation with arrow pointing to the yellow highlight, Caveat 18pt: "'Reasonable discretion' is the PBM's call. 'Financial' includes rebate economics."
-
-**Paragraph 2 — What the plan does not get.** Typed Plex Mono: "PBM shall provide quarterly formulary updates to Plan Sponsor at such intervals as PBM may determine. Plan Sponsor's role in formulary decisions shall be advisory." Red marker strikethrough on "advisory." Blue marker circle around "at such intervals as PBM may determine." Red handwritten margin annotation: "'Advisory' is where the leverage dies."
-
-**Across the page, running diagonally, a large red Caveat handwritten callout (28pt):** "Higher rebate does not mean lower plan cost."
-
-**Below the contract paragraphs, a boxed section in light Accent Blue (#A7E0FA at 20% opacity)** with a typed Plex Mono list titled "WHAT TO ASK FOR IN THE NEXT RENEWAL":
-1. "Net cost analysis by therapeutic class, brand vs. biosimilar"
-2. "Plan Sponsor right to veto tier changes above $50K projected impact"
-3. "Rebate disclosure at the drug level, not aggregate"
-
-Small Caveat handwritten annotation in red next to the Accent Blue box, pointing to it: "This is the redline."
-
-**Bottom of image:** Plex Sans SemiBold 14pt Primary Blue "Benefit Blind Spots" badge top-left outside the paper. Plex Mono Medium 12pt Gray "rxbs.org" bottom-left. PBS logo (dark, 60-80px) bottom-right.
-
-#### Image Generation Prompt
-
-Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking PBM contract page on an off-white paper (#F5F0E4) background, slight angle, faint edge shadow. Paper fills ~85% of image. Header eyebrow in Plex Sans SemiBold 10pt uppercase Gray (#4D4D4D): "PHARMACY BENEFITS MANAGEMENT SERVICES AGREEMENT · § 3.02 · FORMULARY MANAGEMENT." Two typed Plex Mono 11-12pt contract paragraphs beneath: first about PBM's formulary discretion (with yellow highlighter pass on "in its reasonable discretion" and "clinical, financial, and market factors"); second about quarterly updates and advisory role (with red strikethrough on "advisory" and blue marker circle around "at such intervals as PBM may determine"). Red Caveat-handwritten margin annotations beside each highlight: "'Reasonable discretion' is the PBM's call. 'Financial' includes rebate economics." and "'Advisory' is where the leverage dies." Diagonal large red Caveat callout across the page ~28pt: "Higher rebate does not mean lower plan cost." Below the contract text, a boxed section with light Accent Blue (#A7E0FA 20% opacity) background titled in Plex Mono 11pt "WHAT TO ASK FOR IN THE NEXT RENEWAL" with three numbered items. Small red Caveat annotation pointing to the box: "This is the redline." Outside the paper: Primary Blue Plex Sans SemiBold "Benefit Blind Spots" top-left, Gray Plex Mono "rxbs.org" bottom-left, PBS logo bottom-right. Color palette: off-white paper, black body text, red annotation (#C0392B), yellow highlight (#F4E27B), blue circle marker (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photos of people, no other logos.
-
-**Post-Generation Steps:**
-
-1. Generate base image using the prompt above
-2. Verify the two paragraphs render with distinct content (not repeated filler)
-3. Confirm the yellow highlights land on the specified phrases and the red strikethrough lands on "advisory"
-4. If handwriting is illegible, overlay Caveat text in Canva
-5. Verify the Accent Blue "WHAT TO ASK FOR" box is clearly differentiated from the contract body
-6. Add PBS logo bottom-right, 60-80px
-7. Export as PNG
+> Photorealistic top-down photo, 1080 x 1350 px (4:5). An open printed contract page on a dark wood desk under soft daylight. Off-white page (#F5F0E4), bold black serif header: "MANUFACTURER PAYMENTS — DEFINITIONS." Five Plex Mono term entries, each with a 2-line legalese snippet:
+> 1. Administrative Fee. "...amounts retained by PBM for administrative services, excluded from Rebate."
+> 2. Price Protection. "...payments tied to list-price increases, not classified as Rebates hereunder."
+> 3. Formulary Placement Payment. "...consideration for preferred status, separate from Rebate accrual."
+> 4. Data & Insights Fee. "...fees for de-identified utilization data licensed to manufacturers."
+> 5. GPO Service Fee. "...fees collected by the group purchasing organization prior to pass-through."
+>
+> Five red ballpoint annotations circling "excluded from Rebate," "not classified as Rebates," "separate from Rebate," "licensed to manufacturers," and "prior to pass-through," each with a short red note ("Manufacturer money. Pull it into pass-through."). Top, handwritten black marker, double-underlined: "Five payments. Zero called 'rebate.'" Below in red: "100% pass-through never touches them." Bottom red pen: "PBS reviews 100s of PBM contracts a year. These hide outside the rebate definition on most." Black ballpoint at top-right. Realistic paper texture, soft daylight; off-white paper, faint black legalese, red handwritten ballpoint, dark wood. No logos, no people, no PBM names. Mobile-feed legibility: five generously-spaced items; title + terms readable at ~400px.
 
 ---
 
 ## Post 93 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** 48 words
+**Word Count:** ~45 words
 
 #### Reshare Copy
 
 ```
-Most employers never decided which drugs sit on their formulary. The PBM did, using rebate math the plan sponsor rarely sees.
+Your PBM passes through 100% of rebates, then collects five other manufacturer payments it never calls rebates: admin fees, price protection, formulary placement, data fees, and GPO service fees.
 
-Higher rebate does not always mean lower net cost.
+Ginny Crisp decodes the five and the contract language that pulls them back into pass-through.
 
-Ginny Crisp walks through how to ask for the net cost analysis that exposes the difference.
-
-#Formulary #SelfFundedEmployers #EmployeeBenefits
+#PBMTransparency #PlanSponsors #PharmacyBenefits
 ```
 
 ---
@@ -579,96 +624,7 @@ This week's Benefit Blind Spots deep dive on formulary management and PBM rebate
 
 ## Post 95 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Rebate Retention Terms Decoded (Slot A of the evergreen rotation).**
-
-### Formulary Evaluation Framework (Contract Markup Carousel) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Contract Markup Carousel (7 slides) - NEW TEMPLATE B
-**Pillar:** Transparency & Industry Education
-**Word Count:** ~80 words
-
-> **NOTE:** Thursday carries the weekly theme visual (formulary management). Contract Markup template selected because formulary terms are literally contract provisions. Each slide looks like a contract page with annotations.
-
-#### Post Copy
-
-```
-Seven questions that reveal whether your formulary serves your plan or your PBM's rebate strategy.
-
-Most employers have never asked these questions. Most PBMs have never been asked to answer them.
-
-The formulary is the most consequential financial document in your pharmacy benefit. Whether the decisions behind it serve clinical interests or rebate economics is a question worth answering.
-
-Swipe through the audit.
-
-#Formulary #PlanSponsors #EmployeeBenefits
-```
-
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
-
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
-#### Contract Markup Carousel Slides (Template B)
-
-**Design:** White background with faint gray horizontal rules (legal document style). Monospace body text (Courier Prime). Handwritten annotations in red (#C0392B) and Primary Blue (#015880). Yellow highlights (#FFF3CD). Small "CONTRACT REVIEW" rubber stamp in top-right, angled.
-
-**Slide 1 - Hook:**
-- White background with gray rules
-- "CONTRACT REVIEW" stamp top-right in red, angled
-- Centered monospace text: "FORMULARY MANAGEMENT PROVISIONS"
-- Below, handwritten in red: "7 questions. Your score reveals everything."
-- Yellow highlight over "7 questions"
-- Bottom: Small PBS logo, "Benefit Blind Spots"
-
-**Slide 2 - Question 1:**
-- Monospace text simulating contract: "The Plan's formulary shall be managed by the PBM's Pharmacy and Therapeutics Committee..."
-- Handwritten margin note in red: "Can you name a single member of this committee?"
-- Score indicator: "0 = No | 1 = On request | 2 = Direct access"
-
-**Slide 3 - Question 3 (most revealing):**
-- Monospace text: "PBM shall provide annual formulary performance reporting..."
-- Yellow highlight over "annual formulary performance"
-- Handwritten margin note: "Has the PBM ever shown you what your formulary COSTS compared to alternatives?"
-- Red circle around "COSTS"
-- Score: "0 = Never | 1 = On request | 2 = Proactively"
-
-**Slide 4 - Question 5 (rebate transparency):**
-- Monospace text: "Rebate revenue shall be allocated in accordance with the PBM's standard methodology..."
-- Yellow highlight over "standard methodology"
-- Handwritten margin note: "Can you see how rebates influenced each tier decision?"
-- Annotation arrow pointing to "standard": "← Standard for whom?"
-- Score: "0 = No visibility | 1 = Aggregate only | 2 = Tier-level"
-
-**Slide 5 - Question 7 (change notification):**
-- Monospace text: "PBM reserves the right to modify formulary at any time..."
-- Red strikethrough over "at any time"
-- Handwritten replacement above: "with 60-day advance written notice"
-- Margin note: "Without this, the PBM can change your formulary without telling you."
-- Score: "0 = No requirement | 1 = Annual | 2 = Advance notice + approval"
-
-**Slide 6 - Scoring:**
-- Background: slightly off-white
-- Large handwritten numbers:
-  - "11-14: Strong independence" (green checkmark)
-  - "6-10: Moderate. Gaps exist." (yellow caution)
-  - "0-5: Low. PBM controls with minimal oversight." (red flag)
-- Margin note: "Below 6? Start with Questions 3 and 5."
-
-**Slide 7 - CTA:**
-- Background: Primary Blue (#015880)
-- White text: "One question changes the conversation."
-- Accent Blue text: "What is the net cost comparison?"
-- Small: team@rxbs.org | Benefit Blind Spots
-- PBS logo (white, 60px)
-
-**Canva Production Notes:**
-1. Use Canva Brand Template: Contract Markup Carousel
-2. Font: Courier Prime for contract text (18-20pt), Caveat for annotations (20-24pt)
-3. Yellow highlight: #FFF3CD rectangles behind key phrases
-4. Red annotations: #C0392B, hand-drawn style
-5. "CONTRACT REVIEW" stamp: Caveat Bold, 14pt, rotated -8 degrees, red
-6. Export all slides as PNG, 1080 x 1350 px
-
----
+_The Formulary Evaluation Framework contract-markup carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Formulary Evaluation Framework). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 Step Therapy Override Terms Decoded — Sticky Note Dashboard Messy Infographic
 
@@ -684,7 +640,9 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 #### Post Copy
 
 ```
-Five contract clauses govern step therapy overrides. The override workflow is rarely what the clauses describe.
+Each big-3 PBM now excludes more than 600 drugs from its main formulary, an all-time high, increasingly swapping them for the PBM's own private-label biosimilars. The FTC and Drug Channels have both documented the swap. Every one of those exclusions is a wall your member hits, and the only way through it is the step therapy override.
+
+Five contract clauses govern that override. The override workflow is rarely what the clauses describe.
 
 I review hundreds of PBM contracts a year at PBS. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
