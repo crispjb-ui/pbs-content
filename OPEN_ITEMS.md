@@ -21,6 +21,8 @@ Plan committed at `email_gated_toolkit/role_funnel_plan.md`. Decisions locked: b
 - **`/critique` → weekly** (Sun) via `.github/workflows/weekly-critique.yml`: auto-critiques the next week to ship, commits a report to `critique_reports/`.
 - **`/system-audit` → monthly** (1st) via `.github/workflows/monthly-system-audit.yml`: anti-rot + fact-bank refresh, commits safe fixes + report to `audit_reports/`.
 - **`/log-metrics` → manual weekly** (needs Ginny to paste the week's numbers; no auto-run possible). The monthly audit flags if the tracker goes stale.
+- **`/quarterly-research` → quarterly** (1st of Jan/Apr/Jul/Oct) via `.github/workflows/quarterly-research.yml`: deep PBM-landscape research → auto-adds sourced facts/recipes to the banks, proposes new topics/Potter pieces to OPEN_ITEMS. The weekly build then picks up the refreshed facts automatically.
+- **`/session-digest` → run at session end** (manual habit or a Stop-hook reminder). Captures the session's decisions/rules/preferences into CLAUDE.md + OPEN_ITEMS. NOT auto-runnable as a GitHub Action — chat transcripts aren't in the repo and the container is ephemeral.
 - Already scheduled: weekly roundup, weekly build-pipeline.
 
 ## 🔴 Wendell Potter cascade topic conversions (ON HOLD)
