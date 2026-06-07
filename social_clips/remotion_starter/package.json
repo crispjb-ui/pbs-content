@@ -1,0 +1,21 @@
+{
+  "name": "pbs-clip-renderer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Renders PBS social clips from a /clip-podcast clips.json manifest (Remotion).",
+  "scripts": {
+    "render": "node render-from-manifest.mjs clips.json",
+    "studio": "remotion studio"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.0",
+    "@remotion/google-fonts": "^4.0.0",
+    "remotion": "^4.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

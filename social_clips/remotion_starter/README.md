@@ -1,0 +1,25 @@
+# PBS Clip Renderer — Remotion Starter (drop into your video repo)
+
+Turns a `/clip-podcast` **manifest** (`clips.json`) into rendered, on-brand social clips, no per-clip design. The PBS content repo produces the manifest; this code (in your Remotion/video repo) renders it.
+
+## What it does
+For each clip in the manifest: trims the source video to the clip's in/out, reframes to 9:16 or 4:5, overlays burned-in captions + the scroll-stopper hook + Ginny's lower-third + an "as seen on" badge in the PBS brand system (per `social_clips/remotion_pbs_caption_template_spec.md`), and renders an MP4.
+
+## One-time setup (in your Remotion repo)
+1. Copy this `remotion_starter/` content into the repo root (or merge `src/` + the scripts).
+2. `npm install` (needs `remotion`, `@remotion/cli`, `@remotion/google-fonts`, `react`, `react-dom`).
+3. Make a `public/` folder and an `out/` folder.
+
+## Per-episode flow
+1. **In the PBS content repo:** `/clip-podcast <youtube-url>` → it commits `clips.json` (+ a human-readable plan). Bring `clips.json` here.
+2. **Download the source video** into `public/` with yt-dlp, e.g.
+   `yt-dlp -f "bv*[height<=1080]+ba/b" -o public/source.mp4 "<youtube-url>"`
+   and set `sourceVideo` in the manifest to `source.mp4` (path is relative to `public/`).
+3. **Timed captions (the one input the plan can't fully supply):** generate a Whisper JSON for word/phrase timing, or use the `captions` array the manifest carries. The composition reads caption `startSec/endSec` in **absolute source seconds** and offsets by the clip's `inSec`.
+4. **Render all clips:** `node render-from-manifest.mjs clips.json` → MP4s land in `out/`.
+5. Post each with the copy from the `/clip-podcast` plan; first comment → the toolkit (funnel).
+
+## Notes
+- Source = the YouTube download (compressed is fine for social; no host raw file needed).
+- This is a **starter** — render one clip first and tweak to your Remotion version (v4 API: if `OffthreadVideo` rejects `startFrom`, your version uses `trimBefore`/`trimAfter` instead).
+- Brand spec is `social_clips/remotion_pbs_caption_template_spec.md` in the content repo — keep this composition matched to it.

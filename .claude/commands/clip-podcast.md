@@ -25,8 +25,14 @@ For each: clip #, in/out timestamps, the verbatim quote, the shape it hits, targ
 ## Step 4 — Post copy (per clip, per platform)
 The caption in PBS voice (confrontational/decoder hook), 3 hashtags (CLAUDE.md pillar rule), and the **funnel CTA** (first comment → a relevant toolkit at `rxbs.org/toolkit/…`). X: link in first reply, 0-1 hashtags. Wrap all paste-ready copy in fenced code blocks (paste-clean convention).
 
-## Step 5 — Output + commit
-Write the plan to `social_clips/<show-slug>_<YYYY-MM-DD>_clips.md`: header (show, date, episode URL), the per-clip specs + copy, and a closing line noting the source is the YouTube download and rendering uses the PBS Remotion caption template. Commit it. Log the appearance + clips in the podcast tracker (`podcast_pitching_guide.md` Tracking / `podcast_outreach_sprint.md`).
+## Step 5 — Output (markdown plan + JSON manifest) + commit
+Write TWO files to `social_clips/`:
+1. **`<show-slug>_<YYYY-MM-DD>_clips.md`** — the human-readable plan (header + per-clip specs + post copy).
+2. **`<show-slug>_<YYYY-MM-DD>_clips.json`** — the machine-readable manifest the Remotion starter renders (schema = `social_clips/remotion_starter/clips.sample.json`):
+   `{ show, episodeUrl, date, sourceVideo, fps, clips: [ { id, slug, inSec, outSec, aspect ("9x16"|"4x5"), platform, hookTitle, showName, cta:{text,url}, captions:[{startSec,endSec,text}] } ] }`.
+   Caption times are **absolute source seconds** (the composition offsets by `inSec`). If you only have rough timestamps (no word/phrase-level timing), still emit the manifest and flag that a Whisper JSON is needed in the video repo for synced captions.
+
+Commit both. Log the appearance + clips in the tracker (`podcast_pitching_guide.md` Tracking / `podcast_outreach_sprint.md`). The video repo then runs `node render-from-manifest.mjs <clips.json>` against the `social_clips/remotion_starter/` code to render.
 
 ## Notes
 - **No raw file needed** — public YouTube is the default source; this removes the host-coordination bottleneck.
