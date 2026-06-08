@@ -31,7 +31,7 @@ The dropdown labels MUST match these strings exactly — the Zapier scorer and t
 | # | Dropdown label (the `role` value) | Branch | Sees size field? |
 |---|---|---|---|
 | 1 | `CEO / Owner` | **Buyer** | ✅ |
-| 2 | `CFO / Finance leader` | **Buyer** | ✅ |
+| 2 | `CFO / Finance Leader` | **Buyer** | ✅ |
 | 3 | `HR / Benefits leader` | **Buyer** | ✅ |
 | 4 | `Benefits / plan manager` | **Buyer** | ✅ |
 | 5 | `Broker / Consultant` | **Partner** | ❌ |
