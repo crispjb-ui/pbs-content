@@ -57,6 +57,7 @@ export const submitLead = webMethod(
         row.first_name = lead.first_name || row.first_name;
         row.company = lead.company || row.company;
         row.role = lead.role || row.role;
+        row.size = lead.size || row.size;   // buyer-only employee band; empty for broker/other
         row.toolkit_name = toolkitName;
         row.toolkit_slug = toolkitSlug;
         row.last_download = new Date();
@@ -71,6 +72,7 @@ export const submitLead = webMethod(
           email: lead.email,
           company: lead.company,
           role: lead.role,
+          size: lead.size || '',   // buyer-only employee band; empty for broker/other
           toolkit_name: toolkitName,
           toolkit_slug: toolkitSlug,
           toolkits_requested: toolkitSlug || '',

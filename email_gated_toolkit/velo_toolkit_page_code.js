@@ -35,7 +35,21 @@
  *     #inputFirstName   (Text input)
  *     #inputEmail       (Text input, type Email)
  *     #inputCompany     (Text input)
- *     #inputRole        (Text input or Dropdown)
+ *     #inputRole        (Dropdown) — options, EXACT strings (scorer keys on them):
+ *                         CEO / Owner
+ *                         CFO / Finance leader
+ *                         HR / Benefits leader
+ *                         Benefits / plan manager
+ *                         Broker / Consultant
+ *                         Other (TPA / pharmacy / vendor)
+ *     #inputSize        (Dropdown) — buyer-only; options, EXACT strings:
+ *                         Fewer than 100
+ *                         100–499
+ *                         500–2,499
+ *                         2,500–9,999
+ *                         10,000+
+ *     #sizeBox          (Box wrapping #inputSize) — set "Collapsed on load".
+ *                         Shows only when Role is a buyer; hidden for Broker/Other.
  *   Button:
  *     #getButton        ("Get the Worksheet")
  *   Text / boxes (set "Collapsed on load" in the Properties panel):
@@ -50,7 +64,7 @@
  *
  *   Internal logging collection (CMS) — create/confirm fields once:
  *     Collection "ToolkitLeads":
- *       first_name (Text), email (Text), company (Text), role (Text),
+ *       first_name (Text), email (Text), company (Text), role (Text), size (Text),
  *       toolkit_name (Text), toolkit_slug (Text),
  *       toolkits_requested (Text), downloads (Number), repeat (Boolean),
  *       last_download (Date and Time)
@@ -80,7 +94,9 @@ const CONFIG = {
     firstName: '#inputFirstName',
     email: '#inputEmail',
     company: '#inputCompany',
-    role: '#inputRole',
+    role: '#inputRole',         // Dropdown — the 6 roles in ROLES below
+    size: '#inputSize',         // Dropdown — the 5 size bands; BUYER roles only
+    sizeBox: '#sizeBox',        // wrapper around #inputSize (collapsed for non-buyers); set "Collapsed on load"
     button: '#getButton',
     welcomeBack: '#welcomeBack',
     success: '#successMsg',
@@ -91,6 +107,18 @@ const CONFIG = {
     legacyMask: '#box19',   // container box masking #form1's un-hideable hidden fields; collapses with the old form
   },
 };
+
+// The 6 declarative roles (dropdown labels MUST match these strings exactly —
+// the Zapier scorer keys on them). The four BUYER roles see the size field.
+const ROLES = {
+  'CEO / Owner':                     'buyer',
+  'CFO / Finance leader':            'buyer',
+  'HR / Benefits leader':            'buyer',
+  'Benefits / plan manager':         'buyer',
+  'Broker / Consultant':             'partner',
+  'Other (TPA / pharmacy / vendor)': 'nurture',
+};
+const isBuyerRole = (role) => ROLES[role] === 'buyer';
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
@@ -133,6 +161,7 @@ $w.onReady(() => {
     setVal(id.email, saved.email);
     setVal(id.company, saved.company);
     setVal(id.role, saved.role);
+    setVal(id.size, saved.size);
 
     showText(id.welcomeBack, `Welcome back, ${saved.first_name || 'there'}. Get this one instantly:`);
 
@@ -143,14 +172,29 @@ $w.onReady(() => {
     }
   }
 
+  // ---- Conditional size field: show it only for BUYER roles ----
+  // Buyers (CEO/CFO/HR/Benefits mgr) get "Number of employees"; Broker/Other never see it.
+  function syncSizeField() {
+    if (isBuyerRole(getVal(id.role))) {
+      show(id.sizeBox);
+    } else {
+      clearVal(id.size);   // drop any stale value so non-buyers submit size empty
+      hide(id.sizeBox);
+    }
+  }
+  const roleEl = $w(id.role);
+  if (roleEl && roleEl.onChange) roleEl.onChange(syncSizeField);
+  syncSizeField();   // set initial state (handles returning-visitor prefilled role)
+
   // "Not you?" — clear storage and reveal the form again (optional element; safe if absent)
   const editEl = $w(id.editLink);
   if (editEl && editEl.onClick) {
     editEl.onClick(() => {
       local.removeItem(CONFIG.storageKey);
-      clearVal(id.firstName); clearVal(id.email); clearVal(id.company); clearVal(id.role);
+      clearVal(id.firstName); clearVal(id.email); clearVal(id.company); clearVal(id.role); clearVal(id.size);
       hide(id.welcomeBack); hide(id.editLink);
       show(id.formBox);
+      syncSizeField();   // role is now blank -> size collapses
       setLabel(id.button, 'Get the Worksheet');
     });
   }
@@ -173,6 +217,8 @@ $w.onReady(() => {
       email: getVal(id.email),
       company: getVal(id.company),
       role: getVal(id.role),
+      // BUYER roles only; empty for Broker/Other (the scorer skips the size add)
+      size: isBuyerRole(getVal(id.role)) ? getVal(id.size) : '',
     };
 
     const problem = validate(lead);
@@ -205,7 +251,9 @@ function validate(lead) {
   if (!lead.first_name || !lead.first_name.trim()) return 'Please enter your first name.';
   if (!lead.email || !EMAIL_RE.test(lead.email)) return 'Please enter a valid email address.';
   if (!lead.company || !lead.company.trim()) return 'Please enter your company.';
-  if (!lead.role || !lead.role.trim()) return 'Please enter your role.';
+  if (!lead.role || !lead.role.trim()) return 'Please select your role.';
+  // Size is required only for BUYER roles (the field is hidden for everyone else).
+  if (isBuyerRole(lead.role) && (!lead.size || !lead.size.trim())) return 'Please select your number of employees.';
   return null;
 }
 function safeParse(s) { try { return s ? JSON.parse(s) : null; } catch (e) { return null; } }

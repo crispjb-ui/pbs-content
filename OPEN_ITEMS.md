@@ -2,16 +2,16 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
-## 🟡 Email funnel: role-segmentation + closing layer (PENDING — plan approved)
-Plan committed at `email_gated_toolkit/role_funnel_plan.md`. Decisions locked: booking = `team@rxbs.org` mailto (no external tool); speed-to-lead alerts email **brett@rxbs.org + ginny@rxbs.org**. Not yet built.
+## 🟡 Email funnel: role-segmentation + closing layer (SPEC + CODE READY — build in Wix/Zapier)
+Decisions locked (Jun 8): **6 declarative roles** (CEO / CFO / HR / Benefits mgr / Broker / Other — no "just researching"); **employee-count field shows for buyers only** (hidden for Broker/Other); **contextual offering by role** (CEO=exposure read, CFO=spend pressure-test, HR=member-friendly audit, Benefits mgr=audit-rights check, Broker=partner track, Other=nurture); booking = `team@rxbs.org` mailto; alerts → **brett@ + ginny@**; tracker = **Google Sheets**.
 
-**Build order (Zapier/Wix):**
-1. Closing layer first (½ day): score step → SQL filter (≥60) → alert email to brett@/ginny@ → pipeline tracker row.
-2. Wix form: add **CEO/Owner** role + **company-size** field.
-3. Role-branch Email 5 (copy is written in the plan), then Email 4 CTA, then Emails 1-3 + the broker partner fork.
+**Specs + code in-repo (paste into Wix/Zapier):**
+- `email_gated_toolkit/role_funnel_plan.md` — 6 roles, buyer-only size, scoring, contextual offerings, the Code-by-Zapier scorer, full role-branched Email 5 copy.
+- `email_gated_toolkit/closing_layer_spec.md` — Google Sheet schema, main-Zap row write, separate speed-to-lead alert Zap, 6-role test matrix.
+- `velo_toolkit_page_code.js` — 6-option Role dropdown + buyer-only `#inputSize` with role-driven show/hide; passes `size`.
+- `velo_backend_toolkitLead.web.js` — persists `size` (flows to Zapier via `...lead` spread).
 
-**Decision:** pipeline tracker = **Google Sheets** (locked, no Airtable).
-**Spec is written and ready: `email_gated_toolkit/closing_layer_spec.md`** (copy-into-Zapier, ~½ day). **Build target: Monday.** Monday order: (1) create + seed the Google Sheet, (2) add `ceo` role + `size` field to the Wix form, (3) add the score step + Sheets row to the existing Zap, (4) build the 3-step alert Zap, (5) run the 4 tests. Role-branched email copy (in `role_funnel_plan.md`) is Phase 2, after the alert/tracking layer is live.
+**Monday build order (Wix/Zapier — Claude can't click these):** (1) add Role dropdown (6 exact strings) + `#inputSize` dropdown inside `#sizeBox` (Collapsed on load); add `size` Text field to ToolkitLeads; Publish. (2) Create + seed the "PBS Toolkit Leads" Google Sheet (header in the spec; seed the 3 live leads + the CPO intro). (3) Add the Code scorer + Sheets row to the existing Zap. (4) Build the separate alert Zap (filter tier in SQL,PARTNER → email brett@/ginny@). (5) Run the 6-role test matrix. Contextual Email 4/5 copy is Phase 2 after the alert/tracking layer is live.
 
 ## 🟢 Brand-awareness pushes (specs ready, activate when bandwidth allows)
 - **Podcast outreach sprint** — `podcast_outreach_sprint.md`. Activate: 2-3 pitches/week using the "as seen on Potter + Derms on Drugs" credential, off the 49-show list in `podcast_pitching_guide.md`; every appearance CTAs to a toolkit (feeds the funnel). Highest-trust reach lever; ready to start.

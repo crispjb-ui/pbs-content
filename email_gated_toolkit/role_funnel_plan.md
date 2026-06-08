@@ -1,134 +1,266 @@
 # Role-Segmented Toolkit Funnel — Plan of Record
 
-**Created June 2026.** Elevates the live Wix/Zapier toolkit funnel from role-blind to role-segmented, adds a closing layer, and tracks real leads. Builds on the existing 5-email sequence (Day 0/2/5/9/14) in `zapier_implementation_spec.md` + `emails/`. Companion to `toolkit_dataset.md`.
+**Created June 2026; locked Jun 8, 2026.** Elevates the live Wix/Zapier toolkit funnel from role-blind to role-segmented, adds a contextual offer per role, a closing layer, and real-lead tracking. Builds on the existing 5-email sequence (Day 0/2/5/9/14) in `zapier_implementation_spec.md` + `emails/`. Companion to `toolkit_dataset.md` and `closing_layer_spec.md`.
 
-## Decisions (locked with Ginny, June 2026)
-- **Booking:** no external tool for now. The "book a call" CTA is a **`mailto:team@rxbs.org`** with a pre-filled subject so replies self-route. Revisit Calendly/Wix Bookings later.
+## Decisions locked with Ginny (Jun 8, 2026)
+- **6 declarative roles** — no passive "just researching" option; every choice is a role we route on.
+- **Employee-count field shows for BUYERS only** — hidden for Broker and Other (those branches arrive with `size` empty).
+- **Contextual offering by role** — the close, the next-step offer, and the lead routing all change by who they say they are.
+- **Booking:** no external tool. The "book a call" CTA is a **`mailto:team@rxbs.org`** with a pre-filled subject so replies self-route. Revisit Calendly/Wix Bookings later.
 - **Speed-to-lead alerts:** **email to brett@rxbs.org and ginny@rxbs.org** (no SMS/Slack for now).
-- **Roles captured:** `cfo`, `hr-director`, `broker` today; **add `ceo` (CEO/Owner/President)** and a **company-size** field.
+- **Pipeline tracker:** **Google Sheets** (not Airtable).
+
+The funnel keeps the same plumbing already live (`velo_toolkit_page_code.js` → `backend/toolkitLead.web.js` → Zapier Catch Hook → CMS lookup → 5 Outlook emails). This plan adds **two form inputs** (a 6-option role dropdown + a buyer-only size field) and **one Zapier step** (a role→offering lookup that scores the lead and drives contextual copy). No path explosion: one lookup does the branching.
 
 ---
 
-## 1. Two funnels, not one: buyers vs partners
-- **Buyers** — CFO/Finance, HR/Benefits, CEO/Owner → goal = a **Contract/Claims Review engagement**. Pitch the audit.
-- **Partner** — Broker/Consultant → per the CLAUDE.md "brokers as partners" rule, **never pitch a broker an audit**. Their track = referral/partnership: co-brandable tools, "run these with your clients," PBS as the independent audit bench they bring in. Metric = clients referred, not a direct close.
+## 1. The form (what changes on `rxbs.org/toolkit/<slug>`)
+
+Field order, top to bottom:
+
+1. First name *(always, required)*
+2. Work email *(always, required)*
+3. Company *(always, required)*
+4. **Role** *(always, required — dropdown, 6 options below)*
+5. **Number of employees** *(BUYER roles only — collapses for Broker / Other)*
+
+### The 6 roles (exact dropdown strings + branch)
+
+The dropdown labels MUST match these strings exactly — the Zapier scorer and the Velo `ROLES` map both key on them.
+
+| # | Dropdown label (the `role` value) | Branch | Sees size field? |
+|---|---|---|---|
+| 1 | `CEO / Owner` | **Buyer** | ✅ |
+| 2 | `CFO / Finance leader` | **Buyer** | ✅ |
+| 3 | `HR / Benefits leader` | **Buyer** | ✅ |
+| 4 | `Benefits / plan manager` | **Buyer** | ✅ |
+| 5 | `Broker / Consultant` | **Partner** | ❌ |
+| 6 | `Other (TPA / pharmacy / vendor)` | **Nurture** | ❌ |
+
+There is no "just looking" escape hatch — deliberate; it forces a self-classification we route on.
+
+### The size field (buyers only) — exact strings + score
+
+| Band (the `size` value) | What it signals | Size score |
+|---|---|---|
+| `Fewer than 100` | Usually fully insured, not the self-funded ICP | +0 |
+| `100–499` | Emerging self-funded | +10 |
+| `500–2,499` | **Core ICP** | +20 |
+| `2,500–9,999` | **Core ICP** | +25 |
+| `10,000+` | Large; high value but often consultant-locked, longer cycle | +18 |
+
+For Broker / Other the field never renders, so `size` arrives empty and the scorer skips the size add. The Velo show/hide is already wired in `velo_toolkit_page_code.js` (the `ROLES` map + `syncSizeField()`).
+
+---
+
+## 2. Two funnels, not one: buyers vs partners vs nurture
+- **Buyers** (CEO, CFO, HR, Benefits mgr) → goal = a **Contract / Claims Review engagement**. Pitch the audit, contextual to the role.
+- **Partner** (Broker / Consultant) → per the CLAUDE.md "brokers as partners" rule, **never pitch a broker an audit**. Their track = referral/partnership: co-brandable tools, "run these with your clients," PBS as the independent audit bench they bring in. Metric = clients referred, not a direct close.
+- **Nurture** (Other) → newsletter + Substack only; no sales push.
 
 Everything forks on this.
 
-## 2. Capture upgrades (one-time Wix form edits)
-- Add **CEO / Owner / President** role option.
-- Add **company size** (covered lives / employees): `<100`, `100-500`, `500-5,000`, `5,000+`. The #1 fit qualifier and a major scoring input.
-- Optional low-friction: **renewal month** (drives close timing).
+---
 
-## 3. Role-segmented tracks (all 5 emails branch on `{{role}}`)
-Same Day 0/2/5/9/14 skeleton; angle, proof, second asset, and CTA change by role.
+## 3. Contextual offering by role (the heart of this)
 
-| | CFO / Finance | HR / Benefits | CEO / Owner | Broker / Consultant (partner) |
-|---|---|---|---|---|
-| Angle | dollar recovery, ROI, the number you were never shown | member impact + admin burden + fiduciary cover | bottom-line risk, "are we being managed?" | "make your client reviews sharper" — ally |
-| Email 1 proof | FTC $7.3B markup / spread | cancer/HIV markup human angle | the five-revenue-streams map | "the redlines your best peers check" |
-| Email 2 second asset | PBM Compensation (dollar zoom-out) | member transition / step-therapy | PBM Compensation map | Contract Language Library + a co-brandable worksheet |
-| Email 4-5 close CTA | book a 20-min contract gut-check (mailto) | book a call + "loop in your CFO" | book a call | **partner intro call** / add PBS as your audit bench (NOT an audit pitch) |
-| Cadence | tighter, close-oriented | standard | tighter | slower nurture |
+The toolkit they download is fixed (it's the page they're on). What's **contextual** is the *close* — the next-step offer in Email 4/5, the booking subject line, and whether the lead is sales, partner, or nurture. One Zapier lookup keyed on role outputs all of it.
 
-## 4. The closing layer (download → call, no external tool)
-1. **Close CTA = pre-filled mailto.** In Email 5 (all buyers), Email 4 (score ≥60), and Email 2 (hot leads):
-   `mailto:team@rxbs.org?subject=Contract gut-check: {{company}}&body=...`
-   Replies land in team@rxbs.org and route to Ginny/Brett.
-2. **Speed-to-lead email alert to brett@ + ginny@.** Zapier sends an internal alert the moment a lead qualifies, so the team reaches out **proactively** rather than waiting for the reply. Triggers below.
-3. **Pipeline tracking sheet.** Every submission + score change → Airtable/Google Sheet via Zapier. This is the consulting-leads metric the trackers are missing. Columns: name, email, company, size, role, toolkit, score, status (new → alerted → contacted → call → proposal → closed / referred), date.
+| Role | Offer headline (Email 4/5) | Offer body | CTA |
+|---|---|---|---|
+| **CEO / Owner** | *Where your plan is most exposed, in 15 minutes* | Owners don't need a 40-page report. You need the two or three places your PBM contract is quietly costing you, in plain English, and whether it's worth acting on this year. That's the call. No deck. | Book a 15-minute exposure read → team@rxbs.org |
+| **CFO / Finance leader** | *The three line items most likely overcharged on your plan* | We review hundreds of PBM contracts a year, and the same handful of line items run high on nearly every one. Send your last 12 months of pharmacy claims and we'll pressure-test them against what we see in the market. A number, not a narrative. | Request a pharmacy spend pressure-test → team@rxbs.org |
+| **HR / Benefits leader** | *Find the savings without changing your members' experience* | The fear with any pharmacy change is member disruption: angry calls, switched drugs, a buried benefits team. Most of the savings we find never touch the member. We'll show you which levers are invisible to employees before you decide anything. | Book a member-disruption-free audit → team@rxbs.org |
+| **Benefits / plan manager** | *The clauses that let you actually run the review* | If you've ever asked your PBM for data and gotten a runaround, the problem is usually your contract, not your rep. We'll check your audit-rights and reporting language and tell you exactly what you're entitled to ask for, with the paste-ready request. | Request a reporting & audit-rights check → team@rxbs.org |
+| **Broker / Consultant** | *Make your next client's PBM review the one they remember* | We work behind brokers, not around them. Bring us into a client's pharmacy review and you keep the relationship: we do the contract teardown, you deliver the win. Co-branded deliverables, your logo, your meeting. The line-by-line audit is on us. | Start a partner conversation → team@rxbs.org |
+| **Other (TPA / pharmacy / vendor)** | *Keep the analysis coming* | The deepest version of this work lives in The Pharmacy Benefits Briefing and Benefit Blind Spots. Every week: one PBM mechanism decoded, one thing you can do about it. | Subscribe (free) → benefitblindspots.substack.com |
 
-## 5. Lead scoring (route effort to the right ~10%)
-Additive, computed in a Zapier step at submission and on each engagement event:
+Emails 1–3 stay role-agnostic (PDF delivery, the paired second toolkit, the Field Note) — useful to everyone, keeps the build simple. The **role swap lands in Email 4 and Email 5**, the conversion emails, via merge fields `{{offer_headline}}`, `{{offer_body}}`, `{{offer_cta}}`. `{{booking_subject}}` pre-fills the mailto so a reply lands organized.
 
-| Signal | Points |
-|---|---|
-| Role CFO or CEO | +20 · HR +10 · Broker → partner track (scored separately) |
-| Company 500-5,000 | +20 · 5,000+ +30 · <100 −10 |
-| Opened Email 1 | +5 · clicked a toolkit/Substack link +10 |
-| Second download (any toolkit) | +25 |
-| Clicked the consult mailto | +40 → `lead-hot` |
-| Renewal within 6 months | +15 |
+---
 
-**≥60 = SQL** (alert brett@ + ginny@; personal outreach same day) · **30-59 = MQL** (nurture, watch for next trigger) · **<30 = nurture only**.
+## 4. Scoring & routing (drives the closing layer)
 
-## 6. Speed-to-lead alert — exact Zapier additions
-Add to the existing Zap (after the Catch Hook + CMS lookup steps):
-1. **Formatter / Code step "score":** compute the additive score from role + company-size + (for engagement re-scoring) the event type.
-2. **Filter "SQL?":** only continue if `score >= 60` OR `event = second_download` OR `event = consult_click`.
-3. **Email by Zapier → brett@rxbs.org, ginny@rxbs.org.** Subject: `🔥 SQL: {{first_name}} @ {{company}} ({{role}}, {{size}}) score {{score}}`. Body: contact + which toolkit + score breakdown + the line "Reach out within the day." 
-4. **Create/Update row** in the pipeline Sheet/Airtable (status `alerted`).
-Non-SQL submissions skip the alert but still get the Sheet row (status `new`) and the normal 5-email sequence.
+The Zapier lookup outputs per submission: `role_key`, `branch`, `base_score`, plus the offer fields. The scorer adds the size score and assigns a tier.
 
-## 7. Role-branched email copy
+**Base score by role:**
 
-**Emails 1-4:** keep the existing base templates; swap the proof line (Email 1), the second-asset blurb (Email 2), and the CTA (Email 4) per the role table above using `{{role}}` conditionals. Broker gets the partner fork (co-brandable framing, Contract Library, no audit pitch).
+| Role | `role_key` | branch | base_score |
+|---|---|---|---|
+| CEO / Owner | `ceo` | buyer | 30 |
+| CFO / Finance leader | `cfo` | buyer | 30 |
+| HR / Benefits leader | `hr` | buyer | 25 |
+| Benefits / plan manager | `benefits_mgr` | buyer | 18 |
+| Broker / Consultant | `broker` | partner | — (tier = PARTNER) |
+| Other | `other` | nurture | — (tier = NURTURE) |
 
-**Email 5 — "Two Ways Forward" (the close) — full role variants:**
+**Total score (buyers only)** = base_score + size_score (§1).
 
-CFO / Finance:
+**Tier assignment:**
+
+| Condition | Tier | What happens |
+|---|---|---|
+| branch = partner | **PARTNER** | Instant alert to brett@ + ginny@; partner offer; Sheet row tier=PARTNER |
+| buyer, score ≥ 45 | **SQL** | Instant alert to brett@ + ginny@; sales offer; Sheet row tier=SQL |
+| buyer, score 25–44 | **MQL** | No instant alert; nurture + watch; Sheet row tier=MQL |
+| buyer, score < 25 | **LEAD** | Newsletter nurture only; Sheet row tier=LEAD |
+| branch = nurture | **NURTURE** | Newsletter only; Sheet row tier=NURTURE |
+
+Worked examples: CEO + 500–2,499 = 50 → SQL. CFO + 2,500–9,999 = 55 → SQL. HR + 500–2,499 = 45 → SQL. CEO + <100 = 30 → MQL. Benefits mgr + 10,000+ = 36 → MQL. Broker (any) → PARTNER.
+
+---
+
+## 5. Zapier lookup + scorer (paste-ready)
+
+Add one **Code by Zapier** step right after the CMS lookup (Step 2), keyed on `role` + `size`. Returns the tier, score, alert flag, and the contextual offer fields in one step.
+
+```javascript
+// Code by Zapier — input variables: role (text), size (text), company (text)
+const TABLE = {
+  "CEO / Owner":                    {k:"ceo",          branch:"buyer",   base:30,
+    h:"Where your plan is most exposed, in 15 minutes",
+    cta:"Book a 15-minute exposure read → team@rxbs.org",
+    subj:"PBM exposure read"},
+  "CFO / Finance leader":           {k:"cfo",          branch:"buyer",   base:30,
+    h:"The three line items most likely overcharged on your plan",
+    cta:"Request a pharmacy spend pressure-test → team@rxbs.org",
+    subj:"Pharmacy spend pressure-test"},
+  "HR / Benefits leader":           {k:"hr",           branch:"buyer",   base:25,
+    h:"Find the savings without changing your members' experience",
+    cta:"Book a member-disruption-free audit → team@rxbs.org",
+    subj:"Member-friendly pharmacy audit"},
+  "Benefits / plan manager":        {k:"benefits_mgr", branch:"buyer",   base:18,
+    h:"The clauses that let you actually run the review",
+    cta:"Request a reporting & audit-rights check → team@rxbs.org",
+    subj:"Audit-rights & reporting check"},
+  "Broker / Consultant":            {k:"broker",       branch:"partner", base:0,
+    h:"Make your next client's PBM review the one they remember",
+    cta:"Start a partner conversation → team@rxbs.org",
+    subj:"Broker partnership"},
+  "Other (TPA / pharmacy / vendor)":{k:"other",        branch:"nurture", base:0,
+    h:"Keep the analysis coming",
+    cta:"Subscribe (free) → benefitblindspots.substack.com",
+    subj:""}
+};
+const SIZE = {"Fewer than 100":0,"100–499":10,"500–2,499":20,"2,500–9,999":25,"10,000+":18};
+
+const r = TABLE[inputData.role] || TABLE["Other (TPA / pharmacy / vendor)"];
+const sizeScore = SIZE[inputData.size] || 0;
+let tier;
+if (r.branch === "partner")      tier = "PARTNER";
+else if (r.branch === "nurture") tier = "NURTURE";
+else {
+  const total = r.base + sizeScore;
+  tier = total >= 45 ? "SQL" : total >= 25 ? "MQL" : "LEAD";
+}
+const score = r.branch === "buyer" ? r.base + sizeScore : 0;
+const alert = (tier === "SQL" || tier === "PARTNER") ? "yes" : "no";
+
+output = [{
+  role_key: r.k, branch: r.branch, score, tier, alert,
+  offer_headline: r.h, offer_cta: r.cta,
+  booking_subject: r.subj ? r.subj + " — " + (inputData.company || "") : ""
+}];
 ```
-{{first_name}},
 
-You have run a few of these worksheets now. Each one surfaces one revenue stream. The version we run for clients totals all five into one dollar figure you can take to renewal.
+`offer_body` is long; keep it in the email template via a tiny second Formatter Lookup keyed on `role_key → body`, or store it in a small CMS `role_offers` collection. The headline + CTA + subject from the Code step carry most of the contextual feel.
 
-Two ways forward:
+---
 
-1. Keep using the worksheets. They are yours, free, forever.
-2. Have us run the full Contract Review: we pull your claims and contract, document every stream, and hand you the number and the redlines.
+## 6. Role-branched Email 5 — the close (full copy)
 
-If the second one is useful, reply or email team@rxbs.org, subject "Contract gut-check: {{company}}." Twenty minutes tells us both whether there is anything worth pursuing.
+Same Day-14 slot; the body changes by role. Buyers get an audit invitation contextual to their offer; the broker gets the partner fork (never an audit pitch); Other gets nurtured to Substack.
 
-Ginny Crisp, PharmD
-```
-
-HR / Benefits:
-```
-{{first_name}},
-
-These worksheets cover the pieces. The full Contract Review is the version that also gives you the fiduciary documentation and the member-impact read, the part that protects the plan and the people on it.
-
-Two ways forward:
-
-1. Keep the worksheets. Yours, free.
-2. We run the full review and hand you (and your CFO) the documented findings.
-
-Worth 20 minutes? Reply or email team@rxbs.org, subject "Contract gut-check: {{company}}." Looping in your finance lead is welcome.
-
-Ginny Crisp, PharmD
-```
-
-CEO / Owner:
+**CEO / Owner:**
 ```
 {{first_name}},
 
 Five revenue streams flow from your plan to your PBM. Most companies track one. The worksheets you have been pulling each open one of them.
 
-If you want to know what all five total for your plan, that is the Contract Review: we pull the claims and the contract and show you the number, in plain English, with what to do about it.
+If you want to know what all five total for your plan, that is the call: 15 minutes, in plain English, where you are most exposed and whether it is worth acting on this year. No deck.
 
-Reply or email team@rxbs.org, subject "Contract gut-check: {{company}}." Twenty minutes.
+Reply, or email team@rxbs.org, subject "PBM exposure read: {{company}}."
 
 Ginny Crisp, PharmD
 ```
 
-Broker / Consultant (partner — NOT an audit pitch):
+**CFO / Finance leader:**
+```
+{{first_name}},
+
+You have run a few of these worksheets now. Each one surfaces one revenue stream. The version we run for clients totals all five into one dollar figure you can take to renewal.
+
+We review hundreds of PBM contracts a year, and the same handful of line items run high on nearly every one. Send your last 12 months of pharmacy claims and we will pressure-test them against what we see in the market. You get a number, not a narrative.
+
+Reply, or email team@rxbs.org, subject "Pharmacy spend pressure-test: {{company}}." Twenty minutes tells us both whether there is anything worth pursuing.
+
+Ginny Crisp, PharmD
+```
+
+**HR / Benefits leader:**
+```
+{{first_name}},
+
+These worksheets cover the pieces. The full review also gives you the fiduciary documentation and the member-impact read, the part that protects the plan and the people on it.
+
+Here is the part that matters most: most of the savings we find never touch the member. We will show you which levers are invisible to your employees before you decide anything.
+
+Worth 20 minutes? Reply, or email team@rxbs.org, subject "Member-friendly pharmacy audit: {{company}}." Looping in your finance lead is welcome.
+
+Ginny Crisp, PharmD
+```
+
+**Benefits / plan manager:**
+```
+{{first_name}},
+
+If you have ever asked your PBM for data and gotten a runaround, the problem is usually the contract, not your rep.
+
+We will check your audit-rights and reporting language and tell you exactly what you are entitled to ask for, with the paste-ready request you can send the same day.
+
+Reply, or email team@rxbs.org, subject "Audit-rights & reporting check: {{company}}."
+
+Ginny Crisp, PharmD
+```
+
+**Broker / Consultant (partner — NOT an audit pitch):**
 ```
 {{first_name}},
 
 You clearly run real PBM oversight for your clients. These worksheets are built to make that work sharper, and you are welcome to use them in your client reviews.
 
-When a client needs an independent contract or claims audit to back the conversation, that is what we do, as your bench, not in front of you. Plenty of brokers bring us in on the engagements where an outside audit carries more weight.
+When a client needs an independent contract or claims audit to back the conversation, that is what we do, as your bench, not in front of you. Co-branded deliverables, your logo, your meeting. The line-by-line audit is on us. Plenty of brokers bring us in where an outside audit carries more weight.
 
-If that is useful, reply or email team@rxbs.org, subject "Partner intro: {{company}}." Happy to walk through how it works.
+If that is useful, reply, or email team@rxbs.org, subject "Broker partnership: {{firm}}." Happy to walk through how it works.
 
 Ginny Crisp, PharmD
 ```
 
-## 8. Build order (fastest path to more closes)
-1. **Speed-to-lead alert + pipeline Sheet + the score step** (§5-6). Highest leverage; ~½ day in Zapier.
-2. **Add CEO role + company-size field** to the Wix form.
-3. **Role-branch Email 5** (copy above), then Email 4 CTA, then Emails 1-3 proof/asset swaps + the broker fork.
-4. A/B Email 1 subject + the close-CTA placement after 30 days of data.
+**Other (TPA / pharmacy / vendor) — nurture:**
+```
+{{first_name}},
 
-## 9. Metrics that matter
-By role: download → Email-1 open → consult-mailto click → call → proposal → closed; broker → clients referred. Headline = **calls booked** and **audits won**, not open rates. Seed the Sheet with the 3 current pipeline leads so the funnel has a baseline.
+The deepest version of this work lives in two places, both free:
+
+The Pharmacy Benefits Briefing (LinkedIn) and Benefit Blind Spots (Substack). Every week: one PBM mechanism decoded, one thing you can actually do about it.
+
+→ benefitblindspots.substack.com
+
+Ginny Crisp, PharmD
+```
+
+---
+
+## 7. Build order (fastest path to more closes)
+1. **Form:** add the 6-option `Role` dropdown + the 5-band `Number of employees` dropdown (buyer-only show/hide already coded in `velo_toolkit_page_code.js`); add `size` Text field to the ToolkitLeads collection; Publish.
+2. **Closing layer first** (½ day): the Google Sheet + the Code scorer + the Sheets row + the separate alert Zap — see `closing_layer_spec.md`. Highest leverage.
+3. **Contextual Email 4/5** — wire `{{offer_headline}}` / `{{offer_cta}}` / `{{booking_subject}}` into Email 4 and Email 5; paste the §6 role variants. Phase 2, after the alert/tracking layer is live.
+
+---
+
+## 8. What's deliberately NOT in v1
+- No per-role *different toolkit PDF* — they get the toolkit they asked for. Role only changes the close.
+- No calendar/scheduler — booking is the `team@rxbs.org` mailto with a pre-filled subject.
+- No path explosion in Zapier — one Code step + a couple merge fields, not six branches.
+- Broker track is a *partnership*, not a discount. Keep it that way.
+- Engagement re-scoring (second-download +25, consult-click +40, renewal-month +15) is Phase 2.
