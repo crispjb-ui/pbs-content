@@ -1,6 +1,6 @@
 # Piece 1 Draft — Spread Pricing
 
-**Status:** Working draft. ~930 words. Piece 1 of the HEALTH CARE un-covered contributorship roster (follows the Opening/Map piece). Drafted June 2026. Fact-checked + bill named (June 2026).
+**Status:** Working draft. ~980 words. Piece 1 of the HEALTH CARE un-covered contributorship roster (follows the Opening/Map piece). Drafted June 2026. Fact-checked + bill named (June 2026).
 **Companion docs:** `wendell_potter_piece_outlines.md` (Piece 1 outline), `wendell_potter_piece_00_opening_draft.md` (the Map this calls back to), `wendell_potter_contributorship_strategy.md`
 **Author:** Ginny Crisp, PharmD — Prescription Benefit Solutions
 **Destination:** HEALTH CARE un-covered (Wendell Potter), Piece 1 (Spread Pricing), Act II — The Mechanisms
@@ -17,7 +17,7 @@ In the Opening piece I laid out the five revenue streams that run through every 
 
 A wholesaler that charges retail to its customer, pays wholesale to its supplier, and keeps the difference is running an honest business, as long as the customer knows the markup is there. Spread pricing is that same trade with one change that turns it into something else. The customer never sees the markup, and the contract was written to keep it that way.
 
-Here is how it works inside a PBM contract. The plan agrees to reimburse the PBM for each prescription on one pricing schedule, often a MAC list the PBM maintains and revises. The PBM reimburses the dispensing pharmacy on a different schedule. The plan sees its number. The pharmacy sees its number. The PBM sees both and keeps the gap between them. CVS Caremark, Express Scripts, and OptumRx, the three companies that process the large majority of prescriptions in this country, all carry this structure in commercial contracts. In the agreements I review, those two pricing schedules are almost never printed in the same exhibit, and the contract rarely requires the PBM to report the difference at all. Spread is not hidden in the sense of being illegal. It is hidden in the sense that you cannot reconstruct it from the documents you were given.
+Here is how it works inside a PBM contract. The plan agrees to reimburse the PBM for each prescription on one pricing schedule. For generic drugs that schedule is usually a MAC list, short for maximum allowable cost. It sounds like an objective benchmark. It is the PBM's own list of ceiling prices, which the PBM sets and revises. The PBM reimburses the dispensing pharmacy on a different schedule. The plan sees its number. The pharmacy sees its number. The PBM sees both and keeps the gap between them. CVS Caremark, Express Scripts, and OptumRx, the three companies that process the large majority of prescriptions in this country, all carry this structure in commercial contracts. In the agreements I review, those two pricing schedules are almost never printed in the same exhibit, and the contract rarely requires the PBM to report the difference at all. Spread is not hidden in the sense of being illegal. It is hidden in the sense that you cannot reconstruct it from the documents you were given.
 
 The Federal Trade Commission has already documented this. In its January 2025 staff report, the FTC found that the three largest PBMs generated an estimated $1.4 billion from spread pricing, billing plan-sponsor clients more than they reimbursed pharmacies, on a single category of specialty generic drugs over a six-year window. That is spread alone, on one slice of the drug spend. The diagnostic work is finished, by the regulator, on the record.
 
@@ -29,7 +29,7 @@ This is the place to be precise about what kind of problem this is. Spread is no
 
 I see spread-pricing language in nearly every contract I audit. Most plan sponsors do not know it is there until someone reads the definitions section out loud.
 
-The fix is narrow and within reach. Mandatory per-NDC spread disclosure at the PBM level: for each drug, the price the plan paid and the price the pharmacy received, reported quarterly. File those reports with state Departments of Insurance, and give plan sponsors access to their own data by right, not by negotiation. The groundwork is already laid. The FTC built the factual record through its multi-year study of the industry, and in 2024 it opened a Section 5 enforcement case against these same three PBMs. A disclosure requirement is the logical next step on that track. And if the agency will not carry it there, the bipartisan Pharmacy Benefit Manager Transparency Act, reintroduced in February 2025 by Senators Grassley and Cantwell, would put the same requirement into statute: it bans spread pricing outright and requires PBMs to report what they take through it. It is now before the Senate Commerce Committee; a nearly identical bill cleared that committee last Congress and went no further. The evidence is in hand. What is missing is the order, or the vote.
+The fix is narrow and within reach. Mandatory spread disclosure at the PBM level, reported drug by drug, each quarter. Every medication carries a National Drug Code, a unique product identifier, so the rule can require the spread per NDC, per product, rather than as a blended average that buries the worst cases. For each drug: the price the plan paid and the price the pharmacy received. File those reports with state Departments of Insurance, and give plan sponsors access to their own data by right, not by negotiation. The groundwork is already laid. The FTC built the factual record through its multi-year study of the industry, and in 2024 it opened a Section 5 enforcement case against these same three PBMs. A disclosure requirement is the logical next step on that track. And if the agency will not carry it there, the bipartisan Pharmacy Benefit Manager Transparency Act, reintroduced in February 2025 by Senators Grassley and Cantwell, would put the same requirement into statute: it bans spread pricing outright and requires PBMs to report what they take through it. It is now before the Senate Commerce Committee; a nearly identical bill cleared that committee last Congress and went no further. The evidence is in hand. What is missing is the order, or the vote.
 
 In my view this is the cleanest reform on the table, and the first one the FTC should move, because the agency already did the hard part. It documented the mechanic. What remains is to require that the mechanic be shown. A markup the customer can see is a price. A markup the customer cannot see, embedded in a contract built to keep it that way, is something the federal regulator now has both the evidence and the authority to end.
 
@@ -102,7 +102,7 @@ Per CLAUDE.md (Apr 19 Humanize Check) + the Wendell voice rules (strategy doc):
 
 ## Length check
 
-Article body word count: ~930 words. Within Wendell's 800-1,000 range.
+Article body word count: ~980 words. Within Wendell's 800-1,000 range.
 
 ---
 
