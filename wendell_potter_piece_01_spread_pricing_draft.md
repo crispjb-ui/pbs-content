@@ -1,6 +1,6 @@
 # Piece 1 Draft — Spread Pricing
 
-**Status:** Working draft. ~980 words. Piece 1 of the HEALTH CARE un-covered contributorship roster (follows the Opening/Map piece). Drafted June 2026. Fact-checked + bill named (June 2026).
+**Status:** Working draft. ~995 words. Piece 1 of the HEALTH CARE un-covered contributorship roster (follows the Opening/Map piece). Drafted June 2026. Fact-checked + bill named (June 2026).
 **Companion docs:** `wendell_potter_piece_outlines.md` (Piece 1 outline), `wendell_potter_piece_00_opening_draft.md` (the Map this calls back to), `wendell_potter_contributorship_strategy.md`
 **Author:** Ginny Crisp, PharmD — Prescription Benefit Solutions
 **Destination:** HEALTH CARE un-covered (Wendell Potter), Piece 1 (Spread Pricing), Act II — The Mechanisms
@@ -102,7 +102,7 @@ Per CLAUDE.md (Apr 19 Humanize Check) + the Wendell voice rules (strategy doc):
 
 ## Length check
 
-Article body word count: ~980 words. Within Wendell's 800-1,000 range.
+Article body word count: ~995 words. Within Wendell's 800-1,000 range.
 
 ---
 
