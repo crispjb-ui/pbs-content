@@ -19,17 +19,17 @@ A wholesaler that charges retail to its customer, pays wholesale to its supplier
 
 Here is how it works inside a PBM contract. The plan agrees to reimburse the PBM for each prescription on one pricing schedule, often a MAC list the PBM maintains and revises. The PBM reimburses the dispensing pharmacy on a different schedule. The plan sees its number. The pharmacy sees its number. The PBM sees both and keeps the gap between them. CVS Caremark, Express Scripts, and OptumRx, the three companies that process the large majority of prescriptions in this country, all carry this structure in commercial contracts. In the agreements I review, those two pricing schedules are almost never printed in the same exhibit, and the contract rarely requires the PBM to report the difference at all. Spread is not hidden in the sense of being illegal. It is hidden in the sense that you cannot reconstruct it from the documents you were given.
 
-The Federal Trade Commission has already documented this. Its 2024 staff report on pharmacy benefit managers laid out the spread mechanic and quantified markups on specific drugs that ran well above what the pharmacy was paid to acquire and dispense them. The diagnostic work is finished, by the regulator, on the record.
+The Federal Trade Commission has already documented this. In its January 2025 staff report, the FTC found that the three largest PBMs generated an estimated $1.4 billion from spread pricing, billing plan-sponsor clients more than they reimbursed pharmacies, on a single category of specialty generic drugs over a six-year window. That is spread alone, on one slice of the drug spend. The diagnostic work is finished, by the regulator, on the record.
 
 The industry's trade association, PCMA, calls spread pricing "risk transfer." The claim is that a PBM quoting a fixed price to a small or mid-size plan absorbs the risk of drug-cost swings, and the spread is the premium for carrying it. There is a legitimate version of risk transfer. This is not it. When the same entity sets the price the plan pays, sets the price the pharmacy receives, keeps the difference, and has no contractual obligation to disclose the size of that difference, that is not a party absorbing risk. That is a party writing both sides of a trade it never has to explain.
 
-None of the current transparency rules reach this cleanly. State disclosure laws exist, but they vary widely and stop at state lines, so a plan with members in several states gets a patchwork and a false sense of coverage. For self-funded employer plans, which cover most insured workers in the country, ERISA preemption frustrates much of the state action, and the federal floor that would replace it has not been built. Contract opacity finishes the job. A plan sponsor cannot audit a number the agreement never required the PBM to produce.
+None of the current transparency rules reach this cleanly. State disclosure laws exist, but they vary widely and stop at state lines, so a plan with members in several states gets a patchwork and a false sense of coverage. For self-funded employer plans, which cover 63 percent of workers with employer health coverage, ERISA preemption frustrates much of the state action, and the federal floor that would replace it has not been built. Contract opacity finishes the job. A plan sponsor cannot audit a number the agreement never required the PBM to produce.
 
 This is the place to be precise about what kind of problem this is. Spread is not a rogue actor overcharging in the dark. It is a designed feature of a standard contract, signed by sophisticated parties, operating exactly as written. That is why naming a villain does not fix it, and why disclosure does. The reform is structural because the deception is structural.
 
 I see spread-pricing language in nearly every contract I audit. Most plan sponsors do not know it is there until someone reads the definitions section out loud.
 
-The fix is narrow and within reach. Mandatory per-NDC spread disclosure at the PBM level: for each drug, the price the plan paid and the price the pharmacy received, reported quarterly. File those reports with state Departments of Insurance, and give plan sponsors access to their own data by right, not by negotiation. The enforcement instrument already exists. The FTC can require this in a final order under its Section 5 authority over unfair and deceptive practices, with no new statute required. The 2024 report is the factual basis. The order is the part that is missing.
+The fix is narrow and within reach. Mandatory per-NDC spread disclosure at the PBM level: for each drug, the price the plan paid and the price the pharmacy received, reported quarterly. File those reports with state Departments of Insurance, and give plan sponsors access to their own data by right, not by negotiation. The groundwork is already laid. The FTC built the factual record through its multi-year study of the industry, and in 2024 it opened a Section 5 enforcement case against these same three PBMs. A disclosure requirement is the logical next step on that track. And if the agency will not carry it there, the bipartisan bills to ban and disclose spread pricing, introduced in Congress in successive sessions, would put the same requirement into statute. The evidence is in hand. What is missing is the order, or the vote.
 
 In my view this is the cleanest reform on the table, and the first one the FTC should move, because the agency already did the hard part. It documented the mechanic. What remains is to require that the mechanic be shown. A markup the customer can see is a price. A markup the customer cannot see, embedded in a contract built to keep it that way, is something the federal regulator now has both the evidence and the authority to end.
 
@@ -79,24 +79,29 @@ Per CLAUDE.md (Apr 19 Humanize Check) + the Wendell voice rules (strategy doc):
 - **Named adversaries by company:** CVS Caremark, Express Scripts, OptumRx, PCMA. Not "the Big 3."
 - **Opinion stated openly, anchored:** "In my view this is the cleanest reform on the table..." sits next to "I see spread-pricing language in nearly every contract I audit."
 - **Prescriptive ending with named regulator + instrument:** FTC final order under Section 5 authority; quarterly per-NDC filing with state Departments of Insurance; plan sponsor access by right. No new statute required.
-- **No fabricated statistics:** no invented percentages (the PCMA "80% of the gap" line from the outline was cut to comply). The one quantitative claim (FTC documented markups above acquisition cost) is attributed to the FTC and flagged for exact sourcing below.
+- **No fabricated statistics:** no invented percentages (the PCMA "80% of the gap" line from the outline was cut to comply). The two quantitative claims are sourced public-record figures: $1.4B spread pricing (FTC Jan 2025 report) and 63% self-funded share (KFF 2024) — see Sources below.
 - **Em-dash rule:** no em-dashes or hyphens as sentence separators; compound hyphens only (pass-through, self-funded, per-NDC, mid-size, drug-cost).
 - **AI-tell blacklist:** none present.
 - **Broker sensitivity:** brokers not mentioned (policymaker register; broker angle lives in cascade-week PBS content).
 
 ---
 
-## Fact-check before submission (per outline §Fact-Check Notes)
+## Fact-check — researched June 2026 (sources below)
 
-1. **FTC 2024 report figures:** confirm the exact spread/markup findings in the July 9, 2024 interim staff report ("Pharmacy Benefit Managers: The Powerful Middlemen Inflating Drug Costs and Squeezing Main Street Pharmacies") before keeping the "quantified markups... well above what the pharmacy was paid" line; the Jan 2025 second interim report on specialty generics carries the highest documented markups and may be the better citation. Swap in the exact, sourced figure or keep the qualitative attribution.
-2. **Section 5 authority framing:** confirm current characterization of FTC Section 5 authority to compel per-NDC disclosure via final order; if counsel prefers, soften to "the FTC has the authority to act on its own findings."
-3. **"Most insured workers are in self-funded plans":** confirm the current KFF/EBRI self-funded-share figure before publication, or keep the qualitative "most insured workers."
+1. **FTC spread figure — VERIFIED, now sourced.** Body cites the **$1.4 billion from spread pricing** the Big 3 generated on specialty generic drugs (2017–2022), from the FTC's **Second Interim Staff Report, January 2025**. This is the spread-specific figure (billing plan sponsors more than they reimbursed pharmacies), which keeps the piece precisely on stream #1 and does NOT conflate it with the separate **$7.3 billion** the affiliated pharmacies earned *over acquisition cost* (that markup is owned-pharmacy margin, stream #5, reserved for Piece 9). The first report (July 9, 2024) documented ~$1.6B in excess dispensing revenue on two cancer drugs and the ~80% top-3 prescription share, also available if a second data point is wanted.
+2. **Mechanism — REVISED for accuracy.** The original "FTC final order under Section 5, no new statute required" overstated it: the PBM reports came from the FTC's **6(b) market study** (not enforcement), and a *blanket industry-wide* disclosure mandate via a single Section 5 order is not clean. Revised to the accurate two-track framing: the FTC built the record via the 6(b) study, **opened a Section 5 enforcement case against the three PBMs in 2024** (the GPO/insulin action), and a disclosure requirement is the next step on that track — with **bipartisan spread-pricing bills in Congress** as the statutory path if the agency does not act. (Confirm the specific live bill number in the 119th Congress before publication if a citation is wanted.)
+3. **Self-funded share — VERIFIED.** "63 percent of workers with employer health coverage are in self-funded plans" — **KFF 2024 Employer Health Benefits Survey** (63% of covered workers; 79% at large firms, 20% at small firms).
+
+**Sources:**
+- FTC, *Second Interim Staff Report on Prescription Drug Middlemen* (Jan 2025): https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-releases-second-interim-staff-report-prescription-drug-middlemen — $1.4B spread pricing; markups of hundreds-to-thousands of percent; $7.3B over acquisition cost (2017–2022).
+- FTC, *Interim Staff Report on Prescription Drug Middlemen* (Jul 9, 2024): https://www.ftc.gov/news-events/news/press-releases/2024/07/ftc-releases-interim-staff-report-prescription-drug-middlemen — top-3 ~80% of prescriptions; ~$1.6B excess on two cancer drugs.
+- KFF, *2024 Employer Health Benefits Survey* (self-funded = 63% of covered workers): https://www.kff.org/health-costs/2024-employer-health-benefits-survey/
 
 ---
 
 ## Length check
 
-Article body word count: ~860 words. Within Wendell's 800-1,000 range.
+Article body word count: ~897 words. Within Wendell's 800-1,000 range.
 
 ---
 
