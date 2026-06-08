@@ -114,52 +114,53 @@ Worked examples: CEO + 500–2,499 = 50 → SQL. CFO + 2,500–9,999 = 55 → SQ
 
 Add one **Code by Zapier** step right after the CMS lookup (Step 2), keyed on `role` + `size`. Returns the tier, score, alert flag, and the contextual offer fields in one step.
 
+**Robust matching (added Jun 8):** the scorer matches role by **keyword** and size by **number**, not by exact label. So the dropdown wording can read "HR / Benefits leader" or "HR Director / Benefits leader," and the size band can use an en-dash, a hyphen, or commas — scoring still works. You don't have to make the form labels match the code character-for-character.
+
 ```javascript
 // Code by Zapier — input variables: role (text), size (text), company (text)
-const TABLE = {
-  "CEO / Owner":                    {k:"ceo",          branch:"buyer",   base:30,
-    h:"Where your plan is most exposed, in 15 minutes",
-    cta:"Book a 15-minute exposure read → team@rxbs.org",
-    subj:"PBM exposure read"},
-  "CFO / Finance leader":           {k:"cfo",          branch:"buyer",   base:30,
-    h:"The three line items most likely overcharged on your plan",
-    cta:"Request a pharmacy spend pressure-test → team@rxbs.org",
-    subj:"Pharmacy spend pressure-test"},
-  "HR / Benefits leader":           {k:"hr",           branch:"buyer",   base:25,
-    h:"Find the savings without changing your members' experience",
-    cta:"Book a member-disruption-free audit → team@rxbs.org",
-    subj:"Member-friendly pharmacy audit"},
-  "Benefits / plan manager":        {k:"benefits_mgr", branch:"buyer",   base:18,
-    h:"The clauses that let you actually run the review",
-    cta:"Request a reporting & audit-rights check → team@rxbs.org",
-    subj:"Audit-rights & reporting check"},
-  "Broker / Consultant":            {k:"broker",       branch:"partner", base:0,
-    h:"Make your next client's PBM review the one they remember",
-    cta:"Start a partner conversation → team@rxbs.org",
-    subj:"Broker partnership"},
-  "Other (TPA / pharmacy / vendor)":{k:"other",        branch:"nurture", base:0,
-    h:"Keep the analysis coming",
-    cta:"Subscribe (free) → benefitblindspots.substack.com",
-    subj:""}
-};
-const SIZE = {"Fewer than 100":0,"100–499":10,"500–2,499":20,"2,500–9,999":25,"10,000+":18};
-
-const r = TABLE[inputData.role] || TABLE["Other (TPA / pharmacy / vendor)"];
-const sizeScore = SIZE[inputData.size] || 0;
-let tier;
-if (r.branch === "partner")      tier = "PARTNER";
-else if (r.branch === "nurture") tier = "NURTURE";
-else {
-  const total = r.base + sizeScore;
-  tier = total >= 45 ? "SQL" : total >= 25 ? "MQL" : "LEAD";
+function roleKey(r){ r = (r || '').toLowerCase();
+  if (/broker|consult/.test(r))        return 'broker';
+  if (/ceo|owner|president/.test(r))   return 'ceo';
+  if (/cfo|finance/.test(r))           return 'cfo';
+  if (/manager|administrat/.test(r))   return 'benefits_mgr';   // before hr: "Benefits / plan manager"
+  if (/hr|benefits|people/.test(r))    return 'hr';
+  return 'other';
 }
-const score = r.branch === "buyer" ? r.base + sizeScore : 0;
-const alert = (tier === "SQL" || tier === "PARTNER") ? "yes" : "no";
+function sizeScore(s){ s = (s || '').toLowerCase().replace(/[,\s]/g,'');
+  if (/fewer|under|less|<100/.test(s)) return 0;
+  if (s.includes('10000')) return 18;   // 10,000+
+  if (s.includes('2500'))  return 25;   // 2,500–9,999  (check before 500)
+  if (s.includes('500'))   return 20;   // 500–2,499
+  if (s.includes('100'))   return 10;   // 100–499
+  return 0;
+}
+const OFFER = {
+  ceo:         {branch:'buyer',  base:30, h:"Where your plan is most exposed, in 15 minutes",
+                cta:"Book a 15-minute exposure read → team@rxbs.org",        subj:"PBM exposure read"},
+  cfo:         {branch:'buyer',  base:30, h:"The three line items most likely overcharged on your plan",
+                cta:"Request a pharmacy spend pressure-test → team@rxbs.org", subj:"Pharmacy spend pressure-test"},
+  hr:          {branch:'buyer',  base:25, h:"Find the savings without changing your members' experience",
+                cta:"Book a member-disruption-free audit → team@rxbs.org",    subj:"Member-friendly pharmacy audit"},
+  benefits_mgr:{branch:'buyer',  base:18, h:"The clauses that let you actually run the review",
+                cta:"Request a reporting & audit-rights check → team@rxbs.org",subj:"Audit-rights & reporting check"},
+  broker:      {branch:'partner',base:0,  h:"Make your next client's PBM review the one they remember",
+                cta:"Start a partner conversation → team@rxbs.org",           subj:"Broker partnership"},
+  other:       {branch:'nurture',base:0,  h:"Keep the analysis coming",
+                cta:"Subscribe (free) → benefitblindspots.substack.com",      subj:""}
+};
+
+const k = roleKey(inputData.role);
+const o = OFFER[k];
+let tier, score = 0;
+if (o.branch === 'partner')      tier = 'PARTNER';
+else if (o.branch === 'nurture') tier = 'NURTURE';
+else { score = o.base + sizeScore(inputData.size); tier = score >= 45 ? 'SQL' : score >= 25 ? 'MQL' : 'LEAD'; }
+const alert = (tier === 'SQL' || tier === 'PARTNER') ? 'yes' : 'no';
 
 output = [{
-  role_key: r.k, branch: r.branch, score, tier, alert,
-  offer_headline: r.h, offer_cta: r.cta,
-  booking_subject: r.subj ? r.subj + " — " + (inputData.company || "") : ""
+  role_key: k, branch: o.branch, score, tier, alert,
+  offer_headline: o.h, offer_cta: o.cta,
+  booking_subject: o.subj ? o.subj + " — " + (inputData.company || "") : ""
 }];
 ```
 
