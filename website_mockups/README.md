@@ -18,3 +18,10 @@ visual + copy spec; all section copy is paste-ready.
 
 No fabricated stats: proof anchors are real ("hundreds of contracts a year,"
 1,000+ briefing subscribers, as-seen-on Potter/Derm Docs, Ginny Crisp, PharmD).
+
+## Direction variants (pick a feel)
+- `v2_editorial.html` — light, spacious "trusted advisor / publication." Authority via whitespace + a proof strip.
+- `v3_decoder.html` — dark, with a marked-up contract card (redline annotation). Leans into the LinkedIn content signature; most ownable/differentiated.
+- `v4_conversion.html` — lead-magnet landing: hero = the toolkit offer + a role-segmented capture form. Optimized purely for capture.
+- `v5_data.html` — numbers-forward dashboard: a KPI band (PBS anchors + attributed FTC figures) and a "what we find" grid. Authority via data.
+Each has a matching `preview_*.png`. Minor known fix across variants: give the Accent-blue nav "Book a Review" button Primary-Blue text (light-on-accent is low contrast).
