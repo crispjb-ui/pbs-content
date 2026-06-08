@@ -157,11 +157,13 @@ else if (o.branch === 'nurture') tier = 'NURTURE';
 else { score = o.base + sizeScore(inputData.size); tier = score >= 45 ? 'SQL' : score >= 25 ? 'MQL' : 'LEAD'; }
 const alert = (tier === 'SQL' || tier === 'PARTNER') ? 'yes' : 'no';
 
-output = [{
+// Zapier "Run JavaScript" wraps this in an async function and expects a `return`
+// (its placeholder is `return {hello:"world"}`). Return a single object.
+return {
   role_key: k, branch: o.branch, score, tier, alert,
   offer_headline: o.h, offer_cta: o.cta,
   booking_subject: o.subj ? o.subj + " — " + (inputData.company || "") : ""
-}];
+};
 ```
 
 `offer_body` is long; keep it in the email template via a tiny second Formatter Lookup keyed on `role_key → body`, or store it in a small CMS `role_offers` collection. The headline + CTA + subject from the Code step carry most of the contextual feel.
