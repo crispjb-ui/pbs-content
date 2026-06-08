@@ -133,6 +133,7 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 $w.onReady(() => {
   const id = CONFIG.ids;
   let formCollapsed = false;   // true when one-click "Welcome back" hides the inputs; size must stay hidden too
+  let submitting = false;      // re-entrancy guard: blocks double-click double-submits (one POST per click)
 
   // Show/hide the input fields together WITHOUT needing the #formBox group, so the
   // fields can be ungrouped in the Editor (ungrouping lets Wix reflow the layout
@@ -225,6 +226,8 @@ $w.onReady(() => {
 
   // ---- Submit ----
   $w(id.button).onClick(async () => {
+    if (submitting) return;   // block rapid double-clicks — each submit is one Zapier POST = one email
+    submitting = true;
     hide(id.error);
 
     // Safety: ensure we have the current toolkit (covers a very fast click
@@ -246,7 +249,7 @@ $w.onReady(() => {
     };
 
     const problem = validate(lead);
-    if (problem) { showText(id.error, problem); return; }
+    if (problem) { showText(id.error, problem); submitting = false; return; }
 
     setBusy(id.button, true);
     try {
@@ -266,6 +269,7 @@ $w.onReady(() => {
       showText(id.error, 'Something went wrong sending the toolkit. Please try again, or email team@rxbs.org.');
     } finally {
       setBusy(id.button, false);
+      submitting = false;
     }
   });
 });
