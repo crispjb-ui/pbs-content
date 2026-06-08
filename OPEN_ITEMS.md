@@ -2,6 +2,14 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+## 🗓️ NEXT SESSION PLAN (set Jun 8 eve, for Jun 9) — run in this order
+1. **Load Tier 1 foundational toolkits into Wix.** 3 toolkits fully built (HTML/PDF/preview PNG/X PNG all present in `templates/documents/`: `evergreen_contract_review_readiness_checklist`, `evergreen_optimize_vs_go_to_market_decision_framework`, `evergreen_pbr_pharmacy_benefit_review_framework`). Rows spec'd in `email_gated_toolkit/toolkit_dataset.md`; bulk-import CSV is `email_gated_toolkit/toolkits_csv_for_wix_import.csv`. Wix work: upload the 3 PDFs + preview PNGs to Media; import/add the 3 CMS rows; add a **"Start Here · Foundational Frameworks"** section on the Toolkit Library page above the Tier 2 Repeater; verify each `rxbs.org/toolkit/<slug>` renders + the role-segmented form fires (now that the funnel is live).
+2. **Load the remaining Tier 2 toolkits.** Bulk-import CSV ready: `email_gated_toolkit/tier2_toolkits_for_wix_import_no_specialty.csv` (24 toolkits + header; the `_no_specialty` variant is the one to use unless specialty is wanted). Upload each toolkit's PDF + preview PNG to Media, populate `pdf_url`/`preview_image`, confirm landing pages render.
+3. **Revise the Toolkit Library mobile view.** Mockup at `website_mockups/toolkit-library.html`. Tighten the Repeater/cards for phone width (card stacking, tap targets, hero preview image legibility). Claude can produce a mobile-spec + revised mockup; Wix layout is the user's clicks.
+4. **Revise the PBS website.** `website_audit.md` (paste-ready fixes) + direction mockups `website_mockups/{home,v2_editorial,v3_decoder,v4_conversion,v5_data}.html`. **Decision still open:** which homepage direction (recommended V3 Decoder or V2 Editorial). Pick the direction first, then build it out + the Wix build guide.
+
+_Prep Claude can do ahead of time if asked: confirm CSV columns match the live Wix Toolkits collection schema; render any missing preview PNGs; draft the Toolkit Library mobile spec; build out the chosen website direction._
+
 ## 🟢 Email funnel: role-segmentation + closing layer — LIVE (built Jun 8, 2026)
 The role-segmented funnel + closing layer is **built and live in Wix/Zapier/Sheets**. What shipped this session:
 - **Wix form** (custom Velo, live path): 6-role dropdown + always-visible `#inputSize` (5 bands), buyer-only *requirement* via validate(); `showSizeForBuyersOnly:false` (Wix classic wouldn't reflow the collapse gap, so size shows for all; scorer ignores non-buyer size). Backend persists `size`; CMS `ToolkitLeads.size` field added. Published.
