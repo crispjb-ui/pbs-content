@@ -132,6 +132,7 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 $w.onReady(() => {
   const id = CONFIG.ids;
+  let formCollapsed = false;   // true when one-click "Welcome back" hides the inputs; size must stay hidden too
 
   // Show/hide the input fields together WITHOUT needing the #formBox group, so the
   // fields can be ungrouped in the Editor (ungrouping lets Wix reflow the layout
@@ -182,6 +183,7 @@ $w.onReady(() => {
 
     if (CONFIG.oneClickForReturning) {
       hideInputs();                     // hide the inputs entirely
+      formCollapsed = true;             // keep the size field hidden in this state
       setLabel(id.button, 'Get the worksheet instantly');
       show(id.editLink);                // "Not you? Enter different details"
     }
@@ -194,6 +196,7 @@ $w.onReady(() => {
   // If the flag is true (only inside a reflowing layout), it shows for buyers and
   // collapses for Broker/Other.
   function syncSizeField() {
+    if (formCollapsed) { hide(id.size); hide(id.sizeBox); return; }   // one-click "Welcome back" state
     if (!CONFIG.showSizeForBuyersOnly) { show(id.sizeBox); show(id.size); return; }
     if (isBuyerRole(getVal(id.role))) {
       show(id.sizeBox); show(id.size);
@@ -212,9 +215,10 @@ $w.onReady(() => {
     editEl.onClick(() => {
       local.removeItem(CONFIG.storageKey);
       clearVal(id.firstName); clearVal(id.email); clearVal(id.company); clearVal(id.role); clearVal(id.size);
+      formCollapsed = false;   // form is visible again
       hide(id.welcomeBack); hide(id.editLink);
       showInputs();
-      syncSizeField();   // role is now blank -> size collapses
+      syncSizeField();   // re-evaluate size visibility now that the form is shown
       setLabel(id.button, 'Get the Worksheet');
     });
   }
