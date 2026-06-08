@@ -44,9 +44,9 @@ summary.
 
 - Ginny
 
-Ginny Crisp, PharmD
-CEO, Prescription Benefit Solutions
-team@rxbs.org · rxbs.org · benefitblindspots.substack.com
+Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+team@rxbs.org
+www.rxbs.org
 ```
 
 ---

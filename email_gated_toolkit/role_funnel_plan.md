@@ -72,7 +72,7 @@ The toolkit they download is fixed (it's the page they're on). What's **contextu
 | **CFO / Finance leader** | *The three line items most likely overcharged on your plan* | We review hundreds of PBM contracts a year, and the same handful of line items run high on nearly every one. Send your last 12 months of pharmacy claims and we'll pressure-test them against what we see in the market. A number, not a narrative. | Request a pharmacy spend pressure-test → team@rxbs.org |
 | **HR / Benefits leader** | *Find the savings without changing your members' experience* | The fear with any pharmacy change is member disruption: angry calls, switched drugs, a buried benefits team. Most of the savings we find never touch the member. We'll show you which levers are invisible to employees before you decide anything. | Book a member-disruption-free audit → team@rxbs.org |
 | **Benefits / plan manager** | *The clauses that let you actually run the review* | If you've ever asked your PBM for data and gotten a runaround, the problem is usually your contract, not your rep. We'll check your audit-rights and reporting language and tell you exactly what you're entitled to ask for, with the paste-ready request. | Request a reporting & audit-rights check → team@rxbs.org |
-| **Broker / Consultant** | *Make your next client's PBM review the one they remember* | We work behind brokers, not around them. Bring us into a client's pharmacy review and you keep the relationship: we do the contract teardown, you deliver the win. Co-branded deliverables, your logo, your meeting. The line-by-line audit is on us. | Start a partner conversation → team@rxbs.org |
+| **Broker / Consultant** | *Make your next client's PBM review the one they remember* | We work behind brokers, not around them. If you ever want an extra set of hands, or there's a gap an independent contract or claims audit could fill, that's what we're here for. Behind you, not in front of you. No pitch, just an open door. | Start a partner conversation → team@rxbs.org |
 | **Other (TPA / pharmacy / vendor)** | *Keep the analysis coming* | The deepest version of this work lives in The Pharmacy Benefits Briefing and Benefit Blind Spots. Every week: one PBM mechanism decoded, one thing you can do about it. | Subscribe (free) → benefitblindspots.substack.com |
 
 Emails 1–3 stay role-agnostic (PDF delivery, the paired second toolkit, the Field Note) — useful to everyone, keeps the build simple. The **role swap lands in Email 4 and Email 5**, the conversion emails, via merge fields `{{offer_headline}}`, `{{offer_body}}`, `{{offer_cta}}`. `{{booking_subject}}` pre-fills the mailto so a reply lands organized.
@@ -190,11 +190,11 @@ Reply, or email team@rxbs.org, subject "Audit-rights & reporting check: ${co}."`
     subj:"Broker partnership",
     body:`${fn},
 
-You clearly run real PBM oversight for your clients. These worksheets are built to make that work sharper, and you're welcome to use them in your client reviews.
+You clearly run real PBM oversight for your clients, and these worksheets are built to make that work sharper. Use them in your client reviews however helps.
 
-When a client needs an independent contract or claims audit to back the conversation, that's what we do, as your bench, not in front of you. Co-branded deliverables, your logo, your meeting. The line-by-line audit is on us.
+If you ever want an extra set of hands, or there's a gap an independent contract or claims audit could fill, that's what we're here for. We work behind you, not in front of you. No pitch, just an open door.
 
-If that's useful, reply, or email team@rxbs.org, subject "Broker partnership: ${co}."`},
+Reach us anytime at team@rxbs.org, subject "PBS support: ${co}."`},
   other: {branch:'nurture', base:0,
     h:"Keep the analysis coming",
     cta:"Subscribe (free) → benefitblindspots.substack.com",
@@ -225,7 +225,16 @@ return {
 };
 ```
 
-**Email 5 wiring:** Body = `{{email5_body}}` (from the Code step) + fixed signature block; Subject = `{{offer_headline}}`. **Email 4 (lighter touch):** drop `{{offer_headline}}` / `{{offer_cta}}` into the existing Email 4 body near its CTA. The §6 copy below is the human-readable source for the `OFFER.body` fields above — edit there, then re-sync into the scorer.
+**Email 5 wiring:** Body = `{{email5_body}}` (from the Code step) + the standard signature block (below); Subject = `{{offer_headline}}`. **Email 4 (lighter touch):** drop `{{offer_headline}}` / `{{offer_cta}}` into the existing Email 4 body near its CTA. The §6 copy below is the human-readable source for the `OFFER.body` fields above — edit there, then re-sync into the scorer.
+
+**Standard signature (every email, 1–5):**
+```
+- Ginny
+
+Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+team@rxbs.org
+www.rxbs.org
+```
 
 ---
 
@@ -289,13 +298,17 @@ Ginny Crisp, PharmD
 ```
 {{first_name}},
 
-You clearly run real PBM oversight for your clients. These worksheets are built to make that work sharper, and you are welcome to use them in your client reviews.
+You clearly run real PBM oversight for your clients, and these worksheets are built to make that work sharper. Use them in your client reviews however helps.
 
-When a client needs an independent contract or claims audit to back the conversation, that is what we do, as your bench, not in front of you. Co-branded deliverables, your logo, your meeting. The line-by-line audit is on us. Plenty of brokers bring us in where an outside audit carries more weight.
+If you ever want an extra set of hands, or there is a gap an independent contract or claims audit could fill, that is what we are here for. We work behind you, not in front of you. No pitch, just an open door.
 
-If that is useful, reply, or email team@rxbs.org, subject "Broker partnership: {{firm}}." Happy to walk through how it works.
+Reach us anytime at team@rxbs.org, subject "PBS support: {{company}}."
 
-Ginny Crisp, PharmD
+- Ginny
+
+Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+team@rxbs.org
+www.rxbs.org
 ```
 
 **Other (TPA / pharmacy / vendor) — nurture:**
