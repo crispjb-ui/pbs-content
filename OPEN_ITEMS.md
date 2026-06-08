@@ -14,11 +14,16 @@ Plan committed at `email_gated_toolkit/role_funnel_plan.md`. Decisions locked: b
 **Spec is written and ready: `email_gated_toolkit/closing_layer_spec.md`** (copy-into-Zapier, ~½ day). **Build target: Monday.** Monday order: (1) create + seed the Google Sheet, (2) add `ceo` role + `size` field to the Wix form, (3) add the score step + Sheets row to the existing Zap, (4) build the 3-step alert Zap, (5) run the 4 tests. Role-branched email copy (in `role_funnel_plan.md`) is Phase 2, after the alert/tracking layer is live.
 
 ## 🟢 Brand-awareness pushes (specs ready, activate when bandwidth allows)
-- **Podcast outreach sprint** — `podcast_outreach_sprint.md`. Activate: 2-3 pitches/week using the "as seen on Potter + Derm Docs" credential, off the 49-show list in `podcast_pitching_guide.md`; every appearance CTAs to a toolkit (feeds the funnel). Highest-trust reach lever; ready to start.
+- **Podcast outreach sprint** — `podcast_outreach_sprint.md`. Activate: 2-3 pitches/week using the "as seen on Potter + Derms on Drugs" credential, off the 49-show list in `podcast_pitching_guide.md`; every appearance CTAs to a toolkit (feeds the funnel). Highest-trust reach lever; ready to start.
 - **Proprietary data report** — `pbm_contract_data_report_spec.md`. The flagship "what we see across hundreds of contracts" report (qualifiers, never fabricated %). Needs the lightweight review-tally to feed real numbers; then quarterly + annual flagship, gated + PR-pitched.
 - **Podcast → social clips** — `/clip-podcast` (YouTube link/transcript → 3-5 clip plan + per-platform copy + funnel CTA) + `social_clips/remotion_pbs_caption_template_spec.md` (build the branded caption template once in the Remotion project). Works off the public YouTube version — no host raw file needed. The repurposing engine for the podcast sprint.
 
 - **Website (rxbs.org) fixes** — `website_audit.md`. The funnel front door (Toolkit Library) exists but is buried in "More," unfinished (empty Tier-1 cards, low-contrast), the newsletter page is blank, and 3 pages show the default "Mysite" SEO title. Paste-ready fixes in the doc (titles/metas, hero CTA, promote Free Tools + Newsletter to main nav, proof + capture blocks, Contact reframe). Highest quick win: the title/meta set.
+
+## 🤝 Warm leads & earned-media (track to close)
+- **Chief People Officer intro (NEW, Jun 8 2026)** — the host of **Derms on Drugs** (Dr. Matthew Zirwas) is **introducing PBS to a Chief People Officer**. Warm, referred, decision-maker-tier lead. Next step: confirm the intro lands (email/call), send Ginny's one-line value frame + a relevant toolkit as the soft open, log into the pipeline tracker as a referred SQL when the funnel sheet goes live Monday. Highest-quality lead type (referred + senior + benefits-owner).
+- **Derms on Drugs guest spot** — Ginny booked/appearing on Dr. Zirwas's podcast. Reciprocal: the W23 Wed "A Dermatologist Explained PBMs Better Than Anyone in Pharmacy" POV post (Zirwas analogy, used with permission) is the on-platform tie-in. Feeds the "as featured on" credential across the website + podcast-sprint pitches. Clip it via `/clip-podcast` once the YouTube version posts.
+- **3 active lead calls** — all three engaged, still working to close. Keep warm; route each to the relevant toolkit + booking mailto.
 
 ## ⚙️ Automation cadence (scheduled workflows live)
 - **`/critique` → weekly** (Sun) via `.github/workflows/weekly-critique.yml`: auto-critiques the next week to ship, commits a report to `critique_reports/`.

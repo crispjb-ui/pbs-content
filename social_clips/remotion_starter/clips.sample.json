@@ -1,5 +1,5 @@
 {
-  "show": "The Derm Docs",
+  "show": "Derms on Drugs",
   "episodeUrl": "https://www.youtube.com/watch?v=EXAMPLE",
   "date": "2026-06-15",
   "sourceVideo": "source.mp4",
@@ -13,7 +13,7 @@
       "aspect": "9x16",
       "platform": "reels",
       "hookTitle": "Your rebates run through Switzerland",
-      "showName": "The Derm Docs",
+      "showName": "Derms on Drugs",
       "cta": { "text": "Free PBM contract toolkit", "url": "rxbs.org/toolkit/pbm-compensation" },
       "captions": [
         { "startSec": 412.0, "endSec": 415.4, "text": "Your PBM says it passes through 100% of rebates." },
@@ -29,7 +29,7 @@
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "1 in 5 generics, marked up 1,000%",
-      "showName": "The Derm Docs",
+      "showName": "Derms on Drugs",
       "cta": { "text": "The specialty audit worksheet", "url": "rxbs.org/toolkit/specialty-routing" },
       "captions": [
         { "startSec": 980.2, "endSec": 984.0, "text": "The FTC studied the generics PBMs mark up most." },

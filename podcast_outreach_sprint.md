@@ -3,10 +3,10 @@
 **Created June 2026.** The *execution* layer on top of `podcast_pitching_guide.md` (which holds the 49-show target list, the Priority 1/2/3 tiers, the 5 ready-made pitches, and the repurposing checklist). This doc turns that guide into a running sprint now that Ginny has earned-media proof to pitch with.
 
 ## Why now / the unlock
-Ginny is on (or booked for) **Wendell Potter's HEALTH CARE un-covered video podcast** and **The Derm Docs**. That changes every pitch from "unknown expert" to "recently featured on [named shows]." Podcasts are the highest trust-per-minute format for a consultant and reach **net-new audiences** the LinkedIn feed never touches. Each appearance compounds (Episode 1 makes Episode 2 easier) and feeds the toolkit funnel.
+Ginny is on (or booked for) **Wendell Potter's HEALTH CARE un-covered video podcast** and **Derms on Drugs**. That changes every pitch from "unknown expert" to "recently featured on [named shows]." Podcasts are the highest trust-per-minute format for a consultant and reach **net-new audiences** the LinkedIn feed never touches. Each appearance compounds (Episode 1 makes Episode 2 easier) and feeds the toolkit funnel.
 
 ## The credential stack (open every pitch with it)
-> *Ginny Crisp, PharmD, clinical pharmacist and CEO of Prescription Benefit Solutions, recently featured on Wendell Potter's HEALTH CARE un-covered and The Derm Docs. She reviews hundreds of PBM contracts a year and decodes what they actually say.*
+> *Ginny Crisp, PharmD, clinical pharmacist and CEO of Prescription Benefit Solutions, recently featured on Wendell Potter's HEALTH CARE un-covered and Derms on Drugs. She reviews hundreds of PBM contracts a year and decodes what they actually say.*
 
 ## Sprint cadence (steady, low-overhead)
 - **2–3 personalized pitches/week** (Mon research + send, per the guide's weekly cadence).
@@ -15,7 +15,7 @@ Ginny is on (or booked for) **Wendell Potter's HEALTH CARE un-covered video podc
 - Keep ~6 live pitches in flight at any time.
 
 ## Prioritized run order
-1. **Warm / adjacent first** (highest bookability): shows in Potter's orbit (health-policy, transparency) and Derm Docs' cross-promote network — name the shared connection.
+1. **Warm / adjacent first** (highest bookability): shows in Potter's orbit (health-policy, transparency) and Derms on Drugs' cross-promote network — name the shared connection.
 2. **Priority 1 list** (highest alignment + audience) from the guide — the buyer-adjacent shows (benefits, self-funded employer, HR/CFO, ERISA/fiduciary).
 3. **Priority 2**, then **Priority 3** niche shows to keep volume up between big gets.
 Pick the episode angle per show from the 5 ready pitches (Contract Nobody Reads · $2.1M Claim · GLP-1 for Employers · ERISA Fiduciary · 340B), tailored to the show's audience.

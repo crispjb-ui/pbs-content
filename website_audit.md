@@ -27,7 +27,7 @@ The good news: the toolkit lead-magnets, a real credentialed team, and the right
 
 ## 🟢 Trust + reach
 
-9. **Add proof.** "Our Story" is generic ("significant savings," "good hands"). Add the unfakeable anchors: **"We review hundreds of PBM contracts a year,"** the "as seen on" line (Wendell Potter's podcast, The Derm Docs), and any client outcomes/testimonials. This is what converts a skeptical CFO.
+9. **Add proof.** "Our Story" is generic ("significant savings," "good hands"). Add the unfakeable anchors: **"We review hundreds of PBM contracts a year,"** the "as seen on" line (Wendell Potter's podcast, Derms on Drugs), and any client outcomes/testimonials. This is what converts a skeptical CFO.
 10. **Use the team section.** Real PharmD credentials are a strength. Add 1-2 line bios, **LinkedIn links** (especially Ginny's — the newsletter/authority), so the team reads as the experts they are.
 11. **Email capture everywhere.** Newsletter signup ("The Pharmacy Benefits Briefing") in the footer + on the homepage, for visitors not ready to talk.
 12. **Social links.** Only a lone LinkedIn icon in Contact. Add LinkedIn (Ginny), X (@ginny_crisp), Substack to the footer.
@@ -60,7 +60,7 @@ Nav: **Home · Free Tools · Our Solutions · Insights · Our Team · Book a Rev
 > (3 cards → Toolkit Library) · Button: **Browse the Toolkit Library**
 
 ### Proof block (add to Our Story)
-> We review hundreds of PBM contracts a year. The same handful of gaps shows up in nearly every one. Our CEO Ginny Crisp, PharmD, decodes them weekly in The Pharmacy Benefits Briefing and recently on Wendell Potter's HEALTH CARE un-covered and The Derm Docs.
+> We review hundreds of PBM contracts a year. The same handful of gaps shows up in nearly every one. Our CEO Ginny Crisp, PharmD, decodes them weekly in The Pharmacy Benefits Briefing and recently on Wendell Potter's HEALTH CARE un-covered and Derms on Drugs.
 
 ### Newsletter capture block (homepage footer + the newsletter page)
 > **Heading:** Read your PBM contract like we do.

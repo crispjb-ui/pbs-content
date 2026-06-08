@@ -7,7 +7,7 @@ look; the PNGs are flattened previews. Hand these to whoever builds in Wix as th
 visual + copy spec; all section copy is paste-ready.
 
 - `home.html` — optimized homepage: hero **with CTA buttons**, "as featured on" trust
-  bar (Potter, Derm Docs, 1,000+ briefing readers), Free Tools teaser → Toolkit
+  bar (Potter, Derms on Drugs, 1,000+ briefing readers), Free Tools teaser → Toolkit
   Library, Solutions, the five-revenue-streams proof band, newsletter capture, team
   with bios/links, and a "book a gut-check" close. Fixes: no-CTA hero, hidden
   toolkits, no proof, no capture.
@@ -17,7 +17,7 @@ visual + copy spec; all section copy is paste-ready.
 - `preview_home.png`, `preview_toolkit_library.png` — flattened previews.
 
 No fabricated stats: proof anchors are real ("hundreds of contracts a year,"
-1,000+ briefing subscribers, as-seen-on Potter/Derm Docs, Ginny Crisp, PharmD).
+1,000+ briefing subscribers, as-seen-on Potter/Derms on Drugs, Ginny Crisp, PharmD).
 
 ## Direction variants (pick a feel)
 - `v2_editorial.html` — light, spacious "trusted advisor / publication." Authority via whitespace + a proof strip.
