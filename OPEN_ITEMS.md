@@ -2,16 +2,18 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
-## 🟡 Email funnel: role-segmentation + closing layer (SPEC + CODE READY — build in Wix/Zapier)
-Decisions locked (Jun 8): **6 declarative roles** (CEO / CFO / HR / Benefits mgr / Broker / Other — no "just researching"); **employee-count field shows for buyers only** (hidden for Broker/Other); **contextual offering by role** (CEO=exposure read, CFO=spend pressure-test, HR=member-friendly audit, Benefits mgr=audit-rights check, Broker=partner track, Other=nurture); booking = `team@rxbs.org` mailto; alerts → **brett@ + ginny@**; tracker = **Google Sheets**.
+## 🟢 Email funnel: role-segmentation + closing layer — LIVE (built Jun 8, 2026)
+The role-segmented funnel + closing layer is **built and live in Wix/Zapier/Sheets**. What shipped this session:
+- **Wix form** (custom Velo, live path): 6-role dropdown + always-visible `#inputSize` (5 bands), buyer-only *requirement* via validate(); `showSizeForBuyersOnly:false` (Wix classic wouldn't reflow the collapse gap, so size shows for all; scorer ignores non-buyer size). Backend persists `size`; CMS `ToolkitLeads.size` field added. Published.
+- **Zap #1 (main, "...email flow"):** Catch Hook → CMS GET → **Code-by-Zapier scorer** (keyword role match + numeric size; outputs role_key/branch/score/tier/alert/offer_*) → **Google Sheets Create Row** (writes branch/score/tier, status=new) → existing 5-email sequence. Scorer uses `return {...}` (Zapier Run JS format).
+- **Google Sheet "PBS Toolkit Leads" / Leads tab:** 14-col header, 4 dropdowns (branch/tier/status/owner at row 2+), 5 conditional-format tier colors at `A2:N1001` (`=$I2="SQL"` green, PARTNER blue, MQL amber, LEAD/NURTURE gray). Dashboard tab with COUNTIFs.
+- **Zap #2 ("Hot Lead Notification"):** Google Sheets New Row → Filter (tier = SQL OR PARTNER) → Email by Zapier → brett@ + ginny@, reply-to = lead email, subject/body with score legend.
 
-**Specs + code in-repo (paste into Wix/Zapier):**
-- `email_gated_toolkit/role_funnel_plan.md` — 6 roles, buyer-only size, scoring, contextual offerings, the Code-by-Zapier scorer, full role-branched Email 5 copy.
-- `email_gated_toolkit/closing_layer_spec.md` — Google Sheet schema, main-Zap row write, separate speed-to-lead alert Zap, 6-role test matrix.
-- `velo_toolkit_page_code.js` — 6-option Role dropdown + buyer-only `#inputSize` with role-driven show/hide; passes `size`.
-- `velo_backend_toolkitLead.web.js` — persists `size` (flows to Zapier via `...lead` spread).
+**⚠ Confirm before relying on it:** both Zaps **Published** (not Draft); run one **live end-to-end test** (submit form fresh as a CFO via "Not you?"/cleared storage → expect scored row + real brett@/ginny@ alert).
 
-**Monday build order (Wix/Zapier — Claude can't click these):** (1) add Role dropdown (6 exact strings) + `#inputSize` dropdown inside `#sizeBox` (Collapsed on load); add `size` Text field to ToolkitLeads; Publish. (2) Create + seed the "PBS Toolkit Leads" Google Sheet (header in the spec; seed the 3 live leads + the CPO intro). (3) Add the Code scorer + Sheets row to the existing Zap. (4) Build the separate alert Zap (filter tier in SQL,PARTNER → email brett@/ginny@). (5) Run the 6-role test matrix. Contextual Email 4/5 copy is Phase 2 after the alert/tracking layer is live.
+**Remaining (Phase 2 — contextual emails by role):** wire `{{offer_headline}}`, `{{offer_cta}}`, `{{booking_subject}}` (already output by the scorer) into **Email 4 and Email 5** of Zap #1, and paste the role-branched Email 5 copy from `role_funnel_plan.md` §6 (CEO=exposure read, CFO=spend pressure-test, HR=member-friendly audit, Benefits mgr=audit-rights, Broker=partner fork, Other=nurture). This is the next session's funnel task.
+
+**Optional polish (none blocking):** add the `#editInfoLink` "Not you?" element to the toolkit page (returning visitors can switch identity); auto-fill the sheet `date` column (one formula or a Zapier value); add the `toolkit` line back to the alert once a live lead carries it.
 
 ## 🟢 Brand-awareness pushes (specs ready, activate when bandwidth allows)
 - **Podcast outreach sprint** — `podcast_outreach_sprint.md`. Activate: 2-3 pitches/week using the "as seen on Potter + Derms on Drugs" credential, off the 49-show list in `podcast_pitching_guide.md`; every appearance CTAs to a toolkit (feeds the funnel). Highest-trust reach lever; ready to start.
