@@ -108,17 +108,17 @@ const CONFIG = {
   },
 };
 
-// The 6 declarative roles (dropdown labels MUST match these strings exactly —
-// the Zapier scorer keys on them). The four BUYER roles see the size field.
-const ROLES = {
-  'CEO / Owner':                     'buyer',
-  'CFO / Finance leader':            'buyer',
-  'HR / Benefits leader':            'buyer',
-  'Benefits / plan manager':         'buyer',
-  'Broker / Consultant':             'partner',
-  'Other (TPA / pharmacy / vendor)': 'nurture',
-};
-const isBuyerRole = (role) => ROLES[role] === 'buyer';
+// Branch a role label -> 'buyer' | 'partner' | 'nurture' by KEYWORD, not exact
+// text, so the dropdown wording/capitalization can vary ("CFO / Finance Leader"
+// vs "...leader", "HR" vs "HR Director") without breaking the buyer-only size
+// field. Mirrors the Zapier scorer's roleKey() so the two never disagree.
+function roleBranch(role) {
+  const r = (role || '').toLowerCase();
+  if (/broker|consult/.test(r)) return 'partner';
+  if (/ceo|owner|president|cfo|finance|hr|benefits|people|manager|administrat/.test(r)) return 'buyer';
+  return 'nurture';   // "Other (TPA / pharmacy / vendor)" and anything unrecognized
+}
+const isBuyerRole = (role) => roleBranch(role) === 'buyer';
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
