@@ -87,6 +87,14 @@ const CONFIG = {
   // duplicate internal record either way.
   oneClickForReturning: true,
 
+  // Hide the size field for non-buyers? Wix's classic editor would not reflow the
+  // button up when it collapsed (it left a gap), so default is FALSE = the size
+  // field stays visible for everyone. validate() still REQUIRES it only for buyers,
+  // and the scorer ignores a non-buyer's answer, so data quality is unchanged.
+  // Flip to true ONLY inside a layout that reflows on collapse (e.g. a Wix Studio
+  // vertical stack).
+  showSizeForBuyersOnly: false,
+
   storageKey: 'pbs_lead',
   datasetId: '#dynamicDataset',   // your existing dataset ID
 
@@ -179,11 +187,14 @@ $w.onReady(() => {
     }
   }
 
-  // ---- Conditional size field: show it only for BUYER roles ----
-  // Buyers (CEO/CFO/HR/Benefits mgr) get "Number of employees"; Broker/Other never see it.
-  // Collapses BOTH the wrapper box (if you made one) AND the dropdown itself, so a
-  // separate #sizeBox is OPTIONAL — giving #inputSize "Collapsed on load" is enough.
+  // ---- Size field visibility ----
+  // Default (showSizeForBuyersOnly = false): the size field stays visible for
+  // everyone (no collapse, so no Wix-reflow gap). validate() still requires it
+  // only for buyers; the scorer ignores a non-buyer's answer.
+  // If the flag is true (only inside a reflowing layout), it shows for buyers and
+  // collapses for Broker/Other.
   function syncSizeField() {
+    if (!CONFIG.showSizeForBuyersOnly) { show(id.sizeBox); show(id.size); return; }
     if (isBuyerRole(getVal(id.role))) {
       show(id.sizeBox); show(id.size);
     } else {
