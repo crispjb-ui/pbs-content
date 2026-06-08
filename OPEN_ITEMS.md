@@ -11,7 +11,7 @@ The role-segmented funnel + closing layer is **built and live in Wix/Zapier/Shee
 
 **⚠ Confirm before relying on it:** both Zaps **Published** (not Draft); run one **live end-to-end test** (submit form fresh as a CFO via "Not you?"/cleared storage → expect scored row + real brett@/ginny@ alert).
 
-**Remaining (Phase 2 — contextual emails by role):** wire `{{offer_headline}}`, `{{offer_cta}}`, `{{booking_subject}}` (already output by the scorer) into **Email 4 and Email 5** of Zap #1, and paste the role-branched Email 5 copy from `role_funnel_plan.md` §6 (CEO=exposure read, CFO=spend pressure-test, HR=member-friendly audit, Benefits mgr=audit-rights, Broker=partner fork, Other=nurture). This is the next session's funnel task.
+**Phase 2 — contextual emails by role (BUILT Jun 8 eve; pending the user's Zapier paste):** the production scorer (`role_funnel_plan.md` §5) now embeds the full role-branched Email 5 body in each `OFFER.body` and returns it as **`email5_body`** — no Zapier Paths needed (free-tier safe). To finish in Zapier: (1) add a 4th Code-step input `first_name` (← Catch Hook First Name); (2) paste the extended scorer over the existing Code step; (3) Email 5 Body = `{{email5_body}}` + fixed signature, Email 5 Subject = `{{offer_headline}}`; (4) optional Email 4: drop `{{offer_headline}}`/`{{offer_cta}}` near its CTA. Re-test (CEO → SQL/55 + a CEO-specific email5_body) and Publish Zap #1.
 
 **Optional polish (none blocking):** add the `#editInfoLink` "Not you?" element to the toolkit page (returning visitors can switch identity); auto-fill the sheet `date` column (one formula or a Zapier value); add the `toolkit` line back to the alert once a live lead carries it.
 

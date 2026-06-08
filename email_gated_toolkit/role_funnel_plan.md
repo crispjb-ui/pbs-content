@@ -116,14 +116,16 @@ Add one **Code by Zapier** step right after the CMS lookup (Step 2), keyed on `r
 
 **Robust matching (added Jun 8):** the scorer matches role by **keyword** and size by **number**, not by exact label. So the dropdown wording can read "HR / Benefits leader" or "HR Director / Benefits leader," and the size band can use an en-dash, a hyphen, or commas — scoring still works. You don't have to make the form labels match the code character-for-character.
 
+**Contextual emails (added Jun 8 evening — production scorer):** the live scorer also embeds the full role-branched Email 5 body (§6 copy) in each `OFFER.body` and returns it as **`email5_body`**, so the per-role close needs **no Zapier Paths** (free-tier safe). For this it takes a 4th input, `first_name`. Email 5's Body = the `email5_body` merge field + a fixed signature; Email 5's Subject = `offer_headline`. This block is the exact code pasted into Zap #1's Code-by-Zapier step.
+
 ```javascript
-// Code by Zapier — input variables: role (text), size (text), company (text)
+// Code by Zapier — input variables: role, size, company, first_name
 function roleKey(r){ r = (r || '').toLowerCase();
-  if (/broker|consult/.test(r))        return 'broker';
-  if (/ceo|owner|president/.test(r))   return 'ceo';
-  if (/cfo|finance/.test(r))           return 'cfo';
-  if (/manager|administrat/.test(r))   return 'benefits_mgr';   // before hr: "Benefits / plan manager"
-  if (/hr|benefits|people/.test(r))    return 'hr';
+  if (/broker|consult/.test(r))      return 'broker';
+  if (/ceo|owner|president/.test(r)) return 'ceo';
+  if (/cfo|finance/.test(r))         return 'cfo';
+  if (/manager|administrat/.test(r)) return 'benefits_mgr';   // before hr: "Benefits / plan manager"
+  if (/hr|benefits|people/.test(r))  return 'hr';
   return 'other';
 }
 function sizeScore(s){ s = (s || '').toLowerCase().replace(/[,\s]/g,'');
@@ -134,19 +136,76 @@ function sizeScore(s){ s = (s || '').toLowerCase().replace(/[,\s]/g,'');
   if (s.includes('100'))   return 10;   // 100–499
   return 0;
 }
+const fn = inputData.first_name || 'there';
+const co = inputData.company || 'your company';
+
 const OFFER = {
-  ceo:         {branch:'buyer',  base:30, h:"Where your plan is most exposed, in 15 minutes",
-                cta:"Book a 15-minute exposure read → team@rxbs.org",        subj:"PBM exposure read"},
-  cfo:         {branch:'buyer',  base:30, h:"The three line items most likely overcharged on your plan",
-                cta:"Request a pharmacy spend pressure-test → team@rxbs.org", subj:"Pharmacy spend pressure-test"},
-  hr:          {branch:'buyer',  base:25, h:"Find the savings without changing your members' experience",
-                cta:"Book a member-disruption-free audit → team@rxbs.org",    subj:"Member-friendly pharmacy audit"},
-  benefits_mgr:{branch:'buyer',  base:18, h:"The clauses that let you actually run the review",
-                cta:"Request a reporting & audit-rights check → team@rxbs.org",subj:"Audit-rights & reporting check"},
-  broker:      {branch:'partner',base:0,  h:"Make your next client's PBM review the one they remember",
-                cta:"Start a partner conversation → team@rxbs.org",           subj:"Broker partnership"},
-  other:       {branch:'nurture',base:0,  h:"Keep the analysis coming",
-                cta:"Subscribe (free) → benefitblindspots.substack.com",      subj:""}
+  ceo: {branch:'buyer', base:30,
+    h:"Where your plan is most exposed, in 15 minutes",
+    cta:"Book a 15-minute exposure read → team@rxbs.org",
+    subj:"PBM exposure read",
+    body:`${fn},
+
+Five revenue streams flow from your plan to your PBM. Most companies track one. The worksheets you've been pulling each open one of them.
+
+If you want to know what all five total for your plan, that's the call: 15 minutes, in plain English, where you're most exposed and whether it's worth acting on this year. No deck.
+
+Reply, or email team@rxbs.org, subject "PBM exposure read: ${co}."`},
+  cfo: {branch:'buyer', base:30,
+    h:"The three line items most likely overcharged on your plan",
+    cta:"Request a pharmacy spend pressure-test → team@rxbs.org",
+    subj:"Pharmacy spend pressure-test",
+    body:`${fn},
+
+You've run a few of these worksheets now. Each surfaces one revenue stream. The version we run for clients totals all five into one dollar figure you can take to renewal.
+
+We review hundreds of PBM contracts a year, and the same handful of line items run high on nearly every one. Send your last 12 months of pharmacy claims and we'll pressure-test them against what we see in the market. A number, not a narrative.
+
+Reply, or email team@rxbs.org, subject "Pharmacy spend pressure-test: ${co}." Twenty minutes tells us both whether there's anything worth pursuing.`},
+  hr: {branch:'buyer', base:25,
+    h:"Find the savings without changing your members' experience",
+    cta:"Book a member-disruption-free audit → team@rxbs.org",
+    subj:"Member-friendly pharmacy audit",
+    body:`${fn},
+
+These worksheets cover the pieces. The full review also gives you the fiduciary documentation and the member-impact read, the part that protects the plan and the people on it.
+
+The part that matters most: most of the savings we find never touch the member. We'll show you which levers are invisible to your employees before you decide anything.
+
+Worth 20 minutes? Reply, or email team@rxbs.org, subject "Member-friendly pharmacy audit: ${co}." Looping in your finance lead is welcome.`},
+  benefits_mgr: {branch:'buyer', base:18,
+    h:"The clauses that let you actually run the review",
+    cta:"Request a reporting & audit-rights check → team@rxbs.org",
+    subj:"Audit-rights & reporting check",
+    body:`${fn},
+
+If you've ever asked your PBM for data and gotten a runaround, the problem is usually the contract, not your rep.
+
+We'll check your audit-rights and reporting language and tell you exactly what you're entitled to ask for, with the paste-ready request you can send the same day.
+
+Reply, or email team@rxbs.org, subject "Audit-rights & reporting check: ${co}."`},
+  broker: {branch:'partner', base:0,
+    h:"Make your next client's PBM review the one they remember",
+    cta:"Start a partner conversation → team@rxbs.org",
+    subj:"Broker partnership",
+    body:`${fn},
+
+You clearly run real PBM oversight for your clients. These worksheets are built to make that work sharper, and you're welcome to use them in your client reviews.
+
+When a client needs an independent contract or claims audit to back the conversation, that's what we do, as your bench, not in front of you. Co-branded deliverables, your logo, your meeting. The line-by-line audit is on us.
+
+If that's useful, reply, or email team@rxbs.org, subject "Broker partnership: ${co}."`},
+  other: {branch:'nurture', base:0,
+    h:"Keep the analysis coming",
+    cta:"Subscribe (free) → benefitblindspots.substack.com",
+    subj:"",
+    body:`${fn},
+
+The deepest version of this work lives in two places, both free:
+
+The Pharmacy Benefits Briefing (LinkedIn) and Benefit Blind Spots (Substack). Every week: one PBM mechanism decoded, one thing you can actually do about it.
+
+→ benefitblindspots.substack.com`}
 };
 
 const k = roleKey(inputData.role);
@@ -157,16 +216,16 @@ else if (o.branch === 'nurture') tier = 'NURTURE';
 else { score = o.base + sizeScore(inputData.size); tier = score >= 45 ? 'SQL' : score >= 25 ? 'MQL' : 'LEAD'; }
 const alert = (tier === 'SQL' || tier === 'PARTNER') ? 'yes' : 'no';
 
-// Zapier "Run JavaScript" wraps this in an async function and expects a `return`
-// (its placeholder is `return {hello:"world"}`). Return a single object.
+// Zapier "Run JavaScript" wraps this in an async function and expects a `return`.
 return {
   role_key: k, branch: o.branch, score, tier, alert,
   offer_headline: o.h, offer_cta: o.cta,
-  booking_subject: o.subj ? o.subj + " — " + (inputData.company || "") : ""
+  booking_subject: o.subj ? o.subj + " — " + co : "",
+  email5_body: o.body
 };
 ```
 
-`offer_body` is long; keep it in the email template via a tiny second Formatter Lookup keyed on `role_key → body`, or store it in a small CMS `role_offers` collection. The headline + CTA + subject from the Code step carry most of the contextual feel.
+**Email 5 wiring:** Body = `{{email5_body}}` (from the Code step) + fixed signature block; Subject = `{{offer_headline}}`. **Email 4 (lighter touch):** drop `{{offer_headline}}` / `{{offer_cta}}` into the existing Email 4 body near its CTA. The §6 copy below is the human-readable source for the `OFFER.body` fields above — edit there, then re-sync into the scorer.
 
 ---
 
