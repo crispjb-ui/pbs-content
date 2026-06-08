@@ -18,6 +18,8 @@ Plan committed at `email_gated_toolkit/role_funnel_plan.md`. Decisions locked: b
 - **Proprietary data report** — `pbm_contract_data_report_spec.md`. The flagship "what we see across hundreds of contracts" report (qualifiers, never fabricated %). Needs the lightweight review-tally to feed real numbers; then quarterly + annual flagship, gated + PR-pitched.
 - **Podcast → social clips** — `/clip-podcast` (YouTube link/transcript → 3-5 clip plan + per-platform copy + funnel CTA) + `social_clips/remotion_pbs_caption_template_spec.md` (build the branded caption template once in the Remotion project). Works off the public YouTube version — no host raw file needed. The repurposing engine for the podcast sprint.
 
+- **Website (rxbs.org) fixes** — `website_audit.md`. The funnel front door (Toolkit Library) exists but is buried in "More," unfinished (empty Tier-1 cards, low-contrast), the newsletter page is blank, and 3 pages show the default "Mysite" SEO title. Paste-ready fixes in the doc (titles/metas, hero CTA, promote Free Tools + Newsletter to main nav, proof + capture blocks, Contact reframe). Highest quick win: the title/meta set.
+
 ## ⚙️ Automation cadence (scheduled workflows live)
 - **`/critique` → weekly** (Sun) via `.github/workflows/weekly-critique.yml`: auto-critiques the next week to ship, commits a report to `critique_reports/`.
 - **`/system-audit` → monthly** (1st) via `.github/workflows/monthly-system-audit.yml`: anti-rot + fact-bank refresh, commits safe fixes + report to `audit_reports/`.
