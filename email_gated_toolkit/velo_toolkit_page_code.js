@@ -102,7 +102,7 @@ const CONFIG = {
     success: '#successMsg',
     error: '#errorMsg',
     editLink: '#editInfoLink',
-    formBox: '#formBox',
+    formBox: '#formBox',    // deprecated/unused — fields are ungrouped so the layout can reflow
     legacyForm: '#form1',   // your existing Wix Forms App form = revert target (ID is form1)
     legacyMask: '#box19',   // container box masking #form1's un-hideable hidden fields; collapses with the old form
   },
@@ -125,12 +125,19 @@ const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 $w.onReady(() => {
   const id = CONFIG.ids;
 
+  // Show/hide the input fields together WITHOUT needing the #formBox group, so the
+  // fields can be ungrouped in the Editor (ungrouping lets Wix reflow the layout
+  // when #inputSize collapses). Replaces the old hide(#formBox)/show(#formBox).
+  const inputEls = [id.firstName, id.email, id.company, id.role];
+  const hideInputs = () => { inputEls.forEach(hide); hide(id.size); };
+  const showInputs = () => { inputEls.forEach(show); };   // size handled by syncSizeField()
+
   // ===== REVERT SWITCH =====
   // If the custom form is OFF, restore the old path: show the Wix Forms App form,
   // hide every custom element, and stop. The Wix Automation handles the rest.
   if (!CONFIG.useCustomForm) {
     show(id.legacyForm); show(id.legacyMask);   // bring the old form + its mask back together
-    hide(id.formBox); hide(id.button); hide(id.welcomeBack);
+    hideInputs(); hide(id.button); hide(id.welcomeBack);
     hide(id.success); hide(id.error); hide(id.editLink);
     return;
   }
@@ -166,7 +173,7 @@ $w.onReady(() => {
     showText(id.welcomeBack, `Welcome back, ${saved.first_name || 'there'}. Get this one instantly:`);
 
     if (CONFIG.oneClickForReturning) {
-      hide(id.formBox);                 // hide the inputs entirely
+      hideInputs();                     // hide the inputs entirely
       setLabel(id.button, 'Get the worksheet instantly');
       show(id.editLink);                // "Not you? Enter different details"
     }
@@ -195,7 +202,7 @@ $w.onReady(() => {
       local.removeItem(CONFIG.storageKey);
       clearVal(id.firstName); clearVal(id.email); clearVal(id.company); clearVal(id.role); clearVal(id.size);
       hide(id.welcomeBack); hide(id.editLink);
-      show(id.formBox);
+      showInputs();
       syncSizeField();   // role is now blank -> size collapses
       setLabel(id.button, 'Get the Worksheet');
     });
@@ -236,7 +243,7 @@ $w.onReady(() => {
       // (repeats get Email 1 only).
       await submitLead(lead, toolkitName, toolkitSlug, isReturning);
 
-      hide(id.formBox);
+      hideInputs();
       hide(id.welcomeBack);
       showText(id.success, `You're set, ${lead.first_name || ''}. The ${toolkitName || 'toolkit'} is on its way to ${lead.email} — check your inbox in about 2 minutes.`);
     } catch (err) {
