@@ -3,65 +3,67 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Sun Jun 21 | - | Prep | Final review of all content | [ ] |
-| Mon Jun 22 | 7:30 AM | Substack | "The 90-Day Renewal Window: What to Do Before Your PBM Sets the Terms" | [ ] |
-| Mon Jun 22 | 7:45 AM | LinkedIn Newsletter | Renewal Countdown Briefing | [ ] |
-| Mon Jun 22 | 8:00 AM | X (Twitter) | named-adversary / channel-pricing (proven W21 template, insulin) | [ ] |
-| Mon Jun 22 | 12:00 PM | X (Twitter) | decoder (auto-renewal clock) | [ ] |
-| Mon Jun 22 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Jun 22 | Evening | Substack Notes | Note #1 - Launch announcement | [ ] |
-| Mon Jun 22 | 7:00 PM | X (Twitter) | question post [A15] | [ ] |
-| Mon Jun 22 | 8:30 PM | X (Twitter) | aphorism [C4] | [ ] |
-| Tue Jun 23 | 8:00 AM | X (Twitter) | dollar comparison (rebate aggregator skim) | [ ] |
-| Tue Jun 23 | 8:30 AM | LinkedIn Feed | Post 89 - "How I'd Walk a Client Through the 90-Day Renewal Decision" Whiteboard Carousel (different pillar) | [ ] |
-| Tue Jun 23 | 8:35 AM | LinkedIn Feed | Post 89 - First Comment | [ ] |
-| Tue Jun 23 | 12:00 PM | X (Twitter) | structural / news-adjacent (hold for a reactive bump) | [ ] |
-| Tue Jun 23 | 1:30 PM | LinkedIn Company | Company Reshare of Post 89 | [ ] |
-| Tue Jun 23 | 5:00 PM | X (Twitter) | Library 04 driver (Termination / Performance Remediation — SCHEDULE AFTER the 8:30 AM Tue carousel publishes) | [ ] |
-| Tue Jun 23 | 7:00 PM | X (Twitter) | question post [A16] | [ ] |
-| Tue Jun 23 | 8:30 PM | X (Twitter) | one question [B4] | [ ] |
-| Wed Jun 24 | 8:00 AM | X (Twitter) | named-adversary / vertical integration | [ ] |
-| Wed Jun 24 | 8:30 AM | LinkedIn Feed | Post 90 - "Your PBM renewal is 90 days away. Your preparation should have started yesterday." Strong POV (TEXT) | [ ] |
-| Wed Jun 24 | 12:00 PM | X (Twitter) | decoder (audit rights at renewal) | [ ] |
-| Wed Jun 24 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Wed Jun 24 | 5:00 PM | X (Twitter) | stat-shock / structural | [ ] |
-| Wed Jun 24 | 7:00 PM | X (Twitter) | question post [A1] | [ ] |
-| Wed Jun 24 | 8:30 PM | X (Twitter) | aphorism [C5] | [ ] |
-| Thu Jun 25 | 7:30 AM | Substack | Field Note: "Three Conversations to Have Before Renewal Season" | [ ] |
-| Thu Jun 25 | 8:00 AM | X (Twitter) | named-adversary / definitions trick (protects the 8:30 AM Thursday reveal) | [ ] |
-| Thu Jun 25 | 8:30 AM | LinkedIn Feed | Post 91 - 5 Questions About Your PBM Contract Renewal (Carousel, Slot C evergreen rotation) | [ ] |
-| Thu Jun 25 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot C "5 Questions About Your PBM Contract Renewal" carousel]` | [ ] |
-| Thu Jun 25 | 1:30 PM | LinkedIn Company | Company Reshare of Post 91 | [ ] |
-| Thu Jun 25 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Jun 25 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
-| Thu Jun 25 | 7:00 PM | X (Twitter) | question post [A2] | [ ] |
-| Thu Jun 25 | 8:30 PM | X (Twitter) | one question [B5] | [ ] |
-| Fri Jun 26 | 8:00 AM | X (Twitter) | named-adversary / formulary (after the 8:30 AM Friday tease; teases W26) | [ ] |
-| Fri Jun 26 | 8:30 AM | LinkedIn Feed | Post 92 - "Who really controls your drug list?" Tease Hook (TEXT) | [ ] |
-| Fri Jun 26 | 12:00 PM | X (Twitter) | decoder (formulary control) | [ ] |
-| Fri Jun 26 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
-| Fri Jun 26 | 5:00 PM | X (Twitter) | synthesis | [ ] |
-| Fri Jun 26 | 7:00 PM | X (Twitter) | question post [A3] | [ ] |
-| Fri Jun 26 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D2] | [ ] |
-| Sat Jun 27 | - | Substack Notes | Note #5 - Engage with another publication | [ ] |
-| Sat Jun 27 | 8:00 AM | X (Twitter) | best-kept-secret (rebate aggregator) | [ ] |
-| Sat Jun 27 | 10:00 AM | X (Twitter) | formulary exclusivity payment (Tier A) | [ ] |
-| Sat Jun 27 | 12:00 PM | X (Twitter) | dollar comparison (specialty rebate gap) | [ ] |
-| Sat Jun 27 | 2:30 PM | X (Twitter) | dispensing fee spread (Tier A) | [ ] |
-| Sat Jun 27 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Jun 27 | 7:00 PM | X (Twitter) | question post [A4] | [ ] |
-| Sat Jun 27 | 8:30 PM | X (Twitter) | aphorism [C6] | [ ] |
-| Sun Jun 28 | 8:00 AM | X (Twitter) | recipe / white bagging (Tier A weekend Cuban-bait) | [ ] |
-| Sun Jun 28 | 10:00 AM | X (Twitter) | price protection reclassification (Tier A) | [ ] |
-| Sun Jun 28 | 12:00 PM | X (Twitter) | decoder + GLP-1 amplifier | [ ] |
-| Sun Jun 28 | 2:30 PM | X (Twitter) | copay accumulator (Tier A) | [ ] |
-| Sun Jun 28 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Jun 28 | 7:00 PM | X (Twitter) | question post [A5] | [ ] |
-| Sun Jun 28 | 8:30 PM | X (Twitter) | one question [B6] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (3-7/day) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (timeline had drifted from the Thursday/Field Note that actually shipped)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Jun 21 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Jun 22 | 7:30 AM | Substack | Deep dive: "The 90-Day Renewal Window" | PART 1 | [ ] |
+| Mon Jun 22 | 7:45 AM | LI Newsletter | Renewal Countdown Briefing (Issue #20) | PART 2 | [ ] |
+| Mon Jun 22 | 8:00 AM | X | named-adversary / channel-pricing (insulin) | PART 4B · Mon | [ ] |
+| Mon Jun 22 | 12:00 PM | X | decoder (auto-renewal clock) | PART 4B · Mon | [ ] |
+| Mon Jun 22 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Jun 22 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Jun 22 | 7:00 PM | X | question [A15] | PART 4B · Mon | [ ] |
+| Mon Jun 22 | 8:30 PM | X | aphorism [C4] | PART 4B · Mon | [ ] |
+| Tue Jun 23 | 8:00 AM | X | dollar comparison (rebate aggregator skim) | PART 4B · Tue | [ ] |
+| Tue Jun 23 | 8:30 AM | LI Feed | Post 89 — "Five Termination Clauses That Decide Whether You Can Actually Leave" (Library 04 · Contract Comparison) | Post 89 | [ ] |
+| Tue Jun 23 | 8:35 AM | LI Feed | Post 89 first comment | Post 89 | [ ] |
+| Tue Jun 23 | 12:00 PM | X | structural / news-adjacent (hold) | PART 4B · Tue | [ ] |
+| Tue Jun 23 | 1:30 PM | LI Company | Reshare of Post 89 (⚠ redo after retarget) | Post 89 Reshare | [ ] |
+| Tue Jun 23 | 5:00 PM | X | Library 04 driver (Termination / Perf Remediation; after 8:30 carousel) | PART 4B · Tue | [ ] |
+| Tue Jun 23 | 7:00 PM | X | question [A16] | PART 4B · Tue | [ ] |
+| Tue Jun 23 | 8:30 PM | X | one question [B4] | PART 4B · Tue | [ ] |
+| Wed Jun 24 | 8:00 AM | X | named-adversary / vertical integration | PART 4B · Wed | [ ] |
+| Wed Jun 24 | 8:30 AM | LI Feed | Post 90 — "Your PBM renewal is 90 days away" (POV text) | Post 90 | [ ] |
+| Wed Jun 24 | 12:00 PM | X | decoder (audit rights at renewal) | PART 4B · Wed | [ ] |
+| Wed Jun 24 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Jun 24 | 5:00 PM | X | stat-shock / structural | PART 4B · Wed | [ ] |
+| Wed Jun 24 | 7:00 PM | X | question [A1] | PART 4B · Wed | [ ] |
+| Wed Jun 24 | 8:30 PM | X | aphorism [C5] | PART 4B · Wed | [ ] |
+| Thu Jun 25 | 7:30 AM | Substack | Field Note: "Auditing Your RFP Scoring Methodology Before You Send It" | PART 1B | [ ] |
+| Thu Jun 25 | 8:00 AM | X | named-adversary / definitions trick (protects the Thu reveal) | PART 4B · Thu | [ ] |
+| Thu Jun 25 | 8:30 AM | LI Feed | Post 91 — "5 RFP Scoring Methodology Terms Decoded" (Marked-Up Contract Page) | Post 91 | [ ] |
+| Thu Jun 25 | 12:00 PM | X | Thu-visual amplifier [VISUAL: RFP Scoring decoder] (after 8:30) | PART 4B · Thu | [ ] |
+| Thu Jun 25 | 1:30 PM | LI Company | Reshare of Post 91 | Post 91 Reshare | [ ] |
+| Thu Jun 25 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Jun 25 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Jun 25 | 7:00 PM | X | question [A2] | PART 4B · Thu | [ ] |
+| Thu Jun 25 | 8:30 PM | X | one question [B5] | PART 4B · Thu | [ ] |
+| Fri Jun 26 | 8:00 AM | X | named-adversary / formulary (teases W26) | PART 4B · Fri | [ ] |
+| Fri Jun 26 | 8:30 AM | LI Feed | Post 92 — "Who really controls your drug list?" tease (teases W26) | Post 92 | [ ] |
+| Fri Jun 26 | 12:00 PM | X | decoder (formulary control) | PART 4B · Fri | [ ] |
+| Fri Jun 26 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Jun 26 | 5:00 PM | X | synthesis | PART 4B · Fri | [ ] |
+| Fri Jun 26 | 7:00 PM | X | question [A3] | PART 4B · Fri | [ ] |
+| Fri Jun 26 | 8:30 PM | X | origin-anchored [D2] | PART 4B · Fri | [ ] |
+| Sat Jun 27 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
+| Sat Jun 27 | 8:00 AM | X | best-kept-secret (rebate aggregator) | PART 4B · Sat | [ ] |
+| Sat Jun 27 | 10:00 AM | X | formulary exclusivity payment (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jun 27 | 12:00 PM | X | dollar comparison (specialty rebate gap) | PART 4B · Sat | [ ] |
+| Sat Jun 27 | 2:30 PM | X | dispensing fee spread (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jun 27 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Jun 27 | 7:00 PM | X | question [A4] | PART 4B · Sat | [ ] |
+| Sat Jun 27 | 8:30 PM | X | aphorism [C6] | PART 4B · Sat | [ ] |
+| Sun Jun 28 | 8:00 AM | X | recipe / white bagging (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jun 28 | 10:00 AM | X | price protection reclassification (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jun 28 | 12:00 PM | X | decoder + GLP-1 amplifier | PART 4B · Sun | [ ] |
+| Sun Jun 28 | 2:30 PM | X | copay accumulator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jun 28 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Jun 28 | 7:00 PM | X | question [A5] | PART 4B · Sun | [ ] |
+| Sun Jun 28 | 8:30 PM | X | one question [B6] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -168,6 +170,71 @@ Have you started your renewal preparation yet? If you have a timeline that works
 *Questions on renewal preparation? Reach out at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe to receive the weekly deep dive and Thursday field notes.*
+
+---
+
+### In-Article Visual: The 90-Day Renewal Timeline
+
+_Embedded messy-infographic for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the timeline section above._
+
+#### Messy Infographic Concept
+
+**Title:** The 90-Day PBM Renewal Timeline
+**Style:** Hand-drawn timeline / Whiteboard
+**Dimensions:** 1080 x 1350 px (vertical)
+**Template:** Vertical timeline with three phases
+
+**Layout:**
+
+**Top Header:** Off-white background. Handwritten-style text in Primary Blue (#015880): "The 90-Day PBM Renewal Timeline" (Caveat, 36-40pt). Small clock icon sketched in Accent Blue (#A7E0FA).
+
+**Timeline Structure:** Vertical line down the center in Primary Blue (#015880), with three large phase markers.
+
+**Phase 1 (Top) — Month 1: Data & Benchmarking**
+- Large circled "1" in Primary Blue
+- Header: "MONTH 1" in Accent Blue (#A7E0FA)
+- Handwritten bullets in Gray (#4D4D4D):
+  - "Pull your own claims data"
+  - "Run 5 core metrics"
+  - "Benchmark against market"
+  - "Identify guarantee gaps"
+- Hand-drawn arrow connecting to Phase 2
+
+**Phase 2 (Middle) — Month 2: Contract Analysis**
+- Large circled "2" in Primary Blue
+- Header: "MONTH 2" in Accent Blue
+- Handwritten bullets in Gray:
+  - "Read actual contract (not summary)"
+  - "Flag weak provisions"
+  - "Research strong language"
+  - "Build your term sheet"
+- Hand-drawn arrow connecting to Phase 3
+
+**Phase 3 (Bottom) — Month 3: Negotiation Prep**
+- Large circled "3" in Primary Blue
+- Header: "MONTH 3" in Accent Blue
+- Handwritten bullets in Gray:
+  - "Set walk-away points"
+  - "Anticipate PBM's position"
+  - "Prepare materials"
+  - "Coordinate with broker + stop-loss"
+
+**Bottom:** Accent Blue (#A7E0FA) banner. Primary Blue text: "Start now. Not at renewal." PBS logo (50px), team@rxbs.org
+
+**Design Notes:**
+- Whiteboard/notepad aesthetic, imperfect lines
+- Caveat font throughout, varying sizes (28-36pt headers, 18-22pt bullets)
+- Timeline line is hand-drawn, slightly wavy, not perfectly straight
+- Phase circles are rough, not perfect circles
+- Arrows between phases are hand-drawn with slight curves
+
+**Color Palette:**
+| Color | Hex | Usage |
+|-------|-----|-------|
+| Primary Blue | #015880 | Timeline, phase numbers, headers, arrows |
+| Accent Blue | #A7E0FA | Phase labels, highlights, bottom banner |
+| Gray | #4D4D4D | Bullet text, annotations, disclaimer |
+| Off-white | #F5F5F0 | Background |
 
 ---
 
@@ -450,78 +517,83 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 ## Post 89 - Tuesday 8:30 AM
 
-> **⚠️ RETARGET REQUIRED BEFORE SHIP (flagged May 9, 2026):** This post violates two rules in CLAUDE.md and must be replaced before ship date.
-> - **Whiteboard Carousel format is paused** per CLAUDE.md May 8 update (W17 Carve-In/Out 1,790 impressions; W18 GLP-1 Whiteboard 758 impressions). Reformat to a non-Whiteboard canvas.
-> - **Topic is on Monday's renewal-countdown family** = anti-cannibalization violation per Tuesday ≠ Monday rule (Week 15 data: Thursday on Monday topic = 340 impressions vs. 22K floor).
-> - **Recommended replacement:** Library 04 Contract Comparison Carousel on a non-renewal provision family (e.g., Termination Language or Performance Remediation). Library NN format is save-driven; routes to Contract Library cross-promo. Alternative: One Number Carousel on a non-renewal CFO-metric topic with First Comment to a relevant Substack asset.
-> - **Spec below is the original draft, preserved for reference. Do not ship as-is.**
+### "Five Termination Clauses That Decide Whether You Can Actually Leave" — Contract Comparison Carousel (Library 04)
 
-### "How I'd Walk a Client Through the 90-Day Renewal Decision" — Whiteboard Carousel [DRAFT — DO NOT SHIP, see RETARGET note above]
-
-**Template:** Whiteboard carousel (template #3) from `claude_design_prompts.md`. Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each.
-**Format class:** Carousel (Tuesday Cycle-W2 slot, second cycle)
-**Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Renewal Countdown topic)
-**Content shape:** Decoder-in-reasoning form. Ginny walks through the decision like a pharmacist thinking out loud on a whiteboard; the unfakeable detail is the clinical-pharmacy cadence of the reasoning itself.
-**Why this combination:** The 90-day renewal decision is an iterative reasoning exercise, not a stat dump. Whiteboard carousel is the template built for "pharmacist working through the logic" and fits a decision-framework topic better than Contract Comparison (which is clause-focused) or One Number (which is stat-focused). The framework stays the same 5-question structure, but the visual system signals "this is how I would think through this" rather than "here is a list."
+**Template:** Contract Comparison (redline aesthetic), Library NN series. 7 slides, 1080 x 1350 px.
+**Format class:** Carousel (Tuesday Cycle-W2 slot; replaces the paused Whiteboard draft).
+**Pillar:** PBM Contract Insights.
+**Provision family:** Termination & Transition (from the Substack Contract Language Library).
+**Triple-distinct check:** Mon = renewal-prep timeline (process) · Tue = termination clause language (provision) · Thu = RFP scoring methodology (evaluation). Three different subjects within the renewal-prep family. ✓
+**Why this combination:** Termination is the leverage clause sponsors only read when they are already trying to leave. Contract Comparison is the save-driven reference format; routes to the Contract Library. Different subject from Monday and Thursday, so anti-cannibalization holds.
 
 #### Post Copy
 
 ```
-90 days before renewal is the decision window. The PBM will have their proposal ready. Most plans do not have their framework ready.
+Your PBM contract has an exit door. The PBM wrote it. Most plan sponsors only read it when they are already trying to leave, which is exactly too late.
 
-If you handed me your renewal file today, here is how I would work through it on a whiteboard.
+We review hundreds of PBM contracts a year at PBS. The termination and transition section is where leverage is quietly removed: the auto-renewal you missed, the data you cannot get back, the run-out the PBM bills you for on the way out.
 
-1. Have we benchmarked our current economics against market in the last 12 months? If no, we benchmark before the renewal conversation.
+Five clauses decide whether you can actually leave:
 
-2. Have we documented every guarantee shortfall in the current term, with dollar values? If no, we have no remediation to negotiate.
+1. Auto-renewal / evergreen
+2. Termination for convenience
+3. Termination for cause and the cure period
+4. Transition and run-out services
+5. Data and rebate-accrual return
 
-3. Do we know what we would accept, what we would counter, and what we would walk from? If no, we are negotiating the PBM's terms, not ours.
+Weak language next to the protective version for each one, in the carousel.
 
-4. Is the broker running independent market analysis or relying on PBM-provided data? The distinction matters at the table.
+Save this before your next renewal conversation.
 
-5. What is our fallback if the terms are unacceptable? Timing, alternatives, transition plan. All of it, written down before the first meeting.
-
-Sponsors who arrive with the framework negotiate. Sponsors without it renew.
-
-#PBMRenewal #SelfFundedEmployers #PharmacyBenefits
+#PBMContracts #SelfFundedEmployers #PharmacyBenefits
 ```
 
 #### First Comment
 
 ```
-More in this week's Pharmacy Benefits Briefing on the 90-day renewal window: [LINKEDIN NEWSLETTER URL]
+The full protective termination and transition language, the exact "what to ask for" redlines for all five clauses, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
 #### Carousel Slide-by-Slide Spec
 
-All seven slides render as a Whiteboard carousel. Soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn marker feel with marker-pressure variation, Primary Blue (#015880) marker as default, Accent Blue (#A7E0FA) highlight on the decision that carries each slide, red marker for the "walk line" or risk annotations, Gray (#4D4D4D) for margin notes. No computer typography except the small Plex Sans SemiBold typographic elements on Slide 1 and Slide 7. Slide numbers "N / 7" in Gray marker bottom-right.
+Contract Comparison template (Library NN aesthetic): off-white paper (#F5F0E4), Plex Mono throughout, two stacked panels per clause slide. "What you might see" panel in red (#C0392B); "What to ask for" panel in Primary Blue (#015880). A short Gray (#4D4D4D) margin note per slide. Slide number "N / 7" bottom-right. PBS triangle wordmark small, top-left.
 
-**Slide 1 — Cover.** Soft off-white background. Hand-lettered title top-left in Primary Blue marker: "How I'd walk a client through the 90-day renewal decision." "90-day" underlined in Accent Blue. Below, the only typographic element, a small Plex Sans SemiBold line: "Five questions. One whiteboard. In order." Bottom-left a small hand-drawn calendar icon with "90" lettered inside. Bottom-right: "1 / 7" Gray marker.
+**Slide 1 — Cover.** Title: "Five termination clauses that decide whether you can actually leave." Subtitle (Plex Mono Medium): "What you might see vs. what to ask for." Eyebrow: "Contract Language Library · Termination & Transition." "1 / 7".
 
-**Slide 2 — Question 1: Benchmarking.** Hand-lettered title: "First: have we benchmarked in the last 12 months?" Below, a rough hand-drawn two-column comparison: left labeled "PBM view" (with a small eye icon), right labeled "Market view" (with a ruler icon). An Accent Blue arrow sweeps from Market view to a boxed hand-lettered phrase: "our leverage number." Margin note in Gray marker: "The PBM has already run this. If your broker has not, you are negotiating blind."
+**Slide 2 — Clause 1: Auto-renewal / evergreen.**
+- What you might see (red): "This Agreement automatically renews for successive terms unless either party provides written notice at least 180 days prior to the end of the then-current term."
+- What to ask for (blue): "No automatic renewal. Renewal requires a signed amendment. PBM shall send written renewal notice 90 days before term end."
+- Margin: "Miss the 180-day window and you are locked in another full term at rates you never reopened."
 
-**Slide 3 — Question 2: Documented shortfalls.** Hand-lettered title: "Second: what shortfalls do we have in writing?" Below, a three-row hand-drawn ledger: rows labeled "Guarantee A," "Guarantee B," "Guarantee C." Each row has two columns: "Contract minimum" (left) and "Actual" (right), with a handwritten shortfall amount like "— $XX,XXX" in red marker. A green marker arrow from the red shortfalls points to a boxed phrase: "remediation owed." Margin note: "Unpaid remediation is the easiest recovery in renewal. Most plans leave it on the table."
+**Slide 3 — Clause 2: Termination for convenience.**
+- What you might see (red): "PBM may terminate for convenience upon 90 days' notice." (no equivalent right for the Plan)
+- What to ask for (blue): "Either party may terminate for convenience on 90 days' written notice, with no penalty or termination fee."
+- Margin: "Read who gets the convenient exit. Often it is only the PBM."
 
-**Slide 4 — Question 3: Accept/Counter/Walk lines.** Hand-lettered title: "Third: accept, counter, or walk?" Below, a hand-drawn three-column grid with headers in marker: "ACCEPT" (Primary Blue), "COUNTER" (Gray), "WALK" (red, double-underlined). Underneath each column, two or three short hand-lettered phrases as placeholders: e.g., under ACCEPT "GER within 2 pts of market" / "rebate base-plus 8 pts"; under COUNTER "remediation structure"; under WALK "auto-renewal without opt-out." Accent Blue highlight on the WALK column header. Margin note: "Without the walk line defined, you are negotiating the PBM's terms."
+**Slide 4 — Clause 3: Termination for cause and cure.**
+- What you might see (red): "Either party may terminate for material breach." (term undefined; cure period unspecified)
+- What to ask for (blue): "Defined breach events (missed guarantees, audit obstruction, data-delivery failures); 30-day cure period; Plan may terminate and recover fees if uncured."
+- Margin: "Undefined 'material breach' favors the party with the lawyers."
 
-**Slide 5 — Question 4: Independent analysis.** Hand-lettered title: "Fourth: whose numbers are we using?" Below, a hand-drawn Venn-style pair of circles labeled "PBM data" and "Independent pull" with a small overlap. Inside the overlap: hand-lettered "gaps are the conversation." Accent Blue highlight on the independent-pull circle. Margin note: "PBM-provided data never shows the PBM in a losing position. Independent pulls do."
+**Slide 5 — Clause 4: Transition and run-out services.**
+- What you might see (red): "Upon termination, PBM will provide transition services at its then-current rates."
+- What to ask for (blue): "PBM shall provide up to 180 days of run-out and transition services at no additional cost, including claims-adjudication continuity and member communications."
+- Margin: "Run-out billed 'at then-current rates' is a tax on leaving."
 
-**Slide 6 — Question 5: Fallback plan.** Hand-lettered title: "Fifth: what happens if the terms are unacceptable?" Below, a hand-drawn decision tree with three branches: "RFP timing" / "transition carrier options" / "temporary extension terms." Accent Blue highlight on one branch depending on the scenario. Red marker note spanning the bottom: "Written down before the first meeting, not during it."
+**Slide 6 — Clause 5: Data and rebate-accrual return.**
+- What you might see (red): "PBM will return Plan data upon request." (format, timing, and rebate accruals unspecified)
+- What to ask for (blue): "All eligibility and claims data returned within 30 days at no cost in a usable format; all rebate accruals earned through the termination date paid to the Plan."
+- Margin: "Your data and your unpaid rebates are leverage. Name them, or lose them on exit."
 
-**Slide 7 — Close.** Soft off-white background. Hand-lettered headline: "Sponsors with the framework *negotiate*." ("negotiate" underlined in Accent Blue.) Below in red marker: "Sponsors without it renew." Small Plex Sans SemiBold typographic line at the bottom in Primary Blue: "The full 90-day renewal playbook is in this week's deep dive. benefitblindspots.substack.com." "7 / 7" Gray marker bottom-right.
+**Slide 7 — Close.** "The exit door is leverage. Read it before you need it." Below: "Full protective language for every clause is in the Contract Language Library." benefitblindspots.substack.com/p/pbm-contract-language-library. PBS triangle. "7 / 7".
 
 #### Image Generation Prompt
 
-Claude Design project type: **Slide deck from template**. Use Whiteboard carousel master (template #3). Generate 7 stacked slides at 1080 x 1350 px each. Shared visual system across all slides: soft off-white (#F8F5ED) background with subtle paper-grain texture, hand-drawn marker feel with pressure variation, Primary Blue (#015880) marker default, Accent Blue (#A7E0FA) highlights on the decision each slide carries, red marker (#C0392B) for walk/risk annotations, Gray (#4D4D4D) for margin notes. No computer typography except small Plex Sans SemiBold typographic elements on Slide 1 (subtitle line) and Slide 7 (CTA line). Slide-number footer "N / 7" in Gray marker bottom-right. Pull slide-by-slide content from the spec above. Handwriting must be legibly imperfect, not computer typography. Reference the Week 18 Whiteboard Decoder Carousel for handwriting fidelity and marker aesthetic.
+Claude Design project type: **Slide deck from template**. Contract Comparison master (redline aesthetic). Generate 7 stacked slides at 1080 x 1350 px. Shared system: off-white paper texture (#F5F0E4), IBM Plex Mono throughout (tabular figures), each clause slide a two-panel redline: top panel "WHAT YOU MIGHT SEE" in red (#C0392B) with the weak contract language set as legalese; bottom panel "WHAT TO ASK FOR" in Primary Blue (#015880) with the protective language; one Gray (#4D4D4D) handwritten-style margin note per slide. Slide-number footer "N / 7" bottom-right; small PBS triangle wordmark top-left. Pull slide content from the spec above. Mobile-feed legibility: cap each panel at the quoted clause + one margin note, large readable type at thumbnail (~400px).
 
-**Post-Generation Steps:**
+**Post-Generation Steps:** generate 7-slide deck → export PNGs 1080 x 1350 → legibility spot-check at ~400px → upload as native LinkedIn document carousel.
 
-1. Generate 7-slide deck via Claude Design using the spec above
-2. Export PNGs at 1080 x 1350 each
-3. Spot-check handwriting legibility at thumbnail; Accent Blue highlights land on the specified phrases (not random text)
-4. Verify the three-column Slide 4 grid renders readably; if crowded, reduce to two phrases per column
-5. Verify the Slide 7 small Plex Sans line contrasts enough against the off-white background
-6. Upload as native LinkedIn carousel (document upload)
+_Library numbering RESOLVED (June 2026): this Termination carousel is **Library 04** (W25); the W27 Reporting Clauses carousel is **Library 05**; W33 Q4 Broker is **Library 06**. CLAUDE.md cadence updated to match._
 
 ---
 
@@ -532,11 +604,11 @@ Claude Design project type: **Slide deck from template**. Use Whiteboard carouse
 #### Reshare Copy
 
 ```
-Sponsors who arrive at renewal with a framework negotiate. Sponsors without one renew. Five questions define the framework: benchmarking, documented shortfalls, accept/counter/walk lines, independent analysis, and fallback plan.
+The PBM writes your contract's exit door. Five clauses decide whether you can actually leave: auto-renewal, termination for convenience, cause and cure, transition and run-out, and data and rebate-accrual return.
 
-Ginny Crisp walks through the 90-day decision window self-funded CFOs should own, not their PBM.
+Ginny Crisp lays the weak language next to the protective version for each one.
 
-#PBMRenewal #PlanSponsors #EmployeeBenefits
+#PBMContracts #PlanSponsors #PharmacyBenefits
 ```
 
 ---
@@ -623,96 +695,7 @@ This week's Benefit Blind Spots deep dive on the 90-day renewal window is the op
 
 ## Post 91 - Thursday 8:30 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Questions About Your PBM Contract Renewal (Slot C of the evergreen rotation).**
-
-### Renewal Timeline: Month-by-Month Milestones (Messy Infographic) - WEEKLY THEME VISUAL [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Messy Infographic
-**Pillar:** Self-Funded Employer Guidance
-**Word Count:** ~80 words
-
-> **NOTE - PERFORMANCE LESSON:** Thursday carries the weekly theme visual (renewal preparation), placed 3 days after the Monday newsletter to avoid cannibalization. Messy infographic format selected based on performance data (22K impressions, best visual format).
-
-#### Post Copy
-
-```
-The 90-day PBM renewal timeline.
-
-Month 1: Data and benchmarking. Pull your own claims data. Run the five core metrics. Benchmark against market.
-
-Month 2: Contract analysis. Read your actual contract. Flag weak provisions. Build your term sheet.
-
-Month 3: Negotiation prep. Set walk-away points. Anticipate the PBM's position. Prepare your materials.
-
-The employers who follow this timeline negotiate from their own data. Those who skip it negotiate from the PBM's narrative.
-
-#PBMRenewal #PlanSponsors #EmployeeBenefits
-```
-
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
-
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
-#### Messy Infographic Concept
-
-**Title:** The 90-Day PBM Renewal Timeline
-**Style:** Hand-drawn timeline / Whiteboard
-**Dimensions:** 1080 x 1350 px (vertical)
-**Template:** Vertical timeline with three phases
-
-**Layout:**
-
-**Top Header:** Off-white background. Handwritten-style text in Primary Blue (#015880): "The 90-Day PBM Renewal Timeline" (Caveat, 36-40pt). Small clock icon sketched in Accent Blue (#A7E0FA).
-
-**Timeline Structure:** Vertical line down the center in Primary Blue (#015880), with three large phase markers.
-
-**Phase 1 (Top) — Month 1: Data & Benchmarking**
-- Large circled "1" in Primary Blue
-- Header: "MONTH 1" in Accent Blue (#A7E0FA)
-- Handwritten bullets in Gray (#4D4D4D):
-  - "Pull your own claims data"
-  - "Run 5 core metrics"
-  - "Benchmark against market"
-  - "Identify guarantee gaps"
-- Hand-drawn arrow connecting to Phase 2
-
-**Phase 2 (Middle) — Month 2: Contract Analysis**
-- Large circled "2" in Primary Blue
-- Header: "MONTH 2" in Accent Blue
-- Handwritten bullets in Gray:
-  - "Read actual contract (not summary)"
-  - "Flag weak provisions"
-  - "Research strong language"
-  - "Build your term sheet"
-- Hand-drawn arrow connecting to Phase 3
-
-**Phase 3 (Bottom) — Month 3: Negotiation Prep**
-- Large circled "3" in Primary Blue
-- Header: "MONTH 3" in Accent Blue
-- Handwritten bullets in Gray:
-  - "Set walk-away points"
-  - "Anticipate PBM's position"
-  - "Prepare materials"
-  - "Coordinate with broker + stop-loss"
-
-**Bottom:** Accent Blue (#A7E0FA) banner. Primary Blue text: "Start now. Not at renewal." PBS logo (50px), team@rxbs.org
-
-**Design Notes:**
-- Whiteboard/notepad aesthetic, imperfect lines
-- Caveat font throughout, varying sizes (28-36pt headers, 18-22pt bullets)
-- Timeline line is hand-drawn, slightly wavy, not perfectly straight
-- Phase circles are rough, not perfect circles
-- Arrows between phases are hand-drawn with slight curves
-
-**Color Palette:**
-| Color | Hex | Usage |
-|-------|-----|-------|
-| Primary Blue | #015880 | Timeline, phase numbers, headers, arrows |
-| Accent Blue | #A7E0FA | Phase labels, highlights, bottom banner |
-| Gray | #4D4D4D | Bullet text, annotations, disclaimer |
-| Off-white | #F5F5F0 | Background |
-
----
+_The "Renewal Timeline: Month-by-Month Milestones" infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 RFP Scoring Methodology Terms Decoded — Marked-Up Contract Page Messy Infographic
 

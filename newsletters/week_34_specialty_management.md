@@ -3,56 +3,70 @@
 
 ---
 
-## Publishing Timeline
+## Weekly Run of Show
 
-| Day | Time | Platform | Content | Status |
-|-----|------|----------|---------|--------|
-| Mon Aug 24 | 7:30 AM | Substack | "Specialty Drug Management: The Category That Defines Your Plan's Cost Trajectory" | [ ] |
-| Mon Aug 24 | 7:45 AM | LinkedIn Newsletter | Specialty Management Briefing | [ ] |
-| Mon Aug 24 | 8:00 AM | X (Twitter) | recipe / Copay maximizer (Tier B) | [ ] |
-| Mon Aug 24 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Mon Aug 24 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Mon Aug 24 | 7:00 PM | X (Twitter) | question post [A14] | [ ] |
-| Mon Aug 24 | 8:30 PM | X (Twitter) | aphorism [C1] | [ ] |
-| Tue Aug 25 | 8:00 AM | X (Twitter) | recipe / Formulary exclusions (Tier B) | [ ] |
-| Tue Aug 25 | 10:00 AM | LinkedIn Feed | Post 125 - "From Programs That Cost Money to Programs That Earn Their Keep" Bridge Clean Infographic (different pillar) | [ ] |
-| Tue Aug 25 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Tue Aug 25 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Tue Aug 25 | 7:00 PM | X (Twitter) | question post [A15] | [ ] |
-| Tue Aug 25 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
-| Wed Aug 26 | 8:00 AM | X (Twitter) | recipe / GER gaming (Tier B) | [ ] |
-| Wed Aug 26 | 10:00 AM | LinkedIn Feed | Post 126 - Strong POV TEXT (~230 words) | [ ] |
-| Wed Aug 26 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Wed Aug 26 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Wed Aug 26 | 7:00 PM | X (Twitter) | question post [A16] | [ ] |
-| Wed Aug 26 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
-| Thu Aug 27 | 7:30 AM | Substack | Field Note: "Reauthorization Protocols: The Specialty Cost Lever Nobody Discusses" | [ ] |
-| Thu Aug 27 | 8:00 AM | X (Twitter) | recipe / Admin fee unbundling (Tier B) | [ ] |
-| Thu Aug 27 | 10:00 AM | LinkedIn Feed | Post 127 - 5 Questions About Your Audit Rights (Carousel, Slot C evergreen rotation) | [ ] |
-| Thu Aug 27 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Thu Aug 27 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Thu Aug 27 | 7:00 PM | X (Twitter) | question post [A1] | [ ] |
-| Thu Aug 27 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
-| Fri Aug 28 | 8:00 AM | X (Twitter) | recipe / Network access fee (Tier B) | [ ] |
-| Fri Aug 28 | 10:00 AM | LinkedIn Feed | Post 128 - Tease Hook (teases Week 35) | [ ] |
-| Fri Aug 28 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Fri Aug 28 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Fri Aug 28 | 7:00 PM | X (Twitter) | question post [A2] | [ ] |
-| Fri Aug 28 | 8:30 PM | X (Twitter) | origin-anchored (1/week) [D3] | [ ] |
-| Sat Aug 29 | 8:00 AM | X (Twitter) | recipe / Spread pricing (Tier A weekend Cuban-bait) | [ ] |
-| Sat Aug 29 | 10:00 AM | X (Twitter) | formulary exclusivity payment (Tier A) | [ ] |
-| Sat Aug 29 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sat Aug 29 | 2:30 PM | X (Twitter) | dispensing fee spread (Tier A) | [ ] |
-| Sat Aug 29 | 5:00 PM | X (Twitter) | punchy | [ ] |
-| Sat Aug 29 | 7:00 PM | X (Twitter) | question post [A3] | [ ] |
-| Sat Aug 29 | 8:30 PM | X (Twitter) | aphorism [C3] | [ ] |
-| Sun Aug 30 | 8:00 AM | X (Twitter) | recipe / Specialty routing (Tier A weekend Cuban-bait) | [ ] |
-| Sun Aug 30 | 10:00 AM | X (Twitter) | price protection reclassification (Tier A) | [ ] |
-| Sun Aug 30 | 12:00 PM | X (Twitter) | news-reaction HOLD | [ ] |
-| Sun Aug 30 | 2:30 PM | X (Twitter) | copay accumulator (Tier A) | [ ] |
-| Sun Aug 30 | 5:00 PM | X (Twitter) | origin (the one allowed this week) | [ ] |
-| Sun Aug 30 | 7:00 PM | X (Twitter) | question post [A4] | [ ] |
-| Sun Aug 30 | 8:30 PM | X (Twitter) | one question [B3] | [ ] |
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (the Thursday slot is the live "5 Mid-Year Performance Guarantee Terms Decoded" Ledger Annotated messy infographic; the repurposed One Number Carousel now lives in PART 1 as an In-Article Visual)._
+
+| Day | Time | Channel | Content | Where | ✓ |
+|-----|------|---------|---------|-------|---|
+| Sun Aug 23 | - | Prep | Final review of all content | this sheet | [ ] |
+| Mon Aug 24 | 7:30 AM | Substack | Deep dive: "Specialty Drug Management: The Category That Defines Your Plan's Cost Trajectory" | PART 1 | [ ] |
+| Mon Aug 24 | 7:45 AM | LI Newsletter | Specialty Management Briefing (Issue #29) | PART 2 | [ ] |
+| Mon Aug 24 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Mon | [ ] |
+| Mon Aug 24 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
+| Mon Aug 24 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
+| Mon Aug 24 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
+| Mon Aug 24 | 7:00 PM | X | question [A14] | PART 4B · Mon | [ ] |
+| Mon Aug 24 | 8:30 PM | X | aphorism [C1] | PART 4B · Mon | [ ] |
+| Tue Aug 25 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Tue | [ ] |
+| Tue Aug 25 | 10:00 AM | LI Feed | Post 125 — "From Programs That Cost Money to Programs That Earn Their Keep" (Bridge clean infographic) | Post 125 | [ ] |
+| Tue Aug 25 | 10:05 AM | LI Feed | Post 125 first comment | Post 125 | [ ] |
+| Tue Aug 25 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Aug 25 | 1:30 PM | LI Company | Reshare of Post 125 | Post 125 Reshare | [ ] |
+| Tue Aug 25 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
+| Tue Aug 25 | 7:00 PM | X | question [A15] | PART 4B · Tue | [ ] |
+| Tue Aug 25 | 8:30 PM | X | one question [B1] | PART 4B · Tue | [ ] |
+| Wed Aug 26 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Wed | [ ] |
+| Wed Aug 26 | 10:00 AM | LI Feed | Post 126 — Strong POV text (specialty routing / oversight) | Post 126 | [ ] |
+| Wed Aug 26 | 10:05 AM | LI Feed | Post 126 first comment | Post 126 | [ ] |
+| Wed Aug 26 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Aug 26 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Aug 26 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Aug 26 | 7:00 PM | X | question [A16] | PART 4B · Wed | [ ] |
+| Wed Aug 26 | 8:30 PM | X | aphorism [C2] | PART 4B · Wed | [ ] |
+| Thu Aug 27 | 7:30 AM | Substack | Field Note: "Auditing Your Mid-Year Performance Guarantees" | PART 1B | [ ] |
+| Thu Aug 27 | 7:30 AM | Substack | Monthly Q&A Thread #5: Pre-Renewal Strategy (last-Thursday thread) | PART 2B | [ ] |
+| Thu Aug 27 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Thu | [ ] |
+| Thu Aug 27 | 10:00 AM | LI Feed | Post 127 — "5 Mid-Year Performance Guarantee Terms Decoded" (Ledger Annotated messy infographic, Slot C) | Post 127 | [ ] |
+| Thu Aug 27 | 10:05 AM | LI Feed | Post 127 first comment | Post 127 | [ ] |
+| Thu Aug 27 | 12:00 PM | X | Thu-visual amplifier [VISUAL: Mid-Year Guarantee decoder] (after 10 AM) | PART 4B · Thu | [ ] |
+| Thu Aug 27 | 1:30 PM | LI Company | Reshare of Post 127 | Post 127 Reshare | [ ] |
+| Thu Aug 27 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
+| Thu Aug 27 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Aug 27 | 7:00 PM | X | question [A1] | PART 4B · Thu | [ ] |
+| Thu Aug 27 | 8:30 PM | X | one question [B2] | PART 4B · Thu | [ ] |
+| Fri Aug 28 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Fri | [ ] |
+| Fri Aug 28 | 10:00 AM | LI Feed | Post 128 — Tease Hook (teases W35 Renewal Negotiation) | Post 128 | [ ] |
+| Fri Aug 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
+| Fri Aug 28 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
+| Fri Aug 28 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 28 | 7:00 PM | X | question [A2] | PART 4B · Fri | [ ] |
+| Fri Aug 28 | 8:30 PM | X | origin-anchored [D3] | PART 4B · Fri | [ ] |
+| Sat Aug 29 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
+| Sat Aug 29 | 8:00 AM | X | recipe / Spread pricing (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 10:00 AM | X | formulary exclusivity payment (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 2:30 PM | X | dispensing fee spread (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 7:00 PM | X | question [A3] | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 8:30 PM | X | aphorism [C3] | PART 4B · Sat | [ ] |
+| Sun Aug 30 | 8:00 AM | X | recipe / Specialty routing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 10:00 AM | X | price protection reclassification (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 2:30 PM | X | copay accumulator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 7:00 PM | X | question [A4] | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 8:30 PM | X | one question [B3] | PART 4B · Sun | [ ] |
 
 ---
 
@@ -152,6 +166,24 @@ Have you scored your plan's specialty management? Leave a comment below.
 *For the full protective contract language on specialty routing and prior authorization, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
+
+---
+
+### In-Article Visual: Specialty Management Assessment — Score It Before Renewal
+
+_Embedded One Number visual for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the assessment / scoring section above._
+
+**Format:** One Number Carousel (7 slides), Template C. Primary Blue / White alternating slides, Plex Sans SemiBold display, Plex Mono for the numeric anchors, tabular figures. 1080 x 1350 px each.
+
+**Slide-by-slide:**
+
+- **Slide 1 (Blue):** "8" — "Management levers that determine your specialty cost trajectory."
+- **Slide 2 (White):** "120" — "Total points on the assessment. Three dimensions. Eight factors."
+- **Slide 3 (Blue):** "Below 60" — "Significant gaps. This is your top renewal priority."
+- **Slide 4 (White):** "60-90" — "Moderate. Target the bottom three levers for improvement."
+- **Slide 5 (Blue):** "Above 90" — "Advanced. Maintain and watch for emerging gaps."
+- **Slide 6 (White):** "1" — "Start with the lever that matches your highest specialty spend."
+- **Slide 7 (Blue):** "Score it before renewal." team@rxbs.org | Benefit Blind Spots
 
 ---
 
@@ -532,24 +564,7 @@ This week's Benefit Blind Spots deep dive on specialty drug management is the op
 
 ## Post 127 - Thursday 10:00 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: 5 Questions About Your Audit Rights (Slot C of the evergreen rotation).**
-
-### Specialty Management Assessment (One Number Carousel) - WEEKLY THEME [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** One Number Carousel (7 slides) - Template C
-
-#### One Number Carousel Slides
-
-**Slide 1 (Blue):** "8" — "Management levers that determine your specialty cost trajectory."
-**Slide 2 (White):** "120" — "Total points on the assessment. Three dimensions. Eight factors."
-**Slide 3 (Blue):** "Below 60" — "Significant gaps. This is your top renewal priority."
-**Slide 4 (White):** "60-90" — "Moderate. Target the bottom three levers for improvement."
-**Slide 5 (Blue):** "Above 90" — "Advanced. Maintain and watch for emerging gaps."
-**Slide 6 (White):** "1" — "Start with the lever that matches your highest specialty spend."
-**Slide 7 (Blue):** "Score it before renewal." team@rxbs.org | Benefit Blind Spots
-
----
+_The "Specialty Management Assessment" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 Mid-Year Performance Guarantee Terms Decoded — Ledger Annotated Messy Infographic
 
@@ -565,6 +580,8 @@ This week's Benefit Blind Spots deep dive on specialty drug management is the op
 #### Post Copy
 
 ```
+The FTC found the big-3 PBMs marked up more than one in five specialty generics by over 1,000% at the pharmacies they own: $7.3 billion above what the drugs actually cost them. Now look at your effective-rate guarantees. They are written to look fine while that markup runs straight through.
+
 Five contract guarantees you should already have audited at mid-year. Most plan sponsors do not run the audit until year-end, when the PBM has had two more quarters to optimize the numbers.
 
 I review hundreds of PBM contracts a year at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
@@ -588,9 +605,12 @@ Save this for your H1/H2 review.
 #PBMContracts #PerformanceGuarantees #SelfFundedEmployers
 ```
 
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
+#### First Comment
 
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
+```
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes that turn the decoded guarantee vocabulary into a mid-year position (pull each guarantee's actual H1 performance, classify gaps by remediation type, send the written gap notification before year-end). Plus a paste-ready Mid-Year Performance Guarantee Audit Worksheet. [SUBSTACK FIELD NOTE URL]
+```
+
 #### Ledger Annotated Image Generation Prompt
 
 > A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open green-tinted accountant's ledger book rests on a dark wood desk under soft natural daylight. The visible double-page spread shows faint printed horizontal rules and vertical columns in light green tint. The header at the top of the left page reads, in printed black serif type: "MID-YEAR PERFORMANCE GUARANTEE LEDGER · H1." A fountain pen with a dark barrel rests across the upper-right corner of the right page.
@@ -898,7 +918,7 @@ Your PBM pays its own mail-order pharmacy a richer dispensing fee than the corne
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · punchy:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+Specialty is single digits of your scripts and about half your pharmacy spend. It's also the part of your plan with the least independent oversight. The size and the blindness are not a coincidence.
 ```
 - **7:00 PM · question post [A3]:**
 ```
@@ -907,7 +927,7 @@ Pull your specialty claims and sort by filling pharmacy. What share filled at a 
   First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C3]:**
 ```
-A PBM contract is written in a dialect designed so the person paying the bill can't read it. It isn't complicated. It's hidden on purpose.
+A guarantee with no remediation clause behind it isn't a guarantee. It's a sentence the PBM wrote to make you stop reading.
 ```
 
 **Sun Aug 30**
@@ -923,7 +943,7 @@ Manufacturers pay PBMs "price protection" when a drug's list price rises. Your c
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 ```
 - **2:30 PM · copay accumulator (Tier A):**
 ```
