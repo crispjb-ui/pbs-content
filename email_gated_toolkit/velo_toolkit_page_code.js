@@ -174,12 +174,14 @@ $w.onReady(() => {
 
   // ---- Conditional size field: show it only for BUYER roles ----
   // Buyers (CEO/CFO/HR/Benefits mgr) get "Number of employees"; Broker/Other never see it.
+  // Collapses BOTH the wrapper box (if you made one) AND the dropdown itself, so a
+  // separate #sizeBox is OPTIONAL — giving #inputSize "Collapsed on load" is enough.
   function syncSizeField() {
     if (isBuyerRole(getVal(id.role))) {
-      show(id.sizeBox);
+      show(id.sizeBox); show(id.size);
     } else {
       clearVal(id.size);   // drop any stale value so non-buyers submit size empty
-      hide(id.sizeBox);
+      hide(id.size); hide(id.sizeBox);
     }
   }
   const roleEl = $w(id.role);
