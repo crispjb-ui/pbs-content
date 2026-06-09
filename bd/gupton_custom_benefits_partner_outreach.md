@@ -12,12 +12,12 @@ _First lead through the live Wix toolkit funnel scored PARTNER. Source: toolkit 
 - Funnel tier = **PARTNER** (Broker / Consultant branch). Per `email_gated_toolkit/role_funnel_plan.md` and the CLAUDE.md "brokers as partners" rule: **never pitch a broker an audit.** Track = referral / partnership. PBS is the independent audit bench she brings in; she stays the relationship owner. Metric = clients referred, not a direct close.
 
 ## Objective
-Open a peer, founder-to-founder relationship. Two soft doors, take either or neither: (1) a no-cost first look / quiet pharmacy-audit bench she can put in front of her clients, (2) Ginny as a guest on Healthcare Solutions decoding PBM contract language. Relationship, not a close.
+Open a peer, founder-to-founder relationship. One soft door: a no-cost first look / quiet pharmacy-audit bench she can put in front of her clients, with the broker as relationship owner. Relationship, not a close.
 
 ## Hooks to deploy (all real, all specific)
 - Same-hymnal alignment: Health Rosetta + Mitigate vetting, comp disclosure, transparent self-funded since 2006.
 - Proprietary anchor: "We review hundreds of PBM contracts a year." (True; the load-bearing credibility line.)
-- Podcast guesting as a no-pressure relationship builder (aligns with `podcast_pitching_guide.md`).
+- _Podcast (Healthcare Solutions) deliberately NOT offered: the show is dormant, last episode S03E10 ~Jan 2024, no Season 4. A "come on the show" ask would read as out-of-touch. Hold it in reserve as a warm follow-up only if she revives the podcast._
 
 ## Cautions
 - **No audit pitch to her.** Behind brokers, never around them. Never imply she has missed anything on pharmacy; frame PBS as the specialist hands, she as the relationship owner.
@@ -54,20 +54,14 @@ day, and the broker stays the relationship owner the whole way.
 
 I am not writing to pitch you anything. I am writing because the
 firms vetted by Health Rosetta and Mitigate are the ones we most
-want to know. Two open doors, take either or neither:
+want to know. One open door: if a client's pharmacy spend or PBM
+contract ever needs an independent read, we are a no-cost first
+look and a quiet bench you can put your name in front of. The
+broker stays the relationship owner the whole way.
 
-1. If a client's pharmacy spend or PBM contract ever needs an
-independent read, we are a no-cost first look and a quiet bench
-you can put your name in front of.
-
-2. I would happily come on Healthcare Solutions to decode PBM
-contract language for your listeners: the spread, the rebate
-definitions, the audit-rights clauses most contracts quietly
-strip out. Whatever would be useful to your audience.
-
-If either is interesting, reply here or grab time at
-team@rxbs.org. If not, you have the worksheets and I am glad they
-are in good hands.
+If that is ever useful, reply here or grab time at team@rxbs.org.
+If not, you have the worksheets and I am glad they are in good
+hands.
 
 Ginny
 
@@ -95,10 +89,9 @@ them. The advisor stays the relationship owner.
 No pitch. Just an open door: if a client's PBM contract or
 pharmacy spend ever needs an independent read, we are a no-cost
 first look and a quiet bench you can put your name in front of.
-And I would gladly come on Healthcare Solutions to decode PBM
-contract language for your listeners anytime.
+The broker stays the relationship owner the whole way.
 
-Reply here or team@rxbs.org if either is useful.
+Reply here or team@rxbs.org if that is ever useful.
 
 Ginny
 
@@ -109,4 +102,4 @@ team@rxbs.org | www.rxbs.org
 
 ## Next step after sending
 - Mark status = "contacted" in the PBS Toolkit Leads sheet (per the alert email).
-- If she bites on the podcast, that is the warm path; treat it as relationship-first, referrals follow.
+- Treat as relationship-first; referrals follow. If she ever revives Healthcare Solutions, a guest spot is the natural warm re-engagement.
