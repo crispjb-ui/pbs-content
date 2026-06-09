@@ -306,7 +306,7 @@ After each podcast recording:
 
 | Podcast | Date Pitched | Topic | Response | Recording Date | Air Date | Follower Impact |
 |---------|-------------|-------|----------|----------------|----------|-----------------|
-| SHRM | (Q1) | GLP-1s | Appeared | - | - | +1 podcast booking |
+| SHRM — Honest HR | (Q1) | GLP-1s | Appeared · 5 clips built | - | youtube.com/watch?v=BZyuiWCY-08 | +1 podcast booking |
 | | | | | | | |
 | | | | | | | |
 
