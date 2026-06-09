@@ -107,9 +107,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Channel Pricing Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `The Channel Pricing Audit Worksheet runs one of the fifteen audits inside a Contract Review. Half a day per-channel for retail, mail, specialty. Run standalone or as part of the integrated review.` |
-| `field_note_title` | `How Plan Sponsors Actually Enforce Audit Rights` |
-| `field_note_blurb` | `The Contract Review surfaces audit-rights gaps. This Field Note is what comes next: how to actually run the audit once the contract has the right language.` |
-| `field_note_url` | `[PLACEHOLDER — FN-03 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
+| `field_note_title` | `The PBM Contract Language Library` |
+| `field_note_blurb` | `Free and evergreen: the protective PBM contract language behind every audit in this checklist, with the exact redlines to ask your PBM for. Drawn from the patterns we see across hundreds of contract reviews a year.` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/pbm-contract-language-library` |
 
 ---
 
@@ -148,9 +148,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Contract Amendment Letter Template` |
 | `second_toolkit_pdf_url` | `[Upload week_24_thursday_contract_amendment_letter.pdf to Wix Media, paste URL]` |
 | `second_toolkit_blurb` | `The Contract Amendment Letter Template carries the optimize-existing path forward. Paste your audit findings into the redline letter, send to your PBM with the negotiation timeline. Mid-year window beats year-end.` |
-| `field_note_title` | `What a PBM Transition Actually Looks Like: Timeline and Pitfalls` |
-| `field_note_blurb` | `The strategic decision is one thing. The operational reality of the switch is another. Six months minimum from RFP to go-live, with the pitfalls that catch most plans by surprise.` |
-| `field_note_url` | `[PLACEHOLDER — FN-10 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
+| `field_note_title` | `The PBM Contract Language Library` |
+| `field_note_blurb` | `Free and evergreen: if you choose to optimize, this is the redline language to negotiate clause by clause. The protective PBM contract terms behind the decision, drawn from hundreds of reviews a year.` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/pbm-contract-language-library` |
 
 ---
 
@@ -189,9 +189,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Mid-Year Claims Red Flag Checklist` |
 | `second_toolkit_pdf_url` | `[Upload week_23_midyear_claims_red_flag_checklist.pdf to Wix Media, paste URL]` |
 | `second_toolkit_blurb` | `The Mid-Year Claims Red Flag Checklist is the within-cycle audit that feeds your PBR. Five claim patterns surface between renewals; pair with twice-yearly PBR for ongoing oversight.` |
-| `field_note_title` | `Five Lines to Read First in Your PBM's Quarterly Report` |
-| `field_note_blurb` | `The PBR is the comprehensive twice-yearly view. This is the 30-minute version: five lines to scan in the most recent quarterly report this week.` |
-| `field_note_url` | `[PLACEHOLDER — FN-05 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
+| `field_note_title` | `The PBM Contract Language Library` |
+| `field_note_blurb` | `Free and evergreen: the contract language to check during your Pharmacy Benefit Review, side-by-side weak vs. protective terms for every major PBM provision. Drawn from hundreds of reviews a year.` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/pbm-contract-language-library` |
 
 ---
 
