@@ -1,5 +1,8 @@
 # rxbs.org — Optimized Website Mockups (brand-accurate prototypes)
 
+> **LOCKED DIRECTION (Jun 9, 2026):** the chosen build is the merged multi-page system in **`site/`** (v3 decoder spine + v5 stats band + v2 proof strip + v4 capture, nav toolbar). Build the Wix revamp off `site/` — see `site/README.md`. The `v2`–`v5` variants and the standalone `toolkit-library*.html` files below are the exploration that led to it; kept for reference, no longer the target.
+
+
 Design prototypes implementing `website_audit.md`, in the PBS v2 brand system
 (Primary Blue #015880, Accent Blue #A7E0FA, Gray #4D4D4D, white, paper #FAFAF7,
 IBM Plex Sans/Mono, triangle wordmark). Open the HTML in a browser for the true
