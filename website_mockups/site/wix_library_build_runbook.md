@@ -8,14 +8,11 @@ _Reconciled to current state (Jun 2026): 26 Tier 2 items imported with text fiel
 
 ## PHASE 0 — Back up + confirm fields (5 min)
 1. **CMS → Toolkits → More Actions → Export.** Save the file. (Instant rollback if anything goes sideways.)
-2. **CMS → Toolkits → Manage Fields.** Confirm these exist; **Add Field** for any missing:
+2. **CMS → Toolkits → Manage Fields.** Add only the two missing fields:
    - `pillar` — **Text**
    - `card_desc` — **Text**
-   - `preview_image` — **Image** (not URL)
-   - `tier` — Number (or Text)
-   - `is_featured` — Boolean
-   - `is_archived` — Boolean
-   (The rest already imported.)
+   **Use the existing native `Image` field for the thumbnail — do NOT create a separate `preview_image` field** (the 4 live items already populate `Image` with the toolkit cover; that's the product shot). Anywhere this runbook says `preview_image`, use the existing **Image** field instead.
+   Confirm these already exist: `tier`, `is_featured`, `is_archived`.
 
 ## PHASE 1 — Bulk-fill pillar + card_desc (one import, 5 min)
 3. **CMS → Toolkits → More Actions → Import CSV** → `email_gated_toolkit/tier2_pillar_carddesc_update.csv`.
