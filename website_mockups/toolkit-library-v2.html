@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Plan Sponsor Toolkit Library — PBS</title>
+<!--
+  ELEVATED LIBRARY PAGE MOCKUP (Wix build blueprint).
+  - Structure + data-binding is LOCKED and direction-independent.
+  - Only the page chrome (nav bar + footer band) re-skins to the chosen
+    homepage direction (v2 editorial / v3 decoder / v4 conversion / v5 data).
+  - Cards bind to the Wix `Toolkits` collection Repeater:
+      thumb img  <- preview_image (Image field)
+      title      <- name
+      pillar     <- pillar
+      desc       <- (short card desc; see dataset "Library display fields")
+      href       <- /toolkit/{slug}
+  - Sections are driven by `tier` (Start Here = tier 1) and `pillar`.
+  - Real preview PNGs referenced relatively so this file renders locally.
+-->
+<style>
+  :root{
+    --blue:#015880; --accent:#A7E0FA; --gray:#4D4D4D; --paper:#FAFAF7;
+    --line:#e3e6e8; --muted:#6b7378; --ink:#1f2a30;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--paper);color:var(--gray);
+       font-family:'IBM Plex Sans',-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.5}
+
+  /* ---- chrome (re-skins per chosen direction) ---- */
+  .nav{position:sticky;top:0;z-index:20;background:#fff;border-bottom:1px solid var(--line);
+       display:flex;align-items:center;justify-content:space-between;padding:12px 20px}
+  .nav .brand{display:flex;align-items:center;gap:8px;font-weight:600;color:var(--blue);font-size:15px}
+  .nav .cta-btn{background:var(--blue);color:#fff;text-decoration:none;font-weight:600;font-size:13px;
+                padding:9px 15px;border-radius:7px}
+  .tri{width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:11px solid var(--blue)}
+
+  .wrap{max-width:1160px;margin:0 auto;padding:30px 20px 64px}
+  h1{color:var(--blue);font-size:32px;line-height:1.12;margin:0 0 8px}
+  .lede{max-width:660px;color:var(--muted);font-size:15.5px;margin:0 0 22px}
+
+  /* pillar quick-nav */
+  .jump{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 30px}
+  .jump a{font-size:12.5px;font-weight:600;color:var(--blue);text-decoration:none;
+          border:1px solid var(--line);border-radius:20px;padding:6px 13px;background:#fff}
+  .jump a:hover{border-color:var(--accent);background:#f3fafe}
+
+  .section-head{display:flex;align-items:baseline;gap:10px;margin:38px 0 14px;border-bottom:2px solid var(--line);padding-bottom:8px;scroll-margin-top:64px}
+  .section-head h2{color:var(--blue);font-size:20px;margin:0}
+  .section-head .count{color:var(--muted);font-size:13px}
+  .starthere{border-bottom-color:var(--accent)}
+  .starthere h2::before{content:"\2605  ";color:var(--accent)}
+  .starthere .count{color:var(--blue)}
+
+  .grid{display:grid;gap:18px;grid-template-columns:repeat(auto-fill,minmax(256px,1fr))}
+
+  /* CARD — DESKTOP: vertical tile, real product-shot thumb on top */
+  .card{background:#fff;border:1px solid var(--line);border-radius:11px;overflow:hidden;
+        display:flex;flex-direction:column;text-decoration:none;color:inherit;
+        transition:box-shadow .15s,border-color .15s,transform .15s}
+  .card:hover{box-shadow:0 8px 22px rgba(1,88,128,.12);border-color:var(--accent);transform:translateY(-2px)}
+  .thumb{position:relative;aspect-ratio:4/5;background:#eef6fb;border-bottom:1px solid var(--line);overflow:hidden;flex:none}
+  .thumb img{width:100%;height:100%;object-fit:cover;object-position:top center;display:block}
+  .corner{position:absolute;top:0;right:0;width:30px;height:30px;background:var(--accent);clip-path:polygon(100% 0,0 0,100% 100%)}
+  .freetag{position:absolute;left:10px;bottom:10px;background:var(--blue);color:#fff;font-size:10px;font-weight:600;
+           letter-spacing:.06em;text-transform:uppercase;padding:3px 8px;border-radius:4px}
+  .body{padding:14px 16px 17px;display:flex;flex-direction:column;gap:7px;flex:1}
+  .pillar{font-size:10px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+  .title{font-size:16px;font-weight:600;color:var(--ink);line-height:1.25}
+  .desc{font-size:13px;color:var(--muted);margin:0}
+  .cta{margin-top:auto;font-size:13px;font-weight:600;color:var(--blue)}
+  .cta::after{content:"  \2192"}
+
+  /* CARD — MOBILE: compact horizontal row (small thumb left, text right) */
+  @media (max-width:560px){
+    .wrap{padding:22px 14px 46px}
+    h1{font-size:25px}
+    .jump{gap:6px;margin-bottom:22px}
+    .grid{grid-template-columns:1fr;gap:11px}
+    .card{flex-direction:row;align-items:stretch}
+    .thumb{aspect-ratio:auto;width:74px;flex:none;border-bottom:none;border-right:1px solid var(--line)}
+    .thumb img{object-position:top center}
+    .corner{width:18px;height:18px}
+    .freetag{display:none}
+    .body{padding:11px 13px;gap:4px;justify-content:center}
+    .title{font-size:14.5px}
+    .desc{font-size:12px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+    .cta{margin-top:3px;font-size:12px}
+  }
+</style>
+</head>
+<body>
+
+<div class="nav">
+  <div class="brand"><span class="tri"></span> Prescription Benefit Solutions</div>
+  <a class="cta-btn" href="#">Book a Review</a>
+</div>
+
+<div class="wrap">
+  <h1>Plan Sponsor Toolkit Library</h1>
+  <p class="lede">Free printable audit frameworks and decision tools PBS uses across hundreds of PBM contract reviews a year. Pick one, get the 2-page worksheet in your inbox.</p>
+
+  <nav class="jump">
+    <a href="#start">Start Here</a>
+    <a href="#contract">PBM Contract Insights</a>
+    <a href="#transparency">Transparency &amp; Industry</a>
+    <a href="#cost">Cost Containment</a>
+    <a href="#clinical">Clinical Pharmacy</a>
+    <a href="#selffunded">Self-Funded Guidance</a>
+  </nav>
+
+  <!-- ===================== START HERE (Tier 1) ===================== -->
+  <div class="section-head starthere" id="start">
+    <h2>Start Here · Foundational Frameworks</h2>
+    <span class="count">New to this? Begin with these three. They frame the whole review.</span>
+  </div>
+  <div class="grid">
+    <a class="card" href="/toolkit/contract-review-readiness">
+      <div class="thumb"><img loading="lazy" src="../templates/documents/evergreen_contract_review_readiness_checklist_preview.png" alt="Contract Review Readiness Checklist"><span class="corner"></span><span class="freetag">Free</span></div>
+      <div class="body"><div class="pillar">Foundational</div><div class="title">Contract Review Readiness Checklist</div><p class="desc">The 8 documents to pull before you open your PBM contract.</p><span class="cta">Get the checklist</span></div>
+    </a>
+    <a class="card" href="/toolkit/optimize-vs-go-to-market">
+      <div class="thumb"><img loading="lazy" src="../templates/documents/evergreen_optimize_vs_go_to_market_decision_framework_preview.png" alt="Optimize vs Go-to-Market Decision Framework"><span class="corner"></span><span class="freetag">Free</span></div>
+      <div class="body"><div class="pillar">Foundational</div><div class="title">Optimize vs. Go-to-Market Decision Framework</div><p class="desc">Decide whether to renegotiate your current PBM or run an RFP.</p><span class="cta">Get the framework</span></div>
+    </a>
+    <a class="card" href="/toolkit/pbr-framework">
+      <div class="thumb"><img loading="lazy" src="../templates/documents/evergreen_pbr_pharmacy_benefit_review_framework_preview.png" alt="Pharmacy Benefit Review Framework"><span class="corner"></span><span class="freetag">Free</span></div>
+      <div class="body"><div class="pillar">Foundational</div><div class="title">Pharmacy Benefit Review (PBR) Framework</div><p class="desc">The twice-yearly structure of a plan-sponsor pharmacy benefit review.</p><span class="cta">Get the framework</span></div>
+    </a>
+  </div>
+
+  <!-- ===================== PBM CONTRACT INSIGHTS ===================== -->
+  <div class="section-head" id="contract"><h2>PBM Contract Insights</h2><span class="count">7 toolkits</span></div>
+  <div class="grid">
+    <a class="card" href="/toolkit/quarterly-reporting"><div class="thumb"><img loading="lazy" src="../templates/documents/week_21_quarterly_reporting_checklist_preview.png" alt="Quarterly Reporting Checklist"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">PBM Contract Insights</div><div class="title">Quarterly Reporting Checklist</div><p class="desc">15 lines to read first in the report your PBM sends each quarter.</p><span class="cta">Get the checklist</span></div></a>
+    <a class="card" href="/toolkit/contract-amendment-letter"><div class="thumb"><img loading="lazy" src="../templates/documents/week_24_thursday_contract_amendment_letter_preview.png" alt="Contract Amendment Letter Template"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">PBM Contract Insights</div><div class="title">Contract Amendment Letter Template</div><p class="desc">Paste-ready redline letter to send your PBM mid-cycle.</p><span class="cta">Get the template</span></div></a>
+    <a class="card" href="/toolkit/rfp-scoring-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_25_thursday_rfp_scoring_audit_worksheet_preview.png" alt="RFP Scoring Methodology Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">PBM Contract Insights</div><div class="title">RFP Scoring Methodology Audit</div><p class="desc">Score PBM RFP responses on what actually matters.</p><span class="cta">Get the worksheet</span></div></a>
+    <a class="card" href="/toolkit/ger-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_28_thursday_ger_audit_worksheet_preview.png" alt="GER Audit Worksheet"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">PBM Contract Insights</div><div class="title">GER Audit Worksheet</div><p class="desc">Test your guaranteed effective rate against the actuals.</p><span class="cta">Get the worksheet</span></div></a>
+    <a class="card" href="/toolkit/midyear-guarantee-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_34_thursday_midyear_guarantee_audit_preview.png" alt="Mid-Year Performance Guarantee Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">PBM Contract Insights</div><div class="title">Mid-Year Performance Guarantee Audit</div><p class="desc">Check performance guarantees at the mid-year mark.</p><span class="cta">Get the audit</span></div></a>
+    <a class="card" href="/toolkit/termination-clause-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_35_thursday_termination_clause_audit_preview.png" alt="Termination Clause Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">PBM Contract Insights</div><div class="title">Termination Clause Audit</div><p class="desc">The clauses that decide whether you can actually leave.</p><span class="cta">Get the audit</span></div></a>
+    <a class="card" href="/toolkit/definition-variance-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_36_thursday_definition_variance_audit_preview.png" alt="Definition Variance Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">PBM Contract Insights</div><div class="title">Definition Variance Audit</div><p class="desc">Where the contract's definitions quietly cost you.</p><span class="cta">Get the audit</span></div></a>
+  </div>
+
+  <!-- ===================== TRANSPARENCY & INDUSTRY ===================== -->
+  <div class="section-head" id="transparency"><h2>Transparency &amp; Industry Education</h2><span class="count">4 toolkits</span></div>
+  <div class="grid">
+    <a class="card" href="/toolkit/channel-pricing"><div class="thumb"><img loading="lazy" src="../templates/documents/week_18_channel_pricing_audit_worksheet_preview.png" alt="Channel Pricing Audit Worksheet"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Transparency &amp; Industry</div><div class="title">Channel Pricing Audit Worksheet</div><p class="desc">Three passes that surface spread across retail, mail, and specialty.</p><span class="cta">Get the worksheet</span></div></a>
+    <a class="card" href="/toolkit/rebate-report-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_20_thursday_rebate_report_audit_worksheet_preview.png" alt="Rebate Report Audit Worksheet"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Transparency &amp; Industry</div><div class="title">Rebate Report Audit Worksheet</div><p class="desc">Read what your PBM's rebate report doesn't say out loud.</p><span class="cta">Get the worksheet</span></div></a>
+    <a class="card" href="/toolkit/pbm-compensation"><div class="thumb"><img loading="lazy" src="../templates/documents/week_27_thursday_pbm_compensation_audit_preview.png" alt="PBM Compensation Audit Worksheet"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Transparency &amp; Industry</div><div class="title">PBM Compensation Audit Worksheet</div><p class="desc">Map all five revenue streams flowing from your plan to your PBM.</p><span class="cta">Get the worksheet</span></div></a>
+    <a class="card" href="/toolkit/pbm-disclosure-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_31_thursday_pbm_disclosure_audit_preview.png" alt="PBM Disclosure Audit Worksheet"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Transparency &amp; Industry</div><div class="title">PBM Disclosure Audit Worksheet</div><p class="desc">What the PBM must disclose versus what it actually does.</p><span class="cta">Get the worksheet</span></div></a>
+  </div>
+
+  <!-- ===================== COST CONTAINMENT ===================== -->
+  <div class="section-head" id="cost"><h2>Cost Containment Strategies</h2><span class="count">5 toolkits</span></div>
+  <div class="grid">
+    <a class="card" href="/toolkit/pa-roi-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_16_pa_roi_audit_scorecard_preview.png" alt="PA ROI Audit Scorecard"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Cost Containment</div><div class="title">PA ROI Audit Scorecard</div><p class="desc">A five-metric scorecard to audit your prior-authorization ROI.</p><span class="cta">Get the scorecard</span></div></a>
+    <a class="card" href="/toolkit/copay-card-calculator"><div class="thumb"><img loading="lazy" src="../templates/documents/week_20_copay_card_financial_impact_calculator_preview.png" alt="Copay Card Financial Impact Calculator"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Cost Containment</div><div class="title">Copay Card Financial Impact Calculator</div><p class="desc">A five-step model for copay card and accumulator impact.</p><span class="cta">Get the calculator</span></div></a>
+    <a class="card" href="/toolkit/midyear-claims-red-flag"><div class="thumb"><img loading="lazy" src="../templates/documents/week_23_midyear_claims_red_flag_checklist_preview.png" alt="Mid-Year Claims Red Flag Checklist"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Cost Containment</div><div class="title">Mid-Year Claims Red-Flag Checklist</div><p class="desc">Five claim patterns to catch before they compound into renewal.</p><span class="cta">Get the checklist</span></div></a>
+    <a class="card" href="/toolkit/network-configuration-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_29_thursday_network_configuration_audit_preview.png" alt="Network Configuration Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Cost Containment</div><div class="title">Network Configuration Audit</div><p class="desc">Check the pharmacy network for steered margin.</p><span class="cta">Get the audit</span></div></a>
+    <a class="card" href="/toolkit/cob-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_30_thursday_cob_audit_worksheet_preview.png" alt="Coordination of Benefits Audit Worksheet"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Cost Containment</div><div class="title">Coordination of Benefits Audit Worksheet</div><p class="desc">Recover spend hiding in coordination-of-benefits gaps.</p><span class="cta">Get the worksheet</span></div></a>
+  </div>
+
+  <!-- ===================== CLINICAL PHARMACY ===================== -->
+  <div class="section-head" id="clinical"><h2>Clinical Pharmacy Perspectives</h2><span class="count">5 toolkits</span></div>
+  <div class="grid">
+    <a class="card" href="/toolkit/drug-pipeline-watch"><div class="thumb"><img loading="lazy" src="../templates/documents/week_18_drug_pipeline_watch_list_preview.png" alt="Drug Pipeline Watch List"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Clinical Pharmacy</div><div class="title">Drug Pipeline Watch List</div><p class="desc">Five drug categories to budget for in 2026-2027.</p><span class="cta">Get the watch list</span></div></a>
+    <a class="card" href="/toolkit/biosimilar-readiness"><div class="thumb"><img loading="lazy" src="../templates/documents/week_22_biosimilar_readiness_assessment_preview.png" alt="Biosimilar Readiness Assessment"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Clinical Pharmacy</div><div class="title">Biosimilar Readiness Assessment</div><p class="desc">A six-factor readiness check for biosimilar conversion.</p><span class="cta">Get the assessment</span></div></a>
+    <a class="card" href="/toolkit/specialty-routing"><div class="thumb"><img loading="lazy" src="../templates/documents/week_22_thursday_specialty_routing_audit_worksheet_preview.png" alt="Specialty Routing Audit Worksheet"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Clinical Pharmacy</div><div class="title">Specialty Routing Audit Worksheet</div><p class="desc">Where your specialty scripts get routed, and why it costs more.</p><span class="cta">Get the worksheet</span></div></a>
+    <a class="card" href="/toolkit/step-therapy-override"><div class="thumb"><img loading="lazy" src="../templates/documents/week_26_thursday_step_therapy_override_audit_preview.png" alt="Step Therapy Override Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Clinical Pharmacy</div><div class="title">Step Therapy Override Audit</div><p class="desc">Audit your step-therapy override pathway for friction.</p><span class="cta">Get the audit</span></div></a>
+    <a class="card" href="/toolkit/member-transition-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_33_thursday_member_transition_audit_preview.png" alt="Member Transition Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Clinical Pharmacy</div><div class="title">Member Transition Audit</div><p class="desc">Protect members through a PBM or formulary switch.</p><span class="cta">Get the audit</span></div></a>
+  </div>
+
+  <!-- ===================== SELF-FUNDED GUIDANCE ===================== -->
+  <div class="section-head" id="selffunded"><h2>Self-Funded Employer Guidance</h2><span class="count">5 toolkits</span></div>
+  <div class="grid">
+    <a class="card" href="/toolkit/carve-out-decision"><div class="thumb"><img loading="lazy" src="../templates/documents/week_17_carve_out_decision_scorecard_preview.png" alt="Carve-Out Decision Scorecard"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Self-Funded Guidance</div><div class="title">Carve-Out Decision Scorecard</div><p class="desc">Ten factors that decide carve-in versus carve-out.</p><span class="cta">Get the scorecard</span></div></a>
+    <a class="card" href="/toolkit/fiduciary-documentation"><div class="thumb"><img loading="lazy" src="../templates/documents/week_19_fiduciary_documentation_checklist_preview.png" alt="Fiduciary Documentation Checklist"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Self-Funded Guidance</div><div class="title">Fiduciary Documentation Checklist</div><p class="desc">Five documentation categories that protect the plan fiduciary.</p><span class="cta">Get the checklist</span></div></a>
+    <a class="card" href="/toolkit/h1-renewal-readiness"><div class="thumb"><img loading="lazy" src="../templates/documents/week_24_h1_renewal_readiness_scorecard_preview.png" alt="H1 Renewal Readiness Scorecard"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Self-Funded Guidance</div><div class="title">H1 Renewal Readiness Scorecard</div><p class="desc">Five mid-year metrics plus a renewal-readiness score.</p><span class="cta">Get the scorecard</span></div></a>
+    <a class="card" href="/toolkit/fiduciary-compliance-audit"><div class="thumb"><img loading="lazy" src="../templates/documents/week_32_thursday_fiduciary_compliance_audit_preview.png" alt="Fiduciary Compliance Audit"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Self-Funded Guidance</div><div class="title">Fiduciary Compliance Audit</div><p class="desc">Test the plan against its ERISA fiduciary duties.</p><span class="cta">Get the audit</span></div></a>
+    <a class="card" href="/toolkit/pre-meeting-renewal-checklist"><div class="thumb"><img loading="lazy" src="../templates/documents/week_37_thursday_pre_meeting_renewal_checklist_preview.png" alt="Pre-Meeting Renewal Checklist"><span class="corner"></span><span class="freetag">Free</span></div><div class="body"><div class="pillar">Self-Funded Guidance</div><div class="title">Pre-Meeting Renewal Checklist</div><p class="desc">What to settle before you walk into the renewal meeting.</p><span class="cta">Get the checklist</span></div></a>
+  </div>
+
+</div>
+</body>
+</html>
