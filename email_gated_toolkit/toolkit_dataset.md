@@ -282,4 +282,42 @@ Pillar counts: Foundational 3 · PBM Contract Insights 7 · Transparency & Indus
 
 ---
 
-*Last updated: 2026-06-09 (Tier 1 fixes + schema lock + library display-field mapping).*
+## Image alt text (SEO) — all 29
+
+> Stored in the import CSVs' `image_alt_text` column (source of truth) and bound on the library card image element's alt + the landing-page hero image alt. Describes the page-1 preview; keyword-natural (toolkit name + "PBS plan sponsor" + topic terms).
+
+| slug | image_alt_text |
+|---|---|
+| contract-review-readiness | Contract Review Readiness Checklist, first page of the free PBS plan sponsor framework: eight documents to pull and fifteen audits to run before a PBM contract review. |
+| optimize-vs-go-to-market | Optimize vs Go-to-Market Decision Framework, page one of the PBS plan sponsor framework scoring whether to renegotiate a PBM or run an RFP. |
+| pbr-framework | Pharmacy Benefit Review Framework, first page of the PBS plan sponsor twice-yearly review across six categories and twenty audit items. |
+| pa-roi-audit | PA ROI Audit Scorecard, first page of the free PBS plan sponsor scorecard for auditing prior-authorization return on investment. |
+| carve-out-decision | Carve-Out Decision Scorecard, page one of the PBS plan sponsor tool weighing pharmacy carve-in versus carve-out across ten factors. |
+| drug-pipeline-watch | Drug Pipeline Watch List 2026-2027, first page of the PBS plan sponsor guide to five high-cost drug categories to budget for. |
+| fiduciary-documentation | Fiduciary Documentation Checklist, page one of the PBS plan sponsor checklist of five documentation categories that protect ERISA fiduciaries. |
+| copay-card-calculator | Copay Card Financial Impact Calculator, first page of the PBS plan sponsor model for copay card and accumulator financial impact. |
+| rebate-report-audit | Rebate Report Audit Worksheet, page one of the PBS plan sponsor worksheet for reading what a PBM rebate report leaves out. |
+| quarterly-reporting | Quarterly Reporting Checklist, first page of the PBS plan sponsor checklist of 15 line items a PBM quarterly report should contain. |
+| biosimilar-readiness | Biosimilar Readiness Assessment, page one of the PBS plan sponsor six-factor check for biosimilar conversion readiness. |
+| midyear-claims-red-flag | Mid-Year Claims Red Flag Checklist, first page of the PBS plan sponsor checklist of five pharmacy claim patterns to catch before renewal. |
+| h1-renewal-readiness | H1 Renewal Readiness Scorecard, page one of the PBS plan sponsor scorecard of five mid-year metrics for PBM renewal readiness. |
+| contract-amendment-letter | Mid-Year Contract Amendment Letter Template, first page of the PBS paste-ready redline letter for amending a PBM contract mid-cycle. |
+| rfp-scoring-audit | RFP Scoring Methodology Audit, page one of the PBS plan sponsor worksheet for scoring PBM RFP responses on what matters. |
+| step-therapy-override | Step Therapy Override Audit, first page of the PBS plan sponsor audit of the PBM step-therapy override pathway. |
+| pbm-compensation | PBM Compensation Audit Worksheet, page one of the PBS plan sponsor worksheet mapping the five revenue streams a PBM earns from your plan. |
+| ger-audit | Generic Effective Rate Audit Worksheet, first page of the PBS plan sponsor worksheet testing PBM GER guarantees against actuals. |
+| network-configuration-audit | Pharmacy Network Configuration Audit, page one of the PBS plan sponsor audit of pharmacy network steering and hidden margin. |
+| cob-audit | Coordination of Benefits Audit Worksheet, first page of the PBS plan sponsor worksheet for recovering pharmacy spend in COB gaps. |
+| pbm-disclosure-audit | PBM Disclosure Audit Worksheet, page one of the PBS plan sponsor worksheet on what a PBM must disclose versus what it actually shares. |
+| fiduciary-compliance-audit | Fiduciary Compliance Audit, first page of the PBS plan sponsor audit testing the health plan against its ERISA fiduciary duties. |
+| member-transition-audit | Member Transition Audit, page one of the PBS plan sponsor audit for protecting members through a PBM or formulary switch. |
+| midyear-guarantee-audit | Mid-Year Performance Guarantee Audit, first page of the PBS plan sponsor audit checking PBM performance guarantees at mid-year. |
+| termination-clause-audit | Termination Clause Audit, page one of the PBS plan sponsor audit of the PBM contract termination clauses that govern exit. |
+| definition-variance-audit | Definition Variance Audit, first page of the PBS plan sponsor audit of costly definition variances in a PBM contract. |
+| pre-meeting-renewal-checklist | First Renewal Meeting Pre-Meeting Checklist, page one of the PBS plan sponsor checklist to settle before a PBM renewal meeting. |
+| specialty-routing | Specialty Routing Audit Worksheet, first page of the PBS plan sponsor worksheet on where specialty scripts route and why it costs more. |
+| channel-pricing | Channel Pricing Audit Worksheet, page one of the PBS plan sponsor worksheet surfacing PBM spread across retail, mail, and specialty. |
+
+---
+
+*Last updated: 2026-06-09 (Tier 1 fixes + schema lock + library display-field mapping + SEO image_alt_text for all 29).*

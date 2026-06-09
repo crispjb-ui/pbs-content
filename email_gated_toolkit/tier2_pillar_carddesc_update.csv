@@ -1,26 +1,26 @@
-slug,Title,pillar,card_desc
-pa-roi-audit,PA ROI Audit Scorecard,Cost Containment Strategies,A five-metric scorecard to audit your prior-authorization ROI.
-carve-out-decision,Carve-Out Decision Scorecard,Self-Funded Employer Guidance,Ten factors that decide carve-in versus carve-out.
-drug-pipeline-watch,Drug Pipeline Watch List 2026-2027,Clinical Pharmacy Perspectives,Five drug categories to budget for in 2026-2027.
-fiduciary-documentation,Fiduciary Documentation Checklist,Self-Funded Employer Guidance,Five documentation categories that protect the plan fiduciary.
-copay-card-calculator,Copay Card Financial Impact Calculator,Cost Containment Strategies,A five-step model for copay card and accumulator impact.
-rebate-report-audit,Rebate Report Audit Worksheet,Transparency & Industry Education,Read what your PBM's rebate report doesn't say out loud.
-quarterly-reporting,Quarterly Reporting Checklist,PBM Contract Insights,15 lines to read first in the report your PBM sends each quarter.
-biosimilar-readiness,Biosimilar Readiness Assessment,Clinical Pharmacy Perspectives,A six-factor readiness check for biosimilar conversion.
-specialty-routing,Specialty Routing Audit Worksheet,Clinical Pharmacy Perspectives,"Where your specialty scripts get routed, and why it costs more."
-midyear-claims-red-flag,Mid-Year Claims Red Flag Checklist,Cost Containment Strategies,Five claim patterns to catch before they compound into renewal.
-h1-renewal-readiness,H1 Renewal Readiness Scorecard,Self-Funded Employer Guidance,Five mid-year metrics plus a renewal-readiness score.
-contract-amendment-letter,Mid-Year Contract Amendment Letter Template,PBM Contract Insights,Paste-ready redline letter to send your PBM mid-cycle.
-rfp-scoring-audit,RFP Scoring Methodology Audit,PBM Contract Insights,Score PBM RFP responses on what actually matters.
-step-therapy-override,Step Therapy Override Audit,Clinical Pharmacy Perspectives,Audit your step-therapy override pathway for friction.
-pbm-compensation,PBM Compensation Audit Worksheet,Transparency & Industry Education,Map all five revenue streams flowing from your plan to your PBM.
-ger-audit,Generic Effective Rate Audit Worksheet,PBM Contract Insights,Test your guaranteed effective rate against the actuals.
-network-configuration-audit,Pharmacy Network Configuration Audit,Cost Containment Strategies,Check the pharmacy network for steered margin.
-cob-audit,Coordination of Benefits Audit Worksheet,Cost Containment Strategies,Recover spend hiding in coordination-of-benefits gaps.
-pbm-disclosure-audit,PBM Disclosure Audit Worksheet,Transparency & Industry Education,What the PBM must disclose versus what it actually does.
-fiduciary-compliance-audit,Fiduciary Compliance Audit,Self-Funded Employer Guidance,Test the plan against its ERISA fiduciary duties.
-member-transition-audit,Member Transition Audit,Clinical Pharmacy Perspectives,Protect members through a PBM or formulary switch.
-midyear-guarantee-audit,Mid-Year Performance Guarantee Audit,PBM Contract Insights,Check performance guarantees at the mid-year mark.
-termination-clause-audit,Termination Clause Audit,PBM Contract Insights,The clauses that decide whether you can actually leave.
-definition-variance-audit,Definition Variance Audit,PBM Contract Insights,Where the contract's definitions quietly cost you.
-pre-meeting-renewal-checklist,First Renewal Meeting Pre-Meeting Checklist,Self-Funded Employer Guidance,What to settle before you walk into the renewal meeting.
+slug,Title,pillar,card_desc,image_alt_text
+pa-roi-audit,PA ROI Audit Scorecard,Cost Containment Strategies,A five-metric scorecard to audit your prior-authorization ROI.,"PA ROI Audit Scorecard, first page of the free PBS plan sponsor scorecard for auditing prior-authorization return on investment."
+carve-out-decision,Carve-Out Decision Scorecard,Self-Funded Employer Guidance,Ten factors that decide carve-in versus carve-out.,"Carve-Out Decision Scorecard, page one of the PBS plan sponsor tool weighing pharmacy carve-in versus carve-out across ten factors."
+drug-pipeline-watch,Drug Pipeline Watch List 2026-2027,Clinical Pharmacy Perspectives,Five drug categories to budget for in 2026-2027.,"Drug Pipeline Watch List 2026-2027, first page of the PBS plan sponsor guide to five high-cost drug categories to budget for."
+fiduciary-documentation,Fiduciary Documentation Checklist,Self-Funded Employer Guidance,Five documentation categories that protect the plan fiduciary.,"Fiduciary Documentation Checklist, page one of the PBS plan sponsor checklist of five documentation categories that protect ERISA fiduciaries."
+copay-card-calculator,Copay Card Financial Impact Calculator,Cost Containment Strategies,A five-step model for copay card and accumulator impact.,"Copay Card Financial Impact Calculator, first page of the PBS plan sponsor model for copay card and accumulator financial impact."
+rebate-report-audit,Rebate Report Audit Worksheet,Transparency & Industry Education,Read what your PBM's rebate report doesn't say out loud.,"Rebate Report Audit Worksheet, page one of the PBS plan sponsor worksheet for reading what a PBM rebate report leaves out."
+quarterly-reporting,Quarterly Reporting Checklist,PBM Contract Insights,15 lines to read first in the report your PBM sends each quarter.,"Quarterly Reporting Checklist, first page of the PBS plan sponsor checklist of 15 line items a PBM quarterly report should contain."
+biosimilar-readiness,Biosimilar Readiness Assessment,Clinical Pharmacy Perspectives,A six-factor readiness check for biosimilar conversion.,"Biosimilar Readiness Assessment, page one of the PBS plan sponsor six-factor check for biosimilar conversion readiness."
+specialty-routing,Specialty Routing Audit Worksheet,Clinical Pharmacy Perspectives,"Where your specialty scripts get routed, and why it costs more.","Specialty Routing Audit Worksheet, first page of the PBS plan sponsor worksheet on where specialty scripts route and why it costs more."
+midyear-claims-red-flag,Mid-Year Claims Red Flag Checklist,Cost Containment Strategies,Five claim patterns to catch before they compound into renewal.,"Mid-Year Claims Red Flag Checklist, first page of the PBS plan sponsor checklist of five pharmacy claim patterns to catch before renewal."
+h1-renewal-readiness,H1 Renewal Readiness Scorecard,Self-Funded Employer Guidance,Five mid-year metrics plus a renewal-readiness score.,"H1 Renewal Readiness Scorecard, page one of the PBS plan sponsor scorecard of five mid-year metrics for PBM renewal readiness."
+contract-amendment-letter,Mid-Year Contract Amendment Letter Template,PBM Contract Insights,Paste-ready redline letter to send your PBM mid-cycle.,"Mid-Year Contract Amendment Letter Template, first page of the PBS paste-ready redline letter for amending a PBM contract mid-cycle."
+rfp-scoring-audit,RFP Scoring Methodology Audit,PBM Contract Insights,Score PBM RFP responses on what actually matters.,"RFP Scoring Methodology Audit, page one of the PBS plan sponsor worksheet for scoring PBM RFP responses on what matters."
+step-therapy-override,Step Therapy Override Audit,Clinical Pharmacy Perspectives,Audit your step-therapy override pathway for friction.,"Step Therapy Override Audit, first page of the PBS plan sponsor audit of the PBM step-therapy override pathway."
+pbm-compensation,PBM Compensation Audit Worksheet,Transparency & Industry Education,Map all five revenue streams flowing from your plan to your PBM.,"PBM Compensation Audit Worksheet, page one of the PBS plan sponsor worksheet mapping the five revenue streams a PBM earns from your plan."
+ger-audit,Generic Effective Rate Audit Worksheet,PBM Contract Insights,Test your guaranteed effective rate against the actuals.,"Generic Effective Rate Audit Worksheet, first page of the PBS plan sponsor worksheet testing PBM GER guarantees against actuals."
+network-configuration-audit,Pharmacy Network Configuration Audit,Cost Containment Strategies,Check the pharmacy network for steered margin.,"Pharmacy Network Configuration Audit, page one of the PBS plan sponsor audit of pharmacy network steering and hidden margin."
+cob-audit,Coordination of Benefits Audit Worksheet,Cost Containment Strategies,Recover spend hiding in coordination-of-benefits gaps.,"Coordination of Benefits Audit Worksheet, first page of the PBS plan sponsor worksheet for recovering pharmacy spend in COB gaps."
+pbm-disclosure-audit,PBM Disclosure Audit Worksheet,Transparency & Industry Education,What the PBM must disclose versus what it actually does.,"PBM Disclosure Audit Worksheet, page one of the PBS plan sponsor worksheet on what a PBM must disclose versus what it actually shares."
+fiduciary-compliance-audit,Fiduciary Compliance Audit,Self-Funded Employer Guidance,Test the plan against its ERISA fiduciary duties.,"Fiduciary Compliance Audit, first page of the PBS plan sponsor audit testing the health plan against its ERISA fiduciary duties."
+member-transition-audit,Member Transition Audit,Clinical Pharmacy Perspectives,Protect members through a PBM or formulary switch.,"Member Transition Audit, page one of the PBS plan sponsor audit for protecting members through a PBM or formulary switch."
+midyear-guarantee-audit,Mid-Year Performance Guarantee Audit,PBM Contract Insights,Check performance guarantees at the mid-year mark.,"Mid-Year Performance Guarantee Audit, first page of the PBS plan sponsor audit checking PBM performance guarantees at mid-year."
+termination-clause-audit,Termination Clause Audit,PBM Contract Insights,The clauses that decide whether you can actually leave.,"Termination Clause Audit, page one of the PBS plan sponsor audit of the PBM contract termination clauses that govern exit."
+definition-variance-audit,Definition Variance Audit,PBM Contract Insights,Where the contract's definitions quietly cost you.,"Definition Variance Audit, first page of the PBS plan sponsor audit of costly definition variances in a PBM contract."
+pre-meeting-renewal-checklist,First Renewal Meeting Pre-Meeting Checklist,Self-Funded Employer Guidance,What to settle before you walk into the renewal meeting.,"First Renewal Meeting Pre-Meeting Checklist, page one of the PBS plan sponsor checklist to settle before a PBM renewal meeting."
