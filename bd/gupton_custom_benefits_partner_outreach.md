@@ -34,40 +34,46 @@ Open a peer, founder-to-founder relationship. One soft door: a no-cost first loo
 2. Saw your Custom Benefits download, a note from a fellow transparency nerd
 3. Behind the broker, never in front of you
 
+_As sent (Ginny's worked version, Jun 10, 2026):_
 ```
 Cristy,
 
 Your name came through when you pulled one of our plan-sponsor
-worksheets, and I went down the rabbit hole on Custom Benefits
-Solutions before writing. A Health Rosetta and Mitigate Partners
+worksheets, and before writing, I took a look at your website for
+Custom Benefits Solutions. A Health Rosetta and Mitigate Partners
 advisor who discloses comp and has been doing transparent
 self-funded work since 2006 is exactly who we built those tools
-for. We are clearly reading from the same hymnal.
+for. We clearly have similar goals for our clients.
 
-Quick on who we are. I am a pharmacist by training, and PBS does
-one narrow thing well: we review hundreds of PBM contracts a year
-and run independent claims and contract audits on the pharmacy
-side. We work behind brokers, never around them. The advisors we
-partner with bring us in when a client's PBM contract or claims
-file needs a set of hands that lives in the pharmacy weeds all
-day, and the broker stays the relationship owner the whole way.
+Quick on who we are. I am a pharmacist by training (and a fellow
+Tarheel), and PBS (3 pharmacists, 3 analysts, and admin support)
+does one narrow thing well: we review hundreds of PBM contracts a
+year and run independent claims and contract/performance audits on
+the pharmacy side. We also facilitate the RFP process if clients
+need to take their business to market. The advisors we partner
+with bring us in when a client's PBM contract or claims file needs
+a set of hands that lives in the pharmacy weeds all day, and the
+broker stays the relationship owner the whole way.
 
 I am not writing to pitch you anything. I am writing because the
 firms vetted by Health Rosetta and Mitigate are the ones we most
 want to know. One open door: if a client's pharmacy spend or PBM
-contract ever needs an independent read, we are a no-cost first
-look and a quiet bench you can put your name in front of. The
-broker stays the relationship owner the whole way.
+contract ever needs an independent read, we would be happy to
+partner with your organization to help your clients maximize their
+PBM contract. The broker stays the relationship owner the whole
+way.
 
-If that is ever useful, reply here or grab time at team@rxbs.org.
-If not, you have the worksheets and I am glad they are in good
-hands.
+If that is ever useful, reply here, or if you'd like to meet, Traci
+would be more than happy to help set up some time. If not, you have
+the worksheets and I am glad they are in good hands.
 
-Ginny
+- Ginny
 
 Ginny Crisp, PharmD, BCACP | Chief Executive Officer
-Prescription Benefit Solutions
-team@rxbs.org | www.rxbs.org
+O (843) 867.3401
+M (919) 448.1742
+ginny@rxbs.org
+www.rxbs.org
 ```
 
 ### Shorter variant (if a lighter first touch is preferred)
@@ -91,13 +97,16 @@ pharmacy spend ever needs an independent read, we are a no-cost
 first look and a quiet bench you can put your name in front of.
 The broker stays the relationship owner the whole way.
 
-Reply here or team@rxbs.org if that is ever useful.
+Reply here, or if you'd like to meet, Traci can set up time. Either
+way, the worksheets are yours and I am glad they are in good hands.
 
-Ginny
+- Ginny
 
 Ginny Crisp, PharmD, BCACP | Chief Executive Officer
-Prescription Benefit Solutions
-team@rxbs.org | www.rxbs.org
+O (843) 867.3401
+M (919) 448.1742
+ginny@rxbs.org
+www.rxbs.org
 ```
 
 ## Next step after sending

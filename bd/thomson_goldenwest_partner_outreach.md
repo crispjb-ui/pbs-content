@@ -3,7 +3,7 @@
 _Second PARTNER lead through the live toolkit funnel. Source: bulk toolkit downloads + repeated PARTNER alerts, Jun 9, 2026 (~5:03–5:29 PM). Role = Broker / Consultant. Created June 9, 2026._
 
 ## Who / context
-- **Mike (Michael) Thomson** — Agent / employee-benefits consultant, **Goldenwest Health Insurance Services** (insurance arm of Goldenwest Credit Union, Utah; gwcu.org). Email: from the lead alert (`mtho…@`, confirm full address).
+- **Mike (Michael) Thomson** — Agent / employee-benefits consultant, **Goldenwest Health Insurance Services** (insurance arm of Goldenwest Credit Union, Utah; gwcu.org). Email: `mthomson@gwcu.org`.
 - **25+ years** in employee benefits. Specializes in strategic plan design, funding analysis, and **cost containment for mid-to-large employer groups**. Funding expertise: **self-funding, level-funding, captive programs**, traditional.
 - **He is the Rx/pharmacy person.** His bio: "passionate about helping clients manage high-cost pharmacy spend by implementing innovative Rx strategies… data-driven insights and actionable recommendations." Unlike Cristy Gupton (no pharmacy presence), Mike actively owns pharmacy strategy, so the angle is "deeper specialist bench," not "fill a gap."
 - **High intent:** downloaded most/all of the Tier 2 toolkit library in one sitting (Drug Pipeline, PA ROI, Quarterly Reporting, Rebate Report, Copay Card, Fiduciary Docs, Carve-Out, Amendment Letter, H1 Renewal, PBM Compensation, RFP Scoring, etc.).
@@ -38,35 +38,41 @@ Open a peer relationship with the Rx-focused consultant. One soft door: PBS as t
 ```
 Mike,
 
-You pulled most of our plan-sponsor toolkit library this week, so I
-looked up Goldenwest before writing. A benefits consultant who has
-spent 25 years on self-funding, captives, and high-cost pharmacy
-spend, and who actually owns the Rx strategy for his groups, is
-exactly who we built those tools for.
+You pulled most of our plan-sponsor toolkit library this week, so
+before writing, I took a look at Goldenwest. A benefits consultant
+who has spent 25 years on self-funding, captives, and high-cost
+pharmacy spend, and who actually owns the Rx strategy for his
+groups, is exactly who we built those tools for.
 
-Quick on us. I am a pharmacist, and PBS does one narrow thing: we
-review hundreds of PBM contracts a year and run independent claims
-and contract audits on the pharmacy side. We work behind brokers,
-never around them. The advisors we partner with bring us in when a
-client's PBM contract or pharmacy claims need a specialist who lives
-in that detail all day, and the broker stays the relationship owner
-the whole way.
+Quick on who we are. I am a pharmacist by training, and PBS (3
+pharmacists, 3 analysts, and admin support) does one narrow thing
+well: we review hundreds of PBM contracts a year and run
+independent claims and contract/performance audits on the pharmacy
+side. We also facilitate the RFP process if clients need to take
+their business to market. The advisors we partner with bring us in
+when a client's PBM contract or claims file needs a set of hands
+that lives in the pharmacy detail all day, and the broker stays the
+relationship owner the whole way.
 
-This is not a pitch. You clearly run real Rx work already; we are
-just the deeper bench for when you want it. One open door: if a
-client's high-cost pharmacy spend or PBM contract ever needs an
-independent read, we are a no-cost first look you can put your name
-in front of.
+I am not writing to pitch you anything. You clearly run real Rx
+work already; we are just the deeper specialist bench for when you
+want it. One open door: if a client's high-cost pharmacy spend or
+PBM contract ever needs an independent read, we would be happy to
+partner with your organization to help your clients maximize their
+PBM contract.
 
-If that is ever useful, reply here or reach us at team@rxbs.org.
-Either way, the toolkits are yours, and I am glad they are with
-someone who will actually run them.
+If that is ever useful, reply here, or if you'd like to meet, Traci
+would be more than happy to help set up some time. Either way, the
+toolkits are yours, and I am glad they are with someone who will
+actually run them.
 
-Ginny
+- Ginny
 
 Ginny Crisp, PharmD, BCACP | Chief Executive Officer
-Prescription Benefit Solutions
-team@rxbs.org | www.rxbs.org
+O (843) 867.3401
+M (919) 448.1742
+ginny@rxbs.org
+www.rxbs.org
 ```
 
 ### Shorter variant
@@ -87,13 +93,16 @@ If a client's high-cost pharmacy spend or PBM contract ever needs an
 independent read, we are a no-cost first look you can put your name
 in front of.
 
-Reply here or team@rxbs.org if it is ever useful.
+Reply here, or if you'd like to meet, Traci can set up time. Either
+way, the toolkits are yours.
 
-Ginny
+- Ginny
 
 Ginny Crisp, PharmD, BCACP | Chief Executive Officer
-Prescription Benefit Solutions
-team@rxbs.org | www.rxbs.org
+O (843) 867.3401
+M (919) 448.1742
+ginny@rxbs.org
+www.rxbs.org
 ```
 
 ## Next step after sending
