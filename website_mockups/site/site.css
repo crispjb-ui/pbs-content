@@ -86,6 +86,16 @@ img{max-width:100%;display:block}
 .card .cta{margin-top:auto;font-size:13px;font-weight:600;color:var(--blue)}
 .card .cta::after{content:"  \2192"}
 
+/* post / article feed cards (RSS-bound in Wix) */
+.pcard{background:#fff;border:1px solid var(--line);border-radius:11px;padding:20px 20px 18px;display:flex;flex-direction:column;gap:9px;text-decoration:none;color:inherit;transition:box-shadow .15s,border-color .15s,transform .15s}
+.pcard:hover{box-shadow:0 8px 22px rgba(1,88,128,.12);border-color:var(--accent);transform:translateY(-2px)}
+.pcard .meta{font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.pcard .meta b{color:var(--blue)}
+.pcard h3{margin:0;font-size:18px;line-height:1.25;color:var(--blue);font-weight:600}
+.pcard p{margin:0;font-size:14px;color:var(--muted)}
+.pcard .more{margin-top:auto;font-size:13px;font-weight:600;color:var(--blue)}
+.pcard .more::after{content:"  \2192"}
+
 /* library section heads */
 .lib-head{display:flex;align-items:baseline;gap:10px;margin:36px 0 14px;border-bottom:2px solid var(--line);padding-bottom:8px}
 .lib-head h3{color:var(--blue);font-size:19px;margin:0}
