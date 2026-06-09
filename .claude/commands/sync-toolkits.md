@@ -25,14 +25,15 @@ weasyprint <name>.html <name>.pdf
 python3 render_preview.py <name>.pdf        # -> <name>_preview.png (150 DPI page 1)
 ```
 
-## Step 4 — Verify
-For each rendered PDF, check page count with pymupdf:
+## Step 4 — Verify (the bleed gate)
+Run the canonical audit over ALL toolkits (not just the ones rendered — catches regressions anywhere):
 ```
-python3 -c "import fitz,sys; d=fitz.open('<name>.pdf'); print('<name>', d.page_count, 'pages')"
+cd templates/documents && python3 _audit_pdfs.py
 ```
-- Expect **2 pages** unless it is a documented 3-page exception (the three Tier-1 evergreen frameworks; `week_24_thursday_contract_amendment_letter`). Flag any other toolkit over 2 pages as a regression to fix (box-model bleed: strip `overflow:hidden`, keep `height:11in`, compress spacing — CLAUDE.md fix pattern).
-- Spot-check page 1 and page 2 footers render (not clipped).
-- Confirm `<name>_preview.png` was produced.
+- It MUST report **0 flagged**. The script checks: page count vs the 2pp / approved-3pp expectation, footer present on every page, and no body text overlapping the footer band.
+- Any flag is a regression to fix before commit (box-model bleed: strip `overflow:hidden`, KEEP `height:11in`, trim spacing — CLAUDE.md "Build-correct-first gate"). Re-render and re-run until 0 flagged.
+- The 4 approved 3-page exceptions live in the script's `EXPECT3` set; extend it only with a documented reason.
+- Confirm each `<name>_preview.png` was produced.
 
 ## Step 5 — Report + commit
 List each toolkit rendered, its page count, and any over-2-page flags. If run interactively, `git add` the HTML+PDF+PNG triplet(s) and commit together (CLAUDE.md: never let HTML/PDF/PNG diverge on main); mention the HTML change + the re-render in the message. If run in CI, leave the commit to the workflow step.
