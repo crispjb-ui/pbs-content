@@ -57,7 +57,7 @@ Free worksheet to surface it → rxbs.org/toolkit/channel-pricing
 - **In/out (locked):** 1631–1658s (27:11–27:38) · **Locator quote:** "after three years, it's like one in 12 people are still using a GLP-1"
 - **On-screen hook:** **"1 in 12"**
 - **Verbatim (caption text):**
-> Most of the studies have shown after three years, it's like one in 12 people are still using a GLP-1. That's not necessarily a bad thing — if they had the weight loss and the lifestyle and were able to come off the med but sustain it. But if it's because they can't afford it or can't tolerate it, that's a very different situation.
+> Most of the studies have shown after three years, it's like one in 12 people are still using a GLP-1. That's not necessarily a bad thing, if they had the weight loss and the lifestyle and were able to come off the med but sustain it. But if it's because they can't afford it or can't tolerate it, that's a very different situation.
 
 **LinkedIn copy:**
 ```
@@ -77,7 +77,7 @@ Budgeting for GLP-1s in 2026-2027? The free Drug Pipeline Watch List maps the ca
 ```
 After 3 years, only 1 in 12 people are still on their GLP-1.
 
-Not automatically bad — sometimes it is a win. But most plans never track the persistence rate, so they cannot tell the wins from the people who just could not afford it.
+Not automatically bad, sometimes it is a win. But most plans never track the persistence rate, so they cannot tell the wins from the people who just could not afford it.
 
 @SHRM Honest HR.
 ```
@@ -98,7 +98,7 @@ Free GLP-1 budgeting watch list → rxbs.org/toolkit/drug-pipeline-watch
 
 **LinkedIn copy:**
 ```
-You want to pair the GLP-1 with lifestyle support — exactly how the FDA trials were run.
+You want to pair the GLP-1 with lifestyle support, exactly how the FDA trials were run.
 
 A lot of PBMs say no. Why? Because lifestyle requirements can dent their rebates, so they claw the rebates back.
 
@@ -108,13 +108,13 @@ Read that again: the PBM will not model the thing that actually works, because i
 ```
 _First comment:_
 ```
-See what your rebate report is not telling you — free worksheet → rxbs.org/toolkit/rebate-report-audit
+See what your rebate report is not telling you. Free worksheet → rxbs.org/toolkit/rebate-report-audit
 ```
 **X copy:**
 ```
 The FDA trials paired GLP-1s with lifestyle support.
 
-Ask your PBM to require lifestyle and a lot of them say no — because it dents their rebates, so they claw the rebates back. They will not model what works because it costs them.
+Ask your PBM to require lifestyle and a lot of them say no, because it dents their rebates, so they claw the rebates back. They will not model what works because it costs them.
 
 @SHRM Honest HR.
 ```
@@ -151,7 +151,7 @@ Deciding whether to cover GLP-1s? The free Drug Pipeline Watch List helps you bu
 ```
 ~1 in 3 employees would change jobs to get GLP-1 coverage.
 
-30%. That is not a pharmacy stat anymore. It is a retention stat. But it is not an overnight ROI either — the plans getting it right build the case both ways.
+30%. That is not a pharmacy stat anymore. It is a retention stat. But it is not an overnight ROI either. The plans getting it right build the case both ways.
 
 @SHRM Honest HR.
 ```
@@ -174,7 +174,7 @@ Free GLP-1 budgeting watch list → rxbs.org/toolkit/drug-pipeline-watch
 ```
 Your employees are getting GLP-1s whether your plan covers them or not.
 
-Direct-to-consumer programs, compounded versions, telehealth. It is all happening off your radar — and none of it counts toward their deductible or gives you any visibility.
+Direct-to-consumer programs, compounded versions, telehealth. It is all happening off your radar, and none of it counts toward their deductible or gives you any visibility.
 
 You cannot put your head in the sand on this one. From SHRM's Honest HR podcast.
 
@@ -188,7 +188,7 @@ Want the full picture of what your PBM earns and what it hides? Free PBM Compens
 ```
 Your employees are getting GLP-1s whether your plan covers them or not.
 
-DTC programs, compounded versions, telehealth — off your radar, none of it touching their deductible or your data. You cannot put your head in the sand on this one.
+DTC programs, compounded versions, telehealth. Off your radar, none of it touching their deductible or your data. You cannot put your head in the sand on this one.
 
 @SHRM Honest HR.
 ```
@@ -279,4 +279,4 @@ _First reply:_
 In the video repo: pull audio for `BZyuiWCY-08`, run Whisper for word-level timing, set each clip's exact in/out via the locator quotes, then `node render-from-manifest.mjs honest-hr-shrm_2026-06-09_clips.json` against `social_clips/remotion_starter/`.
 
 ## Sequencing note
-GLP-1 is a topic-level amplifier (64K all-time ceiling). Stagger these — don't dump all five at once. Suggested: lead with Clip 1 (spread decoder, evergreen) or Clip 2 (1-in-12) on a Thursday, space the rest across 2-3 weeks, and pair each LinkedIn post's first comment with its toolkit per the funnel rule.
+GLP-1 is a topic-level amplifier (64K all-time ceiling). Stagger these; don't dump all seven at once. Suggested: lead with Clip 1 (spread decoder, evergreen) or Clip 2 (1-in-12) on a Thursday, space the rest across several weeks, and pair each LinkedIn post's first comment with its toolkit per the funnel rule.
