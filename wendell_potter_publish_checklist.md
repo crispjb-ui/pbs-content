@@ -82,7 +82,9 @@ Per the Humanize Check rule in CLAUDE.md (April 19, 2026):
 ## Stage 5: Submission to Wendell
 
 - [ ] Final word count recorded in piece draft file footer
-- [ ] Piece submitted to Wendell via the agreed editorial channel
+- [ ] **Submission HTML artifact produced**: render the piece into `wendell_potter_piece_NN_<slug>_submission.html` using the `wendell_potter_piece_01_spread_pricing_submission.html` style template (Georgia serif body, h1 title, byline, italic dek, h2 section breaks, blockquote pull-quotes, sources list). The HTML carries the heading/bold/blockquote/link formatting that raw text loses on paste.
+- [ ] **Pasted into a fresh Google Doc with formatting intact**: open the `.html` file in a browser, Select All and Copy the *rendered page* (not the HTML source), then paste into a new Google Doc titled "Ginny PBM story NN". Alternative that also works: in Google Drive, New → File upload the `.html`, then right-click → Open with → Google Docs, which converts it. (Pasting the raw HTML source does NOT work; it shows the tags.)
+- [ ] Piece submitted to Wendell via the agreed editorial channel (the Google Doc share link)
 - [ ] Confirmation of intended publish date received from Wendell
 - [ ] PBS cascade week scheduled (calendar restructure complete for that week — see `pbs_q2_2026_content_calendar.md` and `pbs_q3_2026_content_calendar.md`)
 
@@ -131,6 +133,7 @@ For each piece in the roster, create a draft file at `wendell_potter_piece_NN_dr
 - Pull-quote candidates (engineered from the draft, ready for PBS cascade callback)
 - Fact-check notes for verification before submission
 - Submission date and confirmed Wendell publish date
+- A rendered submission HTML (`wendell_potter_piece_NN_<slug>_submission.html`) built from the `wendell_potter_piece_01_spread_pricing_submission.html` style template, for pasting into a fresh Google Doc with formatting intact (the agreed handoff format; see Stage 5). The Opening Piece is the one exception (edited in its existing Google Doc by hand, no HTML artifact); every piece from 1 forward ships the HTML.
 
 When the piece publishes on Wendell's pub, archive the draft file in place with a "PUBLISHED" header at the top including the live URL. Do not delete; the draft is the record.
 
