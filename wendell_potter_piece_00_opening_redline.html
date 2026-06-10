@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Opening Piece — Redline (Wendell edits vs. Claude completion)</title>
+<style>
+  body { font-family: Georgia, 'Times New Roman', serif; font-size: 12pt; line-height: 1.55;
+         color: #1a1a1a; max-width: 820px; margin: 32px auto; padding: 0 24px; }
+  h1 { font-size: 20pt; line-height: 1.25; margin: 0 0 4px; }
+  .sub { font-size: 11pt; color: #666; font-style: italic; margin: 0 0 20px; }
+  .legend { border: 1px solid #ddd; border-radius: 6px; padding: 12px 16px; margin: 0 0 24px;
+            font-family: -apple-system, Arial, sans-serif; font-size: 10.5pt; line-height: 1.7; background:#fafafa; }
+  .swatch { display:inline-block; padding:1px 8px; border-radius:3px; font-weight:600; }
+  .w { background:#bdf0c6; }              /* Wendell - green */
+  .c { background:#bcdcff; }              /* Claude - blue */
+  .para { margin: 0 0 20px; }
+  .orig { color:#8a8a8a; margin: 0 0 4px; }
+  .orig .t { text-decoration: line-through; }
+  .orig .lab, .rev .lab { font-family: -apple-system, Arial, sans-serif; font-size: 8.5pt;
+            text-transform: uppercase; letter-spacing: .06em; color:#fff; padding:1px 6px;
+            border-radius:3px; margin-right:8px; vertical-align: middle; }
+  .orig .lab { background:#aaa; }
+  .rev .lab { background:#015880; }
+  .rev { margin: 0; }
+  .unchanged { margin: 0 0 20px; }
+  .unchanged .lab { font-family:-apple-system,Arial,sans-serif; font-size:8.5pt; text-transform:uppercase;
+            letter-spacing:.06em; color:#888; padding:1px 6px; border:1px solid #ddd; border-radius:3px; margin-right:8px; }
+  .note { font-family:-apple-system,Arial,sans-serif; font-size:9.5pt; color:#a23; background:#fff6f6;
+          border-left:3px solid #d66; padding:6px 10px; margin:6px 0 0; }
+  hr { border:none; border-top:1px solid #e2e2e2; margin: 26px 0; }
+</style>
+</head>
+<body>
+
+<h1>Opening Piece — Redline</h1>
+<p class="sub">The Five Revenue Streams That Run Through Every PBM Contract, and the Five Reforms Each One Requires</p>
+
+<div class="legend">
+  <strong>How to read this</strong><br>
+  <span class="swatch w">green</span> = Wendell's edits. These are already in your Google Doc as suggestions; accept them.<br>
+  <span class="swatch c">blue</span> = my changes / completion. These are <strong>not</strong> in the Doc yet; transpose these in.<br>
+  <span style="color:#8a8a8a;">Gray strike-through</span> = original wording that was removed.<br>
+  The five-reforms section (from "On spread pricing" onward) is almost entirely blue, that is the part Wendell had not yet edited.
+</div>
+
+<hr>
+
+<p class="unchanged"><span class="lab">unchanged</span> Imagine a tollbooth on a highway where the toll collector also owns the cars passing through, the gas stations along the road, the rest stops, and the road repair contracts. The same entity sets the toll, collects the toll, audits whether the right toll was charged, and reports the result to the highway commission. That is the modern PBM business model. It is not a metaphor stretched. It is the contract.</p>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <span class="t">Every PBM contract I audit has five revenue streams running through it. Most plan sponsors see one of them clearly named: the administrative fee, the smallest of the five. The other four live in definitions, exhibits, and pass-through math that the plan sponsor has to know to ask about separately. The reform conversation has been a fight over whichever stream is most visible at the moment, while the margin moves between them. The conversation that needs to happen is structural.</span></p>
+  <p class="rev"><span class="lab">revised</span> Every PBM contract I audit has five revenue streams running through it. Most plan sponsors see one of them clearly named, the administrative fee, <span class="w">which is</span> the smallest of the five. The other four live in definitions, exhibits, and pass-through math that the plan sponsor<span class="w">, usually an employer,</span> has to know to ask about separately. The reform conversation <span class="w">so far, in both Washington and the states,</span> has been a fight over whichever stream is most visible at the moment, while the margin <span class="c">quietly </span>moves between them. The conversation that needs to happen is <span class="c">a structural one</span>.</p>
+</div>
+
+<p class="unchanged"><span class="lab">unchanged</span> Here is the map.</p>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>Spread pricing</strong> <span class="t">is the gap between what the plan pays the PBM for a prescription and what the PBM pays the pharmacy. The MAC pricing schedule, the dispensing fee, the spread itself: the contract is written so the math is hard to assemble from the documents the plan sponsor receives. Spread is the stream the FTC has documented in greatest detail. It is also the stream that PBMs are most willing to convert to a "pass-through" guarantee, which moves the margin without ending it.</span></p>
+  <p class="rev"><span class="lab">revised</span> <strong>Spread pricing</strong> is the gap between what the <span class="w">health </span>plan pays the PBM for a prescription and what the PBM pays the pharmacy <span class="c">that fills it</span>. <span class="c">The plan is billed off one price list, the pharmacy is paid off another, and the contract is written so that the two are hard to line up from the documents the plan sponsor actually receives. One of those lists is the </span><span class="w">Maximum Allowable Cost, or MAC,</span><span class="c"> schedule, which sounds like an objective benchmark but is really the PBM's own list of ceiling prices that it sets and revises.</span> Spread is the stream the <span class="w">Federal Trade Commission</span> has documented in <span class="c">the </span>greatest detail. It is also the stream PBMs are most willing to convert into a "pass-through" guarantee, <span class="w">because</span><span class="c"> doing so</span> moves the margin without ending it.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>Rebate retention</strong> <span class="t">is what comes back from manufacturers and does not get passed through. Even contracts with "100 percent pass-through" rebate language carry carve-outs: rebate-aggregator administrative fees, manufacturer-direct payments, formulary-placement compensation. The aggregator layer (Ascent, Emisar, Zinc, Premier) exists specifically to capture rebate flow before the pass-through math runs. Every Big 3 PBM has an aggregator.</span></p>
+  <p class="rev"><span class="lab">revised</span> <strong>Rebate retention</strong> is <span class="c">the money</span> that comes back from <span class="c">drug </span>manufacturers and does not get passed through <span class="c">to the plan</span>. Even contracts <span class="c">that promise</span> "100 percent pass-through" <span class="c">of rebates</span> carry carve-outs, <span class="c">including</span> rebate-aggregator administrative fees, manufacturer-direct payments, <span class="c">and</span> formulary-placement compensation. The aggregator<span class="c">s are a layer of companies, often called</span> <span class="w">group purchasing organizations</span><span class="c">, with names like</span> Ascent, Emisar, <span class="c">and</span> Zinc<span class="c">, and they exist specifically to capture some of the rebate flow before the pass-through math is ever run</span>. Every <span class="w">one of the big three PBMs, owned by Cigna, CVS/Aetna, and UnitedHealth,</span> has <span class="c">one</span>.</p>
+  <p class="note">Wendell deleted "Premier" from the aggregator list and added "group purchasing organizations like" + the parent-company ownership line.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>Administrative fees</strong> <span class="t">are the named line items on the monthly invoice and the unnamed line items in the same family. Per-claim, per-member-per-month, formulary management, clinical, network access. Five definitions the PBM wrote. In nearly every contract I review, at least one administrative line item has no agreed definition in the agreement itself. It is enforced by invoice and inertia.</span></p>
+  <p class="rev"><span class="lab">revised</span> <strong>Administrative fees</strong> are the line items on the monthly invoice, both the ones that are named and the ones in the same family that are not. <span class="c">They show up as per-claim charges, per-member-per-month charges, and fees for formulary management, clinical programs, and network access, and the definitions behind them were written by the PBM.</span> In nearly every contract I review, at least one <span class="c">of these</span> line item<span class="c">s</span> has no agreed definition <span class="c">anywhere</span> in the agreement itself<span class="c">, and</span> it is enforced by invoice and inertia <span class="c">rather than by anything the plan sponsor actually signed</span>.</p>
+  <p class="note">Wendell did not reach this paragraph; the fragment rewrite ("Per-claim, per-member-per-month... Five definitions the PBM wrote.") is mine, applying his complete-sentences rule.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>Manufacturer-direct payments</strong> <span class="t">are the compensation that flows from drug manufacturers to PBMs outside the rebate framework: formulary education, data licensing, manufacturer service contracts. These do not appear on the plan sponsor's quarterly report because they do not flow through the plan. They flow through the PBM. The plan sponsor sees their effect, preferred placement on the formulary, without seeing the dollars.</span></p>
+  <p class="rev"><span class="lab">revised</span> <strong>Manufacturer-direct payments</strong> are the compensation that flows from drug manufacturers to PBMs outside the rebate framework <span class="c">entirely, in forms like</span> formulary education, data licensing, <span class="c">and</span> manufacturer service contracts. These <span class="c">never appear</span> on the plan sponsor's quarterly report<span class="c">,</span> because they do not flow through the plan. They flow <span class="c">straight to</span> the PBM. The plan sponsor sees <span class="c">the</span> effect, preferred placement <span class="c">of a drug</span> on the formulary, without <span class="c">ever</span> seeing the dollars <span class="c">that bought it</span>.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>Owned-pharmacy margin</strong> <span class="t">is the per-claim margin earned when the PBM-owned channel fills the prescription. Specialty routing is the largest single source. CVS Caremark owns CVS Specialty. OptumRx owns Optum Specialty. Express Scripts owns Accredo. The contract preserves "member choice" in the network language while the operational workflow steers most specialty fills to the captive channel. The margin between what the plan reimburses and what it costs the captive pharmacy to dispense never appears in the contract at all.</span></p>
+  <p class="rev"><span class="lab">revised</span> <strong>Owned-pharmacy margin</strong> is the margin the PBM earns on each prescription when the pharmacy that fills it belongs to the PBM. Specialty drugs are the largest single source <span class="c">of it</span>. CVS Caremark owns CVS Specialty, <span class="w">UnitedHealth's </span>OptumRx owns Optum Specialty, <span class="c">and</span> <span class="w">Cigna's </span>Express Scripts owns Accredo. The contract preserves <span class="c">the language of</span> "member choice" in the network <span class="c">while the day-to-day workflow steers most specialty prescriptions to the PBM's own pharmacy</span>. The margin between what the plan reimburses and what it costs that pharmacy to dispense <span class="c">the drug</span> never appears in the contract at all.</p>
+  <p class="note">Wendell added the parent companies ("UnitedHealth's OptumRx," "Cigna's Express Scripts"); the surrounding plain-language rewrite is mine.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <span class="t">That is the structural picture. Five streams. One vendor. Uneven disclosure on each.</span></p>
+  <p class="rev"><span class="lab">revised</span> That is the structural picture<span class="c">: five streams, one vendor, and uneven disclosure on every one of them</span>.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <span class="t">Fragmented reform fails because single-stream regulation pushes the margin into the unregulated streams. Spread bans push margin into rebate retention. Rebate-pass-through guarantees push margin into manufacturer-direct payments. Admin-fee caps push margin into owned-pharmacy routing. The reformer chases the margin around the contract. The PBM signs the new language because the architecture preserves the total.</span></p>
+  <p class="rev"><span class="lab">revised</span> Fragmented reform fails because <span class="c">regulating one stream at a time simply</span> pushes the margin into the streams <span class="c">that are still</span> unregulated. <span class="c">Ban spread, and the margin moves into</span> rebate retention. <span class="c">Guarantee rebate pass-through, and it moves into</span> manufacturer-direct payments. <span class="c">Cap administrative fees, and it moves into</span> owned-pharmacy routing. The reformer chases the margin around the contract<span class="c">, and</span> the PBM signs <span class="c">each round of</span> new language because the architecture preserves the total.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <span class="t">The fix is structural. Five reforms, in order, each previewed here and each argued in detail in the pieces that follow.</span></p>
+  <p class="rev"><span class="lab">revised</span> The fix is structural. <span class="w">What is needed is</span> five reforms, <span class="w">each of which is</span> previewed <span class="w">below</span> and <span class="w">will be described</span> in detail in <span class="w">the weeks ahead</span>.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>On spread:</strong> <span class="t">Mandatory per-NDC spread disclosure required at the PBM level, filed quarterly with state Departments of Insurance and made available to plan sponsors by right. FTC final order under Section 5 authority. The data exists; the enforcement instrument is missing.</span></p>
+  <p class="rev"><span class="lab">revised</span> <span class="c"><strong>On spread pricing</strong>, the PBM should be required to disclose the markup itself, drug by drug, in a report filed each quarter with state </span><span class="w">insurance departments</span><span class="c"> and made available to the plan sponsor by right rather than by negotiation. The groundwork is already laid. The Federal Trade Commission built the factual record through a multi-year study of the industry and has opened an enforcement case against the three largest PBMs, so a disclosure requirement is the logical next step on a track the agency is already traveling. If the agency will not take that step, the bipartisan Pharmacy Benefit Manager Transparency Act, reintroduced in 2025 by Senators Grassley and Cantwell, would write the same requirement into law. The evidence is in hand. What is missing is the order, or the vote.</span></p>
+  <p class="note">Wendell deleted "per-NDC," changed "Departments of Insurance" to "insurance departments," and flagged "FTC final order under Section 5 authority" with "What is this? Readers will not know. I don't know." I removed the bare Section 5 line and replaced it with the functional enforcement framing + the statutory path (which also matches Piece 1's fact-check).</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>On vertical integration:</strong> <span class="t">Federal contractual firewall plus plan sponsor audit rights, with divestiture mandate as the structural endpoint. ERISA amendment for the firewall; statute for divestiture. Both paths advance simultaneously rather than waiting for the larger fight to resolve.</span></p>
+  <p class="rev"><span class="lab">revised</span> <span class="c"><strong>On vertical integration</strong>, the problem that a PBM owns the pharmacy it pays, the reform has two parts that can move at the same time. The first is a firewall, a federal rule that separates the PBM's pricing decisions from its ownership of the pharmacy, together with the plan sponsor's right to audit how prescriptions are being routed. Because most employer health plans are governed by a federal law known as ERISA, that firewall can be built as an amendment to it. The second part is the harder one, requiring the largest PBMs to sell off the pharmacies they own, which takes an act of Congress. The firewall should not have to wait for the divestiture fight to be won.</span></p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>On category-specific reform:</strong> <span class="t">HHS Secretary authority to require per-NDC net-cost disclosure within sixty days of any drug class crossing a defined annual spend threshold. GLP-1s are the test case. Future high-leverage classes follow the same trigger.</span></p>
+  <p class="rev"><span class="lab">revised</span> <span class="c"><strong>On high-cost drug categories</strong>, the Secretary of Health and Human Services should have standing authority to require full disclosure of what a drug actually costs the plan, after rebates and drug by drug, whenever a category of medications crosses a defined spending threshold for the year. The GLP-1 weight-loss and diabetes drugs are the natural test case, because their cost to plans has climbed faster than almost any category in a generation. Once the trigger is set, the next expensive category to cross it gets the same disclosure automatically, without Congress having to act again each time.</span></p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>On copay accumulator economics:</strong> <span class="t">Federal disclosure rule plus a structural firewall barring PBMs from administering accumulator programs while owning the specialty pharmacy dispensing eligible drugs. HHS sub-regulatory guidance where available; ERISA amendment where not.</span></p>
+  <p class="rev"><span class="lab">revised</span> <span class="c"><strong>On copay accumulators</strong>, the programs that decide whether a manufacturer's copay assistance counts toward a patient's deductible, two things are needed. The first is a federal rule requiring plans and PBMs to disclose how these programs actually operate, because today most patients, and many plan sponsors, do not know the rules being applied to them. The second is a firewall that bars a PBM from running the accumulator program while also owning the specialty pharmacy that dispenses the drugs the program affects, a conflict of interest that currently sits inside a single company. Where the Department of Health and Human Services can act through its own guidance, it should; where it cannot, Congress should amend ERISA to close the gap.</span></p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <strong>On channel steering and white-bagging:</strong> <span class="t">Site-of-care neutrality regulation requiring per-channel net cost disclosure before PBMs may route fills. ERISA amendment establishing plan sponsor audit rights for specialty pharmacy pass-through.</span></p>
+  <p class="rev"><span class="lab">revised</span> <span class="c"><strong>On channel steering and white-bagging</strong>, the practice of directing a prescription to one pharmacy or one site of care over another, and the related practice of shipping a specialty drug to the doctor's office instead of letting the provider buy and bill for it, the principle should be neutrality. Before a PBM may steer a prescription to a particular channel, it should have to disclose what that drug costs the plan in each channel available. And ERISA should be amended to give plan sponsors the right to audit the pass-through pricing on specialty drugs, which is exactly where this margin tends to hide.</span></p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <span class="t">What I would argue is that the reason PBM reform has stalled at the federal level is that every fight has been framed as a single-stream fight. PCMA has spent a decade defending one stream at a time, then re-pricing into the next. The reformers, scattered across spread, rebates, accumulator, and routing, have been winning incremental skirmishes while the total margin has held steady. Naming the structural picture is the precondition for reform that holds.</span></p>
+  <p class="rev"><span class="lab">revised</span> What I would argue is that the reason PBM reform has stalled at the federal level is that every fight has been framed as a single-stream fight. PCMA<span class="c">, the industry's trade association,</span> has spent a decade defending one stream at a time <span class="c">and then</span> re-pricing into the next. The reformers, scattered across spread, rebates, accumulator<span class="c">s</span>, and routing, have <span class="c">won</span> incremental skirmishes while the total margin has held steady. Naming the structural picture is the precondition for reform that holds.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <span class="t">For self-funded plan sponsors reading this, the audit posture is the same regardless of which reform moves first. Pull your contract. Map the five streams. Document which ones have clear disclosure and which ones do not. The reform argument I am making for policymakers is the audit argument I make for clients. The structural picture is the picture. The legislation is just the part that lasts.</span></p>
+  <p class="rev"><span class="lab">revised</span> For <span class="c">the</span> self-funded <span class="c">employers</span> reading this, <span class="c">the ones who actually pay these bills,</span> the audit posture is the same <span class="c">no matter</span> which reform moves first. Pull your contract<span class="c">, map the five streams, and document</span> which ones have clear disclosure and which ones do not. The reform argument I am making for policymakers is the <span class="c">same</span> audit argument I make for clients. The structural picture is the <span class="c">thing that matters, and the</span> legislation is just the part <span class="c">of it</span> that lasts.</p>
+</div>
+
+<div class="para">
+  <p class="orig"><span class="lab">original</span> <span class="t">The pieces that follow argue each reform in detail. The map exists so the structural picture is on the record before the individual fights are joined.</span></p>
+  <p class="rev"><span class="lab">revised</span> <span class="c">The weeks ahead</span> argue each reform in detail. <span class="c">This</span> map exists so <span class="c">that</span> the structural picture is on the record before the individual fights are joined.</p>
+</div>
+
+</body>
+</html>
