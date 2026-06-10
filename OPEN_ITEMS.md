@@ -2,13 +2,26 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
-## 🗓️ NEXT SESSION PLAN (set Jun 8 eve, for Jun 9) — run in this order
-1. **Load Tier 1 foundational toolkits into Wix.** 3 toolkits fully built (HTML/PDF/preview PNG/X PNG all present in `templates/documents/`: `evergreen_contract_review_readiness_checklist`, `evergreen_optimize_vs_go_to_market_decision_framework`, `evergreen_pbr_pharmacy_benefit_review_framework`). Rows spec'd in `email_gated_toolkit/toolkit_dataset.md`; bulk-import CSV is `email_gated_toolkit/toolkits_csv_for_wix_import.csv`. Wix work: upload the 3 PDFs + preview PNGs to Media; import/add the 3 CMS rows; add a **"Start Here · Foundational Frameworks"** section on the Toolkit Library page above the Tier 2 Repeater; verify each `rxbs.org/toolkit/<slug>` renders + the role-segmented form fires (now that the funnel is live).
-2. **Load the remaining Tier 2 toolkits.** Bulk-import CSV ready: `email_gated_toolkit/tier2_toolkits_for_wix_import_no_specialty.csv` (24 toolkits + header; the `_no_specialty` variant is the one to use unless specialty is wanted). Upload each toolkit's PDF + preview PNG to Media, populate `pdf_url`/`preview_image`, confirm landing pages render.
-3. **Revise the Toolkit Library mobile view.** Mockup at `website_mockups/toolkit-library.html`. Tighten the Repeater/cards for phone width (card stacking, tap targets, hero preview image legibility). Claude can produce a mobile-spec + revised mockup; Wix layout is the user's clicks.
-4. **Revise the PBS website.** `website_audit.md` (paste-ready fixes) + direction mockups `website_mockups/{home,v2_editorial,v3_decoder,v4_conversion,v5_data}.html`. **Decision still open:** which homepage direction (recommended V3 Decoder or V2 Editorial). Pick the direction first, then build it out + the Wix build guide.
+## ✅ DONE this session (Jun 9–10, 2026)
+- **All 29 toolkits loaded into Wix** (3 Tier 1 + 26 Tier 2). `pdf_url` + `preview_image` populated; added collection fields **`pillar`, `card_desc`, `image_alt_text`** (SEO alt for all 29 baked into `toolkit_dataset.md` + import CSVs). Tier 1 field notes routed to the evergreen **Contract Language Library**.
+- **Website direction LOCKED:** the merged **v3-decoder spine + v5 stats + v2 proof + v4 capture**, multi-page nav. Build of record = `website_mockups/site/` (home, solutions, library, toolkit, about, **insights**) + `site/README.md`. Desktop+mobile renders in `site/renders/`.
+- **Toolkit Library page rebuilt in Wix:** Start Here (filter `tier=1`) + Tactical (filter `tier=2`) repeaters; clean white cards (image **element** → `preview_image`, title→`Title` Primary Blue, desc→`card_desc` Gray, button→Toolkits item), border + rounded corners.
+  - **Hard-won Wix rule:** card art = an **Image element bound to a field**, NEVER a section/item **background bound to CMS** (a CMS-bound background caused the whole "article behind the cards" tangle and can't be cleared from the bg picker). Plain white backgrounds only.
+  - Two image fields exist (native `Image` + added `preview_image`); cards standardized on **`preview_image`**. Native `Image` is redundant, retire later.
+- **Toolkit PDF bleed gate codified** (CLAUDE.md "Build-correct-first gate" + `week_build_spec.md` + `sync-toolkits` skill + `templates/documents/_audit_pdfs.py`). All 29 pass `_audit_pdfs.py` (0 flagged).
+- **2 broker PARTNER leads handled** (first funnel leads): Cristy Gupton / Custom Benefits + Mike Thomson / Goldenwest → `bd/`. **Standard partner-outreach sign-off + firm facts banked in `bd/README.md`** (ginny@ signature w/ direct lines, "3 pharmacists, 3 analysts + admin," RFP-facilitation line, partner framing, Traci scheduling).
+- **SHRM "Honest HR" (GLP-1) → 7-clip package** in `social_clips/` (`..._clips.md` + `..._clips.json`): locked timestamps, per-platform copy (brand-checked, em-dashes removed), 9 stat callouts, image cutaways, covers. **Remotion starter upgraded**: stat overlays, slow zoom, progress bar, image cutaways, cover export (`render-covers.mjs`), white-logo bug. White logo knockout generated at `templates/assets/pbs_logo_white.png` (stand-in for the official all-white asset).
+- **SEO/GEO layer:** `website_mockups/site/geo_seo_plan.md`, `robots.txt` (AI crawlers), `llms.txt`, structured data + FAQ on homepage, RSS-fed Insights hub (`rss_feed_spec.md`).
 
-_Prep Claude can do ahead of time if asked: confirm CSV columns match the live Wix Toolkits collection schema; render any missing preview PNGs; draft the Toolkit Library mobile spec; build out the chosen website direction._
+## 🗓️ NEXT SESSION PLAN (set Jun 10 eve)
+1. **Categorize Tier 2 by pillar** on the Wix library page (per-pillar repeaters with section headers, or sort the one grid by `pillar`). Fix the **title-box to a fixed 2-line height** on both repeaters so buttons line up.
+2. **Publish the library:** add **Toolkit Library + Insights** to the site menu, mobile check, Publish.
+3. **SHRM clips — the reach play:** draft the **SHRM/Monique reshare ask** + a **staggered posting schedule** for the 7 clips (biggest reach lever); render via Remotion (`yt-dlp` source → `render-from-manifest.mjs` + `render-covers.mjs`).
+4. **Send the 2 outreach emails** (Cristy → cristy@custombenefits.work; Mike → mthomson@gwcu.org); mark "contacted" in the Toolkit Leads sheet.
+5. **Provide assets:** official all-white logo PNG (swap `public/pbs-logo-white.png`); **2025 savings figure + plans-served count + client testimonials** for the website stats band + quote cards.
+6. **Optional:** Whisper karaoke captions for the clips; confirm Tier 1 + Channel Pricing `field_note_url`s.
+
+_Prep Claude can do ahead: pillar-grouping click-steps for the library; the SHRM reshare note + posting calendar; place the stats/testimonials once provided; the Whisper command + words[] converter._
 
 ## 🟢 Email funnel: role-segmentation + closing layer — LIVE (built Jun 8, 2026)
 The role-segmented funnel + closing layer is **built and live in Wix/Zapier/Sheets**. What shipped this session:
