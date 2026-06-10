@@ -23,6 +23,14 @@
 | `field_note_title` | Text | Email 3 token `{{trigger__field_note_title}}` | The paired published Field Note's title. |
 | `field_note_blurb` | Long Text | Email 3 body (1-2 sentence pairing explanation) | Drafted per-pairing. Added May 19, 2026 as part of CMS-driven Email 3 architecture (single Send action, no Zapier Paths needed). |
 | `field_note_url` | URL | Email 3 link | benefitblindspots.substack.com URL. |
+| `tier` | Number | Library section grouping | 1 = Tier 1 foundational (Start Here); 2 = Tier 2 mechanic-specific. In the import CSV. |
+| `pillar` | Text | Library pillar grouping + segmentation | One of the 6 PBS pillars, or `Foundational` for Tier 1. **NOT in the current import CSV — add this column.** Values in the Library display fields table below. |
+| `preview_image` | Image | Library card thumbnail + landing-page hero | Wix **Image-type** field (not a text URL). Upload `<name>_preview.png` to Media, select it in the cell. One-time: bind a library Repeater image + the landing hero image to this field. Mapping in the table below. |
+| `card_desc` | Text | Library card one-line description | Short (≤ ~12 words) plain-English line shown on the library card under the title. Values in the table below. |
+| `is_featured` | Boolean | Pin to Start Here / featured row | TRUE for the 3 Tier 1 anchors; FALSE otherwise. In the CSV. |
+| `is_archived` | Boolean | Hide from library without deleting the row | FALSE = visible. In the CSV. |
+
+**Schema-lock note (Jun 9, 2026):** the library-page revamp drove three additions the email funnel did not need: `pillar`, `preview_image` (Image type), and `card_desc`. `tier`, `is_featured`, `is_archived` already exist in the import CSV; `pillar`/`preview_image`/`card_desc` must be added to the Wix collection before the revamped library page can bind its grouped, product-shot cards. Adding them once here makes every row's load complete in a single pass (no re-touch). Landing-page display columns (`eyebrow`, `headline`, `headline_emphasis`, `subtitle`, `bullet_1-4`, `valueprop_card_1-4_title/body`, `seo_title`, `seo_description`, `related_toolkit_slugs`, `image_alt_text`, `pdf_filename_display`) are already in the CSV header and feed the dynamic landing page.
 
 **Architecture note (revised May 19, 2026):** All toolkit-specific email content is driven from this CMS collection via Velo's `dynamicDataset.getCurrentItem()` and posted directly to the Zapier webhook. Adding a new toolkit ships its full email content as soon as the CMS row is populated — no Zapier edits, no Velo code edits, no form-field changes required. The Wix Contacts custom-fields path from the original Wix Automation architecture is deprecated.
 
@@ -58,9 +66,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_blurb` | `The PBM Compensation Audit Worksheet maps all five revenue streams that flow from your plan to your PBM. Channel pricing is one. The other four are where most disclosure gaps live.` |
 | `field_note_title` | `What We See When We Audit Channel Pricing` |
 | `field_note_blurb` | `The Channel Pricing Audit Worksheet decoded the channel-pricing terms. The Field Note runs the same audit on the MAC list itself: the per-channel margin spread that the contract's MAC clause is silent on.` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `field_note_url` | `[CONFIRM — live URL for the W18 "What We See When We Audit Channel Pricing" Field Note. The prior value (/p/one-drug-class-to-watch-the-next) was a mismatched slug and has been removed so Email 3 cannot ship a wrong link. The W18 week file still carries the placeholder [SUBSTACK FIELD NOTE URL]; paste the real Substack URL here.]` |
 
-**Verification flag (May 19, 2026):** the `field_note_url` slug `/p/one-drug-class-to-watch-the-next` does not match the `field_note_title` `What We See When We Audit Channel Pricing`. Confirm the live Substack URL for the W18 Channel Pricing Field Note and update this row before Email 3 ships to Channel Pricing leads.
+**Verification flag (May 19, 2026; updated Jun 9, 2026):** the prior `field_note_url` value pointed at `/p/one-drug-class-to-watch-the-next`, which is a different post than the `field_note_title` `What We See When We Audit Channel Pricing`. The wrong URL has been removed and replaced with a confirm-placeholder (above) so Email 3 will not send a bad link to Channel Pricing leads. ACTION: confirm the live Substack URL for the W18 Channel Pricing Field Note and paste it into the row before Email 3 ships.
 
 ---
 
@@ -99,9 +107,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Channel Pricing Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_23fa36ae1b824651a117a6ed99437003.pdf` |
 | `second_toolkit_blurb` | `The Channel Pricing Audit Worksheet runs one of the fifteen audits inside a Contract Review. Half a day per-channel for retail, mail, specialty. Run standalone or as part of the integrated review.` |
-| `field_note_title` | `How Plan Sponsors Actually Enforce Audit Rights` |
-| `field_note_blurb` | `The Contract Review surfaces audit-rights gaps. This Field Note is what comes next: how to actually run the audit once the contract has the right language.` |
-| `field_note_url` | `[PLACEHOLDER — FN-03 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
+| `field_note_title` | `The PBM Contract Language Library` |
+| `field_note_blurb` | `Free and evergreen: the protective PBM contract language behind every audit in this checklist, with the exact redlines to ask your PBM for. Drawn from the patterns we see across hundreds of contract reviews a year.` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/pbm-contract-language-library` |
 
 ---
 
@@ -140,10 +148,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Contract Amendment Letter Template` |
 | `second_toolkit_pdf_url` | `[Upload week_24_thursday_contract_amendment_letter.pdf to Wix Media, paste URL]` |
 | `second_toolkit_blurb` | `The Contract Amendment Letter Template carries the optimize-existing path forward. Paste your audit findings into the redline letter, send to your PBM with the negotiation timeline. Mid-year window beats year-end.` |
-| `field_note_title` | `What a PBM Transition Actually Looks Like: Timeline and Pitfalls` |
-| `field_note_blurb` | `The strategic decision is one thing. The operational reality of the switch is another. Six months minimum from RFP to go-live, with the pitfalls that catch most plans by surprise.` |
-| `field_note_url` | `[PLACEHOLDER — FN-10 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
-| `field_note_url` | `[TBD]` |
+| `field_note_title` | `The PBM Contract Language Library` |
+| `field_note_blurb` | `Free and evergreen: if you choose to optimize, this is the redline language to negotiate clause by clause. The protective PBM contract terms behind the decision, drawn from hundreds of reviews a year.` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/pbm-contract-language-library` |
 
 ---
 
@@ -182,10 +189,9 @@ Each toolkit row's `second_toolkit_*` fields are populated using these rules:
 | `second_toolkit_name` | `Mid-Year Claims Red Flag Checklist` |
 | `second_toolkit_pdf_url` | `[Upload week_23_midyear_claims_red_flag_checklist.pdf to Wix Media, paste URL]` |
 | `second_toolkit_blurb` | `The Mid-Year Claims Red Flag Checklist is the within-cycle audit that feeds your PBR. Five claim patterns surface between renewals; pair with twice-yearly PBR for ongoing oversight.` |
-| `field_note_title` | `Five Lines to Read First in Your PBM's Quarterly Report` |
-| `field_note_blurb` | `The PBR is the comprehensive twice-yearly view. This is the 30-minute version: five lines to scan in the most recent quarterly report this week.` |
-| `field_note_url` | `[PLACEHOLDER — FN-05 in field_note_backlog.md not yet shipped; populate when Field Note publishes]` |
-| `field_note_url` | `[TBD]` |
+| `field_note_title` | `The PBM Contract Language Library` |
+| `field_note_blurb` | `Free and evergreen: the contract language to check during your Pharmacy Benefit Review, side-by-side weak vs. protective terms for every major PBM provision. Drawn from hundreds of reviews a year.` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/pbm-contract-language-library` |
 
 ---
 
@@ -229,4 +235,89 @@ Each row will get its full `pairing` + `field_note_url` + `second_toolkit_blurb`
 
 ---
 
-*Last updated: 2026-05-14.*
+## Library display fields (pillar + preview_image + card_desc) — all 29
+
+> Canonical source for the revamped Toolkit Library page grouping and cards (`website_mockups/toolkit-library-v2.html`) and for the `pillar` / `preview_image` / `card_desc` columns. `preview_image` = upload `templates/documents/<base>_preview.png` to Wix Media and select it in the row's Image cell. Pillar grouping is editorial (each toolkit maps cleanly to one of the 6 PBS pillars); adjust if any feel mis-bucketed. Broker/Consultant Resources is intentionally empty (no standalone toolkit; brokers get the partner track, not a gated audit).
+
+### Tier 1 — Foundational (Start Here, is_featured = TRUE)
+
+| slug | pillar | preview_image base | card_desc |
+|---|---|---|---|
+| contract-review-readiness | Foundational | evergreen_contract_review_readiness_checklist | The 8 documents to pull before you open your PBM contract. |
+| optimize-vs-go-to-market | Foundational | evergreen_optimize_vs_go_to_market_decision_framework | Decide whether to renegotiate your current PBM or run an RFP. |
+| pbr-framework | Foundational | evergreen_pbr_pharmacy_benefit_review_framework | The twice-yearly structure of a plan-sponsor pharmacy benefit review. |
+
+### Tier 2 — by pillar
+
+| slug | pillar | preview_image base | card_desc |
+|---|---|---|---|
+| quarterly-reporting | PBM Contract Insights | week_21_quarterly_reporting_checklist | 15 lines to read first in the report your PBM sends each quarter. |
+| contract-amendment-letter | PBM Contract Insights | week_24_thursday_contract_amendment_letter | Paste-ready redline letter to send your PBM mid-cycle. |
+| rfp-scoring-audit | PBM Contract Insights | week_25_thursday_rfp_scoring_audit_worksheet | Score PBM RFP responses on what actually matters. |
+| ger-audit | PBM Contract Insights | week_28_thursday_ger_audit_worksheet | Test your guaranteed effective rate against the actuals. |
+| midyear-guarantee-audit | PBM Contract Insights | week_34_thursday_midyear_guarantee_audit | Check performance guarantees at the mid-year mark. |
+| termination-clause-audit | PBM Contract Insights | week_35_thursday_termination_clause_audit | The clauses that decide whether you can actually leave. |
+| definition-variance-audit | PBM Contract Insights | week_36_thursday_definition_variance_audit | Where the contract's definitions quietly cost you. |
+| channel-pricing | Transparency & Industry Education | week_18_channel_pricing_audit_worksheet | Three passes that surface spread across retail, mail, and specialty. |
+| rebate-report-audit | Transparency & Industry Education | week_20_thursday_rebate_report_audit_worksheet | Read what your PBM's rebate report doesn't say out loud. |
+| pbm-compensation | Transparency & Industry Education | week_27_thursday_pbm_compensation_audit | Map all five revenue streams flowing from your plan to your PBM. |
+| pbm-disclosure-audit | Transparency & Industry Education | week_31_thursday_pbm_disclosure_audit | What the PBM must disclose versus what it actually does. |
+| pa-roi-audit | Cost Containment Strategies | week_16_pa_roi_audit_scorecard | A five-metric scorecard to audit your prior-authorization ROI. |
+| copay-card-calculator | Cost Containment Strategies | week_20_copay_card_financial_impact_calculator | A five-step model for copay card and accumulator impact. |
+| midyear-claims-red-flag | Cost Containment Strategies | week_23_midyear_claims_red_flag_checklist | Five claim patterns to catch before they compound into renewal. |
+| network-configuration-audit | Cost Containment Strategies | week_29_thursday_network_configuration_audit | Check the pharmacy network for steered margin. |
+| cob-audit | Cost Containment Strategies | week_30_thursday_cob_audit_worksheet | Recover spend hiding in coordination-of-benefits gaps. |
+| drug-pipeline-watch | Clinical Pharmacy Perspectives | week_18_drug_pipeline_watch_list | Five drug categories to budget for in 2026-2027. |
+| biosimilar-readiness | Clinical Pharmacy Perspectives | week_22_biosimilar_readiness_assessment | A six-factor readiness check for biosimilar conversion. |
+| specialty-routing | Clinical Pharmacy Perspectives | week_22_thursday_specialty_routing_audit_worksheet | Where your specialty scripts get routed, and why it costs more. |
+| step-therapy-override | Clinical Pharmacy Perspectives | week_26_thursday_step_therapy_override_audit | Audit your step-therapy override pathway for friction. |
+| member-transition-audit | Clinical Pharmacy Perspectives | week_33_thursday_member_transition_audit | Protect members through a PBM or formulary switch. |
+| carve-out-decision | Self-Funded Employer Guidance | week_17_carve_out_decision_scorecard | Ten factors that decide carve-in versus carve-out. |
+| fiduciary-documentation | Self-Funded Employer Guidance | week_19_fiduciary_documentation_checklist | Five documentation categories that protect the plan fiduciary. |
+| h1-renewal-readiness | Self-Funded Employer Guidance | week_24_h1_renewal_readiness_scorecard | Five mid-year metrics plus a renewal-readiness score. |
+| fiduciary-compliance-audit | Self-Funded Employer Guidance | week_32_thursday_fiduciary_compliance_audit | Test the plan against its ERISA fiduciary duties. |
+| pre-meeting-renewal-checklist | Self-Funded Employer Guidance | week_37_thursday_pre_meeting_renewal_checklist | What to settle before you walk into the renewal meeting. |
+
+Pillar counts: Foundational 3 · PBM Contract Insights 7 · Transparency & Industry Education 4 · Cost Containment Strategies 5 · Clinical Pharmacy Perspectives 5 · Self-Funded Employer Guidance 5 · Broker/Consultant Resources 0. Total 29.
+
+---
+
+## Image alt text (SEO) — all 29
+
+> Stored in the import CSVs' `image_alt_text` column (source of truth) and bound on the library card image element's alt + the landing-page hero image alt. Describes the page-1 preview; keyword-natural (toolkit name + "PBS plan sponsor" + topic terms).
+
+| slug | image_alt_text |
+|---|---|
+| contract-review-readiness | Contract Review Readiness Checklist, first page of the free PBS plan sponsor framework: eight documents to pull and fifteen audits to run before a PBM contract review. |
+| optimize-vs-go-to-market | Optimize vs Go-to-Market Decision Framework, page one of the PBS plan sponsor framework scoring whether to renegotiate a PBM or run an RFP. |
+| pbr-framework | Pharmacy Benefit Review Framework, first page of the PBS plan sponsor twice-yearly review across six categories and twenty audit items. |
+| pa-roi-audit | PA ROI Audit Scorecard, first page of the free PBS plan sponsor scorecard for auditing prior-authorization return on investment. |
+| carve-out-decision | Carve-Out Decision Scorecard, page one of the PBS plan sponsor tool weighing pharmacy carve-in versus carve-out across ten factors. |
+| drug-pipeline-watch | Drug Pipeline Watch List 2026-2027, first page of the PBS plan sponsor guide to five high-cost drug categories to budget for. |
+| fiduciary-documentation | Fiduciary Documentation Checklist, page one of the PBS plan sponsor checklist of five documentation categories that protect ERISA fiduciaries. |
+| copay-card-calculator | Copay Card Financial Impact Calculator, first page of the PBS plan sponsor model for copay card and accumulator financial impact. |
+| rebate-report-audit | Rebate Report Audit Worksheet, page one of the PBS plan sponsor worksheet for reading what a PBM rebate report leaves out. |
+| quarterly-reporting | Quarterly Reporting Checklist, first page of the PBS plan sponsor checklist of 15 line items a PBM quarterly report should contain. |
+| biosimilar-readiness | Biosimilar Readiness Assessment, page one of the PBS plan sponsor six-factor check for biosimilar conversion readiness. |
+| midyear-claims-red-flag | Mid-Year Claims Red Flag Checklist, first page of the PBS plan sponsor checklist of five pharmacy claim patterns to catch before renewal. |
+| h1-renewal-readiness | H1 Renewal Readiness Scorecard, page one of the PBS plan sponsor scorecard of five mid-year metrics for PBM renewal readiness. |
+| contract-amendment-letter | Mid-Year Contract Amendment Letter Template, first page of the PBS paste-ready redline letter for amending a PBM contract mid-cycle. |
+| rfp-scoring-audit | RFP Scoring Methodology Audit, page one of the PBS plan sponsor worksheet for scoring PBM RFP responses on what matters. |
+| step-therapy-override | Step Therapy Override Audit, first page of the PBS plan sponsor audit of the PBM step-therapy override pathway. |
+| pbm-compensation | PBM Compensation Audit Worksheet, page one of the PBS plan sponsor worksheet mapping the five revenue streams a PBM earns from your plan. |
+| ger-audit | Generic Effective Rate Audit Worksheet, first page of the PBS plan sponsor worksheet testing PBM GER guarantees against actuals. |
+| network-configuration-audit | Pharmacy Network Configuration Audit, page one of the PBS plan sponsor audit of pharmacy network steering and hidden margin. |
+| cob-audit | Coordination of Benefits Audit Worksheet, first page of the PBS plan sponsor worksheet for recovering pharmacy spend in COB gaps. |
+| pbm-disclosure-audit | PBM Disclosure Audit Worksheet, page one of the PBS plan sponsor worksheet on what a PBM must disclose versus what it actually shares. |
+| fiduciary-compliance-audit | Fiduciary Compliance Audit, first page of the PBS plan sponsor audit testing the health plan against its ERISA fiduciary duties. |
+| member-transition-audit | Member Transition Audit, page one of the PBS plan sponsor audit for protecting members through a PBM or formulary switch. |
+| midyear-guarantee-audit | Mid-Year Performance Guarantee Audit, first page of the PBS plan sponsor audit checking PBM performance guarantees at mid-year. |
+| termination-clause-audit | Termination Clause Audit, page one of the PBS plan sponsor audit of the PBM contract termination clauses that govern exit. |
+| definition-variance-audit | Definition Variance Audit, first page of the PBS plan sponsor audit of costly definition variances in a PBM contract. |
+| pre-meeting-renewal-checklist | First Renewal Meeting Pre-Meeting Checklist, page one of the PBS plan sponsor checklist to settle before a PBM renewal meeting. |
+| specialty-routing | Specialty Routing Audit Worksheet, first page of the PBS plan sponsor worksheet on where specialty scripts route and why it costs more. |
+| channel-pricing | Channel Pricing Audit Worksheet, page one of the PBS plan sponsor worksheet surfacing PBM spread across retail, mail, and specialty. |
+
+---
+
+*Last updated: 2026-06-09 (Tier 1 fixes + schema lock + library display-field mapping + SEO image_alt_text for all 29).*

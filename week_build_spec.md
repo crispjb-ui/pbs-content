@@ -73,6 +73,7 @@ Check `wendell_potter_cascade_alignment.md`, `wendell_potter_contributorship_str
 ## 7. Toolkit sync (if a toolkit ships)
 - [ ] `templates/documents/week_NN_*.html` exists; PDF re-rendered (WeasyPrint) + preview PNG re-rendered (render_preview.py) in the same commit.
 - [ ] 2 pages (or an approved 3-page exception); footers render on every page.
+- [ ] **Bleed gate (required, Jun 9 2026):** `.page` CSS has `height:11in` and NO `overflow:hidden`; `python3 templates/documents/_audit_pdfs.py` reports **0 flagged** (page count, footer present each page, no body-over-footer overlap). A toolkit is not done until this passes.
 - [ ] "Terms used" glossary callout present if PBM technical terms appear; terms pulled from `_glossary_terms.md`.
 - [ ] `PART 1C` Toolkit Pairings + Wix Build section present with dataset row + checklist + pairing rationale.
 

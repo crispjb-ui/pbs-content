@@ -23,3 +23,13 @@ For each clip in the manifest: trims the source video to the clip's in/out, refr
 - Source = the YouTube download (compressed is fine for social; no host raw file needed).
 - This is a **starter** — render one clip first and tweak to your Remotion version (v4 API: if `OffthreadVideo` rejects `startFrom`, your version uses `trimBefore`/`trimAfter` instead).
 - Brand spec is `social_clips/remotion_pbs_caption_template_spec.md` in the content repo — keep this composition matched to it.
+
+## Stat callouts & transitions
+- **Stat callouts (built in):** add an `overlays: [{ startSec, endSec, big, small?, position? }]` array to any clip in the manifest. `startSec/endSec` are ABSOLUTE source seconds (same clock as captions). `big` is the headline stat ("1 in 12", "62", "+60%", "30%"), `small` is the label under it. The composition springs it in (scale + fade), holds, fades out, rendered Plex Mono in Accent on a Primary card. Want a new callout? Just add a row to `overlays`, no code change.
+- **Scene transitions (optional, more advanced):** `npm i @remotion/transitions`, then wrap an intro title card → the video → an outro CTA card in a `<TransitionSeries>` with `linearTiming` + a `fade()` or `slide()` presentation. Good for a branded 1s open/close; not required, the in-clip hook + CTA already cover it.
+
+## Cover frames (feed thumbnails)
+`node render-covers.mjs clips.json` → renders `out/cover_<slug>_<aspect>.png` for every clip: a still with the hook + a mid-clip frame of the speaker + brand bar (no captions/UI). The composition has a `coverMode` flag that produces this; `render-covers.mjs` renders it as a still ~40% into each clip.
+- **TikTok / Shorts / X:** at upload, choose "upload cover" and use the matching `cover_*.png`.
+- **LinkedIn:** its custom-thumbnail option is inconsistent (shows on desktop sometimes, rarely mobile). If it offers a thumbnail, use the cover PNG. If not, the clip's **first ~2s already show the hook on screen**, so LinkedIn's auto-picked early frame still looks on-brand. Optional extra: post the `cover_*.png` as the very first frame held ~0.4s (add a tiny still segment) so LinkedIn's auto-thumbnail grabs it, trade-off is a 0.4s delay before the spoken hook.
+
