@@ -66,7 +66,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
       <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
         <OffthreadVideo src={staticFile(sourceVideo)} startFrom={Math.round(clip.inSec * fps)} style={{ width, height, objectFit: "cover" }} />
         <AbsoluteFill style={{ background: "linear-gradient(180deg, rgba(1,88,128,0.12), rgba(0,0,0,0.66))" }} />
-        <div style={{ position: "absolute", top: 30, left: 30, color: WHITE, fontWeight: 700, letterSpacing: 1, fontSize: 30 }}>▲ PBS</div>
+        <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 30, left: 30, height: 54, width: "auto", filter: "drop-shadow(0 2px 6px rgba(0,0,0,0.75))" }} />
         <div style={{ position: "absolute", top: 30, right: 30, background: PRIMARY, color: WHITE, padding: "8px 14px", borderRadius: 6, fontSize: 24, fontWeight: 600 }}>As seen on {clip.showName}</div>
         <div style={{ position: "absolute", bottom: height * 0.16, left: 56, right: 56, textAlign: "center" }}>
           <span style={{ fontSize: clip.aspect === "9x16" ? 96 : 82, fontWeight: 700, color: WHITE, lineHeight: 1.05, background: PRIMARY, boxShadow: `0 0 0 18px ${PRIMARY}`, boxDecorationBreak: "clone", WebkitBoxDecorationBreak: "clone" }}>{clip.hookTitle}</span>
@@ -99,8 +99,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
       {/* (6) Progress bar — top, fills as the clip plays. */}
       <div style={{ position: "absolute", top: 0, left: 0, height: 8, width: `${(frame / totalFrames) * 100}%`, background: ACCENT }} />
 
-      {/* Brand watermark + "as seen on" badge. */}
-      <div style={{ position: "absolute", top: 28, left: 28, color: WHITE, opacity: 0.85, fontWeight: 700, letterSpacing: 1 }}>▲ PBS</div>
+      {/* Brand logo bug: white logo + drop shadow (legible on any footage). Swap public/pbs-logo-white.png for the official all-white asset. */}
+      <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 30, left: 30, height: 44, width: "auto", filter: "drop-shadow(0 2px 5px rgba(0,0,0,0.7))" }} />
       <div style={{ position: "absolute", top: 28, right: 28, background: PRIMARY, color: WHITE, padding: "8px 14px", borderRadius: 6, fontSize: 24, fontWeight: 600 }}>As seen on {clip.showName}</div>
 
       {/* Scroll-stopper hook (top third, opening seconds). */}
