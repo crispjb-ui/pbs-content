@@ -16,12 +16,32 @@
       "hookTitle": "They keep the difference",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "PBMs are allowed to have contracts where you're not paying that pass-through amount",
-      "cta": { "text": "Free channel-pricing audit worksheet", "url": "rxbs.org/toolkit/channel-pricing" },
+      "cta": {
+        "text": "Free channel-pricing audit worksheet",
+        "url": "rxbs.org/toolkit/channel-pricing"
+      },
       "overlays": [
-        { "startSec": 751.0, "endSec": 759.0, "big": "SPREAD", "small": "the markup you never see" }
+        {
+          "startSec": 751.0,
+          "endSec": 759.0,
+          "big": "SPREAD",
+          "small": "the markup you never see"
+        }
       ],
       "captions": [
-        { "startSec": 735.0, "endSec": 767.0, "text": "PBMs are allowed to have contracts where you're not paying that pass-through amount. They could pay the pharmacy one price for that GLP-1, then turn around and invoice you a higher amount, and they keep that difference. In our industry that's called spread pricing. And not just for GLP-1s, for everything." }
+        {
+          "startSec": 735.0,
+          "endSec": 767.0,
+          "text": "PBMs are allowed to have contracts where you're not paying that pass-through amount. They could pay the pharmacy one price for that GLP-1, then turn around and invoice you a higher amount, and they keep that difference. In our industry that's called spread pricing. And not just for GLP-1s, for everything."
+        }
+      ],
+      "images": [
+        {
+          "startSec": 762.0,
+          "endSec": 766.7,
+          "src": "week_18_channel_pricing_audit_worksheet_preview.png",
+          "position": "corner"
+        }
       ]
     },
     {
@@ -34,12 +54,32 @@
       "hookTitle": "1 in 12",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "after three years, it's like one in 12 people are still using a GLP-1",
-      "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
+      "cta": {
+        "text": "Free Drug Pipeline Watch List",
+        "url": "rxbs.org/toolkit/drug-pipeline-watch"
+      },
       "overlays": [
-        { "startSec": 1634.0, "endSec": 1643.0, "big": "1 in 12", "small": "still on a GLP-1 after 3 years" }
+        {
+          "startSec": 1634.0,
+          "endSec": 1643.0,
+          "big": "1 in 12",
+          "small": "still on a GLP-1 after 3 years"
+        }
       ],
       "captions": [
-        { "startSec": 1631.0, "endSec": 1658.0, "text": "Most of the studies have shown after three years, it's like one in 12 people are still using a GLP-1. That's not necessarily a bad thing, if they had the weight loss and lifestyle and came off the med but sustained it. But if it's because they can't afford it or can't tolerate it, that's a very different situation." }
+        {
+          "startSec": 1631.0,
+          "endSec": 1658.0,
+          "text": "Most of the studies have shown after three years, it's like one in 12 people are still using a GLP-1. That's not necessarily a bad thing, if they had the weight loss and lifestyle and came off the med but sustained it. But if it's because they can't afford it or can't tolerate it, that's a very different situation."
+        }
+      ],
+      "images": [
+        {
+          "startSec": 1653.0,
+          "endSec": 1657.7,
+          "src": "week_18_drug_pipeline_watch_list_preview.png",
+          "position": "corner"
+        }
       ]
     },
     {
@@ -52,12 +92,32 @@
       "hookTitle": "They claw it back",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "a lot of PBMs will tell you that if you add in lifestyle requirements",
-      "cta": { "text": "Free rebate report audit worksheet", "url": "rxbs.org/toolkit/rebate-report-audit" },
+      "cta": {
+        "text": "Free rebate report audit worksheet",
+        "url": "rxbs.org/toolkit/rebate-report-audit"
+      },
       "overlays": [
-        { "startSec": 845.0, "endSec": 853.0, "big": "CLAWED BACK", "small": "rebates pulled if you add lifestyle" }
+        {
+          "startSec": 845.0,
+          "endSec": 853.0,
+          "big": "CLAWED BACK",
+          "small": "rebates pulled if you add lifestyle"
+        }
       ],
       "captions": [
-        { "startSec": 829.0, "endSec": 857.0, "text": "This might be shocking since the FDA approved these drugs on that combination, but a lot of PBMs will tell you that if you add in lifestyle requirements, they can't or won't do it, because it impacts their rebates and they claw those rebates back. It's very sad they won't model what actually worked." }
+        {
+          "startSec": 829.0,
+          "endSec": 857.0,
+          "text": "This might be shocking since the FDA approved these drugs on that combination, but a lot of PBMs will tell you that if you add in lifestyle requirements, they can't or won't do it, because it impacts their rebates and they claw those rebates back. It's very sad they won't model what actually worked."
+        }
+      ],
+      "images": [
+        {
+          "startSec": 852.0,
+          "endSec": 856.7,
+          "src": "week_20_thursday_rebate_report_audit_worksheet_preview.png",
+          "position": "corner"
+        }
       ]
     },
     {
@@ -70,13 +130,38 @@
       "hookTitle": "1 in 3 would leave",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "about a third of employees would consider moving jobs if they could get GLP-1 coverage",
-      "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
+      "cta": {
+        "text": "Free Drug Pipeline Watch List",
+        "url": "rxbs.org/toolkit/drug-pipeline-watch"
+      },
       "overlays": [
-        { "startSec": 1131.0, "endSec": 1139.0, "big": "1 in 3", "small": "would switch jobs for GLP-1 coverage" },
-        { "startSec": 1139.0, "endSec": 1147.0, "big": "30%", "small": "of your workforce" }
+        {
+          "startSec": 1131.0,
+          "endSec": 1139.0,
+          "big": "1 in 3",
+          "small": "would switch jobs for GLP-1 coverage"
+        },
+        {
+          "startSec": 1139.0,
+          "endSec": 1147.0,
+          "big": "30%",
+          "small": "of your workforce"
+        }
       ],
       "captions": [
-        { "startSec": 1129.0, "endSec": 1150.0, "text": "There are studies that say about a third of employees would consider moving jobs if they could get GLP-1 coverage. That's a huge population. It's 30%. So if I'm a leader or an owner of a company, and I hear that, I want to keep my good people." }
+        {
+          "startSec": 1129.0,
+          "endSec": 1150.0,
+          "text": "There are studies that say about a third of employees would consider moving jobs if they could get GLP-1 coverage. That's a huge population. It's 30%. So if I'm a leader or an owner of a company, and I hear that, I want to keep my good people."
+        }
+      ],
+      "images": [
+        {
+          "startSec": 1145.0,
+          "endSec": 1149.7,
+          "src": "week_18_drug_pipeline_watch_list_preview.png",
+          "position": "corner"
+        }
       ]
     },
     {
@@ -89,12 +174,32 @@
       "hookTitle": "They'll get them anyway",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "if they are going through these direct-to-consumer programs, you as an employer lose sight of all of that",
-      "cta": { "text": "Free PBM Compensation worksheet", "url": "rxbs.org/toolkit/pbm-compensation" },
+      "cta": {
+        "text": "Free PBM Compensation worksheet",
+        "url": "rxbs.org/toolkit/pbm-compensation"
+      },
       "overlays": [
-        { "startSec": 1505.0, "endSec": 1514.0, "big": "OFF YOUR RADAR", "small": "no claims, no deductible, no data" }
+        {
+          "startSec": 1505.0,
+          "endSec": 1514.0,
+          "big": "OFF YOUR RADAR",
+          "small": "no claims, no deductible, no data"
+        }
       ],
       "captions": [
-        { "startSec": 1489.0, "endSec": 1516.0, "text": "If they go through these direct-to-consumer programs, you as an employer lose sight of all of it. It doesn't touch their deductible either. So whether you cover it or not, all of this is happening. There's no way to just put your head in the sand and think this is going away." }
+        {
+          "startSec": 1489.0,
+          "endSec": 1516.0,
+          "text": "If they go through these direct-to-consumer programs, you as an employer lose sight of all of it. It doesn't touch their deductible either. So whether you cover it or not, all of this is happening. There's no way to just put your head in the sand and think this is going away."
+        }
+      ],
+      "images": [
+        {
+          "startSec": 1511.0,
+          "endSec": 1515.7,
+          "src": "week_27_thursday_pbm_compensation_audit_preview.png",
+          "position": "corner"
+        }
       ]
     },
     {
@@ -107,13 +212,38 @@
       "hookTitle": "62 diseases. You already pay.",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "there's about 62 disease states associated with obesity",
-      "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
+      "cta": {
+        "text": "Free Drug Pipeline Watch List",
+        "url": "rxbs.org/toolkit/drug-pipeline-watch"
+      },
       "overlays": [
-        { "startSec": 1413.0, "endSec": 1421.0, "big": "62", "small": "disease states tied to obesity" },
-        { "startSec": 1421.0, "endSec": 1430.0, "big": "+60%", "small": "total cost per person" }
+        {
+          "startSec": 1413.0,
+          "endSec": 1421.0,
+          "big": "62",
+          "small": "disease states tied to obesity"
+        },
+        {
+          "startSec": 1421.0,
+          "endSec": 1430.0,
+          "big": "+60%",
+          "small": "total cost per person"
+        }
       ],
       "captions": [
-        { "startSec": 1411.0, "endSec": 1433.0, "text": "For obesity there are about 62 disease states associated with it, and about a 60% increase in total cost for someone who has them. So the plan is already paying for that, whether or not you turn on GLP-1 coverage for weight loss." }
+        {
+          "startSec": 1411.0,
+          "endSec": 1433.0,
+          "text": "For obesity there are about 62 disease states associated with it, and about a 60% increase in total cost for someone who has them. So the plan is already paying for that, whether or not you turn on GLP-1 coverage for weight loss."
+        }
+      ],
+      "images": [
+        {
+          "startSec": 1428.0,
+          "endSec": 1432.7,
+          "src": "week_18_drug_pipeline_watch_list_preview.png",
+          "position": "corner"
+        }
       ]
     },
     {
@@ -126,12 +256,32 @@
       "hookTitle": "Demand these 3 numbers",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is",
-      "cta": { "text": "Free Quarterly Reporting Checklist", "url": "rxbs.org/toolkit/quarterly-reporting" },
+      "cta": {
+        "text": "Free Quarterly Reporting Checklist",
+        "url": "rxbs.org/toolkit/quarterly-reporting"
+      },
       "overlays": [
-        { "startSec": 883.0, "endSec": 899.0, "big": "3 NUMBERS", "small": "Cost  ·  Rebates  ·  Net cost" }
+        {
+          "startSec": 883.0,
+          "endSec": 899.0,
+          "big": "3 NUMBERS",
+          "small": "Cost  \u00b7  Rebates  \u00b7  Net cost"
+        }
       ],
       "captions": [
-        { "startSec": 878.0, "endSec": 900.0, "text": "Reporting is the last piece. Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is, so you can evaluate the full impact instead of going in blind? Without that data, it's hard to model anything." }
+        {
+          "startSec": 878.0,
+          "endSec": 900.0,
+          "text": "Reporting is the last piece. Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is, so you can evaluate the full impact instead of going in blind? Without that data, it's hard to model anything."
+        }
+      ],
+      "images": [
+        {
+          "startSec": 895.0,
+          "endSec": 899.7,
+          "src": "week_21_quarterly_reporting_checklist_preview.png",
+          "position": "corner"
+        }
       ]
     }
   ]
