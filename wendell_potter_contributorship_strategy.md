@@ -51,6 +51,21 @@ The brand voice drift is deliberate. Three differences from PBS LinkedIn / Subst
 
 Everything else stays Ginny: the proprietary anchor (hundreds of contracts a year, sometimes refined to specific provision-family observations), the Humanize Check rule (one unfakeable detail per piece, non-negotiable), the no-em-dash rule, the no-fabricated-stats rule, the broker-sensitivity rule (PBM is the structural adversary; brokers are the allies who flag gaps).
 
+### Reader Accessibility Standard (locked Jun 10, 2026 — Wendell's editorial pass on the Opening Piece)
+
+Wendell returned the Opening Piece with edits and one instruction: revise it "thinking of our average reader," who has *some* PBM familiarity but "would get lost in some of your paragraphs, especially the ones with acronyms," and whose ranks include members of Congress and their staff who "are not all that familiar with the murky world" of these mechanics. He also wrote, plainly, **"Make sure to use complete sentences."** This is now the house standard for **every** piece on this publication. The expert-prescriptive register above still holds; this standard governs *how legible* that register has to be. Drafting to it from the start is mandatory so this feedback is never returned again.
+
+The six rules, each derived from an actual edit he made:
+
+1. **Write for a reader with light PBM familiarity, including Congress and staff.** Every paragraph must be followable cold by someone who does not live in this world. If a sentence assumes the reader already knows the mechanic, it fails.
+2. **Spell out and gloss every acronym on first use.** FTC → "the Federal Trade Commission"; MAC → "the Maximum Allowable Cost, or MAC, schedule, which is really the PBM's own list of ceiling prices"; ERISA → "a federal law known as ERISA that governs most employer health plans"; HHS → "the Secretary of Health and Human Services." If an acronym or term-of-art cannot be glossed cleanly in-line, **cut it** (he deleted "per-NDC" outright; "drug by drug" is the reader-facing substitute).
+3. **Explain the legal instrument, never just name it.** He flagged "Section 5 authority" with *"What is this? Readers will not know. I don't know."* Name the regulator and the action, but describe the mechanism functionally (the FTC built the record and opened a case, so disclosure is the next step) and/or name the statutory path (the PBM Transparency Act). Never leave a bare statutory citation doing work the reader cannot follow.
+4. **Name the parent companies so the players are legible.** Not "Big 3." Use "one of the big three PBMs, owned by Cigna, CVS/Aetna, and UnitedHealth," and "UnitedHealth's OptumRx," "Cigna's Express Scripts." Gloss the aggregators the same way ("group purchasing organizations like Ascent, Emisar, and Zinc").
+5. **Complete sentences only. No telegraphic fragments.** The clipped LinkedIn/X cadence ("Five reforms, in order." / "The data exists; the instrument is missing.") does not travel to this register. Every list item and every reform preview is full prose. This is the line he wrote out by hand; treat it as absolute.
+6. **Plain word choices over insider phrasing.** "insurance departments" not "Departments of Insurance"; "the weeks ahead" not "the pieces that follow"; "below" not "here."
+
+**Pre-submission gate (hard):** before any piece goes to Wendell, read it as the Congressional staffer who has read one prior PBM story and nothing else. If any sentence loses that reader, if any acronym appears unglossed, if any fragment stands in for a sentence, or if any statute is named without being explained, fix it first. A piece that would draw this feedback again is not ready to submit. The Opening Piece revision (`wendell_potter_piece_00_opening_draft.md`, "Wendell edit digest") is the worked reference for what passing looks like.
+
 ---
 
 ## Cascade Architecture (W → W+1)

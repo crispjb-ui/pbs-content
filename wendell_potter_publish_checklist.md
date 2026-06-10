@@ -20,10 +20,24 @@ Apply this checklist to every piece in the Wendell Potter contributorship roster
 - [ ] Opening metaphor present and load-bearing (the metaphor IS the setup; no 200-word ramp before it lands)
 - [ ] Named adversaries by company (specific names: CVS Caremark, Express Scripts, OptumRx, SaveOnSP, PrudentRx, Variable Copay, Ascent, Emisar, Zinc, Premier, Accredo, Optum Specialty, CVS Specialty as applicable — never just "the Big 3" or "the major PBMs")
 - [ ] Proprietary anchor sentence engineered into the structure (one of the 2-3 pull-quote candidates from the outline; load-bearing for cascade callback)
-- [ ] Prescriptive ending: named regulator + named action + named instrument (e.g., "FTC final order under Section 5 authority requiring per-NDC spread disclosure")
+- [ ] Prescriptive ending: named regulator + named action + named instrument, with the instrument explained in plain English (e.g., "the Federal Trade Commission has already opened a case against the three largest PBMs, so requiring them to disclose the markup drug by drug is the next step" — NOT a bare "FTC final order under Section 5 authority requiring per-NDC disclosure," which is exactly the un-glossed jargon Wendell flagged)
 - [ ] Opinion stated openly as opinion ("In my view," "What I would argue," "My take is") — anchored to expertise at all times, never freestanding hot-take register
 - [ ] Length: 800-1,000 words (Wendell's specified range)
 - [ ] Closes with a sentence that pushes the reader to act, share, or change their political stance
+
+---
+
+## Stage 1B: Reader Accessibility Gate (Wendell standard — locked Jun 10, 2026)
+
+His standing instruction after the Opening Piece pass: write for an average reader with *light* PBM familiarity, including members of Congress and staff who do not know the mechanics, and use complete sentences. Full rationale in `wendell_potter_contributorship_strategy.md` → "Reader Accessibility Standard." This stage is gating: a piece that would draw this feedback again is not ready to submit.
+
+- [ ] **Followable cold:** every paragraph readable by someone who has read one prior PBM story and nothing else; no sentence assumes the reader already knows the mechanic
+- [ ] **Every acronym spelled out and glossed on first use** (FTC, MAC, ERISA, HHS, NDC, GER, AWP, etc.); any term-of-art that cannot be glossed cleanly is cut, not left bare (he deleted "per-NDC"; use "drug by drug")
+- [ ] **Every legal instrument explained, not just named** (no bare "Section 5 authority" — he wrote "What is this? Readers will not know. I don't know"); describe the mechanism functionally and/or name the statutory path
+- [ ] **Parent companies named** so players are legible (Cigna / CVS-Aetna / UnitedHealth; "UnitedHealth's OptumRx," "Cigna's Express Scripts"); aggregators glossed as group purchasing organizations
+- [ ] **Complete sentences only** — no telegraphic noun-phrase fragments anywhere, including list items and reform previews (the clipped LinkedIn/X cadence does not travel to this register)
+- [ ] **Plain word choices** ("insurance departments," "the weeks ahead," "below")
+- [ ] **Final read-through as the Congressional staffer:** if any sentence loses that reader, fix before advancing
 
 ---
 
