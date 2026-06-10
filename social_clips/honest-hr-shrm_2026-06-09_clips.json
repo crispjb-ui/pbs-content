@@ -4,7 +4,7 @@
   "date": "2026-06-09",
   "sourceVideo": "source.mp4",
   "fps": 30,
-  "_note": "In/out points LOCKED from the SHRM timestamped transcript (Jun 10, 2026). Clip boundaries are accurate to the spoken line. For word-level synced caption highlighting, still run Whisper on the pulled audio; the captions[] block per clip is the verbatim text and can be re-split by Whisper. Host: Monique Akanbi. Guest: Ginny Crisp (auto-captions mis-spell as 'Jenny').",
+  "_note": "In/out LOCKED from the SHRM timestamped transcript. captions[] = verbatim spoken text (Whisper can re-split for word-level). overlays[] = animated stat callouts (big number pops on-brand when spoken); startSec/endSec are ABSOLUTE source seconds within the clip's in/out. Host: Monique Akanbi. Guest: Ginny Crisp.",
   "clips": [
     {
       "id": "clip1",
@@ -17,6 +17,9 @@
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "PBMs are allowed to have contracts where you're not paying that pass-through amount",
       "cta": { "text": "Free channel-pricing audit worksheet", "url": "rxbs.org/toolkit/channel-pricing" },
+      "overlays": [
+        { "startSec": 751.0, "endSec": 759.0, "big": "SPREAD", "small": "the markup you never see" }
+      ],
       "captions": [
         { "startSec": 735.0, "endSec": 767.0, "text": "PBMs are allowed to have contracts where you're not paying that pass-through amount. They could pay the pharmacy one price for that GLP-1, then turn around and invoice you a higher amount, and they keep that difference. In our industry that's called spread pricing. And not just for GLP-1s, for everything." }
       ]
@@ -32,6 +35,9 @@
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "after three years, it's like one in 12 people are still using a GLP-1",
       "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
+      "overlays": [
+        { "startSec": 1634.0, "endSec": 1643.0, "big": "1 in 12", "small": "still on a GLP-1 after 3 years" }
+      ],
       "captions": [
         { "startSec": 1631.0, "endSec": 1658.0, "text": "Most of the studies have shown after three years, it's like one in 12 people are still using a GLP-1. That's not necessarily a bad thing, if they had the weight loss and lifestyle and came off the med but sustained it. But if it's because they can't afford it or can't tolerate it, that's a very different situation." }
       ]
@@ -47,6 +53,9 @@
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "a lot of PBMs will tell you that if you add in lifestyle requirements",
       "cta": { "text": "Free rebate report audit worksheet", "url": "rxbs.org/toolkit/rebate-report-audit" },
+      "overlays": [
+        { "startSec": 845.0, "endSec": 853.0, "big": "CLAWED BACK", "small": "rebates pulled if you add lifestyle" }
+      ],
       "captions": [
         { "startSec": 829.0, "endSec": 857.0, "text": "This might be shocking since the FDA approved these drugs on that combination, but a lot of PBMs will tell you that if you add in lifestyle requirements, they can't or won't do it, because it impacts their rebates and they claw those rebates back. It's very sad they won't model what actually worked." }
       ]
@@ -62,6 +71,10 @@
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "about a third of employees would consider moving jobs if they could get GLP-1 coverage",
       "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
+      "overlays": [
+        { "startSec": 1131.0, "endSec": 1139.0, "big": "1 in 3", "small": "would switch jobs for GLP-1 coverage" },
+        { "startSec": 1139.0, "endSec": 1147.0, "big": "30%", "small": "of your workforce" }
+      ],
       "captions": [
         { "startSec": 1129.0, "endSec": 1150.0, "text": "There are studies that say about a third of employees would consider moving jobs if they could get GLP-1 coverage. That's a huge population. It's 30%. So if I'm a leader or an owner of a company, and I hear that, I want to keep my good people." }
       ]
@@ -77,6 +90,9 @@
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "if they are going through these direct-to-consumer programs, you as an employer lose sight of all of that",
       "cta": { "text": "Free PBM Compensation worksheet", "url": "rxbs.org/toolkit/pbm-compensation" },
+      "overlays": [
+        { "startSec": 1505.0, "endSec": 1514.0, "big": "OFF YOUR RADAR", "small": "no claims, no deductible, no data" }
+      ],
       "captions": [
         { "startSec": 1489.0, "endSec": 1516.0, "text": "If they go through these direct-to-consumer programs, you as an employer lose sight of all of it. It doesn't touch their deductible either. So whether you cover it or not, all of this is happening. There's no way to just put your head in the sand and think this is going away." }
       ]
@@ -92,6 +108,10 @@
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "there's about 62 disease states associated with obesity",
       "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
+      "overlays": [
+        { "startSec": 1413.0, "endSec": 1421.0, "big": "62", "small": "disease states tied to obesity" },
+        { "startSec": 1421.0, "endSec": 1430.0, "big": "+60%", "small": "total cost per person" }
+      ],
       "captions": [
         { "startSec": 1411.0, "endSec": 1433.0, "text": "For obesity there are about 62 disease states associated with it, and about a 60% increase in total cost for someone who has them. So the plan is already paying for that, whether or not you turn on GLP-1 coverage for weight loss." }
       ]
@@ -107,6 +127,9 @@
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is",
       "cta": { "text": "Free Quarterly Reporting Checklist", "url": "rxbs.org/toolkit/quarterly-reporting" },
+      "overlays": [
+        { "startSec": 883.0, "endSec": 899.0, "big": "3 NUMBERS", "small": "Cost  ·  Rebates  ·  Net cost" }
+      ],
       "captions": [
         { "startSec": 878.0, "endSec": 900.0, "text": "Reporting is the last piece. Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is, so you can evaluate the full impact instead of going in blind? Without that data, it's hard to model anything." }
       ]

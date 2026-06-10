@@ -23,3 +23,8 @@ For each clip in the manifest: trims the source video to the clip's in/out, refr
 - Source = the YouTube download (compressed is fine for social; no host raw file needed).
 - This is a **starter** — render one clip first and tweak to your Remotion version (v4 API: if `OffthreadVideo` rejects `startFrom`, your version uses `trimBefore`/`trimAfter` instead).
 - Brand spec is `social_clips/remotion_pbs_caption_template_spec.md` in the content repo — keep this composition matched to it.
+
+## Stat callouts & transitions
+- **Stat callouts (built in):** add an `overlays: [{ startSec, endSec, big, small?, position? }]` array to any clip in the manifest. `startSec/endSec` are ABSOLUTE source seconds (same clock as captions). `big` is the headline stat ("1 in 12", "62", "+60%", "30%"), `small` is the label under it. The composition springs it in (scale + fade), holds, fades out, rendered Plex Mono in Accent on a Primary card. Want a new callout? Just add a row to `overlays`, no code change.
+- **Scene transitions (optional, more advanced):** `npm i @remotion/transitions`, then wrap an intro title card → the video → an outro CTA card in a `<TransitionSeries>` with `linearTiming` + a `fade()` or `slide()` presentation. Good for a branded 1s open/close; not required, the in-clip hook + CTA already cover it.
+

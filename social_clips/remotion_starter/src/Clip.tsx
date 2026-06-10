@@ -6,6 +6,7 @@ import {
   useCurrentFrame,
   useVideoConfig,
   interpolate,
+  spring,
 } from "remotion";
 // Brand fonts. npm i @remotion/google-fonts
 import { loadFont as loadSans } from "@remotion/google-fonts/IBMPlexSans";
@@ -21,6 +22,14 @@ const GRAY = "#4D4D4D";
 const WHITE = "#FFFFFF";
 
 export type Caption = { startSec: number; endSec: number; text: string };
+// Animated stat callout: a big number/term that pops on-brand when spoken.
+export type Overlay = {
+  startSec: number;
+  endSec: number;
+  big: string;            // the headline stat: "1 in 12", "62", "+60%", "30%"
+  small?: string;         // supporting label under it
+  position?: "center" | "top"; // default center
+};
 export type ClipData = {
   id: string;
   slug?: string;
@@ -31,6 +40,7 @@ export type ClipData = {
   hookTitle: string;
   showName: string;
   cta?: { text: string; url: string };
+  overlays?: Overlay[];
   captions: Caption[];
 };
 export type ClipProps = { sourceVideo: string; fps: number; clip: ClipData };
@@ -46,6 +56,7 @@ export const clipDefaultProps: ClipProps = {
     hookTitle: "On-screen hook goes here",
     showName: "Show Name",
     cta: { text: "Free toolkit", url: "rxbs.org/toolkit/pbm-compensation" },
+    overlays: [],
     captions: [],
   },
 };
@@ -103,6 +114,33 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip }) => {
           Prescription Benefit Solutions
         </div>
       </div>
+
+      {/* ===== Animated stat callouts ===== */}
+      {/* Each overlay springs in (scale + fade), holds, fades out. Plex Mono big number on Primary card with Accent text. */}
+      {(clip.overlays ?? []).map((o, i) => {
+        if (tSource < o.startSec || tSource > o.endSec) return null;
+        const localFrame = (tSource - o.startSec) * fps;
+        const durFrames = (o.endSec - o.startSec) * fps;
+        const enter = spring({ frame: localFrame, fps, config: { damping: 13, stiffness: 130, mass: 0.7 } });
+        const exit = interpolate(localFrame, [durFrames - 9, durFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+        const scale = 0.72 + enter * 0.28;
+        const opacity = Math.min(enter, exit);
+        const top = o.position === "top" ? height * 0.2 : height * 0.4;
+        return (
+          <div key={i} style={{ position: "absolute", top, left: 0, right: 0, textAlign: "center", opacity, transform: `scale(${scale})` }}>
+            <div style={{ display: "inline-block", background: PRIMARY, padding: "20px 34px", borderRadius: 18, boxShadow: "0 14px 44px rgba(0,0,0,0.45)", border: `3px solid ${ACCENT}` }}>
+              <div style={{ fontFamily: MONO, fontSize: clip.aspect === "9x16" ? 130 : 104, fontWeight: 700, color: ACCENT, lineHeight: 1, letterSpacing: "-0.02em" }}>
+                {o.big}
+              </div>
+              {o.small ? (
+                <div style={{ fontFamily: SANS, fontSize: 30, fontWeight: 600, color: WHITE, marginTop: 10 }}>
+                  {o.small}
+                </div>
+              ) : null}
+            </div>
+          </div>
+        );
+      })}
 
       {/* Burned-in captions (mandatory; safe zone above bottom ~15%). */}
       {active ? (
