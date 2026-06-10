@@ -4,86 +4,81 @@
   "date": "2026-06-09",
   "sourceVideo": "source.mp4",
   "fps": 30,
-  "_note": "Timecodes are APPROXIMATE — source transcript had no per-line timing. Run Whisper on the pulled audio (or use YouTube's timestamped transcript) and search each clip's locatorQuote to set exact inSec/outSec and regenerate word-level captions. Each clip flagged needsTimecode:true.",
+  "_note": "In/out points LOCKED from the SHRM timestamped transcript (Jun 10, 2026). Clip boundaries are accurate to the spoken line. For word-level synced caption highlighting, still run Whisper on the pulled audio; the captions[] block per clip is the verbatim text and can be re-split by Whisper. Host: Monique Akanbi. Guest: Ginny Crisp (auto-captions mis-spell as 'Jenny').",
   "clips": [
     {
       "id": "clip1",
       "slug": "spread-pricing-glp1",
-      "inSec": 780.0,
-      "outSec": 812.0,
+      "inSec": 735.0,
+      "outSec": 767.0,
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "They keep the difference",
       "showName": "Honest HR (SHRM)",
-      "needsTimecode": true,
       "locatorQuote": "PBMs are allowed to have contracts where you're not paying that pass-through amount",
       "cta": { "text": "Free channel-pricing audit worksheet", "url": "rxbs.org/toolkit/channel-pricing" },
       "captions": [
-        { "startSec": 780.0, "endSec": 812.0, "text": "PBMs are allowed to have contracts where you're not paying that pass-through amount. They could pay the pharmacy one price for that GLP-1, then invoice you a higher amount and keep the difference. That's spread pricing. And not just for GLP-1s, for everything." }
+        { "startSec": 735.0, "endSec": 767.0, "text": "PBMs are allowed to have contracts where you're not paying that pass-through amount. They could pay the pharmacy one price for that GLP-1, then turn around and invoice you a higher amount, and they keep that difference. In our industry that's called spread pricing. And not just for GLP-1s, for everything." }
       ]
     },
     {
       "id": "clip2",
       "slug": "one-in-twelve-persistence",
-      "inSec": 1560.0,
-      "outSec": 1592.0,
+      "inSec": 1631.0,
+      "outSec": 1658.0,
       "aspect": "9x16",
       "platform": "reels",
       "hookTitle": "1 in 12",
       "showName": "Honest HR (SHRM)",
-      "needsTimecode": true,
       "locatorQuote": "after three years, it's like one in 12 people are still using a GLP-1",
       "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
       "captions": [
-        { "startSec": 1560.0, "endSec": 1592.0, "text": "After three years, it's like one in 12 people are still using a GLP-1. That's not necessarily bad, if they had the weight loss and lifestyle and came off but sustained it. But if it's because they can't afford it or can't tolerate it, that's a very different situation." }
+        { "startSec": 1631.0, "endSec": 1658.0, "text": "Most of the studies have shown after three years, it's like one in 12 people are still using a GLP-1. That's not necessarily a bad thing, if they had the weight loss and lifestyle and came off the med but sustained it. But if it's because they can't afford it or can't tolerate it, that's a very different situation." }
       ]
     },
     {
       "id": "clip3",
       "slug": "rebate-clawback-lifestyle",
-      "inSec": 905.0,
-      "outSec": 938.0,
+      "inSec": 829.0,
+      "outSec": 857.0,
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "They claw it back",
       "showName": "Honest HR (SHRM)",
-      "needsTimecode": true,
       "locatorQuote": "a lot of PBMs will tell you that if you add in lifestyle requirements",
       "cta": { "text": "Free rebate report audit worksheet", "url": "rxbs.org/toolkit/rebate-report-audit" },
       "captions": [
-        { "startSec": 905.0, "endSec": 938.0, "text": "A lot of PBMs will tell you that if you add lifestyle requirements, they can't or won't do it, because it impacts their rebates and they claw those rebates back. It's very sad they won't model what actually worked, and invest in the member's long-term health." }
+        { "startSec": 829.0, "endSec": 857.0, "text": "This might be shocking since the FDA approved these drugs on that combination, but a lot of PBMs will tell you that if you add in lifestyle requirements, they can't or won't do it, because it impacts their rebates and they claw those rebates back. It's very sad they won't model what actually worked." }
       ]
     },
     {
       "id": "clip4",
       "slug": "one-in-three-switch-jobs",
-      "inSec": 1175.0,
-      "outSec": 1198.0,
+      "inSec": 1129.0,
+      "outSec": 1150.0,
       "aspect": "9x16",
       "platform": "reels",
       "hookTitle": "1 in 3 would leave",
       "showName": "Honest HR (SHRM)",
-      "needsTimecode": true,
       "locatorQuote": "about a third of employees would consider moving jobs if they could get GLP-1 coverage",
       "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
       "captions": [
-        { "startSec": 1175.0, "endSec": 1198.0, "text": "About a third of employees would consider moving jobs if they could get GLP-1 coverage. That's a huge population. It's 30%. So if I'm a leader or an owner, and I hear that, I want to keep my good people." }
+        { "startSec": 1129.0, "endSec": 1150.0, "text": "There are studies that say about a third of employees would consider moving jobs if they could get GLP-1 coverage. That's a huge population. It's 30%. So if I'm a leader or an owner of a company, and I hear that, I want to keep my good people." }
       ]
     },
     {
       "id": "clip5",
       "slug": "members-get-them-anyway",
-      "inSec": 1440.0,
-      "outSec": 1466.0,
+      "inSec": 1489.0,
+      "outSec": 1516.0,
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "They'll get them anyway",
       "showName": "Honest HR (SHRM)",
-      "needsTimecode": true,
-      "locatorQuote": "members are going to find a way to get those drugs regardless",
+      "locatorQuote": "if they are going through these direct-to-consumer programs, you as an employer lose sight of all of that",
       "cta": { "text": "Free PBM Compensation worksheet", "url": "rxbs.org/toolkit/pbm-compensation" },
       "captions": [
-        { "startSec": 1440.0, "endSec": 1466.0, "text": "Members are going to find a way to get those drugs regardless of whether you do it. So whether you cover it or not, all of this is happening. There's no way to just put your head in the sand and think this is going away." }
+        { "startSec": 1489.0, "endSec": 1516.0, "text": "If they go through these direct-to-consumer programs, you as an employer lose sight of all of it. It doesn't touch their deductible either. So whether you cover it or not, all of this is happening. There's no way to just put your head in the sand and think this is going away." }
       ]
     }
   ]

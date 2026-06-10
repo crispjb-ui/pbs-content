@@ -8,7 +8,7 @@
 - **Permission:** Ginny is the guest; clip OK confirmed. Courtesy heads-up to SHRM is fine (they explicitly invite clips/shares at the outro).
 - **Built:** 2026-06-09 (episode air date unconfirmed).
 
-> ⚠ **Timecodes are approximate.** The source transcript (SHRM site) has no per-line timing. In the video repo, run Whisper on the pulled audio (or use YouTube's timestamped transcript) and search for each clip's **locator quote** to set exact in/out, then regenerate synced word-level captions. The seconds below are rough placements only.
+> ✅ **Timecodes locked** from the SHRM timestamped transcript (Jun 10, 2026); the in/out points below are accurate to the spoken line and avoid all ad reads (Deel intro, SHRM26 mid-roll, SHRM membership spot). For word-level synced caption *highlighting* you can still run Whisper on the pulled audio, but the clip boundaries are set, ready to render.
 
 **Brand treatment (all clips):** per `social_clips/remotion_pbs_caption_template_spec.md` — PBS v2 palette (Primary Blue #015880, Accent Blue #A7E0FA), IBM Plex Sans bold burned-in captions with Accent-Blue keyword highlights, lower-third "Honest HR · SHRM" + "Ginny Crisp, PharmD · Prescription Benefit Solutions," triangle wordmark bug, Ginny centered in the reframe. Captions mandatory (autoplay is muted).
 
@@ -17,7 +17,7 @@
 ## Clip 1 — "They keep the difference" (spread pricing decoded)
 - **Shape:** Decoder + named-adversary (evergreen — applies to every drug, not just GLP-1)
 - **Aspect / platform:** 4:5 → LinkedIn (primary); also render 9:16 for Reels/Shorts/TikTok
-- **Approx in/out:** ~780–812s · **Locator quote:** "PBMs are allowed to have contracts where you're not paying that pass-through amount"
+- **In/out (locked):** 735–767s (12:15–12:47) · **Locator quote:** "PBMs are allowed to have contracts where you're not paying that pass-through amount"
 - **On-screen hook (first 3 words stop scroll):** **"They Keep the Difference"**
 - **Verbatim (caption text):**
 > PBMs are allowed to have contracts where you're not paying that pass-through amount. They could pay the pharmacy one price for that GLP-1 prescription, but turn around and invoice you a very different amount, which is higher, and they keep that difference. In our industry that's called spread pricing. And not just for GLP-1s, for everything.
@@ -54,7 +54,7 @@ Free worksheet to surface it → rxbs.org/toolkit/channel-pricing
 ## Clip 2 — "1 in 12" (persistence shock)
 - **Shape:** Shocking fact (PBS's #1 all-time GLP-1 hook)
 - **Aspect / platform:** 9:16 → Reels/Shorts/TikTok (primary); also 4:5 for LinkedIn
-- **Approx in/out:** ~1560–1592s · **Locator quote:** "after three years, it's like one in 12 people are still using a GLP-1"
+- **In/out (locked):** 1631–1658s (27:11–27:38) · **Locator quote:** "after three years, it's like one in 12 people are still using a GLP-1"
 - **On-screen hook:** **"1 in 12"**
 - **Verbatim (caption text):**
 > Most of the studies have shown after three years, it's like one in 12 people are still using a GLP-1. That's not necessarily a bad thing — if they had the weight loss and the lifestyle and were able to come off the med but sustain it. But if it's because they can't afford it or can't tolerate it, that's a very different situation.
@@ -91,7 +91,7 @@ Free GLP-1 budgeting watch list → rxbs.org/toolkit/drug-pipeline-watch
 ## Clip 3 — "They claw it back" (rebate clawback on lifestyle)
 - **Shape:** Named-adversary / hypocrisy reveal
 - **Aspect / platform:** 4:5 → LinkedIn (primary); also 9:16 for Reels/Shorts/TikTok
-- **Approx in/out:** ~905–938s · **Locator quote:** "a lot of PBMs will tell you that if you add in lifestyle requirements"
+- **In/out (locked):** 829–857s (13:49–14:17) · **Locator quote:** "a lot of PBMs will tell you that if you add in lifestyle requirements"
 - **On-screen hook:** **"They Claw It Back"**
 - **Verbatim (caption text):**
 > A lot of PBMs will tell you that if you add in lifestyle requirements, they can't or won't do it, because it impacts your rebates and they claw back those rebates. I think it's very sad that they are not wanting to model what actually was used to have that success, and really invest in the member's long-term health.
@@ -128,7 +128,7 @@ What your rebate report hides → rxbs.org/toolkit/rebate-report-audit
 ## Clip 4 — "1 in 3 would leave" (retention shock — HR-native)
 - **Shape:** Shocking stat, HR-relevant business case
 - **Aspect / platform:** 9:16 → Reels/Shorts/TikTok (primary); also 4:5 for LinkedIn
-- **Approx in/out:** ~1175–1198s · **Locator quote:** "about a third of employees would consider moving jobs if they could get GLP-1 coverage"
+- **In/out (locked):** 1129–1150s (18:49–19:10) · **Locator quote:** "about a third of employees would consider moving jobs if they could get GLP-1 coverage"
 - **On-screen hook:** **"1 in 3 Would Leave"**
 - **Verbatim (caption text):**
 > There are studies that have come out to say that about a third of employees would consider moving jobs if they could get GLP-1 coverage. That's a huge population. It's 30%. So if I'm a leader or an owner of a company, and I hear that, I want to keep my good people.
@@ -165,7 +165,7 @@ Free GLP-1 budgeting watch list → rxbs.org/toolkit/drug-pipeline-watch
 ## Clip 5 — "They'll get them anyway" (head-in-the-sand reframe)
 - **Shape:** Sharp reframe / close
 - **Aspect / platform:** 4:5 → LinkedIn (primary); also 9:16 for Reels/Shorts/TikTok
-- **Approx in/out:** ~1440–1466s · **Locator quote:** "members are going to find a way to get those drugs regardless"
+- **In/out (locked):** 1489–1516s (24:49–25:16) · **Locator quote:** "if they are going through these direct-to-consumer programs, you as an employer lose sight of all of that"
 - **On-screen hook:** **"They'll Get Them Anyway"**
 - **Verbatim (caption text):**
 > Members are going to find a way to get those drugs regardless of whether you do it. So whether you cover it or not, all of these things are happening. I don't think there's a way to just put your head in the sand and think this is all going away.
