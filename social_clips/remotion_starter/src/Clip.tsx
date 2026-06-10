@@ -41,7 +41,7 @@ export type ClipData = {
   words?: Word[]; // optional; if present, captions render karaoke (active word in Accent)
   captions: Caption[];
 };
-export type ClipProps = { sourceVideo: string; fps: number; clip: ClipData };
+export type ClipProps = { sourceVideo: string; fps: number; clip: ClipData; coverMode?: boolean };
 
 export const clipDefaultProps: ClipProps = {
   sourceVideo: "source.mp4",
@@ -54,11 +54,27 @@ export const clipDefaultProps: ClipProps = {
   },
 };
 
-export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip }) => {
+export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode }) => {
   const frame = useCurrentFrame();
   const { width, height } = useVideoConfig();
   const tSource = clip.inSec + frame / fps;
   const totalFrames = Math.round((clip.outSec - clip.inSec) * fps);
+
+  // ===== COVER MODE: render a single still as the feed thumbnail (hook + face + brand, no captions/UI). =====
+  if (coverMode) {
+    return (
+      <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
+        <OffthreadVideo src={staticFile(sourceVideo)} startFrom={Math.round(clip.inSec * fps)} style={{ width, height, objectFit: "cover" }} />
+        <AbsoluteFill style={{ background: "linear-gradient(180deg, rgba(1,88,128,0.12), rgba(0,0,0,0.66))" }} />
+        <div style={{ position: "absolute", top: 30, left: 30, color: WHITE, fontWeight: 700, letterSpacing: 1, fontSize: 30 }}>▲ PBS</div>
+        <div style={{ position: "absolute", top: 30, right: 30, background: PRIMARY, color: WHITE, padding: "8px 14px", borderRadius: 6, fontSize: 24, fontWeight: 600 }}>As seen on {clip.showName}</div>
+        <div style={{ position: "absolute", bottom: height * 0.16, left: 56, right: 56, textAlign: "center" }}>
+          <span style={{ fontSize: clip.aspect === "9x16" ? 96 : 82, fontWeight: 700, color: WHITE, lineHeight: 1.05, background: PRIMARY, boxShadow: `0 0 0 18px ${PRIMARY}`, boxDecorationBreak: "clone", WebkitBoxDecorationBreak: "clone" }}>{clip.hookTitle}</span>
+        </div>
+        <div style={{ position: "absolute", bottom: 44, left: 0, right: 0, textAlign: "center", color: WHITE, fontSize: 28, fontWeight: 600 }}>Ginny Crisp, PharmD · Prescription Benefit Solutions</div>
+      </AbsoluteFill>
+    );
+  }
 
   const active = clip.captions.find((c) => tSource >= c.startSec && tSource <= c.endSec);
   // Karaoke words within the active phrase (only if words[] supplied via Whisper).
