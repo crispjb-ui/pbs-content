@@ -199,6 +199,82 @@ The full picture of PBM compensation → rxbs.org/toolkit/pbm-compensation
 
 ---
 
+## Clip 6 — "62 diseases. You already pay." (obesity cost reframe)
+- **Shape:** Shocking fact + reframe
+- **Aspect / platform:** 9:16 → Reels/Shorts/TikTok (primary); also 4:5 LinkedIn
+- **In/out (locked):** 1411–1433s (23:31–23:53) · **Locator quote:** "there's about 62 disease states associated with obesity"
+- **On-screen hook:** **"62 Diseases. You Already Pay."**
+- **Verbatim (caption text):**
+> For obesity there are about 62 disease states associated with it, and about a 60% increase in total cost for someone who has them. So the plan is already paying for that, whether or not you turn on GLP-1 coverage for weight loss.
+
+**LinkedIn copy:**
+```
+Your plan is already paying for obesity.
+
+There are ~62 disease states tied to obesity, and roughly 60% higher total cost for someone who has them. That spend is already on your plan, whether or not you ever turn on GLP-1 coverage for weight loss.
+
+So the real question isn't "can we afford to cover it?" It's what you're already paying not to. From SHRM's Honest HR podcast.
+
+#GLP1 #EmployeeBenefits #SelfFundedEmployers
+```
+_First comment:_
+```
+Budgeting GLP-1s and obesity-related spend for 2026-2027? The free Drug Pipeline Watch List maps the categories → rxbs.org/toolkit/drug-pipeline-watch
+```
+**X copy:**
+```
+Your plan is already paying for obesity.
+
+~62 disease states tied to it, ~60% higher cost for someone who has them, already on your plan whether or not you cover GLP-1s for weight loss.
+
+The question isn't "can we afford to cover it?" It's what you pay not to.
+
+@SHRM Honest HR.
+```
+_First reply:_
+```
+Free GLP-1 budgeting watch list → rxbs.org/toolkit/drug-pipeline-watch
+```
+
+---
+
+## Clip 7 — "Demand these 3 numbers" (reporting transparency)
+- **Shape:** Actionable decoder (plan-sponsor-actionable)
+- **Aspect / platform:** 4:5 → LinkedIn (primary); also 9:16 for Reels
+- **In/out (locked):** 878–900s (14:38–15:00) · **Locator quote:** "Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is"
+- **On-screen hook:** **"Demand These 3 Numbers"**
+- **Verbatim (caption text):**
+> Reporting is the last piece. Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is, so you can evaluate the full impact instead of going in blind? Without that data, it's hard to model anything.
+
+**LinkedIn copy:**
+```
+Ask your PBM for three numbers: your cost, your rebates, your net cost.
+
+If they won't give you direct access to all three, you're modeling your pharmacy spend blind, and that's usually by design. You can't manage what they won't show you.
+
+If you ask and can't get clear answers, that's your answer. From SHRM's Honest HR podcast.
+
+#PBMTransparency #EmployeeBenefits #PharmacyBenefits
+```
+_First comment:_
+```
+The 15 lines a complete PBM quarterly report should contain, free checklist → rxbs.org/toolkit/quarterly-reporting
+```
+**X copy:**
+```
+Ask your PBM for three numbers: your cost, your rebates, your net cost.
+
+Won't give you direct access to all three? You're modeling pharmacy spend blind, usually by design. If you ask and can't get clear answers, that's your answer.
+
+@SHRM Honest HR.
+```
+_First reply:_
+```
+15 lines your quarterly report should contain → rxbs.org/toolkit/quarterly-reporting
+```
+
+---
+
 ## Render
 In the video repo: pull audio for `BZyuiWCY-08`, run Whisper for word-level timing, set each clip's exact in/out via the locator quotes, then `node render-from-manifest.mjs honest-hr-shrm_2026-06-09_clips.json` against `social_clips/remotion_starter/`.
 

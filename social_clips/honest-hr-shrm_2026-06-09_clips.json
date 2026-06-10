@@ -80,6 +80,36 @@
       "captions": [
         { "startSec": 1489.0, "endSec": 1516.0, "text": "If they go through these direct-to-consumer programs, you as an employer lose sight of all of it. It doesn't touch their deductible either. So whether you cover it or not, all of this is happening. There's no way to just put your head in the sand and think this is going away." }
       ]
+    },
+    {
+      "id": "clip6",
+      "slug": "obesity-62-diseases-already-paying",
+      "inSec": 1411.0,
+      "outSec": 1433.0,
+      "aspect": "9x16",
+      "platform": "reels",
+      "hookTitle": "62 diseases. You already pay.",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "there's about 62 disease states associated with obesity",
+      "cta": { "text": "Free Drug Pipeline Watch List", "url": "rxbs.org/toolkit/drug-pipeline-watch" },
+      "captions": [
+        { "startSec": 1411.0, "endSec": 1433.0, "text": "For obesity there are about 62 disease states associated with it, and about a 60% increase in total cost for someone who has them. So the plan is already paying for that, whether or not you turn on GLP-1 coverage for weight loss." }
+      ]
+    },
+    {
+      "id": "clip7",
+      "slug": "three-reporting-numbers",
+      "inSec": 878.0,
+      "outSec": 900.0,
+      "aspect": "4x5",
+      "platform": "linkedin",
+      "hookTitle": "Demand these 3 numbers",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is",
+      "cta": { "text": "Free Quarterly Reporting Checklist", "url": "rxbs.org/toolkit/quarterly-reporting" },
+      "captions": [
+        { "startSec": 878.0, "endSec": 900.0, "text": "Reporting is the last piece. Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is, so you can evaluate the full impact instead of going in blind? Without that data, it's hard to model anything." }
+      ]
     }
   ]
 }
