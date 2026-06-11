@@ -305,7 +305,7 @@ Document the notice deadline working backward from the date you want the amendme
 
 Use the decoded vocabulary from this morning's LinkedIn post. The amendment letter should reference: the specific contract clause being amended, the trigger condition that is being invoked, the proposed new language, the notice period being initiated, and the dispute resolution clause that applies if the PBM declines.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the amendment window is rarely used by plan sponsors. Most plans wait until renewal and absorb the H1 finding for two more quarters. The amendment window costs nothing to invoke and forces the PBM into a documented response — which is itself the most valuable record you can bring to renewal six months later.
+The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the amendment window is rarely used by plan sponsors. Most plans wait until renewal and absorb the H1 finding for two more quarters. The amendment window costs nothing to invoke and forces the PBM into a documented response, which is itself the most valuable record you can bring to renewal six months later.
 
 **What to do this quarter**
 
