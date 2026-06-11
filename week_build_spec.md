@@ -77,6 +77,7 @@ Check `wendell_potter_cascade_alignment.md`, `wendell_potter_contributorship_str
 - [ ] "Terms used" glossary callout present if PBM technical terms appear; terms pulled from `_glossary_terms.md`.
 - [ ] `PART 1C` Toolkit Pairings + Wix Build section present with dataset row + checklist + pairing rationale.
 - [ ] **Live toolkit link in body (W25 forward, library is fully live):** the Monday deep dive body and the Thursday Field Note body each include the live `rxbs.org/toolkit/<slug>` link where the integrated tool / handout is referenced (in addition to the embedded PDF). First comments route to the toolkit landing page. Confirm each page renders before shipping. (Slugs in `email_gated_toolkit/toolkit_dataset.md`.)
+- [ ] **Toolkit tease after the intro (deep dive):** a short tease right after the opening promises the end-of-article tool (names what the reader walks away with) to pull them through to the bottom. NO link in the tease (a top link pulls readers out); the link + embedded PDF live at the tool near the end.
 
 ## 8. Channel conventions
 - [ ] LinkedIn newsletter: Title Options (3) + Publish Post Copy + First Comment subsections present (PART 2).

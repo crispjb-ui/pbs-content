@@ -45,6 +45,7 @@ _Publish order, top to bottom. The **Where** column jumps to the content. ⚠ = 
 ## <Deep dive title>
 > GATE: story-driven open, thesis early, integrated tool, 5–6 bold headers, SEO subtitle.
 > TOOLKIT LINK (W25 forward, library fully live): where the integrated tool is referenced, include the live `rxbs.org/toolkit/<slug>` link in-body (plus the embedded PDF). Confirm the page renders.
+> TOOLKIT TEASE: right after the intro, a short tease promising the end-of-article tool (what the reader walks away with) to drive scroll-through. NO link in the tease; link + PDF live at the tool near the end.
 ### Article Body
 <…>
 ### In-Article Visual: <name>
