@@ -898,11 +898,14 @@ Handwritten red felt-pen annotations with realistic ink bleed, natural imperfect
 hand, faint smudge:
 - a bold red hand-drawn circle around Thursday, June 18 on the JUNE grid (left
   page), "TODAY - H1 REVIEW" written beside it;
-- a long red arrow that starts at the June 18 circle, sweeps down the left page
-  past July and August, crosses the center spine, and lands on a second bold
-  red circle around Thursday, October 1 on the OCTOBER grid (right page);
-- along the arrow over the July/August stretch, in smaller red hand:
-  "match findings to clauses over the summer";
+- a single direct red arrow from the June 18 circle to the October 1 circle:
+  one smooth, shallow arc drawn in one confident motion, crossing the center
+  spine and landing on a second bold red circle around Thursday, October 1 on
+  the OCTOBER grid (right page). The arrow does NOT weave, zigzag, loop, or
+  detour down through the July and August grids — one clean stroke, the way a
+  real person draws an arrow between two dates;
+- "match findings to clauses over the summer" written in smaller red hand just
+  below the arrow's midpoint, near the center spine;
 - beneath the October 1 circle, written large: "90-DAY NOTICE CLOSES", with a
   smaller second line "letter out by here";
 - a red hand-drawn bracket spanning the OCTOBER, NOVEMBER, and DECEMBER grids
