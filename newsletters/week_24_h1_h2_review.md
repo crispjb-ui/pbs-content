@@ -870,25 +870,33 @@ Save this for next quarter's H1 review.
 
 The visual is the WINDOW + the 3-step process (matches the Field Note's "three steps, one clause, ninety days"); the post copy above carries the 5-clause depth. Generate the photoreal scene, then add the two-tone headline as a Canva overlay (generators botch clean headline type).
 
+**Date anchoring (verified June 11, 2026 — do not drift):** "TODAY" circles **Thursday, June 18** (the publish date, not the drafting date). The deadline circles **Friday, July 3**: the last notice date that yields an October 1 (Q4) effective amendment under a 90-day notice clause, so "miss this and the renewal inherits the finding" is literally true. Do NOT circle a late-August date (an Aug notice back-calculates to nothing: it is ~127 days before the Jan 1 renewal and 90 days before Nov 25, which is no quarter boundary). The fallback window, notice by ~Oct 1 for a Jan 1 effective date, lands on renewal day itself and lives in the post copy and the toolkit's notice-deadline calculator, not in this image.
+
 ```
 A photorealistic, top-down editorial photograph of a real desk wall-calendar /
 planner spread, 1080 x 1350 px (4:5 vertical). Shot on a full-frame DSLR, 50mm
-lens at f/2.8, shallow depth of field with the focus plane on the circled date
+lens at f/2.8, shallow depth of field with the focus plane on the circled dates
 and the sticky notes; the desk edges fall gently out of focus. Soft directional
 morning window light from the upper left, natural soft shadows, subtle warm
 color temperature.
 
 The calendar shows a mid-year three-month spread, JUNE / JULY / AUGUST, printed
 in clean Plex Mono Medium month headers on matte paper with visible grain and a
-faint center fold crease. A red felt-tip pen rests diagonally across the
-lower-right, casting a soft real shadow, its tip slightly inked.
+faint center fold crease. Use the real 2026 grids, columns MON through SUN:
+June 1 falls on a Monday, July 1 on a Wednesday, August 1 on a Saturday, so
+June 18 sits in the Thursday column and July 3 sits in the Friday column. A red
+felt-tip pen rests diagonally across the lower-right, casting a soft real
+shadow, its tip slightly inked.
 
 Handwritten red felt-pen annotations with realistic ink bleed, natural imperfect
 hand, faint smudge:
-- a bold red hand-drawn circle around a late-August date, "90-DAY NOTICE CLOSES"
-  written beneath it;
-- a red arrow sweeping from a January "RENEWAL" box back to the circled date,
-  "amend BEFORE this or wait a full year" along it;
+- a bold red hand-drawn circle around Thursday, June 18 on the JUNE grid,
+  "TODAY - H1 REVIEW" written beside it;
+- a second bold red circle around Friday, July 3 on the JULY grid,
+  "90-DAY NOTICE CLOSES" written large beneath it, with a smaller second line
+  "for an Oct 1 effective date";
+- a red arrow sweeping from the June 18 circle down to the July 3 circle,
+  "amend BEFORE this or the renewal writes your terms" along it;
 - a smaller red aside in the margin: "(your PBM won't remind you)".
 
 Three real yellow Post-it notes down the right margin, each lightly curled at a
@@ -901,11 +909,13 @@ hand-printed on each in dark ballpoint, large and legible:
 For authenticity, allow a pair of reading glasses softly out of focus at the
 top-left edge and the faint ring of a coffee mug at a corner, both blurred so
 they never compete with the center. Warm wooden desk surface with fine grain.
+The AUGUST grid stays clean and unannotated, reinforcing that the window has
+already closed by then.
 
 Realism cues: true-to-life paper texture, ink that sits on the fiber, real cast
 shadows, natural light falloff, no flat vector look anywhere. The only saturated
 colors are the red pen marks. Keep printed fine print minimal so the three
-sticky-note steps and the red-circled date dominate the center ~70% of the
+sticky-note steps and the two red-circled dates dominate the center ~70% of the
 frame and read clearly at thumbnail size (~400px wide).
 ```
 
