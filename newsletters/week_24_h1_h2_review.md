@@ -25,16 +25,16 @@
 | Tue Jun 16 | 7:00 PM | X (Twitter) | question post [A9] | [ ] |
 | Tue Jun 16 | 8:30 PM | X (Twitter) | one question [B1] | [ ] |
 | Wed Jun 17 | 8:00 AM | X (Twitter) | named-adversary / rebate incentive | [ ] |
-| Wed Jun 17 | 8:30 AM | LinkedIn Feed | Post 86 - "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." Tease Hook (TEXT) | [ ] |
+| Wed Jun 17 | 8:30 AM | LinkedIn Feed | Post 86 - "Demand These 3 Numbers" SHRM Honest HR clip7 VIDEO (4:5 native; reporting / net cost) | [ ] |
 | Wed Jun 17 | 12:00 PM | X (Twitter) | decoder (effective rate guarantee) | [ ] |
 | Wed Jun 17 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
 | Wed Jun 17 | 5:00 PM | X (Twitter) | stat-shock / structural | [ ] |
 | Wed Jun 17 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
 | Wed Jun 17 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
-| Thu Jun 18 | 7:30 AM | Substack | Field Note: "Five Numbers That Determine Your Renewal Leverage" | [ ] |
+| Thu Jun 18 | 7:30 AM | Substack | Field Note: "Auditing Your Mid-Year Contract Amendment Window" | [ ] |
 | Thu Jun 18 | 8:00 AM | X (Twitter) | named-adversary / formulary exclusion (protects the 8:30 AM Thursday reveal) | [ ] |
-| Thu Jun 18 | 8:30 AM | LinkedIn Feed | Post 87 - Same diagnosis. Same drug. Different member out-of-pocket. (Carousel, Slot B evergreen rotation) | [ ] |
-| Thu Jun 18 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel]` | [ ] |
+| Thu Jun 18 | 8:30 AM | LinkedIn Feed | Post 87 - "Your Mid-Year Amendment Window" Annotated Calendar messy infographic (Thursday Excellence; pairs with the amendment Field Note + Contract Amendment Letter toolkit) | [ ] |
+| Thu Jun 18 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn post) `[VISUAL: "Mid-Year Amendment Window" annotated-calendar infographic]` | [ ] |
 | Thu Jun 18 | 1:30 PM | LinkedIn Company | Company Reshare of Post 87 | [ ] |
 | Thu Jun 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jun 18 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
@@ -688,35 +688,42 @@ Ginny Crisp walks through the redline that converts each.
 ---
 
 ## Post 86 - Wednesday 8:30 AM
-### "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." (Strong POV Text)
+### "Demand These 3 Numbers" — SHRM "Honest HR" clip (clip7) · VIDEO
 
-**Format:** Text Post (Strong POV)
-**Pillar:** Self-Funded Employer Guidance
-**Word Count:** ~250 words
+**Format:** Video (SHRM "Honest HR" podcast clip7, "Demand these 3 numbers"), 4:5 native LinkedIn upload with a custom thumbnail. Asset: `social_clips/honest-hr-shrm_2026-06-09_clips` clip7. Also cross-post the 9:16 to Reels/Shorts/TikTok.
+**Pillar:** PBM Contract Insights (reporting / net-cost transparency)
+**Why this slot:** the Wednesday slot was already teasing the reporting/H1-numbers theme; the SHRM clip delivers it as video (stronger scroll-stop than text), tests the video format off the Thursday breakout day, and routes to the Quarterly Reporting Checklist. Topic is adjacent to Monday's H1 review (reviewing results) but distinct (demanding reporting access), so it holds under the adjacency ceiling.
+**Note:** the prior self-filmed "Your PBM Already Knows Your H1 Numbers" text + video-script version is preserved below as the ALTERNATE if the SHRM clip is not used this week.
 
-> **NOTE - PERFORMANCE OPTIMIZATION:** Reframed from aspirational to confrontational information asymmetry. Expanded from 140 to ~250 words for dwell time optimization. Hook lands before 210-character "See More" cutoff.
-
-#### Post Copy
+#### Post Copy (SHRM clip7 video)
 
 ```
-Your PBM has already run your H1 numbers. They know your trend. They know your rebate position. They know where your guarantees fell short.
+Your PBM already knows your H1 numbers.
+You probably don't.
 
-They are using that information right now to prepare their renewal strategy.
+Three numbers decide whether you can actually manage your pharmacy spend:
+what the drug cost, what your rebates were, and what your net cost is.
 
-You probably have not looked at any of it yet.
+Ask your PBM for direct access to all three. Watch what happens.
 
-That information asymmetry is how employers end up accepting terms instead of negotiating them. The PBM walks into renewal prepared. The employer walks in reacting. Same data, same plan, completely different positions at the table.
+Without that data you're modeling blind. You can know how many members are on
+a drug and still have no idea what it's truly costing your plan, which means
+you can't evaluate a single decision in front of you at renewal.
 
-I watch this pattern every year. The PBM presents renewal terms in September or October. The employer sees a comprehensive analysis of their data for the first time. The PBM has had months to prepare scenarios, model concessions, and determine which terms they can move on and which they will not. The employer has had days.
+We review hundreds of PBM contracts a year at PBS, and the reporting clause is
+where the leverage quietly lives. "Access to your own data" should be a right
+written into the contract, not a favor you ask for each quarter.
 
-Five numbers tell the story of your first half: PMPM trend, specialty as a percentage of total spend, generic effective rate, rebate per claim, and high-cost claimant count. Those five metrics, compared against both your own prior year and market benchmarks, give you a clear picture of what your renewal will look like.
+You're halfway through the plan year. This is the moment to demand the numbers,
+while there's still time to act on them.
 
-The window between H1 close and renewal season is where your negotiating position gets built or lost. Every week without your own analysis is another week the PBM's preparation advantage grows.
+The checklist that pins down all three is in the comments. A good broker will
+help you send the ask.
 
-June is not early. June is late.
-
-The best brokers and consultants are already pulling this data with their clients. If your advisory team has not started the H1 review, bring it up this week. This is the conversation that defines your renewal.
+#SelfFundedEmployers #PBMContracts #PharmacyBenefits
 ```
+
+_ALTERNATE (self-filmed text/video version, use only if the SHRM clip is not run):_
 
 #### VIDEO SCRIPT OPTION (45 seconds, filmed on phone)
 
@@ -769,15 +776,15 @@ June is not early. June is late.
 #### First Comment
 
 ```
-This week's Benefit Blind Spots deep dive on H1 review and H2 preview is the operational follow-on: the H1 benchmark dashboard with 5 metrics and the renewal readiness scorecard. [SUBSTACK MONDAY DEEP DIVE URL]
+The free Quarterly Reporting Checklist: 15 line items your PBM's report should contain, plus a paste-ready request to send your broker, so you get cost, rebates, and net cost in writing → rxbs.org/toolkit/quarterly-reporting
 ```
 
 ---
 
 ## Post 87 - Thursday 8:30 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article.**
-> **This Thursday slot is now filled by: Same diagnosis. Same drug. Different member out-of-pocket. (Slot B of the evergreen rotation).**
+> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article. DO NOT SHIP.**
+> **The live Thursday post is "The Mid-Year Amendment Window" Annotated Calendar (photoreal), in the Thursday Excellence Slot section below. (The earlier "Same diagnosis / out-of-pocket" Slot B carousel was also displaced; it lives in `evergreen_visual_backlog.md` as concept #26.)**
 
 ### H1 Metrics Dashboard - What to Measure Now (Carousel) [REPURPOSED — DO NOT SHIP TO LINKEDIN]
 
@@ -850,11 +857,11 @@ This post is REPURPOSED into the Monday Substack deep dive. The live Thursday Li
 
 ---
 
-### Thursday Excellence Slot - 5 Contract Amendment Terms Decoded — Marked-Up Contract Page Messy Infographic
+### Thursday Excellence Slot - The Mid-Year Amendment Window — Annotated Calendar (photoreal)
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence (7+ trait standard) — Cost Containment pillar averages 3.2K impressions vs. PBM Contract Insights decoder floor of 20-25K, and Same OOP carousel did not pair with the Field Note. Replaced with Thursday Excellence Slot 5 Contract Amendment Terms Decoded messy infographic that pairs exclusively with the W24 Field Note "Auditing Your Mid-Year Contract Amendment Window." Original Same OOP carousel content preserved in `evergreen_visual_backlog.md` as concept #26 for a future Cost Containment Thursday on a non-benefit-design Monday.
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence (7+ trait standard) — Cost Containment pillar averages 3.2K impressions vs. PBM Contract Insights decoder floor of 20-25K, and Same OOP carousel did not pair with the Field Note. Replaced with the Thursday Excellence Slot "Mid-Year Amendment Window" Annotated Calendar (photoreal) infographic that pairs exclusively with the W24 Field Note "Auditing Your Mid-Year Contract Amendment Window" (visual changed from a Marked-Up Contract Page to an annotated calendar to avoid contract-format repetition with Tuesday's Library 03 carousel; same amendment topic + post copy + Contract Amendment Letter toolkit). Original Same OOP carousel content preserved in `evergreen_visual_backlog.md` as concept #26 for a future Cost Containment Thursday on a non-benefit-design Monday.
 
-**Format:** Single messy infographic, Marked-Up Contract Page aesthetic (paper-card photoreal). 1080 x 1350 px.
+**Format:** Single photoreal infographic, Annotated Calendar aesthetic (real desk wall-calendar, handwritten red-pen annotations + sticky notes; NOT a contract page, to break the contract-format repetition with Tuesday's Library 03 carousel). 1080 x 1350 px. Image prompt below.
 **Pillar:** PBM Contract Insights (highest-converting decoder pillar; W18 Channel Pricing 17K precedent)
 **Field Note pairing:** Same-day Substack Field Note "Auditing Your Mid-Year Contract Amendment Window."
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Contract Amendment Letter Template" — `templates/documents/week_24_thursday_contract_amendment_letter.html/.pdf` (paste-ready amendment letter referencing the five decoded clauses + notice deadline calculator).
@@ -886,6 +893,51 @@ Save this for next quarter's H1 review.
 
 #PBMContracts #ContractAmendment #SelfFundedEmployers
 ```
+
+#### Image Prompt (Annotated Calendar, photoreal)
+
+The visual is the WINDOW + the 3-step process (matches the Field Note's "three steps, one clause, ninety days"); the post copy above carries the 5-clause depth. Generate the photoreal scene, then add the two-tone headline as a Canva overlay (generators botch clean headline type).
+
+```
+A photorealistic, top-down editorial photograph of a real desk wall-calendar /
+planner spread, 1080 x 1350 px (4:5 vertical). Shot on a full-frame DSLR, 50mm
+lens at f/2.8, shallow depth of field with the focus plane on the circled date
+and the sticky notes; the desk edges fall gently out of focus. Soft directional
+morning window light from the upper left, natural soft shadows, subtle warm
+color temperature.
+
+The calendar shows a mid-year three-month spread, JUNE / JULY / AUGUST, printed
+in clean Plex Mono Medium month headers on matte paper with visible grain and a
+faint center fold crease. A red felt-tip pen rests diagonally across the
+lower-right, casting a soft real shadow, its tip slightly inked.
+
+Handwritten red felt-pen annotations with realistic ink bleed, natural imperfect
+hand, faint smudge:
+- a bold red hand-drawn circle around a late-August date, "90-DAY NOTICE CLOSES"
+  written beneath it;
+- a red arrow sweeping from a January "RENEWAL" box back to the circled date,
+  "amend BEFORE this or wait a full year" along it;
+- a smaller red aside in the margin: "(your PBM won't remind you)".
+
+Three real yellow Post-it notes down the right margin, each lightly curled at a
+corner with a soft adhesive shadow and slight paper translucency, one step
+hand-printed on each in dark ballpoint, large and legible:
+  1. "Pull your H1 findings"
+  2. "Match each to its clause"
+  3. "Send the amendment letter"
+
+For authenticity, allow a pair of reading glasses softly out of focus at the
+top-left edge and the faint ring of a coffee mug at a corner, both blurred so
+they never compete with the center. Warm wooden desk surface with fine grain.
+
+Realism cues: true-to-life paper texture, ink that sits on the fiber, real cast
+shadows, natural light falloff, no flat vector look anywhere. The only saturated
+colors are the red pen marks. Keep printed fine print minimal so the three
+sticky-note steps and the red-circled date dominate the center ~70% of the
+frame and read clearly at thumbnail size (~400px wide).
+```
+
+**Canva headline overlay (added after generation):** "Your Mid-Year" (Primary Blue #015880) + "Amendment Window." (Accent Blue #A7E0FA) Plex Sans SemiBold, subline "90 days to turn an H1 finding into a contract change." (Gray #4D4D4D), on a semi-opaque white band across the top ~22%.
 
 #### First Comment
 
