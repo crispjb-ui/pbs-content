@@ -76,6 +76,7 @@ Check `wendell_potter_cascade_alignment.md`, `wendell_potter_contributorship_str
 - [ ] **Bleed gate (required, Jun 9 2026):** `.page` CSS has `height:11in` and NO `overflow:hidden`; `python3 templates/documents/_audit_pdfs.py` reports **0 flagged** (page count, footer present each page, no body-over-footer overlap). A toolkit is not done until this passes.
 - [ ] "Terms used" glossary callout present if PBM technical terms appear; terms pulled from `_glossary_terms.md`.
 - [ ] `PART 1C` Toolkit Pairings + Wix Build section present with dataset row + checklist + pairing rationale.
+- [ ] **Live toolkit link in body (W25 forward, library is fully live):** the Monday deep dive body and the Thursday Field Note body each include the live `rxbs.org/toolkit/<slug>` link where the integrated tool / handout is referenced (in addition to the embedded PDF). First comments route to the toolkit landing page. Confirm each page renders before shipping. (Slugs in `email_gated_toolkit/toolkit_dataset.md`.)
 
 ## 8. Channel conventions
 - [ ] LinkedIn newsletter: Title Options (3) + Publish Post Copy + First Comment subsections present (PART 2).

@@ -44,6 +44,7 @@ _Publish order, top to bottom. The **Where** column jumps to the content. ⚠ = 
 # PART 1: SUBSTACK ARTICLE
 ## <Deep dive title>
 > GATE: story-driven open, thesis early, integrated tool, 5–6 bold headers, SEO subtitle.
+> TOOLKIT LINK (W25 forward, library fully live): where the integrated tool is referenced, include the live `rxbs.org/toolkit/<slug>` link in-body (plus the embedded PDF). Confirm the page renders.
 ### Article Body
 <…>
 ### In-Article Visual: <name>
@@ -55,6 +56,7 @@ _Publish order, top to bottom. The **Where** column jumps to the content. ⚠ = 
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 ## <Field Note title — exclusively supports the Thursday LinkedIn concept>
+> TOOLKIT LINK (W25 forward): include the live `rxbs.org/toolkit/<slug>` link in-body where the handout is referenced (plus embedded PDF).
 ### Field Note Body
 ### Field Note Meta
 ### Field Note Header Image Prompt  (White bg, "FIELD NOTE" badge)

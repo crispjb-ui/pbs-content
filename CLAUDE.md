@@ -634,9 +634,14 @@ These approaches were tried and confirmed not viable for this Wix tier/form vers
 2. **Switch Zapier delays from 1-minute test values to production**: Day 0 (no delay), Delay 2 days between Email 1→2, Delay 3 days between Email 2→3, Delay 4 days between Email 3→4, Delay 5 days between Email 4→5.
 3. **Publish the Zap** (top-right Publish button — currently in Draft). Until published, Zapier won't run on live form submissions.
 
-### Recommended landing-page-promotion gate
+### Landing-page promotion (UPDATED Jun 2026 — library fully live)
 
-The Channel Pricing landing page should remain de-promoted in ads, sig lines, and LinkedIn first comments **until the three cleanup items above are complete and one final end-to-end test on the production delay schedule confirms all 5 emails deliver at the right intervals**. Substack and LinkedIn first-comment cross-promo continues to route to Substack posts (which work) rather than the toolkit landing page until then.
+**The full toolkit library is live on the website**: every toolkit landing page renders at `rxbs.org/toolkit/<slug>`. The earlier "de-promote until funnel cleanup" gate is **lifted**. From **Week 25 forward**:
+- Place the **live toolkit landing-page link** (`rxbs.org/toolkit/<slug>`) directly in the **Monday deep dive body** and the **Thursday Field Note body**, at the point the integrated tool / handout is referenced (in addition to the embedded PDF, not instead of it).
+- LinkedIn and X **first comments route to the toolkit landing page** (not only the Substack post).
+- Always confirm the page renders at `rxbs.org/toolkit/<slug>` before using its link.
+
+Earlier weeks (W24 and before) keep their existing routing unless retrofitted. The `<slug>` for any toolkit is in `email_gated_toolkit/toolkit_dataset.md`.
 
 ### Tier 1 toolkit rollout (queued behind cleanup)
 
