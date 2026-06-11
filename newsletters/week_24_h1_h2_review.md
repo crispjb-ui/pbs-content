@@ -33,8 +33,8 @@
 | Wed Jun 17 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
 | Thu Jun 18 | 7:30 AM | Substack | Field Note: "Auditing Your Mid-Year Contract Amendment Window" | [ ] |
 | Thu Jun 18 | 8:00 AM | X (Twitter) | named-adversary / formulary exclusion (protects the 8:30 AM Thursday reveal) | [ ] |
-| Thu Jun 18 | 8:30 AM | LinkedIn Feed | Post 87 - "Your Mid-Year Amendment Window" Annotated Calendar messy infographic (Thursday Excellence; pairs with the amendment Field Note + Contract Amendment Letter toolkit) | [ ] |
-| Thu Jun 18 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn post) `[VISUAL: "Mid-Year Amendment Window" annotated-calendar infographic]` | [ ] |
+| Thu Jun 18 | 8:30 AM | LinkedIn Feed | Post 87 - "The Mid-Year Amendment Window" Whiteboard Vertical Timeline messy infographic (Thursday Excellence; pairs with the amendment Field Note + Contract Amendment Letter toolkit) | [ ] |
+| Thu Jun 18 | 12:00 PM | X (Twitter) | Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn post) `[VISUAL: "Mid-Year Amendment Window" whiteboard-timeline infographic]` | [ ] |
 | Thu Jun 18 | 1:30 PM | LinkedIn Company | Company Reshare of Post 87 | [ ] |
 | Thu Jun 18 | 5:00 PM | X (Twitter) | punchy | [ ] |
 | Thu Jun 18 | Evening | Substack Notes | Note #3 - Engagement question | [ ] |
@@ -829,11 +829,11 @@ The free Quarterly Reporting Checklist: 15 line items your PBM's report should c
 
 ---
 
-### Thursday Excellence Slot: The Mid-Year Amendment Window (Annotated Calendar, photoreal)
+### Thursday Excellence Slot: The Mid-Year Amendment Window (Whiteboard Vertical Timeline, photoreal)
 
 > **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence (7+ trait standard). Cost Containment pillar averages 3.2K impressions vs. PBM Contract Insights decoder floor of 20-25K, and the Same OOP carousel did not pair with the Field Note. Replaced with the Thursday Excellence Slot "Mid-Year Amendment Window" Annotated Calendar (photoreal) infographic that pairs exclusively with the W24 Field Note "Auditing Your Mid-Year Contract Amendment Window" (visual changed from a Marked-Up Contract Page to an annotated calendar to avoid contract-format repetition with Tuesday's Library 03 carousel; same amendment topic + post copy + Contract Amendment Letter toolkit). Original Same OOP carousel content preserved in `evergreen_visual_backlog.md` as concept #26 for a future Cost Containment Thursday on a non-benefit-design Monday.
 
-**Format:** Single photoreal infographic, Annotated Calendar aesthetic (real desk wall-calendar, handwritten red-pen annotations + sticky notes; NOT a contract page, to break the contract-format repetition with Tuesday's Library 03 carousel). 1080 x 1350 px. Image prompt below.
+**Format:** Single photoreal infographic, Whiteboard Vertical Timeline (Chart-on-Whiteboard messy infographic, in active rotation; NOT a contract page, to break the contract-format repetition with Tuesday's Library 03 carousel; NOT the paused Whiteboard carousel format). Headline and rxbs.org footer are written in-scene on the board in marker — no Canva headline band needed; only the small PBS logo is added in Canva after generation. 1080 x 1350 px. Image prompt below; two-calendar-page desk composition preserved as ALTERNATE.
 **Pillar:** PBM Contract Insights (highest-converting decoder pillar; W18 Channel Pricing 17K precedent)
 **Field Note pairing:** Same-day Substack Field Note "Auditing Your Mid-Year Contract Amendment Window."
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Contract Amendment Letter Template" — `templates/documents/week_24_thursday_contract_amendment_letter.html/.pdf` (paste-ready amendment letter referencing the five decoded clauses + notice deadline calculator).
@@ -872,70 +872,112 @@ The visual is the WINDOW + the 3-step process (matches the Field Note's "three s
 
 **Date anchoring (revised June 11, 2026 — do not drift):** "TODAY" circles **Thursday, June 18** (the publish date, not the drafting date). The deadline circles **Thursday, October 1**: the working last-notice date for a **January 1 effective date** under a 90-day notice clause (literal 90-day count back from Jan 1 is Oct 3, a Saturday; Oct 1 is the round, weekday, month-count-safe anchor with two days of buffer). This is the realistic arc — H1 review in June, clause-matching over the summer, letter out by Oct 1, amendment live at plan-year start — not the two-week June-to-July sprint an earlier draft implied, and not a late-August date (which back-calculates to nothing). The aggressive early option (notice by ~July 3 for an Oct 1 Q4 effective date) stays in the post copy and the toolkit's notice-deadline calculator, not in this image.
 
+**Composition rethink (June 11, 2026):** the first build of this visual was a two-page planner spread with all seven months June–December. It generated accurately but failed the mobile-feed legibility rule: seven grids in a 4:5 frame (further reduced by the Canva header band) shrank the red annotations below feed-readable size. **Primary composition is now a whiteboard vertical timeline** (Chart-on-Whiteboard messy infographic — the single-image template still in active rotation; the PAUSED format is the Whiteboard *carousel*, which this is not). Why whiteboard wins: a vertical timeline is 4:5-native; marker writing sized for a conference room is the largest type class available, so it survives the ~400px feed thumbnail; and eliminating calendar grids eliminates the weekday-alignment failure mode that plagued generation. The story at feed size is: TODAY node → summer bracket → OCT 1 deadline → JAN 1 go-live box → three sticky-note steps. The two-calendar-page desk composition is preserved below as the ALTERNATE if the whiteboard reads too corporate in preview.
+
 ```
-A photorealistic, top-down editorial photograph of a real open desk planner
-notebook lying flat, showing a two-page spread, 1080 x 1350 px (4:5 vertical).
-Shot on a full-frame DSLR, 50mm lens at f/2.8, shallow depth of field with the
-focus plane on the two red-circled dates and the sticky notes; the desk edges
-fall gently out of focus. Soft directional morning window light from the upper
-left, natural soft shadows, subtle warm color temperature.
+A photorealistic photograph of a large office whiteboard, shot nearly
+straight on with a very slight natural angle, 1080 x 1350 px (4:5
+vertical). The whiteboard fills the frame edge to edge; a silver marker
+tray along the bottom holds a black dry-erase marker and an uncapped red
+one. Natural office window light from the left, soft sheen on the board
+surface kept away from the writing.
 
-LEFT PAGE: three month grids stacked vertically, JUNE / JULY / AUGUST 2026.
-RIGHT PAGE: four month grids stacked vertically, slightly smaller, SEPTEMBER /
-OCTOBER / NOVEMBER / DECEMBER 2026. Month names as small clean Plex Mono Medium
-headers above each grid; NO large printed title across the top of the pages.
-The printed grids are small, light gray, and unobtrusive so they read as paper
-texture; the handwritten red annotations and the sticky notes carry the story.
-Matte paper with visible grain and a soft center spine shadow between the two
-pages. Use the real 2026 weekday alignment, columns MON through SUN: June 1
-falls on a Monday, July 1 on a Wednesday, August 1 on a Saturday, September 1
-on a Tuesday, October 1 on a Thursday, November 1 on a Sunday, December 1 on a
-Tuesday. June 18 sits in the Thursday column and October 1 sits in the Thursday
-column. A red felt-tip pen rests diagonally across the lower-left corner,
-casting a soft real shadow, its tip slightly inked.
+Across the top of the board, the headline written in big confident BLUE
+dry-erase marker (deep navy-blue, like #015880), underlined once:
+"THE MID-YEAR AMENDMENT WINDOW"
+and beneath it, smaller in black marker:
+"90 days: H1 finding → contract change"
 
-Handwritten red felt-pen annotations with realistic ink bleed, natural imperfect
-hand, faint smudge:
-- a bold red hand-drawn circle around Thursday, June 18 on the JUNE grid (left
-  page), "TODAY - H1 REVIEW" written beside it;
-- a single direct red arrow from the June 18 circle to the October 1 circle:
-  one smooth, shallow arc drawn in one confident motion, crossing the center
-  spine and landing on a second bold red circle around Thursday, October 1 on
-  the OCTOBER grid (right page). The arrow does NOT weave, zigzag, loop, or
-  detour down through the July and August grids — one clean stroke, the way a
-  real person draws an arrow between two dates;
-- "match findings to clauses over the summer" written in smaller red hand just
-  below the arrow's midpoint, near the center spine;
-- beneath the October 1 circle, written large: "90-DAY NOTICE CLOSES", with a
-  smaller second line "letter out by here";
-- a red hand-drawn bracket spanning the OCTOBER, NOVEMBER, and DECEMBER grids
-  down the right edge, labeled "the 90 days run here";
-- at the bottom of the right page, below December, a hand-drawn red box with
-  "JAN 1 - AMENDMENT GOES LIVE" and a small arrow pointing off the page edge;
-- a smaller red aside in the left-page margin: "(your PBM won't remind you)".
+Hand-drawn below the headline in dry-erase marker, big confident strokes
+sized to be read across a conference room — a VERTICAL TIMELINE running
+from upper board to lower board:
 
-Three real yellow Post-it notes placed along the timeline so the steps map to
-the months, each lightly curled at a corner with a soft adhesive shadow and
-slight paper translucency, one step hand-printed on each in dark ballpoint,
-large and legible:
-  1. "Pull your H1 findings" - left margin beside JUNE;
-  2. "Match each to its clause" - left margin beside JULY/AUGUST;
-  3. "Send the letter - by OCT 1" - right margin beside SEPTEMBER/OCTOBER.
+- at the top of the timeline, a large red circle around "JUN 18" with
+  "TODAY - H1 REVIEW" written beside it in black;
+- a thick black vertical timeline stroke connecting downward, with a red
+  bracket along its left side labeled "summer: match findings to clauses"
+  in red;
+- at mid-board, a large red circle around "OCT 1" with "90-DAY NOTICE
+  CLOSES" written very large in red beside it, and "letter out by here"
+  smaller in black underneath;
+- the timeline continues down through three short red tick marks with
+  "the 90 days run here" written small in red alongside;
+- at the bottom of the timeline, a red box, double-underlined:
+  "JAN 1 - AMENDMENT GOES LIVE";
+- in the lower-left corner of the board, small red handwriting:
+  "(your PBM won't remind you)";
+- in the lower-right corner of the board, small neat black marker:
+  "rxbs.org".
 
-For authenticity, allow a pair of reading glasses softly out of focus at the
-top-left edge and the faint ring of a coffee mug at a corner, both blurred so
-they never compete with the center. Warm wooden desk surface with fine grain.
-The NOVEMBER and DECEMBER grids stay otherwise clean and unannotated: the
-letter is in the PBM's hands and the clock is running.
+Three real yellow sticky notes stuck to the right side of the board, top
+to bottom beside their timeline stages, each lightly curled at a corner
+with a true cast shadow, hand-printed in dark ballpoint, large and
+legible:
+  "1. Pull your H1 findings"
+  "2. Match each to its clause"
+  "3. Send the letter - by OCT 1"
 
-Realism cues: true-to-life paper texture, ink that sits on the fiber, real cast
-shadows, natural light falloff, no flat vector look anywhere. The only saturated
-colors are the red pen marks. Keep the printed grid numbers small and faint so
-the three sticky-note steps, the two red-circled dates, and the JAN 1 box
-dominate the composition and read clearly at thumbnail size (~400px wide).
+Realism cues: dry-erase strokes with pressure variation and faint eraser
+ghosting, real marker sheen under the window light, slight hand-drawn
+wobble in the timeline stroke. The only colors are blue, black, and red
+marker, yellow sticky notes, and the white board. The headline, the
+timeline, the two circled dates, the JAN 1 box, and the three sticky
+notes are the entire story; nothing else is written on the board.
+Everything must read clearly at ~400px feed width.
 ```
 
-**Canva headline overlay (added after generation):** "Your Mid-Year" (Primary Blue #015880) + "Amendment Window." (Accent Blue #A7E0FA) Plex Sans SemiBold, subline "90 days to turn an H1 finding into a contract change." (Gray #4D4D4D), on a semi-opaque white band across the top ~22%.
+**ALTERNATE composition (two-calendar-page desk photoreal, use if the whiteboard reads too corporate):**
+
+```
+A photorealistic, top-down editorial photograph of a warm wooden desk,
+1080 x 1350 px (4:5 vertical). Two loose paper monthly calendar pages lie
+side by side, nearly filling the frame: JUNE 2026 on the left, OCTOBER 2026
+on the right, with a narrow strip of desk visible between them. Each page is
+a single LARGE month grid in clean Plex Mono type on slightly off-white
+matte paper with visible grain and soft real shadows. The grids are big:
+month-name headers and date numbers printed larger than a typical calendar
+so they stay readable when the image is viewed small on a phone. Columns
+MON through SUN, real 2026 alignment: June 1 falls on a Monday, so June 18
+sits in the Thursday column; October 1 sits in the Thursday column. NO
+printed title across the top of the image.
+
+Handwritten red felt-pen annotations, realistic ink bleed, natural imperfect
+hand — written LARGE, as if meant to be seen from across a room:
+- a bold red circle around Thursday, June 18 on the JUNE page, with
+  "TODAY - H1 REVIEW" written big beside it;
+- ONE single smooth red arrow drawn in one confident stroke from the June 18
+  circle across the gap to a bold red circle around Thursday, October 1 on
+  the OCTOBER page — no zigzags, no loops, no detours;
+- beneath the October 1 circle, written very large: "90-DAY NOTICE CLOSES",
+  with a smaller second line "letter out by here";
+- at the bottom of the OCTOBER page, a hand-drawn red box: "JAN 1 -
+  AMENDMENT GOES LIVE" with a short arrow pointing off the page edge;
+- a small red aside on the desk near the lower-left: "(your PBM won't
+  remind you)".
+
+Three real yellow Post-it notes, large and readable, each lightly curled at
+a corner with a soft adhesive shadow, hand-printed in dark ballpoint, placed
+as a left-to-right sequence across the composition:
+  "1. Pull your H1 findings" on the lower area of the JUNE page;
+  "2. Match each to its clause" in the gap between the two pages;
+  "3. Send the letter - by OCT 1" on the right edge of the OCTOBER page.
+
+Props kept to the edges and out of focus so they never compete: reading
+glasses at the top-left, the faint ring of a coffee mug at the top-right, an
+uncapped red felt-tip pen lying diagonally across the bottom. Soft
+directional morning window light from the upper left, shallow depth of
+field with the focus plane locked on the two circled dates and the sticky
+notes.
+
+Realism cues: true-to-life paper texture, ink that sits on the fiber, real
+cast shadows, natural light falloff, no flat vector look anywhere. The only
+saturated colors are the red pen marks and the yellow notes. This image
+must read at a glance at ~400px feed width: the two red-circled dates, the
+single arrow, "90-DAY NOTICE CLOSES", the JAN 1 box, and the three sticky
+notes are the entire story — keep everything else quiet.
+```
+
+**Canva step (primary whiteboard version):** small PBS logo only — the headline and rxbs.org footer are written in-scene on the board. **Canva headline overlay (ALTERNATE calendar version only):** "Your Mid-Year" (Primary Blue #015880) + "Amendment Window." (Accent Blue #A7E0FA) Plex Sans SemiBold, subline "90 days to turn an H1 finding into a contract change." (Gray #4D4D4D), on a semi-opaque white band across the top ~22%.
 
 #### First Comment
 
