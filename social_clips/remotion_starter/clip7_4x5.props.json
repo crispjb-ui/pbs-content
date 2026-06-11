@@ -1,0 +1,351 @@
+{
+  "sourceVideo": "seg_clip7.mp4",
+  "fps": 30,
+  "clip": {
+    "id": "clip7",
+    "slug": "three-reporting-numbers",
+    "inSec": 5.2,
+    "outSec": 23.9,
+    "aspect": "4x5",
+    "platform": "linkedin",
+    "hookTitle": "Cost. Rebates. Net cost.",
+    "hookLine2": "Your PBM won't show you all three.",
+    "hookAccent": "Net cost",
+    "showName": "Honest HR (SHRM)",
+    "tagline": "We audit hundreds of PBM contracts a year.",
+    "ctaLine": "Free Quarterly Reporting Checklist → link in comments",
+    "cta": {
+      "text": "Quarterly Reporting Checklist",
+      "url": "rxbs.org/toolkit/quarterly-reporting"
+    },
+    "cutaways": [
+      {
+        "type": "stat",
+        "startSec": 8.6,
+        "endSec": 13.0,
+        "stat": {
+          "title": "Ask your PBM for",
+          "lines": [
+            {
+              "pre": "What the drug",
+              "key": "COST"
+            },
+            {
+              "pre": "What your",
+              "key": "REBATES",
+              "post": "were"
+            },
+            {
+              "pre": "Your",
+              "key": "NET COST"
+            }
+          ],
+          "callout": "the one that decides everything",
+          "rowFrames": [
+            8,
+            42,
+            74
+          ],
+          "snapFrame": 82
+        }
+      },
+      {
+        "type": "image",
+        "startSec": 18.0,
+        "endSec": 20.0,
+        "src": "week_21_quarterly_reporting_checklist_preview.png",
+        "imageTitle": "Quarterly Reporting Checklist",
+        "imageSubtitle": "Free → link in comments"
+      }
+    ],
+    "captions": [
+      {
+        "startSec": 5.28,
+        "endSec": 6.64,
+        "text": "Are they willing to give you"
+      },
+      {
+        "startSec": 6.64,
+        "endSec": 9.5,
+        "text": "direct access to what the cost was,"
+      },
+      {
+        "startSec": 9.5,
+        "endSec": 10.64,
+        "text": "what your rebates were,"
+      },
+      {
+        "startSec": 10.76,
+        "endSec": 11.8,
+        "text": "what your net cost is,"
+      },
+      {
+        "startSec": 11.8,
+        "endSec": 13.7,
+        "text": "so that you can really evaluate"
+      },
+      {
+        "startSec": 13.7,
+        "endSec": 15.72,
+        "text": "the full impact"
+      },
+      {
+        "startSec": 15.72,
+        "endSec": 17.18,
+        "text": "without going in blind."
+      },
+      {
+        "startSec": 17.24,
+        "endSec": 18.0,
+        "text": "Because without that data,"
+      },
+      {
+        "startSec": 18.32,
+        "endSec": 19.4,
+        "text": "it's really hard to"
+      },
+      {
+        "startSec": 19.4,
+        "endSec": 21.36,
+        "text": "really model anything, right?"
+      }
+    ],
+    "words": [
+      {
+        "startSec": 5.28,
+        "endSec": 5.34,
+        "text": "Are"
+      },
+      {
+        "startSec": 5.34,
+        "endSec": 5.52,
+        "text": "they"
+      },
+      {
+        "startSec": 5.52,
+        "endSec": 5.78,
+        "text": "willing"
+      },
+      {
+        "startSec": 5.78,
+        "endSec": 6.02,
+        "text": "to"
+      },
+      {
+        "startSec": 6.02,
+        "endSec": 6.24,
+        "text": "give"
+      },
+      {
+        "startSec": 6.24,
+        "endSec": 6.64,
+        "text": "you"
+      },
+      {
+        "startSec": 6.64,
+        "endSec": 7.28,
+        "text": "direct"
+      },
+      {
+        "startSec": 7.28,
+        "endSec": 7.86,
+        "text": "access"
+      },
+      {
+        "startSec": 7.86,
+        "endSec": 8.28,
+        "text": "to"
+      },
+      {
+        "startSec": 8.28,
+        "endSec": 8.74,
+        "text": "what"
+      },
+      {
+        "startSec": 8.74,
+        "endSec": 8.86,
+        "text": "the"
+      },
+      {
+        "startSec": 8.86,
+        "endSec": 9.12,
+        "text": "cost"
+      },
+      {
+        "startSec": 9.12,
+        "endSec": 9.5,
+        "text": "was,"
+      },
+      {
+        "startSec": 9.5,
+        "endSec": 9.82,
+        "text": "what"
+      },
+      {
+        "startSec": 9.82,
+        "endSec": 9.98,
+        "text": "your"
+      },
+      {
+        "startSec": 9.98,
+        "endSec": 10.42,
+        "text": "rebates"
+      },
+      {
+        "startSec": 10.42,
+        "endSec": 10.64,
+        "text": "were,"
+      },
+      {
+        "startSec": 10.76,
+        "endSec": 10.88,
+        "text": "what"
+      },
+      {
+        "startSec": 10.88,
+        "endSec": 11.06,
+        "text": "your"
+      },
+      {
+        "startSec": 11.06,
+        "endSec": 11.22,
+        "text": "net"
+      },
+      {
+        "startSec": 11.22,
+        "endSec": 11.52,
+        "text": "cost"
+      },
+      {
+        "startSec": 11.52,
+        "endSec": 11.8,
+        "text": "is,"
+      },
+      {
+        "startSec": 11.8,
+        "endSec": 12.06,
+        "text": "so"
+      },
+      {
+        "startSec": 12.06,
+        "endSec": 12.28,
+        "text": "that"
+      },
+      {
+        "startSec": 12.28,
+        "endSec": 12.8,
+        "text": "you"
+      },
+      {
+        "startSec": 12.8,
+        "endSec": 12.98,
+        "text": "can"
+      },
+      {
+        "startSec": 12.98,
+        "endSec": 13.3,
+        "text": "really"
+      },
+      {
+        "startSec": 13.3,
+        "endSec": 13.7,
+        "text": "evaluate"
+      },
+      {
+        "startSec": 13.7,
+        "endSec": 14.66,
+        "text": "the"
+      },
+      {
+        "startSec": 14.66,
+        "endSec": 15.2,
+        "text": "full"
+      },
+      {
+        "startSec": 15.2,
+        "endSec": 15.72,
+        "text": "impact"
+      },
+      {
+        "startSec": 15.72,
+        "endSec": 16.08,
+        "text": "without"
+      },
+      {
+        "startSec": 16.08,
+        "endSec": 16.52,
+        "text": "going"
+      },
+      {
+        "startSec": 16.52,
+        "endSec": 16.68,
+        "text": "in"
+      },
+      {
+        "startSec": 16.68,
+        "endSec": 17.18,
+        "text": "blind."
+      },
+      {
+        "startSec": 17.24,
+        "endSec": 17.28,
+        "text": "Because"
+      },
+      {
+        "startSec": 17.28,
+        "endSec": 17.46,
+        "text": "without"
+      },
+      {
+        "startSec": 17.46,
+        "endSec": 17.74,
+        "text": "that"
+      },
+      {
+        "startSec": 17.74,
+        "endSec": 18.0,
+        "text": "data,"
+      },
+      {
+        "startSec": 18.32,
+        "endSec": 18.44,
+        "text": "it's"
+      },
+      {
+        "startSec": 18.44,
+        "endSec": 18.82,
+        "text": "really"
+      },
+      {
+        "startSec": 18.82,
+        "endSec": 19.16,
+        "text": "hard"
+      },
+      {
+        "startSec": 19.16,
+        "endSec": 19.4,
+        "text": "to"
+      },
+      {
+        "startSec": 19.4,
+        "endSec": 20.16,
+        "text": "really"
+      },
+      {
+        "startSec": 20.16,
+        "endSec": 20.48,
+        "text": "model"
+      },
+      {
+        "startSec": 20.48,
+        "endSec": 20.88,
+        "text": "anything,"
+      },
+      {
+        "startSec": 21.24,
+        "endSec": 21.36,
+        "text": "right?"
+      }
+    ]
+  }
+}

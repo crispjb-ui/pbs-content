@@ -43,6 +43,26 @@ const highlightDollars = (text: string): React.ReactNode => {
   });
 };
 
+// Highlight dollars AND an optional accent phrase (e.g. "Net cost") in accent blue.
+const highlightHook = (text: string, accent?: string): React.ReactNode => {
+  if (accent) {
+    const idx = text.toLowerCase().indexOf(accent.toLowerCase());
+    if (idx >= 0) {
+      const before = text.slice(0, idx);
+      const match = text.slice(idx, idx + accent.length);
+      const after = text.slice(idx + accent.length);
+      return (
+        <>
+          {highlightDollars(before)}
+          <span style={{ color: ACCENT }}>{match}</span>
+          {highlightDollars(after)}
+        </>
+      );
+    }
+  }
+  return highlightDollars(text);
+};
+
 // ── Types ──
 export type Caption = { startSec: number; endSec: number; text: string };
 export type Word = { startSec: number; endSec: number; text: string };
@@ -58,7 +78,13 @@ export type Cutaway = {
   startSec: number; endSec: number;
   type: "equation" | "image" | "stat";
   equation?: { totalNum: number; totalLabel: string; segA: string; segANum: number; segALabel: string; segB: string; segBNum: number; segBLabel: string; note?: string };
-  stat?: { lines: { value: string; label: string; highlight?: boolean }[] };
+  stat?: {
+    title?: string;
+    lines: { pre: string; key: string; post?: string }[];
+    callout?: string;
+    rowFrames?: number[];
+    snapFrame?: number;
+  };
   src?: string;
   imageTitle?: string;
   imageSubtitle?: string;
@@ -68,7 +94,7 @@ export type ClipData = {
   inSec: number; outSec: number;
   aspect: "9x16" | "4x5";
   platform?: string;
-  hookTitle: string; hookLine2?: string;
+  hookTitle: string; hookLine2?: string; hookAccent?: string;
   showName: string;
   cta?: { text: string; url: string };
   ctaLine?: string;
@@ -177,6 +203,65 @@ const ImageCutaway: React.FC<{
   );
 };
 
+// ── Animated Three-Number Stat Cutaway (rows reveal one at a time) ──
+const StatCutaway: React.FC<{
+  cut: Cutaway; localFrame: number; durFrames: number; fps: number; width: number; height: number;
+}> = ({ cut, localFrame, durFrames, fps }) => {
+  const st = cut.stat!;
+
+  const transIn = spring({ frame: localFrame, fps, config: { damping: 12, stiffness: 140 } });
+  const transOut = interpolate(localFrame, [durFrames - 10, durFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const envelope = Math.min(transIn, transOut);
+  const envScale = interpolate(transIn, [0, 1], [0.92, 1]);
+  const envScaleOut = interpolate(localFrame, [durFrames - 10, durFrames], [1, 0.92], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+
+  const titleSpring = spring({ frame: localFrame, fps, config: { damping: 14, stiffness: 100 } });
+  const rowFrames = st.rowFrames ?? [8, 42, 74];
+  const snapFrame = st.snapFrame ?? rowFrames[rowFrames.length - 1] + 8;
+  const calloutOp = interpolate(localFrame, [snapFrame + 4, snapFrame + 16], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+
+  return (
+    <AbsoluteFill style={{ backgroundColor: PRIMARY, opacity: envelope, transform: `scale(${Math.min(envScale, envScaleOut)})`, zIndex: 20 }}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: "0 56px" }}>
+        <div style={{ opacity: titleSpring, transform: `translateY(${(1 - titleSpring) * -24}px)`, marginBottom: 34, fontFamily: SANS, fontSize: 30, fontWeight: 600, color: WHITE, letterSpacing: 3, textTransform: "uppercase" }}>
+          {st.title ?? "Ask your PBM for"}
+        </div>
+        {st.lines.map((ln, i) => {
+          const rs = spring({ frame: Math.max(0, localFrame - (rowFrames[i] ?? rowFrames[rowFrames.length - 1])), fps, config: { damping: 13, stiffness: 150 } });
+          const isLast = i === st.lines.length - 1;
+          const snapped = isLast && localFrame >= snapFrame;
+          const snapSpring = spring({ frame: Math.max(0, localFrame - snapFrame), fps, config: { damping: 10, stiffness: 200, mass: 0.6 } });
+          const snapScale = snapped ? interpolate(snapSpring, [0, 0.5, 1], [1.0, 1.13, 1.0]) : 1;
+          const glow = snapped ? interpolate(localFrame, [snapFrame, snapFrame + 4, snapFrame + 14], [0, 28, 13], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 0;
+          const cardBg = snapped ? ACCENT : WHITE;
+          return (
+            <div key={i} style={{
+              opacity: rs,
+              transform: `translateX(${(1 - rs) * -44}px) scale(${snapScale})`,
+              width: "100%", maxWidth: 780,
+              display: "flex", alignItems: "center", gap: 22,
+              background: cardBg, borderRadius: 16, padding: "20px 28px", marginBottom: 18,
+              boxShadow: glow > 0 ? `0 0 ${glow}px ${ACCENT}, 0 10px 30px rgba(0,0,0,0.25)` : "0 10px 30px rgba(0,0,0,0.22)",
+            }}>
+              <div style={{ flex: "0 0 auto", width: 56, height: 56, borderRadius: 12, background: PRIMARY, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: MONO, fontSize: 30, fontWeight: 700, color: WHITE }}>{i + 1}</div>
+              <div style={{ fontFamily: SANS, fontSize: 31, fontWeight: 500, color: PRIMARY, lineHeight: 1.15 }}>
+                {ln.pre}{" "}
+                <span style={{ fontWeight: 700, fontSize: 35 }}>{ln.key}</span>
+                {ln.post ? <span>{" " + ln.post}</span> : null}
+              </div>
+            </div>
+          );
+        })}
+        {st.callout && (
+          <div style={{ opacity: calloutOp, transform: `translateY(${(1 - calloutOp) * 10}px)`, marginTop: 8, fontFamily: SANS, fontSize: 25, fontWeight: 700, color: ACCENT }}>
+            {"↑ " + st.callout}
+          </div>
+        )}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
 // ── Duplicate-word filter (e.g. "GLP-1s one" → "GLP-1s") ──
 const dedupeWords = (words: Word[]): Word[] => {
   const out: Word[] = [];
@@ -232,6 +317,9 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const inEndCard = frame >= totalFrames - endFrames;
   const zoom = interpolate(frame, [0, totalFrames - endFrames], [1.0, 1.06], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
 
+  // ── Full-screen cutaway active? (suppresses captions AND name plate) ──
+  const cutawayActive = (clip.cutaways ?? []).some((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
+
   // ── Hook ──
   const hookOp = interpolate(frame, [hookDurFrames - 12, hookDurFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
   const showBadge = frame > hookDurFrames;
@@ -243,16 +331,13 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const plateFlyIn = spring({ frame: Math.max(0, frame - plateInFrame), fps, config: { damping: 14, stiffness: 100 } });
   const plateFlyOut = spring({ frame: Math.max(0, frame - plateOutFrame), fps, config: { damping: 14, stiffness: 100 } });
   const plateX = frame < plateInFrame ? -120 : frame >= plateOutFrame ? interpolate(plateFlyOut, [0, 1], [0, -120]) : interpolate(plateFlyIn, [0, 1], [-120, 0]);
-  const plateVisible = frame >= plateInFrame && plateX > -119;
+  const plateVisible = frame >= plateInFrame && plateX > -119 && !cutawayActive;
 
   // ── End card ──
   const endLocalFrame = Math.max(0, frame - (totalFrames - endFrames));
   const endFadeIn = interpolate(endLocalFrame, [0, 8], [0, 1], { extrapolateRight: "clamp" });
   const tagline = clip.tagline || "We audit hundreds of PBM contracts a year.";
   const ctaLine = clip.ctaLine || (clip.cta ? `Free ${clip.cta.text.replace(/^Free /i, "")} \u2192 link in comments` : "");
-
-  // ── Check if any cutaway is active (suppress captions during full-screen cutaways) ──
-  const cutawayActive = (clip.cutaways ?? []).some((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
@@ -303,11 +388,11 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                 boxShadow: "0 12px 40px rgba(0,0,0,0.5)",
               }}>
                 <div style={{ fontFamily: SANS, fontSize: clip.aspect === "4x5" ? 56 : 64, fontWeight: 700, color: WHITE, lineHeight: 1.15 }}>
-                  {highlightDollars(clip.hookTitle)}
+                  {highlightHook(clip.hookTitle, clip.hookAccent)}
                 </div>
                 {clip.hookLine2 && (
                   <div style={{ fontFamily: SANS, fontSize: clip.aspect === "4x5" ? 58 : 66, fontWeight: 700, color: WHITE, lineHeight: 1.15, marginTop: 8 }}>
-                    {highlightDollars(clip.hookLine2)}
+                    {highlightHook(clip.hookLine2, clip.hookAccent)}
                   </div>
                 )}
               </div>
@@ -324,6 +409,9 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
             }
             if (cut.type === "image" && cut.src) {
               return <ImageCutaway key={`cut-${i}`} cut={cut} localFrame={lf} durFrames={dur} fps={fps} width={width} height={height} />;
+            }
+            if (cut.type === "stat" && cut.stat) {
+              return <StatCutaway key={`cut-${i}`} cut={cut} localFrame={lf} durFrames={dur} fps={fps} width={width} height={height} />;
             }
             return null;
           })}

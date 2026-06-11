@@ -2,6 +2,7 @@ import React from "react";
 import { Composition, Still } from "remotion";
 import { Clip, clipDefaultProps } from "./Clip";
 import { DesignedCover } from "./DesignedCover";
+import { DesignedCoverClip7 } from "./DesignedCoverClip7";
 
 const FPS = 30;
 
@@ -28,6 +29,8 @@ export const RemotionRoot: React.FC = () => {
       <Still id="Cover9x16" component={Clip} width={1080} height={1920} defaultProps={coverProps} />
       {/* Designed cover (no video dependency) */}
       <Still id="DesignedCover4x5" component={DesignedCover} width={1080} height={1350} />
+      {/* clip7 designed cover — "Demand these 3 numbers" */}
+      <Still id="Clip7Cover4x5" component={DesignedCoverClip7} width={1080} height={1350} />
     </>
   );
 };
