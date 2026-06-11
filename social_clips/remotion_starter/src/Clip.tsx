@@ -97,6 +97,7 @@ export type ClipData = {
   platform?: string;
   hookTitle: string; hookLine2?: string; hookAccent?: string;
   showName: string;
+  audioFade?: { startSec: number; endSec: number };
   cta?: { text: string; url: string };
   ctaLine?: string;
   tagline?: string;
@@ -354,12 +355,19 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const tagline = clip.tagline || "We audit hundreds of PBM contracts a year.";
   const ctaLine = clip.ctaLine || (clip.cta ? `Free ${clip.cta.text.replace(/^Free /i, "")} \u2192 link in comments` : "");
 
+  // \u2500\u2500 Optional audio tail fade (e.g. duck a trailing half-sentence under the end card) \u2500\u2500
+  // startSec/endSec are in the same source-time scale as captions/cutaways; the volume
+  // callback frame is the composition frame, so convert via (sec - inSec) * fps.
+  const fadeStartFrame = clip.audioFade ? (clip.audioFade.startSec - clip.inSec) * fps : 0;
+  const fadeEndFrame = clip.audioFade ? (clip.audioFade.endSec - clip.inSec) * fps : 0;
+
   return (
     <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
       {/* ── Footage (always rendered for audio continuity) ── */}
       <OffthreadVideo
         src={staticFile(sourceVideo)}
         startFrom={Math.round(clip.inSec * fps)}
+        volume={clip.audioFade ? (f) => interpolate(f, [fadeStartFrame, fadeEndFrame], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : undefined}
         style={{ width, height, objectFit: "cover", transform: `scale(${zoom})`, opacity: inEndCard ? 0 : 1 }}
       />
 

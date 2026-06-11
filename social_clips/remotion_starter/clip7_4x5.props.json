@@ -12,6 +12,10 @@
     "hookLine2": "Your PBM won't show you all three.",
     "hookAccent": "Net cost",
     "showName": "Honest HR (SHRM)",
+    "audioFade": {
+      "startSec": 21.4,
+      "endSec": 21.9
+    },
     "tagline": "We audit hundreds of PBM contracts a year.",
     "ctaLine": "Free Quarterly Reporting Checklist → link in comments",
     "cta": {
