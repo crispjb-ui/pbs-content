@@ -851,7 +851,7 @@ Five clauses to know:
 
 1. **Amendment Trigger Language.** Names which conditions allow either party to request an amendment mid-term: performance guarantee misses, regulatory changes, formulary changes, materiality thresholds. Read it before the next H1 review.
 
-2. **Notice Period.** 30, 60, or 90 days written notice before an amendment becomes effective. Mid-June is the 90-day window for Q4 effective. Late September is the window for Q1 next year. Calculate the deadline working backward.
+2. **Notice Period.** 30, 60, or 90 days written notice before an amendment becomes effective. Under a 90-day clause, notice by October 1 is the last clean shot at a January 1 effective date. Move faster (notice by early July) and the amendment can be live for Q4. Calculate the deadline working backward.
 
 3. **Materiality Threshold.** Some contracts require the proposed amendment to exceed a defined dollar or percentage threshold before the process is even available. Map this against your H1 finding before drafting the ask.
 
@@ -870,53 +870,66 @@ Save this for next quarter's H1 review.
 
 The visual is the WINDOW + the 3-step process (matches the Field Note's "three steps, one clause, ninety days"); the post copy above carries the 5-clause depth. Generate the photoreal scene, then add the two-tone headline as a Canva overlay (generators botch clean headline type).
 
-**Date anchoring (verified June 11, 2026 — do not drift):** "TODAY" circles **Thursday, June 18** (the publish date, not the drafting date). The deadline circles **Friday, July 3**: the last notice date that yields an October 1 (Q4) effective amendment under a 90-day notice clause, so "miss this and the renewal inherits the finding" is literally true. Do NOT circle a late-August date (an Aug notice back-calculates to nothing: it is ~127 days before the Jan 1 renewal and 90 days before Nov 25, which is no quarter boundary). The fallback window, notice by ~Oct 1 for a Jan 1 effective date, lands on renewal day itself and lives in the post copy and the toolkit's notice-deadline calculator, not in this image.
+**Date anchoring (revised June 11, 2026 — do not drift):** "TODAY" circles **Thursday, June 18** (the publish date, not the drafting date). The deadline circles **Thursday, October 1**: the working last-notice date for a **January 1 effective date** under a 90-day notice clause (literal 90-day count back from Jan 1 is Oct 3, a Saturday; Oct 1 is the round, weekday, month-count-safe anchor with two days of buffer). This is the realistic arc — H1 review in June, clause-matching over the summer, letter out by Oct 1, amendment live at plan-year start — not the two-week June-to-July sprint an earlier draft implied, and not a late-August date (which back-calculates to nothing). The aggressive early option (notice by ~July 3 for an Oct 1 Q4 effective date) stays in the post copy and the toolkit's notice-deadline calculator, not in this image.
 
 ```
-A photorealistic, top-down editorial photograph of a real desk wall-calendar /
-planner spread, 1080 x 1350 px (4:5 vertical). Shot on a full-frame DSLR, 50mm
-lens at f/2.8, shallow depth of field with the focus plane on the circled dates
-and the sticky notes; the desk edges fall gently out of focus. Soft directional
-morning window light from the upper left, natural soft shadows, subtle warm
-color temperature.
+A photorealistic, top-down editorial photograph of a real open desk planner
+notebook lying flat, showing a two-page spread, 1080 x 1350 px (4:5 vertical).
+Shot on a full-frame DSLR, 50mm lens at f/2.8, shallow depth of field with the
+focus plane on the two red-circled dates and the sticky notes; the desk edges
+fall gently out of focus. Soft directional morning window light from the upper
+left, natural soft shadows, subtle warm color temperature.
 
-The calendar shows a mid-year three-month spread, JUNE / JULY / AUGUST, printed
-in clean Plex Mono Medium month headers on matte paper with visible grain and a
-faint center fold crease. Use the real 2026 grids, columns MON through SUN:
-June 1 falls on a Monday, July 1 on a Wednesday, August 1 on a Saturday, so
-June 18 sits in the Thursday column and July 3 sits in the Friday column. A red
-felt-tip pen rests diagonally across the lower-right, casting a soft real
-shadow, its tip slightly inked.
+LEFT PAGE: three month grids stacked vertically, JUNE / JULY / AUGUST 2026.
+RIGHT PAGE: four month grids stacked vertically, slightly smaller, SEPTEMBER /
+OCTOBER / NOVEMBER / DECEMBER 2026. Month names as small clean Plex Mono Medium
+headers above each grid; NO large printed title across the top of the pages.
+The printed grids are small, light gray, and unobtrusive so they read as paper
+texture; the handwritten red annotations and the sticky notes carry the story.
+Matte paper with visible grain and a soft center spine shadow between the two
+pages. Use the real 2026 weekday alignment, columns MON through SUN: June 1
+falls on a Monday, July 1 on a Wednesday, August 1 on a Saturday, September 1
+on a Tuesday, October 1 on a Thursday, November 1 on a Sunday, December 1 on a
+Tuesday. June 18 sits in the Thursday column and October 1 sits in the Thursday
+column. A red felt-tip pen rests diagonally across the lower-left corner,
+casting a soft real shadow, its tip slightly inked.
 
 Handwritten red felt-pen annotations with realistic ink bleed, natural imperfect
 hand, faint smudge:
-- a bold red hand-drawn circle around Thursday, June 18 on the JUNE grid,
-  "TODAY - H1 REVIEW" written beside it;
-- a second bold red circle around Friday, July 3 on the JULY grid,
-  "90-DAY NOTICE CLOSES" written large beneath it, with a smaller second line
-  "for an Oct 1 effective date";
-- a red arrow sweeping from the June 18 circle down to the July 3 circle,
-  "amend BEFORE this or the renewal writes your terms" along it;
-- a smaller red aside in the margin: "(your PBM won't remind you)".
+- a bold red hand-drawn circle around Thursday, June 18 on the JUNE grid (left
+  page), "TODAY - H1 REVIEW" written beside it;
+- a long red arrow that starts at the June 18 circle, sweeps down the left page
+  past July and August, crosses the center spine, and lands on a second bold
+  red circle around Thursday, October 1 on the OCTOBER grid (right page);
+- along the arrow over the July/August stretch, in smaller red hand:
+  "match findings to clauses over the summer";
+- beneath the October 1 circle, written large: "90-DAY NOTICE CLOSES", with a
+  smaller second line "letter out by here";
+- a red hand-drawn bracket spanning the OCTOBER, NOVEMBER, and DECEMBER grids
+  down the right edge, labeled "the 90 days run here";
+- at the bottom of the right page, below December, a hand-drawn red box with
+  "JAN 1 - AMENDMENT GOES LIVE" and a small arrow pointing off the page edge;
+- a smaller red aside in the left-page margin: "(your PBM won't remind you)".
 
-Three real yellow Post-it notes down the right margin, each lightly curled at a
-corner with a soft adhesive shadow and slight paper translucency, one step
-hand-printed on each in dark ballpoint, large and legible:
-  1. "Pull your H1 findings"
-  2. "Match each to its clause"
-  3. "Send the amendment letter"
+Three real yellow Post-it notes placed along the timeline so the steps map to
+the months, each lightly curled at a corner with a soft adhesive shadow and
+slight paper translucency, one step hand-printed on each in dark ballpoint,
+large and legible:
+  1. "Pull your H1 findings" - left margin beside JUNE;
+  2. "Match each to its clause" - left margin beside JULY/AUGUST;
+  3. "Send the letter - by OCT 1" - right margin beside SEPTEMBER/OCTOBER.
 
 For authenticity, allow a pair of reading glasses softly out of focus at the
 top-left edge and the faint ring of a coffee mug at a corner, both blurred so
 they never compete with the center. Warm wooden desk surface with fine grain.
-The AUGUST grid stays clean and unannotated, reinforcing that the window has
-already closed by then.
+The NOVEMBER and DECEMBER grids stay otherwise clean and unannotated: the
+letter is in the PBM's hands and the clock is running.
 
 Realism cues: true-to-life paper texture, ink that sits on the fiber, real cast
 shadows, natural light falloff, no flat vector look anywhere. The only saturated
-colors are the red pen marks. Keep printed fine print minimal so the three
-sticky-note steps and the two red-circled dates dominate the center ~70% of the
-frame and read clearly at thumbnail size (~400px wide).
+colors are the red pen marks. Keep the printed grid numbers small and faint so
+the three sticky-note steps, the two red-circled dates, and the JAN 1 box
+dominate the composition and read clearly at thumbnail size (~400px wide).
 ```
 
 **Canva headline overlay (added after generation):** "Your Mid-Year" (Primary Blue #015880) + "Amendment Window." (Accent Blue #A7E0FA) Plex Sans SemiBold, subline "90 days to turn an H1 finding into a contract change." (Gray #4D4D4D), on a semi-opaque white band across the top ~22%.
