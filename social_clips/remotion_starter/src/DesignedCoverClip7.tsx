@@ -81,11 +81,11 @@ export const DesignedCoverClip7: React.FC = () => {
       >
         {/* Hook text */}
         <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 10 }}>
-          <div style={{ fontSize: 72, fontWeight: 700, color: WHITE, lineHeight: 1.12, textAlign: "center" }}>
+          <div style={{ fontSize: 78, fontWeight: 700, color: WHITE, lineHeight: 1.12, textAlign: "center" }}>
             Cost. Rebates.{" "}
             <span style={{ color: ACCENT }}>Net cost.</span>
           </div>
-          <div style={{ fontSize: 56, fontWeight: 700, color: WHITE, lineHeight: 1.15, textAlign: "center", opacity: 0.95 }}>
+          <div style={{ fontSize: 54, fontWeight: 700, color: WHITE, lineHeight: 1.15, textAlign: "center", opacity: 0.95 }}>
             Your PBM won&rsquo;t show you all three.
           </div>
         </div>

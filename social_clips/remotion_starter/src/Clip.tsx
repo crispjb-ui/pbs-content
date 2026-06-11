@@ -96,6 +96,7 @@ export type ClipData = {
   aspect: "9x16" | "4x5";
   platform?: string;
   hookTitle: string; hookLine2?: string; hookAccent?: string;
+  hookBeats?: string[];
   showName: string;
   audioFade?: { startSec: number; endSec: number };
   cta?: { text: string; url: string };
@@ -361,6 +362,16 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const fadeStartFrame = clip.audioFade ? (clip.audioFade.startSec - clip.inSec) * fps : 0;
   const fadeEndFrame = clip.audioFade ? (clip.audioFade.endSec - clip.inSec) * fps : 0;
 
+  // ── Hook staggered reveal: each line-1 beat spring-pops in sequence; line 2 slides in under ──
+  const hookBeat = (startFrame: number, big = false): React.CSSProperties => {
+    const s = spring({ frame: Math.max(0, frame - startFrame), fps, config: { damping: big ? 8 : 11, stiffness: big ? 185 : 165, mass: big ? 0.7 : 0.5 } });
+    const op = interpolate(frame, [startFrame, startFrame + 4], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+    return { display: "inline-block", transformOrigin: "center bottom", transform: `scale(${s})`, opacity: op };
+  };
+  const hookLine2In = spring({ frame: Math.max(0, frame - Math.round(1.0 * fps)), fps, config: { damping: 14, stiffness: 110 } });
+  const hookL1 = clip.aspect === "4x5" ? 60 : 66;
+  const hookL2 = clip.aspect === "4x5" ? 44 : 48;
+
   return (
     <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
       {/* ── Footage (always rendered for audio continuity) ── */}
@@ -377,8 +388,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {/* Progress bar */}
           <div style={{ position: "absolute", top: 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
 
-          {/* PBS logo corner (persistent, small) */}
-          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 24, left: 24, height: 40, width: "auto", filter: "drop-shadow(0 2px 5px rgba(0,0,0,0.7))", zIndex: 30 }} />
+          {/* PBS logo corner (persistent, small) — layered shadow so the white mark reads on light walls */}
+          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 24, left: 24, height: 40, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
 
           {/* "As seen on" badge — hidden during hook, shown after */}
           {showBadge && (
@@ -397,7 +408,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {hookOp > 0 && (
             <div style={{
               position: "absolute",
-              top: clip.aspect === "4x5" ? 70 : 90,
+              top: clip.hookBeats && clip.hookBeats.length ? (clip.aspect === "4x5" ? 80 : 96) : (clip.aspect === "4x5" ? 70 : 90),
               left: 28, right: 28,
               textAlign: "center",
               opacity: hookOp,
@@ -410,11 +421,33 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                 borderRadius: 16,
                 boxShadow: "0 12px 40px rgba(0,0,0,0.5)",
               }}>
-                <div style={{ fontFamily: SANS, fontSize: clip.aspect === "4x5" ? 56 : 64, fontWeight: 700, color: WHITE, lineHeight: 1.15 }}>
-                  {highlightHook(clip.hookTitle, clip.hookAccent)}
-                </div>
+                {clip.hookBeats && clip.hookBeats.length ? (
+                  // Staggered line 1 (each beat spring-pops in turn; accent beat lands bigger).
+                  <div style={{ fontFamily: SANS, fontSize: hookL1, fontWeight: 700, color: WHITE, lineHeight: 1.12, whiteSpace: "nowrap" }}>
+                    {clip.hookBeats.map((b, i) => {
+                      const isAccent = !!clip.hookAccent && b.toLowerCase().includes(clip.hookAccent.toLowerCase());
+                      return (
+                        <span key={i}>
+                          <span style={{ ...hookBeat(i * Math.round(0.3 * fps), isAccent), ...(isAccent ? { color: ACCENT } : null) }}>{b}</span>
+                          {i < clip.hookBeats!.length - 1 ? " " : null}
+                        </span>
+                      );
+                    })}
+                  </div>
+                ) : (
+                  <div style={{ fontFamily: SANS, fontSize: clip.aspect === "4x5" ? 56 : 64, fontWeight: 700, color: WHITE, lineHeight: 1.15 }}>
+                    {highlightHook(clip.hookTitle, clip.hookAccent)}
+                  </div>
+                )}
                 {clip.hookLine2 && (
-                  <div style={{ fontFamily: SANS, fontSize: clip.aspect === "4x5" ? 58 : 66, fontWeight: 700, color: WHITE, lineHeight: 1.15, marginTop: 8 }}>
+                  <div style={{
+                    fontFamily: SANS,
+                    fontSize: clip.hookBeats && clip.hookBeats.length ? hookL2 : (clip.aspect === "4x5" ? 58 : 66),
+                    fontWeight: 700, color: WHITE, lineHeight: 1.15, marginTop: clip.hookBeats && clip.hookBeats.length ? 10 : 8,
+                    ...(clip.hookBeats && clip.hookBeats.length
+                      ? { opacity: hookLine2In, transform: `translateY(${(1 - hookLine2In) * 16}px)` }
+                      : null),
+                  }}>
                     {highlightHook(clip.hookLine2, clip.hookAccent)}
                   </div>
                 )}
