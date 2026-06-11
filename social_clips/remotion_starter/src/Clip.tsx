@@ -371,6 +371,11 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const hookLine2In = spring({ frame: Math.max(0, frame - Math.round(1.0 * fps)), fps, config: { damping: 14, stiffness: 110 } });
   const hookL1 = clip.aspect === "4x5" ? 60 : 66;
   const hookL2 = clip.aspect === "4x5" ? 44 : 48;
+  // Panel spring-scales in at frame 0 already containing "Cost." (never an empty box);
+  // it then auto-grows in width as later beats mount and in height when line 2 mounts.
+  const hookPanelScale = interpolate(spring({ frame, fps, config: { damping: 13, stiffness: 210, mass: 0.6 } }), [0, 1], [0.72, 1]);
+  const hookLine2Frame = Math.round(1.0 * fps);
+  const hookBeatsMode = !!(clip.hookBeats && clip.hookBeats.length);
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
@@ -420,17 +425,22 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                 padding: "22px 32px",
                 borderRadius: 16,
                 boxShadow: "0 12px 40px rgba(0,0,0,0.5)",
+                ...(hookBeatsMode ? { transform: `scale(${hookPanelScale})`, transformOrigin: "top center" } : null),
               }}>
-                {clip.hookBeats && clip.hookBeats.length ? (
-                  // Staggered line 1 (each beat spring-pops in turn; accent beat lands bigger).
+                {hookBeatsMode ? (
+                  // Staggered line 1: only revealed beats occupy layout, so the panel auto-grows
+                  // in width. Beat 0 ("Cost.") is present from frame 0 — the panel entrance carries
+                  // its motion — so no frame ever shows an empty box.
                   <div style={{ fontFamily: SANS, fontSize: hookL1, fontWeight: 700, color: WHITE, lineHeight: 1.12, whiteSpace: "nowrap" }}>
-                    {clip.hookBeats.map((b, i) => {
+                    {clip.hookBeats!.map((b, i) => {
+                      const start = i * Math.round(0.3 * fps);
                       const isAccent = !!clip.hookAccent && b.toLowerCase().includes(clip.hookAccent.toLowerCase());
+                      const revealed = frame >= start;
+                      const style: React.CSSProperties = i === 0
+                        ? { display: "inline-block", whiteSpace: "pre" }
+                        : { ...hookBeat(start, isAccent), whiteSpace: "pre", display: revealed ? "inline-block" : "none" };
                       return (
-                        <span key={i}>
-                          <span style={{ ...hookBeat(i * Math.round(0.3 * fps), isAccent), ...(isAccent ? { color: ACCENT } : null) }}>{b}</span>
-                          {i < clip.hookBeats!.length - 1 ? " " : null}
-                        </span>
+                        <span key={i} style={{ ...style, ...(isAccent ? { color: ACCENT } : null) }}>{(i > 0 ? " " : "") + b}</span>
                       );
                     })}
                   </div>
@@ -439,14 +449,12 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                     {highlightHook(clip.hookTitle, clip.hookAccent)}
                   </div>
                 )}
-                {clip.hookLine2 && (
+                {clip.hookLine2 && (!hookBeatsMode || frame >= hookLine2Frame) && (
                   <div style={{
                     fontFamily: SANS,
-                    fontSize: clip.hookBeats && clip.hookBeats.length ? hookL2 : (clip.aspect === "4x5" ? 58 : 66),
-                    fontWeight: 700, color: WHITE, lineHeight: 1.15, marginTop: clip.hookBeats && clip.hookBeats.length ? 10 : 8,
-                    ...(clip.hookBeats && clip.hookBeats.length
-                      ? { opacity: hookLine2In, transform: `translateY(${(1 - hookLine2In) * 16}px)` }
-                      : null),
+                    fontSize: hookBeatsMode ? hookL2 : (clip.aspect === "4x5" ? 58 : 66),
+                    fontWeight: 700, color: WHITE, lineHeight: 1.15, marginTop: hookBeatsMode ? 10 : 8,
+                    ...(hookBeatsMode ? { opacity: hookLine2In, transform: `translateY(${(1 - hookLine2In) * 16}px)` } : null),
                   }}>
                     {highlightHook(clip.hookLine2, clip.hookAccent)}
                   </div>
