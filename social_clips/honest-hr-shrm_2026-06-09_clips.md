@@ -24,17 +24,42 @@
 
 **LinkedIn copy:**
 ```
-Same GLP-1. Same pharmacy. Two different prices.
+Spread pricing works like this:
 
-Your PBM can pay the pharmacy one price and invoice your plan a higher one, then keep the difference. It is called spread pricing, and it is not just on GLP-1s. It is on everything.
+Your PBM pays the pharmacy $100 for a drug.
+Then bills your plan $120.
+It keeps the $20. Every fill.
 
-I broke this down on SHRM's Honest HR podcast. The fix starts with one question: is your contract pass-through?
+Now run that on a GLP-1, where a single month can list north of $1,000, and
+the gap the PBM keeps isn't $20 anymore.
 
-#DrugPricing #GLP1 #EmployeeBenefits
+The part most plan sponsors miss is that the contract can be written so you
+never see the gap. What the pharmacy is paid and what your plan is charged
+sit on two different price schedules, and nothing in the agreement requires
+the PBM to show you the difference.
+
+We review hundreds of PBM contracts a year at PBS. Spread language is in
+nearly every one. Most plan sponsors don't know it's there until someone
+reads the definitions section out loud.
+
+And it isn't only GLP-1s. It's the whole formulary.
+
+The fix isn't outrage, it's contract language: spread disclosure, or better,
+a true pass-through arrangement, plus the audit rights to verify it.
+
+A good broker will flag where to look. The worksheet that surfaces it is in
+the comments.
+
+(Numbers illustrative; the mechanic is real and it lives in the contract.)
+
+#SelfFundedEmployers #SpreadPricing #PBMTransparency
 ```
 _First comment:_
 ```
-We run channel-pricing audits as standard work. The free worksheet shows how to surface spread across retail, mail, and specialty → rxbs.org/toolkit/channel-pricing
+The free Channel-Pricing Audit Worksheet runs three passes (retail, mail,
+specialty), comparing what the pharmacy is paid against what your plan is
+charged, and flags the disclosure-language gap in your contract →
+rxbs.org/toolkit/channel-pricing
 ```
 **X copy:**
 ```
