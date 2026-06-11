@@ -277,7 +277,7 @@ Ask your PBM for three numbers: your cost, your rebates, your net cost.
 
 If they won't give you direct access to all three, you're modeling your pharmacy spend blind, and that's usually by design. You can't manage what they won't show you.
 
-If you ask and can't get clear answers, that's your answer. From SHRM's Honest HR podcast.
+If you ask and can't get clear answers, that's your answer. From @SHRM's Honest HR podcast.
 
 #PBMTransparency #EmployeeBenefits #PharmacyBenefits
 ```

@@ -717,8 +717,8 @@ written into the contract, not a favor you ask for each quarter.
 You're halfway through the plan year. This is the moment to demand the numbers,
 while there's still time to act on them.
 
-The checklist that pins down all three is in the comments. A good broker will
-help you send the ask.
+I got into this on @SHRM's Honest HR podcast. The checklist that pins down all
+three is in the comments, and a good broker will help you send the ask.
 
 #SelfFundedEmployers #PBMContracts #PharmacyBenefits
 ```
