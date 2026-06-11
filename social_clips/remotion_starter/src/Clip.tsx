@@ -7,6 +7,7 @@ import {
   useVideoConfig,
   interpolate,
   spring,
+  Easing,
   Img,
 } from "remotion";
 import { loadFont as loadSans } from "@remotion/google-fonts/IBMPlexSans";
@@ -230,15 +231,29 @@ const StatCutaway: React.FC<{
           const rs = spring({ frame: Math.max(0, localFrame - (rowFrames[i] ?? rowFrames[rowFrames.length - 1])), fps, config: { damping: 13, stiffness: 150 } });
           const isLast = i === st.lines.length - 1;
           const snapped = isLast && localFrame >= snapFrame;
+          // Snap pop at snapFrame (quick 1 → 1.13 → 1 overshoot).
           const snapSpring = spring({ frame: Math.max(0, localFrame - snapFrame), fps, config: { damping: 10, stiffness: 200, mass: 0.6 } });
-          const snapScale = snapped ? interpolate(snapSpring, [0, 0.5, 1], [1.0, 1.13, 1.0]) : 1;
-          const glow = snapped ? interpolate(localFrame, [snapFrame, snapFrame + 4, snapFrame + 14], [0, 28, 13], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 0;
+          const popScale = snapped ? interpolate(snapSpring, [0, 0.5, 1], [1.0, 1.13, 1.0]) : 1;
+          // NET COST then keeps growing toward the viewer (ease-out) until the cutaway exits.
+          // Base row maxWidth 680 → 680 * 1.5 = 1020 < 1080, so it never clips the frame edges.
+          const growScale = snapped
+            ? interpolate(localFrame, [snapFrame, durFrames], [1, 1.5], { easing: Easing.out(Easing.cubic), extrapolateLeft: "clamp", extrapolateRight: "clamp" })
+            : 1;
+          // The other rows ease down + dim so NET COST dominates and doesn't crowd them.
+          const dimming = !isLast && localFrame >= snapFrame;
+          const dimScale = dimming ? interpolate(localFrame, [snapFrame, snapFrame + 14], [1, 0.95], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 1;
+          const dimOpacity = dimming ? interpolate(localFrame, [snapFrame, snapFrame + 14], [1, 0.6], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 1;
+          const rowScale = isLast ? popScale * growScale : dimScale;
+          // Glow swells along with the grow.
+          const glow = snapped ? interpolate(localFrame, [snapFrame, snapFrame + 4, durFrames], [0, 26, 48], { easing: Easing.out(Easing.cubic), extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : 0;
           const cardBg = snapped ? ACCENT : WHITE;
           return (
             <div key={i} style={{
-              opacity: rs,
-              transform: `translateX(${(1 - rs) * -44}px) scale(${snapScale})`,
-              width: "100%", maxWidth: 780,
+              opacity: rs * dimOpacity,
+              transformOrigin: "center center",
+              transform: `translateX(${(1 - rs) * -44}px) scale(${rowScale})`,
+              zIndex: isLast ? 2 : 1,
+              width: "100%", maxWidth: 680,
               display: "flex", alignItems: "center", gap: 22,
               background: cardBg, borderRadius: 16, padding: "20px 28px", marginBottom: 18,
               boxShadow: glow > 0 ? `0 0 ${glow}px ${ACCENT}, 0 10px 30px rgba(0,0,0,0.25)` : "0 10px 30px rgba(0,0,0,0.22)",
@@ -253,7 +268,7 @@ const StatCutaway: React.FC<{
           );
         })}
         {st.callout && (
-          <div style={{ opacity: calloutOp, transform: `translateY(${(1 - calloutOp) * 10}px)`, marginTop: 8, fontFamily: SANS, fontSize: 25, fontWeight: 700, color: ACCENT }}>
+          <div style={{ opacity: calloutOp, transform: `translateY(${(1 - calloutOp) * 10}px)`, marginTop: 30, fontFamily: SANS, fontSize: 25, fontWeight: 700, color: ACCENT }}>
             {"↑ " + st.callout}
           </div>
         )}

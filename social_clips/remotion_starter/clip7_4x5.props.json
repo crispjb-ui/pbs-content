@@ -22,7 +22,7 @@
       {
         "type": "stat",
         "startSec": 8.6,
-        "endSec": 13.0,
+        "endSec": 15.72,
         "stat": {
           "title": "Ask your PBM for",
           "lines": [
@@ -48,14 +48,6 @@
           ],
           "snapFrame": 82
         }
-      },
-      {
-        "type": "image",
-        "startSec": 18.32,
-        "endSec": 21.36,
-        "src": "week_21_quarterly_reporting_checklist_preview.png",
-        "imageTitle": "Quarterly Reporting Checklist",
-        "imageSubtitle": "Free → link in comments"
       }
     ],
     "captions": [
