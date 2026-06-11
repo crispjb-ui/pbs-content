@@ -2,3 +2,7 @@ node_modules/
 out/
 .tmp/
 public/source.mp4
+.whisper-venv/
+public/seg_*.mp4
+public/source.mp4
+*.bin
