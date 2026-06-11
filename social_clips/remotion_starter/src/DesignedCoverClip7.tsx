@@ -37,14 +37,14 @@ export const DesignedCoverClip7: React.FC = () => {
     >
       {/* ── TOP BAR: logo + badge ── */}
       <div style={{ width: "100%", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
-        <Img src={staticFile("pbs-logo-white.png")} style={{ height: 52, width: "auto" }} />
+        <Img src={staticFile("pbs-logo-white.png")} style={{ height: 60, width: "auto" }} />
         <div
           style={{
             background: WHITE,
             color: PRIMARY,
-            padding: "8px 18px",
-            borderRadius: 8,
-            fontSize: 22,
+            padding: "10px 22px",
+            borderRadius: 9,
+            fontSize: 28,
             fontWeight: 700,
             letterSpacing: 0.3,
           }}

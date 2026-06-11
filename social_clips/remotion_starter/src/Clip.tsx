@@ -401,16 +401,17 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {/* Progress bar */}
           <div style={{ position: "absolute", top: 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
 
-          {/* PBS logo corner (persistent, small) — layered shadow so the white mark reads on light walls */}
-          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 24, left: 24, height: 40, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
+          {/* PBS logo corner (persistent) — layered shadow so the white mark reads on light walls */}
+          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 26, left: 26, height: 56, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
 
-          {/* "As seen on" badge — hidden during hook, shown after */}
+          {/* "As seen on" badge — hidden during hook, shown after. Sized up for mobile-feed legibility. */}
           {showBadge && (
             <div style={{
-              position: "absolute", top: 22, right: 22,
+              position: "absolute", top: 26, right: 26,
               background: PRIMARY, color: WHITE,
-              padding: "6px 12px", borderRadius: 6,
-              fontSize: 20, fontWeight: 600, zIndex: 30,
+              padding: "10px 18px", borderRadius: 9,
+              fontSize: 30, fontWeight: 700, zIndex: 30,
+              boxShadow: "0 4px 16px rgba(0,0,0,0.45)",
               opacity: interpolate(frame, [hookDurFrames, hookDurFrames + 8], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }),
             }}>
               As seen on {clip.showName}
@@ -421,7 +422,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {hookOp > 0 && (
             <div style={{
               position: "absolute",
-              top: clip.hookBeats && clip.hookBeats.length ? (clip.aspect === "4x5" ? 80 : 96) : (clip.aspect === "4x5" ? 70 : 90),
+              top: clip.hookBeats && clip.hookBeats.length ? (clip.aspect === "4x5" ? 94 : 110) : (clip.aspect === "4x5" ? 70 : 90),
               left: 28, right: 28,
               textAlign: "center",
               opacity: hookOp,
