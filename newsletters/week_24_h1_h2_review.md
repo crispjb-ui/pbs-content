@@ -226,6 +226,48 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ---
 
+### In-Article Visual
+
+Place mid-article, right after the section that introduces the five H1 metrics, so the image reinforces the text. This is the former Thursday "H1 Metrics" carousel content, repurposed here per the deep-dive-visual rule, consolidated into one clean infographic. Generate, then add the PBS logo and rxbs.org in Canva (kept out of the prompt so the generator does not garble them).
+
+**Dimensions:** 1080 x 1350 px. Clean flat-design infographic (NOT photoreal).
+
+**Prompt:**
+
+```
+A clean, professional digital infographic, 1080 x 1350 px (4:5 vertical), solid
+white (#FFFFFF) background, generous negative space. Editorial, flat-design,
+NOT photoreal.
+
+Top: a two-tone headline in Plex Sans SemiBold, "Your H1 Dashboard" in Primary
+Blue (#015880) with "The 5 numbers that set your renewal position" in Accent
+Blue (#A7E0FA) on the line below, 48pt / 28pt. A thin Accent Blue underline
+under "renewal position."
+
+Center: five evenly spaced metric rows, each a clean card with a numbered
+Primary Blue (#015880) rounded pill (1 to 5) on the left, the metric label in
+Plex Mono Medium uppercase, and one plain-English line in Gray (#4D4D4D) Plex
+Sans Regular beneath it. One small Accent Blue (#A7E0FA) tick or arrow accents
+each row. The five rows:
+  1. PMPM: per-member-per-month cost. Compare vs budget, prior year, market.
+  2. GER: generic effective rate by channel. Are you hitting your guarantee?
+  3. SPECIALTY %: specialty as a share of total spend. The trend driver.
+  4. REBATE / Rx: rebate per brand claim, not total rebates. The real yield.
+  5. HIGH-COST CLAIMANTS: members over threshold. Your stop-loss exposure.
+
+Bottom: a slim Primary Blue (#015880) strip running full width with white Plex
+Sans SemiBold text "Know your numbers before the PBM presents theirs," with an
+Accent Blue (#A7E0FA) accent on "before."
+
+Palette strictly white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA),
+Gray (#4D4D4D). All metric labels in Plex Mono Medium. Five rows only, evenly
+spaced, large enough to read clearly on a phone. No photographs, no realistic
+textures, NO logo or wordmark of any kind. Leave a clean margin at the very
+bottom.
+```
+
+---
+
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
 ## Auditing Your Mid-Year Contract Amendment Window
@@ -783,83 +825,13 @@ The free Quarterly Reporting Checklist: 15 line items your PBM's report should c
 
 ## Post 87 - Thursday 8:30 AM
 
-> **NOTE: This carousel content has been REPURPOSED to the Monday Substack article as a supporting table/section. See Monday article. DO NOT SHIP.**
-> **The live Thursday post is "The Mid-Year Amendment Window" Annotated Calendar (photoreal), in the Thursday Excellence Slot section below. (The earlier "Same diagnosis / out-of-pocket" Slot B carousel was also displaced; it lives in `evergreen_visual_backlog.md` as concept #26.)**
-
-### H1 Metrics Dashboard - What to Measure Now (Carousel) [REPURPOSED — DO NOT SHIP TO LINKEDIN]
-
-**Format:** Carousel (7 slides)
-**Pillar:** Transparency
-**Word Count:** ~80 words
-
-> **NOTE:** Thursday carries the weekly theme visual - 3 days after the Monday newsletter eliminates topic overlap. This carousel provides the detailed H1 metrics framework that complements the newsletter's broader H1/H2 review theme.
-
-#### Post Copy
-
-```
-H1 is done. Before renewal conversations begin, you need to know where you stand.
-
-These are the metrics that matter right now. The numbers that tell you whether your PBM is performing, where your costs are trending, and what leverage you carry into H2.
-
-Seven metrics. Seven benchmarks. The framework for every renewal conversation that follows.
-
-#MidYearReview #DrugPricing #PharmacyBenefits
-```
-
-#### First Comment [POST DOES NOT SHIP — see live Thursday slot below]
-
-This post is REPURPOSED into the Monday Substack deep dive. The live Thursday LinkedIn post and its First Comment are in the Thursday Excellence/Evergreen Slot section below. Do not draft a first comment here.
-#### One Number Carousel Slides (Template C)
-
-**Design:** Alternating Primary Blue (#015880) and white backgrounds. Plex Sans SemiBold 96-120pt for stat. Plex Sans Regular 20-24pt for context. Accent Blue (#A7E0FA) accent elements.
-
-**Slide 1 (Blue bg):**
-- Large white text: "H1"
-- Context: "Five metrics. Five benchmarks. Your renewal position starts here."
-- Accent Blue underline under "renewal position"
-
-**Slide 2 (White bg):**
-- Large Primary Blue text: "PMPM"
-- Context in Gray: "Per member per month cost. Compare: vs. budget, vs. prior year, vs. market. The foundational metric."
-- Accent Blue trend arrow
-
-**Slide 3 (Blue bg):**
-- Large white text: "GER"
-- Context: "Generic effective rate by channel. Are you getting the rates you negotiated? Compare vs. guarantee and market."
-- Accent Blue percentage symbol
-
-**Slide 4 (White bg):**
-- Large Primary Blue text: "SPECIALTY %"
-- Context in Gray: "Specialty as percentage of total spend. If this ratio is climbing, high-cost therapies are driving your trend."
-- Accent Blue upward arrow
-
-**Slide 5 (Blue bg):**
-- Large white text: "REBATE/Rx"
-- Context: "Rebate per brand claim. Not total rebates (those grow when spend grows). Per-claim yield tells the real story."
-- Accent Blue dollar sign
-
-**Slide 6 (White bg):**
-- Large Primary Blue text: "HIGH COST"
-- Context in Gray: "Members exceeding defined cost thresholds. Clustering compresses stop-loss exposure faster than projected."
-- Accent Blue warning triangle
-
-**Slide 7 (Blue bg):**
-- Large white text: "KNOW YOUR NUMBERS."
-- Accent Blue: "Before the PBM presents theirs."
-- Small: team@rxbs.org | Benefit Blind Spots | PBS logo (white, 60px)
-
-**Canva Production Notes:**
-1. Template C: One Number / Stat Slam
-2. Plex Sans SemiBold 96-120pt, Plex Sans Regular 20-24pt
-3. Alternating #015880 and #FFFFFF backgrounds
-4. One Accent Blue element per slide
-5. Export 1080 x 1350 px each
+> The Thursday post is "The Mid-Year Amendment Window" Annotated Calendar (photoreal), specced in the Thursday Excellence Slot below. The former "H1 Metrics" carousel that sat here has moved into the Monday deep dive as the In-Article Visual (PART 1, the "Your H1 Dashboard" clean infographic), per the deep-dive-visual rule. Nothing ships from this header.
 
 ---
 
-### Thursday Excellence Slot - The Mid-Year Amendment Window — Annotated Calendar (photoreal)
+### Thursday Excellence Slot: The Mid-Year Amendment Window (Annotated Calendar, photoreal)
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence (7+ trait standard) — Cost Containment pillar averages 3.2K impressions vs. PBM Contract Insights decoder floor of 20-25K, and Same OOP carousel did not pair with the Field Note. Replaced with the Thursday Excellence Slot "Mid-Year Amendment Window" Annotated Calendar (photoreal) infographic that pairs exclusively with the W24 Field Note "Auditing Your Mid-Year Contract Amendment Window" (visual changed from a Marked-Up Contract Page to an annotated calendar to avoid contract-format repetition with Tuesday's Library 03 carousel; same amendment topic + post copy + Contract Amendment Letter toolkit). Original Same OOP carousel content preserved in `evergreen_visual_backlog.md` as concept #26 for a future Cost Containment Thursday on a non-benefit-design Monday.
+> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel on Cost Containment pillar. Displaced under Architecture B + Thursday Excellence (7+ trait standard). Cost Containment pillar averages 3.2K impressions vs. PBM Contract Insights decoder floor of 20-25K, and the Same OOP carousel did not pair with the Field Note. Replaced with the Thursday Excellence Slot "Mid-Year Amendment Window" Annotated Calendar (photoreal) infographic that pairs exclusively with the W24 Field Note "Auditing Your Mid-Year Contract Amendment Window" (visual changed from a Marked-Up Contract Page to an annotated calendar to avoid contract-format repetition with Tuesday's Library 03 carousel; same amendment topic + post copy + Contract Amendment Letter toolkit). Original Same OOP carousel content preserved in `evergreen_visual_backlog.md` as concept #26 for a future Cost Containment Thursday on a non-benefit-design Monday.
 
 **Format:** Single photoreal infographic, Annotated Calendar aesthetic (real desk wall-calendar, handwritten red-pen annotations + sticky notes; NOT a contract page, to break the contract-format repetition with Tuesday's Library 03 carousel). 1080 x 1350 px. Image prompt below.
 **Pillar:** PBM Contract Insights (highest-converting decoder pillar; W18 Channel Pricing 17K precedent)
