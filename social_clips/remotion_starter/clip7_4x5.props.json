@@ -32,6 +32,7 @@
         "type": "stat",
         "startSec": 8.6,
         "endSec": 15.72,
+        "captionsFromSec": 11.8,
         "stat": {
           "title": "Ask your PBM for",
           "lines": [

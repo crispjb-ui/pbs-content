@@ -78,6 +78,7 @@ export type ImageCut = { startSec: number; endSec: number; src: string; position
 export type Cutaway = {
   startSec: number; endSec: number;
   type: "equation" | "image" | "stat";
+  captionsFromSec?: number;
   equation?: { totalNum: number; totalLabel: string; segA: string; segANum: number; segALabel: string; segB: string; segBNum: number; segBLabel: string; note?: string };
   stat?: {
     title?: string;
@@ -334,8 +335,15 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const inEndCard = frame >= totalFrames - endFrames;
   const zoom = interpolate(frame, [0, totalFrames - endFrames], [1.0, 1.06], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
 
-  // ── Full-screen cutaway active? (suppresses captions AND name plate) ──
+  // ── Full-screen cutaway active? (the name plate hides for the whole cutaway) ──
   const cutawayActive = (clip.cutaways ?? []).some((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
+  // Captions are suppressed only while the cutaway "owns" the words (e.g. the stat rows ARE the
+  // captions). A cutaway may set captionsFromSec to hand the karaoke pill back partway through its hold.
+  const captionCutaway = (clip.cutaways ?? []).find((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
+  const captionsSuppressed = !!captionCutaway && !(captionCutaway.captionsFromSec != null && tSource >= captionCutaway.captionsFromSec);
+  // When the pill rides over a still-visible cutaway, drop it deeper into the safe bottom margin so
+  // it clears the centred card (the growing NET COST row + callout).
+  const captionOverCutaway = !!captionCutaway && !captionsSuppressed;
 
   // ── Hook ──
   const hookOp = interpolate(frame, [hookDurFrames - 12, hookDurFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
@@ -504,12 +512,12 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           )}
 
           {/* ── KARAOKE CAPTIONS (no-box, outline+shadow, accent pill on active word) ── */}
-          {active && !cutawayActive ? (
+          {active && !captionsSuppressed ? (
             <div style={{
               position: "absolute",
               top: clip.aspect === "9x16"
-                ? (plateVisible ? height * 0.55 : height * 0.65)
-                : (plateVisible ? height * 0.58 : height * 0.68),
+                ? (captionOverCutaway ? height * 0.78 : plateVisible ? height * 0.55 : height * 0.65)
+                : (captionOverCutaway ? height * 0.82 : plateVisible ? height * 0.58 : height * 0.68),
               left: 32, right: 32,
               display: "flex",
               justifyContent: "flex-start",
