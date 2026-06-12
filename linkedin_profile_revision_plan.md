@@ -8,16 +8,13 @@
 
 ## PHASE 0 — Today, ~10 minutes (two clicks that are already leaking)
 
-### Step 0.1 — Re-aim the Premium custom button (currently → LinkedIn newsletter, redundant)
-Confirmed Jun 12: the custom button points to the LinkedIn newsletter — but the profile already has the native **"View my newsletter"** button, and the follow → auto-prompt funnel harvests newsletter subs anyway. Two buttons to the same destination wastes the scarcer one. Post analytics show the button gets real clicks (**8 engagements on the GPO post alone**).
-- Profile → **Edit intro** (pencil) → **Custom button** (Premium feature).
-- Re-point it at the **Toolkit Library** (`rxbs.org` library page) with label "Visit my website."
-- Rationale: this button appears on the profile AND on every post next to her name — the highest-frequency CTA she owns. The toolkit library is the only major destination with no other button, and it's the one where a click becomes a captured lead (email + role + company into the Toolkit Leads sheet) instead of a redundant newsletter path.
+### Step 0.1 — Premium custom button: KEEP on the LinkedIn newsletter (decision Jun 12)
+The custom button points to the LinkedIn newsletter, and it stays there. Key placement fact (Ginny, Jun 12): the button renders **in the feed, under her name, above each post** — for a cold feed viewer it is the ONLY CTA visible (the native "View my newsletter" button exists only on the profile page). Cold feed audience + one-click subscribe + the newsletter being the documented conversion engine = the right offer in the right place. The 8 engagements on the GPO post were feed-level newsletter captures. No change; just log "Premium custom button engagements" weekly in /log-metrics as the feed-level conversion stat.
 
-### Step 0.2 — Add the intro website link
-- Profile → **Edit intro** → **Website** field → add the Contract Language Library URL with custom text.
-- URL: `benefitblindspots.substack.com/p/pbm-contract-language-library` · Link text: `PBM Contract Language Library (free)`
-- Rationale: the one tappable link rendered directly under the headline; currently empty. Library = the best authority+conversion asset for a contract-holding visitor. (Custom button → toolkit/leads; intro link → Library/authority. Two distinct destinations, no overlap.)
+### Step 0.2 — Add the intro website link → Toolkit Library (the lead path's persistent home)
+- Profile → **Edit intro** → **Website** field.
+- URL: the `rxbs.org` Toolkit Library page · Link text: `Free Plan Sponsor Toolkits`
+- Rationale: the one tappable link rendered directly under the headline; currently empty. Profile visitors are warmer, diligence-mode traffic — the right audience for the gated-download form (email + role + company → Toolkit Leads sheet). Clean division of labor: **custom button (feed, cold) → newsletter; intro link (profile, warm) → toolkit leads; Featured #1 (authority) → Contract Language Library.**
 
 ---
 
