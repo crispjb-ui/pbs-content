@@ -1,6 +1,6 @@
 # Ginny's LinkedIn Profile Revision Plan
 **Created:** June 12, 2026 · **Goal:** convert the ~2,000 weekly profile views the content engine already drives into more follows (→ newsletter auto-prompt), longer retention (Featured/About that give a visitor somewhere to go), and leads (toolkit library + contract-review pathway).
-**Baselines (Jun 12, 2026):** 2,090 followers · 2,000 profile views/wk · 53 search appearances/wk · 14,472 impressions/wk · newsletter 1,021 subs · Substack 98 subs · 8 Premium custom-button engagements on the GPO post alone.
+**Baselines (Jun 12, 2026):** 2,091 followers · 2,000 profile views/wk · 53 search appearances/wk · 14,472 impressions/wk · newsletter 1,051 subs · Substack 98 subs · 8 Premium custom-button engagements on the GPO post alone.
 
 **Why this order:** the funnel is post → profile visit → (follow + newsletter prompt) OR (click out to Library/toolkit). Phase 0-1 fixes the destinations that traffic hits *today*; Phase 2 improves discovery and first impressions; Phase 3 is ongoing trust-building. Complete Phase 0-1 before the next Thursday post (Jun 18) drives the next spike.
 
@@ -8,11 +8,11 @@
 
 ## PHASE 0 — Today, ~10 minutes (two clicks that are already leaking)
 
-### Step 0.1 — Verify and aim the Premium custom button
-Post analytics show **8 "Premium custom button engagements"** on the GPO post, so the button exists and gets clicked. Confirm where it points.
-- Profile → **Edit intro** (pencil) → scroll to **Custom button** (Premium feature).
-- Point it at the **Toolkit Library** (`rxbs.org` library page) with label "Visit my website" (or "View my services" if using a Services page later).
-- Rationale: this button appears on the profile AND on every post next to her name. It's the single highest-frequency CTA she owns. It should land on the gated toolkit library (lead capture), not a generic homepage.
+### Step 0.1 — Re-aim the Premium custom button (currently → LinkedIn newsletter, redundant)
+Confirmed Jun 12: the custom button points to the LinkedIn newsletter — but the profile already has the native **"View my newsletter"** button, and the follow → auto-prompt funnel harvests newsletter subs anyway. Two buttons to the same destination wastes the scarcer one. Post analytics show the button gets real clicks (**8 engagements on the GPO post alone**).
+- Profile → **Edit intro** (pencil) → **Custom button** (Premium feature).
+- Re-point it at the **Toolkit Library** (`rxbs.org` library page) with label "Visit my website."
+- Rationale: this button appears on the profile AND on every post next to her name — the highest-frequency CTA she owns. The toolkit library is the only major destination with no other button, and it's the one where a click becomes a captured lead (email + role + company into the Toolkit Leads sheet) instead of a redundant newsletter path.
 
 ### Step 0.2 — Add the intro website link
 - Profile → **Edit intro** → **Website** field → add the Contract Language Library URL with custom text.
@@ -166,6 +166,6 @@ Track against Jun 12 baselines:
 | Followers per 10K impressions | 9-12 on decoders | uplift on the same content = profile conversion working |
 | Custom button engagements | 8 on one post | log weekly once aimed at the toolkit library |
 | Toolkit Leads sheet: source | — | watch for leads landing without a first-comment click path (= profile-sourced) |
-| Newsletter subs | 1,021 | follow → auto-prompt funnel; watch the weekly delta vs. follower delta |
+| Newsletter subs | 1,051 | follow → auto-prompt funnel; watch the weekly delta vs. follower delta |
 
 **The test for every edit:** a CFO lands on this profile cold from a Thursday post. Within 30 seconds can they (a) see who Ginny helps and the unfakeable proof, (b) tap one thing to go deeper (Library), and (c) find the path to ask for help (team@rxbs.org / toolkit)? Phase 0-1 makes the answer yes.
