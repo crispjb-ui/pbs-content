@@ -15,7 +15,7 @@ _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an
 
 ## 🗓️ NEXT SESSION PLAN (set Jun 10 eve)
 1. **Categorize Tier 2 by pillar** on the Wix library page (per-pillar repeaters with section headers, or sort the one grid by `pillar`). Fix the **title-box to a fixed 2-line height** on both repeaters so buttons line up.
-2. **Publish the library:** add **Toolkit Library + Insights** to the site menu, mobile check, Publish.
+2. ~~**Publish the library:** add **Toolkit Library + Insights** to the site menu, mobile check, Publish.~~ **✅ DONE (confirmed by Ginny Jun 12, 2026): the Toolkit Library is live on rxbs.org for all toolkits currently made** ("not perfect, but it works"). Remaining polish (pillar grouping, 2-line title boxes — item 1) stays open as non-blocking.
 3. **SHRM clips — the reach play:** draft the **SHRM/Monique reshare ask** + a **staggered posting schedule** for the 7 clips (biggest reach lever); render via Remotion (`yt-dlp` source → `render-from-manifest.mjs` + `render-covers.mjs`).
 4. **Send the 2 outreach emails** (Cristy → cristy@custombenefits.work; Mike → mthomson@gwcu.org); mark "contacted" in the Toolkit Leads sheet.
 5. **Provide assets:** official all-white logo PNG (swap `public/pbs-logo-white.png`); **2025 savings figure + plans-served count + client testimonials** for the website stats band + quote cards.
