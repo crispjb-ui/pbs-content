@@ -66,3 +66,41 @@ sentence / single "GLP-1s" / animated cutaway (not a word card) / karaoke
 word-by-word with accent-blue pill (no box) / name-plate fly-in with large
 logo / toolkit cutaway with text / bigger end-card logo / cover PNG. Then
 commit + push to main.
+
+## Clip7 lessons (Jun 12, 2026) — standard for every clip going forward
+
+1) EVERY AUDIBLE WORD NEEDS AN ON-SCREEN TEXT HOME. Captions pause ONLY while
+   an overlay mirrors the spoken words (stat rows popping in sync with her
+   list). The moment the overlay holds static while she keeps talking, the
+   karaoke pill resumes at the standard baseline, positioned clear of the
+   overlay's content (check 9:16 for collisions).
+
+2) NO ORPHANED AUDIO TAIL. If source audio runs past the final caption word,
+   fade volume to 0 over ~0.5s right after the last word. Extend the clip
+   instead ONLY if the next sentence lands clean and strong within ~4s
+   (extract + Whisper the tail to check). Never let a cut-off fragment play
+   under the end card.
+
+3) HOOK PANEL NEVER RENDERS EMPTY. With staggered word reveals, the panel
+   arrives WITH the first word at frame 0 (auto-width pill that grows per
+   word, or full panel + first word together). Scrub frames 0-35 to verify
+   no empty-box frame exists.
+
+4) HOOK HIERARCHY + MOTION. Line 1 ~1.35x line 2; staggered beat reveal
+   (~0.3s apart), accent word lands last with the bigger pop in accent blue.
+   Static panels don't stop scroll; the reveal rhythm is the hook.
+
+5) ONE CTA PER SHORT CLIP (<~20s). No mid-roll toolkit image cutaway; the end
+   card + first comment carry the toolkit. Spend the reclaimed time on an
+   emphasis animation instead (e.g., progressive accent-row grow 1.0 -> ~1.5
+   ease-out from snap to cutaway exit; cap ~1.5 or it reads as a glitch).
+
+6) ALWAYS UPLOAD THE DESIGNED COVER PNG as the custom thumbnail (LinkedIn:
+   pencil icon on the attached video -> thumbnail -> upload). Cover hook text
+   must match frame 0 so thumbnail -> first frame reads continuous. 9:16
+   cross-posts set covers per platform: TikTok at post time, IG Reels from
+   camera roll, Shorts in YouTube Studio.
+
+7) LENGTH: 15-25s IS THE ZONE for these clips. Completion rate is the
+   algorithmic lever, not duration. Extend only for strength, never for
+   length.
