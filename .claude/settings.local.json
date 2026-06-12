@@ -38,7 +38,11 @@
       "Bash(C:/Users/crisp/AppData/Local/Programs/Python/Python312/Scripts/pip.exe install:*)",
       "Bash(ffprobe:*)",
       "Bash(node:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(date -u +%Y-%m-%dT%H:%M:%SZ)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Session digest 2026-06-12 *)",
+      "Bash(git push *)"
     ]
   }
 }
