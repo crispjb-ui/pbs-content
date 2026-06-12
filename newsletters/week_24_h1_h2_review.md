@@ -278,7 +278,7 @@ bottom.
 **Tone:** Practical, tactical
 **Pillar:** PBM Contract Insights
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 Contract Amendment Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the contract vocabulary; Field Note is the operational follow-on for using the amendment window mid-year. First-comment cross-promo on the Thursday LinkedIn lands here.
+**Pairs with:** Thursday LinkedIn "The Mid-Year Amendment Window" whiteboard vertical timeline messy infographic. The LinkedIn post copy decodes the five amendment clauses and the visual maps the Jun 18 → Oct 1 → Jan 1 timeline; the Field Note is the operational follow-on for using the amendment window mid-year. First-comment cross-promo on the Thursday LinkedIn lands here.
 **Why this pairing (not the displaced "Five Numbers" draft):** Architecture B triple-distinct topic rule — Monday W24 is H1/H2 Review (the metrics that drive renewal leverage); Thursday is Contract Amendment language (the mechanism by which mid-year findings turn into contract changes). Adjacent within renewal-prep family, different subject matter (metrics vs. clauses). Original "Five Numbers That Determine Your Renewal Leverage" Field Note parked as FN-07.
 
 ---
@@ -985,41 +985,18 @@ notes are the entire story — keep everything else quiet.
 Today's Field Note on Benefit Blind Spots is the operational follow-on: how to actually use the amendment window when H1 review surfaces a finding. Three steps (identify amendment-eligible findings, calculate the notice deadline, draft the amendment letter) and the pattern PBS finds across ~100 contract reviews per year. Plus a paste-ready Contract Amendment Letter Template you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Marked-Up Contract Page Image Generation Prompt
-
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed PBM contract page rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "§ 11.04 AMENDMENT AND MODIFICATION." Below the header, five vertically stacked clause entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
->
-> 1. **Amendment Trigger.** "Either party may propose an amendment upon Material Change in regulatory environment, performance guarantee miss, or formulary modification."
-> 2. **Notice Period.** "Proposed amendments shall be effective ninety (90) days following written notice to the non-proposing party."
-> 3. **Materiality Threshold.** "Material Change defined as five percent (5%) or greater impact on aggregate contract economics."
-> 4. **Fee Adjustment Authority.** "PBM may adjust administrative fees upon thirty (30) days written notice without Plan Sponsor consent."
-> 5. **Dispute Resolution.** "Disputed amendment requests subject to binding arbitration under American Arbitration Association rules."
->
-> Five handwritten red ballpoint annotations in the margins:
-> - Red circle around "Either party may propose" in clause 1, with red note: "Plan sponsor side, too"
-> - Red circle around "ninety (90) days" in clause 2, red note: "Mid-June for Q4 effective"
-> - Red circle around "five percent" in clause 3, red note: "Map your H1 findings"
-> - Red circle around "without Plan Sponsor consent" in clause 4, red note: "Default is PBM-favorable"
-> - Red circle around "binding arbitration" in clause 5, red note: "Read before sending letter"
->
-> Top of page, handwritten black marker double-underlined: "Five amendment clauses."
-> Below in red pen: "Most plan sponsors never invoke any of them."
-> Bottom of page, smaller red pen: "PBS reviews 100s of PBM contracts a year. The window is rarely used."
->
-> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white contract paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks, no people, no PBM names.
-
 ---
 
 ## Post 87 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 46 words
+**Word Count:** 61 words
 
 #### Reshare Copy
 
 ```
-Five amendment clauses decide whether your contract changes on your terms or the PBM's. Notice period, scope, trigger events, plan-sponsor consent, and reversion rights each turn discretionary unless the contract names them specifically.
+Most PBM contracts include a mid-year amendment clause. Most plan sponsors never invoke it. An H1 finding can become a contract change this year instead of waiting for renewal, but only if written notice goes out in time. For a January 1 effective date under a 90-day clause, that letter leaves by October 1.
 
-Ginny Crisp decodes the redline on each.
+Ginny Crisp maps the timeline.
 
 #PBMContracts #ContractLanguage #PharmacyBenefits
 ```
@@ -1062,89 +1039,131 @@ Get next Monday's deep dive on Renewal Countdown in your inbox: benefitblindspot
 ## Monday
 
 **Morning (7-8 AM) — Article Launch Teaser:**
+```
 New on Benefit Blind Spots this morning: the H1 review. We walk through the five metrics that determine your renewal leverage, how to calculate each one, and the renewal readiness scorecard. Your PBM has already run these numbers. Here is how to run your own.
 
 Read the full analysis: [LINK]
+```
 
 **Visual:** Quote-restack the strongest line from this week's deep dive article. Highlight the passage in the published Substack article, click the restack icon, then add your teaser text above the embedded quote card.
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
+```
 I started doing mid-year reviews because I kept seeing the same thing: plans that waited until renewal to look at their data and then had no time to act on what they found. Six months of spend, gone without any course correction. As a pharmacist I was trained to monitor and adjust. The same principle applies to benefit plans. You do not wait 12 months to check if the therapy is working.
+```
 
 **Afternoon (3-6 PM) — Origin Story #2:**
+```
 A client's CFO told me in June that renewal felt "months away." I asked him to pull up his calendar. Renewal was 90 days out. We spent the next 30 minutes mapping what had to happen in those 90 days. He was quiet afterward. The timeline always feels longer when you have not written it down. Putting the dates on paper is often enough to change the preparation rhythm.
+```
 
 ## Tuesday
 
 **Morning (7-8 AM) — Origin Story #1:**
+```
 The June renewal calendar I keep for clients has five standing items. I made that template after watching too many plans sprint through renewal without basic preparation. The template is boring. The outcomes are not. Structure beats inspiration in renewal work. The plans that follow the template outperform the plans that improvise. Every year.
+```
 
 **Midday (11 AM-1 PM) — Rotating Content (Industry Observation):**
+```
 The H1 data window is the most strategically valuable period in the pharmacy benefit cycle. It is also the most consistently underused. The data is fresh. Renewal is close enough to be relevant but far enough away to allow preparation. The employers who use this window build leverage. Those who let it pass lose it. The calendar does not wait for readiness.
+```
 
 **Afternoon (3-6 PM) — Origin Story #2:**
+```
 I had a benefits director ask me why her PBM's mid-year summary did not show the same numbers my independent analysis produced. The answer was methodology. Same underlying data, different calculation choices. I walked her through both. She stopped accepting the PBM's summary as the default report. She started asking questions at every quarterly meeting. The plan's negotiation position improved because she did.
+```
 
 ## Wednesday
 
 **Morning (7-8 AM) — Roundup Launch Teaser:**
+```
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
+```
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
+```
 The reason I push clients to do an H1 review every year is simple. I have seen what happens when they do not. By the time renewal hits, the leverage is gone. The data is stale. The decisions get rushed. My clinical training taught me that the best outcomes come from consistent monitoring, not annual check-ups. Pharmacy benefits are no different.
+```
 
 **Afternoon (3-6 PM) — Origin Story #2:**
+```
 A plan sponsor asked me to review her H1 numbers two days before a PBM meeting. The time pressure was real. I told her what I could deliver and what I could not in two days. She took the partial analysis. She still used it. She said afterward that even partial preparation had moved the meeting. The lesson: imperfect preparation beats no preparation, but perfect preparation beats both.
+```
 
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: the five numbers that determine your renewal leverage. Generic effective rate, PMPM trend, specialty concentration, rebate per brand claim, and high-cost claimant count. We walk through what each number means and what it tells you about your position.
+```
+New field note: the mid-year amendment window. Most PBM contracts let either party propose changes mid-term. Almost no plan sponsor ever uses it. We walk through the three steps: identify which H1 findings are amendment-eligible, calculate your notice deadline (for a January 1 effective date under a 90-day clause, the letter is out by October 1), and send the letter. A paste-ready Contract Amendment Letter Template is included.
 
 Read the field note: [LINK]
+```
 
 **Visual:** Quote-restack the strongest line from this week's field note. Highlight the passage in the published field note, click the restack icon, then add your teaser text above the embedded quote card.
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
+```
 I walked a client through generic effective rate for the first time and watched her face change mid-explanation. "My broker has never pulled this number for me," she said. Her broker is a good broker. This is not a broker story. It is a category story. GER is a pharmacy-specific metric that sits outside traditional benefits consulting tools. That gap is what created a market for this firm.
+```
 
 **Afternoon (3-6 PM) — Origin Story #2:**
+```
 A CFO told me he ran all his H1 data through a finance framework, not a pharmacy one. His spreadsheets were elegant. His conclusions were mostly wrong because they were missing the pharmacy-specific context. We rebuilt his model together. He was not doing anything poorly. He was doing finance. Pharmacy benefits sit in the overlap between finance and clinical. Both perspectives are needed.
+```
 
 ## Friday
 
 **Morning (7-8 AM) — Origin Story #1:**
+```
 June is not early. June is late. I repeat that line to clients who think preparation can wait. The window between H1 close and renewal season is where leverage is built or lost. The employers who benchmark now negotiate from data. Those who wait react to terms. That is the pattern that has held across every renewal season I have worked.
+```
 
 **Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
+```
 Next week on Benefit Blind Spots: the renewal countdown. Ninety days before renewal is the decision window. The PBM will have their proposal ready. Most plans do not have their framework ready. The week-by-week project plan for the ninety days that determine outcome.
+```
 
 **Afternoon (3-6 PM) — Origin Story #2:**
+```
 Early in my consulting career I worked with a plan sponsor who treated June like July. By September she was scrambling. We got a reasonable outcome, but not the outcome she could have gotten with three more months. That client taught me that preparation time is non-recoverable. You cannot borrow it back from the calendar. Start when the calendar says to start, not when the work feels urgent.
+```
 
 ## Saturday
 
 **Morning (8-9 AM) — Origin Story #1:**
+```
 My pharmacy school had a mentor who said, "monitoring is the unsexy half of pharmacy practice." He meant it as a compliment. Watching patients over time, catching drift, adjusting therapy. That is the work. The same unsexy monitoring is what makes a plan sponsor great at pharmacy benefits. H1 reviews are the plan-sponsor version of medication monitoring. They look boring. They are not.
+```
 
 **Midday (12-2 PM) — Rotating Content (Expertise Insight):**
+```
 The high-cost claimant count is the metric most employers overlook, and the one their stop-loss carrier watches most closely. Count members with total pharmacy claims exceeding $50,000 in H1 and separately those exceeding $100,000. Each member above $100,000 is a potential lasering candidate at renewal. Knowing this number before renewal terms arrive gives you and your broker time to prepare. Discovering it afterward gives you time to react.
+```
 
 **Afternoon (3-5 PM) — Origin Story #2:**
+```
 A client asked me once whether she should tell her PBM she was running her own H1 analysis. My answer was yes, casually. Not as an adversarial move, as a normal operating practice. The PBM adjusted immediately. The reporting got sharper. The meetings got more detailed. The simple act of being a prepared customer changed the vendor relationship. That works in any industry. It works here too.
+```
 
 ## Sunday
 
 **Morning (8-9 AM) — Origin Story #1:**
+```
 I spent an afternoon once teaching a new broker how to read H1 data the way I read it. She took notes. She asked good questions. A year later she called me to say that afternoon had changed how she worked with every client. That is the return on this work. Every person who learns to read the data becomes someone who can teach another person. The field gets better when the technique spreads.
+```
 
 **Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-The PMPM trend breakdown that changes renewal conversations: total PMPM growth breaks into three components — price trend (same drugs costing more), utilization trend (members using more drugs), and mix shift (members moving to higher-cost categories). Knowing which component drives your trend changes your response entirely. Price trend requires PBM negotiation. Utilization trend requires clinical programs. Mix shift requires formulary strategy.
+```
+The PMPM trend breakdown that changes renewal conversations: total PMPM growth breaks into three components. Price trend (same drugs costing more). Utilization trend (members using more drugs). Mix shift (members moving to higher-cost categories). Knowing which component drives your trend changes your response entirely. Price trend requires PBM negotiation. Utilization trend requires clinical programs. Mix shift requires formulary strategy.
+```
 
 **Afternoon (3-5 PM) — Origin Story #2:**
+```
 A benefits director emailed me late one night last June with a spreadsheet and a question: "Does this look right?" It did not look right. We got on a call the next morning and worked through it. She was not wrong. She was looking at the right numbers through the wrong lens. By the end of the call she had the lens. That email is still one of my favorites. People who ask late-night data questions are the people worth working with.
+```
 
 ## Engagement Reply Templates
 
@@ -1165,7 +1184,7 @@ Use these when engaging with other writers' content. Adapt to whatever they post
 
 > **Convention (see `x_account_strategy.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour reactions fired on top when PBM news breaks. **NOT locked to Monday's H1/H2-review topic.** X skews to the Cuban-bait shapes (dollar comparison, named-adversary, decoder, vertical integration) and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention) so they paste clean. Hold the PM slot loosely for a live news-reaction bump; tag the source.
 >
-> **LinkedIn-first rule (required):** (1) the **Tue contract-comparison carousel** (cost-pattern clauses) publishes Tue 8:30 AM, the Tue PM clause driver is scheduled AFTER it. (2) the **Thu Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel** publishes Thu 8:30 AM, its material does NOT appear in the Mon-Wed slots, and the Thu midday amplifier runs AFTER the 8:30 publish. AM slots lead with the named-adversary shape (the W21 performer's shape).
+> **LinkedIn-first rule (required):** (1) the **Tue contract-comparison carousel** (cost-pattern clauses) publishes Tue 8:30 AM, the Tue PM clause driver is scheduled AFTER it. (2) the **Thu "Mid-Year Amendment Window" whiteboard vertical timeline** publishes Thu 8:30 AM; its material (amendment clauses, the Oct 1 notice deadline) does NOT appear in the Mon-Wed slots, and the Thu midday amplifier runs AFTER the 8:30 publish. AM slots lead with the named-adversary shape (the W21 performer's shape).
 
 **Mon Jun 15**
 - **8:00 AM · named-adversary / vertical integration:**
@@ -1245,13 +1264,13 @@ The most profitable thing a PBM sells your plan isn't a drug. It's the definitio
 ```
 Every year your PBM "excludes" dozens of drugs from the formulary. The list looks clinical. Cross-reference it with which manufacturers paid the biggest rebates and the clinical logic gets clearer. Exclusion is a negotiating weapon, and your members are the leverage.
 ```
-- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot B "Same diagnosis. Same drug. Different out-of-pocket." carousel]`:**
+- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn post) `[VISUAL: "Mid-Year Amendment Window" whiteboard-timeline infographic]`:**
 ```
-Same diagnosis. Same drug. Two of your members. Wildly different out-of-pocket. The variable isn't health. It's which pharmacy the PBM steered each script to, and how the contract priced it. Today's breakdown:
+Your contract has an amendment clause. Your PBM hopes you never read it. An H1 finding can become a contract change this year, if the letter is out by Oct 1. Miss the window and the renewal writes your terms. Today's timeline:
 ```
   First reply (link):
 ```
-The five numbers that actually determine your renewal leverage are in today's field note: [paste live Field Note URL after Thu 7:30 AM publish]
+How to use the amendment window is in today's field note: the three steps, the Oct 1 deadline math, and a paste-ready Contract Amendment Letter Template. [paste live Field Note URL after Thu 7:30 AM publish]
 ```
 - **5:00 PM · punchy:**
 ```
@@ -1378,10 +1397,11 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 15-19 (FTC actio
 - [ ] LinkedIn Newsletter finalized and scheduled (Mon 7:45 AM)
 - [ ] Post 85 Library 03 Contract Comparison carousel designed and ready - "Three Clauses Behind the Cost Patterns That Surface at Mid-Year" (7 slides, matches Library 01/02 standard, Cost Containment pillar)
 - [ ] Post 85 - First comment drafted with link to LinkedIn Newsletter
-- [ ] Post 86 - "Your PBM Already Knows Your H1 Numbers. You Probably Do Not." text post ready (Wed 8:30 AM)
-- [ ] Post 87 - H1 Metrics Dashboard CAROUSEL (7 slides) designed and ready (Thu 8:30 AM)
+- [ ] Post 86 - SHRM Honest HR clip7 VIDEO uploaded with custom cover PNG thumbnail, Quarterly Reporting Checklist first comment ready (Wed 8:30 AM)
+- [ ] Post 87 - "Mid-Year Amendment Window" whiteboard vertical timeline generated, legibility-checked at ~400px, PBS logo added in Canva (Thu 8:30 AM)
 - [ ] Post 88 - Friday tease hook text post ready (Fri 8:30 AM)
-- [ ] All Substack Notes drafted (morning/afternoon cadence, Mon-Sat)
+- [ ] All Substack Notes loaded into Substack scheduler (3/day Mon-Sun, PART 4 code blocks; teaser [LINK]s filled after each piece publishes)
+- [ ] All PART 4B X posts loaded into X scheduler (35 posts; Tue 5 PM clause driver AFTER the Tue 8:30 AM LinkedIn carousel, Thu 12 PM amplifier AFTER the Thu 8:30 AM LinkedIn post)
 
 ## Post-Publication
 - [ ] Company reshare of Post 85 (Tue 1:30 PM)
@@ -1395,13 +1415,15 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 15-19 (FTC actio
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| "Contract Language That Changed Our Clients' Outcomes" messy infographic | Messy Infographic - before/after style, PBS branding | [ ] Design needed |
-| H1 Metrics Dashboard carousel (7 slides) | Carousel - PBS branding | [ ] Design needed |
-| Substack article header image | 2240x1260 | [ ] Design needed |
-| Substack Field Note header image | 2240x1260 | [ ] Design needed |
+| Library 03 Contract Comparison carousel (Post 85, Tue) | Carousel - Library NN redline aesthetic, 7 slides | [ ] Design needed |
+| SHRM clip7 video + cover PNG (Post 86, Wed) | 4:5 video + 1080x1350 cover thumbnail; 9:16 cross-post | [ ] Rendered locally |
+| "Mid-Year Amendment Window" whiteboard vertical timeline (Post 87, Thu) | Messy infographic photoreal, 1080x1350; in-scene headline + rxbs.org; Canva adds PBS logo only | [ ] Generate per PART 3 prompt |
+| "Your H1 Dashboard" in-article clean infographic (Mon deep dive) | Per PART 1 In-Article Visual spec | [ ] Design needed |
+| Substack article header image | 2240x1200 | [ ] Design needed |
+| Substack Field Note header image | 1200x600 final (generate 2240x1260) | [ ] Design needed |
 | LinkedIn Newsletter header | Standard | [ ] Design needed |
 
-> **NOTE:** Tuesday's messy infographic uses PBM Contracts pillar (different from newsletter's Transparency/Self-Funded Guidance pillar) to avoid cannibalization. Thursday's carousel carries the weekly H1/H2 review theme - 3 days of separation from the Monday newsletter.
+> **NOTE:** Tuesday's Library 03 carousel uses PBM Contract Insights pillar (different from the Monday newsletter topic) to avoid cannibalization. Thursday's whiteboard timeline carries the amendment-window topic, adjacent to but distinct from Monday's H1 metrics per the triple-distinct topic rule.
 
 ---
 
