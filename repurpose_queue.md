@@ -93,3 +93,20 @@ When a repurposed piece publishes, log it in the tracker under a new "Repurposed
 |--------------|---------------------|----------------|-------------------|----------------------|
 
 After one full repurpose cycle (about 6 months), evaluate whether repurposing delivers new reach or whether the audience has seen it. That data informs whether to extend the rotation schedule.
+
+---
+
+## Asset (added Jun 12, 2026): Specialty Routing — "Three pharmacies. One PBM."
+
+**Original:** Thu Jun 4, 2026 (W22). Photoreal pill-bottle single image + 5-clause decoder. **14,930 impressions mature** (4x its day-2 read), 18 saves, 17 followers (11.4/10K, decoder band), 36 profile viewers — fully organic in the summer trough.
+
+**Why it worked:** Named actor ("One PBM"), clause-level specificity, photoreal single-image Track A aesthetic, save-driven reference structure. Proof the Thursday Excellence profile clears the summer floor without an amplifier.
+
+### Repurpose schedule
+
+| Channel | Form | Timing | Hook angle |
+|---------|------|--------|------------|
+| X driver | Image + tightened copy, link in first reply to specialty-routing toolkit | Any open midday slot (LinkedIn already published, so LinkedIn-first rule satisfied) | "Three pharmacies. One PBM. The contract decides." |
+| Substack Note | Quote teaser + saves-count social proof | Once saves cross 20 | "18+ plan sponsors bookmarked this clause set" |
+| LinkedIn re-share with new commentary | Quote-share own post | Sep-Oct surge window | "Posted this in June. Renewal season is when it matters." |
+| Library NN candidate | Specialty routing provision family is in the Contract Library rotation | Next open Library slot | Full weak/strong redline treatment of the 5 clauses |
