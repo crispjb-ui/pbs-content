@@ -283,6 +283,8 @@ If you ask and can't get clear answers, that's your answer. From @SHRM's Honest 
 ```
 _First comment:_
 ```
+Full episode on SHRM's Honest HR podcast: https://www.youtube.com/watch?v=BZyuiWCY-08
+
 The 15 lines a complete PBM quarterly report should contain, free checklist → rxbs.org/toolkit/quarterly-reporting
 ```
 **X copy:**
