@@ -818,7 +818,9 @@ June is not early. June is late.
 #### First Comment
 
 ```
-The free Quarterly Reporting Checklist: 15 line items your PBM's report should contain, plus a paste-ready request to send your broker, so you get cost, rebates, and net cost in writing → rxbs.org/toolkit/quarterly-reporting
+This clip is one piece of a longer conversation. Watch the full episode on SHRM's Honest HR podcast: https://www.youtube.com/watch?v=BZyuiWCY-08
+
+And the free Quarterly Reporting Checklist that pins down cost, rebates, and net cost: rxbs.org/toolkit/quarterly-reporting
 ```
 
 ---
