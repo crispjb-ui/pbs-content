@@ -1034,7 +1034,7 @@ My HEALTH CARE un-covered debut: [POTTER ARTICLE LINK — paste the live URL onc
 
 Next Monday's deep dive on the 90-day Renewal Countdown lands here: benefitblindspots.substack.com
 ```
-_Publisher note: copy assumes the Opening "five revenue streams" map is the debut piece; if Piece 1 (Spread Pricing) ran instead, change "maps the five revenue streams…" to the spread-pricing line. By Friday the article is live, so paste the real URL into the first comment before posting._
+_Publisher note: confirmed the debut is the Opening "five revenue streams" map, so the copy above is locked. By Friday the article is live, so paste the real URL into the first comment before posting._
 
 ---
 
@@ -1104,7 +1104,7 @@ The pieces that follow argue each reform in turn.
 
 Read it here: [POTTER ARTICLE LINK — paste the live HEALTH CARE un-covered URL once published]
 ```
-_Publisher note: this replaces Wednesday's second origin-story Note for launch week. The displaced origin story ("imperfect preparation beats no preparation…") is preserved for reuse in a later week. Copy assumes the Opening map publishes tomorrow; if Piece 1 (Spread Pricing) runs first, swap the middle paragraph to the spread hook._
+_Publisher note: this replaces Wednesday's second origin-story Note for launch week. The displaced origin story ("imperfect preparation beats no preparation…") is preserved for reuse in a later week. Confirmed: the debut is the Opening "five revenue streams" map, so the copy above is locked._
 
 ## Thursday
 
@@ -1268,7 +1268,7 @@ Every PBM contract I audit runs five revenue streams through it. Plan sponsors s
 ```
 [POTTER ARTICLE LINK — paste the live HEALTH CARE un-covered URL here once the piece is published]
 ```
-  _Notes: tag Wendell Potter's handle in the post body if known (raises repost odds). Copy assumes tomorrow's piece is the Opening "five revenue streams" map; if Piece 1 (Spread Pricing) runs first, swap the hook to the spread line. Displaced "~80% of specialty spend" stat-shock is evergreen — park for a later open X slot._
+  _Notes: tag Wendell Potter's handle in the post body if known (raises repost odds). Confirmed: the debut is the Opening "five revenue streams" map, so the hook above is locked. Displaced "~80% of specialty spend" stat-shock is evergreen — park for a later open X slot._
 - **7:00 PM · question post [A10]:**
 ```
 Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
