@@ -1,203 +1,220 @@
 # Weekly RSS Feed Stories
 
-*Fetched: 2026-06-09 10:00 EDT. Lookback: past 7 days.*
+*Fetched: 2026-06-16 12:10 EDT. Lookback: past 7 days.*
 
 ---
 
 ## Drug Channels
 
-### The Top Pharmacy Benefit Managers of 2025: Market Share and Key Industry Developments (rerun)
-- **Date:** 2026-06-09
-- **URL:** https://feeds.feedblitz.com/~/957887372/0/drugchannels~The-Top-Pharmacy-Benefit-Managers-of-Market-Share-and-Key-Industry-Developments-rerun.html
-- **Summary:** This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders. Click here to see the original post from March 2026. By Adam J. Fein, Ph.D.Three is still the magic number for pharmacy benefit managers (PBMs). For 2025, 80% of all equivalent prescription claims were processed by three companies: the CVS Caremark business of CVS Health, the Express Scripts business of Cigna, and the O…
+### The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs
+- **Date:** 2026-06-16
+- **URL:** https://feeds.feedblitz.com/~/958084793/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html
+- **Summary:** By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change behavior in the system. New research in JAMA Health Forum reveals a significant reversal in Medicare Part D formulary coverage for MS drugs. After years of plans favoring brand-name drugs over generics, …
 
-### The Top 15 U.S. Pharmacies of 2025: Market Shares and Revenues at the Biggest Chains, PBMs, and Specialty Pharmacies (rerun)
-- **Date:** 2026-06-08
-- **URL:** https://feeds.feedblitz.com/~/957859412/0/drugchannels~The-Top-US-Pharmacies-of-Market-Shares-and-Revenues-at-the-Biggest-Chains-PBMs-and-Specialty-Pharmacies-rerun.html
-- **Summary:** This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders. Click here to see the original post from March 2026. By Adam J. Fein, Ph.D.Next week, the Drug Channels Institute (DCI) will release our 2026 Economic Report on U.S. Pharmacies and Pharmacy Benefit Managers. This 17th edition provides our most comprehensive and up-to-date examination of the U.S. drug pricing, reimbursem…
+### Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)
+- **Date:** 2026-06-12
+- **URL:** https://feeds.feedblitz.com/~/957976865/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html
+- **Summary:** This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders. Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing disconnect between the program’s size and the value Minnesotans receive in return. In 2024, nonprofit hospitals generated more than $1.3 billion in 340B net profits—nearly a billion dollars more than the…
 
-### Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight
-- **Date:** 2026-06-05
-- **URL:** https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html
-- **Summary:** Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufacturers identify hidden risks, improve program performance, and ensure that affordability resources reach the patients they are intended to support. Request a complimentary analysis from RIS Rx. Read …
+### The Top 15 Specialty Pharmacies of 2025: PBM-Affiliated Pharmacies Dominate While Health Systems and Independents Gain Ground (rerun)
+- **Date:** 2026-06-11
+- **URL:** https://feeds.feedblitz.com/~/957947492/0/drugchannels~The-Top-Specialty-Pharmacies-of-PBMAffiliated-Pharmacies-Dominate-While-Health-Systems-and-Independents-Gain-Ground-rerun.html
+- **Summary:** This week, we’re rerunning some popular posts while we prepare for tomorrow’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders. Click here to see the original post from April 2026. By Adam J. Fein, Ph.D.Drug Channels Institute’s (DCI’s) latest analysis reveals that PBM-affiliated specialty pharmacies continue to dominate the dispensing of specialty drugs. For 2025, DCI has identified more than 1,900 dispensing locations with specialty pharmacy…
+
+### Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update (rerun)
+- **Date:** 2026-06-10
+- **URL:** https://feeds.feedblitz.com/~/957919322/0/drugchannels~Mapping-the-Vertical-Integration-of-Insurers-PBMs-GPOs-Specialty-Pharmacies-and-Healthcare-Services-DCI%e2%80%99s-Update-rerun.html
+- **Summary:** This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders. Click here to see the original post from April 2026. By Adam J. Fein, Ph.D.It's time for Drug Channels Institute’s (DCI) annual update of vertical integration among insurers, PBMs, specialty pharmacies, and healthcare services within U.S. drug channels. As you can see below, we have updated and revised our infamous illu…
 
 ## KFF Health News
 
-### Trivia Nights, Valentine’s Cards: Overlooked Social Connections Can Prevent Suicide
-- **Date:** 2026-06-09
-- **URL:** https://kffhealthnews.org/mental-health/suicide-prevention-loneliness-social-connection-mental-health-eleven-minutes/
-- **Summary:** The research is clear: Among the various complex issues that contribute to suicide, loneliness is a big one. Now, there’s a growing push to address loneliness not just through personal choices but also through public policy.
+### Backed by Threat of Clawbacks, Feds Wield Tight Grip on $50B Rural Health Fund
+- **Date:** 2026-06-16
+- **URL:** https://kffhealthnews.org/rural-health/rural-health-transformation-program-federal-cms-clawbacks-state-plans/
+- **Summary:** Mehmet Oz, head of the Centers for Medicare &#38; Medicaid Services, framed the $50 billion Rural Health Transformation Program as “bold, creative plans” led by states. But as states have started to roll out their plans, federal officials control where and how the money is spent.
 
-### Could Your Kid Benefit From Counseling? Experts Offer 3 Questions To Help You Decide
-- **Date:** 2026-06-09
-- **URL:** https://kffhealthnews.org/mental-health/healthq-children-therapy-experts-help-parents-decide/
-- **Summary:** Anxious kids can benefit from counseling, but therapy demands a commitment of money and time. Therapists recommend using three criteria to help determine when challenging behavior rises to the level of needing professional help.
+### Early-Onset Cancers Are on the Rise. Knowing Your Family History Is Crucial.
+- **Date:** 2026-06-16
+- **URL:** https://kffhealthnews.org/news/healthq-early-onset-cancers-family-history/
+- **Summary:** In the U.S., more than a dozen kinds of cancer are on the rise among people under 50. The HealthQ team shares the latest guidance on being proactive with your family and doctor.
 
-### MAHA’s Treatments for Autism: Camel’s Milk, Stem Cell Injections — And Spelling Therapy
-- **Date:** 2026-06-08
-- **URL:** https://kffhealthnews.org/health-industry/autism-controversial-treatment-spelling-maha-telepathy/
-- **Summary:** Health secretary Robert F. Kennedy Jr.’s new autism panel is championing a controversial communication method popular among parents of severely autistic people. Critics warn of abuse — and fake “telepathy.”
+### Long-Awaited Rule Aims To Boost ACA Choices While Embracing Higher Deductibles
+- **Date:** 2026-06-15
+- **URL:** https://kffhealthnews.org/insurance/affordable-care-act-rule-more-choices-higher-deductibles/
+- **Summary:** The Trump administration finalized a rule that embraces new types of Obamacare coverage, including 30% higher out-of-pocket costs for some plans, and a more novel approach that allows insurers to offer coverage without set networks of doctors and hospitals.
 
-### By September, Nearly a Third of Americans Will Live in States With Legal Aid in Dying
-- **Date:** 2026-06-08
-- **URL:** https://kffhealthnews.org/aging/physician-assisted-death-suicide-medical-aid-in-dying-legal-new-york-illinois/
-- **Summary:** Despite widespread support in polls for legalizing aid in dying, the number of people who go through with the practice remains very small.
+### They’re Uninsured After Obamacare Became Too Costly. And They’re Far From Alone.
+- **Date:** 2026-06-15
+- **URL:** https://kffhealthnews.org/insurance/uninsured-obamacare-affordable-care-act-aca-canceled-coverage-north-carolina/
+- **Summary:** After congressional Republicans let expanded subsidies for Affordable Care Act plans expire at the end of last year, some families have decided the price is too great of a financial burden and canceled their coverage.
 
-### Gounder Fills In Details Behind Ebola, GLP-1, and Trump Headlines
-- **Date:** 2026-06-06
-- **URL:** https://kffhealthnews.org/on-air/on-air-june-6-2026-ebola-glp1s-trump-medical-exam-creatine-upf-food-dementia/
-- **Summary:** KFF Health News' editor-at-large for public health discussed Ebola, GLP-1 drugs, ultraprocessed food, and more in TV appearances this week.
+### Journalists Highlight Medical Neglect in ICE Detention, RFK Jr. Antidepressant Comments
+- **Date:** 2026-06-13
+- **URL:** https://kffhealthnews.org/on-air/on-air-june-13-2026-antidepressants-ice-medical-neglect-ebola-world-cup/
+- **Summary:** KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.
 
-### Untreated Cancer, Festering Infections: Immigrant Detainees Detail Medical Care Lapses
-- **Date:** 2026-06-05
-- **URL:** https://kffhealthnews.org/health-industry/the-week-in-brief-immigrant-ice-detainees-medical-neglect/
+### California Health Worker Union, Hospital Association Tout Dueling Ballot Initiatives
+- **Date:** 2026-06-12
+- **URL:** https://kffhealthnews.org/health-industry/the-week-in-brief-california-dueling-ballot-initiatives-union-hospital-association/
 - **Summary:** Get our weekly newsletter, The Week in Brief, featuring a roundup of our original coverage, Fridays at 2 p.m. ET.
 
-### Millions of Kids Could Lose Insurance as GOP Healthcare Cuts Start To Bite
-- **Date:** 2026-06-05
-- **URL:** https://kffhealthnews.org/insurance/health-hub-kids-lose-insurance-coverage-gop-healthcare-cuts/
-- **Summary:** Big cuts to healthcare programs in the 2025 GOP budget law are creating an affordability crunch for many Americans: Higher health insurance premiums. Confusion about who Medicaid will cover under the new rules. KFF Health News chief Washington correspondent Julie Rovner explains how the changes could leave nearly 2 million children uninsured.
+### 1 in 4 Covered California Enrollees Could Get State Aid Under Newsom Proposal
+- **Date:** 2026-06-12
+- **URL:** https://kffhealthnews.org/insurance/covered-california-aca-obamacare-insurance-premium-subsidies-affordability/
+- **Summary:** California is considering expanding financial help for low-income residents struggling to pay high health insurance premiums after losing federal subsidies. But relief for state marketplace customers will be limited. Here’s who may get help and what it could mean for premiums.
 
-### Upcoming Billing Change Could Make Pregnancy Pricier
-- **Date:** 2026-06-05
-- **URL:** https://kffhealthnews.org/health-care-costs/pregnancy-costs-billing-code-changes-maternity-care-childbirth-obgyn-obstetricians/
-- **Summary:** Come January, pregnancy care physician billing codes will change from a bundled system to an à la carte one. Many obstetricians say this approach will better reflect the amount and type of care they provide. But it could incentivize providers to pile on visits and services.
-
-### ‘We Live With Fear’: In Congo, Doctors Face Ebola With Little Protection
-- **Date:** 2026-06-05
-- **URL:** https://kffhealthnews.org/public-health/ebola-congo-virus-outbreak-drc-africa-health-workers-bundibugyo/
-- **Summary:** Travel bans and conflict have disrupted supply chains in the Democratic Republic of Congo, leaving health workers without Ebola tests and protective gear needed to contain the outbreak.
+### Final Rules for Medicaid Work Requirements Are Out. Here’s What You Need To Know.
+- **Date:** 2026-06-12
+- **URL:** https://kffhealthnews.org/medicaid/medicaid-work-requirements-final-rules-exemptions-trump-cms/
+- **Summary:** The Trump administration has laid out what millions of Americans on Medicaid must do to prove they’re working or completing other activities. Health policy researchers and consumer advocates say there are some important takeaways.
 
 ### Listen to the Latest ‘KFF Health News Minute’
-- **Date:** 2026-06-04
+- **Date:** 2026-06-11
 - **URL:** https://kffhealthnews.org/news/listen-kff-health-news-minute-2026/
-- **Summary:** The "KFF Health News Minute" brings original health care and health policy reporting from our newsroom to the airwaves each week.
+- **Summary:** The "KFF Health News Minute" brings original healthcare and health policy reporting from our newsroom to the airwaves each week.
+
+### Trump Bought Tobacco Stocks and Raked In Industry Donations as FDA Eased Standards
+- **Date:** 2026-06-11
+- **URL:** https://kffhealthnews.org/courts/fda-tobacco-vape-vaping-ecigarette-smoking-trump-investments-maga-donations/
+- **Summary:** The Trump administration has pursued an extensive pro-tobacco agenda as the president and his political movement have been buoyed by a flood of tobacco industry money, federal records show.
 
 ## STAT News - Pharma
 
-### STAT+: Pharmalittle: We’re reading about a $10.6 billion GSK deal, an AstraZeneca obesity pill, and more
-- **Date:** 2026-06-09
-- **URL:** https://www.statnews.com/pharmalot/2026/06/09/gsk-buying-nuvalent-cancer-drug-astrazeneca-obesity-pill-data/?utm_campaign=rss
-- **Summary:** GSK agreed to buy Nuvalent, a cancer drug developer, in a deal worth $10.6 billion, as the company continues its expansion in oncology
+### STAT+: ARCH-launched Neumora stops depression program
+- **Date:** 2026-06-16
+- **URL:** https://www.statnews.com/2026/06/16/biotech-news-arch-launched-neumora-stops-depression-program/?utm_campaign=rss
+- **Summary:** A new AI model to improve trial enrollment, importing drugs from Canada, and more biotech news from The Readout
 
-### STAT+: GSK to buy Nuvalent, maker of targeted cancer drugs, for $10.6B
-- **Date:** 2026-06-09
-- **URL:** https://www.statnews.com/2026/06/09/gsk-nuvalent-acquistion-oncology-lung-cancer-zidesamtinib-neladalkib/?utm_campaign=rss
-- **Summary:** GSK is buying Nuvalent, the maker of targeted cancer drugs, for $10.6 billion, a sizable addition to the latest run of biopharma acquisitions.
+### STAT+: Pharmalittle: We’re reading about Medicare and obesity drugs, Germany’s pricing plans, and more
+- **Date:** 2026-06-16
+- **URL:** https://www.statnews.com/pharmalot/2026/06/16/medicare-obesity-drugs-germany-pricing-plans/?utm_campaign=rss
+- **Summary:** Weight loss drugs will be available through Medicare starting next month, thanks to a program that is supposed to be temporary but may be difficult to end
 
-### STAT+: AstraZeneca’s GLP-1 pill shows promise in obesity, diabetes trials
-- **Date:** 2026-06-08
-- **URL:** https://www.statnews.com/2026/06/08/astrazeneca-obesity-diabetes-treatment-studies/?utm_campaign=rss
-- **Summary:** AstraZeneca’s GLP-1 pill showed promise in mid-stage obesity and diabetes studies, but it may still be too early to determine how it stacks up against other oral treatments.
+### STAT+: FDA approves Colorado’s plan to import cheaper drugs from Canada
+- **Date:** 2026-06-15
+- **URL:** https://www.statnews.com/pharmalot/2026/06/15/colorado-drug-imports-canada/?utm_campaign=rss
+- **Summary:** The FDA said it will allow Colorado to import certain prescription drugs from Canada in an effort to bring prices down for residents.
 
-### STAT+: Novo underwhelmed by drug it once fought Pfizer for
-- **Date:** 2026-06-08
-- **URL:** https://www.statnews.com/2026/06/08/biotech-news-novo-underwhelmed-by-drug-it-once-fought-pfizer-for/?utm_campaign=rss
-- **Summary:** Revolution and Tango yield promising cancer results, Incyte buys bleeding disorder drug, and more biotech news
+### STAT+: Trump’s obesity drug plan creates a temporary Medicare program that may be hard to end
+- **Date:** 2026-06-15
+- **URL:** https://www.statnews.com/2026/06/15/medicare-weight-loss-drugs-glp1-bridge-program-may-be-hard-to-end/?utm_campaign=rss
+- **Summary:** After July 1, Medicare will offer GLP-1 weight-loss drugs for $50. It's supposed to be temporary, but chances are it won't be.
 
-### STAT+: Pharmalittle: We’re reading about Lilly and Pfizer obesity drug data, Roche and J&J deals, and more
-- **Date:** 2026-06-08
-- **URL:** https://www.statnews.com/pharmalot/2026/06/08/lilly-pfizer-obesity-drug-trial-data-roche-deal/?utm_campaign=rss
-- **Summary:** Lilly disclosed new data that provide more details on the safety and tolerability of its next-generation obesity drug retatrutide
+### STAT+: A key European clinical trial registry lacks complete and timely results, an analysis finds
+- **Date:** 2026-06-15
+- **URL:** https://www.statnews.com/pharmalot/2026/06/15/european-clinical-trial-registry-results-analysis/?utm_campaign=rss
+- **Summary:** A new analysis found that results for less than half of the clinical studies registered in a key European database were reported within the required time frame.
 
-### STAT+: New data may cast doubt on competitiveness of Boehringer’s obesity drug
-- **Date:** 2026-06-07
-- **URL:** https://www.statnews.com/2026/06/07/boehringer-ingelheim-obesity-drug-survodutide-phase-3-data/?utm_campaign=rss
-- **Summary:** Boehringer Ingelheim’s obesity drug showed promise in cutting liver fat, but it was less impressive at overall weight loss, new data shows.
+### Covid vaccination cut risk of adverse heart events, large study finds
+- **Date:** 2026-06-15
+- **URL:** https://www.statnews.com/2026/06/15/covid-vaccination-cardiovascular-protection-jama-study/?utm_campaign=rss
+- **Summary:** Covid vaccination was also tied to a nearly 24% reduction in all-cause cardiac events in a large study, surprising researchers.
 
-### STAT+: Lilly shares safety, tolerability data on its next-gen obesity drug
-- **Date:** 2026-06-06
-- **URL:** https://www.statnews.com/2026/06/06/illy-retatrutide-triple-g-weight-loss-obesity-safety-data-ada/?utm_campaign=rss
-- **Summary:** Eli Lilly presented new safety and tolerability data on retatrutide at the annual meeting of the American Diabetes Association on Saturday.
+### STAT+: Lilly’s Ajax acquisition may have been worth it
+- **Date:** 2026-06-15
+- **URL:** https://www.statnews.com/2026/06/15/biotech-news-lilly-ajax-acquisition-may-have-been-worth-it/?utm_campaign=rss
+- **Summary:** A syphilis drug shortage, Sanofi's diabetes drug approval, and more biotech news from The Readout
 
-### STAT+: Detailed data show Pfizer’s monthly obesity drug continues to show potential
-- **Date:** 2026-06-06
-- **URL:** https://www.statnews.com/2026/06/06/pfizer-obesity-drug-berobenatide-metsera-results/?utm_campaign=rss
-- **Summary:** Detailed data from a midstage study offered further evidence that the obesity drug Pfizer acquired from the biotech Metsera could be dosed monthly.
+### STAT+: Pharmalittle: We’re reading about Pfizer’s emergency penicillin program, a Sanofi diabetes drug, and more
+- **Date:** 2026-06-15
+- **URL:** https://www.statnews.com/pharmalot/2026/06/15/pfizer-emergency-penicillin-program-sanofi-diabetes-drug/?utm_campaign=rss
+- **Summary:** Pfizer hasn't complied with a request to donate emergency penicillin to state health agencies as a backstop to prevent congenital syphilis
 
-### STAT+: Will Makary’s FDA voucher program survive?
-- **Date:** 2026-06-05
-- **URL:** https://www.statnews.com/2026/06/05/biotech-news-will-makarys-fda-voucher-program-survive/?utm_campaign=rss
-- **Summary:** RevMed's cancer drug feels out of reach for some, SCOTUS preserves key generic drug pathway, and more biotech news
+### STAT+: Amid confusion over Pfizer’s emergency penicillin program, newborn is diagnosed with preventable syphilis
+- **Date:** 2026-06-15
+- **URL:** https://www.statnews.com/2026/06/15/pfizer-bicillin-shortage-preventable-congenital-syphilis-surging/?utm_campaign=rss
+- **Summary:** Congenital syphilis should be preventable. An Arizona case shows how drug shortages and procedural hurdles are fueling a growing public health crisis.
 
 ### STAT+: Up and down the ladder: The latest comings and goings
-- **Date:** 2026-06-05
-- **URL:** https://www.statnews.com/pharmalot/2026/06/05/jobs-up-and-down-the-ladder-latest-comings-and-goings/?utm_campaign=rss
+- **Date:** 2026-06-12
+- **URL:** https://www.statnews.com/pharmalot/2026/06/12/up-and-down-the-ladder-job-changes-astrazeneca-bayer/?utm_campaign=rss
 - **Summary:** From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
 
-### STAT+: Pharmalittle: We’re reading about Roche accusing U.S. of ‘blackmail,’ a ruling on skinny labels, and more
-- **Date:** 2026-06-05
-- **URL:** https://www.statnews.com/pharmalot/2026/06/05/roche-calls-trump-policy-blackmail-supreme-court-rules-on-skinny-labels/?utm_campaign=rss
-- **Summary:** Drugmakers and patient groups asked the FDA to pause former commissioner Marty Markary's National Priority Voucher drug review program
+### STAT+: Prometheus raises $12 billion in capital for artificial engineers
+- **Date:** 2026-06-12
+- **URL:** https://www.statnews.com/2026/06/12/biotech-news-prometheus-raises-12-billion-for-artificial-engineers/?utm_campaign=rss
+- **Summary:** Nonprofit Blood Cancer United acquires cancer drug, Lilly and Nvidia invest in Abridge, and more biotech news
 
-### STAT+: Drug companies, patient groups urge FDA to pause commissioner’s voucher program
-- **Date:** 2026-06-04
-- **URL:** https://www.statnews.com/2026/06/04/fda-commissioners-voucher-program-town-hall-pharma-patients-urge-pause/?utm_campaign=rss
-- **Summary:** The White House has used the program to reward companies that help its political goals.
+### STAT+: Pharmalittle: We’re reading about a discontinued cancer drug, a Novo security breach, and more
+- **Date:** 2026-06-12
+- **URL:** https://www.statnews.com/pharmalot/2026/06/12/nonprofit-buys-discontinued-cancer-drug-novo-security-breach/?utm_campaign=rss
+- **Summary:** The nonprofit Blood Cancer United is buying the remaining supplies of a discontinued investigational cancer drug, Luvelta
 
-### STAT+: Otsuka kidney drug slowed loss of function, but less than expected, in late-stage trial
-- **Date:** 2026-06-04
-- **URL:** https://www.statnews.com/2026/06/04/otsuka-kidney-drug-voyxact-study-results/?utm_campaign=rss
-- **Summary:** Otsuka’s Voyxact slowed the loss of kidney function after one year in patients with a chronic autoimmune kidney disease, but the benefit was less than expected.
+### STAT+: A suspicious denial pattern in Medicare Advantage
+- **Date:** 2026-06-11
+- **URL:** https://www.statnews.com/2026/06/11/medicare-advantage-prior-authorization-denials-trustees-report-prescription-drug-costs/?utm_campaign=rss
+- **Summary:** Major Medicare Advantage plans almost always reversed their denials on appeal, raising big questions about barriers to care.
 
-### STAT+: Supreme Court backs generic drugmaker in ‘skinny labeling’ case
-- **Date:** 2026-06-04
-- **URL:** https://www.statnews.com/pharmalot/2026/06/04/hikma-amarin-generics-skinny-labeling-supreme-court/?utm_campaign=rss
-- **Summary:** The Supreme Court unanimously ruled that Hikma Pharmaceutical did not infringe patents held by Amarin in a decision with implications for lawsuits over so-called skinny labels.
+### STAT+: Novartis doubles down on molecular glue strategy
+- **Date:** 2026-06-11
+- **URL:** https://www.statnews.com/2026/06/11/biotech-news-novartis-doubles-down-on-molecular-glue-strategy/?utm_campaign=rss
+- **Summary:** Seniors' drug costs rise sharply, Enliven's leukemia drugs, and more biotech news from The Readout
 
-### STAT+: For pancreatic cancer patients, an exciting drug can feel out of reach
-- **Date:** 2026-06-04
-- **URL:** https://www.statnews.com/pharmalot/2026/06/04/revolution-medicines-pancreatic-cancer-drug-daraxonrasib-heavy-demand/?utm_campaign=rss
-- **Summary:** For pancreatic cancer patients, the surge in interest for an exciting new drug is leaving them fearful about when they might get the treatment or if there will be enough&#8230;
+### STAT+: Pharmalittle: We’re reading about employer coverage of obesity drugs, another Sanofi setback, and more
+- **Date:** 2026-06-11
+- **URL:** https://www.statnews.com/pharmalot/2026/06/11/employer-overage-of-obesity-drugs-another-sanofi-setback/?utm_campaign=rss
+- **Summary:** More employers are planning to drop coverage of GLP-1 drugs for weight loss next year as increasing numbers of people take the medications
 
-### STAT+: RFK Jr.’s second year: Vacancies, not vaccines
-- **Date:** 2026-06-04
-- **URL:** https://www.statnews.com/2026/06/04/kennedy-hhs-challenges-wins-politics-nih-schedule-f-dc-diagnosis/?utm_campaign=rss
-- **Summary:** Assessing the health secretary's biggest challenges, and a look at new rules that inject politics into the NIH.
+### STAT+: ‘Synthetic lethality’ could trigger another round of biotech M&A
+- **Date:** 2026-06-11
+- **URL:** https://www.statnews.com/2026/06/11/synthetic-lethality-cancer-tango-revolution/?utm_campaign=rss
+- **Summary:** Proving out a "synthetic lethality" approach can help treat cancer will take a lot more work. It also might trigger some creative deal-making.
 
-### STAT+: AI titans push Congress for DNA safeguards
-- **Date:** 2026-06-04
-- **URL:** https://www.statnews.com/2026/06/04/biotech-news-ai-titans-push-congress-to-dna-safeguards/?utm_campaign=rss
-- **Summary:** Inceptive Nucleics and Alnylam's partnership, why Grail's "failed" trial still matters, and other biotech news from The Readout
+### STAT+: Hope for Kendall Square’s lab market
+- **Date:** 2026-06-10
+- **URL:** https://www.statnews.com/2026/06/10/biotech-news-hope-for-kendall-squares-lab-market/?utm_campaign=rss
+- **Summary:** Drug pricing in Europe, AI deals for VC firms, and more biotech news from The Readout
 
-### STAT+: Pharmalittle: We’re reading about fewer pharma investments in Germany, growing U.S. layoffs, and more
-- **Date:** 2026-06-04
-- **URL:** https://www.statnews.com/pharmalot/2026/06/04/fewer-pharma-investments-in-germany-growing-layoffs-in-us/?utm_campaign=rss
-- **Summary:** Eli Lilly is halving its originally planned investment in the production of weight loss syringes in Germany in response to a cost-cutting law
+### STAT+: Pharmalittle: We’re reading about U.S. pressure on European drug prices, longer shortages, and more
+- **Date:** 2026-06-10
+- **URL:** https://www.statnews.com/pharmalot/2026/06/10/american-pressure-on-european-drug-prices-longer-shortages/?utm_campaign=rss
+- **Summary:** A new analysis found the average drug shortage in 2025 had lasted 5.3 years, exceeding the 4.3 years seen in 2024
 
-### STAT+: Legend Biotech emerged as a rare market winner
-- **Date:** 2026-06-03
-- **URL:** https://www.statnews.com/2026/06/03/biotech-news-legend-biotech-emerges-as-rare-market-winner/?utm_campaign=rss
-- **Summary:** New guidance for gene therapy developers, Lilly's deal for kidney drugs, and more biotech news from The Readout
+### STAT+: As the U.S. looks on, European countries feel growing pressure on drug prices
+- **Date:** 2026-06-10
+- **URL:** https://www.statnews.com/2026/06/10/european-drug-pricing-most-favored-nation-impact/?utm_campaign=rss
+- **Summary:** In Europe, two divergent paths are emerging as countries grapple with what to do about drug prices, affecting both pharma and patients — and testing the influence of the U.S.
 
-### STAT+: Pharmalittle: We’re reading about GLP-1 drugs and knees, FDA cell and gene therapy guidance, and more
-- **Date:** 2026-06-03
-- **URL:** https://www.statnews.com/pharmalot/2026/06/03/weight-loss-drugs-knee-replacements-fda-cell-gene-therapy/?utm_campaign=rss
-- **Summary:** Taking weight loss drugs for at least three years could prevent thousands of knee replacements a year, a new study found
+### STAT+: The shortage of many medicines in the U.S. remains a ‘systemic’ problem, a new analysis finds
+- **Date:** 2026-06-09
+- **URL:** https://www.statnews.com/pharmalot/2026/06/09/drug-shortages-systemic-problem-analysis/?utm_campaign=rss
+- **Summary:** The number of prescription drug shortages in the U.S. fell by 23% last year, but a new analysis found other troubling signs about medicines in short supply.
 
 ## PCMA Blog
 
-### PCMA Releases Policy Platform, Urging Legislators to Take Action to Lower Drug Costs for American Families
-- **Date:** 2026-06-09
-- **URL:** https://www.pcmanet.org/press-releases/pcma-releases-policy-platform/
-- **Summary:** Today, the Pharmaceutical Care Management Association (PCMA) released the “Path to Patient Affordability,” a policy platform with six ways federal and state policymakers can help make the health care system more affordable for patients. Market-responsive innovation and landmark PBM reform have reshaped the industry in recent years. Yet, prescription drug prices remain far too high [&#8230;] The post PCMA Releases Policy Platform, Urging Legislators to Take Action to Lower Drug Costs for America…
+### PCMA Files Lawsuit to Stop Harmful Tennessee Forced Pharmacy Closure Legislation
+- **Date:** 2026-06-16
+- **URL:** https://www.pcmanet.org/press-releases/pcma-files-lawsuit-to-stop-harmful-tennessee-forced-pharmacy-closure-legislation/
+- **Summary:** (NASHVILLE, TN) – The Pharmaceutical Care Management Association (PCMA) filed a complaint for declaratory and injunctive relief in the U.S. District Court for the Middle District of Tennessee related to the unconstitutional, harmful forced pharmacy closure bill, Senate Bill 2040. After filing the lawsuit, David Marin, President and CEO of PCMA, made the following statement: [&#8230;] The post PCMA Files Lawsuit to Stop Harmful Tennessee Forced Pharmacy Closure Legislation first appeared on PCMA.
 
-### PCMA’s David Marin to Join Punchbowl News Event on Expanding Access to Lower Cost Prescription Drugs
-- **Date:** 2026-06-08
-- **URL:** https://www.pcmanet.org/pcma-blog/pcmas-david-marin-to-join-punchbowl-news-event-on-expanding-access-to-lower-cost-prescription-drugs/
-- **Summary:** Tomorrow, David Marin, president and CEO of PCMA, will join Punchbowl News founder Jake Sherman for a fireside chat. Senator Rick Scott (R-FL) will headline the “Pop-Up Conversation,” which will focus on efforts to expand access to generic and biosimilar prescription drugs. The event kicks off at 8:30am in Washington, D.C. and will be livestreamed. Register HERE to join in-person or virtually. The discussion comes as momentum grows for Congress to take action on policies that can [&#8230;] The …
+### When Done Right, Prior Authorization Protects Patients and Lowers Costs
+- **Date:** 2026-06-15
+- **URL:** https://www.pcmanet.org/pcma-blog/when-done-right-prior-authorization-protects-patients-and-lowers-costs/
+- **Summary:** Did you know? Every time a doctor prescribes medication, your pharmacy benefit manager (PBM) is working behind the scenes to protect your health and lower your costs. PBMs deploy advanced tools to help doctors and patients make more informed decisions when prescribing drugs, including Real Time Benefit Tools (RTBT) and electronic prior authorization (ePA). Recently, PBMs have worked closely with employers and health insurers to improve their electronic [&#8230;] The post When Done Right, Prior …
 
-### PCMA to House Judiciary Committee: Deliver Affordability by Stopping Big Drugmaker Patent Abuse
-- **Date:** 2026-06-04
-- **URL:** https://www.pcmanet.org/pcma-blog/pcma-to-house-judiciary-committee-deliver-affordability-by-stopping-big-drugmaker-patent-abuse/
-- **Summary:** Today, the House Judiciary Subcommittee on Courts, Intellectual Property, Artificial Intelligence, and the Internet is holding a hearing, &#8220;Medicines and IP: Balancing Innovation and Access,” to examine the patent system for prescription drugs and access to generics and biosimilars. In a statement submitted for the record, PCMA urged policymakers to address Big Pharma’s War on Generics and focus [&#8230;] The post PCMA to House Judiciary Committee: Deliver Affordability by Stopping Big Dru…
+### DOL’s Harmful Proposed Rule Threatens to Undermine Trump Administration’s Efforts to Promote Affordability and Lower Drug Costs
+- **Date:** 2026-06-11
+- **URL:** https://www.pcmanet.org/pcma-blog/dols-harmful-proposed-rule-undermines-affordability/
+- **Summary:** President Trump, his Administration, and Congress have been busy taking meaningful steps toward making prescription drugs more affordable and accessible. Just this week, new health care affordability czar Casey Mulligan announced that the Administration’s policy goal is “better health and lower costs with more control in the hands of patients and families.” However, a redundant, [&#8230;] The post DOL’s Harmful Proposed Rule Threatens to Undermine Trump Administration’s Efforts to Promote Affor…
 
-### Missing from the VI Debate: Data That Shows It’s A Problem
-- **Date:** 2026-06-03
-- **URL:** https://www.pcmanet.org/pcma-blog/missing-from-the-vi-debate-data-that-shows-its-a-problem/
-- **Summary:** By Amanda Frost, PhD Vice President, Research, PCMA Concerns about high health care costs are prevalent and appropriate, but can be often focused on the wrong place. Vertical integration (VI) is one area that is receiving attention from state and federal policymakers, with a focus on health insurers, pharmacy benefit managers (PBMs), and pharmacies. But the rhetoric around VI’s costs is increasingly disconnected from the data. Evidence of this has come in a new report from the Department of Hea…
+### The Path to Patient Affordability: A Roadmap for Lowering Drug Costs
+- **Date:** 2026-06-11
+- **URL:** https://www.pcmanet.org/pcma-blog/the-path-to-patient-affordability-deeper-dive/
+- **Summary:** This week, PCMA released The Path to Patient Affordability, a six-part policy blueprint for federal and state policymakers to make prescription drugs more affordable and transparent for patients and employers. Politico framed the policies as an opportunity for lawmakers to go beyond the recently enacted PBM reform, writing: “The pitch comes after the practices of PBMs, which negotiate with [&#8230;] The post The Path to Patient Affordability: A Roadmap for Lowering Drug Costs first appeared on …
 
-### New Campaign on the Value of PBMs Launches with a Bang
-- **Date:** 2026-06-03
-- **URL:** https://www.pcmanet.org/pcma-blog/new-campaign-on-the-value-of-pbms-launches-with-a-bang/
-- **Summary:** PBMs are back – and they’re everywhere this week. Following the launch of a new advertising campaign, media outlets are taking notice. A new video ad from PCMA, Mom’s Medicine, highlights how PBMs help families afford the medication they need. Bloomberg was first to scoop the new advertising campaign, calling it “a kickoff point for a messaging rebrand.” They sat down with David Marin, President and CEO of PCMA, who shared the motivation behind [&#8230;] The post New Campaign on the Value of PB…
+### PCMA Advances the Conversation on Drug Affordability at Punchbowl News Event
+- **Date:** 2026-06-10
+- **URL:** https://www.pcmanet.org/pcma-blog/pcma-advances-the-conversation-on-drug-affordability-at-punchbowl-news-event/
+- **Summary:** Yesterday, David Marin, President and CEO of the Pharmaceutical Care Management Association (PCMA), joined Punchbowl News founder Jake Sherman along with Sen. Rick Scott (R-FL) for a discussion about expanding access to lower-cost drugs for American families. Watch the Punchbowl Conversation Marin highlighted how pharmacy benefit managers (PBMs) are committed to increasing access to generics and biosimilars, and [&#8230;] The post PCMA Advances the Conversation on Drug Affordability at Punchbow…
+
+## Google Alert - Pharmacy Benefit Manager + lawsuit
+
+### Five laws passed by Tennessee lawmakers in 2026 face legal challenges, so far
+- **Date:** 2026-06-15
+- **URL:** https://www.google.com/url?rct=j&sa=t&url=https://tennesseelookout.com/2026/06/15/five-laws-passed-by-tennessee-lawmakers-in-2026-face-legal-challenges-so-far/&ct=ga&cd=CAIyGjExYmQzNzYyYmNkMTJjOTE6Y29tOmVuOlVT&usg=AOvVaw1ckfohio_9hN9eqv-C36Ng
+- **Summary:** ... sued the state in federal court over the law this week. CVS sues Tennessee over pharmacy benefit manager monopoly law. Other lawsuits this year&nbsp;...
+
+### Express Scripts <b>sues</b> Tennessee over PBM law | Healthcare Finance News
+- **Date:** 2026-06-15
+- **URL:** https://www.google.com/url?rct=j&sa=t&url=https://www.healthcarefinancenews.com/news/express-scripts-sues-tennessee-over-pbm-law&ct=ga&cd=CAIyGjExYmQzNzYyYmNkMTJjOTE6Y29tOmVuOlVT&usg=AOvVaw3gW_gKpWLBq1lWemeQpOZv
+- **Summary:** FAIR Rx Act bars any pharmacy affiliated with a pharmacy benefit manager and an insurer from operating or dispensing medications in the state.
