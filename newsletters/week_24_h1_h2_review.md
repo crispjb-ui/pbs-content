@@ -27,8 +27,8 @@
 | Wed Jun 17 | 8:00 AM | X (Twitter) | named-adversary / rebate incentive | [ ] |
 | Wed Jun 17 | 8:30 AM | LinkedIn Feed | Post 86 - "Demand These 3 Numbers" SHRM Honest HR clip7 VIDEO (4:5 native; reporting / net cost) | [ ] |
 | Wed Jun 17 | 12:00 PM | X (Twitter) | decoder (effective rate guarantee) | [ ] |
-| Wed Jun 17 | Afternoon | Substack Notes | Note #2 - Pull quote insight | [ ] |
-| Wed Jun 17 | 5:00 PM | X (Twitter) | stat-shock / structural | [ ] |
+| Wed Jun 17 | Afternoon | Substack Notes | Note #2 - Wendell Potter debut launch (POST ONCE ARTICLE LIVE) | [ ] |
+| Wed Jun 17 | 5:00 PM | X (Twitter) | Wendell Potter debut announcement (FIRE WHEN ARTICLE LIVE; link in first reply) | [ ] |
 | Wed Jun 17 | 7:00 PM | X (Twitter) | question post [A10] | [ ] |
 | Wed Jun 17 | 8:30 PM | X (Twitter) | aphorism [C2] | [ ] |
 | Thu Jun 18 | 7:30 AM | Substack | Field Note: "Auditing Your Mid-Year Contract Amendment Window" | [ ] |
@@ -41,7 +41,7 @@
 | Thu Jun 18 | 7:00 PM | X (Twitter) | question post [A11] | [ ] |
 | Thu Jun 18 | 8:30 PM | X (Twitter) | one question [B2] | [ ] |
 | Fri Jun 19 | 8:00 AM | X (Twitter) | named-adversary / specialty funnel | [ ] |
-| Fri Jun 19 | 8:30 AM | LinkedIn Feed | Post 88 - "What Q3 Will Bring" Tease Hook (TEXT) | [ ] |
+| Fri Jun 19 | 8:30 AM | LinkedIn Feed | Post 88 - Wendell Potter debut intro + "What Q3 Will Bring" Tease Hook (TEXT; Potter link in first comment) | [ ] |
 | Fri Jun 19 | 12:00 PM | X (Twitter) | decoder (pass-through vs transparent) | [ ] |
 | Fri Jun 19 | Afternoon | Substack Notes | Note #4 - Industry observation | [ ] |
 | Fri Jun 19 | 5:00 PM | X (Twitter) | synthesis / forward (Q3 tie-in, after the 8:30 AM Friday tease) | [ ] |
@@ -1006,31 +1006,35 @@ Ginny Crisp maps the timeline.
 ---
 
 ## Post 88 - Friday 8:30 AM
-### "What Q3 Will Bring" Tease Hook (Text)
+### "What Q3 Will Bring" Tease Hook + Wendell Potter Debut Intro (Text)
 
-**Format:** Text Post (Tease Hook)
+**Format:** Text Post (Tease Hook, opens with the Potter debut)
 **Pillar:** Transparency
-**Word Count:** 72 words
+**Word Count:** ~115 words
+**Why the pivot:** the Wednesday SHRM clip stayed clean (no Potter dependency), and the Potter article's publish time wasn't controllable; by Friday it's unambiguously live, so this is the timing-safe LinkedIn feed introduction. It bridges the debut into the Q3 renewal cascade that opens Monday (W25), without touching Thursday's protected Excellence slot.
 
 #### Post Copy
 
 ```
-Your PBM's renewal team is already working. They have your H1 data. They have modeled scenarios. They know which terms they can move on and which they will hold firm.
+This week I debuted as a contributing author at Wendell Potter's HEALTH CARE un-covered. My first piece maps the five revenue streams running through every PBM contract, and the reform each one needs. The pieces that follow argue each reform in turn.
 
-Your preparation should be at the same stage. If it is not, the next 90 days determine whether you negotiate from your own data or from their narrative.
+That map is the policy view. The plan-sponsor view starts Monday.
 
 Q3 on Benefit Blind Spots is built around one arc: renewal preparation. Formulary evaluation. PBM market assessment. Network design. Rebate economics. RFP strategy. Contract language. Negotiation tactics.
 
 Thirteen weeks. Every tool you need before you sit across from your PBM.
 
-The employers who prepare through the summer negotiate different outcomes in the fall. Every year, I watch the same pattern. Next week: the 90-day renewal countdown begins.
+The employers who prepare through the summer negotiate different outcomes in the fall. Next week: the 90-day renewal countdown begins.
 ```
 
 #### First Comment
 
 ```
-Get next Monday's deep dive on Renewal Countdown in your inbox: benefitblindspots.substack.com
+My HEALTH CARE un-covered debut: [POTTER ARTICLE LINK — paste the live URL once published]
+
+Next Monday's deep dive on the 90-day Renewal Countdown lands here: benefitblindspots.substack.com
 ```
+_Publisher note: copy assumes the Opening "five revenue streams" map is the debut piece; if Piece 1 (Spread Pricing) ran instead, change "maps the five revenue streams…" to the spread-pricing line. By Friday the article is live, so paste the real URL into the first comment before posting._
 
 ---
 
@@ -1090,10 +1094,17 @@ Read the roundup: [LINK]
 The reason I push clients to do an H1 review every year is simple. I have seen what happens when they do not. By the time renewal hits, the leverage is gone. The data is stale. The decisions get rushed. My clinical training taught me that the best outcomes come from consistent monitoring, not annual check-ups. Pharmacy benefits are no different.
 ```
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Wendell Potter Debut Launch (POST ONCE THE ARTICLE IS LIVE):**
 ```
-A plan sponsor asked me to review her H1 numbers two days before a PBM meeting. The time pressure was real. I told her what I could deliver and what I could not in two days. She took the partial analysis. She still used it. She said afterward that even partial preparation had moved the meeting. The lesson: imperfect preparation beats no preparation, but perfect preparation beats both.
+Some news: I've joined Wendell Potter's HEALTH CARE un-covered as a contributing author, and my first piece is live today.
+
+It's the map I wish every plan sponsor had before they signed: the five revenue streams running through every PBM contract, and the reform each one needs. Every contract I audit has all five. Most plan sponsors only see the smallest one clearly named.
+
+The pieces that follow argue each reform in turn.
+
+Read it here: [POTTER ARTICLE LINK — paste the live HEALTH CARE un-covered URL once published]
 ```
+_Publisher note: this replaces Wednesday's second origin-story Note for launch week. The displaced origin story ("imperfect preparation beats no preparation…") is preserved for reuse in a later week. Copy assumes the Opening map publishes tomorrow; if Piece 1 (Spread Pricing) runs first, swap the middle paragraph to the spread hook._
 
 ## Thursday
 
@@ -1247,10 +1258,17 @@ The higher the list price, the bigger your PBM's rebate. So when a manufacturer 
 ```
 "Effective rate guarantee" sounds like price protection. It's an average. The PBM hits the average by deep-discounting drugs nobody uses and marking up the ones everybody does. The guarantee is real. The savings are not.
 ```
-- **5:00 PM · stat-shock / structural:**
+- **5:00 PM · Wendell Potter debut announcement — FIRE ONLY ONCE THE ARTICLE IS LIVE** (the article may publish after the 8:30 AM clip; if it's live earlier, move this up to midday):
 ```
-Around 80% of U.S. specialty drug spend now flows through pharmacies the PBMs own. That share didn't grow because those pharmacies are better. It grew because the same companies write the rules that send the scripts there.
+New today: my first piece for Wendell Potter's HEALTH CARE un-covered.
+
+Every PBM contract I audit runs five revenue streams through it. Plan sponsors see one clearly named, and it's the smallest. I mapped all five, and the reform each one needs.
 ```
+  _First reply (paste the live link once published):_
+```
+[POTTER ARTICLE LINK — paste the live HEALTH CARE un-covered URL here once the piece is published]
+```
+  _Notes: tag Wendell Potter's handle in the post body if known (raises repost odds). Copy assumes tomorrow's piece is the Opening "five revenue streams" map; if Piece 1 (Spread Pricing) runs first, swap the hook to the spread line. Displaced "~80% of specialty spend" stat-shock is evergreen — park for a later open X slot._
 - **7:00 PM · question post [A10]:**
 ```
 Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
