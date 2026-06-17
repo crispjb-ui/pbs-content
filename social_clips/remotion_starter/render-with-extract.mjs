@@ -5,7 +5,7 @@
 // Prereq: the episode video at public/<manifest.sourceVideo>  (default public/source.mp4)
 //         ffmpeg on PATH
 import { execSync } from "node:child_process";
-import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync } from "node:fs";
+import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync, copyFileSync } from "node:fs";
 
 const manifestPath = process.argv[2] || "../honest-hr-shrm_2026-06-09_clips.json";
 const m = JSON.parse(readFileSync(manifestPath, "utf8"));
@@ -76,7 +76,7 @@ for (const f of FORMATS) {
     const segSrc = `.tmp/seg_${clip.id}.mp4`;
     const segDst = `public/seg_${clip.id}.mp4`;
     if (!existsSync(segDst)) {
-      execSync(`cp "${segSrc}" "${segDst}"`);
+      copyFileSync(segSrc, segDst); // cross-platform (was `cp`, which is Unix-only / fails on Windows)
     }
 
     const props = { sourceVideo: `seg_${clip.id}.mp4`, fps, clip: adjustedClip };
