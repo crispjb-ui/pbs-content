@@ -2138,7 +2138,13 @@
       "audioFade": {
         "startSec": 1149.3,
         "endSec": 1150
-      }
+      },
+      "fitWindows": [
+        {
+          "startSec": 1137,
+          "endSec": 1147
+        }
+      ]
     },
     {
       "id": "clip5",
