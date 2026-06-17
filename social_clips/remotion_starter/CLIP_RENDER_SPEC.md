@@ -119,10 +119,15 @@ commit + push to main.
    Implementation in Clip.tsx: SAFE_X (~11% width) for the name-plate inset + the
    caption block (left/right + maxWidth = width - 2*SAFE_X, captions CENTERED per
    lesson 3); SAFE_CORNER (~6%) for the logo's side inset; SAFE_TOP (~13% height)
-   pushes the logo AND the "As seen on" badge below the header band, and the badge
-   is inset from the right by SAFE_X so it cannot clip. VERIFY on a phone in the
-   real feed AND the expanded view, not just the Remotion preview: nothing clips
-   left/right, the badge + name plate are fully visible, and the top corners sit
-   clear of LinkedIn's name/headline. If anything still clips, bump SAFE_X / SAFE_TOP
-   toward 0.12-0.14. The designed cover PNG is unaffected (in-feed the header sits
-   ABOVE the thumbnail, not over it). Re-render clip7 to this before reusing it.
+   drops the "As seen on" BADGE below the header band (the badge appears AFTER the
+   hook fades, so lowering it causes no collision) and the badge is inset from the
+   right by SAFE_X so it cannot clip. The LOGO stays near the top (top 26) so it
+   sits ABOVE the opening hook panel — lowering it to SAFE_TOP overlapped the hook;
+   in the expanded view LinkedIn's avatar occludes the small watermark, which is
+   acceptable. VERIFY on a phone in the real feed AND the expanded view, not just
+   the Remotion preview: nothing clips left/right, the badge + name plate are fully
+   visible, and the badge sits clear of LinkedIn's name/headline. If anything still
+   clips, bump SAFE_X / SAFE_TOP toward 0.12-0.14. The designed cover PNG is
+   unaffected (in-feed the header sits ABOVE the thumbnail, not over it). Verified
+   here by rendering 4:5 stills at the hook / name-plate / badge / caption frames
+   over a placeholder source. Re-render clip7 to this before reusing it.
