@@ -181,3 +181,29 @@ bespoke designed cover (`DesignedCoverClip7`). The others fall back to the gener
 `coverMode` still (`render-covers.mjs`) — fine because the in-clip hook shows in the
 first ~2s, but a parameterized designed-cover component (one component, per-clip props)
 would bring covers up to clip7's level without 6 bespoke files. Build when ready.
+
+## Playback refinements (added Jun 17, 2026 from live-clip review)
+
+1. **Badge sits at the TOP corner (supersedes lesson 8's "drop to SAFE_TOP").** In the
+   raw video / feed, the SAFE_TOP (~13%) band is the subject's HEAD, so the badge landed
+   on her face. Both the logo and the "As seen on" badge now sit at the top corners
+   (`top: 26`), off the subject; `SAFE_X` still insets the badge from the right so it
+   can't clip. (In LinkedIn's expanded view the top-right badge sits near the header, an
+   accepted trade vs. covering the face — the feed is the primary surface.)
+
+2. **Karaoke leads the audio (`CAPTION_LEAD`, default 0.2s).** Exact-on-word timing reads
+   as "behind" because word timestamps mark the acoustic middle plus reading lag. The
+   caption/word match runs against `tCap = tSource + CAPTION_LEAD`. Tunable in `Clip.tsx`:
+   raise if captions still trail speech, lower if they jump ahead.
+
+3. **Split-screen "zoom out" (letterbox / contain).** `objectFit: cover` shows only the
+   center ~45% of a 16:9 source, slicing both faces when the podcast is in split-screen.
+   Two new clip props:
+   - `fit: "contain"` — letterbox the WHOLE clip (use when a clip is split-screen throughout).
+   - `fitWindows: [{ startSec, endSec }]` — ABSOLUTE source seconds; letterbox only those
+     ranges (use for clips that mix split-screen and solo). Adjusted by `-ss` in
+     render-with-extract (same convention as cutaways).
+   During contain, the footage fits fully (no crop, no Ken-Burns zoom) over a Primary-blue
+   brand backdrop (bars are on-brand, not black). **To populate these you must identify the
+   split-screen ranges from the footage** (the renderer can't detect them) — give the
+   clip-relative seconds and convert by adding `inSec`, or set `fit:"contain"` per clip.

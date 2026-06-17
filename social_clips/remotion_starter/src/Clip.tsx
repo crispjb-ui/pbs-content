@@ -104,6 +104,8 @@ export type ClipData = {
   hookBeats?: string[];
   showName: string;
   audioFade?: { startSec: number; endSec: number };
+  fit?: "cover" | "contain"; // "contain" letterboxes the whole clip (split-screen footage)
+  fitWindows?: { startSec: number; endSec: number }[]; // ABSOLUTE source secs: ranges to letterbox (split-screen)
   cta?: { text: string; url: string };
   ctaLine?: string;
   tagline?: string;
@@ -397,20 +399,21 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // LinkedIn/X mobile: (a) playback crops ~10-12% off the SIDES, slicing leading words of
   // edge-anchored elements ("direct"->"ct", "Ginny Crisp"->"y Crisp"); (b) the expanded
   // video view overlays LinkedIn's OWN post header (avatar + name + "As seen on" badge area)
-  // over the TOP ~13%, so burned-in top corners collide with it and the right badge clips.
-  // Fix: keep text in the center ~78% horizontally (captions centered, width - 2*SAFE_X);
-  // drop the "As seen on" BADGE below the header band (SAFE_TOP — it appears after the hook
-  // fades, so it won't collide); keep the LOGO near the top (top 26) so it stays ABOVE the
-  // hook panel (lowering it to SAFE_TOP overlapped the hook). The avatar occludes the small
-  // watermark in the expanded view, which is acceptable. Edge insets use SAFE_X / SAFE_CORNER.
+  // over the TOP ~13% in the EXPANDED view, but in the feed / raw video that band is the subject's
+  // HEAD — so the logo and the "As seen on" badge both sit at the TOP corners (off the face); SAFE_X
+  // keeps the badge inset from the right so it can't clip. Edge insets use SAFE_X / SAFE_CORNER.
   const SAFE_X = Math.round(width * 0.11); // side inset for primary text + name plate (~119px @1080)
-  const SAFE_CORNER = Math.round(width * 0.06); // side inset for the corner logo (~65px @1080)
-  const SAFE_TOP = Math.round(height * 0.13); // top inset to drop the badge below LinkedIn's header
+  const SAFE_CORNER = Math.round(width * 0.06); // side inset for the corner logo / badge (~65px @1080)
   const totalFrames = Math.round((clip.outSec - clip.inSec) * fps);
   const endFrames = Math.round(2.5 * fps);
   const hookDurFrames = Math.round(3.5 * fps);
 
   const tSource = clip.inSec + frame / fps;
+  // Karaoke fires slightly AHEAD of the audio — exact-on-word timing reads as "behind" because
+  // word timestamps mark the acoustic middle and there is a reading lag. Tunable: raise if captions
+  // still trail speech, lower if they jump ahead.
+  const CAPTION_LEAD = 0.2;
+  const tCap = tSource + CAPTION_LEAD;
 
   // ── COVER MODE ──
   if (coverMode) {
@@ -433,7 +436,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   }
 
   // ── Caption logic (word-level karaoke, deduped) ──
-  const active = clip.captions.find((c) => tSource >= c.startSec && tSource <= c.endSec);
+  const active = clip.captions.find((c) => tCap >= c.startSec && tCap <= c.endSec);
   const allWords = clip.words ? dedupeWords(clip.words) : null;
   const phraseWords = active && allWords
     ? allWords.filter((w) => w.startSec >= active.startSec - 0.05 && w.endSec <= active.endSec + 0.05)
@@ -442,6 +445,10 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // ── Timing zones ──
   const inEndCard = frame >= totalFrames - endFrames;
   const zoom = interpolate(frame, [0, totalFrames - endFrames], [1.0, 1.06], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  // Split-screen "zoom out": letterbox (contain) the whole clip (clip.fit) or specific ranges
+  // (clip.fitWindows, absolute source secs) so two side-by-side faces aren't cropped by cover.
+  const inFitWindow = (clip.fitWindows ?? []).some((w) => tSource >= w.startSec && tSource <= w.endSec);
+  const containFit = clip.fit === "contain" || inFitWindow;
 
   // ── Full-screen cutaway active? (the name plate hides for the whole cutaway) ──
   const cutawayActive = (clip.cutaways ?? []).some((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
@@ -495,12 +502,14 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
+      {/* Brand backdrop behind the footage when letterboxed (split-screen "zoom out" / contain) */}
+      {containFit && !inEndCard && <AbsoluteFill style={{ background: PRIMARY }} />}
       {/* ── Footage (always rendered for audio continuity) ── */}
       <OffthreadVideo
         src={staticFile(sourceVideo)}
         startFrom={Math.round(clip.inSec * fps)}
         volume={clip.audioFade ? (f) => interpolate(f, [fadeStartFrame, fadeEndFrame], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : undefined}
-        style={{ width, height, objectFit: "cover", transform: `scale(${zoom})`, opacity: inEndCard ? 0 : 1 }}
+        style={{ width, height, objectFit: containFit ? "contain" : "cover", transform: containFit ? undefined : `scale(${zoom})`, opacity: inEndCard ? 0 : 1 }}
       />
 
       {/* ── Footage overlays (when not in end card) ── */}
@@ -515,7 +524,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {/* "As seen on" badge — hidden during hook, shown after. Sized up for mobile-feed legibility. */}
           {showBadge && (
             <div style={{
-              position: "absolute", top: SAFE_TOP, right: SAFE_X,
+              position: "absolute", top: 26, right: SAFE_X,
               background: PRIMARY, color: WHITE,
               padding: "10px 18px", borderRadius: 9,
               fontSize: 30, fontWeight: 700, zIndex: 30,
@@ -650,7 +659,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
               }}>
                 {phraseWords && phraseWords.length
                   ? phraseWords.map((w, i) => {
-                      const on = tSource >= w.startSec && tSource <= w.endSec;
+                      const on = tCap >= w.startSec && tCap <= w.endSec;
                       return (
                         <span key={i} style={{
                           display: "inline-block",

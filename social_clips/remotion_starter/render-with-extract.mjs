@@ -68,6 +68,7 @@ for (const f of FORMATS) {
       images: (clip.images || []).map(im => ({ ...im, startSec: im.startSec - ss, endSec: im.endSec - ss })),
       cutaways: (clip.cutaways || []).map(c => ({ ...c, startSec: c.startSec - ss, endSec: c.endSec - ss, captionsFromSec: c.captionsFromSec != null ? c.captionsFromSec - ss : undefined })),
       audioFade: clip.audioFade ? { startSec: clip.audioFade.startSec - ss, endSec: clip.audioFade.endSec - ss } : undefined,
+      fitWindows: (clip.fitWindows || []).map(w => ({ ...w, startSec: w.startSec - ss, endSec: w.endSec - ss })),
     };
 
     // The segment file is in .tmp/ but Remotion serves from public/,
