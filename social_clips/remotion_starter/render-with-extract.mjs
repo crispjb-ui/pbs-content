@@ -54,16 +54,16 @@ for (const f of FORMATS) {
     const ss = Math.max(0, clip.inSec - pad);
 
     // Adjust clip timecodes to the extracted segment's clock (segment frame 0 = ss).
-    // TWO conventions in the manifest:
-    //  • captions/words are RELATIVE to clip start (e.g. 2.88) → segment-time = (inSec - ss) + value
-    //  • overlays/images/cutaways/audioFade are ABSOLUTE source seconds → segment-time = value - ss
-    const off = clip.inSec - ss; // clip start within the segment (= pad, normally 2s)
+    // captions/words are ALREADY timed to a ~2s-padded segment (the same pad this extractor uses),
+    // so they pass through UNSHIFTED — keeping karaoke in sync with the audio. (Adding the pad again
+    // was what pushed captions ~2s late.) inSec/outSec and the ABSOLUTE-source fields
+    // (overlays/cutaways/audioFade/fitWindows) shift by -ss into the segment clock.
     const adjustedClip = {
       ...clip,
       inSec: clip.inSec - ss,
       outSec: clip.outSec - ss,
-      captions: (clip.captions || []).map(c => ({ ...c, startSec: c.startSec + off, endSec: c.endSec + off })),
-      words: (clip.words || []).map(w => ({ ...w, startSec: w.startSec + off, endSec: w.endSec + off })),
+      captions: clip.captions || [],
+      words: clip.words || [],
       overlays: (clip.overlays || []).map(o => ({ ...o, startSec: o.startSec - ss, endSec: o.endSec - ss })),
       images: (clip.images || []).map(im => ({ ...im, startSec: im.startSec - ss, endSec: im.endSec - ss })),
       cutaways: (clip.cutaways || []).map(c => ({ ...c, startSec: c.startSec - ss, endSec: c.endSec - ss, captionsFromSec: c.captionsFromSec != null ? c.captionsFromSec - ss : undefined })),

@@ -162,15 +162,16 @@ ratio). Non-beat hooks now also get a spring entrance. Add new treatments by add
 `cutaways` entry with the matching `type` + payload (`equation` / `stat` / `bigstat` /
 `dotgrid`) — no per-clip component needed for those four shapes.
 
-**Timing convention (important — two clocks in the manifest):**
-`captions`/`words` are RELATIVE to clip start (e.g. `2.88`); `overlays`/`cutaways`/
-`audioFade` are ABSOLUTE source seconds (e.g. `750`). The render scripts apply the
-right offset to each: `render-with-extract.mjs` (the canonical path — pre-extracts each
-segment with ffmpeg, avoids compositor OOM) shifts captions/words by `+(inSec - ss)`
-and absolute fields by `-ss`; `render-all-platforms.mjs` shifts captions/words by
-`+inSec`. If you author a NEW cutaway, use ABSOLUTE source seconds (match the spoken
-moment in the full episode). This convention bug previously left manifest-rendered
-captions off-screen; fixed Jun 17, 2026.
+**Timing convention (important):**
+`captions`/`words` are timed to the **~2s-padded extraction segment** (small numbers,
+e.g. `2.88` ≈ a hair after clip start), so `render-with-extract.mjs` (the canonical path —
+pre-extracts each segment with ffmpeg, avoids compositor OOM) passes them through
+**UNSHIFTED**; the ABSOLUTE-source fields (`overlays`/`cutaways`/`audioFade`/`fitWindows`,
+e.g. `750`) shift by `-ss`. `render-all-platforms.mjs` (full-source path) maps captions to
+absolute via `+(inSec - 2)`. **Double-adding the 2s pad is what made captions render ~2s
+late** (fixed Jun 17, 2026 — captions are NOT clip-relative). If you author a NEW cutaway,
+use ABSOLUTE source seconds (match the spoken moment in the full episode). If karaoke still
+drifts, tune `CAPTION_LEAD` in `Clip.tsx` (forward lead, default 0.15s).
 
 **Render command (produces all clips, both formats, elevated, with the safe-area fix):**
 `git pull` → `cd social_clips/remotion_starter` → ensure `public/source.mp4` (yt-dlp)

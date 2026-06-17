@@ -41,13 +41,13 @@ const browserFlag = existsSync(CHROME) ? `--browser-executable="${CHROME}"` : ""
 for (const f of FORMATS) {
   console.log(`\n=== FORMAT: ${f.label} ===`);
   for (const clip of m.clips) {
-    // captions/words are RELATIVE to clip start; this path plays the full source at
-    // absolute inSec, so shift them to absolute source seconds (inSec + value).
+    // captions/words are timed to a ~2s-padded segment; this path plays the full source at
+    // absolute inSec, so map them to absolute source seconds = (inSec - 2) + value.
     // overlays/cutaways/audioFade are already absolute and need no shift.
     const adj = {
       ...clip,
-      captions: (clip.captions || []).map(c => ({ ...c, startSec: c.startSec + clip.inSec, endSec: c.endSec + clip.inSec })),
-      words: (clip.words || []).map(w => ({ ...w, startSec: w.startSec + clip.inSec, endSec: w.endSec + clip.inSec })),
+      captions: (clip.captions || []).map(c => ({ ...c, startSec: c.startSec + clip.inSec - 2, endSec: c.endSec + clip.inSec - 2 })),
+      words: (clip.words || []).map(w => ({ ...w, startSec: w.startSec + clip.inSec - 2, endSec: w.endSec + clip.inSec - 2 })),
     };
     const props = { sourceVideo: m.sourceVideo, fps, clip: adj };
     const propsPath = `.tmp/props-${clip.id}-${f.aspect}.json`;

@@ -412,7 +412,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // Karaoke fires slightly AHEAD of the audio — exact-on-word timing reads as "behind" because
   // word timestamps mark the acoustic middle and there is a reading lag. Tunable: raise if captions
   // still trail speech, lower if they jump ahead.
-  const CAPTION_LEAD = 0.2;
+  const CAPTION_LEAD = 0.15;
   const tCap = tSource + CAPTION_LEAD;
 
   // ── COVER MODE ──
@@ -501,9 +501,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const hookBeatsMode = !!(clip.hookBeats && clip.hookBeats.length);
 
   return (
-    <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
-      {/* Brand backdrop behind the footage when letterboxed (split-screen "zoom out" / contain) */}
-      {containFit && !inEndCard && <AbsoluteFill style={{ background: PRIMARY }} />}
+    <AbsoluteFill style={{ backgroundColor: containFit ? PRIMARY : "#000", fontFamily: SANS, overflow: "hidden" }}>
+      {/* When letterboxed (split-screen "zoom out"), the frame bg is the Primary backdrop for the bars. */}
       {/* ── Footage (always rendered for audio continuity) ── */}
       <OffthreadVideo
         src={staticFile(sourceVideo)}
