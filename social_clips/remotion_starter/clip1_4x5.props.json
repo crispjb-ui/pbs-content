@@ -1,0 +1,397 @@
+{
+  "sourceVideo": "seg_clip1.mp4",
+  "fps": 30,
+  "clip": {
+    "id": "clip1",
+    "slug": "spread-pricing-glp1",
+    "inSec": 2.8,
+    "outSec": 26.24,
+    "aspect": "4x5",
+    "platform": "linkedin",
+    "hookTitle": "They pay the pharmacy $100.",
+    "hookLine2": "They charge you $120.",
+    "showName": "Honest HR (SHRM)",
+    "audioFade": {
+      "startSec": 23.74,
+      "endSec": 24.24
+    },
+    "tagline": "We audit hundreds of PBM contracts a year.",
+    "ctaLine": "Free Channel Pricing Audit Worksheet → link in comments",
+    "cta": {
+      "text": "Channel Pricing Audit Worksheet",
+      "url": "rxbs.org/toolkit/channel-pricing"
+    },
+    "cutaways": [
+      {
+        "type": "equation",
+        "startSec": 9.7,
+        "endSec": 15,
+        "equation": {
+          "totalNum": 120,
+          "totalLabel": "charged to you",
+          "segA": "$100",
+          "segANum": 100,
+          "segALabel": "paid to the pharmacy",
+          "segB": "$20",
+          "segBNum": 20,
+          "segBLabel": "SPREAD",
+          "note": "Illustrative example. Actual amounts vary by plan."
+        }
+      }
+    ],
+    "captions": [
+      {
+        "startSec": 2.88,
+        "endSec": 5.44,
+        "text": "PBMs are allowed to have contracts"
+      },
+      {
+        "startSec": 5.44,
+        "endSec": 7.64,
+        "text": "where you're not paying that pass-through"
+      },
+      {
+        "startSec": 7.64,
+        "endSec": 9.7,
+        "text": "amount, meaning that they could pay"
+      },
+      {
+        "startSec": 9.7,
+        "endSec": 12.88,
+        "text": "the pharmacy one price for that"
+      },
+      {
+        "startSec": 12.88,
+        "endSec": 15,
+        "text": "GLP-1 prescription, but then turn around"
+      },
+      {
+        "startSec": 15,
+        "endSec": 16.22,
+        "text": "and invoice you a very different"
+      },
+      {
+        "startSec": 16.22,
+        "endSec": 17.32,
+        "text": "amount, which is gonna be higher."
+      },
+      {
+        "startSec": 17.62,
+        "endSec": 19.04,
+        "text": "And they keep that difference. And"
+      },
+      {
+        "startSec": 19.04,
+        "endSec": 20.96,
+        "text": "in our industry, that's called spread"
+      },
+      {
+        "startSec": 20.96,
+        "endSec": 23.74,
+        "text": "pricing, which costs you more money"
+      }
+    ],
+    "words": [
+      {
+        "startSec": 2.88,
+        "endSec": 3.38,
+        "text": "PBMs"
+      },
+      {
+        "startSec": 3.38,
+        "endSec": 3.6,
+        "text": "are"
+      },
+      {
+        "startSec": 3.6,
+        "endSec": 3.88,
+        "text": "allowed"
+      },
+      {
+        "startSec": 3.88,
+        "endSec": 4.4,
+        "text": "to"
+      },
+      {
+        "startSec": 4.4,
+        "endSec": 5.06,
+        "text": "have"
+      },
+      {
+        "startSec": 5.06,
+        "endSec": 5.44,
+        "text": "contracts"
+      },
+      {
+        "startSec": 5.44,
+        "endSec": 5.92,
+        "text": "where"
+      },
+      {
+        "startSec": 5.92,
+        "endSec": 6.68,
+        "text": "you're"
+      },
+      {
+        "startSec": 6.68,
+        "endSec": 6.84,
+        "text": "not"
+      },
+      {
+        "startSec": 6.84,
+        "endSec": 7.06,
+        "text": "paying"
+      },
+      {
+        "startSec": 7.06,
+        "endSec": 7.3,
+        "text": "that"
+      },
+      {
+        "startSec": 7.3,
+        "endSec": 7.64,
+        "text": "pass-through"
+      },
+      {
+        "startSec": 7.64,
+        "endSec": 8.02,
+        "text": "amount,"
+      },
+      {
+        "startSec": 8.02,
+        "endSec": 8.6,
+        "text": "meaning"
+      },
+      {
+        "startSec": 8.6,
+        "endSec": 8.92,
+        "text": "that"
+      },
+      {
+        "startSec": 8.92,
+        "endSec": 9.3,
+        "text": "they"
+      },
+      {
+        "startSec": 9.3,
+        "endSec": 9.52,
+        "text": "could"
+      },
+      {
+        "startSec": 9.52,
+        "endSec": 9.7,
+        "text": "pay"
+      },
+      {
+        "startSec": 9.7,
+        "endSec": 9.84,
+        "text": "the"
+      },
+      {
+        "startSec": 9.84,
+        "endSec": 10.28,
+        "text": "pharmacy"
+      },
+      {
+        "startSec": 10.28,
+        "endSec": 11.68,
+        "text": "one"
+      },
+      {
+        "startSec": 11.68,
+        "endSec": 12.08,
+        "text": "price"
+      },
+      {
+        "startSec": 12.08,
+        "endSec": 12.46,
+        "text": "for"
+      },
+      {
+        "startSec": 12.46,
+        "endSec": 12.88,
+        "text": "that"
+      },
+      {
+        "startSec": 12.88,
+        "endSec": 13.48,
+        "text": "GLP-1"
+      },
+      {
+        "startSec": 13.48,
+        "endSec": 13.82,
+        "text": "prescription,"
+      },
+      {
+        "startSec": 13.96,
+        "endSec": 14.4,
+        "text": "but"
+      },
+      {
+        "startSec": 14.4,
+        "endSec": 14.6,
+        "text": "then"
+      },
+      {
+        "startSec": 14.6,
+        "endSec": 14.76,
+        "text": "turn"
+      },
+      {
+        "startSec": 14.76,
+        "endSec": 15,
+        "text": "around"
+      },
+      {
+        "startSec": 15,
+        "endSec": 15.14,
+        "text": "and"
+      },
+      {
+        "startSec": 15.14,
+        "endSec": 15.4,
+        "text": "invoice"
+      },
+      {
+        "startSec": 15.4,
+        "endSec": 15.6,
+        "text": "you"
+      },
+      {
+        "startSec": 15.6,
+        "endSec": 15.7,
+        "text": "a"
+      },
+      {
+        "startSec": 15.7,
+        "endSec": 15.94,
+        "text": "very"
+      },
+      {
+        "startSec": 15.94,
+        "endSec": 16.22,
+        "text": "different"
+      },
+      {
+        "startSec": 16.22,
+        "endSec": 16.46,
+        "text": "amount,"
+      },
+      {
+        "startSec": 16.58,
+        "endSec": 16.66,
+        "text": "which"
+      },
+      {
+        "startSec": 16.66,
+        "endSec": 16.78,
+        "text": "is"
+      },
+      {
+        "startSec": 16.78,
+        "endSec": 16.94,
+        "text": "gonna"
+      },
+      {
+        "startSec": 16.94,
+        "endSec": 17.06,
+        "text": "be"
+      },
+      {
+        "startSec": 17.06,
+        "endSec": 17.32,
+        "text": "higher."
+      },
+      {
+        "startSec": 17.62,
+        "endSec": 17.68,
+        "text": "And"
+      },
+      {
+        "startSec": 17.68,
+        "endSec": 17.76,
+        "text": "they"
+      },
+      {
+        "startSec": 17.76,
+        "endSec": 17.94,
+        "text": "keep"
+      },
+      {
+        "startSec": 17.94,
+        "endSec": 18.18,
+        "text": "that"
+      },
+      {
+        "startSec": 18.18,
+        "endSec": 18.56,
+        "text": "difference."
+      },
+      {
+        "startSec": 18.98,
+        "endSec": 19.04,
+        "text": "And"
+      },
+      {
+        "startSec": 19.04,
+        "endSec": 19.66,
+        "text": "in"
+      },
+      {
+        "startSec": 19.66,
+        "endSec": 19.8,
+        "text": "our"
+      },
+      {
+        "startSec": 19.8,
+        "endSec": 20.06,
+        "text": "industry,"
+      },
+      {
+        "startSec": 20.06,
+        "endSec": 20.56,
+        "text": "that's"
+      },
+      {
+        "startSec": 20.56,
+        "endSec": 20.7,
+        "text": "called"
+      },
+      {
+        "startSec": 20.7,
+        "endSec": 20.96,
+        "text": "spread"
+      },
+      {
+        "startSec": 20.96,
+        "endSec": 21.4,
+        "text": "pricing,"
+      },
+      {
+        "startSec": 21.78,
+        "endSec": 21.98,
+        "text": "which"
+      },
+      {
+        "startSec": 21.98,
+        "endSec": 22.66,
+        "text": "costs"
+      },
+      {
+        "startSec": 22.66,
+        "endSec": 23.08,
+        "text": "you"
+      },
+      {
+        "startSec": 23.08,
+        "endSec": 23.52,
+        "text": "more"
+      },
+      {
+        "startSec": 23.52,
+        "endSec": 23.74,
+        "text": "money"
+      }
+    ]
+  }
+}
