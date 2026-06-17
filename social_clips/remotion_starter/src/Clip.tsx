@@ -298,6 +298,16 @@ const dedupeWords = (words: Word[]): Word[] => {
 export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode }) => {
   const frame = useCurrentFrame();
   const { width, height } = useVideoConfig();
+  // ── Safe area (added Jun 2026 after the clip7 LinkedIn-mobile cutoff) ──
+  // LinkedIn/X mobile: (a) playback crops ~10-12% off the SIDES, slicing leading words of
+  // edge-anchored elements ("direct"->"ct", "Ginny Crisp"->"y Crisp"); (b) the expanded
+  // video view overlays LinkedIn's OWN post header (avatar + name + "As seen on" badge area)
+  // over the TOP ~13%, so burned-in top corners collide with it and the right badge clips.
+  // Fix: keep text in the center ~78% horizontally (captions centered, width - 2*SAFE_X),
+  // push the corner logo/badge BELOW the header band (SAFE_TOP) and in from the side edges.
+  const SAFE_X = Math.round(width * 0.11); // side inset for primary text + name plate (~119px @1080)
+  const SAFE_CORNER = Math.round(width * 0.06); // side inset for the corner logo (~65px @1080)
+  const SAFE_TOP = Math.round(height * 0.13); // top inset to clear LinkedIn's overlaid post header
   const totalFrames = Math.round((clip.outSec - clip.inSec) * fps);
   const endFrames = Math.round(2.5 * fps);
   const hookDurFrames = Math.round(3.5 * fps);
@@ -311,8 +321,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
       <AbsoluteFill style={{ backgroundColor: "#000", fontFamily: SANS, overflow: "hidden" }}>
         <OffthreadVideo src={staticFile(sourceVideo)} startFrom={Math.round(clip.inSec * fps) + coverOffset} style={{ width, height, objectFit: "cover" }} />
         <AbsoluteFill style={{ background: "linear-gradient(180deg, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.15) 40%, rgba(0,0,0,0.65) 100%)" }} />
-        <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 28, left: 28, height: 48, width: "auto", filter: "drop-shadow(0 2px 6px rgba(0,0,0,0.75))" }} />
-        <div style={{ position: "absolute", top: 26, right: 26, background: PRIMARY, color: WHITE, padding: "7px 14px", borderRadius: 6, fontSize: 22, fontWeight: 600 }}>As seen on {clip.showName}</div>
+        <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: SAFE_TOP, left: SAFE_CORNER, height: 48, width: "auto", filter: "drop-shadow(0 2px 6px rgba(0,0,0,0.75))" }} />
+        <div style={{ position: "absolute", top: SAFE_TOP, right: SAFE_X, background: PRIMARY, color: WHITE, padding: "7px 14px", borderRadius: 6, fontSize: 22, fontWeight: 600 }}>As seen on {clip.showName}</div>
         <div style={{ position: "absolute", bottom: height * 0.12, left: 40, right: 40, textAlign: "center" }}>
           <div style={{ display: "inline-block", background: PRIMARY, padding: "22px 32px", borderRadius: 16, boxShadow: "0 12px 40px rgba(0,0,0,0.5)" }}>
             <div style={{ fontSize: clip.aspect === "9x16" ? 72 : 60, fontWeight: 700, color: WHITE, lineHeight: 1.1 }}>{highlightDollars(clip.hookTitle)}</div>
@@ -402,12 +412,12 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           <div style={{ position: "absolute", top: 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
 
           {/* PBS logo corner (persistent) — layered shadow so the white mark reads on light walls */}
-          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 26, left: 26, height: 56, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
+          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: SAFE_TOP, left: SAFE_CORNER, height: 56, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
 
           {/* "As seen on" badge — hidden during hook, shown after. Sized up for mobile-feed legibility. */}
           {showBadge && (
             <div style={{
-              position: "absolute", top: 26, right: 26,
+              position: "absolute", top: SAFE_TOP, right: SAFE_X,
               background: PRIMARY, color: WHITE,
               padding: "10px 18px", borderRadius: 9,
               fontSize: 30, fontWeight: 700, zIndex: 30,
@@ -423,7 +433,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
             <div style={{
               position: "absolute",
               top: clip.hookBeats && clip.hookBeats.length ? (clip.aspect === "4x5" ? 94 : 110) : (clip.aspect === "4x5" ? 70 : 90),
-              left: 28, right: 28,
+              left: SAFE_CORNER, right: SAFE_CORNER,
               textAlign: "center",
               opacity: hookOp,
               zIndex: 25,
@@ -494,7 +504,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
             <div style={{
               position: "absolute",
               bottom: clip.aspect === "4x5" ? 110 : 150,
-              left: 24,
+              left: SAFE_X,
               transform: `translateX(${plateX}%)`,
               zIndex: 35,
             }}>
@@ -519,17 +529,18 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
               top: clip.aspect === "9x16"
                 ? (captionOverCutaway ? height * 0.78 : plateVisible ? height * 0.55 : height * 0.65)
                 : (captionOverCutaway ? height * 0.82 : plateVisible ? height * 0.58 : height * 0.68),
-              left: 32, right: 32,
+              left: SAFE_X, right: SAFE_X,
               display: "flex",
-              justifyContent: "flex-start",
+              justifyContent: "center",
               flexWrap: "wrap",
               zIndex: 30,
             }}>
               <div style={{
                 display: "flex",
                 flexWrap: "wrap",
-                justifyContent: "flex-start",
-                maxWidth: width - 72,
+                justifyContent: "center",
+                textAlign: "center",
+                maxWidth: width - 2 * SAFE_X,
                 gap: "4px 0",
               }}>
                 {phraseWords && phraseWords.length

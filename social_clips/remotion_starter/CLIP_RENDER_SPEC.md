@@ -27,8 +27,10 @@ hook, shown after it fades. Audio runs continuously under all cutaways.
    must not collide while it's up.
 
 3) CAPTIONS — clean style: Whisper WORD-SYNCED karaoke (word-by-word from
-   word-level timestamps), NOT static sentence blocks, never centered. NO
-   background box: bold white Plex Sans SemiBold with a 2px dark outline +
+   word-level timestamps), NOT static sentence blocks. CENTERED horizontally
+   within the side safe area (updated Jun 16, 2026 — previously left-aligned;
+   centered reads cleaner and survives mobile-feed side-cropping, see lesson 8).
+   NO background box: bold white Plex Sans SemiBold with a 2px dark outline +
    soft drop-shadow; the currently-spoken word sits in a SOLID accent-blue
    (#A7E0FA) rounded pill with dark navy (#015880) text. ~5-7 words, max 2
    lines, baseline ~70% down, safe bottom margin, never over her face. Apply
@@ -104,3 +106,23 @@ commit + push to main.
 7) LENGTH: 15-25s IS THE ZONE for these clips. Completion rate is the
    algorithmic lever, not duration. Extend only for strength, never for
    length.
+
+8) SAFE AREA — SIDES AND TOP (added Jun 16, 2026 after the clip7 LinkedIn-mobile
+   render). Two separate clips of the frame on LinkedIn/X mobile:
+   (a) SIDES: playback crops ~10-12% off each side, slicing leading words of any
+       element anchored to the raw edge ("direct" -> "ct"; name plate "Ginny
+       Crisp" -> "y Crisp"). Keep ALL text in the center ~78%.
+   (b) TOP: the expanded (tapped) video view overlays LinkedIn's OWN post header
+       (avatar + poster name + headline) over the top ~13%, colliding with the
+       burned-in top corners; the right-anchored "As seen on" badge also clips
+       on the right.
+   Implementation in Clip.tsx: SAFE_X (~11% width) for the name-plate inset + the
+   caption block (left/right + maxWidth = width - 2*SAFE_X, captions CENTERED per
+   lesson 3); SAFE_CORNER (~6%) for the logo's side inset; SAFE_TOP (~13% height)
+   pushes the logo AND the "As seen on" badge below the header band, and the badge
+   is inset from the right by SAFE_X so it cannot clip. VERIFY on a phone in the
+   real feed AND the expanded view, not just the Remotion preview: nothing clips
+   left/right, the badge + name plate are fully visible, and the top corners sit
+   clear of LinkedIn's name/headline. If anything still clips, bump SAFE_X / SAFE_TOP
+   toward 0.12-0.14. The designed cover PNG is unaffected (in-feed the header sits
+   ABOVE the thumbnail, not over it). Re-render clip7 to this before reusing it.

@@ -21,7 +21,7 @@ The weekly clip cadence (from `podcast_outreach_sprint.md`) only scales if brand
 4. **Lower-third name tag** — "Ginny Crisp, PharmD · Prescription Benefit Solutions" on the opening few seconds.
 5. **"As seen on [Show]" badge** — small, top corner (prop: show name).
 6. **Optional 1-2s intro + outro cards** — outro = PBS triangle + "Benefit Blind Spots" + the clip's CTA (prop: CTA text + toolkit URL).
-7. **Safe areas** — keep all text out of the bottom ~15% and top ~10% (platform UI/caption overlap on Reels/TikTok); keep within title-safe margins.
+7. **Safe areas** — keep all text out of the bottom ~15% and top ~10% (platform UI/caption overlap on Reels/TikTok) **and the side ~11%** (LinkedIn/X mobile feed crops ~10-12% off the sides on playback; left-anchored captions + name plate got clipped on the live clip7 upload). Keep all text in the center ~78%; captions are centered. See `remotion_starter/CLIP_RENDER_SPEC.md` lesson 8 (the `SAFE_X`/`SAFE_CORNER` implementation).
 
 ## Props (the composition's inputs)
 `sourcePath` · `aspect` (9:16 | 4:5) · `captionTrack` (timed text) · `hookTitle` · `showName` · `ctaText` · `ctaUrl`.
