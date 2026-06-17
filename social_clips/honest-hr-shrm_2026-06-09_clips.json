@@ -9,8 +9,8 @@
     {
       "id": "clip1",
       "slug": "spread-pricing-glp1",
-      "inSec": 735.0,
-      "outSec": 767.0,
+      "inSec": 735,
+      "outSec": 767,
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "They keep the difference",
@@ -20,14 +20,6 @@
         "text": "Free channel-pricing audit worksheet",
         "url": "rxbs.org/toolkit/channel-pricing"
       },
-      "overlays": [
-        {
-          "startSec": 751.0,
-          "endSec": 759.0,
-          "big": "SPREAD",
-          "small": "the markup you never see"
-        }
-      ],
       "captions": [
         {
           "startSec": 2.88,
@@ -51,11 +43,11 @@
         },
         {
           "startSec": 12.88,
-          "endSec": 15.0,
+          "endSec": 15,
           "text": "GLP-1 prescription, but then turn around"
         },
         {
-          "startSec": 15.0,
+          "startSec": 15,
           "endSec": 16.22,
           "text": "and invoice you a very different"
         },
@@ -108,14 +100,6 @@
           "startSec": 32.5,
           "endSec": 34.34,
           "text": "contract do you have to"
-        }
-      ],
-      "images": [
-        {
-          "startSec": 762.0,
-          "endSec": 766.7,
-          "src": "week_18_channel_pricing_audit_worksheet_preview.png",
-          "position": "corner"
         }
       ],
       "words": [
@@ -266,11 +250,11 @@
         },
         {
           "startSec": 14.76,
-          "endSec": 15.0,
+          "endSec": 15,
           "text": "around"
         },
         {
-          "startSec": 15.0,
+          "startSec": 15,
           "endSec": 15.14,
           "text": "and"
         },
@@ -594,13 +578,41 @@
           "endSec": 34.34,
           "text": "to"
         }
-      ]
+      ],
+      "hookBeats": [
+        "They keep",
+        "the",
+        "difference"
+      ],
+      "hookAccent": "difference",
+      "cutaways": [
+        {
+          "type": "equation",
+          "startSec": 750,
+          "endSec": 757,
+          "equation": {
+            "totalNum": 120,
+            "totalLabel": "billed to your plan",
+            "segA": "$100",
+            "segANum": 100,
+            "segALabel": "paid to the pharmacy",
+            "segB": "$20",
+            "segBNum": 20,
+            "segBLabel": "SPREAD — kept by the PBM",
+            "note": "Illustrative example. Actual amounts vary by plan."
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 766.3,
+        "endSec": 767
+      }
     },
     {
       "id": "clip2",
       "slug": "one-in-twelve-persistence",
-      "inSec": 1631.0,
-      "outSec": 1658.0,
+      "inSec": 1631,
+      "outSec": 1658,
       "aspect": "9x16",
       "platform": "reels",
       "hookTitle": "1 in 12",
@@ -610,14 +622,6 @@
         "text": "Free Drug Pipeline Watch List",
         "url": "rxbs.org/toolkit/drug-pipeline-watch"
       },
-      "overlays": [
-        {
-          "startSec": 1634.0,
-          "endSec": 1643.0,
-          "big": "1 in 12",
-          "small": "still on a GLP-1 after 3 years"
-        }
-      ],
       "captions": [
         {
           "startSec": 2.98,
@@ -688,14 +692,6 @@
           "startSec": 27.46,
           "endSec": 28.92,
           "text": "that's a different situation."
-        }
-      ],
-      "images": [
-        {
-          "startSec": 1653.0,
-          "endSec": 1657.7,
-          "src": "week_18_drug_pipeline_watch_list_preview.png",
-          "position": "corner"
         }
       ],
       "words": [
@@ -851,11 +847,11 @@
         },
         {
           "startSec": 12.72,
-          "endSec": 13.0,
+          "endSec": 13,
           "text": "loss"
         },
         {
-          "startSec": 13.0,
+          "startSec": 13,
           "endSec": 13.62,
           "text": "and"
         },
@@ -961,7 +957,7 @@
         },
         {
           "startSec": 20.62,
-          "endSec": 21.0,
+          "endSec": 21,
           "text": "loss,"
         },
         {
@@ -1109,13 +1105,36 @@
           "endSec": 28.92,
           "text": "situation."
         }
-      ]
+      ],
+      "hookBeats": [
+        "1",
+        "in",
+        "12"
+      ],
+      "hookAccent": "12",
+      "cutaways": [
+        {
+          "type": "dotgrid",
+          "startSec": 1634,
+          "endSec": 1641,
+          "grid": {
+            "total": 12,
+            "highlight": 1,
+            "label": "after 3 years",
+            "sub": "still on a GLP-1"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1657.3,
+        "endSec": 1658
+      }
     },
     {
       "id": "clip3",
       "slug": "rebate-clawback-lifestyle",
-      "inSec": 829.0,
-      "outSec": 857.0,
+      "inSec": 829,
+      "outSec": 857,
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "They claw it back",
@@ -1125,14 +1144,6 @@
         "text": "Free rebate report audit worksheet",
         "url": "rxbs.org/toolkit/rebate-report-audit"
       },
-      "overlays": [
-        {
-          "startSec": 845.0,
-          "endSec": 853.0,
-          "big": "CLAWED BACK",
-          "small": "rebates pulled if you add lifestyle"
-        }
-      ],
       "captions": [
         {
           "startSec": 2.8,
@@ -1141,11 +1152,11 @@
         },
         {
           "startSec": 4.62,
-          "endSec": 6.0,
+          "endSec": 6,
           "text": "I said that the FDA approved"
         },
         {
-          "startSec": 6.0,
+          "startSec": 6,
           "endSec": 7.7,
           "text": "these drugs on having that combination,"
         },
@@ -1203,14 +1214,6 @@
           "startSec": 28.18,
           "endSec": 30.3,
           "text": "have that success. And really"
-        }
-      ],
-      "images": [
-        {
-          "startSec": 852.0,
-          "endSec": 856.7,
-          "src": "week_20_thursday_rebate_report_audit_worksheet_preview.png",
-          "position": "corner"
         }
       ],
       "words": [
@@ -1271,11 +1274,11 @@
         },
         {
           "startSec": 5.68,
-          "endSec": 6.0,
+          "endSec": 6,
           "text": "approved"
         },
         {
-          "startSec": 6.0,
+          "startSec": 6,
           "endSec": 6.24,
           "text": "these"
         },
@@ -1366,11 +1369,11 @@
         },
         {
           "startSec": 11.78,
-          "endSec": 12.0,
+          "endSec": 12,
           "text": "in"
         },
         {
-          "startSec": 12.0,
+          "startSec": 12,
           "endSec": 12.48,
           "text": "lifestyle"
         },
@@ -1386,11 +1389,11 @@
         },
         {
           "startSec": 14.38,
-          "endSec": 15.0,
+          "endSec": 15,
           "text": "they"
         },
         {
-          "startSec": 15.0,
+          "startSec": 15,
           "endSec": 15.46,
           "text": "can't"
         },
@@ -1629,13 +1632,34 @@
           "endSec": 30.3,
           "text": "really"
         }
-      ]
+      ],
+      "hookBeats": [
+        "They",
+        "claw it",
+        "back"
+      ],
+      "hookAccent": "claw it",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 845,
+          "endSec": 851,
+          "big": {
+            "value": "CLAWED BACK",
+            "label": "rebates pulled if you require lifestyle support"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 856.3,
+        "endSec": 857
+      }
     },
     {
       "id": "clip4",
       "slug": "one-in-three-switch-jobs",
-      "inSec": 1129.0,
-      "outSec": 1150.0,
+      "inSec": 1129,
+      "outSec": 1150,
       "aspect": "9x16",
       "platform": "reels",
       "hookTitle": "1 in 3 would leave",
@@ -1645,20 +1669,6 @@
         "text": "Free Drug Pipeline Watch List",
         "url": "rxbs.org/toolkit/drug-pipeline-watch"
       },
-      "overlays": [
-        {
-          "startSec": 1131.0,
-          "endSec": 1139.0,
-          "big": "1 in 3",
-          "small": "would switch jobs for GLP-1 coverage"
-        },
-        {
-          "startSec": 1139.0,
-          "endSec": 1147.0,
-          "big": "30%",
-          "small": "of your workforce"
-        }
-      ],
       "captions": [
         {
           "startSec": 2.3,
@@ -1711,7 +1721,7 @@
           "text": "to keep my good people, right?"
         },
         {
-          "startSec": 19.0,
+          "startSec": 19,
           "endSec": 20.6,
           "text": "So that's gonna be information that"
         },
@@ -1726,14 +1736,6 @@
           "text": "the flip side of"
         }
       ],
-      "images": [
-        {
-          "startSec": 1145.0,
-          "endSec": 1149.7,
-          "src": "week_18_drug_pipeline_watch_list_preview.png",
-          "position": "corner"
-        }
-      ],
       "words": [
         {
           "startSec": 2.3,
@@ -1742,11 +1744,11 @@
         },
         {
           "startSec": 2.36,
-          "endSec": 3.0,
+          "endSec": 3,
           "text": "there"
         },
         {
-          "startSec": 3.0,
+          "startSec": 3,
           "endSec": 3.32,
           "text": "are"
         },
@@ -1807,11 +1809,11 @@
         },
         {
           "startSec": 5.78,
-          "endSec": 6.0,
+          "endSec": 6,
           "text": "of"
         },
         {
-          "startSec": 6.0,
+          "startSec": 6,
           "endSec": 6.32,
           "text": "employees"
         },
@@ -1996,7 +1998,7 @@
           "text": "that,"
         },
         {
-          "startSec": 17.0,
+          "startSec": 17,
           "endSec": 17.38,
           "text": "I"
         },
@@ -2017,11 +2019,11 @@
         },
         {
           "startSec": 17.82,
-          "endSec": 18.0,
+          "endSec": 18,
           "text": "my"
         },
         {
-          "startSec": 18.0,
+          "startSec": 18,
           "endSec": 18.14,
           "text": "good"
         },
@@ -2036,7 +2038,7 @@
           "text": "right?"
         },
         {
-          "startSec": 19.0,
+          "startSec": 19,
           "endSec": 19.04,
           "text": "So"
         },
@@ -2086,7 +2088,7 @@
           "text": "know."
         },
         {
-          "startSec": 22.0,
+          "startSec": 22,
           "endSec": 22.26,
           "text": "But"
         },
@@ -2115,13 +2117,34 @@
           "endSec": 23.12,
           "text": "of"
         }
-      ]
+      ],
+      "hookBeats": [
+        "1 in 3",
+        "would leave"
+      ],
+      "hookAccent": "1 in 3",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 1131,
+          "endSec": 1138,
+          "big": {
+            "value": "1 in 3",
+            "label": "would switch jobs for GLP-1 coverage",
+            "sub": "= 30% of your workforce"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1149.3,
+        "endSec": 1150
+      }
     },
     {
       "id": "clip5",
       "slug": "members-get-them-anyway",
-      "inSec": 1489.0,
-      "outSec": 1516.0,
+      "inSec": 1489,
+      "outSec": 1516,
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "They'll get them anyway",
@@ -2131,14 +2154,6 @@
         "text": "Free PBM Compensation worksheet",
         "url": "rxbs.org/toolkit/pbm-compensation"
       },
-      "overlays": [
-        {
-          "startSec": 1505.0,
-          "endSec": 1514.0,
-          "big": "OFF YOUR RADAR",
-          "small": "no claims, no deductible, no data"
-        }
-      ],
       "captions": [
         {
           "startSec": 2.56,
@@ -2219,14 +2234,6 @@
           "startSec": 28.24,
           "endSec": 29.32,
           "text": "it is"
-        }
-      ],
-      "images": [
-        {
-          "startSec": 1511.0,
-          "endSec": 1515.7,
-          "src": "week_27_thursday_pbm_compensation_audit_preview.png",
-          "position": "corner"
         }
       ],
       "words": [
@@ -2432,7 +2439,7 @@
         },
         {
           "startSec": 14.78,
-          "endSec": 15.0,
+          "endSec": 15,
           "text": "year,"
         },
         {
@@ -2690,36 +2697,42 @@
           "endSec": 29.32,
           "text": "is"
         }
-      ]
+      ],
+      "hookBeats": [
+        "They'll get them",
+        "anyway"
+      ],
+      "hookAccent": "anyway",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 1505,
+          "endSec": 1512,
+          "big": {
+            "value": "OFF YOUR RADAR",
+            "label": "no claims, no deductible, no data"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1515.3,
+        "endSec": 1516
+      }
     },
     {
       "id": "clip6",
       "slug": "obesity-62-diseases-already-paying",
-      "inSec": 1411.0,
-      "outSec": 1433.0,
+      "inSec": 1411,
+      "outSec": 1433,
       "aspect": "9x16",
       "platform": "reels",
-      "hookTitle": "62 diseases. You already pay.",
+      "hookTitle": "62 diseases.",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "there's about 62 disease states associated with obesity",
       "cta": {
         "text": "Free Drug Pipeline Watch List",
         "url": "rxbs.org/toolkit/drug-pipeline-watch"
       },
-      "overlays": [
-        {
-          "startSec": 1413.0,
-          "endSec": 1421.0,
-          "big": "62",
-          "small": "disease states tied to obesity"
-        },
-        {
-          "startSec": 1421.0,
-          "endSec": 1430.0,
-          "big": "+60%",
-          "small": "total cost per person"
-        }
-      ],
       "captions": [
         {
           "startSec": 2.52,
@@ -2770,14 +2783,6 @@
           "startSec": 23.54,
           "endSec": 23.74,
           "text": "not."
-        }
-      ],
-      "images": [
-        {
-          "startSec": 1428.0,
-          "endSec": 1432.7,
-          "src": "week_18_drug_pipeline_watch_list_preview.png",
-          "position": "corner"
         }
       ],
       "words": [
@@ -2933,11 +2938,11 @@
         },
         {
           "startSec": 15.8,
-          "endSec": 16.0,
+          "endSec": 16,
           "text": "or"
         },
         {
-          "startSec": 16.0,
+          "startSec": 16,
           "endSec": 16.22,
           "text": "obesity"
         },
@@ -3056,13 +3061,32 @@
           "endSec": 23.74,
           "text": "not."
         }
-      ]
+      ],
+      "hookLine2": "You already pay.",
+      "hookAccent": "62",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 1414,
+          "endSec": 1421,
+          "big": {
+            "value": "62",
+            "countTo": 62,
+            "label": "disease states tied to obesity",
+            "sub": "+60% total cost per person"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1432.3,
+        "endSec": 1433
+      }
     },
     {
       "id": "clip7",
       "slug": "three-reporting-numbers",
-      "inSec": 878.0,
-      "outSec": 900.0,
+      "inSec": 878,
+      "outSec": 900,
       "aspect": "4x5",
       "platform": "linkedin",
       "hookTitle": "Demand these 3 numbers",
@@ -3072,14 +3096,6 @@
         "text": "Free Quarterly Reporting Checklist",
         "url": "rxbs.org/toolkit/quarterly-reporting"
       },
-      "overlays": [
-        {
-          "startSec": 883.0,
-          "endSec": 899.0,
-          "big": "3 NUMBERS",
-          "small": "Cost  ·  Rebates  ·  Net cost"
-        }
-      ],
       "captions": [
         {
           "startSec": 2.36,
@@ -3140,14 +3156,6 @@
           "startSec": 22.9,
           "endSec": 24.24,
           "text": "you're not really able to"
-        }
-      ],
-      "images": [
-        {
-          "startSec": 895.0,
-          "endSec": 899.7,
-          "src": "week_21_quarterly_reporting_checklist_preview.png",
-          "position": "corner"
         }
       ],
       "words": [
@@ -3398,7 +3406,7 @@
         },
         {
           "startSec": 17.74,
-          "endSec": 18.0,
+          "endSec": 18,
           "text": "data,"
         },
         {
@@ -3506,7 +3514,44 @@
           "endSec": 24.24,
           "text": "to"
         }
-      ]
+      ],
+      "hookBeats": [
+        "Cost.",
+        "Rebates.",
+        "Net cost."
+      ],
+      "hookAccent": "Net cost",
+      "cutaways": [
+        {
+          "type": "stat",
+          "startSec": 888,
+          "endSec": 896,
+          "captionsFromSec": 892,
+          "stat": {
+            "title": "Ask your PBM for",
+            "lines": [
+              {
+                "pre": "What the drug",
+                "key": "COST"
+              },
+              {
+                "pre": "What your",
+                "key": "REBATES",
+                "post": "were"
+              },
+              {
+                "pre": "Your",
+                "key": "NET COST"
+              }
+            ],
+            "callout": "the one that decides everything"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 899.3,
+        "endSec": 900
+      }
     }
   ]
 }

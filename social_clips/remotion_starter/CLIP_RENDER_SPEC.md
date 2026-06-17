@@ -137,3 +137,47 @@ commit + push to main.
    and bottom on the actual app. Both aspects verified here via still renders (hook /
    name-plate / badge / caption frames over a placeholder source). Re-render clip7
    to this before reusing it.
+
+## Elevated clip treatments (added Jun 17, 2026 — the manifest is now the source of truth)
+
+Every clip in `honest-hr-shrm_2026-06-09_clips.json` is now upgraded to the clip7
+standard (not the old simple `overlays`/`images`): a staggered hook reveal, a
+full-screen animated cutaway chosen to FIT the clip's content, an audio-tail fade,
+and a single end-card CTA (no mid-roll toolkit image). Treatments are deliberately
+varied — we don't yet know what converts, so creativity per clip is preferred.
+
+| Clip | Treatment (cutaway type) | Visual |
+|---|---|---|
+| 1 spread | `equation` | $120 billed → $100 pharmacy + **$20 SPREAD** bar-split, count-up |
+| 2 "1 in 12" | `dotgrid` | 12 dots, 11 dim, 1 pops accent + "1 in 12" |
+| 3 clawback | `bigstat` (slam) | "CLAWED BACK" impact-stamp + label |
+| 4 "1 in 3" | `bigstat` | "1 in 3" + "= 30% of your workforce" |
+| 5 off-radar | `bigstat` (slam) | "OFF YOUR RADAR" + "no claims, no deductible, no data" |
+| 6 "62" | `bigstat` (count-up) | 0→62 + "you already pay" + "+60% total cost per person" |
+| 7 reporting | `stat` (3-row) | "Ask your PBM for" 1 COST / 2 REBATES / 3 NET COST |
+
+New components in `Clip.tsx`: **BigStatCutaway** (count-up if `big.countTo` is set,
+slam-in for a word/phrase otherwise) and **DotGridCutaway** (`grid.total`/`grid.highlight`
+ratio). Non-beat hooks now also get a spring entrance. Add new treatments by adding a
+`cutaways` entry with the matching `type` + payload (`equation` / `stat` / `bigstat` /
+`dotgrid`) — no per-clip component needed for those four shapes.
+
+**Timing convention (important — two clocks in the manifest):**
+`captions`/`words` are RELATIVE to clip start (e.g. `2.88`); `overlays`/`cutaways`/
+`audioFade` are ABSOLUTE source seconds (e.g. `750`). The render scripts apply the
+right offset to each: `render-with-extract.mjs` (the canonical path — pre-extracts each
+segment with ffmpeg, avoids compositor OOM) shifts captions/words by `+(inSec - ss)`
+and absolute fields by `-ss`; `render-all-platforms.mjs` shifts captions/words by
+`+inSec`. If you author a NEW cutaway, use ABSOLUTE source seconds (match the spoken
+moment in the full episode). This convention bug previously left manifest-rendered
+captions off-screen; fixed Jun 17, 2026.
+
+**Render command (produces all clips, both formats, elevated, with the safe-area fix):**
+`git pull` → `cd social_clips/remotion_starter` → ensure `public/source.mp4` (yt-dlp)
++ ffmpeg on PATH → `node render-with-extract.mjs`. Outputs `out/2026-06-09_<slug>_<aspect>.mp4`.
+
+**Still open (next elevation step):** per-clip DESIGNED COVER PNGs. Only clip7 has a
+bespoke designed cover (`DesignedCoverClip7`). The others fall back to the generic
+`coverMode` still (`render-covers.mjs`) — fine because the in-clip hook shows in the
+first ~2s, but a parameterized designed-cover component (one component, per-clip props)
+would bring covers up to clip7's level without 6 bespoke files. Build when ready.

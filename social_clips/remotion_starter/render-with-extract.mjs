@@ -53,15 +53,21 @@ for (const f of FORMATS) {
     const pad = 2;
     const ss = Math.max(0, clip.inSec - pad);
 
-    // Adjust clip timecodes relative to the extracted segment
+    // Adjust clip timecodes to the extracted segment's clock (segment frame 0 = ss).
+    // TWO conventions in the manifest:
+    //  • captions/words are RELATIVE to clip start (e.g. 2.88) → segment-time = (inSec - ss) + value
+    //  • overlays/images/cutaways/audioFade are ABSOLUTE source seconds → segment-time = value - ss
+    const off = clip.inSec - ss; // clip start within the segment (= pad, normally 2s)
     const adjustedClip = {
       ...clip,
       inSec: clip.inSec - ss,
       outSec: clip.outSec - ss,
+      captions: (clip.captions || []).map(c => ({ ...c, startSec: c.startSec + off, endSec: c.endSec + off })),
+      words: (clip.words || []).map(w => ({ ...w, startSec: w.startSec + off, endSec: w.endSec + off })),
       overlays: (clip.overlays || []).map(o => ({ ...o, startSec: o.startSec - ss, endSec: o.endSec - ss })),
-      captions: (clip.captions || []).map(c => ({ ...c, startSec: c.startSec - ss, endSec: c.endSec - ss })),
       images: (clip.images || []).map(im => ({ ...im, startSec: im.startSec - ss, endSec: im.endSec - ss })),
-      words: (clip.words || []).map(w => ({ ...w, startSec: w.startSec - ss, endSec: w.endSec - ss })),
+      cutaways: (clip.cutaways || []).map(c => ({ ...c, startSec: c.startSec - ss, endSec: c.endSec - ss, captionsFromSec: c.captionsFromSec != null ? c.captionsFromSec - ss : undefined })),
+      audioFade: clip.audioFade ? { startSec: clip.audioFade.startSec - ss, endSec: clip.audioFade.endSec - ss } : undefined,
     };
 
     // The segment file is in .tmp/ but Remotion serves from public/,

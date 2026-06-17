@@ -77,7 +77,7 @@ export type Overlay = {
 export type ImageCut = { startSec: number; endSec: number; src: string; position?: "corner" | "full" };
 export type Cutaway = {
   startSec: number; endSec: number;
-  type: "equation" | "image" | "stat";
+  type: "equation" | "image" | "stat" | "bigstat" | "dotgrid";
   captionsFromSec?: number;
   equation?: { totalNum: number; totalLabel: string; segA: string; segANum: number; segALabel: string; segB: string; segBNum: number; segBLabel: string; note?: string };
   stat?: {
@@ -87,6 +87,10 @@ export type Cutaway = {
     rowFrames?: number[];
     snapFrame?: number;
   };
+  // bigstat: one large number or word, count-up if countTo is set, slam-in otherwise.
+  big?: { value: string; label?: string; sub?: string; countTo?: number };
+  // dotgrid: "K in N" ratio made visual — N cells, first K highlighted accent, rest dim.
+  grid?: { total: number; highlight: number; label?: string; sub?: string };
   src?: string;
   imageTitle?: string;
   imageSubtitle?: string;
@@ -280,6 +284,97 @@ const StatCutaway: React.FC<{
   );
 };
 
+// ── Big-Stat / Slam Cutaway (count-up number, or a word/phrase slammed in) ──
+const BigStatCutaway: React.FC<{
+  cut: Cutaway; localFrame: number; durFrames: number; fps: number; width: number;
+}> = ({ cut, localFrame, durFrames, fps, width }) => {
+  const b = cut.big!;
+  const transIn = spring({ frame: localFrame, fps, config: { damping: 12, stiffness: 140 } });
+  const transOut = interpolate(localFrame, [durFrames - 10, durFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const envelope = Math.min(transIn, transOut);
+  const envScale = interpolate(transIn, [0, 1], [0.92, 1]);
+  const envScaleOut = interpolate(localFrame, [durFrames - 10, durFrames], [1, 0.92], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+
+  const isCount = typeof b.countTo === "number";
+  const display = isCount
+    ? String(Math.round(interpolate(localFrame, [4, 24], [0, b.countTo!], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })))
+    : b.value;
+  const wordy = /[A-Za-z]{3,}/.test(b.value) && !isCount; // "CLAWED BACK" vs "62" / "1 in 3"
+  // Slam pop for word/phrase hits; count-ups rise instead of slamming.
+  const slam = spring({ frame: localFrame, fps, config: { damping: 9, stiffness: 200, mass: 0.7 } });
+  const valScale = isCount ? 1 : interpolate(slam, [0, 1], [1.3, 1]);
+  const glow = interpolate(localFrame, [0, 6, 24], [0, 34, 16], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const labelIn = spring({ frame: Math.max(0, localFrame - 10), fps, config: { damping: 16, stiffness: 110 } });
+  const subIn = spring({ frame: Math.max(0, localFrame - 20), fps, config: { damping: 16, stiffness: 110 } });
+
+  return (
+    <AbsoluteFill style={{ backgroundColor: PRIMARY, opacity: envelope, transform: `scale(${Math.min(envScale, envScaleOut)})`, zIndex: 20 }}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: "0 8%" }}>
+        <div style={{
+          fontFamily: wordy ? SANS : MONO,
+          fontSize: wordy ? (b.value.length > 10 ? 96 : 120) : 200,
+          fontWeight: 700, color: ACCENT, lineHeight: 1.04, textAlign: "center",
+          maxWidth: width * 0.84,
+          textTransform: wordy ? "uppercase" : "none",
+          transform: `scale(${valScale})`,
+          textShadow: glow > 0 ? `0 0 ${glow}px ${ACCENT}` : "none",
+        }}>{display}</div>
+        {b.label ? (
+          <div style={{ marginTop: 30, fontFamily: SANS, fontSize: 38, fontWeight: 600, color: WHITE, textAlign: "center", lineHeight: 1.25, maxWidth: width * 0.82, opacity: labelIn, transform: `translateY(${(1 - labelIn) * 16}px)` }}>{b.label}</div>
+        ) : null}
+        {b.sub ? (
+          <div style={{ marginTop: 18, fontFamily: SANS, fontSize: 28, fontWeight: 700, color: ACCENT, textAlign: "center", opacity: subIn }}>{b.sub}</div>
+        ) : null}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
+// ── Dot-Grid Ratio Cutaway ("K in N": N cells appear, non-highlighted dim, K pop accent) ──
+const DotGridCutaway: React.FC<{
+  cut: Cutaway; localFrame: number; durFrames: number; fps: number; width: number;
+}> = ({ cut, localFrame, durFrames, fps, width }) => {
+  const g = cut.grid!;
+  const transIn = spring({ frame: localFrame, fps, config: { damping: 12, stiffness: 140 } });
+  const transOut = interpolate(localFrame, [durFrames - 10, durFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const envelope = Math.min(transIn, transOut);
+
+  const cols = g.total <= 4 ? g.total : Math.ceil(Math.sqrt(g.total)); // 3 → 3 across; 12 → 4 wide
+  const dotSize = g.total <= 4 ? 110 : 68;
+  const dimFrame = 28;
+  const titleIn = spring({ frame: localFrame, fps, config: { damping: 16, stiffness: 110 } });
+  const ratioIn = spring({ frame: Math.max(0, localFrame - dimFrame), fps, config: { damping: 10, stiffness: 160, mass: 0.7 } });
+
+  return (
+    <AbsoluteFill style={{ backgroundColor: PRIMARY, opacity: envelope, zIndex: 20 }}>
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: "0 8%", gap: 32 }}>
+        {g.label ? <div style={{ fontFamily: SANS, fontSize: 30, fontWeight: 600, color: WHITE, letterSpacing: 2, textTransform: "uppercase", opacity: titleIn }}>{g.label}</div> : null}
+        <div style={{ display: "grid", gridTemplateColumns: `repeat(${cols}, ${dotSize}px)`, gap: 18, justifyContent: "center" }}>
+          {Array.from({ length: g.total }).map((_, i) => {
+            const appear = spring({ frame: Math.max(0, localFrame - i * 2), fps, config: { damping: 14, stiffness: 160 } });
+            const isHi = i < g.highlight;
+            const dim = !isHi && localFrame >= dimFrame ? interpolate(localFrame, [dimFrame, dimFrame + 10], [1, 0.22], { extrapolateRight: "clamp" }) : 1;
+            const hiPop = isHi && localFrame >= dimFrame ? interpolate(ratioIn, [0, 0.5, 1], [1, 1.18, 1]) : 1;
+            return (
+              <div key={i} style={{
+                width: dotSize, height: dotSize, borderRadius: "50%",
+                background: isHi ? ACCENT : WHITE,
+                opacity: appear * dim,
+                transform: `scale(${appear * hiPop})`,
+                boxShadow: isHi && localFrame >= dimFrame ? `0 0 24px ${ACCENT}` : "none",
+              }} />
+            );
+          })}
+        </div>
+        <div style={{ fontFamily: MONO, fontSize: 68, fontWeight: 700, color: ACCENT, opacity: ratioIn, transform: `scale(${interpolate(ratioIn, [0, 1], [0.8, 1])})` }}>
+          {g.highlight} in {g.total}
+        </div>
+        {g.sub ? <div style={{ fontFamily: SANS, fontSize: 30, fontWeight: 600, color: WHITE, textAlign: "center", maxWidth: width * 0.82, opacity: interpolate(localFrame, [dimFrame + 6, dimFrame + 18], [0, 1], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) }}>{g.sub}</div> : null}
+      </div>
+    </AbsoluteFill>
+  );
+};
+
 // ── Duplicate-word filter (e.g. "GLP-1s one" → "GLP-1s") ──
 const dedupeWords = (words: Word[]): Word[] => {
   const out: Word[] = [];
@@ -447,7 +542,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                 padding: "22px 32px",
                 borderRadius: 16,
                 boxShadow: "0 12px 40px rgba(0,0,0,0.5)",
-                ...(hookBeatsMode ? { transform: `scale(${hookPanelScale})`, transformOrigin: "top center" } : null),
+                // Spring entrance for BOTH modes (beats panel grows; non-beats panel pops in).
+                transform: `scale(${hookPanelScale})`, transformOrigin: "top center",
               }}>
                 {hookBeatsMode ? (
                   // Staggered line 1: only revealed beats occupy layout, so the panel auto-grows
@@ -498,6 +594,12 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
             }
             if (cut.type === "stat" && cut.stat) {
               return <StatCutaway key={`cut-${i}`} cut={cut} localFrame={lf} durFrames={dur} fps={fps} width={width} height={height} />;
+            }
+            if (cut.type === "bigstat" && cut.big) {
+              return <BigStatCutaway key={`cut-${i}`} cut={cut} localFrame={lf} durFrames={dur} fps={fps} width={width} />;
+            }
+            if (cut.type === "dotgrid" && cut.grid) {
+              return <DotGridCutaway key={`cut-${i}`} cut={cut} localFrame={lf} durFrames={dur} fps={fps} width={width} />;
             }
             return null;
           })}
