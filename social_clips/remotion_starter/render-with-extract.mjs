@@ -7,9 +7,17 @@
 import { execSync } from "node:child_process";
 import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync, copyFileSync } from "node:fs";
 
-const manifestPath = process.argv[2] || "../honest-hr-shrm_2026-06-09_clips.json";
+// Usage:  node render-with-extract.mjs [manifest.json] [clipId]
+//   - render one clip:  node render-with-extract.mjs clip4   (default manifest)
+//   - render all:       node render-with-extract.mjs
+const arg2 = process.argv[2];
+const manifestPath = (arg2 && arg2.endsWith(".json")) ? arg2 : "../honest-hr-shrm_2026-06-09_clips.json";
+const clipFilter = (arg2 && !arg2.endsWith(".json")) ? arg2 : process.argv[3];
 const m = JSON.parse(readFileSync(manifestPath, "utf8"));
 const fps = m.fps || 30;
+const clips = clipFilter ? m.clips.filter(c => c.id === clipFilter || c.slug === clipFilter) : m.clips;
+if (clipFilter && !clips.length) { console.error(`\n✗ No clip matching "${clipFilter}".\n`); process.exit(1); }
+if (clipFilter) console.log(`(rendering only: ${clips.map(c => c.id).join(", ")})`);
 
 if (!existsSync(`public/${m.sourceVideo}`)) {
   console.error(`\n✗ Missing public/${m.sourceVideo}.\n`);
@@ -49,7 +57,7 @@ const FORMATS = [
 const t0 = Date.now();
 for (const f of FORMATS) {
   console.log(`\n--- FORMAT: ${f.label} ---`);
-  for (const clip of m.clips) {
+  for (const clip of clips) {
     const pad = 2;
     const ss = Math.max(0, clip.inSec - pad);
 

@@ -598,7 +598,7 @@
             "segALabel": "paid to the pharmacy",
             "segB": "$20",
             "segBNum": 20,
-            "segBLabel": "SPREAD — kept by the PBM",
+            "segBLabel": "SPREAD kept by the PBM",
             "note": "Illustrative example. Actual amounts vary by plan."
           }
         }
@@ -1653,7 +1653,13 @@
       "audioFade": {
         "startSec": 856.3,
         "endSec": 857
-      }
+      },
+      "fitWindows": [
+        {
+          "startSec": 850,
+          "endSec": 854
+        }
+      ]
     },
     {
       "id": "clip4",
@@ -2142,14 +2148,14 @@
       "fitWindows": [
         {
           "startSec": 1137,
-          "endSec": 1147
+          "endSec": 1148
         }
       ]
     },
     {
       "id": "clip5",
       "slug": "members-get-them-anyway",
-      "inSec": 1489,
+      "inSec": 1490,
       "outSec": 1516,
       "aspect": "4x5",
       "platform": "linkedin",
@@ -2162,545 +2168,545 @@
       },
       "captions": [
         {
-          "startSec": 2.56,
-          "endSec": 4.5,
+          "startSec": 1.56,
+          "endSec": 3.5,
           "text": "If they are going through these"
         },
         {
-          "startSec": 4.5,
-          "endSec": 7.5,
+          "startSec": 3.5,
+          "endSec": 6.5,
           "text": "direct -to -consumer programs, you as"
         },
         {
-          "startSec": 7.5,
-          "endSec": 9.36,
+          "startSec": 6.5,
+          "endSec": 8.36,
           "text": "an employer lose sight of all"
         },
         {
-          "startSec": 9.36,
-          "endSec": 10.44,
+          "startSec": 8.36,
+          "endSec": 9.44,
           "text": "of that. Like, you don't get"
         },
         {
-          "startSec": 10.44,
-          "endSec": 11.68,
+          "startSec": 9.44,
+          "endSec": 10.68,
           "text": "to see it. It also doesn't"
         },
         {
-          "startSec": 11.68,
-          "endSec": 13.28,
+          "startSec": 10.68,
+          "endSec": 12.28,
           "text": "help them with their out -of"
         },
         {
-          "startSec": 13.28,
-          "endSec": 15.3,
+          "startSec": 12.28,
+          "endSec": 14.3,
           "text": "-pocket costs for the year, the"
         },
         {
-          "startSec": 15.3,
-          "endSec": 17.64,
+          "startSec": 14.3,
+          "endSec": 16.64,
           "text": "deductibles and things like that. It"
         },
         {
-          "startSec": 17.64,
-          "endSec": 19.68,
+          "startSec": 16.64,
+          "endSec": 18.68,
           "text": "doesn't track towards that. So whether"
         },
         {
-          "startSec": 19.68,
-          "endSec": 20.82,
+          "startSec": 18.68,
+          "endSec": 19.82,
           "text": "you cover it or not, all"
         },
         {
-          "startSec": 20.82,
-          "endSec": 22.36,
+          "startSec": 19.82,
+          "endSec": 21.36,
           "text": "of these things are happening, right?"
         },
         {
-          "startSec": 22.54,
-          "endSec": 24.86,
+          "startSec": 21.54,
+          "endSec": 23.86,
           "text": "So I don't think there's a"
         },
         {
-          "startSec": 24.86,
-          "endSec": 26.06,
+          "startSec": 23.86,
+          "endSec": 25.06,
           "text": "way to just put your head"
         },
         {
-          "startSec": 26.06,
-          "endSec": 26.94,
+          "startSec": 25.06,
+          "endSec": 25.94,
           "text": "in the sand and think this"
         },
         {
-          "startSec": 26.94,
-          "endSec": 28.24,
+          "startSec": 25.94,
+          "endSec": 27.24,
           "text": "is all going away. I think"
         },
         {
-          "startSec": 28.24,
-          "endSec": 29.32,
+          "startSec": 27.24,
+          "endSec": 28.32,
           "text": "it is"
         }
       ],
       "words": [
         {
-          "startSec": 2.56,
-          "endSec": 2.96,
+          "startSec": 1.56,
+          "endSec": 1.96,
           "text": "If"
         },
         {
-          "startSec": 2.96,
-          "endSec": 3.18,
+          "startSec": 1.96,
+          "endSec": 2.18,
           "text": "they"
         },
         {
-          "startSec": 3.18,
-          "endSec": 3.42,
+          "startSec": 2.18,
+          "endSec": 2.42,
           "text": "are"
         },
         {
-          "startSec": 3.42,
-          "endSec": 3.8,
+          "startSec": 2.42,
+          "endSec": 2.8,
           "text": "going"
         },
         {
-          "startSec": 3.8,
-          "endSec": 4.12,
+          "startSec": 2.8,
+          "endSec": 3.12,
           "text": "through"
         },
         {
-          "startSec": 4.12,
-          "endSec": 4.5,
+          "startSec": 3.12,
+          "endSec": 3.5,
           "text": "these"
         },
         {
-          "startSec": 4.5,
-          "endSec": 4.84,
+          "startSec": 3.5,
+          "endSec": 3.84,
           "text": "direct"
         },
         {
-          "startSec": 4.84,
-          "endSec": 5.14,
+          "startSec": 3.84,
+          "endSec": 4.14,
           "text": "-to"
         },
         {
-          "startSec": 5.14,
-          "endSec": 5.64,
+          "startSec": 4.14,
+          "endSec": 4.64,
           "text": "-consumer"
         },
         {
-          "startSec": 5.64,
-          "endSec": 6.18,
+          "startSec": 4.64,
+          "endSec": 5.18,
           "text": "programs,"
         },
         {
-          "startSec": 6.78,
-          "endSec": 6.86,
+          "startSec": 5.78,
+          "endSec": 5.86,
           "text": "you"
         },
         {
-          "startSec": 6.86,
-          "endSec": 7.5,
+          "startSec": 5.86,
+          "endSec": 6.5,
           "text": "as"
         },
         {
-          "startSec": 7.5,
-          "endSec": 7.64,
+          "startSec": 6.5,
+          "endSec": 6.64,
           "text": "an"
         },
         {
-          "startSec": 7.64,
-          "endSec": 7.88,
+          "startSec": 6.64,
+          "endSec": 6.88,
           "text": "employer"
         },
         {
-          "startSec": 7.88,
-          "endSec": 8.28,
+          "startSec": 6.88,
+          "endSec": 7.279999999999999,
           "text": "lose"
         },
         {
-          "startSec": 8.28,
-          "endSec": 8.68,
+          "startSec": 7.279999999999999,
+          "endSec": 7.68,
           "text": "sight"
         },
         {
-          "startSec": 8.68,
-          "endSec": 9.22,
+          "startSec": 7.68,
+          "endSec": 8.22,
           "text": "of"
         },
         {
-          "startSec": 9.22,
-          "endSec": 9.36,
+          "startSec": 8.22,
+          "endSec": 8.36,
           "text": "all"
         },
         {
-          "startSec": 9.36,
-          "endSec": 9.54,
+          "startSec": 8.36,
+          "endSec": 8.54,
           "text": "of"
         },
         {
-          "startSec": 9.54,
-          "endSec": 9.72,
+          "startSec": 8.54,
+          "endSec": 8.72,
           "text": "that."
         },
         {
-          "startSec": 9.98,
-          "endSec": 10.06,
+          "startSec": 8.98,
+          "endSec": 9.06,
           "text": "Like,"
         },
         {
-          "startSec": 10.12,
-          "endSec": 10.2,
+          "startSec": 9.12,
+          "endSec": 9.2,
           "text": "you"
         },
         {
-          "startSec": 10.2,
-          "endSec": 10.34,
+          "startSec": 9.2,
+          "endSec": 9.34,
           "text": "don't"
         },
         {
-          "startSec": 10.34,
-          "endSec": 10.44,
+          "startSec": 9.34,
+          "endSec": 9.44,
           "text": "get"
         },
         {
-          "startSec": 10.44,
-          "endSec": 10.6,
+          "startSec": 9.44,
+          "endSec": 9.6,
           "text": "to"
         },
         {
-          "startSec": 10.6,
-          "endSec": 10.8,
+          "startSec": 9.6,
+          "endSec": 9.8,
           "text": "see"
         },
         {
-          "startSec": 10.8,
-          "endSec": 10.96,
+          "startSec": 9.8,
+          "endSec": 9.96,
           "text": "it."
         },
         {
-          "startSec": 11.04,
-          "endSec": 11.1,
+          "startSec": 10.04,
+          "endSec": 10.1,
           "text": "It"
         },
         {
-          "startSec": 11.1,
-          "endSec": 11.28,
+          "startSec": 10.1,
+          "endSec": 10.28,
           "text": "also"
         },
         {
-          "startSec": 11.28,
-          "endSec": 11.68,
+          "startSec": 10.28,
+          "endSec": 10.68,
           "text": "doesn't"
         },
         {
-          "startSec": 11.68,
-          "endSec": 11.84,
+          "startSec": 10.68,
+          "endSec": 10.84,
           "text": "help"
         },
         {
-          "startSec": 11.84,
-          "endSec": 12.12,
+          "startSec": 10.84,
+          "endSec": 11.12,
           "text": "them"
         },
         {
-          "startSec": 12.12,
-          "endSec": 12.86,
+          "startSec": 11.12,
+          "endSec": 11.86,
           "text": "with"
         },
         {
-          "startSec": 12.86,
-          "endSec": 13.04,
+          "startSec": 11.86,
+          "endSec": 12.04,
           "text": "their"
         },
         {
-          "startSec": 13.04,
-          "endSec": 13.18,
+          "startSec": 12.04,
+          "endSec": 12.18,
           "text": "out"
         },
         {
-          "startSec": 13.18,
-          "endSec": 13.28,
+          "startSec": 12.18,
+          "endSec": 12.28,
           "text": "-of"
         },
         {
-          "startSec": 13.28,
-          "endSec": 13.6,
+          "startSec": 12.28,
+          "endSec": 12.6,
           "text": "-pocket"
         },
         {
-          "startSec": 13.6,
-          "endSec": 13.86,
+          "startSec": 12.6,
+          "endSec": 12.86,
           "text": "costs"
         },
         {
-          "startSec": 14.44,
-          "endSec": 14.64,
+          "startSec": 13.44,
+          "endSec": 13.64,
           "text": "for"
         },
         {
-          "startSec": 14.64,
-          "endSec": 14.78,
+          "startSec": 13.64,
+          "endSec": 13.78,
           "text": "the"
         },
         {
-          "startSec": 14.78,
-          "endSec": 15,
+          "startSec": 13.78,
+          "endSec": 14,
           "text": "year,"
         },
         {
-          "startSec": 15.26,
-          "endSec": 15.3,
+          "startSec": 14.26,
+          "endSec": 14.3,
           "text": "the"
         },
         {
-          "startSec": 15.3,
-          "endSec": 16.9,
+          "startSec": 14.3,
+          "endSec": 15.899999999999999,
           "text": "deductibles"
         },
         {
-          "startSec": 16.9,
-          "endSec": 17.04,
+          "startSec": 15.899999999999999,
+          "endSec": 16.04,
           "text": "and"
         },
         {
-          "startSec": 17.04,
-          "endSec": 17.18,
+          "startSec": 16.04,
+          "endSec": 16.18,
           "text": "things"
         },
         {
-          "startSec": 17.18,
-          "endSec": 17.38,
+          "startSec": 16.18,
+          "endSec": 16.38,
           "text": "like"
         },
         {
-          "startSec": 17.38,
-          "endSec": 17.52,
+          "startSec": 16.38,
+          "endSec": 16.52,
           "text": "that."
         },
         {
-          "startSec": 17.62,
-          "endSec": 17.64,
+          "startSec": 16.62,
+          "endSec": 16.64,
           "text": "It"
         },
         {
-          "startSec": 17.64,
-          "endSec": 17.84,
+          "startSec": 16.64,
+          "endSec": 16.84,
           "text": "doesn't"
         },
         {
-          "startSec": 17.84,
-          "endSec": 18.04,
+          "startSec": 16.84,
+          "endSec": 17.04,
           "text": "track"
         },
         {
-          "startSec": 18.04,
-          "endSec": 18.32,
+          "startSec": 17.04,
+          "endSec": 17.32,
           "text": "towards"
         },
         {
-          "startSec": 18.32,
-          "endSec": 18.62,
+          "startSec": 17.32,
+          "endSec": 17.62,
           "text": "that."
         },
         {
-          "startSec": 18.82,
-          "endSec": 18.96,
+          "startSec": 17.82,
+          "endSec": 17.96,
           "text": "So"
         },
         {
-          "startSec": 18.96,
-          "endSec": 19.68,
+          "startSec": 17.96,
+          "endSec": 18.68,
           "text": "whether"
         },
         {
-          "startSec": 19.68,
-          "endSec": 19.98,
+          "startSec": 18.68,
+          "endSec": 18.98,
           "text": "you"
         },
         {
-          "startSec": 19.98,
-          "endSec": 20.16,
+          "startSec": 18.98,
+          "endSec": 19.16,
           "text": "cover"
         },
         {
-          "startSec": 20.16,
-          "endSec": 20.32,
+          "startSec": 19.16,
+          "endSec": 19.32,
           "text": "it"
         },
         {
-          "startSec": 20.32,
-          "endSec": 20.4,
+          "startSec": 19.32,
+          "endSec": 19.4,
           "text": "or"
         },
         {
-          "startSec": 20.4,
-          "endSec": 20.54,
+          "startSec": 19.4,
+          "endSec": 19.54,
           "text": "not,"
         },
         {
-          "startSec": 20.68,
-          "endSec": 20.82,
+          "startSec": 19.68,
+          "endSec": 19.82,
           "text": "all"
         },
         {
-          "startSec": 20.82,
-          "endSec": 20.96,
+          "startSec": 19.82,
+          "endSec": 19.96,
           "text": "of"
         },
         {
-          "startSec": 20.96,
-          "endSec": 21.14,
+          "startSec": 19.96,
+          "endSec": 20.14,
           "text": "these"
         },
         {
-          "startSec": 21.14,
-          "endSec": 21.38,
+          "startSec": 20.14,
+          "endSec": 20.38,
           "text": "things"
         },
         {
-          "startSec": 21.38,
-          "endSec": 21.6,
+          "startSec": 20.38,
+          "endSec": 20.6,
           "text": "are"
         },
         {
-          "startSec": 21.6,
-          "endSec": 21.92,
+          "startSec": 20.6,
+          "endSec": 20.92,
           "text": "happening,"
         },
         {
-          "startSec": 22.24,
-          "endSec": 22.36,
+          "startSec": 21.24,
+          "endSec": 21.36,
           "text": "right?"
         },
         {
-          "startSec": 22.54,
-          "endSec": 22.62,
+          "startSec": 21.54,
+          "endSec": 21.62,
           "text": "So"
         },
         {
-          "startSec": 22.62,
-          "endSec": 22.74,
+          "startSec": 21.62,
+          "endSec": 21.74,
           "text": "I"
         },
         {
-          "startSec": 22.74,
-          "endSec": 23.18,
+          "startSec": 21.74,
+          "endSec": 22.18,
           "text": "don't"
         },
         {
-          "startSec": 23.18,
-          "endSec": 23.4,
+          "startSec": 22.18,
+          "endSec": 22.4,
           "text": "think"
         },
         {
-          "startSec": 23.4,
-          "endSec": 24.78,
+          "startSec": 22.4,
+          "endSec": 23.78,
           "text": "there's"
         },
         {
-          "startSec": 24.78,
-          "endSec": 24.86,
+          "startSec": 23.78,
+          "endSec": 23.86,
           "text": "a"
         },
         {
-          "startSec": 24.86,
-          "endSec": 25.06,
+          "startSec": 23.86,
+          "endSec": 24.06,
           "text": "way"
         },
         {
-          "startSec": 25.06,
-          "endSec": 25.34,
+          "startSec": 24.06,
+          "endSec": 24.34,
           "text": "to"
         },
         {
-          "startSec": 25.34,
-          "endSec": 25.56,
+          "startSec": 24.34,
+          "endSec": 24.56,
           "text": "just"
         },
         {
-          "startSec": 25.56,
-          "endSec": 25.76,
+          "startSec": 24.56,
+          "endSec": 24.76,
           "text": "put"
         },
         {
-          "startSec": 25.76,
-          "endSec": 25.9,
+          "startSec": 24.76,
+          "endSec": 24.9,
           "text": "your"
         },
         {
-          "startSec": 25.9,
-          "endSec": 26.06,
+          "startSec": 24.9,
+          "endSec": 25.06,
           "text": "head"
         },
         {
-          "startSec": 26.06,
-          "endSec": 26.18,
+          "startSec": 25.06,
+          "endSec": 25.18,
           "text": "in"
         },
         {
-          "startSec": 26.18,
-          "endSec": 26.26,
+          "startSec": 25.18,
+          "endSec": 25.26,
           "text": "the"
         },
         {
-          "startSec": 26.26,
-          "endSec": 26.46,
+          "startSec": 25.26,
+          "endSec": 25.46,
           "text": "sand"
         },
         {
-          "startSec": 26.46,
-          "endSec": 26.64,
+          "startSec": 25.46,
+          "endSec": 25.64,
           "text": "and"
         },
         {
-          "startSec": 26.64,
-          "endSec": 26.76,
+          "startSec": 25.64,
+          "endSec": 25.76,
           "text": "think"
         },
         {
-          "startSec": 26.76,
-          "endSec": 26.94,
+          "startSec": 25.76,
+          "endSec": 25.94,
           "text": "this"
         },
         {
-          "startSec": 26.94,
-          "endSec": 27.04,
+          "startSec": 25.94,
+          "endSec": 26.04,
           "text": "is"
         },
         {
-          "startSec": 27.04,
-          "endSec": 27.16,
+          "startSec": 26.04,
+          "endSec": 26.16,
           "text": "all"
         },
         {
-          "startSec": 27.16,
-          "endSec": 27.4,
+          "startSec": 26.16,
+          "endSec": 26.4,
           "text": "going"
         },
         {
-          "startSec": 27.4,
-          "endSec": 27.68,
+          "startSec": 26.4,
+          "endSec": 26.68,
           "text": "away."
         },
         {
-          "startSec": 27.68,
-          "endSec": 28.02,
+          "startSec": 26.68,
+          "endSec": 27.02,
           "text": "I"
         },
         {
-          "startSec": 28.02,
-          "endSec": 28.24,
+          "startSec": 27.02,
+          "endSec": 27.24,
           "text": "think"
         },
         {
-          "startSec": 28.24,
-          "endSec": 28.5,
+          "startSec": 27.24,
+          "endSec": 27.5,
           "text": "it"
         },
         {
-          "startSec": 28.5,
-          "endSec": 29.32,
+          "startSec": 27.5,
+          "endSec": 28.32,
           "text": "is"
         }
       ],

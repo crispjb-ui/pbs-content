@@ -155,9 +155,19 @@ const EquationCutaway: React.FC<{
   const barW = width * 0.72;
   const segAFrac = eq.segANum / eq.totalNum;
 
+  // ── Grow phase: after the split snaps, segB ($20 SPREAD) breaks away from the bar,
+  // zooms in and intensifies (glow), its label following as ONE line. The bar fades out. ──
+  const growStart = 52;
+  const growEnd = Math.max(growStart + 10, durFrames - 14);
+  const grow = interpolate(localFrame, [growStart, growEnd], [0, 1], { easing: Easing.out(Easing.cubic), extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+  const barFade = 1 - grow;
+  const growScale = interpolate(grow, [0, 1], [1, 2.0]);
+  const growGlow = interpolate(grow, [0, 1], [12, 64]);
+
   return (
     <AbsoluteFill style={{ backgroundColor: PRIMARY, opacity: envelope, transform: `scale(${Math.min(envScale, envScaleOut)})`, zIndex: 20 }}>
-      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: "0 50px" }}>
+      {/* Build phase: total + bar + segment labels (fades out as the $20 breaks away) */}
+      <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: "0 50px", opacity: barFade }}>
         <div style={{ opacity: titleSpring, transform: `translateY(${(1 - titleSpring) * -30}px)`, marginBottom: 28 }}>
           <span style={{ fontFamily: MONO, fontSize: 72, fontWeight: 700, color: WHITE }}>${countVal}</span>
           <span style={{ fontFamily: SANS, fontSize: 26, fontWeight: 600, color: WHITE, marginLeft: 14, opacity: 0.8 }}>{eq.totalLabel}</span>
@@ -179,8 +189,22 @@ const EquationCutaway: React.FC<{
           <div style={{ width: `${segAFrac * 100}%`, fontFamily: SANS, fontSize: 20, color: WHITE, fontWeight: 600, opacity: splitProg }}>{eq.segALabel}</div>
           <div style={{ width: `${(1 - segAFrac) * 100}%`, fontFamily: SANS, fontSize: 20, color: ACCENT, fontWeight: 700, opacity: labelSlide, transform: `translateY(${(1 - labelSlide) * 12}px)` }}>{eq.segBLabel}</div>
         </div>
-        {eq.note ? <div style={{ fontFamily: SANS, fontSize: 14, color: WHITE, opacity: 0.4, marginTop: 28 }}>{eq.note}</div> : null}
       </div>
+
+      {/* Grow phase overlay: the $20 SPREAD box scales up + glows, label as one line under it */}
+      {grow > 0.001 && (
+        <AbsoluteFill style={{ display: "flex", alignItems: "center", justifyContent: "center", opacity: grow }}>
+          <div style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: 26, transform: `scale(${growScale})` }}>
+            <div style={{ background: ACCENT, borderRadius: 18, padding: "16px 40px", boxShadow: `0 0 ${growGlow}px ${ACCENT}, 0 14px 40px rgba(0,0,0,0.4)` }}>
+              <span style={{ fontFamily: MONO, fontSize: 96, fontWeight: 700, color: PRIMARY, lineHeight: 1 }}>{eq.segB}</span>
+            </div>
+            <div style={{ fontFamily: SANS, fontSize: 28, fontWeight: 700, color: ACCENT, whiteSpace: "nowrap" }}>{eq.segBLabel}</div>
+          </div>
+        </AbsoluteFill>
+      )}
+
+      {/* Persistent disclaimer */}
+      {eq.note ? <div style={{ position: "absolute", bottom: height * 0.06, left: 0, right: 0, textAlign: "center", fontFamily: SANS, fontSize: 14, color: WHITE, opacity: 0.4 }}>{eq.note}</div> : null}
     </AbsoluteFill>
   );
 };
@@ -465,8 +489,18 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const showBadge = frame > hookDurFrames;
 
   // ── Name plate (fly in ~2s, hold ~3.5s, fly out) ──
-  const plateInFrame = Math.round(2 * fps);
+  // If a cutaway overlaps the default 2s window, the full-screen cutaway swallows the plate
+  // (clips whose stat is spoken early). Delay the plate to just after that cutaway ends.
   const plateHold = Math.round(3.5 * fps);
+  const plateInFrame = (() => {
+    let p = Math.round(2 * fps);
+    for (const c of clip.cutaways ?? []) {
+      const cs = Math.round((c.startSec - clip.inSec) * fps);
+      const ce = Math.round((c.endSec - clip.inSec) * fps);
+      if (cs < p + plateHold && ce > p) p = ce + Math.round(0.3 * fps);
+    }
+    return p;
+  })();
   const plateOutFrame = plateInFrame + plateHold;
   const plateFlyIn = spring({ frame: Math.max(0, frame - plateInFrame), fps, config: { damping: 14, stiffness: 100 } });
   const plateFlyOut = spring({ frame: Math.max(0, frame - plateOutFrame), fps, config: { damping: 14, stiffness: 100 } });
