@@ -101,6 +101,8 @@ Your PBM starts their renewal preparation months before presenting terms. They h
 
 The best brokers and consultants I work with start this process even earlier. But 90 days is the floor. Below that, you are negotiating from reaction, not preparation.
 
+> As I wrote last week in my debut for Wendell Potter's HEALTH CARE un-covered: every PBM contract I audit has five revenue streams running through it, and most plan sponsors see only one of them clearly named. The 90-day window is when you map all five and act on them before the PBM sets the terms. The full map is here: [HEALTH CARE un-covered Opening Piece URL].
+
 **The 90-day renewal preparation timeline**
 
 This is the week-by-week framework we use with clients. Each phase has specific deliverables and responsible parties. Your broker or consultant can use this as the project plan for your renewal preparation.
@@ -404,6 +406,8 @@ Optimize vs Go-to-Market is the natural upstream decision Tier 1 framework. Chan
 
 ### Newsletter Body
 
+Last week I debuted as a contributing author at Wendell Potter's HEALTH CARE un-covered, mapping the five revenue streams that run through every PBM contract: spread pricing, rebate retention, administrative fees, manufacturer-direct payments, and owned-pharmacy margin. Knowing where your plan's money goes is the first move. Renewal is when you act on it.
+
 I sat with two clients last fall, both facing January 1 PBM renewals. One started preparation in July. The other called us in September. Same PBM. Same market. Fundamentally different outcomes.
 
 The July client had time to pull their own claims data, benchmark pricing against market, identify where guarantees were falling short, and build a specific list of contract provisions they wanted changed. When renewal arrived, they walked in with their own analysis, their own priorities, and their broker at the table with market intelligence.
@@ -443,7 +447,7 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-Ninety days before your PBM contract renews, the PBM has already started setting the terms. Most plan sponsors start preparing thirty days in. The gap costs you.
+Last week I mapped the five revenue streams in every PBM contract for Wendell Potter's HEALTH CARE un-covered. This week is about acting on them: ninety days before your PBM renews, it has already started setting next year's terms, and most plan sponsors start preparing thirty days in.
 
 This briefing maps the 90-day window week by week: what to ask, what to pull, what to send your broker, and when.
 
@@ -457,9 +461,9 @@ Week-by-week renewal preparation timeline on Substack.
 Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
 
 ```
-Your PBM has been preparing for renewal for months. The 90-day window is where you catch up or fall behind.
+Last week was my debut for Wendell Potter's HEALTH CARE un-covered: the five revenue streams every PBM runs through your contract. [HEALTH CARE un-covered Opening Piece URL]
 
-I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+Your PBM has been preparing for renewal for months. The 90-day window is where you catch up or fall behind. I broke it down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
 And this week's RFP Scoring Methodology Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/rfp-scoring-audit
 ```
