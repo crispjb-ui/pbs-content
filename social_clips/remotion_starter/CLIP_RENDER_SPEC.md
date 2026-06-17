@@ -128,6 +128,12 @@ commit + push to main.
    the Remotion preview: nothing clips left/right, the badge + name plate are fully
    visible, and the badge sits clear of LinkedIn's name/headline. If anything still
    clips, bump SAFE_X / SAFE_TOP toward 0.12-0.14. The designed cover PNG is
-   unaffected (in-feed the header sits ABOVE the thumbnail, not over it). Verified
-   here by rendering 4:5 stills at the hook / name-plate / badge / caption frames
-   over a placeholder source. Re-render clip7 to this before reusing it.
+   unaffected (in-feed the header sits ABOVE the thumbnail, not over it).
+   9:16 (Reels/Shorts/TikTok): the SAFE_X / SAFE_TOP / centered-caption fixes apply
+   automatically (the constants are width/height-based). Additionally the name plate
+   is raised to ~16% from the bottom for 9:16 (vs the smaller 4:5 margin) to clear
+   the Reels/TikTok caption + username band. The right ACTION RAIL (like/comment/
+   share) and the bottom caption are 9:16-only platform UI — eyeball the right edge
+   and bottom on the actual app. Both aspects verified here via still renders (hook /
+   name-plate / badge / caption frames over a placeholder source). Re-render clip7
+   to this before reusing it.

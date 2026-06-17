@@ -506,7 +506,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {plateVisible && (
             <div style={{
               position: "absolute",
-              bottom: clip.aspect === "4x5" ? 110 : 150,
+              bottom: clip.aspect === "4x5" ? 110 : Math.round(height * 0.16),
               left: SAFE_X,
               transform: `translateX(${plateX}%)`,
               zIndex: 35,
