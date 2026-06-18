@@ -26,7 +26,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jun 30 | 7:00 PM | X | question [A7] | PART 4B · Tue | [ ] |
 | Tue Jun 30 | 8:30 PM | X | one question [B7] | PART 4B · Tue | [ ] |
 | Wed Jul 1 | 8:00 AM | X | named-adversary / rebate retention (general; protects the Thu term-set) | PART 4B · Wed | [ ] |
-| Wed Jul 1 | 10:00 AM | LI Feed | Post 94 — "Your formulary was built for your PBM's rebate strategy" (POV text / Video Test #1) | Post 94 | [ ] |
+| Wed Jul 1 | 8:30 AM | LI Feed | Post 94 — SHRM clip1 "They keep the difference" (spread) · NATIVE 9:16 VIDEO; first comment → channel-pricing toolkit | Post 94 | [ ] |
 | Wed Jul 1 | 12:00 PM | X | decoder (rebate vs discount) | PART 4B · Wed | [ ] |
 | Wed Jul 1 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Jul 1 | 5:00 PM | X | stat-shock / structural | PART 4B · Wed | [ ] |
@@ -548,8 +548,49 @@ Ginny Crisp decodes the five and the contract language that pulls them back into
 
 ---
 
-## Post 94 - Wednesday 10:00 AM
-### "Your formulary was built for your PBM's rebate strategy." (Strong POV Text / VIDEO TEST #1)
+## Post 94 - Wednesday 8:30 AM
+### SHRM "Honest HR" clip1 — "They keep the difference" (spread pricing) · NATIVE 9:16 VIDEO
+
+**Format:** Native 9:16 video. Asset: `social_clips/remotion_starter/out/2026-06-09_spread-pricing-glp1_9x16.mp4` (SHRM Honest HR clip1).
+**Pillar:** Transparency & Industry Education (spread)
+**Directions:** Upload the **9:16** render as a FILE (not a YouTube/Vimeo link) from Ginny's **personal profile**, 8:30 AM EST. Captions are burned in; hook lands in the first 3 seconds. Post body stays link-free; the toolkit link goes in the **first comment**. Custom thumbnail = the clip's designed cover if available. Why video here: the Wednesday confrontational-POV slot delivered as native 9:16 = dual distribution (main feed + video tab), per the CLAUDE.md video-tab rule. (Source copy: `social_clips/honest-hr-shrm_2026-06-09_clips.md` clip1.)
+
+#### Post Copy
+
+```
+Spread pricing works like this:
+
+Your PBM pays the pharmacy $100 for a drug.
+Then bills your plan $120.
+It keeps the $20. Every fill.
+
+Now run that on a GLP-1, where a single month can list north of $1,000, and the gap the PBM keeps isn't $20 anymore.
+
+The part most plan sponsors miss is that the contract can be written so you never see the gap. What the pharmacy is paid and what your plan is charged sit on two different price schedules, and nothing in the agreement requires the PBM to show you the difference.
+
+We review hundreds of PBM contracts a year at PBS. Spread language is in nearly every one. Most plan sponsors don't know it's there until someone reads the definitions section out loud.
+
+And it isn't only GLP-1s. It's the whole formulary.
+
+The fix isn't outrage, it's contract language: spread disclosure, or better, a true pass-through arrangement, plus the audit rights to verify it.
+
+A good broker will flag where to look. The worksheet that surfaces it is in the comments.
+
+(Numbers illustrative; the mechanic is real and it lives in the contract.)
+
+#SelfFundedEmployers #SpreadPricing #PBMTransparency
+```
+
+#### First Comment
+
+```
+The free Channel-Pricing Audit Worksheet runs three passes (retail, mail, specialty), comparing what the pharmacy is paid against what your plan is charged, and flags the disclosure-language gap in your contract → rxbs.org/toolkit/channel-pricing
+```
+
+---
+
+### [PARKED — displaced by clip1 video] "Your formulary was built for your PBM's rebate strategy." (Strong POV Text / self-film video)
+_Preserved for re-slotting on a non-clip Wednesday (on-theme for formulary weeks). Original spec below._
 
 **Format:** Text Post (Strong POV) — VIDEO ALTERNATIVE AVAILABLE
 **Pillar:** Transparency & Industry Education

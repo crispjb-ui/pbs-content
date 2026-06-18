@@ -35,7 +35,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jun 24 | 8:30 PM | X | aphorism [C5] | PART 4B · Wed | [ ] |
 | Thu Jun 25 | 7:30 AM | Substack | Field Note: "Auditing Your RFP Scoring Methodology Before You Send It" | PART 1B | [ ] |
 | Thu Jun 25 | 8:00 AM | X | named-adversary / definitions trick (protects the Thu reveal) | PART 4B · Thu | [ ] |
-| Thu Jun 25 | 8:30 AM | LI Feed | Post 91 — "5 RFP Scoring Methodology Terms Decoded" (Marked-Up Contract Page) | Post 91 | [ ] |
+| Thu Jun 25 | 8:30 AM | LI Feed | Post 91 — "5 RFP Scoring Methodology Terms Decoded" (Chart-on-Whiteboard) | Post 91 | [ ] |
 | Thu Jun 25 | 12:00 PM | X | Thu-visual amplifier [VISUAL: RFP Scoring decoder] (after 8:30) | PART 4B · Thu | [ ] |
 | Thu Jun 25 | 1:30 PM | LI Company | Reshare of Post 91 | Post 91 Reshare | [ ] |
 | Thu Jun 25 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -283,7 +283,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Tone:** Practical, tactical
 **Pillar:** PBM Contract Insights
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 RFP Scoring Methodology Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the scoring vocabulary; Field Note is the operational follow-on for designing a scoring methodology that actually surfaces the differences between PBM proposals.
+**Pairs with:** Thursday LinkedIn "5 RFP Scoring Methodology Terms Decoded" Chart-on-Whiteboard messy infographic. LinkedIn post decodes the scoring vocabulary; Field Note is the operational follow-on for designing a scoring methodology that actually surfaces the differences between PBM proposals.
 **Why this pairing (not the displaced "Three Conversations" draft):** Architecture B triple-distinct topic rule — Monday W25 is Renewal Countdown (the 90-day timeline). Thursday is RFP Scoring Methodology (how proposals are evaluated when they arrive). Adjacent within renewal-prep family, different subject matter (timeline vs. scoring mechanic). Original "Three Conversations" Field Note parked as FN-08.
 
 ---
@@ -701,11 +701,11 @@ This week's Benefit Blind Spots deep dive on the 90-day renewal window is the op
 
 _The "Renewal Timeline: Month-by-Month Milestones" infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
-### Thursday Excellence Slot - 5 RFP Scoring Methodology Terms Decoded — Marked-Up Contract Page Messy Infographic
+### Thursday Excellence Slot - 5 RFP Scoring Methodology Terms Decoded — Chart-on-Whiteboard Messy Infographic
 
 > **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Your PBM Contract Renewal" calendar-photo carousel. Displaced under Architecture B — questions are on Monday's Renewal Countdown topic family. Replaced with 5 RFP Scoring Methodology Terms Decoded that pairs with W25 Field Note "Auditing Your RFP Scoring Methodology Before You Send It." Original Slot C calendar-questions carousel preserved in `evergreen_visual_backlog.md` as concept #27.
 
-**Format:** Single messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px.
+**Format:** Single messy infographic, **Chart-on-Whiteboard** aesthetic (swapped from Marked-Up Contract Page Jun 18 — a scoring *methodology* belongs on a whiteboard from an RFP design meeting, not a contract page). 1080 x 1350 px.
 **Pillar:** PBM Contract Insights
 **Field Note pairing:** Same-day Substack Field Note "Auditing Your RFP Scoring Methodology Before You Send It."
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "RFP Scoring Methodology Audit Worksheet" — `templates/documents/week_25_thursday_rfp_scoring_audit_worksheet.html/.pdf`.
@@ -744,28 +744,26 @@ Save this for your next RFP design meeting.
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the RFP scoring methodology before sending it (weights vs. priorities, baseline normalization, scenario modeling). Plus a paste-ready RFP Scoring Methodology Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Marked-Up Contract Page Image Generation Prompt
+#### Chart-on-Whiteboard Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open printed RFP scoring methodology document rests on a dark wood desk under soft natural daylight. The visible page is slightly off-white (#F5F0E4) with a faint horizontal section header in bold black serif type at the top: "PBM RFP SCORING METHODOLOGY — APPENDIX C." Below the header, five vertically stacked term entries in Plex Mono Medium black followed by 2-3 line definition snippets in Plex Mono Regular smaller type:
+> A photorealistic 4:5 vertical photo (1080 x 1350 px) of a white dry-erase whiteboard in a conference room, soft natural daylight, shot slightly off-angle as if snapped during an RFP design meeting. Hand-drawn marker throughout, confident but real (slight unevenness, faint ghosting of erased marks). Whiteboard sheen and a soft reflection; a navy dry-erase marker resting on the tray.
 >
-> 1. **Weighted Scoring.** "Categories shall be weighted as follows: Financial Terms 70%, Clinical Programs 10%, Reporting 5%, Technology 5%, References 5%, Account Team 5%."
-> 2. **Baseline Normalization.** "Financial proposals shall be evaluated against headline pricing as submitted by each Vendor."
-> 3. **Financial vs. Non-Financial.** "Financial Score: 70%. Non-Financial Score: 30%."
-> 4. **Static vs. Scenario Pricing.** "Pricing evaluated against current-quarter claims data, single scenario."
-> 5. **Tiebreaker Hierarchy.** "[No language present]"
+> Title across the top in navy marker (#015880), block capitals, double-underlined: "RFP SCORING: THE 5 TERMS THAT PICK THE WINNER".
 >
-> Five handwritten red ballpoint annotations:
-> - Red circle around "70%" in clause 1, red note: "Match to your priorities, not the default"
-> - Red circle around "headline pricing as submitted" in clause 2, red note: "PBMs engineer the headline. Normalize."
-> - Red circle around "30%" in clause 3, red note: "Capability matters as much as price"
-> - Red circle around "single scenario" in clause 4, red note: "Force three scenarios"
-> - Red circle around "[No language present]" in clause 5, red note: "Set the tiebreaker"
+> Left two-thirds: a hand-drawn two-column table in black marker, headers "CATEGORY" and "WEIGHT", five rows — Financial 70%, Clinical 10%, Reporting 5%, Technology 5%, References/Team 10%. The "70%" is circled in red marker with a red arrow and the note "match to YOUR priorities, not the default."
 >
-> Top of page, handwritten black marker, double-underlined: "Five RFP scoring terms."
-> Below in red pen: "Most plan sponsors never audit any of them."
-> Bottom of page, smaller red pen: "PBS reviews 100s of PBM contracts a year. PBMs engineer proposals to the methodology."
+> Right third: five numbered term labels stacked vertically, hand-printed, each with a one-line gloss in smaller marker —
+> 1. WEIGHTED SCORING — "who set the weights?"
+> 2. BASELINE NORMALIZE — "headline ≠ net cost"
+> 3. FINANCIAL vs NON-FIN — "capability counts too"
+> 4. STATIC vs SCENARIO — "price 3 scenarios, not 1"
+> 5. TIEBREAKER — "set it on purpose"
 >
-> Black ballpoint pen at top-right corner. Style: realistic paper texture, soft natural daylight. Colors: off-white paper (#F5F0E4), faint black legalese, red handwritten ballpoint, dark wood desk. No logos, no brand marks, no people, no PBM names.
+> The term numbers 1-5 are underlined in accent blue (#A7E0FA). Term 5 has a red double-underline with the note "most plans never set this."
+>
+> Bottom-right corner, small black marker: "rxbs.org · we review 100s of PBM contracts a year."
+>
+> Type large and bold enough to read at thumbnail size (~400px wide on a phone); exactly these five terms, generously spaced, not cluttered. Hand-marker text only — no printed logos, no people, no PBM brand names. (Add the small PBS triangle logo in Canva after generation if wanted; never in the generation prompt.)
 
 ---
 
