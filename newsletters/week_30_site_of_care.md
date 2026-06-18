@@ -474,7 +474,7 @@ Five we walk our self-funded clients through:
 
 5. Run a fiduciary file audit. The selection memo, evaluation criteria, performance reviews, and committee minutes either exist or they do not. If they do not, build them now, not when litigation asks for them.
 
-The plans that walk into 2026 with these five decisions made are negotiating from position. The ones that wait are reacting.
+In the Q4 renewals we coordinate at PBS, the split is consistent: the plans that lock these five in early negotiate from position. The ones that wait inherit the PBM's timeline and react to it.
 
 #Q4Planning #SelfFundedEmployers #EmployeeBenefits
 ```
@@ -635,7 +635,7 @@ _The Site-of-Care Decision Framework whiteboard carousel was repurposed into Mon
 ```
 Five contract terms decide how a single claim coordinates across primary, secondary, and copay assistance. Most plan sponsors never audit how the rules execute.
 
-I review hundreds of PBM contracts a year at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging, and the flagging is rarely audited.
+We run coordination-of-benefits audits as part of our claims reviews at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging, and the flagging is rarely audited.
 
 Five terms to know:
 

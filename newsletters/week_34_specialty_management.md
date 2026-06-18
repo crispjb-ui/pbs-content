@@ -468,6 +468,8 @@ Programs that often do not earn their cost as reported:
 
 3. MTM programs without measurable adherence outcomes. The contact happened. Whether it changed anything is the question the report does not answer.
 
+The test for every clinical program is the same: can the PBM show the methodology and a sample calculation? If not, the savings line is marketing, not finance. Save this before your next clinical-program review.
+
 #ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
 ```
 
@@ -610,7 +612,7 @@ The FTC found the big-3 PBMs marked up more than one in five specialty generics 
 
 Five contract guarantees you should already have audited at mid-year. Most plan sponsors do not run the audit until year-end, when the PBM has had two more quarters to optimize the numbers.
 
-I review hundreds of PBM contracts a year at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
+We run mid-year guarantee audits for plan sponsors every summer at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
 
 Five terms to know:
 

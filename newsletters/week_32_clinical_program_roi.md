@@ -584,7 +584,7 @@ _The "Clinical Program Evaluation" One Number Carousel was repurposed into Monda
 ```
 ERISA uses five words that sound procedural. They are not. They define your personal exposure as a plan fiduciary.
 
-I review hundreds of PBM contracts a year at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
+We sit in on plan-sponsor fiduciary reviews at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
 
 1. **Fiduciary.** You, if you influence pharmacy benefit decisions. Title not required.
 2. **Prudent process.** Not "did you get the best deal" but "can you show how you decided."

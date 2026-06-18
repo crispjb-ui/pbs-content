@@ -634,7 +634,7 @@ Five clauses determine whether a performance review can actually do the work:
 4. Specialty routing transparency. What the contract requires the PBM to disclose about affiliated-pharmacy claim flow.
 5. Findings and remediation. What happens when the review surfaces a shortfall.
 
-I redlined each of them below.
+We read hundreds of these contracts a year at PBS. Fully protective versions of all five clauses show up in only a fraction of them. I redlined each below.
 
 #BenefitsBrokers #PBMConsulting #EmployeeBenefits
 ```

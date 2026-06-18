@@ -669,7 +669,7 @@ Each big-3 PBM now excludes more than 600 drugs from its main formulary, an all-
 
 Five contract clauses govern that override. The override workflow is rarely what the clauses describe.
 
-I review hundreds of PBM contracts a year at PBS. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
+We audit how step therapy actually runs on plan claims at PBS, not just how the clause reads. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
 Five terms to know:
 

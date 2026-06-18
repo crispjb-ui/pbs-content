@@ -498,7 +498,7 @@ Lever 2: Site-of-care steering on infusions. The same biologic infused at a hosp
 
 Lever 3: PA criteria reset on Q4/Q1 launches. New molecules show up in claims before PA gates are written. The plan accepts the PBM's default permissive position, then tightens after the spend already happened.
 
-Each lever has a window. The window closes on its own schedule, not the renewal cycle's.
+In the plans we review at PBS, all three get missed far more often than they get caught, and never for lack of capability. Nobody flagged that the window was closing. Each lever has one, and it closes on its own schedule, not the renewal cycle's.
 
 #PBMContracts #SelfFundedEmployers #PharmacyBenefits
 ```

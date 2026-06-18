@@ -368,7 +368,7 @@ Contract language comparison library on Substack.
 Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
 
 ```
-Two words in your PBM contract can cost your plan six figures, and most employers have never read them.
+The difference between a PBM guarantee you can enforce and one you cannot is often a single phrase buried in the definitions.
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
@@ -404,7 +404,7 @@ Pattern 2: Year-end stockpiling on maintenance drugs. Members refill 90-day scri
 
 Pattern 3: Elective specialty treatment timing. Members on Humira, Stelara, or Keytruda time fills to maximize paid OOP max. The clause behind it: claim-year cutoff and guarantee-calculation timing.
 
-Each pattern is visible in claims data by early November. Each pattern is already written into the contract somewhere. I redlined each of them below.
+Each pattern is visible in claims data by early November. Each one is already written into the contract somewhere. These are not claims randomness. They are contract features, and amending the clause is what stops the pattern from repeating next year. I redlined each below.
 
 #Q4Planning #SelfFundedEmployers #PharmacyBenefits
 ```
@@ -544,7 +544,7 @@ Same clause. Same ten words. Three PBMs reading it three different ways. The con
 
 Here is the red flag that hides in the most reassuring phrase in your contract. "100% pass-through" of manufacturer rebates sounds airtight. But the big-3 PBMs collect those rebates through their own aggregator companies, and two of the three are registered offshore: Ascent in Switzerland, Emisar in Ireland, Zinc for the third. The pass-through starts AFTER that offshore aggregator takes its cut. 100% of what is left is still "100%."
 
-I review hundreds of PBM contracts a year at PBS. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
+At PBS we compare the same provisions across dozens of different PBMs' contracts. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
 
 The pattern: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The current contract reads cleanly. The trajectory across versions does not.
 

@@ -622,7 +622,7 @@ _The Network Channel Comparison visual was repurposed into Monday's deep dive an
 ```
 Same generic. Your PBM pays its own pharmacy up to twice what it pays the independent down the street, then its routing rules make sure the script lands at the one it owns. The FTC found the big-3 PBMs reimbursed their affiliated pharmacies as much as 100 percent more than independents for the identical drug. Your generic effective rate guarantee is supposed to be the check on exactly that spread. Five terms decide whether it actually applies to your plan's generic spend. The PBM controls four of them.
 
-I review hundreds of PBM contracts a year at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
+We reconcile these guarantees against the contract methodology for plan sponsors every quarter at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
 
 Five terms to know:
 
