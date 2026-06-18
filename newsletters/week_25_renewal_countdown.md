@@ -715,7 +715,7 @@ _The "Renewal Timeline: Month-by-Month Milestones" infographic was repurposed in
 #### Post Copy
 
 ```
-Three PBM proposals. Weight the score the way your broker's RFP is set up, and PBM A wins. Re-weight it to match your actual priorities, and PBM C wins. Same three proposals. The winner just flipped.
+Three PBM proposals. Weight the score the way most RFPs are weighted by default, and PBM A wins. Re-weight it to match your actual priorities, and PBM C wins. Same three proposals. The winner just flipped.
 
 I review hundreds of PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using, and the headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
 
