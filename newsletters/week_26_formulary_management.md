@@ -408,7 +408,7 @@ The question is not whether your PBM should manage the formulary. They should. T
 
 ---
 
-This week's Benefit Blind Spots includes a **formulary decision audit**: seven scored questions that reveal whether your drug list serves your plan or your PBM's rebate strategy, with a scoring framework that determines your formulary independence level. That audit is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes a **formulary decision audit**: seven scored questions that reveal whether your drug list serves your plan or your PBM's rebate strategy, with a scoring framework that determines your formulary independence level. That audit is exclusive to the Substack: https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
 
 ---
 
@@ -447,7 +447,7 @@ Post immediately as the first comment on the newsletter announcement above (brie
 ```
 Your formulary was built around your PBM's rebate strategy, not your members' health. Here is how to tell whose interests it serves.
 
-I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
 
 And this week's Step Therapy Override Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/step-therapy-override
 ```
@@ -642,7 +642,7 @@ One question changes the conversation: what is the net cost, our formulary vs. a
 #### First Comment
 
 ```
-This week's Benefit Blind Spots deep dive on formulary management and PBM rebate economics is the operational follow-on: the formulary evaluation framework with the 4 questions to ask your PBM. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive on formulary management and PBM rebate economics is the operational follow-on: the formulary evaluation framework with the 4 questions to ask your PBM. https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
 ```
 
 ---
@@ -693,7 +693,7 @@ Save this for your next quarterly review.
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual override workflow (approval rate, denial reason mix, contract clause vs. workflow comparison). Plus a paste-ready Step Therapy Override Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual override workflow (approval rate, denial reason mix, contract clause vs. workflow comparison). Plus a paste-ready Step Therapy Override Audit Worksheet you can hand to your broker. https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
 ```
 
 #### Sticky Note Dashboard Image Generation Prompt
@@ -783,7 +783,7 @@ Get next Monday's deep dive on PBM Evaluation in your inbox: benefitblindspots.s
 **Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots: who really controls your drug list. We asked a client how their "customized" formulary differed from the PBM's standard. It did not. This week's article includes a seven-question formulary decision audit with scoring. The results are revealing.
 
-Read the full analysis: [LINK]
+Read the full analysis: https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 As a pharmacist I was trained to evaluate drugs based on clinical evidence. Efficacy. Safety. Therapeutic equivalence. When I started reviewing PBM contracts, I discovered that formulary decisions involve a second set of criteria entirely: rebate economics. The clinical evaluation says "either drug works." The rebate contract says "this one pays us more." Both are real inputs. The question is which one your plan can see.
@@ -820,7 +820,7 @@ I watched a P&T committee meeting from the observer seat where the clinical argu
 **Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: three formulary questions your PBM should answer immediately. Not next quarter. Not at renewal. Now. The answers tell you everything about whose interests the formulary serves.
 
-Read the field note: [LINK]
+Read the field note: https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 A plan sponsor told me she felt uncomfortable "interrogating" her PBM about formulary decisions. I reframed it as a prudent question, not an interrogation. Asking a vendor how they make decisions that cost you millions of dollars is not hostile. It is oversight. She changed her language and the PBM adjusted their posture to match. Tone sets the relationship. Questions are still allowed.
@@ -966,7 +966,7 @@ Five places your PBM retains rebate money before "pass-through" even begins. Fiv
 ```
   First reply (link):
 ```
-The field note walks through what to do once you can read these terms: [paste live Field Note URL after Thu 7:30 AM publish]
+The field note walks through what to do once you can read these terms: https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
 ```
 - **5:00 PM · punchy:**
 ```

@@ -424,7 +424,7 @@ If you are reading this in late June, you are right on time for a January 1 rene
 
 ---
 
-This week's Benefit Blind Spots includes a **90-day renewal preparation timeline**: a week-by-week project plan with specific deliverables, responsible parties, and milestones for each phase. That timeline is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes a **90-day renewal preparation timeline**: a week-by-week project plan with specific deliverables, responsible parties, and milestones for each phase. That timeline is exclusive to the Substack: https://benefitblindspots.substack.com/p/90-day-pbm-renewal-preparation-timeline
 
 ---
 
@@ -463,7 +463,7 @@ Post immediately as the first comment on the newsletter announcement above (brie
 ```
 Last week was my debut for Wendell Potter's HEALTH CARE un-covered: the five revenue streams every PBM runs through your contract. [HEALTH CARE un-covered Opening Piece URL]
 
-Your PBM has been preparing for renewal for months. The 90-day window is where you catch up or fall behind. I broke it down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+Your PBM has been preparing for renewal for months. The 90-day window is where you catch up or fall behind. I broke it down in this week's Benefit Blind Spots deep dive: https://benefitblindspots.substack.com/p/90-day-pbm-renewal-preparation-timeline
 
 And this week's RFP Scoring Methodology Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/rfp-scoring-audit
 ```
@@ -692,7 +692,7 @@ Two hours now. Different outcome in September.
 #### First Comment
 
 ```
-This week's Benefit Blind Spots deep dive on the 90-day renewal window is the operational follow-on: the month-by-month renewal preparation timeline. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive on the 90-day renewal window is the operational follow-on: the month-by-month renewal preparation timeline. https://benefitblindspots.substack.com/p/90-day-pbm-renewal-preparation-timeline
 ```
 
 ---
@@ -741,7 +741,7 @@ Save this for your next RFP design meeting.
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the RFP scoring methodology before sending it (weights vs. priorities, baseline normalization, scenario modeling). Plus a paste-ready RFP Scoring Methodology Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the RFP scoring methodology before sending it (weights vs. priorities, baseline normalization, scenario modeling). Plus a paste-ready RFP Scoring Methodology Audit Worksheet you can hand to your broker. https://benefitblindspots.substack.com/p/audit-pbm-rfp-scoring-methodology
 ```
 
 #### Chart-on-Whiteboard Image Generation Prompt (elevated Jun 18 — "the winner flips" hero)
@@ -817,7 +817,7 @@ Get next Monday's deep dive on Formulary Management in your inbox: benefitblinds
 **Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots this morning: the 90-day PBM renewal window. I sat with two clients last fall, same PBM, same market. One started in July, one started in September. The outcomes were not close. This week's article is the week-by-week project plan for those 90 days.
 
-Read the full timeline: [LINK]
+Read the full timeline: https://benefitblindspots.substack.com/p/90-day-pbm-renewal-preparation-timeline
 
 **Visual:** Quote-restack the strongest line from this week's article. Highlight the passage, click restack, add teaser text above the embedded quote card.
 
@@ -854,9 +854,9 @@ A benefits director asked me during a renewal prep whether it was "fair" to push
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: three conversations to have before renewal season. Your broker, your stop-loss carrier, and your internal team. Same preparation window, three different perspectives that change what you negotiate and how.
+New field note: auditing your RFP scoring methodology before you send it. The same three PBM proposals can produce two different winners depending on how the score is weighted. Three audit passes surface that before the RFP ever goes out.
 
-Read the field note: [LINK]
+Read the field note: https://benefitblindspots.substack.com/p/audit-pbm-rfp-scoring-methodology
 
 **Visual:** Quote-restack the strongest line from this week's field note.
 
@@ -1002,7 +1002,7 @@ Five questions to ask before you sign a PBM renewal. Not "what's the discount." 
 ```
   First reply (link):
 ```
-The three conversations to have before renewal season, with who to have them with, are in today's field note: [paste live Field Note URL after Thu 7:30 AM publish]
+Today's field note goes deeper on getting the terms right before you sign: auditing your RFP scoring methodology before you send the RFP, and the three passes that surface which proposal actually wins on your priorities. https://benefitblindspots.substack.com/p/audit-pbm-rfp-scoring-methodology
 ```
 - **5:00 PM · punchy:**
 ```
