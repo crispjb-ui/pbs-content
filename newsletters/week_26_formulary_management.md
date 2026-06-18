@@ -19,7 +19,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jun 29 | 7:00 PM | X | question [A6] | PART 4B · Mon | [ ] |
 | Mon Jun 29 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
 | Tue Jun 30 | 8:00 AM | X | dollar comparison (copay vs cash) | PART 4B · Tue | [ ] |
-| Tue Jun 30 | 10:00 AM | LI Feed | Post 93 — "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (Marked-Up Contract Page, Transparency) | Post 93 | [ ] |
+| Tue Jun 30 | 10:00 AM | LI Feed | Post 93 — "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (Bypass/Funnel clean infographic, Transparency) | Post 93 | [ ] |
 | Tue Jun 30 | 12:00 PM | X | structural / news-adjacent (hold) | PART 4B · Tue | [ ] |
 | Tue Jun 30 | 1:30 PM | LI Company | Reshare of Post 93 | Post 93 Reshare | [ ] |
 | Tue Jun 30 | 5:00 PM | X | Tue decoder driver (after the Tue LinkedIn post publishes) | PART 4B · Tue | [ ] |
@@ -484,9 +484,9 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 10:00 AM
-### "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" — Marked-Up Contract Page Messy Infographic
+### "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" — Bypass / Funnel Clean Infographic
 
-**Format:** Messy infographic, Marked-Up Contract Page aesthetic. 1080 x 1350 px. (Tuesday Cycle-W4 messy-infographic slot; replaces the displaced formulary draft, which is parked in `evergreen_visual_backlog.md`.)
+**Format:** Clean infographic, Bypass/Funnel template. 1080 x 1350 px. (Tuesday Cycle-W4 slot is nominally a messy-infographic; deviated to a clean Bypass/Funnel here on purpose. The content is a "money routes around the rebate gate" flow argument, which a conceptual diagram dramatizes far better than a photo of legalese, and it varies the canvas off the Marked-Up Contract Page used elsewhere this week. Displaced formulary draft remains parked in `evergreen_visual_backlog.md`.)
 **Pillar:** Transparency & Industry Education.
 **Triple-distinct check:** Mon = Formulary Management (the drug list) · Tue = manufacturer payments that sit OUTSIDE the rebate pass-through · Thu = Step Therapy Override (the workflow). Three different subjects. ✓
 **Why this combination:** Monday shows rebates shape the formulary; Tuesday shows the manufacturer money that never gets *called* a rebate, so the pass-through guarantee never touches it. Non-formulary, Transparency-pillar, and it foreshadows W29 Rebate Economics. Hits the Tuesday Excellence bar (confrontational hook, proprietary anchor, Contract Library cross-promo).
@@ -519,16 +519,26 @@ Save this before your next rebate-guarantee conversation.
 The full protective language for manufacturer payment categories, the redline that pulls all five back inside your pass-through definition, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
-#### Marked-Up Contract Page Image Generation Prompt
+#### Bypass / Funnel Image Generation Prompt
 
-> Photorealistic top-down photo, 1080 x 1350 px (4:5). An open printed contract page on a dark wood desk under soft daylight. Off-white page (#F5F0E4), bold black serif header: "MANUFACTURER PAYMENTS — DEFINITIONS." Five Plex Mono term entries, each with a 2-line legalese snippet:
-> 1. Administrative Fee. "...amounts retained by PBM for administrative services, excluded from Rebate."
-> 2. Price Protection. "...payments tied to list-price increases, not classified as Rebates hereunder."
-> 3. Formulary Placement Payment. "...consideration for preferred status, separate from Rebate accrual."
-> 4. Data & Insights Fee. "...fees for de-identified utilization data licensed to manufacturers."
-> 5. GPO Service Fee. "...fees collected by the group purchasing organization prior to pass-through."
+> A clean, modern conceptual infographic, 1080 x 1350 px (4:5), white background (#FFFFFF), generous negative space, IBM Plex Sans typography. A top-to-bottom money-flow diagram.
 >
-> Five red ballpoint annotations circling "excluded from Rebate," "not classified as Rebates," "separate from Rebate," "licensed to manufacturers," and "prior to pass-through," each with a short red note ("Manufacturer money. Pull it into pass-through."). Top, handwritten black marker, double-underlined: "Five payments. Zero called 'rebate.'" Below in red: "100% pass-through never touches them." Bottom red pen: "PBS reviews 100s of PBM contracts a year. These hide outside the rebate definition on most." Black ballpoint at top-right. Realistic paper texture, soft daylight; off-white paper, faint black legalese, red handwritten ballpoint, dark wood. No logos, no people, no PBM names. Mobile-feed legibility: five generously-spaced items; title + terms readable at ~400px.
+> Top: the label "MANUFACTURER $" in Plex Sans SemiBold, Primary Blue (#015880), with a repeating row of identical small rounded "$" dollar tokens raining downward toward the center (the repeating geometric detail; implied motion).
+>
+> Center: a single horizontal gate / filter bar drawn like a narrow funnel mouth, labeled "100% REBATE PASS-THROUGH" in white Plex Sans SemiBold on a solid Primary Blue (#015880) bar. ONE stream labeled "Rebates" passes straight DOWN through the gate and continues to a box at the bottom outlined in Primary Blue labeled "YOUR PLAN."
+>
+> Around the gate: FIVE curved arrows in Accent Blue (#A7E0FA) that start from the falling manufacturer money and bend AROUND the gate (clearly bypassing it), all ending in a box on the right filled Accent Blue labeled "PBM." Each curved arrow carries a short Plex Sans label riding the curve:
+> 1. Admin reimbursement fee
+> 2. Price protection payments
+> 3. Formulary placement payments
+> 4. Data & insights fees
+> 5. GPO / rebate-aggregator fees
+>
+> Named accent target: the five curved bypass arrows are the Accent Blue (#A7E0FA) elements; the funnel gate, the single "Rebates" through-stream, and the "YOUR PLAN" box stay Primary Blue (#015880).
+>
+> Two-tone headline across the very top in Plex Sans SemiBold: "FIVE PAYMENTS." in Primary Blue (#015880) + "ZERO CALLED 'REBATE.'" in Gray (#4D4D4D). Footer line in Gray (#4D4D4D), Plex Sans: "Your 100% pass-through guarantee never touches these five." Small bottom corner, Gray: "rxbs.org · we review 100s of PBM contracts a year."
+>
+> Mobile-feed legibility (mandatory): exactly five bypass arrows, generously spaced; the gate label, the one through-stream, and the five bypass labels all readable at ~400px wide on a phone; high contrast; clean negative space, no background texture, no clutter. Any dollar figure in Plex Mono; labels in Plex Sans. No logos, no people, no real PBM brand names. (Add the small PBS triangle logo in Canva after generation if wanted; never in the generation prompt.)
 
 ---
 
@@ -1122,7 +1132,7 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 93 Marked-Up Contract Page Decoder | Single image (1080x1350) | Photographed contract page § 3.02 with annotated formulary-authority language; Transparency pillar |
+| Post 93 Bypass/Funnel Infographic | Single clean infographic (1080x1350) | Money-flow diagram: manufacturer $ bypasses the 100% rebate pass-through gate via 5 uncalled-payment streams to the PBM; Transparency pillar |
 | Post 95 Contract Markup Carousel | 7 slides (1080x1350 each) | Template B - formulary audit as contract annotations |
 | Post 94 Video (optional) | Vertical video, 50 sec | VIDEO TEST #1 - film if ready |
 | Substack article header | 2240x1260 | [ ] Design needed |
