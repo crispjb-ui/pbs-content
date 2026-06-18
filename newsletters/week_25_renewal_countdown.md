@@ -290,7 +290,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
-This morning's LinkedIn post decoded the five terms most plan sponsors miss when designing an RFP scoring methodology: weighted scoring, baseline normalization, financial vs. non-financial scoring split, scenario-modeling vs. point-in-time pricing, and tiebreaker hierarchy. Today is the operational follow-on. Before you send the RFP, audit the scoring methodology that determines who wins it.
+This morning's LinkedIn post showed the same three PBM proposals producing two different winners. Weight the score the way most RFPs are weighted by default and one proposal wins; re-weight it to match your actual priorities and a different one does. Same proposals, different methodology, different winner. That flip is controlled by five scoring terms most plan sponsors never audit before sending the RFP: weighted scoring, baseline normalization, financial vs. non-financial scoring split, scenario-modeling vs. point-in-time pricing, and tiebreaker hierarchy. Today is the operational follow-on. Before you send the RFP, audit the scoring methodology that determines who wins it.
 
 We design RFP scoring methodologies as a standard part of our work at PBS. Three comparison passes do most of the work.
 
