@@ -744,26 +744,24 @@ Save this for your next RFP design meeting.
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the RFP scoring methodology before sending it (weights vs. priorities, baseline normalization, scenario modeling). Plus a paste-ready RFP Scoring Methodology Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Chart-on-Whiteboard Image Generation Prompt
+#### Chart-on-Whiteboard Image Generation Prompt (elevated Jun 18 — "the winner flips" hero)
 
-> A photorealistic 4:5 vertical photo (1080 x 1350 px) of a white dry-erase whiteboard in a conference room, soft natural daylight, shot slightly off-angle as if snapped during an RFP design meeting. Hand-drawn marker throughout, confident but real (slight unevenness, faint ghosting of erased marks). Whiteboard sheen and a soft reflection; a navy dry-erase marker resting on the tray.
+> **Why this is the hero, not a term list:** the original draft put a 5-row weight table AND a 5-term glossary on one board (~10 competing zones — fails the mobile-feed legibility cap of five generously-spaced items). The elevated visual dramatizes the post's actual thesis in a single comparison: the same three proposals, scored under two methodologies, produce two different winners. That is the proven "Same X. Same Y. Different Z." shape with the PBM as named actor. The five decoded terms still live in the Post Copy and the Field Note; the image carries the punch.
+
+> A photorealistic 4:5 vertical photo (1080 x 1350 px) of a white dry-erase whiteboard in a conference room, soft natural daylight, shot slightly off-angle as if snapped mid-RFP-design-meeting. Hand-drawn marker throughout, confident but real (slight unevenness, faint ghosting of erased marks); whiteboard sheen and a soft reflection; a navy dry-erase marker resting on the tray.
 >
-> Title across the top in navy marker (#015880), block capitals, double-underlined: "RFP SCORING: THE 5 TERMS THAT PICK THE WINNER".
+> Title across the top in navy marker (#015880), block capitals, double-underlined: "SAME 3 PROPOSALS. WHO WINS?"
 >
-> Left two-thirds: a hand-drawn two-column table in black marker, headers "CATEGORY" and "WEIGHT", five rows — Financial 70%, Clinical 10%, Reporting 5%, Technology 5%, References/Team 10%. The "70%" is circled in red marker with a red arrow and the note "match to YOUR priorities, not the default."
+> Centerpiece (dominates the middle ~70% of the board): a hand-drawn scoreboard, two side-by-side columns over three rows. Row labels down the left in black marker, hand-printed: "PBM A", "PBM B", "PBM C".
+> - Left column header in black: "THEIR WEIGHTING — Financial 70%". Scores in clean tabular hand-printing: PBM A 92, PBM B 85, PBM C 78. PBM A's row circled in red marker with "WINS" stamped beside it.
+> - Right column header in black: "YOUR PRIORITIES — Financial 40%". Scores: PBM A 80, PBM B 83, PBM C 90. PBM C's row circled in red marker with "WINS" stamped beside it.
+> - A red arrow sweeps from the left "WINS" across to the right "WINS" with the handwritten note "same proposals — the winner flipped."
 >
-> Right third: five numbered term labels stacked vertically, hand-printed, each with a one-line gloss in smaller marker —
-> 1. WEIGHTED SCORING — "who set the weights?"
-> 2. BASELINE NORMALIZE — "headline ≠ net cost"
-> 3. FINANCIAL vs NON-FIN — "capability counts too"
-> 4. STATIC vs SCENARIO — "price 3 scenarios, not 1"
-> 5. TIEBREAKER — "set it on purpose"
+> Bottom band in navy marker (#015880), one bold line: "THE PBM KNOWS WHICH METHODOLOGY YOUR BROKER USES." Smaller black note beneath it: "audit the scoring BEFORE you send the RFP — not after."
 >
-> The term numbers 1-5 are underlined in accent blue (#A7E0FA). Term 5 has a red double-underline with the note "most plans never set this."
+> Accent targets: red marker carries the drama (the two "WINS" circles and the flip-arrow); accent blue (#A7E0FA) underlines the two column headers ("THEIR WEIGHTING" and "YOUR PRIORITIES") so the two-methodology axis reads at a glance. Bottom-right corner, small black marker: "rxbs.org · we review 100s of PBM contracts a year." Tiny faint note bottom-left: "scores illustrative."
 >
-> Bottom-right corner, small black marker: "rxbs.org · we review 100s of PBM contracts a year."
->
-> Type large and bold enough to read at thumbnail size (~400px wide on a phone); exactly these five terms, generously spaced, not cluttered. Hand-marker text only — no printed logos, no people, no PBM brand names. (Add the small PBS triangle logo in Canva after generation if wanted; never in the generation prompt.)
+> Type large and bold enough to read at thumbnail size (~400px wide on a phone); ONE clean scoreboard, generously spaced, NOT cluttered — no second table, no stacked term list. Hand-marker text only — no printed logos, no people, no real PBM brand names. (Add the small PBS triangle logo in Canva after generation if wanted; never in the generation prompt.)
 
 ---
 
