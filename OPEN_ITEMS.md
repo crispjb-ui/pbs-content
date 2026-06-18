@@ -30,6 +30,29 @@ _Prep Claude can do ahead: pillar-grouping click-steps for the library; the SHRM
 - **Clip7 final ship verification (local video repo):** confirm the final render carries all session fixes — staggered hook with no empty-panel frame, captions resuming during the stat-cutaway hold, no toolkit mid-roll, progressive NET COST grow, audio tail handled, enlarged badge/logo — and that 9:16 cover PNGs exist for the cross-posts. Wed Jun 17 8:30 AM slot; upload 4:5 with the designed cover as custom thumbnail; Quarterly Reporting Checklist first comment.
 - **W24 asset generation still open:** "Mid-Year Amendment Window" whiteboard vertical timeline (prompt in W24 PART 3; legibility check at ~400px; Canva logo only), Library 03 carousel design, Mon "Your H1 Dashboard" in-article infographic, week header images. See W24 PART 6 table.
 
+## 🔵 NEW (Jun 16–18, 2026 — social-media-strategy session)
+
+**Wendell Potter contributorship — Opening Piece PUBLISHED Wed Jun 17:**
+- **Editorial house standard codified.** `wendell_potter_editorial_style_analysis.md` = the 10-rule standard from the FINAL Opening Piece (Ginny+Wendell tracked changes): map *previews* reforms in 2-3 plain sentences (no bill detail), cut engineered cleverness/pull-quotes, stay at policy register (no client-action bridge), explain generously + end flat, plus the original 6 accessibility rules. Strategy doc's Reader Accessibility Standard extended 6→10. Opening draft reconciled to the final (transcribed from screenshots, typos cleaned — **CONFIRM against the live Google Doc**).
+- Debut awareness wired into **W24** (X 5 PM fire-when-live, Wed Substack Note, Fri Post 88 intro→Monday cascade); cascade callback wired into **W25** (LinkedIn Newsletter opener + Substack deep-dive callout + publish post copy + first comment). All carry `[POTTER ARTICLE LINK]` placeholders → **fill with the live HEALTH CARE un-covered URL on publish.**
+- **Piece 1 (Spread Pricing): plainness pass done** to the final-Opening bar (Rule 8 PASS). OPEN before submission: **(1) Ginny's review pass, (2) re-verify S.526 committee status.** Publish date not locked.
+
+**Social clips — Remotion template overhauled (source of truth = `social_clips/remotion_starter/CLIP_RENDER_SPEC.md`):**
+- All 7 SHRM clips **elevated** in the manifest (staggered hook beats + a content-fit animated cutaway each: equation / dot-grid / slam / big-stat / 3-row stat; audio-tail fade; old basic overlays/images removed). New components: BigStatCutaway, DotGridCutaway; clip1 $20-spread break-away grow.
+- **Mobile fixes:** safe area (SAFE_X 11% sides, badge at top off the face, captions centered); **karaoke leads audio** (CAPTION_LEAD 0.15s); **caption-timing bug fixed** (captions are segment-relative on the ~2s pad → passed UNSHIFTED; the double-added pad was the ~2s lag); split-screen **letterbox** (`fit`/`fitWindows`, Primary backdrop) on clip4 (8-19s) + clip3 (21s→end card); nameplate **auto-delays** past early cutaways (clips 2/4/6); clip5 trimmed 1s to open on solo Ginny.
+- **Pipeline fixes:** `cp`→`fs.copyFileSync` (Windows-safe); single-clip render arg (`node render-with-extract.mjs clipN`).
+- **TODO: re-render all clips with these fixes and re-upload** (clip5's in-point changed). Post the **9:16** render to LinkedIn (for the video tab), not 4:5. The live clip7 (posted Jun 17) is the pre-fix render — fine to leave per Ginny.
+
+**LinkedIn 2026 algorithm/product deep dive — `linkedin_2026_algorithm_deep_dive.md`:**
+- The viral **"brand-deal reach penalty" (-45/-35/-65%) is DEBUNKED** (unsourced; Brand Partnership tag is a trust feature). PBS's as-seen-on / CTA / tag / cross-promo patterns are fine — no change.
+- **Video tab is the real opportunity:** native 9:16 gets **dual distribution** (feed + recommendation-driven video tab reaching non-followers). Post 9:16 native from Ginny's **personal profile**, hook in 3s, link in first comment. A video is still a feed post — slot it INTO the 4x/week cadence, don't add it as a free extra.
+- Validated no-change: 3-hashtag rule, 8:30 AM EST, Library NN saves, newsletter-as-conversion-bridge, no pods. **First-comment links: reframe** from reach-lever to tracking/conversion (body links still penalized, so the link still belongs in the comment).
+
+### Needs Ginny's YES (proposed, not applied)
+- **2 CLAUDE.md updates** (full text in `linkedin_2026_algorithm_deep_dive.md` §6): (1) add a video-tab strategy note (native 9:16 = dual distribution; clip pipeline = discovery surface; personal profile, file native, link in first comment); (2) amend the first-comment cross-promo rule (value = conversion/tracking, not reach multiplier).
+- **Convert 1+ weekly visual slot(s) to native 9:16 video** as standing cadence (deep-dive recommendation).
+- **Get Ginny invited to LinkedIn Creator Marketplace** (US+Canada, invite-only) — positioning, low urgency.
+
 ## 🟢 Email funnel: role-segmentation + closing layer — LIVE (built Jun 8, 2026)
 The role-segmented funnel + closing layer is **built and live in Wix/Zapier/Sheets**. What shipped this session:
 - **Wix form** (custom Velo, live path): 6-role dropdown + always-visible `#inputSize` (5 bands), buyer-only *requirement* via validate(); `showSizeForBuyersOnly:false` (Wix classic wouldn't reflow the collapse gap, so size shows for all; scorer ignores non-buyer size). Backend persists `size`; CMS `ToolkitLeads.size` field added. Published.
@@ -63,8 +86,8 @@ The role-segmented funnel + closing layer is **built and live in Wix/Zapier/Shee
 - **`/session-digest` → AUTO** via SessionStart hook (this repo): `.claude/settings.json` + `.claude/hooks/session_digest_check.sh`. At session start, if undigested transcripts exist in `~/.claude/projects/`, it prompts the digest → captures decisions/rules into CLAUDE.md + OPEN_ITEMS, commits, updates `.claude/.last_digest`. Reads the JSONL transcripts directly. **✅ VERIFIED Jun 12, 2026:** the hook fired at session start (flagged 1 undigested transcript) and the digest ran. Can't be a GitHub Action (transcripts aren't in the repo).
 - Already scheduled: weekly roundup, weekly build-pipeline.
 
-## 🔴 Wendell Potter cascade topic conversions (ON HOLD)
-Cascade-week topic alignment (`wendell_potter_cascade_alignment.md`) is gated on two inputs from Ginny: **(1) confirmed WP publish day**, **(2) the Opening piece pull-quote/thesis line**. When both land: re-anchor the schedule and wire the cascade reference-back + same-day cross-promo into the week files.
+## 🟡 Wendell Potter cascade topic conversions (PARTIALLY EXECUTED)
+Opening Piece published **Wed Jun 17, 2026**. Its cascade (the Monday after) = **W25**, now wired (reframe: five-streams → renewal, no swap). **Forward cascades (Piece 1+) still ON HOLD** pending Potter's confirmed cadence. **Re-anchor needed:** `wendell_potter_cascade_alignment.md` is anchored to a provisional Jun 10 (cascades on even weeks); the real Jun 17 publish shifts everything **+1 week onto ODD weeks (W27 / W29 / W31 …)**, which changes the topic alignments (e.g., the Spread cascade would land on W27 *PBM Evaluation*, not W26 *Formulary* — re-check each swap vs. reframe). Execute per-piece as each publish date locks.
 
 ## ✅ Recently closed (for reference)
 - W23-W37 rolled through the build system; W26/W35 Tuesday posts built; Library numbering resolved (W25=04, W27=05, W33=06). Hardwired build system + 3 production skills + scheduled pipeline shipped.
