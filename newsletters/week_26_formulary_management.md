@@ -183,70 +183,42 @@ Have you ever asked your PBM how your formulary differs from their standard? If 
 
 ---
 
-### In-Article Visual: Formulary Evaluation Framework (Contract Markup Carousel)
+### In-Article Visual: Formulary Independence Scorecard (Clean Infographic)
 
-_Embedded contract-markup visual for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Render and place inline in the Substack article alongside the seven-question formulary decision audit section above._
+_Embedded scored-framework visual for this deep dive, repurposed from the former Thursday LinkedIn slot per the deep-dive-visual rule (a post repurposed into the deep dive moves here, it is not disregarded). Swapped from a 7-slide carousel to a single clean infographic so it embeds inline alongside the seven-question formulary decision audit section above and is screenshot/save-friendly. Render and place inline under "The formulary decision audit."_
 
-#### Contract Markup Carousel Concept
+#### Clean Scorecard Infographic Concept
 
-**Design:** White background with faint gray horizontal rules (legal document style). Monospace body text (Courier Prime). Handwritten annotations in red (#C0392B) and Primary Blue (#015880). Yellow highlights (#FFF3CD). Small "CONTRACT REVIEW" rubber stamp in top-right, angled. 7 slides, 1080 x 1350 px each.
+**Format:** Single clean infographic, PBS v2 scorecard aesthetic (mirrors the Plan Sponsor Toolkit visual system: numbered Primary Blue section pills, traffic-light Green/Yellow/Red bands). 1080 x 1350 px (go 1080 x 1620 if the seven rows feel tight). **Build in Canva, not AI-generated** — a dense scored table renders reliably as a laid-out graphic and unreliably as a generated image.
 
-**Slide 1 - Hook:**
-- White background with gray rules
-- "CONTRACT REVIEW" stamp top-right in red, angled
-- Centered monospace text: "FORMULARY MANAGEMENT PROVISIONS"
-- Below, handwritten in red: "7 questions. Your score reveals everything."
-- Yellow highlight over "7 questions"
-- Bottom: Small PBS logo, "Benefit Blind Spots"
+**Layout (top to bottom):**
 
-**Slide 2 - Question 1:**
-- Monospace text simulating contract: "The Plan's formulary shall be managed by the PBM's Pharmacy and Therapeutics Committee..."
-- Handwritten margin note in red: "Can you name a single member of this committee?"
-- Score indicator: "0 = No | 1 = On request | 2 = Direct access"
+- **Header band (Primary Blue #015880):** white Plex Sans SemiBold title "THE FORMULARY INDEPENDENCE SCORECARD." Accent Blue (#A7E0FA) subtitle in Plex Mono: "7 questions · score 0-14 · who actually controls your drug list?"
 
-**Slide 3 - Question 3 (most revealing):**
-- Monospace text: "PBM shall provide annual formulary performance reporting..."
-- Yellow highlight over "annual formulary performance"
-- Handwritten margin note: "Has the PBM ever shown you what your formulary COSTS compared to alternatives?"
-- Red circle around "COSTS"
-- Score: "0 = Never | 1 = On request | 2 = Proactively"
+- **Seven scored rows** (white background, faint gray rule between each). Each row: a numbered Primary Blue pill (1-7) + the question in Plex Sans + a compact 0 / 1 / 2 scale in Plex Mono on the right.
+  1. Can you name your formulary's P&T committee members? — `0` no · `1` on request · `2` direct access
+  2. How often does P&T review your specific plan's formulary? — `0` never · `1` annual · `2` quarterly+
+  3. Has your PBM given you a net cost analysis vs. alternatives? — `0` never · `1` on request · `2` proactively
+  4. New-drug launch → timeline to P&T review and placement? — `0` unknown · `1` ≤6 mo · `2` ≤90 days + notice
+  5. Can you see the rebate impact of each tier decision? — `0` none · `1` aggregate · `2` tier-level
+  6. Ever requested a formulary change the PBM declined? — `0` never asked · `1` declined, no rationale · `2` implemented / documented rationale
+  7. Does your contract require formulary-change notification? — `0` none · `1` annual · `2` advance notice + approval
 
-**Slide 4 - Question 5 (rebate transparency):**
-- Monospace text: "Rebate revenue shall be allocated in accordance with the PBM's standard methodology..."
-- Yellow highlight over "standard methodology"
-- Handwritten margin note: "Can you see how rebates influenced each tier decision?"
-- Annotation arrow pointing to "standard": "← Standard for whom?"
-- Score: "0 = No visibility | 1 = Aggregate only | 2 = Tier-level"
+  Rows 3 and 5 carry a small Accent Blue (#A7E0FA) "← start here" flag (the two questions the article says to open the PBM conversation with).
 
-**Slide 5 - Question 7 (change notification):**
-- Monospace text: "PBM reserves the right to modify formulary at any time..."
-- Red strikethrough over "at any time"
-- Handwritten replacement above: "with 60-day advance written notice"
-- Margin note: "Without this, the PBM can change your formulary without telling you."
-- Score: "0 = No requirement | 1 = Annual | 2 = Advance notice + approval"
+- **Traffic-light score bands (bottom), three stacked bars:**
+  - Green: "11-14 · Strong independence"
+  - Yellow: "6-10 · Moderate. Gaps exist."
+  - Red: "0-5 · Low. PBM controls with minimal oversight."
 
-**Slide 6 - Scoring:**
-- Background: slightly off-white
-- Large handwritten numbers:
-  - "11-14: Strong independence" (green checkmark)
-  - "6-10: Moderate. Gaps exist." (yellow caution)
-  - "0-5: Low. PBM controls with minimal oversight." (red flag)
-- Margin note: "Below 6? Start with Questions 3 and 5."
+- **Footer note (Gray #4D4D4D, Plex Sans):** "Scored below 6? Start the PBM conversation with Questions 3 and 5: net cost analysis and tier-level rebate transparency." Small corner: "Benefit Blind Spots · rxbs.org"
 
-**Slide 7 - CTA:**
-- Background: Primary Blue (#015880)
-- White text: "One question changes the conversation."
-- Accent Blue text: "What is the net cost comparison?"
-- Small: team@rxbs.org | Benefit Blind Spots
-- PBS logo (white, 60px)
-
-**Canva Production Notes:**
-1. Use Canva Brand Template: Contract Markup Carousel
-2. Font: Courier Prime for contract text (18-20pt), Caveat for annotations (20-24pt)
-3. Yellow highlight: #FFF3CD rectangles behind key phrases
-4. Red annotations: #C0392B, hand-drawn style
-5. "CONTRACT REVIEW" stamp: Caveat Bold, 14pt, rotated -8 degrees, red
-6. Export all slides as PNG, 1080 x 1350 px
+**Canva production notes:**
+1. PBS v2 type only: Plex Sans SemiBold (title + questions), Plex Sans Regular (scale labels), Plex Mono (the 0/1/2 figures + subtitle).
+2. Numbered pills: Primary Blue (#015880) circles, white numerals.
+3. Score bands: Green/Yellow/Red at ~30% tint with a solid left cap; band label in dark text.
+4. Accent Blue (#A7E0FA) reserved for the subtitle and the Q3/Q5 "start here" flags only (don't spread it across the rows).
+5. Export PNG, 1080 x 1350 px (or 1080 x 1620 if rows are cramped).
 
 ---
 
@@ -1115,16 +1087,16 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 ## Content Schedule
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
 - [ ] Monday: Substack Notes (morning + afternoon)
-- [ ] Tuesday: Post 93 Messy Infographic at 10:00 AM (testing new time)
+- [ ] Tuesday: Post 93 Bypass/Funnel clean infographic at 10:00 AM
 - [ ] Tuesday: First Comment + Company Reshare at 1:30 PM
 - [ ] Wednesday: Post 94 Strong POV / Video at 10:00 AM
-- [ ] Thursday: Field Note at 7:30 AM, Post 95 Contract Markup Carousel at 10:00 AM
+- [ ] Thursday: Field Note at 7:30 AM, Post 95 Step Therapy Override Sticky Note (messy infographic) at 10:00 AM
 - [ ] Thursday: Company Reshare at 1:30 PM
 - [ ] Friday: Post 96 Tease Hook at 10:00 AM
 - [ ] Daily: Substack Notes per schedule
 - [ ] Track 10:00 AM posting time performance vs. 8:30 AM baseline
 - [ ] Verify Tuesday messy infographic does NOT reference formulary topic directly (different angle: PBM decision flow)
-- [ ] Verify Thursday carousel carries formulary weekly theme
+- [ ] Verify Thursday messy infographic carries the step-therapy override theme (adjacent to formulary, not same subject)
 
 ---
 
@@ -1133,7 +1105,8 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 93 Bypass/Funnel Infographic | Single clean infographic (1080x1350) | Money-flow diagram: manufacturer $ bypasses the 100% rebate pass-through gate via 5 uncalled-payment streams to the PBM; Transparency pillar |
-| Post 95 Contract Markup Carousel | 7 slides (1080x1350 each) | Template B - formulary audit as contract annotations |
+| Deep-dive in-article: Formulary Independence Scorecard | Single clean infographic (1080x1350) | 7-question scored framework + traffic-light bands; built in Canva (PBS v2 scorecard aesthetic) |
+| Post 95 Step Therapy Override Sticky Note | Single messy infographic (1080x1350) | 5 step-therapy override terms decoded; Sticky Note Dashboard aesthetic |
 | Post 94 Video (optional) | Vertical video, 50 sec | VIDEO TEST #1 - film if ready |
 | Substack article header | 2240x1260 | [ ] Design needed |
 | Field Note header | 1200x600 | [ ] Design needed |
@@ -1158,7 +1131,7 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 |------|------|------------|----------|----------|-------|
 | Post 93 (Tue Messy Info) | 10:00 AM | | | | |
 | Post 94 (Wed Text/Video) | 10:00 AM | | | | |
-| Post 95 (Thu Carousel) | 10:00 AM | | | | |
+| Post 95 (Thu Sticky Note) | 10:00 AM | | | | |
 | Post 96 (Fri Tease) | 10:00 AM | | | | |
 
 ## Posting Time Test Results
