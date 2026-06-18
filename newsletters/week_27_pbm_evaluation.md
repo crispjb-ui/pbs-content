@@ -715,7 +715,7 @@ But staying with the wrong PBM is expensive in ways that accumulate quietly. Bel
 
 The question is not "are we frustrated with our PBM?" Frustration is subjective. The question is "does the data support staying, renegotiating, or going to market?" That question has a measurable answer.
 
-Ten factors. Weighted scoring. Below 50: strong case for the market. 50-70: renegotiate with specific priorities. Above 70: optimize what you have.
+We built a ten-factor scorecard for exactly this question and run it with plan sponsors before they decide. The pattern that surprises people: the score lands on "renegotiate" far more often than "go to market." Most wrong-PBM costs turn out to be fixable in the contract without eating the disruption of a full switch. Weighted scoring, below 50: strong case for the market. 50-70: renegotiate with specific priorities. Above 70: optimize what you have.
 
 The score does not make the decision. It structures the decision so you are evaluating data instead of emotion. The best brokers run this analysis with their clients. If yours has not raised the question, bring the data to them. This is a conversation worth having before renewal, not during it.
 ```

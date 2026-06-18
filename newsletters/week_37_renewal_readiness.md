@@ -731,21 +731,21 @@ Ginny Crisp translates the language and shows what to replace it with.
 
 > **NOTE (revised Apr 24):** Dropped "Data first. Analysis second. Preparation third." rule of three and softened "Not because they are less capable. Because they started later." to plain prose per Humanize Check rule (b). Kept the closer "Preparation is the strategy. Renewal is just the meeting." as the post's punchline.
 
-#### Post Copy (~230 words)
+#### Post Copy (~250 words)
 
-Renewal season starts in weeks. The employers who prepared in Q3 will negotiate different outcomes than those who did not.
+Two employers sit across from the same PBM at renewal. One brought their own claims analysis, their own market benchmarks, and a term sheet with specific contract language. The other brought the PBM's summary report. Same PBM. Same market. The terms they walk away with are not close.
 
-Over 13 weeks, we covered the full renewal preparation arc. Data benchmarking. Formulary evaluation. PBM relationship scoring. Network cost analysis. Rebate contract provisions. RFP design. Clinical program verification. Member communication strategy. Specialty management assessment. Negotiation tactics. Contract language comparison.
+The difference was decided months before either meeting.
 
-Each week built on the one before, because each phase depends on the previous one. You cannot write a term sheet without understanding your contract. You cannot analyze your contract without understanding your data.
+We run this 90-day renewal arc with plan sponsors every year, and the pattern does not change. The employer who starts in Q3 negotiates from their own numbers. The one who starts in November negotiates inside the framework the PBM wrote.
 
-The employers who followed this arc have their own claims analysis, their own market benchmarks, a term sheet with specific language, advisory team alignment, and communication plans for anticipated changes. They will walk into renewal as informed buyers.
+Over the last 13 weeks we covered the full arc: data benchmarking, formulary evaluation, PBM scoring, network cost analysis, rebate provisions, RFP design, clinical program verification, member communication, specialty management, negotiation tactics, and contract language. Each phase depends on the one before it. You cannot write a term sheet without reading your contract. You cannot read your contract without your data.
 
-The employers who did not will walk in with the PBM's summary report. They will react to the PBM's framework. They will negotiate within terms the PBM set. Timing, not capability, is what separates them.
-
-If you are reading this and you have not started, three steps take about one working day: run five core metrics, flag ten contract provisions, have three conversations. That day of preparation changes outcomes more than any single contract provision.
+If you have not started, three steps take about one working day: run five core metrics, flag ten contract provisions, have three conversations. That one day changes outcomes more than any single provision.
 
 Preparation is the strategy. Renewal is just the meeting.
+
+Renewal on your Q4 calendar? Have you built your own model, or is the PBM's the only one on the table?
 
 #### First Comment
 
@@ -857,15 +857,15 @@ Ginny Crisp walks through what each item does at the table and how to assemble e
 #### Post Copy
 
 ```
-Renewal season is here. The preparation window is closed. The negotiation window is open.
+Your PBM's renewal proposal is about to land. The headline discount on the front page is engineered to look like a win.
 
-Q4 will bring PBM renewal proposals, stop-loss renewals, open enrollment preparation, and the implementation decisions that shape next year's pharmacy benefit.
+Q4 is when a year of preparation either pays off or it doesn't: renewal proposals, stop-loss renewals, open enrollment, and the implementation decisions that decide whether a contract improvement ever reaches your plan's spend.
 
-Over the past 13 weeks, we built the toolkit: scorecards, comparison libraries, decision trees, checklists, and templates. Every tool designed for one purpose: putting the employer in a position to negotiate from data.
+For 13 weeks we built the toolkit for this exact moment: scorecards, comparison libraries, decision trees, checklists, and the contract language to negotiate from your own data instead of reacting to a PBM summary report.
 
-What comes next: how the negotiations play out, what we are seeing in the market, and the implementation decisions that determine whether contract improvements translate to plan savings.
+Next Monday we start the Q4 cycle: how the negotiations actually play out, what we are seeing land in real proposals, and the implementation step most plans skip.
 
-Q4 content starts next Monday.
+When your renewal proposal hits your desk, what is the first page you turn to?
 ```
 
 #### First Comment

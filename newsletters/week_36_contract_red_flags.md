@@ -616,13 +616,13 @@ Ginny Crisp shows how the same contract language produces three different financ
 #### Post Copy
 
 ```
-Renewal season starts in weeks. The employers who prepared in Q3 will negotiate different outcomes than those who did not.
+Most employers find out whether they were ready for renewal the week the PBM's proposal lands. That is the worst possible time to learn it.
 
-Over 13 weeks, we covered the full arc: data benchmarking, formulary evaluation, PBM scoring, network analysis, rebate economics, RFP design, clinical program verification, communication strategy, specialty management, negotiation tactics, and contract language.
+Over 13 weeks we covered the full arc: data benchmarking, formulary evaluation, PBM scoring, network analysis, rebate economics, RFP design, clinical program verification, communication strategy, specialty management, negotiation tactics, and contract language.
 
-One question remains: are you ready?
+Next week we turn all of it into a single number. A 15-factor renewal readiness scorecard: five categories, 75 points, the assessment that tells you whether to walk in with confidence or fix the gaps first.
 
-Next week: a 15-factor renewal readiness scorecard. Five categories. 75 points. The assessment that tells you whether to proceed with confidence or focus on gaps.
+Find out where you stand now, while there is still time to do something about it.
 ```
 
 #### First Comment
