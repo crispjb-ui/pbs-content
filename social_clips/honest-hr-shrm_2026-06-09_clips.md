@@ -305,5 +305,18 @@ _First reply:_
 ## Render
 In the video repo: pull audio for `BZyuiWCY-08`, run Whisper for word-level timing, set each clip's exact in/out via the locator quotes, then `node render-from-manifest.mjs honest-hr-shrm_2026-06-09_clips.json` against `social_clips/remotion_starter/`.
 
-## Sequencing note
-GLP-1 is a topic-level amplifier (64K all-time ceiling). Stagger these; don't dump all seven at once. Suggested: lead with Clip 1 (spread decoder, evergreen) or Clip 2 (1-in-12) on a Thursday, space the rest across several weeks, and pair each LinkedIn post's first comment with its toolkit per the funnel rule.
+## Sequencing note — LOCKED schedule (Jun 18, 2026)
+GLP-1 is a topic-level amplifier (64K all-time ceiling), but stagger these; don't dump them. **Slot: the WEDNESDAY video slot** (format swap for the confrontational text POV, per the CLAUDE.md video-tab rule — keeps Tue/Thu visual slots + Friday tease intact). **Post the 9:16 render to LinkedIn** (the video tab unlocks on native 9:16), file-uploaded from Ginny's personal profile, hook in 3s, link in first comment with the clip's toolkit. **Cadence: every other Wednesday for now** (text POV holds the off Wednesdays); even weeks avoid the odd-week Potter cascade Wednesdays. **Target = weekly** once the clip pipeline is deep enough (more podcast appearances → `/clip-podcast` → more clips; ties to the podcast outreach sprint in OPEN_ITEMS).
+
+clip7 already shipped W24 Wed (Jun 17). Remaining six:
+
+| Wk · Wed | Clip | Hook | First-comment toolkit |
+|---|---|---|---|
+| W26 · Jul 1 | clip1 | They keep the difference (spread) | channel-pricing |
+| W28 · Jul 15 | clip4 | 1 in 3 would leave (retention) | drug-pipeline |
+| W30 · Jul 29 | clip3 | They claw it back (rebate) | rebate-report |
+| W32 · Aug 12 | clip2 | 1 in 12 (persistence) | drug-pipeline |
+| W34 · Aug 26 | clip5 | They'll get them anyway (DTC) | pbm-compensation |
+| W36 · Sep 9 | clip6 | 62 diseases. You already pay. | drug-pipeline |
+
+When a clip lands on a Wednesday, that week's displaced text POV is parked (backlog rule), and the slot's first comment routes to the clip's toolkit. If a clip week collides with a confirmed Potter cascade Wednesday, shift the clip to the adjacent free Wednesday.
