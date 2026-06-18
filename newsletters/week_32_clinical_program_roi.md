@@ -662,9 +662,9 @@ Ginny Crisp decodes the five terms and what plan sponsors should require.
 #### Post Copy
 
 ```
-You saved your plan six figures by switching to a biosimilar. Your members think you took away their medication.
+You can make the right pharmacy call and still have members convinced you took something away from them. The clinical decision is the easy part.
 
-The best pharmacy strategy fails without the right communication. Formulary changes. Biosimilar transitions. Network changes. PA implementation. Each one is clinically sound and financially justified. Each one feels like a takeaway to the member who gets the letter.
+Formulary changes. Biosimilar transitions. Network changes. PA rollouts. Each one is clinically sound and financially justified. Each one lands as a takeaway in the member's mailbox.
 
 The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging.
 

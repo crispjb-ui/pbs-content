@@ -605,13 +605,13 @@ Ginny Crisp decodes each one and shows the redline that restores the leverage.
 #### Post Copy
 
 ```
-Two words in your PBM contract can cost your plan six figures. Most employers have never read them.
+Two PBM contracts can look identical and protect your plan completely differently. One holds up when you try to enforce a guarantee. The other quietly hands the PBM an exit.
 
-"Commercially reasonable efforts" vs. "best efforts." The first gives the PBM an exit. The second does not. The employer relied on a guarantee the contract did not actually require.
+The difference is not legal nuance. It is financial exposure, written into provisions most employers never read closely.
 
-Contract language is where PBM economics hide in plain sight. The difference between weak and strong provisions is not legal nuance. It is financial exposure.
+Contract language is where PBM economics hide in plain sight.
 
-Next week: contract language that costs you. Ten provisions shown in weak, moderate, and strong versions. A reference document for your next renewal.
+Next week: the ten contract provisions that separate a protective PBM agreement from a decorative one, shown in weak, moderate, and strong versions. A reference document for your next renewal.
 ```
 
 #### First Comment

@@ -575,11 +575,9 @@ Ginny Crisp walks through the five clauses and the redline brokers should bring 
 #### Post Copy
 
 ```
-You saved your plan six figures by moving from Humira to an adalimumab biosimilar. Your members think you took away their medication.
+Two employers ran the same adalimumab biosimilar switch last year. Same drug. Same PBM. Same clinical rationale. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. Zero.
 
-That disconnect is not a failure of the clinical decision. It is a failure of the communication.
-
-We helped two employers implement the same adalimumab biosimilar transition last year. Same drug. Same PBM. Same clinical rationale. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. Zero.
+The disconnect was not the clinical decision. It was the communication. You can save your plan six figures moving from Humira to a biosimilar and still have members convinced you took away their medication.
 
 The difference: timing, specificity, and coordination. The first employer sent a generic formulary change letter 14 days before the switch. Prescribers were not notified. The call center was not briefed. Members called their doctor. The doctor did not know. Both called HR.
 
