@@ -189,7 +189,9 @@ _Embedded scored-framework visual for this deep dive, repurposed from the former
 
 #### Clean Scorecard Infographic Concept
 
-**Format:** Single clean infographic, PBS v2 scorecard aesthetic (mirrors the Plan Sponsor Toolkit visual system: numbered Primary Blue section pills, traffic-light Green/Yellow/Red bands). 1080 x 1350 px (go 1080 x 1620 if the seven rows feel tight). **Build in Canva, not AI-generated** — a dense scored table renders reliably as a laid-out graphic and unreliably as a generated image.
+**Format:** Single clean infographic, PBS v2 scorecard aesthetic (mirrors the Plan Sponsor Toolkit visual system: numbered Primary Blue section pills, traffic-light Green/Yellow/Red bands). 1080 x 1350 px (go 1080 x 1620 if the seven rows feel tight). **Renders reliably in ChatGPT / Gemini image generation** (tested Jun 2026 — the dense scored table came through clean). Canva remains the fallback if a regen mangles text.
+
+**Chosen direction (Jun 2026 test, "version 2"):** color-code the score numerals — `0` Gray (#4D4D4D), `1` amber/yellow, `2` Green — so each row reads as traffic-light at a glance and reinforces the bands below; large bold numbered pills; rounded score-band pills. **Brand correction for the regen:** render the title in **IBM Plex Sans SemiBold**, not a condensed poster face (the v2 test header drifted editorial; PBS holds a clinical-credibility register — Plex Sans SemiBold, the same reason Krona One was retired).
 
 **Layout (top to bottom):**
 
