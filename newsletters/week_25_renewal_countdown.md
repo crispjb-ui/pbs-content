@@ -318,7 +318,7 @@ Score each PBM's proposal against all three scenarios. The proposal that wins th
 > **Build baseline normalization into the financial scoring.** Net-cost-equivalent comparison, not headline pricing.
 > **Add three scenario models to the financial score.** Static, projected, stress.
 
-The RFP scoring methodology is the most consequential design decision in the renewal process. The plan sponsor that audits the methodology before sending the RFP runs a different process than the plan sponsor who scores against whatever methodology arrives in the broker's draft.
+The RFP scoring methodology is the most consequential design decision in the renewal process. The plan sponsor that audits the methodology before sending the RFP runs a different process than the plan sponsor who scores against whatever default weighting the proposals are measured by.
 
 ---
 
