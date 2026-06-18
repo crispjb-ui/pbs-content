@@ -30,6 +30,9 @@ _Prep Claude can do ahead: pillar-grouping click-steps for the library; the SHRM
 - **Clip7 final ship verification (local video repo):** confirm the final render carries all session fixes — staggered hook with no empty-panel frame, captions resuming during the stat-cutaway hold, no toolkit mid-roll, progressive NET COST grow, audio tail handled, enlarged badge/logo — and that 9:16 cover PNGs exist for the cross-posts. Wed Jun 17 8:30 AM slot; upload 4:5 with the designed cover as custom thumbnail; Quarterly Reporting Checklist first comment.
 - **W24 asset generation still open:** "Mid-Year Amendment Window" whiteboard vertical timeline (prompt in W24 PART 3; legibility check at ~400px; Canva logo only), Library 03 carousel design, Mon "Your H1 Dashboard" in-article infographic, week header images. See W24 PART 6 table.
 
+## 🔵 NEW (Jun 18, 2026 — 2025 success metrics)
+- **2025 proof-of-service metrics supplied → `2025_success_metrics_activation_plan.md`.** Two results infographics (originally Hylant-branded). **Decisions locked:** separate from Hylant (PBS claims solo); website revamp first (~1 week — feeds NEXT SESSION item 5 stats band); **hold social until Q3, weighted to the Sep–Oct surge** (LinkedIn dead in the summer trough). **Guardrails:** lead with CONTRACTED $78.7M (not offered $86.7M); **reconcile the engagement count before publishing (circle says 706, breakdown sums to 658)**; rebrand visuals to PBS v2 (drop Hylant palette + clip-art). Hero stats: 706 engagements · 203 unique clients · $78.7M contracted · 25% avg RFP · PBR $469K/client · RFP $562K/client. Case studies requested from a few clients (permission + anonymization before drafting). First builds when ready: v2 infographic rebrand / 6-week Q3 stat-drip / 2025 Annual Report Substack.
+
 ## 🔵 NEW (Jun 16–18, 2026 — social-media-strategy session)
 
 **Wendell Potter contributorship — Opening Piece PUBLISHED Wed Jun 17:**
