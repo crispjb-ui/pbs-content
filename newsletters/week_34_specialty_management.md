@@ -27,8 +27,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Aug 25 | 7:00 PM | X | question [A15] | PART 4B · Tue | [ ] |
 | Tue Aug 25 | 8:30 PM | X | one question [B1] | PART 4B · Tue | [ ] |
 | Wed Aug 26 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Wed | [ ] |
-| Wed Aug 26 | 10:00 AM | LI Feed | Post 126 — Strong POV text (specialty routing / oversight) | Post 126 | [ ] |
-| Wed Aug 26 | 10:05 AM | LI Feed | Post 126 first comment | Post 126 | [ ] |
+| Wed Aug 26 | 8:30 AM | LI Feed | Post 126 — SHRM clip5 "They'll get them anyway" (GLP-1 DTC reframe) · NATIVE 9:16 VIDEO; first comment → pbm-compensation toolkit | Post 126 | [ ] |
 | Wed Aug 26 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Aug 26 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 26 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
@@ -535,8 +534,35 @@ Ginny Crisp walks through how to tell which is which.
 
 ---
 
-## Post 126 - Wednesday 10:00 AM
-### Strong POV Text (~230 words)
+## Post 126 - Wednesday 8:30 AM
+### SHRM "Honest HR" clip5 — "They'll get them anyway" (GLP-1 DTC reframe) · NATIVE 9:16 VIDEO
+
+**Format:** Native 9:16 video. Asset: `social_clips/remotion_starter/out/2026-06-09_members-get-them-anyway_9x16.mp4` (SHRM Honest HR clip5).
+**Pillar:** Transparency & Industry Education (GLP-1 visibility / DTC reframe)
+**Directions:** Upload the **9:16** render as a FILE (not a YouTube/Vimeo link) from Ginny's **personal profile**, 8:30 AM EST. Captions burned in; hook in first 3 seconds. Post body link-free; toolkit link in the **first comment**. Thumbnail = the clip's designed cover if available. Wednesday video = format swap for the confrontational POV → dual distribution (feed + video tab), per the CLAUDE.md video-tab rule. (Source copy: `social_clips/honest-hr-shrm_2026-06-09_clips.md` clip5.)
+
+#### Post Copy
+
+```
+Your employees are getting GLP-1s whether your plan covers them or not.
+
+Direct-to-consumer programs, compounded versions, telehealth. It is all happening off your radar, and none of it counts toward their deductible or gives you any visibility.
+
+You cannot put your head in the sand on this one. From SHRM's Honest HR podcast.
+
+#GLP1 #PBMTransparency #EmployeeBenefits
+```
+
+#### First Comment
+
+```
+Want the full picture of what your PBM earns and what it hides? Free PBM Compensation worksheet → rxbs.org/toolkit/pbm-compensation
+```
+
+---
+
+### [PARKED — displaced by clip5 video] Strong POV Text — specialty routing / oversight (~230 words)
+_Preserved for re-slotting on a non-clip Wednesday (specialty-routing POV; on-theme for this week's topic). Original spec below._
 
 #### Post Copy
 

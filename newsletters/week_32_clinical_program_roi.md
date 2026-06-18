@@ -27,8 +27,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Aug 11 | 7:00 PM | X | question [A1] | PART 4B · Tue | [ ] |
 | Tue Aug 11 | 8:30 PM | X | one question [B5] | PART 4B · Tue | [ ] |
 | Wed Aug 12 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Wed | [ ] |
-| Wed Aug 12 | 10:00 AM | LI Feed | Post 118 — Strong POV text (clinical-program savings; carries the week's shocking fact) | Post 118 | [ ] |
-| Wed Aug 12 | 10:05 AM | LI Feed | Post 118 first comment | Post 118 | [ ] |
+| Wed Aug 12 | 8:30 AM | LI Feed | Post 118 — SHRM clip2 "1 in 12" (GLP-1 persistence) · NATIVE 9:16 VIDEO; first comment → drug-pipeline toolkit | Post 118 | [ ] |
 | Wed Aug 12 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Aug 12 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 12 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
@@ -505,8 +504,35 @@ Ginny Crisp walks through how to ask.
 
 ---
 
-## Post 118 - Wednesday 10:00 AM
-### Strong POV Text (~230 words)
+## Post 118 - Wednesday 8:30 AM
+### SHRM "Honest HR" clip2 — "1 in 12" (GLP-1 persistence) · NATIVE 9:16 VIDEO
+
+**Format:** Native 9:16 video. Asset: `social_clips/remotion_starter/out/2026-06-09_one-in-twelve-persistence_9x16.mp4` (SHRM Honest HR clip2).
+**Pillar:** Clinical Pharmacy Perspectives (GLP-1 persistence / adherence)
+**Directions:** Upload the **9:16** render as a FILE (not a YouTube/Vimeo link) from Ginny's **personal profile**, 8:30 AM EST. Captions burned in; hook in first 3 seconds. Post body link-free; toolkit link in the **first comment**. Thumbnail = the clip's designed cover if available. Wednesday video = format swap for the confrontational POV → dual distribution (feed + video tab), per the CLAUDE.md video-tab rule. (Source copy: `social_clips/honest-hr-shrm_2026-06-09_clips.md` clip2.)
+
+#### Post Copy
+
+```
+After three years, only 1 in 12 people are still on their GLP-1.
+
+That is not automatically bad. If they paired it with lifestyle, hit their goal, and came off while keeping the weight off, that is a win. If they quit because they could not afford it or tolerate it, that is a very different story.
+
+The persistence rate is the number most plans never track. From SHRM's Honest HR podcast.
+
+#GLP1 #PharmacyBenefits #EmployeeBenefits
+```
+
+#### First Comment
+
+```
+Budgeting for GLP-1s in 2026-2027? The free Drug Pipeline Watch List maps the categories to plan for → rxbs.org/toolkit/drug-pipeline-watch
+```
+
+---
+
+### [PARKED — displaced by clip2 video] Strong POV Text — clinical program savings (~230 words)
+_Preserved for re-slotting on a non-clip Wednesday (clinical-program-ROI POV; carries the week's shocking fact). Original spec below._
 
 #### Post Copy
 

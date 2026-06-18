@@ -27,8 +27,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jul 28 | 7:00 PM | X | question [A3] | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 8:30 PM | X | one question [B9] | PART 4B · Tue | [ ] |
 | Wed Jul 29 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Wed | [ ] |
-| Wed Jul 29 | 10:00 AM | LI Feed | Post 110 — Site-of-care POV (Strong POV text / Video Test #3, shocking-fact weave) | Post 110 | [ ] |
-| Wed Jul 29 | 10:05 AM | LI Feed | Post 110 first comment | Post 110 | [ ] |
+| Wed Jul 29 | 8:30 AM | LI Feed | Post 110 — SHRM clip3 "They claw it back" (rebate clawback on lifestyle) · NATIVE 9:16 VIDEO; first comment → rebate-report toolkit | Post 110 | [ ] |
 | Wed Jul 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Jul 29 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Jul 29 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
@@ -534,8 +533,35 @@ Ginny Crisp walks through the five decisions that have to land before Q1.
 
 ---
 
-## Post 110 - Wednesday 10:00 AM
-### Strong POV Text / VIDEO TEST #3
+## Post 110 - Wednesday 8:30 AM
+### SHRM "Honest HR" clip3 — "They claw it back" (rebate clawback on lifestyle) · NATIVE 9:16 VIDEO
+
+**Format:** Native 9:16 video. Asset: `social_clips/remotion_starter/out/2026-06-09_rebate-clawback-lifestyle_9x16.mp4` (SHRM Honest HR clip3).
+**Pillar:** PBM Contract Insights (rebate mechanics / named-adversary)
+**Directions:** Upload the **9:16** render as a FILE (not a YouTube/Vimeo link) from Ginny's **personal profile**, 8:30 AM EST. Captions burned in; hook in first 3 seconds. Post body link-free; toolkit link in the **first comment**. Thumbnail = the clip's designed cover if available. Wednesday video = format swap for the confrontational POV → dual distribution (feed + video tab), per the CLAUDE.md video-tab rule. (Source copy: `social_clips/honest-hr-shrm_2026-06-09_clips.md` clip3.)
+
+#### Post Copy
+
+```
+You want to pair the GLP-1 with lifestyle support, exactly how the FDA trials were run.
+
+A lot of PBMs say no. Why? Because lifestyle requirements can dent their rebates, so they claw the rebates back.
+
+Read that again: the PBM will not model the thing that actually works, because it costs them rebate dollars. From SHRM's Honest HR podcast.
+
+#Rebates #GLP1 #SelfFundedEmployers
+```
+
+#### First Comment
+
+```
+See what your rebate report is not telling you. Free worksheet → rxbs.org/toolkit/rebate-report-audit
+```
+
+---
+
+### [PARKED — displaced by clip3 video] Strong POV Text / Site-of-care POV
+_Preserved for re-slotting on a non-clip Wednesday (cost-containment / site-of-care POV; on-theme for this week's topic). Original spec below._
 
 **Format:** Text Post (Strong POV) — VIDEO ALTERNATIVE
 **Pillar:** Cost Containment Strategies

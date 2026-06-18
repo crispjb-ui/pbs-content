@@ -25,7 +25,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Sep 8 | 7:00 PM | X | question [A13] | PART 4B · Tue | [ ] |
 | Tue Sep 8 | 8:30 PM | X | one question [B7] | PART 4B · Tue | [ ] |
 | Wed Sep 9 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Wed | [ ] |
-| Wed Sep 9 | 10:00 AM | LI Feed | Post 134 — Strong POV text (two-word contract trap) | Post 134 | [ ] |
+| Wed Sep 9 | 8:30 AM | LI Feed | Post 134 — SHRM clip6 "62 diseases. You already pay." (obesity cost reframe) · NATIVE 9:16 VIDEO; first comment → drug-pipeline toolkit | Post 134 | [ ] |
 | Wed Sep 9 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Sep 9 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Sep 9 | 7:00 PM | X | question [A14] | PART 4B · Wed | [ ] |
@@ -463,7 +463,35 @@ Ginny Crisp walks through the clauses and what to redline before next renewal.
 
 ---
 
-## Post 134 - Wednesday 10:00 AM
+## Post 134 - Wednesday 8:30 AM
+### SHRM "Honest HR" clip6 — "62 diseases. You already pay." (obesity cost reframe) · NATIVE 9:16 VIDEO
+
+**Format:** Native 9:16 video. Asset: `social_clips/remotion_starter/out/2026-06-09_obesity-62-diseases-already-paying_9x16.mp4` (SHRM Honest HR clip6).
+**Pillar:** Self-Funded Employer Guidance (obesity cost reframe / GLP-1 business case)
+**Directions:** Upload the **9:16** render as a FILE (not a YouTube/Vimeo link) from Ginny's **personal profile**, 8:30 AM EST. Captions burned in; hook in first 3 seconds. Post body link-free; toolkit link in the **first comment**. Thumbnail = the clip's designed cover if available. Wednesday video = format swap for the confrontational POV → dual distribution (feed + video tab), per the CLAUDE.md video-tab rule. (Source copy: `social_clips/honest-hr-shrm_2026-06-09_clips.md` clip6.)
+
+#### Post Copy
+
+```
+Your plan is already paying for obesity.
+
+There are ~62 disease states tied to obesity, and roughly 60% higher total cost for someone who has them. That spend is already on your plan, whether or not you ever turn on GLP-1 coverage for weight loss.
+
+So the real question isn't "can we afford to cover it?" It's what you're already paying not to. From SHRM's Honest HR podcast.
+
+#GLP1 #EmployeeBenefits #SelfFundedEmployers
+```
+
+#### First Comment
+
+```
+Budgeting GLP-1s and obesity-related spend for 2026-2027? The free Drug Pipeline Watch List maps the categories → rxbs.org/toolkit/drug-pipeline-watch
+```
+
+---
+
+### [PARKED — displaced by clip6 video] Strong POV Text — two-word contract trap (~230 words)
+_Preserved for re-slotting on a non-clip Wednesday (contract-language POV; on-theme for this week's topic). Original spec below._
 
 #### Post Copy (~230 words)
 
