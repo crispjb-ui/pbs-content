@@ -715,11 +715,11 @@ _The "Renewal Timeline: Month-by-Month Milestones" infographic was repurposed in
 #### Post Copy
 
 ```
-Five RFP scoring terms decide which PBM wins your renewal. Most plan sponsors never audit the scoring methodology before sending the RFP.
+Three PBM proposals. Weight the score the way your broker's RFP is set up, and PBM A wins. Re-weight it to match your actual priorities, and PBM C wins. Same three proposals. The winner just flipped.
 
-I review hundreds of PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using. The headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
+I review hundreds of PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using, and the headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
 
-Five terms to know:
+That flip is controlled by five scoring terms most plan sponsors never audit before sending the RFP:
 
 1. **Weighted Scoring.** Each category (financial, clinical, reporting, technology, references) gets a weight. If financial is 70% and reporting is 5%, the lowest-headline-pricing proposal wins regardless of whether you can actually read the reports. Match weights to your priority document.
 
