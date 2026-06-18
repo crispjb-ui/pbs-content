@@ -27,7 +27,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jul 14 | 7:00 PM | X | question [A5] | PART 4B · Tue | [ ] |
 | Tue Jul 14 | 8:30 PM | X | one question [B3] | PART 4B · Tue | [ ] |
 | Wed Jul 15 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Wed | [ ] |
-| Wed Jul 15 | 10:00 AM | LI Feed | Post 102 — "Same drug. Retail: one price. Mail order: different price. Specialty: another." (POV text / Video Test #2) | Post 102 | [ ] |
+| Wed Jul 15 | 8:30 AM | LI Feed | Post 102 — SHRM clip4 "1 in 3 would leave" (GLP-1 retention) · NATIVE 9:16 VIDEO; first comment → drug-pipeline toolkit | Post 102 | [ ] |
 | Wed Jul 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Jul 15 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Jul 15 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
@@ -520,8 +520,35 @@ Ginny Crisp decodes the form and what self-funded employers should take from it.
 
 ---
 
-## Post 102 - Wednesday 10:00 AM
-### "Same drug. Retail: one price. Mail order: different price. Specialty: another." (Strong POV Text / VIDEO TEST #2)
+## Post 102 - Wednesday 8:30 AM
+### SHRM "Honest HR" clip4 — "1 in 3 would leave" (GLP-1 retention) · NATIVE 9:16 VIDEO
+
+**Format:** Native 9:16 video. Asset: `social_clips/remotion_starter/out/2026-06-09_one-in-three-switch-jobs_9x16.mp4` (SHRM Honest HR clip4).
+**Pillar:** Self-Funded Employer Guidance (GLP-1 retention / business case)
+**Directions:** Upload the **9:16** render as a FILE (not a YouTube/Vimeo link) from Ginny's **personal profile**, 8:30 AM EST. Captions burned in; hook in first 3 seconds. Post body link-free; toolkit link in the **first comment**. Thumbnail = the clip's designed cover if available. Wednesday video = format swap for the confrontational POV → dual distribution (feed + video tab), per the CLAUDE.md video-tab rule. (Source copy: `social_clips/honest-hr-shrm_2026-06-09_clips.md` clip4.)
+
+#### Post Copy
+
+```
+About 1 in 3 employees would change jobs to get GLP-1 coverage.
+
+30%. If you are a leader trying to keep good people, that is not a pharmacy stat anymore. It is a retention stat.
+
+But it is not an overnight ROI either. The plans getting this right build the business case both ways. From SHRM's Honest HR podcast.
+
+#GLP1 #EmployeeBenefits #HR
+```
+
+#### First Comment
+
+```
+Deciding whether to cover GLP-1s? The free Drug Pipeline Watch List helps you budget the categories → rxbs.org/toolkit/drug-pipeline-watch
+```
+
+---
+
+### [PARKED — displaced by clip4 video] "Same drug. Retail: one price. Mail order: different price. Specialty: another." (Strong POV Text)
+_Preserved for re-slotting on a non-clip Wednesday (channel-pricing POV; on-theme for network/site-of-care weeks). Original spec below._
 
 **Format:** Text Post (Strong POV) — VIDEO ALTERNATIVE
 **Pillar:** Cost Containment Strategies
