@@ -87,6 +87,8 @@
 
 **What PBS Does:** PBM audits, contract language development, claims reviews, cost containment consulting for self-funded employers. PBS reviews hundreds of PBM contracts a year.
 
+**2025 firm results (proof metrics, reconciled Jun 18, 2026; source `2025_success_metrics_activation_plan.md`):** 706 client engagements (up from 679 in 2024) · 203 unique clients · national footprint · **$78.7M contracted savings** ($86.7M identified). By line: Pharmacy Benefit Reviews 132 engagements / 93 clients / 18.7% avg / **$469K avg/client**; PBM RFPs 59 / 51 clients / **25%** / **$562K avg/client**; Contract reviews 86 / 82 clients / 8.4% / $169K avg/client; All Others 429. **Guardrails on any public use:** headline the **contracted** $78.7M (offered $86.7M is "identified opportunities" only); **25% is the RFP rate, never "average"**; verified numbers only (no extrapolation); PBS claims these **solo** (separated from Hylant). These are the rotating **Positioning-beat anchors** — pull/log from `proprietary_anchor_bank.md` (no-repeat-within-~4, matched to pillar/topic). **Social use held for Q3, weighted to the Sep–Oct surge;** the website proof page (next revamp) is the canonical home first. Woven into W31–W37 feed posts as the August/September rollout.
+
 **Target Audience:** Self-funded employers, CFOs, HR Directors, CEOs, and benefits brokers/consultants who manage pharmacy benefits.
 
 ## Content Direction
@@ -573,6 +575,10 @@ Retired from active rotation until re-proven: Annotated Email, Spreadsheet with 
 **Clean infographic rotation (4 templates):**
 
 Rotate through Iceberg → Funnel → Mountain → Bridge in order across clean-infographic slots. These four cover the most common argument shapes (hidden cost, flow, climb, weak-to-strong). Stopwatch, Door, Tree, Maze are saved for topic-specific weeks where the metaphor is obvious.
+
+**Clean conceptual infographic over Marked-Up Contract Page when the thesis is a flow/comparison/score (added Jun 18, 2026).** A Marked-Up Contract Page photoreal is a static document; it cannot show the *argument*. When the post's thesis is "money routes around a gate" (use a **Bypass/Funnel** — W26 Tuesday "5 manufacturer payments that bypass the rebate pass-through"), "the same inputs flip the outcome" (use a scoreboard/whiteboard — W25 Thursday "RFP scoring: the winner flips"), or "score your plan" (use a **Scorecard** — W26 deep-dive Formulary Independence Scorecard), reach for the clean conceptual infographic. It dramatizes the thesis and is far more legible at thumbnail than legalese. Reserve the Marked-Up Contract Page for genuine contract-language decoders where the redline IS the payload.
+
+**AI image-generation (ChatGPT / Gemini) is a proven production path for clean scorecard / conceptual infographics (added Jun 18, 2026).** Tested on the W26 Formulary Independence Scorecard: the dense scored table rendered clean. **Chosen treatment:** color-code score numerals (`0` Gray / `1` amber / `2` Green) so each row reads as traffic-light at a glance; large numbered pills; rounded score-band pills. **Brand correction:** render the title in **IBM Plex Sans SemiBold**, not a condensed poster face (PBS holds a clinical-credibility register — the same reason Krona One was retired). Canva remains the fallback if a regen mangles text. (Dense legalese photoreal still generates unreliably; this applies to clean conceptual layouts.)
 
 **Test-and-prune cadence:**
 
