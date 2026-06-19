@@ -440,7 +440,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 ```
 $1,200 cream. $47 alternative. Same active ingredient, same strength. Your plan paid for the first one because nobody flagged it.
 
-We see this on nearly every claims review at PBS: high-cost compounded and "specialty" formulations that have a clinically equivalent option sitting one substitution away. The PBM adjudicated the expensive one. The contract let it. The report did not flag it.
+The benefit reviews we ran in 2025 averaged $469K in savings per plan, and line items exactly like this are where it adds up: high-cost compounded and "specialty" formulations with a clinically equivalent option sitting one substitution away. The PBM adjudicated the expensive one. The contract let it. The report did not flag it.
 
 Pull your top 20 claims by cost. For each, ask: is there a clinically equivalent option, and why did the expensive version pay? That list is your renewal leverage.
 
@@ -485,7 +485,7 @@ They know your pricing position. They know where your guarantees fell short. The
 
 Most employers walk into renewal without a comparable level of preparation. The PBM presents. The employer reacts. The negotiation happens within the PBM's framework because the employer did not build their own.
 
-I have watched this dynamic play out across hundreds of renewals. The employers who accept initial terms and the employers who negotiate substantially different outcomes are not separated by plan size, market conditions, or PBM relationship history. They are separated by preparation.
+Across the 59 PBM RFPs we ran in 2025, clients averaged 25% savings, and the separator was never plan size, market conditions, or PBM relationship history. The employers who accept initial terms and the employers who negotiate substantially different outcomes are separated by one thing: preparation.
 
 Some employers never get to negotiate at all. Buried in the termination section of many PBM contracts is an evergreen clause: the agreement renews itself automatically for another full term unless you send written notice of non-renewal by a deadline, often 90 or 180 days before expiration. Miss the date and you are locked in again before the conversation even starts. The deadline is almost never flagged. Renewal is the default, and silence is consent.
 
@@ -529,7 +529,7 @@ _The "Negotiation Leverage Points" balance-scale messy infographic was repurpose
 ```
 Five contract terms decide whether you can actually use your termination clause. Most plan sponsors cannot, and most PBMs know it.
 
-I review hundreds of PBM contracts a year at PBS. Most termination-clause negotiations never end in termination. But a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
+We read 86 PBM contracts in 2025. Most termination-clause negotiations never end in termination, but a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
 
 1. **Termination for convenience.** Often exists only for the PBM, or with notice periods long enough to neutralize plan-sponsor leverage. 90 days vs. 180 is the negotiation.
 2. **Termination for cause.** Usable only if "cause" is broadly defined. Vague "material breach" language favors the PBM.

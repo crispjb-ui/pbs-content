@@ -64,6 +64,20 @@ _Created Jun 18, 2026. The reservoir of PBS's own verified 2025 proof points, tu
 - **Phase 3 (as they land):** client case studies pair a specific win to the aggregate ("part of the $78.7M we contracted in 2025").
 
 ## Rotation log (fill in as anchors are used, to enforce no-repeat-within-4)
-| Date | Week / Post | Anchor used (tag) |
+_August inline-anchor rollout woven Jun 19, 2026 (publish dates below). Video Wednesdays (W32 clip2, W34 clip5) carry their own short clip copy, no inline anchor. W33 Wed kept its "two employers" scene anchor (a stronger unfakeable detail than a stat)._
+
+| Publish date | Week / Post | Anchor used (tag) |
 |---|---|---|
-| _(start logging at Q3 launch)_ | | |
+| Aug 4 | W31 Tue 113 (cost levers) | PBR — "132 benefit reviews" |
+| Aug 5 | W31 Wed 114 (RFP POV) | RFP — "59 RFPs, 25%, $562K/plan" |
+| Aug 6 | W31 Thu 115 (disclosure terms) | TOTALS — "203 employers" |
+| Aug 11 | W32 Tue 117 (report gaps) | PBR — "132 reviews, gaps the norm" |
+| Aug 13 | W32 Thu 119 (ERISA fiduciary) | CONTRACT — "86 contracts" |
+| Aug 18 | W33 Tue 121 (broker clauses) | TOTALS — "203 plans" |
+| Aug 19 | W33 Wed 122 (biosimilar comms) | _scene — "two employers, zero vs wave" (non-stat)_ |
+| Aug 20 | W33 Thu 123 (transition clauses) | VOLUME — "706 engagements" |
+| Aug 25 | W34 Tue 125 (clinical ROI) | PBR — "18.7% avg recovery" |
+| Aug 27 | W34 Thu 127 (mid-year guarantees) | TOTALS — "$78.7M contracted" |
+| Sep 1 | W35 Tue 129 ($1,200 cream) | PBR — "$469K avg/plan" |
+| Sep 2 | W35 Wed 130 (renewal strategy) | RFP — "59 RFPs, 25%" |
+| Sep 3 | W35 Thu 131 (termination clauses) | CONTRACT — "86 contracts" |
