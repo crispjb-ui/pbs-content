@@ -498,7 +498,7 @@ Lever 2: Site-of-care steering on infusions. The same biologic infused at a hosp
 
 Lever 3: PA criteria reset on Q4/Q1 launches. New molecules show up in claims before PA gates are written. The plan accepts the PBM's default permissive position, then tightens after the spend already happened.
 
-In the plans we review at PBS, all three get missed far more often than they get caught, and never for lack of capability. Nobody flagged that the window was closing. Each lever has one, and it closes on its own schedule, not the renewal cycle's.
+In the 132 benefit reviews we ran in 2025, these three get missed far more often than they get caught, and never for lack of capability. Nobody flagged that the window was closing. Each lever has one, and it closes on its own schedule, not the renewal cycle's.
 
 #PBMContracts #SelfFundedEmployers #PharmacyBenefits
 ```
@@ -578,7 +578,7 @@ Standard RFP questions allow good-sounding answers that commit to nothing specif
 
 "Do you offer clinical management programs?" Every PBM says yes. But can you audit the savings methodology? Can you verify a single dollar of claimed savings independently? Are the programs producing clinical value or administrative friction?
 
-I have evaluated PBM proposals where three responses looked competitive on paper. When we normalized the methodologies and asked specific follow-up questions, one was substantially more expensive than the others despite appearing cheapest on the cover page.
+We ran 59 PBM RFPs in 2025, and clients averaged 25% savings, $562,000 per plan. But that gap only shows up when you normalize the methodologies and ask specific follow-up questions. On the cover page, three responses look competitive; one is often substantially more expensive than the one that appeared cheapest.
 
 The fix is not a longer RFP. It is 30 specific follow-up questions with 0-3 scoring on each answer, where a vague response costs points. Your broker can add that layer. The best ones already do.
 ```
@@ -611,7 +611,7 @@ _The RFP Process Timeline whiteboard carousel was repurposed into Monday's deep 
 ```
 Five disclosures your PBM owes you every year. Most plan sponsors receive only one of them.
 
-I review hundreds of PBM contracts a year at PBS. The disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.
+Across the 203 employers we worked with in 2025, the disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.
 
 Five disclosures to know:
 

@@ -436,7 +436,7 @@ Four things we look for in the gaps:
 
 4. PA approval rate by drug class. The report shows total PA volume. Approval rate by therapeutic area surfaces where step therapy is failing or formulary is misaligned.
 
-Every one of these is producible from data the PBM already has. None of them appear by default. Ask for the four. The PBM's response tells you what kind of relationship you have.
+Every one of these is producible from data the PBM already has. None appear by default. We pull all four in the benefit reviews we run, 132 of them in 2025, and the gaps were the norm, not the exception. Ask your PBM for the four. The response tells you what kind of relationship you have.
 
 #PBMTransparency #SpecialtyPharmacy #PharmacyBenefits
 ```
@@ -584,7 +584,7 @@ _The "Clinical Program Evaluation" One Number Carousel was repurposed into Monda
 ```
 ERISA uses five words that sound procedural. They are not. They define your personal exposure as a plan fiduciary.
 
-We sit in on plan-sponsor fiduciary reviews at PBS. The plan sponsors who document their decision-making process satisfy the prudent-process standard; the plan sponsors who don't are exposed regardless of whether the decisions were good.
+We reviewed 86 PBM contracts in 2025, and the fiduciary through-line is consistent: the plan sponsors who document their decision-making process satisfy the prudent-process standard; the ones who don't are exposed regardless of whether the decisions were good.
 
 1. **Fiduciary.** You, if you influence pharmacy benefit decisions. Title not required.
 2. **Prudent process.** Not "did you get the best deal" but "can you show how you decided."
