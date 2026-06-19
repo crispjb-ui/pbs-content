@@ -10,16 +10,17 @@ _Created Jun 18, 2026. Source: two 2025 results infographics Ginny supplied (ori
 
 ## Guardrails before anything goes public
 1. **Lead with CONTRACTED savings ($78.7M), not OFFERED ($86.7M).** Offered = identified opportunity; contracted = what clients actually signed. Contracted is the defensible headline. "$86.7M in identified savings opportunities" is the legitimate secondary frame. (No-overclaim discipline.)
-2. **Reconcile the engagement count before publishing.** The 2025 circle says **706**, but the breakdown sums to **658** (Contracts 86 + RFPs 59 + PBRs 132 + All Others 381 = 658). 48-engagement gap. A proof number that doesn't add up is the first thing a skeptical CFO spots. Confirm the real 2025 total + breakdown.
-3. **Case studies:** written client permission + agreed anonymization level before drafting. Frame the PBM as the structural adversary, never the client's prior broker (broker-sensitivity rule).
-4. **Rebrand visuals to PBS v2** (Primary Blue #015880 / Accent Blue #A7E0FA / Gray #4D4D4D / white; Plex Sans + Plex Mono for figures).
+2. **Reconcile the engagement count before publishing.** The 2025 circle says **706**, but the breakdown sums to **658** (Contracts 86 + RFPs 59 + PBRs 132 + All Others 381 = 658). 48-engagement gap. A proof number that doesn't add up is the first thing a skeptical CFO spots. Confirm the real 2025 total + breakdown (either "All Others" is actually ~429, or the headline is 658).
+3. **Relabel "Average: 25%" → "RFPs: 25% savings" (RESOLVED Jun 18, 2026).** On Infographic 1 the "$86.7M / Average: 25%" reads as a program-wide average, but 25% is the **RFP-only** rate (Contracts 8.4%, PBRs 18.7%; a true blend is well under 25%). Per Ginny: relabel it as **25% savings for RFPs**, not a program average. Apply in the website rebuild and any reuse of the graphic.
+4. **Case studies:** written client permission + agreed anonymization level before drafting. Frame the PBM as the structural adversary, never the client's prior broker (broker-sensitivity rule).
+5. **Rebrand visuals to PBS v2** (Primary Blue #015880 / Accent Blue #A7E0FA / Gray #4D4D4D / white; Plex Sans + Plex Mono for figures).
 
 ## Raw metrics (as supplied)
 
 ### Infographic 1 — "Our Success: A Year in Review"
 - Engagements: **2024 = 679 · 2025 = 706**
 - Unique clients: **203**
-- Savings opportunities: **$86.7M** · average **25%**
+- Savings opportunities: **$86.7M** · **25% = RFP savings rate** (graphic labeled it "Average"; relabel per guardrail 3 — it is not the program-wide average)
 - Locations served: national (multi-state US map)
 - 2025 engagement breakdown: RFPs **59** · Contracts **86** · PBRs **132** · All Others **381** _(sums to 658 — see guardrail 2)_
 - Legend as shown: **PBR = Pharmacy Benefit Review · RFP = PBM Market Analysis**
