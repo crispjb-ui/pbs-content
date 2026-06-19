@@ -499,7 +499,7 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 #### Post Copy
 
 ```
-The brokers we work most often with are running the same five conversations with self-funded clients this quarter. Each one depends on a specific clause giving the broker standing to act.
+The brokers we work most often with are running the same five conversations with self-funded clients this quarter. Across the 203 plans we supported alongside brokers in 2025, the pattern held: each conversation only works if a specific clause gives the broker standing to act.
 
 1. Biosimilar pipeline. Humira baseline. Stelara next. Enbrel follows. The tier-placement clause determines whether pre-launch positioning is even allowed.
 
@@ -618,7 +618,7 @@ _The "Member Communication Checklist" Whiteboard Carousel was repurposed into Mo
 ```
 Five contract clauses protect members during pharmacy benefit transitions. Most plan sponsors assume the protections execute automatically. They do not.
 
-I review hundreds of PBM contracts a year at PBS. The transition clauses are in nearly every contract. The audit of whether the protections actually executed during the past year's changes is rarely run. Members report disruption; the plan sponsor assumes the contract was followed; the PBM is following an operational playbook that may or may not match the contract.
+Across 706 client engagements in 2025, the transition clauses were in nearly every contract. The audit of whether the protections actually executed during the past year's changes is rarely run. Members report disruption; the plan sponsor assumes the contract was followed; the PBM is following an operational playbook that may or may not match the contract.
 
 Five clauses to know:
 

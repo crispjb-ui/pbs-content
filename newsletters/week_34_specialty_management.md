@@ -450,7 +450,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 #### Post Copy
 
 ```
-Your PBM grades its own clinical programs and reports the savings it wants you to see. In the plans we audit, about half of those programs genuinely earn their cost. The other half cannot prove they did. Telling them apart is the whole game.
+Your PBM grades its own clinical programs and reports the savings it wants you to see. Across the benefit reviews we ran in 2025, the average plan recovered 18.7%, and about half of the clinical programs in those reviews genuinely earned their cost. The other half could not prove it. Telling them apart is the whole game.
 
 Programs that consistently earn their cost:
 
@@ -612,7 +612,7 @@ The FTC found the big-3 PBMs marked up more than one in five specialty generics 
 
 Five contract guarantees you should already have audited at mid-year. Most plan sponsors do not run the audit until year-end, when the PBM has had two more quarters to optimize the numbers.
 
-We run mid-year guarantee audits for plan sponsors every summer at PBS. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
+Mid-year guarantee audits are part of how we recovered $78.7M for plan sponsors in 2025. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
 
 Five terms to know:
 
