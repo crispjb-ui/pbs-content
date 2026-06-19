@@ -81,3 +81,10 @@ _August inline-anchor rollout woven Jun 19, 2026 (publish dates below). Video We
 | Sep 1 | W35 Tue 129 ($1,200 cream) | PBR — "$469K avg/plan" |
 | Sep 2 | W35 Wed 130 (renewal strategy) | RFP — "59 RFPs, 25%" |
 | Sep 3 | W35 Thu 131 (termination clauses) | CONTRACT — "86 contracts" |
+| Sep 8 | W36 Tue 133 (Q4 patterns) | TOTALS — "203 plans" |
+| Sep 10 | W36 Thu 135 (defined-term variance) | VOLUME — "706 engagements" |
+| Sep 15 | W37 Tue 137 ("industry standard") | CONTRACT — "86 contracts" |
+| Sep 16 | W37 Wed 138 (renewal capstone) | RFP — "59 RFPs/renewals" |
+| Sep 17 | W37 Thu 139 (first-meeting items) | TOTALS — "$78.7M contracted" |
+
+_W36–W37 woven Jun 19, 2026. W36 Wed 134 is the SHRM clip6 video (own copy). Beyond W37: not yet built — the build-week process pulls anchors from this bank automatically (CLAUDE.md 6-beat Positioning beat + spec §8 gate)._

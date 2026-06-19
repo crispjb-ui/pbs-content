@@ -396,7 +396,7 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 #### Post Copy
 
 ```
-Q4 claims data follows the same three patterns in almost every self-funded plan. Each one traces back to a specific clause in the contract.
+Q4 claims data follows the same three patterns in almost every self-funded plan. Across the 203 plans we worked with in 2025, the patterns were strikingly consistent, and each traces back to a specific clause in the contract.
 
 Pattern 1: Deductible acceleration via copay cards. Manufacturer copay cards push members through their OOP max faster than organic spend. By Q4, the plan is covering full cost on claims the member paid nothing for. The clause behind it: accumulator adjustment language.
 
@@ -544,7 +544,7 @@ Same clause. Same ten words. Three PBMs reading it three different ways. The con
 
 Here is the red flag that hides in the most reassuring phrase in your contract. "100% pass-through" of manufacturer rebates sounds airtight. But the big-3 PBMs collect those rebates through their own aggregator companies, and two of the three are registered offshore: Ascent in Switzerland, Emisar in Ireland, Zinc for the third. The pass-through starts AFTER that offshore aggregator takes its cut. 100% of what is left is still "100%."
 
-At PBS we compare the same provisions across dozens of different PBMs' contracts. The same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
+Across the 706 engagements we ran in 2025, the same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
 
 The pattern: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The current contract reads cleanly. The trajectory across versions does not.
 

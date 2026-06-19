@@ -647,7 +647,7 @@ Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_rev
 ```
 "Industry standard" is the three most expensive words in a PBM proposal.
 
-In the hundreds of contracts we review each year, "industry standard" appears in almost every one. It is rarely defined. It is rarely the same number in any two contracts. It is almost always worse than what the plan could have negotiated.
+In the 86 PBM contracts we read in 2025, "industry standard" appears in almost every one. It is rarely defined. It is rarely the same number in any two contracts. It is almost always worse than what the plan could have negotiated.
 
 "Industry-standard AWP discount." Whose industry? Large-employer market? Self-funded mid-market? National? The phrase lets the PBM reference whichever benchmark makes their number look favorable.
 
@@ -737,7 +737,7 @@ Two employers sit across from the same PBM at renewal. One brought their own cla
 
 The difference was decided months before either meeting.
 
-We run this 90-day renewal arc with plan sponsors every year, and the pattern does not change. The employer who starts in Q3 negotiates from their own numbers. The one who starts in November negotiates inside the framework the PBM wrote.
+We run this 90-day renewal arc with plan sponsors every year. Across the 59 PBM RFPs and renewals we ran in 2025, the pattern does not change. The employer who starts in Q3 negotiates from their own numbers. The one who starts in November negotiates inside the framework the PBM wrote.
 
 Over the last 13 weeks we covered the full arc: data benchmarking, formulary evaluation, PBM scoring, network cost analysis, rebate provisions, RFP design, clinical program verification, member communication, specialty management, negotiation tactics, and contract language. Each phase depends on the one before it. You cannot write a term sheet without reading your contract. You cannot read your contract without your data.
 
@@ -777,7 +777,7 @@ Five items to bring to your first PBM renewal meeting. Most plan sponsors walk i
 
 Start with the leverage reality you are negotiating inside of. The FTC found three PBMs now process about 80% of all US prescriptions, up from 52% in 2004, and the same three own the pharmacies filling roughly 70% of every specialty dollar. You are not negotiating with a vendor in a competitive market. You are negotiating with one of three companies that sit on both sides of the counter. Renewal readiness is how you offset that.
 
-I review hundreds of PBM contracts a year at PBS. The plan sponsors who walk into the first renewal meeting with all five items negotiate different terms than the plan sponsors who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.
+We contracted $78.7M in savings for plan sponsors in 2025. The ones who walk into the first renewal meeting with all five items negotiate different terms than the ones who walk in with the PBM's standard renewal deck. The PBM brings a narrative; the plan sponsor that brings these five items brings a counter-narrative.
 
 Five items to know:
 
