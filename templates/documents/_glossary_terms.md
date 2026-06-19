@@ -218,6 +218,16 @@
 
 ---
 
+## Rebate aggregator
+
+**Definition:** An entity, frequently PBM-affiliated and in several cases domiciled offshore, that contracts with drug manufacturers to negotiate and collect rebates on behalf of one or more PBMs. Because the aggregator sits between the manufacturer and the PBM, rebate dollars and fees can be retained at the aggregator level before the PBM's stated "pass-through" to the plan even begins. The plan sponsor often has no contractual visibility into the aggregator's economics. (Real entities operating in this layer include Ascent, Emisar, and Zinc.)
+
+**Compact form for callouts:** *Rebate aggregator* = a PBM-affiliated (sometimes offshore) entity that collects manufacturer rebates before they reach the PBM's pass-through to the plan, often outside the plan's contractual visibility.
+
+**Used in:** (public glossary; included for future toolkit use)
+
+---
+
 ## Fiduciary
 
 **Definition:** Under ERISA, a plan sponsor that exercises discretionary authority or control over plan management is a fiduciary and is held to a "prudent expert" standard. Pharmacy-benefit decisions (PBM selection, contract negotiation, ongoing oversight) are fiduciary acts. Documentation of process — what was reviewed, who was consulted, what was decided and why — is the protection against fiduciary breach claims.

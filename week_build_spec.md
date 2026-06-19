@@ -86,7 +86,9 @@ Check `wendell_potter_cascade_alignment.md`, `wendell_potter_contributorship_str
 - [ ] Every paste-ready block (feed copy, first comments, X PART 4B bodies, publish post copy, Notes, reshares) wrapped in a fenced code block.
 - [ ] X PART 4B present: one chronological per-day stream (5/weekday, 7/weekend); no within-week duplicate post bodies; LinkedIn-first rule respected (no same-week LinkedIn material in pre-publish X slots).
 - [ ] First-comment Substack cross-promo present on posts in a Substack-companion week.
-- [ ] No em-dash sentence separators; no fabricated statistics; PBS not RXBS; CEO = Ginny Crisp, PharmD.
+- [ ] **AEO/crawlability gate (Substack pieces — added Jun 19, 2026):** each deep dive + field note (a) has a **question-shaped SEO title** matching the buyer query (set separately from the confrontational display title), (b) **opens with one self-contained, quotable answer sentence** (no buried lede), (c) **links outbound to the rxbs.org canonical/money page** for the topic (glossary, contract-language-library, the toolkit landing page, or the relevant pillar guide). Rationale: Substack is the crawlable AI-citation surface; LinkedIn is not. See `website_mockups/site/geo_seo_plan.md`.
+- [ ] **Entity-naming:** public copy spells out **"Prescription Benefit Solutions"** and uses **www.rxbs.org**; "PBS" is internal shorthand only (collides with Public Broadcasting Service for LLMs).
+- [ ] No em-dash sentence separators; no fabricated statistics; CEO = Ginny Crisp, PharmD.
 
 ## 9. Final
 - [ ] HTML/PDF/PNG (if any) committed together; week file committed; pushed; merged to main.

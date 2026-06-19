@@ -7,10 +7,27 @@ _Created Jun 9, 2026. The optimization layer for the locked `site/` templates. C
 - **LLM-referred visitors convert far higher than classic organic:** ~15.9% (ChatGPT), ~10.5% (Perplexity), ~5% (Claude) vs. ~1.8% typical organic. Low volume, high intent.
 - GEO is **additive** to SEO. Strong traditional SEO is the prerequisite; GEO adds citation-friendliness, structured data, and entity authority on top.
 
-## PBS's built-in advantages (lean into these)
-1. **Freshness engine.** ~50% of AI-cited content is <13 weeks old; PBS publishes 3 Substack + 4 LinkedIn pieces/week. Keep publishing; cross-link new content to the money pages.
+## Built-in advantages (lean into these)
+1. **Freshness engine.** ~50% of AI-cited content is <13 weeks old; Prescription Benefit Solutions publishes 3 Substack + 4 LinkedIn pieces/week. Keep publishing; cross-link new content to the money pages. **Caveat (added Jun 19, 2026): LinkedIn is login-walled and largely uncrawlable by AI engines, so LinkedIn output builds the person-entity and reach, NOT citations. The crawlable freshness lives on Substack and now on the owned rxbs.org canonical pages.**
 2. **Answer-shaped content.** The decoder format, the Contract Language Library, and `_glossary_terms.md` are definitional Q&A, the exact shape AI engines lift.
 3. **Entity authority.** Ginny Crisp, PharmD, featured alongside Wendell Potter / Derms on Drugs, is a real citable expert entity.
+
+---
+
+## Decisions locked + status (Jun 19, 2026 — leadership-bar revision)
+
+Two strategic audits (website + social) were run against a **"be the cited authority," not just "be present"** bar. Decisions locked by Ginny:
+
+- **Entity-naming: spell out "Prescription Benefit Solutions" and use "www.rxbs.org" in all public content. "PBS" is internal shorthand only.** Rationale: the abbreviation "PBS" collides with Public Broadcasting Service and dilutes entity disambiguation for LLMs. The `alternateName: "PBS"` was REMOVED from the Organization schema; all visible site/llms.txt copy spells the name out. Carry this into every new page, Substack post, and schema block.
+- **Wix is the canonical domain.** Evergreen answer content is MIRRORED onto rxbs.org as the canonical (self-canonical) source, with Substack as the crawlable distribution twin that links back. Substack stays on substack.com (no custom-domain move).
+- **The core fix (both audits converge here):** the content engine already produces category-leading answer-shaped material, but its citable evergreen form must live on the OWNED domain. Owned canonical pages built this session as Wix-ready blueprints in `site/`:
+  - `glossary.html` → `/glossary` (DefinedTermSet schema, 22 terms incl. rebate aggregator)
+  - `contract-language-library.html` → `/contract-language-library` (canonical twin of the Substack Library; Article + DefinedTermSet schema, 15 provisions)
+  - `what-we-are-seeing.html` → `/what-we-are-seeing` (original-research/data page; real 2025 figures: $78.7M contracted, 203 clients, ~$469K/PBR; Article schema)
+  - Homepage stats band filled with real 2025 figures.
+- **Companion scoreboard created:** `ai_visibility_tracker.md` (monthly citation audit across ChatGPT/Perplexity/Gemini/Google AIO/Claude). This is how "leadership" is measured.
+
+Still queued (approved, not yet built): pillar guides (`/guides/pbm-contract-audit`, `what-is-spread-pricing`), consideration/comparison pages, `CreativeWork` schema on toolkit dynamic page, Wikidata entities, Substack Recommendations outreach, off-site/community seeding. See the build order at the bottom.
 
 ---
 
@@ -133,14 +150,30 @@ Every week's Substack deep dive + Field Note + roundup is fresh, answer-shaped, 
 - Watch referral traffic from `chat.openai.com` / `chatgpt.com`, `perplexity.ai`, `gemini.google.com` in analytics — that's GEO working.
 - Periodically prompt ChatGPT/Perplexity/Claude with buyer questions ("best way to audit a PBM contract," "independent PBM audit firm") and see whether PBS is cited. That's the real scoreboard.
 
-## Build order (highest leverage first)
-1. robots.txt (allow AI bots) + confirm sitemap in Search Console. *(file shipped)*
-2. Organization + Person structured data sitewide. *(blocks ready; live example in index.html)*
-3. FAQ sections + FAQPage schema on Home/Solutions/toolkit. *(seeded on index.html)*
-4. CreativeWork schema on toolkit dynamic page (bound to CMS).
-5. Answer-first rewrite of money-page openings.
-6. Public `/glossary` page from `_glossary_terms.md`.
-7. llms.txt + entity-authority housekeeping (Knowledge Panel, directories).
+## The social engine as a citation supply line (added Jun 19, 2026)
+The weekly content machine IS the citation supply, but only where engines can read it. Optimize per surface:
+- **Substack = the real AI-citation surface.** (a) Set a **question-shaped SEO title** (separate from the confrontational display title) matching the buyer query; (b) open every deep dive / field note with **one self-contained, quotable answer sentence**; (c) **link outbound to the rxbs.org canonical/money page** for the topic; (d) keep publishing the original-data posts (What We're Seeing) as citation bait.
+- **rxbs.org = the canonical owner.** Mirror evergreen Substack pillars here (Library, glossary, quarterly data) as the self-canonical source.
+- **LinkedIn = entity + reach, NOT citations** (login-walled). Finish the Ginny-Crisp profile entity; keep NAP consistent. Do not count LinkedIn volume as "freshness for AI."
+- **X = amplification + minor citation** (Grok/Google). Keep decoder threads standalone-readable.
+- **Substack growth lever (under-used):** the **Recommendations network** (get Benefit Blind Spots recommended by Wendell Potter's publication + aligned newsletters) is the biggest Substack-native growth path. Fold into the next Potter touch.
+
+These are enforced going forward by the AEO gate in `week_build_spec.md` §8 and `/critique`.
+
+## Build order (highest leverage first — revised Jun 19, 2026)
+1. robots.txt (allow AI bots) + confirm sitemap in **Search Console + Bing Webmaster Tools**. *(file shipped; submission = Ginny action)*
+2. Organization + Person structured data sitewide; **fill the `sameAs` LinkedIn URLs** (still placeholder). *(blocks live in index.html)*
+3. Homepage **stats band filled** with real 2025 figures. *(done — index.html)*
+4. **`/glossary`** (DefinedTermSet). *(blueprint built — glossary.html)*
+5. **`/contract-language-library`** canonical twin. *(blueprint built)*
+6. **`/what-we-are-seeing`** data/original-research page. *(blueprint built)*
+7. **AEO gate** in build spec + `/critique`; Substack SEO-title + answer-sentence + outbound-link rules. *(done)*
+8. **Pillar guides** (`/guides/pbm-contract-audit`, `what-is-spread-pricing`) — Article + Person self-canonical. *(queued)*
+9. **Consideration/comparison pages** (how-to-choose, audit-vs-broker). *(queued)*
+10. CreativeWork schema on toolkit dynamic page (bound to CMS). *(queued)*
+11. **AI Visibility Tracker** baseline run (`ai_visibility_tracker.md`). *(scaffold built; run = Ginny/monthly)*
+12. Entity authority: **Wikidata** (Prescription Benefit Solutions + Ginny Crisp), Knowledge Panel, directories, off-site/community seeding, Substack Recommendations. *(queued)*
+13. llms.txt housekeeping (kept low-priority per the honest caveat above).
 
 ---
 
