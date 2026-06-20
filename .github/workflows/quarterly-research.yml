@@ -56,7 +56,7 @@ jobs:
       - name: Notify rolling issue
         if: always()
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
           bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
           **Quarterly Landscape Research** · ${{ steps.vars.outputs.date_iso }}

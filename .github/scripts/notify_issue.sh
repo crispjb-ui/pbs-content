@@ -1,8 +1,20 @@
 #!/usr/bin/env bash
 # Append a scheduled-run summary as a comment on ONE rolling GitHub issue, so the
-# 5 existing + new workflows surface to Ginny as a single notification thread
-# instead of silent commits. Requires `issues: write` in the calling workflow and
-# `gh` (preinstalled on GitHub Actions runners; GITHUB_TOKEN provided via env).
+# workflows surface to Ginny as a single notification thread instead of silent
+# commits. Requires `issues: write` in the calling workflow and `gh` (preinstalled
+# on GitHub Actions runners).
+#
+# EMAIL DELIVERY:  GitHub deliberately SUPPRESSES notifications for any activity
+# authored by github-actions[bot] via the built-in GITHUB_TOKEN (loop-prevention).
+# So with GITHUB_TOKEN, the @mention/assignment/comment below post fine but NEVER
+# email you. To actually receive email, the calling workflow passes a Personal
+# Access Token as GH_TOKEN:  `${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}`.
+# When NOTIFY_PAT is set, comments are authored by a REAL user and the assignment
+# + @mention DO email/notify. Until NOTIFY_PAT is added, this falls back to the
+# bot (posts, but silent). One-time setup: create a PAT with `repo` (or
+# fine-grained: Issues read/write on crispjb-ui/pbs-content) and save it as the
+# repo secret NOTIFY_PAT.
+#
 # Usage:  bash .github/scripts/notify_issue.sh "<markdown body>"
 # Never fails the workflow (best-effort notification).
 set -uo pipefail
@@ -17,9 +29,10 @@ if [ -z "${num:-}" ] || [ "$num" = "null" ]; then
   num=$(printf '%s' "$url" | grep -oE '[0-9]+$' || true)
 fi
 if [ -n "${num:-}" ]; then
-  # Backstop: (re)assign Ginny every run so she stays subscribed to the thread.
-  # NOTE: notifications from the github-actions bot are unreliable; the durable
-  # guarantee is Ginny clicking "Subscribe" on the issue once. This assign is best-effort.
+  # (Re)assign Ginny every run. When GH_TOKEN is a real-user PAT (NOTIFY_PAT),
+  # this assignment + the @mention in the comment DO trigger email/push. When it
+  # is the github-actions bot, assignment by the bot does not stick / does not
+  # notify (the documented suppression). Best-effort either way.
   gh issue edit "$num" --add-assignee crispjb >/dev/null 2>&1 || true
   gh issue comment "$num" --body "$(printf '%s\n\n%s' "$NOTIFY" "$BODY")" >/dev/null 2>&1 || true
   echo "notified issue #$num"

@@ -170,7 +170,7 @@ jobs:
       - name: Notify rolling issue
         if: always() && steps.guard.outputs.should_run == 'true'
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
           bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
           **Weekly Pharmacy Benefits Roundup** · ${{ steps.vars.outputs.date_iso }}

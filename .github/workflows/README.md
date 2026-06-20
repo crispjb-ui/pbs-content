@@ -3,7 +3,9 @@
 _What runs unattended in this repo, when, and how it reaches you. Set up Jun 20, 2026. All scheduled jobs use `anthropics/claude-code-action@v1` with the `ANTHROPIC_API_KEY` repo secret (the reminder-only jobs use no API)._
 
 ## How runs reach you (notifications)
-Scheduled jobs run outside any live Claude session, so they can't ping the app directly. Instead every workflow posts to **one rolling GitHub Issue titled "🔔 PBS automation log"** via `.github/scripts/notify_issue.sh`, which gives you a single GitHub-notification thread. **Each comment @mentions `@crispjb` and the issue is assigned to `@crispjb`**, so GitHub emails/pushes you on every run (the same delivery channel as your failed-Action emails) without needing to watch the repo. Each run is one comment (newest at the bottom); check items off as you action them. Workflows still commit their output to `main` as before, the issue just makes the run visible instead of silent.
+Scheduled jobs run outside any live Claude session, so they can't ping the app directly. Instead every workflow posts to **one rolling GitHub Issue titled "🔔 PBS automation log"** via `.github/scripts/notify_issue.sh`, which gives you a single GitHub-notification thread. Each comment @mentions `@crispjb` and the issue is assigned to `@crispjb`; each run is one comment (newest at the bottom). Workflows still commit their output to `main` as before, the issue just makes the run visible instead of silent.
+
+**To actually get the email, you must add the `NOTIFY_PAT` secret (one-time).** GitHub deliberately suppresses email/push notifications for anything authored by the built-in `github-actions[bot]` (the `GITHUB_TOKEN`) — this is loop-prevention, and it's why subscribing to the issue still produced no email. The notify step now uses `${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}`: when `NOTIFY_PAT` (a Personal Access Token) is set, the comment + assignment are authored by a **real user** and GitHub emails you exactly like your failed-Action emails. Until you add it, the comments still post but stay silent (bot fallback). **Setup:** GitHub → Settings → Developer settings → Personal access tokens → either a classic token with the `repo` scope, or a fine-grained token scoped to `crispjb-ui/pbs-content` with **Issues: Read and write** → copy it → repo **Settings → Secrets and variables → Actions → New repository secret**, name `NOTIFY_PAT`, paste the token. No code changes needed after that; the next scheduled run (or a manual `workflow_dispatch`) will email you.
 
 **First-comments is NOT a GitHub workflow.** The daily first-comments reminder runs as a **scheduled Claude Code web session** (Triggers, set up in the web app) invoking `/first-comments-today`, which delivers the checklist as a Claude-app session (phone push) each morning. It lives outside this repo; the repo only supplies the `/first-comments-today` command it runs.
 
@@ -34,6 +36,7 @@ Legend: ✅ fully unattended · 🟨 loop preps/drafts, you finish · 🚫 human
 
 ## Prerequisites (one-time, GitHub side)
 - `ANTHROPIC_API_KEY` repo secret (already used by the existing workflows).
+- `NOTIFY_PAT` repo secret (Personal Access Token) so notifier comments are authored by a real user and actually email you. Without it, runs post silently to the rolling issue. See "How runs reach you" above for the exact token scopes.
 - Actions enabled with **read/write** permissions, and **"Allow GitHub Actions to create and approve pull requests / issues"** so `notify_issue.sh` can open the rolling issue.
 - The research/roundup/page jobs need the runner's outbound web access (same dependency the roundup already relies on).
 

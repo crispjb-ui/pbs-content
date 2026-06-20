@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Notify rolling issue
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
           body=$(printf "**Monthly AI-visibility check** · %s\nRun the 20-prompt set in ai_visibility_tracker.md across ChatGPT, Perplexity, Google AI Overviews, Gemini, and Claude; log cited Y/N + competitors + source URL. This is the true citation read (the automated proxy cannot log into those engines)." "$(date -u +%F)")
           bash .github/scripts/notify_issue.sh "$body"

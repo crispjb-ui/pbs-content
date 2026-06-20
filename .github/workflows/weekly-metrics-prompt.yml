@@ -20,7 +20,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Notify rolling issue
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
           body=$(printf "**Weekly metrics reminder** · %s\nPaste this week's LinkedIn + Substack numbers into /log-metrics so the working/weak learnings recompute for next week's builds. (Dashboards are not API-readable, so this step is manual.)" "$(date -u +%F)")
           bash .github/scripts/notify_issue.sh "$body"
