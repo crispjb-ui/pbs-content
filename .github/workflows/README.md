@@ -5,6 +5,8 @@ _What runs unattended in this repo, when, and how it reaches you. Set up Jun 20,
 ## How runs reach you (notifications)
 Scheduled jobs run outside any live Claude session, so they can't ping the app directly. Instead every workflow posts to **one rolling GitHub Issue titled "🔔 PBS automation log"** via `.github/scripts/notify_issue.sh`, which gives you a single GitHub-notification thread. **Each comment @mentions `@crispjb` and the issue is assigned to `@crispjb`**, so GitHub emails/pushes you on every run (the same delivery channel as your failed-Action emails) without needing to watch the repo. Each run is one comment (newest at the bottom); check items off as you action them. Workflows still commit their output to `main` as before, the issue just makes the run visible instead of silent.
 
+**First-comments is NOT a GitHub workflow.** The daily first-comments reminder runs as a **scheduled Claude Code web session** (Triggers, set up in the web app) invoking `/first-comments-today`, which delivers the checklist as a Claude-app session (phone push) each morning. It lives outside this repo; the repo only supplies the `/first-comments-today` command it runs.
+
 ## The guardrail (what stays human)
 Every content-producing job ends at **drafted + critiqued + committed to `main` as a draft** and notifies you. **Nothing auto-publishes** (LinkedIn / X / Substack / the Wix build) and **nothing does outreach** (Potter, Wikidata, listicles). You review and ship. Auto-drafts land on `main` flagged as drafts (matches the existing pipeline/roundup behavior).
 
@@ -17,7 +19,6 @@ Every content-producing job ends at **drafted + critiqued + committed to `main` 
 | **weekly-roundup** | Tue 7:30a | content ✅→draft | RSS + web search → "What Crossed My Desk" roundup draft | roundups/ draft |
 | **weekly-critique** | Sun ~9a | gate ✅ | `/critique` the next week to ship; advisory flags | critique_reports/ |
 | **weekly-monday-brief** | Mon ~7a | surface ✅ | pipeline-health + next-4-week ⚠ + toolkits due | issue comment |
-| **daily-first-comments** | weekdays ~7:30a | routine ✅ (NO notification) | `/first-comments-today` → today's manual posts/reshares | `first_comments_today.md` + Actions run summary |
 | **weekly-metrics-prompt** | Fri ~5p | reminder 🟨 | nudge to paste the week's numbers into `/log-metrics` (dashboards aren't API-readable) | issue comment |
 | **monthly-aeo-page** | 8th ~9a | content 🟨→draft | `/build-aeo-page` — drafts the next owned answer page from the Phase-0 template + `/critique` | site/ draft |
 | **monthly-substack-backfill** | 22nd ~9a | content 🟨→draft | `/backfill-substack-aeo` — migrates one older week (W06-W25) to the Substack AEO rule | week_*.md draft |

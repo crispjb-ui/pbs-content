@@ -720,7 +720,7 @@ When test-recipient Gmail addresses have personal filters routing Substack-menti
 - **AI-citation scoreboard:** ai_visibility_tracker.md
 - **Off-site entity authority:** entity_authority_offsite_plan.md
 - **Site blueprints + design system:** website_mockups/site/ (`site.css`, `geo_seo_plan.md`, `wix_pages_build_runbook.md`)
-- **Automation system (scheduled workflows + quality gates):** `.github/workflows/README.md` (12 workflows: weekly pipeline/roundup/critique/monday-brief, daily first-comments (runs to a committed file, NO notification per Ginny), monthly system-audit/AEO-page/Substack-backfill/citation-reminder, weekly metrics-reminder, quarterly research, push-time brand-lint; run-notifications post to one rolling GitHub issue that @mentions + is assigned to `@crispjb`). Brand/schema linter: `tools/brand_lint.py` (also a Stop hook). Content loops draft to `main` for review; nothing auto-publishes.
+- **Automation system (scheduled workflows + quality gates):** `.github/workflows/README.md` (11 workflows: weekly pipeline/roundup/critique/monday-brief, monthly system-audit/AEO-page/Substack-backfill/citation-reminder, weekly metrics-reminder, quarterly research, push-time brand-lint; run-notifications post to one rolling GitHub issue that @mentions + is assigned to `@crispjb`). The **daily first-comments reminder runs as a scheduled Claude Code web session** (Triggers, configured in the web app, outside the repo) invoking `/first-comments-today` and delivering to the Claude app, NOT a GitHub workflow. Brand/schema linter: `tools/brand_lint.py` (also a Stop hook). Content loops draft to `main` for review; nothing auto-publishes.
 
 ## Website AEO/GEO Build Status (added Jun 20, 2026)
 
