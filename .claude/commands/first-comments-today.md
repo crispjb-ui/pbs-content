@@ -54,6 +54,13 @@ Any first comment containing a placeholder like `[SUBSTACK ... link]`, `[Monday 
   `rxbs.org/toolkit/...` landing page**, until the toolkit funnel cleanup is done. If a lifted first comment
   points at a toolkit landing page, flag it and suggest the Substack equivalent.
 
+## Step 4b — Surface the first-comment-timing A/B variant (active experiment)
+
+If a LinkedIn post's `#### First Comment` block carries an A/B variant tag (`[A/B TEST — Variant A …]` / `[A/B TEST — Variant B …]`), surface the timing instruction with that item:
+- **Variant A (CONTROL):** post the first comment with the link **immediately at publish** (current behavior).
+- **Variant B (TREATMENT):** publish the post **without** the link, then add the link comment **~15 minutes later**, after the first-hour engagement window has begun ranking the post.
+This is the active first-comment-link-timing experiment (`linkedin_performance_tracker.md` → "First-comment link timing"); it runs until the log fills (~12 posts). If a post has no tag, treat it as Variant A (immediate). When logging weekly via `/log-metrics`, record each post's variant + its 48h impressions.
+
 ## Step 5 — Output (this is what Ginny sees)
 
 Lead with a one-line summary. Then a **time-ordered checklist**, each item paste-ready. Keep it tight.
