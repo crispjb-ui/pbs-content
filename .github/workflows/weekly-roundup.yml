@@ -12,6 +12,7 @@ on:
 permissions:
   contents: write
   id-token: write
+  issues: write
 
 jobs:
   generate-roundup:
@@ -165,3 +166,14 @@ jobs:
           fi
           git commit -m "Weekly roundup draft: ${{ steps.vars.outputs.date_iso }} (review pending)"
           git push origin HEAD:main
+
+      - name: Notify rolling issue
+        if: always() && steps.guard.outputs.should_run == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          **Weekly Pharmacy Benefits Roundup** · ${{ steps.vars.outputs.date_iso }}
+          Wednesday roundup draft generated in newsletters/roundups/ — review before publish.
+          EOF
+          )"

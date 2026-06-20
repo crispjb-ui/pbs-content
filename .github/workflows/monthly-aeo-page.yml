@@ -1,0 +1,70 @@
+name: Monthly AEO Page
+
+# Drafts the next owned answer page on rxbs.org once a month. Runs /build-aeo-page,
+# which builds exactly ONE new /guides/<topic> HTML blueprint in website_mockups/site/
+# to the Phase-0 CONTENT/ANSWER template, lints it, critiques it, and updates the
+# cluster-map plan + OPEN_ITEMS. The new page is a DRAFT committed to main for review.
+
+on:
+  schedule:
+    - cron: '0 13 8 * *'   # 8th of each month, ~13:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+  issues: write
+
+jobs:
+  build-aeo-page:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Compute run date
+        id: vars
+        run: echo "date_iso=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Build the next AEO page with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash"
+          prompt: |
+            Read CLAUDE.md first. Then run the /build-aeo-page slash command
+            (.claude/commands/build-aeo-page.md) in full. Build exactly ONE new
+            answer page this run. Do not commit; the next step commits.
+
+      - name: Commit and push (draft, review pending)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git add website_mockups/site/ website_aeo_master_plan.md OPEN_ITEMS.md
+          if git diff --staged --quiet; then
+            echo "No new AEO page produced this run."
+            exit 0
+          fi
+          git commit -m "Monthly AEO page draft: ${{ steps.vars.outputs.date_iso }}"
+          git push origin HEAD:main
+
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          **Monthly AEO page** · ${{ steps.vars.outputs.date_iso }}
+          Drafted the next owned answer page (review pending on main). Critique flags in the commit.
+          EOF
+          )"

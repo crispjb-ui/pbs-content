@@ -14,6 +14,7 @@ on:
 permissions:
   contents: write
   id-token: write
+  issues: write
 
 jobs:
   quarterly-research:
@@ -52,3 +53,13 @@ jobs:
           if git diff --staged --quiet; then echo "No quarterly research output."; exit 0; fi
           git commit -m "Quarterly landscape research + safe content updates: ${{ steps.vars.outputs.date_iso }}"
           git push origin HEAD:main
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          **Quarterly Landscape Research** · ${{ steps.vars.outputs.date_iso }}
+          Quarterly landscape research committed: shocking-fact/X-recipe bank updates applied; new-topic + Potter proposals added to OPEN_ITEMS for review.
+          EOF
+          )"

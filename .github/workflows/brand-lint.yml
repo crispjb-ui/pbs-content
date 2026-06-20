@@ -1,0 +1,36 @@
+name: Brand + Schema Lint
+
+# Deterministic enforcement of the CLAUDE.md brand/schema rules that were
+# previously hand-checked. Runs on every push + PR. HARD checks (site web
+# surface: em-dash, bare "PBS", "RXBS", invalid JSON-LD, missing title) fail
+# the build; the toolkit 2-page gate runs the authoritative _audit_pdfs.py.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+      - name: Brand + schema lint (public web surface)
+        run: python3 tools/brand_lint.py
+      - name: Toolkit 2-page PDF audit (authoritative gate)
+        run: |
+          pip install --quiet pymupdf
+          cd templates/documents
+          out=$(python3 _audit_pdfs.py)
+          echo "$out"
+          if ! echo "$out" | grep -qE "files, 0 flagged"; then
+            echo "::error::Toolkit PDF audit flagged one or more files (see output above)."
+            exit 1
+          fi

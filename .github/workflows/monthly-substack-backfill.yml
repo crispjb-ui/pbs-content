@@ -1,0 +1,71 @@
+name: Monthly Substack AEO Backfill
+
+# Backfills one older newsletter week (W06-W25) to the Substack AEO rules each month.
+# Runs /backfill-substack-aeo, which brings the deep dive (PART 1) and field note
+# (PART 1B) of the lowest-numbered un-backfilled week up to substack_aeo_rules.md
+# (SEO title, answer-first lead, outbound rxbs.org canonical link). DRAFT committed
+# to main for review.
+
+on:
+  schedule:
+    - cron: '0 13 22 * *'   # 22nd of each month, ~13:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+  issues: write
+
+jobs:
+  backfill-substack-aeo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Compute run date
+        id: vars
+        run: echo "date_iso=$(date -u +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Backfill one week with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Edit,Glob,Grep,Bash"
+          prompt: |
+            Read CLAUDE.md first. Run /backfill-substack-aeo
+            (.claude/commands/backfill-substack-aeo.md) for exactly ONE week this
+            run. Do not commit; next step commits.
+
+      - name: Commit and push (draft, review pending)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git add newsletters/
+          if git diff --staged --quiet; then
+            echo "No week backfilled this run."
+            exit 0
+          fi
+          git commit -m "Monthly Substack AEO backfill: ${{ steps.vars.outputs.date_iso }}"
+          git push origin HEAD:main
+
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          **Substack AEO backfill** · ${{ steps.vars.outputs.date_iso }}
+          Backfilled one older week (W06-W25) to the Substack AEO rule (review pending).
+          EOF
+          )"

@@ -14,6 +14,7 @@ on:
 permissions:
   contents: write
   id-token: write
+  issues: write
 
 jobs:
   build-pipeline:
@@ -70,3 +71,14 @@ jobs:
           git push origin HEAD:main
           echo "New/changed files this run:"
           comm -13 /tmp/before_weeks.txt <(ls newsletters/week_*.md | sort) || true
+
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          **Weekly Content Pipeline Build** · ${{ steps.vars.outputs.date_iso }}
+          Weekly content pipeline build ran. New/changed week files committed as DRAFTS for review (see latest commit). Run /pipeline-health for status.
+          EOF
+          )"

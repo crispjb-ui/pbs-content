@@ -1,0 +1,26 @@
+name: Weekly Metrics Prompt
+
+# Friday reminder to paste this week's LinkedIn + Substack numbers into /log-metrics
+# so the working/weak learnings recompute for next week's builds. No Claude; pure
+# reminder posted to the rolling notifier issue.
+
+on:
+  schedule:
+    - cron: '0 21 * * 5'   # Fridays ~21:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  metrics-reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Notify rolling issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          body=$(printf "**Weekly metrics reminder** · %s\nPaste this week's LinkedIn + Substack numbers into /log-metrics so the working/weak learnings recompute for next week's builds. (Dashboards are not API-readable, so this step is manual.)" "$(date -u +%F)")
+          bash .github/scripts/notify_issue.sh "$body"

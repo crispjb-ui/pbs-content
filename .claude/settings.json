@@ -7,6 +7,13 @@
           { "type": "command", "command": "bash .claude/hooks/session_digest_check.sh" }
         ]
       }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          { "type": "command", "command": "bash .claude/hooks/brand_lint_check.sh" }
+        ]
+      }
     ]
   }
 }

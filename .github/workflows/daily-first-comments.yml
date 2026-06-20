@@ -1,0 +1,40 @@
+name: Daily First Comments
+
+# Each weekday morning, runs /first-comments-today and posts the day's LinkedIn + X
+# first comments and company reshares to the rolling notifier issue, so they can be
+# posted manually after each post publishes. Advisory only; commits nothing.
+
+on:
+  schedule:
+    - cron: '30 11 * * 1-5'   # Weekdays ~11:30 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  first-comments:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Gather today's first comments and reshares
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Glob,Grep,Bash"
+          prompt: |
+            Read CLAUDE.md. Run the /first-comments-today slash command
+            (.claude/commands/first-comments-today.md) and write its output
+            (today's LinkedIn + X first comments and company reshares to post
+            manually after each post publishes) to /tmp/notify_body.md. If there
+            is nothing to post today, write 'No manual first-comments/reshares
+            scheduled today.' Do not commit.
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat /tmp/notify_body.md 2>/dev/null || echo 'First comments: first-comments-today run, see Actions log.')"

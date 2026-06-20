@@ -1,0 +1,41 @@
+name: Weekly Monday Brief
+
+# Runs /pipeline-health every Monday and posts a concise operational brief to the
+# rolling notifier issue: weeks built ahead, open ⚠ items, toolkits due, and this
+# week's manual first-comments/reshares. Advisory only; commits nothing.
+
+on:
+  schedule:
+    - cron: '0 11 * * 1'   # Mondays ~11:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  monday-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build the Monday brief
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Glob,Grep,Bash"
+          prompt: |
+            Read CLAUDE.md and OPEN_ITEMS.md. Run the /pipeline-health slash
+            command (.claude/commands/pipeline-health.md). Then write a concise
+            Monday brief to /tmp/notify_body.md containing: (a) how many weeks are
+            built ahead + the next week needing a build, (b) any ⚠ open items in
+            the next 4 weeks, (c) toolkits due to build, (d) this week's manual
+            first-comments/reshares to post (from /first-comments-today if useful).
+            Keep it under ~25 lines. Do not commit anything.
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat /tmp/notify_body.md 2>/dev/null || echo 'Monday brief: pipeline-health run, see Actions log.')"

@@ -1,0 +1,26 @@
+name: Monthly Citation Check Reminder
+
+# First-of-month reminder to run the 20-prompt AI-visibility set across the major
+# answer engines and log the true citation read. No Claude; pure reminder posted to
+# the rolling notifier issue (the automated proxy cannot log into those engines).
+
+on:
+  schedule:
+    - cron: '0 15 1 * *'   # 1st of month ~15:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  citation-reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Notify rolling issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          body=$(printf "**Monthly AI-visibility check** · %s\nRun the 20-prompt set in ai_visibility_tracker.md across ChatGPT, Perplexity, Google AI Overviews, Gemini, and Claude; log cited Y/N + competitors + source URL. This is the true citation read (the automated proxy cannot log into those engines)." "$(date -u +%F)")
+          bash .github/scripts/notify_issue.sh "$body"

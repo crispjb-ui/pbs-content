@@ -12,6 +12,7 @@ on:
 permissions:
   contents: write
   id-token: write
+  issues: write
 
 jobs:
   critique:
@@ -52,3 +53,13 @@ jobs:
           if git diff --staged --quiet; then echo "No critique report produced."; exit 0; fi
           git commit -m "Weekly critique report: ${{ steps.vars.outputs.date_iso }}"
           git push origin HEAD:main
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          **Weekly Pre-Ship Critique** · ${{ steps.vars.outputs.date_iso }}
+          Pre-ship critique committed to critique_reports/critique_${{ steps.vars.outputs.date_iso }}.md — review flags before scheduling the week.
+          EOF
+          )"
