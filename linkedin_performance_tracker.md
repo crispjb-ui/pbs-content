@@ -19,6 +19,16 @@
 |------|------|---------|-----------------|-------|----------|--------------------|
 | _(fill weekly via /log-metrics)_ | | | | | | |
 
+## Active Experiment — X long-form vs thread (started Jun 20, 2026)
+**Why:** `/platform-research` found single long-form X posts now out-distribute threads (dwell-weighted, 2026). Unproven for PBS (whose X winner is the short named-adversary recipe), so test before scaling.
+**Design:** include **1 long-form single X post/week** (midday/PM slot, the week's decoder/explainer angle, link in first reply), swapping one thread. Built into W27–W30 PART 4B. Compare to PBS's thread/short-post baseline.
+**Primary metric:** impressions + dwell (and any amplification) on the long-form vs the week's threads/short posts. **Decision (after ~4 weeks):** beats baseline → scale to 2/week (then 3 only if it keeps winning) and lock into the PART 4B convention; no lift → revert to threads.
+**Log:**
+
+| Week | Long-form post (topic) | Impressions | Reposts/quotes | vs thread baseline |
+|------|------------------------|-------------|----------------|--------------------|
+| _(fill weekly via /log-metrics)_ | | | | |
+
 ---
 
 ## All-Time Post Performance (Jan 6 - Apr 3, 2026)
