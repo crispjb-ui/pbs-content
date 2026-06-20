@@ -5,6 +5,22 @@
 
 ---
 
+## Active Experiment — First-comment link timing (started Jun 20, 2026)
+**Why:** `/platform-research` surfaced a directional 2026 finding that LinkedIn may suppress a host post when an external link sits in the first comment ("bridge behavior"). Measured data is the house rule, so PBS settles it with its own A/B before any rule edit.
+**Hypothesis:** delaying the link comment until after the first-engagement window lifts host-post reach without losing the conversion path.
+**Design (~3 weeks, ~12 feed posts), alternate by post chronologically:**
+- **Control (A):** link in the first comment immediately at publish (current behavior).
+- **Treatment (B):** publish with NO link; add the link as a comment ~15 minutes later (after the first-hour gate has begun ranking the post). Everything else identical. Alternate so each variant gets a mix of Tue/Thu/visual posts.
+**Primary metric:** host-post impressions at 48h (compare medians B vs A). **Secondary:** saves + comments + link clicks / Substack subs (confirm conversion is not lost).
+**Decision rule (after ~12 posts):** B median impressions ≥ ~20% higher AND conversion holds → adopt delayed-comment (encode in CLAUDE.md first-comment rule + Thursday Excellence (4) + `week_build_spec.md` §8). No meaningful difference → keep immediate first-comment (current). B hurts conversion → keep current.
+**Execution:** mark each day's posts A/B per the alternation in the morning first-comments routine; tag A/B + 48h impressions here when running `/log-metrics` weekly.
+
+| Date | Post | Variant | 48h impressions | Saves | Comments | Link clicks / subs |
+|------|------|---------|-----------------|-------|----------|--------------------|
+| _(fill weekly via /log-metrics)_ | | | | | | |
+
+---
+
 ## All-Time Post Performance (Jan 6 - Apr 3, 2026)
 
 ### Master Summary Table
