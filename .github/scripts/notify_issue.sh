@@ -17,6 +17,10 @@ if [ -z "${num:-}" ] || [ "$num" = "null" ]; then
   num=$(printf '%s' "$url" | grep -oE '[0-9]+$' || true)
 fi
 if [ -n "${num:-}" ]; then
+  # Backstop: (re)assign Ginny every run so she stays subscribed to the thread.
+  # NOTE: notifications from the github-actions bot are unreliable; the durable
+  # guarantee is Ginny clicking "Subscribe" on the issue once. This assign is best-effort.
+  gh issue edit "$num" --add-assignee crispjb >/dev/null 2>&1 || true
   gh issue comment "$num" --body "$(printf '%s\n\n%s' "$NOTIFY" "$BODY")" >/dev/null 2>&1 || true
   echo "notified issue #$num"
 else
