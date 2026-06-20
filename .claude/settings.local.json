@@ -42,7 +42,8 @@
       "Bash(date -u +%Y-%m-%dT%H:%M:%SZ)",
       "Bash(git add *)",
       "Bash(git commit -m 'Session digest 2026-06-12 *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "Bash(git commit *)"
     ]
   }
 }
