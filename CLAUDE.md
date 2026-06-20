@@ -708,6 +708,28 @@ When test-recipient Gmail addresses have personal filters routing Substack-menti
 - **Newsletter content:** newsletters/ directory
 - **Substack strategy:** substack_engagement_guide.md
 - **Podcast strategy:** podcast_pitching_guide.md
+- **Website AEO/GEO build (single source of truth):** website_aeo_master_plan.md
+- **Substack AEO rule (every article):** substack_aeo_rules.md
+- **AI-citation scoreboard:** ai_visibility_tracker.md
+- **Off-site entity authority:** entity_authority_offsite_plan.md
+- **Site blueprints + design system:** website_mockups/site/ (`site.css`, `geo_seo_plan.md`, `wix_pages_build_runbook.md`)
+
+## Website AEO/GEO Build Status (added Jun 20, 2026)
+
+A full AI-search (AEO/GEO) optimization pass ran on the rxbs.org website + the Substack content engine. **`website_aeo_master_plan.md` is the single source of truth** for the plan, the build-once template, and the priority order; this is a status pointer.
+
+**Strategy locked:** be the *cited* source in ChatGPT / Perplexity / Google AI Overviews / Gemini / Claude, then convert that high-intent traffic. Substack is the crawlable citation surface; LinkedIn is login-walled (entity + reach, not citations); **rxbs.org is the owned canonical** (evergreen content mirrored there, Substack links back). Naming + AEO rules are in Critical Rules above.
+
+**Built this session (Wix-ready blueprints in `website_mockups/site/`, not yet built in Wix):**
+- 7 new owned answer pages: `glossary`, `contract-language-library`, `what-we-are-seeing` (real 2025 data), + 4 guides (`guide-pbm-contract-audit`, `guide-what-is-spread-pricing`, `guide-how-to-choose-a-pbm-auditor`, `compare-pbm-audit-vs-broker-review`).
+- **Phase-0 template** built into all blueprints: shared `.byline` / `.lead-cta` / `.related` components in `site.css`; author byline + inline lead-magnet CTA + "Keep reading" cluster block on every content page; `HowTo` schema on the 3 how-to guides; `WebSite`+`SearchAction` + enriched `Organization` on Home; the **"How did you hear about us?" source field** on all forms. 31 JSON-LD blocks valid.
+- Two page archetypes defined (Content/Answer vs Utility/Conversion); live-page retrofit spec (Toolkit Library `CollectionPage`/`ItemList` + the 29 toolkit pages' source field via the Velo funnel) in the master plan.
+- **W25-W37 Substack articles rewritten** to `substack_aeo_rules.md` (question-shaped SEO titles, answer-first leads, outbound rxbs.org canonical links, firm name spelled out).
+
+**The single build runs in phases (per the master plan): Phase 0 = build the master template FIRST (everything derives from it) → 1 lock IA/URL map → 2 the 7 pages → 3 wire conversion → 4 content waves → 5 off-site + measurement.**
+
+**Open (Ginny/Wix actions):** build the pages in Wix per `wix_pages_build_runbook.md`; fill `sameAs` LinkedIn URLs; submit sitemap to Search Console + Bing; supply testimonials / 2 team bios / Ginny headshot; execute `entity_authority_offsite_plan.md` (Wikidata, Substack Recommendations, listicles); run the `ai_visibility_tracker.md` baseline. Full open-items list in OPEN_ITEMS.md.
+
 
 ## Tone Reference (Quick)
 
