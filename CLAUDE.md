@@ -714,7 +714,8 @@ When test-recipient Gmail addresses have personal filters routing Substack-menti
 - **Newsletter content:** newsletters/ directory
 - **Substack strategy:** substack_engagement_guide.md
 - **Podcast strategy:** podcast_pitching_guide.md
-- **Website AEO/GEO build (single source of truth):** website_aeo_master_plan.md
+- **AEO/GEO initiative tracker (status/owner across all workstreams):** aeo_geo_master_plan.md
+- **Website build spec (template, archetypes, IA, schema):** website_aeo_master_plan.md
 - **Substack AEO rule (every article):** substack_aeo_rules.md
 - **AI-citation scoreboard:** ai_visibility_tracker.md
 - **Off-site entity authority:** entity_authority_offsite_plan.md
@@ -722,7 +723,7 @@ When test-recipient Gmail addresses have personal filters routing Substack-menti
 
 ## Website AEO/GEO Build Status (added Jun 20, 2026)
 
-A full AI-search (AEO/GEO) optimization pass ran on the rxbs.org website + the Substack content engine. **`website_aeo_master_plan.md` is the single source of truth** for the plan, the build-once template, and the priority order; this is a status pointer.
+A full AI-search (AEO/GEO) optimization pass ran on the rxbs.org website + the Substack content engine. **`aeo_geo_master_plan.md` is the initiative tracker (status/owner/sequence across website, Substack, social, off-site, measurement); `website_aeo_master_plan.md` is the website build spec (the build-once template, two archetypes, IA, schema).** This is a status pointer.
 
 **Strategy locked:** be the *cited* source in ChatGPT / Perplexity / Google AI Overviews / Gemini / Claude, then convert that high-intent traffic. Substack is the crawlable citation surface; LinkedIn is login-walled (entity + reach, not citations); **rxbs.org is the owned canonical** (evergreen content mirrored there, Substack links back). Naming + AEO rules are in Critical Rules above.
 

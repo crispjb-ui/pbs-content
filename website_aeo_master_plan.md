@@ -1,6 +1,6 @@
-# rxbs.org AEO/GEO Master Plan (single source of truth)
+# rxbs.org AEO/GEO Master Plan (website build spec)
 
-_Created Jun 20, 2026. This is the ONE document for the website's AI-search build: the strategy, the architecture, the build-once template, the priority order, and the definition of done. Companions hold granular detail (named at the bottom); this file owns the plan and the sequence. Read top to bottom; build in the phase order given._
+_Created Jun 20, 2026. This is the **website build spec**: the architecture, the build-once master template (Phase 0), the two page archetypes, the IA/URL map, conversion routing, schema, and the content-cluster map. The **initiative-level tracker across all workstreams (website + Substack + social + off-site + measurement), with status/owner per item, is `aeo_geo_master_plan.md`** — start there for status and sequence; come here for the website build detail. Read top to bottom; build in the phase order given._
 
 ---
 

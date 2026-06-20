@@ -9,6 +9,7 @@ _Created Jun 20, 2026. The consolidated, sequenced checklist for the entire AEO/
 **Status legend:** ✅ done (in repo) · 🔨 build in Wix (blueprint ready) · 🟧 Ginny action (outside the repo) · 📋 queued (future content) · 🔁 ongoing/recurring
 
 **Detail docs (the how-to for each workstream):**
+- `website_aeo_master_plan.md` — the website build SPEC: the build-once master template (Phase 0, everything derives from it), the two page archetypes, the IA/URL map, component + schema specs, and the content-cluster map
 - `website_mockups/site/wix_pages_build_runbook.md` — step-by-step Wix build of the 7 pages
 - `website_mockups/site/geo_seo_plan.md` — site SEO/GEO strategy + build order
 - `substack_aeo_rules.md` — the every-article Substack rule
@@ -28,7 +29,7 @@ _Created Jun 20, 2026. The consolidated, sequenced checklist for the entire AEO/
 | Fill the two `sameAs` placeholders (Ginny + company **LinkedIn URLs**) in Org/Person schema | 🟧 | Ginny → Claude | index.html, about.html |
 
 ## PHASE 1 — Owned canonical answer pages (the moat) + site cohesion
-Build order + per-page steps: **`wix_pages_build_runbook.md`.** All blueprints are in `website_mockups/site/` with desktop+mobile previews in `site/renders/`.
+**Build the master page template FIRST (it derives every page): the template, the two page archetypes, and the IA/URL map are specified in `website_aeo_master_plan.md`.** Build order + per-page steps: **`wix_pages_build_runbook.md`.** All blueprints are in `website_mockups/site/` with desktop+mobile previews in `site/renders/`.
 | Page | Blueprint | Status | Build |
 |---|---|---|---|
 | 1. PBM Glossary (`/glossary`) | glossary.html | ✅ blueprint | 🔨 Wix |

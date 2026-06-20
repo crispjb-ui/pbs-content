@@ -1,6 +1,6 @@
 # SEO + AI-Search (GEO/AEO) Plan — rxbs.org
 
-> **Single source of truth for plan + priority = `website_aeo_master_plan.md`.** This file is the GEO/SEO strategy + structured-data detail it references.
+> **Initiative tracker = `aeo_geo_master_plan.md`; website build spec = `website_aeo_master_plan.md`.** This file is the GEO/SEO strategy + structured-data detail they reference.
 
 _Created Jun 9, 2026. The optimization layer for the locked `site/` templates. Covers classic SEO and Generative Engine Optimization (getting cited by ChatGPT, Perplexity, Google AI Overviews, Gemini, Claude). Grounded in current (2026) practice — see sources at bottom._
 
