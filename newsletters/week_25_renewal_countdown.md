@@ -992,6 +992,23 @@ When your PBM, your mail-order pharmacy, your specialty pharmacy, and your rebat
 ```
 "Audit rights" in most PBM contracts mean: once a year, the PBM's auditor, the PBM's selected records, the PBM decides if findings count. Renewal is your one moment to rewrite that into a real right. After you sign, the flashlight is whatever they handed you.
 ```
+- **[LONG-FORM X TRIAL — single long-form post; SWAPS one thread this week] · 12:30 PM · decoder/explainer (90-day renewal window):**
+```
+Your PBM started preparing for your renewal months ago. You haven't started.
+
+Here's the part the contract buries. It auto-renews unless you give written notice, often 90 to 180 days before the term ends. Miss that window and you are locked into another full term at rates you never reopened.
+
+We review hundreds of PBM contracts a year. The notice clause is almost always written for the PBM's calendar, not yours. The renewal clock starts running before most plan sponsors know there is a clock.
+
+So the 90-day window isn't where you negotiate. It's where you find out whether you still can.
+
+Count back from your effective date. Find your notice deadline. Put it on the calendar before your PBM does the counting for you.
+```
+  First reply (link):
+```
+The week-by-week plan for the 90 days that decide your renewal: https://benefitblindspots.substack.com/p/90-day-pbm-renewal-preparation-timeline
+```
+  _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 - **5:00 PM · stat-shock / structural:**
 ```
 The big three PBMs extract more in quiet spread and fees than they ever lose to the denial headlines everyone argues about. The outrage goes to the denials. The money lives in the contract language. Plan sponsors keep watching the wrong hand.

@@ -957,6 +957,23 @@ Your PBM keeps a slice of every manufacturer rebate and calls the rest "pass-thr
 ```
 "Rebate" and "discount" are not the same word, and the difference is where your money goes. A discount lowers what your plan pays at the counter. A rebate is paid later, to the PBM, and only partly to you. PBMs prefer rebates for a reason: they sit in the middle of them.
 ```
+- **[LONG-FORM X TRIAL — single long-form post; SWAPS one thread this week] · 12:30 PM · decoder/explainer (who controls your formulary):**
+```
+You think your plan controls your drug list. Read the contract. It doesn't.
+
+"Formulary" just means the list of drugs you cover and at what tier. It looks clinical. It's financial.
+
+In most contracts we review, the PBM controls which drugs sit in the "preferred" slot, and it can move drugs between tiers mid-year. The trigger is rarely a new study. It's usually a richer rebate from the manufacturer that paid to sit there.
+
+Your member feels it as a coverage change on a drug that was working. The PBM books it as revenue.
+
+It's in your contract. Just not labeled "the PBM picks the winners." Find the formulary-control clause and read who actually holds the pen.
+```
+  First reply (link):
+```
+Score whether your drug list serves your plan or your PBM's rebate strategy: https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
+```
+  _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 - **5:00 PM · stat-shock / structural:**
 ```
 Drug list prices have roughly doubled over a decade while net prices stayed flatter. The gap didn't vanish. It got captured by the middlemen sitting between list and net. Your formulary is built to keep that gap wide.

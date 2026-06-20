@@ -890,6 +890,22 @@ The GLP-1 your plan covers: is it on the formulary because it works best, or bec
 ```
 A middleman that owns the pharmacy, sets the price, pays itself, and audits its own books isn't a service you buy. It's a toll road you're required to drive.
 ```
+- **2:30 PM · [LONG-FORM X TRIAL — single long-form post; SWAPS one thread this week]** (decoder on Monday's rebate economics topic; Monday deep dive is already public, safe to riff. Routed to the deep dive, not a Tier-A rebate-aggregator angle, so it stays a contract decoder rather than mid-week Cuban-bait):
+```
+"We pass through 100% of rebates." Your PBM says it with a straight face. It's true. It's also designed to mean almost nothing.
+
+I read PBM contracts for a living. We review hundreds a year. The trick is never in the percentage. It's in the noun three clauses away.
+
+100% of WHAT? Of the rebate the PBM "received," after a rebate aggregator it owns took its cut first. Not 100% of what the manufacturer actually paid.
+
+Then watch the labels. Manufacturer money tagged "administrative fee" or "price protection" instead of "rebate" sits outside the pass-through clause entirely. Same dollars. Same drug. One word decides whether your plan ever sees them.
+
+It's in your contract. Just not under the heading you'd look for.
+
+The rebate report shows you what they want you to add up. The definition page is where the money actually lives.
+```
+  First reply (link): https://benefitblindspots.substack.com/p/rebate-economics-pbm-contract-provisions
+  _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 
 **Thu Jul 23**
 - **8:00 AM · recipe / Copay maximizer (Tier B):**

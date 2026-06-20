@@ -1065,6 +1065,23 @@ Copay maximizers: the accumulator's cousin. The PBM treats your member's copay c
 ```
 GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
 ```
+- **[LONG-FORM X TRIAL — single long-form post; SWAPS one thread this week] · 12:30 PM · decoder/explainer (evaluate / stay-or-switch your PBM):**
+```
+"Should we switch PBMs?" is the wrong first question. "Have we ever actually scored ours?" is the right one.
+
+Most plan sponsors decide on gut feel and frustration. The PBM counts on that. Frustration isn't leverage. A scorecard is.
+
+We review hundreds of PBM contracts a year. The employers with the strongest positions aren't the ones with the best PBM. They're the ones who evaluate continuously: pricing, rebate transparency, formulary independence, contract flexibility, who owns the pharmacy your specialty claims run through.
+
+Score those on real numbers, not feelings, and the stay-or-switch answer stops being a guess.
+
+And here's the part the contract buries: your termination and transition language already decided whether you can even act on the answer. Read the leash before you need it.
+```
+  First reply (link):
+```
+The 10-factor PBM evaluation scorecard, with the 2026 vertical-integration layer: https://benefitblindspots.substack.com/p/pbm-vertical-integration-stay-or-switch-2026
+```
+  _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 - **5:00 PM · punchy:**
 ```
 Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.

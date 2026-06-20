@@ -896,6 +896,22 @@ Pull your specialty claims and sort by filling pharmacy. What share filled at a 
 ```
 Ask your PBM for your generic effective rate against the contract guarantee, by month. "On average over the year" is where the misses hide.
 ```
+- **2:30 PM · [LONG-FORM X TRIAL — single long-form post; SWAPS one thread this week]** (decoder on Monday's site-of-care topic; Monday deep dive is already public, safe to riff. Routed to the deep dive; white-bagging Tier-A stays held to the weekend per this week's PART 4B note):
+```
+The same infused drug can cost your plan four different prices, and the only thing that changed was the room it was given in.
+
+I read pharmacy benefit contracts for a living. We review hundreds a year. Site of care is the cost lever almost no plan is pulling.
+
+Hospital outpatient. Physician office. Home infusion. Buy-and-bill. Same molecule, same dose, same patient. The hospital chair can cost several times the home setting.
+
+Then there's the bagging fight. White bagging, brown bagging, buy-and-bill: these aren't safety policies. They're a contest over who gets to mark up the drug and bill your plan for it.
+
+It's in your plan design. Just not framed as "we never told the member there was a cheaper, equally safe place to get this."
+
+The clinical question is where a drug is safest to administer. The financial question is who profits from the answer. On most plans, nobody asked the second one.
+```
+  First reply (link): https://benefitblindspots.substack.com/p/site-of-care-optimization-decision-tree
+  _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 
 **Wed Jul 29**
 - **8:00 AM · recipe / Network access fee (Tier B):**

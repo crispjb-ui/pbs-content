@@ -896,6 +896,22 @@ When did you last open your PBM reporting portal? If the answer is "never," the 
 ```
 Ask your PBM to define "pass-through" in writing, then ask which noun it attaches to: what the manufacturer paid, or what you received. The definition is the whole deal.
 ```
+- **2:30 PM · [LONG-FORM X TRIAL — single long-form post; SWAPS one thread this week]** (decoder on Monday's pharmacy network design topic; Monday deep dive is already public, safe to riff):
+```
+Your PBM's "network" isn't one network. It's a sorting machine, and your members get sorted toward the channel that pays the PBM the most.
+
+I read PBM contracts for a living. We review hundreds a year. The same design shows up over and over.
+
+Retail 90. Mandatory mail. Preferred specialty. They sound like convenience. They're routing rules.
+
+Every channel carries a different pricing guarantee, and the one the PBM owns carries the weakest. So the contract quietly steers volume there. The "narrow network" you signed isn't about quality. It's about which pharmacy keeps the margin.
+
+It's in your contract. Just not labeled "we route your members to ourselves."
+
+A network is supposed to be where your members can fill. This one is where your dollars are funneled.
+```
+  First reply (link): https://www.rxbs.org/toolkit/network-configuration-audit
+  _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 
 **Wed Jul 15**
 - **8:00 AM · recipe / Drug reclassification (Tier B):**
