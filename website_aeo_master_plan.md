@@ -46,7 +46,21 @@ Execute `entity_authority_offsite_plan.md` (Wikidata, Substack Recommendations, 
 
 # SECTION A — Master page template + component library (the Phase-0 detail)
 
-Every content page is this stack, top to bottom. Build each block once as a Wix saved section.
+## Two page archetypes (which components each page gets)
+Not every page is an article. The template has **two archetypes**; build both as Phase-0 patterns and tag every page (current, live, future) as one of them.
+
+| Component | **Content / Answer** archetype (guides, glossary, contract library, what-we're-seeing, mirrored articles) | **Utility / Conversion** archetype (Home, Solutions, Toolkit Library, the 29 toolkit landing pages) |
+|---|---|---|
+| Author byline + dates | ✅ yes (E-E-A-T) | ❌ no (a directory/form page with a byline reads wrong) |
+| Answer-first lead sentence | ✅ yes | ❌ no |
+| Article / FAQ / HowTo schema | ✅ yes | ❌ use the page's own type instead |
+| Inline lead-magnet CTA | ✅ yes | ➖ N/A (the page *is* the offer) |
+| "Keep reading" / cluster cross-links | ✅ yes | ✅ yes (link into the content cluster) |
+| Page-appropriate schema | Article/DefinedTermSet | **CollectionPage/ItemList** (library), **DigitalDocument** (toolkit), **Service** (solutions), **WebSite/Organization** (home) |
+| Lead-form **source field** | (on its inline CTA's target form) | ✅ yes, on every form (incl. the live toolkit form) |
+| Global header/footer + theme | ✅ both | ✅ both |
+
+Below is the **Content/Answer** stack (top to bottom). Build each block once as a Wix saved section.
 
 | # | Component | What it contains | Derives / why once |
 |---|-----------|------------------|--------------------|
@@ -62,7 +76,29 @@ Every content page is this stack, top to bottom. Build each block once as a Wix 
 | 10 | **Global footer** | 5-column (Explore / Reference / Content / Contact + brand) | global element |
 | 11 | **Schema scaffold** | sitewide WebSite/Org/Person in header; per-page Article+FAQ(+HowTo)+Breadcrumb | see Section D |
 
-**Net-new vs. today's blueprints:** items **3, 5, 6, 8, 9 (source field), and 11 (WebSite/HowTo)** do not exist in the current HTML and should be added to the template so every page inherits them. The current `site/` pages already cover 1, 2, 4, 7, 10.
+**Status (Jun 20, 2026):** the net-new components are now **built into the `site/` blueprints**: `.byline`, `.lead-cta`, `.related` live in `site.css`; all 7 content pages carry byline + inline CTA + Keep-reading; the 3 how-to guides carry `HowTo` schema; all 3 forms carry the **source field**; Home carries `WebSite`+`SearchAction` and an enriched `Organization`. So the Content/Answer archetype is fully reflected in the blueprint the Wix builder works from.
+
+## Live-page retrofit (Toolkit Library + the 29 toolkit landing pages)
+These are LIVE and are the **Conversion archetype**, so they take the conversion subset, NOT the article subset (no byline, no answer-first lead).
+
+**Toolkit Library (`/toolkit-library`):**
+- [ ] Add **CollectionPage + ItemList** schema (paste-ready below; in Wix, bind the ItemList to the Toolkits CMS so all 29 list automatically).
+- [ ] Add a **"New to PBM contracts? Start here"** cross-link block → Glossary + the pillar guides (connects the directory into the content cluster).
+- [ ] Confirm title/meta (already de-"Mysite"-ed) + Breadcrumb.
+
+**Toolkit landing pages (`/toolkit/<slug>`, ×29):**
+- [ ] **Add the source field ("How did you hear about us?") to the live form.** ⚠️ This form is wired to the live Velo funnel + CMS, so also add the matching CMS column and include it in the new-submission notification merge. Highest-value attribution change; do it carefully on the live funnel.
+- [ ] Paste the **DigitalDocument** schema (already in the `toolkit.html` blueprint) onto the live dynamic page, bound to the CMS row.
+- [ ] Add one **cluster cross-link** from each toolkit to its matching guide/glossary (makes the guide↔toolkit linking bidirectional). The existing **"Pairs well with"** section already serves as the related-content block.
+
+**Paste-ready CollectionPage + ItemList schema for the Toolkit Library** (representative 3 shown; bind to CMS for all 29):
+```json
+{"@context":"https://schema.org","@type":"CollectionPage","name":"Plan Sponsor Toolkit Library","url":"https://www.rxbs.org/toolkit-library","description":"Free printable PBM audit worksheets and decision frameworks for self-funded employers, from Prescription Benefit Solutions.","isPartOf":{"@type":"WebSite","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org"},"mainEntity":{"@type":"ItemList","itemListElement":[
+{"@type":"ListItem","position":1,"url":"https://www.rxbs.org/toolkit/contract-review-readiness","name":"Contract Review Readiness Checklist"},
+{"@type":"ListItem","position":2,"url":"https://www.rxbs.org/toolkit/channel-pricing","name":"Channel Pricing Audit Worksheet"},
+{"@type":"ListItem","position":3,"url":"https://www.rxbs.org/toolkit/pbm-compensation","name":"PBM Compensation Audit Worksheet"}
+]}}
+```
 
 ---
 

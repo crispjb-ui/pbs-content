@@ -39,6 +39,14 @@
 {"@type":"Question","name":"What contract language prevents spread pricing?","acceptedAnswer":{"@type":"Answer","text":"A true pass-through definition that requires the plan to pay the actual amount reimbursed to the dispensing pharmacy, a single disclosed administrative fee, channel-level pricing guarantees, and claim-level audit rights to verify what the pharmacy was paid. Aggregate-only guarantees without these terms leave room for spread."}}
 ]}
 </script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"HowTo","name":"How to detect spread pricing in a PBM contract","step":[
+{"@type":"HowToStep","name":"Pull pricing at the channel level","text":"Separate retail, mail, and specialty rather than relying on a blended figure, because spread concentrates in whichever channel the PBM controls and a blended average cannot reveal where the margin sits."},
+{"@type":"HowToStep","name":"Compare the plan charge against pharmacy reimbursement","text":"On the same claims, measure what the plan was charged against what the dispensing pharmacy was actually reimbursed; any gap that is not a single disclosed administrative fee is spread, which requires claim-level access to the reimbursement data."},
+{"@type":"HowToStep","name":"Watch for DIR and retroactive adjustments","text":"Track DIR and retroactive adjustments that change the effective price weeks after the claim, since they can mask or shift spread after the fact."},
+{"@type":"HowToStep","name":"Treat missing audit rights as the finding","text":"If the contract does not let the plan reach the pharmacy-reimbursement number, that absence is itself the finding, because a plan that cannot detect spread is by design exposed to it."}
+]}
+</script>
 </head><body>
 
 <header class="nav"><div class="container row">
@@ -57,6 +65,11 @@
   <h1>What is spread pricing in a PBM contract?</h1>
   <p>The margin a PBM keeps between what it charges your plan for a drug and what it pays the pharmacy. This guide explains how spread hides inside aggregate pricing guarantees, how to detect it, and the contract language that prevents it.</p>
 </div></section>
+
+<div class="container" style="max-width:900px"><div class="byline">
+  <div class="av">GC</div>
+  <div class="meta"><b>By Ginny Crisp, PharmD</b> &middot; <span class="cred">Reviews hundreds of PBM contracts a year</span><br>Published June 2026 &middot; Updated June 2026</div>
+</div></div>
 
 <section class="section paper"><div class="container" style="max-width:860px">
 <div class="prose">
@@ -121,6 +134,21 @@
 
     <h3>What contract language prevents spread pricing?</h3>
     <p>A true pass-through definition that requires the plan to pay the actual amount reimbursed to the dispensing pharmacy, a single disclosed administrative fee, channel-level pricing guarantees, and claim-level audit rights to verify what the pharmacy was paid. Aggregate-only guarantees without these terms leave room for spread.</p>
+  </div>
+
+  <div class="container" style="max-width:900px">
+    <div class="lead-cta">
+      <div class="txt"><h4>Channel Pricing Audit Worksheet</h4><p>Surface spread across retail, mail, and specialty in your own claims. Free.</p></div>
+      <a class="btn btn-primary" href="library.html">Get the worksheet</a>
+    </div>
+    <div class="related">
+      <h3>Keep reading</h3>
+      <ul>
+        <li><a href="guide-pbm-contract-audit.html">What is a PBM contract audit?</a></li>
+        <li><a href="contract-language-library.html">Contract language that prevents spread pricing</a></li>
+        <li><a href="glossary.html#spread-pricing">Spread pricing, defined</a></li>
+      </ul>
+    </div>
   </div>
 
   <div style="margin-top:40px;padding:24px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px">
