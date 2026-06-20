@@ -7,6 +7,8 @@ You are turning a Ginny podcast appearance into social clips. You produce the **
 
 **Input** = `$ARGUMENTS`: a YouTube URL and/or a path to a transcript. If only a URL, try WebFetch to pull the captions/transcript; if that fails, ask the user to paste the transcript or auto-captions (you need timestamps).
 
+Also read `platform_playbooks.md` (TikTok + YouTube Shorts + LinkedIn video sections) and build the clip plan to the current specs/hooks there. (The playbook is refreshed monthly by `/platform-research`; where it conflicts with PBS's measured data, the measured data wins.)
+
 ## Step 1 — Transcript with timestamps
 Get the episode transcript with timestamps. You need them to mark clip in/out points.
 

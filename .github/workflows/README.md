@@ -24,6 +24,7 @@ Every content-producing job ends at **drafted + critiqued + committed to `main` 
 | **monthly-substack-backfill** | 22nd ~9a | content 🟨→draft | `/backfill-substack-aeo` — migrates one older week (W06-W25) to the Substack AEO rule | week_*.md draft |
 | **monthly-system-audit** | 1st ~9a | maintain ✅ | `/system-audit`; refreshes the shocking-fact bank, checks drift | dated report |
 | **monthly-citation-check-reminder** | 1st ~10a | reminder 🚫(human) | nudge to run the real `ai_visibility_tracker` prompt set in the AI engines | issue comment |
+| **monthly-platform-research** | 15th ~9a | research ✅ | `/platform-research`; researches 10 platforms (LinkedIn, Substack, X, YouTube Shorts, TikTok, Instagram, Facebook, Threads, YouTube long-form, Reddit/Quora) best practices; auto-updates platform_playbooks.md + proposes rule changes to OPEN_ITEMS | playbook + proposals + issue comment |
 | **quarterly-research** | 1st of Jan/Apr/Jul/Oct ~9a | research ✅ | `/quarterly-research`; bank updates + new-topic/Potter proposals to OPEN_ITEMS | research + proposals |
 
 Legend: ✅ fully unattended · 🟨 loop preps/drafts, you finish · 🚫 human-only.
