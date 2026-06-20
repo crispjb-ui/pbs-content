@@ -17,6 +17,7 @@ Every content-producing job ends at **drafted + critiqued + committed to `main` 
 | **weekly-roundup** | Tue 7:30a | content ✅→draft | RSS + web search → "What Crossed My Desk" roundup draft | roundups/ draft |
 | **weekly-critique** | Sun ~9a | gate ✅ | `/critique` the next week to ship; advisory flags | critique_reports/ |
 | **weekly-monday-brief** | Mon ~7a | surface ✅ | pipeline-health + next-4-week ⚠ + toolkits due | issue comment |
+| **daily-first-comments** | weekdays ~7:30a | routine ✅ (NO notification) | `/first-comments-today` → today's manual posts/reshares | `first_comments_today.md` + Actions run summary |
 | **weekly-metrics-prompt** | Fri ~5p | reminder 🟨 | nudge to paste the week's numbers into `/log-metrics` (dashboards aren't API-readable) | issue comment |
 | **monthly-aeo-page** | 8th ~9a | content 🟨→draft | `/build-aeo-page` — drafts the next owned answer page from the Phase-0 template + `/critique` | site/ draft |
 | **monthly-substack-backfill** | 22nd ~9a | content 🟨→draft | `/backfill-substack-aeo` — migrates one older week (W06-W25) to the Substack AEO rule | week_*.md draft |

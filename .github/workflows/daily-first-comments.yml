@@ -1,0 +1,50 @@
+name: Daily First Comments
+
+# Runs /first-comments-today every weekday and writes the day's manual LinkedIn +
+# X first-comments and company reshares to first_comments_today.md (a rolling file,
+# overwritten each run) and to the Actions run summary. NO notification is posted:
+# the output is available to pull/open when wanted, it is not pushed at you.
+
+on:
+  schedule:
+    - cron: '30 11 * * 1-5'   # weekdays ~7:30 AM ET (DST-approximate)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+
+jobs:
+  first-comments:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - id: vars
+        run: echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+      - name: Generate today's first-comments list
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Glob,Grep,Bash"
+          prompt: |
+            Read CLAUDE.md. Run the /first-comments-today slash command
+            (.claude/commands/first-comments-today.md). Write today's manual
+            LinkedIn + X first-comments and company reshares (to post by hand after
+            each post publishes) to first_comments_today.md, OVERWRITING the file.
+            Start the file with a line: "# First comments — ${{ steps.vars.outputs.date_iso }}".
+            If there is nothing to post today, write that line plus
+            "No manual first-comments/reshares scheduled today." Do not commit.
+      - name: Commit the rolling file (no notification)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          cat first_comments_today.md >> "$GITHUB_STEP_SUMMARY" 2>/dev/null || true
+          git add first_comments_today.md 2>/dev/null || true
+          if git diff --staged --quiet; then echo "No change to first_comments_today.md."; exit 0; fi
+          git commit -m "First comments: ${{ steps.vars.outputs.date_iso }}"
+          git push origin HEAD:main
