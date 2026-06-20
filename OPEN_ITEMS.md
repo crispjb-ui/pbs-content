@@ -2,6 +2,8 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+> **📌 AEO/GEO initiative — single source of truth: `aeo_geo_master_plan.md`.** The consolidated, sequenced build plan (website pages, structured data, Substack AEO + W26-37 rewrites, social-channel optimization, entity authority/off-site, measurement) with status/owner per item, the Ginny-inputs unblock list, and the definition of done. The wave-1/wave-2 blocks below are the as-built log; the master plan is what to execute against so nothing gets left out.
+
 ## ✅ DONE this session (Jun 19, 2026 — AEO/GEO leadership pass)
 Two strategy audits (website + social) run against a "be the cited authority, not just present" bar; Ginny approved the full prioritized list. Decisions locked + Tier-0/1/2 🟦 items executed:
 - **Entity-naming LOCKED:** spell out **"Prescription Benefit Solutions"** + **www.rxbs.org** in all public content; **"PBS" is internal-only** (collides with Public Broadcasting Service for LLMs). Removed `alternateName:"PBS"` from Org schema; swept all visible "PBS" out of `site/*.html` + `llms.txt`. **Wix = canonical domain** (mirror evergreen content to rxbs.org; Substack stays the distribution twin).
