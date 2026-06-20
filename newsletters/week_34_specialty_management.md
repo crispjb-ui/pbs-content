@@ -85,7 +85,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
-I remember the exact moment a client realized their specialty pharmacy spend had crossed the line. It now represented a larger share of their total pharmacy cost than every other category combined. That single data point changed how they approached every contract provision, every formulary decision, and every vendor evaluation going forward. Specialty is no longer a subcategory. For most of our clients, it is the category.
+**To manage specialty drug costs in a self-funded plan, score eight management levers (formulary positioning, site-of-care, step therapy, biosimilar adoption, limited-distribution access, copay card handling, clinical pathways, and reauthorization) across current strategy, contract support, and improvement opportunity, then attack the highest-opportunity levers first at renewal; specialty now drives the most cost yet gets the least independent oversight, because the PBM routes, formularizes, and reports on it unless the contract requires otherwise.**
+
+I remember the exact moment a client realized their specialty pharmacy spend had crossed the line. It now represented a larger share of their total pharmacy cost than every other category combined. That single data point changed how they approached every contract provision, every formulary decision, and every vendor evaluation going forward. Specialty is no longer a subcategory. For most of the self-funded plans Prescription Benefit Solutions works with, it is the category.
 
 The shift happened gradually. Each year, specialty grew as a percentage of total spend. Each year, the employer focused on retail and mail cost management while specialty ran on the PBM's default settings. By the time they looked up, specialty was the majority of their pharmacy cost, and the management infrastructure around it was the weakest part of their benefit.
 
@@ -152,7 +154,7 @@ For each of the eight levers, score on three dimensions (1-5 each):
 **The priority action list**
 
 After scoring, rank the eight levers by improvement opportunity score (highest first). The top three are your immediate priorities. For each priority lever:
-1. Identify the specific contract provision or policy change needed
+1. Identify the specific contract provision or policy change needed (the protective specialty-routing language lives in our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library))
 2. Quantify the potential savings using claims data (your broker can help model this)
 3. Add it to your renewal negotiation term sheet (see Week 25 renewal timeline)
 
@@ -188,6 +190,9 @@ _Embedded One Number visual for this deep dive, repurposed from the former Thurs
 
 ### Article Meta
 
+**Display Title:** Specialty Drug Management: The Category That Defines Your Plan's Cost Trajectory
+**SEO Title (AEO):** How Do You Manage Specialty Drug Costs in a Self-Funded Health Plan?
+**SEO Subtitle:** An eight-factor assessment scored across three dimensions that reveals where your specialty strategy has gaps and what to fix first
 **SEO Title:** Specialty Drug Management: 8-Factor Assessment | Benefit Blind Spots
 **SEO URL Slug:** specialty-drug-management-assessment
 **Meta Description:** Specialty defines your plan's cost trajectory. Eight management levers scored across three dimensions reveal where your strategy has gaps.
@@ -226,13 +231,19 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Pairs with:** Thursday LinkedIn "5 Mid-Year Performance Guarantee Terms Decoded" Ledger Annotated messy infographic. LinkedIn post decodes the performance-guarantee vocabulary; Field Note is the operational follow-on for running the mid-year audit against the contract's named guarantees.
 **Why this pairing (not the displaced "Reauthorization Protocols" draft):** Architecture B triple-distinct topic rule — Monday W34 is Specialty Drug Management; Thursday is Mid-Year Performance Guarantee Audit (a contract-mechanics audit, not specialty-specific). Adjacent within PBM Contract Insights pillar, different subject matter. Original "Reauthorization Protocols" Field Note parked as FN-17.
 
+**Display Title:** Auditing Your Mid-Year Performance Guarantees
+**SEO Title (AEO):** How Do You Audit a PBM's Mid-Year Performance Guarantees?
+**SEO Subtitle:** Three audit passes that measure actual performance against contract thresholds and put the gap in writing before year-end
+
 ---
 
 ### Field Note Body
 
+**To audit a PBM's mid-year performance guarantees, pull every named guarantee and its threshold from the contract (GER, brand effective rate, dispensing fee, rebate per claim), recalculate actual mid-year performance from your H1 claims data using the contract's formula, classify each gap by its remediation type, and send the written gap notification to the PBM at mid-year rather than year-end; the guarantees without specified remediation are where the PBM keeps the difference without consequence.**
+
 This morning's LinkedIn post decoded the five terms PBMs use to define mid-year performance guarantees: GER guarantee, BER (brand effective rate) guarantee, dispensing-fee guarantee, rebate per-claim minimum, and performance-remediation language. Today is the operational follow-on. You have the vocabulary. Here is how to actually run the mid-year audit against the contract's named guarantees.
 
-We run mid-year guarantee audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+At Prescription Benefit Solutions, we run mid-year guarantee audits as a standard part of our work. Three comparison passes do most of the work. The companion [Mid-Year Performance Guarantee Audit Worksheet](https://www.rxbs.org/toolkit/midyear-guarantee-audit) runs the three passes line by line.
 
 **Pass one: pull each guarantee's actual mid-year performance**
 
@@ -244,7 +255,7 @@ Open your H1 / mid-year claims data. For each guarantee, calculate the actual mi
 
 For each guarantee where actual performance is below threshold, find the corresponding remediation clause. Classify by remediation type: cash true-up at year-end, credit against next-year admin fees, "PBM shall remediate" undefined, or no remediation specified at all.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most contracts name guarantees but specify remediation only for some of them. The unguarded guarantees are where the PBM keeps the difference at year-end without consequence. The remediation classification is the audit's most important output.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: most contracts name guarantees but specify remediation only for some of them. The unguarded guarantees are where the PBM keeps the difference at year-end without consequence. The remediation classification is the audit's most important output.
 
 **Pass three: deliver the gap document to the PBM in writing, before year-end**
 

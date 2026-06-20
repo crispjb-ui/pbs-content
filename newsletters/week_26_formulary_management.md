@@ -72,6 +72,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ## Who Really Controls Your Drug List: Formulary Decisions and PBM Economics
 
+**Display Title:** Who Really Controls Your Drug List: Formulary Decisions and PBM Economics
+**SEO Title (AEO):** Who Controls a Self-Funded Plan's Drug Formulary? (PBM Formulary Control Explained)
+**SEO Subtitle:** Seven questions that reveal whether your formulary serves your plan or your PBM's rebate strategy
+
 **Subtitle:** Seven questions that reveal whether your formulary serves your plan or your PBM's rebate strategy
 
 **Publication:** Benefit Blind Spots
@@ -84,7 +88,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
-In the early days of PBS we were reviewing a client's formulary and asked a straightforward question: how does your drug list differ from the PBM's standard book of business formulary? The employer believed they had a customized formulary. That is what their PBM had told them. That is what the contract referenced.
+**A formulary is the list of drugs a plan covers, and in most self-funded plans the PBM controls it, which means the PBM decides which drugs are preferred, excluded, or moved between tiers, and the rebate economics that ride on those choices often shape the drug list as much as clinical evidence does.**
+
+In the early days of Prescription Benefit Solutions we were reviewing a client's formulary and asked a straightforward question: how does your drug list differ from the PBM's standard book of business formulary? The employer believed they had a customized formulary. That is what their PBM had told them. That is what the contract referenced.
 
 After some digging, the answer was that it did not differ at all. The "customized" formulary was identical to what every other client on that PBM received. Same tiers. Same preferred products. Same exclusions. The only customization was the employer's name on the cover page.
 
@@ -108,7 +114,7 @@ True formulary customization means the employer has evaluated their population's
 
 **The formulary decision audit**
 
-I developed this framework to help clients evaluate how much independence their formulary actually has. It is a scored assessment with seven questions. Each answer reveals something specific about who controls the drug list.
+I developed this framework to help clients evaluate how much independence their formulary actually has. It is a scored assessment with seven questions. Each answer reveals something specific about who controls the drug list. The full protective contract language behind these questions, the formulary-change and rebate-passthrough provisions we redline in client reviews, lives in our [PBM contract language library](https://www.rxbs.org/contract-language-library).
 
 > **Question 1: Can you name the members of the P&T committee that manages your formulary?**
 >
@@ -232,6 +238,7 @@ _Embedded scored-framework visual for this deep dive, repurposed from the former
 ### Article Meta
 
 **SEO Title:** Who Really Controls Your Drug List: Formulary Independence Audit | Benefit Blind Spots
+**SEO Title (AEO):** Who Controls a Self-Funded Plan's Drug Formulary? (PBM Formulary Control Explained)
 **SEO URL Slug:** formulary-independence-audit-pbm-economics
 **Meta Description:** Your PBM calls it a customized formulary. Seven scored questions reveal whether your drug list serves your plan or your PBM's rebate strategy.
 **Tags:** formulary management, PBM transparency, rebate economics, self-funded employers, pharmacy benefits, P&T committee
@@ -261,6 +268,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## Auditing Your Step Therapy Override Workflow
 
+**Display Title:** Auditing Your Step Therapy Override Workflow
+**SEO Title (AEO):** How Do You Audit a PBM Step Therapy Override Workflow? (3 Passes for Plan Sponsors)
+**SEO Subtitle:** Three audit passes plan sponsors can run on how step therapy overrides actually execute on plan claims
+
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 2, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
@@ -274,9 +285,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**To audit a PBM step therapy override workflow, run three passes on your plan's actual claims: pull the override approval and denial rate, classify the denial reasons by category, and compare the contract's override clause against the workflow members actually face, because the gap between what the clause says and what the workflow does is where clinically appropriate therapy gets gated.**
+
 This morning's LinkedIn post decoded the five contract terms that govern step therapy overrides: override trigger conditions, documentation burden, denial appeal timeline, prescriber attestation language, and member cost-share treatment during override. Today is the operational follow-on. You have the vocabulary. Here is how to audit how step therapy actually executes on your plan's claims.
 
-We run step therapy audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+We run step therapy audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: pull the override approval and denial rate**
 
@@ -284,7 +297,7 @@ Open your most recent quarterly report. Find the prior authorization summary. Lo
 
 If the report aggregates step therapy with general PA, request the breakout. Step therapy overrides have a different clinical and contractual profile than general PA. The aggregate number hides drift.
 
-Calculate the override approval rate. The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: when override approval rates fall below 60%, the override workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
+Calculate the override approval rate. The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: when override approval rates fall below 60%, the override workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
 **Pass two: classify the denial reasons**
 
@@ -299,6 +312,8 @@ Open your contract. Find the step therapy override clause. Note the documentatio
 Then look at the actual workflow: what does a prescriber need to submit, how long is the response window, who decides the appeal. If the workflow is more burdensome than the contract requires, the workflow is doing different work than the contract is doing.
 
 **What to do this quarter**
+
+Run the three passes with our [Step Therapy Override Audit Worksheet](https://www.rxbs.org/toolkit/step-therapy-override), the printable companion to this field note.
 
 > **Pull the step therapy override approval and denial breakdown.** Calculate the approval rate and the denial-reason category mix.
 > **Open your contract's override clause.** Compare to the actual workflow.
@@ -317,6 +332,7 @@ The decoded vocabulary tells you what the contract says. The audit tells you wha
 ### Field Note Meta
 
 **SEO Title:** Auditing Your Step Therapy Override Workflow | Benefit Blind Spots
+**SEO Title (AEO):** How Do You Audit a PBM Step Therapy Override Workflow? (3 Passes for Plan Sponsors)
 **SEO URL Slug:** audit-step-therapy-override-workflow
 **Meta Description:** Five step therapy override terms decoded this morning. Three audit passes plan sponsors can run on the actual override workflow, the pattern PBS sees most often, and the gap between contract clause and workflow execution.
 **Tags:** step therapy, override workflow, PBM contracts, prior authorization, denial rates, self-funded employers

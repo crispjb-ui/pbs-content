@@ -66,6 +66,10 @@ _Substack Notes (3/day) schedule straight down PART 4 in day order. Launch tease
 
 ## The Renewal Negotiation Playbook: Where Your Negotiating Power Actually Lives
 
+**Display Title:** The Renewal Negotiation Playbook: Where Your Negotiating Power Actually Lives
+**SEO Title (AEO):** How Do You Negotiate a PBM Contract Renewal? (12 Provisions and Tactics)
+**SEO Subtitle:** Twelve contract provisions with market benchmarks, specific language to request, and tactics for extracting better terms
+
 **Subtitle:** Twelve contract provisions with market benchmarks, specific language to request, and tactics for extracting better terms
 
 **Publication:** Benefit Blind Spots
@@ -77,6 +81,8 @@ _Substack Notes (3/day) schedule straight down PART 4 in day order. Launch tease
 ---
 
 ### Article Body
+
+**You negotiate a PBM contract renewal by walking in with your own data and a term sheet that targets the twelve provisions driving renewal economics: the GER guarantee, rebate guarantee, specialty pricing, dispensing and admin fees, clinical program guarantees, audit rights, performance penalties, biosimilar commitments, formulary change notification, termination provisions, and the annual true-up methodology.**
 
 Two clients, same PBM, same renewal cycle. One accepted the initial terms their PBM presented. The other came to the table with their own data, their own benchmarks, and specific language changes they wanted. The cost difference over the contract term was substantial. Same PBM. Same market. Different preparation. I have watched this play out enough times to know that preparation is the variable that matters most.
 
@@ -161,7 +167,7 @@ I organized these by financial impact, starting with the provisions that move th
 
 **Bringing it together**
 
-Print this list. Mark which provisions your current contract covers. Mark which ones are weak or absent. The gaps are your negotiation agenda. Share it with your broker. Walk into the renewal meeting with your own term sheet, your own data, and your own priorities.
+Print this list. Mark which provisions your current contract covers. Mark which ones are weak or absent. The gaps are your negotiation agenda. Share it with your broker. Walk into the renewal meeting with your own term sheet, your own data, and your own priorities. The protective language for each of these provisions lives in our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library), the canonical reference Prescription Benefit Solutions maintains from the contract reviews we run all year.
 
 The employers who do this negotiate measurably different outcomes. Every time.
 
@@ -222,6 +228,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## The Termination Clause: Your Most Powerful Negotiating Tool
 
+**Display Title:** The Termination Clause: Your Most Powerful Negotiating Tool
+**SEO Title (AEO):** What Should a PBM Contract Termination Clause Include? (90-Day Exit, Cause, Data Portability)
+**SEO Subtitle:** Why the termination clause, not a pricing guarantee, sets your leverage across the entire PBM relationship
+
 **Publish:** Thursday, September 4, 2026 at 7:30 AM EST
 **Length:** ~450 words
 **Pillar:** PBM Contract Insights
@@ -229,6 +239,8 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 ---
 
 ### Field Note Body
+
+**A strong PBM contract termination clause should include four things: a 90-day termination for convenience (not 180), specific termination-for-cause triggers, a 30-day data-portability requirement, and clear run-out-claims handling, because those terms set your exit options and your exit options set your leverage across the entire relationship.**
 
 The most powerful provision in your PBM contract is not a pricing guarantee. It is the termination clause.
 
@@ -248,7 +260,7 @@ A PBM that knows you can leave in 90 days negotiates differently than one that h
 
 Most termination clause negotiations never result in termination. But a strong termination provision changes every other negotiation. When your PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency. When they know you are locked in, urgency disappears.
 
-Your broker understands this dynamic. The best advisory teams negotiate termination provisions as aggressively as pricing provisions because they know the termination clause creates the leverage environment for everything else.
+Your broker understands this dynamic. The best advisory teams negotiate termination provisions as aggressively as pricing provisions because they know the termination clause creates the leverage environment for everything else. To pressure-test your own exit language clause by clause, Prescription Benefit Solutions has built a [Termination Clause Audit Worksheet](https://www.rxbs.org/toolkit/termination-clause-audit) that walks through each of the four provisions above.
 
 ---
 

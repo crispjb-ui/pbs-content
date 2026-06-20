@@ -1,0 +1,351 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>PBM Contract Language Library: Weak vs. Protective Clauses | Prescription Benefit Solutions</title>
+<meta name="description" content="Free, evergreen PBM Contract Language Library: side-by-side weak vs. protective pharmacy benefit contract language, from Prescription Benefit Solutions.">
+<link rel="canonical" href="https://www.rxbs.org/contract-language-library">
+<link rel="stylesheet" href="site.css">
+<style>
+  .ihero{background:var(--ink);color:#fff;padding:52px 0 44px}
+  .ihero h1{font-size:40px;color:#fff;margin:10px 0 12px;font-weight:600}
+  .ihero p{color:#c5d2d9;max-width:680px;margin:0;font-size:17px}
+  .ihero p a{color:var(--accent)}
+  .lead{max-width:760px;font-size:18px;color:#33414a;line-height:1.6}
+  .lead .answer{font-weight:600;color:var(--blue)}
+  .lead a{color:var(--blue);font-weight:600;text-decoration:none;border-bottom:1px solid var(--accent)}
+  .howto{max-width:760px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px 24px;margin-top:26px}
+  .howto h3{margin:0 0 10px;color:var(--blue);font-size:17px}
+  .howto ol{margin:0;padding-left:20px;color:#33414a;font-size:14.5px;line-height:1.6}
+
+  .family{margin:48px 0 0}
+  .family > .fam-head{color:var(--blue);font-size:24px;font-weight:600;margin:0 0 6px;padding-bottom:8px;border-bottom:2px solid var(--accent)}
+  .family > .fam-sub{color:var(--muted);font-size:14px;margin:0 0 8px}
+
+  .clause{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px 24px;margin:20px 0}
+  .clause h3.prov{color:var(--blue);font-size:19px;font-weight:600;margin:0 0 14px}
+  .clause .means{font-size:15px;color:#33414a;line-height:1.6;margin:14px 0}
+  .clause .means b{color:var(--gray)}
+  .clause-weak,.clause-strong{border-radius:8px;padding:13px 16px;font-size:14.5px;line-height:1.55}
+  .clause-weak{background:#fbf3f3;border-left:4px solid #d23b3b;color:#5a4040}
+  .clause-strong{background:#eef8fd;border-left:4px solid var(--blue);color:#274652}
+  .clause .lbl{display:block;font-size:11px;letter-spacing:.07em;text-transform:uppercase;font-weight:600;margin-bottom:5px}
+  .clause-weak .lbl{color:#b13030}
+  .clause-strong .lbl{color:var(--blue)}
+  .clause .sec{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);margin-left:8px}
+  .disc{font-size:12px;color:var(--muted);font-style:italic;margin:10px 0 0}
+
+  .cta-band{background:var(--ink2);color:#fff;border-radius:16px;padding:40px;margin:54px 0 0;text-align:center}
+  .cta-band h2{font-size:28px;color:#fff;margin:0 0 10px;font-weight:600}
+  .cta-band p{color:#c5d2d9;font-size:15.5px;max-width:600px;margin:0 auto 22px}
+  .cta-band .ctas{display:flex;gap:12px;justify-content:center;flex-wrap:wrap}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "PBM Contract Language Library: Weak vs. Protective Clauses",
+  "description": "A free, side-by-side reference showing the vague language plan sponsors typically see in a PBM Services Agreement next to the protective language they should ask for instead.",
+  "url": "https://www.rxbs.org/contract-language-library",
+  "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.rxbs.org/contract-language-library"},
+  "inLanguage": "en",
+  "isAccessibleForFree": true,
+  "author": {
+    "@type": "Person",
+    "name": "Ginny Crisp",
+    "honorificSuffix": "PharmD",
+    "jobTitle": "Chief Executive Officer",
+    "worksFor": {"@type": "Organization", "name": "Prescription Benefit Solutions"}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Prescription Benefit Solutions",
+    "url": "https://www.rxbs.org"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.rxbs.org/"},
+    {"@type": "ListItem", "position": 2, "name": "Insights", "item": "https://www.rxbs.org/insights"},
+    {"@type": "ListItem", "position": 3, "name": "Contract Language Library", "item": "https://www.rxbs.org/contract-language-library"}
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "DefinedTermSet",
+  "name": "PBM Contract Language Library",
+  "url": "https://www.rxbs.org/contract-language-library",
+  "description": "Side-by-side weak vs. protective language for the major provision families in a PBM Services Agreement.",
+  "hasDefinedTerm": [
+    {"@type": "DefinedTerm", "name": "Pricing Guarantees", "description": "Generic effective rate, brand discount guarantees, generic drug definition, and spread pricing provisions that determine what a plan actually pays per claim."},
+    {"@type": "DefinedTerm", "name": "Rebate Provisions", "description": "Rebate passthrough and rebate guarantee provisions that govern how much manufacturer revenue reaches the plan."},
+    {"@type": "DefinedTerm", "name": "Audit Rights", "description": "Audit access, remedy, frequency, scope, auditor identity, binding findings, and cost responsibility provisions that decide whether a plan can verify its own pricing and rebates."},
+    {"@type": "DefinedTerm", "name": "Clinical Program Provisions", "description": "Prior authorization and formulary management provisions that govern approvals, denials, and net-cost-versus-rebate formulary decisions."},
+    {"@type": "DefinedTerm", "name": "Termination and Transition", "description": "Termination notice, termination for convenience, auto-renewal, and data-transfer provisions that decide whether a plan can actually leave."},
+    {"@type": "DefinedTerm", "name": "Specialty Pharmacy", "description": "Specialty routing and affiliated-pharmacy disclosure provisions that govern pricing transparency on specialty claims."},
+    {"@type": "DefinedTerm", "name": "Biosimilar Provisions", "description": "Biosimilar formulary placement and brand-to-biosimilar transition provisions that determine whether the lowest-net-cost option is preferred."}
+  ]
+}
+</script>
+</head><body>
+
+<header class="nav"><div class="container row">
+  <a class="brand" href="index.html"><span class="tri"></span> Prescription Benefit Solutions</a>
+  <nav class="navlinks">
+    <a href="index.html">Home</a><a href="solutions.html">Solutions</a>
+    <a href="library.html">Toolkit Library</a><a href="insights.html" class="active">Insights</a><a href="about.html">About</a>
+    <a class="btn btn-accent" href="index.html#book">Book a Review</a>
+  </nav>
+  <div class="menuicon"><span></span><span></span><span></span></div>
+</div></header>
+
+<section class="ihero"><div class="container">
+  <span class="eyebrow">Contract Library &middot; Free &amp; Evergreen</span>
+  <h1>PBM Contract Language Library</h1>
+  <p>The vague language plan sponsors typically see in a PBM Services Agreement, set next to the protective language they should ask for instead.</p>
+</div></section>
+
+<div class="container" style="max-width:900px"><div class="byline">
+  <div class="av">GC</div>
+  <div class="meta"><b>By Ginny Crisp, PharmD</b> &middot; <span class="cred">Reviews hundreds of PBM contracts a year</span><br>Published June 2026 &middot; Updated June 2026</div>
+</div></div>
+
+<section class="section paper"><div class="container">
+
+  <p class="lead"><span class="answer">The PBM Contract Language Library is a free, side-by-side reference showing the vague language plan sponsors typically see in a PBM Services Agreement next to the protective language they should ask for instead.</span> It is published by Prescription Benefit Solutions, an independent pharmacy-benefits consulting firm in Charleston, South Carolina, and it is built from patterns across the hundreds of PBM contracts the firm reviews each year. For each provision you will see what you might see (common vague language), what it actually means (plain English), and what you should ask for (protective language). Pair it with the <a href="glossary.html">PBM glossary</a> for definitions of the technical terms, and with a <a href="solutions.html">PBM contract audit</a> when you want the language tested against your own agreement.</p>
+
+  <div class="howto">
+    <h3>How to use this library</h3>
+    <ol>
+      <li><b>Before renewal:</b> pull your current PBM contract and compare each provision against the "what you should ask for" language.</li>
+      <li><b>During negotiation:</b> use the protective language as a starting point for redlines. Not every provision will be accepted, but asking establishes your expectations.</li>
+      <li><b>After signing:</b> revisit quarterly to confirm the contract is being administered consistently with the language agreed to.</li>
+    </ol>
+  </div>
+
+  <!-- PRICING GUARANTEES -->
+  <div class="family">
+    <h2 class="fam-head">Pricing Guarantees</h2>
+    <p class="fam-sub">Provisions that determine what your plan actually pays per claim.</p>
+
+    <div class="clause">
+      <h3 class="prov">Generic Effective Rate (GER)</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM will provide competitive generic pricing."</div>
+      <p class="means"><b>What it actually means:</b> "Competitive" is undefined. The PBM defines what competitive means. You have no benchmark, no guarantee, and no recourse if pricing erodes.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"PBM guarantees a minimum Generic Effective Rate of [X]% off AWP for retail 30-day, [X]% off AWP for mail 90-day, and [X]% off AWP for specialty generic, measured quarterly with true-up reconciliation and audit rights."</div>
+      <p class="disc">Illustrative example for educational purposes. Actual contract terms vary by plan.</p>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Brand Discount Guarantee</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM will provide brand discounts consistent with market benchmarks."</div>
+      <p class="means"><b>What it actually means:</b> "Market benchmarks" are the PBM's own internal benchmarks. Without a specific discount floor, your pricing can erode year over year without technically violating the contract.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"PBM guarantees a minimum brand effective discount of [X]% off AWP for retail 30-day, [X]% off AWP for mail 90-day, measured quarterly with true-up reconciliation."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Definition of Generic Drug</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Generic Drug means those products identified as generic in the PBM's proprietary classification and pricing file, as updated from time to time in the PBM's sole discretion."</div>
+      <p class="means"><b>What it actually means:</b> The PBM can reclassify a brand drug as non-generic whenever that classification improves their guarantee margin. Reclassifications happen quietly and the plan only sees the impact in the next reconciliation.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Generic Drug means drug products assigned an 'A' therapeutic equivalence rating in the current FDA Orange Book, excluding brand-name, authorized-generic, and single-source products. Classification disputes shall be resolved by reference to the Orange Book, not PBM discretion."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Spread Pricing / Claim Pricing</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"The amount charged to Plan Sponsor shall be calculated in accordance with the applicable AWP discount guarantee, measured on an aggregate basis."</div>
+      <p class="means"><b>What it actually means:</b> Aggregate measurement hides per-claim spread. The PBM can charge the plan more than it pays the pharmacy on any individual claim as long as the aggregate guarantee is met across the book of business.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"The amount charged to Plan Sponsor for any Claim shall equal the amount paid to the dispensing pharmacy, plus a disclosed per-claim administrative fee. No spread pricing of any kind is permitted. Plan Sponsor may audit per-claim pricing on demand and at PBM's expense if discrepancies exceed 1% of audited claim value."</div>
+    </div>
+  </div>
+
+  <!-- REBATE PROVISIONS -->
+  <div class="family">
+    <h2 class="fam-head">Rebate Provisions</h2>
+    <p class="fam-sub">Provisions that govern how much manufacturer revenue actually reaches the plan.</p>
+
+    <div class="clause">
+      <h3 class="prov">Rebate Passthrough</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM will pass through all rebates to the plan."</div>
+      <p class="means"><b>What it actually means:</b> "All rebates" may refer only to rebates the PBM categorizes as "plan-eligible" or "traditional" rebates. Administrative fees, manufacturer service fees, and other revenue streams may be excluded from the passthrough definition.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"PBM will pass through 100% of all manufacturer revenue received in connection with the plan's claims, including but not limited to traditional rebates, administrative fees, formulary placement fees, market share incentives, and any other consideration. 'Revenue' is defined as all compensation received by PBM or its affiliates from manufacturers related to plan utilization."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Rebate Guarantee</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM guarantees rebates of $[X] per brand claim."</div>
+      <p class="means"><b>What it actually means:</b> Check whether this is per brand claim, per prescription, or per member. Check whether it is "gross" (before PBM admin fees) or "net" (after deductions). A $50 gross guarantee may net to $35 after fees.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"PBM guarantees net rebates of $[X] per eligible brand prescription, net of all administrative fees, measured annually with true-up within 90 days of measurement period close. Guarantee is subject to independent audit verification."</div>
+    </div>
+  </div>
+
+  <!-- AUDIT RIGHTS -->
+  <div class="family">
+    <h2 class="fam-head">Audit Rights</h2>
+    <p class="fam-sub">Provisions that decide whether a plan can actually verify its own pricing and rebates.</p>
+
+    <div class="clause">
+      <h3 class="prov">Audit Access</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Plan sponsor may audit PBM records upon reasonable notice."</div>
+      <p class="means"><b>What it actually means:</b> "Reasonable notice" may mean 60-90 days. "PBM records" may be limited to what the PBM chooses to make available. Without specificity, the PBM controls what you can see and when.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Plan sponsor or its designated representative may conduct a comprehensive audit of all records related to the plan's pharmacy benefit, including but not limited to claims adjudication, pricing, rebate collection and allocation, and clinical program administration. Audit may be conducted upon 30 days written notice, no more than once per contract year. PBM will provide complete access to all requested records within 15 business days of the audit request. Audit scope includes PBM affiliates and subcontractors."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Audit Remedy</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM will correct any discrepancies identified through audit."</div>
+      <p class="means"><b>What it actually means:</b> "Correct" may mean prospective correction only (fixing future claims) without retroactive adjustment. Without a clawback provision, overpayments identified in audit may not be recoverable.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"If audit identifies pricing, rebate, or administrative discrepancies, PBM will issue retroactive financial correction within 30 days of audit findings being presented. If discrepancies exceed [X]% of total claims audited, PBM will reimburse the plan's audit costs."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Audit Frequency and Notice <span class="sec">&sect; 10.01</span></h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Plan Sponsor may audit once per contract term at PBM's reasonable convenience."</div>
+      <p class="means"><b>What it actually means:</b> "Once per term" plus "reasonable convenience" lets the PBM defer the audit indefinitely. You hold a right you can never actually schedule.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Plan Sponsor or its designee may audit not more than twice per contract year, on 30 days written notice, at times reasonably scheduled to avoid PBM operational disruption."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Audit Scope <span class="sec">&sect; 10.02</span></h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM shall make customary records available."</div>
+      <p class="means"><b>What it actually means:</b> "Customary records" is the PBM's call. It can withhold the pricing, rebate, and manufacturer-payment detail the audit exists to test.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"PBM shall make available all records relating to Plan Sponsor's claims, pricing, rebates, manufacturer payments, formulary management, prior authorization decisions, and clinical program performance, in the format reasonably requested by auditor."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Auditor Identity <span class="sec">&sect; 10.03</span></h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Audit shall be conducted by an auditor mutually agreed upon by both parties."</div>
+      <p class="means"><b>What it actually means:</b> "Mutually agreed" gives the PBM a veto over who audits it, often steering you toward a PBM-friendly firm. Independence quietly disappears.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Plan Sponsor shall designate the auditor in its sole discretion. PBM may not require the use of a PBM-affiliated auditor or veto the auditor's independence."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Findings Binding <span class="sec">&sect; 10.04</span></h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Audit findings are advisory and informational."</div>
+      <p class="means"><b>What it actually means:</b> Advisory findings are not findings. The PBM can acknowledge an error and still decline to fix it, so no leverage attaches to what the audit uncovers.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Audit findings are binding on PBM unless contested in writing within 30 days of delivery, with documented objection. Uncontested findings shall be remediated within 60 days of delivery."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Cost Responsibility and Materiality Threshold <span class="sec">&sect; 10.05</span></h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Audits shall be conducted at Plan Sponsor's sole expense."</div>
+      <p class="means"><b>What it actually means:</b> When the plan always pays for the audit, the PBM bears no cost for being wrong, so there is no deterrent to errors that happen to favor the PBM.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Plan Sponsor pays audit cost if findings are below 1% of audited payment value. PBM pays audit cost, including Plan Sponsor's reasonable auditor fees, if findings equal or exceed a 1% materiality threshold."</div>
+    </div>
+  </div>
+
+  <!-- CLINICAL PROGRAM -->
+  <div class="family">
+    <h2 class="fam-head">Clinical Program Provisions</h2>
+    <p class="fam-sub">Provisions that govern approvals, denials, and how formulary decisions weigh net cost against rebate revenue.</p>
+
+    <div class="clause">
+      <h3 class="prov">Prior Authorization</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM will administer prior authorization consistent with clinical guidelines."</div>
+      <p class="means"><b>What it actually means:</b> "Clinical guidelines" may be the PBM's own proprietary criteria, which can be more restrictive than published medical society guidelines. The PBM controls what gets approved and denied.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"PBM will administer prior authorization using criteria based on published, peer-reviewed clinical guidelines. Criteria updates require plan sponsor notification 30 days in advance. PA turnaround time guaranteed at [X] hours for standard requests and [X] hours for urgent requests. Quarterly reporting of PA approval rates, denial rates, and appeal overturn rates required."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Formulary Management</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM will manage formulary to optimize clinical outcomes and cost."</div>
+      <p class="means"><b>What it actually means:</b> "Optimize" is subjective. The PBM's formulary decisions may prioritize rebate revenue over net cost to the plan. A drug with a higher rebate but higher gross cost may be preferred over a lower-cost alternative.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Formulary decisions will prioritize lowest net cost to the plan, defined as gross cost minus all applicable rebates and discounts. Any formulary change affecting plan cost by more than [X]% requires 60-day advance notification and plan sponsor approval. PBM will provide net cost analysis for any formulary change upon request."</div>
+    </div>
+  </div>
+
+  <!-- TERMINATION AND TRANSITION -->
+  <div class="family">
+    <h2 class="fam-head">Termination and Transition</h2>
+    <p class="fam-sub">Provisions that decide whether a plan can actually leave, and how cleanly its data moves.</p>
+
+    <div class="clause">
+      <h3 class="prov">Termination Notice and Termination for Convenience</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Either party may terminate this Agreement for material breach following a 90-day cure period and written notice. Auto-renewal applies for successive one-year terms unless either party provides written notice of non-renewal at least 180 days before the renewal date."</div>
+      <p class="means"><b>What it actually means:</b> No PBM will ever concede "material breach" in writing, so the breach clause locks you in for the contract duration regardless of performance. The auto-renewal clause means missing the 180-day window forces you into another full term, and the PBM controls the implementation calendar that surfaces the deadline.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Plan Sponsor may terminate this Agreement for convenience upon ninety (90) days' written notice, without penalty, repayment of implementation credits, or recoupment of rebates already earned. Auto-renewal is hereby disabled; this Agreement terminates at the end of the initial term unless both parties affirmatively renew in writing. PBM shall provide Plan Sponsor with written notice 270 days before term end identifying the renewal decision deadline."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Data Transfer</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM will cooperate in transition activities."</div>
+      <p class="means"><b>What it actually means:</b> "Cooperate" is vague. Without specifics, data transfer timelines, formats, and completeness are at the PBM's discretion. This can slow or sabotage transitions.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Upon termination, PBM will provide complete claims history, member eligibility data, clinical program records, and all plan-specific data in industry-standard electronic format within 30 days. PBM will cooperate with successor PBM during a 90-day transition period at no additional cost. Plan data is owned by the plan sponsor, not the PBM."</div>
+    </div>
+  </div>
+
+  <!-- SPECIALTY PHARMACY -->
+  <div class="family">
+    <h2 class="fam-head">Specialty Pharmacy</h2>
+    <p class="fam-sub">Provisions that govern pricing transparency on the highest-cost claims in the plan.</p>
+
+    <div class="clause">
+      <h3 class="prov">Specialty Routing</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Specialty medications will be dispensed through PBM's specialty pharmacy network."</div>
+      <p class="means"><b>What it actually means:</b> The PBM routes specialty claims to pharmacies it owns or has financial arrangements with. You may not have visibility into the pricing spread between what the specialty pharmacy pays for the drug and what your plan pays.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"Plan sponsor may evaluate and approve specialty pharmacy network composition. PBM will provide transparent pricing for specialty pharmacy dispensing, including acquisition cost, dispensing fees, and any affiliate margins. Plan sponsor retains the right to carve out specialty pharmacy to an independent specialty pharmacy upon 90 days notice."</div>
+    </div>
+  </div>
+
+  <!-- BIOSIMILAR PROVISIONS -->
+  <div class="family">
+    <h2 class="fam-head">Biosimilar Provisions</h2>
+    <p class="fam-sub">Provisions that determine whether the lowest-net-cost option is actually preferred when a biosimilar exists.</p>
+
+    <div class="clause">
+      <h3 class="prov">Biosimilar Formulary Placement</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"PBM's formulary committee evaluates biosimilars and reference products and determines preferred status."</div>
+      <p class="means"><b>What it actually means:</b> The PBM decides placement, and the decision can favor the product carrying the larger manufacturer rebate. That is frequently the higher-cost brand, not the biosimilar with the lower net cost to your plan. "Our committee evaluated both options" is the sentence that ends the conversation before net cost is ever shown.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"When an FDA-approved biosimilar is available for a reference product, PBM will place the lowest-net-cost option (after all rebates and fees) at preferred status within 60 days of launch and will provide Plan a net-cost comparison supporting the placement. Plan sponsor may request preferred placement of an available biosimilar, and PBM will document the net-cost basis for any decision to decline."</div>
+    </div>
+
+    <div class="clause">
+      <h3 class="prov">Brand-to-Biosimilar Transition and Performance</h3>
+      <div class="clause-weak"><span class="lbl">What you might see</span>"Biosimilar substitution will be handled in accordance with applicable law and PBM's standard clinical policies."</div>
+      <p class="means"><b>What it actually means:</b> No timeline, no fill-rate commitment, no accountability. The PBM is not obligated to move members to a lower-net-cost biosimilar or to report the savings the plan forgoes while the brand stays preferred. In the hundreds of contracts we review each year, biosimilar-specific performance language is still uncommon.</p>
+      <div class="clause-strong"><span class="lbl">What you should ask for</span>"PBM will report biosimilar dispensing rates by therapeutic category each quarter, meet a minimum biosimilar fill rate where an interchangeable biosimilar is available, and complete brand-to-biosimilar transitions within 90 days of a biosimilar achieving preferred status. PBM will provide after-rebate net-cost reporting by category so Plan can verify the formulary is optimized for Plan cost rather than rebate revenue."</div>
+    </div>
+  </div>
+
+  <p class="disc" style="margin-top:36px">Prescription Benefit Solutions reviews hundreds of PBM contracts a year. These examples represent common patterns, not specific client contracts. Illustrative examples for educational purposes. Actual contract terms vary by plan, PBM, and market conditions.</p>
+
+  <div class="container" style="max-width:900px">
+  <div class="lead-cta">
+    <div class="txt"><h4>Contract Review Readiness Checklist</h4><p>The 8 documents to pull and 15 audits to run before a PBM contract review. Free.</p></div>
+    <a class="btn btn-primary" href="toolkit.html">Get the checklist</a>
+  </div>
+  <div class="related">
+    <h3>Keep reading</h3>
+    <ul><li><a href="glossary.html">PBM glossary: every term defined</a></li>
+  <li><a href="guide-pbm-contract-audit.html">What is a PBM contract audit?</a></li>
+  <li><a href="guide-how-to-choose-a-pbm-auditor.html">How to choose a PBM auditor</a></li></ul>
+  </div>
+</div>
+
+  <!-- CLOSING CTA -->
+  <div class="cta-band">
+    <h2>Want this language tested against your own contract?</h2>
+    <p>Bring your PBM Services Agreement and we will walk the provisions that matter against your renewal timeline. Free printable worksheets and audit frameworks are in the toolkit library.</p>
+    <div class="ctas">
+      <a class="btn btn-accent btn-lg" href="index.html#book">Book a 15-minute review</a>
+      <a class="btn btn-ghost btn-lg" href="library.html">Free toolkits</a>
+    </div>
+  </div>
+
+</div></section>
+
+<footer class="footer"><div class="container">
+  <div class="row">
+    <div class="col" style="max-width:300px"><a class="brand" href="index.html"><span class="tri"></span> Prescription Benefit Solutions</a><p style="margin:10px 0 0;color:#9fb0b8">Independent pharmacy-benefits consulting for self-funded employers.</p></div>
+    <div class="col"><h5>Explore</h5><a href="solutions.html">Solutions</a><a href="library.html">Toolkit Library</a><a href="insights.html">Insights</a><a href="about.html">About</a></div>
+    <div class="col"><h5>Reference</h5><a href="glossary.html">PBM Glossary</a><a href="contract-language-library.html">Contract Language Library</a><a href="what-we-are-seeing.html">What We're Seeing</a></div>
+    <div class="col"><h5>Content</h5><a href="insights.html">The Pharmacy Benefits Briefing</a><a href="insights.html">Benefit Blind Spots</a></div>
+    <div class="col"><h5>Contact</h5><a href="mailto:team@rxbs.org">team@rxbs.org</a><a href="#">www.rxbs.org</a><span>Charleston, SC</span></div>
+  </div>
+  <div class="bottom">&copy; 2026 Prescription Benefit Solutions. Educational content; results vary by plan.</div>
+</div></footer>
+
+</body></html>

@@ -71,6 +71,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ## The 90-Day Renewal Window: What to Do Before Your PBM Sets the Terms
 
+**Display Title:** The 90-Day Renewal Window: What to Do Before Your PBM Sets the Terms
+**SEO Title (AEO):** How Do You Prepare for a PBM Contract Renewal? (The 90-Day Window, Week by Week)
+**SEO Subtitle:** A week-by-week project plan for the 90 days that determine your PBM renewal outcome
+
 **Subtitle:** A week-by-week project plan for the 90 days that determine your PBM renewal outcome
 
 **Publication:** Benefit Blind Spots
@@ -83,6 +87,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
+**The 90 days before a PBM renewal are when a self-funded plan builds or loses its negotiating position: it is the window to pull your own claims data, benchmark your pricing against the market, read your contract, and set specific negotiation priorities before the PBM presents its terms.**
+
 I sat with two clients last fall, both facing January 1 renewals with the same PBM. One started preparation in July. The other called us in September. Same PBM, same market conditions. Fundamentally different outcomes.
 
 The client who started in July had time to pull their own claims data, benchmark their pricing against market, identify where guarantees were falling short, build a list of specific contract provisions they wanted changed, and coordinate with their broker and stop-loss carrier before the PBM presented renewal terms. When renewal arrived, they walked in with their own numbers. Their own analysis. Their own priorities documented.
@@ -91,7 +97,7 @@ The September client was reactive from the start. The PBM had already prepared t
 
 The difference in outcomes over the contract term was substantial. Same PBM. Same market. Different preparation timelines.
 
-That 90-day window before renewal is where negotiating position gets built or lost. This article is the project plan for those 90 days. I am sharing the framework we use with clients because the timing matters more than almost anything else in this process.
+That 90-day window before renewal is where negotiating position gets built or lost. This article is the project plan for those 90 days. I am sharing the framework we use with clients at Prescription Benefit Solutions because the timing matters more than almost anything else in this process.
 
 **Why 90 days and not 60 or 30**
 
@@ -133,7 +139,7 @@ This is the week-by-week framework we use with clients. Each phase has specific 
 
 > **Week 6: Compare to strong language benchmarks.**
 >
-> For each flagged provision, research what strong contract language looks like. We maintain a contract language library with weak, moderate, and strong versions of key provisions. Your broker or benefits counsel can provide similar references. The goal is knowing what to ask for, not just what to complain about.
+> For each flagged provision, research what strong contract language looks like. We maintain a [contract language library](https://www.rxbs.org/contract-language-library) with weak, moderate, and strong versions of key provisions. Your broker or benefits counsel can provide similar references. The goal is knowing what to ask for, not just what to complain about.
 
 > **Week 7: Develop your term sheet.**
 >
@@ -277,6 +283,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## Auditing Your RFP Scoring Methodology Before You Send It
 
+**Display Title:** Auditing Your RFP Scoring Methodology Before You Send It
+**SEO Title (AEO):** How Do You Score a PBM RFP? (Audit the Scoring Methodology Before You Send It)
+**SEO Subtitle:** Three comparison passes a plan sponsor should run on the RFP scoring methodology before sending it
+
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, June 25, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
@@ -290,9 +300,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**Before you send a PBM RFP, audit the scoring methodology that picks the winner: weight the scoring categories to your real priorities, normalize the financial scoring to net cost instead of headline pricing, and model three claims scenarios. The methodology decides the winner more than the proposals do.**
+
 This morning's LinkedIn post showed the same three PBM proposals producing two different winners. Weight the score the way most RFPs are weighted by default and one proposal wins; re-weight it to match your actual priorities and a different one does. Same proposals, different methodology, different winner. That flip is controlled by five scoring terms most plan sponsors never audit before sending the RFP: weighted scoring, baseline normalization, financial vs. non-financial scoring split, scenario-modeling vs. point-in-time pricing, and tiebreaker hierarchy. Today is the operational follow-on. Before you send the RFP, audit the scoring methodology that determines who wins it.
 
-We design RFP scoring methodologies as a standard part of our work at PBS. Three comparison passes do most of the work.
+We design RFP scoring methodologies as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: weight the scoring categories against your priorities**
 
@@ -304,7 +316,7 @@ Then compare the weights to your internal priority document (the one you produce
 
 PBM pricing proposals are not directly comparable. Different MAC lists, different rebate methodologies, different administrative fee structures, different discount calculation methods. Without baseline normalization, the lowest-headline-number proposal can be the highest-net-cost contract.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most RFP scoring methodologies score against headline pricing, not normalized net cost. The PBMs know this; the headline number is engineered to win the RFP, not to match what the plan will actually pay.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: most RFP scoring methodologies score against headline pricing, not normalized net cost. The PBMs know this; the headline number is engineered to win the RFP, not to match what the plan will actually pay.
 
 **Pass three: build scenario-modeling into the financial score**
 
@@ -313,6 +325,8 @@ Static pricing proposals favor the PBM that engineered the proposal for the stat
 Score each PBM's proposal against all three scenarios. The proposal that wins the static score may rank third under stress. That information matters.
 
 **What to do this quarter**
+
+These three passes are built into our free [RFP Scoring Methodology Audit Worksheet](https://www.rxbs.org/toolkit/rfp-scoring-audit).
 
 > **Pull the RFP scoring methodology and your internal priority document.** Compare weights to priorities. Adjust before sending the RFP, not after the proposals arrive.
 > **Build baseline normalization into the financial scoring.** Net-cost-equivalent comparison, not headline pricing.
@@ -331,8 +345,9 @@ The RFP scoring methodology is the most consequential design decision in the ren
 ### Field Note Meta
 
 **SEO Title:** Auditing Your RFP Scoring Methodology Before You Send It | Benefit Blind Spots
+**SEO Title (AEO):** How Do You Score a PBM RFP? (Audit the Scoring Methodology Before You Send It)
 **SEO URL Slug:** audit-pbm-rfp-scoring-methodology
-**Meta Description:** Five RFP scoring terms decoded this morning. Three comparison passes plan sponsors should run on the scoring methodology before sending the RFP, the pattern PBS sees most often, and the audit framework.
+**Meta Description:** Five RFP scoring terms decoded this morning. Three comparison passes plan sponsors should run on the scoring methodology before sending the RFP, the pattern Prescription Benefit Solutions sees most often, and the audit framework.
 **Tags:** PBM RFP, RFP scoring, weighted scoring, baseline normalization, scenario modeling, self-funded employers, renewal preparation
 
 ### Field Note Header Image Prompt

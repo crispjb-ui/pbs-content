@@ -1,0 +1,172 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>What Is Spread Pricing in a PBM Contract? A Plan Sponsor's Guide</title>
+<meta name="description" content="Spread pricing is when a PBM charges your plan more for a drug than it pays the pharmacy and keeps the difference. Here is how it hides and how to detect it.">
+<link rel="canonical" href="https://www.rxbs.org/guides/what-is-spread-pricing">
+<link rel="stylesheet" href="site.css">
+<style>
+  .ghero{background:var(--ink);color:#fff;padding:52px 0 44px}
+  .ghero h1{font-size:40px;color:#fff;margin:10px 0 12px;font-weight:600;letter-spacing:-.01em}
+  .ghero p{color:#c5d2d9;max-width:720px;margin:0;font-size:17px}
+  .crumbs{font-size:13px;color:var(--muted);margin-bottom:4px}
+  .crumbs a{color:var(--muted);text-decoration:none}
+  .gsec{border-bottom:2px solid var(--accent);padding-bottom:8px;margin:42px 0 16px;color:var(--blue);font-size:24px;font-weight:600;line-height:1.2;scroll-margin-top:80px}
+  .prose p{font-size:16.5px;color:#33414a;max-width:820px;margin:0 0 16px;line-height:1.65}
+  .prose p.lead{font-size:18px;color:#1f2a30}
+  .prose ul{max-width:820px;margin:0 0 16px;padding-left:22px}
+  .prose li{font-size:16px;color:#33414a;margin:0 0 9px;line-height:1.6}
+  .prose a{color:var(--blue);font-weight:600;text-decoration:none}
+  .prose a:hover{text-decoration:underline}
+  .faq h3{color:var(--blue);font-size:18px;margin:22px 0 6px;font-weight:600}
+  .faq p{font-size:15.5px;color:#33414a;max-width:820px;margin:0;line-height:1.6}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"What Is Spread Pricing in a PBM Contract? A Plan Sponsor's Guide","description":"Spread pricing is when a PBM charges a plan more for a drug than it pays the dispensing pharmacy and keeps the difference. This guide explains how it hides inside aggregate pricing guarantees, how to detect it per channel, and what contract language prevents it.","url":"https://www.rxbs.org/guides/what-is-spread-pricing","datePublished":"2026-06-20","dateModified":"2026-06-20","inLanguage":"en","author":{"@type":"Person","name":"Ginny Crisp","honorificSuffix":"PharmD"},"publisher":{"@type":"Organization","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org"},"about":[{"@type":"Thing","name":"Spread pricing"},{"@type":"Thing","name":"Pharmacy benefit management"},{"@type":"Thing","name":"Self-funded health plans"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+{"@type":"ListItem","position":1,"name":"Home","item":"https://www.rxbs.org/"},
+{"@type":"ListItem","position":2,"name":"Insights","item":"https://www.rxbs.org/insights"},
+{"@type":"ListItem","position":3,"name":"What Is Spread Pricing","item":"https://www.rxbs.org/guides/what-is-spread-pricing"}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"What is spread pricing in a PBM contract?","acceptedAnswer":{"@type":"Answer","text":"Spread pricing is when a pharmacy benefit manager charges the plan more for a drug than it pays the dispensing pharmacy and keeps the difference as undisclosed margin. The plan sees one price, the pharmacy is reimbursed a lower price, and the PBM retains the gap."}},
+{"@type":"Question","name":"How is spread pricing different from pass-through pricing?","acceptedAnswer":{"@type":"Answer","text":"Under spread pricing the PBM keeps the difference between what it charges the plan and what it pays the pharmacy. Under pass-through pricing the plan pays exactly what the pharmacy is reimbursed plus a disclosed administrative fee, so there is no hidden margin in the drug cost itself."}},
+{"@type":"Question","name":"How do you detect spread pricing?","acceptedAnswer":{"@type":"Answer","text":"Detect spread pricing by comparing, per channel and per claim, what the plan was charged against what the pharmacy was actually reimbursed. A gap that is not a disclosed administrative fee is spread. Aggregate-only reporting hides it, so the audit has to reach claim-level and channel-level net cost."}},
+{"@type":"Question","name":"Is spread pricing legal?","acceptedAnswer":{"@type":"Answer","text":"In the commercial self-funded market, spread pricing is generally legal when the contract's pricing model permits it, which aggregate pricing guarantees often do. It is a contract choice, not an illegal act, which is why the protection is a pass-through pricing model with full audit rights rather than a complaint after the fact."}},
+{"@type":"Question","name":"What contract language prevents spread pricing?","acceptedAnswer":{"@type":"Answer","text":"A true pass-through definition that requires the plan to pay the actual amount reimbursed to the dispensing pharmacy, a single disclosed administrative fee, channel-level pricing guarantees, and claim-level audit rights to verify what the pharmacy was paid. Aggregate-only guarantees without these terms leave room for spread."}}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"HowTo","name":"How to detect spread pricing in a PBM contract","step":[
+{"@type":"HowToStep","name":"Pull pricing at the channel level","text":"Separate retail, mail, and specialty rather than relying on a blended figure, because spread concentrates in whichever channel the PBM controls and a blended average cannot reveal where the margin sits."},
+{"@type":"HowToStep","name":"Compare the plan charge against pharmacy reimbursement","text":"On the same claims, measure what the plan was charged against what the dispensing pharmacy was actually reimbursed; any gap that is not a single disclosed administrative fee is spread, which requires claim-level access to the reimbursement data."},
+{"@type":"HowToStep","name":"Watch for DIR and retroactive adjustments","text":"Track DIR and retroactive adjustments that change the effective price weeks after the claim, since they can mask or shift spread after the fact."},
+{"@type":"HowToStep","name":"Treat missing audit rights as the finding","text":"If the contract does not let the plan reach the pharmacy-reimbursement number, that absence is itself the finding, because a plan that cannot detect spread is by design exposed to it."}
+]}
+</script>
+</head><body>
+
+<header class="nav"><div class="container row">
+  <a class="brand" href="index.html"><span class="tri"></span> Prescription Benefit Solutions</a>
+  <nav class="navlinks">
+    <a href="index.html">Home</a><a href="solutions.html">Solutions</a>
+    <a href="library.html">Toolkit Library</a><a href="insights.html" class="active">Insights</a><a href="about.html">About</a>
+    <a class="btn btn-accent" href="index.html#book">Book a Review</a>
+  </nav>
+  <div class="menuicon"><span></span><span></span><span></span></div>
+</div></header>
+
+<section class="ghero"><div class="container">
+  <div class="crumbs"><a href="index.html">Home</a> &rsaquo; <a href="insights.html">Insights</a> &rsaquo; What Is Spread Pricing</div>
+  <span class="eyebrow">Pillar Guide</span>
+  <h1>What is spread pricing in a PBM contract?</h1>
+  <p>The margin a PBM keeps between what it charges your plan for a drug and what it pays the pharmacy. This guide explains how spread hides inside aggregate pricing guarantees, how to detect it, and the contract language that prevents it.</p>
+</div></section>
+
+<div class="container" style="max-width:900px"><div class="byline">
+  <div class="av">GC</div>
+  <div class="meta"><b>By Ginny Crisp, PharmD</b> &middot; <span class="cred">Reviews hundreds of PBM contracts a year</span><br>Published June 2026 &middot; Updated June 2026</div>
+</div></div>
+
+<section class="section paper"><div class="container" style="max-width:860px">
+<div class="prose">
+
+  <p class="lead">Spread pricing is when a pharmacy benefit manager charges the plan more for a drug than it pays the dispensing pharmacy and keeps the difference as undisclosed margin. The plan sees one price, the pharmacy is reimbursed a lower price, and the PBM retains the gap between them. On a single generic claim the spread can look small; across a self-funded plan's full year of claims it becomes one of the largest avoidable line items in pharmacy spend.</p>
+
+  <p>The mechanism is simple, which is why it persists. A plan pays its PBM for a generic at, say, the contracted rate. The PBM reimburses the pharmacy that filled it at a lower rate. Nothing about the plan's invoice reveals the second number, and unless the contract gives the plan the right to see what the pharmacy was actually paid, the spread is invisible. The plan is not overcharged against its contract; it is charged exactly what a contract that permits spread allows.</p>
+
+  <h2 class="gsec">How does spread pricing hide inside aggregate pricing guarantees?</h2>
+
+  <p>Spread hides because most pricing guarantees are written in aggregate, not per claim. A contract may promise a <a href="glossary.html#ger">GER (Generic Effective Rate)</a> of, for example, <a href="glossary.html#awp">AWP</a> minus a stated percentage, measured across the whole plan over a quarter or a year. That single blended number can be hit even while individual claims carry wide spread, because the PBM only has to make the average land on the guarantee. High-margin claims are offset against low-margin ones inside the aggregate, and the plan never sees the distribution underneath.</p>
+
+  <p>Channel blending compounds the effect. When a contract states one pricing guarantee blended across retail, mail, and specialty rather than a separate guarantee per channel, the PBM can hold the blended average while the spread concentrates in whichever channel it controls most tightly. The headline rate looks competitive; the <a href="glossary.html#net-cost">net cost per script</a> the plan actually pays tells a different story. Aggregate guarantees are not inherently wrong, but without claim-level and channel-level visibility they leave room for spread that no summary report will show.</p>
+
+  <h2 class="gsec">What is the difference between pass-through and aggregate pricing?</h2>
+
+  <p>The pricing model is the single term that decides whether spread is even possible. There are two:</p>
+
+  <ul>
+    <li><b>Aggregate pricing.</b> The plan pays the PBM the contracted price and the PBM separately reimburses the pharmacy. The PBM keeps any difference. This is the model under which <a href="glossary.html#spread-pricing">spread pricing</a> lives. The guarantee is measured in aggregate, so the plan is protected only at the blended-average level, not claim by claim.</li>
+    <li><b>Pass-through pricing.</b> The plan pays exactly what the pharmacy is reimbursed, plus a single disclosed administrative fee. There is no margin buried in the drug cost because the drug cost passed to the plan is the pharmacy's actual reimbursement. The PBM's compensation is the visible admin fee, and nothing else moves in the drug line.</li>
+  </ul>
+
+  <p>The distinction is not just terminology. A contract labeled transparent in its cover summary can still be aggregate in its pricing exhibit, which is where the model actually lives. The label and the methodology are decided in different sections, and only the methodology section binds. This is one reason a contract's pricing exhibit, not its summary, is the document that determines what the plan pays.</p>
+
+  <h2 class="gsec">How do you detect spread pricing?</h2>
+
+  <p>Detect spread by comparing, per claim and per channel, what the plan was charged against what the dispensing pharmacy was actually reimbursed. Any gap that is not a single disclosed administrative fee is spread. The detection problem is access: aggregate-only reporting deliberately stops at the blended number, so the work is reaching claim-level and channel-level net cost in the first place.</p>
+
+  <p>Practically, that means three moves. First, pull pricing at the channel level, retail, mail, and specialty separately, because a blended figure cannot reveal where the margin concentrates. Second, compare the plan's charge against the pharmacy reimbursement on the same claims, which requires the contract to grant access to that reimbursement data. Third, watch for <a href="glossary.html#dir">DIR</a> and retroactive adjustments that change the effective price weeks after the claim, since they can mask or shift spread after the fact. If the contract does not let the plan reach the pharmacy-reimbursement number, that absence is itself the finding: a plan that cannot detect spread is, by design, exposed to it.</p>
+
+  <h2 class="gsec">What contract language prevents spread pricing?</h2>
+
+  <p>The protection is a true pass-through definition backed by enforceable audit rights. Four terms do the work:</p>
+
+  <ul>
+    <li><b>A pass-through pricing definition</b> that requires the plan to pay the actual amount reimbursed to the dispensing pharmacy, with the PBM's only compensation being a single, separately stated administrative fee.</li>
+    <li><b>Channel-level pricing guarantees,</b> separate rates for retail, mail, and specialty, so spread cannot hide inside a blended average.</li>
+    <li><b>Claim-level audit rights</b> that let the plan, or an independent reviewer, inspect what the pharmacy was actually paid on individual claims, not just the aggregate report.</li>
+    <li><b>A clean fee definition</b> that names every form of PBM compensation, so the difference between charge and reimbursement cannot reappear as an undisclosed category elsewhere in the contract, including amounts retained by a <a href="glossary.html#rebate-aggregator">rebate aggregator</a> before any stated passthrough begins.</li>
+  </ul>
+
+  <p>The <a href="contract-language-library.html">PBM Contract Language Library</a> puts the vague version of each clause next to the protective version to ask for, and the <a href="library.html">free toolkit library</a> turns them into worksheets you can run against your own contract. If you want the broader picture of how pricing, rebates, audit rights, and termination fit together, the companion guide on <a href="guide-pbm-contract-audit.html">what a PBM contract audit examines</a> walks through the full review, and the <a href="glossary.html">PBM glossary</a> defines each underlying term.</p>
+
+  <h2 class="gsec">Why does spread pricing matter to a self-funded plan?</h2>
+
+  <p>A self-funded plan pays its own pharmacy claims, so every dollar of spread is a dollar off the plan's budget rather than an insurer's. There is no third party absorbing it. Because spread is invisible in aggregate reporting, it is the kind of cost that compounds quietly for years until someone reads the contract and reaches claim-level data. Across the hundreds of PBM contracts Prescription Benefit Solutions reviews a year, the pricing model and the audit-rights clause are the two terms that most often decide whether a plan is exposed, and they are routinely the two terms the plan never read closely. Fixing the language at renewal, before the next term locks in, is where the leverage is.</p>
+
+  <h2 class="gsec" id="faq">Frequently asked questions</h2>
+  <div class="faq">
+    <h3>What is spread pricing in a PBM contract?</h3>
+    <p>Spread pricing is when a pharmacy benefit manager charges the plan more for a drug than it pays the dispensing pharmacy and keeps the difference as undisclosed margin. The plan sees one price, the pharmacy is reimbursed a lower price, and the PBM retains the gap.</p>
+
+    <h3>How is spread pricing different from pass-through pricing?</h3>
+    <p>Under spread pricing the PBM keeps the difference between what it charges the plan and what it pays the pharmacy. Under pass-through pricing the plan pays exactly what the pharmacy is reimbursed plus a disclosed administrative fee, so there is no hidden margin in the drug cost itself.</p>
+
+    <h3>How do you detect spread pricing?</h3>
+    <p>Detect spread pricing by comparing, per channel and per claim, what the plan was charged against what the pharmacy was actually reimbursed. A gap that is not a disclosed administrative fee is spread. Aggregate-only reporting hides it, so the audit has to reach claim-level and channel-level net cost.</p>
+
+    <h3>Is spread pricing legal?</h3>
+    <p>In the commercial self-funded market, spread pricing is generally legal when the contract's pricing model permits it, which aggregate pricing guarantees often do. It is a contract choice, not an illegal act, which is why the protection is a pass-through pricing model with full audit rights rather than a complaint after the fact.</p>
+
+    <h3>What contract language prevents spread pricing?</h3>
+    <p>A true pass-through definition that requires the plan to pay the actual amount reimbursed to the dispensing pharmacy, a single disclosed administrative fee, channel-level pricing guarantees, and claim-level audit rights to verify what the pharmacy was paid. Aggregate-only guarantees without these terms leave room for spread.</p>
+  </div>
+
+  <div class="container" style="max-width:900px">
+    <div class="lead-cta">
+      <div class="txt"><h4>Channel Pricing Audit Worksheet</h4><p>Surface spread across retail, mail, and specialty in your own claims. Free.</p></div>
+      <a class="btn btn-primary" href="library.html">Get the worksheet</a>
+    </div>
+    <div class="related">
+      <h3>Keep reading</h3>
+      <ul>
+        <li><a href="guide-pbm-contract-audit.html">What is a PBM contract audit?</a></li>
+        <li><a href="contract-language-library.html">Contract language that prevents spread pricing</a></li>
+        <li><a href="glossary.html#spread-pricing">Spread pricing, defined</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="margin-top:40px;padding:24px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px">
+    <p style="margin:0 0 14px;font-size:15.5px;color:#33414a;max-width:none">Prescription Benefit Solutions reviews hundreds of PBM contracts a year and reads the pricing model, the audit rights, and the per-channel net cost to find where spread is hiding. In 2025, reviews identified roughly $469K in average savings per pharmacy benefit review. Results vary by plan.</p>
+    <a class="btn btn-primary" href="index.html#book">Book a 15-minute contract review &#8594;</a>
+  </div>
+
+</div></div></section>
+
+<footer class="footer"><div class="container">
+  <div class="row">
+    <div class="col" style="max-width:300px"><a class="brand" href="index.html"><span class="tri"></span> Prescription Benefit Solutions</a><p style="margin:10px 0 0;color:#9fb0b8">Independent pharmacy-benefits consulting for self-funded employers.</p></div>
+    <div class="col"><h5>Explore</h5><a href="solutions.html">Solutions</a><a href="library.html">Toolkit Library</a><a href="insights.html">Insights</a><a href="about.html">About</a></div>
+    <div class="col"><h5>Reference</h5><a href="glossary.html">PBM Glossary</a><a href="contract-language-library.html">Contract Language Library</a><a href="what-we-are-seeing.html">What We're Seeing</a></div>
+    <div class="col"><h5>Content</h5><a href="insights.html">The Pharmacy Benefits Briefing</a><a href="insights.html">Benefit Blind Spots</a></div>
+    <div class="col"><h5>Contact</h5><a href="mailto:team@rxbs.org">team@rxbs.org</a><a href="#">www.rxbs.org</a><span>Charleston, SC</span></div>
+  </div>
+  <div class="bottom">&copy; 2026 Prescription Benefit Solutions. Educational content; results vary by plan.</div>
+</div></footer>
+
+</body></html>

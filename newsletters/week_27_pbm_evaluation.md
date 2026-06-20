@@ -70,6 +70,11 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 # PART 1: SUBSTACK ARTICLE
 
 ## The Vertical Integration Question: Stay or Switch in 2026
+
+**Display Title:** The Vertical Integration Question: Stay or Switch in 2026
+**SEO Title (AEO):** Should a Self-Funded Employer Switch PBMs or Stay? (How to Evaluate Your PBM in 2026)
+**SEO Subtitle:** A 100-point weighted PBM evaluation scorecard, with the vertical integration question layered on top, for the stay-or-switch decision
+
 **Subtitle:** A 10-factor PBM evaluation scorecard, with the vertical integration question layered on top — what the May 2026 PBM news cycle changed about how plan sponsors should score the stay-or-switch decision
 
 > **Reframe note (May 22, 2026):** Original W27 deep dive was "When to Stay and When to Switch: Evaluating Your PBM Relationship" — a structured 10-factor scorecard for the PBM evaluation decision. Reframed in response to the May 21-22, 2026 trifecta: (1) Mount Sinai / U Michigan / U Kansas sued CVS for $250M in alleged 340B diversion through vertical integration; (2) Pennsylvania released its Act 77 PBM study finding spread pricing has retreated under state pressure; (3) CVS countersued Tennessee to block PBM divestiture law. The 10-factor scorecard structure is unchanged. Five factors (Rebate Transparency, Reporting and Analytics, Formulary Independence, Contract Flexibility, Specialty Management) now carry more weight under the vertical-integration question. New sections added: "What changed in 2026" (between Why the decision is hard and The PBM evaluation scorecard) + "2026 reframe: Five factors weighted differently" (after Factor 10 + before Interpreting your score) + "Layer the vertical integration question over the score" (after Interpreting your score + before A note on the decision). Title, SEO meta, LinkedIn newsletter body, and Substack header image prompt updated to match. ~30% of file content changed; 70% intact. The Wed roundup of W21 carries the news-cycle peak synthesis; this W27 deep dive carries the durable analytical thesis tying the May trifecta to the July renewal-evaluation decisions plan sponsors are about to make.
@@ -86,7 +91,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
-Two clients called me within the same week, both unhappy with their PBM. I told one to stay and renegotiate. I told the other to go to market. Both made the right decision. The difference was not frustration level. It was data.
+**Whether a self-funded employer should switch PBMs or stay comes down to data, not frustration: score the relationship across ten weighted factors, and a result below 50 points argues for going to market, 50 to 70 for renegotiating with that data, and above 70 for optimizing the relationship you have, with the vertical integration question layered on top to test whether your audit rights can even reach where the money moves.**
+
+At Prescription Benefit Solutions, two clients called me within the same week, both unhappy with their PBM. I told one to stay and renegotiate. I told the other to go to market. Both made the right decision. The difference was not frustration level. It was data.
 
 The first client had a PBM whose pricing was competitive, whose clinical programs were producing measurable results, and whose account team was responsive. Their frustration was about reporting quality and formulary transparency. Those are fixable issues within an existing relationship. Going to market would have cost them transition disruption for problems that a contract amendment could solve.
 
@@ -118,7 +125,7 @@ The scorecard structure is unchanged. The scoring has gotten stricter.
 
 **The PBM evaluation scorecard**
 
-I developed this framework because the stay-or-switch decision kept coming down to gut feel and frustration levels instead of objective analysis. The scorecard evaluates 10 factors, each weighted by its impact on plan cost and performance. Total possible score: 100 points.
+I developed this framework because the stay-or-switch decision kept coming down to gut feel and frustration levels instead of objective analysis. The scorecard evaluates 10 factors, each weighted by its impact on plan cost and performance. Total possible score: 100 points. For how the audit-rights side of this evaluation actually gets run, see our guide to a [PBM contract audit](https://www.rxbs.org/guides/pbm-contract-audit).
 
 > **Factor 1: Pricing Competitiveness (15 points)**
 >
@@ -200,9 +207,9 @@ The May 2026 trifecta did not change the scorecard's structure. It changed the s
 
 *Factor 5 (Formulary Independence)* now requires looking at the dispensing channel your formulary tiers actively route members toward. When the PBM owns the dispensing pharmacy, the formulary is the vehicle that drives utilization toward affiliated dispensing. Score against the Week 26 formulary audit, then ask separately: does our formulary tier strategy align with our plan's economics, or with our PBM's affiliated-entity revenue?
 
-*Factor 7 (Contract Flexibility)* now turns most directly on whether your audit-rights clause reaches affiliated entities. In the hundreds of PBM contracts we review each year at PBS, the affiliated-entity audit-rights clause appears in fewer than half. The hospitals that sued CVS in May could litigate because their audit rights were broad enough. Most plan sponsor contracts do not yet meet that bar.
+*Factor 7 (Contract Flexibility)* now turns most directly on whether your audit-rights clause reaches affiliated entities. In the hundreds of PBM contracts we review each year at our firm, the affiliated-entity audit-rights clause appears in fewer than half. The hospitals that sued CVS in May could litigate because their audit rights were broad enough. Most plan sponsor contracts do not yet meet that bar.
 
-*Factor 8 (Specialty Management)* is the factor where vertical integration is operationalized on your plan's day-to-day claims. Pull a quarter's specialty fills and sort by dispensing pharmacy NPI. What percentage flowed through the PBM's affiliated specialty pharmacy? The pattern PBS sees: PBM-owned specialty capture runs 60-80% of specialty spend in plans that have not actively negotiated the specialty network clause.
+*Factor 8 (Specialty Management)* is the factor where vertical integration is operationalized on your plan's day-to-day claims. Pull a quarter's specialty fills and sort by dispensing pharmacy NPI. What percentage flowed through the PBM's affiliated specialty pharmacy? The pattern we see: PBM-owned specialty capture runs 60-80% of specialty spend in plans that have not actively negotiated the specialty network clause.
 
 **Interpreting your score**
 
@@ -285,6 +292,7 @@ _Embedded infographic for this deep dive, repurposed from the former Thursday Li
 ### Article Meta
 
 **SEO Title:** The Vertical Integration Question: PBM Stay-or-Switch Scorecard for 2026 | Benefit Blind Spots
+**SEO Title (AEO):** Should a Self-Funded Employer Switch PBMs or Stay? (How to Evaluate Your PBM in 2026)
 **SEO URL Slug:** pbm-vertical-integration-stay-or-switch-2026
 **Meta Description:** Three PBM news stories in 48 hours changed how plan sponsors should evaluate their PBM. A 10-factor scorecard with the vertical integration question layered on top — five factors now scored differently than they were a year ago.
 **Tags:** PBM evaluation, PBM switch, vertical integration, 340B, rebate aggregator, audit rights, contract negotiation, self-funded employers, pharmacy benefits, scorecard
@@ -314,6 +322,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## Auditing How Your PBM Actually Makes Money
 
+**Display Title:** Auditing How Your PBM Actually Makes Money
+**SEO Title (AEO):** How Does a PBM Make Money on a Self-Funded Plan? (Auditing the Five Compensation Streams)
+**SEO Subtitle:** Three audit passes plan sponsors can run to find which of the five PBM compensation mechanisms apply to their contract
+
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 9, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
@@ -327,9 +339,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**A PBM makes money on a self-funded plan through five compensation mechanisms, not just the admin fee: spread pricing, rebate retention, administrative fees, manufacturer-direct payments, and PBM-owned-pharmacy margin, and you audit which ones apply to your plan by pulling the contract clause that authorizes each, estimating its annual dollar magnitude, and mapping what the contract requires the PBM to disclose about it.**
+
 This morning's LinkedIn post decoded the five mechanisms PBMs use to compensate themselves: spread pricing, rebate retention, administrative fees, manufacturer-direct payments, and PBM-owned-pharmacy margin. Today is the operational follow-on. You have the vocabulary. Here is how to audit which mechanisms apply to your specific contract.
 
-We run PBM compensation audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+We run PBM compensation audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: identify which compensation mechanisms your contract authorizes**
 
@@ -341,7 +355,7 @@ For each mechanism, classify: explicitly authorized, implicitly authorized (sile
 
 For each authorized mechanism, estimate the annual dollar magnitude on your plan. Spread is calculated from per-claim margin × claim volume; rebate retention is gross rebate × retention percentage; administrative fees are per-claim or PEPM × volume; manufacturer-direct payments are typically not disclosed and require contract-language interrogation; PBM-owned-pharmacy margin requires the specialty routing data.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four mechanisms are where the rest sits. Plan sponsors who only track administrative fees see a small fraction of total PBM compensation.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: aggregate PBM compensation typically exceeds the headline administrative fee by a meaningful multiple. The other four mechanisms are where the rest sits. Plan sponsors who only track administrative fees see a small fraction of total PBM compensation.
 
 **Pass three: map the disclosure obligations**
 
@@ -350,6 +364,8 @@ For each mechanism, find the contract's disclosure obligation: what reporting mu
 The disclosure gap is the renewal-leverage item. A PBM confident in its compensation structure should welcome disclosure obligations. A PBM resistant to disclosure is signaling something about what the disclosure would reveal.
 
 **What to do this quarter**
+
+Work the three passes with our [PBM Compensation Audit Worksheet](https://www.rxbs.org/toolkit/pbm-compensation), the printable companion to this field note.
 
 > **Pull the contract clauses for all five compensation mechanisms.** Classify each as authorized, implicitly authorized, or excluded.
 > **Estimate the dollar magnitude of each authorized mechanism.** Compare to the headline administrative fee.
@@ -368,6 +384,7 @@ The decoded vocabulary tells you the mechanisms. The audit tells you which ones 
 ### Field Note Meta
 
 **SEO Title:** Auditing How Your PBM Actually Makes Money | Benefit Blind Spots
+**SEO Title (AEO):** How Does a PBM Make Money on a Self-Funded Plan? (Auditing the Five Compensation Streams)
 **SEO URL Slug:** audit-pbm-compensation-mechanisms
 **Meta Description:** Five PBM compensation mechanisms decoded this morning. Three audit passes plan sponsors can run on the contract to identify which mechanisms apply, the dollar magnitude of each, and the disclosure gap.
 **Tags:** PBM compensation, spread pricing, rebate retention, administrative fees, manufacturer-direct payments, self-funded employers, contract audit

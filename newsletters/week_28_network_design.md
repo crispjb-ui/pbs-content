@@ -71,6 +71,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ## Pharmacy Network Design: The Cost Variable Most Employers Overlook
 
+**Display Title:** Pharmacy Network Design: The Cost Variable Most Employers Overlook
+**SEO Title (AEO):** What Is Pharmacy Network Design and How Does It Affect Plan Cost? (Five-Channel Cost Comparison)
+**SEO Subtitle:** A five-channel cost comparison model that reveals where dispensing decisions are costing your plan the most
+
 **Subtitle:** A five-channel cost comparison model that reveals where dispensing decisions are costing your plan the most
 
 **Publication:** Benefit Blind Spots
@@ -83,7 +87,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
-A client's broker flagged something in their claims data last year that I wish more brokers caught: the specialty pharmacy routing structure was costing more than the entire annual formulary rebate was saving. One routing policy change recaptured those dollars. One change. One drug category.
+**Pharmacy network design is the structure that determines where prescriptions are physically filled, across five dispensing channels (retail, mail order, specialty, white bagging, and home infusion), and because the same drug carries a different net cost in each channel, the routing decision can move plan cost more than the drug choice itself, yet most employers never model it because the PBM's default network runs on autopilot.**
+
+At Prescription Benefit Solutions, a client's broker flagged something in their claims data last year that I wish more brokers caught: the specialty pharmacy routing structure was costing more than the entire annual formulary rebate was saving. One routing policy change recaptured those dollars. One change. One drug category.
 
 When we looked at why the routing was set up that way, the answer was familiar: the PBM's default network configuration. Nobody had questioned it. Nobody had modeled the alternatives. The PBM routed specialty claims through their owned specialty pharmacy, and the employer assumed that was the only option. It was not.
 
@@ -133,7 +139,7 @@ This model is straightforward, but the data request can be challenging. PBMs do 
 
 **Where the biggest opportunities typically live**
 
-In our experience, the largest network design savings come from three areas:
+In our experience, drawn from the contract-review patterns we publish in [what we are seeing](https://www.rxbs.org/what-we-are-seeing), the largest network design savings come from three areas:
 
 *Specialty routing optimization.* Moving specialty claims from a PBM-owned specialty pharmacy to an alternative with lower net cost, or from hospital outpatient to white bagging or home infusion. The per-claim savings in specialty are substantial because the dollar amounts per claim are high.
 
@@ -214,6 +220,7 @@ _Embedded channel-comparison visual for this deep dive, repurposed from the form
 ### Article Meta
 
 **SEO Title:** Pharmacy Network Design: Five-Channel Cost Comparison Model | Benefit Blind Spots
+**SEO Title (AEO):** What Is Pharmacy Network Design and How Does It Affect Plan Cost? (Five-Channel Cost Comparison)
 **SEO URL Slug:** pharmacy-network-design-cost-comparison-model
 **Meta Description:** The dispensing channel can change drug cost more than the drug itself. A five-channel cost model for retail, mail, specialty, white bagging, and home infusion.
 **Tags:** pharmacy network, cost containment, specialty pharmacy, mail order, white bagging, self-funded employers, channel optimization
@@ -243,6 +250,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## Auditing Your Generic Effective Rate Against the Guarantee
 
+**Display Title:** Auditing Your Generic Effective Rate Against the Guarantee
+**SEO Title (AEO):** How Do You Audit a Generic Effective Rate (GER) Against the PBM Guarantee? (Three Passes)
+**SEO Subtitle:** Three audit passes plan sponsors can run to verify actual GER against the contracted guarantee and find the remediation trigger
+
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 16, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
@@ -256,9 +267,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**To audit your generic effective rate against the PBM guarantee, run three passes: pull the actual GER from your claims data and confirm the formula matches the contract's GER methodology clause, calculate the gap between actual GER and the guaranteed rate, and check the exclusion list against your top generic claims, because a miss against the guarantee triggers the contract's remediation clause only once the plan sponsor calculates the comparison.**
+
 This morning's LinkedIn post decoded the five terms PBMs use to define the generic effective rate (GER): GER calculation methodology, exclusion list, multi-source vs. single-source generic treatment, MAC list update frequency, and remediation language. Today is the operational follow-on. You have the vocabulary. Here is how to audit your plan's actual GER against the contracted guarantee.
 
-We run GER audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+We run GER audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: pull the actual GER from your claims data**
 
@@ -270,7 +283,7 @@ If the report's GER number is calculated differently than the contract methodolo
 
 Your contract names a GER guarantee. Calculate the gap between actual GER and guarantee. If actual is meeting or exceeding guarantee, document and move on. If actual is below guarantee, the contract typically requires remediation. Many PBMs do not flag GER misses on their own; the plan sponsor has to find the gap.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: GER guarantee misses go unreconciled on most plans because the plan sponsor never calculates the comparison. The remediation clause is in the contract; the trigger is the audit.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: GER guarantee misses go unreconciled on most plans because the plan sponsor never calculates the comparison. The remediation clause is in the contract; the trigger is the audit.
 
 **Pass three: audit the exclusion list**
 
@@ -279,6 +292,8 @@ Open the GER methodology clause and find the exclusion list — drugs or categor
 Compare the exclusion list to your top 25 generic claims. If high-volume generics are sitting in the exclusion list, the contracted GER guarantee applies to a smaller and smaller portion of your actual generic spend over time. The drift is usually invisible until audited.
 
 **What to do this quarter**
+
+Run the three passes with our [Generic Effective Rate (GER) Audit Worksheet](https://www.rxbs.org/toolkit/ger-audit), the printable companion to this field note.
 
 > **Pull the GER calculation methodology clause and the actual GER from your quarterly report.** Verify the formulas match.
 > **Calculate the gap between actual GER and guarantee.** Document any miss with the date range and dollar magnitude.
@@ -297,6 +312,7 @@ The decoded vocabulary tells you how GER is supposed to work. The audit tells yo
 ### Field Note Meta
 
 **SEO Title:** Auditing Your Generic Effective Rate Against the Guarantee | Benefit Blind Spots
+**SEO Title (AEO):** How Do You Audit a Generic Effective Rate (GER) Against the PBM Guarantee? (Three Passes)
 **SEO URL Slug:** audit-generic-effective-rate-guarantee
 **Meta Description:** Five GER terms decoded this morning. Three audit passes plan sponsors can run on the contract's GER methodology, the pattern PBS sees most often, and the remediation lever.
 **Tags:** generic effective rate, GER guarantee, AWP discount, MAC list, PBM contracts, exclusion list, self-funded employers

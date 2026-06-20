@@ -66,6 +66,10 @@ _Substack Notes (3/day) schedule straight down PART 4 in day order. Launch tease
 
 ## Renewal Readiness: The Assessment That Determines Your Negotiating Position
 
+**Display Title:** Renewal Readiness: The Assessment That Determines Your Negotiating Position
+**SEO Title (AEO):** How Do You Know If You Are Ready for a PBM Renewal? (15-Factor Readiness Scorecard)
+**SEO Subtitle:** Fifteen factors across five categories on a 75-point scale, plus a three-step prioritization for employers who are behind
+
 **Subtitle:** Fifteen factors across five categories on a 75-point scale, plus a three-step prioritization for employers who are behind
 
 **Publication:** Benefit Blind Spots
@@ -78,11 +82,13 @@ _Substack Notes (3/day) schedule straight down PART 4 in day order. Launch tease
 
 ### Article Body
 
+**You know you are ready for a PBM renewal when you can score 50 or higher on a 15-factor readiness assessment across five categories (data and benchmarking, contract analysis, market evaluation, clinical program assessment, and negotiation preparation), each factor rated 1 to 5 for 75 points total, because a score above 50 means you can negotiate from your own data rather than reacting to the PBM's summary report.**
+
 We have spent 13 weeks building toward this moment. Foundational knowledge. Assessment tools. Negotiation preparation. The employers who worked through this content, whether with their broker or on their own, have a fundamentally different position than those arriving at renewal with the PBM's summary report as their only reference point.
 
 This week ties it all together.
 
-Every tool we published this quarter, the 90-day timeline, the formulary audit, the PBM scorecard, the network model, the rebate framework, the RFP question bank, the clinical program evaluation, the communication templates, the specialty assessment, the negotiation checklist, the contract language library, was designed for one purpose: to put the employer in a position to negotiate from data rather than reaction.
+Every tool Prescription Benefit Solutions published this quarter, the 90-day timeline, the formulary audit, the PBM scorecard, the network model, the rebate framework, the RFP question bank, the clinical program evaluation, the communication templates, the specialty assessment, the negotiation checklist, the [contract language library](https://www.rxbs.org/contract-language-library), was designed for one purpose: to put the employer in a position to negotiate from data rather than reaction.
 
 The question now is whether you are ready. This scorecard answers that question with specificity.
 
@@ -288,6 +294,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## The First Meeting with Your PBM at Renewal: What to Bring and What to Ask
 
+**Display Title:** The First Meeting with Your PBM at Renewal: What to Bring and What to Ask
+**SEO Title (AEO):** What Should You Bring to the First PBM Renewal Meeting? (And What to Ask)
+**SEO Subtitle:** The four documents to walk in with, the four questions to ask, and the three things not to do in the first renewal meeting
+
 **Publish:** Thursday, September 17, 2026 at 7:30 AM EST
 **Length:** ~450 words
 **Pillar:** Self-Funded Employer Guidance
@@ -295,6 +305,8 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 ---
 
 ### Field Note Body
+
+**Bring four things to the first PBM renewal meeting: your independent claims analysis (five core metrics from your own data), your term sheet of specific provisions to change with proposed language, your market benchmarks, and your readiness scorecard, then use the meeting to gather information rather than to negotiate.**
 
 The first renewal meeting with your PBM sets the tone for the entire negotiation. Walk in prepared, and the PBM knows they are dealing with an informed buyer. Walk in without preparation, and the PBM controls the conversation.
 
@@ -325,6 +337,8 @@ Do not negotiate in the first meeting. The first meeting is for information exch
 Do not reveal your walk-away point. The PBM does not need to know your BATNA in the first meeting. That information is for your internal team and your broker.
 
 Do not accept preliminary terms verbally. Everything should be in writing. Verbal agreements in renewal meetings create ambiguity that favors the party with more leverage, which is usually the PBM.
+
+To walk in with all four documents organized, Prescription Benefit Solutions built a [Pre-Meeting Renewal Checklist](https://www.rxbs.org/toolkit/pre-meeting-renewal-checklist) that lays out exactly what to bring and what to ask.
 
 Your broker should be in this meeting. Their market knowledge and negotiation experience add a dimension the employer alone does not have.
 
