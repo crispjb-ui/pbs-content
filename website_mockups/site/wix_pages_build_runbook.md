@@ -1,5 +1,7 @@
 # Wix Build Runbook — New AEO Pages (priority order)
 
+> **Governed by `website_aeo_master_plan.md` (the single source of truth for plan + priority).** This runbook is the per-page click-by-click for Phase 2 of that plan. Build Phase 0 (the master template) FIRST per the master plan, then use this for each page.
+
 _Created Jun 20, 2026. Step-by-step to build the new owned-domain answer pages in Wix, in the order that delivers the most AI-search (AEO/GEO) value per hour. Each page's content + exact structured data lives in the matching blueprint HTML in `website_mockups/site/`. Build top to bottom; you can stop after any page and the site is still coherent._
 
 ## The pages, in priority order
