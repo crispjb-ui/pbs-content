@@ -14,6 +14,24 @@
 
 ---
 
+## Per-platform packaging + two-length cuts (added Jun 20, 2026)
+Applies to ALL 7 clips. **Cut once, wrap per platform; do NOT make a separate edit per platform.**
+- **Master + two lengths:** each clip's locked in/out (~20-40s) IS the **short cut** and serves Shorts (~15-30s), TikTok (~21-34s), Instagram Reels (7-30s), Facebook Reels, AND LinkedIn (30s is fine there). Where a moment has adjacent context worth keeping, also render a **long cut ~60-90s** for LinkedIn; otherwise the short cut covers LinkedIn too. Render every clip **9:16** (the universal short-form master) plus **4:5** for the LinkedIn feed, per each clip's aspect note.
+- **Clean export, NO competitor watermark** (a TikTok watermark suppresses the clip on Shorts/Reels).
+- **Per-platform wrapper (same clip, different packaging at publish):**
+
+  | Platform | Cut | Title / caption | Link | Extras |
+  |---|---|---|---|---|
+  | LinkedIn | short or long | professional confrontation hook + 3 hashtags | first comment → the clip's toolkit | native upload from Ginny's profile; post first (LinkedIn-first rule) |
+  | YouTube Shorts | short (<60s) | keyword SEARCH title (buyer question, e.g. "What is spread pricing?") | end-card → Subscribe + pinned-comment link | seamless loop |
+  | TikTok | short | FYP-native caption + on-screen keywords; 3-5 hashtags | bio link | optional trending audio (within 24h) |
+  | Instagram Reels | short | keyword caption | bio link | save-bait frame (the decoded payload) |
+  | Facebook Reels | short | short caption | caption / Story | repost of the same master |
+
+- **Status:** LinkedIn is the live channel today (the Wednesday slot, below). Shorts/TikTok/Instagram/Facebook are queued until those accounts go live; these wrappers are ready so the 7 clips ship multi-platform the day the accounts exist. The per-clip caption + CTA below is the LinkedIn version; tailor the wrapper per the table. Substance and voice are identical across all platforms.
+
+---
+
 ## Clip 1 — "They keep the difference" (spread pricing decoded)
 - **Shape:** Decoder + named-adversary (evergreen — applies to every drug, not just GLP-1)
 - **Aspect / platform:** 4:5 → LinkedIn (primary); also render 9:16 for Reels/Shorts/TikTok

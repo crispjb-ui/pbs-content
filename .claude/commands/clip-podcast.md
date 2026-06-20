@@ -22,10 +22,20 @@ Scan for moments matching PBS's highest-performing shapes (see `linkedin_perform
 Pick the 3-5 strongest **self-contained 20-60s** moments. No mid-thought cuts; each must stand alone.
 
 ## Step 3 — Spec each clip
-For each: clip #, in/out timestamps, the verbatim quote, the shape it hits, target platform + aspect (**9:16** Shorts/Reels/TikTok or **4:5** LinkedIn/X feed), an **on-screen hook/title** (first 3 words must stop the scroll), a burned-in-caption note (social autoplays muted — captions are mandatory), and the PBS brand treatment per `social_clips/remotion_pbs_caption_template_spec.md`. Keep Ginny centered in the reframe.
 
-## Step 4 — Post copy (per clip, per platform)
-The caption in PBS voice (confrontational/decoder hook), 3 hashtags (CLAUDE.md pillar rule), and the **funnel CTA** (first comment → a relevant toolkit at `rxbs.org/toolkit/…`). X: link in first reply, 0-1 hashtags. Wrap all paste-ready copy in fenced code blocks (paste-clean convention).
+**One master → two cut lengths → per-platform wrapper (do NOT make a separate edit per platform).** Cut ONE clean master per moment (9:16, burned-in captions, NO competitor watermark). Spec **two lengths** from it: a **short cut ~20-30s** for Shorts (~15-30s) / TikTok (~21-34s) / Instagram Reels (7-30s) / Facebook Reels, and, when the moment supports it, a **long cut ~60-90s** for LinkedIn (its dwell sweet spot). Same footage, same message; only the trim, the length, and the wrapper differ. For Shorts, favor a seamless loop end.
+
+For each: clip #, in/out timestamps, the verbatim quote, the shape it hits, target platform + aspect (**9:16** Shorts/Reels/TikTok or **4:5** LinkedIn/X feed), an **on-screen hook/title** (first 3 words must stop the scroll), a burned-in-caption note (social autoplays muted, captions are mandatory), and the PBS brand treatment per `social_clips/remotion_pbs_caption_template_spec.md`. Keep Ginny centered in the reframe.
+
+## Step 4 — Post copy + per-platform wrapper (the differentiation lives HERE, not in the edit)
+The caption in PBS voice (confrontational/decoder hook) + the **funnel CTA**, wrapped per platform (all paste-ready in fenced code blocks):
+- **LinkedIn:** native 9:16 upload (long cut), professional confrontation hook, **link in the first comment**, 3 hashtags (CLAUDE.md pillar rule). Post first per the LinkedIn-first rule.
+- **YouTube Shorts:** short cut, a **keyword SEARCH title** matching a buyer question (it's YouTube search), **end-card → Subscribe + link in the pinned comment**, seamless loop, <60s.
+- **TikTok:** short cut, FYP-native caption + on-screen keywords, **link in bio**, 3-5 hashtags, optional trending audio within 24h.
+- **Instagram Reels:** short cut, keyword caption, **link in bio**, a save-bait frame (the decoded payload).
+- **Facebook Reels:** short cut, repost of the same master.
+- **X:** link in the first reply, 0-1 hashtags.
+**Clean no-watermark export** (a TikTok/competitor watermark suppresses the clip on Shorts/Reels). Same message everywhere; only the wrapper changes.
 
 ## Step 5 — Output (markdown plan + JSON manifest) + commit
 Write TWO files to `social_clips/`:

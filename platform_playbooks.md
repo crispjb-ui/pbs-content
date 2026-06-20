@@ -110,6 +110,8 @@ Pinterest, Snapchat, and consumer-only surfaces are out of scope for now (wrong 
 ## Cross-platform clip rule (the video pipeline)
 One captioned 9:16 clip can feed **LinkedIn (native, Wed slot) → YouTube Shorts (keyword title, end-card) → TikTok (native hook, bio link) → Instagram Reels → Facebook Reels (repost)**, cut from the full episode on **YouTube (long-form)**. Build it once via `/clip-podcast`, then tailor per-platform per the sections above (LinkedIn first per the LinkedIn-first rule). The clip pipeline lives in `social_clips/` + the `clip-podcast` skill.
 
+**One master → two cut lengths → per-platform wrapper (do NOT re-edit per platform).** Cut ONE clean master per moment (9:16, captions, NO competitor watermark). Make **two lengths**: a **short cut ~20-30s** (Shorts ~15-30s / TikTok ~21-34s / Instagram 7-30s / Facebook) and, when the moment supports it, a **long cut ~60-90s** for LinkedIn. The cut difference is just length; the rest is the **wrapper at publish** (per-platform title/keywords, link placement, hashtags, audio, Shorts loop + end-card). The substance/voice is identical everywhere. Same rule for scripted videos: one concept, written to the short + long lengths from the start.
+
 ---
 
 ## Changelog
