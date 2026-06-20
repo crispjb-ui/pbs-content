@@ -73,7 +73,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ## The PBM RFP: What to Ask and What the Answers Actually Mean
 
-**Subtitle:** 30 questions organized by category with answer scoring rubrics that reveal what PBM responses actually mean
+**Display Title:** The PBM RFP: What to Ask and What the Answers Actually Mean
+**SEO Title (AEO):** What Questions Should a Self-Funded Employer Ask in a PBM RFP? (30 Questions With Scoring)
+**SEO Subtitle:** 30 questions organized by category with answer scoring rubrics that reveal what PBM responses actually mean
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, August 3, 2026 at 7:30 AM EST
@@ -84,6 +86,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 ---
 
 ### Article Body
+
+**A PBM RFP should ask 30 specificity-forcing questions across six categories (pricing and guarantees, rebate structure, clinical programs, reporting and transparency, contract terms, and implementation), each scored 0 to 3 on a 90-point rubric, because a standard RFP lets every PBM answer vague questions with impressive-sounding but uncommitting language, so the response that looks cheapest can be the most expensive once the pricing methodologies are normalized.**
 
 A client's broker brought us in to evaluate three PBM RFP responses. On paper, all three looked competitive. The pricing spreads were narrow. The guarantees were similar. The clinical programs sounded comparable.
 
@@ -101,7 +105,7 @@ The problem is not that employers ask bad questions. It is that the questions do
 
 **The RFP question bank**
 
-I built this question bank over years of evaluating PBM proposals with clients. Thirty questions organized in six categories. Each question includes four elements: why it matters, what a good answer looks like, what a red flag answer looks like, and a follow-up question to ask if the initial answer is vague.
+I built this question bank at Prescription Benefit Solutions over years of evaluating PBM proposals with clients. Thirty questions organized in six categories. Each question includes four elements: why it matters, what a good answer looks like, what a red flag answer looks like, and a follow-up question to ask if the initial answer is vague.
 
 The scoring rubric (0-3 per question) produces a 90-point evaluation that normalizes responses across PBMs.
 
@@ -183,7 +187,7 @@ Each question scored 0-3:
 
 Total: 90 points possible. Below 50: significant concerns. 50-70: competitive but gaps exist. Above 70: strong response.
 
-The full 30-question bank with all scoring details is in this article. Your broker can use it alongside their standard RFP template to add a layer of specificity that standard templates lack.
+The full 30-question bank with all scoring details is in this article. Your broker can use it alongside their standard RFP template to add a layer of specificity that standard templates lack. For how the same specificity carries into the contract once a PBM is selected, see our [PBM contract audit guide](https://www.rxbs.org/guides/pbm-contract-audit).
 
 Have you evaluated PBM proposals using a structured scoring rubric? If you have a question you always ask that is not on this list, I would love to hear it. Leave a comment below.
 
@@ -246,6 +250,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## Auditing Your PBM's Annual Disclosure Obligations
 
+**Display Title:** Auditing Your PBM's Annual Disclosure Obligations
+**SEO Title (AEO):** What Disclosures Does a PBM Owe a Self-Funded Plan? (Auditing Disclosure Obligations)
+**SEO Subtitle:** Three audit passes to check whether your PBM has delivered the disclosures the contract requires
+
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 6, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
@@ -259,15 +267,17 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**A PBM's annual disclosure obligations are the rebate-flow attestations, conflict-of-interest and data-partnership disclosures, audit-results delivery, and material-change notices the contract requires it to hand over, and a self-funded plan audits them by listing every obligation by cadence from the contract, cataloging what it actually received over the past 12 months, and sending a written request for the missed items, because most contracts require at least four disclosures while plan sponsors usually receive only one.**
+
 This morning's LinkedIn post decoded the five disclosure obligations PBMs typically include in their contracts: rebate-flow attestation, conflict-of-interest disclosure, data-partnership disclosure, audit-results delivery, and material-change notice. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether your PBM has actually delivered the disclosures the contract obligates them to provide.
 
-We run disclosure audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+We run disclosure audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: pull the contract's disclosure clause and list every obligation by cadence**
 
 Open your contract. Find the disclosure clause (sometimes a single clause, sometimes scattered across reporting, audit, and conflicts sections). For each disclosure obligation, document: what the PBM must disclose, to whom, on what cadence (annual, quarterly, on-event), and in what format.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most contracts have at least four required disclosures, but plan sponsors typically receive only one (the standard quarterly report). The other three are obligations the PBM has but rarely fulfills proactively.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: most contracts have at least four required disclosures, but plan sponsors typically receive only one (the standard quarterly report). The other three are obligations the PBM has but rarely fulfills proactively.
 
 **Pass two: collect what you've actually received in the past 12 months**
 
@@ -287,7 +297,7 @@ The PBM's response itself is informative. A PBM operating with disclosure transp
 > **Compare to what you received this year.** Identify gaps.
 > **Send a written request for the gap items.** Document responses.
 
-The decoded vocabulary tells you what the PBM owes you. The audit tells you what they have actually delivered. The gap is your renewal-leverage item.
+The decoded vocabulary tells you what the PBM owes you. The audit tells you what they have actually delivered. The gap is your renewal-leverage item. The printable [PBM Disclosure Audit Worksheet](https://www.rxbs.org/toolkit/pbm-disclosure-audit) walks all three passes so you can run them with your broker.
 
 ---
 

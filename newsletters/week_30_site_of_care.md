@@ -72,7 +72,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ## Site-of-Care Optimization: The Cost Lever Most Plans Ignore
 
-**Subtitle:** A therapeutic-category decision tree for evaluating where drugs should be administered, with clinical and financial criteria for each setting
+**Display Title:** Site-of-Care Optimization: The Cost Lever Most Plans Ignore
+**SEO Title (AEO):** What Is Site-of-Care Optimization, and How Much Can It Save a Self-Funded Plan?
+**SEO Subtitle:** A therapeutic-category decision tree for evaluating where drugs should be administered, with clinical and financial criteria for each setting
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, July 27, 2026 at 7:30 AM EST
@@ -84,7 +86,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
-We helped a client implement one site-of-care policy change on a single drug category last year. The savings exceeded their entire annual PBM management fee. One policy. One drug class. That is how much the administration setting matters.
+**Site-of-care optimization is the practice of moving a provider-administered drug (an infusion or clinic-given injection) to the lowest-cost clinically appropriate setting, because the same drug at the same dose can cost the plan multiples more in a hospital outpatient department than in an ambulatory infusion center or the member's home, where the facility fees disappear and the clinical outcome stays the same.**
+
+At Prescription Benefit Solutions, we helped a client implement one site-of-care policy change on a single drug category last year. The savings exceeded their entire annual PBM management fee. One policy. One drug class. That is how much the administration setting matters.
 
 The drug was an infusion biologic for a rheumatologic condition. Members were receiving infusions at hospital outpatient departments because that was the default setting in the provider network. Nobody had questioned it. The same drug, same dose, same clinical protocol could be administered at an ambulatory infusion center or through home infusion at a fraction of the hospital outpatient cost. The clinical outcome was identical. The cost difference was not.
 
@@ -146,7 +150,7 @@ If answers 1, 3, and 5 are yes, answer 2 is no, and answer 4 shows a meaningful 
 
 Site-of-care optimization crosses the pharmacy/medical benefit boundary. The drug may be covered under pharmacy. The administration is covered under medical. Changing the site of care requires coordination between the PBM, the medical plan administrator, the prescribing physician, the infusion provider, and the member.
 
-Your broker can help coordinate this across vendors. The best brokers are already flagging site-of-care opportunities in claims reviews. The contract provisions that enable site-of-care steering (preferred network designation, tiered cost-sharing by setting, medical necessity criteria for hospital outpatient) should be part of your PBM and medical plan contract language.
+Your broker can help coordinate this across vendors. The best brokers are already flagging site-of-care opportunities in claims reviews. The contract provisions that enable site-of-care steering (preferred network designation, tiered cost-sharing by setting, medical necessity criteria for hospital outpatient) should be part of your PBM and medical plan contract language. The protective versions of the specialty-routing and site-of-care provisions are documented in our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library).
 
 Have you evaluated site-of-care for your plan's infusion therapies? If you have implemented a policy, I would love to hear how it went. Leave a comment below.
 
@@ -214,6 +218,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## Auditing Your Coordination of Benefits Claims
 
+**Display Title:** Auditing Your Coordination of Benefits Claims
+**SEO Title (AEO):** How Does Coordination of Benefits Work in a Pharmacy Plan? (Auditing COB Claims)
+**SEO Subtitle:** Three audit passes plan sponsors can run on COB-flagged claims vs. the contract's COB clause
+
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 30, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
@@ -227,9 +235,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**Coordination of benefits (COB) is the set of rules that decide how a pharmacy claim is settled when a member has more than one coverage source (a spouse's plan, Medicare, or active manufacturer copay assistance), and a self-funded plan audits it by pulling a COB-flagged claims sample, classifying each claim by coordination type, and comparing the actual outcomes to the COB clause written in the contract, because that is where copay-accumulator and copay-maximizer economics live or die.**
+
 This morning's LinkedIn post decoded the five COB terms PBMs use most often when claims interact across multiple coverage sources: primary-secondary determination, member responsibility carve-out, Medicare-as-secondary handling, copay assistance crediting, and double-dipping prevention language. Today is the operational follow-on. You have the vocabulary. Here is how to audit how COB executes on your plan's claims.
 
-We run COB audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+We run COB audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: pull the COB-flagged claims sample**
 
@@ -241,7 +251,7 @@ If your PBM cannot produce a COB-flagged sample, that is the first finding. The 
 
 For each COB-flagged claim, classify the coordination type: primary-secondary, Medicare-as-secondary, manufacturer copay card crediting, or member-billed-separately. Calculate the share by type.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the manufacturer copay card crediting category is rarely flagged correctly. Copay accumulator and copay maximizer programs depend on accurate flagging at the claim level; if the flag is missing or wrong, the program does not capture the manufacturer dollars correctly.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: the manufacturer copay card crediting category is rarely flagged correctly. Copay accumulator and copay maximizer programs depend on accurate flagging at the claim level; if the flag is missing or wrong, the program does not capture the manufacturer dollars correctly.
 
 **Pass three: compare COB outcomes to the contract**
 
@@ -255,7 +265,7 @@ Compare the contract rules to the actual claim outcomes from Pass two. If the co
 > **Open your contract's COB clause.** Compare rules to actual outcomes.
 > **Bring discrepancies to your broker.** COB workflow drift is a renewal-leverage item and an audit-rights item.
 
-The decoded vocabulary tells you the COB rules. The audit tells you how COB actually executes. The gap is where copay-program economics live or die.
+The decoded vocabulary tells you the COB rules. The audit tells you how COB actually executes. The gap is where copay-program economics live or die. The printable [Coordination of Benefits Audit Worksheet](https://www.rxbs.org/toolkit/cob-audit) lays out all three passes so you can run them with your broker.
 
 ---
 

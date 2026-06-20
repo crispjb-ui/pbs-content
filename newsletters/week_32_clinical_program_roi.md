@@ -84,6 +84,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
+**To verify a PBM's clinical program savings, request the specific savings methodology and a reproducible sample calculation for each program, then score every program on clinical appropriateness, financial methodology, member experience, and independent verifiability; a PBM that cannot show the math is reporting a marketing number, not a verified dollar saved.**
+
 A PBM presented a client with a report showing $4.2 million in "clinical savings" from six programs. The client was impressed. I was skeptical. When we audited the methodology, the verified savings were a fraction of that number. The PBM's calculation counted avoided costs that were never going to occur and credited formulary-driven savings to clinical intervention programs that had nothing to do with the outcome.
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.*
@@ -92,7 +94,7 @@ I share this not to dismiss PBM clinical programs. Some are genuinely valuable. 
 
 The problem is measurement. PBMs report savings using methodologies they designed, applied to their own data, with no independent verification. The employer sees a headline number. The methodology behind that number is rarely shared. And when it is shared, the assumptions often do not hold up under scrutiny.
 
-As a pharmacist, I believe in clinical programs. As a consultant who reviews hundreds of contracts a year, I believe in verifying the numbers.
+As a pharmacist, I believe in clinical programs. As a consultant who reviews hundreds of contracts a year, I believe in verifying the numbers. At Prescription Benefit Solutions, this verification work is a standard part of how our firm audits a plan's pharmacy spend.
 
 **Six programs, six methodologies, six questions**
 
@@ -162,7 +164,7 @@ For each of the six programs, score on four dimensions (1-5 each):
 
 For each program, request: the specific savings methodology with a sample calculation, the raw data behind the savings claim (not just the summary), the intervention rate (what percentage of eligible members were actually affected), and the outcome rate (of those affected, what percentage had a measurable result).
 
-Your broker or consultant can help interpret the data. The best advisory teams are already requesting this level of detail. If yours has not, share this scorecard with them.
+Your broker or consultant can help interpret the data. The best advisory teams are already requesting this level of detail. If yours has not, share this scorecard with them. For how this clinical-program verification fits inside a full contract audit, see our guide at [www.rxbs.org/guides/pbm-contract-audit](https://www.rxbs.org/guides/pbm-contract-audit).
 
 Have you audited your PBM's clinical program savings? Leave a comment below.
 
@@ -196,6 +198,9 @@ _Embedded One Number visual for this deep dive, repurposed from the former Thurs
 
 ### Article Meta
 
+**Display Title:** Clinical Program ROI: Measuring What Your PBM Claims to Deliver
+**SEO Title (AEO):** How Do You Verify Your PBM's Clinical Program Savings? (Clinical Program ROI Audit)
+**SEO Subtitle:** A six-program evaluation scorecard with verification methodology that separates real savings from reported savings
 **SEO Title:** Clinical Program ROI: 6-Program Evaluation Scorecard | Benefit Blind Spots
 **SEO URL Slug:** clinical-program-roi-evaluation-scorecard
 **Meta Description:** Your PBM reports millions in clinical savings. A six-program scorecard with verification methodology separates real savings from inflated numbers.
@@ -235,13 +240,19 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Pairs with:** Thursday LinkedIn "5 Fiduciary Terms Decoded" Index Cards messy infographic. LinkedIn post decodes the ERISA fiduciary vocabulary; Field Note is the operational follow-on for auditing whether your plan's actual decision-making process satisfies the prudent-process standard.
 **Why this pairing (not the displaced "Step Therapy Protocols" draft):** Architecture B triple-distinct topic rule — Monday W32 is Clinical Program ROI; Thursday is ERISA Fiduciary Compliance (your personal exposure as a plan fiduciary, separate from clinical program design). Adjacent within plan-sponsor concern but different subject matter (clinical ROI measurement vs. fiduciary process documentation). Original "Step Therapy Protocols" Field Note parked as FN-15.
 
+**Display Title:** Auditing Your Fiduciary Compliance Against the Contract
+**SEO Title (AEO):** How Do You Audit ERISA Fiduciary Compliance for a Self-Funded Pharmacy Plan?
+**SEO Subtitle:** Three audit passes that turn the ERISA fiduciary vocabulary into a documented prudent-process file
+
 ---
 
 ### Field Note Body
 
+**To audit ERISA fiduciary compliance on a self-funded pharmacy plan, build a 12-month log of every pharmacy benefit decision, apply the prudent-process test to each (was the alternative considered, the data assessed, the conflict documented), and catalog every PBM conflict of interest with your inquiry record; the prudent-process standard requires a documented process, not an optimal outcome.**
+
 This morning's LinkedIn post decoded the five ERISA fiduciary terms most plan sponsors interact with regularly: fiduciary, prudent process, plan assets, conflict of interest, and co-fiduciary liability. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether your plan's actual decision-making satisfies the prudent-process standard.
 
-We help plan sponsors document fiduciary compliance as a standard part of our work at PBS. Three comparison passes do most of the work.
+At Prescription Benefit Solutions, we help plan sponsors document fiduciary compliance as a standard part of our work. Three comparison passes do most of the work. The full protective contract language sits in our free [PBM Contract Language Library](https://www.rxbs.org/contract-language-library).
 
 **Pass one: identify every pharmacy benefit decision in the past 12 months**
 
@@ -253,7 +264,7 @@ For each decision, document the date, the deciders, and the documentation that s
 
 The prudent-process standard does not require optimal outcomes. It requires a reasonable, documented decision-making process. For each decision in your list, ask: was the alternative considered? Was the data assessed? Was the conflict-of-interest landscape documented?
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: most plan sponsors have decisions, but few have decision documentation that would survive a fiduciary audit. The decision happened; the prudent-process record did not.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: most plan sponsors have decisions, but few have decision documentation that would survive a fiduciary audit. The decision happened; the prudent-process record did not.
 
 **Pass three: catalog conflict-of-interest disclosures and co-fiduciary exposure**
 

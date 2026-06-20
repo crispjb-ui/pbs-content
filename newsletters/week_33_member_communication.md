@@ -87,7 +87,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ### Article Body
 
-We helped two employers implement the same biosimilar transition program within months of each other. Same clinical rationale, same formulary change, same PBM. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. The difference was not the pharmacy strategy. It was the communication strategy.
+**To communicate a pharmacy benefit change well, notify prescribers first (60 days out), then members with a specific letter that names the drug and confirms their doctor knows (45-60 days out), then brief the call center (30 days out), and use plain reassuring language ("FDA-approved," "your doctor has been informed," "same or lower copay") rather than cost-savings framing; the variable that decides whether a change lands smoothly is timing, specificity, and coordination, not the clinical decision.**
+
+At Prescription Benefit Solutions, we helped two employers implement the same biosimilar transition program within months of each other. Same clinical rationale, same formulary change, same PBM. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. The difference was not the pharmacy strategy. It was the communication strategy.
 
 The first employer treated communication as an afterthought. Members received a generic formulary change letter 14 days before the switch. Prescribers were not notified. The call center was not briefed on the specific change. Members called their doctor. The doctor did not know. Both called the benefits team. The complaints escalated.
 
@@ -173,7 +175,7 @@ A pharmacy is removed from the network or the network is narrowed.
 
 For each scenario, the sequence is: provider communication first (60 days), member communication second (45-60 days), call center briefing third (30 days), and follow-up communication (7-10 days before effective date). This sequence ensures the provider knows before the member calls them, the member has time to ask questions, and the call center has specific answers.
 
-Your broker can help coordinate the timing and review the messaging. The best advisory teams treat communication as a deliverable in the implementation plan, not an afterthought.
+Your broker can help coordinate the timing and review the messaging. The best advisory teams treat communication as a deliverable in the implementation plan, not an afterthought. For the contract language that obligates the PBM to support these transitions, see our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library).
 
 Have you implemented a pharmacy change where the communication made or broke the outcome? Leave a comment below.
 
@@ -205,6 +207,9 @@ _Embedded coordination-sequence visual for this deep dive, repurposed from the f
 
 ### Article Meta
 
+**Display Title:** Communicating Pharmacy Changes: Why Good Strategy Fails Without Good Messaging
+**SEO Title (AEO):** How Should an Employer Communicate a Pharmacy Benefit Change to Members?
+**SEO Subtitle:** Five pharmacy change scenarios with complete messaging frameworks: member letters, FAQs, provider outreach, and language to avoid
 **SEO Title:** Communicating Pharmacy Changes: 5 Scenario Templates | Benefit Blind Spots
 **SEO URL Slug:** communicating-pharmacy-benefit-changes-templates
 **Meta Description:** The best pharmacy strategy fails without the right messaging. Five scenario templates with member letters, FAQs, provider outreach, and language to avoid.
@@ -243,13 +248,19 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Pairs with:** Thursday LinkedIn "5 Member Transition Disruption Terms Decoded" Marked-Up Plan Document Page messy infographic. LinkedIn post decodes the transition-clause vocabulary; Field Note is the operational follow-on for auditing whether the contract's transition language actually protects members during change events.
 **Why this pairing (not the displaced "Provider Communication" draft):** Architecture B triple-distinct topic rule — Monday W33 is Member Communication (the messaging strategy and playbook); Thursday is Member Transition Disruption Clauses (the contract language that governs member experience during PBM transitions, formulary changes, and benefit modifications). Adjacent within plan-sponsor concern, different subject matter (communication strategy vs. contractual transition protections). Original "Provider Communication" Field Note parked as FN-16.
 
+**Display Title:** Auditing Your Member Transition Disruption Clauses
+**SEO Title (AEO):** What Contract Clauses Protect Members During a PBM or Formulary Transition?
+**SEO Subtitle:** Three audit passes that test whether your contract's transition protections were actually delivered
+
 ---
 
 ### Field Note Body
 
+**To audit whether your PBM contract protects members during a transition, log every member-affecting change in the past 12 months, compare each against the contract's continuity-of-care period, transition supply, notification cadence, and prior-authorization grandfathering, then catalog the gap; the transition clauses are in most contracts but rarely audited, so members report disruption while the plan sponsor assumes the PBM is following language it is not.**
+
 This morning's LinkedIn post decoded the five clauses that govern member transitions: continuity-of-care language, transition supply provision, formulary-change member-notification requirement, prior-authorization grandfathering, and benefit-modification ratification standard. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether the contract's transition language actually protects members during change events.
 
-We help plan sponsors document transition compliance as a standard part of our work at PBS. Three comparison passes do most of the work.
+At Prescription Benefit Solutions, we help plan sponsors document transition compliance as a standard part of our work. Three comparison passes do most of the work. The companion [Member Transition Audit Worksheet](https://www.rxbs.org/toolkit/member-transition-audit) walks the same three passes line by line.
 
 **Pass one: identify every transition event in the past 12 months**
 
@@ -263,7 +274,7 @@ Open your contract's transition clauses. Note the protections: how many days of 
 
 For each transition event from Pass one, audit whether the contract's protections were actually delivered. Did members on affected drugs receive the contractual continuity-of-care period? Was the transition supply provisioned? Did notifications hit the contractual cadence? Were existing PAs grandfathered?
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the transition clauses are in most contracts but rarely audited. Members report disruption; the plan sponsor assumes the PBM is following the contract; the PBM is following its operational playbook, which may or may not match the contract.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: the transition clauses are in most contracts but rarely audited. Members report disruption; the plan sponsor assumes the PBM is following the contract; the PBM is following its operational playbook, which may or may not match the contract.
 
 **Pass three: catalog the gap**
 

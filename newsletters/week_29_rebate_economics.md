@@ -69,7 +69,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ## Rebate Economics: What Your PBM's Rebate Report Is Not Showing You
 
-**Subtitle:** Eight rebate contract provisions compared: weak language that favors the PBM vs. strong language that protects your plan
+**Display Title:** Rebate Economics: What Your PBM's Rebate Report Is Not Showing You
+**SEO Title (AEO):** How Do PBM Rebates Work in a Self-Funded Plan? (Pass-Through vs. Retained Rebates Explained)
+**SEO Subtitle:** Eight rebate contract provisions compared: weak language that favors the PBM vs. strong language that protects your plan
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, July 20, 2026 at 7:30 AM EST
@@ -80,6 +82,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 ---
 
 ### Article Body
+
+**A pharmacy rebate is money a drug manufacturer pays the PBM in exchange for preferred formulary placement, and in most self-funded plans the contract definition controls how much of it reaches the plan: a "100% pass-through" PBM can define "rebate" narrowly enough that administrative fees, price protection payments, and formulary access fees fall outside the definition and stay with the PBM, which is why a rebate report can grow while the plan's net drug cost grows faster.**
 
 I sat in a renewal meeting where the PBM proudly presented year-over-year rebate growth. The client was pleased. Then I pulled up the net cost data. Total drug cost had also increased. Both numbers were accurate. The PBM was reporting a metric that made them look good while the metric that mattered to the plan was moving in the wrong direction.
 
@@ -153,7 +157,7 @@ I developed this framework because the rebate provisions in PBM contracts are th
 
 Pull your current PBM contract. Find each of these eight provisions (or note their absence). Compare your language to the weak and strong versions above. Where your contract uses weak language, you have a renewal negotiation priority. Where provisions are absent entirely, the PBM has no contractual obligation. Your broker or benefits counsel can help you draft strong language for each priority.
 
-This framework is designed as a reference document for renewal negotiations. Print it. Bring it to the meeting. Mark up your current contract against it. The comparison speaks for itself.
+This framework is designed as a reference document for renewal negotiations. Print it. Bring it to the meeting. Mark up your current contract against it. The comparison speaks for itself. The full protective language for each of these eight rebate provisions also lives in the [PBM Contract Language Library](https://www.rxbs.org/contract-language-library) published by Prescription Benefit Solutions, which we update from the patterns we see in client contract reviews.
 
 Have you compared your rebate provisions to strong language benchmarks? If you have done this analysis, I would love to hear what you found. Leave a comment below.
 
@@ -227,6 +231,10 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ## Auditing Your Pharmacy Network Configuration
 
+**Display Title:** Auditing Your Pharmacy Network Configuration
+**SEO Title (AEO):** How Do You Audit a PBM Pharmacy Network? (Three Audit Passes for Self-Funded Plans)
+**SEO Subtitle:** Three audit passes plan sponsors can run on the actual network configuration vs. contract design
+
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 23, 2026 at 7:30 AM EST
 **Length:** ~580 words (~3 min read)
@@ -240,9 +248,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**To audit a PBM pharmacy network, a self-funded plan runs three comparison passes: pull the actual fill distribution by network configuration, compare that distribution to the network design written in the contract, and test actual performance against the network guarantee clauses, with the gap between contract design and real fill behavior becoming the renewal-leverage item.**
+
 This morning's LinkedIn post decoded the five network contract terms PBMs use most often: preferred network, broad network, network guarantee, mandatory mail, and network exclusion list. Today is the operational follow-on. You have the vocabulary. Here is how to audit how the network configuration actually executes against your plan's claims.
 
-We run network audits as a standard part of our work at PBS. Three comparison passes do most of the work.
+We run network audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: pull the actual fill distribution by network configuration**
 
@@ -254,7 +264,7 @@ If the breakdown is not in the report, request it. The PBM has the data.
 
 Open your contract. Find the network membership clause and the preferred network list. Compare the contracted network design to the actual fill pattern. Common findings: preferred-network share is lower than the contract's preferred-network design suggests, indicating member out-of-network drift; mandatory-mail share is higher than expected, indicating PBM-affiliated mail volume is being captured by workflow design even when the plan didn't intend mandatory mail.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the network exclusion list grows over the contract term as pharmacies are removed for not accepting the PBM's reimbursement terms. Plan sponsors rarely receive notification of these removals, but they affect member access and aggregate plan economics.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: the network exclusion list grows over the contract term as pharmacies are removed for not accepting the PBM's reimbursement terms. Plan sponsors rarely receive notification of these removals, but they affect member access and aggregate plan economics.
 
 **Pass three: audit the network guarantee clauses**
 
@@ -268,7 +278,7 @@ Network guarantees are often subject to carve-outs (specific drug categories, sp
 > **Calculate the gap between actual network performance and the network guarantee.** Document any miss.
 > **Request the network exclusion log for the past 12 months.** Pharmacies removed from the network are signal about the PBM's reimbursement-term enforcement.
 
-The decoded vocabulary tells you the contract design. The audit tells you what the network is doing. The gap is your renewal-leverage item.
+The decoded vocabulary tells you the contract design. The audit tells you what the network is doing. The gap is your renewal-leverage item. The printable [Pharmacy Network Configuration Audit Worksheet](https://www.rxbs.org/toolkit/network-configuration-audit) walks all three passes in order so you can hand it to your broker.
 
 ---
 
