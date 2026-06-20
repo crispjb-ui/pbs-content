@@ -473,6 +473,8 @@ Week-by-week renewal preparation timeline on Substack.
 
 ### LinkedIn Newsletter First Comment
 
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
+
 Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
 
 ```
@@ -568,6 +570,8 @@ Save this before your next renewal conversation.
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
 
 ```
 The full protective termination and transition language, the exact "what to ask for" redlines for all five clauses, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
@@ -706,6 +710,8 @@ Two hours now. Different outcome in September.
 
 #### First Comment
 
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
+
 ```
 This week's Benefit Blind Spots deep dive on the 90-day renewal window is the operational follow-on: the month-by-month renewal preparation timeline. https://benefitblindspots.substack.com/p/90-day-pbm-renewal-preparation-timeline
 ```
@@ -754,6 +760,8 @@ Save this for your next RFP design meeting.
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
 
 ```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the RFP scoring methodology before sending it (weights vs. priorities, baseline normalization, scenario modeling). Plus a paste-ready RFP Scoring Methodology Audit Worksheet you can hand to your broker. https://benefitblindspots.substack.com/p/audit-pbm-rfp-scoring-methodology
@@ -816,6 +824,8 @@ Next week: who really controls your drug list, and the seven questions that reve
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
 
 ```
 Get next Monday's deep dive on Formulary Management in your inbox: benefitblindspots.substack.com

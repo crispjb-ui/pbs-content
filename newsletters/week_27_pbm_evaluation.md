@@ -512,6 +512,8 @@ PBM evaluation scorecard with the 2026 vertical-integration layer on Substack.
 
 ### LinkedIn Newsletter First Comment
 
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
+
 Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
 
 ```
@@ -658,6 +660,8 @@ We read hundreds of these contracts a year at PBS. Fully protective versions of 
 
 #### First Comment
 
+**[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
+
 ```
 Full protective language for these five clauses, plus seventeen more, lives in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
 ```
@@ -763,6 +767,8 @@ The score does not make the decision. It structures the decision so you are eval
 
 #### First Comment
 
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
+
 ```
 This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is the operational follow-on: the 10-factor PBM evaluation scorecard with stay-or-switch thresholds. [SUBSTACK MONDAY DEEP DIVE URL]
 ```
@@ -813,6 +819,8 @@ Save this for your next compensation audit.
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
 
 ```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the contract to identify which compensation mechanisms apply, estimate the dollar magnitude of each, and map the disclosure gap. Plus a paste-ready PBM Compensation Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
@@ -896,6 +904,8 @@ Next week: pharmacy network design, and the five-channel cost model that reveals
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
 
 ```
 Get next Monday's deep dive on Pharmacy Network Design in your inbox: benefitblindspots.substack.com

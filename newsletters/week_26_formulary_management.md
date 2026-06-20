@@ -458,6 +458,8 @@ Formulary decision audit on Substack.
 
 ### LinkedIn Newsletter First Comment
 
+**[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
+
 Post immediately as the first comment on the newsletter announcement above (brief topic note, deep-dive advert, direct toolkit access).
 
 ```
@@ -504,6 +506,8 @@ Save this before your next rebate-guarantee conversation.
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
 
 ```
 The full protective language for manufacturer payment categories, the redline that pulls all five back inside your pass-through definition, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
@@ -582,6 +586,8 @@ A good broker will flag where to look. The worksheet that surfaces it is in the 
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
 
 ```
 The free Channel-Pricing Audit Worksheet runs three passes (retail, mail, specialty), comparing what the pharmacy is paid against what your plan is charged, and flags the disclosure-language gap in your contract → rxbs.org/toolkit/channel-pricing
@@ -708,6 +714,8 @@ Save this for your next quarterly review.
 
 #### First Comment
 
+**[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
+
 ```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual override workflow (approval rate, denial reason mix, contract clause vs. workflow comparison). Plus a paste-ready Step Therapy Override Audit Worksheet you can hand to your broker. https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
 ```
@@ -783,6 +791,8 @@ Next week: when to stay, when to switch, and a 100-point scorecard that removes 
 ```
 
 #### First Comment
+
+**[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
 
 ```
 Get next Monday's deep dive on PBM Evaluation in your inbox: benefitblindspots.substack.com
