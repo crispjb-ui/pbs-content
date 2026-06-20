@@ -14,6 +14,13 @@ Two strategy audits (website + social) run against a "be the cited authority, no
 - **Queued (approved, not yet built):** pillar guides (`/guides/pbm-contract-audit`, `what-is-spread-pricing`), consideration/comparison pages, `CreativeWork` schema on toolkit dynamic page, **Wikidata** (Prescription Benefit Solutions + Ginny Crisp), **Substack Recommendations** outreach (Potter + aligned newsletters), off-site/community seeding.
 - **Ginny inputs still needed:** reconciled engagement count ✅ (done, see below); **Ginny + company LinkedIn URLs** for the schema `sameAs` placeholders; submit sitemap to Search Console + Bing; **Wix build** of the new pages (see runbook below); testimonials for Home/About quote cards.
 
+## ✅ DONE — wave 3 (Jun 20, 2026 — automation system)
+- **Brand/schema linter** `tools/brand_lint.py` + **brand-lint CI** (push/PR) + **Stop hook** (advisory). Enforces em-dash / bare-PBS / RXBS / JSON-LD / title on the site web surface + toolkit 2-page audit. Verified clean.
+- **GitHub-Issue notifications:** `.github/scripts/notify_issue.sh` posts every scheduled run to one rolling issue ("🔔 PBS automation log") that **@mentions + is assigned to `@crispjb`** (so it emails/pushes like the failed-Action emails). Wired into all workflows.
+- **6 new scheduled loops:** weekly-monday-brief, weekly-metrics-prompt, monthly-citation-check-reminder, monthly-aeo-page (+`/build-aeo-page`), monthly-substack-backfill (+`/backfill-substack-aeo`). (daily-first-comments was built then **removed Jun 20 per Ginny — all first-comment notifications dropped**; Monday brief no longer includes first-comments.)
+- Full cadence + guardrail: `.github/workflows/README.md`. Content loops draft to `main`; nothing auto-publishes.
+- **Ginny GitHub action still needed:** Settings → Actions → Workflow permissions → enable read/write + "Allow GitHub Actions to create and approve pull requests" (so the notifier can open the rolling issue). `ANTHROPIC_API_KEY` secret already set.
+
 ## ✅ DONE — wave 2 (Jun 20, 2026 — "do all remaining items" + Substack AEO + site cohesion)
 - **All 7 new owned answer pages built** (Wix-ready blueprints in `website_mockups/site/`): glossary, contract-language-library, what-we-are-seeing (wave 1) + **guide-pbm-contract-audit, guide-what-is-spread-pricing, guide-how-to-choose-a-pbm-auditor, compare-pbm-audit-vs-broker-review** (wave 2). All carry Article/DefinedTermSet/FAQPage + BreadcrumbList schema (27 JSON-LD blocks valid), answer-first openings, internal link graph.
 - **Substack AEO rule written** (`substack_aeo_rules.md`): 5 requirements for every article (question-shaped SEO title, answer-first sentence, outbound rxbs.org link, answer-shaped structure, entity naming). Referenced from CLAUDE.md + week_build_spec §8.

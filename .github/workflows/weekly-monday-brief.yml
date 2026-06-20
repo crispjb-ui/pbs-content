@@ -1,8 +1,8 @@
 name: Weekly Monday Brief
 
 # Runs /pipeline-health every Monday and posts a concise operational brief to the
-# rolling notifier issue: weeks built ahead, open ⚠ items, toolkits due, and this
-# week's manual first-comments/reshares. Advisory only; commits nothing.
+# rolling notifier issue: weeks built ahead, open ⚠ items, and toolkits due.
+# Advisory only; commits nothing.
 
 on:
   schedule:
@@ -30,8 +30,7 @@ jobs:
             command (.claude/commands/pipeline-health.md). Then write a concise
             Monday brief to /tmp/notify_body.md containing: (a) how many weeks are
             built ahead + the next week needing a build, (b) any ⚠ open items in
-            the next 4 weeks, (c) toolkits due to build, (d) this week's manual
-            first-comments/reshares to post (from /first-comments-today if useful).
+            the next 4 weeks, (c) toolkits due to build.
             Keep it under ~25 lines. Do not commit anything.
       - name: Notify rolling issue
         if: always()
