@@ -1,8 +1,10 @@
-name: Weekly Pre-Ship Critique
+name: Weekly Pre-Ship Critique + Auto-Fix
 
-# Runs /critique against the week about to publish and commits a dated report,
-# so quality flags surface before scheduling. Advisory only — it does not change
-# content. Mirrors the roundup/pipeline workflows; uses the same ANTHROPIC_API_KEY.
+# Runs /critique-fix against the week about to publish: diagnoses, then APPLIES
+# every resolvable fix in place and commits, leaving only genuinely-unresolvable
+# items (external URLs that don't exist yet, human-supplied data) flagged. So the
+# week is ship-clean Thursday morning without Ginny having to prompt. Still a
+# draft on main; nothing publishes. Uses the same ANTHROPIC_API_KEY.
 
 on:
   schedule:
@@ -24,36 +26,39 @@ jobs:
       - uses: actions/checkout@v4
       - id: vars
         run: echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
-      - name: Run /critique on the next week to ship
+      - name: Run /critique-fix on the next week to ship
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_args: |
-            --allowedTools "Read,Write,Glob,Grep,Bash"
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash"
           prompt: |
-            Read CLAUDE.md first. Then run the /critique slash command
-            (.claude/commands/critique.md) against the newsletter week that is
+            Read CLAUDE.md first. Then run the /critique-fix slash command
+            (.claude/commands/critique-fix.md) against the newsletter week that is
             next to publish.
 
             Determine that week: anchor W25 Monday = 2026-06-22, so
             current_week = 25 + floor((today America/New_York - 2026-06-22)/7).
-            Critique newsletters/week_<current_week>_*.md (if today is already past
+            Target newsletters/week_<current_week>_*.md (if today is already past
             that week's Monday, use current_week+1).
 
-            Write the full critique report to
+            Apply every RESOLVABLE fix in place (per the command's RESOLVABLE list)
+            and leave only UNRESOLVABLE items flagged (external URLs that don't
+            exist yet, human-supplied data). Never invent a number, URL, or source.
+            Write the report (auto-fixed / left-flagged / ship-readiness) to
             critique_reports/critique_${{ steps.vars.outputs.date_iso }}.md
-            (create the folder if needed). Do NOT edit any week file — critique is
-            advisory. Do not commit; the next step commits the report.
-      - name: Commit critique report
+            (create the folder if needed). Do not commit; the next step commits
+            the week file, any supporting files, and the report together.
+      - name: Commit auto-fixes + critique report
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git add critique_reports/ 2>/dev/null || true
-          if git diff --staged --quiet; then echo "No critique report produced."; exit 0; fi
-          git commit -m "Weekly critique report: ${{ steps.vars.outputs.date_iso }}"
+          git add -A
+          if git diff --staged --quiet; then echo "No changes produced."; exit 0; fi
+          git commit -m "Weekly critique + auto-fix: ${{ steps.vars.outputs.date_iso }}"
           git push origin HEAD:main
       - name: Notify rolling issue
         if: always()
@@ -61,7 +66,7 @@ jobs:
           GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
           bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
-          **Weekly Pre-Ship Critique** · ${{ steps.vars.outputs.date_iso }}
-          Pre-ship critique committed to critique_reports/critique_${{ steps.vars.outputs.date_iso }}.md — review flags before scheduling the week.
+          **Weekly Critique + Auto-Fix** · ${{ steps.vars.outputs.date_iso }}
+          The next week to ship was critiqued AND the resolvable fixes were applied to the week file (committed to main). See critique_reports/critique_${{ steps.vars.outputs.date_iso }}.md → the "Left flagged (needs you)" section for the only items still needing your input (e.g., an external URL that does not exist yet). Everything else is ship-clean for Thursday scheduling.
           EOF
           )"

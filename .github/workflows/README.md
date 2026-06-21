@@ -19,7 +19,7 @@ Every content-producing job ends at **drafted + critiqued + committed to `main` 
 | **brand-lint** | every push + PR | gate ✅ | Brand/schema lint on the site web surface (em-dash, bare "PBS", "RXBS", JSON-LD valid, title) + toolkit 2-page PDF audit | fails the build on violation |
 | **weekly-build-pipeline** | Fri ~8a | content ✅→draft | `/build-pipeline` → `/build-week`; keeps ~4 weeks drafted ahead (incl. per-week research) | week_*.md drafts |
 | **weekly-roundup** | Tue 7:30a | content ✅→draft | RSS + web search → "What Crossed My Desk" roundup draft | roundups/ draft |
-| **weekly-critique** | Wed ~10p ET | gate ✅ | `/critique` the next week to ship (the week you schedule Thursday); advisory flags ready Thursday AM | critique_reports/ |
+| **weekly-critique** | Wed ~10p ET | content ✅→draft | `/critique-fix` the next week to ship (the week you schedule Thursday): diagnoses, then APPLIES every resolvable fix to the week file and commits; only unresolvable items (external URLs that don't exist yet, human data) left flagged. Ready Thursday AM | week_*.md + critique_reports/ |
 | **weekly-monday-brief** | Mon ~7a | surface ✅ | pipeline-health + next-4-week ⚠ + toolkits due | issue comment |
 | **weekly-metrics-prompt** | Fri ~5p | reminder 🟨 | nudge to paste the week's numbers into `/log-metrics` (dashboards aren't API-readable) | issue comment |
 | **monthly-aeo-page** | 8th ~9a | content 🟨→draft | `/build-aeo-page` — drafts the next owned answer page from the Phase-0 template + `/critique` | site/ draft |
@@ -44,4 +44,5 @@ Legend: ✅ fully unattended · 🟨 loop preps/drafts, you finish · 🚫 human
 - `tools/brand_lint.py` — the linter (HARD = site web surface; SOFT = newsletter informational counts).
 - `.github/scripts/notify_issue.sh` — the rolling-issue notifier.
 - `.claude/commands/build-aeo-page.md`, `.claude/commands/backfill-substack-aeo.md` — the content-loop command specs.
+- `.claude/commands/critique.md` (advisory red-team) and `.claude/commands/critique-fix.md` (same diagnosis, then auto-applies the resolvable fixes; the Wednesday-night workflow runs this one).
 - Cadence rationale + the full initiative plan: `aeo_geo_master_plan.md` (tracker) and `website_aeo_master_plan.md` (website build spec).
