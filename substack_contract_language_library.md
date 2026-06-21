@@ -258,6 +258,30 @@ What you should ask for:
 
 ---
 
+**Provision: Transition and Run-Out Services**
+
+What you might see:
+> "Upon termination, PBM will provide transition and run-out claims services at its then-current rates."
+
+What it actually means: "Then-current rates" lets the PBM set the price of leaving after you have already decided to leave, when you have no remaining leverage. Run-out adjudication billed at discretionary rates is a tax on switching.
+
+What you should ask for:
+> "PBM will provide up to 180 days of run-out and transition services at no additional cost, including continued claims adjudication, member communications, and coordination with the successor PBM. Run-out claims will be priced at the same pricing terms in effect during the contract term, not at then-current or discretionary rates."
+
+---
+
+**Provision: Rebate-Accrual Return on Termination**
+
+What you might see:
+> "Rebates are paid on the PBM's standard reconciliation schedule." (silent on what happens to rebates earned but unpaid at termination)
+
+What it actually means: Rebates often pay out months in arrears. If the contract is silent on termination, the PBM can keep rebate dollars already earned on your plan's claims simply because the contract ended before its own payment schedule came due.
+
+What you should ask for:
+> "All rebates, administrative fees, and other manufacturer payments earned on Plan claims through the termination date will be reconciled and paid to Plan within 90 days of termination, regardless of the standard reconciliation schedule. No rebate accruals earned during the contract term are forfeited by reason of termination or non-renewal."
+
+---
+
 ### Specialty Pharmacy
 
 **Provision: Specialty Routing**
@@ -341,7 +365,7 @@ Additional provision-specific deep dives publish throughout the year. The formul
 |-------------------------|------------------|--------------------|--------|
 | April 2026 (initial publish) | Full initial library (Pricing, Rebate, Audit, Clinical, Termination, Specialty) | — | Week 17 launch |
 | May 21, 2026 | Definition of Generic Drug; Spread Pricing / Claim Pricing | Termination Notice expanded to "Termination Notice and Termination for Convenience" | Week 16 Library 01 |
-| _Pending: next push_ | Biosimilar Provisions section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance); five Library 03 Audit Rights clauses (Audit Frequency and Notice, Audit Scope, Auditor Identity, Findings Binding, Cost Responsibility and Materiality Threshold) | — | W22 Biosimilar atomization; W23 Library 03 Audit Rights |
+| _Pending: next push_ | Biosimilar Provisions section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance); five Library 03 Audit Rights clauses (Audit Frequency and Notice, Audit Scope, Auditor Identity, Findings Binding, Cost Responsibility and Materiality Threshold); Termination and Transition expanded with two new provisions (Transition and Run-Out Services; Rebate-Accrual Return on Termination) | — | W22 Biosimilar atomization; W23 Library 03 Audit Rights; W25 Library 04 Termination |
 
 When Ginny confirms a Substack push is done, move the `_Pending: next push_` row to a dated row and open a fresh `_Pending: next push_` row for the next round of provisions.
 
@@ -355,7 +379,8 @@ These notes track which provisions are expected to be added/expanded as each Lib
 
 - **Library 02 (W21, May 26, 2026):** Rebate pass-through definition breadth (expand existing "Rebate Passthrough"), AWP discount base specificity (expand "Brand Discount Guarantee" with AWP-source naming), Guarantee Reconciliation (new provision in Pricing Guarantees), Termination data-transfer specificity (expand existing "Data Transfer"), Audit rights scope (expand existing "Audit Access" with twice-per-year and binding-findings clauses)
 - **Library 03 (W23, Jun 9, 2026):** Five Audit Rights clauses (frequency, scope, auditor identity, findings binding, cost responsibility / materiality threshold) — expands existing Audit Rights section. **✅ MERGED INTO BODY (Jun 3, 2026), pending next push** (added as §10.01-§10.05 provisions matching the Library 03 carousel redlines).
-- **Library 04 (W27, Jul 7, 2026):** Reporting and Disclosure clauses from the "Five Reporting Clauses That Let You Actually Run the PBM Review" carousel (reporting data-access, guarantee calculation methodology, benchmarking rights, specialty-routing disclosure, inadequate-report remedy). NEW "Reporting and Disclosure" provision family, or expand the relevant existing sections.
-- **Library 05 (W33, Aug 18, 2026):** Q4 broker-conversation clauses from the "Five Clauses That Anchor Q4 Broker Conversations" carousel (biosimilar tier placement, stop-loss cooperation and data-sharing, termination and evaluation timing, fiduciary reporting, audit rights / independent data access).
+- **Library 04 (W25, Jun 23, 2026):** Five Termination clauses from the "Five Termination Clauses That Decide Whether You Can Actually Leave" carousel (auto-renewal / evergreen, termination for convenience, termination for cause and cure, transition and run-out services, data and rebate-accrual return) — expands the existing Termination and Transition section. **✅ MERGED INTO BODY (Jun 21, 2026), pending next push** (auto-renewal / convenience / cause already lived in "Termination Notice and Termination for Convenience"; "Transition and Run-Out Services" and "Rebate-Accrual Return on Termination" added as new provisions to complete the carousel's five-clause set).
+- **Library 05 (W27, Jul 7, 2026):** Reporting and Disclosure clauses from the "Five Reporting Clauses That Let You Actually Run the PBM Review" carousel (reporting data-access, guarantee calculation methodology, benchmarking rights, specialty-routing disclosure, inadequate-report remedy). NEW "Reporting and Disclosure" provision family, or expand the relevant existing sections.
+- **Library 06 (W33, Aug 18, 2026):** Q4 broker-conversation clauses from the "Five Clauses That Anchor Q4 Broker Conversations" carousel (biosimilar tier placement, stop-loss cooperation and data-sharing, termination and evaluation timing, fiduciary reporting, audit rights / independent data access).
 
-**Cadence realigned to as-built (June 3, 2026):** the every-2-week schedule drifted. W25, W29, W31, W35, and W37 did NOT ship Library carousels (their Tuesdays kept paused-Whiteboard drafts or other cycle visuals), so they are not Library weeks. The built sequence is Library 01-05 above. Future Library entries are opportunistic and number consecutively from 05; pull from the provision families not yet given a dedicated entry: PBM Compensation Disclosure, Rebate Definitions / Gross-to-Net, Specialty Routing and Affiliated-Pharmacy Disclosure, Formulary Management and Override Authority, Performance Guarantees and Remediation, Renewal and Amendment, Step Therapy Override.
+**Cadence realigned to as-built (June 3, 2026; updated Jun 21, 2026):** the every-2-week schedule drifted. W29, W31, W35, and W37 did NOT ship Library carousels (their Tuesdays kept paused-Whiteboard drafts or other cycle visuals), so they are not Library weeks. **W25 DID ship Library 04 (Termination), which shifted W27 Reporting to Library 05 and W33 Broker to Library 06.** The built sequence is Library 01-06 above. Future Library entries are opportunistic and number consecutively from 06; pull from the provision families not yet given a dedicated entry: PBM Compensation Disclosure, Rebate Definitions / Gross-to-Net, Specialty Routing and Affiliated-Pharmacy Disclosure, Formulary Management and Override Authority, Performance Guarantees and Remediation, Renewal and Amendment, Step Therapy Override.

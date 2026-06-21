@@ -10,14 +10,15 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
 | Sun Jun 21 | - | Prep | Final review of all content | this sheet | [ ] |
-| Mon Jun 22 | 7:30 AM | Substack | Deep dive: "The 90-Day Renewal Window" | PART 1 | [ ] |
-| Mon Jun 22 | 7:45 AM | LI Newsletter | Renewal Countdown Briefing (Issue #20) | PART 2 | [ ] |
+| Mon Jun 22 | 7:30 AM | Substack | Deep dive: "The 90-Day Renewal Window" ⚠ paste live Potter piece URL (PART 1, L~110) before publish | PART 1 | [ ] |
+| Mon Jun 22 | 7:45 AM | LI Newsletter | Renewal Countdown Briefing (Issue #20) ⚠ paste live Potter piece URL into first comment before publish | PART 2 | [ ] |
 | Mon Jun 22 | 8:00 AM | X | named-adversary / channel-pricing (insulin) | PART 4B · Mon | [ ] |
 | Mon Jun 22 | 12:00 PM | X | decoder (auto-renewal clock) | PART 4B · Mon | [ ] |
 | Mon Jun 22 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
 | Mon Jun 22 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Jun 22 | 7:00 PM | X | question [A15] | PART 4B · Mon | [ ] |
 | Mon Jun 22 | 8:30 PM | X | aphorism [C4] | PART 4B · Mon | [ ] |
+| Tue Jun 23 | 7:30 AM | Substack | "What I'd Ask" #5: Preparing for a PBM RFP | PART 2B | [ ] |
 | Tue Jun 23 | 8:00 AM | X | dollar comparison (rebate aggregator skim) | PART 4B · Tue | [ ] |
 | Tue Jun 23 | 8:30 AM | LI Feed | Post 89 — "Five Termination Clauses That Decide Whether You Can Actually Leave" (Library 04 · Contract Comparison) | Post 89 | [ ] |
 | Tue Jun 23 | 8:35 AM | LI Feed | Post 89 first comment | Post 89 | [ ] |
@@ -26,6 +27,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jun 23 | 5:00 PM | X | Library 04 driver (Termination / Perf Remediation; after 8:30 carousel) | PART 4B · Tue | [ ] |
 | Tue Jun 23 | 7:00 PM | X | question [A16] | PART 4B · Tue | [ ] |
 | Tue Jun 23 | 8:30 PM | X | one question [B4] | PART 4B · Tue | [ ] |
+| Wed Jun 24 | 7:30 AM | Substack | Roundup: "What Crossed My Desk This Week" | PART 4 · Wed | [ ] |
 | Wed Jun 24 | 8:00 AM | X | named-adversary / vertical integration | PART 4B · Wed | [ ] |
 | Wed Jun 24 | 8:30 AM | LI Feed | Post 90 — "Your PBM renewal is 90 days away" (POV text) | Post 90 | [ ] |
 | Wed Jun 24 | 12:00 PM | X | decoder (audit rights at renewal) | PART 4B · Wed | [ ] |
@@ -389,8 +391,8 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_name` | `Optimize Existing vs Go-to-Market Decision Framework` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_1004abdf90fb477a9a07a07a8863a19d.pdf` |
 | `second_toolkit_blurb` | `The RFP Scoring Audit only matters if go-to-market is the right decision. The Optimize vs Go-to-Market Framework is the three-variable decision tree that produces the recommendation in the first place. About 70% of contract reviews end in 'optimize existing,' which means the RFP path is the wrong path for most plans. Together they pair as decision then design.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `field_note_title` | `Auditing Your RFP Scoring Methodology Before You Send It` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/audit-pbm-rfp-scoring-methodology` |
 
 ### Wix build checklist
 
@@ -404,7 +406,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 
 ### Pairing rationale
 
-Optimize vs Go-to-Market is the natural upstream decision Tier 1 framework. Channel Pricing Field Note demonstrates the kind of audit finding that often supports 'optimize' over 'RFP.'
+The RFP Scoring Methodology Audit Worksheet is the toolkit; its same-week Field Note is "Auditing Your RFP Scoring Methodology Before You Send It," so the 5-email sequence advertises the matching deeper read. `second_toolkit` = Optimize Existing vs Go-to-Market Decision Framework: the natural upstream decision Tier 1 framework (the RFP-scoring audit only matters if go-to-market is the right call; about 70% of reviews end in "optimize existing"). The pair reads as decision then design.
 
 ---
 
@@ -429,7 +431,7 @@ The July client had time to pull their own claims data, benchmark pricing agains
 
 The September client was reactive. The PBM had already prepared the renewal package. The terms were framed around what the PBM was willing to offer, not what the employer needed. Everything felt rushed because it was.
 
-Here is what I know from our contract review work at PBS: the 90-day window before renewal determines your negotiating position. Below 90 days, you are responding to the PBM's framework. At 90 days, you are building your own.
+Here is what I know from our contract review work at Prescription Benefit Solutions: the 90-day window before renewal determines your negotiating position. Below 90 days, you are responding to the PBM's framework. At 90 days, you are building your own.
 
 Your PBM starts renewal preparation months before presenting terms. They have already analyzed your claims data, modeled scenarios, and determined which concessions they can make while protecting their margins. If you start 30 days before they present, you are negotiating within their frame. If you start 90 days before, you are setting your own.
 
@@ -534,6 +536,23 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 - Badge (top-right): "WHAT I'D ASK"
 - Plex Mono subtitle (22pt, white, tabular figures): `Scenario 05 · Preparing for a PBM RFP`
 
+---
+
+## Substack Contract Library Update — Library 04 Week
+
+Library 04 (Tuesday's "Five Termination Clauses That Decide Whether You Can Actually Leave" carousel) surfaces five clauses from the Termination & Transition provision family. Before the carousel ships, confirm those clauses are live in the Contract Language Library article body, then push the updated body to the live Substack post:
+
+> Open the live Substack post at benefitblindspots.substack.com/p/pbm-contract-language-library in edit mode. Copy everything between the ▼ BEGIN PASTE ▼ and ▲ END PASTE ▲ markers in `substack_contract_language_library.md` and paste over the existing post body. Publish.
+
+Clauses Library 04 adds/expands in the article body this week (merged Jun 21, 2026, pending next push):
+- **Auto-renewal / evergreen:** already live in "Termination Notice and Termination for Convenience" (auto-renewal disabled; 270-day renewal-decision notice).
+- **Termination for convenience:** already live in the same provision (90-day no-penalty convenience right for the Plan).
+- **Termination for cause and cure:** already live in the same provision (defined breach plus cure framing).
+- **Transition and run-out services:** NEW provision added. Up to 180 days run-out at no additional cost, run-out priced at in-term terms not "then-current rates."
+- **Data and rebate-accrual return:** Data Transfer already live; NEW "Rebate-Accrual Return on Termination" provision added (all rebate accruals earned through the termination date paid within 90 days, none forfeited by reason of termination).
+
+_Note: the next whole-article paste also carries the still-pending Biosimilar Provisions and Library 03 Audit Rights clauses (see the Update Log in `substack_contract_language_library.md`)._
+
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 89 - Tuesday 8:30 AM
@@ -552,7 +571,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 ```
 Your PBM contract has an exit door. The PBM wrote it. Most plan sponsors only read it when they are already trying to leave, which is exactly too late.
 
-We review hundreds of PBM contracts a year at PBS. The termination and transition section is where leverage is quietly removed: the auto-renewal you missed, the data you cannot get back, the run-out the PBM bills you for on the way out.
+We review hundreds of PBM contracts a year at Prescription Benefit Solutions. The termination and transition section is where leverage is quietly removed: the auto-renewal you missed, the data you cannot get back, the run-out the PBM bills you for on the way out.
 
 Five clauses decide whether you can actually leave:
 
@@ -738,7 +757,7 @@ _The "Renewal Timeline: Month-by-Month Milestones" infographic was repurposed in
 ```
 Three PBM proposals. Weight the score the way most RFPs are weighted by default, and PBM A wins. Re-weight it to match your actual priorities, and PBM C wins. Same three proposals. The winner just flipped.
 
-I review hundreds of PBM contracts a year at PBS. The PBMs know which scoring methodology your broker is using, and the headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
+I review hundreds of PBM contracts a year at Prescription Benefit Solutions. The PBMs know which scoring methodology your broker is using, and the headline pricing in their proposal is engineered to win that exact methodology. Read the methodology carefully, or read the wrong winner.
 
 That flip is controlled by five scoring terms most plan sponsors never audit before sending the RFP:
 
@@ -941,7 +960,7 @@ A broker called me once to say her client had asked for a renewal review from me
 
 > **Convention (see `x_account_strategy.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour reactions on top when PBM news breaks. **NOT locked to Monday's renewal-countdown topic.** X skews to the Cuban-bait shapes and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention). Hold the PM slot loosely for a live news-reaction bump; tag the source.
 >
-> **LinkedIn-first rule (required):** this is a **Library 04 week** (Tue contract-comparison carousel on Termination / Performance Remediation — the Whiteboard slot in the header is paused per CLAUDE.md and replaced by Library 04). (1) the **Library 04 carousel** publishes Tue 8:30 AM — the Tue PM Library driver is scheduled AFTER it and routes to the Contract Library. (2) the **Thu Slot C "5 Questions About Your PBM Contract Renewal" carousel** publishes Thu 8:30 AM — its material does NOT appear in Mon-Wed slots; the Thu midday amplifier runs AFTER the 8:30 publish. AM slots lead with the named-adversary shape.
+> **LinkedIn-first rule (required):** this is a **Library 04 week** (Tue contract-comparison carousel on Termination / Performance Remediation — the Whiteboard slot in the header is paused per CLAUDE.md and replaced by Library 04). (1) the **Library 04 carousel** publishes Tue 8:30 AM — the Tue PM Library driver is scheduled AFTER it and routes to the Contract Library. (2) the **Thu "5 RFP Scoring Methodology Terms Decoded" Chart-on-Whiteboard post** publishes Thu 8:30 AM — its material (the "winner flips" scoreboard, the RFP-scoring decode) does NOT appear in Mon-Wed slots; the Thu midday amplifier runs AFTER the 8:30 publish. AM slots lead with the named-adversary shape.
 
 **Mon Jun 22**
 - **8:00 AM · named-adversary / channel-pricing (proven W21 template, insulin):**
@@ -1038,9 +1057,9 @@ Your PBM doesn't have a network. It has a funnel with a clinical-sounding name.
 ```
 Your renewal quote will look great on the headline discount. Then check the definitions page: how "brand," "generic," and "specialty" are defined. A PBM can hit any discount you want by reclassifying drugs into the bucket with the softest guarantee. The discount is real. The definition is the trick.
 ```
-- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn carousel) `[VISUAL: Slot C "5 Questions About Your PBM Contract Renewal" carousel]`:**
+- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the 8:30 AM Thu LinkedIn post) `[VISUAL: RFP Scoring "winner flips" Chart-on-Whiteboard]`:**
 ```
-Five questions to ask before you sign a PBM renewal. Not "what's the discount." The five your PBM hopes you skip: how are the drug categories defined, what's the spread, who owns the data, what are the audit limits, and what happens if you leave. Today's breakdown:
+Three PBM proposals. The same three. Weight the score the way most RFPs are weighted by default and PBM A wins. Re-weight it to your real priorities and PBM C wins. The scoring methodology picks the winner before the proposals do. Today's breakdown of the five scoring terms most plans never audit:
 ```
   First reply (link):
 ```
@@ -1080,7 +1099,7 @@ Pull your specialty claims and sort by filling pharmacy. What share filled at a 
   First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D2]:**
 ```
-Pulled a client's specialty claims this month and sorted by filling pharmacy. Most of them filled at one the PBM owns. No member chose that. The prior-auth rules chose it for them.
+Years ago a client told me their formulary was "customized." I asked how it differed from the PBM's standard book of business. We dug in. It didn't differ at all. Same list every other client got, with "customized" printed on the cover. That's the day I started reading drug lists line by line.
 ```
 
 **Sat Jun 27** (lighter, still adversary-skewed)
@@ -1168,8 +1187,8 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 22-26; tag the s
 - [ ] Monday: Substack article published at 7:30 AM
 - [ ] Monday: LinkedIn Newsletter published at 7:45 AM
 - [ ] Monday: Substack Notes (morning + afternoon)
-- [ ] Tuesday: Post 89 Whiteboard Carousel published at 8:30 AM
-- [ ] Tuesday: Post 89 First Comment with link to LinkedIn Newsletter
+- [ ] Tuesday: Post 89 Library 04 Contract Comparison carousel (Five Termination Clauses) published at 8:30 AM
+- [ ] Tuesday: Post 89 First Comment (Variant B — add ~15 min after publish) routing to the Contract Language Library
 - [ ] Tuesday: Company Reshare at 1:30 PM
 - [ ] Tuesday: Substack Notes (morning + afternoon)
 - [ ] Wednesday: Post 90 Strong POV text published at 8:30 AM
@@ -1181,8 +1200,8 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 22-26; tag the s
 - [ ] Friday: Post 92 Tease Hook published at 8:30 AM
 - [ ] Friday: Substack Notes (morning + afternoon)
 - [ ] Saturday: Substack Note (engagement with another publication)
-- [ ] Verify Tuesday carousel does NOT reference renewal countdown topic (different pillar)
-- [ ] Verify Thursday messy infographic carries the renewal timeline weekly theme
+- [ ] Verify Tuesday carousel (Termination clauses) does NOT reference Monday's renewal-timeline topic (different subject: provision language vs. process timeline)
+- [ ] Verify Thursday messy infographic is the RFP Scoring "winner flips" Chart-on-Whiteboard (the renewal timeline moved into Monday's deep dive as an in-article visual)
 
 ---
 
@@ -1190,17 +1209,17 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 22-26; tag the s
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 89 Whiteboard Carousel | 7 slides (1080x1350 each) | "How I'd Walk a Client Through the 90-Day Renewal Decision" — pharmacist-on-whiteboard reasoning through 5 renewal-decision questions, Self-Funded Employer Guidance pillar |
-| Post 91 Messy Infographic | Single image (1080x1350) | 90-day timeline - weekly theme visual |
+| Post 89 Library 04 Contract Comparison carousel | 7 slides (1080x1350 each) | "Five Termination Clauses That Decide Whether You Can Actually Leave" — redline aesthetic, weak vs. protective language per clause, PBM Contract Insights pillar (Termination & Transition family) |
+| Post 91 Chart-on-Whiteboard Messy Infographic | Single image (1080x1350) | RFP Scoring "winner flips" — same 3 proposals, two methodologies, two winners |
 | Substack article header image | 2240x1260 | [ ] Design needed |
 | Substack Field Note header image | 1200x600 | [ ] Design needed |
 | LinkedIn Newsletter header | Standard | [ ] Design needed |
 
 > **PERFORMANCE NOTES APPLIED:**
-> - Tuesday uses different pillar (Broker/Consultant) from Monday newsletter (Self-Funded Guidance)
-> - Thursday carries weekly theme visual (3-day gap from newsletter = no overlap)
+> - Tuesday uses a different pillar (PBM Contract Insights / Termination) and a different subject from Monday newsletter (Self-Funded Guidance / renewal timeline); triple-distinct holds
+> - Thursday (RFP Scoring) is a third distinct subject, 3-day gap from the newsletter = no overlap
 > - Wednesday post expanded to ~230 words for dwell time optimization
-> - Whiteboard carousel template tests new format matching messy infographic aesthetic
+> - Tuesday is a Library 04 Contract Comparison carousel (save-driven reference asset; routes to the Contract Language Library)
 > - Publishing checklist includes pre-posting engagement and 30-min reply window
 
 ---
@@ -1230,9 +1249,9 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 22-26; tag the s
 
 | Post | Impressions | Engagement Rate | Comments | Saves |
 |------|------------|-----------------|----------|-------|
-| Post 89 (Tue Whiteboard Carousel) | | | | |
+| Post 89 (Tue Library 04 Carousel) | | | | |
 | Post 90 (Wed Text) | | | | |
-| Post 91 (Thu Messy Infographic) | | | | |
+| Post 91 (Thu RFP Scoring Infographic) | | | | |
 | Post 92 (Fri Tease) | | | | |
 
 ## Substack Notes Metrics
