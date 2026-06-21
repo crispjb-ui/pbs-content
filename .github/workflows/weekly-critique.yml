@@ -6,7 +6,9 @@ name: Weekly Pre-Ship Critique
 
 on:
   schedule:
-    - cron: '0 14 * * 0'   # Sundays ~9-10 AM ET (approximate; not time-critical)
+    - cron: '0 2 * * 4'    # Thu 02:00 UTC = Wed ~9-10 PM ET. Wednesday night, so the
+                           # critique of the week being scheduled Thursday (the week
+                           # before it publishes) is waiting Thursday morning.
   workflow_dispatch: {}
 
 permissions:
