@@ -31,6 +31,11 @@
 # PART 1: SUBSTACK ARTICLE
 
 ## What Your PBM's Quarterly Report Actually Tells You
+
+**Display Title:** What Your PBM's Quarterly Report Actually Tells You
+**SEO Title (AEO):** What Should a PBM Quarterly Report Include? (The 15 Lines Plan Sponsors Should Demand)
+**SEO Subtitle:** What standard quarterly reports show, what they leave out, and the 15-line checklist plan sponsors should hold their PBM to
+
 **Subtitle:** What standard quarterly reports show, what they leave out, and the 15-line checklist plan sponsors should hold their PBM to
 
 **Publication:** Benefit Blind Spots
@@ -43,13 +48,15 @@
 
 ### Article Body
 
+**A complete PBM quarterly report should give a self-funded plan 15 specific lines, including net cost per script by channel for the top drugs, rebate gross-to-net by therapeutic class, affiliated-pharmacy claim share, formulary tier movement, and prior authorization approval, denial, and overturn rates; most standard reports show only the handful of metrics the PBM benefits from showing, because the contract's reporting obligation is written too loosely to require more.**
+
 A self-funded CFO emailed me a quarterly PBM report last fall. 14 pages. Color charts. A "Plan Performance: On Track" footer. He asked if the trend lines were as good as they looked. I asked him to send the underlying claim file. Two weeks later we walked through what the report had not surfaced.
 
 Net cost per script by channel for the top 10 drugs. Not in the report. Rebate gross-to-net by therapeutic class. Not in the report. Affiliated-pharmacy share of the plan's specialty claims. Not in the report. Quarter-over-quarter formulary tier movement on covered drugs. Not in the report. Prior authorization approval, denial, and overturn rates by class. Not in the report.
 
 The report was not wrong. It was incomplete by design. It was built to satisfy the reporting obligation in the contract, which the PBM had written. The reporting obligation was three lines long. Whatever the PBM volunteered above those three lines was a choice, and the choice was about what to leave out.
 
-This is the pattern. Most quarterly PBM reports are designed for compliance, not for analysis. The information that determines your next renewal price is the information that almost never appears in them. After reviewing hundreds of PBM contracts a year at PBS, the gap is consistent: the data exists at the PBM. The reporting obligation that requires the data to be shared with the plan does not.
+This is the pattern. Most quarterly PBM reports are designed for compliance, not for analysis. The information that determines your next renewal price is the information that almost never appears in them. After reviewing hundreds of PBM contracts a year at Prescription Benefit Solutions, the gap is consistent: the data exists at the PBM. The reporting obligation that requires the data to be shared with the plan does not.
 
 This week's deep dive is about closing that gap. What a complete quarterly report should contain, what most reports actually contain, and a 15-line checklist plan sponsors can hand their broker for the next quarter's request.
 
@@ -95,7 +102,7 @@ Fifteen lines. If you are getting fewer, you are getting less than the analysis 
 
 > **15. Reporting attestation.** A signed statement from the PBM that the data above is complete and accurate, with named contact for follow-up.
 
-That is the 15-line checklist. The printable plan-sponsor handout for this week's deep dive is exactly that, formatted as a one-page request you can send your broker before the next quarterly cycle.
+That is the 15-line checklist. The printable plan-sponsor handout for this week's deep dive is exactly that, formatted as a one-page request you can send your broker before the next quarterly cycle. You can download the [PBM disclosure audit toolkit at www.rxbs.org/toolkit/pbm-disclosure-audit](https://www.rxbs.org/toolkit/pbm-disclosure-audit).
 
 **Why most plans do not get this**
 
@@ -133,7 +140,7 @@ If you have run a quarterly report audit recently and found something the report
 
 ### Article Meta
 
-**SEO Title:** What Your PBM's Quarterly Report Actually Tells You | Benefit Blind Spots
+**SEO Title:** What Should a PBM Quarterly Report Include? (The 15 Lines Plan Sponsors Should Demand)
 **Meta Description:** Most quarterly PBM reports are designed for compliance, not analysis. The 15-line checklist plan sponsors should hold their PBM to, with a printable handout.
 **Tags:** PBM quarterly reporting, PBM contracts, pharmacy benefits, transparency, self-funded employers, plan sponsor toolkit, audit rights
 

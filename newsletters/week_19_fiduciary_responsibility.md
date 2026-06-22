@@ -30,6 +30,10 @@
 
 ## Fiduciary Duty and Pharmacy Benefits: What ERISA Requires
 
+**Display Title:** Fiduciary Duty and Pharmacy Benefits: What ERISA Requires
+**SEO Title (AEO):** What Are a Self-Funded Plan Sponsor's Fiduciary Duties for Pharmacy Benefits?
+**SEO Subtitle:** What ERISA requires for pharmacy benefit oversight and how to document a prudent process
+
 **Subtitle:** What ERISA requires for pharmacy benefit oversight and how to document a prudent process
 
 **Publication:** Benefit Blind Spots
@@ -41,6 +45,8 @@
 ---
 
 ### Article Body
+
+**If you manage a self-funded health plan you are an ERISA fiduciary for pharmacy spend, which means you must be able to show a documented, prudent process for selecting, monitoring, and evaluating your PBM. "We trusted our PBM" is not a defense.**
 
 If you manage a self-funded health plan, you are an ERISA fiduciary. That is not a technicality. You have a legal obligation to act in your members' best interest when managing pharmacy benefits. Not your PBM's interest. Your members'.
 
@@ -112,7 +118,7 @@ The one that frustrates me most: making smart decisions but never writing them d
 
 Fiduciary compliance comes down to this: can you show that you took reasonable steps to understand what was happening with plan dollars? Benchmarking. Auditing. Monitoring guarantees. Documenting decisions. Not defensive paperwork for its own sake, but genuinely prudent management with a trail that proves it.
 
-The full **Fiduciary Documentation Checklist** is available below as a printable plan-sponsor handout. Five categories, the records that should live in each, what "good" looks like, and a one-page test you can run on your file in 24 hours.
+The full **Fiduciary Documentation Checklist** is available below as a printable plan-sponsor handout, and on our site at [the Fiduciary Documentation toolkit](https://www.rxbs.org/toolkit/fiduciary-documentation). Five categories, the records that should live in each, what "good" looks like, and a one-page test you can run on your file in 24 hours.
 
 **[EMBED PDF: `templates/documents/week_19_fiduciary_documentation_checklist.pdf`]**
 
@@ -130,7 +136,7 @@ Have you audited your fiduciary documentation trail for pharmacy benefits? If yo
 
 ### Article Meta
 
-**SEO Title:** Fiduciary Duty and Pharmacy Benefits: What ERISA Requires | Benefit Blind Spots
+**SEO Title:** What Are a Self-Funded Plan Sponsor's Fiduciary Duties for Pharmacy Benefits?
 **Meta Description:** ERISA fiduciary litigation is accelerating, and pharmacy benefits create specific exposure. Here is what the standard requires, a five-category documentation framework, and the one-page test to identify your gaps.
 **Tags:** ERISA, fiduciary duty, pharmacy benefits, self-funded employers, PBM, compliance
 

@@ -29,6 +29,10 @@
 
 ## Where PBM Profit Hides in Your Plan
 
+**Display Title:** Where PBM Profit Hides in Your Plan
+**SEO Title (AEO):** How Does a PBM Make Money? (The Revenue Streams Your Contract Doesn't Show)
+**SEO Subtitle:** The PBM revenue streams that sit outside your pricing guarantees, and the questions that expose them
+
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, March 16, 2026 at 7:30 AM EST
 **Length:** ~1,600 words (~6 min read)
@@ -38,6 +42,8 @@
 ---
 
 ### Article Body
+
+**A PBM earns from your plan through several streams that sit outside your pricing guarantees, including spread pricing, retained rebates, manufacturer fees, and owned-pharmacy margin, so a contract that defines what you pay can still leave what your PBM earns undefined.**
 
 Your PBM contract defines what you pay. It does not always define what your PBM earns.
 
@@ -120,7 +126,7 @@ The contractual tools used to limit transparency:
 
 **How to Find It in Your Plan**
 
-You do not need a full audit to start identifying potential hidden revenue. We walk employers through these approaches:
+You do not need a full audit to start identifying potential hidden revenue. We walk employers through these approaches, and we map each revenue stream against the contract in our [PBM Compensation toolkit](https://www.rxbs.org/toolkit/pbm-compensation):
 
 *Claims-Level Analysis*
 
@@ -195,7 +201,7 @@ If you have never asked, now is the time. Q1 data is available. The answers are 
 
 ### Article Meta
 
-**SEO Title:** Where PBM Profit Hides in Your Plan | Benefit Blind Spots
+**SEO Title:** How Does a PBM Make Money? (The Revenue Streams Your Contract Doesn't Show)
 **Meta Description:** Your PBM contract defines what you pay, not what your PBM earns. Here's where hidden revenue lives and the questions that expose it.
 **Tags:** PBM transparency, spread pricing, rebates, hidden revenue, self-funded employers, pharmacy benefits
 **Header Image:** [Use PBS branded image - Hidden Revenue visual]

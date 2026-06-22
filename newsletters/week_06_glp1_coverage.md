@@ -29,6 +29,10 @@
 
 ## The GLP-1 Coverage Decision Just Got Harder
 
+**Display Title:** The GLP-1 Coverage Decision Just Got Harder
+**SEO Title (AEO):** Should a Self-Funded Employer Cover GLP-1 Drugs? (How to Decide)
+**SEO Subtitle:** A clinical-pharmacist framework for deciding whether and how to cover GLP-1 weight-loss drugs
+
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, February 9, 2026 at 7:30 AM EST
 **Length:** ~1,600 words (~6 min read)
@@ -37,6 +41,8 @@
 ---
 
 ### Article Body
+
+**Whether a self-funded employer should cover GLP-1 drugs is not a yes-or-no question but a design question: the plans that get value from coverage pair clear clinical criteria, real adherence support, and tight PBM contract language, while the plans that struggle treat it as a simple formulary on-off switch.**
 
 The FDA approved oral semaglutide for weight management on December 22, 2025. By January, it was in US pharmacies. A second oral GLP-1 (orforglipron from Eli Lilly) could receive approval this year.
 
@@ -114,7 +120,7 @@ Build in decision points. If 12-week retention falls below threshold, what chang
 
 **Contract Language Considerations**
 
-For employers covering GLP-1s, PBM contract language matters more than usual. This is something we flag in nearly every contract review we conduct right now.
+For employers covering GLP-1s, PBM contract language matters more than usual. This is something we flag in nearly every contract review we conduct right now. The specific provisions to check, with sample protective language, are collected in our [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library).
 
 Review rebate terms. GLP-1 rebates vary significantly by product and PBM arrangement. Make sure your contract captures competitive rebates on high-cost specialty medications.
 
@@ -150,7 +156,7 @@ Oral GLP-1s do not change this fundamental dynamic. They add options. They may a
 
 ### Article Meta
 
-**SEO Title:** The GLP-1 Coverage Decision Just Got Harder | Benefit Blind Spots
+**SEO Title:** Should a Self-Funded Employer Cover GLP-1 Drugs? (How to Decide)
 **Meta Description:** Oral GLP-1s launched. Medicare coverage is expanding. Here's a framework for self-funded employers approaching coverage decisions in 2026.
 **Tags:** GLP-1, pharmacy benefits, self-funded employers, PBM, weight management, cost containment
 **Header Image:** [Use PBS branded image or GLP-1 related graphic]

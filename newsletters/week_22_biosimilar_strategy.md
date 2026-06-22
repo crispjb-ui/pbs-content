@@ -30,6 +30,10 @@
 
 ## The Biosimilar Opportunity Your Plan Is Missing
 
+**Display Title:** The Biosimilar Opportunity Your Plan Is Missing
+**SEO Title (AEO):** Why Isn't My PBM Using Biosimilars? (How Rebates Keep Self-Funded Plans on Brand Biologics)
+**SEO Subtitle:** Why your PBM's biosimilar strategy may serve their rebate revenue more than your plan's bottom line, and six factors to evaluate
+
 **Subtitle:** Why your PBM's biosimilar strategy may serve their rebate revenue more than your plan's bottom line, and six factors to evaluate
 
 **Publication:** Benefit Blind Spots
@@ -41,6 +45,8 @@
 ---
 
 ### Article Body
+
+**A biosimilar is an FDA-approved biological product that is highly similar to an existing brand biologic with no clinically meaningful differences, and it often costs a self-funded plan less; the reason many PBMs keep members on the higher-priced brand is that brand manufacturers pay larger rebates to hold preferred formulary status, so the PBM can earn more on the brand while the plan pays more in net cost.**
 
 A while back a client asked us to review their specialty pharmacy spend. One biologic stood out: a brand-name product with a biosimilar available at a meaningfully lower net cost. The plan was still paying for the brand. Every refill. Every member on that therapy. For over a year after the biosimilar launched.
 
@@ -70,7 +76,7 @@ This is not about accusing PBMs of wrongdoing. It is about understanding that th
 
 **The biosimilar readiness assessment**
 
-We developed a six-factor framework for evaluating whether your plan is capturing the biosimilar opportunity. This is the tool we use with clients, and I am sharing the full assessment here.
+We developed a six-factor framework for evaluating whether your plan is capturing the biosimilar opportunity. This is the tool we use with clients, and I am sharing the full assessment here. Because most of these biologics are specialty drugs, the companion [specialty routing toolkit at www.rxbs.org/toolkit/specialty-routing](https://www.rxbs.org/toolkit/specialty-routing) walks through where those scripts actually fill and what the net cost is at each site.
 
 > **Factor 1: Formulary Positioning.**
 >
@@ -128,7 +134,7 @@ Have you run a net cost comparison on your plan's biologics? If you have started
 
 ### Article Meta
 
-**SEO Title:** The Biosimilar Opportunity Your Plan Is Missing | Benefit Blind Spots
+**SEO Title:** Why Isn't My PBM Using Biosimilars? (How Rebates Keep Self-Funded Plans on Brand Biologics)
 **Meta Description:** Your PBM's formulary may prioritize brand rebate revenue over biosimilar savings for your plan. Six factors to evaluate your biosimilar readiness and capture cost savings.
 **Tags:** biosimilars, pharmacy benefits, cost containment, self-funded employers, PBM contracts, formulary strategy, rebates
 

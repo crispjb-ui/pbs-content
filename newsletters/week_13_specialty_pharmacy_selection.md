@@ -29,6 +29,10 @@
 
 ## The Specialty Pharmacy Decision Your PBM Made For You
 
+**Display Title:** The Specialty Pharmacy Decision Your PBM Made For You
+**SEO Title (AEO):** Who Chooses Your Specialty Pharmacy? (How PBM Specialty Routing Actually Works)
+**SEO Subtitle:** How specialty pharmacy selection is predetermined in most PBM contracts, and what plan sponsors should evaluate instead
+
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, March 30, 2026 at 7:30 AM EST
 **Length:** ~1,500 words (~6 min read)
@@ -38,6 +42,8 @@
 ---
 
 ### Article Body
+
+**In most self-funded plans the PBM chooses your specialty pharmacy for you, because PBM contracts typically route specialty claims to a PBM-owned or PBM-affiliated specialty pharmacy by default, which means the routing decision is made on the PBM's economics unless you evaluate and renegotiate it.**
 
 Your specialty pharmacy was probably chosen for you.
 
@@ -100,7 +106,7 @@ The cost savings depend on your specific provider network, drug mix, and operati
 
 **Evaluation Framework**
 
-When we help employers assess specialty pharmacy arrangements, we walk through these areas:
+When we help employers assess specialty pharmacy arrangements, we walk through these areas, structured in our [specialty routing toolkit](https://www.rxbs.org/toolkit/specialty-routing):
 
 *Cost Transparency*
 
@@ -193,7 +199,7 @@ The pharmacy that dispenses your most expensive medications should be chosen, no
 
 ### Article Meta
 
-**SEO Title:** The Specialty Pharmacy Decision Your PBM Made For You | Benefit Blind Spots
+**SEO Title:** Who Chooses Your Specialty Pharmacy? (How PBM Specialty Routing Actually Works)
 **Meta Description:** Your specialty pharmacy was probably chosen for you. Here's how to evaluate whether that choice serves your plan or your PBM.
 **Tags:** specialty pharmacy, PBM, self-funded employers, white bagging, limited distribution, pharmacy benefits
 **Header Image:** [Use PBS branded image - Specialty Pharmacy visual]

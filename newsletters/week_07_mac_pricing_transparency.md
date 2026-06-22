@@ -29,6 +29,10 @@
 
 ## The Hidden Math in Your Generic Drug Costs
 
+**Display Title:** The Hidden Math in Your Generic Drug Costs
+**SEO Title (AEO):** What Is MAC Pricing in a PBM Contract? (And Why Generics Can Cost More Than You Think)
+**SEO Subtitle:** How Maximum Allowable Cost pricing works, and what to check in your PBM contract
+
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, February 16, 2026 at 7:30 AM EST
 **Length:** ~1,400 words (~5 min read)
@@ -38,6 +42,8 @@
 ---
 
 ### Article Body
+
+**MAC (Maximum Allowable Cost) is the price ceiling your PBM sets for generic drugs, and because the PBM both writes the MAC list and bills your plan against it, the spread on generics can quietly cost more than the brand drugs everyone watches.**
 
 Generic drugs cost pennies to manufacture. So why does your plan sometimes pay dollars?
 
@@ -160,7 +166,7 @@ The fact that generic drug pricing remains opaque for most employers tells you s
 
 We advise employers to pursue transparency on generic pricing with the same rigor applied to brand and specialty medications. The dollars at stake are significant. Generics represent 90% of prescriptions dispensed, and small per-claim margin multiplied across high volume produces meaningful plan cost. The best brokers are already flagging this for their clients.
 
-Understanding MAC is step one. Negotiating better terms is step two. Auditing performance is step three. All three require moving past the assumption that generics are "already cheap" and therefore not worth examining.
+Understanding MAC is step one. Negotiating better terms is step two. Auditing performance is step three; our [generic effective rate (GER) audit toolkit](https://www.rxbs.org/toolkit/ger-audit) walks through how to test whether your generic pricing actually delivers what the contract promised. All three require moving past the assumption that generics are "already cheap" and therefore not worth examining.
 
 The pennies add up.
 
@@ -172,7 +178,7 @@ The pennies add up.
 
 ### Article Meta
 
-**SEO Title:** The Hidden Math in Your Generic Drug Costs | Benefit Blind Spots
+**SEO Title:** What Is MAC Pricing in a PBM Contract? (And Why Generics Can Cost More Than You Think)
 **Meta Description:** MAC pricing determines what you pay for generic drugs, but most employers have never examined it. Here's how it works and what to look for in your PBM contract.
 **Tags:** MAC pricing, generic drugs, PBM, transparency, pharmacy benefits, self-funded employers
 **Header Image:** [Use PBS branded image - MAC Pricing visual]

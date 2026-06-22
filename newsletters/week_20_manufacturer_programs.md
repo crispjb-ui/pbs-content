@@ -30,6 +30,11 @@
 # PART 1: SUBSTACK ARTICLE
 
 ## Manufacturer Programs and Your Plan: Understanding the Economics
+
+**Display Title:** Manufacturer Programs and Your Plan: Understanding the Economics
+**SEO Title (AEO):** How Do Copay Cards, Accumulators, and Maximizers Affect a Self-Funded Plan?
+**SEO Subtitle:** How copay cards, patient support programs, and manufacturer rebates affect self-funded employer plan costs
+
 **Subtitle:** How copay cards, patient support programs, and manufacturer rebates affect self-funded employer plan costs
 
 **Publication:** Benefit Blind Spots
@@ -42,11 +47,13 @@
 
 ### Article Body
 
+**A manufacturer copay card zeroes out the member's cost at the counter, but the pharmacy still bills your plan its share of the full list price, so the cost does not disappear, it shifts from member to plan, and a copay accumulator or maximizer decides who keeps the manufacturer's money.**
+
 Free drug. Full price claim. Your plan pays.
 
 That is how copay cards work. The manufacturer funds the card. The member pays nothing at the counter. The pharmacy submits a full-price claim. Your plan covers its share based on list price. The drug was never free. The cost just moved: from member to plan, from visible to invisible.
 
-In the early days of PBS I walked a client through this flow. They had flagged a specialty drug generating significant plan spend, but the members on it were not complaining because the drug appeared "affordable" to them. Zero out of pocket, every fill. We pulled the claims and traced what was actually happening. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because those copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was hit.
+In the early days of Prescription Benefit Solutions I walked a client through this flow. They had flagged a specialty drug generating significant plan spend, but the members on it were not complaining because the drug appeared "affordable" to them. Zero out of pocket, every fill. We pulled the claims and traced what was actually happening. The member was paying nothing at the pharmacy counter, thanks to a manufacturer copay card. The plan was paying its contracted share on every fill based on the drug's full list price. And because those copay card payments were counting toward the member's out-of-pocket maximum, the plan was on track to absorb the full cost once that threshold was hit.
 
 Nobody on the plan side had made a deliberate decision to cover this drug at this cost. It happened by default. That is how PBM claims processing is designed to work.
 
@@ -76,7 +83,7 @@ The right choice depends on your drug mix, your member population, and your PBM'
 
 **How to calculate the financial impact on your plan**
 
-Concepts are useful. Numbers are better. Here is the process we walk clients through. I have yet to do this exercise with an employer who was not surprised by the result.
+Concepts are useful. Numbers are better. Here is the process we walk clients through, built into the printable [Copay Card Financial Impact Calculator](https://www.rxbs.org/toolkit/copay-card-calculator) on our site. I have yet to do this exercise with an employer who was not surprised by the result.
 
 *Step 1: Identify copay card utilization.* Request from your PBM a list of drugs with active manufacturer copay card programs in your formulary, the number of members using copay cards on each drug, and total claims dollars where copay assistance was applied. If your PBM cannot identify copay card utilization, that itself is a gap worth flagging. Your broker or consultant can help you push for this reporting. Many PBMs can flag claims where third-party copay assistance was applied. Ask for the report. If they say they cannot produce it, document that answer.
 
@@ -110,7 +117,7 @@ Have you quantified the copay card impact on your plan? If you found something u
 
 ### Article Meta
 
-**SEO Title:** Manufacturer Programs and Your Plan: Understanding the Economics | Benefit Blind Spots
+**SEO Title:** How Do Copay Cards, Accumulators, and Maximizers Affect a Self-Funded Plan?
 **Meta Description:** Free drug, full price claim, your plan pays. How copay cards redistribute cost from member to plan, plus a five-step process to calculate the financial impact on your specific plan.
 **Tags:** manufacturer programs, copay cards, rebates, pharmacy benefits, self-funded employers, copay accumulator, copay maximizer
 

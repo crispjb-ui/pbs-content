@@ -49,6 +49,11 @@
 # PART 1: SUBSTACK ARTICLE
 
 ## The Prior Authorization Problem: Balancing Control and Care
+
+**Display Title:** The Prior Authorization Problem: Balancing Control and Care
+**SEO Title (AEO):** How Do You Know If Your Prior Authorization Program Is Worth the Cost? (PA ROI Audit)
+**SEO Subtitle:** How to evaluate whether your PA program delivers value or just creates barriers
+
 **Subtitle:** How to evaluate whether your PA program delivers value or just creates barriers
 
 **Publication:** Benefit Blind Spots
@@ -60,6 +65,8 @@
 ---
 
 ### Article Body
+
+**A prior authorization program is worth its cost only when the spend it avoids through appropriate denials exceeds the administrative, care-delay, and therapy-abandonment costs it creates, so the way to know is to pull twelve months of PA data from your PBM and run that comparison drug by drug.**
 
 PA is the topic that gets the most emotional reaction in every meeting I attend. Not rebates. Not spread pricing. Prior authorization.
 
@@ -95,7 +102,7 @@ Multiple states have enacted gold card legislation. The details vary, but these 
 
 **Auditing your PA program for ROI**
 
-Most employers know they have PA. Few can tell you whether the value justifies the friction. I walk clients through this regularly, and the exercise is always eye-opening.
+Most employers know they have PA. Few can tell you whether the value justifies the friction. I walk clients through this regularly, and the exercise is always eye-opening. The scoring rubric below is also available as our [PA ROI audit toolkit](https://www.rxbs.org/toolkit/pa-roi-audit).
 
 The basic equation: cost avoided through appropriate denials and redirections, minus administrative costs, care delay costs, and therapy abandonment costs. If the second number is bigger, your PA program is a net negative. Simple math, but it rarely gets done. Not because the advisory teams are missing it, but because PBMs do not hand over this data in a usable format.
 
@@ -171,7 +178,7 @@ Have you audited your PA program for ROI? If you found something unexpected, lea
 
 ### Article Meta
 
-**SEO Title:** The Prior Authorization Problem: Balancing Control and Care | Benefit Blind Spots
+**SEO Title:** How Do You Know If Your Prior Authorization Program Is Worth the Cost? (PA ROI Audit)
 **Meta Description:** Prior authorization was designed to ensure appropriate care. Here is how to audit your PA program for ROI, identify low-value requirements, and negotiate the contract language that gives you control.
 **Tags:** prior authorization, pharmacy benefits, utilization management, gold card, clinical pharmacy
 

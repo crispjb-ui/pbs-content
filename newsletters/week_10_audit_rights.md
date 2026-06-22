@@ -29,6 +29,10 @@
 
 ## Audit Rights vs. Audit Reality: What Your PBM Contract Actually Allows
 
+**Display Title:** Audit Rights vs. Audit Reality: What Your PBM Contract Actually Allows
+**SEO Title (AEO):** What Audit Rights Should a PBM Contract Give You?
+**SEO Subtitle:** How PBM audit rights get quietly limited, and what strong audit language actually looks like
+
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, March 9, 2026 at 7:30 AM EST
 **Length:** ~1,600 words (~6 min read)
@@ -38,6 +42,8 @@
 ---
 
 ### Article Body
+
+**A strong PBM audit clause lets you choose the auditor, examine the underlying claims data, audit more than once a year, and treat the findings as binding. Most contracts grant those rights on paper while quietly restricting all four, which leaves every performance promise unverifiable.**
 
 Your PBM contract says you have audit rights.
 
@@ -174,7 +180,7 @@ What may require walking away:
 
 **Beyond the Contract: Audit Execution**
 
-Having audit rights and exercising them are different things entirely.
+Having audit rights and exercising them are different things entirely. Before you start, our [contract review readiness checklist](https://www.rxbs.org/toolkit/contract-review-readiness) helps you confirm the audit provisions are actually usable.
 
 *Audit Firm Selection*
 
@@ -223,7 +229,7 @@ The employers who audit tend to find money. The question is whether your contrac
 
 ### Article Meta
 
-**SEO Title:** Audit Rights vs. Audit Reality: What Your PBM Contract Actually Allows | Benefit Blind Spots
+**SEO Title:** What Audit Rights Should a PBM Contract Give You?
 **Meta Description:** Your PBM contract says you have audit rights. But can you actually use them? Here's how audit rights get limited and what strong provisions look like.
 **Tags:** PBM audit, audit rights, PBM contracts, self-funded employers, pharmacy benefits, contract review
 **Header Image:** [Use PBS branded image - Audit Rights visual]

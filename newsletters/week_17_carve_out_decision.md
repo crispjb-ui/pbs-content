@@ -36,6 +36,10 @@
 
 ## The Carve-Out Question: When Separating Pharmacy Makes Sense
 
+**Display Title:** The Carve-Out Question: When Separating Pharmacy Makes Sense
+**SEO Title (AEO):** Should You Carve Out Your Pharmacy Benefit from Your Medical Plan?
+**SEO Subtitle:** A decision framework for self-funded employers evaluating pharmacy carve-out vs. bundled administration
+
 **Subtitle:** A decision framework for self-funded employers evaluating pharmacy carve-out vs. bundled administration
 
 **Publication:** Benefit Blind Spots
@@ -47,6 +51,8 @@
 ---
 
 ### Article Body
+
+**Carving the pharmacy benefit out to a standalone PBM contract gives a self-funded plan more pricing transparency, rebate visibility, and competitive leverage than the bundled default. The reasons a bundled PBM calls a carve-out "disruptive" are usually the reasons it benefits from you not looking.**
 
 Ask your PBM about carving out pharmacy. I have watched the reaction enough times to predict it. They will tell you it is disruptive, complex, risky. What they will not tell you is that bundling is how they control your data, your rebate flow, and your negotiating position at renewal.
 
@@ -128,7 +134,7 @@ A total score of 10 to 20 suggests staying bundled and focusing on improving tra
 
 *Illustrative example for educational purposes. Actual evaluation criteria vary by plan.*
 
-No scorecard replaces a thorough financial analysis. But it forces the right questions and tells you whether the evaluation warrants deeper work.
+No scorecard replaces a thorough financial analysis. But it forces the right questions and tells you whether the evaluation warrants deeper work. The printable version of this 10-factor scorecard is on our site at [the Carve-Out Decision toolkit](https://www.rxbs.org/toolkit/carve-out-decision).
 
 **Implementation realities**
 
@@ -162,7 +168,7 @@ Have you evaluated carve-out for your plan? If you went through the process and 
 
 ### Article Meta
 
-**SEO Title:** The Carve-Out Question: When Separating Pharmacy Makes Sense | Benefit Blind Spots
+**SEO Title:** Should You Carve Out Your Pharmacy Benefit from Your Medical Plan?
 **Meta Description:** Most employers never chose their pharmacy benefit structure. Here is a 10-factor decision scorecard for evaluating carve-out versus bundled, plus the implementation realities that follow.
 **Tags:** PBM, carve-out, carve-in, pharmacy benefits, self-funded employers, bundled vs unbundled
 
