@@ -19,12 +19,12 @@
 # Never fails the workflow (best-effort notification).
 set -uo pipefail
 TITLE="🔔 PBS automation log"
-NOTIFY="@crispjb"   # mentioned on every comment so GitHub always emails/pushes
+NOTIFY="@crispjb-ui"   # the repo-owner account; mentioned on every comment so GitHub emails/pushes
 BODY="${1:-(no summary provided)}"
 
 num=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq '.[0].number' 2>/dev/null || true)
 if [ -z "${num:-}" ] || [ "$num" = "null" ]; then
-  url=$(gh issue create --title "$TITLE" --assignee crispjb \
+  url=$(gh issue create --title "$TITLE" --assignee crispjb-ui \
         --body "Rolling log of scheduled automation runs (pipeline build, roundup, critique, system audit, quarterly research, AEO page, briefs). Each comment below is one run, newest at the bottom. Check items off as you action them; leave the issue open." 2>/dev/null || true)
   num=$(printf '%s' "$url" | grep -oE '[0-9]+$' || true)
 fi
@@ -33,7 +33,7 @@ if [ -n "${num:-}" ]; then
   # this assignment + the @mention in the comment DO trigger email/push. When it
   # is the github-actions bot, assignment by the bot does not stick / does not
   # notify (the documented suppression). Best-effort either way.
-  gh issue edit "$num" --add-assignee crispjb >/dev/null 2>&1 || true
+  gh issue edit "$num" --add-assignee crispjb-ui >/dev/null 2>&1 || true
   gh issue comment "$num" --body "$(printf '%s\n\n%s' "$NOTIFY" "$BODY")" >/dev/null 2>&1 || true
   echo "notified issue #$num"
 else
