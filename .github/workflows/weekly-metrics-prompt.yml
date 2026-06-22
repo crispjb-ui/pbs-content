@@ -22,5 +22,5 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
-          body=$(printf "**Weekly metrics reminder** · %s\nPaste this week's LinkedIn + Substack numbers into /log-metrics so the working/weak learnings recompute for next week's builds. (Dashboards are not API-readable, so this step is manual.)" "$(date -u +%F)")
+          body=$(printf "**Weekly metrics reminder** · %s\nPaste this week's LinkedIn + Substack numbers into /log-metrics so the working/weak learnings recompute for next week's builds. (Dashboards are not API-readable, so this step is manual.)\n\n👉 The tracker: https://github.com/%s/blob/main/linkedin_performance_tracker.md" "$(date -u +%F)" "$GITHUB_REPOSITORY")
           bash .github/scripts/notify_issue.sh "$body"

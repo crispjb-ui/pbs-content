@@ -172,8 +172,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
-          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          bash .github/scripts/notify_issue.sh "$(cat <<EOF
           **Weekly Pharmacy Benefits Roundup** · ${{ steps.vars.outputs.date_iso }}
-          Wednesday roundup draft generated in newsletters/roundups/ — review before publish.
+          Wednesday roundup draft generated, review before publish.
+
+          👉 Open the drafts folder: https://github.com/${GITHUB_REPOSITORY}/tree/main/newsletters/roundups
           EOF
           )"

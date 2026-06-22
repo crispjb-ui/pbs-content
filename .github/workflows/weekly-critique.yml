@@ -65,8 +65,10 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
-          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          bash .github/scripts/notify_issue.sh "$(cat <<EOF
           **Weekly Critique + Auto-Fix** · ${{ steps.vars.outputs.date_iso }}
-          The next week to ship was critiqued AND the resolvable fixes were applied to the week file (committed to main). See critique_reports/critique_${{ steps.vars.outputs.date_iso }}.md → the "Left flagged (needs you)" section for the only items still needing your input (e.g., an external URL that does not exist yet). Everything else is ship-clean for Thursday scheduling.
+          The next week to ship was critiqued AND the resolvable fixes were applied to the week file (committed to main). The "Left flagged (needs you)" section lists the only items still needing your input (e.g., an external URL that does not exist yet). Everything else is ship-clean for Thursday scheduling.
+
+          👉 Open the report: https://github.com/${GITHUB_REPOSITORY}/blob/main/critique_reports/critique_${{ steps.vars.outputs.date_iso }}.md
           EOF
           )"
