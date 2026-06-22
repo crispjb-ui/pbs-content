@@ -2,6 +2,9 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+## 🟨 PROPOSED rule refinement — needs Ginny's yes (from `/log-metrics` Jun 22, 2026)
+- **Cuban amplification is shape-dependent (refine the CLAUDE.md "Mark Cuban is a reliable amplifier" rule).** New data point: Cuban *reposted* (confirmed, not like-only) the Friday Potter guest-author **announcement** post, and it reached only **2,883** in the summer trough — no +60-75% breakout. The lift the rule documents applies to the shapes he engages (dollar-comparison, named-adversary, decoder, 340B), but a repost on an **announcement/origin shape does not carry that lift**. Proposed one-line addition to the performance rule: _"Cuban amplification is shape-dependent: a repost only delivers the +60-75% lift on his engagement shapes (dollar-comparison / named-adversary / decoder / 340B); a repost on an announcement, origin, or informational post does not break out (confirmed Jun 2026, Potter announcement + Cuban repost = 2,883)."_ Confirm and I'll add it to CLAUDE.md Performance Data.
+
 > **📌 AEO/GEO initiative — single source of truth: `aeo_geo_master_plan.md`.** The consolidated, sequenced build plan (website pages, structured data, Substack AEO + W26-37 rewrites, social-channel optimization, entity authority/off-site, measurement) with status/owner per item, the Ginny-inputs unblock list, and the definition of done. The wave-1/wave-2 blocks below are the as-built log; the master plan is what to execute against so nothing gets left out.
 
 ## ✅ DONE this session (Jun 19, 2026 — AEO/GEO leadership pass)
