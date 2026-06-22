@@ -1,0 +1,61 @@
+name: Monthly Search Console Pull
+
+# Pulls rxbs.org organic search performance (impressions, clicks, CTR, position,
+# top queries + pages) from the Google Search Console API and appends a snapshot
+# to search_console_tracker.md. The automated search-performance read that
+# complements the manual AI-citation read (ai_visibility_tracker.md).
+#
+# Needs the GSC_SA_KEY repo secret (a Google service-account JSON key; the
+# service account added as a user on the Search Console property). Until that
+# secret exists, the script no-ops with setup instructions and the workflow
+# stays green. No Claude / no ANTHROPIC_API_KEY; pure data pull.
+
+on:
+  schedule:
+    - cron: '0 16 3 * *'   # 3rd of each month ~12:00 ET (after month-end data settles)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  search-console:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install deps
+        run: pip install --quiet google-api-python-client google-auth
+      - id: vars
+        run: echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+      - name: Pull Search Console data
+        env:
+          GSC_SA_KEY: ${{ secrets.GSC_SA_KEY }}
+          GSC_SITE_URL: ${{ secrets.GSC_SITE_URL }}
+        run: python3 tools/gsc_pull.py | tee /tmp/gsc_out.txt
+      - name: Commit snapshot
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git add -A
+          if git diff --staged --quiet; then echo "No snapshot written (likely no credential yet)."; exit 0; fi
+          git commit -m "Search Console snapshot: ${{ steps.vars.outputs.date_iso }}"
+          git push origin HEAD:main
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          if grep -q "Wrote Search Console snapshot" /tmp/gsc_out.txt 2>/dev/null; then
+            body=$(printf "**Monthly Search Console pull** · %s\nNew organic-search snapshot appended to search_console_tracker.md (impressions, clicks, CTR, position, top queries + pages). Review for low-CTR queries (title/meta fix) and climbing target queries." "$(date -u +%F)")
+          else
+            body=$(printf "**Monthly Search Console pull** · %s\nSkipped: GSC_SA_KEY not set yet (or no data). One-time setup steps are in search_console_tracker.md. Until then this stays a no-op." "$(date -u +%F)")
+          fi
+          bash .github/scripts/notify_issue.sh "$body"

@@ -9,7 +9,7 @@ This command builds **one** page per run. It does not commit; the calling workfl
 ## Step 1 — Read the plan and inventory what already exists
 
 1. Read `website_aeo_master_plan.md` in full, paying special attention to **Section E (the content-cluster map)** that lists the planned `/guides/<topic>` pages and their priority.
-2. Read `aeo_geo_master_plan.md` for the broader AEO/GEO strategy (entity disambiguation, answer-first structure, canonical-twin rules).
+2. Read `aeo_geo_master_plan.md` for the broader AEO/GEO strategy (entity disambiguation, answer-first structure, canonical-twin rules), and skim `aeo_seo_playbook.md` for any current technique refresh (schema, answer-engine citation behavior) to apply on the new page.
 3. Glob `website_mockups/site/` for the pages that already exist — `guide-*.html` and `compare-*.html` — and build the list of which cluster-map pages are **already done** vs. **still missing**.
 
 ## Step 2 — Pick the single highest-priority MISSING page

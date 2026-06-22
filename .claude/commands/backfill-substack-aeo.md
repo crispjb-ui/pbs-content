@@ -12,7 +12,7 @@ Search `newsletters/week_06_*.md` through `newsletters/week_25_*.md` and find th
 
 ## Step 2 — Apply `substack_aeo_rules.md` to PART 1 and PART 1B only
 
-Read `substack_aeo_rules.md` and apply it to the chosen file's **PART 1 (deep dive)** and **PART 1B (field note)** ONLY, exactly the way W26-W37 were done:
+Read `substack_aeo_rules.md` (and skim `aeo_seo_playbook.md` for any current technique refresh that affects titles/answer-first/schema) and apply it to the chosen file's **PART 1 (deep dive)** and **PART 1B (field note)** ONLY, exactly the way W26-W37 were done:
 
 - Add the title lines at the top of each article:
   - `**Display Title:**` (the existing confrontational/display title)
