@@ -33,9 +33,14 @@ if [ -n "${num:-}" ]; then
   # this assignment + the @mention in the comment DO trigger email/push. When it
   # is the github-actions bot, assignment by the bot does not stick / does not
   # notify (the documented suppression). Best-effort either way.
-  gh issue edit "$num" --add-assignee crispjb-ui >/dev/null 2>&1 || true
-  gh issue comment "$num" --body "$(printf '%s\n\n%s' "$NOTIFY" "$BODY")" >/dev/null 2>&1 || true
-  echo "notified issue #$num"
+  if ! assignout=$(gh issue edit "$num" --add-assignee crispjb-ui 2>&1); then
+    echo "notify_issue: assign failed (non-fatal): $assignout"
+  fi
+  if commentout=$(gh issue comment "$num" --body "$(printf '%s\n\n%s' "$NOTIFY" "$BODY")" 2>&1); then
+    echo "notify_issue: commented issue #$num"
+  else
+    echo "notify_issue: COMMENT FAILED (non-fatal). gh said: $commentout"
+  fi
 else
   echo "notify_issue: could not resolve/create the rolling issue (non-fatal)"
 fi
