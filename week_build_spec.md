@@ -71,6 +71,7 @@ Check `wendell_potter_cascade_alignment.md`, `wendell_potter_contributorship_str
 - [ ] Every scheduled slot in the Run of Show has live, schedulable content (or a ⚠ with a clear next action).
 
 ## 7. Toolkit sync (if a toolkit ships)
+- [ ] **Refer-back-first check (added Jun 23, 2026, required):** before minting any new toolkit, confirm `email_gated_toolkit/toolkit_dataset.md` has NO existing toolkit covering this week's topic/mechanic. If one exists, **reuse it** (link the live `rxbs.org/toolkit/<slug>` in the deep dive + Field Note + first comments; no new asset) and skip the rest of this section. Mint a new toolkit ONLY for a genuinely-unique topic with no match. A week with no gap ships zero new toolkits.
 - [ ] `templates/documents/week_NN_*.html` exists; PDF re-rendered (WeasyPrint) + preview PNG re-rendered (render_preview.py) in the same commit.
 - [ ] 2 pages (or an approved 3-page exception); footers render on every page.
 - [ ] **Bleed gate (required, Jun 9 2026):** `.page` CSS has `height:11in` and NO `overflow:hidden`; `python3 templates/documents/_audit_pdfs.py` reports **0 flagged** (page count, footer present each page, no body-over-footer overlap). A toolkit is not done until this passes.
