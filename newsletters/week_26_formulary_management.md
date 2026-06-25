@@ -19,7 +19,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jun 29 | 7:00 PM | X | question [A6] | PART 4B · Mon | [ ] |
 | Mon Jun 29 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
 | Tue Jun 30 | 8:00 AM | X | dollar comparison (copay vs cash) | PART 4B · Tue | [ ] |
-| Tue Jun 30 | 10:00 AM | LI Feed | Post 93 — "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (Bypass/Funnel clean infographic, Transparency) | Post 93 | [ ] |
+| Tue Jun 30 | 8:30 AM | LI Feed | Post 93 — "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (Bypass/Funnel clean infographic, Transparency) | Post 93 | [ ] |
 | Tue Jun 30 | 12:00 PM | X | structural / news-adjacent (hold) | PART 4B · Tue | [ ] |
 | Tue Jun 30 | 1:30 PM | LI Company | Reshare of Post 93 | Post 93 Reshare | [ ] |
 | Tue Jun 30 | 5:00 PM | X | Tue decoder driver (after the Tue LinkedIn post publishes) | PART 4B · Tue | [ ] |
@@ -28,13 +28,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 1 | 8:00 AM | X | named-adversary / rebate retention (general; protects the Thu term-set) | PART 4B · Wed | [ ] |
 | Wed Jul 1 | 8:30 AM | LI Feed | Post 94 — SHRM clip1 "They keep the difference" (spread) · NATIVE 9:16 VIDEO; first comment → channel-pricing toolkit | Post 94 | [ ] |
 | Wed Jul 1 | 12:00 PM | X | decoder (rebate vs discount) | PART 4B · Wed | [ ] |
+| Wed Jul 1 | 12:30 PM | X | long-form trial (who controls your formulary) [swaps one thread] | PART 4B · Wed | [ ] |
 | Wed Jul 1 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Jul 1 | 5:00 PM | X | stat-shock / structural | PART 4B · Wed | [ ] |
 | Wed Jul 1 | 7:00 PM | X | question [A8] | PART 4B · Wed | [ ] |
 | Wed Jul 1 | 8:30 PM | X | aphorism [C8] | PART 4B · Wed | [ ] |
 | Thu Jul 2 | 7:30 AM | Substack | Field Note: "Auditing Your Step Therapy Override Workflow" | PART 1B | [ ] |
 | Thu Jul 2 | 8:00 AM | X | named-adversary / formulary swap (protects the Thu reveal) | PART 4B · Thu | [ ] |
-| Thu Jul 2 | 10:00 AM | LI Feed | Post 95 — "5 Step Therapy Override Terms Decoded" (Sticky Note Dashboard messy infographic) | Post 95 | [ ] |
+| Thu Jul 2 | 8:30 AM | LI Feed | Post 95 — "5 Step Therapy Override Terms Decoded" (Sticky Note Dashboard messy infographic) | Post 95 | [ ] |
 | Thu Jul 2 | 12:00 PM | X | Thu-visual amplifier (after 8:30/10:00 publish) `[VISUAL: Step Therapy Override decoder]` | PART 4B · Thu | [ ] |
 | Thu Jul 2 | 1:30 PM | LI Company | Reshare of Post 95 | Post 95 Reshare | [ ] |
 | Thu Jul 2 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -42,7 +43,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Jul 2 | 7:00 PM | X | question [A9] | PART 4B · Thu | [ ] |
 | Thu Jul 2 | 8:30 PM | X | one question [B8] | PART 4B · Thu | [ ] |
 | Fri Jul 3 | 8:00 AM | X | named-adversary / specialty concentration | PART 4B · Fri | [ ] |
-| Fri Jul 3 | 10:00 AM | LI Feed | Post 96 — "The question that reveals everything about your PBM" tease (teases W27) | Post 96 | [ ] |
+| Fri Jul 3 | 8:30 AM | LI Feed | Post 96 — "The question that reveals everything about your PBM" tease (teases W27) | Post 96 | [ ] |
 | Fri Jul 3 | 12:00 PM | X | decoder (specialty definition) | PART 4B · Fri | [ ] |
 | Fri Jul 3 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Jul 3 | 5:00 PM | X | punchy / forward (light pre-holiday; teases W27) | PART 4B · Fri | [ ] |
@@ -64,7 +65,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Jul 5 | 7:00 PM | X | question [A12] | PART 4B · Sun | [ ] |
 | Sun Jul 5 | 8:30 PM | X | one question [B9] | PART 4B · Sun | [ ] |
 
-> **NOTE:** July 4 week. Lower LinkedIn engagement expected. Testing 10:00 AM post time (research-backed optimal vs. our 8:30 AM baseline). Strong newsletter week since email is unaffected by holiday.
+> **NOTE:** July 4 week. Lower LinkedIn engagement expected. Feed posts publish at 8:30 AM EST (the standard since W19; the 10:00 AM test concluded W18 and reverted). Strong newsletter week since email is unaffected by holiday.
 
 ---
 
@@ -334,7 +335,7 @@ The decoded vocabulary tells you what the contract says. The audit tells you wha
 **SEO Title:** Auditing Your Step Therapy Override Workflow | Benefit Blind Spots
 **SEO Title (AEO):** How Do You Audit a PBM Step Therapy Override Workflow? (3 Passes for Plan Sponsors)
 **SEO URL Slug:** audit-step-therapy-override-workflow
-**Meta Description:** Five step therapy override terms decoded this morning. Three audit passes plan sponsors can run on the actual override workflow, the pattern PBS sees most often, and the gap between contract clause and workflow execution.
+**Meta Description:** Five step therapy override terms decoded this morning. Three audit passes plan sponsors can run on the actual override workflow, the pattern we see most often, and the gap between contract clause and workflow execution.
 **Tags:** step therapy, override workflow, PBM contracts, prior authorization, denial rates, self-funded employers
 
 ### Field Note Header Image Prompt
@@ -376,8 +377,8 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `Step therapy override approval rates are often driven by rebate-retention economics on the step-1 drug, not clinical criteria alone. Rebate retention is one of five PBM compensation streams. This worksheet maps all five and the disclosure-gap framework that surfaces whether your override workflow is compensation-driven or clinically-driven. The clinical question is often downstream of the contract question.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `field_note_title` | `Auditing Your Step Therapy Override Workflow` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow` _(live once the Field Note publishes Thu Jul 2)_ |
 
 ### Wix build checklist
 
@@ -391,7 +392,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 
 ### Pairing rationale
 
-PBM Compensation anchors the rebate-retention thread driving step therapy decisions. Channel Pricing Field Note carries the same audit posture.
+PBM Compensation is the universal "zoom out" pairing: step therapy override approval rates often track the rebate on the step-1 drug, not clinical criteria alone, so the PBM Compensation worksheet surfaces whether the override workflow is compensation-driven. The paired Field Note is this week's "Auditing Your Step Therapy Override Workflow," which carries the same three-pass audit posture.
 
 ---
 
@@ -475,7 +476,7 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 93 - Tuesday 10:00 AM
+## Post 93 - Tuesday 8:30 AM
 ### "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" — Bypass / Funnel Clean Infographic
 
 **Format:** Clean infographic, Bypass/Funnel template. 1080 x 1350 px. (Tuesday Cycle-W4 slot is nominally a messy-infographic; deviated to a clean Bypass/Funnel here on purpose. The content is a "money routes around the rebate gate" flow argument, which a conceptual diagram dramatizes far better than a photo of legalese, and it varies the canvas off the Marked-Up Contract Page used elsewhere this week. Displaced formulary draft remains parked in `evergreen_visual_backlog.md`.)
@@ -488,7 +489,7 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 ```
 Your PBM says it passes through 100% of rebates. Then it collects five other payments from drug manufacturers it does not call rebates, so the pass-through guarantee never touches them.
 
-We review hundreds of PBM contracts a year at PBS. These line items hide outside the rebate definition on most of them. Same manufacturer money, tied to your plan's drugs, sitting one defined word away from your report.
+We review hundreds of PBM contracts a year at Prescription Benefit Solutions. These line items hide outside the rebate definition on most of them. Same manufacturer money, tied to your plan's drugs, sitting one defined word away from your report.
 
 Five payments to decode:
 
@@ -572,7 +573,7 @@ Now run that on a GLP-1, where a single month can list north of $1,000, and the 
 
 The part most plan sponsors miss is that the contract can be written so you never see the gap. What the pharmacy is paid and what your plan is charged sit on two different price schedules, and nothing in the agreement requires the PBM to show you the difference.
 
-We review hundreds of PBM contracts a year at PBS. Spread language is in nearly every one. Most plan sponsors don't know it's there until someone reads the definitions section out loud.
+Spread language sits in nearly every PBM contract we read at Prescription Benefit Solutions. Most plan sponsors don't know it's there until someone reads the definitions section out loud.
 
 And it isn't only GLP-1s. It's the whole formulary.
 
@@ -601,7 +602,7 @@ _Preserved for re-slotting on a non-clip Wednesday (on-theme for formulary weeks
 **Format:** Text Post (Strong POV) — VIDEO ALTERNATIVE AVAILABLE
 **Pillar:** Transparency & Industry Education
 **Word Count:** ~220 words
-**Post Time:** 10:00 AM EST (testing new time)
+**Post Time:** 8:30 AM EST
 
 > **NOTE:** Expanded to ~220 words for dwell time optimization. First video test if filming is ready. If not, post text version. Hook lands before 210-character "See More" cutoff.
 
@@ -664,14 +665,14 @@ One question changes the conversation: what is the net cost, our formulary vs. a
 #### First Comment
 
 ```
-This week's Benefit Blind Spots deep dive on formulary management and PBM rebate economics is the operational follow-on: the formulary evaluation framework with the 4 questions to ask your PBM. https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
+This week's Benefit Blind Spots deep dive on formulary management and PBM rebate economics is the operational follow-on: the formulary decision audit with the seven questions to ask your PBM. https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
 ```
 
 ---
 
-## Post 95 - Thursday 10:00 AM
+## Post 95 - Thursday 8:30 AM
 
-_The Formulary Evaluation Framework contract-markup carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Formulary Evaluation Framework). The live Thursday post is below._
+_The Formulary Independence Scorecard was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Formulary Independence Scorecard). The live Thursday post is below._
 
 ### Thursday Excellence Slot - 5 Step Therapy Override Terms Decoded — Sticky Note Dashboard Messy Infographic
 
@@ -691,7 +692,7 @@ Each big-3 PBM now excludes more than 600 drugs from its main formulary, an all-
 
 Five contract clauses govern that override. The override workflow is rarely what the clauses describe.
 
-We audit how step therapy actually runs on plan claims at PBS, not just how the clause reads. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
+We audit how step therapy actually runs on plan claims at Prescription Benefit Solutions, not just how the clause reads. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
 Five terms to know:
 
@@ -734,7 +735,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 > Note 4 (middle-right): "Prescriber Attestation Language" → red pen: "Aggressive liability language deters prescribers from filing at all."
 > Note 5 (bottom-center): "Member Cost-Share During Override" → red pen: "Full price = abandonment at counter, regardless of medical necessity."
 >
-> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink as a summary card: "PBS reviews 100s of PBM contracts a year. Override approval rate <60% = workflow is gating. Audit the gap."
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink as a summary card: "We review 100s of PBM contracts a year. Override approval rate <60% = workflow is gating. Audit the gap."
 >
 > A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
 >
@@ -767,7 +768,7 @@ Ginny Crisp decodes the override language.
 
 ---
 
-## Post 96 - Friday 10:00 AM
+## Post 96 - Friday 8:30 AM
 ### "The question that reveals everything about your PBM" Tease Hook (Text) - TEASES WEEK 27
 
 **Format:** Text Post (Tease Hook)
@@ -788,6 +789,8 @@ Most employers have never asked it. Not because the answer is hard to get. Becau
 Your PBM knows the market. Your broker knows the market. The question is whether you know it.
 
 Next week: when to stay, when to switch, and a 100-point scorecard that removes the guesswork.
+
+#PBMContracts #PBMRFP #PharmacyBenefits
 ```
 
 #### First Comment
@@ -844,7 +847,7 @@ I watched a P&T committee meeting from the observer seat where the clinical argu
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: three formulary questions your PBM should answer immediately. Not next quarter. Not at renewal. Now. The answers tell you everything about whose interests the formulary serves.
+New field note: auditing your step therapy override workflow. This morning's LinkedIn post decoded the five contract terms; the field note is the operational follow-on, three audit passes you can run on how the override actually executes on your plan's claims (approval rate, denial-reason mix, clause vs. workflow).
 
 Read the field note: https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
 
@@ -904,7 +907,7 @@ I had a young pharmacist ask me whether she should stay in retail or move into p
 
 > **Convention (see `x_account_strategy.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour reactions on top when PBM news breaks. **NOT locked to Monday's formulary topic.** X skews to the Cuban-bait shapes and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention). Hold the PM slot loosely for a live news-reaction bump; tag the source.
 >
-> **LinkedIn-first rule (required):** (1) the **Tue "The Formulary Decision You Never Made" Marked-Up Contract Page decoder** publishes Tue (listed 10:00 AM; may revert to 8:30 per the W19 finding) — the Tue PM decoder driver is scheduled AFTER it. (2) the **Thu "5 Rebate Retention Terms Decoded" messy infographic** publishes Thu — its specific term-set does NOT appear in Mon-Wed slots; the Thu midday amplifier runs AFTER the Thu publish. AM slots lead with the named-adversary shape.
+> **LinkedIn-first rule (required):** (1) the **Tue Post 93 "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" Bypass/Funnel clean infographic** publishes Tue 8:30 AM (the 8:30 AM standard per the W19 finding); the Tue 5:00 PM decoder driver is scheduled AFTER it. (2) the **Thu Post 95 "5 Step Therapy Override Terms Decoded" Sticky Note Dashboard messy infographic** publishes Thu 8:30 AM; its specific term-set does NOT appear in Mon-Wed slots, and the Thu midday amplifier runs AFTER the Thu publish. AM slots lead with the named-adversary shape.
 >
 > **Holiday note:** this week spans the **July 4 weekend** (Fri Jul 3 / Sat Jul 4 / Sun Jul 5). Per CLAUDE.md this is a documented slow window. Keep the scheduled posts (X news/evergreen content runs fine on holidays), but lighten the amplifier patrol and soften the Sat Jul 4 morning post off hard adversary framing. No politics on the holiday; profession-identity and affordability framing only.
 
@@ -940,9 +943,9 @@ Your member's drug: $300 copay through the plan. $80 cash with a coupon the PBM 
 ```
 Every few months a state passes a law reining in PBM formulary games, and the PBM sues to block it. They don't litigate over things that don't make money. The lawsuits are a map of where the margin is.
 ```
-- **5:00 PM · Tue decoder driver (Marked-Up Contract Page; SCHEDULE AFTER the Tue LinkedIn post publishes):**
+- **5:00 PM · Tue decoder driver (Bypass/Funnel "5 manufacturer payments"; SCHEDULE AFTER the Tue LinkedIn post publishes):**
 ```
-The formulary decision you never made: somewhere in your contract is a clause letting your PBM change your drug list to fit its rebate strategy, no plan-sponsor sign-off required. You delegated your drug list and didn't know it was on the form.
+Your PBM swears it passes through 100% of rebates. Then it collects five other payments from drug manufacturers it never calls rebates: admin reimbursement, price protection, formulary placement, data fees, GPO service fees. The pass-through guarantee never touches them. Same manufacturer money, one defined word away from your report.
 ```
   First reply (link):
 ```
@@ -992,7 +995,7 @@ Drug list prices have roughly doubled over a decade while net prices stayed flat
 ```
 It is mid-year. Who has a renewal model built on your H1 claims right now? Your PBM does. If your plan does not, the renewal is already half-decided before the first meeting.
 ```
-  First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
+  First reply → The mid-year renewal-readiness tools live on Benefit Blind Spots: benefitblindspots.substack.com
 - **8:30 PM · aphorism [C8]:**
 ```
 The PBM didn't lower your drug costs. It moved them to a line you don't read and called the move a discount.
@@ -1003,9 +1006,9 @@ The PBM didn't lower your drug costs. It moved them to a line you don't read and
 ```
 Your PBM excluded a drug your member was stable on, citing "formulary management." The replacement isn't better. It just pays a bigger rebate. Your member's working therapy got swapped for the PBM's preferred revenue. That's not management. It's a sale, and your member is the inventory.
 ```
-- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: 5 Rebate Retention Terms Decoded messy infographic]`:**
+- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: 5 Step Therapy Override Terms Decoded Sticky Note Dashboard messy infographic]`:**
 ```
-Five places your PBM retains rebate money before "pass-through" even begins. Five terms in your contract that authorize it. Most plan sponsors have never read any of them, because they sound like services. Today's decode:
+Five contract terms govern the step therapy override your member hits when the PBM excludes their drug. The clause says one thing; the workflow does another. When override approval rates drop below 60%, the workflow is gating clinically appropriate therapy. Today's decode:
 ```
   First reply (link):
 ```
@@ -1132,15 +1135,15 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 ## Content Schedule
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
 - [ ] Monday: Substack Notes (morning + afternoon)
-- [ ] Tuesday: Post 93 Bypass/Funnel clean infographic at 10:00 AM
+- [ ] Tuesday: Post 93 Bypass/Funnel clean infographic at 8:30 AM
 - [ ] Tuesday: First Comment + Company Reshare at 1:30 PM
-- [ ] Wednesday: Post 94 Strong POV / Video at 10:00 AM
-- [ ] Thursday: Field Note at 7:30 AM, Post 95 Step Therapy Override Sticky Note (messy infographic) at 10:00 AM
+- [ ] Wednesday: Post 94 native 9:16 video at 8:30 AM
+- [ ] Thursday: Field Note at 7:30 AM, Post 95 Step Therapy Override Sticky Note (messy infographic) at 8:30 AM
 - [ ] Thursday: Company Reshare at 1:30 PM
-- [ ] Friday: Post 96 Tease Hook at 10:00 AM
+- [ ] Friday: Post 96 Tease Hook at 8:30 AM
 - [ ] Daily: Substack Notes per schedule
-- [ ] Track 10:00 AM posting time performance vs. 8:30 AM baseline
-- [ ] Verify Tuesday messy infographic does NOT reference formulary topic directly (different angle: PBM decision flow)
+- [ ] Feed posts publish at 8:30 AM (10:00 AM test concluded W18, reverted W19)
+- [ ] Verify Tuesday Bypass/Funnel clean infographic stays off the formulary topic (angle: manufacturer payments that bypass the rebate pass-through)
 - [ ] Verify Thursday messy infographic carries the step-therapy override theme (adjacent to formulary, not same subject)
 
 ---
@@ -1174,18 +1177,14 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 
 | Post | Time | Impressions | Eng Rate | Comments | Saves |
 |------|------|------------|----------|----------|-------|
-| Post 93 (Tue Messy Info) | 10:00 AM | | | | |
-| Post 94 (Wed Text/Video) | 10:00 AM | | | | |
-| Post 95 (Thu Sticky Note) | 10:00 AM | | | | |
-| Post 96 (Fri Tease) | 10:00 AM | | | | |
+| Post 93 (Tue Clean Info) | 8:30 AM | | | | |
+| Post 94 (Wed 9:16 Video) | 8:30 AM | | | | |
+| Post 95 (Thu Sticky Note) | 8:30 AM | | | | |
+| Post 96 (Fri Tease) | 8:30 AM | | | | |
 
-## Posting Time Test Results
+## Posting Time
 
-| Metric | 8:30 AM Baseline (Q2 avg) | 10:00 AM Test (This Week) | Difference |
-|--------|--------------------------|--------------------------|------------|
-| Avg Impressions | | | |
-| Avg Engagement Rate | | | |
-| Avg Comments | | | |
+_The 10:00 AM posting-time test concluded W18 and reverted to the 8:30 AM standard starting W19 (see CLAUDE.md / linkedin_performance_tracker.md). W26 feed posts publish at 8:30 AM; no active time test this week._
 
 ---
 
