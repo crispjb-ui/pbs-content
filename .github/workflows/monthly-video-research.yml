@@ -1,0 +1,61 @@
+name: Monthly Video Research
+
+# Researches current video best practices + competitor/advisor video teardown,
+# analyzes PBS's own video results, auto-updates video_content_bank.md (new
+# scripted concepts, repurpose picks, re-ranked shoot-list, retirements), and
+# proposes rule-level changes to OPEN_ITEMS. Research/drafting only; never
+# publishes. Uses the same ANTHROPIC_API_KEY.
+
+on:
+  schedule:
+    - cron: '0 13 20 * *'   # 20th of each month, ~9-10 AM ET (spaced from the other monthly jobs)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write   # required by claude-code-action to fetch its OIDC token
+  issues: write
+
+jobs:
+  video-research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - id: vars
+        run: echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+      - name: Run /video-research
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch"
+          prompt: |
+            Read CLAUDE.md first. Then run the /video-research slash command
+            (.claude/commands/video-research.md). Research current video best
+            practices + a competitor/advisor video teardown (benchmark set:
+            independent PBM auditors / pharmacy-benefits consultants, and
+            benefits-broker / advisor thought leaders), analyze PBS's own video
+            results, AUTO-UPDATE video_content_bank.md (new scripted concepts,
+            repurpose picks, re-ranked shoot-list, retirements; dated changelog),
+            and PROPOSE any rule-level change to OPEN_ITEMS.md (do not edit
+            CLAUDE.md). Adversarially verify (CONFIRMED/DIRECTIONAL + source +
+            date); never fabricate metrics; never publish. Write the two-section
+            notify body to /tmp/notify_body.md. Do not commit; the next step commits.
+      - name: Commit bank updates
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git add -A
+          if git diff --staged --quiet; then echo "No video-research updates produced."; exit 0; fi
+          git commit -m "Monthly video research: ${{ steps.vars.outputs.date_iso }}"
+          git push origin HEAD:main
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat /tmp/notify_body.md 2>/dev/null || echo '**Monthly Video Research** ran; see the latest commit to video_content_bank.md.')"

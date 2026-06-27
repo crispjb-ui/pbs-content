@@ -1,0 +1,67 @@
+# Video Content Bank (Ginny / Prescription Benefit Solutions)
+
+_Created Jun 23, 2026. The always-on supply of video concepts the build pulls from. Maintained monthly by `/video-research` (`.claude/commands/video-research.md`); consumed by `/build-week` (the Wednesday 9:16 video slot) and `/clip-podcast` (repurposed clips). Mirrors how `platform_playbooks.md` feeds the build, but this bank holds the actual concepts/scripts, not the best-practices layer._
+
+**Scope:** LinkedIn 9:16 (feed + video tab), YouTube Shorts, TikTok, Instagram Reels, X. Two production modes: **(A) scripted talking-head** Ginny films on her phone (the CLAUDE.md Wednesday 9:16 pattern), and **(B) repurposed clips** from podcasts/long-form via `/clip-podcast`. Distribution to non-LinkedIn platforms is gated until those accounts go live (see OPEN_ITEMS); LinkedIn 9:16 is live now.
+
+**Rules every concept inherits (from CLAUDE.md):** hook in the first 3 seconds; captions burned in (autoplay is muted); 9:16 native upload as a file (never a YouTube link); link in the first comment; one proprietary anchor; a proven shape (shocking hidden-structure fact, decoder, named-adversary/dollar-comparison, origin). Where a researched best practice conflicts with PBS's measured data (`linkedin_performance_tracker.md`), the measured data wins.
+
+---
+
+## Active shoot-list (next to film — top of the queue)
+
+_The 3-5 highest-priority ready-to-film scripted concepts. `/build-week` pulls the top one for the Wednesday slot; `/video-research` re-ranks monthly on freshness + the working/weak read._
+
+| # | Hook (first 3s) | Shape | Status | Platforms |
+|---|------------------|-------|--------|-----------|
+| V1 | "Your PBM passes through 100% of rebates. The middleman it owns does not." | Shocking hidden-structure (offshore rebate aggregator/GPO) | scripted, ready | LI 9:16 (long ~75s) + Shorts/TikTok/Reels (short ~25s) |
+| V2 | "Five fees on your PBM invoice. The PBM wrote all five definitions." | Decoder (admin-fee translation) | scripted, ready | LI 9:16 + short cuts |
+| V3 | "I didn't set out to read contracts for a living." | Origin (pharmacist-to-auditor) | draft script | LI 9:16 + Shorts |
+
+---
+
+## Scripted talking-head concepts (Mode A bank)
+
+_Film-ready or near-ready. Each: hook, shape, ~45-90s beat sheet, proprietary anchor, status. `/video-research` adds/retires here monthly._
+
+### V1 — Offshore rebate aggregator (shocking hidden-structure)
+- **Hook (0-3s):** "Your PBM passes through 100% of your rebates. The middleman it owns does not have to."
+- **Beats:** (1) the promise: 100% pass-through. (2) the reveal: a rebate aggregator/GPO (the real ones are Ascent, Emisar, Zinc) takes its cut *before* "pass-through" begins. (3) the math: manufacturer pays $1,000, the aggregator skims first, you get 100% of what's left. (4) anchor: "We review hundreds of PBM contracts a year, and this layer is in most of them." (5) CTE: "Ask your PBM which rebate aggregator it uses, and who owns it."
+- **Shape:** shocking hidden-structure reveal (the canonical ~18K breakout shape). **Anchor:** offshore-GPO names + hundreds-of-contracts. **Status:** ready. Source: `shocking_fact_bank.md` / X recipe bank entry 20.
+
+### V2 — Admin-fee decoder
+- **Hook:** "Five fees on your monthly PBM invoice. Five definitions the PBM wrote itself."
+- **Beats:** name the five line items → each has a PBM-authored definition → "most plan sponsors pay the total without translating a single line" → anchor: "the same five labels show up on nearly every contract we review" → CTE: "Pull last month's invoice and ask for the contract section behind each fee."
+- **Shape:** decoder (named-actor vocabulary). **Status:** ready. (Note: vocabulary decoders run ~4-5K in summer vs ~15-18K for hidden-structure reveals — pair this one with V1 as the higher-ceiling lead.)
+
+### V3 — Origin: pharmacist to auditor
+- **Hook:** "I didn't set out to read contracts for a living. I set out to help people afford their prescriptions."
+- **Beats:** the pharmacy-counter moment → realizing the price was set in a contract nobody at the counter ever saw → "so I learned to read the contract" → anchor: a specific early career scene → CTE soft (no link; origin builds the person-entity). **Shape:** origin. **Status:** draft script. (Cap: origin underperforms on X; strong on LinkedIn/Reels. 1/month max.)
+
+---
+
+## Repurpose clip queue (Mode B — from podcasts/long-form)
+
+_Clips identified from Ginny's appearances, handed to `/clip-podcast` for the plan + manifest. The SHRM batch is in `social_clips/honest-hr-shrm_2026-06-09_clips.md`._
+
+- **SHRM "Honest HR" batch** — 7 clips packaged, multi-platform wrappers ready; LinkedIn live, others queued on accounts. (Scheduled W26-W36 per CLAUDE.md.)
+- _`/video-research` adds new source appearances here as the podcast pipeline deepens (see `podcast_outreach_sprint.md`)._
+
+---
+
+## Shipped video performance log
+
+_Once a video ships, log its result here (impressions, watch-through, saves, followers, which platform) so `/video-research` learns. Seeded empty; the first properly-spec'd 9:16 clip starts the clean read (the prior Wednesday video predated the 9:16 spec, per the Jun 22 metrics caveat)._
+
+| Date | Concept | Platform | Impr | Watch-through | Saves | Followers | Notes |
+|------|---------|----------|------|---------------|-------|-----------|-------|
+| _(none yet)_ | | | | | | | |
+
+---
+
+## Retired / fatigued concepts
+_(none yet — `/video-research` moves a concept here after two consecutive soft ships of the same shape, per the decoder-fatigue logic.)_
+
+## Changelog
+### 2026-06-23 (seed)
+- Bank created with the shoot-list + 3 scripted concepts (offshore-rebate reveal, admin-fee decoder, origin) drawn from PBS's proven shapes + the SHRM repurpose batch. Future entries written by `/video-research` monthly.
