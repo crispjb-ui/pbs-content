@@ -40,6 +40,20 @@ _Film-ready or near-ready. Each: hook, shape, ~45-90s beat sheet, proprietary an
 
 ---
 
+## Recurring format — "Ask Ginny" (DM → video reply) [Mode A, two-way]
+
+_The two-way "place" to answer decision-makers' questions, low-lift (no live event). Added Jun 23, 2026. This is both an engagement play AND a video-bank feeder, and the DM'd questions validate/expand `buyer_anxiety_map.md`._
+
+**The loop:**
+1. **Call-for-questions post** (LinkedIn text/video, ~monthly): "DM me the one PBM question keeping you up at night. I'll pick a few and answer them on camera, no pitch." Anchor it in `buyer_anxiety_map.md` (name a couple of the fears so people see themselves).
+2. **Ginny picks 2-3 questions** that map to live anxiety rows (or surface a new one).
+3. **9:16 talking-head reply, one per question** (15-45s each): restate the question on screen → answer plainly → one proprietary anchor → soft CTE ("DM the next one"). Captions burned in. These fill Wednesday video slots and cut down to Shorts/TikTok/Reels.
+4. **Log** the question + which anxiety row it hit (add a row to the anxiety map if new); the reply video goes to the shipped-performance log.
+
+**Why it fits:** authentic (real questions, real answers), anxiety-anchored (the highest-converting frame in PBS's data), and it manufactures a steady supply of on-voice 9:16 clips without a script-from-scratch lift. The questions are also free market research into what the audience actually worries about.
+
+**Cadence:** monthly call-out; the 2-3 reply videos distribute across the following weeks' video slots. Scale the call-out frequency up if DM volume supports it.
+
 ## Repurpose clip queue (Mode B — from podcasts/long-form)
 
 _Clips identified from Ginny's appearances, handed to `/clip-podcast` for the plan + manifest. The SHRM batch is in `social_clips/honest-hr-shrm_2026-06-09_clips.md`._

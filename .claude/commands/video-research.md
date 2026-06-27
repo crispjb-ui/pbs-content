@@ -11,6 +11,7 @@ Read for context every run:
 - `platform_playbooks.md` — current video best practices (LinkedIn 9:16/video-tab, YouTube Shorts, TikTok, Reels, X). Apply the latest specs/hooks; the measured-data override below still wins.
 - `linkedin_performance_tracker.md` — PBS's own video + post performance, the WORKING/WEAK shapes, the shocking-fact-gate finding, the summer-floor reads.
 - `shocking_fact_bank.md` + `x_recipe_post_bank.md` — source material for new hooks.
+- `buyer_anxiety_map.md` — the pain-point lens; turn anxiety rows into 9:16 talking-head scripts (fear in the first 3s, answer in the middle, asset CTA). Also maintain the **"Ask Ginny" DM → video-reply** recurring format in the bank, and add any new anxiety surfaced by DM'd questions back to the map.
 - `social_clips/` + `podcast_outreach_sprint.md` — the repurpose pipeline state.
 
 ## Step 1 — Research current video best practices + competitor teardown (adversarial verification)

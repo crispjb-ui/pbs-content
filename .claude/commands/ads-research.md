@@ -7,7 +7,7 @@ You are running the PBS monthly **paid-ads** engine. Read `CLAUDE.md` first (bra
 
 **Two files this engine maintains:** `paid_ads_bank.md` (PBS ad concepts/copy/creative + performance log) and `competitor_ad_teardown.md` (what competitors + advisors run). Edit both in place. The ads feed the **existing, live toolkit lead-magnet funnel** (`rxbs.org/toolkit/<slug>` → 5-email sequence). This command **never auto-spends and never publishes.**
 
-Read for context: `email_gated_toolkit/toolkit_dataset.md` (the toolkit offers + slugs the ads point to), `linkedin_performance_tracker.md` (what organic shapes convert + the funnel-outcome log), `platform_playbooks.md` (LinkedIn ad-format norms).
+Read for context: `email_gated_toolkit/toolkit_dataset.md` (the toolkit offers + slugs the ads point to), `linkedin_performance_tracker.md` (what organic shapes convert + the funnel-outcome log), `platform_playbooks.md` (LinkedIn ad-format norms), `buyer_anxiety_map.md` (the pain-point lens — build the **"What keeps you up at night" ad series**: one ad per anxiety row, each offering the matching toolkit, targeted to that row's persona).
 
 ## Step 1 — Competitor / like-brand ad sweep (LinkedIn Ad Library)
 Benchmark set (Ginny's pick): **independent PBM auditors / pharmacy-benefits consultants** + **benefits brokers / advisor thought leaders**. (Transparent-PBM and Potter-style advocates are de-scoped.)

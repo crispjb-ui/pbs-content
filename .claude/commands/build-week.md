@@ -21,6 +21,8 @@ Write the triple-distinct line: **Mon / Tue / Thu+Field Note**, three different 
 ## Step 3 — Pull the shocking fact
 From `shocking_fact_bank.md`, take the fact mapped to this week (fact→week table) or the best unused fit. Confirm its citation; if a figure may be stale, `WebSearch` to re-verify (no fabricated stats). This fact gets woven into the Thursday breakout (first choice), else the Wednesday POV or X AM amplifier.
 
+**Anxiety lens (added Jun 23, 2026):** also open `buyer_anxiety_map.md` and pick the buyer anxiety this week speaks to. The Wednesday POV hook and the Friday tease should ideally state a fear from a persona row plainly (fear = hook, PBS answer = body, matching asset = first-comment CTA). Rotate anxieties so the same fear is not hit within ~4 weeks.
+
 ## Step 3.5 — Wendell Potter check (required)
 Check `wendell_potter_cascade_alignment.md` + `wendell_potter_contributorship_strategy.md` + the Potter schedule against this week:
 - **Potter-publish week:** build the same-day cross-promo to the WP article (LinkedIn + X tagging @wendellpotter); coordinate topic; do not scoop pre-publish.

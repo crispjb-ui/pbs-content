@@ -103,6 +103,8 @@
 
 **When to Use Member-Centric:** Topics specifically addressing employee/plan participant experience or affordability impact.
 
+**Buyer-anxiety lens (added Jun 23, 2026, source: `buyer_anxiety_map.md`):** organize content around the decision-maker's **anxiety**, not just the topic ("what keeps them up at night"). PBS's own data shows naming the discomfort beats informational content 10-100x, so the map (personas CFO / HR-Benefits / Broker → live fears → trigger → the question they'd actually ask → the PBS answer → the matching asset) is a **source file** for hooks across the system: `/build-week` (Wednesday POV + Friday tease state a fear plainly), `/video-research` (anxiety-anchored 9:16 scripts), and `/ads-research` (the "What keeps you up at night" ad series, one ad per anxiety). The two-way answer surfaces: the **"Ask Ginny" DM → video-reply** recurring format (people DM their PBM question, Ginny records 9:16 replies to a few — feeds the video bank; format spec in `video_content_bank.md`) and a queued evergreen **FAQ hub on rxbs.org** (FAQPage schema, doubles as AEO). New anxieties surfaced by DM'd questions or contract reviews get added back to the map.
+
 ## Four-Channel Content Ecosystem
 
 ### Channel 1: LinkedIn Feed

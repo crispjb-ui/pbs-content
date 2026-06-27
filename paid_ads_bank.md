@@ -45,6 +45,14 @@ _Each: objective, audience, offer, two hook/copy variants for A/B, creative dire
 
 ---
 
+## "What keeps you up at night" ad series (anxiety-led, added Jun 23, 2026)
+The strongest ad architecture per PBS's data (name-the-discomfort beats informational 10-100x). Built from `buyer_anxiety_map.md`: **one ad per anxiety row**, each stating the fear as the hook, the PBS answer as the body, and the matching toolkit as the offer, targeted to that row's persona. Examples (drawn from the map):
+- CFO · "Pharmacy is up double digits and you can't tell the board why." → PBM Disclosure / GER audit.
+- CFO · "'We trusted our PBM' is not a fiduciary defense." → Fiduciary Documentation.
+- HR · "You can't get a straight answer out of your PBM. The contract made the answer optional." → PBM Disclosure / What I'd Ask.
+- Broker · "A client asks a pharmacy question you can't answer deeply." → Toolkit library.
+`/ads-research` expands this series each run as new anxieties surface (incl. from the "Ask Ginny" DM questions). AD-1 through AD-4 above are the lead creatives; the series is the scalable long tail.
+
 ## Prerequisites before any spend (one-time)
 _Flag these in OPEN_ITEMS when proposing launch; do not assume they exist._
 - LinkedIn Campaign Manager account + billing.
