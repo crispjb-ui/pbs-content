@@ -34,9 +34,11 @@
 
 # PART 1: SUBSTACK ARTICLE
 
-## The Pipeline That Will Hit Your Plan: Preparing for Drug Launches
+**Display Title:** The Pipeline That Will Hit Your Plan: Preparing for Drug Launches
 
-**Subtitle:** What self-funded employers need to know about high-cost drug approvals in 2026-2027
+**SEO Title (AEO):** What drugs are in the 2026-2027 pipeline that self-funded plans should prepare for?
+
+**SEO Subtitle:** What self-funded employers need to know about high-cost drug approvals in 2026-2027
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, May 4, 2026 at 7:30 AM EST
@@ -47,6 +49,8 @@
 ---
 
 ### Article Body
+
+**The 2026-2027 drug pipeline that self-funded plans should prepare for falls into five high-cost categories: gene and cell therapies (single claims from $500,000 to $3.5 million), GLP-1 and obesity/metabolic drugs (expanding indications and oral formulations), Alzheimer's amyloid-targeting therapies (roughly $26,000 or more per year plus infusion and monitoring costs), oncology combinations (targeted therapies and antibody-drug conjugates), and rare disease orphan drugs (small populations, extreme per-claim cost), and the time to set a coverage position for each is before launch, not after the first claim arrives.**
 
 I keep a list of drugs that will hit plans in the next 18 months. It is not a secret list. FDA advisory committee schedules are public. Target action dates are public. Your PBM has manufacturer contracts negotiated before approval. The information is out there.
 
@@ -64,7 +68,7 @@ I review hundreds of PBM contracts each year at Prescription Benefit Solutions. 
 
 The time to develop a coverage strategy is before launch. Not after claims arrive.
 
-**Five drug categories to watch**
+**Which five drug categories should self-funded plans watch?**
 
 We track pipeline drugs across the categories most likely to affect self-funded employer pharmacy spend. These are the five I am watching closest right now.
 
@@ -114,6 +118,8 @@ PBMs track pipeline drugs extensively. They negotiate manufacturer contracts mon
 
 The drugs that will affect your plan next year are known today. FDA advisory committees have voted. PDUFA dates are published. Your PBM has already started preparing. Is that preparation reaching you?
 
+We built the five categories above, the quarterly review process, and the preparation steps for each into a printable Drug Pipeline Watch List that plan sponsors can take into their next PBM review. It is available at [www.rxbs.org/toolkit/drug-pipeline-watch](https://www.rxbs.org/toolkit/drug-pipeline-watch).
+
 Have you reviewed the drug pipeline for therapies that could hit your plan in the next 12 months? If you and your advisory team have found something your plan is not prepared for, leave a comment below. If this framework is useful, share it with your benefits team or broker.
 
 ---
@@ -128,7 +134,7 @@ Have you reviewed the drug pipeline for therapies that could hit your plan in th
 
 ### Article Meta
 
-**SEO Title:** The Pipeline That Will Hit Your Plan: Preparing for Drug Launches | Benefit Blind Spots
+**SEO Title (AEO):** What drugs are in the 2026-2027 pipeline that self-funded plans should prepare for? | Benefit Blind Spots
 **Meta Description:** Gene therapies exceeding $2 million, GLP-1 indication expansion, Alzheimer's treatments: five drug categories self-funded employers need to prepare for, with a quarterly pipeline review process and specific preparation steps.
 **Tags:** drug pipeline, pharmacy benefits, new drugs, cost containment, self-funded employers, gene therapy, GLP-1
 
@@ -156,7 +162,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## What We See When We Audit Channel Pricing
+**Display Title:** What We See When We Audit Channel Pricing
+
+**SEO Title (AEO):** What is PBM channel pricing and how do you audit it?
+
+**SEO Subtitle:** Why the same drug on the same plan is billed at three different per-unit prices, and the four requests that surface the spread
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, May 7, 2026 at 7:30 AM EST
@@ -169,9 +179,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**Channel pricing is the practice of billing the same drug at a different per-unit price depending on whether it is filled through retail, mail-order, or specialty, because each channel carries its own pricing methodology in the PBM contract, and you audit it by pulling net cost per script by channel for your top 10 drugs by spend in the same month and comparing the variance the contract was designed to create.**
+
 Tuesday's LinkedIn carousel walked through GLP-1 coverage. Today's field note is about something quieter and, for most plans, more expensive: the same drug, on the same plan, billed at three different per-unit prices because it goes through three different channels.
 
-We run channel pricing audits as a standard part of our work at PBS. The pattern is the same on almost every audit. Pull the top 10 drugs by spend. Check what the plan paid per unit through retail, mail-order, and specialty in the same month. The retail price, the mail-order price, and the specialty price rarely match. The gap is not a bug. It is how the contract was designed.
+We run channel pricing audits as a standard part of our work at Prescription Benefit Solutions. The pattern is the same on almost every audit. Pull the top 10 drugs by spend. Check what the plan paid per unit through retail, mail-order, and specialty in the same month. The retail price, the mail-order price, and the specialty price rarely match. The gap is not a bug. It is how the contract was designed.
 
 **Why the three prices exist**
 
@@ -211,7 +223,7 @@ These are not contract violations. They are contract terms. They are how the spr
 >
 > If the contract has no such clause, that is the first piece of language to add at renewal.
 
-The four asks above are also the four steps in the printable Channel Pricing Audit Worksheet, attached at the bottom of this post. Two pages. Top-10 drug worksheet, variance bands, and the four contract asks above as a renewal-ready handout.
+The four asks above are also the four steps in the printable Channel Pricing Audit Worksheet, attached at the bottom of this post. Two pages. Top-10 drug worksheet, variance bands, and the four contract asks above as a renewal-ready handout. You can also download it directly at [www.rxbs.org/toolkit/channel-pricing](https://www.rxbs.org/toolkit/channel-pricing).
 
 If your PBM cannot produce per-channel net cost for your top 10 drugs on a single page within a week of the request, that is the audit finding. The data is there. Whether your contract requires it to be shown is the question worth taking to your broker before the next renewal cycle.
 
@@ -227,7 +239,7 @@ If your PBM cannot produce per-channel net cost for your top 10 drugs on a singl
 
 ### Field Note Meta
 
-**SEO Title:** What We See When We Audit Channel Pricing | Benefit Blind Spots
+**SEO Title (AEO):** What is PBM channel pricing and how do you audit it? | Benefit Blind Spots
 **Meta Description:** A pharmacist walks through what a top-10 channel pricing audit actually surfaces, and the four asks that unlock the data your PBM contract leaves out. Printable worksheet attached.
 **Tags:** channel pricing, PBM contracts, pharmacy benefits, self-funded employers, audit, transparency, mail order, specialty pharmacy
 

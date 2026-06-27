@@ -94,11 +94,11 @@ The adherence challenge with GLP-1s may have less to do with injection aversion 
 
 **A Framework for Coverage Decisions**
 
-In our experience reviewing these plans, managed access with clinical structure produces better outcomes than either blanket exclusion or unrestricted coverage.
+In our experience at Prescription Benefit Solutions reviewing these plans, managed access with clinical structure produces better outcomes than either blanket exclusion or unrestricted coverage.
 
 *Phase 1: Define Clinical Criteria*
 
-Coverage tied to documented medical necessity. Consider BMI thresholds (typically 30+ or 27+ with comorbidities), prior authorization requirements, prescriber limitations (endocrinology, obesity medicine, primary care with documented counseling).
+Coverage tied to documented medical necessity. Consider BMI thresholds (typically 30+ or 27+ with comorbidities), prior authorization requirements, prescriber limitations (endocrinology, obesity medicine, primary care with documented counseling). Prior authorization is the lever that makes or breaks GLP-1 economics, so it is worth auditing whether yours is actually doing its job; our [PA ROI Audit Scorecard](https://www.rxbs.org/toolkit/pa-roi-audit) walks the five metrics we use to score a prior-authorization program for return, not just friction.
 
 Avoid criteria so restrictive that members who would benefit cannot access coverage. Avoid criteria so open that pharmacy spend escalates without clinical oversight.
 
@@ -150,7 +150,9 @@ Oral GLP-1s do not change this fundamental dynamic. They add options. They may a
 
 ---
 
-*Questions on GLP-1 coverage strategy for your plan? Reach out at team@rxbs.org.*
+*Questions on GLP-1 coverage strategy for your plan? Reach out at team@rxbs.org, or start with the [PA ROI Audit Scorecard](https://www.rxbs.org/toolkit/pa-roi-audit) at www.rxbs.org.*
+
+*Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions (www.rxbs.org).*
 
 ---
 
