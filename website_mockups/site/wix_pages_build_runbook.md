@@ -14,6 +14,7 @@ _Created Jun 20, 2026. Step-by-step to build the new owned-domain answer pages i
 | 5 | **Guide: What Is Spread Pricing** | `/guides/what-is-spread-pricing` | `guide-what-is-spread-pricing.html` | Pillar page; high-volume definitional query. |
 | 6 | **Guide: How to Choose a PBM Auditor** | `/guides/how-to-choose-a-pbm-auditor` | `guide-how-to-choose-a-pbm-auditor.html` | Consideration-stage; highest-intent (bottom-funnel) AI referrals. |
 | 7 | **Compare: PBM Audit vs. Broker Review** | `/guides/pbm-audit-vs-broker-review` | `compare-pbm-audit-vs-broker-review.html` | Consideration-stage; lowest priority of the set. |
+| 8 | **FAQ: Questions Plan Sponsors Ask** | `/faq` | `faq.html` | Buyer-anxiety entry point; 14 Q&As by persona with **FAQPage schema**. Links into every other page, so build it after the pages it references exist. Evergreen twin of the "Ask Ginny" videos. |
 
 > The single most important Wix step on every page is pasting the **JSON-LD structured data** (Step D below). That is where the AEO value lives, more than the visual build. If short on time, build the page body simply but never skip the structured data.
 
@@ -50,6 +51,7 @@ Open the matching blueprint HTML in a browser (and a text editor) so you can cop
   - Contract Language Library: **Article** + **BreadcrumbList** + **DefinedTermSet**.
   - What We're Seeing: **Article** + **BreadcrumbList**.
   - Each Guide / Compare page: **Article** + **BreadcrumbList** + **FAQPage**.
+  - FAQ page (`/faq`): **FAQPage** + **BreadcrumbList** (the two blocks in `faq.html`).
 - Validate each block at [validator.schema.org](https://validator.schema.org/) (paste the JSON) before saving.
 
 **E. Build the page body (match the brand; the blueprint is the spec)**
@@ -72,7 +74,7 @@ Open the matching blueprint HTML in a browser (and a text editor) so you can cop
 
 ## After the pages: wire the rest of the site (cohesion)
 These updates make the new pages discoverable and the site consistent (the blueprints in `site/` already reflect them, so use those as the spec):
-1. **Insights page (`insights.html` spec):** point the "Evergreen Reference Libraries" cards to the new internal pages (Contract Library → `/contract-language-library`, What We're Seeing → `/what-we-are-seeing`, Toolkit Library → `/toolkit-library`), and add the new **"Guides & Answers"** card row (Glossary + the 4 guides).
+1. **Insights page (`insights.html` spec):** point the "Evergreen Reference Libraries" cards to the new internal pages (Contract Library → `/contract-language-library`, What We're Seeing → `/what-we-are-seeing`, Toolkit Library → `/toolkit-library`), and add the new **"Guides & Answers"** card row (Glossary + the 4 guides + the **FAQ**). Add **FAQ** to the Learn mega-menu dropdown too.
 2. **Home (`index.html` spec):** the stats band shows the real 2025 figures (`$78.7M` contracted, `203` plans); the "Contract Library" card links to `/contract-language-library`.
 3. **About (`about.html` spec):** stats band filled; **Person + Organization** structured data added (paste from the about.html head).
 4. **Solutions (`solutions.html` spec):** **Service/ItemList** structured data added (paste from the head).

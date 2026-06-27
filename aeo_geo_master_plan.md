@@ -39,6 +39,7 @@ _Created Jun 20, 2026. The consolidated, sequenced checklist for the entire AEO/
 | 5. Guide: What Is Spread Pricing | guide-what-is-spread-pricing.html | ✅ | 🔨 Wix |
 | 6. Guide: How to Choose a PBM Auditor | guide-how-to-choose-a-pbm-auditor.html | ✅ | 🔨 Wix |
 | 7. Compare: PBM Audit vs. Broker Review | compare-pbm-audit-vs-broker-review.html | ✅ | 🔨 Wix |
+| 8. FAQ: Questions Plan Sponsors Ask (`/faq`) | faq.html | ✅ blueprint | 🔨 Wix |
 | Structured data on every page (Article/DefinedTermSet/FAQPage/Breadcrumb) — **paste into Wix SEO panel** | ✅ in blueprints | 🔨 Wix | the key AEO step |
 | Cohesion: shared site.css, nav, normalized footer, dark-hero pattern across all 13 pages | ✅ | Claude | site/*.html |
 | CreativeWork schema on toolkit dynamic page (bind to CMS) | ✅ blueprint | 🔨 Wix | toolkit.html |

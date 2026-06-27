@@ -106,7 +106,7 @@ These are LIVE and are the **Conversion archetype**, so they take the conversion
 
 **Primary nav (rename "Insights" → a "Learn" mega-menu that houses the content hub):**
 `Home · Solutions · Free Tools (Toolkit Library) · Learn ▾ · About · [Book a Review]`
-The **Learn** dropdown groups: Guides · Glossary · Contract Language Library · What We're Seeing · Latest (Insights/blog).
+The **Learn** dropdown groups: Guides · Glossary · Contract Language Library · What We're Seeing · **FAQ (Questions Plan Sponsors Ask)** · Latest (Insights/blog).
 
 **Final URL map (freeze before building bodies):**
 
@@ -121,6 +121,7 @@ The **Learn** dropdown groups: Guides · Glossary · Contract Language Library �
 | Glossary | `/glossary` | build |
 | Contract Language Library | `/contract-language-library` | build |
 | What We're Seeing | `/what-we-are-seeing` | build |
+| FAQ (Questions Plan Sponsors Ask) | `/faq` | build (blueprint done: `website_mockups/site/faq.html`) |
 | Guide: PBM Contract Audit | `/guides/pbm-contract-audit` | build |
 | Guide: What Is Spread Pricing | `/guides/what-is-spread-pricing` | build |
 | Guide: How to Choose a PBM Auditor | `/guides/how-to-choose-a-pbm-auditor` | build |
@@ -184,6 +185,8 @@ Build internal links + nav for this **full target set** now, even though pages s
 | **Process / Choosing** `/guides/how-to-choose-a-pbm-auditor` | audit-vs-broker-review, **pbm-rfp-how-to**, carve-in-vs-carve-out | (links across) |
 | **Fiduciary & Compliance** `/guides/erisa-fiduciary-pharmacy` *(new)* | 340b-and-self-funded-plans | fiduciary, 340B |
 | **Transparency / Category** `/guides/what-is-a-transparent-pbm` *(new)* | comparison/category terms | (links across) |
+
+**FAQ hub (`/faq`, blueprint built):** a cross-cutting answer page built from `buyer_anxiety_map.md` (the question each persona actually asks + the PBS answer), grouped by CFO / HR-Benefits / Broker / working-with-an-auditor, with **FAQPage schema**. It links *into* every cluster (each answer routes to the matching guide / glossary term / toolkit), so it functions as the buyer-anxiety entry point to the whole content graph and as a standalone AEO/citation asset. It is the evergreen counterpart to the "Ask Ginny" video format. Keep its Q&A in sync with the anxiety map.
 
 **Also in the plan:** the **deep-dive mirroring template** (`/articles/<slug>`) so the best Substack pillars become owned on-site articles (self-canonical), and the **glossary-term → standalone-page** graduation path (a high-traffic term earns its own page that the glossary entry links to).
 
