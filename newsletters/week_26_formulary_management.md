@@ -591,7 +591,7 @@ A good broker will flag where to look. The worksheet that surfaces it is in the 
 **[A/B TEST — Variant B (TREATMENT): publish the post WITHOUT this comment; add this comment ~15 min later, after the first-hour window. First-comment-timing experiment — see linkedin_performance_tracker.md.]**
 
 ```
-The free Channel-Pricing Audit Worksheet runs three passes (retail, mail, specialty), comparing what the pharmacy is paid against what your plan is charged, and flags the disclosure-language gap in your contract → rxbs.org/toolkit/channel-pricing
+The free Channel-Pricing Audit Worksheet runs three passes (retail, mail, specialty), comparing what the pharmacy is paid against what your plan is charged, and flags the disclosure-language gap in your contract. rxbs.org/toolkit/channel-pricing
 ```
 
 ---
