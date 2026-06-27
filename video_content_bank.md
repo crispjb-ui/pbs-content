@@ -54,6 +54,27 @@ _The two-way "place" to answer decision-makers' questions, low-lift (no live eve
 
 **Cadence:** monthly call-out; the 2-3 reply videos distribute across the following weeks' video slots. Scale the call-out frequency up if DM volume supports it.
 
+### Seeded Ask-Ginny content (ready to run)
+
+**Call-for-questions post (LinkedIn text or short selfie video):**
+> Here is something I do not see other people do, so let's try it.
+>
+> DM me the one PBM question keeping you up at night. The one you are not sure who to ask. "Are we overpaying and would I even know?" "Am I exposed if this goes wrong?" "Why can't I get a straight answer from our PBM?"
+>
+> I will pick a few and answer them on camera. No pitch, no form, no "book a call." Just a straight answer from someone who reads these contracts all day.
+>
+> I review hundreds of PBM contracts a year, and the same questions come up in every one. Yours is more common than you think.
+>
+> DM me. I will start recording answers next week.
+>
+> #PBMContracts #SelfFundedEmployers #PharmacyBenefits
+
+**Reply script V-AG1 — Fiduciary (CFO anxiety):** on-screen question card "Am I personally on the hook if our PBM deal is bad?" → "Someone asked: am I exposed if our PBM contract turns out to be a bad deal? Short answer, if you run a self-funded plan, yes, you are an ERISA fiduciary for pharmacy spend. But what protects you is not a good outcome, it is a documented process. 'We trusted our PBM' is not a defense. 'Here is how we selected, monitored, and evaluated them' is. The plans that sleep at night are the ones that can show their work. DM me your question, I will answer the next one." (~35s)
+
+**Reply script V-AG2 — Straight answers (HR anxiety):** card "Why can't I get a straight answer from our PBM?" → "This comes up constantly. It is not you. In a lot of contracts the answer is optional, because the reporting language was written loosely on purpose. The fix is not asking louder, it is asking in a way the contract has to answer: net cost by channel, the fee behind every line on your invoice, how many of your claims filled at a pharmacy they own. Specific, contract-anchored questions turn optional into required. DM me yours." (~30s)
+
+**Reply script V-AG3 — Overpaying (CFO anxiety):** card "Are we overpaying and would I even know?" → "A CFO asked me how they would even know if they were overpaying their PBM. Honestly, from your monthly invoice, you would not. It hides in two places: the spread between what your plan is charged and what the pharmacy actually gets paid, and a rebate definition narrow enough to leave most of the money behind. Neither shows up in the summary. You only see it when you audit the claims against the contract. If that gap is news to you, that is the point. DM me your question." (~35s)
+
 ## Repurpose clip queue (Mode B — from podcasts/long-form)
 
 _Clips identified from Ginny's appearances, handed to `/clip-podcast` for the plan + manifest. The SHRM batch is in `social_clips/honest-hr-shrm_2026-06-09_clips.md`._
