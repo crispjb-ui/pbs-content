@@ -38,7 +38,15 @@
 
 ---
 
+**Display Title:** The Questions Your Pharmacy Data Should Answer
+**SEO Title (AEO):** What Questions Should a Self-Funded Employer Ask About Their PBM Pharmacy Claims Data?
+**SEO Subtitle:** Most employers underutilize pharmacy claims data. Here are the five questions worth asking, and how to turn answers into strategic advantage.
+
+---
+
 ### Article Body
+
+A self-funded employer should ask five questions of its pharmacy claims data: where the money is actually going (top drugs by spend, not utilization), which members need clinical intervention, whether the PBM is meeting its contracted discount, rebate, and generic guarantees, what patterns point to savings, and what specifically to change, because standard PBM reports answer the questions the PBM chooses rather than the ones that protect the plan.
 
 I sat down with a plan sponsor last month to review their pharmacy data. They had three years of claims information from their PBM. They had never opened most of it.
 
@@ -52,7 +60,7 @@ This issue covers the questions worth asking, and how to turn answers into actio
 
 ---
 
-**The Problem With Standard PBM Reports**
+**What Is Wrong With Standard PBM Reports?**
 
 Your PBM sends quarterly reports. You file them.
 
@@ -132,9 +140,9 @@ If your data review does not produce a to-do list, you are not asking enough que
 
 ---
 
-**Building an Analytic Cadence**
+**How Often Should You Review Pharmacy Data?**
 
-How often should you review pharmacy data? The answer depends on plan size and complexity, but in our work with plan sponsors, we have found that minimum standards exist.
+How often should you review pharmacy data? The answer depends on plan size and complexity, but in our work with plan sponsors at Prescription Benefit Solutions, we have found that minimum standards exist.
 
 *Monthly:*
 - High-cost claimant monitoring
@@ -157,7 +165,7 @@ Many employers conduct annual reviews only. This means 11 months of operating bl
 
 ---
 
-**The Data Access Question**
+**What Data Access Do You Actually Have?**
 
 You cannot analyze data you cannot access.
 
@@ -173,11 +181,11 @@ Review your PBM contract for data provisions:
 
 *Rebate detail:* Can you see rebate amounts by drug, or only totals? Drug-level detail enables verification. Totals require trust.
 
-If your contract limits data access, this should be a negotiation priority at renewal. Your broker or consultant can help you evaluate what data provisions to push for.
+If your contract limits data access, this should be a negotiation priority at renewal. Your broker or consultant can help you evaluate what data provisions to push for. We keep a printable Quarterly Reporting Checklist of the line items a PBM report should contain at [www.rxbs.org/toolkit/quarterly-reporting](https://www.rxbs.org/toolkit/quarterly-reporting), which pairs directly with the data-access questions above.
 
 ---
 
-**Turning Data Into Negotiating Power**
+**How Does Pharmacy Data Become Negotiating Power?**
 
 Pharmacy data analysis is not just operational management. It is renewal preparation.
 
@@ -211,7 +219,8 @@ Data without questions is just numbers. Start with better questions.
 
 ### Article Meta
 
-**SEO Title:** The Questions Your Pharmacy Data Should Answer | Benefit Blind Spots
+**SEO Title (AEO):** What Questions Should a Self-Funded Employer Ask About Their PBM Pharmacy Claims Data?
+**Display Title:** The Questions Your Pharmacy Data Should Answer
 **Meta Description:** Most employers underutilize pharmacy claims data. Here are the five questions worth asking, and how to turn answers into strategic advantage.
 **Tags:** pharmacy data, analytics, self-funded employers, PBM, cost containment, pharmacy benefits
 **Header Image:** [Use PBS branded image - Data Analytics visual]

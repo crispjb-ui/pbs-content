@@ -38,13 +38,21 @@
 
 ---
 
+**Display Title:** Q1 Review: What to Measure Before Renewal
+**SEO Title (AEO):** What Pharmacy Benefit Metrics Should a Self-Funded Employer Review After Q1?
+**SEO Subtitle:** The Q1 metrics that build renewal leverage, what each number should trigger, and how to turn a quarter of claims data into negotiating position.
+
+---
+
 ### Article Body
+
+A self-funded employer should review seven Q1 pharmacy metrics before renewal: total spend versus projection, per member per month trend, generic dispensing and generic effective rates against guarantee, specialty spend as a share of total, the top 10 drugs by spend, rebate performance versus guarantee, and high-cost claimant counts. Reviewed in March or April, those numbers become the leverage you carry into a Q4 renewal.
 
 Q1 is in the books.
 
 Before you move on, your pharmacy data has a story to tell.
 
-We just finished reviewing Q1 data for several clients, and the pattern is always the same. The metrics you review now determine your leverage at renewal and your strategy for the rest of the year. Yet most employers file their Q1 reports without looking closely, missing the window when data is fresh enough to act on and far enough ahead of renewal to create real positioning.
+At Prescription Benefit Solutions, we just finished reviewing Q1 data for several clients, and the pattern is always the same. The metrics you review now determine your leverage at renewal and your strategy for the rest of the year. Yet most employers file their Q1 reports without looking closely, missing the window when data is fresh enough to act on and far enough ahead of renewal to create real positioning.
 
 This issue covers what to measure, what the numbers should trigger, and how to turn Q1 data into renewal leverage.
 
@@ -66,9 +74,9 @@ In my experience, employers who show up to renewal with data-backed questions ne
 
 ---
 
-**The Metrics That Actually Matter**
+**Which Q1 Metrics Actually Matter**
 
-Not all metrics carry equal weight. When we sit down with a plan sponsor to review Q1 data, we focus on these:
+Not all metrics carry equal weight. When we sit down with a plan sponsor to review Q1 data, we focus on these. If you want a printable companion that lists the 15 line items a PBM quarterly report should contain, our [Quarterly Reporting Checklist](https://www.rxbs.org/toolkit/quarterly-reporting) walks through exactly what to look for.
 
 *Total Pharmacy Spend vs. Budget/Projection*
 
@@ -166,7 +174,7 @@ Data without action is academic. Here is what we tell clients each finding shoul
 
 ---
 
-**Building Your Renewal Timeline**
+**When Should Renewal Prep Start After Q1?**
 
 Q1 review feeds directly into renewal preparation. Based on what we see work best, here is where you should be:
 
@@ -253,7 +261,8 @@ Start with the metrics that matter. Follow where they lead. Build your case now.
 
 ### Article Meta
 
-**SEO Title:** Q1 Review: What to Measure Before Renewal | Benefit Blind Spots
+**SEO Title (AEO):** What Pharmacy Benefit Metrics Should a Self-Funded Employer Review After Q1?
+**Display Title:** Q1 Review: What to Measure Before Renewal
 **Meta Description:** Your Q1 pharmacy data tells a story. Here are the metrics that matter, what the numbers should trigger, and how to turn data into renewal leverage.
 **Tags:** Q1 review, pharmacy benefits, renewal, self-funded employers, PBM, data analytics, cost containment
 **Header Image:** [Use PBS branded image - Q1 Review visual]
@@ -303,7 +312,15 @@ A clean, professional digital graphic at 1200 x 600 pixels with a solid deep tea
 
 ---
 
+**Display Title:** The GER Calculation Your PBM Won't Explain
+**SEO Title (AEO):** Why Is My PBM's Generic Effective Rate (GER) Different From What I Calculate?
+**SEO Subtitle:** PBM GER guarantees often exclude specialty generics, 90-day fills, DAW claims, and compounds. Here is how to verify the calculation against your Q1 claims.
+
+---
+
 ### Field Note Body
+
+A Generic Effective Rate (GER) guarantee can read as met on paper while the real number sits well below it, because the calculation often excludes specialty generics, 90-day fills, DAW claims, and compounds with generic ingredients, so verify the methodology against your full Q1 claims universe before you trust the reported figure.
 
 We reviewed a client's Q1 data last week. Their PBM reported a Generic Effective Rate of 89%. The guarantee was 87%. On paper, everything looked fine.
 
@@ -311,15 +328,15 @@ It was not fine.
 
 When we dug into the methodology, the calculation excluded specialty generics. It excluded 90-day fills. It excluded compounds with generic ingredients. We recalculated using the full claims universe, and the actual GER was 83%. Four points below guarantee.
 
-This is not an unusual finding. We see this pattern regularly.
+This is not an unusual finding. At Prescription Benefit Solutions, we see this pattern regularly.
 
-**What GER Actually Measures**
+**What Does GER Actually Measure?**
 
 Generic Effective Rate captures the actual cost savings your plan achieves from generic utilization. Unlike Generic Dispensing Rate (which simply measures what percentage of scripts are generic), GER measures the financial impact.
 
 A high GDR with a low GER means you are dispensing generics but not capturing the expected savings. The gap between those two numbers is often where pricing problems hide.
 
-**Where PBMs Adjust the Calculation**
+**Where Do PBMs Adjust the GER Calculation?**
 
 The GER guarantee in your contract likely contains exclusions. These are the ones we encounter most often:
 
@@ -333,7 +350,7 @@ The GER guarantee in your contract likely contains exclusions. These are the one
 
 **What to Verify in Your Q1 Data**
 
-Three steps you can take this week. None of them require hiring an auditor:
+Three steps you can take this week. None of them require hiring an auditor. For the full set of documents and audits to assemble before any contract-level review, our [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness) is the framework we use:
 
 1. *Request the full calculation methodology.* Ask your PBM to provide the exact formula used for GER, including all exclusions. Compare this to your contract language. If the contract says "all generic claims" and the calculation excludes categories, that is a discrepancy worth raising.
 
@@ -357,7 +374,8 @@ Document the gap now. Bring it to renewal with specifics.
 
 ### Field Note Meta
 
-**SEO Title:** The GER Calculation Your PBM Won't Explain | Benefit Blind Spots
+**SEO Title (AEO):** Why Is My PBM's Generic Effective Rate (GER) Different From What I Calculate?
+**Display Title:** The GER Calculation Your PBM Won't Explain
 **Meta Description:** Your PBM's Generic Effective Rate calculation may exclude the categories that matter most. Here is what to verify in your Q1 data.
 **Tags:** GER, generic effective rate, PBM contracts, pharmacy benefits, Q1 review, MAC pricing
 
