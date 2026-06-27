@@ -28,8 +28,9 @@
 
 # PART 1: SUBSTACK ARTICLE
 
-## Stop-Loss and Pharmacy: The Coverage Gap Nobody Discusses
-**Subtitle:** How self-funded employers can evaluate pharmacy exposure in stop-loss coverage
+**Display Title:** Stop-Loss and Pharmacy: The Coverage Gap Nobody Discusses
+**SEO Title (AEO):** Does Stop-Loss Insurance Cover Specialty Pharmacy and Gene Therapy Claims? (Coverage Gaps Explained)
+**SEO Subtitle:** How self-funded employers can evaluate pharmacy exposure in stop-loss coverage
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, April 6, 2026 at 7:30 AM EST
@@ -40,6 +41,8 @@
 ---
 
 ### Article Body
+
+**Stop-loss insurance does not automatically cover every high-cost specialty pharmacy or gene therapy claim your plan pays. Many policies exclude or limit gene and cell therapies, cap drugs approved after the policy effective date, or define "experimental" more narrowly than your plan does, so a claim your plan covers can still fall outside stop-loss protection.**
 
 I reviewed a stop-loss policy last month where the employer discovered a gene therapy exclusion after a member was approved for a $1.9 million treatment. The plan covered the therapy. The stop-loss policy did not.
 
@@ -55,7 +58,7 @@ Self-funded employers buy stop-loss coverage to protect against catastrophic cla
 
 A single gene therapy can exceed $2 million. Multiple sclerosis treatments run $80,000 to $100,000 annually. Oncology regimens routinely blow past specific stop-loss attachment points. One or two high-cost pharmacy claimants can reshape your plan's financials for the year. That is exactly the scenario stop-loss coverage is designed to address.
 
-The question is whether your stop-loss policy actually covers these claims as expected. In our contract review work at PBS, the answer is frequently: not as well as the employer assumed.
+The question is whether your stop-loss policy actually covers these claims as expected. In the contract review work we do at Prescription Benefit Solutions, the answer is frequently: not as well as the employer assumed.
 
 **Four Coverage Gaps We See Repeatedly**
 
@@ -79,7 +82,7 @@ Most employers do not find out until the renewal quote arrives. By then, your op
 
 When a member is lasered, you have a short list of options: accept the laser and budget for the exposure, negotiate a higher premium for coverage inclusion, seek alternative carriers, or demonstrate pharmacy management that may reduce the claim trajectory. The best defense against lasering is proactive management. Carriers are more likely to laser members whose costs appear unmanaged. In our experience, demonstrating clinical programs, utilization management, and cost containment strategies can influence carrier decisions at renewal. It does not guarantee anything, but it gives carriers a reason to keep you in the pool.
 
-**The Two-Contract Problem**
+**Why Your PBM Contract and Stop-Loss Policy Do Not Always Match**
 
 Stop-loss and PBM contracts do not always align, and they are almost never negotiated together.
 
@@ -93,7 +96,7 @@ This is the Visibility Gap that spans two contracts. What your PBM contract cove
 
 **How to Review Your Stop-Loss Policy for Pharmacy Gaps**
 
-Pull your current stop-loss policy (not just the summary) and review these five provisions.
+Pull your current stop-loss policy (not just the summary) and review these five provisions. Your stop-loss policy is also one of the documents to pull before any PBM contract review, which is why it sits on our free Contract Review Readiness Checklist at [www.rxbs.org/toolkit/contract-review-readiness](https://www.rxbs.org/toolkit/contract-review-readiness).
 
 *1. Gene Therapy Coverage*
 
@@ -141,7 +144,7 @@ Have you reviewed your stop-loss policy for pharmacy gaps? If you found somethin
 
 ### Article Meta
 
-**SEO Title:** Stop-Loss and Pharmacy: The Coverage Gap Nobody Discusses | Benefit Blind Spots
+**SEO Title (AEO):** Does Stop-Loss Insurance Cover Specialty Pharmacy and Gene Therapy Claims? (Coverage Gaps Explained)
 **Meta Description:** Specialty pharmacy claims have become the catastrophic claims stop-loss should cover. Here is what employers need to verify, including a five-point policy language review.
 **Tags:** stop-loss, self-funded, pharmacy benefits, specialty drugs, gene therapy, lasering
 **Header Image:** [Use PBS branded image - Stop-Loss visual]
@@ -170,7 +173,9 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Setting Attachment Points in a High-Cost Drug Era
+**Display Title:** Setting Attachment Points in a High-Cost Drug Era
+**SEO Title (AEO):** How Should a Self-Funded Employer Set a Stop-Loss Attachment Point With Specialty Drug Costs Rising?
+**SEO Subtitle:** Specific attachment points set years ago may not reflect current pharmacy risk
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, April 9, 2026 at 7:30 AM EST
@@ -182,6 +187,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a solid d
 ---
 
 ### Field Note Body
+
+**A stop-loss attachment point should be reset each year against your current high-cost pharmacy claimants, not carried forward from prior years, because a specific attachment point set three or four years ago was calibrated for a drug cost environment that no longer exists.**
 
 We have been reviewing stop-loss renewals this quarter and one pattern is clear: specific attachment points that were set three or four years ago no longer reflect current pharmacy risk.
 
@@ -201,7 +208,7 @@ First, model your current high-cost claimants against your attachment point. How
 
 Second, evaluate what your attachment point actually buys. A lower attachment point provides more protection but increases premium. A higher attachment point reduces premium but increases retained risk. The right answer depends on your plan size, risk tolerance, cash reserves, and pharmacy utilization profile.
 
-Third, check for pharmacy-specific exclusions at your attachment level. Some stop-loss policies exclude gene therapies, limit new drug coverage, or apply different terms to pharmacy versus medical claims. Your attachment point only protects you if the claims that hit it are actually covered.
+Third, check for pharmacy-specific exclusions at your attachment level. Some stop-loss policies exclude gene therapies, limit new drug coverage, or apply different terms to pharmacy versus medical claims. Your attachment point only protects you if the claims that hit it are actually covered. At Prescription Benefit Solutions we treat the stop-loss policy as one of the documents to pull before any PBM contract review; it sits on our free Contract Review Readiness Checklist at [www.rxbs.org/toolkit/contract-review-readiness](https://www.rxbs.org/toolkit/contract-review-readiness).
 
 **The practical takeaway**
 
@@ -225,7 +232,7 @@ The attachment point is a financial decision that deserves financial analysis, n
 
 ### Field Note Meta
 
-**SEO Title:** Setting Attachment Points in a High-Cost Drug Era | Benefit Blind Spots
+**SEO Title (AEO):** How Should a Self-Funded Employer Set a Stop-Loss Attachment Point With Specialty Drug Costs Rising?
 **Meta Description:** Specific stop-loss attachment points set years ago may not reflect current pharmacy risk. Here is how to evaluate whether yours still fits.
 **Tags:** stop-loss, attachment points, self-funded employers, specialty drugs, pharmacy benefits, risk management
 

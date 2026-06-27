@@ -28,8 +28,9 @@
 
 # PART 1: SUBSTACK ARTICLE
 
-## 340B and Your Pharmacy Benefit: What Employers Should Know
-**Subtitle:** How the 340B drug pricing program affects self-funded employer pharmacy claims
+**Display Title:** 340B and Your Pharmacy Benefit: What Employers Should Know
+**SEO Title (AEO):** How Does the 340B Drug Pricing Program Affect a Self-Funded Plan's Pharmacy Spend?
+**SEO Subtitle:** How the 340B drug pricing program affects self-funded employer pharmacy claims, and how to find 340B claims in your own data
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, April 13, 2026 at 7:30 AM EST
@@ -40,6 +41,8 @@
 ---
 
 ### Article Body
+
+**340B is a federal program that lets safety-net providers buy outpatient drugs at 25 to 50 percent below wholesale, and when one of those providers dispenses a 340B-priced drug to a commercially insured employee, the self-funded plan still reimburses at standard contract rates, so the provider keeps the spread and the plan never sees it in its claims data.**
 
 A provider acquires a drug at a steep 340B discount. Your employee fills the prescription. Your plan gets billed at standard rates. The spread is revenue. Not yours.
 
@@ -53,9 +56,9 @@ The mechanics are simple enough. Drug manufacturers participating in Medicaid ar
 
 The part that affects employers is what happens next. Nothing in your standard claims reporting tells you a drug was acquired at a 340B price. Your PBM processes the claim at whatever reimbursement rate your contract specifies. The provider got the drug cheaper. Your plan paid full price. The gap between those two numbers is invisible.
 
-We review hundreds of PBM contracts each year. Almost none of them mention 340B. When the contract is silent, you pay standard rates no matter what the dispensing entity paid for the medication.
+At Prescription Benefit Solutions we review hundreds of PBM contracts each year. Almost none of them mention 340B. When the contract is silent, you pay standard rates no matter what the dispensing entity paid for the medication.
 
-**Contract pharmacies made it bigger**
+**How contract pharmacies made 340B reach your plan**
 
 Originally, 340B was contained. A qualifying hospital bought drugs at the discount and dispensed them through its own pharmacy. Simple enough.
 
@@ -77,7 +80,7 @@ Ask your PBM directly: "Can you identify claims dispensed by 340B-covered entiti
 
 Next, look up who is in your network. HRSA (the Health Resources and Services Administration) publishes a database of every 340B-registered covered entity. You can cross-reference that list against the pharmacies in your PBM's network. How many 340B entities are in there? What percentage of your specialty claims route through them?
 
-Then look at the pricing. For claims you can identify as dispensed by 340B entities, compare what your plan paid against what the entity likely paid (340B ceiling prices are publicly available for most drugs). The gap between those numbers is the revenue you are funding.
+Then look at the pricing. For claims you can identify as dispensed by 340B entities, compare what your plan paid against what the entity likely paid (340B ceiling prices are publicly available for most drugs). The gap between those numbers is the revenue you are funding. This is the same channel-by-channel margin work our Channel Pricing Audit Worksheet walks through for retail, mail, and specialty, and you can download it free at [www.rxbs.org/toolkit/channel-pricing](https://www.rxbs.org/toolkit/channel-pricing).
 
 Pull out your PBM contract and search for "340B." Look for pricing adjustment provisions, passthrough language, and audit rights that cover 340B identification. If you find nothing, that is your answer: you are paying standard rates regardless of acquisition cost.
 
@@ -95,7 +98,7 @@ Have you looked at 340B in your claims data? If you found something you did not 
 
 ---
 
-*Questions on 340B and your pharmacy benefit? Reach out at team@rxbs.org.*
+*Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions (www.rxbs.org). Questions on 340B and your pharmacy benefit? Reach the team at team@rxbs.org.*
 
 *If you are not yet subscribed to Benefit Blind Spots, subscribe for the weekly analysis and Thursday field notes.*
 
@@ -103,8 +106,8 @@ Have you looked at 340B in your claims data? If you found something you did not 
 
 ### Article Meta
 
-**SEO Title:** 340B and Your Pharmacy Benefit: What Employers Should Know | Benefit Blind Spots
-**Meta Description:** The 340B pricing spread may be the widest Visibility Gap in pharmacy benefits. Here is how to identify 340B claims in your data, evaluate the pricing gap, and ask the right questions.
+**SEO Title (AEO):** How Does the 340B Drug Pricing Program Affect a Self-Funded Plan's Pharmacy Spend?
+**Meta Description:** The 340B pricing spread may be the widest visibility gap in pharmacy benefits. Here is how 340B affects a self-funded plan, how to identify 340B claims in your data, evaluate the pricing gap, and ask the right questions.
 **Tags:** 340B, pharmacy benefits, transparency, self-funded employers, drug pricing, covered entities
 
 ---
@@ -131,7 +134,9 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Contract Pharmacy Arrangements: The 340B Variable Employers Miss
+**Display Title:** Contract Pharmacy Arrangements: The 340B Variable Employers Miss
+**SEO Title (AEO):** What Is a 340B Contract Pharmacy, and How Does It Affect an Employer's Pharmacy Claims?
+**SEO Subtitle:** Why 340B contract pharmacy arrangements mean your members may fill discounted drugs while your plan pays standard rates
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, April 16, 2026 at 7:30 AM EST
@@ -143,6 +148,8 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 ---
 
 ### Field Note Body
+
+**A 340B contract pharmacy is an outside pharmacy, often a national retail chain or specialty pharmacy, that a 340B-covered entity designates to dispense its discounted drugs, which means your member can fill a 340B-priced prescription at an ordinary retail counter while your plan still reimburses at standard rates and never sees the spread in its claims data.**
 
 Monday's article covered how 340B affects employer pharmacy benefits broadly. Today we are narrowing the focus to one specific element that creates the most confusion: contract pharmacy arrangements.
 
@@ -164,13 +171,13 @@ Start by asking your PBM whether they can identify claims dispensed through 340B
 
 Then identify which pharmacies in your network have contract pharmacy relationships with 340B-covered entities. Your PBM or pharmacy network administrator should be able to provide this mapping, though it may require a specific request.
 
-Finally, evaluate the pricing impact. If a meaningful volume of your claims flows through contract pharmacies dispensing 340B-acquired medications, the gap between acquisition cost and plan reimbursement represents a cost variable you are not currently managing.
+Finally, evaluate the pricing impact. If a meaningful volume of your claims flows through contract pharmacies dispensing 340B-acquired medications, the gap between acquisition cost and plan reimbursement represents a cost variable you are not currently managing. The free Channel Pricing Audit Worksheet at [www.rxbs.org/toolkit/channel-pricing](https://www.rxbs.org/toolkit/channel-pricing) walks through the same spread analysis across retail, mail, and specialty channels.
 
 *Illustrative example for educational purposes. Actual amounts vary by plan.* A brand medication with an AWP of $500 acquired at a 340B price of $275, dispensed through a contract pharmacy and billed to your plan at $450 after PBM discount. The contract pharmacy's effective acquisition cost is substantially below what your plan reimbursed.
 
 **The practical takeaway**
 
-I am not saying contract pharmacy arrangements are inherently problematic. They extend 340B access and can serve legitimate program purposes. But for employers, the lack of visibility into which claims involve 340B-acquired medications creates a pricing transparency gap you should know about.
+I am not saying contract pharmacy arrangements are inherently problematic. They extend 340B access and can serve legitimate program purposes. But for employers, the lack of visibility into which claims involve 340B-acquired medications creates a pricing transparency gap you should know about. At Prescription Benefit Solutions we see this gap in nearly every claims review where a client's population sits near a 340B-covered entity.
 
 Start by asking the question. If your PBM cannot identify 340B contract pharmacy claims, that gap should be part of your next contract discussion. Your broker or consultant can help you frame the request.
 
@@ -178,14 +185,14 @@ Start by asking the question. If your PBM cannot identify 340B contract pharmacy
 
 *This is a Field Note, shorter, tactical insights published Thursdays. The full weekly analysis publishes every Monday.*
 
-*Questions? Reach out at team@rxbs.org.*
+*Ginny Crisp, PharmD, is CEO of Prescription Benefit Solutions (www.rxbs.org). Questions? Reach the team at team@rxbs.org.*
 
 ---
 
 ### Field Note Meta
 
-**SEO Title:** Contract Pharmacy Arrangements: The 340B Variable Employers Miss | Benefit Blind Spots
-**Meta Description:** 340B contract pharmacy arrangements mean your members may fill prescriptions with discounted drugs while your plan pays standard rates. Here is what to look for.
+**SEO Title (AEO):** What Is a 340B Contract Pharmacy, and How Does It Affect an Employer's Pharmacy Claims?
+**Meta Description:** A 340B contract pharmacy lets a covered entity dispense discounted drugs through an outside pharmacy, so your members may fill prescriptions with 340B-priced drugs while your plan pays standard rates. Here is what to look for.
 **Tags:** 340B, contract pharmacy, pharmacy benefits, transparency, self-funded employers, drug pricing
 
 ### Field Note Header Image Prompt
