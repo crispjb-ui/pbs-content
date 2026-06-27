@@ -2,13 +2,22 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
-## 🟧 BUILT-WEEK REACH-POST AUDIT (Jun 26, 2026) — Thursday slots default to vocabulary decoders; swap to shocking-fact reveals
-Audit of W26–W30 found all five default the **Thursday reach slot to a "5 X Terms Decoded" vocabulary decoder** (the ~4-5K summer shape), with the genuinely-shocking material on a lower-reach day or in the deep dive. Rule now encoded (`week_build_spec.md` §2). Per-week swap to execute (each ripples to its Field Note pairing per the Thursday Excellence rule):
-- **W26 (Formulary):** Thu "5 Step Therapy Override Terms Decoded" → reshape to a formulary **hidden-structure reveal** (manufacturers pay the PBM for EXCLUSIVE formulary placement, blocking cheaper biosimilars/competitors — a toll, not a discount). OR promote the in-week Tue "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (already a Bypass/Funnel reveal) to Thursday, demote step-therapy to Tue. **Next to publish — do first.**
-- **W27 (PBM Evaluation):** Thu "5 PBM Compensation Terms Decoded" → reshape to the **named offshore rebate-aggregator reveal** (Ascent/CVS, Emisar/Cigna, Zinc/UNH take a cut before "100% pass-through"; May 2026 CVS suit + PA Act 77). Material already in the W27 deep dive. The canonical ~17.8K shape. Highest-value swap.
-- **W28 (Network Design):** Thu "5 GER Terms Decoded" → reshape to the **generic-spread hidden-structure reveal** ("generics cost pennies, your plan pays dollars; the blended GER average hides which claims carry the spread"). A proven top-3 all-time shape.
-- **W29 (Rebate Economics):** the offshore-aggregator reveal is already built but on **Wednesday**; Thu "5 Network Contract Terms Decoded" is a vocabulary decoder AND off-topic for a rebate week. **Swap:** move the offshore-aggregator reveal to the Thursday reach slot; demote/replace the network-terms decoder. Lowest-effort (slot swap).
-- **W30 (Site of Care):** Thu "5 Coordination of Benefits Terms Decoded" → reshape to a **site-of-care steering reveal** (white/brown bagging routes specialty margin to the PBM-owned pharmacy; site-of-care markup). On-topic hidden-structure reveal.
+## ✅ DONE (Jun 27, 2026) — Q3 REACH-POST REBUILD (W26–W37): vocabulary decoders → shocking hidden-structure reveals
+Audit found the build was defaulting the **Thursday reach slot to a "5 X Terms Decoded" vocabulary decoder** (the ~4-5K summer shape) with the genuinely-shocking material on a lower-reach day or in the deep dive. Rule encoded (`week_build_spec.md` §2). **All 12 remaining Q3 weeks rebuilt, committed, pushed to main** (commits `0581e86`, `41ae836`, `c72988a`). Each: reach slot now a distinct genuinely-unknown structural reveal, paired Field Note retargeted to exclusively support it, triple-distinct held, refer-back-first (no new toolkit minted, links verified live), 5-trait Thursday Excellence audit documented, ASCII-clean X bodies. **No shocking fact repeated within ~6 weeks.** Final slate:
+- **W26 Formulary:** Tue⇄Thu swap — manufacturer-direct payments outside the rebate definition promoted to Thu (elevated copy); step-therapy decoder demoted to Tue. _(W26 already scheduled — explicit swap list delivered to Ginny.)_
+- **W27 PBM Evaluation:** named offshore rebate-aggregator reveal (Ascent/Cigna, Emisar/UnitedHealth, Zinc/CVS). Also fixed an inverted aggregator-owner mapping in the deep-dive body.
+- **W28 Network Design:** generic-spread / GER-average reveal ($0.12 generic billed $9).
+- **W29 Rebate Economics:** copay-maximizer "non-essential health benefit" reclassification (J&J v. SaveOnSP).
+- **W30 Site of Care:** owned-pharmacy steering funnel (FTC: pays own pharmacy up to 2x, routes >$1,000 scripts there). _(Originally also picked copay-maximizer — caught the W29/W30 collision and reassigned.)_
+- **W31 PBM RFP:** market concentration (3 PBMs = 80%, up from 52% in 2004, both sides of the counter).
+- **W32 Clinical Program ROI:** sickest-member markups (leukemia/MS/transplant/HIV generics; FTC Jan 2025, clinical/human framing).
+- **W33 Member Communication:** cash-beats-copay clawback (USC Schaeffer ~1 in 4 fills).
+- **W34 Specialty Mgmt:** 1 in 5 specialty generics marked up >1,000% ($7.3B; FTC Jan 2025, finance framing).
+- **W35 Renewal Negotiation:** NADAC public-benchmark gap (grew 42%/yr).
+- **W36 Contract Red Flags:** 600+ formulary exclusions / private-label storefront (Cordavis/Quallent/Nuvaila).
+- **W37 Renewal Readiness:** state PBM-reform wave reveal — placed in the **Wednesday POV** slot (no same-day toolkit to anchor a Thursday pair; the Thursday first-meeting conversion triad kept intact).
+
+**Two flags to watch:** (1) **W32 + W34 both draw on the FTC Jan-2025 markup report, 2 weeks apart** — distinct hooks/pillars (W32 clinical "sickest member" vs W34 specialty "1 in 5 over 1,000%"), acceptable but widen if either underperforms. (2) The W26-built `step-therapy-override` toolkit IS live (HTML/PDF built Jun 5) — an agent's stale "never built" note was wrong; W36 correctly refers back to it.
 
 ## 🟦 NEXT video priority (from `/log-metrics` Jun 26, 2026)
 - **Ship a clean 9:16 clip to test reach.** The first video read (a 4:5 Wednesday clip) hit ~94% completion (17s avg / 18s) — completion is proven for the short format. But 4:5 is main-feed only, so the **9:16 video-tab / non-follower reach lift is still untested.** The SHRM batch is built 9:16; running one as the next Wednesday video gives the clean reach data point. Track its video-tab reach + non-follower share specifically.
