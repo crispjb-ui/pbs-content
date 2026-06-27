@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday repurposed-into-deep-dive visual moved to PART 1; live Thursday Slot B carousel is the schedulable post)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Thursday rebuilt (June 2026):** the former Thursday "Same/Same/Different" rebate-definition carousel was replaced by a SHOCKING HIDDEN-STRUCTURE REVEAL — the "preferred" formulary that excludes 600+ drugs and fills the gap with the PBM's own private label (`shocking_fact_bank.md` #6, verified vs Drug Channels / Becker's). W36 sits in the early-fall surge, where the strongest reach shape should land; the reveal clears the 15-18K organic ceiling the comparison carousel could not. The Field Note (PART 1B) was retargeted to exclusively support the reveal. The displaced carousel is noted for `evergreen_visual_backlog.md`; the displaced definition-variance Field Note for `field_note_backlog.md`. No new toolkit minted (refer-back-first)._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -30,9 +30,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Sep 9 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Sep 9 | 7:00 PM | X | question [A14] | PART 4B · Wed | [ ] |
 | Wed Sep 9 | 8:30 PM | X | aphorism [C8] | PART 4B · Wed | [ ] |
-| Thu Sep 10 | 7:30 AM | Substack | Field Note: "Auditing How Your PBM Defines the Same Words Your Old Contract Defined" | PART 1B | [ ] |
+| Thu Sep 10 | 7:30 AM | Substack | Field Note: "How to Audit Your Formulary for the PBM's Private-Label Swap" | PART 1B | [ ] |
 | Thu Sep 10 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Thu | [ ] |
-| Thu Sep 10 | 10:00 AM | LI Feed | Post 135 — "Same contract language. Different interpretations. Different outcomes." (Same/Same/Different photoreal carousel, Slot B) | Post 135 | [ ] |
+| Thu Sep 10 | 10:00 AM | LI Feed | Post 135 — REVEAL: "The 'preferred' formulary is a storefront the PBM rents to itself" (600+ exclusions / private-label swap, single image, Slot A) | Post 135 | [ ] |
 | Thu Sep 10 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Sep 10 | 1:30 PM | LI Company | Reshare of Post 135 | Post 135 Reshare | [ ] |
 | Thu Sep 10 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -216,52 +216,48 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing How Your PBM Defines the Same Words Your Old Contract Defined
+## How to Audit Your Formulary for the PBM's Private-Label Swap
 
-**Display Title:** Auditing How Your PBM Defines the Same Words Your Old Contract Defined
-**SEO Title (AEO):** How Do PBM Contract Definitions Change Between Renewals? (Definition-Variance Audit)
-**SEO Subtitle:** A three-pass audit for catching the renewal-by-renewal drift in rebate, AWP, and pass-through definitions that costs the plan money without changing the visible contract
+**Display Title:** How to Audit Your Formulary for the PBM's Private-Label Swap
+**SEO Title (AEO):** Why Does My PBM's "Preferred" Formulary Exclude 600+ Drugs? (Private-Label Storefront Audit)
+**SEO Subtitle:** A three-step audit that maps each formulary exclusion to the PBM-owned private-label product that replaced it, then finds the contract clause that decides whether the PBM needed your sign-off
 
 **Publish:** Thursday, September 10, 2026 at 7:30 AM EST
-**Length:** ~580 words
+**Length:** ~600 words
 **Pillar:** PBM Contract Insights
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "Same contract language. Different interpretations. Different outcomes." Three-Contract Photoreal Same/Same/Different carousel. LinkedIn post shows three PBMs reading the same clause three different ways; Field Note is the operational follow-on for auditing definition variance in your own contract history.
-**Why this pairing (not the displaced "Data Ownership and Portability" draft):** Architecture B triple-distinct topic rule — Monday W36 is Contract Red Flags (broad contract evaluation); Thursday is Definition Variance (how the same words mean different things across contracts). Adjacent within PBM Contract Insights pillar, different subject matter. Original "Data Ownership and Portability" Field Note parked as FN-18.
+**Pairs with:** Thursday LinkedIn single-image reveal "The 'preferred' formulary is a storefront the PBM rents to itself" (Slot A). LinkedIn post reveals that each big-3 PBM now excludes 600+ drugs and fills the gap with its own private-label products; the Field Note is the operational follow-on for auditing your own formulary for the swap and finding the contract clause that authorizes it.
+**Why this pairing (Thursday Excellence rule 5):** The Field Note exclusively supports the LinkedIn reveal. LinkedIn states the shock (600+ exclusions, private-label swap, storefront framing); the Field Note is the operational follow-on (audit your own exclusion list against the PBM's house brands, then find the formulary-change clause that decides whether the PBM needs your sign-off). Same topic, deeper application, no diluted topics. Triple-distinct holds: Monday is contract red flags broadly, Tuesday is Q4 cost-pattern clauses (Library 06), Thursday is formulary private-label self-dealing. The displaced "Auditing How Your PBM Defines the Same Words" definition-variance Field Note draft is noted for `field_note_backlog.md` (PBM Contract Insights pillar; re-anchor the "this morning's LinkedIn post" reference before reuse); per instructions no backlog file is edited in this pass.
 
 ---
 
 ### Field Note Body
 
-**PBM contract definitions change between renewals through quiet drift: words like "manufacturer compensation" get narrowed to "manufacturer rebates," categories that were once inside a definition get carved out, and the contract reads nearly the same while the economics shift, so you catch it with a three-pass audit that lays every contract version side by side, compares the high-impact clauses, and estimates the dollar impact of each change.**
+**Your PBM's "preferred" formulary now excludes more than 600 drugs, an all-time high, and increasingly replaces them with the PBM's own private-label products, so you audit it in three steps: pull the current exclusion list, map each meaningful exclusion to the PBM-owned house brand that replaced it, then read the formulary-change clause that decides whether the PBM needed your sign-off to make the swap.**
 
-This morning's LinkedIn post showed three PBMs reading the same ten-word clause three different ways. Today is the operational follow-on. You have the framing. Here is how to audit definition variance in your own contract history: the renewal-by-renewal drift that costs the plan money without changing a word of the visible contract.
+This morning's LinkedIn post made the case that the "preferred" formulary is not a clinical ranking. It is a storefront the PBM rents to itself. The clearest example is Humira: all three big PBMs dropped it and replaced it with a private-label biosimilar sold through a subsidiary they own (Cordavis at CVS Caremark, Quallent at Express Scripts, Nuvaila at Optum Rx). Today is the operational follow-on. Here is how to audit your own formulary for the same pattern.
 
-At Prescription Benefit Solutions, we help plan sponsors run definition-variance audits as a standard part of our work. Three comparison passes do most of the work.
+At Prescription Benefit Solutions, we run this audit as a standard part of our contract reviews. Three steps do most of the work.
 
-**Pass one: pull every active contract and every prior contract on file**
+**Step one: pull this year's exclusion list and the change log**
 
-Open your contract repository. Pull the current PBM agreement plus every prior version (renewal cycles, amendments, addenda) on file. List the high-economic-impact clauses across all versions: rebate definition, AWP discount methodology, pass-through clause, performance guarantee thresholds, exclusion lists, audit rights scope.
+Get the current standard formulary, the published exclusion list, and the year-over-year change log from your PBM. Each big-3 PBM excludes more than 600 drugs from its standard formulary now, so the list is long. You do not need to read all of it. Flag the exclusions that affect drugs your members actually fill, and flag every drug that was moved or dropped in the last two formulary cycles.
 
-**Pass two: compare definitions clause-by-clause across versions**
+**Step two: map each meaningful exclusion to what replaced it**
 
-For each high-impact clause, lay the language side by side across versions. Note the changes: what was added, what was removed, what was reworded. Most plan sponsors assume the contract "stays the same" between renewals; definition variance is what makes that assumption costly.
+For each flagged exclusion, ask one question: what is the "preferred" alternative, and who owns it? Cross-reference the preferred replacement against the PBM's private-label subsidiaries (Cordavis, Quallent, Nuvaila) and its owned specialty and mail pharmacies. When the excluded drug had a cheaper biosimilar or generic competitor that was also excluded, and the surviving "preferred" option is the PBM's own house brand, that is the storefront pattern. The exclusion is not clinical. It is a routing decision that sends the margin back to the PBM.
 
-The pattern our firm sees across the hundreds of PBM contract reviews and audits we run a year: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The contract reads similar; the economics shift quarterly.
+**Step three: read the formulary-change clause that authorizes the swap**
 
-**Pass three: estimate the dollar impact of each definition change**
-
-For each definition change, estimate the dollar magnitude. Did narrowing the rebate definition by excluding "data licensing payments" reduce the plan's pass-through capture by 1-2% of gross rebate? Did changing the AWP source from Medi-Span to First DataBank shift the discount calculation? Did adding a new exclusion to the GER calculation reduce the guarantee's coverage scope?
-
-Document the impact with claims data. Bring the documentation to your broker before the next renewal. The definition variance is the most consequential silent change in any multi-year PBM relationship.
+This is the contract red flag. Find the formulary-change provision in your agreement. Weak language reads "PBM may modify the formulary at any time." That lets the PBM exclude a competitor and swap in its own private label on its own authority, with no notice and no approval. Strong language requires advance written notice of any change and Plan Sponsor approval for changes that move members to a PBM-affiliated product. If your clause is the weak version, the "preferred" formulary is the PBM's shelf, not yours.
 
 **What to do this quarter**
 
-> **Pull the current contract and every prior version on file.**
-> **Compare the high-impact clauses side by side.** Document changes.
-> **Estimate the dollar impact of each change** and bring the audit to your broker before renewal.
+> **Pull the current exclusion list and the two-cycle change log.**
+> **Map each meaningful exclusion to the preferred replacement and check who owns it.**
+> **Read the formulary-change clause** and bring the gaps to your broker before renewal.
 
-The decoded vocabulary tells you what the words can mean. The audit tells you how the meanings drifted in your own contract. The drift is your renewal-leverage item. To run the three passes against your own contract history, use our [Definition Variance Audit Worksheet](https://www.rxbs.org/toolkit/definition-variance-audit).
+The exclusion list tells you what was dropped. The ownership map tells you why. The contract clause tells you whether you ever had a say. To run the three steps against your own formulary, use our [formulary-override worksheet](https://www.rxbs.org/toolkit/step-therapy-override).
 
 ---
 
@@ -274,7 +270,7 @@ The decoded vocabulary tells you what the words can mean. The audit tells you ho
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design contract-version stacks in Primary Blue (#015880) outline, side-by-side, each labeled "v1 · 2022," "v2 · 2024," "v3 · 2026" in Plex Mono Medium small caps. Each stack shows a small horizontal line representing a key clause; the line is shorter on each successive stack, suggesting the clause has narrowed over time. A red marker line connects across the three stacks at the same clause position, showing the drift. Three numbered tick marks in Accent Blue (#A7E0FA) below, suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the rightmost stack. Below the composition, a two-tone centered headline: "Same Words." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Quietly Smaller." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. The drift is silent. The economics are not." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design two-rack shelf icon in Primary Blue (#015880) outline. The left rack is labeled "EXCLUDED · 600+" in Plex Mono Medium small caps and is drawn nearly empty, with two small medicine-box outlines tipped over and sliding off the edge. The right rack is labeled "PREFERRED" and holds one single prominent house-brand pill-bottle icon, front and center, filled with Accent Blue (#A7E0FA). A curved Accent Blue arrow loops from the empty left rack to the single bottle on the right, suggesting the swap. Below, three numbered tick marks in Accent Blue (#A7E0FA) suggesting three audit steps. Below the composition, a two-tone centered headline: "Excluded." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Then Replaced With Its Own." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three steps. Map the exclusion. Find the clause." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -290,40 +286,25 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Definition Variance Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/definition-variance-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+_No NEW Plan Sponsor Toolkit is minted this week. Per the refer-back-first rule (CLAUDE.md, Jun 23, 2026), the toolkit library is deep enough that a week with no genuinely-unique gap reuses an existing live toolkit rather than producing a near-duplicate. The Thursday reveal (formulary private-label storefront / exclusion audit) is covered by the existing live **Step Therapy / Formulary Override Worksheet** at `rxbs.org/toolkit/step-therapy-override`, which already walks a plan sponsor through challenging formulary placement and override rights. The Monday deep dive (weak vs strong contract language) is served by the always-on **Contract Language Library** (`rxbs.org/contract-language-library`). Both are referenced from the deep-dive body, the Field Note body, and the first comments; no new Wix row, PDF, or 5-email sequence is created._
 
----
+**Existing live toolkit reused this week:**
 
-## Toolkit 1 — Thursday Field Note Handout · Definition Variance Audit Worksheet
+| Slot | Toolkit | Live URL | Where it is linked |
+|---|---|---|---|
+| Thursday reveal + Field Note | Step Therapy / Formulary Override Worksheet | `rxbs.org/toolkit/step-therapy-override` | Thursday LinkedIn first comment, Field Note body |
+| Monday deep dive | Contract Language Library (evergreen) | `rxbs.org/contract-language-library` | Deep dive body, LI Newsletter first comment |
 
-### Wix Toolkits dataset row
+### Refer-back check (run before ship)
 
-| Column | Value |
-|---|---|
-| `slug` | `definition-variance-audit` |
-| `name` | `Definition Variance Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `definition drift audit` |
-| `pillar` | `PBM Contract Insights` |
-| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
-| `second_toolkit_blurb` | `Definition variance is how the PBM expands compensation streams across renewal cycles without changing visible contract language. PBM Compensation maps the five streams the definitions silently modulate (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin). The definition audit names the words that drifted; the compensation audit names the dollar amounts those drifts produced. Together they pair as the mechanism and the financial impact.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
-
-### Wix build checklist
-
-- [ ] Upload `templates/documents/week_36_thursday_definition_variance_audit.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/definition-variance-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [ ] Confirm `rxbs.org/toolkit/step-therapy-override` renders and the PDF downloads
+- [ ] Confirm `rxbs.org/contract-language-library` renders (Monday canonical)
+- [ ] No new Wix `Toolkits` row required this week
+- [ ] If the formulary-swap angle proves to need a dedicated asset later, mint a `formulary-exclusion-audit` toolkit then; do not mint just to fill this week's slot
 
 ### Pairing rationale
 
-PBM Compensation universal anchor (definitions modulate compensation streams). Channel Pricing Field Note covers a definitions-driven audit finding.
+Refer-back-first: the formulary-override worksheet already covers "challenge what the PBM put on (or pulled off) the formulary," which is exactly the Thursday reveal's action (audit the exclusion list, find the change clause). Reusing it concentrates downloads and AEO citation authority on one canonical asset instead of splitting them across a near-duplicate new build.
 
 ---
 
@@ -384,10 +365,10 @@ The difference between a PBM guarantee you can enforce and one you cannot is oft
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
-And this week's Definition Variance Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/definition-variance-audit
+And the full protective wording for every provision in the briefing lives in our free Contract Language Library, the one to mark your own contract against: rxbs.org/contract-language-library
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/definition-variance-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_No new toolkit ships this week (refer-back-first). The third line routes to the always-on Contract Language Library (`rxbs.org/contract-language-library`), the Monday canonical. Confirm the page renders before scheduling; if not yet live, drop the third line and route to the deep dive only (the comparison library is embedded in that post)._
 
 
 ---
@@ -531,93 +512,96 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 
 ## Post 135 - Thursday 10:00 AM
 
-_The "Contract Language Comparison" Contract Markup Carousel was repurposed into Monday's deep dive (the 10-provision weak/moderate/strong comparison library is the article body) and now lives in PART 1 as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
+### Thursday Excellence Slot (Slot A · messy infographic) - The "preferred" formulary is a storefront the PBM rents to itself
 
-### Thursday Excellence Slot (Slot B) - Same contract language. Different interpretations. Different outcomes.
+- **Slot:** A (messy infographic / clean-conceptual single image)
+- **Format:** Single image, 1080 x 1350 px (4:5 vertical), mobile-legible, 5 elements max
+- **Pillar:** PBM Contract Insights (contract red flag: self-dealing / private-label swap right)
+- **Topic:** SHOCKING HIDDEN-STRUCTURE REVEAL — the "preferred" formulary that excludes 600+ drugs and increasingly fills the gap with the PBM's own private-label products. Reframed as a contract red flag: does your agreement let the PBM swap to its own private label without your sign-off?
+- **Hook:** "Your PBM's 'preferred' formulary now excludes more than 600 drugs. The replacements increasingly carry the PBM's own private label. That list is not clinical. It is a storefront it rents to itself."
+- **Reveal source:** `shocking_fact_bank.md` entry #6. Verified at build (June 2026) against Drug Channels / Adam Fein 2025 formulary exclusion review and Becker's Hospital Review: each big-3 PBM excluded more than 600 drugs from its 2025 standard formulary (an all-time high), and all three dropped AbbVie's Humira in favor of private-label biosimilars sold through their own subsidiaries (CVS Caremark / Cordavis, Express Scripts / Quallent, Optum Rx / Nuvaila).
 
-- **Slot:** B
-- **Format:** Carousel (6 slides)
-- **Pillar:** Cost Containment Strategies
-- **Topic:** Same contract language. Different interpretations. Different outcomes.
-- **Hook:** "Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The interpretation did."
+**Thursday Excellence 5-trait audit (all five required, all hit):**
+1. **Format = messy infographic / clean-conceptual single image.** Storefront-shelf concept (below): a pharmacy shelf where the "excluded" rack is swept bare and the "preferred" rack is restocked with a single house-brand bottle. Single image, 5 elements, mobile-legible at ~400px.
+2. **Hook = confrontational, named-actor.** Names the PBM as the actor and the "preferred" formulary as the storefront it rents to itself. Knowledge-gap + discomfort.
+3. **Proprietary anchor (varied, not the repeated "hundreds of contracts a year").** This week's anchor pulls a 2025 firm metric: "Across the 86 contract reviews we ran in 2025, the clause that decides this is the same one most plans never negotiate: whether the PBM can swap to its own private label without your sign-off."
+4. **First comment names the same-day Field Note specifically + reuses a live toolkit** (refer-back-first; no new toolkit minted): the Step Therapy / Formulary Override toolkit at `rxbs.org/toolkit/step-therapy-override`.
+5. **Field Note (PART 1B) exclusively supports this reveal** — the formulary-exclusion / private-label-swap audit. Retargeted below.
 
-**Content outline (Same/Same/Different structure, parallel lines then punchline):**
-- Slide 1 (Hook): "Same contract language. Different interpretations. Different outcomes." Swipe indicator in Accent Blue.
-- Slide 2 (PBM A): "PBM A: 'Rebate' means manufacturer rebates only. Admin fees, data fees, aggregator fees are separate and retained."
-- Slide 3 (PBM B): "PBM B: Same clause. 'Rebate' includes most manufacturer compensation. Better definition, but specialty still carved out."
-- Slide 4 (PBM C): "PBM C: Same clause. 'Rebate' means all compensation from manufacturers. No carve-outs. The contract reads the same. The economics do not."
-- Slide 5 (Punchline): "Same ten words. Three definitions. Three financial outcomes. The contract is only as strong as the definition written underneath it." Accent Blue underline under "definition."
-- Slide 6 (CTA): Primary Blue background. White: "Definitions are the contract. Read them twice." team@rxbs.org | Benefit Blind Spots | PBS logo.
+**Content outline (single image, 5 elements max):**
+- Element 1 (Hook headline, two-tone): "Your PBM's 'preferred' formulary now excludes 600+ drugs."
+- Element 2 (the reveal line): "The replacements increasingly carry the PBM's OWN private label."
+- Element 3 (the named swap, the unfakeable detail): "All three dropped Humira for a house-brand biosimilar. Caremark / Cordavis. Express Scripts / Quallent. Optum Rx / Nuvaila."
+- Element 4 (the reframe): "That list is not clinical. It is a storefront the PBM rents to itself."
+- Element 5 (the contract red flag + CTA): "Red flag: can your PBM swap to its own private label without your sign-off? Find the clause."
 
 #### Post Copy
 
 ```
-Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did.
+Your PBM's "preferred" formulary now excludes more than 600 drugs. That is an all-time high, and the replacements increasingly carry the PBM's own private label.
 
-Here is the red flag that hides in the most reassuring phrase in your contract. "100% pass-through" of manufacturer rebates sounds airtight. But the big-3 PBMs collect those rebates through their own aggregator companies, and two of the three are registered offshore: Ascent in Switzerland, Emisar in Ireland, Zinc for the third. The pass-through starts AFTER that offshore aggregator takes its cut. 100% of what is left is still "100%."
+Look at what happened to Humira. All three of the big PBMs dropped it. They replaced it with a private-label biosimilar sold through a subsidiary they own: Cordavis at CVS Caremark, Quallent at Express Scripts, Nuvaila at Optum Rx. Same molecule class. Now it routes through a house brand the PBM profits from twice.
 
-Across the 706 engagements we ran in 2025, the same defined term, copied verbatim across three different vendors, produces three different financial outcomes for the plan. The variance is silent: the contract reads similar; the definitions section is where the economics shift quarterly.
+That "preferred" list is not a clinical ranking. It is a storefront the PBM rents to itself. The drugs that get excluded and the house brand that fills the gap are a margin decision wearing a formulary's name.
 
-The pattern: rebate definitions narrow over successive renewals. Words like "manufacturer compensation" replaced with "manufacturer rebates." Categories carved out at renewal that were inside the definition before. The current contract reads cleanly. The trajectory across versions does not.
+Across the 86 contract reviews we ran in 2025, the clause that decides whether this can happen to your plan is the same one most plan sponsors never negotiate: whether the PBM can move a drug to its own private label, or exclude a competitor, without your sign-off.
 
-Read the noun, not the percentage. Then read who collects the rebate before the pass-through clock even starts.
+Read your formulary-change clause. If it lets the PBM swap to its own private label and exclude the alternatives on its own authority, the "preferred" formulary is its shelf, not yours.
+
+Pull the exclusion list. Cross-reference it against the PBM's private-label products. Then read who has to approve the swap.
 
 Save this for your next contract review.
 
-#PBMContracts #ContractLanguage #SelfFundedEmployers
+#PBMContracts #Formulary #SelfFundedEmployers
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: how to audit definition variance in your own contract history (pull every version, compare the high-impact clauses side by side, estimate the dollar impact of each silent narrowing). Plus the Definition Variance Audit Worksheet you can run before your next renewal. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: how to audit your own formulary for the private-label swap (pull the exclusion list, map each exclusion to the PBM-owned house brand that replaced it, and find the formulary-change clause that decides whether the PBM needs your sign-off). Plus the formulary-override worksheet you can run before your next renewal: rxbs.org/toolkit/step-therapy-override
+
+[SUBSTACK FIELD NOTE URL]
 ```
 
-#### Same/Same/Different Carousel Concept
+#### Single-Image Concept (messy-infographic / storefront-shelf)
 
-**Format:** Multi-slide LinkedIn carousel. Hero slide (Slide 1) sets the visual system; remaining slides reuse the same DNA.
+**Format:** Single LinkedIn feed image, photoreal-leaning conceptual. Mobile-legible at ~400px (in-feed pre-tap): the headline and the house-brand bottle read at thumbnail; the named-subsidiary line reads on tap. Five elements max; high contrast.
 
-**Dimensions:** 1080 x 1350 px per slide (LinkedIn feed vertical 4:5)
+**Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** Three contract pages with different sentences highlighted.
+**Setting:** A pharmacy shelf split into two racks. The left rack is labeled "EXCLUDED · 600+" and is swept nearly bare, a few brand boxes tipped over and pushed off the edge. The right rack is labeled "PREFERRED" and holds a single, prominent house-brand pill bottle, restocked and front-facing, with a small price tag.
 
-**AI Image Generation Prompt for HERO SLIDE (copy-paste as-is):**
+**AI Image Generation Prompt for the single image (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking printed contract pages are laid out in a row on a light gray surface, evenly spaced. Each page shows the same block of legal paragraph text at the top, beginning with the visible word "Rebate" in the first sentence. On each page, a different phrase within the paragraph has been highlighted: the left page highlights only "manufacturer rebates," the middle page highlights a longer span including "most manufacturer compensation," the right page highlights the widest span including "all compensation from manufacturers." A yellow highlighter, a pink highlighter, and a blue highlighter rest next to their matching pages. No logos, no brand marks, no people, no text outside the pages.
+> A photorealistic conceptual image, 1080 x 1350 pixels (4:5 vertical). A clean pharmacy shelf unit photographed straight-on, divided into two clearly labeled racks. The LEFT rack has a printed label reading "EXCLUDED · 600+"; it is nearly empty, with three or four brand-name medicine boxes knocked over and being swept off the edge by a small broom. The RIGHT rack has a printed label reading "PREFERRED"; it holds one single prominent white-and-blue house-brand pill bottle, front-facing and well-lit, with a small hanging price tag. Soft even pharmacy lighting, shallow depth of field, subtle shadows. No people. No real brand logos. Colors: warm neutral shelf, off-white bottle with a deep teal-blue (#015880) label and Accent Blue (#A7E0FA) cap, red accent on the "EXCLUDED" label, deep teal-blue on the "PREFERRED" label.
 >
-> Above the three pages, in clean bold handwriting on the surface: Same ten words. Three definitions.
+> Top of image, two-tone bold headline in clean sans-serif: "Your PBM's 'preferred' formulary" in deep teal-blue (#015880), then "excludes 600+ drugs" in white on a deep teal-blue band.
 >
-> Below the pages, in smaller handwriting: The contract is only as strong as the definition underneath it.
->
-> Style: realistic document photography, soft even daylight, subtle shadows under each page, slight paper curl at corners. Colors: off-white contract pages with crisp black serif legal type, bright yellow/pink/blue highlighter strokes, matching highlighter bodies, light gray surface, black handwritten ink.
-
-**Slide-by-slide outline (design manually in Canva using the same visual DNA):**
-- Slide 1 (Hero / Hook): Three contract pages photo described above. Overlay: "Same contract language. Different interpretations. Different outcomes." Swipe indicator in Accent Blue.
-- Slide 2 (PBM A): "PBM A: 'Rebate' means manufacturer rebates only. Admin fees, data fees, aggregator fees are separate and retained."
-- Slide 3 (PBM B): "PBM B: Same clause. 'Rebate' includes most manufacturer compensation. Better definition, but specialty still carved out."
-- Slide 4 (PBM C): "PBM C: Same clause. 'Rebate' means all compensation from manufacturers. No carve-outs. The contract reads the same. The economics do not."
-- Slide 5 (Punchline): "Same ten words. Three definitions. Three financial outcomes. The contract is only as strong as the definition written underneath it." Accent Blue underline under "definition."
-- Slide 6 (CTA): Primary Blue background. White text: "Definitions are the contract. Read them twice." team@rxbs.org.
+> Bottom of image, smaller line in deep teal-blue: "The replacements carry the PBM's own private label. That list is not clinical. It is a storefront it rents to itself."
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any highlighted phrase or overlay text, overlay the correct text in a clean serif font matching the contract body type.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export each slide as PNG at 1080 x 1350.
+1. If the AI mangles the headline or the "EXCLUDED · 600+" / "PREFERRED" labels, overlay the correct text in IBM Plex Sans SemiBold (Primary Blue + white two-tone per the headline) so it reads clean at ~400px.
+2. Overlay the named-subsidiary line in Plex Sans Regular near the house-brand bottle so it reads on tap: "Caremark / Cordavis · Express Scripts / Quallent · Optum Rx / Nuvaila."
+3. Mobile legibility check: preview at ~400px wide. The headline and the bottle must read at thumbnail; the subsidiary line must read on tap. Enlarge anything hard to read.
+4. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+5. Export as PNG at 1080 x 1350.
+
+_Displaced draft: the prior Thursday "Same contract language. Different interpretations. Different outcomes." Three-Contract photoreal Same/Same/Different carousel (Cost Containment / Transparency, rebate-definition variance) is removed from this slot. Its rebate-definition-variance payload is already substantially carried by the Monday deep dive's 10-provision weak/moderate/strong comparison library and the Thursday Field Note's definition-variance framing was retargeted, so the carousel concept is noted here for `evergreen_visual_backlog.md` (Same/Same/Different format, Transparency/Cost Containment pillar, rebate-definition-variance clause set) rather than minted into the deep dive (which already carries its own In-Article contract-markup visual). Per instructions, no backlog file is edited in this pass._
 
 ---
 
 ## Post 135 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 48 words
 
 #### Reshare Copy
 
 ```
-Same clause. Same ten words. Three PBMs reading it three different ways. The contract did not change. The definition underneath it did. And "100% pass-through" can start only after an offshore aggregator the PBM owns takes its cut.
+Each big-3 PBM now excludes more than 600 drugs from its formulary, an all-time high, and increasingly fills the gap with its own private-label products. All three dropped Humira for a house-brand biosimilar.
 
-Ginny Crisp shows how the same contract language produces three different financial outcomes.
+Ginny Crisp on the contract clause that decides whether the PBM can do this to your plan.
 
-#PBMContracts #ContractLanguage #PharmacyBenefits
+#PBMContracts #Formulary #PharmacyBenefits
 ```
 
 ---
@@ -689,7 +673,7 @@ A CFO told me after a contract review that he "wished he had known" which phrase
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: data ownership and portability. The clause nobody reads until they need it. Then it is the most important provision in the contract.
+New field note: your PBM's "preferred" formulary now excludes more than 600 drugs and increasingly fills the gap with its own private label. Here is how to audit your own formulary for the swap, and the contract clause that decides whether the PBM needed your sign-off.
 
 Read: [LINK]
 
@@ -824,10 +808,11 @@ Generic effective rate guarantees: your PBM promises an average discount, then h
 ```
 "Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · reveal amplifier (post AFTER the 10 AM LinkedIn reveal publishes; LinkedIn-first):**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+Each big-3 PBM now excludes 600+ drugs from its formulary, an all-time high. They drop Humira and push their own private-label biosimilar through a subsidiary they own. Caremark/Cordavis. Express Scripts/Quallent. Optum Rx/Nuvaila. The formulary is a shelf they rent to themselves.
 ```
+  First reply (link): rxbs.org/toolkit/step-therapy-override
 - **7:00 PM · question post [A15]:**
 ```
 A biosimilar launched at a fraction of the brand's price. Is your plan on it, or is your PBM still steering to the brand because the brand pays a bigger rebate? Pull the claims and find out.
@@ -930,7 +915,7 @@ When your PBM says it passes through 100% of rebates, ask one word back: of what
 Ask your PBM for your generic effective rate against the contract guarantee, by month. "On average over the year" is where the misses hide.
 ```
 
-> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: 7 recipe / named-program AM posts (Mon-Fri 8 AM weekday Tier B, Sat/Sun 8 AM Tier A Cuban-bait) ≈ 40% ✓ · 5 weekday midday news-reaction HOLDs with decoder/stat-shock quiet-day backups (MAC/WAC/AWP, audit clause, three-PBM concentration, pass-through noun, effective-rate average) ✓ · 6 punchy PM anchors (Mon-Sat 5 PM) + 1 origin (Sun 5 PM, capped) ✓. Weekend Tier-A Cuban-bait recipes: 4 (Sat 10 AM + 2:30 PM, Sun 10 AM + 2:30 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (Fri 8:30 PM, capped 1/week) ✓. Newsjack/bridge (E/F) held for reactive bumps; midday HOLDs bump to live reactions when PBM news lands. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md` + `x_recipe_post_bank.md`; nothing repeats inside ~2 weeks.
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: 7 recipe / named-program AM posts (Mon-Fri 8 AM weekday Tier B, Sat/Sun 8 AM Tier A Cuban-bait) ≈ 40% ✓ · 5 weekday midday news-reaction HOLDs with decoder/stat-shock quiet-day backups (MAC/WAC/AWP, audit clause, three-PBM concentration, pass-through noun, effective-rate average) ✓ · 5 punchy PM anchors (Mon/Tue/Wed/Fri/Sat 5 PM) + 1 reveal amplifier (Thu 5 PM, the 600+/private-label formulary reveal, scheduled AFTER the 10 AM LinkedIn post per LinkedIn-first) + 1 origin (Sun 5 PM, capped) ✓. Weekend Tier-A Cuban-bait recipes: 4 (Sat 10 AM + 2:30 PM, Sun 10 AM + 2:30 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (Fri 8:30 PM, capped 1/week) ✓. Newsjack/bridge (E/F) held for reactive bumps; midday HOLDs bump to live reactions when PBM news lands. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md` + `x_recipe_post_bank.md`; nothing repeats inside ~2 weeks.
 
 # PARTS 5-7
 
@@ -944,7 +929,8 @@ Ask your PBM for your generic effective rate against the contract guarantee, by 
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 133 Library 06 Contract Comparison Carousel | 7 slides (1080x1350) | "Three Clauses Behind Every Q4 Cost Pattern" — decodes accumulator adjustment, channel pricing/refill timing, and claim-year cutoff clauses, Self-Funded Employer Guidance pillar |
-| Post 135 Contract Markup Carousel | 7 slides | Template B |
+| Post 135 REVEAL single image (formulary storefront) | 1 image (1080x1350) | "The 'preferred' formulary is a storefront the PBM rents to itself" — pharmacy-shelf concept, EXCLUDED 600+ rack swept bare / PREFERRED rack holding one house-brand bottle. Mobile-legible at ~400px; subsidiary line (Cordavis/Quallent/Nuvaila) on tap. PBM Contract Insights pillar |
+| Substack headers | Mon deep dive (storefront/comparison), Thu Field Note (Excluded/Then Replaced) | [ ] |
 | Headers | Standard | [ ] |
 
 ## Metrics

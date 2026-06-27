@@ -5,7 +5,9 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (the Thursday slot is the live "5 Fiduciary Terms Decoded" messy infographic; the repurposed One Number Carousel now lives in PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (the Thursday reach post is the live "Your PBM Marks Up the Sickest Member's Drugs the Most" shocking-fact messy infographic; the repurposed One Number Carousel now lives in PART 1 as an In-Article Visual)._
+
+_**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 Fiduciary Terms Decoded" Index Cards vocabulary decoder (Post 119) was replaced with a genuinely-unknown structural-fact reveal: the big-3 PBMs mark up specialty generics for leukemia, MS, transplant, HIV, and renal disease the most, so the markup scales with how sick the member is (FTC Second Interim Staff Report, Jan 2025; `shocking_fact_bank.md` #8). Measured rationale: vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough (offshore-rebate-GPO reveal: 17,816 impressions organic). The Thursday Field Note (PART 1B), Post 119 first comment, PART 1C toolkit pairing, LI Newsletter first comment, PART 4B Thursday X amplifier, Thursday Notes teaser, and Post 119 reshare were all retargeted to support the reveal. The displaced "Auditing Your Fiduciary Compliance Against the Contract" Field Note and the "5 Fiduciary Terms Decoded" card set are flagged for `field_note_backlog.md` / `evergreen_visual_backlog.md` (not edited here)._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -33,11 +35,11 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Aug 12 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Aug 12 | 7:00 PM | X | question [A2] | PART 4B · Wed | [ ] |
 | Wed Aug 12 | 8:30 PM | X | aphorism [C6] | PART 4B · Wed | [ ] |
-| Thu Aug 13 | 7:30 AM | Substack | Field Note: "Auditing Your Fiduciary Compliance Against the Contract" | PART 1B | [ ] |
+| Thu Aug 13 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up the Sickest Member's Generic the Most?" | PART 1B | [ ] |
 | Thu Aug 13 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 13 | 10:00 AM | LI Feed | Post 119 — "5 Fiduciary Terms Decoded" (Index Cards messy infographic, Slot A) | Post 119 | [ ] |
+| Thu Aug 13 | 10:00 AM | LI Feed | Post 119 — "Your PBM Marks Up the Sickest Member's Drugs the Most" (messy infographic, Slot A) | Post 119 | [ ] |
 | Thu Aug 13 | 10:05 AM | LI Feed | Post 119 first comment | Post 119 | [ ] |
-| Thu Aug 13 | 12:00 PM | X | Thu-visual amplifier [VISUAL: 5 Fiduciary Terms decoder] (after 10 AM) | PART 4B · Thu | [ ] |
+| Thu Aug 13 | 12:00 PM | X | Thu-visual amplifier [VISUAL: sickest-member markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 1:30 PM | LI Company | Reshare of Post 119 | Post 119 Reshare | [ ] |
 | Thu Aug 13 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 13 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -229,56 +231,52 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your Fiduciary Compliance Against the Contract
+## Why Does Your PBM Mark Up the Sickest Member's Generic the Most?
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 13, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
+**Length:** ~600 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** PBM Contract Insights / Self-Funded Employer Guidance
+**Pillar:** Clinical Pharmacy Perspectives / Cost Containment Strategies
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 Fiduciary Terms Decoded" Index Cards messy infographic. LinkedIn post decodes the ERISA fiduciary vocabulary; Field Note is the operational follow-on for auditing whether your plan's actual decision-making process satisfies the prudent-process standard.
-**Why this pairing (not the displaced "Step Therapy Protocols" draft):** Architecture B triple-distinct topic rule — Monday W32 is Clinical Program ROI; Thursday is ERISA Fiduciary Compliance (your personal exposure as a plan fiduciary, separate from clinical program design). Adjacent within plan-sponsor concern but different subject matter (clinical ROI measurement vs. fiduciary process documentation). Original "Step Therapy Protocols" Field Note parked as FN-15.
+**Pairs with:** Thursday LinkedIn "Your PBM Marks Up the Sickest Member's Drugs the Most" shocking-fact messy infographic (Post 119). The LinkedIn post lands the FTC reveal: the specialty generics the big-3 PBMs mark up most are the generics for leukemia, MS, transplant, HIV, and renal disease. This Field Note is the exclusive operational follow-on: how a plan sponsor audits where that markup landed on its own sickest members, and why a clinical program that does not audit it is not delivering the ROI it reports.
+**Why this pairing:** Triple-distinct topic rule holds. Monday W32 is Clinical Program ROI (verifying reported clinical savings); Tuesday Post 117 is quarterly-report reporting gaps (Transparency); Thursday is the specialty-generic markup that lands on the sickest members (Clinical Pharmacy / Cost Containment). Three distinct subjects. The reveal ties back to Monday's thesis: a clinical program that claims to manage specialty spend but never audits where the per-member markup lands is reporting a number, not delivering an outcome. The displaced "Auditing Your Fiduciary Compliance Against the Contract" Field Note is flagged for `field_note_backlog.md` (re-anchor: ERISA fiduciary-process audit, PBM Contract Insights pillar; not edited here).
 
-**Display Title:** Auditing Your Fiduciary Compliance Against the Contract
-**SEO Title (AEO):** How Do You Audit ERISA Fiduciary Compliance for a Self-Funded Pharmacy Plan?
-**SEO Subtitle:** Three audit passes that turn the ERISA fiduciary vocabulary into a documented prudent-process file
+**Display Title:** Why Does Your PBM Mark Up the Sickest Member's Generic the Most?
+**SEO Title (AEO):** Why Do PBMs Mark Up Specialty Generic Drugs for Cancer, HIV, and Transplant Patients?
+**SEO Subtitle:** What the FTC found about specialty generic markups, and how a plan sponsor audits where the markup lands on its own members
 
 ---
 
 ### Field Note Body
 
-**To audit ERISA fiduciary compliance on a self-funded pharmacy plan, build a 12-month log of every pharmacy benefit decision, apply the prudent-process test to each (was the alternative considered, the data assessed, the conflict documented), and catalog every PBM conflict of interest with your inquiry record; the prudent-process standard requires a documented process, not an optimal outcome.**
+**The big-3 PBMs mark up specialty generic drugs the most at the pharmacies they own, and the FTC found the largest markups landed on the generics for leukemia, multiple sclerosis, transplant, renal disease, and HIV, so the markup scales with how sick the member is; to audit your own plan, pull your specialty generic claims, sort by filling pharmacy, and compare what your PBM billed your plan against the public NADAC acquisition benchmark for the same drug.**
 
-This morning's LinkedIn post decoded the five ERISA fiduciary terms most plan sponsors interact with regularly: fiduciary, prudent process, plan assets, conflict of interest, and co-fiduciary liability. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether your plan's actual decision-making satisfies the prudent-process standard.
+The FTC's Second Interim Staff Report on prescription drug middlemen, released January 2025, studied every specialty generic drug the big-3 PBMs dispensed from 2017 to 2022: 51 drugs across 882 National Drug Codes. The list is not lifestyle medications. It includes the generic versions of Gleevec (leukemia), Ampyra (multiple sclerosis), Myfortic (transplant rejection), and Sensipar (renal disease), plus HIV generics. The FTC found the big-3 reimbursed their own affiliated pharmacies at rates marked up more than 100% over estimated acquisition cost on roughly two-thirds of these drugs, and more than 1,000% on more than one in five. Those markups produced an estimated $7.3 billion above what the drugs cost, plus $1.4 billion more from spread pricing.
 
-At Prescription Benefit Solutions, we help plan sponsors document fiduciary compliance as a standard part of our work. Three comparison passes do most of the work. The full protective contract language sits in our free [PBM Contract Language Library](https://www.rxbs.org/contract-language-library).
+Read that again with the clinical lens on. The drugs carrying the biggest spread are the ones a cancer patient, a transplant recipient, or a person living with HIV depends on to stay alive. The markup scales with how sick your member is.
 
-**Pass one: identify every pharmacy benefit decision in the past 12 months**
+At Prescription Benefit Solutions, we audit hundreds of PBM contracts a year, and the specialty-generic markup is in most of them. Here is how to check your own plan.
 
-Open your benefits committee minutes, broker correspondence, and any documented PBM decisions from the past 12 months. List every decision: contract amendments, formulary changes, RFP outcomes, cost containment programs, vendor selections, fee approvals.
+**Pass one: pull your specialty generic claims and sort by filling pharmacy**
 
-For each decision, document the date, the deciders, and the documentation that supported the decision (data, broker analysis, alternatives considered).
+Request a claim-level extract of your specialty generic fills for the past 12 months. Sort by the dispensing pharmacy. In most plans we audit, well over half of specialty volume runs through a pharmacy the PBM owns. No member chose that. The prior-authorization and routing rules chose it for them.
 
-**Pass two: apply the prudent-process test to each decision**
+**Pass two: compare the billed price to the public acquisition benchmark**
 
-The prudent-process standard does not require optimal outcomes. It requires a reasonable, documented decision-making process. For each decision in your list, ask: was the alternative considered? Was the data assessed? Was the conflict-of-interest landscape documented?
+There is a public price for what a generic costs a pharmacy: NADAC, the National Average Drug Acquisition Cost. For each high-cost specialty generic, put two numbers on one line: what your PBM billed your plan, and the NADAC acquisition cost for the same NDC. The gap is the markup. The FTC found that gap, billed through PBM-owned pharmacies, grew at a 42% compound annual rate.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: most plan sponsors have decisions, but few have decision documentation that would survive a fiduciary audit. The decision happened; the prudent-process record did not.
+**Pass three: tie it back to the clinical program your PBM reports**
 
-**Pass three: catalog conflict-of-interest disclosures and co-fiduciary exposure**
-
-Open your contract's conflict-of-interest clause (if it exists). Document every PBM relationship that creates structural conflict: PBM-owned specialty pharmacy, rebate aggregator, GPO ownership, manufacturer data partnerships.
-
-For each conflict, document whether the plan sponsor has acknowledged the conflict in writing and whether reasonable inquiry has been made to mitigate exposure. Co-fiduciary liability triggers on conduct you saw, suspected, or could have discovered through reasonable inquiry. Reasonable inquiry is what the audit produces.
+This is where Monday's deep dive and today's reveal meet. Your PBM's specialty management program reports savings. Ask the program a direct question: does its savings methodology account for the markup it collected at its own pharmacy on these exact drugs? A clinical program that claims to manage specialty spend but never audits where the per-member markup lands is reporting a number, not delivering the ROI it claims.
 
 **What to do this quarter**
 
-> **Build the decision log for the past 12 months** with documentation references.
-> **Apply the prudent-process test** to each decision. Identify documentation gaps.
-> **Catalog the conflict-of-interest landscape and your inquiry record.** This is your co-fiduciary defense.
+> **Pull the specialty generic claims** and sort by filling pharmacy.
+> **Compare billed price to NADAC** on your highest-cost specialty generics.
+> **Send the markup back to the clinical program** and ask whether its reported savings net it out.
 
-The decoded vocabulary tells you the standard. The audit produces the documentation. Both are needed before a regulator or plaintiff is asking the questions.
+The reveal is the hook. The audit is the deliverable. For how this fits inside a full pharmacy benefit review, see our guide at [www.rxbs.org/guides/pbm-contract-audit](https://www.rxbs.org/guides/pbm-contract-audit).
 
 ---
 
@@ -291,7 +289,7 @@ The decoded vocabulary tells you the standard. The audit produces the documentat
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design fiduciary decision log in Primary Blue (#015880) outline, roughly 380px tall, with "DECISION LOG" rendered in Plex Mono Medium uppercase across the top banner. Inside the log, five horizontal rows representing decisions, each with a small Accent Blue (#A7E0FA) checkbox on the left. The first three checkboxes are checked; the last two show a red "?" symbol indicating documentation gaps. To the right of the log, a small balance-scale icon in Accent Blue (#A7E0FA) indicating the prudent-process test. Three numbered tick marks in Accent Blue (#A7E0FA) below the log, suggesting three audit passes. Below the composition, a two-tone centered headline: "Fiduciary." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Documented." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. The decision happened. The record is what survives." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design vertical bar chart in Primary Blue (#015880) outline, roughly 400px tall, with five ascending bars left to right. Each bar is labeled in Plex Sans SemiBold uppercase under its base: "MS", "RENAL", "TRANSPLANT", "HIV", "LEUKEMIA". The bars rise in height left to right, and the tallest bar (LEUKEMIA) is filled in Accent Blue (#A7E0FA) while the others are Primary Blue outline; a small Accent Blue upward arrow runs alongside the rising bars. Above the chart, a single bold Plex Mono Medium label in Gray reads "MARKUP %, SPECIALTY GENERIC". Six small tick marks in Accent Blue (#A7E0FA) run up the left axis. Below the composition, a two-tone centered headline: "The sicker the member," in Primary Blue (#015880) Plex Sans SemiBold 52pt, with "the bigger the spread." in Accent Blue (#A7E0FA) Plex Sans SemiBold 52pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "FTC Second Interim Staff Report, Jan 2025. Pull your claims. Sort by pharmacy." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -307,40 +305,25 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Fiduciary Compliance Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/fiduciary-compliance-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+**No new toolkit ships this week (refer-back-first, CLAUDE.md Jun 23, 2026).** The sickest-member specialty-generic-markup reveal maps cleanly onto an existing live toolkit, the **Specialty Routing Audit Worksheet** (`rxbs.org/toolkit/specialty-routing`, W22 Thursday), which already walks a plan sponsor through pulling specialty claims, sorting by filling pharmacy, and surfacing where the margin lands. Minting a near-duplicate would split downloads and inbound links off a strong canonical asset, so this week **refers back** to the live Specialty Routing page rather than building a `week_32_thursday_*` handout. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
 
 ---
 
-## Toolkit 1 — Thursday Field Note Handout · Fiduciary Compliance Audit Worksheet
+## Refer-back toolkit — Specialty Routing Audit Worksheet (existing, live)
 
-### Wix Toolkits dataset row
+- **Primary route (Thursday Field Note + Post 119 first comment + Thursday X amplifier):** `rxbs.org/toolkit/specialty-routing` — the Specialty Routing Audit Worksheet. Exactly the audit the reveal calls for: pull specialty claims, sort by filling pharmacy, surface the markup routed to the PBM-owned pharmacy.
+- **Second toolkit (universal zoom-out):** `rxbs.org/toolkit/pbm-compensation` — the PBM Compensation Audit Worksheet maps all five revenue streams flowing from the plan to the PBM. Specialty-generic markup is one stream; the worksheet zooms out to the other four.
 
-| Column | Value |
-|---|---|
-| `slug` | `fiduciary-compliance-audit` |
-| `name` | `Fiduciary Compliance Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `ERISA prudent process audit` |
-| `pillar` | `PBM Contract Insights` |
-| `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_0dcd81cf62924b97b81c0bf88b96bf99.pdf` |
-| `second_toolkit_blurb` | `ERISA prudent process requires a reasonable, documented decision-making process. The PBR Framework is the twice-yearly comprehensive audit that produces that documentation across six categories of plan performance. The Fiduciary Audit names the standard; the PBR delivers the artifact. Together they pair as the legal obligation and the operational practice that satisfies it.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+### Wix build checklist (refer-back, no new row)
 
-### Wix build checklist
-
-- [ ] Upload `templates/documents/week_32_thursday_fiduciary_compliance_audit.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` is set (Pharmacy Benefit Review (PBR) Framework → `templates/documents/evergreen_pbr_pharmacy_benefit_review_framework.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/fiduciary-compliance-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [ ] No new Wix `Toolkits` row, no new PDF upload this week.
+- [ ] Confirm `rxbs.org/toolkit/specialty-routing` renders correctly before Thursday (link is used in the Field Note body, Post 119 first comment, and the Thursday X amplifier reply).
+- [ ] Confirm the `specialty-routing` row's `second_toolkit` is set to PBM Compensation (it is; see `toolkit_dataset.md`).
+- [ ] Optional: refresh the `specialty-routing` preview/X crop if the reveal drives a spike (not required).
 
 ### Pairing rationale
 
-PBR Framework Tier 1 evergreen is the documentation-producing partner to a fiduciary audit. Channel Pricing Field Note is the kind of finding that should be in the PBR write-up.
+Specialty Routing is the on-topic Tier 2 audit for "where did the specialty-generic markup land on my plan." PBM Compensation is the universal "zoom out" anchor (different mechanic: all five revenue streams), per the pairing rules in `email_gated_toolkit/toolkit_dataset.md`. No new toolkit is justified because the library already covers this mechanic; the W32 build concentrates demand on the existing canonical asset.
 
 ---
 
@@ -413,10 +396,10 @@ Your PBM grades its own clinical programs and reports the savings it wants you t
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
-And this week's Fiduciary Compliance Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/fiduciary-compliance-audit
+And the Specialty Routing Audit Worksheet is the companion to run on your own plan, because the biggest specialty-generic markups land at the pharmacy your PBM owns: rxbs.org/toolkit/specialty-routing
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/fiduciary-compliance-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_Toolkit link is an existing live page (`rxbs.org/toolkit/specialty-routing`); confirm it renders before Monday. No new build required this week (refer-back-first). If the page is down, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
 
 
 ---
@@ -573,94 +556,95 @@ This week's Benefit Blind Spots deep dive on clinical program ROI is the operati
 
 ## Post 119 - Thursday 10:00 AM
 
-_The "Clinical Program Evaluation" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
+_The "Clinical Program Evaluation" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday reach post is below: a genuinely-unknown structural-fact reveal replacing the former "5 Fiduciary Terms Decoded" vocabulary decoder (displaced card set flagged for `evergreen_visual_backlog.md`, not edited here)._
 
-### Thursday Evergreen Rotation (Slot A) - 5 Fiduciary Terms Decoded
+### Thursday Reach Post (Slot A) - Your PBM Marks Up the Sickest Member's Drugs the Most
 
-- **Slot:** A
-- **Format:** Messy Infographic
-- **Pillar:** PBM Contract Insights
-- **Topic:** 5 Fiduciary Terms Decoded
-- **Hook:** "ERISA uses five words that sound procedural. They are not. They define your personal exposure."
+- **Slot:** A (Thursday reach / Field Note conversion track)
+- **Format:** Messy Infographic, single image 1080 x 1350 px, photoreal aesthetic (Marked-Up FTC Report Page)
+- **Pillar:** Clinical Pharmacy Perspectives
+- **Content shape:** Shocking-fact / genuinely-unknown structural reveal (`shocking_fact_bank.md` #8). Floor: 15-18K organic even in the summer trough; the offshore-rebate-GPO reveal of the same shape hit 17,816 impressions fully organic. Replaces the vocabulary decoder, which tops out ~4-5K in the trough.
+- **Hook:** "The generic drugs your PBM marks up the most are not lifestyle pills. They are the generics for leukemia, MS, transplant, and HIV."
 
-**Content outline (5 terms, pattern: Term. What the PBM/statute means. What you should read it as.):**
-- "Fiduciary" - Statute means: a person with discretionary authority over plan assets. Read it as: you, if you influence pharmacy benefit decisions, even without a formal title.
-- "Prudent process" - Statute means: a reasonable, documented decision-making process. Read it as: the standard courts apply. Not "did you get the best deal" but "can you show how you decided."
-- "Plan assets" - Statute means: money and rights belonging to the plan. Read it as: rebates and manufacturer payments attributable to your plan, whether they reach your plan or not.
-- "Conflict of interest" - Statute means: a situation where the fiduciary's duty conflicts with another interest. Read it as: the PBM's ownership of pharmacies, rebate aggregators, and GPOs that create structural conflicts in every claim.
-- "Co-fiduciary liability" - Statute means: liability for another fiduciary's breach you knew about. Read it as: your exposure for PBM conduct you saw, suspected, or could have discovered through reasonable inquiry.
+**5-trait Thursday Excellence audit (all required, all met):**
+1. **Format = messy infographic, photoreal aesthetic.** Marked-up FTC report page, single image 1080 x 1350, mobile-legible, capped at 5 named conditions (≤5 elements), payload dominates center ~70%.
+2. **Hook = confrontational, named-actor.** Names the big-3 PBMs as the actor and the sickest member as the victim; "the markup scales with how sick your member is" provokes discomfort.
+3. **Proprietary anchor (varied, not the verbatim "hundreds of contracts" footer).** "We pulled specialty generic claims across our 2025 benefit reviews (132 of them) and sorted by filling pharmacy" plus "in most plans we audit, well over half of specialty volume ran through a pharmacy the PBM owns." Pulled to rotate the Positioning beat off the repeated stock line.
+4. **First comment names the same-day Field Note specifically + routes to the existing live toolkit** (`rxbs.org/toolkit/specialty-routing`, refer-back-first).
+5. **Field Note exclusively supports the reveal** (PART 1B: "Why Does Your PBM Mark Up the Sickest Member's Generic the Most?", the audit framework that surfaces the markup on your own plan).
+
+**Shocking fact + source (verify at post time):** FTC Second Interim Staff Report on Prescription Drug Middlemen, January 2025. The big-3 PBMs studied 51 specialty generic drugs across 882 NDCs, including the generic versions of Gleevec (leukemia), Ampyra (MS), Myfortic (transplant), Sensipar (renal disease), and HIV generics. Roughly two-thirds of these were reimbursed to PBM-affiliated pharmacies at markups over 100% of acquisition cost; more than one in five over 1,000%. Markups generated an estimated $7.3 billion above acquisition cost (2017-2022), plus $1.4 billion from spread pricing.
 
 #### Post Copy
 
 ```
-ERISA uses five words that sound procedural. They are not. They define your personal exposure as a plan fiduciary.
+The generic drugs your PBM marks up the most are not lifestyle pills.
 
-We reviewed 86 PBM contracts in 2025, and the fiduciary through-line is consistent: the plan sponsors who document their decision-making process satisfy the prudent-process standard; the ones who don't are exposed regardless of whether the decisions were good.
+They are the generics for leukemia, multiple sclerosis, transplant rejection, renal disease, and HIV. The markup scales with how sick your member is.
 
-1. **Fiduciary.** You, if you influence pharmacy benefit decisions. Title not required.
-2. **Prudent process.** Not "did you get the best deal" but "can you show how you decided."
-3. **Plan assets.** Rebates and manufacturer payments attributable to your plan, whether they reach your plan or not.
-4. **Conflict of interest.** PBM-owned pharmacies, rebate aggregators, GPOs. Structural, every claim.
-5. **Co-fiduciary liability.** Your exposure for PBM conduct you saw or could have discovered through reasonable inquiry.
+This is not an opinion. The FTC put it on the record. In its January 2025 report on drug middlemen, the FTC studied the specialty generics the big-3 PBMs dispense and found they marked up roughly two-thirds of them by more than 100 percent at the pharmacies they own, and more than one in five by over 1,000 percent. Those markups pulled an estimated 7.3 billion dollars above what the drugs actually cost. Not brand drugs. Generics. For the sickest people on your plan.
 
-The standard is documented process, not optimal outcome. The audit produces the documentation.
+We pulled the specialty generic claims across our 2025 benefit reviews, 132 of them, and sorted them by filling pharmacy. In most plans, well over half of specialty volume ran through a pharmacy the PBM owns. No member chose that. The prior-authorization rules chose it for them.
 
-Save this for your next benefits committee meeting.
+Here is the part that should bother every plan sponsor running a clinical program. Your PBM's specialty management program reports savings every quarter. Ask it one question: does that savings number net out the markup the same PBM collected at its own pharmacy on these exact drugs? A clinical program that never audits where the markup lands on your sickest members is reporting a number, not delivering the ROI it claims.
 
-#PBMContracts #FiduciaryDuty #SelfFundedEmployers
+Pull your specialty generic claims. Sort by filling pharmacy. The pattern is usually right there.
+
+#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes that turn the decoded vocabulary into a documented fiduciary file (build the 12-month decision log, apply the prudent-process test, catalog the conflict-of-interest landscape). Plus a paste-ready Fiduciary Compliance Audit Worksheet you can run on your own plan. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes that turn this reveal into something you can run, pull your specialty generic claims, sort by filling pharmacy, then compare the billed price against the public NADAC acquisition benchmark on the same drug. It also shows how to send the markup back to your clinical program and ask whether its reported savings net it out. The companion Specialty Routing Audit Worksheet is the paste-ready version: rxbs.org/toolkit/specialty-routing
+
+[SUBSTACK FIELD NOTE URL]
 ```
 
 #### Messy Infographic Concept
 
-**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+**Format:** Single LinkedIn feed image, photorealistic marked-up government report page (Marked-Up Contract Page aesthetic applied to an FTC report excerpt).
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** Lined white index cards laid out on a wood table.
+**Setting:** A printed page of the FTC report sitting slightly angled on a desk, with red-pen handwritten annotations.
+
+**Mobile-feed legibility (mandatory):** the five condition labels and their markup figures must dominate the center ~70% of the frame and read at ~400px thumbnail width. Keep the report fine print minimal and out of focus; the five large red-circled rows are the payload. Cap at five conditions. High contrast, large bold red annotations. Preview at ~400px before export.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Six standard white ruled 3x5 index cards are arranged on a medium-tone oak table: one title card at the top, five content cards below in a tidy stacked grid. Each card has faint blue horizontal rule lines and a red top-rule header line. A black fine-tip pen rests diagonally across the corner of one card. The cards are filled with clean human handwriting in black ink. No logos, no brand marks, no people, no text outside the cards.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single printed page of a U.S. federal government staff report sits slightly angled on a medium-tone oak desk under soft daylight, with a subtle edge shadow and a slight paper curl at one corner. A black fine-tip pen and a red felt-tip marker rest diagonally near the bottom corner. The printed page header reads, in small clean serif type: "FEDERAL TRADE COMMISSION — Second Interim Staff Report — Prescription Drug Middlemen — January 2025." The body of the page is intentionally soft-focus small gray paragraph text EXCEPT for a clean center table that is sharp and dominant, titled in bold: "SPECIALTY GENERIC MARKUP, PBM-OWNED PHARMACIES." The table has five rows, each a medical condition on the left and a large bold markup figure on the right, hand-circled in red marker:
 >
-> The title index card at the top reads, in larger handwriting, double-underlined: 5 Fiduciary Terms Decoded
+> LEUKEMIA (generic Gleevec) ........ 1,000%+
+> HIV ............................................ 100-1,000%
+> TRANSPLANT (generic Myfortic) .... 100-1,000%
+> MULTIPLE SCLEROSIS (generic Ampyra) .. 100%+
+> RENAL DISEASE (generic Sensipar) ...... 100%+
 >
-> Five content cards below, each showing a quoted term on the top line, a short arrow, and a plain-English translation below:
+> Each row is circled in red felt-tip. A red handwritten arrow runs down the right margin alongside the rising figures with the handwritten note: "The sicker the member, the bigger the spread." At the very bottom of the page, a red handwritten underline under the phrase: "Generics. Not brand. At the pharmacy your PBM owns."
 >
-> "Fiduciary" → You, if you influence pharmacy benefit decisions. Title not required.
-> "Prudent process" → Not "best deal." Can you show how you decided?
-> "Plan assets" → Rebates and manufacturer payments attributable to your plan.
-> "Conflict of interest" → PBM-owned pharmacies, aggregators, GPOs. Structural, every claim.
-> "Co-fiduciary liability" → Your exposure for PBM conduct you saw or could have discovered.
->
-> At the bottom, a final smaller card reads: Your PBM wrote these definitions. Your contract should redefine them.
->
-> Style: realistic photograph, soft natural daylight, subtle shadows under each card, slight paper curl at a few corners. Slightly imperfect handwriting (uneven line spacing, minor pen smudges) for authenticity. Colors: bright white index cards, pale blue rule lines, red top line, black ink, medium oak wood grain.
+> Style: realistic photograph, crisp focus on the center table and red annotations, soft focus on surrounding report text, authentic red marker ink with slight bleed. Colors: white paper, faint gray report body text, bold black table type, red (#C0392B) handwritten circles and notes, medium oak wood grain. No logos, no brand marks, no people.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching black ink.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export as PNG at 1080 x 1350.
+1. Verify the five condition rows and their markup figures are legible at ~400px thumbnail. If the AI mangles any figure or condition, overlay the correct text (clean bold sans for the table; Caveat or Permanent Marker for the red handwriting).
+2. Confirm the red circles land on the five rows and the margin arrow reads "The sicker the member, the bigger the spread."
+3. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+4. Export as PNG at 1080 x 1350.
 
 ---
 
 ## Post 119 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 46 words
+**Word Count:** 52 words
 
 #### Reshare Copy
 
 ```
-Five fiduciary terms distinguish a plan-sponsor-aligned PBM from one operating in its own interest. Standard of care, decision documentation, exclusive benefit, prudent process, and conflicts disclosure each set the bar.
+The FTC found the specialty generics the big-3 PBMs mark up most are not lifestyle pills. They are the generics for leukemia, MS, transplant, renal disease, and HIV, marked up over 1,000 percent at the pharmacies the PBMs own. The markup scales with how sick the member is.
 
-Ginny Crisp decodes the five terms and what plan sponsors should require.
+Ginny Crisp shows plan sponsors how to audit where it lands.
 
-#FiduciaryDuty #PBMContracts #PharmacyBenefits
+#ClinicalPharmacy #SpecialtyPharmacy #PharmacyBenefits
 ```
 
 ---
@@ -734,7 +718,7 @@ A nurse I worked with at a clinic called me furious once about a step therapy de
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: step therapy protocols. Where they help (categories with true clinical equivalence) and where they harm (categories where individual response matters). The override process determines whether step therapy is a cost tool or an access barrier.
+New field note: the FTC found the specialty generics the big-3 PBMs mark up the most are the generics for leukemia, MS, transplant, renal disease, and HIV. The markup scales with how sick your member is. Here is how to audit where it landed on your own plan: pull the claims, sort by filling pharmacy, compare against the public acquisition benchmark.
 
 Read: [LINK]
 
@@ -865,10 +849,11 @@ When your PBM says it passes through 100% of rebates, ask one word back: of what
 Network access fee: your plan pays your PBM for permission to use the pharmacies your PBM already requires you to use. Read that twice. You're being charged rent on the cage.
 ```
   - **First reply (link):** rxbs.org/toolkit/network-configuration-audit
-- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+- **12:00 PM · Thu-visual amplifier [VISUAL: sickest-member markup reveal] (schedule AFTER the 10 AM LinkedIn post publishes, LinkedIn-first):**
 ```
-GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+The FTC, on the record: the big-3 PBMs marked up the specialty generics for leukemia, MS, transplant, renal disease, and HIV the most. More than 1 in 5 over 1,000 percent. At the pharmacies they own. The sicker the member, the bigger the spread.
 ```
+  First reply → How to audit where it landed on your plan: rxbs.org/toolkit/specialty-routing
 - **5:00 PM · punchy:**
 ```
 Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
@@ -992,7 +977,9 @@ Ask your PBM: "When our covered lives drop, do our admin fees drop with them?" I
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 117 Ledger Annotated Messy Infographic | 1080x1350 | "4 Things Your PBM's Quarterly Report Does Not Show" — photographed ledger with 4 empty columns called out in red handwritten annotations, Transparency pillar |
-| Post 119 One Number Carousel | 7 slides | Template C - program evaluation |
+| Post 119 Marked-Up FTC Report Page Messy Infographic | 1080x1350 | "Your PBM Marks Up the Sickest Member's Drugs the Most" — photoreal FTC report page, 5 conditions (leukemia/HIV/transplant/MS/renal) red-circled with markup figures, Clinical Pharmacy pillar. Mobile-legible, ≤5 elements |
+| Clinical Program ROI One Number visual (in-article) | 7 slides | Template C - program evaluation, embedded in Monday deep dive (PART 1 In-Article Visual), not a standalone LinkedIn post |
+| Field Note header — "The sicker the member, the bigger the spread" | 1200x600 | Ascending bar chart, FTC source line, white Data Highlight template |
 | Headers | Standard | [ ] |
 
 ## Metrics

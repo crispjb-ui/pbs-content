@@ -7,6 +7,8 @@
 
 _Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Labor Day shifts the Monday cadence to Tuesday; stale duplicate dates in the prior timeline corrected; paused-Whiteboard Tuesday parked to the backlog, leaving Tuesday open)._
 
+> **THURSDAY REACH-POST REBUILD (June 27, 2026):** Post 131 was rebuilt from the weak "5 Termination Clause Terms Decoded" vocabulary decoder (a summer-trough ~4-5K ceiling) into a **shocking hidden-structure reveal**: the public NADAC generic-acquisition benchmark plan sponsors are never shown next to the price their PBM bills, with the FTC's 42%-CAGR finding as the shock (`shocking_fact_bank.md` #7). Same-day Field Note (PART 1B) retargeted to exclusively support the reveal; the displaced Termination Clause field note is noted for `field_note_backlog.md`. Toolkit reuse per refer-back-first: the existing live GER Audit Worksheet (`rxbs.org/toolkit/ger-audit`), no new toolkit minted. Triple-distinct confirmed: Mon = renewal negotiation · Tue feed = high-cost cream dollar comparison · Thu = NADAC public-benchmark generic gap.
+
 > **NOTE:** Labor Day is Monday Sep 1. Substack deep dive + LinkedIn newsletter publish Tuesday Sep 2.
 
 | Day | Time | Channel | Content | Where | ✓ |
@@ -31,9 +33,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Sep 3 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Sep 3 | 7:00 PM | X | question [A7] | PART 4B · Wed | [ ] |
 | Wed Sep 3 | 8:30 PM | X | aphorism [C5] | PART 4B · Wed | [ ] |
-| Thu Sep 4 | 7:30 AM | Substack | Field Note: "The Termination Clause: Your Most Powerful Negotiating Tool" | PART 1B | [ ] |
+| Thu Sep 4 | 7:30 AM | Substack | Field Note: "What Is NADAC, and Why Won't Your PBM Show It Next to Your Generic Price?" | PART 1B | [ ] |
 | Thu Sep 4 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Thu | [ ] |
-| Thu Sep 4 | 10:00 AM | LI Feed | Post 131 — "5 Termination Clause Terms Decoded" (Marked-Up Folder messy infographic, Slot A) | Post 131 | [ ] |
+| Thu Sep 4 | 10:00 AM | LI Feed | Post 131 — "There Is a Public Price for What a Generic Costs a Pharmacy. You've Never Been Shown It Next to Your Bill." (NADAC reveal, messy infographic, Slot A) | Post 131 | [ ] |
 | Thu Sep 4 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Sep 4 | 1:30 PM | LI Company | Reshare of Post 131 | Post 131 Reshare | [ ] |
 | Thu Sep 4 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -226,41 +228,41 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## The Termination Clause: Your Most Powerful Negotiating Tool
+## What Is NADAC, and Why Won't Your PBM Show It Next to Your Generic Price?
 
-**Display Title:** The Termination Clause: Your Most Powerful Negotiating Tool
-**SEO Title (AEO):** What Should a PBM Contract Termination Clause Include? (90-Day Exit, Cause, Data Portability)
-**SEO Subtitle:** Why the termination clause, not a pricing guarantee, sets your leverage across the entire PBM relationship
+**Display Title:** The Public Price You've Never Been Shown
+**SEO Title (AEO):** What Is NADAC, and Why Won't Your PBM Show It Next to Your Generic Price?
+**SEO Subtitle:** There is a government-published benchmark for what a pharmacy actually pays for a generic. At renewal, you can demand to see it on the same line as your bill.
 
 **Publish:** Thursday, September 4, 2026 at 7:30 AM EST
-**Length:** ~450 words
+**Length:** ~520 words
 **Pillar:** PBM Contract Insights
 
 ---
 
 ### Field Note Body
 
-**A strong PBM contract termination clause should include four things: a 90-day termination for convenience (not 180), specific termination-for-cause triggers, a 30-day data-portability requirement, and clear run-out-claims handling, because those terms set your exit options and your exit options set your leverage across the entire relationship.**
+**NADAC, the National Average Drug Acquisition Cost, is a public benchmark the federal government publishes for what a pharmacy actually pays to acquire a generic drug, and the reason it matters at renewal is simple: it is the one number that lets you put what a generic cost the pharmacy next to what your PBM billed your plan, on the same claim, and most plan sponsors have never seen the two numbers side by side.**
 
-The most powerful provision in your PBM contract is not a pricing guarantee. It is the termination clause.
+There is a public price for what a generic costs a pharmacy. It is called NADAC. Your PBM has it. You have probably never been shown it next to your own bill.
 
-A PBM that knows you can leave in 90 days negotiates differently than one that has you locked in for 180 days. The termination clause determines your exit options, and your exit options determine your leverage throughout the entire relationship.
+NADAC is published openly by the Centers for Medicare and Medicaid Services. It is a survey-based national average of what pharmacies actually pay to buy a drug. It is not proprietary, it is not a trade secret, and it sits one download away from any plan sponsor who knows to ask for it. What it is not is anywhere on the report your PBM sends you.
 
-**What to negotiate:**
+Here is why that gap matters. In its Second Interim Staff Report, published in January 2025, the FTC found that the dispensing revenue PBM-affiliated pharmacies earned **in excess of NADAC grew at a 42 percent compound annual rate from 2017 to 2021** on the specialty generics it studied. Read that slowly. The amount the big PBMs billed above what the drug actually cost the pharmacy they own did not creep up. It compounded at 42 percent a year. The same report tied that markup to more than $7.3 billion in revenue, concentrated on generics for cancer, HIV, and transplant patients, the sickest members on your plan.
 
-*Termination for convenience:* 90 days, not 180. Some PBMs default to 180-day notice periods, which effectively locks you in for an additional 6 months beyond your decision to leave. A 90-day provision gives you a realistic exit timeline.
+**What to do with this at renewal:**
 
-*Termination for cause:* Specific triggers. Failure to meet pricing guarantees by more than a defined threshold. Failure to provide required reporting within specified timelines. Material breach of confidentiality or data security provisions. Repeated service level failures. Vague "material breach" language favors the PBM because both parties argue about what "material" means.
+You do not need to win a pricing argument in the abstract. You need to ask for one line.
 
-*Data portability:* Within 30 days of termination notice, the PBM provides complete claims data in standard format. Without this, your transition to a new PBM is delayed by data access issues. Some PBMs use data portability as a delay tactic. The contract should prevent this.
+*Pull a high-volume generic claim.* Pick one your members fill often. Note what your plan was billed through the PBM's pricing, MAC or otherwise.
 
-*Run-out claims:* Define how claims in process at termination are handled. Who adjudicates them? For how long? At what pricing? Ambiguity here creates post-termination billing disputes.
+*Look up the NADAC for that NDC.* It is public. Your broker can pull it in minutes.
 
-**Why this matters for negotiations that do not end in termination:**
+*Put the two numbers on the same row.* Billed price. NADAC. The gap is the spread on that claim, and it is sitting on every generic line of your plan right now.
 
-Most termination clause negotiations never result in termination. But a strong termination provision changes every other negotiation. When your PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency. When they know you are locked in, urgency disappears.
+*Ask the PBM to show NADAC next to its own price going forward.* The number is public. The PBM already has it. The willingness, or the resistance, to put both numbers on one line is the tell.
 
-Your broker understands this dynamic. The best advisory teams negotiate termination provisions as aggressively as pricing provisions because they know the termination clause creates the leverage environment for everything else. To pressure-test your own exit language clause by clause, Prescription Benefit Solutions has built a [Termination Clause Audit Worksheet](https://www.rxbs.org/toolkit/termination-clause-audit) that walks through each of the four provisions above.
+This is not a clause you have to invent. It is a benchmark that already exists, that you already have a right to, and that the report you receive was built to leave out. The same logic that governs the generic effective rate guarantee in your contract governs this: a guarantee you cannot independently test is a guarantee on paper only. To run the test on your own plan, Prescription Benefit Solutions built a [Generic Effective Rate Audit Worksheet](https://www.rxbs.org/toolkit/ger-audit) that walks the comparison line by line.
 
 ---
 
@@ -273,7 +275,7 @@ Your broker understands this dynamic. The best advisory teams negotiate terminat
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a stylized door icon in deep teal-blue (#015880) outline, roughly 300px tall, with "TERMINATION" rendered in deep teal-blue bold sans-serif text across the door face and "90 DAYS" in Accent Blue (#A7E0FA) on a small plaque above. The door is rendered swinging outward with three short motion arcs in Accent Blue implying exit leverage in motion. The door's outline and the 90 DAYS plaque are both highlighted in Accent Blue. A small key icon in Accent Blue hovers near the doorknob. Six small countdown hash marks in Accent Blue sit along the door's threshold. Below the door, two-tone centered headline: "The Termination Clause" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "Your Most Powerful Tool" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF). Centered is a single horizontal pharmacy-claim line rendered as a flat receipt strip in deep teal-blue (#015880) outline, roughly 280px tall, holding two stacked figures: a small label "NADAC" in Accent Blue (#A7E0FA) with a Plex Mono dollar amount beneath it, and directly above it a label "BILLED" in deep teal-blue with a larger Plex Mono dollar amount, the two amounts connected by a short vertical Accent Blue bracket labeled "THE GAP" in Accent Blue. A rising trend arrow in Accent Blue climbs from left to right behind the receipt strip, with five small ascending hash-mark ticks along its base implying compounding growth. The "THE GAP" bracket and the NADAC label are both highlighted in Accent Blue. Below the receipt, two-tone centered headline: "The Public Price" in deep teal-blue (#015880) bold sans-serif (40-48pt), with "You've Never Been Shown" in Accent Blue (#A7E0FA) bold sans-serif immediately below. A small "FIELD NOTE" badge in Accent Blue (#A7E0FA) with deep teal-blue (#015880) text in the top right corner. No grid pattern background. No photographs, no realistic elements, no logos. Flat corporate infographic style.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -289,40 +291,37 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Termination Clause Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/termination-clause-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+This section is the operational source-of-truth for the Wix work this week. **No new toolkit is minted this week (refer-back-first).** The Thursday NADAC reveal reuses the existing live **GER Audit Worksheet** (`rxbs.org/toolkit/ger-audit`, built W28), which already covers the generic-pricing-versus-benchmark mechanic the NADAC reveal turns on. The only Wix action this week is updating that existing row's `field_note_url` after the new Field Note publishes; no new row, no new 5-email sequence. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
 
 ---
 
-## Toolkit 1 — Thursday Field Note Handout · Termination Clause Audit Worksheet
+## Toolkit reuse — Thursday NADAC reveal · existing GER Audit Worksheet
 
-### Wix Toolkits dataset row
+### Wix Toolkits dataset row (EXISTING — do not re-create)
 
 | Column | Value |
 |---|---|
-| `slug` | `termination-clause-audit` |
-| `name` | `Termination Clause Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `exit-option audit` |
+| `slug` | `ger-audit` _(existing live row, built W28 — reused, not minted)_ |
+| `name` | `Generic Effective Rate Audit Worksheet` |
+| `pdf_url` | `[already live — week_28_thursday_ger_audit_worksheet.pdf in Wix Media]` |
+| `mechanic_phrase` | `generic-pricing-versus-benchmark audit` |
 | `pillar` | `PBM Contract Insights` |
-| `second_toolkit_name` | `Optimize Existing vs Go-to-Market Decision Framework` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_1004abdf90fb477a9a07a07a8863a19d.pdf` |
-| `second_toolkit_blurb` | `Termination clauses determine your exit options. Exit options determine your leverage even when you have no intention of terminating. The Optimize vs Go-to-Market Framework is the three-variable decision tree where 'go to market' becomes the recommended path, and the path requires functional termination language to execute. Termination clause audit is the prerequisite; the decision framework is what you do with the leverage it creates.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
+| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
+| `second_toolkit_blurb` | `The Generic Effective Rate Audit tests one revenue stream: the spread on your generics. The PBM Compensation Audit Worksheet maps all five revenue streams flowing from your plan to your PBM, so the NADAC gap you find on generics is read in the context of the spread, rebate, and fee structures sitting alongside it.` |
+| `field_note_title` | `What Is NADAC, and Why Won't Your PBM Show It Next to Your Generic Price?` |
+| `field_note_url` | `[fill after Thu Sep 4 Field Note publishes — paste the live Substack URL into the existing ger-audit row]` |
 
-### Wix build checklist
+### Wix build checklist (lightweight — reuse path)
 
-- [ ] Upload `templates/documents/week_35_thursday_termination_clause_audit.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` is set (Optimize Existing vs Go-to-Market Decision Framework → `templates/documents/evergreen_optimize_vs_go_to_market_decision_framework.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/termination-clause-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [ ] No new Wix Media upload, no new CMS row: the `ger-audit` row is already live.
+- [ ] Confirm `rxbs.org/toolkit/ger-audit` still renders (hero preview + form).
+- [ ] After Thu Sep 4 Field Note publishes, update the existing `ger-audit` row's `field_note_title` and `field_note_url` to the NADAC Field Note (the W28 GER deep-dive note is the prior value; this week's reuse points Email 3 at the NADAC note).
+- [ ] Refresh the `ger-audit` preview / X crop only if the asset changed (it has not this week).
 
 ### Pairing rationale
 
-Optimize vs Go-to-Market Tier 1 evergreen is the strategic frame inside which termination leverage operates. Channel Pricing Field Note demonstrates a typical audit finding that supports the 'go to market' path.
+Refer-back-first: the NADAC reveal is the public-benchmark version of exactly what the GER Audit Worksheet already operationalizes (test your guaranteed generic effective rate against an independent number). Reusing `ger-audit` concentrates downloads and inbound links on one canonical generic-pricing asset rather than splitting them across a near-duplicate. PBM Compensation is the universal "zoom out" second toolkit for any single-revenue-stream audit, so the generic spread the NADAC test surfaces is read alongside the other four streams.
 
 ---
 
@@ -381,12 +380,12 @@ Post immediately as the first comment on the newsletter announcement above (brie
 ```
 Your PBM walks into renewal with a strategy built from your data, for their margin. Most plans walk in reacting.
 
-I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Tue 7:30 AM publish]
 
-And this week's Termination Clause Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/termination-clause-audit
+And the Generic Effective Rate Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/ger-audit
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/termination-clause-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_Toolkit link is already live (`rxbs.org/toolkit/ger-audit`, the existing GER Audit Worksheet reused this week per refer-back-first). Confirm the page renders before posting; if not, drop the third line and route to the deep dive only._
 
 
 ---
@@ -503,8 +502,6 @@ Some employers never get to negotiate at all. Buried in the termination section 
 
 Twelve contract provisions drive the economics: GER, rebates, specialty pricing, dispensing fees, admin fees, clinical guarantees, audit rights, performance penalties, biosimilar commitments, formulary notification, termination terms, and annual true-up. Most employers negotiate hard on the first two and accept default language on the rest.
 
-Here is one leverage move almost nobody uses. There is a public benchmark for what a generic actually costs a pharmacy: NADAC, the National Average Drug Acquisition Cost. The FTC found that PBM-affiliated pharmacy dispensing revenue in excess of NADAC grew at a 42 percent compound annual rate from 2017 to 2021. That gap compounds, and it sits on your generic spend right now. In our contract reviews at PBS we ask the PBM to show NADAC next to its MAC price on a single high-volume generic claim. The number is public. The PBM has it. The willingness to put both numbers on one line is the tell.
-
 The PBM knows this. Their initial proposal is engineered accordingly: competitive headline numbers, weak structural provisions. The employer celebrates the pricing. The PBM keeps the structural advantages.
 
 A term sheet that covers all twelve provisions changes the dynamic. Your broker should be building it with you. If they have not started, bring the list to them.
@@ -519,79 +516,85 @@ This week's Benefit Blind Spots deep dive on renewal negotiation is the operatio
 
 ## Post 131 - Thursday 10:00 AM
 
-_The "Negotiation Leverage Points" balance-scale messy infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
+_The "Negotiation Leverage Points" balance-scale messy infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is the NADAC reveal below._
 
-### Thursday Excellence Slot (Slot A) - 5 Termination Clause Terms Decoded
+### Thursday Excellence Slot (Slot A) - The Public Price You've Never Been Shown (NADAC)
 
 - **Slot:** A
-- **Format:** Messy Infographic
+- **Format:** Messy Infographic (single image, 1080 x 1350 px) — a single pharmacy-claim line showing NADAC vs. billed
 - **Pillar:** PBM Contract Insights
-- **Topic:** 5 Termination Clause Terms Decoded
-- **Hook:** "Your termination clause is your leverage. Five terms decide whether you can actually use it."
+- **Topic:** The public NADAC benchmark plan sponsors are never shown next to their generic bill (shocking hidden-structure reveal, `shocking_fact_bank.md` #7)
+- **Hook:** "There is a public price for what a generic costs a pharmacy. It is called NADAC. The gap between it and what your PBM bills you through the pharmacy it owns grew 42 percent a year. You have just never been shown both numbers on the same claim."
 
-**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
-- "Termination for convenience" - PBM means: the right to end the contract without cause. Read it as: a right that often exists only for the PBM, or with notice periods long enough to neutralize the leverage.
-- "Termination for cause" - PBM means: termination tied to a specified breach. Read it as: a right that depends entirely on how "cause" is defined. Narrow definitions render it unusable.
-- "Runoff period" - PBM means: the period after termination during which the PBM continues to process claims. Read it as: the window where your plan is captive to the outgoing PBM's pricing with no competitive pressure.
-- "Early termination fee" - PBM means: fee due if the plan terminates before a defined date. Read it as: an exit cost that can exceed projected savings from switching, neutralizing your leverage before the conversation starts.
-- "Data return obligation" - PBM means: the PBM's duty to return plan data on termination. Read it as: the provision that determines whether your next PBM can actually use your history. Without strong language, migration becomes expensive and slow.
+**Why this is a reveal, not a decoder:** the shock is a genuinely-unknown structural fact (a public, government-published acquisition benchmark exists and the PBM omits it from your report), not a vocabulary translation. Vocabulary decoders top out around 4-5K in the summer trough; the unknown-structural-fact reveal cleared ~17.8K organic in the same season (the offshore rebate-aggregator reveal). The decoded termination terms from the prior draft are folded into the deep dive (Provision 11) and the Wednesday POV; no dead block remains.
+
+**Thursday Excellence 5-trait audit (all required):**
+1. **Format = messy infographic, single image 1080 x 1350.** A photoreal pharmacy-claim line: NADAC price under the billed price, the gap bracketed. Mobile-legible: two dollar figures dominate the center ~70% and read at ~400px; ≤5 elements (billed line, NADAC line, the gap bracket, the 42%/yr annotation, the one-line ask).
+2. **Hook = confrontational, named-actor.** Names the PBM as the actor billing above the public number through a pharmacy it owns; names the plan as the party never shown both numbers.
+3. **Proprietary anchor (varied — not the repeated "hundreds of contracts" line).** "In the contract reviews we run, we ask the PBM to show NADAC next to its own MAC price on one high-volume generic claim. The willingness to put both numbers on one line is the tell."
+4. **First comment names the same-day Field Note specifically + reuses the live GER toolkit** (`rxbs.org/toolkit/ger-audit`). No new toolkit minted (refer-back-first).
+5. **Field Note exclusively supports the reveal** (PART 1B: "What Is NADAC, and Why Won't Your PBM Show It Next to Your Generic Price?" — the operational how-to-run-the-comparison follow-on).
 
 #### Post Copy
 
 ```
-Five contract terms decide whether you can actually use your termination clause. Most plan sponsors cannot, and most PBMs know it.
+There is a public price for what a generic costs a pharmacy.
 
-We read 86 PBM contracts in 2025. Most termination-clause negotiations never end in termination, but a strong termination provision changes every other negotiation. When the PBM knows you can leave efficiently, they negotiate pricing, rebates, and service levels with more urgency.
+It is called NADAC, the National Average Drug Acquisition Cost. The federal government publishes it. It is a survey of what pharmacies actually pay to buy the drug. It is not a trade secret. It is one download away.
 
-1. **Termination for convenience.** Often exists only for the PBM, or with notice periods long enough to neutralize plan-sponsor leverage. 90 days vs. 180 is the negotiation.
-2. **Termination for cause.** Usable only if "cause" is broadly defined. Vague "material breach" language favors the PBM.
-3. **Runoff period.** The window after termination during which your plan is captive to outgoing PBM pricing. Long runoff = no competitive pressure.
-4. **Early termination fee.** Exit cost that can exceed projected switching savings. Caps and step-downs matter.
-5. **Data return obligation.** Determines whether your next PBM can use your claims history. Without strong language, migration is expensive and slow.
+It is also nowhere on the report your PBM sends you.
 
-The termination clause is the leverage everywhere else. Read it before you renew.
+Here is why that matters. In its Second Interim Staff Report (January 2025), the FTC found that the dispensing revenue PBM-affiliated pharmacies earned in excess of NADAC grew at a 42 percent compound annual rate from 2017 to 2021 on the specialty generics it studied. The amount the big PBMs billed above what the drug cost the pharmacy they own did not creep up. It compounded.
+
+In the contract reviews we run, we ask the PBM to show NADAC next to its own price on one high-volume generic claim. The number is public. The PBM already has it. The willingness, or the resistance, to put both numbers on one line is the tell.
+
+You do not need to win a pricing argument in the abstract. You need one line:
+
+Billed price. NADAC. Side by side. On a claim your members actually fill.
+
+That gap is sitting on every generic line of your plan right now. At renewal, you can demand to see it.
 
 Save this for your next renewal redline.
 
-#PBMContracts #PBMRenewal #SelfFundedEmployers
+#PBMContracts #DrugPricing #SelfFundedEmployers
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: how the termination clause sets the leverage for every other provision in the contract, and the four sub-clauses to negotiate (convenience notice, cause triggers, data portability, run-out). Plus the Termination Clause Audit Worksheet you can run on your own contract. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: exactly how to pull a high-volume generic claim, look up its public NADAC, and put the two numbers on one line, plus what to ask the PBM to show going forward. [SUBSTACK FIELD NOTE URL]
+
+To run the comparison on your own plan, the Generic Effective Rate Audit Worksheet walks it line by line: rxbs.org/toolkit/ger-audit
 ```
 
 #### Messy Infographic Concept
 
-**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+**Format:** Single LinkedIn feed image, photorealistic pharmacy-claim-line style. One claim, two prices, one gap.
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** Manila folder with hand-written label and post-it flags sticking out.
+**Setting:** A single pharmacy claim / receipt strip on a desk, annotated by hand in red marker.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A closed manila file folder rests centered on a dark wood desk. The folder tab has a hand-written label in black marker. Five bright-colored post-it flags (orange, pink, green, blue, yellow) stick out from the right edge of the folder, each flag with a hand-written term visible on it. Five hand-written translation notes, one per flag color, are written directly on the folder cover in black ballpoint pen, connected by short hand-drawn arrows from each flag. No logos, no brand marks, no people, no text outside the folder.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single printed pharmacy claim line / receipt strip rests centered on a dark wood desk, lit by soft natural daylight. The receipt shows one generic drug claim with two stacked, clearly printed dollar figures in a clean monospace tabular font. No logos, no brand marks, no people.
 >
-> The hand-written folder tab label reads: 5 Termination Clause Terms Decoded
+> The two printed figures, large and dominating the center of the frame, read:
 >
-> The five colored post-it flags and their corresponding translation notes on the folder cover read, in order top to bottom:
+> BILLED TO YOUR PLAN   $84.00
+> NADAC (public price)   $12.00
 >
-> "Termination for convenience" → A right that often exists only for the PBM.
-> "Termination for cause" → Usable only if "cause" is broadly defined.
-> "Runoff period" → Your plan is captive to outgoing PBM pricing.
-> "Early termination fee" → Exit cost can exceed switching savings.
-> "Data return obligation" → Determines whether your next PBM can use your history.
+> A bold hand-written red marker curly brace links the two numbers down the right side, with red handwriting next to it: "THE GAP." Above the receipt, in large black marker, double-underlined: "There is a public price for a generic." Below it in red pen: "It's called NADAC. Your PBM left it off your report." At the very bottom, in red ballpoint inside a hand-drawn rectangle: "Above-NADAC markup grew 42%/yr. FTC, 2025."
 >
-> At the bottom of the folder, inside a hand-drawn black ballpoint rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+> Style: realistic photograph, subtle shadow under the receipt, slight paper texture and a faint crease. Slightly imperfect handwriting (uneven line spacing, minor pen smudges) for authenticity. The two dollar figures are crisp, high-contrast, and read at thumbnail size. Colors: off-white receipt paper, crisp black printed figures, red handwritten ballpoint annotations, black marker headline, dark wood desk.
 >
-> Style: realistic photograph, soft natural daylight, subtle shadow under the folder, slight paper texture. Slightly imperfect handwriting (uneven line spacing, minor pen smudges) for authenticity. Colors: warm manila tan folder, bright orange/pink/green/blue/yellow post-it flags, black marker for label, black ballpoint for notes, dark wood desk.
+> Mobile-feed legibility: the two dollar amounts and the word NADAC dominate the center ~70% of the frame and must be readable at ~400px wide. Keep fine print minimal. The illustrative figures above are a generic example, not a specific plan's numbers.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam).
+1. If the AI misspells NADAC, any label, or a dollar figure, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) and a clean monospace face for the numbers.
 2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export as PNG at 1080 x 1350.
+3. Run the mobile-feed legibility check: preview at ~400px wide; both dollar figures and the word NADAC must read pre-tap. Enlarge anything that does not.
+4. Export as PNG at 1080 x 1350.
 
 ---
 
@@ -602,11 +605,11 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how the 
 #### Reshare Copy
 
 ```
-Five contract terms decide whether you can actually use your termination clause: termination for convenience, termination for cause, runoff period, early termination fee, and data return obligation. The PBM wrote all five definitions.
+There is a public price for what a generic costs a pharmacy. It is called NADAC. The FTC found PBM-affiliated pharmacy revenue above it grew 42 percent a year. Your report leaves it off.
 
-Ginny Crisp decodes each one and shows the redline that restores the leverage.
+Ginny Crisp shows how to put both numbers on one claim at renewal.
 
-#PBMContracts #PlanSponsors #PharmacyBenefits
+#PBMContracts #DrugPricing #PlanSponsors
 ```
 
 ---
@@ -678,15 +681,15 @@ A benefits director told me once after a renewal that she had negotiated harder 
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: the termination clause. A PBM that knows you can leave in 90 days negotiates differently than one that has you locked in for 180. The termination clause creates the leverage environment for every other negotiation.
+New field note: there is a public price for what a generic costs a pharmacy. It is called NADAC, and the federal government publishes it. Your PBM has it. It is just nowhere on the report you receive. Here is how to put it next to your bill at renewal.
 
 Read: [LINK]
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
-A CFO asked me why the termination clause was "the most important" clause when the client had no intention of leaving. My answer: you negotiate based on the leverage you have, not the leverage you plan to use. A short termination notice is bargaining power even when you stay. The PBM reads the clause and knows you can leave. Everything else gets easier from there.
+A benefits director once asked me how she could possibly argue generic pricing with a PBM when she had no idea what the drug "should" cost. I told her the number already exists and it is public: NADAC. We pulled it for one high-volume generic, set it next to what her plan was billed, and the gap was the whole conversation. She did not need to be a pricing expert. She needed one line.
 
 **Afternoon (3-6 PM) — Origin Story #2:**
-A plan sponsor pushed back on negotiating a shorter termination clause because "nothing had gone wrong yet." I reframed: the right time to negotiate termination is exactly when nothing has gone wrong. The PBM concedes when the relationship is healthy. Wait until something has gone wrong, and the leverage has already shifted. Preventive negotiation is more effective than reactive negotiation. Every time.
+A CFO told me he assumed the PBM's generic pricing was "basically at cost" because the discounts looked deep. I asked whether he had ever seen the acquisition cost, the public one, next to a claim. He had not. Nobody had ever shown it to him. That is the part that stays with me: the benchmark is public, it is free, and the report he paid for was built to leave it out.
 
 ## Friday
 
@@ -784,7 +787,7 @@ Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If t
 ```
 Auto-renewal: your PBM contract renews itself unless you give notice 90 to 180 days out. Miss the window and you're locked in another full term at rates you never reopened. The clock started before anyone told you it was running.
 ```
-  First reply (link): rxbs.org/toolkit/termination-clause-audit
+  First reply (link): the termination and transition language to check: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
@@ -813,15 +816,15 @@ Audit rights: your contract says you can audit the PBM. Then the fine print: onc
 ```
 About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · punchy (NADAC amplifier — schedule AFTER the 10:00 AM LinkedIn NADAC post per LinkedIn-first):**
 ```
-Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
+There is a public price for what a generic costs a pharmacy. It's called NADAC. The amount your PBM bills above it, through a pharmacy it owns, grew 42% a year. You've just never been shown both numbers on one claim.
 ```
-- **7:00 PM · question post [A8]:**
+- **7:00 PM · question post [A8] (NADAC follow-on, schedule after the LinkedIn post):**
 ```
-It is mid-year. Who has a renewal model built on your H1 claims right now? Your PBM does. If your plan does not, the renewal is already half-decided before the first meeting.
+Has anyone ever shown you the NADAC for a generic your plan fills, next to what your PBM billed for it? The benchmark is public. The PBM has it. The fact that you've never seen both on one line is the whole point.
 ```
-  First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
+  First reply → How to pull the comparison on your own plan, in today's Field Note: benefitblindspots.substack.com
 - **8:30 PM · one question [B5]:**
 ```
 Ask your PBM for the audit clause and read who picks the auditor, who picks the records, and who decides if the findings count. Three answers tell you if you have an audit right or a tour.
@@ -898,7 +901,7 @@ Step therapy sounds clinical. Often it's financial. Your member has to fail the 
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-There is a public price for what a generic costs a pharmacy: NADAC. The FTC found the amount PBMs bill above it, through pharmacies they own, grew 42% a year. Ask to see both numbers on one claim.
+NADAC is the public, government-published cost of a generic. The FTC found PBM-owned-pharmacy revenue above it grew 42% a year (2017-2021). At renewal, pull one generic claim and ask the PBM to show NADAC right next to its price.
 ```
 - **2:30 PM · specialty exclusive distribution (Tier A):**
 ```
@@ -935,7 +938,7 @@ Ask your PBM: "List every fee on our monthly invoice and the contract section th
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 129 Whiteboard Carousel | 7 slides (1080x1350 each) | "How I'd Map a 2027 Renewal on a Whiteboard" — pharmacist-on-whiteboard walkthrough of 5 quarterly gates (scope/panel, RFP out, best-and-final, execute, monitor), Self-Funded Employer Guidance pillar |
-| Post 131 Messy Infographic | 1080x1350 | Negotiation leverage scale |
+| Post 131 Messy Infographic | 1080x1350 | NADAC reveal — single pharmacy-claim line: BILLED vs NADAC, the gap bracketed, "above-NADAC markup grew 42%/yr (FTC 2025)" annotation. Mobile-legible at ~400px. |
 | Headers | Standard | [ ] |
 
 ## Metrics
