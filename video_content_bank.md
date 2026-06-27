@@ -90,7 +90,7 @@ _Once a video ships, log its result here (impressions, watch-through, saves, fol
 
 | Date | Concept | Platform | Impr | Watch-through | Saves | Followers | Notes |
 |------|---------|----------|------|---------------|-------|-----------|-------|
-| _(none yet)_ | | | | | | | |
+| Jun 2026 | "H1 numbers" Wednesday video | LinkedIn (4:5) | 758 impr / 258 video views | **~94% (17s avg / 18s clip)** | 1 | 0 | **First video read. Excellent completion**, but 4:5 = MAIN-FEED ONLY (pre-9:16). Completion proven; the 9:16 video-tab / non-follower reach lift is STILL untested. **Next: ship a clean 9:16 to test reach.** |
 
 ---
 

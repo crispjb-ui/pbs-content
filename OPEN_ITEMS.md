@@ -2,6 +2,9 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+## 🟦 NEXT video priority (from `/log-metrics` Jun 26, 2026)
+- **Ship a clean 9:16 clip to test reach.** The first video read (a 4:5 Wednesday clip) hit ~94% completion (17s avg / 18s) — completion is proven for the short format. But 4:5 is main-feed only, so the **9:16 video-tab / non-follower reach lift is still untested.** The SHRM batch is built 9:16; running one as the next Wednesday video gives the clean reach data point. Track its video-tab reach + non-follower share specifically.
+
 ## 🟨 PROPOSED rule refinement — needs Ginny's yes (from `/log-metrics` Jun 22, 2026)
 - **Cuban amplification is shape-dependent (refine the CLAUDE.md "Mark Cuban is a reliable amplifier" rule).** New data point: Cuban *reposted* (confirmed, not like-only) the Friday Potter guest-author **announcement** post, and it reached only **2,883** in the summer trough — no +60-75% breakout. The lift the rule documents applies to the shapes he engages (dollar-comparison, named-adversary, decoder, 340B), but a repost on an **announcement/origin shape does not carry that lift**. Proposed one-line addition to the performance rule: _"Cuban amplification is shape-dependent: a repost only delivers the +60-75% lift on his engagement shapes (dollar-comparison / named-adversary / decoder / 340B); a repost on an announcement, origin, or informational post does not break out (confirmed Jun 2026, Potter announcement + Cuban repost = 2,883)."_ Confirm and I'll add it to CLAUDE.md Performance Data.
 
