@@ -15,16 +15,23 @@ _Created Jun 23, 2026. The running log of what direct competitors and benefits-a
 
 ## Sweep log
 
-### 2026-06-23 (seed — not yet run)
-_The first `/ads-research` run populates this: per brand, whether they run LinkedIn ads, and for each ad — start date / run length, offer, hook, format (single image / document / video / lead-gen form), CTA, and the takeaway for PBS. Until then this is the structure only._
+### 2026-06-23 (first sweep)
 
-| Brand | Type | Runs ads? | Ad: offer / hook / format | Started / run length | Takeaway for PBS |
-|-------|------|-----------|---------------------------|----------------------|------------------|
-| _(populated on first run)_ | | | | | |
+**Method caveat:** the LinkedIn Ad Library (`linkedin.com/ad-library`) is public to humans (no login) but returns **403 to automated fetch**, so the creative-level rows below are from web search + each firm's public LinkedIn presence, NOT a scrape. For per-ad creatives + run-length, check each company page → **About → Ads → "See all ads"** manually (or use a paid ad-intel tool). The scheduled `/ads-research` runs under the same fetch limit, so treat its competitor rows as search-derived unless a row is marked "verified in Ad Library."
+
+| Brand | Type | LinkedIn presence | Ads observed (search-level) | Takeaway for PBS |
+|-------|------|-------------------|------------------------------|------------------|
+| **ARMSRx Pharmacy Benefit Consulting** | Direct competitor (PBM consulting / audit / RFP) | ~678 followers | None surfaced in search; verify in Ad Library | Smaller LinkedIn footprint than Ginny (2,118); under-marketed |
+| **Innovative Rx Strategies** | Direct competitor (PBM consulting / audit, IN) | ~637 followers | None surfaced; verify | Same — small + under-advertised |
+| **Truveris** | Pharmacy-benefits procurement *platform* (VC-backed) | Larger | Likely runs brand/demand-gen; verify | Platform funnel, not consulting; different buyer motion |
+| **TruDataRx** | Data analytics for self-insured Rx | — | Verify | Data-led positioning |
+| **Aon / Milliman / WTW** | Enterprise consultancies | Large | Brand-level, not LinkedIn lead-gen | Compete on scale + findings-proof stats (Aon: "$60M located, 1,000+ audits") |
 
 ## Patterns observed (rolls up across sweeps)
-_`/ads-research` maintains a short list of what's working across the benchmark set (offer types, hook shapes, formats, what runs longest) and what's absent (white space PBS can own)._
+- **The direct-competitor lane is under-advertised on LinkedIn = white space.** ARMSRx (678) and Innovative Rx Strategies (637) carry *smaller* followings than Ginny (2,118) and surfaced no ad campaigns. PBS can own paid LinkedIn in the direct-competitor space with little head-to-head competition.
+- **Enterprise firms compete on findings-proof stats** (Aon "$60M located / 1,000+ audits"). PBS has its own ($78.7M contracted, 132 reviews / avg $469K) for the public proof rollout — a strong category proof point for ad creative once it goes public (held for Q3/Sep-Oct surge).
+- **No direct competitor appears to run a toolkit lead-magnet funnel.** PBS's ad → `rxbs.org/toolkit/<slug>` → 5-email sequence is a structural differentiator, not a me-too, and the GWCU broker win shows the funnel converts. Lean ad concepts into the toolkit offer + proprietary anchor, not generic "we audit PBMs."
 
 ## Changelog
-### 2026-06-23 (seed)
-- File created with the read-methodology (ad longevity = working proxy), the benchmark set, and the sweep-log structure. First real sweep on the first `/ads-research` run.
+### 2026-06-23 (seed + first sweep)
+- File created; first sweep run inline. Identified the direct-competitor set (ARMSRx, Innovative Rx Strategies, Truveris, TruDataRx; enterprise: Aon/Milliman/WTW). Key finding: the direct-competitor LinkedIn lane is under-advertised (small followings, no surfaced campaigns) = white space. Noted the Ad Library 403-to-fetch limit (manual/paid-tool needed for creative-level teardown). Sources: web search Jun 2026.

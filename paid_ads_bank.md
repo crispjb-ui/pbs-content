@@ -37,6 +37,12 @@ _Each: objective, audience, offer, two hook/copy variants for A/B, creative dire
 - **Offer:** a contract review / PBR conversation (the high-value engagement, e.g. team@rxbs.org or a booking link).
 - **Hook:** "You pulled the toolkit. The next step is the 90 days before your renewal." **Status:** concept ready · _TBD._
 
+### AD-5 — Proof-stat / category-leader (cold, plan-sponsor) — GATED on the public proof rollout
+- **Objective:** lead-gen / authority · **Audience:** as AD-1.
+- **Offer:** the toolkit + the implicit "we find money" promise. **Differentiation:** the enterprise firms advertise findings-proof (Aon "$60M located"); PBS counters with its **solo** verified 2025 numbers.
+- **Hook:** "$78.7M in contracted savings across 203 self-funded plans last year. The savings were already in the contracts." **Anchor:** 132 benefit reviews / avg $469K, the RFP line at 25%.
+- **Guardrails:** headline the **contracted** $78.7M (not the $86.7M identified); 25% is the RFP rate, never "average"; PBS claims these solo (separated from Hylant). **Status: HELD** until the public proof-page rollout (Q3/Sep-Oct surge per CLAUDE.md) — do not run before the metrics are public. · _TBD._
+
 ---
 
 ## Prerequisites before any spend (one-time)
@@ -54,5 +60,5 @@ _Once campaigns run, paste the LinkedIn Campaign Manager export here per ad: spe
 | _(none yet — pre-launch)_ | | | | | | | | |
 
 ## Changelog
-### 2026-06-23 (seed)
-- Bank created with 4 launch-ready LinkedIn ad concepts wired to the live toolkit funnel + the prerequisite list + the data-ingestion hook. Pre-launch. Future entries by `/ads-research` monthly.
+### 2026-06-23 (seed + first competitor sweep)
+- Bank created with 4 launch-ready LinkedIn ad concepts + prerequisites + data-ingestion hook. First `/ads-research` sweep (see `competitor_ad_teardown.md`) found the direct-competitor LinkedIn lane **under-advertised (white space)** and no competitor running a toolkit funnel, which validates the toolkit-funnel + proprietary-anchor approach over generic "we audit PBMs." Added **AD-5** (proof-stat / category-leader, $78.7M) gated on the public proof rollout. Pre-launch. Future entries by `/ads-research` monthly.

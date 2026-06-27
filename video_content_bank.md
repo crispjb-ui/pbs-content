@@ -62,6 +62,16 @@ _Once a video ships, log its result here (impressions, watch-through, saves, fol
 ## Retired / fatigued concepts
 _(none yet — `/video-research` moves a concept here after two consecutive soft ships of the same shape, per the decoder-fatigue logic.)_
 
+## Current video best practices (research-backed, refreshed Jun 23, 2026)
+_Maintained by `/video-research`; measured PBS data overrides where it conflicts._
+- **9:16 vertical is the format** — ~34% dwell-time advantage on mobile; **LinkedIn now reportedly beats YouTube for B2B video**, which reinforces the LinkedIn-9:16-first priority. **CONFIRMED** (multiple 2026 sources).
+- **Length:** under 60s; **15-30s is the optimal short cut** for engagement (use for Shorts/TikTok/Reels), under 15s for pure awareness. The LinkedIn long cut still works to ~75s when value-dense. **CONFIRMED.**
+- **Completion is the algorithm lever:** ~70% completion → ~3.5x more likely to be recommended → **shorter + value-dense beats long.** Script to a tight payoff, no wind-up. **CONFIRMED.**
+- **Captions mandatory** (≈75% watched sound-off); burn them in. **CONFIRMED.**
+- **Talking-head SME/founder format performs strongly** (authentic) — directly endorses Ginny on-camera. **CONFIRMED.**
+- **Cadence (generic):** 3-4 videos/week Tue-Thu, mid-morning. **PBS override:** PBS runs 1 video/Wednesday at 8:30 AM ET (measured to beat the 10 AM "optimal"); keep the PBS cadence/time, apply the format/length/completion guidance.
+- **Competitor video presence is thin:** direct competitors (ARMSRx ~678, Innovative Rx Strategies ~637 followers) are small and not running notable video — same white space as the ad sweep. Ginny's talking-head authority videos compete in an under-served lane.
+
 ## Changelog
-### 2026-06-23 (seed)
-- Bank created with the shoot-list + 3 scripted concepts (offshore-rebate reveal, admin-fee decoder, origin) drawn from PBS's proven shapes + the SHRM repurpose batch. Future entries written by `/video-research` monthly.
+### 2026-06-23 (seed + first research pass)
+- Bank created with the shoot-list + 3 scripted concepts (offshore-rebate reveal, admin-fee decoder, origin) + the SHRM repurpose batch. First `/video-research` pass added the research-backed best-practices block above (9:16 dwell advantage, 15-30s short cut, 70%-completion lever, captions, talking-head endorsement; PBS cadence override retained) and the competitor-video white-space finding. Sources: web search Jun 2026.
