@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (timeline had drifted: the Tue post was a displaced formulary draft and the Thu/Field Note that actually shipped are Step Therapy Override, not Rebate Retention / Three Formulary Questions)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Reach-post rebuild (Jun 27, 2026):** the Thursday reach slot was a "5 Step Therapy Override Terms Decoded" vocabulary decoder (a summer build-default miss per `week_build_spec.md` §2: decoders top ~4-5K in the trough). The Tuesday "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" Bypass/Funnel reveal (a genuinely-unknown hidden-structure fact, projected 15-18K organic) was PROMOTED into the Thursday reach slot to the full Thursday Excellence standard; the step-therapy decoder MOVED to Tuesday; the Thursday Field Note was RETARGETED to exclusively support the manufacturer-payments reveal._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -19,7 +19,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jun 29 | 7:00 PM | X | question [A6] | PART 4B · Mon | [ ] |
 | Mon Jun 29 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
 | Tue Jun 30 | 8:00 AM | X | dollar comparison (copay vs cash) | PART 4B · Tue | [ ] |
-| Tue Jun 30 | 8:30 AM | LI Feed | Post 93 — "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (Bypass/Funnel clean infographic, Transparency) | Post 93 | [ ] |
+| Tue Jun 30 | 8:30 AM | LI Feed | Post 93 — "5 Step Therapy Override Terms Decoded" (Sticky Note Dashboard messy infographic, PBM Contract Insights) | Post 93 | [ ] |
 | Tue Jun 30 | 12:00 PM | X | structural / news-adjacent (hold) | PART 4B · Tue | [ ] |
 | Tue Jun 30 | 1:30 PM | LI Company | Reshare of Post 93 | Post 93 Reshare | [ ] |
 | Tue Jun 30 | 5:00 PM | X | Tue decoder driver (after the Tue LinkedIn post publishes) | PART 4B · Tue | [ ] |
@@ -33,10 +33,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 1 | 5:00 PM | X | stat-shock / structural | PART 4B · Wed | [ ] |
 | Wed Jul 1 | 7:00 PM | X | question [A8] | PART 4B · Wed | [ ] |
 | Wed Jul 1 | 8:30 PM | X | aphorism [C8] | PART 4B · Wed | [ ] |
-| Thu Jul 2 | 7:30 AM | Substack | Field Note: "Auditing Your Step Therapy Override Workflow" | PART 1B | [ ] |
-| Thu Jul 2 | 8:00 AM | X | named-adversary / formulary swap (protects the Thu reveal) | PART 4B · Thu | [ ] |
-| Thu Jul 2 | 8:30 AM | LI Feed | Post 95 — "5 Step Therapy Override Terms Decoded" (Sticky Note Dashboard messy infographic) | Post 95 | [ ] |
-| Thu Jul 2 | 12:00 PM | X | Thu-visual amplifier (after 8:30/10:00 publish) `[VISUAL: Step Therapy Override decoder]` | PART 4B · Thu | [ ] |
+| Thu Jul 2 | 7:30 AM | Substack | Field Note: "The Five Manufacturer Payments Your Rebate Guarantee Never Touches" | PART 1B | [ ] |
+| Thu Jul 2 | 8:00 AM | X | named-adversary / rebate-definition (protects the Thu reveal) | PART 4B · Thu | [ ] |
+| Thu Jul 2 | 8:30 AM | LI Feed | Post 95 — REACH REVEAL: "Five Manufacturer Payments Your PBM Doesn't Call Rebates" (Bypass/Funnel infographic) | Post 95 | [ ] |
+| Thu Jul 2 | 12:00 PM | X | Thu-visual amplifier (after 8:30/10:00 publish) `[VISUAL: Bypass/Funnel manufacturer-payments reveal]` | PART 4B · Thu | [ ] |
 | Thu Jul 2 | 1:30 PM | LI Company | Reshare of Post 95 | Post 95 Reshare | [ ] |
 | Thu Jul 2 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Jul 2 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
@@ -267,60 +267,56 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your Step Therapy Override Workflow
+## The Five Manufacturer Payments Your Rebate Guarantee Never Touches
 
-**Display Title:** Auditing Your Step Therapy Override Workflow
-**SEO Title (AEO):** How Do You Audit a PBM Step Therapy Override Workflow? (3 Passes for Plan Sponsors)
-**SEO Subtitle:** Three audit passes plan sponsors can run on how step therapy overrides actually execute on plan claims
+**Display Title:** The Five Manufacturer Payments Your Rebate Guarantee Never Touches
+**SEO Title (AEO):** What Manufacturer Payments Sit Outside a PBM Rebate Pass-Through? (Five Plan Sponsors Should Audit)
+**SEO Subtitle:** Five categories of manufacturer money tied to your plan's drugs that your 100% rebate pass-through guarantee was written not to cover
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 2, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
+**Length:** ~600 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** PBM Contract Insights
+**Pillar:** Transparency & Industry Education
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 Step Therapy Override Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the override-clause vocabulary; Field Note is the operational follow-on for auditing how step therapy actually executes on plan claims.
-**Why this pairing (not the displaced "Three Formulary Questions" draft):** Architecture B triple-distinct topic rule — Monday W26 is Formulary Management (the drug list and tier placement); Thursday is Step Therapy Override (the workflow that runs when a member needs to bypass the formulary's preferred therapy). Adjacent within Cost Containment / Clinical pillar, different subject matter (formulary list vs. override workflow). Original "Three Formulary Questions" Field Note parked as FN-09.
+**Pairs with:** Thursday LinkedIn REACH REVEAL "Five Manufacturer Payments Your PBM Doesn't Call Rebates" Bypass/Funnel infographic. The LinkedIn post reveals the hidden structure (manufacturer money that bypasses the rebate pass-through because it is labeled something other than "rebate"); this Field Note is the operational follow-on that turns the reveal into a contract audit plan sponsors can run.
+**Why this pairing:** Triple-distinct topic rule. Monday W26 is Formulary Management (the drug list and tier placement); Tuesday is Step Therapy Override (the workflow when a member needs to bypass preferred therapy); Thursday is Manufacturer-Direct Payments (the manufacturer money that sits outside the rebate definition). Three different subjects. The Field Note exclusively supports the Thursday reveal: same hidden structure, deeper application. The displaced "Auditing Your Step Therapy Override Workflow" draft is parked for re-slotting (see changelog).
 
 ---
 
 ### Field Note Body
 
-**To audit a PBM step therapy override workflow, run three passes on your plan's actual claims: pull the override approval and denial rate, classify the denial reasons by category, and compare the contract's override clause against the workflow members actually face, because the gap between what the clause says and what the workflow does is where clinically appropriate therapy gets gated.**
+**Five categories of manufacturer money tied to your plan's drugs can sit outside your contract's rebate definition, so your 100% rebate pass-through guarantee never touches them: administrative or "admin reimbursement" fees, price protection payments, formulary placement and exclusivity payments, data and insights fees, and group purchasing organization or rebate-aggregator service fees. They are real, they are documented in federal investigations, and the only thing keeping them off your report is one defined word.**
 
-This morning's LinkedIn post decoded the five contract terms that govern step therapy overrides: override trigger conditions, documentation burden, denial appeal timeline, prescriber attestation language, and member cost-share treatment during override. Today is the operational follow-on. You have the vocabulary. Here is how to audit how step therapy actually executes on your plan's claims.
+This morning's LinkedIn post showed the structure: manufacturer money raining down, one stream labeled "rebates" passing through your pass-through gate, and five other streams bending around it into the PBM's pocket. Today is the operational follow-on. You have seen the structure. Here is how to audit it on your own contract.
 
-We run step therapy audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
+We review hundreds of PBM contracts a year at Prescription Benefit Solutions. These five line items hide outside the rebate definition on most of them. Two passes surface them.
 
-**Pass one: pull the override approval and denial rate**
+**Pass one: read your contract's rebate definition, not its rebate guarantee**
 
-Open your most recent quarterly report. Find the prior authorization summary. Look for step-therapy-specific override numbers: total step therapy edits triggered, total override requests submitted, total approved, total denied.
+Most plan sponsors read the guarantee ("100% of rebates passed through") and stop. The guarantee is not where the money leaks. The definition is. Find the defined term "Rebate" in your contract and read exactly what it includes, and more importantly what it carves out.
 
-If the report aggregates step therapy with general PA, request the breakout. Step therapy overrides have a different clinical and contractual profile than general PA. The aggregate number hides drift.
+A tight definition counts all manufacturer payments tied to your plan's utilization as rebates. A loose definition counts only the payment the manufacturer literally labels a "rebate," which leaves the other four categories free to flow to the PBM under different names. The Federal Trade Commission's investigation into pharmacy benefit managers documented this layering directly, including the offshore rebate-aggregating group purchasing organizations the big three PBMs own (Ascent in Switzerland, Emisar in Ireland, Zinc), which can take fees before any pass-through to your plan even begins.
 
-Calculate the override approval rate. The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: when override approval rates fall below 60%, the override workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
+**Pass two: chase each of the five names through the contract**
 
-**Pass two: classify the denial reasons**
+For each category, search the contract for the label and confirm whether the payment is defined as a rebate or carved out of it:
 
-For denied overrides, request the denial reason breakdown by category: insufficient documentation, prescriber attestation incomplete, clinical criteria not met, administrative timeout. The category mix tells you what is actually causing the denials.
-
-If "insufficient documentation" or "administrative timeout" dominates the denial mix, the workflow is failing on process, not clinical judgment. That is fixable. If "clinical criteria not met" dominates, the criteria themselves may be tighter than the formulary requires.
-
-**Pass three: compare the override clause to the override workflow**
-
-Open your contract. Find the step therapy override clause. Note the documentation burden, prescriber attestation requirements, and denial appeal timeline.
-
-Then look at the actual workflow: what does a prescriber need to submit, how long is the response window, who decides the appeal. If the workflow is more burdensome than the contract requires, the workflow is doing different work than the contract is doing.
+> **Administrative or "admin reimbursement" fees.** Manufacturer money for "program administration." Often defined as a service fee, not a rebate.
+> **Price protection payments.** Manufacturers pay these when a drug's list price rises. The rebate definition frequently does not count them.
+> **Formulary placement and exclusivity payments.** Money for a preferred slot. The clinical layer and the payment layer are rarely shown side by side.
+> **Data and insights fees.** Manufacturer payments for de-identified claims data on your members. Almost never inside the rebate definition.
+> **GPO or rebate-aggregator service fees.** The fee skimmed at the aggregator layer before the pass-through starts.
 
 **What to do this quarter**
 
-Run the three passes with our [Step Therapy Override Audit Worksheet](https://www.rxbs.org/toolkit/step-therapy-override), the printable companion to this field note.
+Run both passes with our [PBM Compensation Audit Worksheet](https://www.rxbs.org/toolkit/pbm-compensation), which maps all five manufacturer-payment streams and the disclosure-gap framework that surfaces whether each one reaches your plan or stops at the PBM.
 
-> **Pull the step therapy override approval and denial breakdown.** Calculate the approval rate and the denial-reason category mix.
-> **Open your contract's override clause.** Compare to the actual workflow.
-> **Bring the gap to your broker.** Override workflow is a renewal-leverage item.
+> **Open your contract's rebate definition.** Note what it carves out, not just what it guarantees.
+> **Search each of the five names.** Confirm whether each is defined as a rebate or sits outside it.
+> **Bring the carve-outs to your broker.** The redline that pulls all five back inside the pass-through definition is a renewal-leverage item.
 
-The decoded vocabulary tells you what the contract says. The audit tells you what the workflow does. The gap is your leverage.
+The guarantee tells you what gets passed through. The definition tells you what counts as a rebate in the first place. The gap between them is the money you never see.
 
 ---
 
@@ -332,11 +328,11 @@ The decoded vocabulary tells you what the contract says. The audit tells you wha
 
 ### Field Note Meta
 
-**SEO Title:** Auditing Your Step Therapy Override Workflow | Benefit Blind Spots
-**SEO Title (AEO):** How Do You Audit a PBM Step Therapy Override Workflow? (3 Passes for Plan Sponsors)
-**SEO URL Slug:** audit-step-therapy-override-workflow
-**Meta Description:** Five step therapy override terms decoded this morning. Three audit passes plan sponsors can run on the actual override workflow, the pattern we see most often, and the gap between contract clause and workflow execution.
-**Tags:** step therapy, override workflow, PBM contracts, prior authorization, denial rates, self-funded employers
+**SEO Title:** The Five Manufacturer Payments Your Rebate Guarantee Never Touches | Benefit Blind Spots
+**SEO Title (AEO):** What Manufacturer Payments Sit Outside a PBM Rebate Pass-Through? (Five Plan Sponsors Should Audit)
+**SEO URL Slug:** manufacturer-payments-outside-rebate-pass-through
+**Meta Description:** Your 100% rebate pass-through guarantee was written not to cover five categories of manufacturer money. Two contract audit passes that surface admin fees, price protection, formulary placement, data fees, and GPO service fees.
+**Tags:** rebate pass-through, manufacturer payments, PBM transparency, rebate aggregators, PBM contracts, self-funded employers
 
 ### Field Note Header Image Prompt
 
@@ -345,7 +341,7 @@ The decoded vocabulary tells you what the contract says. The audit tells you wha
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design override request form in Primary Blue (#015880) outline, roughly 380px tall, with "OVERRIDE REQUEST" rendered in Plex Mono Medium uppercase across the top banner. Inside the form, four horizontal rows: "TRIGGER" / "DOCUMENTATION" / "ATTESTATION" / "DECISION" — each with a small Accent Blue (#A7E0FA) checkbox. The "DECISION" row shows two outcomes branching out: a thin Accent Blue arrow up to "APPROVED" and a thin red marker arrow down to "DENIED." Three numbered tick marks in Accent Blue (#A7E0FA) sit along the form's right edge, suggesting three audit passes. Below the composition, a two-tone centered headline: "What the Workflow Does." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Not What the Clause Says." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One step therapy clause." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design horizontal gate or filter bar in solid Primary Blue (#015880), roughly 900px wide, with "100% REBATE PASS-THROUGH" in white Plex Sans SemiBold across it. A single stream labeled "REBATES" in Plex Mono Medium passes straight DOWN through the gate to a small box outlined in Primary Blue labeled "YOUR PLAN." Five thin Accent Blue (#A7E0FA) curved arrows start above the gate and bend AROUND it, clearly bypassing the gate, ending in a box filled Accent Blue labeled "PBM." Each curved arrow carries a short Plex Sans label: "ADMIN FEE" / "PRICE PROTECTION" / "FORMULARY PLACEMENT" / "DATA FEES" / "GPO FEES." Named accent target: the five curved bypass arrows are the Accent Blue (#A7E0FA) elements; the gate, the single REBATES through-stream, and the YOUR PLAN box stay Primary Blue (#015880). Below the composition, a two-tone centered headline: "Five Payments." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Zero Called Rebate." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "The money your pass-through guarantee never touches." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -359,40 +355,38 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Step Therapy Override Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/step-therapy-override` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+This section is the operational source-of-truth for the Wix work this week. **No new toolkit is minted this week (refer-back-first rule, CLAUDE.md / `week_build_spec.md` §7).** The Thursday reach reveal "Five Manufacturer Payments Your PBM Doesn't Call Rebates" is exactly the topic the existing **PBM Compensation Audit Worksheet** already covers (it maps all five manufacturer-payment streams and the disclosure-gap framework), so this week REUSES that live toolkit at `rxbs.org/toolkit/pbm-compensation` rather than producing a near-duplicate. The Wix row already exists; the only weekly action is wiring this week's Field Note URL to it and confirming the page renders. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
 
 ---
 
-## Toolkit 1 — Thursday Field Note Handout · Step Therapy Override Audit Worksheet
+## Toolkit (REUSED) — Thursday Reach Reveal + Field Note Handout · PBM Compensation Audit Worksheet
 
-### Wix Toolkits dataset row
+### Wix Toolkits dataset row (existing row — refresh field_note fields only)
 
 | Column | Value |
 |---|---|
-| `slug` | `step-therapy-override` |
-| `name` | `Step Therapy Override Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `override workflow audit` |
-| `pillar` | `Clinical Pharmacy Perspectives` |
-| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
-| `second_toolkit_blurb` | `Step therapy override approval rates are often driven by rebate-retention economics on the step-1 drug, not clinical criteria alone. Rebate retention is one of five PBM compensation streams. This worksheet maps all five and the disclosure-gap framework that surfaces whether your override workflow is compensation-driven or clinically-driven. The clinical question is often downstream of the contract question.` |
-| `field_note_title` | `Auditing Your Step Therapy Override Workflow` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow` _(live once the Field Note publishes Thu Jul 2)_ |
+| `slug` | `pbm-compensation` |
+| `name` | `PBM Compensation Audit Worksheet` |
+| `pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` _(existing live asset)_ |
+| `mechanic_phrase` | `manufacturer-payment stream audit` |
+| `pillar` | `Transparency & Industry Education` |
+| `second_toolkit_name` | `Quarterly Reporting Checklist` |
+| `second_toolkit_pdf_url` | `[existing Quarterly Reporting Checklist asset — confirm URL in toolkit_dataset.md]` |
+| `second_toolkit_blurb` | `The five manufacturer payments only surface if your quarterly report itemizes every dollar the PBM collects tied to your plan's drugs. This checklist is the 15-line audit framework, plus the paste-ready broker request, that forces the report to show what the rebate definition leaves out.` |
+| `field_note_title` | `The Five Manufacturer Payments Your Rebate Guarantee Never Touches` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/manufacturer-payments-outside-rebate-pass-through` _(live once the Field Note publishes Thu Jul 2)_ |
 
 ### Wix build checklist
 
-- [ ] Upload `templates/documents/week_26_thursday_step_therapy_override_audit.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/step-therapy-override` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [ ] Confirm `rxbs.org/toolkit/pbm-compensation` renders correctly (existing page, no new build)
+- [ ] Refresh the `field_note_title` and `field_note_url` cells on the existing PBM Compensation row to this week's Field Note once it publishes Thu Jul 2
+- [ ] Confirm `second_toolkit` (Quarterly Reporting Checklist) URL is set per `toolkit_dataset.md`
+- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with the PBM Compensation PDF
+- [ ] No new CMS row, no new PDF/PNG, no new Wix Media upload this week
 
 ### Pairing rationale
 
-PBM Compensation is the universal "zoom out" pairing: step therapy override approval rates often track the rebate on the step-1 drug, not clinical criteria alone, so the PBM Compensation worksheet surfaces whether the override workflow is compensation-driven. The paired Field Note is this week's "Auditing Your Step Therapy Override Workflow," which carries the same three-pass audit posture.
+The Thursday reveal and its Field Note both run on the same mechanic the PBM Compensation Audit Worksheet already maps: the five manufacturer-payment streams and which ones sit outside the rebate definition. Reusing it (rather than minting a new toolkit) concentrates downloads and inbound links on the canonical asset per the refer-back-first rule. The second-toolkit pairing is the Quarterly Reporting Checklist, because the five payments only surface on a report that itemizes every PBM revenue stream, which is the universal "zoom out" pairing for any single-revenue-stream audit.
 
 ---
 
@@ -468,42 +462,48 @@ Your formulary was built around your PBM's rebate strategy, not your members' he
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: https://benefitblindspots.substack.com/p/formulary-independence-audit-pbm-economics
 
-And this week's Step Therapy Override Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/step-therapy-override
+And the PBM Compensation Audit Worksheet maps the manufacturer money that rides on those tier decisions, the companion to run on your own plan: rxbs.org/toolkit/pbm-compensation
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/step-therapy-override`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_Toolkit link routes to the existing live `rxbs.org/toolkit/pbm-compensation` page (reused this week, no new build per PART 1C). Confirm it renders before posting. If unavailable, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
 
 
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 93 - Tuesday 8:30 AM
-### "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" — Bypass / Funnel Clean Infographic
+### "5 Step Therapy Override Terms Decoded" — Sticky Note Dashboard Messy Infographic
 
-**Format:** Clean infographic, Bypass/Funnel template. 1080 x 1350 px. (Tuesday Cycle-W4 slot is nominally a messy-infographic; deviated to a clean Bypass/Funnel here on purpose. The content is a "money routes around the rebate gate" flow argument, which a conceptual diagram dramatizes far better than a photo of legalese, and it varies the canvas off the Marked-Up Contract Page used elsewhere this week. Displaced formulary draft remains parked in `evergreen_visual_backlog.md`.)
-**Pillar:** Transparency & Industry Education.
-**Triple-distinct check:** Mon = Formulary Management (the drug list) · Tue = manufacturer payments that sit OUTSIDE the rebate pass-through · Thu = Step Therapy Override (the workflow). Three different subjects. ✓
-**Why this combination:** Monday shows rebates shape the formulary; Tuesday shows the manufacturer money that never gets *called* a rebate, so the pass-through guarantee never touches it. Non-formulary, Transparency-pillar, and it foreshadows W29 Rebate Economics. Hits the Tuesday Excellence bar (confrontational hook, proprietary anchor, Contract Library cross-promo).
+**Format:** Single messy infographic, Sticky Note Dashboard aesthetic (yellow sticky notes pinned to gray corkboard). 1080 x 1350 px. (Tuesday Cycle-W4 slot is nominally a messy-infographic; this fits the slot directly. Workflow-step topics map naturally to the sticky-note-on-corkboard composition.)
+**Pillar:** PBM Contract Insights.
+**Triple-distinct check:** Mon = Formulary Management (the drug list) · Tue = Step Therapy Override (the workflow when a member needs to bypass preferred therapy) · Thu = Manufacturer-Direct Payments outside the rebate definition (the reach reveal). Three different subjects. ✓
+**Why this slot (decoder, not the reach play):** The vocabulary decoder is a solid save-driven Tuesday asset but tops out ~4-5K in the summer trough, so it belongs on Tuesday, not in the Thursday reach slot. The shocking hidden-structure reveal (manufacturer payments outside the rebate definition) was promoted to Thursday per `week_build_spec.md` §2. Hits the Tuesday Excellence bar: confrontational named-actor hook (PBM runs the override workflow), proprietary anchor (hundreds of contracts a year), topic-aligned first-comment routing to the Contract Language Library.
 
 #### Post Copy
 
 ```
-Your PBM says it passes through 100% of rebates. Then it collects five other payments from drug manufacturers it does not call rebates, so the pass-through guarantee never touches them.
+Each big-3 PBM now excludes more than 600 drugs from its main formulary, an all-time high, increasingly swapping them for the PBM's own private-label products. Drug Channels and the FTC have both documented the swap. Every one of those exclusions is a wall your member hits, and the only way through it is the step therapy override.
 
-We review hundreds of PBM contracts a year at Prescription Benefit Solutions. These line items hide outside the rebate definition on most of them. Same manufacturer money, tied to your plan's drugs, sitting one defined word away from your report.
+Five contract clauses govern that override. The override workflow is rarely what the clauses describe.
 
-Five payments to decode:
+We audit how step therapy actually runs on plan claims at Prescription Benefit Solutions, not just how the clause reads. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
 
-1. Administrative / "admin reimbursement" fees
-2. Price protection payments
-3. Formulary placement / exclusivity payments
-4. Data and insights fees
-5. GPO / rebate-aggregator service fees
+Five terms to know:
 
-What each one is, and the contract language that keeps it off your pass-through, in the card.
+1. Override Trigger Conditions. The circumstances that activate the override pathway: prior trial, contraindication, intolerance, clinical exception. The contract names them; the workflow decides whether your documentation meets them.
 
-Save this before your next rebate-guarantee conversation.
+2. Documentation Burden. What the prescriber must submit. Heavier burden produces more "insufficient documentation" denials regardless of clinical merit.
 
-#PBMTransparency #DrugPricing #PharmacyBenefits
+3. Denial Appeal Timeline. How long the PBM has to respond and how long the prescriber has to appeal. Tight contractual timelines are common; tight workflow timelines are rare.
+
+4. Prescriber Attestation Language. Aggressive attestation requirements deter prescribers from running the override pathway at all.
+
+5. Member Cost-Share During Override. Full price until approval creates abandonment at the counter regardless of medical necessity.
+
+The clause is the contract. The workflow is the operations. The gap is your audit.
+
+Save this for your next quarterly review.
+
+#PBMContracts #StepTherapy #SelfFundedEmployers
 ```
 
 #### First Comment
@@ -511,44 +511,54 @@ Save this before your next rebate-guarantee conversation.
 **[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
 
 ```
-The full protective language for manufacturer payment categories, the redline that pulls all five back inside your pass-through definition, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+The full protective language for step therapy override clauses, the redline that tightens the documentation burden and the appeal timeline, lives in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 
-#### Bypass / Funnel Image Generation Prompt
+#### Sticky Note Dashboard Image Generation Prompt
 
-> A clean, modern conceptual infographic, 1080 x 1350 px (4:5), white background (#FFFFFF), generous negative space, IBM Plex Sans typography. A top-to-bottom money-flow diagram.
+> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight, natural drop shadows. Six yellow sticky notes are pinned to the corkboard with brass pushpins in a clean two-column arrangement: one larger title note at the top spanning both columns, then five content notes stacked below in two columns. Each note is slightly angled (1-3 degrees off-axis), with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
 >
-> Top: the label "MANUFACTURER $" in Plex Sans SemiBold, Primary Blue (#015880), with a repeating row of identical small rounded "$" dollar tokens raining downward toward the center (the repeating geometric detail; implied motion).
+> The title sticky note at the top, slightly larger than the others, reads in larger handwriting, double-underlined: "5 Override Workflow Failures"
 >
-> Center: a single horizontal gate / filter bar drawn like a narrow funnel mouth, labeled "100% REBATE PASS-THROUGH" in white Plex Sans SemiBold on a solid Primary Blue (#015880) bar. ONE stream labeled "Rebates" passes straight DOWN through the gate and continues to a box at the bottom outlined in Primary Blue labeled "YOUR PLAN."
+> Below the title, five content sticky notes, each showing a quoted clause name in black Sharpie at the top of the note, followed by a short red-pen audit annotation:
 >
-> Around the gate: FIVE curved arrows in Accent Blue (#A7E0FA) that start from the falling manufacturer money and bend AROUND the gate (clearly bypassing it), all ending in a box on the right filled Accent Blue labeled "PBM." Each curved arrow carries a short Plex Sans label riding the curve:
-> 1. Admin reimbursement fee
-> 2. Price protection payments
-> 3. Formulary placement payments
-> 4. Data & insights fees
-> 5. GPO / rebate-aggregator fees
+> Note 1 (top-left): "Override Trigger Conditions" then red pen: "Contract names them. Workflow rarely accepts the documentation that proves them."
+> Note 2 (top-right): "Documentation Burden" then red pen: "PBM controls the form. Heavier burden = more 'insufficient documentation' denials."
+> Note 3 (middle-left): "Denial Appeal Timeline" then red pen: "Contract: 14 days. Workflow: rarely meets it."
+> Note 4 (middle-right): "Prescriber Attestation Language" then red pen: "Aggressive liability language deters prescribers from filing at all."
+> Note 5 (bottom-center): "Member Cost-Share During Override" then red pen: "Full price = abandonment at counter, regardless of medical necessity."
 >
-> Named accent target: the five curved bypass arrows are the Accent Blue (#A7E0FA) elements; the funnel gate, the single "Rebates" through-stream, and the "YOUR PLAN" box stay Primary Blue (#015880).
+> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink as a summary card: "We review 100s of PBM contracts a year. Override approval rate <60% = workflow is gating. Audit the gap."
 >
-> Two-tone headline across the very top in Plex Sans SemiBold: "FIVE PAYMENTS." in Primary Blue (#015880) + "ZERO CALLED 'REBATE.'" in Gray (#4D4D4D). Footer line in Gray (#4D4D4D), Plex Sans: "Your 100% pass-through guarantee never touches these five." Small bottom corner, Gray: "rxbs.org · we review 100s of PBM contracts a year."
+> A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
 >
-> Mobile-feed legibility (mandatory): exactly five bypass arrows, generously spaced; the gate label, the one through-stream, and the five bypass labels all readable at ~400px wide on a phone; high contrast; clean negative space, no background texture, no clutter. Any dollar figure in Plex Mono; labels in Plex Sans. No logos, no people, no real PBM brand names. (Add the small PBS triangle logo in Canva after generation if wanted; never in the generation prompt.)
+> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows under each sticky note. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style with marker pressure variation, uneven line spacing, minor Sharpie bleed) for authenticity. Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink for primary text, red Sharpie ink for audit annotations.
+>
+> Mobile-feed legibility (mandatory): exactly five content notes plus the title note, generously spaced; the title and the five clause names all readable at ~400px wide on a phone; high contrast; the red annotations readable on tap. No clutter beyond the six notes and the one summary card.
+
+**Post-Generation Steps:**
+1. Generate base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify legibility of the title note and five content notes at mobile size
+3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching Sharpie color
+4. Verify the title "5 Override Workflow Failures" is readable in feed thumbnail
+5. Verify the five clause names render distinctly across notes (most common AI failure: repeated text)
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+7. Export as PNG at 1080 x 1350
 
 ---
 
 ## Post 93 Company Reshare - Tuesday 1:30 PM
 
-**Word Count:** ~45 words
+**Word Count:** ~48 words
 
 #### Reshare Copy
 
 ```
-Your PBM passes through 100% of rebates, then collects five other manufacturer payments it never calls rebates: admin fees, price protection, formulary placement, data fees, and GPO service fees.
+Five terms in the step therapy override clause decide whether members reach the right drug or absorb months of trial-and-fail: trigger conditions, documentation burden, appeal timeline, attestation language, and cost-share during override. The clause says one thing; the workflow does another.
 
-Ginny Crisp decodes the five and the contract language that pulls them back into pass-through.
+Ginny Crisp decodes the override language.
 
-#PBMTransparency #PlanSponsors #PharmacyBenefits
+#ClinicalPharmacy #PBMContracts #PharmacyBenefits
 ```
 
 ---
@@ -672,45 +682,56 @@ This week's Benefit Blind Spots deep dive on formulary management and PBM rebate
 
 ## Post 95 - Thursday 8:30 AM
 
-_The Formulary Independence Scorecard was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Formulary Independence Scorecard). The live Thursday post is below._
+_The Formulary Independence Scorecard was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Formulary Independence Scorecard). The live Thursday reach post is below._
 
-### Thursday Excellence Slot - 5 Step Therapy Override Terms Decoded — Sticky Note Dashboard Messy Infographic
+### Thursday Excellence Slot — REACH REVEAL: "Five Manufacturer Payments Your PBM Doesn't Call Rebates" — Bypass / Funnel Infographic
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously "5 Rebate Retention Terms Decoded" sticky-note messy infographic. Replaced with 5 Step Therapy Override Terms Decoded under Architecture B + canvas-variation rule. Reformatted from Marked-Up Contract Page (default) to Sticky Note Dashboard messy infographic to vary the canvas across consecutive Thursdays — workflow-step topics map naturally to the sticky-note-on-corkboard composition.
+> **NOTE (Jun 27, 2026 reach-post rebuild):** This Thursday slot was a "5 Step Therapy Override Terms Decoded" vocabulary decoder, a summer build-default miss per `week_build_spec.md` §2 (decoders top ~4-5K in the trough). Rebuilt as a **shocking hidden-structure reveal**: manufacturer money tied to your plan's drugs that sits OUTSIDE the rebate definition, so the 100% pass-through guarantee never touches it. This reveal was the prior Tuesday Bypass/Funnel post, promoted here and elevated to the full Thursday Excellence standard. The step-therapy decoder moved to Tuesday (Post 93). A shocking hidden-structure reveal clears 15-18K organic even in the summer trough (the offshore-rebate-aggregator reveal hit 17,816 fully organic), roughly 4x the decoder ceiling.
 
-**Format:** Single messy infographic, Sticky Note Dashboard aesthetic (yellow sticky notes pinned to gray corkboard). 1080 x 1350 px.
-**Pillar:** PBM Contract Insights
-**Field Note pairing:** Same-day Substack Field Note "Auditing Your Step Therapy Override Workflow."
-**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Step Therapy Override Audit Worksheet" — `templates/documents/week_26_thursday_step_therapy_override_audit.html/.pdf`.
+**Format:** Single clean conceptual infographic, Bypass/Funnel template (the "money routes around the rebate gate" flow argument; a conceptual diagram dramatizes the hidden structure far better than a photo of legalese). 1080 x 1350 px. Renders reliably in ChatGPT / Gemini; Canva fallback if a regen mangles text.
+**Pillar:** Transparency & Industry Education
+**Field Note pairing:** Same-day Substack Field Note "The Five Manufacturer Payments Your Rebate Guarantee Never Touches" — exclusively supports this reveal (same hidden structure, the contract-audit follow-on).
+**Reference document pairing:** Existing live Plan Sponsor Toolkit "PBM Compensation Audit Worksheet" (`rxbs.org/toolkit/pbm-compensation`), reused this week per the refer-back-first rule; it maps all five manufacturer-payment streams and the disclosure-gap framework. No new toolkit minted.
 
-**Winning-profile traits hit (9 of 10):** decoder shape · dollar-comparison adjacent (cost of denial-driven therapy switching) · named-actor framing (PBM as actor running the workflow) · plan-sponsor-actionable · confrontational hook · messy infographic format (Sticky Note Dashboard variant) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
+**5-trait Thursday Excellence audit (all 5 required, documented):**
+1. **Format = messy/clean photoreal-adjacent single image, 1080x1350.** Bypass/Funnel conceptual infographic. ✓
+2. **Confrontational, named-actor hook revealing the hidden thing as a shock.** "Your PBM passes through 100% of rebates. Then it collects five other payments from drug manufacturers it never calls rebates, so the guarantee never touches them." PBM named as actor; the plan named as the party that never sees the money. ✓
+3. **Proprietary anchor.** "We review hundreds of PBM contracts a year at Prescription Benefit Solutions. These line items hide outside the rebate definition on most of them." ✓
+4. **First comment names the same-day Field Note specifically + cross-promo link.** Names the two-pass contract audit (read the rebate definition, chase the five names) and the PBM Compensation worksheet, links the Field Note. ✓
+5. **Field Note exclusively supports the LinkedIn concept.** "The Five Manufacturer Payments Your Rebate Guarantee Never Touches" is the same hidden structure as a contract-audit follow-on. No diluted topics. ✓
+
+**Sourced fact + citation framing:** Manufacturer payments classified outside the rebate definition (admin fees, price protection, formulary placement, data fees, GPO/aggregator service fees). The Federal Trade Commission's investigation into pharmacy benefit managers documented the layering, including the big-3-owned offshore rebate-aggregating GPOs (Ascent in Switzerland, Emisar in Ireland, Zinc), which can take fees before any pass-through begins. Framed as "the FTC documented…" with no fabricated dollar figure in the post body (the post names the mechanic, not an invented number). Source: `shocking_fact_bank.md` entries 1 + pipeline candidate "price protection payments outside the rebate definition"; `x_recipe_post_bank.md` entries 20-21.
+
+**Winning-profile traits hit (7 of 10):** shocking hidden-structure reveal · named-actor framing (PBM as actor) · plan-sponsor-actionable (audit the rebate definition) · confrontational hook · clean conceptual infographic format · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image aesthetic.
 
 #### Post Copy
 
 ```
-Each big-3 PBM now excludes more than 600 drugs from its main formulary, an all-time high, increasingly swapping them for the PBM's own private-label biosimilars. The FTC and Drug Channels have both documented the swap. Every one of those exclusions is a wall your member hits, and the only way through it is the step therapy override.
+Your PBM passes through 100% of rebates. Then it collects five other payments from drug manufacturers it never calls rebates, so the pass-through guarantee never touches them.
 
-Five contract clauses govern that override. The override workflow is rarely what the clauses describe.
+This is the part most plan sponsors have never seen. The leak is not in the guarantee. It is in the definition of the word "rebate." A loose definition counts only the payment a manufacturer literally labels a rebate, which leaves four other categories of manufacturer money free to flow to the PBM under different names.
 
-We audit how step therapy actually runs on plan claims at Prescription Benefit Solutions, not just how the clause reads. The override clause says one thing; the workflow does another. When override approval rates fall below 60%, the workflow is gating clinically appropriate therapy more than the contract or the formulary intend.
+We review hundreds of PBM contracts a year at Prescription Benefit Solutions. These line items hide outside the rebate definition on most of them. Same manufacturer money, tied to your plan's drugs, sitting one defined word away from your report.
 
-Five terms to know:
+Five payments your guarantee never touches:
 
-1. **Override Trigger Conditions.** What circumstances activate the override pathway: prior medication trial, contraindication, intolerance, clinical exception. The contract names the conditions; the workflow decides whether the documentation meets them.
+1. Administrative / "admin reimbursement" fees. Manufacturer money for "program administration," defined as a service fee, not a rebate.
 
-2. **Documentation Burden.** What the prescriber must submit: chart notes, prior trial records, attestation forms, lab values. Heavier documentation burden produces more "insufficient documentation" denials regardless of clinical merit.
+2. Price protection payments. Paid when a drug's list price rises. The rebate definition frequently does not count them.
 
-3. **Denial Appeal Timeline.** How long the PBM has to respond, how long the prescriber has to appeal, and whether expedited appeal is available. Tight contractual timelines are common; tight workflow timelines are rare.
+3. Formulary placement / exclusivity payments. Money for a preferred slot. The clinical layer and the payment layer are rarely shown side by side.
 
-4. **Prescriber Attestation Language.** Whether the prescriber must sign a clinical attestation under specific liability language. Aggressive attestation requirements deter prescribers from running the override pathway at all.
+4. Data and insights fees. Manufacturer payments for de-identified claims data on your members. Almost never inside the rebate definition.
 
-5. **Member Cost-Share Treatment.** What the member pays during the override window: full price until approval, deposit, or held harmless. The wrong setup creates abandonment at the pharmacy counter regardless of medical necessity.
+5. GPO / rebate-aggregator service fees. The Federal Trade Commission documented the big-three PBMs' rebate-aggregating GPOs registered offshore: Ascent in Switzerland, Emisar in Ireland, Zinc. Fees can be taken at that layer before the pass-through to your plan even begins.
 
-The override clause is the contract. The workflow is the operations. The gap is your audit.
+Your contract still says 100%. 100% of whatever is left after the PBM paid itself first.
 
-Save this for your next quarterly review.
+Read your rebate definition, not your rebate guarantee. The gap between them is the money you never see.
 
-#PBMContracts #StepTherapy #SelfFundedEmployers
+Save this before your next rebate-guarantee conversation.
+
+#PBMTransparency #Rebates #SelfFundedEmployers
 ```
 
 #### First Comment
@@ -718,52 +739,53 @@ Save this for your next quarterly review.
 **[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual override workflow (approval rate, denial reason mix, contract clause vs. workflow comparison). Plus a paste-ready Step Therapy Override Audit Worksheet you can hand to your broker. https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
+Today's Field Note on Benefit Blind Spots is the operational follow-on: two contract audit passes that surface all five payments on your own plan. Read your rebate definition for what it carves out, then chase each of the five names through the contract to confirm whether it is defined as a rebate or sits outside it. Plus the PBM Compensation Audit Worksheet that maps all five streams. https://benefitblindspots.substack.com/p/manufacturer-payments-outside-rebate-pass-through
 ```
 
-#### Sticky Note Dashboard Image Generation Prompt
+#### Bypass / Funnel Image Generation Prompt
 
-> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight, natural drop shadows. Six yellow sticky notes are pinned to the corkboard with brass pushpins in a clean two-column arrangement: one larger title note at the top spanning both columns, then five content notes stacked below in two columns. Each note is slightly angled (1-3 degrees off-axis), with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
+> A clean, modern conceptual infographic, 1080 x 1350 px (4:5), white background (#FFFFFF), generous negative space, IBM Plex Sans typography. A top-to-bottom money-flow diagram.
 >
-> The title sticky note at the top, slightly larger than the others, reads in larger handwriting, double-underlined: "5 Override Workflow Failures"
+> Top: the label "MANUFACTURER $" in Plex Sans SemiBold, Primary Blue (#015880), with a repeating row of identical small rounded "$" dollar tokens raining downward toward the center (the repeating geometric detail; implied motion).
 >
-> Below the title, five content sticky notes, each showing a quoted clause name in black Sharpie at the top of the note, followed by a short red-pen audit annotation:
+> Center: a single horizontal gate / filter bar drawn like a narrow funnel mouth, labeled "100% REBATE PASS-THROUGH" in white Plex Sans SemiBold on a solid Primary Blue (#015880) bar. ONE stream labeled "Rebates" passes straight DOWN through the gate and continues to a box at the bottom outlined in Primary Blue labeled "YOUR PLAN."
 >
-> Note 1 (top-left): "Override Trigger Conditions" → red pen: "Contract names them. Workflow rarely accepts the documentation that proves them."
-> Note 2 (top-right): "Documentation Burden" → red pen: "PBM controls the form. Heavier burden = more 'insufficient documentation' denials."
-> Note 3 (middle-left): "Denial Appeal Timeline" → red pen: "Contract: 14 days. Workflow: rarely meets it."
-> Note 4 (middle-right): "Prescriber Attestation Language" → red pen: "Aggressive liability language deters prescribers from filing at all."
-> Note 5 (bottom-center): "Member Cost-Share During Override" → red pen: "Full price = abandonment at counter, regardless of medical necessity."
+> Around the gate: FIVE curved arrows in Accent Blue (#A7E0FA) that start from the falling manufacturer money and bend AROUND the gate (clearly bypassing it), all ending in a box on the right filled Accent Blue labeled "PBM." Each curved arrow carries a short Plex Sans label riding the curve:
+> 1. Admin reimbursement fee
+> 2. Price protection payments
+> 3. Formulary placement payments
+> 4. Data & insights fees
+> 5. GPO / rebate-aggregator fees
 >
-> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink as a summary card: "We review 100s of PBM contracts a year. Override approval rate <60% = workflow is gating. Audit the gap."
+> Named accent target: the five curved bypass arrows are the Accent Blue (#A7E0FA) elements; the funnel gate, the single "Rebates" through-stream, and the "YOUR PLAN" box stay Primary Blue (#015880).
 >
-> A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
+> Two-tone headline across the very top in Plex Sans SemiBold: "FIVE PAYMENTS." in Primary Blue (#015880) + "ZERO CALLED REBATE." in Gray (#4D4D4D). Footer line in Gray (#4D4D4D), Plex Sans: "Your 100% pass-through guarantee never touches these five." Small bottom corner, Gray: "rxbs.org · we review 100s of PBM contracts a year."
 >
-> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows under each sticky note. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style with marker pressure variation, uneven line spacing, minor Sharpie bleed) for authenticity. Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink for primary text, red Sharpie ink for audit annotations.
+> Mobile-feed legibility (mandatory): exactly five bypass arrows, generously spaced; the gate label, the one through-stream, and the five bypass labels all readable at ~400px wide on a phone; high contrast; clean negative space, no background texture, no clutter. Any dollar figure in Plex Mono; labels in Plex Sans. No logos, no people, no real PBM brand names. (Add the small PBS triangle logo in Canva after generation if wanted; never in the generation prompt.)
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px to verify legibility of the title note and five content notes at mobile size
-3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching Sharpie color
-4. Verify the title "5 Override Workflow Failures" is readable in feed thumbnail
-5. Verify the five clause names render distinctly across notes (most common AI failure: repeated text)
-6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+1. Generate the base image using the prompt above
+2. Open in Canva at 1080 x 1350 px to verify the gate label, the one through-stream, and the five bypass labels are readable at mobile size
+3. If the title or any bypass label renders illegibly, overlay clean text in Plex Sans SemiBold in matching color
+4. Verify exactly five bypass arrows render (most common AI failure: extra or missing arrows)
+5. Confirm the single "Rebates" stream visibly passes THROUGH the gate while the five bend AROUND it
+6. Add the small PBS triangle logo in the corner if wanted (never in the generation prompt)
 7. Export as PNG at 1080 x 1350
 
 ---
 
 ## Post 95 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 48 words
+**Word Count:** ~47 words
 
 #### Reshare Copy
 
 ```
-Five terms in the step therapy override clause decide whether members reach the right drug or absorb months of trial-and-fail. Turnaround, evidence threshold, prescriber authority, exception scope, and appeal rights each set the bar.
+Your PBM passes through 100% of rebates, then collects five other manufacturer payments it never calls rebates: admin fees, price protection, formulary placement, data fees, and offshore GPO service fees. The pass-through guarantee never touches them.
 
-Ginny Crisp decodes the override language.
+Ginny Crisp reveals the five and where they hide in the contract.
 
-#ClinicalPharmacy #PBMContracts #PharmacyBenefits
+#PBMTransparency #PlanSponsors #PharmacyBenefits
 ```
 
 ---
@@ -847,9 +869,9 @@ I watched a P&T committee meeting from the observer seat where the clinical argu
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: auditing your step therapy override workflow. This morning's LinkedIn post decoded the five contract terms; the field note is the operational follow-on, three audit passes you can run on how the override actually executes on your plan's claims (approval rate, denial-reason mix, clause vs. workflow).
+New field note: the five manufacturer payments your rebate guarantee never touches. This morning's LinkedIn post revealed the structure (manufacturer money that bypasses the rebate pass-through because it is labeled something other than "rebate"); the field note is the operational follow-on, two contract audit passes you can run on your own plan to surface all five.
 
-Read the field note: https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
+Read the field note: https://benefitblindspots.substack.com/p/manufacturer-payments-outside-rebate-pass-through
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 A plan sponsor told me she felt uncomfortable "interrogating" her PBM about formulary decisions. I reframed it as a prudent question, not an interrogation. Asking a vendor how they make decisions that cost you millions of dollars is not hostile. It is oversight. She changed her language and the PBM adjusted their posture to match. Tone sets the relationship. Questions are still allowed.
@@ -907,7 +929,7 @@ I had a young pharmacist ask me whether she should stay in retail or move into p
 
 > **Convention (see `x_account_strategy.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour reactions on top when PBM news breaks. **NOT locked to Monday's formulary topic.** X skews to the Cuban-bait shapes and breaking news. `[VISUAL]` flags an attached asset; links go in the FIRST REPLY only. Hashtags 0-1 max. Slot times ET. Post bodies in fenced code blocks (W23-forward convention). Hold the PM slot loosely for a live news-reaction bump; tag the source.
 >
-> **LinkedIn-first rule (required):** (1) the **Tue Post 93 "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" Bypass/Funnel clean infographic** publishes Tue 8:30 AM (the 8:30 AM standard per the W19 finding); the Tue 5:00 PM decoder driver is scheduled AFTER it. (2) the **Thu Post 95 "5 Step Therapy Override Terms Decoded" Sticky Note Dashboard messy infographic** publishes Thu 8:30 AM; its specific term-set does NOT appear in Mon-Wed slots, and the Thu midday amplifier runs AFTER the Thu publish. AM slots lead with the named-adversary shape.
+> **LinkedIn-first rule (required):** (1) the **Tue Post 93 "5 Step Therapy Override Terms Decoded" Sticky Note Dashboard messy infographic** publishes Tue 8:30 AM (the 8:30 AM standard per the W19 finding); the Tue 5:00 PM decoder driver is scheduled AFTER it. (2) the **Thu Post 95 REACH REVEAL "Five Manufacturer Payments Your PBM Doesn't Call Rebates" Bypass/Funnel infographic** publishes Thu 8:30 AM; its specific five-payment reveal does NOT appear in Mon-Wed slots, and the Thu midday amplifier runs AFTER the Thu publish. AM slots lead with the named-adversary shape. Note: the Thursday reach reveal and the Tuesday decoder were swapped Jun 27, 2026 (see Run of Show note), so the X drivers swapped with them: the manufacturer-payments material now drives Thursday, the step-therapy override material now drives Tuesday.
 >
 > **Holiday note:** this week spans the **July 4 weekend** (Fri Jul 3 / Sat Jul 4 / Sun Jul 5). Per CLAUDE.md this is a documented slow window. Keep the scheduled posts (X news/evergreen content runs fine on holidays), but lighten the amplifier patrol and soften the Sat Jul 4 morning post off hard adversary framing. No politics on the holiday; profession-identity and affordability framing only.
 
@@ -943,13 +965,13 @@ Your member's drug: $300 copay through the plan. $80 cash with a coupon the PBM 
 ```
 Every few months a state passes a law reining in PBM formulary games, and the PBM sues to block it. They don't litigate over things that don't make money. The lawsuits are a map of where the margin is.
 ```
-- **5:00 PM · Tue decoder driver (Bypass/Funnel "5 manufacturer payments"; SCHEDULE AFTER the Tue LinkedIn post publishes):**
+- **5:00 PM · Tue decoder driver (step therapy override; SCHEDULE AFTER the Tue LinkedIn post publishes):**
 ```
-Your PBM swears it passes through 100% of rebates. Then it collects five other payments from drug manufacturers it never calls rebates: admin reimbursement, price protection, formulary placement, data fees, GPO service fees. The pass-through guarantee never touches them. Same manufacturer money, one defined word away from your report.
+Step therapy override: the only way past a PBM formulary exclusion. Five contract terms govern it: trigger conditions, documentation burden, appeal timeline, attestation language, cost-share during override. The clause says one thing. The workflow does another. When override approval rates drop below 60%, the workflow is gating clinically appropriate therapy.
 ```
   First reply (link):
 ```
-The contract language that puts formulary control back with the plan sponsor is in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
+The protective contract language for step therapy override clauses is in the Contract Language Library: benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
 - **7:00 PM · question post [A7]:**
 ```
@@ -1002,17 +1024,17 @@ The PBM didn't lower your drug costs. It moved them to a line you don't read and
 ```
 
 **Thu Jul 2**
-- **8:00 AM · named-adversary / formulary swap (protects the Thursday reveal):**
+- **8:00 AM · named-adversary / rebate definition (protects the Thursday reveal; reveals the mechanic without the full five-payment card):**
 ```
-Your PBM excluded a drug your member was stable on, citing "formulary management." The replacement isn't better. It just pays a bigger rebate. Your member's working therapy got swapped for the PBM's preferred revenue. That's not management. It's a sale, and your member is the inventory.
+Your PBM's rebate guarantee says 100%. Then read the contract's definition of "rebate." A loose one counts only the payment a manufacturer literally labels a rebate, and leaves admin fees, price protection, and placement payments free to flow to the PBM under other names. The leak isn't the guarantee. It's the definition.
 ```
-- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: 5 Step Therapy Override Terms Decoded Sticky Note Dashboard messy infographic]`:**
+- **12:00 PM · Thursday-visual amplifier (SCHEDULE AFTER the Thu LinkedIn post publishes) `[VISUAL: Five Manufacturer Payments Your PBM Doesn't Call Rebates Bypass/Funnel infographic]`:**
 ```
-Five contract terms govern the step therapy override your member hits when the PBM excludes their drug. The clause says one thing; the workflow does another. When override approval rates drop below 60%, the workflow is gating clinically appropriate therapy. Today's decode:
+Your PBM passes through 100% of rebates, then collects five other manufacturer payments it never calls rebates: admin reimbursement, price protection, formulary placement, data fees, and offshore GPO service fees. The FTC documented the offshore aggregators by name. The pass-through guarantee never touches any of them. Today's reveal:
 ```
   First reply (link):
 ```
-The field note walks through what to do once you can read these terms: https://benefitblindspots.substack.com/p/audit-step-therapy-override-workflow
+The field note walks through the two contract audit passes that surface all five on your own plan: https://benefitblindspots.substack.com/p/manufacturer-payments-outside-rebate-pass-through
 ```
 - **5:00 PM · punchy:**
 ```
@@ -1135,16 +1157,16 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 ## Content Schedule
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
 - [ ] Monday: Substack Notes (morning + afternoon)
-- [ ] Tuesday: Post 93 Bypass/Funnel clean infographic at 8:30 AM
+- [ ] Tuesday: Post 93 Step Therapy Override Sticky Note (messy infographic) at 8:30 AM
 - [ ] Tuesday: First Comment + Company Reshare at 1:30 PM
 - [ ] Wednesday: Post 94 native 9:16 video at 8:30 AM
-- [ ] Thursday: Field Note at 7:30 AM, Post 95 Step Therapy Override Sticky Note (messy infographic) at 8:30 AM
+- [ ] Thursday: Field Note "The Five Manufacturer Payments Your Rebate Guarantee Never Touches" at 7:30 AM, Post 95 REACH REVEAL Bypass/Funnel infographic at 8:30 AM
 - [ ] Thursday: Company Reshare at 1:30 PM
 - [ ] Friday: Post 96 Tease Hook at 8:30 AM
 - [ ] Daily: Substack Notes per schedule
 - [ ] Feed posts publish at 8:30 AM (10:00 AM test concluded W18, reverted W19)
-- [ ] Verify Tuesday Bypass/Funnel clean infographic stays off the formulary topic (angle: manufacturer payments that bypass the rebate pass-through)
-- [ ] Verify Thursday messy infographic carries the step-therapy override theme (adjacent to formulary, not same subject)
+- [ ] Verify Tuesday messy infographic stays off the formulary topic (angle: step therapy override workflow, adjacent to formulary, not same subject)
+- [ ] Verify Thursday reach reveal is a shocking hidden-structure play, NOT a vocabulary decoder (angle: manufacturer payments outside the rebate definition); all 5 Thursday Excellence traits documented in Post 95
 
 ---
 
@@ -1152,9 +1174,9 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 93 Bypass/Funnel Infographic | Single clean infographic (1080x1350) | Money-flow diagram: manufacturer $ bypasses the 100% rebate pass-through gate via 5 uncalled-payment streams to the PBM; Transparency pillar |
+| Post 93 Step Therapy Override Sticky Note | Single messy infographic (1080x1350) | 5 step-therapy override terms decoded; Sticky Note Dashboard aesthetic; PBM Contract Insights pillar |
 | Deep-dive in-article: Formulary Independence Scorecard | Single clean infographic (1080x1350) | 7-question scored framework + traffic-light bands; built in Canva (PBS v2 scorecard aesthetic) |
-| Post 95 Step Therapy Override Sticky Note | Single messy infographic (1080x1350) | 5 step-therapy override terms decoded; Sticky Note Dashboard aesthetic |
+| Post 95 REACH REVEAL Bypass/Funnel Infographic | Single clean infographic (1080x1350) | Money-flow diagram: manufacturer $ bypasses the 100% rebate pass-through gate via 5 uncalled-payment streams to the PBM; Transparency pillar; Thursday reach reveal |
 | Post 94 Video (optional) | Vertical video, 50 sec | VIDEO TEST #1 - film if ready |
 | Substack article header | 2240x1260 | [ ] Design needed |
 | Field Note header | 1200x600 | [ ] Design needed |
@@ -1177,9 +1199,9 @@ _No scheduled entries. Fire same-hour reactions on PBM news Jun 29 - Jul 5; tag 
 
 | Post | Time | Impressions | Eng Rate | Comments | Saves |
 |------|------|------------|----------|----------|-------|
-| Post 93 (Tue Clean Info) | 8:30 AM | | | | |
+| Post 93 (Tue Sticky Note decoder) | 8:30 AM | | | | |
 | Post 94 (Wed 9:16 Video) | 8:30 AM | | | | |
-| Post 95 (Thu Sticky Note) | 8:30 AM | | | | |
+| Post 95 (Thu REACH REVEAL Bypass/Funnel) | 8:30 AM | | | | |
 | Post 96 (Fri Tease) | 8:30 AM | | | | |
 
 ## Posting Time

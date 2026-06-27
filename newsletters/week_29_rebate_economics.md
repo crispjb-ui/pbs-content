@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday slot = live "5 Network Contract Terms Decoded" Slot A; the repurposed Rebate Model Comparison whiteboard moved into PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Thursday slot rebuilt (Jun 2026) from the off-topic "5 Network Contract Terms Decoded" vocabulary decoder into a shocking hidden-structure reveal: the copay maximizer "non-essential health benefit" reclassification, distinct from Mon (rebate flow) / Tue (audit rights) / Wed (offshore aggregator). The repurposed Rebate Model Comparison whiteboard remains in PART 1 as an In-Article Visual; the displaced network-terms decoder is described for central parking in the Post 107 block (no dead block left in the file)._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -33,9 +33,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 22 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 7:00 PM | X | question [A13] | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 8:30 PM | X | aphorism [C7] | PART 4B · Wed | [ ] |
-| Thu Jul 23 | 7:30 AM | Substack | Field Note: "Auditing Your Pharmacy Network Configuration" | PART 1B | [ ] |
+| Thu Jul 23 | 7:30 AM | Substack | Field Note: "The Program That Reclassifies Your Member's Drug as Non-Essential" | PART 1B | [ ] |
 | Thu Jul 23 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 23 | 10:00 AM | LI Feed | Post 107 — "5 Network Contract Terms Decoded" (Messy Infographic, Slot A) | Post 107 | [ ] |
+| Thu Jul 23 | 10:00 AM | LI Feed | Post 107 — "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (Messy Infographic, Slot A reveal) | Post 107 | [ ] |
 | Thu Jul 23 | 10:05 AM | LI Feed | Post 107 first comment | Post 107 | [ ] |
 | Thu Jul 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 1:30 PM | LI Company | Reshare of Post 107 | Post 107 Reshare | [ ] |
@@ -229,56 +229,46 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your Pharmacy Network Configuration
+## The Program That Reclassifies Your Member's Drug as Non-Essential
 
-**Display Title:** Auditing Your Pharmacy Network Configuration
-**SEO Title (AEO):** How Do You Audit a PBM Pharmacy Network? (Three Audit Passes for Self-Funded Plans)
-**SEO Subtitle:** Three audit passes plan sponsors can run on the actual network configuration vs. contract design
+**Display Title:** The Program That Reclassifies Your Member's Drug as Non-Essential
+**SEO Title (AEO):** What Is a Copay Maximizer? (How It Drains the Manufacturer Copay Card Off Your Member's Deductible)
+**SEO Subtitle:** How a copay maximizer reclassifies a specialty drug to dodge the out-of-pocket cap, plus three things a self-funded plan can check this quarter
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 23, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
+**Length:** ~600 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** PBM Contract Insights
+**Pillar:** Cost Containment Strategies
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 Network Contract Terms Decoded" Composition Notebook messy infographic. LinkedIn post decodes the network vocabulary; Field Note is the operational follow-on for auditing how the network configuration actually executes against your plan's claims data.
-**Why this pairing (not the displaced "Three Rebate Report Red Flags" draft):** Architecture B triple-distinct topic rule — Monday W29 is Rebate Economics; Thursday is Pharmacy Network Configuration (which pharmacies are in-network and how the contract's network clauses execute). Adjacent within PBM Contract Insights pillar, different subject matter (rebate flow vs. network membership). Original "Three Rebate Report Red Flags" Field Note parked as FN-12.
+**Pairs with:** Thursday LinkedIn reveal "Copay Maximizer: the program that reclassifies your member's drug as non-essential" messy infographic. The LinkedIn post reveals the hidden program as a shock; this Field Note is the operational follow-on, the three checks a plan sponsor runs to find out whether a maximizer is bolted onto its own plan and what it is draining.
+**Why this pairing (triple-distinct rule):** Monday W29 is Rebate Economics (rebate flow), Tuesday is Audit Rights, Wednesday is the offshore rebate aggregator. Thursday moves to a genuinely-distinct hidden structure: the copay maximizer, a member-facing copay-program mechanic in the Cost Containment / copay-program family, not a rebate-flow or audit-rights or aggregator topic. The Field Note exclusively supports the Thursday LinkedIn reveal: same program, deeper application. The original "Auditing Your Pharmacy Network Configuration" Field Note draft is parked for central reuse (see parking note below).
 
 ---
 
 ### Field Note Body
 
-**To audit a PBM pharmacy network, a self-funded plan runs three comparison passes: pull the actual fill distribution by network configuration, compare that distribution to the network design written in the contract, and test actual performance against the network guarantee clauses, with the gap between contract design and real fill behavior becoming the renewal-leverage item.**
+**A copay maximizer is a program a PBM or its vendor bolts onto a plan that reclassifies a member's specialty drug as a "non-essential health benefit" so the ACA out-of-pocket cap no longer applies, then spreads the manufacturer's full annual copay-card assistance across the year and routes that value back to the PBM instead of toward the member's deductible, which means the plan sees a "copay savings program" while the manufacturer money never reduces what the plan ultimately pays.**
 
-This morning's LinkedIn post decoded the five network contract terms PBMs use most often: preferred network, broad network, network guarantee, mandatory mail, and network exclusion list. Today is the operational follow-on. You have the vocabulary. Here is how to audit how the network configuration actually executes against your plan's claims.
+This morning's LinkedIn post revealed the program that reclassifies a member's drug as non-essential. This Field Note is how you find out whether one is running on your own plan, and what it is moving.
 
-We run network audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
+We review hundreds of PBM and benefit-program contracts a year at Prescription Benefit Solutions, and the maximizer is one of the most quietly bolted-on structures we find. It usually arrives as a "specialty copay optimization" or "copay savings maximizer" program, sold as a way to capture more manufacturer assistance. The mechanics underneath are what matter.
 
-**Pass one: pull the actual fill distribution by network configuration**
+**How the mechanic works**
 
-Open your most recent quarterly report. Find the dispensing-channel breakdown. Calculate the share of fills that landed in each configuration: preferred network, broad network, mandatory mail, and PBM-affiliated specialty.
+A manufacturer copay card is meant to lower the member's out-of-pocket cost on an expensive specialty drug. Normally that assistance counts toward the member's deductible and out-of-pocket maximum. A maximizer interrupts that. It reclassifies the drug as a "non-essential health benefit," which is the move that removes the ACA out-of-pocket cap from that drug. With the cap gone, the program sets the member's cost-share to capture the maximum the manufacturer card will pay across the full plan year, and routes that captured value back to the PBM or its vendor. The member's deductible does not move. The plan's net position does not improve the way the "savings" headline implies.
 
-If the breakdown is not in the report, request it. The PBM has the data.
+The unfakeable detail to know: in litigation between Johnson & Johnson and one maximizer vendor, the same drug's manufacturer assistance ran far higher for members enrolled in the maximizer than for those who were not, with the manufacturer alleging nine figures in overpayment. The dollars are real, and they are not flowing where the plan thinks.
 
-**Pass two: compare the actual fill distribution to the contract's network design**
+**Three checks to run this quarter**
 
-Open your contract. Find the network membership clause and the preferred network list. Compare the contracted network design to the actual fill pattern. Common findings: preferred-network share is lower than the contract's preferred-network design suggests, indicating member out-of-network drift; mandatory-mail share is higher than expected, indicating PBM-affiliated mail volume is being captured by workflow design even when the plan didn't intend mandatory mail.
+> **Check one: ask whether a copay maximizer or "copay optimization" program is active on your specialty drugs.** Ask your PBM and your benefit-program vendors directly, in writing. Ask for the program name and the contract section that authorizes it. A program that captures manufacturer money off your plan should be nameable.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: the network exclusion list grows over the contract term as pharmacies are removed for not accepting the PBM's reimbursement terms. Plan sponsors rarely receive notification of these removals, but they affect member access and aggregate plan economics.
+> **Check two: ask whether manufacturer copay assistance counts toward member accumulators.** If the answer is no on specialty drugs, ask which entity keeps the assistance and under what contract term. "It does not count toward the deductible" is the tell that the value is being captured upstream.
 
-**Pass three: audit the network guarantee clauses**
+> **Check three: ask which specialty drugs were reclassified as non-essential, and by whom.** The reclassification is the legal mechanism that removes the cap. If any of your specialty drugs were reclassified, ask to see the authorization and the member-impact analysis.
 
-Open the network guarantee clause. Note any guaranteed minimums (preferred-network share, retail dispensing fee, mail discount). Compare actual performance to the guarantee.
-
-Network guarantees are often subject to carve-outs (specific drug categories, specialty channels, or member populations excluded from the guarantee). The carve-outs are where the guarantee does and does not apply. If your plan's actual network performance falls below the guarantee within the in-scope categories, the contract typically requires remediation.
-
-**What to do this quarter**
-
-> **Pull the dispensing-channel fill distribution and the network membership / exclusion clauses.** Compare actual to contract design.
-> **Calculate the gap between actual network performance and the network guarantee.** Document any miss.
-> **Request the network exclusion log for the past 12 months.** Pharmacies removed from the network are signal about the PBM's reimbursement-term enforcement.
-
-The decoded vocabulary tells you the contract design. The audit tells you what the network is doing. The gap is your renewal-leverage item. The printable [Pharmacy Network Configuration Audit Worksheet](https://www.rxbs.org/toolkit/network-configuration-audit) walks all three passes in order so you can hand it to your broker.
+The reveal tells you the program exists. These three checks tell you whether it is running on your plan and where the manufacturer money is going. The printable [Copay Card Financial Impact Calculator](https://www.rxbs.org/toolkit/copay-card-calculator) models the accumulator-and-maximizer impact step by step so you can hand it to your broker.
 
 ---
 
@@ -290,10 +280,10 @@ The decoded vocabulary tells you the contract design. The audit tells you what t
 
 ### Field Note Meta
 
-**SEO Title:** Auditing Your Pharmacy Network Configuration | Benefit Blind Spots
-**SEO URL Slug:** audit-pharmacy-network-configuration
-**Meta Description:** Five network contract terms decoded this morning. Three audit passes plan sponsors can run on the actual network configuration vs. contract design, the pattern PBS sees most often, and the renewal-leverage item.
-**Tags:** pharmacy network, network configuration, network guarantee, preferred network, mandatory mail, PBM contracts, network exclusion list
+**SEO Title:** What Is a Copay Maximizer? How It Drains the Manufacturer Copay Card | Benefit Blind Spots
+**SEO URL Slug:** copay-maximizer-non-essential-reclassification
+**Meta Description:** A copay maximizer reclassifies a member's specialty drug as non-essential to dodge the out-of-pocket cap, then drains the manufacturer copay card back to the PBM. Three checks a self-funded plan can run this quarter to find out if one is on its plan.
+**Tags:** copay maximizer, copay accumulator, non-essential health benefit, specialty drugs, out-of-pocket cap, copay assistance, self-funded employers
 
 ---
 
@@ -304,7 +294,7 @@ The decoded vocabulary tells you the contract design. The audit tells you what t
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design pharmacy-network map in Primary Blue (#015880) outline, roughly 480px wide, showing five small storefront icons evenly spaced along a horizontal network line. The first three storefronts are filled with Primary Blue (in-network); the fourth is highlighted in Accent Blue (#A7E0FA) with a small "PREFERRED" pill above it; the fifth is rendered in light gray (#D6D6D6) with a thin red strike-through indicating exclusion. Above the network line, a small label in Plex Mono Medium uppercase: "NETWORK MEMBERSHIP." Below the network line, three small numbered tick marks in Accent Blue (#A7E0FA) labeled "1 / 2 / 3" suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers above the middle storefront. Below the composition, a two-tone centered headline: "Network." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Configuration." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One contract clause. One exclusion log." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), light gray (#D6D6D6). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design manufacturer copay card icon in Primary Blue (#015880) outline, roughly 460px wide, with a bold Accent Blue (#A7E0FA) diversion arrow curving away from a small "DEDUCTIBLE" meter (the meter needle pinned at empty, rendered in light gray #D6D6D6 to show it never moves) and toward a Primary Blue container labeled "PBM" in Plex Sans SemiBold. A small rubber-stamp graphic in red over the card reads "NON-ESSENTIAL" in a condensed uppercase stamp face, slightly rotated. Above the card, a small label in Plex Mono Medium uppercase: "COPAY ASSISTANCE." Below the composition, three small numbered tick marks in Accent Blue (#A7E0FA) labeled "1 / 2 / 3" suggesting three checks. Below the composition, a two-tone centered headline: "Reclassified." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Non-Essential." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "The card drains to the PBM. The deductible never moves." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), light gray (#D6D6D6), red accent for the stamp only. No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -316,42 +306,30 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ---
 
-# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
+### Parked draft: "Auditing Your Pharmacy Network Configuration" (former Thursday Field Note)
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Pharmacy Network Configuration Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/network-configuration-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+_When the Thursday reach post was rebuilt from the network-terms vocabulary decoder into the copay-maximizer reveal, this Field Note (its operational pair) was displaced. It is a strong, complete draft and should NOT be discarded. It is described here for central parking (this build was scoped to edit only this week file, so it is not yet moved into `field_note_backlog.md`)._
+
+- **Title:** Auditing Your Pharmacy Network Configuration
+- **Pillar:** PBM Contract Insights
+- **Thesis (answer-first lead):** To audit a PBM pharmacy network, a self-funded plan runs three comparison passes: pull the actual fill distribution by network configuration, compare it to the network design written in the contract, and test actual performance against the network-guarantee clauses; the gap between contract design and real fill behavior is the renewal-leverage item.
+- **Three passes:** (1) pull actual fill distribution by configuration (preferred / broad / mandatory mail / PBM-affiliated specialty); (2) compare actual fill to contracted network design (preferred-network drift, unintended mandatory-mail capture); (3) audit the network-guarantee clauses and their carve-outs.
+- **Pairs naturally with:** a future Thursday Pharmacy-Network or Site-of-Care LinkedIn post; toolkit `network-configuration-audit` (`rxbs.org/toolkit/network-configuration-audit`).
+- **Re-anchor before reuse:** refresh the "this morning's LinkedIn post" opener to the destination week's Thursday post, and confirm the Monday topic that week is not network/site-of-care (to hold triple-distinct).
+- **Action for the maintainer:** move this full draft into `field_note_backlog.md` as the next available FN entry, then delete this parking block.
 
 ---
 
-## Toolkit 1 — Thursday Field Note Handout · Pharmacy Network Configuration Audit Worksheet
+# PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-### Wix Toolkits dataset row
+**No new Plan Sponsor Toolkit is minted this week.** Per the refer-back-first rule (CLAUDE.md: leverage the ~29-deep library instead of filling a slot with a near-duplicate), the Thursday copay-maximizer reveal's natural companion already exists: the **Copay Card Financial Impact Calculator** (`copay-card-calculator`, originally W20 Monday), which models accumulator-and-maximizer financial impact step by step. It is the exact mechanic. We reuse the live page rather than building a redundant maximizer worksheet.
 
-| Column | Value |
-|---|---|
-| `slug` | `network-configuration-audit` |
-| `name` | `Pharmacy Network Configuration Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `network design audit` |
-| `pillar` | `PBM Contract Insights` |
-| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
-| `second_toolkit_blurb` | `Network configuration produces one of the five PBM compensation streams (owned-pharmacy margin when mandatory mail or PBM-affiliated specialty is in play). PBM Compensation maps the other four and the disclosure-gap framework that becomes your renewal-leverage item. Network design is one revenue lever; PBM Compensation is the full map.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+- **Reused toolkit (Thursday Field Note + LinkedIn reveal companion):** Copay Card Financial Impact Calculator → live at `rxbs.org/toolkit/copay-card-calculator`. Linked in the Thursday Field Note body, the Post 107 first comment, and the X Thursday-AM copay-maximizer first reply. No Wix changes required; the row and email sequence already exist.
+- **Monday deep dive companion:** rebate economics. The deep dive routes to the free PBM Contract Language Library (no gated handout this week); the rebate-aggregator angle on Wed routes to the same Library. No new toolkit.
 
-### Wix build checklist
+_Wix action this week: confirm `rxbs.org/toolkit/copay-card-calculator` still renders and its Email 1 still attaches the current Copay Card Financial Impact Calculator PDF before Thursday. No new row, no new media upload._
 
-- [ ] Upload `templates/documents/week_29_thursday_network_configuration_audit.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/network-configuration-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
-
-### Pairing rationale
-
-PBM Compensation universal anchor. Channel Pricing Field Note explicitly addresses the retail/mail/specialty channel split that network design controls.
+**Refer-back note:** the previously-planned Pharmacy Network Configuration Audit Worksheet (`network-configuration-audit`) is no longer paired to W29 (its Field Note was displaced when Thursday was rebuilt to the copay-maximizer reveal). That toolkit stays in the library for a future Pharmacy-Network or Site-of-Care week; do not delete its dataset row.
 
 ---
 
@@ -427,10 +405,10 @@ Your rebate report can grow while your net cost grows faster. The report shows o
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
-And this week's Pharmacy Network Configuration Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/network-configuration-audit
+And the companion worksheet for Thursday's reveal, the Copay Card Financial Impact Calculator, models what a copay maximizer drains off your plan: rxbs.org/toolkit/copay-card-calculator
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/network-configuration-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_The Copay Card Financial Impact Calculator landing page is already live (`rxbs.org/toolkit/copay-card-calculator`), reused per the refer-back-first rule; no new Wix build is required this week. Confirm the page renders before Monday._
 
 
 ---
@@ -601,92 +579,96 @@ This week's Benefit Blind Spots deep dive on rebate economics decoded is the ope
 
 ## Post 107 - Thursday 10:00 AM
 
-_The Rebate Model Comparison whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Rebate Model Comparison). The live Thursday post is below._
+_REBUILT (Jun 2026): the former Thursday post here was "5 Network Contract Terms Decoded," a vocabulary decoder that was both off-topic for a rebate week and a weak summer-trough shape (decoders top out ~4-5K in summer). It is replaced with a shocking hidden-structure reveal: the copay maximizer "non-essential health benefit" reclassification. The displaced network-terms decoder content is parked in PART 1B (parked-draft note) and the Field Note retargeted to this reveal. The Rebate Model Comparison whiteboard carousel was repurposed earlier into Monday's deep dive and lives there as an in-article visual (PART 1)._
 
-### Thursday Evergreen Rotation (Slot A) - 5 Network Contract Terms Decoded
+### Thursday Reach Post (Slot A reveal) - Copay Maximizer: The Program That Reclassifies Your Member's Drug as Non-Essential
 
-- **Slot:** A
-- **Format:** Messy Infographic
-- **Pillar:** PBM Contract Insights
-- **Topic:** 5 Network Contract Terms Decoded
-- **Hook:** "'Any in-network pharmacy' sounds like member choice. Then the PBM writes the network rules so the lowest-friction path runs through a pharmacy it owns. Five terms decide where your members actually fill."
-
-**Content outline (5 terms, pattern: Term. What the PBM means. What you should read it as.):**
-- "Preferred network" - PBM means: a narrower subset of pharmacies with enhanced pricing. Read it as: a network the PBM shapes to include or exclude pharmacies based on reimbursement terms, not just member access.
-- "Broad network" - PBM means: the widest pharmacy access, all participating pharmacies. Read it as: the highest-cost configuration, with the least PBM leverage over individual pharmacy pricing.
-- "Network guarantee" - PBM means: contractual commitment on discount, fees, or performance for the network. Read it as: a commitment that applies only to the channels and drug categories specified, often with carve-outs.
-- "Mandatory mail" - PBM means: requirement that members use mail-order for maintenance drugs. Read it as: a volume-steering mechanism that benefits the PBM's owned mail-order pharmacy, whether or not it benefits your plan.
-- "Network exclusion list" - PBM means: pharmacies removed from the network. Read it as: a list that moves revenue. The pharmacies excluded are usually the ones that do not accept the PBM's reimbursement terms.
+- **Slot:** A (Thursday Excellence reach post)
+- **Format:** Messy infographic, photoreal single image, 1080 x 1350 px
+- **Pillar:** Cost Containment Strategies (copay programs)
+- **Shape:** Shocking hidden-structure reveal (best-kept-secret / genuinely-unknown-fact variant), not a vocabulary decoder
+- **Why distinct:** Mon = rebate flow, Tue = audit rights, Wed = offshore rebate aggregator. This is the copay maximizer, a member-facing copay-program mechanic. Different subject matter, different pillar. No cannibalization with the rebate-themed Mon/Wed posts.
 
 #### Post Copy
 
 ```
-"Any in-network pharmacy," your contract says. Then mandatory-mail rules and an exclusion list quietly route the volume to a pharmacy the PBM owns. That is not a network. It is a steering system with a network's name on it.
+There is a program that legally reclassifies your employee's specialty drug as "non-essential," so the out-of-pocket cap disappears, then drains the manufacturer's full year of copay assistance back to the PBM. None of it touches your member's deductible. It may be bolted onto your plan right now.
 
-I review hundreds of PBM contracts a year at PBS. The membership clause says one thing; the routing pattern rarely matches. The PBM writes these five definitions, and your contract should redefine them. The leverage is in the four terms past the first.
+It is called a copay maximizer. Here is the move. A manufacturer copay card is supposed to lower your member's cost and count toward their deductible. The maximizer reclassifies the drug as a "non-essential health benefit," which is the exact step that removes the ACA out-of-pocket cap from that drug. Cap gone, the program sets the member's cost-share to capture the maximum the card pays all year, and routes that value to the PBM or its vendor instead of the member.
 
-1. **Preferred network.** A subset the PBM shapes by reimbursement terms, not member access.
-2. **Broad network.** The highest-cost configuration with the least PBM leverage.
-3. **Network guarantee.** Applies only to specified channels and categories. Carve-outs are common.
-4. **Mandatory mail.** A volume-steering mechanism that benefits the PBM-owned pharmacy.
-5. **Network exclusion list.** Moves revenue. Excluded pharmacies are usually the ones that rejected the PBM's terms.
+I review hundreds of PBM and benefit-program contracts a year at Prescription Benefit Solutions. The maximizer rarely arrives labeled "maximizer." It shows up as "specialty copay optimization" or a "copay savings program," and it is one of the most quietly bolted-on structures we find.
 
-Save this for your next quarterly review.
+In one manufacturer's litigation against a maximizer vendor, the same drug's copay assistance ran far higher for enrolled members than for unenrolled ones, with nine figures of alleged overpayment. The dollars are real. They are just not flowing where the plan thinks.
 
-#PBMContracts #PharmacyNetwork #SelfFundedEmployers
+The savings headline says one thing. The deductible meter never moves. Ask one question: is a copay maximizer or "copay optimization" program running on our specialty drugs, and which entity keeps the assistance?
+
+#CopayCards #SpecialtyPharmacy #EmployeeBenefits
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on actual network configuration vs. contract design (fill distribution by channel, network exclusion log review, guarantee performance vs. minimum). Plus a paste-ready Pharmacy Network Configuration Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on to this post: the three checks a self-funded plan runs to find out whether a copay maximizer is bolted onto its own plan, what to ask in writing, and which specialty drugs were reclassified as non-essential. Plus the Copay Card Financial Impact Calculator that models exactly what the program drains, step by step. [SUBSTACK FIELD NOTE URL] · rxbs.org/toolkit/copay-card-calculator
 ```
+
+#### Thursday Excellence Audit (all 5 components, required before ship)
+
+- **(1) Format:** messy-infographic photoreal single image, 1080 x 1350 px (spec below). ✓
+- **(2) Hook, confrontational + named-actor + shock-of-the-unknown:** first line reveals a hidden program that reclassifies a member's drug as "non-essential" to drain the copay card to the PBM. Names the PBM/vendor as actor, the member and plan as victims, and delivers the unknown structural fact as a shock. ✓
+- **(3) Proprietary anchor:** "I review hundreds of PBM and benefit-program contracts a year at Prescription Benefit Solutions... one of the most quietly bolted-on structures we find." Unfakeable. ✓
+- **(4) First comment names the same-day Field Note specifically:** names the three checks, the written-ask, the reclassified-drug ask, and the Copay Card Financial Impact Calculator by name, with cross-promo links. ✓
+- **(5) Field Note exclusively supports this concept:** PART 1B is retargeted to the same copay-maximizer reveal (same program, deeper application, three operational checks). ✓
+- **Winning-profile traits hit (5+):** decoder-shape (the hidden mechanic), named-actor framing, plan-sponsor-actionable, confrontational/shock hook, messy-infographic photoreal aesthetic, first-comment Substack cross-promo, proprietary anchor, save-driven structure, single-image photoreal. 9 of 10.
+- **Shocking-fact weave:** sourced fact from `shocking_fact_bank.md` #5 (copay maximizer "non-essential health benefit" reclassification; J&J v. SaveOnSP), woven with the PBS anchor. No fabricated figures (the litigation magnitude is stated qualitatively per the no-fabricated-statistics rule).
 
 #### Messy Infographic Concept
 
-**Format:** Single LinkedIn feed image, photorealistic hand-written note style.
+**Format:** Single LinkedIn feed image, photorealistic marked-up document style. From Ginny's personal profile, so no Benefit Blind Spots badge.
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** Composition notebook (black and white marbled cover), pencil.
+**Mobile legibility (mandatory):** at most 5 labeled elements, large bold type, the reveal payload dominating the center ~70% of the frame, readable at ~400px thumbnail.
+
+**Setting:** A real-looking benefit-program enrollment / specialty copay document on a desk, with a red marker exposing the mechanic.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open composition notebook with the classic black and white marbled cover rests on a weathered wood desk. The visible page has faint blue horizontal rule lines and a red vertical margin line. A sharpened yellow #2 pencil rests diagonally across the upper-right corner of the page, with visible eraser shavings nearby. The page is filled with clean human handwriting in dark graphite pencil. No logos, no brand marks, no people, no text outside the notebook page.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single sheet of a benefits-program document titled in printed text "SPECIALTY COPAY OPTIMIZATION PROGRAM" rests on a weathered wood desk under soft natural daylight. A red felt-tip marker lies diagonally across the lower-right corner. The page has clean printed text with a few key lines exposed by bold red marker annotations in clear handwriting. No logos, no brand marks, no people.
 >
-> At the top of the page, in larger handwriting, dark pencil, double-underlined: 5 Network Contract Terms Decoded
+> Across the top, the printed program title is partly crossed out in red and re-labeled in large bold red handwriting: COPAY MAXIMIZER
 >
-> Five rows below the title. Each row shows a quoted term on the left, a short hand-drawn arrow, and a plain-English translation on the right, all in dark graphite pencil:
+> Below it, five short marked-up lines, each a printed phrase on the left with a bold red handwritten translation on the right, large enough to read on a phone:
 >
-> "Preferred network" → Shaped by reimbursement terms, not member access.
-> "Broad network" → Highest-cost configuration. Least PBM leverage.
-> "Network guarantee" → Applies only to channels and categories specified. Watch carve-outs.
-> "Mandatory mail" → Steers volume to the PBM's owned mail-order pharmacy.
-> "Network exclusion list" → Moves revenue. Excluded pharmacies rejected PBM terms.
+> 1. "Drug reclassified" -> NON-ESSENTIAL. Removes the out-of-pocket cap.
+> 2. "Copay assistance" -> Full year drained to the PBM.
+> 3. "Member deductible" -> Does not move. At all.
+> 4. "Program name" -> Rarely says "maximizer." Read the fine print.
+> 5. "Who keeps it" -> The PBM or its vendor. Not your plan.
 >
-> At the bottom of the page, inside a hand-drawn pencil rectangle: Your PBM wrote these definitions. Your contract should redefine them.
+> At the bottom, inside a hand-drawn red marker box in large handwriting: Is one bolted onto your plan right now?
 >
-> Style: realistic notebook paper texture, soft natural daylight, no harsh shadows. Slightly imperfect handwriting (uneven line spacing, faint eraser marks, occasional smudge) for authenticity. Colors: white notebook page, pale blue rule lines, red margin line, dark graphite pencil handwriting, black and white marbled cover edge, weathered wood desk.
+> Style: realistic paper texture, slight desk shadow, soft daylight. Slightly imperfect handwriting for authenticity. Colors: white document page, black printed text, bold red marker handwriting, weathered wood desk. The red marked-up lines are the visual payload and must dominate the center of the frame and be legible at thumbnail size.
 
-**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells any term or translation, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) in matching graphite tone.
+**Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile):**
+1. If the AI misspells any phrase or translation, overlay the correct text in a bold handwritten red font (Permanent Marker, Caveat) matching the marker tone.
 2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Export as PNG at 1080 x 1350.
+3. Run the mobile legibility check: preview at ~400px wide; enlarge anything hard to read; confirm the title and all five red translations are readable at thumbnail.
+4. Export as PNG at 1080 x 1350.
 
 ---
 
 ## Post 107 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 49 words
 
 #### Reshare Copy
 
 ```
-Network design lives in five contract terms most plan sponsors never read. Membership scope, preferred-pharmacy designation, exclusion criteria, mail-order economics, and out-of-network reimbursement each shape where members fill and what the plan pays.
+There is a program that reclassifies your employee's specialty drug as "non-essential" so the out-of-pocket cap disappears, then drains the manufacturer's full copay assistance back to the PBM. The deductible never moves. It is called a copay maximizer.
 
-Ginny Crisp decodes the five terms.
+Ginny Crisp reveals the mechanic, and how to find one on your plan.
 
-#PBMContracts #NetworkDesign #PharmacyBenefits
+#CopayCards #PlanSponsors #EmployeeBenefits
 ```
 
 ---
@@ -1036,7 +1018,7 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
 - [ ] Tuesday: Post 105 Sticky Note Dashboard Messy Infographic 10:00 AM + Reshare
 - [ ] Wednesday: Post 106 Text 10:00 AM
-- [ ] Thursday: Field Note 7:30 AM, Post 107 Carousel 10:00 AM + Reshare
+- [ ] Thursday: Field Note 7:30 AM (Copay Maximizer reveal), Post 107 Copay Maximizer Messy Infographic 10:00 AM + Reshare. **Thursday Excellence audit (5/5) cleared in the Post 107 block before ship.**
 - [ ] Friday: Post 108 Tease 10:00 AM
 - [ ] Daily Substack Notes
 
@@ -1047,7 +1029,7 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 105 Sticky Note Dashboard Messy Infographic | 1080x1350 | "The Audit Right Most Self-Funded Plans Never Exercise" — corkboard of 6 sticky notes summarizing audit-right findings from ~100 contract reviews, PBM Contract Insights pillar |
-| Post 107 Network Terms Decoded (Marked-Up Notebook Messy Infographic) | 1080x1350 | "5 Network Contract Terms Decoded" — Slot A, PBM Contract Insights pillar |
+| Post 107 Copay Maximizer reveal (Marked-Up Document Messy Infographic) | 1080x1350 | "Copay Maximizer: the program that reclassifies your member's drug as non-essential" — Slot A reach post, Cost Containment / copay-programs pillar. Shocking hidden-structure reveal. |
 | In-Article Visual: Rebate Model Comparison (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Substack header | 2240x1260 | [ ] |
 | Field Note header | 1200x600 | [ ] |
@@ -1060,7 +1042,7 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 |------|------------|----------|----------|-------|
 | Post 105 (Tue Messy Info) | | | | |
 | Post 106 (Wed Text) | | | | |
-| Post 107 (Thu Carousel) | | | | |
+| Post 107 (Thu Copay Maximizer Messy Info) | | | | |
 | Post 108 (Fri Tease) | | | | |
 
 ---

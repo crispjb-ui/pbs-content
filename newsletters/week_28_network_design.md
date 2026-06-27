@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (timeline had drifted: the Thursday Field Note and post that actually shipped are GER-focused, "Auditing Your Generic Effective Rate Against the Guarantee" plus "5 GER Terms Decoded," not the Mail-Order Economics drafts, which were displaced to the backlog under the triple-distinct rule)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Rebuilt June 2026 (this pass):** the Thursday reach post was reshaped from the weak "5 GER Terms Decoded" vocabulary decoder into the GENERIC-SPREAD hidden-structure reveal, "A generic that costs the pharmacy 12 cents. Your plan paid $9." (vocabulary decoders top out ~4-5K in the summer trough; this hidden-structure reveal shape clears 15-18K organic and ties to the top-3 all-time "generics cost pennies, plans pay dollars" shape). The same-day Field Note was retargeted to exclusively support the generic-spread / GER-averaging concept. The decoded GER terms survive as supporting detail inside the new post and Field Note; no standalone decoder ships._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -33,10 +33,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 15 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 7:00 PM | X | question [A6] | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 8:30 PM | X | aphorism [C4] | PART 4B · Wed | [ ] |
-| Thu Jul 16 | 7:30 AM | Substack | Field Note: "Auditing Your Generic Effective Rate Against the Guarantee" | PART 1B | [ ] |
+| Thu Jul 16 | 7:30 AM | Substack | Field Note: "The 12-Cent Generic Your Plan Paid $9 For" | PART 1B | [ ] |
 | Thu Jul 16 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 16 | 10:00 AM | LI Feed | Post 103 — "5 GER Terms Decoded" (Chart-on-Whiteboard messy infographic) | Post 103 | [ ] |
-| Thu Jul 16 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: GER decoder]` | PART 4B · Thu | [ ] |
+| Thu Jul 16 | 10:00 AM | LI Feed | Post 103 — "A generic that cost the pharmacy 12 cents. Your plan paid $9." (generic-spread hidden-structure REVEAL, Marked-Up Claim messy infographic) | Post 103 | [ ] |
+| Thu Jul 16 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: 12-cent generic claim]` | PART 4B · Thu | [ ] |
 | Thu Jul 16 | 1:30 PM | LI Company | Reshare of Post 103 | Post 103 Reshare | [ ] |
 | Thu Jul 16 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Jul 16 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
@@ -248,58 +248,56 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your Generic Effective Rate Against the Guarantee
+## The 12-Cent Generic Your Plan Paid $9 For
 
-**Display Title:** Auditing Your Generic Effective Rate Against the Guarantee
-**SEO Title (AEO):** How Do You Audit a Generic Effective Rate (GER) Against the PBM Guarantee? (Three Passes)
-**SEO Subtitle:** Three audit passes plan sponsors can run to verify actual GER against the contracted guarantee and find the remediation trigger
+**Display Title:** The 12-Cent Generic Your Plan Paid $9 For
+**SEO Title (AEO):** Why Does a Generic Drug Cost Pennies to Make but Dollars on Your Plan? (How the GER Average Hides the Spread)
+**SEO Subtitle:** How the blended generic effective rate average is engineered to hide which individual claims carry the spread, and the three passes that surface it
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 16, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
+**Length:** ~620 words (~3 min read)
 **Tone:** Practical, tactical
 **Pillar:** PBM Contract Insights
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 Generic Effective Rate Terms Decoded" Marked-Up Contract Page messy infographic. LinkedIn post decodes the GER calculation vocabulary; Field Note is the operational follow-on for auditing actual GER performance against the contracted guarantee.
-**Why this pairing (not the displaced "Mail Order Economics" draft):** Architecture B triple-distinct topic rule — Monday W28 is Network Design (the channel mix decision); Thursday is Generic Effective Rate (the pricing performance metric that channel mix drives). Adjacent within PBM Contract Insights pillar, different subject matter (channel design vs. GER guarantee mechanics). Original "Mail Order Economics" Field Note parked as FN-11.
+**Pairs with:** Thursday LinkedIn "A generic that cost the pharmacy 12 cents. Your plan paid $9." Marked-Up Generic Claim messy infographic (generic-spread hidden-structure reveal). The LinkedIn post lands the reveal: the same actor sets both the pharmacy's acquisition price and your plan's reimbursement, and the blended GER average is built to hide which claims carry the spread. This Field Note is the operational follow-on: the three passes that pull the hidden per-claim distribution out from behind the average.
+**Why this pairing (triple-distinct):** Monday W28 is Network Design (the channel mix decision); Thursday is the generic spread / GER averaging trick (the per-claim margin the channel mix routes). Adjacent within PBM Contract Insights pillar, different subject matter (channel design vs. how the blended generic average conceals the spread). The displaced "Mail Order Economics" Field Note remains parked as FN-11 in `field_note_backlog.md`.
 
 ---
 
 ### Field Note Body
 
-**To audit your generic effective rate against the PBM guarantee, run three passes: pull the actual GER from your claims data and confirm the formula matches the contract's GER methodology clause, calculate the gap between actual GER and the guaranteed rate, and check the exclusion list against your top generic claims, because a miss against the guarantee triggers the contract's remediation clause only once the plan sponsor calculates the comparison.**
+**The reason a generic that costs the pharmacy pennies can cost your plan dollars is that the same party sets both numbers and reports them to you as a single blended average, the generic effective rate, which is engineered to hit the contract guarantee in aggregate while individual high-volume claims quietly carry the spread, so the only way to see which claims are bleeding is to pull the per-claim distribution out from behind the average yourself.**
 
-This morning's LinkedIn post decoded the five terms PBMs use to define the generic effective rate (GER): GER calculation methodology, exclusion list, multi-source vs. single-source generic treatment, MAC list update frequency, and remediation language. Today is the operational follow-on. You have the vocabulary. Here is how to audit your plan's actual GER against the contracted guarantee.
+This morning's LinkedIn post made the reveal concrete. A generic that costs the pharmacy 12 cents. Your plan paid 9 dollars. The PBM set both numbers and kept the difference. (Illustrative figures, but the structure is real, and it is in most contracts we read.) Today is the operational follow-on: how the blended generic effective rate (GER) hides that spread, and the three passes that surface it.
 
-We run GER audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
+We reconcile generic effective rate guarantees against the contract methodology for plan sponsors as a standard part of our work at Prescription Benefit Solutions. The pattern across hundreds of reviews a year is consistent: the report shows you an average that clears the guarantee, and the average is exactly what hides the claims that don't.
 
-**Pass one: pull the actual GER from your claims data**
+**Why the average is the trick**
 
-Open your most recent quarterly report. Find the GER calculation. Verify the formula matches the contract's GER methodology clause: usually total generic ingredient cost as a percentage discount off AWP, with specific exclusions named.
+A generic effective rate guarantee promises an average discount off AWP across your generic book. The PBM hits that average by deep-discounting drugs almost nobody fills and marking up the ones everybody does. The blended number clears the guarantee. The individual high-volume claims, the 12-cent acquisition cost billed to your plan at 9 dollars, sit inside the average where the summary report never shows them. The guarantee is real. The savings are an average that does not match your invoice.
 
-If the report's GER number is calculated differently than the contract methodology — different exclusion list, different denominator, different time window — the reported number is not the contracted number. PBMs sometimes report a GER under a methodology more favorable than the contracted methodology. The variance can be material.
+**Pass one: get below the average**
 
-**Pass two: compare actual GER to the guarantee**
+Open your most recent quarterly report. Find the GER. Then request the claim-level generic detail, not the blended summary. Verify the report formula matches the contract's GER methodology clause: total generic ingredient cost as a percentage discount off AWP, with named exclusions. A different exclusion list, denominator, or time window means the reported number is not the contracted number.
 
-Your contract names a GER guarantee. Calculate the gap between actual GER and guarantee. If actual is meeting or exceeding guarantee, document and move on. If actual is below guarantee, the contract typically requires remediation. Many PBMs do not flag GER misses on their own; the plan sponsor has to find the gap.
+**Pass two: find the spread on the high-volume claims**
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: GER guarantee misses go unreconciled on most plans because the plan sponsor never calculates the comparison. The remediation clause is in the contract; the trigger is the audit.
+Sort your top 25 generic claims by fill count. For each, compare the plan's per-unit reimbursement against a public acquisition benchmark (NADAC is published; it is what pharmacies actually pay). Where reimbursement runs far above NADAC on a high-volume generic, that is the 12-cents-to-9-dollars claim hiding inside your blended average. One claim does not move the average. A few hundred fills of it do.
 
-**Pass three: audit the exclusion list**
+**Pass three: check what the exclusion list quietly carved out**
 
-Open the GER methodology clause and find the exclusion list — drugs or categories excluded from the GER calculation. Common exclusions: limited-distribution drugs, specialty generics, single-source generics, drugs without competitive alternatives, drugs added to the formulary mid-year.
-
-Compare the exclusion list to your top 25 generic claims. If high-volume generics are sitting in the exclusion list, the contracted GER guarantee applies to a smaller and smaller portion of your actual generic spend over time. The drift is usually invisible until audited.
+Open the GER methodology clause and read the exclusion list: single-source generics, specialty generics, limited-distribution drugs, mid-year additions. Compare it to your top generic claims. If high-volume generics sit in the exclusion list, the guarantee covers a shrinking slice of your real generic spend, and the spread lives in the carve-out. The drift is invisible until audited.
 
 **What to do this quarter**
 
 Run the three passes with our [Generic Effective Rate (GER) Audit Worksheet](https://www.rxbs.org/toolkit/ger-audit), the printable companion to this field note.
 
-> **Pull the GER calculation methodology clause and the actual GER from your quarterly report.** Verify the formulas match.
-> **Calculate the gap between actual GER and guarantee.** Document any miss with the date range and dollar magnitude.
-> **Audit the exclusion list against your top 25 generic claims.** Identify drift.
+> **Request claim-level generic detail, not the blended GER.** Verify the report formula matches the contract methodology clause.
+> **Sort your top 25 generics by fill count and compare reimbursement to NADAC.** Flag the high-volume claims billed far above acquisition cost.
+> **Audit the exclusion list against your top generic claims.** Find where the guarantee was quietly carved away from your real spend.
 
-The decoded vocabulary tells you how GER is supposed to work. The audit tells you what your plan is actually getting. The remediation clause is how the gap closes.
+The average is the contract. The per-claim distribution is the truth. The gap between them is the leverage, and the remediation clause is how it closes. (Illustrative example for educational purposes. Actual amounts vary by plan.)
 
 ---
 
@@ -311,11 +309,11 @@ The decoded vocabulary tells you how GER is supposed to work. The audit tells yo
 
 ### Field Note Meta
 
-**SEO Title:** Auditing Your Generic Effective Rate Against the Guarantee | Benefit Blind Spots
-**SEO Title (AEO):** How Do You Audit a Generic Effective Rate (GER) Against the PBM Guarantee? (Three Passes)
-**SEO URL Slug:** audit-generic-effective-rate-guarantee
-**Meta Description:** Five GER terms decoded this morning. Three audit passes plan sponsors can run on the contract's GER methodology, the pattern PBS sees most often, and the remediation lever.
-**Tags:** generic effective rate, GER guarantee, AWP discount, MAC list, PBM contracts, exclusion list, self-funded employers
+**SEO Title:** The 12-Cent Generic Your Plan Paid $9 For | Benefit Blind Spots
+**SEO Title (AEO):** Why Does a Generic Drug Cost Pennies to Make but Dollars on Your Plan? (How the GER Average Hides the Spread)
+**SEO URL Slug:** generic-spread-ger-average-hides
+**Meta Description:** Generics cost pennies; plans pay dollars. The blended generic effective rate average is built to hide which claims carry the spread. Three passes that pull the per-claim distribution out from behind it.
+**Tags:** generic spread, generic effective rate, GER guarantee, NADAC, AWP discount, PBM contracts, self-funded employers
 
 ---
 
@@ -326,7 +324,7 @@ The decoded vocabulary tells you how GER is supposed to work. The audit tells yo
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: two flat-design percentage gauges in Primary Blue (#015880) outline, side-by-side, one labeled "GUARANTEE" (left) at a fixed position and one labeled "ACTUAL" (right) at a slightly lower position. Each gauge shows a percentage value rendered in Plex Mono Medium tabular figures (placeholder values, e.g., "85%" left and "82%" right). A bold horizontal Accent Blue (#A7E0FA) double-headed arrow runs between the two gauges, suggesting comparison. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the gap between them. Three numbered tick marks in Accent Blue (#A7E0FA) below the gauges, suggesting three audit passes. Below the composition, a two-tone centered headline: "Actual." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Guaranteed." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below, with a small em-rule between them suggesting subtraction. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One remediation clause." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: two flat-design price tags in Primary Blue (#015880) outline, side-by-side. The left tag is small and labeled "PHARMACY PAID" with the value "$0.12" rendered in Plex Mono Medium tabular figures. The right tag is much larger and labeled "YOUR PLAN PAID" with the value "$9.00" rendered in Plex Mono Medium tabular figures, the larger tag filled Accent Blue (#A7E0FA) to draw the eye. A bold Accent Blue (#A7E0FA) bracket spans the space between the two tags with a small label "THE SPREAD" beneath it. Behind both tags, faint and oversized, a flat-design bell-curve / distribution arc in light Gray (#4D4D4D) outline, with one point on the curve circled in Accent Blue, suggesting a single claim hidden inside an average. Below the composition, a two-tone centered headline: "12 cents." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Nine dollars." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "How the blended average hides the spread." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -358,8 +356,8 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `GER is one specific contract guarantee. PBM Compensation is the full map of how the PBM is paid (including the streams that distort how GER is calculated). The five streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) explain why GER variance is rarely a math error and almost always a methodology design. Together they pair as one guarantee and the full economics that shape it.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `field_note_title` | `The 12-Cent Generic Your Plan Paid $9 For` |
+| `field_note_url` | `[fill after Thursday Field Note publishes — slug generic-spread-ger-average-hides]` |
 
 ### Wix build checklist
 
@@ -373,7 +371,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 
 ### Pairing rationale
 
-PBM Compensation universal anchor for single-mechanic audits. Channel Pricing Field Note covers a similar single-mechanic audit framework.
+The GER Audit Worksheet is the printable companion to the Thursday generic-spread reveal: it operationalizes the three passes that pull the per-claim spread out from behind the blended generic effective rate average. PBM Compensation is the universal "zoom out" second toolkit for single-mechanic audits: GER is one guarantee; PBM Compensation maps the five revenue streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) that explain why the generic average is engineered the way it is.
 
 ---
 
@@ -622,101 +620,105 @@ This week's Benefit Blind Spots deep dive on pharmacy network design is the oper
 
 _The Network Channel Comparison visual was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Network Channel Comparison). The live Thursday post is below._
 
-### Thursday Excellence Slot - 5 GER Terms Decoded — Chart-on-Whiteboard Messy Infographic
+### Thursday Excellence Slot - "A generic that cost the pharmacy 12 cents. Your plan paid $9." — Generic-Spread Hidden-Structure REVEAL (Marked-Up Generic Claim messy infographic)
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Mail-Order Economics" shipping-box carousel. Displaced under Architecture B (mail-order economics matched Monday Network Design topic family) and replaced with 5 Generic Effective Rate (GER) Terms Decoded that pairs with W28 Field Note "Auditing Your Generic Effective Rate Against the Guarantee." Format: Chart-on-Whiteboard messy infographic — GER calculation math fits naturally on a whiteboard with handwritten percentages, gap-visualization arrows, and audit annotations. Original Slot C 5-Questions shipping-box carousel content preserved in `evergreen_visual_backlog.md` as concept #30.
+> **NOTE (June 2026 rebuild):** This Thursday slot previously shipped "5 GER Terms Decoded" as a Chart-on-Whiteboard vocabulary decoder. Vocabulary decoders top out ~4-5K impressions in the summer trough; the genuinely-unknown hidden-structure reveal shape clears 15-18K organic and ties to the top-3 all-time PBS post ("generics cost pennies, plans pay dollars," ~39K). Per the CLAUDE.md Thursday Excellence rule and the "best-kept secret / shocking-unknown-fact" pattern, the slot was reshaped into the GENERIC-SPREAD reveal: a generic costs the pharmacy pennies, your plan pays dollars, and the blended generic effective rate (GER) average is engineered to hide which individual claims carry the spread. The five decoded GER terms survive below as supporting detail inside the reveal (the average is the trick, the five terms are how the trick is built) so no content is lost and no standalone decoder ships. Sourced shocking fact woven in: FTC Second Interim Staff Report (Jan 2025) found the big-3 PBMs reimbursed their own affiliated pharmacies as much as 100 percent more than independents for the identical generic (`shocking_fact_bank.md` entry 3, mapped to W28). Earlier "5 Questions About Mail-Order Economics" Slot C carousel remains preserved in `evergreen_visual_backlog.md` as concept #30; the displaced Mail-Order Economics Field Note remains FN-11 in `field_note_backlog.md`.
 
-**Format:** Single messy infographic, Chart-on-Whiteboard aesthetic (whiteboard with handwritten GER chart + red-pen audit annotations). 1080 x 1350 px.
+**Format:** Single messy infographic, Marked-Up Generic Claim photoreal aesthetic (a printed pharmacy claim / adjudication line with red-pen annotations exposing the spread). 1080 x 1350 px. Apply the mobile-feed legibility rule.
 **Pillar:** PBM Contract Insights
-**Field Note pairing:** Same-day Substack Field Note "Auditing Your Generic Effective Rate Against the Guarantee."
-**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "GER Audit Worksheet" — `templates/documents/week_28_thursday_ger_audit_worksheet.html/.pdf`.
+**Field Note pairing:** Same-day Substack Field Note "The 12-Cent Generic Your Plan Paid $9 For" exclusively supports this reveal (the three passes that pull the per-claim spread out from behind the blended GER average).
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "GER Audit Worksheet" (`templates/documents/week_28_thursday_ger_audit_worksheet.html/.pdf`).
 
-**Winning-profile traits hit (10 of 10):** decoder shape · dollar-comparison shape (actual vs. guarantee gap rendered visually) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Chart-on-Whiteboard variant) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
+**Thursday Excellence 5-trait audit (all required, all hit):**
+- **(1) Format = messy infographic, photoreal.** Marked-Up Generic Claim (printed adjudication line on a desk, red-pen annotations). Single image 1080 x 1350. ✓
+- **(2) Hook = confrontational, named-actor.** "A generic that cost the pharmacy 12 cents. Your plan paid $9. The PBM set both numbers and kept the difference." Names the PBM as the actor setting both prices; names the plan as the payer. ✓
+- **(3) Proprietary anchor.** "We reconcile generic guarantees against the contract methodology for plan sponsors as a standard part of our work; across hundreds of contract reviews a year, the report shows a blended average that clears the guarantee, and the average is exactly what hides the claims that don't." Unfakeable PBS specificity. ✓
+- **(4) First comment names the same-day Field Note specifically + cross-promo link + toolkit.** Names the three passes and the GER Audit Worksheet by asset. ✓
+- **(5) Field Note exclusively supports this concept.** PART 1B "The 12-Cent Generic Your Plan Paid $9 For" is the operational follow-on for the identical generic-spread / GER-average reveal; no off-theme dilution. ✓
+
+**Winning-profile traits hit (9 of 10):** dollar-comparison shape (12 cents vs. $9, the proven ~39K shape) · named-actor framing (PBM sets both prices) · plan-sponsor-actionable · confrontational hook · messy infographic photoreal format · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic. (Decoder shape folded in as the supporting "how the trick is built" layer rather than the lead.)
 
 #### Post Copy
 
 ```
-Same generic. Your PBM pays its own pharmacy up to twice what it pays the independent down the street, then its routing rules make sure the script lands at the one it owns. The FTC found the big-3 PBMs reimbursed their affiliated pharmacies as much as 100 percent more than independents for the identical drug. Your generic effective rate guarantee is supposed to be the check on exactly that spread. Five terms decide whether it actually applies to your plan's generic spend. The PBM controls four of them.
+A generic that cost the pharmacy 12 cents. Your plan paid $9. The PBM set both numbers and kept the difference.
 
-We reconcile these guarantees against the contract methodology for plan sponsors every quarter at PBS. The GER number on the quarterly report is rarely calculated against the same methodology the contract guarantee names. The variance is rarely flagged by the PBM. The remediation is in the contract; the trigger is the audit.
+(Those figures are illustrative. The structure is not. It is in most contracts we read.)
 
-Five terms to know:
+Here is the part nobody shows you. A generic drug costs pennies to manufacture. Your plan pays dollars. And the one number on your report that is supposed to prove you got a fair deal, the generic effective rate, is the number engineered to hide which claims carry the spread.
 
-1. **GER Calculation Methodology.** How GER is computed: usually a percentage discount off AWP on generic ingredient cost. The denominator and the time window are the leverage points. The PBM's report formula and the contract's definition often differ.
+The generic effective rate is a blended average. Your PBM promises an average discount off AWP across your whole generic book. It hits that average by deep-discounting drugs almost nobody fills and marking up the ones everybody does. The blend clears the guarantee. The 12-cents-to-$9 claims sit inside the average, where the summary report never breaks them out. The guarantee is real. The savings are an average that does not match your invoice.
 
-2. **Exclusion List.** Drugs or categories excluded from the GER calculation: limited-distribution generics, single-source generics, drugs added mid-year, specialty generics. Drift in the exclusion list shrinks the contracted guarantee's coverage over time.
+This is not a theory about pricing. The FTC, on the record in its January 2025 staff report, found the big-3 PBMs reimbursed their own affiliated pharmacies as much as 100 percent more than independents for the identical generic, and steered the highest-markup scripts to the pharmacies they own.
 
-3. **Multi-Source vs. Single-Source Treatment.** Whether single-source generics (no competitive alternative) are scored against the same guarantee as multi-source generics. Single-source is where margin lives; carving them out of the guarantee is common.
+We reconcile these generic guarantees against the contract methodology for plan sponsors as a standard part of our work at Prescription Benefit Solutions. Across hundreds of contract reviews a year, the report shows a blended average that clears the guarantee, and the average is exactly what hides the claims that don't.
 
-4. **MAC List Update Frequency.** How often the PBM updates the Maximum Allowable Cost list that drives generic reimbursement. Weekly is contractually common; the workflow update can lag, and the lag favors the PBM.
+Five terms decide whether the spread stays hidden. The PBM controls four of them:
 
-5. **Remediation Language.** What happens when actual GER falls below the guarantee: cash true-up, credit against next-year fees, or PBM "remediation" left undefined. Undefined remediation is functionally no remediation.
+1. GER calculation methodology. The report formula and the contract's definition often differ. The denominator and time window are where the blend is built.
 
-The GER guarantee is the contract. The actual GER is the audit. The gap is the leverage.
+2. Exclusion list. Which generics are carved OUT of the guarantee. Drift here shrinks the guarantee's coverage of your real spend.
+
+3. Multi-source vs. single-source treatment. Single-source generics are where margin lives. Carving them out of the guarantee is common.
+
+4. MAC list update frequency. Weekly per most contracts. The workflow lag favors the PBM.
+
+5. Remediation language. Cash true-up, fee credit, or "TBD." Undefined remediation is functionally no remediation.
+
+The blended average is the contract. The per-claim distribution is the truth. The gap between them is the leverage.
 
 Save this for your next quarterly review.
 
-#PBMContracts #GenericEffectiveRate #SelfFundedEmployers
+#PBMContracts #GenericPricing #SelfFundedEmployers
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the actual GER vs. the contracted guarantee (formula verification, gap calculation, exclusion list audit). Plus a paste-ready GER Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots, "The 12-Cent Generic Your Plan Paid $9 For," is the operational follow-on: three passes that pull the per-claim spread out from behind the blended average. Pass one, request claim-level generic detail instead of the blended GER and match the report formula to the contract. Pass two, sort your top 25 generics by fill count and compare reimbursement against NADAC, the public acquisition benchmark. Pass three, audit the exclusion list for what got quietly carved out. Plus a paste-ready GER Audit Worksheet you can hand your broker: rxbs.org/toolkit/ger-audit
+
+[SUBSTACK FIELD NOTE URL — slug generic-spread-ger-average-hides, paste after Thu 7:30 AM publish]
 ```
 
-#### Chart-on-Whiteboard Image Generation Prompt
+#### Marked-Up Generic Claim Image Generation Prompt
 
-> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A clean white office whiteboard fills the frame, slightly off-axis (1-2 degrees), faint board-marker residue visible on the surface from prior writing partially erased. Soft natural overhead daylight, no harsh shadows. A black dry-erase marker rests in the bottom-left tray of the whiteboard.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single printed pharmacy claim / adjudication line for one generic drug rests on a dark wood desk, lit by soft natural daylight, no harsh shadows. A red uncapped ballpoint pen lies in the lower-right corner. CRITICAL: this is read in the LinkedIn mobile feed, so the red callouts must DOMINATE the frame and be large and legible. Keep the printed claim's fine print minimal so it never competes with the callouts. No logos, no brand marks, no people, no real names, no PBM names.
 >
-> The whiteboard contains a hand-drawn chart and five hand-written audit notes:
+> Stamped across the top in large red-pen handwriting, double-underlined: The Generic Spread, Decoded
 >
-> At the top of the whiteboard, in larger black-marker handwriting, double-underlined: "GER · Actual vs. Guarantee"
+> The printed claim shows, in clean type, a single generic drug line with three values stacked and clearly labeled: "PHARMACY ACQUISITION COST: $0.12" / "PLAN PAID (REIMBURSEMENT): $9.00" / "GENERIC EFFECTIVE RATE (BLENDED): meets guarantee". The dollar figures are large enough to read at thumbnail size.
 >
-> Below the title, a hand-drawn horizontal bar chart with two bars side-by-side, each roughly 280 pixels wide. The left bar is labeled "GUARANTEE" in black marker and extends to a clean horizontal mark at "85%" (rendered in marker tabular figures). The right bar is labeled "ACTUAL" in black marker and extends to a slightly shorter mark at "82%". The space between the two bar tops is shaded in red-marker hatching with a hand-drawn red-marker arrow pointing into the gap, labeled in red: "GAP = remediation owed."
+> Three elements on the claim are circled in red pen, each with a red arrow to a LARGE, high-contrast, bright-red handwritten margin note (well spaced, never thin or cramped):
+> 1. circle the $0.12 and the $9.00 together with one bracket -> "Same PBM set both numbers. Kept the difference."
+> 2. circle "GENERIC EFFECTIVE RATE (BLENDED): meets guarantee" -> "The average clears. This claim hides inside it."
+> 3. a small hand-drawn bell-curve in the margin with one point circled -> "Deep-discount the drugs nobody fills. Mark up the ones everybody does."
 >
-> Below the chart, five hand-written term annotations in black marker, each numbered and underlined:
+> At the bottom, inside a bold hand-drawn red rectangle in large legible red text: Pennies to make. Dollars to your plan. The average is the trick.
 >
-> 1. "GER methodology: contract formula vs. report formula"
-> 2. "Exclusion list: which generics are NOT in the guarantee"
-> 3. "Multi-source vs. single-source treatment"
-> 4. "MAC update frequency: weekly per contract"
-> 5. "Remediation language: cash true-up or 'TBD'?"
->
-> Five red-marker audit annotations to the right of the term list, each connected by a short curved arrow:
-> - Arrow to term 1, red note: "Match the formulas first."
-> - Arrow to term 2, red note: "Drift = shrinking guarantee."
-> - Arrow to term 3, red note: "Single-source = margin."
-> - Arrow to term 4, red note: "Workflow lag favors PBM."
-> - Arrow to term 5, red note: "Undefined = no remedy."
->
-> At the bottom of the whiteboard, in smaller red-marker handwriting: "PBS reviews 100s of PBM contracts a year. The gap is rarely flagged by the PBM. The audit is how it gets flagged."
->
-> Style: realistic dry-erase whiteboard photography, soft natural daylight, slight glare in upper-right corner, faint surface texture and ghost-erase marks visible. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style with marker pressure variation) for authenticity. Colors: white whiteboard, black dry-erase marker for primary text, red dry-erase marker for audit annotations and the gap shading. No logos, no brand marks, no people, no PBM names.
+> Style: realistic off-white printed claim with minimal small print, soft natural daylight, a faint coffee-ring stain in one corner, bright red ballpoint ink with strong contrast, dark wood desk. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style). Any claim text beyond the three labeled values and the callouts is illustrative. No logos, no brand marks, no people, no PBM names.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px to verify legibility of the bar chart and five term annotations at mobile size
-3. If the bar chart percentages render unclearly, overlay clean tabular figures in Caveat / Permanent Marker font
-4. Verify the gap-arrow callout reads cleanly ("GAP = remediation owed") in feed thumbnail
-5. Verify the five term annotations render distinctly (most common AI failure: repeated text)
-6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
-7. Export as PNG at 1080 x 1350
+1. Generate the base image using the prompt above
+2. **Mobile-legibility pass first.** Preview at ~400px wide (or on a phone). Enlarge or overlay any callout, the "$0.12 / $9.00" values, or the title that is hard to read, in a large bold handwritten red font (Permanent Marker / Caveat / Kalam)
+3. Fix any AI misspellings or mangled dollar figures by overlaying the correct text in matching red (most common AI failure: garbled numbers and repeated callout text)
+4. Verify the "$0.12" and "$9.00" both read cleanly and the bracket connecting them is visible in feed thumbnail
+5. No "Benefit Blind Spots" badge, no PBS logo overlay — the image stands on its own
+6. Export as PNG at 1080 x 1350
 
 ---
 
 ## Post 103 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 48 words
+**Word Count:** 47 words
 
 #### Reshare Copy
 
 ```
-Generic Effective Rate is one number that hides five contract definitions. Reconciliation methodology, claim universe, dispensing channel inclusion, brand-to-generic timing, and guarantee remediation each move the gap between guaranteed and actual.
+A generic that cost the pharmacy pennies. Your plan paid dollars. The generic effective rate on your report is the one number engineered to hide which claims carry that spread, by blending them into an average.
 
-Ginny Crisp decodes the five GER terms.
+Ginny Crisp shows how the average hides the spread, and how to pull it back out.
 
-#PBMContracts #PharmacyCosts #PharmacyBenefits
+#PBMContracts #GenericPricing #PharmacyBenefits
 ```
 
 ---
@@ -792,7 +794,7 @@ A broker asked me why "boring" network design content landed so well with her CF
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: mail order economics. The assumption is that mail is always cheaper. Mostly true for brand maintenance drugs. Not always true for generics. We break down where the savings are real and where they are not.
+New field note: the 12-cent generic your plan paid $9 for. A generic costs the pharmacy pennies. Your plan pays dollars. The generic effective rate on your report is the one number engineered to hide which claims carry that spread. Three passes pull it back out.
 
 Read the field note: [LINK]
 
@@ -1064,9 +1066,9 @@ Ask your PBM for the audit clause and read who picks the auditor, who picks the 
 
 ## Content Schedule
 - [ ] Monday: Substack at 7:30 AM, Newsletter at 7:45 AM
-- [ ] Tuesday: Post 101 Funnel Clean Infographic at 10:00 AM + Comment + Reshare
+- [ ] Tuesday: Post 101 GLP-1 Bridge Messy Infographic at 10:00 AM + Comment + Reshare
 - [ ] Wednesday: Post 102 Text/Video at 10:00 AM
-- [ ] Thursday: Field Note at 7:30 AM, Post 103 Carousel at 10:00 AM + Reshare
+- [ ] Thursday: Field Note "The 12-Cent Generic Your Plan Paid $9 For" at 7:30 AM, Post 103 generic-spread reveal (Marked-Up Generic Claim messy infographic) at 10:00 AM + first comment + Reshare
 - [ ] Friday: Post 104 Tease at 10:00 AM
 - [ ] Daily Substack Notes
 - [ ] Continue 10:00 AM time test tracking
@@ -1078,11 +1080,11 @@ Ask your PBM for the audit clause and read who picks the auditor, who picks the 
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 101 Funnel Clean Infographic | Single image (1080x1350) | "Where 2026 Specialty Dollars Actually Go" — flat-design funnel with four specialty categories stacked inside, Clinical Pharmacy pillar |
-| Post 103 Whiteboard Carousel | 7 slides (1080x1350) | Template A - channel comparison |
-| Post 102 Video (optional) | Vertical, 50 sec | VIDEO TEST #2 |
-| Substack article header | 2240x1260 | [ ] Design needed |
-| Field Note header | 1200x600 | [ ] Design needed |
+| Post 101 GLP-1 Bridge Messy Infographic | Single image (1080x1350) | Photoreal marked-up Medicare GLP-1 Bridge PA form, four red callouts, news-pegged |
+| Post 103 Marked-Up Generic Claim Messy Infographic | Single image (1080x1350) | Generic-spread reveal: $0.12 vs $9.00 on one claim + "the average is the trick"; mobile-legibility pass mandatory on the dollar figures |
+| Post 102 Video | Vertical 9:16, ~50 sec | SHRM Honest HR clip4 (already rendered) |
+| Substack article header | 2240x1200 | [ ] Design needed |
+| Field Note header (12-cent / nine-dollar price tags) | 1200x600 (gen 2240x1260) | [ ] Design needed |
 
 ---
 
@@ -1092,9 +1094,9 @@ Ask your PBM for the audit clause and read who picks the auditor, who picks the 
 
 | Post | Impressions | Eng Rate | Comments | Saves |
 |------|------------|----------|----------|-------|
-| Post 101 (Tue Funnel Clean Infographic) | | | | |
-| Post 102 (Wed Text/Video) | | | | |
-| Post 103 (Thu Carousel) | | | | |
+| Post 101 (Tue GLP-1 Bridge Messy Infographic) | | | | |
+| Post 102 (Wed 9:16 Video) | | | | |
+| Post 103 (Thu Generic-Spread Reveal) | | | | |
 | Post 104 (Fri Tease) | | | | |
 
 ## Video Test #2 Results (if applicable)
