@@ -2,6 +2,14 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+## 🟧 BUILT-WEEK REACH-POST AUDIT (Jun 26, 2026) — Thursday slots default to vocabulary decoders; swap to shocking-fact reveals
+Audit of W26–W30 found all five default the **Thursday reach slot to a "5 X Terms Decoded" vocabulary decoder** (the ~4-5K summer shape), with the genuinely-shocking material on a lower-reach day or in the deep dive. Rule now encoded (`week_build_spec.md` §2). Per-week swap to execute (each ripples to its Field Note pairing per the Thursday Excellence rule):
+- **W26 (Formulary):** Thu "5 Step Therapy Override Terms Decoded" → reshape to a formulary **hidden-structure reveal** (manufacturers pay the PBM for EXCLUSIVE formulary placement, blocking cheaper biosimilars/competitors — a toll, not a discount). OR promote the in-week Tue "5 Manufacturer-Direct Payments Your PBM Doesn't Call Rebates" (already a Bypass/Funnel reveal) to Thursday, demote step-therapy to Tue. **Next to publish — do first.**
+- **W27 (PBM Evaluation):** Thu "5 PBM Compensation Terms Decoded" → reshape to the **named offshore rebate-aggregator reveal** (Ascent/CVS, Emisar/Cigna, Zinc/UNH take a cut before "100% pass-through"; May 2026 CVS suit + PA Act 77). Material already in the W27 deep dive. The canonical ~17.8K shape. Highest-value swap.
+- **W28 (Network Design):** Thu "5 GER Terms Decoded" → reshape to the **generic-spread hidden-structure reveal** ("generics cost pennies, your plan pays dollars; the blended GER average hides which claims carry the spread"). A proven top-3 all-time shape.
+- **W29 (Rebate Economics):** the offshore-aggregator reveal is already built but on **Wednesday**; Thu "5 Network Contract Terms Decoded" is a vocabulary decoder AND off-topic for a rebate week. **Swap:** move the offshore-aggregator reveal to the Thursday reach slot; demote/replace the network-terms decoder. Lowest-effort (slot swap).
+- **W30 (Site of Care):** Thu "5 Coordination of Benefits Terms Decoded" → reshape to a **site-of-care steering reveal** (white/brown bagging routes specialty margin to the PBM-owned pharmacy; site-of-care markup). On-topic hidden-structure reveal.
+
 ## 🟦 NEXT video priority (from `/log-metrics` Jun 26, 2026)
 - **Ship a clean 9:16 clip to test reach.** The first video read (a 4:5 Wednesday clip) hit ~94% completion (17s avg / 18s) — completion is proven for the short format. But 4:5 is main-feed only, so the **9:16 video-tab / non-follower reach lift is still untested.** The SHRM batch is built 9:16; running one as the next Wednesday video gives the clean reach data point. Track its video-tab reach + non-follower share specifically.
 
