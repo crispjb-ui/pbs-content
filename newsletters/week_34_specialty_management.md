@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (the Thursday slot is the live "5 Mid-Year Performance Guarantee Terms Decoded" Ledger Annotated messy infographic; the repurposed One Number Carousel now lives in PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content. **Thursday rebuild (this session):** the weak "5 Mid-Year Performance Guarantee Terms Decoded" vocabulary decoder was replaced with the shocking hidden-structure reveal "1 in 5 Specialty Generics, Marked Up Over 1,000%" (Marked-Up FTC Report messy infographic), cited to the FTC Second Interim Staff Report (Jan 2025). Vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough. The Field Note was retargeted to exclusively support the reveal; the displaced "Auditing Your Mid-Year Performance Guarantees" draft is noted for `field_note_backlog.md`. The repurposed One Number Carousel still lives in PART 1 as an In-Article Visual._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -33,12 +33,12 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Aug 26 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Aug 26 | 7:00 PM | X | question [A16] | PART 4B · Wed | [ ] |
 | Wed Aug 26 | 8:30 PM | X | aphorism [C2] | PART 4B · Wed | [ ] |
-| Thu Aug 27 | 7:30 AM | Substack | Field Note: "Auditing Your Mid-Year Performance Guarantees" | PART 1B | [ ] |
+| Thu Aug 27 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?" | PART 1B | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Monthly Q&A Thread #5: Pre-Renewal Strategy (last-Thursday thread) | PART 2B | [ ] |
 | Thu Aug 27 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 27 | 10:00 AM | LI Feed | Post 127 — "5 Mid-Year Performance Guarantee Terms Decoded" (Ledger Annotated messy infographic, Slot C) | Post 127 | [ ] |
+| Thu Aug 27 | 10:00 AM | LI Feed | Post 127 — "1 in 5 Specialty Generics, Marked Up Over 1,000%" (Marked-Up FTC Report messy infographic — shocking hidden-structure reveal) | Post 127 | [ ] |
 | Thu Aug 27 | 10:05 AM | LI Feed | Post 127 first comment | Post 127 | [ ] |
-| Thu Aug 27 | 12:00 PM | X | Thu-visual amplifier [VISUAL: Mid-Year Guarantee decoder] (after 10 AM) | PART 4B · Thu | [ ] |
+| Thu Aug 27 | 12:00 PM | X | Thu-visual amplifier [VISUAL: 1-in-5 specialty generic markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 1:30 PM | LI Company | Reshare of Post 127 | Post 127 Reshare | [ ] |
 | Thu Aug 27 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 27 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -221,59 +221,55 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your Mid-Year Performance Guarantees
+## Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 27, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
-**Pillar:** PBM Contract Insights
+**Length:** ~620 words (~3 min read)
+**Pillar:** Clinical Pharmacy Perspectives
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 Mid-Year Performance Guarantee Terms Decoded" Ledger Annotated messy infographic. LinkedIn post decodes the performance-guarantee vocabulary; Field Note is the operational follow-on for running the mid-year audit against the contract's named guarantees.
-**Why this pairing (not the displaced "Reauthorization Protocols" draft):** Architecture B triple-distinct topic rule — Monday W34 is Specialty Drug Management; Thursday is Mid-Year Performance Guarantee Audit (a contract-mechanics audit, not specialty-specific). Adjacent within PBM Contract Insights pillar, different subject matter. Original "Reauthorization Protocols" Field Note parked as FN-17.
+**Pairs with:** Thursday LinkedIn "1 in 5 Specialty Generics, Marked Up Over 1,000%" Marked-Up FTC Report messy infographic. The LinkedIn post drops the FTC fact; the Field Note is the operational follow-on that turns the fact into a routing audit a plan sponsor can run on its own claims.
+**Why this pairing (retargeted this session):** The Thursday slot was rebuilt from a vocabulary decoder ("5 Mid-Year Performance Guarantee Terms Decoded") into a shocking hidden-structure reveal (the FTC 1,000%-markup finding). The Field Note follows the LinkedIn post exactly: the reveal names the markup, the Field Note shows how to find it on your own specialty claims. Triple-distinct holds — Monday W34 = specialty management (8-lever assessment); Tuesday = clinical-program ROI verification; Thursday = the FTC specialty-generic markup at the PBM-owned pharmacy (different subject matter, adjacent pillar). The displaced "Auditing Your Mid-Year Performance Guarantees" draft is noted below for `field_note_backlog.md`.
 
-**Display Title:** Auditing Your Mid-Year Performance Guarantees
-**SEO Title (AEO):** How Do You Audit a PBM's Mid-Year Performance Guarantees?
-**SEO Subtitle:** Three audit passes that measure actual performance against contract thresholds and put the gap in writing before year-end
+**Display Title:** Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?
+**SEO Title (AEO):** How Do You Audit Specialty Generic Markups at a PBM-Owned Pharmacy?
+**SEO Subtitle:** Three claims passes that surface the FTC-documented markup on your own plan and turn it into renewal leverage
 
 ---
 
 ### Field Note Body
 
-**To audit a PBM's mid-year performance guarantees, pull every named guarantee and its threshold from the contract (GER, brand effective rate, dispensing fee, rebate per claim), recalculate actual mid-year performance from your H1 claims data using the contract's formula, classify each gap by its remediation type, and send the written gap notification to the PBM at mid-year rather than year-end; the guarantees without specified remediation are where the PBM keeps the difference without consequence.**
+**To find the markup the FTC documented, pull your specialty generic claims, sort by the pharmacy that filled them, flag the ones that ran through a pharmacy your PBM owns, and compare the amount your plan was billed against a public acquisition benchmark such as NADAC; the FTC found the big-3 PBMs marked up nearly two-thirds of specialty generics by more than 100 percent and more than one in five by over 1,000 percent at their own pharmacies, so the markup is most likely sitting on the scripts your PBM routed to itself.**
 
-This morning's LinkedIn post decoded the five terms PBMs use to define mid-year performance guarantees: GER guarantee, BER (brand effective rate) guarantee, dispensing-fee guarantee, rebate per-claim minimum, and performance-remediation language. Today is the operational follow-on. You have the vocabulary. Here is how to actually run the mid-year audit against the contract's named guarantees.
+This morning's LinkedIn post named the finding plainly. In its Second Interim Staff Report (January 2025), the Federal Trade Commission studied the specialty generic drugs the big-3 PBMs dispense at the pharmacies they own. Nearly two-thirds were marked up more than 100 percent above the drugs' estimated acquisition cost. More than one in five were marked up over 1,000 percent. One generic version of a cancer drug carried a 3,289 percent markup in a single year. Those markups generated about $7.3 billion above what the drugs cost the PBMs, plus another $1.4 billion from spread pricing. Not brand drugs. Generics. At the pharmacy the PBM owns.
 
-At Prescription Benefit Solutions, we run mid-year guarantee audits as a standard part of our work. Three comparison passes do most of the work. The companion [Mid-Year Performance Guarantee Audit Worksheet](https://www.rxbs.org/toolkit/midyear-guarantee-audit) runs the three passes line by line.
+Here is the part that turns a headline into a plan-level finding: the FTC also found that the scripts marked up more than $1,000 each were disproportionately routed to the PBM's own pharmacies. The markup and the routing are the same machine. At Prescription Benefit Solutions, we run this routing audit as a standard part of our specialty review. Three passes do most of the work, and the companion [Specialty Routing Audit Worksheet](https://www.rxbs.org/toolkit/specialty-routing) runs them line by line.
 
-**Pass one: pull each guarantee's actual mid-year performance**
+**Pass one: sort your specialty claims by filling pharmacy**
 
-Open your contract. List every named performance guarantee with its threshold (GER ≥ X%, BER ≥ Y%, dispensing fee ≤ $Z, rebate per claim ≥ $W, etc.).
+Pull a quarter of specialty claims and tag each by the pharmacy that filled it. Mark which pharmacies your PBM owns (its named specialty pharmacy, its mail subsidiary). In most plans we audit, well over half of specialty scripts ran through a pharmacy the PBM owns. No member chose that; the prior-authorization and network rules chose it for them.
 
-Open your H1 / mid-year claims data. For each guarantee, calculate the actual mid-year performance using the same formula the contract specifies. Document the gap (or surplus) for each.
+**Pass two: isolate the specialty generics and benchmark the price**
 
-**Pass two: classify gaps by remediation type**
+Filter the affiliated-pharmacy claims down to specialty generics. For each, compare what your plan was billed against a public acquisition benchmark (NADAC is published). The gap is the markup the FTC measured, on your own plan. The biggest gaps cluster on the high-cost generics for conditions like leukemia, MS, and transplant, which is exactly where the FTC found the markups landed.
 
-For each guarantee where actual performance is below threshold, find the corresponding remediation clause. Classify by remediation type: cash true-up at year-end, credit against next-year admin fees, "PBM shall remediate" undefined, or no remediation specified at all.
+**Pass three: write the routing-and-markup gap into your renewal file**
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: most contracts name guarantees but specify remediation only for some of them. The unguarded guarantees are where the PBM keeps the difference at year-end without consequence. The remediation classification is the audit's most important output.
-
-**Pass three: deliver the gap document to the PBM in writing, before year-end**
-
-For each gap with named remediation, send a written notification to the PBM citing the guarantee, the actual performance, the gap, and the remediation clause. Do this in mid-year, not at year-end.
-
-Mid-year notification establishes the audit on the calendar before the PBM has time to optimize Q3-Q4 performance to bury the gap. Year-end notification often arrives after the PBM has already self-corrected on paper.
+Document the share routed to affiliated pharmacies and the dollar markup above benchmark. That document is renewal leverage: it supports specialty-routing language that lets members use alternative specialty pharmacies and a contract requirement that affiliated-pharmacy specialty generics be priced to a public benchmark.
 
 **What to do this quarter**
 
-> **Pull every named performance guarantee from the contract.** Calculate actual mid-year performance.
-> **Classify gaps by remediation type.** Identify guarantees with no remediation language — those are renewal-leverage items.
-> **Send the written gap notification to the PBM mid-year, not at year-end.**
+> **Sort a quarter of specialty claims by filling pharmacy.** Flag the share at PBM-owned pharmacies.
+> **Benchmark the affiliated-pharmacy specialty generics against NADAC.** The gap is the FTC markup on your plan.
+> **Write the routing-and-markup gap into your renewal term sheet** as specialty-routing and benchmark-pricing language.
 
-The decoded vocabulary tells you the guarantees. The audit measures actual performance. The mid-year notification is the timing lever that makes remediation real.
+The FTC named the markup. The audit finds it on your plan. The renewal term sheet is where you take it back.
 
 ---
 
 *Field Note. Questions? team@rxbs.org.*
+
+> **Displaced draft → `field_note_backlog.md` (do not edit that file here, log only):** The prior W34 Thursday Field Note "Auditing Your Mid-Year Performance Guarantees" (PBM Contract Insights pillar; three-pass GER/BER/dispensing-fee/rebate guarantee audit + mid-year written gap notification) is homeless after this retarget. Park it in `field_note_backlog.md` for a future Thursday whose LinkedIn post is a performance-guarantee or mid-year-audit topic. Re-anchoring note: its opening line references "this morning's LinkedIn post decoded the five terms," so re-anchor that line to the destination week's paired LinkedIn post before reuse.
 
 ### Field Note Header Image Prompt
 
@@ -282,7 +278,7 @@ The decoded vocabulary tells you the guarantees. The audit measures actual perfo
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design ledger spread in Primary Blue (#015880) outline, roughly 480px wide, with "MID-YEAR GUARANTEE LEDGER" rendered in Plex Mono Medium uppercase across the top banner. The ledger shows five horizontal line items, each with a guarantee name on the left and two columns on the right: "THRESHOLD" and "ACTUAL." Three of the five rows show ACTUAL above THRESHOLD (small Accent Blue check); two rows show ACTUAL below THRESHOLD (small red minus sign). A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over the two below-threshold rows. Three numbered tick marks in Accent Blue (#A7E0FA) below the ledger, suggesting three audit passes. Below the composition, a two-tone centered headline: "Five Guarantees." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Two Below Threshold." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. Mid-year notification. Year-end remediation." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design specialty pill-capsule icon in Primary Blue (#015880) outline, roughly 360px wide, with "GENERIC" rendered in Primary Blue Plex Sans SemiBold uppercase across the capsule body. An upward price tag attached to the capsule reads, in Plex Mono Medium tabular figures, a large Accent Blue (#A7E0FA) "1,000%+" with a small Primary Blue arrow climbing past it. To the left of the capsule, a small flat-design storefront icon in Gray (#4D4D4D) outline labeled in Plex Sans Regular 18pt "PBM-OWNED PHARMACY," with a directional arrow in Accent Blue routing a script into the storefront door (the door outline in Accent Blue). Four repeating tick marks in Accent Blue along the rising price arrow give the climb texture. Below the composition, a two-tone centered headline: "One in Five." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Marked Up Over 1,000%." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "FTC, 2025. Specialty generics. At the pharmacy your PBM owns." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -298,40 +294,37 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Mid-Year Performance Guarantee Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/midyear-guarantee-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+**No new Plan Sponsor Toolkit ships this week (refer-back-first rule).** The Thursday reveal was rebuilt around the FTC specialty-generic markup finding, and that topic is already covered by a live toolkit: the **Specialty Routing Audit Worksheet** at `rxbs.org/toolkit/specialty-routing` (W22 Thursday; Clinical Pharmacy Perspectives). The reveal is about markups on specialty generics routed to PBM-owned pharmacies; the routing worksheet is exactly the audit a plan sponsor runs to surface it. Per the refer-back-first rule, we link the existing live toolkit rather than mint a near-duplicate, which concentrates downloads, inbound links, and AEO authority on the canonical asset. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+This week's Wix work is therefore a **refresh/verify**, not a new build.
 
 ---
 
-## Toolkit 1 — Thursday Field Note Handout · Mid-Year Performance Guarantee Audit Worksheet
+## Refer-back toolkit · Specialty Routing Audit Worksheet (existing, live)
 
-### Wix Toolkits dataset row
+### Wix Toolkits dataset row (already live — verify, do not re-create)
 
 | Column | Value |
 |---|---|
-| `slug` | `midyear-guarantee-audit` |
-| `name` | `Mid-Year Performance Guarantee Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `performance guarantee mid-year audit` |
-| `pillar` | `PBM Contract Insights` |
-| `second_toolkit_name` | `Quarterly Reporting Checklist` |
-| `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_9c41b84a48ca4eb4b2bf16a666ee3623.pdf` |
-| `second_toolkit_blurb` | `The Mid-Year Guarantee Audit names which guarantees to check at mid-year. The Quarterly Reporting Checklist audits whether the PBM's quarterly report shows the data those guarantees are measured against. The 15-line framework is the report-side audit; the guarantee audit is the contract-side audit. Together they pair as the two halves of a documented mid-year position.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `slug` | `specialty-routing` |
+| `name` | `Specialty Routing Audit Worksheet` |
+| `mechanic_phrase` | `specialty script routing audit` |
+| `pillar` | `Clinical Pharmacy Perspectives` |
+| `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
+| `second_toolkit_blurb` | `The Specialty Routing Worksheet shows where your specialty scripts go and what the affiliated pharmacy bills. The PBM Compensation Worksheet zooms out to all five revenue streams the PBM earns from your plan, so the routing markup sits inside the full picture of how the PBM makes money on you.` |
+| `field_note_title` | `Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?` |
+| `field_note_url` | `[fill after Thu Field Note publishes]` |
 
-### Wix build checklist
+### Wix build checklist (refresh only)
 
-- [ ] Upload `templates/documents/week_34_thursday_midyear_guarantee_audit.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
-- [ ] Confirm `second_toolkit_pdf_url` is set (Quarterly Reporting Checklist → `templates/documents/week_21_quarterly_reporting_checklist.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/midyear-guarantee-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [ ] Confirm `rxbs.org/toolkit/specialty-routing` still renders correctly (page already built W22)
+- [ ] Update the row's `field_note_title` / `field_note_url` to this week's retargeted Field Note after it publishes Thu 7:30 AM
+- [ ] Confirm the preview PNG and X crop are current (re-render only if the source PDF changed; no edit expected this week)
+- [ ] No new CMS row, no new PDF upload, no new email sequence — the existing toolkit's automation already handles it
 
 ### Pairing rationale
 
-Quarterly Reporting is the natural disclosure-trace partner to a performance-guarantee audit. Channel Pricing Field Note covers a similar audit framework.
+Specialty Routing is the existing live toolkit whose mechanic (where specialty scripts route, and why the affiliated-pharmacy version costs more) is exactly what the FTC 1,000%-markup reveal documents at scale, so the refer-back is a clean topical match. Its second-toolkit anchor is PBM Compensation (the universal "zoom out" for a single-revenue-stream audit), so the lead who downloads the routing worksheet is offered the full-compensation map next.
 
 ---
 
@@ -400,10 +393,10 @@ Specialty is most of your spend on a fraction of your prescriptions, and the par
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
-And this week's Mid-Year Performance Guarantee Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/midyear-guarantee-audit
+And the free Specialty Routing Audit Worksheet shows you where your specialty scripts actually go, and what the pharmacy your PBM owns is billing you: rxbs.org/toolkit/specialty-routing
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/midyear-guarantee-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_Toolkit link routes to the existing live `rxbs.org/toolkit/specialty-routing` landing page (built W22; no new build this week per refer-back-first). Confirm it renders before Monday; if down, drop the third line and route to the deep dive only._
 
 
 ---
@@ -605,90 +598,85 @@ This week's Benefit Blind Spots deep dive on specialty drug management is the op
 
 _The "Specialty Management Assessment" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
-### Thursday Excellence Slot - 5 Mid-Year Performance Guarantee Terms Decoded — Ledger Annotated Messy Infographic
+### Thursday Excellence Slot - 1 in 5 Specialty Generics, Marked Up Over 1,000% — Marked-Up FTC Report Messy Infographic
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Your Audit Rights" magnifier-on-document carousel. Displaced — overlapped with W23 Library 03 Audit Rights Contract Comparison carousel (cross-week duplication). Replaced with 5 Mid-Year Performance Guarantee Terms Decoded that pairs with W34 Field Note. Original Slot C audit-rights 5-Questions carousel content preserved in `evergreen_visual_backlog.md` as concept #34.
+> **REBUILD NOTE (this session):** This Thursday slot was a weak vocabulary decoder ("5 Mid-Year Performance Guarantee Terms Decoded," Ledger Annotated). Replaced with a shocking hidden-structure reveal welded to a cited FTC figure: the Federal Trade Commission's Second Interim Staff Report (Jan 2025) found the big-3 PBMs marked up more than one in five specialty generics over 1,000% at the pharmacies they own. Measured rationale: vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough (offshore-rebate-aggregator reveal, 17,816 impressions fully organic). Source: `shocking_fact_bank.md` entry #2. The displaced "5 terms / GER-BER-dispensing-fee" content folded into supporting detail below; the displaced Field Note draft noted for `field_note_backlog.md`.
 
-**Format:** Single messy infographic, Ledger Annotated aesthetic (open accountant's ledger with handwritten red-pen audit notes on five guarantee line items). 1080 x 1350 px.
-**Pillar:** PBM Contract Insights
-**Field Note pairing:** Same-day Substack Field Note "Auditing Your Mid-Year Performance Guarantees."
-**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "Mid-Year Performance Guarantee Audit Worksheet" — `templates/documents/week_34_thursday_midyear_guarantee_audit.html/.pdf`.
+**Format:** Single messy infographic, Marked-Up FTC Report aesthetic (a printed federal report page with the key sentence highlighted and handwritten red-pen annotations). 1080 x 1350 px. **Mobile-legible: ≤5 elements, the "1,000%" figure dominates the center ~70% of the frame, primary labels readable at ~400px thumbnail. Run the Canva ~400px legibility check before export.**
+**Pillar:** Clinical Pharmacy Perspectives (specialty generic markups; adjacent to Monday's specialty-management deep dive, different subject matter)
+**Field Note pairing:** Same-day Substack Field Note "Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?" — exclusively supports this reveal (turns the FTC fact into a three-pass routing audit on the plan's own claims).
+**Reference document pairing (refer-back, no new toolkit):** existing live Plan Sponsor Toolkit "Specialty Routing Audit Worksheet" — `rxbs.org/toolkit/specialty-routing` (W22 Thursday). Per refer-back-first, the on-topic live toolkit is reused, not re-minted.
 
-**Winning-profile traits hit (10 of 10):** decoder shape · dollar-comparison shape (threshold vs. actual) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Ledger Annotated) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
+**Thursday Excellence — 5 traits, all hit:**
+1. **Format = messy infographic, photoreal, ≤5 elements, mobile-legible.** Marked-Up FTC Report page, single image 1080x1350, "1,000%" as the dominant central element.
+2. **Hook = confrontational, named-actor.** Names the FTC as the source and the PBM as the actor marking up generics at the pharmacy it owns. Creates the genuinely-unknown structural shock (it's generics, not brand drugs).
+3. **Proprietary anchor, varied.** "Pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, well over half ran through a pharmacy the PBM owns." (Routing-audit anchor; rotates away from the repeated "hundreds of contracts a year" footer.)
+4. **First comment names the same-day Field Note specifically + refers back to the live `specialty-routing` toolkit.** Names the three-pass routing audit; routes to `rxbs.org/toolkit/specialty-routing`.
+5. **Field Note exclusively supports the concept.** The reveal names the markup; the Field Note shows how to find it on your own specialty claims. Same topic, deeper application.
 
 #### Post Copy
 
 ```
-The FTC found the big-3 PBMs marked up more than one in five specialty generics by over 1,000% at the pharmacies they own: $7.3 billion above what the drugs actually cost them. Now look at your effective-rate guarantees. They are written to look fine while that markup runs straight through.
+The FTC studied the generic drugs your PBM marks up the most. More than one in five specialty generics: marked up over 1,000 percent. Not brand drugs. Generics. At the pharmacy your PBM owns.
 
-Five contract guarantees you should already have audited at mid-year. Most plan sponsors do not run the audit until year-end, when the PBM has had two more quarters to optimize the numbers.
+That is not my number. It is in the Federal Trade Commission's Second Interim Staff Report from January 2025. At their own affiliated pharmacies, the big-3 PBMs marked up nearly two-thirds of specialty generics by more than 100 percent, and more than one in five by over 1,000 percent. One generic cancer drug carried a 3,289 percent markup in a single year. Those markups generated about 7.3 billion dollars above what the drugs actually cost the PBMs, plus another 1.4 billion from spread pricing.
 
-Mid-year guarantee audits are part of how we recovered $78.7M for plan sponsors in 2025. Mid-year is when remediation conversations work; year-end is when remediation conversations end. The PBM is operating on calendar Q3-Q4 already; the plan sponsor that audits in July has the leverage that the plan sponsor who audits in December does not.
+Here is the part that turns a headline into your problem. The FTC also found the scripts marked up more than 1,000 dollars each were disproportionately routed to the PBM's own pharmacies. The markup and the routing are the same machine. Pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, well over half ran through a pharmacy the PBM owns. No member chose that. The prior-authorization and network rules chose it for them.
 
-Five terms to know:
+What to do with it:
 
-1. **Generic Effective Rate (GER) Guarantee.** Threshold for actual generic discount off AWP. Most-watched guarantee; rarely audited mid-year against the contract's named methodology.
+1. Sort your specialty claims by filling pharmacy. Flag the share at PBM-owned pharmacies.
 
-2. **Brand Effective Rate (BER) Guarantee.** Threshold for actual brand discount off AWP. Closely watched by the PBM's pricing team; rarely calculated independently by the plan sponsor.
+2. Filter to specialty generics and compare what you were billed to NADAC, the public acquisition benchmark. The gap is the FTC markup, on your plan.
 
-3. **Dispensing Fee Guarantee.** Threshold maximum for per-claim dispensing fees. Often inverted (actual at or below threshold). Easy to miss when the threshold is loosely defined.
+3. Write the routing-and-markup gap into your renewal file as specialty-routing language and a benchmark-pricing requirement.
 
-4. **Rebate-Per-Claim Minimum.** Minimum rebate dollar per brand claim. The most concrete remediation trigger; needs the channel breakdown to audit accurately.
+The markups landed hardest on the high-cost generics for leukemia, MS, and transplant. The sicker the member, the bigger the spread. The FTC named the machine. The audit finds it on your plan.
 
-5. **Performance-Remediation Language.** What happens when actual falls below threshold: cash true-up, credit, undefined, or absent. The remediation clause is what makes the guarantee real.
+Save this for your specialty review.
 
-Pulling the actual mid-year and writing the gap notification to the PBM is a half-day of work. Most plan sponsors do not do it. The ones who do negotiate different terms at renewal.
-
-Save this for your H1/H2 review.
-
-#PBMContracts #PerformanceGuarantees #SelfFundedEmployers
+#SpecialtyPharmacy #PBMTransparency #SelfFundedEmployers
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes that turn the decoded guarantee vocabulary into a mid-year position (pull each guarantee's actual H1 performance, classify gaps by remediation type, send the written gap notification before year-end). Plus a paste-ready Mid-Year Performance Guarantee Audit Worksheet. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: three claims passes that find the FTC markup on your own plan (sort specialty claims by filling pharmacy, isolate the affiliated-pharmacy specialty generics and benchmark them against NADAC, write the routing-and-markup gap into your renewal term sheet). The free Specialty Routing Audit Worksheet runs the three passes line by line: rxbs.org/toolkit/specialty-routing
+
+Field Note: [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Ledger Annotated Image Generation Prompt
+#### Marked-Up FTC Report Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). An open green-tinted accountant's ledger book rests on a dark wood desk under soft natural daylight. The visible double-page spread shows faint printed horizontal rules and vertical columns in light green tint. The header at the top of the left page reads, in printed black serif type: "MID-YEAR PERFORMANCE GUARANTEE LEDGER · H1." A fountain pen with a dark barrel rests across the upper-right corner of the right page.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed page from a federal government report rests on a plain matte desk under soft, even daylight. The page header reads, in printed black serif type: "FEDERAL TRADE COMMISSION · Second Interim Staff Report · January 2025." Most of the page is small, intentionally-blurred body text (do not make it readable; it is texture only).
 >
-> Five line items printed down the left page in Plex Mono Regular black, each with the guarantee name on the left and two columns on the right ("THRESHOLD" and "H1 ACTUAL"):
+> One single sentence in the center of the page is printed large and crisp in black, and a wide Accent Blue (#A7E0FA) highlighter stroke runs across it: "More than 1 in 5 specialty generics were marked up over 1,000% at PBM-owned pharmacies." Directly beneath it, in very large black type that dominates the center of the frame and is readable at thumbnail size, the figure: "1,000%+".
 >
-> 1. **Generic Effective Rate (GER)** ........... 85.0% / 82.7%
-> 2. **Brand Effective Rate (BER)** ............. 18.5% / 17.9%
-> 3. **Dispensing Fee (max)** ................... $1.50 / $1.62
-> 4. **Rebate per Brand Claim (min)** ........... $X / $Y
-> 5. **Performance Remediation** ................ [No language present]
+> Three handwritten red ballpoint annotations in the right margin, each with a short curved arrow pointing at the highlighted sentence:
+> - "Generics. Not brand drugs."
+> - "$7.3B over acquisition cost (2017-2022)"
+> - "Routed to the pharmacy the PBM owns"
 >
-> Five handwritten red ballpoint annotations in the right-page margin, each with a short curved arrow:
-> - Pointing at line 1, red note: "Audit the methodology, not the headline"
-> - Pointing at line 2, red note: "Mid-year gap = remediation owed"
-> - Pointing at line 3, red note: "Inverse threshold — easy to miss"
-> - Pointing at line 4, red note: "Channel breakdown required"
-> - Pointing at line 5, red note: "Undefined = no remedy"
+> Bottom of the page, handwritten in navy-blue marker (~#015880), underlined: "Pull your specialty claims. Sort by filling pharmacy." Small navy text in the bottom corner: "rxbs.org".
 >
-> Top of right page, handwritten black marker, double-underlined: "Five guarantees. Two below threshold."
-> Below in red pen: "Mid-year audit beats year-end notification."
-> Bottom, smaller red pen: "PBS reviews 100s of PBM contracts a year. Mid-year is when remediation works."
+> Style: realistic paper texture, soft natural daylight, a real highlighter and a real red pen resting at the page edge. Colors: white/off-white paper, black printed type, Accent Blue (#A7E0FA) highlighter, red handwritten ballpoint, navy-blue (#015880) marker. Keep the layout to five readable elements (the highlighted sentence, the "1,000%+" figure, three red notes); everything else is blurred texture. No logos, no brand marks.
 >
-> Black ballpoint pen at top-right corner. Style: realistic ledger paper texture, soft natural daylight. Colors: pale green ledger paper, light green rules, black printed Plex Mono, red handwritten ballpoint, dark wood desk. No logos, no brand marks.
+> _Canva step: add only the small PBS logo bottom-right (logos never go in the generation prompt). Run the ~400px / phone legibility check before export; the "1,000%+" figure and the highlighted sentence must read at thumbnail._
 
 ---
 
 ## Post 127 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 48 words
 
 #### Reshare Copy
 
 ```
-Five mid-year performance guarantee terms decide whether the PBM hits its targets or pays the plan when it does not. Measurement methodology, reconciliation timing, remediation structure, guarantee exclusions, and audit rights each shape the outcome.
+The FTC found the big-3 PBMs marked up more than one in five specialty generics over 1,000% at the pharmacies they own. Generics, not brand drugs. The scripts with the biggest markups were routed to the PBM's own pharmacy.
 
-Ginny Crisp decodes the five terms.
+Ginny Crisp shows how to find it on your plan.
 
-#PBMContracts #PlanSponsors #PharmacyBenefits
+#SpecialtyPharmacy #PlanSponsors #PharmacyBenefits
 ```
 
 ---
@@ -762,7 +750,7 @@ A specialty pharmacist told me once that her internal workflow prompted reauthor
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: reauthorization protocols. The specialty cost lever that prevents unnecessary continuation of high-cost therapies. Simple to implement, meaningful financial impact, and most contracts do not require it.
+New field note: the FTC found the big-3 PBMs marked up more than one in five specialty generics over 1,000% at the pharmacies they own. Generics, not brand drugs. Here are the three claims passes that find that markup on your own plan.
 
 Read: [LINK]
 
@@ -893,10 +881,11 @@ The most profitable thing a PBM sells your plan isn't a drug. It's the definitio
 Admin fees: five line items on your monthly PBM invoice. Administrative. Clinical program. Network access. Implementation recovery. Rebate administration. The PBM wrote all five definitions. Four of them are margin wearing a service's name.
 ```
   First reply (link): rxbs.org/toolkit/pbm-compensation
-- **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
+- **12:00 PM · Thu-visual amplifier [VISUAL: 1-in-5 specialty generic markup reveal] (schedule AFTER the 10 AM LinkedIn post publishes; LinkedIn-first):**
 ```
-Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+FTC, on the record: the big-3 PBMs marked up 1 in 5 specialty generics by 1,000%+ at the pharmacies they own. $7.3B above what the drugs cost them. Generics, not brand drugs. The biggest markups got routed to the pharmacy the PBM owns.
 ```
+  First reply (link): How to find it on your own claims: rxbs.org/toolkit/specialty-routing
 - **5:00 PM · punchy:**
 ```
 PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
@@ -1018,7 +1007,7 @@ Ask your PBM to define "pass-through" in writing, then ask which noun it attache
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 125 Bridge Clean Infographic | 1080x1350 | "From Programs That Cost Money to Programs That Earn Their Keep" — flat-design bridge metaphor with red landform (DUR/step/MTM) crossing via verification/measurement/attribution spans to Primary Blue landform (case management/biosimilar/PA), Clinical Pharmacy Perspectives pillar |
-| Post 127 One Number Carousel | 7 slides | Template C |
+| Post 127 Marked-Up FTC Report Messy Infographic | 1080x1350 | "1 in 5 Specialty Generics, Marked Up Over 1,000%" — photoreal FTC Second Interim Staff Report page, Accent Blue highlighter on the key sentence, "1,000%+" dominant center, three red-pen margin notes; mobile-legible (~400px check); shocking hidden-structure reveal cited to FTC (Jan 2025) |
 | Headers | Standard | [ ] |
 
 ## Metrics

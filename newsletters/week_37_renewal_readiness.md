@@ -7,6 +7,8 @@
 
 _Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday repurposed-into-deep-dive One Number carousel moved to PART 1; live Thursday Sticky Note Dashboard messy infographic is the schedulable post)._
 
+_**Rebuild note (Sep 2026):** The Wednesday POV slot (Post 138) was rebuilt from a 13-week-arc recap into the **shocking hidden-structure reveal** for the Sep-Oct surge finale: the state PBM reform body count (all 50 states, 220+ laws since 2016, red and blue passing the identical fix). The reveal is an awareness/galvanizing macro-fact with no Monday-actionable step, so it took the Wednesday awareness slot rather than the Thursday conversion slot; Thursday keeps its toolkit-backed first-meeting-checklist + Field Note conversion triad intact. Source: NASHP State PBM Legislation tracker. See Post 138 slot-decision note._
+
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
 | Mon Sep 14 | 7:30 AM | Substack | Deep dive: "Renewal Readiness Scorecard" | PART 1 | [ ] |
@@ -24,9 +26,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Sep 15 | 7:00 PM | X | question [A4] | PART 4B · Tue | [ ] |
 | Tue Sep 15 | 8:30 PM | X | one question [B10] | PART 4B · Tue | [ ] |
 | Wed Sep 16 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Wed | [ ] |
-| Wed Sep 16 | 10:00 AM | LI Feed | Post 138 — Strong POV text (13-week arc / preparation is the strategy) | Post 138 | [ ] |
+| Wed Sep 16 | 10:00 AM | LI Feed | Post 138 — Strong POV REVEAL: "Red states and blue states passed the SAME PBM law" (reform-wave body count + red/blue split image) | Post 138 | [ ] |
 | Wed Sep 16 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
-| Wed Sep 16 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Sep 16 | 5:00 PM | X | reform-wave reveal (amplifies LI Post 138; after 10 AM) | PART 4B · Wed | [ ] |
 | Wed Sep 16 | 7:00 PM | X | question [A5] | PART 4B · Wed | [ ] |
 | Wed Sep 16 | 8:30 PM | X | aphorism [C1] | PART 4B · Wed | [ ] |
 | Thu Sep 17 | 7:30 AM | Substack | Field Note: "The First Meeting with Your PBM at Renewal" | PART 1B | [ ] |
@@ -387,8 +389,8 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_name` | `Pharmacy Benefit Review (PBR) Framework` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_0dcd81cf62924b97b81c0bf88b96bf99.pdf` |
 | `second_toolkit_blurb` | `The Pre-Meeting Checklist names what to walk into the renewal meeting with. The PBR Framework is the twice-yearly comprehensive audit that produces those items. Run the PBR in mid-year and year-end; the renewal-meeting items are the natural artifact of the audit. The checklist is the conclusion; the PBR is the work that produces it.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `field_note_title` | `The First Meeting with Your PBM at Renewal: What to Bring and What to Ask` |
+| `field_note_url` | `[fill after Thu Sep 17 Field Note publishes]` |
 
 ### Wix build checklist
 
@@ -402,7 +404,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 
 ### Pairing rationale
 
-PBR Tier 1 evergreen is the work that produces what the checklist lists. Channel Pricing Field Note is an example renewal-leverage finding the PBR surfaces.
+The Pre-Meeting Renewal Checklist names what to walk into the first renewal meeting with; the PBR Framework (Tier 1 evergreen) is the twice-yearly comprehensive audit that produces those items, so the checklist is the conclusion and the PBR is the work that produces it (different mechanic, Tier-1-pairs-down rule). The same-day Field Note "The First Meeting with Your PBM at Renewal" is the deep companion the checklist operationalizes; `field_note_url` fills after it publishes Thu Sep 17.
 
 ---
 
@@ -742,30 +744,70 @@ Ginny Crisp translates the language and shows what to replace it with.
 ---
 
 ## Post 138 - Wednesday 10:00 AM
+### Strong POV Reveal — "Red States And Blue States Passed The Same PBM Law" (Reform-Wave Reveal + red/blue split single image)
 
-> **NOTE (revised Apr 24):** Dropped "Data first. Analysis second. Preparation third." rule of three and softened "Not because they are less capable. Because they started later." to plain prose per Humanize Check rule (b). Kept the closer "Preparation is the strategy. Renewal is just the meeting." as the post's punchline.
+> **NOTE (rebuilt for W37, Sep 2026):** This Wednesday POV slot was previously a 13-week-arc recap ("Two employers sit across from the same PBM at renewal..."). Rebuilt into the **shocking hidden-structure reveal** for the Sep-Oct surge finale: the state PBM reform body count (`shocking_fact_bank.md` pipeline candidate "State PBM reform body count"). The reform wave is the galvanizing "why renewal readiness matters NOW" macro-fact. It is an awareness/galvanizing reveal with no single Monday-actionable step, so it sits in the **Wednesday POV awareness slot**, not the Thursday conversion slot. Thursday keeps the toolkit-backed first-meeting checklist + Field Note conversion triad intact (see slot-decision note below). Macro-fact verified Sep 2026: all 50 states have enacted PBM legislation since 2016, more than 220 laws total (NASHP State PBM Legislation tracker); 2025 alone saw red states (Arkansas HB1150 ownership ban, Utah HB257 rebate pass-through) and blue states (California, Colorado, Massachusetts delinking/licensing) pass near-identical structural fixes. The displaced 13-week-arc recap was folded into Friday's tease and the Monday newsletter, which already carry the arc-recap framing; no homeless draft to park.
 
-#### Post Copy (~250 words)
+**Format:** Strong confrontational POV text post + one attached single image (red/blue "same law" split, 1080 x 1350 px). Wednesday text-POV slot; the image rides with the post (one image, not a carousel, so the Tuesday/Thursday VISUAL slots stay protected).
+**Pillar:** Transparency & Industry Education
+**Content shape:** Shocking hidden-structure reveal (the genuinely-unknown structural-fact pattern). Organic ceiling ~15-18K in trough; this lands in the Sep-Oct surge where the strongest content ships.
+**Why this combination:** When red states and blue states, which agree on almost nothing, pass the identical PBM fix, it is not politics. It is the business model. The reform wave is the tell that the structure is extractive by design, and it is the clearest "this is why you prepare for renewal" macro-argument available for the finale.
 
-Two employers sit across from the same PBM at renewal. One brought their own claims analysis, their own market benchmarks, and a term sheet with specific contract language. The other brought the PBM's summary report. Same PBM. Same market. The terms they walk away with are not close.
+**Reveal traits hit:** confrontational/named-actor hook (the legislature as the un-fakeable third-party witness; the PBM as the structural adversary) · proprietary anchor, varied (the 86 contracts read in 2025, distinct from Monday's 59 RFPs and Thursday's $78.7M) · single-image red/blue split, mobile-legible, 2 elements · first comment names the same-day asset + reuses a live `rxbs.org/toolkit/<slug>` (refer-back-first, no new toolkit) · galvanizing close that hands off to renewal readiness.
 
-The difference was decided months before either meeting.
+#### Post Copy
 
-We run this 90-day renewal arc with plan sponsors every year. Across the 59 PBM RFPs and renewals we ran in 2025, the pattern does not change. The employer who starts in Q3 negotiates from their own numbers. The one who starts in November negotiates inside the framework the PBM wrote.
+```
+Red states and blue states agree on almost nothing. They have both passed nearly identical PBM reform laws.
 
-Over the last 13 weeks we covered the full arc: data benchmarking, formulary evaluation, PBM scoring, network cost analysis, rebate provisions, RFP design, clinical program verification, member communication, specialty management, negotiation tactics, and contract language. Each phase depends on the one before it. You cannot write a term sheet without reading your contract. You cannot read your contract without your data.
+All 50 states have now enacted PBM legislation. More than 220 laws since 2016, per the National Academy for State Health Policy's tracker. In 2025 alone, a deep-red state banned PBMs from owning the pharmacies they steer patients to, and on the other coast a deep-blue state passed a delinking law to break the same conflict. Different parties. Different language. Same target.
 
-If you have not started, three steps take about one working day: run five core metrics, flag ten contract provisions, have three conversations. That one day changes outcomes more than any single provision.
+When the fix is the same across the aisle, it is not politics. It is the business model.
 
-Preparation is the strategy. Renewal is just the meeting.
+Here is what the body count actually tells you. Legislatures do not line up 50 states deep against a pricing model that is working as advertised. They line up against extraction. The thing red and blue agree on is that a PBM that owns the pharmacy, owns the rebate aggregator, and writes the definitions in your contract is structured to route money to itself before your plan ever sees a number.
 
-Renewal on your Q4 calendar? Have you built your own model, or is the PBM's the only one on the table?
+The laws are catching up to the structure. Your contract has to do the same thing, on your own timeline, this renewal.
+
+Here is what I know from reading 86 PBM contracts in 2025: the protections those state laws are reaching for, ownership disclosure, rebate pass-through definitions, audit rights, are the exact provisions most plan contracts still leave open. The statute is not going to renegotiate your contract for you. You do that at renewal, with your own data and your own term sheet.
+
+So the reform wave is not background noise. It is the loudest possible signal that renewal readiness is not optional this year.
+
+Fifty states saw it. Has your contract caught up?
+```
 
 #### First Comment
 
 ```
-This week's Benefit Blind Spots deep dive on renewal readiness is the operational follow-on: the renewal readiness scorecard and the pre-meeting checklist. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive on renewal readiness is the operational follow-on: the 15-factor readiness scorecard that turns "is my contract behind the reform curve" into a number you can act on. [SUBSTACK MONDAY DEEP DIVE URL]
+
+And the foundational PBM Compensation worksheet maps the revenue streams those state laws are actually targeting, on your own plan: rxbs.org/toolkit/pbm-compensation
 ```
+
+#### Attached Image Spec — Red/Blue "Same Law" Split
+
+Single image, 1080 x 1350 px. Two-panel vertical split: left panel deep red (#8B2E2E), right panel deep blue (#015880), a thin white seam down the center. Each panel holds a stylized US state-outline cluster (a few representative state silhouettes per side, flat fill, no labels, no realistic map detail). The two clusters lean toward the seam as if meeting in the middle. Centered across the seam, a single white legislative-document icon (a sheet with a seal) straddling both panels, the same document on both sides, signaling one identical law.
+
+Two-tone headline across the top, Plex Sans SemiBold, on a white band so it reads at thumbnail: "Red states and blue states" in Gray (#4D4D4D), "passed the SAME PBM law." in Primary Blue (#015880), the word "SAME" enlarged.
+
+Below the document icon, one Plex Mono Medium tabular figure callout on a white pill: "50 states · 220+ laws since 2016." Small Plex Sans caption under it, Gray: "When the fix is identical across the aisle, it is not politics. It is the business model."
+
+Footer: Plex Sans SemiBold "Benefit Blind Spots" bottom-left, Plex Mono "rxbs.org" small bottom-right. Max two visual elements (the split map + the straddling document); fine print minimal so the headline and the 50-states figure dominate the center ~70% of the frame and pass the ~400px mobile-feed legibility check. Flat corporate infographic style, no photographs, no people, no party logos or insignia. Color palette: deep red (#8B2E2E), Primary Blue (#015880), white (#FFFFFF), Gray (#4D4D4D), Accent Blue (#A7E0FA) for the document seal only.
+
+**Source citation for caption/comment if asked:** NASHP State Pharmacy Benefit Manager Legislation tracker (`nashp.org/state-tracker/state-pharmacy-benefit-manager-legislation/`), all 50 states enacted PBM legislation, 220+ laws since 2016, updated through the 2025 session.
+
+**Post-Generation Steps:**
+1. Generate base image using the spec above
+2. Confirm "SAME" reads as the enlarged emphasis word and the headline is legible at ~400px (mobile thumbnail)
+3. Confirm the "50 states · 220+ laws since 2016" figure renders in Plex Mono tabular figures, not a default face
+4. Verify the document icon straddles the seam identically on both panels (the visual point is one law, two sides)
+5. No party logos, no real politicians, no realistic map — flat silhouettes only
+6. Export as PNG at 1080 x 1350
+
+---
+
+#### Slot decision (why the reveal is here, not on Thursday)
+
+The reform body count is a **galvanizing macro-fact**, not a plan-sponsor "act on Monday" checklist. Per the reader-actionability principle, awareness-shaped reveals belong in the Wednesday POV (awareness) slot, while the Thursday conversion slot stays paired to a toolkit-backed, tactical, save-driven asset. The W37 Thursday already has the strongest possible conversion pair: the "5 First-Meeting Items" Sticky Note Dashboard + the same-day Field Note "The First Meeting with Your PBM at Renewal" + the live `pre-meeting-renewal-checklist` toolkit. Breaking that triad to install a macro-fact with no same-day toolkit would weaken the finale's conversion stack. So the reveal takes the Wednesday awareness slot (where it galvanizes "why prepare NOW"), and Thursday keeps the conversion triad. Triple-distinct holds: Mon renewal readiness scorecard / Tue "industry standard" decoder / Wed state reform wave / Thu first-meeting items, all distinct.
 
 ---
 
@@ -985,7 +1027,7 @@ A client thanked me at the end of a successful renewal by saying, "I negotiated 
 
 # PART 4B: X (TWITTER) POSTS
 
-> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. _Renewal-readiness is the Monday topic; the renewal-window contract posts (auto-renewal, audit rights) stay on-theme through the week._
+> **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Wed/Thu LinkedIn posts on X only after they publish (the Wed 5 PM reform-wave X post amplifies LinkedIn Post 138 and must fire after the 10 AM LI post is live). _Renewal-readiness is the Monday topic; the renewal-window contract posts (auto-renewal, audit rights) stay on-theme through the week, and the Wednesday reform-wave reveal galvanizes "why prepare NOW."_
 
 **Mon Sep 14**
 - **8:00 AM · recipe / Network access fee (Tier B):**
@@ -1045,10 +1087,15 @@ Ask your PBM: "If we wanted to leave, what in this contract makes it expensive o
 ```
 "Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · reform-wave reveal (amplifies today's LinkedIn Post 138; LinkedIn-first, fires after the 10 AM LI post is live):**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+Red states and blue states agree on almost nothing. They have both passed nearly identical PBM reform laws.
+
+All 50 states have now enacted PBM legislation. 220+ laws since 2016. One side banned PBMs from owning the pharmacies they steer to. The other passed delinking to break the same conflict. Same target.
+
+When the fix is identical across the aisle, it is not politics. It is the business model.
 ```
+  First reply (link): rxbs.org/toolkit/pbm-compensation
 - **7:00 PM · question post [A5]:**
 ```
 When did you last open your PBM reporting portal? If the answer is "never," the PBM is the only party reading your plan's own data. That asymmetry is most of the game.
@@ -1175,7 +1222,7 @@ Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, a
 Ask your PBM: "What did you collect in rebates and fees from manufacturers on our plan last year, and how much reached us?" The gap between the two numbers is the conversation.
 ```
 
-> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: 7 recipe / named-program AM posts (Mon-Fri 8 AM weekday Tier B, Sat/Sun 8 AM Tier A Cuban-bait) ≈ 40% ✓ · 5 weekday midday news-reaction HOLDs with decoder/stat-shock quiet-day backups (audit clause, three-PBM concentration, pass-through noun, effective-rate average, GLP-1 rebate) ✓ · 6 punchy PM anchors (Mon-Sat 5 PM) + 1 origin (Sun 5 PM, capped) ✓. Weekend Tier-A Cuban-bait recipes: 4 (Sat 10 AM + 2:30 PM, Sun 10 AM + 2:30 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (Fri 8:30 PM, capped 1/week) ✓. Newsjack/bridge (E/F) held for reactive bumps; midday HOLDs bump to live reactions when PBM news lands. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md` + `x_recipe_post_bank.md`; nothing repeats inside ~2 weeks.
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: 7 recipe / named-program AM posts (Mon-Fri 8 AM weekday Tier B, Sat/Sun 8 AM Tier A Cuban-bait) ≈ 40% ✓ · 5 weekday midday news-reaction HOLDs with decoder/stat-shock quiet-day backups (audit clause, three-PBM concentration, pass-through noun, effective-rate average, GLP-1 rebate) ✓ · 5 punchy PM anchors (Mon, Tue, Thu, Fri, Sat 5 PM) + 1 reform-wave reveal (Wed 5 PM, amplifies LI Post 138 after it publishes per LinkedIn-first) + 1 origin (Sun 5 PM, capped) ✓. Weekend Tier-A Cuban-bait recipes: 4 (Sat 10 AM + 2:30 PM, Sun 10 AM + 2:30 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (Fri 8:30 PM, capped 1/week) ✓. Newsjack/bridge (E/F) held for reactive bumps; midday HOLDs bump to live reactions when PBM news lands. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md` + `x_recipe_post_bank.md`; nothing repeats inside ~2 weeks.
 
 # PARTS 5-7
 
@@ -1191,7 +1238,9 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 137 Marked-Up Contract Page Decoder | 1080x1350 | "What 'Industry Standard' Actually Means in PBM Proposals" — photographed proposal page with 4 'industry standard' instances decoded by red-pen margin annotations, Transparency pillar |
-| Post 139 One Number Carousel | 7 slides | Template C - scorecard |
+| Post 138 Red/Blue "Same Law" Split | 1080x1350 | Reform-wave reveal — red/blue split US-state silhouettes meeting at center seam with one straddling legislative document + "50 states · 220+ laws since 2016" Plex Mono callout, Transparency pillar. Source: NASHP State PBM Legislation tracker |
+| Post 139 Sticky Note Dashboard | 1080x1350 | "5 First-Meeting Items to Bring" — yellow sticky notes on corkboard, Thursday conversion post (Field Note + Pre-Meeting Renewal Checklist pairing) |
+| In-Article (Mon deep dive) One Number Carousel | 7 slides | Renewal Readiness Scorecard — embedded in PART 1, not a standalone feed post |
 | Headers | Standard | [ ] |
 
 ## Metrics

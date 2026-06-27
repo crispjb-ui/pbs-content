@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday slot = live "5 Coordination of Benefits Terms Decoded" COB decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday reach slot rebuilt June 2026 = live "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" owned-pharmacy steering shocking-reveal messy infographic, replacing the weak "5 COB Terms Decoded" vocabulary decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual)._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -33,10 +33,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 29 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 29 | 7:00 PM | X | question [A4] | PART 4B · Wed | [ ] |
 | Wed Jul 29 | 8:30 PM | X | aphorism [C10] | PART 4B · Wed | [ ] |
-| Thu Jul 30 | 7:30 AM | Substack | Field Note: "Auditing Your Coordination of Benefits Claims" | PART 1B | [ ] |
+| Thu Jul 30 | 7:30 AM | Substack | Field Note: "Where Does Your Specialty Script Actually Get Filled?" | PART 1B | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: Mid-Summer Plan Check-In | PART 2B | [ ] |
 | Thu Jul 30 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "5 Coordination of Benefits Terms Decoded" (Three-EOB Photoreal) | Post 111 | [ ] |
+| Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, messy infographic) | Post 111 | [ ] |
 | Thu Jul 30 | 10:05 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
 | Thu Jul 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 1:30 PM | LI Company | Reshare of Post 111 | Post 111 Reshare | [ ] |
@@ -216,56 +216,51 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your Coordination of Benefits Claims
+## Where Does Your Specialty Script Actually Get Filled?
 
-**Display Title:** Auditing Your Coordination of Benefits Claims
-**SEO Title (AEO):** How Does Coordination of Benefits Work in a Pharmacy Plan? (Auditing COB Claims)
-**SEO Subtitle:** Three audit passes plan sponsors can run on COB-flagged claims vs. the contract's COB clause
+**Display Title:** Where Does Your Specialty Script Actually Get Filled?
+**SEO Title (AEO):** How Do You Tell If Your PBM Is Steering Specialty Scripts to a Pharmacy It Owns?
+**SEO Subtitle:** Three checks a self-funded plan sponsor can run to find owned-pharmacy steering and the price difference it hides
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 30, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
+**Length:** ~600 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** PBM Contract Insights
+**Pillar:** Clinical Pharmacy Perspectives (specialty routing / site-of-care steering)
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 Coordination of Benefits Terms Decoded" Three-EOB Photoreal messy infographic. LinkedIn post decodes the COB vocabulary; Field Note is the operational follow-on for auditing how COB executes on plan claims.
-**Why this pairing (not the displaced "White Bagging vs. Brown Bagging" draft):** Architecture B triple-distinct topic rule — Monday W30 is Site-of-Care Optimization; Thursday is Coordination of Benefits (how the plan's claim coordinates with secondary insurance, copay assistance, Medicare interactions). Adjacent within PBM Contract Insights pillar, different subject matter. Original "White Bagging vs. Brown Bagging" Field Note parked as FN-13.
+**Pairs with (exclusively):** Thursday LinkedIn reach post "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering shocking reveal, messy infographic). The LinkedIn post reveals the hidden steering funnel as a shock; the Field Note is the operational follow-on, the exact checks a plan sponsor runs to find whether their own specialty scripts are being routed to a PBM-owned pharmacy at a higher rate. Same concept, deeper application. Thursday Excellence component 5.
+**Why this pairing (triple-distinct check):** Monday W30 is Site-of-Care Optimization (where infused drugs are administered). Tuesday is year-end renewal decisions. Wednesday is rebate clawback on GLP-1 lifestyle support (SHRM clip). Thursday is the owned-pharmacy steering reveal (the prior-auth and network funnel that routes specialty scripts to the pharmacy the PBM owns). Four different subjects, no two collapse to the same topic family. Steering is the natural site-of-care reveal that stays distinct from Monday's administration-setting subject. The displaced "5 COB Terms Decoded" vocabulary content was a weak summer decoder (vocabulary decoders top out near 4-5K in the trough). Original "White Bagging vs. Brown Bagging" Field Note remains parked as FN-13.
+**Distinct from W28:** W28 (Network Design) wove the same FTC own-pharmacy stat as a generic-spread / GER-average reveal (the average hides the per-drug spread). W30 uses a different mechanism and hook: the prior-authorization and network funnel that routes the script, with the heaviest markups landing at the owned pharmacy. Routing, not spread-averaging.
 
 ---
 
 ### Field Note Body
 
-**Coordination of benefits (COB) is the set of rules that decide how a pharmacy claim is settled when a member has more than one coverage source (a spouse's plan, Medicare, or active manufacturer copay assistance), and a self-funded plan audits it by pulling a COB-flagged claims sample, classifying each claim by coordination type, and comparing the actual outcomes to the COB clause written in the contract, because that is where copay-accumulator and copay-maximizer economics live or die.**
+**Owned-pharmacy steering is the practice of using prior-authorization rules and network design to route a member's specialty script to a pharmacy the PBM owns, where the PBM can reimburse itself more than it pays an independent pharmacy for the identical drug, and a self-funded plan sponsor finds out whether it is happening on their plan by pulling specialty claims by filling pharmacy, checking the prior-auth and network rules that send scripts there, and comparing what the owned pharmacy is paid against an independent benchmark.**
 
-This morning's LinkedIn post decoded the five COB terms PBMs use most often when claims interact across multiple coverage sources: primary-secondary determination, member responsibility carve-out, Medicare-as-secondary handling, copay assistance crediting, and double-dipping prevention language. Today is the operational follow-on. You have the vocabulary. Here is how to audit how COB executes on your plan's claims.
+This morning's LinkedIn post revealed the structure: the FTC's January 2025 staff report found that the big-3 PBMs reimbursed their own pharmacies meaningfully more than independent pharmacies for the identical specialty generic, and that the drugs with the largest per-script markups were disproportionately routed to the pharmacies the PBM owns. The clinical question is where a drug is safest to fill. The financial question is who profits from the answer. On most plans, nobody asked the second one. Today is the operational follow-on. Here is how to find out whether the steering funnel is running on your own plan.
 
-We run COB audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
+We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and the steering is almost never described as steering. Three checks surface it.
 
-**Pass one: pull the COB-flagged claims sample**
+**Check one: pull your specialty claims by filling pharmacy**
 
-Open your most recent quarterly report and request a COB-flagged claims sample. Most PBMs can produce this on request: claims where coordination of benefits applies because the member has secondary coverage (spouse's plan), Medicare entitlement, or active manufacturer copay assistance.
+Request a specialty-claims sample sorted by the pharmacy that filled each script. Calculate the share filled at a pharmacy your PBM owns (its specialty or mail pharmacy). In most plans we audit, that share is well over half. No member chose that. The prior-auth and network rules chose it for them. A concentration that high is the first sign the funnel exists.
 
-If your PBM cannot produce a COB-flagged sample, that is the first finding. The flag exists in the adjudication data; the report needs to surface it.
+**Check two: read the rules that send the script there**
 
-**Pass two: classify each COB scenario by type**
+Find the prior-authorization criteria and the specialty-network language that determine where a specialty drug can be filled. Look for provisions that designate the PBM's own pharmacy as the required or preferred specialty pharmacy, or that make any other pharmacy harder to use. The routing is rarely labeled "steering." It lives in the network designation and the prior-auth pathway. That is the mechanism.
 
-For each COB-flagged claim, classify the coordination type: primary-secondary, Medicare-as-secondary, manufacturer copay card crediting, or member-billed-separately. Calculate the share by type.
+**Check three: compare the owned-pharmacy rate to an independent benchmark**
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: the manufacturer copay card crediting category is rarely flagged correctly. Copay accumulator and copay maximizer programs depend on accurate flagging at the claim level; if the flag is missing or wrong, the program does not capture the manufacturer dollars correctly.
-
-**Pass three: compare COB outcomes to the contract**
-
-Open your contract. Find the COB clause. Note the rules: primary-secondary determination order, member responsibility carve-out, copay assistance crediting policy, and double-dipping prevention.
-
-Compare the contract rules to the actual claim outcomes from Pass two. If the contract says the plan applies copay assistance to the deductible (maximizer-style) but the actual claims show the assistance bypassing the deductible (accumulator-style), the workflow is doing different work than the contract specifies.
+For the highest-cost specialty scripts, compare what the owned pharmacy was reimbursed against an independent benchmark for the identical drug. The FTC found the gap can be large and that the biggest-markup scripts cluster at the owned pharmacy. If your audit rights let you pull both numbers on one claim, that comparison is the finding. If your contract does not let you see both numbers, that gap in your audit rights is itself the finding.
 
 **What to do this quarter**
 
-> **Request a COB-flagged claims sample from your PBM.** Classify by coordination type.
-> **Open your contract's COB clause.** Compare rules to actual outcomes.
-> **Bring discrepancies to your broker.** COB workflow drift is a renewal-leverage item and an audit-rights item.
+> **Pull specialty claims by filling pharmacy.** Measure the share at the PBM-owned pharmacy.
+> **Read the prior-auth and specialty-network rules** that route the script. Flag any required-owned-pharmacy designation.
+> **Compare the owned-pharmacy rate to an independent benchmark** on your highest-cost scripts. Bring the gap, or the missing audit right, to your broker. It is a renewal-leverage item.
 
-The decoded vocabulary tells you the COB rules. The audit tells you how COB actually executes. The gap is where copay-program economics live or die. The printable [Coordination of Benefits Audit Worksheet](https://www.rxbs.org/toolkit/cob-audit) lays out all three passes so you can run them with your broker.
+The reveal tells you the structure. These three checks tell you whether it is running on your plan. The gap between where your members think their specialty script gets filled and where the rules actually send it is where the dollars go. The printable [Specialty Routing Audit Worksheet](https://www.rxbs.org/toolkit/specialty-routing) lays out all three checks so you can run them with your broker.
 
 ---
 
@@ -277,10 +272,10 @@ The decoded vocabulary tells you the COB rules. The audit tells you how COB actu
 
 ### Field Note Meta
 
-**SEO Title:** Auditing Your Coordination of Benefits Claims | Benefit Blind Spots
-**SEO URL Slug:** audit-coordination-of-benefits-claims
-**Meta Description:** Five COB terms decoded this morning. Three audit passes plan sponsors can run on COB-flagged claims, the pattern PBS sees most often, and what to bring to renewal.
-**Tags:** coordination of benefits, COB, primary secondary, Medicare secondary, copay assistance, copay accumulator, copay maximizer, PBM contracts
+**SEO Title:** Is Your PBM Steering Specialty Scripts to a Pharmacy It Owns? | Benefit Blind Spots
+**SEO URL Slug:** owned-pharmacy-specialty-steering-audit
+**Meta Description:** The FTC found PBMs pay their own pharmacies more than independents for the identical specialty drug, then route the script there. Three checks a plan sponsor runs to find the steering funnel on their plan.
+**Tags:** specialty pharmacy, owned pharmacy, PBM steering, prior authorization, network design, specialty routing, FTC, self-funded employers
 
 ---
 
@@ -291,7 +286,7 @@ The decoded vocabulary tells you the COB rules. The audit tells you how COB actu
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design Explanation-of-Benefits documents in Primary Blue (#015880) outline, side-by-side, each roughly 360px tall, slightly overlapping. Each document is labeled in Plex Mono Medium uppercase across its top banner: "PRIMARY," "SECONDARY," "COPAY ASSIST." A small Accent Blue (#A7E0FA) coordination-arrow runs across the top of the three documents, suggesting claim flow. Three small numbered hash marks in Accent Blue (#A7E0FA) below the documents, suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers near the seam between the SECONDARY and COPAY ASSIST documents. Below the composition, a two-tone centered headline: "Three EOBs." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "One Coordination Rule." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. One contract clause. Where copay-program economics live or die." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design funnel in Primary Blue (#015880) outline, roughly 480px tall, centered. Several small prescription-script icons in Gray (#4D4D4D) drop into the wide top of the funnel, and a single Accent Blue (#A7E0FA) arrow channels them out the narrow bottom into one pharmacy-building icon labeled "PBM-OWNED" in Plex Mono Medium uppercase. To the side, a faded second pharmacy-building icon labeled "INDEPENDENT" sits bypassed, with a thin Accent Blue (#A7E0FA) dotted line crossing away from it. A small price tag in Accent Blue (#A7E0FA) on the owned pharmacy reads "PAID MORE" in Plex Mono Medium. Three small numbered hash marks in Accent Blue (#A7E0FA) along the lower edge, suggesting three audit checks. Below the composition, a two-tone centered headline: "Same drug." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "The rules pick the pharmacy." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three checks to find owned-pharmacy steering on your plan." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -305,40 +300,40 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: Coordination of Benefits (COB) Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/cob-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+This section is the operational source-of-truth for the Wix work this week. **Per the refer-back-first rule, NO new toolkit is minted this week.** The Thursday owned-pharmacy steering reveal reuses the existing live **Specialty Routing Audit Worksheet** (`rxbs.org/toolkit/specialty-routing`, W22 Thursday, Clinical Pharmacy Perspectives), whose mechanic ("where your specialty scripts get routed, and why it costs more") is exactly the steering funnel this week's Field Note audits. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+
+_Library refer-back note: the existing `specialty-routing` worksheet already covers specialty-script routing to the PBM-owned pharmacy and the price difference it hides, which is precisely the Field Note's three checks. Rather than build a near-duplicate, this week links the live `rxbs.org/toolkit/specialty-routing` in the Monday deep dive body (specialty-routing reference), the Thursday Field Note body, and the LinkedIn / X first comments. No HTML/PDF asset edit is required; if the live worksheet's preview/X crop needs a refresh, report that to the toolkit-build owner (this file does not edit shared `templates/documents/` assets)._
 
 ---
 
-## Toolkit 1 — Thursday Field Note Handout · Coordination of Benefits (COB) Audit Worksheet
+## Toolkit 1 (REUSED, not minted) — Thursday Field Note Handout · Specialty Routing Audit Worksheet
 
-### Wix Toolkits dataset row
+### Wix Toolkits dataset row (existing row — no new row created)
 
 | Column | Value |
 |---|---|
-| `slug` | `cob-audit` |
-| `name` | `Coordination of Benefits (COB) Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `COB claim-flag audit` |
-| `pillar` | `Self-Funded Employer Guidance` |
+| `slug` | `specialty-routing` |
+| `name` | `Specialty Routing Audit Worksheet` |
+| `pdf_url` | `[existing — already populated from W22 build]` |
+| `mechanic_phrase` | `specialty-script routing / owned-pharmacy steering` |
+| `pillar` | `Clinical Pharmacy Perspectives` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
-| `second_toolkit_blurb` | `COB flagging at the claim level determines whether copay-assistance dollars stack onto your plan's out-of-pocket maximums or stay separate. The economics of that flag are entirely about the rebate-retention and manufacturer-direct streams in your PBM compensation. This worksheet maps all five compensation streams and the disclosure-gap framework that surfaces which mechanism your COB workflow is silently optimized for.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `second_toolkit_blurb` | `Owned-pharmacy steering is one revenue stream. The PBM Compensation Audit Worksheet maps all five revenue streams that flow from your plan to your PBM, including the owned-pharmacy reimbursement gap, so you can see whether routing is the only place margin is hiding or one of several.` |
+| `field_note_title` | `Where Does Your Specialty Script Actually Get Filled?` |
+| `field_note_url` | `[fill after Thursday Field Note publishes — Substack URL]` |
 
-### Wix build checklist
+### Wix build checklist (reuse path — light)
 
-- [ ] Upload `templates/documents/week_30_thursday_cob_audit_worksheet.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Confirm `rxbs.org/toolkit/specialty-routing` renders correctly (existing live page from W22)
+- [ ] Update the existing `specialty-routing` row's `field_note_title` to this week's Field Note and, after it publishes, the `field_note_url`
 - [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/cob-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [ ] No new Wix Media upload and no new CMS row needed (reused asset)
+- [ ] Optional: refresh the worksheet preview / X crop via the toolkit-build owner if the live image is stale
 
 ### Pairing rationale
 
-PBM Compensation universal anchor (COB ties to rebate-retention and manufacturer-direct streams). Channel Pricing Field Note carries the same audit posture.
+Refer-back-first: the `specialty-routing` worksheet's mechanic is owned-pharmacy steering, the exact concept of the Thursday reveal, so it exclusively supports the post and concentrates downloads on one canonical asset rather than splitting them across a near-duplicate. PBM Compensation remains the universal "zoom out" anchor (owned-pharmacy reimbursement is one of its five revenue streams).
 
 ---
 
@@ -410,10 +405,10 @@ The same infusion can cost multiples more in a hospital outpatient setting than 
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
-And this week's Coordination of Benefits (COB) Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/cob-audit
+And the Specialty Routing Audit Worksheet is the companion to run on your own plan, to see where your specialty scripts actually get filled: rxbs.org/toolkit/specialty-routing
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/cob-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_Toolkit is the existing live `rxbs.org/toolkit/specialty-routing` page (reused, not minted this week). Confirm it renders before scheduling. If it is somehow unavailable, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
 
 
 ---
@@ -629,80 +624,82 @@ This week's Benefit Blind Spots deep dive on site-of-care optimization is the op
 
 _The Site-of-Care Decision Framework whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Site-of-Care Decision Framework). The live Thursday post is below._
 
-### Thursday Excellence Slot - 5 Coordination of Benefits Terms Decoded — Three-EOB Photoreal Messy Infographic
+### Thursday Excellence Slot - Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There — Owned-Pharmacy Steering Reveal (Messy Infographic)
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot B "Same infusion. Hospital. Office. Home. Four prices." four-placard photoreal carousel on Cost Containment / Site of Care. Displaced under Architecture B — Same infusion site-of-care content matched Monday Site-of-Care Optimization topic family. Replaced with 5 COB Terms Decoded Three-EOB Photoreal messy infographic that pairs with W30 Field Note "Auditing Your Coordination of Benefits Claims." Original four-placard Slot B carousel content preserved in `evergreen_visual_backlog.md` as concept #31.
+> **NOTE (rebuilt June 2026, revised to avoid W29 collision):** This Thursday reach slot previously ran "5 Coordination of Benefits Terms Decoded" (Three-EOB photoreal), a vocabulary decoder, the weak summer shape (vocabulary decoders top out near 4-5K impressions in the trough; the shocking hidden-structure reveal clears 15-18K even in the trough, proven by the offshore-rebate-aggregator reveal at 17,816 organic). The first rebuild used the copay-maximizer "non-essential health benefit" reveal (`shocking_fact_bank.md` entry #5), but W29 (adjacent, Rebate Economics) also rebuilt its Thursday into that same fact. The same shocking fact cannot run two weeks running, so W30 switched to the **owned-pharmacy steering reveal** (`shocking_fact_bank.md` entry #3): the FTC's January 2025 staff report found the big-3 PBMs reimburse their own pharmacies meaningfully more than independent pharmacies for the identical specialty generic, with the heaviest-markup scripts disproportionately routed to the pharmacies they own. Framed as a SITE-OF-CARE STEERING FUNNEL: the prior-auth and network rules quietly route the specialty script to the owned pharmacy. This is the natural site-of-care reveal for W30.
+> **Distinct check (triple-distinct + adjacency-ceiling rule):** Mon = Site-of-Care (where infusions are administered) · Tue = year-end renewal decisions · Wed = rebate clawback on GLP-1 lifestyle support (SHRM clip) · Thu = owned-pharmacy steering reveal (the prior-auth + network funnel that routes the specialty script to the PBM-owned pharmacy). Four different subjects; no two collapse to one topic family. Steering/routing is adjacent to Monday's site-of-care subject but a different mechanism (who fills the script and at what rate, not which administration setting), so it holds at the adjacency ceiling without colliding.
+> **Distinct from W28 (load-bearing):** W28 (Network Design) wove the same FTC own-pharmacy stat as a GENERIC-SPREAD / GER-average reveal (the $0.12 acquisition vs $9 paid "average hides the spread" angle). W30 deliberately does NOT reuse that angle. W30's mechanism is the routing funnel (prior-auth + network steering, the >$1,000 scripts landing at the owned pharmacy), a different mechanism and a different hook.
+> The displaced "5 COB Terms Decoded" content was not shipped as a duplicate. No dead/duplicate block remains; the Field Note (PART 1B) is fully retargeted to this steering concept.
 
-**Format:** Single messy infographic, Three-EOB Photoreal aesthetic (three Explanation-of-Benefits documents on a desk with handwritten coordination-flow notes). 1080 x 1350 px.
-**Pillar:** PBM Contract Insights
-**Field Note pairing:** Same-day Substack Field Note "Auditing Your Coordination of Benefits Claims."
-**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "COB Claims Audit Worksheet" — `templates/documents/week_30_thursday_cob_audit_worksheet.html/.pdf`.
+**Format:** Single messy infographic, photoreal aesthetic (a prior-auth form and a routing slip on a desk with handwritten red-pen annotations showing the script funneled to the owned pharmacy). 1080 x 1350 px. Per the mobile-feed legibility rule: 5 items max, large primary type, payload dominates the center ~70%.
+**Pillar:** Clinical Pharmacy Perspectives (specialty routing / site-of-care steering)
+**Field Note pairing (exclusive):** Same-day Substack Field Note "Where Does Your Specialty Script Actually Get Filled?" The Field Note exclusively supports this concept (Thursday Excellence component 5).
+**Reference document pairing:** Same-day Plan Sponsor Toolkit handout, the REUSED live Specialty Routing Audit Worksheet at `rxbs.org/toolkit/specialty-routing` (refer-back-first; no new toolkit minted).
+**Shocking fact woven:** `shocking_fact_bank.md` entry #3, FTC Second Interim Staff Report (Jan 2025): big-3 PBMs reimburse their own pharmacies up to ~100% more than independents for the identical specialty generic, with the >$1,000/script markups disproportionately routed to owned pharmacies. Cited as "the FTC found" in-post; no invented dollar figure in the post body.
 
-**Winning-profile traits hit (10 of 10):** decoder shape · dollar-comparison shape (member responsibility shifts across coordination scenarios) · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Three-EOB Photoreal) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
+**Winning-profile traits hit (8+ of 10):** shocking hidden-structure reveal (replaces decoder shape) · named-actor framing (the PBM as the actor steering and self-paying; the plan as the payer) · dollar-comparison shape (owned vs independent rate for the same drug) · plan-sponsor-actionable · confrontational hook delivered as a shock · messy infographic / photoreal aesthetic · first-comment Substack cross-promo · proprietary anchor (hundreds of contracts a year) · save-driven structure · single-image photoreal aesthetic.
+
+**Thursday Excellence 5-trait audit:** (1) Format = single messy-infographic photoreal at 1080x1350 ✓. (2) Hook = confrontational named-actor, revealing the hidden steering funnel as a shock ("Your PBM pays its own pharmacy up to twice what it pays the independent down the street for the identical drug. Then its prior-auth rules make sure your script lands there.") ✓. (3) Proprietary anchor = "We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and in most plans we audit, well over half the specialty scripts fill at a pharmacy the PBM owns" ✓. (4) First comment names the same-day Field Note specifically (the three checks) + cross-promo link ✓. (5) Field Note (PART 1B) exclusively supports this concept, the operational follow-on (how to find the steering on your own plan) ✓.
 
 #### Post Copy
 
 ```
-Five contract terms decide how a single claim coordinates across primary, secondary, and copay assistance. Most plan sponsors never audit how the rules execute.
+Your PBM pays its own pharmacy up to twice what it pays the independent down the street for the identical drug. Then its prior-auth rules make sure your specialty script lands there.
 
-We run coordination-of-benefits audits as part of our claims reviews at PBS. The COB clause is in nearly every contract. The COB audit is in almost no plan sponsor's quarterly review. The accumulator and maximizer programs that sit on top of these clauses depend entirely on accurate flagging, and the flagging is rarely audited.
+That is not a network. It is a funnel with a price tag, and most plan sponsors have never been shown how it works.
 
-Five terms to know:
+The FTC put it on the record. In its January 2025 staff report, the FTC found the big-3 PBMs reimbursed their own pharmacies meaningfully more than independent pharmacies for the identical specialty generic, and that the drugs with the largest per-script markups were disproportionately routed to the pharmacies the PBM owns. The sicker the member and the more expensive the drug, the more likely the script was steered to the owned pharmacy.
 
-1. **Primary-Secondary Determination.** The order in which coverage applies when a member has multiple plans. Standard rules exist (birthday rule, employee/dependent), but the contract's language can vary the default, and the default determines who pays first.
+We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and in most plans we audit, well over half the specialty scripts fill at a pharmacy the PBM owns. No member chose that. The rules chose it for them.
 
-2. **Member Responsibility Carve-Out.** What portion of the claim the member must absorb regardless of secondary coverage. Carve-out language can shift the deductible / OOP-max calculation in ways that change the year-end member burden.
+Here is how the funnel works, in order:
 
-3. **Medicare-as-Secondary Handling.** When members have Medicare entitlement, how the plan coordinates with Medicare's payment rules. Misclassified Medicare-secondary claims drive overpayments by the plan and underpayments by the member.
+1. The drug needs prior authorization. The PBM controls the criteria.
 
-4. **Copay Assistance Crediting.** Whether manufacturer copay card dollars credit toward the member's deductible (maximizer-style) or bypass it (accumulator-style). The flag at the claim level is what makes the program work.
+2. The approved pathway designates the PBM's own specialty pharmacy as the place to fill it.
 
-5. **Double-Dipping Prevention.** Language that prevents the plan from paying the same claim twice across primary and secondary coverage. Audit-rights territory; rarely flagged on the standard report.
+3. The network language makes any other pharmacy harder, slower, or out of network.
 
-The COB clause is the contract. The COB workflow is the operations. The gap is where copay-program economics live or die.
+4. The script fills at the owned pharmacy, which the PBM reimburses at its own rate, the higher one.
+
+5. Your plan pays that rate. The clinical question was where the drug is safest to fill. The financial question, who profits from the answer, never got asked.
 
 Save this for your next quarterly review.
 
-#PBMContracts #CoordinationOfBenefits #SelfFundedEmployers
+#SpecialtyPharmacy #PBMContracts #SelfFundedEmployers
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on COB-flagged claims (pull the COB-flagged sample, classify by coordination type, compare outcomes to the contract clause). Plus a paste-ready Coordination of Benefits (COB) Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on: the three checks to find whether owned-pharmacy steering is running on your own plan (pull your specialty claims by filling pharmacy; read the prior-auth and network rules that route the script; compare the owned-pharmacy rate to an independent benchmark). Plus the Specialty Routing Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Three-EOB Photoreal Image Generation Prompt
+#### Image Generation Prompt (Owned-Pharmacy Steering Reveal · Messy Infographic Photoreal)
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). Three identical-looking insurance Explanation of Benefits pages are laid out side by side on a dark wood desk, evenly spaced, slight perspective angle. Each page has the header "Explanation of Benefits" printed at the top in clean serif type. Reading left to right, each page has a distinct printed sub-header label below the EOB title, indicating the coordination role:
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). On a dark wood desk, a printed "PRIOR AUTHORIZATION" form sits in the center filling the center ~70% of the frame, slight perspective angle. Below and to the right of it, a small printed routing slip reads "FILL AT: SPECIALTY PHARMACY (OWNED)" in clear type. A simple hand-drawn funnel is sketched in black marker over the open desk space, with several small drawn prescription scripts dropping into the wide top and a single bold red arrow channeling them out the narrow bottom toward the routing slip. A capped red ballpoint pen rests diagonally across the lower-right corner of the form.
 >
-> - Page 1: "PRIMARY · This Plan"
-> - Page 2: "SECONDARY · Spouse's Plan"
-> - Page 3: "COPAY ASSIST · Manufacturer Card"
+> Above the form, in larger handwritten black-marker handwriting, double-underlined: "Same drug. The rules pick the pharmacy."
 >
-> Each EOB shows the same printed claim header (same drug, same date, same member ID) but a different "Member Responsibility" total in larger bold type. A capped red ballpoint pen rests diagonally across the upper-right corner of the right-most EOB.
+> Five handwritten red ballpoint annotations are written in the open desk space around the form, generously spaced, each large enough to read at thumbnail size, pointing at the relevant element:
+> - Pointing at the prior-auth form: "PA criteria: the PBM writes them"
+> - Pointing at the routing slip: "Approved pathway = the PBM's OWN pharmacy"
+> - Pointing at the funnel: "Network rules make any other pharmacy harder"
+> - Pointing at the owned-pharmacy end: "Owned pharmacy paid up to 2x the independent rate (FTC, Jan 2025)"
+> - Pointing across the bottom: "Biggest-markup scripts land here"
 >
-> Above the three EOBs, in larger handwritten black-marker handwriting, double-underlined: "Same claim. Three EOBs. Five COB clauses."
+> Below the form, in larger red marker, double-underlined: "Not a network. A funnel with a price tag."
 >
-> Five handwritten red ballpoint annotations are written in the spaces between and below the EOBs, each pointing at a coordination scenario:
-> - Pointing between Pages 1 and 2: "Primary-Secondary determination order"
-> - Pointing at Page 1 sub-header: "Member responsibility carve-out"
-> - Pointing at Page 2: "Medicare-as-secondary handling (when applicable)"
-> - Pointing between Pages 2 and 3: "Copay assistance crediting — accumulator or maximizer?"
-> - Pointing across all three: "Double-dipping prevention language"
+> Below that, in smaller handwritten red pen: "We review hundreds of PBM contracts a year. In most plans, over half of specialty scripts fill at a pharmacy the PBM owns."
 >
-> Below the three EOBs, in larger red marker, double-underlined: "Five COB clauses. The flag at the claim level is what makes copay programs work."
->
-> Below that, in smaller handwritten red pen: "PBS reviews 100s of PBM contracts a year. The COB workflow is rarely audited."
->
-> Style: realistic document photography, soft natural daylight from upper-left, subtle shadow under each page, slight paper curl at the corners, faint paper texture. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style) for authenticity. Colors: off-white EOB pages with black printed text, dark wood desk, red handwritten ballpoint, black handwritten title marker. No logos, no brand marks, no people, no insurance carrier names, no member names.
+> Style: realistic document photography, soft natural daylight from upper-left, subtle shadow under the form, slight paper curl at the corners, faint paper texture. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style) for authenticity. Colors: off-white printed forms with black printed text, dark wood desk, red handwritten ballpoint and red arrow, black handwritten title marker and funnel sketch. No logos, no brand marks, no people, no pharmacy chain names, no member names.
 
 **Post-Generation Steps:**
 1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px to verify legibility of the three EOB sub-header labels and five red-pen annotations at mobile size
+2. Open in Canva at 1080 x 1350 px and run the mandatory mobile-feed legibility check at ~400px wide: the title and the "FILL AT: OWNED" routing slip must read at thumbnail size; the five red-pen annotations must read on tap. Cap at five annotations, generously spaced.
 3. If any handwritten annotation renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
-4. Verify the title "Same claim. Three EOBs. Five COB clauses." reads cleanly in feed thumbnail
-5. Verify the three EOB sub-headers render distinctly (PRIMARY / SECONDARY / COPAY ASSIST — most common AI failure: repeated text)
+4. Verify the funnel + red arrow clearly channels the scripts to the OWNED pharmacy (the visual payload of the reveal)
+5. Verify the "(FTC, Jan 2025)" citation renders cleanly (most common AI failure: mangled text); re-overlay in red ink if needed
 6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
 7. Export as PNG at 1080 x 1350
 
@@ -710,16 +707,16 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 
 ## Post 111 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 46 words
+**Word Count:** 49 words
 
 #### Reshare Copy
 
 ```
-Five contract terms decide whether secondary-payer dollars actually credit the plan. COB methodology, member-flagging accuracy, claim-level adjudication, audit window, and remediation timing each shape what comes back.
+Your PBM pays its own pharmacy more than the independent down the street for the identical specialty drug, then uses prior-auth and network rules to route your script there. The FTC documented it in January 2025. Not a network. A funnel.
 
-Ginny Crisp decodes the COB clauses and the audit that surfaces the gap.
+Ginny Crisp on how to find the steering on your plan.
 
-#PBMContracts #PlanSponsors #PharmacyBenefits
+#SpecialtyPharmacy #PlanSponsors #PharmacyBenefits
 ```
 
 ---
@@ -794,7 +791,7 @@ I had a medical plan administrator tell me he had never coordinated with a PBM o
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: white bagging vs. brown bagging. Both move drugs from medical to pharmacy benefit. Both reduce cost. They work differently, and the practical implications matter.
+New field note: where does your specialty script actually get filled? Your PBM pays its own pharmacy more than the independent for the identical drug, then its prior-auth and network rules route your script there. The FTC documented the rate gap in January 2025. Three checks tell you whether the steering is running on your plan.
 
 Read: [LINK]
 
@@ -1063,7 +1060,7 @@ One question that changes the room: "Show me the difference between what you pai
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
 - [ ] Tuesday: Post 109 One Number Carousel 10:00 AM + Reshare
 - [ ] Wednesday: Post 110 Text/Video 10:00 AM (VIDEO TEST #3)
-- [ ] Thursday: Field Note 7:30 AM, Post 111 Carousel 10:00 AM + Reshare
+- [ ] Thursday: Field Note "Where Does Your Specialty Script Actually Get Filled?" 7:30 AM, Post 111 owned-pharmacy steering reveal messy infographic 10:00 AM + Reshare (Thursday Excellence: confirm the 5-trait audit note in Post 111 before scheduling)
 - [ ] Friday: Post 112 Tease 10:00 AM
 - [ ] Evaluate video test results: compare 3 video tests (Weeks 26, 28, 30) vs text baselines
 - [ ] Daily Substack Notes
@@ -1075,7 +1072,7 @@ One question that changes the room: "Show me the difference between what you pai
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 109 One Number Carousel | 7 slides (1080x1350) | "5 Self-Funded Decisions That Have to Land Before Year-End" — Q4 renewal-prep decisions anchored by dates and counts, Self-Funded Employer Guidance pillar |
-| Post 111 COB Terms Decoded (Three-EOB Photoreal Messy Infographic) | 1080x1350 | "5 Coordination of Benefits Terms Decoded" — PBM Contract Insights pillar |
+| Post 111 Owned-Pharmacy Steering Reveal (Messy Infographic Photoreal) | 1080x1350 | "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" — owned-pharmacy steering shocking reveal, Clinical Pharmacy Perspectives pillar. Mobile legibility: 5 annotations max, funnel-to-OWNED routing + title readable at thumbnail |
 | In-Article Visual: Site-of-Care Decision Framework (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Post 110 Video (optional) | Vertical, 45 sec | VIDEO TEST #3 |
 | Substack header | 2240x1260 | [ ] |

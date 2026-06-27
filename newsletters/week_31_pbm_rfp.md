@@ -5,7 +5,9 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday slot = live "5 PBM Disclosure Terms Decoded" Sticky Note Dashboard; the repurposed RFP Process Timeline whiteboard moved into PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (the repurposed RFP Process Timeline whiteboard moved into PART 1 as an In-Article Visual)._
+
+> **REBUILD NOTE (June 27, 2026):** The Thursday reach post (Post 115) was rebuilt from the weak "5 PBM Disclosure Terms Decoded" Sticky Note Dashboard vocabulary decoder (summer-trough decoders top out ~4-5K impressions) into a **shocking hidden-structure reveal**: PBM market concentration / both sides of the counter (`shocking_fact_bank.md` entry #4, FTC July 2024 interim report). Reveals of this shape clear 15-18K organic even in the trough (the offshore rebate-aggregator reveal hit 17.8K fully organic). The Thursday Field Note (PART 1B) was retargeted to exclusively support the concentration reveal; the displaced "Auditing Your PBM's Annual Disclosure Obligations" Field Note is noted for `field_note_backlog.md` (FN-parking note in PART 1B). Still-useful decoded disclosure-term detail was folded into the new Field Note's leverage section. Triple-distinct holds: Mon = PBM RFP process · Tue = Cost containment levers/clocks · Thu = PBM market concentration.
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -35,13 +37,13 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Aug 5 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Aug 5 | 7:00 PM | X | question [A11] | PART 4B · Wed | [ ] |
 | Wed Aug 5 | 8:30 PM | X | aphorism [C3] | PART 4B · Wed | [ ] |
-| Thu Aug 6 | 7:30 AM | Substack | Field Note: "Auditing Your PBM's Annual Disclosure Obligations" | PART 1B | [ ] |
+| Thu Aug 6 | 7:30 AM | Substack | Field Note: "Why Do Three PBMs Control 80% of Prescriptions, and What Can a Plan Sponsor Do About It?" | PART 1B | [ ] |
 | Thu Aug 6 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 6 | 10:00 AM | LI Feed | Post 115 — "5 PBM Disclosure Terms Decoded" (Sticky Note Dashboard) | Post 115 | [ ] |
+| Thu Aug 6 | 10:00 AM | LI Feed | Post 115 — "Three Companies. Both Sides of the Counter." (Market Concentration reveal, clean-conceptual infographic) | Post 115 | [ ] |
 | Thu Aug 6 | 10:05 AM | LI Feed | Post 115 first comment | Post 115 | [ ] |
 | Thu Aug 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 1:30 PM | LI Company | Reshare of Post 115 | Post 115 Reshare | [ ] |
-| Thu Aug 6 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
+| Thu Aug 6 | 5:00 PM | X | concentration reveal (amplifies Post 115, LinkedIn-first → after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 6 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 6 | 7:00 PM | X | question [A12] | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 8:30 PM | X | one question [B3] | PART 4B · Thu | [ ] |
@@ -248,56 +250,59 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## Auditing Your PBM's Annual Disclosure Obligations
+## Why Three PBMs Control 80% of Prescriptions, and What a Plan Sponsor Can Actually Do About It
 
-**Display Title:** Auditing Your PBM's Annual Disclosure Obligations
-**SEO Title (AEO):** What Disclosures Does a PBM Owe a Self-Funded Plan? (Auditing Disclosure Obligations)
-**SEO Subtitle:** Three audit passes to check whether your PBM has delivered the disclosures the contract requires
+**Display Title:** Why Three PBMs Control 80% of Prescriptions, and What a Plan Sponsor Can Actually Do About It
+**SEO Title (AEO):** Why Do Three PBMs Control 80% of US Prescriptions, and What Can a Self-Funded Plan Do About It?
+**SEO Subtitle:** The market concentrated to three companies that sit on both sides of the counter. A real RFP is the one piece of leverage a plan sponsor still holds.
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, August 6, 2026 at 7:30 AM EST
-**Length:** ~580 words (~3 min read)
+**Length:** ~600 words (~3 min read)
 **Tone:** Practical, tactical
-**Pillar:** PBM Contract Insights
+**Pillar:** Transparency & Industry Education
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "5 PBM Disclosure Terms Decoded" Sticky Note Dashboard messy infographic. LinkedIn post decodes the disclosure vocabulary; Field Note is the operational follow-on for auditing whether the PBM has actually delivered the disclosures the contract obligates them to provide.
-**Why this pairing (not the displaced "Normalizing Pricing Proposals" draft):** Architecture B triple-distinct topic rule — Monday W31 is PBM RFP Process; Thursday is PBM Disclosure (annual audit obligations). Adjacent within PBM Contract Insights pillar, different subject matter (RFP selection process vs. ongoing disclosure audit). Original "Normalizing PBM Pricing Proposals" Field Note parked as FN-14.
+**Pairs with:** Thursday LinkedIn Post 115 "Three Companies. Both Sides of the Counter." (market-concentration reveal, clean-conceptual infographic). The LinkedIn post lands the shock of the concentration figure; this Field Note is the operational follow-on that turns the figure into the one move a plan sponsor still controls: running a real RFP instead of rubber-stamping a renewal.
+**Why this pairing:** Triple-distinct topic rule holds. Monday W31 is the PBM RFP process (what to ask, scoring). Tuesday Post 113 is cost-containment levers (Cost Containment pillar). Thursday is PBM market concentration (Transparency pillar) tied back to the RFP angle. Three different subjects. The Field Note exclusively supports the Thursday concentration reveal, not Monday's RFP-mechanics deep dive.
+**FN-parking note (for `field_note_backlog.md`, do not edit that file here):** The displaced "Auditing Your PBM's Annual Disclosure Obligations" Field Note (three audit passes on the disclosure clause: list obligations by cadence, catalog what was received this year, send a written request for the gap items; paired to the now-retired "5 PBM Disclosure Terms Decoded" Sticky Note Dashboard) is genuinely homeless this week. Park it as a future-Thursday draft on the PBM Contract Insights pillar. Re-anchoring checklist for reuse: refresh the proprietary anchor to a current year's contract-review count; confirm the `rxbs.org/toolkit/pbm-disclosure-audit` worksheet still resolves; re-pair to a week whose Monday topic is in a different pillar family from disclosure/transparency. The five decoded disclosure terms (rebate-flow attestation, conflict-of-interest disclosure, data-partnership disclosure, audit-results delivery, material-change notice) carry forward intact in that parked draft.
 
 ---
 
 ### Field Note Body
 
-**A PBM's annual disclosure obligations are the rebate-flow attestations, conflict-of-interest and data-partnership disclosures, audit-results delivery, and material-change notices the contract requires it to hand over, and a self-funded plan audits them by listing every obligation by cadence from the contract, cataloging what it actually received over the past 12 months, and sending a written request for the missed items, because most contracts require at least four disclosures while plan sponsors usually receive only one.**
+**Three PBMs now process about 80 percent of the roughly 6.6 billion prescriptions US pharmacies filled in 2023, up from 52 percent in 2004, and their affiliated pharmacies collect about 70 percent of all specialty drug revenue (the FTC's July 2024 interim report), which means a self-funded plan is no longer choosing among independent vendors in a competitive market. It is choosing among three companies that set the price and own the pharmacy filling the script. The one piece of leverage left is a real RFP: a structured, scored bid that forces these three to compete on specifics they would rather leave vague, not a renewal you rubber-stamp.**
 
-This morning's LinkedIn post decoded the five disclosure obligations PBMs typically include in their contracts: rebate-flow attestation, conflict-of-interest disclosure, data-partnership disclosure, audit-results delivery, and material-change notice. Today is the operational follow-on. You have the vocabulary. Here is how to audit whether your PBM has actually delivered the disclosures the contract obligates them to provide.
+This morning's LinkedIn post put one number in front of the audience: three companies decide what 80 percent of American prescriptions cost, and the same three own the pharmacies that collect 70 percent of every specialty dollar. Both sides of the counter. Today is the operational follow-on. The concentration is the diagnosis. The RFP is the response.
 
-We run disclosure audits as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
+I run hundreds of PBM contract reviews and RFP evaluations a year at Prescription Benefit Solutions, and the question I hear most after the concentration figure lands is the right one: if three companies control the market, what leverage does any single employer actually have?
 
-**Pass one: pull the contract's disclosure clause and list every obligation by cadence**
+More than it feels like. Here is why, and how to use it.
 
-Open your contract. Find the disclosure clause (sometimes a single clause, sometimes scattered across reporting, audit, and conflicts sections). For each disclosure obligation, document: what the PBM must disclose, to whom, on what cadence (annual, quarterly, on-event), and in what format.
+**Why concentration does not erase your leverage**
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: most contracts have at least four required disclosures, but plan sponsors typically receive only one (the standard quarterly report). The other three are obligations the PBM has but rarely fulfills proactively.
+A concentrated market is not the same as a market with no competition. The big three still want your covered lives, and they still bid against each other when they are forced to. What concentration removes is your *default* leverage. You can no longer assume a competitive market is pricing your contract for you, because the same three companies set the benchmark, own the pharmacy, and write the definitions. The competition does not happen unless you stage it.
 
-**Pass two: collect what you've actually received in the past 12 months**
+A renewal does not stage it. A renewal lets the incumbent re-price its own deal. A real RFP does, by making all three answer the same scored questions side by side.
 
-Pull all formal communications from the PBM over the past year: quarterly reports, annual attestations, ad-hoc notifications, audit responses, conflict-of-interest disclosures. Catalog by date and content category.
+**What a real RFP forces that a renewal never does**
 
-Compare to the contract list. Which obligations were fulfilled? Which were missed entirely? Which were partial?
+When you run a structured bid, the concentration that works against you on the open market starts working for you at the table. Three near-identical giants competing for the same lives have to differentiate on the specifics they normally leave soft:
 
-**Pass three: send a written disclosure request for the missed items**
+> **The AWP source and update methodology**, not "industry standard AWP."
+> **The complete rebate definition**, including whether manufacturer payments routed as "administrative fees" pass through.
+> **Whether specialty claims are in the rebate-eligible denominator**, given that affiliated pharmacies collect ~70 percent of specialty revenue.
+> **The owned-pharmacy routing rules**, so you can see how much of your specialty spend the prior-auth rules steer to a pharmacy the PBM owns.
+> **The termination and audit rights**, so the contract you sign is one you can actually leave and actually check.
 
-For each missed disclosure, draft a written request citing the contract clause that requires it. Send through your broker. Document the PBM's response in writing.
-
-The PBM's response itself is informative. A PBM operating with disclosure transparency will produce the missing items within the contractual timeline. A PBM that treats disclosure obligations as optional will deflect, delay, or claim the obligations are "informally satisfied" through other communications. The deflection is the finding.
+Score each answer 0 to 3. A vague answer costs points. The proposal that looked cheapest on the cover page is often the most expensive once the methodologies are normalized, which is exactly the pattern Monday's deep dive walks through with the full 30-question bank.
 
 **What to do this quarter**
 
-> **Pull the disclosure clause and build the obligation list.** Annual cadence vs. quarterly vs. on-event.
-> **Compare to what you received this year.** Identify gaps.
-> **Send a written request for the gap items.** Document responses.
+> **Stop treating the renewal as the decision.** A renewal is the incumbent pricing its own deal.
+> **Put all three on the same scored RFP.** Concentration means there are only a few bidders; that is a reason to make them compete, not a reason to skip it.
+> **Normalize before you rank.** Same AWP source, same cost basis, same rebate definition, owned-pharmacy routing on the table.
 
-The decoded vocabulary tells you what the PBM owes you. The audit tells you what they have actually delivered. The gap is your renewal-leverage item. The printable [PBM Disclosure Audit Worksheet](https://www.rxbs.org/toolkit/pbm-disclosure-audit) walks all three passes so you can run them with your broker.
+The concentration is the reason a real RFP matters more now than it did in 2004, not less. The full 30-question scoring bank is in [Monday's deep dive](https://www.rxbs.org/guides/pbm-contract-audit), and the printable RFP scoring framework is on our toolkit page so you can run it with your broker.
 
 ---
 
@@ -310,13 +315,13 @@ The decoded vocabulary tells you what the PBM owes you. The audit tells you what
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design checklist in Primary Blue (#015880) outline, roughly 380px tall, with "DISCLOSURE OBLIGATIONS" rendered in Plex Mono Medium uppercase across the top banner. Inside the checklist, five horizontal rows, each with a small checkbox on the left in Primary Blue. The first row's checkbox shows a small Accent Blue (#A7E0FA) check mark; rows two through five show empty checkboxes with a small red "?" symbol next to each. Three numbered tick marks in Accent Blue (#A7E0FA) along the right edge, suggesting three audit passes. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers over rows two through five. Below the composition, a two-tone centered headline: "Five Disclosures Owed." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "One Is Usually Delivered." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes. Four missing items. The gap is your leverage." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a single tall pharmacy-counter icon in Primary Blue (#015880) outline running down the middle of the frame, roughly 420px tall, splitting the composition into two mirrored halves. On the LEFT half, a flat-design price-tag icon in Primary Blue with "80%" rendered large in Plex Mono Medium Accent Blue (#A7E0FA) and the small Plex Sans Regular label "sets the price". On the RIGHT half, a flat-design pharmacy/storefront icon in Primary Blue with "70%" rendered large in Plex Mono Medium Accent Blue (#A7E0FA) and the small Plex Sans Regular label "owns the pharmacy (specialty $)". Three small identical building icons in Primary Blue sit above the counter, joined by a brace, labeled "3 PBMs" in Plex Sans SemiBold Primary Blue. A thin Plex Mono Medium tick line along the bottom shows "52% (2004)" on the left rising to "80% (2023)" on the right, an Accent Blue arrow tracing the climb. Below the composition, a two-tone centered headline: "Both Sides of the Counter." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Three Companies." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly above it. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "A real RFP is the leverage left. FTC, July 2024." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
 2. Open in Canva and resize to 1200 x 600 px
 3. Add "Benefit Blind Spots" newsletter badge (Plex Sans SemiBold, 16-20pt) - top left
-4. Verify "FIELD NOTE" badge reads cleanly at thumbnail size
+4. Verify "FIELD NOTE" badge and the "80% / 70%" figures read cleanly at thumbnail size
 5. Add PBS logo (color version) - bottom right, 80-100px width
 6. Export as PNG
 
@@ -326,40 +331,38 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 # PART 1C: PLAN SPONSOR TOOLKIT PAIRINGS + WIX BUILD
 
-This section is the operational source-of-truth for the Wix work this week. One toolkit ships this week (thursday field note handout: PBM Disclosure Audit Worksheet); it becomes a row in the Wix `Toolkits` Data Collection at `rxbs.org/toolkit/pbm-disclosure-audit` and gets a 5-email welcome sequence wired through the existing Wix Automation. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
+This section is the operational source-of-truth for the Wix work this week. **No new toolkit is minted this week (refer-back-first per CLAUDE.md).** The rebuilt Thursday reach post and its retargeted Field Note are about PBM market concentration and the real-RFP response to it; the library already covers that mechanic with the **RFP Scoring Methodology Audit** (`rfp-scoring-audit`, built W25). We reuse it rather than producing a near-duplicate. The only weekly Wix action is confirming the existing row resolves and updating its `field_note_url`/`field_note_title` to this week's retargeted Field Note. Companion file: `email_gated_toolkit/toolkit_dataset.md`.
 
 ---
 
-## Toolkit 1 — Thursday Field Note Handout · PBM Disclosure Audit Worksheet
+## Toolkit (refer-back) — Thursday Field Note Handout · RFP Scoring Methodology Audit
 
-### Wix Toolkits dataset row
+### Wix Toolkits dataset row (existing — verify/refresh, do not re-create)
 
 | Column | Value |
 |---|---|
-| `slug` | `pbm-disclosure-audit` |
-| `name` | `PBM Disclosure Audit Worksheet` |
-| `pdf_url` | `[fill after Wix Media upload]` |
-| `mechanic_phrase` | `disclosure obligation audit` |
-| `pillar` | `Transparency & Industry Education` |
+| `slug` | `rfp-scoring-audit` |
+| `name` | `RFP Scoring Methodology Audit` |
+| `pdf_url` | `[already live from W25 — verify it still resolves]` |
+| `mechanic_phrase` | `score PBM RFP responses on what actually matters` |
+| `pillar` | `PBM Contract Insights` |
 | `second_toolkit_name` | `PBM Compensation Audit Worksheet` |
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
-| `second_toolkit_blurb` | `Disclosure obligations are the contractual mechanism for surfacing compensation streams the PBM otherwise does not name. PBM Compensation maps the five streams; PBM Disclosure audits whether the contract requires the PBM to disclose each. Together they pair as the substance (what the PBM is paid) and the form (how the contract requires it disclosed). The gap between the two is the renewal-leverage item.` |
-| `field_note_title` | `What We See When We Audit Channel Pricing` |
-| `field_note_url` | `https://benefitblindspots.substack.com/p/one-drug-class-to-watch-the-next` |
+| `second_toolkit_blurb` | `Concentration is the diagnosis; a real RFP is the response. The RFP Scoring Methodology Audit normalizes and scores the bids; the PBM Compensation Audit Worksheet maps the five revenue streams flowing from your plan to the PBM, so you know which streams the RFP questions have to pin down. Together: how to stage the competition, and what the bidders are paid that they would rather not itemize.` |
+| `field_note_title` | `Why Three PBMs Control 80% of Prescriptions, and What a Plan Sponsor Can Actually Do About It` |
+| `field_note_url` | `[fill after Thu Aug 6 Field Note publishes]` |
 
 ### Wix build checklist
 
-- [ ] Upload `templates/documents/week_31_thursday_pbm_disclosure_audit.pdf` to Wix Media Manager
-- [ ] Copy public URL → paste into `pdf_url` cell
+- [ ] Verify `rxbs.org/toolkit/rfp-scoring-audit` still renders (existing W25 row; no new upload needed)
 - [ ] Confirm `second_toolkit_pdf_url` is set (PBM Compensation Audit Worksheet → `templates/documents/week_27_thursday_pbm_compensation_audit.pdf`)
-- [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
-- [ ] Verify `rxbs.org/toolkit/pbm-disclosure-audit` renders correctly
-- [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [ ] Update the `field_note_title` cell to this week's retargeted Field Note title
+- [ ] After Thu Aug 6 Field Note publishes, paste the live Substack URL into `field_note_url`
+- [ ] Submit a test form → confirm Email 1 still fires within 5 min with the right PDF (regression check only; nothing new wired)
 
 ### Pairing rationale
 
-PBM Compensation is the natural substantive partner to a disclosure-obligation audit. Channel Pricing Field Note covers the kind of finding disclosure obligations should surface.
+Refer-back-first: the concentration reveal's operational answer is a structured, scored RFP, which the library already covers with the W25 RFP Scoring Methodology Audit. No genuine gap, so no new toolkit. PBM Compensation is the universal "zoom out" anchor that pairs to single-mechanic audits, and here it tells the plan sponsor which revenue streams the RFP questions must force the bidders to commit to. The displaced "PBM Disclosure Audit Worksheet" pairing retires with the disclosure-decoder post it supported (that Field Note is parked per PART 1B).
 
 ---
 
@@ -430,10 +433,10 @@ You send a 50-page RFP, your PBM sends a 50-page response, and neither document 
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
-And this week's PBM Disclosure Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/pbm-disclosure-audit
+And the RFP Scoring Methodology Audit is the companion to run the bids through on your own plan: rxbs.org/toolkit/rfp-scoring-audit
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/pbm-disclosure-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_Toolkit link routes to the existing live RFP Scoring Methodology Audit landing page (`rxbs.org/toolkit/rfp-scoring-audit`, built W25 — no new build this week per PART 1C). Confirm it resolves before scheduling; if not, drop the third line and route to the deep dive only, where the integrated tool is embedded._
 
 
 ---
@@ -605,92 +608,98 @@ This week's Benefit Blind Spots deep dive on the PBM RFP process is the operatio
 
 _The RFP Process Timeline whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: RFP Process Timeline). The live Thursday post is below._
 
-### Thursday Excellence Slot - 5 PBM Disclosure Terms Decoded — Sticky Note Dashboard Messy Infographic
+### Thursday Excellence Slot - "Three Companies. Both Sides of the Counter." — Market-Concentration Reveal (clean-conceptual infographic)
 
-> **NOTE (May 9, 2026):** This Thursday slot was previously a Slot C "5 Questions About Clinical Program ROI" clipboard carousel on Transparency pillar. Displaced — the topic conflicted with W32 Monday Clinical Program ROI deep dive (cross-week cannibalization). Replaced with 5 PBM Disclosure Terms Decoded that pairs with W31 Field Note "Auditing Your PBM's Annual Disclosure Obligations." Original Clinical Program ROI 5-Questions carousel content preserved in `evergreen_visual_backlog.md` as concept #32.
+> **REBUILD NOTE (June 27, 2026):** This Thursday slot previously ran "5 PBM Disclosure Terms Decoded" (Sticky Note Dashboard) — a vocabulary decoder that tops out ~4-5K impressions in the summer trough. Rebuilt as a **shocking hidden-structure reveal** (`shocking_fact_bank.md` entry #4: PBM market concentration, both sides of the counter, FTC July 2024 interim report). Reveals of this shape clear 15-18K organic even in the trough (the offshore rebate-aggregator reveal hit 17.8K fully organic). The displaced disclosure-decoder + its "Auditing Your PBM's Annual Disclosure Obligations" Field Note are parked per the FN-parking note in PART 1B; the five decoded disclosure terms carry forward intact in that parked draft. Earlier history: this slot was originally a Slot C "5 Questions About Clinical Program ROI" carousel (displaced May 9 over W32 cross-week cannibalization; preserved in `evergreen_visual_backlog.md` as concept #32).
 
-**Format:** Single messy infographic, Sticky Note Dashboard aesthetic. 1080 x 1350 px.
-**Pillar:** PBM Contract Insights
-**Field Note pairing:** Same-day Substack Field Note "Auditing Your PBM's Annual Disclosure Obligations."
-**Reference document pairing:** Same-day Plan Sponsor Toolkit handout "PBM Disclosure Audit Worksheet" — `templates/documents/week_31_thursday_pbm_disclosure_audit.html/.pdf`.
+**Format:** Single clean-conceptual infographic (split "both sides of the counter" layout). 1080 x 1350 px. Clean conceptual over photoreal document here because the thesis is a structural argument (one market, two sides, three owners), not a contract redline — the clean infographic dramatizes the argument and is far more legible at thumbnail. AI image-generation (ChatGPT / Gemini) is a proven path for clean conceptual layouts; Canva is the fallback if a regen mangles text.
+**Pillar:** Transparency & Industry Education
+**Field Note pairing:** Same-day Substack Field Note "Why Three PBMs Control 80% of Prescriptions, and What a Plan Sponsor Can Actually Do About It" (PART 1B) — exclusively supports this reveal: concentration is the diagnosis, a real RFP is the response.
+**Reference document pairing:** Existing RFP Scoring Methodology Audit (`rxbs.org/toolkit/rfp-scoring-audit`, refer-back per PART 1C — no new toolkit minted this week).
 
-**Winning-profile traits hit (9 of 10):** decoder shape · dollar-comparison adjacent · named-actor framing · plan-sponsor-actionable · confrontational hook · messy infographic format (Sticky Note Dashboard) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic.
+**Thursday Excellence 5-trait audit (all required, all hit):**
+1. **Format = clean-conceptual single image, 1080x1350, mobile-legible.** Capped at the two figures (80% / 70%) + the 52%→80% growth line + "3 PBMs" brace = under 5 elements; the two big Plex Mono figures dominate the center ~70%; readable at ~400px thumbnail.
+2. **Hook = confrontational, named-actor.** Names the three big PBMs as the actor sitting on both sides of the counter; names the plan sponsor as the party choosing among them. The shock is the genuinely-underknown structural fact (FTC concentration figures), delivered as a reveal, not labeled a "secret."
+3. **Proprietary anchor (varied).** "the hundreds of PBM contracts and RFP evaluations we run each year at Prescription Benefit Solutions" + the real 2025 RFP-line result (59 PBM RFPs, 25% average savings) — not the repeated "we review hundreds of contracts" verbatim.
+4. **First comment names the same-day Field Note specifically + routes to the live toolkit.** Names the concentration→RFP framework in the Field Note and routes to `rxbs.org/toolkit/rfp-scoring-audit`.
+5. **Field Note exclusively supports the concept.** The Field Note is the operational follow-on: why concentration does not erase leverage, and the structured RFP that turns it back on the bidders.
+
+**Winning-profile traits hit (8 of 10):** shocking-fact reveal (genuinely-unknown structural fact) · named-actor framing · plan-sponsor-actionable · confrontational hook · clean-conceptual messy-infographic-adjacent format · first-comment Substack cross-promo · proprietary anchor · save-driven structure.
 
 #### Post Copy
 
 ```
-Five disclosures your PBM owes you every year. Most plan sponsors receive only one of them.
+Three companies decide what 80 percent of American prescriptions cost. The same three own the pharmacies that collect 70 percent of every specialty dollar. Both sides of the counter.
 
-Across the 203 employers we worked with in 2025, the disclosure clauses are in nearly every contract. The disclosures themselves rarely arrive without a written request. The PBM that operates with disclosure transparency proactively sends them; the PBM that treats disclosures as optional waits to be asked.
+That is not a market with referees. It is three referees who own the teams.
 
-Five disclosures to know:
+The FTC put the numbers on the record in its July 2024 report. Three PBMs, CVS Caremark, Express Scripts, and OptumRx, now process roughly 80 percent of the 6.6 billion prescriptions US pharmacies filled in 2023. In 2004 those same three processed 52 percent. Their affiliated pharmacies now collect about 70 percent of all specialty drug revenue.
 
-1. **Rebate-Flow Attestation.** A signed annual statement that the PBM has applied the contract's rebate pass-through methodology accurately. Names the methodology, the period, the dollar magnitude, and who signed it.
+Read that twice. The companies that set the price also own the pharmacy that fills the script. They decide what your plan pays, and they decide where the dollars land.
 
-2. **Conflict-of-Interest Disclosure.** Annual disclosure of relationships between the PBM and downstream entities (specialty pharmacies, GPOs, rebate aggregators, owned-pharmacy chains) that could affect formulary or routing decisions.
+Here is what it means for a self-funded plan: you are no longer choosing among independent vendors competing in an open market. You are choosing among three giants who write the definitions, own the pharmacy, and set the benchmark your discount is measured against.
 
-3. **Data-Partnership Disclosure.** Disclosure of how member-level claims data is shared with third parties (manufacturers, data brokers, research firms), under what terms, and for what consideration.
+So what leverage is left?
 
-4. **Audit-Results Delivery.** When the PBM is audited (by a regulator, a CMS process, or an internal review), the contract typically requires delivery of relevant findings. The trigger is rarely flagged proactively.
+One thing. A real RFP.
 
-5. **Material-Change Notice.** Written notice when the PBM changes ownership, key personnel, or core operational components in a way that affects the plan's contract performance.
+Not a renewal you rubber-stamp, which just lets the incumbent re-price its own deal. A structured, scored bid that puts all three on the same questions, side by side, and forces them to commit on the specifics they would rather leave vague. The AWP source. The full rebate definition. Whether specialty claims count in the rebate denominator. How much of your specialty spend their own prior-auth rules route to a pharmacy they own.
 
-The disclosure clause is the contract. The actual delivery is the audit. The gap is what you bring to renewal.
+We ran 59 PBM RFPs at Prescription Benefit Solutions last year, and clients averaged 25 percent savings. That gap only shows up when you make three near-identical giants actually compete. Concentration is the reason a real RFP matters more now than it did in 2004, not less.
 
-Save this for your next quarterly review.
+Save this for the next renewal conversation.
 
-#PBMContracts #PBMTransparency #SelfFundedEmployers
+#PBMTransparency #SelfFundedEmployers #PBMRFP
 ```
 
 #### First Comment
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes plan sponsors can run on the disclosure clause (list every obligation by cadence, catalog what you actually received this year, send a written request for the gap items). Plus a paste-ready PBM Disclosure Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
+Today's Field Note on Benefit Blind Spots is the operational follow-on to this: why a concentrated market does not erase your leverage, and the structured RFP that turns it back on the three bidders. It walks the five questions a real RFP forces (AWP source, full rebate definition, specialty in the denominator, owned-pharmacy routing, termination and audit rights) and the 0-3 scoring that costs a vague answer points. [SUBSTACK FIELD NOTE URL]
+
+The RFP Scoring Methodology Audit is the paste-ready worksheet to run the bids through with your broker: rxbs.org/toolkit/rfp-scoring-audit
 ```
 
-#### Sticky Note Dashboard Image Generation Prompt
+#### Image Generation Prompt
 
-> A photorealistic straight-on photo, 1080 x 1350 pixels (4:5 vertical). A gray corkboard fills the frame, fibrous cork texture visible, soft overhead daylight, natural drop shadows. Six yellow sticky notes are pinned to the corkboard with brass pushpins: one larger title note at the top, then five content notes stacked below in two columns. Each note is slightly angled (1-3 degrees off-axis), with subtle curl at the edges. The notes are filled with clean human handwriting in black Sharpie marker. No logos, no brand marks, no people, no text outside the sticky notes.
+> A clean flat-design conceptual infographic, 1080 x 1350 pixels (4:5 vertical), solid white (#FFFFFF) background with generous negative space. The composition is split down the middle by a single tall flat-design pharmacy-counter icon in Primary Blue (#015880), rendered as a clean counter silhouette running vertically, dividing the frame into two mirrored halves labeled at the very top in small Plex Sans SemiBold uppercase Gray (#4D4D4D): left side "SETS THE PRICE", right side "OWNS THE PHARMACY".
 >
-> The title sticky note at the top, slightly larger, reads in larger handwriting, double-underlined: "5 Disclosures Your PBM Owes You"
+> Above the counter, centered: three identical small building/tower icons in Primary Blue joined by a curly brace, with the label "3 PBMs" in Plex Sans SemiBold Primary Blue 28pt directly beneath the brace.
 >
-> Below the title, five content sticky notes, each showing a disclosure name in black Sharpie at the top followed by a short red-pen audit annotation:
+> On the LEFT half, dominating the center, the figure "80%" in very large Plex Mono Medium Accent Blue (#A7E0FA), roughly 220pt, with a small Plex Sans Regular Gray caption under it: "of US prescriptions (2023)".
 >
-> Note 1 (top-left): "Rebate-Flow Attestation" → red pen: "Annual signed statement. Often missing."
-> Note 2 (top-right): "Conflict-of-Interest Disclosure" → red pen: "Affiliated specialty pharmacy, rebate aggregator, GPO."
-> Note 3 (middle-left): "Data-Partnership Disclosure" → red pen: "Who gets your member-level data?"
-> Note 4 (middle-right): "Audit-Results Delivery" → red pen: "Regulatory or internal — owed when triggered."
-> Note 5 (bottom-center): "Material-Change Notice" → red pen: "Ownership, personnel, operational changes."
+> On the RIGHT half, mirrored, the figure "70%" in very large Plex Mono Medium Accent Blue (#A7E0FA), roughly 220pt, with a small Plex Sans Regular Gray caption under it: "of specialty drug revenue".
 >
-> At the bottom of the corkboard, pinned slightly off-axis, a final sticky note in red ink: "PBS reviews 100s of PBM contracts a year. Most plan sponsors receive only one of these without asking."
+> Across the bottom third, a thin horizontal growth line in Accent Blue rising left-to-right, with two Plex Mono Medium tick labels: "52%" at the low-left end captioned "2004" and "80%" at the high-right end captioned "2023", a small upward arrowhead at the right tip.
 >
-> A black Sharpie marker rests at an angle in the upper-right corner of the corkboard, partially crossing the title note's edge.
+> Two-tone headline along the top of the frame in IBM Plex Sans SemiBold (NOT a condensed poster face): "Three Companies." in Primary Blue (#015880) on the first line, "Both Sides of the Counter." in Accent Blue (#A7E0FA) on the second line, roughly 60pt.
 >
-> Style: realistic cork texture with fibrous grain, soft overhead daylight, natural drop shadows under each sticky note. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam style with marker pressure variation). Colors: bright yellow sticky notes, gray-brown cork, brass pushpin heads, black Sharpie ink for primary text, red Sharpie ink for audit annotations.
+> Small source line bottom-center in Plex Mono Medium Gray 14pt: "Source: FTC, July 2024". Small "rxbs.org" bottom-right in Plex Mono Medium Gray 14pt.
+>
+> Style: flat corporate editorial, no 3D, no gradients, no photographs, no logos, no people. Color palette strictly: white (#FFFFFF) background, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). The two large figures "80%" and "70%" are the dominant elements and must read instantly at thumbnail size.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px to verify legibility at mobile size
-3. If any handwritten note renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font
-4. Verify the title "5 Disclosures Your PBM Owes You" reads cleanly in feed thumbnail
-5. Verify the five disclosure names render distinctly across notes
-6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
-7. Export as PNG at 1080 x 1350
+1. Generate base image using the prompt above (ChatGPT / Gemini for the clean conceptual layout; Canva fallback if text mangles)
+2. Verify the title renders in IBM Plex Sans SemiBold, not a condensed poster face (brand: clinical-credibility register)
+3. Open in Canva at 1080 x 1350 px and run the mandatory ~400px legibility check: the "80%" and "70%" figures and the two-tone headline must read at thumbnail; enlarge anything hard to read
+4. Confirm the "Source: FTC, July 2024" line is present and legible (the named federal source is part of why the reveal lands and is non-negotiable)
+5. Add the small PBS logo bottom-right if not generated (logos are never put in the generation prompt)
+6. Export as PNG at 1080 x 1350
 
 ---
 
 ## Post 115 Company Reshare - Thursday 1:30 PM
 
-**Word Count:** 47 words
+**Word Count:** 48 words
 
 #### Reshare Copy
 
 ```
-Five disclosure clauses in nearly every PBM contract require the PBM to surface specific data to the plan. Most plan sponsors receive only one (the standard quarterly report). The other four sit silent until asked.
+Three PBMs now process 80 percent of US prescriptions, up from 52 percent in 2004, and their own pharmacies collect 70 percent of specialty revenue (FTC, July 2024). One market, three owners, both sides of the counter.
 
-Ginny Crisp decodes the disclosure obligations.
+Ginny Crisp on the one piece of leverage left: a real RFP.
 
-#PBMTransparency #PBMContracts #PharmacyBenefits
+#PBMTransparency #SelfFundedEmployers #PBMRFP
 ```
 
 ---
@@ -762,7 +771,7 @@ A PBM account manager pushed back on my RFP question bank, calling it "too aggre
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: normalizing PBM pricing proposals. Three adjustments that matter most: AWP source alignment, ingredient vs. total claim cost, and rebate timing methodology. Without these normalizations, you are comparing apples to oranges.
+New field note: three companies now process 80 percent of US prescriptions, up from 52 percent in 2004, and own the pharmacies collecting 70 percent of specialty revenue (FTC, July 2024). Both sides of the counter. The one piece of leverage a plan sponsor still holds is a real RFP. Here is how to use it.
 
 Read: [LINK]
 
@@ -899,10 +908,11 @@ Watch where manufacturer money lands in your contract. Payments labeled "adminis
 ```
 "Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · concentration reveal (amplifies today's LinkedIn Post 115, scheduled AFTER the 10 AM LinkedIn post per LinkedIn-first):**
 ```
-Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+3 PBMs now process 80% of US prescriptions, up from 52% in 2004 (FTC, July 2024). The same 3 own the pharmacies collecting 70% of specialty spend. They set the price and own the counter. Picture 3 banks that also owned 80% of the paychecks.
 ```
+  First reply: a real RFP is the only leverage left. rxbs.org/toolkit/rfp-scoring-audit
 - **7:00 PM · question post [A12]:**
 ```
 If you wanted to fire your PBM tomorrow, what in the contract slows you down? Notice periods, transition fees, a data handoff you do not control. Most plans never read the termination clause until the day they need it.
@@ -1005,7 +1015,7 @@ A biosimilar launched at a fraction of the brand's price. Is your plan on it, or
 Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If the answer is most of them, that's not a network. It's a funnel.
 ```
 
-> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: auto-renewal, audit rights, MAC list control, manufacturer-fee reclassification, copay maximizer) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM specialty routing + DIR fees, plus the four 10 AM / 2:30 PM Tier-A adds: step therapy, specialty exclusive distribution, effective-rate true-up timing, mid-year formulary change) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: auto-renewal, audit rights, MAC list control, manufacturer-fee reclassification, copay maximizer) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM specialty routing + DIR fees, plus the four 10 AM / 2:30 PM Tier-A adds: step therapy, specialty exclusive distribution, effective-rate true-up timing, mid-year formulary change) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat (Thu 5 PM swapped to the concentration-reveal amplifier that supports today's LinkedIn Post 115, scheduled after the 10 AM LinkedIn post per LinkedIn-first) + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
 
 
 # PART 5: PUBLISHING CHECKLIST
@@ -1022,7 +1032,8 @@ Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If t
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 113 Mountain Clean Infographic | 1080x1350 | "Three Cost Containment Levers. Three Different Clocks." — flat-design mountain climb with three lever bands plotted at different altitudes, Cost Containment pillar |
-| Post 115 PBM Disclosure Terms Decoded (Sticky Note Dashboard Messy Infographic) | 1080x1350 | "5 PBM Disclosure Terms Decoded" — PBM Contract Insights pillar |
+| Post 115 Market-Concentration Reveal (clean-conceptual split infographic) | 1080x1350 | "Three Companies. Both Sides of the Counter." — 80% prescriptions / 70% specialty revenue split layout, FTC July 2024 source line, Transparency pillar |
+| Post 115 Field Note header (Data Highlight) | 1200x600 | "Both Sides of the Counter. Three Companies." — counter-split, 80%/70% figures, FIELD NOTE badge |
 | In-Article Visual: RFP Process Timeline (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Headers | Standard | [ ] |
 
