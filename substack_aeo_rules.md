@@ -50,5 +50,6 @@ Spell out **"Prescription Benefit Solutions"** on first mention in the body (the
 If any answer is no, fix before scheduling.
 
 ## Backfill status
-- **W26 forward: rewritten to this standard** (Jun 20, 2026). SEO titles set, answer-first openings, outbound rxbs.org links, firm-name spelled out in Substack bodies.
-- W06-W25: backfill opportunistically; not blocking.
+- **W25 forward: rewritten to this standard** (Jun 20, 2026). SEO titles set, answer-first openings, outbound rxbs.org links, firm-name spelled out in Substack bodies.
+- **W06-W24: backfill COMPLETE** (Jun 27, 2026). Every deep dive and field note from W06 through W37 now carries the Display/SEO-AEO title split, an answer-first liftable lead, an outbound link to a LIVE rxbs.org toolkit page in the body, answer-shaped headers, and the spelled-out firm name. The earlier "links already present" assumption for W23/W24 was found inaccurate (links lived only in PART 1C / first comment), so body links were added. W06 and W09 are single-article launch weeks (deep dive only, no field note). **No remaining week-file Substack articles need AEO backfill.**
+- **Still open (separate workstream):** the evergreen standalone Substack posts (Contract Language Library, "What We're Seeing," "What I'd Ask," glossary) are optimized via their rxbs.org canonical twins (website blueprints), not the week-file backfill.
