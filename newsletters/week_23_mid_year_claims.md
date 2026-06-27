@@ -81,7 +81,9 @@
 
 ### Article Body
 
-A client came to us last summer with a question that sounded routine: "Can you look at our claims data before we head into renewal?" We pulled the first half data. Within an hour, three patterns jumped off the page. Specialty concentration had shifted meaningfully as a share of total spend. Two high-cost claimants had crossed their stop-loss thresholds in the same quarter. And generic efficiency had been declining for four consecutive months.
+**The claims-data red flags that signal a PBM problem before renewal are five patterns most quarterly PBM reports do not surface: specialty concentration climbing as a share of total spend, multiple high-cost claimants clustering in the same period, utilization anomalies in specific drug categories, generic efficiency declining, and rebate revenue per claim eroding. Two or more of them together at mid-year means your renewal trajectory is worse than the PBM's summary report suggests, and you still have time to act on it.**
+
+A client came to us at Prescription Benefit Solutions last summer with a question that sounded routine: "Can you look at our claims data before we head into renewal?" We pulled the first half data. Within an hour, three patterns jumped off the page. Specialty concentration had shifted meaningfully as a share of total spend. Two high-cost claimants had crossed their stop-loss thresholds in the same quarter. And generic efficiency had been declining for four consecutive months.
 
 None of those patterns appeared in the PBM's quarterly summary report. The PBM reported total spend (up modestly), rebate performance (on target), and generic fill rate (meeting guarantee). Everything looked fine on the surface. Underneath, the data was telling a different story. A story the PBM had no obligation to narrate.
 
@@ -129,7 +131,7 @@ What to watch: track rebate per claim quarterly. If it is declining, request an 
 
 **What to do with these signals**
 
-If your mid-year review reveals two or more of these patterns, your renewal is going to look different than the PBM's summary report suggests. The action steps are specific to each pattern, but the overarching principle is the same: document the findings, discuss them with your broker or consultant, and build them into your renewal negotiation strategy before the PBM presents their terms.
+If your mid-year review reveals two or more of these patterns, your renewal is going to look different than the PBM's summary report suggests. The action steps are specific to each pattern, but the overarching principle is the same: document the findings, discuss them with your broker or consultant, and build them into your renewal negotiation strategy before the PBM presents their terms. We built the Mid-Year Claims Red Flag Checklist to run this assessment on your own plan, with the five patterns, what each one means, and the intervention for each: www.rxbs.org/toolkit/midyear-claims-red-flag.
 
 Mid-year is when you have time to act. Renewal is when you have to react. The difference between those two positions is the difference between negotiating from data and negotiating from the PBM's narrative.
 
@@ -154,7 +156,9 @@ Have you pulled your mid-year claims data yet? If you have started identifying p
 
 ### Article Meta
 
-**SEO Title:** Five Claims Data Patterns That Signal Trouble Before Renewal | Benefit Blind Spots
+**Display Title:** Five Claims Data Patterns That Signal Trouble Before Renewal
+**SEO Title (AEO):** What claims-data red flags signal a PBM problem before renewal?
+**SEO Subtitle:** What mid-year claims data reveals about your plan's cost trajectory and where to intervene before it is too late
 **Meta Description:** Your mid-year claims data contains signals that predict your renewal outcome. Five patterns to identify now, while you still have time to act, plus a red flag checklist for self-funded employers.
 **Tags:** claims data, mid-year review, self-funded employers, pharmacy benefits, renewal strategy, cost containment, PBM reporting
 
@@ -194,11 +198,13 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 ### Field Note Body
 
+**To audit PBM admin fees, put your most recent monthly PBM invoice next to your contract's fee schedule and, for each admin-fee line item, find the contract clause that defines what the fee buys: a fee tied to a clearly defined service is fine, a fee tied to vague language is the audit conversation, and a fee with no corresponding clause at all is the audit finding you take to renewal as leverage.**
+
 This morning's LinkedIn carousel decoded five admin fee terms most plan sponsors never read closely. Today's field note is what to do once you can read them.
 
-Admin fees are where PBM compensation hides in plain sight. They are not the rebate spread. They are not the dispensing-fee margin. They are line items on the invoice the PBM sends you each month — and on most contracts I review, the plan sponsor cannot tell what those lines are paying for.
+Admin fees are where PBM compensation hides in plain sight. They are not the rebate spread. They are not the dispensing-fee margin. They are line items on the invoice the PBM sends you each month, and on most contracts I review, the plan sponsor cannot tell what those lines are paying for.
 
-We pull the admin-fee schedule on every PBM contract audit at PBS. Same patterns recur. Here is what to look for in your own.
+At Prescription Benefit Solutions we pull the admin-fee schedule on every PBM contract audit. Same patterns recur. Here is what to look for in your own.
 
 **The first audit question: what does each line item buy?**
 
@@ -214,7 +220,7 @@ In my contract reviews, the third outcome happens more often than plan sponsors 
 
 **What we typically find**
 
-After ~100 PBM contract reviews annually at PBS:
+After hundreds of PBM contract reviews a year, the same admin-fee patterns recur:
 
 > **1. Stacked fees for one service.** "Account management" plus "client services" plus "operational support" — three line items, one underlying activity, three separate fees.
 
@@ -238,6 +244,8 @@ After ~100 PBM contract reviews annually at PBS:
 
 The five admin fee terms in this morning's carousel are the vocabulary. The audit above is the application. Both happen at the same time, or neither happens.
 
+We built the PBM Compensation Audit to map every admin-fee line item back to the revenue stream it actually feeds, so the unauthorized fees surface as renewal leverage: www.rxbs.org/toolkit/pbm-compensation.
+
 ---
 
 *This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
@@ -248,7 +256,8 @@ The five admin fee terms in this morning's carousel are the vocabulary. The audi
 
 ### Field Note Meta
 
-**SEO Title:** Decoded the Admin Fees. Now Audit Them. | Benefit Blind Spots
+**Display Title:** Decoded the Admin Fees. Now Audit Them.
+**SEO Title (AEO):** How do you audit PBM admin fees on your monthly invoice?
 **Meta Description:** Admin fees are where PBM compensation hides in plain sight. The first audit question, the five patterns plan sponsors find most often, and what to do with the unauthorized line items at renewal.
 **Tags:** PBM admin fees, PBM contracts, pharmacy benefits, self-funded employers, contract audit, PBM compensation
 
