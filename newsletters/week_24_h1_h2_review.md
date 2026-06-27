@@ -81,6 +81,8 @@
 
 ### Article Body
 
+**A mid-year (H1) pharmacy benefits review should pull five metrics from your own claims data and benchmark them before renewal season: generic effective rate against your contract guarantee, PMPM trend against market, specialty as a share of total spend, rebate per brand claim, and high-cost claimant count against your stop-loss attachment point. Together they tell you whether you walk into renewal negotiating from strength or reacting to the PBM's terms.**
+
 Every renewal season, I watch the same pattern. Your PBM has already run your H1 numbers. They know your trend. They know your rebate position. They know where your guarantees fell short. They are using that information right now to prepare their renewal strategy.
 
 Your PBM has had your H1 numbers for weeks. I would bet money you have not looked at them yet.
@@ -99,7 +101,7 @@ You should know all of this too.
 
 Most employers do not. They rely on PBM-generated reports that present the data in the PBM's preferred framing. Running your own analysis from the raw claims data changes the dynamic. It does not require sophisticated tools. It requires pulling five specific metrics, benchmarking them, and walking into renewal with your own numbers rather than theirs.
 
-**The five metrics that matter**
+**Which five metrics should an H1 review pull?**
 
 We start every H1 review with five numbers. These are what determine whether you negotiate from strength or react to terms.
 
@@ -163,7 +165,9 @@ Here is what it looks like when you walk into renewal with these five numbers do
 
 Three or more green? You negotiate from strength. Three or more red? You need to address performance gaps before the PBM sets renewal terms.
 
-**How to use this before your PBM does**
+At Prescription Benefit Solutions we built this into a printable H1 Renewal Readiness Scorecard you can run on your own plan: www.rxbs.org/toolkit/h1-renewal-readiness.
+
+**How do you use the five metrics before your PBM does?**
 
 Compile all five metrics with 12 to 24 months of history. Benchmark against available market data. Figure out where your plan is performing well and where the gaps are.
 
@@ -201,7 +205,8 @@ Have you pulled your H1 numbers yet? If you found something unexpected in the da
 
 ### Article Meta
 
-**SEO Title:** H1 Review: What the First Half Data Shows for Pharmacy Benefits | Benefit Blind Spots
+**Display Title:** H1 Review: What the First Half Data Shows
+**SEO Title (AEO):** What should a mid-year (H1) pharmacy benefits review cover before a PBM renewal?
 **Meta Description:** Your PBM already knows your H1 numbers. You probably do not. Here are the five metrics that determine your renewal leverage, how to calculate each one, and the benchmark scorecard.
 **Tags:** H1 review, pharmacy benefits, PMPM trend, PBM guarantees, renewal preparation, self-funded employers
 
@@ -285,9 +290,11 @@ bottom.
 
 ### Field Note Body
 
+**The mid-year contract amendment window is the period when a PBM contract's own amendment-trigger clause lets a plan sponsor request a change mid-term, rather than waiting for renewal. To use it, match each H1 review finding to a trigger condition, calculate the notice deadline working backward from your desired effective date, and send a documented amendment letter naming the clause, the trigger, and the proposed new language.**
+
 This morning's LinkedIn post decoded the five contract clauses that govern mid-year amendments: amendment trigger language, notice period, materiality threshold, fee adjustment authority, and dispute resolution. Today is the operational follow-on. You have the vocabulary. Here is how to actually use the amendment window when your H1 review surfaces a finding.
 
-We help clients run mid-year amendments as a standard part of our work at PBS. Three comparison passes do most of the work.
+We help clients run mid-year amendments as a standard part of our work at Prescription Benefit Solutions. Three comparison passes do most of the work.
 
 **Pass one: identify the amendment-eligible findings**
 
@@ -303,9 +310,9 @@ Document the notice deadline working backward from the date you want the amendme
 
 **Pass three: draft the amendment ask**
 
-Use the decoded vocabulary from this morning's LinkedIn post. The amendment letter should reference: the specific contract clause being amended, the trigger condition that is being invoked, the proposed new language, the notice period being initiated, and the dispute resolution clause that applies if the PBM declines.
+Use the decoded vocabulary from this morning's LinkedIn post. The amendment letter should reference: the specific contract clause being amended, the trigger condition that is being invoked, the proposed new language, the notice period being initiated, and the dispute resolution clause that applies if the PBM declines. We turned this into a paste-ready template you can hand to your broker: the Contract Amendment Letter Template at www.rxbs.org/toolkit/contract-amendment-letter.
 
-The pattern we see across hundreds of PBM contract reviews and audits a year at PBS: the amendment window is rarely used by plan sponsors. Most plans wait until renewal and absorb the H1 finding for two more quarters. The amendment window costs nothing to invoke and forces the PBM into a documented response, which is itself the most valuable record you can bring to renewal six months later.
+The pattern we see across hundreds of PBM contract reviews and audits a year at our firm: the amendment window is rarely used by plan sponsors. Most plans wait until renewal and absorb the H1 finding for two more quarters. The amendment window costs nothing to invoke and forces the PBM into a documented response, which is itself the most valuable record you can bring to renewal six months later.
 
 **What to do this quarter**
 
@@ -317,7 +324,7 @@ The H1 review is the diagnostic. The amendment window is the treatment. Both hav
 
 ---
 
-*This is a Field Note - shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
+*This is a Field Note: shorter, tactical insights published Thursdays. The full deep dive publishes every Monday.*
 
 *Questions? Reach out at team@rxbs.org.*
 
@@ -325,8 +332,9 @@ The H1 review is the diagnostic. The amendment window is the treatment. Both hav
 
 ### Field Note Meta
 
-**SEO Title:** Auditing Your Mid-Year Contract Amendment Window | Benefit Blind Spots
-**Meta Description:** Five contract amendment terms decoded this morning. Here is how to use the mid-year amendment window when H1 review surfaces a finding: three steps, the pattern PBS sees most often across 100 contract reviews per year, and the amendment letter draft.
+**Display Title:** Auditing Your Mid-Year Contract Amendment Window
+**SEO Title (AEO):** What is the mid-year PBM contract amendment window and how do you use it?
+**Meta Description:** Five contract amendment terms decoded this morning. Here is how to use the mid-year amendment window when an H1 review surfaces a finding: three steps, the pattern Prescription Benefit Solutions sees most often across hundreds of contract reviews a year, and the amendment letter draft.
 **Tags:** PBM contract amendment, mid-year amendment, contract clauses, performance guarantee, materiality threshold, self-funded employers, PBM contracts
 
 ### Field Note Header Image Prompt
