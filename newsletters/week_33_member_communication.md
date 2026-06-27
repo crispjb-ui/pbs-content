@@ -633,7 +633,7 @@ Across 706 client engagements in 2025, the transition clauses were in nearly eve
 
 Five clauses to know:
 
-1. **Continuity-of-Care Language.** How long members on affected medications can continue to fill at the prior arrangement after a change. The contract specifies a window (often 30–90 days); the workflow may not honor the full window.
+1. **Continuity-of-Care Language.** How long members on affected medications can continue to fill at the prior arrangement after a change. The contract specifies a window (often 30-90 days); the workflow may not honor the full window.
 
 2. **Transition Supply Provision.** A bridge supply (often 30 days) at the existing benefit configuration when a change is implemented. Frequently triggered, infrequently delivered without prompt.
 

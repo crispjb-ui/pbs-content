@@ -558,7 +558,7 @@ But it is not an overnight ROI either. The plans getting this right build the bu
 #### First Comment
 
 ```
-Deciding whether to cover GLP-1s? The free Drug Pipeline Watch List helps you budget the categories → rxbs.org/toolkit/drug-pipeline-watch
+Deciding whether to cover GLP-1s? The free Drug Pipeline Watch List helps you budget the categories. rxbs.org/toolkit/drug-pipeline-watch
 ```
 
 ---

@@ -569,7 +569,7 @@ You cannot put your head in the sand on this one. From SHRM's Honest HR podcast.
 #### First Comment
 
 ```
-Want the full picture of what your PBM earns and what it hides? Free PBM Compensation worksheet → rxbs.org/toolkit/pbm-compensation
+Want the full picture of what your PBM earns and what it hides? Free PBM Compensation worksheet. rxbs.org/toolkit/pbm-compensation
 ```
 
 ---
@@ -631,7 +631,7 @@ Five terms to know:
 
 2. **Brand Effective Rate (BER) Guarantee.** Threshold for actual brand discount off AWP. Closely watched by the PBM's pricing team; rarely calculated independently by the plan sponsor.
 
-3. **Dispensing Fee Guarantee.** Threshold maximum for per-claim dispensing fees. Often inverted (actual ≤ threshold). Easy to miss when the threshold is loosely defined.
+3. **Dispensing Fee Guarantee.** Threshold maximum for per-claim dispensing fees. Often inverted (actual at or below threshold). Easy to miss when the threshold is loosely defined.
 
 4. **Rebate-Per-Claim Minimum.** Minimum rebate dollar per brand claim. The most concrete remediation trigger; needs the channel breakdown to audit accurately.
 

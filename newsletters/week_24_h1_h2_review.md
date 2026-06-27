@@ -1030,7 +1030,7 @@ The employers who prepare through the summer negotiate different outcomes in the
 #### First Comment
 
 ```
-My HEALTH CARE un-covered debut: [POTTER ARTICLE LINK — paste the live URL once published]
+My HEALTH CARE un-covered debut: [POTTER ARTICLE LINK: paste the live URL once published]
 
 Next Monday's deep dive on the 90-day Renewal Countdown lands here: benefitblindspots.substack.com
 ```
@@ -1102,7 +1102,7 @@ It's the map I wish every plan sponsor had before they signed: the five revenue 
 
 The pieces that follow argue each reform in turn.
 
-Read it here: [POTTER ARTICLE LINK — paste the live HEALTH CARE un-covered URL once published]
+Read it here: [POTTER ARTICLE LINK: paste the live HEALTH CARE un-covered URL once published]
 ```
 _Publisher note: this replaces Wednesday's second origin-story Note for launch week. The displaced origin story ("imperfect preparation beats no preparation…") is preserved for reuse in a later week. Confirmed: the debut is the Opening "five revenue streams" map, so the copy above is locked._
 
@@ -1266,7 +1266,7 @@ Every PBM contract I audit runs five revenue streams through it. Plan sponsors s
 ```
   _First reply (paste the live link once published):_
 ```
-[POTTER ARTICLE LINK — paste the live HEALTH CARE un-covered URL here once the piece is published]
+[POTTER ARTICLE LINK: paste the live HEALTH CARE un-covered URL here once the piece is published]
 ```
   _Notes: tag Wendell Potter's handle in the post body if known (raises repost odds). Confirmed: the debut is the Opening "five revenue streams" map, so the hook above is locked. Displaced "~80% of specialty spend" stat-shock is evergreen — park for a later open X slot._
 - **7:00 PM · question post [A10]:**

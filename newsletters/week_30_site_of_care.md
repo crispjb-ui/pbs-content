@@ -565,7 +565,7 @@ Read that again: the PBM will not model the thing that actually works, because i
 #### First Comment
 
 ```
-See what your rebate report is not telling you. Free worksheet → rxbs.org/toolkit/rebate-report-audit
+See what your rebate report is not telling you. Free worksheet. rxbs.org/toolkit/rebate-report-audit
 ```
 
 ---

@@ -537,7 +537,7 @@ The persistence rate is the number most plans never track. From SHRM's Honest HR
 #### First Comment
 
 ```
-Budgeting for GLP-1s in 2026-2027? The free Drug Pipeline Watch List maps the categories to plan for → rxbs.org/toolkit/drug-pipeline-watch
+Budgeting for GLP-1s in 2026-2027? The free Drug Pipeline Watch List maps the categories to plan for. rxbs.org/toolkit/drug-pipeline-watch
 ```
 
 ---

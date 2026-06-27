@@ -497,7 +497,7 @@ So the real question isn't "can we afford to cover it?" It's what you're already
 #### First Comment
 
 ```
-Budgeting GLP-1s and obesity-related spend for 2026-2027? The free Drug Pipeline Watch List maps the categories → rxbs.org/toolkit/drug-pipeline-watch
+Budgeting GLP-1s and obesity-related spend for 2026-2027? The free Drug Pipeline Watch List maps the categories. rxbs.org/toolkit/drug-pipeline-watch
 ```
 
 ---

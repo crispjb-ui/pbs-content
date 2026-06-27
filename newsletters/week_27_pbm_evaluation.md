@@ -643,12 +643,12 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 #### Post Copy
 
 ```
-Annual performance reviews are in every PBM contract. Most get treated as a PowerPoint from the PBM. The best brokers treat them as an audit — but only because the contract language lets them.
+Annual performance reviews are in every PBM contract. Most get treated as a PowerPoint from the PBM. The best brokers treat them as an audit, but only because the contract language lets them.
 
 Five clauses determine whether a performance review can actually do the work:
 
 1. Data delivery. What files the PBM must produce, on what timeline, at what level of detail.
-2. Guarantee calculation methodology. Whose formula governs — the PBM's or the contract's.
+2. Guarantee calculation methodology. Whose formula governs, the PBM's or the contract's.
 3. Benchmarking right. Whether the plan can compare its pricing against current market, not just prior-year self.
 4. Specialty routing transparency. What the contract requires the PBM to disclose about affiliated-pharmacy claim flow.
 5. Findings and remediation. What happens when the review surfaces a shortfall.
@@ -807,7 +807,7 @@ Five streams to know:
 
 3. **Administrative Fee.** The headline number on the proposal: per-claim or PEPM compensation. Often the only stream plan sponsors track. Usually the smallest.
 
-4. **Manufacturer-Direct Payments.** Manufacturer payments to the PBM classified as administrative fees, data licensing fees, or drug education payments — not "rebate." Outside the rebate pass-through clause by definition.
+4. **Manufacturer-Direct Payments.** Manufacturer payments to the PBM classified as administrative fees, data licensing fees, or drug education payments, not "rebate." Outside the rebate pass-through clause by definition.
 
 5. **PBM-Owned-Pharmacy Margin.** When specialty drugs route to the PBM-affiliated pharmacy, the dispensing margin stays inside the PBM corporate family. Routed through the contract's specialty network and prior-authorization workflow design.
 
