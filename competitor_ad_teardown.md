@@ -8,9 +8,26 @@ _Created Jun 23, 2026. The running log of what direct competitors and benefits-a
 
 ---
 
-## Benchmark brands to sweep (refine over time)
-- **Independent PBM auditors / pharmacy-benefits consultants:** the direct-competitor set (national and regional PBM audit / pharmacy consulting firms). `/ads-research` identifies and names specific firms each sweep.
-- **Benefits brokers / advisor thought leaders:** broker firms + advisor personalities marketing to the same plan-sponsor audience.
+## Benchmark brands to sweep (named list, Jun 27 2026 — refine over time)
+Sweep each in the LinkedIn Ad Library (company page → About → Ads → "See all ads"). Verify the firm still exists / is active before logging; ones flagged _(verify)_ may have been renamed or acquired.
+
+**A. Direct competitors — independent PBM audit / pharmacy-benefits consulting (review first; the true head-to-head):**
+- ARMSRx Pharmacy Benefit Consulting _(tracked, ~678 followers)_
+- Innovative Rx Strategies _(tracked, ~637)_
+- Pharmaceutical Strategies Group (PSG, a Vizient company) — the most credible national peer
+- The Burchfield Group _(verify ownership/name)_
+- Remedy Analytics
+- 3 Axis Advisors (Antonio Ciaccia) — research/advocacy-leaning, same audience
+- Crystal Clear Rx _(verify active)_
+- Greenline Rx / RxParse _(verify active)_
+- MedOne
+
+**B. Analytics / platform players (adjacent buyer motion, but the ones most likely to actually run ads — best read on category ad creative):**
+- Truveris _(tracked)_ · Xevant · RxBenefits · Archimedes / Vivio Health _(specialty, adjacent)_
+
+**C. Benefits brokers / advisor pharmacy practices (advisor benchmark — partners, not adversaries; lighter pass, study positioning):**
+- Hylant _(PBS relationship)_ · Lockton · Marsh McLennan Agency (MMA) · Gallagher (AJG) · NFP · OneDigital · USI · Holmes Murphy · Alera Group · enterprise: Mercer / Aon / WTW / Milliman
+
 - _(Transparent/cost-plus PBMs and Potter-style advocates were de-scoped by Ginny Jun 23, 2026 — keep the lens on direct competitors + advisors.)_
 
 ## Sweep log
