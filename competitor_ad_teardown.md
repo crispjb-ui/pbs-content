@@ -47,13 +47,20 @@ Sweep each in the LinkedIn Ad Library (company page → About → Ads → "See a
 ### 2026-06-27 (manual Ad Library sweep — Tier A) — VERIFIED IN AD LIBRARY
 Ginny manually swept Tier A (direct competitors) in the LinkedIn Ad Library. **Of the entire direct-competitor set, only Innovative Rx Strategies is running ads** — ARMSRx, PSG, The Burchfield Group, Remedy Analytics, 3 Axis Advisors, and MedOne surfaced **no** active ads. So the white-space read holds for the lane overall, with **one active contester**.
 
-**Innovative Rx Strategies — ~20 ad versions live (serious, sustained spend + heavy A/B testing).** Format: single-image Sponsored Content, "Learn more" CTA, no lead magnet (CTA routes to their site, not a gated asset). Three representative creatives captured (verified, screenshots):
+**Innovative Rx Strategies — ~20 ad versions live (serious, sustained spend + heavy A/B testing).** Format: single-image Sponsored Content, "Learn more" CTA on every one, no lead magnet (CTA routes to their site, not a gated asset). The recurring conversion offer is a **"no-risk assessment."** **8 distinct creatives captured** (verified, screenshots):
 
-| # | Headline / hook | Body angle | On-image | CTA |
+| # | On-image headline | Body hook | Image | Persona/angle |
 |---|---|---|---|---|
-| 1 | "Looking to reduce your pharmacy benefits costs in 2026?" | Pharmacist-led, independent, **PBM-agnostic**; "no-risk assessment" | "Unlock **15-30% Savings** on Your Pharmacy Benefits Plan in 2026" (capsules photo) | Learn more |
-| 2 | "Pharmacy is no longer just a finance issue; it's a workforce health and retention issue." | A **clinical pharmacist on your team** brings clarity to PBM strategy + formulary decisions | "Pharmacy costs are rising. Control costs without compromise." | Learn more |
-| 3 | "If your Rx cost is $5M today, what will it be in 5 years?" | "employers need **more than a broker**"; real-time data, "unbiased team," hold PBMs accountable | "Is your Rx spend out of control? Rein it in..." (pharmacist-at-shelf photo) | Learn more |
+| 1 | "Unlock **15-30% Savings** on Your Pharmacy Benefits Plan in 2026" | "Looking to reduce your pharmacy benefits costs in 2026?" | capsules | savings-% / cost |
+| 2 | "**Save 30%** on Your Company's Pharmacy Benefits Plan AND Improve Employee Health Outcomes" | same "Looking to reduce..." body | piggy bank + $ signs | savings-% / cost |
+| 3 | "Pharmacy costs are rising. Control costs without compromise." | "Pharmacy is no longer just a finance issue; it's a **workforce health and retention** issue" | isometric graphic | HR / retention reframe |
+| 4 | "Control Pharmacy Benefits Plan Costs With **Pharmacist-Led Teams**" | same workforce-health body | friendly doctor handshake + $ | clinical-pharmacist proof |
+| 5 | "Is your Rx spend out of control? Rein it in..." | "If your Rx cost is **$5M today, what will it be in 5 years**? ...more than a broker" | pharmacist at shelf | fear / anti-broker |
+| 6 | "Are Your Rx Costs Out of Control? ...Discover how we can help." | same "Looking to reduce..." body | money + capsules | fear / pain |
+| 7 | "Smarter solutions for your team. **Move past the status quo in 2025.**" | "...critical for those in **Total Rewards roles** to stay informed..." | diverse smiling employees | Total Rewards persona-target |
+| 8 | "**Stay Ahead of the Curve** in Your Pharmacy Benefits Plans" | "...pharmacy benefit costs projected to reach **50% of total health benefits by 2029**?" | blue road + medical crosses | stat-shock |
+
+**What they're A/B testing (the real signal in 20 versions):** mostly **image + headline rotation on a largely FIXED body** (the "Looking to reduce... pharmacist-led, independent, PBM-agnostic, no-risk assessment" paragraph repeats across most). They're hunting the winning HOOK across five angles: **savings-% (15-30% / 30%), fear ("out of control"), stat-shock ("50% by 2029"), HR/retention reframe ("not a finance issue"), and persona-targeting ("Total Rewards roles").** A few bodies vary (workforce-health #3/#4, Total Rewards #7, stat #8). Minor tell: "Pharamcy" is misspelled in two footers, sloppy QA.
 
 **Strategic read (what this means for PBS ad creative):**
 - **They claim Ginny's exact ground** — "pharmacist-led," "clinical pharmacist on your team," "independent," "unbiased," "PBM-agnostic." Positioning alone will not differentiate PBS. The wedge is **Ginny as a named person-entity with proof** (the content engine, 2,126 followers, "hundreds of PBM contracts a year," named-villain decoders) vs. their faceless-firm voice.
@@ -61,6 +68,9 @@ Ginny manually swept Tier A (direct competitors) in the LinkedIn Ad Library. **O
 - **They position AGAINST the broker** ("more than a broker"). This is a **brand-rule divergence PBS must not copy** (brokers are partners/adversary = the PBM) — and an opening: PBS can be the **broker's independent audit bench** while Innovative Rx competes with the broker for the relationship. The GWCU broker win validates the ally motion.
 - **No lead magnet** (generic "Learn more"). Confirms the structural edge: PBS's ad → `rxbs.org/toolkit/<slug>` → 5-email funnel is a real differentiator, not a me-too.
 - **Aesthetic = clean corporate stock** (blue brand, capsule/pharmacy stock photos, savings-band headline). PBS's messy-infographic / photoreal / named-actor decoder visuals are more distinctive in-feed.
+- **Their hook menu is a free roadmap, and they haven't found a winner yet.** 20 versions rotating image+headline on a fixed body = still hunting the winning angle. The hook is still up for grabs. Their stat-shock attempt ("50% of total health benefits by 2029") is the SAME shape as PBS's shocking-fact engine, but generic and unsourced; PBS's named-villain, FTC-sourced shocking facts are a content moat that out-performs a projected stat. Don't copy their hooks; out-specific them.
+- **They run an HR / Total Rewards persona lane** ("workforce health and retention," "those in Total Rewards roles"), not just CFO/cost. This validates a second PBS ad lane matching the **HR-Benefits persona in `buyer_anxiety_map.md`** (the "am I exposed / will members be disrupted" anxiety) alongside the CFO/cost lane, rather than a single cost-only message.
+- **Their offer is a "no-risk assessment" (book-a-call friction).** PBS's toolkit → self-serve download → 5-email nurture captures the lead BEFORE asking for a call, a lower-friction top-of-funnel. Lead with the toolkit, not "book an assessment."
 
 ## Patterns observed (rolls up across sweeps)
 - **The direct-competitor lane is under-advertised, with ONE active contester (refined Jun 27).** Of the full Tier-A set, only **Innovative Rx Strategies** runs ads (~20 versions, sustained) — ARMSRx, PSG, Burchfield, Remedy, 3 Axis, MedOne run none. So the lane is still mostly open, but it is NOT empty: PBS enters against one well-funded, actively-testing competitor that already claims the "independent pharmacist-led" positioning. PBS wins not on positioning parity but on the **named-person-entity + verified proof + toolkit funnel** edge (see the Jun 27 sweep read).
