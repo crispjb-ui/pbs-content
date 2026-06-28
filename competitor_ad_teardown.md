@@ -13,7 +13,7 @@ Sweep each in the LinkedIn Ad Library (company page → About → Ads → "See a
 
 **A. Direct competitors — independent PBM audit / pharmacy-benefits consulting (review first; the true head-to-head):**
 - ARMSRx Pharmacy Benefit Consulting _(tracked, ~678 followers)_
-- Innovative Rx Strategies _(tracked, ~637)_
+- Innovative Rx Strategies _(tracked, ~637; **broker-owned: acquired by Apex Benefits, an Indianapolis broker, in 2022 — straddles Tier A and Tier C; runs the only active Tier-A ads, paid for by Apex**)_
 - Pharmaceutical Strategies Group (PSG, a Vizient company) — the most credible national peer
 - The Burchfield Group _(verify ownership/name)_
 - Remedy Analytics
@@ -71,6 +71,12 @@ Ginny manually swept Tier A (direct competitors) in the LinkedIn Ad Library. **O
 - **Their hook menu is a free roadmap, and they haven't found a winner yet.** 20 versions rotating image+headline on a fixed body = still hunting the winning angle. The hook is still up for grabs. Their stat-shock attempt ("50% of total health benefits by 2029") is the SAME shape as PBS's shocking-fact engine, but generic and unsourced; PBS's named-villain, FTC-sourced shocking facts are a content moat that out-performs a projected stat. Don't copy their hooks; out-specific them.
 - **They run an HR / Total Rewards persona lane** ("workforce health and retention," "those in Total Rewards roles"), not just CFO/cost. This validates a second PBS ad lane matching the **HR-Benefits persona in `buyer_anxiety_map.md`** (the "am I exposed / will members be disrupted" anxiety) alongside the CFO/cost lane, rather than a single cost-only message.
 - **Their offer is a "no-risk assessment" (book-a-call friction).** PBS's toolkit → self-serve download → 5-email nurture captures the lead BEFORE asking for a call, a lower-friction top-of-funnel. Lead with the toolkit, not "book an assessment."
+
+**RECLASSIFICATION — the "Paid for by" line is the real tell (Jun 27).** The Ad Library payer field reads **"Paid for by Apex,"** not Innovative Rx Strategies. Verified: **Apex Benefits, an Indianapolis employee-benefits broker, ACQUIRED Innovative Rx Strategies in 2022.** So Innovative Rx is **a broker's owned pharmacy-consulting arm, not a standalone independent auditor** — it belongs as much in the Tier-C broker-pharmacy-practice set as in Tier-A. The broker (Apex) funds the ads; the pharmacy brand fronts them. Implications:
+- **They are the structural threat to PBS's model, in one firm.** PBS's motion is "the independent bench a broker brings in." Apex chose to **buy the bench in-house** instead. Watch for other brokers doing the same (build/buy a pharmacy arm) — it's the competitive trend that erodes the independent-bench lane.
+- **Their bench is deep:** 6 clinical pharmacists, former PBM/pharma execs, and a healthcare attorney. PBS cannot match that on headcount, and the attorney + ex-PBM execs give them credible contract/legal depth (PBS's core turf). PBS counters on **genuine independence** (not owned by a broker that also earns placement/commission economics), **founder-led personal authority + the content/citation engine**, and the **self-serve toolkit funnel** — not headcount.
+- **Irony worth using carefully:** their ad #5 says "employers need more than a broker" while they are owned by a broker. PBS is the one that is actually broker-independent. Do not attack the broker (brand rule), but PBS's true independence is a clean, honest contrast.
+- **Method note for every future sweep:** always read the **"Paid for by / payer" field** — it reveals ownership/funding the brand name hides (here, broker ownership). Add the payer to every logged competitor ad.
 
 ## Patterns observed (rolls up across sweeps)
 - **The direct-competitor lane is under-advertised, with ONE active contester (refined Jun 27).** Of the full Tier-A set, only **Innovative Rx Strategies** runs ads (~20 versions, sustained) — ARMSRx, PSG, Burchfield, Remedy, 3 Axis, MedOne run none. So the lane is still mostly open, but it is NOT empty: PBS enters against one well-funded, actively-testing competitor that already claims the "independent pharmacist-led" positioning. PBS wins not on positioning parity but on the **named-person-entity + verified proof + toolkit funnel** edge (see the Jun 27 sweep read).
