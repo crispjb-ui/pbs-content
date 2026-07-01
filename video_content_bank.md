@@ -91,6 +91,7 @@ _Once a video ships, log its result here (impressions, watch-through, saves, fol
 | Date | Concept | Platform | Impr | Watch-through | Saves | Followers | Notes |
 |------|---------|----------|------|---------------|-------|-----------|-------|
 | Jun 2026 | "H1 numbers" Wednesday video | LinkedIn (4:5) | 758 impr / 258 video views | **~94% (17s avg / 18s clip)** | 1 | 0 | **First video read. Excellent completion**, but 4:5 = MAIN-FEED ONLY (pre-9:16). Completion proven; the 9:16 video-tab / non-follower reach lift is STILL untested. **Next: ship a clean 9:16 to test reach.** |
+| Jun/Jul 2026 | "Spread pricing / they keep the difference" 9:16 talking-head | LinkedIn (9:16, feed + video tab) | _reach pending_ | _pending_ | _pending_ | _pending_ | **First clean 9:16 (the reach test).** LIVE; capture video-tab reach + non-follower % after 1-2 days. **Render pass (in-feed) found:** captions too small and clipping under the right-side reaction rail; top hook banner cropped at the top edge; the time-lapse element lost at the top; no burned-in logo or end card. Edit notes drove the new **9:16 in-feed render spec** below; re-edit against it, then this row logs the reach read. |
 
 ---
 
@@ -107,6 +108,40 @@ _Maintained by `/video-research`; measured PBS data overrides where it conflicts
 - **Cadence (generic):** 3-4 videos/week Tue-Thu, mid-morning. **PBS override:** PBS runs 1 video/Wednesday at 8:30 AM ET (measured to beat the 10 AM "optimal"); keep the PBS cadence/time, apply the format/length/completion guidance.
 - **Competitor video presence is thin:** direct competitors (ARMSRx ~678, Innovative Rx Strategies ~637 followers) are small and not running notable video — same white space as the ad sweep. Ginny's talking-head authority videos compete in an under-served lane.
 
+## 9:16 in-feed render spec — safe zones + burn-in (added from the first clean 9:16 render pass, Jun/Jul 2026)
+_Every 9:16 clip (scripted talking-head + repurposed) is built to this. Root cause it solves: **LinkedIn stamps its own UI over a 9:16 in-feed, and the device crops the edges**, so anything near an edge is covered, clipped, or too small. Learned from the first live 9:16 (captions clipped under the icon rail; top hook banner + time-lapse cropped at the top; no logo/end card)._
+
+**The four dead zones (keep everything critical OUT of these):**
+- **Top ~5-8%** — device crop / notch / status-bar inset. Nothing flush to the top edge (this is where the hook banner and time-lapse got lost).
+- **Right ~12%** — LinkedIn's reaction rail (like / comment / repost / send). No text here (this is where the captions were clipping).
+- **Bottom ~18%** — LinkedIn stamps the poster name + headline + post caption + "…more."
+- **Safe area = the center 60-70% vertically, and left-of the right 12%.** Face + captions + key text live here.
+
+**Captions (load-bearing — ~75% watch muted; the #1 fix):**
+- **Big and heavy:** 2-4 words per line, bold sans, high contrast (white with a black stroke, or a solid/semi-opaque pill). Roughly double the size seen on the first render.
+- **Vertically centered, NOT at the bottom** (bottom is covered) and **never into the right 12%** (they clip under the icons).
+- **Karaoke word-highlight in Accent Blue (#A7E0FA)** — keep this proven pattern, just size it up.
+- Must be readable at **~400px thumbnail** (same mobile-legibility bar as the messy-infographics).
+
+**Hook banner (optional, if used):** one short line, **below the top crop (8-15% band), centered, on a solid background bar, big.** Not flush to the top edge, not left-crammed. **Run ONE text system** — hook banner up top + rolling captions in the center — never two competing caption zones at the same size.
+
+**Logo:** small PBS wordmark/triangle in a top corner **below the crop line**, and/or on the end card. In the LinkedIn feed you're already attributed (LinkedIn stamps Ginny's name/headline), but that chrome **vanishes on the video tab and off-platform**, so the burned-in logo + end card are what carry brand there.
+
+**Nameplate:** **not needed burned-in for the LinkedIn feed** (LinkedIn stamps "Ginny Crisp, PharmD" + headline automatically). Add a brief **3-5s intro lower-third (center band, then fade) ONLY for off-platform travel** (video tab / Shorts / TikTok / Reels / X): "Ginny Crisp, PharmD · Prescription Benefit Solutions."
+
+**End card (last 2-3s):** logo + **rxbs.org** + one-line CTA to the first comment ("[topic] breakdown in the first comment"). This is the primary home for brand + destination, since the feed chrome is gone off-platform.
+
+**Pre-export checklist (every clip):**
+- [ ] Nothing critical in the top ~5-8%, right ~12%, or bottom ~18%.
+- [ ] Captions centered, 2-4 words/line, big, high-contrast, off the right edge, readable at ~400px.
+- [ ] One caption system (hook banner OR center captions leading, not two competing).
+- [ ] Hook in the first 3s; captions burned in.
+- [ ] End card: logo + rxbs.org + first-comment CTA.
+- [ ] **Preview on an actual phone in the LinkedIn feed before finalizing** (the only reliable safe-zone check).
+
 ## Changelog
+### 2026-06-27 (first clean 9:16 render pass → safe-zone spec)
+- First clean 9:16 talking-head shipped (the reach test). In-feed render review found captions too small + clipping under the right reaction rail, the top hook banner and time-lapse cropped at the top edge, and no burned-in logo/end card. Codified the **9:16 in-feed render spec** (dead zones: top ~5-8% / right ~12% / bottom ~18%; center-band captions 2x bigger with Accent-Blue karaoke; hook banner below the crop; logo on an end card; nameplate only for off-platform; phone-preview gate) so the SHRM batch + every future clip build to it. Logged the clip in the shipped-video table with reach read pending. Source: live LinkedIn render review with Ginny.
+
 ### 2026-06-23 (seed + first research pass)
 - Bank created with the shoot-list + 3 scripted concepts (offshore-rebate reveal, admin-fee decoder, origin) + the SHRM repurpose batch. First `/video-research` pass added the research-backed best-practices block above (9:16 dwell advantage, 15-30s short cut, 70%-completion lever, captions, talking-head endorsement; PBS cadence override retained) and the competitor-video white-space finding. Sources: web search Jun 2026.
