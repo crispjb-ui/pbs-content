@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (Library 05 week; the Thursday reach slot is the live "Cash Beats Your Copay: The Clawback at the Counter" receipt/EOB messy infographic — rebuilt June 27, 2026 from the prior transition-clause vocabulary decoder into a shocking hidden-structure reveal per the measured data; the repurposed Whiteboard checklist now lives in PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (Library 06 week; the Thursday reach slot is the live "Cash Beats Your Copay: The Clawback at the Counter" receipt/EOB messy infographic — rebuilt June 27, 2026 from the prior transition-clause vocabulary decoder into a shocking hidden-structure reveal per the measured data; the repurposed Whiteboard checklist now lives in PART 1 as an In-Article Visual)._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -19,13 +19,13 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Aug 17 | 7:00 PM | X | question [A7] | PART 4B · Mon | [ ] |
 | Mon Aug 17 | 8:30 PM | X | aphorism [C8] | PART 4B · Mon | [ ] |
 | Tue Aug 18 | 7:30 AM | Substack | "What I'd Ask" #9: Rolling Out a Formulary Change | PART 2B | [ ] |
-| Tue Aug 18 | 7:30 AM | Substack | Contract Library push — Library 05 provisions | PART 2B (Library 05 Update) | [ ] |
+| Tue Aug 18 | 7:30 AM | Substack | Contract Library push — Library 06 provisions | PART 2B (Library 06 Update) | [ ] |
 | Tue Aug 18 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Tue | [ ] |
-| Tue Aug 18 | 10:00 AM | LI Feed | Post 121 — "Five Clauses That Anchor Q4 Broker Conversations" (Library 05 · Contract Comparison) | Post 121 | [ ] |
+| Tue Aug 18 | 10:00 AM | LI Feed | Post 121 — "Five Clauses That Anchor Q4 Broker Conversations" (Library 06 · Contract Comparison) | Post 121 | [ ] |
 | Tue Aug 18 | 10:05 AM | LI Feed | Post 121 first comment | Post 121 | [ ] |
 | Tue Aug 18 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 1:30 PM | LI Company | Reshare of Post 121 | Post 121 Reshare | [ ] |
-| Tue Aug 18 | 5:00 PM | X | Library 05 driver (Q4 broker clauses; after 10 AM carousel) | PART 4B · Tue | [ ] |
+| Tue Aug 18 | 5:00 PM | X | Library 06 driver (Q4 broker clauses; after 10 AM carousel) | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 7:00 PM | X | question [A8] | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 8:30 PM | X | one question [B8] | PART 4B · Tue | [ ] |
 | Wed Aug 19 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Wed | [ ] |
@@ -246,7 +246,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Pillar:** Transparency & Industry Education
 **Type:** Field Note
 **Pairs with:** Thursday LinkedIn "Cash Beats Your Copay: The Clawback at the Counter" receipt/EOB messy infographic. LinkedIn post lands the shock (cash beats the copay; the PBM claws back the difference); Field Note exclusively supports it — what a clawback is, why cash sometimes beats the copay on generics, the audit pass that surfaces the overpaid claims on your own plan, and the member-communication language that tells employees to ask.
-**Why this pairing (June 27, 2026 retarget):** The Thursday reach post was rebuilt from a transition-clause vocabulary decoder into the copay-clawback hidden-structure reveal (measured: reveals clear 15-18K in the summer trough, decoders ~4-5K). The Field Note is retargeted to exclusively support that reveal. Triple-distinct holds: Monday = member communication (messaging strategy) · Tuesday = Library 05 (Q4 broker contract clauses) · Thursday = cash-beats-copay clawback (member-facing pricing reveal). The displaced "Auditing Your Member Transition Disruption Clauses" draft is homeless; note it for `field_note_backlog.md` as **FN-17** (Transparency / PBM Contract Insights; re-anchoring note: refresh the "this morning's LinkedIn post decoded the five clauses" opener, which assumes a transition-decoder LinkedIn pairing that no longer ships this week). The original "Provider Communication" draft remains parked as FN-16.
+**Why this pairing (June 27, 2026 retarget):** The Thursday reach post was rebuilt from a transition-clause vocabulary decoder into the copay-clawback hidden-structure reveal (measured: reveals clear 15-18K in the summer trough, decoders ~4-5K). The Field Note is retargeted to exclusively support that reveal. Triple-distinct holds: Monday = member communication (messaging strategy) · Tuesday = Library 06 (Q4 broker contract clauses) · Thursday = cash-beats-copay clawback (member-facing pricing reveal). The displaced "Auditing Your Member Transition Disruption Clauses" draft is homeless; note it for `field_note_backlog.md` as **FN-17** (Transparency / PBM Contract Insights; re-anchoring note: refresh the "this morning's LinkedIn post decoded the five clauses" opener, which assumes a transition-decoder LinkedIn pairing that no longer ships this week). The original "Provider Communication" draft remains parked as FN-16.
 
 **Display Title:** Why Is the Cash Price Lower Than My Copay? (The Clawback, Explained)
 **SEO Title (AEO):** Why Is the Cash Price Sometimes Lower Than My Insurance Copay?
@@ -458,9 +458,9 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 ---
 
-## Substack Contract Library Update — Library 05 Week
+## Substack Contract Library Update — Library 06 Week
 
-Library 05 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
+Library 06 ships Tuesday on LinkedIn. Push the matching Contract Library update to Substack the same day so carousel readers who click through find the updated reference document.
 
 **Publishing prompt:**
 
@@ -468,7 +468,7 @@ Library 05 ships Tuesday on LinkedIn. Push the matching Contract Library update 
 
 After publishing, tell Claude the push is done so the Update Log in `substack_contract_language_library.md` gets moved from `_Pending: next push_` to a dated row.
 
-**Provisions Library 05 should have added or amended before this push** (confirm Claude has merged these into the article body; if not, ask Claude "update the contract library for Library 05"). The Library 05 carousel is "Five Clauses That Anchor Q4 Broker Conversations":
+**Provisions Library 06 should have added or amended before this push** (confirm Claude has merged these into the article body; if not, ask Claude "update the contract library for Library 06"). The Library 06 carousel is "Five Clauses That Anchor Q4 Broker Conversations":
 - Biosimilar tier-placement clause: formulary positioning of biosimilars vs. the reference brand
 - Stop-loss cooperation / data-sharing clause: PBM coordination and data-sharing with the stop-loss carrier
 - Termination and PBM-evaluation timing clause: notice windows that keep the evaluation calendar open
@@ -480,15 +480,15 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 121 - Tuesday 10:00 AM
-### "Five Clauses That Anchor Q4 Broker Conversations" — Library 05 Contract Comparison Carousel
+### "Five Clauses That Anchor Q4 Broker Conversations" — Library 06 Contract Comparison Carousel
 
-**Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-04.
+**Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-05.
 **Format class:** Carousel (Tuesday Cycle-W5 slot, third cycle)
 **Pillar:** Broker/Consultant Resources (different from Monday's Self-Funded / Member Communication topic)
-**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 05 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Library 05 decodes the contract clauses that anchor the five Q4 renewal-prep conversations strong brokers run.
-**Why this combination:** Q4 is the strategic conversation window for brokers; the quality of each conversation depends on whether the contract gives them standing to have it. Library 05 pairs each of the five Q4 conversations (biosimilar pipeline, stop-loss alignment, PBM evaluation calendar, fiduciary documentation, independent claims data access) with the specific contract clause that either permits or blocks the action, with a redline on each. Closing slide funnels back to the Substack Contract Language Library where the full protective language lives.
+**Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 06 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Library 06 decodes the contract clauses that anchor the five Q4 renewal-prep conversations strong brokers run.
+**Why this combination:** Q4 is the strategic conversation window for brokers; the quality of each conversation depends on whether the contract gives them standing to have it. Library 06 pairs each of the five Q4 conversations (biosimilar pipeline, stop-loss alignment, PBM evaluation calendar, fiduciary documentation, independent claims data access) with the specific contract clause that either permits or blocks the action, with a redline on each. Closing slide funnels back to the Substack Contract Language Library where the full protective language lives.
 
-> **Success metric (Library 05):** Target 12+ saves in first 2 weeks. Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework based on first-week feed impressions alone. Publish a contingent Substack Note once save count crosses 10.
+> **Success metric (Library 06):** Target 12+ saves in first 2 weeks. Track 30-day profile viewer count and Substack Contract Language Library traffic lift as the real return. Do not pull, deprioritize, or rework based on first-week feed impressions alone. Publish a contingent Substack Note once save count crosses 10.
 
 #### Post Copy
 
@@ -518,7 +518,7 @@ Full protective language for these five clauses lives in our PBM Contract Langua
 
 #### Carousel Slide-by-Slide Spec
 
-Same visual system as Library 01-04: Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis; off-white contract-paper (#F5F0E4) content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "WHY IT MATTERS" panels. Slide numbers "N / 7" bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 05."
+Same visual system as Library 01-05: Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis; off-white contract-paper (#F5F0E4) content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "WHY IT MATTERS" panels. Slide numbers "N / 7" bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 06."
 
 **Slide 1 — Cover.** Headline: "Five clauses that anchor the *best* Q4 broker conversations." ("best" italic Accent Blue.) Subhead: "Without the clauses, the conversations are hopes, not plans." "01 / 07."
 
@@ -536,13 +536,13 @@ Same visual system as Library 01-04: Primary Blue cover + close with white Plex 
 
 #### Image Generation Prompt
 
-Claude Design project type: **Slide deck from template**. Contract Comparison carousel (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-04. Pull slide-by-slide contract language from spec above. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 05."
+Claude Design project type: **Slide deck from template**. Contract Comparison carousel (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-05. Pull slide-by-slide contract language from spec above. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 06."
 
 **Post-Generation Steps:**
 
 1. Generate 7-slide deck
 2. Export PNGs 1080 x 1350
-3. Visual-parity check against Library 01-04
+3. Visual-parity check against Library 01-05
 4. Upload as native LinkedIn carousel
 
 ---
@@ -601,7 +601,7 @@ _The "Member Communication Checklist" Whiteboard Carousel was repurposed into Mo
 > **NOTE (June 27, 2026 rebuild):** This Thursday reach slot was rebuilt from a "5 Member Transition Disruption Terms Decoded" Marked-Up Plan Document Page vocabulary decoder into a **shocking hidden-structure reveal** per the measured data (vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough). New reveal: the **copay clawback** — for many generics the cash price is lower than the member's insured copay, and the PBM claws back the difference at the counter. Strongest member-facing affordability reveal and a clean fit for W33 Member Communication (the thing your employees actually experience at the pharmacy). The displaced transition-clause decoded terms are folded into the new Field Note as supporting detail; the old transition-audit Field Note draft is noted for `field_note_backlog.md` (FN-17). Sourced from `shocking_fact_bank.md` pipeline candidate "PBM cash-vs-claim gap," now verified (USC Schaeffer 2018; Patient Right to Know Drug Prices Act of 2018).
 
 **Format:** Single messy infographic, photoreal **pharmacy-receipt / EOB aesthetic** — a printed pharmacy receipt on a counter beside a phone showing the GoodRx / Cost Plus cash price for the same generic, with handwritten annotations circling the gap. 1080 x 1350 px. ≤5 elements, mobile-legible (the cash-vs-copay number contrast dominates the center ~70% of the frame, readable at ~400px thumbnail). The receipt/EOB "cash $X vs copay $Y on the same generic" composition is the payload.
-**Pillar:** Transparency & Industry Education (different from Monday's Member Communication topic; different from Tuesday's Library 05 contract clauses)
+**Pillar:** Transparency & Industry Education (different from Monday's Member Communication topic; different from Tuesday's Library 06 contract clauses)
 **Field Note pairing:** Same-day Substack Field Note "Why Is the Cash Price Lower Than My Copay? (The Clawback, Explained)."
 **Reference document pairing:** Refers back to the existing live **Copay Card Financial Impact Calculator** toolkit (`rxbs.org/toolkit/copay-card-calculator`) per the refer-back-first rule — no new toolkit minted (the copay/cash-price mechanic is already covered).
 
@@ -1000,7 +1000,7 @@ Ask your PBM: "If we wanted to leave, what in this contract makes it expensive o
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 121 Library 05 Contract Comparison Carousel | 7 slides (1080x1350) | "Five Clauses That Anchor Q4 Broker Conversations" — decodes contract language behind the 5 Q4 broker conversations (tier placement, stop-loss cooperation, termination, fiduciary reporting, audit rights), Broker/Consultant Resources pillar |
+| Post 121 Library 06 Contract Comparison Carousel | 7 slides (1080x1350) | "Five Clauses That Anchor Q4 Broker Conversations" — decodes contract language behind the 5 Q4 broker conversations (tier placement, stop-loss cooperation, termination, fiduciary reporting, audit rights), Broker/Consultant Resources pillar |
 | Post 123 Cash-Beats-Copay Clawback Receipt | Single messy infographic (1080x1350) | "Cash Beats Your Copay: The Clawback at the Counter" — photoreal pharmacy-receipt / EOB, cash-vs-copay contrast, Transparency pillar. Thursday reach reveal (rebuilt June 27, 2026). Illustrative figures only; copy carries disclaimer + cites USC Schaeffer |
 | Thursday Field Note header | 1200x600 (Data Highlight) | "Cash Beat the Copay" two-tone, clawback price-tag composition |
 | Headers | Standard | [ ] |
