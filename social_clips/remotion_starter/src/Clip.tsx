@@ -428,6 +428,11 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // keeps the badge inset from the right so it can't clip. Edge insets use SAFE_X / SAFE_CORNER.
   const SAFE_X = Math.round(width * 0.11); // side inset for primary text + name plate (~119px @1080)
   const SAFE_CORNER = Math.round(width * 0.06); // side inset for the corner logo / badge (~65px @1080)
+  // Aspect gating is driven by the ACTUAL render dimensions, NOT clip.aspect. The render scripts
+  // render every clip in BOTH formats (Clip4x5 @1350 tall, Clip9x16 @1920 tall) but pass the manifest's
+  // single fixed clip.aspect to both — so clip.aspect is unreliable for "which format am I". height/width
+  // cleanly separates them: 9:16 = 1.78, 4:5 = 1.25. (Fixed Jul 1, 2026 with the first-live-9:16 dead-zone pass.)
+  const vertical = height / width > 1.5;
   const totalFrames = Math.round((clip.outSec - clip.inSec) * fps);
   const endFrames = Math.round(2.5 * fps);
   const hookDurFrames = Math.round(3.5 * fps);
@@ -450,8 +455,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
         <div style={{ position: "absolute", top: 26, right: SAFE_X, background: PRIMARY, color: WHITE, padding: "7px 14px", borderRadius: 6, fontSize: 22, fontWeight: 600 }}>As seen on {clip.showName}</div>
         <div style={{ position: "absolute", bottom: height * 0.12, left: 40, right: 40, textAlign: "center" }}>
           <div style={{ display: "inline-block", background: PRIMARY, padding: "22px 32px", borderRadius: 16, boxShadow: "0 12px 40px rgba(0,0,0,0.5)" }}>
-            <div style={{ fontSize: clip.aspect === "9x16" ? 72 : 60, fontWeight: 700, color: WHITE, lineHeight: 1.1 }}>{highlightDollars(clip.hookTitle)}</div>
-            {clip.hookLine2 && <div style={{ fontSize: clip.aspect === "9x16" ? 76 : 64, fontWeight: 700, color: WHITE, lineHeight: 1.1, marginTop: 8 }}>{highlightDollars(clip.hookLine2)}</div>}
+            <div style={{ fontSize: vertical ? 72 : 60, fontWeight: 700, color: WHITE, lineHeight: 1.1 }}>{highlightDollars(clip.hookTitle)}</div>
+            {clip.hookLine2 && <div style={{ fontSize: vertical ? 76 : 64, fontWeight: 700, color: WHITE, lineHeight: 1.1, marginTop: 8 }}>{highlightDollars(clip.hookLine2)}</div>}
           </div>
         </div>
         <div style={{ position: "absolute", bottom: 30, left: 0, right: 0, textAlign: "center", color: WHITE, fontSize: 24, fontWeight: 600, filter: "drop-shadow(0 2px 4px rgba(0,0,0,0.6))" }}>Ginny Crisp, PharmD · Prescription Benefit Solutions</div>
@@ -526,8 +531,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
     return { display: "inline-block", transformOrigin: "center bottom", transform: `scale(${s})`, opacity: op };
   };
   const hookLine2In = spring({ frame: Math.max(0, frame - Math.round(1.0 * fps)), fps, config: { damping: 14, stiffness: 110 } });
-  const hookL1 = clip.aspect === "4x5" ? 60 : 66;
-  const hookL2 = clip.aspect === "4x5" ? 44 : 48;
+  const hookL1 = !vertical ? 60 : 66;
+  const hookL2 = !vertical ? 44 : 48;
   // Panel spring-scales in at frame 0 already containing "Cost." (never an empty box);
   // it then auto-grows in width as later beats mount and in height when line 2 mounts.
   const hookPanelScale = interpolate(spring({ frame, fps, config: { damping: 13, stiffness: 210, mass: 0.6 } }), [0, 1], [0.72, 1]);
@@ -550,16 +555,16 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
         <>
           {/* Progress bar — 9:16 drops it below the device status bar (top ~8% is cropped in the
               LinkedIn/TikTok feed, so a flush-top bar is invisible; the first live 9:16 lost it there). */}
-          <div style={{ position: "absolute", top: clip.aspect === "9x16" ? Math.round(height * 0.072) : 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
+          <div style={{ position: "absolute", top: vertical ? Math.round(height * 0.072) : 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
 
           {/* PBS logo corner (persistent) — layered shadow so the white mark reads on light walls.
               9:16 drops it below the top ~8% device/status-bar crop (the first live 9:16 lost the logo up there). */}
-          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: clip.aspect === "9x16" ? Math.round(height * 0.085) : 26, left: SAFE_CORNER, height: clip.aspect === "9x16" ? 46 : 56, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
+          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: vertical ? Math.round(height * 0.085) : 26, left: SAFE_CORNER, height: vertical ? 46 : 56, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
 
           {/* "As seen on" badge — hidden during hook, shown after. Sized up for mobile-feed legibility. */}
           {showBadge && (
             <div style={{
-              position: "absolute", top: clip.aspect === "9x16" ? Math.round(height * 0.085) : 26, right: SAFE_X,
+              position: "absolute", top: vertical ? Math.round(height * 0.085) : 26, right: SAFE_X,
               background: PRIMARY, color: WHITE,
               padding: "10px 18px", borderRadius: 9,
               fontSize: 30, fontWeight: 700, zIndex: 30,
@@ -575,7 +580,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
             <div style={{
               position: "absolute",
               // 9:16 pushes the hook well below the top ~8% crop (the first live 9:16 clipped the hook banner at the top edge).
-              top: clip.hookBeats && clip.hookBeats.length ? (clip.aspect === "4x5" ? 94 : Math.round(height * 0.135)) : (clip.aspect === "4x5" ? 70 : Math.round(height * 0.12)),
+              top: clip.hookBeats && clip.hookBeats.length ? (!vertical ? 94 : Math.round(height * 0.135)) : (!vertical ? 70 : Math.round(height * 0.12)),
               left: SAFE_CORNER, right: SAFE_CORNER,
               textAlign: "center",
               opacity: hookOp,
@@ -608,14 +613,14 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                     })}
                   </div>
                 ) : (
-                  <div style={{ fontFamily: SANS, fontSize: clip.aspect === "4x5" ? 56 : 64, fontWeight: 700, color: WHITE, lineHeight: 1.15 }}>
+                  <div style={{ fontFamily: SANS, fontSize: !vertical ? 56 : 64, fontWeight: 700, color: WHITE, lineHeight: 1.15 }}>
                     {highlightHook(clip.hookTitle, clip.hookAccent)}
                   </div>
                 )}
                 {clip.hookLine2 && (!hookBeatsMode || frame >= hookLine2Frame) && (
                   <div style={{
                     fontFamily: SANS,
-                    fontSize: hookBeatsMode ? hookL2 : (clip.aspect === "4x5" ? 58 : 66),
+                    fontSize: hookBeatsMode ? hookL2 : (!vertical ? 58 : 66),
                     fontWeight: 700, color: WHITE, lineHeight: 1.15, marginTop: hookBeatsMode ? 10 : 8,
                     ...(hookBeatsMode ? { opacity: hookLine2In, transform: `translateY(${(1 - hookLine2In) * 16}px)` } : null),
                   }}>
@@ -655,7 +660,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
               position: "absolute",
               // 9:16 lifts the name plate clear of the bottom ~18% zone where LinkedIn stamps its OWN
               // poster name + headline + caption (the first live 9:16 had the two nameplates colliding).
-              bottom: clip.aspect === "4x5" ? 110 : Math.round(height * 0.22),
+              bottom: !vertical ? 110 : Math.round(height * 0.22),
               left: SAFE_X,
               transform: `translateX(${plateX}%)`,
               zIndex: 35,
@@ -678,7 +683,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {active && !captionsSuppressed ? (
             <div style={{
               position: "absolute",
-              top: clip.aspect === "9x16"
+              top: vertical
                 ? (captionOverCutaway ? height * 0.78 : plateVisible ? height * 0.55 : height * 0.65)
                 : (captionOverCutaway ? height * 0.82 : plateVisible ? height * 0.58 : height * 0.68),
               left: SAFE_X, right: SAFE_X,
@@ -701,7 +706,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                       return (
                         <span key={i} style={{
                           display: "inline-block",
-                          fontSize: clip.aspect === "9x16" ? 60 : 44,
+                          fontSize: vertical ? 60 : 44,
                           fontWeight: 700,
                           lineHeight: 1.4,
                           fontFamily: SANS,
@@ -722,7 +727,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                       );
                     })
                   : <span style={{
-                      fontSize: clip.aspect === "9x16" ? 60 : 44, fontWeight: 700, lineHeight: 1.4, fontFamily: SANS, color: WHITE,
+                      fontSize: vertical ? 60 : 44, fontWeight: 700, lineHeight: 1.4, fontFamily: SANS, color: WHITE,
                       textShadow: "2px 2px 0 rgba(0,0,0,0.8), -1px -1px 0 rgba(0,0,0,0.8), 1px -1px 0 rgba(0,0,0,0.8), -1px 1px 0 rgba(0,0,0,0.8), 0 3px 6px rgba(0,0,0,0.5)",
                     }}>{active.text}</span>
                 }
