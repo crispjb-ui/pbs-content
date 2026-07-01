@@ -22,6 +22,22 @@ TITLE="🔔 PBS automation log"
 NOTIFY="@crispjb-ui"   # the repo-owner account; mentioned on every comment so GitHub emails/pushes
 BODY="${1:-(no summary provided)}"
 
+# ── Auto-append a tappable review link to the diff THIS run produced ──
+# Ginny reviews on GitHub mobile, so every run that changed anything should link
+# straight to its changes (July 1, 2026 standing instruction: "all should be
+# linked"). GitHub checks the workspace out at $GITHUB_SHA; a run that commits +
+# pushes advances local HEAD past it, so compare($GITHUB_SHA...HEAD) is exactly
+# this run's diff. Reminder-only runs that commit nothing leave HEAD == $GITHUB_SHA
+# and get NO link (correct — nothing to review). Best-effort; never fails the run.
+BEFORE_SHA="${GITHUB_SHA:-}"
+AFTER_SHA="$(git rev-parse HEAD 2>/dev/null || true)"
+if [ -n "${GITHUB_REPOSITORY:-}" ] && [ -n "$BEFORE_SHA" ] && [ -n "$AFTER_SHA" ] && [ "$BEFORE_SHA" != "$AFTER_SHA" ]; then
+  REPO_URL="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY}"
+  BODY="$BODY
+
+🔗 Review this run's changes: ${REPO_URL}/compare/${BEFORE_SHA}...${AFTER_SHA}"
+fi
+
 num=$(gh issue list --state open --search "\"$TITLE\" in:title" --json number --jq '.[0].number' 2>/dev/null || true)
 if [ -z "${num:-}" ] || [ "$num" = "null" ]; then
   url=$(gh issue create --title "$TITLE" --assignee crispjb-ui \
