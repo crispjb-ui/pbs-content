@@ -12,6 +12,8 @@
 
 **Brand treatment (all clips):** per `social_clips/remotion_pbs_caption_template_spec.md` — PBS v2 palette (Primary Blue #015880, Accent Blue #A7E0FA), IBM Plex Sans bold burned-in captions with Accent-Blue keyword highlights, lower-third "Honest HR · SHRM" + "Ginny Crisp, PharmD · Prescription Benefit Solutions," triangle wordmark bug, Ginny centered in the reframe. Captions mandatory (autoplay is muted).
 
+> **⚠ RE-RENDER NOTE (Jun 27, 2026) — apply before rendering/re-rendering any SHRM clip.** The first live 9:16 exposed render issues now fixed in `remotion_pbs_caption_template_spec.md` (canonical: `video_content_bank.md` → "9:16 in-feed render spec"). Two changes to carry into the render project before this batch ships: **(1) captions CENTERED and ~2x bigger (NOT lower-third — the bottom is covered by LinkedIn chrome), kept out of the top ~5-8%, right ~12%, bottom ~18%; add a 2-3s end card (logo + rxbs.org + first-comment CTA).** **(2) LinkedIn primary is now 9:16, not 4:5** (9:16 unlocks the video tab / non-follower reach; still also render 4:5 as a secondary main-feed cut). The per-clip "4:5 → LinkedIn primary" aspect notes below are superseded: render 9:16 as the LinkedIn hero for every clip. The manifest (`honest-hr-shrm_2026-06-09_clips.json`) is render-ready via `node render-from-manifest.mjs`; the only change needed is updating the Remotion caption component to the revised template spec (bottom margin ~15% → ~18%, add the right-12% guard, captions center).
+
 ---
 
 ## Per-platform packaging + two-length cuts (added Jun 20, 2026)
