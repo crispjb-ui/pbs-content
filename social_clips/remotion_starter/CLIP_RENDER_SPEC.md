@@ -197,6 +197,40 @@ would bring covers up to clip7's level without 6 bespoke files. Build when ready
    caption/word match runs against `tCap = tSource + CAPTION_LEAD`. Tunable in `Clip.tsx`:
    raise if captions still trail speech, lower if they jump ahead.
 
+## First live 9:16 in-feed review (Jul 1, 2026) — 9:16 dead-zone corrections
+
+The first 9:16 talking-head published to the LinkedIn feed, and the real render (screenshots
+reviewed with Ginny) exposed that lesson 8 + refinement #1 were tuned on the **4:5** case and
+put persistent chrome at `top: 26`, which the **9:16 feed** eats. On 9:16 the device status bar
+crops the top ~8%, LinkedIn's OWN poster stamp (avatar + name + headline + "…more" caption)
+covers the bottom ~18%, and the reaction rail owns the right ~12%. Six defects, all 9:16-only,
+now fixed in `Clip.tsx` (gated on `clip.aspect === "9x16"`, so the verified 4:5 path is untouched):
+
+| Defect (in the live feed) | Old 9:16 value | New 9:16 value |
+|---|---|---|
+| Progress bar invisible (under status bar) | `top: 0` | `top: height*0.072` (below the status bar) |
+| Logo top-left invisible | logo `top: 26` | `top: height*0.085`, height 46 |
+| "As seen on" badge invisible (behind clock/battery) | badge `top: 26` | `top: height*0.085` |
+| Hook banner clipped at top edge | hook `top: 90` / `110` | `top: height*0.12` (non-beats) / `0.135` (beats) |
+| Nameplate collided with LinkedIn's own stamp | nameplate `bottom: height*0.16` | `bottom: height*0.22` (above the bottom-18% chrome) |
+| Captions too small / too many words per line | `fontSize: 44` | `fontSize: 60` (bigger → naturally 2-3 words/line) |
+
+**Why the nameplate stays (moved, not deleted):** LinkedIn stamps the poster name in the feed so a
+burned-in plate is redundant *there*, but the same 9:16 render cross-posts to TikTok/Reels/Shorts
+where there is no such stamp — so keep it, just lift it out of the bottom-18% band. It flies in/out
+in the first ~3.5s; captions already relocate up to `height*0.55` while it's visible, so no collision.
+
+**9:16 mental model (all four dead zones):** top ~8% (device/status-bar crop) · right ~12%
+(reaction rail) · bottom ~18% (LinkedIn poster stamp / platform caption+username) · **safe band =
+center 60-70% vertically, left of the right 12%.** Everything critical lives in that band; the logo,
+badge, and progress bar sit just below the top-8% line, not flush to the edge. Canonical prose:
+`video_content_bank.md` → "9:16 in-feed render spec"; template spec: `remotion_pbs_caption_template_spec.md`.
+
+**Re-verify after re-render:** on an actual phone, in the LinkedIn feed AND the expanded view — logo,
+badge, and hook all fully visible below the status bar; nameplate clear of LinkedIn's own name stamp;
+captions big (2-3 words/line) and clear of the right rail; progress bar visible. Bump the 9:16 fractions
+up (0.09 / 0.13 / 0.24) if anything still clips on a taller device.
+
 3. **Split-screen "zoom out" (letterbox / contain).** `objectFit: cover` shows only the
    center ~45% of a 16:9 source, slicing both faces when the podcast is in split-screen.
    Two new clip props:
