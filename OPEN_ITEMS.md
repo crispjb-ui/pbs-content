@@ -2,6 +2,19 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+## 🌐 QUARTERLY RESEARCH (Jul 1, 2026 `/quarterly-research`, Q2 2026 landscape) — strategy proposals for Ginny
+_Full cited report: `research/landscape_2026_Q2.md`. The safe/sourced bank updates were auto-applied (shocking-fact #9 MLR intercompany elimination + copay-maximizer prevalence refresh; X recipe #31; common-knowledge freshness notes). The items below are judgment calls — proposed, not built._
+
+**The quarter in one line:** the FTC insulin case fully settled (all big-3; OptumRx last, Jun 16), federal PBM reform became law (100% commercial rebate pass-through + bona-fide-fee-only comp phasing in 2028-29), 12+ states passed PBM laws, and "net-cost / rebate-free" moved from fringe to the coming default — which *raises* the value of an independent read of the actual contract definitions.
+
+- **① New Monday deep-dive candidate — "Budgeting for the rebate-free PBM."** The ESI consent order + federal 100%-pass-through mandate make rebate-check-dependent budgeting a near-term liability. Strong Sep-Oct surge / renewal-season fit. Check `email_gated_toolkit/toolkit_dataset.md` for an existing "rebate exposure" toolkit before minting one (refer-back-first).
+- **② New Thursday breakout — the "MLR intercompany elimination" reveal (shocking-fact #9, auto-added).** Thursday-Excellence-grade hidden-structure reveal: insurer must spend 80% on care, so the vertically integrated ones overpay the pharmacy they own and book profit in a sibling the rule can't see. Slot into a Q3/Q4 reach week NOT already carrying a rebate-aggregator or specialty-markup reveal (no-repeat-within-~6-weeks).
+- **③ Refresh the already-scheduled W37 state-reform-wave POV** with Q2 numbers: 12+ states in 2026, CA/AL spread bans, VA S.B. 669 eff Jul 1, the "red and blue states pass the identical fix = it's the business model" framing.
+- **④ Broker/consultant compensation-disclosure angle (broker-as-partner guardrail).** The ESI order mandates disclosure of PBM-to-consultant compensation — a plan-sponsor win that VALIDATES aligned brokers. A Broker/Consultant-pillar piece could work IF it frames the PBM (not brokers) as the party who hid the money. Propose only; broker sensitivity is a documented tripwire (Week 14 stop-loss deletion).
+- **⑤ Potter piece candidate — "Follow the ownership."** The quarter's throughline (rebates → specialty routing → private-label → MLR all resolve to PBM-owned counterparties). Only if it respects the Series Narrative Arc (callback/handoff/map anchor) in `wendell_potter_piece_outlines.md` — check against the existing arc before drafting.
+- **⑥ Flagship data-report angle (`pbm_contract_data_report_spec.md`).** As "transparent/net-cost" becomes everyone's pitch (incumbents included), a report on *how often the net-cost promise survives the contract definitions* — PBS's proprietary read across the contracts it reviews — is well-timed. Judgment call on scope/timing.
+- **⑦ Topic amplifiers to keep live:** GLP-1 (Novo cut Wegovy/Ozempic list ~50% to ~$675 eff Jan 2027; CVS co-preferred flip-flop = live "your formulary can change mid-cycle" example) — pair with a contract angle, not a coverage explainer. Biosimilars: the private-label story (Cordavis/Nuvaila/Quallent) → "which specific product, at what list, is actually in your preferred slot, and why."
+
 ## 🔎 AUDIT FINDINGS (Jul 1, 2026 `/system-audit`) — judgment calls for Ginny
 _Safe/obvious fixes from this audit were already applied + reported in `audit_reports/audit_2026-07-01.md`. The items below need Ginny's call because they touch deliverable content._
 

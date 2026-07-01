@@ -283,3 +283,10 @@ First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 There's a public benchmark for what pharmacies actually pay for a generic: NADAC. Your PBM bills your plan off its own private MAC list instead. When MAC sits above NADAC, the gap is margin. Ask to see both numbers on the same claim.
 ```
 First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**31. MLR Intercompany Elimination** _(NEW — Jul 1, 2026 quarterly research; the "hidden structure" reveal shape — pair with shocking-fact bank #9)_
+```
+There's a rule that says your insurer must spend 80% of premium on care. The vertically integrated ones get around it by overpaying the pharmacy they own and keeping the rebates in the parent company. The money isn't spent on care. It moves to a sibling company the rule can't see. It has a name: intercompany eliminations.
+```
+First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+_(Source: Drug Channels mid-April 2026 roundup, citing a Milliman/PhRMA analysis. Genuinely under-known; strong Cuban-bait, weekend Tier A. Don't run same week as offshore-aggregator (5/20) or spread posts.)_

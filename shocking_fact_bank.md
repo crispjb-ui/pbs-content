@@ -49,8 +49,8 @@
 **Fits:** Transparency, PBM Evaluation (W27), PBM RFP (W31). **Freshness:** medium (concentration is becoming known; the "52% in 2004" growth framing keeps it fresh).
 
 ### 5 · The vendor that reclassifies your drug as "non-essential"
-**Fact:** Copay maximizer vendors reclassify a member's specialty drug as a **"non-essential health benefit"** to bypass the ACA's out-of-pocket cap, then drain the manufacturer's full annual copay assistance. In J&J's suit against SaveOnSP, Stelara copay assistance ran **~$1,200/script for non-enrolled patients vs. ~$4,300/script for enrolled** ones; J&J alleged **$100M+ in overpayment**.
-**Source:** Johnson & Johnson v. SaveOnSP; KFF; Frier Levitt; AIMED Alliance.
+**Fact:** Copay maximizer vendors reclassify a member's specialty drug as a **"non-essential health benefit"** to bypass the ACA's out-of-pocket cap, then drain the manufacturer's full annual copay assistance. In J&J's suit against SaveOnSP, Stelara copay assistance ran **~$1,200/script for non-enrolled patients vs. ~$4,300/script for enrolled** ones; J&J alleged **$100M+ in overpayment**. This is not fringe: **nearly 40% of commercially insured members were in plans with copay maximizers in 2025.**
+**Source:** Johnson & Johnson v. SaveOnSP; KFF; Frier Levitt; AIMED Alliance. Prevalence figure: Drug Channels news roundup, mid-April 2026 _(added Jul 1, 2026 quarterly research)_.
 **Unfakeable specifics:** the "non-essential health benefit" reclassification trick; "$1,200 → $4,300 on Stelara."
 **LinkedIn add-on:** "There is a program that legally reclassifies your employee's drug as 'non-essential,' so the copay cap disappears and a vendor drains the full year of manufacturer assistance. It may be bolted onto your plan right now."
 **X add-on:** "A vendor reclassifies your member's drug as a 'non-essential health benefit' to dodge the ACA out-of-pocket cap, then drains the manufacturer's copay card. Stelara: $1,200/script became $4,300. It has a name."
@@ -80,6 +80,14 @@
 **X add-on:** "The FTC found the biggest PBM generic markups were on leukemia, MS, transplant, and HIV generics. The sicker the member, the bigger the spread."
 **Fits:** Clinical Pharmacy, Specialty Management (W34), Member Communication (W33). **Freshness:** high; the human angle broadens reach beyond the finance audience.
 
+### 9 · The profit that disappears into a sibling company _(NEW — Jul 1, 2026 quarterly research)_
+**Fact:** Insurers are required to spend 80-85% of premium on care (the Medical Loss Ratio). Vertically integrated insurer-PBMs get around it with **intercompany eliminations**: the regulated insurance arm **overpays its affiliated providers/pharmacies and keeps rebates inside the parent**, so profit shifts *out of* the MLR-regulated entity and *into* the unregulated sibling companies the rule can't see. The money doesn't get spent on care and it doesn't get refunded, it just moves to another pocket of the same corporation.
+**Source:** Drug Channels news roundup, mid-April 2026 (citing a Milliman analysis commissioned by PhRMA). Re-verify at post time.
+**Unfakeable specifics:** the term "intercompany eliminations," the 80-85% MLR rule, "overpay the affiliate + retain rebates in the parent."
+**LinkedIn add-on:** "There's a rule that says your insurer has to spend 80 cents of every premium dollar on care. Vertically integrated PBM-insurers get around it by overpaying the pharmacy they own and keeping the rebates upstairs. The money doesn't get spent on care. It moves to a sibling company the rule can't see."
+**X add-on:** "The MLR rule forces insurers to spend 80% of premiums on care. The workaround: overpay the pharmacy you own, keep the rebates in the parent, book the profit in a sibling the regulator can't touch. It has a name. Intercompany eliminations."
+**Fits:** Transparency, PBM Contract Insights, PBM Evaluation, Rebate Economics. **Freshness:** high, genuinely under-known — this is the "hidden structure" reveal shape. Do not run in the same ~6-week window as the offshore-aggregator (1) or specialty-markup (2) reveals.
+
 ---
 
 ## Pipeline — candidates to research and verify next (keep the bank alive)
@@ -94,6 +102,10 @@ When an entry above stops outperforming, promote one of these (verify the figure
 - **State PBM reform body count** — number of states that passed PBM legislation in the last cycle (the "when the fix is identical across red and blue states, it's the business model" framing).
 
 **Workflow when adding one:** run a WebSearch, confirm the figure against a primary source (FTC, Congressional letter, peer-reviewed, 46brooklyn, Drug Channels), write the entry in the format above with the citation, add a paste-ready LinkedIn + X hook, and note which week/pillar it fits. Then drop the paste-ready X seed into `x_recipe_post_bank.md` if it suits the AM amplifier slot.
+
+## Common-knowledge watch (Jul 1, 2026 quarterly research)
+
+Two themes crossed into mainstream awareness this quarter and should be treated as **decoders, not reveals** (they no longer shock): **insulin rebate inflation** (the FTC settled with all big-3 — ESI Feb, CVS Mar, OptumRx Jun) and **spread-pricing bans** (12+ states in 2026; CA/AL outright bans, VA eff Jul 1). Neither is a shocking-bank entry, so nothing was retired. **No hard retirement made this quarter** — no existing entry (1-8) has itself become common knowledge; entry 4 (80% concentration) stays on watch (it's increasingly cited in mainstream coverage of the FTC campaign) but has not underperformed. Full context: `research/landscape_2026_Q2.md`.
 
 ## Sources (June 2026 pull)
 - FTC, Second Interim Staff Report on Prescription Drug Middlemen (Jan 2025): https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-releases-second-interim-staff-report-prescription-drug-middlemen
