@@ -50,7 +50,7 @@ Legend: ✅ fully unattended · 🟨 loop preps/drafts, you finish · 🚫 human
 - `tools/brand_lint.py` — the linter (HARD = site web surface; SOFT = newsletter informational counts).
 - `tools/gsc_pull.py` — the Google Search Console monthly pull (writes `search_console_tracker.md`).
 - **Search visibility, three layers:** `aeo_seo_playbook.md` (technique, refreshed by `/aeo-research`), `search_console_tracker.md` (organic-search performance, auto-pulled), `ai_visibility_tracker.md` (AI-citation read, manual). `.claude/commands/aeo-research.md` is the research-loop spec.
-- `.github/scripts/notify_issue.sh` — the rolling-issue notifier.
+- `.github/scripts/notify_issue.sh` — the rolling-issue notifier. **Auto-appends a tappable "Review this run's changes" compare-diff link** (`compare/$GITHUB_SHA...HEAD`) whenever a run committed anything, so every notification links straight to its diff for mobile review (July 1, 2026). Reminder-only runs that commit nothing get no link. No per-workflow change needed — every workflow that calls this script inherits it.
 - `.claude/commands/build-aeo-page.md`, `.claude/commands/backfill-substack-aeo.md` — the content-loop command specs.
 - `.claude/commands/critique.md` (advisory red-team) and `.claude/commands/critique-fix.md` (same diagnosis, then auto-applies the resolvable fixes; the Wednesday-night workflow runs this one).
 - Cadence rationale + the full initiative plan: `aeo_geo_master_plan.md` (tracker) and `website_aeo_master_plan.md` (website build spec).
