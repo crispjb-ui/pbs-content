@@ -131,7 +131,7 @@ _Every 9:16 clip (scripted talking-head + repurposed) is built to this. Root cau
 
 **End card (last 2-3s):** logo + **rxbs.org** + one-line CTA to the first comment ("[topic] breakdown in the first comment"). This is the primary home for brand + destination, since the feed chrome is gone off-platform.
 
-**As-built 9:16 positions (Jul 1, 2026, after the first live in-feed review — `Clip.tsx`, gated on `aspect === "9x16"`):** progress bar `top: height*0.072` (below the status bar) · logo + "As seen on" badge `top: height*0.085` · hook banner `top: height*0.12` (non-beats) / `0.135` (beats) · nameplate `bottom: height*0.22` (above LinkedIn's own poster stamp) · captions `fontSize: 60` (up from 44 → naturally 2-3 words/line). The 4:5 render is unchanged. Full table + rationale: `social_clips/remotion_starter/CLIP_RENDER_SPEC.md` → "First live 9:16 in-feed review."
+**As-built 9:16 positions (Jul 1, 2026, after the first live in-feed review — `Clip.tsx`, gated on `aspect === "9x16"`):** progress bar `bottom: 0` (moved to the bottom edge on all aspects per Ginny, Jul 1, 2026) · logo + "As seen on" badge `top: height*0.085` · hook banner `top: height*0.12` (non-beats) / `0.135` (beats) · nameplate `bottom: height*0.22` (above LinkedIn's own poster stamp) · captions `fontSize: 60` (up from 44 → naturally 2-3 words/line). The 4:5 render is unchanged. Full table + rationale: `social_clips/remotion_starter/CLIP_RENDER_SPEC.md` → "First live 9:16 in-feed review."
 
 **Pre-export checklist (every clip):**
 - [ ] Nothing critical in the top ~5-8%, right ~12%, or bottom ~18%.

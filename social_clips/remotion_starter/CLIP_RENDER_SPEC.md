@@ -208,7 +208,7 @@ now fixed in `Clip.tsx` (gated on `clip.aspect === "9x16"`, so the verified 4:5 
 
 | Defect (in the live feed) | Old 9:16 value | New 9:16 value |
 |---|---|---|
-| Progress bar invisible (under status bar) | `top: 0` | `top: height*0.072` (below the status bar) |
+| Progress bar invisible (under status bar) | `top: 0` | `bottom: 0` (moved to the bottom edge on all aspects per Ginny, Jul 1, 2026; was briefly `top: height*0.072`) |
 | Logo top-left invisible | logo `top: 26` | `top: height*0.085`, height 46 |
 | "As seen on" badge invisible (behind clock/battery) | badge `top: 26` | `top: height*0.085` |
 | Hook banner clipped at top edge | hook `top: 90` / `110` | `top: height*0.12` (non-beats) / `0.135` (beats) |
