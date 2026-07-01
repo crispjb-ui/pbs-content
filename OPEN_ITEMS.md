@@ -2,6 +2,18 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+## 🔎 AUDIT FINDINGS (Jul 1, 2026 `/system-audit`) — judgment calls for Ginny
+_Safe/obvious fixes from this audit were already applied + reported in `audit_reports/audit_2026-07-01.md`. The items below need Ginny's call because they touch deliverable content._
+
+- **Library-numbering propagation (the resolution was decided but not fully migrated into two week files).** The June-2026 resolution is authoritative: **W16=01, W21=02, W23=03, W25=04, W27=05, W33=06.** CLAUDE.md was conformed this audit (lines ~440-448 + the 470(g) grid). Two week files still carry the OLD scheme and need conforming — but this touches image-prompt eyebrows + the Contract Library provision assignments, so leaving it for Ginny:
+  - **`week_27_pbm_evaluation.md`:** the file's Run-of-Show + section header correctly say **Library 05**, but the two image-generation cover eyebrows (≈lines 673, 691) still read **"PBM CONTRACT LANGUAGE · LIBRARY 04."** → change both eyebrows to **LIBRARY 05** before that carousel is generated.
+  - **`week_33_member_communication.md`:** labeled **"Library 05"** throughout (Run of Show, section header, carousel spec), but the resolved scheme makes W33 = **Library 06**. This currently collides with W27 (two "Library 05"s). → renumber the whole W33 file to **Library 06** (and confirm its provision family doesn't duplicate W27's reporting-clauses set in `substack_contract_language_library.md`).
+  - _Recommendation: conform both to the resolved scheme (05 / 06). Low ambiguity, but flagged rather than auto-applied because it edits generation-ready deliverables + the Library provision loop._
+
+- **Shocking-fact bank freshness — no retirement made, one to watch.** All 8 entries are still genuinely-unknown structural facts (none has gone the way of spread/DIR to common knowledge). Entry 4 (3 PBMs = 80% concentration) is flagged medium-freshness/"becoming known" — watch it; retire to `x_recipe_post_bank.md` as a standard decoder if it stops outperforming. Figures re-verified this audit: specialty-generic markup (22% >1,000%, $7.3B, $1.4B spread — FTC Jan 2025) and formulary exclusions (600+ per big-3, still true for 2026 — Drug Channels Jan 2026, entry updated).
+
+- **Backlog burn-down (informational, not blocking).** `evergreen_visual_backlog.md` (~25+ available) and `field_note_backlog.md` (~26 available) are early in the Q3-Q4 8-10-entry burn-down target (evergreen ~4 published, field-note ~1). On track for this point in Q3; revisit at the next monthly audit to confirm the reserve is being drawn down, not stockpiled.
+
 ## ✅ DONE (Jun 27, 2026) — Q3 REACH-POST REBUILD (W26–W37): vocabulary decoders → shocking hidden-structure reveals
 Audit found the build was defaulting the **Thursday reach slot to a "5 X Terms Decoded" vocabulary decoder** (the ~4-5K summer shape) with the genuinely-shocking material on a lower-reach day or in the deep dive. Rule encoded (`week_build_spec.md` §2). **All 12 remaining Q3 weeks rebuilt, committed, pushed to main** (commits `0581e86`, `41ae836`, `c72988a`). Each: reach slot now a distinct genuinely-unknown structural reveal, paired Field Note retargeted to exclusively support it, triple-distinct held, refer-back-first (no new toolkit minted, links verified live), 5-trait Thursday Excellence audit documented, ASCII-clean X bodies. **No shocking fact repeated within ~6 weeks.** Final slate:
 - **W26 Formulary:** Tue⇄Thu swap — manufacturer-direct payments outside the rebate definition promoted to Thu (elevated copy); step-therapy decoder demoted to Tue. _(W26 already scheduled — explicit swap list delivered to Ginny.)_

@@ -231,17 +231,17 @@ SUBSTACK DEEP DIVE (7:30 AM Mon) - Full analytical deep dive with integrated act
     |
 LINKEDIN NEWSLETTER (7:45 AM Mon) - Briefing version, CTA references specific Substack exclusive
     |
-LINKEDIN CAROUSEL/INFO (10:00 AM Tue) - Standalone value, DIFFERENT TOPIC from Monday
+LINKEDIN CAROUSEL/INFO (8:30 AM Tue) - Standalone value, DIFFERENT TOPIC from Monday
     |
 SUBSTACK ROUNDUP (7:30 AM Wed) - "What Crossed My Desk" weekly news roundup (automated draft)
     |
-LINKEDIN TEXT POST (10:00 AM Wed) - Confrontational hook, no links
+LINKEDIN TEXT POST (8:30 AM Wed) - Confrontational hook, no links
     |
 SUBSTACK FIELD NOTE (7:30 AM Thu) - Shorter tactical article
     |
-LINKEDIN CAROUSEL/INFO (10:00 AM Thu) - Weekly theme visual, first comment links to field note
+LINKEDIN CAROUSEL/INFO (8:30 AM Thu) - Weekly theme visual, first comment links to field note
     |
-LINKEDIN TEASE HOOK (10:00 AM Fri) - Text post teasing next Monday's content
+LINKEDIN TEASE HOOK (8:30 AM Fri) - Text post teasing next Monday's content
 ```
 
 **Key Principles:**
@@ -251,7 +251,7 @@ LINKEDIN TEASE HOOK (10:00 AM Fri) - Text post teasing next Monday's content
 - Tuesday visual MUST differ from Monday newsletter topic to prevent cannibalization.
 - Thursday visual carries the weekly theme (3 days after newsletter, no overlap).
 - Wednesday roundup is automated (draft generated Tuesday, reviewed before publish).
-- LinkedIn feed posts shifted to 10:00 AM EST (research-backed optimal time).
+- LinkedIn feed posts publish at 8:30 AM EST (the 10:00 AM "optimal time" test concluded May 8, 2026 and was reverted starting W19; see the Posting-time test note under Channel 1).
 - Three Substack articles per week (Mon deep dive, Wed roundup, Thu field note) supported by research for niche B2B cadence.
 
 ## Substack Content Strategy
@@ -445,7 +445,9 @@ Four proven structural shapes with measured floors, plus one reference-asset pat
 - Library 06 — W33 (Aug 18, 2026) — Five Clauses That Anchor Q4 Broker Conversations
 - Library 07+ — opportunistic, not pinned to a fixed 2-week grid; number consecutively from 06 as each entry is actually built
 
-**Cadence realigned to as-built (June 3, 2026):** the every-2-week aspiration drifted in production. W25, W29, W31, W35, and W37 did NOT ship Library carousels (their Tuesdays carry paused-Whiteboard drafts or other cycle visuals), so they are NOT Library weeks. The built sequence is the five above (01, 02, 03, 04, 05). Treat the cadence as opportunistic: a Tuesday becomes a Library week only when a Contract Comparison carousel is actually drafted for it, and it takes the next consecutive number. Every Library-shipping week must carry the `## Substack Contract Library Update — Library 0X Week` section (W23 / W27 / W33 now do).
+**Cadence realigned to as-built (June 3, 2026; numbering superseded by the June 2026 resolution below).** The every-2-week aspiration drifted in production; W29, W31, W35, and W37 did NOT ship Library carousels (their Tuesdays carry paused-Whiteboard drafts or other cycle visuals), so they are NOT Library weeks. Treat the cadence as opportunistic: a Tuesday becomes a Library week only when a Contract Comparison carousel is actually drafted for it, and it takes the next consecutive number. Every Library-shipping week must carry the `## Substack Contract Library Update — Library 0X Week` section.
+
+**Numbering RESOLVED (June 2026, authoritative — matches the forward schedule above):** W25 WAS subsequently built as a Library carousel (Library 04, Termination clauses), so the built sequence is SIX, not five: **Library 01 = W16, 02 = W21, 03 = W23, 04 = W25, 05 = W27, 06 = W33.** The Library-shipping weeks that carry the update section are therefore **W21 / W23 / W25 / W27 / W33.** _(Propagation note, flagged Jul 1, 2026 audit: the W27 file's image-prompt cover eyebrow still reads "LIBRARY 04" and the W33 file is still labeled "Library 05" throughout — both need conforming to 05 and 06 respectively; see OPEN_ITEMS.)_
 
 **Slot reassignment rule:** when a Library NN entry lands on a Tuesday whose currently-planned post is a different format (messy infographic, clean infographic, non-Library carousel), move the displaced post to `evergreen_visual_backlog.md` with full preservation (slide spec, post copy, image prompt) so it can be slotted into a future open Tuesday or Thursday. **Do not delete displaced content** — it represents drafted work that fits any future non-Library slot whose pillar/format matches. The May 8 displacement of W23 Tuesday's "The Contract Clause That Saved a Client Six Figures" Chart-on-Whiteboard Messy Infographic into backlog entry #24 is the canonical example.
 
@@ -467,7 +469,7 @@ Four proven structural shapes with measured floors, plus one reference-asset pat
 
 (f) **What was retired:** the Apr-May 2026 quarterly cadence (Jan 1 / Apr 1 / Jul 1 / Oct 1 push dates), the per-quarter Update Queue (Q3 2026, Q4 2026, etc.) with paste-ready blocks under `▼ START COPY ▼` / `▲ END COPY ▲` markers, and the proactive-alert session-start behavior that fired heads-up notifications in the 30-day window before each quarterly push. All retired May 20, 2026 in favor of the continuous-update model.
 
-(g) **In-week reference prompt convention (added May 20, 2026, required behavior on every Library NN-shipping newsletter file).** Every newsletter week file where a Library NN carousel ships (W21 / W23 / W25 / W27 / W29 / W31 / W33 / W35 / W37) must include a `## Substack Contract Library Update — Library 0X Week` section placed after the "What I'd Ask" Substack content and before the Monthly Q&A section (or before the next non-Substack content section if there's no Monthly Q&A that week). The section contains the publishing prompt block-quoted (`> Open the live Substack post at ... in edit mode. Copy everything between the ▼ BEGIN PASTE ▼ and ▲ END PASTE ▲ markers in substack_contract_language_library.md and paste over the existing post body. Publish.`) plus a bullet list of the provisions Library NN is expected to have added or amended in the article body that week, so Ginny can confirm Claude has merged them before pushing. The W21 file (Library 02) is the canonical example of this convention. **When drafting a Library NN-shipping week's file from scratch, include this section automatically.** Non-Library-shipping weeks (W22, W24, W26, etc.) do not include this section.
+(g) **In-week reference prompt convention (added May 20, 2026, required behavior on every Library NN-shipping newsletter file).** Every newsletter week file where a Library NN carousel ships (as-built Library weeks: W21 / W23 / W25 / W27 / W33; future Library weeks are opportunistic per the cadence note above, not a fixed grid) must include a `## Substack Contract Library Update — Library 0X Week` section placed after the "What I'd Ask" Substack content and before the Monthly Q&A section (or before the next non-Substack content section if there's no Monthly Q&A that week). The section contains the publishing prompt block-quoted (`> Open the live Substack post at ... in edit mode. Copy everything between the ▼ BEGIN PASTE ▼ and ▲ END PASTE ▲ markers in substack_contract_language_library.md and paste over the existing post body. Publish.`) plus a bullet list of the provisions Library NN is expected to have added or amended in the article body that week, so Ginny can confirm Claude has merged them before pushing. The W21 file (Library 02) is the canonical example of this convention. **When drafting a Library NN-shipping week's file from scratch, include this section automatically.** Non-Library-shipping weeks (W22, W24, W26, etc.) do not include this section.
 
 **`[REPURPOSED — DO NOT SHIP TO LINKEDIN]` convention (added Apr 30, required behavior):** Posts in week files marked with the heading suffix `[REPURPOSED — DO NOT SHIP TO LINKEDIN]` are not LinkedIn calendar posts. Their content has been moved into the corresponding Monday Substack deep dive as a supporting section. **Do not schedule, draft, or ship a post under that heading to LinkedIn.** The Thursday slot it occupies is filled by the planned Slot A / B / C evergreen rotation post listed immediately below it (e.g., "5 Rebate Terms Decoded" was the W17 Thursday Slot A; the Carve-In/Out Whiteboard Carousel above it was REPURPOSED and shipped accidentally on Apr 30, replacing the Slot A post that did not run). When the calendar drift happens, log the missed Slot A post into `evergreen_visual_backlog.md` so it can be slotted into the next available Thursday where the topic does not collide. The renamed tag (formerly just `[REPURPOSED]`) is intentionally verbose so a quick visual scan of the week file does not mistake the post for a live calendar item.
 
@@ -646,7 +648,9 @@ These approaches were tried and confirmed not viable for this Wix tier/form vers
 - **Native Wix → Zapier integration ("Find Item" / "Wix Form Submitted" Zapier triggers/actions)** — requires Wix Business+ tier. PBS is on Wix Free; the Wix app is greyed out in Zapier action search. (Confirmed May 20, 2026.)
 - **6-hidden-field form with `setFieldValues` populating all 6** — only `toolkit_name` reliably populates because the other 5 field keys got mismatched on re-add. With the Velo HTTP function approach, only 1 hidden field is needed (toolkit_name as the CMS lookup key); the rest of the toolkit data is fetched server-side at email-send time.
 
-### Three cleanup items remaining
+### Three cleanup items (COMPLETED June 2026 — retained for reference)
+
+_All three are done; the funnel is production-live (see the Status line at the top of this section, which supersedes this list). Kept here only to document what the cleanup entailed._
 
 1. **Disable Wix's native Email 1-5 actions** in the "5 email welcome" Wix Automation. Currently both chains fire on every submission (Wix sends its 5 + Zapier sends its 5 = recipient gets 10 emails). Keep only the trigger + the Send HTTP request action.
 2. **Switch Zapier delays from 1-minute test values to production**: Day 0 (no delay), Delay 2 days between Email 1→2, Delay 3 days between Email 2→3, Delay 4 days between Email 3→4, Delay 5 days between Email 4→5.

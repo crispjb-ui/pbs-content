@@ -57,8 +57,8 @@
 **Fits:** Clinical Program ROI (W32), Member Communication (W33), Copay programs. **Freshness:** high, very underused.
 
 ### 6 · The "preferred" formulary that excludes 600+ drugs
-**Fact:** Each big-3 PBM now **excludes more than 600 drugs** from its main formulary (2025), an all-time high, increasingly replacing them with the PBM's **own private-label** products (all three dropped AbbVie's Humira in favor of private-label biosimilars).
-**Source:** Drug Channels (Adam Fein); PHSL 2025/2026 exclusion reviews; Drug Topics.
+**Fact:** Each big-3 PBM now **excludes more than 600 drugs** from its main formulary (still true for the 2026 formularies, an all-time high), increasingly replacing them with the PBM's **own private-label** products (all three dropped AbbVie's Humira in favor of private-label biosimilars).
+**Source:** Drug Channels (Adam Fein), "The Big Three PBMs' 2026 Formulary Exclusions" (Jan 2026); Becker's; PHSL exclusion reviews. _(Re-verified Jul 1, 2026: 600+ per big-3 holds for 2026; Express Scripts expanded its list.)_
 **Unfakeable specifics:** "600+ exclusions, all-time high," "private-label biosimilar swap."
 **LinkedIn add-on:** "Your PBM's 'preferred' formulary now excludes more than 600 drugs. The replacements increasingly carry the PBM's own private label. That list isn't clinical. It's a storefront."
 **X add-on:** "Each big-3 PBM now excludes 600+ drugs from its formulary, an all-time high. They drop Humira and push their own private-label biosimilar. The formulary is a shelf they rent to themselves."
