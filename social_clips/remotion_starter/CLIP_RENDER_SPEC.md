@@ -226,6 +226,15 @@ center 60-70% vertically, left of the right 12%.** Everything critical lives in 
 badge, and progress bar sit just below the top-8% line, not flush to the edge. Canonical prose:
 `video_content_bank.md` → "9:16 in-feed render spec"; template spec: `remotion_pbs_caption_template_spec.md`.
 
+**Gating is dimension-based, not `clip.aspect` (latent bug fixed the same pass).** The render scripts
+(`render-with-extract.mjs`, `render-all-platforms.mjs`) render EVERY clip in BOTH formats but pass the
+manifest's single fixed `clip.aspect` to both — so `clip.aspect` does NOT tell the component which format
+it's rendering. Half the SHRM manifest is tagged `4x5` and half `9x16`, so gating the fixes on
+`clip.aspect === "9x16"` would have skipped the fix on ~half the clips' 9:16 outputs. All aspect gating in
+`Clip.tsx` now derives from the actual render size: `const vertical = height / width > 1.5` (9:16 = 1.78,
+4:5 = 1.25). Result: **one `node render-with-extract.mjs` re-renders all 7 clips in both formats correctly**
+— every `_9x16.mp4` gets the dead-zone layout, every `_4x5.mp4` keeps the feed layout.
+
 **Re-verify after re-render:** on an actual phone, in the LinkedIn feed AND the expanded view — logo,
 badge, and hook all fully visible below the status bar; nameplate clear of LinkedIn's own name stamp;
 captions big (2-3 words/line) and clear of the right rail; progress bar visible. Bump the 9:16 fractions
