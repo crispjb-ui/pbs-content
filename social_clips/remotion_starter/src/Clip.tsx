@@ -553,9 +553,10 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
       {/* ── Footage overlays (when not in end card) ── */}
       {!inEndCard && (
         <>
-          {/* Progress bar — 9:16 drops it below the device status bar (top ~8% is cropped in the
-              LinkedIn/TikTok feed, so a flush-top bar is invisible; the first live 9:16 lost it there). */}
-          <div style={{ position: "absolute", top: vertical ? Math.round(height * 0.072) : 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
+          {/* Progress bar — anchored to the BOTTOM edge on every aspect (conventional TikTok/Reels look;
+              reads cleanly on the raw file + off-platform. In the LinkedIn feed the very-bottom strip sits
+              under LinkedIn's own caption/scrubber chrome, an accepted trade for the consistent bottom bar). */}
+          <div style={{ position: "absolute", bottom: 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
 
           {/* PBS logo corner (persistent) — layered shadow so the white mark reads on light walls.
               9:16 drops it below the top ~8% device/status-bar crop (the first live 9:16 lost the logo up there). */}
