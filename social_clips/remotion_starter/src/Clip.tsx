@@ -548,16 +548,18 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
       {/* ── Footage overlays (when not in end card) ── */}
       {!inEndCard && (
         <>
-          {/* Progress bar */}
-          <div style={{ position: "absolute", top: 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
+          {/* Progress bar — 9:16 drops it below the device status bar (top ~8% is cropped in the
+              LinkedIn/TikTok feed, so a flush-top bar is invisible; the first live 9:16 lost it there). */}
+          <div style={{ position: "absolute", top: clip.aspect === "9x16" ? Math.round(height * 0.072) : 0, left: 0, height: 6, width: `${(frame / totalFrames) * 100}%`, background: ACCENT, zIndex: 30 }} />
 
-          {/* PBS logo corner (persistent) — layered shadow so the white mark reads on light walls */}
-          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: 26, left: SAFE_CORNER, height: 56, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
+          {/* PBS logo corner (persistent) — layered shadow so the white mark reads on light walls.
+              9:16 drops it below the top ~8% device/status-bar crop (the first live 9:16 lost the logo up there). */}
+          <Img src={staticFile("pbs-logo-white.png")} style={{ position: "absolute", top: clip.aspect === "9x16" ? Math.round(height * 0.085) : 26, left: SAFE_CORNER, height: clip.aspect === "9x16" ? 46 : 56, width: "auto", filter: "drop-shadow(0 1px 2px rgba(0,0,0,0.95)) drop-shadow(0 2px 8px rgba(0,0,0,0.65))", zIndex: 30 }} />
 
           {/* "As seen on" badge — hidden during hook, shown after. Sized up for mobile-feed legibility. */}
           {showBadge && (
             <div style={{
-              position: "absolute", top: 26, right: SAFE_X,
+              position: "absolute", top: clip.aspect === "9x16" ? Math.round(height * 0.085) : 26, right: SAFE_X,
               background: PRIMARY, color: WHITE,
               padding: "10px 18px", borderRadius: 9,
               fontSize: 30, fontWeight: 700, zIndex: 30,
@@ -572,7 +574,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {hookOp > 0 && (
             <div style={{
               position: "absolute",
-              top: clip.hookBeats && clip.hookBeats.length ? (clip.aspect === "4x5" ? 94 : 110) : (clip.aspect === "4x5" ? 70 : 90),
+              // 9:16 pushes the hook well below the top ~8% crop (the first live 9:16 clipped the hook banner at the top edge).
+              top: clip.hookBeats && clip.hookBeats.length ? (clip.aspect === "4x5" ? 94 : Math.round(height * 0.135)) : (clip.aspect === "4x5" ? 70 : Math.round(height * 0.12)),
               left: SAFE_CORNER, right: SAFE_CORNER,
               textAlign: "center",
               opacity: hookOp,
@@ -650,7 +653,9 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           {plateVisible && (
             <div style={{
               position: "absolute",
-              bottom: clip.aspect === "4x5" ? 110 : Math.round(height * 0.16),
+              // 9:16 lifts the name plate clear of the bottom ~18% zone where LinkedIn stamps its OWN
+              // poster name + headline + caption (the first live 9:16 had the two nameplates colliding).
+              bottom: clip.aspect === "4x5" ? 110 : Math.round(height * 0.22),
               left: SAFE_X,
               transform: `translateX(${plateX}%)`,
               zIndex: 35,
@@ -696,7 +701,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                       return (
                         <span key={i} style={{
                           display: "inline-block",
-                          fontSize: 44,
+                          fontSize: clip.aspect === "9x16" ? 60 : 44,
                           fontWeight: 700,
                           lineHeight: 1.4,
                           fontFamily: SANS,
@@ -717,7 +722,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                       );
                     })
                   : <span style={{
-                      fontSize: 44, fontWeight: 700, lineHeight: 1.4, fontFamily: SANS, color: WHITE,
+                      fontSize: clip.aspect === "9x16" ? 60 : 44, fontWeight: 700, lineHeight: 1.4, fontFamily: SANS, color: WHITE,
                       textShadow: "2px 2px 0 rgba(0,0,0,0.8), -1px -1px 0 rgba(0,0,0,0.8), 1px -1px 0 rgba(0,0,0,0.8), -1px 1px 0 rgba(0,0,0,0.8), 0 3px 6px rgba(0,0,0,0.5)",
                     }}>{active.text}</span>
                 }

@@ -131,15 +131,23 @@ _Every 9:16 clip (scripted talking-head + repurposed) is built to this. Root cau
 
 **End card (last 2-3s):** logo + **rxbs.org** + one-line CTA to the first comment ("[topic] breakdown in the first comment"). This is the primary home for brand + destination, since the feed chrome is gone off-platform.
 
+**As-built 9:16 positions (Jul 1, 2026, after the first live in-feed review — `Clip.tsx`, gated on `aspect === "9x16"`):** progress bar `top: height*0.072` (below the status bar) · logo + "As seen on" badge `top: height*0.085` · hook banner `top: height*0.12` (non-beats) / `0.135` (beats) · nameplate `bottom: height*0.22` (above LinkedIn's own poster stamp) · captions `fontSize: 60` (up from 44 → naturally 2-3 words/line). The 4:5 render is unchanged. Full table + rationale: `social_clips/remotion_starter/CLIP_RENDER_SPEC.md` → "First live 9:16 in-feed review."
+
 **Pre-export checklist (every clip):**
 - [ ] Nothing critical in the top ~5-8%, right ~12%, or bottom ~18%.
-- [ ] Captions centered, 2-4 words/line, big, high-contrast, off the right edge, readable at ~400px.
+- [ ] Logo, "As seen on" badge, and progress bar sit BELOW the top ~8% status-bar crop (not flush to the top edge).
+- [ ] Hook banner fully below the top crop (not clipped at the top edge).
+- [ ] Nameplate lifted clear of the bottom ~18% (does not collide with LinkedIn's own poster name stamp).
+- [ ] Captions centered, 2-4 words/line, big (9:16 = 60px), high-contrast, off the right edge, readable at ~400px.
 - [ ] One caption system (hook banner OR center captions leading, not two competing).
 - [ ] Hook in the first 3s; captions burned in.
 - [ ] End card: logo + rxbs.org + first-comment CTA.
-- [ ] **Preview on an actual phone in the LinkedIn feed before finalizing** (the only reliable safe-zone check).
+- [ ] **Preview on an actual phone in the LinkedIn feed AND the expanded view before finalizing** (the only reliable safe-zone check).
 
 ## Changelog
+### 2026-07-01 (first LIVE 9:16 in-feed → dead-zone constants fixed in code)
+- The first 9:16 published to the LinkedIn feed; the real render (screenshots reviewed with Ginny) confirmed the Jun 27 prose spec was right but the **Remotion component was still positioning chrome for the 4:5 case**. Six 9:16-only defects visible in the live feed: progress bar invisible (flush top), logo top-left invisible (under status bar), hook banner clipped at the top edge, "As seen on" badge invisible (behind the clock/battery), burned-in nameplate colliding with LinkedIn's OWN poster name stamp, and captions too small / too many words per line. Fixed all six in `social_clips/remotion_starter/src/Clip.tsx`, gated on `aspect === "9x16"` so the verified 4:5 path is untouched (as-built values in the render-spec block above). Updated `CLIP_RENDER_SPEC.md` (new "First live 9:16 in-feed review" section with the before/after table) and `remotion_pbs_caption_template_spec.md`. **Next step is Ginny's re-render of the spread-pricing clip from the corrected template + a phone preview in the real feed.** Source: live LinkedIn render review with Ginny (screenshots).
+
 ### 2026-06-27 (first clean 9:16 render pass → safe-zone spec)
 - First clean 9:16 talking-head shipped (the reach test). In-feed render review found captions too small + clipping under the right reaction rail, the top hook banner and time-lapse cropped at the top edge, and no burned-in logo/end card. Codified the **9:16 in-feed render spec** (dead zones: top ~5-8% / right ~12% / bottom ~18%; center-band captions 2x bigger with Accent-Blue karaoke; hook banner below the crop; logo on an end card; nameplate only for off-platform; phone-preview gate) so the SHRM batch + every future clip build to it. Logged the clip in the shipped-video table with reach read pending. Source: live LinkedIn render review with Ginny.
 
