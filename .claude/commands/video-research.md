@@ -46,3 +46,12 @@ Lead with `**Monthly Video Research** · <date>` and end with a one-tap link to 
 
 ## Autonomy boundary
 New concepts, shoot-list re-ranks, repurpose picks, retirements = mechanical → **auto-apply to `video_content_bank.md`**. New cadence/slot/format rules = judgment → **propose to OPEN_ITEMS only**. `/build-week` + `/clip-podcast` read the bank on their next run, so auto-applied concepts flow into content automatically. **Never publishes; never auto-spends.**
+
+## Surfacing approvals (tap-to-approve — required whenever you flag judgment calls)
+
+When this run surfaces judgment-call / "needs Ginny" items (the same ones you add to `OPEN_ITEMS.md`), ALSO write them to `APPROVALS_PENDING.md` at the repo root — one GitHub task-list checkbox per decision, each a single self-contained line with a one-line summary and, where useful, an inline link to the fuller context (the report or an OPEN_ITEMS anchor). Example lines:
+
+    - [ ] ① "Budgeting for the rebate-free PBM" Monday deep dive — strong Sep–Oct fit ([context](research/landscape_2026_Q2.md))
+    - [ ] Library-numbering fix — W27 eyebrows to 05, W33 to 06
+
+Write ONLY the `- [ ]` checkbox lines (no heading; the workflow adds the dated section heading). If there are no judgment calls this run, do not create the file. The workflow posts these to the standing "✅ PBS — Approvals needed" GitHub issue via `.github/scripts/request_approval.sh`, where Ginny taps to approve from mobile; a Claude session then builds each checked item via a review-linked PR. `APPROVALS_PENDING.md` is gitignored (never committed). This does NOT replace the OPEN_ITEMS write — do both.
