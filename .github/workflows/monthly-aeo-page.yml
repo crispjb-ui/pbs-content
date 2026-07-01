@@ -56,7 +56,20 @@ jobs:
             exit 0
           fi
           git commit -m "Monthly AEO page draft: ${{ steps.vars.outputs.date_iso }}"
-          git push origin HEAD:main
+          # Rebase onto the latest main and retry so a concurrent automation push
+          # (e.g. monthly + quarterly both fire on the 1st) cannot reject and lose this run.
+          push_ok=0
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || true
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then push_ok=1; break; fi
+            else
+              git rebase --abort || true
+            fi
+            echo "push attempt $attempt failed (likely a concurrent push); retrying in 5s..."
+            sleep 5
+          done
+          [ "$push_ok" = "1" ] || { echo "ERROR: could not push to main after retries"; exit 1; }
 
       - name: Notify rolling issue
         if: always()
