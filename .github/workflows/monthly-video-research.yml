@@ -66,6 +66,16 @@ jobs:
             sleep 5
           done
           [ "$push_ok" = "1" ] || { echo "ERROR: could not push to main after retries"; exit 1; }
+      - name: Surface approvals (tap-to-approve checkboxes)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s APPROVALS_PENDING.md ]; then
+            bash .github/scripts/request_approval.sh "Monthly video research · ${{ steps.vars.outputs.date_iso }}" "$(cat APPROVALS_PENDING.md)"
+          else
+            echo "No approvals surfaced this run."
+          fi
       - name: Notify rolling issue
         if: always()
         env:
