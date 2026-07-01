@@ -2,6 +2,8 @@
 
 **Created June 2026.** Spec for PBS's flagship authority asset: an aggregated report of what PBS sees across the hundreds of PBM contracts it reviews a year. Elevates the existing quarterly `substack_what_were_seeing.md` into a **citable, promotable, ownable** report — the kind of proprietary data that press, brokers, and the Cuban/Ciaccia/Fein ecosystem quote, and that no individual employer or competitor can produce.
 
+> **QUEUED (Jul 1, 2026, approved via Approvals issue #42).** The Q2 landscape read (`research/landscape_2026_Q2.md`) makes the timing strong: as "transparent / net-cost" becomes every incumbent's pitch, the ownable angle is **"how often the net-cost promise survives the contract definitions"** — PBS's proprietary read across the contracts it reviews. Approved to build; awaiting a scope + timing decision (not tied to a single week). Tracked in `OPEN_ITEMS.md` → "Approved — queued for build."
+
 ## Why this is high-leverage
 - **Ownable + differentiated** — PBS's contract-review volume is the moat. Nobody else can publish these patterns.
 - **Citable PR + relationship fuel** — journalists and amplifiers quote *data*. This is the asset that earns press mentions and warm intros.

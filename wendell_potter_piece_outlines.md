@@ -6,6 +6,8 @@
 **Status:** Outline-stage. Drafting Piece 1 begins after Wendell publish date is confirmed.
 **Companion doc:** `wendell_potter_contributorship_strategy.md` (strategic frame, cascade architecture, voice rules, cross-promo mechanics)
 
+**QUEUED CANDIDATE (Jul 1, 2026, approved via Approvals issue #42):** _"Follow the ownership."_ Ties the Q2-2026 throughline together — rebates → specialty routing → private-label → MLR intercompany elimination all resolve to PBM-owned counterparties (source: `research/landscape_2026_Q2.md`). Build trigger: the next open Potter slot; must respect the Series Narrative Arc (callback / handoff / map anchor) — check against the existing arc before drafting. Tracked in `OPEN_ITEMS.md` → "Approved — queued for build."
+
 ---
 
 ## How to Use This Document
