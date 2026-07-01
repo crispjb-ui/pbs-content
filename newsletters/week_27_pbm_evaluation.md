@@ -670,7 +670,7 @@ Full protective language for these five clauses, plus seventeen more, lives in o
 
 #### Carousel Slide-by-Slide Spec
 
-Same visual system as Library 01 (April 21), Library 02 (W21), and Library 03 (W24): Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis, off-white contract-paper content slides with Plex Mono body, red strikethroughs on vague language, Accent Blue on protective insertions, Primary Blue "WHY IT MATTERS" panels at bottom ~18%, slide numbers "N / 7" in Plex Mono Medium bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 04."
+Same visual system as Library 01 (April 21), Library 02 (W21), and Library 03 (W24): Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis, off-white contract-paper content slides with Plex Mono body, red strikethroughs on vague language, Accent Blue on protective insertions, Primary Blue "WHY IT MATTERS" panels at bottom ~18%, slide numbers "N / 7" in Plex Mono Medium bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 05."
 
 **Slide 1 — Cover.** Headline: "Five reporting clauses that let you actually *run* the PBM review." ("run" italic Accent Blue.) Subhead: "The language that turns a PowerPoint into an audit." "SWIPE FOR THE REDLINE →." "01 / 07."
 
@@ -688,7 +688,7 @@ Same visual system as Library 01 (April 21), Library 02 (W21), and Library 03 (W
 
 #### Image Generation Prompt
 
-Claude Design project type: **Slide deck from template**. Contract Comparison carousel master (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-03 (same eyebrow, off-white paper, Plex Mono body, red strikethrough, Accent Blue insertion, "WHY IT MATTERS" panel, slide-number style). Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 04." Pull slide-by-slide contract language from the spec above.
+Claude Design project type: **Slide deck from template**. Contract Comparison carousel master (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-03 (same eyebrow, off-white paper, Plex Mono body, red strikethrough, Accent Blue insertion, "WHY IT MATTERS" panel, slide-number style). Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 05." Pull slide-by-slide contract language from the spec above.
 
 **Post-Generation Steps:**
 

@@ -64,3 +64,7 @@ Lead with `**Monthly AEO/SEO Research** · <date>`. If a section is empty, say s
 
 ## Autonomy boundary (important)
 Technique / spec refreshes that are mechanical + sourced → **auto-apply to `aeo_seo_playbook.md`** (and the obvious mechanical mirror in a rule file). New required elements, archetype changes, schema-requirement changes, and CLAUDE.md / substack_aeo_rules / website_aeo_master_plan rule changes are judgment calls → **propose to OPEN_ITEMS only**. The AEO build loops read `aeo_seo_playbook.md` on their next run, so auto-applied refreshes flow into content automatically; rule changes wait for Ginny's yes. **This loop never publishes; it only researches and drafts.**
+
+## Surfacing approvals (tap-to-approve — required whenever you flag judgment calls)
+
+When this run surfaces judgment-call / "needs Ginny" items (the same ones you add to `OPEN_ITEMS.md`), ALSO write them to `APPROVALS_PENDING.md` at the repo root — one GitHub task-list checkbox per decision (`- [ ]`), each a self-contained one-line summary with an inline link to context where useful. Write ONLY the checkbox lines (the workflow adds the dated heading). No judgment calls this run → do not create the file. The workflow posts these to the standing "✅ PBS — Approvals needed" issue via `.github/scripts/request_approval.sh`. Gitignored; does NOT replace the OPEN_ITEMS write — do both.
