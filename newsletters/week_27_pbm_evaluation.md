@@ -123,7 +123,7 @@ The scorecard structure is unchanged. The scoring has gotten stricter.
 
 **The PBM evaluation scorecard**
 
-I developed this framework because the stay-or-switch decision kept coming down to gut feel and frustration levels instead of objective analysis. The scorecard evaluates 10 factors, each weighted by its impact on plan cost and performance. Total possible score: 100 points. For how the audit-rights side of this evaluation actually gets run, see our guide to a [PBM contract audit](https://www.rxbs.org/guides/pbm-contract-audit).
+I developed this framework because the stay-or-switch decision kept coming down to gut feel and frustration levels instead of objective analysis. The scorecard evaluates 10 factors, each weighted by its impact on plan cost and performance. Total possible score: 100 points. For how the audit-rights side of this evaluation actually gets run, see our [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness).
 
 > **Factor 1: Pricing Competitiveness (15 points)**
 >

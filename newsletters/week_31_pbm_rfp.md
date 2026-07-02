@@ -189,7 +189,7 @@ Each question scored 0-3:
 
 Total: 90 points possible. Below 50: significant concerns. 50-70: competitive but gaps exist. Above 70: strong response.
 
-The full 30-question bank with all scoring details is in this article. Your broker can use it alongside their standard RFP template to add a layer of specificity that standard templates lack. For how the same specificity carries into the contract once a PBM is selected, see our [PBM contract audit guide](https://www.rxbs.org/guides/pbm-contract-audit).
+The full 30-question bank with all scoring details is in this article. Your broker can use it alongside their standard RFP template to add a layer of specificity that standard templates lack. For how the same specificity carries into the contract once a PBM is selected, see our [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness).
 
 Have you evaluated PBM proposals using a structured scoring rubric? If you have a question you always ask that is not on this list, I would love to hear it. Leave a comment below.
 
@@ -308,7 +308,7 @@ Score each answer 0 to 3. A vague answer costs points. The proposal that looked 
 > **Put all three on the same scored RFP.** Concentration means there are only a few bidders; that is a reason to make them compete, not a reason to skip it.
 > **Normalize before you rank.** Same AWP source, same cost basis, same rebate definition, owned-pharmacy routing on the table.
 
-The concentration is the reason a real RFP matters more now than it did in 2004, not less. The full 30-question scoring bank is in [Monday's deep dive](https://www.rxbs.org/guides/pbm-contract-audit), and the printable RFP scoring framework is on our toolkit page so you can run it with your broker.
+The concentration is the reason a real RFP matters more now than it did in 2004, not less. The full 30-question scoring bank is in Monday's deep dive, and the printable RFP scoring framework is on our toolkit page so you can run it with your broker.
 
 ---
 
