@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026; Thursday reach post rebuilt June 27, 2026 from the "5 PBM Compensation Terms Decoded" vocabulary decoder into "The Offshore Rebate Aggregator Reveal" (the proven ~17.8K shocking-hidden-structure shape), with the Field Note retargeted to match. **⚠ Before Monday publish: correct the deep-dive body's aggregator-parent mapping (it inverts Ascent/Emisar/Zinc); the sourced mapping is Ascent → Cigna, Emisar → UnitedHealth, Zinc → CVS — see Post 99 note.**_
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026; Thursday reach post rebuilt June 27, 2026 from the "5 PBM Compensation Terms Decoded" vocabulary decoder into "The Offshore Rebate Aggregator Reveal" (the proven ~17.8K shocking-hidden-structure shape), with the Field Note retargeted to match. Aggregator-parent mapping verified consistent and correct throughout (July 2, 2026): the deep-dive Factor 2, the Field Note, and Post 99 all read Ascent under Cigna/Express Scripts, Emisar under UnitedHealth/OptumRx, Zinc under CVS Caremark. No open mapping item remains._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -75,11 +75,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 **SEO Title (AEO):** Should a Self-Funded Employer Switch PBMs or Stay? (How to Evaluate Your PBM in 2026)
 **SEO Subtitle:** A 100-point weighted PBM evaluation scorecard, with the vertical integration question layered on top, for the stay-or-switch decision
 
-**Subtitle:** A 10-factor PBM evaluation scorecard, with the vertical integration question layered on top — what the May 2026 PBM news cycle changed about how plan sponsors should score the stay-or-switch decision
+**Subtitle:** A 10-factor PBM evaluation scorecard, with the vertical integration question layered on top: what the May 2026 PBM news cycle changed about how plan sponsors should score the stay-or-switch decision
 
 > **Reframe note (May 22, 2026):** Original W27 deep dive was "When to Stay and When to Switch: Evaluating Your PBM Relationship" — a structured 10-factor scorecard for the PBM evaluation decision. Reframed in response to the May 21-22, 2026 trifecta: (1) Mount Sinai / U Michigan / U Kansas sued CVS for $250M in alleged 340B diversion through vertical integration; (2) Pennsylvania released its Act 77 PBM study finding spread pricing has retreated under state pressure; (3) CVS countersued Tennessee to block PBM divestiture law. The 10-factor scorecard structure is unchanged. Five factors (Rebate Transparency, Reporting and Analytics, Formulary Independence, Contract Flexibility, Specialty Management) now carry more weight under the vertical-integration question. New sections added: "What changed in 2026" (between Why the decision is hard and The PBM evaluation scorecard) + "2026 reframe: Five factors weighted differently" (after Factor 10 + before Interpreting your score) + "Layer the vertical integration question over the score" (after Interpreting your score + before A note on the decision). Title, SEO meta, LinkedIn newsletter body, and Substack header image prompt updated to match. ~30% of file content changed; 70% intact. The Wed roundup of W21 carries the news-cycle peak synthesis; this W27 deep dive carries the durable analytical thesis tying the May trifecta to the July renewal-evaluation decisions plan sponsors are about to make.
-
-**Subtitle:** A 100-point weighted scorecard that removes the guesswork from the biggest decision in pharmacy benefits
 
 **Publication:** Benefit Blind Spots
 **Publish:** Monday, July 6, 2026 at 7:30 AM EST
@@ -294,7 +292,7 @@ _Embedded infographic for this deep dive, repurposed from the former Thursday Li
 **SEO Title:** The Vertical Integration Question: PBM Stay-or-Switch Scorecard for 2026 | Benefit Blind Spots
 **SEO Title (AEO):** Should a Self-Funded Employer Switch PBMs or Stay? (How to Evaluate Your PBM in 2026)
 **SEO URL Slug:** pbm-vertical-integration-stay-or-switch-2026
-**Meta Description:** Three PBM news stories in 48 hours changed how plan sponsors should evaluate their PBM. A 10-factor scorecard with the vertical integration question layered on top — five factors now scored differently than they were a year ago.
+**Meta Description:** Three PBM news stories in 48 hours changed how plan sponsors should evaluate their PBM. A 10-factor scorecard with the vertical integration question layered on top. Five factors now scored differently than they were a year ago.
 **Tags:** PBM evaluation, PBM switch, vertical integration, 340B, rebate aggregator, audit rights, contract negotiation, self-funded employers, pharmacy benefits, scorecard
 
 ---
@@ -480,7 +478,7 @@ The best brokers run a version of this analysis with their clients. If yours has
 
 ---
 
-This week's Benefit Blind Spots includes the **full PBM evaluation scorecard** with the 2026 vertical-integration layer: 10 factors on a 100-point weighted scale, scoring notes on the five factors the May 2026 trifecta reframed, and the three additional filters to apply on top of the score. That scorecard is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes the **full PBM evaluation scorecard** with the 2026 vertical-integration layer: 10 factors on a 100-point weighted scale, scoring notes on the five factors the May 2026 trifecta reframed, and the three additional filters to apply on top of the score. That scorecard is exclusive to the Substack: https://benefitblindspots.substack.com/p/pbm-vertical-integration-stay-or-switch-2026
 
 ---
 
@@ -521,7 +519,7 @@ Post immediately as the first comment on the newsletter announcement above (brie
 ```
 Switching PBMs is disruptive. Staying with the wrong one is expensive. Here is how to know which cost is higher.
 
-I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: https://benefitblindspots.substack.com/p/pbm-vertical-integration-stay-or-switch-2026
 
 And this week's PBM Compensation Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/pbm-compensation
 ```
@@ -655,7 +653,7 @@ Five clauses determine whether a performance review can actually do the work:
 4. Specialty routing transparency. What the contract requires the PBM to disclose about affiliated-pharmacy claim flow.
 5. Findings and remediation. What happens when the review surfaces a shortfall.
 
-We read hundreds of these contracts a year at PBS. Fully protective versions of all five clauses show up in only a fraction of them. I redlined each below.
+We read hundreds of these contracts a year at Prescription Benefit Solutions. Fully protective versions of all five clauses show up in only a fraction of them. I redlined each below.
 
 #BenefitsBrokers #PBMConsulting #EmployeeBenefits
 ```
@@ -707,7 +705,7 @@ Claude Design project type: **Slide deck from template**. Contract Comparison ca
 #### Reshare Copy
 
 ```
-Five reporting clauses decide whether you can actually run a PBM review or whether the PBM controls what you see. Frequency, scope, data format, third-party access, and audit window each open the door or shut it.
+Five reporting clauses decide whether you can actually run a PBM review or whether the PBM controls what you see. Data delivery, guarantee methodology, benchmarking rights, specialty-routing disclosure, and findings remediation each open the door or shut it.
 
 Ginny Crisp walks through the redline that gives the plan sponsor visibility.
 
@@ -741,6 +739,8 @@ The question is not "are we frustrated with our PBM?" Frustration is subjective.
 We built a ten-factor scorecard for exactly this question and run it with plan sponsors before they decide. The pattern that surprises people: the score lands on "renegotiate" far more often than "go to market." Most wrong-PBM costs turn out to be fixable in the contract without eating the disruption of a full switch. Weighted scoring, below 50: strong case for the market. 50-70: renegotiate with specific priorities. Above 70: optimize what you have.
 
 The score does not make the decision. It structures the decision so you are evaluating data instead of emotion. The best brokers run this analysis with their clients. If yours has not raised the question, bring the data to them. This is a conversation worth having before renewal, not during it.
+
+#PBMContracts #PBMRenewal #SelfFundedEmployers
 ```
 
 #### VIDEO SCRIPT OPTION (50 seconds)
@@ -772,7 +772,7 @@ The score does not make the decision. It structures the decision so you are eval
 **[A/B TEST — Variant A (CONTROL): post this first comment with the link IMMEDIATELY at publish.]**
 
 ```
-This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is the operational follow-on: the 10-factor PBM evaluation scorecard with stay-or-switch thresholds. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is the operational follow-on: the 10-factor PBM evaluation scorecard with stay-or-switch thresholds. https://benefitblindspots.substack.com/p/pbm-vertical-integration-stay-or-switch-2026
 ```
 
 ---
@@ -785,7 +785,7 @@ _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's 
 
 > **NOTE (June 27, 2026 — Thursday reach rebuild):** This Thursday slot previously ran "5 PBM Compensation Terms Decoded" (Ledger Annotated vocabulary decoder). Vocabulary decoders top out around 4-5K impressions in the summer trough; the genuinely-unknown structural-fact reveal (the offshore rebate-aggregator shape) cleared 17,816 impressions / 40 comments / 33 saves / 18 followers fully organic in early June 2026, roughly 10x the same week's informational posts. Per the CLAUDE.md "Best-kept secret" pattern and the Thursday Excellence Rule, this slot is rebuilt as the named offshore rebate-aggregator reveal: a hidden middleman the PBM owns takes a cut before "100% pass-through" even begins. The W27 deep dive already names the aggregators, the May 2026 CVS lawsuit, and the Pennsylvania Act 77 study, so the citation framing is reused. The five displaced compensation terms were folded into the Field Note as supporting detail (the rebate-aggregator stream is now the lead; the other four sit as the audit follow-on). Original Ledger Annotated decoder content parked: see changelog for `evergreen_visual_backlog.md` parking.
 >
-> **Entity-mapping correction:** the deep dive body mapped Ascent → CVS Health, Emisar → Cigna, Zinc → UnitedHealth, which is inverted. The sourced mapping (FTC / House Oversight / `shocking_fact_bank.md` entry 1) is Ascent Health Services → Express Scripts / Cigna (Switzerland, 2019), Emisar Pharma Services → OptumRx / UnitedHealth (Ireland, 2021), Zinc Health Services → CVS Caremark (2020). This post uses the correct mapping; flag the deep-dive body to match before Monday publish (open item, Run of Show ⚠).
+> **Entity-mapping (verified consistent July 2, 2026):** the sourced mapping (FTC / House Oversight / `shocking_fact_bank.md` entry 1) is Ascent Health Services under Express Scripts / Cigna (Switzerland, 2019), Emisar Pharma Services under OptumRx / UnitedHealth (Ireland, 2021), Zinc Health Services under CVS Caremark (2020). This post, the deep-dive body (Factor 2, ~line 204), and the Field Note all use this correct mapping. No open mapping item remains.
 
 **Format:** Single messy-infographic / clean conceptual Bypass-Funnel hybrid (manufacturer rebate dollar flowing down a pipe, intercepted by a named offshore-GPO valve before the "100% PASS-THROUGH" gate). Photoreal-adjacent annotated aesthetic. 1080 x 1350 px.
 **Pillar:** Transparency & Industry Education
@@ -904,6 +904,8 @@ Same drug. Retail pharmacy: one price. Mail order: different price. Specialty ph
 The channel where your member fills the prescription can change the cost more than the drug itself. Most employers have never compared across channels because the data is not presented that way. The PBM knows the comparison. You do not.
 
 Next week: pharmacy network design, and the five-channel cost model that reveals where the money goes.
+
+#PharmacyCosts #NetworkDesign #SelfFundedEmployers
 ```
 
 #### First Comment
@@ -925,7 +927,7 @@ Get next Monday's deep dive on Pharmacy Network Design in your inbox: benefitbli
 **Morning (7-8 AM) — Article Launch Teaser:**
 New on Benefit Blind Spots: when to stay and when to switch PBMs. Two clients, same PBM, same week. I told one to stay. I told the other to go to market. Both were right. This week includes a 100-point evaluation scorecard that removes the guesswork.
 
-Read the full analysis: [LINK]
+Read the full analysis: https://benefitblindspots.substack.com/p/pbm-vertical-integration-stay-or-switch-2026
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 Early in my consulting career I advised a client to switch PBMs based primarily on their frustration level. The transition was disruptive, the new PBM had different problems, and the net outcome was marginal improvement at significant operational cost. That experience taught me frustration is not data. I have not made that mistake since. Now I score every relationship before advising on the decision.
