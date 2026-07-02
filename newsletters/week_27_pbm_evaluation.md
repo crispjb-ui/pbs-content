@@ -548,27 +548,31 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 
 ### Ready-to-Publish Content
 
+_Copy the block below (GitHub copy button) and paste into Substack. Numbering stays 1-10 as literal text; bold the category labels in Substack if you want them as subheads._
+
+```
 If you have three PBM finalist proposals on your desk, here are the questions I would ask before choosing.
 
-**About pricing:**
+About pricing:
 1. Are guarantees apples-to-apples? Compare GER, brand discount, specialty pricing, and rebate floors under identical claim mix assumptions.
 2. Which guarantees include claw-backs for shortfalls, and which are measured on aggregate vs. line-item?
 3. What is each bidder's actual performance against the guarantees they proposed in recent deals? Ask for references.
 
-**About rebate transparency:**
+About rebate transparency:
 4. Is rebate passthrough 100 percent or is there a reservation? If reserved, for what exactly?
 5. What is excluded from the rebate definition (manufacturer administrative fees, chargebacks, data fees)?
 6. How often is rebate reconciliation run, and who produces the reconciliation report?
 
-**About specialty:**
+About specialty:
 7. What percentage of specialty claims will route through the PBM's owned pharmacy vs. independents?
 8. Is there limited distribution drug access for our highest-cost therapies?
 
-**About operational fit:**
+About operational fit:
 9. What is the implementation timeline, and what resources does each bidder require from our team?
 10. Which PBM clients of similar size and complexity can we speak with unprompted (not references curated by the PBM)?
 
 The finalist stage is where proposals start looking similar on paper. The differences show up in the fine print and the reference calls.
+```
 
 ### Preview Image Prompt
 
