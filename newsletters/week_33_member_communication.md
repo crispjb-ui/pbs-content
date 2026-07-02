@@ -429,27 +429,31 @@ _Toolkit link is the existing live Copay Card Financial Impact Calculator (`rxbs
 
 ### Ready-to-Publish Content
 
+_Copy the block below (GitHub copy button) and paste into Substack. Numbering stays 1-10 as literal text; bold the category labels in Substack if you want them as subheads._
+
+```
 If your PBM is recommending a mid-year formulary change (a tier move, a coverage change, a step therapy addition), here are the questions I would ask before signing off.
 
-**About member impact:**
+About member impact:
 1. How many current members are actively on the affected drugs? Show me the list with utilization detail.
 2. What is the projected disruption rate (percentage of affected members who will require a script change or clinical review)?
 3. What is the member out-of-pocket change at the individual level for the top 50 affected members?
 
-**About clinical safety:**
+About clinical safety:
 4. Is there a therapeutic alternative at a preferred tier for every affected drug class?
 5. For medications with narrow therapeutic index (thyroid, seizure, transplant, anticoagulants), is the change consistent with clinical guidelines or a cost-only move?
 6. Will the PBM cover physician-requested exceptions for continuity of care, and on what timeline?
 
-**About communication:**
+About communication:
 7. Who is drafting the member notification, and what is the advance notice period?
 8. Is the notification reviewed by clinical before it goes out, or is it a PBM template?
 9. What is the member service team trained to say when a member calls with questions?
 
-**About outcomes tracking:**
+About outcomes tracking:
 10. How will we measure the change post-implementation? Ask for a 90-day and 180-day report on disruption, exceptions granted, and total spend impact.
 
 A formulary change is operationally simple for the PBM. It is clinically and financially consequential for members and for the plan. The questions above ensure the change is justified and defensible.
+```
 
 ### Preview Image Prompt
 

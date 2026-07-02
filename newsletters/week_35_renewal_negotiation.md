@@ -409,27 +409,31 @@ _Toolkit link is already live (`rxbs.org/toolkit/ger-audit`, the existing GER Au
 
 ### Ready-to-Publish Content
 
+_Copy the block below (GitHub copy button) and paste into Substack. Numbering stays 1-10 as literal text; bold the category labels in Substack if you want them as subheads._
+
+```
 If I sat down with your PBM renewal proposal today, here are the questions I would ask before recommending whether to accept, negotiate, or RFP.
 
-**About pricing:**
+About pricing:
 1. What is the proposed Generic Effective Rate, and how does it compare to the current guaranteed rate? Is it improving, flat, or eroding?
 2. Are brand discount guarantees based on AWP or WAC? Did the benchmark change from the current contract?
 3. What is the specialty drug pricing methodology? Is it a discount guarantee, a cost-plus model, or something else?
 
-**About rebates:**
+About rebates:
 4. Is the rebate guarantee gross or net of PBM administrative fees?
 5. What manufacturer revenue categories are excluded from the passthrough definition?
 6. How does the proposed rebate per brand claim compare to the current guarantee and to actual performance?
 
-**About terms:**
+About terms:
 7. What changed from the current contract? Ask for a redline showing every modification.
 8. Did the termination provisions change? Check for auto-renewal language that was not in the prior contract.
 9. Are audit rights the same, expanded, or narrowed?
 
-**About performance:**
+About performance:
 10. How did the PBM perform against current contract guarantees? Request a guarantee reconciliation report before evaluating the renewal.
 
 The renewal proposal is the single most leveraged document of the year for your plan. Before you respond to what the PBM offered, test what they did with what you already paid them for.
+```
 
 ### Preview Image Prompt
 

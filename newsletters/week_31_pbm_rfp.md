@@ -460,29 +460,33 @@ _Toolkit link routes to the existing live RFP Scoring Methodology Audit landing 
 
 ### Ready-to-Publish Content
 
+_Copy the block below (GitHub copy button) and paste into Substack. Numbering stays 1-10 as literal text; bold the category labels in Substack if you want them as subheads._
+
+```
 If you have RFP responses in hand and need to score them, here are the questions I would ask of each bidder before moving to finalist interviews.
 
-**About contract clarity:**
+About contract clarity:
 1. Provide the complete contract language for every pricing guarantee, rebate guarantee, and termination provision referenced in the proposal. Summaries in the cover letter do not count.
 2. Which pricing guarantees are indexed (AWP, WAC, MAC) and which are fixed dollars?
 3. What pass-through definitions (rebate, fees, credits) differ from the industry standard, and why?
 
-**About assumptions:**
+About assumptions:
 4. What claim mix assumptions underlie your pricing? If our actual mix differs, what is the dollar impact on guaranteed pricing?
 5. What is your assumed generic dispense rate and mail penetration? Are these aligned with our current utilization?
 
-**About performance history:**
+About performance history:
 6. For three clients of similar size and industry, what percentage of proposed guarantees were actually met over the first two years? Request documentation.
 
-**About hidden terms:**
+About hidden terms:
 7. What fees (admin, clinical, network access, data) are not included in the headline pricing?
 8. Are there exclusivity requirements for specialty, mail order, or 340B routing?
 
-**About transition:**
+About transition:
 9. What are the implementation costs, and what portion is the PBM absorbing vs. passing to the plan?
 10. What is the data-transfer commitment if we move the business? Test for auto-renewal language and early-termination penalties.
 
 RFP responses are written to win the bid. The questions above separate what the PBM will commit to in writing from what lives in the marketing deck.
+```
 
 ### Preview Image Prompt
 

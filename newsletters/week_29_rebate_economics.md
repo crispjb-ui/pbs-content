@@ -432,27 +432,31 @@ _The Copay Card Financial Impact Calculator landing page is already live (`rxbs.
 
 ### Ready-to-Publish Content
 
+_Copy the block below (GitHub copy button) and paste into Substack. Numbering stays 1-10 as literal text; bold the category labels in Substack if you want them as subheads._
+
+```
 If your PBM just told you the rebate guarantee was met, here are the questions I would ask to verify.
 
-**About the rebate calculation:**
+About the rebate calculation:
 1. Show me the total rebates collected, the total claims eligible, and the rebates paid to the plan. All three numbers, for the reconciliation period.
 2. What percentage of eligible brand claims generated a rebate?
 3. Which manufacturer rebate contracts were excluded from the passthrough, and why?
 
-**About claim eligibility:**
+About claim eligibility:
 4. Were specialty claims included or excluded from the rebate calculation?
 5. Were mail-order and retail claims treated identically, or is there a differential?
 6. Were any claims reclassified from rebated to non-rebated during the period? If so, why?
 
-**About timing:**
+About timing:
 7. What is the lag between dispense date and when the rebate hits the plan? (Typical is 180 days; longer than that is worth a conversation.)
 8. Are rebates accrued monthly with a true-up, or paid only at reconciliation?
 
-**About comparison:**
+About comparison:
 9. How does our rebate per brand claim compare to the PBM's aggregate book for similar-size plans?
 10. If we had more aggressive formulary management (tighter preferred tier, required step therapy for high-cost categories), what is the projected rebate lift?
 
 The rebate guarantee is the most manipulated line item in a PBM contract. The questions above test whether the reported number is real.
+```
 
 ### Preview Image Prompt
 
