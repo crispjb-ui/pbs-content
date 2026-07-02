@@ -166,7 +166,7 @@ For each of the six programs, score on four dimensions (1-5 each):
 
 For each program, request: the specific savings methodology with a sample calculation, the raw data behind the savings claim (not just the summary), the intervention rate (what percentage of eligible members were actually affected), and the outcome rate (of those affected, what percentage had a measurable result).
 
-Your broker or consultant can help interpret the data. The best advisory teams are already requesting this level of detail. If yours has not, share this scorecard with them. For how this clinical-program verification fits inside a full contract audit, see our guide at [www.rxbs.org/guides/pbm-contract-audit](https://www.rxbs.org/guides/pbm-contract-audit).
+Your broker or consultant can help interpret the data. The best advisory teams are already requesting this level of detail. If yours has not, share this scorecard with them. For how this clinical-program verification fits inside a full contract audit, see our [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness).
 
 Have you audited your PBM's clinical program savings? Leave a comment below.
 
@@ -282,7 +282,7 @@ This is where Monday's deep dive and today's reveal meet. Your PBM's specialty m
 > **Compare billed price to NADAC** on your highest-cost specialty generics.
 > **Send the markup back to the clinical program** and ask whether its reported savings net it out.
 
-The reveal is the hook. The audit is the deliverable. For how this fits inside a full pharmacy benefit review, see our guide at [www.rxbs.org/guides/pbm-contract-audit](https://www.rxbs.org/guides/pbm-contract-audit).
+The reveal is the hook. The audit is the deliverable. For how this fits inside a full pharmacy benefit review, see our [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness).
 
 ---
 
