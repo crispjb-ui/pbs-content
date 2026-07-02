@@ -322,6 +322,68 @@ What you should ask for:
 
 ---
 
+### Reporting and Disclosure
+
+**Provision: Reporting and Data Access**
+
+What you might see:
+> "PBM will provide standard reporting on a periodic basis."
+
+What it actually means: "Standard" reporting is the PBM's standard, which is typically a summary dashboard rather than claim-level detail. Without a defined data set, format, and cadence, you cannot audit pricing, verify a guarantee, or benchmark. You see what the PBM chooses to show you.
+
+What you should ask for:
+> "PBM will provide Plan, or Plan's designated auditor, with complete claim-level data (including NDC, quantity, days supply, ingredient cost, dispensing fee, member cost share, plan paid, AWP, MAC, and pharmacy reimbursement) in a machine-readable format (CSV or equivalent) no later than 30 days after the close of each month, at no additional cost, for the full term and for 12 months following termination. Rebate and administrative-fee detail will be reported by NDC and by rebate category each quarter."
+
+---
+
+**Provision: Guarantee Calculation Methodology**
+
+What you might see:
+> "Pricing guarantees are reconciled annually in accordance with PBM's standard methodology."
+
+What it actually means: The PBM controls the math. "Standard methodology" lets it decide which claims count and which are excluded (specialty carve-outs, 90-day, zero-balance, secondary claims), so a guarantee can be met on paper regardless of what you actually paid.
+
+What you should ask for:
+> "The contract will define, in an exhibit, exactly how each guarantee (GER, brand discount, rebate, and administrative fee) is calculated: which claims are included and excluded, the AWP source and version used, and the reconciliation formula. Guarantees are measured on an aggregate annual basis, and any shortfall is paid to Plan in full within 90 days of reconciliation. Plan or its auditor may recalculate each guarantee using the same claim-level data."
+
+---
+
+**Provision: Benchmarking Rights**
+
+What you might see:
+> "PBM pricing reflects competitive market terms." (silent on any right for the Plan to test that claim)
+
+What it actually means: With no benchmarking right, you cannot measure your pricing against the market mid-term. The PBM's renewal pitch becomes the only reference point you have, and it is not a neutral one.
+
+What you should ask for:
+> "Plan sponsor, or its designated consultant or auditor, may benchmark PBM pricing, discounts, and fees against market data at any time during the term, and PBM will provide the claim-level data necessary to perform the benchmark. A market-competitiveness review may be conducted at least annually, and material variances will be addressed through good-faith repricing."
+
+---
+
+**Provision: Affiliated-Pharmacy and Routing Disclosure**
+
+What you might see:
+> "Claims may be dispensed through PBM's network of retail, mail, and specialty pharmacies."
+
+What it actually means: The PBM does not tell you which claims it steered to a pharmacy it owns, or what margin the affiliate kept. Routing that looks like a network decision can be a margin decision, and without disclosure you cannot see it.
+
+What you should ask for:
+> "PBM will disclose each quarter the share of Plan's claims (by count and by spend) dispensed through pharmacies PBM owns or is affiliated with, identify those pharmacies, and report acquisition cost and affiliate margin on specialty and mail claims. PBM will disclose any ownership or financial interest in a dispensing pharmacy, rebate aggregator, or group purchasing organization involved in Plan's claims."
+
+---
+
+**Provision: Inadequate-Report Remedy**
+
+What you might see:
+> "PBM will use commercially reasonable efforts to provide reporting."
+
+What it actually means: "Commercially reasonable efforts" is not a deadline and carries no penalty. If reports are late, incomplete, or unusable, you have no leverage, and the data you need to hold the PBM accountable is the data the PBM controls.
+
+What you should ask for:
+> "If PBM fails to deliver complete, accurate reporting in the required format within the stated timeframe, Plan will notify PBM and PBM will cure within 15 days. An uncured reporting failure entitles Plan to a per-day service-level credit, suspends the running of any audit or guarantee-claim deadline that depends on the missing data, and constitutes a material breach permitting termination for cause if it persists."
+
+---
+
 ## How to Use This Library
 
 1. **Before renewal:** Pull your current PBM contract. Compare each provision against the "what you should ask for" language.
@@ -365,7 +427,7 @@ Additional provision-specific deep dives publish throughout the year. The formul
 |-------------------------|------------------|--------------------|--------|
 | April 2026 (initial publish) | Full initial library (Pricing, Rebate, Audit, Clinical, Termination, Specialty) | — | Week 17 launch |
 | May 21, 2026 | Definition of Generic Drug; Spread Pricing / Claim Pricing | Termination Notice expanded to "Termination Notice and Termination for Convenience" | Week 16 Library 01 |
-| _Pending: next push_ | Biosimilar Provisions section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance); five Library 03 Audit Rights clauses (Audit Frequency and Notice, Audit Scope, Auditor Identity, Findings Binding, Cost Responsibility and Materiality Threshold); Termination and Transition expanded with two new provisions (Transition and Run-Out Services; Rebate-Accrual Return on Termination) | — | W22 Biosimilar atomization; W23 Library 03 Audit Rights; W25 Library 04 Termination |
+| _Pending: next push_ | Biosimilar Provisions section (Biosimilar Formulary Placement; Brand-to-Biosimilar Transition and Performance); five Library 03 Audit Rights clauses (Audit Frequency and Notice, Audit Scope, Auditor Identity, Findings Binding, Cost Responsibility and Materiality Threshold); Termination and Transition expanded with two new provisions (Transition and Run-Out Services; Rebate-Accrual Return on Termination); new Reporting and Disclosure section (Reporting and Data Access, Guarantee Calculation Methodology, Benchmarking Rights, Affiliated-Pharmacy and Routing Disclosure, Inadequate-Report Remedy) | — | W22 Biosimilar atomization; W23 Library 03 Audit Rights; W25 Library 04 Termination; W27 Library 05 Reporting |
 
 When Ginny confirms a Substack push is done, move the `_Pending: next push_` row to a dated row and open a fresh `_Pending: next push_` row for the next round of provisions.
 
@@ -380,7 +442,7 @@ These notes track which provisions are expected to be added/expanded as each Lib
 - **Library 02 (W21, May 26, 2026):** Rebate pass-through definition breadth (expand existing "Rebate Passthrough"), AWP discount base specificity (expand "Brand Discount Guarantee" with AWP-source naming), Guarantee Reconciliation (new provision in Pricing Guarantees), Termination data-transfer specificity (expand existing "Data Transfer"), Audit rights scope (expand existing "Audit Access" with twice-per-year and binding-findings clauses)
 - **Library 03 (W23, Jun 9, 2026):** Five Audit Rights clauses (frequency, scope, auditor identity, findings binding, cost responsibility / materiality threshold) — expands existing Audit Rights section. **✅ MERGED INTO BODY (Jun 3, 2026), pending next push** (added as §10.01-§10.05 provisions matching the Library 03 carousel redlines).
 - **Library 04 (W25, Jun 23, 2026):** Five Termination clauses from the "Five Termination Clauses That Decide Whether You Can Actually Leave" carousel (auto-renewal / evergreen, termination for convenience, termination for cause and cure, transition and run-out services, data and rebate-accrual return) — expands the existing Termination and Transition section. **✅ MERGED INTO BODY (Jun 21, 2026), pending next push** (auto-renewal / convenience / cause already lived in "Termination Notice and Termination for Convenience"; "Transition and Run-Out Services" and "Rebate-Accrual Return on Termination" added as new provisions to complete the carousel's five-clause set).
-- **Library 05 (W27, Jul 7, 2026):** Reporting and Disclosure clauses from the "Five Reporting Clauses That Let You Actually Run the PBM Review" carousel (reporting data-access, guarantee calculation methodology, benchmarking rights, specialty-routing disclosure, inadequate-report remedy). NEW "Reporting and Disclosure" provision family, or expand the relevant existing sections.
+- **Library 05 (W27, Jul 7, 2026):** Reporting and Disclosure clauses from the "Five Reporting Clauses That Let You Actually Run the PBM Review" carousel (reporting data-access, guarantee calculation methodology, benchmarking rights, specialty-routing disclosure, inadequate-report remedy). **✅ MERGED INTO BODY (Jul 2, 2026), pending next push** (added as a new "Reporting and Disclosure" provision family after Biosimilar Provisions: Reporting and Data Access, Guarantee Calculation Methodology, Benchmarking Rights, Affiliated-Pharmacy and Routing Disclosure, Inadequate-Report Remedy).
 - **Library 06 (W33, Aug 18, 2026):** Q4 broker-conversation clauses from the "Five Clauses That Anchor Q4 Broker Conversations" carousel (biosimilar tier placement, stop-loss cooperation and data-sharing, termination and evaluation timing, fiduciary reporting, audit rights / independent data access).
 
 **Cadence realigned to as-built (June 3, 2026; updated Jun 21, 2026):** the every-2-week schedule drifted. W29, W31, W35, and W37 did NOT ship Library carousels (their Tuesdays kept paused-Whiteboard drafts or other cycle visuals), so they are not Library weeks. **W25 DID ship Library 04 (Termination), which shifted W27 Reporting to Library 05 and W33 Broker to Library 06.** The built sequence is Library 01-06 above. Future Library entries are opportunistic and number consecutively from 06; pull from the provision families not yet given a dedicated entry: PBM Compensation Disclosure, Rebate Definitions / Gross-to-Net, Specialty Routing and Affiliated-Pharmacy Disclosure, Formulary Management and Override Authority, Performance Guarantees and Remediation, Renewal and Amendment, Step Therapy Override.
