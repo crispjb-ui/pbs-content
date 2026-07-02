@@ -237,39 +237,11 @@ Place mid-article, right after the section that introduces the five H1 metrics, 
 
 **Dimensions:** 1080 x 1350 px. Clean flat-design infographic (NOT photoreal).
 
-**Prompt:**
+#### AI Image Generation Prompt
 
-```
-A clean, professional digital infographic, 1080 x 1350 px (4:5 vertical), solid
-white (#FFFFFF) background, generous negative space. Editorial, flat-design,
-NOT photoreal.
+_Paste into ChatGPT or Gemini (clean-infographic path). After generating: add the PBS logo in Canva (logos never go in the generation prompt); caption the graphic with the disclaimer below if it shows dollar figures or scores._
 
-Top: a two-tone headline in Plex Sans SemiBold, "Your H1 Dashboard" in Primary
-Blue (#015880) with "The 5 numbers that set your renewal position" in Accent
-Blue (#A7E0FA) on the line below, 48pt / 28pt. A thin Accent Blue underline
-under "renewal position."
-
-Center: five evenly spaced metric rows, each a clean card with a numbered
-Primary Blue (#015880) rounded pill (1 to 5) on the left, the metric label in
-Plex Mono Medium uppercase, and one plain-English line in Gray (#4D4D4D) Plex
-Sans Regular beneath it. One small Accent Blue (#A7E0FA) tick or arrow accents
-each row. The five rows:
-  1. PMPM: per-member-per-month cost. Compare vs budget, prior year, market.
-  2. GER: generic effective rate by channel. Are you hitting your guarantee?
-  3. SPECIALTY %: specialty as a share of total spend. The trend driver.
-  4. REBATE / Rx: rebate per brand claim, not total rebates. The real yield.
-  5. HIGH-COST CLAIMANTS: members over threshold. Your stop-loss exposure.
-
-Bottom: a slim Primary Blue (#015880) strip running full width with white Plex
-Sans SemiBold text "Know your numbers before the PBM presents theirs," with an
-Accent Blue (#A7E0FA) accent on "before."
-
-Palette strictly white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA),
-Gray (#4D4D4D). All metric labels in Plex Mono Medium. Five rows only, evenly
-spaced, large enough to read clearly on a phone. No photographs, no realistic
-textures, NO logo or wordmark of any kind. Leave a clean margin at the very
-bottom.
-```
+> A clean, flat corporate infographic, 1080 x 1350 pixels (4:5 vertical), on a white (#FFFFFF) background with generous negative space, editorial flat-design and not photoreal. Top: a two-tone headline in IBM Plex Sans SemiBold (clinical register, never a condensed or poster face), "Your H1 Dashboard" in Primary Blue (#015880) with "The 5 numbers that set your renewal position" in Accent Blue (#A7E0FA) on the line below, about 48pt and 28pt, with a thin Accent Blue underline under "renewal position." Center: five evenly spaced metric rows, each a clean card with a numbered Primary Blue (#015880) rounded pill (1 through 5) on the left holding a white IBM Plex Mono numeral, the metric label in IBM Plex Mono Medium uppercase, and one plain-English line in Gray (#4D4D4D) IBM Plex Sans beneath it, with a small Accent Blue (#A7E0FA) tick accenting each row. The five rows: "PMPM: per-member-per-month cost. Compare vs budget, prior year, market.", "GER: generic effective rate by channel. Are you hitting your guarantee?", "SPECIALTY %: specialty as a share of total spend. The trend driver.", "REBATE / Rx: rebate per brand claim, not total rebates. The real yield.", "HIGH-COST CLAIMANTS: members over threshold. Your stop-loss exposure.". Bottom: a slim full-width Primary Blue (#015880) strip with white IBM Plex Sans SemiBold text "Know your numbers before the PBM presents theirs.", with an Accent Blue (#A7E0FA) accent on "before". Large, high-contrast, thumbnail-legible type throughout, only the five rows competing for attention; render every number in IBM Plex Mono tabular figures. Reserve empty space at the bottom-right for a logo (do not draw one), with a small footer line "rxbs.org" in IBM Plex Mono Gray (#4D4D4D). No grid-pattern background, no photographs, no people, no real logos, no PBM logos. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
 
 ---
 
