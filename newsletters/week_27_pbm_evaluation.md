@@ -35,7 +35,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 8 | 8:30 PM | X | aphorism [C1] | PART 4B · Wed | [ ] |
 | Thu Jul 9 | 7:30 AM | Substack | Field Note: "The Middleman That Skims Your Rebates Before Pass-Through Begins" | PART 1B | [ ] |
 | Thu Jul 9 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 9 | 10:00 AM | LI Feed | Post 99 — "The Offshore Rebate Aggregator Reveal" (Offshore Route Map infographic) | Post 99 | [ ] |
+| Thu Jul 9 | 10:00 AM | LI Feed | Post 99 — "The Offshore Rebate Aggregator Reveal" (Jetlagged Rebate illustration) | Post 99 | [ ] |
 | Thu Jul 9 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: Offshore rebate route map]` | PART 4B · Thu | [ ] |
 | Thu Jul 9 | 1:30 PM | LI Company | Reshare of Post 99 | Post 99 Reshare | [ ] |
 | Thu Jul 9 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -787,7 +787,7 @@ This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is
 
 _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: PBM Evaluation Scorecard Overview). The live Thursday post is below._
 
-### Thursday Excellence Slot - Your Rebates Take a Detour Through Switzerland (Offshore Route Map)
+### Thursday Excellence Slot - Your Rebates Take a Detour Through Switzerland (Jetlagged Rebate illustration)
 
 > **NOTE (June 27, 2026 — Thursday reach rebuild):** This Thursday slot previously ran "5 PBM Compensation Terms Decoded" (Ledger Annotated vocabulary decoder). Vocabulary decoders top out around 4-5K impressions in the summer trough; the genuinely-unknown structural-fact reveal (the offshore rebate-aggregator shape) cleared 17,816 impressions / 40 comments / 33 saves / 18 followers fully organic in early June 2026, roughly 10x the same week's informational posts. Per the CLAUDE.md "Best-kept secret" pattern and the Thursday Excellence Rule, this slot is rebuilt as the named offshore rebate-aggregator reveal: a hidden middleman the PBM owns takes a cut before "100% pass-through" even begins. The W27 deep dive already names the aggregators, the May 2026 CVS lawsuit, and the Pennsylvania Act 77 study, so the citation framing is reused. The five displaced compensation terms were folded into the Field Note as supporting detail (the rebate-aggregator stream is now the lead; the other four sit as the audit follow-on). Original Ledger Annotated decoder content parked: see changelog for `evergreen_visual_backlog.md` parking.
 >
@@ -795,13 +795,13 @@ _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's 
 
 > **NOTE (Jul 2, 2026 — differentiated from W26 to avoid back-to-back repetition):** W26 Thursday (published Jul 2) ran the "Five Manufacturer Payments" Bypass/Funnel reveal, which shares this post's funnel visual, its "Your PBM passes through 100% of rebates…" opener, its PBS anchor, its hashtags, its toolkit, AND names Ascent/Emisar/Zinc as its point #5 — so the original W27 read as a zoom-in on W26. The SUBSTANCE here (the offshore aggregator, the $7.6B FTC fee figure, the May 2026 CVS vertical-integration lawsuit, the foreign-domicile angle) is unique and stays. What changed: the VISUAL moved off the Bypass/Funnel to an **Offshore Route Map** (W26 owns the funnel now), the HOOK now leads on the Switzerland/foreign-domicile shock instead of reusing the "100% pass-through" opener, the copy leans harder into the vertical-integration/lawsuit thread this deep dive is built on, and the hashtag topic slot swapped (#Rebates → #DrugPricing) per the no-repeat-consecutive rule.
 
-**Format:** Single clean conceptual **Offshore Route Map** infographic (the rebate dollar's left-to-right journey out to offshore markers in Switzerland/Ireland where a fee is siphoned, then back to the plan diminished). Deliberately NOT the Bypass/Funnel W26 used. 1080 x 1350 px. Renders reliably in ChatGPT / Gemini; Canva fallback if a regen mangles text.
+**Format:** Single conceptual image, 1080 x 1350 px. **Primary treatment = "Jetlagged Rebate" editorial illustration:** the rebate dollar personified as a weary traveler that flies overseas (Switzerland/Ireland passport stamps), gets a fee snipped at each stop, and arrives back at YOUR PLAN visibly halved and jetlagged. Business-magazine spot-illustration register (witty but credible, not a cartoon). **Fallback = the clean Offshore Route Map diagram** (no character) if the illustration reads too playful or mangles labels. Both deliberately NOT the Bypass/Funnel W26 used. Renders in ChatGPT / Gemini; Canva fallback if a regen mangles text.
 **Pillar:** Transparency & Industry Education
 **Field Note pairing:** Same-day Substack Field Note "The Middleman That Skims Your Rebates Before Pass-Through Begins" (PART 1B), which exclusively supports this aggregator concept.
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "PBM Compensation Audit Worksheet" at `rxbs.org/toolkit/pbm-compensation` (the rebate-aggregator stream is the worksheet's lead audit pass).
 
 **Thursday Excellence audit (all 5 components, verified before ship):**
-1. **Format = clean conceptual single image, 1080 x 1350.** Offshore Route Map: the rebate dollar's journey out to offshore markers and back diminished, dramatizing that the "100%" is measured in a jurisdiction the audit can't reach. Deliberately NOT the Bypass/Funnel W26 ran the prior Thursday. Five-or-fewer labeled elements, large type, thumbnail-legible per the mobile-feed legibility rule. ✓
+1. **Format = conceptual single image, 1080 x 1350.** "Jetlagged Rebate" editorial illustration (primary): the rebate dollar flies overseas, gets snipped at each offshore stop, and comes back halved and jetlagged, dramatizing that the "100%" is measured after a layover the audit can't reach. Editorial register (witty, credible, not a cartoon); clean route-map diagram is the fallback. Deliberately NOT the Bypass/Funnel W26 ran the prior Thursday. Five-or-fewer labeled elements, large type, thumbnail-legible per the mobile-feed legibility rule. ✓
 2. **Hook = confrontational, named-actor reveal.** First line: "Your manufacturer rebates route through a company in Switzerland before your plan ever sees a dollar. Your PBM owns that company." Leads on the foreign-domicile shock (distinct from W26's "100% pass-through" opener); names the PBM as actor, the plan as victim, the offshore entity as the shock. ✓
 3. **Proprietary anchor:** "We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and the affiliated-entity audit-rights clause that would let you reach the aggregator appears in fewer than half of them." Unfakeable, PBS-specific. ✓
 4. **First comment names the same-day Field Note specifically + cross-promo link** (the three audit passes + the worksheet). ✓
@@ -847,7 +847,29 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Offshore Route Map Image Generation Prompt
+#### "Jetlagged Rebate" Image Generation Prompt (primary — editorial illustration)
+
+_Register guard: this is a polished business-magazine spot illustration (think The Economist / Bloomberg editorial art), witty but credible, NOT a goofy cartoon. The light personification carries the metaphor; the named stops + fee + "$7.6B" carry the payload. If a regen makes it too cartoonish or mangles the labels, fall back to the clean route-map version below or rebuild in Canva._
+
+> A clean editorial spot illustration, 1080 x 1350 pixels (4:5 vertical), on a white (#FFFFFF) background with generous negative space, IBM Plex Sans typography. Flat vector shapes with subtle shading, tasteful and credible business-magazine style, NOT a goofy cartoon.
+>
+> The scene tells a left-to-right round-trip journey. Bottom-left, a departure point labeled "YOUR REBATE" in Primary Blue (#015880): a single crisp, upright, full-size rounded dollar character (a dollar token with a small calm face) pulling a tiny rolling suitcase and holding a boarding pass, looking fresh and healthy.
+>
+> A dotted flight-path arc in Accent Blue (#A7E0FA) sweeps up and across a thin stylized ocean band (light Accent Blue fill), a small airplane icon mid-arc, making stops drawn as passport-stamp roundels in Primary Blue outline with Plex Mono Medium tabular labels: "SWITZERLAND · ASCENT", "IRELAND · EMISAR", and a third "ZINC · CVS" stamp near the arc if space allows. At each stamp, a small red (#C0392B) scissor/siphon snips a wedge off the traveling dollar, with tiny red "FEE" wedges floating away.
+>
+> The arc returns down to the bottom-right, where the SAME dollar character arrives at a Gray (#4D4D4D) box labeled "YOUR PLAN", but now visibly HALVED and jetlagged: about half its original size, slightly wrinkled and droopy, under-eye shadows, one small sweat drop, dragging its suitcase. A short red annotation beside it reads "comes back halved". A small Primary Blue Plex Sans SemiBold tag nearby: "100% pass-through, of what's LEFT".
+>
+> A single bold red (#C0392B) Plex Mono callout near the ocean band reads "$7.6B in fees, 2022 (FTC)".
+>
+> Two-tone headline across the top on a clean white band, Plex Sans SemiBold: "Your rebate takes a trip" in Gray (#4D4D4D), and immediately below "you never see the itinerary" in Primary Blue (#015880), 60-76pt. Subtitle in Plex Mono Medium, Gray (#4D4D4D): "Measured after the offshore layover".
+>
+> Footer line, small, bottom-center, Plex Mono Medium Gray (#4D4D4D): "rxbs.org". Reserve empty space at the bottom-right for a logo (do not draw one).
+>
+> Style: clean flat editorial illustration, credible and lightly witty, never slapstick. High contrast, large bold labels, thumbnail-legible, no more than the flight arc, two-or-three passport stamps, and the two dollar states (fresh vs. jetlagged) competing for attention. No grid-pattern background, no photographs, no real logos, no PBM logos. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), and a single red (#C0392B) for the fee/diminishment accent only. Title in IBM Plex Sans SemiBold (clinical-credibility register), never a condensed poster face.
+
+_Pill variant (optional): swap the traveling dollar for a pill capsule with a suitcase if the pharmacy read is wanted over the money read; the "comes back halved" beat works the same (capsule returns cracked / half-empty). The dollar is the default because the story is rebate money, not the drug._
+
+#### Offshore Route Map Image Generation Prompt (fallback — clean diagram, no character)
 
 > A clean, modern conceptual infographic, 1080 x 1350 pixels (4:5 vertical), white (#FFFFFF) background with generous negative space, IBM Plex Sans typography. The composition is a stylized left-to-right money-route map, NOT a vertical funnel or pipe.
 >
@@ -1249,7 +1271,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
 - [ ] Tuesday: Post 97 Library 05 Contract Comparison Carousel at 10:00 AM + First Comment + Reshare 1:30 PM
 - [ ] Wednesday: Post 98 Strong POV text at 10:00 AM
-- [ ] Thursday: Field Note ("The Middleman That Skims Your Rebates Before Pass-Through Begins") at 7:30 AM, Post 99 Offshore Rebate Aggregator Reveal (Offshore Route Map infographic) at 10:00 AM + first comment + Reshare 1:30 PM
+- [ ] Thursday: Field Note ("The Middleman That Skims Your Rebates Before Pass-Through Begins") at 7:30 AM, Post 99 Offshore Rebate Aggregator Reveal (Jetlagged Rebate illustration) at 10:00 AM + first comment + Reshare 1:30 PM
 - [ ] Friday: Post 100 Tease Hook at 10:00 AM
 - [ ] Daily Substack Notes per schedule
 - [ ] Continue tracking 10:00 AM posting time performance
