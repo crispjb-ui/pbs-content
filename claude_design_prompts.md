@@ -499,6 +499,17 @@ The Thursday LinkedIn feed visual is already assigned to the 3-slot evergreen ro
 
 Each week's newsletter file now includes a "Visual Build Note" callout under the Thursday visual section specifying the recommended format and the Claude design prompt reference. Tuesday visual sections in selected weeks also include build notes.
 
+## Multi-slide "story" carousel production notes (added Jul 2, 2026, from the W27 Rebate Detour build)
+
+When a concept is a narrative with multiple stops or characters (money routed to N places, a journey, a before/after sequence), it usually can't survive as one dense single image on the mobile feed. Learnings from building the W27 rebate-aggregator "detour" carousel (a plan's rebate dollar flying to an offshore aggregator and coming back diminished):
+
+1. **Split to a carousel when a single image fails the ~400px thumbnail-legibility check.** The first attempt packed three routes into one frame and was unreadable in-feed; splitting to one route per slide (cover + one per stop + close) fixed legibility. This is the mobile-feed legibility rule applied at the composition level, not just the type level.
+2. **Verify real named entities before depicting them.** If the visual references actual companies/places, get the geography right: Ascent = Switzerland (2019), Emisar = Ireland (2021), Zinc = US/Delaware (2020, NOT offshore). Depicting a US-based entity with an offshore/foreign landscape is a factual error a reader in the industry will catch. Confirm HQ + founding year before writing the prompt.
+3. **Round-trip, not one-way, when you split a journey across slides.** If the story is "it goes out and comes back changed," each per-stop slide should show the full loop (out and back), not just the outbound leg, so each slide stands alone.
+4. **Make landscapes distinctive to the location + add a small flag** so each slide reads as a different place at a glance (Swiss Alps, Irish green coast, US heartland), rather than generic mountains repeated.
+5. **Character/style drift across ChatGPT accounts is real.** Hitting a usage cap and switching accounts mid-carousel produces visible style drift between slides. Mitigation: **generate all slides in ONE session/account**, and feed Slide 1 or 2 back in as a reference image for the rest so the character/style stays consistent. If drift already happened, it's usually better to regenerate the odd slides to match the majority than to ship a mismatched set.
+6. **Show the "diminished return" as an expression/condition, not a literal fraction.** "Smaller / tired / jet-lagged" reads better than "halved" (which invites a literal-math objection); a worn, fatigued returning dollar carried the point without a fabricated percentage.
+
 ---
 
 ## Clean + Messy Hybrid Formats
