@@ -35,7 +35,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 8 | 8:30 PM | X | aphorism [C1] | PART 4B · Wed | [ ] |
 | Thu Jul 9 | 7:30 AM | Substack | Field Note: "The Middleman That Skims Your Rebates Before Pass-Through Begins" | PART 1B | [ ] |
 | Thu Jul 9 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 9 | 10:00 AM | LI Feed | Post 99 — "The Offshore Rebate Aggregator Reveal" (Jetlagged Rebate illustration) | Post 99 | [ ] |
+| Thu Jul 9 | 10:00 AM | LI Feed | Post 99 — "The Offshore Rebate Aggregator Reveal" (Rebate Detour illustration, three routes) | Post 99 | [ ] |
 | Thu Jul 9 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: Offshore rebate route map]` | PART 4B · Thu | [ ] |
 | Thu Jul 9 | 1:30 PM | LI Company | Reshare of Post 99 | Post 99 Reshare | [ ] |
 | Thu Jul 9 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -345,7 +345,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 **A rebate aggregator is a group purchasing organization your PBM owns that negotiates and collects manufacturer rebates, takes a fee at that layer, and then hands what is left to the PBM, so "100% pass-through" is measured from the wrong starting number, and you audit it by interrogating the rebate definition, the affiliated-entity disclosure obligation, and your audit-rights clause to see whether they reach the aggregator at all.**
 
-This morning's LinkedIn post revealed the part of the rebate chain almost no plan sponsor has been shown: before your rebates reach the "100% pass-through" your contract promises, they pass through a separate company that negotiates and collects them. For the three largest PBMs, that company is owned by the PBM and registered offshore. Ascent Health Services (Express Scripts and Cigna, Switzerland). Emisar Pharma Services (OptumRx and UnitedHealth, Ireland). Zinc Health Services (CVS Caremark). By the FTC's accounting, manufacturers paid these aggregators an estimated $7.6 billion in fees in 2022 alone.
+This morning's LinkedIn post revealed the part of the rebate chain almost no plan sponsor has been shown: before your rebates reach the "100% pass-through" your contract promises, they pass through a separate company that negotiates and collects them. Your rebates go through exactly one of these, whichever your PBM uses, and two of the big three registered theirs in Europe: Ascent Health Services (Express Scripts and Cigna, Switzerland, 2019), Emisar Pharma Services (OptumRx and UnitedHealth, Ireland, 2021), and Zinc Health Services (CVS Caremark, US-based, 2020). By the FTC's accounting, manufacturers paid these aggregators an estimated $7.6 billion in fees in 2022 alone.
 
 Today is the operational follow-on. Here is how to audit whether your plan's rebates run through one of these layers, and whether your contract lets you reach it. We run rebate audits as a standard part of our work at Prescription Benefit Solutions. Three passes do most of the work.
 
@@ -787,7 +787,7 @@ This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is
 
 _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: PBM Evaluation Scorecard Overview). The live Thursday post is below._
 
-### Thursday Excellence Slot - Your Rebates Take a Detour Through Switzerland (Jetlagged Rebate illustration)
+### Thursday Excellence Slot - Your Rebates Take a Detour Through Switzerland (Rebate Detour illustration, three routes)
 
 > **NOTE (June 27, 2026 — Thursday reach rebuild):** This Thursday slot previously ran "5 PBM Compensation Terms Decoded" (Ledger Annotated vocabulary decoder). Vocabulary decoders top out around 4-5K impressions in the summer trough; the genuinely-unknown structural-fact reveal (the offshore rebate-aggregator shape) cleared 17,816 impressions / 40 comments / 33 saves / 18 followers fully organic in early June 2026, roughly 10x the same week's informational posts. Per the CLAUDE.md "Best-kept secret" pattern and the Thursday Excellence Rule, this slot is rebuilt as the named offshore rebate-aggregator reveal: a hidden middleman the PBM owns takes a cut before "100% pass-through" even begins. The W27 deep dive already names the aggregators, the May 2026 CVS lawsuit, and the Pennsylvania Act 77 study, so the citation framing is reused. The five displaced compensation terms were folded into the Field Note as supporting detail (the rebate-aggregator stream is now the lead; the other four sit as the audit follow-on). Original Ledger Annotated decoder content parked: see changelog for `evergreen_visual_backlog.md` parking.
 >
@@ -795,13 +795,13 @@ _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's 
 
 > **NOTE (Jul 2, 2026 — differentiated from W26 to avoid back-to-back repetition):** W26 Thursday (published Jul 2) ran the "Five Manufacturer Payments" Bypass/Funnel reveal, which shares this post's funnel visual, its "Your PBM passes through 100% of rebates…" opener, its PBS anchor, its hashtags, its toolkit, AND names Ascent/Emisar/Zinc as its point #5 — so the original W27 read as a zoom-in on W26. The SUBSTANCE here (the offshore aggregator, the $7.6B FTC fee figure, the May 2026 CVS vertical-integration lawsuit, the foreign-domicile angle) is unique and stays. What changed: the VISUAL moved off the Bypass/Funnel to an **Offshore Route Map** (W26 owns the funnel now), the HOOK now leads on the Switzerland/foreign-domicile shock instead of reusing the "100% pass-through" opener, the copy leans harder into the vertical-integration/lawsuit thread this deep dive is built on, and the hashtag topic slot swapped (#Rebates → #DrugPricing) per the no-repeat-consecutive rule.
 
-**Format:** Single conceptual image, 1080 x 1350 px. **Primary treatment = "Jetlagged Rebate" editorial illustration:** the rebate dollar personified as a weary traveler that flies overseas (Switzerland/Ireland passport stamps), gets a fee snipped at each stop, and arrives back at YOUR PLAN visibly halved and jetlagged. Business-magazine spot-illustration register (witty but credible, not a cartoon). **Fallback = the clean Offshore Route Map diagram** (no character) if the illustration reads too playful or mangles labels. Both deliberately NOT the Bypass/Funnel W26 used. Renders in ChatGPT / Gemini; Canva fallback if a regen mangles text.
+**Format:** Single conceptual editorial infographic, 1080 x 1350 px. **Treatment = "Rebate Detour, three routes":** three dollar-BILL travelers, one per PBM case, each routing to the single aggregator that PBM uses and coming back SMALLER. Two routes cross the Atlantic by plane (Ascent/Switzerland 2019, Emisar/Ireland 2021); the third is a long US cross-country car ride (Zinc/US 2020, no plane, comes back road-weary). Business-magazine register (witty but credible, not a cartoon). Deliberately NOT the Bypass/Funnel W26 used. Renders in ChatGPT / Gemini; Canva fallback if a regen mangles text.
 **Pillar:** Transparency & Industry Education
 **Field Note pairing:** Same-day Substack Field Note "The Middleman That Skims Your Rebates Before Pass-Through Begins" (PART 1B), which exclusively supports this aggregator concept.
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "PBM Compensation Audit Worksheet" at `rxbs.org/toolkit/pbm-compensation` (the rebate-aggregator stream is the worksheet's lead audit pass).
 
 **Thursday Excellence audit (all 5 components, verified before ship):**
-1. **Format = conceptual single image, 1080 x 1350.** "Jetlagged Rebate" editorial illustration (primary): the rebate dollar flies overseas, gets snipped at each offshore stop, and comes back halved and jetlagged, dramatizing that the "100%" is measured after a layover the audit can't reach. Editorial register (witty, credible, not a cartoon); clean route-map diagram is the fallback. Deliberately NOT the Bypass/Funnel W26 ran the prior Thursday. Five-or-fewer labeled elements, large type, thumbnail-legible per the mobile-feed legibility rule. ✓
+1. **Format = conceptual editorial infographic, 1080 x 1350.** "Rebate Detour, three routes": three dollar-BILL travelers, one per PBM, each routing to its own aggregator (Ascent/Switzerland and Emisar/Ireland overseas; Zinc/US domestic, no plane) and coming back SMALLER (a cut taken, not halved). Business-magazine register (witty, credible, not a cartoon). Deliberately NOT the Bypass/Funnel W26 ran the prior Thursday. Keep each lane to five marks; thumbnail-legible per the mobile-feed legibility rule. ✓
 2. **Hook = confrontational, named-actor reveal.** First line: "Your manufacturer rebates route through a company in Switzerland before your plan ever sees a dollar. Your PBM owns that company." Leads on the foreign-domicile shock (distinct from W26's "100% pass-through" opener); names the PBM as actor, the plan as victim, the offshore entity as the shock. ✓
 3. **Proprietary anchor:** "We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and the affiliated-entity audit-rights clause that would let you reach the aggregator appears in fewer than half of them." Unfakeable, PBS-specific. ✓
 4. **First comment names the same-day Field Note specifically + cross-promo link** (the three audit passes + the worksheet). ✓
@@ -812,19 +812,19 @@ _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's 
 #### Post Copy
 
 ```
-Your manufacturer rebates route through a company in Switzerland before your plan ever sees a dollar. Your PBM owns that company.
+If your PBM is Express Scripts, your rebates route through a company in Switzerland before your plan ever sees a dollar. If it is OptumRx, Ireland. Either way, a middleman your PBM owns takes its cut first.
 
 Here is the part of the rebate chain almost no plan sponsor has been shown. The "100% pass-through" your contract promises is measured AFTER a stop most contracts cannot see.
 
-Before your rebates are counted, they pass through a group purchasing organization that negotiates and collects them. Your PBM owns it. For the three largest PBMs, it is registered overseas:
+Before your rebates are counted, they pass through a group purchasing organization that negotiates and collects them. Your PBM owns it. Your rebates go through exactly one of these, whichever your PBM uses. Two of the big three registered theirs in Europe, beyond your auditor's reach:
 
-1. Ascent Health Services. Rebates for Express Scripts and Cigna. Registered in Switzerland.
+1. Ascent Health Services. Rebates for Express Scripts and Cigna. Registered in Switzerland, 2019.
 
-2. Emisar Pharma Services. Rebates for OptumRx and UnitedHealth. Registered in Ireland.
+2. Emisar Pharma Services. Rebates for OptumRx and UnitedHealth. Registered in Ireland, 2021.
 
-3. Zinc Health Services. Rebates for CVS Caremark.
+3. Zinc Health Services. Rebates for CVS Caremark. Based in the US, 2020, and still a separate company that takes its cut before the count.
 
-The aggregator takes its cut at that layer, in a jurisdiction your audit rights do not reach. Then the PBM passes through 100% of what is left. The contract is technically true. The starting number is the trick. By the FTC's accounting, manufacturers paid these aggregators an estimated $7.6 billion in fees in 2022 alone.
+The aggregator takes its cut at that layer, one ownership step removed from the contract you signed. Then the PBM passes through 100% of what is left. The contract is technically true. The starting number is the trick. By the FTC's accounting, manufacturers paid these aggregators an estimated $7.6 billion in fees in 2022 alone.
 
 This is not theory. In May 2026, three nonprofit hospital systems sued CVS, alleging a vertically integrated mechanism captured margin that pass-through math would never surface. The complaint said it plainly: the scheme could not function without vertical integration. The same week, Pennsylvania's Act 77 study found visible spread pricing retreating under state pressure. The extraction did not stop. It moved offshore, to the layer the audit cannot reach.
 
@@ -847,51 +847,35 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 [SUBSTACK FIELD NOTE URL]
 ```
 
-#### "Jetlagged Rebate" Image Generation Prompt (primary — editorial illustration)
+#### "Three Routes" Rebate-Detour Image Generation Prompt (primary — editorial illustration)
 
-_Register guard: this is a polished business-magazine spot illustration (think The Economist / Bloomberg editorial art), witty but credible, NOT a goofy cartoon. The light personification carries the metaphor; the named stops + fee + "$7.6B" carry the payload. If a regen makes it too cartoonish or mangles the labels, fall back to the clean route-map version below or rebuild in Canva._
+_Register guard: polished business-magazine spot illustration (Economist / Bloomberg editorial art), witty but credible, NOT a goofy cartoon. Dollar-BILL travelers (not coins) carry the metaphor; the named stops + founding years + "$7.6B" carry the payload. **Accuracy locks (all verified FTC / House Oversight / Healthcare Uncovered):** (1) a single employer's rebates aggregate at ONLY ONE of the three, so this is three SEPARATE cases, one per PBM, each with its own US start; (2) only TWO are overseas, Ascent in Switzerland and Emisar in Ireland, so ZINC is a short DOMESTIC hop with no plane and no ocean; (3) stamps carry the FOUNDING YEAR (Ascent 2019, Emisar 2021, Zinc 2020), not invented dates; (4) the rebate "comes back SMALLER," not halved (the aggregator takes a cut, a portion, not 50%). If a regen mangles labels or reads too cartoonish, dial back the personification or rebuild in Canva._
 
-> A clean editorial spot illustration, 1080 x 1350 pixels (4:5 vertical), on a white (#FFFFFF) background with generous negative space, IBM Plex Sans typography. Flat vector shapes with subtle shading, tasteful and credible business-magazine style, NOT a goofy cartoon.
+> A clean editorial infographic, 1080 x 1350 pixels (4:5 vertical), white (#FFFFFF) background, generous spacing, IBM Plex Sans typography. Business-magazine spot-illustration style, flat vector with subtle shading, witty but credible, NOT a goofy cartoon.
 >
-> The scene tells a left-to-right round-trip journey. Bottom-left, a departure point labeled "YOUR REBATE" in Primary Blue (#015880): a single crisp, upright, full-size rounded dollar character (a dollar token with a small calm face) pulling a tiny rolling suitcase and holding a boarding pass, looking fresh and healthy.
+> Top: two-tone headline on a clean white band, Plex Sans SemiBold: "Your rebate makes a stop" in Gray (#4D4D4D), and below "you never see" in Primary Blue (#015880), 60-76pt. Subtitle in Plex Mono Medium, Gray (#4D4D4D): "Which stop depends on your PBM. Each takes a cut before 100% pass-through."
 >
-> A dotted flight-path arc in Accent Blue (#A7E0FA) sweeps up and across a thin stylized ocean band (light Accent Blue fill), a small airplane icon mid-arc, making stops drawn as passport-stamp roundels in Primary Blue outline with Plex Mono Medium tabular labels: "SWITZERLAND · ASCENT", "IRELAND · EMISAR", and a third "ZINC · CVS" stamp near the arc if space allows. At each stamp, a small red (#C0392B) scissor/siphon snips a wedge off the traveling dollar, with tiny red "FEE" wedges floating away.
+> Body: three horizontal lanes stacked vertically, each ONE employer's rebate, read left to right. Every lane starts on the left with a small US map pin and a crisp, full-size dollar-BILL character (a rectangular banknote with a small calm face and a tiny rolling suitcase; use dollar BILLS, not coins). A left-margin label in Primary Blue Plex Sans SemiBold names the case.
 >
-> The arc returns down to the bottom-right, where the SAME dollar character arrives at a Gray (#4D4D4D) box labeled "YOUR PLAN", but now visibly HALVED and jetlagged: about half its original size, slightly wrinkled and droopy, under-eye shadows, one small sweat drop, dragging its suitcase. A short red annotation beside it reads "comes back halved". A small Primary Blue Plex Sans SemiBold tag nearby: "100% pass-through, of what's LEFT".
+> Lane 1, label "IF YOUR PBM IS EXPRESS SCRIPTS / CIGNA": a dotted Accent Blue (#A7E0FA) flight arc with a small airplane crosses a thin light-Accent-Blue ocean strip to a passport-stamp roundel in Primary Blue outline reading "ASCENT · SWITZERLAND · 2019" (Plex Mono Medium, tabular). A small red (#C0392B) scissor snips a wedge off the bill (a red "FEE" wedge floats away). The bill returns to the right visibly SMALLER.
 >
-> A single bold red (#C0392B) Plex Mono callout near the ocean band reads "$7.6B in fees, 2022 (FTC)".
+> Lane 2, label "IF IT IS OPTUMRX / UNITEDHEALTH": same structure, flight arc with airplane over the ocean strip to a stamp "EMISAR · IRELAND · 2021"; red fee snipped; the bill returns smaller.
 >
-> Two-tone headline across the top on a clean white band, Plex Sans SemiBold: "Your rebate takes a trip" in Gray (#4D4D4D), and immediately below "you never see the itinerary" in Primary Blue (#015880), 60-76pt. Subtitle in Plex Mono Medium, Gray (#4D4D4D): "Measured after the offshore layover".
+> Lane 3, label "IF IT IS CVS CAREMARK": NO ocean and NO airplane, this route is domestic, a long CROSS-COUNTRY CAR RIDE. A long winding dotted Accent Blue road/highway with a small car icon travels across a stylized US strip to a passport-style stamp "ZINC · UNITED STATES · 2020"; a red (#C0392B) scissor snips a wedge off the bill (a red "FEE" wedge floats away). The bill returns to the right SMALLER and a little road-weary (slightly rumpled and dusty, not jetlagged). A tiny Gray (#4D4D4D) note under this lane: "Zinc is US-based, still a separate company that takes a cut."
 >
-> Footer line, small, bottom-center, Plex Mono Medium Gray (#4D4D4D): "rxbs.org". Reserve empty space at the bottom-right for a logo (do not draw one).
+> At the right end of all three lanes, each smaller dollar bill lands beside a single shared Gray (#4D4D4D) box labeled "YOUR PLAN", with a red (#C0392B) annotation "comes back smaller" (NOT halved) and a small Primary Blue tag "then 100% pass-through, of what's LEFT".
 >
-> Style: clean flat editorial illustration, credible and lightly witty, never slapstick. High contrast, large bold labels, thumbnail-legible, no more than the flight arc, two-or-three passport stamps, and the two dollar states (fresh vs. jetlagged) competing for attention. No grid-pattern background, no photographs, no real logos, no PBM logos. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), and a single red (#C0392B) for the fee/diminishment accent only. Title in IBM Plex Sans SemiBold (clinical-credibility register), never a condensed poster face.
+> A single bold red (#C0392B) Plex Mono callout centered below the lanes: "$7.6B in fees, 2022 (FTC)".
+>
+> Footer, small, bottom-center, Plex Mono Medium Gray (#4D4D4D): "rxbs.org". Reserve empty space at bottom-right for a logo (do not draw one).
+>
+> Style: clean flat editorial illustration, credible and lightly witty, never slapstick. Dollar-BILL characters, not coins. High contrast, large bold labels, thumbnail-legible; keep each lane simple (start bill, one arc, one stamp, one fee, smaller bill). No grid-pattern background, no photographs, no real logos, no PBM logos. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), and a single red (#C0392B) for the fee/diminishment accent only. Title in IBM Plex Sans SemiBold (clinical-credibility register), never a condensed poster face.
 
-_Pill variant (optional): swap the traveling dollar for a pill capsule with a suitcase if the pharmacy read is wanted over the money read; the "comes back halved" beat works the same (capsule returns cracked / half-empty). The dollar is the default because the story is rebate money, not the drug._
-
-#### Offshore Route Map Image Generation Prompt (fallback — clean diagram, no character)
-
-> A clean, modern conceptual infographic, 1080 x 1350 pixels (4:5 vertical), white (#FFFFFF) background with generous negative space, IBM Plex Sans typography. The composition is a stylized left-to-right money-route map, NOT a vertical funnel or pipe.
->
-> On the left, a flat-design factory / manufacturer icon in Primary Blue (#015880) labeled "MANUFACTURER REBATE" in Plex Sans SemiBold, with a single large rounded dollar token leaving it.
->
-> A curved dotted route line in Accent Blue (#A7E0FA) arcs up and to the right across a thin stylized ocean band (light Accent Blue fill) to two offshore map-pin markers in Primary Blue, stacked and labeled "SWITZERLAND" and "IRELAND" in Plex Sans SemiBold. At those pins, a bold red (#C0392B) siphon arrow pulls a smaller dollar token off the route into a red box labeled "AGGREGATOR FEE," with a short handwritten-style red annotation beside it: "cut taken offshore, before the count."
->
-> The dotted route then arcs back down and to the right to a Gray (#4D4D4D) box labeled "YOUR PLAN" holding a visibly smaller dollar token, beside a Primary Blue Plex Sans SemiBold gate label "100% PASS-THROUGH" with a small red note: "of what is LEFT."
->
-> Beneath the route, three offshore entity cards in a row, each a rounded outline card with Plex Mono Medium tabular text, large enough to read at thumbnail size: "ASCENT · Cigna / Express Scripts · Switzerland", "EMISAR · UnitedHealth / OptumRx · Ireland", "ZINC · CVS Caremark".
->
-> A single bold red (#C0392B) Plex Mono callout near the ocean band reads: "$7.6B in fees, 2022 (FTC)".
->
-> Two-tone headline across the top on a clean white band, Plex Sans SemiBold: "Your rebates take a detour" in Gray (#4D4D4D), and immediately below "through Switzerland" in Primary Blue (#015880), with "Switzerland" the largest word, 64-80pt. Subtitle in Plex Mono Medium, Gray (#4D4D4D): "Measured in a country your audit can't reach."
->
-> Footer line, small, bottom-center, Plex Mono Medium Gray (#4D4D4D): "rxbs.org". Reserve empty space at the bottom-right for a logo (do not draw one).
->
-> Style: clean flat corporate infographic, NOT photoreal. High contrast, large bold labels, no more than five labeled elements competing for attention (manufacturer in, the offshore route, the fee siphon, the three entity cards as one cluster, plan out). No grid-pattern background. No logos, no PBM logos, no people. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), and a single red (#C0392B) for the offshore-fee accent only. Title rendered in IBM Plex Sans SemiBold (clinical-credibility register), never a condensed poster face.
+_Legibility note: three lanes is denser than the usual five-item cap, so keep each lane to five marks max and preview at ~400px. If it reads busy at thumbnail, either drop to a two-lane "overseas" version (Ascent + Emisar) with Zinc in a footer line, or run each case as its own slide in a 3-slide carousel. Pill variant (optional): swap the dollar bills for pill capsules with suitcases if the pharmacy read is wanted over the money read; "comes back smaller" works the same (a partly-empty capsule). Dollar bill is the default because the story is rebate money, not the drug._
 
 **Post-Generation Steps:**
 1. Generate base image using the prompt above (ChatGPT / Gemini clean-conceptual path; Canva fallback if text mangles)
-2. Open in Canva at 1080 x 1350 px and run the mandatory mobile-feed legibility check: preview at ~400px wide. The headline, the "REBATE AGGREGATOR (PBM-OWNED, OFFSHORE)" valve label, and the three ASCENT / EMISAR / ZINC tags must be readable at thumbnail. Enlarge anything that is not.
+2. Open in Canva at 1080 x 1350 px and run the mandatory mobile-feed legibility check: preview at ~400px wide. The headline, the three lane labels (Express Scripts/Cigna, OptumRx/UnitedHealth, CVS Caremark), and the three stamps (ASCENT/Switzerland/2019, EMISAR/Ireland/2021, ZINC/US/2020) must be readable at thumbnail. Enlarge anything that is not.
 3. Verify the red "AGGREGATOR FEE" siphon and the "100% of what is LEFT" note read distinctly from the Accent Blue elements (color-contrast check)
 4. Confirm the three aggregator tags render with the CORRECT parent mapping (Ascent → Cigna, Emisar → UnitedHealth, Zinc → CVS); a common AI failure is to scramble or duplicate the labels
 5. Add small PBS logo (color version) bottom-right, 80-100px, in Canva (logos never go in the generation prompt)
@@ -1271,7 +1255,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
 - [ ] Tuesday: Post 97 Library 05 Contract Comparison Carousel at 10:00 AM + First Comment + Reshare 1:30 PM
 - [ ] Wednesday: Post 98 Strong POV text at 10:00 AM
-- [ ] Thursday: Field Note ("The Middleman That Skims Your Rebates Before Pass-Through Begins") at 7:30 AM, Post 99 Offshore Rebate Aggregator Reveal (Jetlagged Rebate illustration) at 10:00 AM + first comment + Reshare 1:30 PM
+- [ ] Thursday: Field Note ("The Middleman That Skims Your Rebates Before Pass-Through Begins") at 7:30 AM, Post 99 Offshore Rebate Aggregator Reveal (Rebate Detour illustration, three routes) at 10:00 AM + first comment + Reshare 1:30 PM
 - [ ] Friday: Post 100 Tease Hook at 10:00 AM
 - [ ] Daily Substack Notes per schedule
 - [ ] Continue tracking 10:00 AM posting time performance
@@ -1283,7 +1267,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 97 Library 05 Contract Comparison Carousel | 7 slides (1080x1350 each) | "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library NN series entry on performance-review data / methodology / benchmarking / specialty-routing disclosure / findings clauses, Broker/Consultant Resources pillar |
-| Post 99 Offshore Route Map (Detour Through Switzerland) | Single image (1080x1350) | Offshore Route Map: manufacturer rebate routes out to offshore markers (Switzerland/Ireland), a fee is siphoned, then returns to the plan diminished; three named entity cards (Ascent/Emisar/Zinc) + $7.6B FTC callout. Deliberately NOT the Bypass/Funnel W26 used. Mobile-legibility check required. Verify correct parent mapping (Ascent→Cigna, Emisar→UnitedHealth, Zinc→CVS) |
+| Post 99 Rebate Detour (three routes) | Single image (1080x1350) | Three dollar-bill travelers, one per PBM, each routing to its single aggregator and returning SMALLER: two overseas by plane (Ascent/Switzerland 2019, Emisar/Ireland 2021), one a long US cross-country car ride (Zinc/US 2020); founding-year stamps + $7.6B FTC callout. Deliberately NOT the Bypass/Funnel W26 used. Mobile-legibility check required. Verify parent mapping (Ascent→Cigna, Emisar→UnitedHealth, Zinc→CVS) |
 | Substack article header | 2240x1260 | [ ] Design needed |
 | Field Note header (Pass-Through funnel) | 1200x600 | [ ] Design needed |
 | Newsletter header | Standard | [ ] Design needed |
