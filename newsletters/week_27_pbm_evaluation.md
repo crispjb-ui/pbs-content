@@ -35,8 +35,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 8 | 8:30 PM | X | aphorism [C1] | PART 4B · Wed | [ ] |
 | Thu Jul 9 | 7:30 AM | Substack | Field Note: "The Middleman That Skims Your Rebates Before Pass-Through Begins" | PART 1B | [ ] |
 | Thu Jul 9 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 9 | 10:00 AM | LI Feed | Post 99 — "The Offshore Rebate Aggregator Reveal" (Bypass/Funnel messy infographic) | Post 99 | [ ] |
-| Thu Jul 9 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: Offshore rebate aggregator funnel]` | PART 4B · Thu | [ ] |
+| Thu Jul 9 | 10:00 AM | LI Feed | Post 99 — "The Offshore Rebate Aggregator Reveal" (Offshore Route Map infographic) | Post 99 | [ ] |
+| Thu Jul 9 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: Offshore rebate route map]` | PART 4B · Thu | [ ] |
 | Thu Jul 9 | 1:30 PM | LI Company | Reshare of Post 99 | Post 99 Reshare | [ ] |
 | Thu Jul 9 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Jul 9 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
@@ -336,7 +336,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Tone:** Practical, tactical
 **Pillar:** Transparency & Industry Education
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "The Offshore Rebate Aggregator Reveal" Bypass/Funnel messy infographic. The LinkedIn post reveals the hidden offshore middleman that takes a cut before pass-through; this Field Note is the operational follow-on for auditing whether your plan's rebates run through one and how to reach it in the contract.
+**Pairs with:** Thursday LinkedIn "Your Rebates Take a Detour Through Switzerland" Offshore Route Map infographic. The LinkedIn post reveals the hidden offshore middleman that takes a cut before pass-through; this Field Note is the operational follow-on for auditing whether your plan's rebates run through one and how to reach it in the contract.
 **Why this pairing (retargeted June 27, 2026):** Thursday Excellence Rule requires the Field Note to EXCLUSIVELY support the LinkedIn post's concept. The Thursday LinkedIn post was rebuilt from a vocabulary decoder into the offshore rebate-aggregator reveal (the proven ~17.8K shape), so the Field Note was retargeted from "Auditing How Your PBM Actually Makes Money" (the five-compensation-streams audit) to the aggregator audit. The five compensation streams are folded in below as the second audit pass, so the displaced material is reused, not parked. Triple-distinct holds: Monday = PBM evaluation (stay or switch); Tuesday = reporting clauses; Thursday = offshore rebate aggregators. Three distinct subjects.
 
 ---
@@ -787,20 +787,22 @@ This week's Benefit Blind Spots deep dive on evaluating your PBM relationship is
 
 _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: PBM Evaluation Scorecard Overview). The live Thursday post is below._
 
-### Thursday Excellence Slot - The Offshore Rebate Aggregator Reveal — Bypass/Funnel Messy Infographic
+### Thursday Excellence Slot - Your Rebates Take a Detour Through Switzerland (Offshore Route Map)
 
 > **NOTE (June 27, 2026 — Thursday reach rebuild):** This Thursday slot previously ran "5 PBM Compensation Terms Decoded" (Ledger Annotated vocabulary decoder). Vocabulary decoders top out around 4-5K impressions in the summer trough; the genuinely-unknown structural-fact reveal (the offshore rebate-aggregator shape) cleared 17,816 impressions / 40 comments / 33 saves / 18 followers fully organic in early June 2026, roughly 10x the same week's informational posts. Per the CLAUDE.md "Best-kept secret" pattern and the Thursday Excellence Rule, this slot is rebuilt as the named offshore rebate-aggregator reveal: a hidden middleman the PBM owns takes a cut before "100% pass-through" even begins. The W27 deep dive already names the aggregators, the May 2026 CVS lawsuit, and the Pennsylvania Act 77 study, so the citation framing is reused. The five displaced compensation terms were folded into the Field Note as supporting detail (the rebate-aggregator stream is now the lead; the other four sit as the audit follow-on). Original Ledger Annotated decoder content parked: see changelog for `evergreen_visual_backlog.md` parking.
 >
 > **Entity-mapping (verified consistent July 2, 2026):** the sourced mapping (FTC / House Oversight / `shocking_fact_bank.md` entry 1) is Ascent Health Services under Express Scripts / Cigna (Switzerland, 2019), Emisar Pharma Services under OptumRx / UnitedHealth (Ireland, 2021), Zinc Health Services under CVS Caremark (2020). This post, the deep-dive body (Factor 2, ~line 204), and the Field Note all use this correct mapping. No open mapping item remains.
 
-**Format:** Single messy-infographic / clean conceptual Bypass-Funnel hybrid (manufacturer rebate dollar flowing down a pipe, intercepted by a named offshore-GPO valve before the "100% PASS-THROUGH" gate). Photoreal-adjacent annotated aesthetic. 1080 x 1350 px.
+> **NOTE (Jul 2, 2026 — differentiated from W26 to avoid back-to-back repetition):** W26 Thursday (published Jul 2) ran the "Five Manufacturer Payments" Bypass/Funnel reveal, which shares this post's funnel visual, its "Your PBM passes through 100% of rebates…" opener, its PBS anchor, its hashtags, its toolkit, AND names Ascent/Emisar/Zinc as its point #5 — so the original W27 read as a zoom-in on W26. The SUBSTANCE here (the offshore aggregator, the $7.6B FTC fee figure, the May 2026 CVS vertical-integration lawsuit, the foreign-domicile angle) is unique and stays. What changed: the VISUAL moved off the Bypass/Funnel to an **Offshore Route Map** (W26 owns the funnel now), the HOOK now leads on the Switzerland/foreign-domicile shock instead of reusing the "100% pass-through" opener, the copy leans harder into the vertical-integration/lawsuit thread this deep dive is built on, and the hashtag topic slot swapped (#Rebates → #DrugPricing) per the no-repeat-consecutive rule.
+
+**Format:** Single clean conceptual **Offshore Route Map** infographic (the rebate dollar's left-to-right journey out to offshore markers in Switzerland/Ireland where a fee is siphoned, then back to the plan diminished). Deliberately NOT the Bypass/Funnel W26 used. 1080 x 1350 px. Renders reliably in ChatGPT / Gemini; Canva fallback if a regen mangles text.
 **Pillar:** Transparency & Industry Education
 **Field Note pairing:** Same-day Substack Field Note "The Middleman That Skims Your Rebates Before Pass-Through Begins" (PART 1B), which exclusively supports this aggregator concept.
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "PBM Compensation Audit Worksheet" at `rxbs.org/toolkit/pbm-compensation` (the rebate-aggregator stream is the worksheet's lead audit pass).
 
 **Thursday Excellence audit (all 5 components, verified before ship):**
-1. **Format = messy infographic / photoreal-adjacent single image, 1080 x 1350.** Bypass-Funnel conceptual: dramatizes the thesis (money routes around the "100%" gate). Five-or-fewer labeled elements, large type, thumbnail-legible per the mobile-feed legibility rule. ✓
-2. **Hook = confrontational, named-actor reveal.** First line: "Your PBM passes through 100% of your rebates. The middleman it owns does not have to." Names the PBM as actor, the plan as victim, the hidden entity as the shock. ✓
+1. **Format = clean conceptual single image, 1080 x 1350.** Offshore Route Map: the rebate dollar's journey out to offshore markers and back diminished, dramatizing that the "100%" is measured in a jurisdiction the audit can't reach. Deliberately NOT the Bypass/Funnel W26 ran the prior Thursday. Five-or-fewer labeled elements, large type, thumbnail-legible per the mobile-feed legibility rule. ✓
+2. **Hook = confrontational, named-actor reveal.** First line: "Your manufacturer rebates route through a company in Switzerland before your plan ever sees a dollar. Your PBM owns that company." Leads on the foreign-domicile shock (distinct from W26's "100% pass-through" opener); names the PBM as actor, the plan as victim, the offshore entity as the shock. ✓
 3. **Proprietary anchor:** "We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and the affiliated-entity audit-rights clause that would let you reach the aggregator appears in fewer than half of them." Unfakeable, PBS-specific. ✓
 4. **First comment names the same-day Field Note specifically + cross-promo link** (the three audit passes + the worksheet). ✓
 5. **Field Note exclusively supports this concept:** retargeted to "The Middleman That Skims Your Rebates Before Pass-Through Begins" — the operational audit follow-on for reaching the aggregator. ✓
@@ -810,29 +812,29 @@ _The PBM Evaluation Scorecard Overview infographic was repurposed into Monday's 
 #### Post Copy
 
 ```
-Your PBM passes through 100% of your rebates. The middleman it owns does not have to.
+Your manufacturer rebates route through a company in Switzerland before your plan ever sees a dollar. Your PBM owns that company.
 
-Here is the part of the rebate chain almost no plan sponsor has been shown.
+Here is the part of the rebate chain almost no plan sponsor has been shown. The "100% pass-through" your contract promises is measured AFTER a stop most contracts cannot see.
 
-Before your manufacturer rebates ever reach the "100% pass-through" your contract promises, they pass through a separate company that negotiates and collects them. That company is a group purchasing organization. Your PBM owns it. And for the three largest PBMs, it is registered offshore:
+Before your rebates are counted, they pass through a group purchasing organization that negotiates and collects them. Your PBM owns it. For the three largest PBMs, it is registered overseas:
 
-1. Ascent Health Services. Negotiates rebates for Express Scripts and Cigna. Registered in Switzerland.
+1. Ascent Health Services. Rebates for Express Scripts and Cigna. Registered in Switzerland.
 
-2. Emisar Pharma Services. Negotiates rebates for OptumRx and UnitedHealth. Registered in Ireland.
+2. Emisar Pharma Services. Rebates for OptumRx and UnitedHealth. Registered in Ireland.
 
-3. Zinc Health Services. Negotiates rebates for CVS Caremark.
+3. Zinc Health Services. Rebates for CVS Caremark.
 
-The aggregator takes its cut at that layer. Then the PBM passes through 100% of what is left. The contract is technically true. The starting number is the trick. By the FTC's accounting, manufacturers paid these aggregators an estimated $7.6 billion in fees in 2022 alone.
+The aggregator takes its cut at that layer, in a jurisdiction your audit rights do not reach. Then the PBM passes through 100% of what is left. The contract is technically true. The starting number is the trick. By the FTC's accounting, manufacturers paid these aggregators an estimated $7.6 billion in fees in 2022 alone.
 
-This is not theory. In May 2026, three nonprofit hospital systems sued CVS, alleging a vertically integrated mechanism captured spread that pass-through math would never surface. The complaint stated it plainly: the scheme could not function without vertical integration. The same week, Pennsylvania's Act 77 study found visible spread pricing retreating under state pressure. The extraction did not stop. It moved to the layer the audit cannot reach.
+This is not theory. In May 2026, three nonprofit hospital systems sued CVS, alleging a vertically integrated mechanism captured margin that pass-through math would never surface. The complaint said it plainly: the scheme could not function without vertical integration. The same week, Pennsylvania's Act 77 study found visible spread pricing retreating under state pressure. The extraction did not stop. It moved offshore, to the layer the audit cannot reach.
 
-We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and the affiliated-entity audit-rights clause that would let you reach the aggregator appears in fewer than half of them.
+We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and the affiliated-entity audit-rights clause that would let you follow the money to the aggregator appears in fewer than half of them.
 
-"100% pass-through" answers the wrong question. The question is: 100% of what number, measured where.
+"100% pass-through" answers the wrong question. The real question: 100% of what number, measured in what country.
 
 Save this for your next rebate audit.
 
-#PBMTransparency #Rebates #SelfFundedEmployers
+#PBMTransparency #DrugPricing #SelfFundedEmployers
 ```
 
 #### First Comment
@@ -845,25 +847,25 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Bypass/Funnel Image Generation Prompt
+#### Offshore Route Map Image Generation Prompt
 
-> A clean conceptual infographic, 1080 x 1350 pixels (4:5 vertical), white (#FFFFFF) background with generous negative space. The composition shows a vertical money-pipe running top to bottom down the center.
+> A clean, modern conceptual infographic, 1080 x 1350 pixels (4:5 vertical), white (#FFFFFF) background with generous negative space, IBM Plex Sans typography. The composition is a stylized left-to-right money-route map, NOT a vertical funnel or pipe.
 >
-> At the top, a large flat-design icon labeled "MANUFACTURER REBATE" in Primary Blue (#015880) Plex Sans SemiBold, with a single large dollar token entering the top of the pipe.
+> On the left, a flat-design factory / manufacturer icon in Primary Blue (#015880) labeled "MANUFACTURER REBATE" in Plex Sans SemiBold, with a single large rounded dollar token leaving it.
 >
-> Partway down the pipe, a prominent valve / junction box intercepts the flow, drawn in Accent Blue (#A7E0FA) outline and labeled in Primary Blue Plex Sans SemiBold: "REBATE AGGREGATOR (PBM-OWNED, OFFSHORE)." A short branch pipe siphons a smaller dollar token off to the side into a box labeled "AGGREGATOR FEE" in red (#C0392B). A small handwritten-style red annotation beside it reads: "cut taken HERE, before pass-through."
+> A curved dotted route line in Accent Blue (#A7E0FA) arcs up and to the right across a thin stylized ocean band (light Accent Blue fill) to two offshore map-pin markers in Primary Blue, stacked and labeled "SWITZERLAND" and "IRELAND" in Plex Sans SemiBold. At those pins, a bold red (#C0392B) siphon arrow pulls a smaller dollar token off the route into a red box labeled "AGGREGATOR FEE," with a short handwritten-style red annotation beside it: "cut taken offshore, before the count."
 >
-> Below the valve, the pipe continues to a gate labeled in Primary Blue Plex Sans SemiBold: "100% PASS-THROUGH" with a small red note beside it: "100% of what is LEFT."
+> The dotted route then arcs back down and to the right to a Gray (#4D4D4D) box labeled "YOUR PLAN" holding a visibly smaller dollar token, beside a Primary Blue Plex Sans SemiBold gate label "100% PASS-THROUGH" with a small red note: "of what is LEFT."
 >
-> At the bottom, a smaller dollar token exits into a box labeled "YOUR PLAN" in Gray (#4D4D4D).
+> Beneath the route, three offshore entity cards in a row, each a rounded outline card with Plex Mono Medium tabular text, large enough to read at thumbnail size: "ASCENT · Cigna / Express Scripts · Switzerland", "EMISAR · UnitedHealth / OptumRx · Ireland", "ZINC · CVS Caremark".
 >
-> To the right of the aggregator valve, three small stacked tags in Plex Mono Medium, each on its own line, tabular figures, in Primary Blue: "ASCENT · Cigna · Switzerland", "EMISAR · UnitedHealth · Ireland", "ZINC · CVS Caremark". Keep these three tags large enough to read at thumbnail size.
+> A single bold red (#C0392B) Plex Mono callout near the ocean band reads: "$7.6B in fees, 2022 (FTC)".
 >
-> Two-tone headline across the top of the frame in Plex Sans SemiBold: "100% pass-through" in Primary Blue (#015880), and immediately below, "of what number?" in Accent Blue (#A7E0FA), 64-76pt.
+> Two-tone headline across the top on a clean white band, Plex Sans SemiBold: "Your rebates take a detour" in Gray (#4D4D4D), and immediately below "through Switzerland" in Primary Blue (#015880), with "Switzerland" the largest word, 64-80pt. Subtitle in Plex Mono Medium, Gray (#4D4D4D): "Measured in a country your audit can't reach."
 >
-> Footer line, small, bottom-center, Plex Mono Medium Gray (#4D4D4D): "rxbs.org".
+> Footer line, small, bottom-center, Plex Mono Medium Gray (#4D4D4D): "rxbs.org". Reserve empty space at the bottom-right for a logo (do not draw one).
 >
-> Style: clean flat corporate infographic, NOT photoreal. High contrast, large bold labels, no more than five labeled elements competing for attention (manufacturer in, aggregator valve, fee siphon, pass-through gate, plan out). No grid-pattern background. No logos, no PBM logos, no people. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), and a single red (#C0392B) for the intercepted-fee accent only. Title rendered in IBM Plex Sans SemiBold (clinical-credibility register), never a condensed poster face.
+> Style: clean flat corporate infographic, NOT photoreal. High contrast, large bold labels, no more than five labeled elements competing for attention (manufacturer in, the offshore route, the fee siphon, the three entity cards as one cluster, plan out). No grid-pattern background. No logos, no PBM logos, no people. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), and a single red (#C0392B) for the offshore-fee accent only. Title rendered in IBM Plex Sans SemiBold (clinical-credibility register), never a condensed poster face.
 
 **Post-Generation Steps:**
 1. Generate base image using the prompt above (ChatGPT / Gemini clean-conceptual path; Canva fallback if text mangles)
@@ -1123,7 +1125,7 @@ Transparency is the word every PBM uses and the thing every PBM contract is buil
 Formulary exclusions: every year your PBM drops dozens of drugs "for value." Cross-reference the list against which manufacturers paid the biggest rebates. The logic gets clearer. The exclusion isn't clinical. It's leverage, and your members are the chip.
 ```
   First reply (link): rxbs.org/toolkit/step-therapy-override
-- **12:00 PM · Thu-visual amplifier (post AFTER the 10:00 AM LinkedIn post publishes; LinkedIn-first rule). `[VISUAL: Offshore rebate aggregator funnel]`:**
+- **12:00 PM · Thu-visual amplifier (post AFTER the 10:00 AM LinkedIn post publishes; LinkedIn-first rule). `[VISUAL: Offshore rebate route map]`:**
 ```
 The company that actually collects your PBM's drug rebates is registered in Switzerland. Another's in Ireland. Both owned by your PBM. "Pass-through" stops at the water's edge. 100% of what's left, after the offshore middleman took its cut first.
 ```
@@ -1247,7 +1249,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 - [ ] Monday: Substack article at 7:30 AM, LinkedIn Newsletter at 7:45 AM
 - [ ] Tuesday: Post 97 Library 05 Contract Comparison Carousel at 10:00 AM + First Comment + Reshare 1:30 PM
 - [ ] Wednesday: Post 98 Strong POV text at 10:00 AM
-- [ ] Thursday: Field Note ("The Middleman That Skims Your Rebates Before Pass-Through Begins") at 7:30 AM, Post 99 Offshore Rebate Aggregator Reveal (Bypass/Funnel infographic) at 10:00 AM + first comment + Reshare 1:30 PM
+- [ ] Thursday: Field Note ("The Middleman That Skims Your Rebates Before Pass-Through Begins") at 7:30 AM, Post 99 Offshore Rebate Aggregator Reveal (Offshore Route Map infographic) at 10:00 AM + first comment + Reshare 1:30 PM
 - [ ] Friday: Post 100 Tease Hook at 10:00 AM
 - [ ] Daily Substack Notes per schedule
 - [ ] Continue tracking 10:00 AM posting time performance
@@ -1259,7 +1261,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 97 Library 05 Contract Comparison Carousel | 7 slides (1080x1350 each) | "Five Reporting Clauses That Let You Actually Run the PBM Review" — Library NN series entry on performance-review data / methodology / benchmarking / specialty-routing disclosure / findings clauses, Broker/Consultant Resources pillar |
-| Post 99 Offshore Rebate Aggregator Reveal | Single image (1080x1350) | Bypass/Funnel: manufacturer rebate intercepted by named offshore aggregator (Ascent/Emisar/Zinc) before "100% pass-through" gate. Mobile-legibility check required. Verify correct parent mapping (Ascent→Cigna, Emisar→UnitedHealth, Zinc→CVS) |
+| Post 99 Offshore Route Map (Detour Through Switzerland) | Single image (1080x1350) | Offshore Route Map: manufacturer rebate routes out to offshore markers (Switzerland/Ireland), a fee is siphoned, then returns to the plan diminished; three named entity cards (Ascent/Emisar/Zinc) + $7.6B FTC callout. Deliberately NOT the Bypass/Funnel W26 used. Mobile-legibility check required. Verify correct parent mapping (Ascent→Cigna, Emisar→UnitedHealth, Zinc→CVS) |
 | Substack article header | 2240x1260 | [ ] Design needed |
 | Field Note header (Pass-Through funnel) | 1200x600 | [ ] Design needed |
 | Newsletter header | Standard | [ ] Design needed |
