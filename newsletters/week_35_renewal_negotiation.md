@@ -197,6 +197,12 @@ _Embedded messy-infographic for this deep dive, moved here from the former Thurs
 | Gray | #4D4D4D | Item labels, margin notes |
 | Off-white | #F5F5F0 | Background |
 
+#### AI Image Generation Prompt
+
+_Paste into ChatGPT or Gemini (clean-infographic path). After generating: add the PBS logo in Canva (logos never go in the generation prompt); caption the graphic with the disclaimer below if it shows dollar figures or scores._
+
+> A clean, flat corporate infographic, 1080 x 1350 pixels (4:5 vertical), on a white (#FFFFFF) background with generous margins, designed as a printable one-page concept graphic (flat editorial style, not photoreal, no hand-drawn or whiteboard texture). Top: a full-width Primary Blue (#015880) header band about 180px tall containing the two-tone title "Where Your Negotiating Power" in white IBM Plex Sans SemiBold (about 44pt, clinical register, never a condensed poster face) with "Lives" in Accent Blue (#A7E0FA) IBM Plex Sans SemiBold (about 40pt) directly beneath, left-aligned. Center: a single large flat balance-scale icon in Primary Blue (#015880) line style, roughly 520px wide, tilted so the right pan hangs visibly lower than the left, implying the plan sponsor's side is weightier once prepared. The left pan is labeled "PBM's Position" in Gray (#4D4D4D) IBM Plex Sans SemiBold with three small Gray IBM Plex Sans list items beneath it: "their data", "their scenarios", "their timeline". The right pan is filled Accent Blue (#A7E0FA) and labeled "Your Position" in Primary Blue IBM Plex Sans SemiBold with four small Gray list items beneath it: "your data", "your benchmarks", "your term sheet", "your exit options". The fulcrum and the scale's center post are highlighted in Accent Blue with a small Primary Blue fulcrum label. Across the bottom, a single wide callout line in Primary Blue (#015880) IBM Plex Sans SemiBold (about 32pt): "Preparation is the equalizer." Large, high-contrast, thumbnail-legible type throughout, nothing beyond the two labeled pans and the one callout competing for attention. Reserve empty space at the bottom-right for a logo (do not draw one), and place a small footer line "rxbs.org" in Gray (#4D4D4D) IBM Plex Mono at the bottom-left. No grid-pattern background, no photographs, no people, no real logos, no PBM logos. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D).
+
 ---
 
 ### Article Meta

@@ -186,6 +186,12 @@ _Embedded One Number visual for this deep dive, repurposed from the former Thurs
 - **Slide 6 (White):** "1" — "Start with the lever that matches your highest specialty spend."
 - **Slide 7 (Blue):** "Score it before renewal." team@rxbs.org | Benefit Blind Spots
 
+#### AI Image Generation Prompt
+
+_Paste into ChatGPT or Gemini (clean-infographic path). After generating: add the PBS logo in Canva (logos never go in the generation prompt); caption the graphic with the disclaimer below if it shows dollar figures or scores._
+
+> A clean, flat corporate infographic, 1080 x 1350 pixels (4:5 vertical), on a white (#FFFFFF) background with generous margins, designed as a printable one-page scored assessment summary (not photoreal). Top: a full-width Primary Blue (#015880) header band about 180px tall containing the two-tone title "Specialty Management Assessment" in white IBM Plex Sans SemiBold (about 44pt, clinical register, never a condensed poster face) with "Score It Before Renewal" in Accent Blue (#A7E0FA) IBM Plex Sans SemiBold (about 30pt) directly beneath, left-aligned. Body upper third: three evenly spaced stat tiles in a horizontal row, each a rounded Accent Blue (#A7E0FA) tile holding a large number in Primary Blue IBM Plex Mono Medium tabular figures above a Gray (#4D4D4D) IBM Plex Sans caption: tile "8" caption "Management levers"; tile "120" caption "Total points, three dimensions"; tile "1" caption "Start with your highest specialty spend". Body lower two-thirds: three full-width rounded score-band pills stacked vertically, each with a bold traffic-light left cap and a white IBM Plex Sans SemiBold label with a Gray sub-line, all numbers in Plex Mono tabular figures: a Red (#C0392B) pill "Below 60  Significant gaps" sub-line "Your top renewal priority"; an Amber (#F5A623) pill "60 to 90  Moderate" sub-line "Target the bottom three levers"; a Green (#2E7D32) pill "Above 90  Advanced" sub-line "Maintain and watch for emerging gaps". Large, high-contrast, thumbnail-legible type throughout, nothing beyond the three stat tiles and three score bands competing for attention. Reserve empty space at the bottom-right for a logo (do not draw one), and place a small footer line "rxbs.org" in Gray (#4D4D4D) IBM Plex Mono at the bottom-left. No grid-pattern background, no photographs, no people, no real logos, no PBM logos. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), plus the three traffic-light accents Green (#2E7D32), Amber (#F5A623), Red (#C0392B).
+
 ---
 
 ### Article Meta
