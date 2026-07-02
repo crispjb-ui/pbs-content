@@ -67,7 +67,7 @@ Check `wendell_potter_cascade_alignment.md`, `wendell_potter_contributorship_str
 
 ## 6. No dead weight in the live file (new, required)
 - [ ] Zero `REPURPOSED` / `DO NOT SHIP` carcasses left in PART 3.
-- [ ] **Deep-dive-visual rule:** a visual repurposed into the Monday deep dive lives in PART 1 as `### In-Article Visual`, NOT the backlog, NOT a dead block.
+- [ ] **Deep-dive-visual rule:** a visual repurposed into the Monday deep dive lives in PART 1 as `### In-Article Visual`, NOT the backlog, NOT a dead block. **Every `### In-Article Visual` MUST include a ready-to-paste `#### AI Image Generation Prompt`** (ChatGPT/Gemini path), not just an "Infographic Concept" layout description — the concept alone can't be generated. Write the prompt to the Substack image-prompt recipe + the clean-scorecard/conceptual AI-generation guidance (brand palette, traffic-light coding where scored, IBM Plex Sans SemiBold title not a condensed poster face, thumbnail-legible, no logos in the prompt), with a note to add the PBS logo in Canva after.
 - [ ] Genuinely-parked drafts (paused format / displaced topic, no deep-dive home) moved to `evergreen_visual_backlog.md` or `field_note_backlog.md` with full spec; week file left clean.
 - [ ] Every scheduled slot in the Run of Show has live, schedulable content (or a ⚠ with a clear next action).
 
