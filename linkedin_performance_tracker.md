@@ -205,6 +205,33 @@ _W25 publish week (Renewal Countdown) plus mature re-reads of W24 and the Potter
 
 **W25 takeaway (logged Jun 26, 2026):** Three learnings. **(1) First video read: ~94% completion is excellent, but it was 4:5 (main-feed only, pre-9:16).** Completion is proven for the short-clip format; the 9:16 dual-distribution / video-tab reach lift is **still untested**. **Next video priority: ship a clean 9:16 clip** (the SHRM batch is built 9:16) to test reach now that completion is in hand. **(2) Cuban-repost shape-dependence confirmed at maturity** — the Potter announcement settled at 3,524, no breakout; do not bank a Cuban repost on an off-profile (announcement/origin/informational) shape. **(3) Third consecutive week confirming the shocking-fact gate is load-bearing** — W25 fielded no shocking hidden-structure reveal (the elevated Thursday was a vocabulary/scoreboard decoder at 789), and nothing organic cleared ~1K. The pattern is now unmistakable across W23/W24/W25: a summer week without a genuinely-shocking unknown-fact reveal flatlines. **Drafting implication: every summer week MUST field one shocking-fact reveal as its reach post** (already the gate; treat as non-negotiable). Side notes: the toolkit funnel now registers on Substack (field-note → rxbs.org/toolkit click); **Hylant is surfacing heavily (5-10%, 10% on the Wed POV)** — strongest relationship signal yet; the Wed POV also skewed Insurance 32% / local Greater Indianapolis 7%, slightly off the core plan-sponsor segment.
 
+### Week of W26 (Formulary Management) + W25 maturation — THE ORGANIC BREAKOUT (logged Jul 3, 2026)
+
+**The headline: a shocking-structural-reveal reach post broke out fully ORGANICALLY (no Cuban, no amplifier).**
+
+| Post | Impr | Out-of-net | React·Comm·Repost·Save·Send | Followers | Notes |
+|------|-----:|-----------:|------------------------------|----------:|-------|
+| **W26 Thu — "Five Manufacturer Payments Your PBM Doesn't Call Rebates" (Bypass/Funnel reveal)** | **5,502** | **86%** | 57·21·8·**18**·3 | **+11** | ⭐ ORGANIC breakout. 30 profile viewers. Demo HELD: Senior 27% / 10,001+ 27% / H&HC 25%. The W26 Thursday rebuild (was a step-therapy decoder). |
+| W25 Wed — "Renewal 90 days away" POV (Cuban repost, matured) | 7,890 | 95% | 33·9·4·2·0 | +6 | 411 → 7,890 via Cuban. Borrowed reach: only 2 saves, +6 followers, 4 button clicks / 0 link visits. |
+| W26 Wed — spread-pricing 9:16 VIDEO | 686 | 28% | 18·7·3·1·0 | 0 | 213 video views / 51m24s / **14s avg watch** (below the 4:5's ~94%). 72% in-network = did NOT unlock video-tab reach. |
+| W26 Tue — step-therapy / 600-exclusions decoder | 595 | 56% | 14·7·5·1·1 | +1 | Vocabulary-decoder Tuesday, modest as expected. |
+| W26 Mon — Formulary newsletter | 1,891 | 70% | 17·9·2·1 | +1 | 638 article views / 846 sends / **44% open**. |
+| W25 matured — Termination carousel (Library 04) | 1,201 | 54% | 14·0·3·4·1 | 0 | Bookmark pattern holds (4 saves, low reach). |
+| W25 matured — RFP "winner flipped" / customized-formulary tease | 1,038 / 785 | — | — | +1 / 0 | Vocabulary/scoreboard shapes, soft. |
+
+**Substack (W26):** Mon deep dive "Who Really Controls Your Drug List" 98 views / 39.8% open; Wed roundup 83 / 41.8%; Thu field note "The Five Manufacturer Payments…" 116 / 33.3% **+ a toolkit funnel click (rxbs.org/toolkit/pbm-compensation)**; Thu "Auditing Your Step Therapy Override Workflow" 93 / 32.4% (the pre-rebuild draft double-published at 8:01 alongside the retargeted 8:41 field note — should not recur). **X:** 157 followers (+10), no amplifier; reveal-shaped posts led ("Preferred is a price" 1.3K, "where the PBM makes the most money" 679, "brand pays to block biosimilars" 438, "pass-through most expensive two words" 343) while "ask your PBM" question posts sat at 40-100 — the reveal shape wins on X too.
+
+**Channel totals (as of July 3, 2026):** **2,183 LinkedIn followers** (+57 vs Jun 26 — biggest weekly gain since the W21 anniversary post), **1,126 newsletter subscribers** (+40), **115 Substack subscribers, 2 paid** (+7), **157 X followers** (+10). The +57 is driven by the organic reveal (+11 on one post) + the Cuban POV (+6) + funnel.
+
+**W26 takeaway (logged Jul 3, 2026) — the formula is proven organically:**
+1. **ORGANIC PROOF of the shocking-structural-reveal formula.** 5,502 / 86% out-of-network / +11 followers / 18 saves, no amplifier, audience held dead-center. **Second organic proof** after the offshore-aggregator 17.8K. The causal chain + the 7-element replicable formula are now codified in `shocking_fact_bank.md` → "Why it works." This is the #1 organic conversion engine; it is repeatable and in our control.
+2. **Organic reveal OUT-CONVERTS Cuban amplification per impression:** ~20 vs ~7.6 followers/10K, and 9x the saves (18 vs 2). Cuban gives raw reach to his general audience; the reveal earns reach from the *right* audience → followers + saves. Don't wait on Cuban; field a reveal.
+3. **Cuban rule refined:** his repost DID break out a renewal-urgency POV to 7,890 (unlike the Potter *announcement*, capped 3,524). So the shape-dependence is: dollar-comparison / decoder / named-adversary / **urgency-POV** break out with his repost; pure announcement/origin shapes don't. But Cuban reach converts weakly (2 saves).
+4. **9:16 video reach test = MODEST.** 686 impr / 72% in-network / 14s avg watch (below the 4:5's ~94%); did NOT unlock video-tab reach; the static reveal out-reached it 8:1. Render issues (small captions, cropped hook — see the `video_content_bank.md` 9:16 spec) likely cost it. Re-edit to the safe-zone spec and re-test, but the **static shocking-fact reveal is the proven engine, not video.**
+5. **Substack AEO outbound link is converting** (field-note → toolkit click), and the full Thursday stack (breakout post → field note → toolkit) fired end-to-end organically.
+
+**Drafting implication:** build every Thursday reach post to the `shocking_fact_bank.md` formula. The Q3 rebuilds (W27-W37) are all this shape → the slate is validated; the open test is whether NON-rebate reveals (steering, NADAC, formulary storefront) reach as well.
+
 ### Performance by Format (All-Time Averages)
 
 | Format | Posts | Avg Impressions | Avg Reactions | Avg Comments | Avg Saves | Avg Followers |

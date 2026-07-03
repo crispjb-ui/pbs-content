@@ -14,6 +14,30 @@
 
 ---
 
+## Why it works — the replicable formula (validated ORGANICALLY, Jul 2026)
+
+Two organic breakouts now prove the shape reaches with **no amplifier**: the offshore rebate-aggregator reveal (**17,816**, Jun) and "Five Manufacturer Payments Your PBM Doesn't Call Rebates" (**5,502 impressions / 86% out-of-network / +11 followers / 18 saves / 21 comments, fully organic, no Cuban**, Jul 2 — the W26 Thursday reach post rebuilt from a step-therapy vocabulary decoder). Same week, a Cuban *repost* of a renewal-urgency POV hit 7,890 but converted far worse (**+6 followers, 2 saves**). So the organic reveal **out-converts borrowed reach per impression: ~20 vs ~7.6 followers/10K, and 9x the saves.** Earned reach from the right audience beats borrowed reach from a big account's general audience. (Confirmed on X the same week: reveal-shaped posts led the feed — "Preferred is a price" 1.3K, "where the PBM makes the most money" 679, "pass-through is the most expensive two words" 343 — while "ask your PBM" question posts sat at 40-100.)
+
+**The causal chain (why a reveal goes out-of-network on its own):** a genuinely-unknown structural fact → surprise + self-relevance ("is this on MY contract right now?") → early **saves + comments + dwell** (the high-value signals the 2026 algorithm reads) → it expands out-of-network → because the topic is **plan-sponsor-specific (contract/money/fiduciary, not clinical/pharma)**, out-of-network = MORE buyers, not drift → they follow to get more + save to act on it (compounding). Both breakouts held the demo dead-center (Senior / 10,001+ / Hospitals & Health Care) because the TOPIC self-selects the audience.
+
+**The formula (build every reach reveal to all seven):**
+1. **A genuinely-unknown, verifiable STRUCTURAL fact** (from this bank) — a hidden extraction mechanism, not a decoder ("what X means") and not an opinion. Retire once common knowledge (rule 2).
+2. **Promise-then-loophole hook.** State the protection the reader believes they have ("passes through 100% of rebates," "you can audit your PBM"), then reveal the hidden mechanism that voids it ("…the middleman it owns doesn't have to," "…but the PBM picks the auditor"). The GAP is the hook.
+3. **Countable, checkable payload** ("five payments," "three clauses," "one word") → signals a save-worthy reference the reader can run against their own contract.
+4. **Named actor + named victim** (the PBM hides / your plan pays) → drives comments.
+5. **Proprietary anchor** ("hundreds of contracts a year… on most of them") → makes the shock trustworthy and discussable, not dismissable.
+6. **Conceptual visual that DRAMATIZES the thesis** (Bypass/Funnel, money routing around a gate), legible at ~400px thumbnail → drives the tap AND the save. NOT a dense document (fails at thumbnail).
+7. **Plan-sponsor-specific topic** (contract/money/fiduciary) → out-of-network expansion stays on-buyer.
+**Slot:** Thursday 8:30 AM reach post, triple-distinct from Mon/Tue. **One-line version:** take a hidden extraction mechanism, frame it as "the protection you think you have has a loophole," make it a checklist the reader can run on their own contract, anchor it with proprietary proof, dramatize it with a conceptual visual.
+
+**Shock magnitude varies — rank facts, don't just pick an unused one.** The offshore-aggregator reveal (17.8K) out-reached the manufacturer-payments reveal (5.5K) ~3x because "registered in Switzerland / Ireland" is more novel and visceral than "five payments." Pick the fact with the highest **surprise × self-relevance**, not the first one off the shelf.
+
+**Measurement gate (did the formula fire?):** cleared ~5K+ organic, **double-digit saves**, and **held the plan-sponsor demo** (Senior / 10,001+ / H&HC, not pharma/entry-level). If saves < 8 or the demo drifts, the fact is too-known or too-clinical — rotate it.
+
+**Open test (N=2, both rebate-adjacent):** both organic proofs are rebate / PBM-money reveals. The Q3 rebuilds (owned-pharmacy steering W30, 1-in-5 generics W34, NADAC W35, formulary storefront W36, concentration W31, copay maximizer W29) test whether **non-rebate** structural facts reach as well. If they do, the formula generalizes; if only money-hiding facts pop, that is the true lever. Watch the demo-hold + save count on each.
+
+---
+
 ## The bank
 
 ### 1 · Offshore rebate GPOs _(PROVEN BREAKOUT — the model)_
