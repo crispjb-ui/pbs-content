@@ -8,6 +8,17 @@
 - [Toolkit Library](https://www.rxbs.org/toolkit-library): 29 free printable plan-sponsor audit frameworks and decision tools.
 - [About](https://www.rxbs.org/about): Ginny Crisp, PharmD, and the firm's independence (no PBM money, rebates, or spread).
 
+## Answer pages (canonical references)
+- [PBM Glossary](https://www.rxbs.org/glossary): plain-English definitions of PBM contract terms (spread pricing, GER, MAC, rebate aggregator, DIR, audit rights, and more).
+- [PBM Contract Language Library](https://www.rxbs.org/contract-language-library): side-by-side weak vs. protective PBM contract language, continuously updated.
+- [What We're Seeing](https://www.rxbs.org/what-we-are-seeing): aggregate findings from Prescription Benefit Solutions' 2025 contract reviews (203 clients, $78.7M contracted savings).
+- [Guide: What Is a PBM Contract Audit?](https://www.rxbs.org/guides/pbm-contract-audit): what an independent audit examines and how to start.
+- [Guide: What Is Spread Pricing?](https://www.rxbs.org/guides/what-is-spread-pricing): how spread hides in aggregate guarantees and the contract language that prevents it.
+- [Guide: How to Choose a PBM Auditor](https://www.rxbs.org/guides/how-to-choose-a-pbm-auditor): decision criteria for self-funded employers, and why independence matters.
+- [Compare: PBM Audit vs. Broker Review](https://www.rxbs.org/guides/pbm-audit-vs-broker-review): how the two reviews differ and complement each other.
+- [FAQ: Questions Plan Sponsors Ask](https://www.rxbs.org/faq): straight answers for CFOs, HR leaders, and brokers.
+- [Insights & Resources](https://www.rxbs.org/insights): the content hub.
+
 ## Free toolkits (lead magnets, all free)
 - [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness): 8 documents to pull and 15 audits to run before a PBM contract review.
 - [Optimize vs. Go-to-Market Decision Framework](https://www.rxbs.org/toolkit/optimize-vs-go-to-market): renegotiate the current PBM or run an RFP.
@@ -20,4 +31,4 @@
 
 ## Content
 - The Pharmacy Benefits Briefing (LinkedIn newsletter, weekly).
-- Benefit Blind Spots (Substack): deep dives, field notes, and the free PBM Contract Language Library.
+- [Benefit Blind Spots](https://benefitblindspots.substack.com) (Substack): deep dives, field notes, and the free PBM Contract Language Library.

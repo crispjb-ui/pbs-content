@@ -29,5 +29,17 @@ User-agent: cohere-ai
 Allow: /
 User-agent: Meta-ExternalAgent
 Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: Amazonbot
+Allow: /
+User-agent: DuckAssistBot
+Allow: /
+User-agent: Meta-ExternalFetcher
+Allow: /
+User-agent: MistralAI-User
+Allow: /
+User-agent: YouBot
+Allow: /
 
 Sitemap: https://www.rxbs.org/sitemap.xml

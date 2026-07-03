@@ -2,6 +2,26 @@
 
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
+## 🌐 WEBSITE REVAMP PLAN REVIEW (Jul 3, 2026) — proposals needing Ginny's yes
+_Full review + evidence: `audit_reports/website_revamp_plan_review_2026-07-03.md`. Blueprint defects were fixed + committed same session (FAQ orphan wired in, llms.txt answer-page map, entity @id graph, schema modeling/date fixes, glossary audit-rights/termination terms + anchor URLs, solutions ItemList remodel, hub-page schema — review §3). The plan's architecture validated well against mid-2026 evidence; these are the additions._
+
+**Ginny quick actions (P0, ~1-2 hrs total, before/alongside the Wix build):**
+- [ ] **Verify rxbs.org in Bing Webmaster Tools + confirm IndexNow is on** (Wix-native). ChatGPT retrieves via Bing's index + OAI-SearchBot; weak-in-Bing = largely invisible to the #1 B2B answer engine. Same sitting as the pending GSC sitemap submission.
+- [ ] **Enable Wix "AI Visibility Overview"** in Wix Analytics (native citation/mention/sentiment tracking across ChatGPT/Gemini/Perplexity, launched mid-2026). Automates most of the monthly citation check; the manual 20-prompt tracker stays as ground truth.
+- [ ] **Run the 20-prompt AI-visibility baseline BEFORE the 7 pages go live in Wix** — without a pre-build baseline there's no before/after proof the build moved citations.
+
+**New pages to approve (Claude blueprints each on a yes, in this order):**
+- [ ] **① Ginny Crisp author page** (`/about/ginny-crisp`): ProfilePage + full Person schema; every byline sitewide links to it. The biggest E-E-A-T gap found. Needs from Ginny: headshot, PharmD school (alumniOf), podcast-appearance list.
+- [ ] **② `/results` proof page** (2025 stat band + 2-3 anonymized case studies + testimonials). CLAUDE.md already names the proof page as the canonical home of the 2025 metrics, but it's missing from the URL map. Pairs with the Q3 stat-drip.
+- [ ] **③ "How much does a PBM audit cost?" answer page** — classic high-intent buyer query nobody in the niche answers in crawlable form; a ranges + "how we charge / no PBM money" page wins the citation and pre-qualifies leads.
+- [ ] **④ Individual service money pages** (`/pbm-contract-audit`, `/pharmacy-claims-review`, `/pbm-rfp`) with Service schema + FAQ — the informational guides currently have no commercial twin to hand off to except the generic Solutions page.
+- [ ] **⑤ `/for-brokers` partner page** — pillar-6 persona has no owned page; natural landing surface for the GWCU-style partner funnel.
+- [ ] **⑥ Rebate-aggregator/GPO pillar guide** — the proven 17.8K-impression shock topic has a glossary entry but no owned answer page.
+
+**Workstream elevation (strategy call):**
+- [ ] **Elevate the third-party-mention layer from Phase-5 side-task to co-equal workstream.** 2026 evidence: branded web mentions are the strongest AI-visibility predictor (~3x backlinks); consideration queries get synthesized from listicles + Reddit, which barely exist in this niche (fast dominance available). Concretely: listicle/trade-press pitching (BenefitsPro, EBN vendor roundups), Wikidata now (1 hr), Reddit/Quora cadence starting now rather than after the page builds, and the flagship data report (existing item ⑥ in the approved-queue above) as the Sep–Oct PR centerpiece.
+- [ ] **Transcript-first podcast criterion:** prioritize shows that publish indexable transcripts + YouTube versions (offer to supply the transcript) — add to `podcast_pitching_guide.md` target scoring. Each appearance = branded mention + crawlable expert text + YouTube (a top ChatGPT citation source).
+
 ## ✅ APPROVED — QUEUED FOR BUILD (Jul 1, 2026, from Approvals issue #42)
 _Ginny approved all 7 items in [issue #42](https://github.com/crispjb-ui/pbs-content/issues/42); the two bounded ones (Library-numbering fix + W37 Q2 refresh) shipped in PR #43. The five below are APPROVED and PARKED HERE to build when their natural slot comes up — do NOT build prematurely. Build each as its own review-linked PR and check it off on issue #42 (and remove it here) when it ships. `/build-week` look-ahead + `/pipeline-health` read this section._
 
