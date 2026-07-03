@@ -73,6 +73,12 @@ _(expand to all 20 at baseline; the 7 above are the priority watch set.)_
 | Best / choose an auditor (consideration) | `/guides/how-to-choose-a-pbm-auditor` | queued (#16) |
 | Services / firm | `/solutions`, `/about` | live |
 
+## Instrumentation (added Jul 3, 2026 plan review)
+- **Wix AI Visibility Overview** (native in Wix Analytics, launched mid-2026): automated citation/mention/sentiment tracking across ChatGPT/Gemini/Perplexity + competitor benchmarking. Enable it; it does the monthly heavy lifting. This manual 20-prompt bank stays as ground truth (prompt-sampling coverage differs).
+- **Google Search Console generative-AI performance report** (rolling out since Jun 2026): AI Overviews + AI Mode impressions for rxbs.org. Watch for it appearing on the property; leave Google's AI-grounding toggle ON.
+- **GA4 "AI Assistant" channel** (May 2026): auto-classifies ChatGPT/Claude/Perplexity/Gemini referrals. Caveat: 35-70% of AI referrals arrive referrer-less (land in Direct) — the form's "How did you hear about us?" field is the ground-truth backstop.
+- **KPI hierarchy:** mentions > citations > AI-referred sessions > toolkit conversions. ~62% of AI citations never name the brand ("ghost citations") and Perplexity citations produce a visit only ~12-18% of the time, so track Cited? and named-mention separately when logging.
+
 ## Notes
 - Cross-reference with `geo_seo_plan.md` build order. As owned pages ship to Wix, expect the "Source URL" column to shift from Substack-only (🟨) to rxbs.org (✅). That shift IS the leadership move working.
 - Tie into `/quarterly-research` (deep refresh) and `/system-audit` (monthly maintenance) so this gets run, not forgotten.

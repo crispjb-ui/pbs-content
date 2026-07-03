@@ -50,7 +50,6 @@ FAQPage is the single highest-impact type (your Q&A becomes a direct citation ca
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "Prescription Benefit Solutions",
-  "alternateName": "PBS",
   "url": "https://www.rxbs.org",
   "logo": "https://www.rxbs.org/logo.png",
   "description": "Independent pharmacy-benefits consulting for self-funded employers: PBM contract audits, claims reviews, and contract-language development.",

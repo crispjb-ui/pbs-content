@@ -19,10 +19,16 @@ _Created Jun 20, 2026. The consolidated, sequenced checklist for the entire AEO/
 
 ---
 
+> **📋 Jul 3, 2026 plan review:** full deep-dive review + research pass in `audit_reports/website_revamp_plan_review_2026-07-03.md`. Blueprint defects fixed same session (FAQ orphan wired in, llms.txt answer-page map, entity `@id` graph, schema modeling/date fixes, glossary audit-rights/termination terms + anchor URLs, solutions ItemList remodel, hub-page schema). New rows below are tagged _(Jul 3 review)_; proposals needing Ginny's yes are in OPEN_ITEMS.
+
 ## PHASE 0 — Foundations & quick wins
 | Item | Status | Owner | Where |
 |---|---|---|---|
 | Entity-naming enforced (spell out firm; remove `alternateName: PBS`; sweep site + llms.txt) | ✅ | Claude | site/*.html, llms.txt |
+| **Bing Webmaster Tools verification + confirm IndexNow firing** _(Jul 3 review — ChatGPT retrieves via Bing; same sitting as the GSC sitemap submission)_ | 🟧 | Ginny | one-time, ~30 min |
+| **Enable Wix AI Visibility Overview** (native citation/mention tracking, Wix Analytics) _(Jul 3 review)_ | 🟧 | Ginny | one-time toggle |
+| **Run the AI-visibility baseline BEFORE the 7 pages go live** (so the build has a before/after) _(Jul 3 review — sequencing note on the existing Phase-5 item)_ | 🟧 | Ginny | ai_visibility_tracker.md |
+| **Brand-welded stats rule:** every liftable proprietary stat carries the firm name in the same sentence (anti-ghost-citation) _(Jul 3 review; enforce via §8 gate + /critique)_ | 🔁 | Claude | site + Substack leads |
 | Homepage + About stats band filled with real 2025 figures ($78.7M contracted, 203 plans) | ✅ | Claude | index.html, about.html |
 | `robots.txt` allows AI crawlers (GPTBot, ClaudeBot, PerplexityBot, Google-Extended…) | ✅ | Claude | site/robots.txt |
 | Confirm robots.txt is live + **submit sitemap to Google Search Console + Bing Webmaster Tools** | 🟧 | Ginny | one-time |
