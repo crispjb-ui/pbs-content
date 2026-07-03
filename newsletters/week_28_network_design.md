@@ -35,8 +35,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 15 | 8:30 PM | X | aphorism [C4] | PART 4B · Wed | [ ] |
 | Thu Jul 16 | 7:30 AM | Substack | Field Note: "The 12-Cent Generic Your Plan Paid $9 For" | PART 1B | [ ] |
 | Thu Jul 16 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 16 | 10:00 AM | LI Feed | Post 103 — "A generic that cost the pharmacy 12 cents. Your plan paid $9." (generic-spread hidden-structure REVEAL, Marked-Up Claim messy infographic) | Post 103 | [ ] |
-| Thu Jul 16 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: 12-cent generic claim]` | PART 4B · Thu | [ ] |
+| Thu Jul 16 | 10:00 AM | LI Feed | Post 103 — "A generic that cost the pharmacy 12 cents. Your plan paid $9." (generic-spread hidden-structure REVEAL, "12-Cent Pill in a $9 Museum Frame" conceptual single image) | Post 103 | [ ] |
+| Thu Jul 16 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: 12-cent pill in a $9 museum frame]` | PART 4B · Thu | [ ] |
 | Thu Jul 16 | 1:30 PM | LI Company | Reshare of Post 103 | Post 103 Reshare | [ ] |
 | Thu Jul 16 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Jul 16 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
@@ -626,28 +626,30 @@ This week's Benefit Blind Spots deep dive on pharmacy network design is the oper
 
 _The Network Channel Comparison visual was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Network Channel Comparison). The live Thursday post is below._
 
-### Thursday Excellence Slot - "A generic that cost the pharmacy 12 cents. Your plan paid $9." — Generic-Spread Hidden-Structure REVEAL (Marked-Up Generic Claim messy infographic)
+### Thursday Excellence Slot - "A generic that cost the pharmacy 12 cents. Your plan paid $9." — Generic-Spread Hidden-Structure REVEAL ("12-Cent Pill in a $9 Museum Frame" conceptual single image)
 
 > **NOTE (June 2026 rebuild):** This Thursday slot previously shipped "5 GER Terms Decoded" as a Chart-on-Whiteboard vocabulary decoder. Vocabulary decoders top out ~4-5K impressions in the summer trough; the genuinely-unknown hidden-structure reveal shape clears 15-18K organic and ties to the top-3 all-time PBS post ("generics cost pennies, plans pay dollars," ~39K). Per the CLAUDE.md Thursday Excellence rule and the "best-kept secret / shocking-unknown-fact" pattern, the slot was reshaped into the GENERIC-SPREAD reveal: a generic costs the pharmacy pennies, your plan pays dollars, and the blended generic effective rate (GER) average is engineered to hide which individual claims carry the spread. The five decoded GER terms survive below as supporting detail inside the reveal (the average is the trick, the five terms are how the trick is built) so no content is lost and no standalone decoder ships. Sourced shocking fact woven in: FTC Second Interim Staff Report (Jan 2025) found the big-3 PBMs reimbursed their own affiliated pharmacies as much as 100 percent more than independents for the identical generic (`shocking_fact_bank.md` entry 3, mapped to W28). Earlier "5 Questions About Mail-Order Economics" Slot C carousel remains preserved in `evergreen_visual_backlog.md` as concept #30; the displaced Mail-Order Economics Field Note remains FN-11 in `field_note_backlog.md`.
 
-**Format:** Single messy infographic, Marked-Up Generic Claim photoreal aesthetic (a printed pharmacy claim / adjudication line with red-pen annotations exposing the spread). 1080 x 1350 px. Apply the mobile-feed legibility rule.
+**Format:** Single conceptual image, "12-Cent Pill in a $9 Museum Frame" — one small pill mounted inside an oversized ornate gilded museum picture frame, a tiny "$0.12" price tag on the pill and a "$9.00" placard on the frame, so the absurd gap between the pennies-to-make pill and the $9 the plan paid IS the image. Business-magazine register (witty, credible, not a cartoon). 1080 x 1350 px. Apply the mobile-feed legibility rule: the two dollar figures dominate the center ~70% and read at 400px thumbnail.
 **Pillar:** PBM Contract Insights
 **Field Note pairing:** Same-day Substack Field Note "The 12-Cent Generic Your Plan Paid $9 For" exclusively supports this reveal (the three passes that pull the per-claim spread out from behind the blended GER average).
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout "GER Audit Worksheet" (`templates/documents/week_28_thursday_ger_audit_worksheet.html/.pdf`).
 
 **Thursday Excellence 5-trait audit (all required, all hit):**
-- **(1) Format = messy infographic, photoreal.** Marked-Up Generic Claim (printed adjudication line on a desk, red-pen annotations). Single image 1080 x 1350. ✓
-- **(2) Hook = confrontational, named-actor.** "A generic that cost the pharmacy 12 cents. Your plan paid $9. The PBM set both numbers and kept the difference." Names the PBM as the actor setting both prices; names the plan as the payer. ✓
+- **(1) Format = conceptual single image, photoreal.** "12-Cent Pill in a $9 Museum Frame" (one small pill in an oversized gilded museum frame; $0.12 tag on the pill, $9.00 placard on the frame; the gap IS the image). Dramatizes the reveal like a scene, per the W27 "Rebate Detour" route-map bar. Single image 1080 x 1350. ✓
+- **(2) Hook = confrontational, named-actor, leads with the shock.** First line is the two numbers alone: "12 cents. $9. Same pill." Then "The PBM set both numbers and kept the difference." Names the PBM as the actor setting both prices; names the plan as the payer. Shock leads, mechanism follows. ✓
 - **(3) Proprietary anchor.** "We reconcile generic guarantees against the contract methodology for plan sponsors as a standard part of our work; across hundreds of contract reviews a year, the report shows a blended average that clears the guarantee, and the average is exactly what hides the claims that don't." Unfakeable PBS specificity. ✓
 - **(4) First comment names the same-day Field Note specifically + cross-promo link + toolkit.** Names the three passes and the GER Audit Worksheet by asset. ✓
 - **(5) Field Note exclusively supports this concept.** PART 1B "The 12-Cent Generic Your Plan Paid $9 For" is the operational follow-on for the identical generic-spread / GER-average reveal; no off-theme dilution. ✓
 
-**Winning-profile traits hit (9 of 10):** dollar-comparison shape (12 cents vs. $9, the proven ~39K shape) · named-actor framing (PBM sets both prices) · plan-sponsor-actionable · confrontational hook · messy infographic photoreal format · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic. (Decoder shape folded in as the supporting "how the trick is built" layer rather than the lead.)
+**Winning-profile traits hit (9 of 10):** dollar-comparison shape (12 cents vs. $9, the proven ~39K shape) · named-actor framing (PBM sets both prices) · plan-sponsor-actionable · confrontational hook · conceptual-scene photoreal format (the museum-frame gag dramatizes the thesis, per formula element 6) · first-comment Substack cross-promo · proprietary anchor · save-driven structure · single-image photoreal aesthetic. (Decoder shape folded in as the supporting "how the trick is built" layer rather than the lead.)
 
 #### Post Copy
 
 ```
-A generic that cost the pharmacy 12 cents. Your plan paid $9. The PBM set both numbers and kept the difference.
+12 cents. $9. Same pill.
+
+The pharmacy paid 12 cents for the generic. Your plan paid $9 for it. The PBM set both numbers and kept the difference. Picture that pill hung in a museum frame with a $9 placard: the frame is worth 75 times the thing inside it.
 
 (Those figures are illustrative. The structure is not. It is in most contracts we read.)
 
@@ -686,29 +688,28 @@ Today's Field Note on Benefit Blind Spots, "The 12-Cent Generic Your Plan Paid $
 [SUBSTACK FIELD NOTE URL — slug generic-spread-ger-average-hides, paste after Thu 7:30 AM publish]
 ```
 
-#### Marked-Up Generic Claim Image Generation Prompt
+#### "12-Cent Pill in a $9 Museum Frame" Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single printed pharmacy claim / adjudication line for one generic drug rests on a dark wood desk, lit by soft natural daylight, no harsh shadows. A red uncapped ballpoint pen lies in the lower-right corner. CRITICAL: this is read in the LinkedIn mobile feed, so the red callouts must DOMINATE the frame and be large and legible. Keep the printed claim's fine print minimal so it never competes with the callouts. No logos, no brand marks, no people, no real names, no PBM names.
+> A photorealistic art-gallery scene, 1080 x 1350 pixels (4:5 vertical), business-magazine register: witty and credible, not a cartoon. A deep Primary Blue (#015880) museum wall fills the frame, lit by a soft gallery spotlight and clean negative space. Centered on the wall hangs one oversized, ornate gilded-gold picture frame, the kind that would surround a masterpiece. But the frame is nearly empty: inside the vast cream matting, dead center, sits one small single white round generic pill, absurdly tiny against all that gold and mat. The joke is the mismatch: a pennies pill treated like a priceless artwork. CRITICAL: this is read in the LinkedIn mobile feed, so the two dollar figures must DOMINATE the center ~70% of the frame and be large and legible at ~400px thumbnail. Keep every other detail minimal. Cap the scene at five elements total. No logos, no brand marks, no people, no real names, no PBM names.
 >
-> Stamped across the top in large red-pen handwriting, double-underlined: The Generic Spread, Decoded
+> Two-tone headline across the top of the wall in IBM Plex Sans SemiBold, large: line 1 "THE 12-CENT PILL" in White, line 2 "IN A $9 FRAME" in Accent Blue (#A7E0FA). The numerals "12" and "9" inside the headline set in IBM Plex Mono, tabular figures.
 >
-> The printed claim shows, in clean type, a single generic drug line with three values stacked and clearly labeled: "PHARMACY ACQUISITION COST: $0.12" / "PLAN PAID (REIMBURSEMENT): $9.00" / "GENERIC EFFECTIVE RATE (BLENDED): meets guarantee". The dollar figures are large enough to read at thumbnail size.
+> Element A: a tiny museum price tag on a string looped around the small pill, reading "$0.12" in IBM Plex Mono Medium, tabular figures, dark ink on off-white card. Small but crisp.
 >
-> Three elements on the claim are circled in red pen, each with a red arrow to a LARGE, high-contrast, bright-red handwritten margin note (well spaced, never thin or cramped):
-> 1. circle the $0.12 and the $9.00 together with one bracket -> "Same PBM set both numbers. Kept the difference."
-> 2. circle "GENERIC EFFECTIVE RATE (BLENDED): meets guarantee" -> "The average clears. This claim hides inside it."
-> 3. a small hand-drawn bell-curve in the margin with one point circled -> "Deep-discount the drugs nobody fills. Mark up the ones everybody does."
+> Element B: a polished brass museum placard mounted on the bottom rail of the gilded frame, engraved in large IBM Plex Mono Medium tabular figures: "$9.00". This is the largest single number in the image, reading instantly at thumbnail.
 >
-> At the bottom, inside a bold hand-drawn red rectangle in large legible red text: Pennies to make. Dollars to your plan. The average is the trick.
+> Element C: a small white museum wall label to the lower right of the frame, in clean IBM Plex Sans, two short lines: "Generic tablet. / Pharmacy cost: 12c. Plan paid: $9.00."
 >
-> Style: realistic off-white printed claim with minimal small print, soft natural daylight, a faint coffee-ring stain in one corner, bright red ballpoint ink with strong contrast, dark wood desk. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style). Any claim text beyond the three labeled values and the callouts is illustrative. No logos, no brand marks, no people, no PBM names.
+> Footer line along the very bottom of the wall in IBM Plex Sans SemiBold, White with the dollar figure in Accent Blue and Plex Mono: "Pennies to make. Dollars to your plan. The PBM set both prices."
+>
+> Style: elegant gallery lighting, rich gilded-gold frame with fine ornamental detail, deep Primary Blue wall, generous negative space, sharp focus on the pill and the two numbers. Restrained and clever, magazine-illustration quality. The $0.12 tag and the $9.00 placard are the two anchors and must be the most legible things in the frame. Any incidental text beyond the labeled numbers and headline is illustrative. No logos, no brand marks, no people, no PBM names.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
-2. **Mobile-legibility pass first.** Preview at ~400px wide (or on a phone). Enlarge or overlay any callout, the "$0.12 / $9.00" values, or the title that is hard to read, in a large bold handwritten red font (Permanent Marker / Caveat / Kalam)
-3. Fix any AI misspellings or mangled dollar figures by overlaying the correct text in matching red (most common AI failure: garbled numbers and repeated callout text)
-4. Verify the "$0.12" and "$9.00" both read cleanly and the bracket connecting them is visible in feed thumbnail
-5. No "Benefit Blind Spots" badge, no PBS logo overlay — the image stands on its own
+2. **Mobile-legibility pass first.** Preview at ~400px wide (or on a phone). Enlarge or overlay the "$0.12" tag, the "$9.00" placard, the two-tone headline, or the footer line if any is hard to read, rebuilding the type in IBM Plex Sans SemiBold (headline/footer) and IBM Plex Mono (the dollar figures, tabular)
+3. Fix any AI misspellings or mangled dollar figures by overlaying the correct text (most common AI failure: garbled numbers and warped small type) — the "$0.12" and "$9.00" must be exact
+4. Verify both dollar figures read cleanly at feed thumbnail size and that the gap between the tiny pill and the huge frame is instantly legible as the joke
+5. Add the small PBS triangle logo in a bottom corner in Canva after generation (never in the generation prompt); no "Benefit Blind Spots" badge
 6. Export as PNG at 1080 x 1350
 
 ---
@@ -1074,7 +1075,7 @@ Ask your PBM for the audit clause and read who picks the auditor, who picks the 
 - [ ] Monday: Substack at 7:30 AM, Newsletter at 7:45 AM
 - [ ] Tuesday: Post 101 GLP-1 Bridge Messy Infographic at 10:00 AM + Comment + Reshare
 - [ ] Wednesday: Post 102 Text/Video at 10:00 AM
-- [ ] Thursday: Field Note "The 12-Cent Generic Your Plan Paid $9 For" at 7:30 AM, Post 103 generic-spread reveal (Marked-Up Generic Claim messy infographic) at 10:00 AM + first comment + Reshare
+- [ ] Thursday: Field Note "The 12-Cent Generic Your Plan Paid $9 For" at 7:30 AM, Post 103 generic-spread reveal ("12-Cent Pill in a $9 Museum Frame" conceptual image) at 10:00 AM + first comment + Reshare
 - [ ] Friday: Post 104 Tease at 10:00 AM
 - [ ] Daily Substack Notes
 - [ ] Continue 10:00 AM time test tracking
@@ -1087,7 +1088,7 @@ Ask your PBM for the audit clause and read who picks the auditor, who picks the 
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 101 GLP-1 Bridge Messy Infographic | Single image (1080x1350) | Photoreal marked-up Medicare GLP-1 Bridge PA form, four red callouts, news-pegged |
-| Post 103 Marked-Up Generic Claim Messy Infographic | Single image (1080x1350) | Generic-spread reveal: $0.12 vs $9.00 on one claim + "the average is the trick"; mobile-legibility pass mandatory on the dollar figures |
+| Post 103 "12-Cent Pill in a $9 Museum Frame" conceptual image | Single image (1080x1350) | Generic-spread reveal: one small pill in an oversized gilded museum frame, $0.12 tag on the pill vs $9.00 placard on the frame; two-tone Plex Sans headline, Plex Mono dollar figures; mobile-legibility pass mandatory on the two numbers; PBS logo added in Canva |
 | Post 102 Video | Vertical 9:16, ~50 sec | SHRM Honest HR clip4 (already rendered) |
 | Substack article header | 2240x1200 | [ ] Design needed |
 | Field Note header (12-cent / nine-dollar price tags) | 1200x600 (gen 2240x1260) | [ ] Design needed |
