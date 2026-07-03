@@ -1,5 +1,9 @@
 import fitz, re, glob, os
 
+# 1-page by design: relationship/one-pager documents (not audit worksheets)
+EXPECT1 = {
+    "broker_partner_one_pager",  # Broker Partner Program one-pager (Jul 3, 2026, broker_partner_track.md)
+}
 EXPECT3 = {
     "evergreen_contract_review_readiness_checklist",
     "evergreen_optimize_vs_go_to_market_decision_framework",
@@ -7,18 +11,21 @@ EXPECT3 = {
     "week_24_thursday_contract_amendment_letter",
 }
 FOOT = re.compile(r"rxbs\.org|Benefit Blind Spots", re.I)
-PGNUM = re.compile(r"^\s*(page\s*)?\d+\s*(of\s*\d+)?\s*$", re.I)
+PGNUM = re.compile(r"^\s*(page\s*)?\d+\s*((of|/)\s*\d+)?\s*$", re.I)
 
 rows = []
 for pdf in sorted(glob.glob("*.pdf")):
     base = pdf[:-4]
-    expect = 3 if base in EXPECT3 else 2
+    expect = 3 if base in EXPECT3 else (1 if base in EXPECT1 else 2)
     doc = fitz.open(pdf)
     n = doc.page_count
     flags = []
     for i, pg in enumerate(doc):
         H = pg.rect.height
         foot_rects = pg.search_for("rxbs.org") or pg.search_for("Benefit Blind Spots")
+        # footer lives in the bottom quarter of the sheet; in-body rxbs.org
+        # mentions (contact lines, toolkit links) must not masquerade as it
+        foot_rects = [r for r in foot_rects if r.y0 > H * 0.75]
         foot_top = min((r.y0 for r in foot_rects), default=None)
         # lowest body text (exclude footer + page-number-only blocks)
         body_max = 0.0

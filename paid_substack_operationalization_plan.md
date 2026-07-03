@@ -4,6 +4,8 @@
 
 > **Last updated:** May 9, 2026.
 
+> **⏸ STATUS: ON HOLD (~12 months, decided July 3, 2026, Ginny-approved via the 6-month strategy audit `strategy_audit_2026_07.md`).** Actuals after ~5 months: 2 paid subs, ~$160, versus one consulting engagement averaging six figures in client value. The free Substack keeps doing its real jobs (crawlable AI-citation surface + gated-PDF lead capture). Do not invest further sessions in paid-tier buildout; revisit this plan if free subs pass ~500 or Ginny reopens it. Existing paid subscribers keep receiving what they were promised.
+
 ---
 
 ## The strategic frame (read first)
