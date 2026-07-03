@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (Library 06 week; the Thursday reach slot is the live "Cash Beats Your Copay: The Clawback at the Counter" receipt/EOB messy infographic — rebuilt June 27, 2026 from the prior transition-clause vocabulary decoder into a shocking hidden-structure reveal per the measured data; the repurposed Whiteboard checklist now lives in PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content (Library 06 week; the Thursday reach slot is the live "Cash Beats Your Copay: The Clawback at the Counter" checkout-fork conceptual infographic — rebuilt June 27, 2026 from the prior transition-clause vocabulary decoder into a shocking hidden-structure reveal per the measured data, then the visual elevated July 3, 2026 from a dense receipt/EOB into a single checkout-fork scene that dramatizes the reveal per the shocking-fact formula; the repurposed Whiteboard checklist now lives in PART 1 as an In-Article Visual)._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -38,9 +38,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Aug 19 | 8:30 PM | X | aphorism [C9] | PART 4B · Wed | [ ] |
 | Thu Aug 20 | 7:30 AM | Substack | Field Note: "Why Is the Cash Price Lower Than My Copay? (The Clawback, Explained)" | PART 1B | [ ] |
 | Thu Aug 20 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 20 | 10:00 AM | LI Feed | Post 123 — "Cash Beats Your Copay: The Clawback at the Counter" (receipt/EOB messy infographic · clawback reveal) | Post 123 | [ ] |
+| Thu Aug 20 | 10:00 AM | LI Feed | Post 123 — "Cash Beats Your Copay: The Clawback at the Counter" (checkout-fork conceptual infographic · clawback reveal) | Post 123 | [ ] |
 | Thu Aug 20 | 10:05 AM | LI Feed | Post 123 first comment | Post 123 | [ ] |
-| Thu Aug 20 | 12:00 PM | X | Thu-visual amplifier [VISUAL: cash-beats-copay clawback receipt] (after 10 AM) | PART 4B · Thu | [ ] |
+| Thu Aug 20 | 12:00 PM | X | Thu-visual amplifier [VISUAL: cash-beats-copay checkout-fork scene] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 20 | 1:30 PM | LI Company | Reshare of Post 123 | Post 123 Reshare | [ ] |
 | Thu Aug 20 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 20 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -251,7 +251,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Length:** ~600 words (~3 min read)
 **Pillar:** Transparency & Industry Education
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "Cash Beats Your Copay: The Clawback at the Counter" receipt/EOB messy infographic. LinkedIn post lands the shock (cash beats the copay; the PBM claws back the difference); Field Note exclusively supports it — what a clawback is, why cash sometimes beats the copay on generics, the audit pass that surfaces the overpaid claims on your own plan, and the member-communication language that tells employees to ask.
+**Pairs with:** Thursday LinkedIn "Cash Beats Your Copay: The Clawback at the Counter" checkout-fork conceptual infographic. LinkedIn post lands the shock (cash beats the copay; the PBM claws back the difference); Field Note exclusively supports it — what a clawback is, why cash sometimes beats the copay on generics, the audit pass that surfaces the overpaid claims on your own plan, and the member-communication language that tells employees to ask.
 **Why this pairing (June 27, 2026 retarget):** The Thursday reach post was rebuilt from a transition-clause vocabulary decoder into the copay-clawback hidden-structure reveal (measured: reveals clear 15-18K in the summer trough, decoders ~4-5K). The Field Note is retargeted to exclusively support that reveal. Triple-distinct holds: Monday = member communication (messaging strategy) · Tuesday = Library 06 (Q4 broker contract clauses) · Thursday = cash-beats-copay clawback (member-facing pricing reveal). The displaced "Auditing Your Member Transition Disruption Clauses" draft is homeless; note it for `field_note_backlog.md` as **FN-17** (Transparency / PBM Contract Insights; re-anchoring note: refresh the "this morning's LinkedIn post decoded the five clauses" opener, which assumes a transition-decoder LinkedIn pairing that no longer ships this week). The original "Provider Communication" draft remains parked as FN-16.
 
 **Display Title:** Why Is the Cash Price Lower Than My Copay? (The Clawback, Explained)
@@ -606,17 +606,17 @@ This week's Benefit Blind Spots deep dive on communicating pharmacy changes is t
 
 _The "Member Communication Checklist" Whiteboard Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
-### Thursday Excellence Slot - Cash Beats Your Copay: The Clawback at the Counter — Receipt/EOB Messy Infographic
+### Thursday Excellence Slot - Cash Beats Your Copay: The Clawback at the Counter — Checkout-Fork Conceptual Infographic
 
 > **NOTE (June 27, 2026 rebuild):** This Thursday reach slot was rebuilt from a "5 Member Transition Disruption Terms Decoded" Marked-Up Plan Document Page vocabulary decoder into a **shocking hidden-structure reveal** per the measured data (vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough). New reveal: the **copay clawback** — for many generics the cash price is lower than the member's insured copay, and the PBM claws back the difference at the counter. Strongest member-facing affordability reveal and a clean fit for W33 Member Communication (the thing your employees actually experience at the pharmacy). The displaced transition-clause decoded terms are folded into the new Field Note as supporting detail; the old transition-audit Field Note draft is noted for `field_note_backlog.md` (FN-17). Sourced from `shocking_fact_bank.md` pipeline candidate "PBM cash-vs-claim gap," now verified (USC Schaeffer 2018; Patient Right to Know Drug Prices Act of 2018).
 
-**Format:** Single messy infographic, photoreal **pharmacy-receipt / EOB aesthetic** — a printed pharmacy receipt on a counter beside a phone showing the GoodRx / Cost Plus cash price for the same generic, with handwritten annotations circling the gap. 1080 x 1350 px. ≤5 elements, mobile-legible (the cash-vs-copay number contrast dominates the center ~70% of the frame, readable at ~400px thumbnail). The receipt/EOB "cash $X vs copay $Y on the same generic" composition is the payload.
+**Format:** Single conceptual scene infographic, **business-magazine editorial register** — a pharmacy checkout with two lanes/paths at the counter: an open, calm "PAY CASH" lane showing the lower price and a lit-up, warning-toned "USE YOUR INSURANCE" lane showing the higher price (the trap), with the difference visibly streaming back to a "PBM" figure behind the counter. The counterintuitive shock (your insurance is the MORE expensive option) IS the image. Deliberately a CHECKOUT-COUNTER scene, not a road / fork-in-the-road (W30 owns the maze/steering device). This is the "money routes around a gate" dramatization the shocking-fact formula (element 6) calls for, and it reads far better at ~400px thumbnail than a dense receipt. 1080 x 1350 px. ≤5 elements, mobile-legible (the two lane prices and the flow-back dominate the center ~70% of the frame). Illustrative figures ($80 cash vs $300 insurance, ~$220 difference); the on-image disclaimer and post copy both carry "Illustrative example for educational purposes. Actual amounts vary by plan."
 **Pillar:** Transparency & Industry Education (different from Monday's Member Communication topic; different from Tuesday's Library 06 contract clauses)
 **Field Note pairing:** Same-day Substack Field Note "Why Is the Cash Price Lower Than My Copay? (The Clawback, Explained)."
 **Reference document pairing:** Refers back to the existing live **Copay Card Financial Impact Calculator** toolkit (`rxbs.org/toolkit/copay-card-calculator`) per the refer-back-first rule — no new toolkit minted (the copay/cash-price mechanic is already covered).
 
 **Thursday Excellence 5-trait audit (all 5 required, all hit):**
-1. **Format = messy infographic, photoreal.** Pharmacy-receipt / EOB photoreal, single image 1080x1350, mobile-legible, ≤5 elements. ✓
+1. **Format = single conceptual scene infographic that dramatizes the reveal.** Checkout-fork "money routes around a gate" scene (shocking-fact formula element 6: dramatize the thesis, not a dense document), business-magazine register, single image 1080x1350, mobile-legible, ≤5 elements. ✓
 2. **Hook = confrontational, named-actor.** Names the PBM as the actor keeping the difference and the member as the one penalized for using insurance. ✓
 3. **Proprietary anchor (varied).** "We sort client claims by where the member's copay exceeded the plan's own net cost" — a PBS audit specific, not the repeated "hundreds of contracts" line. ✓
 4. **First comment names the same-day Field Note specifically + refers back to a live toolkit.** ✓
@@ -625,7 +625,7 @@ _The "Member Communication Checklist" Whiteboard Carousel was repurposed into Mo
 #### Post Copy
 
 ```
-For some of your employees' generics, the cash price is lower than the copay your plan charges them. They are paying more because they used their insurance, and the difference goes back to the PBM.
+Your insurance is sometimes the more expensive way for your employees to buy a generic. At the counter, cash is the lower price and the copay your plan charges is the higher one. They pay more for using the benefit you fund, and the difference goes back to the PBM.
 
 It has a name. The clawback. The member's copay is set higher than what the PBM reimbursed the pharmacy for the drug, the pharmacy collects the higher copay at the counter, and the PBM claws back the spread. On a cheap generic, the whole copay can exceed the drug's actual cost.
 
@@ -656,19 +656,32 @@ Field Note: [SUBSTACK FIELD NOTE URL]
 And to model what your members actually pay vs. the assistance and cash alternatives, this week's companion is the Copay Card Financial Impact Calculator: rxbs.org/toolkit/copay-card-calculator
 ```
 
-#### Receipt / EOB Messy Infographic Image Generation Prompt
+#### Checkout-Fork Conceptual Infographic Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed white pharmacy receipt rests on a light wood pharmacy counter under soft natural daylight, slightly curled at the bottom edge. Beside it, angled, is a smartphone showing a clean price screen. The composition has FIVE legible elements and nothing else; keep the center ~70% of the frame dominated by the price contrast so it reads at thumbnail size.
+_Paste into ChatGPT or Gemini (clean conceptual-scene path, business-magazine editorial register). After generating: add the PBS logo in Canva (logos never go in the generation prompt); if a regen mangles the headline or figure type, set the title in IBM Plex Sans SemiBold and the dollar figures in IBM Plex Mono in Canva. Preview at ~400px / on a phone before export._
+
+> A clean, stylized editorial illustration in a business-magazine register, 1080 x 1350 pixels (4:5 vertical), on a bright white (#FFFFFF) background with generous negative space. NOT photoreal, NOT a road or a fork in a road, NOT a receipt or spreadsheet. The scene is a single pharmacy CHECKOUT COUNTER viewed head-on, where the counter splits into TWO clearly separated pay lanes that a customer must choose between. Composition has exactly FIVE elements and nothing else; keep the two lane prices and the money flowing to the PBM figure dominating the center ~70% of the frame so it reads at ~400px thumbnail.
 >
-> 1. On the receipt, a faint pharmacy header in small black monospace type, then a single highlighted line item in larger bold black monospace: a generic drug name "IMATINIB 400MG (generic)" with "INSURANCE COPAY ............ $15" in Plex Mono Medium, the "$15" oversized and bold.
-> 2. On the phone screen, a simple price card in Plex Sans: "Cash price (discount card)" with "$4" rendered very large in Primary Blue (#015880) bold. A small caption under it: "same drug. same pharmacy."
-> 3. A thick handwritten red ballpoint circle around BOTH the "$15" copay and the "$4" cash price, with a red hand-drawn arrow connecting them and a red note in the middle: "you paid MORE to use insurance."
-> 4. A handwritten black marker headline along the top of the frame, double-underlined: "Cash beat the copay."
-> 5. A handwritten red note at the bottom of the receipt, smaller: "the difference is the clawback. it goes back to the PBM."
+> 1. LEFT LANE — the calm, cheap option: an open, softly lit gateway with a clean overhead sign reading "PAY CASH" in Primary Blue (#015880) IBM Plex Sans SemiBold, and below it the price "$80" rendered very large in Primary Blue IBM Plex Mono Medium tabular figures. The lane looks open and unobstructed.
+> 2. RIGHT LANE — the trap, visually louder: a lane lit up in a warning amber/red glow with a glowing overhead sign reading "USE YOUR INSURANCE" in white IBM Plex Sans SemiBold on a warning-amber (#C0392B toned) header, and below it the price "$300" rendered very large in the same warning tone, IBM Plex Mono Medium tabular figures, noticeably bigger than the cash price. This is the expensive lane, styled as the obvious-but-wrong default.
+> 3. A bold Accent Blue (#A7E0FA) ribbon of money (stylized flat bills/coins) streaming OUT of the insurance lane, curving up and BACK behind the counter, labeled along the ribbon "$220" in IBM Plex Mono Medium — the difference being skimmed.
+> 4. A simple flat silhouette figure standing behind the counter catching that money ribbon, with a small rounded box on its chest labeled "PBM" in white IBM Plex Sans SemiBold on Primary Blue (#015880). The money visibly lands with this figure.
+> 5. Two-tone headline banner across the top in IBM Plex Sans SemiBold (clinical register, never a condensed poster face): "Your insurance" in Primary Blue (#015880) with "is the expensive lane." in Accent Blue (#A7E0FA) directly beneath; and a single Gray (#4D4D4D) IBM Plex Sans footer line at the bottom-left: "Cash beats the copay on some generics. The PBM keeps the difference. rxbs.org".
 >
-> Tiny "rxbs.org" handwritten in black ballpoint in the bottom-right corner. No dollar figures other than the two shown. Style: realistic paper and receipt-thermal texture, soft natural daylight, shallow depth of field. Colors: white receipt paper, faint black thermal print, red handwritten ballpoint, Primary Blue (#015880) on the phone screen, light wood counter. No logos, no brand marks beyond the handwritten rxbs.org.
+> Add one small Gray (#4D4D4D) IBM Plex Sans caption directly under the two lane prices: "Illustrative example. Actual amounts vary by plan." Reserve empty space at the bottom-right for a logo (do not draw one). No grid-pattern background, no photographs, no real people, no real logos, no PBM company logos, no road/highway imagery. All dollar figures in IBM Plex Mono tabular figures; figures are illustrative only. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), plus a warning amber/red (#C0392B) reserved only for the lit "USE YOUR INSURANCE" lane.
 >
-> _Numbers are illustrative for legibility only; the post copy carries the "Illustrative example for educational purposes. Actual amounts vary by plan." disclaimer and cites the USC Schaeffer finding, not these specific figures._
+> **On-image headline:** "Your insurance is the expensive lane." (two-tone: "Your insurance" Primary Blue / "is the expensive lane." Accent Blue). **Footer:** "Cash beats the copay on some generics. The PBM keeps the difference. rxbs.org".
+>
+> **Post-Generation Steps:**
+> 1. Generate the base image using the prompt above.
+> 2. Open in Canva at 1080 x 1350 px.
+> 3. If the generator mangled the headline or the $80 / $300 / $220 figures, reset the title in IBM Plex Sans SemiBold and the figures in IBM Plex Mono Medium, tabular figures.
+> 4. Add the PBS logo (color version) at the bottom-right, ~90-110px width.
+> 5. Confirm the "Illustrative example. Actual amounts vary by plan." caption is present and legible under the prices.
+> 6. Preview at ~400px (or on a phone) to confirm both lane prices and the "$220 → PBM" flow read at thumbnail size; enlarge anything hard to read.
+> 7. Export as PNG.
+>
+> _Numbers ($80 cash / $300 insurance / $220 difference) are illustrative for legibility only; the post copy carries the full "Illustrative example for educational purposes. Actual amounts vary by plan." disclaimer and cites the USC Schaeffer finding, not these specific figures._
 
 ---
 
@@ -886,7 +899,7 @@ Every fee on your PBM invoice that sounds like a service is worth one question: 
 The MAC list sets what your plan pays for generics, and your PBM controls it. It can price the same generic differently across pharmacies and adjust it line by line. You agreed to "MAC pricing." You never saw the list. The list is the price.
 ```
   First reply (link): rxbs.org/toolkit/channel-pricing
-- **12:00 PM · Thu-visual amplifier [VISUAL: cash-beats-copay clawback receipt] (after 10 AM LinkedIn publish, LinkedIn-first):**
+- **12:00 PM · Thu-visual amplifier [VISUAL: cash-beats-copay checkout-fork scene] (after 10 AM LinkedIn publish, LinkedIn-first):**
 ```
 On some of your employees' generics, the cash price is lower than the copay your plan charges. They pay more for using insurance, and the difference goes back to the PBM. It is called a clawback. USC Schaeffer found patients overpaid on about 1 in 4 fills.
 ```
@@ -1011,7 +1024,7 @@ Ask your PBM: "If we wanted to leave, what in this contract makes it expensive o
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 121 Library 06 Contract Comparison Carousel | 7 slides (1080x1350) | "Five Clauses That Anchor Q4 Broker Conversations" — decodes contract language behind the 5 Q4 broker conversations (tier placement, stop-loss cooperation, termination, fiduciary reporting, audit rights), Broker/Consultant Resources pillar |
-| Post 123 Cash-Beats-Copay Clawback Receipt | Single messy infographic (1080x1350) | "Cash Beats Your Copay: The Clawback at the Counter" — photoreal pharmacy-receipt / EOB, cash-vs-copay contrast, Transparency pillar. Thursday reach reveal (rebuilt June 27, 2026). Illustrative figures only; copy carries disclaimer + cites USC Schaeffer |
+| Post 123 Cash-Beats-Copay Checkout Fork | Single conceptual scene infographic (1080x1350) | "Cash Beats Your Copay: The Clawback at the Counter" — checkout-fork editorial scene (PAY CASH $80 lane vs USE YOUR INSURANCE $300 lane, $220 flowing back to a PBM figure), business-magazine register, Transparency pillar. Thursday reach reveal (rebuilt June 27, 2026; visual elevated July 3, 2026 from receipt/EOB to checkout-fork). Illustrative figures only; on-image + copy disclaimer, cites USC Schaeffer |
 | Thursday Field Note header | 1200x600 (Data Highlight) | "Cash Beat the Copay" two-tone, clawback price-tag composition |
 | Headers | Standard | [ ] |
 

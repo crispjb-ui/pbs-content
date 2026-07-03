@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content. **Thursday rebuild (this session):** the weak "5 Mid-Year Performance Guarantee Terms Decoded" vocabulary decoder was replaced with the shocking hidden-structure reveal "1 in 5 Specialty Generics, Marked Up Over 1,000%" (Marked-Up FTC Report messy infographic), cited to the FTC Second Interim Staff Report (Jan 2025). Vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough. The Field Note was retargeted to exclusively support the reveal; the displaced "Auditing Your Mid-Year Performance Guarantees" draft is noted for `field_note_backlog.md`. The repurposed One Number Carousel still lives in PART 1 as an In-Article Visual._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content. **Thursday rebuild (this session):** the weak "5 Mid-Year Performance Guarantee Terms Decoded" vocabulary decoder was replaced with the shocking hidden-structure reveal "1 in 5 Specialty Generics, Marked Up Over 1,000%" (The 1-in-5 Rocket single-image reveal), cited to the FTC Second Interim Staff Report (Jan 2025). Vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough. The Field Note was retargeted to exclusively support the reveal; the displaced "Auditing Your Mid-Year Performance Guarantees" draft is noted for `field_note_backlog.md`. The repurposed One Number Carousel still lives in PART 1 as an In-Article Visual._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -36,7 +36,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Aug 27 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?" | PART 1B | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Monthly Q&A Thread #5: Pre-Renewal Strategy (last-Thursday thread) | PART 2B | [ ] |
 | Thu Aug 27 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 27 | 10:00 AM | LI Feed | Post 127 — "1 in 5 Specialty Generics, Marked Up Over 1,000%" (Marked-Up FTC Report messy infographic — shocking hidden-structure reveal) | Post 127 | [ ] |
+| Thu Aug 27 | 10:00 AM | LI Feed | Post 127 — "1 in 5 Specialty Generics, Marked Up Over 1,000%" (The 1-in-5 Rocket single-image reveal — shocking hidden-structure reveal) | Post 127 | [ ] |
 | Thu Aug 27 | 10:05 AM | LI Feed | Post 127 first comment | Post 127 | [ ] |
 | Thu Aug 27 | 12:00 PM | X | Thu-visual amplifier [VISUAL: 1-in-5 specialty generic markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 1:30 PM | LI Company | Reshare of Post 127 | Post 127 Reshare | [ ] |
@@ -234,7 +234,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Length:** ~620 words (~3 min read)
 **Pillar:** Clinical Pharmacy Perspectives
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn "1 in 5 Specialty Generics, Marked Up Over 1,000%" Marked-Up FTC Report messy infographic. The LinkedIn post drops the FTC fact; the Field Note is the operational follow-on that turns the fact into a routing audit a plan sponsor can run on its own claims.
+**Pairs with:** Thursday LinkedIn "1 in 5 Specialty Generics, Marked Up Over 1,000%" The 1-in-5 Rocket single-image reveal (five generic pill bottles on a shelf, one rocketing up a "+1,000%" trajectory while the other four sit flat). The LinkedIn post drops the FTC fact; the Field Note is the operational follow-on that turns the fact into a routing audit a plan sponsor can run on its own claims.
 **Why this pairing (retargeted this session):** The Thursday slot was rebuilt from a vocabulary decoder ("5 Mid-Year Performance Guarantee Terms Decoded") into a shocking hidden-structure reveal (the FTC 1,000%-markup finding). The Field Note follows the LinkedIn post exactly: the reveal names the markup, the Field Note shows how to find it on your own specialty claims. Triple-distinct holds — Monday W34 = specialty management (8-lever assessment); Tuesday = clinical-program ROI verification; Thursday = the FTC specialty-generic markup at the PBM-owned pharmacy (different subject matter, adjacent pillar). The displaced "Auditing Your Mid-Year Performance Guarantees" draft is noted below for `field_note_backlog.md`.
 
 **Display Title:** Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?
@@ -604,17 +604,17 @@ This week's Benefit Blind Spots deep dive on specialty drug management is the op
 
 _The "Specialty Management Assessment" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
-### Thursday Excellence Slot - 1 in 5 Specialty Generics, Marked Up Over 1,000% — Marked-Up FTC Report Messy Infographic
+### Thursday Excellence Slot - 1 in 5 Specialty Generics, Marked Up Over 1,000% — The 1-in-5 Rocket Reveal
 
 > **REBUILD NOTE (this session):** This Thursday slot was a weak vocabulary decoder ("5 Mid-Year Performance Guarantee Terms Decoded," Ledger Annotated). Replaced with a shocking hidden-structure reveal welded to a cited FTC figure: the Federal Trade Commission's Second Interim Staff Report (Jan 2025) found the big-3 PBMs marked up more than one in five specialty generics over 1,000% at the pharmacies they own. Measured rationale: vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough (offshore-rebate-aggregator reveal, 17,816 impressions fully organic). Source: `shocking_fact_bank.md` entry #2. The displaced "5 terms / GER-BER-dispensing-fee" content folded into supporting detail below; the displaced Field Note draft noted for `field_note_backlog.md`.
 
-**Format:** Single messy infographic, Marked-Up FTC Report aesthetic (a printed federal report page with the key sentence highlighted and handwritten red-pen annotations). 1080 x 1350 px. **Mobile-legible: ≤5 elements, the "1,000%" figure dominates the center ~70% of the frame, primary labels readable at ~400px thumbnail. Run the Canva ~400px legibility check before export.**
+**Format:** Single-image editorial reveal, The 1-in-5 Rocket concept (five generic pill bottles lined up on a shelf; ONE rockets straight up off the shelf on a "+1,000%" Accent Blue contrail while the other four sit flat, the "1 in 5" made literal and the 1,000% as the explosive vertical; a small FTC seal in the corner carries the unfakeable federal source; business-magazine register). 1080 x 1350 px. **Mobile-legible: ≤5 elements (the five bottles are the five elements), the "1,000%" figure dominates the center ~70% of the frame, primary labels readable at ~400px thumbnail. Run the Canva ~400px legibility check before export.**
 **Pillar:** Clinical Pharmacy Perspectives (specialty generic markups; adjacent to Monday's specialty-management deep dive, different subject matter)
 **Field Note pairing:** Same-day Substack Field Note "Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?" — exclusively supports this reveal (turns the FTC fact into a three-pass routing audit on the plan's own claims).
 **Reference document pairing (refer-back, no new toolkit):** existing live Plan Sponsor Toolkit "Specialty Routing Audit Worksheet" — `rxbs.org/toolkit/specialty-routing` (W22 Thursday). Per refer-back-first, the on-topic live toolkit is reused, not re-minted.
 
 **Thursday Excellence — 5 traits, all hit:**
-1. **Format = messy infographic, photoreal, ≤5 elements, mobile-legible.** Marked-Up FTC Report page, single image 1080x1350, "1,000%" as the dominant central element.
+1. **Format = single-image editorial reveal, ≤5 elements, mobile-legible.** The 1-in-5 Rocket (five generic pill bottles, one rocketing straight up a "+1,000%" trajectory while four sit flat), single image 1080x1350, "1,000%" as the dominant central element.
 2. **Hook = confrontational, named-actor.** Names the FTC as the source and the PBM as the actor marking up generics at the pharmacy it owns. Creates the genuinely-unknown structural shock (it's generics, not brand drugs).
 3. **Proprietary anchor, varied.** "Pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, well over half ran through a pharmacy the PBM owns." (Routing-audit anchor; rotates away from the repeated "hundreds of contracts a year" footer.)
 4. **First comment names the same-day Field Note specifically + refers back to the live `specialty-routing` toolkit.** Names the three-pass routing audit; routes to `rxbs.org/toolkit/specialty-routing`.
@@ -623,7 +623,7 @@ _The "Specialty Management Assessment" One Number Carousel was repurposed into M
 #### Post Copy
 
 ```
-The FTC studied the generic drugs your PBM marks up the most. More than one in five specialty generics: marked up over 1,000 percent. Not brand drugs. Generics. At the pharmacy your PBM owns.
+The FTC studied the generic drugs your PBM marks up most. More than one in five specialty generics, marked up over 1,000 percent. Not brand drugs. At the pharmacy your PBM owns.
 
 That is not my number. It is in the Federal Trade Commission's Second Interim Staff Report from January 2025. At their own affiliated pharmacies, the big-3 PBMs marked up nearly two-thirds of specialty generics by more than 100 percent, and more than one in five by over 1,000 percent. One generic cancer drug carried a 3,289 percent markup in a single year. Those markups generated about 7.3 billion dollars above what the drugs actually cost the PBMs, plus another 1.4 billion from spread pricing.
 
@@ -652,22 +652,19 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three cl
 Field Note: [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Marked-Up FTC Report Image Generation Prompt
+#### The 1-in-5 Rocket Image Generation Prompt
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed page from a federal government report rests on a plain matte desk under soft, even daylight. The page header reads, in printed black serif type: "FEDERAL TRADE COMMISSION · Second Interim Staff Report · January 2025." Most of the page is small, intentionally-blurred body text (do not make it readable; it is texture only).
+> A clean, editorial business-magazine illustration, 1080 x 1350 pixels (4:5 vertical), on an off-white (#FFFFFF) background with generous negative space. Flat-with-soft-shading vector style, polished and corporate, not photoreal. The scene: a simple horizontal wooden-toned shelf line across the lower third of the frame. On the shelf sit five identical generic amber prescription pill bottles with plain white labels, evenly spaced. Four of the five bottles sit flat and still on the shelf, muted in Gray (#4D4D4D) and dull amber. The fifth bottle, second from the left, launches straight up off the shelf like a rocket, tilted slightly, with a bold Accent Blue (#A7E0FA) exhaust contrail streaking vertically up through the center of the frame. A few small Accent Blue motion lines and spark ticks along the trail give the climb texture.
 >
-> One single sentence in the center of the page is printed large and crisp in black, and a wide Accent Blue (#A7E0FA) highlighter stroke runs across it: "More than 1 in 5 specialty generics were marked up over 1,000% at PBM-owned pharmacies." Directly beneath it, in very large black type that dominates the center of the frame and is readable at thumbnail size, the figure: "1,000%+".
+> Dominating the center roughly 70 percent of the frame, running up alongside the vertical contrail, the figure "+1,000%" in very large Primary Blue (#015880) IBM Plex Mono Medium tabular figures, readable at thumbnail size. Beside the launching bottle, a small rounded Accent Blue (#A7E0FA) tag reads "1 in 5" in Primary Blue IBM Plex Mono Medium.
 >
-> Three handwritten red ballpoint annotations in the right margin, each with a short curved arrow pointing at the highlighted sentence:
-> - "Generics. Not brand drugs."
-> - "$7.3B over acquisition cost (2017-2022)"
-> - "Routed to the pharmacy the PBM owns"
+> Top-left corner: a small simple circular federal-seal medallion in Gray (#4D4D4D) line art with a plain "FTC" monogram in its center (a generic emblem, not a real government seal), with a one-line caption beneath in Gray (#4D4D4D) IBM Plex Sans Regular 16pt: "Second Interim Staff Report, 2025".
 >
-> Bottom of the page, handwritten in navy-blue marker (~#015880), underlined: "Pull your specialty claims. Sort by filling pharmacy." Small navy text in the bottom corner: "rxbs.org".
+> Below the shelf, a two-tone centered headline: "One in five specialty generics." in Primary Blue (#015880) IBM Plex Sans SemiBold about 46pt, with "Marked up over 1,000%." in Accent Blue (#A7E0FA) IBM Plex Sans SemiBold about 46pt directly below it. One Gray (#4D4D4D) IBM Plex Sans Regular 22pt footer line under the headline: "Generics, not brand drugs. At the pharmacy your PBM owns." Small "rxbs.org" in Gray (#4D4D4D) IBM Plex Mono at the bottom-left.
 >
-> Style: realistic paper texture, soft natural daylight, a real highlighter and a real red pen resting at the page edge. Colors: white/off-white paper, black printed type, Accent Blue (#A7E0FA) highlighter, red handwritten ballpoint, navy-blue (#015880) marker. Keep the layout to five readable elements (the highlighted sentence, the "1,000%+" figure, three red notes); everything else is blurred texture. No logos, no brand marks.
+> Keep the composition to five focal elements: the five pill bottles (one rocketing). The giant "+1,000%", the "1 in 5" tag, the small FTC seal, and the two-tone headline are the supporting text layer; everything else is clean negative space. Large, high-contrast, thumbnail-legible type throughout. Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), plus the muted amber of the pill bottles. No photographs, no people, no real logos, no PBM logos, no real government seals.
 >
-> _Canva step: add only the small PBS logo bottom-right (logos never go in the generation prompt). Run the ~400px / phone legibility check before export; the "1,000%+" figure and the highlighted sentence must read at thumbnail._
+> _Canva step: add only the small PBS logo bottom-right (logos never go in the generation prompt). Run the ~400px / phone legibility check before export; the "+1,000%" figure and the two-tone headline must read at thumbnail._
 
 ---
 
@@ -1013,7 +1010,7 @@ Ask your PBM to define "pass-through" in writing, then ask which noun it attache
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 125 Bridge Clean Infographic | 1080x1350 | "From Programs That Cost Money to Programs That Earn Their Keep" — flat-design bridge metaphor with red landform (DUR/step/MTM) crossing via verification/measurement/attribution spans to Primary Blue landform (case management/biosimilar/PA), Clinical Pharmacy Perspectives pillar |
-| Post 127 Marked-Up FTC Report Messy Infographic | 1080x1350 | "1 in 5 Specialty Generics, Marked Up Over 1,000%" — photoreal FTC Second Interim Staff Report page, Accent Blue highlighter on the key sentence, "1,000%+" dominant center, three red-pen margin notes; mobile-legible (~400px check); shocking hidden-structure reveal cited to FTC (Jan 2025) |
+| Post 127 The 1-in-5 Rocket Reveal | 1080x1350 | "1 in 5 Specialty Generics, Marked Up Over 1,000%" — editorial business-magazine illustration: five generic pill bottles on a shelf, one rocketing straight up a "+1,000%" Accent Blue contrail while four sit flat, small FTC seal in corner, "1 in 5" tag, two-tone Plex Sans headline; "+1,000%" (Plex Mono) dominant center ~70%; mobile-legible (~400px check); shocking hidden-structure reveal cited to FTC (Jan 2025) |
 | Headers | Standard | [ ] |
 
 ## Metrics
