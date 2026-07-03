@@ -1,0 +1,66 @@
+name: Weekly Sales Hour Brief
+
+# Friday ~7:30 AM Eastern: assemble Ginny's sales-hour queue before she sits
+# down — the week's one broker move with a drafted touch note, stale-row
+# nudges, and the standing runbook order. Posts to the rolling issue; commits
+# nothing. Phase 1 works from repo state only; once GSHEET_SA_KEY exists the
+# lead rows populate automatically. (Added Jul 3, 2026, Tier 1 automation.)
+
+on:
+  schedule:
+    - cron: '30 11 * * 5'  # 7:30 AM EDT / 6:30 AM EST — always lands before a working-hours sales hour
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  id-token: write
+  issues: write
+
+jobs:
+  sales-hour-brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Assemble the brief with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Grep,Glob,Bash"
+          prompt: |
+            Assemble this week's sales-hour brief for Ginny. Read:
+            - email_gated_toolkit/sales_hour_runbook.md (the 5-step hour)
+            - broker_partner_track.md (tracker rows, statuses, next steps, templates)
+            - kpi_scoreboard.md (latest month vs targets)
+            - OPEN_ITEMS.md (any lead/client sections)
+
+            Write .sales_hour_brief.md (untracked), max ~300 words, in this shape:
+            1. **This week's broker move:** the top tracker row with a defined
+               next step, plus a short DRAFTED touch note for it (adapt the
+               P1/P2/P3 template that fits; personal register, ready to
+               copy-send).
+            2. **Stale rows:** tracker rows whose last touch is 30+ days old
+               (compute from today via Bash date), one line each with the
+               suggested nudge angle.
+            3. **New leads:** note that alert emails from the week should be
+               worked first per the runbook; invite Ginny to paste any alert
+               into a Claude session for a drafted personal note. (This
+               section becomes automatic when GSHEET_SA_KEY is set.)
+            4. **Scoreboard pulse:** one line on pace vs the 4-6
+               conversations/month and 3-5 broker targets.
+
+            Facts only from the files; never invent leads, dates, or numbers.
+            If the tracker has no actionable next step, say so and suggest the
+            highest-value fallback from the runbook.
+
+      - name: Post the brief to the rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          brief="(brief was not generated)"
+          [ -f .sales_hour_brief.md ] && brief=$(cat .sales_hour_brief.md)
+          bash .github/scripts/notify_issue.sh "$(printf '**Sales hour brief** · %s\n\n%s' "$(TZ=America/New_York date +%F)" "$brief")"

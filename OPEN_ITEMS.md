@@ -33,6 +33,16 @@ _Full deep review of ~6 months of data + Ginny's Jul 3 answers (goal weighting, 
 - [x] **✅ APPROVED — Weekly sales hour:** runbook at `email_gated_toolkit/sales_hour_runbook.md` (hot leads → threads → one broker move → stale sweep → log; monthly KPI rollup). Ginny picks the recurring slot.
 - [x] **✅ APPROVED + ENCODED — Paid Substack ON HOLD ~12 months:** status line added to `paid_substack_operationalization_plan.md`; revisit if free subs pass ~500. Existing 2 paid subs keep receiving what was promised.
 
+## ⚙️ TIER 1 AUTOMATION LOOPS (Jul 3, 2026) — BUILT, approved by Brett same day
+_Five conversion-side loops from the audit follow-up ("are there other routines to automate"). All draft-only / notify-only; nothing publishes or sends automatically. Rows added to `.github/workflows/README.md`; CLAUDE.md automation bullet updated._
+
+- [x] **✅ `weekly-substack-urls`** — Mon/Wed/Thu 10:30a ET: RSS-verified auto-fill of `[SUBSTACK ... URL]` placeholders in the current week file + publish watchdog (warns the rolling issue if the day's expected post isn't in the feed). Script: `.github/scripts/fetch_substack_feed.py`.
+- [x] **✅ `monthly-briefing-draft`** + `/draft-monthly-briefing` — 25th: drafts Email 06 to `email_gated_toolkit/briefings/`; first live draft Jul 25 for the Aug 4 send. **List decision encoded (Brett, Jul 3): leads-only; never import the Substack list into Wix** (consent/deliverability + already-nurtured + intent mismatch; documented in `emails/06`).
+- [x] **✅ `monthly-critique-sweep`** — 2nd Saturday: `/critique-fix` on the two weeks beyond next-to-ship, keeping the whole 10-week pipeline ship-clean.
+- [x] **✅ `monthly-kpi-prompt`** + `/log-kpis` + `kpi_scoreboard.md` — first Monday: log the six revenue numbers against the two primary KPIs (Jun 2026 baseline row seeded; first tracked month = July, logged early August).
+- [x] **✅ `weekly-sales-hour-brief`** — Friday 7:30a ET: posts Ginny's sales-hour queue (broker move + drafted touch note, stale rows, scoreboard pulse) to the rolling issue.
+- [ ] **🟧 Tier 2 enablers (Ginny, when doing the GSC key errand):** create a Google service account with read access to the "PBS Toolkit Leads" Sheet and add repo secret `GSHEET_SA_KEY` (makes sales-hour brief + KPI lead counts fully automatic); optionally add a Zapier step POSTing SQL/PARTNER alerts to the repo for auto-drafted first-touch notes.
+
 ## ✅ APPROVED — QUEUED FOR BUILD (Jul 1, 2026, from Approvals issue #42)
 _Ginny approved all 7 items in [issue #42](https://github.com/crispjb-ui/pbs-content/issues/42); the two bounded ones (Library-numbering fix + W37 Q2 refresh) shipped in PR #43. The five below are APPROVED and PARKED HERE to build when their natural slot comes up — do NOT build prematurely. Build each as its own review-linked PR and check it off on issue #42 (and remove it here) when it ships. `/build-week` look-ahead + `/pipeline-health` read this section._
 
