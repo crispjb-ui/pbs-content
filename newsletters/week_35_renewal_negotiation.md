@@ -35,7 +35,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Sep 3 | 8:30 PM | X | aphorism [C5] | PART 4B · Wed | [ ] |
 | Thu Sep 4 | 7:30 AM | Substack | Field Note: "What Is NADAC, and Why Won't Your PBM Show It Next to Your Generic Price?" | PART 1B | [ ] |
 | Thu Sep 4 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Thu | [ ] |
-| Thu Sep 4 | 10:00 AM | LI Feed | Post 131 — "There Is a Public Price for What a Generic Costs a Pharmacy. You've Never Been Shown It Next to Your Bill." (NADAC reveal, messy infographic, Slot A) | Post 131 | [ ] |
+| Thu Sep 4 | 10:00 AM | LI Feed | Post 131 — "There Is a Public Price for What a Generic Costs a Pharmacy. You've Never Been Shown It Next to Your Bill." (NADAC reveal, peel-back price-tag conceptual infographic, Slot A) | Post 131 | [ ] |
 | Thu Sep 4 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Sep 4 | 1:30 PM | LI Company | Reshare of Post 131 | Post 131 Reshare | [ ] |
 | Thu Sep 4 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -531,15 +531,15 @@ _The "Negotiation Leverage Points" balance-scale messy infographic was repurpose
 ### Thursday Excellence Slot (Slot A) - The Public Price You've Never Been Shown (NADAC)
 
 - **Slot:** A
-- **Format:** Messy Infographic (single image, 1080 x 1350 px) — a single pharmacy-claim line showing NADAC vs. billed
+- **Format:** Conceptual Infographic (single image, 1080 x 1350 px) — a "peel-back price tag": the billed price is the top sticker; peeled back, it reveals the far lower public NADAC price hidden underneath
 - **Pillar:** PBM Contract Insights
 - **Topic:** The public NADAC benchmark plan sponsors are never shown next to their generic bill (shocking hidden-structure reveal, `shocking_fact_bank.md` #7)
-- **Hook:** "There is a public price for what a generic costs a pharmacy. It is called NADAC. The gap between it and what your PBM bills you through the pharmacy it owns grew 42 percent a year. You have just never been shown both numbers on the same claim."
+- **Hook:** "There is a public price for what a generic costs a pharmacy. It is called NADAC. Your PBM has never shown it to you next to your bill. Peel the sticker back and the number underneath is a fraction of what you were billed."
 
 **Why this is a reveal, not a decoder:** the shock is a genuinely-unknown structural fact (a public, government-published acquisition benchmark exists and the PBM omits it from your report), not a vocabulary translation. Vocabulary decoders top out around 4-5K in the summer trough; the unknown-structural-fact reveal cleared ~17.8K organic in the same season (the offshore rebate-aggregator reveal). The decoded termination terms from the prior draft are folded into the deep dive (Provision 11) and the Wednesday POV; no dead block remains.
 
 **Thursday Excellence 5-trait audit (all required):**
-1. **Format = messy infographic, single image 1080 x 1350.** A photoreal pharmacy-claim line: NADAC price under the billed price, the gap bracketed. Mobile-legible: two dollar figures dominate the center ~70% and read at ~400px; ≤5 elements (billed line, NADAC line, the gap bracket, the 42%/yr annotation, the one-line ask).
+1. **Format = conceptual infographic that dramatizes the reveal, single image 1080 x 1350.** The "peel-back price tag": the billed price is the top sticker, curling up at one corner to reveal the much lower public NADAC price printed on the layer underneath. "The public price you've never been shown" made literal in one glance. Mobile-legible: the two dollar figures dominate the center ~70% and read at ~400px; ≤5 elements (two-tone headline, billed top sticker, NADAC underneath, the 42%/yr annotation, the footer line).
 2. **Hook = confrontational, named-actor.** Names the PBM as the actor billing above the public number through a pharmacy it owns; names the plan as the party never shown both numbers.
 3. **Proprietary anchor (varied — not the repeated "hundreds of contracts" line).** "In the contract reviews we run, we ask the PBM to show NADAC next to its own MAC price on one high-volume generic claim. The willingness to put both numbers on one line is the tell."
 4. **First comment names the same-day Field Note specifically + reuses the live GER toolkit** (`rxbs.org/toolkit/ger-audit`). No new toolkit minted (refer-back-first).
@@ -548,11 +548,11 @@ _The "Negotiation Leverage Points" balance-scale messy infographic was repurpose
 #### Post Copy
 
 ```
-There is a public price for what a generic costs a pharmacy.
+There is a public price for what a generic actually costs a pharmacy. It is called NADAC. Your PBM has it, and it has never once shown it to you next to your bill.
 
-It is called NADAC, the National Average Drug Acquisition Cost. The federal government publishes it. It is a survey of what pharmacies actually pay to buy the drug. It is not a trade secret. It is one download away.
+NADAC, the National Average Drug Acquisition Cost, is published by the federal government. It is a survey of what pharmacies actually pay to buy the drug. It is not a trade secret. It is one download away.
 
-It is also nowhere on the report your PBM sends you.
+It is also nowhere on the report your PBM sends you. Peel back what you were billed and the public number underneath is a fraction of it.
 
 Here is why that matters. In its Second Interim Staff Report (January 2025), the FTC found that the dispensing revenue PBM-affiliated pharmacies earned in excess of NADAC grew at a 42 percent compound annual rate from 2017 to 2021 on the specialty generics it studied. The amount the big PBMs billed above what the drug cost the pharmacy they own did not creep up. It compounded.
 
@@ -577,31 +577,40 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: exactly 
 To run the comparison on your own plan, the Generic Effective Rate Audit Worksheet walks it line by line: rxbs.org/toolkit/ger-audit
 ```
 
-#### Messy Infographic Concept
+#### Conceptual Infographic Concept — "The Peel-Back Price Tag"
 
-**Format:** Single LinkedIn feed image, photorealistic pharmacy-claim-line style. One claim, two prices, one gap.
+**Format:** Single LinkedIn feed image, clean business-magazine register. One price tag. The billed price on the top layer, peeled back at a corner to reveal the much lower public NADAC price hidden on the layer underneath. The metaphor IS the reveal: "the public price you've never been shown" made literal in one glance.
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** A single pharmacy claim / receipt strip on a desk, annotated by hand in red marker.
+**On-image headline (two-tone Plex Sans SemiBold):** "The Public Price" (Primary Blue #015880) / "Under Your Generic Bill" (Accent Blue #A7E0FA).
+
+**On-image footer:** "It's on the government's website. Your PBM left it off your report." (Gray #4D4D4D, with "left it off your report" in Primary Blue #015880).
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single printed pharmacy claim line / receipt strip rests centered on a dark wood desk, lit by soft natural daylight. The receipt shows one generic drug claim with two stacked, clearly printed dollar figures in a clean monospace tabular font. No logos, no brand marks, no people.
+> A clean, editorial, business-magazine-style product shot, 1080 x 1350 pixels (4:5 vertical), on a soft off-white studio background with gentle directional lighting and a subtle drop shadow. Centered in the frame is a single glossy retail-style price tag or shelf sticker, shown large. No logos, no brand marks, no people, no handwriting.
 >
-> The two printed figures, large and dominating the center of the frame, read:
+> The price tag has TWO layers. The TOP layer is a printed sticker being peeled up and curling away from its top-right corner, casting a soft shadow, so it clearly reads as a label lifting to reveal something hidden beneath. Printed on the top layer in a clean monospace tabular font (IBM Plex Mono, Medium weight, tabular figures), stacked:
 >
-> BILLED TO YOUR PLAN   $84.00
-> NADAC (public price)   $12.00
+> BILLED TO YOUR PLAN
+> $84.00
 >
-> A bold hand-written red marker curly brace links the two numbers down the right side, with red handwriting next to it: "THE GAP." Above the receipt, in large black marker, double-underlined: "There is a public price for a generic." Below it in red pen: "It's called NADAC. Your PBM left it off your report." At the very bottom, in red ballpoint inside a hand-drawn rectangle: "Above-NADAC markup grew 42%/yr. FTC, 2025."
+> The LOWER layer, exposed where the top sticker peels back, is printed with a much smaller price in the same monospace tabular font, in Primary Blue (#015880):
 >
-> Style: realistic photograph, subtle shadow under the receipt, slight paper texture and a faint crease. Slightly imperfect handwriting (uneven line spacing, minor pen smudges) for authenticity. The two dollar figures are crisp, high-contrast, and read at thumbnail size. Colors: off-white receipt paper, crisp black printed figures, red handwritten ballpoint annotations, black marker headline, dark wood desk.
+> NADAC: THE PUBLIC PRICE
+> $12.00
 >
-> Mobile-feed legibility: the two dollar amounts and the word NADAC dominate the center ~70% of the frame and must be readable at ~400px wide. Keep fine print minimal. The illustrative figures above are a generic example, not a specific plan's numbers.
+> The two dollar figures ($84.00 and $12.00) are the largest elements in the frame and dominate the center ~70%; the peeled corner sits between them so the eye travels from the high billed price down to the low public price underneath. A small, understated annotation in Gray (#4D4D4D), lower on the tag, reads: "The gap above NADAC grew 42%/yr. FTC, 2025." (keep this small, it is a footnote, not the hero).
+>
+> Above the tag, a two-tone headline in a clean geometric sans-serif (IBM Plex Sans, SemiBold): "The Public Price" in Primary Blue (#015880) and "Under Your Generic Bill" in Accent Blue (#A7E0FA). At the bottom, a one-line footer in Gray (#4D4D4D): "It's on the government's website. Your PBM left it off your report."
+>
+> Style: crisp, high-end, editorial. Realistic paper/sticker texture on the peeling label, soft shadows, clean negative space. Colors limited to off-white background, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), and crisp black tabular figures. No red marker, no messy annotation, no clutter.
+>
+> Mobile-feed legibility: the two dollar amounts and the word NADAC dominate the center ~70% of the frame and must be readable at ~400px wide. Keep fine print minimal (five elements only: headline, billed price on top sticker, NADAC price underneath, the 42%/yr footnote, the footer line). The illustrative figures above are a generic example, not a specific plan's numbers.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI misspells NADAC, any label, or a dollar figure, overlay the correct text in a handwritten font (Permanent Marker, Caveat, Kalam) and a clean monospace face for the numbers.
+1. If the AI misspells NADAC, any label, or a dollar figure, overlay the correct text: IBM Plex Sans SemiBold for the two-tone headline and footer, IBM Plex Mono (tabular figures) for the two prices. Enforce the exact brand hex values (#015880 Primary Blue, #A7E0FA Accent Blue, #4D4D4D Gray).
 2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
 3. Run the mobile-feed legibility check: preview at ~400px wide; both dollar figures and the word NADAC must read pre-tap. Enlarge anything that does not.
 4. Export as PNG at 1080 x 1350.
@@ -948,7 +957,7 @@ Ask your PBM: "List every fee on our monthly invoice and the contract section th
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 129 Whiteboard Carousel | 7 slides (1080x1350 each) | "How I'd Map a 2027 Renewal on a Whiteboard" — pharmacist-on-whiteboard walkthrough of 5 quarterly gates (scope/panel, RFP out, best-and-final, execute, monitor), Self-Funded Employer Guidance pillar |
-| Post 131 Messy Infographic | 1080x1350 | NADAC reveal — single pharmacy-claim line: BILLED vs NADAC, the gap bracketed, "above-NADAC markup grew 42%/yr (FTC 2025)" annotation. Mobile-legible at ~400px. |
+| Post 131 Conceptual Infographic | 1080x1350 | NADAC reveal — "peel-back price tag": billed price ($84) on the top sticker, peeled back to reveal the public NADAC price ($12) underneath, marked "NADAC: the public price." Two-tone Plex Sans headline "The Public Price / Under Your Generic Bill"; Plex Mono tabular prices. Small "gap above NADAC grew 42%/yr (FTC 2025)" footnote. Mobile-legible at ~400px. |
 | Headers | Standard | [ ] |
 
 ## Metrics
