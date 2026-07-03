@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday reach slot rebuilt June 2026 = live "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" owned-pharmacy steering shocking-reveal messy infographic, replacing the weak "5 COB Terms Decoded" vocabulary decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday reach slot rebuilt June 2026 = live "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" owned-pharmacy steering shocking-reveal one-way turnstile conceptual infographic, replacing the weak "5 COB Terms Decoded" vocabulary decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual)._
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -36,7 +36,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "Where Does Your Specialty Script Actually Get Filled?" | PART 1B | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: Mid-Summer Plan Check-In | PART 2B | [ ] |
 | Thu Jul 30 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, messy infographic) | Post 111 | [ ] |
+| Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, one-way turnstile conceptual infographic) | Post 111 | [ ] |
 | Thu Jul 30 | 10:05 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
 | Thu Jul 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 1:30 PM | LI Company | Reshare of Post 111 | Post 111 Reshare | [ ] |
@@ -630,43 +630,43 @@ This week's Benefit Blind Spots deep dive on site-of-care optimization is the op
 
 _The Site-of-Care Decision Framework whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Site-of-Care Decision Framework). The live Thursday post is below._
 
-### Thursday Excellence Slot - Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There — Owned-Pharmacy Steering Reveal (Messy Infographic)
+### Thursday Excellence Slot - Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There — Owned-Pharmacy Steering Reveal (Conceptual Infographic: One-Way Turnstile)
 
-> **NOTE (rebuilt June 2026, revised to avoid W29 collision):** This Thursday reach slot previously ran "5 Coordination of Benefits Terms Decoded" (Three-EOB photoreal), a vocabulary decoder, the weak summer shape (vocabulary decoders top out near 4-5K impressions in the trough; the shocking hidden-structure reveal clears 15-18K even in the trough, proven by the offshore-rebate-aggregator reveal at 17,816 organic). The first rebuild used the copay-maximizer "non-essential health benefit" reveal (`shocking_fact_bank.md` entry #5), but W29 (adjacent, Rebate Economics) also rebuilt its Thursday into that same fact. The same shocking fact cannot run two weeks running, so W30 switched to the **owned-pharmacy steering reveal** (`shocking_fact_bank.md` entry #3): the FTC's January 2025 staff report found the big-3 PBMs reimburse their own pharmacies meaningfully more than independent pharmacies for the identical specialty generic, with the heaviest-markup scripts disproportionately routed to the pharmacies they own. Framed as a SITE-OF-CARE STEERING FUNNEL: the prior-auth and network rules quietly route the specialty script to the owned pharmacy. This is the natural site-of-care reveal for W30.
+> **NOTE (rebuilt June 2026, revised to avoid W29 collision):** This Thursday reach slot previously ran "5 Coordination of Benefits Terms Decoded" (Three-EOB photoreal), a vocabulary decoder, the weak summer shape (vocabulary decoders top out near 4-5K impressions in the trough; the shocking hidden-structure reveal clears 15-18K even in the trough, proven by the offshore-rebate-aggregator reveal at 17,816 organic). The first rebuild used the copay-maximizer "non-essential health benefit" reveal (`shocking_fact_bank.md` entry #5), but W29 (adjacent, Rebate Economics) also rebuilt its Thursday into that same fact. The same shocking fact cannot run two weeks running, so W30 switched to the **owned-pharmacy steering reveal** (`shocking_fact_bank.md` entry #3): the FTC's January 2025 staff report found the big-3 PBMs reimburse their own pharmacies meaningfully more than independent pharmacies for the identical specialty generic, with the heaviest-markup scripts disproportionately routed to the pharmacies they own. Framed as a ONE-WAY TURNSTILE: the prior-auth and network rules leave the specialty script only one open door, the owned pharmacy. This is the natural site-of-care reveal for W30.
 > **Distinct check (triple-distinct + adjacency-ceiling rule):** Mon = Site-of-Care (where infusions are administered) · Tue = year-end renewal decisions · Wed = rebate clawback on GLP-1 lifestyle support (SHRM clip) · Thu = owned-pharmacy steering reveal (the prior-auth + network funnel that routes the specialty script to the PBM-owned pharmacy). Four different subjects; no two collapse to one topic family. Steering/routing is adjacent to Monday's site-of-care subject but a different mechanism (who fills the script and at what rate, not which administration setting), so it holds at the adjacency ceiling without colliding.
 > **Distinct from W28 (load-bearing):** W28 (Network Design) wove the same FTC own-pharmacy stat as a GENERIC-SPREAD / GER-average reveal (the $0.12 acquisition vs $9 paid "average hides the spread" angle). W30 deliberately does NOT reuse that angle. W30's mechanism is the routing funnel (prior-auth + network steering, the >$1,000 scripts landing at the owned pharmacy), a different mechanism and a different hook.
 > The displaced "5 COB Terms Decoded" content was not shipped as a duplicate. No dead/duplicate block remains; the Field Note (PART 1B) is fully retargeted to this steering concept.
 
-**Format:** Single messy infographic, photoreal aesthetic (a prior-auth form and a routing slip on a desk with handwritten red-pen annotations showing the script funneled to the owned pharmacy). 1080 x 1350 px. Per the mobile-feed legibility rule: 5 items max, large primary type, payload dominates the center ~70%.
+**Format:** Single conceptual infographic, business-magazine register (a "one-way turnstile": a specialty script passes a prior-auth turnstile that only opens toward the PBM-owned pharmacy door, tagged "2x", while the independent-pharmacy door is chained shut). Conceptual over photoreal because the thesis is a flow/gate (per the CLAUDE.md "clean conceptual infographic when the thesis is a flow/comparison" rule and shocking-fact formula element 6, Bypass/one-way-gate). 1080 x 1350 px. Per the mobile-feed legibility rule: 5 elements max, large primary type, payload dominates the center ~70%.
 **Pillar:** Clinical Pharmacy Perspectives (specialty routing / site-of-care steering)
 **Field Note pairing (exclusive):** Same-day Substack Field Note "Where Does Your Specialty Script Actually Get Filled?" The Field Note exclusively supports this concept (Thursday Excellence component 5).
 **Reference document pairing:** Same-day Plan Sponsor Toolkit handout, the REUSED live Specialty Routing Audit Worksheet at `rxbs.org/toolkit/specialty-routing` (refer-back-first; no new toolkit minted).
 **Shocking fact woven:** `shocking_fact_bank.md` entry #3, FTC Second Interim Staff Report (Jan 2025): big-3 PBMs reimburse their own pharmacies up to ~100% more than independents for the identical specialty generic, with the >$1,000/script markups disproportionately routed to owned pharmacies. Cited as "the FTC found" in-post; no invented dollar figure in the post body.
 
-**Winning-profile traits hit (8+ of 10):** shocking hidden-structure reveal (replaces decoder shape) · named-actor framing (the PBM as the actor steering and self-paying; the plan as the payer) · dollar-comparison shape (owned vs independent rate for the same drug) · plan-sponsor-actionable · confrontational hook delivered as a shock · messy infographic / photoreal aesthetic · first-comment Substack cross-promo · proprietary anchor (hundreds of contracts a year) · save-driven structure · single-image photoreal aesthetic.
+**Winning-profile traits hit (8+ of 10):** shocking hidden-structure reveal (replaces decoder shape) · named-actor framing (the PBM as the actor steering and self-paying; the plan as the payer) · dollar-comparison shape (owned "2x" vs independent rate for the same drug) · plan-sponsor-actionable · confrontational hook delivered as a shock · conceptual infographic that dramatizes the thesis (one-way turnstile / gate, formula element 6) · first-comment Substack cross-promo · proprietary anchor (hundreds of contracts a year) · save-driven structure · single-image thumbnail-legible visual.
 
-**Thursday Excellence 5-trait audit:** (1) Format = single messy-infographic photoreal at 1080x1350 ✓. (2) Hook = confrontational named-actor, revealing the hidden steering funnel as a shock ("Your PBM pays its own pharmacy up to twice what it pays the independent down the street for the identical drug. Then its prior-auth rules make sure your script lands there.") ✓. (3) Proprietary anchor = "We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and in most plans we audit, well over half the specialty scripts fill at a pharmacy the PBM owns" ✓. (4) First comment names the same-day Field Note specifically (the three checks) + cross-promo link ✓. (5) Field Note (PART 1B) exclusively supports this concept, the operational follow-on (how to find the steering on your own plan) ✓.
+**Thursday Excellence 5-trait audit:** (1) Format = single conceptual infographic (one-way turnstile, business-magazine register) at 1080x1350, the thesis-dramatizing visual the reveal formula calls for ✓. (2) Hook = confrontational named-actor, revealing the hidden steering funnel as a shock ("Your PBM pays its own pharmacy up to twice what it pays the independent down the street for the identical drug. Then its prior-auth rules make sure your script lands there.") ✓. (3) Proprietary anchor = "We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and in most plans we audit, well over half the specialty scripts fill at a pharmacy the PBM owns" ✓. (4) First comment names the same-day Field Note specifically (the three checks) + cross-promo link ✓. (5) Field Note (PART 1B) exclusively supports this concept, the operational follow-on (how to find the steering on your own plan) ✓.
 
 #### Post Copy
 
 ```
-Your PBM pays its own pharmacy up to twice what it pays the independent down the street for the identical drug. Then its prior-auth rules make sure your specialty script lands there.
+Your PBM pays the pharmacy it owns up to twice what it pays the independent down the street for the identical drug. Then its prior-authorization rules leave your specialty script only one door it can walk through: theirs.
 
-That is not a network. It is a funnel with a price tag, and most plan sponsors have never been shown how it works.
+That is not a network. It is a one-way turnstile with a price tag, and most plan sponsors have never been shown which way it turns.
 
 The FTC put it on the record. In its January 2025 staff report, the FTC found the big-3 PBMs reimbursed their own pharmacies meaningfully more than independent pharmacies for the identical specialty generic, and that the drugs with the largest per-script markups were disproportionately routed to the pharmacies the PBM owns. The sicker the member and the more expensive the drug, the more likely the script was steered to the owned pharmacy.
 
 We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and in most plans we audit, well over half the specialty scripts fill at a pharmacy the PBM owns. No member chose that. The rules chose it for them.
 
-Here is how the funnel works, in order:
+Here is how the turnstile works, in order:
 
 1. The drug needs prior authorization. The PBM controls the criteria.
 
 2. The approved pathway designates the PBM's own specialty pharmacy as the place to fill it.
 
-3. The network language makes any other pharmacy harder, slower, or out of network.
+3. The network language walls off any other pharmacy: harder, slower, or out of network.
 
-4. The script fills at the owned pharmacy, which the PBM reimburses at its own rate, the higher one.
+4. The only open door is the owned pharmacy, which the PBM reimburses at its own rate, the higher one.
 
 5. Your plan pays that rate. The clinical question was where the drug is safest to fill. The financial question, who profits from the answer, never got asked.
 
@@ -681,32 +681,31 @@ Save this for your next quarterly review.
 Today's Field Note on Benefit Blind Spots is the operational follow-on: the three checks to find whether owned-pharmacy steering is running on your own plan (pull your specialty claims by filling pharmacy; read the prior-auth and network rules that route the script; compare the owned-pharmacy rate to an independent benchmark). Plus the Specialty Routing Audit Worksheet you can hand to your broker. [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Image Generation Prompt (Owned-Pharmacy Steering Reveal · Messy Infographic Photoreal)
+#### Image Generation Prompt (Owned-Pharmacy Steering Reveal · Conceptual Infographic, One-Way Turnstile)
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). On a dark wood desk, a printed "PRIOR AUTHORIZATION" form sits in the center filling the center ~70% of the frame, slight perspective angle. Below and to the right of it, a small printed routing slip reads "FILL AT: SPECIALTY PHARMACY (OWNED)" in clear type. A simple hand-drawn funnel is sketched in black marker over the open desk space, with several small drawn prescription scripts dropping into the wide top and a single bold red arrow channeling them out the narrow bottom toward the routing slip. A capped red ballpoint pen rests diagonally across the lower-right corner of the form.
+> A clean conceptual business-magazine illustration, 1080 x 1350 pixels (4:5 vertical), flat vector style on a pure white (#FFFFFF) background with generous negative space. The scene is a single "one-way turnstile" that a prescription can only pass through in one direction. Composition fills the center ~70% of the frame; no more than five distinct elements total.
 >
-> Above the form, in larger handwritten black-marker handwriting, double-underlined: "Same drug. The rules pick the pharmacy."
+> Center-left: a small, clean prescription-bottle icon labeled "SPECIALTY Rx" in Plex Sans, moving rightward along a short path toward a rotating turnstile gate. The turnstile is a simple three-arm barrier drawn in Primary Blue (#015880); a curved motion arrow in Accent Blue (#A7E0FA) shows it swinging ONLY toward the right-hand door. Across the turnstile arm, a small label in Plex Sans reads "PRIOR AUTH".
 >
-> Five handwritten red ballpoint annotations are written in the open desk space around the form, generously spaced, each large enough to read at thumbnail size, pointing at the relevant element:
-> - Pointing at the prior-auth form: "PA criteria: the PBM writes them"
-> - Pointing at the routing slip: "Approved pathway = the PBM's OWN pharmacy"
-> - Pointing at the funnel: "Network rules make any other pharmacy harder"
-> - Pointing at the owned-pharmacy end: "Owned pharmacy paid up to 2x the independent rate (FTC, Jan 2025)"
-> - Pointing across the bottom: "Biggest-markup scripts land here"
+> Right side, the OPEN door: a doorway outlined and filled with Accent Blue (#A7E0FA) glow, wide open, labeled "PHARMACY THE PBM OWNS" in Plex Sans SemiBold. A tilted price tag hangs on this door reading, in Plex Mono Medium tabular figures, a bold "2x". A short caption under the tag in Plex Sans reads "pays itself twice the independent rate".
 >
-> Below the form, in larger red marker, double-underlined: "Not a network. A funnel with a price tag."
+> Left/lower door, the CLOSED path: a second doorway drawn in flat Gray (#4D4D4D), walled over with a brick-hatch pattern and crossed by a drawn padlock-and-chain, labeled "INDEPENDENT PHARMACY" in Gray. It is the same size as the owned door but sealed shut, so the contrast reads instantly: one door open and lit, one chained.
 >
-> Below that, in smaller handwritten red pen: "We review hundreds of PBM contracts a year. In most plans, over half of specialty scripts fill at a pharmacy the PBM owns."
+> Two-tone headline across the TOP in Plex Sans SemiBold, split-color: "Same drug." in Primary Blue (#015880) and "Only one door opens." in Accent Blue-on-a-Primary-Blue-underline treatment (set the second phrase in Primary Blue with an Accent Blue underline bar so it stays legible on white). Large enough to read at ~400px thumbnail.
 >
-> Style: realistic document photography, soft natural daylight from upper-left, subtle shadow under the form, slight paper curl at the corners, faint paper texture. Slightly imperfect handwriting (Caveat / Permanent Marker / Kalam-style) for authenticity. Colors: off-white printed forms with black printed text, dark wood desk, red handwritten ballpoint and red arrow, black handwritten title marker and funnel sketch. No logos, no brand marks, no people, no pharmacy chain names, no member names.
+> Footer strip across the BOTTOM in Plex Sans SemiBold, two-tone: "Not a network." in Gray (#4D4D4D) and "A one-way turnstile with a price tag." in Primary Blue (#015880). Below it, one small line in Plex Sans Regular Gray: "FTC staff report, January 2025." In the very bottom corner, small Plex Sans Regular: "rxbs.org".
+>
+> A repeating geometric detail: a row of small evenly-spaced Accent Blue chevron/tick marks along the open path from the turnstile to the owned door, reinforcing the one-way flow.
+>
+> Colors strictly: Primary Blue #015880, Accent Blue #A7E0FA, Gray #4D4D4D, white background only. Typography: IBM Plex Sans SemiBold for headline and door labels, Plex Sans Regular for captions, Plex Mono Medium tabular figures for the "2x" price tag. Clinical-credibility register, not playful. No logos, no brand marks, no people, no pharmacy chain names, no member names, no photographic texture.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above
-2. Open in Canva at 1080 x 1350 px and run the mandatory mobile-feed legibility check at ~400px wide: the title and the "FILL AT: OWNED" routing slip must read at thumbnail size; the five red-pen annotations must read on tap. Cap at five annotations, generously spaced.
-3. If any handwritten annotation renders illegibly, overlay clean handwritten text in Caveat / Permanent Marker / Kalam font in matching red ink color
-4. Verify the funnel + red arrow clearly channels the scripts to the OWNED pharmacy (the visual payload of the reveal)
-5. Verify the "(FTC, Jan 2025)" citation renders cleanly (most common AI failure: mangled text); re-overlay in red ink if needed
-6. No PBS logo, no Benefit Blind Spots badge — image stands on its own
+1. Generate base image using the prompt above (ChatGPT / Gemini is a proven path for clean conceptual scorecard/flow layouts per CLAUDE.md).
+2. Open in Canva at 1080 x 1350 px and run the mandatory mobile-feed legibility check at ~400px wide: the headline "Same drug. Only one door opens.", the "2x" price tag, and the two door labels must all read at thumbnail size; captions read on tap. Five elements max (traveling Rx, turnstile, open owned door, chained independent door, headline/footer text).
+3. If the generator mangles any type, rebuild the headline, footer, door labels, and the "2x" tag in Canva using IBM Plex Sans SemiBold + Plex Mono Medium in the exact hex colors above (Canva is the fallback; do not ship condensed poster faces).
+4. Verify the turnstile arrow + Accent Blue chevrons clearly channel the specialty Rx to the OPEN owned-pharmacy door and that the independent door reads as chained/walled (the visual payload of the reveal).
+5. Verify the "FTC staff report, January 2025" line renders cleanly (most common AI failure: mangled text); re-set in Plex Sans if needed.
+6. No PBS logo, no Benefit Blind Spots badge — image stands on its own (small "rxbs.org" wordmark in the corner is fine, added in Canva if the generator drops it).
 7. Export as PNG at 1080 x 1350
 
 ---
@@ -718,7 +717,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: the thre
 #### Reshare Copy
 
 ```
-Your PBM pays its own pharmacy more than the independent down the street for the identical specialty drug, then uses prior-auth and network rules to route your script there. The FTC documented it in January 2025. Not a network. A funnel.
+Your PBM pays the pharmacy it owns more than the independent down the street for the identical specialty drug, then uses prior-auth and network rules to leave your script only one open door: theirs. The FTC documented it in January 2025. Not a network. A one-way turnstile.
 
 Ginny Crisp on how to find the steering on your plan.
 
@@ -1066,7 +1065,7 @@ One question that changes the room: "Show me the difference between what you pai
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
 - [ ] Tuesday: Post 109 One Number Carousel 10:00 AM + Reshare
 - [ ] Wednesday: Post 110 Text/Video 10:00 AM (VIDEO TEST #3)
-- [ ] Thursday: Field Note "Where Does Your Specialty Script Actually Get Filled?" 7:30 AM, Post 111 owned-pharmacy steering reveal messy infographic 10:00 AM + Reshare (Thursday Excellence: confirm the 5-trait audit note in Post 111 before scheduling)
+- [ ] Thursday: Field Note "Where Does Your Specialty Script Actually Get Filled?" 7:30 AM, Post 111 owned-pharmacy steering reveal one-way turnstile conceptual infographic 10:00 AM + Reshare (Thursday Excellence: confirm the 5-trait audit note in Post 111 before scheduling)
 - [ ] Friday: Post 112 Tease 10:00 AM
 - [ ] Evaluate video test results: compare 3 video tests (Weeks 26, 28, 30) vs text baselines
 - [ ] Daily Substack Notes
@@ -1078,7 +1077,7 @@ One question that changes the room: "Show me the difference between what you pai
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 109 One Number Carousel | 7 slides (1080x1350) | "5 Self-Funded Decisions That Have to Land Before Year-End" — Q4 renewal-prep decisions anchored by dates and counts, Self-Funded Employer Guidance pillar |
-| Post 111 Owned-Pharmacy Steering Reveal (Messy Infographic Photoreal) | 1080x1350 | "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" — owned-pharmacy steering shocking reveal, Clinical Pharmacy Perspectives pillar. Mobile legibility: 5 annotations max, funnel-to-OWNED routing + title readable at thumbnail |
+| Post 111 Owned-Pharmacy Steering Reveal (Conceptual Infographic: One-Way Turnstile) | 1080x1350 | "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" — owned-pharmacy steering shocking reveal, Clinical Pharmacy Perspectives pillar. One-way turnstile: specialty Rx passes a prior-auth turnstile that only opens to the PBM-owned door (tagged "2x"); independent door chained shut. Mobile legibility: 5 elements max, headline + "2x" tag + door labels readable at thumbnail |
 | In-Article Visual: Site-of-Care Decision Framework (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Post 110 Video (optional) | Vertical, 45 sec | VIDEO TEST #3 |
 | Substack header | 2240x1260 | [ ] |

@@ -39,7 +39,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Aug 5 | 8:30 PM | X | aphorism [C3] | PART 4B · Wed | [ ] |
 | Thu Aug 6 | 7:30 AM | Substack | Field Note: "Why Do Three PBMs Control 80% of Prescriptions, and What Can a Plan Sponsor Do About It?" | PART 1B | [ ] |
 | Thu Aug 6 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 6 | 10:00 AM | LI Feed | Post 115 — "Three Companies. Both Sides of the Counter." (Market Concentration reveal, clean-conceptual infographic) | Post 115 | [ ] |
+| Thu Aug 6 | 10:00 AM | LI Feed | Post 115 — "Three Companies. Both Sides of the Counter." (Market Concentration reveal, both-sides-of-the-counter tableau) | Post 115 | [ ] |
 | Thu Aug 6 | 10:05 AM | LI Feed | Post 115 first comment | Post 115 | [ ] |
 | Thu Aug 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 1:30 PM | LI Company | Reshare of Post 115 | Post 115 Reshare | [ ] |
@@ -618,28 +618,28 @@ This week's Benefit Blind Spots deep dive on the PBM RFP process is the operatio
 
 _The RFP Process Timeline whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: RFP Process Timeline). The live Thursday post is below._
 
-### Thursday Excellence Slot - "Three Companies. Both Sides of the Counter." — Market-Concentration Reveal (clean-conceptual infographic)
+### Thursday Excellence Slot - "Three Companies. Both Sides of the Counter." — Market-Concentration Reveal (both-sides-of-the-counter tableau)
 
 > **REBUILD NOTE (June 27, 2026):** This Thursday slot previously ran "5 PBM Disclosure Terms Decoded" (Sticky Note Dashboard) — a vocabulary decoder that tops out ~4-5K impressions in the summer trough. Rebuilt as a **shocking hidden-structure reveal** (`shocking_fact_bank.md` entry #4: PBM market concentration, both sides of the counter, FTC July 2024 interim report). Reveals of this shape clear 15-18K organic even in the trough (the offshore rebate-aggregator reveal hit 17.8K fully organic). The displaced disclosure-decoder + its "Auditing Your PBM's Annual Disclosure Obligations" Field Note are parked per the FN-parking note in PART 1B; the five decoded disclosure terms carry forward intact in that parked draft. Earlier history: this slot was originally a Slot C "5 Questions About Clinical Program ROI" carousel (displaced May 9 over W32 cross-week cannibalization; preserved in `evergreen_visual_backlog.md` as concept #32).
 
-**Format:** Single clean-conceptual infographic (split "both sides of the counter" layout). 1080 x 1350 px. Clean conceptual over photoreal document here because the thesis is a structural argument (one market, two sides, three owners), not a contract redline — the clean infographic dramatizes the argument and is far more legible at thumbnail. AI image-generation (ChatGPT / Gemini) is a proven path for clean conceptual layouts; Canva is the fallback if a regen mangles text.
+**Format:** Single flat editorial-illustration tableau, business-magazine register (Bloomberg Businessweek / Economist conceptual-illustration look). 1080 x 1350 px. The reveal is dramatized as a memorable SCENE instead of a diagram: one pharmacy counter viewed head-on with the SAME three figures standing on BOTH sides, one figure passing money across the counter to its own mirror-self, so the conflict of interest (referee who is also a player) is literal. Scene over split-diagram because the shock is the self-dealing, not the two numbers alone; the numbers ride along as the second-read payload. Flat conceptual over photoreal document because there is no contract redline to decode. AI image-generation (ChatGPT / Gemini) is a proven path for clean conceptual layouts; Canva is the fallback if a regen mangles text or the figures do not read as identical.
 **Pillar:** Transparency & Industry Education
 **Field Note pairing:** Same-day Substack Field Note "Why Three PBMs Control 80% of Prescriptions, and What a Plan Sponsor Can Actually Do About It" (PART 1B) — exclusively supports this reveal: concentration is the diagnosis, a real RFP is the response.
 **Reference document pairing:** Existing RFP Scoring Methodology Audit (`rxbs.org/toolkit/rfp-scoring-audit`, refer-back per PART 1C — no new toolkit minted this week).
 
 **Thursday Excellence 5-trait audit (all required, all hit):**
-1. **Format = clean-conceptual single image, 1080x1350, mobile-legible.** Capped at the two figures (80% / 70%) + the 52%→80% growth line + "3 PBMs" brace = under 5 elements; the two big Plex Mono figures dominate the center ~70%; readable at ~400px thumbnail.
+1. **Format = single editorial-illustration tableau, 1080x1350, mobile-legible.** Capped at five elements: the counter (with Rx sign), the three figures in front ("SETS THE PRICE" / 80%), the same three figures behind ("OWNS THE PHARMACY" / 70%), the self-payment money arc (the only other Accent Blue), and the headline + footer. The self-passing gesture is the first read; the two big Plex Mono figures (80% / 70%) are the second read; all read at ~400px thumbnail. The 52%→80% growth is folded into the compact footer line to hold the element cap.
 2. **Hook = confrontational, named-actor.** Names the three big PBMs as the actor sitting on both sides of the counter; names the plan sponsor as the party choosing among them. The shock is the genuinely-underknown structural fact (FTC concentration figures), delivered as a reveal, not labeled a "secret."
 3. **Proprietary anchor (varied).** "the hundreds of PBM contracts and RFP evaluations we run each year at Prescription Benefit Solutions" + the real 2025 RFP-line result (59 PBM RFPs, 25% average savings) — not the repeated "we review hundreds of contracts" verbatim.
 4. **First comment names the same-day Field Note specifically + routes to the live toolkit.** Names the concentration→RFP framework in the Field Note and routes to `rxbs.org/toolkit/rfp-scoring-audit`.
 5. **Field Note exclusively supports the concept.** The Field Note is the operational follow-on: why concentration does not erase leverage, and the structured RFP that turns it back on the bidders.
 
-**Winning-profile traits hit (8 of 10):** shocking-fact reveal (genuinely-unknown structural fact) · named-actor framing · plan-sponsor-actionable · confrontational hook · clean-conceptual messy-infographic-adjacent format · first-comment Substack cross-promo · proprietary anchor · save-driven structure.
+**Winning-profile traits hit (8 of 10):** shocking-fact reveal (genuinely-unknown structural fact) · named-actor framing · plan-sponsor-actionable · confrontational hook · single-image editorial-illustration tableau (dramatizes the thesis as a scene) · first-comment Substack cross-promo · proprietary anchor · save-driven structure.
 
 #### Post Copy
 
 ```
-Three companies decide what 80 percent of American prescriptions cost. The same three own the pharmacies that collect 70 percent of every specialty dollar. Both sides of the counter.
+Three companies decide what 80 percent of American prescriptions cost. The same three own the pharmacies collecting 70 percent of every specialty dollar. They set the price, then pay it to themselves across their own counter.
 
 That is not a market with referees. It is three referees who own the teams.
 
@@ -672,29 +672,30 @@ The RFP Scoring Methodology Audit is the paste-ready worksheet to run the bids t
 
 #### Image Generation Prompt
 
-> A clean flat-design conceptual infographic, 1080 x 1350 pixels (4:5 vertical), solid white (#FFFFFF) background with generous negative space. The composition is split down the middle by a single tall flat-design pharmacy-counter icon in Primary Blue (#015880), rendered as a clean counter silhouette running vertically, dividing the frame into two mirrored halves labeled at the very top in small Plex Sans SemiBold uppercase Gray (#4D4D4D): left side "SETS THE PRICE", right side "OWNS THE PHARMACY".
+> A flat editorial-illustration conceptual scene in a business-magazine register (the kind of single-idea conceptual illustration in Bloomberg Businessweek or The Economist), 1080 x 1350 pixels (4:5 vertical), solid white (#FFFFFF) background with generous negative space.
 >
-> Above the counter, centered: three identical small building/tower icons in Primary Blue joined by a curly brace, with the label "3 PBMs" in Plex Sans SemiBold Primary Blue 28pt directly beneath the brace.
+> CENTER OF THE FRAME: a single pharmacy counter viewed head-on, drawn as a clean flat Primary Blue (#015880) counter silhouette running horizontally across the middle, with a simple flat "Rx" mortar-and-pestle mark and a small blank "PHARMACY" sign above it. No brand names, no logos on the sign.
 >
-> On the LEFT half, dominating the center, the figure "80%" in very large Plex Mono Medium Accent Blue (#A7E0FA), roughly 220pt, with a small Plex Sans Regular Gray caption under it: "of US prescriptions (2023)".
+> IN FRONT OF THE COUNTER (the customer / payer side, lower foreground): three identical faceless figures in flat Primary Blue silhouette, standing shoulder to shoulder. Small Plex Sans SemiBold uppercase Gray (#4D4D4D) label beneath them: "SETS THE PRICE". Beside them the figure "80%" in large Plex Mono Medium Accent Blue (#A7E0FA), roughly 150pt, with a small Plex Sans Regular Gray caption under it: "of prescriptions".
 >
-> On the RIGHT half, mirrored, the figure "70%" in very large Plex Mono Medium Accent Blue (#A7E0FA), roughly 220pt, with a small Plex Sans Regular Gray caption under it: "of specialty drug revenue".
+> BEHIND THE COUNTER (the pharmacist / dispenser side, upper): the SAME three identical figures, mirrored, in the identical flat Primary Blue silhouette so it is unmistakable they are the same three actors reused. Small Plex Sans SemiBold uppercase Gray label above them: "OWNS THE PHARMACY". Beside them the figure "70%" in large Plex Mono Medium Accent Blue, roughly 150pt, with a small Plex Sans Regular Gray caption under it: "of specialty revenue".
 >
-> Across the bottom third, a thin horizontal growth line in Accent Blue rising left-to-right, with two Plex Mono Medium tick labels: "52%" at the low-left end captioned "2004" and "80%" at the high-right end captioned "2023", a small upward arrowhead at the right tip.
+> THE DRAMATIC FOCAL ELEMENT: the center figure in front reaches an arm across the counter and hands a stack of banknotes to its own identical mirror-self behind the counter, forming a closed loop of money passing from one side to the same actor on the other. The banknotes and the arc of the hand-off are the ONLY Accent Blue (#A7E0FA) fill in the scene besides the two big percentage figures, so the eye lands on the self-payment first. The gesture must read as one actor paying itself, not two people trading.
 >
-> Two-tone headline along the top of the frame in IBM Plex Sans SemiBold (NOT a condensed poster face): "Three Companies." in Primary Blue (#015880) on the first line, "Both Sides of the Counter." in Accent Blue (#A7E0FA) on the second line, roughly 60pt.
+> Two-tone headline across the top of the frame in IBM Plex Sans SemiBold (NOT a condensed poster face): "Three Companies." in Primary Blue (#015880) on the first line, "Both Sides of the Counter." in Accent Blue (#A7E0FA) on the second line, roughly 60pt.
 >
-> Small source line bottom-center in Plex Mono Medium Gray 14pt: "Source: FTC, July 2024". Small "rxbs.org" bottom-right in Plex Mono Medium Gray 14pt.
+> Compact footer line along the very bottom in Plex Mono Medium Gray (#4D4D4D) roughly 14pt: "52% in 2004 to 80% in 2023" on the left, "Source: FTC, July 2024" centered, "rxbs.org" on the right.
 >
-> Style: flat corporate editorial, no 3D, no gradients, no photographs, no logos, no people. Color palette strictly: white (#FFFFFF) background, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). The two large figures "80%" and "70%" are the dominant elements and must read instantly at thumbnail size.
+> Style: flat corporate editorial illustration, no 3D, no gradients, no photographs, no real logos or brand names, faceless figures only. Palette strictly: white (#FFFFFF) background, Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). The one figure paying money to itself across the counter is the dramatic core and must read at ~400px thumbnail; the "80%" and "70%" figures are the second-read payload.
 
 **Post-Generation Steps:**
-1. Generate base image using the prompt above (ChatGPT / Gemini for the clean conceptual layout; Canva fallback if text mangles)
-2. Verify the title renders in IBM Plex Sans SemiBold, not a condensed poster face (brand: clinical-credibility register)
-3. Open in Canva at 1080 x 1350 px and run the mandatory ~400px legibility check: the "80%" and "70%" figures and the two-tone headline must read at thumbnail; enlarge anything hard to read
-4. Confirm the "Source: FTC, July 2024" line is present and legible (the named federal source is part of why the reveal lands and is non-negotiable)
-5. Add the small PBS logo bottom-right if not generated (logos are never put in the generation prompt)
-6. Export as PNG at 1080 x 1350
+1. Generate base image using the prompt above (ChatGPT / Gemini for the flat conceptual scene; Canva fallback if text mangles or the figures do not read as identical)
+2. Verify the tableau reads correctly: the SAME three figures appear on both sides of the counter, and the center figure is clearly handing money to its own mirror-self (one actor paying itself, not two parties trading). If the two sides look like different people, regenerate — the self-dealing is the whole point.
+3. Verify the title renders in IBM Plex Sans SemiBold, not a condensed poster face (brand: clinical-credibility register)
+4. Open in Canva at 1080 x 1350 px and run the mandatory ~400px legibility check: the self-payment gesture, the two-tone headline, and the "80%" / "70%" figures must all read at thumbnail; enlarge anything hard to read
+5. Confirm the footer "Source: FTC, July 2024" is present and legible (the named federal source is part of why the reveal lands and is non-negotiable)
+6. Add the small PBS logo bottom-right if not generated (logos are never put in the generation prompt)
+7. Export as PNG at 1080 x 1350
 
 ---
 
@@ -1042,8 +1043,8 @@ Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If t
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 113 Mountain Clean Infographic | 1080x1350 | "Three Cost Containment Levers. Three Different Clocks." — flat-design mountain climb with three lever bands plotted at different altitudes, Cost Containment pillar |
-| Post 115 Market-Concentration Reveal (clean-conceptual split infographic) | 1080x1350 | "Three Companies. Both Sides of the Counter." — 80% prescriptions / 70% specialty revenue split layout, FTC July 2024 source line, Transparency pillar |
-| Post 115 Field Note header (Data Highlight) | 1200x600 | "Both Sides of the Counter. Three Companies." — counter-split, 80%/70% figures, FIELD NOTE badge |
+| Post 115 Market-Concentration Reveal (both-sides-of-the-counter tableau) | 1080x1350 | "Three Companies. Both Sides of the Counter." — editorial-illustration scene: same three figures on both sides of one pharmacy counter, center figure passing money to its own mirror-self; 80% prescriptions / 70% specialty revenue; 52%→80% footer; FTC July 2024 source line; Transparency pillar |
+| Post 115 Field Note header (Data Highlight) | 1200x600 | "Both Sides of the Counter. Three Companies." — counter tableau, 80%/70% figures, FIELD NOTE badge |
 | In-Article Visual: RFP Process Timeline (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Headers | Standard | [ ] |
 

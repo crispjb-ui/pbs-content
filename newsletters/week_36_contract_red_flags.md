@@ -32,7 +32,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Sep 9 | 8:30 PM | X | aphorism [C8] | PART 4B · Wed | [ ] |
 | Thu Sep 10 | 7:30 AM | Substack | Field Note: "How to Audit Your Formulary for the PBM's Private-Label Swap" | PART 1B | [ ] |
 | Thu Sep 10 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Thu | [ ] |
-| Thu Sep 10 | 10:00 AM | LI Feed | Post 135 — REVEAL: "The 'preferred' formulary is a storefront the PBM rents to itself" (600+ exclusions / private-label swap, single image, Slot A) | Post 135 | [ ] |
+| Thu Sep 10 | 10:00 AM | LI Feed | Post 135 — REVEAL: "The 'preferred' formulary is a storefront the PBM rents to itself" — rented-storefront shelf (EXCLUDED rack swept bare / PREFERRED rack restocked with one repeated house-brand bottle), 600+ exclusions / private-label swap, single image, Slot A | Post 135 | [ ] |
 | Thu Sep 10 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Sep 10 | 1:30 PM | LI Company | Reshare of Post 135 | Post 135 Reshare | [ ] |
 | Thu Sep 10 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -528,7 +528,7 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 - **Reveal source:** `shocking_fact_bank.md` entry #6. Verified at build (June 2026) against Drug Channels / Adam Fein 2025 formulary exclusion review and Becker's Hospital Review: each big-3 PBM excluded more than 600 drugs from its 2025 standard formulary (an all-time high), and all three dropped AbbVie's Humira in favor of private-label biosimilars sold through their own subsidiaries (CVS Caremark / Cordavis, Express Scripts / Quallent, Optum Rx / Nuvaila).
 
 **Thursday Excellence 5-trait audit (all five required, all hit):**
-1. **Format = messy infographic / clean-conceptual single image.** Storefront-shelf concept (below): a pharmacy shelf where the "excluded" rack is swept bare and the "preferred" rack is restocked with a single house-brand bottle. Single image, 5 elements, mobile-legible at ~400px.
+1. **Format = messy infographic / clean-conceptual single image.** The rented-storefront concept (below): a business-magazine-register pharmacy shelf where the "EXCLUDED · 600+" rack is swept bare and the "PREFERRED" rack is restocked with rows of one identical house-brand bottle, tagged "PBM's own label" and "rent paid to itself." Single image, 5 elements, mobile-legible at ~400px. The storefront the PBM rents to itself is the picture.
 2. **Hook = confrontational, named-actor.** Names the PBM as the actor and the "preferred" formulary as the storefront it rents to itself. Knowledge-gap + discomfort.
 3. **Proprietary anchor (varied, not the repeated "hundreds of contracts a year").** This week's anchor pulls a 2025 firm metric: "Across the 86 contract reviews we ran in 2025, the clause that decides this is the same one most plans never negotiate: whether the PBM can swap to its own private label without your sign-off."
 4. **First comment names the same-day Field Note specifically + reuses a live toolkit** (refer-back-first; no new toolkit minted): the Step Therapy / Formulary Override toolkit at `rxbs.org/toolkit/step-therapy-override`.
@@ -544,11 +544,11 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 #### Post Copy
 
 ```
-Your PBM's "preferred" formulary now excludes more than 600 drugs. That is an all-time high, and the replacements increasingly carry the PBM's own private label.
+Your PBM's "preferred" formulary now excludes more than 600 drugs, an all-time high, and the replacements increasingly carry the PBM's own private label.
 
 Look at what happened to Humira. All three of the big PBMs dropped it. They replaced it with a private-label biosimilar sold through a subsidiary they own: Cordavis at CVS Caremark, Quallent at Express Scripts, Nuvaila at Optum Rx. Same molecule class. Now it routes through a house brand the PBM profits from twice.
 
-That "preferred" list is not a clinical ranking. It is a storefront the PBM rents to itself. The drugs that get excluded and the house brand that fills the gap are a margin decision wearing a formulary's name.
+That "preferred" list is not a clinical ranking. It is a storefront the PBM rents to itself. It sweeps 600+ drugs off one shelf and restocks the other with a single house brand it owns, then pays the rent to itself. A margin decision wearing a formulary's name.
 
 Across the 86 contract reviews we ran in 2025, the clause that decides whether this can happen to your plan is the same one most plan sponsors never negotiate: whether the PBM can move a drug to its own private label, or exclude a competitor, without your sign-off.
 
@@ -569,26 +569,37 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: how to a
 [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Single-Image Concept (messy-infographic / storefront-shelf)
+#### Single-Image Concept (the rented storefront — pharmacy shelf, business-magazine register)
 
-**Format:** Single LinkedIn feed image, photoreal-leaning conceptual. Mobile-legible at ~400px (in-feed pre-tap): the headline and the house-brand bottle read at thumbnail; the named-subsidiary line reads on tap. Five elements max; high contrast.
+**Format:** Single LinkedIn feed image, business-magazine editorial register (clean, high-polish, well-lit product photography, not busy or cluttered). Mobile-legible at ~400px (in-feed pre-tap): the headline, the swept-bare EXCLUDED rack, and the restocked house-brand PREFERRED rack all read at thumbnail; the named-subsidiary line reads on tap. Five elements max; high contrast.
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** A pharmacy shelf split into two racks. The left rack is labeled "EXCLUDED · 600+" and is swept nearly bare, a few brand boxes tipped over and pushed off the edge. The right rack is labeled "PREFERRED" and holds a single, prominent house-brand pill bottle, restocked and front-facing, with a small price tag.
+**The image is the argument:** one pharmacy shelf, two racks. The PBM has swept the EXCLUDED rack bare (600+ drugs gone) and restocked the PREFERRED rack with rows of a single identical house-brand bottle it owns, tagged as its own label with the "rent" paid back to itself. The picture says "storefront the PBM rents to itself" before a word is read.
+
+**The five elements (nothing else in frame):**
+1. **EXCLUDED rack, swept bare** — left rack, printed label "EXCLUDED · 600+"; nearly empty, three or four brand-name-free medicine boxes toppled and pushed off the front edge (the 600+ implied by the emptiness, not drawn).
+2. **PREFERRED rack, restocked with ONE house brand** — right rack, printed label "PREFERRED"; fully stocked with neat rows of the same identical white-and-blue house-brand pill bottle repeated across every slot (one product fills the whole shelf).
+3. **"PBM's own label" price tag** — a small hanging tag on the front row of house-brand bottles reading "PBM'S OWN LABEL."
+4. **"rent paid to itself" tag** — a tiny second tag or shelf-edge sticker reading "RENT PAID TO ITSELF."
+5. **Two-tone headline + footer text** (overlaid; see below).
 
 **AI Image Generation Prompt for the single image (copy-paste as-is):**
 
-> A photorealistic conceptual image, 1080 x 1350 pixels (4:5 vertical). A clean pharmacy shelf unit photographed straight-on, divided into two clearly labeled racks. The LEFT rack has a printed label reading "EXCLUDED · 600+"; it is nearly empty, with three or four brand-name medicine boxes knocked over and being swept off the edge by a small broom. The RIGHT rack has a printed label reading "PREFERRED"; it holds one single prominent white-and-blue house-brand pill bottle, front-facing and well-lit, with a small hanging price tag. Soft even pharmacy lighting, shallow depth of field, subtle shadows. No people. No real brand logos. Colors: warm neutral shelf, off-white bottle with a deep teal-blue (#015880) label and Accent Blue (#A7E0FA) cap, red accent on the "EXCLUDED" label, deep teal-blue on the "PREFERRED" label.
+> A photorealistic, business-magazine-style conceptual product photograph, 1080 x 1350 pixels (4:5 vertical). One clean modern pharmacy shelf unit photographed straight-on under soft even editorial lighting, divided into two clearly labeled racks with a shallow depth of field and subtle shadows. The LEFT rack has a crisp printed label reading "EXCLUDED · 600+"; it is swept nearly bare, with three or four plain unbranded medicine boxes toppled over and pushed off the front edge, a small broom or brush resting against it. The RIGHT rack has a crisp printed label reading "PREFERRED"; it is fully restocked with neat identical rows of the SAME single house-brand pill bottle repeated across every slot, front-facing and well-lit, so one product visibly fills the entire shelf. On the front row of the PREFERRED rack hangs a small price tag reading "PBM'S OWN LABEL," and a tiny shelf-edge sticker reads "RENT PAID TO ITSELF." No people. No real brand names or logos on any bottle or box. Colors: warm neutral shelf, off-white house-brand bottles with a deep teal-blue (#015880) label and an Accent Blue (#A7E0FA) cap, a red accent on the "EXCLUDED · 600+" label, deep teal-blue on the "PREFERRED" label. Composition kept simple and uncluttered so it reads clearly at thumbnail size.
 >
-> Top of image, two-tone bold headline in clean sans-serif: "Your PBM's 'preferred' formulary" in deep teal-blue (#015880), then "excludes 600+ drugs" in white on a deep teal-blue band.
+> Top of image, two-tone bold sans-serif headline (IBM Plex Sans SemiBold): "Your PBM's 'preferred' formulary" in deep teal-blue (#015880), then "excludes " in white on a deep teal-blue band, with "600+" rendered in a monospace tabular face (IBM Plex Mono) and "drugs" in white on the same band.
 >
-> Bottom of image, smaller line in deep teal-blue: "The replacements carry the PBM's own private label. That list is not clinical. It is a storefront it rents to itself."
+> Bottom of image, one smaller footer line in deep teal-blue (IBM Plex Sans): "The replacements carry the PBM's own private label. Not a clinical list. A storefront it rents to itself."
+
+**On-image text (exact strings to render / correct in Canva):**
+- **Headline (two-tone):** `Your PBM's 'preferred' formulary` (Primary Blue #015880) + `excludes 600+ drugs` (white on Primary Blue band; render `600+` in Plex Mono tabular figures)
+- **Footer:** `The replacements carry the PBM's own private label. Not a clinical list. A storefront it rents to itself.` (Primary Blue #015880, Plex Sans)
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. If the AI mangles the headline or the "EXCLUDED · 600+" / "PREFERRED" labels, overlay the correct text in IBM Plex Sans SemiBold (Primary Blue + white two-tone per the headline) so it reads clean at ~400px.
-2. Overlay the named-subsidiary line in Plex Sans Regular near the house-brand bottle so it reads on tap: "Caremark / Cordavis · Express Scripts / Quallent · Optum Rx / Nuvaila."
-3. Mobile legibility check: preview at ~400px wide. The headline and the bottle must read at thumbnail; the subsidiary line must read on tap. Enlarge anything hard to read.
+1. If the AI mangles the headline or the "EXCLUDED · 600+" / "PREFERRED" / "PBM'S OWN LABEL" / "RENT PAID TO ITSELF" labels, overlay the correct text in IBM Plex Sans SemiBold (Primary Blue + white two-tone per the headline) so it reads clean at ~400px; set "600+" in IBM Plex Mono tabular figures.
+2. Overlay the named-subsidiary line in Plex Sans Regular near the house-brand rack so it reads on tap: "Caremark / Cordavis · Express Scripts / Quallent · Optum Rx / Nuvaila."
+3. Mobile legibility check: preview at ~400px wide. The headline, the empty EXCLUDED rack, and the one-house-brand PREFERRED rack must read at thumbnail; the subsidiary line and the two tags read on tap. Enlarge anything hard to read; keep to five elements.
 4. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
 5. Export as PNG at 1080 x 1350.
 
@@ -935,7 +946,7 @@ Ask your PBM for your generic effective rate against the contract guarantee, by 
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 133 Library 06 Contract Comparison Carousel | 7 slides (1080x1350) | "Three Clauses Behind Every Q4 Cost Pattern" — decodes accumulator adjustment, channel pricing/refill timing, and claim-year cutoff clauses, Self-Funded Employer Guidance pillar |
-| Post 135 REVEAL single image (formulary storefront) | 1 image (1080x1350) | "The 'preferred' formulary is a storefront the PBM rents to itself" — pharmacy-shelf concept, EXCLUDED 600+ rack swept bare / PREFERRED rack holding one house-brand bottle. Mobile-legible at ~400px; subsidiary line (Cordavis/Quallent/Nuvaila) on tap. PBM Contract Insights pillar |
+| Post 135 REVEAL single image (rented storefront) | 1 image (1080x1350) | "The 'preferred' formulary is a storefront the PBM rents to itself" — business-magazine pharmacy-shelf concept: EXCLUDED · 600+ rack swept bare (toppled boxes) / PREFERRED rack restocked with rows of ONE repeated house-brand bottle, tagged "PBM's own label" + "rent paid to itself." Two-tone Plex Sans headline, "600+" in Plex Mono. Mobile-legible at ~400px; subsidiary line (Cordavis/Quallent/Nuvaila) on tap. ≤5 elements. PBM Contract Insights pillar |
 | Substack headers | Mon deep dive (storefront/comparison), Thu Field Note (Excluded/Then Replaced) | [ ] |
 | Headers | Standard | [ ] |
 
