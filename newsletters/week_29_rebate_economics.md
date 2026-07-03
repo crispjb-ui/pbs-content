@@ -35,7 +35,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 22 | 8:30 PM | X | aphorism [C7] | PART 4B · Wed | [ ] |
 | Thu Jul 23 | 7:30 AM | Substack | Field Note: "The Program That Reclassifies Your Member's Drug as Non-Essential" | PART 1B | [ ] |
 | Thu Jul 23 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 23 | 10:00 AM | LI Feed | Post 107 — "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (Messy Infographic, Slot A reveal) | Post 107 | [ ] |
+| Thu Jul 23 | 10:00 AM | LI Feed | Post 107 — "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (The NON-ESSENTIAL Stamp photoreal, Slot A reveal) | Post 107 | [ ] |
 | Thu Jul 23 | 10:05 AM | LI Feed | Post 107 first comment | Post 107 | [ ] |
 | Thu Jul 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 1:30 PM | LI Company | Reshare of Post 107 | Post 107 Reshare | [ ] |
@@ -247,7 +247,7 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Tone:** Practical, tactical
 **Pillar:** Cost Containment Strategies
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn reveal "Copay Maximizer: the program that reclassifies your member's drug as non-essential" messy infographic. The LinkedIn post reveals the hidden program as a shock; this Field Note is the operational follow-on, the three checks a plan sponsor runs to find out whether a maximizer is bolted onto its own plan and what it is draining.
+**Pairs with:** Thursday LinkedIn reveal "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (the NON-ESSENTIAL Stamp photoreal scene). The LinkedIn post reveals the hidden program as a shock; this Field Note is the operational follow-on, the three checks a plan sponsor runs to find out whether a maximizer is bolted onto its own plan and what it is draining.
 **Why this pairing (triple-distinct rule):** Monday W29 is Rebate Economics (rebate flow), Tuesday is Audit Rights, Wednesday is the offshore rebate aggregator. Thursday moves to a genuinely-distinct hidden structure: the copay maximizer, a member-facing copay-program mechanic in the Cost Containment / copay-program family, not a rebate-flow or audit-rights or aggregator topic. The Field Note exclusively supports the Thursday LinkedIn reveal: same program, deeper application. The original "Auditing Your Pharmacy Network Configuration" Field Note draft is parked for central reuse (see parking note below).
 
 ---
@@ -594,7 +594,7 @@ _REBUILT (Jun 2026): the former Thursday post here was "5 Network Contract Terms
 ### Thursday Reach Post (Slot A reveal) - Copay Maximizer: The Program That Reclassifies Your Member's Drug as Non-Essential
 
 - **Slot:** A (Thursday Excellence reach post)
-- **Format:** Messy infographic, photoreal single image, 1080 x 1350 px
+- **Format:** Photoreal editorial single image (conceptual "NON-ESSENTIAL Stamp" scene), 1080 x 1350 px
 - **Pillar:** Cost Containment Strategies (copay programs)
 - **Shape:** Shocking hidden-structure reveal (best-kept-secret / genuinely-unknown-fact variant), not a vocabulary decoder
 - **Why distinct:** Mon = rebate flow, Tue = audit rights, Wed = offshore rebate aggregator. This is the copay maximizer, a member-facing copay-program mechanic. Different subject matter, different pillar. No cannibalization with the rebate-themed Mon/Wed posts.
@@ -602,7 +602,7 @@ _REBUILT (Jun 2026): the former Thursday post here was "5 Network Contract Terms
 #### Post Copy
 
 ```
-There is a program that legally reclassifies your employee's specialty drug as "non-essential," so the out-of-pocket cap disappears, then drains the manufacturer's full year of copay assistance back to the PBM. None of it touches your member's deductible. It may be bolted onto your plan right now.
+A vendor can stamp your employee's life-sustaining specialty drug "non-essential," legally, and that stamp deletes the out-of-pocket cap, then drains the manufacturer's entire year of copay assistance back to the PBM. None of it reaches your member's deductible. It may be bolted onto your plan right now.
 
 It is called a copay maximizer. Here is the move. A manufacturer copay card is supposed to lower your member's cost and count toward their deductible. The maximizer reclassifies the drug as a "non-essential health benefit," which is the exact step that removes the ACA out-of-pocket cap from that drug. Cap gone, the program sets the member's cost-share to capture the maximum the card pays all year, and routes that value to the PBM or its vendor instead of the member.
 
@@ -623,47 +623,40 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on to this p
 
 #### Thursday Excellence Audit (all 5 components, required before ship)
 
-- **(1) Format:** messy-infographic photoreal single image, 1080 x 1350 px (spec below). ✓
+- **(1) Format:** photoreal editorial single image, the "NON-ESSENTIAL Stamp" conceptual scene, 1080 x 1350 px (spec below). The red NON-ESSENTIAL stamp slammed across a life-sustaining specialty-drug box dramatizes the reveal like a memorable scene (W27 "Rebate Detour" route-map is the bar). ✓
 - **(2) Hook, confrontational + named-actor + shock-of-the-unknown:** first line reveals a hidden program that reclassifies a member's drug as "non-essential" to drain the copay card to the PBM. Names the PBM/vendor as actor, the member and plan as victims, and delivers the unknown structural fact as a shock. ✓
 - **(3) Proprietary anchor:** "I review hundreds of PBM and benefit-program contracts a year at Prescription Benefit Solutions... one of the most quietly bolted-on structures we find." Unfakeable. ✓
 - **(4) First comment names the same-day Field Note specifically:** names the three checks, the written-ask, the reclassified-drug ask, and the Copay Card Financial Impact Calculator by name, with cross-promo links. ✓
 - **(5) Field Note exclusively supports this concept:** PART 1B is retargeted to the same copay-maximizer reveal (same program, deeper application, three operational checks). ✓
-- **Winning-profile traits hit (5+):** decoder-shape (the hidden mechanic), named-actor framing, plan-sponsor-actionable, confrontational/shock hook, messy-infographic photoreal aesthetic, first-comment Substack cross-promo, proprietary anchor, save-driven structure, single-image photoreal. 9 of 10.
+- **Winning-profile traits hit (5+):** decoder-shape (the hidden mechanic), named-actor framing, plan-sponsor-actionable, confrontational/shock hook, photoreal aesthetic (single dramatized editorial scene), first-comment Substack cross-promo, proprietary anchor, save-driven structure, single-image photoreal. 9 of 10.
 - **Shocking-fact weave:** sourced fact from `shocking_fact_bank.md` #5 (copay maximizer "non-essential health benefit" reclassification; J&J v. SaveOnSP), woven with the PBS anchor. No fabricated figures (the litigation magnitude is stated qualitatively per the no-fabricated-statistics rule).
 
-#### Messy Infographic Concept
+#### Visual Concept — The NON-ESSENTIAL Stamp
 
-**Format:** Single LinkedIn feed image, photorealistic marked-up document style. From Ginny's personal profile, so no Benefit Blind Spots badge.
+**Concept:** One dramatized editorial scene, not a document. A life-sustaining specialty drug gets a bold red "NON-ESSENTIAL" rubber stamp slammed across it; in the soft-focus background a hand quietly drains a "copay assistance" card into a PBM slot. The outrage is the bureaucratic re-labeling of a life-saving drug. Business-magazine register. The red stamp is the memorable scene, the same way the W27 "Rebate Detour" route-map dramatized its reveal.
+
+**Format:** Single LinkedIn feed image, photorealistic editorial product photo. From Ginny's personal profile, so no Benefit Blind Spots badge.
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Mobile legibility (mandatory):** at most 5 labeled elements, large bold type, the reveal payload dominating the center ~70% of the frame, readable at ~400px thumbnail.
-
-**Setting:** A real-looking benefit-program enrollment / specialty copay document on a desk, with a red marker exposing the mechanic.
+**Mobile legibility (mandatory):** at most 5 elements (drug box, red NON-ESSENTIAL stamp, hand + copay-assistance card, PBM slot, headline), large bold type, the red stamp dominating the center ~70% of the frame, readable at ~400px thumbnail.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single sheet of a benefits-program document titled in printed text "SPECIALTY COPAY OPTIMIZATION PROGRAM" rests on a weathered wood desk under soft natural daylight. A red felt-tip marker lies diagonally across the lower-right corner. The page has clean printed text with a few key lines exposed by bold red marker annotations in clear handwriting. No logos, no brand marks, no people.
+> A photorealistic editorial product photo, 1080 x 1350 pixels (4:5 vertical), business-magazine register, dramatic soft side lighting on a dark desk surface, shallow depth of field. Center of the frame: a serious pharmaceutical specialty-drug box, clearly a life-sustaining biologic (a refrigerated auto-injector medical carton, obviously clinical, not a lifestyle pill bottle). A heavy red rubber stamp is slammed diagonally across the box reading "NON-ESSENTIAL" in bold red ink, the ink pressed hard and slightly smeared and imperfect. The red NON-ESSENTIAL stamp is the dominant element and must be legible at thumbnail size. In the soft-focus background, a hand quietly feeds a card printed "COPAY ASSISTANCE" into a slot on a plain gray metal box labeled "PBM." Clean negative space at top and bottom. No people's faces, no real brand names, no logos.
 >
-> Across the top, the printed program title is partly crossed out in red and re-labeled in large bold red handwriting: COPAY MAXIMIZER
+> Overlaid headline across the top in two-tone IBM Plex Sans SemiBold: "They stamped a life-saving drug" in deep blue (#015880), then "NON-ESSENTIAL." in light blue (#A7E0FA) on the next line.
 >
-> Below it, five short marked-up lines, each a printed phrase on the left with a bold red handwritten translation on the right, large enough to read on a phone:
+> Overlaid footer line across the bottom in small IBM Plex Sans, off-white: "The copay card drains to the PBM. The deductible never moves." with "rxbs.org" small in the lower corner in IBM Plex Mono.
 >
-> 1. "Drug reclassified" -> NON-ESSENTIAL. Removes the out-of-pocket cap.
-> 2. "Copay assistance" -> Full year drained to the PBM.
-> 3. "Member deductible" -> Does not move. At all.
-> 4. "Program name" -> Rarely says "maximizer." Read the fine print.
-> 5. "Who keeps it" -> The PBM or its vendor. Not your plan.
->
-> At the bottom, inside a hand-drawn red marker box in large handwriting: Is one bolted onto your plan right now?
->
-> Style: realistic paper texture, slight desk shadow, soft daylight. Slightly imperfect handwriting for authenticity. Colors: white document page, black printed text, bold red marker handwriting, weathered wood desk. The red marked-up lines are the visual payload and must dominate the center of the frame and be legible at thumbnail size.
+> Style: rich editorial lighting, realistic paper and cardboard textures, shallow depth of field, red stamp ink dominating the center. Colors: deep blue and light-blue overlaid headline, bold red stamp, muted neutral background. The red NON-ESSENTIAL stamp across the drug box is the visual payload and must dominate the center of the frame and be legible at thumbnail size.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile):**
-1. If the AI misspells any phrase or translation, overlay the correct text in a bold handwritten red font (Permanent Marker, Caveat) matching the marker tone.
-2. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-3. Run the mobile legibility check: preview at ~400px wide; enlarge anything hard to read; confirm the title and all five red translations are readable at thumbnail.
-4. Export as PNG at 1080 x 1350.
+1. Overlay the two-tone headline and the footer in Canva if the generator mangles the type: headline in IBM Plex Sans SemiBold, "They stamped a life-saving drug" in Primary Blue (#015880) + "NON-ESSENTIAL." in Accent Blue (#A7E0FA); footer "The copay card drains to the PBM. The deductible never moves." in small IBM Plex Sans off-white, with rxbs.org in IBM Plex Mono. Keep the red stamp exactly as generated.
+2. If the AI misspells "NON-ESSENTIAL," "COPAY ASSISTANCE," or "PBM," overlay the correct text (red marker font for the stamp; matching label font for the card and slot).
+3. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+4. Run the mobile legibility check: preview at ~400px wide; enlarge anything hard to read; confirm the red NON-ESSENTIAL stamp and the two-tone headline are readable at thumbnail.
+5. Export as PNG at 1080 x 1350.
 
 ---
 
@@ -674,7 +667,7 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on to this p
 #### Reshare Copy
 
 ```
-There is a program that reclassifies your employee's specialty drug as "non-essential" so the out-of-pocket cap disappears, then drains the manufacturer's full copay assistance back to the PBM. The deductible never moves. It is called a copay maximizer.
+A vendor can stamp your employee's life-sustaining specialty drug "non-essential," and that stamp deletes the out-of-pocket cap, then drains the manufacturer's full copay assistance back to the PBM. The deductible never moves. It is called a copay maximizer.
 
 Ginny Crisp reveals the mechanic, and how to find one on your plan.
 
@@ -1028,7 +1021,7 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
 - [ ] Tuesday: Post 105 Sticky Note Dashboard Messy Infographic 10:00 AM + Reshare
 - [ ] Wednesday: Post 106 Text 10:00 AM
-- [ ] Thursday: Field Note 7:30 AM (Copay Maximizer reveal), Post 107 Copay Maximizer Messy Infographic 10:00 AM + Reshare. **Thursday Excellence audit (5/5) cleared in the Post 107 block before ship.**
+- [ ] Thursday: Field Note 7:30 AM (Copay Maximizer reveal), Post 107 Copay Maximizer NON-ESSENTIAL Stamp photoreal 10:00 AM + Reshare. **Thursday Excellence audit (5/5) cleared in the Post 107 block before ship.**
 - [ ] Friday: Post 108 Tease 10:00 AM
 - [ ] Daily Substack Notes
 
@@ -1039,7 +1032,7 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 105 Sticky Note Dashboard Messy Infographic | 1080x1350 | "The Audit Right Most Self-Funded Plans Never Exercise" — corkboard of 6 sticky notes summarizing audit-right findings from ~100 contract reviews, PBM Contract Insights pillar |
-| Post 107 Copay Maximizer reveal (Marked-Up Document Messy Infographic) | 1080x1350 | "Copay Maximizer: the program that reclassifies your member's drug as non-essential" — Slot A reach post, Cost Containment / copay-programs pillar. Shocking hidden-structure reveal. |
+| Post 107 Copay Maximizer reveal (The NON-ESSENTIAL Stamp photoreal editorial scene) | 1080x1350 | "Copay Maximizer: the program that reclassifies your member's drug as non-essential" — Slot A reach post, Cost Containment / copay-programs pillar. Shocking hidden-structure reveal. Red NON-ESSENTIAL stamp slammed across a life-sustaining specialty-drug box; background hand drains a copay-assistance card into a PBM slot. Two-tone Plex Sans headline. |
 | In-Article Visual: Rebate Model Comparison (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Substack header | 2240x1260 | [ ] |
 | Field Note header | 1200x600 | [ ] |
@@ -1052,7 +1045,7 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 |------|------------|----------|----------|-------|
 | Post 105 (Tue Messy Info) | | | | |
 | Post 106 (Wed Text) | | | | |
-| Post 107 (Thu Copay Maximizer Messy Info) | | | | |
+| Post 107 (Thu Copay Maximizer, NON-ESSENTIAL Stamp photoreal) | | | | |
 | Post 108 (Fri Tease) | | | | |
 
 ---

@@ -37,7 +37,7 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Wed Aug 12 | 8:30 PM | X | aphorism [C6] | PART 4B · Wed | [ ] |
 | Thu Aug 13 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up the Sickest Member's Generic the Most?" | PART 1B | [ ] |
 | Thu Aug 13 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 13 | 10:00 AM | LI Feed | Post 119 — "Your PBM Marks Up the Sickest Member's Drugs the Most" (messy infographic, Slot A) | Post 119 | [ ] |
+| Thu Aug 13 | 10:00 AM | LI Feed | Post 119 — "Your PBM Marks Up the Sickest Member's Drugs the Most" (Severity Ladder conceptual infographic, Slot A) | Post 119 | [ ] |
 | Thu Aug 13 | 10:05 AM | LI Feed | Post 119 first comment | Post 119 | [ ] |
 | Thu Aug 13 | 12:00 PM | X | Thu-visual amplifier [VISUAL: sickest-member markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 1:30 PM | LI Company | Reshare of Post 119 | Post 119 Reshare | [ ] |
@@ -567,13 +567,13 @@ _The "Clinical Program Evaluation" One Number Carousel was repurposed into Monda
 ### Thursday Reach Post (Slot A) - Your PBM Marks Up the Sickest Member's Drugs the Most
 
 - **Slot:** A (Thursday reach / Field Note conversion track)
-- **Format:** Messy Infographic, single image 1080 x 1350 px, photoreal aesthetic (Marked-Up FTC Report Page)
+- **Format:** Conceptual photoreal infographic, single image 1080 x 1350 px ("The Severity Ladder" — ascending prescription bottles, price tag climbing with the seriousness of the condition)
 - **Pillar:** Clinical Pharmacy Perspectives
 - **Content shape:** Shocking-fact / genuinely-unknown structural reveal (`shocking_fact_bank.md` #8). Floor: 15-18K organic even in the summer trough; the offshore-rebate-GPO reveal of the same shape hit 17,816 impressions fully organic. Replaces the vocabulary decoder, which tops out ~4-5K in the trough.
-- **Hook:** "The generic drugs your PBM marks up the most are not lifestyle pills. They are the generics for leukemia, MS, transplant, and HIV."
+- **Hook:** "The generic drugs your PBM marks up the most are not the ones for blood pressure or cholesterol. They are the generics keeping your sickest members alive: leukemia, MS, transplant, HIV. The sicker the member, the bigger the markup."
 
 **5-trait Thursday Excellence audit (all required, all met):**
-1. **Format = messy infographic, photoreal aesthetic.** Marked-up FTC report page, single image 1080 x 1350, mobile-legible, capped at 5 named conditions (≤5 elements), payload dominates center ~70%.
+1. **Format = conceptual photoreal infographic that DRAMATIZES the thesis (per the reveal formula, element 6).** "The Severity Ladder": five prescription bottles rising on ascending steps, each price tag climbing higher as the condition gets more serious, single image 1080 x 1350, mobile-legible, capped at 5 named conditions (≤5 elements), the ascending shape reads at ~400px thumbnail. Business-magazine register, dignified (the human angle is the point, never exploitative). Replaces the former dense marked-up-report page, which fails at thumbnail.
 2. **Hook = confrontational, named-actor.** Names the big-3 PBMs as the actor and the sickest member as the victim; "the markup scales with how sick your member is" provokes discomfort.
 3. **Proprietary anchor (varied, not the verbatim "hundreds of contracts" footer).** "We pulled specialty generic claims across our 2025 benefit reviews (132 of them) and sorted by filling pharmacy" plus "in most plans we audit, well over half of specialty volume ran through a pharmacy the PBM owns." Pulled to rotate the Positioning beat off the repeated stock line.
 4. **First comment names the same-day Field Note specifically + routes to the existing live toolkit** (`rxbs.org/toolkit/specialty-routing`, refer-back-first).
@@ -584,9 +584,9 @@ _The "Clinical Program Evaluation" One Number Carousel was repurposed into Monda
 #### Post Copy
 
 ```
-The generic drugs your PBM marks up the most are not lifestyle pills.
+The generic drugs your PBM marks up the most are not the ones for blood pressure or cholesterol. They are the generics keeping your sickest members alive.
 
-They are the generics for leukemia, multiple sclerosis, transplant rejection, renal disease, and HIV. The markup scales with how sick your member is.
+Leukemia. Multiple sclerosis. Transplant rejection. Renal disease. HIV. The markup scales with how sick your member is. The sicker the person, the bigger the spread.
 
 This is not an opinion. The FTC put it on the record. In its January 2025 report on drug middlemen, the FTC studied the specialty generics the big-3 PBMs dispense and found they marked up roughly two-thirds of them by more than 100 percent at the pharmacies they own, and more than one in five by over 1,000 percent. Those markups pulled an estimated 7.3 billion dollars above what the drugs actually cost. Not brand drugs. Generics. For the sickest people on your plan.
 
@@ -607,35 +607,40 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on: three au
 [SUBSTACK FIELD NOTE URL]
 ```
 
-#### Messy Infographic Concept
+#### Conceptual Infographic Concept — "The Severity Ladder"
 
-**Format:** Single LinkedIn feed image, photorealistic marked-up government report page (Marked-Up Contract Page aesthetic applied to an FTC report excerpt).
+**Format:** Single LinkedIn feed image, photoreal conceptual infographic that dramatizes the reveal as a scene: an ascending staircase of five prescription bottles, each rung labeled by a more serious condition, each bottle's price tag climbing HIGHER as the condition gets more serious. The rising shape says, at a glance and at thumbnail, "the sicker your member, the bigger the markup." Business-magazine register: dignified and clinical, never exploitative. This is the highest-emotional-resonance week; the human angle is carried by the seriousness of the conditions, not by any distressing imagery.
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Setting:** A printed page of the FTC report sitting slightly angled on a desk, with red-pen handwritten annotations.
+**Why this beats the old document:** the former Marked-Up FTC Report Page was a dense static document that fails the ~400px thumbnail test and does not show the argument. The severity ladder IS the argument — the ascending line of bottles and climbing price tags reads the thesis instantly, even before the text is legible. (Reveal formula, element 6: dramatize the thesis with a conceptual visual, not a dense document.)
 
-**Mobile-feed legibility (mandatory):** the five condition labels and their markup figures must dominate the center ~70% of the frame and read at ~400px thumbnail width. Keep the report fine print minimal and out of focus; the five large red-circled rows are the payload. Cap at five conditions. High contrast, large bold red annotations. Preview at ~400px before export.
+**Mobile-feed legibility (mandatory):** the ascending shape of the five bottles + their climbing price tags must dominate the center ~70% of the frame and read at ~400px thumbnail. Cap at five bottles/rungs (≤5 elements). Condition labels large and bold; price figures in tabular Plex Mono. High contrast. Preview at ~400px or on a phone before export.
+
+**On-image headline (two-tone Plex Sans SemiBold):** "THE SICKER THE MEMBER," in Primary Blue (#015880) / "THE BIGGER THE MARKUP" in Accent Blue (#A7E0FA), across the top on white.
+
+**On-image footer (small, Gray #4D4D4D):** "Specialty generics for leukemia, MS, transplant, HIV. Marked up most at the pharmacy your PBM owns. FTC, Jan 2025."
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A single printed page of a U.S. federal government staff report sits slightly angled on a medium-tone oak desk under soft daylight, with a subtle edge shadow and a slight paper curl at one corner. A black fine-tip pen and a red felt-tip marker rest diagonally near the bottom corner. The printed page header reads, in small clean serif type: "FEDERAL TRADE COMMISSION — Second Interim Staff Report — Prescription Drug Middlemen — January 2025." The body of the page is intentionally soft-focus small gray paragraph text EXCEPT for a clean center table that is sharp and dominant, titled in bold: "SPECIALTY GENERIC MARKUP, PBM-OWNED PHARMACIES." The table has five rows, each a medical condition on the left and a large bold markup figure on the right, hand-circled in red marker:
+> A clean, photorealistic business-magazine studio photograph, 1080 x 1350 pixels (4:5 vertical), soft even daylight, minimal shadows, on a seamless white-to-pale-blue background. Five identical amber prescription pill bottles with plain white caps stand in a rising staircase from lower-left to upper-right, each bottle one clear step higher than the one before it, evenly spaced, arranged so the ascending line is obvious even at small size. The steps are simple clean matte platforms in white and pale Accent Blue (#A7E0FA). Each bottle has a small kraft-paper price tag tied to its neck with string, and each successive tag is physically larger and higher than the last. On each bottle's white label, a bold condition name in clean sans type; on each price tag, a bold markup figure in a tabular monospace numeric font. Left (lowest) to right (highest):
 >
-> LEUKEMIA (generic Gleevec) ........ 1,000%+
-> HIV ............................................ 100-1,000%
-> TRANSPLANT (generic Myfortic) .... 100-1,000%
-> MULTIPLE SCLEROSIS (generic Ampyra) .. 100%+
-> RENAL DISEASE (generic Sensipar) ...... 100%+
+> Bottle 1 (lowest step): MULTIPLE SCLEROSIS — tag reads "100%+"
+> Bottle 2: RENAL DISEASE — tag reads "100%+"
+> Bottle 3: TRANSPLANT — tag reads "up to 1,000%"
+> Bottle 4: HIV — tag reads "up to 1,000%"
+> Bottle 5 (highest step): LEUKEMIA — tag reads "over 1,000%"
 >
-> Each row is circled in red felt-tip. A red handwritten arrow runs down the right margin alongside the rising figures with the handwritten note: "The sicker the member, the bigger the spread." At the very bottom of the page, a red handwritten underline under the phrase: "Generics. Not brand. At the pharmacy your PBM owns."
+> A thin Accent Blue (#A7E0FA) trend arrow rises alongside the bottles from the lowest to the highest, reinforcing the climb. Across the top, on the white space, a bold two-line headline in a clean geometric sans: "THE SICKER THE MEMBER," in deep navy blue (#015880) and "THE BIGGER THE MARKUP" in light sky blue (#A7E0FA). Along the bottom, one small line of gray text: "Specialty generics for leukemia, MS, transplant, HIV. Marked up most at the pharmacy your PBM owns. FTC, Jan 2025." In the bottom-right corner, a small, subtle circular U.S. Federal Trade Commission seal at low prominence, as a source mark.
 >
-> Style: realistic photograph, crisp focus on the center table and red annotations, soft focus on surrounding report text, authentic red marker ink with slight bleed. Colors: white paper, faint gray report body text, bold black table type, red (#C0392B) handwritten circles and notes, medium oak wood grain. No logos, no brand marks, no people.
+> Style: crisp product-photography realism, dignified and clinical, calm and premium, not alarmist. Colors: white and pale-blue set, amber pill bottles, deep navy (#015880) and sky blue (#A7E0FA) accents, gray (#4D4D4D) footer text, kraft-paper tags. No people, no medical distress imagery, no company logos or brand marks other than the small FTC seal.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile, not Benefit Blind Spots):**
-1. Verify the five condition rows and their markup figures are legible at ~400px thumbnail. If the AI mangles any figure or condition, overlay the correct text (clean bold sans for the table; Caveat or Permanent Marker for the red handwriting).
-2. Confirm the red circles land on the five rows and the margin arrow reads "The sicker the member, the bigger the spread."
-3. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-4. Export as PNG at 1080 x 1350.
+1. Verify the five condition labels and their climbing markup figures are legible at ~400px thumbnail and that the ascending line reads instantly. If the AI mangles any label or figure, overlay the correct text — condition names in Plex Sans SemiBold, markup figures in Plex Mono Medium (tabular figures).
+2. If the headline renders imperfectly, reset it in Plex Sans SemiBold, two-tone: "THE SICKER THE MEMBER," Primary Blue #015880 / "THE BIGGER THE MARKUP" Accent Blue #A7E0FA.
+3. Confirm the small FTC seal is present, low-prominence, bottom-right (the unfakeable source mark). Keep the footer line in Gray #4D4D4D.
+4. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
+5. Export as PNG at 1080 x 1350.
 
 ---
 
@@ -855,7 +860,7 @@ When your PBM says it passes through 100% of rebates, ask one word back: of what
 Network access fee: your plan pays your PBM for permission to use the pharmacies your PBM already requires you to use. Read that twice. You're being charged rent on the cage.
 ```
   - **First reply (link):** rxbs.org/toolkit/network-configuration-audit
-- **12:00 PM · Thu-visual amplifier [VISUAL: sickest-member markup reveal] (schedule AFTER the 10 AM LinkedIn post publishes, LinkedIn-first):**
+- **12:00 PM · Thu-visual amplifier [VISUAL: Severity Ladder — ascending pill bottles, markup climbing with the condition] (schedule AFTER the 10 AM LinkedIn post publishes, LinkedIn-first):**
 ```
 The FTC, on the record: the big-3 PBMs marked up the specialty generics for leukemia, MS, transplant, renal disease, and HIV the most. More than 1 in 5 over 1,000 percent. At the pharmacies they own. The sicker the member, the bigger the spread.
 ```
@@ -983,7 +988,7 @@ Ask your PBM: "When our covered lives drop, do our admin fees drop with them?" I
 | Asset | Format | Status |
 |-------|--------|--------|
 | Post 117 Ledger Annotated Messy Infographic | 1080x1350 | "4 Things Your PBM's Quarterly Report Does Not Show" — photographed ledger with 4 empty columns called out in red handwritten annotations, Transparency pillar |
-| Post 119 Marked-Up FTC Report Page Messy Infographic | 1080x1350 | "Your PBM Marks Up the Sickest Member's Drugs the Most" — photoreal FTC report page, 5 conditions (leukemia/HIV/transplant/MS/renal) red-circled with markup figures, Clinical Pharmacy pillar. Mobile-legible, ≤5 elements |
+| Post 119 "Severity Ladder" Conceptual Infographic | 1080x1350 | "Your PBM Marks Up the Sickest Member's Drugs the Most" — photoreal ascending staircase of 5 prescription bottles (MS/renal/transplant/HIV/leukemia), each price tag climbing higher as the condition gets more serious, two-tone Plex Sans headline "THE SICKER THE MEMBER, THE BIGGER THE MARKUP," Plex Mono markup figures, small FTC seal in corner as source. Clinical Pharmacy pillar. Mobile-legible, ≤5 rungs, ascending shape reads at thumbnail |
 | Clinical Program ROI One Number visual (in-article) | 7 slides | Template C - program evaluation, embedded in Monday deep dive (PART 1 In-Article Visual), not a standalone LinkedIn post |
 | Field Note header — "The sicker the member, the bigger the spread" | 1200x600 | Ascending bar chart, FTC source line, white Data Highlight template |
 | Headers | Standard | [ ] |
