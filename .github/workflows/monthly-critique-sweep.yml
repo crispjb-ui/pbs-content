@@ -1,0 +1,85 @@
+name: Monthly Deep-Critique Sweep
+
+# Second Saturday of each month ~10 AM Eastern: run /critique-fix on the two
+# built weeks BEYOND the next-to-ship week. The Wednesday-night weekly critique
+# only covers the week about to ship, so drift (em dashes, bare "PBS", missing
+# hashtags, stale cross-refs) sits unfixed in W+2..W+10 until now. This keeps
+# the whole forward pipeline ship-clean instead of just-in-time clean.
+# (Added Jul 3, 2026, Tier 1 automation from the strategy audit.)
+
+on:
+  schedule:
+    - cron: '0 14 8-14 * 6'  # Saturdays that fall on the 8th-14th = the 2nd Saturday
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+  issues: write
+
+jobs:
+  critique-sweep:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Run the sweep with Claude
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash"
+          prompt: |
+            You are running the monthly deep-critique sweep over the forward
+            content pipeline.
+
+            1. Run `TZ=America/New_York date +%F` to get today, then determine
+               the CURRENT publish week number from the newsletters/week_NN_*.md
+               Run of Show dates.
+            2. The weekly Wednesday critique covers week NN+1 (next to ship).
+               Your targets are the next TWO built weeks after that: NN+2 and
+               NN+3 (skip any that does not exist; do not go past the built
+               pipeline).
+            3. For each target, run the full /critique-fix process as defined
+               in .claude/commands/critique-fix.md: diagnose, apply every
+               RESOLVABLE fix in place, flag UNRESOLVABLE items ⚠ per that
+               command's rules. Apply its full RESOLVABLE/UNRESOLVABLE
+               classification exactly; never invent URLs, stats, or human data.
+            4. Commit each week's fixes locally as its own commit
+               ("Deep-critique sweep: week NN fixes"). Do NOT push; the next
+               workflow step pushes.
+            5. Write a compact summary (per week: N fixes applied, M residual
+               ⚠ items with one-line reasons) to .sweep_summary.txt.
+
+      - name: Push
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          if [ -z "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
+            echo "No sweep commits to push"; exit 0
+          fi
+          push_ok=0
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || true
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then push_ok=1; break; fi
+            else
+              git rebase --abort || true
+            fi
+            sleep 5
+          done
+          [ "$push_ok" = "1" ] || { echo "ERROR: could not push"; exit 1; }
+
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          summary="(no summary written)"
+          [ -f .sweep_summary.txt ] && summary=$(cat .sweep_summary.txt)
+          bash .github/scripts/notify_issue.sh "$(printf '**Monthly deep-critique sweep** · %s\n%s' "$(TZ=America/New_York date +%F)" "$summary")"

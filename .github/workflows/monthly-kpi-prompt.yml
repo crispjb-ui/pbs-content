@@ -1,0 +1,40 @@
+name: Monthly KPI Prompt
+
+# First Monday of each month: remind Ginny/Brett to log the revenue-side KPIs
+# via /log-kpis (qualified conversations + broker relationships, the two
+# goal-weighted primary KPIs from the Jul 3, 2026 strategy audit). Reminder
+# only, no Claude. The lead counts become automatic once GSHEET_SA_KEY exists.
+
+on:
+  schedule:
+    - cron: '0 14 1-7 * 1'  # Mondays falling on the 1st-7th = the first Monday, ~9-10 AM ET
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  kpi-reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Notify rolling issue
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<EOF
+          **Monthly KPI log reminder** · $(date -u +%F)
+          Time to log last month's revenue KPIs. Open a Claude session and run \`/log-kpis\` with these six numbers:
+          1. Toolkit leads captured
+          2. SQL alerts
+          3. PARTNER alerts
+          4. Qualified conversations HELD (calls/meetings that happened)
+          5. Broker relationships at COLLABORATING or better
+          6. Engagements signed from content/funnel
+
+          Blank beats guessed; the command flags progress against the 4-6 conversations/month and 3-5 broker targets.
+
+          👉 The board: https://github.com/${GITHUB_REPOSITORY}/blob/main/kpi_scoreboard.md
+          EOF
+          )"

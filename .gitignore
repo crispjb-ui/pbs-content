@@ -1,3 +1,4 @@
 
 # Scratch file automations write tap-to-approve items to; posted to the Approvals issue, never committed
 APPROVALS_PENDING.md
+__pycache__/
