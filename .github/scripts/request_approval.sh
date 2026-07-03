@@ -45,7 +45,16 @@ if [ -z "${num:-}" ] || [ "$num" = "null" ]; then
 fi
 if [ -n "${num:-}" ]; then
   gh issue edit "$num" --add-assignee crispjb-ui >/dev/null 2>&1 || true
-  COMMENT="$(printf '%s\n\n### %s\n\n%s' "$NOTIFY" "$SECTION" "$ITEMS")"
+  # Always append a tappable review link so no approval request is a dead end
+  # (July 2026 standing instruction: "add links to all that require my review").
+  # Each item ideally carries its own context link; this footer guarantees at
+  # least a recent-changes entry point.
+  LINK_FOOTER=""
+  if [ -n "${GITHUB_REPOSITORY:-}" ]; then
+    REPO_URL="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY}"
+    LINK_FOOTER="$(printf '\n\n🔗 Review recent changes: %s/commits/main' "$REPO_URL")"
+  fi
+  COMMENT="$(printf '%s\n\n### %s\n\n%s%s' "$NOTIFY" "$SECTION" "$ITEMS" "$LINK_FOOTER")"
   if out=$(gh issue comment "$num" --body "$COMMENT" 2>&1); then
     echo "request_approval: posted \"$SECTION\" to approvals issue #$num"
   else

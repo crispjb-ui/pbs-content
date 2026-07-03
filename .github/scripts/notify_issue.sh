@@ -30,24 +30,37 @@ BODY="${1:-(no summary provided)}"
 # quarterly run committed locally then its push was REJECTED by a concurrent push, yet
 # the hardcoded notification still said "committed." So we verify HEAD is actually on
 # origin/main before implying success: link it precisely if pushed; warn loudly if not.
-# Reminder-only runs that commit nothing leave HEAD == $GITHUB_SHA and get neither
-# (correct — nothing to review). Best-effort; never fails the run.
+# Runs that commit nothing (HEAD == $GITHUB_SHA) still get a fallback link to
+# recent changes on main, so EVERY notification is tappable and no review request
+# is a dead end (July 2026 standing instruction: "add links to all that require my
+# review"). Best-effort; never fails the run.
 BEFORE_SHA="${GITHUB_SHA:-}"
 AFTER_SHA="$(git rev-parse HEAD 2>/dev/null || true)"
-if [ -n "${GITHUB_REPOSITORY:-}" ] && [ -n "$BEFORE_SHA" ] && [ -n "$AFTER_SHA" ] && [ "$BEFORE_SHA" != "$AFTER_SHA" ]; then
+if [ -n "${GITHUB_REPOSITORY:-}" ] && [ -n "$AFTER_SHA" ]; then
   REPO_URL="${GITHUB_SERVER_URL:-https://github.com}/${GITHUB_REPOSITORY}"
   git fetch --quiet origin main 2>/dev/null || true
-  if git rev-parse --verify --quiet origin/main >/dev/null 2>&1 \
-     && ! git merge-base --is-ancestor "$AFTER_SHA" origin/main 2>/dev/null; then
-    # A commit was made this run but it is NOT on main → the push failed.
-    BODY="⚠️ HEADS UP: this run committed locally but the push did NOT land on main (concurrent-push rejection or error). Its changes are NOT saved — a re-run is needed.
+  if [ -n "$BEFORE_SHA" ] && [ "$BEFORE_SHA" != "$AFTER_SHA" ]; then
+    # This run committed something.
+    if git rev-parse --verify --quiet origin/main >/dev/null 2>&1 \
+       && ! git merge-base --is-ancestor "$AFTER_SHA" origin/main 2>/dev/null; then
+      # A commit was made this run but it is NOT on main → the push failed.
+      BODY="⚠️ HEADS UP: this run committed locally but the push did NOT land on main (concurrent-push rejection or error). Its changes are NOT saved — a re-run is needed.
 
 $BODY"
-  else
-    # Pushed (or remote state indeterminate) → link the run's commit diff directly.
-    BODY="$BODY
+    else
+      # Pushed (or remote state indeterminate) → link the run's commit diff directly.
+      BODY="$BODY
 
 🔗 Review this run's changes: ${REPO_URL}/commit/${AFTER_SHA}"
+    fi
+  else
+    # Nothing committed this run. Still give a tappable entry point so EVERY
+    # notification carries a link (July 2026 standing instruction: "add links to
+    # all that require my review"). Link recent activity on main so a review
+    # request is never a dead end.
+    BODY="$BODY
+
+🔗 Review recent changes: ${REPO_URL}/commits/main"
   fi
 fi
 

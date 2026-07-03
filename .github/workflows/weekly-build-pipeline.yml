@@ -56,6 +56,7 @@ jobs:
             printing the Step 4 pipeline-health report to the log.
 
       - name: Commit and push (drafts, review pending)
+        id: commit
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -65,6 +66,7 @@ jobs:
           git add -A
           if git diff --staged --quiet; then
             echo "Pipeline healthy — no new week built this run."
+            echo "built=false" >> "$GITHUB_OUTPUT"
             exit 0
           fi
           git commit -m "Pipeline auto-build: ${{ steps.vars.outputs.date_iso }} (drafts, review pending)"
@@ -82,6 +84,7 @@ jobs:
             sleep 5
           done
           [ "$push_ok" = "1" ] || { echo "ERROR: could not push to main after retries"; exit 1; }
+          echo "built=true" >> "$GITHUB_OUTPUT"
           echo "New/changed files this run:"
           comm -13 /tmp/before_weeks.txt <(ls newsletters/week_*.md | sort) || true
 
@@ -90,8 +93,15 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
-          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
-          **Weekly Content Pipeline Build** · ${{ steps.vars.outputs.date_iso }}
-          Weekly content pipeline build ran. New/changed week files committed as DRAFTS for review (see latest commit). Run /pipeline-health for status.
-          EOF
-          )"
+          # Accurate message per whether a week was actually built; notify_issue.sh
+          # appends the tappable review link either way (commit diff if built,
+          # recent-changes link if not).
+          if [ "${{ steps.commit.outputs.built }}" = "true" ]; then
+            MSG="New/changed week file(s) built as DRAFTS for review."
+          elif [ "${{ steps.commit.outputs.built }}" = "false" ]; then
+            MSG="Pipeline is healthy and already built ahead — nothing new to review this week."
+          else
+            MSG="Pipeline build hit an issue this run — see the heads-up below."
+          fi
+          BODY="$(printf '**Weekly Content Pipeline Build** · %s\n%s Run /pipeline-health for status.' "${{ steps.vars.outputs.date_iso }}" "$MSG")"
+          bash .github/scripts/notify_issue.sh "$BODY"
