@@ -7,6 +7,10 @@
 
 _Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Thursday slot rebuilt (Jun 2026) from the off-topic "5 Network Contract Terms Decoded" vocabulary decoder into a shocking hidden-structure reveal: the copay maximizer "non-essential health benefit" reclassification, distinct from Mon (rebate flow) / Tue (audit rights) / Wed (offshore aggregator). The repurposed Rebate Model Comparison whiteboard remains in PART 1 as an In-Article Visual; the displaced network-terms decoder is described for central parking in the Post 107 block (no dead block left in the file)._
 
+**⚠ Open before ship (residual items — external inputs or a judgment call, not auto-fixable):**
+- **⚠ Post-publish URLs (fill at schedule/publish time; the weekly-substack-urls workflow auto-fills these from RSS):** the Monday deep-dive URL in the Newsletter body `[SUBSTACK URL]` and Newsletter First Comment, in Post 106 first comment `[SUBSTACK MONDAY DEEP DIVE URL]`; the Thursday Field Note URL in Post 107 first comment `[SUBSTACK FIELD NOTE URL]`; and the Notes launch-teaser `[LINK]`s (Mon/Wed/Thu). All resolve only after each post publishes.
+- **⚠ LinkedIn-first (judgment — Ginny's rotation call):** the Mon 8:00 AM X "audit rights limitation" recipe shares a topic with Tue's Post 105 (audit rights) and posts ~a day before it. It is a generic evergreen recipe on a broad topic (distinct angle from Post 105's unused-window finding), so it is a soft overlap, not a reveal scoop. Reorder after Post 105 publishes if desired, or leave as-is.
+
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
 | Sun Jul 19 | - | Prep | Final review of all content | this sheet | [ ] |
@@ -18,32 +22,34 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jul 20 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Jul 20 | 7:00 PM | X | question [A11] | PART 4B · Mon | [ ] |
 | Mon Jul 20 | 8:30 PM | X | aphorism [C6] | PART 4B · Mon | [ ] |
+| Tue Jul 21 | 7:30 AM | Substack | "What I'd Ask" #7: Tracking Your Rebate Dollars | PART 2B | [ ] |
 | Tue Jul 21 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Tue | [ ] |
-| Tue Jul 21 | 10:00 AM | LI Feed | Post 105 — "The Audit Right Most Self-Funded Plans Never Exercise" (Sticky Note Dashboard) | Post 105 | [ ] |
-| Tue Jul 21 | 10:05 AM | LI Feed | Post 105 first comment | Post 105 | [ ] |
+| Tue Jul 21 | 8:30 AM | LI Feed | Post 105 — "The Audit Right Most Self-Funded Plans Never Exercise" (Sticky Note Dashboard) | Post 105 | [ ] |
+| Tue Jul 21 | 8:35 AM | LI Feed | Post 105 first comment | Post 105 | [ ] |
 | Tue Jul 21 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Jul 21 | 1:30 PM | LI Company | Reshare of Post 105 | Post 105 Reshare | [ ] |
 | Tue Jul 21 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Jul 21 | 7:00 PM | X | question [A12] | PART 4B · Tue | [ ] |
 | Tue Jul 21 | 8:30 PM | X | one question [B6] | PART 4B · Tue | [ ] |
 | Wed Jul 22 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Wed | [ ] |
-| Wed Jul 22 | 10:00 AM | LI Feed | Post 106 — "100% pass-through" / offshore rebate aggregator (Strong POV text, shocking-fact weave) | Post 106 | [ ] |
-| Wed Jul 22 | 10:05 AM | LI Feed | Post 106 first comment | Post 106 | [ ] |
+| Wed Jul 22 | 8:30 AM | LI Feed | Post 106 — "100% pass-through" / offshore rebate aggregator (Strong POV text, shocking-fact weave) | Post 106 | [ ] |
+| Wed Jul 22 | 8:35 AM | LI Feed | Post 106 first comment | Post 106 | [ ] |
 | Wed Jul 22 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
+| Wed Jul 22 | 2:30 PM | X | long-form trial (rebate decoder, routes to Mon deep dive; swaps one thread) | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 7:00 PM | X | question [A13] | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 8:30 PM | X | aphorism [C7] | PART 4B · Wed | [ ] |
 | Thu Jul 23 | 7:30 AM | Substack | Field Note: "The Program That Reclassifies Your Member's Drug as Non-Essential" | PART 1B | [ ] |
-| Thu Jul 23 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 23 | 10:00 AM | LI Feed | Post 107 — "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (The NON-ESSENTIAL Stamp photoreal, Slot A reveal) | Post 107 | [ ] |
-| Thu Jul 23 | 10:05 AM | LI Feed | Post 107 first comment | Post 107 | [ ] |
+| Thu Jul 23 | 8:30 AM | LI Feed | Post 107 — "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (The NON-ESSENTIAL Stamp photoreal, Slot A reveal) | Post 107 | [ ] |
+| Thu Jul 23 | 8:35 AM | LI Feed | Post 107 first comment | Post 107 | [ ] |
+| Thu Jul 23 | 9:00 AM | X | recipe / Copay maximizer (Tier B) — after the 8:30 AM LI reveal (LinkedIn-first) | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 1:30 PM | LI Company | Reshare of Post 107 | Post 107 Reshare | [ ] |
 | Thu Jul 23 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 7:00 PM | X | question [A14] | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 8:30 PM | X | one question [B7] | PART 4B · Thu | [ ] |
 | Fri Jul 24 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Fri | [ ] |
-| Fri Jul 24 | 10:00 AM | LI Feed | Post 108 — Site-of-care tease (teases W30) | Post 108 | [ ] |
+| Fri Jul 24 | 8:30 AM | LI Feed | Post 108 — Site-of-care tease (teases W30) | Post 108 | [ ] |
 | Fri Jul 24 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Jul 24 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
 | Fri Jul 24 | 7:00 PM | X | question [A15] | PART 4B · Fri | [ ] |
@@ -471,7 +477,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 105 - Tuesday 10:00 AM
+## Post 105 - Tuesday 8:30 AM
 ### "The Audit Right Most Self-Funded Plans Never Exercise" — Sticky Note Dashboard
 
 **Template:** Sticky Note Dashboard messy infographic from `claude_design_prompts.md` (template #15). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
@@ -513,7 +519,7 @@ Single image at 1080 x 1350 px rendered as a photographed corkboard or desk surf
 **Sticky notes arrangement (6 notes, slightly overlapping, angled 2-5 degrees off-axis each):**
 
 - Note 1 (yellow #FDE68A, top-left): Caveat handwriting: "Right is in the contract from Day 1." Small red arrow drawn underneath pointing to the pulled contract page.
-- Note 2 (pink #FBCFE8, top-center): "Window expires every year — sometimes faster." Red handwritten clock icon.
+- Note 2 (pink #FBCFE8, top-center): "Window expires every year, sometimes faster." Red handwritten clock icon.
 - Note 3 (blue-tinted #BFDBFE, top-right): "PBM never reminds you it exists."
 - Note 4 (yellow, middle-center-left): "When we audit a plan that never audited, we find findings. Every time."
 - Note 5 (green #BBF7D0, middle-right): "Recoverable $ = prior period only. Earlier windows closed."
@@ -525,7 +531,7 @@ Single image at 1080 x 1350 px rendered as a photographed corkboard or desk surf
 
 #### Image Generation Prompt
 
-Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking corkboard or desk surface with six paper sticky notes slightly overlapping and angled 2-5 degrees off-axis, each with a soft shadow for depth. Warm paper-texture background. Sticky notes colored: yellow, pink, blue-tinted, yellow, green, pink. On each sticky, handwritten Caveat-font text (one short phrase per note): (1) "Right is in the contract from Day 1." with small red arrow; (2) "Window expires every year — sometimes faster." with red clock icon; (3) "PBM never reminds you it exists."; (4) "When we audit a plan that never audited, we find findings. Every time."; (5) "Recoverable $ = prior period only. Earlier windows closed."; (6) "Pull the contract. Find the window. Use it." with Accent Blue underline. Below the stickies, a corner of a pulled contract page visible with red marker circle around "§ 10.01 AUDIT RIGHTS" and handwritten "Here it is." annotation pointing to the clause. Top of image, above the stickies, a taped banner in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from 100s of contracts." Top-left Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Bottom Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo bottom-right, rxbs.org bottom-left. Color palette: warm paper board background, sticky-note colors above, black/red/blue handwritten markers, Primary Blue structure, Accent Blue accent band. No photos of people.
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking corkboard or desk surface with six paper sticky notes slightly overlapping and angled 2-5 degrees off-axis, each with a soft shadow for depth. Warm paper-texture background. Sticky notes colored: yellow, pink, blue-tinted, yellow, green, pink. On each sticky, handwritten Caveat-font text (one short phrase per note): (1) "Right is in the contract from Day 1." with small red arrow; (2) "Window expires every year, sometimes faster." with red clock icon; (3) "PBM never reminds you it exists."; (4) "When we audit a plan that never audited, we find findings. Every time."; (5) "Recoverable $ = prior period only. Earlier windows closed."; (6) "Pull the contract. Find the window. Use it." with Accent Blue underline. Below the stickies, a corner of a pulled contract page visible with red marker circle around "§ 10.01 AUDIT RIGHTS" and handwritten "Here it is." annotation pointing to the clause. Top of image, above the stickies, a taped banner in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from 100s of contracts." Top-left Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Bottom Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo bottom-right, rxbs.org bottom-left. Color palette: warm paper board background, sticky-note colors above, black/red/blue handwritten markers, Primary Blue structure, Accent Blue accent band. No photos of people.
 
 **Post-Generation Steps:**
 
@@ -554,7 +560,7 @@ Ginny Crisp walks through what is in the contract, why the PBM does not flag it,
 
 ---
 
-## Post 106 - Wednesday 10:00 AM
+## Post 106 - Wednesday 8:30 AM
 ### Strong POV Text (~230 words)
 
 **Format:** Text Post (Strong POV)
@@ -572,14 +578,18 @@ That report shows one number going up. Your net drug cost is often going up fast
 
 Total rebate dollars can increase simply because total drug spend increased. The PBM reports the figure that makes its performance look strong. The figure that matters to your plan, net cost after rebates compared to alternatives, is a different calculation, and it lives nowhere on the quarterly report.
 
-I see this in client data regularly. The rebate headline improves. Then we run the net cost analysis and the plan's actual position has deteriorated. In the hundreds of contracts we review each year, the spread runs from genuine pass-through to structures where meaningful manufacturer money never appears on your plan's books at all.
+I see this in client data regularly. The rebate headline improves. Then we run the net cost analysis and the plan's actual position has deteriorated. Across the hundreds of PBM contracts we read each year, the spread runs from genuine pass-through to structures where meaningful manufacturer money never appears on your plan's books at all.
 
 Rebate economics are controlled by four contract provisions: how "rebate" is defined, which claims count as eligible, what percentage passes through, and when the plan actually receives the cash. Each one either protects the plan or protects the PBM's margin.
 
 One question cuts through it: what is our net drug cost, after every rebate and aggregator fee, compared to what the market would offer?
+
+#PBMTransparency #Rebates #PharmacyBenefits
 ```
 
 #### First Comment
+
+_⚠ Paste the live Monday deep-dive URL into the `[SUBSTACK MONDAY DEEP DIVE URL]` placeholder below before posting (Monday deep dive publishes 7:30 AM Mon; by Wed it is live)._
 
 ```
 This week's Benefit Blind Spots deep dive on rebate economics decoded is the operational follow-on: the 8-provision rebate contract framework + traditional vs. pass-through model comparison. [SUBSTACK MONDAY DEEP DIVE URL]
@@ -587,7 +597,7 @@ This week's Benefit Blind Spots deep dive on rebate economics decoded is the ope
 
 ---
 
-## Post 107 - Thursday 10:00 AM
+## Post 107 - Thursday 8:30 AM
 
 _REBUILT (Jun 2026): the former Thursday post here was "5 Network Contract Terms Decoded," a vocabulary decoder that was both off-topic for a rebate week and a weak summer-trough shape (decoders top out ~4-5K in summer). It is replaced with a shocking hidden-structure reveal: the copay maximizer "non-essential health benefit" reclassification. The displaced network-terms decoder content is parked in PART 1B (parked-draft note) and the Field Note retargeted to this reveal. The Rebate Model Comparison whiteboard carousel was repurposed earlier into Monday's deep dive and lives there as an in-article visual (PART 1)._
 
@@ -616,6 +626,8 @@ The savings headline says one thing. The deductible meter never moves. Ask one q
 ```
 
 #### First Comment
+
+_⚠ Paste the live Thursday Field Note URL into the `[SUBSTACK FIELD NOTE URL]` placeholder below after it publishes (7:30 AM Thu). The toolkit link is already live._
 
 ```
 Today's Field Note on Benefit Blind Spots is the operational follow-on to this post: the three checks a self-funded plan runs to find out whether a copay maximizer is bolted onto its own plan, what to ask in writing, and which specialty drugs were reclassified as non-essential. Plus the Copay Card Financial Impact Calculator that models exactly what the program drains, step by step. [SUBSTACK FIELD NOTE URL] · rxbs.org/toolkit/copay-card-calculator
@@ -676,7 +688,7 @@ Ginny Crisp reveals the mechanic, and how to find one on your plan.
 
 ---
 
-## Post 108 - Friday 10:00 AM
+## Post 108 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 30: SITE-OF-CARE
 
 **Format:** Text Post (Tease Hook)
@@ -695,6 +707,8 @@ The setting where a drug gets administered can change the cost by multiples. Not
 Site-of-care is the cost lever that crosses the pharmacy and medical benefit boundary. Most employers have never evaluated it because it requires coordinating two benefits that rarely talk to each other.
 
 Next week: site-of-care optimization, and the decision tree by therapeutic category.
+
+#PharmacyCosts #SiteOfCare #SelfFundedEmployers
 ```
 
 #### First Comment
@@ -749,7 +763,7 @@ Early in my career I thought "rebate" was a simple concept. Discount on a drug, 
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: three rebate report red flags that signal margin retention. Declining per-claim yield, maximum-timeline payments, and aggregated specialty reporting. Patterns worth investigating.
+New field note: the program that reclassifies your member's specialty drug as "non-essential" to dodge the out-of-pocket cap, then drains the manufacturer copay card back to the PBM. Three checks a self-funded plan can run this quarter to find out whether one is bolted onto its plan.
 
 Read: [LINK]
 
@@ -893,7 +907,7 @@ The rebate report shows you what they want you to add up. The definition page is
   _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 
 **Thu Jul 23**
-- **8:00 AM · recipe / Copay maximizer (Tier B):**
+- **9:00 AM · recipe / Copay maximizer (Tier B):** _(scheduled after the 8:30 AM LinkedIn copay-maximizer reveal per LinkedIn-first; amplifies Post 107, does not scoop it)_
 ```
 Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
 ```
@@ -1019,10 +1033,10 @@ Ask your PBM: "Which formulary exclusions on our plan are tied to a rebate, not 
 
 ## Content Schedule
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
-- [ ] Tuesday: Post 105 Sticky Note Dashboard Messy Infographic 10:00 AM + Reshare
-- [ ] Wednesday: Post 106 Text 10:00 AM
-- [ ] Thursday: Field Note 7:30 AM (Copay Maximizer reveal), Post 107 Copay Maximizer NON-ESSENTIAL Stamp photoreal 10:00 AM + Reshare. **Thursday Excellence audit (5/5) cleared in the Post 107 block before ship.**
-- [ ] Friday: Post 108 Tease 10:00 AM
+- [ ] Tuesday: Post 105 Sticky Note Dashboard Messy Infographic 8:30 AM + Reshare
+- [ ] Wednesday: Post 106 Text 8:30 AM
+- [ ] Thursday: Field Note 7:30 AM (Copay Maximizer reveal), Post 107 Copay Maximizer NON-ESSENTIAL Stamp photoreal 8:30 AM + Reshare. **Thursday Excellence audit (5/5) cleared in the Post 107 block before ship.**
+- [ ] Friday: Post 108 Tease 8:30 AM
 - [ ] Daily Substack Notes
 
 ---
