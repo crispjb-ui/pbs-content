@@ -18,6 +18,8 @@
 
 **3. One broker move (~10 min).** Open `broker_partner_track.md`, take the top row with a defined next step, and do the next step (send the kit, propose the three-way call, quarterly check-in). One move per week compounds to the 3-5 relationship target by December.
 
+**3b. Three account touches (~5-10 min, added Jul 3, 2026).** Open `target_account_list.md`, pick 3 accounts (WARM first), and do ONE deliberate value-touch each per that file's motion (substantive comment, matched toolkit with a 2-line note, briefing invite). Log the touch in the row. This is the named-account layer; without it the list is decoration.
+
 **4. Stale-promising sweep (~10 min).** Filter the Sheet for MQL+ rows with `last_action` older than ~30 days. Pick the two most promising; send each a one-line, zero-pressure note tied to something current ("the renewal-window piece this week made me think of your situation").
 
 **5. Log and close (~5 min).** Every touch recorded in the Sheet (that is what makes next week's hour fast). Note the week's counts: new leads, touches made, calls booked, calls held.
