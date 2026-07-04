@@ -51,6 +51,14 @@ _Five conversion-side loops from the audit follow-up ("are there other routines 
 - [x] **✅ `weekly-sales-hour-brief`** — Friday 7:30a ET: posts Ginny's sales-hour queue (broker move + drafted touch note, stale rows, scoreboard pulse) to the rolling issue.
 - [ ] **🟧 Tier 2 enablers (Ginny, when doing the GSC key errand):** create a Google service account with read access to the "PBS Toolkit Leads" Sheet and add repo secret `GSHEET_SA_KEY` (makes sales-hour brief + KPI lead counts fully automatic); optionally add a Zapier step POSTing SQL/PARTNER alerts to the repo for auto-drafted first-touch notes.
 
+## 🌍 WORLD-CLASS-GAP BUILDS (Jul 3, 2026) — frameworks built, Ginny inputs needed
+_From the "what's missing for world-class B2B" review: the gaps are deal-side, not content-side. Three frameworks built same session; each has a small Ginny unlock._
+
+- [x] **✅ BUILT — `target_account_list.md`** (named-account layer: criteria, sourcing passes, weekly 3-touch motion now step 3b of the sales hour). **🟧 Ginny: one sitting to seed the employer + broker rows from her market knowledge** (the only pass Claude can't do; no fabricated rows).
+- [x] **✅ BUILT — `quarterly_briefing_event.md`** (quarterly live "What We're Seeing in PBM Contracts": run of show, Zoom-registration lead flow, 4-week promo runway through existing machinery, 48-hr follow-up, repurposing loop). **🟧 Ginny: approve format + date (recommendation: Wed Sep 16, 12:00 PM ET) + confirm Zoom Webinar tier.** Claude then drafts the deck outline + registration copy and slots promo into the week files.
+- [x] **✅ BUILT — `engagement_closeout_kit.md`** + `case_studies/` (the proof engine: win-story capture at findings, thank-you/testimonial/referral templates, anonymization + broker-hero compliance rules, payoff table into /results page, broker kit, briefing deck, AD-5). **🟧 Ginny: run the motion on the Stand Together findings this fall (first pass).**
+- **Deliberately NOT built (from the same review, for later consideration):** flagship data report commitment date (exists as approved-queue item ⑥; recommend committing to January off renewal-season data), decision-stage assets (cost page = website review item ③; sample redacted report), stage strategy (broker lunch-and-learns via GWCU; state SHRM chapters), second-voice surface (Brett posting). Raise these at the next monthly review rather than building speculatively.
+
 ## ✅ APPROVED — QUEUED FOR BUILD (Jul 1, 2026, from Approvals issue #42)
 _Ginny approved all 7 items in [issue #42](https://github.com/crispjb-ui/pbs-content/issues/42); the two bounded ones (Library-numbering fix + W37 Q2 refresh) shipped in PR #43. The five below are APPROVED and PARKED HERE to build when their natural slot comes up — do NOT build prematurely. Build each as its own review-linked PR and check it off on issue #42 (and remove it here) when it ships. `/build-week` look-ahead + `/pipeline-health` read this section._
 
