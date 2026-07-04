@@ -3564,6 +3564,3620 @@
         "startSec": 899.3,
         "endSec": 900
       }
+    },
+    {
+      "id": "clip1v2",
+      "slug": "spread-pricing-glp1-v2",
+      "inSec": 735,
+      "outSec": 767,
+      "aspect": "4x5",
+      "platform": "linkedin",
+      "hookTitle": "They keep the difference",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "PBMs are allowed to have contracts where you're not paying that pass-through amount",
+      "cta": {
+        "text": "Free channel-pricing audit worksheet",
+        "url": "rxbs.org/toolkit/channel-pricing"
+      },
+      "captions": [
+        {
+          "startSec": 2.88,
+          "endSec": 5.44,
+          "text": "PBMs are allowed to have contracts"
+        },
+        {
+          "startSec": 5.44,
+          "endSec": 7.64,
+          "text": "where you're not paying that pass-through"
+        },
+        {
+          "startSec": 7.64,
+          "endSec": 9.7,
+          "text": "amount, meaning that they could pay"
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 12.88,
+          "text": "the pharmacy one price for that"
+        },
+        {
+          "startSec": 12.88,
+          "endSec": 15,
+          "text": "GLP-1 prescription, but then turn around"
+        },
+        {
+          "startSec": 15,
+          "endSec": 16.22,
+          "text": "and invoice you a very different"
+        },
+        {
+          "startSec": 16.22,
+          "endSec": 17.32,
+          "text": "amount, which is gonna be higher."
+        },
+        {
+          "startSec": 17.62,
+          "endSec": 19.04,
+          "text": "And they keep that difference. And"
+        },
+        {
+          "startSec": 19.04,
+          "endSec": 20.96,
+          "text": "in our industry, that's called spread"
+        },
+        {
+          "startSec": 20.96,
+          "endSec": 23.74,
+          "text": "pricing, which costs you more money"
+        },
+        {
+          "startSec": 23.74,
+          "endSec": 25.16,
+          "text": "than you would need to pay"
+        },
+        {
+          "startSec": 25.16,
+          "endSec": 28.04,
+          "text": "on those medications and not just"
+        },
+        {
+          "startSec": 28.04,
+          "endSec": 29.86,
+          "text": "for GLP-1s, but for everything. So"
+        },
+        {
+          "startSec": 29.86,
+          "endSec": 30.98,
+          "text": "I think the first question is,"
+        },
+        {
+          "startSec": 30.98,
+          "endSec": 32.5,
+          "text": "what type of drug price and"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 34.34,
+          "text": "contract do you have to"
+        }
+      ],
+      "words": [
+        {
+          "startSec": 2.88,
+          "endSec": 3.38,
+          "text": "PBMs"
+        },
+        {
+          "startSec": 3.38,
+          "endSec": 3.6,
+          "text": "are"
+        },
+        {
+          "startSec": 3.6,
+          "endSec": 3.88,
+          "text": "allowed"
+        },
+        {
+          "startSec": 3.88,
+          "endSec": 4.4,
+          "text": "to"
+        },
+        {
+          "startSec": 4.4,
+          "endSec": 5.06,
+          "text": "have"
+        },
+        {
+          "startSec": 5.06,
+          "endSec": 5.44,
+          "text": "contracts"
+        },
+        {
+          "startSec": 5.44,
+          "endSec": 5.92,
+          "text": "where"
+        },
+        {
+          "startSec": 5.92,
+          "endSec": 6.68,
+          "text": "you're"
+        },
+        {
+          "startSec": 6.68,
+          "endSec": 6.84,
+          "text": "not"
+        },
+        {
+          "startSec": 6.84,
+          "endSec": 7.06,
+          "text": "paying"
+        },
+        {
+          "startSec": 7.06,
+          "endSec": 7.3,
+          "text": "that"
+        },
+        {
+          "startSec": 7.3,
+          "endSec": 7.64,
+          "text": "pass-through"
+        },
+        {
+          "startSec": 7.64,
+          "endSec": 8.02,
+          "text": "amount,"
+        },
+        {
+          "startSec": 8.02,
+          "endSec": 8.6,
+          "text": "meaning"
+        },
+        {
+          "startSec": 8.6,
+          "endSec": 8.92,
+          "text": "that"
+        },
+        {
+          "startSec": 8.92,
+          "endSec": 9.3,
+          "text": "they"
+        },
+        {
+          "startSec": 9.3,
+          "endSec": 9.52,
+          "text": "could"
+        },
+        {
+          "startSec": 9.52,
+          "endSec": 9.7,
+          "text": "pay"
+        },
+        {
+          "startSec": 9.7,
+          "endSec": 9.84,
+          "text": "the"
+        },
+        {
+          "startSec": 9.84,
+          "endSec": 10.28,
+          "text": "pharmacy"
+        },
+        {
+          "startSec": 10.28,
+          "endSec": 11.68,
+          "text": "one"
+        },
+        {
+          "startSec": 11.68,
+          "endSec": 12.08,
+          "text": "price"
+        },
+        {
+          "startSec": 12.08,
+          "endSec": 12.46,
+          "text": "for"
+        },
+        {
+          "startSec": 12.46,
+          "endSec": 12.88,
+          "text": "that"
+        },
+        {
+          "startSec": 12.88,
+          "endSec": 13.48,
+          "text": "GLP-1"
+        },
+        {
+          "startSec": 13.48,
+          "endSec": 13.82,
+          "text": "prescription,"
+        },
+        {
+          "startSec": 13.96,
+          "endSec": 14.4,
+          "text": "but"
+        },
+        {
+          "startSec": 14.4,
+          "endSec": 14.6,
+          "text": "then"
+        },
+        {
+          "startSec": 14.6,
+          "endSec": 14.76,
+          "text": "turn"
+        },
+        {
+          "startSec": 14.76,
+          "endSec": 15,
+          "text": "around"
+        },
+        {
+          "startSec": 15,
+          "endSec": 15.14,
+          "text": "and"
+        },
+        {
+          "startSec": 15.14,
+          "endSec": 15.4,
+          "text": "invoice"
+        },
+        {
+          "startSec": 15.4,
+          "endSec": 15.6,
+          "text": "you"
+        },
+        {
+          "startSec": 15.6,
+          "endSec": 15.7,
+          "text": "a"
+        },
+        {
+          "startSec": 15.7,
+          "endSec": 15.94,
+          "text": "very"
+        },
+        {
+          "startSec": 15.94,
+          "endSec": 16.22,
+          "text": "different"
+        },
+        {
+          "startSec": 16.22,
+          "endSec": 16.46,
+          "text": "amount,"
+        },
+        {
+          "startSec": 16.58,
+          "endSec": 16.66,
+          "text": "which"
+        },
+        {
+          "startSec": 16.66,
+          "endSec": 16.78,
+          "text": "is"
+        },
+        {
+          "startSec": 16.78,
+          "endSec": 16.94,
+          "text": "gonna"
+        },
+        {
+          "startSec": 16.94,
+          "endSec": 17.06,
+          "text": "be"
+        },
+        {
+          "startSec": 17.06,
+          "endSec": 17.32,
+          "text": "higher."
+        },
+        {
+          "startSec": 17.62,
+          "endSec": 17.68,
+          "text": "And"
+        },
+        {
+          "startSec": 17.68,
+          "endSec": 17.76,
+          "text": "they"
+        },
+        {
+          "startSec": 17.76,
+          "endSec": 17.94,
+          "text": "keep"
+        },
+        {
+          "startSec": 17.94,
+          "endSec": 18.18,
+          "text": "that"
+        },
+        {
+          "startSec": 18.18,
+          "endSec": 18.56,
+          "text": "difference."
+        },
+        {
+          "startSec": 18.98,
+          "endSec": 19.04,
+          "text": "And"
+        },
+        {
+          "startSec": 19.04,
+          "endSec": 19.66,
+          "text": "in"
+        },
+        {
+          "startSec": 19.66,
+          "endSec": 19.8,
+          "text": "our"
+        },
+        {
+          "startSec": 19.8,
+          "endSec": 20.06,
+          "text": "industry,"
+        },
+        {
+          "startSec": 20.06,
+          "endSec": 20.56,
+          "text": "that's"
+        },
+        {
+          "startSec": 20.56,
+          "endSec": 20.7,
+          "text": "called"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 20.96,
+          "text": "spread"
+        },
+        {
+          "startSec": 20.96,
+          "endSec": 21.4,
+          "text": "pricing,"
+        },
+        {
+          "startSec": 21.78,
+          "endSec": 21.98,
+          "text": "which"
+        },
+        {
+          "startSec": 21.98,
+          "endSec": 22.66,
+          "text": "costs"
+        },
+        {
+          "startSec": 22.66,
+          "endSec": 23.08,
+          "text": "you"
+        },
+        {
+          "startSec": 23.08,
+          "endSec": 23.52,
+          "text": "more"
+        },
+        {
+          "startSec": 23.52,
+          "endSec": 23.74,
+          "text": "money"
+        },
+        {
+          "startSec": 23.74,
+          "endSec": 24.18,
+          "text": "than"
+        },
+        {
+          "startSec": 24.18,
+          "endSec": 24.46,
+          "text": "you"
+        },
+        {
+          "startSec": 24.46,
+          "endSec": 24.62,
+          "text": "would"
+        },
+        {
+          "startSec": 24.62,
+          "endSec": 24.74,
+          "text": "need"
+        },
+        {
+          "startSec": 24.74,
+          "endSec": 24.92,
+          "text": "to"
+        },
+        {
+          "startSec": 24.92,
+          "endSec": 25.16,
+          "text": "pay"
+        },
+        {
+          "startSec": 25.16,
+          "endSec": 25.68,
+          "text": "on"
+        },
+        {
+          "startSec": 25.68,
+          "endSec": 25.84,
+          "text": "those"
+        },
+        {
+          "startSec": 25.84,
+          "endSec": 26.26,
+          "text": "medications"
+        },
+        {
+          "startSec": 26.26,
+          "endSec": 27.58,
+          "text": "and"
+        },
+        {
+          "startSec": 27.58,
+          "endSec": 27.84,
+          "text": "not"
+        },
+        {
+          "startSec": 27.84,
+          "endSec": 28.04,
+          "text": "just"
+        },
+        {
+          "startSec": 28.04,
+          "endSec": 28.22,
+          "text": "for"
+        },
+        {
+          "startSec": 28.22,
+          "endSec": 28.78,
+          "text": "GLP-1s,"
+        },
+        {
+          "startSec": 28.94,
+          "endSec": 29.02,
+          "text": "but"
+        },
+        {
+          "startSec": 29.02,
+          "endSec": 29.16,
+          "text": "for"
+        },
+        {
+          "startSec": 29.16,
+          "endSec": 29.52,
+          "text": "everything."
+        },
+        {
+          "startSec": 29.52,
+          "endSec": 29.86,
+          "text": "So"
+        },
+        {
+          "startSec": 29.86,
+          "endSec": 29.94,
+          "text": "I"
+        },
+        {
+          "startSec": 29.94,
+          "endSec": 30.06,
+          "text": "think"
+        },
+        {
+          "startSec": 30.06,
+          "endSec": 30.24,
+          "text": "the"
+        },
+        {
+          "startSec": 30.24,
+          "endSec": 30.42,
+          "text": "first"
+        },
+        {
+          "startSec": 30.42,
+          "endSec": 30.84,
+          "text": "question"
+        },
+        {
+          "startSec": 30.84,
+          "endSec": 30.98,
+          "text": "is,"
+        },
+        {
+          "startSec": 30.98,
+          "endSec": 31.1,
+          "text": "what"
+        },
+        {
+          "startSec": 31.1,
+          "endSec": 31.3,
+          "text": "type"
+        },
+        {
+          "startSec": 31.3,
+          "endSec": 31.52,
+          "text": "of"
+        },
+        {
+          "startSec": 31.52,
+          "endSec": 32.06,
+          "text": "drug"
+        },
+        {
+          "startSec": 32.06,
+          "endSec": 32.38,
+          "text": "price"
+        },
+        {
+          "startSec": 32.38,
+          "endSec": 32.5,
+          "text": "and"
+        },
+        {
+          "startSec": 32.5,
+          "endSec": 32.78,
+          "text": "contract"
+        },
+        {
+          "startSec": 32.78,
+          "endSec": 33.04,
+          "text": "do"
+        },
+        {
+          "startSec": 33.04,
+          "endSec": 33.16,
+          "text": "you"
+        },
+        {
+          "startSec": 33.16,
+          "endSec": 33.46,
+          "text": "have"
+        },
+        {
+          "startSec": 34.08,
+          "endSec": 34.34,
+          "text": "to"
+        }
+      ],
+      "hookBeats": [
+        "They keep",
+        "the",
+        "difference"
+      ],
+      "hookAccent": "difference",
+      "cutaways": [
+        {
+          "type": "equation",
+          "startSec": 750,
+          "endSec": 757,
+          "equation": {
+            "totalNum": 120,
+            "totalLabel": "billed to your plan",
+            "segA": "$100",
+            "segANum": 100,
+            "segALabel": "paid to the pharmacy",
+            "segB": "$20",
+            "segBNum": 20,
+            "segBLabel": "SPREAD kept by the PBM",
+            "note": "Illustrative example. Actual amounts vary by plan."
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 766.3,
+        "endSec": 767
+      },
+      "elevate": true,
+      "emphasisWords": [
+        "spread",
+        "pricing",
+        "difference",
+        "higher",
+        "invoice"
+      ]
+    },
+    {
+      "id": "clip2v2",
+      "slug": "one-in-twelve-persistence-v2",
+      "inSec": 1631,
+      "outSec": 1658,
+      "aspect": "9x16",
+      "platform": "reels",
+      "hookTitle": "1 in 12",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "after three years, it's like one in 12 people are still using a GLP-1",
+      "cta": {
+        "text": "Free Drug Pipeline Watch List",
+        "url": "rxbs.org/toolkit/drug-pipeline-watch"
+      },
+      "captions": [
+        {
+          "startSec": 2.98,
+          "endSec": 4.3,
+          "text": "Most of the studies have shown"
+        },
+        {
+          "startSec": 4.3,
+          "endSec": 5.92,
+          "text": "after three years, it's like 1"
+        },
+        {
+          "startSec": 5.92,
+          "endSec": 8.26,
+          "text": "in 12 people are still using"
+        },
+        {
+          "startSec": 8.26,
+          "endSec": 10.94,
+          "text": "a GLP-1. That's not necessarily bad"
+        },
+        {
+          "startSec": 10.94,
+          "endSec": 12.72,
+          "text": "thing. So if they had weight"
+        },
+        {
+          "startSec": 12.72,
+          "endSec": 16.22,
+          "text": "loss and also lifestyle and they"
+        },
+        {
+          "startSec": 16.22,
+          "endSec": 16.98,
+          "text": "were able to get to their"
+        },
+        {
+          "startSec": 16.98,
+          "endSec": 18.84,
+          "text": "weight and come off the med"
+        },
+        {
+          "startSec": 18.84,
+          "endSec": 21.32,
+          "text": "but sustained that medication loss, that's"
+        },
+        {
+          "startSec": 21.32,
+          "endSec": 22.38,
+          "text": "a great thing, right, if they"
+        },
+        {
+          "startSec": 22.38,
+          "endSec": 23.62,
+          "text": "were able to do that. But"
+        },
+        {
+          "startSec": 23.62,
+          "endSec": 25.22,
+          "text": "if it's because they can't afford"
+        },
+        {
+          "startSec": 25.22,
+          "endSec": 27.38,
+          "text": "it or they can't tolerate it,"
+        },
+        {
+          "startSec": 27.46,
+          "endSec": 28.92,
+          "text": "that's a different situation."
+        }
+      ],
+      "words": [
+        {
+          "startSec": 2.98,
+          "endSec": 3.46,
+          "text": "Most"
+        },
+        {
+          "startSec": 3.46,
+          "endSec": 3.64,
+          "text": "of"
+        },
+        {
+          "startSec": 3.64,
+          "endSec": 3.66,
+          "text": "the"
+        },
+        {
+          "startSec": 3.66,
+          "endSec": 3.92,
+          "text": "studies"
+        },
+        {
+          "startSec": 3.92,
+          "endSec": 4.1,
+          "text": "have"
+        },
+        {
+          "startSec": 4.1,
+          "endSec": 4.3,
+          "text": "shown"
+        },
+        {
+          "startSec": 4.3,
+          "endSec": 4.52,
+          "text": "after"
+        },
+        {
+          "startSec": 4.52,
+          "endSec": 4.86,
+          "text": "three"
+        },
+        {
+          "startSec": 4.86,
+          "endSec": 5.08,
+          "text": "years,"
+        },
+        {
+          "startSec": 5.08,
+          "endSec": 5.48,
+          "text": "it's"
+        },
+        {
+          "startSec": 5.48,
+          "endSec": 5.6,
+          "text": "like"
+        },
+        {
+          "startSec": 5.6,
+          "endSec": 5.92,
+          "text": "1"
+        },
+        {
+          "startSec": 5.92,
+          "endSec": 6.1,
+          "text": "in"
+        },
+        {
+          "startSec": 6.1,
+          "endSec": 6.38,
+          "text": "12"
+        },
+        {
+          "startSec": 6.38,
+          "endSec": 6.92,
+          "text": "people"
+        },
+        {
+          "startSec": 6.92,
+          "endSec": 7.5,
+          "text": "are"
+        },
+        {
+          "startSec": 7.5,
+          "endSec": 7.74,
+          "text": "still"
+        },
+        {
+          "startSec": 7.74,
+          "endSec": 8.26,
+          "text": "using"
+        },
+        {
+          "startSec": 8.26,
+          "endSec": 8.52,
+          "text": "a"
+        },
+        {
+          "startSec": 8.52,
+          "endSec": 9.1,
+          "text": "GLP-1."
+        },
+        {
+          "startSec": 9.62,
+          "endSec": 10.1,
+          "text": "That's"
+        },
+        {
+          "startSec": 10.1,
+          "endSec": 10.24,
+          "text": "not"
+        },
+        {
+          "startSec": 10.24,
+          "endSec": 10.56,
+          "text": "necessarily"
+        },
+        {
+          "startSec": 10.56,
+          "endSec": 10.94,
+          "text": "bad"
+        },
+        {
+          "startSec": 10.94,
+          "endSec": 11.22,
+          "text": "thing."
+        },
+        {
+          "startSec": 11.42,
+          "endSec": 11.54,
+          "text": "So"
+        },
+        {
+          "startSec": 11.54,
+          "endSec": 11.92,
+          "text": "if"
+        },
+        {
+          "startSec": 11.92,
+          "endSec": 12.28,
+          "text": "they"
+        },
+        {
+          "startSec": 12.28,
+          "endSec": 12.54,
+          "text": "had"
+        },
+        {
+          "startSec": 12.54,
+          "endSec": 12.72,
+          "text": "weight"
+        },
+        {
+          "startSec": 12.72,
+          "endSec": 13,
+          "text": "loss"
+        },
+        {
+          "startSec": 13,
+          "endSec": 13.62,
+          "text": "and"
+        },
+        {
+          "startSec": 13.62,
+          "endSec": 14.9,
+          "text": "also"
+        },
+        {
+          "startSec": 14.9,
+          "endSec": 15.32,
+          "text": "lifestyle"
+        },
+        {
+          "startSec": 15.32,
+          "endSec": 16.12,
+          "text": "and"
+        },
+        {
+          "startSec": 16.12,
+          "endSec": 16.22,
+          "text": "they"
+        },
+        {
+          "startSec": 16.22,
+          "endSec": 16.34,
+          "text": "were"
+        },
+        {
+          "startSec": 16.34,
+          "endSec": 16.46,
+          "text": "able"
+        },
+        {
+          "startSec": 16.46,
+          "endSec": 16.58,
+          "text": "to"
+        },
+        {
+          "startSec": 16.58,
+          "endSec": 16.72,
+          "text": "get"
+        },
+        {
+          "startSec": 16.72,
+          "endSec": 16.86,
+          "text": "to"
+        },
+        {
+          "startSec": 16.86,
+          "endSec": 16.98,
+          "text": "their"
+        },
+        {
+          "startSec": 16.98,
+          "endSec": 17.22,
+          "text": "weight"
+        },
+        {
+          "startSec": 17.22,
+          "endSec": 17.98,
+          "text": "and"
+        },
+        {
+          "startSec": 17.98,
+          "endSec": 18.18,
+          "text": "come"
+        },
+        {
+          "startSec": 18.18,
+          "endSec": 18.42,
+          "text": "off"
+        },
+        {
+          "startSec": 18.42,
+          "endSec": 18.6,
+          "text": "the"
+        },
+        {
+          "startSec": 18.6,
+          "endSec": 18.84,
+          "text": "med"
+        },
+        {
+          "startSec": 18.84,
+          "endSec": 19.4,
+          "text": "but"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 19.98,
+          "text": "sustained"
+        },
+        {
+          "startSec": 19.98,
+          "endSec": 20.36,
+          "text": "that"
+        },
+        {
+          "startSec": 20.36,
+          "endSec": 20.62,
+          "text": "medication"
+        },
+        {
+          "startSec": 20.62,
+          "endSec": 21,
+          "text": "loss,"
+        },
+        {
+          "startSec": 21.16,
+          "endSec": 21.32,
+          "text": "that's"
+        },
+        {
+          "startSec": 21.32,
+          "endSec": 21.4,
+          "text": "a"
+        },
+        {
+          "startSec": 21.4,
+          "endSec": 21.54,
+          "text": "great"
+        },
+        {
+          "startSec": 21.54,
+          "endSec": 21.8,
+          "text": "thing,"
+        },
+        {
+          "startSec": 21.94,
+          "endSec": 22.04,
+          "text": "right,"
+        },
+        {
+          "startSec": 22.22,
+          "endSec": 22.26,
+          "text": "if"
+        },
+        {
+          "startSec": 22.26,
+          "endSec": 22.38,
+          "text": "they"
+        },
+        {
+          "startSec": 22.38,
+          "endSec": 22.5,
+          "text": "were"
+        },
+        {
+          "startSec": 22.5,
+          "endSec": 22.64,
+          "text": "able"
+        },
+        {
+          "startSec": 22.64,
+          "endSec": 22.9,
+          "text": "to"
+        },
+        {
+          "startSec": 22.9,
+          "endSec": 23.1,
+          "text": "do"
+        },
+        {
+          "startSec": 23.1,
+          "endSec": 23.34,
+          "text": "that."
+        },
+        {
+          "startSec": 23.48,
+          "endSec": 23.62,
+          "text": "But"
+        },
+        {
+          "startSec": 23.62,
+          "endSec": 23.9,
+          "text": "if"
+        },
+        {
+          "startSec": 23.9,
+          "endSec": 24.12,
+          "text": "it's"
+        },
+        {
+          "startSec": 24.12,
+          "endSec": 24.4,
+          "text": "because"
+        },
+        {
+          "startSec": 24.4,
+          "endSec": 24.64,
+          "text": "they"
+        },
+        {
+          "startSec": 24.64,
+          "endSec": 25.02,
+          "text": "can't"
+        },
+        {
+          "startSec": 25.02,
+          "endSec": 25.22,
+          "text": "afford"
+        },
+        {
+          "startSec": 25.22,
+          "endSec": 25.5,
+          "text": "it"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 26.12,
+          "text": "or"
+        },
+        {
+          "startSec": 26.12,
+          "endSec": 26.28,
+          "text": "they"
+        },
+        {
+          "startSec": 26.28,
+          "endSec": 26.72,
+          "text": "can't"
+        },
+        {
+          "startSec": 26.72,
+          "endSec": 27.02,
+          "text": "tolerate"
+        },
+        {
+          "startSec": 27.02,
+          "endSec": 27.38,
+          "text": "it,"
+        },
+        {
+          "startSec": 27.46,
+          "endSec": 27.66,
+          "text": "that's"
+        },
+        {
+          "startSec": 27.66,
+          "endSec": 27.72,
+          "text": "a"
+        },
+        {
+          "startSec": 27.72,
+          "endSec": 27.88,
+          "text": "different"
+        },
+        {
+          "startSec": 28.52,
+          "endSec": 28.92,
+          "text": "situation."
+        }
+      ],
+      "hookBeats": [
+        "1",
+        "in",
+        "12"
+      ],
+      "hookAccent": "12",
+      "cutaways": [
+        {
+          "type": "dotgrid",
+          "startSec": 1634,
+          "endSec": 1641,
+          "grid": {
+            "total": 12,
+            "highlight": 1,
+            "label": "after 3 years",
+            "sub": "still on a GLP-1"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1657.3,
+        "endSec": 1658
+      },
+      "elevate": true,
+      "emphasisWords": [
+        "12",
+        "afford",
+        "tolerate",
+        "weight",
+        "lifestyle"
+      ]
+    },
+    {
+      "id": "clip3v2",
+      "slug": "rebate-clawback-lifestyle-v2",
+      "inSec": 829,
+      "outSec": 857,
+      "aspect": "4x5",
+      "platform": "linkedin",
+      "hookTitle": "They claw it back",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "a lot of PBMs will tell you that if you add in lifestyle requirements",
+      "cta": {
+        "text": "Free rebate report audit worksheet",
+        "url": "rxbs.org/toolkit/rebate-report-audit"
+      },
+      "captions": [
+        {
+          "startSec": 2.8,
+          "endSec": 4.62,
+          "text": "So this might be shocking, since"
+        },
+        {
+          "startSec": 4.62,
+          "endSec": 6,
+          "text": "I said that the FDA approved"
+        },
+        {
+          "startSec": 6,
+          "endSec": 7.7,
+          "text": "these drugs on having that combination,"
+        },
+        {
+          "startSec": 8.02,
+          "endSec": 9.66,
+          "text": "but a lot of PBMs will"
+        },
+        {
+          "startSec": 9.66,
+          "endSec": 11.78,
+          "text": "tell you that if you add"
+        },
+        {
+          "startSec": 11.78,
+          "endSec": 15.46,
+          "text": "in lifestyle requirements that they can't"
+        },
+        {
+          "startSec": 15.46,
+          "endSec": 16.84,
+          "text": "or won't do it because it"
+        },
+        {
+          "startSec": 16.84,
+          "endSec": 18.38,
+          "text": "impacts your rebates and they claw"
+        },
+        {
+          "startSec": 18.38,
+          "endSec": 20.52,
+          "text": "back those rebates. Well, there's lots"
+        },
+        {
+          "startSec": 20.52,
+          "endSec": 22.12,
+          "text": "of reasons that that happens, but"
+        },
+        {
+          "startSec": 22.12,
+          "endSec": 24.46,
+          "text": "I think it's very sad that"
+        },
+        {
+          "startSec": 24.46,
+          "endSec": 26.16,
+          "text": "they are not wanting to model"
+        },
+        {
+          "startSec": 26.16,
+          "endSec": 28.18,
+          "text": "what actually was used right to"
+        },
+        {
+          "startSec": 28.18,
+          "endSec": 30.3,
+          "text": "have that success. And really"
+        }
+      ],
+      "words": [
+        {
+          "startSec": 2.8,
+          "endSec": 2.86,
+          "text": "So"
+        },
+        {
+          "startSec": 2.86,
+          "endSec": 3.04,
+          "text": "this"
+        },
+        {
+          "startSec": 3.04,
+          "endSec": 3.22,
+          "text": "might"
+        },
+        {
+          "startSec": 3.22,
+          "endSec": 3.38,
+          "text": "be"
+        },
+        {
+          "startSec": 3.38,
+          "endSec": 3.66,
+          "text": "shocking,"
+        },
+        {
+          "startSec": 3.66,
+          "endSec": 4.62,
+          "text": "since"
+        },
+        {
+          "startSec": 4.62,
+          "endSec": 4.9,
+          "text": "I"
+        },
+        {
+          "startSec": 4.9,
+          "endSec": 5.12,
+          "text": "said"
+        },
+        {
+          "startSec": 5.12,
+          "endSec": 5.28,
+          "text": "that"
+        },
+        {
+          "startSec": 5.28,
+          "endSec": 5.4,
+          "text": "the"
+        },
+        {
+          "startSec": 5.4,
+          "endSec": 5.68,
+          "text": "FDA"
+        },
+        {
+          "startSec": 5.68,
+          "endSec": 6,
+          "text": "approved"
+        },
+        {
+          "startSec": 6,
+          "endSec": 6.24,
+          "text": "these"
+        },
+        {
+          "startSec": 6.24,
+          "endSec": 6.44,
+          "text": "drugs"
+        },
+        {
+          "startSec": 6.44,
+          "endSec": 6.78,
+          "text": "on"
+        },
+        {
+          "startSec": 6.78,
+          "endSec": 7.12,
+          "text": "having"
+        },
+        {
+          "startSec": 7.12,
+          "endSec": 7.36,
+          "text": "that"
+        },
+        {
+          "startSec": 7.36,
+          "endSec": 7.7,
+          "text": "combination,"
+        },
+        {
+          "startSec": 8.02,
+          "endSec": 8.32,
+          "text": "but"
+        },
+        {
+          "startSec": 8.32,
+          "endSec": 8.8,
+          "text": "a"
+        },
+        {
+          "startSec": 8.8,
+          "endSec": 8.98,
+          "text": "lot"
+        },
+        {
+          "startSec": 8.98,
+          "endSec": 9.06,
+          "text": "of"
+        },
+        {
+          "startSec": 9.06,
+          "endSec": 9.48,
+          "text": "PBMs"
+        },
+        {
+          "startSec": 9.48,
+          "endSec": 9.66,
+          "text": "will"
+        },
+        {
+          "startSec": 9.66,
+          "endSec": 9.9,
+          "text": "tell"
+        },
+        {
+          "startSec": 9.9,
+          "endSec": 10.2,
+          "text": "you"
+        },
+        {
+          "startSec": 10.2,
+          "endSec": 10.96,
+          "text": "that"
+        },
+        {
+          "startSec": 10.96,
+          "endSec": 11.2,
+          "text": "if"
+        },
+        {
+          "startSec": 11.2,
+          "endSec": 11.4,
+          "text": "you"
+        },
+        {
+          "startSec": 11.4,
+          "endSec": 11.78,
+          "text": "add"
+        },
+        {
+          "startSec": 11.78,
+          "endSec": 12,
+          "text": "in"
+        },
+        {
+          "startSec": 12,
+          "endSec": 12.48,
+          "text": "lifestyle"
+        },
+        {
+          "startSec": 12.48,
+          "endSec": 13.24,
+          "text": "requirements"
+        },
+        {
+          "startSec": 13.24,
+          "endSec": 14.38,
+          "text": "that"
+        },
+        {
+          "startSec": 14.38,
+          "endSec": 15,
+          "text": "they"
+        },
+        {
+          "startSec": 15,
+          "endSec": 15.46,
+          "text": "can't"
+        },
+        {
+          "startSec": 15.46,
+          "endSec": 15.52,
+          "text": "or"
+        },
+        {
+          "startSec": 15.52,
+          "endSec": 15.82,
+          "text": "won't"
+        },
+        {
+          "startSec": 15.82,
+          "endSec": 15.96,
+          "text": "do"
+        },
+        {
+          "startSec": 15.96,
+          "endSec": 16.16,
+          "text": "it"
+        },
+        {
+          "startSec": 16.16,
+          "endSec": 16.58,
+          "text": "because"
+        },
+        {
+          "startSec": 16.58,
+          "endSec": 16.84,
+          "text": "it"
+        },
+        {
+          "startSec": 16.84,
+          "endSec": 17.12,
+          "text": "impacts"
+        },
+        {
+          "startSec": 17.12,
+          "endSec": 17.36,
+          "text": "your"
+        },
+        {
+          "startSec": 17.36,
+          "endSec": 17.7,
+          "text": "rebates"
+        },
+        {
+          "startSec": 17.7,
+          "endSec": 18.06,
+          "text": "and"
+        },
+        {
+          "startSec": 18.06,
+          "endSec": 18.18,
+          "text": "they"
+        },
+        {
+          "startSec": 18.18,
+          "endSec": 18.38,
+          "text": "claw"
+        },
+        {
+          "startSec": 18.38,
+          "endSec": 18.66,
+          "text": "back"
+        },
+        {
+          "startSec": 18.66,
+          "endSec": 18.92,
+          "text": "those"
+        },
+        {
+          "startSec": 18.92,
+          "endSec": 19.42,
+          "text": "rebates."
+        },
+        {
+          "startSec": 19.86,
+          "endSec": 20.14,
+          "text": "Well,"
+        },
+        {
+          "startSec": 20.2,
+          "endSec": 20.42,
+          "text": "there's"
+        },
+        {
+          "startSec": 20.42,
+          "endSec": 20.52,
+          "text": "lots"
+        },
+        {
+          "startSec": 20.52,
+          "endSec": 20.7,
+          "text": "of"
+        },
+        {
+          "startSec": 20.7,
+          "endSec": 20.98,
+          "text": "reasons"
+        },
+        {
+          "startSec": 20.98,
+          "endSec": 21.26,
+          "text": "that"
+        },
+        {
+          "startSec": 21.26,
+          "endSec": 21.36,
+          "text": "that"
+        },
+        {
+          "startSec": 21.36,
+          "endSec": 21.72,
+          "text": "happens,"
+        },
+        {
+          "startSec": 21.72,
+          "endSec": 22.12,
+          "text": "but"
+        },
+        {
+          "startSec": 22.12,
+          "endSec": 22.7,
+          "text": "I"
+        },
+        {
+          "startSec": 22.7,
+          "endSec": 22.94,
+          "text": "think"
+        },
+        {
+          "startSec": 22.94,
+          "endSec": 23.26,
+          "text": "it's"
+        },
+        {
+          "startSec": 23.26,
+          "endSec": 23.5,
+          "text": "very"
+        },
+        {
+          "startSec": 23.5,
+          "endSec": 23.98,
+          "text": "sad"
+        },
+        {
+          "startSec": 23.98,
+          "endSec": 24.46,
+          "text": "that"
+        },
+        {
+          "startSec": 24.46,
+          "endSec": 24.84,
+          "text": "they"
+        },
+        {
+          "startSec": 24.84,
+          "endSec": 25.02,
+          "text": "are"
+        },
+        {
+          "startSec": 25.02,
+          "endSec": 25.5,
+          "text": "not"
+        },
+        {
+          "startSec": 25.5,
+          "endSec": 25.72,
+          "text": "wanting"
+        },
+        {
+          "startSec": 25.72,
+          "endSec": 25.94,
+          "text": "to"
+        },
+        {
+          "startSec": 25.94,
+          "endSec": 26.16,
+          "text": "model"
+        },
+        {
+          "startSec": 26.16,
+          "endSec": 26.48,
+          "text": "what"
+        },
+        {
+          "startSec": 26.48,
+          "endSec": 26.84,
+          "text": "actually"
+        },
+        {
+          "startSec": 26.84,
+          "endSec": 27.24,
+          "text": "was"
+        },
+        {
+          "startSec": 27.24,
+          "endSec": 27.48,
+          "text": "used"
+        },
+        {
+          "startSec": 27.48,
+          "endSec": 27.92,
+          "text": "right"
+        },
+        {
+          "startSec": 27.92,
+          "endSec": 28.18,
+          "text": "to"
+        },
+        {
+          "startSec": 28.18,
+          "endSec": 28.38,
+          "text": "have"
+        },
+        {
+          "startSec": 28.38,
+          "endSec": 28.6,
+          "text": "that"
+        },
+        {
+          "startSec": 28.6,
+          "endSec": 28.84,
+          "text": "success."
+        },
+        {
+          "startSec": 28.84,
+          "endSec": 29.04,
+          "text": "And"
+        },
+        {
+          "startSec": 29.04,
+          "endSec": 30.3,
+          "text": "really"
+        }
+      ],
+      "hookBeats": [
+        "They",
+        "claw it",
+        "back"
+      ],
+      "hookAccent": "claw it",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 845,
+          "endSec": 851,
+          "big": {
+            "value": "CLAWED BACK",
+            "label": "rebates pulled if you require lifestyle support"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 856.3,
+        "endSec": 857
+      },
+      "fitWindows": [
+        {
+          "startSec": 850,
+          "endSec": 856
+        }
+      ],
+      "elevate": true,
+      "emphasisWords": [
+        "rebates",
+        "claw",
+        "lifestyle",
+        "success",
+        "invest"
+      ]
+    },
+    {
+      "id": "clip4v2",
+      "slug": "one-in-three-switch-jobs-v2",
+      "inSec": 1129,
+      "outSec": 1150,
+      "aspect": "9x16",
+      "platform": "reels",
+      "hookTitle": "1 in 3 would leave",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "about a third of employees would consider moving jobs if they could get GLP-1 coverage",
+      "cta": {
+        "text": "Free Drug Pipeline Watch List",
+        "url": "rxbs.org/toolkit/drug-pipeline-watch"
+      },
+      "captions": [
+        {
+          "startSec": 2.3,
+          "endSec": 4.38,
+          "text": "So there are studies that have"
+        },
+        {
+          "startSec": 4.38,
+          "endSec": 5.34,
+          "text": "come out to say that about"
+        },
+        {
+          "startSec": 5.34,
+          "endSec": 6.96,
+          "text": "a third of employees will consider"
+        },
+        {
+          "startSec": 6.96,
+          "endSec": 8.64,
+          "text": "moving jobs if they could get"
+        },
+        {
+          "startSec": 8.64,
+          "endSec": 10.94,
+          "text": "GLP-1 coverage. Wow. That's a huge"
+        },
+        {
+          "startSec": 10.94,
+          "endSec": 13.78,
+          "text": "population, right? It's 30%. So if"
+        },
+        {
+          "startSec": 13.78,
+          "endSec": 15.02,
+          "text": "I'm a leader or an owner,"
+        },
+        {
+          "startSec": 15.02,
+          "endSec": 16.14,
+          "text": "which I am of a company,"
+        },
+        {
+          "startSec": 16.14,
+          "endSec": 17.54,
+          "text": "and I hear that, I want"
+        },
+        {
+          "startSec": 17.54,
+          "endSec": 18.8,
+          "text": "to keep my good people, right?"
+        },
+        {
+          "startSec": 19,
+          "endSec": 20.6,
+          "text": "So that's gonna be information that"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 22.4,
+          "text": "I need to know. But on"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 23.12,
+          "text": "the flip side of"
+        }
+      ],
+      "words": [
+        {
+          "startSec": 2.3,
+          "endSec": 2.36,
+          "text": "So"
+        },
+        {
+          "startSec": 2.36,
+          "endSec": 3,
+          "text": "there"
+        },
+        {
+          "startSec": 3,
+          "endSec": 3.32,
+          "text": "are"
+        },
+        {
+          "startSec": 3.32,
+          "endSec": 4.02,
+          "text": "studies"
+        },
+        {
+          "startSec": 4.02,
+          "endSec": 4.3,
+          "text": "that"
+        },
+        {
+          "startSec": 4.3,
+          "endSec": 4.38,
+          "text": "have"
+        },
+        {
+          "startSec": 4.38,
+          "endSec": 4.5,
+          "text": "come"
+        },
+        {
+          "startSec": 4.5,
+          "endSec": 4.64,
+          "text": "out"
+        },
+        {
+          "startSec": 4.64,
+          "endSec": 4.78,
+          "text": "to"
+        },
+        {
+          "startSec": 4.78,
+          "endSec": 4.98,
+          "text": "say"
+        },
+        {
+          "startSec": 4.98,
+          "endSec": 5.16,
+          "text": "that"
+        },
+        {
+          "startSec": 5.16,
+          "endSec": 5.34,
+          "text": "about"
+        },
+        {
+          "startSec": 5.34,
+          "endSec": 5.48,
+          "text": "a"
+        },
+        {
+          "startSec": 5.48,
+          "endSec": 5.78,
+          "text": "third"
+        },
+        {
+          "startSec": 5.78,
+          "endSec": 6,
+          "text": "of"
+        },
+        {
+          "startSec": 6,
+          "endSec": 6.32,
+          "text": "employees"
+        },
+        {
+          "startSec": 6.32,
+          "endSec": 6.62,
+          "text": "will"
+        },
+        {
+          "startSec": 6.62,
+          "endSec": 6.96,
+          "text": "consider"
+        },
+        {
+          "startSec": 6.96,
+          "endSec": 7.44,
+          "text": "moving"
+        },
+        {
+          "startSec": 7.44,
+          "endSec": 7.76,
+          "text": "jobs"
+        },
+        {
+          "startSec": 7.76,
+          "endSec": 8.16,
+          "text": "if"
+        },
+        {
+          "startSec": 8.16,
+          "endSec": 8.32,
+          "text": "they"
+        },
+        {
+          "startSec": 8.32,
+          "endSec": 8.48,
+          "text": "could"
+        },
+        {
+          "startSec": 8.48,
+          "endSec": 8.64,
+          "text": "get"
+        },
+        {
+          "startSec": 8.64,
+          "endSec": 9.12,
+          "text": "GLP-1"
+        },
+        {
+          "startSec": 9.12,
+          "endSec": 9.38,
+          "text": "coverage."
+        },
+        {
+          "startSec": 9.74,
+          "endSec": 10.18,
+          "text": "Wow."
+        },
+        {
+          "startSec": 10.42,
+          "endSec": 10.66,
+          "text": "That's"
+        },
+        {
+          "startSec": 10.66,
+          "endSec": 10.76,
+          "text": "a"
+        },
+        {
+          "startSec": 10.76,
+          "endSec": 10.94,
+          "text": "huge"
+        },
+        {
+          "startSec": 10.94,
+          "endSec": 11.28,
+          "text": "population,"
+        },
+        {
+          "startSec": 11.28,
+          "endSec": 11.78,
+          "text": "right?"
+        },
+        {
+          "startSec": 11.92,
+          "endSec": 11.92,
+          "text": "It's"
+        },
+        {
+          "startSec": 11.92,
+          "endSec": 12.42,
+          "text": "30%."
+        },
+        {
+          "startSec": 12.42,
+          "endSec": 12.94,
+          "text": "So"
+        },
+        {
+          "startSec": 13.56,
+          "endSec": 13.78,
+          "text": "if"
+        },
+        {
+          "startSec": 13.78,
+          "endSec": 14.12,
+          "text": "I'm"
+        },
+        {
+          "startSec": 14.12,
+          "endSec": 14.2,
+          "text": "a"
+        },
+        {
+          "startSec": 14.2,
+          "endSec": 14.4,
+          "text": "leader"
+        },
+        {
+          "startSec": 14.4,
+          "endSec": 14.7,
+          "text": "or"
+        },
+        {
+          "startSec": 14.7,
+          "endSec": 14.78,
+          "text": "an"
+        },
+        {
+          "startSec": 14.78,
+          "endSec": 15.02,
+          "text": "owner,"
+        },
+        {
+          "startSec": 15.02,
+          "endSec": 15.28,
+          "text": "which"
+        },
+        {
+          "startSec": 15.28,
+          "endSec": 15.46,
+          "text": "I"
+        },
+        {
+          "startSec": 15.46,
+          "endSec": 15.64,
+          "text": "am"
+        },
+        {
+          "startSec": 15.64,
+          "endSec": 15.78,
+          "text": "of"
+        },
+        {
+          "startSec": 15.78,
+          "endSec": 15.84,
+          "text": "a"
+        },
+        {
+          "startSec": 15.84,
+          "endSec": 16.14,
+          "text": "company,"
+        },
+        {
+          "startSec": 16.14,
+          "endSec": 16.36,
+          "text": "and"
+        },
+        {
+          "startSec": 16.36,
+          "endSec": 16.48,
+          "text": "I"
+        },
+        {
+          "startSec": 16.48,
+          "endSec": 16.66,
+          "text": "hear"
+        },
+        {
+          "startSec": 16.66,
+          "endSec": 16.96,
+          "text": "that,"
+        },
+        {
+          "startSec": 17,
+          "endSec": 17.38,
+          "text": "I"
+        },
+        {
+          "startSec": 17.38,
+          "endSec": 17.54,
+          "text": "want"
+        },
+        {
+          "startSec": 17.54,
+          "endSec": 17.66,
+          "text": "to"
+        },
+        {
+          "startSec": 17.66,
+          "endSec": 17.82,
+          "text": "keep"
+        },
+        {
+          "startSec": 17.82,
+          "endSec": 18,
+          "text": "my"
+        },
+        {
+          "startSec": 18,
+          "endSec": 18.14,
+          "text": "good"
+        },
+        {
+          "startSec": 18.14,
+          "endSec": 18.5,
+          "text": "people,"
+        },
+        {
+          "startSec": 18.68,
+          "endSec": 18.8,
+          "text": "right?"
+        },
+        {
+          "startSec": 19,
+          "endSec": 19.04,
+          "text": "So"
+        },
+        {
+          "startSec": 19.04,
+          "endSec": 19.32,
+          "text": "that's"
+        },
+        {
+          "startSec": 19.32,
+          "endSec": 19.4,
+          "text": "gonna"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 19.62,
+          "text": "be"
+        },
+        {
+          "startSec": 19.62,
+          "endSec": 20.02,
+          "text": "information"
+        },
+        {
+          "startSec": 20.02,
+          "endSec": 20.6,
+          "text": "that"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.74,
+          "text": "I"
+        },
+        {
+          "startSec": 20.74,
+          "endSec": 21.02,
+          "text": "need"
+        },
+        {
+          "startSec": 21.02,
+          "endSec": 21.18,
+          "text": "to"
+        },
+        {
+          "startSec": 21.18,
+          "endSec": 21.42,
+          "text": "know."
+        },
+        {
+          "startSec": 22,
+          "endSec": 22.26,
+          "text": "But"
+        },
+        {
+          "startSec": 22.26,
+          "endSec": 22.4,
+          "text": "on"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 22.54,
+          "text": "the"
+        },
+        {
+          "startSec": 22.54,
+          "endSec": 22.68,
+          "text": "flip"
+        },
+        {
+          "startSec": 22.68,
+          "endSec": 22.98,
+          "text": "side"
+        },
+        {
+          "startSec": 22.98,
+          "endSec": 23.12,
+          "text": "of"
+        }
+      ],
+      "hookBeats": [
+        "1 in 3",
+        "would leave"
+      ],
+      "hookAccent": "1 in 3",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 1131,
+          "endSec": 1138,
+          "big": {
+            "value": "1 in 3",
+            "label": "would switch jobs for GLP-1 coverage",
+            "sub": "= 30% of your workforce"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1149.3,
+        "endSec": 1150
+      },
+      "fitWindows": [
+        {
+          "startSec": 1137,
+          "endSec": 1148
+        }
+      ],
+      "elevate": true,
+      "emphasisWords": [
+        "third",
+        "30%",
+        "jobs",
+        "coverage",
+        "keep"
+      ]
+    },
+    {
+      "id": "clip5v2",
+      "slug": "members-get-them-anyway-v2",
+      "inSec": 1490,
+      "outSec": 1516,
+      "aspect": "4x5",
+      "platform": "linkedin",
+      "hookTitle": "They'll get them anyway",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "if they are going through these direct-to-consumer programs, you as an employer lose sight of all of that",
+      "cta": {
+        "text": "Free PBM Compensation worksheet",
+        "url": "rxbs.org/toolkit/pbm-compensation"
+      },
+      "captions": [
+        {
+          "startSec": 1.56,
+          "endSec": 3.5,
+          "text": "If they are going through these"
+        },
+        {
+          "startSec": 3.5,
+          "endSec": 6.5,
+          "text": "direct -to -consumer programs, you as"
+        },
+        {
+          "startSec": 6.5,
+          "endSec": 8.36,
+          "text": "an employer lose sight of all"
+        },
+        {
+          "startSec": 8.36,
+          "endSec": 9.44,
+          "text": "of that. Like, you don't get"
+        },
+        {
+          "startSec": 9.44,
+          "endSec": 10.68,
+          "text": "to see it. It also doesn't"
+        },
+        {
+          "startSec": 10.68,
+          "endSec": 12.28,
+          "text": "help them with their out -of"
+        },
+        {
+          "startSec": 12.28,
+          "endSec": 14.3,
+          "text": "-pocket costs for the year, the"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 16.64,
+          "text": "deductibles and things like that. It"
+        },
+        {
+          "startSec": 16.64,
+          "endSec": 18.68,
+          "text": "doesn't track towards that. So whether"
+        },
+        {
+          "startSec": 18.68,
+          "endSec": 19.82,
+          "text": "you cover it or not, all"
+        },
+        {
+          "startSec": 19.82,
+          "endSec": 21.36,
+          "text": "of these things are happening, right?"
+        },
+        {
+          "startSec": 21.54,
+          "endSec": 23.86,
+          "text": "So I don't think there's a"
+        },
+        {
+          "startSec": 23.86,
+          "endSec": 25.06,
+          "text": "way to just put your head"
+        },
+        {
+          "startSec": 25.06,
+          "endSec": 25.94,
+          "text": "in the sand and think this"
+        },
+        {
+          "startSec": 25.94,
+          "endSec": 27.24,
+          "text": "is all going away. I think"
+        },
+        {
+          "startSec": 27.24,
+          "endSec": 28.32,
+          "text": "it is"
+        }
+      ],
+      "words": [
+        {
+          "startSec": 1.56,
+          "endSec": 1.96,
+          "text": "If"
+        },
+        {
+          "startSec": 1.96,
+          "endSec": 2.18,
+          "text": "they"
+        },
+        {
+          "startSec": 2.18,
+          "endSec": 2.42,
+          "text": "are"
+        },
+        {
+          "startSec": 2.42,
+          "endSec": 2.8,
+          "text": "going"
+        },
+        {
+          "startSec": 2.8,
+          "endSec": 3.12,
+          "text": "through"
+        },
+        {
+          "startSec": 3.12,
+          "endSec": 3.5,
+          "text": "these"
+        },
+        {
+          "startSec": 3.5,
+          "endSec": 3.84,
+          "text": "direct"
+        },
+        {
+          "startSec": 3.84,
+          "endSec": 4.14,
+          "text": "-to"
+        },
+        {
+          "startSec": 4.14,
+          "endSec": 4.64,
+          "text": "-consumer"
+        },
+        {
+          "startSec": 4.64,
+          "endSec": 5.18,
+          "text": "programs,"
+        },
+        {
+          "startSec": 5.78,
+          "endSec": 5.86,
+          "text": "you"
+        },
+        {
+          "startSec": 5.86,
+          "endSec": 6.5,
+          "text": "as"
+        },
+        {
+          "startSec": 6.5,
+          "endSec": 6.64,
+          "text": "an"
+        },
+        {
+          "startSec": 6.64,
+          "endSec": 6.88,
+          "text": "employer"
+        },
+        {
+          "startSec": 6.88,
+          "endSec": 7.279999999999999,
+          "text": "lose"
+        },
+        {
+          "startSec": 7.279999999999999,
+          "endSec": 7.68,
+          "text": "sight"
+        },
+        {
+          "startSec": 7.68,
+          "endSec": 8.22,
+          "text": "of"
+        },
+        {
+          "startSec": 8.22,
+          "endSec": 8.36,
+          "text": "all"
+        },
+        {
+          "startSec": 8.36,
+          "endSec": 8.54,
+          "text": "of"
+        },
+        {
+          "startSec": 8.54,
+          "endSec": 8.72,
+          "text": "that."
+        },
+        {
+          "startSec": 8.98,
+          "endSec": 9.06,
+          "text": "Like,"
+        },
+        {
+          "startSec": 9.12,
+          "endSec": 9.2,
+          "text": "you"
+        },
+        {
+          "startSec": 9.2,
+          "endSec": 9.34,
+          "text": "don't"
+        },
+        {
+          "startSec": 9.34,
+          "endSec": 9.44,
+          "text": "get"
+        },
+        {
+          "startSec": 9.44,
+          "endSec": 9.6,
+          "text": "to"
+        },
+        {
+          "startSec": 9.6,
+          "endSec": 9.8,
+          "text": "see"
+        },
+        {
+          "startSec": 9.8,
+          "endSec": 9.96,
+          "text": "it."
+        },
+        {
+          "startSec": 10.04,
+          "endSec": 10.1,
+          "text": "It"
+        },
+        {
+          "startSec": 10.1,
+          "endSec": 10.28,
+          "text": "also"
+        },
+        {
+          "startSec": 10.28,
+          "endSec": 10.68,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 10.68,
+          "endSec": 10.84,
+          "text": "help"
+        },
+        {
+          "startSec": 10.84,
+          "endSec": 11.12,
+          "text": "them"
+        },
+        {
+          "startSec": 11.12,
+          "endSec": 11.86,
+          "text": "with"
+        },
+        {
+          "startSec": 11.86,
+          "endSec": 12.04,
+          "text": "their"
+        },
+        {
+          "startSec": 12.04,
+          "endSec": 12.18,
+          "text": "out"
+        },
+        {
+          "startSec": 12.18,
+          "endSec": 12.28,
+          "text": "-of"
+        },
+        {
+          "startSec": 12.28,
+          "endSec": 12.6,
+          "text": "-pocket"
+        },
+        {
+          "startSec": 12.6,
+          "endSec": 12.86,
+          "text": "costs"
+        },
+        {
+          "startSec": 13.44,
+          "endSec": 13.64,
+          "text": "for"
+        },
+        {
+          "startSec": 13.64,
+          "endSec": 13.78,
+          "text": "the"
+        },
+        {
+          "startSec": 13.78,
+          "endSec": 14,
+          "text": "year,"
+        },
+        {
+          "startSec": 14.26,
+          "endSec": 14.3,
+          "text": "the"
+        },
+        {
+          "startSec": 14.3,
+          "endSec": 15.899999999999999,
+          "text": "deductibles"
+        },
+        {
+          "startSec": 15.899999999999999,
+          "endSec": 16.04,
+          "text": "and"
+        },
+        {
+          "startSec": 16.04,
+          "endSec": 16.18,
+          "text": "things"
+        },
+        {
+          "startSec": 16.18,
+          "endSec": 16.38,
+          "text": "like"
+        },
+        {
+          "startSec": 16.38,
+          "endSec": 16.52,
+          "text": "that."
+        },
+        {
+          "startSec": 16.62,
+          "endSec": 16.64,
+          "text": "It"
+        },
+        {
+          "startSec": 16.64,
+          "endSec": 16.84,
+          "text": "doesn't"
+        },
+        {
+          "startSec": 16.84,
+          "endSec": 17.04,
+          "text": "track"
+        },
+        {
+          "startSec": 17.04,
+          "endSec": 17.32,
+          "text": "towards"
+        },
+        {
+          "startSec": 17.32,
+          "endSec": 17.62,
+          "text": "that."
+        },
+        {
+          "startSec": 17.82,
+          "endSec": 17.96,
+          "text": "So"
+        },
+        {
+          "startSec": 17.96,
+          "endSec": 18.68,
+          "text": "whether"
+        },
+        {
+          "startSec": 18.68,
+          "endSec": 18.98,
+          "text": "you"
+        },
+        {
+          "startSec": 18.98,
+          "endSec": 19.16,
+          "text": "cover"
+        },
+        {
+          "startSec": 19.16,
+          "endSec": 19.32,
+          "text": "it"
+        },
+        {
+          "startSec": 19.32,
+          "endSec": 19.4,
+          "text": "or"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 19.54,
+          "text": "not,"
+        },
+        {
+          "startSec": 19.68,
+          "endSec": 19.82,
+          "text": "all"
+        },
+        {
+          "startSec": 19.82,
+          "endSec": 19.96,
+          "text": "of"
+        },
+        {
+          "startSec": 19.96,
+          "endSec": 20.14,
+          "text": "these"
+        },
+        {
+          "startSec": 20.14,
+          "endSec": 20.38,
+          "text": "things"
+        },
+        {
+          "startSec": 20.38,
+          "endSec": 20.6,
+          "text": "are"
+        },
+        {
+          "startSec": 20.6,
+          "endSec": 20.92,
+          "text": "happening,"
+        },
+        {
+          "startSec": 21.24,
+          "endSec": 21.36,
+          "text": "right?"
+        },
+        {
+          "startSec": 21.54,
+          "endSec": 21.62,
+          "text": "So"
+        },
+        {
+          "startSec": 21.62,
+          "endSec": 21.74,
+          "text": "I"
+        },
+        {
+          "startSec": 21.74,
+          "endSec": 22.18,
+          "text": "don't"
+        },
+        {
+          "startSec": 22.18,
+          "endSec": 22.4,
+          "text": "think"
+        },
+        {
+          "startSec": 22.4,
+          "endSec": 23.78,
+          "text": "there's"
+        },
+        {
+          "startSec": 23.78,
+          "endSec": 23.86,
+          "text": "a"
+        },
+        {
+          "startSec": 23.86,
+          "endSec": 24.06,
+          "text": "way"
+        },
+        {
+          "startSec": 24.06,
+          "endSec": 24.34,
+          "text": "to"
+        },
+        {
+          "startSec": 24.34,
+          "endSec": 24.56,
+          "text": "just"
+        },
+        {
+          "startSec": 24.56,
+          "endSec": 24.76,
+          "text": "put"
+        },
+        {
+          "startSec": 24.76,
+          "endSec": 24.9,
+          "text": "your"
+        },
+        {
+          "startSec": 24.9,
+          "endSec": 25.06,
+          "text": "head"
+        },
+        {
+          "startSec": 25.06,
+          "endSec": 25.18,
+          "text": "in"
+        },
+        {
+          "startSec": 25.18,
+          "endSec": 25.26,
+          "text": "the"
+        },
+        {
+          "startSec": 25.26,
+          "endSec": 25.46,
+          "text": "sand"
+        },
+        {
+          "startSec": 25.46,
+          "endSec": 25.64,
+          "text": "and"
+        },
+        {
+          "startSec": 25.64,
+          "endSec": 25.76,
+          "text": "think"
+        },
+        {
+          "startSec": 25.76,
+          "endSec": 25.94,
+          "text": "this"
+        },
+        {
+          "startSec": 25.94,
+          "endSec": 26.04,
+          "text": "is"
+        },
+        {
+          "startSec": 26.04,
+          "endSec": 26.16,
+          "text": "all"
+        },
+        {
+          "startSec": 26.16,
+          "endSec": 26.4,
+          "text": "going"
+        },
+        {
+          "startSec": 26.4,
+          "endSec": 26.68,
+          "text": "away."
+        },
+        {
+          "startSec": 26.68,
+          "endSec": 27.02,
+          "text": "I"
+        },
+        {
+          "startSec": 27.02,
+          "endSec": 27.24,
+          "text": "think"
+        },
+        {
+          "startSec": 27.24,
+          "endSec": 27.5,
+          "text": "it"
+        },
+        {
+          "startSec": 27.5,
+          "endSec": 28.32,
+          "text": "is"
+        }
+      ],
+      "hookBeats": [
+        "They'll get them",
+        "anyway"
+      ],
+      "hookAccent": "anyway",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 1505,
+          "endSec": 1512,
+          "big": {
+            "value": "OFF YOUR RADAR",
+            "label": "no claims, no deductible, no data"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1515.3,
+        "endSec": 1516
+      },
+      "elevate": true,
+      "emphasisWords": [
+        "regardless",
+        "cover",
+        "sand",
+        "happening"
+      ]
+    },
+    {
+      "id": "clip6v2",
+      "slug": "obesity-62-diseases-already-paying-v2",
+      "inSec": 1411,
+      "outSec": 1433,
+      "aspect": "9x16",
+      "platform": "reels",
+      "hookTitle": "62 diseases.",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "there's about 62 disease states associated with obesity",
+      "cta": {
+        "text": "Free Drug Pipeline Watch List",
+        "url": "rxbs.org/toolkit/drug-pipeline-watch"
+      },
+      "captions": [
+        {
+          "startSec": 2.52,
+          "endSec": 4.96,
+          "text": "And for obesity, there's about 62"
+        },
+        {
+          "startSec": 5.66,
+          "endSec": 9.28,
+          "text": "disease states associated with obesity. And"
+        },
+        {
+          "startSec": 9.28,
+          "endSec": 11.22,
+          "text": "alongside that, there's about a 60"
+        },
+        {
+          "startSec": 11.22,
+          "endSec": 14.1,
+          "text": "percent increase in total cost for"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 15.8,
+          "text": "someone that has those disease states"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 17.96,
+          "text": "or obesity itself. So the plan's"
+        },
+        {
+          "startSec": 17.96,
+          "endSec": 19.84,
+          "text": "already paying for that regardless of"
+        },
+        {
+          "startSec": 19.84,
+          "endSec": 21.36,
+          "text": "whether you decide to turn on"
+        },
+        {
+          "startSec": 21.36,
+          "endSec": 23.54,
+          "text": "GLP-1 coverage for weight loss or"
+        },
+        {
+          "startSec": 23.54,
+          "endSec": 23.74,
+          "text": "not."
+        }
+      ],
+      "words": [
+        {
+          "startSec": 2.52,
+          "endSec": 2.56,
+          "text": "And"
+        },
+        {
+          "startSec": 2.56,
+          "endSec": 2.76,
+          "text": "for"
+        },
+        {
+          "startSec": 2.76,
+          "endSec": 3.04,
+          "text": "obesity,"
+        },
+        {
+          "startSec": 3.96,
+          "endSec": 4.16,
+          "text": "there's"
+        },
+        {
+          "startSec": 4.16,
+          "endSec": 4.36,
+          "text": "about"
+        },
+        {
+          "startSec": 4.36,
+          "endSec": 4.96,
+          "text": "62"
+        },
+        {
+          "startSec": 5.66,
+          "endSec": 6.26,
+          "text": "disease"
+        },
+        {
+          "startSec": 6.26,
+          "endSec": 6.66,
+          "text": "states"
+        },
+        {
+          "startSec": 6.66,
+          "endSec": 7.12,
+          "text": "associated"
+        },
+        {
+          "startSec": 7.12,
+          "endSec": 7.74,
+          "text": "with"
+        },
+        {
+          "startSec": 7.74,
+          "endSec": 8.24,
+          "text": "obesity."
+        },
+        {
+          "startSec": 9.22,
+          "endSec": 9.28,
+          "text": "And"
+        },
+        {
+          "startSec": 9.28,
+          "endSec": 9.64,
+          "text": "alongside"
+        },
+        {
+          "startSec": 9.64,
+          "endSec": 10.26,
+          "text": "that,"
+        },
+        {
+          "startSec": 10.26,
+          "endSec": 10.64,
+          "text": "there's"
+        },
+        {
+          "startSec": 10.64,
+          "endSec": 10.82,
+          "text": "about"
+        },
+        {
+          "startSec": 10.82,
+          "endSec": 10.94,
+          "text": "a"
+        },
+        {
+          "startSec": 10.94,
+          "endSec": 11.22,
+          "text": "60"
+        },
+        {
+          "startSec": 11.22,
+          "endSec": 11.62,
+          "text": "percent"
+        },
+        {
+          "startSec": 11.62,
+          "endSec": 12.08,
+          "text": "increase"
+        },
+        {
+          "startSec": 12.08,
+          "endSec": 12.62,
+          "text": "in"
+        },
+        {
+          "startSec": 12.62,
+          "endSec": 12.92,
+          "text": "total"
+        },
+        {
+          "startSec": 12.92,
+          "endSec": 13.42,
+          "text": "cost"
+        },
+        {
+          "startSec": 13.42,
+          "endSec": 14.1,
+          "text": "for"
+        },
+        {
+          "startSec": 14.1,
+          "endSec": 14.46,
+          "text": "someone"
+        },
+        {
+          "startSec": 14.46,
+          "endSec": 14.68,
+          "text": "that"
+        },
+        {
+          "startSec": 14.68,
+          "endSec": 14.88,
+          "text": "has"
+        },
+        {
+          "startSec": 14.88,
+          "endSec": 15.16,
+          "text": "those"
+        },
+        {
+          "startSec": 15.16,
+          "endSec": 15.44,
+          "text": "disease"
+        },
+        {
+          "startSec": 15.44,
+          "endSec": 15.8,
+          "text": "states"
+        },
+        {
+          "startSec": 15.8,
+          "endSec": 16,
+          "text": "or"
+        },
+        {
+          "startSec": 16,
+          "endSec": 16.22,
+          "text": "obesity"
+        },
+        {
+          "startSec": 16.22,
+          "endSec": 16.62,
+          "text": "itself."
+        },
+        {
+          "startSec": 16.92,
+          "endSec": 17.06,
+          "text": "So"
+        },
+        {
+          "startSec": 17.06,
+          "endSec": 17.6,
+          "text": "the"
+        },
+        {
+          "startSec": 17.6,
+          "endSec": 17.96,
+          "text": "plan's"
+        },
+        {
+          "startSec": 17.96,
+          "endSec": 18.12,
+          "text": "already"
+        },
+        {
+          "startSec": 18.12,
+          "endSec": 18.34,
+          "text": "paying"
+        },
+        {
+          "startSec": 18.34,
+          "endSec": 18.6,
+          "text": "for"
+        },
+        {
+          "startSec": 18.6,
+          "endSec": 18.82,
+          "text": "that"
+        },
+        {
+          "startSec": 18.82,
+          "endSec": 19.24,
+          "text": "regardless"
+        },
+        {
+          "startSec": 19.24,
+          "endSec": 19.84,
+          "text": "of"
+        },
+        {
+          "startSec": 19.84,
+          "endSec": 20.04,
+          "text": "whether"
+        },
+        {
+          "startSec": 20.04,
+          "endSec": 20.4,
+          "text": "you"
+        },
+        {
+          "startSec": 20.4,
+          "endSec": 20.66,
+          "text": "decide"
+        },
+        {
+          "startSec": 20.66,
+          "endSec": 20.86,
+          "text": "to"
+        },
+        {
+          "startSec": 20.86,
+          "endSec": 21.06,
+          "text": "turn"
+        },
+        {
+          "startSec": 21.06,
+          "endSec": 21.36,
+          "text": "on"
+        },
+        {
+          "startSec": 21.36,
+          "endSec": 22.44,
+          "text": "GLP-1"
+        },
+        {
+          "startSec": 22.44,
+          "endSec": 22.68,
+          "text": "coverage"
+        },
+        {
+          "startSec": 22.68,
+          "endSec": 22.98,
+          "text": "for"
+        },
+        {
+          "startSec": 22.98,
+          "endSec": 23.14,
+          "text": "weight"
+        },
+        {
+          "startSec": 23.14,
+          "endSec": 23.36,
+          "text": "loss"
+        },
+        {
+          "startSec": 23.36,
+          "endSec": 23.54,
+          "text": "or"
+        },
+        {
+          "startSec": 23.54,
+          "endSec": 23.74,
+          "text": "not."
+        }
+      ],
+      "hookLine2": "You already pay.",
+      "hookAccent": "62",
+      "cutaways": [
+        {
+          "type": "bigstat",
+          "startSec": 1414,
+          "endSec": 1421,
+          "big": {
+            "value": "62",
+            "countTo": 62,
+            "label": "disease states tied to obesity",
+            "sub": "+60% total cost per person"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 1432.3,
+        "endSec": 1433
+      },
+      "elevate": true,
+      "emphasisWords": [
+        "62",
+        "60%",
+        "obesity",
+        "paying"
+      ]
+    },
+    {
+      "id": "clip7v2",
+      "slug": "three-reporting-numbers-v2",
+      "inSec": 878,
+      "outSec": 900,
+      "aspect": "4x5",
+      "platform": "linkedin",
+      "hookTitle": "Demand these 3 numbers",
+      "showName": "Honest HR (SHRM)",
+      "locatorQuote": "Are they willing to give you direct access to what the cost was, what your rebates were, what your net cost is",
+      "cta": {
+        "text": "Free Quarterly Reporting Checklist",
+        "url": "rxbs.org/toolkit/quarterly-reporting"
+      },
+      "captions": [
+        {
+          "startSec": 2.36,
+          "endSec": 4.3,
+          "text": "And then reporting is kind of"
+        },
+        {
+          "startSec": 4.3,
+          "endSec": 5.34,
+          "text": "the last piece of it. Are"
+        },
+        {
+          "startSec": 5.34,
+          "endSec": 7.28,
+          "text": "they willing to give you direct"
+        },
+        {
+          "startSec": 7.28,
+          "endSec": 9.5,
+          "text": "access to what the cost was,"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 11.06,
+          "text": "what your rebates were, what your"
+        },
+        {
+          "startSec": 11.06,
+          "endSec": 12.8,
+          "text": "net cost is, so that you"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 15.72,
+          "text": "can really evaluate the full impact"
+        },
+        {
+          "startSec": 15.72,
+          "endSec": 17.46,
+          "text": "without going in blind. Because without"
+        },
+        {
+          "startSec": 17.46,
+          "endSec": 19.4,
+          "text": "that data, it's really hard to"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 21.76,
+          "text": "really model anything, right? Even if"
+        },
+        {
+          "startSec": 21.76,
+          "endSec": 22.9,
+          "text": "you know the number of people,"
+        },
+        {
+          "startSec": 22.9,
+          "endSec": 24.24,
+          "text": "you're not really able to"
+        }
+      ],
+      "words": [
+        {
+          "startSec": 2.36,
+          "endSec": 2.42,
+          "text": "And"
+        },
+        {
+          "startSec": 2.42,
+          "endSec": 2.54,
+          "text": "then"
+        },
+        {
+          "startSec": 2.54,
+          "endSec": 2.94,
+          "text": "reporting"
+        },
+        {
+          "startSec": 2.94,
+          "endSec": 3.98,
+          "text": "is"
+        },
+        {
+          "startSec": 3.98,
+          "endSec": 4.18,
+          "text": "kind"
+        },
+        {
+          "startSec": 4.18,
+          "endSec": 4.3,
+          "text": "of"
+        },
+        {
+          "startSec": 4.3,
+          "endSec": 4.42,
+          "text": "the"
+        },
+        {
+          "startSec": 4.42,
+          "endSec": 4.6,
+          "text": "last"
+        },
+        {
+          "startSec": 4.6,
+          "endSec": 4.88,
+          "text": "piece"
+        },
+        {
+          "startSec": 4.88,
+          "endSec": 5.06,
+          "text": "of"
+        },
+        {
+          "startSec": 5.06,
+          "endSec": 5.16,
+          "text": "it."
+        },
+        {
+          "startSec": 5.28,
+          "endSec": 5.34,
+          "text": "Are"
+        },
+        {
+          "startSec": 5.34,
+          "endSec": 5.52,
+          "text": "they"
+        },
+        {
+          "startSec": 5.52,
+          "endSec": 5.78,
+          "text": "willing"
+        },
+        {
+          "startSec": 5.78,
+          "endSec": 6.02,
+          "text": "to"
+        },
+        {
+          "startSec": 6.02,
+          "endSec": 6.24,
+          "text": "give"
+        },
+        {
+          "startSec": 6.24,
+          "endSec": 6.64,
+          "text": "you"
+        },
+        {
+          "startSec": 6.64,
+          "endSec": 7.28,
+          "text": "direct"
+        },
+        {
+          "startSec": 7.28,
+          "endSec": 7.86,
+          "text": "access"
+        },
+        {
+          "startSec": 7.86,
+          "endSec": 8.28,
+          "text": "to"
+        },
+        {
+          "startSec": 8.28,
+          "endSec": 8.74,
+          "text": "what"
+        },
+        {
+          "startSec": 8.74,
+          "endSec": 8.86,
+          "text": "the"
+        },
+        {
+          "startSec": 8.86,
+          "endSec": 9.12,
+          "text": "cost"
+        },
+        {
+          "startSec": 9.12,
+          "endSec": 9.5,
+          "text": "was,"
+        },
+        {
+          "startSec": 9.5,
+          "endSec": 9.82,
+          "text": "what"
+        },
+        {
+          "startSec": 9.82,
+          "endSec": 9.98,
+          "text": "your"
+        },
+        {
+          "startSec": 9.98,
+          "endSec": 10.42,
+          "text": "rebates"
+        },
+        {
+          "startSec": 10.42,
+          "endSec": 10.64,
+          "text": "were,"
+        },
+        {
+          "startSec": 10.76,
+          "endSec": 10.88,
+          "text": "what"
+        },
+        {
+          "startSec": 10.88,
+          "endSec": 11.06,
+          "text": "your"
+        },
+        {
+          "startSec": 11.06,
+          "endSec": 11.22,
+          "text": "net"
+        },
+        {
+          "startSec": 11.22,
+          "endSec": 11.52,
+          "text": "cost"
+        },
+        {
+          "startSec": 11.52,
+          "endSec": 11.8,
+          "text": "is,"
+        },
+        {
+          "startSec": 11.8,
+          "endSec": 12.06,
+          "text": "so"
+        },
+        {
+          "startSec": 12.06,
+          "endSec": 12.28,
+          "text": "that"
+        },
+        {
+          "startSec": 12.28,
+          "endSec": 12.8,
+          "text": "you"
+        },
+        {
+          "startSec": 12.8,
+          "endSec": 12.98,
+          "text": "can"
+        },
+        {
+          "startSec": 12.98,
+          "endSec": 13.3,
+          "text": "really"
+        },
+        {
+          "startSec": 13.3,
+          "endSec": 13.7,
+          "text": "evaluate"
+        },
+        {
+          "startSec": 13.7,
+          "endSec": 14.66,
+          "text": "the"
+        },
+        {
+          "startSec": 14.66,
+          "endSec": 15.2,
+          "text": "full"
+        },
+        {
+          "startSec": 15.2,
+          "endSec": 15.72,
+          "text": "impact"
+        },
+        {
+          "startSec": 15.72,
+          "endSec": 16.08,
+          "text": "without"
+        },
+        {
+          "startSec": 16.08,
+          "endSec": 16.52,
+          "text": "going"
+        },
+        {
+          "startSec": 16.52,
+          "endSec": 16.68,
+          "text": "in"
+        },
+        {
+          "startSec": 16.68,
+          "endSec": 17.18,
+          "text": "blind."
+        },
+        {
+          "startSec": 17.24,
+          "endSec": 17.28,
+          "text": "Because"
+        },
+        {
+          "startSec": 17.28,
+          "endSec": 17.46,
+          "text": "without"
+        },
+        {
+          "startSec": 17.46,
+          "endSec": 17.74,
+          "text": "that"
+        },
+        {
+          "startSec": 17.74,
+          "endSec": 18,
+          "text": "data,"
+        },
+        {
+          "startSec": 18.32,
+          "endSec": 18.44,
+          "text": "it's"
+        },
+        {
+          "startSec": 18.44,
+          "endSec": 18.82,
+          "text": "really"
+        },
+        {
+          "startSec": 18.82,
+          "endSec": 19.16,
+          "text": "hard"
+        },
+        {
+          "startSec": 19.16,
+          "endSec": 19.4,
+          "text": "to"
+        },
+        {
+          "startSec": 19.4,
+          "endSec": 20.16,
+          "text": "really"
+        },
+        {
+          "startSec": 20.16,
+          "endSec": 20.48,
+          "text": "model"
+        },
+        {
+          "startSec": 20.48,
+          "endSec": 20.88,
+          "text": "anything,"
+        },
+        {
+          "startSec": 21.24,
+          "endSec": 21.36,
+          "text": "right?"
+        },
+        {
+          "startSec": 21.54,
+          "endSec": 21.58,
+          "text": "Even"
+        },
+        {
+          "startSec": 21.58,
+          "endSec": 21.76,
+          "text": "if"
+        },
+        {
+          "startSec": 21.76,
+          "endSec": 21.86,
+          "text": "you"
+        },
+        {
+          "startSec": 21.86,
+          "endSec": 21.98,
+          "text": "know"
+        },
+        {
+          "startSec": 21.98,
+          "endSec": 22.12,
+          "text": "the"
+        },
+        {
+          "startSec": 22.12,
+          "endSec": 22.42,
+          "text": "number"
+        },
+        {
+          "startSec": 22.42,
+          "endSec": 22.54,
+          "text": "of"
+        },
+        {
+          "startSec": 22.54,
+          "endSec": 22.9,
+          "text": "people,"
+        },
+        {
+          "startSec": 22.9,
+          "endSec": 23.48,
+          "text": "you're"
+        },
+        {
+          "startSec": 23.48,
+          "endSec": 23.62,
+          "text": "not"
+        },
+        {
+          "startSec": 23.62,
+          "endSec": 23.8,
+          "text": "really"
+        },
+        {
+          "startSec": 23.8,
+          "endSec": 24.08,
+          "text": "able"
+        },
+        {
+          "startSec": 24.08,
+          "endSec": 24.24,
+          "text": "to"
+        }
+      ],
+      "hookBeats": [
+        "Cost.",
+        "Rebates.",
+        "Net cost."
+      ],
+      "hookAccent": "Net cost",
+      "cutaways": [
+        {
+          "type": "stat",
+          "startSec": 888,
+          "endSec": 896,
+          "captionsFromSec": 892,
+          "stat": {
+            "title": "Ask your PBM for",
+            "lines": [
+              {
+                "pre": "What the drug",
+                "key": "COST"
+              },
+              {
+                "pre": "What your",
+                "key": "REBATES",
+                "post": "were"
+              },
+              {
+                "pre": "Your",
+                "key": "NET COST"
+              }
+            ],
+            "callout": "the one that decides everything"
+          }
+        }
+      ],
+      "audioFade": {
+        "startSec": 899.3,
+        "endSec": 900
+      },
+      "elevate": true,
+      "emphasisWords": [
+        "cost",
+        "rebates",
+        "net",
+        "blind",
+        "data"
+      ]
     }
-  ]
+  ],
+  "_note_v2": "*v2 entries (Jul 2026) are ELEVATED SECOND VERSIONS of the same moments \u2014 identical in/out, captions, and cutaways, plus the v2 treatment (elevate: punch-in editing rhythm on caption boundaries, Accent-tinted emphasis words in the karaoke track, animated end card). The original clip entries are untouched and still render the verified v1 output. Batch-render: node render-with-extract.mjs v2. Optional music bed: add music:{src,volume} to a v2 clip once a licensed track exists at remotion_starter/public/ (render script skips it if the file is missing)."
 }

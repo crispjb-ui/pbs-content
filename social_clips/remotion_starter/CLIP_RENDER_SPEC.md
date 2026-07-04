@@ -177,11 +177,44 @@ drifts, tune `CAPTION_LEAD` in `Clip.tsx` (forward lead, default 0.15s).
 `git pull` → `cd social_clips/remotion_starter` → ensure `public/source.mp4` (yt-dlp)
 + ffmpeg on PATH → `node render-with-extract.mjs`. Outputs `out/2026-06-09_<slug>_<aspect>.mp4`.
 
-**Still open (next elevation step):** per-clip DESIGNED COVER PNGs. Only clip7 has a
-bespoke designed cover (`DesignedCoverClip7`). The others fall back to the generic
-`coverMode` still (`render-covers.mjs`) — fine because the in-clip hook shows in the
-first ~2s, but a parameterized designed-cover component (one component, per-clip props)
-would bring covers up to clip7's level without 6 bespoke files. Build when ready.
+**~~Still open (next elevation step): per-clip DESIGNED COVER PNGs~~ — BUILT (Jul 4, 2026).**
+`src/DesignedCoverAny.tsx` is the parameterized designed-cover component: one component,
+per-clip props, clip7-level covers for every clip. It reuses the clip's own **cutaway
+payload** (equation / stat / bigstat / dotgrid) as the cover's static visual, so the
+thumbnail previews the exact payoff the clip delivers (thumbnail → frame 0 → cutaway reads
+as one continuous story). Render all covers, both aspects, straight from the manifest:
+`node render-designed-covers.mjs` → `out/designed_cover_<slug>_<aspect>.png`. The 4x5 is the
+LinkedIn custom thumbnail (lesson 6); the 9x16 is the TikTok/Reels/Shorts cover. The old
+`render-covers.mjs` generic still remains for clips with no cutaway payload.
+
+## v2 elevated treatment (added Jul 4, 2026) — second versions, never overwrites
+
+Per Ginny's rule: **elevations ship as SECOND VERSIONS of each clip (`clip1v2`, slug
+`<slug>-v2`), never by editing a shipped v1 manifest entry.** Every v2 feature in `Clip.tsx`
+is opt-in — a clip without the new fields renders pixel-identical to the verified v1 output.
+The SHRM manifest now carries 7 `*v2` entries (same locked in/out, captions, cutaways) with:
+
+1. **Punch-in editing rhythm (`elevate: true`)** — the crop level alternates 1.0 ↔ ~1.065
+   with a soft spring on each caption-phrase boundary: the standard talking-head retention
+   edit (visual "cut" energy without actual cuts). Stacked with the slow base zoom the max
+   crop is ~1.13, still inside the SAFE_X margins.
+2. **Emphasis words (`emphasisWords: [...]`)** — the clip's payload nouns ("spread",
+   "rebates", "62", "net cost") stay Accent-tinted in the karaoke track even when not the
+   active word, so the key terms read at a glance in a muted feed.
+3. **Animated end card (`elevate: true`)** — staged spring entrances (logo → tagline → CTA)
+   and the CTA in a bouncing Accent pill. Same content/brand as v1, more finish.
+4. **Optional music bed (`music: { src, volume? })`** — quiet track under the voice
+   (default 8%), fade-in, slight swell under the end card, tail fade. NOT enabled on the
+   SHRM v2s yet: no licensed track in `public/`. The render script strips `music` when the
+   file is missing, so it can never break a render. To enable: drop a licensed instrumental
+   at `public/music_bed.mp3` and add the prop to a v2 entry.
+
+**Render:** `node render-with-extract.mjs v2` (only the elevated versions) ·
+`node render-with-extract.mjs v1` (only the originals) · no filter = all.
+**A/B intent:** v1 vs v2 of the same moment is a clean treatment test — ship one, hold the
+other, or alternate across Wednesdays and compare avg-watch/completion in the shipped-video
+log (`video_content_bank.md`). QC every render with `node qc-frames.mjs` (dead-zone masked
+frames in `out/qc/`) before the phone preview.
 
 ## Playback refinements (added Jun 17, 2026 from live-clip review)
 
