@@ -8,6 +8,7 @@ You are running the PBS monthly **video** engine and feeding it back into the co
 **The source of truth this engine maintains is `video_content_bank.md`.** Edit it in place. This command is **research + drafting only. It never publishes** to any platform.
 
 Read for context every run:
+- `video_production_runbook.md` — the six-phase gated process of record; every concept you add must be shippable through it (and its QC gate) unchanged.
 - `platform_playbooks.md` — current video best practices (LinkedIn 9:16/video-tab, YouTube Shorts, TikTok, Reels, X). Apply the latest specs/hooks; the measured-data override below still wins.
 - `linkedin_performance_tracker.md` — PBS's own video + post performance, the WORKING/WEAK shapes, the shocking-fact-gate finding, the summer-floor reads.
 - `shocking_fact_bank.md` + `x_recipe_post_bank.md` — source material for new hooks.
@@ -24,7 +25,7 @@ From the "Shipped video performance log" in the bank + the tracker: which shapes
 
 ## Step 3 — Auto-update the bank (mechanical, no approval)
 Edit `video_content_bank.md` in place:
-- **Add 3-6 new scripted concepts** (Mode A) built from PBS's proven shapes + fresh `shocking_fact_bank` material + what the competitor teardown shows is working for this audience. Each gets: hook (first 3s), shape, a 45-90s beat sheet, the proprietary anchor, target platforms + the two length cuts, status.
+- **Add 3-6 new scripted concepts** (Mode A) built from PBS's proven shapes + fresh `shocking_fact_bank` material + what the competitor teardown shows is working for this audience. **Every new concept is built to the bank's "reveal formula, video edition" by default** (promise-then-loophole hook spoken AND on-screen in the first 3s; ONE fact per clip; countable payload mirrored by a cutaway; named actor + victim; proprietary anchor ~2/3 through; short cut in the **15-25s completion zone**; a **scheduling guardrail** naming any same-mechanism Thursday reveal week it must avoid). A non-reveal shape (origin, dollar-comparison, Ask-Ginny reply) needs its role stated (person-entity, network warmth) — never add a plain vocabulary decoder; re-frame it as the belief it breaks. Each gets: hook (first 3s), shape, beat sheet, the proprietary anchor, target platforms + the two length cuts, guardrail, status.
 - **Update the repurpose queue** (Mode B) with any new source appearance.
 - **Re-rank the Active shoot-list** (top 3-5 ready concepts) on freshness + the working/weak read, so `/build-week` pulls the strongest next.
 - **Retire** fatigued/stale concepts to the Retired section with the reason.

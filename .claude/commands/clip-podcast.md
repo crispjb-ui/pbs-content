@@ -9,17 +9,18 @@ You are turning a Ginny podcast appearance into social clips. You produce the **
 
 Also read `platform_playbooks.md` (TikTok + YouTube Shorts + LinkedIn video sections) and build the clip plan to the current specs/hooks there. (The playbook is refreshed monthly by `/platform-research`; where it conflicts with PBS's measured data, the measured data wins.)
 
+**Process of record: `video_production_runbook.md`.** Every clip this command plans runs the six-phase gated pipeline — the plan/manifest you produce here is Phases 1-2; the render machine then does Phase 3 (render), **Phase 4 (QC gate: `qc-frames.mjs` + `/video-qc` + phone preview — no clip posts without passing)**, Phase 5 (publish per the plan's copy), Phase 6 (measure into the bank's shipped log). State this hand-off at the end of every clip plan.
+
 ## Step 1 — Transcript with timestamps
 Get the episode transcript with timestamps. You need them to mark clip in/out points.
 
-## Step 2 — Select 3-5 clip moments (use the proven shapes)
-Scan for moments matching PBS's highest-performing shapes (see `linkedin_performance_tracker.md` + `shocking_fact_bank.md`):
-- a **shocking-fact / genuinely-unknown structural fact** reveal,
-- a **decoder** beat (a term decoded plainly),
-- a **named-adversary / dollar-comparison** line,
-- a **proprietary anchor / story** ("we review hundreds of contracts a year…"),
-- a **sharp one-liner / reframe**.
-Pick the 3-5 strongest **self-contained 20-60s** moments. No mid-thought cuts; each must stand alone.
+## Step 2 — Select 3-5 clip moments (reveal-first, per the measured shape ceilings)
+Scan for moments matching PBS's highest-performing shapes, **in this priority order** (reveals measured 5.5-17.8K organic vs vocabulary decoders 595-789 in the same summer weeks — see `linkedin_performance_tracker.md`, `shocking_fact_bank.md` → "Why it works", and `video_content_bank.md` → "The reveal formula, video edition"):
+1. a **shocking hidden-structure reveal** (promise-then-loophole: the protection the viewer believes in, then the mechanism that voids it),
+2. a **named-adversary / dollar-comparison** line,
+3. a **decoder** beat — only when it can be re-framed as a reveal (open with the belief it breaks, not the definition),
+4. a **proprietary anchor / story** or **sharp one-liner / reframe**.
+Pick the 3-5 strongest **self-contained** moments. No mid-thought cuts; each must stand alone. **Length discipline: target 15-25s for the master moment** (the measured completion zone — an 18s clip held ~94% watch, a 32s clip held ~44%); go past ~30s only when every extra second is payload, never for wind-up. One idea per clip. If a clip in the plan is not reveal- or dollar-shaped, say why it earns the slot anyway.
 
 ## Step 3 — Spec each clip
 
@@ -43,6 +44,10 @@ Write TWO files to `social_clips/`:
 2. **`<show-slug>_<YYYY-MM-DD>_clips.json`** — the machine-readable manifest the Remotion starter renders (schema = `social_clips/remotion_starter/clips.sample.json`):
    `{ show, episodeUrl, date, sourceVideo, fps, clips: [ { id, slug, inSec, outSec, aspect ("9x16"|"4x5"), platform, hookTitle, showName, cta:{text,url}, captions:[{startSec,endSec,text}] } ] }`.
    Caption times are **absolute source seconds** (the composition offsets by `inSec`). If you only have rough timestamps (no word/phrase-level timing), still emit the manifest and flag that a Whisper JSON is needed in the video repo for synced captions.
+
+   **Elevated treatment is the DEFAULT for new clips (added Jul 4, 2026):** every clip in a NEW manifest carries `elevate: true` and an `emphasisWords` array (the clip's 4-6 payload nouns — the terms that must read at a glance in a muted feed). This turns on the v2 treatment (punch-in editing rhythm, Accent-tinted emphasis words, animated end card) that shipped as `*v2` second versions on the SHRM batch; new batches simply start there. Where a clip has a countable/number moment, spec a matching `cutaways` entry (equation / stat / bigstat / dotgrid — no code needed for those four). The "second versions, never overwrite" rule applies to EDITS of already-shipped clips, not to new batches. Optional `music: {src, volume}` stays off until a licensed track exists in `public/`.
+
+   **Designed covers:** note in the plan that the render machine runs `node render-designed-covers.mjs <manifest>` — every clip gets a designed thumbnail (both aspects) generated from its cutaway payload; the 4x5 is the LinkedIn custom thumbnail, the 9x16 the TikTok/Reels/Shorts cover.
 
 Commit both. Log the appearance + clips in the tracker (`podcast_pitching_guide.md` Tracking / `podcast_outreach_sprint.md`). The video repo then runs `node render-from-manifest.mjs <clips.json>` against the `social_clips/remotion_starter/` code to render.
 
