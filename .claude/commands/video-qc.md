@@ -18,7 +18,9 @@ Check against the canonical checklist (`video_content_bank.md` → "9:16 in-feed
 - **Captions:** vertically centered band, 2-4 words/line, big (9:16 ≈ 60px), high-contrast, clear of the right rail, readable when the frame is shrunk to ~400px wide (actually downscale one frame and check).
 - **Nameplate:** clear of the bottom band; not colliding with captions.
 - **End card:** logo + rxbs.org + one CTA line, fully inside safe area.
+- **Hook entrance motion:** the t0.2 and t2.0 frames must differ visibly in the hook area (the staggered/spring entrance is the first-5s pattern interrupt worth ~23% retention; two identical hook frames = a static open = FAIL).
 - **v2 clips additionally:** emphasis words render Accent (not broken spans); end-card CTA pill fully visible; punch-in hasn't pushed content into a dead zone at any sampled frame.
+- **Retention props (when the manifest specs them):** the `midHook` chip appears at its `atFrac` moment, inside the safe band, NOT covered by a cutaway (extract an extra frame at `duration × atFrac + 1s` to check); a `coldOpen` clip shows the teaser beat + hook at t0.2, the brand-blue seam flash near the teaser's end, the clip restarting after it, and a composition longer by the teaser length.
 - **Cover PNGs** (if present in the same out/): hook text matches the clip's frame-0 hook; nothing critical in the outer 10%.
 
 ## Step 3 — Report

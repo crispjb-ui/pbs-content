@@ -28,6 +28,13 @@ Pick the 3-5 strongest **self-contained** moments. No mid-thought cuts; each mus
 
 For each: clip #, in/out timestamps, the verbatim quote, the shape it hits, target platform + aspect (**9:16** Shorts/Reels/TikTok or **4:5** LinkedIn/X feed), an **on-screen hook/title** (first 3 words must stop the scroll), a burned-in-caption note (social autoplays muted, captions are mandatory), and the PBS brand treatment per `social_clips/remotion_pbs_caption_template_spec.md`. Keep Ginny centered in the reframe.
 
+**Retention spec per clip (added Jul 4, 2026 — build to `video_content_bank.md` → "Hook & retention playbook"):**
+- **Hook = one promise**, present tense, spoken + on-screen together; never two claims in one hook.
+- **≥1 cutaway per clip** (equation / stat / bigstat / dotgrid matching the clip's number moment) — the karaoke captions + v2 punch-ins carry the ≤5s pattern-interrupt cadence between cutaways.
+- **Clips >~25s: add a `midHook`** re-engagement chip (one line naming the payoff ahead, `atFrac` clear of cutaway windows; B2B voice, never "wait for it").
+- **Money line lands late in the footage? Consider a `coldOpen` teaser** (play that beat as the first ~1.5-3s, flash-cut back to the start). SELECTIVE — skip it when the clip already opens strong; note the choice either way.
+- **Countable payloads: order weakest → strongest and flag it** ("the biggest one is last") in the caption track where the spoken words support it.
+
 ## Step 4 — Post copy + per-platform wrapper (the differentiation lives HERE, not in the edit)
 The caption in PBS voice (confrontational/decoder hook) + the **funnel CTA**, wrapped per platform (all paste-ready in fenced code blocks):
 - **LinkedIn:** native 9:16 upload (long cut), professional confrontation hook, **link in the first comment**, 3 hashtags (CLAUDE.md pillar rule). Post first per the LinkedIn-first rule.

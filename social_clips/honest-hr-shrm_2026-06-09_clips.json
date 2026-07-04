@@ -4173,7 +4173,11 @@
         "difference",
         "higher",
         "invoice"
-      ]
+      ],
+      "midHook": {
+        "text": "Watch where the $20 goes",
+        "atFrac": 0.33
+      }
     },
     {
       "id": "clip2v2",
@@ -6327,7 +6331,11 @@
         "cover",
         "sand",
         "happening"
-      ]
+      ],
+      "coldOpen": {
+        "startSec": 1512.4,
+        "endSec": 1514.6
+      }
     },
     {
       "id": "clip6v2",

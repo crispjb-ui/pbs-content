@@ -7,12 +7,18 @@ import { DesignedCoverAny, coverAnyDefaultProps } from "./DesignedCoverAny";
 
 const FPS = 30;
 
-const calc = ({ props }: { props: typeof clipDefaultProps }) => ({
-  durationInFrames: Math.max(
-    1,
-    Math.round((props.clip.outSec - props.clip.inSec) * (props.fps || FPS))
-  ),
-});
+const calc = ({ props }: { props: typeof clipDefaultProps }) => {
+  // A cold-open teaser prepends its beat to the clip, so the composition runs longer.
+  const cold = props.clip.coldOpen
+    ? Math.max(0, props.clip.coldOpen.endSec - props.clip.coldOpen.startSec)
+    : 0;
+  return {
+    durationInFrames: Math.max(
+      1,
+      Math.round((props.clip.outSec - props.clip.inSec + cold) * (props.fps || FPS))
+    ),
+  };
+};
 
 const coverProps = { ...clipDefaultProps, coverMode: true };
 

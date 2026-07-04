@@ -3,6 +3,7 @@ import {
   AbsoluteFill,
   Audio,
   OffthreadVideo,
+  Sequence,
   staticFile,
   useCurrentFrame,
   useVideoConfig,
@@ -124,6 +125,22 @@ export type ClipData = {
   elevate?: boolean; // punch-in editing rhythm + emphasis-word tint + animated end card
   emphasisWords?: string[]; // payload nouns tinted Accent in the karaoke track even when not the active word
   music?: { src: string; volume?: number }; // optional low audio bed under the voice (file in public/); render scripts strip it when the file is absent
+  // Mid-clip re-engagement beat (2026 retention research: one open-loop line at ~40-65% of the
+  // clip lifts retention 4-8pp). A short chip naming the payoff still ahead ("Watch where the
+  // $20 goes"), shown ~2s in the upper band. Use on clips >~25s; pick atFrac clear of cutaway
+  // windows (a full-screen cutaway covers it). B2B voice: name the payload, never hype.
+  midHook?: { text: string; atFrac?: number }; // atFrac = fraction of clip duration, default 0.45
+  // Cold-open teaser (SELECTIVE — not every clip): play the clip's strongest beat as the first
+  // ~1.5-3s (hook text unchanged on top), flash-cut back to the beginning, run the clip through.
+  // Use ONLY when the money line lands late in the footage; a clip that already opens strong
+  // gains nothing from hearing the same line twice. startSec/endSec are ABSOLUTE source seconds
+  // and must lie inside [inSec, outSec] (the extracted segment must contain them).
+  coldOpen?: { startSec: number; endSec: number };
+  // Nameplate policy: the fly-in/out plate exists for OFF-platform travel (video tab / TikTok /
+  // Reels / Shorts have no poster stamp). In the LinkedIn feed it's redundant (LinkedIn stamps
+  // the poster) — set true to drop it for a LinkedIn-only render. Default: shown (brief, not
+  // persistent — persistent plates eat safe area and compete with captions).
+  hideNameplate?: boolean;
 };
 export type ClipProps = { sourceVideo: string; fps: number; clip: ClipData; coverMode?: boolean };
 
@@ -443,11 +460,18 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // single fixed clip.aspect to both — so clip.aspect is unreliable for "which format am I". height/width
   // cleanly separates them: 9:16 = 1.78, 4:5 = 1.25. (Fixed Jul 1, 2026 with the first-live-9:16 dead-zone pass.)
   const vertical = height / width > 1.5;
-  const totalFrames = Math.round((clip.outSec - clip.inSec) * fps);
+  // ── Cold-open teaser math: the composition = [teaser beat] + [full clip]. All content
+  // (captions/cutaways/fitWindows) is keyed on tSource, which maps piecewise: during the
+  // teaser it tracks the teaser's source window, after the seam it tracks the clip from inSec.
+  const coldFrames = clip.coldOpen ? Math.max(0, Math.round((clip.coldOpen.endSec - clip.coldOpen.startSec) * fps)) : 0;
+  const inColdOpen = coldFrames > 0 && frame < coldFrames;
+  const totalFrames = Math.round((clip.outSec - clip.inSec) * fps) + coldFrames;
   const endFrames = Math.round(2.5 * fps);
   const hookDurFrames = Math.round(3.5 * fps);
 
-  const tSource = clip.inSec + frame / fps;
+  const tSource = inColdOpen
+    ? clip.coldOpen!.startSec + frame / fps
+    : clip.inSec + (frame - coldFrames) / fps;
   // Karaoke fires slightly AHEAD of the audio — exact-on-word timing reads as "behind" because
   // word timestamps mark the acoustic middle and there is a reading lag. Tunable: raise if captions
   // still trail speech, lower if they jump ahead.
@@ -492,8 +516,8 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const emphasisSet = new Set((clip.emphasisWords ?? []).map(normWord));
   const capIdx = active ? clip.captions.indexOf(active) : -1;
   let punchScale = 1;
-  if (clip.elevate && capIdx >= 0 && active) {
-    const capStartFrame = Math.max(0, Math.round((active.startSec - CAPTION_LEAD - clip.inSec) * fps));
+  if (clip.elevate && !inColdOpen && capIdx >= 0 && active) {
+    const capStartFrame = coldFrames + Math.max(0, Math.round((active.startSec - CAPTION_LEAD - clip.inSec) * fps));
     const p = spring({ frame: Math.max(0, frame - capStartFrame), fps, config: { damping: 16, stiffness: 80 } });
     const target = capIdx % 2 === 0 ? 1.0 : 1.065;
     const prev = capIdx % 2 === 0 ? 1.065 : 1.0;
@@ -505,10 +529,12 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const containFit = clip.fit === "contain" || inFitWindow;
 
   // ── Full-screen cutaway active? (the name plate hides for the whole cutaway) ──
-  const cutawayActive = (clip.cutaways ?? []).some((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
+  // Cutaways never fire during a cold-open teaser (the hook panel owns that window, even when
+  // the teaser's source seconds fall inside a cutaway's window — e.g. the teaser IS the stat moment).
+  const cutawayActive = !inColdOpen && (clip.cutaways ?? []).some((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
   // Captions are suppressed only while the cutaway "owns" the words (e.g. the stat rows ARE the
   // captions). A cutaway may set captionsFromSec to hand the karaoke pill back partway through its hold.
-  const captionCutaway = (clip.cutaways ?? []).find((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
+  const captionCutaway = inColdOpen ? undefined : (clip.cutaways ?? []).find((cut) => tSource >= cut.startSec && tSource <= cut.endSec);
   const captionsSuppressed = !!captionCutaway && !(captionCutaway.captionsFromSec != null && tSource >= captionCutaway.captionsFromSec);
   // When the pill rides over a still-visible cutaway, drop it deeper into the safe bottom margin so
   // it clears the centred card (the growing NET COST row + callout).
@@ -523,10 +549,11 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // (clips whose stat is spoken early). Delay the plate to just after that cutaway ends.
   const plateHold = Math.round(3.5 * fps);
   const plateInFrame = (() => {
-    let p = Math.round(2 * fps);
+    // With a cold-open teaser, the plate waits for the main clip (the teaser belongs to the hook).
+    let p = coldFrames + Math.round(2 * fps);
     for (const c of clip.cutaways ?? []) {
-      const cs = Math.round((c.startSec - clip.inSec) * fps);
-      const ce = Math.round((c.endSec - clip.inSec) * fps);
+      const cs = coldFrames + Math.round((c.startSec - clip.inSec) * fps);
+      const ce = coldFrames + Math.round((c.endSec - clip.inSec) * fps);
       if (cs < p + plateHold && ce > p) p = ce + Math.round(0.3 * fps);
     }
     return p;
@@ -535,7 +562,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const plateFlyIn = spring({ frame: Math.max(0, frame - plateInFrame), fps, config: { damping: 14, stiffness: 100 } });
   const plateFlyOut = spring({ frame: Math.max(0, frame - plateOutFrame), fps, config: { damping: 14, stiffness: 100 } });
   const plateX = frame < plateInFrame ? -120 : frame >= plateOutFrame ? interpolate(plateFlyOut, [0, 1], [0, -120]) : interpolate(plateFlyIn, [0, 1], [-120, 0]);
-  const plateVisible = frame >= plateInFrame && plateX > -119 && !cutawayActive;
+  const plateVisible = !clip.hideNameplate && frame >= plateInFrame && plateX > -119 && !cutawayActive;
 
   // ── End card ──
   const endLocalFrame = Math.max(0, frame - (totalFrames - endFrames));
@@ -567,13 +594,37 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   return (
     <AbsoluteFill style={{ backgroundColor: containFit ? PRIMARY : "#000", fontFamily: SANS, overflow: "hidden" }}>
       {/* When letterboxed (split-screen "zoom out"), the frame bg is the Primary backdrop for the bars. */}
-      {/* ── Footage (always rendered for audio continuity) ── */}
-      <OffthreadVideo
-        src={staticFile(sourceVideo)}
-        startFrom={Math.round(clip.inSec * fps)}
-        volume={clip.audioFade ? (f) => interpolate(f, [fadeStartFrame, fadeEndFrame], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : undefined}
-        style={{ width, height, objectFit: containFit ? "contain" : "cover", transform: containFit ? undefined : `scale(${zoom * punchScale})`, opacity: inEndCard ? 0 : 1 }}
-      />
+      {/* ── Footage (always rendered for audio continuity) ──
+          With a coldOpen, the composition is two sequences: the teaser beat, then the full clip
+          from its start. Without one, coldFrames = 0 and only the main sequence renders (from 0),
+          preserving the verified v1 behavior exactly. Volume callbacks are sequence-local, so the
+          audio-fade frame math (relative to the clip's own start) is unchanged. */}
+      {coldFrames > 0 && (
+        <Sequence from={0} durationInFrames={coldFrames}>
+          <OffthreadVideo
+            src={staticFile(sourceVideo)}
+            startFrom={Math.round(clip.coldOpen!.startSec * fps)}
+            style={{ width, height, objectFit: containFit ? "contain" : "cover", transform: containFit ? undefined : `scale(${zoom * punchScale})` }}
+          />
+        </Sequence>
+      )}
+      <Sequence from={coldFrames}>
+        <OffthreadVideo
+          src={staticFile(sourceVideo)}
+          startFrom={Math.round(clip.inSec * fps)}
+          volume={clip.audioFade ? (f) => interpolate(f, [fadeStartFrame, fadeEndFrame], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : undefined}
+          style={{ width, height, objectFit: containFit ? "contain" : "cover", transform: containFit ? undefined : `scale(${zoom * punchScale})`, opacity: inEndCard ? 0 : 1 }}
+        />
+      </Sequence>
+
+      {/* ── Cold-open seam: a fast brand-blue flash sells the cut back to the beginning ── */}
+      {coldFrames > 0 && frame >= coldFrames - 2 && frame <= coldFrames + 4 && (
+        <AbsoluteFill style={{
+          backgroundColor: PRIMARY,
+          opacity: interpolate(frame, [coldFrames - 2, coldFrames, coldFrames + 4], [0, 0.85, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }),
+          zIndex: 40,
+        }} />
+      )}
 
       {/* ── Optional music bed (v2): quiet under the voice, fades in, swells slightly under the
           end card, hard-fades at the tail. Render scripts strip clip.music when the file is
@@ -675,8 +726,38 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
             </div>
           )}
 
-          {/* ── FULL-SCREEN CUTAWAYS (animated, audio continues) ── */}
+          {/* ── MID-CLIP RE-ENGAGEMENT CHIP (open-loop payoff tease, ~2s in the upper band) ── */}
+          {clip.midHook && (() => {
+            const mhStart = Math.round(totalFrames * (clip.midHook.atFrac ?? 0.45));
+            const mhDur = Math.round(2.2 * fps);
+            const lf = frame - mhStart;
+            if (lf < 0 || lf > mhDur) return null;
+            const mhIn = spring({ frame: lf, fps, config: { damping: 12, stiffness: 170, mass: 0.6 } });
+            const mhOut = interpolate(lf, [mhDur - 8, mhDur], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+            return (
+              <div style={{
+                position: "absolute",
+                top: vertical ? Math.round(height * 0.22) : 150,
+                left: SAFE_X, right: SAFE_X,
+                textAlign: "center",
+                opacity: Math.min(mhIn, mhOut),
+                zIndex: 24,
+              }}>
+                <div style={{
+                  display: "inline-block",
+                  background: ACCENT, color: PRIMARY,
+                  fontFamily: SANS, fontSize: vertical ? 40 : 32, fontWeight: 700,
+                  padding: "10px 24px", borderRadius: 999,
+                  boxShadow: "0 8px 26px rgba(0,0,0,0.4)",
+                  transform: `scale(${interpolate(Math.min(mhIn, mhOut), [0, 1], [0.8, 1])})`,
+                }}>{clip.midHook.text}</div>
+              </div>
+            );
+          })()}
+
+          {/* ── FULL-SCREEN CUTAWAYS (animated, audio continues; never during a cold-open teaser) ── */}
           {(clip.cutaways ?? []).map((cut, i) => {
+            if (inColdOpen) return null;
             if (tSource < cut.startSec || tSource > cut.endSec) return null;
             const lf = Math.round((tSource - cut.startSec) * fps);
             const dur = Math.round((cut.endSec - cut.startSec) * fps);

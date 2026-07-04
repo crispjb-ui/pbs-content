@@ -83,6 +83,7 @@ for (const f of FORMATS) {
       cutaways: (clip.cutaways || []).map(c => ({ ...c, startSec: c.startSec - ss, endSec: c.endSec - ss, captionsFromSec: c.captionsFromSec != null ? c.captionsFromSec - ss : undefined })),
       audioFade: clip.audioFade ? { startSec: clip.audioFade.startSec - ss, endSec: clip.audioFade.endSec - ss } : undefined,
       fitWindows: (clip.fitWindows || []).map(w => ({ ...w, startSec: w.startSec - ss, endSec: w.endSec - ss })),
+      coldOpen: clip.coldOpen ? { startSec: clip.coldOpen.startSec - ss, endSec: clip.coldOpen.endSec - ss } : undefined,
     };
     // Optional v2 music bed: never let a missing audio file break a render.
     if (adjustedClip.music && !existsSync(`public/${adjustedClip.music.src}`)) {

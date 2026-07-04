@@ -209,6 +209,31 @@ The SHRM manifest now carries 7 `*v2` entries (same locked in/out, captions, cut
    file is missing, so it can never break a render. To enable: drop a licensed instrumental
    at `public/music_bed.mp3` and add the prop to a v2 entry.
 
+**Retention props (added Jul 4, 2026 — from the hook & retention research pass; playbook:
+`video_content_bank.md` → "Hook & retention playbook"):**
+
+5. **Mid-clip re-engagement chip (`midHook: { text, atFrac? }`)** — one short open-loop line
+   naming the payoff still ahead ("Watch where the $20 goes"), shown ~2.2s in the upper band
+   at `atFrac` (default 0.45) of the clip. Research: one re-engagement beat at ~40-65% lifts
+   retention 4-8pp. **Use on clips >~25s**; pick `atFrac` clear of cutaway windows (a
+   full-screen cutaway covers it). B2B voice: name the payload, never "wait for it."
+   Worked example: clip1v2 (`atFrac 0.33`, pays off into the 15s equation cutaway).
+6. **Cold-open teaser (`coldOpen: { startSec, endSec }`, ABSOLUTE source secs)** — plays the
+   clip's strongest beat as the first ~1.5-3s (hook panel unchanged on top), then a fast
+   brand-blue flash cuts back to the clip's start and it runs through. **SELECTIVE, not every
+   clip:** only when the money line lands late in the footage; a clip that opens strong gains
+   nothing from hearing the line twice. Implementation: two `<Sequence>`s; all tSource-keyed
+   content maps piecewise; cutaways/punch-ins/nameplate are suppressed during the teaser (the
+   hook panel owns that window); the composition runs longer by the teaser length (Root's
+   `calc` + render-with-extract both handle it; teaser secs must lie inside [inSec, outSec]).
+   Worked example: clip5v2 (teaser = "put your head in the sand … all going away," 1512.4-1514.6).
+7. **Nameplate policy (`hideNameplate?: true`)** — the fly-in/out plate stays the default on
+   every clip because the same render cross-posts to surfaces with NO poster stamp (video tab,
+   TikTok, Reels, Shorts). It is deliberately brief (~2s in, ~3.5s hold), never persistent —
+   persistent plates eat safe area and compete with captions; the corner logo + end card are
+   the persistent brand carriers. Set `hideNameplate: true` only for a LinkedIn-only render
+   where the feed already stamps the poster.
+
 **Render:** `node render-with-extract.mjs v2` (only the elevated versions) ·
 `node render-with-extract.mjs v1` (only the originals) · no filter = all.
 **A/B intent:** v1 vs v2 of the same moment is a clean treatment test — ship one, hold the
