@@ -11,7 +11,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 |-----|------|---------|---------|-------|---|
 | Sun Jul 12 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Jul 13 | 7:30 AM | Substack | Deep dive: "Pharmacy Network Design: The Cost Variable Most Employers Overlook" | PART 1 | [ ] |
-| Mon Jul 13 | 7:45 AM | LI Newsletter | Network Design Briefing | PART 2 | [ ] |
+| Mon Jul 13 | 7:45 AM | LI Newsletter | Network Design Briefing ⚠ paste live deep-dive URL into body + first comment; confirm ger-audit toolkit page renders before posting first comment | PART 2 | [ ] |
 | Mon Jul 13 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Mon | [ ] |
 | Mon Jul 13 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
 | Mon Jul 13 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
@@ -19,10 +19,11 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jul 13 | 7:00 PM | X | question [A4] | PART 4B · Mon | [ ] |
 | Mon Jul 13 | 8:30 PM | X | aphorism [C3] | PART 4B · Mon | [ ] |
 | Tue Jul 14 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Tue | [ ] |
-| Tue Jul 14 | 10:00 AM | LI Feed | Post 101 — Medicare GLP-1 "Bridge" Access Gauntlet, Decoded (messy infographic, news-pegged) | Post 101 | [ ] |
-| Tue Jul 14 | 10:05 AM | LI Feed | Post 101 first comment | Post 101 | [ ] |
+| Tue Jul 14 | 8:30 AM | LI Feed | Post 101 — Medicare GLP-1 "Bridge" Access Gauntlet, Decoded (messy infographic, news-pegged) | Post 101 | [ ] |
+| Tue Jul 14 | 8:35 AM | LI Feed | Post 101 first comment | Post 101 | [ ] |
 | Tue Jul 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Jul 14 | 1:30 PM | LI Company | Reshare of Post 101 | Post 101 Reshare | [ ] |
+| Tue Jul 14 | 2:30 PM | X | LONG-FORM X TRIAL — network-design decoder (swaps one thread this week) | PART 4B · Tue | [ ] |
 | Tue Jul 14 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Jul 14 | 7:00 PM | X | question [A5] | PART 4B · Tue | [ ] |
 | Tue Jul 14 | 8:30 PM | X | one question [B3] | PART 4B · Tue | [ ] |
@@ -35,15 +36,15 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 15 | 8:30 PM | X | aphorism [C4] | PART 4B · Wed | [ ] |
 | Thu Jul 16 | 7:30 AM | Substack | Field Note: "The 12-Cent Generic Your Plan Paid $9 For" | PART 1B | [ ] |
 | Thu Jul 16 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 16 | 10:00 AM | LI Feed | Post 103 — "A generic that cost the pharmacy 12 cents. Your plan paid $9." (generic-spread hidden-structure REVEAL, "12-Cent Pill in a $9 Museum Frame" conceptual single image) | Post 103 | [ ] |
-| Thu Jul 16 | 12:00 PM | X | Thu-visual amplifier (after 10:00 publish) `[VISUAL: 12-cent pill in a $9 museum frame]` | PART 4B · Thu | [ ] |
+| Thu Jul 16 | 8:30 AM | LI Feed | Post 103 — "A generic that cost the pharmacy 12 cents. Your plan paid $9." (generic-spread hidden-structure REVEAL, "12-Cent Pill in a $9 Museum Frame" conceptual single image) ⚠ paste live Field Note URL into first comment after 7:30 AM publish | Post 103 | [ ] |
+| Thu Jul 16 | 12:00 PM | X | Thu-visual amplifier (after 8:30 publish) `[VISUAL: 12-cent pill in a $9 museum frame]` | PART 4B · Thu | [ ] |
 | Thu Jul 16 | 1:30 PM | LI Company | Reshare of Post 103 | Post 103 Reshare | [ ] |
 | Thu Jul 16 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Jul 16 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Jul 16 | 7:00 PM | X | question [A7] | PART 4B · Thu | [ ] |
 | Thu Jul 16 | 8:30 PM | X | one question [B4] | PART 4B · Thu | [ ] |
 | Fri Jul 17 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Fri | [ ] |
-| Fri Jul 17 | 10:00 AM | LI Feed | Post 104 — "The money trail your claims report does not show" tease (teases W29) | Post 104 | [ ] |
+| Fri Jul 17 | 8:30 AM | LI Feed | Post 104 — "The money trail your claims report does not show" tease (teases W29) | Post 104 | [ ] |
 | Fri Jul 17 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Jul 17 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Jul 17 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
@@ -95,6 +96,8 @@ When we looked at why the routing was set up that way, the answer was familiar: 
 
 I share this story because network design is one of the most impactful cost levers in pharmacy benefits, and most employers have never evaluated it independently. The formulary gets attention. Rebates get attention. The network, meaning where prescriptions are physically filled and at what cost per channel, often runs on autopilot.
 
+Below is the five-channel cost comparison model we run with clients. By the end you will have the exact data request that surfaces where your plan's routing is costing the most, and a free worksheet that runs the comparison on your own claims data.
+
 **Five channels, five different cost profiles**
 
 Your pharmacy benefit operates across multiple dispensing channels, and the cost of the same drug varies meaningfully depending on which channel fills it.
@@ -136,6 +139,8 @@ Here is the model we use with clients. For each major drug category on your plan
 **Step 5: Model the annual impact of routing optimization.** For each drug where a different channel would produce a lower cost per script, multiply the per-script savings by the annual fill count. The total is your network design opportunity.
 
 This model is straightforward, but the data request can be challenging. PBMs do not always present channel-level cost data in a way that enables this comparison. If your PBM resists providing net cost by channel, that resistance tells you something about whose interests the current routing serves.
+
+The printable companion to this model is our free Channel Pricing Audit Worksheet, which runs the same net-cost-per-script comparison across retail, mail, and specialty on your own claims data: https://www.rxbs.org/toolkit/channel-pricing
 
 **Where the biggest opportunities typically live**
 
@@ -431,9 +436,9 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-The same generic costs your plan a different amount at every dispensing channel. Most plan sponsors review their PBM contract once; they review their network design never.
+The same drug carries a different net cost depending on which pharmacy channel fills it. Most plan sponsors review their PBM contract; almost none ever review their network design.
 
-This briefing breaks down the five channels (retail chain, independent retail, mail order, PBM-owned mail, PBM-owned specialty) and the cost gap each one hides from the report.
+This briefing breaks down the five dispensing channels (retail, mail order, specialty, white bagging, home infusion) and the cost gap each one hides inside the aggregate report.
 
 Network cost comparison model on Substack.
 
@@ -459,7 +464,7 @@ _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.or
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 101 - Tuesday 10:00 AM
+## Post 101 - Tuesday 8:30 AM
 ### Medicare GLP-1 "Bridge" Access Gauntlet, Decoded — Messy Infographic (news-pegged)
 
 **Format:** Messy Infographic (photoreal marked-up-form decoder). Single image, 1080 x 1350 px. Apply the mobile-feed legibility rule (`claude_design_prompts.md` → "Mobile-feed legibility (mandatory for every prompt)").
@@ -622,7 +627,7 @@ This week's Benefit Blind Spots deep dive on pharmacy network design is the oper
 
 ---
 
-## Post 103 - Thursday 10:00 AM
+## Post 103 - Thursday 8:30 AM
 
 _The Network Channel Comparison visual was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Network Channel Comparison). The live Thursday post is below._
 
@@ -730,7 +735,7 @@ Ginny Crisp shows how the average hides the spread, and how to pull it back out.
 
 ---
 
-## Post 104 - Friday 10:00 AM
+## Post 104 - Friday 8:30 AM
 ### "The money trail your claims report does not show" Tease Hook (Text) - TEASES WEEK 29
 
 **Format:** Text Post (Tease Hook)
@@ -903,7 +908,7 @@ When did you last open your PBM reporting portal? If the answer is "never," the 
   First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B3]:**
 ```
-Ask your PBM to define "pass-through" in writing, then ask which noun it attaches to: what the manufacturer paid, or what you received. The definition is the whole deal.
+Ask your PBM for net cost per script by dispensing channel on your top ten drugs, retail, mail, and specialty side by side. If that comparison has to be requested and then argued for, the default routing was never built around your cost.
 ```
 - **2:30 PM · [LONG-FORM X TRIAL — single long-form post; SWAPS one thread this week]** (decoder on Monday's pharmacy network design topic; Monday deep dive is already public, safe to riff):
 ```
@@ -958,7 +963,7 @@ Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsor
 ```
 - **5:00 PM · punchy:**
 ```
-PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+A generic costs the pharmacy pennies and your plan pays dollars for the same pill. The one number that is supposed to prove you got a fair deal, the generic effective rate, is a blended average built to keep those two facts from ever meeting on the page.
 ```
 - **7:00 PM · question post [A7]:**
 ```
@@ -982,7 +987,7 @@ About 80% of U.S. prescription claims run through three PBMs. That's not a marke
 ```
 - **5:00 PM · punchy:**
 ```
-Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
+Your PBM's rebate number is not fabricated. It is selected. Record rebate dollars and a rising net cost can sit on the same report, because the metric on the summary page was chosen to look strong, not to answer your question.
 ```
 - **7:00 PM · question post [A8]:**
 ```
@@ -1011,7 +1016,7 @@ White bagging: your PBM requires a specialty drug be shipped from its own pharma
 ```
 - **2:30 PM · specialty routing (Tier A):**
 ```
-Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. That's not a network. It's a funnel.
+Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. Ask to see the net cost per script the day it routed there.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · punchy:**
@@ -1059,7 +1064,7 @@ Could the person who signs your PBM invoice read the contract clause that define
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B5]:**
 ```
-Ask your PBM for the audit clause and read who picks the auditor, who picks the records, and who decides if the findings count. Three answers tell you if you have an audit right or a tour.
+Ask your PBM for the exclusion list on your generic effective rate guarantee, then lay it next to your top generic claims by volume. If your highest-fill generics sit in the carve-out, the guarantee covers a shrinking slice of what you actually spend.
 ```
 
 > **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone per the Q3 rotation: weekday AM = the named-program recipe (Tier B), midday = same-hour news-reaction HOLD with a quiet-day decoder backup, PM = the punchy pool, Sun PM = the one weekly origin. Weekend AM + the two weekend add-ons (10:00 AM + 2:30 PM) are Tier A Cuban-bait, front-loaded for the Cuban-active window and first-reply-routed to the Contract Language Library. Evening block (14 added posts): 7 question posts (7:00 PM, evergreen/schedulable) + aphorisms + one-questions + 1 origin-anchored (capped 1/week, Fri); newsjack/bridge (E/F) held for reactive bumps. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`. Pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
@@ -1073,12 +1078,12 @@ Ask your PBM for the audit clause and read who picks the auditor, who picks the 
 
 ## Content Schedule
 - [ ] Monday: Substack at 7:30 AM, Newsletter at 7:45 AM
-- [ ] Tuesday: Post 101 GLP-1 Bridge Messy Infographic at 10:00 AM + Comment + Reshare
-- [ ] Wednesday: Post 102 Text/Video at 10:00 AM
-- [ ] Thursday: Field Note "The 12-Cent Generic Your Plan Paid $9 For" at 7:30 AM, Post 103 generic-spread reveal ("12-Cent Pill in a $9 Museum Frame" conceptual image) at 10:00 AM + first comment + Reshare
-- [ ] Friday: Post 104 Tease at 10:00 AM
+- [ ] Tuesday: Post 101 GLP-1 Bridge Messy Infographic at 8:30 AM + Comment + Reshare
+- [ ] Wednesday: Post 102 Text/Video at 8:30 AM
+- [ ] Thursday: Field Note "The 12-Cent Generic Your Plan Paid $9 For" at 7:30 AM, Post 103 generic-spread reveal ("12-Cent Pill in a $9 Museum Frame" conceptual image) at 8:30 AM + first comment + Reshare
+- [ ] Friday: Post 104 Tease at 8:30 AM
 - [ ] Daily Substack Notes
-- [ ] Continue 10:00 AM time test tracking
+- [ ] Confirm 8:30 AM feed-post publish time (per CLAUDE.md convention, locked since W19)
 - [ ] If video posted Wednesday: compare video vs text performance
 
 ---
