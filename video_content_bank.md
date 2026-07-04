@@ -73,6 +73,39 @@ _Film-ready or near-ready. Each: hook, shape, ~45-90s beat sheet, proprietary an
 
 ---
 
+## Mode A shoot kit — how to film the scripted concepts (added Jul 4, 2026)
+
+_The capture spec for every talking-head video Ginny films. Remotion automates everything AFTER capture (captions, hook panel, cutaways, punch-ins, end card, covers, safe zones) — but light, framing, audio, location, and delivery are locked in the moment of recording and no render fixes them. Film every bank script to this. Total rig cost: under ~$50, most of it optional._
+
+**The rig (free → very cheap, in order of impact):**
+1. **Phone, REAR camera, 4K/30** (the front/selfie camera is meaningfully worse; use the screen-away side and do a 3s test for framing). Lock exposure/focus on the face (tap-and-hold on iPhone).
+2. **Light = a window, facing Ginny** (free, and better than most cheap LED panels). Never a window or bright lamp BEHIND her. Mid-morning indirect light is the most flattering and repeatable. Optional ~$20 clip light for gray days.
+3. **Audio is the cheapest big upgrade:** quiet room (HVAC off, door closed, soft furnishings), phone within ~3-4 feet. Best ~$20 spent on the whole rig: a **wired lavalier mic** clipped at the collar. Viewers forgive average video; they swipe on bad audio.
+4. **Stability: a small tripod (~$15-20) at EYE level** — or the phone propped on a shelf/books. Never handheld, never looking down at a desk-propped phone (the up-the-nose angle reads amateur and off-brand).
+
+**Framing (built for the Remotion template — this is what makes the automation land):**
+- **Shoot native 9:16 (vertical).** Eyes on the upper-third line, centered horizontally.
+- **Leave margin:** a hand's width of headroom and shoulders inside the middle ~70% of frame. The v2 punch-ins zoom ~7-13% and the safe zones eat the edges, so anything tight to an edge gets cropped by the treatment.
+- **Distance: chest-up.** Close enough for connection, wide enough that the hook panel (top band) and captions (center band) never sit on her face.
+- **Look at the LENS, not the screen** — especially the hook and the CTE line. Eye contact is the retention lever no edit can add.
+
+**Location + wardrobe (the on-brand register):**
+- **Locations that read clinical-credibility:** her office/desk, a bookshelf, a clean conference room — a real workplace with a little depth behind her (sit ~3+ feet off the back wall). **Avoid** car videos, walking selfies, kitchen/bedroom backdrops: they read lifestyle-influencer, the opposite of the PBS register (same reason Krona One was retired).
+- **One recurring location is a brand asset.** The same desk/bookshelf every week becomes visual recognition, like the palette.
+- **Wardrobe:** solid mid-tone colors that contrast the background; avoid fine stripes/checks (moiré on phone sensors), pure white (blows out by a window), and large-logo apparel. No need to avoid blue, just not a wall of it against the brand-blue overlays.
+
+**Delivery (the Humanize Check, spoken):**
+- **Memorize the HOOK; speak the BEATS.** Never read the script verbatim on camera — teleprompter-read delivery is the video version of AI-slop text. Print the 5 beats, glance between takes, talk like she's answering a client.
+- **Record the hook twice, once per variant** (each concept carries two hook variants; both takes cost 20 seconds and give the A/B for free).
+- **Land the term slowly** ("intercompany eliminations," "spread pricing") — the karaoke pill will be on that word.
+- **Pace to the 15-25s zone:** a ~60-70 word beat sheet at conversational pace ≈ 25s. If a take runs past 30s, cut a beat, don't talk faster.
+- **Leave 3-5s of clean, still silence before AND after** each take (the render needs the runway for the audio tail and the end card; it also gives clean punch-in anchors).
+- **Do 2-3 full takes and stop.** Take 2 is usually the keeper; take 6 is always flat.
+
+**What NOT to do at capture (Remotion adds all of this):** no burned-in text or filters, no in-app captions, no music, no logo watermark, no intro/outro said to camera ("hey everyone" openers are dead air in the first 3 seconds — start ON the hook line). Transfer the file by **AirDrop/cable, never text or email** (carrier compression wrecks it), drop it in the render project, and the template does the rest.
+
+---
+
 ## Recurring format — "Ask Ginny" (DM → video reply) [Mode A, two-way]
 
 _The two-way "place" to answer decision-makers' questions, low-lift (no live event). Added Jun 23, 2026. This is both an engagement play AND a video-bank feeder, and the DM'd questions validate/expand `buyer_anxiety_map.md`._
@@ -202,6 +235,9 @@ _Every 9:16 clip (scripted talking-head + repurposed) is built to this. Root cau
 - [ ] **Preview on an actual phone in the LinkedIn feed AND the expanded view before finalizing** (the only reliable safe-zone check).
 
 ## Changelog
+### 2026-07-04, third pass (Mode A shoot kit — the capture spec)
+- Added the **"Mode A shoot kit"** section: the free/cheap filming spec for every scripted talking-head (rear-camera 4K 9:16, eye-level tripod, window light, ~$20 wired lav as the best upgrade, chest-up framing with punch-in margin, recurring clinical-credibility location, beats-spoken-not-read delivery, both hook variants recorded, clean lead-in/out, nothing burned in). Rationale: the bank had scripts but no capture guidance, and Remotion automates everything AFTER capture — light/audio/framing/delivery are unfixable at render. Wired into `video_production_runbook.md` as **Phase 1b — Film** with a re-shoot gate (bad capture gets re-shot, never "fixed in the edit").
+
 ### 2026-07-04, second pass (hook & retention research built into the render + the rules)
 - Ran the Jul 2026 hook/retention research pass (multi-source, B2B-vetted) and codified it as the **"Hook & retention playbook"** section above, refreshed monthly by `/video-research` (that command now has a required hook-and-retention refresh step). Most findings CONFIRMED what PBS already runs (one-promise hook = the reveal formula, karaoke micro-interrupts, 70%-completion lever, no logo intros).
 - **Three new renderable retention tools in `Clip.tsx`:** the `midHook` mid-clip re-engagement chip (~40-65%, clips >25s; worked example clip1v2 "Watch where the $20 goes"), the **selective** `coldOpen` teaser (play a late-landing money line as the first ~2s, flash-cut back to the start; worked example clip5v2 "head in the sand"; NOT for clips that already open strong), and `hideNameplate` (nameplate stays default-on brief fly-in/out for cross-post attribution; off-switch for LinkedIn-only renders). Hardwired into `/clip-podcast` (per-clip retention spec), the runbook Phase 1 gate, and `/video-qc` (hook-motion check + retention-prop checks).
