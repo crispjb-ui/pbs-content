@@ -7,15 +7,20 @@
 import { execSync } from "node:child_process";
 import { readFileSync, writeFileSync, mkdirSync, rmSync, existsSync, copyFileSync } from "node:fs";
 
-// Usage:  node render-with-extract.mjs [manifest.json] [clipId]
+// Usage:  node render-with-extract.mjs [manifest.json] [clipId|v1|v2]
 //   - render one clip:  node render-with-extract.mjs clip4   (default manifest)
 //   - render all:       node render-with-extract.mjs
+//   - batch filters:    node render-with-extract.mjs v1   → only original clips
+//                       node render-with-extract.mjs v2   → only the elevated *v2 versions
 const arg2 = process.argv[2];
 const manifestPath = (arg2 && arg2.endsWith(".json")) ? arg2 : "../honest-hr-shrm_2026-06-09_clips.json";
 const clipFilter = (arg2 && !arg2.endsWith(".json")) ? arg2 : process.argv[3];
 const m = JSON.parse(readFileSync(manifestPath, "utf8"));
 const fps = m.fps || 30;
-const clips = clipFilter ? m.clips.filter(c => c.id === clipFilter || c.slug === clipFilter) : m.clips;
+const clips = clipFilter === "v2" ? m.clips.filter(c => c.id.endsWith("v2"))
+  : clipFilter === "v1" ? m.clips.filter(c => !c.id.endsWith("v2"))
+  : clipFilter ? m.clips.filter(c => c.id === clipFilter || c.slug === clipFilter)
+  : m.clips;
 if (clipFilter && !clips.length) { console.error(`\n✗ No clip matching "${clipFilter}".\n`); process.exit(1); }
 if (clipFilter) console.log(`(rendering only: ${clips.map(c => c.id).join(", ")})`);
 
@@ -28,8 +33,9 @@ mkdirSync("out", { recursive: true });
 mkdirSync(".tmp", { recursive: true });
 
 // Step 1: Pre-extract each clip's segment with ffmpeg (fast keyframe seek + re-encode short segment)
+// (only the clips being rendered — a filtered run shouldn't extract the whole manifest)
 console.log("=== STEP 1: Extracting clip segments with ffmpeg ===");
-for (const clip of m.clips) {
+for (const clip of clips) {
   const pad = 2; // seconds of padding before/after for safety
   const ss = Math.max(0, clip.inSec - pad);
   const duration = (clip.outSec - clip.inSec) + pad * 2;
@@ -78,6 +84,11 @@ for (const f of FORMATS) {
       audioFade: clip.audioFade ? { startSec: clip.audioFade.startSec - ss, endSec: clip.audioFade.endSec - ss } : undefined,
       fitWindows: (clip.fitWindows || []).map(w => ({ ...w, startSec: w.startSec - ss, endSec: w.endSec - ss })),
     };
+    // Optional v2 music bed: never let a missing audio file break a render.
+    if (adjustedClip.music && !existsSync(`public/${adjustedClip.music.src}`)) {
+      console.log(`  (music "${adjustedClip.music.src}" not in public/ — rendering without the bed)`);
+      delete adjustedClip.music;
+    }
 
     // The segment file is in .tmp/ but Remotion serves from public/,
     // so we copy (or symlink) it there temporarily.
@@ -114,4 +125,4 @@ for (const clip of m.clips) {
 
 rmSync(".tmp", { recursive: true, force: true });
 const secs = Math.round((Date.now() - t0) / 1000);
-console.log(`\n✓ Done in ${secs}s. ${m.clips.length} clips × ${FORMATS.length} formats → ./out`);
+console.log(`\n✓ Done in ${secs}s. ${clips.length} clips × ${FORMATS.length} formats → ./out`);

@@ -3,6 +3,7 @@ import { Composition, Still } from "remotion";
 import { Clip, clipDefaultProps } from "./Clip";
 import { DesignedCover } from "./DesignedCover";
 import { DesignedCoverClip7 } from "./DesignedCoverClip7";
+import { DesignedCoverAny, coverAnyDefaultProps } from "./DesignedCoverAny";
 
 const FPS = 30;
 
@@ -31,6 +32,10 @@ export const RemotionRoot: React.FC = () => {
       <Still id="DesignedCover4x5" component={DesignedCover} width={1080} height={1350} />
       {/* clip7 designed cover — "Demand these 3 numbers" */}
       <Still id="Clip7Cover4x5" component={DesignedCoverClip7} width={1080} height={1350} />
+      {/* Parameterized designed cover — clip7-quality thumbnail for ANY clip from manifest props
+          (render-designed-covers.mjs builds the props per clip; no bespoke cover files needed). */}
+      <Still id="DesignedCoverAny4x5" component={DesignedCoverAny} width={1080} height={1350} defaultProps={coverAnyDefaultProps} />
+      <Still id="DesignedCoverAny9x16" component={DesignedCoverAny} width={1080} height={1920} defaultProps={coverAnyDefaultProps} />
     </>
   );
 };

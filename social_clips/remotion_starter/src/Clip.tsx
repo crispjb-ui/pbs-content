@@ -1,6 +1,7 @@
 import React from "react";
 import {
   AbsoluteFill,
+  Audio,
   OffthreadVideo,
   staticFile,
   useCurrentFrame,
@@ -32,6 +33,9 @@ const CORRECTIONS: Record<string, string> = {
   "passive": "pass-through", "blinds.": "blind.",
 };
 const correctWord = (w: string) => CORRECTIONS[w] ?? w;
+
+// Normalize a spoken word for emphasis matching ("rebates," → "rebates", "GLP-1s" keeps its hyphen).
+const normWord = (w: string) => w.toLowerCase().replace(/[^a-z0-9$%\-]/g, "");
 
 // Highlight dollar amounts in accent blue within hook text
 const highlightDollars = (text: string): React.ReactNode => {
@@ -114,6 +118,12 @@ export type ClipData = {
   images?: ImageCut[];
   words?: Word[];
   captions: Caption[];
+  // ── v2 "elevate" treatment (added Jul 2026). ALL OPT-IN: a clip without these renders
+  // pixel-identical to the verified v1 output. Ship v2s as SECOND versions (id "<id>v2",
+  // slug "<slug>-v2"), never by editing a shipped v1 entry. ──
+  elevate?: boolean; // punch-in editing rhythm + emphasis-word tint + animated end card
+  emphasisWords?: string[]; // payload nouns tinted Accent in the karaoke track even when not the active word
+  music?: { src: string; volume?: number }; // optional low audio bed under the voice (file in public/); render scripts strip it when the file is absent
 };
 export type ClipProps = { sourceVideo: string; fps: number; clip: ClipData; coverMode?: boolean };
 
@@ -474,6 +484,21 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // ── Timing zones ──
   const inEndCard = frame >= totalFrames - endFrames;
   const zoom = interpolate(frame, [0, totalFrames - endFrames], [1.0, 1.06], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+
+  // ── v2 punch-in editing rhythm (clip.elevate only) ──
+  // Alternates the crop level on each caption-phrase boundary with a soft spring, the standard
+  // talking-head retention edit (visual "cut" energy without actual cuts). Combined with the slow
+  // base zoom the max crop is ~1.13, still inside the safe-area margins. v1 clips: punchScale = 1.
+  const emphasisSet = new Set((clip.emphasisWords ?? []).map(normWord));
+  const capIdx = active ? clip.captions.indexOf(active) : -1;
+  let punchScale = 1;
+  if (clip.elevate && capIdx >= 0 && active) {
+    const capStartFrame = Math.max(0, Math.round((active.startSec - CAPTION_LEAD - clip.inSec) * fps));
+    const p = spring({ frame: Math.max(0, frame - capStartFrame), fps, config: { damping: 16, stiffness: 80 } });
+    const target = capIdx % 2 === 0 ? 1.0 : 1.065;
+    const prev = capIdx % 2 === 0 ? 1.065 : 1.0;
+    punchScale = interpolate(p, [0, 1], [prev, target]);
+  }
   // Split-screen "zoom out": letterbox (contain) the whole clip (clip.fit) or specific ranges
   // (clip.fitWindows, absolute source secs) so two side-by-side faces aren't cropped by cover.
   const inFitWindow = (clip.fitWindows ?? []).some((w) => tSource >= w.startSec && tSource <= w.endSec);
@@ -547,8 +572,26 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
         src={staticFile(sourceVideo)}
         startFrom={Math.round(clip.inSec * fps)}
         volume={clip.audioFade ? (f) => interpolate(f, [fadeStartFrame, fadeEndFrame], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" }) : undefined}
-        style={{ width, height, objectFit: containFit ? "contain" : "cover", transform: containFit ? undefined : `scale(${zoom})`, opacity: inEndCard ? 0 : 1 }}
+        style={{ width, height, objectFit: containFit ? "contain" : "cover", transform: containFit ? undefined : `scale(${zoom * punchScale})`, opacity: inEndCard ? 0 : 1 }}
       />
+
+      {/* ── Optional music bed (v2): quiet under the voice, fades in, swells slightly under the
+          end card, hard-fades at the tail. Render scripts strip clip.music when the file is
+          missing from public/, so a missing asset can never break a render. ── */}
+      {clip.music ? (
+        <Audio
+          src={staticFile(clip.music.src)}
+          volume={(f) => {
+            const base = clip.music!.volume ?? 0.08;
+            const swellStart = totalFrames - endFrames;
+            const level = f < swellStart
+              ? interpolate(f, [0, Math.round(0.6 * fps)], [0, base], { extrapolateLeft: "clamp", extrapolateRight: "clamp" })
+              : interpolate(f, [swellStart, swellStart + 10], [base, Math.min(1, base * 2)], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+            const tailFade = interpolate(f, [totalFrames - 8, totalFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
+            return level * tailFade;
+          }}
+        />
+      ) : null}
 
       {/* ── Footage overlays (when not in end card) ── */}
       {!inEndCard && (
@@ -704,6 +747,9 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                 {phraseWords && phraseWords.length
                   ? phraseWords.map((w, i) => {
                       const on = tCap >= w.startSec && tCap <= w.endSec;
+                      // v2 emphasis: payload nouns stay Accent-tinted even when not the active word,
+                      // so the clip's key terms read at a glance in a muted feed.
+                      const emph = !on && emphasisSet.size > 0 && emphasisSet.has(normWord(w.text));
                       return (
                         <span key={i} style={{
                           display: "inline-block",
@@ -720,7 +766,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
                                 padding: "2px 8px",
                               }
                             : {
-                                color: WHITE,
+                                color: emph ? ACCENT : WHITE,
                                 padding: "2px 8px",
                                 textShadow: "2px 2px 0 rgba(0,0,0,0.8), -1px -1px 0 rgba(0,0,0,0.8), 1px -1px 0 rgba(0,0,0,0.8), -1px 1px 0 rgba(0,0,0,0.8), 0 3px 6px rgba(0,0,0,0.5)",
                               }),
@@ -739,7 +785,7 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
       )}
 
       {/* ── END CARD (larger logo, single CTA, no company text) ── */}
-      {inEndCard && (
+      {inEndCard && !clip.elevate && (
         <AbsoluteFill style={{ backgroundColor: PRIMARY, opacity: endFadeIn, zIndex: 50 }}>
           <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: "0 50px" }}>
             <Img src={staticFile("pbs-logo-white.png")} style={{ height: 160, width: "auto", marginBottom: height * 0.06 }} />
@@ -748,6 +794,33 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
           </div>
         </AbsoluteFill>
       )}
+
+      {/* ── END CARD v2 (clip.elevate): staged spring entrances + the CTA as a bouncing accent
+          pill. Same content and brand system as v1, more finish. ── */}
+      {inEndCard && clip.elevate && (() => {
+        const logoIn = spring({ frame: endLocalFrame, fps, config: { damping: 12, stiffness: 140 } });
+        const tagIn = spring({ frame: Math.max(0, endLocalFrame - 6), fps, config: { damping: 15, stiffness: 110 } });
+        const ctaIn = spring({ frame: Math.max(0, endLocalFrame - 12), fps, config: { damping: 11, stiffness: 160, mass: 0.7 } });
+        // Gentle attention bounce once the pill has landed (small, slow — a nudge, not a wobble).
+        const bounce = endLocalFrame > 16 ? Math.sin((endLocalFrame - 16) / 5) * 4 : 0;
+        return (
+          <AbsoluteFill style={{ backgroundColor: PRIMARY, opacity: endFadeIn, zIndex: 50 }}>
+            <div style={{ display: "flex", flexDirection: "column", alignItems: "center", justifyContent: "center", height: "100%", padding: "0 50px" }}>
+              <Img src={staticFile("pbs-logo-white.png")} style={{ height: 160, width: "auto", marginBottom: height * 0.06, transform: `scale(${interpolate(logoIn, [0, 1], [0.8, 1])})`, opacity: logoIn }} />
+              <div style={{ fontFamily: SANS, fontSize: 32, fontWeight: 600, color: WHITE, textAlign: "center", lineHeight: 1.3, marginBottom: 30, opacity: tagIn, transform: `translateY(${(1 - tagIn) * 18}px)` }}>{tagline}</div>
+              {ctaLine ? (
+                <div style={{
+                  fontFamily: MONO, fontSize: 26, fontWeight: 700, color: PRIMARY, textAlign: "center", lineHeight: 1.3,
+                  background: ACCENT, borderRadius: 999, padding: "14px 34px",
+                  boxShadow: `0 0 28px rgba(167,224,250,0.45), 0 10px 30px rgba(0,0,0,0.35)`,
+                  opacity: ctaIn,
+                  transform: `scale(${interpolate(ctaIn, [0, 1], [0.7, 1])}) translateY(${bounce}px)`,
+                }}>{ctaLine}</div>
+              ) : null}
+            </div>
+          </AbsoluteFill>
+        );
+      })()}
     </AbsoluteFill>
   );
 };

@@ -6,16 +6,34 @@ _Created Jun 23, 2026. The always-on supply of video concepts the build pulls fr
 
 **Rules every concept inherits (from CLAUDE.md):** hook in the first 3 seconds; captions burned in (autoplay is muted); 9:16 native upload as a file (never a YouTube link); link in the first comment; one proprietary anchor; a proven shape (shocking hidden-structure fact, decoder, named-adversary/dollar-comparison, origin). Where a researched best practice conflicts with PBS's measured data (`linkedin_performance_tracker.md`), the measured data wins.
 
+**Process of record: `video_production_runbook.md`** (added Jul 4, 2026) — the six-phase gated pipeline every video runs through (source → plan → manifest → render → **QC gate** (`qc-frames.mjs` + `/video-qc` + phone preview) → publish → measure). No clip posts without passing Phase 4; no reach test counts on an unverified render.
+
+## The reveal formula, video edition (added Jul 4, 2026)
+
+The static shocking-structural-reveal is the #1 measured organic engine (5.5-17.8K, 7-element formula in `shocking_fact_bank.md` → "Why it works"). Video scripts translate the seven elements into beats, plus the completion lever video adds:
+
+1. **Genuinely-unknown structural fact** → the entire clip is ONE fact (one idea per clip; a second fact is a second video).
+2. **Promise-then-loophole hook** → spoken AND on-screen in the first 3 seconds ("You're promised X." / beat / "Here's the pocket that voids it.").
+3. **Countable payload** → said fast mid-clip and mirrored by a cutaway (stat rows / dot grid / equation bar), not just spoken.
+4. **Named actor + victim** → "your PBM… your plan" phrasing, present tense.
+5. **Proprietary anchor** → one line, ~2/3 through ("hundreds of contracts a year…").
+6. **The visual dramatizes the thesis** → in video this is the CUTAWAY (the equation split, the dot grid, the slam stat) + the designed cover; the cover previews the payload so thumbnail → frame 0 → cutaway reads as one story.
+7. **Plan-sponsor topic** → contract/money/fiduciary so out-of-network expansion stays on-buyer.
+**Video-only lever — completion:** target the **15-25s zone** for the short cut; payoff early, no wind-up; end card ≤2.5s. ~70% completion is the recommend threshold; the shipped 32s clip held ~14s (~44%) while the 18s 4:5 held ~94%. Shorter and value-dense wins.
+
 ---
 
 ## Active shoot-list (next to film — top of the queue)
 
 _The 3-5 highest-priority ready-to-film scripted concepts. `/build-week` pulls the top one for the Wednesday slot; `/video-research` re-ranks monthly on freshness + the working/weak read._
 
+_Re-ranked Jul 4, 2026: reveal-shaped scripts lead (the measured organic engine, 5.5-17.8K static; vocabulary decoders ran 595-789 in the same summer weeks), and every script targets the **15-25s completion zone** for the short cut (the shipped 32s 9:16 held viewers only ~14s)._
+
 | # | Hook (first 3s) | Shape | Status | Platforms |
 |---|------------------|-------|--------|-----------|
-| V1 | "Your PBM passes through 100% of rebates. The middleman it owns does not." | Shocking hidden-structure (offshore rebate aggregator/GPO) | scripted, ready | LI 9:16 (long ~75s) + Shorts/TikTok/Reels (short ~25s) |
-| V2 | "Five fees on your PBM invoice. The PBM wrote all five definitions." | Decoder (admin-fee translation) | scripted, ready | LI 9:16 + short cuts |
+| V1 | "Your PBM passes through 100% of rebates. The middleman it owns does not." | Shocking hidden-structure (offshore rebate aggregator/GPO) | scripted, ready | LI 9:16 (long ~60s) + short ~22s |
+| V4 | "Your insurer must spend 80 cents of every dollar on care. Here's the pocket the rule can't see." | Shocking hidden-structure (MLR / intercompany eliminations) | scripted, ready | LI 9:16 + short ~25s |
+| V2 | "Your admin fee looks tiny. It's the smallest of the five fees you're actually paying." | Reveal-reshaped decoder (admin-fee stack) | scripted, ready | LI 9:16 + short ~22s |
 | V3 | "I didn't set out to read contracts for a living." | Origin (pharmacist-to-auditor) | draft script | LI 9:16 + Shorts |
 
 ---
@@ -29,14 +47,29 @@ _Film-ready or near-ready. Each: hook, shape, ~45-90s beat sheet, proprietary an
 - **Beats:** (1) the promise: 100% pass-through. (2) the reveal: a rebate aggregator/GPO (the real ones are Ascent, Emisar, Zinc) takes its cut *before* "pass-through" begins. (3) the math: manufacturer pays $1,000, the aggregator skims first, you get 100% of what's left. (4) anchor: "We review hundreds of PBM contracts a year, and this layer is in most of them." (5) CTE: "Ask your PBM which rebate aggregator it uses, and who owns it."
 - **Shape:** shocking hidden-structure reveal (the canonical ~18K breakout shape). **Anchor:** offshore-GPO names + hundreds-of-contracts. **Status:** ready. Source: `shocking_fact_bank.md` / X recipe bank entry 20.
 
-### V2 — Admin-fee decoder
-- **Hook:** "Five fees on your monthly PBM invoice. Five definitions the PBM wrote itself."
-- **Beats:** name the five line items → each has a PBM-authored definition → "most plan sponsors pay the total without translating a single line" → anchor: "the same five labels show up on nearly every contract we review" → CTE: "Pull last month's invoice and ask for the contract section behind each fee."
-- **Shape:** decoder (named-actor vocabulary). **Status:** ready. (Note: vocabulary decoders run ~4-5K in summer vs ~15-18K for hidden-structure reveals — pair this one with V1 as the higher-ceiling lead.)
+### V2 — Admin-fee stack (reveal-reshaped, Jul 4, 2026 — was a vocabulary decoder)
+- **Hook (0-3s):** "Your admin fee looks tiny. It's the smallest of the five fees you're actually paying."
+- **Beats:** (1) the promise: "$2 per claim, practically free." (2) the loophole: four more fee lines the PBM defined itself sit behind it — and the definitions decide what counts. (3) countable payload: name the five labels fast. (4) anchor: "the same five labels show up under different names on nearly every contract we review." (5) CTE: "Pull last month's invoice and ask for the contract section behind each line."
+- **Shape:** reveal (promise-then-loophole on the "cheap admin fee" belief). **Status:** ready. _Reshaped because pure vocabulary decoders measured 595-789 in summer vs 5.5-17.8K for reveals; the fee content is unchanged, the frame is now the gap between the advertised fee and the fee stack._
 
 ### V3 — Origin: pharmacist to auditor
 - **Hook:** "I didn't set out to read contracts for a living. I set out to help people afford their prescriptions."
 - **Beats:** the pharmacy-counter moment → realizing the price was set in a contract nobody at the counter ever saw → "so I learned to read the contract" → anchor: a specific early career scene → CTE soft (no link; origin builds the person-entity). **Shape:** origin. **Status:** draft script. (Cap: origin underperforms on X; strong on LinkedIn/Reels. 1/month max.)
+
+### V4 — The pocket the 80% rule can't see (MLR / intercompany eliminations) _(added Jul 4, 2026)_
+- **Hook (0-3s):** "Your insurer has to spend 80 cents of every premium dollar on care. Here's the pocket that rule can't see."
+- **Beats (short ~25s):** (1) the promise: the Medical Loss Ratio rule, 80-85 cents on care or refund it. (2) the loophole: the insurer's PBM overpays the pharmacy it owns and keeps rebates in the parent, so profit moves OUT of the regulated entity into a sibling company. (3) the term, said slowly: "intercompany eliminations." (4) anchor: "we see where this lands in the contract definitions, hundreds of them a year." (5) CTE: "Ask what your plan's net cost looks like after the affiliates get paid."
+- **Shape:** shocking hidden-structure reveal. **Source:** `shocking_fact_bank.md` #9 (re-verify at post time). **Status:** scripted, ready. **Scheduling guardrail:** a different mechanism from that week's Thursday reveal (never two reveals on the same mechanism in one week); keep ~6 weeks clear of the offshore-aggregator reveal (same money-hiding family).
+
+### V5 — Same drug, twice the price, their pharmacy (owned-pharmacy steering) _(added Jul 4, 2026)_
+- **Hook (0-3s):** "Your PBM pays its own pharmacy up to twice what it pays the independent down the street. Same drug."
+- **Beats (short ~22s):** (1) promise: "the network negotiates the best price." (2) loophole: FTC found big-3 PBMs reimbursed their OWN pharmacies up to 100% more for identical specialty generics, and the $1,000+ markups routed disproportionately to the pharmacies they own. (3) named actor + victim: the PBM sets the price, your plan pays it. (4) anchor: "we run the claim-level comparison as standard audit work." (5) CTE: "Ask what share of your specialty claims filled at a PBM-owned pharmacy."
+- **Shape:** reveal + dollar comparison. **Source:** `shocking_fact_bank.md` #3 (FTC Second Interim Report). **Status:** scripted, ready. **Scheduling guardrail:** W30's Thursday reveal uses the same steering mechanism — run this video at least 2-3 weeks AFTER W30 as reinforcement, or swap facts if the video slot falls in the same week.
+
+### V6 — The word that erases the copay cap (copay maximizer) _(added Jul 4, 2026)_
+- **Hook (0-3s):** "One word in your plan can erase an employee's out-of-pocket cap: 'non-essential.'"
+- **Beats (short ~25s):** (1) promise: the ACA caps what a member pays out of pocket. (2) loophole: a maximizer vendor reclassifies the specialty drug as a "non-essential health benefit," the cap stops applying, and the vendor drains the manufacturer's full-year copay assistance ($1,200/script became $4,300 on Stelara in the J&J suit). (3) scale: ~40% of commercially insured members sat in maximizer plans in 2025. (4) anchor: "we find these bolted onto plans whose sponsors never approved the reclassification." (5) CTE: "Ask whether your plan runs an accumulator or maximizer, and who kept the card value."
+- **Shape:** reveal (member-impact angle broadens reach beyond finance). **Source:** `shocking_fact_bank.md` #5. **Status:** scripted, ready. **Scheduling guardrail:** W29's Thursday reveal is the copay-maximizer fact — same-mechanism rule applies (run 2-3 weeks after W29, or lead with it earlier and give W29 a different fact via the normal build).
 
 ---
 
@@ -91,7 +124,7 @@ _Once a video ships, log its result here (impressions, watch-through, saves, fol
 | Date | Concept | Platform | Impr | Watch-through | Saves | Followers | Notes |
 |------|---------|----------|------|---------------|-------|-----------|-------|
 | Jun 2026 | "H1 numbers" Wednesday video | LinkedIn (4:5) | 758 impr / 258 video views | **~94% (17s avg / 18s clip)** | 1 | 0 | **First video read. Excellent completion**, but 4:5 = MAIN-FEED ONLY (pre-9:16). Completion proven; the 9:16 video-tab / non-follower reach lift is STILL untested. **Next: ship a clean 9:16 to test reach.** |
-| Jun/Jul 2026 | "Spread pricing / they keep the difference" 9:16 talking-head | LinkedIn (9:16, feed + video tab) | _reach pending_ | _pending_ | _pending_ | _pending_ | **First clean 9:16 (the reach test).** LIVE; capture video-tab reach + non-follower % after 1-2 days. **Render pass (in-feed) found:** captions too small and clipping under the right-side reaction rail; top hook banner cropped at the top edge; the time-lapse element lost at the top; no burned-in logo or end card. Edit notes drove the new **9:16 in-feed render spec** below; re-edit against it, then this row logs the reach read. |
+| Jul 1, 2026 (W26 Wed) | "Spread pricing / they keep the difference" 9:16 talking-head | LinkedIn (9:16, feed + video tab) | 686 impr / 213 video views | **14s avg watch** (~44% of the ~32s clip — well below the 70% recommend lever and the 4:5's ~94%) | 1 | 0 | **Reach test = MODEST and COMPROMISED: 72% in-network (did NOT unlock video-tab reach); the same week's static reveal out-reached it 8:1 (5,502).** The render carried the six 9:16 dead-zone defects (small clipped captions, cropped hook) — fixed in `Clip.tsx` Jul 1 — so this does NOT count as the clean 9:16 reach read. **Re-run the test on a Phase-4-clean render** (`video_production_runbook.md`); also note 32s was the batch's longest clip — prefer the 21-27s clips for the retest. Full read: `linkedin_performance_tracker.md` W26. |
 
 ---
 
@@ -145,6 +178,12 @@ _Every 9:16 clip (scripted talking-head + repurposed) is built to this. Root cau
 - [ ] **Preview on an actual phone in the LinkedIn feed AND the expanded view before finalizing** (the only reliable safe-zone check).
 
 ## Changelog
+### 2026-07-04 (process audit + bank optimization + Remotion v2 elevation)
+- **Full process audit (SHRM batch as the test case) → `video_production_runbook.md`** is now the process of record: six phases with gates, the failure→gate table from the SHRM history, the spec map (one canonical home per concern), and the automation map. The load-bearing addition is **Phase 4, the QC gate**: `social_clips/remotion_starter/qc-frames.mjs` (dead-zone-masked frames from every rendered MP4) + the new **`/video-qc`** command (Claude visually verifies the frames → PASS/FAIL) + phone preview. Rationale: the first live 9:16 shipped with six dead-zone defects and burned the reach test; video now has the same build-correct-first ship gate toolkits have (`_audit_pdfs.py`).
+- **Shipped log synced:** the W26 9:16 row now carries the measured result (686 impr / 213 views / 14s avg ≈ 44% completion / 72% in-network — compromised by the render defects; the clean 9:16 reach test is still open and must run on a Phase-4-clean render).
+- **Bank optimized for reach:** shoot-list re-ranked reveal-first; V2 reshaped from vocabulary decoder to promise-then-loophole reveal (decoders measured 595-789 vs reveals 5.5-17.8K in the same summer weeks); added **"The reveal formula, video edition"** (the 7 elements as video beats + the 15-25s completion lever); added three new reveal-built scripts from the fact bank: **V4 MLR/intercompany eliminations (#9), V5 owned-pharmacy steering (#3), V6 copay-maximizer "non-essential" (#5)**, each with a same-mechanism scheduling guardrail against the Q3 Thursday reveals.
+- **Remotion elevated, as second versions (per Ginny, Jul 4: never overwrite current clips):** `Clip.tsx` gained an opt-in v2 treatment — punch-in editing rhythm on caption boundaries, Accent-tinted emphasis words in the karaoke track, animated end card (staged springs + bouncing CTA pill), optional low music bed (auto-skipped if no file). The SHRM manifest now carries **7 `*v2` entries** alongside the untouched v1s (`node render-with-extract.mjs v2`). Also built the **parameterized designed cover** (`DesignedCoverAny.tsx` + `render-designed-covers.mjs`): clip7-quality thumbnails for every clip, both aspects, generated from each clip's own cutaway payload — closes the CLIP_RENDER_SPEC "next elevation step." v1 vs v2 of the same moment is a clean A/B; log the winner here.
+
 ### 2026-07-01 (first LIVE 9:16 in-feed → dead-zone constants fixed in code)
 - The first 9:16 published to the LinkedIn feed; the real render (screenshots reviewed with Ginny) confirmed the Jun 27 prose spec was right but the **Remotion component was still positioning chrome for the 4:5 case**. Six 9:16-only defects visible in the live feed: progress bar invisible (flush top), logo top-left invisible (under status bar), hook banner clipped at the top edge, "As seen on" badge invisible (behind the clock/battery), burned-in nameplate colliding with LinkedIn's OWN poster name stamp, and captions too small / too many words per line. Fixed all six in `social_clips/remotion_starter/src/Clip.tsx` (as-built values in the render-spec block above). Updated `CLIP_RENDER_SPEC.md` (new "First live 9:16 in-feed review" section with the before/after table) and `remotion_pbs_caption_template_spec.md`. Source: live LinkedIn render review with Ginny (screenshots).
 
