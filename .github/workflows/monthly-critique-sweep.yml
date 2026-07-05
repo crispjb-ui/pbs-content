@@ -9,7 +9,9 @@ name: Monthly Deep-Critique Sweep
 
 on:
   schedule:
-    - cron: '0 14 8-14 * 6'  # Saturdays that fall on the 8th-14th = the 2nd Saturday
+    # NOTE: cron DOM+DOW is OR, not AND (this misfired on the 1st Saturday,
+    # Jul 4, 2026). Day-range only here; the guard step enforces "2nd Saturday."
+    - cron: '0 14 8-14 * *'
   workflow_dispatch: {}
 
 permissions:
@@ -22,10 +24,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 50
     steps:
+      - name: Guard, Saturday only
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          dow=$(TZ=America/New_York date +%u)  # 6 = Saturday
+          if [ "$dow" = "6" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not Saturday (dow=$dow); skipping."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Checkout repo
+        if: steps.guard.outputs.should_run == 'true'
         uses: actions/checkout@v4
 
       - name: Run the sweep with Claude
+        if: steps.guard.outputs.should_run == 'true'
         uses: anthropics/claude-code-action@v1
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -54,6 +72,7 @@ jobs:
                ⚠ items with one-line reasons) to .sweep_summary.txt.
 
       - name: Push
+        if: steps.guard.outputs.should_run == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -76,7 +95,7 @@ jobs:
           [ "$push_ok" = "1" ] || { echo "ERROR: could not push"; exit 1; }
 
       - name: Notify rolling issue
-        if: always()
+        if: always() && steps.guard.outputs.should_run == 'true'
         env:
           GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |

@@ -7,7 +7,9 @@ name: Monthly KPI Prompt
 
 on:
   schedule:
-    - cron: '0 14 1-7 * 1'  # Mondays falling on the 1st-7th = the first Monday, ~9-10 AM ET
+    # NOTE: cron DOM+DOW is OR, not AND (this fired 3 days straight on Jul 3-5,
+    # 2026). Day-range only here; the guard step enforces "first Monday."
+    - cron: '0 14 1-7 * *'
   workflow_dispatch: {}
 
 permissions:
@@ -18,8 +20,23 @@ jobs:
   kpi-reminder:
     runs-on: ubuntu-latest
     steps:
+      - name: Guard, first Monday only
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          dow=$(TZ=America/New_York date +%u)  # 1 = Monday
+          if [ "$dow" = "1" ]; then
+            echo "should_run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not Monday (dow=$dow); skipping."
+            echo "should_run=false" >> "$GITHUB_OUTPUT"
+          fi
       - uses: actions/checkout@v4
+        if: steps.guard.outputs.should_run == 'true'
       - name: Notify rolling issue
+        if: steps.guard.outputs.should_run == 'true'
         env:
           GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
         run: |
