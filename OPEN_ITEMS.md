@@ -51,6 +51,9 @@ _Five conversion-side loops from the audit follow-up ("are there other routines 
 - [x] **✅ `weekly-sales-hour-brief`** — Friday 7:30a ET: posts Ginny's sales-hour queue (broker move + drafted touch note, stale rows, scoreboard pulse) to the rolling issue.
 - [ ] **🟧 Tier 2 enablers (Ginny, when doing the GSC key errand):** create a Google service account with read access to the "PBS Toolkit Leads" Sheet and add repo secret `GSHEET_SA_KEY` (makes sales-hour brief + KPI lead counts fully automatic); optionally add a Zapier step POSTing SQL/PARTNER alerts to the repo for auto-drafted first-touch notes.
 
+## 🚀 GROWTH ACCELERATION PLAN (Jul 5, 2026) — `growth_plan_2026_2027.md`, needs Ginny's 6 decisions
+_The business-level plan above the content system (Brett-requested): 3 horizons — H1 renewal-season revenue sprint (Sep-Oct campaign stack, all assets dated), H2 monetize+diversify (broker bench 3-5, flagship data report published mid-Jan 2027, proof layer live, paid scale-or-stop), H3 2027 business-model moves (product ladder w/ recurring PBM-oversight retainer, named methodology, capacity trigger for a second clinical hire, referral lanes: ERISA counsel / stop-loss / TPAs / CU leagues). Plan §9 lists the six Ginny decisions in order; #1 (name + approve the "Renewal Second Opinion" entry offer) unlocks the September campaign and is time-sensitive._
+
 ## 🌍 WORLD-CLASS-GAP BUILDS (Jul 3, 2026) — frameworks built, Ginny inputs needed
 _From the "what's missing for world-class B2B" review: the gaps are deal-side, not content-side. Three frameworks built same session; each has a small Ginny unlock._
 
