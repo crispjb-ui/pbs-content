@@ -12,7 +12,7 @@
 - **Demand is dangerously concentrated:** ~95% of client flow arrives through one broker relationship (Hylant). This is the reason the content program exists.
 - **The audience asset is real and growing:** 2,100+ LinkedIn followers gaining ~50-100/wk in season, 1,086 newsletter subs at 44-49% open, a repeatable organic content shape (15-18K reach), earned-media credentials (Potter, SHRM), and a live 29-toolkit lead funnel that has already produced a signed client (Stand Together), a forming broker partnership (GWCU), and inbound leads.
 - **The conversion layer just got built (Jul 3):** post-sequence nurture, renewal reactivation, broker partner track, target account list (~41 employers + 22 broker firms), quarterly briefing playbook, closeout/proof kit, sales hour + KPI loop, 21 automation workflows.
-- **The binding constraint is Ginny's hours,** not ideas, not content, not even leads. Every move below either respects that constraint or spends money/process to relax it.
+- **The team (corrected Jul 5, 2026, per Brett):** Ginny + two pharmacists + three analysts + an admin, with Brett orchestrating marketing/social. Delivery capacity is real and already scaled (706 engagements/yr proves it). **The binding constraint is therefore NOT delivery — it is Ginny's rainmaker hours** (the face, the relationships, the camera, the closes) **plus the fact that the entire external surface currently routes through her alone.** Every move below either protects those hours by delegating to the bench that already exists, or widens the external surface beyond one person.
 
 ## 2. North star and the KPI ladder
 
@@ -48,7 +48,7 @@ Everything needed for the next 90 days already exists as a built asset or an app
 
 **4.1 Broker bench to 3-5 active.** The GWCU pattern industrialized via `broker_partner_track.md`: enablement kits out, one broker move per week, PARTNER alerts answered inside a business day, and one **broker lunch-and-learn pilot** ("PBM Contract Clinic" for a brokerage's producers — GWCU or Scott Insurance are the natural firsts). A brokerage that hosts a clinic converts from contact to channel.
 
-**4.2 The flagship data report gets a date.** The approved-queue item ("how often the net-cost promise survives the contract definitions") becomes real: **data pull from renewal-season reviews in Nov-Dec, publish mid-January 2027** — landing exactly in the Jan-Mar peak-engagement window. This is the category-owning asset: journalists cite it, podcasts book around it, brokers forward it, AI engines quote it, and the quarterly briefing gets its Q1 content from it. It is also the single best use of PBS's unfair advantage (proprietary contract dataset nobody else has). *(Decision gate: scope confirmed with Ginny by Oct 1; anonymization + methodology rules per `engagement_closeout_kit.md` compliance standards.)*
+**4.2 The flagship data report gets a date.** The approved-queue item ("how often the net-cost promise survives the contract definitions") becomes real: **data pull from renewal-season reviews in Nov-Dec (analysts own the pull per the 5.3 matrix; Ginny owns the findings narrative), publish mid-January 2027** — landing exactly in the Jan-Mar peak-engagement window. This is the category-owning asset: journalists cite it, podcasts book around it, brokers forward it, AI engines quote it, and the quarterly briefing gets its Q1 content from it. It is also the single best use of PBS's unfair advantage (proprietary contract dataset nobody else has). *(Decision gate: scope confirmed with Ginny by Oct 1; anonymization + methodology rules per `engagement_closeout_kit.md` compliance standards.)*
 
 **4.3 The proof layer goes live.** 2-3 permissioned case studies from fall engagements (Stand Together findings is first), testimonials collected via the closeout kit, `/results` page built (website item ②), which in turn unlocks the held proof ad (AD-5). Target: proof page live by Dec 31.
 
@@ -71,10 +71,18 @@ The content system then sells the ladder deliberately: every asset CTA names the
 
 **5.2 Name the methodology.** "We review your contract" is a service; a **named, versioned methodology** (the framework behind the 132-review PBR line: the audit passes, the definitions library, the scoring) is an asset. Naming it raises perceived value, makes referrals repeatable ("get the [name] done before you sign"), feeds the annual report ("findings from N [name] reviews"), and is a prerequisite for 5.3. The Contract Language Library and 29 toolkits are already the public half of it; this consolidates the private half into a playbook.
 
-**5.3 The capacity decision (the honest one).** If Horizons 1-2 work, demand will exceed Ginny. Two levers, in order:
-- **Playbook-ize delivery** (5.2 makes this possible): standard work products, templates, the toolkit design system applied to deliverables — raising throughput per Ginny-hour before adding headcount.
-- **Second clinical hire** (pharmacist analyst) — **trigger, not date:** sustained 6+ qualified conversations/month for a quarter, or delivery backlog pushing engagement starts past ~4 weeks. Revisit at each quarterly review; do not hire ahead of the trigger, do not refuse the trigger when it fires.
-Brett's lane grows in parallel: sales ops (the Sheet, follow-ups, scheduling, briefing production) so Ginny's hours concentrate on delivery + relationships + camera.
+**5.3 The capacity play (rewritten Jul 5, 2026 — the bench already exists).** With two pharmacists and three analysts on staff, the constraint is not delivery headcount; it is that the growth motions all currently route through Ginny personally. The play is a **delegation matrix**, then a trigger:
+
+| Growth-plan work | Owner (not Ginny) | Ginny keeps |
+|---|---|---|
+| Flagship data report: aggregation, anonymization, tables | **Analysts** (Nov-Dec pull) | The findings narrative + her name on it |
+| Closeout kit: win-story capture at findings | **Engagement lead on each project** (pharmacists) | The testimonial/referral ask on marquee clients |
+| Lead Sheet hygiene, follow-up scheduling, briefing logistics, form/site builds | **Admin + Brett** (sales ops lane) | The personal notes and the calls themselves |
+| Quarterly briefing production (deck from the report/quarterly data, registration, rehearsal run) | **Brett + an analyst** | Presenting it |
+| Target-account touch drafting, first-comment/reshare mechanics | **Brett** (with the automation loops) | Final voice check + relationship touches |
+
+- **Second-voices surface (new lever, unlocked by the real roster):** the two pharmacists engaging from their own LinkedIn profiles (commenting on PBS posts with clinical texture, resharing with a one-line take, eventually authoring an occasional Field Note under their own byline) widens reach and makes the firm look like a firm, not a solo act. Start with comments/reshares only (low lift, no approval overhead); revisit bylines in Q1 2027. This also de-risks the Ginny-centric brand over time.
+- **Hiring trigger (revised):** a THIRD pharmacist / additional analyst only when delivery backlog pushes engagement starts past ~4 weeks despite the matrix above. Agree to the trigger now; do not hire ahead of it.
 
 **5.4 Widen the referral ecosystem beyond brokers.** Three adjacent lanes where PBS is the natural independent bench, all warm-intro-able, none requiring cold outreach:
 - **ERISA / fiduciary counsel** (post-J&J-era fiduciary anxiety is the strongest tailwind in the category; attorneys need a defensible independent audit to point clients at; the fiduciary toolkit + documentation checklist are ready-made door-openers).
@@ -106,12 +114,12 @@ Already built and running; listed so the plan is self-auditing:
 
 | Risk | Mitigation |
 |---|---|
-| Ginny-hour overrun (plan demands delivery + sales + camera) | The NOT-do list; Brett absorbs sales ops; 5.2 playbook-izing; automation already carries drafting |
+| Ginny-hour overrun (the plan demands relationships + camera + closes) | The 5.3 delegation matrix moves everything else to the existing bench; the NOT-do list; automation carries drafting |
 | Renewal campaign lands during Hylant's own renewal crunch (relationship friction) | Frame everything broker-hero; Hylant gets the briefing + report first, as the anchor partner |
 | Proof engine stalls (no permissions) | Anonymized-OK is the ask by default; one permissioned story is enough to launch /results |
 | Data report scope creep | Fixed publish date (mid-Jan) disciplines scope; report v1 answers ONE question well |
 | Paid CPL disappoints | Pre-committed stop rule (4.5); organic + AEO remain the base case |
-| Key-person dependency (all of it routes through Ginny) | 5.2 + 5.3 are explicitly succession-of-capacity moves; the automation + playbooks ARE the institutional memory |
+| Key-person dependency (the BRAND routes through Ginny even though delivery doesn't) | 5.2 named methodology + 5.3 second-voices surface gradually make the firm the brand; the automation + playbooks ARE the institutional memory |
 
 ## 9. Decisions this plan needs from Ginny (in order)
 
