@@ -87,6 +87,7 @@
 | Email | team@rxbs.org |
 | Location | Charleston, SC |
 | CEO | Ginny Crisp, PharmD |
+| Team (as of Jul 5, 2026, per Brett) | Ginny + 2 pharmacists + 3 analysts + 1 admin; Brett orchestrates marketing/social. Delivery has a real bench; the external surface (posts, calls, camera) routes through Ginny — growth-plan delegation matrix: `growth_plan_2026_2027.md` §5.3 |
 | Industry | Pharmacy benefits consulting |
 
 **What PBS Does:** PBM audits, contract language development, claims reviews, cost containment consulting for self-funded employers. PBS reviews hundreds of PBM contracts a year.
