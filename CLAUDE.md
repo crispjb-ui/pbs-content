@@ -740,6 +740,7 @@ When test-recipient Gmail addresses have personal filters routing Substack-menti
 - **Newsletter content:** newsletters/ directory
 - **Substack strategy:** substack_engagement_guide.md
 - **Podcast strategy:** podcast_pitching_guide.md
+- **Wendell Potter contributorship (status as of Jul 6, 2026):** Opening piece PUBLISHED Jun 17; Piece 1 (spread pricing) drafted, awaiting Ginny review + submission-week fact re-verify; **Pieces 2 (vertical integration) + 3 (GLP-1) drafted Jul 6 to the corrected house standard** (`wendell_potter_piece_02_...` / `_03_...`, each with verify-flags in the header). **The editorial standard of record is `wendell_potter_editorial_style_analysis.md` (Rules 1-10, from Ginny + Wendell's final copy): teach generously in the body, gloss roles/acronyms/parents in stride, NO engineered pull-quotes or parallel-punch runs, no client homework, opinion stated openly then a flat forward-pointing close.** The piece OUTLINES predate this standard: keep their beats, discard their rhetorical instructions (pull-quote engineering etc.). Piece 4's old drafts predate the standard too; recalibrate before use. Every piece carries the Series Narrative Arc machinery (callback / map anchor / seed / handoff, `wendell_potter_piece_outlines.md`). Cascade weeks stay gated on Wendell's cadence confirmation (`wendell_potter_cascade_alignment.md`). Post-series: `wendell_potter_post_series_plan.md` (anthology, the January Index as the annual sequel slot, quarterly-column conversion, syndication ladder, testimony readiness).
 - **AEO/GEO initiative tracker (status/owner across all workstreams):** aeo_geo_master_plan.md
 - **Website build spec (template, archetypes, IA, schema):** website_aeo_master_plan.md
 - **Substack AEO rule (every article):** substack_aeo_rules.md
@@ -782,5 +783,5 @@ A full AI-search (AEO/GEO) optimization pass ran on the rxbs.org website + the S
 
 ---
 
-*Last updated: July 5, 2026 (goal-weighted KPIs, conversion infrastructure, Tier 1 automation loops, target-account layer)*
+*Last updated: July 6, 2026 (master gameplan + rollout calendar, publish-ready asset bank, category leadership blueprint, Potter pieces 2-3 to the corrected standard)*
 *For complete details on any topic, refer to PBS_CONTENT_PROJECT_SUMMARY.md*

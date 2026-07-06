@@ -14,6 +14,8 @@ Every content-producing job ends at **drafted + critiqued + committed to `main` 
 
 ## Schedule (America/New_York targets; crons are UTC, DST-approximate)
 
+**Model tiering (added Jul 6, 2026):** high-frequency mechanical loops (`weekly-substack-urls`, `weekly-sales-hour-brief`) are pinned to `claude-sonnet-5` via `--model`; judgment-dense loops (build-pipeline, critique, sweeps, research engines, briefing draft) deliberately carry NO pin so they run the best model available on the API key. Assign a tier when adding any new workflow: mechanical assembly → pin sonnet/haiku; anything that drafts public copy or applies the rule-set → leave unpinned.
+
 | Workflow | When | Type | What it does | Output |
 |---|---|---|---|---|
 | **brand-lint** | every push + PR | gate ✅ | Brand/schema lint on the site web surface (em-dash, bare "PBS", "RXBS", JSON-LD valid, title) + toolkit 2-page PDF audit | fails the build on violation |
