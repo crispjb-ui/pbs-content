@@ -560,8 +560,12 @@ A lot of PBMs say no. Why? Because lifestyle requirements can dent their rebates
 
 Read that again: the PBM will not model the thing that actually works, because it costs them rebate dollars. From SHRM's Honest HR podcast.
 
+Has your PBM ever proposed a program that would lower its own rebate revenue? Genuinely asking: yes or no.
+
 #Rebates #GLP1 #SelfFundedEmployers
 ```
+
+_CTE A/B experiment (W30-W33, question arm): this post's closing question is deliberate. Log comments + impressions vs the W31/W33 statement-arm posts via /log-metrics._
 
 #### First Comment
 
@@ -742,7 +746,11 @@ PBM RFP responses are designed to win evaluations, not to reveal true cost. Diff
 The questions you ask determine the answers you get. And the questions most RFP templates include were written by the industry, not by the employers who pay the bills.
 
 Next week: the PBM RFP, and 30 questions with answer scoring that reveal what responses actually mean.
+
+When your last PBM RFP came back, did anyone score the answers, or just count the pages?
 ```
+
+_CTE A/B experiment (W30-W33, question arm): this post's closing question is deliberate. Log comments + impressions vs the W31/W33 statement-arm posts via /log-metrics._
 
 #### First Comment
 

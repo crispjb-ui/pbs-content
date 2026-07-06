@@ -8,6 +8,8 @@ You are closing the PBS learning loop. `/build-week` reads `linkedin_performance
 The user will paste this week's numbers (or point you to a screenshot/export). Expect, per post: title/shape, impressions, reactions, comments, saves, followers; plus newsletter (subs, open rate), Substack (per-post views, new subs, paid), and X (notable posts, reposts, any amplifier event). If anything is missing, ask once, then proceed with what you have.
 
 ## Step 1 — Log the raw data
+
+**Active-experiment sub-step:** while any "Active Experiment" section exists at the top of `linkedin_performance_tracker.md` (currently: first-comment timing; CTE question endings W30-W33), log that experiment's per-post fields (arm, comments, impressions) into its section the same session, and when its decision date has passed, compute the verdict per its stated decision rule and surface it in Step 4.
 Append to `linkedin_performance_tracker.md` in the existing format: a dated week block with the per-post table, and add any top-tier post (cleared the shape's floor, or a breakout) to the "Recent breakouts" table. Update the "Channel totals" line (followers / newsletter subs / Substack subs + paid) with the new numbers and the delta.
 
 ## Step 2 — Recompute the learnings (the self-improving part)
