@@ -66,21 +66,23 @@ First baseline, captured the day rxbs.org was submitted to GSC + Bing and the Wi
 - **Perplexity — Positive.** Sees the LinkedIn + Facebook presence. Gaps: **limited public info on team size, client case studies, measurable outcomes**; **no visible blog/news/educational content**; no detailed service breakdowns or transparent pricing.
 - **Convergent to-do (handed to us by the AI itself):** publish proof (→ /results + case studies + $78.7M metrics), methodology (→ Standards page + guides), testimonials, an on-site content hub, "how we charge" transparency. All already planned; this baseline confirms they're the priority.
 
-**Priority watch set (Wix data; Google AIO + Claude pending manual run). ✅ cited (rxbs.org) / 🟨 Substack only / ⬜ not cited:**
+**Priority watch set. ✅ cited (rxbs.org) / 🟨 Substack only / ⬜ not cited.** ChatGPT/Perplexity/Gemini = Wix data. Google AIO = organic-search read (Jul 6, see note). Claude = still a genuine manual check (claude.ai logged-out).
 
 | # | Prompt | ChatGPT | Perplexity | Google AIO | Gemini | Claude | Top competitor cited |
 |---|--------|:--:|:--:|:--:|:--:|:--:|---|
-| 1 | Best independent PBM audit firm | ⬜ | ⬜ | — | ⬜ | — | Innovative Rx Strategies / SmithRx |
+| 1 | Best independent PBM audit firm | ⬜ | ⬜ | ⬜ | ⬜ | — | Innovative Rx / TFG / Milliman |
 | 7 | What is spread pricing | ⬜ | ⬜ | — | ⬜ | — | milliman / frier levitt |
-| 8 | What is a rebate aggregator | ⬜ | ⬜ | — | ⬜ | — | (third-party explainers) |
+| 8 | What is a rebate aggregator | ⬜ | ⬜ | ⬜ | ⬜ | — | MedReb8 / TransparentRx / BIPC |
 | 11 | What is a PBM contract audit | ⬜ | ⬜ | — | ⬜ | — | ajg / smithrx |
-| 13 | How do I audit my PBM contract | ⬜ | ⬜ | — | ⬜ | — | smithrx / frier levitt |
+| 13 | How do I audit my PBM contract | ⬜ | ⬜ | ⬜ | ⬜ | — | Innovative Rx / Milliman / Safe Harbor |
 | 19 | Who is Ginny Crisp PharmD | n/a | n/a | — | n/a | — | _(rejected by Wix; About page too thin)_ |
 | 20 | What is Prescription Benefit Solutions | ✅ | ✅ | — | ✅ | — | — (branded) |
 _(Only the branded entity prompt is cited today. Non-branded = uniformly ⬜. That's the before-picture; the shift to ✅ as pages ship IS the leadership move working.)_
 
+**Google-side read (organic search, run Jul 6, 2026 — AIO proxy).** Ran the top consideration + definitional queries directly. **rxbs.org appears in NONE of them** — confirming the same invisibility Google's AI Overview would inherit (AIO pulls from the organic ranking set; not ranking = not in the box). Google organic competitor map (richer than the Wix read): **Innovative Rx Strategies appears in every consideration query, multiple pages** (dominant across Google + Gemini + Perplexity — the reference competitor on every surface); **Milliman** recurs; independent-audit set = **TFG Partners, Safe Harbor Group, ARMSRx, Truveris, Apex**; definitional queries won by third-party explainers (**MedReb8, TransparentRx, Buchanan Ingersoll/bipc.com**). Two concrete actions surfaced: (1) a **`myshortlister.com` "Top Pharmacy Benefits Consultants" listicle** ranks for the consideration queries → getting PBS listed is an entity-authority target (feeds `entity_authority_offsite_plan.md`); (2) the definitional gaps (rebate aggregator, spread pricing) are the clearest early wins for the `/glossary` + `/contract-language-library` pages. **Only Claude remains an untested engine** (its web-search surfaces the same source pool, so a ⬜ non-branded result is near-certain, but log the real check when convenient).
+
 ### Trend log
-- **Jul 6, 2026 (baseline):** 1 / 19 mentioned (branded only). Wix scores 5/5/5 (ChatGPT/Gemini/Perplexity). AI-referred sessions: 0 across all three. Competitors leading: Innovative Rx Strategies, SmithRx. Asset built in response: none yet — baseline set the same day GSC+Bing+IndexNow went live; next action is the 7 AEO answer pages (glossary/guides) to attack the non-branded queries + the /results proof page to close the perception gap all three engines flagged.
+- **Jul 6, 2026 (baseline):** 1 / 19 mentioned (branded only). Wix scores 5/5/5 (ChatGPT/Gemini/Perplexity). Google organic read same day confirms rxbs.org absent from every non-branded buyer query (so Google AIO = ⬜ too). Only Claude untested (near-certain ⬜). AI-referred sessions: 0. Competitor leading on ALL surfaces: **Innovative Rx Strategies** (broker-owned via Apex); Milliman a recurring authority. Asset built in response: none yet — baseline set the same day GSC+Bing+IndexNow went live; next actions: the 7 AEO answer pages (glossary/guides target the definitional + consideration queries), the /results proof page (closes the perception gap all three engines flagged), and pursue the `myshortlister` consultants listicle (entity authority).
 
 ## Owned-asset map (what each query should resolve to)
 | Query family | Canonical owned page (rxbs.org) | Status |
