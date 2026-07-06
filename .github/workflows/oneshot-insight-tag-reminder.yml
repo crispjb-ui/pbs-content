@@ -1,0 +1,55 @@
+name: One-shot reminder — Insight Tag (Mon Jul 6, 9am ET)
+
+# Fires ONCE: 13:00 UTC on July 6 = 9:00 AM EDT, per Brett's request (Jul 5).
+# Posts the Insight Tag install reminder to the rolling issue, then deletes
+# itself so it never fires again.
+
+on:
+  schedule:
+    - cron: '0 13 6 7 *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Post the 9am reminder
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat <<'EOF'
+          ⏰ **9:00 AM reminder (requested Jul 5): LinkedIn Insight Tag install — ~20 min, no spend, no ads**
+
+          The full checklist is two comments up in this thread. Quick version:
+          1. Free Campaign Manager account (business.linkedin.com → Advertise, no billing needed)
+          2. Analyze → Insight Tag → copy the ID
+          3. Wix Dashboard → Marketing Integrations → LinkedIn Insight Tag → paste
+          4. Verify "Active" in Campaign Manager
+          5. Create the two 90-day matched audiences (all visitors; toolkit + renewal pages)
+
+          Why today: the retargeting pool only builds forward from install day; installed now, it is warm for the September renewal retargeting ad. Open a Claude session and say "walk me through the Insight Tag install" for click-by-click help.
+          EOF
+          )"
+
+      - name: Self-delete this workflow
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git rm .github/workflows/oneshot-insight-tag-reminder.yml
+          git commit -m "One-shot Insight Tag reminder fired (Jul 6, 9am ET); removing itself"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || true
+            if git rebase origin/main && git push origin HEAD:main; then exit 0; fi
+            git rebase --abort || true
+            sleep 5
+          done
+          echo "self-delete push failed (harmless: cron is year-specific)"
