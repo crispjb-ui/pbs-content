@@ -1,97 +1,94 @@
-# rxbs.org AEO/GEO Master Plan (website build spec)
+# rxbs.org AEO/GEO Master Plan v2 (website build spec — conversion-first)
 
-_Created Jun 20, 2026. This is the **website build spec**: the architecture, the build-once master template (Phase 0), the two page archetypes, the IA/URL map, conversion routing, schema, and the content-cluster map. The **initiative-level tracker across all workstreams (website + Substack + social + off-site + measurement), with status/owner per item, is `aeo_geo_master_plan.md`** — start there for status and sequence; come here for the website build detail. Read top to bottom; build in the phase order given._
+_Created Jun 20, 2026; **rebuilt to v2 on Jul 6, 2026** to align with the master gameplan, the September renewal campaign, and the publish-ready asset bank. **What changed in v2:** the build order flipped from content-first to **conversion-first** (the campaign-critical pages ship before the answer pages); the URL map gained the new asset pages (/standards, /renewal-second-opinion, /request-a-call, /how-we-charge, /results, /for-brokers); four new reusable components (trust-nav cluster, seasonal campaign band, Fiduciary File block, proof band); measurement moved BEFORE the build (baseline + conversion events pre-launch); the Calendly reference was removed (contradicted Ginny's no-scheduler decision — the request-a-call form is the primary conversion mechanism); and a sitewide internal-linking rule was added. The initiative-level tracker across all workstreams remains `aeo_geo_master_plan.md`; the execution order of everything lives in `MASTER_GAMEPLAN.md` (this plan = its P1 block, in detail)._
 
 ---
 
 ## North star + how "leadership" is measured
-**Goal:** be the source ChatGPT, Perplexity, Google AI Overviews, Gemini, and Claude *cite* when a self-funded employer or broker asks a pharmacy-benefits question, and convert that high-intent traffic into leads. **Scoreboard:** `ai_visibility_tracker.md` (20 buyer prompts, monthly; watch the "source URL" column shift from Substack to rxbs.org and the "competitors cited" column shrink).
+**Goal:** be the source ChatGPT, Perplexity, Google AI Overviews, Gemini, and Claude *cite* when a self-funded employer or broker asks a pharmacy-benefits question, and convert that high-intent traffic into qualified conversations. **Scoreboards:** `ai_visibility_tracker.md` (20 buyer prompts monthly; watch the source-URL column shift from Substack to rxbs.org) and `kpi_scoreboard.md` (the conversion side: the site exists to feed qualified conversations, the primary KPI).
 
 ## Decisions locked
 - **Naming:** spell out "Prescription Benefit Solutions" + www.rxbs.org in all public copy; "PBS" internal only (collides with Public Broadcasting Service for LLMs).
-- **Canonical domain = Wix/rxbs.org.** Evergreen content is mirrored to rxbs.org as the self-canonical source; Substack is the crawlable distribution twin that links back.
+- **Canonical domain = Wix/rxbs.org.** Evergreen content mirrored to rxbs.org self-canonical; Substack is the crawlable distribution twin that links back.
 - **Brand system = PBS v2** (`site.css` tokens): Primary `#015880`, Accent `#A7E0FA`, Gray `#4D4D4D`, paper `#FAFAF7`, ink `#0c1a22`; IBM Plex Sans / Plex Mono; triangle wordmark.
+- **NO calendar-exposing scheduler, ever** (Ginny, Jul 3, 2026). The request-a-call form (`email_gated_toolkit/request_a_call_form_spec.md`) is the primary call-to-action mechanism sitewide; the admin schedules by email. Any earlier reference to Calendly/Wix Bookings is superseded.
+- **Answer-first everywhere (v2):** every page, both archetypes, opens with one self-contained, quotable sentence stating what the page is or answers (the Substack AEO rule applied to the site). On money pages this is a plain service definition ("A Renewal Second Opinion is a fast, independent read of your PBM renewal terms before you sign"), not marketing framing.
 
 ---
 
-# THE BUILD ORDER (priority)
+# THE BUILD ORDER v2 (conversion-first)
 
-> **The rule that makes this a single build: build the template before the pages.** Everything below derives from Phase 0. If you build pages first and the template second, you touch every page twice. Do Phase 0 once; every page after is a fill-in.
+> **Two rules make this one build, not three:** (1) build the template before the pages (Phase 0 once; every page after is a fill-in); (2) **the September campaign's pages ship before the answer pages** — campaign traffic lands on money pages, and money pages convert; answer pages compound later regardless of a two-week delay. Deadline that governs everything: **the conversion spine live by Aug 15.**
 
-## ▶ PHASE 0 — The master template + global components (BUILD THIS FIRST; everything derives from it)
-In Wix, build these **once** as global elements + saved/reusable sections + theme settings. Spec in **Section A**.
-1. **Theme tokens** (Wix Site Design): the 5 brand colors, Plex Sans/Mono, the type scale (H1/H2/H3/body/eyebrow/mono-number). Every element references these, so a later color/type change is one edit.
-2. **Global header** (nav + "Learn" mega-menu) and **global footer** (5-column). Set once, appears on every page.
-3. **The reusable page sections** (save each as a Wix "saved section" so new pages are assembled, not redrawn): Hero (dark + light variants), Author/Credibility block, Body prose style set, **Inline lead-magnet CTA block**, Related-Questions block, FAQ accordion, Proof/testimonial block, and the **single Lead-Form component**.
-4. **Sitewide schema scaffold** (global header custom code): `WebSite`+`SearchAction`, `Organization`, `Person` (Ginny). Per-page schema slots defined (Article/FAQ/HowTo/Breadcrumb).
-**Done when:** you can spin up a blank page and assemble a full, on-brand, schema-complete page from saved sections in ~15 minutes with zero new design.
+## ▶ PHASE 0 — Master template + global components (BUILD FIRST)
+Build once in Wix as theme settings + global elements + saved sections. Spec in Section A.
+1. **Theme tokens** (colors, Plex type scale).
+2. **Global header** (nav per Section B, incl. the trust cluster) + **global footer**.
+3. **Reusable sections:** Hero (dark + light), Author/Credibility block, body prose styles, Inline lead-magnet CTA, Related-Questions block, FAQ accordion, the single Lead-Form component, **and the four v2 additions: the Seasonal Campaign Band, the Fiduciary File block, the Proof Band (2025 stats), and the Trust-cluster footer links.**
+4. **Sitewide schema scaffold** (WebSite+SearchAction, Organization, Person) + per-page schema slots.
+**Done when:** a blank page assembles into a full on-brand, schema-complete page from saved sections in ~15 minutes.
 
-## ▶ PHASE 1 — Lock the architecture (so URLs never move)
-Implement **Section B**: the final URL map, the "Learn" mega-menu nav, breadcrumb pattern, and the redirect policy. Decide nested `/guides/` slugs now. **URLs are the one thing that's expensive to change after launch** (moving them breaks citations), so freeze them before building page bodies.
+## ▶ PHASE 0.5 — Measurement BEFORE anything ships (v2: promoted from Phase 5)
+Do these while Phase 0 is underway; none depends on new pages existing:
+1. Submit sitemap to **Google Search Console AND Bing Webmaster** (ChatGPT retrieves via Bing); confirm **IndexNow** is on (Wix-native). Set `GSC_SA_KEY` so the monthly pull starts.
+2. **Run the 20-prompt AI-visibility baseline NOW** — without a pre-build baseline there is no before/after proof the build moved citations.
+3. Enable **Wix AI Visibility Overview** (native citation/mention tracking).
+4. Define the **conversion events** in analytics before launch: toolkit form submit, call-request submit, briefing registration, PDF download; the LLM-referrer segment (chatgpt.com, perplexity.ai, gemini.google.com, claude.ai); the UTM convention for Substack→site links.
+5. Fill the `sameAs` LinkedIn URLs in the Organization/Person schema.
 
-## ▶ PHASE 2 — Build the 7 priority pages (each = a template instance)
-Assemble from Phase-0 sections, fill content from the existing blueprints, paste per-page schema. Priority order (from `wix_pages_build_runbook.md`, which holds the click-by-click):
-1. Glossary → 2. Contract Language Library → 3. What We're Seeing → 4. Guide: PBM Contract Audit → 5. Guide: What Is Spread Pricing → 6. Guide: How to Choose a PBM Auditor → 7. Compare: PBM Audit vs Broker Review. Plus refit Home / Solutions / About / Insights / Toolkit pages to the Phase-0 template.
+## ▶ PHASE 1 — Lock the architecture (URLs never move)
+Implement Section B: the v2 URL map (now including the asset pages), the nav with the Learn mega-menu AND the trust cluster, breadcrumbs, redirect policy. Freeze slugs before building bodies; a published URL is never renamed without a 301.
 
-## ▶ PHASE 3 — Wire conversion once
-Implement **Section C**: point every page's CTA/form through the one Lead-Form component to the right destination (toolkit funnel / speed-to-lead alert / scheduler), add the source field, fill the proof slots. Because the form is one component, this is wired once.
+## ▶ PHASE 2 — THE CONVERSION SPINE (the campaign-critical eight; ⏱ live by Aug 15)
+Build in THIS order (each later page links to earlier ones; copy sources named):
+1. **`/request-a-call`** — `email_gated_toolkit/request_a_call_form_spec.md`. Everything else CTAs into it; build it first.
+2. **`/renewal-second-opinion`** — `renewal_second_opinion_kit.md` (▼▲ copy). The September offer's landing page.
+3. **`/for-brokers`** — `broker_partner_track.md` §3 copy. The PARTNER-track landing surface.
+4. **`/standards`** — `standards_independent_pbm_review.md` (▼▲ copy, after Ginny's pass + counsel). The category manifesto; the RSO page's independence attestation cites it.
+5. **`/how-we-charge`** — `pricing_architecture_memo.md` page copy (after Ginny's tier decision). Radical fee transparency; classic high-intent AI query.
+6. **`/results`** — shell now (2025 stat band + "case studies coming" slots), case studies slot in as the closeout kit permissions them.
+7. **`/glossary`** and 8. **`/contract-language-library`** — the two AEO anchor pages (blueprints done); they ship in Phase 2 because every money page's cluster links point at them.
+Plus, while in the editor: fix the live-site defects (`website_audit.md`): the "Mysite" SEO titles, hero CTA, blank Newsletter page, Toolkit Library nav placement.
 
-## ▶ PHASE 4 — Content waves (fill the cluster map)
-Build out the remaining answer pages from **Section E** in waves (each is just another template instance), and mirror the strongest Substack deep dives as owned `/articles/` pages. Internal links are already designed for the full set because the cluster map (Section E) was set in Phase 1.
+## ▶ PHASE 3 — The remaining answer pages + refits
+`/what-we-are-seeing`, `/faq`, the 4 guides (blueprints done), then refit Home / Solutions / About / Insights to the template. **The redesigned homepage is deliberately LAST in this phase:** LinkedIn traffic lands on toolkit/article pages, campaign traffic on the RSO page, AI-referred traffic on answer pages; the homepage has the least measurable job, so it never blocks the campaign. Live-page retrofit (Toolkit Library schema + the 29 toolkit forms' source field) rides along here.
 
-## ▶ PHASE 5 — Off-site authority + measurement (compounding)
-Execute `entity_authority_offsite_plan.md` (Wikidata, Substack Recommendations, Reddit/Quora, listicles, NAP) and run the `ai_visibility_tracker.md` baseline + monthly. Submit sitemap to Search Console + Bing; fill the `sameAs` LinkedIn URLs.
+## ▶ PHASE 4 — Content waves (unchanged)
+Remaining cluster pages from Section E in waves + mirror the strongest Substack deep dives as `/articles/` pages. Later additions when their gates clear: `/decoder` (`contract_decoder_spec.md`, Q1 2027), the benchmark intake (`benchmark_coop_spec.md`, Q4), the Index's canonical page (mid-Jan 2027).
+
+## ▶ PHASE 5 — Off-site authority (compounding; measurement already moved to 0.5)
+Execute `entity_authority_offsite_plan.md` (Wikidata, Substack Recommendations, Reddit/Quora, listicles, NAP) + the monthly tracker cadence.
 
 ---
 
-# SECTION A — Master page template + component library (the Phase-0 detail)
+# SECTION A — Master template + component library
 
-## Two page archetypes (which components each page gets)
-Not every page is an article. The template has **two archetypes**; build both as Phase-0 patterns and tag every page (current, live, future) as one of them.
+## Two page archetypes (unchanged in structure; v2 adds four components + one rule)
 
-| Component | **Content / Answer** archetype (guides, glossary, contract library, what-we're-seeing, mirrored articles) | **Utility / Conversion** archetype (Home, Solutions, Toolkit Library, the 29 toolkit landing pages) |
+| Component | **Content / Answer** (guides, glossary, library, what-we're-seeing, articles) | **Utility / Conversion** (Home, Solutions, money pages, toolkit pages) |
 |---|---|---|
-| Author byline + dates | ✅ yes (E-E-A-T) | ❌ no (a directory/form page with a byline reads wrong) |
-| Answer-first lead sentence | ✅ yes | ❌ no |
-| Article / FAQ / HowTo schema | ✅ yes | ❌ use the page's own type instead |
-| Inline lead-magnet CTA | ✅ yes | ➖ N/A (the page *is* the offer) |
-| "Keep reading" / cluster cross-links | ✅ yes | ✅ yes (link into the content cluster) |
-| Page-appropriate schema | Article/DefinedTermSet | **CollectionPage/ItemList** (library), **DigitalDocument** (toolkit), **Service** (solutions), **WebSite/Organization** (home) |
-| Lead-form **source field** | (on its inline CTA's target form) | ✅ yes, on every form (incl. the live toolkit form) |
-| Global header/footer + theme | ✅ both | ✅ both |
+| Author byline + dates | ✅ | ❌ |
+| **Answer-first lead sentence** | ✅ | ✅ **(v2: plain service definition, not marketing framing)** |
+| Article / FAQ / HowTo schema | ✅ | page's own type (Service / CollectionPage / DigitalDocument / WebSite) |
+| Inline lead-magnet CTA | ✅ | ➖ (the page is the offer) |
+| Keep-reading cluster links | ✅ | ✅ |
+| Lead-form source field | (on its CTA's target form) | ✅ every form |
+| **Fiduciary File block (v2)** | ➖ | ✅ every service/money page, identical block |
+| **Proof Band (v2: 2025 stats, reusable)** | optional footer slot | ✅ every money page |
+| **Seasonal Campaign Band (v2)** | ➖ | ✅ Home (+ optionally Solutions) |
+| Global header/footer + theme | ✅ | ✅ |
 
-Below is the **Content/Answer** stack (top to bottom). Build each block once as a Wix saved section.
+**The four v2 components (build once as saved sections):**
+1. **Seasonal Campaign Band** — one designated, easily-editable band under the Home hero that always carries the CURRENT campaign: Sep-Oct = "Do not sign the renewal unread" → `/renewal-second-opinion`; Jan = the Transparency Index; spring = the quarterly briefing. One edit per quarter; the site always reflects the business's annual rhythm without redesign. (Owner: Brett, per the rollout calendar.)
+2. **Fiduciary File block** — the identical closing section on every service page: "Every engagement closes with your Fiduciary File" + the 5-item list + the counsel-safe disclaimer (copy: `fiduciary_file_onepager.md`, post-counsel).
+3. **Proof Band** — the 2025 stat strip ($78.7M contracted · 203 clients · 59 RFPs at 25% · $469K avg PBR savings, with the standing guardrails: contracted-not-offered, 25%-is-RFP-rate) as ONE reusable component so the numbers update in one place, annually, when the 2026 figures land.
+4. **Trust cluster** — a linked trio (Standards · Results · How We Charge) rendered in the header nav (Section B) and as a footer block on every page. These three pages ARE the differentiation; they are never buried under About.
 
-| # | Component | What it contains | Derives / why once |
-|---|-----------|------------------|--------------------|
-| 1 | **Global header** | brand + nav + "Learn" mega-menu + Book-a-Review button | global element, every page |
-| 2 | **Hero** (2 variants) | dark `.ghero` (reference/guides) + light (utility); eyebrow + H1 + one lead paragraph + breadcrumb | saved section; the H1 = the one per page |
-| 3 | **Author/Credibility block** *(NEW — not in blueprints yet)* | "By Ginny Crisp, PharmD" + headshot + **Published** date + **Updated** date + one-line credential ("reviews hundreds of PBM contracts a year") | E-E-A-T + freshness signal AI weights; build once, reuse |
-| 4 | **Body prose styles** | H2/H3 in Primary Blue, blockquote (weak/strong clause style), term block, "answer-first" lead style | theme-level, applies everywhere |
-| 5 | **Inline lead-magnet CTA** *(NEW)* | a mid-article card offering the page's matching gated toolkit (preview image + 1-line + Get-it button → Lead Form) | parameterized by toolkit; the conversion lever on content pages |
-| 6 | **Related Questions / Keep Reading** *(NEW)* | 3-5 internal links to sibling cluster pages + glossary terms | topic-cluster glue + dwell; one component, links set per page |
-| 7 | **FAQ accordion** | 3-5 Q&As mirrored into FAQPage schema | standard on every guide/solution page |
-| 8 | **Proof/testimonial block** *(NEW slots)* | real testimonials, client logos, 2025 stats ($78.7M, 203, $469K/PBR) | reserve the space now; fill as content lands |
-| 9 | **Lead-Form component** *(ONE form)* | first name, work email, company, role, **+ "How did you hear about us?"** (source) | see Section C; one backend, wired once |
-| 10 | **Global footer** | 5-column (Explore / Reference / Content / Contact + brand) | global element |
-| 11 | **Schema scaffold** | sitewide WebSite/Org/Person in header; per-page Article+FAQ(+HowTo)+Breadcrumb | see Section D |
+**Blueprint status (Jun 20):** `.byline`/`.lead-cta`/`.related` already live in `site.css` and all 7 content blueprints; HowTo schema on the 3 how-to guides; source field on all forms; Home carries WebSite+SearchAction + enriched Organization. **v2 gap for the builder:** the four components above exist as copy in their asset docs, not yet as blueprint HTML; build them directly as Wix saved sections from the copy sources (or ask a Claude session to produce blueprint HTML first).
 
-**Status (Jun 20, 2026):** the net-new components are now **built into the `site/` blueprints**: `.byline`, `.lead-cta`, `.related` live in `site.css`; all 7 content pages carry byline + inline CTA + Keep-reading; the 3 how-to guides carry `HowTo` schema; all 3 forms carry the **source field**; Home carries `WebSite`+`SearchAction` and an enriched `Organization`. So the Content/Answer archetype is fully reflected in the blueprint the Wix builder works from.
+## Live-page retrofit (Toolkit Library + 29 toolkit pages) — unchanged from v1
+CollectionPage+ItemList schema on the library (paste-ready JSON below); source field onto the live toolkit form (⚠ carefully, it is wired to the live Velo funnel: add the CMS column + notification merge too); DigitalDocument schema on the dynamic page; one cluster cross-link per toolkit to its matching guide/glossary.
 
-## Live-page retrofit (Toolkit Library + the 29 toolkit landing pages)
-These are LIVE and are the **Conversion archetype**, so they take the conversion subset, NOT the article subset (no byline, no answer-first lead).
-
-**Toolkit Library (`/toolkit-library`):**
-- [ ] Add **CollectionPage + ItemList** schema (paste-ready below; in Wix, bind the ItemList to the Toolkits CMS so all 29 list automatically).
-- [ ] Add a **"New to PBM contracts? Start here"** cross-link block → Glossary + the pillar guides (connects the directory into the content cluster).
-- [ ] Confirm title/meta (already de-"Mysite"-ed) + Breadcrumb.
-
-**Toolkit landing pages (`/toolkit/<slug>`, ×29):**
-- [ ] **Add the source field ("How did you hear about us?") to the live form.** ⚠️ This form is wired to the live Velo funnel + CMS, so also add the matching CMS column and include it in the new-submission notification merge. Highest-value attribution change; do it carefully on the live funnel.
-- [ ] Paste the **DigitalDocument** schema (already in the `toolkit.html` blueprint) onto the live dynamic page, bound to the CMS row.
-- [ ] Add one **cluster cross-link** from each toolkit to its matching guide/glossary (makes the guide↔toolkit linking bidirectional). The existing **"Pairs well with"** section already serves as the related-content block.
-
-**Paste-ready CollectionPage + ItemList schema for the Toolkit Library** (representative 3 shown; bind to CMS for all 29):
 ```json
 {"@context":"https://schema.org","@type":"CollectionPage","name":"Plan Sponsor Toolkit Library","url":"https://www.rxbs.org/toolkit-library","description":"Free printable PBM audit worksheets and decision frameworks for self-funded employers, from Prescription Benefit Solutions.","isPartOf":{"@type":"WebSite","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org"},"mainEntity":{"@type":"ItemList","itemListElement":[
 {"@type":"ListItem","position":1,"url":"https://www.rxbs.org/toolkit/contract-review-readiness","name":"Contract Review Readiness Checklist"},
@@ -102,113 +99,96 @@ These are LIVE and are the **Conversion archetype**, so they take the conversion
 
 ---
 
-# SECTION B — Information architecture, URL map, nav, redirects
+# SECTION B — Information architecture, URL map, nav, redirects (v2)
 
-**Primary nav (rename "Insights" → a "Learn" mega-menu that houses the content hub):**
-`Home · Solutions · Free Tools (Toolkit Library) · Learn ▾ · About · [Book a Review]`
-The **Learn** dropdown groups: Guides · Glossary · Contract Language Library · What We're Seeing · **FAQ (Questions Plan Sponsors Ask)** · Latest (Insights/blog).
+**Primary nav (v2):**
+`Home · Solutions · Free Tools (Toolkit Library) · Learn ▾ · Why Us ▾ · For Brokers · [Request a Call]`
+- **Learn ▾** groups: Guides · Glossary · Contract Language Library · What We're Seeing · FAQ · Latest.
+- **Why Us ▾ (v2, the trust cluster):** The Standards · Results · How We Charge · About.
+- **For Brokers** sits at top level (the second persona deserves a door, and the PARTNER track needs the landing surface).
+- The header button changes from "Book a Review" to **"Request a Call"** (matches the actual mechanism and Ginny's scheduling model).
 
-**Final URL map (freeze before building bodies):**
+**Final URL map v2 (freeze at Phase 1):**
 
-| Page | URL | Status |
-|------|-----|--------|
-| Home | `/` | refit to template |
-| Solutions | `/solutions` | refit |
-| About | `/about` | refit |
-| Toolkit Library | `/toolkit-library` | live |
-| Toolkit detail (×29) | `/toolkit/<slug>` | live |
-| Insights / Latest hub | `/insights` | refit |
-| Glossary | `/glossary` | build |
-| Contract Language Library | `/contract-language-library` | build |
-| What We're Seeing | `/what-we-are-seeing` | build |
-| FAQ (Questions Plan Sponsors Ask) | `/faq` | build (blueprint done: `website_mockups/site/faq.html`) |
-| Guide: PBM Contract Audit | `/guides/pbm-contract-audit` | build |
-| Guide: What Is Spread Pricing | `/guides/what-is-spread-pricing` | build |
-| Guide: How to Choose a PBM Auditor | `/guides/how-to-choose-a-pbm-auditor` | build |
-| Compare: Audit vs Broker Review | `/guides/pbm-audit-vs-broker-review` | build |
-| Guides (wave 2, Section E) | `/guides/<topic>` | planned |
-| Deep-dive mirrors (wave 2) | `/articles/<slug>` | planned |
-| Book a review | `/` `#book` (or `/book`) | wire |
+| Page | URL | Status / copy source |
+|------|-----|----------------------|
+| Home | `/` | refit LAST in Phase 3; carries the Seasonal Campaign Band |
+| Solutions | `/solutions` | refit; Service schema; Fiduciary File + Proof Band blocks |
+| **Request a Call** | `/request-a-call` | **build #1** — `request_a_call_form_spec.md`; `?topic=` variants |
+| **Renewal Second Opinion** | `/renewal-second-opinion` | **build #2** — `renewal_second_opinion_kit.md` ⏱ Aug 15 |
+| **For Brokers** | `/for-brokers` | **build #3** — `broker_partner_track.md` §3 |
+| **The Standards** | `/standards` | **build #4** — `standards_independent_pbm_review.md` (post counsel) |
+| **How We Charge** | `/how-we-charge` | **build #5** — `pricing_architecture_memo.md` (post tier decision) |
+| **Results** | `/results` | **build #6** — shell + Proof Band; case studies as permissioned |
+| Glossary | `/glossary` | build #7 (blueprint done) |
+| Contract Language Library | `/contract-language-library` | build #8 (blueprint done) |
+| What We're Seeing | `/what-we-are-seeing` | Phase 3 (blueprint done) |
+| FAQ | `/faq` | Phase 3 (blueprint done) |
+| Guides ×4 | `/guides/<slug>` | Phase 3 (blueprints done) |
+| About / Insights | `/about` · `/insights` | Phase 3 refit |
+| Toolkit Library + ×29 | `/toolkit-library` · `/toolkit/<slug>` | live; retrofit Phase 3 |
+| Guides wave 2 / articles | `/guides/…` · `/articles/…` | Phase 4 |
+| Decoder · Benchmark · Index | `/decoder` · `/benchmark` · `/transparency-index` | gated; Phase 4+ (reserve the slugs NOW so they are frozen) |
 
-**Breadcrumbs:** `Home › Learn › <page>` for reference/guides; `Home › Toolkit Library › <toolkit>` for toolkits. **Redirect policy:** a published URL is never deleted or renamed without a 301; slugs are final at Phase 1.
-
----
-
-# SECTION C — Conversion + lead routing (wire once)
-
-**One Lead-Form component, used everywhere.** Fields: First name · Work email · Company · Role (select) · **How did you hear about us? (select: Search/AI assistant, LinkedIn, Substack, Referral, Podcast, Other)** ← the only way to attribute AI/dark traffic.
-
-**Routing table (where each CTA goes):**
-
-| Page / CTA | Destination | Mechanism |
-|------------|-------------|-----------|
-| Toolkit detail "Get the toolkit" | gated-PDF email funnel | existing Wix Velo funnel (live) |
-| **Inline CTA on a guide/glossary page** | the matching toolkit's funnel | same Velo funnel, prefilled toolkit_name |
-| Home / Solutions / About "Book a Review" | **speed-to-lead alert** (ginny@ + brett@) + CRM | `closing_layer_spec.md`; add a **scheduler embed** (Calendly) as the primary, form as fallback |
-| Footer newsletter | Substack/LinkedIn newsletter signup | external |
-
-**Proof slots to fill (reserve in the template now):** 3 testimonials, client logos, the 2025 stat band, "as featured on" (Potter / Derms on Drugs). **Add a visible phone (843) + click-to-call** in header/contact.
+**Breadcrumbs:** `Home › Learn › <page>` (content), `Home › Why Us › <page>` (trust), `Home › Toolkit Library › <toolkit>`. **Redirect policy:** unchanged; slugs final at Phase 1, including the three reserved ones.
 
 ---
 
-# SECTION D — Sitewide schema + measurement (set once)
+# SECTION C — Conversion + lead routing (v2)
 
-**Global header (sitewide) JSON-LD — add these (net-new):**
-- `WebSite` + `SearchAction` (sitelinks search box):
-```json
-{"@context":"https://schema.org","@type":"WebSite","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org","potentialAction":{"@type":"SearchAction","target":"https://www.rxbs.org/search?q={query}","query-input":"required name=query"}}
-```
-- `Organization` (enrich the existing one): add `contactPoint` (email/phone), `foundingDate`, `areaServed`, `numberOfEmployees`, and the **filled `sameAs`** (Ginny LinkedIn + company LinkedIn — currently blank).
-- `Person` (Ginny) sitewide as today.
+**Two components, wired once:**
+1. **The Lead-Form** (toolkit gating): First name · Work email · Company · Role · **How did you hear about us?** (Search/AI assistant, LinkedIn, Substack, Referral, Podcast, Other) — the only way to attribute AI/dark traffic.
+2. **The Request-a-Call form** (consult intent): per its spec — topic dropdown pre-set by `?topic=`, admin+Ginny alert with lead-history match, NO scheduler. **This supersedes v1's Calendly line entirely.**
 
-**Per-page schema (template slots):** Article + Person(author) + FAQPage + Breadcrumb on guides; **add `HowTo`** on the "how to audit / how to choose / how to read" guides (step content). DefinedTermSet on glossary; CreativeWork on toolkits.
+**Routing table v2:**
 
-**Measurement instrumentation (wire during the build, once):**
-- Google Search Console + Bing Webmaster: submit sitemap.
-- Analytics events: CTA click, form submit, scroll-depth, toolkit download.
-- A saved **LLM-referrer segment** (chatgpt.com, perplexity.ai, gemini.google.com, claude.ai) + watch branded-search lift.
-- **UTM convention** for the Substack→site canonical links so cross-channel traffic is attributable.
-- `llms.txt`: serve via a Velo `http-functions` route (decision: do it; low effort once).
+| Page / CTA | Destination |
+|------------|-------------|
+| Toolkit "Get the toolkit" | live Velo gated-PDF funnel (unchanged) |
+| Inline CTA on content pages | the matching toolkit's funnel |
+| **Every money-page CTA + header button** | `/request-a-call?topic=<contextual>` |
+| Seasonal Campaign Band | the current campaign's page (Sep: RSO; Jan: Index) |
+| Briefing promo blocks | Zoom registration (lead rows via `source=briefing`) |
+| Footer newsletter | Substack/LinkedIn signup |
 
----
+**THE INTERNAL-LINKING RULE (v2, sitewide, non-negotiable):** every Content/Answer page links to exactly **one money page and one toolkit** (chosen for topical fit, in the Keep-reading block or inline); every **money page** links to `/standards`, `/results`, and the request-a-call form. Hub-and-spoke with a conversion edge on every node; a cited page that routes nowhere converts nothing. Apply at build time from this rule, not ad hoc.
 
-# SECTION E — Content map / topic clusters (design IA for the final shape)
-
-Build internal links + nav for this **full target set** now, even though pages ship in waves. Each pillar guide is a hub linking to its cluster pages + glossary terms; each cluster page links back to the pillar.
-
-| Pillar (hub) | Cluster pages (wave 2 = `/guides/…`) | Glossary terms it links |
-|--------------|--------------------------------------|--------------------------|
-| **PBM Contract Audit** `/guides/pbm-contract-audit` | definition-variance, audit-rights, termination | spread, GER, MAC, AWP, audit rights, fiduciary |
-| **Pricing & Spread** `/guides/what-is-spread-pricing` | channel-pricing, net-cost, **how-to-read-a-pbm-rebate-report** | spread, net cost, dispensing fee, AWP |
-| **Rebates** `/guides/how-to-read-a-pbm-rebate-report` *(new)* | rebate-aggregators, copay-accumulators-maximizers | rebate passthrough, rebate aggregator, DIR |
-| **Specialty & Clinical** `/guides/specialty-pharmacy-carve-out` *(new)* | biosimilar-strategy, glp1-coverage-self-funded, site-of-care, step-therapy | specialty pharmacy, biosimilar, PA, step therapy |
-| **Process / Choosing** `/guides/how-to-choose-a-pbm-auditor` | audit-vs-broker-review, **pbm-rfp-how-to**, carve-in-vs-carve-out | (links across) |
-| **Fiduciary & Compliance** `/guides/erisa-fiduciary-pharmacy` *(new)* | 340b-and-self-funded-plans | fiduciary, 340B |
-| **Transparency / Category** `/guides/what-is-a-transparent-pbm` *(new)* | comparison/category terms | (links across) |
-
-**FAQ hub (`/faq`, blueprint built):** a cross-cutting answer page built from `buyer_anxiety_map.md` (the question each persona actually asks + the PBS answer), grouped by CFO / HR-Benefits / Broker / working-with-an-auditor, with **FAQPage schema**. It links *into* every cluster (each answer routes to the matching guide / glossary term / toolkit), so it functions as the buyer-anxiety entry point to the whole content graph and as a standalone AEO/citation asset. It is the evergreen counterpart to the "Ask Ginny" video format. Keep its Q&A in sync with the anxiety map.
-
-**Also in the plan:** the **deep-dive mirroring template** (`/articles/<slug>`) so the best Substack pillars become owned on-site articles (self-canonical), and the **glossary-term → standalone-page** graduation path (a high-traffic term earns its own page that the glossary entry links to).
+**Proof slots:** 3 testimonials + "as seen on" (Potter · SHRM Honest HR · Derms on Drugs) + the Proof Band. Visible phone + click-to-call in header/contact.
 
 ---
 
-# COMPANION FILES (detail this plan points to)
+# SECTION D — Sitewide schema + measurement (v2: measurement moved to Phase 0.5)
+
+Sitewide JSON-LD (header): `WebSite`+`SearchAction`, enriched `Organization` (contactPoint, foundingDate, areaServed, numberOfEmployees, **filled** `sameAs`), `Person` (Ginny). Per-page: Article+FAQ+Breadcrumb on guides (+`HowTo` on the how-tos), DefinedTermSet on glossary, **Service schema on Solutions and each money page (v2)**, CollectionPage on the library, DigitalDocument on toolkits. `llms.txt` served via Velo http-function (includes the answer-page map; already in the blueprint set).
+
+Measurement itself: see Phase 0.5 — it happens BEFORE the build so the build is measurable. The monthly rhythm afterward: GSC pull (automated), AI-visibility 20-prompt set, Wix AI Overview read, and the source-field distribution in the lead Sheet.
+
+---
+
+# SECTION E — Content map / topic clusters (unchanged from v1, plus the linking rule)
+
+The pillar/cluster table and FAQ-hub design stand as v1 wrote them (pillars: Contract Audit · Pricing & Spread · Rebates · Specialty & Clinical · Process/Choosing · Fiduciary & Compliance · Transparency/Category; FAQ hub built from `buyer_anxiety_map.md` with FAQPage schema; glossary-term graduation path; `/articles/` mirroring template). **v2 addition:** when building any cluster page, apply the Section C linking rule (one money page + one toolkit per page) and the answer-first opener. The Fiduciary & Compliance pillar gains an obvious future spoke: the Fiduciary File explainer; the Transparency pillar gains the Index page as its eventual hub.
+
+---
+
+# COMPANION FILES (v2)
 | File | Holds |
 |------|-------|
-| `website_mockups/site/wix_pages_build_runbook.md` | per-page Wix click-by-click (Phase 2) |
-| `website_mockups/site/geo_seo_plan.md` | the GEO/SEO strategy + structured-data blocks |
-| `substack_aeo_rules.md` | the 5-part rule for every Substack article (feeds the site via canonical links) |
-| `ai_visibility_tracker.md` | the monthly citation scoreboard (Phase 5) |
-| `entity_authority_offsite_plan.md` | Wikidata / Substack Recs / Reddit / listicles (Phase 5) |
-| `website_mockups/site/site.css` + `site/README.md` | the locked design system + build-of-record |
+| `MASTER_GAMEPLAN.md` | where this build sits in the everything-order (P1) + the rollout calendar |
+| `website_mockups/site/wix_pages_build_runbook.md` | per-page Wix click-by-click (note: v1 page order; Phase-2 order above governs) |
+| `request_a_call_form_spec.md` · `renewal_second_opinion_kit.md` · `standards_independent_pbm_review.md` · `fiduciary_file_onepager.md` · `pricing_architecture_memo.md` · `broker_partner_track.md` | the money/trust pages' copy sources (▼▲ blocks) |
+| `website_mockups/site/geo_seo_plan.md` + `site.css` + `site/README.md` | GEO/SEO strategy + locked design system |
+| `substack_aeo_rules.md` | the article-side rule (feeds the site via canonicals) |
+| `ai_visibility_tracker.md` · `entity_authority_offsite_plan.md` | scoreboard + off-site (Phases 0.5 and 5) |
 
 ---
 
-# DEFINITION OF DONE — one complete build
-- [ ] **Phase 0:** theme tokens + global header/footer + all reusable sections (incl. NEW author block, inline CTA, related-questions, one Lead-Form with source field) + sitewide schema saved. A new page can be assembled in ~15 min.
-- [ ] **Phase 1:** URL map frozen, Learn mega-menu live, breadcrumbs + redirect policy set.
-- [ ] **Phase 2:** 7 priority pages live; Home/Solutions/About/Insights/Toolkit refit to template.
-- [ ] **Phase 3:** every CTA routed through the one form; source field live; scheduler embedded; proof slots filled.
-- [ ] **Phase 4:** wave-2 cluster pages + deep-dive mirrors shipping on the template.
-- [ ] **Phase 5:** sitemap submitted; `sameAs` filled; Wikidata + Substack Recs live; tracker baseline run.
-- [ ] **Verify:** every page passes the schema validator + Rich Results Test; mobile + speed checked; `ai_visibility_tracker.md` shows rxbs.org appearing in answers.
+# DEFINITION OF DONE v2 — one complete build
+- [ ] **Phase 0:** tokens + header/footer + ALL reusable sections including the four v2 components; a new page assembles in ~15 min.
+- [ ] **Phase 0.5:** baseline run BEFORE pages ship; GSC+Bing sitemaps; IndexNow; Wix AI Overview on; conversion events + LLM-referrer segment + UTM convention defined; `sameAs` filled.
+- [ ] **Phase 1:** URL map v2 frozen (incl. the three reserved slugs); Learn + Why Us + For Brokers nav live; breadcrumbs + redirect policy.
+- [ ] **Phase 2 ⏱ Aug 15:** the conversion spine live (request-a-call → RSO → for-brokers → standards → how-we-charge → results shell → glossary → contract-language-library); live-site defects fixed; every page passes the linking rule + answer-first check.
+- [ ] **Phase 3:** remaining answer pages + refits (homepage last); toolkit retrofit (source field on the live funnel, done carefully).
+- [ ] **Phase 4:** wave-2 pages shipping on the template; reserved slugs activate as their gates clear.
+- [ ] **Phase 5:** off-site items executing; monthly measurement rhythm running.
+- [ ] **Verify:** schema validator + Rich Results on every page; mobile + speed pass; the tracker shows rxbs.org appearing in answers; the lead Sheet's source field shows AI/search rows arriving.
