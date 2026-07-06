@@ -4,6 +4,9 @@
 
 ---
 
+## 🟢 BUILD IS GO (Brett, Jul 6, 2026)
+**Incremental publish approved: pages go live as each is finished; a mixed old/new look during the build is explicitly accepted.** Two rules survive that: (1) nothing gets LINKED from emails/comments/campaign copy until its page renders and its form works (standing confirm-before-link rule); (2) `/request-a-call` must be live and end-to-end tested BEFORE `/renewal-second-opinion` publishes (its CTA depends on it) — the only hard ordering in the build. Design direction confirmed: the locked system with the v2 amendments (no scroll-reveal in v1, Plex typography, human layer added, conversion components); the dark-hero taste-check with Ginny happens before the Home rebuild, not before the spine pages.
+
 ## ⭐ HOW TO USE THIS WITH A CLAUDE SESSION (the co-pilot protocol)
 
 **Brett is not a Wix native. Any model walking him through a build MUST follow this protocol:**
