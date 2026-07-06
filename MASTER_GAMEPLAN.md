@@ -64,6 +64,28 @@
 34. Q2: **PBS Academy first course live** (SHRM PDCs) · peer circle convenes · product ladder + pricing decisions from the memo → site.
 35. H2: peer-reviewed paper submitted · broker certification v1 · co-op benchmark report #1 · Contract Camp decision for 2028.
 
+## THE COORDINATED ROLLOUT CALENDAR (how every new asset launches, and why in this order)
+
+The coordination logic in one sentence: **foundations publish quietly in July-August so that September's campaign can cite them, the campaign converts attention into conversations, and January's Index converts the year into category leadership.** Nothing launches into a vacuum; every asset is announced by the machinery that already runs (Substack, LinkedIn first comments, the briefing stage, the nurture emails) and every asset links to the ones before it.
+
+| When | Asset goes live | Coordinates with |
+|---|---|---|
+| **Jul W2-3** | Audio layer starts (quietest launch first; builds the habit) · decision memo cleared · measurement on | Audio needs zero promotion; it simply appears on Monday posts |
+| **Jul W3-4** | Request-a-call form + RSO page + /for-brokers built (not yet promoted) | Pages exist BEFORE anything links to them (the standing confirm-before-link rule) |
+| **Aug W1** | **Standards manifesto publishes** (/standards + a Field Note announcing it) · Aug 4 first monthly briefing email mentions it | The manifesto must predate the campaign so the RSO page's independence attestation cites a real published standard, not a claim |
+| **Aug W2** | **"How we charge" page + Fiduciary File language** go live on the site (quiet publish, no announcement) | Price transparency + the File must be findable BEFORE September traffic arrives and goes looking |
+| **Aug W3 ⏱ (Aug 19)** | **Briefing #1 registration opens** (LinkedIn Event + newsletter CTA); Dollar Fable at print proof | T-4 runway per the event playbook; the Fable's notecard references the briefing, so the date must be locked first |
+| **Sep W1 ⏱ (Sep 2-4)** | **Dollar Fable mails** to the 50 accounts · digital teaser NOT yet posted | Physical-first: recipients get it before the internet does; the notecard drives briefing registrations |
+| **Sep W1 ⏱ (Sep 8)** | **Renewal reactivation email** (07) → RSO page · **RSO promoted publicly** for the first time (renewal-topic first comments begin) | The email IS the offer's public launch; the page has been live and tested for 3 weeks by now |
+| **Sep W2 ⏱ (Sep 16)** | **Briefing #1** (renewal edition): presents the 90-Day Check, cites the Standards, closes on the RSO | The campaign's live convergence point; every question asked feeds the sales hour + anxiety map |
+| **Sep W3-4** | Dollar Fable digital derivatives (carousel + Substack piece) · Benchmark Co-op founding-cohort invites begin (briefing attendees + renewal calls) | Digital release AFTER the mailer landed; co-op recruiting rides the season's open conversations |
+| **Oct W1 ⏱** | 90-day windows close: last-call renewal content + sales hours at full protection | No new launches; October is harvest |
+| **Nov-Dec** | Index corpus + scoring (internal) · guarantee decision (data + counsel) → if yes, guarantee language onto pages | Quiet building season; the co-op's first read-backs go out as they accumulate |
+| **Jan W2-3 2027 ⏱** | **Index #1 + Fine Print Awards publish** (site + PDF + Substack + press one-pager) · journalists' data desk opens · briefing #2 presents it · peak-window LinkedIn push | The year's crescendo, landing in the documented Jan-Mar engagement peak; every 2026 asset feeds it (Standards = its criteria lineage, corpus = Decoder test data, briefing = its stage) |
+| **Q1 2027** | Decoder v1 (built on the corpus + Library) · counsel webinar · interview show · second voices | Each rides the Index's authority wave rather than competing with it |
+
+**The interlock rules that make it one system:** (1) nothing is publicly linked before the page renders (standing rule); (2) each asset's launch surface is an existing channel moment, never a standalone blast; (3) September gets no NEW asset types — everything arriving in September was built and quietly live by late August; (4) January's Index is the only launch allowed to interrupt the Q1 content calendar, because it IS the Q1 calendar's centerpiece; (5) any slip cascades DOWN the table, never sideways — if the RSO page slips a week, the reactivation email slips with it (the pair is inseparable), but the briefing date holds.
+
 ## Standing weekly rhythm (yours, ~2-3 hrs/wk, already automated where possible)
 
 - **Mon/Wed/Thu:** URL auto-fill + watchdog run themselves; you only act on a ⚠.
