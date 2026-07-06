@@ -46,22 +46,41 @@ _Created Jun 19, 2026. The scoreboard for "are we the cited authority in our spa
 
 ## Monthly snapshot
 
-### Baseline — _(to run)_
-Run the bank once to set the baseline, then monthly. Cells: ✅ cited (rxbs.org) / 🟨 cited via Substack only / ⬜ not cited.
+### Baseline — Jul 6, 2026 (Wix AI Visibility, ChatGPT / Gemini / Perplexity)
+
+First baseline, captured the day rxbs.org was submitted to GSC + Bing and the Wix AI Visibility test was configured with this prompt bank. Google AI Overviews + Claude columns are still **to run manually** (Wix's native tool covers only ChatGPT/Gemini/Perplexity).
+
+**Scores: ChatGPT 5% · Gemini 5% · Perplexity 5%.** 1 of 19 questions mentioned. _(19, not 20: Wix rejected "Who is Ginny Crisp, PharmD" as out-of-context — the About/bio page is too thin on entity content for the validator to place it. Re-add once the About page is built out. #6 and #16 had to be reworded to full-question form to pass.)_
+
+**The one-line read:** PBS is cited **only for its own name** ("What is Prescription Benefit Solutions" → mentioned on all three; ChatGPT pos 1/2, Gemini 7/7, Perplexity 5/10). Every **non-branded buyer question** (who can audit my PBM contract, PBM audit vs broker-led review, what is a rebate aggregator, run a PBM RFP) → **Not mentioned.** Classic "invisible unless they already know us." This is the gap the AEO page build closes.
+
+**Competitor visibility (who owns the non-branded answers):**
+- **Innovative Rx Strategies** — top 2 on both Gemini (63%) and Perplexity (58%). _Same direct competitor AD-6/AD-7 counter; they lead AI search too._
+- **SmithRx** — 63% Perplexity. Transparent Rx 37% (Gemini). Navitus 16–26%. Pillar Rx 11–26%. **PBS = 5%, rank #5** on both.
+
+**Top third-party sources the engines cite instead of rxbs.org (the pages to out-answer):** milliman.com (×5), federal-lawyer.com (×6), frierlevitt.com (×4), ajg.com PBM-auditing white paper (×4), smithrx.com "12 questions to ask your PBM" + "how employers thrive with self-funded plans" blogs (×4), wbcbaltimore.com/audit-your-pbm, legalclarity.org.
+
+**Brand perception (all three positive/neutral, and they converge on the SAME gaps):**
+- **ChatGPT — Positive.** Read PBS accurately as an "independent PBM auditor." Gaps: emphasizes "significant savings" but **limited public proof (case studies, metrics, methodologies)**; reads as high-level service copy, wants depth on how audits are conducted; small public/social footprint.
+- **Gemini — Neutral.** Gaps: **limited public reviews/testimonials**; smaller/niche market presence; website simplicity.
+- **Perplexity — Positive.** Sees the LinkedIn + Facebook presence. Gaps: **limited public info on team size, client case studies, measurable outcomes**; **no visible blog/news/educational content**; no detailed service breakdowns or transparent pricing.
+- **Convergent to-do (handed to us by the AI itself):** publish proof (→ /results + case studies + $78.7M metrics), methodology (→ Standards page + guides), testimonials, an on-site content hub, "how we charge" transparency. All already planned; this baseline confirms they're the priority.
+
+**Priority watch set (Wix data; Google AIO + Claude pending manual run). ✅ cited (rxbs.org) / 🟨 Substack only / ⬜ not cited:**
 
 | # | Prompt | ChatGPT | Perplexity | Google AIO | Gemini | Claude | Top competitor cited |
 |---|--------|:--:|:--:|:--:|:--:|:--:|---|
-| 1 | Best independent PBM audit firm | | | | | | |
-| 7 | What is spread pricing | | | | | | |
-| 8 | What is a rebate aggregator | | | | | | |
-| 11 | What is a PBM contract audit | | | | | | |
-| 13 | How do I audit my PBM contract | | | | | | |
-| 19 | Who is Ginny Crisp PharmD | | | | | | |
-| 20 | What is Prescription Benefit Solutions | | | | | | |
-_(expand to all 20 at baseline; the 7 above are the priority watch set.)_
+| 1 | Best independent PBM audit firm | ⬜ | ⬜ | — | ⬜ | — | Innovative Rx Strategies / SmithRx |
+| 7 | What is spread pricing | ⬜ | ⬜ | — | ⬜ | — | milliman / frier levitt |
+| 8 | What is a rebate aggregator | ⬜ | ⬜ | — | ⬜ | — | (third-party explainers) |
+| 11 | What is a PBM contract audit | ⬜ | ⬜ | — | ⬜ | — | ajg / smithrx |
+| 13 | How do I audit my PBM contract | ⬜ | ⬜ | — | ⬜ | — | smithrx / frier levitt |
+| 19 | Who is Ginny Crisp PharmD | n/a | n/a | — | n/a | — | _(rejected by Wix; About page too thin)_ |
+| 20 | What is Prescription Benefit Solutions | ✅ | ✅ | — | ✅ | — | — (branded) |
+_(Only the branded entity prompt is cited today. Non-branded = uniformly ⬜. That's the before-picture; the shift to ✅ as pages ship IS the leadership move working.)_
 
 ### Trend log
-- _(add a one-line monthly entry: how many of 20 cited rxbs.org, how many Substack-only, notable competitor movement, and the single asset built in response.)_
+- **Jul 6, 2026 (baseline):** 1 / 19 mentioned (branded only). Wix scores 5/5/5 (ChatGPT/Gemini/Perplexity). AI-referred sessions: 0 across all three. Competitors leading: Innovative Rx Strategies, SmithRx. Asset built in response: none yet — baseline set the same day GSC+Bing+IndexNow went live; next action is the 7 AEO answer pages (glossary/guides) to attack the non-branded queries + the /results proof page to close the perception gap all three engines flagged.
 
 ## Owned-asset map (what each query should resolve to)
 | Query family | Canonical owned page (rxbs.org) | Status |
@@ -74,7 +93,7 @@ _(expand to all 20 at baseline; the 7 above are the priority watch set.)_
 | Services / firm | `/solutions`, `/about` | live |
 
 ## Instrumentation (added Jul 3, 2026 plan review)
-- **Wix AI Visibility Overview** (native in Wix Analytics, launched mid-2026): automated citation/mention/sentiment tracking across ChatGPT/Gemini/Perplexity + competitor benchmarking. Enable it; it does the monthly heavy lifting. This manual 20-prompt bank stays as ground truth (prompt-sampling coverage differs).
+- **Wix AI Visibility Overview** (native in Wix Analytics, launched mid-2026): automated citation/mention/sentiment tracking across ChatGPT/Gemini/Perplexity + competitor benchmarking. **✅ ENABLED Jul 6, 2026** — configured with this prompt bank (19 of 20 accepted; the Ginny-entity prompt was rejected as out-of-context pending an About-page build); first baseline logged above. It does the monthly heavy lifting for 3 engines; this manual 20-prompt bank stays as ground truth and covers the 2 it misses (**Google AI Overviews + Claude — still to run manually**).
 - **Google Search Console generative-AI performance report** (rolling out since Jun 2026): AI Overviews + AI Mode impressions for rxbs.org. Watch for it appearing on the property; leave Google's AI-grounding toggle ON.
 - **GA4 "AI Assistant" channel** (May 2026): auto-classifies ChatGPT/Claude/Perplexity/Gemini referrals. Caveat: 35-70% of AI referrals arrive referrer-less (land in Direct) — the form's "How did you hear about us?" field is the ground-truth backstop.
 - **KPI hierarchy:** mentions > citations > AI-referred sessions > toolkit conversions. ~62% of AI citations never name the brand ("ghost citations") and Perplexity citations produce a visit only ~12-18% of the time, so track Cited? and named-mention separately when logging.
