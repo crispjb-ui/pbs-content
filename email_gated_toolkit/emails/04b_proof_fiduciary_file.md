@@ -49,7 +49,7 @@ Here is what the full version of this work produces, because it is
 two things, not one.
 
 The first is the findings. Across 132 pharmacy benefit reviews, our
-average identified savings ran several hundred thousand dollars per
+average documented savings ran several hundred thousand dollars per
 client. Each finding is documented with its dollar magnitude and the
 contract or claims basis behind it, so a finance committee can act
 on it rather than debate it.
