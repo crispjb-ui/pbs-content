@@ -27,6 +27,16 @@ jobs:
           claude_args: |
             --allowedTools "Read,Glob,Grep,Bash"
           prompt: |
+            GATES WATCHDOG (added Jul 6, 2026 — include a "Gates" section in the brief):
+            check and remind with the exact command to run, only where triggered:
+            (a) any wendell_potter_piece_*_draft.md whose status suggests submission is
+            near and whose header verify-flags are unstamped -> "run /verify-fact <file>";
+            (b) any MASTER_GAMEPLAN rollout-calendar item due within ~2 weeks whose asset
+            is in the high-stakes class -> "run /red-team <file> before publish";
+            (c) any case_studies/*.md capture older than ~2 weeks not yet processed ->
+            "run /build-case-study <file>" (or chase the permission);
+            (d) any Potter slot approaching per the cascade file with no draft -> "run
+            /draft-potter-piece <NN>". Omit the section if nothing triggers.
             Read CLAUDE.md and OPEN_ITEMS.md. Run the /pipeline-health slash
             command (.claude/commands/pipeline-health.md). Then write a concise
             Monday brief to /tmp/notify_body.md containing: (a) how many weeks are
