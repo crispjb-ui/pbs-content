@@ -520,8 +520,12 @@ That is not automatically bad. If they paired it with lifestyle, hit their goal,
 
 The persistence rate is the number most plans never track. From SHRM's Honest HR podcast.
 
+Does anyone report your plan's persistence rate today: the PBM, the vendor, or no one?
+
 #GLP1 #PharmacyBenefits #EmployeeBenefits
 ```
+
+_CTE A/B experiment (W30-W33, question arm): this post's closing question is deliberate. Log comments + impressions vs the W31/W33 statement-arm posts via /log-metrics._
 
 #### First Comment
 
@@ -675,7 +679,11 @@ Formulary changes. Biosimilar transitions. Network changes. PA rollouts. Each on
 The difference between a smooth transition and a complaint wave is not the clinical decision. It is the messaging.
 
 Next week: communicating pharmacy changes, and five scenario-specific templates that prevent the backlash.
+
+When your plan last changed its formulary, did members hear it from you first, or from the pharmacy counter?
 ```
+
+_CTE A/B experiment (W30-W33, question arm): this post's closing question is deliberate. Log comments + impressions vs the W31/W33 statement-arm posts via /log-metrics._
 
 #### First Comment
 

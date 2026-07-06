@@ -51,6 +51,9 @@ _Five conversion-side loops from the audit follow-up ("are there other routines 
 - [x] **✅ `weekly-sales-hour-brief`** — Friday 7:30a ET: posts Ginny's sales-hour queue (broker move + drafted touch note, stale rows, scoreboard pulse) to the rolling issue.
 - [ ] **🟧 Tier 2 enablers (Ginny, when doing the GSC key errand):** create a Google service account with read access to the "PBS Toolkit Leads" Sheet and add repo secret `GSHEET_SA_KEY` (makes sales-hour brief + KPI lead counts fully automatic); optionally add a Zapier step POSTing SQL/PARTNER alerts to the repo for auto-drafted first-touch notes.
 
+## 🧪 CTE QUESTION-ENDING A/B (built Jul 6, 2026 — runs W30-W33, verdict ~Sep 1)
+_Brett-approved. Question arm W30+W32 (Posts 110/112/118/120 now end with deliberate closed questions, marked in-file); statement control W31+W33 (unchanged). Thursday save-driven posts excluded. Design + decision rule: `linkedin_performance_tracker.md` → Active Experiment. `/log-metrics` logs arms weekly and computes the verdict after W33 matures; if questions win, the 6-beat CTE rule gets the refinement via approve→encode→/propagate-rule._
+
 ## 📦 PUBLISH-READY ASSET BANK + GAMEPLAN (Jul 5-6, 2026) — built, awaiting rollout slots
 _Everything from the pre-model-switch build-out. **`MASTER_GAMEPLAN.md` is the steering doc (P0-P5 order + the coordinated rollout calendar); `DECISIONS_FOR_GINNY.md` is her one-sitting decision queue.** Assets (each names its own gates + publish destination): Standards manifesto, Fiduciary File, findings-guarantee design, Renewal Second Opinion kit, sales playbook (internal), Index methodology, pricing memo + How-we-charge copy, Decoder spec, Benchmark Co-op spec, Dollar Fable brief, audio + certification quick-starts. Potter Pieces 2 + 3 drafted to the corrected standard + `wendell_potter_post_series_plan.md`. Nothing here re-decides; it executes via the gameplan._
 

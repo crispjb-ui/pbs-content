@@ -5,6 +5,13 @@
 
 ---
 
+## Active Experiment — CTE question endings (W30-W33, starts wk of Jul 20, 2026)
+**Why:** the 6-beat CTE rule allows "question or bold statement"; drafting defaulted ~100% to statements (9/9 sampled W28-W29 posts), so the comment-driving variant has never been measured. Comments are the heaviest-weighted 2026 engagement signal, but generic question-closers are engagement bait; only a sharp CLOSED question earns the test.
+**Design (4 weeks, Wed POV/video + Fri tease only; Thursday save-driven posts EXCLUDED to protect saves):**
+- **Question arm: W30 + W32** (Posts 110, 112, 118, 120 end with a deliberate closed question; marked in the week files).
+- **Statement arm (control): W31 + W33** (Posts 114, 116, 122, 124, unchanged).
+**Log per post:** CTE style · comments · impressions · any DMs/replies attributable. **Decision rule (after W33 matures, ~Aug 24 + 7 days):** if the question arm's comments-per-1K-impressions beats control by ~50%+ with no reach penalty, adopt "closed question endings on Wed/Fri text slots" into the 6-beat rule (statement stays the rule on save-driven posts); if reach drops or comments are flat, keep statements and close the experiment. Either way, log the verdict here and propagate via the standing approve→encode→/propagate-rule flow.
+
 ## Active Experiment — First-comment link timing (started Jun 20, 2026)
 **Why:** `/platform-research` surfaced a directional 2026 finding that LinkedIn may suppress a host post when an external link sits in the first comment ("bridge behavior"). Measured data is the house rule, so PBS settles it with its own A/B before any rule edit.
 **Hypothesis:** delaying the link comment until after the first-engagement window lifts host-post reach without losing the conversion path.
