@@ -23,4 +23,16 @@ Until the secret exists, the workflow runs but no-ops with these instructions (i
 
 ## Monthly snapshots
 
+### 2026-07-03 snapshot (28 days: 2026-06-06 to 2026-07-03) · property `https://www.rxbs.org/`
+
+**Totals:** no data
+
+**Top queries** (clicks · impressions · CTR · avg position):
+
+_No query rows returned (property may be new or low-traffic)._
+
+**Top pages:**
+
+_No page rows returned._
+
 _(none yet — the first snapshot appears here after `GSC_SA_KEY` is set and the workflow runs.)_
