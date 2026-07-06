@@ -1,6 +1,7 @@
 # The Standards for Independent PBM Review — v1.0 (publish-ready draft)
 
 **Status:** DRAFT for Ginny's authorship pass + counsel read of the independence criteria (Decision #6). Publishes as a page on rxbs.org (`/standards`, Content/Answer archetype, Article + DefinedTermSet JSON-LD per the site system) under Ginny's byline, and as a 2-page PDF in the toolkit visual system. Versioned: v1.0, revised annually each January with the Index.
+**⚠ RED-TEAM (Jul 6, 2026): PASSED attacks 1-6.** No named-company claims beyond public structure; independence criteria framed as PBS's own standard (broker-read clean); naming rule + no-em-dash clean; counsel gate on the criteria stands as the remaining publication gate.
 
 **Why this exists (internal):** whoever writes the standard leads the category. The independence criteria below describe Prescription Benefit Solutions' own model; they never name competitors. Readers, brokers, and journalists will do the comparative reading on their own.
 

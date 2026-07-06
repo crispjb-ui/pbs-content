@@ -29,7 +29,7 @@
 > That is genuinely good discipline, and I would not redo it. Two things an RFP does not do, though: it prices the contract you signed, not the contract as it behaves, and the drift between those two starts the day the ink dries. And an RFP is a point in time; the definitions, exclusion lists, and program terms amend along the way. A review two years after an RFP is usually where we find the difference between what was won at the table and what is happening in the claims.
 
 **"What does it cost?" (early, as a screen)**
-> Fair question, and I will answer it directly. [Range per the pricing memo.] For context, across one hundred thirty-two reviews our average identified savings ran several hundred thousand dollars per client, so the fee conversation usually ends up being about the size of a rounding error in the findings. If the numbers turn out to be a real constraint for your plan, I will tell you before we start, not after.
+> Fair question, and I will answer it directly. [Range per the pricing memo.] For context, across one hundred thirty-two reviews our average documented savings ran several hundred thousand dollars per client, so the fee conversation usually ends up being about the size of a rounding error in the findings. If the numbers turn out to be a real constraint for your plan, I will tell you before we start, not after.
 *(If the guarantee is approved, one added sentence: "And if we find nothing worth acting on, you will not owe us anything.")*
 
 **"Our pharmacy numbers look fine."**

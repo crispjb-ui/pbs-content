@@ -1,6 +1,7 @@
 # Pricing Architecture Memo — options for the product ladder (decision-ready)
 
 **Status:** for Ginny (Decision #13; a call, not a checkbox). This memo does not know PBS's current fees; it defines the ARCHITECTURE (how pricing is structured and presented). Ginny sets the numbers into whichever structure she picks. Includes the publish-ready "How we charge" page copy with bracketed slots.
+**⚠ RED-TEAM (Jul 6, 2026): PASSED with 2 fixes applied** (identified→documented on the $469K-class stat per the contracted/identified guardrail; "reliably finds"→"has consistently found" to keep the performance claim past-factual). Guarantee sentence remains slot-gated on Decision #14.
 
 ## The strategic frame
 
@@ -45,7 +46,7 @@ Most firms in pharmacy benefits do not publish how they are paid. There is usual
 
 **We charge fixed fees, set by the size of your plan.** A pharmacy benefit review is a defined piece of work: the contract, the claims, the findings, the Fiduciary File. You should know the cost before you say yes, and it should not change because the work got interesting. Engagements start at [$X] for plans under [1,000] lives, [$Y] through [4,999] lives, and [$Z] above that; the exact figure is confirmed in your proposal.
 
-**Some context for the number.** Across 132 pharmacy benefit reviews, our average identified savings ran several hundred thousand dollars per client. We publish that so the fee conversation can be an honest one: this work reliably finds multiples of what it costs. [Guarantee sentence slots here if approved: "If a full review identifies nothing worth acting on, you will not owe us a fee."]
+**Some context for the number.** Across 132 pharmacy benefit reviews, our average documented savings ran several hundred thousand dollars per client. We publish that so the fee conversation can be an honest one: this work has consistently found multiples of what it costs. [Guarantee sentence slots here if approved: "If a full review identifies nothing worth acting on, you will not owe us a fee."]
 
 **What happens after a review.** Most plans move into ongoing oversight: reviews on a set cadence, quarterly reporting reads, and a watch on every renewal window, so the committee's Fiduciary File stays current without anyone reconstructing diligence from memory. Ask us about oversight pricing when you talk with our team.
 
