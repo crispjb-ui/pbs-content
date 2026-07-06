@@ -64,6 +64,7 @@ jobs:
         with:
           anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
           claude_args: |
+            --model claude-sonnet-5
             --allowedTools "Read,Edit,Grep,Glob,Bash"
           prompt: |
             You are filling live Substack URLs into the CURRENT publish week's
