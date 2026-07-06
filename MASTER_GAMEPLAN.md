@@ -31,6 +31,7 @@
 13. 🟩⏱ **Ad test launch:** Campaign Manager + billing + Insight Tag + conversion event, then AD-6/AD-7 at $1.5-3K over 2-4 weeks. Needs ~3 weeks of data before a September scale decision, so start by mid-July.
 14. 🟩 **Weekly video starts** (V1 script is ready; editor re-renders the SHRM batch). Wednesday slot, every week.
 15. 🟦 **Briefing #1 locked:** date (Sep 16 rec.) + Zoom Webinar tier + registration page. ⏱ registration open by Aug 19 (T-4 weeks).
+15b. 🟦 **Funnel verifications (20 min, this week):** confirm the role-contextual Email 4/5 bodies actually got pasted into Zapier (OPEN_ITEMS flagged "pending paste" Jun 8 — the broker fork matters most), and check SPF/DKIM on the Outlook sender + Wix Email Marketing domain BEFORE the Sep 8 full-list send.
 16. 🟨 **Analysts: findings-distribution data pull** (`findings_guarantee_design.md` §data-pull) — decides whether the guarantee is offerable. ~1 day of work.
 17. 🟨 **Admin: SHRM Recertification Provider application** started (`audio_layer_and_certification.md` has the outline).
 18. 🟩 **Audio layer starts** (~15 min/week: Ginny reads the Monday deep dive; `audio_layer_and_certification.md` has the 5-step setup).
@@ -39,6 +40,8 @@
 
 19. 🟦⏱ **Aug 4: first monthly briefing email sends** (draft auto-lands Jul 25; you paste into Wix).
 20. 🟦⏱ **Aug 19: briefing promo runway begins** (T-4 per `quarterly_briefing_event.md`; LinkedIn Event + newsletter CTA line).
+20b. 🟦⏱ **Aug 15: Email funnel seasonal upgrades go live (drafted, paste-ready):** (a) Email 1 gets the renewal hot-path P.S. (`emails/01`, bottom block; remove Oct 15); (b) Email 5 swaps to the **v2 Three Ways Forward** close with the Renewal Second Opinion middle rung + seasonal timing insert (`emails/05` v2 section) — gated on the RSO page + call form being live, which the website P1 order guarantees by then; (c) mailto→form swap across emails 5/7/8 same day.
+20c. 🟦 **Email 4 → 4b swap (proof + Fiduciary File, `emails/04b`):** Variant B activates the moment counsel clears the File language (Decision #4); upgrade to Variant A when the first permissioned case story lands (Stand Together closeout). Kills the LinkedIn-newsletter pitch occupying Day 9.
 21. 🟩 **Fiduciary File language into the campaign** (`fiduciary_file_onepager.md` after counsel read) — the reframe that makes September's offer fiduciary protection, not a savings pitch.
 22. 🟨 **Closeout kit first live run** prepared for Stand Together findings (pharmacist engagement lead owns capture).
 23. 🟦 **Dollar Fable production** (`dollar_fable_creative_brief.md` to a designer; ~$1-2K) so the mailer drops to the 50 confirmed accounts in early September, landing with the campaign.

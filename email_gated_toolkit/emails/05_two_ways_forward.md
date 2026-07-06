@@ -114,3 +114,59 @@ Reply rate of 1-3% on a B2B sequence with this audience profile (VP Benefits, CF
 - The two-CTA structure respects readers at different intent levels
 - The price-anchor is implicit (don't list a price; the deliverable + timeline is the price signal)
 - The "Either way" closing line softens the ask and keeps the reader feeling welcome regardless of their decision
+
+
+---
+
+# v2 — THREE Ways Forward (added Jul 6, 2026 — ACTIVATE when /renewal-second-opinion is live; seasonal insert Aug 15-Oct 15)
+
+**Why:** the Day-14 close is currently binary (free Substack vs a 4-6 week Contract Review) — a big jump that loses the middle. The Renewal Second Opinion is the product ladder's entry rung and belongs here, especially in renewal season. Swap the Zapier Email 5 body for this version once the RSO page renders and the request-a-call form passes its live test (the CTAs below depend on both).
+
+## Body (paste-ready)
+
+```
+Hi {{first_name}},
+
+You have worked through three audit frameworks and a Field Note over
+the past two weeks. If they have been useful, here are three ways to
+keep the work going, in order of commitment.
+
+(1) Keep reading, free. The weekly deep dives and worksheets continue
+    at Benefit Blind Spots:
+    benefitblindspots.substack.com
+
+(2) Get a fast, independent read of your renewal. The Renewal Second
+    Opinion covers exactly what changed in your renewal terms and what
+    to push back on before you sign: days, not weeks, built to fit
+    inside a closing notice window.
+    rxbs.org/renewal-second-opinion
+
+(3) Run the full review. The Contract Review is the integrated version
+    of everything the worksheets do separately: a 4-6 week engagement
+    producing written findings with the dollar magnitude of each gap, a
+    clear recommendation (optimize the current contract, or go to
+    market), and your Fiduciary File, the documented record of the
+    process your committee followed.
+
+If either engagement sounds useful, or you want help deciding which:
+    rxbs.org/request-a-call
+
+A few sentences on where things stand is enough. Our team replies
+within one business day.
+
+Whichever way you go, thanks for reading these past two weeks.
+
+- Ginny
+
+Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+team@rxbs.org | www.rxbs.org
+```
+
+**Seasonal insert (Aug 15-Oct 15, add as the second paragraph):**
+```
+One timing note before the options: if your plan renews January 1,
+your termination and amendment notice windows likely close in early
+October. Whatever you choose below, choose it with that date in mind.
+```
+
+**Role variants:** the v1 role-customization table above still applies to option (3)'s framing; the broker row keeps the partner fork (never an audit pitch) with option (2) reframed as renewal-season capacity behind the broker's book.

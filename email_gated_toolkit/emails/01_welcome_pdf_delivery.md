@@ -72,3 +72,14 @@ Wix Email Marketing adds the unsubscribe link automatically in the footer. Verif
 
 - `{{topic_mechanic}}` / `{{first_toolkit_mechanic_phrase}}` — Wix form has a 4-more-fields cap; mechanic phrase didn't make the cut. Email 1 prose stays generic ("patterns we see across hundreds of PBM contracts a year") rather than topic-specific ("...patterns we see on per-channel margin"). Functional loss minor.
 - `{{slug}}` / UTM tracking — UTM params dropped from email body. Static link without UTM. Loses per-toolkit-origin attribution in Substack/site analytics. Can reintroduce if Wix Forms cap loosens.
+
+
+## Seasonal hot-path P.S. (added Jul 6, 2026 — add to the Zapier Email 1 body Aug 15-Oct 15, remove after)
+
+```
+P.S. If you are up against a renewal or notice deadline and want a
+pharmacist's read now rather than in two weeks, just reply to this
+email. We move fast in the fall.
+```
+
+_Why: a renewal-season downloader may be days from a notice window; the sequence otherwise makes them wait 14 days to hear any offer. Replies route per the standing pattern (Ginny + admin cc). Remove Oct 15 so the off-season sequence stays offer-free until Day 14._
