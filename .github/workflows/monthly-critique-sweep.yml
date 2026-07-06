@@ -68,6 +68,13 @@ jobs:
             4. Commit each week's fixes locally as its own commit
                ("Deep-critique sweep: week NN fixes"). Do NOT push; the next
                workflow step pushes.
+            4b. RED-TEAM SWEEP (added Jul 6, 2026): run `git log --since='35 days ago'
+               --name-only --pretty=format:` in Bash, and for any CHANGED file in the
+               high-stakes class (standards_independent_pbm_review.md, findings_guarantee_design.md,
+               transparency_index_methodology.md + scoring anchors, fiduciary_file_onepager.md,
+               paid_ads_bank.md ad copy, case_studies/published/*, wendell_potter_piece_*_draft.md),
+               run the /red-team process (.claude/commands/red-team.md) on it: apply mechanical
+               fixes, write judgment flags to the file header + the summary. Skip unchanged files.
             5. Write a compact summary (per week: N fixes applied, M residual
                ⚠ items with one-line reasons) to .sweep_summary.txt.
 
