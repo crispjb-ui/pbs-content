@@ -24,7 +24,7 @@
 ## MASTER CHECKLIST (the build at a glance — update as you go)
 
 **Phase 0 — template + components:** ☐ theme tokens ☐ header nav v2 ☐ footer ☐ saved sections (hero/byline/CTA/related/FAQ/lead-form) ☐ Seasonal Campaign Band ☐ Fiduciary File block ☐ Proof Band ☐ trust-cluster footer block ☐ sitewide schema
-**Phase 0.5 — measurement first:** ☐ robots.txt ☐ GSC sitemap ☐ Bing sitemap ☐ IndexNow on ☐ Wix AI Visibility on ☐ AI-visibility baseline run ☐ conversion events defined ☐ sameAs filled
+**Phase 0.5 — measurement first:** ✅ DONE (Brett, Jul 6, 2026) — GSC key + property verified (pull ran Jul 3 + Jul 6; first data expected within days), Bing import, IndexNow, Wix AI Visibility, sameAs filled, baseline run. Remaining: log the baseline results into `ai_visibility_tracker.md` (paste them to any session); Insight Tag rides the Jul 7 9 AM reminder; conversion events finalize when the call form ships.
 **Phase 2 — conversion spine (⏱ Aug 15):** ☐ /request-a-call ☐ /renewal-second-opinion ☐ /for-brokers ☐ /standards ☐ /how-we-charge ☐ /results ☐ /glossary ☐ /contract-language-library ☐ live-site defects fixed
 **Phase 3:** ☐ /what-we-are-seeing ☐ /faq ☐ 4 guides ☐ Home/Solutions/About/Insights refits ☐ toolkit retrofit (source field, carefully)
 
