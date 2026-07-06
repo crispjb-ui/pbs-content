@@ -121,6 +121,15 @@ Already built and running; listed so the plan is self-auditing:
 | Paid CPL disappoints | Pre-committed stop rule (4.5); organic + AEO remain the base case |
 | Key-person dependency (the BRAND routes through Ginny even though delivery doesn't) | 5.2 named methodology + 5.3 second-voices surface gradually make the firm the brand; the automation + playbooks ARE the institutional memory |
 
+## 8b. Known gaps register (named Jul 6, 2026 — real, deliberately unbuilt until their inputs exist)
+
+Five things this plan does NOT cover, each blocked on data or a relationship only Ginny/Brett can supply. Recorded so they surface at reviews instead of evaporating:
+1. **Existing-client expansion campaign** — the fastest revenue available: announce the Fiduciary File + oversight retainer to the current 203-client book (one Ginny letter + the PBR upgrade path). Blocked on: the client list + Ginny's go. Build: any session, one sitting, once unblocked.
+2. **Unit-economics model** — connect the KPIs to revenue and capacity (fee levels × conversation targets × delivery bench). Blocked on: Ginny's fee data (pairs naturally with pricing Decision #13). One page once known.
+3. **The counsel relationship, named** — six gated assets assume "counsel reviews this"; confirm WHO (benefits/advertising-savvy) and budget the Q4 review block. Settle in July, or the Q4 bold moves stall on one missing phone number.
+4. **Post-sale instrumentation** — renewal rate, a two-question satisfaction pulse at findings (via the closeout kit), and a why-didn't-it-repeat note. The retainer model and referral engine both depend on a loop the repo currently cannot see.
+5. **Owned-vs-rented lead share** — one added line in the monthly `/log-kpis`: % of the month's leads from owned channels (site, email, referral) vs LinkedIn. The platform-risk hedge, measured instead of assumed.
+
 ## 9. Decisions this plan needs from Ginny (in order)
 
 1. Renewal Second Opinion: name it + approve the one-pager scope (unlocks the September campaign's offer). 
