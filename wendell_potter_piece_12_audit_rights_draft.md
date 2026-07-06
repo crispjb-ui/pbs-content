@@ -1,0 +1,29 @@
+# Piece 12 — The Audit Rights Gap (draft v1, corrected standard; THE SERIES CLOSE)
+
+**Status:** DRAFT for Ginny. This is the landing: it must close the arc (reassemble the reform agenda) without becoming a recap list or a mic drop.
+**Arc:** Act III ch.3, final. Callback: Piece 11 (the right the RFP can win but only the contract keeps). Map anchor: the whole map, resolved. No handoff; the close points forward to the reform agenda itself (and, in life, to the annual report/Index that becomes the series' sequel).
+**Verify before submission:** none external; the strong/weak audit-clause patterns are PBS contract observation (consistent with the Contract Language Library's documented provisions).
+
+---
+
+## ▼ DRAFT BEGINS ▼
+
+**Working title: The Right to Look: The One Clause That Decides Whether Anything in This Series Can Be Checked**
+
+Imagine a checking account you are allowed to inspect only once a year, only during a window the bank schedules, only covering the previous ninety days, only after giving ninety days' notice, and only through an accounting firm the bank has approved, at your expense. You would not call that account transparent, whatever the brochure said. That is the audit clause in most PBM contracts, and it is where this series ends, because every promise described across the last eleven chapters comes down to whether the plan paying for it all is allowed to look.
+
+Walk the map one last time. The spread between prices: verifiable only through claims data. The rebate pass-through and the aggregator's cut: verifiable only through the rebate records. The specialty routing margins: verifiable only through per-channel pricing. The guarantee reconciliations, the fee layers, the assistance crediting math: all of it, checkable or not, depending on one section of the contract that most plan sponsors have never read. In the contracts I review, the audit right is nearly always present. That is the trap in it. The plan's lawyers see the heading, confirm the right exists, and move on. The hollowing happens in the conditions underneath.
+
+Here is what the conditions typically do, one restriction at a time. The look-back window is short, often twelve months, so problems older than the window are unfindable by design. The notice period is long, often ninety days, so the records can be assembled on the vendor's schedule. The auditor must frequently be mutually agreed or drawn from an approved list, which means the reviewer of the PBM's math is subject to the PBM's veto. The data arrives in the vendor's format, summarized in the vendor's categories, which can make the interesting questions unanswerable without the row-level detail that was not provided. And the plan pays for all of it regardless of findings, which prices smaller plans out of ever exercising the right at all. Each restriction has a plausible administrative rationale. Stacked, they convert a right into a ceremony.
+
+I can also tell you what the strong version looks like, because it exists, and not only in theory. The best contracts I have reviewed carry an audit right with a rolling look-back of eighteen months or more, an auditor of the plan's own choosing, reasonable notice measured in weeks, standardized claim-level data delivered on a clock, and a fee-shift when findings exceed a stated threshold, so that a vendor confident in its math bears no cost and a vendor with something to find funds its own discovery. Plans with that clause find things. Plans with the ceremonial clause do not, which is not evidence of clean books. It is evidence of a well-drafted lock.
+
+That contrast is why the reform here is the most leveraged one on the entire agenda. Congress does not need to referee spread pricing, rebate definitions, routing margins, and crediting math one practice at a time if it establishes the audit floor that lets every plan referee its own: an ERISA amendment guaranteeing self-funded plans a minimum audit right, with the plan's own designee, a look-back long enough to matter, standardized data, and fee structures that do not price out the mid-sized employer. State regulators should hold the same floor for the plans they oversee. Sunlight scales in a way that rule-by-rule enforcement never will.
+
+And that is the shape of the whole agenda this series has assembled, room by room. Disclosure that follows the dollar, whichever entity touches it. Firewalls where one vendor sits on every side of a transaction. Definitions written to external references instead of the vendor's own paper. Regulation aimed at economic effects rather than at names that can be changed. And underneath all of it, the audit floor, because none of the rest can be verified without the right to look. None of these reforms is exotic. Every one of them already exists somewhere, in some strong contract, some state statute, some agency's unused authority. The work is making the floor universal instead of negotiated.
+
+My view, at the end of twelve chapters, is simple, and it is the same thing I tell the plan sponsors I work for: opacity is not a feature of this industry that reform must somehow overcome. Opacity is the product. Price it that way, regulate it that way, and negotiate it that way, and the rest of the agenda follows. The black box this series opened was never locked from the inside.
+
+## ▲ DRAFT ENDS ▲
+
+**Production notes:** the close reassembles the agenda in ¶6 as connected prose (not a numbered recap; each element is a one-line restatement of its chapter's fix) · the final line resolves the black-box image from the Opening (arc spine closed) · no handoff (series end); the post-series plan's anthology/Index carries the "what's next" outside the piece · strong/weak clause patterns consistent with the Library's audit-rights provisions. Cascade: pairs to W23 Library 03 audit-rights content per the outline.
