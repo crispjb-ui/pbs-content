@@ -80,6 +80,31 @@ _Flag these in OPEN_ITEMS when proposing launch; do not assume they exist._
 - A conversion event defined (toolkit form submit / booking) so the loop can optimize on cost-per-lead, not just clicks.
 - Budget + target CPL set by Ginny.
 
+## MAXIMUM-CONVERSION PRE-LAUNCH CHECKLIST (added Jul 6, 2026 — the post-click layer; do ALL of this before the first dollar)
+
+The ads above are ready; conversion is won or lost after the click. These items turn "ads run" into "ads convert and the loop can optimize."
+
+**1. Install the Insight Tag NOW, weeks before spending.** Retargeting audiences only start populating from install day; installing at launch means AD-4 has an empty audience for its first month. Install during the website Phase 0.5 sitting so the site-visitor pool is already built when retargeting turns on (target: tag live by mid-July, AD-4 eligible by September, exactly when the renewal-season retargeting matters).
+
+**2. UTM convention + capture (without this, CPL is measurable but revenue-per-ad is not):**
+- Every ad URL carries `?utm_source=linkedin&utm_medium=paid&utm_campaign=<ad-id>` (e.g. `ad6-cfo-cost`).
+- **Velo capture spec (small build, ask a Claude session):** the toolkit page code reads the UTM params from the URL and passes them through `submitLead()` into the ToolkitLeads row + the Zapier payload + the Sheet row (one new `utm_campaign` column end-to-end). Result: every lead row says WHICH AD produced it, so the kill/scale loop runs on leads-that-became-SQL, not clicks.
+- The "How did you hear about us?" field stays independent (it catches dark/AI attribution); UTM catches paid.
+
+**3. Landing-page paid-readiness (cold traffic is not first-comment traffic).** Organic clickers arrive pre-warmed by a post; ad clickers arrive cold. Before launch, the destination toolkit pages (`pbm-compensation` first) get: (a) **message match** — the page's headline/first line must echo the ad's mechanism (a cold visitor who clicked "the aggregator takes its cut first" must see that idea within one second of landing, not a generic toolkit title); (b) the **independence line** ("no money from anyone in the pharmacy supply chain; not owned by a broker") visibly on the page, since it is AD-6/7's core wedge; (c) the **Proof Band** component once built (Phase 0); (d) a **phone-speed check** (LinkedIn ad traffic is predominantly mobile).
+
+**4. Conversion event = the form success state.** Wire the LinkedIn conversion on the toolkit form's success event (Insight Tag event-based conversion, or a `/thank-you` URL state if easier in Wix) so campaigns optimize toward leads, not clicks. Without this, LinkedIn optimizes CTR and quietly finds the cheapest clickers rather than the likeliest downloaders.
+
+**5. Landing pages over LinkedIn Lead Gen Forms for v1 (decision, recorded).** Native LGFs typically halve CPL but produce colder leads AND bypass the proven funnel (Velo → CMS → Zapier → Email 1-5 + scoring + alerts would all need a parallel LinkedIn-leads pipe). v1 optimizes for lead QUALITY through the funnel that already converts; revisit LGFs only if landing-page CPL comes in far above the <$40/<$60 dashboard targets.
+
+**6. Concentrate the test; don't smear it.** $1.5-3K across 2-4 weeks funds ONE lane at a time properly (LinkedIn needs ~50 conversions/campaign for its optimization to engage, and multi-campaign splits starve learning). Run AD-6 (CFO lane) first with its two hooks as the only A/B; AD-7 second if budget remains or as the follow-on test. Audience note: keep targeting broad enough to clear LinkedIn's ~50K-member efficiency floor; the 200-10,000-employee self-funded CFO set is workable nationally, but resist narrowing further. (The target-account list is too small for a matched-audience campaign; that is a later play if the list grows past ~300 companies.)
+
+**7. The September retargeting skin.** When AD-4 turns on (post-test, Insight Tag pool built), its seasonal variant points to `/renewal-second-opinion` with the notice-window urgency ("You pulled the worksheet. Your January 1 renewal closes its notice window in early October.") instead of the generic consult ask. Warm audience + deadline + entry offer is the highest-conversion configuration available in the whole plan; the generic consult version is the off-season fallback.
+
+**8. What the leads inherit (already built, listed so nobody rebuilds it):** paid leads flow into the same scoring (SQL/PARTNER alerts), the 5-email sequence, the post-sequence nurture (monthly briefing + Sep 8 reactivation + repeat-download follow-up), and the Friday sales hour. The nurture after-life is why a $40 toolkit lead is worth far more than its CPL: a June paid lead gets re-caught by the September renewal email at exactly the right moment.
+
+**Launch order, restated:** Insight Tag + UTM capture + conversion event + landing-page readiness → AD-6 test ($1.5-3K, 2-4 weeks, two hooks) → read CPL AND lead-tier mix (not CPL alone) → kill or scale per the pre-committed rule → AD-7 → AD-4 renewal skin in September → AD-5 unlocks when the proof page is live.
+
 ## Performance log (fill when live)
 _Once campaigns run, paste the LinkedIn Campaign Manager export here per ad: spend, impressions, CTR, CPL, leads, conversions. `/ads-research` then kills losers, scales winners, and iterates copy/creative._
 
