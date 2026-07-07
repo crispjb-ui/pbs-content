@@ -31,6 +31,8 @@ A few logistics questions as we set this up:
 
 4. Distribution: will the episode have a transcript or a YouTube version? If a transcript is not part of your standard workflow, I am glad to supply one after the episode airs.
 
+5. Repurposing: once the episode airs, we would like to cut short clips and pull quotes from it to share on our own channels, always with credit and links back to the show. Is that alright with your team, and are there any guidelines you would like us to follow?
+
 I have copied Traci Maland, who manages my calendar. Once you share your available recording windows, she can lock in a time with you directly.
 
 Suggested questions, in case they are helpful for shaping the conversation:
