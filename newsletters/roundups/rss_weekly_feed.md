@@ -1,202 +1,166 @@
 # Weekly RSS Feed Stories
 
-*Fetched: 2026-06-30 09:24 EDT. Lookback: past 7 days.*
+*Fetched: 2026-07-07 09:37 EDT. Lookback: past 7 days.*
 
 ---
 
-## Drug Channels
-
-### Drug Channels News Roundup, June 2026: PBM Shakeout Accelerates, 340B Enters a New Era, Rebate Questions Persist, Mark Cuban Wins Again, and Ge Bai’s HHS Nomination
-- **Date:** 2026-06-29
-- **URL:** https://feeds.feedblitz.com/~/958710788/0/drugchannels~Drug-Channels-News-Roundup-June-PBM-Shakeout-Accelerates-B-Enters-a-New-Era-Rebate-Questions-Persist-Mark-Cuban-Wins-Again-and-Ge-Bai%e2%80%99s-HHS-Nomination.html
-- **Summary:** Happy 250th birthday, America! Before you launch your semiquincentennial festivities, Drug Channels offers some fireworks of our own: The PBM Shakeout Is Gaining Momentum 340B: From Opacity and Expansion to Transparency and Accountability Why Do Many Employers Say They Don’t Receive 100% Of Their PBM Rebates? Mark Cuban Wins the Generic Price War (Again) Plus: Congratulations to Ge Bai on her nomination! P.S. Join my nearly 71,000 LinkedIn followers for links to neat stuff, along with unfiltere…
-
-### BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner
-- **Date:** 2026-06-26
-- **URL:** https://feeds.feedblitz.com/~/958454708/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html
-- **Summary:** Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, pharmacy network design, data visibility, and operational capabilities. Click here to learn more about BlinkRx’s patient services solution. Read on for Geoffrey and Matthew’s insights. Read more »© 2006-…
-
 ## KFF Health News
 
-### Would Hunters Take a Lyme Disease Vaccine? We Asked
-- **Date:** 2026-06-30
-- **URL:** https://kffhealthnews.org/public-health/hunters-lyme-disease-vaccine-ticks-attitudes-missouri/
-- **Summary:** American hunters skew conservative, rural, and male — all associated with increased hesitancy about or resistance to vaccines. At the same time, hunters spend more time than most people outdoors and potentially exposed to Lyme disease. So how do they feel about a potential new vaccine against the tick-borne illness?
+### Copay Assistance Is Meant To Defray Patient Drug Costs. Some Insurers Keep It Instead.
+- **Date:** 2026-07-07
+- **URL:** https://kffhealthnews.org/health-care-costs/copay-accumulator-adjustment-programs-patient-assistance-insurance-pharma-drugs/
+- **Summary:** Drugmakers provide financial assistance to help patients afford increasingly expensive medications. But some insurers do not count those payments toward a plan’s deductible or out-of-pocket maximum and make patients pay instead.
 
-### These Church Members Disagree on Politics. Together They’re Wiping Out Medical Debt.
-- **Date:** 2026-06-30
-- **URL:** https://kffhealthnews.org/insurance/medical-debt-common-ground-church-north-carolina/
-- **Summary:** Trinity Moravian Church, a politically diverse congregation in Winston-Salem, North Carolina, has been raising money to retire medical debt in the surrounding community.
+### Thousands of Medicare Beneficiaries Thought Their Drug Plan Was Free. Then They Lost It.
+- **Date:** 2026-07-07
+- **URL:** https://kffhealthnews.org/medicare/medicare-drug-plans-part-d-small-premium-increases-disenrollments-wellcare/
+- **Summary:** Thousands of people who had a Medicare drug plan with zero-dollar premiums last year got small premium increases this year — and didn’t know it. They were dropped from their coverage for failing to pay amounts as little as $8, and most can’t get it again until 2027.
 
-### He Dreamed of Becoming a Physician Assistant. New Loan Rules May Thwart Him.
-- **Date:** 2026-06-30
-- **URL:** https://kffhealthnews.org/health-industry/physician-assistant-professional-graduate-degrees-student-loan-limits/
-- **Summary:** Starting in July, the government will cap what graduate students may borrow in federal loans, forcing many toward private lenders with higher interest rates. The borrowing limits will affect students pursuing healthcare degrees, and some clinicians and student loan experts worry they may impede efforts to diversify the healthcare workforce.
+### In California Governor’s Race, Voters Face Stark Choice on Immigrant Healthcare
+- **Date:** 2026-07-06
+- **URL:** https://kffhealthnews.org/elections/california-governor-becerra-hilton-immigrant-healthcare-medicaid-medi-cal/
+- **Summary:** California’s next governor will face tough decisions on a highly controversial piece of healthcare policy: what to do about health coverage for the more than 1.4 million low-income residents without legal status. Democrat Xavier Becerra and Republican Steve Hilton present starkly different choices as public opinion wavers.
 
-### Florida Hospitals Act Fast To Discharge Gun Victims — Especially if They’re Not Insured
-- **Date:** 2026-06-29
-- **URL:** https://kffhealthnews.org/public-health/florida-hospitals-guns-gunshot-firearm-wounds-uninsured-discharge-data-analysis/
-- **Summary:** Uninsured patients made up about 1 in 4 of the more than 20,000 gunshot wound inpatient hospitalizations in Florida from 2018 to 2024, an analysis of state data by KFF Health News and The Trace found. They also had shorter hospital stays than those with any form of coverage.
+### New Medicaid Work Rule Means More Opportunities To Lose Coverage
+- **Date:** 2026-07-06
+- **URL:** https://kffhealthnews.org/medicaid/wamu-health-hub-audio-medicaid-work-rule-requirement-tips-coverage/
+- **Summary:** A work requirement is coming to Medicaid. Sam Whitehead tells WAMU’s “Health Hub” how to keep your coverage — and who’s exempt from the new rule.
 
-### She Struggled To Get a Lifesaving Drug Even After Insurers Vowed To Help
-- **Date:** 2026-06-29
-- **URL:** https://kffhealthnews.org/health-care-costs/prior-authorization-medicare-advantage-humana-missouri-bill-of-the-month-june-2026/
-- **Summary:** Margaret Hvatum ended up in the hospital after her insurer denied coverage of a medicine she relies on to boost her immune system. Hvatum got entangled in the preapproval process, which the insurance industry has vowed to improve.
+### Journalists Discuss Healthcare Costs’ Political Fallout, Concerns About Canceled ICE Facility
+- **Date:** 2026-07-03
+- **URL:** https://kffhealthnews.org/on-air/on-air-july-3-2026-healthcare-costs-midterms-ice-detention-center-georgia/
+- **Summary:** KFF Health News journalists made the rounds on national and local media recently to discuss topical stories. Here’s a collection of their appearances.
 
-### Reporters Talk Through FDA Sunscreen Move and Closure of Rural Dialysis Clinics
-- **Date:** 2026-06-27
-- **URL:** https://kffhealthnews.org/on-air/on-air-june-27-2026-fda-sunscreen-ingredient-filter-nebraska-rural-dialysis-clinics/
-- **Summary:** KFF Health News journalists made the rounds on national media last week to discuss topical stories. Here’s a collection of their appearances.
+### A Mom Said Infant Formula Killed Her Baby. The Manufacturer Closed the File.
+- **Date:** 2026-07-02
+- **URL:** https://kffhealthnews.org/health-industry/infant-formula-adverse-events-nec-baby-deaths-fda-reporting/
+- **Summary:** When makers of infant formula hear that babies got sick or died while using their products, what happens next is left largely to the manufacturers. They decide whether to inform the FDA about possible harm, which could trigger steps to protect the public.
 
-### Trouble Getting Weight Loss Drugs Covered by Insurance? Here’s What To Know
-- **Date:** 2026-06-26
-- **URL:** https://kffhealthnews.org/health-industry/health-care-helpline-glp-1-zepbound-weight-loss-insurance-coverage/
-- **Summary:** If your doctor prescribes a GLP-1 medication for weight loss but your insurance won’t cover it, you have options.
+### HealthQ Special: Caregiving in the Sandwich Generation
+- **Date:** 2026-07-02
+- **URL:** https://kffhealthnews.org/aging/healthq-special-sandwich-generation-caregiving-fmla-early-onset-cancer/
+- **Summary:** Join the conversation as the HealthQ team explores the messiness, humor, and satisfaction that comes with caregiving when you’re sandwiched between aging parents and growing kids.
 
-### Efforts To End School Vaccine Mandates Hit a Wall in Florida
-- **Date:** 2026-06-26
-- **URL:** https://kffhealthnews.org/health-industry/ending-vaccine-mandates-schools-florida-joseph-ladapo-measles/
-- **Summary:** The state’s campaign to end school vaccine requirements is dead for now. The reasons could offer insights into similar efforts’ chances in other states.
+### New Disease Threats Follow Trump Administration’s Health Program Cuts
+- **Date:** 2026-07-02
+- **URL:** https://kffhealthnews.org/public-health/new-disease-threats-follow-trump-administrations-health-program-cuts/
+- **Summary:** From screwworm to flesh-eating bacteria, mounting public health risks are emerging in the wake of deep cuts to federal health agencies and programs.
 
-### Medicare Advantage Company Pays $342M to Government in Midst of Billing Probe
-- **Date:** 2026-06-26
-- **URL:** https://kffhealthnews.org/medicare/medicare-advantage-cms-elevance-crackdown-overcharging-payment/
-- **Summary:** The payment by Elevance Health to the Centers for Medicare &#38; Medicaid Services comes as the agency threatened to bar new enrollments in the company’s plans.
+### Affordable Healthcare Emerges as a Voter Priority in Purple Nevada
+- **Date:** 2026-07-01
+- **URL:** https://kffhealthnews.org/elections/midterm-elections-nevada-governor-joe-lombardo-aaron-ford-affordability-healthcare/
+- **Summary:** The Trump administration’s cuts to Medicaid and SNAP may complicate Republican Gov. Joe Lombardo’s reelection chances.
 
-### Opioid Settlement Money Pays for Services To Battle Addiction in Rural Kentucky
-- **Date:** 2026-06-25
-- **URL:** https://kffhealthnews.org/health-industry/opioid-settlement-money-harm-reduction-services-rural-kentucky/
-- **Summary:** A program in rural eastern Kentucky is receiving opioid settlement funding to address substance use disorders, housing, hunger, and other challenges.
+### Newsom Vowed To Transform Kids’ Mental Health. Many California Schools Are Still Waiting.
+- **Date:** 2026-07-01
+- **URL:** https://kffhealthnews.org/mental-health/newsom-children-mental-health-initiative-schools-left-waiting/
+- **Summary:** Gov. Gavin Newsom launched an ambitious initiative to make public schools the epicenter of mental health services for young people. Five years after he promised transformation, many schools have struggled to get the program up and running, and hundreds more have yet to try.
 
 ## STAT News - Pharma
 
-### STAT+: The loophole in Trump’s obesity drug deal with Eli Lilly and Novo Nordisk
-- **Date:** 2026-06-30
-- **URL:** https://www.statnews.com/2026/06/30/medicare-medicaid-glp1-costs-explained-balance-out-bridge-in/?utm_campaign=rss
-- **Summary:** The Trump administration's grand bargain with drugmakers isn't working out as planned.
+### STAT+: Pharmalittle: We’re reading about a $10 billion Vertex deal, the pace of FDA drug approvals, and more
+- **Date:** 2026-07-07
+- **URL:** https://www.statnews.com/pharmalot/2026/07/07/vertex-buying-crinetics-fda-drug-approvals-kept-pace/?utm_campaign=rss
+- **Summary:** Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder
 
-### STAT+: FDA’s top gene therapy regulator is leaving his role
-- **Date:** 2026-06-29
-- **URL:** https://www.statnews.com/2026/06/29/vijay-kumar-exits-fda-office-of-therapeutic-products/?utm_campaign=rss
-- **Summary:** The departure of Vijay Kumar follows a broader leadership shakeup at the FDA.
+### STAT+: Vertex acquires Crinetics Pharmaceuticals for $10 billion as biotech M&A booms
+- **Date:** 2026-07-06
+- **URL:** https://www.statnews.com/2026/07/06/vertex-acquires-crinetics-pharmaceuticals/?utm_campaign=rss
+- **Summary:** Vertex Pharmaceuticals will spend $10 billion to acquire Crinetics Pharmaceuticals and its drug for a rare endocrine disorder, the companies said.
 
-### STAT+: AstraZeneca to pay $34 million to settle kickback charges filed by Texas attorney general
-- **Date:** 2026-06-29
-- **URL:** https://www.statnews.com/pharmalot/2026/06/29/astrazeneca-kickback-charges-texas-settlement/?utm_campaign=rss
-- **Summary:** AstraZeneca agreed to pay $34 million to settle claims that the company paid kickbacks to improperly influence prescriptions paid for by Texas Medicaid.
+### STAT+: Four major biotech updates to catch up on
+- **Date:** 2026-07-06
+- **URL:** https://www.statnews.com/2026/07/06/biotech-news-anthropic-ceo-dario-amodei-tempers-expectations/?utm_campaign=rss
+- **Summary:** Anthropic CEO talks drug discovery, Medicare proposes steep 340B drug payment cuts, and more biotech news
 
-### STAT+: Longevity, wellness physicians named to panel advising FDA on peptides
-- **Date:** 2026-06-29
-- **URL:** https://www.statnews.com/2026/06/29/new-fda-peptide-advisers-compounding-committee-conflicts/?utm_campaign=rss
-- **Summary:** The panel will soon consider whether to relax restrictions on certain peptides.
+### STAT+: Pharmalittle: We’re reading about a Novartis acquisition, Republicans backing clinical trial diversity, and more
+- **Date:** 2026-07-06
+- **URL:** https://www.statnews.com/pharmalot/2026/07/06/novartis-buys-myricx-republicans-back-clinical-trial-diversity/?utm_campaign=rss
+- **Summary:** Novartis is pushing deeper into antibody-drug conjugate development, paying $1.1 billion upfront to buy Myricx Bio
 
-### STAT+: Talawar bets bispecific approach can shake up eczema market
-- **Date:** 2026-06-29
-- **URL:** https://www.statnews.com/2026/06/29/biotech-news-talawar-bets-bispecific-approach-for-eczema/?utm_campaign=rss
-- **Summary:** Moderna still bullish on mRNA, Ipsen's acquisition of Kartos, and more biotech news from The Readout
+### STAT+: GOP lawmakers push Trump’s FDA to make sure clinical trials are diverse
+- **Date:** 2026-07-06
+- **URL:** https://www.statnews.com/2026/07/06/republican-lawmakers-attempt-clinical-trial-diversity-protection/?utm_campaign=rss
+- **Summary:** Supporters say clinical trial diversity is about making sure drugs and devices work, not about DEI.
 
-### STAT+: Pharmalittle: We’re reading about a broader $35 insulin cap, a former FDA cancer drug chief, and more
-- **Date:** 2026-06-29
-- **URL:** https://www.statnews.com/pharmalot/2026/06/29/insulin-cap-revival-former-fda-cancer-drug-chief/?utm_campaign=rss
-- **Summary:** The search for affordability wins is leading U.S. senators back to capping the cost of insulin at $35 in the private insurance market and for the uninsured
+### STAT+: I spoke to Anthropic’s CEO about how AI may affect biotech. Here’s what I learned
+- **Date:** 2026-07-06
+- **URL:** https://www.statnews.com/2026/07/06/anthropic-ai-biotech-impact/?utm_campaign=rss
+- **Summary:** Call AI in biotech hype at your peril. There are real reasons that pharmaceutical companies are embracing this technology right now.
 
-### STAT+: Moderna co-founder Kenneth Chien on the future of mRNA — and Moderna
-- **Date:** 2026-06-29
-- **URL:** https://www.statnews.com/2026/06/29/moderna-founder-kenneth-chien-on-cancer-vaccine-and-mrna-future/?utm_campaign=rss
-- **Summary:** In a Q&#38;A, Kenneth Chien, no longer with Moderna, predicts the company's mRNA cancer vaccine will be transformative for biotech.
+### STAT+: Lawmakers urge HHS to force Eli Lilly to provide 340B drug discounts to hospitals
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/pharmalot/2026/07/02/lawmakers-urge-lilly-to-provide-340b-drug-discounts-to-hospitals/?utm_campaign=rss
+- **Summary:** Lawmakers step into a dispute between Eli Lilly and hospitals about the 340b drug discount program.
 
 ### STAT+: Up and down the ladder: The latest comings and goings
-- **Date:** 2026-06-26
-- **URL:** https://www.statnews.com/pharmalot/2026/06/26/up-down-ladder-jobs-pharma-biotech-sanofi-biogen-lilly-pfizer/?utm_campaign=rss
-- **Summary:** From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/pharmalot/2026/07/02/pharma-biotech-jobs-ladder-vertex-gilead-astrazeneca-lilly/?utm_campaign=rss
+- **Summary:** Hired someone new and exciting? Promoted a rising star? Finally solved that hard-to-fill spot? Share the news with us, and we’ll share it with others.
 
-### STAT+: Embryo editing advances reignite ethical debates
-- **Date:** 2026-06-26
-- **URL:** https://www.statnews.com/2026/06/26/biotech-news-embryo-editing-advances-reignite-ethics-debates/?utm_campaign=rss
-- **Summary:** Cassidy targets 340B, Eli Lilly's mysterious retatrutide patient, and more biotech news from The Readout
+### STAT+: What does DeGette’s loss mean for pharma?
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/2026/07/02/degette-loses-to-kiros-pharma-presidential-fitness-test-dc-diagnosis/?utm_campaign=rss
+- **Summary:** Colorado Democratic Rep. Diana DeGette, who lost her primary, was knowledgeable about biopharma, if not always a friend to the industry.
 
-### STAT+: Pharmalittle: We’re reading about a bill to overhaul the 340B program, a new FDA commissioner candidate, and more
-- **Date:** 2026-06-26
-- **URL:** https://www.statnews.com/pharmalot/2026/06/26/bill-overhaul-340b-program-new-fda-commisioner-candidate/?utm_campaign=rss
-- **Summary:** And so, another working week will soon draw to a close. Not a moment too soon, yes? This is, you may recall, our treasured signal to daydream about weekend plans.&#8230;
+### STAT+: Roche drug sets new standard for KRAS-driven lung cancer
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/2026/07/02/biotech-news-roche-drug-sets-new-standard-for-kras-driven-lung-cancer/?utm_campaign=rss
+- **Summary:** Biotech's bull market, Vertex's gene therapy expansion, and more news from The Readout
 
-### STAT+: European antitrust regulators probe Sanofi for allegedly disparaging a rival flu vaccine
-- **Date:** 2026-06-26
-- **URL:** https://www.statnews.com/pharmalot/2026/06/26/european-antitrust-regulators-probe-sanofi-for-allegedly-disparaging-rival-flu-vaccine/?utm_campaign=rss
-- **Summary:** The European Commission is investigating Sanofi for allegedly breaching antitrust rules by running a “misleading” campaign about a flu vaccine.
+### STAT+: Pharmalittle: We’re reading about a court win for Amgen, Novo seeking supplier discounts, and more
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/pharmalot/2026/07/02/amgen-court-win-novo-seeking-supplier-discounts/?utm_campaign=rss
+- **Summary:** U.S. judge blocked a Colorado state panel from placing a cap on the price of Amgen's blockbuster drug Enbrel
 
-### STAT+: Cassidy proposes bill to rein in 340B drug discount program
-- **Date:** 2026-06-25
-- **URL:** https://www.statnews.com/2026/06/25/cassidy-bill-rein-in-340b-drug-discount-program/?utm_campaign=rss
-- **Summary:** Placing new limits on the 340B drug discount program would be a fresh challenge for hospitals as they confront funding cuts.
+### STAT+: U.S. judge blocks Colorado’s first-of-its-kind price cap on an Amgen drug
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/pharmalot/2026/07/02/judge-blocks-colorado-price-cap-on-amgen-enbrel/?utm_campaign=rss
+- **Summary:** A federal judge blocked a Colorado state panel from placing a cap on the price of Enbrel, a blockbuster drug sold by Amgen
 
-### STAT+: Democrats press White House on who got special access to Eli Lilly’s new obesity drug
-- **Date:** 2026-06-25
-- **URL:** https://www.statnews.com/2026/06/25/senate-hassan-questions-rfk-jr-eli-lilly-retatrutide-trial-trump/?utm_campaign=rss
-- **Summary:** The unusual access to an experimental drug has captured the attention of the American public as well.
+### STAT+: A former AI regulator, now in industry, says biopharma is reading FDA’s guidance wrong
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/2026/07/02/fda-ai-guidance-pharma-industry-caution-tala-fakhouri-explains/?utm_campaign=rss
+- **Summary:** Companies are being too conservative in how they interpret FDA's AI guidance, but the agency can do more to help, too, Tala Fakhouri says.
 
-### STAT+: The China debate gets louder in Washington
-- **Date:** 2026-06-25
-- **URL:** https://www.statnews.com/2026/06/25/biotech-news-the-china-debate-gets-louder-in-washington/?utm_campaign=rss
-- **Summary:** A boom in GLP-1s and health care costs, AI-designed hair growth drugs, and more biotech news from The Readout
+### STAT+: A year after distressed buyout, what’s become of Bluebird Bio?
+- **Date:** 2026-07-02
+- **URL:** https://www.statnews.com/2026/07/02/genetix-david-meek-bluebird-bio-turnaround-effort/?utm_campaign=rss
+- **Summary:** Bluebird Bio was a dark biotech morality tale when David Meek bought it. He says the new company, Genetix, is already making money.
 
-### STAT+: Pharmalittle: We’re reading about weight loss drug spending, launch prices for medicines, and much more
-- **Date:** 2026-06-25
-- **URL:** https://www.statnews.com/pharmalot/2026/06/25/weight-loss-drug-spending-launch-prices-for-medicines/?utm_campaign=rss
-- **Summary:** The latest pharmaceutical news from the Pharmalot campus via the Pharmalittle newsletter
+### STAT+: Pharmalittle: We’re reading about Anthropic drug development goals, Trump drug plan snags, and more
+- **Date:** 2026-07-01
+- **URL:** https://www.statnews.com/pharmalot/2026/07/01/anthropic-drug-development-goals-trump-plan-hitting-snag/?utm_campaign=rss
+- **Summary:** Anthropic announced the availability of Claude Science, which optimizes its large language model for use in scientific labs and by drugmakers
 
-### STAT+: Biosecure didn’t stop China’s rise in biotech. Some lawmakers want to do more
-- **Date:** 2026-06-25
-- **URL:** https://www.statnews.com/2026/06/25/china-biotech-next-steps-after-biosecure-act/?utm_campaign=rss
-- **Summary:** They're laying the groundwork for legislation and regulation to counter Chinese biopharma companies.
+### STAT+: More signs that GLP-1s may help with peripheral artery disease
+- **Date:** 2026-07-01
+- **URL:** https://www.statnews.com/2026/07/01/biotech-news-glp-1s-may-help-with-peripheral-artery-disease/?utm_campaign=rss
+- **Summary:** Anthropic will begin developing drugs, BridgeBio pockets a billion, and more biotech news from The Readout
 
-### STAT+: Eli Lilly dives into hair loss treatments with investment in AI startup Absci
-- **Date:** 2026-06-24
-- **URL:** https://www.statnews.com/2026/06/24/eli-lilly-absci-hair-loss-treatments/?utm_campaign=rss
-- **Summary:** Eli Lilly is investing in a small startup developing a medication to spur hair growth, and potentially also treat endometriosis.
+### STAT+: AI company Anthropic announces it will begin developing drugs of its own
+- **Date:** 2026-06-30
+- **URL:** https://www.statnews.com/2026/06/30/anthropic-ai-drug-development/?utm_campaign=rss
+- **Summary:** AI giant Anthropic has already become a dominant player in technology and a household name for everyday users of artificial intelligence. Can it make drugs too?
 
-### STAT+: U.S. health spending rose sharply in 2025, thanks to GLP-1 use and more care
-- **Date:** 2026-06-24
-- **URL:** https://www.statnews.com/2026/06/24/health-care-spending-up-7-point-3-percent-6-trillion-dollars-2026/?utm_campaign=rss
-- **Summary:** People are getting more care and using lots of GLP-1 drugs, fueling a sharp increase in health care spending.
+### STAT+: Anthropic releases Claude Science, a product aimed at researchers, the pharma industry
+- **Date:** 2026-06-30
+- **URL:** https://www.statnews.com/2026/06/30/anthropic-release-claude-science-ceo-dario-amodei/?utm_campaign=rss
+- **Summary:** Anthropic released Claude Science, an application that optimizes its large language model for scientists and, especially, those doing research at pharma companies.
 
-### STAT+: At BIO, a glimpse behind Lilly and Chai’s partnership
-- **Date:** 2026-06-24
-- **URL:** https://www.statnews.com/2026/06/24/biotech-news-bio-2026-glimpse-behind-lilly-and-chai-partnership/?utm_campaign=rss
-- **Summary:** RIP Sangamo, onshoring with drug manufacturing, and more biotech news from The Readout
-
-### STAT+: Pharmalittle: We’re reading about an FDA commissioner candidate, Germany’s plans for drug prices, and more
-- **Date:** 2026-06-24
-- **URL:** https://www.statnews.com/pharmalot/2026/06/24/fda-commissioner-candidate-germany-plans-for-drug-prices/?utm_campaign=rss
-- **Summary:** Regenxbio plans to apply for accelerated approval for its gene therapy for Duchenne muscular dystrophy.
+### STAT+: Investors double down on Bain-backed startup
+- **Date:** 2026-06-30
+- **URL:** https://www.statnews.com/2026/06/30/biotech-news-investors-double-down-on-bain-backed-capital/?utm_campaign=rss
+- **Summary:** FDA's top gene therapy regulator steps down, Trump's plan to lower GLP-1 prices, and more biotech news
 
 ## PCMA Blog
 
-### Helping Patients with Smarter Prescribing: Pillar One of The Path to Patient Affordability
-- **Date:** 2026-06-29
-- **URL:** https://www.pcmanet.org/pcma-blog/helping-patients-with-smarter-prescribing/
-- **Summary:** PCMA’s Path to Patient Affordability outlines six patient-focused actions that policymakers in Washington and state capitals can take to lower prescription drug costs. In this post, we take a close look at the first policy pillar and how it can help provide transparency, prevent surprise pharmacy costs, encourage competition, and create a better experience for [&#8230;] The post Helping Patients with Smarter Prescribing: Pillar One of The Path to Patient Affordability first appeared on PCMA.
+### Supporting Independent Pharmacists and Expanding Patient Access: Pillar Two of the Path to Patient Affordability
+- **Date:** 2026-07-06
+- **URL:** https://www.pcmanet.org/pcma-blog/supporting-independent-pharmacists-and-expanding-patient-access-pillar-two-of-the-path-to-patient-affordability/
+- **Summary:** More than 100 million Americans lack access to primary care. Yet one of the most accessible health care professionals in America, the community pharmacist, is often prevented from providing the full range of care they&#8217;re trained to deliver. In this post, we explore the second pillar in PCMA’s Path to Patient Affordability – how modernizing primary care can help bridge that access gap. Pillar 2: Protect the viability of independent retail pharmacies [&#8230;] The post Supporting Independen…
 
-### PBMs in Action: Delivering Savings for American Employers
-- **Date:** 2026-06-25
-- **URL:** https://www.pcmanet.org/pcma-blog/pbms-in-action-delivering-savings-for-american-employers/
-- **Summary:** Last week, we explored how pharmacy benefit managers (PBMs) take sky-high prescription drug prices and make those medications affordable for patients. Today, a simple question: If hiring a PBM is optional, why do nearly all employers and unions choose to use one? Here are some quick facts: For every $1 an employer spends on PBM services, total costs drop by $10. PBMs save employers and patients 40-50% on their annual drug and related medical costs. 93% of employers are [&#8230;] The post PBMs i…
-
-### What’s Our Why? The Patient Impact Driving PCMA’s New Path to Patient Affordability
-- **Date:** 2026-06-24
-- **URL:** https://www.pcmanet.org/pcma-blog/whats-our-why-the-patient-impact-driving-pcmas-new-path-to-patient-affordability/
-- **Summary:** Behind every policy proposal in PCMA’s new Path to Patient Affordability (PPA), there are real challenges faced by patients that motivate our advocacy. Here are the six policy pillars of the PPA, and why we&#8217;re prioritizing each: 1. Encourage doctors to use electronic tools that show patients their lowest-cost drug options before they get to the pharmacy Why? This is [&#8230;] The post What’s Our Why? The Patient Impact Driving PCMA’s New Path to Patient Affordability first appeared on PCM…
-
-## Google Alert - Pharmacy Benefit Manager + lawsuit
-
-### Florida investigates CVS Caremark over alleged anticompetitive PBM practices
-- **Date:** 2026-06-29
-- **URL:** https://www.google.com/url?rct=j&sa=t&url=https://www.benefitspro.com/2026/06/29/florida-investigates-cvs-caremark-over-alleged-anticompetitive-pbm-practices/&ct=ga&cd=CAIyGjExYmQzNzYyYmNkMTJjOTE6Y29tOmVuOlVT&usg=AOvVaw071K88QKK3Xwo8VxisOs6d
-- **Summary:** Florida Attorney General James Uthmeier has launched an antitrust investigation into CVS Health and its pharmacy benefit manager, Caremark, adding&nbsp;...
-
-## Google Alert - spread pricing + legislation
-
-### Pharmacy benefit managers, US <b>FTC</b> agree to end appeal over in-house insulin suit | MLex
-- **Date:** 2026-06-29
-- **URL:** https://www.google.com/url?rct=j&sa=t&url=https://www.mlex.com/articles/2495008/pharmacy-benefit-managers-us-ftc-agree-to-end-appeal-over-in-house-insulin-suit&ct=ga&cd=CAIyGmNjMWY2ODYzYjcxMGM3ZTE6Y29tOmVuOlVT&usg=AOvVaw3IKIQfGGXeKhc4qr_i2ltY
-- **Summary:** ... PBM's suit challenging the constitutionality of the FTC's administrative proceedings and the agency's insulin suit against them. Accordingly, the&nbsp;...
+### PCMA’s David Marin Joins Hugh Hewitt to Talk PBMs, Drug Prices, and How Congress Can Deliver Affordability to American Families
+- **Date:** 2026-07-02
+- **URL:** https://www.pcmanet.org/pcma-blog/pcmas-david-marin-joins-hugh-hewitt/
+- **Summary:** Yesterday, Pharmaceutical Care Management Association President and CEO David Marin joined The Hugh Hewitt Show for a wide-ranging discussion about the role PBMs play in lowering prescription drug costs, recent landmark PBM reform, and the growing need for Congress to finally address Big Pharma’s patent abuse. Marin opened by explaining why PCMA is taking a [&#8230;] The post PCMA’s David Marin Joins Hugh Hewitt to Talk PBMs, Drug Prices, and How Congress Can Deliver Affordability to American F…
