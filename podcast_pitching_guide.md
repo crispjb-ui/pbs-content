@@ -307,7 +307,7 @@ After each podcast recording:
 | Podcast | Date Pitched | Topic | Response | Recording Date | Air Date | Follower Impact |
 |---------|-------------|-------|----------|----------------|----------|-----------------|
 | SHRM — Honest HR | (Q1) | GLP-1s | Appeared · 5 clips built | - | youtube.com/watch?v=BZyuiWCY-08 | +1 podcast booking |
-| | | | | | | |
+| The Health Policy Podcast (Bryan Hyde, Salem Media) | Inbound Jul 6, 2026 (producer Quin McCarthy) | State PBM reform, vertical integration, employer/pharmacy/patient impact | Reply drafted (logistics Qs + 10 suggested questions; Traci scheduling) · prep: `podcast_prep_health_policy_podcast.md` | TBD | TBD | pending |
 | | | | | | | |
 
 **Q2 Target:** 2-3 appearances
