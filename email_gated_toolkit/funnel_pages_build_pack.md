@@ -60,7 +60,7 @@ The #1 failure mode on Wix forms is mismatched element IDs (see the `WIX_SETUP_T
 ## 1c. JSON-LD schema (paste into Wix SEO Settings → this page → Advanced → Structured data markup)
 
 ```
-{"@context":"https://schema.org","@type":"ContactPage","name":"Request a Call — Prescription Benefit Solutions","url":"https://www.rxbs.org/request-a-call","description":"Request a call with Prescription Benefit Solutions to talk through a PBM contract review, renewal second opinion, or claims review.","isPartOf":{"@type":"WebSite","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org"},"about":{"@type":"Organization","@id":"https://www.rxbs.org/#organization"}}
+{"@context":"https://schema.org","@type":"ContactPage","name":"Request a Call — Prescription Benefit Solutions","url":"https://www.rxbs.org/request-a-call","description":"Request a call with Prescription Benefit Solutions to talk through a PBM contract review, renewal second opinion, or pharmacy benefits review.","isPartOf":{"@type":"WebSite","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org"},"about":{"@type":"Organization","@id":"https://www.rxbs.org/#organization"}}
 ```
 
 ## 1d. CMS collection to create first — `CallRequests`
