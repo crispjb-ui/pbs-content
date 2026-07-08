@@ -122,6 +122,8 @@ Reply rate of 1-3% on a B2B sequence with this audience profile (VP Benefits, CF
 
 **Why:** the Day-14 close is currently binary (free Substack vs a 4-6 week Contract Review) — a big jump that loses the middle. The Renewal Second Opinion is the product ladder's entry rung and belongs here, especially in renewal season. Swap the Zapier Email 5 body for this version once the RSO page renders and the request-a-call form passes its live test (the CTAs below depend on both).
 
+> ⚠ **When you activate this v2, also update the `/thank-you` page in the same pass.** Its "What happens next" item 5 currently says "the two ways forward" — change it to the three-ways-forward wording (see `funnel_pages_build_pack.md` §2b, item 5). The thank-you page narrates this exact sequence, so an Email 5 change that isn't mirrored there leaves the two out of sync.
+
 ## Body (paste-ready)
 
 ```

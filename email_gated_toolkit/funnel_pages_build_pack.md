@@ -136,6 +136,8 @@ Job: the post-submit confirmation the toolkit forms redirect to (fixes the "phan
 4. **Day 9:** an invitation to The Pharmacy Benefits Briefing, the weekly executive briefing on LinkedIn.
 5. **Day 14:** the two ways forward. Stay free with the publication, or talk with us about a PBM contract review.
 
+> ⚠ **KEEP IN SYNC WITH THE EMAIL FLOW.** This "What happens next" list narrates the live Day 0/2/5/9/14 sequence, so any change to the email flow/offers must update this page in the same pass. **Known pending change:** when Email 5 flips to the v2 "THREE Ways Forward" (`05_two_ways_forward.md` v2, activates when `/renewal-second-opinion` is live ~Aug 15), update item 5 to: *"**Day 14:** the three ways forward. Stay free, get a fast Renewal Second Opinion, or run a full PBM contract review."* Same rule applies to any future cadence/offer edit (new day, changed offer, added rung).
+
 **Secondary CTA — "Get the weekly publication free":** Benefit Blind Spots ships a deep dive every Monday and a tactical Field Note every Thursday. Subscribe before the next email arrives.
 Button → `https://benefitblindspots.substack.com?utm_source=wix&utm_medium=thank-you&utm_campaign=toolkit-thankyou`
 
