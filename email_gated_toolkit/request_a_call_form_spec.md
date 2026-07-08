@@ -10,7 +10,7 @@
 
 - **Page:** `rxbs.org/request-a-call` (Wix, Utility/Conversion archetype, same visual system as the toolkit landing pages).
 - **Replaces mailto links in:** Email 5 (`05_two_ways_forward.md` CTA), the role-branched Email 5 closes (`role_funnel_plan.md` §5 CTAs), Email 7 reactivation (when live), Email 8 repeat follow-up, the `/for-brokers` page CTA (`broker_partner_track.md`), and site contact CTAs as pages get rebuilt. `team@rxbs.org` remains published as a secondary option everywhere; some senior buyers simply prefer email.
-- **Link pattern with topic pre-set:** `rxbs.org/request-a-call?topic=contract-review` (also `renewal-second-opinion`, `broker-partnership`, `claims-review`, `general`). Velo reads the query param and pre-selects the topic dropdown, so each CTA lands contextually.
+- **Link pattern with topic pre-set:** `rxbs.org/request-a-call?topic=contract-review` (also `renewal-second-opinion`, `broker-partnership`, `pharmacy-benefits-review`, `general`). Velo reads the query param and pre-selects the topic dropdown, so each CTA lands contextually.
 
 ## 2. Form fields (5 visible, mirrors the proven toolkit form pattern)
 
@@ -19,7 +19,7 @@
 | 1 | First name | text | yes | |
 | 2 | Work email | email | yes | |
 | 3 | Company | text | yes | |
-| 4 | What would you like to talk through? | dropdown | yes | Options: Contract review · Renewal second opinion · Claims review · Broker/consultant partnership · Something else. Pre-set by `?topic=` when present. |
+| 4 | What would you like to talk through? | dropdown | yes | Options: Contract review · Renewal second opinion · Pharmacy Benefits Review · Broker/consultant partnership · Something else. Pre-set by `?topic=` when present. |
 | 5 | Anything we should know before the call? + preferred timing | textarea | no | Placeholder: "A few sentences on your situation, and whether mornings or afternoons generally work better." One free-text field covers both context and time preference without exposing any calendar. |
 
 No role/size fields here: if the lead came through the toolkit funnel we already have them (match on email); if not, the admin asks on the scheduling thread. Shortness is the point.
@@ -43,5 +43,5 @@ A call request is answered by the admin **within one business day**, even if onl
 ## 6. Build checklist
 
 - [x] Claude: draft the Wix page copy block + Velo page/backend code files. ✅ Done — Velo files `velo_call_request_page_code.js` + `velo_backend_callRequest.web.js`; paste-ready page copy, form/element-ID spec, schema, CMS fields, and both emails in `funnel_pages_build_pack.md` (Jul 6, 2026).
-- [ ] Ginny: create the `CallRequests` collection, build the page, wire the notification recipients, publish.
-- [ ] Claude: sweep every mailto CTA (emails 5/7/8, role plan §5, broker track, week files' newsletter first comments where applicable) to the form URL with the right `?topic=` once the page is confirmed live. Do not swap any link before the page renders (same confirm-before-link rule as toolkits).
+- [x] Ginny: **form** built and **live** at `rxbs.org/request-a-call`; notification chain wired via Zapier (Catch Hook → team notification email w/ lead tier/downloads/source → requester confirmation email), **both tested and confirmed Jul 8, 2026**. Topic dropdown "Claims review" → **"Pharmacy Benefits Review"** (Velo `TOPIC_MAP` synced in repo; `?topic=` key = `pharmacy-benefits-review`). _Still open on this page:_ surrounding page copy (eyebrow/H1/subhead/reassurance/secondary-email/privacy lines from `funnel_pages_build_pack.md` §1b) + JSON-LD schema (§1c) — the form is bare otherwise.
+- [ ] Claude: sweep every mailto CTA (emails 5/7/8, role plan §5, broker track, week files' newsletter first comments where applicable) to the form URL with the right `?topic=` — **cleared to run now that the page renders live** (same confirm-before-link rule as toolkits; already satisfied).
