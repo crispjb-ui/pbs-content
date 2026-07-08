@@ -27,6 +27,11 @@ You are running the monthly PBS system audit. The content engine, conventions, a
 ## 5. Learning-loop health
 - Is `linkedin_performance_tracker.md` current (has it been fed via `/log-metrics` recently)? If it's gone stale, the build's performance look-back is running on old data — flag it as the top issue, because it silently degrades every build.
 
+## 6. Voice drift (added Jul 7, 2026)
+- Sample 2-3 of the most recently BUILT posts (the next week to ship in `newsletters/`) plus any reply/comment copy drafted since the last audit, and run the `/voice-check` mechanical sweep + rhythm read against `ginny_voice_fingerprint.md`. Line-level fixes in unpublished files are safe to apply; a recurring pattern (the same violation in 2+ places) means the DRAFTING layer has drifted → flag it in OPEN_ITEMS naming the pattern and the likely source (a skill or template that needs the rule added), don't just patch the instances.
+- Check `ginny_voice_canon.md`'s delta log: if `/log-voice-delta` entries show a pattern at 2-3+ recurrences that never got promoted to the fingerprint, promote it now (or flag if it conflicts with an existing rule).
+- If echo-shaped replies (validate-then-echo, per `ginny_voice_comments_replies.md`) have reappeared in any drafted reply copy, flag the tic explicitly.
+
 ## Output
 A short audit report: drift/conflicts found, fact-bank changes made/proposed, cadence/backlog issues, and learning-loop health. Apply only the safe, obvious fixes (retire a clearly-stale fact, fix a clearly-contradictory line) and commit those; list the judgment-call items for the user to decide. Add anything material to `OPEN_ITEMS.md`.
 
