@@ -46,9 +46,12 @@ Three things worth doing in the next 60 days, in order:
     not after. A renewal-season second opinion is a fast engagement;
     we run them all fall.
 
-If that third one would be useful for your plan, reply to this email
-with a few sentences on where things stand. My colleague (cc'd on
-replies) will find a time for a short call.
+If that third one would be useful for your plan, tell us where things
+stand and we will find a time for a short call:
+    rxbs.org/request-a-call?topic=renewal-second-opinion
+
+A few sentences on your situation is enough. Or just reply to this
+email; either reaches us and we respond within one business day.
 
 Either way: do not sign the renewal unread. That one sentence is most
 of what we do for a living.
@@ -59,7 +62,7 @@ Ginny Crisp, PharmD, BCACP | Chief Executive Officer
 team@rxbs.org | www.rxbs.org
 ```
 
-*(When the request-a-call form goes live, replace the reply CTA with the form link, topic pre-set to "Renewal second opinion." Until then the reply + admin-cc pattern matches Ginny's scheduling preference.)*
+*(Updated Jul 8, 2026: the request-a-call form is live, so the primary CTA now points to it with topic pre-set to "Renewal second opinion." "Reply to this email" stays as the warm fallback, matching Ginny's scheduling preference. 07 hasn't been sent/wired yet, so this repo copy is the deployed version when it's scheduled for Sep 8.)*
 
 ---
 
