@@ -76,6 +76,7 @@
 
 import { local } from 'wix-storage';
 import { submitLead } from 'backend/toolkitLead.web';
+import wixLocation from 'wix-location';
 
 const CONFIG = {
   // ---- REVERT SWITCH ----  true = new custom form ; false = old Wix Forms App form.
@@ -97,6 +98,12 @@ const CONFIG = {
 
   storageKey: 'pbs_lead',
   datasetId: '#dynamicDataset',   // your existing dataset ID
+
+  // On successful submit, redirect here instead of showing an inline message.
+  // Kills the post-submit "phantom box" AND gives a stable URL for the LinkedIn /
+  // Google Ads conversion event to fire on (conversion rule: URL contains /thank-you).
+  // One page serves every toolkit. Set to '' to keep the old inline success message.
+  thankYouPath: '/thank-you',
 
   ids: {
     firstName: '#inputFirstName',
@@ -261,6 +268,14 @@ $w.onReady(() => {
       // (repeats get Email 1 only).
       await submitLead(lead, toolkitName, toolkitSlug, isReturning);
 
+      // Success: redirect to the shared thank-you page (also the ads-conversion URL).
+      // local.setItem above already saved the returning-visitor memory, so the
+      // one-click path survives the navigation. Falls back to the inline success
+      // message only if thankYouPath is blanked out.
+      if (CONFIG.thankYouPath) {
+        wixLocation.to(CONFIG.thankYouPath);
+        return;
+      }
       hideInputs();
       hide(id.welcomeBack);
       showText(id.success, `You're set, ${lead.first_name || ''}. The ${toolkitName || 'toolkit'} is on its way to ${lead.email} — check your inbox in about 2 minutes.`);

@@ -4,6 +4,15 @@
 
 > **Why this exists:** LinkedIn Lead Gen Forms require a privacy policy URL. Wix Forms also require one for GDPR/CCPA compliance. This policy is also linked from the Toolkit landing page form, the welcome email footer, and the Substack subscribe interaction.
 
+> **Status (Jul 8, 2026): Wix-ready draft, counsel-gated — NOT yet published.** The `/privacy` Wix page does not exist yet, so no live surface should hyperlink to `rxbs.org/privacy` (dead-link rule). Until it publishes, keep the privacy *sentence* on the request-a-call microcopy and the thank-you footnote but **remove the hyperlink**. Add the link back the day this page goes live. This is needed before any LinkedIn ad spend (Sep 2026) — those ads require a reachable privacy URL.
+>
+> **Resolve before publish (counsel gate — do not self-approve, per the legal-adjacent rule):**
+> - [ ] Set the **Effective Date** and **Last Updated** to the actual publish date.
+> - [ ] Fill the **street address + ZIP** in the Contact section (data PBS holds; not inventable here).
+> - [ ] Counsel reviews the **PHI paragraph** ("we do not collect PHI… through this website") against how PBS actually routes any member/claims data, and confirms fit with SC + CCPA + GDPR.
+> - [ ] Confirm the **third-party list matches the live stack** (Wix, LinkedIn, Substack, Zapier are in use; Google Analytics only if actually enabled — drop the "(optionally)" if not).
+> - [ ] Build as a Wix page at slug `/privacy`, **indexable** (standard for a privacy page); plain long-form layout — no special design system needed.
+
 ---
 
 # Privacy Policy
