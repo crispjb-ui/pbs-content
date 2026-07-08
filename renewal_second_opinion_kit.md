@@ -61,8 +61,30 @@ Renewal terms on your desk? We run a fast independent read of exactly what chang
 Renewal season rule: do not sign it unread. The changes are rarely announced. They are redlined. We read them independently, in days, before your notice window closes. Link in reply.
 ```
 
+## Wix assembly specifics (SEO + schema + CTA — added Jul 6, 2026)
+
+Archetype: Utility/Conversion, same visual system as the toolkit landing pages. Build with **native Wix elements** (crawlable). This page has **no form of its own** — its CTA deep-links into the request-a-call page, which is why request-a-call must be built first.
+
+**SEO Basics (Wix page SEO panel):**
+- **Title tag:** `Renewal Second Opinion: An Independent Read of Your PBM Renewal Before You Sign | Prescription Benefit Solutions`
+- **Meta description:** `Renewal terms arrive August to October and the 90-day notice window closes in early October. A Renewal Second Opinion is a fast, independent read of your PBM renewal terms, from pharmacists who review hundreds of PBM contracts a year, before you sign.`
+- **URL slug:** `/renewal-second-opinion` · **Canonical:** `https://www.rxbs.org/renewal-second-opinion` · **Indexable:** ON.
+
+**Structured data (Wix SEO → Advanced → Structured data markup):**
+```
+{"@context":"https://schema.org","@type":"Service","name":"Renewal Second Opinion","serviceType":"PBM renewal contract review","description":"A fast, independent read of a self-funded plan's PBM renewal terms before signature: what changed against the current contract, what the changes cost, and what to push back on before the notice window closes.","provider":{"@type":"Organization","@id":"https://www.rxbs.org/#organization","name":"Prescription Benefit Solutions"},"areaServed":"US","audience":{"@type":"Audience","audienceType":"Self-funded employers and plan sponsors"},"url":"https://www.rxbs.org/renewal-second-opinion"}
+```
+
+**Page structure** (from the LANDING PAGE COPY block above): H1 `Do not sign the renewal unread.` → the bold answer-first subhead → the "renewal terms arrive Aug–Oct / window closes early Oct" body → the "renewal changes are redlined, not announced" paragraph → **What it covers** (3-item numbered list) → **What you receive** → **Timeline** → **Independence** → the **90-Day Check** styled as an Accent-Blue callout box → the **Request a call** CTA → the footer line.
+
+**The CTA wiring (the one dependency):** the `[Request a call]` button links to
+`https://www.rxbs.org/request-a-call?topic=renewal-second-opinion`
+(the `?topic=` pre-selects the dropdown, so the request lands contextually). Build request-a-call first.
+
 ## Build checklist
 
-- [ ] Ginny: approve name + copy (Decision #1); set the price posture per the pricing memo.
-- [ ] Brett: build the page in Wix (after the request-a-call form, which its CTA uses with `?topic=renewal-second-opinion`); confirm renders before any link ships.
-- [ ] Claude session: after page is live, sweep the campaign links in (Email 07 CTA, W35-37 first comments where renewal-topical).
+- [ ] Ginny: approve name + copy (**Decision #1**); set the price posture per the pricing memo. _(If the name changes from "Renewal Second Opinion," update the H1/subhead/schema/slug together.)_
+- [ ] Brett: build request-a-call **first** (its CTA target), then build `/renewal-second-opinion` per the assembly specifics above. ⏱ **live by Aug 15.**
+- [ ] Paste the `Service` JSON-LD + SEO fields; leave indexable ON.
+- [ ] **Do NOT promote publicly until `/standards` is live** (the Independence line references the published Standards; rollout has Standards at Aug W1, this page's public promotion at Sep 8). Building/publishing quietly before then is fine; linking it publicly is the gated step.
+- [ ] Claude session: after the page is live, sweep the campaign links in (Email 07 CTA → `rxbs.org/renewal-second-opinion`, W35-37 first comments where renewal-topical).
