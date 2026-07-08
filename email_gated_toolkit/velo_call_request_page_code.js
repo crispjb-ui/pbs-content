@@ -10,11 +10,11 @@
  *   #txtError     (text, hidden: the failure message)
  *
  * Dropdown #ddTopic choices (value = label is fine):
- *   "Contract review" | "Renewal second opinion" | "Claims review" |
+ *   "Contract review" | "Renewal second opinion" | "Pharmacy Benefits Review" |
  *   "Broker/consultant partnership" | "Something else"
  *
  * ?topic= pre-select values → dropdown mapping:
- *   contract-review, renewal-second-opinion, claims-review,
+ *   contract-review, renewal-second-opinion, pharmacy-benefits-review,
  *   broker-partnership, general
  */
 
@@ -24,7 +24,7 @@ import wixLocation from 'wix-location';
 const TOPIC_MAP = {
   'contract-review': 'Contract review',
   'renewal-second-opinion': 'Renewal second opinion',
-  'claims-review': 'Claims review',
+  'pharmacy-benefits-review': 'Pharmacy Benefits Review',
   'broker-partnership': 'Broker/consultant partnership',
   'general': 'Something else',
 };

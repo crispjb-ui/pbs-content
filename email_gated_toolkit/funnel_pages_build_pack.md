@@ -26,9 +26,9 @@ The #1 failure mode on Wix forms is mismatched element IDs (see the `WIX_SETUP_T
 | Error message | `#txtError` | Text (start hidden) |
 
 **Dropdown `#ddTopic` choices** (value = label; must match the Velo `TOPIC_MAP` labels):
-`Contract review` · `Renewal second opinion` · `Claims review` · `Broker/consultant partnership` · `Something else`
+`Contract review` · `Renewal second opinion` · `Pharmacy Benefits Review` · `Broker/consultant partnership` · `Something else`
 
-`?topic=` deep-link values that pre-select the dropdown: `contract-review`, `renewal-second-opinion`, `claims-review`, `broker-partnership`, `general`.
+`?topic=` deep-link values that pre-select the dropdown: `contract-review`, `renewal-second-opinion`, `pharmacy-benefits-review`, `broker-partnership`, `general`.
 
 ## 1b. Paste-ready page copy
 
