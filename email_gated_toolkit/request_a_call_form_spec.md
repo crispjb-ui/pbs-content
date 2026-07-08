@@ -10,7 +10,7 @@
 
 - **Page:** `rxbs.org/request-a-call` (Wix, Utility/Conversion archetype, same visual system as the toolkit landing pages).
 - **Replaces mailto links in:** Email 5 (`05_two_ways_forward.md` CTA), the role-branched Email 5 closes (`role_funnel_plan.md` §5 CTAs), Email 7 reactivation (when live), Email 8 repeat follow-up, the `/for-brokers` page CTA (`broker_partner_track.md`), and site contact CTAs as pages get rebuilt. `team@rxbs.org` remains published as a secondary option everywhere; some senior buyers simply prefer email.
-- **Link pattern with topic pre-set:** `rxbs.org/request-a-call?topic=contract-review` (also `renewal-second-opinion`, `broker-partnership`, `claims-review`, `general`). Velo reads the query param and pre-selects the topic dropdown, so each CTA lands contextually.
+- **Link pattern with topic pre-set:** `rxbs.org/request-a-call?topic=contract-review` (also `renewal-second-opinion`, `broker-partnership`, `pharmacy-benefits-review`, `general`). Velo reads the query param and pre-selects the topic dropdown, so each CTA lands contextually.
 
 ## 2. Form fields (5 visible, mirrors the proven toolkit form pattern)
 
@@ -19,7 +19,7 @@
 | 1 | First name | text | yes | |
 | 2 | Work email | email | yes | |
 | 3 | Company | text | yes | |
-| 4 | What would you like to talk through? | dropdown | yes | Options: Contract review · Renewal second opinion · Claims review · Broker/consultant partnership · Something else. Pre-set by `?topic=` when present. |
+| 4 | What would you like to talk through? | dropdown | yes | Options: Contract review · Renewal second opinion · Pharmacy Benefits Review · Broker/consultant partnership · Something else. Pre-set by `?topic=` when present. |
 | 5 | Anything we should know before the call? + preferred timing | textarea | no | Placeholder: "A few sentences on your situation, and whether mornings or afternoons generally work better." One free-text field covers both context and time preference without exposing any calendar. |
 
 No role/size fields here: if the lead came through the toolkit funnel we already have them (match on email); if not, the admin asks on the scheduling thread. Shortness is the point.
