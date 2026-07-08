@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Request a call · Prescription Benefit Solutions</title>
+  <meta name="description" content="Request a call with Prescription Benefit Solutions to talk through a PBM contract review, renewal second opinion, or claims review.">
+
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap');
+
+    :root {
+      --primary: #015880;
+      --accent:  #A7E0FA;
+      --gray:    #4D4D4D;
+      --gray-2:  #8C8C8C;
+      --rule:    #E5E5E5;
+      --paper:   #FAFAF7;
+      --white:   #FFFFFF;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    html, body {
+      font-family: 'IBM Plex Sans', sans-serif;
+      color: var(--gray);
+      background: var(--paper);
+      line-height: 1.55;
+      -webkit-font-smoothing: antialiased;
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 620px;
+      margin: 0 auto;
+      padding: 72px 32px 56px;
+    }
+
+    .eyebrow {
+      font-size: 13px;
+      font-weight: 600;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      color: var(--primary);
+      margin-bottom: 14px;
+    }
+
+    h1 {
+      font-weight: 600;
+      font-size: 40px;
+      line-height: 1.12;
+      color: var(--primary);
+      margin-bottom: 16px;
+    }
+
+    .subhead {
+      font-size: 18px;
+      line-height: 1.55;
+      color: var(--gray);
+      margin-bottom: 36px;
+    }
+
+    .card {
+      background: var(--white);
+      border: 1px solid var(--rule);
+      border-radius: 10px;
+      padding: 32px 32px 28px;
+      margin-bottom: 20px;
+    }
+
+    .field { margin-bottom: 20px; }
+    .field label {
+      display: block;
+      font-size: 14px;
+      font-weight: 600;
+      color: var(--primary);
+      margin-bottom: 7px;
+    }
+    .field input,
+    .field select,
+    .field textarea {
+      width: 100%;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-size: 15px;
+      color: var(--gray);
+      background: var(--paper);
+      border: 1px solid var(--rule);
+      border-radius: 6px;
+      padding: 12px 14px;
+    }
+    .field input::placeholder,
+    .field textarea::placeholder { color: var(--gray-2); }
+    .field textarea { min-height: 92px; resize: vertical; line-height: 1.5; }
+    .field select { appearance: none; background-image:
+      linear-gradient(45deg, transparent 50%, var(--gray-2) 50%),
+      linear-gradient(135deg, var(--gray-2) 50%, transparent 50%);
+      background-position: calc(100% - 20px) 18px, calc(100% - 14px) 18px;
+      background-size: 6px 6px, 6px 6px; background-repeat: no-repeat; }
+    .id-tag {
+      font-family: monospace;
+      font-size: 11px;
+      color: var(--gray-2);
+      font-weight: 400;
+      margin-left: 6px;
+    }
+
+    .btn {
+      display: inline-block;
+      width: 100%;
+      text-align: center;
+      padding: 14px 18px;
+      background: var(--primary);
+      color: var(--white);
+      border: none;
+      border-radius: 6px;
+      font-family: 'IBM Plex Sans', sans-serif;
+      font-weight: 600;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 4px;
+    }
+    .btn:hover { background: #014668; }
+
+    .confirm {
+      background: #EAF7EF;
+      border: 1px solid #BfE4CC;
+      border-radius: 6px;
+      padding: 14px 16px;
+      font-size: 14px;
+      color: #1E6B3C;
+      margin-top: 14px;
+    }
+
+    .reassure {
+      font-size: 14px;
+      color: var(--gray);
+      font-style: italic;
+      margin-bottom: 10px;
+    }
+    .secondary {
+      font-size: 14px;
+      color: var(--gray);
+      margin-bottom: 10px;
+    }
+    .secondary a { color: var(--primary); }
+    .privacy {
+      font-size: 13px;
+      color: var(--gray-2);
+      line-height: 1.6;
+    }
+    .privacy a { color: var(--gray); text-decoration: underline; }
+
+    .footer {
+      background: var(--primary);
+      color: var(--white);
+      padding: 28px 32px;
+      text-align: center;
+      font-size: 13px;
+    }
+    .footer a { color: var(--accent); text-decoration: none; }
+
+    .note {
+      background: #FFF8E6;
+      border-left: 3px solid #E0B84A;
+      font-size: 12.5px;
+      color: #7A5C10;
+      padding: 8px 12px;
+      border-radius: 3px;
+      margin: 0 auto 26px;
+      max-width: 620px;
+    }
+    .note code { font-family: monospace; }
+
+    @media (max-width: 600px) {
+      h1 { font-size: 30px; }
+      .container { padding: 52px 22px 40px; }
+      .card { padding: 24px 22px; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="container" style="padding-bottom: 12px;">
+  <div class="note">
+    PREVIEW ONLY — this is the visual target for the Wix build. The gray
+    <code>#idTags</code> next to each field show the exact element ID to set in
+    Wix (they will not appear on the live page).
+  </div>
+</div>
+
+<div class="container" style="padding-top: 0;">
+
+  <div class="eyebrow">Request a call</div>
+
+  <h1>Request a call.</h1>
+
+  <p class="subhead">
+    Tell us what you are trying to figure out. Someone from Prescription Benefit
+    Solutions who actually reads these contracts will email you within one
+    business day to find a time. No sales sequence, no scheduler to wrestle with.
+  </p>
+
+  <div class="card">
+    <div class="field">
+      <label>First name <span class="id-tag">#inFirstName</span></label>
+      <input type="text" placeholder="First name">
+    </div>
+    <div class="field">
+      <label>Work email <span class="id-tag">#inEmail</span></label>
+      <input type="email" placeholder="you@company.com">
+    </div>
+    <div class="field">
+      <label>Company <span class="id-tag">#inCompany</span></label>
+      <input type="text" placeholder="Company">
+    </div>
+    <div class="field">
+      <label>What would you like to talk through? <span class="id-tag">#ddTopic</span></label>
+      <select>
+        <option>Contract review</option>
+        <option>Renewal second opinion</option>
+        <option>Claims review</option>
+        <option>Broker/consultant partnership</option>
+        <option>Something else</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>Anything we should know before the call? <span class="id-tag">#inNotes</span></label>
+      <textarea placeholder="A few sentences on your situation, and whether mornings or afternoons generally work better."></textarea>
+    </div>
+    <button class="btn">Request a call</button>
+    <div class="confirm">✓ Got it. Someone from our team will email you within one business day to find a time. <span style="color:var(--gray-2);">(shown after submit — <code style="font-family:monospace;">#txtConfirm</code>)</span></div>
+  </div>
+
+  <p class="reassure">We review hundreds of PBM contracts a year. This is a conversation, not a pitch.</p>
+  <p class="secondary">Prefer email? Reach us anytime at <a href="mailto:team@rxbs.org">team@rxbs.org</a>.</p>
+  <p class="privacy">We use your email only to arrange the call. <a href="https://www.rxbs.org/privacy">Privacy</a>.</p>
+
+</div>
+
+<footer class="footer">
+  <div><strong>Prescription Benefit Solutions</strong> · Charleston, SC · Independent pharmacy benefits consulting</div>
+  <div style="margin-top: 6px;"><a href="https://www.rxbs.org">www.rxbs.org</a></div>
+</footer>
+
+</body>
+</html>
