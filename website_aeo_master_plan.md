@@ -169,6 +169,24 @@ Measurement itself: see Phase 0.5 — it happens BEFORE the build so the build i
 
 The pillar/cluster table and FAQ-hub design stand as v1 wrote them (pillars: Contract Audit · Pricing & Spread · Rebates · Specialty & Clinical · Process/Choosing · Fiduciary & Compliance · Transparency/Category; FAQ hub built from `buyer_anxiety_map.md` with FAQPage schema; glossary-term graduation path; `/articles/` mirroring template). **v2 addition:** when building any cluster page, apply the Section C linking rule (one money page + one toolkit per page) and the answer-first opener. The Fiduciary & Compliance pillar gains an obvious future spoke: the Fiduciary File explainer; the Transparency pillar gains the Index page as its eventual hub.
 
+**Answer-page build log (one page per `/build-aeo-page` run):**
+
+| Candidate answer page (priority order) | Slug | Status |
+|---|---|---|
+| What is a PBM contract audit? | `guide-pbm-contract-audit` | ✅ built |
+| What is spread pricing? | `guide-what-is-spread-pricing` | ✅ built |
+| How to choose a PBM auditor | `guide-how-to-choose-a-pbm-auditor` | ✅ built |
+| PBM audit vs. broker review | `compare-pbm-audit-vs-broker-review` | ✅ built |
+| How to read a PBM rebate report | `guide-how-to-read-a-pbm-rebate-report` | ✅ drafted Jul 8, 2026 (Article + FAQPage + HowTo + Breadcrumb; review pending) |
+| Carve-in vs. carve-out | `compare-carve-in-vs-carve-out` | ⬜ missing |
+| GLP-1 coverage for self-funded plans | `guide-glp1-coverage-self-funded` | ⬜ missing |
+| 340B and self-funded plans | `guide-340b-and-self-funded-plans` | ⬜ missing |
+| Copay accumulators and maximizers | `guide-copay-accumulators-maximizers` | ⬜ missing |
+| PBM RFP: how to | `guide-pbm-rfp-how-to` | ⬜ missing (how-to → HowTo schema) |
+| ERISA fiduciary duty and pharmacy | `guide-erisa-fiduciary-pharmacy` | ⬜ missing |
+| Specialty pharmacy carve-out | `guide-specialty-pharmacy-carve-out` | ⬜ missing |
+| What is a transparent PBM? | `guide-what-is-a-transparent-pbm` | ⬜ missing |
+
 ---
 
 # COMPANION FILES (v2)

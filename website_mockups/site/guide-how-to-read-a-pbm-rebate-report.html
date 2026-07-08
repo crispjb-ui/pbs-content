@@ -1,0 +1,189 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>How Do You Read a PBM Rebate Report? A Plan Sponsor's Guide | Prescription Benefit Solutions</title>
+<meta name="description" content="How a self-funded employer should read a PBM rebate report: start with the contract's rebate definitions, reconcile the total against claims, find the excluded categories, trace the aggregator layer, check the payment lag, and measure it against the guarantee.">
+<link rel="canonical" href="https://www.rxbs.org/guides/how-to-read-a-pbm-rebate-report">
+<link rel="stylesheet" href="site.css">
+<style>
+  .ghero{background:var(--ink);color:#fff;padding:52px 0 44px}
+  .ghero h1{font-size:40px;color:#fff;margin:10px 0 12px;font-weight:600;letter-spacing:-.01em}
+  .ghero p{color:#c5d2d9;max-width:680px;margin:0;font-size:17px}
+  .crumbs{font-size:13px;color:var(--muted);margin-bottom:4px}
+  .crumbs a{color:#9fb0b8;text-decoration:none}
+  .prose{max-width:860px}
+  .prose h2{font-size:26px;line-height:1.2;color:var(--blue);margin:38px 0 12px;font-weight:600}
+  .prose p{font-size:16px;color:#33414a;margin:0 0 16px}
+  .prose a{color:var(--blue);font-weight:600}
+  .prose ul,.prose ol{margin:0 0 16px;padding-left:20px}
+  .prose li{font-size:16px;color:#33414a;margin:0 0 9px}
+  .lead-answer{font-size:18px;color:#1f2a30;font-weight:500;border-left:4px solid var(--accent);padding:4px 0 4px 18px;margin:0 0 22px}
+  .faq{border-top:1px solid var(--line);padding:20px 0}
+  .faq:first-of-type{border-top:0}
+  .faq h3{margin:0 0 7px;color:var(--blue);font-size:18px}
+  .faq p{margin:0;font-size:15px;color:#33414a}
+  .ctacard{margin-top:40px;padding:30px;background:var(--ink2);color:#fff;border-radius:14px}
+  .ctacard h2{color:#fff;margin:0 0 8px;font-size:24px}
+  .ctacard p{color:#c5d2d9;margin:0 0 18px;font-size:15.5px}
+</style>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":"How Do You Read a PBM Rebate Report? A Plan Sponsor's Guide","description":"How a self-funded employer should read a PBM rebate report: start with the contract's rebate definitions, reconcile the total against claims, find the excluded categories, trace the aggregator layer, check the payment lag, and measure it against the guarantee.","author":{"@type":"Person","@id":"https://www.rxbs.org/#ginny-crisp","name":"Ginny Crisp","honorificSuffix":"PharmD","url":"https://www.rxbs.org/about"},"publisher":{"@type":"Organization","@id":"https://www.rxbs.org/#organization","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org","logo":{"@type":"ImageObject","url":"https://www.rxbs.org/logo.png"}},"datePublished":"2026-07-08","dateModified":"2026-07-08","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.rxbs.org/guides/how-to-read-a-pbm-rebate-report"},"url":"https://www.rxbs.org/guides/how-to-read-a-pbm-rebate-report"}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+{"@type":"ListItem","position":1,"name":"Home","item":"https://www.rxbs.org/"},
+{"@type":"ListItem","position":2,"name":"Insights","item":"https://www.rxbs.org/insights"},
+{"@type":"ListItem","position":3,"name":"How to Read a PBM Rebate Report","item":"https://www.rxbs.org/guides/how-to-read-a-pbm-rebate-report"}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How do you read a PBM rebate report?","acceptedAnswer":{"@type":"Answer","text":"Start with the contract's rebate definitions, not the totals. Reconcile the reported rebate against your actual claims and utilization, identify which manufacturer payment categories the report excludes, trace whether a rebate aggregator sits between the manufacturer and your pass-through, check how far the payment lags the claims, and measure the result against your contractual rebate guarantee."}},
+{"@type":"Question","name":"What does a PBM rebate report leave out?","acceptedAnswer":{"@type":"Answer","text":"A rebate report usually shows only what the contract defines as an eligible rebate. Administrative fees, market-share payments, price-protection payments, and other manufacturer compensation categories are frequently excluded from that definition, so they never appear in the total the plan is shown even though the money exists."}},
+{"@type":"Question","name":"What is a rebate aggregator and why does it matter for the report?","acceptedAnswer":{"@type":"Answer","text":"A rebate aggregator is a PBM-affiliated entity, sometimes domiciled offshore, that collects manufacturer rebates before they reach the PBM's stated pass-through to the plan. Dollars and fees can be retained at the aggregator level, outside the plan's contractual visibility, so the report can show 100% pass-through of a number that was already reduced before the PBM ever touched it."}},
+{"@type":"Question","name":"How do you check a PBM rebate guarantee against the report?","acceptedAnswer":{"@type":"Answer","text":"Compare the per-brand-script rebate the report actually delivered against the minimum guarantee in the contract, and confirm whether the guarantee is measured per script or in aggregate. If actual performance falls below the guarantee, a true-up is only owed when the contract carries true-up language, so the report and the contract have to be read together."}},
+{"@type":"Question","name":"Why do PBM rebates arrive so long after the claim?","acceptedAnswer":{"@type":"Answer","text":"Manufacturer rebates are typically invoiced and paid on a quarterly lag, often a quarter or two behind the claims that earned them. That timing lag makes it hard to reconcile a rebate report against a claims period, and it is one reason a plan can under-collect without noticing until an independent audit lines the two up."}}
+]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"HowTo","name":"How to read a PBM rebate report","step":[
+{"@type":"HowToStep","name":"Start with the contract's rebate definitions","text":"Read the definitions section before the totals. The report only reports what the contract defines as an eligible rebate, so the definition of eligible rebate revenue is what decides how large the number can be."},
+{"@type":"HowToStep","name":"Reconcile the total against actual claims","text":"Tie the reported rebate back to your own brand-script utilization for the period. A rebate total with no claims denominator cannot be verified; divide it out to a per-brand-script figure you can test."},
+{"@type":"HowToStep","name":"Find the excluded categories","text":"Identify which manufacturer payments the report leaves out. Administrative fees, market-share payments, and price-protection payments are often carved out of the eligible-rebate definition and never appear in the total."},
+{"@type":"HowToStep","name":"Trace the rebate aggregator layer","text":"Determine whether a PBM-affiliated rebate aggregator collects the manufacturer money first. Fees and dollars retained at the aggregator level reduce the base before the PBM's stated pass-through even begins."},
+{"@type":"HowToStep","name":"Check the payment-timing lag","text":"Confirm how far the rebate payment lags the claims that earned it, usually a quarter or two, and make sure each period's rebate is matched to the right claims period rather than compared to the wrong quarter."},
+{"@type":"HowToStep","name":"Measure the result against the guarantee","text":"Compare the actual per-script rebate delivered against the contractual minimum guarantee, confirm whether it is measured per script or in aggregate, and check for true-up language that requires the PBM to make up any shortfall."}
+]}
+</script>
+</head><body>
+
+<header class="nav"><div class="container row">
+  <a class="brand" href="index.html"><span class="tri"></span> Prescription Benefit Solutions</a>
+  <nav class="navlinks">
+    <a href="index.html">Home</a><a href="solutions.html">Solutions</a>
+    <a href="library.html">Toolkit Library</a><a href="insights.html" class="active">Insights</a><a href="about.html">About</a>
+    <a class="btn btn-accent" href="index.html#book">Book a Review</a>
+  </nav>
+  <div class="menuicon"><span></span><span></span><span></span></div>
+</div></header>
+
+<section class="ghero"><div class="container">
+  <div class="crumbs"><a href="index.html">Home</a> &rsaquo; <a href="insights.html">Insights</a> &rsaquo; How to Read a PBM Rebate Report</div>
+  <span class="eyebrow">Plan Sponsor's Guide</span>
+  <h1>How to read a PBM rebate report</h1>
+  <p>A practical guide for self-funded employers, CFOs, HR leaders, and the brokers who advise them, on how to read the rebate report your PBM sends and find the money the total does not show.</p>
+</div></section>
+
+<div class="container" style="max-width:900px"><div class="byline">
+  <div class="av">GC</div>
+  <div class="meta"><b>By <a href="about.html" style="color:inherit;text-decoration:none">Ginny Crisp, PharmD</a></b> &middot; <span class="cred">Reviews hundreds of PBM contracts a year</span><br>Published July 2026 &middot; Updated July 2026</div>
+</div></div>
+
+<section class="section paper"><div class="container">
+<div class="prose">
+
+  <p class="lead-answer">To read a PBM rebate report, start with the contract's rebate definitions rather than the totals, reconcile the reported rebate against your actual brand-script claims, identify which manufacturer payment categories the report excludes, trace whether a <a href="glossary.html#rebate-aggregator">rebate aggregator</a> sits between the manufacturer and your pass-through, check the payment-timing lag, and measure the result against your contractual rebate guarantee.</p>
+
+  <p>A rebate report is one of the few PBM documents a plan sponsor sees regularly, so it feels like transparency. It usually is not. The report is a summary the PBM built to its own definitions, and the most important numbers are the ones that are not on the page. Reading it well means reading it next to the contract, because the contract decides what the report is allowed to count.</p>
+
+  <h2>Why start with the contract, not the total?</h2>
+
+  <p>The number at the top of a rebate report only answers one question: how much of what the contract calls an eligible rebate did the PBM report this period. It does not answer the question a plan sponsor actually has, which is how much manufacturer money your drug spend generated and how much of it reached the plan.</p>
+
+  <p>The gap between those two questions lives in the definitions section of the PBM Services Agreement. <a href="glossary.html#rebate-passthrough">Rebate passthrough</a> is the percentage the contract requires the PBM to pass along, but the percentage is applied to a base the contract defines narrowly. A report can honestly show "100% pass-through" while a large share of the manufacturer money never entered the base in the first place. Read the definition of eligible rebate revenue before you read a single dollar figure, and the report starts to make sense.</p>
+
+  <h2>How do you reconcile the total against claims?</h2>
+
+  <p>A rebate total with no denominator cannot be verified, so the first arithmetic step is to divide it out. Take the reported rebate for the period and put it over your own brand-script utilization for the same period to get a rebate per brand script. That per-script figure is the number you can actually test, compare across periods, and hold against a guarantee.</p>
+
+  <p>Watch the direction it moves. If your brand and specialty utilization rose but the per-script rebate fell, something in the mix or the definition changed, and the report will rarely explain why on its own. This is also where a rebate report and a claims file have to be read together; the report summarizes, the claims data is the evidence, and the two are only trustworthy when they reconcile.</p>
+
+  <h2>What does the report leave out?</h2>
+
+  <p>Manufacturers pay PBMs in more categories than "rebate." There are administrative fees, market-share and access payments, price-protection payments, data-sale payments, and formulary-placement payments. Whether any of these count as a rebate the plan shares in is a drafting choice, and many contracts carve most of them out of the eligible-rebate definition.</p>
+
+  <p>The practical effect is that the money exists, the PBM collects it, and it never appears on the plan's rebate report because the contract does not call it a rebate. When you read the report, the useful move is to list the manufacturer-payment categories the contract acknowledges and then ask, in writing, for the ones it does not. The <a href="contract-language-library.html">PBM Contract Language Library</a> shows the vague rebate definitions plans are usually offered next to the protective language that pulls those excluded categories back into the pass-through.</p>
+
+  <h2>Where does the rebate aggregator fit?</h2>
+
+  <p>A <a href="glossary.html#rebate-aggregator">rebate aggregator</a> is a PBM-affiliated entity, in several cases domiciled offshore, that contracts with manufacturers and collects the rebates before they reach the PBM. Because the aggregator sits upstream of the PBM's stated pass-through, fees and dollars can be retained at that level, outside the plan's contractual visibility. Entities operating in this layer include Ascent, Emisar, and Zinc.</p>
+
+  <p>This is why a report can show full pass-through of a number that was already reduced before the PBM ever touched it. The pass-through is real; the base it applies to is not the base the manufacturer paid. Reading the report means asking whether an aggregator is in the chain and whether your <a href="glossary.html#audit-rights">audit rights</a> reach it. If the contract's audit language stops at the PBM and never names the aggregator, the most consequential layer of the rebate flow is the one you are contractually blocked from seeing.</p>
+
+  <h2>Why does the timing never line up?</h2>
+
+  <p>Manufacturer rebates are typically invoiced and paid on a quarterly lag, often a quarter or two behind the claims that earned them. Some categories, along with <a href="glossary.html#dir">direct and indirect remuneration</a>, settle even later. That lag is the quiet reason rebate reports are hard to reconcile: the dollars on this quarter's report were earned by an earlier quarter's claims, and comparing them to the wrong period makes a shortfall look like normal variation.</p>
+
+  <p>When you read the report, confirm which claims period each rebate payment maps to and match them deliberately. A plan can under-collect for a year without noticing, simply because no one lined the payment quarters up against the claims quarters that generated them.</p>
+
+  <h2>Does the report actually meet the guarantee?</h2>
+
+  <p>Most contracts carry a minimum rebate guarantee, expressed as a dollar figure per brand script or per eligible claim. The final step in reading the report is to hold your reconciled per-script number against that guarantee, and to confirm how the guarantee is measured. A guarantee measured in aggregate across the whole book behaves very differently from one measured per script, and the difference decides whether a weak quarter is remediated or absorbed.</p>
+
+  <p>If actual performance falls below the guarantee, a make-whole payment is only owed when the contract includes true-up language. A rebate report showing a shortfall is not self-executing; the contract's remediation clause is what turns the shortfall into a check. Read the report to find the gap, and read the contract to find out whether you can collect on it.</p>
+
+  <h2>The short checklist</h2>
+
+  <ol>
+    <li>Read the eligible-rebate definition in the contract before the totals.</li>
+    <li>Divide the rebate total by brand scripts to get a per-script figure you can test.</li>
+    <li>List the excluded manufacturer-payment categories and ask for them in writing.</li>
+    <li>Ask whether a <a href="glossary.html#rebate-aggregator">rebate aggregator</a> is in the chain and whether your audit rights reach it.</li>
+    <li>Match each rebate payment to the claims period that earned it.</li>
+    <li>Measure the reconciled per-script rebate against the guarantee, and check for true-up language.</li>
+  </ol>
+
+  <p>Reading a rebate report well is really reading it against the contract that governs it. If you want the deeper background on how the pricing side works, see <a href="guide-what-is-spread-pricing.html">what spread pricing is in a PBM contract</a>, and if you are weighing a full review, <a href="guide-pbm-contract-audit.html">what a PBM contract audit covers</a>. Results vary by plan, but the pattern holds: the money is usually in the definition, not the total.</p>
+
+  <h2>Frequently asked questions</h2>
+
+  <div class="faq"><h3>How do you read a PBM rebate report?</h3>
+    <p>Start with the contract's rebate definitions, not the totals. Reconcile the reported rebate against your actual claims and utilization, identify which manufacturer payment categories the report excludes, trace whether a rebate aggregator sits between the manufacturer and your pass-through, check how far the payment lags the claims, and measure the result against your contractual rebate guarantee.</p></div>
+
+  <div class="faq"><h3>What does a PBM rebate report leave out?</h3>
+    <p>A rebate report usually shows only what the contract defines as an eligible rebate. Administrative fees, market-share payments, price-protection payments, and other manufacturer compensation categories are frequently excluded from that definition, so they never appear in the total the plan is shown even though the money exists.</p></div>
+
+  <div class="faq"><h3>What is a rebate aggregator and why does it matter for the report?</h3>
+    <p>A rebate aggregator is a PBM-affiliated entity, sometimes domiciled offshore, that collects manufacturer rebates before they reach the PBM's stated pass-through to the plan. Dollars and fees can be retained at the aggregator level, outside the plan's contractual visibility, so the report can show 100% pass-through of a number that was already reduced before the PBM ever touched it.</p></div>
+
+  <div class="faq"><h3>How do you check a PBM rebate guarantee against the report?</h3>
+    <p>Compare the per-brand-script rebate the report actually delivered against the minimum guarantee in the contract, and confirm whether the guarantee is measured per script or in aggregate. If actual performance falls below the guarantee, a true-up is only owed when the contract carries true-up language, so the report and the contract have to be read together.</p></div>
+
+  <div class="faq"><h3>Why do PBM rebates arrive so long after the claim?</h3>
+    <p>Manufacturer rebates are typically invoiced and paid on a quarterly lag, often a quarter or two behind the claims that earned them. That timing lag makes it hard to reconcile a rebate report against a claims period, and it is one reason a plan can under-collect without noticing until an independent audit lines the two up.</p></div>
+
+  <div class="container" style="max-width:900px">
+    <div class="lead-cta">
+      <div class="txt"><h4>Free Rebate Report Audit Worksheet</h4><p>The worksheet Prescription Benefit Solutions uses to read what a PBM rebate report does not say out loud.</p></div>
+      <a class="btn btn-primary" href="https://www.rxbs.org/toolkit/rebate-report-audit">Get the worksheet</a>
+    </div>
+    <div class="related">
+      <h3>Keep reading</h3>
+      <ul>
+        <li><a href="guide-what-is-spread-pricing.html">What is spread pricing in a PBM contract?</a></li>
+        <li><a href="contract-language-library.html">PBM Contract Language Library: weak vs. protective clauses</a></li>
+        <li><a href="glossary.html#rebate-aggregator">Glossary: rebate aggregator, passthrough, and DIR</a></li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="ctacard">
+    <h2>See what your rebate report is not showing</h2>
+    <p>Start with a 15-minute exposure read. We will reconcile your rebate report against the contract that governs it and tell you the two or three places worth acting on this year. Independent, pharmacist-led, and built to work behind your broker. See <a href="solutions.html" style="color:var(--accent);font-weight:600">our independent PBM audit services</a>.</p>
+    <a class="btn btn-accent" href="index.html#book">Book a contract review &#8594;</a>
+  </div>
+
+</div>
+</div></section>
+
+<footer class="footer"><div class="container">
+  <div class="row">
+    <div class="col" style="max-width:300px"><a class="brand" href="index.html"><span class="tri"></span> Prescription Benefit Solutions</a><p style="margin:10px 0 0;color:#9fb0b8">Independent pharmacy-benefits consulting for self-funded employers.</p></div>
+    <div class="col"><h5>Explore</h5><a href="solutions.html">Solutions</a><a href="library.html">Toolkit Library</a><a href="insights.html">Insights</a><a href="about.html">About</a></div>
+    <div class="col"><h5>Reference</h5><a href="glossary.html">PBM Glossary</a><a href="contract-language-library.html">Contract Language Library</a><a href="what-we-are-seeing.html">What We're Seeing</a><a href="faq.html">Plan Sponsor FAQ</a></div>
+    <div class="col"><h5>Content</h5><a href="insights.html">The Pharmacy Benefits Briefing</a><a href="insights.html">Benefit Blind Spots</a></div>
+    <div class="col"><h5>Contact</h5><a href="mailto:team@rxbs.org">team@rxbs.org</a><a href="https://www.rxbs.org">www.rxbs.org</a><span>Charleston, SC</span></div>
+  </div>
+  <div class="bottom">&copy; 2026 Prescription Benefit Solutions. Educational content; results vary by plan.</div>
+</div></footer>
+
+</body></html>
