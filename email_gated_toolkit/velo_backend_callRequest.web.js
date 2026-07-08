@@ -22,8 +22,8 @@ import { fetch } from 'wix-fetch';
 import wixData from 'wix-data';
 import { contacts } from 'wix-crm-backend';
 
-// PASTE your live Zapier Catch Hook URL here (the CALL-REQUEST hook, not the toolkit one):
-const ZAPIER_CALL_HOOK = 'https://hooks.zapier.com/hooks/catch/XXXXXXX/ZZZZZZZ/';
+// Live Zapier Catch Hook for call requests (set Jul 8, 2026):
+const ZAPIER_CALL_HOOK = 'https://hooks.zapier.com/hooks/catch/4477930/4urqkwu/';
 const CALL_COLLECTION = 'CallRequests';
 const LEADS_COLLECTION = 'ToolkitLeads';
 
