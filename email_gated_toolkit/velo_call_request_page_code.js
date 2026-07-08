@@ -37,6 +37,10 @@ $w.onReady(() => {
   const q = wixLocation.query || {};
   if (q.topic && TOPIC_MAP[q.topic]) {
     $w('#ddTopic').value = TOPIC_MAP[q.topic];
+    // Setting .value in code trips Wix's required-field indicator ("Please select
+    // an item in the list") even though a value IS selected. Reset it so a deep-link
+    // visitor doesn't see a red error on a filled field; it returns on real interaction/submit.
+    if ($w('#ddTopic').resetValidityIndication) $w('#ddTopic').resetValidityIndication();
   }
 
   $w('#btnSubmit').onClick(async () => {
