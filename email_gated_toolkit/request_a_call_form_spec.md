@@ -42,6 +42,6 @@ A call request is answered by the admin **within one business day**, even if onl
 
 ## 6. Build checklist
 
-- [ ] Claude: draft the Wix page copy block + Velo page/backend code files (mirror `velo_toolkit_page_code.js` / `velo_backend_toolkitLead.web.js` patterns) when Ginny is ready to build.
+- [x] Claude: draft the Wix page copy block + Velo page/backend code files. ✅ Done — Velo files `velo_call_request_page_code.js` + `velo_backend_callRequest.web.js`; paste-ready page copy, form/element-ID spec, schema, CMS fields, and both emails in `funnel_pages_build_pack.md` (Jul 6, 2026).
 - [ ] Ginny: create the `CallRequests` collection, build the page, wire the notification recipients, publish.
 - [ ] Claude: sweep every mailto CTA (emails 5/7/8, role plan §5, broker track, week files' newsletter first comments where applicable) to the form URL with the right `?topic=` once the page is confirmed live. Do not swap any link before the page renders (same confirm-before-link rule as toolkits).
