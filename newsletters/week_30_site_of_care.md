@@ -767,9 +767,9 @@ Get next Monday's deep dive on PBM RFP Process in your inbox: benefitblindspots.
 ## Monday
 
 **Morning (7-8 AM) — Article Launch Teaser:**
-New on Benefit Blind Spots: site-of-care optimization. One policy change, one drug category, savings exceeding the annual PBM management fee. This week includes a decision tree by therapeutic category.
+Same drug, same dose, same protocol. The infusion at the hospital outpatient department cost multiples of the identical infusion at home, and the only thing that changed was the building. This week on Benefit Blind Spots: site-of-care optimization, with a decision tree by therapeutic category. One policy change on one drug category can exceed the annual PBM management fee.
 
-Read: [LINK]
+Read the full analysis: [LINK]
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 As a clinical pharmacist I know the infusion setting does not change the drug's mechanism of action. An antibody infused at a hospital outpatient department works the same as one infused at home. The clinical evidence is clear. The cost evidence is even clearer. The barrier to site-of-care optimization is not science. It is structure.
@@ -794,6 +794,8 @@ A plan sponsor told me she did not want to "push members" into home infusion bec
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
+
+_Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 My first site-of-care project as a consultant started because an HR director asked, "why is our infusion spending growing so fast?" Three weeks of claims review later, the answer was hospital outpatient routing. Nobody had decided on the setting. The setting had decided itself. Naming that inertia was the first step toward changing it. The second step was contract language.
@@ -867,11 +869,11 @@ Generic effective rate guarantees: your PBM promises an average discount, then h
   - **First reply (link):** rxbs.org/toolkit/ger-audit
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+Same infusion, four prices: hospital outpatient, ambulatory clinic, physician office, home. The drug never changes. The building does. Most plans have never priced the building.
 ```
 - **5:00 PM · punchy:**
 ```
-Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+The hospital bills for the chair, the pump, the hour, and the roof. The drug is the cheapest thing in the room.
 ```
 - **7:00 PM · question post [A2]:**
 ```
@@ -884,24 +886,24 @@ Every fee on your PBM invoice that sounds like a service is worth one question: 
 ```
 
 **Tue Jul 28**
-- **8:00 AM · recipe / Admin fee unbundling (Tier B):**
+- **8:00 AM · recipe / Facility fee markup (Tier B):**
 ```
-Admin fees: five line items on your monthly PBM invoice. Administrative. Clinical program. Network access. Implementation recovery. Rebate administration. The PBM wrote all five definitions. Four of them are margin wearing a service's name.
+Facility fees: the hospital outpatient department adds a charge for the building around the infusion chair. Same drug, same nurse time, a multiple of the invoice. The fee is legal, it lands on your plan, and nobody ever asked whether the chair had to be in a hospital.
 ```
-  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
+  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+Buy-and-bill: the provider buys the infused drug, marks it up, and bills your medical plan. The markup is the incentive. Ask what the same drug costs under the pharmacy benefit before assuming the medical route is neutral.
 ```
 - **5:00 PM · punchy:**
 ```
-PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+Two vendors manage your drug spend: the PBM runs the pharmacy benefit, the health plan runs the medical benefit, and nobody owns the total. The most expensive drugs live exactly on that seam.
 ```
 - **7:00 PM · question post [A3]:**
 ```
-Pull your specialty claims and sort by filling pharmacy. What share filled at a pharmacy your PBM owns? In most plans we audit, it is well over half. No member chose that. The prior-auth rules chose it for them.
+What share of your plan's infusions run at hospital outpatient rates? Most sponsors cannot answer, because those claims sit on the medical side where the PBM report never looks. The number is findable, and it is usually worth finding.
 ```
-  First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The therapeutic-category decision tree: benefitblindspots.substack.com/p/site-of-care-optimization-decision-tree
 - **8:30 PM · one question [B9]:**
 ```
 Ask your PBM for your generic effective rate against the contract guarantee, by month. "On average over the year" is where the misses hide.
@@ -924,46 +926,46 @@ The clinical question is where a drug is safest to administer. The financial que
   _Long-form trial (Jun 2026): swaps one thread this week; logged in linkedin_performance_tracker.md → "X long-form vs thread."_
 
 **Wed Jul 29**
-- **8:00 AM · recipe / Network access fee (Tier B):**
+- **8:00 AM · recipe / Percentage markup on medical-benefit drugs (Tier B):**
 ```
-Network access fee: your plan pays your PBM for permission to use the pharmacies your PBM already requires you to use. Read that twice. You're being charged rent on the cage.
+On the medical side, an infused drug bills with a markup percentage stacked on its price. The more expensive the drug, the more the markup pays. Nobody in that math is rewarded for picking the cheaper option. Your plan is the only party paying for the difference.
 ```
-  - **First reply (link):** rxbs.org/toolkit/network-configuration-audit
+  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+"Network" does not mean the pharmacies near your members. It means the pharmacies that accepted the PBM's terms. Those are different maps, and your members live on the first one.
 ```
 - **5:00 PM · punchy:**
 ```
-Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
+The infusion suite did not get more clinical when the hospital bought the oncology practice. It got more expensive. Same chair, new sign, bigger bill.
 ```
 - **7:00 PM · question post [A4]:**
 ```
-Your contract says you can audit your PBM. In practice, who picks the auditor, who picks the records, and who decides whether the findings count? If the honest answer is "the PBM," you have a guided tour, not an audit right.
+Has anyone compared your top ten infusion drugs across settings this year? Drug plus administration, hospital outpatient vs ambulatory vs home. It is one spreadsheet, and it usually pays for the analyst who builds it many times over.
 ```
-  First reply → The five clauses that fix it: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → Start with the decision tree: benefitblindspots.substack.com/p/site-of-care-optimization-decision-tree
 - **8:30 PM · aphorism [C10]:**
 ```
 "Spread" is the only word in pharmacy pricing the PBM will never print on your report, because printing it would end it.
 ```
 
 **Thu Jul 30**
-- **8:00 AM · recipe / Drug reclassification (Tier B):**
+- **8:00 AM · recipe / The REMS excuse (Tier B):**
 ```
-"Specialty" has no fixed clinical definition. It's whatever your PBM's contract says it is, and the specialty bucket carries the weakest pricing guarantee. So the PBM has every reason to call more of your drugs "specialty." Watch the list grow between renewals.
+"REMS requires it" ends a lot of site-of-care conversations early. Check the label: plenty of infused drugs carry no REMS administration requirement at all. When "safety" is the answer for every drug on the list, the answer is not about safety.
 ```
-  - **First reply (link):** rxbs.org/toolkit/definition-variance-audit
+  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+A specialty drug's "day supply" rule decides how often fees recur. Shorter fills, more fills, more dispensing events to bill. Ask who set the day-supply rule on your top ten specialty drugs, and what it does to the fee line.
 ```
 - **5:00 PM · punchy:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+When the pharmacy is its own, the PBM negotiates the reimbursement rate with itself. That is not a negotiation. It is an allowance.
 ```
 - **7:00 PM · question post [A5]:**
 ```
-When did you last open your PBM reporting portal? If the answer is "never," the PBM is the only party reading your plan's own data. That asymmetry is most of the game.
+Your specialty claims file has a column for the filling pharmacy. When did anyone on your side last sort by it? One sort, one afternoon, and you know where the routing rules have been sending your members.
 ```
   First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B10]:**
@@ -972,24 +974,24 @@ Ask your PBM: "If we wanted to leave, what in this contract makes it expensive o
 ```
 
 **Fri Jul 31**
-- **8:00 AM · recipe / Pass-through definition trick (Tier B):**
+- **8:00 AM · recipe / Site-of-care program fees (Tier B):**
 ```
-"100% pass-through" hides a noun. 100% of what the PBM received, or 100% of what the manufacturer paid? A middleman it owns sits between those two numbers. Same percentage. Different starting line. The definition is the whole game.
+Site-of-care programs your PBM sells: it charges your plan a program fee to move infusions to cheaper settings, then books a share of the savings. Moving the chair was your right all along. Check whether you are renting back your own lever.
 ```
-  - **First reply (link):** rxbs.org/toolkit/rebate-report-audit
+  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+Home infusion is not a downgrade. Member satisfaction data keeps saying most patients prefer their own couch. The "members will hate it" objection usually comes from the party billing the hospital rate.
 ```
 - **5:00 PM · punchy:**
 ```
-Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+The most expensive room in American health care is the one nobody re-priced: the infusion suite your members were referred to years ago and never left.
 ```
 - **7:00 PM · question post [A6]:**
 ```
-Where does your PBM make the most money on a single prescription? Not the dispensing fee. The spread on the price, the rebate on the list, and the fee on the claim, all at once. You were sold one of the three. The contract contains all three.
+When did your plan last see an infusion claim itemized: drug, administration, facility fee, markup? One itemized claim teaches more than a quarter of summary reporting. Ask for one this week.
 ```
-  First reply → Map all three on your own plan: rxbs.org/toolkit/pbm-compensation
+  First reply → Map where each line goes: rxbs.org/toolkit/pbm-compensation
 - **8:30 PM · origin-anchored (1/week) [D7]:**
 ```
 Saw a termination clause this month that required 180 days' notice, a transition fee, and PBM sign-off on the new vendor's file format. That's not an exit. It's a leash dressed as a process.
@@ -1008,20 +1010,20 @@ Manufacturers pay PBMs "price protection" when a drug's list price rises. Your c
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+GLP-1 coverage is the biggest set of checks your plan will write this decade, and most of the decisions were made by a formulary committee your plan has never met.
 ```
-- **2:30 PM · copay accumulator (Tier A):**
+- **2:30 PM · alternative funding programs (Tier A):**
 ```
-Copay accumulators: a program that takes the manufacturer's copay assistance, keeps it off your member's deductible, and routes the value back to the PBM. It's probably in your contract. It's probably not labeled that clearly.
+"Alternative funding" vendors: they carve your specialty drugs out of coverage, route members into manufacturer charity programs built for the uninsured, and charge your plan a percentage of the "savings." Charity as a cost strategy. Ask who signed your plan up to be needy.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · punchy:**
 ```
-Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
+"Usual and customary" is the funniest phrase in drug pricing: nothing about it is usual, and all of it is customary.
 ```
 - **7:00 PM · question post [A7]:**
 ```
-Is the drug on your formulary there because it works best, or because it paid the biggest rebate to sit there? For too many plans the honest answer is the second one, and the net cost analysis proves it.
+Does your stop-loss policy follow the drug when an infusion moves from the medical benefit to the pharmacy benefit? Site-of-care changes can quietly move a claim outside the coverage you thought you had. Ask before the move, not after the claim.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C1]:**
@@ -1042,7 +1044,7 @@ There's a vendor whose entire job is to reclassify your member's specialty drug 
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
+Ambulatory infusion suites publish price lists. Hospital outpatient departments publish chargemasters. If those were the same kind of document, the two would not sit multiples apart for the same bag.
 ```
 - **2:30 PM · brown bagging (Tier A):**
 ```
@@ -1055,9 +1057,9 @@ Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me wh
 ```
 - **7:00 PM · question post [A8]:**
 ```
-It is mid-year. Who has a renewal model built on your H1 claims right now? Your PBM does. If your plan does not, the renewal is already half-decided before the first meeting.
+Which of your infused drugs have a home-infusion precedent your plan has never used? Rheumatology and enzyme replacement usually top the list. The precedent exists. The referral pattern just predates it.
 ```
-  First reply → This week's deep dive on Benefit Blind Spots walks the H1 review: benefitblindspots.substack.com
+  First reply → The category-by-category decision tree: benefitblindspots.substack.com/p/site-of-care-optimization-decision-tree
 - **8:30 PM · one question [B1]:**
 ```
 One question that changes the room: "Show me the difference between what you paid the pharmacy and what you billed us, by claim." Watch how long the answer takes.
