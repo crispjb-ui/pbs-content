@@ -17,6 +17,10 @@ const manifestPath = (arg2 && arg2.endsWith(".json")) ? arg2 : "../honest-hr-shr
 const clipFilter = (arg2 && !arg2.endsWith(".json")) ? arg2 : process.argv[3];
 const m = JSON.parse(readFileSync(manifestPath, "utf8"));
 const fps = m.fps || 30;
+// Chrome renders one composition at a time; concurrency>1 OOMs on low-RAM machines
+// (Remotion errors "Could not take a screenshot... ran out of memory"). Default to 1;
+// override on a beefier box with e.g.  CONC=2 node render-with-extract.mjs v2
+const CONC = process.env.CONC || 1;
 const clips = clipFilter === "v2" ? m.clips.filter(c => c.id.endsWith("v2"))
   : clipFilter === "v1" ? m.clips.filter(c => !c.id.endsWith("v2"))
   : clipFilter ? m.clips.filter(c => c.id === clipFilter || c.slug === clipFilter)
@@ -108,7 +112,7 @@ for (const f of FORMATS) {
 
     try {
       execSync(
-        `npx remotion render src/index.ts ${f.comp} ${out} --props=${propsPath} --concurrency=2 --log=error`,
+        `npx remotion render src/index.ts ${f.comp} ${out} --props=${propsPath} --concurrency=${CONC} --log=error`,
         { stdio: "inherit", timeout: 300000 }
       );
       console.log(`  ✓ ${out}`);
