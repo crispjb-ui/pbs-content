@@ -10,6 +10,8 @@ _Extracted from `glossary.html` Jul 9, 2026. Add each as its own markup entry (n
 
 ## Markup 2 — name it `Glossary BreadcrumbList`
 
+_Adjusted Jul 9, 2026: the blueprint's 3-level breadcrumb referenced `rxbs.org/insights`, which does not exist on the live site yet. Use this 2-level version (Home > PBM Glossary); restore the Insights level when that hub page ships with the site revamp._
+
 ```json
-{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.rxbs.org/"},{"@type":"ListItem","position":2,"name":"Insights","item":"https://www.rxbs.org/insights"},{"@type":"ListItem","position":3,"name":"PBM Glossary","item":"https://www.rxbs.org/glossary"}]}
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.rxbs.org/"},{"@type":"ListItem","position":2,"name":"PBM Glossary","item":"https://www.rxbs.org/glossary"}]}
 ```
