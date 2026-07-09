@@ -777,7 +777,7 @@ Get next Monday's deep dive on Rebate Economics in your inbox: benefitblindspots
 ## Monday
 
 **Morning (7-8 AM) — Article Launch Teaser:**
-New on Benefit Blind Spots: pharmacy network design. A client's broker flagged that their specialty routing was costing more than the entire formulary rebate was saving. One change fixed it. This week includes a five-channel cost comparison model.
+A client's broker flagged that their specialty routing was costing more than the entire formulary rebate was saving. One routing change recaptured it. That story opens this week's Benefit Blind Spots deep dive on pharmacy network design, with the five-channel cost comparison model we run with clients.
 
 Read the full analysis: [LINK]
 
@@ -804,6 +804,8 @@ A plan sponsor asked me whether I could "just tell" what her network design was 
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
+
+_Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 Working in retail pharmacy years ago, I watched the same prescription get filled at my counter and at mail order on different days for the same patient. The prices to the plan were different. The drug was the same. That observation stayed with me. Network design is not theory. It is the invisible pricing that happens every time a prescription gets filled somewhere.
@@ -877,10 +879,11 @@ A client's HR director called me after she had successfully implemented a networ
 Admin fees: five line items on your monthly PBM invoice. Administrative. Clinical program. Network access. Implementation recovery. Rebate administration. The PBM wrote all five definitions. Four of them are margin wearing a service's name.
 ```
   First reply (link): rxbs.org/toolkit/pbm-compensation
-- **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
+- **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup** _(swapped Jul 9: the prior GER-average backup scooped Thursday's 12-cent/$9 reveal 3 days early, a LinkedIn-first violation; this one amplifies Monday's already-published deep dive instead)_:
 ```
-"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+Your pharmacy report shows total spend, total claims, total rebates. It never shows cost per script by channel for the same drug. The aggregate is the hiding place. This morning's deep dive breaks the five channels apart.
 ```
+  First reply → benefitblindspots.substack.com (Monday deep dive)
 - **5:00 PM · punchy:**
 ```
 Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
@@ -1018,10 +1021,11 @@ DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of 
 White bagging: your PBM requires a specialty drug be shipped from its own pharmacy to the clinic, instead of the clinic buying it. Sounds like a safety rule. It's a routing rule, and it routes the margin to the PBM. Read who owns the pharmacy in the mandate.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
-- **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
+- **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup** _(swapped Jul 9: prior backup duplicated Thu 8:00 AM's pass-through-noun concept in the same week; this amplifies Thursday's published reveal with the sourced FTC stat)_:
 ```
-"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+The FTC found the big-3 PBMs reimbursed their own pharmacies as much as 100% more than independents for the identical generic. Same pill. Same day. The difference was who owned the counter.
 ```
+  First reply → Thursday's field note + the GER Audit Worksheet: rxbs.org/toolkit/ger-audit
 - **2:30 PM · specialty routing (Tier A):**
 ```
 Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. Ask to see the net cost per script the day it routed there.
