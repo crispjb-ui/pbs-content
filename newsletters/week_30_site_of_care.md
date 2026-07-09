@@ -393,9 +393,9 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-The same infusion costs your plan two to five times more in a hospital outpatient setting than in a physician office or at home. Most plans pay the hospital rate because they have no site-of-care policy on the books.
+Same drug. Same dose. Same clinical outcome. In a hospital outpatient department the claim runs two to five times higher than in a physician office or the member's home, and the difference is the facility fee the hospital bills for the chair, not the medicine.
 
-This briefing walks through the cost gap by setting, four therapeutic categories where site-of-care moves the most dollars, and the decision tree to build.
+Most plans pay the hospital rate by default, because no site-of-care policy exists on the books to say otherwise. This briefing walks through the cost gap by setting, four therapeutic categories where site-of-care moves the most dollars, and the decision tree to build.
 
 Site-of-care decision tree on Substack.
 

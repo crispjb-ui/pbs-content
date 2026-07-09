@@ -353,7 +353,7 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-The PBM contract you signed three years ago is still deciding what your plan pays today, claim by claim. Most plan sponsors have not re-read it since.
+The PBM contract you signed three years ago is still deciding what your plan pays today, claim by claim. You signed it. The PBM drafted it. Most plan sponsors have not re-read it since.
 
 This briefing walks through ten contract provisions in three versions each (weak, moderate, strong), plain-language explanations of what each version actually means, and the redline language to bring to renewal.
 

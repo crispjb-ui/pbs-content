@@ -421,9 +421,9 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-Most PBM RFPs ask the questions a PBM is most prepared to answer. The questions that actually decide a competitive bid are different.
+Most PBM RFP templates trace back to PBMs and industry associations, which means the PBM has rehearsed answers to your exact questions long before your RFP arrives. The questions that actually decide a competitive bid are the ones no standard template asks.
 
-This briefing walks through the thirty questions that change a PBM evaluation, how to score the answers on a 90-point scale, and what to do when a finalist refuses to answer.
+This briefing walks through the thirty questions that change a PBM evaluation, how to score the answers on a 90-point scale, and why a finalist refusing to answer is itself an answer.
 
 PBM RFP question bank on Substack.
 

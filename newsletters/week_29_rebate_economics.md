@@ -399,9 +399,9 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-Your PBM's rebate report is mathematically correct and operationally incomplete. The math accounts for what the PBM received. It does not account for what the rebate aggregator kept before the PBM received it.
+Your PBM's rebate report says 100% pass-through, and the math checks out. 100% of what the PBM received. The rebate aggregator that took its fee before the money ever reached the PBM appears nowhere on that report, so the number is true and the yield is smaller than it looks.
 
-This briefing walks through where the gap lives, the eight contract provisions that determine your real rebate yield, and the language to bring to renewal.
+This briefing follows the dollar from manufacturer to plan: where the gap lives, the eight contract provisions that determine your real rebate yield, and the language to bring to renewal.
 
 Rebate contract analysis framework on Substack.
 

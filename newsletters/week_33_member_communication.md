@@ -390,7 +390,7 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-A pharmacy benefit change that saves the plan money and surprises a member at the counter is a failed change. Most cost-containment decisions fail at the communication layer, not the strategy layer.
+The first place most members learn their pharmacy benefit changed is the counter, at the moment the fill rejects. A change that saves the plan money and lands that way is a failed change: the strategy was sound, the communication layer is where it died.
 
 This briefing breaks down what to communicate when, who needs which message, and the five most-common change scenarios with ready-to-adapt templates.
 

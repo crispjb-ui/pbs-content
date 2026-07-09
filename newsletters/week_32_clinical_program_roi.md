@@ -384,9 +384,9 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-Your PBM reports the savings their clinical programs generated last year. The reports are usually impressive. The methodology behind them is usually unverified.
+The savings report on your PBM's clinical programs was written by the PBM that runs the programs and charges the fees. The vendor being evaluated is the author of the evaluation, the numbers are usually impressive, and the methodology behind them almost never gets independently verified.
 
-This briefing walks through how PBM clinical-program savings get calculated, where the methodologies typically break down, and the four dimensions you should score each program on.
+This briefing walks through how PBM clinical-program savings actually get calculated, where the methodologies break down, and the four dimensions to score each program on before renewal.
 
 Clinical program evaluation scorecard on Substack.
 
