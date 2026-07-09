@@ -21,6 +21,10 @@ const fps = m.fps || 30;
 // (Remotion errors "Could not take a screenshot... ran out of memory"). Default to 1;
 // override on a beefier box with e.g.  CONC=2 node render-with-extract.mjs v2
 const CONC = process.env.CONC || 1;
+// Per-clip render kill-switch. At concurrency 1 on a slow machine a ~30s clip can take
+// >5min; the old 5-min cap killed working renders with ETIMEDOUT. Default 30min;
+// override with e.g.  RENDER_TIMEOUT_MS=3600000 node render-with-extract.mjs v2
+const RENDER_TIMEOUT = Number(process.env.RENDER_TIMEOUT_MS) || 1800000;
 const clips = clipFilter === "v2" ? m.clips.filter(c => c.id.endsWith("v2"))
   : clipFilter === "v1" ? m.clips.filter(c => !c.id.endsWith("v2"))
   : clipFilter ? m.clips.filter(c => c.id === clipFilter || c.slug === clipFilter)
@@ -113,7 +117,7 @@ for (const f of FORMATS) {
     try {
       execSync(
         `npx remotion render src/index.ts ${f.comp} ${out} --props=${propsPath} --concurrency=${CONC} --log=error`,
-        { stdio: "inherit", timeout: 300000 }
+        { stdio: "inherit", timeout: RENDER_TIMEOUT }
       );
       console.log(`  ✓ ${out}`);
     } catch (e) {
