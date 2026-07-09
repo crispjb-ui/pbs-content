@@ -381,7 +381,7 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-Specialty drugs are two percent of prescriptions and roughly half of pharmacy spend. The category trends double-digits annually. Most plan sponsors are managing it the way they manage everything else.
+Two percent of prescriptions. Half of pharmacy spend. Double-digit trend, every year. All three numbers point at the same conclusion: half of your pharmacy budget now rides on how your plan manages two percent of its scripts, and most plans manage that two percent with the same tools as the other ninety-eight.
 
 This briefing walks through what specialty management actually requires, the eight factors that determine whether your plan controls the spend or the spend controls your plan, and the assessment to run before renewal.
 
