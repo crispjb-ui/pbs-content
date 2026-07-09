@@ -11,7 +11,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 |-----|------|---------|---------|-------|---|
 | Sun Jul 12 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Jul 13 | 7:30 AM | Substack | Deep dive: "Pharmacy Network Design: The Cost Variable Most Employers Overlook" | PART 1 | [ ] |
-| Mon Jul 13 | 7:45 AM | LI Newsletter | Network Design Briefing ⚠ paste live deep-dive URL into body + first comment; confirm ger-audit toolkit page renders before posting first comment | PART 2 | [ ] |
+| Mon Jul 13 | 7:45 AM | LI Newsletter | Network Design Briefing ⚠ paste live deep-dive URL into body + first comment (first-comment toolkit is the already-live channel-pricing worksheet) | PART 2 | [ ] |
 | Mon Jul 13 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Mon | [ ] |
 | Mon Jul 13 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
 | Mon Jul 13 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
@@ -454,10 +454,10 @@ Same drug, three pharmacies, three prices, one PBM setting all of them. The chan
 
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
-And this week's Generic Effective Rate (GER) Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/ger-audit
+And the Channel Pricing Audit Worksheet is the companion that runs the same net-cost-per-script comparison across retail, mail, and specialty on your own plan: rxbs.org/toolkit/channel-pricing
 ```
 
-_Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/ger-audit`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
+_Routed to the Monday deep dive's own companion tool, the Channel Pricing Audit Worksheet (`rxbs.org/toolkit/channel-pricing`), which is already live (W18) and on-topic for network/channel cost. (The new Generic Effective Rate Worksheet is this week's Thursday handout and is cross-promoted on the Thursday posts, not here.) If the deep-dive URL is not live by post time, drop the second line and route to the toolkit only; the integrated tool is also embedded in the deep dive._
 
 
 ---
