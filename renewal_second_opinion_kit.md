@@ -84,7 +84,7 @@ Archetype: Utility/Conversion, same visual system as the toolkit landing pages. 
 ## Build checklist
 
 - [x] Ginny: approve name + copy (**Decision #1**) — ✅ **APPROVED Jul 9, 2026, name kept as "Renewal Second Opinion"** (alternatives evaluated and declined). Price posture per the pricing memo still open at build time.
-- [ ] Brett: build request-a-call **first** (its CTA target), then build `/renewal-second-opinion` per the assembly specifics above. ⏱ **live by Aug 15.**
-- [ ] Paste the `Service` JSON-LD + SEO fields; leave indexable ON.
+- [x] Brett: build request-a-call **first** (its CTA target), then build `/renewal-second-opinion` per the assembly specifics above. ✅ **PAGE LIVE Jul 9, 2026 — five weeks ahead of the Aug 15 deadline.** Open micro-polish: restore the H1's trailing period ("unread.") and add the footer line; verify the CTA button carries `?topic=renewal-second-opinion` (pre-select check).
+- [x] Paste the `Service` JSON-LD + SEO fields; leave indexable ON. ✅ **Validated Jul 9 (validator.schema.org: Service, 0 errors / 0 warnings; title/meta/canonical all rendering).**
 - [ ] **Do NOT promote publicly until `/standards` is live** (the Independence line references the published Standards; rollout has Standards at Aug W1, this page's public promotion at Sep 8). Building/publishing quietly before then is fine; linking it publicly is the gated step.
 - [ ] Claude session: after the page is live, sweep the campaign links in (Email 07 CTA → `rxbs.org/renewal-second-opinion`, W35-37 first comments where renewal-topical).
