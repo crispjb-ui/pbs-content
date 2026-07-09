@@ -1,6 +1,6 @@
 # Renewal Second Opinion — the September offer kit (publish-ready)
 
-**Status:** copy-complete pending Ginny's name approval (Decision #1). Contains: the offer definition, the landing page copy (`rxbs.org/renewal-second-opinion`, Utility/Conversion archetype), the 90-Day Notice framing, and the campaign integration lines. ⏱ page live by Aug 15; the offer is the September campaign's product.
+**Status:** copy-complete; **name + copy APPROVED (Ginny, Jul 9, 2026 — Decision #1)**. Contains: the offer definition, the landing page copy (`rxbs.org/renewal-second-opinion`, Utility/Conversion archetype), the 90-Day Notice framing, and the campaign integration lines. ⏱ page live by Aug 15; the offer is the September campaign's product.
 **⚠ RED-TEAM (Jul 6, 2026): PASSED attacks 1-6.** One sequencing note: the independence line references the published Standards, so /standards must be live before this page is PROMOTED (the rollout calendar already guarantees this: Standards Aug W1, RSO promotion Sep 8). Date-math verified (90 days before Jan 1 = early Oct).
 
 ## The offer (internal definition)
@@ -83,7 +83,7 @@ Archetype: Utility/Conversion, same visual system as the toolkit landing pages. 
 
 ## Build checklist
 
-- [ ] Ginny: approve name + copy (**Decision #1**); set the price posture per the pricing memo. _(If the name changes from "Renewal Second Opinion," update the H1/subhead/schema/slug together.)_
+- [x] Ginny: approve name + copy (**Decision #1**) — ✅ **APPROVED Jul 9, 2026, name kept as "Renewal Second Opinion"** (alternatives evaluated and declined). Price posture per the pricing memo still open at build time.
 - [ ] Brett: build request-a-call **first** (its CTA target), then build `/renewal-second-opinion` per the assembly specifics above. ⏱ **live by Aug 15.**
 - [ ] Paste the `Service` JSON-LD + SEO fields; leave indexable ON.
 - [ ] **Do NOT promote publicly until `/standards` is live** (the Independence line references the published Standards; rollout has Standards at Aug W1, this page's public promotion at Sep 8). Building/publishing quietly before then is fine; linking it publicly is the gated step.
