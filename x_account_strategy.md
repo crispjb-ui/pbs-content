@@ -172,6 +172,18 @@ _Verify exact handles when setting up; some of the LinkedIn target accounts have
 
 ---
 
+## Elevation + variant discipline (added Jul 9, 2026, Ginny-approved — X is gaining traction; keep the shapes, kill the copies)
+
+The named-program recipe / punchy aphorism / question-post shapes are WORKING on X. The failure mode the Jul 9 audit caught is not the shapes, it is **verbatim recycling**: the Jun-Jul builds repeated identical bodies on a ~2-week cycle (three bodies shipped in all 10 built weeks; ~30 bodies duplicated across W28-W37 before the variant pass). Required behavior:
+
+1. **No verbatim repeats within ~6 weeks; no concept repeats within ~2 weeks.** Quiet-day backups count as posts (they ship publicly when news is quiet). Enforced at build by `week_build_spec.md` §8.
+2. **A returning concept is a fresh variant, not a copy:** swap the anchor number, the scene, or the framing device each time ("rent on the cage" one week; a new image for the same fee the next). The concept bank is the reservoir; the wording is single-use for ~6 weeks.
+3. **Reveal reservation:** never spend the week's own Tue/Thu reveal material in a Mon-Wed X slot or backup; after the LinkedIn post publishes, the X version runs as an amplifier. A FUTURE week's reserved reveal stat/scene never runs early; the generic recipe shape may.
+4. **Elevation levers, in priority order:** (a) same-hour news reactions beat every scheduled slot — fire them over the backup whenever real PBM news breaks; (b) attach a library visual (`[VISUAL]`) wherever one fits — toolkit preview PNGs, Tue/Thu heroes post-publish, X crops via `render_preview.py --x`; (c) weekend Tier A Cuban-bait stays front-loaded in the Cuban-active window; (d) @-tag the source on every news reaction (tagging beats hashtagging); (e) the long-form trial slot continues 1x/week where the week file carries one.
+5. **Bank hygiene:** new variants written at build time get absorbed into `x_recipe_post_bank.md` / `x_evening_block_bank.md` at the monthly `/system-audit`, so the reservoir grows instead of the same 10 texts cycling.
+
+---
+
 ## What NOT to do
 
 - Don't let origin stories creep past one per week. They're the Substack format; on X they underperform. The mix stays skewed to named-adversary + reactions + decoders.
