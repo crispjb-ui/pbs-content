@@ -4,7 +4,7 @@
 
 ## Decide this week (time-sensitive)
 
-- [ ] **1. "Renewal Second Opinion" — approve the offer + name.** The September campaign's product: a fast, fixed-scope independent read of renewal terms. Copy is ready (`renewal_second_opinion_kit.md`). *Recommend: YES as named.* ⏱ page must be live by Aug 15.
+- [x] **1. "Renewal Second Opinion" — approve the offer + name.** ✅ **APPROVED by Ginny Jul 9, 2026 — keep the name as-is** (alternatives evaluated: Redline Review / Before-You-Sign / Independent Renewal Review / 90-Day Check / Renewal Audit; the second-opinion medical frame won on independence + PharmD credibility). The September campaign's product: a fast, fixed-scope independent read of renewal terms. Copy is ready (`renewal_second_opinion_kit.md`); page preview rendered (`email_gated_toolkit/landing_pages/renewal_second_opinion_preview.html`). ⏱ page must be live by Aug 15; build unblocked.
 - [ ] **2. Briefing #1 date + platform.** *Recommend: Wednesday Sep 16, 12:00 PM ET, Zoom Webinar (registration = lead capture).* Needs your Zoom tier confirmed. ⏱ registration opens Aug 19.
 - [ ] **3. Ad test go/no-go.** $1.5-3K total, 2-4 weeks, AD-6/AD-7, hard stop rule at CPL >$60. *Recommend: YES, start mid-July so the data exists before September.*
 - [ ] **4. "Fiduciary File" — approve the name + send the one-pager language to counsel.** Reframes every engagement's deliverable as fiduciary protection. Draft ready (`fiduciary_file_onepager.md`). *Recommend: YES; counsel reads the claim language, nothing publishes before that.*
