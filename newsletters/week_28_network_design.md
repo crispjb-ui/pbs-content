@@ -436,14 +436,16 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-The same drug carries a different net cost depending on which pharmacy channel fills it. Most plan sponsors review their PBM contract; almost none ever review their network design.
+The pharmacy filling your plan's most expensive claims is often owned by the PBM that routed them there. The same drug carries a different net cost in each of the five dispensing channels, and the default routing was designed for the PBM's network margins, not your spend.
 
-This briefing breaks down the five dispensing channels (retail, mail order, specialty, white bagging, home infusion) and the cost gap each one hides inside the aggregate report.
+Most plan sponsors review their PBM contract. Almost none ever review their network design. That gap is where this briefing goes: retail, mail order, specialty, white bagging, home infusion, and the cost difference each one hides inside the aggregate report.
 
 Network cost comparison model on Substack.
 
 #NetworkDesign #PharmacyBenefits #SelfFundedEmployers
 ```
+
+_Copy note (Jul 9, 2026, from the W27 publish-post breakout): the W27 announcement ran 9,494 impressions / 90% out-of-network / 3 reposts vs the 1.2-1.4K format baseline (W20: 1,188, W23: 1,356) with no amplifier (Cuban like only = zero effect per the likes-only rule). Drivers: news-cluster opener, real proper nouns (CVS, Act 77, Tennessee), and a convergence mini-reveal ("all pointed at the same thing"). Pattern applied here: lead with the named-actor ownership conflict from the deep dive since no honest news peg exists for network design this week (the FTC affiliated-pharmacy stat stays reserved for Thursday's Post 103 reveal)._
 
 ### LinkedIn Newsletter First Comment
 
