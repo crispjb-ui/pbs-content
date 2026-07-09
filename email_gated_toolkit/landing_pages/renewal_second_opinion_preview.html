@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Renewal Second Opinion — Wix build preview</title>
+<style>
+  :root { --primary:#015880; --accent:#A7E0FA; --gray:#4D4D4D; --gray2:#7a7a7a; --rule:#E5E5E5; --white:#FFFFFF; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:'IBM Plex Sans','Segoe UI',sans-serif; background:#F7FAFC; color:var(--gray); }
+  .note { background:#FFF8E6; border-left:3px solid #E0B84A; font-size:12.5px; color:#7A5C10; padding:8px 12px; border-radius:3px; margin:24px auto 8px; max-width:720px; text-align:left; }
+  .note code { font-family:monospace; }
+  .container { max-width:680px; margin:0 auto; padding:48px 32px 56px; }
+  .eyebrow { font-weight:600; font-size:13px; letter-spacing:.06em; text-transform:uppercase; color:var(--primary); margin-bottom:14px; }
+  h1 { font-weight:600; font-size:42px; line-height:1.12; color:var(--primary); margin-bottom:18px; }
+  .lede { font-weight:600; font-size:19px; line-height:1.5; color:var(--gray); margin-bottom:22px; }
+  p.body { font-size:16px; line-height:1.6; margin-bottom:18px; }
+  h2 { font-weight:600; font-size:20px; color:var(--primary); margin:30px 0 14px; }
+  ol.covers { list-style:none; counter-reset:step; margin-bottom:8px; }
+  ol.covers li { counter-increment:step; padding:12px 0 12px 44px; position:relative; border-bottom:1px solid var(--rule); font-size:16px; line-height:1.55; }
+  ol.covers li:last-child { border-bottom:none; }
+  ol.covers li::before { content:counter(step); position:absolute; left:0; top:12px; width:28px; height:28px; background:var(--primary); color:var(--white); border-radius:50%; font-weight:600; font-size:13px; display:flex; align-items:center; justify-content:center; }
+  ol.covers li strong { color:var(--primary); font-weight:600; }
+  .fact { font-size:16px; line-height:1.6; margin-bottom:14px; }
+  .fact strong { color:var(--primary); font-weight:600; }
+  .check { background:var(--accent); border-radius:8px; padding:22px 26px; margin:28px 0; font-size:16.5px; line-height:1.6; color:var(--primary); }
+  .check strong { font-weight:600; }
+  .cta-block { text-align:center; margin:34px 0 10px; }
+  .cta { display:inline-block; padding:14px 28px; background:var(--primary); color:var(--white); text-decoration:none; border-radius:4px; font-weight:600; font-size:16px; }
+  .cta-sub { font-size:14px; color:var(--gray); margin-top:12px; line-height:1.5; }
+  .footer-line { font-size:12px; color:var(--gray2); text-align:center; margin-top:36px; font-style:italic; }
+  @media (max-width:640px){ h1{font-size:30px;} .lede{font-size:17px;} .container{padding:40px 22px 44px;} }
+</style>
+</head>
+<body>
+<div class="note">
+  PREVIEW ONLY — visual target for the Wix build at <code>rxbs.org/renewal-second-opinion</code>.
+  Utility/Conversion archetype, native Wix elements, <strong>indexable ON</strong>. No form on this
+  page: the CTA deep-links to <code>request-a-call?topic=renewal-second-opinion</code> (already live).
+  Gates: Ginny's name/copy approval (Decision #1); do not PROMOTE publicly until /standards is live
+  (build + publish quietly is fine). ⏱ live by Aug 15.
+</div>
+
+<div class="container">
+  <div class="eyebrow">Renewal Second Opinion</div>
+  <h1>Do not sign the renewal unread.</h1>
+
+  <p class="lede">A Renewal Second Opinion is a fast, independent read of your PBM renewal terms, from clinical pharmacists who review hundreds of PBM contracts a year, before your notice window closes.</p>
+
+  <p class="body">Your January 1 renewal is being decided right now. Renewal terms typically arrive between August and October. Termination and amendment notice windows, usually 90 days, close in early October. Whatever gets signed this fall is the contract your plan lives with all of next year.</p>
+
+  <p class="body">Here is what we see in our work at Prescription Benefit Solutions: renewal changes are rarely announced. They are redlined. A definition shifts. An exclusion list grows. A guarantee gets a new denominator. The cover letter says "no significant changes," and the redline says otherwise.</p>
+
+  <h2>What the Renewal Second Opinion covers</h2>
+  <ol class="covers">
+    <li><strong>Every change,</strong> located and translated: the renewal terms laid against your current contract, each difference explained in plain English with its cost direction.</li>
+    <li><strong>The three sections that decide the money:</strong> pricing-guarantee definitions and math, rebate language and exclusions, and your audit and termination rights.</li>
+    <li><strong>The push-back list:</strong> the specific language to request before you sign, drawn from the protective provisions we negotiate across hundreds of contracts a year.</li>
+  </ol>
+
+  <p class="fact"><strong>What you receive:</strong> a written summary your CFO can read in ten minutes, the marked-up terms, the push-back language ready to send, and your Fiduciary File entry documenting that the renewal was independently reviewed before signature.</p>
+  <p class="fact"><strong>Timeline:</strong> days, not weeks. Built to fit inside a closing notice window.</p>
+  <p class="fact"><strong>Independence:</strong> we take no money from any PBM. Our only client in this engagement is your plan. Our standards are published and we attest to them in writing.</p>
+
+  <div class="check"><strong>The 90-Day Check:</strong> if your plan renews January 1, count back 90 days. That is your real deadline, and it is earlier than it feels. If you are inside the window and the renewal terms are sitting unread, that is exactly the situation this engagement exists for.</div>
+
+  <div class="cta-block">
+    <a class="cta" href="https://www.rxbs.org/request-a-call?topic=renewal-second-opinion">Request a call</a>
+    <div class="cta-sub">A few sentences on where your renewal stands is enough to start.<br>Our team will reply within one business day.</div>
+  </div>
+
+  <div class="footer-line">Prescription Benefit Solutions · Charleston, SC · Independent pharmacy benefits consulting · www.rxbs.org</div>
+</div>
+</body>
+</html>
