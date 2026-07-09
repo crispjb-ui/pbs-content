@@ -484,7 +484,7 @@ The full form is in the first comment, straight from CMS. Read it yourself, not 
 
 A denied pharmacy claim is required before a prescriber can even file the PA. In this design the denial is not a risk. It is a required step.
 
-From there: a 12-question clinical gauntlet (BMI tiers, sleep apnea, MASH, heart failure, kidney disease), routed through a dedicated BIN and PCN built so the denial happens by design.
+From there: a 12-question clinical gauntlet (BMI tiers, pre-diabetes status, cardiovascular history), routed through a dedicated BIN and PCN built so the denial happens by design.
 
 I read prior-authorization criteria for a living. That is not a coverage pathway. It is a sequence of gates with a coverage door at the end.
 
@@ -513,15 +513,15 @@ _Publisher note: before posting, click the CMS link to confirm it still lands on
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed government prior-authorization form titled "MEDICARE GLP-1 BRIDGE PRIOR AUTHORIZATION REQUEST FORM" rests on a dark wood desk. CRITICAL: this is read in the LinkedIn mobile feed, so the four red callouts must DOMINATE the frame and be large and legible. Keep the form's printed fine print minimal so it never competes with the callouts. A red uncapped ballpoint pen lies in the lower-right corner. No logos, no brand marks, no people, no real names.
+> A photorealistic top-down photo, 1080 x 1350 pixels (4:5 vertical). A printed government prior-authorization form titled "MEDICARE GLP-1 BRIDGE PRIOR AUTHORIZATION REQUEST FORM" rests on a dark wood desk. CRITICAL: this is read in the LinkedIn mobile feed, so the four red callouts must DOMINATE the frame and be large and legible. Keep the form's printed fine print minimal so it never competes with the callouts; the only faintly legible body furniture is a covered-drug line reading "Foundayo, Wegovy, Zepbound" and a small prescriber signature block near the bottom, both kept subtle. A red uncapped ballpoint pen lies in the lower-right corner. No logos, no brand marks, no people, no real names.
 >
 > Stamped across the top in large red-pen handwriting, double-underlined: The GLP-1 Access Gauntlet, Decoded
 >
 > Four elements on the form are circled in red pen, each with a red arrow to a LARGE, high-contrast, bright-red handwritten margin note (well spaced, never thin or cramped):
 > 1. a line reading "a DENIED pharmacy claim is required before the PA" -> "Fail-first. The denial is a required step, not a risk."
-> 2. a block of numbered clinical questions -> "12 gates: BMI, sleep apnea, MASH, heart failure, kidney disease."
+> 2. a block of numbered clinical questions -> "12 gates: BMI tiers, pre-diabetes status, cardiovascular history."
 > 3. "BIN 028918 / PCN MEDDGLP1BR" -> "A separate rail, built so the denial happens by design."
-> 4. two coverage paths -> "Eligible diagnosis routes to Part D. Weight-loss-only routes to the Bridge."
+> 4. two coverage paths -> "Eligible diagnosis (OSA, MASH, type 2 diabetes, established CVD) routes to Part D. Weight-loss-only routes to the Bridge."
 >
 > At the bottom, inside a bold hand-drawn red rectangle in large legible red text: Your PBM runs the same playbook on your plan.
 >
