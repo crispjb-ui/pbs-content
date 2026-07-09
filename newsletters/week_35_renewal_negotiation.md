@@ -663,9 +663,9 @@ Get next Monday's deep dive on Contract Red Flags in your inbox: benefitblindspo
 ## Monday
 
 **Morning (7-8 AM) — Article Launch Teaser:**
-New on Benefit Blind Spots: the renewal negotiation playbook. Twelve provisions with benchmarks and tactics. This is the execution guide for the 90-day preparation we started in Week 25.
+The PBM's renewal proposal prices two provisions to look great: the discount and the rebate. The other ten provisions are where it makes the money back, and most employers never negotiate a single one of them. The new deep dive is the renewal negotiation playbook: twelve provisions with benchmarks and tactics, the execution guide for the 90-day prep we started in Week 25.
 
-Read: [LINK]
+Read the full analysis: [LINK]
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 I have watched employers accept PBM renewal terms that left substantial value on the table because they negotiated fewer than half the provisions that matter. The PBM presented competitive headline pricing. The employer signed. The structural provisions (audit rights, penalty caps, termination terms) were all PBM-favorable defaults. The pricing looked good. The contract did not protect them.
@@ -690,6 +690,8 @@ A broker brought me into a renewal where the client had been asking the PBM for 
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
+
+_Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 I sat with a client through a renewal meeting where the PBM's rep tried to close pricing in the first hour. We had two days scheduled. I told the client: nothing gets decided today. The rep looked frustrated. The client got stronger terms than she would have on day one because the pressure to close was the PBM's, not ours. Time is leverage in renewal. Do not give it away cheaply.
@@ -756,84 +758,84 @@ A plan sponsor once asked me whether I ever "lose" renewal negotiations. My hone
 **Mon Sep 1** _(Labor Day)_
 - **8:00 AM · recipe / Drug reclassification (Tier B):**
 ```
-"Specialty" has no fixed clinical definition. It's whatever your PBM's contract says it is, and the specialty bucket carries the weakest pricing guarantee. So the PBM has every reason to call more of your drugs "specialty." Watch the list grow between renewals.
+Between two renewals, a client's "specialty" drug list grew by a third. No new diagnoses. The PBM had quietly moved products into the bucket with the softest pricing guarantee, because the contract let the PBM write the definition of "specialty." Check how your list has grown before you sign again.
 ```
   First reply (link): rxbs.org/toolkit/definition-variance-audit
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+Your plan's preferred GLP-1 was not chosen by a clinician. It was chosen by a rebate schedule. Ask your PBM what the runner-up drug would have cost the plan net of everything. That answer is the strategy.
 ```
 - **5:00 PM · punchy:**
 ```
-Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
+Every fall, PBMs send out renewal proposals priced to be signed quickly. Speed is the discount they are actually selling.
 ```
 - **7:00 PM · question post [A5]:**
 ```
-When did you last open your PBM reporting portal? If the answer is "never," the PBM is the only party reading your plan's own data. That asymmetry is most of the game.
+Your PBM can tell you tonight which ten drugs drove your Q2 spend. Could your team? One side reads your plan's data every day. The other side pays for it. Renewal favors the reader.
 ```
   First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C4]:**
 ```
-"Rebate" doesn't mean discount. It means a payment that arrives after the price was already set high enough to fund it.
+Rebates are change from a bill the PBM padded first. Counting the change is not the same as saving money.
 ```
 
 **Tue Sep 2**
 - **8:00 AM · recipe / Pass-through definition trick (Tier B):**
 ```
-"100% pass-through" hides a noun. 100% of what the PBM received, or 100% of what the manufacturer paid? A middleman it owns sits between those two numbers. Same percentage. Different starting line. The definition is the whole game.
+The contract said 100% rebate pass-through. The manufacturer's money still shrank on its way to the plan. The leak was one definition: rebates "received by the PBM." The aggregator the PBM owns had already been paid before "received" ever started. Full pass-through of a partial number.
 ```
   First reply (link): rxbs.org/toolkit/rebate-report-audit
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+A generic discount means nothing until you know its benchmark. AWP, WAC, or MAC? Whose file? Updated when? Your PBM chose the answer for every line of your contract, and it did not choose against its own margin.
 ```
 - **5:00 PM · punchy:**
 ```
-Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+The scariest clause in a PBM contract sounds harmless. "As determined by the PBM" is five words doing the work of a blank check.
 ```
 - **7:00 PM · question post [A6]:**
 ```
-Where does your PBM make the most money on a single prescription? Not the dispensing fee. The spread on the price, the rebate on the list, and the fee on the claim, all at once. You were sold one of the three. The contract contains all three.
+Name the three revenue streams your PBM runs on your plan: spread, rebate share, fees. Now name the one your contract actually caps. Most sponsors cannot, because most contracts cap none of them.
 ```
   First reply → Map all three on your own plan: rxbs.org/toolkit/pbm-compensation
 - **8:30 PM · one question [B4]:**
 ```
-Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If the answer is most of them, that's not a network. It's a funnel.
+One renewal-season question for your PBM: "What share of our specialty spend filled at pharmacies you own, and what would those claims have cost anywhere else?" The second half is the part they have not rehearsed.
 ```
 
 **Wed Sep 3**
 - **8:00 AM · recipe / Auto-renewal / lock-in (Tier B):**
 ```
-Auto-renewal: your PBM contract renews itself unless you give notice 90 to 180 days out. Miss the window and you're locked in another full term at rates you never reopened. The clock started before anyone told you it was running.
+It is September. Most Jan 1 PBM contracts are already inside their termination notice window. The auto-renewal clause will not send a reminder. It just rolls your current rates into another full term the morning after the deadline passes. Find the notice date today.
 ```
   First reply (link): the termination and transition language to check: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+Two plans, same PBM, same year. One audit recovered real money. The other found nothing, because the contract let the PBM choose what the auditor saw. The clause decided the outcome before the audit began.
 ```
 - **5:00 PM · punchy:**
 ```
-PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+I read PBM contracts for a living. The hard part is not the vocabulary. It is that the plainest sentences are the ones engineered to mean nothing when you need them.
 ```
 - **7:00 PM · question post [A7]:**
 ```
-Is the drug on your formulary there because it works best, or because it paid the biggest rebate to sit there? For too many plans the honest answer is the second one, and the net cost analysis proves it.
+Your formulary has a "preferred" column. Ask what it cost the manufacturer to be in it. If nobody at your PBM can answer, the preference was not clinical, and your plan is funding the difference.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C5]:**
 ```
-Your PBM doesn't have a network. It has a funnel with a clinical-sounding name.
+Call it a network if you like. When every road is priced to end at the PBM's own pharmacy, it is a driveway.
 ```
 
 **Thu Sep 4**
 - **8:00 AM · recipe / Audit rights limitation (Tier B):**
 ```
-Audit rights: your contract says you can audit the PBM. Then the fine print: once a year, the PBM's chosen auditor, the records the PBM selects, and the PBM decides if the findings count. That's not an audit right. It's a guided tour of the lobby.
+An audit clause we flagged recently: the plan may audit "upon reasonable notice, subject to PBM approval of scope, auditor, and schedule." Count the approvals. Three, all belonging to the PBM. The right to audit is not the right to find anything.
 ```
   First reply (link): the PBM Contract Language Library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+Roughly 80% of US prescription claims flow through three PBMs. At renewal you are not negotiating with a vendor. You are negotiating with a market. Contract terms, not brand choice, are your leverage.
 ```
 - **5:00 PM · punchy (NADAC amplifier — schedule AFTER the 10:00 AM LinkedIn NADAC post per LinkedIn-first):**
 ```
@@ -846,26 +848,26 @@ Has anyone ever shown you the NADAC for a generic your plan fills, next to what 
   First reply → How to pull the comparison on your own plan, in today's Field Note: benefitblindspots.substack.com
 - **8:30 PM · one question [B5]:**
 ```
-Ask your PBM for the audit clause and read who picks the auditor, who picks the records, and who decides if the findings count. Three answers tell you if you have an audit right or a tour.
+Before renewal, send your PBM one sentence: "Confirm our audit right includes an auditor we choose and claims-level data." A yes costs them nothing to write. Watch what they write instead.
 ```
 
 **Fri Sep 5**
 - **8:00 AM · recipe / MAC list control (Tier B):**
 ```
-The MAC list sets what your plan pays for generics, and your PBM controls it. It can price the same generic differently across pharmacies and adjust it line by line. You agreed to "MAC pricing." You never saw the list. The list is the price.
+Ask to see the MAC list your generics are priced from. You will learn two things fast: the PBM maintains it, and the PBM may change it at any time without telling you. A price list you cannot read, edited by the party that profits from the edits. That is your generic "discount."
 ```
   First reply (link): rxbs.org/toolkit/channel-pricing
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+Every rebate guarantee carries a quiet qualifier: rebates the PBM "receives." Whatever its own aggregator kept upstream was never "received." Ask for the manufacturer-paid number instead.
 ```
 - **5:00 PM · punchy:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+PBMs do not need to hide the money. They only need to define it as something you do not get to count.
 ```
 - **7:00 PM · question post [A9]:**
 ```
-Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
+Money flows back to your PBM after the year closes: DIR fees, reconciliations, true-ups. How much of it reached your plan last year? If your report has no line for it, you already have your answer.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D4]:**
@@ -876,46 +878,46 @@ Read an audit clause yesterday that let the plan audit "once per year, using the
 **Sat Sep 6**
 - **8:00 AM · recipe / DIR fees (Tier A weekend Cuban-bait):**
 ```
-DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
+A pharmacist fills a prescription in March and gets paid. In June the PBM reaches back and takes part of that payment as a DIR fee. The pharmacy never knew its real price at the counter. Neither did your plan. The only party who knows the final number is the one keeping the difference.
 ```
   First reply (link): the PBM Contract Language Library
 - **10:00 AM · copay maximizer vendor (SaveOnSP-style) (Tier A):**
 ```
-There's a vendor whose entire job is to reclassify your member's specialty drug as "non-essential" so the manufacturer's copay cap comes off, then drain the full year of assistance to the PBM. It's a program with a name and a contract. Ask if one is bolted onto your plan.
+Search your plan documents for the phrase "non-essential health benefit." If a list of specialty drugs sits under it, a maximizer vendor is mining your members' manufacturer assistance: the copay cap comes off, the card drains all year, and none of it counts toward the deductible. Ask who signed that amendment, and when.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+An effective-rate guarantee is a promise about an average. Averages are where individual markups go to disappear. Ask for the month-by-month view, then the drug-by-drug one.
 ```
 - **2:30 PM · brown bagging (Tier A):**
 ```
-Brown bagging: your PBM has the specialty drug shipped to the member, who carries it into the clinic. Sounds convenient. It moves the storage risk to the patient and the billing to a pharmacy the PBM owns. Ask who profits from the hand-off, and who eats it if the drug spoils.
+A member drives to their infusion appointment with a refrigerated specialty drug riding in the passenger seat, because the PBM's program shipped it to their house instead of the clinic. Brown bagging turns patients into couriers. The billing moved to the PBM's pharmacy. The spoilage risk moved to your plan. Ask who approved that trade.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · punchy:**
 ```
-Your PBM's quarterly report is a magic trick. The numbers it shows you are real. The point is everything it doesn't show you.
+A PBM report is an argument, not an accounting. Every column earned its place by making the vendor's case.
 ```
 - **7:00 PM · question post [A10]:**
 ```
-Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
+Hand your PBM invoice to the person who approves it and ask them to match one line to the contract clause that authorizes it. Not a trick, just a test of who the document was written for. It was not written for the payer.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C6]:**
 ```
-"Pass-through" is the most expensive two words in your contract, because of the definition sitting three clauses away.
+"Pass-through" names the pipe, not the water. The PBM keeps its hand on a valve upstream, where you cannot see it.
 ```
 
 **Sun Sep 7**
 - **8:00 AM · recipe / Mail-order steering (Tier A weekend Cuban-bait):**
 ```
-Mail-order steering: same drug, same dose. Filled at the retail pharmacy, one price. Filled at the PBM's own mail-order pharmacy, another. The PBM sets both, and writes the rules that nudge your members to the one it owns. Convenience with a markup attached.
+Pull your own claims and run one comparison: a 90-day fill at the PBM's mail pharmacy vs three 30-day fills at retail, same generic. When mail costs your plan more, remember who set both prices, who wrote the incentives pushing members to mail, and who owns the mail pharmacy. Same answer, three times.
 ```
   First reply (link): rxbs.org/toolkit/channel-pricing
 - **10:00 AM · step therapy (fail-first) (Tier A):**
 ```
-Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
+"Fail first" is the policy. Fail what first? Too often the drug with the richer rebate, not the cheaper or safer one. Step therapy earns its clinical name only when the sequence follows evidence. Ask your PBM for the evidence behind each step. Then ask for the rebate schedule behind it.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
@@ -924,21 +926,21 @@ NADAC is the public, government-published cost of a generic. The FTC found PBM-o
 ```
 - **2:30 PM · specialty exclusive distribution (Tier A):**
 ```
-Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
+When exactly one pharmacy in the country can fill a drug, ask why. Sometimes it is an FDA safety program. Often it is a distribution deal, and the one pharmacy answers to your PBM. "Limited distribution" can be a safety label glued onto a revenue decision.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
-I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
+Pharmacy school taught me drug interactions. Nobody taught me contract interactions: how an audit clause interacts with a definitions section to cancel a guarantee. I learned that one client at a time. It moves more money than most formularies do.
 ```
 - **7:00 PM · question post [A11]:**
 ```
-Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go: back to your plan, or kept by the PBM? On most contracts it is kept, and it is rarely itemized anywhere you would see it.
+Manufacturers pay your PBM "data fees," "program fees," and "administrative fees" calculated on your plan's own claims. Have you ever seen them itemized? On most contracts they never route back to the plan whose utilization earned them.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B6]:**
 ```
-Ask your PBM: "List every fee on our monthly invoice and the contract section that authorizes each one." The line items with no clause behind them are the ones to cut.
+Renewal homework in one email: "Reconcile every fee you collected on our plan last year, from us and from manufacturers, against the clause that authorizes it." The unmatched fees are your opening agenda.
 ```
 
 > **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone follows the Q3 recipe rotation: weekday 8:00 AM = named program · hidden extraction recipe (Drug reclassification, Pass-through, Auto-renewal, Audit rights, MAC list control), weekend 8:00 AM + Tier-A adds (10:00 AM + 2:30 PM) carry the strongest Cuban-bait shapes (DIR fees, Mail-order steering, copay maximizer vendor, brown bagging, step therapy, specialty exclusive distribution) ✓; 12:00 PM is the news-reaction HOLD with a decoder quiet-day backup; 5:00 PM rotates the punchy pool, Sun 5:00 PM is the one weekly origin ✓. Evening block: 7 question posts (7:00 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps; weekday runs 5 posts, weekend up to 7/day. Labor Day Monday stays scheduled with a lighter amplifier patrol. Rotation tracked in `x_recipe_post_bank.md` + `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.

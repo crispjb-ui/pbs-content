@@ -745,9 +745,9 @@ Get next Monday's deep dive on Clinical Program ROI in your inbox: benefitblinds
 ## Monday
 
 **Morning (7-8 AM) — Article Launch Teaser:**
-New on Benefit Blind Spots: the PBM RFP. Three proposals that looked competitive on paper. One was substantially more expensive when normalized. 30 questions with answer scoring.
+Three PBM proposals looked competitive on paper. Normalized to the same AWP source, cost basis, and claim exclusions, the "cheapest" one was the most expensive of the three. The ranking flipped on math, not judgment. This week on Benefit Blind Spots: the PBM RFP, with 30 questions and answer scoring that cut through the response-team polish.
 
-Read: [LINK]
+Read the full analysis: [LINK]
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 I stopped trusting PBM RFP responses at face value after watching a client select the "cheapest" PBM that turned out to be the most expensive once we normalized the pricing methodologies. The headline discount was competitive. The AWP source, the claim exclusions, and the rebate structure made it the worst deal of the three. Now I normalize before I compare. Every time.
@@ -772,6 +772,8 @@ A CFO sat with me through an RFP evaluation once and asked why the scoring rubri
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
+
+_Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 The most revealing RFP question I ask: "Provide your complete definition of 'rebate' as it will appear in the contract." The answers range from inclusive (all manufacturer payments) to narrow (just rebates as the PBM defines them). That definition alone can be worth six or seven figures over a contract term. I built that question into every RFP I touch.
@@ -838,46 +840,46 @@ I had a client thank me after an RFP by saying, "I learned more from the questio
 > **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. _RFP is the Monday topic; the auto-renewal / audit-rights contract posts cluster the weekday AMs without scooping the Tue RFP-scoring LinkedIn visual._
 
 **Mon Aug 3**
-- **8:00 AM · recipe / Auto-renewal / lock-in (Tier B):**
+- **8:00 AM · recipe / The improved renewal offer (Tier B):**
 ```
-Auto-renewal: your PBM contract renews itself unless you give notice 90 to 180 days out. Miss the window and you're locked in another full term at rates you never reopened. The clock started before anyone told you it was running.
+The "improved renewal offer": your incumbent PBM finds new savings the moment an RFP shows up on the calendar. Those dollars existed last year too. The market check did not. The discount was always available. The leverage was not.
 ```
-  - **First reply (link):** rxbs.org/toolkit/termination-clause-audit
+  - **First reply (link):** rxbs.org/toolkit/rfp-scoring-audit
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
+"References available upon request" in a PBM proposal means the three clients who renewed happily. Ask instead for two clients who left in the last two years, and permission to ask them why.
 ```
 - **5:00 PM · punchy:**
 ```
-PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+The PBM's response team has answered your RFP hundreds of times. Your committee runs one every five years. That asymmetry is the real line item.
 ```
 - **7:00 PM · question post [A9]:**
 ```
-Has your plan ever seen what your PBM clawed back from pharmacies in DIR fees, and how much of it reached you? For most plans the answer is no, because the clawback never appears on the report.
+Three PBM finalists, three pricing methodologies, one spreadsheet column labeled "discount." Are you comparing prices, or comparing formatting? Normalize the AWP source and the exclusions first. Rankings flip more often than you would think.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C7]:**
 ```
-A middleman that owns the pharmacy, sets the price, pays itself, and audits its own books isn't a service you buy. It's a toll road you're required to drive.
+A proposal is priced to win the evaluation. A contract is priced to survive it. Read the second one before you celebrate the first.
 ```
 
 **Tue Aug 4**
-- **8:00 AM · recipe / Audit rights limitation (Tier B):**
+- **8:00 AM · recipe / The disruption report (Tier B):**
 ```
-Audit rights: your contract says you can audit the PBM. Then the fine print: once a year, the PBM's chosen auditor, the records the PBM selects, and the PBM decides if the findings count. That's not an audit right. It's a guided tour of the lobby.
+The "disruption report": every PBM finalist runs your claims against its network and formulary to show how few members would feel the switch. The report is real. The assumptions are the product. Ask what happens to the disruption number when the formulary changes in year two.
 ```
   - **First reply (link):** the PBM Contract Language Library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+An incumbent PBM answering an RFP has an advantage nobody prices: it already knows your claims. The challengers are quoting blind. Give every bidder the same claims file, or the incumbent's "sharper pencil" is just better information.
 ```
 - **5:00 PM · punchy:**
 ```
-Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
+The PBM's proposal team knows exactly which cell of the spreadsheet you will look at first. That cell is the one they built the whole document around.
 ```
 - **7:00 PM · question post [A10]:**
 ```
-Could the person who signs your PBM invoice read the contract clause that defines what they are paying for? If not, that is not an accident. The language is built to be unreadable by the person paying the bill.
+Did your last RFP ask each finalist for the contract template alongside the proposal? The proposal says what they will give you. The template says what they can take back. Score the document you will actually live under.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B2]:**
@@ -886,22 +888,22 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 ```
 
 **Wed Aug 5**
-- **8:00 AM · recipe / MAC list control (Tier B):**
+- **8:00 AM · recipe / Implementation credits (Tier B):**
 ```
-The MAC list sets what your plan pays for generics, and your PBM controls it. It can price the same generic differently across pharmacies and adjust it line by line. You agreed to "MAC pricing." You never saw the list. The list is the price.
+Implementation credits: the signing bonus in a PBM deal. Cash up front, earned back through the pricing over the term. The credit is visible in the proposal. The earn-back never is. A deal that leads with a big check is telling you where not to look.
 ```
-  - **First reply (link):** rxbs.org/toolkit/channel-pricing
+  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Pass-through" means what the PBM received, not what the manufacturer paid. Read the noun.
+RFP timelines are leverage. A 30-day evaluation forces you to take answers at face value. The PBM's proposal team knows your deadline better than your committee does. Slow is a negotiating position.
 ```
 - **5:00 PM · punchy:**
 ```
-The most profitable thing a PBM sells your plan isn't a drug. It's the definition of a word in your contract.
+You are not choosing a proposal. You are choosing a company's habits for the next three years. Price the habits.
 ```
 - **7:00 PM · question post [A11]:**
 ```
-Your PBM collects a fee from drug manufacturers tied to your plan. Where does that money go: back to your plan, or kept by the PBM? On most contracts it is kept, and it is rarely itemized anywhere you would see it.
+The best brokers score PBM proposals across six categories: pricing methodology, rebate structure, clinical programs, reporting access, contract terms, implementation. Ask to see the category scores, not just the total. Strong on two can hide weak on four.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C3]:**
@@ -910,14 +912,14 @@ An RFP response is a sales document wearing a spreadsheet's clothes. The headlin
 ```
 
 **Thu Aug 6**
-- **8:00 AM · recipe / Manufacturer-fee reclassification (Tier B):**
+- **8:00 AM · recipe / Performance guarantees (Tier B):**
 ```
-Watch where manufacturer money lands in your contract. Payments labeled "administrative reimbursement" instead of "rebate" sit outside the pass-through clause entirely. Same dollars, same manufacturer. One word decides whether your plan ever sees them.
+Performance guarantees: the proposal promises service levels with dollars behind them. Read the remedy. If the penalty for missing a guarantee is a "credit toward future services," the PBM pays its fines in its own currency. Cash remedies, or it is not a guarantee.
 ```
-  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
+  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-"Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
+Reference checks on a PBM finalist: ask the references how the renewal went, not the honeymoon. Year one pricing is the proposal. Year three pricing is the company.
 ```
 - **5:00 PM · concentration reveal (amplifies today's LinkedIn Post 115, scheduled AFTER the 10 AM LinkedIn post per LinkedIn-first):**
 ```
@@ -926,7 +928,7 @@ Watch where manufacturer money lands in your contract. Payments labeled "adminis
   First reply: a real RFP is the only leverage left. rxbs.org/toolkit/rfp-scoring-audit
 - **7:00 PM · question post [A12]:**
 ```
-If you wanted to fire your PBM tomorrow, what in the contract slows you down? Notice periods, transition fees, a data handoff you do not control. Most plans never read the termination clause until the day they need it.
+Your RFP asked 50 questions. How many answers came back with a commitment verb in them? "We typically," "we strive," and "our standard approach" are not commitments. Score the verbs. The verbs are the contract preview.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B3]:**
@@ -935,22 +937,22 @@ Ask your PBM to define "pass-through" in writing, then ask which noun it attache
 ```
 
 **Fri Aug 7**
-- **8:00 AM · recipe / Copay maximizer (Tier B):**
+- **8:00 AM · recipe / Copay optimization programs (Tier B):**
 ```
-Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+"Copay optimization": the vendor pitch says it captures manufacturer dollars for the plan. The mechanics: your member's assistance card gets drained to the vendor and the PBM, and the member's deductible shows zero progress. Read who keeps what percentage. "Optimization" has an owner.
 ```
   - **First reply (link):** rxbs.org/toolkit/copay-card-calculator
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
+Specialty pipeline questions belong in your RFP: which launches in the next 24 months hit your population, and how does the proposal price what does not exist yet? A contract that is silent on the pipeline was priced for last year's book.
 ```
 - **5:00 PM · punchy:**
 ```
-Transparency is the word every PBM puts in the contract and the thing every PBM contract is built to prevent.
+The scariest sentence in an RFP response is the friendly one: "we are flexible on this." Flexible means it is not in writing.
 ```
 - **7:00 PM · question post [A13]:**
 ```
-The GLP-1 your plan covers: is it on the formulary because it works best, or because it wrote the biggest rebate check? The drug that paid to be there is usually the one on the list.
+Who on your RFP evaluation committee has read a PBM contract before? Not a proposal, a contract. If the answer is nobody, add someone who has. The finalists' lawyers have read thousands.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D8]:**
@@ -964,14 +966,14 @@ Reviewed an invoice last week with five admin line items. Four had no clause beh
 Specialty routing: pull a quarter of your specialty claims and sort by filling pharmacy. In most plans we audit, 60 to 80% ran through the PBM's own specialty pharmacy. Nobody chose that. The prior-auth rules chose it. That's not a network. It's a funnel.
 ```
   - **First reply (link):** rxbs.org/toolkit/specialty-routing
-- **10:00 AM · step therapy (fail-first) (Tier A):**
+- **10:00 AM · rebate forfeiture at termination (Tier A):**
 ```
-Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
+Leave your PBM mid-year and the rebates earned on your own claims may stay behind. The contract calls them "forfeited." Your members generated them. A timing clause decides who keeps them. Read it before you sign, not before you leave.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/toolkit/termination-clause-audit
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
+Ask each RFP finalist which benchmark your generics will price against, then ask who publishes it and how often it changes. A guarantee against a moving benchmark is a moving guarantee.
 ```
 - **2:30 PM · specialty exclusive distribution (Tier A):**
 ```
@@ -980,22 +982,22 @@ Some specialty drugs are locked to a single distribution channel, often the PBM'
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · punchy:**
 ```
-Read your PBM contract the way the PBM's lawyers wrote it: every undefined word is a door they left open for themselves.
+If no bidder repriced your actual claims, you did not run a market check. You ran a survey.
 ```
 - **7:00 PM · question post [A14]:**
 ```
-When your PBM calls a drug "lowest net cost," lowest for whom? Your plan, or the PBM's rebate math? The phrase is built to sound like it is on your side. Check whether it actually is.
+Would your RFP scoring give more points to a vague answer that sounds good than to a precise answer that admits a limit? If yes, the rubric selects for the best writers, not the best PBM.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C4]:**
 ```
-"Rebate" doesn't mean discount. It means a payment that arrives after the price was already set high enough to fund it.
+"Best and final offer" is the only phrase in procurement that reliably comes in threes.
 ```
 
 **Sun Aug 9**
-- **8:00 AM · recipe / DIR fees (Tier A weekend Cuban-bait):**
+- **8:00 AM · recipe / Clawbacks, rebranded (Tier A weekend Cuban-bait):**
 ```
-DIR fees: your PBM reimburses a pharmacy for a prescription, then claws part of it back weeks later. Your plan never sees the clawback. The pharmacy eats it. The PBM keeps it. It's in your contract. It's just not labeled like money leaving the chain.
+Medicare pushed pharmacy DIR fees to the point of sale, so watch the commercial book for the same clawback under new labels: "network performance fees," "quality adjustments." The money still leaves the pharmacy after the fill. The clawback does not die. It rebrands.
 ```
   - **First reply (link):** the PBM Contract Language Library
 - **10:00 AM · effective-rate true-up timing (Tier A):**
@@ -1005,7 +1007,7 @@ Your PBM "guarantees" an effective discount, then reconciles it once a year, mon
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
-A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
+"Proprietary" is the word to circle in RFP answers. Proprietary clinical criteria, proprietary MAC list, proprietary savings methodology. Translation: you will be paying for outcomes you are not allowed to inspect.
 ```
 - **2:30 PM · mid-year formulary change (Tier A):**
 ```
@@ -1018,12 +1020,12 @@ I trained as a clinical pharmacist to help people take the right drug at the rig
 ```
 - **7:00 PM · question post [A15]:**
 ```
-A biosimilar launched at a fraction of the brand's price. Is your plan on it, or is your PBM still steering to the brand because the brand pays a bigger rebate? Pull the claims and find out.
+Before your next RFP: can you produce 24 months of your own claims data without asking your PBM for it? If not, every bidder will model your plan on the incumbent's export. Data independence is the first negotiating position.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B4]:**
 ```
-Ask your PBM: "Which of our specialty claims filled at a pharmacy you own?" If the answer is most of them, that's not a network. It's a funnel.
+Ask your incumbent PBM one question this quarter: "If we ran a market check today, which of our terms would you defend as still competitive?" The list they name will be short. The list they do not name is the agenda.
 ```
 
 > **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: auto-renewal, audit rights, MAC list control, manufacturer-fee reclassification, copay maximizer) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM specialty routing + DIR fees, plus the four 10 AM / 2:30 PM Tier-A adds: step therapy, specialty exclusive distribution, effective-rate true-up timing, mid-year formulary change) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat (Thu 5 PM swapped to the concentration-reveal amplifier that supports today's LinkedIn Post 115, scheduled after the 10 AM LinkedIn post per LinkedIn-first) + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
