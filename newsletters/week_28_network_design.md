@@ -480,6 +480,8 @@ _Routed to the Monday deep dive's own companion tool, the Channel Pricing Audit 
 ```
 Medicare just published the prior-authorization form for its new GLP-1 "Bridge." Read past the headline and look at the architecture.
 
+The full form is in the first comment, straight from CMS. Read it yourself, not just my summary of it.
+
 A denied pharmacy claim is required before a prescriber can even file the PA. In this design the denial is not a risk. It is a required step.
 
 From there: a 12-question clinical gauntlet (BMI tiers, sleep apnea, MASH, heart failure, kidney disease), routed through a dedicated BIN and PCN built so the denial happens by design.
@@ -496,8 +498,12 @@ Save this for your next GLP-1 coverage conversation.
 #### First Comment
 
 ```
+Here is the actual form, straight from CMS, so you can read the architecture yourself instead of taking the headline's word for it: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers
+
 The Medicare gauntlet is one program's version of utilization management. What governs it on YOUR plan is contract language: how prior authorization, step therapy, and formulary control are actually written. The protective versions of those clauses live in our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
+
+_Publisher note: before posting, click the CMS link to confirm it still lands on the current Provider PA-form page. If CMS has moved it, use the program hub instead: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge (the PA form is under "Information for Providers"). Link verified live as a real CMS program July 2026; exact sub-page can shift._
 
 #### Messy Infographic Concept
 
