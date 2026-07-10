@@ -67,3 +67,42 @@ Brett's account metrics are still NOT primary KPIs. The trial question is narrow
 
 - `brett_linkedin_positioning.md` charter row 5 (was "0-1/week max") → superseded by §3's two weekly slots, 60-day trial.
 - The positioning doc's "Don't build a parallel content calendar" → amended to "Don't build a COMPETING calendar": this track is complementary by construction (different lane/days/voice; interlock rules in §3). All other don'ts stand unchanged, especially no-adversarial-teeth-early and never-framed-as-running-Ginny's-content.
+
+## 8. First-hour comment craft (the daily duty, made concrete)
+
+The charter's priority #1 is the first-hour comment on every Ginny post. `ginny_voice_comments_replies.md` rules bind (net-new value or silence; delete test). Brett's version of "net-new" is the OPERATOR ADD, one of four moves:
+
+1. **The ops data point:** what the mechanism in her post looked like from inside a health system. *"We ran a specialty pharmacy through this exact workflow. The PA team she is describing was six FTEs on my org chart."*
+2. **The other-side-of-the-counter angle:** how the same mechanism reads to a pharmacy leader. *"Health-system pharmacy directors see the flip side: the clawback lands on their ledger before the plan ever notices."*
+3. **The purchasing-side memory:** a Vizient/GPO-era observation (no confidential figures). *"When three systems compared invoices for the same drug, the range was the education."*
+4. **The genuine question:** one that moves the thread, asked from operator curiosity, not softball setup.
+
+Never: "Great post," restating her point in fresh words, or recycling her anchors. Vary which posts get comments vs. just reactions; skipping one occasionally is healthy (see the don'ts).
+
+## 9. Engagement patrol (his orbit, distinct from Ginny's)
+
+10 minutes/day, in operator voice: the pharmacy-leadership world (ASHP orbit, health-system pharmacy directors from the UNC/OSU/AMC network), Drug Channels/Fein posts where an operations perspective adds, and the target-account/broker people per the charter. Leave Cuban/Ciaccia adversarial threads mostly to Ginny; Brett's comments there stay operational-informative when he does engage.
+
+## 10. Voice-delta log (his edits train future batches)
+
+When Brett meaningfully rewrites a drafted post before publishing, paste before → after here (or tell a session to). Recurring patterns (2-3+) get promoted into §1's fingerprint, exactly like Ginny's `/log-voice-delta` loop.
+
+| Date | Post | What changed (pattern) |
+|---|---|---|
+| _none yet_ | | |
+
+## 11. Trial log (fills monthly; feeds the day-60 decision)
+
+| Month | Posts shipped | Profile views (trend) | Reconnect convos from posts | Health-system / target-account commenters | PBS-relevant conversations traceable | Notes |
+|---|---|---|---|---|---|---|
+| Jul 2026 | | | | | | |
+| Aug 2026 | | | | | | |
+
+**Day-60 review (early Sep):** keep 2/week, throttle to 1/week, or return to engagement-only, decided on the columns above, never follower counts. **Next batch due: week of Aug 3, 2026** (drafts Aug 11 - Sep 5; note the Sep batch overlaps the September campaign — interlock checks get stricter, and his posts must not scoop any campaign asset).
+
+## 12. What is deliberately NOT built (so nobody "completes" it by accident)
+
+- **No `/build-week` wiring, no PART in week files.** Ginny's pipeline stays untouched; Brett's batches live in standalone `brett_content_batch_YYYY_MM.md` files.
+- **No X/Substack presence for Brett.** LinkedIn only; the other channels are Ginny's surfaces.
+- **No automated scheduling workflow.** Monthly batching is a manual ritual on purpose while the voice is young; revisit at day 60.
+- **No follower/impression KPIs.** His account metrics stay out of the scoreboard by rule.
