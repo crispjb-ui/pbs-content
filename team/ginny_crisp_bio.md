@@ -60,4 +60,4 @@ AI engines cross-check numbers across surfaces; contradictory stat sets on rxbs.
 
 ## §5 · Asset status
 
-The one-pager itself (Word/PDF, PBS-branded): Ginny holds the source file. Get a copy into the repo (`templates/documents/` or `team/`) so it can be updated centrally; consider a version with the toolkit visual system when bandwidth allows. Repo has only the phone screenshot as of Jul 10.
+**✅ Source PDF in repo (Jul 10, 2026):** `team/ginny_crisp_credentials_2026.pdf` — the as-sent prospect one-pager. This file + that PDF update together; if the bio content changes, refresh both (Ginny holds the editable Word source). Consider a toolkit-visual-system version when bandwidth allows.
