@@ -55,7 +55,7 @@ Where Ginny is **clinical authority + named-adversary confrontation**, Brett is 
 
 ## 5. Production workflow
 
-- **Monthly batch:** draft ~8 posts once a month (Claude drafts in Brett's voice per §1, Brett rewrites until they sound like him; his edits feed this file's voice section the way `/log-voice-delta` feeds Ginny's canon). NOT wired into `/build-week` or the week files; Ginny's pipeline is untouched.
+- **Monthly batch:** draft ~8 posts once a month (Claude drafts in Brett's voice per §1, Brett rewrites until they sound like him; his edits feed this file's voice section the way `/log-voice-delta` feeds Ginny's canon). NOT wired into `/build-week` or Ginny's week files; her pipeline is untouched. **Weekly scheduling files (added Jul 10, 2026, Brett's request):** each batch decomposes into per-week files at `newsletters/brett/week_NN.md` (numbered to Ginny's weeks; template `newsletters/brett/_template.md`) so Brett schedules his week in the same sitting as hers. The week file is the scheduling SOURCE OF TRUTH (Run of Show + originals + comment angles + reshare POV + ship gates); the batch file remains the drafting archive.
 - **Pre-publish checks per post:** Humanize (one unfakeable Brett detail) · no same-week subject collision with Ginny's Mon/Thu (open the week file's Run of Show) · no recycled Ginny anchors · brand rules.
 - **First comment:** optional, sparingly; when used, route to a PBS asset in HIS frame (the toolkit library, the glossary once live, the Briefing). Not every post needs one; his account is allowed to just be a person.
 
@@ -102,7 +102,7 @@ When Brett meaningfully rewrites a drafted post before publishing, paste before 
 
 ## 12. What is deliberately NOT built (so nobody "completes" it by accident)
 
-- **No `/build-week` wiring, no PART in week files.** Ginny's pipeline stays untouched; Brett's batches live in standalone `brett_content_batch_YYYY_MM.md` files.
+- **No `/build-week` wiring, no PART in GINNY'S week files.** Her pipeline stays untouched. *(Amended Jul 10: Brett has his OWN parallel week files at `newsletters/brett/` per §5; the batch files remain the drafting archive.)*
 - **No X/Substack presence for Brett.** LinkedIn only; the other channels are Ginny's surfaces.
 - **No automated scheduling workflow.** Monthly batching is a manual ritual on purpose while the voice is young; revisit at day 60.
 - **No follower/impression KPIs.** His account metrics stay out of the scoreboard by rule.
