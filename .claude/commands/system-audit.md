@@ -22,6 +22,7 @@ You are running the monthly PBS system audit. The content engine, conventions, a
 - `evergreen_visual_backlog.md` + `field_note_backlog.md`: anything stale or already shipped that should be marked? Burn-down on track?
 - Library cadence: numbering consistent across CLAUDE.md + week files (04 W25 / 05 W27 / 06 W33)?
 - `repurpose_queue.md`: any breakout not yet repurposed?
+- **Live glossary page sync (`rxbs.org/glossary`, live Jul 2026):** (a) any term definition refined in `templates/documents/_glossary_terms.md` since the last audit that didn't propagate to `website_mockups/site/glossary.html` + `glossary_jsonld_paste.md` + a flagged Wix edit? (b) check the deferred glossary items in OPEN_ITEMS — if the contract-language-library page or either guide page has gone live in Wix since last audit, flag that the glossary "Keep reading" block + Substack-link re-point are now unblocked. The glossary is event-driven (NOT tied to Substack Contract Library pushes); full rule in CLAUDE.md toolkit-glossary convention (i).
 - `OPEN_ITEMS.md`: anything shipped that should be cleared, or stale?
 
 ## 5. Learning-loop health
