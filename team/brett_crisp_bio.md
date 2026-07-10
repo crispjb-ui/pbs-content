@@ -11,12 +11,13 @@
 | 2009-2010 | Operations Coordinator, Children's Hospital pharmacy, Medical University of South Carolina (Charleston) |
 | 2010-2012 | Clinical Manager, Pediatrics and Special Formulations, UNC Health Care / N.C. Children's Hospital |
 | 2012-2015 | Clinical Manager, Ambulatory Pharmacy Care Network, UNC Health Care |
-| 2015-[year ⚠] | **Assistant Director, Pharmacy — Ambulatory Pharmacy Care Network, UNC Health Care.** Four academic outpatient pharmacies incl. a URAC-accredited specialty pharmacy, long-term-care pharmacy, Medication Assistance Program, $94M retail revenue budget, $17M+/yr cost reduction via MAP, 60+ direct/indirect reports. Adjunct Assistant Professor, UNC Eshelman School of Pharmacy (2011-). |
-| [year ⚠] +1 yr | **Clinical supervisor, Department of Veterans Affairs** (Charleston) |
-| [year ⚠] +2 yrs | **Vizient** — worked with pharmacy leaders at MedStar, Novant, and Sentara to find and execute pharmacy savings through contracting and clinical efforts |
-| Current | **Prescription Benefit Solutions** — [title ⚠; per the delegation matrix he orchestrates marketing/social + operations] |
+| 2015-2016 | **Assistant Director, Pharmacy — Ambulatory Pharmacy Care Network, UNC Health Care.** Four academic outpatient pharmacies incl. a URAC-accredited specialty pharmacy, long-term-care pharmacy, Medication Assistance Program, $94M retail revenue budget, $17M+/yr cost reduction via MAP, 60+ direct/indirect reports. Adjunct Assistant Professor, UNC Eshelman School of Pharmacy (2011-). |
+| 2016-Oct 2018 | **Clinical supervisor, Department of Veterans Affairs** (Charleston) |
+| 2018-2020 | **Vizient** — worked with pharmacy leaders at MedStar, Novant, and Sentara to find and execute pharmacy savings through contracting and clinical efforts |
+| 2020-2026 | Career break (LinkedIn native Career Break entry, one plain sentence, per `brett_linkedin_positioning.md`) |
+| Jan 2026- | **Prescription Benefit Solutions** — [title ⚠; per the delegation matrix he orchestrates marketing/social + operations] |
 
-**⚠ Open blanks for Ginny/Brett:** (1) UNC end year → VA year → Vizient years; (2) his official PBS title for the website; (3) NC licensure only, or SC as well by now; (4) headshot.
+**⚠ Open blanks for Ginny/Brett:** ~~(1) years~~ ✅ filled Jul 10 (UNC→2016, VA 2016-Oct 2018, Vizient 2018-2020); (2) his official PBS title for the website; (3) NC licensure only, or SC as well by now; (4) headshot.
 
 ## Website bio — Meet the Team version (~170 words, third person)
 
