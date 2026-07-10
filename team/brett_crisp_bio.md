@@ -17,7 +17,7 @@
 | 2020-2026 | Career break (LinkedIn native Career Break entry, one plain sentence, per `brett_linkedin_positioning.md`) |
 | Jan 2026- | **Prescription Benefit Solutions** — [title ⚠; per the delegation matrix he orchestrates marketing/social + operations] |
 
-**⚠ Open blanks for Ginny/Brett:** ~~(1) years~~ ✅ filled Jul 10 (UNC→2016, VA 2016-Oct 2018, Vizient 2018-2020); (2) his official PBS title for the website; (3) NC licensure only, or SC as well by now; (4) headshot.
+**⚠ Open blanks for Ginny/Brett:** ~~(1) years~~ ✅ filled Jul 10 (UNC→2016, VA 2016-Oct 2018, Vizient 2018-2020); ~~(3) licensure~~ ✅ NC and SC both (confirmed Jul 10); (4) his official PBS title; (5) headshot. Licensure line for the bio page if wanted: "Licensed pharmacist in North Carolina and South Carolina."
 
 ## Website bio — Meet the Team version (~170 words, third person)
 
