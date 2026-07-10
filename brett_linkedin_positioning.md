@@ -60,11 +60,11 @@ If you run pharmacy at a health system, you already know this system from one si
 | 2 | **Reshare with added POV:** 2-3 sentences of genuine operator perspective (the health-system side of the same mechanism). Selective, not every post. | 1-2x/week |
 | 3 | **Network reactivation:** systematically reconnect with the UNC / OSU / AMC / Vizient network. Personal notes, not pitches. The warm layer under the broker-partner and target-account work. | ~10-15 reconnects/week |
 | 4 | **Target-account warming:** follow and engage thoughtfully/publicly with people at the firms on `target_account_list.md`, so PBS is warm before Ginny's outreach. | ongoing |
-| 5 | **Original posts in his own lane only:** health-system pharmacy operations, hospital-as-self-funded-employer, career-transition reflections. All PBS brand rules apply (no em-dash separators, no fabricated statistics, one unfakeable detail per post, Humanize Check). | 0-1/week max; skipping is fine |
+| 5 | **Original posts in his own lane only:** health-system pharmacy operations, hospital-as-self-funded-employer, career-transition reflections. All PBS brand rules apply (no em-dash separators, no fabricated statistics, one unfakeable detail per post, Humanize Check). | **SUPERSEDED Jul 10, 2026:** 2/week (Mon 10:30 AM + Sat 9:00 AM) on a 60-day trial per `brett_content_track.md` §3, which carries the pillars, interlock rules, and voice |
 
 ## The don'ts
 
-- **Don't build a parallel content calendar.** Brett's scarce hours are worth more in engagement and network work than in a second publication.
+- **Don't build a COMPETING content calendar.** *(Amended Jul 10, 2026: a complementary calendar now exists per `brett_content_track.md` — different lane, different days, own voice, hard interlock rules. The original engagement-first priority stands: if hours run short, the first-hour comments and network work outrank his original posts.)*
 - **Don't mirror Ginny mechanically.** Same-minute reshares, identical hashtags, comment-on-everything patterns read as coordinated and can suppress both accounts. Vary timing, skip some posts, write in his own voice.
 - **Don't touch the adversarial edge in his own posts early on.** Ginny has earned the named-adversary voice with a body of work. Brett's account stays warm, operational, and curious for the first few months; teeth can come later if a lane develops.
 - **Don't frame the relationship as "I run her content."** Publicly: growth/marketing at the firm. Period.
