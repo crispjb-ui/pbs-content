@@ -1,6 +1,6 @@
 # Brett's first batch — 8 originals (Mon/Sat slots, Jul 13 - Aug 8, 2026)
 
-**Drafted Jul 10, 2026 per `brett_content_track.md` §5.** Mix: 3x B1 · 2x B2 · 2x B3 · 1x B4. Every post interlock-checked against the week files (no same-week Mon-deep-dive/Thu-reveal subject overlap; no reveal material pre-publish). **`[FILL: …]` markers are where Brett inserts a real remembered detail — do not publish with the marker in, and do not invent a replacement; the honesty of the specific IS the Humanize pass.** Rewrite freely until it sounds like you; your edits train the voice file. Hashtags deliberately vary (and sometimes absent) so the account doesn't mirror Ginny's patterns.
+**Drafted Jul 10, 2026 per `brett_content_track.md` §5.** Mix: 3x B1 · 2x B2 · 2x B3 · 1x B4. Every post interlock-checked against the week files (no same-week Mon-deep-dive/Thu-reveal subject overlap; no reveal material pre-publish). **`[FILL: …]` markers are where Brett inserts a real remembered detail — do not publish with the marker in, and do not invent a replacement; the honesty of the specific IS the Humanize pass.** Rewrite freely until it sounds like you; your edits train the voice file. **Scheduling note (Jul 10): posts 3-8 are mirrored into the scheduling files `newsletters/brett/week_29/30/31.md`, which are the source of truth for scheduling; edit THERE. Posts 1-2 (Jul 13 + Jul 18, pre-week-file start) schedule directly from this file.** Hashtags deliberately vary (and sometimes absent) so the account doesn't mirror Ginny's patterns.
 
 ---
 
