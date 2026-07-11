@@ -2,6 +2,24 @@
 
 **Created:** June 2026. **Status: HOLD (plan of record, not yet executed).**
 
+---
+
+## ⚡ RE-ANCHORED Jul 10, 2026 — actual publication reality supersedes the table below
+
+Wendell's cadence never locked, publication is running slower than the biweekly assumption, and PBS's weeks W26-W37 shipped/built on their ORIGINAL topics. **The topic-swap model is retired for the floating cadence; the cascade is now a REFERENCE-BACK LAYER** (publish-day kit in the publish week + callback block in the following week), which needs no topic changes and survives any further slips. The table below is retained for the topic-pairing logic only.
+
+**Confirmed/estimated publication order (per Brett, Jul 10):**
+
+| Piece | Publish date | Publish-day kit | Cascade (following week) |
+|---|---|---|---|
+| Opening (5 revenue streams) | ✅ Jun 17, 2026 | done | done |
+| **Piece 1 · Spread Pricing** | **Wed Jul 15 (confirmed)** | ✅ built into W28 (`week_28_network_design.md` → Potter Kit section + RoS rows) | ✅ built into W29 (deep-dive callout + newsletter callback + publish-post peg + roundup instruction + optional X amplifier) |
+| Piece 2 · Vertical Integration | ~3 weeks out (≈ Aug 5, W31) | build into the publish week's file when the date confirms; **the promo references BACK to the W28 Network Design deep dive** (its natural pair, which published ~3 weeks early) | if it lands W31: the **W31 Thursday market-concentration reveal ("Three Companies. Both Sides of the Counter.", Aug 6) is the same-week amplifier** (piece Wed → reveal Thu is a natural 1-2; verify no scoop conflict), cascade callback then lands W32 Monday |
+| Piece 3 (order TBD) | TBD | — | — |
+| **Piece 4 · Rebates** (per Brett: rebates runs 4th) | TBD (months out) | when it publishes: promo + cascade point BACK to the **W29 Rebate Economics deep dive** + the rebate contract analysis framework + the Contract Language Library rebate provisions — W29 is the standing reference-back asset; no future week re-covers rebates for the cascade | reference-back only |
+
+**Standing rule while the cadence floats:** each piece gets (1) a publish-day kit added to the actual publish week's file (LinkedIn announcement ~4h offset from any scheduled post, X 12:00 news-slot swap, Note swap — W28's kit is the template) and (2) a cascade callback layer in the following week (deep-dive callout box, newsletter second-paragraph callback, publish-post news-peg line, roundup item, optional X amplifier — W29 is the template). No topic swaps; displaced-content machinery below stays dormant.
+
 ## Purpose
 
 When the HEALTH CARE un-covered contributorship goes live, each **cascade week** (the PBS week *following* a Potter piece) aligns its **Monday deep-dive topic** to the prior Potter piece. That makes the Monday reference-back read as one deliberate move: Potter's policy frame on the topic, then the PBS operational/contract angle on the same topic. Per Ginny (June 2026): *OK to convert the weeks after publication to the topic that most closely aligns with the Potter topic, provided the original newsletter info is retained in case the cadence moves before go-live.*
