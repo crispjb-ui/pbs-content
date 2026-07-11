@@ -1,0 +1,38 @@
+name: Monthly Funnel Intel Prompt
+
+# Third-Friday reminder to export the Toolkit Leads sheet and run /funnel-intel
+# so revealed demand (what leads actually download) feeds topic selection.
+# Pure reminder; no Claude run. (The sheet is the PII system of record and is
+# not committed; the skill writes only aggregated reads to funnel_intelligence.md.)
+# Cron convention: day-of-month + day-of-week is OR in GitHub cron, so this uses
+# a day-range cron (15-21) plus an in-job Friday guard (manual dispatch always runs).
+
+on:
+  schedule:
+    - cron: '0 16 15-21 * *'   # days 15-21, ~16:00 UTC; guard keeps only Friday
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  funnel-intel-prompt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Third-Friday guard
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(TZ=America/New_York date +%u)" = "5" ]; then
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=no" >> "$GITHUB_OUTPUT"; echo "Not Friday; skipping."
+          fi
+      - name: Notify rolling issue
+        if: steps.guard.outputs.run == 'yes'
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          body=$(printf "**Monthly funnel-intel read** · %s\nExport (or screenshot) the PBS Toolkit Leads sheet and paste it into a Claude session with /funnel-intel. It computes the toolkit-download leaderboard, topic-cluster demand, role/source mix, and multi-download leads, then writes the demand signals /build-week reads for topic weighting.\n\nDownloads are revealed demand (see the Watsco pattern) — 10 minutes here aims the next month's content at what buyers are actually pulling." "$(date -u +%F)")
+          bash .github/scripts/notify_issue.sh "$body"

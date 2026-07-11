@@ -1,0 +1,80 @@
+name: Monthly Earned Media
+
+# Keeps the earned-media motion moving: verifies podcast/listicle targets are
+# alive, finds new ones, drafts 1-2 send-ready pitches (credentials one-pager +
+# verified proof anchors), and proposes every send via the approvals flow.
+# Never sends anything. Tracker: earned_media_tracker.md.
+
+on:
+  schedule:
+    - cron: '0 13 10 * *'   # 10th of each month, ~9-10 AM ET (spaced from the 8th/12th jobs)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+  issues: write
+
+jobs:
+  earned-media:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - id: vars
+        run: echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+      - name: Run /earned-media
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch"
+          prompt: |
+            Read CLAUDE.md first. Then run the /earned-media slash command
+            (.claude/commands/earned-media.md): verify the podcast/listicle
+            target list is alive and refresh it (log only what you actually
+            observed, with dates), draft 1-2 send-ready pitches per the skill's
+            guardrails (verified anchors only; Ginny's voice rules), run the
+            follow-up sweep (one bump max), update earned_media_tracker.md +
+            podcast_pitching_guide.md statuses, append every proposed send to
+            APPROVALS_PENDING.md, and write the notify body to
+            /tmp/notify_body.md. Never send anything. Do not commit; the next
+            step commits.
+      - name: Commit tracker updates
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git add -A
+          if git diff --staged --quiet; then echo "No earned-media updates produced."; exit 0; fi
+          git commit -m "Monthly earned media: ${{ steps.vars.outputs.date_iso }}"
+          push_ok=0
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || true
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then push_ok=1; break; fi
+            else
+              git rebase --abort || true
+            fi
+            echo "push attempt $attempt failed; retrying in 5s..."
+            sleep 5
+          done
+          [ "$push_ok" = "1" ] || { echo "ERROR: could not push to main after retries"; exit 1; }
+      - name: Surface approvals (tap-to-approve checkboxes)
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s APPROVALS_PENDING.md ]; then
+            bash .github/scripts/request_approval.sh "Monthly earned media · ${{ steps.vars.outputs.date_iso }}" "$(cat APPROVALS_PENDING.md)"
+          else
+            echo "No approvals surfaced this run."
+          fi
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          bash .github/scripts/notify_issue.sh "$(cat /tmp/notify_body.md 2>/dev/null || echo '**Monthly Earned Media** ran; see earned_media_tracker.md for the run log.')"

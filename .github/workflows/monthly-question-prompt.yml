@@ -1,0 +1,38 @@
+name: Monthly Question Harvest Prompt
+
+# First-Friday reminder to collect the month's REAL audience questions
+# (comments, DMs, briefing Q&A, sales-call asks, lead emails) and run
+# /question-harvest so they feed the anxiety map, FAQ, Field Note seeds, and
+# the shocking-fact pipeline. Pure reminder; no Claude run.
+# Cron convention: GitHub treats day-of-month + day-of-week as OR, so this uses
+# a day-range cron (1-7) plus an in-job Friday guard (manual dispatch always runs).
+
+on:
+  schedule:
+    - cron: '0 16 1-7 * *'   # days 1-7, ~16:00 UTC; the guard step keeps only Friday
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  question-prompt:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: First-Friday guard
+        id: guard
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(TZ=America/New_York date +%u)" = "5" ]; then
+            echo "run=yes" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=no" >> "$GITHUB_OUTPUT"; echo "Not Friday; skipping."
+          fi
+      - name: Notify rolling issue
+        if: steps.guard.outputs.run == 'yes'
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          body=$(printf "**Monthly question harvest** · %s\nCollect the month's REAL audience questions and paste them into a Claude session with /question-harvest:\n- LinkedIn + X + Substack comments and DMs (the ones that asked something, not praise)\n- Sales-call and lead-email questions (e.g. what a toolkit lead asked)\n- Briefing / webinar Q&A once those run\n\nThe skill routes each question to the buyer-anxiety map, the FAQ, Field Note seeds, the shocking-fact pipeline, or the Ask-Ginny video queue. Buyers' own phrasing is the hook + AEO data; 10 minutes of collection feeds a month of drafting." "$(date -u +%F)")
+          bash .github/scripts/notify_issue.sh "$body"
