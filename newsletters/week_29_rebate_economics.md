@@ -54,7 +54,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Jul 24 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
 | Fri Jul 24 | 7:00 PM | X | question [A15] | PART 4B · Fri | [ ] |
 | Fri Jul 24 | 8:30 PM | X | origin-anchored [D6] | PART 4B · Fri | [ ] |
-| Sat Jul 25 | 8:00 AM | X | recipe / White bagging (Tier A) | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 8:00 AM | X | 340B contract pharmacy spread (Tier A) | PART 4B · Sat | [ ] |
 | Sat Jul 25 | 10:00 AM | X | step therapy / fail-first (Tier A) | PART 4B · Sat | [ ] |
 | Sat Jul 25 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Jul 25 | 2:30 PM | X | GPO offshore rebate routing (Tier A) | PART 4B · Sat | [ ] |
@@ -64,7 +64,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Jul 26 | 8:00 AM | X | recipe / Copay accumulator (Tier A) | PART 4B · Sun | [ ] |
 | Sun Jul 26 | 10:00 AM | X | formulary exclusivity payment (Tier A) | PART 4B · Sun | [ ] |
 | Sun Jul 26 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
-| Sun Jul 26 | 2:30 PM | X | dispensing fee spread (Tier A) | PART 4B · Sun | [ ] |
+| Sun Jul 26 | 2:30 PM | X | prior authorization as a fee engine (Tier A) | PART 4B · Sun | [ ] |
 | Sun Jul 26 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
 | Sun Jul 26 | 7:00 PM | X | question [A1] | PART 4B · Sun | [ ] |
 | Sun Jul 26 | 8:30 PM | X | one question [B8] | PART 4B · Sun | [ ] |
