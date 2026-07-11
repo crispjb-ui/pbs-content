@@ -5,7 +5,11 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday reach slot rebuilt June 2026 = live "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" owned-pharmacy steering shocking-reveal one-way turnstile conceptual infographic, replacing the weak "5 COB Terms Decoded" vocabulary decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday reach slot rebuilt June 2026 = live "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" owned-pharmacy steering shocking-reveal one-way turnstile conceptual infographic, replacing the weak "5 COB Terms Decoded" vocabulary decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual). Run of Show X-recipe labels reconciled to the as-built PART 4B (July 2026 sweep)._
+
+**⚠ Open before ship (residual items — external inputs, not auto-fixable):**
+- **⚠ Post-publish URLs (fill at schedule/publish time; the weekly-substack-urls workflow auto-fills these from RSS):** the Monday deep-dive URL in the Newsletter body `[SUBSTACK URL]`, the Newsletter First Comment, and Post 109 first comment `[SUBSTACK MONDAY DEEP DIVE URL]`; the Thursday Field Note URL in Post 111 first comment `[SUBSTACK FIELD NOTE URL]` and the PART 1C `field_note_url` cell; and the Notes launch-teaser `[LINK]`s (Mon deep dive / Wed roundup / Thu field note). All resolve only after each post publishes.
+- **⚠ Video asset (Post 110):** confirm the 9:16 render `social_clips/remotion_starter/out/2026-06-09_rebate-clawback-lifestyle_9x16.mp4` exists and has passed the Phase-4 QC gate before scheduling Wednesday.
 
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
@@ -18,16 +22,18 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jul 27 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Jul 27 | 7:00 PM | X | question [A2] | PART 4B · Mon | [ ] |
 | Mon Jul 27 | 8:30 PM | X | aphorism [C9] | PART 4B · Mon | [ ] |
-| Tue Jul 28 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Tue | [ ] |
+| Tue Jul 28 | 8:00 AM | X | recipe / Facility fee markup (Tier B) | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 10:00 AM | LI Feed | Post 109 — "5 Self-Funded Decisions That Have to Land Before Year-End" (One Number Carousel) | Post 109 | [ ] |
 | Tue Jul 28 | 10:05 AM | LI Feed | Post 109 first comment | Post 109 | [ ] |
 | Tue Jul 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 1:30 PM | LI Company | Reshare of Post 109 | Post 109 Reshare | [ ] |
+| Tue Jul 28 | 2:30 PM | X | long-form trial (site-of-care decoder, routes to Mon deep dive; swaps one thread) | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 7:00 PM | X | question [A3] | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 8:30 PM | X | one question [B9] | PART 4B · Tue | [ ] |
-| Wed Jul 29 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Wed | [ ] |
-| Wed Jul 29 | 8:30 AM | LI Feed | Post 110 — SHRM clip3 "They claw it back" (rebate clawback on lifestyle) · NATIVE 9:16 VIDEO; first comment → rebate-report toolkit | Post 110 | [ ] |
+| Wed Jul 29 | 8:00 AM | X | recipe / Percentage markup on medical-benefit drugs (Tier B) | PART 4B · Wed | [ ] |
+| Wed Jul 29 | 8:30 AM | LI Feed | Post 110 — SHRM clip3 "They claw it back" (rebate clawback on lifestyle) · NATIVE 9:16 VIDEO | Post 110 | [ ] |
+| Wed Jul 29 | 8:35 AM | LI Feed | Post 110 first comment (→ rebate-report toolkit) | Post 110 | [ ] |
 | Wed Jul 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Jul 29 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Jul 29 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
@@ -35,7 +41,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 29 | 8:30 PM | X | aphorism [C10] | PART 4B · Wed | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "Where Does Your Specialty Script Actually Get Filled?" | PART 1B | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: Mid-Summer Plan Check-In | PART 2B | [ ] |
-| Thu Jul 30 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Thu | [ ] |
+| Thu Jul 30 | 8:00 AM | X | recipe / The REMS excuse (Tier B) | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, one-way turnstile conceptual infographic) | Post 111 | [ ] |
 | Thu Jul 30 | 10:05 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
 | Thu Jul 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
@@ -44,7 +50,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Jul 30 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Jul 30 | 7:00 PM | X | question [A5] | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 8:30 PM | X | one question [B10] | PART 4B · Thu | [ ] |
-| Fri Jul 31 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Fri | [ ] |
+| Fri Jul 31 | 8:00 AM | X | recipe / Site-of-care program fees (Tier B) | PART 4B · Fri | [ ] |
 | Fri Jul 31 | 10:00 AM | LI Feed | Post 112 — PBM RFP tease (teases W31) | Post 112 | [ ] |
 | Fri Jul 31 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Jul 31 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
@@ -54,7 +60,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Aug 1 | 8:00 AM | X | recipe / Rebate aggregator (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 10:00 AM | X | price protection reclassification (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
-| Sat Aug 1 | 2:30 PM | X | copay accumulator (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 2:30 PM | X | alternative funding programs (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 7:00 PM | X | question [A7] | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 8:30 PM | X | aphorism [C1] | PART 4B · Sat | [ ] |
@@ -485,7 +491,7 @@ Five we walk our self-funded clients through:
 
 5. Run a fiduciary file audit. The selection memo, evaluation criteria, performance reviews, and committee minutes either exist or they do not. If they do not, build them now, not when litigation asks for them.
 
-In the Q4 renewals we coordinate at PBS, the split is consistent: the plans that lock these five in early negotiate from position. The ones that wait inherit the PBM's timeline and react to it.
+In the Q4 renewals we coordinate at Prescription Benefit Solutions, the split is consistent: the plans that lock these five in early negotiate from position. The ones that wait inherit the PBM's timeline and react to it.
 
 #Q4Planning #SelfFundedEmployers #EmployeeBenefits
 ```
@@ -498,7 +504,7 @@ Monday's Benefit Blind Spots deep dive on site-of-care optimization is the deepe
 
 #### Carousel Slide-by-Slide Spec
 
-Same visual system as W22 One Number Carousel. Cover and close Primary Blue with white Plex Sans SemiBold and italic Accent Blue emphasis. Content slides (2-6) white background with one large Plex Mono Medium tabular figure per slide, Plex Sans SemiBold label above, Plex Sans Regular interpretation below, Primary Blue "WHY IT MATTERS" panel at bottom ~18%. Slide-number footer "N / 7" bottom-right. Cover eyebrow "PBS Q4 DECISIONS · 2026 RENEWAL PREP" in Plex Sans SemiBold 14pt white, +6% tracking.
+Same visual system as W22 One Number Carousel. Cover and close Primary Blue with white Plex Sans SemiBold and italic Accent Blue emphasis. Content slides (2-6) white background with one large Plex Mono Medium tabular figure per slide, Plex Sans SemiBold label above, Plex Sans Regular interpretation below, Primary Blue "WHY IT MATTERS" panel at bottom ~18%. Slide-number footer "N / 7" bottom-right. Cover eyebrow "Q4 DECISIONS · 2026 RENEWAL PREP" in Plex Sans SemiBold 14pt white, +6% tracking (spelled-out "Prescription Benefit Solutions" wordmark top-right on the cover per the W22 One Number system; no bare "PBS" on the public visual).
 
 **Slide 1 — Cover.** Headline: "5 self-funded decisions that have to *land* before year-end." ("land" italic Accent Blue.) Subhead: "Made now = leverage in Q1. Deferred = reacting." "01 / 07."
 
@@ -516,7 +522,7 @@ Same visual system as W22 One Number Carousel. Cover and close Primary Blue with
 
 #### Image Generation Prompt
 
-Claude Design project type: **Slide deck from template**. One Number carousel (template #5, Template C). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W22 One Number Carousel. Pull slide-by-slide content (labels, numbers/dates, interpretation, "WHY IT MATTERS" copy) from the spec above. Cover eyebrow "PBS Q4 DECISIONS · 2026 RENEWAL PREP."
+Claude Design project type: **Slide deck from template**. One Number carousel (template #5, Template C). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W22 One Number Carousel. Pull slide-by-slide content (labels, numbers/dates, interpretation, "WHY IT MATTERS" copy) from the spec above. Cover eyebrow "Q4 DECISIONS · 2026 RENEWAL PREP" (spelled-out "Prescription Benefit Solutions" wordmark top-right per the W22 One Number system).
 
 **Post-Generation Steps:**
 
@@ -748,6 +754,8 @@ The questions you ask determine the answers you get. And the questions most RFP 
 Next week: the PBM RFP, and 30 questions with answer scoring that reveal what responses actually mean.
 
 When your last PBM RFP came back, did anyone score the answers, or just count the pages?
+
+#PBMRFP #SelfFundedEmployers #PharmacyBenefits
 ```
 
 _CTE A/B experiment (W30-W33, question arm): this post's closing question is deliberate. Log comments + impressions vs the W31/W33 statement-arm posts via /log-metrics._
