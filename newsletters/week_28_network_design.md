@@ -29,8 +29,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jul 14 | 8:30 PM | X | one question [B3] | PART 4B · Tue | [ ] |
 | Wed Jul 15 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 8:30 AM | LI Feed | Post 102 — SHRM clip4 "1 in 3 would leave" (GLP-1 retention) · NATIVE 9:16 VIDEO; first comment → drug-pipeline toolkit | Post 102 | [ ] |
-| Wed Jul 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
-| Wed Jul 15 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
+| Wed Jul 15 | 12:00 PM | X | **POTTER PIECE 1 announcement** (was news-reaction HOLD; the piece IS the news) ⚠ paste live piece URL in first reply | Potter Kit | [ ] |
+| Wed Jul 15 | ~12:30 PM | LI Feed | **POTTER PIECE 1 announcement post + first comment** (ADDITIVE milestone post, 4h offset from the 8:30 video to limit cannibalization) ⚠ paste live piece URL | Potter Kit | [ ] |
+| Wed Jul 15 | Afternoon | Notes | Note #2 → **Potter piece announcement Note** (swapped from pull-quote) | Potter Kit | [ ] |
 | Wed Jul 15 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 7:00 PM | X | question [A6] | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 8:30 PM | X | aphorism [C4] | PART 4B · Wed | [ ] |
@@ -65,6 +66,58 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Jul 19 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
 | Sun Jul 19 | 7:00 PM | X | question [A10] | PART 4B · Sun | [ ] |
 | Sun Jul 19 | 8:30 PM | X | one question [B5] | PART 4B · Sun | [ ] |
+
+---
+
+# ⚡ POTTER PIECE 1 PUBLISH-DAY KIT — Wednesday July 15 (Spread Pricing)
+
+_Piece 1 ("spread pricing") publishes on HEALTH CARE un-covered **Wednesday July 15** (confirmed by Brett Jul 10; if the date slips again, this kit floats to the actual publish day — nothing in it is day-locked except the Run-of-Show rows above). All three items are ADDITIVE to the W28 calendar; nothing scheduled is displaced except the Wed 12:00 X news-HOLD slot and Note #2. Cascade reinforcement lives in W29 (newsletter callback + deep-dive callout + roundup item). Fill `[PIECE URL]` everywhere once live._
+
+### 1 · LinkedIn announcement post (~12:30 PM, after the piece is live; 3 tags per rule)
+
+```
+Wendell Potter's HEALTH CARE un-covered published my piece on spread pricing this morning.
+
+Spread pricing is the gap between what a PBM charges your plan for a drug and what it pays the pharmacy that dispensed it. The PBM keeps the difference, the contract's pricing definitions make it legal, and the summary reporting keeps it invisible. Both things can be true at once: the guarantee was met, and the plan overpaid.
+
+The piece makes the policy case: what the spread is, why it has survived every transparency wave so far, and what would actually end it.
+
+Wendell has spent years pulling back the curtain on this industry. Writing for his readers is not something I take lightly.
+
+Link in the first comment.
+
+#PBMTransparency #DrugPricing #PharmacyBenefits
+```
+
+**First comment:**
+
+```
+The full piece on HEALTH CARE un-covered: [PIECE URL]
+
+The operational companion is our PBM Glossary's spread-pricing entry and the contract language that prevents it: https://www.rxbs.org/glossary#spread-pricing
+```
+
+### 2 · X announcement (12:00 PM slot, replaces the news-HOLD; the piece IS the news)
+
+```
+@wendellpotter's HEALTH CARE un-covered ran my piece on spread pricing today.
+
+The PBM charges your plan one price for a generic, pays the pharmacy another, and keeps the difference. The contract makes it legal. The summary report makes it invisible.
+
+Full piece in the reply.
+```
+
+**First reply:** `[PIECE URL]`
+
+### 3 · Substack Note (afternoon slot, replaces Note #2)
+
+```
+HEALTH CARE un-covered published my piece on spread pricing this morning. It is the mechanism I explain most often in contract reviews: the PBM charges the plan one price, pays the pharmacy another, and the pricing definitions decide whether anyone ever sees the gap. Wendell's readers get the policy case. The operational version, how to find it in your own contract, lives here.
+
+[PIECE URL]
+```
+
+_Guardrails: the announcement post does not scoop Thursday's 12-cent-generic reveal (different mechanism: the reveal is GER averaging on one claim's markup; the piece is the contract-level spread structure; adjacent, not same — triple-distinct holds). Company page may reshare the LinkedIn announcement Thursday ~1:30 PM if the Thursday reshare slot is not otherwise better used. Log actuals in the tracker; a Potter-byline post is a new format class worth its own performance row._
 
 ---
 

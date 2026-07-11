@@ -71,6 +71,16 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ---
 
+## ⚡ POTTER CASCADE LAYER — Piece 1 (Spread Pricing) published Wed Jul 15
+
+_This is the cascade week for Potter Piece 1 (W28 Wednesday publish; the publish-day kit lives in the W28 file). Rebate economics stays the week's topic (no swap): spread = the retail half of PBM revenue, rebates = the manufacturer half, so the cascade reads as one deliberate two-part money story. Three callbacks are ALREADY WOVEN into this file (fill `[POTTER PIECE 1 URL]` before Monday): the deep dive's "Related reading" callout box (PART 1), the newsletter's second-paragraph callback (PART 2), and the publish post's news-peg line (PART 2). Two remaining actions:_
+
+- ⚠ **Wednesday roundup (Jul 22): include the Potter piece as one of the 4-5 curated stories.** The Tuesday auto-draft won't know about it; when reviewing the draft, add the item (Ginny's take: what she hears from plan sponsors when they first see their own spread) and make it the roundup teaser's named-entity lead if no bigger story broke.
+- **Optional X amplifier:** the Mon Jul 20 12:00 news-HOLD slot may carry a piece amplifier if no bigger PBM news that day: `The spread piece I wrote for @wendellpotter's outlet last week keeps generating the same DM: "is this in MY contract?" Short answer: if your pricing exhibit says "aggregate," yes, check. [reply: PIECE URL + glossary link]` (rework to taste, keep ASCII).
+- _First comments this week stay routed to the PBS Substack deep dive per the cross-promo mechanics (the Wendell traffic flow was last week's job; this week converts cascade readers into PBS subscribers)._
+
+---
+
 # PART 1: SUBSTACK ARTICLE
 
 ## Rebate Economics: What Your PBM's Rebate Report Is Not Showing You
@@ -96,6 +106,8 @@ I sat in a renewal meeting where the PBM proudly presented year-over-year rebate
 That disconnect is not unusual. It is structural. Rebate reporting is designed by the PBM, for the PBM. The metrics they highlight (total rebate dollars, rebate growth rate, rebate as percentage of spend) all tell the PBM's story. The metric the employer needs (net cost after rebates, compared to alternatives) is rarely presented unless someone asks for it.
 
 I am not saying PBMs fabricate rebate numbers. They do not need to. The numbers are real. The selection of which numbers to present is where the narrative gets shaped. What gets highlighted, what gets buried, and what never gets reported at all.
+
+> **Related reading:** Last Wednesday, Wendell Potter's HEALTH CARE un-covered published my piece on spread pricing, the retail half of this same money story: the margin a PBM keeps between what the plan pays at the counter and what the pharmacy receives. Rebates are the manufacturer half. The mechanisms are different; the contract playbook that keeps them invisible is the same. Read the spread piece here: [POTTER PIECE 1 URL]
 
 **How rebate economics actually work**
 
@@ -360,6 +372,8 @@ _Wix action this week: confirm `rxbs.org/toolkit/copay-card-calculator` still re
 
 I sat in a renewal meeting where the PBM proudly presented year-over-year rebate growth. The client was pleased. Then I pulled up the net cost data. Total drug cost had also increased. Both numbers were accurate.
 
+Last Wednesday, Wendell Potter's HEALTH CARE un-covered ran my piece on spread pricing: the margin a PBM keeps at the pharmacy counter. That is the retail half of how a PBM makes money on your plan. This briefing is the manufacturer half, and the reporting playbook is the same.
+
 The disconnect is structural. Rebate reporting is designed by the PBM, for the PBM. The metrics they highlight (total rebate dollars, growth rate, rebate as percentage of spend) tell the PBM's story. The metric the employer needs (net cost after rebates, compared to alternatives) is rarely presented unless requested.
 
 Here is my position: rebate economics is the most technically complex and most financially consequential area of PBM contracts. The contract language determines how much manufacturer money your plan actually receives. And the difference between weak and strong rebate provisions can be substantial over a multi-year contract.
@@ -401,7 +415,7 @@ New issue of The Pharmacy Benefits Briefing.
 
 Your PBM's rebate report says 100% pass-through, and the math checks out. 100% of what the PBM received. The rebate aggregator that took its fee before the money ever reached the PBM appears nowhere on that report, so the number is true and the yield is smaller than it looks.
 
-This briefing follows the dollar from manufacturer to plan: where the gap lives, the eight contract provisions that determine your real rebate yield, and the language to bring to renewal.
+Last week Wendell Potter's HEALTH CARE un-covered ran my piece on spread pricing, the retail half of PBM revenue. This briefing follows the manufacturer half: the dollar's path from manufacturer to plan, the eight contract provisions that determine your real rebate yield, and the language to bring to renewal.
 
 Rebate contract analysis framework on Substack.
 
