@@ -1,0 +1,33 @@
+name: Monthly Link Check
+
+# Sweeps every live-surface URL (rxbs.org + benefitblindspots.substack.com)
+# referenced in the repo's markdown and reports failures to the rolling issue.
+# Extends the confirm-before-link rule past publish time: slug changes, page
+# deletions, and Substack removals surface here instead of as dead links a
+# prospect finds. Pure script; no Claude run.
+
+on:
+  schedule:
+    - cron: '0 12 12 * *'   # 12th of each month, ~12:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run link check
+        run: python3 tools/link_check.py | tee /tmp/link_check_full.log
+      - name: Notify rolling issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          report=$(sed -n '/=== LINK-CHECK REPORT ===/,/=== END REPORT ===/p' /tmp/link_check_full.log | sed '1d;$d')
+          body=$(printf "**Monthly link check** · %s\n%s" "$(date -u +%F)" "${report:-run produced no report; check the run log}")
+          bash .github/scripts/notify_issue.sh "$body"
