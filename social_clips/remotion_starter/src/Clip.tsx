@@ -122,8 +122,14 @@ export type ClipData = {
   // ── v2 "elevate" treatment (added Jul 2026). ALL OPT-IN: a clip without these renders
   // pixel-identical to the verified v1 output. Ship v2s as SECOND versions (id "<id>v2",
   // slug "<slug>-v2"), never by editing a shipped v1 entry. ──
-  elevate?: boolean; // punch-in editing rhythm + emphasis-word tint + animated end card
+  elevate?: boolean; // emphasis-word tint + animated end card (+ fallback motivated punch-ins)
   emphasisWords?: string[]; // payload nouns tinted Accent in the karaoke track even when not the active word
+  // v3 motivated punch-ins (Jul 10, 2026): authored payload beats, ABSOLUTE source secs (the
+  // render script shifts them like cutaways). Crop eases to `scale` (default 1.08) over ~0.35s,
+  // holds through the beat, releases ~0.55s after. 1-3 per clip, on the money lines only; keep
+  // clear of cutaway/fitWindow/coldOpen ranges (the component suppresses overlaps anyway).
+  // When absent on an elevate clip, punches fall back to emphasis-word caption phrases (min 5s apart).
+  punchWindows?: { startSec: number; endSec: number; scale?: number }[];
   music?: { src: string; volume?: number }; // optional low audio bed under the voice (file in public/); render scripts strip it when the file is absent
   // Mid-clip re-engagement beat (2026 retention research: one open-loop line at ~40-65% of the
   // clip lifts retention 4-8pp). A short chip naming the payoff still ahead ("Watch where the
@@ -509,20 +515,10 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   const inEndCard = frame >= totalFrames - endFrames;
   const zoom = interpolate(frame, [0, totalFrames - endFrames], [1.0, 1.06], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
 
-  // ── v2 punch-in editing rhythm (clip.elevate only) ──
-  // Alternates the crop level on each caption-phrase boundary with a soft spring, the standard
-  // talking-head retention edit (visual "cut" energy without actual cuts). Combined with the slow
-  // base zoom the max crop is ~1.13, still inside the safe-area margins. v1 clips: punchScale = 1.
   const emphasisSet = new Set((clip.emphasisWords ?? []).map(normWord));
-  const capIdx = active ? clip.captions.indexOf(active) : -1;
-  let punchScale = 1;
-  if (clip.elevate && !inColdOpen && capIdx >= 0 && active) {
-    const capStartFrame = coldFrames + Math.max(0, Math.round((active.startSec - CAPTION_LEAD - clip.inSec) * fps));
-    const p = spring({ frame: Math.max(0, frame - capStartFrame), fps, config: { damping: 16, stiffness: 80 } });
-    const target = capIdx % 2 === 0 ? 1.0 : 1.065;
-    const prev = capIdx % 2 === 0 ? 1.065 : 1.0;
-    punchScale = interpolate(p, [0, 1], [prev, target]);
-  }
+  // (v3, Jul 10 2026: the v2 alternating punch-in rhythm — crop toggling on every caption-phrase
+  // boundary — was retired after live review: content-blind toggling reads as random zooming.
+  // The motivated punch-in system lives below, after cutaway/fit state is known.)
   // Split-screen "zoom out": letterbox (contain) the whole clip (clip.fit) or specific ranges
   // (clip.fitWindows, absolute source secs) so two side-by-side faces aren't cropped by cover.
   const inFitWindow = (clip.fitWindows ?? []).some((w) => tSource >= w.startSec && tSource <= w.endSec);
@@ -539,6 +535,48 @@ export const Clip: React.FC<ClipProps> = ({ sourceVideo, fps, clip, coverMode })
   // When the pill rides over a still-visible cutaway, drop it deeper into the safe bottom margin so
   // it clears the centred card (the growing NET COST row + callout).
   const captionOverCutaway = !!captionCutaway && !captionsSuppressed;
+
+  // ── v3 motivated punch-ins (Jul 10, 2026 — replaces the v2 alternating rhythm) ──
+  // Motion is motivated or absent: the crop pushes in ONLY on payload beats, holds while the
+  // beat is spoken, and releases after it lands. Beats come from clip.punchWindows (authored,
+  // ABSOLUTE source secs, shifted by the render script exactly like cutaways). Fallback for an
+  // elevate clip with no authored windows: punch on caption phrases that CONTAIN an emphasis
+  // word, minimum 5s apart. Punches never fire during the cold-open teaser, a full-screen
+  // cutaway, or a letterboxed (contain) range, and never inside the last 2s (the end card owns
+  // the exit). Stacked with the slow base zoom the max crop stays ~1.14, inside SAFE_X.
+  let punchScale = 1;
+  if (!inColdOpen && !cutawayActive && !containFit && !inEndCard) {
+    let wins: { startSec: number; endSec: number; scale?: number }[];
+    if (clip.punchWindows && clip.punchWindows.length > 0) {
+      wins = clip.punchWindows;
+    } else if (clip.elevate) {
+      wins = [];
+      let lastEnd = -Infinity;
+      for (const c of clip.captions) {
+        const hasEmphasis = allWords
+          ? allWords.some((w) => w.startSec >= c.startSec - 0.05 && w.endSec <= c.endSec + 0.05 && emphasisSet.has(normWord(w.text)))
+          : false;
+        if (hasEmphasis && c.startSec - lastEnd >= 5) {
+          wins.push({ startSec: c.startSec - CAPTION_LEAD, endSec: c.endSec - CAPTION_LEAD });
+          lastEnd = c.endSec;
+        }
+      }
+    } else {
+      wins = [];
+    }
+    for (const w of wins) {
+      if (tSource >= w.startSec - 0.1 && tSource <= w.endSec + 0.55) {
+        const s = w.scale ?? 1.08;
+        punchScale = interpolate(
+          tSource,
+          [w.startSec - 0.1, w.startSec + 0.35, w.endSec, w.endSec + 0.55],
+          [1, s, s, 1],
+          { easing: Easing.inOut(Easing.cubic), extrapolateLeft: "clamp", extrapolateRight: "clamp" },
+        );
+        break;
+      }
+    }
+  }
 
   // ── Hook ──
   const hookOp = interpolate(frame, [hookDurFrames - 12, hookDurFrames], [1, 0], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
