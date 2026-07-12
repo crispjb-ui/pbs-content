@@ -194,10 +194,21 @@ Per Ginny's rule: **elevations ship as SECOND VERSIONS of each clip (`clip1v2`, 
 is opt-in — a clip without the new fields renders pixel-identical to the verified v1 output.
 The SHRM manifest now carries 7 `*v2` entries (same locked in/out, captions, cutaways) with:
 
-1. **Punch-in editing rhythm (`elevate: true`)** — the crop level alternates 1.0 ↔ ~1.065
-   with a soft spring on each caption-phrase boundary: the standard talking-head retention
-   edit (visual "cut" energy without actual cuts). Stacked with the slow base zoom the max
-   crop is ~1.13, still inside the SAFE_X margins.
+1. **~~Punch-in editing rhythm~~ → v3 MOTIVATED punch-ins (Jul 10, 2026, from Brett's live
+   review: "the zooming in and out feels random and is a little distracting").** The v2
+   alternating rhythm (crop toggling 1.0 ↔ 1.065 on EVERY caption-phrase boundary) was
+   content-blind — it cut because a phrase changed, not because anything happened — and is
+   RETIRED. The rule now: **motion is motivated or absent.** Each clip carries 1-3 authored
+   `punchWindows` (ABSOLUTE source secs, shifted by render-with-extract like cutaways): the
+   crop eases in ~0.35s to `scale` (default 1.08) as the money line starts, HOLDS while it
+   is spoken, releases ~0.55s after it lands. Best authoring pattern: end a punch AT a
+   cutaway's start so the push-in ramps INTO the cutaway (clip1 → equation, clip3 → slam).
+   Punches never fire during the cold-open teaser, a full-screen cutaway, a letterboxed
+   (contain) range, or the end card. A clip whose payload is fully covered by cutaway +
+   letterbox gets NO punches (clip4) — the base drift (1.0→1.06 over the clip) plus the
+   cutaway IS its motion. Fallback for an `elevate` clip with no authored windows:
+   punch only on caption phrases containing an `emphasisWords` term, min 5s apart. Max
+   stacked crop ~1.14, inside SAFE_X.
 2. **Emphasis words (`emphasisWords: [...]`)** — the clip's payload nouns ("spread",
    "rebates", "62", "net cost") stay Accent-tinted in the karaoke track even when not the
    active word, so the key terms read at a glance in a muted feed.

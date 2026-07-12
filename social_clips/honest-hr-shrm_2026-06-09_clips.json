@@ -4177,7 +4177,17 @@
       "midHook": {
         "text": "Watch where the $20 goes",
         "atFrac": 0.33
-      }
+      },
+      "punchWindows": [
+        {
+          "startSec": 748.0,
+          "endSec": 750.2
+        },
+        {
+          "startSec": 761.2,
+          "endSec": 763.1
+        }
+      ]
     },
     {
       "id": "clip2v2",
@@ -4186,7 +4196,7 @@
       "outSec": 1658,
       "aspect": "9x16",
       "platform": "reels",
-      "hookTitle": "1 in 12",
+      "hookTitle": "1 in 12 still on it",
       "showName": "Honest HR (SHRM)",
       "locatorQuote": "after three years, it's like one in 12 people are still using a GLP-1",
       "cta": {
@@ -4678,11 +4688,10 @@
         }
       ],
       "hookBeats": [
-        "1",
-        "in",
-        "12"
+        "1 in 12",
+        "still on it"
       ],
-      "hookAccent": "12",
+      "hookAccent": "1 in 12",
       "cutaways": [
         {
           "type": "dotgrid",
@@ -4707,6 +4716,12 @@
         "tolerate",
         "weight",
         "lifestyle"
+      ],
+      "punchWindows": [
+        {
+          "startSec": 1652.6,
+          "endSec": 1656.3
+        }
       ]
     },
     {
@@ -5246,6 +5261,12 @@
         "lifestyle",
         "success",
         "invest"
+      ],
+      "punchWindows": [
+        {
+          "startSec": 843.4,
+          "endSec": 844.9
+        }
       ]
     },
     {
@@ -5320,13 +5341,8 @@
         },
         {
           "startSec": 20.6,
-          "endSec": 22.4,
-          "text": "I need to know. But on"
-        },
-        {
-          "startSec": 22.4,
-          "endSec": 23.12,
-          "text": "the flip side of"
+          "endSec": 21.9,
+          "text": "I need to know."
         }
       ],
       "words": [
@@ -5679,36 +5695,6 @@
           "startSec": 21.18,
           "endSec": 21.42,
           "text": "know."
-        },
-        {
-          "startSec": 22,
-          "endSec": 22.26,
-          "text": "But"
-        },
-        {
-          "startSec": 22.26,
-          "endSec": 22.4,
-          "text": "on"
-        },
-        {
-          "startSec": 22.4,
-          "endSec": 22.54,
-          "text": "the"
-        },
-        {
-          "startSec": 22.54,
-          "endSec": 22.68,
-          "text": "flip"
-        },
-        {
-          "startSec": 22.68,
-          "endSec": 22.98,
-          "text": "side"
-        },
-        {
-          "startSec": 22.98,
-          "endSec": 23.12,
-          "text": "of"
         }
       ],
       "hookBeats": [
@@ -5729,8 +5715,8 @@
         }
       ],
       "audioFade": {
-        "startSec": 1149.3,
-        "endSec": 1150
+        "startSec": 1148.9,
+        "endSec": 1149.7
       },
       "fitWindows": [
         {
@@ -6335,7 +6321,13 @@
       "coldOpen": {
         "startSec": 1512.4,
         "endSec": 1514.6
-      }
+      },
+      "punchWindows": [
+        {
+          "startSec": 1494.5,
+          "endSec": 1497.2
+        }
+      ]
     },
     {
       "id": "clip6v2",
@@ -6705,6 +6697,16 @@
         "60%",
         "obesity",
         "paying"
+      ],
+      "punchWindows": [
+        {
+          "startSec": 1425.3,
+          "endSec": 1428.6
+        }
+      ],
+      "hookBeats": [
+        "62",
+        "diseases."
       ]
     },
     {
@@ -7184,8 +7186,14 @@
         "net",
         "blind",
         "data"
+      ],
+      "punchWindows": [
+        {
+          "startSec": 883.3,
+          "endSec": 886.2
+        }
       ]
     }
   ],
-  "_note_v2": "*v2 entries (Jul 2026) are ELEVATED SECOND VERSIONS of the same moments \u2014 identical in/out, captions, and cutaways, plus the v2 treatment (elevate: punch-in editing rhythm on caption boundaries, Accent-tinted emphasis words in the karaoke track, animated end card). The original clip entries are untouched and still render the verified v1 output. Batch-render: node render-with-extract.mjs v2. Optional music bed: add music:{src,volume} to a v2 clip once a licensed track exists at remotion_starter/public/ (render script skips it if the file is missing)."
+  "_note_v2": "*v2 entries (Jul 2026) are ELEVATED SECOND VERSIONS of the same moments — identical in/out, captions, and cutaways, plus the v2 treatment (elevate: punch-in editing rhythm on caption boundaries, Accent-tinted emphasis words in the karaoke track, animated end card). The original clip entries are untouched and still render the verified v1 output. Batch-render: node render-with-extract.mjs v2. Optional music bed: add music:{src,volume} to a v2 clip once a licensed track exists at remotion_starter/public/ (render script skips it if the file is missing)."
 }
