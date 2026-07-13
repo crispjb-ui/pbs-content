@@ -24,8 +24,8 @@ Maintained here (move to the Google Sheet as a "Partners" tab when the count pas
 | Hylant | (anchor partner) | Pre-existing | REFERRING | ongoing | maintain cadence | The anchor. This track diversifies alongside, never away from, Hylant. |
 | GWCU | Mike Thomson | Toolkit funnel (bulk download, Jun 2026) | COLLABORATING | Jun 22, 2026 meeting | scope first joint client engagement; send enablement kit | The proof pattern. |
 | Custom Benefits | Cristy Gupton | Toolkit funnel (PARTNER lead) | CONTACTED | Jun 2026 email | invite to a 20-minute partner conversation | |
+| Health Compass Consulting (Orlando, FL) | Bunky Garrabrant (Implementation Director, Procurement) | Toolkit funnel PARTNER alert Jul 13, 2026 + **paid monthly Substack sub Jul 11** (the sub that triggered the #85 Rising badge) | LEAD | — | Ginny P1 note (fee-based fiduciary firm; reference their Fiduciary Governance Protocol; downloads = Contract Review Readiness + Mid-Year Amendment Letter → likely a live client situation) | Founded 2018 by Donovan Pyle (Validation Institute senior advisor); fee-based, carrier/vendor-agnostic, anti-commission positioning = ideological twin of the PBS independence stance. Bunky = ops/procurement + media contact; Pyle = the eventual relationship. Highest-alignment PARTNER lead yet. |
 | *(open)* | | | | | | Target: fill from PARTNER-tier alerts + Broker-pillar content respondents. |
-| *(open)* | | | | | | |
 
 **Sourcing lanes for the open rows:** (1) PARTNER-tier funnel alerts (already wired), (2) commenters/savers on Broker-pillar LinkedIn content (Library carousels especially; brokers are the documented bookmark audience), (3) warm intros from podcast hosts and existing partners ("who else should I talk to?"), (4) the Library 02 "Five Clauses the Best Brokers Check First" repost audience.
 
