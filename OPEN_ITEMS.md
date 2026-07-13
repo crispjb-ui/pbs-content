@@ -77,7 +77,7 @@ Brand typography of record is IBM Plex (digital register); the live Wix site run
 _Gap analysis → all 7 approved → built same day. 6 new workflows + 4 new skills + 2 registries + 1 tool + extensions to `/log-metrics` and `/build-week`. Full table: `.github/workflows/README.md`._
 1. **Freshness pass** (monthly 16th, `/freshness-pass` + `evergreen_freshness_registry.md`) — substantive-refresh rotation over live evergreen assets; first run Aug 16.
 2. **Breakout→repurpose auto-draft** — now Step 4 of `/log-metrics`; breakouts get their X variant / Note / video-bank / future-week echo drafted same session (provisional-read rule applies).
-3. **News scan** (weekdays 6:45a, `/news-scan`) — reaction-bar filter + same-day X reaction drafts to the notify issue; never edits week files.
+3. **News reactions** — REVISED Jul 13 per Brett: the daily scan was removed (daily = noise); the **Tuesday roundup run now appends 0-2 paste-ready X reaction candidates** (the week's best stories repurposed for the news-HOLD slots, reveal-reservation-checked) to the roundup draft.
 4. **Question harvest** (first-Friday prompt + `/question-harvest`) — audience questions → anxiety map / FAQ / Field Note seeds / fact bank / Ask-Ginny queue.
 5. **Funnel intel** (third-Friday prompt + `/funnel-intel` → `funnel_intelligence.md`) — toolkit-download demand weights `/build-week` topic choice (new Step 1.2b).
 6. **Link check** (monthly 12th, `tools/link_check.py`) — every referenced rxbs.org/Substack URL verified; failures to the notify issue.

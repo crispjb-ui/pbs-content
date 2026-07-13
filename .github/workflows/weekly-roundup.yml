@@ -113,6 +113,19 @@ jobs:
 
             Write the article following the template exactly. Include the preview image prompt at the end.
 
+            AFTER the article body + image prompt, append a final section to the SAME file titled
+            "## Reaction candidates (not part of the roundup — for the week's news-HOLD slots)":
+            from this week's story pool, pick the 1-2 stories (0 is fine on a quiet week) with a
+            genuinely strong same-week reaction angle — a named PBM/actor doing something structural
+            that a plan sponsor would care about within days. For each, draft a paste-ready X
+            reaction post in a fenced code block (Ginny's X voice: punchy, named actor + mechanism +
+            who pays, pure ASCII, 0-1 hashtags, source link goes in the first reply — include the
+            link on its own line after the block) sized for the current week file's 12:00 PM
+            news-HOLD X slots. Check the current week's file (newsletters/week_NN_*.md) so no
+            reaction scoops that week's own reveal topics (the reveal-reservation rule). Never
+            manufacture a reaction from a weak story; "no reaction candidates this week" is a
+            valid section body.
+
             Draft in Ginny's voice: personal "I" and "we" framing, varied sentence length, brokers as partners, PBMs as structural adversary, employer cost/risk lens on every story, no em dashes or hyphens as sentence separators, no fabricated statistics, company is Prescription Benefit Solutions (PBS, never RXBS), CEO is Ginny Crisp, PharmD (never "Dr. Ginny Crisp"). A dedicated /humanize pass runs in the next workflow step; do not self-evaluate further here.
 
             Prepend this header to the file:
@@ -187,7 +200,7 @@ jobs:
         run: |
           bash .github/scripts/notify_issue.sh "$(cat <<EOF
           **Weekly Pharmacy Benefits Roundup** · ${{ steps.vars.outputs.date_iso }}
-          Wednesday roundup draft generated, review before publish.
+          Wednesday roundup draft generated, review before publish. The draft's final section holds this week's REACTION CANDIDATES (0-2 best stories as paste-ready X posts for the news-HOLD slots) — repurpose or skip at review.
 
           👉 Open the drafts folder: https://github.com/${GITHUB_REPOSITORY}/tree/main/newsletters/roundups
           EOF
