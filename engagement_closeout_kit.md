@@ -60,6 +60,8 @@ We are here through implementation, whichever path you take.
 
 ## Template B — testimonial ask (findings + 2 weeks)
 
+**Google review link (captured Jul 13, 2026, from the claimed Business Profile):** `https://g.page/r/CW9cjOrlB5_KEBM/review` — offer it as the low-friction alternative in any testimonial ask ("or, if easier, two sentences here: [link]"). A public Google review does double duty: site quote-card material (with permission) AND the public-reviews signal all three AI engines flagged as missing at the July baseline. The QR-code version (same URL) suits printed material: the briefing handout, the Dollar Fable insert, conference collateral.
+
 ```
 Hi {{first_name}},
 
