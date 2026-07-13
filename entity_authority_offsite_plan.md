@@ -2,7 +2,15 @@
 
 _Created Jun 20, 2026. The off-site, compounding half of AEO/GEO leadership: the things that build the **entity** AI engines trust, which on-site schema alone cannot. These are mostly Ginny-executed (accounts, outreach, submissions); each section is ready to act on. Companion to `website_mockups/site/geo_seo_plan.md` and scored by `ai_visibility_tracker.md`._
 
-## 1. Wikidata entities (#11) — highest-leverage off-site signal
+## 1. Wikidata entities (#11) — highest-leverage off-site signal — ✅ DONE Jul 13, 2026
+
+**Both items LIVE (created by Brett, Jul 13, 2026):**
+- **Prescription Benefit Solutions → Q140537123** — instance of: business · country: US · headquarters: Charleston SC · official website: rxbs.org (language-of-work qualifier: English) · inception: 2016 · industry: consulting · founded by: Ginny Crisp · LinkedIn company ID: rx-bs. Statements referenced to rxbs.org + the LinkedIn company page.
+- **Ginny Crisp → Q140537997** — instance of: human · occupation: pharmacist + consultant · employer: Q140537123 · position held: chief executive officer · educated at: UNC Eshelman School of Pharmacy · citizenship: US · LinkedIn personal profile ID: ginnycrisp. Every statement referenced (LinkedIn profile / rxbs.org).
+
+The two items cross-link (employer ↔ founded by) and corroborate the on-site Organization + Person schema exactly — the disambiguation fix for the "PBS = Public Broadcasting Service" collision at the LLM-grounding layer. Watch the monthly `ai_visibility_tracker.md` runs for entity-prompt movement; a Knowledge Panel becomes possible as these age. Account note: created under a company-named Wikidata account; if a username-policy notice ever arrives, request a rename — the items stand regardless.
+
+_Original spec retained below for reference._
 LLMs weight Wikidata disproportionately for entity grounding, and it is far easier to get into than Wikipedia (no notability bar as steep; structured statements, not prose). Create two items at [wikidata.org](https://www.wikidata.org) (free account).
 
 **Item A — Prescription Benefit Solutions (organization)**
