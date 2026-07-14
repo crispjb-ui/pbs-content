@@ -553,10 +553,12 @@ Save this for your next GLP-1 coverage conversation.
 #### First Comment
 
 ```
-Here is the actual form, straight from CMS, so you can read the architecture yourself instead of taking the headline's word for it: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers
+Here is the actual prior authorization form, straight from CMS, so you can read the architecture yourself instead of taking the headline's word for it: https://www.cms.gov/glp-1-bridge.pdf (program overview for prescribers: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge/information-providers)
 
 The Medicare gauntlet is one program's version of utilization management. What governs it on YOUR plan is contract language: how prior authorization, step therapy, and formulary control are actually written. The protective versions of those clauses live in our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library
 ```
+
+_Publisher note (Jul 14): the direct PDF is the payload; click-verify it loads before posting (CMS occasionally moves file URLs). If the PDF 404s, fall back to the Providers page link alone._
 
 _Publisher note: before posting, click the CMS link to confirm it still lands on the current Provider PA-form page. If CMS has moved it, use the program hub instead: https://www.cms.gov/medicare/coverage/prescription-drug-coverage/medicare-glp-1-bridge (the PA form is under "Information for Providers"). Link verified live as a real CMS program July 2026; exact sub-page can shift._
 
