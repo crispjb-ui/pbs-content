@@ -72,7 +72,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 # ⚡ POTTER PIECE 1 PUBLISH-DAY KIT — fires TUESDAY July 14 (publish date moved up; Spread Pricing)
 
-_Piece 1 ("spread pricing") publishes on HEALTH CARE un-covered **TUESDAY July 14** (moved up from Wed, per Brett Jul 14; if the date slips again, this kit floats to the actual publish day — nothing in it is day-locked except the Run-of-Show rows above). All three items are ADDITIVE to the W28 calendar; nothing scheduled is displaced except the Wed 12:00 X news-HOLD slot and Note #2. Cascade reinforcement lives in W29 (newsletter callback + deep-dive callout + roundup item). Fill `[PIECE URL]` everywhere once live._
+_Piece 1 ("spread pricing") publishes on HEALTH CARE un-covered **TUESDAY July 14** (moved up from Wed, per Brett Jul 14; if the date slips again, this kit floats to the actual publish day — nothing in it is day-locked except the Run-of-Show rows above). All three items are ADDITIVE to the W28 calendar; nothing scheduled is displaced except the Wed 12:00 X news-HOLD slot and Note #2. Cascade reinforcement lives in W29 (newsletter callback + deep-dive callout + roundup item). Fill `https://healthcareuncovered.substack.com/p/the-markup-you-were-never-shown-the` everywhere once live._
 
 ### 1 · LinkedIn announcement post (~12:30 PM, after the piece is live; 3 tags per rule)
 
@@ -93,7 +93,7 @@ Link in the first comment.
 **First comment:**
 
 ```
-The full piece on HEALTH CARE un-covered: [PIECE URL]
+The full piece on HEALTH CARE un-covered: https://healthcareuncovered.substack.com/p/the-markup-you-were-never-shown-the
 
 The operational companion is our PBM Glossary's spread-pricing entry and the contract language that prevents it: https://www.rxbs.org/glossary#spread-pricing
 ```
@@ -108,14 +108,14 @@ The PBM charges your plan one price for a generic, pays the pharmacy another, an
 Full piece in the reply.
 ```
 
-**First reply:** `[PIECE URL]`
+**First reply:** `https://healthcareuncovered.substack.com/p/the-markup-you-were-never-shown-the`
 
 ### 3 · Substack Note (afternoon slot, replaces Note #2)
 
 ```
 HEALTH CARE un-covered published my piece on spread pricing this morning. It is the mechanism I explain most often in contract reviews: the PBM charges the plan one price, pays the pharmacy another, and the pricing definitions decide whether anyone ever sees the gap. Wendell's readers get the policy case. The operational version, how to find it in your own contract, lives here.
 
-[PIECE URL]
+https://healthcareuncovered.substack.com/p/the-markup-you-were-never-shown-the
 ```
 
 _Guardrails: the announcement post does not scoop Thursday's 12-cent-generic reveal (different mechanism: the reveal is GER averaging on one claim's markup; the piece is the contract-level spread structure; adjacent, not same — triple-distinct holds). Company page may reshare the LinkedIn announcement Thursday ~1:30 PM if the Thursday reshare slot is not otherwise better used. Log actuals in the tracker; a Potter-byline post is a new format class worth its own performance row._

@@ -73,7 +73,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ## ⚡ POTTER CASCADE LAYER — Piece 1 (Spread Pricing) published Tue Jul 14
 
-_This is the cascade week for Potter Piece 1 (published Tue Jul 14; the publish-day kit lives in the W28 file). Rebate economics stays the week's topic (no swap): spread = the retail half of PBM revenue, rebates = the manufacturer half, so the cascade reads as one deliberate two-part money story. Three callbacks are ALREADY WOVEN into this file (fill `[POTTER PIECE 1 URL]` before Monday): the deep dive's "Related reading" callout box (PART 1), the newsletter's second-paragraph callback (PART 2), and the publish post's news-peg line (PART 2)._
+_This is the cascade week for Potter Piece 1 (published Tue Jul 14; the publish-day kit lives in the W28 file). Rebate economics stays the week's topic (no swap): spread = the retail half of PBM revenue, rebates = the manufacturer half, so the cascade reads as one deliberate two-part money story. Three callbacks are ALREADY WOVEN into this file (fill `https://healthcareuncovered.substack.com/p/the-markup-you-were-never-shown-the` before Monday): the deep dive's "Related reading" callout box (PART 1), the newsletter's second-paragraph callback (PART 2), and the publish post's news-peg line (PART 2)._
 
 _**⚠ SLIP CONTINGENCY (check before scheduling on Sunday Jul 19):** if Piece 1 has NOT actually published by then, STRIP all three callbacks before scheduling Monday (delete the PART 1 "Related reading" blockquote, the PART 2 "Last week, Wendell Potter's..." paragraph, and the publish post's "Last week Wendell Potter's..." sentence; each reads cleanly without them) and skip both actions below. Never schedule a reference to a piece that is not live. If it slips, re-add the same callback pattern to whichever week follows the actual publish date. The W28 publish-day kit is date-safe by design: it only fires the day the piece is actually live, and floats with it._
 
@@ -111,7 +111,7 @@ That disconnect is not unusual. It is structural. Rebate reporting is designed b
 
 I am not saying PBMs fabricate rebate numbers. They do not need to. The numbers are real. The selection of which numbers to present is where the narrative gets shaped. What gets highlighted, what gets buried, and what never gets reported at all.
 
-> **Related reading:** Last week, Wendell Potter's HEALTH CARE un-covered published my piece on spread pricing, the retail half of this same money story: the margin a PBM keeps between what the plan pays at the counter and what the pharmacy receives. Rebates are the manufacturer half. The mechanisms are different; the contract playbook that keeps them invisible is the same. Read the spread piece here: [POTTER PIECE 1 URL]
+> **Related reading:** Last week, Wendell Potter's HEALTH CARE un-covered published my piece on spread pricing, the retail half of this same money story: the margin a PBM keeps between what the plan pays at the counter and what the pharmacy receives. Rebates are the manufacturer half. The mechanisms are different; the contract playbook that keeps them invisible is the same. Read the spread piece here: https://healthcareuncovered.substack.com/p/the-markup-you-were-never-shown-the
 
 **How rebate economics actually work**
 
