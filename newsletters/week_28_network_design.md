@@ -21,7 +21,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jul 14 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Tue | [ ] |
 | Tue Jul 14 | 8:30 AM | LI Feed | Post 101 — Medicare GLP-1 "Bridge" Access Gauntlet, Decoded (messy infographic, news-pegged) | Post 101 | [ ] |
 | Tue Jul 14 | 8:35 AM | LI Feed | Post 101 first comment | Post 101 | [ ] |
-| Tue Jul 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
+| Tue Jul 14 | 12:00 PM | X | **POTTER PIECE 1 announcement** (the news-HOLD slot; the piece IS the news, published TODAY) ⚠ paste live piece URL in first reply | Potter Kit | [ ] |
+| Tue Jul 14 | ~12:30 PM | LI Feed | **POTTER PIECE 1 announcement post + first comment** (ADDITIVE milestone post, 4h offset from the 8:30 infographic) ⚠ paste live piece URL | Potter Kit | [ ] |
+| Tue Jul 14 | Afternoon | Notes | **Potter piece announcement Note** (replaces the Tue rotating slot) | Potter Kit | [ ] |
 | Tue Jul 14 | 1:30 PM | LI Company | Reshare of Post 101 | Post 101 Reshare | [ ] |
 | Tue Jul 14 | 2:30 PM | X | LONG-FORM X TRIAL — network-design decoder (swaps one thread this week) | PART 4B · Tue | [ ] |
 | Tue Jul 14 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
@@ -29,9 +31,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jul 14 | 8:30 PM | X | one question [B3] | PART 4B · Tue | [ ] |
 | Wed Jul 15 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 8:30 AM | LI Feed | Post 102 — SHRM clip4 "1 in 3 would leave" (GLP-1 retention) · NATIVE 9:16 VIDEO; first comment → drug-pipeline toolkit | Post 102 | [ ] |
-| Wed Jul 15 | 12:00 PM | X | **POTTER PIECE 1 announcement** (was news-reaction HOLD; the piece IS the news) ⚠ paste live piece URL in first reply | Potter Kit | [ ] |
-| Wed Jul 15 | ~12:30 PM | LI Feed | **POTTER PIECE 1 announcement post + first comment** (ADDITIVE milestone post, 4h offset from the 8:30 video to limit cannibalization) ⚠ paste live piece URL | Potter Kit | [ ] |
-| Wed Jul 15 | Afternoon | Notes | Note #2 → **Potter piece announcement Note** (swapped from pull-quote) | Potter Kit | [ ] |
+| Wed Jul 15 | 12:00 PM | X | news-reaction HOLD (kit moved to Tue — piece published Jul 14) | PART 4B · Wed | [ ] |
+| Wed Jul 15 | Afternoon | Notes | Note #2 pull-quote (kit moved to Tue) | PART 4 · Wed | [ ] |
 | Wed Jul 15 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 7:00 PM | X | question [A6] | PART 4B · Wed | [ ] |
 | Wed Jul 15 | 8:30 PM | X | aphorism [C4] | PART 4B · Wed | [ ] |
@@ -69,9 +70,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 
 ---
 
-# ⚡ POTTER PIECE 1 PUBLISH-DAY KIT — Wednesday July 15 (Spread Pricing)
+# ⚡ POTTER PIECE 1 PUBLISH-DAY KIT — fires TUESDAY July 14 (publish date moved up; Spread Pricing)
 
-_Piece 1 ("spread pricing") publishes on HEALTH CARE un-covered **Wednesday July 15** (confirmed by Brett Jul 10; if the date slips again, this kit floats to the actual publish day — nothing in it is day-locked except the Run-of-Show rows above). All three items are ADDITIVE to the W28 calendar; nothing scheduled is displaced except the Wed 12:00 X news-HOLD slot and Note #2. Cascade reinforcement lives in W29 (newsletter callback + deep-dive callout + roundup item). Fill `[PIECE URL]` everywhere once live._
+_Piece 1 ("spread pricing") publishes on HEALTH CARE un-covered **TUESDAY July 14** (moved up from Wed, per Brett Jul 14; if the date slips again, this kit floats to the actual publish day — nothing in it is day-locked except the Run-of-Show rows above). All three items are ADDITIVE to the W28 calendar; nothing scheduled is displaced except the Wed 12:00 X news-HOLD slot and Note #2. Cascade reinforcement lives in W29 (newsletter callback + deep-dive callout + roundup item). Fill `[PIECE URL]` everywhere once live._
 
 ### 1 · LinkedIn announcement post (~12:30 PM, after the piece is live; 3 tags per rule)
 
