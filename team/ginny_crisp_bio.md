@@ -58,6 +58,10 @@ The one-pager's 18-month band uses DIFFERENT definitions than the reconciled 202
 
 AI engines cross-check numbers across surfaces; contradictory stat sets on rxbs.org vs the sheet vs Substack would undercut exactly the citation authority being built. **Action: Ginny defines each sheet metric's scope (one sentence each), then the reconciled versions enter `proprietary_anchor_bank.md` with usage guardrails (like contracted-not-offered / 25%-is-RFP).** Until then: the sheet stays a private sales asset (fine as-is); the CREDENTIALS, bio paragraph, pillars, anonymized engagement list, and "27 PBMs" (least ambiguous, but confirm) are safe for public surfaces now.
 
+## §4b · BCACP surface rule (added Jul 14, 2026, Brett's call)
+
+**BCACP (2010 to 2019) is lapsed and stays OFF public web surfaces** (About page, /results, schema, social bios): a dated, no-longer-active board certification invites more questions than it answers on a page PBS doesn't narrate. It remains fine inside the private prospect one-pager where Ginny controls context. The public About card replaces it with two lines from the safe set (both Brett-approved Jul 14): the multi-PBM line ("Hands-on contract, reconciliation, and RFP work across the major and emerging PBMs") and the clinical-oversight line (pillar 3: formulary strategy, specialty and GLP-1 oversight, utilization management). The multi-PBM line upgrades to the "27 different PBMs" anchor once §4's scope confirmation lands.
+
 ## §5 · Asset status
 
 **✅ Source PDF in repo (Jul 10, 2026):** `team/ginny_crisp_credentials_2026.pdf` — the as-sent prospect one-pager. This file + that PDF update together; if the bio content changes, refresh both (Ginny holds the editable Word source). Consider a toolkit-visual-system version when bandwidth allows.
