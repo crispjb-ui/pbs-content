@@ -12,7 +12,7 @@
 
 1. 🟩⏱ **The decision sitting (30-60 min):** Ginny works through `DECISIONS_FOR_GINNY.md` top to bottom (it consolidates every open decision with a recommendation). The first five unlock P1/P2.
 2. 🟩 **Turn on measurement (~1 hr, one sitting):** GSC service key + sitemap submit (Search Console + Bing/IndexNow) + `sameAs` URLs + Wix AI Visibility toggle + `GSHEET_SA_KEY` service account. Every scoreboard stays dark until this.
-3. 🟦 **Verify the hot-lead Zaps:** one live test submission; confirm SQL/PARTNER alert emails fire. (Silent failure here loses the best leads invisibly.)
+3. ✅ **Hot-lead Zaps verified working (Jul 14, 2026, Brett):** SQL/PARTNER alert emails confirmed firing.
 4. 🟩 **Target-account prune pass (30-60 min):** confirm/strike the CANDIDATE rows in `target_account_list.md`; resolve the PEBA flags (Santee Cooper, Lexington Medical = two phone calls).
 5. 🟦 **Send the GWCU enablement kit** (broker track Template P2 + `broker_partner_one_pager.pdf`) and the Cristy Gupton call invite (P1 template).
 
