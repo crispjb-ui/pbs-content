@@ -15,10 +15,11 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 | Toolkit Library page + 29 toolkit PDFs | Wix + `templates/documents/` | rolling (see toolkit dataset) | Freshness pass picks the 1-2 OLDEST toolkits by original build week (W16-W18 era first), refreshes stats/examples, re-renders per `/sync-toolkits` |
 | Contract Language Library (Substack evergreen) | `substack_contract_language_library.md` → live post | continuous (Library NN pushes) | Already on a continuous cadence; freshness pass checks the last push date and flags if >8 weeks stale |
 | Homepage + About | Wix | 2026-07-08 (schema) | About build-out pending (bio captured Jul 10); enters rotation properly once rebuilt |
+| For Brokers (`rxbs.org/for-brokers`) | Wix + Service/BreadcrumbList JSON-LD | 2026-07-14 (launched) | Conversion page: refresh = proof-band anchors when 2026 metrics land, service-card accuracy; add `/standards` + `/results` to the Useful-with-clients block when those pages go live (money-page linking rule) |
 
 ## Not live yet (enter the pool at launch — add a row with launch date)
 
-`/contract-language-library` · `/what-we-are-seeing` · `/faq` · the 4 guides · `/for-brokers` · `/standards` · `/how-we-charge` · `/results` · `/privacy`
+`/contract-language-library` · `/what-we-are-seeing` · `/faq` · the 4 guides · `/standards` · `/how-we-charge` · `/results` · `/privacy`
 
 ## Refresh log
 

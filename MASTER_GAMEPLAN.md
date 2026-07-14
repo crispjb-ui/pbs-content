@@ -21,7 +21,7 @@
 **Build the Wix pages in THIS order** (each later page links to earlier ones; runbook: `wix_pages_build_runbook.md`):
 6. 🟦 **Request-a-call form + page** (`request_a_call_form_spec.md`) — everything else CTAs into it; kills the mailto dead-ends.
 7. 🟦 **Renewal Second Opinion page** (`renewal_second_opinion_kit.md`, copy ready) — the September offer's landing page. ⏱ live by Aug 15.
-8. 🟦 **/for-brokers page** (copy in `broker_partner_track.md` §3) — pairs with the partner push.
+8. ✅ **/for-brokers page — LIVE Jul 14, 2026** at `rxbs.org/for-brokers` (built from `website_mockups/site/for_brokers_build_pack.md`; Service + BreadcrumbList JSON-LD validated, both CTAs pre-select "Broker/consultant partnership", indexing requested, in the freshness registry). Add `/standards` + `/results` to its Useful-with-clients block when those go live.
 9. 🟦 **The 7-8 AEO answer pages** (blueprints done: glossary, contract-language-library, what-we-are-seeing, FAQ, 4 guides) — the citation moat; index before the surge.
 10. 🟦 **/results proof page shell + "How we charge" page** (`pricing_architecture_memo.md` has the page copy) — publish with what exists; case studies slot in as they're permissioned.
 11. 🟦 **Standards page** (`standards_independent_pbm_review.md`, publish-ready after Ginny's pass) — the category manifesto, live before the campaign cites it.
