@@ -6,7 +6,9 @@
 Ginny is on (or booked for) **Wendell Potter's HEALTH CARE un-covered video podcast** and **Derms on Drugs**. That changes every pitch from "unknown expert" to "recently featured on [named shows]." Podcasts are the highest trust-per-minute format for a consultant and reach **net-new audiences** the LinkedIn feed never touches. Each appearance compounds (Episode 1 makes Episode 2 easier) and feeds the toolkit funnel.
 
 ## The credential stack (open every pitch with it)
-> *Ginny Crisp, PharmD, clinical pharmacist and CEO of Prescription Benefit Solutions, recently featured on Wendell Potter's HEALTH CARE un-covered and Derms on Drugs. She reviews hundreds of PBM contracts a year and decodes what they actually say.*
+> *Ginny Crisp, PharmD, clinical pharmacist and CEO of Prescription Benefit Solutions, a contributor to Wendell Potter's HEALTH CARE un-covered and featured on SHRM's Honest HR podcast. She reviews hundreds of PBM contracts a year and decodes what they actually say.*
+
+_(⚠ Credential accuracy rule, added Jul 14, 2026: **Derms on Drugs has NOT aired** — booked only. Do not use it in "featured on" claims (pitches, bios, the About page) until the episode actually posts; then re-add it everywhere, including the About page media chip with the episode link. Honest HR (SHRM) is aired and linkable: https://www.youtube.com/watch?v=BZyuiWCY-08)_
 
 ## Sprint cadence (steady, low-overhead)
 - **2–3 personalized pitches/week** (Mon research + send, per the guide's weekly cadence).
