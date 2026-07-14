@@ -35,6 +35,8 @@ Maintained here (move to the Google Sheet as a "Partners" tab when the count pas
 
 *Dovetails with the website-revamp review item ⑤ (`/for-brokers` partner page) already in OPEN_ITEMS. This is the copy for that build. Page archetype: Utility/Conversion. CTA routes to the request-a-call form (see `email_gated_toolkit/request_a_call_form_spec.md`) with topic pre-set to "Broker partnership."*
 
+***PAGE IS LIVE (Jul 14, 2026)** at `rxbs.org/for-brokers`, built by Brett from `website_mockups/site/for_brokers_build_pack.md` (which is the as-built spec of record, including the JSON-LD). The copy below is the source draft; the build pack reflects what shipped.*
+
 **Hero headline:** Your clients' pharmacy questions, answered by an independent bench.
 
 **Hero subhead:** Prescription Benefit Solutions works behind brokers and consultants, not around them. You stay the relationship lead. We bring the clinical pharmacist's read of the PBM contract, the claims, and the renewal.
@@ -140,7 +142,7 @@ that is exactly the kind of thing we can dig into together.
 
 ## 7. Build checklist
 
-- [ ] Ginny: approve landing copy above → build `/for-brokers` in Wix (with the website-revamp item ⑤).
+- [x] ~~Build `/for-brokers` in Wix~~ ✅ LIVE Jul 14, 2026 (Brett; `rxbs.org/for-brokers`).
 - [ ] Claude: build `templates/documents/broker_partner_one_pager.html` + PDF + preview PNG (standard toolkit pipeline: weasyprint → render_preview.py → _audit_pdfs.py).
 - [ ] Ginny: send the enablement kit to GWCU (Template P2 framing) and Template P1-style invite to Cristy Gupton.
 - [ ] Claude: add "Partners" tab spec to the Google Sheet when tracker passes ~8 rows.
