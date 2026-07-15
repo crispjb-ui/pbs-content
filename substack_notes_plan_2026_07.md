@@ -18,7 +18,7 @@ _Created Jul 15, 2026 by Brett's ask ("feels like I'm typing into a void"), buil
 | Slot | Old (April 2026 mix) | New (trial mix) |
 |---|---|---|
 | Morning (7-8 AM) | Origin/personal (or launch teaser) | **Reveal note** (or launch teaser on Mon/Wed/Thu): one hidden-mechanism fact, self-contained, quotable, with the PBS anchor. Source: `shocking_fact_bank.md` + the week's published posts. |
-| Midday (12-1 PM) | Origin/personal or rotating | **Visual note**: a toolkit preview PNG / Tue-Thu hero / Library slide + 2-3 lines that stand alone (not "new post out" — say the thing the visual proves). |
+| Midday (12-1 PM) | Origin/personal or rotating | **Visual note**: a **generated creative visual** (each week file carries a per-day image prompt in the PBS recipe: flat design, brand palette, topic-encoding central element, two-tone Plex headline, thumbnail-legible) + 2-3 lines that stand alone (not "new post out" — say the thing the visual proves). **Fallback when no generation time:** the named toolkit preview PNG / Tue-Thu hero. (Added Jul 15, Brett: prompt for creative visuals rather than defaulting to toolkit PNGs.) |
 | Afternoon (4-5 PM) | Origin/personal | **Origin/personal** (kept: the proven warmth format, and the format that converts a curious stranger into a subscriber once a reveal note pulled them in). |
 
 Weekly shape: ~7 reveal-style (3 replaced by launch teasers), ~7 visual, ~7 origin/personal. The reveal and visual slots draw from content that is already built every week, so drafting load in PART 4 stays flat.
