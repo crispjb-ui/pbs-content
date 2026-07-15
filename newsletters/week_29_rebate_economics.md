@@ -111,6 +111,8 @@ That disconnect is not unusual. It is structural. Rebate reporting is designed b
 
 I am not saying PBMs fabricate rebate numbers. They do not need to. The numbers are real. The selection of which numbers to present is where the narrative gets shaped. What gets highlighted, what gets buried, and what never gets reported at all.
 
+The regulators have now said a version of the same thing. Last week the FTC settled with CVS Caremark over rebate practices it says inflated drug list prices, on terms Express Scripts already accepted in February: delink PBM compensation from list prices, move away from rebate guarantees and spread pricing, disclose broker and consultant compensation. The FTC values the changes at up to $8.5 billion in consumer savings over ten years. Read it closely, though, and the fine print teaches the same lesson as the rebate report. The settlement changes the PBM's standard offering going forward. It does not rewrite the contract you already signed. The eight provisions below are still what determine your plan's rebate yield, settlement or no settlement.
+
 > **Related reading:** Last week, Wendell Potter's HEALTH CARE un-covered published my piece on spread pricing, the retail half of this same money story: the margin a PBM keeps between what the plan pays at the counter and what the pharmacy receives. Rebates are the manufacturer half. The mechanisms are different; the contract playbook that keeps them invisible is the same. Read the spread piece here: https://healthcareuncovered.substack.com/p/the-markup-you-were-never-shown-the
 
 **How rebate economics actually work**
@@ -417,9 +419,11 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-Your PBM's rebate report says 100% pass-through, and the math checks out. 100% of what the PBM received. The rebate aggregator that took its fee before the money ever reached the PBM appears nowhere on that report, so the number is true and the yield is smaller than it looks.
+Last week the FTC settled with CVS Caremark over rebate practices it says inflated drug list prices. Express Scripts took the same terms in February; OptumRx is negotiating its own. The FTC's estimate of what the changes are worth: up to $8.5 billion in consumer savings over ten years.
 
-Last week Wendell Potter's HEALTH CARE un-covered ran my piece on spread pricing, the retail half of PBM revenue. This briefing follows the manufacturer half: the dollar's path from manufacturer to plan, the eight contract provisions that determine your real rebate yield, and the language to bring to renewal.
+Here is what those headlines do not say: the settlements change the PBMs' standard offerings going forward. They do not rewrite your contract. Your rebate yield is still set by the provisions you signed.
+
+This briefing follows the rebate dollar's actual path from manufacturer to plan, the eight contract provisions that determine your real yield, and the language to bring to renewal. It is the manufacturer half of the story my HEALTH CARE un-covered piece on spread pricing told last week.
 
 Rebate contract analysis framework on Substack.
 
@@ -588,19 +592,17 @@ Ginny Crisp walks through what is in the contract, why the PBM does not flag it,
 #### Post Copy
 
 ```
-Your PBM says it passes through 100% of your rebates. The company that collects those rebates is one the PBM owns, and it takes its cut before the 100% is ever counted.
+Last week the FTC settled with CVS Caremark over rebate practices it says inflated drug list prices. The agreement names a company most plan sponsors have never heard of: Zinc Health Services.
 
-That company is a rebate aggregator. The largest PBMs run theirs through entities registered offshore. Switzerland. Ireland. The manufacturer money lands there, a fee comes off the top, and what reaches your plan is "100%" of whatever is left. None of that fee shows up on your rebate report.
+Zinc is Caremark's rebate aggregator. Your PBM says it passes through 100% of your rebates. The company that collects those rebates is one the PBM owns, and it takes its cut before the 100% is ever counted.
 
-That report shows one number going up. Your net drug cost is often going up faster.
+The largest PBMs run their aggregators through entities registered offshore. Switzerland. Ireland. The manufacturer money lands there, a fee comes off the top, and what reaches your plan is "100%" of whatever is left. None of that fee shows up on your rebate report.
 
-Total rebate dollars can increase simply because total drug spend increased. The PBM reports the figure that makes its performance look strong. The figure that matters to your plan, net cost after rebates compared to alternatives, is a different calculation, and it lives nowhere on the quarterly report.
+That report shows one number going up. Your net drug cost is often going up faster. Total rebate dollars can increase simply because total drug spend increased. The figure that matters to your plan, net cost after rebates compared to alternatives, lives nowhere on the quarterly report.
 
 I see this in client data regularly. The rebate headline improves. Then we run the net cost analysis and the plan's actual position has deteriorated. Across the hundreds of PBM contracts we read each year, the spread runs from genuine pass-through to structures where meaningful manufacturer money never appears on your plan's books at all.
 
-Rebate economics are controlled by four contract provisions: how "rebate" is defined, which claims count as eligible, what percentage passes through, and when the plan actually receives the cash. Each one either protects the plan or protects the PBM's margin.
-
-One question cuts through it: what is our net drug cost, after every rebate and aggregator fee, compared to what the market would offer?
+The settlement changes Caremark's standard offering going forward. It does not rewrite your contract. One question cuts through it: what is our net drug cost, after every rebate and aggregator fee, compared to what the market would offer?
 
 #PBMTransparency #Rebates #PharmacyBenefits
 ```
@@ -869,7 +871,12 @@ _Drafted content preserved per the no-deletion rule. Use these if a scheduled sl
 Audit rights: your contract says you can audit the PBM. Then the fine print: once a year, the PBM's chosen auditor, the records the PBM selects, and the PBM decides if the findings count. That's not an audit right. It's a guided tour of the lobby.
 ```
   First reply (link): the PBM Contract Language Library
-- **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
+- **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Standing candidate this week (the FTC-Caremark settlement, announced Jul 15, has a 30-day public comment window — fresh angles stay live all week; do not use the Zinc/aggregator angle before Wednesday's Post 106 publishes):**
+```
+The FTC-Caremark settlement is open for public comment for 30 days. Plan sponsors have spent years being told rebate contracts are standard and non-negotiable. The federal government just negotiated one. Worth a comment, and worth rereading your own.
+```
+  First reply (link): the FTC press release, https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman
+  Quiet-day backup (only if a fresher angle ran already):
 ```
 Your PBM's rebate forecast at renewal is a sales document. The guarantee it turns into is a legal one. The gap between the forecast and the guarantee is the negotiation nobody has.
 ```
