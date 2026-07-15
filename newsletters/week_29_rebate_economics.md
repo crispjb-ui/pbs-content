@@ -739,7 +739,7 @@ Get next Monday's deep dive on Site-of-Care Optimization in your inbox: benefitb
 
 # PART 4: SUBSTACK NOTES (Daily Copy-Paste Schedule)
 
-> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+> **Instructions (revised July 15, 2026 — restack-reset trial week 1 of 4, per `substack_notes_plan_2026_07.md`):** Post 3 Notes per day via the scheduler. New slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu). **Midday = visual note** (`[VISUAL]` names the attached asset; the line says what the visual proves, never "new post out"). **Afternoon = origin/personal** (unchanged, the warmth/conversion layer). Rationale: the Notes feed is no longer follower-gated; restacks are the amplification unit and the app is now the #1 new-sub source (Jul 15 platform research). **Reveal-reservation inside this week:** the offshore-aggregator fact runs only AFTER Wednesday's LinkedIn POV publishes (Sun morning slot); the copay-maximizer fact only AFTER Thursday's post (Fri morning slot). **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced origin drafts are parked in the Spares block below, not deleted.
 
 ## Monday
 
@@ -748,21 +748,21 @@ The PBM showed the committee rebate growth. Net cost grew too. Both slides were 
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-The moment I understood rebate economics was the moment I stopped trusting rebate reports at face value. A client's PBM reported "100% pass-through." When we read the definition, "rebate" was defined so narrowly that a substantial portion of manufacturer payments fell outside it. The PBM was passing through 100% of what they defined as rebates. They were retaining everything they did not define as rebates. Both statements were technically accurate.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: templates/documents/week_20_thursday_rebate_report_audit_worksheet_preview.png]`
+This is the worksheet we use to test a rebate report. The first check is always the definition, because a "100% pass-through" guarantee only covers what the contract calls a rebate. Everything the definition excludes stays behind, and the report will not show you the exclusions. Free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A CFO told me once that his PBM had reassured him rebates were "strong." I asked him what strong meant specifically. He did not know. I pulled the contract's rebate definition and read it aloud to him. He stopped me at the third exclusion. "That is a lot of payments outside the definition." It was. The reassurance had been real. The definition had been narrow. Both were true.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Origin Story #1:**
-A broker asked me once whether challenging the rebate definition was "too aggressive" for a first-year renewal. My answer: it is standard. If the PBM is comfortable with the definition, they will not flinch. If they flinch, that is useful information about the definition. Either way, asking is not aggression. It is due diligence. She asked. The PBM adjusted language in a subsequent draft.
+**Morning (7-8 AM) — Reveal Note (spread pricing; published surface, amplifies the Potter piece):**
+Spread pricing, in one sentence: what your plan paid for a claim and what the pharmacy received are two different numbers, and the PBM keeps the difference. It is legal because the contract's pricing definitions make it legal. It is invisible because no report your plan receives shows both numbers side by side. I wrote about it for Wendell Potter's HEALTH CARE un-covered last week, and the reaction that keeps coming back is the same: most plan sponsors learn their spread exists the day someone prices the same claims twice.
 
-**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
-Eight rebate provisions determine the economics: definition, eligible claims, pass-through percentage, payment timing, audit rights, manufacturer transparency, guarantee methodology, and true-up. Most contracts we review have strong language on 2-3 of these and weak or absent language on the rest. The gap between those two positions is where PBM margin lives.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: today's Tuesday LinkedIn audit-rights Sticky Note Dashboard image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); fallback asset: templates/documents/week_18_channel_pricing_audit_worksheet_preview.png]`
+The audit right most plans never use. It is in the contract from day one, the window expires every year, and the PBM never reminds you it exists. When we audit a plan that has never audited, we find findings. Every time. Pull the contract, find the audit clause, use the window before it closes.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A client's benefits committee asked me to explain rebate economics in "less than five minutes." I tried and failed. Rebate economics is a system, not a slide. After that meeting I built a one-page flow diagram: manufacturer at the top, PBM in the middle, plan at the bottom, arrows showing what gets retained where. The page landed better than my five-minute version. Sometimes the visual does what the words cannot.
 
 ## Wednesday
@@ -774,10 +774,10 @@ Read the roundup: [LINK]
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I review the contracts that cross my desk each year. The rebate language ranges from fully transparent (inclusive definition, 100% pass-through, quarterly true-up, full audit access) to effectively opaque (narrow definition, vague pass-through, no true-up, limited audit). The employers with strong language did not get it by accident. They asked for it. Or their broker did.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: templates/documents/week_28_thursday_ger_audit_worksheet_preview.png]`
+Last week's field note decoded the Generic Effective Rate. This is the companion worksheet: the checks that show whether your GER guarantee is measuring anything, or measuring a basket the PBM picked. A guarantee you cannot reconcile is a sentence, not a number. Free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 Early in my career I thought "rebate" was a simple concept. Discount on a drug, paid after the fact. Years of contract reviews taught me that the word "rebate" in a PBM contract is a defined term that can mean almost anything the contract says it means. The word does not come with a default meaning. The definition is the concept. Getting that right was one of the bigger shifts in how I read contracts.
 
 ## Thursday
@@ -787,43 +787,43 @@ New field note: the program that reclassifies your member's specialty drug as "n
 
 Read: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-A plan sponsor asked me what a "normal" rebate trajectory looked like. I told her: there is no normal. Every plan's drug mix, formulary, and contract language produces a different rebate profile. Comparing your plan's rebate per claim across quarters and against your own contract guarantee is more useful than comparing against a market benchmark. She started tracking per-claim rebate monthly. The discipline paid.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: templates/documents/week_20_copay_card_financial_impact_calculator_preview.png]`
+The copay maximizer in this morning's field note drains the manufacturer card all year while the member's deductible stands still. This calculator models what card dollars actually do to plan cost and member cost, so you can see the shift instead of guessing at it. Free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 An audit I ran last year produced a rebate shortfall finding substantial enough that the PBM paid the true-up without disputing the methodology. The client was surprised. I was not. The contract's true-up provision was explicit, the data supported the calculation, and the PBM's own records validated the shortfall. Good contract language is self-enforcing when everyone respects the math. The audit is just the reminder.
 
 ## Friday
 
-**Morning (7-8 AM) — Origin Story #1:**
-Rebate economics is the content nobody finds exciting and everyone finds expensive when they finally examine it. The complexity is real. The financial impact is larger than most employers realize. The fix is not eliminating rebates. It is ensuring the contract language captures all manufacturer payments and passes them through transparently. That is achievable. It just requires reading the contract.
+**Morning (7-8 AM) — Reveal Note (copay maximizer; runs AFTER Thursday's LinkedIn post published):**
+A member's specialty drug got reclassified as a non-essential health benefit this year. Not by a doctor. By a program amendment. That label lifts the drug out of the ACA out-of-pocket cap, so the manufacturer copay card can be drained all year while the member's deductible does not move a dollar. The plan was sold it as a savings program. The member finds out in December. If you have never read your copay program amendment, that is the page to pull first.
 
-**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week: site-of-care optimization. Same drug. Hospital outpatient: one price. Home infusion: a fraction. The administration setting changes cost by multiples, not percentages. A therapeutic-category decision tree for evaluating where drugs should be administered.
+**Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: templates/documents/week_22_thursday_specialty_routing_audit_worksheet_preview.png]`
+Same drug, same dose: the administration setting changes the cost by multiples, not percentages. This worksheet traces where your specialty claims are actually routed and who benefits from the routing. Next week on Benefit Blind Spots: site-of-care decoded, with a therapeutic-category decision tree.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A client's finance team questioned the cost of a rebate audit. I ran the math: the audit recovery had historically exceeded the audit cost by meaningful multiples. The conversation shifted from "is this worth it" to "why are we not running it every year." We now include an annual audit in every engagement. The math answered the question. Finance teams respond well to math.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story #1:**
-My pharmacy school barely covered rebate economics. One lecture, maybe an hour. Most of what I know about rebates I learned reading contracts as a consultant. The gap between pharmacy school and pharmacy practice on this topic is wide. I try to fill it for the pharmacists who reach out asking how to learn it. The curriculum has not caught up. The profession has to teach itself.
+**Morning (8-9 AM) — Reveal Note (manufacturer payment labels; W26 published surface):**
+Your PBM's rebate guarantee covers rebates. Manufacturer money also arrives as administrative fees, data fees, and price protection payments, and those labels sit outside most contracts' rebate definitions. The narrower the definition, the larger the remainder, and the remainder is not in your report. We review hundreds of PBM contracts a year; the same handful of labels shows up on nearly all of them.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-The most overlooked rebate provision: the eligible claims definition. If specialty claims are excluded from the rebate calculation, and specialty generates the highest per-claim rebates, the plan is leaving significant manufacturer payments on the table. Ask your PBM: are specialty claims included in the rebate-eligible denominator?
+**Midday (12-2 PM) — Visual Note** `[VISUAL: templates/documents/week_27_thursday_pbm_compensation_audit_preview.png]`
+One worksheet for the whole picture: every stream of PBM compensation your contract allows, and the questions that surface each one. If you have only ever audited rebates, this is the zoom-out. Free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+**Afternoon (3-5 PM) — Origin Story:**
 A benefits director told me she felt stupid for not understanding rebate economics until her fifth year managing the plan. I told her she was not stupid. The system is designed to be understood by the people who profit from it. Everyone else has to learn it by doing. Her fifth year of asking questions is how she became the best-informed sponsor in her industry. Time is the tuition.
 
 ## Sunday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A young pharmacy graduate asked me whether the pharmacy profession would ever "fix" the rebate system. My honest answer: probably not quickly. The system benefits the largest intermediaries, and they have no incentive to change. But plan sponsors who understand the system can extract better terms within it. That is the practical path forward. Waiting for reform is not strategy.
+**Morning (8-9 AM) — Reveal Note (offshore rebate aggregators; runs AFTER Wednesday's LinkedIn POV published):**
+The group negotiating your rebates may not be your PBM, and may not be in this country. Ascent Health Services (Express Scripts) is registered in Switzerland. Emisar Pharma Services (Optum) is in Ireland. Zinc Health Services (CVS Caremark) rounds out the three. Manufacturers paid these aggregators an estimated $7.6 billion in fees in 2022, and fees are not rebates, so they can sit entirely outside a "100% pass-through" guarantee.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-A rebate guarantee without a true-up provision is a statement, not a commitment. The guarantee says what should happen. The true-up makes it happen. Without reconciliation, there is no accountability. Every rebate guarantee in every PBM contract should be paired with a true-up mechanism. If it is not, the guarantee is decorative.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: templates/documents/week_16_pa_roi_audit_scorecard_preview.png]`
+Prior authorization is the program everyone complains about and almost nobody measures. This scorecard turns it into a number: what the program costs members and staff against what it verifiably saves the plan. It was the first toolkit we ever published, and the discipline behind it runs through every one since: score it, reconcile it, or stop counting on it. The whole library is free at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+**Afternoon (3-5 PM) — Origin Story:**
 A client's HR director thanked me after a rebate audit returned money to her plan. She asked what she should do differently going forward. I said: keep asking questions. Keep reading the contract. Keep running the audit. The audit recovered money this year because the questions had been asked. Next year's audit will only work if this year's questions get repeated. Vigilance is the strategy, not vigilance followed by relaxation.
 
 ## Engagement Reply Templates
@@ -831,6 +831,19 @@ A client's HR director thanked me after a rebate audit returned money to her pla
 **Template A:** "The rebate definition is the provision that matters most. 'All compensation from manufacturers related to Plan utilization' vs. 'manufacturer rebates received by PBM.' Those two definitions can create a gap worth six or seven figures over a contract term."
 
 **Template B:** "One question cuts through rebate complexity: what is the net drug cost after all rebates, compared to what the market would offer? Everything else is supporting detail."
+
+## Spare Notes (displaced by the Jul 15 restack-reset; hold for swap-ins or future weeks)
+
+_Drafted content preserved per the no-deletion rule. Use these if a scheduled slot needs a swap, or recycle into a future week's afternoon slots._
+
+- **Origin (was Mon midday):** The moment I understood rebate economics was the moment I stopped trusting rebate reports at face value. A client's PBM reported "100% pass-through." When we read the definition, "rebate" was defined so narrowly that a substantial portion of manufacturer payments fell outside it. The PBM was passing through 100% of what they defined as rebates. They were retaining everything they did not define as rebates. Both statements were technically accurate.
+- **Origin (was Tue morning):** A broker asked me once whether challenging the rebate definition was "too aggressive" for a first-year renewal. My answer: it is standard. If the PBM is comfortable with the definition, they will not flinch. If they flinch, that is useful information about the definition. Either way, asking is not aggression. It is due diligence. She asked. The PBM adjusted language in a subsequent draft.
+- **Expertise (was Tue midday):** Eight rebate provisions determine the economics: definition, eligible claims, pass-through percentage, payment timing, audit rights, manufacturer transparency, guarantee methodology, and true-up. Most contracts we review have strong language on 2-3 of these and weak or absent language on the rest. The gap between those two positions is where PBM margin lives.
+- **Origin (was Wed midday):** I review the contracts that cross my desk each year. The rebate language ranges from fully transparent (inclusive definition, 100% pass-through, quarterly true-up, full audit access) to effectively opaque (narrow definition, vague pass-through, no true-up, limited audit). The employers with strong language did not get it by accident. They asked for it. Or their broker did.
+- **Origin (was Thu midday):** A plan sponsor asked me what a "normal" rebate trajectory looked like. I told her: there is no normal. Every plan's drug mix, formulary, and contract language produces a different rebate profile. Comparing your plan's rebate per claim across quarters and against your own contract guarantee is more useful than comparing against a market benchmark. She started tracking per-claim rebate monthly. The discipline paid.
+- **Origin (was Fri morning):** Rebate economics is the content nobody finds exciting and everyone finds expensive when they finally examine it. The complexity is real. The financial impact is larger than most employers realize. The fix is not eliminating rebates. It is ensuring the contract language captures all manufacturer payments and passes them through transparently. That is achievable. It just requires reading the contract.
+- **Expertise (was Sat midday; reveal-adjacent, strong swap-in candidate):** The most overlooked rebate provision: the eligible claims definition. If specialty claims are excluded from the rebate calculation, and specialty generates the highest per-claim rebates, the plan is leaving significant manufacturer payments on the table. Ask your PBM: are specialty claims included in the rebate-eligible denominator?
+- **Expertise (was Sun midday):** A rebate guarantee without a true-up provision is a statement, not a commitment. The guarantee says what should happen. The true-up makes it happen. Without reconciliation, there is no accountability. Every rebate guarantee in every PBM contract should be paired with a true-up mechanism. If it is not, the guarantee is decorative.
 
 ---
 
