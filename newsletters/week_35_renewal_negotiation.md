@@ -44,7 +44,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Sep 5 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Fri | [ ] |
 | Fri Sep 5 | 10:00 AM | LI Feed | Post 132 — Tease Hook (teases Week 36) | Post 132 | [ ] |
 | Fri Sep 5 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Sep 5 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Sep 5 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Sep 5 | 7:00 PM | X | question [A9] | PART 4B · Fri | [ ] |
 | Fri Sep 5 | 8:30 PM | X | origin-anchored [D4] | PART 4B · Fri | [ ] |
 | Sat Sep 6 | 8:00 AM | X | recipe / DIR fees (Tier A weekend Cuban-bait) | PART 4B · Sat | [ ] |
@@ -52,13 +52,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Sep 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Sep 6 | 2:30 PM | X | brown bagging (Tier A) | PART 4B · Sat | [ ] |
 | Sat Sep 6 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Sep 6 | 7:00 PM | X | question [A10] | PART 4B · Sat | [ ] |
+| Sat Sep 6 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Sep 6 | 8:30 PM | X | aphorism [C6] | PART 4B · Sat | [ ] |
 | Sun Sep 7 | 8:00 AM | X | recipe / Mail-order steering (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
 | Sun Sep 7 | 10:00 AM | X | step therapy (fail-first) (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Sep 7 | 2:30 PM | X | specialty exclusive distribution (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 7 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
+| Sun Sep 7 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 
 _Substack Notes (3/day) schedule straight down PART 4 in day order. Launch teasers: Tue (deep dive), Wed (roundup), Thu (field note)._
 
@@ -869,9 +870,9 @@ Ask to see the MAC list your generics are priced from. You will learn two things
 ```
 Every rebate guarantee carries a quiet qualifier: rebates the PBM "receives." Whatever its own aggregator kept upstream was never "received." Ask for the manufacturer-paid number instead.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-PBMs do not need to hide the money. They only need to define it as something you do not get to count.
+The renewal meetings that go well have one thing in common: the plan's terms were on the table before the PBM's packet arrived. Whoever writes first, edits last.
 ```
 - **7:00 PM · question post [A9]:**
 ```
@@ -907,9 +908,9 @@ A member drives to their infusion appointment with a refrigerated specialty drug
 ```
 A PBM report is an argument, not an accounting. Every column earned its place by making the vendor's case.
 ```
-- **7:00 PM · question post [A10]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-Hand your PBM invoice to the person who approves it and ask them to match one line to the contract clause that authorizes it. Not a trick, just a test of who the document was written for. It was not written for the payer.
+Your contract: renewal terms "provided no later than 60 days before term end." The redline: 180 days, with your claims data delivered 30 days before that. You cannot negotiate what arrives after the exits close.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C6]:**
@@ -941,9 +942,9 @@ When exactly one pharmacy in the country can fill a drug, ask why. Sometimes it 
 ```
 Pharmacy school taught me drug interactions. Nobody taught me contract interactions: how an audit clause interacts with a definitions section to cancel a guarantee. I learned that one client at a time. It moves more money than most formularies do.
 ```
-- **7:00 PM · question post [A11]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-Manufacturers pay your PBM "data fees," "program fees," and "administrative fees" calculated on your plan's own claims. Have you ever seen them itemized? On most contracts they never route back to the plan whose utilization earned them.
+A reader asked which single clause to fight for at renewal. Termination for convenience, 90 days, no penalty. Every other clause negotiates better the day that one exists.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B6]:**

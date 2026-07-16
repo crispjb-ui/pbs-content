@@ -51,7 +51,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Aug 7 | 10:00 AM | LI Feed | Post 116 — Clinical Program ROI tease (teases W32) | Post 116 | [ ] |
 | Fri Aug 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 7 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
-| Fri Aug 7 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 7 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 7:00 PM | X | question [A13] | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 8:30 PM | X | origin-anchored [D8] | PART 4B · Fri | [ ] |
 | Sat Aug 8 | 8:00 AM | X | recipe / Specialty routing (Tier A) | PART 4B · Sat | [ ] |
@@ -59,14 +59,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Aug 8 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 2:30 PM | X | specialty exclusive distribution (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Aug 8 | 7:00 PM | X | question [A14] | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 8:30 PM | X | aphorism [C4] | PART 4B · Sat | [ ] |
 | Sun Aug 9 | 8:00 AM | X | recipe / DIR fees (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 10:00 AM | X | effective-rate true-up timing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 2:30 PM | X | mid-year formulary change (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
-| Sun Aug 9 | 7:00 PM | X | question [A15] | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 8:30 PM | X | one question [B4] | PART 4B · Sun | [ ] |
 
 ---
@@ -954,9 +954,9 @@ Ask your PBM to define "pass-through" in writing, then ask which noun it attache
 ```
 Specialty pipeline questions belong in your RFP: which launches in the next 24 months hit your population, and how does the proposal price what does not exist yet? A contract that is silent on the pipeline was priced for last year's book.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-The scariest sentence in an RFP response is the friendly one: "we are flexible on this." Flexible means it is not in writing.
+Every RFP has a moment where the incumbent's rep offers to sharpen the pencil. Write down the date. The pencil was available all along.
 ```
 - **7:00 PM · question post [A13]:**
 ```
@@ -992,9 +992,9 @@ Some specialty drugs are locked to a single distribution channel, often the PBM'
 ```
 If no bidder repriced your actual claims, you did not run a market check. You ran a survey.
 ```
-- **7:00 PM · question post [A14]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-Would your RFP scoring give more points to a vague answer that sounds good than to a precise answer that admits a limit? If yes, the rubric selects for the best writers, not the best PBM.
+Your contract: "pricing shall be reviewed annually." The redline: reviewed AND repriced to a named benchmark, with a true-up. A review without a remedy is a meeting.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C4]:**
@@ -1026,9 +1026,9 @@ Your formulary can change mid-year. A drug your member depends on gets moved or 
 ```
 I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
 ```
-- **7:00 PM · question post [A15]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-Before your next RFP: can you produce 24 months of your own claims data without asking your PBM for it? If not, every bidder will model your plan on the incumbent's export. Data independence is the first negotiating position.
+A reader asked how many PBMs belong in an RFP. Enough that the incumbent believes you might leave. The number matters less than the credibility of the exit.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B4]:**

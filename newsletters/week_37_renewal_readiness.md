@@ -42,7 +42,7 @@ _**Rebuild note (Sep 2026, Q3-surge finale):** The **Thursday reach slot (Post 1
 | Fri Sep 18 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Fri | [ ] |
 | Fri Sep 18 | 10:00 AM | LI Feed | Post 140 — "What Q4 Will Bring" Tease Hook | Post 140 | [ ] |
 | Fri Sep 18 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Sep 18 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Sep 18 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Sep 18 | 7:00 PM | X | question [A7] | PART 4B · Fri | [ ] |
 | Fri Sep 18 | 8:30 PM | X | origin-anchored [D6] | PART 4B · Fri | [ ] |
 | Sat Sep 19 | 8:00 AM | X | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | PART 4B · Sat | [ ] |
@@ -50,14 +50,14 @@ _**Rebuild note (Sep 2026, Q3-surge finale):** The **Thursday reach slot (Post 1
 | Sat Sep 19 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 2:30 PM | X | white bagging (Tier A) | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Sep 19 | 7:00 PM | X | question [A8] | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 8:30 PM | X | aphorism [C2] | PART 4B · Sat | [ ] |
 | Sun Sep 20 | 8:00 AM | X | recipe / Spread pricing (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 10:00 AM | X | specialty routing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 2:30 PM | X | point-of-sale clawback (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
-| Sun Sep 20 | 7:00 PM | X | question [A9] | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 8:30 PM | X | one question [B2] | PART 4B · Sun | [ ] |
 
 _Substack Notes (3/day) schedule straight down PART 4 in day order. Launch teasers: Mon (deep dive), Wed (roundup), Thu (field note). This week also carries the September Monthly Q&A (Thu Sep 24) and the Q3 "What We're Seeing" report (Mon Sep 28) in PART 2B; both fall after this week's window._
@@ -1139,9 +1139,9 @@ A contract we reviewed allowed an audit "once per contract term." The term was t
 ```
 A GLP-1 question for renewal season: does your PBM earn more when utilization climbs? If its rebate and fee income scale with volume, the "utilization management" program has a conflict built into it.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-PBMs sell opacity the way casinos sell entertainment: the house edge lives in the parts you are not shown.
+By the time the renewal meeting starts, the outcome is mostly decided by what each side prepared. The PBM prepared all year. That is the whole case for starting in July.
 ```
 - **7:00 PM · question post [A7]:**
 ```
@@ -1177,9 +1177,9 @@ Your contract prices brands off one benchmark, generics off another, and reconci
 ```
 Undefined terms in a PBM contract are not gaps. They are options, and the PBM exercises every one of them before the term ends.
 ```
-- **7:00 PM · question post [A8]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-Renewal season is open. Your PBM's pricing team modeled your plan months ago: utilization, margin, and exactly how much room it has to "concede." Does your side have a model, or just a meeting on the calendar?
+Your contract: "performance guarantees measured across PBM's book of business." The redline: measured on YOUR plan's claims, reconciled annually, shortfalls paid in dollars. A guarantee averaged across someone else's book is someone else's guarantee.
 ```
   First reply → This week's deep dive scores your renewal readiness across 15 factors: benefitblindspots.substack.com
 - **8:30 PM · aphorism [C2]:**
@@ -1211,9 +1211,9 @@ Some copays are not cost sharing. They are revenue. The member pays more at the 
 ```
 Patients used to ask me at the counter why their price jumped. I never had a good answer. It took years of reading PBM contracts to find it: the price was a negotiation, and the patient was never in the room. That is still why I do this work.
 ```
-- **7:00 PM · question post [A9]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-Year-end money moves in pharmacy benefits: DIR recoveries, reconciliation payments, true-up settlements. Your PBM collects all three. Which ones does your contract route to the plan? If you have never checked, assume the routing was not drawn in your favor.
+A reader asked what to do 90 days out with nothing prepared. Triage: pull the contract, mark the auto-renewal and notice clauses, and get the termination-for-convenience ask in writing this week. Optionality first. Analysis second.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B2]:**

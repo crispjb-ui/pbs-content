@@ -54,7 +54,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Jul 31 | 10:00 AM | LI Feed | Post 112 — PBM RFP tease (teases W31) | Post 112 | [ ] |
 | Fri Jul 31 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Jul 31 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
-| Fri Jul 31 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Jul 31 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Jul 31 | 7:00 PM | X | question [A6] | PART 4B · Fri | [ ] |
 | Fri Jul 31 | 8:30 PM | X | origin-anchored [D7] | PART 4B · Fri | [ ] |
 | Sat Aug 1 | 8:00 AM | X | recipe / Rebate aggregator (Tier A) | PART 4B · Sat | [ ] |
@@ -62,14 +62,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Aug 1 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 2:30 PM | X | alternative funding programs (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Aug 1 | 7:00 PM | X | question [A7] | PART 4B · Sat | [ ] |
+| Sat Aug 1 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Aug 1 | 8:30 PM | X | aphorism [C1] | PART 4B · Sat | [ ] |
 | Sun Aug 2 | 8:00 AM | X | recipe / Spread pricing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 2 | 10:00 AM | X | copay maximizer vendor (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 2 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Aug 2 | 2:30 PM | X | brown bagging (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 2 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
-| Sun Aug 2 | 7:00 PM | X | question [A8] | PART 4B · Sun | [ ] |
+| Sun Aug 2 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 2 | 8:30 PM | X | one question [B1] | PART 4B · Sun | [ ] |
 
 ---
@@ -999,9 +999,9 @@ Site-of-care programs your PBM sells: it charges your plan a program fee to move
 ```
 Home infusion is not a downgrade. Member satisfaction data keeps saying most patients prefer their own couch. The "members will hate it" objection usually comes from the party billing the hospital rate.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-The most expensive room in American health care is the one nobody re-priced: the infusion suite your members were referred to years ago and never left.
+The site-of-care review that lands hardest is one page: your top infusion drug, priced in three settings, from your own claims. No slides. The room goes quiet at the facility-fee line.
 ```
 - **7:00 PM · question post [A6]:**
 ```
@@ -1037,9 +1037,9 @@ GLP-1 coverage is the biggest set of checks your plan will write this decade, an
 ```
 "Usual and customary" is the funniest phrase in drug pricing: nothing about it is usual, and all of it is customary.
 ```
-- **7:00 PM · question post [A7]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-Does your stop-loss policy follow the drug when an infusion moves from the medical benefit to the pharmacy benefit? Site-of-care changes can quietly move a claim outside the coverage you thought you had. Ask before the move, not after the claim.
+Your contract: "Specialty medications will be dispensed through PBM's specialty pharmacy network." The redline: transparent acquisition cost, disclosed affiliate margin, and a carve-out right on 90 days notice. Routing is a price, not a service.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C1]:**
@@ -1071,9 +1071,9 @@ Brown bagging: your PBM has the specialty drug shipped to the member, who carrie
 ```
 Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me why it costs what it does. The second lesson wasn't in any textbook.
 ```
-- **7:00 PM · question post [A8]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-Which of your infused drugs have a home-infusion precedent your plan has never used? Rheumatology and enzyme replacement usually top the list. The precedent exists. The referral pattern just predates it.
+A reader asked if home infusion is safe. For clinically stable members on established therapies, that is what the clinical guidelines support. The hospital chair is rarely a safety decision. It is a billing address.
 ```
   First reply → The category-by-category decision tree: benefitblindspots.substack.com/p/site-of-care-optimization-decision-tree
 - **8:30 PM · one question [B1]:**

@@ -112,6 +112,66 @@ First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 
 ---
 
+**A17 · Claims data ownership**
+```
+Who owns your plan's claims data? Read the contract before you answer. If getting your own claims back costs a fee and a 90-day wait, you do not own the data. You visit it.
+```
+First reply -> The data-transfer language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**A18 · The dark half of disclosure**
+```
+Your benefits consultant discloses compensation now. The CAA made sure of it. The question nobody asks the PBM: what does IT pay to sit on preferred-vendor lists and formulary panels? The disclosure rules found the advisors. The PBM side of the ledger is still dark.
+```
+First reply -> benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**A19 · The auto-renewal clock**
+```
+Quick check: what date does your PBM contract renew itself? Not the renewal meeting. The date the auto-renewal clause executes if nobody speaks. Most sponsors know their renewal season. Far fewer know the silent deadline inside it.
+```
+First reply -> rxbs.org/renewal-second-opinion
+
+**A20 · Copay program split**
+```
+If your plan runs a copay maximizer or accumulator: of every manufacturer dollar it captured last year, how much reached your plan? These programs can genuinely help. The split decides whether yours does.
+```
+First reply -> rxbs.org/toolkit/copay-card-calculator
+
+**A21 · Stop-loss mismatch**
+```
+Does your stop-loss carrier price your specialty risk off the same numbers your PBM reports to you? If the two files disagree, your premium is being set on the worse one. Nobody reconciles them unless you ask.
+```
+First reply -> benefitblindspots.substack.com
+
+**A22 · Mail-order momentum**
+```
+Pull a year of mail-order fills and count the ones members never requested: auto-refills, 90-day conversions, therapy the member stopped. Waste with a shipping label is still waste, and your plan paid for the postage.
+```
+First reply -> benefitblindspots.substack.com
+
+**A23 · The GER basket**
+```
+Your generic effective rate guarantee: which claims count toward it, and who picked the basket? Exclude specialty generics and the high-spread claims, and the guarantee passes every quarter while the plan overpays every day.
+```
+First reply -> The measurement language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
+
+**A24 · Template plan design**
+```
+Who designed your specialty tier: your committee, or the PBM's template? Most plan designs are defaults nobody chose, carried forward renewal after renewal. Defaults have owners. They are just not you.
+```
+First reply -> benefitblindspots.substack.com
+
+**A25 · The disruption number**
+```
+When the PBM warns that changing anything will "disrupt members," ask for the number: how many members, which drugs, what transition support. Disruption is measurable. Vague disruption is a negotiating tactic wearing a lab coat.
+```
+First reply -> benefitblindspots.substack.com
+
+**A26 · Price protection dollars**
+```
+Manufacturers pay your PBM "price protection" when list prices rise past a threshold. Question: does your contract's rebate definition capture those dollars for the plan, or do they stay upstream? Rising prices are profitable for someone. Confirm it is you.
+```
+First reply -> benefitblindspots.substack.com/p/pbm-contract-language-library
+
 ## B · ONE QUESTION FOR YOUR PBM (8:30 PM close)
 
 Format: one actionable question the plan sponsor can send. Plan-sponsor-actionable, repostable, evergreen.
@@ -159,6 +219,46 @@ Ask your PBM: "If we wanted to leave, what in this contract makes it expensive o
 
 ---
 
+**B11**
+```
+Ask your PBM: "Who owns our claims data, and what does it cost us to get it back?" The answer explains why transitions take as long as they do.
+```
+
+**B12**
+```
+Ask your PBM which drugs on your plan were reclassified this year, by whom, and under what authority in your name. Reclassification is legal. Undisclosed reclassification is the problem.
+```
+
+**B13**
+```
+Ask your PBM for net cost per member per month, after every rebate and fee, for the last eight quarters. One number, eight times. Trend is the report they never volunteer.
+```
+
+**B14**
+```
+Ask your PBM for a redline of what changed in the renewal draft. A contract that arrives clean is a contract you are meant not to compare.
+```
+
+**B15**
+```
+Ask your PBM, in writing: "How are you compensated on our plan, by category, in dollars?" The CAA gives you the right to a real answer. Most plans have never used it.
+```
+
+**B16**
+```
+Ask your PBM which QBR metrics it is paid on and which it merely reports. The paid ones explain the program design better than the presentation does.
+```
+
+**B17**
+```
+Ask your PBM when your audit window closes this year. Then put it on the calendar. The right expires quietly, and quietly is the point.
+```
+
+**B18**
+```
+Ask your PBM which pharmacies in your network it owns, in a list. Not a percentage. A list. Ownership is not a scandal. Undisclosed ownership pricing is.
+```
+
 ## C · DECODER APHORISM BANK (8:30 PM close)
 
 Format: one sharp named-adversary line. The shape Cuban *liked* on May 31. Punchy, no wind-up.
@@ -205,6 +305,46 @@ Every fee on your PBM invoice that sounds like a service is worth one question: 
 ```
 
 ---
+
+**C11**
+```
+The formulary is the only bestseller list where the products pay to be ranked.
+```
+
+**C12**
+```
+In a PBM contract, the guarantee is the headline and the definition is the story. Nobody ever lost money writing the headline.
+```
+
+**C13**
+```
+Auto-renewal is the only clause in the contract that works while everyone sleeps.
+```
+
+**C14**
+```
+Your PBM invoice has more defined terms than your mortgage, and for the same reason casinos have no clocks.
+```
+
+**C15**
+```
+The cheapest drug on your plan is the one the contract lets you verify. Verification is the discount.
+```
+
+**C16**
+```
+Every savings guarantee has a silent co-author: whoever got to define savings.
+```
+
+**C17**
+```
+Plan sponsors do not overpay because they are careless. They overpay because the price was designed to be unknowable.
+```
+
+**C18**
+```
+A quarterly business review where the vendor picks the metrics is not a review. It is a recital.
+```
 
 ## D · ORIGIN-ANCHORED FIELD NOTE (8:30 PM close — MAX 1 PER WEEK)
 
@@ -332,6 +472,9 @@ _Real audience questions (DMs, comments, `/question-harvest`), anonymized, answe
 **[I2]** A reader asked how long a PBM audit takes. The audit: weeks. Getting the records: that is the fight. Which is why the records clause matters more than the audit clause.
 
 **[I3]** A reader asked whether switching PBMs is worth the disruption. Sometimes it is not. The better first question: have you priced staying, accurately? Most plans never have.
+
+## Pool expansion log
+- **Jul 16, 2026 (Brett-directed):** A grew 16 → 26 (A17-A26: data ownership, PBM-side CAA disclosure, auto-renewal clock, copay-split, stop-loss mismatch, mail-order waste, GER basket, template design, disruption number, price protection), B grew 10 → 18, C grew 10 → 18. Cycle math after expansion + the G/H/I swaps: A ~5 weeks, B and C ~6+ weeks — all past the 6-week verbatim horizon. The W30-W37 tracker rows below predate the expansion: when scheduling, pull from the NEW ranges first (A17+, B11+, C11+) since the old ranges are the ones the audience has seen.
 
 ## Family-variety rule (added Jul 16, 2026 — the anti-recycling layer on top of the 2-week dedup)
 

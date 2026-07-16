@@ -50,7 +50,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Aug 21 | 10:00 AM | LI Feed | Post 124 — Tease Hook (teases W34) | Post 124 | [ ] |
 | Fri Aug 21 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 21 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
-| Fri Aug 21 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 21 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 21 | 7:00 PM | X | question [A11] | PART 4B · Fri | [ ] |
 | Fri Aug 21 | 8:30 PM | X | origin-anchored [D2] | PART 4B · Fri | [ ] |
 | Sat Aug 22 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
@@ -59,14 +59,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Aug 22 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Aug 22 | 2:30 PM | X | 340B contract pharmacy spread (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 22 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Aug 22 | 7:00 PM | X | question [A12] | PART 4B · Sat | [ ] |
+| Sat Aug 22 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Aug 22 | 8:30 PM | X | aphorism [C10] | PART 4B · Sat | [ ] |
 | Sun Aug 23 | 8:00 AM | X | recipe / Rebate aggregator (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 10:00 AM | X | copay maximizer (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 2:30 PM | X | GPO offshore rebate routing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
-| Sun Aug 23 | 7:00 PM | X | question [A13] | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 8:30 PM | X | one question [B10] | PART 4B · Sun | [ ] |
 
 ---
@@ -938,9 +938,9 @@ Manufacturer money reaches your PBM under many names: rebate, admin fee, data fe
 ```
 Nobody reads the audit clause at signing, and everybody reads it at dispute. By then it is load-bearing. Read it this quarter instead.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-PBM contracts do not confuse plan sponsors by accident. Confusion is margin.
+The best benefits communication I have seen was drafted by the call center, not the consultants. They knew every question members actually ask, because they answer them all day.
 ```
 - **7:00 PM · question post [A11]:**
 ```
@@ -976,9 +976,9 @@ The three biggest PBMs set coverage terms for the vast majority of insured Ameri
 ```
 The PBM business model in one sentence: charge the plan for access to prices the PBM itself sets.
 ```
-- **7:00 PM · question post [A12]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-Read your termination clause before you are angry. What is the notice period? Who owns the claims data on the way out? What does the transition file cost? Those answers are nicer to learn in August than mid-dispute.
+Your contract: "PBM will provide member communications as appropriate." The redline: sponsor review of member-facing notices before they ship, named timelines, and a script for the pharmacy counter. "As appropriate" is how surprises get scheduled.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C10]:**
@@ -1010,9 +1010,9 @@ Ascent, Emisar, Zinc: the group purchasing organizations the big PBMs built to c
 ```
 Pharmacy school taught me mechanisms of action. Nobody taught the mechanism of a copay. I have spent my career since learning the second one, and it explains more sticker shock than the first ever did.
 ```
-- **7:00 PM · question post [A13]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-GLP-1s are the fastest-growing line in most plans we review. Who picked the brand your formulary prefers, and what did that pick earn the PBM? Two different questions. Get both answered in writing.
+A reader asked when to announce a formulary change. Earlier than feels necessary, twice as specifically as feels natural, and to the prescribers before the members. The counter should never be the messenger.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B10]:**
