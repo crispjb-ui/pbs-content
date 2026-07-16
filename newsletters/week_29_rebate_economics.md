@@ -741,11 +741,11 @@ Get next Monday's deep dive on Site-of-Care Optimization in your inbox: benefitb
 
 # PART 4: SUBSTACK NOTES (Daily Copy-Paste Schedule)
 
-> **Instructions (revised July 15, 2026 — restack-reset trial week 1 of 4, per `substack_notes_plan_2026_07.md`):** Post 3 Notes per day via the scheduler. New slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu). **Midday = visual note** (each carries a generation prompt in the PBS flat-design recipe — generate the creative visual when time allows; the `[VISUAL]` flag names a library fallback PNG for when it doesn't; the caption says what the visual proves, never "new post out"). **Afternoon = origin/personal** (unchanged, the warmth/conversion layer). Rationale: the Notes feed is no longer follower-gated; restacks are the amplification unit and the app is now the #1 new-sub source (Jul 15 platform research). **Reveal-reservation inside this week:** the offshore-aggregator fact runs only AFTER Wednesday's LinkedIn POV publishes (Sun morning slot); the copay-maximizer fact only AFTER Thursday's post (Fri morning slot). **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced origin drafts are parked in the Spares block below, not deleted.
+> **Instructions (revised July 15, 2026 — restack-reset trial week 1 of 4, per `substack_notes_plan_2026_07.md`):** Post 3 Notes per day via the scheduler. New slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu — and the teaser posts as a RESTACK-WITH-NOTE on the live article, never a scheduled Note (Brett, Jul 16): once the piece is live, restack it and paste the teaser as the note, dropping the [LINK] line since the restack embeds the article card; /first-comments-today surfaces this daily). **Midday = visual note** (each carries a generation prompt in the PBS flat-design recipe — generate the creative visual when time allows; the `[VISUAL]` flag names a library fallback PNG for when it doesn't; the caption says what the visual proves, never "new post out"). **Afternoon = origin/personal** (unchanged, the warmth/conversion layer). Rationale: the Notes feed is no longer follower-gated; restacks are the amplification unit and the app is now the #1 new-sub source (Jul 15 platform research). **Reveal-reservation inside this week:** the offshore-aggregator fact runs only AFTER Wednesday's LinkedIn POV publishes (Sun morning slot); the copay-maximizer fact only AFTER Thursday's post (Fri morning slot). **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced origin drafts are parked in the Spares block below, not deleted.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Launch Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser (post as RESTACK-WITH-NOTE on the live article; drop the link line):**
 The PBM showed the committee rebate growth. Net cost grew too. Both slides were true, because "rebate" was defined to exclude the money that mattered. This week on Benefit Blind Spots: rebate economics decoded, with an 8-provision contract analysis framework, weak vs. strong language side by side.
 
 Read the full analysis: [LINK]
@@ -771,7 +771,7 @@ A client's benefits committee asked me to explain rebate economics in "less than
 
 ## Wednesday
 
-**Morning (7-8 AM) — Roundup Launch Teaser:**
+**Morning (7-8 AM) — Roundup Launch Teaser (post as RESTACK-WITH-NOTE on the live roundup; drop the link line):**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
@@ -788,7 +788,7 @@ Early in my career I thought "rebate" was a simple concept. Discount on a drug, 
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Launch Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser (post as RESTACK-WITH-NOTE on the live field note; drop the link line):**
 New field note: copay maximizers can genuinely help a self-funded plan, and we use them in client work. The part that deserves your eyes is the split: how much of every captured manufacturer dollar reaches the plan, and how much the vendor keeps. Three checks to get your own program's economics on paper this quarter.
 
 Read: [LINK]

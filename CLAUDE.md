@@ -283,7 +283,7 @@ LINKEDIN TEASE HOOK (8:30 AM Fri) - Text post teasing next Monday's content
 ### Notes Strategy (Revised April 20, 2026)
 - **3 Notes per day, 7 days/week** (~21 Notes/week), scheduled a week at a time via Substack's scheduler
 - **Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note**
-- **On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser**
+- **On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser — posted as a RESTACK-WITH-NOTE, not a scheduled Note (added Jul 16, 2026, Brett-directed):** once the article is live, restack it and paste the teaser copy as the restack note (drop any bare link line; the restack embeds the article card). A restack renders far better in the Notes feed than a scheduled text Note with a link. This is a post-publish manual action, so `/first-comments-today` surfaces it daily alongside first comments.
 - Engagement data (April 2026): origin-story/personal Notes are the only format generating reciprocal engagement even from small-follower accounts. Provocative one-liners, industry observations, and expertise-only Notes have averaged <1 like per post. Double the personal-story slot; retire the non-performing formats to a single rotating slot per day.
 - Published under Benefit Blind Spots publication (not personal)
 - Engagement with other writers' Notes handled separately by Ginny daily

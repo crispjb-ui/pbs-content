@@ -17,7 +17,7 @@ _Created Jul 15, 2026 by Brett's ask ("feels like I'm typing into a void"), buil
 
 | Slot | Old (April 2026 mix) | New (trial mix) |
 |---|---|---|
-| Morning (7-8 AM) | Origin/personal (or launch teaser) | **Reveal note** (or launch teaser on Mon/Wed/Thu): one hidden-mechanism fact, self-contained, quotable, with the PBS anchor. Source: `shocking_fact_bank.md` + the week's published posts. |
+| Morning (7-8 AM) | Origin/personal (or launch teaser) | **Reveal note** (Tue/Fri/Sat/Sun): one hidden-mechanism fact, self-contained, quotable, with the PBS anchor. Source: `shocking_fact_bank.md` + the week's published posts. **On launch days (Mon/Wed/Thu) the teaser is NOT a scheduled Note: once the article is live, RESTACK it with the teaser copy as the note** (drop any bare `[LINK]` line — the restack embeds the article card). Brett, Jul 16: restack-with-note "shows up much better than scheduling the note." The daily `/first-comments-today` run surfaces this as a post-publish task alongside first comments. |
 | Midday (12-1 PM) | Origin/personal or rotating | **Visual note**: a **generated creative visual** (each week file carries a per-day image prompt in the PBS recipe: flat design, brand palette, topic-encoding central element, two-tone Plex headline, thumbnail-legible) + 2-3 lines that stand alone (not "new post out" — say the thing the visual proves). **Fallback when no generation time:** the named toolkit preview PNG / Tue-Thu hero. (Added Jul 15, Brett: prompt for creative visuals rather than defaulting to toolkit PNGs.) |
 | Afternoon (4-5 PM) | Origin/personal | **Origin/personal** (kept: the proven warmth format, and the format that converts a curious stranger into a subscriber once a reveal note pulled them in). |
 
