@@ -6,7 +6,7 @@ _Created Jul 16, 2026, from Brett's ask ("what's the serious game plan with Subs
 
 Substack is the only surface PBS fully owns: **the relationship** (exportable subscriber emails; LinkedIn's 1,170 newsletter subs belong to LinkedIn), **the crawl** (the AI-citation surface; engines cite it, and Perplexity already does), and **the depth** (a competitor's clinical director read one field note 18 times; nobody does that on a feed). The July 2026 evidence says the flywheel is starting on its own: Rising badge #85 → #73 (paid-growth-RATE leaderboard), first organic-Google acquisition, 4 paid subs including a fund office and a fiduciary advisor, all unprompted.
 
-**Goal: ~500 high-fit subscribers by early 2027** (also the trigger for revisiting Ginny's paid hold), prioritizing plan-sponsor-adjacent quality over raw count. Substack subs stay a monitor metric against the two primary KPIs; the giant's value is compounding authority + lead qualification, not sub-count vanity.
+**Goal: ~500 high-fit subscribers by early 2027** (also the trigger for revisiting Ginny's paid hold), prioritizing plan-sponsor-adjacent quality over raw count. **First trajectory proof (Jul 16, 2026): 147 subs — +27 in the six days after Potter Piece 1 published (120 on Jul 10, ~5/week run rate before).** One byline ≈ +20-25 subs, making the 500 goal arithmetic: 147 + eleven remaining Potter pieces at ~20 each + baseline growth lands ~500 before counting Recommendations or the Notes trial. Attribution check at the next `/log-metrics`: confirm the source split shows the healthcareuncovered referral. Substack subs stay a monitor metric against the two primary KPIs; the giant's value is compounding authority + lead qualification, not sub-count vanity.
 
 ## The levers, in priority order
 
