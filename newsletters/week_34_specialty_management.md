@@ -980,7 +980,7 @@ Meeting a rebate guarantee and maximizing your rebates are two different jobs. Y
 ```
 - **2:30 PM · copay accumulator (Tier A):**
 ```
-Accumulator programs run quietly until January, when a member discovers a drained copay card and an untouched deductible. By then it is renewal season and the complaint reads as noise. Pull the program terms now, while changing them is still a negotiation.
+Accumulator terms surface in January, when a member finds the copay card paid all year and the deductible did not move. That is a communication failure, not a program failure, and it lands on HR at renewal. Pull the terms and the member notice now, while fixing both is cheap.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **5:00 PM · origin (the one allowed this week):**

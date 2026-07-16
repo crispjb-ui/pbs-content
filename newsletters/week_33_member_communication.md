@@ -947,7 +947,7 @@ Pulled a client's specialty claims this month and sorted by filling pharmacy. Mo
 **Sat Aug 22**
 - **8:00 AM · recipe / Copay accumulator (Tier A weekend Cuban-bait):**
 ```
-A manufacturer copay card walks in worth thousands. The accumulator program cashes it, gives your member zero deductible credit, and books the value. Check your plan language: if assistance "does not apply to accumulation," that is the program, wearing plan-protection clothes.
+Copay accumulators usually favor the plan: the card pays its share and the member still earns their own deductible. The failure mode is silence, a member learning the rule at the counter mid-year. If your plan runs one, the communication is as load-bearing as the clause.
 ```
   First reply (link): rxbs.org/toolkit/copay-card-calculator
 - **10:00 AM · point-of-sale clawback (Tier A):**
@@ -986,7 +986,7 @@ Your PBM formed a separate company to negotiate rebates, hired itself as the cli
   First reply (link): rxbs.org/toolkit/rebate-report-audit
 - **10:00 AM · copay maximizer (Tier A):**
 ```
-The maximizer program flags your member's specialty drug as "non-essential," sets the copay at exactly the manufacturer card's annual limit, and drains the card by December. Deductible credit: zero. The benefit design did the taking.
+The maximizer captured every dollar the manufacturer card would pay this year. The program keeps a fee, often a percentage of "savings" it defines itself. Two numbers tell you if it works: what was captured, and what reached the plan. Most sponsors can produce neither.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:

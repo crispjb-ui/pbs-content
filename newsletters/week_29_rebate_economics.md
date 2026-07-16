@@ -5,7 +5,7 @@
 
 ## Weekly Run of Show
 
-_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Thursday slot rebuilt (Jun 2026) from the off-topic "5 Network Contract Terms Decoded" vocabulary decoder into a shocking hidden-structure reveal: the copay maximizer "non-essential health benefit" reclassification, distinct from Mon (rebate flow) / Tue (audit rights) / Wed (offshore aggregator). The repurposed Rebate Model Comparison whiteboard remains in PART 1 as an In-Article Visual; the displaced network-terms decoder is described for central parking in the Post 107 block (no dead block left in the file)._
+_Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Thursday slot rebuilt (Jun 2026) from the off-topic "5 Network Contract Terms Decoded" vocabulary decoder into a shocking hidden-structure reveal: the copay maximizer's captured-dollar split (re-lensed Jul 16, 2026 to the plan-sponsor/economics frame per the copay-program neutrality rule; conceptual infographic replaces the photoreal stamp scene), distinct from Mon (rebate flow) / Tue (audit rights) / Wed (offshore aggregator). The repurposed Rebate Model Comparison whiteboard remains in PART 1 as an In-Article Visual; the displaced network-terms decoder is described for central parking in the Post 107 block (no dead block left in the file)._
 
 **⚠ Open before ship (residual items — external inputs or a judgment call, not auto-fixable):**
 - **⚠ Post-publish URLs (fill at schedule/publish time; the weekly-substack-urls workflow auto-fills these from RSS):** the Monday deep-dive URL in the Newsletter body `[SUBSTACK URL]` and Newsletter First Comment, in Post 106 first comment `[SUBSTACK MONDAY DEEP DIVE URL]`; the Thursday Field Note URL in Post 107 first comment `[SUBSTACK FIELD NOTE URL]`; and the Notes launch-teaser `[LINK]`s (Mon/Wed/Thu). All resolve only after each post publishes.
@@ -39,8 +39,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 22 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 7:00 PM | X | question [A13] | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 8:30 PM | X | aphorism [C7] | PART 4B · Wed | [ ] |
-| Thu Jul 23 | 7:30 AM | Substack | Field Note: "The Program That Reclassifies Your Member's Drug as Non-Essential" | PART 1B | [ ] |
-| Thu Jul 23 | 8:30 AM | LI Feed | Post 107 — "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (The NON-ESSENTIAL Stamp photoreal, Slot A reveal) | Post 107 | [ ] |
+| Thu Jul 23 | 7:30 AM | Substack | Field Note: "Inside Your Copay Maximizer: Where the Captured Card Dollars Actually Go" | PART 1B | [ ] |
+| Thu Jul 23 | 8:30 AM | LI Feed | Post 107 — "Inside Your Copay Maximizer: Who Keeps Each Captured Dollar" (Captured Card Split conceptual infographic, Slot A reveal; neutrality-rule rebuild Jul 16) | Post 107 | [ ] |
 | Thu Jul 23 | 8:35 AM | LI Feed | Post 107 first comment | Post 107 | [ ] |
 | Thu Jul 23 | 9:00 AM | X | recipe / Copay maximizer (Tier B) — after the 8:30 AM LI reveal (LinkedIn-first) | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
@@ -259,11 +259,11 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 
 # PART 1B: SUBSTACK FIELD NOTE (THURSDAY)
 
-## The Program That Reclassifies Your Member's Drug as Non-Essential
+## Inside Your Copay Maximizer: Where the Captured Card Dollars Actually Go
 
-**Display Title:** The Program That Reclassifies Your Member's Drug as Non-Essential
-**SEO Title (AEO):** What Is a Copay Maximizer? (How It Drains the Manufacturer Copay Card Off Your Member's Deductible)
-**SEO Subtitle:** How a copay maximizer reclassifies a specialty drug to dodge the out-of-pocket cap, plus three things a self-funded plan can check this quarter
+**Display Title:** Inside Your Copay Maximizer: Where the Captured Card Dollars Actually Go
+**SEO Title (AEO):** What Is a Copay Maximizer? (And Where Do the Captured Copay Card Dollars Go?)
+**SEO Subtitle:** How a copay maximizer captures manufacturer assistance and divides it, plus three checks a self-funded plan can run on its own program's economics this quarter
 
 **Publication:** Benefit Blind Spots
 **Publish:** Thursday, July 23, 2026 at 7:30 AM EST
@@ -271,34 +271,34 @@ A clean professional digital graphic at 2240 x 1200 pixels with a solid deep tea
 **Tone:** Practical, tactical
 **Pillar:** Cost Containment Strategies
 **Type:** Field Note
-**Pairs with:** Thursday LinkedIn reveal "Copay Maximizer: the program that reclassifies your member's drug as non-essential" (the NON-ESSENTIAL Stamp photoreal scene). The LinkedIn post reveals the hidden program as a shock; this Field Note is the operational follow-on, the three checks a plan sponsor runs to find out whether a maximizer is bolted onto its own plan and what it is draining.
+**Pairs with:** Thursday LinkedIn reveal "Inside Your Copay Maximizer: Who Keeps Each Captured Dollar" (the Captured Card Split conceptual infographic). The LinkedIn post reveals the undisclosed split as the shock; this Field Note is the operational follow-on, the three checks a plan sponsor runs to see its own program's economics. Both surfaces follow the copay-program neutrality rule: PBS uses maximizers, they often help the plan, and the critique targets disclosure, never the tool.
 **Why this pairing (triple-distinct rule):** Monday W29 is Rebate Economics (rebate flow), Tuesday is Audit Rights, Wednesday is the offshore rebate aggregator. Thursday moves to a genuinely-distinct hidden structure: the copay maximizer, a member-facing copay-program mechanic in the Cost Containment / copay-program family, not a rebate-flow or audit-rights or aggregator topic. The Field Note exclusively supports the Thursday LinkedIn reveal: same program, deeper application. The original "Auditing Your Pharmacy Network Configuration" Field Note draft is parked for central reuse (see parking note below).
 
 ---
 
 ### Field Note Body
 
-**A copay maximizer is a program a PBM or its vendor bolts onto a plan that reclassifies a member's specialty drug as a "non-essential health benefit" so the ACA out-of-pocket cap no longer applies, then spreads the manufacturer's full annual copay-card assistance across the year and routes that value back to the PBM instead of toward the member's deductible, which means the plan sees a "copay savings program" while the manufacturer money never reduces what the plan ultimately pays.**
+**A copay maximizer is a program a PBM or benefit vendor runs on a self-funded plan that reclassifies specialty drugs as "non-essential health benefits" so the ACA out-of-pocket cap no longer applies, then captures the manufacturer's full annual copay-card value and divides it between the plan and the program vendor; run with disclosed economics it is a legitimate cost lever, and the plan sponsor's job is to know the split: what share of each captured dollar reaches the plan, what the vendor's fee is, and which drugs were reclassified in the plan's name.**
 
-This morning's LinkedIn post revealed the program that reclassifies a member's drug as non-essential. This Field Note is how you find out whether one is running on your own plan, and what it is moving.
+Let me say the quiet part first: we are not against maximizers. We use them in client work at Prescription Benefit Solutions, and run well, they capture manufacturer assistance that would otherwise go uncollected and turn it into real plan savings. This morning's LinkedIn post asked the question that separates a well-run program from an expensive one: who keeps each captured dollar? This Field Note is how you get that answer for your own plan.
 
-We review hundreds of PBM and benefit-program contracts a year at Prescription Benefit Solutions, and the maximizer is one of the most quietly bolted-on structures we find. It usually arrives as a "specialty copay optimization" or "copay savings maximizer" program, sold as a way to capture more manufacturer assistance. The mechanics underneath are what matter.
+We review hundreds of PBM and benefit-program contracts a year, and the pattern is consistent: the programs are common, disclosed economics are rare. The program usually arrives as "specialty copay optimization" or a "copay savings" program. The mechanics underneath are what deserve your attention.
 
 **How the mechanic works**
 
-A manufacturer copay card is meant to lower the member's out-of-pocket cost on an expensive specialty drug. Normally that assistance counts toward the member's deductible and out-of-pocket maximum. A maximizer interrupts that. It reclassifies the drug as a "non-essential health benefit," which is the move that removes the ACA out-of-pocket cap from that drug. With the cap gone, the program sets the member's cost-share to capture the maximum the manufacturer card will pay across the full plan year, and routes that captured value back to the PBM or its vendor. The member's deductible does not move. The plan's net position does not improve the way the "savings" headline implies.
+A manufacturer copay card lowers the member's out-of-pocket cost on an expensive specialty drug. A maximizer reclassifies that drug as a "non-essential health benefit," the legal step that removes the ACA out-of-pocket cap so the program can capture the card's maximum value across the full plan year. That reclassification is executed in your plan's name. The captured dollars are then divided between the plan and the vendor, with the vendor's fee often calculated as a percentage of whatever the program defines as savings. Two things follow for the sponsor: the split determines whether the program is actually improving your net position, and the member's deductible does not advance while the card pays, which is a member-experience item to manage with clear communication rather than discover through HR escalations in December.
 
-The unfakeable detail to know: in litigation between Johnson & Johnson and one maximizer vendor, the same drug's manufacturer assistance ran far higher for members enrolled in the maximizer than for those who were not, with the manufacturer alleging nine figures in overpayment. The dollars are real, and they are not flowing where the plan thinks.
+The scale is worth knowing: in litigation between Johnson & Johnson and one maximizer vendor, the manufacturer alleged nine figures in copay assistance captured beyond its program terms. The dollars moving through these programs are substantial, which is precisely why the split should be on paper.
 
 **Three checks to run this quarter**
 
-> **Check one: ask whether a copay maximizer or "copay optimization" program is active on your specialty drugs.** Ask your PBM and your benefit-program vendors directly, in writing. Ask for the program name and the contract section that authorizes it. A program that captures manufacturer money off your plan should be nameable.
+> **Check one: ask for your program's economics in writing.** The program name, the contract section that authorizes it, the vendor's fee structure, and the share of captured assistance that reaches the plan. A program capturing manufacturer money on your plan's behalf should have nameable, documented terms.
 
-> **Check two: ask whether manufacturer copay assistance counts toward member accumulators.** If the answer is no on specialty drugs, ask which entity keeps the assistance and under what contract term. "It does not count toward the deductible" is the tell that the value is being captured upstream.
+> **Check two: ask whether manufacturer copay assistance counts toward member accumulators, and how members are told.** If assistance does not accrue on specialty drugs, that is a design choice with a member-communication obligation attached. Confirm the communication actually goes out; surprise is the failure mode, not the design.
 
-> **Check three: ask which specialty drugs were reclassified as non-essential, and by whom.** The reclassification is the legal mechanism that removes the cap. If any of your specialty drugs were reclassified, ask to see the authorization and the member-impact analysis.
+> **Check three: ask which specialty drugs were reclassified as non-essential, and by whom.** The reclassification is the legal mechanism that removes the cap, and it happens in your plan's name. Ask to see the authorization and the member-impact analysis.
 
-The reveal tells you the program exists. These three checks tell you whether it is running on your plan and where the manufacturer money is going. The printable [Copay Card Financial Impact Calculator](https://www.rxbs.org/toolkit/copay-card-calculator) models the accumulator-and-maximizer impact step by step so you can hand it to your broker.
+A maximizer that passes these three checks is doing its job. One that cannot answer them is capturing money in your name on terms you have never seen. The printable [Copay Card Financial Impact Calculator](https://www.rxbs.org/toolkit/copay-card-calculator) models the accumulator-and-maximizer math step by step so you can run the numbers with your broker.
 
 ---
 
@@ -310,10 +310,10 @@ The reveal tells you the program exists. These three checks tell you whether it 
 
 ### Field Note Meta
 
-**SEO Title:** What Is a Copay Maximizer? How It Drains the Manufacturer Copay Card | Benefit Blind Spots
-**SEO URL Slug:** copay-maximizer-non-essential-reclassification
-**Meta Description:** A copay maximizer reclassifies a member's specialty drug as non-essential to dodge the out-of-pocket cap, then drains the manufacturer copay card back to the PBM. Three checks a self-funded plan can run this quarter to find out if one is on its plan.
-**Tags:** copay maximizer, copay accumulator, non-essential health benefit, specialty drugs, out-of-pocket cap, copay assistance, self-funded employers
+**SEO Title:** What Is a Copay Maximizer? Where the Captured Card Dollars Go | Benefit Blind Spots
+**SEO URL Slug:** copay-maximizer-program-economics
+**Meta Description:** A copay maximizer captures the manufacturer copay card's full annual value and divides it between the plan and the vendor. Run well it is a legitimate cost lever. Three checks a self-funded plan can run this quarter on its own program's economics.
+**Tags:** copay maximizer, copay accumulator, non-essential health benefit, specialty drugs, copay assistance, plan sponsor, self-funded employers
 
 ---
 
@@ -324,7 +324,7 @@ The reveal tells you the program exists. These three checks tell you whether it 
 
 **Prompt:**
 
-A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design manufacturer copay card icon in Primary Blue (#015880) outline, roughly 460px wide, with a bold Accent Blue (#A7E0FA) diversion arrow curving away from a small "DEDUCTIBLE" meter (the meter needle pinned at empty, rendered in light gray #D6D6D6 to show it never moves) and toward a Primary Blue container labeled "PBM" in Plex Sans SemiBold. A small rubber-stamp graphic in red over the card reads "NON-ESSENTIAL" in a condensed uppercase stamp face, slightly rotated. Above the card, a small label in Plex Mono Medium uppercase: "COPAY ASSISTANCE." Below the composition, three small numbered tick marks in Accent Blue (#A7E0FA) labeled "1 / 2 / 3" suggesting three checks. Below the composition, a two-tone centered headline: "Reclassified." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Non-Essential." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "The card drains to the PBM. The deductible never moves." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D), light gray (#D6D6D6), red accent for the stamp only. No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
+A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: a flat-design manufacturer copay card icon in Primary Blue (#015880) outline, roughly 460px wide, labeled "COPAY ASSISTANCE" in Plex Mono Medium uppercase, with a bold Accent Blue (#A7E0FA) stream flowing down from the card and splitting into two smaller containers side by side: one labeled "PLAN" and one labeled "VENDOR" in Plex Sans SemiBold, each container carrying a large Primary Blue question mark. Below the composition, three small numbered tick marks in Accent Blue (#A7E0FA) labeled "1 / 2 / 3" suggesting three checks. Below the composition, a two-tone centered headline: "Captured." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Split how?" in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three checks on your copay program's economics." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements, no logos beyond the FIELD NOTE badge.
 
 **Post-Generation Steps:**
 1. Generate the base image using the prompt above
@@ -511,7 +511,7 @@ The audit right expires with the clock. Year passes, right resets, year passes a
 
 The PBM does not remind the plan that the right exists. Why would they.
 
-When we run an audit on a plan that has never audited, we find findings. Recoverable findings. Sometimes recoverable for the prior period only, because earlier windows already closed.
+When we run an audit on a plan that has never audited, we uncover findings. Recoverable findings. Sometimes recoverable for the prior period only, because earlier windows already closed.
 
 The right costs nothing. Using it requires knowing it exists, knowing the window, and pulling the trigger before the clock resets.
 
@@ -535,7 +535,7 @@ Single image at 1080 x 1350 px rendered as a photographed corkboard or desk surf
 - Note 1 (yellow #FDE68A, top-left): Caveat handwriting: "Right is in the contract from Day 1." Small red arrow drawn underneath pointing to the pulled contract page.
 - Note 2 (pink #FBCFE8, top-center): "Window expires every year, sometimes faster." Red handwritten clock icon.
 - Note 3 (blue-tinted #BFDBFE, top-right): "PBM never reminds you it exists."
-- Note 4 (yellow, middle-center-left): "When we audit a plan that never audited, we find findings. Every time."
+- Note 4 (yellow, middle-center-left): "When we audit a plan that never audited, we uncover findings. Every time."
 - Note 5 (green #BBF7D0, middle-right): "Recoverable $ = prior period only. Earlier windows closed."
 - Note 6 (pink, bottom-center): Accent Blue underline: "Pull the contract. Find the window. Use it."
 
@@ -545,7 +545,7 @@ Single image at 1080 x 1350 px rendered as a photographed corkboard or desk surf
 
 #### Image Generation Prompt
 
-Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking corkboard or desk surface with six paper sticky notes slightly overlapping and angled 2-5 degrees off-axis, each with a soft shadow for depth. Warm paper-texture background. Sticky notes colored: yellow, pink, blue-tinted, yellow, green, pink. On each sticky, handwritten Caveat-font text (one short phrase per note): (1) "Right is in the contract from Day 1." with small red arrow; (2) "Window expires every year, sometimes faster." with red clock icon; (3) "PBM never reminds you it exists."; (4) "When we audit a plan that never audited, we find findings. Every time."; (5) "Recoverable $ = prior period only. Earlier windows closed."; (6) "Pull the contract. Find the window. Use it." with Accent Blue underline. Below the stickies, a corner of a pulled contract page visible with red marker circle around "§ 10.01 AUDIT RIGHTS" and handwritten "Here it is." annotation pointing to the clause. Top of image, above the stickies, a taped banner in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from 100s of contracts." Top-left Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Bottom Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo bottom-right, rxbs.org bottom-left. Color palette: warm paper board background, sticky-note colors above, black/red/blue handwritten markers, Primary Blue structure, Accent Blue accent band. No photos of people.
+Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Render a photographed-looking corkboard or desk surface with six paper sticky notes slightly overlapping and angled 2-5 degrees off-axis, each with a soft shadow for depth. Warm paper-texture background. Sticky notes colored: yellow, pink, blue-tinted, yellow, green, pink. On each sticky, handwritten Caveat-font text (one short phrase per note): (1) "Right is in the contract from Day 1." with small red arrow; (2) "Window expires every year, sometimes faster." with red clock icon; (3) "PBM never reminds you it exists."; (4) "When we audit a plan that never audited, we uncover findings. Every time."; (5) "Recoverable $ = prior period only. Earlier windows closed."; (6) "Pull the contract. Find the window. Use it." with Accent Blue underline. Below the stickies, a corner of a pulled contract page visible with red marker circle around "§ 10.01 AUDIT RIGHTS" and handwritten "Here it is." annotation pointing to the clause. Top of image, above the stickies, a taped banner in Caveat 32pt Primary Blue: "The audit right most plans never use. · Notes from 100s of contracts." Top-left Plex Sans SemiBold 18pt Primary Blue "Benefit Blind Spots" badge. Bottom Accent Blue (#A7E0FA) band with Primary Blue Plex Sans SemiBold 20pt: "Every audit we run turns up something. Every unused audit window is a shortfall left on the table." PBS logo bottom-right, rxbs.org bottom-left. Color palette: warm paper board background, sticky-note colors above, black/red/blue handwritten markers, Primary Blue structure, Accent Blue accent band. No photos of people.
 
 **Post-Generation Steps:**
 
@@ -613,28 +613,34 @@ This week's Benefit Blind Spots deep dive on rebate economics decoded is the ope
 
 _REBUILT (Jun 2026): the former Thursday post here was "5 Network Contract Terms Decoded," a vocabulary decoder that was both off-topic for a rebate week and a weak summer-trough shape (decoders top out ~4-5K in summer). It is replaced with a shocking hidden-structure reveal: the copay maximizer "non-essential health benefit" reclassification. The displaced network-terms decoder content is parked in PART 1B (parked-draft note) and the Field Note retargeted to this reveal. The Rebate Model Comparison whiteboard carousel was repurposed earlier into Monday's deep dive and lives there as an in-article visual (PART 1)._
 
-### Thursday Reach Post (Slot A reveal) - Copay Maximizer: The Program That Reclassifies Your Member's Drug as Non-Essential
+### Thursday Reach Post (Slot A reveal) - Inside Your Copay Maximizer: Who Keeps Each Captured Dollar
+
+_REBUILT Jul 16, 2026 (Brett-directed, canonical example of the copay-program neutrality rule): the prior version framed the maximizer as a scheme against members ("stamped a life-saving drug," "drains back to the PBM"). PBS is not against maximizers; PBS uses them and they often help the plan. The reveal now aims at the undisclosed economics (the split), from the plan sponsor's chair. Format also switched from the photoreal stamp scene to a clean conceptual flow infographic per the same request._
 
 - **Slot:** A (Thursday Excellence reach post)
-- **Format:** Photoreal editorial single image (conceptual "NON-ESSENTIAL Stamp" scene), 1080 x 1350 px
+- **Format:** Clean conceptual flow infographic (the "Captured Card Split"), 1080 x 1350 px — the Bypass/Funnel-family shape (per the Jun 18 rule: when the thesis is "money routes and splits," the conceptual infographic dramatizes it better than a photoreal document)
 - **Pillar:** Cost Containment Strategies (copay programs)
-- **Shape:** Shocking hidden-structure reveal (best-kept-secret / genuinely-unknown-fact variant), not a vocabulary decoder
-- **Why distinct:** Mon = rebate flow, Tue = audit rights, Wed = offshore rebate aggregator. This is the copay maximizer, a member-facing copay-program mechanic. Different subject matter, different pillar. No cannibalization with the rebate-themed Mon/Wed posts.
+- **Shape:** Shocking hidden-structure reveal, aimed at the undisclosed split (not member melodrama)
+- **Why distinct:** Mon = rebate flow, Tue = audit rights, Wed = offshore rebate aggregator. This is the copay maximizer, a copay-program economics mechanic. Different subject matter, different pillar. No cannibalization with the rebate-themed Mon/Wed posts.
 
 #### Post Copy
 
 ```
-A vendor can stamp your employee's life-sustaining specialty drug "non-essential," legally, and that stamp deletes the out-of-pocket cap, then drains the manufacturer's entire year of copay assistance back to the PBM. None of it reaches your member's deductible. It may be bolted onto your plan right now.
+Somewhere in your copay program's fine print is a split: how much of every manufacturer dollar it captures reaches your plan, and how much the vendor keeps. Most plan sponsors have never seen it.
 
-It is called a copay maximizer. Here is the move. A manufacturer copay card is supposed to lower your member's cost and count toward their deductible. The maximizer reclassifies the drug as a "non-essential health benefit," which is the exact step that removes the ACA out-of-pocket cap from that drug. Cap gone, the program sets the member's cost-share to capture the maximum the card pays all year, and routes that value to the PBM or its vendor instead of the member.
+To be clear about where we stand: copay maximizers can genuinely help a self-funded plan. We use them in client work at Prescription Benefit Solutions. Run well, the program captures manufacturer assistance that would otherwise go uncollected and turns it into real savings for the plan and lower cost for members.
 
-I review hundreds of PBM and benefit-program contracts a year at Prescription Benefit Solutions. The maximizer rarely arrives labeled "maximizer." It shows up as "specialty copay optimization" or a "copay savings program," and it is one of the most quietly bolted-on structures we find.
+That is exactly why the mechanics deserve your eyes.
 
-In one manufacturer's litigation against a maximizer vendor, the same drug's copay assistance ran far higher for enrolled members than for unenrolled ones, with nine figures of alleged overpayment. The dollars are real. They are just not flowing where the plan thinks.
+Here is what happens under the hood. The program reclassifies specialty drugs as "non-essential health benefits." That is the legal step that lifts the out-of-pocket cap so the manufacturer card's full annual value can be captured. The reclassification is executed in your plan's name. Then the captured dollars get divided: a share to the plan, a fee to the vendor, often calculated as a percentage of whatever the program defines as savings.
 
-The savings headline says one thing. The deductible meter never moves. Ask one question: is a copay maximizer or "copay optimization" program running on our specialty drugs, and which entity keeps the assistance?
+Across the hundreds of PBM and benefit-program contracts we review each year, the pattern is consistent: the programs are common, disclosed economics are rare. Manufacturers have taken vendors to court over nine-figure sums of captured assistance, so the dollars are substantial. Yet few sponsors can say what share reached their plan, or which drugs were reclassified on their behalf.
 
-#CopayCards #SpecialtyPharmacy #EmployeeBenefits
+A maximizer with disclosed economics is a legitimate cost lever. The same program with undisclosed economics is someone else's revenue stream running on your plan.
+
+One question for your vendor: of every card dollar captured last year, how much reached us?
+
+#CopayCards #SpecialtyPharmacy #PlanSponsors
 ```
 
 #### First Comment
@@ -642,44 +648,39 @@ The savings headline says one thing. The deductible meter never moves. Ask one q
 _⚠ Paste the live Thursday Field Note URL into the `[SUBSTACK FIELD NOTE URL]` placeholder below after it publishes (7:30 AM Thu). The toolkit link is already live._
 
 ```
-Today's Field Note on Benefit Blind Spots is the operational follow-on to this post: the three checks a self-funded plan runs to find out whether a copay maximizer is bolted onto its own plan, what to ask in writing, and which specialty drugs were reclassified as non-essential. Plus the Copay Card Financial Impact Calculator that models exactly what the program drains, step by step. [SUBSTACK FIELD NOTE URL] · rxbs.org/toolkit/copay-card-calculator
+Today's Field Note on Benefit Blind Spots is the operational follow-on to this post: the three checks a self-funded plan runs to see the economics of its own copay program, what to ask the vendor in writing, and which drugs were reclassified in the plan's name. Plus the Copay Card Financial Impact Calculator that models the accumulator-and-maximizer math step by step. [SUBSTACK FIELD NOTE URL] · rxbs.org/toolkit/copay-card-calculator
 ```
 
 #### Thursday Excellence Audit (all 5 components, required before ship)
 
-- **(1) Format:** photoreal editorial single image, the "NON-ESSENTIAL Stamp" conceptual scene, 1080 x 1350 px (spec below). The red NON-ESSENTIAL stamp slammed across a life-sustaining specialty-drug box dramatizes the reveal like a memorable scene (W27 "Rebate Detour" route-map is the bar). ✓
-- **(2) Hook, confrontational + named-actor + shock-of-the-unknown:** first line reveals a hidden program that reclassifies a member's drug as "non-essential" to drain the copay card to the PBM. Names the PBM/vendor as actor, the member and plan as victims, and delivers the unknown structural fact as a shock. ✓
-- **(3) Proprietary anchor:** "I review hundreds of PBM and benefit-program contracts a year at Prescription Benefit Solutions... one of the most quietly bolted-on structures we find." Unfakeable. ✓
-- **(4) First comment names the same-day Field Note specifically:** names the three checks, the written-ask, the reclassified-drug ask, and the Copay Card Financial Impact Calculator by name, with cross-promo links. ✓
-- **(5) Field Note exclusively supports this concept:** PART 1B is retargeted to the same copay-maximizer reveal (same program, deeper application, three operational checks). ✓
-- **Winning-profile traits hit (5+):** decoder-shape (the hidden mechanic), named-actor framing, plan-sponsor-actionable, confrontational/shock hook, photoreal aesthetic (single dramatized editorial scene), first-comment Substack cross-promo, proprietary anchor, save-driven structure, single-image photoreal. 9 of 10.
-- **Shocking-fact weave:** sourced fact from `shocking_fact_bank.md` #5 (copay maximizer "non-essential health benefit" reclassification; J&J v. SaveOnSP), woven with the PBS anchor. No fabricated figures (the litigation magnitude is stated qualitatively per the no-fabricated-statistics rule).
+- **(1) Format:** clean conceptual flow infographic, the "Captured Card Split," 1080 x 1350 px (spec below). The thesis is "money is captured and divided behind a curtain," so the flow diagram IS the argument, thumbnail-legible (Jun 18 conceptual-infographic rule; the W26 Bypass/Funnel is the proven family). ✓
+- **(2) Hook, confrontational + named-actor + shock-of-the-unknown:** first line reveals the split most sponsors have never seen, with the vendor as the named actor and the PLAN as the party owed the answer. The shock is the undisclosed economics, per the copay-program neutrality rule (never member-victim melodrama). ✓
+- **(3) Proprietary anchor:** "We use them in client work at Prescription Benefit Solutions" + "hundreds of PBM and benefit-program contracts a year... programs are common, disclosed economics are rare." The we-use-them admission is itself unfakeable positioning. ✓
+- **(4) First comment names the same-day Field Note specifically:** names the three checks, the written-ask, the reclassification question, and the Copay Card Financial Impact Calculator by name, with cross-promo links. ✓
+- **(5) Field Note exclusively supports this concept:** PART 1B carries the same program-economics lens (same program, deeper application, three operational checks). ✓
+- **Winning-profile traits hit (5+):** decoder-shape (the hidden split), named-actor framing, plan-sponsor-actionable, confrontational knowledge-gap hook, conceptual infographic format, first-comment Substack cross-promo, proprietary anchor, save-driven structure, single image. 9 of 10.
+- **Shocking-fact weave:** sourced fact from `shocking_fact_bank.md` #5 (the "non-essential health benefit" reclassification mechanic; J&J v. SaveOnSP litigation magnitude stated qualitatively per the no-fabricated-statistics rule), aimed at the economics per the neutrality rule.
+- **Copay-program neutrality check (new gate):** post states PBS uses maximizers and that they help plans when run well; critique targets disclosure and the split only. ✓
 
-#### Visual Concept — The NON-ESSENTIAL Stamp
+#### Visual Concept — The Captured Card Split (clean conceptual flow infographic)
 
-**Concept:** One dramatized editorial scene, not a document. A life-sustaining specialty drug gets a bold red "NON-ESSENTIAL" rubber stamp slammed across it; in the soft-focus background a hand quietly drains a "copay assistance" card into a PBM slot. The outrage is the bureaucratic re-labeling of a life-saving drug. Business-magazine register. The red stamp is the memorable scene, the same way the W27 "Rebate Detour" route-map dramatized its reveal.
+**Concept:** One vertical flow. A manufacturer copay card at top, full annual value captured; the flow passes through a small gate labeled with the reclassification step; below the gate the single stream splits into two pipes, one labeled "YOUR PLAN" and one labeled "VENDOR FEE," and BOTH carry large question marks where the percentages should be. The argument is the missing numbers, not a villain scene. Business-clean, brand palette.
 
-**Format:** Single LinkedIn feed image, photorealistic editorial product photo. From Ginny's personal profile, so no Benefit Blind Spots badge.
+**Format:** Single LinkedIn feed image, flat design. From Ginny's personal profile, so no Benefit Blind Spots badge.
 
 **Dimensions:** 1080 x 1350 px (LinkedIn feed vertical 4:5)
 
-**Mobile legibility (mandatory):** at most 5 elements (drug box, red NON-ESSENTIAL stamp, hand + copay-assistance card, PBM slot, headline), large bold type, the red stamp dominating the center ~70% of the frame, readable at ~400px thumbnail.
+**Mobile legibility (mandatory):** at most 5 elements (card, gate, two split pipes with ?, headline), large bold type, the split dominating the center ~70% of the frame, readable at ~400px thumbnail.
 
 **AI Image Generation Prompt (copy-paste as-is):**
 
-> A photorealistic editorial product photo, 1080 x 1350 pixels (4:5 vertical), business-magazine register, dramatic soft side lighting on a dark desk surface, shallow depth of field. Center of the frame: a serious pharmaceutical specialty-drug box, clearly a life-sustaining biologic (a refrigerated auto-injector medical carton, obviously clinical, not a lifestyle pill bottle). A heavy red rubber stamp is slammed diagonally across the box reading "NON-ESSENTIAL" in bold red ink, the ink pressed hard and slightly smeared and imperfect. The red NON-ESSENTIAL stamp is the dominant element and must be legible at thumbnail size. In the soft-focus background, a hand quietly feeds a card printed "COPAY ASSISTANCE" into a slot on a plain gray metal box labeled "PBM." Clean negative space at top and bottom. No people's faces, no real brand names, no logos.
->
-> Overlaid headline across the top in two-tone IBM Plex Sans SemiBold: "They stamped a life-saving drug" in deep blue (#015880), then "NON-ESSENTIAL." in light blue (#A7E0FA) on the next line.
->
-> Overlaid footer line across the bottom in small IBM Plex Sans, off-white: "The copay card drains to the PBM. The deductible never moves." with "rxbs.org" small in the lower corner in IBM Plex Mono.
->
-> Style: rich editorial lighting, realistic paper and cardboard textures, shallow depth of field, red stamp ink dominating the center. Colors: deep blue and light-blue overlaid headline, bold red stamp, muted neutral background. The red NON-ESSENTIAL stamp across the drug box is the visual payload and must dominate the center of the frame and be legible at thumbnail size.
+> A clean flat-design infographic, 1080 x 1350 pixels (4:5 vertical), on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Top center: a large manufacturer copay assistance card icon in deep teal-blue outline labeled "COPAY CARD" in IBM Plex Sans SemiBold, with "FULL ANNUAL VALUE: CAPTURED" beneath it in IBM Plex Mono. A single thick light-blue (#A7E0FA) stream flows down from the card through a small rectangular gate labeled "reclassified: non-essential health benefit" in small gray text. Below the gate the stream SPLITS into two pipes of deliberately ambiguous width: the left pipe flows into a container labeled "YOUR PLAN" in Plex Sans SemiBold with a very large deep teal-blue question mark on it; the right pipe flows into a container labeled "VENDOR FEE" with an equally large question mark. The two question marks are the visual payload and must be legible at thumbnail size. Repeating small tick marks along the pipes for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Your copay program captured the card." in deep teal-blue, then "Who kept the money?" in light blue on the next line. Bottom footer line in small gray IBM Plex Sans: "Disclosed economics: a cost lever. Undisclosed: someone else's revenue." with "rxbs.org" in IBM Plex Mono in the lower corner. No gradients, no 3D, no photos, no people, no logos, no small print beyond the gate label.
 
 **Canva touch-up (no publication branding - LinkedIn feed posts come from Ginny's personal profile):**
-1. Overlay the two-tone headline and the footer in Canva if the generator mangles the type: headline in IBM Plex Sans SemiBold, "They stamped a life-saving drug" in Primary Blue (#015880) + "NON-ESSENTIAL." in Accent Blue (#A7E0FA); footer "The copay card drains to the PBM. The deductible never moves." in small IBM Plex Sans off-white, with rxbs.org in IBM Plex Mono. Keep the red stamp exactly as generated.
-2. If the AI misspells "NON-ESSENTIAL," "COPAY ASSISTANCE," or "PBM," overlay the correct text (red marker font for the stamp; matching label font for the card and slot).
+1. Overlay the two-tone headline and footer in Canva if the generator mangles type: "Your copay program captured the card." in Primary Blue (#015880) + "Who kept the money?" in Accent Blue (#A7E0FA), IBM Plex Sans SemiBold; footer in small gray Plex Sans with rxbs.org in Plex Mono.
+2. If the AI misspells "COPAY CARD," "YOUR PLAN," or "VENDOR FEE," overlay the correct labels in matching type.
 3. No "Benefit Blind Spots" badge. No PBS logo overlay. The image stands on its own.
-4. Run the mobile legibility check: preview at ~400px wide; enlarge anything hard to read; confirm the red NON-ESSENTIAL stamp and the two-tone headline are readable at thumbnail.
+4. Run the mobile legibility check: preview at ~400px wide; the two question marks and the two-tone headline must read at thumbnail.
 5. Export as PNG at 1080 x 1350.
 
 ---
@@ -691,9 +692,9 @@ Today's Field Note on Benefit Blind Spots is the operational follow-on to this p
 #### Reshare Copy
 
 ```
-A vendor can stamp your employee's life-sustaining specialty drug "non-essential," and that stamp deletes the out-of-pocket cap, then drains the manufacturer's full copay assistance back to the PBM. The deductible never moves. It is called a copay maximizer.
+Copay maximizers can genuinely help a self-funded plan. The mechanics still deserve your eyes: the captured manufacturer dollars get divided between the plan and the vendor, and most sponsors have never seen the split.
 
-Ginny Crisp reveals the mechanic, and how to find one on your plan.
+Ginny Crisp walks through the economics, and the one question to ask your vendor.
 
 #CopayCards #PlanSponsors #EmployeeBenefits
 ```
@@ -756,7 +757,7 @@ A CFO told me once that his PBM had reassured him rebates were "strong." I asked
 Spread pricing, in one sentence: what your plan paid for a claim and what the pharmacy received are two different numbers, and the PBM keeps the difference. It is legal because the contract's pricing definitions make it legal. It is invisible because no report your plan receives shows both numbers side by side. I wrote about it for Wendell Potter's HEALTH CARE un-covered last week, and the reaction that keeps coming back is the same: most plan sponsors learn their spread exists the day someone prices the same claims twice.
 
 **Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Tuesday LinkedIn audit-rights Sticky Note Dashboard image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_18_channel_pricing_audit_worksheet_preview.png]`
-The audit right most plans never use. It is in the contract from day one, the window expires every year, and the PBM never reminds you it exists. When we audit a plan that has never audited, we find findings. Every time. Pull the contract, find the audit clause, use the window before it closes.
+The audit right most plans never use. It is in the contract from day one, the window expires every year, and the PBM never reminds you it exists. When we audit a plan that has never audited, we uncover findings. Every time. Pull the contract, find the audit clause, use the window before it closes.
 
 **Afternoon (3-6 PM) — Origin Story:**
 A client's benefits committee asked me to explain rebate economics in "less than five minutes." I tried and failed. Rebate economics is a system, not a slide. After that meeting I built a one-page flow diagram: manufacturer at the top, PBM in the middle, plan at the bottom, arrows showing what gets retained where. The page landed better than my five-minute version. Sometimes the visual does what the words cannot.
@@ -781,22 +782,22 @@ Early in my career I thought "rebate" was a simple concept. Discount on a drug, 
 ## Thursday
 
 **Morning (7-8 AM) — Field Note Launch Teaser:**
-New field note: the program that reclassifies your member's specialty drug as "non-essential" to dodge the out-of-pocket cap, then drains the manufacturer copay card back to the PBM. Three checks a self-funded plan can run this quarter to find out whether one is bolted onto its plan.
+New field note: copay maximizers can genuinely help a self-funded plan, and we use them in client work. The part that deserves your eyes is the split: how much of every captured manufacturer dollar reaches the plan, and how much the vendor keeps. Three checks to get your own program's economics on paper this quarter.
 
 Read: [LINK]
 
 **Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_20_copay_card_financial_impact_calculator_preview.png]`
-The copay maximizer in this morning's field note drains the manufacturer card all year while the member's deductible stands still. The calculator that models what card dollars actually do to plan and member cost is free in the Toolkit Library at rxbs.org.
+This morning's field note is about your copay program's economics: the card's full annual value gets captured, then divided between the plan and the vendor. The calculator that models the math step by step is free in the Toolkit Library at rxbs.org.
 
-> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Two large horizontal progress bars stacked in the center with clear vertical spacing. Top bar labeled "MANUFACTURER COPAY CARD" in IBM Plex Sans SemiBold: nearly EMPTY, a thin light-blue (#A7E0FA) fill remaining at the left end with a battery-style icon and "12 months of draining" in Plex Mono small beneath it. Bottom bar labeled "MEMBER DEDUCTIBLE": fill at ZERO, marked "$0 PROGRESS" in Plex Mono at its left edge, the empty track in gray outline. A downward arrow between the bars connects the drained card to the unmoved deductible. Repeating small tick marks along both bar tracks for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The card got drained." in deep teal-blue, "The deductible didn't move." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Two large horizontal progress bars stacked in the center with clear vertical spacing. Top bar labeled "CARD VALUE CAPTURED" in IBM Plex Sans SemiBold: completely FULL, solid light-blue (#A7E0FA) fill, with "100%" in IBM Plex Mono at its right end. Bottom bar labeled "SHARE THAT REACHED YOUR PLAN": the fill replaced by a large deep teal-blue question mark centered on an empty gray-outlined track. A downward arrow between the bars. Repeating small tick marks along both bar tracks for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Captured: 100%." in deep teal-blue, "Reached your plan: ?" in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
 
 **Afternoon (3-6 PM) — Origin Story:**
 An audit I ran last year produced a rebate shortfall finding substantial enough that the PBM paid the true-up without disputing the methodology. The client was surprised. I was not. The contract's true-up provision was explicit, the data supported the calculation, and the PBM's own records validated the shortfall. Good contract language is self-enforcing when everyone respects the math. The audit is just the reminder.
 
 ## Friday
 
-**Morning (7-8 AM) — Reveal Note (copay maximizer; runs AFTER Thursday's LinkedIn post published):**
-A member's specialty drug got reclassified as a non-essential health benefit this year. Not by a doctor. By a program amendment. That label lifts the drug out of the ACA out-of-pocket cap, so the manufacturer copay card can be drained all year while the member's deductible does not move a dollar. The plan was sold it as a savings program. The member finds out in December. If you have never read your copay program amendment, that is the page to pull first.
+**Morning (7-8 AM) — Reveal Note (copay-program economics; runs AFTER Thursday's LinkedIn post published):**
+Your copay program captured the manufacturer card's full annual value this year. Somewhere in the fine print is the split: how much reached your plan, how much the vendor kept. Maximizers can be a real cost lever, and we use them in client work at Prescription Benefit Solutions. The difference between a lever and someone else's revenue stream is whether you have seen the split. If you have never read your copay program amendment, that is the page to pull first.
 
 **Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: generate per prompt below; fallback templates/documents/week_22_thursday_specialty_routing_audit_worksheet_preview.png]`
 Same drug, same dose: the administration setting changes the cost by multiples, not percentages. Next week on Benefit Blind Spots: site-of-care decoded, with a therapeutic-category decision tree for where infused drugs should actually be administered.
@@ -953,7 +954,7 @@ The rebate report shows you what they want you to add up. The definition page is
 **Thu Jul 23**
 - **9:00 AM · recipe / Copay maximizer (Tier B):** _(scheduled after the 8:30 AM LinkedIn copay-maximizer reveal per LinkedIn-first; amplifies Post 107, does not scoop it)_
 ```
-Copay maximizers: the accumulator's cousin. The PBM treats your member's copay card as the maximum benefit, drains the full year's value into its own pocket, and still counts none of it toward the deductible. Different name. Same hand, same pocket.
+Copay maximizers can genuinely help a plan. We use them. But the captured card dollars get split between the plan and the vendor, and most sponsors have never seen the split. One question for your vendor: of every dollar captured last year, how much reached us?
 ```
   First reply (link): rxbs.org/toolkit/copay-card-calculator
 - **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**

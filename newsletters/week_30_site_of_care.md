@@ -1047,7 +1047,7 @@ Spread pricing: your PBM bills your plan one price for a generic, pays the pharm
   - **First reply (link):** rxbs.org/toolkit/pbm-compensation
 - **10:00 AM · copay maximizer vendor (SaveOnSP-style) (Tier A):**
 ```
-There's a vendor whose entire job is to reclassify your member's specialty drug as "non-essential" so the manufacturer's copay cap comes off, then drain the full year of assistance to the PBM. It's a program with a name and a contract. Ask if one is bolted onto your plan.
+A vendor program on many plans reclassifies specialty drugs as "non-essential health benefits" and captures the copay card's full annual value. Done right, that is real plan savings. It runs in your plan's name. Ask what share your plan actually received.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
