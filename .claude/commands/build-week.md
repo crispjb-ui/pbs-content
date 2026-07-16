@@ -34,6 +34,9 @@ Check `wendell_potter_cascade_alignment.md` + `wendell_potter_contributorship_st
 ## Step 4 — Generate from the template
 Copy `newsletters/templates/week_build_template.md` to `newsletters/week_NN_<slug>.md` and fill every PART. Keep the section order. All paste-ready blocks in fenced code blocks. Hashtags 3/post per the pillar+anchor rule. No em-dashes as separators; PBS not RXBS; Ginny Crisp, PharmD.
 
+## Step 4b — Practitioner's Note paid block (every deep dive, added Jul 16, 2026, Brett-approved)
+Draft ONE Practitioner's Note (4-8 sentences) into PART 1, placed after the framework/"how to use" section and BEFORE the closing engagement question, wrapped in the standard 🔒 PAID AUDIENCE BLOCK markers (see W29-W37 for the pattern; the wrapper exists so the publisher never pastes it into the free body — it goes into a Substack audience-specific block, Paid + Founding). Content = the from-the-negotiating-table layer the free article deliberately does not cover (the pushback line, the counter-move, the concession order), qualitative only (no invented numbers), anonymized, with the standing note for Ginny to verify the table detail against her real experience before publish. Never gate tools, frameworks, the quotable answer lead, or anything a first comment promises. Rationale: articles stay 100% free (AI-citation surface); paid conversion at PBS's scale is a high-intent-lead signal (log who converts).
+
 ## Step 5 — Build the Run of Show
 Fill `## Weekly Run of Show` as a publish-order table with a **Where** column pointing to each item's section/Post number. Reconcile every row to the content you actually built (no drift). `⚠` any open item — never leave a silent gap (e.g., a slot with no live post).
 

@@ -168,6 +168,14 @@ For each program, request: the specific savings methodology with a sample calcul
 
 Your broker or consultant can help interpret the data. The best advisory teams are already requesting this level of detail. If yours has not, share this scorecard with them. For how this clinical-program verification fits inside a full contract audit, see our [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness).
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** Ask a PBM for the savings methodology behind a clinical program and the first deliverable is usually a glossy restatement of the headline. The move that works: ask for one member-level worked example, de-identified, showing the baseline, the intervention, and the calculation. A single worked example forces the assumptions into the open, and the baseline choice is where most of the inflation lives. We have watched reported program ROI change materially when the baseline moved from the list price of the drug avoided to the net cost of the therapy actually substituted. Ask for the worked example before renewal, not after.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 Have you audited your PBM's clinical program savings? Leave a comment below.
 
 ---

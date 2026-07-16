@@ -253,6 +253,14 @@ Let the PBM present their H1 analysis first, then compare it to yours. Ask where
 
 We have been building toward this for 13 weeks. The preparation is the strategy. The renewal is just the meeting where you execute it.
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** The most useful thing to bring to the first renewal meeting is a question the PBM cannot answer well: walk us through the variance between our guaranteed and delivered rates, line by line. A prepared plan already knows the answer from its own data; the point is watching how the account team handles it. A team that engages the variance honestly is one you can negotiate with. A team that pivots to next year's improved offer has just told you the current contract's performance is indefensible, and that is your leverage, stated in their words.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 ---
 
 *For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*

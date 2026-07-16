@@ -160,6 +160,14 @@ After scoring, rank the eight levers by improvement opportunity score (highest f
 
 Specialty management is not a one-time evaluation. New specialty drugs launch quarterly. Biosimilar competition evolves. Clinical pathways update. This assessment should be repeated at minimum annually, ideally at mid-year and pre-renewal.
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** When we ask a PBM to justify specialty routing, the answer is always clinical: adherence support, side-effect management, hub services. The table move is to accept the clinical case and ask for the financial one in the same breath: acquisition cost, dispensing fee, and any affiliate margin on your top specialty claims, side by side with an independent specialty pharmacy quote. The clinical services are real. So is the margin. Plans that get both on one page end up negotiating carve-out rights even when they never use them, because the option itself changes the pricing.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 Have you scored your plan's specialty management? Leave a comment below.
 
 ---
