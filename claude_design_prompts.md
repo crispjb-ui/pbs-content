@@ -783,6 +783,16 @@ Plug in: SECTION REFERENCE, TITLE, SUBTITLE, [N] ENTRIES (term name + one-line d
 
 ---
 
+## 22. Pipe Manifold — one spotlit stream (PROVEN RENDER, Jul 2026; Brett-endorsed)
+
+**What it is:** clean flat-design conceptual infographic. One source object at top (contract, invoice, report), N gray pipes flowing out of it, exactly ONE pipe lit in Accent Blue (#A7E0FA) with a spotlight cone, each pipe labeled in vertical Plex Sans SemiBold. Two-tone headline states the asymmetry ("You audit one stream. They run five."). First generated for the W29 Saturday visual note (PBM compensation streams) and rendered clean on the first pass, including the rivet-dot texture and vertical labels.
+
+**When to reach for it:** any PARTIAL-VISIBILITY argument — the plan sees/audits/receives one channel while N run: rebate definition covering one payment type, audit scope reaching one record set, reporting showing one metric, disclosure covering one fee. The lit-vs-gray contrast carries the thesis before any label is read, which makes it one of the strongest thumbnail-legible shapes in the catalog.
+
+**Prompt skeleton:** white background, brand palette only (#015880 / #A7E0FA / #4D4D4D); source icon top-center labeled in Plex Sans SemiBold; N pipes flowing down, one in light blue with a spotlight cone, the rest gray fading darker toward the bottom edge; vertical labels on each pipe; rivet dots along pipes for texture (object-attached texture only — never a free-floating glyph row, see the Jul 16 percent-strip lesson); two-tone headline top; small gray footer + rxbs.org in Plex Mono. 1080x1350.
+
+**Dedup note:** counts as its own visual shape for the ~4-week visual-composition dedup (distinct from Bypass/Funnel, which shows money ROUTING AROUND a gate; the manifold shows one-of-N VISIBILITY).
+
 ## Hybrid format summary and production cost
 
 | Format | Best for | First build | Subsequent builds |
