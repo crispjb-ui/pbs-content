@@ -191,6 +191,14 @@ Total: 90 points possible. Below 50: significant concerns. 50-70: competitive bu
 
 The full 30-question bank with all scoring details is in this article. Your broker can use it alongside their standard RFP template to add a layer of specificity that standard templates lack. For how the same specificity carries into the contract once a PBM is selected, see our [Contract Review Readiness Checklist](https://www.rxbs.org/toolkit/contract-review-readiness).
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** The most predictable moment in a PBM RFP is the incumbent's final round. When the scoring shows them behind, the response is a late concession package, usually delivered straight to the CFO, around the process. Decide how you will handle it before the RFP opens: our standing language is that late offers reprice the incumbent's bid inside the same scoring rubric, nothing more. The rubric is the leverage. An incumbent that suddenly finds substantial savings the week it might lose the account has answered the most important question in the RFP.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 Have you evaluated PBM proposals using a structured scoring rubric? If you have a question you always ask that is not on this list, I would love to hear it. Leave a comment below.
 
 ---

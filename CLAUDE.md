@@ -276,6 +276,7 @@ LINKEDIN TEASE HOOK (8:30 AM Fri) - Text post teasing next Monday's content
 - **5-6 bold section headers** (not 20+ italic sub-headers)
 - **Actionable tool integrated** into the article body (template, checklist, walkthrough, scorecard)
 - **Engagement CTA at end:** question to reader + share prompt + subscribe prompt
+- **Practitioner's Note paid block (added Jul 16, 2026, Brett-approved; W29 forward):** one 4-8 sentence paid-only audience block (Paid + Founding) per deep dive, placed after the framework and BEFORE the closing engagement question. Content = the from-the-table layer (the pushback line, the counter-move, the concession order), qualitative, anonymized, Ginny-verified before publish. The article itself stays 100% free (never gate tools, frameworks, or the quotable answer lead — the AI-citation surface is untouchable). In week files the note is wrapped in 🔒 PAID AUDIENCE BLOCK markers so it is never pasted into the free body; it goes into a Substack audience-specific block at that spot. Measured by WHO converts (high-intent-lead signal, logged like leads), not revenue. Refines (does not lift) the Jul 3 paid-Substack hold; Ginny may veto (DECISIONS_FOR_GINNY.md 10b).
 - **Minimal horizontal rules** (2-3 max, not between every section)
 - **SEO subtitle** on every article
 

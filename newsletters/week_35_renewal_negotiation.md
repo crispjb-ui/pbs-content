@@ -173,6 +173,14 @@ Print this list. Mark which provisions your current contract covers. Mark which 
 
 The employers who do this negotiate measurably different outcomes. Every time.
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** The renewal lever most sponsors never use is the calendar. PBM account teams are staffed for a fourth-quarter crush, and a plan that opens its term-sheet conversation in July gets a different quality of response than one that opens in October. What works: send your marked-up provision list with a response deadline BEFORE the PBM's own renewal packet arrives. Whoever's paper is on the table first frames the negotiation. When the packet shows up, it becomes a response to your terms instead of the other way around.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 ---
 
 *For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*

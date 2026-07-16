@@ -158,6 +158,14 @@ Site-of-care optimization crosses the pharmacy/medical benefit boundary. The dru
 
 Your broker can help coordinate this across vendors. The best brokers are already flagging site-of-care opportunities in claims reviews. The contract provisions that enable site-of-care steering (preferred network designation, tiered cost-sharing by setting, medical necessity criteria for hospital outpatient) should be part of your PBM and medical plan contract language. The protective versions of the specialty-routing and site-of-care provisions are documented in our [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library).
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** When we bring a site-of-care proposal to a plan, the pushback is almost never clinical. It is "we cannot disrupt members." What works at the table: split the program into new starts and existing patients. New starts feel like policy rather than disruption, and they build the reference cases that make the existing-patient conversation easy months later. Ask which infusion drugs already have approved home or office pathways and start with that list; it removes the prior-authorization fight entirely. The programs that stall are the ones that tried to move everyone at once.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 Have you evaluated site-of-care for your plan's infusion therapies? If you have implemented a policy, I would love to hear how it went. Leave a comment below.
 
 ---

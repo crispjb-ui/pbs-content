@@ -161,6 +161,14 @@ This is designed as a reference document. Print it. Bring it to your next contra
 
 Pull your contract. Read each of these ten provisions (or note where they are absent). Compare your language to the three versions. Mark whether yours is weak, moderate, or strong. The provisions marked weak or absent are your negotiation priorities. Share this comparison with your broker and benefits counsel. Walk into renewal with specific language you want changed. The full protective wording for each provision lives in the [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library) that Prescription Benefit Solutions keeps current from the contract reviews we run all year.
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** A pattern from the table: PBMs concede red-flag provisions in a predictable order. Definitions language moves first, because it looks cosmetic to their side. Audit rights move second. Termination language moves last, because termination is the only clause that prices their risk of losing the account. Use the order. Open with the definitions and audit asks, bank the early yeses, and save termination-for-convenience for the point in the negotiation where the PBM needs to close. Asking for termination first hardens the room. Asking for it last, after momentum, is how it actually gets signed.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 ---
 
 *For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*

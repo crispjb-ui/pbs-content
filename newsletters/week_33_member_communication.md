@@ -177,6 +177,14 @@ For each scenario, the sequence is: provider communication first (60 days), memb
 
 Your broker can help coordinate the timing and review the messaging. The best advisory teams treat communication as a deliverable in the implementation plan, not an afterthought. For the contract language that obligates the PBM to support these transitions, see our [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library).
 
+🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
+
+_Publisher: paste the article body AROUND this block. At this exact spot in the Substack editor, insert an **audience-specific block** (audience: **Paid + Founding**) and paste ONLY the quoted note below inside it. Ginny: verify the from-the-table detail is true to your experience before publish; swap in your real recollection where it is not._
+
+> **Practitioner's Note (paid):** The communication piece plans get wrong most often is not the announcement letter. It is the pharmacy counter. Members do not call HR first; they hear "your plan changed" from a pharmacist mid-fill. What works: write the counter-facing talking points WITH the PBM before go-live and make them a named deliverable in the implementation plan, with an owner. Ask the PBM directly who briefs the retail network and when. If the answer is "the claims system handles it," the January escalations are already scheduled.
+
+🔒🔒🔒 **END PAID BLOCK — free article body resumes below.** 🔒🔒🔒
+
 Have you implemented a pharmacy change where the communication made or broke the outcome? Leave a comment below.
 
 ---
