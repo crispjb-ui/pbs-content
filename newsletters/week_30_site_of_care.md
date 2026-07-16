@@ -40,7 +40,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 29 | 7:00 PM | X | question [A4] | PART 4B · Wed | [ ] |
 | Wed Jul 29 | 8:30 PM | X | aphorism [C10] | PART 4B · Wed | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "Where Does Your Specialty Script Actually Get Filled?" | PART 1B | [ ] |
-| Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: Mid-Summer Plan Check-In | PART 2B | [ ] |
+| Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: "Bring Me One Line You Don't Recognize" (resharpened Jul 16) | PART 2B | [ ] |
 | Thu Jul 30 | 8:00 AM | X | recipe / The REMS excuse (Tier B) | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, one-way turnstile conceptual infographic) | Post 111 | [ ] |
 | Thu Jul 30 | 10:05 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
@@ -435,7 +435,9 @@ _Toolkit is the existing live `rxbs.org/toolkit/specialty-routing` page (reused,
 
 # PART 2B: ADDITIONAL SUBSTACK CONTENT (This Week)
 
-## Monthly Q&A Thread #4: Mid-Summer Plan Check-In
+## Monthly Q&A Thread #4: Bring Me One Line You Don't Recognize
+
+_Resharpened Jul 16, 2026 (Brett-approved): the original "Mid-Summer Plan Check-In" AMA was drafted at a quarter of the current audience. The concrete decode-one-line invitation gives the badge-wave newcomers a specific reason to comment; every question feeds `/question-harvest`, the anxiety map, and the I-family X posts._
 
 **Publish:** Thursday, July 30, 2026 (last Thursday of July)
 **Format:** Substack Discussion Thread (not an article)
@@ -445,20 +447,23 @@ _Toolkit is the existing live `rxbs.org/toolkit/specialty-routing` page (reused,
 
 ### Ready-to-Publish Content
 
-**Thread Title:** Ask Me Anything: Mid-Summer Plan Check-In
+**Thread Title:** Bring Me One Line You Don't Recognize
 
 **Thread Body:**
 
-Midway through the year, midway through renewal prep. This month's Q&A is focused on what should already be in motion by now.
+Renewal packets and mid-year reports are landing right now, and nearly every one contains a line the plan is not meant to linger on.
 
-Questions I can help with:
-- What H1 claims data should be telling you
-- Whether your PBM's mid-year report is surfacing the right things
-- Where stop-loss coordination and pharmacy strategy need to intersect before Q4
-- What you should already be asking in quarterly review meetings
-- RFP decisions that need to be locked this quarter to meet Jan 1 renewal timing
+So this month's thread is specific: paste one line from your PBM contract, renewal packet, or quarterly report that you do not fully recognize (scrub the drug names and dollar amounts), and I will decode it: what it means, why it is written that way, and what to ask about it.
 
-Drop your questions below. I will answer every one this week.
+Fair game:
+- A defined term that seems to be doing a lot of work ("pass-through," "rebate," "generic," "competitive")
+- A fee line on the invoice you cannot map to a service
+- A guarantee you are not sure how you would verify
+- Anything in the mid-year report that answers a different question than the one you asked
+
+If you would rather not paste contract language publicly, describe it in your own words, or reply to any of our emails and I will decode it here anonymized.
+
+I will answer every one this week. And to the many of you who joined this month: welcome. This thread is the fastest way to see how we read these documents.
 
 ### Preview Image Prompt
 
