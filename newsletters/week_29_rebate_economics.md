@@ -720,15 +720,13 @@ Ginny Crisp walks through the economics, and the one question to ask your vendor
 #### Post Copy
 
 ```
-Same infusion. Same drug. Same dose. Same clinical outcome.
+The most expensive line item in some claims files is not a drug. It is an address.
 
-Hospital outpatient department: one price. Ambulatory infusion center: a fraction. Home infusion: lower still.
+An infusion delivered in a hospital outpatient department can cost a plan multiples of the identical infusion delivered in a physician office or the member's living room. The medicine does not change. The facility fee does. And the default setting was picked by the provider network or by inertia, never by the employer footing the difference.
 
-The setting where a drug gets administered can change the cost by multiples. Not percentages. Multiples. And the default setting for most plans was chosen by the PBM or the provider network, not by the employer.
+In the claims we review at Prescription Benefit Solutions, site-of-care is routinely the largest untouched lever in drug spend, because it sits where the pharmacy and medical benefits meet, and those two rarely talk to each other.
 
-Site-of-care is the cost lever that crosses the pharmacy and medical benefit boundary. Most employers have never evaluated it because it requires coordinating two benefits that rarely talk to each other.
-
-Next week: site-of-care optimization, and the decision tree by therapeutic category.
+Next Monday: site-of-care optimization, and the decision tree by therapeutic category.
 
 #PharmacyCosts #SiteOfCare #SelfFundedEmployers
 ```

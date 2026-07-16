@@ -407,7 +407,7 @@ Paste-ready (use the GitHub copy button on the code block to preserve numbers + 
 ```
 New issue of The Pharmacy Benefits Briefing.
 
-Same drug. Same dose. Same clinical outcome. In a hospital outpatient department the claim runs two to five times higher than in a physician office or the member's home, and the difference is the facility fee the hospital bills for the chair, not the medicine.
+A hospital outpatient department can bill two to five times more for an infusion than a physician office or the member's home. The medicine is identical. The difference is the facility fee the hospital bills for the chair.
 
 Most plans pay the hospital rate by default, because no site-of-care policy exists on the books to say otherwise. This briefing walks through the cost gap by setting, four therapeutic categories where site-of-care moves the most dollars, and the decision tree to build.
 
@@ -601,7 +601,7 @@ _Preserved for re-slotting on a non-clip Wednesday (cost-containment / site-of-c
 #### Post Copy
 
 ```
-Same infusion. Hospital outpatient: one price. Home infusion: a fraction. Same drug. Same outcome.
+Same infusion. Hospital outpatient: one price. Home infusion: a fraction. The drug never changed. The building did.
 
 Where a drug gets administered or dispensed is rarely an accident, and the FTC put numbers on why. In its January 2025 staff report, the FTC found the big-3 PBMs marked up more than one in five specialty generics by over 1,000 percent at the pharmacies they own, generating $7.3 billion above what those drugs actually cost them. Not brand drugs. Generics. At the pharmacy the PBM steers your members toward.
 
@@ -625,7 +625,7 @@ One analysis: compare your top infusion drugs by total cost (drug plus administr
 **Script:**
 
 [Camera.]
-"Same infusion. Hospital outpatient: one price. Home infusion: a fraction. Same drug. Same outcome."
+"Same infusion. Hospital outpatient: one price. Home infusion: a fraction. The drug never changed. The building did."
 
 [Pause.]
 "The setting can change the cost by multiples. Not percentages. Multiples."
