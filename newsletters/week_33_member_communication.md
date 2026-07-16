@@ -587,7 +587,7 @@ Ginny Crisp walks through the five clauses and the redline brokers should bring 
 #### Post Copy
 
 ```
-Two employers ran the same adalimumab biosimilar switch last year. Same drug. Same PBM. Same clinical rationale. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. Zero.
+Two employers ran the same adalimumab biosimilar switch last year, same drug, same PBM, same clinical rationale. One generated a wave of member complaints and prescriber pushback. The other had zero complaints. Zero.
 
 The disconnect was not the clinical decision. It was the communication. You can save your plan six figures moving from Humira to a biosimilar and still have members convinced you took away their medication.
 
