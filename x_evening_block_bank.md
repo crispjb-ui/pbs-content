@@ -295,6 +295,48 @@ The [FTC action] names the practice. Your contract is where you find out if you'
 
 ---
 
+## G · TABLE SCENE (5 PM slot — alternates with the punchy pool; added Jul 16, 2026, Brett-directed diversification)
+
+_Micro-stories, 2-4 arrhythmic lines, the Practitioner's Note energy in X form. These are pattern-composites from PBS work: **Ginny confirms each scene rings true (or swaps in a real detail) before it schedules** — the Humanize bar applies. No dollar figures unless verified._
+
+**[G1]** The quietest moment in any contract review is when we put the definitions page next to the guarantees page. Same word, two meanings, and the room notices which one gets paid.
+
+**[G2]** A benefits director asked why the renewal packet arrived 45 days before the deadline instead of 180. Nobody at the table had an answer. The calendar is a negotiating tool, and only one side was using it.
+
+**[G3]** We asked which fees on the invoice were negotiable. The honest answer, after a pause: the ones you ask about.
+
+**[G4]** Renewal season tell: when the deck spends ten slides on rebate growth and one line on net cost, read the one line twice.
+
+**[G5]** The fastest way to end a "market-competitive pricing" conversation: ask what market, measured how, by whom. Three questions. Usually zero answers.
+
+## H · REDLINE (7 PM slot — alternates with the question pool; first reply links the Contract Language Library)
+
+_One weak clause, quoted; one ask. The Library NN carousel in a single post. Rotate provision families; never the same family inside 2 weeks._
+
+**[H1]** Your contract: "PBM will provide competitive generic pricing." The redline: a named GER floor, a measurement period, a true-up. "Competitive" is not a number.
+
+**[H2]** Your contract: "audit upon reasonable notice." The redline: 30 days written notice, your auditor, all records, findings binding. "Reasonable" means whoever defines it wins.
+
+**[H3]** Your contract: "PBM will pass through all rebates." The redline: all manufacturer revenue, defined to include admin fees and price protection. The definition is the money.
+
+**[H4]** Your contract: "PBM will cooperate in transition activities." The redline: complete claims history, standard format, 30 days, no fee. "Cooperate" has no deadline.
+
+**[H5]** Your contract: auto-renewal unless you give notice 180 days out. The redline: renewal by mutual written agreement only, with the PBM required to flag the deadline 270 days ahead. Silence should not be a signature.
+
+## I · READER QUESTION (8:30 PM slot — alternates with the aphorism / one-question pools)
+
+_Real audience questions (DMs, comments, `/question-harvest`), anonymized, answered in 3-4 lines. As real questions accrue via the harvest, they replace these seeds — this family is the one designed to grow from the audience itself._
+
+**[I1]** A reader asked: is spread pricing illegal? No. It is contractual. That is the uncomfortable part. The remedy is not a regulator, it is your own pricing exhibit.
+
+**[I2]** A reader asked how long a PBM audit takes. The audit: weeks. Getting the records: that is the fight. Which is why the records clause matters more than the audit clause.
+
+**[I3]** A reader asked whether switching PBMs is worth the disruption. Sometimes it is not. The better first question: have you priced staying, accurately? Most plans never have.
+
+## Family-variety rule (added Jul 16, 2026 — the anti-recycling layer on top of the 2-week dedup)
+
+The dedup rule stops repeats; this stops monotony. **(1)** No two evening posts on the SAME DAY from the same family. **(2)** Across any week, the evening slots draw from at least FIVE distinct families (A/B/C/D/E/F/G/H/I). **(3)** A/B/C items now carry a soft retirement bar: any body that has shipped twice retires until `/system-audit` rewrites it fresh. **(4)** `/system-audit` (monthly) adds at least 2 new entries per family — sourced from that month's week files, `shocking_fact_bank.md` promotions, and `/question-harvest` — and logs retirements, so the pools GROW faster than they cycle. The W30+ tracker rows below predate this rule: when scheduling those weeks, swap roughly one 5 PM punchy → G, one 7 PM question → H, and one 8:30 PM aphorism → I per week (respecting rule 1-2) rather than following the old rows verbatim.
+
 ## Rotation tracker (update as items ship so nothing repeats inside 2 weeks)
 
 | Week | 7 PM items used | 8:30 PM items used |
