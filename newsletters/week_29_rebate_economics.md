@@ -181,7 +181,7 @@ I developed this framework because the rebate provisions in PBM contracts are th
 
 Pull your current PBM contract. Find each of these eight provisions (or note their absence). Compare your language to the weak and strong versions above. Where your contract uses weak language, you have a renewal negotiation priority. Where provisions are absent entirely, the PBM has no contractual obligation. Your broker or benefits counsel can help you draft strong language for each priority.
 
-This framework is designed as a reference document for renewal negotiations. Print it. Bring it to the meeting. Mark up your current contract against it. The comparison speaks for itself. The full protective language for each of these eight rebate provisions also lives in the [PBM Contract Language Library](https://www.rxbs.org/contract-language-library) published by Prescription Benefit Solutions, which we update from the patterns we see in client contract reviews.
+This framework is designed as a reference document for renewal negotiations. Print it. Bring it to the meeting. Mark up your current contract against it. The comparison speaks for itself. The full protective language for each of these eight rebate provisions also lives in the [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library) published by Prescription Benefit Solutions, which we update from the patterns we see in client contract reviews. _(Publisher note: re-point this link to `https://www.rxbs.org/contract-language-library` once the Wix page is live — the standing deferred-swap trigger.)_
 
 Have you compared your rebate provisions to strong language benchmarks? If you have done this analysis, I would love to hear what you found. Leave a comment below.
 

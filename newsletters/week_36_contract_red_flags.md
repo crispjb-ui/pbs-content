@@ -159,7 +159,7 @@ This is designed as a reference document. Print it. Bring it to your next contra
 
 **How to use this library**
 
-Pull your contract. Read each of these ten provisions (or note where they are absent). Compare your language to the three versions. Mark whether yours is weak, moderate, or strong. The provisions marked weak or absent are your negotiation priorities. Share this comparison with your broker and benefits counsel. Walk into renewal with specific language you want changed. The full protective wording for each provision lives in the [PBM Contract Language Library](https://www.rxbs.org/contract-language-library) that Prescription Benefit Solutions keeps current from the contract reviews we run all year.
+Pull your contract. Read each of these ten provisions (or note where they are absent). Compare your language to the three versions. Mark whether yours is weak, moderate, or strong. The provisions marked weak or absent are your negotiation priorities. Share this comparison with your broker and benefits counsel. Walk into renewal with specific language you want changed. The full protective wording for each provision lives in the [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library) that Prescription Benefit Solutions keeps current from the contract reviews we run all year.
 
 ---
 
