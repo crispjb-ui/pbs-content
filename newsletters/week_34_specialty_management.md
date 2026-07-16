@@ -48,7 +48,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Aug 28 | 10:00 AM | LI Feed | Post 128 — Tease Hook (teases W35 Renewal Negotiation) | Post 128 | [ ] |
 | Fri Aug 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 28 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
-| Fri Aug 28 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 28 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 28 | 7:00 PM | X | question [A2] | PART 4B · Fri | [ ] |
 | Fri Aug 28 | 8:30 PM | X | origin-anchored [D3] | PART 4B · Fri | [ ] |
 | Sat Aug 29 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
@@ -57,14 +57,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Aug 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 2:30 PM | X | dispensing fee spread (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Aug 29 | 7:00 PM | X | question [A3] | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 8:30 PM | X | aphorism [C3] | PART 4B · Sat | [ ] |
 | Sun Aug 30 | 8:00 AM | X | recipe / Specialty routing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 10:00 AM | X | price protection reclassification (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 2:30 PM | X | copay accumulator (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
-| Sun Aug 30 | 7:00 PM | X | question [A4] | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 8:30 PM | X | one question [B3] | PART 4B · Sun | [ ] |
 
 ---
@@ -923,9 +923,9 @@ Somewhere on your invoice sits a network access fee. The network is mandatory. T
 ```
 Three companies stand between nearly every American prescription and the plan that pays for it. Each owns the retail counter, the mail slot, and the rebate desk. Competition was the theory.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-Spread, rebate, fee. Three revenue streams, one prescription, and a sales pitch that mentioned exactly one of them.
+Specialty is a sliver of the claims and half the spend, and in most quarterly reviews it gets one slide. The agenda is a map of what nobody wants examined.
 ```
 - **7:00 PM · question post [A2]:**
 ```
@@ -961,9 +961,9 @@ Compare the dispensing fee your plan pays at the PBM's mail pharmacy against the
 ```
 Specialty is single digits of your scripts and about half your pharmacy spend. It's also the part of your plan with the least independent oversight. The size and the blindness are not a coincidence.
 ```
-- **7:00 PM · question post [A3]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-What percentage of your specialty spend runs through a pharmacy your PBM owns? If it takes more than a week to get the answer, that is finding number one. If the answer is "almost all of it," that is finding number two.
+Your contract: "PBM may substitute biosimilars where appropriate." The redline: lowest-net-cost option preferred within 60 days of launch, with a net-cost comparison you can see. "Appropriate" should mean cheapest for the plan, in writing.
 ```
   First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C3]:**
@@ -995,9 +995,9 @@ Accumulator terms surface in January, when a member finds the copay card paid al
 ```
 The first PBM contract I read took me a weekend and three highlighters. The tenth took an afternoon. They stop being complicated once you learn the pattern: every section is fair until a definition makes it not.
 ```
-- **7:00 PM · question post [A4]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-Does your audit clause let you choose the auditor? Start there. If the answer is no, every other audit provision in the contract is decoration.
+A reader asked why specialty trend outruns everything else on their plan. Look at three lines: where the drugs are dispensed, who owns that pharmacy, and which benefit the claim lands under. Trend is often routing wearing a costume.
 ```
   First reply → The five clauses that fix it: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B3]:**

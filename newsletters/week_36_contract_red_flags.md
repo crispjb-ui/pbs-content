@@ -41,7 +41,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Sep 11 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Fri | [ ] |
 | Fri Sep 11 | 10:00 AM | LI Feed | Post 136 — Tease Hook (teases Week 37) | Post 136 | [ ] |
 | Fri Sep 11 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Sep 11 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Sep 11 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Sep 11 | 7:00 PM | X | question [A16] | PART 4B · Fri | [ ] |
 | Fri Sep 11 | 8:30 PM | X | origin-anchored [D5] | PART 4B · Fri | [ ] |
 | Sat Sep 12 | 8:00 AM | X | recipe / White bagging (Tier A weekend Cuban-bait) | PART 4B · Sat | [ ] |
@@ -49,14 +49,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Sep 12 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Sep 12 | 2:30 PM | X | mid-year formulary change (Tier A) | PART 4B · Sat | [ ] |
 | Sat Sep 12 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Sep 12 | 7:00 PM | X | question [A1] | PART 4B · Sat | [ ] |
+| Sat Sep 12 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Sep 12 | 8:30 PM | X | aphorism [C9] | PART 4B · Sat | [ ] |
 | Sun Sep 13 | 8:00 AM | X | recipe / Copay accumulator (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 10:00 AM | X | spread pricing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 2:30 PM | X | mail-order steering (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
-| Sun Sep 13 | 7:00 PM | X | question [A2] | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 8:30 PM | X | one question [B9] | PART 4B · Sun | [ ] |
 
 _Substack Notes (3/day) schedule straight down PART 4 in day order. Launch teasers: Mon (deep dive), Wed (roundup), Thu (field note)._
@@ -860,9 +860,9 @@ A client's invoice at renewal: the headline admin fee "held flat," and three new
 ```
 Guarantee red flag: "measured in aggregate across all channels." Retail markups netted against mail discounts at a pharmacy the PBM owns. One blended number, engineered to pass every year.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-The renewal deck has a slide for everything except the two numbers that matter: what the PBM paid, and what the PBM kept.
+Red flags cluster. The contract with the vague rebate definition usually carries the soft audit clause and the auto-renewal too. Weak language travels in groups, because one drafter wrote all of it.
 ```
 - **7:00 PM · question post [A16]:**
 ```
@@ -898,9 +898,9 @@ Red flag in the definitions section: "formulary" means the list "as amended from
 ```
 "Full transparency" lives in the PBM's marketing. "Proprietary and confidential" lives in the contract. Only one of those is enforceable.
 ```
-- **7:00 PM · question post [A1]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-Two numbers exist for every generic claim your plan paid: what you were billed, and what the pharmacy actually received. Have you ever seen them side by side? The distance between them has a name, and your report will never print it.
+Your contract: "MAC pricing shall be determined by PBM's proprietary methodology." The redline: named benchmark, update frequency, appeal rights with deadlines. A price you cannot appeal is not a price. It is a verdict.
 ```
   First reply → Here is how to find it on your own claims: rxbs.org/toolkit/pbm-compensation
 - **8:30 PM · aphorism [C9]:**
@@ -932,9 +932,9 @@ The refill-too-soon edits, the 90-day copay incentives, the "convenience" letter
 ```
 The first PBM contract I read took me a weekend and a legal dictionary. Now one takes an afternoon. The language never got clearer. I just learned where the money hides, and that map is what I hand to clients.
 ```
-- **7:00 PM · question post [A2]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-"Of what?" is the entire rebate audit. 100% pass-through of rebates received. Received by whom? After which affiliate took its cut? Two follow-up questions, and most rebate guarantees get very quiet.
+A reader asked if a bad contract can be fixed mid-term. Sometimes, at a price. The amendment window exists, but leverage lives at renewal. Fix the calendar first, then the clauses.
 ```
   First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B9]:**

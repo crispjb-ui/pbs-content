@@ -49,7 +49,7 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Fri Aug 14 | 10:00 AM | LI Feed | Post 120 — Tease Hook (teases W33) | Post 120 | [ ] |
 | Fri Aug 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 14 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
-| Fri Aug 14 | 5:00 PM | X | punchy | PART 4B · Fri | [ ] |
+| Fri Aug 14 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 14 | 7:00 PM | X | question [A4] | PART 4B · Fri | [ ] |
 | Fri Aug 14 | 8:30 PM | X | origin-anchored [D1] | PART 4B · Fri | [ ] |
 | Sat Aug 15 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
@@ -58,14 +58,14 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Sat Aug 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Aug 15 | 2:30 PM | X | rebate aggregator (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 15 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
-| Sat Aug 15 | 7:00 PM | X | question [A5] | PART 4B · Sat | [ ] |
+| Sat Aug 15 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Aug 15 | 8:30 PM | X | aphorism [C7] | PART 4B · Sat | [ ] |
 | Sun Aug 16 | 8:00 AM | X | recipe / White bagging (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 10:00 AM | X | DIR fees (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 2:30 PM | X | specialty routing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
-| Sun Aug 16 | 7:00 PM | X | question [A6] | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 8:30 PM | X | one question [B7] | PART 4B · Sun | [ ] |
 
 ---
@@ -907,9 +907,9 @@ Ask your PBM how a drug earns the label "specialty." There is no federal definit
 ```
 Same drug, three prices: AWP for the guarantee, MAC for the pharmacy, WAC for the rebate math. Your PBM speaks all three languages and bills in whichever one pays it best.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G-fresh] (Jul 16 diversification, swaps the punchy pool; Ginny ring-true check applies):**
 ```
-In a PBM contract, an undefined term is not sloppy drafting. It is inventory.
+Bring a calculator to the QBR. The savings slides are built for a room that never multiplies, and the meeting changes the first time someone does.
 ```
 - **7:00 PM · question post [A4]:**
 ```
@@ -945,9 +945,9 @@ Between the manufacturer's rebate check and your "100% pass-through" sits a comp
 ```
 I read PBM contracts for a living. The hard part is not the complexity. It is that the document is engineered to exhaust the person paying for it.
 ```
-- **7:00 PM · question post [A5]:**
+- **7:00 PM · redline [H-fresh] (Jul 16 diversification, swaps the question pool; first reply -> the Contract Language Library):**
 ```
-Your PBM handed you a reporting portal at implementation. Who on your team logged in last month? If the answer is nobody, the PBM is the only party watching your plan's claims, and it knows that.
+Your contract: "PBM will administer prior authorization consistent with clinical guidelines." The redline: published, peer-reviewed criteria, named turnaround times, quarterly approval and overturn reporting. "Guidelines" without a citation is a preference.
 ```
   First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · aphorism [C7]:**
@@ -979,9 +979,9 @@ Run one report this month: specialty claims by dispensing pharmacy. Most plans w
 ```
 My first job was behind a pharmacy counter. The question that followed me home was never clinical. It was a patient asking why the same inhaler cost triple this month. I audit PBM contracts now because the answer lived in one.
 ```
-- **7:00 PM · question post [A6]:**
+- **7:00 PM · reader question [I-fresh] (Jul 16 diversification, swaps the question pool):**
 ```
-Ask your PBM which of its revenue streams your plan funds. The honest list is longer than the invoice: spread on generics, retained rebate, aggregator fees, manufacturer admin fees, its own pharmacy's margin. The invoice shows one. The contract permits all of them.
+A reader asked whether PA programs save money at all. Some do. The honest answer needs two numbers nobody volunteers: what the program costs to run, and what it verifiably avoided. Ask for both.
 ```
   First reply → Map all three on your own plan: rxbs.org/toolkit/pbm-compensation
 - **8:30 PM · one question [B7]:**
