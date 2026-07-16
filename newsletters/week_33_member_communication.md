@@ -175,7 +175,7 @@ A pharmacy is removed from the network or the network is narrowed.
 
 For each scenario, the sequence is: provider communication first (60 days), member communication second (45-60 days), call center briefing third (30 days), and follow-up communication (7-10 days before effective date). This sequence ensures the provider knows before the member calls them, the member has time to ask questions, and the call center has specific answers.
 
-Your broker can help coordinate the timing and review the messaging. The best advisory teams treat communication as a deliverable in the implementation plan, not an afterthought. For the contract language that obligates the PBM to support these transitions, see our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library).
+Your broker can help coordinate the timing and review the messaging. The best advisory teams treat communication as a deliverable in the implementation plan, not an afterthought. For the contract language that obligates the PBM to support these transitions, see our [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library).
 
 Have you implemented a pharmacy change where the communication made or broke the outcome? Leave a comment below.
 
