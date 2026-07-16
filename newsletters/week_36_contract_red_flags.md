@@ -772,7 +772,7 @@ The PBM sits on both sides of your drug transaction and bills you for the seat i
 **Tue Sep 8**
 - **8:00 AM · recipe / Copay maximizer (Tier B):**
 ```
-A maximizer program does three things with your member's copay card: resets the copay to match the card's annual limit, drains the card month by month, and credits none of it toward the deductible. The manufacturer pays, the vendor takes its percentage, and your member starts January at zero. Check the amendment stack for it.
+A maximizer does three things with the manufacturer copay card: sets the copay to the card's annual limit, captures the value month by month, and takes a vendor fee from the proceeds. All three can be fine. The red flag is when nobody can tell you the fee or the plan's share.
 ```
   First reply (link): rxbs.org/toolkit/copay-card-calculator
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
@@ -903,7 +903,7 @@ Fees named after services are cheaper to invent than services. Your PBM invoice 
 **Sun Sep 13**
 - **8:00 AM · recipe / Copay accumulator (Tier A weekend Cuban-bait):**
 ```
-An accumulator program quietly rules that the manufacturer's copay assistance counts toward nothing. The card pays for months while the member's deductible sits untouched. The member discovers it at the counter in the fall, mid-therapy. Look for "accumulator adjustment" buried in the plan amendments.
+"Accumulator adjustment" in your plan amendments means manufacturer assistance counts toward nothing. Often that is the right call for the plan. The contract question is what the vendor charges to run it. The member question is whether anyone told them before the counter did.
 ```
   First reply (link): rxbs.org/toolkit/copay-card-calculator
 - **10:00 AM · spread pricing (Tier A):**

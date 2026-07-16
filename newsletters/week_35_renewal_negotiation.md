@@ -883,7 +883,7 @@ A pharmacist fills a prescription in March and gets paid. In June the PBM reache
   First reply (link): the PBM Contract Language Library
 - **10:00 AM · copay maximizer vendor (SaveOnSP-style) (Tier A):**
 ```
-Search your plan documents for the phrase "non-essential health benefit." If a list of specialty drugs sits under it, a maximizer vendor is mining your members' manufacturer assistance: the copay cap comes off, the card drains all year, and none of it counts toward the deductible. Ask who signed that amendment, and when.
+Search your plan documents for "non-essential health benefit." A drug list under it means a maximizer is running: the amendment was executed in your plan's name and a vendor takes a fee from the captured card value. Ask who signed it, and what the plan's share was last year.
 ```
   First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
