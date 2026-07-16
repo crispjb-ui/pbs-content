@@ -15,7 +15,7 @@ A fast, fixed-scope, independent read of a plan's PBM renewal terms before signa
 
 **A Renewal Second Opinion is a fast, independent read of your PBM renewal terms, from clinical pharmacists who review hundreds of PBM contracts a year, before your notice window closes.**
 
-Your January 1 renewal is being decided right now. Renewal terms typically arrive between August and October. Termination and amendment notice windows, usually 90 days, close in early October. Whatever gets signed this fall is the contract your plan lives with all of next year.
+Your January 1 renewal is being decided right now. Renewal terms typically arrive between August and October. Termination and amendment notice windows, usually 90 days, close in the first days of October. Miss that window and most contracts renew automatically on the terms in front of you. Whatever gets signed, or auto-renews, this fall is the contract your plan lives with all of next year.
 
 Here is what we see in our work at Prescription Benefit Solutions: renewal changes are rarely announced. They are redlined. A definition shifts. An exclusion list grows. A guarantee gets a new denominator. The cover letter says "no significant changes," and the redline says otherwise.
 
@@ -31,7 +31,7 @@ Here is what we see in our work at Prescription Benefit Solutions: renewal chang
 
 **Independence:** we take no money from any PBM. Our only client in this engagement is your plan. Our standards are published and we attest to them in writing.
 
-> **The 90-Day Check:** if your plan renews January 1, count back 90 days. That is your real deadline, and it is earlier than it feels. If you are inside the window and the renewal terms are sitting unread, that is exactly the situation this engagement exists for.
+> **The 90-Day Check:** if your plan renews January 1, count back 90 days. That lands in the first days of October, and it is earlier than it feels. If you are inside the window and the renewal terms are sitting unread, that is exactly the situation this engagement exists for.
 
 **[Request a call]** — a few sentences on where your renewal stands is enough to start. Our team will reply within one business day.
 

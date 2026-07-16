@@ -8,10 +8,10 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 
 | Asset | Surface | Last substantive refresh | Refresh notes |
 |---|---|---|---|
-| PBM Glossary (`rxbs.org/glossary`) | Wix + DefinedTermSet JSON-LD | 2026-07-10 (launched) | Terms sync via `_glossary_terms.md` propagation rule; freshness pass may add a NEW buyer-relevant term or sharpen 2-3 definitions |
+| PBM Glossary (`rxbs.org/glossary`) | Wix + DefinedTermSet JSON-LD | 2026-07-16 (+AFP term) | Terms sync via `_glossary_terms.md` propagation rule; freshness pass may add a NEW buyer-relevant term or sharpen 2-3 definitions |
 | Request-a-Call (`/request-a-call`) | Wix | 2026-07-08 (launched) | Conversion page: refresh = reassurance copy / topic list accuracy, not content depth |
 | Thank-You (`/thank-you`) | Wix | 2026-07-08 (launched) | Coupled to the email flow (see OPEN_ITEMS coupling note); refresh only WITH an email-flow change |
-| Renewal Second Opinion (`/renewal-second-opinion`) | Wix | 2026-07-09 (launched) | Seasonal: pre-Sep refresh should sharpen the 90-day-window dates for Jan 1 effective dates |
+| Renewal Second Opinion (`/renewal-second-opinion`) | Wix | 2026-07-16 (seasonal sharpen) | Seasonal: pre-Sep refresh should sharpen the 90-day-window dates for Jan 1 effective dates |
 | Toolkit Library page + 29 toolkit PDFs | Wix + `templates/documents/` | rolling (see toolkit dataset) | Freshness pass picks the 1-2 OLDEST toolkits by original build week (W16-W18 era first), refreshes stats/examples, re-renders per `/sync-toolkits` |
 | Contract Language Library (Substack evergreen) | `substack_contract_language_library.md` → live post | continuous (Library NN pushes) | Already on a continuous cadence; freshness pass checks the last push date and flags if >8 weeks stale |
 | Homepage | Wix | 2026-07-08 (schema) | Hero CTA + "Mysite" title defects still queued (gameplan P1 #12) |
@@ -26,4 +26,6 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 
 | Date | Assets refreshed | What changed | Wix/Substack edit flagged |
 |---|---|---|---|
-| _(first pass: Aug 16, 2026)_ | | | |
+| 2026-07-16 | PBM Glossary | Added new term **Alternative funding program (AFP)** in the Plan structures section (visible paragraph + DefinedTerm JSON-LD, both blueprint and paste file; canonical `_glossary_terms.md` entry; 25 terms now, paste block 6,958 chars, under the 7,000 Wix cap). Bumped byline "Updated" June→July 2026. | Yes — Wix: add AFP term paragraph + re-paste DefinedTermSet JSON-LD + bump the visible "Updated" date |
+| 2026-07-16 | Renewal Second Opinion | Seasonal sharpen (pre-Sep): added the auto-renewal mechanism ("miss the window and most contracts renew automatically on the terms in front of you") and sharpened the vague "early October" / "your real deadline" to the concrete, evergreen-true anchor "the first days of October" (Jan 1 minus 90 days). Copy stays year-neutral for annual reuse. | Yes — Wix: update the two body/callout lines on `/renewal-second-opinion` (approved-copy touch — see APPROVALS_PENDING) |
+| 2026-07-16 | _(considered, skipped)_ | W16 PA ROI Audit + W17 Carve-Out toolkits (oldest by build week): evergreen frameworks with no verifiable stale stat/year reference to refresh, and gated PDFs are not crawlable so they fall outside the AEO freshness-premium rationale. Request-a-Call / Homepage / About / For-Brokers / Thank-You: all launched within the prior ~8 days, no honest substantive improvement yet (About/For-Brokers wait on 2026 proof metrics; Thank-You coupled to the email flow). | No |

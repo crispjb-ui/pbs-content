@@ -218,6 +218,16 @@
 
 ---
 
+## Alternative funding program (AFP)
+
+**Definition:** A third-party arrangement that removes certain high-cost specialty drugs from the plan's standard pharmacy benefit and sources them instead through manufacturer patient-assistance programs, charitable foundations, or international and cash-pay channels, with a vendor coordinating enrollment. Plans use AFPs to lower specialty spend, and in many cases they do. Whether one fits is a design-and-disclosure question, not an inherent good or bad: how the vendor is paid (frequently a percentage of claimed savings), whether the plan can see who keeps each captured assistance dollar, the member-communication and eligibility considerations of routing members to assistance programs, and how the arrangement interacts with the plan document and stop-loss coverage. (Neutral-tool framing per the copay-program neutrality rule: critique the undisclosed economics, not the tool.)
+
+**Compact form for callouts:** *Alternative funding program (AFP)* = a third-party program that sources certain specialty drugs outside the standard pharmacy benefit (manufacturer assistance, foundations, or international/cash channels); value depends on the vendor's fee model, disclosure, and plan and stop-loss fit.
+
+**Used in:** (public glossary; included for future toolkit use)
+
+---
+
 ## Rebate aggregator
 
 **Definition:** An entity, frequently PBM-affiliated and in several cases domiciled offshore, that contracts with drug manufacturers to negotiate and collect rebates on behalf of one or more PBMs. Because the aggregator sits between the manufacturer and the PBM, rebate dollars and fees can be retained at the aggregator level before the PBM's stated "pass-through" to the plan even begins. The plan sponsor often has no contractual visibility into the aggregator's economics. (Real entities operating in this layer include Ascent, Emisar, and Zinc.)
