@@ -37,6 +37,11 @@ jobs:
             "run /build-case-study <file>" (or chase the permission);
             (d) any Potter slot approaching per the cascade file with no draft -> "run
             /draft-potter-piece <NN>". Omit the section if nothing triggers.
+            APPROVALS PICKUP (added Jul 16, 2026, after checked boxes sat unnoticed):
+            (e) read the "PBS - Approvals needed" issue (gh issue view 42 --comments)
+            and list any CHECKED checkbox that has no build/PR/status reply after it
+            -> "approved, awaiting pickup: <item> - tell a session to build it".
+            Checked boxes do NOT auto-build; this reminder is the pickup mechanism.
             Read CLAUDE.md and OPEN_ITEMS.md. Run the /pipeline-health slash
             command (.claude/commands/pipeline-health.md). Then write a concise
             Monday brief to /tmp/notify_body.md containing: (a) how many weeks are
