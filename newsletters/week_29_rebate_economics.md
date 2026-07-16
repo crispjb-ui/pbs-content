@@ -36,7 +36,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Jul 22 | 8:35 AM | LI Feed | Post 106 first comment | Post 106 | [ ] |
 | Wed Jul 22 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 2:30 PM | X | long-form trial (rebate decoder, routes to Mon deep dive; swaps one thread) | PART 4B · Wed | [ ] |
-| Wed Jul 22 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
+| Wed Jul 22 | 5:00 PM | X | table scene [G4] | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 7:00 PM | X | question [A13] | PART 4B · Wed | [ ] |
 | Wed Jul 22 | 8:30 PM | X | aphorism [C7] | PART 4B · Wed | [ ] |
 | Thu Jul 23 | 7:30 AM | Substack | Field Note: "Inside Your Copay Maximizer: Where the Captured Card Dollars Actually Go" | PART 1B | [ ] |
@@ -46,7 +46,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Jul 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 1:30 PM | LI Company | Reshare of Post 107 | Post 107 Reshare | [ ] |
 | Thu Jul 23 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
-| Thu Jul 23 | 7:00 PM | X | question [A14] | PART 4B · Thu | [ ] |
+| Thu Jul 23 | 7:00 PM | X | redline [H2] | PART 4B · Thu | [ ] |
 | Thu Jul 23 | 8:30 PM | X | one question [B7] | PART 4B · Thu | [ ] |
 | Fri Jul 24 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Fri | [ ] |
 | Fri Jul 24 | 8:30 AM | LI Feed | Post 108 — Site-of-care tease (teases W30) | Post 108 | [ ] |
@@ -60,7 +60,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Jul 25 | 2:30 PM | X | GPO offshore rebate routing (Tier A) | PART 4B · Sat | [ ] |
 | Sat Jul 25 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
 | Sat Jul 25 | 7:00 PM | X | question [A16] | PART 4B · Sat | [ ] |
-| Sat Jul 25 | 8:30 PM | X | aphorism [C8] | PART 4B · Sat | [ ] |
+| Sat Jul 25 | 8:30 PM | X | reader question [I1] | PART 4B · Sat | [ ] |
 | Sun Jul 26 | 8:00 AM | X | recipe / Copay accumulator (Tier A) | PART 4B · Sun | [ ] |
 | Sun Jul 26 | 10:00 AM | X | formulary exclusivity payment (Tier A) | PART 4B · Sun | [ ] |
 | Sun Jul 26 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
@@ -928,9 +928,9 @@ Watch where manufacturer money lands in your contract. Payments labeled "adminis
 ```
 Payment timing is the rebate term nobody negotiates: the manufacturer pays the PBM in Q1, your plan sees the pass-through in Q3. The float in between is somebody's yield, and it is not yours.
 ```
-- **5:00 PM · punchy:**
+- **5:00 PM · table scene [G4] (new family, Jul 16 diversification — swaps the punchy pool):**
 ```
-PBM contracts are written in a dialect built so the person paying the bill can't read it. I read it for a living. It isn't complicated. It's hidden on purpose.
+Renewal season tell: when the deck spends ten slides on rebate growth and one line on net cost, read the one line twice.
 ```
 - **7:00 PM · question post [A13]:**
 ```
@@ -972,9 +972,9 @@ Rebates are quoted per brand script, guarantees per eligible claim, fees per mem
 ```
 Your PBM makes money three ways on one prescription: the spread, the rebate, and the fee. You were sold one of those. The contract contains all three.
 ```
-- **7:00 PM · question post [A14]:**
+- **7:00 PM · redline [H2] (new family, Jul 16 diversification — swaps the question pool; audit rights published Tuesday, so this is post-publish amplification):**
 ```
-When your PBM calls a drug "lowest net cost," lowest for whom? Your plan, or the PBM's rebate math? The phrase is built to sound like it is on your side. Check whether it actually is.
+Your contract: "audit upon reasonable notice." The redline: 30 days written notice, your auditor, all records, findings binding. "Reasonable" means whoever defines it wins.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
 - **8:30 PM · one question [B7]:**
@@ -1035,9 +1035,9 @@ The rebate report answers the question the PBM wrote, not the question you asked
 When your PBM reports "rebate per brand script," do you know which scripts counted as brand? Reclassify a few hundred claims and the guarantee is met without a dollar moving. Ask for the claim-level file behind the ratio.
 ```
   First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
-- **8:30 PM · aphorism [C8]:**
+- **8:30 PM · reader question [I1] (new family, Jul 16 diversification — swaps the aphorism pool; the spread piece is published, safe):**
 ```
-The PBM didn't lower your drug costs. It moved them to a line you don't read and called the move a discount.
+A reader asked: is spread pricing illegal? No. It is contractual. That is the uncomfortable part. The remedy is not a regulator, it is your own pricing exhibit.
 ```
 
 **Sun Jul 26**
