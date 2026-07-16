@@ -16,10 +16,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Jul 19 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Jul 20 | 7:30 AM | Substack | Deep dive: "Rebate Economics: What Your PBM's Rebate Report Is Not Showing You" | PART 1 | [ ] |
 | Mon Jul 20 | 7:45 AM | LI Newsletter | Rebate Economics Briefing (Issue #24) | PART 2 | [ ] |
+| Mon Jul 20 | 7-8 AM | Notes | Note #1 launch teaser (Mon morning) | PART 4 · Mon | [ ] |
 | Mon Jul 20 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Mon | [ ] |
 | Mon Jul 20 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
 | Mon Jul 20 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
-| Mon Jul 20 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Jul 20 | 7:00 PM | X | question [A11] | PART 4B · Mon | [ ] |
 | Mon Jul 20 | 8:30 PM | X | aphorism [C6] | PART 4B · Mon | [ ] |
 | Tue Jul 21 | 7:30 AM | Substack | "What I'd Ask" #7: Tracking Your Rebate Dollars | PART 2B | [ ] |
@@ -338,15 +338,7 @@ A clean professional digital graphic at 2240 x 1260 pixels with a solid white ba
 
 ### Parked draft: "Auditing Your Pharmacy Network Configuration" (former Thursday Field Note)
 
-_When the Thursday reach post was rebuilt from the network-terms vocabulary decoder into the copay-maximizer reveal, this Field Note (its operational pair) was displaced. It is a strong, complete draft and should NOT be discarded. It is described here for central parking (this build was scoped to edit only this week file, so it is not yet moved into `field_note_backlog.md`)._
-
-- **Title:** Auditing Your Pharmacy Network Configuration
-- **Pillar:** PBM Contract Insights
-- **Thesis (answer-first lead):** To audit a PBM pharmacy network, a self-funded plan runs three comparison passes: pull the actual fill distribution by network configuration, compare it to the network design written in the contract, and test actual performance against the network-guarantee clauses; the gap between contract design and real fill behavior is the renewal-leverage item.
-- **Three passes:** (1) pull actual fill distribution by configuration (preferred / broad / mandatory mail / PBM-affiliated specialty); (2) compare actual fill to contracted network design (preferred-network drift, unintended mandatory-mail capture); (3) audit the network-guarantee clauses and their carve-outs.
-- **Pairs naturally with:** a future Thursday Pharmacy-Network or Site-of-Care LinkedIn post; toolkit `network-configuration-audit` (`rxbs.org/toolkit/network-configuration-audit`).
-- **Re-anchor before reuse:** refresh the "this morning's LinkedIn post" opener to the destination week's Thursday post, and confirm the Monday topic that week is not network/site-of-care (to hold triple-distinct).
-- **Action for the maintainer:** move this full draft into `field_note_backlog.md` as the next available FN entry, then delete this parking block.
+_Displaced when the Thursday reach post was rebuilt from the network-terms vocabulary decoder into the copay-maximizer reveal (this Field Note was the decoder's operational pair). Parked in full to `field_note_backlog.md` as **FN-20** (July 16, 2026) with its title, answer-first thesis, the three audit passes, pairing, and re-anchor notes. Available for a future Pharmacy-Network or Site-of-Care Thursday; toolkit `network-configuration-audit` stays in the dataset for that reuse._
 
 ---
 

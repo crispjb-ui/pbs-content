@@ -35,6 +35,7 @@ Drafted Substack Field Notes that have been displaced from their original week a
 | FN-17 | Reauthorization Protocols: The Specialty Cost Lever Nobody Discusses | Clinical Pharmacy Perspectives | W34 (displaced May 9, 2026 under Architecture B — Field Note matched Monday Specialty Drug Management deep dive. Field Note retargeted to Mid-Year Performance Guarantee audit pairing with W34 Thursday 5 Mid-Year Performance Guarantee Terms Decoded Ledger Annotated) | available |
 | FN-18 | Data Ownership and Portability: The Clause That Determines Your Exit Options | PBM Contract Insights | W36 (displaced May 9, 2026 under Architecture B — Field Note didn't pair with Thursday Slot B "Same contract language different interpretations" topic. Field Note retargeted to Definition Variance audit pairing with W36 Thursday Three-Contract Photoreal Same/Same/Different) | available |
 | FN-19 | Auditing Your MAC Margin: Three Channels, One PBM | Transparency & Industry Education | W21 (displaced May 21, 2026 when W21 Thursday was rebuilt around Rebate Aggregator decoder — Memorial Day topic-recency vs. W18 Channel Pricing 17K winner DNA + W18/W20/W21 Thursday pricing-mechanic cluster concerns. Strong audit framework, fully drafted, pairs cleanly with any future Channel Pricing Thursday LinkedIn) | available |
+| FN-20 | Auditing Your Pharmacy Network Configuration | PBM Contract Insights | W29 (displaced Jun 2026 when W29 Thursday was rebuilt from the "5 Network Contract Terms Decoded" vocabulary decoder into the copay-maximizer reveal; this Field Note was the decoder's operational pair. Answer-first three-pass audit framework; pairs cleanly with a future Pharmacy-Network or Site-of-Care Thursday. Parked from the W29 file July 16, 2026) | available |
 
 ---
 
@@ -535,3 +536,28 @@ The MAC is public. The margin is not. The audit is how you make it both.
 **Prompt:**
 
 A clean professional digital graphic at 2240 x 1260 pixels with a solid white background (#FFFFFF) and generous negative space. No logos, no badges other than the one specified, no watermarks. Top-right corner: a small Accent Blue (#A7E0FA) pill-shaped badge with the text "FIELD NOTE" in Primary Blue (#015880), Plex Sans SemiBold 28pt, +6% letter tracking. Central composition: three flat-design pharmacy receipts in Primary Blue (#015880) outline, side-by-side, evenly spaced, each roughly 380px tall. Each receipt is labeled at the top in Plex Mono Medium 16pt: "RETAIL CHAIN," "MAIL ORDER," "PBM-OWNED" respectively. Each receipt shows two horizontal line items: one labeled "MAC" in Plex Mono Medium 14pt with the same dollar value rendered in Plex Mono Medium 14pt tabular figures across all three receipts; one labeled "MARGIN" in Plex Mono Medium 14pt with three different dollar values (smallest on Retail Chain, larger on Mail Order, largest on PBM-Owned), each rendered in Accent Blue (#A7E0FA) tabular figures. A thin Accent Blue (#A7E0FA) horizontal arrow runs across the top of all three receipts, suggesting comparison. A magnifying-glass icon in Accent Blue (#A7E0FA) hovers at the bottom-right of the third receipt. Below the composition, a two-tone centered headline: "Same MAC." in Primary Blue (#015880) Plex Sans SemiBold 56pt, with "Three margins." in Accent Blue (#A7E0FA) Plex Sans SemiBold 56pt directly below. Subtitle in Gray (#4D4D4D) Plex Sans Regular 22pt: "Three audit passes plan sponsors can run on their own claims data." Color palette strictly: white (#FFFFFF), Primary Blue (#015880), Accent Blue (#A7E0FA), Gray (#4D4D4D). No photographs, no realistic elements.
+
+---
+
+## FN-20: Auditing Your Pharmacy Network Configuration
+
+**Original week:** 29 (never published — displaced Jun 2026 when W29 Thursday was rebuilt into the copay-maximizer reveal; parked from the W29 file July 16, 2026)
+**Pillar:** PBM Contract Insights
+**Length:** ~600 words target (~3 min read)
+**Tone:** Practical, tactical
+**Why it was displaced:** W29 Thursday was rebuilt from the "5 Network Contract Terms Decoded" vocabulary decoder into the copay-maximizer "non-essential health benefit" reveal (a stronger summer-trough shape). This Field Note was the network decoder's operational pair, so it was displaced when the reveal took the Thursday slot.
+
+**Thesis (answer-first lead):** To audit a PBM pharmacy network, a self-funded plan runs three comparison passes: pull the actual fill distribution by network configuration, compare it to the network design written in the contract, and test actual performance against the network-guarantee clauses; the gap between contract design and real fill behavior is the renewal-leverage item.
+
+**Three passes:**
+1. Pull actual fill distribution by configuration (preferred / broad / mandatory mail / PBM-affiliated specialty).
+2. Compare actual fill to contracted network design (preferred-network drift, unintended mandatory-mail capture).
+3. Audit the network-guarantee clauses and their carve-outs.
+
+**Pairs naturally with:** a future Thursday Pharmacy-Network or Site-of-Care LinkedIn post; toolkit `network-configuration-audit` (`rxbs.org/toolkit/network-configuration-audit`).
+
+**Re-anchoring notes before reuse:**
+- Refresh the "this morning's LinkedIn post" opener to the destination week's Thursday post (this draft was written as the operational follow-on to a Thursday LinkedIn post).
+- Confirm the destination week's Monday topic is not network/site-of-care, to hold the triple-distinct rule.
+- Refresh the **Pillar:** marker if the destination week's pillar mix has changed.
+- Full body was never drafted beyond this framework summary; expand to ~600 words on the three-pass structure before publishing.
