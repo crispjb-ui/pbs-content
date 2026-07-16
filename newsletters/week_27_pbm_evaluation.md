@@ -848,7 +848,7 @@ Save this for your next rebate audit.
 ```
 Today's Field Note on Benefit Blind Spots is the operational follow-on: three audit passes to find out whether your rebate dollars route through an aggregator before pass-through, and the contract language that would let you reach it. Plus a paste-ready PBM Compensation Audit Worksheet you can hand to your broker: rxbs.org/toolkit/pbm-compensation
 
-[SUBSTACK FIELD NOTE URL]
+https://benefitblindspots.substack.com/p/pbm-rebate-aggregator-audit
 ```
 
 #### "Three Routes" Rebate-Detour Image Generation Prompt (primary — editorial illustration)
@@ -995,7 +995,7 @@ A broker called me once because a client's PBM scorecard had come back at 42 and
 **Morning (7-8 AM) — Roundup Launch Teaser:**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-Read the roundup: [LINK]
+Read the roundup: https://benefitblindspots.substack.com/p/what-crossed-my-desk-2026-07-08
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 I tell clients: do not confuse a good account team with a good PBM relationship. Account teams change. Pricing, transparency, and contract terms persist. I have watched employers stay with a PBM for years because they liked their account rep, while the contract economics eroded steadily. When the rep left, so did the only reason they stayed. Score the relationship, not the person.
@@ -1008,7 +1008,7 @@ A benefits committee asked me to present my PBM scoring methodology to them in 2
 **Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: the middleman that skims your rebates before pass-through begins. Before your PBM passes through "100% of rebates," a group purchasing organization it owns, often registered offshore, takes a cut first. Three audit passes to find it in your contract and reach it. Ascent. Emisar. Zinc.
 
-Read the field note: [LINK]
+Read the field note: https://benefitblindspots.substack.com/p/pbm-rebate-aggregator-audit
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 My first PBM transition as a consultant, I underestimated the implementation timeline. The transition took eight months instead of six. Members were confused. The stop-loss carrier was not looped in early enough. The lesson was specific: the decision to switch is not the hard part. The execution is. I now build a twelve-month transition plan every time and shave weeks where the client is ahead. Never the other direction.

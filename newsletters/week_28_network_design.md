@@ -467,7 +467,7 @@ In our experience, the largest savings come from three areas: specialty routing 
 
 ---
 
-This week's Benefit Blind Spots includes a **network cost comparison model**: a five-channel framework that calculates actual cost per script by dispensing channel, with specific data to request from your PBM. That model is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes a **network cost comparison model**: a five-channel framework that calculates actual cost per script by dispensing channel, with specific data to request from your PBM. That model is exclusive to the Substack: https://benefitblindspots.substack.com/p/pharmacy-network-design-cost-comparison-model
 
 ---
 
@@ -508,7 +508,7 @@ Post immediately as the first comment on the newsletter announcement above (brie
 ```
 Same drug, three pharmacies, three prices, one PBM setting all of them. The channel is the cost lever most plans never pull.
 
-I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: https://benefitblindspots.substack.com/p/pharmacy-network-design-cost-comparison-model
 
 And the Channel Pricing Audit Worksheet is the companion that runs the same net-cost-per-script comparison across retail, mail, and specialty on your own plan: rxbs.org/toolkit/channel-pricing
 ```
@@ -686,7 +686,7 @@ One data request: net cost per script by dispensing channel, for your top 10 dru
 #### First Comment
 
 ```
-This week's Benefit Blind Spots deep dive on pharmacy network design is the operational follow-on: the network channel comparison framework + audit-rights checklist. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive on pharmacy network design is the operational follow-on: the network channel comparison framework + audit-rights checklist. https://benefitblindspots.substack.com/p/pharmacy-network-design-cost-comparison-model
 ```
 
 ---
@@ -835,7 +835,7 @@ Get next Monday's deep dive on Rebate Economics in your inbox: benefitblindspots
 **Morning (7-8 AM) — Article Launch Teaser:**
 A client's broker flagged that their specialty routing was costing more than the entire formulary rebate was saving. One routing change recaptured it. That story opens this week's Benefit Blind Spots deep dive on pharmacy network design, with the five-channel cost comparison model we run with clients.
 
-Read the full analysis: [LINK]
+Read the full analysis: https://benefitblindspots.substack.com/p/pharmacy-network-design-cost-comparison-model
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 The first time I calculated cost per script by dispensing channel for a client, the specialty pharmacy number made me recalculate twice. The PBM's owned specialty pharmacy was charging meaningfully more per script than the alternative we identified. The routing was set by default. Nobody had questioned it. That analysis changed how I evaluate every network configuration.
@@ -859,7 +859,7 @@ A plan sponsor asked me whether I could "just tell" what her network design was 
 **Morning (7-8 AM) — Roundup Launch Teaser:**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
-Read the roundup: [LINK]
+Read the roundup: https://benefitblindspots.substack.com/p/what-crossed-my-desk-2026-07-15
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
@@ -874,7 +874,7 @@ A broker asked me why "boring" network design content landed so well with her CF
 **Morning (7-8 AM) — Field Note Launch Teaser:**
 New field note: the 12-cent generic your plan paid $9 for. A generic costs the pharmacy pennies. Your plan pays dollars. The generic effective rate on your report is the one number engineered to hide which claims carry that spread. Three passes pull it back out.
 
-Read the field note: [LINK]
+Read the field note: https://benefitblindspots.substack.com/p/generic-spread-ger-average-hides
 
 **Midday (11 AM-1 PM) — Origin Story #1:**
 A plan sponsor told me mail order was "already saving" her plan a lot based on her PBM's report. I ran the actual per-script comparison. Mail was cheaper for brand maintenance drugs. It was more expensive than retail for a handful of high-volume generics on her plan. The net effect was smaller than her PBM's report suggested. The report was not wrong. It was incomplete.
