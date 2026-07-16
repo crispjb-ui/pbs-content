@@ -37,6 +37,13 @@ timeline) and `Jun 10` (loose match). Also note whether today is Mon/Wed/Thu (Su
      The section header is the reliable source; some week files do not list reshares as separate timeline
      rows, so match on the header weekday, not the timeline. If a reshare section header exists but its
      `#### Reshare Copy` is empty, FLAG it as missing (do not invent copy).
+   - **Substack RESTACK-WITH-NOTE (Mon / Wed / Thu only — added Jul 16, 2026, Brett-directed):** if today
+     is a launch day (Mon deep dive, Wed roundup, Thu field note), pull that day's morning launch-teaser
+     copy from PART 4 and surface it as a restack task: "once the article is live, RESTACK it on Substack
+     and paste this teaser as the restack note" (strip any `Read: [LINK]` line — the restack embeds the
+     article card). The teaser is NOT scheduled as a standalone Note; restack-with-note renders far better
+     in the Notes feed. Older week files may still say "Launch Teaser" without the restack instruction —
+     the mechanic applies regardless.
 
 ## Step 3 — Pull the paste-ready copy
 
