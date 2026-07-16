@@ -422,7 +422,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 | `second_toolkit_pdf_url` | `https://f4a10ae5-926c-402e-bec1-e9ae8845f739.usrfiles.com/ugd/f4a10a_bb76ebca1b994c0db20e64985f6a5b44.pdf` |
 | `second_toolkit_blurb` | `GER is one specific contract guarantee. PBM Compensation is the full map of how the PBM is paid (including the streams that distort how GER is calculated). The five streams (spread, rebate retention, admin fees, manufacturer-direct, owned-pharmacy margin) explain why GER variance is rarely a math error and almost always a methodology design. Together they pair as one guarantee and the full economics that shape it.` |
 | `field_note_title` | `The 12-Cent Generic Your Plan Paid $9 For` |
-| `field_note_url` | `[fill after Thursday Field Note publishes — slug generic-spread-ger-average-hides]` |
+| `field_note_url` | `https://benefitblindspots.substack.com/p/generic-spread-ger-average-hides` |
 
 ### Wix build checklist
 
@@ -432,7 +432,7 @@ This section is the operational source-of-truth for the Wix work this week. One 
 - [ ] Wix CMS → Toolkits collection → Add Item → paste all column values above
 - [ ] Verify `rxbs.org/toolkit/ger-audit` renders correctly
 - [ ] Submit test form with personal email → confirm Email 1 fires within 5 min with right PDF
-- [ ] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
+- [x] Confirm `field_note_url` points to a published Substack URL before the Wix row goes live
 
 ### Pairing rationale
 
@@ -754,7 +754,7 @@ Save this for your next quarterly review.
 ```
 Today's Field Note on Benefit Blind Spots, "The 12-Cent Generic Your Plan Paid $9 For," is the operational follow-on: three passes that pull the per-claim spread out from behind the blended average. Pass one, request claim-level generic detail instead of the blended GER and match the report formula to the contract. Pass two, sort your top 25 generics by fill count and compare reimbursement against NADAC, the public acquisition benchmark. Pass three, audit the exclusion list for what got quietly carved out. Plus a paste-ready GER Audit Worksheet you can hand your broker: rxbs.org/toolkit/ger-audit
 
-[SUBSTACK FIELD NOTE URL — slug generic-spread-ger-average-hides, paste after Thu 7:30 AM publish]
+https://benefitblindspots.substack.com/p/generic-spread-ger-average-hides
 ```
 
 #### "12-Cent Pill in a $9 Museum Frame" Image Generation Prompt
