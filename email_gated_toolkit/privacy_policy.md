@@ -4,6 +4,8 @@
 
 > **Why this exists:** LinkedIn Lead Gen Forms require a privacy policy URL. Wix Forms also require one for GDPR/CCPA compliance. This policy is also linked from the Toolkit landing page form, the welcome email footer, and the Substack subscribe interaction.
 
+> **Status update (Jul 16, 2026): Brett approved the build via the approvals issue.** Non-legal blanks are now filled (third-party list reconciled to the live stack: Wix Analytics only, LinkedIn Insight Tag disclosed, Zapier confirmed production, Microsoft Outlook added, Google Analytics dropped as not enabled). **Still open before publish: the counsel review items below + the street address (Ginny's call on which address publishes — never the home address) + effective dates set at publish.** Include this doc in the counsel packet if it has not gone out yet.
+>
 > **Status (Jul 8, 2026): Wix-ready draft, counsel-gated — NOT yet published.** The `/privacy` Wix page does not exist yet, so no live surface should hyperlink to `rxbs.org/privacy` (dead-link rule). Until it publishes, keep the privacy *sentence* on the request-a-call microcopy and the thank-you footnote but **remove the hyperlink**. Add the link back the day this page goes live. This is needed before any LinkedIn ad spend (Sep 2026) — those ads require a reachable privacy URL.
 >
 > **Resolve before publish (counsel gate — do not self-approve, per the legal-adjacent rule):**
@@ -69,8 +71,10 @@ marketing purposes.
 rxbs.org uses cookies for:
 
 - **Essential functionality** (form submissions, language preferences)
-- **Analytics** through Wix Analytics and (optionally) Google Analytics
-- **Marketing attribution** (UTM parameters from email and ad campaigns)
+- **Analytics** through Wix Analytics
+- **Marketing attribution** (UTM parameters from email and ad campaigns, and
+  the LinkedIn Insight Tag, a pixel that supports ad measurement and
+  audience building for LinkedIn campaigns)
 - **Repeat-download convenience** — when you download a Plan Sponsor Toolkit,
   we store your name, email, company, and role locally in your browser so you
   do not have to re-enter them the next time you request another toolkit. This
@@ -86,14 +90,20 @@ convenience above.
 
 - **Wix** — hosts rxbs.org and the email-marketing infrastructure. Wix
   privacy policy: https://www.wix.com/about/privacy
-- **LinkedIn** — when you submit a Lead Gen Form on LinkedIn, your
-  information is shared between LinkedIn and PBS per LinkedIn's terms.
-  LinkedIn privacy policy: https://www.linkedin.com/legal/privacy-policy
+- **LinkedIn** — the LinkedIn Insight Tag runs on rxbs.org for ad
+  measurement and audience building, and if you submit a Lead Gen Form on
+  LinkedIn, your information is shared between LinkedIn and PBS per
+  LinkedIn's terms. LinkedIn privacy policy:
+  https://www.linkedin.com/legal/privacy-policy
 - **Substack** — when you subscribe to Benefit Blind Spots on Substack,
   your information is shared between Substack and PBS per Substack's
   terms. Substack privacy policy: https://substack.com/privacy
-- **Zapier** (if used) — bridges LinkedIn Lead Gen Forms to Wix Contacts.
-  Zapier privacy policy: https://zapier.com/privacy
+- **Zapier** — bridges website form submissions to our email delivery
+  system so we can send the materials you requested. Zapier privacy
+  policy: https://zapier.com/privacy
+- **Microsoft** — our toolkit-delivery and follow-up emails are sent
+  through Microsoft Outlook. Microsoft privacy statement:
+  https://privacy.microsoft.com/privacystatement
 
 ## Data retention
 
