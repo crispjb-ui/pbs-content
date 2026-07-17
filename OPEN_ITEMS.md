@@ -1,5 +1,7 @@
 # OPEN ITEMS — pending builds & decisions
 
+> **⚙️ Approvals now auto-build (added Jul 16, 2026, from the AI-adoption-ladder review):** checking a box on the "✅ PBS — Approvals needed" issue (#42) fires `.github/workflows/approvals-autobuild.yml`, which builds the newly-checked items same-day (gated items get prepped to their gate only, per the maintenance-model escalation rule), commits to main, and replies on the issue. The Monday-brief APPROVALS PICKUP check remains the weekly backstop for anything the trigger misses.
+
 _Surfaced by `/pipeline-health` so nothing gets lost between sessions. Remove an item when it ships._
 
 ## ✅ LOCKED (Jul 3, 2026) — reveal-slot cadence + organic-reveal formula + wins

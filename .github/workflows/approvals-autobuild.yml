@@ -1,0 +1,106 @@
+name: Approvals Auto-Pickup
+
+# "Let Claude kick off Claude" (Step 2->3 of the AI-adoption ladder, added
+# Jul 16, 2026): checking a box on the standing "PBS - Approvals needed"
+# issue (#42) is a recorded human approval. This workflow fires on the
+# checkbox edit and builds the newly-checked items the same day, instead of
+# waiting for a session or the Monday-brief reminder to notice. Gates named
+# inside an item's text (counsel, Ginny, legal-adjacent) are RESPECTED:
+# those items get prepped to their gate, never pushed past it. The weekly
+# Monday-brief APPROVALS PICKUP check stays as the backstop.
+
+on:
+  issue_comment:
+    types: [edited]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  id-token: write
+  issues: write
+
+concurrency:
+  group: approvals-autobuild
+  cancel-in-progress: false
+
+jobs:
+  autobuild:
+    # Only the approvals issue; ignore every other comment edit in the repo.
+    if: github.event_name == 'workflow_dispatch' || github.event.issue.number == 42
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - id: vars
+        run: echo "date_iso=$(TZ=America/New_York date +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+      - name: Install render deps (in case a build touches toolkits)
+        run: pip install --quiet weasyprint pymupdf || true
+      - name: Build newly-approved items
+        uses: anthropics/claude-code-action@v1
+        with:
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_args: |
+            --allowedTools "Read,Write,Edit,Glob,Grep,Bash,WebSearch,WebFetch"
+          prompt: |
+            Read CLAUDE.md first (the Critical Rules bind, especially the
+            maintenance-model escalation rule). Then:
+            1. Run: GH_TOKEN=${{ secrets.GITHUB_TOKEN }} gh issue view 42 --comments
+               on this repo. Collect every CHECKED checkbox item ("- [x]")
+               across the issue body and all comments.
+            2. For each checked item, decide whether it has ALREADY been picked
+               up: a later comment referencing it with a build/PR/commit link or
+               an explicit status ("built", "prepped", "picked up", "awaiting
+               counsel", "no action"). Skip handled items silently.
+            3. For each checked-but-unhandled item, act per the item's own text:
+               - If the text names a gate (counsel, legal, Ginny decision, "do
+                 not self-approve"), do ONLY the prep the item allows (fill
+                 non-legal blanks, draft, stage) and clearly state what remains
+                 gated. NEVER publish or claim past a named gate.
+               - Otherwise, build it fully per the repo's rules of record
+                 (week_build_spec gates, brand rules, /propagate-rule where a
+                 rule change touches built-but-unpublished weeks). Run
+                 python3 tools/brand_lint.py on touched files and fix hard
+                 violations before finishing.
+            4. Write a reply to /tmp/approvals_reply.md starting with the line
+               "🤖 Auto-pickup · ${{ steps.vars.outputs.date_iso }}" listing,
+               per item: what was built (with file paths), what was prepped-to-
+               gate and what human step remains, or why it was skipped. Keep it
+               under ~25 lines.
+            5. If NO checked item is unhandled, do not create
+               /tmp/approvals_reply.md and change nothing.
+            Do not commit; the next step commits. Do not edit issue comments.
+      - name: Commit builds
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git add -A
+          git reset -q /tmp 2>/dev/null || true
+          if git diff --staged --quiet; then echo "No approved-item builds produced."; exit 0; fi
+          git commit -m "Approvals auto-pickup: ${{ steps.vars.outputs.date_iso }} (built items checked on issue #42)"
+          push_ok=0
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main || true
+            if git rebase origin/main; then
+              if git push origin HEAD:main; then push_ok=1; break; fi
+            else
+              git rebase --abort || true
+            fi
+            echo "push attempt $attempt failed; retrying in 5s..."
+            sleep 5
+          done
+          [ "$push_ok" = "1" ] || { echo "ERROR: could not push to main after retries"; exit 1; }
+      - name: Reply on the approvals issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.NOTIFY_PAT || secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -s /tmp/approvals_reply.md ]; then
+            last_commit=$(git rev-parse HEAD)
+            printf '\n🔗 Review this run: https://github.com/%s/commit/%s\n' "$GITHUB_REPOSITORY" "$last_commit" >> /tmp/approvals_reply.md
+            gh issue comment 42 --repo "$GITHUB_REPOSITORY" --body-file /tmp/approvals_reply.md
+          else
+            echo "Nothing newly approved; no reply posted."
+          fi
