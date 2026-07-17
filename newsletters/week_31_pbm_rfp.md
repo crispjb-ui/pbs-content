@@ -649,7 +649,7 @@ _The RFP Process Timeline whiteboard carousel was repurposed into Monday's deep 
 ```
 Three companies decide what 80 percent of American prescriptions cost. The same three own the pharmacies collecting 70 percent of every specialty dollar. They set the price, then pay it to themselves across their own counter.
 
-That is not a market with referees. It is three referees who own the teams.
+They are not competitors inside a market. At that size, they are the market.
 
 The FTC put the numbers on the record in its July 2024 report. Three PBMs, CVS Caremark, Express Scripts, and OptumRx, now process roughly 80 percent of the 6.6 billion prescriptions US pharmacies filled in 2023. In 2004 those same three processed 52 percent. Their affiliated pharmacies now collect about 70 percent of all specialty drug revenue.
 
