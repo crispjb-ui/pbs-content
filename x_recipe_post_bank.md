@@ -185,7 +185,7 @@ The evergreen part of the X build, locked for the whole quarter. **Weekend Sat/S
 - **D3 — GLP-1:** GLP-1s will be your biggest pharmacy line soon. Which one your plan prefers tracks rebate size, not outcomes. Ask your PBM to show the rebate behind the "preferred" pick.
 - **D4 — MAC/WAC/AWP:** Three letters decide what your plan pays: MAC, WAC, AWP. Three reference prices for the same drug. Your PBM picks which one applies, line by line.
 - **D5 — audit clause:** Your PBM's audit clause is either a flashlight or a blindfold. Most plan sponsors never check which one they signed.
-- **D6 — three referees:** About 80% of U.S. prescription claims run through three PBMs. That's not a market with referees. It's three referees who own teams.
+- **D6 (v2) — they are the market:** Three PBMs process about 80% of US prescriptions, up from 52% in 2004. They are not competitors inside a market. At that size, they are the market. _(v1 "three referees who own teams" RETIRED Jul 17, 2026: shipped 5+ times and got called out publicly for repetition AND a muddy metaphor (Dennis Byron: "made no sense the first five times you posted it") — the canonical example of the 2x-retirement bar existing for a reason. Never reuse the referee line in any form.)_
 - **D7 — rebate guarantee floor:** A "rebate guarantee" promises a minimum dollar per script, not the rebate your PBM actually collected. It can beat the guarantee and keep the gap between the floor it promised you and the real number.
 
 _Seven decoders (D1-D7), one per day, so a week's seven midday news-hold slots stay distinct when no news breaks. Don't reuse a decoder twice in the same week._
