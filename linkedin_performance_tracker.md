@@ -266,6 +266,10 @@ _W25 publish week (Renewal Countdown) plus mature re-reads of W24 and the Potter
 4. **X has quietly become a real channel:** follower growth doubled (+21/wk), recipes reliably clear 1-1.5K impressions (5-8x the account's follower count), and the dedup/variant discipline just encoded (Jul 9) protects the shape from wallpaper fatigue. No cadence change proposed; the Jul 3 full-cadence decision stands, now with better evidence.
 5. **The funnel chain fired end-to-end again:** LinkedIn publish post → 764 article views → Substack deep dive → toolkit clicks (contract-review-readiness ×2, pbm-compensation ×1). Third consecutive week of documented Substack→toolkit clicks.
 
+### Interim channel snapshot (logged Thu Jul 17, 2026 — post-level W28 grading follows at the Friday /log-metrics)
+
+**Channel totals (as of July 17, 2026, Brett-reported):** **2,316 LinkedIn followers** (+73 vs Jul 10 — accelerating from +60), **1,211 newsletter subscribers** (+41; funnel ratio 0.56 this week, below the 0.73 trend — consistent with milestone-post follows skewing to warm-network reactivation), **149 Substack subscribers, 4 paid** (**+29 — the biggest Substack week ever, ~6x the June run rate**; Brett attributes primarily to the Jul 13 #85 Rising-badge LinkedIn milestone post, with the Jul 14 Potter Piece 1 byline secondary — confirm the source split when grading), **198 X followers** (+20 week-over-week at the normal run rate; 198 is the timestamped pre/early mark for the Jul 17 Cuban repost — read the repost's true delta against it Friday). Context for the week being graded: Potter Piece 1 published Jul 14, the #85→#73 badge climb, the Jul 17 Cuban repost of the formulary-rebate X post (32K views, account record), and the Dennis Byron repetition callout → "three referees" retirement.
+
 **Drafting implication for next week:** no WORKING/WEAK set changes. Keep the reveal cadence + micro-reveal publish posts exactly as built; W28 is already conformed. One watch item: the W27 Thursday reveal's day-7 re-pull (~Jul 16) tests whether the non-rebate reveal generalization holds at maturity.
 
 ### Performance by Format (All-Time Averages)
