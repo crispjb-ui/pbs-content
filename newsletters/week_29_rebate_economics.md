@@ -8,7 +8,7 @@
 _Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026. **Thursday slot rebuilt (Jun 2026) from the off-topic "5 Network Contract Terms Decoded" vocabulary decoder into a shocking hidden-structure reveal: the copay maximizer's captured-dollar split (re-lensed Jul 16, 2026 to the plan-sponsor/economics frame per the copay-program neutrality rule; conceptual infographic replaces the photoreal stamp scene), distinct from Mon (rebate flow) / Tue (audit rights) / Wed (offshore aggregator). The repurposed Rebate Model Comparison whiteboard remains in PART 1 as an In-Article Visual; the displaced network-terms decoder is described for central parking in the Post 107 block (no dead block left in the file)._
 
 **⚠ Open before ship (residual items — external inputs or a judgment call, not auto-fixable):**
-- **⚠ Post-publish URLs (fill at schedule/publish time; the weekly-substack-urls workflow auto-fills these from RSS):** the Monday deep-dive URL in the Newsletter body `[SUBSTACK URL]` and Newsletter First Comment, in Post 106 first comment `[SUBSTACK MONDAY DEEP DIVE URL]`; the Thursday Field Note URL in Post 107 first comment `[SUBSTACK FIELD NOTE URL]`; and the Notes launch-teaser `[LINK]`s (Mon/Wed/Thu). All resolve only after each post publishes.
+- **⚠ Post-publish URLs (fill at schedule/publish time; the weekly-substack-urls workflow auto-fills these from RSS):** the Monday deep-dive URL in the Newsletter body `https://benefitblindspots.substack.com/p/rebate-economics-pbm-contract-provisions` and Newsletter First Comment, in Post 106 first comment `https://benefitblindspots.substack.com/p/rebate-economics-pbm-contract-provisions`; the Thursday Field Note URL in Post 107 first comment `[SUBSTACK FIELD NOTE URL]`; and the Notes launch-teaser `[LINK]`s (Mon/Wed/Thu). All resolve only after each post publishes.
 - **⚠ LinkedIn-first (judgment — Ginny's rotation call):** the Mon 8:00 AM X "audit rights limitation" recipe shares a topic with Tue's Post 105 (audit rights) and posts ~a day before it. It is a generic evergreen recipe on a broad topic (distinct angle from Post 105's unused-window finding), so it is a soft overlap, not a reveal scoop. Reorder after Post 105 publishes if desired, or leave as-is.
 
 | Day | Time | Channel | Content | Where | ✓ |
@@ -396,7 +396,7 @@ Your broker or benefits counsel can review your rebate language and benchmark it
 
 ---
 
-This week's Benefit Blind Spots includes a **rebate contract analysis framework**: eight provisions compared with weak vs. strong contract language. Designed as a reference document you bring to renewal negotiations. That framework is exclusive to the Substack: [SUBSTACK URL]
+This week's Benefit Blind Spots includes a **rebate contract analysis framework**: eight provisions compared with weak vs. strong contract language. Designed as a reference document you bring to renewal negotiations. That framework is exclusive to the Substack: https://benefitblindspots.substack.com/p/rebate-economics-pbm-contract-provisions
 
 ---
 
@@ -437,9 +437,9 @@ Post immediately as the first comment on the newsletter announcement above (brie
 ```
 Your rebate report can grow while your net cost grows faster. The report shows one number; the other one is the one that matters.
 
-I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
+I broke the whole thing down in this week's Benefit Blind Spots deep dive: https://benefitblindspots.substack.com/p/rebate-economics-pbm-contract-provisions
 
-And the companion worksheet for Thursday's reveal, the Copay Card Financial Impact Calculator, models what a copay maximizer drains off your plan: rxbs.org/toolkit/copay-card-calculator
+And the companion worksheet for Thursday's reveal, the Copay Card Financial Impact Calculator, models what your copay program captures and where those dollars actually go: rxbs.org/toolkit/copay-card-calculator
 ```
 
 _The Copay Card Financial Impact Calculator landing page is already live (`rxbs.org/toolkit/copay-card-calculator`), reused per the refer-back-first rule; no new Wix build is required this week. Confirm the page renders before Monday._
@@ -609,10 +609,10 @@ The settlement changes Caremark's standard offering going forward. It does not r
 
 #### First Comment
 
-_⚠ Paste the live Monday deep-dive URL into the `[SUBSTACK MONDAY DEEP DIVE URL]` placeholder below before posting (Monday deep dive publishes 7:30 AM Mon; by Wed it is live)._
+_⚠ Paste the live Monday deep-dive URL into the `https://benefitblindspots.substack.com/p/rebate-economics-pbm-contract-provisions` placeholder below before posting (Monday deep dive publishes 7:30 AM Mon; by Wed it is live)._
 
 ```
-This week's Benefit Blind Spots deep dive on rebate economics decoded is the operational follow-on: the 8-provision rebate contract framework + traditional vs. pass-through model comparison. [SUBSTACK MONDAY DEEP DIVE URL]
+This week's Benefit Blind Spots deep dive on rebate economics decoded is the operational follow-on: the 8-provision rebate contract framework + traditional vs. pass-through model comparison. https://benefitblindspots.substack.com/p/rebate-economics-pbm-contract-provisions
 ```
 
 ---
