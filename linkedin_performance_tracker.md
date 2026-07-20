@@ -276,7 +276,23 @@ _W25 publish week (Renewal Countdown) plus mature re-reads of W24 and the Potter
 | W28 Wed — "There is a number your PBM hopes you never calculate" (net-cost POV) | 2,037 | 61% | 31·7·3·5·1 | +2 | Mid-band. Engagement quality fine (31 reactions / 5 saves) but no breakout: knowledge-gap tease WITHOUT a named actor or countable payload — consistent with the reveal formula's requirements (element 3/4 missing). Demo held (Senior 30% / H&HC 30% / 10,001+ 26%). |
 | W28 Mon — newsletter publish post (Network Design Briefing) | 1,066 | 50% | 10·1·1·1·0 | 0 | Publish post back at format baseline (~1.1K vs W27's 9,906 breakout): W28's copy had NO hard news peg / named entities — the micro-reveal rule's differential CONFIRMED from the null side. **Article: 662 views / 911 sends / 45% open** (second-best article views after W27's 764). |
 
-_Still to log for W28: Tue GLP-1 access post, Thu GER reveal, Fri site-of-care tease, Substack per-post numbers, X week. Channel totals already captured in the Jul 17 interim snapshot below._
+**Part 2 (same log date):**
+
+| Post | Impr | Out-of-net | React·Comm·Repost·Save·Send | Followers | Notes |
+|------|-----:|-----------:|------------------------------|----------:|-------|
+| **W28 Tue — GLP-1 "Bridge" PA architecture post (news-pegged, CMS form in first comment)** | 6,403 | 86% | 32·**24**·5·**19**·3 | +4 | ⭐ **19 saves + 24 comments** = the biggest save count since the W18 era; news peg + reference payload + GLP-1 topic amplifier + **H&HC 37%**. Save-driven → expect late surge; re-pull at maturity before grading final. 4 link engag. (the direct CMS PDF first-comment swap earned its keep). |
+| **W28 Thu — GER reveal ("12 cents to make it. $9 charged for it.")** | **9,634** @4d | 94% | 57·22·8·5·1 | **+8** | **FOURTH consecutive Thursday reveal in the 9.4-10.6K organic band** (W26 9,378 / W27 10,616 / W28 9,634). ~8.3/10K conversion, 29 profile viewers. Demo note: H&HC only 8% (generic-pricing topics pull less hospital audience than rebate-flow topics); Senior 25% held. Still early @4d. |
+| W28 Fri — rebate teaser ("Your PBM reports $2 million in rebates…") | 3,025 | 89% | 16·3·2·1·0 | 0 | **~4x the tease baseline** (W27: 731) — the reveal-shaped tease outperforms generic teases. This is the post Cuban engaged before subscribing (Jul 17 log). Hylant appears in company demo (1%) — anchor-client eyes on the feed. |
+| W28 Wed — 9:16 VIDEO (GLP-1 "1 in 3 employees would change jobs") | 383 | 30% | 10·1·2·1·0 | +1 | Video remains the distribution laggard (139 views / 16s avg — completion fine, reach absent; 70% in-network = no video-tab lift). Consistent with the W26 video read. Timing note: the net-cost POV (2,037, part 1) and this video show adjacent dates — if both ran Wed Jul 15, that's a same-day double-post to avoid repeating; confirm at scheduling review. |
+
+**Substack (W28 Mon deep dive, "Pharmacy Network Design: The Cost Variable Most Employers Overlook," Jul 13):** 140 views / 133 recipients / 37.4% open / **+2 subs including 1 PAID ($80)** / 7 openers clicked links (14%): **3 → rxbs.org/toolkit/channel-pricing** (refer-back-first reuse working), 1 → Contract Language Library, 1 → subscribe. Traffic: email 76% / direct 11% / linkedin 6%. Fourth consecutive week of documented Substack→toolkit clicks.
+
+**W28 takeaways (logged Jul 20, 2026):**
+1. **The Thursday reveal cadence is now a 4-week streak in the 9.4-10.6K organic band** — the reveal-slot decision (Jul 3) is delivering exactly as designed, with zero amplifier dependence. The GER reveal also partially answers the non-rebate generalization test: pricing-mechanics reveals reach the same band (demo skews less hospital).
+2. **Save-heavy posts must never be graded early** — three documented late surges, and W28 Tuesday (19 saves) is the next candidate. The provisional-read rule is load-bearing.
+3. **The news-peg differential is confirmed both ways:** W27 publish post with named entities 9,906; W28 publish post without 1,066. The micro-reveal publish rule stands on strong evidence.
+4. **High-craft milestone posts are conversion assets, not reach assets** (~19.8 followers/10K + the +29 Substack week), and reveal-shaped Friday teases beat generic ones ~4x.
+5. **Video needs its distribution problem solved before more production leans on it** — third consecutive sub-1K read; completion is fine, reach is not. Watch whether the elevated v2/v3 renders change this; if not, the Wednesday video cadence deserves a format-level rethink at the monthly video-research pass.
 
 ### Interim channel snapshot (logged Thu Jul 17, 2026 — post-level W28 grading follows at the Friday /log-metrics)
 
