@@ -309,6 +309,12 @@ _W25 publish week (Renewal Countdown) plus mature re-reads of W24 and the Potter
 
 **Drafting implication for next week:** no WORKING/WEAK set changes. Keep the reveal cadence + micro-reveal publish posts exactly as built; W28 is already conformed. One watch item: the W27 Thursday reveal's day-7 re-pull (~Jul 16) tests whether the non-rebate reveal generalization holds at maturity.
 
+### Channel snapshot (logged Mon Jul 20, 2026, Brett-reported)
+
+**Channel totals (as of July 20, 2026):** **2,331 LinkedIn followers** (+15 over the Jul 17-20 weekend), **1,218 newsletter subscribers** (+7), **156 Substack subscribers** (+7 since Thursday; 4 paid — the post-milestone-week pace is holding well above the June run rate), **209 X followers**. **The X read is the one that matters: 209 is +11 above the timestamped 198 pre-repost mark from Friday, so the Jul 17 Cuban repost's true conversion delta is now readable at ~+11 followers off 43K borrowed views (~2.6 followers/10K).** That is consistent with every prior Cuban-borrowed-reach conversion read (weak per-impression, real in absolute terms on a 200-follower base: +5.5% of the account in one event). Lesson re-confirmed: follower reads need timestamps, not just counts; the Friday mark is what made this delta attributable at all.
+
+**W29 Monday deep dive early read (published ~7:30 AM Jul 20, screenshot ~midday):** "Rebate Economics" at **132 views, 26.67% open rate, +1 new free subscriber, and 20% of openers clicked a link** — the highest same-day click-through of any deep dive yet (link split: 5 clicks to the Contract Language Library on Substack, 2 to the Potter piece). Early open rate always climbs through the day and the week; grade properly at maturity per the provisional-read rule. The CLL click concentration is the first direct evidence the in-article Library link placement converts, which strengthens the case for the rxbs.org CLL canonical build (Brett's Wix queue).
+
 ### Performance by Format (All-Time Averages)
 
 | Format | Posts | Avg Impressions | Avg Reactions | Avg Comments | Avg Saves | Avg Followers |
