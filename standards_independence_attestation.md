@@ -1,5 +1,7 @@
 # Independence Attestation — internal sign-off + client-facing template
 
+**✅ ATTESTED — Jul 21, 2026.** Ginny attests every §1 answer is accurate and the published language is true as written (relayed by Brett same day). **The gate on /standards and /privacy is CLEARED; both pages are build-ready.** Housekeeping: have Ginny sign/date the Word copy (`counsel_packet/independence_attestation_for_ginny.docx`) and retain it in the fiduciary-file records; re-walk annually each January with the Standards revision.
+
 _Created Jul 21, 2026, per the Brett decision replacing counsel review of the Standards page and the privacy policy with Ginny's written attestation (counsel stays required for the findings guarantee and any Fiduciary File legal-status claims). This one document does two jobs: §1 is the internal truthfulness walk Ginny signs BEFORE `/standards` publishes; §2 is the client-facing attestation the Standards page promises in Part 3.4 (red-team flag 2). PDF render of §2 through the standard toolkit pipeline once §1 is signed._
 
 ## §1 — Internal attestation walk (Ginny signs before /standards publishes)
