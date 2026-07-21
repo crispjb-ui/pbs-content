@@ -75,6 +75,16 @@ Her phone on a small tripod, positioned per rule 2, recording 4K locally to the 
 3. **Everything downstream already exists:** candidates go through the standard six-phase pipeline in `video_production_runbook.md` (reveal-first cut, 15-25s short-cut target, Remotion caption template, 9:16 safe zones, `/video-qc` gate, phone preview). This capture system is a new SOURCE feeding the existing pipeline, not a new pipeline.
 4. **`/question-harvest` side benefit:** the transcript moments where clients ask questions feed the anxiety map and FAQ even when the footage itself isn't used.
 
+## Getting the material to Claude (the handoff protocol)
+
+**Claude works from the transcript, not the video.** The clip plan (in/out timecodes, hooks, captions, per-platform copy) is built entirely from Fathom's timestamped transcript; the video only matters at cut time (Brett's editor) and QC time. So the handoff is text-first:
+
+1. **Transcripts → paste into the Claude session.** Fathom → the meeting → copy transcript (or just the highlighted segments with ~2 minutes of context each). Paste with a one-line frame: date, meeting type (client / broker / internal), and the OBS filename it maps to. **Raw transcripts are pasted in chat only — NEVER committed to the repo** (they contain client-identifiable material; chat is session-scoped, the repo is not). What gets committed is the anonymized derivative only.
+2. **Claude returns a clip plan** committed to `social_clips/meeting_clips_YYYY_MM_DD.md`: per candidate — in/out timecodes mapped to the OBS file, hook line, caption copy, 9:16 reframe notes, platform post copy with the funnel CTA, and re-record prompts wherever the raw moment is client-specific. Plus the side outputs: `/question-harvest` entries and shocking-fact-bank candidates surfaced by the transcript.
+3. **Timestamp sync:** start the OBS recording at the moment of joining the call and Fathom's meeting-relative timestamps map ~1:1 to the OBS file. If OBS started early/late, note the offset in the handoff line ("OBS started 0:45 before join").
+4. **Video for QC:** rendered MP4s can be uploaded straight into the Claude session (the same way screenshots are shared) — Claude runs the `/video-qc` gate on them (frame extraction + safe-zone/burn-in checklist) before the phone preview. Raw meeting recordings are never uploaded anywhere; only finished candidate renders.
+5. **Frames for judgment calls:** when a visual question comes up mid-plan (framing, lighting, whether a punch-in works), a screenshot of the frame pasted in chat is enough.
+
 ## Compliance guardrails (load-bearing, same family as the closeout-kit rules)
 
 - Fathom's meeting-recording notice stays on for every call, unchanged — it is what covers the meeting audio that bleeds onto the local track.
