@@ -46,6 +46,10 @@ Her phone on a small tripod, positioned per rule 2, recording 4K locally to the 
 | External SSD | Samsung T7 / Crucial X9, 2 TB | $120-140 | Recording target; a meeting day at 1080p ≈ 10-20 GB, 4K more; cull weekly after harvest |
 | Optional: key light | clip-on LED panel (budget) or Elgato Key Light Air | $35 / $130 | Only if the window-behind silhouette shows in the test recording; try facing the window first |
 
+### Hardware decisions locked Jul 21, 2026 (pending Ginny's OK to purchase)
+
+Final inventory, all permanently connected: **(1) Logitech MX Brio** perched on the top edge of the LAPTOP screen (the center display, where the presentation window lives — eye-level, gaze near-camera while presenting); **(2) DJI Mic Mini lav** worn by Ginny, receiver living in a USB port, dock-to-charge at day's end; **(3) Samsung T7 Shield 2TB external SSD** as the OBS recording target (a drive, NOT a capture card — none is needed; a webcam is already a USB video device). Key light deferred until the first test shows whether the window silhouettes her. Software: OBS, free. Brett is walking Ginny through it before ordering.
+
 ### One-hour setup (Brett at Ginny's desk)
 
 1. **Install OBS Studio** (obsproject.com, current release) on the Lenovo.
