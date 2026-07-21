@@ -156,7 +156,7 @@ If answers 1, 3, and 5 are yes, answer 2 is no, and answer 4 shows a meaningful 
 
 Site-of-care optimization crosses the pharmacy/medical benefit boundary. The drug may be covered under pharmacy. The administration is covered under medical. Changing the site of care requires coordination between the PBM, the medical plan administrator, the prescribing physician, the infusion provider, and the member.
 
-Your broker can help coordinate this across vendors. The best brokers are already flagging site-of-care opportunities in claims reviews. The contract provisions that enable site-of-care steering (preferred network designation, tiered cost-sharing by setting, medical necessity criteria for hospital outpatient) should be part of your PBM and medical plan contract language. The protective versions of the specialty-routing and site-of-care provisions are documented in our [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library).
+Your broker can help coordinate this across vendors. The best brokers are already flagging site-of-care opportunities in claims reviews. The contract provisions that enable site-of-care steering (preferred network designation, tiered cost-sharing by setting, medical necessity criteria for hospital outpatient) should be part of your PBM and medical plan contract language. The protective versions of the specialty-routing and site-of-care provisions are documented in our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library).
 
 🔒🔒🔒 **PAID AUDIENCE BLOCK — STOP. DO NOT PASTE THIS INTO THE FREE ARTICLE BODY.** 🔒🔒🔒
 
@@ -170,7 +170,7 @@ Have you evaluated site-of-care for your plan's infusion therapies? If you have 
 
 ---
 
-*For the full protective contract language on specialty routing provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on specialty routing provisions, see our free PBM Contract Language Library: https://www.rxbs.org/contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions on site-of-care strategy? Reach out at team@rxbs.org.*
 

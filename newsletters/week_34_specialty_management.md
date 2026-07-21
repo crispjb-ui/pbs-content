@@ -154,7 +154,7 @@ For each of the eight levers, score on three dimensions (1-5 each):
 **The priority action list**
 
 After scoring, rank the eight levers by improvement opportunity score (highest first). The top three are your immediate priorities. For each priority lever:
-1. Identify the specific contract provision or policy change needed (the protective specialty-routing language lives in our [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library))
+1. Identify the specific contract provision or policy change needed (the protective specialty-routing language lives in our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library))
 2. Quantify the potential savings using claims data (your broker can help model this)
 3. Add it to your renewal negotiation term sheet (see Week 25 renewal timeline)
 
@@ -172,7 +172,7 @@ Have you scored your plan's specialty management? Leave a comment below.
 
 ---
 
-*For the full protective contract language on specialty routing and prior authorization, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on specialty routing and prior authorization, see our free PBM Contract Language Library: https://www.rxbs.org/contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 

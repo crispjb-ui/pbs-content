@@ -170,7 +170,7 @@ I organized these by financial impact, starting with the provisions that move th
 
 **Bringing it together**
 
-Print this list. Mark which provisions your current contract covers. Mark which ones are weak or absent. The gaps are your negotiation agenda. Share it with your broker. Walk into the renewal meeting with your own term sheet, your own data, and your own priorities. The protective language for each of these provisions lives in our [PBM Contract Language Library](https://benefitblindspots.substack.com/p/pbm-contract-language-library), the canonical reference Prescription Benefit Solutions maintains from the contract reviews we run all year.
+Print this list. Mark which provisions your current contract covers. Mark which ones are weak or absent. The gaps are your negotiation agenda. Share it with your broker. Walk into the renewal meeting with your own term sheet, your own data, and your own priorities. The protective language for each of these provisions lives in our [PBM Contract Language Library](https://www.rxbs.org/contract-language-library), the canonical reference Prescription Benefit Solutions maintains from the contract reviews we run all year.
 
 The employers who do this negotiate measurably different outcomes. Every time.
 
@@ -184,7 +184,7 @@ _Publisher: paste the article body AROUND this block. At this exact spot in the 
 
 ---
 
-*For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://www.rxbs.org/contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 
