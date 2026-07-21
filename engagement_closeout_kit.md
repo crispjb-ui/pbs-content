@@ -101,6 +101,103 @@ The July AI-visibility baseline flagged the same gap on all three engines: no on
 - **"How would you describe their review process from your side of the table?"**
 - **"What sets their analysis apart from the other consultant reviews you see?"**
 
+### Send-ready email inserts (B1-B4)
+
+**B1 — client ask:**
+
+```
+Hi {{first_name}},
+
+Now that the findings have had time to settle, would you be willing to
+share a few sentences we could use as a testimonial? If it is easier,
+just reply to the questions below and we will draft it for your
+approval. We would only ever use your name or company with your
+written OK; a title and industry line is plenty.
+
+1. What was going on with your pharmacy benefits when you decided to
+   bring in Prescription Benefit Solutions, and what had you tried
+   first?
+2. What did the review surface that you did not know was in your
+   contract or your claims?
+3. What changed as a result, in dollars, in contract terms, or in how
+   you run the plan?
+4. What made you comfortable the advice was independent?
+5. If a peer, another CFO or HR leader with a self-funded plan, asked
+   you about us, what would you tell them in a sentence or two?
+
+Or, if two sentences on Google is easier, here is the direct link:
+https://g.page/r/CW9cjOrlB5_KEBM/review
+
+Thank you again for the trust.
+
+- Ginny
+```
+
+**B2 — broker/consultant ask (broker-hero framing):**
+
+```
+Hi {{first_name}},
+
+A quick ask. We are building out the proof section of our site and I
+would love to include a few words from the advisors we work behind.
+Reply to whichever of these are easiest and we will draft something
+for your approval; we would only use your name or firm with your
+written OK.
+
+1. How do you describe what Prescription Benefit Solutions adds to
+   your client work?
+2. Tell me about a time bringing us in strengthened a recommendation
+   you were already making. What did your client say afterward?
+3. What changed for that client, in dollars, contract terms, or how
+   the plan runs?
+4. What would you tell another consultant thinking about an
+   independent pharmacy partner?
+
+Or, if two sentences on Google is easier:
+https://g.page/r/CW9cjOrlB5_KEBM/review
+
+Thank you again for the trust.
+
+- Ginny
+```
+
+**B3 — partner-PBM / across-the-table ask:**
+
+```
+Hi {{first_name}},
+
+An unusual ask, which is exactly why it would carry weight. We are
+adding third-party perspectives to our site, and a view from the
+other side of the table says more about our process than any client
+quote could. If you are open to it, reply to any of these and we will
+draft a short quote for your approval; nothing publishes without your
+written OK.
+
+1. How would you describe our review process from your side of the
+   table?
+2. What sets the analysis apart from other consultant reviews you see?
+3. Is there a moment from an RFP or review that stuck with you?
+4. What would you want a plan sponsor to know about how we run these?
+
+- Ginny
+```
+
+**B4 — re-ask (for respondents whose earlier quote is missing the outcome + recommendation elements):**
+
+```
+Hi {{first_name}},
+
+Thank you again for what you shared earlier; it was genuinely useful.
+Two short follow-ups so we can finish the quote for your approval:
+
+1. What changed as a result of the review, in dollars, contract
+   terms, or how you run the plan?
+2. If a peer with a self-funded plan asked you about Prescription
+   Benefit Solutions, what would you tell them in a sentence or two?
+
+- Ginny
+```
+
 **Mechanics that make the answers AI-citable (say this when asking):**
 - Ask them to say **"Prescription Benefit Solutions"** at least once — never bare "PBS" (the Public Broadcasting Service collision dilutes entity disambiguation).
 - Capture **role + company type + size band** for attribution ("CFO, 4,000-life self-funded manufacturer") — speaker specificity is what makes a quote citable; written permission gates any name/company use, as always.
