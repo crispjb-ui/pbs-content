@@ -31,7 +31,7 @@
 
 ---
 
-This is a living reference. We update it quarterly based on patterns from the PBM contracts Prescription Benefit Solutions reviews each year.
+This is a living reference. We update it quarterly based on patterns from the PBM contracts Prescription Benefit Solutions reviews each year. The Library also lives on our website, where every provision family has a permanent home: https://www.rxbs.org/contract-language-library
 
 For each provision, we show:
 - **What you might see** (common vague language)

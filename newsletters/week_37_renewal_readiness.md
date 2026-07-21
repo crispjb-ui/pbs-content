@@ -90,7 +90,7 @@ We have spent 13 weeks building toward this moment. Foundational knowledge. Asse
 
 This week ties it all together.
 
-Every tool Prescription Benefit Solutions published this quarter, the 90-day timeline, the formulary audit, the PBM scorecard, the network model, the rebate framework, the RFP question bank, the clinical program evaluation, the communication templates, the specialty assessment, the negotiation checklist, the [contract language library](https://benefitblindspots.substack.com/p/pbm-contract-language-library), was designed for one purpose: to put the employer in a position to negotiate from data rather than reaction.
+Every tool Prescription Benefit Solutions published this quarter, the 90-day timeline, the formulary audit, the PBM scorecard, the network model, the rebate framework, the RFP question bank, the clinical program evaluation, the communication templates, the specialty assessment, the negotiation checklist, the [contract language library](https://www.rxbs.org/contract-language-library), was designed for one purpose: to put the employer in a position to negotiate from data rather than reaction.
 
 The question now is whether you are ready. This scorecard answers that question with specificity.
 
@@ -263,7 +263,7 @@ _Publisher: paste the article body AROUND this block. At this exact spot in the 
 
 ---
 
-*For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
+*For the full protective contract language on pricing, rebates, audit rights, and termination provisions, see our free PBM Contract Language Library: https://www.rxbs.org/contract-language-library. Updated quarterly from patterns we see in client contract reviews.*
 
 *Questions? team@rxbs.org. Subscribe to Benefit Blind Spots.*
 
