@@ -33,6 +33,41 @@ Her phone on a small tripod, positioned per rule 2, recording 4K locally to the 
 - **Eye-level 4K webcam** (e.g. Logitech Brio/MX Brio class), mounted on the center screen's top edge or a small desk arm at eye height. The laptop's built-in camera is below eye level on her riser setup and will always read as looking down at the viewer.
 - **Light source facing her** (the window she faces, or a small key light) — the blinds-behind-her arrangement will silhouette her on camera; either face the window or add the light.
 
+## Go-live checklist (straight to OBS — decided Jul 21, 2026)
+
+### Shopping list (order first, ~$420 mid config / ~$200 floor)
+
+| Item | Pick | ~Price | Why |
+|---|---|---|---|
+| Mic (FIRST) | Samson Q2U (floor) or Shure MV7+ (nicer) | $70 / $280 | **Dynamic cardioid** — rejects the speaker bleed far better than any webcam/laptop mic or condenser; her voice dominates the track |
+| Small boom arm or desk stand for the mic | any compact boom | $25 | Gets the mic to ~8-12 inches from her mouth, off-camera at frame edge |
+| Webcam | Logitech MX Brio (4K) | $180-200 | Eye-level 4K source for the 9:16 punch-in; built-in laptop cam is below eye level on the riser |
+| Webcam mount | monitor-top perch (included) or $20 small tripod/arm | $0-20 | Top edge of the CENTER screen, lens at eye height |
+| External SSD | Samsung T7 / Crucial X9, 2 TB | $120-140 | Recording target; a meeting day at 1080p ≈ 10-20 GB, 4K more; cull weekly after harvest |
+| Optional: key light | clip-on LED panel (budget) or Elgato Key Light Air | $35 / $130 | Only if the window-behind silhouette shows in the test recording; try facing the window first |
+
+### One-hour setup (Brett at Ginny's desk)
+
+1. **Install OBS Studio** (obsproject.com, current release) on the Lenovo.
+2. **Scene "FaceCam":** Video Capture Device = the MX Brio at 4K30 (1080p30 until it arrives, using the laptop cam); Audio Input Capture = the mic. No other sources.
+3. **Settings → Output (Recording):** format **MKV** with automatic remux to MP4 (survives crashes); encoder = hardware (NVENC on this class of Lenovo); quality CQP ~20; path = the external SSD.
+4. **Filename format** `%CCYY-%MM-%DD %hh-%mm` (meeting slug added at weekly harvest).
+5. **Hotkeys:** Start/Stop Recording = Ctrl+Shift+R (works while Teams has focus).
+6. **Start Virtual Camera** in OBS, then in **Teams → Settings → Devices → Camera → "OBS Virtual Camera"** (mic in Teams stays the physical mic — audio is shared between apps, no routing needed).
+7. **Windows Settings → Privacy → Camera:** allow desktop apps (OBS needs it).
+8. **Auto-start:** add OBS to Windows startup with launch flags `--startvirtualcam --minimize-to-tray` so the virtual camera exists before Teams ever asks for a camera. Order matters: OBS owns the physical cam; Teams must only ever see the virtual one.
+9. **Power settings:** disable sleep on AC so an idle stretch never kills a recording.
+10. **Test call** (Brett as the far end): confirm the client-side view looks normal, the recording captures full-frame face + clean audio, and speaker bleed level is acceptable with the new mic.
+11. **Two habits for Ginny:** Ctrl+Shift+R when a meeting starts/ends; the Fathom highlight tap when a moment lands. That is the whole ask.
+12. **Weekly harvest slot for Brett** (pairs with the existing Friday rhythm): rename files to meeting slugs, pull Fathom highlights, cut candidates, cull the SSD.
+
+### Known gotchas
+
+- If Teams shows a black camera: OBS wasn't running/virtual cam not started before Teams grabbed a device. Restart OBS, re-pick "OBS Virtual Camera" in Teams devices.
+- Teams updates occasionally reset the camera pick — re-select the virtual camera after any Teams update.
+- The tri-screen extender eats USB-C bandwidth/ports; put the webcam + SSD on separate USB-A ports if the USB-C ones are taken.
+- First week: spot-check one recording per day (framing drift, audio level) before trusting the set-and-forget.
+
 ## Workflow: from meeting day to clips
 
 1. **During meetings:** recording runs; when Ginny says something that lands (a client asks the anxiety question, she nails an explanation), she taps **Fathom's highlight button** — that is the entire logging burden on her, one tap.
