@@ -4,11 +4,13 @@ _Created Jul 21, 2026 (Brett-requested). Goal: record Ginny's face + voice throu
 
 ## The architecture in one paragraph
 
-Teams keeps doing exactly what it does (deck shared, Fathom recording + transcribing). In parallel, a **local recording captures ONLY Ginny's camera and ONLY Ginny's mic**, full-frame, all meeting long. Because she wears **headphones**, the client's voice never enters the local track and the client's screen is never in frame, so the local recording is a clean "Ginny-only" asset with none of the meeting's confidential surface in it. Fathom's transcript + highlights become the INDEX into that footage: find the moment in the transcript, cut the same timestamp from the face cam.
+Teams keeps doing exactly what it does (deck shared, Fathom recording + transcribing). In parallel, a **local recording captures Ginny's camera full-frame and her mic**, all meeting long. Fathom's transcript + highlights become the INDEX into that footage: find the moment in the transcript, cut the same timestamp from the face cam.
+
+**Audio reality (confirmed Jul 21, 2026): Ginny uses her computer speakers, no headphones.** So the client's voice bleeds onto the local mic track. That makes the local recording, audio-wise, the same thing Fathom already captures with notice: a meeting recording. Treat it accordingly — **the raw local file has Fathom-recording confidentiality (internal raw material, never published as-is)**, and the "Ginny-only" discipline moves from capture time to edit time (rule 1 below). If she ever accepts a single earbud / open-ear option (one AirPod, Shokz), most client audio comes off the track and everything gets easier; offer once, do not fight for it.
 
 ## The three rules that make the footage usable
 
-1. **Headphones during every call.** This is load-bearing: it keeps the client's voice off the local track entirely. Without headphones, her mic picks up their voice from the speakers and every clip needs consent review; with them, the local file contains only Ginny.
+1. **Publishable clips = segments where only Ginny is speaking.** This costs little in practice: the content-rich stretches are her PRESENTING, exactly when the client is silent. Q&A back-and-forth (client voice on track) was mostly non-publishable anyway; those moments become `/question-harvest` entries + 60-second to-camera re-records. Every published cut gets a listen-through confirming no client voice, name, or identifying detail survives.
 2. **Camera at eye level, on-axis with the center screen.** Mounted just above where the presentation window sits, so when she presents she is looking almost straight into the lens. An off-to-the-side camera produces a permanent profile view that reads as surveillance footage, not content.
 3. **Record 4K (or highest available) horizontal.** The 9:16 vertical crop for LinkedIn happens in post per the render spec in `video_content_bank.md`; 4K source gives room to punch in and reframe. 1080p is the floor, not the target.
 
@@ -27,8 +29,8 @@ Her phone on a small tripod, positioned per rule 2, recording 4K locally to the 
 
 ## The hardware upgrade that actually matters (~$150-250, when ready)
 
+- **A close mic FIRST (lav clipped on, or a USB mic at arm's length) — moved to first purchase in the no-headphones configuration.** With speakers up and a laptop built-in mic, her voice and the client's land at similar levels plus room echo on the raw track. A close mic makes her voice dominate by a wide margin: better-sounding clips AND client bleed drops to easily-cut-around background level.
 - **Eye-level 4K webcam** (e.g. Logitech Brio/MX Brio class), mounted on the center screen's top edge or a small desk arm at eye height. The laptop's built-in camera is below eye level on her riser setup and will always read as looking down at the viewer.
-- **A lav or USB mic** if the webcam mic sounds thin (test first; the existing headset mic may already be fine since the local track records it at full quality, not Teams-compressed).
 - **Light source facing her** (the window she faces, or a small key light) — the blinds-behind-her arrangement will silhouette her on camera; either face the window or add the light.
 
 ## Workflow: from meeting day to clips
@@ -40,8 +42,9 @@ Her phone on a small tripod, positioned per rule 2, recording 4K locally to the 
 
 ## Compliance guardrails (load-bearing, same family as the closeout-kit rules)
 
-- Fathom's meeting-recording notice stays on for every call, unchanged. The local track adds no new meeting-recording surface (it captures only Ginny), but the notice discipline stays.
-- **Nothing client-identifying ever publishes:** no client names, no shared-screen content (never in frame by design), no client voice (never on the track by design, via headphones). Client-call footage of Ginny explaining a general concept is publishable raw material; anything where she names the client, the numbers, or the situation specifically is either cut around or treated as a re-record prompt ("say the anonymized version to camera in 60 seconds").
+- Fathom's meeting-recording notice stays on for every call, unchanged — it is what covers the meeting audio that bleeds onto the local track.
+- **The raw local file is confidential** (same handling as the Fathom recording: internal storage, no sharing outside the production workflow, never published as-is).
+- **Nothing client-identifying ever publishes:** no client names, no shared-screen content (never in frame by design), no client voice (edited out per rule 1 — every published cut gets a listen-through). Client-call footage of Ginny explaining a general concept is publishable raw material; anything where she names the client, the numbers, or the situation specifically is either cut around or treated as a re-record prompt ("say the anonymized version to camera in 60 seconds").
 - When in doubt, the clip becomes a **re-record prompt, not a publish** — the meeting proved the explanation works; the clean version takes one minute to re-say. This is often the better content anyway (tighter, reveal-first).
 - Anonymization rules of record: `engagement_closeout_kit.md`. High-stakes clips pass the normal gates.
 
@@ -49,4 +52,4 @@ Her phone on a small tripod, positioned per rule 2, recording 4K locally to the 
 
 - Do not rely on Teams recording layouts, Teams Premium composites, or Fathom's speaker view for face footage while screen-sharing. The face view is small, compressed, and framed for the meeting, not for content.
 - Do not point a camera at any screen showing client material.
-- Do not skip headphones "just this once" on a call being captured; that single change reintroduces the client's voice into the local track.
+- Do not publish any cut without the client-voice listen-through; in the speakers-up configuration the raw track always contains meeting audio.
