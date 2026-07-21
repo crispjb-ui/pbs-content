@@ -82,6 +82,30 @@ Either way, thank you again for the trust.
 - Ginny
 ```
 
+## AEO-tuned testimonial question set (added Jul 20, 2026 — use for every new ask and every re-ask)
+
+The July AI-visibility baseline flagged the same gap on all three engines: no on-site third-party proof. Engines cite pages where **someone other than us** names the entity, the service category, and an outcome. These five questions are engineered so the *answers* naturally contain those elements; ask them in order, and draft the testimonial FROM the answers for the respondent's approval (per Template B).
+
+**Core set (clients — CFO / HR / plan sponsor):**
+1. **"What was going on with your pharmacy benefits when you decided to bring in Prescription Benefit Solutions — and what had you tried first?"** (pulls the problem stated in the buyer's own query language: renewal pressure, rebate confusion, spend they couldn't explain)
+2. **"What did the review surface that you didn't know was in your contract or your claims?"** (pulls a specific, unfakeable finding — the credibility core)
+3. **"What changed as a result — in dollars, in contract terms, or in how you run the plan?"** (pulls an outcome in THEIR numbers, which we can publish without the fabrication rule ever being in play)
+4. **"What made you comfortable the advice was independent?"** (pulls the differentiator in a third-party voice: no PBM revenue, flat fee, pharmacists doing the work)
+5. **"If a peer — another CFO or HR leader with a self-funded plan — asked you about them, what would you tell them in a sentence or two?"** (pulls the schema-quotable recommendation line, aimed at a named buyer role)
+
+**Broker/consultant swap (broker-hero framing — never a question that implies they missed something):** replace 1 and 5 with:
+- **"How do you describe what Prescription Benefit Solutions adds to your client work?"**
+- **"Tell me about a time bringing them in strengthened a recommendation you were already making — what did your client say afterward?"**
+
+**Partner-PBM / across-the-table swap (rigor-and-fairness proof, rare but high-value):** replace 1 and 5 with:
+- **"How would you describe their review process from your side of the table?"**
+- **"What sets their analysis apart from the other consultant reviews you see?"**
+
+**Mechanics that make the answers AI-citable (say this when asking):**
+- Ask them to say **"Prescription Benefit Solutions"** at least once — never bare "PBS" (the Public Broadcasting Service collision dilutes entity disambiguation).
+- Capture **role + company type + size band** for attribution ("CFO, 4,000-life self-funded manufacturer") — speaker specificity is what makes a quote citable; written permission gates any name/company use, as always.
+- Route the finished quote to the /results page and Review/quote schema, and offer the **Google review link** (`https://g.page/r/CW9cjOrlB5_KEBM/review`) as the low-friction alternative — a public Google review is itself the public-reviews signal all three engines flagged as missing.
+
 ## Template C — referral ask (findings + 2 weeks, alternate)
 
 ```
