@@ -1,7 +1,10 @@
 # The Standards for Independent PBM Review — v1.0 (publish-ready draft)
 
 **Status:** DRAFT for Ginny's authorship pass + counsel read of the independence criteria (Decision #6). Publishes as a page on rxbs.org (`/standards`, Content/Answer archetype, Article + DefinedTermSet JSON-LD per the site system) under Ginny's byline, and as a 2-page PDF in the toolkit visual system. Versioned: v1.0, revised annually each January with the Index.
-**⚠ RED-TEAM (Jul 6, 2026): PASSED attacks 1-6.** No named-company claims beyond public structure; independence criteria framed as PBS's own standard (broker-read clean); naming rule + no-em-dash clean; counsel gate on the criteria stands as the remaining publication gate.
+**⚠ RED-TEAM (re-run Jul 21, 2026, pre-Aug-W1 build): CLEAR AFTER FLAGS RESOLVED.** Mechanical fixes applied this pass: (1) **BCACP removed from the byline** (credential no longer active; matches the Jul 15 /about decision — CRITICAL catch, an inactive credential on an integrity-standards byline is the exact hostile-journalist surface); (2) Part 1-4 header em dashes converted to colons (published-surface brand rule). Attacks 1/3/5 re-verified clean (no named companies; broker read structural not competence; the single ERISA characterization is general and inside the counsel read anyway). Remaining flags, judgment-level, NOT copy edits:
+**⚠ RED-TEAM FLAG 1 (counsel gate, standing):** the independence criteria + the footer claim "We accept no PBM revenue" are factual attestations about Prescription Benefit Solutions — counsel + Ginny confirm true, complete, and durable before publish (Decision #6; in the Jul 21 counsel packet).
+**⚠ RED-TEAM FLAG 2 (operational readiness):** Part 3.4 promises "the reviewer's independence attestation ... in writing." The attestation TEMPLATE must exist before the page publishes — a competitor or journalist can test the standard by requesting one. One-page doc against the Part 1 criteria; build before Aug W1.
+**⚠ RED-TEAM FLAG 3 (Ginny read):** Part 1.5 / Part 4 include findings "unfavorable to any incumbent vendor or advisor." The "or advisor" is the honest standard (advisor-filtering is a real failure mode) and partner brokers pass it trivially, but it is the one phrase a broker could read as aimed at them. Recommendation: KEEP, with Ginny consciously signing off rather than discovering it post-publish.
 
 **Why this exists (internal):** whoever writes the standard leads the category. The independence criteria below describe Prescription Benefit Solutions' own model; they never name competitors. Readers, brokers, and journalists will do the comparative reading on their own.
 
@@ -11,13 +14,13 @@
 
 # The Standards for Independent PBM Review
 
-*Version 1.0 · Published by Prescription Benefit Solutions · Ginny Crisp, PharmD, BCACP*
+*Version 1.0 · Published by Prescription Benefit Solutions · Ginny Crisp, PharmD*
 
 Self-funded employers spend more on pharmacy every year, and more of them are asking for an independent review of their PBM contract and claims. That is the right instinct. But "independent review" has no agreed definition, and the market has noticed: reviews are now sold by firms that are owned by brokerages, affiliated with carriers, or compensated by the very vendors they evaluate.
 
 We review PBM contracts and pharmacy claims for a living. This document is our answer to a question clients and brokers ask us constantly: **what should a real independent review require?** These are the standards we hold ourselves to. We are publishing them so any plan sponsor can hold any reviewer, including us, to the same test.
 
-## Part 1 — Independence criteria
+## Part 1: Independence criteria
 
 A pharmacy benefit review is independent only if the reviewing firm can answer yes to all five:
 
@@ -29,7 +32,7 @@ A pharmacy benefit review is independent only if the reviewing firm can answer y
 
 A reviewer who fails any one of these can still be useful. They cannot be independent, and their findings should be weighed accordingly.
 
-## Part 2 — Minimum scope of a real review
+## Part 2: Minimum scope of a real review
 
 A review that only benchmarks pricing is a quote, not a review. At minimum, an independent PBM review examines:
 
@@ -39,14 +42,14 @@ A review that only benchmarks pricing is a quote, not a review. At minimum, an i
 4. **Channel and specialty routing.** Where prescriptions are being directed, and what the same drug costs the plan in each channel.
 5. **Audit and termination rights.** Whether the plan can verify any of the above, and whether it can leave if the answers are bad.
 
-## Part 3 — What the plan sponsor should receive
+## Part 3: What the plan sponsor should receive
 
 1. **A written findings report** with the dollar magnitude of each gap, stated so a finance committee can act on it.
 2. **A prudent-process record.** Documentation of what was reviewed, when, by whom, and what was decided, in a form the plan's fiduciaries can retain. Under ERISA, the process is the protection.
 3. **A recommendation with a path.** Optimize the current relationship through amendments, or take the plan to market, with the reasoning shown.
 4. **The reviewer's independence attestation** against Part 1, in writing.
 
-## Part 4 — Questions any plan sponsor should ask any reviewer
+## Part 4: Questions any plan sponsor should ask any reviewer
 
 > Who pays you, for this engagement and otherwise? Put it in writing.
 >
