@@ -12,7 +12,15 @@ Native Wix text elements only (never an HTML embed — embedded content is not i
 - **Meta description:** `The PBM questions self-funded plan sponsors actually ask, answered plainly: how to tell if you are overpaying, fiduciary exposure, renewal leverage, straight answers from your PBM, and more.`
 - **URL slug:** `/faq` · **Canonical:** `https://www.rxbs.org/faq` · **Indexable:** ON.
 
-## 3. Structured data
+## 3. Structured data — AS BUILT (Jul 21, 2026) + the oversized-block convention
+
+**As built:** the BreadcrumbList lives in the page's SEO panel (Advanced SEO → Structured data). The **FAQPage block lives in Settings → Custom Code** (snippet "FAQ FAQPage", FAQ page only, Head) — NOT the SEO panel. Wix's panel re-formats pasted JSON (pretty-print + its own script wrapper) and counts the added characters against its 7,000-char cap, so the 6,441-char minified block kept failing on Apply. Custom Code renders byte-for-byte with no cap. **Future edits to the FAQ questions: update the page text, the Custom Code snippet, and this repo's paste file together.**
+
+**Convention forward (applies to the guide pages, What We're Seeing, any big schema):** blocks that fit the panel comfortably (~6K chars AFTER Wix's reformatting inflation, so realistically ≤5K minified) go in the panel; anything bigger goes straight to **Settings → Custom Code** (with its own `<script type="application/ld+json">` wrapper, page-specific, Head). Never paste a script wrapper into the SEO panel (the panel adds its own).
+
+**Validation note (2026 reality):** Google's Rich Results Test no longer lists FAQ for general websites (FAQ rich results were restricted to gov/health sites in Aug 2023), so it shows Breadcrumbs only even when the FAQPage markup is perfect. **The validator of record is validator.schema.org** — the live page passed Jul 21, 2026: FAQPage 0 errors / 0 warnings / 1 item + BreadcrumbList clean. The FAQPage payload is for answer engines (AEO), not Google dropdowns.
+
+### Original section 3 (superseded by as-built above)
 Delete the glossary's two inherited blocks; paste the 2 blocks from `faq_jsonld_paste.md` (FAQPage 6,456 chars — fits Wix's 7,000-char field; BreadcrumbList 2-level). **The visible on-page Q&A text must match the schema answers** (copy verbatim from the copy source — that is what makes FAQPage rich results and AI citations legitimate rather than spammy).
 
 ## 4. Page structure (top to bottom, mapped from the glossary duplicate)
