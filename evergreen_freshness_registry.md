@@ -14,6 +14,7 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 | Renewal Second Opinion (`/renewal-second-opinion`) | Wix | 2026-07-16 (seasonal sharpen) | Seasonal: pre-Sep refresh should sharpen the 90-day-window dates for Jan 1 effective dates |
 | Toolkit Library page + 29 toolkit PDFs | Wix + `templates/documents/` | rolling (see toolkit dataset) | Freshness pass picks the 1-2 OLDEST toolkits by original build week (W16-W18 era first), refreshes stats/examples, re-renders per `/sync-toolkits` |
 | Contract Language Library (Substack evergreen) | `substack_contract_language_library.md` → live post | continuous (Library NN pushes) | Already on a continuous cadence; freshness pass checks the last push date and flags if >8 weeks stale |
+| Plan Sponsor FAQ (`rxbs.org/faq`) | Wix + FAQPage/BreadcrumbList JSON-LD | 2026-07-21 (launched) | 14 Q&As from the buyer-anxiety map; refresh = new questions from `/question-harvest` (add to page AND FAQPage schema together — visible text must match schema), link-ins as guide pages publish |
 | Contract Language Library (`rxbs.org/contract-language-library`) | Wix + Article/BreadcrumbList/DefinedTermSet JSON-LD | 2026-07-21 (launched) | Canonical twin of the Substack Library; updates ride each Library NN push per CLAUDE.md rule (c2) — clause card + `dateModified` bump in the Article markup. Freshness pass verifies the Wix page carries the latest pushed provisions (never diverge from the Substack body) |
 | Homepage | Wix | 2026-07-08 (schema) | Hero CTA + "Mysite" title defects still queued (gameplan P1 #12) |
 | About (`rxbs.org/about`) | Wix + Organization/Person JSON-LD | 2026-07-15 (rebuilt + launched) | Person schema carries `alumniOf` + credential (the entity fix). Refresh = proof-band anchors when 2026 metrics land, media chips as appearances air (Derms on Drugs pending), named team cards if Ginny supplies bios, testimonials block when collected |
@@ -21,7 +22,7 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 
 ## Not live yet (enter the pool at launch — add a row with launch date)
 
-`/contract-language-library` · `/what-we-are-seeing` · `/faq` · the 4 guides · `/standards` · `/how-we-charge` · `/results` · `/privacy`
+`/what-we-are-seeing` · the 4 guides · `/standards` · `/how-we-charge` · `/results` · `/privacy`
 
 ## Refresh log
 
