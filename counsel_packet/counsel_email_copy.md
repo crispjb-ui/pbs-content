@@ -1,6 +1,6 @@
 # Counsel packet — email copy (send from Ginny)
 
-_Created Jul 21, 2026. Attachments: `01_privacy_policy_for_counsel.pdf` + `02_standards_page_for_counsel.pdf` (both in this folder; each opens with a cover note listing the specific review questions so the email stays short)._
+_Created Jul 21, 2026. Attachments: the two counsel documents in this folder, available as **.docx (attach these — editable for counsel's redlines)** and .pdf (reference render). Each opens with a cover note listing the specific review questions so the email stays short._
 
 ```
 Subject: Two documents for legal review - website privacy policy and published review standards
