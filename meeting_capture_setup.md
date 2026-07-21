@@ -39,8 +39,8 @@ Her phone on a small tripod, positioned per rule 2, recording 4K locally to the 
 
 | Item | Pick | ~Price | Why |
 |---|---|---|---|
-| Mic (FIRST) | Samson Q2U (floor) or Shure MV7+ (nicer) | $70 / $280 | **Dynamic cardioid** — rejects the speaker bleed far better than any webcam/laptop mic or condenser; her voice dominates the track |
-| Small boom arm or desk stand for the mic | any compact boom | $25 | Gets the mic to ~8-12 inches from her mouth, off-camera at frame edge |
+| Mic (FIRST) — **wireless lapel, chosen Jul 21** | DJI Mic Mini or Hollyland Lark M2 (single-mic bundle, USB-C receiver) | $90-110 | Clip on, forget it: constant 6-8" from her mouth beats the speaker bleed by proximity, nothing on the desk, and it can't drift out of position. Receiver stays in a USB port; select it as the mic in BOTH OBS and Teams (better call audio too). **Daily habit: back in the charging case at day's end — a dead lav silently degrades the whole day's track.** Watch for clothing rustle on placement. |
+| _(alternative)_ desk dynamic mic + compact boom | Samson Q2U / Shure MV7+ | $95 / $305 | Slightly better room rejection on paper, but only works if it stays 8-12" from her; the worn mic beats the marginally better mic |
 | Webcam | Logitech MX Brio (4K) | $180-200 | Eye-level 4K source for the 9:16 punch-in; built-in laptop cam is below eye level on the riser |
 | Webcam mount | monitor-top perch (included) or $20 small tripod/arm | $0-20 | Top edge of the CENTER screen, lens at eye height |
 | External SSD | Samsung T7 / Crucial X9, 2 TB | $120-140 | Recording target; a meeting day at 1080p ≈ 10-20 GB, 4K more; cull weekly after harvest |
