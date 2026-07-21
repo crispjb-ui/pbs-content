@@ -849,7 +849,7 @@ A PBM's real product is a contract you will misread in its favor.
 ```
 Two drugs treat the same condition. The one your formulary prefers costs your plan more net of everything. Ask your PBM for the math that put it there. If the math is confidential, you have your answer.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C8]:**
 ```
 The discount your PBM announced in January is funded by the fees it renamed in February.
@@ -873,7 +873,7 @@ The quarterly review deck answers every question except the ones that cost the P
 ```
 Renewal season opens in weeks. Your PBM has been modeling your first-half claims since July 1. Has anyone built that model for your side of the table? Whoever brings the only model sets the range.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B8]:**
 ```
 Request the clinical rationale memo behind your formulary's three newest exclusions. If what comes back reads like a rebate summary, forward it to your CFO. It belongs in that inbox.
@@ -897,7 +897,7 @@ Ask a PBM a hard question in the quarterly review and you get a beautiful slide 
 ```
 When your plan last changed its formulary, who told the members' prescribers? If the answer is nobody, every denied refill became a phone call to your HR team. Prescriber notice is the cheapest complaint prevention a plan can buy.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C9]:**
 ```
 An invoice line that cannot name its contract clause is not a fee. It is a tip you did not mean to leave.
@@ -922,7 +922,7 @@ Every vague term in a PBM contract was left vague on purpose, by the side that d
 ```
 Give your sharpest finance person the PBM invoice and the pricing exhibit for one hour. If they cannot reconcile the two, that is not their failure. Unreadability is a design choice, and it bills by the month.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B9]:**
 ```
 Request your generic effective rate month by month, not as the annual average. Guarantees get rescued in the fourth quarter. The monthly view shows you what the average was hiding.
@@ -946,7 +946,7 @@ The best benefits communication I have seen was drafted by the call center, not 
 ```
 Manufacturers pay your PBM fees calculated on your plan's own claims volume. Ask where those dollars land. If the answer is "retained as compensation," the follow-up writes itself: why was the compensation never disclosed as a rate?
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D2]:**
 ```
 Pulled a client's specialty claims this month and sorted by filling pharmacy. Most of them filled at one the PBM owns. No member chose that. The prior-auth rules chose it for them.
@@ -962,7 +962,7 @@ Copay accumulators usually favor the plan: the card pays its share and the membe
 ```
 On some generics the copay is priced above the drug. Your member pays $15 on a fill that cost $6, the pharmacy keeps its usual cut, and the extra rides back to the PBM. The member subsidized the benefit and nobody sent a receipt.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 The three biggest PBMs set coverage terms for the vast majority of insured Americans, and each one owns the pharmacies those terms feed. Referee and franchise, same jersey.
@@ -971,7 +971,7 @@ The three biggest PBMs set coverage terms for the vast majority of insured Ameri
 ```
 340B: a hospital buys the drug at a deep federal discount. Your plan reimburses the claim at the full contracted rate. The spread stays with the hospital system, and your plan's report never shows a line item for it.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 The PBM business model in one sentence: charge the plan for access to prices the PBM itself sets.
@@ -980,7 +980,7 @@ The PBM business model in one sentence: charge the plan for access to prices the
 ```
 Your contract: "PBM will provide member communications as appropriate." The redline: sponsor review of member-facing notices before they ship, named timelines, and a script for the pharmacy counter. "As appropriate" is how surprises get scheduled.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C10]:**
 ```
 If spread pricing were defensible, it would be a line on your report instead of a word the PBM's lawyers push back on.
@@ -996,7 +996,7 @@ Your PBM formed a separate company to negotiate rebates, hired itself as the cli
 ```
 The maximizer captured every dollar the manufacturer card would pay this year. The program keeps a fee, often a percentage of "savings" it defines itself. Two numbers tell you if it works: what was captured, and what reached the plan. Most sponsors can produce neither.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Guaranteed minimum rebates set a floor and quietly license everything above it. Ask what was collected, not what was guaranteed. The distance between those numbers is the negotiation.
@@ -1005,7 +1005,7 @@ Guaranteed minimum rebates set a floor and quietly license everything above it. 
 ```
 Ascent, Emisar, Zinc: the group purchasing organizations the big PBMs built to collect manufacturer fees, some domiciled offshore. That fee layer sits upstream of your rebate guarantee, which puts it upstream of your report too. Upstream is where the money is.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 Pharmacy school taught me mechanisms of action. Nobody taught the mechanism of a copay. I have spent my career since learning the second one, and it explains more sticker shock than the first ever did.
@@ -1014,7 +1014,7 @@ Pharmacy school taught me mechanisms of action. Nobody taught the mechanism of a
 ```
 A reader asked when to announce a formulary change. Earlier than feels necessary, twice as specifically as feels natural, and to the prescribers before the members. The counter should never be the messenger.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B10]:**
 ```
 Ask your PBM which provisions survive termination. Data ownership, audit rights, true-up payments. The clauses that outlive the deal are the ones the PBM drafted most carefully.

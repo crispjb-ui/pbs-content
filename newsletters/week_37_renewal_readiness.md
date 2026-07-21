@@ -1046,7 +1046,7 @@ Sponsors prepare for renewal meetings. PBMs prepare for renewal seasons. The gap
 ```
 Before your renewal meeting, run one report: specialty claims grouped by dispensing pharmacy. If a single owner dominates the list, you have found your leverage, and the reason the PBM never ran that report for you.
 ```
-  First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → What to do with the answer: rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C10]:**
 ```
 Spread has one natural predator: a sponsor who asks for both prices. That is why you are only ever shown one.
@@ -1070,7 +1070,7 @@ Spread, rebates, fees: three engines running on every prescription. A renewal th
 ```
 Score your audit clause before renewal: Who picks the auditor? Who sets the scope? Who sees claims-level data? Who rules on findings? If the PBM is the answer to all four, score it zero and open the negotiation right there.
 ```
-  First reply → The five clauses that fix it: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The five clauses that fix it: rxbs.org/contract-language-library
 - **8:30 PM · one question [B10]:**
 ```
 Renewal prep question for your PBM: "Walk us through, step by step, how our claims data reaches a successor PBM if we leave." The vagueness of the answer is the length of the leash.
@@ -1094,7 +1094,7 @@ Your PBM already built your renewal model off your H1 claims. It knows your numb
 ```
 How many people at your organization can log into the PBM reporting portal? Now, how many people at the PBM can query your claims? Renewal is a data negotiation, and one side arrives with all of it.
 ```
-  First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The reporting questions to start with: rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C1]:**
 ```
 The more times "transparency" appears in a PBM proposal, the more definitions you are going to need to read.
@@ -1147,7 +1147,7 @@ By the time the renewal meeting starts, the outcome is mostly decided by what ea
 ```
 At renewal, ask for the net-cost workup behind the three formulary picks your members use most. If the PBM cannot show its work, the formulary was not built for your plan. It was built for the rebate line.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D6]:**
 ```
 A sponsor showed me her renewal proposal this week. "Improved pricing" on page one, measured against a baseline the PBM had quietly restated on page three. I check baselines before discounts now. Every time.
@@ -1163,7 +1163,7 @@ Between the manufacturer's rebate check and your plan's rebate line sits a compa
 ```
 Ask a community pharmacist about DIR fees and watch their face. The PBM claws money back months after the fill, graded on metrics the PBM wrote. None of that recovered money appears on your plan's report. Someone keeps it. It is not the pharmacy, and it is not you.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Your contract prices brands off one benchmark, generics off another, and reconciles the guarantee on a third. Three dials, one hand turning all of them. Readiness means knowing which dial governs which line before the proposal lands.
@@ -1172,7 +1172,7 @@ Your contract prices brands off one benchmark, generics off another, and reconci
 ```
 "Site of care optimization" is the brochure name. The policy underneath: the clinic may no longer buy the specialty drug, it must arrive from the PBM's own pharmacy, and the margin travels with it. White bagging did not make the drug cheaper. It changed who gets paid for it. Read the mandate before renewal locks it in for another term.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 Undefined terms in a PBM contract are not gaps. They are options, and the PBM exercises every one of them before the term ends.
@@ -1197,7 +1197,7 @@ Spread pricing survives on one assumption: that you will never ask the pharmacy 
 ```
 Specialty is now the biggest share of most plans' drug spend, and most of it fills at a pharmacy the PBM owns. Members did not choose that. The prior-auth pathway routes there by default. Before renewal, price the alternative routing. Then decide whether the default deserves to survive.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 3 PBMs process about 80% of US prescriptions, up from 52% in 2004. The same 3 own the pharmacies filling ~70% of specialty spend. That is the leverage reality you negotiate inside of.
@@ -1206,7 +1206,7 @@ Specialty is now the biggest share of most plans' drug spend, and most of it fil
 ```
 Some copays are not cost sharing. They are revenue. The member pays more at the counter than the claim costs the plan, and the PBM sweeps the overage. Pharmacists were once contractually barred from mentioning it. Ask your PBM whether copay overages ever touched your plan's claims, and where they went.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 Patients used to ask me at the counter why their price jumped. I never had a good answer. It took years of reading PBM contracts to find it: the price was a negotiation, and the patient was never in the room. That is still why I do this work.
@@ -1215,7 +1215,7 @@ Patients used to ask me at the counter why their price jumped. I never had a goo
 ```
 A reader asked what to do 90 days out with nothing prepared. Triage: pull the contract, mark the auto-renewal and notice clauses, and get the termination-for-convenience ask in writing this week. Optionality first. Analysis second.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B2]:**
 ```
 Put one row at the top of your renewal spreadsheet: manufacturer dollars generated by our plan versus manufacturer dollars received by our plan. The delta between those two cells is the entire negotiation.

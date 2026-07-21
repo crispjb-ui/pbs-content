@@ -821,7 +821,7 @@ A broker told me a while back that specialty management had become the hardest c
 ```
 J-codes: provider-administered specialty drugs bill your medical benefit under a code, not an NDC. No unit price on the claim, no MAC list, no guarantee applies. The most expensive drugs on your plan run through the one lane with the least price scrutiny.
 ```
-  First reply (link): benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply (link): rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 When a guarantee is measured "in aggregate across all claims," the PBM chooses which claims do the heavy lifting. Aggregate is where misses go to hide.
@@ -834,7 +834,7 @@ The report your PBM sends is the report your PBM survives. Ask for a field that 
 ```
 "Lowest net cost" carries a silent question: net to whom? A rebate-heavy brand can be lowest net to the PBM and highest net to your plan on the same claim. Ask for the calculation, not the phrase.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C1]:**
 ```
 Transparency is the word every PBM uses and the thing every PBM contract is built to prevent.
@@ -858,7 +858,7 @@ The PBM knows your plan's data better than you do, and it prices that asymmetry 
 ```
 The biosimilar has been on the market for months at a fraction of the brand's list price. Check your claims: which one are your members actually filling? If it is still the brand, somebody's rebate math outvoted your savings. Find out whose.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B1]:**
 ```
 The one-line data request that quiets a meeting: "Pharmacy reimbursement and plan billed amount, same claim, same row." Every week the file does not arrive tells you something about what is in it.
@@ -882,7 +882,7 @@ PBM contracts are written once and misread for three years. The misreading is th
 ```
 Enrollment shrank this year. The PBM's per-member fees did not. Does your contract have a true-up clause, and when did it last actually run? A clause nobody triggers is a discount nobody gets.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C2]:**
 ```
 A PBM contract prices the drug once, then quietly re-prices it in the definitions for three years.
@@ -931,7 +931,7 @@ Specialty is a sliver of the claims and half the spend, and in most quarterly re
 ```
 Rebate guarantees fail at the noun. "100% of rebates received" invites the obvious follow-up: received after whose hands? If an aggregator the PBM owns touches the money first, your 100% starts late.
 ```
-  First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The full rebate-definition language to ask for: rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D3]:**
 ```
 Found a "free implementation" clause this week that turned out to be amortized into twelve months of admin fees. The plan paid for it in full. It just paid in installments under a friendlier label.
@@ -947,7 +947,7 @@ Spread pricing survives on one assumption: that you will never ask the pharmacy 
 ```
 There is a payment category where the brand pays your PBM for its competitors' absence. Not a rebate for being covered. A fee for others being excluded. Your members pay brand copays so that fee can exist.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 The cheapest audit you will ever run: circle the word "received" everywhere it appears in your rebate language. Every circle marks an exit where money can leave before it reaches you.
@@ -956,7 +956,7 @@ The cheapest audit you will ever run: circle the word "received" everywhere it a
 ```
 Compare the dispensing fee your plan pays at the PBM's mail pharmacy against the retail fee. Same pill, same label, richer fee at the house pharmacy. Small per claim. Never small per year.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 Specialty is single digits of your scripts and about half your pharmacy spend. It's also the part of your plan with the least independent oversight. The size and the blindness are not a coincidence.
@@ -965,7 +965,7 @@ Specialty is single digits of your scripts and about half your pharmacy spend. I
 ```
 Your contract: "PBM may substitute biosimilars where appropriate." The redline: lowest-net-cost option preferred within 60 days of launch, with a net-cost comparison you can see. "Appropriate" should mean cheapest for the plan, in writing.
 ```
-  First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → What to do with the answer: rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C3]:**
 ```
 A guarantee with no remediation clause behind it isn't a guarantee. It's a sentence the PBM wrote to make you stop reading.
@@ -981,7 +981,7 @@ Specialty routing in one experiment: ask your PBM to admit one independent speci
 ```
 When a manufacturer hikes a list price, it pays your PBM "price protection" to cushion the increase. Check whose cushion: if your rebate definition does not include price protection payments, the PBM kept the padding and your plan absorbed the hike.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Meeting a rebate guarantee and maximizing your rebates are two different jobs. Your PBM signed up for the first one.
@@ -990,7 +990,7 @@ Meeting a rebate guarantee and maximizing your rebates are two different jobs. Y
 ```
 Accumulator terms surface in January, when a member finds the copay card paid all year and the deductible did not move. That is a communication failure, not a program failure, and it lands on HR at renewal. Pull the terms and the member notice now, while fixing both is cheap.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 The first PBM contract I read took me a weekend and three highlighters. The tenth took an afternoon. They stop being complicated once you learn the pattern: every section is fair until a definition makes it not.
@@ -999,7 +999,7 @@ The first PBM contract I read took me a weekend and three highlighters. The tent
 ```
 A reader asked why specialty trend outruns everything else on their plan. Look at three lines: where the drugs are dispensed, who owns that pharmacy, and which benefit the claim lands under. Trend is often routing wearing a costume.
 ```
-  First reply → The five clauses that fix it: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The five clauses that fix it: rxbs.org/contract-language-library
 - **8:30 PM · one question [B3]:**
 ```
 Give your PBM homework at the next review: "Define pass-through in writing, including the definition of every term used inside the definition." The recursion is where the money lives.

@@ -782,7 +782,7 @@ Every fall, PBMs send out renewal proposals priced to be signed quickly. Speed i
 ```
 Your PBM can tell you tonight which ten drugs drove your Q2 spend. Could your team? One side reads your plan's data every day. The other side pays for it. Renewal favors the reader.
 ```
-  First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The reporting questions to start with: rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C4]:**
 ```
 Rebates are change from a bill the PBM padded first. Counting the change is not the same as saving money.
@@ -817,7 +817,7 @@ One renewal-season question for your PBM: "What share of our specialty spend fil
 ```
 It is September. Most Jan 1 PBM contracts are already inside their termination notice window. The auto-renewal clause will not send a reminder. It just rolls your current rates into another full term the morning after the deadline passes. Find the notice date today.
 ```
-  First reply (link): the termination and transition language to check: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply (link): the termination and transition language to check: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Two plans, same PBM, same year. One audit recovered real money. The other found nothing, because the contract let the PBM choose what the auditor saw. The clause decided the outcome before the audit began.
@@ -830,7 +830,7 @@ I read PBM contracts for a living. The hard part is not the vocabulary. It is th
 ```
 Your formulary has a "preferred" column. Ask what it cost the manufacturer to be in it. If nobody at your PBM can answer, the preference was not clinical, and your plan is funding the difference.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C5]:**
 ```
 Call it a network if you like. When every road is priced to end at the PBM's own pharmacy, it is a driveway.
@@ -878,7 +878,7 @@ The renewal meetings that go well have one thing in common: the plan's terms wer
 ```
 Money flows back to your PBM after the year closes: DIR fees, reconciliations, true-ups. How much of it reached your plan last year? If your report has no line for it, you already have your answer.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D4]:**
 ```
 Read an audit clause yesterday that let the plan audit "once per year, using the PBM's auditor, on the records the PBM provides." That's not an audit right. I see that exact language constantly.
@@ -894,7 +894,7 @@ A pharmacist fills a prescription in March and gets paid. In June the PBM reache
 ```
 Search your plan documents for "non-essential health benefit." A drug list under it means a maximizer is running: the amendment was executed in your plan's name and a vendor takes a fee from the captured card value. Ask who signed it, and what the plan's share was last year.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 An effective-rate guarantee is a promise about an average. Averages are where individual markups go to disappear. Ask for the month-by-month view, then the drug-by-drug one.
@@ -903,7 +903,7 @@ An effective-rate guarantee is a promise about an average. Averages are where in
 ```
 A member drives to their infusion appointment with a refrigerated specialty drug riding in the passenger seat, because the PBM's program shipped it to their house instead of the clinic. Brown bagging turns patients into couriers. The billing moved to the PBM's pharmacy. The spoilage risk moved to your plan. Ask who approved that trade.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 A PBM report is an argument, not an accounting. Every column earned its place by making the vendor's case.
@@ -912,7 +912,7 @@ A PBM report is an argument, not an accounting. Every column earned its place by
 ```
 Your contract: renewal terms "provided no later than 60 days before term end." The redline: 180 days, with your claims data delivered 30 days before that. You cannot negotiate what arrives after the exits close.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C6]:**
 ```
 "Pass-through" names the pipe, not the water. The PBM keeps its hand on a valve upstream, where you cannot see it.
@@ -928,7 +928,7 @@ Pull your own claims and run one comparison: a 90-day fill at the PBM's mail pha
 ```
 "Fail first" is the policy. Fail what first? Too often the drug with the richer rebate, not the cheaper or safer one. Step therapy earns its clinical name only when the sequence follows evidence. Ask your PBM for the evidence behind each step. Then ask for the rebate schedule behind it.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 NADAC is the public, government-published cost of a generic. The FTC found PBM-owned-pharmacy revenue above it grew 42% a year (2017-2021). At renewal, pull one generic claim and ask the PBM to show NADAC right next to its price.
@@ -937,7 +937,7 @@ NADAC is the public, government-published cost of a generic. The FTC found PBM-o
 ```
 When exactly one pharmacy in the country can fill a drug, ask why. Sometimes it is an FDA safety program. Often it is a distribution deal, and the one pharmacy answers to your PBM. "Limited distribution" can be a safety label glued onto a revenue decision.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 Pharmacy school taught me drug interactions. Nobody taught me contract interactions: how an audit clause interacts with a definitions section to cancel a guarantee. I learned that one client at a time. It moves more money than most formularies do.
@@ -946,7 +946,7 @@ Pharmacy school taught me drug interactions. Nobody taught me contract interacti
 ```
 A reader asked which single clause to fight for at renewal. Termination for convenience, 90 days, no penalty. Every other clause negotiates better the day that one exists.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B6]:**
 ```
 Renewal homework in one email: "Reconcile every fee you collected on our plan last year, from us and from manufacturers, against the clause that authorizes it." The unmatched fees are your opening agenda.

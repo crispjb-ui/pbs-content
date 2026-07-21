@@ -392,7 +392,7 @@ _No new toolkit ships this week (refer-back-first). The third line routes to the
 ## Post 133 - Tuesday 10:00 AM
 ### "Three Clauses Behind Every Q4 Cost Pattern" — Library 06 Contract Comparison Carousel
 
-**Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-05.
+**Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-06.
 **Format class:** Carousel (Tuesday Cycle-W2 slot, fourth cycle)
 **Pillar:** Self-Funded Employer Guidance (different from Monday's PBM Contract Insights / Contract Red Flags topic)
 **Content shape:** **Library NN reference asset (save-driven, not feed-reach).** Library 01 3-day actuals: 2,129 impressions, +2 followers, 14 saves. **Do not evaluate Library 06 against the 20-25K decoder floor.** Success metric: 12+ saves in first 2 weeks, 30-day profile viewer count, Substack Contract Language Library traffic lift. Library NN is bookmark-first, feed-distributed-second. Library 06 decodes the three contract clauses that create the observable Q4 cost patterns (copay card accumulator handling, year-end stockpiling via channel pricing, specialty timing via claim-cutoff language).
@@ -424,7 +424,7 @@ Full protective language for these three clauses, plus the rest of the year-end 
 
 #### Carousel Slide-by-Slide Spec
 
-Same visual system as Library 01-05: Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis; off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "WHY IT MATTERS" panels. Slide numbers "N / 7" bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 06."
+Same visual system as Library 01-06: Primary Blue cover + close with white Plex Sans SemiBold and italic Accent Blue emphasis; off-white contract-paper content slides with Plex Mono body, red strikethroughs, Accent Blue insertions, Primary Blue "WHY IT MATTERS" panels. Slide numbers "N / 7" bottom-right. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 07."
 
 **Slide 1 — Cover.** Headline: "Three clauses behind every Q4 cost *pattern*." ("pattern" italic Accent Blue.) Subhead: "The language that permits the spike, and the redlines that prevent it." "01 / 07."
 
@@ -442,13 +442,13 @@ Same visual system as Library 01-05: Primary Blue cover + close with white Plex 
 
 #### Image Generation Prompt
 
-Claude Design project type: **Slide deck from template**. Contract Comparison carousel (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-05. Pull slide-by-slide contract language from spec above. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 06."
+Claude Design project type: **Slide deck from template**. Contract Comparison carousel (template #4). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with Library 01-06. Pull slide-by-slide contract language from spec above. Cover eyebrow "PBM CONTRACT LANGUAGE · LIBRARY 07."
 
 **Post-Generation Steps:**
 
 1. Generate 7-slide deck
 2. Export PNGs 1080 x 1350
-3. Visual-parity check against Library 01-05
+3. Visual-parity check against Library 01-06
 4. Verify Slide 6 fits both pattern context and clause redline readably
 5. Upload as native LinkedIn carousel
 
@@ -749,6 +749,16 @@ A client's attorney told me once that she appreciated working alongside a pharma
 
 ---
 
+# Substack Contract Library Update — Library 07 Week
+
+> Open the live Substack post at `benefitblindspots.substack.com/p/pbm-contract-language-library` in edit mode. Copy everything between the `▼ BEGIN PASTE ▼` and `▲ END PASTE ▲` markers in `substack_contract_language_library.md` and paste over the existing post body. Publish. Then update the live rxbs.org canonical per CLAUDE.md rule (c2): add/amend the matching clause cards at `rxbs.org/contract-language-library` and bump `dateModified` in the CLL Article markup.
+
+Library 07 (the Tuesday Q4-patterns Contract Comparison carousel, renumbered from a duplicate "06" eyebrow Jul 21, 2026) is expected to have added or amended these provisions in the article body before the push:
+
+- **Accumulator Adjustment (§ 6.03)** — new provision: manufacturer copay assistance does not accumulate to deductible/OOP max unless the plan elects in writing; quarterly copay-assistance reporting by drug, member, and dollar impact. (Copay-program neutrality rule applies: the critique targets the undisclosed default, never the programs.)
+- **Channel Pricing and Refill Timing (§ 4.08)** — new provision: 75% refill-too-soon threshold enforced year-round without Q4 waiver, plan right to tighten in the final 30 days, maintenance meds priced at lower of retail or mail net cost.
+- **Claim-Year Cutoff (§ 4.05)** — new provision: guarantee reconciliation on date-of-service (not date-of-adjudication), 60-day delivery with tie-out.
+
 # PART 4B: X (TWITTER) POSTS
 
 > **Convention (see `x_account_strategy.md` + `x_recipe_post_bank.md`):** Full day shown below in one chronological stream: 5 posts/weekday (8:00 AM, 12:00 PM, 5:00 PM, 7:00 PM, 8:30 PM) and 7/weekend (adds 10:00 AM + 2:30 PM Tier-A) + same-hour news reactions on top. **NOT topic-locked.** AM = the recipe (named program · hidden extraction) per the Q3 rotation; **weekend AM = Tier A Cuban-bait.** Midday defaults to a same-hour **news reaction** (the backup below runs only on a quiet day); PM rotates the punchy pool; Sun PM is the one weekly origin. Links in the FIRST REPLY only; 0-1 hashtags. **LinkedIn-first:** amplify this week's Tue/Thu LinkedIn visuals on X only after they publish. _Contract red flags is the Monday topic, the whole recipe is on-theme this week, so the AM rotation lands especially well._
@@ -771,7 +781,7 @@ Vague language in a PBM contract is not sloppy drafting. It is inventory. Every 
 ```
 Could your plan actually leave its PBM at renewal? Read three things tonight: the notice deadline, the early-termination fee, and who controls your claims data on the way out. The PBM is counting on at least one of the three stopping you.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C7]:**
 ```
 The PBM sits on both sides of your drug transaction and bills you for the seat in the middle. The invoice calls it management.
@@ -795,7 +805,7 @@ Contract review rule: read every guarantee twice. Once for the promise. Once for
 ```
 Your renewal proposal will arrive claiming it saves you money. Against what baseline? The PBM built the baseline too. Ask for the assumptions under the savings number before you admire it.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B7]:**
 ```
 Ask your PBM to re-run last year's admin fees against your actual monthly enrollment. If the invoice never flexed while your headcount did, you just found a red flag without commissioning an audit.
@@ -819,7 +829,7 @@ Ten provisions decide most of your PBM contract's economics. The vendor hopes yo
 ```
 Pick any guarantee in your PBM contract and ask two questions: what evidence would prove a breach, and who holds that evidence? If the answer to the second is "the PBM," the guarantee is decoration. That one test surfaces more red flags than any checklist.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C8]:**
 ```
 A PBM savings report measures the discount off a price the PBM helped set. A tape measure that manufactures its own inches.
@@ -844,7 +854,7 @@ Each big-3 PBM now excludes 600+ drugs from its formulary, an all-time high. The
 ```
 Adalimumab biosimilars have been available for years at deep discounts to the original brand. What share of your plan's claims still runs through the highest-list-price option? Pull the number. It tells you exactly whose interests your formulary serves.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B8]:**
 ```
 One question for your PBM: "List every drug excluded from our formulary this year, next to the clinical rationale for each." Count how many rationales read like they were written by the rebate team.
@@ -868,7 +878,7 @@ Red flags cluster. The contract with the vague rebate definition usually carries
 ```
 Your plan lost members this year. Did the PBM's fee revenue notice? Fixed fees on shrinking enrollment are a quiet raise nobody approved. Renewal is when you claw it back: per-member pricing, monthly true-up, in writing.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D5]:**
 ```
 Flagged a contract this week where "audit" appears eleven times and "claims-level data" appears zero. The word count was the finding.
@@ -884,7 +894,7 @@ Your oncology clinic used to buy and bill the infusion drug itself. Now the PBM 
 ```
 Effective-rate guarantees settle after year-end, on the PBM's calculation, on the PBM's calendar. Until then any shortfall sits in the PBM's account, not yours. The guarantee is real. So is the float. Ask when the check actually arrives, and who verifies the math behind it.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Before funding another year of GLP-1 spend, ask your PBM for one table: net cost per preferred product next to the alternatives. If the answer comes back as a rebate percentage instead of a net cost, ask again.
@@ -893,7 +903,7 @@ Before funding another year of GLP-1 spend, ask your PBM for one table: net cost
 ```
 Red flag in the definitions section: "formulary" means the list "as amended from time to time." Six words that let the PBM drop your member's drug in June from the plan you signed in January. Ask how many days of notice your contract actually requires. Then ask who gets notified: you, or just the member at the counter.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 "Full transparency" lives in the PBM's marketing. "Proprietary and confidential" lives in the contract. Only one of those is enforceable.
@@ -918,7 +928,7 @@ Fees named after services are cheaper to invent than services. Your PBM invoice 
 ```
 The pharmacy was paid a few dollars to fill the generic. Your plan was billed several times that. Same claim, same day. The contract lets the PBM set both numbers and keep the space between them. Spread pricing is not hidden well. It is just never printed.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 The company that actually collects your PBM's drug rebates is registered in Switzerland. Another's in Ireland. Both owned by your PBM. "100% pass-through" starts only after that offshore aggregator takes its cut.
@@ -927,7 +937,7 @@ The company that actually collects your PBM's drug rebates is registered in Swit
 ```
 The refill-too-soon edits, the 90-day copay incentives, the "convenience" letters to members: read them together and they all point the same direction, toward the mail pharmacy the PBM owns. Steering is never one memo. It is architecture.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 The first PBM contract I read took me a weekend and a legal dictionary. Now one takes an afternoon. The language never got clearer. I just learned where the money hides, and that map is what I hand to clients.
@@ -936,7 +946,7 @@ The first PBM contract I read took me a weekend and a legal dictionary. Now one 
 ```
 A reader asked if a bad contract can be fixed mid-term. Sometimes, at a price. The amendment window exists, but leverage lives at renewal. Fix the calendar first, then the clauses.
 ```
-  First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The full rebate-definition language to ask for: rxbs.org/contract-language-library
 - **8:30 PM · one question [B9]:**
 ```
 Ask your PBM which months your generic rate missed the guarantee. Not the year. The months. Annual averages are where the misses go to be forgiven.
