@@ -865,7 +865,7 @@ The PBM's response team has answered your RFP hundreds of times. Your committee 
 ```
 Three PBM finalists, three pricing methodologies, one spreadsheet column labeled "discount." Are you comparing prices, or comparing formatting? Normalize the AWP source and the exclusions first. Rankings flip more often than you would think.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C7]:**
 ```
 A proposal is priced to win the evaluation. A contract is priced to survive it. Read the second one before you celebrate the first.
@@ -889,7 +889,7 @@ The PBM's proposal team knows exactly which cell of the spreadsheet you will loo
 ```
 Did your last RFP ask each finalist for the contract template alongside the proposal? The proposal says what they will give you. The template says what they can take back. Score the document you will actually live under.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B2]:**
 ```
 Ask your PBM: "What did you collect in rebates and fees from manufacturers on our plan last year, and how much reached us?" The gap between the two numbers is the conversation.
@@ -900,7 +900,7 @@ Ask your PBM: "What did you collect in rebates and fees from manufacturers on ou
 ```
 Implementation credits: the signing bonus in a PBM deal. Cash up front, earned back through the pricing over the term. The credit is visible in the proposal. The earn-back never is. A deal that leads with a big check is telling you where not to look.
 ```
-  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
+  - **First reply (link):** rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 RFP timelines are leverage. A 30-day evaluation forces you to take answers at face value. The PBM's proposal team knows your deadline better than your committee does. Slow is a negotiating position.
@@ -913,7 +913,7 @@ You are not choosing a proposal. You are choosing a company's habits for the nex
 ```
 The best brokers score PBM proposals across six categories: pricing methodology, rebate structure, clinical programs, reporting access, contract terms, implementation. Ask to see the category scores, not just the total. Strong on two can hide weak on four.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C3]:**
 ```
 An RFP response is a sales document wearing a spreadsheet's clothes. The headline number is the costume. The methodology underneath is the body.
@@ -924,7 +924,7 @@ An RFP response is a sales document wearing a spreadsheet's clothes. The headlin
 ```
 Performance guarantees: the proposal promises service levels with dollars behind them. Read the remedy. If the penalty for missing a guarantee is a "credit toward future services," the PBM pays its fines in its own currency. Cash remedies, or it is not a guarantee.
 ```
-  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
+  - **First reply (link):** rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Reference checks on a PBM finalist: ask the references how the renewal went, not the honeymoon. Year one pricing is the proposal. Year three pricing is the company.
@@ -938,7 +938,7 @@ Reference checks on a PBM finalist: ask the references how the renewal went, not
 ```
 Your RFP asked 50 questions. How many answers came back with a commitment verb in them? "We typically," "we strive," and "our standard approach" are not commitments. Score the verbs. The verbs are the contract preview.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B3]:**
 ```
 Ask your PBM to define "pass-through" in writing, then ask which noun it attaches to: what the manufacturer paid, or what you received. The definition is the whole deal.
@@ -962,7 +962,7 @@ Every RFP has a moment where the incumbent's rep offers to sharpen the pencil. W
 ```
 Who on your RFP evaluation committee has read a PBM contract before? Not a proposal, a contract. If the answer is nobody, add someone who has. The finalists' lawyers have read thousands.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D8]:**
 ```
 Reviewed an invoice last week with five admin line items. Four had no clause behind them anywhere in the contract. We cut three. That's a quiet raise the plan was paying without knowing.
@@ -987,7 +987,7 @@ Ask each RFP finalist which benchmark your generics will price against, then ask
 ```
 Some specialty drugs are locked to a single distribution channel, often the PBM's own specialty pharmacy. "Limited distribution" sounds like a safety control. Check whether the limit is clinical, or whether it just guarantees the PBM is the only one who can fill it.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 If no bidder repriced your actual claims, you did not run a market check. You ran a survey.
@@ -996,7 +996,7 @@ If no bidder repriced your actual claims, you did not run a market check. You ra
 ```
 Your contract: "pricing shall be reviewed annually." The redline: reviewed AND repriced to a named benchmark, with a true-up. A review without a remedy is a meeting.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C4]:**
 ```
 "Best and final offer" is the only phrase in procurement that reliably comes in threes.
@@ -1012,7 +1012,7 @@ Medicare pushed pharmacy DIR fees to the point of sale, so watch the commercial 
 ```
 Your PBM "guarantees" an effective discount, then reconciles it once a year, months late, on its own math. The guarantee is real. The timing means the PBM holds your money and controls the calculation. Ask who audits the true-up, and when you actually get paid.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 "Proprietary" is the word to circle in RFP answers. Proprietary clinical criteria, proprietary MAC list, proprietary savings methodology. Translation: you will be paying for outcomes you are not allowed to inspect.
@@ -1021,7 +1021,7 @@ Your PBM "guarantees" an effective discount, then reconciles it once a year, mon
 ```
 Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 I trained as a clinical pharmacist to help people take the right drug at the right dose. I read PBM contracts now because that's the room where "can they afford it" actually gets decided. Same patient. Different fight.
@@ -1030,7 +1030,7 @@ I trained as a clinical pharmacist to help people take the right drug at the rig
 ```
 A reader asked how many PBMs belong in an RFP. Enough that the incumbent believes you might leave. The number matters less than the credibility of the exit.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · one question [B4]:**
 ```
 Ask your incumbent PBM one question this quarter: "If we ran a market check today, which of our terms would you defend as still competitive?" The list they name will be short. The list they do not name is the agenda.

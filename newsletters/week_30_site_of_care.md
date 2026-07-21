@@ -900,7 +900,7 @@ The hospital bills for the chair, the pump, the hour, and the roof. The drug is 
 ```
 When your PBM says it passes through 100% of rebates, ask one word back: of what? What the manufacturer paid, or what the PBM "received" after a rebate aggregator it owns took a cut first? The noun does all the work.
 ```
-  First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The full rebate-definition language to ask for: rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C9]:**
 ```
 Every fee on your PBM invoice that sounds like a service is worth one question: which clause authorizes it? The silence after that question is the audit.
@@ -911,7 +911,7 @@ Every fee on your PBM invoice that sounds like a service is worth one question: 
 ```
 Facility fees: the hospital outpatient department adds a charge for the building around the infusion chair. Same drug, same nurse time, a multiple of the invoice. The fee is legal, it lands on your plan, and nobody ever asked whether the chair had to be in a hospital.
 ```
-  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
+  - **First reply (link):** rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Buy-and-bill: the provider buys the infused drug, marks it up, and bills your medical plan. The markup is the incentive. Ask what the same drug costs under the pharmacy benefit before assuming the medical route is neutral.
@@ -951,7 +951,7 @@ The clinical question is where a drug is safest to administer. The financial que
 ```
 On the medical side, an infused drug bills with a markup percentage stacked on its price. The more expensive the drug, the more the markup pays. Nobody in that math is rewarded for picking the cheaper option. Your plan is the only party paying for the difference.
 ```
-  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
+  - **First reply (link):** rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 "Network" does not mean the pharmacies near your members. It means the pharmacies that accepted the PBM's terms. Those are different maps, and your members live on the first one.
@@ -975,7 +975,7 @@ Has anyone compared your top ten infusion drugs across settings this year? Drug 
 ```
 "REMS requires it" ends a lot of site-of-care conversations early. Check the label: plenty of infused drugs carry no REMS administration requirement at all. When "safety" is the answer for every drug on the list, the answer is not about safety.
 ```
-  - **First reply (link):** benefitblindspots.substack.com/p/pbm-contract-language-library
+  - **First reply (link):** rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 A specialty drug's "day supply" rule decides how often fees recur. Shorter fills, more fills, more dispensing events to bill. Ask who set the day-supply rule on your top ten specialty drugs, and what it does to the fee line.
@@ -988,7 +988,7 @@ When the pharmacy is its own, the PBM negotiates the reimbursement rate with its
 ```
 Your specialty claims file has a column for the filling pharmacy. When did anyone on your side last sort by it? One sort, one afternoon, and you know where the routing rules have been sending your members.
 ```
-  First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The reporting questions to start with: rxbs.org/contract-language-library
 - **8:30 PM · one question [B10]:**
 ```
 Ask your PBM: "If we wanted to leave, what in this contract makes it expensive or slow?" The termination and transition language is the leash. Read it before you need it.
@@ -1028,7 +1028,7 @@ Rebate aggregators: a company your PBM owns that skims every manufacturer rebate
 ```
 Manufacturers pay PBMs "price protection" when a drug's list price rises. Your contract's rebate definition may not count it as a rebate. Same manufacturer money, tied to your plan's drugs, sitting just outside the pass-through. One label keeps it off your report.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 GLP-1 coverage is the biggest set of checks your plan will write this decade, and most of the decisions were made by a formulary committee your plan has never met.
@@ -1037,7 +1037,7 @@ GLP-1 coverage is the biggest set of checks your plan will write this decade, an
 ```
 "Alternative funding" vendors: they carve your specialty drugs out of coverage, route members into manufacturer charity programs built for the uninsured, and charge your plan a percentage of the "savings." Charity as a cost strategy. Ask who signed your plan up to be needy.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 "Usual and customary" is the funniest phrase in drug pricing: nothing about it is usual, and all of it is customary.
@@ -1046,7 +1046,7 @@ GLP-1 coverage is the biggest set of checks your plan will write this decade, an
 ```
 Your contract: "Specialty medications will be dispensed through PBM's specialty pharmacy network." The redline: transparent acquisition cost, disclosed affiliate margin, and a carve-out right on 90 days notice. Routing is a price, not a service.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C1]:**
 ```
 The cheapest place to administer a drug and the place your PBM routes it to are almost never the same address. That gap is the business model.
@@ -1062,7 +1062,7 @@ Spread pricing: your PBM bills your plan one price for a generic, pays the pharm
 ```
 A vendor program on many plans reclassifies specialty drugs as "non-essential health benefits" and captures the copay card's full annual value. Done right, that is real plan savings. It runs in your plan's name. Ask what share your plan actually received.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Ambulatory infusion suites publish price lists. Hospital outpatient departments publish chargemasters. If those were the same kind of document, the two would not sit multiples apart for the same bag.
@@ -1071,7 +1071,7 @@ Ambulatory infusion suites publish price lists. Hospital outpatient departments 
 ```
 Brown bagging: your PBM has the specialty drug shipped to the member, who carries it into the clinic. Sounds convenient. It moves the storage risk to the patient and the billing to a pharmacy the PBM owns. Ask who profits from the hand-off, and who eats it if the drug spoils.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 Becoming a pharmacist taught me the medicine. Reading PBM contracts taught me why it costs what it does. The second lesson wasn't in any textbook.

@@ -169,6 +169,7 @@ _Verify exact handles when setting up; some of the LinkedIn target accounts have
 - **Tagging beats hashtagging.** @-mentioning a journalist, a source, or an amplifier on a relevant post does more for reach than any hashtag.
 - **Brevity wins.** X rewards the hook harder than LinkedIn. Lead with the confrontation; cut the wind-up.
 - **Links suppress reach on X.** Put links in a reply to your own post, not in the main post (mirrors the LinkedIn first-comment cross-promo discipline).
+- **Contract Language Library routing (Jul 21, 2026, Brett-approved):** first replies referencing the Library route to `rxbs.org/contract-language-library` (the live canonical), not the Substack post. Exception: an X post amplifying a Library-carousel Tuesday keeps the Substack Library link (subscribe surface, matching the LinkedIn first-comment exception).
 
 ---
 

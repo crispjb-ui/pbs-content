@@ -452,7 +452,7 @@ Every one of these is producible from data the PBM already has. None appear by d
 #### First Comment
 
 ```
-The reporting clauses that determine what is required to be in your quarterly report (and what most contracts leave optional) live in our PBM Contract Language Library: https://benefitblindspots.substack.com/p/pbm-contract-language-library. Free. Updated quarterly.
+The reporting clauses that determine what is required to be in your quarterly report (and what most contracts leave optional) live in our PBM Contract Language Library: https://www.rxbs.org/contract-language-library. Free. Updated quarterly.
 ```
 
 #### Image Layout Spec
@@ -818,7 +818,7 @@ Count the ways your PBM earns on a single claim. The spread. The rebate cut. The
 ```
 Your headcount dropped in January. Did your PBM invoice notice? Per-member fees only fall when a true-up clause makes them fall. Without one, the PBM keeps billing the plan you used to be.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C5]:**
 ```
 Your PBM calls it a network. Every road in it ends at a pharmacy the PBM owns.
@@ -866,7 +866,7 @@ A PBM quarterly report is a highlight reel. Every number in it is true. The foot
 ```
 Your contract guarantees 100% rebate pass-through. One follow-up question: does that 100% get measured before or after the PBM's own aggregator takes its fee? The answer decides whether the guarantee is a promise or a rounding step.
 ```
-  First reply → The full rebate-definition language to ask for: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The full rebate-definition language to ask for: rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C6]:**
 ```
 The promise is in clause 3. The price of the promise is in a definition forty pages later. PBM contracts are built on that distance.
@@ -891,7 +891,7 @@ Every PBM sales deck has a transparency slide. Every PBM contract has a confiden
 ```
 Sort last quarter's specialty claims by who filled them. If most went to the PBM's own pharmacy, ask when your members made that choice. They did not. The plan design made it for them.
 ```
-  First reply → What to do with the answer: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → What to do with the answer: rxbs.org/contract-language-library
 - **8:30 PM · one question [B6]:**
 ```
 Send your PBM one sentence: "Map every invoice line to the clause that authorizes it." A fee that cannot find its clause is a fee you have been donating.
@@ -915,7 +915,7 @@ Bring a calculator to the QBR. The savings slides are built for a room that neve
 ```
 Before you cite your audit right, read the conditions attached to it. PBM-approved auditor. PBM-selected claims sample. Findings "subject to review." Count the conditions. Past three, that is not an audit right. That is supervised visitation.
 ```
-  First reply → The five clauses that fix it: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The five clauses that fix it: rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D1]:**
 ```
 Reviewed a contract last week where "pass-through pricing" had its definition three clauses away, and the definition quietly undid the promise. Read your nouns. The PBM defined them, not you.
@@ -931,7 +931,7 @@ Your member's refill quietly moved to 90-day mail order. The letter said conveni
 ```
 Two receipts exist for every generic your plan covers: what the PBM billed you, and what the pharmacy actually received. You have only ever seen one of them. The other receipt is the PBM's paycheck.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Most audit clauses were drafted by the party being audited. Read yours this quarter and ask one question: who does this clause protect?
@@ -940,7 +940,7 @@ Most audit clauses were drafted by the party being audited. Read yours this quar
 ```
 Between the manufacturer's rebate check and your "100% pass-through" sits a company most plan sponsors have never heard of. The PBM owns it. Its fee comes off the top before your percentage is calculated. Ask for the aggregator's fee schedule and watch what happens.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 I read PBM contracts for a living. The hard part is not the complexity. It is that the document is engineered to exhaust the person paying for it.
@@ -949,7 +949,7 @@ I read PBM contracts for a living. The hard part is not the complexity. It is th
 ```
 Your contract: "PBM will administer prior authorization consistent with clinical guidelines." The redline: published, peer-reviewed criteria, named turnaround times, quarterly approval and overturn reporting. "Guidelines" without a citation is a preference.
 ```
-  First reply → The reporting questions to start with: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → The reporting questions to start with: rxbs.org/contract-language-library
 - **8:30 PM · aphorism [C7]:**
 ```
 When one company sets the price, fills the script, keeps the rebate, and grades its own audit, you are not a client. You are a route.
@@ -965,7 +965,7 @@ Your PBM now requires the infusion drug to ship from its specialty pharmacy to t
 ```
 Weeks after a prescription is filled, your PBM reaches back and takes a piece of the pharmacy's reimbursement. It is called DIR. The pharmacy absorbs it, your plan never sees it, and the report has no line for it. Money moves through that gap all year.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 A rebate guarantee is a floor, not a share. The PBM can collect far above the floor, keep the difference, and send you a report showing the floor being met.
@@ -974,7 +974,7 @@ A rebate guarantee is a floor, not a share. The PBM can collect far above the fl
 ```
 Run one report this month: specialty claims by dispensing pharmacy. Most plans we audit find the overwhelming share at the PBM's own specialty shop. Prior auth approves faster there. Refills sync there. That is not preference. That is plumbing.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
 ```
 My first job was behind a pharmacy counter. The question that followed me home was never clinical. It was a patient asking why the same inhaler cost triple this month. I audit PBM contracts now because the answer lived in one.
