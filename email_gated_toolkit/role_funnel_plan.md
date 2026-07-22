@@ -231,7 +231,7 @@ return {
 ```
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org
 www.rxbs.org
 ```
@@ -306,7 +306,7 @@ Reach us anytime at team@rxbs.org, subject "PBS support: {{company}}."
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org
 www.rxbs.org
 ```

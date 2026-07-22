@@ -19,7 +19,7 @@ Use these verbatim in partner-outreach drafts so they read in Ginny's voice and 
   ```
   - Ginny
 
-  Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+  Ginny Crisp, PharmD | Chief Executive Officer
   O (843) 867.3401
   M (919) 448.1742
   ginny@rxbs.org

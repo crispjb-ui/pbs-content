@@ -68,7 +68,7 @@ actually run them.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 O (843) 867.3401
 M (919) 448.1742
 ginny@rxbs.org
@@ -98,7 +98,7 @@ way, the toolkits are yours.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 O (843) 867.3401
 M (919) 448.1742
 ginny@rxbs.org

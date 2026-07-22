@@ -45,7 +45,7 @@ working through, reply and tell me about it. I read every reply.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org | www.rxbs.org
 ```
 
