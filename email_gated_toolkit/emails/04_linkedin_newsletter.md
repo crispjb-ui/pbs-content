@@ -27,7 +27,7 @@ LinkedIn.
 
 It is a weekly executive briefing - Mondays at 7:45 AM EST. Two-minute
 read. The same week's deep-dive thesis, condensed for the LinkedIn feed
-audience. 800+ subscribers as of this month, growing weekly.
+audience. 1,200+ subscribers as of this month, growing weekly.
 
 → Subscribe: [LINKEDIN NEWSLETTER URL]?utm_source=wix&utm_medium=email&utm_campaign=toolkit-{{first_slug}}&utm_content=email-4
 
@@ -54,7 +54,7 @@ www.rxbs.org
 ## Implementation notes
 
 - **Replace `[LINKEDIN NEWSLETTER URL]` with the actual newsletter URL** before publishing the email template. The URL is `https://www.linkedin.com/newsletters/the-pharmacy-benefits-briefing-7XXXXXXX` (find the canonical URL in LinkedIn → Manage → Newsletters).
-- **Update the subscriber count** ("800+ as of this month") at each quarterly review. As of May 2026 it is 836; refresh.
+- **Update the subscriber count** ("1,200+ as of this month") at each quarterly review. Refreshed Jul 22, 2026 (actual: 1,218; the live Zapier step 13 body said "900+" and was flagged for the matching edit same day).
 - **Skip this email** for contacts whose form data already shows a LinkedIn Newsletter subscriber. Wix Automations can check a tag (`already-newsletter-subscriber`) and skip the email if present. Set this tag manually for known overlaps; future automation can pull from LinkedIn analytics export.
 
 ## Why this email exists at Day 9 (not earlier)
