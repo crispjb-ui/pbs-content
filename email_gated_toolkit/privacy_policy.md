@@ -1,19 +1,12 @@
 # Privacy Policy Template — rxbs.org/privacy
 
-> **Build instructions:** Copy this content into a new Wix page at rxbs.org/privacy. Customize the bracketed placeholders before publishing. Have legal counsel review before going live, especially if PBS handles any PHI through any channel.
+> **BUILD-READY (Jul 22, 2026). Build instructions of record: `website_mockups/site/privacy_build_pack.md`** (SEO fields, page structure, verbatim rule, post-publish chain). The page body below runs from the `# Privacy Policy` heading through the end of the **Contact us** section; the trailing italic template note does not publish.
 
-> **Why this exists:** LinkedIn Lead Gen Forms require a privacy policy URL. Wix Forms also require one for GDPR/CCPA compliance. This policy is also linked from the Toolkit landing page form, the welcome email footer, and the Substack subscribe interaction.
+> **Why this exists:** LinkedIn Lead Gen Forms require a privacy policy URL. Wix Forms also require one for GDPR/CCPA compliance. This policy is also linked from the Toolkit landing page form, the welcome email footer, and the Substack subscribe interaction. It is the last gate before September LinkedIn ad spend.
 
-> **Status update (Jul 16, 2026): Brett approved the build via the approvals issue.** Non-legal blanks are now filled (third-party list reconciled to the live stack: Wix Analytics only, LinkedIn Insight Tag disclosed, Zapier confirmed production, Microsoft Outlook added, Google Analytics dropped as not enabled). **Still open before publish: the counsel review items below + the street address (Ginny's call on which address publishes — never the home address) + effective dates set at publish.** Include this doc in the counsel packet if it has not gone out yet.
+> **Gate history:** counsel review WAIVED (Brett decision, Jul 21, 2026); Ginny's attestation substitutes — the privacy companion in `standards_independence_attestation.md` §1 (PHI paragraph operationally true; business address of record only, never the home address) was ATTESTED Jul 21. Non-legal blanks were filled Jul 16 (third-party list reconciled to the live stack: Wix Analytics only, LinkedIn Insight Tag disclosed, Zapier production, Microsoft Outlook added, Google Analytics dropped as not enabled). The `counsel_packet/` copies stay as archive; do not send. **The PHI paragraph is attested language: never edited autonomously; changes re-open the attestation.**
 >
-> **Status (Jul 8, 2026): Wix-ready draft, counsel-gated — NOT yet published.** The `/privacy` Wix page does not exist yet, so no live surface should hyperlink to `rxbs.org/privacy` (dead-link rule). Until it publishes, keep the privacy *sentence* on the request-a-call microcopy and the thank-you footnote but **remove the hyperlink**. Add the link back the day this page goes live. This is needed before any LinkedIn ad spend (Sep 2026) — those ads require a reachable privacy URL.
->
-> **Resolve before publish (counsel gate — do not self-approve, per the legal-adjacent rule):**
-> - [ ] Set the **Effective Date** and **Last Updated** to the actual publish date.
-> - [ ] Fill the **street address + ZIP** in the Contact section (data PBS holds; not inventable here).
-> - [ ] Counsel reviews the **PHI paragraph** ("we do not collect PHI… through this website") against how PBS actually routes any member/claims data, and confirms fit with SC + CCPA + GDPR.
-> - [ ] Confirm the **third-party list matches the live stack** (Wix, LinkedIn, Substack, Zapier are in use; Google Analytics only if actually enabled — drop the "(optionally)" if not).
-> - [ ] Build as a Wix page at slug `/privacy`, **indexable** (standard for a privacy page); plain long-form layout — no special design system needed.
+> **Remaining before publish (the only two inputs, both human):** (1) fill the **street address + ZIP** in the Contact section — Ginny/Brett pick the business address that publishes; (2) set **Effective Date** and **Last Updated** to the publish date. Then build per the build pack. Until the page is live, no surface hyperlinks `rxbs.org/privacy` (dead-link rule); the day it goes live, run the build pack's post-publish chain (re-add the request-a-call / thank-you / RSO-form privacy links, global footer link, indexing, registry row).
 
 ---
 
