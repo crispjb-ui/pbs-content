@@ -69,7 +69,7 @@ the worksheets and I am glad they are in good hands.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 O (843) 867.3401
 M (919) 448.1742
 ginny@rxbs.org
@@ -102,7 +102,7 @@ way, the worksheets are yours and I am glad they are in good hands.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 O (843) 867.3401
 M (919) 448.1742
 ginny@rxbs.org

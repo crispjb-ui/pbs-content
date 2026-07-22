@@ -44,7 +44,7 @@ summary.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org
 www.rxbs.org
 ```

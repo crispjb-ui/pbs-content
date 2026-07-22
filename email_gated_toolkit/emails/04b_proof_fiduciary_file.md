@@ -35,7 +35,7 @@ thing. Thursday I will send the note about where this goes from here.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org | www.rxbs.org
 ```
 
@@ -68,7 +68,7 @@ need.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org | www.rxbs.org
 ```
 

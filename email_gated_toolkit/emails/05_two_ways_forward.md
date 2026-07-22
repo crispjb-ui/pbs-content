@@ -67,7 +67,7 @@ Review - thanks for reading the past two weeks.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org
 www.rxbs.org
 ```
@@ -160,7 +160,7 @@ Whichever way you go, thanks for reading these past two weeks.
 
 - Ginny
 
-Ginny Crisp, PharmD, BCACP | Chief Executive Officer
+Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org | www.rxbs.org
 ```
 

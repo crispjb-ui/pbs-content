@@ -434,7 +434,7 @@ For each of the 5 emails (`email_gated_toolkit/emails/01_*.md` through `05_*.md`
 <a href="https://benefitblindspots.substack.com">benefitblindspots.substack.com</a></p>
 
 <p>Best,<br>
-Ginny Crisp, PharmD, BCACP<br>
+Ginny Crisp, PharmD<br>
 Chief Executive Officer<br>
 Prescription Benefit Solutions<br>
 team@rxbs.org · rxbs.org</p>
