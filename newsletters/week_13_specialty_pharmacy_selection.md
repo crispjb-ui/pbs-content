@@ -199,7 +199,8 @@ The pharmacy that dispenses your most expensive medications should be chosen, no
 
 ### Article Meta
 
-**SEO Title:** Who Chooses Your Specialty Pharmacy? (How PBM Specialty Routing Actually Works)
+**SEO Title (AEO):** Who Chooses Your Specialty Pharmacy? (How PBM Specialty Routing Actually Works)
+**Display Title:** The Specialty Pharmacy Decision Your PBM Made For You
 **Meta Description:** Your specialty pharmacy was probably chosen for you. Here's how to evaluate whether that choice serves your plan or your PBM.
 **Tags:** specialty pharmacy, PBM, self-funded employers, white bagging, limited distribution, pharmacy benefits
 **Header Image:** [Use PBS branded image - Specialty Pharmacy visual]
@@ -248,9 +249,17 @@ Create a clean professional digital graphic at 2240 x 1200 pixels with a white b
 
 ---
 
+**Display Title:** Biosimilar Substitution at Specialty Pharmacies: What's Changing
+**SEO Title (AEO):** Does Biosimilar Substitution at Your Specialty Pharmacy Save Your Plan Money?
+**SEO Subtitle:** How PBM-owned specialty pharmacies select biosimilars, why the switch can follow rebate economics rather than net cost, and what to verify before you count the savings.
+
+---
+
 ### Field Note Body
 
-We have been reviewing specialty pharmacy contracts more closely this quarter, and one pattern keeps coming up: biosimilar substitution policies that vary significantly depending on which specialty pharmacy is dispensing.
+**Biosimilar substitution does not automatically save your plan money, because a PBM-owned specialty pharmacy may substitute to the biosimilar that carries the best rebate for the PBM rather than the lowest net cost for your plan, so verify the net-cost math and the product-selection rationale before you count the switch as savings.**
+
+We have been reviewing specialty pharmacy contracts more closely this quarter at Prescription Benefit Solutions, and one pattern keeps coming up: biosimilar substitution policies that vary significantly depending on which specialty pharmacy is dispensing.
 
 When a PBM mandates biosimilar substitution at its owned specialty pharmacy, the stated goal is cost savings. The biosimilar is less expensive than the reference biologic. The plan saves money. Straightforward.
 
@@ -263,6 +272,8 @@ PBM-owned specialty pharmacies may implement biosimilar substitution protocols t
 This distinction matters because biosimilar pricing varies. The list price discount relative to the reference product is one number. The net cost after rebates is a different number. And the net cost your plan actually realizes depends on your specific contract terms for biosimilar reimbursement.
 
 **Three things to verify**
+
+Before you accept a biosimilar mandate as savings, work through the same readiness check we use with clients in our [Biosimilar Readiness Assessment](https://www.rxbs.org/toolkit/biosimilar-readiness):
 
 First, ask which biosimilars are on the substitution list and why. If your PBM's specialty pharmacy is substituting to a specific biosimilar across its book of business, understand whether that selection reflects plan-level economics or PBM-level economics. The answer is usually the latter.
 
@@ -288,7 +299,8 @@ The specialty pharmacy dispensing your most expensive medications should be tran
 
 ### Field Note Meta
 
-**SEO Title:** Biosimilar Substitution at Specialty Pharmacies: What's Changing | Benefit Blind Spots
+**SEO Title (AEO):** Does Biosimilar Substitution at Your Specialty Pharmacy Save Your Plan Money?
+**Display Title:** Biosimilar Substitution at Specialty Pharmacies: What's Changing
 **Meta Description:** PBM-owned specialty pharmacies are mandating biosimilar substitution, but the savings may not reach your plan. Here is what to verify.
 **Tags:** biosimilars, specialty pharmacy, PBM, substitution protocols, pharmacy benefits, self-funded employers
 
