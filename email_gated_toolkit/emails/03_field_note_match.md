@@ -45,6 +45,10 @@ them.
 Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org
 www.rxbs.org
+--
+Prescription Benefit Solutions LLC | Charleston, SC | rxbs.org/privacy
+You are receiving this because you requested a toolkit at rxbs.org.
+Reply "unsubscribe" and we will remove you.
 ```
 
 **How it renders today (Library default), e.g. Specialty Routing lead:**
