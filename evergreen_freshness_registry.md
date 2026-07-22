@@ -19,7 +19,7 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 | The Standards (`rxbs.org/standards`) | Wix + Article/BreadcrumbList/DefinedTermSet JSON-LD | 2026-07-22 (launched, v1.0) | ATTESTED LANGUAGE: Part 1 + the closing paragraph never change outside the annual January revision (re-attestation required). Refresh = the January v-bump with the Index; dateModified in the Article markup moves with it |
 | Homepage | Wix | 2026-07-08 (schema) | Hero CTA + "Mysite" title defects still queued (gameplan P1 #12) |
 | About (`rxbs.org/about`) | Wix + Organization/Person JSON-LD | 2026-07-15 (rebuilt + launched) | Person schema carries `alumniOf` + credential (the entity fix). Refresh = proof-band anchors when 2026 metrics land, media chips as appearances air (Derms on Drugs pending), named team cards if Ginny supplies bios, testimonials block when collected |
-| For Brokers (`rxbs.org/for-brokers`) | Wix + Service/BreadcrumbList JSON-LD | 2026-07-14 (launched) | Conversion page: refresh = proof-band anchors when 2026 metrics land, service-card accuracy; add `/standards` + `/results` to the Useful-with-clients block when those pages go live (money-page linking rule) |
+| For Brokers (`rxbs.org/for-brokers`) | Wix + Service/BreadcrumbList JSON-LD | 2026-07-14 (launched) | Conversion page: refresh = proof-band anchors when 2026 metrics land, service-card accuracy; `/standards` is now LIVE → add it to the Useful-with-clients block (Wix edit flagged in OPEN_ITEMS, Jul 22, 2026); `/results` joins when it goes live (money-page linking rule) |
 
 ## Not live yet (enter the pool at launch — add a row with launch date)
 

@@ -12,7 +12,7 @@
 
 **Move 3 — the honest fit read (3 min).** Say plainly whether a review makes sense: *"From what you have described, here is what I would do in your seat."* If the answer is "you do not need us yet," say so; those calls generate the best referrals we get.
 
-**Move 4 — the shape of an engagement (5 min).** Only if fit is real: what the review covers, the written findings with dollar magnitude per gap, the Fiduciary File, the timeline (4-6 weeks; Renewal Second Opinion in days), and how the recommendation lands (optimize through amendments, or go to market). Price posture per the pricing memo: state the range without apology, anchored to the average findings, and move on.
+**Move 4 — the shape of an engagement (5 min).** Only if fit is real: what the review covers, the written findings with dollar magnitude per gap, the Fiduciary File, the timeline (4-6 weeks; Renewal Second Opinion in days), and how the recommendation lands (optimize through amendments, or go to market). Every review engagement ships with the signed **Independence Attestation** (`templates/documents/independence_attestation.pdf`, the Part 3.4 deliverable The Standards page promises) — mention it here: it is the one-page proof that no one else's economics touch the findings. Price posture per the pricing memo: state the range without apology, anchored to the average findings, and move on.
 
 **Move 5 — one concrete next step (2 min).** Never "think it over." Either: the data request goes out today (we supply the paste-ready version), a date for the committee conversation, or a named check-in tied to their renewal calendar. The admin is cc'd on the recap the same day.
 
