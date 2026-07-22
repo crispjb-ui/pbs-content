@@ -398,6 +398,8 @@ Your PBM walks into renewal with a strategy built from your data, for their marg
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Tue 7:30 AM publish]
 
 And the Generic Effective Rate Audit Worksheet is the companion to run on your own plan: rxbs.org/toolkit/ger-audit
+
+If your renewal is on the calendar, we also offer a fixed-scope independent second opinion before you sign: rxbs.org/renewal-second-opinion
 ```
 
 _Toolkit link is already live (`rxbs.org/toolkit/ger-audit`, the existing GER Audit Worksheet reused this week per refer-back-first). Confirm the page renders before posting; if not, drop the third line and route to the deep dive only._

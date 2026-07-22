@@ -489,6 +489,8 @@ Renewal season starts in weeks. The plans that prepared in Q3 will negotiate dif
 I broke the whole thing down in this week's Benefit Blind Spots deep dive: [Substack deep-dive URL, paste after Mon 7:30 AM publish]
 
 And this week's Pre-Meeting Renewal Checklist is the companion to run on your own plan: rxbs.org/toolkit/pre-meeting-renewal-checklist
+
+If your renewal is on the calendar, we also offer a fixed-scope independent second opinion before you sign: rxbs.org/renewal-second-opinion
 ```
 
 _Toolkit link goes live once this week's PART 1C Wix build is complete (`rxbs.org/toolkit/pre-meeting-renewal-checklist`). If the landing page is not built by Monday, drop the third line and route to the deep dive only; the integrated tool is embedded in that post._
