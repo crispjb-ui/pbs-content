@@ -1,12 +1,14 @@
 # /privacy Build Pack — `rxbs.org/privacy`
 
+> **✅ AS-BUILT — LIVE Jul 22, 2026 (same day as the pack; Brett).** Dates set to Jul 22, 2026; business address of record published in Contact us (never the home address). Built by duplicating an existing page, which introduced two paste defects caught in screenshot review and fixed before closeout: (1) the Cookies section's intro line "rxbs.org uses cookies for:" duplicated under "Third-party services we use" (that section has NO intro line — deleted); (2) the Contact us company/address block initially missing (added). Utility type ladder used: H1 30 / dates 13 gray / H2 20 Primary Blue / body 15. §6 chain complete: hidden from nav (crossed-eye toggle in Site Pages & Menu, same as Thank You/RSO), global footer "Privacy Policy" link, Privacy hyperlinks re-added on request-a-call + thank-you. Search Console indexing request intentionally skipped (footer link suffices for a privacy page). **September LinkedIn ad spend UNBLOCKED; website Phase 1 COMPLETE.**
+
 _Created Jul 22, 2026, the day after `/standards` went live. Counsel gate WAIVED (Brett decision, Jul 21, 2026); Ginny's signed attestation substitutes — the privacy companion attestation (`standards_independence_attestation.md` §1) covers the PHI paragraph and the address rule, CLEARED Jul 21. This page is the LAST gate before September LinkedIn ad spend: LinkedIn ads and Lead Gen Forms require a reachable privacy URL, and Wix Forms reference it for GDPR/CCPA._
 
 **Copy of record:** `email_gated_toolkit/privacy_policy.md` — the page body runs from the `# Privacy Policy` heading through the end of the **Contact us** section. The trailing italic template note ("This privacy policy is provided as a template…") does NOT publish; it is a repo-side maintenance note. Build method: plain long-form Wix page; no design system, no chips, no hero band needed. A simple text page is correct for this archetype (Utility, not Content/Answer).
 
 ## 1. Two human inputs before publish (the only open decisions)
-- [ ] **Business address:** fill `[STREET ADDRESS]` + `[ZIP]` in the Contact section with the business address of record. **Never the home address** — this is part of the attested companion language. Ginny/Brett pick which address publishes.
-- [ ] **Dates:** set **Effective Date** and **Last Updated** to the actual publish date (both lines at the top of the policy).
+- [x] **Business address:** ✅ DONE Jul 22 — fill `[STREET ADDRESS]` + `[ZIP]` in the Contact section with the business address of record. **Never the home address** — this is part of the attested companion language. Ginny/Brett pick which address publishes.
+- [x] **Dates:** ✅ Jul 22, 2026 — set **Effective Date** and **Last Updated** to the actual publish date (both lines at the top of the policy).
 
 Everything else was resolved Jul 16 (third-party list reconciled to the live stack) and attested Jul 21 (PHI paragraph). No other blanks remain.
 
@@ -29,9 +31,9 @@ None. A privacy page is not a citation asset; Wix's default WebPage handling is 
 The **PHI paragraph** ("We do not collect protected health information (PHI)… separate from this site.") and the **address rule** are attested language (Ginny's Jul 21 companion attestation): copy exactly; any wording change re-opens the attestation. The rest of the policy text was approved as written (Brett, Jul 16 approvals issue; gate waived Jul 21) and is not edited autonomously per the legal-adjacent rule — the annual review (pair it with the January attestation re-walk) is the designated edit window, plus immediately upon any material change in data practices (new analytics tool, new email vendor, new form field class).
 
 ## 6. Post-publish (run in order; tell Claude when it renders live)
-- [ ] Search Console → request indexing for `/privacy`.
-- [ ] **Re-add the suppressed Privacy hyperlinks** (dead-link rule lifts): the request-a-call microcopy privacy sentence, the thank-you footnote, and the Renewal Second Opinion form's underlined 'Privacy' word (OPEN_ITEMS flagged it — verify it now targets the live page).
-- [ ] **Global footer:** add the `Privacy Policy` link site-wide (one footer edit).
-- [ ] **Toolkit form surfaces:** confirm the toolkit landing-page form and the welcome-email footer reference `rxbs.org/privacy` where a privacy link belongs.
-- [ ] Repo pass (Claude): freshness-registry row for `/privacy` (annual-cadence note, verbatim-lock note on the PHI paragraph); OPEN_ITEMS status flip; September ad-plan item updated to "privacy gate CLEARED."
-- [ ] **September unblock:** LinkedIn Ads / Lead Gen Forms get `https://www.rxbs.org/privacy` as the privacy URL when the campaigns are built (`paid_ads_bank.md` is pre-launch; nothing auto-spends).
+- [x] Search Console indexing — intentionally SKIPPED (footer link suffices for a privacy page).
+- [x] ✅ DONE Jul 22 — **Re-add the suppressed Privacy hyperlinks** (dead-link rule lifts): the request-a-call microcopy privacy sentence, the thank-you footnote, and the Renewal Second Opinion form's underlined 'Privacy' word (OPEN_ITEMS flagged it — verify it now targets the live page).
+- [x] ✅ DONE Jul 22 — **Global footer:** add the `Privacy Policy` link site-wide (one footer edit).
+- [ ] ⚠ STILL OPEN — **Toolkit form surfaces:** confirm the toolkit landing-page form and the welcome-email footer reference `rxbs.org/privacy` where a privacy link belongs.
+- [x] ✅ DONE Jul 22 — Repo pass (Claude): freshness-registry row for `/privacy` (annual-cadence note, verbatim-lock note on the PHI paragraph); OPEN_ITEMS status flip; September ad-plan item updated to "privacy gate CLEARED."
+- [x] ✅ UNBLOCKED Jul 22 — **September unblock:** LinkedIn Ads / Lead Gen Forms get `https://www.rxbs.org/privacy` as the privacy URL when the campaigns are built (`paid_ads_bank.md` is pre-launch; nothing auto-spends).

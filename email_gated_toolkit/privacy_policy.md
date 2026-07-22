@@ -1,6 +1,6 @@
 # Privacy Policy Template — rxbs.org/privacy
 
-> **BUILD-READY (Jul 22, 2026). Build instructions of record: `website_mockups/site/privacy_build_pack.md`** (SEO fields, page structure, verbatim rule, post-publish chain). The page body below runs from the `# Privacy Policy` heading through the end of the **Contact us** section; the trailing italic template note does not publish.
+> **✅ LIVE at `rxbs.org/privacy` (published Jul 22, 2026; Effective/Last Updated both Jul 22, 2026).** Build instructions of record: `website_mockups/site/privacy_build_pack.md` (as-built notes there). The page body below runs from the `# Privacy Policy` heading through the end of the **Contact us** section; the trailing italic template note does not publish. The `[STREET ADDRESS]` / `[ZIP]` placeholders below stay as placeholders in the repo — the LIVE PAGE carries the business address of record (never the home address, per the attested address rule). Edit window: annual review paired with the January attestation re-walk, or immediately on a material data-practice change.
 
 > **Why this exists:** LinkedIn Lead Gen Forms require a privacy policy URL. Wix Forms also require one for GDPR/CCPA compliance. This policy is also linked from the Toolkit landing page form, the welcome email footer, and the Substack subscribe interaction. It is the last gate before September LinkedIn ad spend.
 

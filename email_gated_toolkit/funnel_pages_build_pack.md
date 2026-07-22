@@ -57,7 +57,7 @@ The #1 failure mode on Wix forms is mismatched element IDs (see the `WIX_SETUP_T
 
 **Privacy microcopy:** We use your email only to arrange the call. [Privacy](https://www.rxbs.org/privacy).
 
-> ⚠ **Privacy link pending the `/privacy` page build (Jul 8, 2026).** The `rxbs.org/privacy` page does not exist yet, so **do not hyperlink "Privacy"** on the live page — keep the sentence, drop the link, until the page publishes. Copy is ready + counsel-gated in `privacy_policy.md`. Same applies to the thank-you footnote below. Add the links back the day `/privacy` goes live (also required before Sep LinkedIn ad spend).
+> ✅ **RESOLVED Jul 22, 2026 — `/privacy` is LIVE.** The "Privacy" word is hyperlinked to `https://www.rxbs.org/privacy` on the live request-a-call microcopy and the thank-you footnote (re-added the day the page published). The Jul 8 suppress-the-link note below this line is historical only.
 
 ## 1c. JSON-LD schema (paste into Wix SEO Settings → this page → Advanced → Structured data markup)
 
