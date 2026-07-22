@@ -51,6 +51,10 @@ instead. I read every reply.
 Ginny Crisp, PharmD | Chief Executive Officer
 team@rxbs.org
 www.rxbs.org
+--
+Prescription Benefit Solutions LLC | Charleston, SC | rxbs.org/privacy
+You are receiving this because you requested a toolkit at rxbs.org.
+Reply "unsubscribe" and we will remove you.
 ```
 
 ---
@@ -64,9 +68,9 @@ www.rxbs.org
 - Single CTA: the PDF download link
 - Keep below 200 words total
 
-## Notes on the unsubscribe link
+## Notes on the unsubscribe/compliance footer (updated Jul 22, 2026)
 
-Wix Email Marketing adds the unsubscribe link automatically in the footer. Verify it works on every test send. CAN-SPAM compliance requires a working unsubscribe + a physical mailing address.
+**The live send path is Zapier → Microsoft Outlook, which adds NO automatic footer** (the original note assumed Wix Email Marketing, which was never the shipped path). The compliance footer is therefore baked into each email body (emails 01-05, incl. 05 v2): company name + Charleston, SC + `rxbs.org/privacy` + a reply-to-unsubscribe line. Paste it into the Zapier email bodies (steps 3/5/7/9/11) along with any body edit. **Address rule: never the home address.** CAN-SPAM technically wants a valid physical postal address on marketing sends — a **PO Box / virtual business address is the pre-September-ads to-do** (OPEN_ITEMS); when it exists, add it to the footer's address line here and in Zapier. An "unsubscribe" reply is honored manually (remove the row from the Sheets lead list / suppress in Zapier) — Ginny reads every reply anyway.
 
 ## Tokens NOT used (dropped per Wix form-field cap May 14)
 
