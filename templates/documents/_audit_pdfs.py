@@ -3,6 +3,7 @@ import fitz, re, glob, os
 # 1-page by design: relationship/one-pager documents (not audit worksheets)
 EXPECT1 = {
     "broker_partner_one_pager",  # Broker Partner Program one-pager (Jul 3, 2026, broker_partner_track.md)
+    "independence_attestation",  # Client-facing independence attestation, 1-page letter (Jul 22, 2026, standards_independence_attestation.md §2)
 }
 EXPECT3 = {
     "evergreen_contract_review_readiness_checklist",
