@@ -37,7 +37,7 @@ The blueprint's closing band said "contracted **$78.7M in pharmacy spend**" and 
 > In 2025, Prescription Benefit Solutions delivered $78.7M in contracted savings across 203 self-funded clients. Pharmacy benefit reviews averaged $469K in contracted savings per client, and PBM RFPs averaged 25% savings. Results vary by plan. The first step is an independent read of your own contract.
 
 ## 7. Post-live chain (run in order; tell Claude when it renders)
-- [ ] Search Console → request indexing (this IS a citation page).
+- [x] ✅ DONE Jul 23 — indexing requested; validator.schema.org clean (0 errors) on all 4 blocks. Live-build typo caught in screenshot review (CTA card "reveiw") fixed pre-publish.
 - [ ] **Glossary "Keep reading" block:** add the PBM-contract-audit guide link (this was the deferred trigger logged when the block was built Jul 21).
 - [ ] **FAQ link-ins:** where FAQ answers reference a contract audit, link the guide.
 - [ ] **CLL:** add the guide to its related/keep-reading links.
