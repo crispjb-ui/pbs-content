@@ -38,10 +38,10 @@ The blueprint's closing band said "contracted **$78.7M in pharmacy spend**" and 
 
 ## 7. Post-live chain (run in order; tell Claude when it renders)
 - [x] ✅ DONE Jul 23 — indexing requested; validator.schema.org clean (0 errors) on all 4 blocks. Live-build typo caught in screenshot review (CTA card "reveiw") fixed pre-publish.
-- [ ] **Glossary "Keep reading" block:** add the PBM-contract-audit guide link (this was the deferred trigger logged when the block was built Jul 21).
-- [ ] **FAQ link-ins:** where FAQ answers reference a contract audit, link the guide.
-- [ ] **CLL:** add the guide to its related/keep-reading links.
-- [ ] Freshness-registry row (content-page class; refresh = new FAQ Q&As from `/question-harvest`, link-ins as sibling guides publish, dateModified bump with real changes).
+- [x] ✅ DONE Jul 23 — **Glossary:** Keep-reading block built (CLL · FAQ · guide · Standards) between the toolkit card and the closing band; guide label corrected to "What is a PBM contract audit?" in review.
+- [x] ✅ DONE Jul 23 — **FAQ:** guide link appended to the "What does an independent PBM audit actually examine?" and revenue-streams answers (navigational sentences, intentionally outside the FAQPage schema) + Keep-reading row.
+- [x] ✅ DONE Jul 23 — **CLL:** Keep-reading block added (Glossary · FAQ · guide · Standards) above the closing band.
+- [x] ✅ DONE Jul 23 — freshness-registry row added (content-page class).
 - [ ] **When each sibling guide publishes:** add the companion spread-pricing sentence back into the "How do you start" section and the two guide rows into Keep reading (tracked per-guide in their packs).
 
 ## 8. Remaining answer-page wave order (one pack per page, built on request)
