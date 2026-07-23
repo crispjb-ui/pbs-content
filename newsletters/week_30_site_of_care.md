@@ -23,8 +23,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jul 27 | 7:00 PM | X | question [A2] | PART 4B · Mon | [ ] |
 | Mon Jul 27 | 8:30 PM | X | aphorism [C9] | PART 4B · Mon | [ ] |
 | Tue Jul 28 | 8:00 AM | X | recipe / Facility fee markup (Tier B) | PART 4B · Tue | [ ] |
-| Tue Jul 28 | 10:00 AM | LI Feed | Post 109 — "5 Self-Funded Decisions That Have to Land Before Year-End" (One Number Carousel) | Post 109 | [ ] |
-| Tue Jul 28 | 10:05 AM | LI Feed | Post 109 first comment | Post 109 | [ ] |
+| Tue Jul 28 | 8:30 AM | LI Feed | Post 109 — "5 Self-Funded Decisions That Have to Land Before Year-End" (One Number Carousel) | Post 109 | [ ] |
+| Tue Jul 28 | 8:35 AM | LI Feed | Post 109 first comment | Post 109 | [ ] |
 | Tue Jul 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 1:30 PM | LI Company | Reshare of Post 109 | Post 109 Reshare | [ ] |
 | Tue Jul 28 | 2:30 PM | X | long-form trial (site-of-care decoder, routes to Mon deep dive; swaps one thread) | PART 4B · Tue | [ ] |
@@ -42,8 +42,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "Where Does Your Specialty Script Actually Get Filled?" | PART 1B | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: "Bring Me One Line You Don't Recognize" (resharpened Jul 16) | PART 2B | [ ] |
 | Thu Jul 30 | 8:00 AM | X | recipe / The REMS excuse (Tier B) | PART 4B · Thu | [ ] |
-| Thu Jul 30 | 10:00 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, one-way turnstile conceptual infographic) | Post 111 | [ ] |
-| Thu Jul 30 | 10:05 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
+| Thu Jul 30 | 8:30 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, one-way turnstile conceptual infographic) | Post 111 | [ ] |
+| Thu Jul 30 | 8:35 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
 | Thu Jul 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 1:30 PM | LI Company | Reshare of Post 111 | Post 111 Reshare | [ ] |
 | Thu Jul 30 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
@@ -51,7 +51,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Jul 30 | 7:00 PM | X | question [A5] | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 8:30 PM | X | one question [B10] | PART 4B · Thu | [ ] |
 | Fri Jul 31 | 8:00 AM | X | recipe / Site-of-care program fees (Tier B) | PART 4B · Fri | [ ] |
-| Fri Jul 31 | 10:00 AM | LI Feed | Post 112 — PBM RFP tease (teases W31) | Post 112 | [ ] |
+| Fri Jul 31 | 8:30 AM | LI Feed | Post 112 — PBM RFP tease (teases W31) | Post 112 | [ ] |
 | Fri Jul 31 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Jul 31 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Jul 31 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
@@ -478,7 +478,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 109 - Tuesday 10:00 AM
+## Post 109 - Tuesday 8:30 AM
 ### "5 Self-Funded Decisions That Have to Land Before Year-End" — One Number Carousel
 
 **Template:** One Number carousel (template #5, Template C). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W22 One Number carousel.
@@ -512,7 +512,7 @@ In the Q4 renewals we coordinate at Prescription Benefit Solutions, the split is
 #### First Comment
 
 ```
-Monday's Benefit Blind Spots deep dive on site-of-care optimization is the deeper read on Decision 3 above (where high-cost specialty therapies are administered). The 4-channel cost comparison and the routing audit framework are in the article. [SUBSTACK MONDAY DEEP DIVE URL]
+Site-of-care is the year-end cost lever that rarely makes the renewal checklist: where your high-cost infusions get administered can move more dollars than any single line above. Monday's Benefit Blind Spots deep dive lays out the four administration settings compared and the decision tree by therapeutic category. [SUBSTACK MONDAY DEEP DIVE URL]
 ```
 
 #### Carousel Slide-by-Slide Spec
@@ -649,7 +649,7 @@ This week's Benefit Blind Spots deep dive on site-of-care optimization is the op
 
 ---
 
-## Post 111 - Thursday 10:00 AM
+## Post 111 - Thursday 8:30 AM
 
 _The Site-of-Care Decision Framework whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: Site-of-Care Decision Framework). The live Thursday post is below._
 
@@ -749,7 +749,7 @@ Ginny Crisp on how to find the steering on your plan.
 
 ---
 
-## Post 112 - Friday 10:00 AM
+## Post 112 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 31: PBM RFP
 
 **Format:** Text Post (Tease Hook)
@@ -787,7 +787,7 @@ Get next Monday's deep dive on PBM RFP Process in your inbox: benefitblindspots.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Launch Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser (post as RESTACK-WITH-NOTE on the live article; drop the link line):**
 Same drug, same dose, same protocol. The infusion at the hospital outpatient department cost multiples of the identical infusion at home, and the only thing that changed was the building. This week on Benefit Blind Spots: site-of-care optimization, with a decision tree by therapeutic category. One policy change on one drug category can exceed the annual PBM management fee.
 
 Read the full analysis: [LINK]
@@ -811,7 +811,7 @@ A plan sponsor told me she did not want to "push members" into home infusion bec
 
 ## Wednesday
 
-**Morning (7-8 AM) — Roundup Launch Teaser:**
+**Morning (7-8 AM) — Roundup Launch Teaser (post as RESTACK-WITH-NOTE on the live roundup; drop the link line):**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
@@ -826,7 +826,7 @@ I had a medical plan administrator tell me he had never coordinated with a PBM o
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Launch Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser (post as RESTACK-WITH-NOTE on the live field note; drop the link line):**
 New field note: where does your specialty script actually get filled? Your PBM pays its own pharmacy more than the independent for the identical drug, then its prior-auth and network rules route your script there. The FTC documented the rate gap in January 2025. Three checks tell you whether the steering is running on your plan.
 
 Read: [LINK]
@@ -1094,10 +1094,10 @@ One question that changes the room: "Show me the difference between what you pai
 - [ ] Pre-posting engagement: 5-10 comments daily (30 min before post)
 - [ ] Post-publish: 30-min reply window with follow-up questions
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
-- [ ] Tuesday: Post 109 One Number Carousel 10:00 AM + Reshare
-- [ ] Wednesday: Post 110 Text/Video 10:00 AM (VIDEO TEST #3)
-- [ ] Thursday: Field Note "Where Does Your Specialty Script Actually Get Filled?" 7:30 AM, Post 111 owned-pharmacy steering reveal one-way turnstile conceptual infographic 10:00 AM + Reshare (Thursday Excellence: confirm the 5-trait audit note in Post 111 before scheduling)
-- [ ] Friday: Post 112 Tease 10:00 AM
+- [ ] Tuesday: Post 109 One Number Carousel 8:30 AM + Reshare
+- [ ] Wednesday: Post 110 Text/Video 8:30 AM (VIDEO TEST #3)
+- [ ] Thursday: Field Note "Where Does Your Specialty Script Actually Get Filled?" 7:30 AM, Post 111 owned-pharmacy steering reveal one-way turnstile conceptual infographic 8:30 AM + Reshare (Thursday Excellence: confirm the 5-trait audit note in Post 111 before scheduling)
+- [ ] Friday: Post 112 Tease 8:30 AM
 - [ ] Evaluate video test results: compare 3 video tests (Weeks 26, 28, 30) vs text baselines
 - [ ] Daily Substack Notes
 
