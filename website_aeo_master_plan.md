@@ -112,23 +112,25 @@ CollectionPage+ItemList schema on the library (paste-ready JSON below); source f
 
 | Page | URL | Status / copy source |
 |------|-----|----------------------|
-| Home | `/` | refit LAST in Phase 3; carries the Seasonal Campaign Band |
-| Solutions | `/solutions` | refit; Service schema; Fiduciary File + Proof Band blocks |
-| **Request a Call** | `/request-a-call` | **build #1** — `request_a_call_form_spec.md`; `?topic=` variants |
-| **Renewal Second Opinion** | `/renewal-second-opinion` | **build #2** — `renewal_second_opinion_kit.md` ⏱ Aug 15 |
-| **For Brokers** | `/for-brokers` | **build #3** — `broker_partner_track.md` §3 |
-| **The Standards** | `/standards` | **build #4** — `standards_independent_pbm_review.md` (post counsel) |
-| **How We Charge** | `/how-we-charge` | **build #5** — `pricing_architecture_memo.md` (post tier decision) |
-| **Results** | `/results` | **build #6** — shell + Proof Band; case studies as permissioned |
-| Glossary | `/glossary` | build #7 (blueprint done) |
-| Contract Language Library | `/contract-language-library` | build #8 (blueprint done) |
-| What We're Seeing | `/what-we-are-seeing` | Phase 3 (blueprint done) |
-| FAQ | `/faq` | Phase 3 (blueprint done) |
-| Guides ×4 | `/guides/<slug>` | Phase 3 (blueprints done) |
-| About / Insights | `/about` · `/insights` | Phase 3 refit |
-| Toolkit Library + ×29 | `/toolkit-library` · `/toolkit/<slug>` | live; retrofit Phase 3 |
+| Home | `/` | 🟨 schema live Jul 6; full refit LAST (after sunset), carries the Seasonal Campaign Band |
+| Solutions | `/solutions` | 🟦 legacy page still up; refit pending (Fiduciary File block ON HOLD per its gate) |
+| **Request a Call** | `/request-a-call` | ✅ LIVE Jul 8, 2026 |
+| **Renewal Second Opinion** | `/renewal-second-opinion` | ✅ LIVE Jul 9, 2026 (5 weeks ahead of gate) |
+| **For Brokers** | `/for-brokers` | ✅ LIVE Jul 14, 2026 |
+| **The Standards** | `/standards` | ✅ LIVE Jul 22, 2026 (attestation model; counsel waived Jul 21) |
+| **How We Charge** | `/how-we-charge` | 🟦 not built (post tier decision) |
+| **Results** | `/results` | 🟦 not built — shell + Proof Band; case studies as permissioned |
+| Glossary | `/glossary` | ✅ LIVE Jul 10, 2026 |
+| Contract Language Library | `/contract-language-library` | ✅ LIVE Jul 21, 2026 |
+| What We're Seeing | `/what-we-are-seeing` | 🟦 next wave (blueprint done) |
+| FAQ | `/faq` | ✅ LIVE Jul 21, 2026 |
+| Guides ×4 | **FLAT slugs** `/guide-<slug>` (Wix can't nest; frozen Jul 23) | ✅ `/guide-pbm-contract-audit` LIVE Jul 23, 2026 · 🟦 spread-pricing next · choose-an-auditor · audit-vs-broker-review |
+| About / Insights | `/about` · `/insights` | ✅ /about rebuilt + LIVE Jul 15, 2026 · 🟦 /insights not built (CURRENT NEWSLETTER legacy page to sunset into it) |
+| Toolkit Library + ×29 | `/toolkit-library` · `/toolkit/<slug>` | ✅ live; CollectionPage/ItemList retrofit still pending |
 | Guides wave 2 / articles | `/guides/…` · `/articles/…` | Phase 4 |
-| Decoder · Benchmark · Index | `/decoder` · `/benchmark` · `/transparency-index` | gated; Phase 4+ (reserve the slugs NOW so they are frozen) |
+| Decoder · Benchmark · Index | `/decoder` · `/benchmark` · `/transparency-index` | gated; Phase 4+ (reserved slugs) |
+| Privacy Policy | `/privacy` | ✅ LIVE Jul 22, 2026 (footer-only, noindex-exempt: indexable, hidden from nav) |
+| Links hub | `/links` | 🟦 pack ready (`links_build_pack.md`); builds with the video-account launch |
 
 **Breadcrumbs:** `Home › Learn › <page>` (content), `Home › Why Us › <page>` (trust), `Home › Toolkit Library › <toolkit>`. **Redirect policy:** unchanged; slugs final at Phase 1, including the three reserved ones.
 
