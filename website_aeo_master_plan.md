@@ -122,7 +122,7 @@ CollectionPage+ItemList schema on the library (paste-ready JSON below); source f
 | **Results** | `/results` | 🟦 not built — shell + Proof Band; case studies as permissioned |
 | Glossary | `/glossary` | ✅ LIVE Jul 10, 2026 |
 | Contract Language Library | `/contract-language-library` | ✅ LIVE Jul 21, 2026 |
-| What We're Seeing | `/what-we-are-seeing` | 🟦 next wave (blueprint done) |
+| What We're Seeing | `/what-we-are-seeing` | ✅ LIVE Jul 23, 2026 (2025 data; ANNUAL January refresh; proof surface until /results) |
 | FAQ | `/faq` | ✅ LIVE Jul 21, 2026 |
 | Guides ×4 | **FLAT slugs** `/guide-<slug>` (Wix can't nest; frozen Jul 23) | ✅ `/guide-pbm-contract-audit` LIVE Jul 23 · ✅ `/guide-what-is-spread-pricing` LIVE Jul 23 · 🟦 choose-an-auditor · audit-vs-broker-review |
 | About / Insights | `/about` · `/insights` | ✅ /about rebuilt + LIVE Jul 15, 2026 · 🟦 /insights not built (CURRENT NEWSLETTER legacy page to sunset into it) |

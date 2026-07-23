@@ -34,8 +34,8 @@ Dark hero (eyebrow `ANNUAL AGGREGATE · 2025` · H1 `What We're Seeing in PBM Co
 **Keep reading:** What is a PBM contract audit? · What is spread pricing? · Contract Language Library · The Standards (added; not in blueprint).
 
 ## 6. Post-live chain
-- [ ] Indexing request + validator clean.
-- [ ] **Cross-links in:** glossary + CLL + both guides' Keep-reading blocks gain a `What We're Seeing: 2025 in review` row; FAQ links it where an answer cites the yearly review volume; **for-brokers** "Useful with clients" block gains it (proof surface for broker conversations).
-- [ ] Freshness registry row — **ANNUAL refresh cadence** (the page re-publishes each January with the prior year's numbers; the January refresh is a full stat re-verify against the metrics of record, never partial-year extrapolation).
-- [ ] Site map / URL map / gameplan flip to 6 of 8.
-- [ ] Note for the September campaign: this page is the citable proof link for ads/briefing copy until `/results` exists.
+- [x] ✅ DONE Jul 23 — live, indexed, validator clean. Live-build review fixes: 86-tile label → "Contract review engagements", contracts-read clarifier sentence added, two trailing periods. Ginny's one-line confirm of the contracts-read reconciliation: soft to-do (page live; confirm closes the loop).
+- [x] ✅ DONE Jul 23 — cross-links in: glossary, CLL, both guides' Keep-reading rows + for-brokers Useful-with-clients.
+- [x] ✅ DONE Jul 23 — registry row (ANNUAL cadence).
+- [x] ✅ DONE Jul 23 — site map / URL map / gameplan flipped to 6 of 8.
+- [x] ✅ Noted in the registry row: this page is the citable proof link for September ads/briefing copy until `/results` exists.
