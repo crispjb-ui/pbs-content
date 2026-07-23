@@ -27,13 +27,17 @@ LLMs weight Wikidata disproportionately for entity grounding, and it is far easi
 **Why:** once these exist and corroborate the on-site Organization + Person schema (matching name, role, location, website), the entity resolves cleanly and the "Prescription Benefit Solutions" vs. "PBS / Public Broadcasting Service" collision stops hurting. Feeds a Google Knowledge Panel over time.
 
 ## 2. Substack Recommendations network (#17) — biggest Substack-growth lever
-Substack's native cross-recommendation is the highest-yield growth path and is currently unused. Get **Benefit Blind Spots** recommended by aligned publications.
-- **Primary target: Wendell Potter / HEALTH CARE un-covered.** The relationship already exists (Ginny is a contributor). Ask for a mutual Substack Recommendation. PBS recommends his publication back.
-- **Secondary targets:** drug-pricing / benefits Substacks in the transparency lane (e.g., Drug Channels-adjacent writers, benefits-consultant newsletters, health-policy writers Ginny engages on X).
-- **Mechanic:** Substack Dashboard → Settings → Recommendations → add the publications PBS wants to recommend; then ask each to reciprocate.
-- **The ask (paste-ready, for the next Potter touch):**
-  > "Would you be open to a mutual Substack recommendation? I'd add HEALTH CARE un-covered to Benefit Blind Spots' recommendations, and if it's a fit on your side, a recommendation back would put the pharmacy-contract work in front of exactly the readers it's for. Happy to go first."
-- **Measure:** subscribers attributed to "Recommendations" in Substack's growth source breakdown.
+Substack's native cross-recommendation is the highest-yield growth path. Get **Benefit Blind Spots** recommended by aligned publications.
+
+**✅ OUTBOUND SIDE LIVE (Jul 22, 2026 — Brett added all four, with Ginny-voice blurbs, chat-drafted):** Benefit Blind Spots now publicly recommends: (1) **HEALTH CARE un-covered** (Wendell Potter — blurb states the contributor relationship on a crawlable page, an entity signal in itself); (2) **Archelle Georgiou, MD's Substack** (warm LinkedIn relationship, ex-UnitedHealth CMO, PA/MA analysis); (3) **BIG by Matt Stoller** (PBM antitrust; huge list, reciprocation a lottery ticket, recommendation is positioning); (4) **Ramblings of a pharmacist** (Benjamin Jolley, PharmD — peer-sized ~3K list, most realistic reciprocation; NOTE: Jolley is a senior fellow at the American Economic Liberties Project where Stoller is research director, so the warm path to Stoller runs through Jolley). Four is deliberate: 3-5 reads as taste, more reads as a link farm; never add a competing consultancy's newsletter.
+
+**Reciprocal outreach status:**
+- **Archelle — LinkedIn DM SENT Jul 22** (recommendation-is-live note, no ask; her dashboard shows the one-click reciprocate).
+- **Jolley — LinkedIn connection note SENT Jul 22** (290-char version). On accept: fuller DM (MAC-catalogs specificity), and if warm, the second exchange floats the Stoller intro ("if you ever think BIG's readers would care about the plan-sponsor view").
+- **Potter — PENDING: rides along with the next editorial email to his team** (never a standalone ask). His list is two-deep and hand-picked (Marshall Allen Project, Hartmann Report — both consumer/politics-side; checked Jul 22), so the frame is the open lane: nothing on his list covers the contracts/PBM-money mechanics. Paste-ready note:
+  > "One small thing outside the pieces: Benefit Blind Spots has recommended HEALTH CARE un-covered on Substack since we set the feature up. I noticed Wendell keeps his own list short, Marshall's project and the Hartmann Report, both aimed at what the system does to patients. If he ever wants one that shows readers the contracts behind it, the PBM deals employers sign without reading, that is the lane we cover. Either way, glad to keep sending readers his direction."
+- **Stoller — no direct ask.** Cheap builds: substantive same-day reply from Ginny when the next PBM-topic BIG issue lands (one thing the piece didn't cover from inside the contracts), X engagement from @ginny_crisp; the real path is the Jolley intro.
+- **Measure:** subscribers attributed to "Recommendations" in Substack's growth source breakdown (check at the weekly /log-metrics pass; reciprocations also show as "publications that recommend you" in the dashboard).
 
 ## 3. Off-site / community presence (#19) — where AI Overviews and ChatGPT graze
 Google AI Overviews and ChatGPT lean heavily on third-party listicles, Reddit, and Quora. Schema cannot fake this; presence has to be earned.
@@ -84,10 +88,10 @@ _The strategic sections above stand; this is the operational layer. Key reassign
 ## SPRINT 2 — Ginny, ~30 min total (relationship asks only she can make)
 
 ### 2a. Potter mutual Substack Recommendation (5 min)
-- Substack Dashboard → Settings → Recommendations → add HEALTH CARE un-covered first, then send the paste-ready ask in §2 above on the next Potter touch.
+- [x] ✅ Outbound side DONE Jul 22, 2026 (HEALTH CARE un-covered recommended, contributor-relationship blurb). Remaining: the reciprocal note rides with the next editorial email (paste-ready copy in §2 above).
 
 ### 2b. Secondary recommendation targets (10 min)
-- 2-3 asks to aligned newsletters Ginny already engages (drug-pricing/benefits Substacks, X relationships). Same template.
+- [x] ✅ DONE Jul 22, 2026 — Archelle Georgiou, BIG (Stoller), Jolley added; Archelle DM + Jolley connect note sent same day (status ledger in §2).
 
 ### 2c. Testimonial + review asks (15 min)
 - The standing 3-testimonial ask (client + broker + CFO) now does double duty: site quote cards AND Google reviews. Ginny picks the 3-5 names; Brett sends per the closeout-kit rules.
