@@ -16,6 +16,7 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 | Contract Language Library (Substack evergreen) | `substack_contract_language_library.md` → live post | continuous (Library NN pushes) | Already on a continuous cadence; freshness pass checks the last push date and flags if >8 weeks stale |
 | Plan Sponsor FAQ (`rxbs.org/faq`) | Wix + FAQPage/BreadcrumbList JSON-LD | 2026-07-21 (launched) | 14 Q&As from the buyer-anxiety map; refresh = new questions from `/question-harvest` (add to page AND FAQPage schema together — visible text must match schema), link-ins as guide pages publish |
 | Contract Language Library (`rxbs.org/contract-language-library`) | Wix + Article/BreadcrumbList/DefinedTermSet JSON-LD | 2026-07-21 (launched) | Canonical twin of the Substack Library; updates ride each Library NN push per CLAUDE.md rule (c2) — clause card + `dateModified` bump in the Article markup. Freshness pass verifies the Wix page carries the latest pushed provisions (never diverge from the Substack body) |
+| PBM Contract Audit Guide (`rxbs.org/guide-pbm-contract-audit`) | Wix + Article/BreadcrumbList/FAQPage/HowTo JSON-LD | 2026-07-23 (launched) | First of the 4 pillar guides (answer-page wave #1). Refresh = new FAQ Q&As from `/question-harvest` (page text + FAQPage schema together), sibling-guide link-ins as each publishes (build pack §7), stat/example sharpening; `dateModified` bumps only with real changes |
 | The Standards (`rxbs.org/standards`) | Wix + Article/BreadcrumbList/DefinedTermSet JSON-LD | 2026-07-22 (launched, v1.0) | ATTESTED LANGUAGE: Part 1 + the closing paragraph never change outside the annual January revision (re-attestation required). Refresh = the January v-bump with the Index; dateModified in the Article markup moves with it |
 | Homepage | Wix | 2026-07-08 (schema) | Hero CTA + "Mysite" title defects still queued (gameplan P1 #12) |
 | About (`rxbs.org/about`) | Wix + Organization/Person JSON-LD | 2026-07-15 (rebuilt + launched) | Person schema carries `alumniOf` + credential (the entity fix). Refresh = proof-band anchors when 2026 metrics land, media chips as appearances air (Derms on Drugs pending), named team cards if Ginny supplies bios, testimonials block when collected |
@@ -24,7 +25,7 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 
 ## Not live yet (enter the pool at launch — add a row with launch date)
 
-`/what-we-are-seeing` · the 4 guides · `/how-we-charge` · `/results`
+`/what-we-are-seeing` · the 3 remaining guides (spread-pricing, choose-an-auditor, audit-vs-broker-review) · `/how-we-charge` · `/results`
 
 ## Refresh log
 
