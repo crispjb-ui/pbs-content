@@ -124,7 +124,7 @@ CollectionPage+ItemList schema on the library (paste-ready JSON below); source f
 | Contract Language Library | `/contract-language-library` | ✅ LIVE Jul 21, 2026 |
 | What We're Seeing | `/what-we-are-seeing` | 🟦 next wave (blueprint done) |
 | FAQ | `/faq` | ✅ LIVE Jul 21, 2026 |
-| Guides ×4 | **FLAT slugs** `/guide-<slug>` (Wix can't nest; frozen Jul 23) | ✅ `/guide-pbm-contract-audit` LIVE Jul 23, 2026 · 🟦 spread-pricing next · choose-an-auditor · audit-vs-broker-review |
+| Guides ×4 | **FLAT slugs** `/guide-<slug>` (Wix can't nest; frozen Jul 23) | ✅ `/guide-pbm-contract-audit` LIVE Jul 23 · ✅ `/guide-what-is-spread-pricing` LIVE Jul 23 · 🟦 choose-an-auditor · audit-vs-broker-review |
 | About / Insights | `/about` · `/insights` | ✅ /about rebuilt + LIVE Jul 15, 2026 · 🟦 /insights not built (CURRENT NEWSLETTER legacy page to sunset into it) |
 | Toolkit Library + ×29 | `/toolkit-library` · `/toolkit/<slug>` | ✅ live; CollectionPage/ItemList retrofit still pending |
 | Guides wave 2 / articles | `/guides/…` · `/articles/…` | Phase 4 |

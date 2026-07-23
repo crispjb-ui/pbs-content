@@ -42,7 +42,7 @@ The blueprint's closing band said "contracted **$78.7M in pharmacy spend**" and 
 - [x] ✅ DONE Jul 23 — **FAQ:** guide link appended to the "What does an independent PBM audit actually examine?" and revenue-streams answers (navigational sentences, intentionally outside the FAQPage schema) + Keep-reading row.
 - [x] ✅ DONE Jul 23 — **CLL:** Keep-reading block added (Glossary · FAQ · guide · Standards) above the closing band.
 - [x] ✅ DONE Jul 23 — freshness-registry row added (content-page class).
-- [ ] **When each sibling guide publishes:** add the companion spread-pricing sentence back into the "How do you start" section and the two guide rows into Keep reading (tracked per-guide in their packs).
+- [x] ✅ Jul 23 — spread-pricing re-adds DONE (companion sentence in "How do you start" + Keep-reading row, live same day that guide published). Remaining: the choose-an-auditor Keep-reading row when that guide publishes.
 
 ## 8. Remaining answer-page wave order (one pack per page, built on request)
 1. ✅ this page → 2. `/guide-what-is-spread-pricing` → 3. `/what-we-are-seeing` (real 2025 data; proof value) → 4. `/guide-how-to-choose-a-pbm-auditor` → 5. `/compare-pbm-audit-vs-broker-review` (broker-sensitivity rules apply hard here) → 6. `/guide-how-to-read-a-pbm-rebate-report` (blueprint exists; wave 2).

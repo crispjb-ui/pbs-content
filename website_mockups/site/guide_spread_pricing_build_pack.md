@@ -36,8 +36,8 @@ Blueprint said "reviews **identified** roughly $469K in average savings per phar
 > Prescription Benefit Solutions reviews hundreds of PBM contracts a year and reads the pricing model, the audit rights, and the per-channel net cost to find where spread is hiding. In 2025, pharmacy benefit reviews averaged $469K in contracted savings per client. Results vary by plan.
 
 ## 7. Post-live chain
-- [ ] Search Console → request indexing; validator clean.
-- [ ] **Audit guide re-adds (the held-out companion links):** (a) in "How do you start a PBM contract audit?", append: *"If spread pricing is the term you most want to understand first, the companion guide on what spread pricing is in a PBM contract covers how it hides and how to detect it."* (link the phrase); (b) Keep-reading row `What is spread pricing?`.
-- [ ] **Glossary Keep-reading:** add row `What is spread pricing in a PBM contract?` → this guide.
-- [ ] **FAQ:** in any answer that names spread pricing, hyperlink the first mention.
-- [ ] Freshness-registry row; site-map/URL-map status flip (5 of 8).
+- [x] ✅ DONE Jul 23 — indexing requested; validator clean; live-build review fixed the CTA button label (checklist→worksheet), the card subtext (". Free."), and the Keep-reading row question mark.
+- [x] ✅ DONE Jul 23 — audit-guide re-adds live (companion sentence + Keep-reading row).
+- [x] ✅ DONE Jul 23 — glossary Keep-reading row added.
+- [x] ✅ DONE Jul 23 — FAQ spread-pricing mention linked.
+- [x] ✅ DONE Jul 23 — registry row + URL-map/site-map flipped to 5 of 8.
