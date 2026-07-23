@@ -8,7 +8,7 @@
 _Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes already sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content June 2026 (Thursday reach slot rebuilt June 2026 = live "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" owned-pharmacy steering shocking-reveal one-way turnstile conceptual infographic, replacing the weak "5 COB Terms Decoded" vocabulary decoder; the repurposed Site-of-Care Decision Framework whiteboard moved into PART 1 as an In-Article Visual). Run of Show X-recipe labels reconciled to the as-built PART 4B (July 2026 sweep)._
 
 **⚠ Open before ship (residual items — external inputs, not auto-fixable):**
-- **⚠ Post-publish URLs (fill at schedule/publish time; the weekly-substack-urls workflow auto-fills these from RSS):** the Monday deep-dive URL in the Newsletter body `[SUBSTACK URL]`, the Newsletter First Comment, and Post 109 first comment `[SUBSTACK MONDAY DEEP DIVE URL]`; the Thursday Field Note URL in Post 111 first comment `[SUBSTACK FIELD NOTE URL]` and the PART 1C `field_note_url` cell; and the Notes launch-teaser `[LINK]`s (Mon deep dive / Wed roundup / Thu field note). All resolve only after each post publishes.
+- **⚠ Post-publish URLs (fill at schedule/publish time; the weekly-substack-urls workflow auto-fills these from RSS):** the Monday deep-dive URL in the Newsletter body `[SUBSTACK URL]`, the Newsletter First Comment, and Post 110 first comment `[SUBSTACK MONDAY DEEP DIVE URL]` (Post 109 first comment now uses static rxbs.org links, no placeholder); the Thursday Field Note URL in Post 111 first comment `[SUBSTACK FIELD NOTE URL]` and the PART 1C `field_note_url` cell; and the Notes launch-teaser `[LINK]`s (Mon deep dive / Wed roundup / Thu field note). All resolve only after each post publishes.
 - **⚠ Video asset (Post 110):** confirm the 9:16 render `social_clips/remotion_starter/out/2026-06-09_rebate-clawback-lifestyle_9x16.mp4` exists and has passed the Phase-4 QC gate before scheduling Wednesday.
 
 | Day | Time | Channel | Content | Where | ✓ |
@@ -23,7 +23,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Jul 27 | 7:00 PM | X | question [A2] | PART 4B · Mon | [ ] |
 | Mon Jul 27 | 8:30 PM | X | aphorism [C9] | PART 4B · Mon | [ ] |
 | Tue Jul 28 | 8:00 AM | X | recipe / Facility fee markup (Tier B) | PART 4B · Tue | [ ] |
-| Tue Jul 28 | 8:30 AM | LI Feed | Post 109 — "5 Self-Funded Decisions That Have to Land Before Year-End" (One Number Carousel) | Post 109 | [ ] |
+| Tue Jul 28 | 8:30 AM | LI Feed | Post 109 — "5 Self-Funded Decisions That Have to Land Before Year-End" (Renewal Countdown whiteboard timeline, single messy infographic) | Post 109 | [ ] |
 | Tue Jul 28 | 8:35 AM | LI Feed | Post 109 first comment | Post 109 | [ ] |
 | Tue Jul 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 1:30 PM | LI Company | Reshare of Post 109 | Post 109 Reshare | [ ] |
@@ -479,32 +479,38 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 # PART 3: LINKEDIN FEED POSTS
 
 ## Post 109 - Tuesday 8:30 AM
-### "5 Self-Funded Decisions That Have to Land Before Year-End" — One Number Carousel
+### "5 Self-Funded Decisions That Have to Land Before Year-End" — Renewal Countdown Whiteboard Timeline (Chart-on-Whiteboard Messy Infographic)
 
-**Template:** One Number carousel (template #5, Template C). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with W22 One Number carousel.
-**Format class:** Carousel (Tuesday Cycle-W2 slot, third cycle)
-**Pillar:** Self-Funded Employer Guidance (different from Monday's Cost Containment / Site-of-Care topic)
-**Content shape:** Number-forward decision stack. Second One Number carousel in the rotation after W22; each slide anchors on a single date, count, or timing figure with a one-line interpretation and a "WHY IT MATTERS" panel.
-**Why this combination:** Q4 deadline content is calendar-driven. One Number with dates and counts (the November RFP-out deadline, the shortfall aggregation number, the benchmarking lead time, the stop-loss-alignment lead time, the fiduciary-file count) lets each slide hang on a specific figure that makes the decision concrete, not abstract.
+> **REBUILT Jul 23, 2026 (Brett-requested review of the built week; formerly a 7-slide One Number carousel):** rebuilt as a single Chart-on-Whiteboard vertical timeline because (1) this is a date/deadline story, and the timeline/date-story rule makes the whiteboard vertical timeline the default form for those (W24 amendment-window canonical pattern; calendar grids stay banned); (2) single-image messy infographic is the highest-reach format in the data while carousels lag in the summer trough; (3) the thesis IS a countdown ("your renewal starts now"), which disconnected number slides do not dramatize. Content unchanged; the five decisions now run chronologically Aug → Jan 1. **Date fix in the same pass:** the old copy said "renewal lands in 2026 H1"; this post publishes Jul 28, 2026, so the renewal ahead is Jan 1, 2027 (H1 2027). **Deliberately NOT a reveal:** W30 already carries the Wednesday clawback clip and the Thursday owned-pharmacy steering reveal; a third would trip the reveal-saturation guardrail, and a save-driven planning board is the format-variety counterweight the reveal-cadence rule asks for.
+
+**Format:** Single messy infographic, Chart-on-Whiteboard (active rotation; distinct from the PAUSED Whiteboard carousel). 1080 x 1350 px (4:5). Whiteboard vertical timeline: five dated stations counting down to a circled JAN 1. In-scene headline pattern: the headline is written ON the board in navy marker and "rxbs.org" sits small in a board corner, so no Canva headline band is needed (Canva step = small PBS logo only + the ~400px legibility check).
+**Pillar:** Self-Funded Employer Guidance (different from Monday's Site-of-Care topic; triple-distinct holds: Mon site-of-care · Tue renewal countdown · Thu owned-pharmacy steering).
+**Content shape:** Save-driven reference (the board is the screenshot) with a knowledge-gap hook (the decisions default the PBM's way). Plan-sponsor-actionable at every station.
+
+**Tuesday Excellence components:** (1) hook = knowledge-gap/confrontational ("Make none of them on purpose and they default the PBM's way") ✓; (2) proprietary anchor = "In the Q4 renewals we coordinate at Prescription Benefit Solutions..." ✓; (3) image prompt with topic-encoding central element (the dated countdown line to a circled JAN 1) ✓; (4) pillar hashtag set with topic-anchor override (#Q4Planning) ✓; (5) first comment routes to topic-relevant evergreen assets (Quarterly Reporting toolkit + Renewal Second Opinion; no Substack placeholder needed) ✓.
+
+**Date-math gate (Jan 1, 2027 anchor, verified):** AUG = publish month (audit the fiduciary file now) · SEP = align stop-loss + pharmacy renewal timelines while both notice windows are open · OCT 1 = independent benchmarks in hand (Jan 1 minus 90 days = Oct 3 literal; Oct 1 working anchor per the W24 convention) · NOV 1 = RFP out for H1-2027 renewals · DEC = full-year guarantee shortfalls compiled for the renewal table · JAN 1 = renewal effective.
 
 #### Post Copy
 
 ```
 Your renewal does not start in Q1. It starts now, with five decisions that quietly settle your leverage before the PBM ever sends a proposal. Make none of them on purpose and they default the PBM's way while everyone waits for renewal season.
 
-Five we walk our self-funded clients through:
+The countdown we walk self-funded clients through, working back from a January 1 renewal:
 
-1. Confirm or revise the PBM evaluation timeline. If renewal lands in 2026 H1, the RFP needs to be out by November.
+AUGUST. Audit the fiduciary file. Selection memo, evaluation criteria, performance reviews, committee minutes. They either exist or they do not. Build them now, not when litigation asks for them.
 
-2. Document every guarantee shortfall in the current term. Quarterly reports do not aggregate these. The plan has to compile them.
+SEPTEMBER. Put stop-loss and pharmacy renewal on one timeline. Misaligned renewals cost leverage on both sides of the conversation.
 
-3. Lock down independent benchmarking. PBM-provided benchmarks always show the PBM in a competitive position. Independent pulls do not.
+OCTOBER 1. Independent benchmarks in hand, 90 days out. PBM-provided benchmarks always show the PBM in a competitive position. Independent pulls do not. You cannot benchmark in the negotiation meeting.
 
-4. Coordinate stop-loss and pharmacy renewal timing. Misaligned renewals cost leverage on both sides of the conversation.
+NOVEMBER 1. RFP out the door. If your renewal lands in the first half of 2027, anything past November resets your negotiating position.
 
-5. Run a fiduciary file audit. The selection memo, evaluation criteria, performance reviews, and committee minutes either exist or they do not. If they do not, build them now, not when litigation asks for them.
+DECEMBER. Every guarantee shortfall from the year compiled, with dollar values. Quarterly reports do not aggregate these. The plan has to compile them, and every line is renewal-table leverage.
 
 In the Q4 renewals we coordinate at Prescription Benefit Solutions, the split is consistent: the plans that lock these five in early negotiate from position. The ones that wait inherit the PBM's timeline and react to it.
+
+Which station is furthest behind on your plan?
 
 #Q4Planning #SelfFundedEmployers #EmployeeBenefits
 ```
@@ -512,38 +518,37 @@ In the Q4 renewals we coordinate at Prescription Benefit Solutions, the split is
 #### First Comment
 
 ```
-Site-of-care is the year-end cost lever that rarely makes the renewal checklist: where your high-cost infusions get administered can move more dollars than any single line above. Monday's Benefit Blind Spots deep dive lays out the four administration settings compared and the decision tree by therapeutic category. [SUBSTACK MONDAY DEEP DIVE URL]
+The December station is the one most plans skip. The Quarterly Reporting Checklist (free) is the 15-line frame we use to compile guarantee shortfalls before they reach the renewal table: rxbs.org/toolkit/quarterly-reporting
+
+If your renewal is already on the calendar, we also offer a fixed-scope independent second opinion before you sign: rxbs.org/renewal-second-opinion
 ```
 
-#### Carousel Slide-by-Slide Spec
+#### Image Generation Prompt (Renewal Countdown Whiteboard Timeline)
 
-Same visual system as W22 One Number Carousel. Cover and close Primary Blue with white Plex Sans SemiBold and italic Accent Blue emphasis. Content slides (2-6) white background with one large Plex Mono Medium tabular figure per slide, Plex Sans SemiBold label above, Plex Sans Regular interpretation below, Primary Blue "WHY IT MATTERS" panel at bottom ~18%. Slide-number footer "N / 7" bottom-right. Cover eyebrow "Q4 DECISIONS · 2026 RENEWAL PREP" in Plex Sans SemiBold 14pt white, +6% tracking (spelled-out "Prescription Benefit Solutions" wordmark top-right on the cover per the W22 One Number system; no bare "PBS" on the public visual).
-
-**Slide 1 — Cover.** Headline: "5 self-funded decisions that have to *land* before year-end." ("land" italic Accent Blue.) Subhead: "Made now = leverage in Q1. Deferred = reacting." "01 / 07."
-
-**Slide 2 — Decision 1: RFP-out date.** Large Plex Mono number: "NOV." Label above: "Decision one · RFP out by." Interpretation: "If renewal lands in 2026 H1, anything past November resets your negotiating position." "WHY IT MATTERS" panel: "The RFP timeline sets the rest of the calendar. Slip November and every downstream deadline compresses."
-
-**Slide 3 — Decision 2: Shortfall count.** Large Plex Mono number: "# of shortfalls." Label: "Decision two · Every shortfall documented, with dollar value." Interpretation: "Quarterly reports do not aggregate them. The plan has to compile them. Every line is renewal-table leverage." "WHY IT MATTERS" panel: "Unpaid remediation is the easiest recovery in any renewal. Most plans leave it uncollected because nobody added it up."
-
-**Slide 4 — Decision 3: Benchmarking lead time.** Large Plex Mono number: "90 days." Label: "Decision three · Independent benchmarking in hand." Interpretation: "PBM benchmarks were built to show the PBM as competitive. Independent pulls do not. Ninety days before renewal is the minimum lead time." "WHY IT MATTERS" panel: "You cannot benchmark in the negotiation meeting. It has to be done, reviewed, and defensible before you sit down."
-
-**Slide 5 — Decision 4: Stop-loss alignment.** Large Plex Mono number: "2 renewals · 1 conversation." Label: "Decision four · Stop-loss and PBM renewal coordinated." Interpretation: "Misaligned renewals erode leverage on both sides. Treat them as one conversation, one timeline, one negotiating file." "WHY IT MATTERS" panel: "Stop-loss sees specialty concentration. PBM sees utilization. Aligned renewals let you negotiate the whole picture; misaligned renewals force you to negotiate each half blind."
-
-**Slide 6 — Decision 5: Fiduciary file audit.** Large Plex Mono number: "5 files." Label: "Decision five · Fiduciary file audit." Interpretation: "Selection memo, evaluation criteria, performance reviews, committee minutes, renewal-decision rationale. They either exist or they do not." "WHY IT MATTERS" panel: "Build them now, not when litigation asks for them. A prudent process lives on paper."
-
-**Slide 7 — Close.** Primary Blue. Headline: "Walk into Q1 with the file *built*." ("built" italic Accent Blue.) Below: "Negotiate, do not react." Bottom CTA: "team@rxbs.org · Benefit Blind Spots · benefitblindspots.substack.com." "07 / 07."
-
-#### Image Generation Prompt
-
-Claude Design project type: **Slide deck from template**. One Number carousel (template #5, Template C). Generate 7 stacked slides at 1080 x 1350 px each. Visual parity with W22 One Number Carousel. Pull slide-by-slide content (labels, numbers/dates, interpretation, "WHY IT MATTERS" copy) from the spec above. Cover eyebrow "Q4 DECISIONS · 2026 RENEWAL PREP" (spelled-out "Prescription Benefit Solutions" wordmark top-right per the W22 One Number system).
+> A photorealistic conference-room whiteboard photographed straight on, filling the frame, 1080 x 1350 pixels (4:5 vertical). Clean white dry-erase surface with faint eraser smudges and a silver marker tray along the bottom edge holding one navy marker and one red marker. Everything on the board is handwritten in large, confident dry-erase marker lettering at conference-room scale, readable from across a room.
+>
+> Top of the board, in dark navy marker (close to #015880), a two-line handwritten headline: "YOUR RENEWAL STARTS NOW." and beneath it, smaller: "5 decisions before Jan 1." A quick hand-drawn underline sits under the word "NOW."
+>
+> Below the headline, one thick vertical navy timeline line runs down the center of the board with five evenly spaced tick marks. Each tick has a handwritten date label on the left of the line and a short handwritten note on the right:
+> "AUG" — "audit the fiduciary file"
+> "SEP" — "stop-loss + Rx renewal: one timeline"
+> "OCT 1" — "independent benchmarks in hand (90 days out)"
+> "NOV 1" — "RFP out the door"
+> "DEC" — "every shortfall compiled, $ valued"
+>
+> At the bottom of the timeline, a final station circled twice in red marker: "JAN 1 — renewal effective", with a short red handwritten note beside the circle: "leverage already decided."
+>
+> Small, in the bottom right corner of the board in navy marker: "rxbs.org".
+>
+> The composition contains only the whiteboard, the marker tray, and the handwriting: no people, no hands, no calendar grids, no month grids, no sticky notes, no logos. Marker strokes show natural dry-erase texture and slight pressure variation. Even office lighting with a soft sheen on the board. The headline and the five stations dominate the center ~70% of the frame and must be legible at ~400 pixels wide.
 
 **Post-Generation Steps:**
 
-1. Generate 7-slide deck
-2. Export PNGs at 1080 x 1350
-3. Verify each large figure renders cleanly (Slide 2 "NOV." as a short word not a number; Slides 3-6 mix of numbers and phrases)
-4. Verify "WHY IT MATTERS" panels align across slides
-5. Upload as native LinkedIn carousel
+1. Generate the base image (ChatGPT / Gemini; handwritten marker type sidesteps the generator-botches-clean-type problem per the whiteboard rule)
+2. Date/text fingerprint check per the timeline rule: all six date labels render exactly (AUG / SEP / OCT 1 / NOV 1 / DEC / JAN 1), station notes unmangled, no stray calendar grids. If a selection edit is used, re-verify the full fingerprint afterward (edits redraw beyond the mask)
+3. Mandatory mobile-feed legibility check at ~400px wide: headline and the five dates read at thumbnail; station notes read on tap
+4. Canva: add the small PBS logo (color) bottom-left, 80-100px. Nothing else; the headline lives on the board
+5. Export as PNG at 1080 x 1350
 
 ---
 
@@ -1094,7 +1099,7 @@ One question that changes the room: "Show me the difference between what you pai
 - [ ] Pre-posting engagement: 5-10 comments daily (30 min before post)
 - [ ] Post-publish: 30-min reply window with follow-up questions
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
-- [ ] Tuesday: Post 109 One Number Carousel 8:30 AM + Reshare
+- [ ] Tuesday: Post 109 Renewal Countdown whiteboard timeline 8:30 AM + Reshare
 - [ ] Wednesday: Post 110 Text/Video 8:30 AM (VIDEO TEST #3)
 - [ ] Thursday: Field Note "Where Does Your Specialty Script Actually Get Filled?" 7:30 AM, Post 111 owned-pharmacy steering reveal one-way turnstile conceptual infographic 8:30 AM + Reshare (Thursday Excellence: confirm the 5-trait audit note in Post 111 before scheduling)
 - [ ] Friday: Post 112 Tease 8:30 AM
@@ -1107,7 +1112,7 @@ One question that changes the room: "Show me the difference between what you pai
 
 | Asset | Format | Status |
 |-------|--------|--------|
-| Post 109 One Number Carousel | 7 slides (1080x1350) | "5 Self-Funded Decisions That Have to Land Before Year-End" — Q4 renewal-prep decisions anchored by dates and counts, Self-Funded Employer Guidance pillar |
+| Post 109 Renewal Countdown Whiteboard Timeline | Single image (1080x1350) | "5 Self-Funded Decisions That Have to Land Before Year-End" — Q4 renewal countdown as a whiteboard vertical timeline (Aug through circled Jan 1), Self-Funded Employer Guidance pillar |
 | Post 111 Owned-Pharmacy Steering Reveal (Conceptual Infographic: One-Way Turnstile) | 1080x1350 | "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" — owned-pharmacy steering shocking reveal, Clinical Pharmacy Perspectives pillar. One-way turnstile: specialty Rx passes a prior-auth turnstile that only opens to the PBM-owned door (tagged "2x"); independent door chained shut. Mobile legibility: 5 elements max, headline + "2x" tag + door labels readable at thumbnail |
 | In-Article Visual: Site-of-Care Decision Framework (whiteboard) | 7 slides | Template A - embedded in Monday deep dive (PART 1) |
 | Post 110 Video (optional) | Vertical, 45 sec | VIDEO TEST #3 |
@@ -1120,7 +1125,7 @@ One question that changes the room: "Show me the difference between what you pai
 
 | Post | Impressions | Eng Rate | Comments | Saves |
 |------|------------|----------|----------|-------|
-| Post 109 (Tue One Number Carousel) | | | | |
+| Post 109 (Tue whiteboard timeline) | | | | |
 | Post 110 (Wed Text/Video) | | | | |
 | Post 111 (Thu Carousel) | | | | |
 | Post 112 (Fri Tease) | | | | |

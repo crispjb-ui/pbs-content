@@ -19,28 +19,28 @@ _**Rebuild note (Sep 2026, Q3-surge finale):** The **Thursday reach slot (Post 1
 | Mon Sep 14 | 7:00 PM | X | question [A3] | PART 4B · Mon | [ ] |
 | Mon Sep 14 | 8:30 PM | X | aphorism [C10] | PART 4B · Mon | [ ] |
 | Tue Sep 15 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Tue | [ ] |
-| Tue Sep 15 | 10:00 AM | LI Feed | Post 137 — "What 'Industry Standard' Actually Means in PBM Proposals" (Marked-Up Contract Page decoder) | Post 137 | [ ] |
+| Tue Sep 15 | 8:30 AM | LI Feed | Post 137 — "What 'Industry Standard' Actually Means in PBM Proposals" (Marked-Up Contract Page decoder) | Post 137 | [ ] |
 | Tue Sep 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Sep 15 | 1:30 PM | LI Company | Reshare of Post 137 | Post 137 Reshare | [ ] |
 | Tue Sep 15 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Sep 15 | 7:00 PM | X | question [A4] | PART 4B · Tue | [ ] |
 | Tue Sep 15 | 8:30 PM | X | one question [B10] | PART 4B · Tue | [ ] |
 | Wed Sep 16 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Wed | [ ] |
-| Wed Sep 16 | 10:00 AM | LI Feed | Post 138 — Strong POV: "Your PBM already built your renewal model" (text post) | Post 138 | [ ] |
+| Wed Sep 16 | 8:30 AM | LI Feed | Post 138 — Strong POV: "Your PBM already built your renewal model" (text post) | Post 138 | [ ] |
 | Wed Sep 16 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Sep 16 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Sep 16 | 7:00 PM | X | question [A5] | PART 4B · Wed | [ ] |
 | Wed Sep 16 | 8:30 PM | X | aphorism [C1] | PART 4B · Wed | [ ] |
 | Thu Sep 17 | 7:30 AM | Substack | Field Note: "What the PBM Reform Wave Means for Your Renewal, and Why Now" | PART 1B | [ ] |
 | Thu Sep 17 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Thu | [ ] |
-| Thu Sep 17 | 10:00 AM | LI Feed | Post 139 — THURSDAY REVEAL: "Red states and blue states passed the SAME PBM law" (state reform body count + bipartisan map) | Post 139 | [ ] |
+| Thu Sep 17 | 8:30 AM | LI Feed | Post 139 — THURSDAY REVEAL: "Red states and blue states passed the SAME PBM law" (state reform body count + bipartisan map) | Post 139 | [ ] |
 | Thu Sep 17 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Sep 17 | 1:30 PM | LI Company | Reshare of Post 139 | Post 139 Reshare | [ ] |
 | Thu Sep 17 | 5:00 PM | X | reform-wave reveal (amplifies LI Post 139; after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Sep 17 | 7:00 PM | X | question [A6] | PART 4B · Thu | [ ] |
 | Thu Sep 17 | 8:30 PM | X | one question [B1] | PART 4B · Thu | [ ] |
 | Fri Sep 18 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Fri | [ ] |
-| Fri Sep 18 | 10:00 AM | LI Feed | Post 140 — "What Q4 Will Bring" Tease Hook | Post 140 | [ ] |
+| Fri Sep 18 | 8:30 AM | LI Feed | Post 140 — "What Q4 Will Bring" Tease Hook | Post 140 | [ ] |
 | Fri Sep 18 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Sep 18 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Sep 18 | 7:00 PM | X | question [A7] | PART 4B · Fri | [ ] |
@@ -672,7 +672,7 @@ Use the canonical "What We're Seeing" prompt from `newsletters/week_24_h1_h2_rev
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 137 - Tuesday 10:00 AM
+## Post 137 - Tuesday 8:30 AM
 ### "What 'Industry Standard' Actually Means in PBM Proposals" — Marked-Up Contract Page Decoder
 
 **Template:** Marked-Up Contract Page messy infographic (template #16). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px. Visual parity with W20 and W26 Marked-Up Contract Page decoders.
@@ -766,7 +766,7 @@ Ginny Crisp translates the language and shows what to replace it with.
 
 ---
 
-## Post 138 - Wednesday 10:00 AM
+## Post 138 - Wednesday 8:30 AM
 ### Strong POV Text Post — "Your PBM Already Built Your Renewal Model"
 
 > **NOTE (rebuilt for W37, Sep 2026):** This Wednesday POV slot reverted to a **standalone confrontational POV text post** when the state-reform reveal was promoted to the **Thursday** anchor-reveal slot (Post 139) per the reveal-slot cadence (Thursday is the anchor reveal every week). Keeping a reveal here too would duplicate Thursday's mechanism, so Wednesday carries a distinct, non-reveal POV on renewal-model asymmetry. No attached image (the memorable device, the bipartisan map, lives on Thursday); this preserves the Tuesday/Thursday VISUAL slots. Triple-distinct is measured on Mon/Tue/Thu; this Wednesday POV is adjacent-but-distinct from Monday's readiness scorecard (asymmetry of who holds the model vs. the readiness assessment itself).
@@ -806,7 +806,7 @@ This week's Benefit Blind Spots deep dive is the model builder: the 15-factor re
 
 ---
 
-## Post 139 - Thursday 10:00 AM
+## Post 139 - Thursday 8:30 AM
 
 _The "Renewal Readiness Scorecard" One Number carousel was repurposed into Monday's deep dive (the 15-factor scorecard is the article body) and now lives in PART 1 as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
@@ -906,7 +906,7 @@ Ginny Crisp on what the reform wave signals, and why your contract has to catch 
 
 ---
 
-## Post 140 - Friday 10:00 AM
+## Post 140 - Friday 8:30 AM
 ### "What Q4 Will Bring" Tease Hook
 
 #### Post Copy

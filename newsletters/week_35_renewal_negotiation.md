@@ -21,28 +21,28 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Sep 2 | 7:30 AM | Substack | Deep dive: "The Renewal Negotiation Playbook" | PART 1 | [ ] |
 | Tue Sep 2 | 7:45 AM | LI Newsletter | Renewal Negotiation Briefing (Issue #30) | PART 2 | [ ] |
 | Tue Sep 2 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Tue | [ ] |
-| Tue Sep 2 | 10:00 AM | LI Feed | Post 129 — "$1,200 Cream. $47 Alternative. Same Active Ingredient." (dollar-comparison messy infographic, Cost Containment) | Post 129 | [ ] |
+| Tue Sep 2 | 8:30 AM | LI Feed | Post 129 — "$1,200 Cream. $47 Alternative. Same Active Ingredient." (dollar-comparison messy infographic, Cost Containment) | Post 129 | [ ] |
 | Tue Sep 2 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Sep 2 | 1:30 PM | LI Company | Reshare of Post 129 | Post 129 Reshare | [ ] |
 | Tue Sep 2 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Sep 2 | 7:00 PM | X | question [A6] | PART 4B · Tue | [ ] |
 | Tue Sep 2 | 8:30 PM | X | one question [B4] | PART 4B · Tue | [ ] |
 | Wed Sep 3 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Wed | [ ] |
-| Wed Sep 3 | 10:00 AM | LI Feed | Post 130 — Strong POV text (renewal asymmetry + auto-renewal trap) | Post 130 | [ ] |
+| Wed Sep 3 | 8:30 AM | LI Feed | Post 130 — Strong POV text (renewal asymmetry + auto-renewal trap) | Post 130 | [ ] |
 | Wed Sep 3 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Sep 3 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Sep 3 | 7:00 PM | X | question [A7] | PART 4B · Wed | [ ] |
 | Wed Sep 3 | 8:30 PM | X | aphorism [C5] | PART 4B · Wed | [ ] |
 | Thu Sep 4 | 7:30 AM | Substack | Field Note: "What Is NADAC, and Why Won't Your PBM Show It Next to Your Generic Price?" | PART 1B | [ ] |
 | Thu Sep 4 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Thu | [ ] |
-| Thu Sep 4 | 10:00 AM | LI Feed | Post 131 — "There Is a Public Price for What a Generic Costs a Pharmacy. You've Never Been Shown It Next to Your Bill." (NADAC reveal, peel-back price-tag conceptual infographic, Slot A) | Post 131 | [ ] |
+| Thu Sep 4 | 8:30 AM | LI Feed | Post 131 — "There Is a Public Price for What a Generic Costs a Pharmacy. You've Never Been Shown It Next to Your Bill." (NADAC reveal, peel-back price-tag conceptual infographic, Slot A) | Post 131 | [ ] |
 | Thu Sep 4 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Sep 4 | 1:30 PM | LI Company | Reshare of Post 131 | Post 131 Reshare | [ ] |
 | Thu Sep 4 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Sep 4 | 7:00 PM | X | question [A8] | PART 4B · Thu | [ ] |
 | Thu Sep 4 | 8:30 PM | X | one question [B5] | PART 4B · Thu | [ ] |
 | Fri Sep 5 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Fri | [ ] |
-| Fri Sep 5 | 10:00 AM | LI Feed | Post 132 — Tease Hook (teases Week 36) | Post 132 | [ ] |
+| Fri Sep 5 | 8:30 AM | LI Feed | Post 132 — Tease Hook (teases Week 36) | Post 132 | [ ] |
 | Fri Sep 5 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Sep 5 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Sep 5 | 7:00 PM | X | question [A9] | PART 4B · Fri | [ ] |
@@ -459,12 +459,12 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 129 - Tuesday 10:00 AM
+## Post 129 - Tuesday 8:30 AM
 ### "$1,200 Cream. $47 Alternative. Same Active Ingredient." — Dollar-Comparison Messy Infographic
 
 **Format:** Messy infographic, dollar-comparison card (single image, 1080 x 1350 px). Replaces the paused Whiteboard draft (parked in `evergreen_visual_backlog.md` #39).
 **Pillar:** Cost Containment Strategies.
-**Triple-distinct check:** Mon/Tue 7:30 deep dive (Labor Day shift) = Renewal Negotiation · Tue 10:00 feed = high-cost-formulation waste (dollar comparison) · Thu = Termination Clause decoder. Three different subjects. ✓
+**Triple-distinct check:** Mon/Tue 7:30 deep dive (Labor Day shift) = Renewal Negotiation · Tue 8:30 feed = high-cost-formulation waste (dollar comparison) · Thu = Termination Clause decoder. Three different subjects. ✓
 **Why this combination:** A concrete, scroll-stopping dollar comparison that doubles as renewal leverage (the waste you find is what you take to the table), so the first comment bridges to the deep dive without repeating it. Named-actor, save-driven, hits the Tuesday Excellence bar.
 
 #### Post Copy
@@ -507,7 +507,7 @@ Ginny Crisp shows how to pull the claims that become your renewal leverage.
 
 ---
 
-## Post 130 - Wednesday 10:00 AM
+## Post 130 - Wednesday 8:30 AM
 
 #### Post Copy (~230 words)
 
@@ -535,7 +535,7 @@ This week's Benefit Blind Spots deep dive on renewal negotiation is the operatio
 
 ---
 
-## Post 131 - Thursday 10:00 AM
+## Post 131 - Thursday 8:30 AM
 
 _The "Negotiation Leverage Points" balance-scale messy infographic was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is the NADAC reveal below._
 
@@ -644,7 +644,7 @@ Ginny Crisp shows how to put both numbers on one claim at renewal.
 
 ---
 
-## Post 132 - Friday 10:00 AM
+## Post 132 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 36
 
 #### Post Copy
@@ -848,7 +848,7 @@ An audit clause we flagged recently: the plan may audit "upon reasonable notice,
 ```
 Roughly 80% of US prescription claims flow through three PBMs. At renewal you are not negotiating with a vendor. You are negotiating with a market. Contract terms, not brand choice, are your leverage.
 ```
-- **5:00 PM · punchy (NADAC amplifier — schedule AFTER the 10:00 AM LinkedIn NADAC post per LinkedIn-first):**
+- **5:00 PM · punchy (NADAC amplifier — schedule AFTER the 8:30 AM LinkedIn NADAC post per LinkedIn-first):**
 ```
 There is a public price for what a generic costs a pharmacy. It's called NADAC. The amount your PBM bills above it, through a pharmacy it owns, grew 42% a year. You've just never been shown both numbers on one claim.
 ```

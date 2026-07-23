@@ -21,16 +21,16 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Aug 18 | 7:30 AM | Substack | "What I'd Ask" #9: Rolling Out a Formulary Change | PART 2B | [ ] |
 | Tue Aug 18 | 7:30 AM | Substack | Contract Library push — Library 06 provisions | PART 2B (Library 06 Update) | [ ] |
 | Tue Aug 18 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Tue | [ ] |
-| Tue Aug 18 | 10:00 AM | LI Feed | Post 121 — "Five Clauses That Anchor Q4 Broker Conversations" (Library 06 · Contract Comparison) | Post 121 | [ ] |
-| Tue Aug 18 | 10:05 AM | LI Feed | Post 121 first comment | Post 121 | [ ] |
+| Tue Aug 18 | 8:30 AM | LI Feed | Post 121 — "Five Clauses That Anchor Q4 Broker Conversations" (Library 06 · Contract Comparison) | Post 121 | [ ] |
+| Tue Aug 18 | 8:35 AM | LI Feed | Post 121 first comment | Post 121 | [ ] |
 | Tue Aug 18 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 1:30 PM | LI Company | Reshare of Post 121 | Post 121 Reshare | [ ] |
 | Tue Aug 18 | 5:00 PM | X | Library 06 driver (Q4 broker clauses; after 10 AM carousel) | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 7:00 PM | X | question [A8] | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 8:30 PM | X | one question [B8] | PART 4B · Tue | [ ] |
 | Wed Aug 19 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Wed | [ ] |
-| Wed Aug 19 | 10:00 AM | LI Feed | Post 122 — Strong POV text (biosimilar communication; carries the week's shocking fact) | Post 122 | [ ] |
-| Wed Aug 19 | 10:05 AM | LI Feed | Post 122 first comment | Post 122 | [ ] |
+| Wed Aug 19 | 8:30 AM | LI Feed | Post 122 — Strong POV text (biosimilar communication; carries the week's shocking fact) | Post 122 | [ ] |
+| Wed Aug 19 | 8:35 AM | LI Feed | Post 122 first comment | Post 122 | [ ] |
 | Wed Aug 19 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Aug 19 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 19 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
@@ -38,8 +38,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Aug 19 | 8:30 PM | X | aphorism [C9] | PART 4B · Wed | [ ] |
 | Thu Aug 20 | 7:30 AM | Substack | Field Note: "Why Is the Cash Price Lower Than My Copay? (The Clawback, Explained)" | PART 1B | [ ] |
 | Thu Aug 20 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 20 | 10:00 AM | LI Feed | Post 123 — "Cash Beats Your Copay: The Clawback at the Counter" (checkout-fork conceptual infographic · clawback reveal) | Post 123 | [ ] |
-| Thu Aug 20 | 10:05 AM | LI Feed | Post 123 first comment | Post 123 | [ ] |
+| Thu Aug 20 | 8:30 AM | LI Feed | Post 123 — "Cash Beats Your Copay: The Clawback at the Counter" (checkout-fork conceptual infographic · clawback reveal) | Post 123 | [ ] |
+| Thu Aug 20 | 8:35 AM | LI Feed | Post 123 first comment | Post 123 | [ ] |
 | Thu Aug 20 | 12:00 PM | X | Thu-visual amplifier [VISUAL: cash-beats-copay checkout-fork scene] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 20 | 1:30 PM | LI Company | Reshare of Post 123 | Post 123 Reshare | [ ] |
 | Thu Aug 20 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
@@ -47,7 +47,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Aug 20 | 7:00 PM | X | question [A10] | PART 4B · Thu | [ ] |
 | Thu Aug 20 | 8:30 PM | X | one question [B9] | PART 4B · Thu | [ ] |
 | Fri Aug 21 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Fri | [ ] |
-| Fri Aug 21 | 10:00 AM | LI Feed | Post 124 — Tease Hook (teases W34) | Post 124 | [ ] |
+| Fri Aug 21 | 8:30 AM | LI Feed | Post 124 — Tease Hook (teases W34) | Post 124 | [ ] |
 | Fri Aug 21 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 21 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 21 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
@@ -497,7 +497,7 @@ After publishing, tell Claude the push is done so the Update Log in `substack_co
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 121 - Tuesday 10:00 AM
+## Post 121 - Tuesday 8:30 AM
 ### "Five Clauses That Anchor Q4 Broker Conversations" — Library 06 Contract Comparison Carousel
 
 **Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-05.
@@ -581,7 +581,7 @@ Ginny Crisp walks through the five clauses and the redline brokers should bring 
 
 ---
 
-## Post 122 - Wednesday 10:00 AM
+## Post 122 - Wednesday 8:30 AM
 ### Strong POV Text (~230 words)
 
 #### Post Copy
@@ -610,7 +610,7 @@ This week's Benefit Blind Spots deep dive on communicating pharmacy changes is t
 
 ---
 
-## Post 123 - Thursday 10:00 AM
+## Post 123 - Thursday 8:30 AM
 
 _The "Member Communication Checklist" Whiteboard Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
@@ -709,7 +709,7 @@ Ginny Crisp explains the mechanism and the one audit pass that finds it on your 
 
 ---
 
-## Post 124 - Friday 10:00 AM
+## Post 124 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 34
 
 #### Post Copy
