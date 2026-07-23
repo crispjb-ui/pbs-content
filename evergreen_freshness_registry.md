@@ -19,6 +19,7 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 | PBM Contract Audit Guide (`rxbs.org/guide-pbm-contract-audit`) | Wix + Article/BreadcrumbList/FAQPage/HowTo JSON-LD | 2026-07-23 (launched) | First of the 4 pillar guides (answer-page wave #1). Refresh = new FAQ Q&As from `/question-harvest` (page text + FAQPage schema together), sibling-guide link-ins as each publishes (build pack §7), stat/example sharpening; `dateModified` bumps only with real changes |
 | Spread Pricing Guide (`rxbs.org/guide-what-is-spread-pricing`) | Wix + Article/BreadcrumbList/FAQPage/HowTo JSON-LD | 2026-07-23 (launched) | Pillar guide #2. Refresh = new FAQ Q&As (page + schema together), sibling links as guides publish, glossary-twin consistency with the spread-pricing term |
 | What We're Seeing (`rxbs.org/what-we-are-seeing`) | Wix + Article/BreadcrumbList JSON-LD | 2026-07-23 (launched, 2025 data) | ANNUAL cadence: re-publishes each January with the prior year's numbers (full stat re-verify against the metrics of record; never partial-year extrapolation). Interim touches only for a genuinely new market pattern. Proof surface of record until /results exists — September ad/briefing copy cites this URL |
+| Choosing a PBM Auditor Guide (`rxbs.org/guide-how-to-choose-a-pbm-auditor`) | Wix + Article/BreadcrumbList/FAQPage/HowTo JSON-LD | 2026-07-23 (launched) | Pillar guide #3, bottom-of-funnel buyer's guide. Standards tie-in is the differentiator ("answer the same five"). Refresh = new FAQ Q&As (page + schema together), comparison-page link-in when it publishes, proof-line update with 2026 metrics |
 | The Standards (`rxbs.org/standards`) | Wix + Article/BreadcrumbList/DefinedTermSet JSON-LD | 2026-07-22 (launched, v1.0) | ATTESTED LANGUAGE: Part 1 + the closing paragraph never change outside the annual January revision (re-attestation required). Refresh = the January v-bump with the Index; dateModified in the Article markup moves with it |
 | Homepage | Wix | 2026-07-08 (schema) | Hero CTA + "Mysite" title defects still queued (gameplan P1 #12) |
 | About (`rxbs.org/about`) | Wix + Organization/Person JSON-LD | 2026-07-15 (rebuilt + launched) | Person schema carries `alumniOf` + credential (the entity fix). Refresh = proof-band anchors when 2026 metrics land, media chips as appearances air (Derms on Drugs pending), named team cards if Ginny supplies bios, testimonials block when collected |
@@ -27,7 +28,7 @@ _Created Jul 10, 2026 (approved by Brett same day, one of the 7 self-improvement
 
 ## Not live yet (enter the pool at launch — add a row with launch date)
 
-the 2 remaining guides (choose-an-auditor, audit-vs-broker-review) · `/how-we-charge` · `/results`
+`/compare-pbm-audit-vs-broker-review` (last answer page) · `/how-we-charge` · `/results`
 
 ## Refresh log
 
