@@ -28,4 +28,4 @@ From `guide_choose_auditor_jsonld_paste.md`. Raw JSON, separate SEO-panel entrie
 - [x] ✅ DONE Jul 23 — cross-links in: FAQ, glossary, both guides + What We're Seeing Keep-reading rows. (Standards-page pointer intentionally skipped: closing language is attested.)
 - [x] ✅ DONE Jul 23 — audit guide's final Keep-reading row added; that pack is now fully closed.
 - [x] ✅ DONE Jul 23 — registry row; site map / URL map / gameplan → 7 of 8.
-- [ ] **When the comparison page publishes:** restore the body sentence + Keep-reading row (§4.3).
+- [x] ✅ DONE Jul 23 — comparison-page re-adds live (body sentence + Keep-reading row). §5 FULLY CLOSED.

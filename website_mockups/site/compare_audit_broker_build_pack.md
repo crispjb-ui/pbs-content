@@ -25,9 +25,9 @@ From `compare_audit_broker_jsonld_paste.md`. Raw JSON, separate entries, delete 
 4. Lead CTA → `rxbs.org/toolkit/contract-review-readiness`; dark closing card → `rxbs.org/request-a-call?topic=contract-review`; glossary/CLL/guide links → live URLs.
 
 ## 5. Post-live chain (completes the answer-page wave)
-- [ ] Indexing + validator clean (Article + Breadcrumbs + FAQPage).
-- [ ] **Buyer's guide re-adds (held out at its build):** (a) above its FAQ section, restore: *"If you are weighing an independent audit against a broker-led pharmacy review, they are not the same thing and they are not in competition. See PBM audit vs. broker review for how the two fit together."* (link the phrase); (b) its Keep-reading row `PBM audit vs. broker review: the difference`.
-- [ ] **For-brokers "Useful with clients" block** gains this page (brokers send it to clients to frame the collaboration).
-- [ ] **FAQ:** the does-an-auditor-replace-my-broker answer links this page.
-- [ ] Registry row; site map / URL map / gameplan → **8 of 8 — WAVE COMPLETE**.
+- [x] ✅ DONE Jul 23 — live, indexed, validator clean. Live-build review caught donor FAQ leftovers (5 Q&As with shifted answers → corrected to the 4 schema-matched Q&As) + checklist-card title/period. Brett ALSO added the we-present-our-own-findings sentence (now in the blueprint + locked in the verbatim-framing list above).
+- [x] ✅ DONE Jul 23 — buyer's-guide re-adds live (body sentence + Keep-reading row); that pack is now fully closed.
+- [x] ✅ DONE Jul 23 — for-brokers Useful-with-clients row added.
+- [x] ✅ DONE Jul 23 — FAQ link added.
+- [x] ✅ DONE Jul 23 — registry row; site map / URL map / gameplan → **8 of 8 — WAVE COMPLETE**.
 - [ ] Wave-complete follow-ons: llms.txt answer-page map refresh (blueprint exists in `website_mockups/site/llms.txt`) queued for the next AEO touch; August AI-visibility check is the first citation read on the completed cluster.
