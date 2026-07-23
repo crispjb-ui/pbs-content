@@ -1,0 +1,27 @@
+# /guide-how-to-choose-a-pbm-auditor — JSON-LD paste blocks
+
+_Four blocks, each its own entry in Wix SEO panel → Advanced → Structured data markup. Raw JSON, no `<script>` wrapper. Validator.schema.org after publish._
+
+## Block 1 — Article
+
+```
+{"@context":"https://schema.org","@type":"Article","headline":"How Do You Choose an Independent PBM Auditor? A Buyer's Guide","description":"The criteria a self-funded employer should use to choose an independent PBM auditor: no PBM money, contract-reading depth, pharmacist-led review, audit rights, and a dollar figure.","url":"https://www.rxbs.org/guide-how-to-choose-a-pbm-auditor","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.rxbs.org/guide-how-to-choose-a-pbm-auditor"},"datePublished":"2026-07-23","dateModified":"2026-07-23","inLanguage":"en","author":{"@type":"Person","@id":"https://www.rxbs.org/#ginny-crisp","name":"Ginny Crisp","honorificSuffix":"PharmD","url":"https://www.rxbs.org/about"},"publisher":{"@type":"Organization","@id":"https://www.rxbs.org/#organization","name":"Prescription Benefit Solutions","url":"https://www.rxbs.org"},"about":[{"@type":"Thing","name":"PBM audit"},{"@type":"Thing","name":"Pharmacy benefit consulting"},{"@type":"Thing","name":"Self-funded health plans"}]}
+```
+
+## Block 2 — BreadcrumbList
+
+```
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.rxbs.org/"},{"@type":"ListItem","position":2,"name":"How to Choose a PBM Auditor","item":"https://www.rxbs.org/guide-how-to-choose-a-pbm-auditor"}]}
+```
+
+## Block 3 — FAQPage
+
+```
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"How do you choose an independent PBM auditor?","acceptedAnswer":{"@type":"Answer","text":"Choose a PBM auditor that takes no money from PBMs, rebates, or spread, reads the contract language and not just the claims feed, brings pharmacist and clinical depth, knows audit-rights and termination language, works alongside your broker, and ends with redlines and a dollar figure you can take to renewal."}},{"@type":"Question","name":"Why does it matter whether a PBM auditor is independent?","acceptedAnswer":{"@type":"Answer","text":"An auditor paid by PBMs, rebate aggregators, or spread has a financial reason to find less. True independence means the auditor's only revenue comes from the plan sponsor, so the findings are not softened by a relationship with the entity being audited."}},{"@type":"Question","name":"Should a PBM auditor read claims or contract language?","acceptedAnswer":{"@type":"Answer","text":"Both, but the contract is where the money is decided. Claims show what happened; the pricing-methodology, rebate, and definitions sections decide what is allowed to happen. An auditor who reads only claims can miss spread, narrow rebate definitions, and weak audit rights written into the agreement."}},{"@type":"Question","name":"Does a PBM auditor replace my benefits broker?","acceptedAnswer":{"@type":"Answer","text":"No. A specialist PBM auditor works behind the broker, not around the broker. Brokers and consultants own the relationship and frequently flag the pharmacy line as worth a closer look; the independent auditor is the specialist bench they bring in for the deep contract and claims read."}},{"@type":"Question","name":"What should a PBM audit deliver?","acceptedAnswer":{"@type":"Answer","text":"A useful PBM audit ends with specific contract redlines, a clear read on pricing and rebate exposure, and a defensible dollar figure the plan sponsor can take into renewal or an RFP. A narrative summary with no numbers and no language to fix is not an audit."}}]}
+```
+
+## Block 4 — HowTo
+
+```
+{"@context":"https://schema.org","@type":"HowTo","name":"How to choose an independent PBM auditor","step":[{"@type":"HowToStep","name":"Confirm the auditor is truly independent","text":"Verify in writing that the auditor's only revenue comes from the plan sponsor, with no PBM money, rebate overrides, spread, or placement fees that give it a reason to find less."},{"@type":"HowToStep","name":"Check that they read the contract, not only the claims","text":"Confirm the firm reads the contract language where the money is decided, not just the claims feed, since structural problems like permitted spread and narrow rebate definitions are written into the agreement itself."},{"@type":"HowToStep","name":"Require a pharmacist-led review","text":"Ask who personally reads the contract and what their clinical background is, because the drivers of drug spend are clinical and need someone who understands the therapy, not only the spreadsheet."},{"@type":"HowToStep","name":"Test their command of audit rights and termination language","text":"Make sure they know the audit-rights and termination provisions cold, since those clauses decide whether an audit is possible and whether you have leverage to act on what it finds."},{"@type":"HowToStep","name":"Make sure they work with your broker, not around them","text":"Choose a firm that runs behind the broker as a specialist bench and never positions itself by implying the advisor missed something."},{"@type":"HowToStep","name":"Demand redlines and a defensible dollar figure","text":"Require the audit to end with specific contract language to change and a number the plan sponsor can take into renewal or an RFP, plus references from plan sponsors it has worked behind."}]}
+```
