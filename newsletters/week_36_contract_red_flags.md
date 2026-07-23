@@ -17,7 +17,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Sep 7 | 7:00 PM | X | question [A12] | PART 4B · Mon | [ ] |
 | Mon Sep 7 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
 | Tue Sep 8 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Tue | [ ] |
-| Tue Sep 8 | 10:00 AM | LI Feed | Post 133 — "Three Clauses Behind Every Q4 Cost Pattern" (Library 06 Contract Comparison) | Post 133 | [ ] |
+| Tue Sep 8 | 8:30 AM | LI Feed | Post 133 — "Three Clauses Behind Every Q4 Cost Pattern" (Library 06 Contract Comparison) | Post 133 | [ ] |
 | Tue Sep 8 | 8:35 AM | LI Feed | Post 133 first comment (Contract Language Library) | Post 133 | [ ] |
 | Tue Sep 8 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Sep 8 | 1:30 PM | LI Company | Reshare of Post 133 | Post 133 Reshare | [ ] |
@@ -32,14 +32,14 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Sep 9 | 8:30 PM | X | aphorism [C8] | PART 4B · Wed | [ ] |
 | Thu Sep 10 | 7:30 AM | Substack | Field Note: "How to Audit Your Formulary for the PBM's Private-Label Swap" | PART 1B | [ ] |
 | Thu Sep 10 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Thu | [ ] |
-| Thu Sep 10 | 10:00 AM | LI Feed | Post 135 — REVEAL: "The 'preferred' formulary is a storefront the PBM rents to itself" — rented-storefront shelf (EXCLUDED rack swept bare / PREFERRED rack restocked with one repeated house-brand bottle), 600+ exclusions / private-label swap, single image, Slot A | Post 135 | [ ] |
+| Thu Sep 10 | 8:30 AM | LI Feed | Post 135 — REVEAL: "The 'preferred' formulary is a storefront the PBM rents to itself" — rented-storefront shelf (EXCLUDED rack swept bare / PREFERRED rack restocked with one repeated house-brand bottle), 600+ exclusions / private-label swap, single image, Slot A | Post 135 | [ ] |
 | Thu Sep 10 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Sep 10 | 1:30 PM | LI Company | Reshare of Post 135 | Post 135 Reshare | [ ] |
 | Thu Sep 10 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Sep 10 | 7:00 PM | X | question [A15] | PART 4B · Thu | [ ] |
 | Thu Sep 10 | 8:30 PM | X | one question [B8] | PART 4B · Thu | [ ] |
 | Fri Sep 11 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Fri | [ ] |
-| Fri Sep 11 | 10:00 AM | LI Feed | Post 136 — Tease Hook (teases Week 37) | Post 136 | [ ] |
+| Fri Sep 11 | 8:30 AM | LI Feed | Post 136 — Tease Hook (teases Week 37) | Post 136 | [ ] |
 | Fri Sep 11 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Sep 11 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Sep 11 | 7:00 PM | X | question [A16] | PART 4B · Fri | [ ] |
@@ -389,7 +389,7 @@ _No new toolkit ships this week (refer-back-first). The third line routes to the
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 133 - Tuesday 10:00 AM
+## Post 133 - Tuesday 8:30 AM
 ### "Three Clauses Behind Every Q4 Cost Pattern" — Library 06 Contract Comparison Carousel
 
 **Template:** Contract Comparison carousel (template #4). Claude Design project type: **Slide deck from template**. 7 slides, 1080 x 1350 px each. Visual parity with Library 01-06.
@@ -524,7 +524,7 @@ This week's Benefit Blind Spots deep dive on contract red flags is the operation
 
 ---
 
-## Post 135 - Thursday 10:00 AM
+## Post 135 - Thursday 8:30 AM
 
 ### Thursday Excellence Slot (Slot A · messy infographic) - The "preferred" formulary is a storefront the PBM rents to itself
 
@@ -631,7 +631,7 @@ Ginny Crisp on the contract clause that decides whether the PBM can do this to y
 
 ---
 
-## Post 136 - Friday 10:00 AM
+## Post 136 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 37
 
 #### Post Copy

@@ -22,16 +22,16 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Aug 3 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
 | Tue Aug 4 | 7:30 AM | Substack | "What I'd Ask" #8: Evaluating PBM RFP Responses | PART 2B | [ ] |
 | Tue Aug 4 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Tue | [ ] |
-| Tue Aug 4 | 10:00 AM | LI Feed | Post 113 — "Three Cost Containment Levers. Three Different Clocks." (Mountain Clean Infographic) | Post 113 | [ ] |
-| Tue Aug 4 | 10:05 AM | LI Feed | Post 113 first comment | Post 113 | [ ] |
+| Tue Aug 4 | 8:30 AM | LI Feed | Post 113 — "Three Cost Containment Levers. Three Different Clocks." (Mountain Clean Infographic) | Post 113 | [ ] |
+| Tue Aug 4 | 8:35 AM | LI Feed | Post 113 first comment | Post 113 | [ ] |
 | Tue Aug 4 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Aug 4 | 1:30 PM | LI Company | Reshare of Post 113 | Post 113 Reshare | [ ] |
 | Tue Aug 4 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Aug 4 | 7:00 PM | X | question [A10] | PART 4B · Tue | [ ] |
 | Tue Aug 4 | 8:30 PM | X | one question [B2] | PART 4B · Tue | [ ] |
 | Wed Aug 5 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Wed | [ ] |
-| Wed Aug 5 | 10:00 AM | LI Feed | Post 114 — PBM RFP POV (Strong POV text, shocking-fact weave) | Post 114 | [ ] |
-| Wed Aug 5 | 10:05 AM | LI Feed | Post 114 first comment | Post 114 | [ ] |
+| Wed Aug 5 | 8:30 AM | LI Feed | Post 114 — PBM RFP POV (Strong POV text, shocking-fact weave) | Post 114 | [ ] |
+| Wed Aug 5 | 8:35 AM | LI Feed | Post 114 first comment | Post 114 | [ ] |
 | Wed Aug 5 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
 | Wed Aug 5 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 5 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
@@ -39,8 +39,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Wed Aug 5 | 8:30 PM | X | aphorism [C3] | PART 4B · Wed | [ ] |
 | Thu Aug 6 | 7:30 AM | Substack | Field Note: "Why Do Three PBMs Control 80% of Prescriptions, and What Can a Plan Sponsor Do About It?" | PART 1B | [ ] |
 | Thu Aug 6 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 6 | 10:00 AM | LI Feed | Post 115 — "Three Companies. Both Sides of the Counter." (Market Concentration reveal, both-sides-of-the-counter tableau) | Post 115 | [ ] |
-| Thu Aug 6 | 10:05 AM | LI Feed | Post 115 first comment | Post 115 | [ ] |
+| Thu Aug 6 | 8:30 AM | LI Feed | Post 115 — "Three Companies. Both Sides of the Counter." (Market Concentration reveal, both-sides-of-the-counter tableau) | Post 115 | [ ] |
+| Thu Aug 6 | 8:35 AM | LI Feed | Post 115 first comment | Post 115 | [ ] |
 | Thu Aug 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 1:30 PM | LI Company | Reshare of Post 115 | Post 115 Reshare | [ ] |
 | Thu Aug 6 | 5:00 PM | X | concentration reveal (amplifies Post 115, LinkedIn-first → after 10 AM) | PART 4B · Thu | [ ] |
@@ -48,7 +48,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Aug 6 | 7:00 PM | X | question [A12] | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 8:30 PM | X | one question [B3] | PART 4B · Thu | [ ] |
 | Fri Aug 7 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Fri | [ ] |
-| Fri Aug 7 | 10:00 AM | LI Feed | Post 116 — Clinical Program ROI tease (teases W32) | Post 116 | [ ] |
+| Fri Aug 7 | 8:30 AM | LI Feed | Post 116 — Clinical Program ROI tease (teases W32) | Post 116 | [ ] |
 | Fri Aug 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 7 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 7 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
@@ -509,7 +509,7 @@ Use the canonical "What I'd Ask" prompt from `newsletters/week_17_carve_out_deci
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 113 - Tuesday 10:00 AM
+## Post 113 - Tuesday 8:30 AM
 ### "Three Cost Containment Levers. Three Different Clocks." — Mountain Clean Infographic
 
 **Template:** Mountain clean infographic from `claude_design_prompts.md` (template #10 — "The 90-Day Renewal Climb"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
@@ -591,7 +591,7 @@ Ginny Crisp walks through what the windows look like and how to catch them.
 
 ---
 
-## Post 114 - Wednesday 10:00 AM
+## Post 114 - Wednesday 8:30 AM
 ### Strong POV Text (~230 words)
 
 #### Post Copy
@@ -622,7 +622,7 @@ This week's Benefit Blind Spots deep dive on the PBM RFP process is the operatio
 
 ---
 
-## Post 115 - Thursday 10:00 AM
+## Post 115 - Thursday 8:30 AM
 
 _The RFP Process Timeline whiteboard carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual: RFP Process Timeline). The live Thursday post is below._
 
@@ -723,7 +723,7 @@ Ginny Crisp on the one piece of leverage left: a real RFP.
 
 ---
 
-## Post 116 - Friday 10:00 AM
+## Post 116 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 32
 
 #### Post Copy
@@ -1045,7 +1045,7 @@ Ask your incumbent PBM one question this quarter: "If we ran a market check toda
 - [ ] Pre-posting engagement: 5-10 comments daily
 - [ ] Post-publish: 30-min reply window
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
-- [ ] Tue-Fri: Posts at 10:00 AM per schedule
+- [ ] Tue-Fri: Posts at 8:30 AM per schedule
 - [ ] Daily Substack Notes
 
 # PART 6: ASSETS NEEDED

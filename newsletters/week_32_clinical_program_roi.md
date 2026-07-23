@@ -21,8 +21,8 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Mon Aug 10 | 7:00 PM | X | question [A16] | PART 4B · Mon | [ ] |
 | Mon Aug 10 | 8:30 PM | X | aphorism [C5] | PART 4B · Mon | [ ] |
 | Tue Aug 11 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Tue | [ ] |
-| Tue Aug 11 | 10:00 AM | LI Feed | Post 117 — "4 Things Your PBM's Quarterly Report Does Not Show" (Ledger Annotated messy infographic) | Post 117 | [ ] |
-| Tue Aug 11 | 10:05 AM | LI Feed | Post 117 first comment | Post 117 | [ ] |
+| Tue Aug 11 | 8:30 AM | LI Feed | Post 117 — "4 Things Your PBM's Quarterly Report Does Not Show" (Ledger Annotated messy infographic) | Post 117 | [ ] |
+| Tue Aug 11 | 8:35 AM | LI Feed | Post 117 first comment | Post 117 | [ ] |
 | Tue Aug 11 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Aug 11 | 1:30 PM | LI Company | Reshare of Post 117 | Post 117 Reshare | [ ] |
 | Tue Aug 11 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
@@ -37,8 +37,8 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Wed Aug 12 | 8:30 PM | X | aphorism [C6] | PART 4B · Wed | [ ] |
 | Thu Aug 13 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up the Sickest Member's Generic the Most?" | PART 1B | [ ] |
 | Thu Aug 13 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 13 | 10:00 AM | LI Feed | Post 119 — "Your PBM Marks Up the Sickest Member's Drugs the Most" (Severity Ladder conceptual infographic, Slot A) | Post 119 | [ ] |
-| Thu Aug 13 | 10:05 AM | LI Feed | Post 119 first comment | Post 119 | [ ] |
+| Thu Aug 13 | 8:30 AM | LI Feed | Post 119 — "Your PBM Marks Up the Sickest Member's Drugs the Most" (Severity Ladder conceptual infographic, Slot A) | Post 119 | [ ] |
+| Thu Aug 13 | 8:35 AM | LI Feed | Post 119 first comment | Post 119 | [ ] |
 | Thu Aug 13 | 12:00 PM | X | Thu-visual amplifier [VISUAL: sickest-member markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 1:30 PM | LI Company | Reshare of Post 119 | Post 119 Reshare | [ ] |
 | Thu Aug 13 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
@@ -46,7 +46,7 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Thu Aug 13 | 7:00 PM | X | question [A3] | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 8:30 PM | X | one question [B6] | PART 4B · Thu | [ ] |
 | Fri Aug 14 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Fri | [ ] |
-| Fri Aug 14 | 10:00 AM | LI Feed | Post 120 — Tease Hook (teases W33) | Post 120 | [ ] |
+| Fri Aug 14 | 8:30 AM | LI Feed | Post 120 — Tease Hook (teases W33) | Post 120 | [ ] |
 | Fri Aug 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 14 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 14 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
@@ -420,7 +420,7 @@ _Toolkit link is an existing live page (`rxbs.org/toolkit/specialty-routing`); c
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 117 - Tuesday 10:00 AM
+## Post 117 - Tuesday 8:30 AM
 ### "4 Things Your PBM's Quarterly Report Does Not Show" — Ledger Annotated Messy Infographic
 
 **Template:** Ledger with Handwritten Annotations messy infographic from `claude_design_prompts.md` (template #19). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
@@ -572,7 +572,7 @@ This week's Benefit Blind Spots deep dive on clinical program ROI is the operati
 
 ---
 
-## Post 119 - Thursday 10:00 AM
+## Post 119 - Thursday 8:30 AM
 
 _The "Clinical Program Evaluation" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday reach post is below: a genuinely-unknown structural-fact reveal replacing the former "5 Fiduciary Terms Decoded" vocabulary decoder (displaced card set flagged for `evergreen_visual_backlog.md`, not edited here)._
 
@@ -672,7 +672,7 @@ Ginny Crisp shows plan sponsors how to audit where it lands.
 
 ---
 
-## Post 120 - Friday 10:00 AM
+## Post 120 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 33
 
 > **NOTE (revised Apr 24):** Dropped the "Same change. Different communication. Different outcome." rule-of-three stacked on top of the Formula-4 "not the clinical decision. It is the messaging." close, per Humanize Check rule (b). Kept the stronger Formula-4 beat.
@@ -998,7 +998,7 @@ Ask your PBM one renewal question early: "Restate our per-member fees against ac
 - [ ] **HUMANIZE REVIEW:** Run `/humanize` on Monday article, Thursday field note before publishing
 - [ ] Pre-posting engagement daily, 30-min reply window
 - [ ] Monday: Substack 7:30 AM, Newsletter 7:45 AM
-- [ ] Tue-Fri: Posts at 10:00 AM per schedule
+- [ ] Tue-Fri: Posts at 8:30 AM per schedule
 - [ ] Daily Substack Notes
 
 ## Assets Needed

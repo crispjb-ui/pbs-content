@@ -19,8 +19,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Aug 24 | 7:00 PM | X | question [A14] | PART 4B · Mon | [ ] |
 | Mon Aug 24 | 8:30 PM | X | aphorism [C1] | PART 4B · Mon | [ ] |
 | Tue Aug 25 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Tue | [ ] |
-| Tue Aug 25 | 10:00 AM | LI Feed | Post 125 — "From Programs That Cost Money to Programs That Earn Their Keep" (Bridge clean infographic) | Post 125 | [ ] |
-| Tue Aug 25 | 10:05 AM | LI Feed | Post 125 first comment | Post 125 | [ ] |
+| Tue Aug 25 | 8:30 AM | LI Feed | Post 125 — "From Programs That Cost Money to Programs That Earn Their Keep" (Bridge clean infographic) | Post 125 | [ ] |
+| Tue Aug 25 | 8:35 AM | LI Feed | Post 125 first comment | Post 125 | [ ] |
 | Tue Aug 25 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
 | Tue Aug 25 | 1:30 PM | LI Company | Reshare of Post 125 | Post 125 Reshare | [ ] |
 | Tue Aug 25 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
@@ -36,8 +36,8 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Aug 27 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?" | PART 1B | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Monthly Q&A Thread #5: Pre-Renewal Strategy (last-Thursday thread) | PART 2B | [ ] |
 | Thu Aug 27 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Thu | [ ] |
-| Thu Aug 27 | 10:00 AM | LI Feed | Post 127 — "1 in 5 Specialty Generics, Marked Up Over 1,000%" (The 1-in-5 Rocket single-image reveal — shocking hidden-structure reveal) | Post 127 | [ ] |
-| Thu Aug 27 | 10:05 AM | LI Feed | Post 127 first comment | Post 127 | [ ] |
+| Thu Aug 27 | 8:30 AM | LI Feed | Post 127 — "1 in 5 Specialty Generics, Marked Up Over 1,000%" (The 1-in-5 Rocket single-image reveal — shocking hidden-structure reveal) | Post 127 | [ ] |
+| Thu Aug 27 | 8:35 AM | LI Feed | Post 127 first comment | Post 127 | [ ] |
 | Thu Aug 27 | 12:00 PM | X | Thu-visual amplifier [VISUAL: 1-in-5 specialty generic markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 1:30 PM | LI Company | Reshare of Post 127 | Post 127 Reshare | [ ] |
 | Thu Aug 27 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
@@ -45,7 +45,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Aug 27 | 7:00 PM | X | question [A1] | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 8:30 PM | X | one question [B2] | PART 4B · Thu | [ ] |
 | Fri Aug 28 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Fri | [ ] |
-| Fri Aug 28 | 10:00 AM | LI Feed | Post 128 — Tease Hook (teases W35 Renewal Negotiation) | Post 128 | [ ] |
+| Fri Aug 28 | 8:30 AM | LI Feed | Post 128 — Tease Hook (teases W35 Renewal Negotiation) | Post 128 | [ ] |
 | Fri Aug 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 28 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 28 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
@@ -456,7 +456,7 @@ Use the canonical "Monthly Q&A" prompt from `newsletters/week_17_carve_out_decis
 
 # PART 3: LINKEDIN FEED POSTS
 
-## Post 125 - Tuesday 10:00 AM
+## Post 125 - Tuesday 8:30 AM
 ### "From Programs That Cost Money to Programs That Earn Their Keep" — Bridge Clean Infographic
 
 **Template:** Bridge clean infographic from `claude_design_prompts.md` (template #7 — "Weak Contract Language to Strong Contract Language"). Claude Design project type: **Prototype**. Single image, 1080 x 1350 px.
@@ -608,7 +608,7 @@ This week's Benefit Blind Spots deep dive on specialty drug management is the op
 
 ---
 
-## Post 127 - Thursday 10:00 AM
+## Post 127 - Thursday 8:30 AM
 
 _The "Specialty Management Assessment" One Number Carousel was repurposed into Monday's deep dive and now lives there as an in-article visual (PART 1 → In-Article Visual). The live Thursday post is below._
 
@@ -692,7 +692,7 @@ Ginny Crisp shows how to find it on your plan.
 
 ---
 
-## Post 128 - Friday 10:00 AM
+## Post 128 - Friday 8:30 AM
 ### Tease Hook - TEASES WEEK 35: RENEWAL NEGOTIATION
 
 #### Post Copy
