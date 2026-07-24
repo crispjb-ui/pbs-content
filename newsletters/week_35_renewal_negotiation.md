@@ -61,7 +61,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Sep 7 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
 | Sun Sep 7 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 
-_Substack Notes (3/day) schedule straight down PART 4 in day order. Launch teasers: Tue (deep dive), Wed (roundup), Thu (field note)._
+_Substack Notes (3/day) schedule straight down PART 4 in day order, on the restack-reset slot design (morning reveal / midday visual / afternoon origin). Launch teasers post as RESTACK-WITH-NOTES on the live pieces: Tue (deep dive), Wed (roundup), Thu (field note). The NADAC fact runs only AFTER Thursday's Post 131 publishes (Fri morning slot)._
 
 ---
 
@@ -667,98 +667,123 @@ Get next Monday's deep dive on Contract Red Flags in your inbox: benefitblindspo
 
 ---
 
-# PART 4: SUBSTACK NOTES
+# PART 4: SUBSTACK NOTES (Daily Schedule)
 
-> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+> **Instructions (per `substack_notes_plan_2026_07.md`; W35 conformed to the restack-reset structure Jul 24, 2026 per Brett's directive — runs after the W29-W32 trial window; if the mid-Aug read-out reverses the mix, /propagate-rule sweeps this week back):** Post 3 Notes per day via the scheduler. Slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body); **Midday = visual note** (generation prompt in the PBS flat-design recipe; `[VISUAL]` names the library fallback PNG; the caption says what the visual proves, never "new post out"); **Afternoon = origin/personal.** **Labor Day shift: the deep dive publishes TUESDAY, so the launch teasers sit Tue (deep dive) / Wed (roundup) / Thu (field note)** — each posts as a RESTACK-WITH-NOTE on the live piece (once live, restack it and paste the teaser as the note, dropping the [LINK] line; /first-comments-today surfaces this daily). Monday morning is a reveal slot. **Reveal-reservation inside this week:** the NADAC public-benchmark fact runs only AFTER Thursday's Post 131 publishes (Fri morning slot); the renewal-asymmetry angle only AFTER Wednesday's POV (Sat morning slot); the specialty-reclassification fact runs Sunday, after Monday's X recipe published it; Monday's improved-renewal-offer reveal is prior-published surface (W31), rephrased fresh. **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced drafts are parked in the Spares block below, not deleted.
 
-## Monday
+## Monday (Labor Day — no LinkedIn; Notes run normally)
 
-**Morning (7-8 AM) — Article Launch Teaser:**
-The PBM's renewal proposal prices two provisions to look great: the discount and the rebate. The other ten provisions are where it makes the money back, and most employers never negotiate a single one of them. The new deep dive is the renewal negotiation playbook: twelve provisions with benchmarks and tactics, the execution guide for the 90-day prep we started in Week 25.
+**Morning (7-8 AM) — Reveal Note (the improved renewal offer, renewal-season opener; prior-published surface, fresh variant):**
+Renewal season opens this month, so here is the pattern to watch for: the moment a market check appears on your calendar, your incumbent PBM discovers savings it could not find all year. The improved offer is real money. It is also a confession. Those dollars were available last year, priced into the contract you were already living under. We run renewals through the fall at Prescription Benefit Solutions, and the unprompted improved offer arrives reliably enough to set a clock by. The check does not just price the challengers. It reprices the incumbent honestly.
 
-Read the full analysis: [LINK]
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_37_thursday_pre_meeting_renewal_checklist_preview.png]`
+The PBM's renewal proposal is not a verdict. It is an opening position, with headline numbers built to close fast and structural provisions built to be skipped. Treating it as final is the most common renewal mistake we see. The pre-meeting renewal checklist is free in the Toolkit Library at rxbs.org.
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I have watched employers accept PBM renewal terms that left substantial value on the table because they negotiated fewer than half the provisions that matter. The PBM presented competitive headline pricing. The employer signed. The structural provisions (audit rights, penalty caps, termination terms) were all PBM-favorable defaults. The pricing looked good. The contract did not protect them.
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large document in deep teal-blue outline titled "RENEWAL PROPOSAL" in IBM Plex Sans SemiBold; across its lower half, a gray (#4D4D4D) rectangular stamp reading "FINAL" struck through with a single clean diagonal line, and beside it a fresh light-blue (#A7E0FA) angled stamp reading "OPENING POSITION". Repeating ruled lines faintly on the document for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Not the price." in deep teal-blue, "The first move." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 Two clients, same PBM, same renewal cycle. One accepted the initial terms their PBM presented. The other came to the table with their own data, their own benchmarks, and specific language changes they wanted. The cost difference over the contract term was substantial. Same PBM. Same market. Different preparation. I have watched this play out enough times to know preparation is the variable that matters most.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Origin Story #1:**
-A plan sponsor asked me once whether pushing back on every provision would "sour" the PBM relationship. My answer: a PBM that sours because an employer asks for fair terms is a PBM that is telling you something. Healthy relationships survive negotiation. Fragile ones do not. If the relationship cannot handle a term sheet, it was not going to survive a bad quarter either.
+**Morning (7-8 AM) — Article Launch Teaser (post as RESTACK-WITH-NOTE on the live article; drop the link line):**
+The PBM's renewal proposal prices two provisions to look great: the discount and the rebate. The other ten provisions are where it makes the money back, and most employers never negotiate a single one of them. The new deep dive is the renewal negotiation playbook: twelve provisions with benchmarks and tactics, the execution guide for the 90-day prep we started in Week 25.
 
-**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
-Twelve provisions. Most employers negotiate two (pricing and rebates). The other ten are where the structural value lives. Audit rights. Performance penalties. Biosimilar commitments. Termination terms. Each one either protects the plan or protects the PBM. Default language always favors the PBM.
+Read the full analysis: [LINK]
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Tuesday LinkedIn "$1,200 Cream. $47 Alternative." dollar-comparison image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_23_midyear_claims_red_flag_checklist_preview.png]`
+The $1,200 cream and the $47 alternative share an active ingredient. What they do not share is a place on your formulary, and that placement was a contract decision, not a clinical one. High-cost topicals are one of the five claim patterns worth checking before renewal. The mid-year red flag checklist is free in the Toolkit Library at rxbs.org.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A broker brought me into a renewal where the client had been asking the PBM for stronger audit rights "for years" with no progress. I asked if the request had ever been put in writing as a specific clause. It had not. We drafted the clause. The PBM countered in three days. A negotiated version landed in the final contract. Specific language beats repeated asks. The PBM was not being evasive. They were waiting for a version they could negotiate against.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Roundup Launch Teaser:**
+**Morning (7-8 AM) — Roundup Launch Teaser (post as RESTACK-WITH-NOTE on the live roundup; drop the link line):**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I sat with a client through a renewal meeting where the PBM's rep tried to close pricing in the first hour. We had two days scheduled. I told the client: nothing gets decided today. The rep looked frustrated. The client got stronger terms than she would have on day one because the pressure to close was the PBM's, not ours. Time is leverage in renewal. Do not give it away cheaply.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_24_h1_renewal_readiness_scorecard_preview.png]`
+Your PBM's renewal team ran hundreds of renewals this year. Your committee runs one every few years. That asymmetry, not the discount grid, is what the proposal is priced against. The way to level it is preparation: your data, your benchmarks, your term sheet. The renewal readiness scorecard is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a negotiation table seen from the side in deep teal-blue outline; on the left side, a tall stack of many thin binders in light blue (#A7E0FA) labeled "THEIR RENEWALS THIS YEAR" in IBM Plex Sans SemiBold; on the right side, a single thin binder in gray (#4D4D4D) labeled "YOURS". Repeating spine lines on the binder stack for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "They negotiate daily." in deep teal-blue, "You negotiate once." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A benefits director told me once after a renewal that she had negotiated harder than she would have naturally because I was in the room. I took that seriously. The goal is for sponsors to negotiate well when I am not in the room. The renewal playbook exists so sponsors can take the work I have learned and run it themselves. The goal is not dependency. It is capability.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Launch Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser (post as RESTACK-WITH-NOTE on the live field note; drop the link line):**
 New field note: there is a public price for what a generic costs a pharmacy. It is called NADAC, and the federal government publishes it. Your PBM has it. It is just nowhere on the report you receive. Here is how to put it next to your bill at renewal.
 
 Read: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-A benefits director once asked me how she could possibly argue generic pricing with a PBM when she had no idea what the drug "should" cost. I told her the number already exists and it is public: NADAC. We pulled it for one high-volume generic, set it next to what her plan was billed, and the gap was the whole conversation. She did not need to be a pricing expert. She needed one line.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Thursday LinkedIn NADAC peel-back price-tag image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_28_ger_audit_worksheet_preview.png]`
+The federal government publishes what generics actually cost pharmacies to acquire. It is called NADAC, it is free, and it has never appeared on a PBM report next to what your plan was billed. One column, added by you, changes the renewal conversation. The GER audit worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A CFO told me he assumed the PBM's generic pricing was "basically at cost" because the discounts looked deep. I asked whether he had ever seen the acquisition cost, the public one, next to a claim. He had not. Nobody had ever shown it to him. That is the part that stays with me: the benchmark is public, it is free, and the report he paid for was built to leave it out.
 
 ## Friday
 
-**Morning (7-8 AM) — Origin Story #1:**
-The PBM's initial renewal proposal is not an offer. It is an opening position. The headline numbers are competitive because they are designed to close quickly. The structural provisions are weak because the PBM hopes you do not read them. Treating the proposal as a verdict rather than a starting point is the single most common mistake I see in renewal work.
+**Morning (7-8 AM) — Reveal Note (NADAC; runs AFTER Thursday's Post 131 published):**
+There is a public benchmark for what a generic drug actually costs a pharmacy to acquire. It is called NADAC, the federal government publishes it weekly, and it is free to anyone. Your PBM has it. The report your plan pays for does not show it, because the distance between that public number and the price you were billed is the business model. The FTC found specialty generic markups at PBM-owned pharmacies compounding at a 42 percent annual growth rate. At renewal, put NADAC next to your top twenty generics by spend. We do it in every review at Prescription Benefit Solutions. One added column, and the conversation changes.
 
-**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week: contract language that costs you. Ten provisions. Three versions each: weak, moderate, strong. The reference document you bring to renewal. Two words can be worth six figures.
+**Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: generate per prompt below; fallback templates/documents/week_36_thursday_definition_variance_audit_preview.png]`
+Two words in a contract definition can be worth six figures over a term. Next week on Benefit Blind Spots: contract language that costs you, ten provisions in three versions each, weak, moderate, and strong, the reference document you bring to renewal. The definition variance audit is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: three stacked horizontal contract-line cards, each with a short redacted-style text bar and a strength meter at its right end: the top card labeled "WEAK" with a nearly empty gray (#4D4D4D) meter, the middle card labeled "MODERATE" with a half-filled meter, the bottom card labeled "STRONG" with a full light-blue (#A7E0FA) meter and a small shield icon. Labels in IBM Plex Sans SemiBold. Repeating segment ticks inside each meter for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Same clause." in deep teal-blue, "Three prices." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 I had a client tell me years ago that my renewal playbook felt "intimidating" at first read because of the number of provisions. I told her: the intimidation is the point. A serious negotiation has a lot of moving parts. Intimidation is how the PBM keeps employers focused on two provisions instead of twelve. Naming that intimidation out loud often dissolves it. The framework is not intimidating once you start using it.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A pharmacist colleague asked me how I learned to negotiate PBM contracts when pharmacy school had never taught it. The honest answer: I learned by reading contracts and arguing with vendors for years. No course curriculum exists for this. The profession has not built it yet. I write about it publicly because somebody has to, and until the curriculum catches up, the writing is the curriculum.
+**Morning (8-9 AM) — Reveal Note (the two-provision trap; runs AFTER Wednesday's POV published):**
+A PBM renewal proposal prices two provisions to be admired: the discount and the rebate guarantee. Employers negotiate those two, feel the win, and sign. The other ten provisions (audit rights, penalty caps, termination terms, true-up methodology, definitions) arrive as defaults, and defaults are always drafted by the party that wrote the template. In the renewals we work at Prescription Benefit Solutions, the money given back on the headline numbers is reliably recovered inside the ten provisions nobody negotiated. The proposal is designed so the two you check pay for the ten you do not.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Twelve renewal provisions that move dollars: Generic Effective Rate, Rebate Guarantee, Specialty Pricing, Dispensing Fee Schedule, Admin Fee, Clinical Program Guarantees, Audit Rights, Performance Penalties, Biosimilar Commitments, Formulary Change Notification, Termination Provisions, Annual True-Up Methodology. Each has market benchmarks, specific language to request, and a negotiation tactic. None of them negotiate themselves.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_35_thursday_termination_clause_audit_preview.png]`
+Twelve provisions move dollars at renewal. Most employers negotiate two of them and sign the other ten as-drafted. The termination clause audit, whether you can actually leave and what leaving costs, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a tall term sheet document in deep teal-blue outline listing twelve short line items, each with a checkbox: the top two checkboxes are checked in bold light blue (#A7E0FA), the remaining ten are empty gray (#4D4D4D) boxes; next to the ten unchecked lines, a small pen icon lies set down, capped. Repeating ruled lines behind the list for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "You negotiated two." in deep teal-blue, "They wrote the other ten." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A broker thanked me last year for a term sheet I had built for her client. She said she had used it as a template for three other clients. I was glad. The work travels. The best negotiation preparation is reusable. The plans benefit when the broker's last negotiation makes the next negotiation faster and sharper. Specificity compounds across engagements if the language is kept consistent.
 
 ## Sunday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A CFO told me after a successful renewal that he had gone into the meeting "expecting to lose" and had left feeling that the PBM respected his plan more than it had before. That dynamic is what good preparation creates. Respect is a negotiation outcome. It is not a soft skill. It is the PBM recognizing that the employer is prepared enough to defend the plan's interests. That recognition changes the long-term relationship.
+**Morning (8-9 AM) — Reveal Note (specialty-definition drift; runs after Monday's X recipe published it):**
+Between two renewals, a client's "specialty" drug list grew by a third. No new diagnoses, no new therapies driving it. The PBM had quietly reclassified products into the bucket with the softest pricing guarantee, because the contract let the PBM write the definition of "specialty" and amend it without asking. A definition that one party controls is not a definition. It is a lever. Before you sign again, compare today's specialty list to the one you started the contract with. We run that comparison in every renewal at Prescription Benefit Solutions, and the list only ever grows in one direction.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-The renewal playbook is an execution document, not a strategy document. Strategy happens in the 90-day prep (Week 25). Execution happens in the playbook. Separating the two disciplines means each gets its own attention. Conflating them means both get done badly. Clients who run prep and playbook as sequenced disciplines produce better outcomes than clients who improvise a hybrid.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_34_thursday_midyear_guarantee_audit_preview.png]`
+When the PBM writes the definition of "specialty," the specialty list becomes a pricing instrument. Drugs migrate to the bucket with the softest guarantee, and the migration never runs backward. The mid-year guarantee audit is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: two large buckets side by side in deep teal-blue outline: the left bucket labeled "STANDARD" in IBM Plex Sans SemiBold, holding a modest level of small pill icons; the right bucket labeled "SPECIALTY", filled to overflowing with pill icons, several mid-fall into it along a light-blue (#A7E0FA) dashed arc from the left bucket. The right bucket's price-tag charm hangs loose and blank, in gray (#4D4D4D). Repeating fill-level ticks on both bucket walls for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The list grew." in deep teal-blue, "The diagnoses did not." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A plan sponsor once asked me whether I ever "lose" renewal negotiations. My honest answer: I have had clients walk away from deals that I thought were negotiable. I have also had deals close with terms I wish had been stronger. Perfect outcomes are rare. Thoughtful outcomes are the goal. The plans I work with consistently get good-enough terms that protect the plan's interests. That is the bar. Perfection is not the goal. Durability is.
 
 ## Engagement Reply Templates
 
 **Template A:** "Preparation is the variable that separates renewal outcomes. Same PBM, same market, different preparation level. The employers who build a 12-provision term sheet negotiate fundamentally different terms than those who react to the PBM's proposal."
+
+## Spare Notes (displaced by the Jul 24 restack-reset conform; hold for swap-ins or future weeks)
+
+_Drafted content preserved per the no-deletion rule. Use these if a scheduled slot needs a swap, or recycle into a future week's afternoon slots. The old Friday-midday forward look was absorbed into the Friday visual-note caption; the old Friday-morning opening-position insight now carries the Monday visual-note caption; the old Tuesday/Saturday-midday twelve-provision insights now carry the Saturday reveal + visual._
+
+- **Origin (was Mon midday):** I have watched employers accept PBM renewal terms that left substantial value on the table because they negotiated fewer than half the provisions that matter. The PBM presented competitive headline pricing. The employer signed. The structural provisions (audit rights, penalty caps, termination terms) were all PBM-favorable defaults. The pricing looked good. The contract did not protect them.
+- **Origin (was Tue morning):** A plan sponsor asked me once whether pushing back on every provision would "sour" the PBM relationship. My answer: a PBM that sours because an employer asks for fair terms is a PBM that is telling you something. Healthy relationships survive negotiation. Fragile ones do not. If the relationship cannot handle a term sheet, it was not going to survive a bad quarter either.
+- **Expertise (was Tue midday):** Twelve provisions. Most employers negotiate two (pricing and rebates). The other ten are where the structural value lives. Audit rights. Performance penalties. Biosimilar commitments. Termination terms. Each one either protects the plan or protects the PBM. Default language always favors the PBM.
+- **Origin (was Wed midday):** I sat with a client through a renewal meeting where the PBM's rep tried to close pricing in the first hour. We had two days scheduled. I told the client: nothing gets decided today. The rep looked frustrated. The client got stronger terms than she would have on day one because the pressure to close was the PBM's, not ours. Time is leverage in renewal. Do not give it away cheaply.
+- **Origin (was Thu midday):** A benefits director once asked me how she could possibly argue generic pricing with a PBM when she had no idea what the drug "should" cost. I told her the number already exists and it is public: NADAC. We pulled it for one high-volume generic, set it next to what her plan was billed, and the gap was the whole conversation. She did not need to be a pricing expert. She needed one line.
+- **Origin (was Fri morning):** The PBM's initial renewal proposal is not an offer. It is an opening position. The headline numbers are competitive because they are designed to close quickly. The structural provisions are weak because the PBM hopes you do not read them. Treating the proposal as a verdict rather than a starting point is the single most common mistake I see in renewal work.
+- **Origin (was Sat morning):** A pharmacist colleague asked me how I learned to negotiate PBM contracts when pharmacy school had never taught it. The honest answer: I learned by reading contracts and arguing with vendors for years. No course curriculum exists for this. The profession has not built it yet. I write about it publicly because somebody has to, and until the curriculum catches up, the writing is the curriculum.
+- **Expertise (was Sat midday):** Twelve renewal provisions that move dollars: Generic Effective Rate, Rebate Guarantee, Specialty Pricing, Dispensing Fee Schedule, Admin Fee, Clinical Program Guarantees, Audit Rights, Performance Penalties, Biosimilar Commitments, Formulary Change Notification, Termination Provisions, Annual True-Up Methodology. Each has market benchmarks, specific language to request, and a negotiation tactic. None of them negotiate themselves.
+- **Origin (was Sun morning):** A CFO told me after a successful renewal that he had gone into the meeting "expecting to lose" and had left feeling that the PBM respected his plan more than it had before. That dynamic is what good preparation creates. Respect is a negotiation outcome. It is not a soft skill. It is the PBM recognizing that the employer is prepared enough to defend the plan's interests. That recognition changes the long-term relationship.
+- **Expertise (was Sun midday):** The renewal playbook is an execution document, not a strategy document. Strategy happens in the 90-day prep (Week 25). Execution happens in the playbook. Separating the two disciplines means each gets its own attention. Conflating them means both get done badly. Clients who run prep and playbook as sequenced disciplines produce better outcomes than clients who improvise a hybrid.
 
 ---
 
