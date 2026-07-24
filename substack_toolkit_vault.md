@@ -47,32 +47,47 @@ _If the generator mangles the headline text, fall back to the standard Canva pas
 
 ## Subscribe-page plan benefits ("What subscribers get" — Settings → Payments)
 
-_Added Jul 24, 2026 (Brett: the paid button should tell readers there is more content for paid while they are deciding). Substack shows these bullet lists on the subscribe page and upgrade prompts, one box per tier. Paste each list into its box. **Sequencing: paste these in the SAME SITTING the Vault post publishes, not before** — the paid list names the Vault, and the subscribe page must never promise content that is not live yet. Until then the current generic benefits stay._
+_Added Jul 24, 2026 (Brett: the paid button should tell readers there is more content for paid while they are deciding). Reconciled Jul 24 against the LIVE Settings → Payments → Benefits fields Brett screenshotted. Each line below = one benefit field in the Substack UI (add/remove fields to match). **Sequencing: make these edits in the SAME SITTING the Vault post publishes, not before** — the paid list names the Vault, and the subscribe page must never promise content that is not live yet._
 
-**Free subscribers get:**
+**Why the old paid list can't stay (the reconciliation):** the three current paid fields promise (a) the Monthly Q&A thread — listed twice across fields 1 and 2, and not running on a reliable cadence, (b) "What I'd Ask" scenarios — specced as subscriber-only (free-tier) content in the repo, and (c) the Quarterly "What We're Seeing" report — which is now a FREE public page at rxbs.org/what-we-are-seeing (launched Jul 23, 2026; the proof/citation surface must stay free, so it can never be sold as paid again). Replace all three with what is actually live: the Vault + the Practitioner's Note. If the Monthly Q&A later runs on a real cadence, re-add it then, not before.
+
+**Free subscriber benefits (replace the one existing field with these two):**
 
 ```
-Every article, free: Monday deep dives, the Wednesday roundup, and Thursday field notes
-The frameworks and checklists built into each article, plus the PBM Contract Language Library
+Monday deep dive, Wednesday news roundup, and Thursday field note, every week, free. The articles are never paywalled.
+```
+```
+The frameworks and checklists built into each article, plus the PBM Contract Language Library.
 ```
 
-**Paid subscribers get:**
+**Paid subscriber benefits (delete all three existing fields, add these four):**
 
 ```
 Everything in the free tier. The articles themselves are never paywalled.
-The Toolkit Vault: every Plan Sponsor Toolkit PDF in one post, no forms, updated in place as the library grows
-The Practitioner's Note inside Monday deep dives: what the negotiation actually sounds like, the pushback line, the counter-move, the concession order
-Your toolkit requests move to the front of the build queue
+```
+```
+The Toolkit Vault: every Plan Sponsor Toolkit PDF in one post, no forms, updated in place as the library grows.
+```
+```
+The Practitioner's Note inside Monday deep dives: the pushback line, the counter-move, the concession order.
+```
+```
+Your toolkit requests move to the front of the build queue.
 ```
 
-**Founding members get:**
+**Founding member benefits (replace the existing single field with these three):**
 
 ```
-Everything in the paid tier
-You underwrite independent PBM analysis that takes no PBM, carrier, or vendor money
+Everything in the paid tier.
+```
+```
+Direct response from Ginny on contract questions, time permitting.
+```
+```
+You underwrite independent PBM analysis that takes no PBM, carrier, or vendor money.
 ```
 
-_Notes for the publisher: (1) the "articles are never paywalled" line is deliberate and load-bearing — it protects the AI-citation surface promise and tells free readers what they are NOT losing, which builds trust in the paid ask. (2) The Practitioner's Note bullet is true W29 forward; if the Vault publishes before the first Practitioner's Note ships live, keep the bullet (the next Monday delivers it). (3) If Substack's box balks at line length, the Vault bullet can shorten to "The Toolkit Vault: all toolkit PDFs in one post, no forms, always current." (4) When a genuinely new paid perk lands later, it gets added to the paid list in the same sitting it goes live — same rule as the Vault._
+_Notes for the publisher: (1) the "articles are never paywalled" line is deliberate and load-bearing — it protects the AI-citation surface promise and tells free readers what they are NOT losing, which builds trust in the paid ask. (2) The founding "direct response from Ginny, time permitting" line is KEPT from the current live list — it is an existing promise to existing founding members and the hedge keeps it honest. The old founding "Early access to new tools and frameworks before public release" line is DROPPED: the Vault delivers new toolkits to all paid subscribers at once, and every toolkit also publishes free on rxbs.org, so "before public release" no longer describes anything real. The current free field's "updated quarterly" on the Contract Language Library is also stale (continuous updates since May 2026); the replacement fields fix it. (3) The Practitioner's Note bullet is true W29 forward; if the Vault publishes before the first Practitioner's Note ships live, keep the bullet (the next Monday delivers it). (4) Existing paid subs (Nick and the other three) signed under the old list; the swap is a net upgrade in practice (two live perks replace three that never consistently shipped), and Ginny's reply to Nick lands the same week as evidence. (5) When a genuinely new paid perk lands later, it gets added in the same sitting it goes live — same rule as the Vault._
 
 ---
 
