@@ -110,3 +110,48 @@ After one full repurpose cycle (about 6 months), evaluate whether repurposing de
 | Substack Note | Quote teaser + saves-count social proof | Once saves cross 20 | "18+ plan sponsors bookmarked this clause set" |
 | LinkedIn re-share with new commentary | Quote-share own post | Sep-Oct surge window | "Posted this in June. Renewal season is when it matters." |
 | Library NN candidate | Specialty routing provision family is in the Contract Library rotation | Next open Library slot | Full weak/strong redline treatment of the 5 clauses |
+
+
+---
+
+## Asset (added Jul 24, 2026, CONFIRMED mature): GLP-1 "Bridge" PA Architecture — W28 Tuesday news-pegged reference post
+
+**Why queued:** 19 saves (biggest since the W18 era) + 24 comments + H&HC 37% at 6,482 mature impressions. Breakout by the 15+ saves rule; mature, not provisional. The reference payload (the actual CMS form architecture) is what got saved.
+
+**X variant (fresh phrasing per the dedup rule, pure ASCII; schedule into a W30+ quiet-day news-HOLD backup slot; link to the CMS form PDF in the first reply):**
+
+```
+Medicare published the prior-auth form for its GLP-1 pilot. Skip the headline and read the architecture: step therapy first, documented failure required, annual reauthorization. That template does not stay in Medicare. It is the preview of what your PBM brings to your plan next.
+```
+
+**Substack Note (reveal register, no link in body; any open morning slot after W30 ships):**
+
+```
+Medicare just showed every plan sponsor the future of GLP-1 coverage, and it did it in a form nobody read. The new pilot's prior-auth architecture: step therapy first, documented failure, annual reauthorization. Public programs write the template. Commercial PBMs copy it. If you manage a self-funded plan, the document worth reading this month is a Medicare PA form.
+```
+
+**Video-bank candidate:** "The Medicare GLP-1 form that predicts your 2027 plan design" — 60-second 9:16 talking-head, reveal-first (logged to `video_content_bank.md` pipeline).
+
+**Future-week echo:** W34 (Aug 24 week) carries the GLP-1 DTC Wednesday clip — a fresh-angle descendant (Bridge architecture as the coverage-design counterweight to DTC demand) fits W34's build notes; the ~6-week no-repeat clears Aug 25.
+
+---
+
+## Asset (added Jul 24, 2026, CONFIRMED mature): The Rebate Paradox — W28 Friday reveal-shaped tease
+
+**Why queued:** 3,730 mature ≈ 5x the generic-tease baseline (731); the line Cuban engaged before subscribing; Hylant + Owner-title eyes in the demo. The paradox sentence is the asset: rebates up, total cost up, both true, same data.
+
+**X variant (fresh phrasing, pure ASCII; any W31+ PM punchy slot — the W29 deep dive has published, so no reservation):**
+
+```
+The rebate check grew again this year. So did your total drug cost. Both numbers are accurate, both come from the same claims file, and only one of them is on the slide your PBM presents. Ask for the other one.
+```
+
+**Substack Note (reveal register; amplifies the published W29 deep dive):**
+
+```
+A rebate report can be accurate and misleading in the same table. The check got bigger. The plan's total drug cost got bigger too. Rebates are measured against a list price the same industry sets, which is how both lines rise together forever. The number that matters is net cost per claim, and it is the one number the standard report never shows.
+```
+
+**Video-bank candidate:** "Why your rebates AND your costs both went up" — 45-second 9:16, whiteboard-point talking-head.
+
+**Future-week echo:** W36 Saturday already carries the relabeled-manufacturer-money reveal (adjacent family) — no new echo slot needed; the paradox angle stays available for a Q4 renewal-season week if the September posts leave it unburned.
