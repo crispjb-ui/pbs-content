@@ -11,10 +11,41 @@ _Created Jul 24, 2026. **Origin:** paid subscriber Nick suggested toolkit access
 4. `/system-audit` §4 checks this ledger for rows stale >6 weeks.
 
 **Publisher prompt (first publish):**
-> In Substack: New post → title "The Plan Sponsor Toolkit Vault" → paste the body between the ▼▲ markers → at each `[ATTACH PDF: …]` marker, drag that file from `templates/documents/` into the post (Substack renders an inline file tile) and delete the marker line → set audience to **Paid subscribers only** → publish WITHOUT sending email the first time is fine, then share the link in the next Practitioner's Note / paid thread. Pin it in the publication's paid section if the UI allows.
+> In Substack: New post → title "The Plan Sponsor Toolkit Vault" → paste the body between the ▼▲ markers → at each `[ATTACH PDF: …]` marker, drag that file from `templates/documents/` into the post (Substack renders an inline file tile) and delete the marker line → set audience to **Paid subscribers only** → publish WITHOUT sending email the first time is fine, then share the link in the next Practitioner's Note / paid thread. Pin it in the publication's paid section if the UI allows. **Same sitting:** update the plan benefits in Settings → Payments with the "What subscribers get" copy below, so the subscribe page names the Vault the moment it exists.
 
 **Publisher prompt (refresh):**
 > Open the live Vault post in edit mode. For each STALE row: delete the old file tile, drag in the re-rendered PDF from `templates/documents/`. For each NOT-YET-ATTACHED row: add the new line + attachment in its section. Update the "Last updated" line at the top of the post. Save (no re-send needed).
+
+---
+
+## Subscribe-page plan benefits ("What subscribers get" — Settings → Payments)
+
+_Added Jul 24, 2026 (Brett: the paid button should tell readers there is more content for paid while they are deciding). Substack shows these bullet lists on the subscribe page and upgrade prompts, one box per tier. Paste each list into its box. **Sequencing: paste these in the SAME SITTING the Vault post publishes, not before** — the paid list names the Vault, and the subscribe page must never promise content that is not live yet. Until then the current generic benefits stay._
+
+**Free subscribers get:**
+
+```
+Every article, free: Monday deep dives, the Wednesday roundup, and Thursday field notes
+The frameworks and checklists built into each article, plus the PBM Contract Language Library
+```
+
+**Paid subscribers get:**
+
+```
+Everything in the free tier. The articles themselves are never paywalled.
+The Toolkit Vault: every Plan Sponsor Toolkit PDF in one post, no forms, updated in place as the library grows
+The Practitioner's Note inside Monday deep dives: what the negotiation actually sounds like, the pushback line, the counter-move, the concession order
+Your toolkit requests move to the front of the build queue
+```
+
+**Founding members get:**
+
+```
+Everything in the paid tier
+You underwrite independent PBM analysis that takes no PBM, carrier, or vendor money
+```
+
+_Notes for the publisher: (1) the "articles are never paywalled" line is deliberate and load-bearing — it protects the AI-citation surface promise and tells free readers what they are NOT losing, which builds trust in the paid ask. (2) The Practitioner's Note bullet is true W29 forward; if the Vault publishes before the first Practitioner's Note ships live, keep the bullet (the next Monday delivers it). (3) If Substack's box balks at line length, the Vault bullet can shorten to "The Toolkit Vault: all toolkit PDFs in one post, no forms, always current." (4) When a genuinely new paid perk lands later, it gets added to the paid list in the same sitting it goes live — same rule as the Vault._
 
 ---
 
