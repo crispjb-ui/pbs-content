@@ -435,5 +435,11 @@ _Auto-applied bank updates (5 new concepts, shoot-list re-rank, refreshed best-p
 - **Related:** the standing Jul 18 `/aeo-research` proposal to stand up an owned YouTube channel (entity-mention surface) — same video-distribution question; approve them together if scaling video.
 - **Recommendation:** **Approve.** Low-stakes, protects against scaling an unproven format; the fix is just "get one clean 9:16 read first."
 
+## 🟨 FLAGGED — W29 missed the Jul 21 CLL routing propagation (found by `/first-comments-today`, Jul 24, 2026)
+- **Finding:** the Jul 21, 2026 CLL routing rule (CLAUDE.md, "First-comment Substack cross-promo rule") was propagated across W30-W37 the day it was approved, but **W29 was mid-flight that week (Jul 20-24) and got skipped** — its X first-reply CLL links and its two in-article CLL mentions still pointed at the Substack Library post instead of the live canonical `rxbs.org/contract-language-library`.
+- **Fixed same day:** the not-yet-published W29 CLL first replies (Fri 7:00 PM, Sat 8:00 AM/10:00 AM/2:30 PM, Sat 7:00 PM) were corrected to `rxbs.org/contract-language-library` in `newsletters/week_29_rebate_economics.md` before they went out.
+- **Not fixable retroactively:** W29's Mon-Thu X first replies (already posted) and the two in-article Contract Language Library links in the Monday deep dive body (already live on Substack since Jul 20) still point at the Substack post. The deep-dive body also carries a stale `(Publisher note: re-point this link... once the Wix page is live)` — the Wix page has been live since Jul 21, so that note is now actionable.
+- **Recommendation:** low-stakes, no urgency — Ginny can re-paste the Monday deep dive body with the corrected canonical link next time she's in the Substack editor for W29, or leave it (the canonical page still resolves the reader to the same content family). Worth a quick check that no other in-flight week from the propagation date had the same mid-week gap.
+
 ## ✅ Recently closed (for reference)
 - W23-W37 rolled through the build system; W26/W35 Tuesday posts built; Library numbering resolved (W25=04, W27=05, W33=06). Hardwired build system + 3 production skills + scheduled pipeline shipped.

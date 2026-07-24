@@ -1000,7 +1000,7 @@ A PBM never has to hide the money. It only has to relabel it faster than you re-
 ```
 A biosimilar launched at a fraction of the brand's price. Is your plan on it, or is your PBM still steering to the brand because the brand pays a bigger rebate? Pull the claims and find out.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · origin-anchored (1/week) [D6]:**
 ```
 Opened a rebate report this week that proudly said "100% pass-through." A PBM-owned aggregator had already taken its cut upstream. 100% of what was left is still 100%. The math was honest. The noun wasn't.
@@ -1011,12 +1011,12 @@ Opened a rebate report this week that proudly said "100% pass-through." A PBM-ow
 ```
 The same pill, two prices, one building: your member fills at a hospital-owned pharmacy that buys at deep 340B discounts and bills your plan full freight. The discount was designed for charity care. The spread goes to the system that owns the pharmacy. Your plan funds the gap.
 ```
-  First reply (link): benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply (link): rxbs.org/contract-language-library
 - **10:00 AM · step therapy (fail-first) (Tier A):**
 ```
 Step therapy sounds clinical. Often it's financial. Your member has to fail the cheaper drug first, not because it's better medicine, but because the sequence protects a rebate. Ask whether each "step" tracks clinical evidence or rebate size.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **12:00 PM · news-reaction HOLD (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:**
 ```
 "Effective rate guarantee" is an average. The PBM hits it by discounting drugs nobody fills and marking up the ones everybody does. The guarantee is real. The savings aren't.
@@ -1025,7 +1025,7 @@ Step therapy sounds clinical. Often it's financial. Your member has to fail the 
 ```
 Your PBM's rebates may run through a group purchasing organization it owns, often registered offshore. Fees get taken at that layer before the "pass-through" to your plan even begins. The contract says 100%. The GPO already took its cut in another country.
 ```
-  First reply: benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
 ```
 The rebate report answers the question the PBM wrote, not the question you asked.
@@ -1034,7 +1034,7 @@ The rebate report answers the question the PBM wrote, not the question you asked
 ```
 When your PBM reports "rebate per brand script," do you know which scripts counted as brand? Reclassify a few hundred claims and the guarantee is met without a dollar moving. Ask for the claim-level file behind the ratio.
 ```
-  First reply → benefitblindspots.substack.com/p/pbm-contract-language-library
+  First reply → rxbs.org/contract-language-library
 - **8:30 PM · reader question [I1] (new family, Jul 16 diversification — swaps the aphorism pool; the spread piece is published, safe):**
 ```
 A reader asked: is spread pricing illegal? No. It is contractual. That is the uncomfortable part. The remedy is not a regulator, it is your own pricing exhibit.
