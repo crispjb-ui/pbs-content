@@ -16,10 +16,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Jul 26 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Jul 27 | 7:30 AM | Substack | Deep dive: "Site-of-Care Optimization: The Cost Lever Most Plans Ignore" | PART 1 | [ ] |
 | Mon Jul 27 | 7:45 AM | LI Newsletter | Site-of-Care Briefing (Issue #25) | PART 2 | [ ] |
+| Mon Jul 27 | 7-8 AM | Notes | Note #1 launch teaser (restack-with-note on the live deep dive) | PART 4 · Mon | [ ] |
 | Mon Jul 27 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Mon | [ ] |
 | Mon Jul 27 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
 | Mon Jul 27 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
-| Mon Jul 27 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Jul 27 | 7:00 PM | X | question [A2] | PART 4B · Mon | [ ] |
 | Mon Jul 27 | 8:30 PM | X | aphorism [C9] | PART 4B · Mon | [ ] |
 | Tue Jul 28 | 8:00 AM | X | recipe / Facility fee markup (Tier B) | PART 4B · Tue | [ ] |
@@ -31,29 +31,29 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Jul 28 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 7:00 PM | X | question [A3] | PART 4B · Tue | [ ] |
 | Tue Jul 28 | 8:30 PM | X | one question [B9] | PART 4B · Tue | [ ] |
+| Wed Jul 29 | 7-8 AM | Notes | Roundup launch teaser (restack-with-note on the live roundup) | PART 4 · Wed | [ ] |
 | Wed Jul 29 | 8:00 AM | X | recipe / Percentage markup on medical-benefit drugs (Tier B) | PART 4B · Wed | [ ] |
 | Wed Jul 29 | 8:30 AM | LI Feed | Post 110 — SHRM clip3 "They claw it back" (rebate clawback on lifestyle) · NATIVE 9:16 VIDEO | Post 110 | [ ] |
 | Wed Jul 29 | 8:35 AM | LI Feed | Post 110 first comment (→ rebate-report toolkit) | Post 110 | [ ] |
 | Wed Jul 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
-| Wed Jul 29 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Jul 29 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Jul 29 | 7:00 PM | X | question [A4] | PART 4B · Wed | [ ] |
 | Wed Jul 29 | 8:30 PM | X | aphorism [C10] | PART 4B · Wed | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Field Note: "Where Does Your Specialty Script Actually Get Filled?" | PART 1B | [ ] |
 | Thu Jul 30 | 7:30 AM | Substack | Monthly Q&A Thread #4: "Bring Me One Line You Don't Recognize" (resharpened Jul 16) | PART 2B | [ ] |
+| Thu Jul 30 | 7-8 AM | Notes | Field Note launch teaser (restack-with-note on the live field note) | PART 4 · Thu | [ ] |
 | Thu Jul 30 | 8:00 AM | X | recipe / The REMS excuse (Tier B) | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 8:30 AM | LI Feed | Post 111 — "Your PBM Pays Its Own Pharmacy Twice the Rate, Then Steers Your Script There" (owned-pharmacy steering reveal, one-way turnstile conceptual infographic) | Post 111 | [ ] |
 | Thu Jul 30 | 8:35 AM | LI Feed | Post 111 first comment | Post 111 | [ ] |
 | Thu Jul 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 1:30 PM | LI Company | Reshare of Post 111 | Post 111 Reshare | [ ] |
 | Thu Jul 30 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
-| Thu Jul 30 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Jul 30 | 7:00 PM | X | question [A5] | PART 4B · Thu | [ ] |
 | Thu Jul 30 | 8:30 PM | X | one question [B10] | PART 4B · Thu | [ ] |
+| Fri Jul 31 | 7-8 AM | Notes | Reveal note (owned-pharmacy steering; runs only AFTER Thursday's post published) | PART 4 · Fri | [ ] |
 | Fri Jul 31 | 8:00 AM | X | recipe / Site-of-care program fees (Tier B) | PART 4B · Fri | [ ] |
 | Fri Jul 31 | 8:30 AM | LI Feed | Post 112 — PBM RFP tease (teases W31) | Post 112 | [ ] |
 | Fri Jul 31 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Jul 31 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Jul 31 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Jul 31 | 7:00 PM | X | question [A6] | PART 4B · Fri | [ ] |
 | Fri Jul 31 | 8:30 PM | X | origin-anchored [D7] | PART 4B · Fri | [ ] |
@@ -788,7 +788,7 @@ Get next Monday's deep dive on PBM RFP Process in your inbox: benefitblindspots.
 
 # PART 4: SUBSTACK NOTES (Daily Schedule)
 
-> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+> **Instructions (revised July 15, 2026 — restack-reset trial week 2 of 4, per `substack_notes_plan_2026_07.md`; W30 conformed to the W29 structure Jul 24, 2026):** Post 3 Notes per day via the scheduler. Slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu — and the teaser posts as a RESTACK-WITH-NOTE on the live article, never a scheduled Note (Brett, Jul 16): once the piece is live, restack it and paste the teaser as the note, dropping the [LINK] line since the restack embeds the article card; /first-comments-today surfaces this daily). **Midday = visual note** (each carries a generation prompt in the PBS flat-design recipe — generate the creative visual when time allows; the `[VISUAL]` flag names a library fallback PNG for when it doesn't; the caption says what the visual proves, never "new post out"). **Afternoon = origin/personal** (unchanged, the warmth/conversion layer). **Reveal-reservation inside this week:** the owned-pharmacy steering fact runs only AFTER Thursday's LinkedIn reveal publishes (Fri morning slot); the renewal auto-renew/notice-window fact only AFTER Tuesday's Renewal Countdown post (Sat morning slot); the rebate-clawback fact only AFTER Wednesday's video publishes (Sun morning slot). Tuesday morning amplifies the already-published Monday deep dive (published surface, no reservation). **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced drafts are parked in the Spares block below, not deleted.
 
 ## Monday
 
@@ -797,21 +797,23 @@ Same drug, same dose, same protocol. The infusion at the hospital outpatient dep
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-As a clinical pharmacist I know the infusion setting does not change the drug's mechanism of action. An antibody infused at a hospital outpatient department works the same as one infused at home. The clinical evidence is clear. The cost evidence is even clearer. The barrier to site-of-care optimization is not science. It is structure.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_22_thursday_specialty_routing_audit_worksheet_preview.png]`
+The building is a line item. Same drug, same dose, same protocol: move the infusion from hospital outpatient to home and the cost changes by multiples, not percentages. Nothing clinical moved. The address did. The specialty routing worksheet we use to trace where scripts actually fill is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: one medication vial in deep teal-blue outline at the top labeled "SAME DRUG" in IBM Plex Sans SemiBold. Two strings descend from the vial to two price tags: the left string ends at a LARGE price tag attached to a flat hospital building icon labeled "HOSPITAL OUTPATIENT", the right string ends at a SMALL price tag attached to a simple house icon labeled "HOME INFUSION"; both tags rendered in light blue (#A7E0FA) at obviously different sizes, the tag strings drawn as repeating dash marks for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The drug did not change." in deep teal-blue, "The address did." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 I watched a client discover that their members were receiving a maintenance infusion at a hospital outpatient department at a cost that was multiples of what the same infusion would cost at an ambulatory center. The clinical protocol was identical. The only difference was the building. That was the moment site-of-care became a standard part of every claims review we do.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Origin Story #1:**
-A rheumatologist asked me early in my career why hospital outpatient was the default for her stable infusion patients. My honest answer: inertia. The original referral pattern never got re-evaluated. She rebuilt her referral defaults with her staff the next week. The cost impact for her patients' plans was immediate. Defaults are powerful. Changing them is a practice-management decision, not a clinical one.
+**Morning (7-8 AM) — Reveal Note (site-of-care; amplifies the published Monday deep dive):**
+An infusion's cost can change by multiples without the drug, the dose, or the diagnosis changing. The only variable is the building it happens in. Hospital outpatient departments carry facility fees that ambulatory centers and home infusion do not, and most plans have never asked their claims data to surface the pattern. We run site-of-care checks as standard work in claims reviews at Prescription Benefit Solutions, and the finding shows up more often than not. Yesterday's deep dive maps the lever by therapeutic category.
 
-**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
-Three biggest site-of-care opportunities by therapeutic category: rheumatology infusions (highest volume, most straightforward transition), rare disease enzyme replacement (strong home infusion precedent), and select neurology infusions (after REMS requirements are met). Start with the category that matches your highest spend.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Tuesday LinkedIn Renewal Countdown whiteboard image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_24_h1_renewal_readiness_scorecard_preview.png]`
+Five self-funded decisions have to land before year-end, and every one has a lead time the calendar does not forgive. For a January 1 plan the renewal-notice window closes in the first days of October, which makes August the month the work starts. The renewal readiness scorecard, five metrics that say whether you negotiate or react, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A plan sponsor told me she did not want to "push members" into home infusion because it might feel like a downgrade. I sat with her and looked at member satisfaction data from home infusion programs. Most members preferred home. The downgrade was in her head, not in the experience. That misperception is one of the reasons site-of-care lags. Correcting it is part of the work.
 
 ## Wednesday
@@ -823,10 +825,12 @@ Read the roundup: [LINK]
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-My first site-of-care project as a consultant started because an HR director asked, "why is our infusion spending growing so fast?" Three weeks of claims review later, the answer was hospital outpatient routing. Nobody had decided on the setting. The setting had decided itself. Naming that inertia was the first step toward changing it. The second step was contract language.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_20_thursday_rebate_report_audit_worksheet_preview.png]`
+Rebate guarantees can run in reverse. Some contracts let the PBM restate or claw back rebates already credited when utilization shifts, and the adjustment arrives as a reconciliation footnote months later. If your rebate history has never shown a negative line, check whether the contract allows one. The rebate report worksheet we use is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large payment check in deep teal-blue outline labeled "REBATE CREDIT" in IBM Plex Mono, tilted slightly, with a light-blue (#A7E0FA) fishhook and line hooked into its right edge, pulling it back toward the top-right corner; three short dashed motion lines behind the check showing the pull direction. Repeating perforation dots along the check's left edge for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The rebate posted." in deep teal-blue, "Then the contract took it back." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no dollar amounts, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 I had a medical plan administrator tell me he had never coordinated with a PBM on site-of-care. Not his fault. The structure did not have a seat at the table for the conversation. I sat between them for six months on a client engagement until the structure changed. Now they meet monthly without me. Building the habit was the work. Keeping it alive is easier once it exists.
 
 ## Thursday
@@ -836,43 +840,49 @@ New field note: where does your specialty script actually get filled? Your PBM p
 
 Read: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-A client called me confused about the difference between white bagging and brown bagging. I drew it on a napkin in a cafe: white bagging means the pharmacy sends the drug to the provider; brown bagging means the member picks up the drug and brings it to the provider. Both moved the claim to pharmacy benefit. Both had cost implications. The napkin ended up in her next board deck. Simple visuals travel.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Thursday LinkedIn one-way turnstile image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_29_thursday_network_configuration_audit_preview.png]`
+One company sets the reimbursement rate, owns the pharmacy being reimbursed, and writes the routing rules that send your script there. The FTC documented the affiliated-pharmacy rate gap in January 2025. This morning's field note has the three checks that show whether the steering is running on your plan. The network configuration worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A home infusion nurse told me she preferred her job over hospital infusion work because she could spend more time with each patient. That comment stayed with me. Site-of-care is usually a cost story. It is also a care-quality story in many cases. I try to include both in recommendations. The financial case is necessary. The clinical case matters for adoption.
 
 ## Friday
 
-**Morning (7-8 AM) — Origin Story #1:**
-Site-of-care is not glamorous content. But in terms of per-member savings potential, it is one of the highest-impact analyses we do. One routing change on one drug category can exceed the annual savings from months of formulary optimization. I keep returning to this topic because the math keeps proving it out. Different clients. Same pattern.
+**Morning (7-8 AM) — Reveal Note (owned-pharmacy steering; runs AFTER Thursday's LinkedIn post published):**
+Your PBM can pay its own specialty pharmacy more than it pays an independent for the identical drug. The FTC's January 2025 interim report documented the gap, with affiliated pharmacies reimbursed at multiples of independent rates on some specialty drugs. The same PBM's prior-auth and network rules then decide where the script fills. Price-setter, pharmacy owner, and traffic director are the same company. When specialty spend climbs and nobody can say why, the routing is the first page we pull.
 
-**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week: the PBM RFP. You sent 50 pages of questions. They sent 50 pages of answers. Neither document tells you what you will actually pay. 30 questions with answer scoring that cut through the noise.
+**Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: generate per prompt below; fallback templates/documents/week_25_thursday_rfp_scoring_audit_worksheet_preview.png]`
+You send the PBM RFP 50 pages of questions. The bidders send back 50 pages of answers. Neither document commits to what you will actually pay. Next week on Benefit Blind Spots: the 30 questions with answer scoring that separate a commitment from a paragraph. The RFP scoring worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: two thick document stacks facing each other with a wide gap between them: the left stack labeled "YOUR 50 QUESTIONS" in IBM Plex Sans SemiBold, deep teal-blue; the right stack labeled "THEIR 50 ANSWERS" in gray (#4D4D4D). In the gap, a large light-blue (#A7E0FA) question mark hovering over a short blank contract-signature line. Repeating page-edge lines along the side of each stack for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "100 pages exchanged." in deep teal-blue, "Zero prices promised." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A CFO asked me to simplify site-of-care into "one number" he could track. I gave him percent of infusion claims filed at hospital outpatient. Lower was better. He watched it monthly. Within six months the number was down substantially. Simple metrics drive behavior when the right person tracks them. The discipline came from him. I just named the number.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story #1:**
-Early in my career I assumed hospital-based care was always the gold standard. Years of data changed that. Hospital outpatient is right for clinically complex patients, initial infusions, and REMS-constrained therapies. For stable maintenance infusions, alternative settings are often equally appropriate and substantially less expensive. The gold-standard assumption was inertia dressed as quality.
+**Morning (8-9 AM) — Reveal Note (auto-renewal mechanics; runs AFTER Tuesday's Renewal Countdown post published):**
+Most PBM contracts renew themselves. If the termination-notice window passes, commonly 90 days before the effective date, the contract rolls forward on the terms already in front of you, with no meeting, no signature, and no negotiation. For a January 1 plan that makes the first days of October the real deadline, and August the month the work has to start. We see plans discover the window in November, a month too late to use it. The calendar is a contract term.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-White bagging is the site-of-care lever most employers have not explored. It moves a provider-administered drug from the medical benefit to the pharmacy benefit, capturing PBM-negotiated pricing instead of hospital markup. For a single infusion drug, the per-administration savings can be substantial.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_24_h1_renewal_readiness_scorecard_preview.png]`
+An unused renewal window is an agreement. If the notice date passes, you have accepted next year's terms without a conversation. The renewal readiness scorecard, five metrics that say whether you negotiate or react, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a single large calendar page in deep teal-blue outline showing only "JAN 1" in IBM Plex Mono, oversized; around the page, a circular arrow loop in light blue (#A7E0FA) curving from the page back onto itself, implying automatic renewal. Below the page, a small closed padlock icon in gray (#4D4D4D) labeled "TERMS LOCKED" in IBM Plex Sans SemiBold. Repeating short tick marks along the circular arrow for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Do nothing," in deep teal-blue, "and you have agreed." in light blue. NO calendar grid, no small dates, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A broker I work with keeps a list of which clients have done site-of-care reviews and which have not. She told me she uses it for prioritization during claims reviews. Good discipline. The plans that have never done it are almost always sitting on recoverable savings. The list tells her where to look first. I stole the list idea for my own practice.
 
 ## Sunday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A pharmacy student asked me once if site-of-care was "real pharmacy work." I told her: it is the intersection of clinical decision-making, contract interpretation, and member experience. Every piece is pharmacy. The fact that she even asked the question tells me the profession has not yet fully claimed this territory as its own. We should. The patients benefit when a pharmacist is in the room for site-of-care decisions.
+**Morning (8-9 AM) — Reveal Note (rebate clawback; runs AFTER Wednesday's video published):**
+The rebate check that cleared in March can shrink in September. Some PBM contracts reserve the right to restate rebates already credited when utilization shifts, drugs are reclassified, or manufacturer disputes settle, and the clawback arrives as a reconciliation footnote, not a phone call. This week's clip covered the version aimed at lifestyle and weight-loss utilization. If your rebate history has never shown a downward restatement, read whether the contract permits one before assuming it never will.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Site-of-care optimization requires coordination that most benefit structures are not built for. The drug is under pharmacy. The administration is under medical. Nobody owns the total cost. Your broker can bridge that gap by coordinating across PBM and medical plan vendors.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_19_fiduciary_documentation_checklist_preview.png]`
+A prudent pharmacy process only counts if it is on paper. Five document categories make up the file a fiduciary can stand behind: the analysis, the alternatives, the decision, the rationale, the follow-up. The documentation checklist is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large open folder in deep teal-blue outline labeled "THE FIDUCIARY FILE" in IBM Plex Sans SemiBold on its tab. Five tabbed documents rise from the folder in a staggered row, four in gray (#4D4D4D) outline and one highlighted in solid light blue (#A7E0FA); each tab carries a single small checkbox, with only the highlighted one checked. Repeating horizontal text-line marks on each document face for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Your process is prudent." in deep teal-blue, "Can you prove it on paper?" in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A client thanked me once for including her home health agency in the site-of-care conversation. She said most consultants leave them out. My view: they are the ones actually delivering the care. Excluding them produces plans that look good on paper and fail in practice. Invite the people who do the work into the planning. The plans get stronger and the members notice.
 
 ## Engagement Reply Templates
@@ -880,6 +890,21 @@ A client thanked me once for including her home health agency in the site-of-car
 **Template A:** "The site-of-care dimension of infusion cost is underexplored. The facility fee at a hospital outpatient department can multiply the administration cost beyond the drug itself. For stable maintenance patients, ambulatory and home settings produce the same outcome at a fraction of the cost."
 
 **Template B:** "One analysis worth running: top infusion drugs by total cost across settings. Drug cost plus administration cost, compared at hospital outpatient vs. ambulatory vs. home. The math usually makes the case without any additional argument."
+
+## Spare Notes (displaced by the Jul 24 restack-reset conform; hold for swap-ins or future weeks)
+
+_Drafted content preserved per the no-deletion rule. Use these if a scheduled slot needs a swap, or recycle into a future week's afternoon slots. The old Friday-midday forward look was absorbed into the Friday visual-note caption, not lost._
+
+- **Origin (was Mon midday):** As a clinical pharmacist I know the infusion setting does not change the drug's mechanism of action. An antibody infused at a hospital outpatient department works the same as one infused at home. The clinical evidence is clear. The cost evidence is even clearer. The barrier to site-of-care optimization is not science. It is structure.
+- **Origin (was Tue morning):** A rheumatologist asked me early in my career why hospital outpatient was the default for her stable infusion patients. My honest answer: inertia. The original referral pattern never got re-evaluated. She rebuilt her referral defaults with her staff the next week. The cost impact for her patients' plans was immediate. Defaults are powerful. Changing them is a practice-management decision, not a clinical one.
+- **Expertise (was Tue midday):** Three biggest site-of-care opportunities by therapeutic category: rheumatology infusions (highest volume, most straightforward transition), rare disease enzyme replacement (strong home infusion precedent), and select neurology infusions (after REMS requirements are met). Start with the category that matches your highest spend.
+- **Origin (was Wed midday):** My first site-of-care project as a consultant started because an HR director asked, "why is our infusion spending growing so fast?" Three weeks of claims review later, the answer was hospital outpatient routing. Nobody had decided on the setting. The setting had decided itself. Naming that inertia was the first step toward changing it. The second step was contract language.
+- **Origin (was Thu midday):** A client called me confused about the difference between white bagging and brown bagging. I drew it on a napkin in a cafe: white bagging means the pharmacy sends the drug to the provider; brown bagging means the member picks up the drug and brings it to the provider. Both moved the claim to pharmacy benefit. Both had cost implications. The napkin ended up in her next board deck. Simple visuals travel.
+- **Origin (was Fri morning):** Site-of-care is not glamorous content. But in terms of per-member savings potential, it is one of the highest-impact analyses we do. One routing change on one drug category can exceed the annual savings from months of formulary optimization. I keep returning to this topic because the math keeps proving it out. Different clients. Same pattern.
+- **Origin (was Sat morning):** Early in my career I assumed hospital-based care was always the gold standard. Years of data changed that. Hospital outpatient is right for clinically complex patients, initial infusions, and REMS-constrained therapies. For stable maintenance infusions, alternative settings are often equally appropriate and substantially less expensive. The gold-standard assumption was inertia dressed as quality.
+- **Expertise (was Sat midday; reveal-adjacent, strong swap-in candidate):** White bagging is the site-of-care lever most employers have not explored. It moves a provider-administered drug from the medical benefit to the pharmacy benefit, capturing PBM-negotiated pricing instead of hospital markup. For a single infusion drug, the per-administration savings can be substantial.
+- **Origin (was Sun morning):** A pharmacy student asked me once if site-of-care was "real pharmacy work." I told her: it is the intersection of clinical decision-making, contract interpretation, and member experience. Every piece is pharmacy. The fact that she even asked the question tells me the profession has not yet fully claimed this territory as its own. We should. The patients benefit when a pharmacist is in the room for site-of-care decisions.
+- **Expertise (was Sun midday):** Site-of-care optimization requires coordination that most benefit structures are not built for. The drug is under pharmacy. The administration is under medical. Nobody owns the total cost. Your broker can bridge that gap by coordinating across PBM and medical plan vendors.
 
 ---
 
