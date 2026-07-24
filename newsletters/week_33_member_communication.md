@@ -60,7 +60,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sat Aug 22 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
 | Sat Aug 22 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Aug 22 | 8:30 PM | X | aphorism [C10] | PART 4B · Sat | [ ] |
-| Sun Aug 23 | 8:00 AM | X | recipe / Rebate aggregator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 23 | 8:00 AM | X | recipe / Formulary exclusivity payment (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 10:00 AM | X | copay maximizer (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
 | Sun Aug 23 | 2:30 PM | X | GPO offshore rebate routing (Tier A) | PART 4B · Sun | [ ] |
@@ -1011,11 +1011,11 @@ If spread pricing were defensible, it would be a line on your report instead of 
 ```
 
 **Sun Aug 23**
-- **8:00 AM · recipe / Rebate aggregator (Tier A weekend Cuban-bait):**
+- **8:00 AM · recipe / Formulary exclusivity payment (Tier A weekend Cuban-bait):**
 ```
-Your PBM formed a separate company to negotiate rebates, hired itself as the client, and set the fee it pays itself. That fee comes out before your pass-through is measured. The structure has a name on the org chart and no line on your report.
+There is a payment category where the brand pays your PBM for its competitors' absence. Not a rebate for being covered. A fee for others being excluded. Your members pay brand copays so that fee can exist.
 ```
-  First reply (link): rxbs.org/toolkit/rebate-report-audit
+  First reply (link): rxbs.org/contract-language-library
 - **10:00 AM · copay maximizer (Tier A):**
 ```
 The maximizer captured every dollar the manufacturer card would pay this year. The program keeps a fee, often a percentage of "savings" it defines itself. Two numbers tell you if it works: what was captured, and what reached the plan. Most sponsors can produce neither.
@@ -1044,7 +1044,7 @@ A reader asked when to announce a formulary change. Earlier than feels necessary
 Ask your PBM which provisions survive termination. Data ownership, audit rights, true-up payments. The clauses that outlive the deal are the ones the PBM drafted most carefully.
 ```
 
-> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone follows the Q3 recipe rotation: weekday 8:00 AM = named program · hidden extraction recipe (Pass-through, Auto-renewal, Audit rights, MAC list, Manufacturer-fee reclassification), weekend 8:00 AM + Tier-A adds (10:00 AM + 2:30 PM) carry the strongest Cuban-bait shapes (Copay accumulator/maximizer + Rebate aggregator + clawback + NADAC/MAC + GPO offshore) ✓; 12:00 PM is the news-reaction HOLD with a decoder quiet-day backup; 5:00 PM rotates the punchy pool, Sun 5:00 PM is the one weekly origin ✓. Evening block: 7 question posts (7:00 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps; weekday runs 5 posts, weekend up to 7/day. Rotation tracked in `x_recipe_post_bank.md` + `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone follows the Q3 recipe rotation: weekday 8:00 AM = named program · hidden extraction recipe (Pass-through, Auto-renewal, Audit rights, MAC list, Manufacturer-fee reclassification), weekend 8:00 AM + Tier-A adds (10:00 AM + 2:30 PM) carry the strongest Cuban-bait shapes (Copay accumulator/maximizer + formulary exclusivity payment + clawback + NADAC/MAC + GPO offshore) ✓; 12:00 PM is the news-reaction HOLD with a decoder quiet-day backup; 5:00 PM rotates the punchy pool, Sun 5:00 PM is the one weekly origin ✓. Evening block: 7 question posts (7:00 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps; weekday runs 5 posts, weekend up to 7/day. Rotation tracked in `x_recipe_post_bank.md` + `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
 
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS
 

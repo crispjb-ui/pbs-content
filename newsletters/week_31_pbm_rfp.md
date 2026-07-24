@@ -48,23 +48,23 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Thu Aug 6 | 7:00 PM | X | question [A12] | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 8:30 PM | X | one question [B3] | PART 4B · Thu | [ ] |
 | Fri Aug 7 | 7-8 AM | Notes | Reveal note (market concentration; runs only AFTER Thursday's post published) | PART 4 · Fri | [ ] |
-| Fri Aug 7 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Fri | [ ] |
+| Fri Aug 7 | 8:00 AM | X | recipe / The J-code blind spot (Tier B) | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 8:30 AM | LI Feed | Post 116 — Clinical Program ROI tease (teases W32) | Post 116 | [ ] |
 | Fri Aug 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 7:00 PM | X | question [A13] | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 8:30 PM | X | origin-anchored [D8] | PART 4B · Fri | [ ] |
 | Sat Aug 8 | 8:00 AM | X | recipe / Specialty routing (Tier A) | PART 4B · Sat | [ ] |
-| Sat Aug 8 | 10:00 AM | X | step therapy (fail-first) (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 8 | 10:00 AM | X | rebate forfeiture at termination (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 2:30 PM | X | specialty exclusive distribution (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Aug 8 | 8:30 PM | X | aphorism [C4] | PART 4B · Sat | [ ] |
-| Sun Aug 9 | 8:00 AM | X | recipe / DIR fees (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 8:00 AM | X | recipe / Clawbacks, rebranded (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 10:00 AM | X | effective-rate true-up timing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
-| Sun Aug 9 | 2:30 PM | X | mid-year formulary change (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 9 | 2:30 PM | X | copay accumulator (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 9 | 8:30 PM | X | one question [B4] | PART 4B · Sun | [ ] |
@@ -970,11 +970,11 @@ Ask your PBM to define "pass-through" in writing, then ask which noun it attache
 ```
 
 **Fri Aug 7**
-- **8:00 AM · recipe / Copay optimization programs (Tier B):**
+- **8:00 AM · recipe / The J-code blind spot (Tier B):**
 ```
-"Copay optimization": the vendor pitch says it captures manufacturer dollars for the plan. The mechanics: your member's assistance card gets drained to the vendor and the PBM, and the member's deductible shows zero progress. Read who keeps what percentage. "Optimization" has an owner.
+Your PBM RFP prices the pharmacy benefit. Some of your most expensive drugs are not in it: provider-administered specialty bills the medical benefit under J-codes, outside every guarantee your committee is scoring. Ask each bidder, in writing, what they propose for the drugs the RFP cannot see.
 ```
-  - **First reply (link):** rxbs.org/toolkit/copay-card-calculator
+  - **First reply (link):** rxbs.org/toolkit/pbm-compensation
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Specialty pipeline questions belong in your RFP: which launches in the next 24 months hit your population, and how does the proposal price what does not exist yet? A contract that is silent on the pipeline was priced for last year's book.
@@ -1042,9 +1042,9 @@ Your PBM "guarantees" an effective discount, then reconciles it once a year, mon
 ```
 "Proprietary" is the word to circle in RFP answers. Proprietary clinical criteria, proprietary MAC list, proprietary savings methodology. Translation: you will be paying for outcomes you are not allowed to inspect.
 ```
-- **2:30 PM · mid-year formulary change (Tier A):**
+- **2:30 PM · copay accumulator (Tier A):**
 ```
-Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
+Accumulator terms surface in January, when a member finds the copay card paid all year and the deductible did not move. That is a communication failure, not a program failure, and it lands on HR at renewal. Pull the terms and the member notice now, while fixing both is cheap.
 ```
   First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
@@ -1061,7 +1061,10 @@ A reader asked how many PBMs belong in an RFP. Enough that the incumbent believe
 Ask your incumbent PBM one question this quarter: "If we ran a market check today, which of our terms would you defend as still competitive?" The list they name will be short. The list they do not name is the agenda.
 ```
 
-> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: auto-renewal, audit rights, MAC list control, manufacturer-fee reclassification, copay maximizer) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM specialty routing + DIR fees, plus the four 10 AM / 2:30 PM Tier-A adds: step therapy, specialty exclusive distribution, effective-rate true-up timing, mid-year formulary change) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat (Thu 5 PM swapped to the concentration-reveal amplifier that supports today's LinkedIn Post 115, scheduled after the 10 AM LinkedIn post per LinkedIn-first) + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
+> **Parked X bodies (Jul 24, 2026 Tier-A/Tier-B dedup pass):** displaced to fix sub-2-week concept repeats; each is a clean drafted variant, reusable as a quiet-day backup or future-week slot once spacing allows (check `x_recipe_post_bank.md` before reuse).
+> - _copay optimization programs (was Fri 8:00 AM):_ "Copay optimization": the vendor pitch says it captures manufacturer dollars for the plan. The mechanics: your member's assistance card gets drained to the vendor and the PBM, and the member's deductible shows zero progress. Read who keeps what percentage. "Optimization" has an owner.
+
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: auto-renewal, audit rights, MAC list control, manufacturer-fee reclassification, the J-code blind spot) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM specialty routing + clawbacks-rebranded, plus the four 10 AM / 2:30 PM Tier-A adds: rebate forfeiture at termination, specialty exclusive distribution, effective-rate true-up timing, copay accumulator) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat (Thu 5 PM swapped to the concentration-reveal amplifier that supports today's LinkedIn Post 115, scheduled after the 10 AM LinkedIn post per LinkedIn-first) + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
 
 
 # PART 5: PUBLISHING CHECKLIST

@@ -52,7 +52,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Fri Aug 28 | 7:00 PM | X | question [A2] | PART 4B · Fri | [ ] |
 | Fri Aug 28 | 8:30 PM | X | origin-anchored [D3] | PART 4B · Fri | [ ] |
 | Sat Aug 29 | 8:00 AM | X | recipe / Spread pricing (Tier A) | PART 4B · Sat | [ ] |
-| Sat Aug 29 | 10:00 AM | X | formulary exclusivity payment (Tier A) | PART 4B · Sat | [ ] |
+| Sat Aug 29 | 10:00 AM | X | rebate aggregator (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 2:30 PM | X | dispensing fee spread (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
@@ -61,7 +61,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Aug 30 | 8:00 AM | X | recipe / Specialty routing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 10:00 AM | X | price protection reclassification (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
-| Sun Aug 30 | 2:30 PM | X | copay accumulator (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 30 | 2:30 PM | X | mid-year formulary change (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 30 | 8:30 PM | X | one question [B3] | PART 4B · Sun | [ ] |
@@ -967,11 +967,11 @@ Found a "free implementation" clause this week that turned out to be amortized i
 Spread pricing survives on one assumption: that you will never ask the pharmacy what it was actually paid. Independent pharmacists will tell you. The gap on common generics is not small, and it repeats on every fill, all year.
 ```
   First reply (link): rxbs.org/toolkit/pbm-compensation
-- **10:00 AM · formulary exclusivity payment (Tier A):**
+- **10:00 AM · rebate aggregator (Tier A):**
 ```
-There is a payment category where the brand pays your PBM for its competitors' absence. Not a rebate for being covered. A fee for others being excluded. Your members pay brand copays so that fee can exist.
+Your PBM formed a separate company to negotiate rebates, hired itself as the client, and set the fee it pays itself. That fee comes out before your pass-through is measured. The structure has a name on the org chart and no line on your report.
 ```
-  First reply: rxbs.org/contract-language-library
+  First reply: rxbs.org/toolkit/rebate-report-audit
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 The cheapest audit you will ever run: circle the word "received" everywhere it appears in your rebate language. Every circle marks an exit where money can leave before it reaches you.
@@ -1010,9 +1010,9 @@ When a manufacturer hikes a list price, it pays your PBM "price protection" to c
 ```
 Meeting a rebate guarantee and maximizing your rebates are two different jobs. Your PBM signed up for the first one.
 ```
-- **2:30 PM · copay accumulator (Tier A):**
+- **2:30 PM · mid-year formulary change (Tier A):**
 ```
-Accumulator terms surface in January, when a member finds the copay card paid all year and the deductible did not move. That is a communication failure, not a program failure, and it lands on HR at renewal. Pull the terms and the member notice now, while fixing both is cheap.
+Your formulary can change mid-year. A drug your member depends on gets moved or dropped, often when a richer rebate appears elsewhere. You signed a plan in January. The PBM kept the right to rewrite it in June. Check the notice your contract actually requires.
 ```
   First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
@@ -1029,7 +1029,7 @@ A reader asked why specialty trend outruns everything else on their plan. Look a
 Give your PBM homework at the next review: "Define pass-through in writing, including the definition of every term used inside the definition." The recursion is where the money lives.
 ```
 
-> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone follows the Q3 recipe rotation: weekday 8:00 AM = named program · hidden extraction recipe (Copay maximizer, Formulary exclusions, GER gaming, Admin fee unbundling, Network access fee), weekend 8:00 AM + Tier-A adds (10:00 AM + 2:30 PM) carry the strongest Cuban-bait shapes (Spread pricing, Specialty routing, formulary exclusivity payment, dispensing fee spread, price protection reclassification, copay accumulator) ✓; 12:00 PM is the news-reaction HOLD with a decoder quiet-day backup; 5:00 PM rotates the punchy pool, Sun 5:00 PM is the one weekly origin ✓. Evening block: 7 question posts (7:00 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps; weekday runs 5 posts, weekend up to 7/day. Rotation tracked in `x_recipe_post_bank.md` + `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone follows the Q3 recipe rotation: weekday 8:00 AM = named program · hidden extraction recipe (Copay maximizer, Formulary exclusions, GER gaming, Admin fee unbundling, Network access fee), weekend 8:00 AM + Tier-A adds (10:00 AM + 2:30 PM) carry the strongest Cuban-bait shapes (Spread pricing, Specialty routing, rebate aggregator, dispensing fee spread, price protection reclassification, mid-year formulary change) ✓; 12:00 PM is the news-reaction HOLD with a decoder quiet-day backup; 5:00 PM rotates the punchy pool, Sun 5:00 PM is the one weekly origin ✓. Evening block: 7 question posts (7:00 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri) ✓. Newsjack/bridge (E/F) held for reactive bumps; weekday runs 5 posts, weekend up to 7/day. Rotation tracked in `x_recipe_post_bank.md` + `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
 
 
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS

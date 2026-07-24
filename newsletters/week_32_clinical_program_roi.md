@@ -62,7 +62,7 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Sun Aug 16 | 8:00 AM | X | recipe / White bagging (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 10:00 AM | X | DIR fees (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
-| Sun Aug 16 | 2:30 PM | X | specialty routing (Tier A) | PART 4B · Sun | [ ] |
+| Sun Aug 16 | 2:30 PM | X | alternative funding programs (Tier A) | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 5:00 PM | X | origin (1/week) | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Aug 16 | 8:30 PM | X | one question [B7] | PART 4B · Sun | [ ] |
@@ -993,9 +993,9 @@ Weeks after a prescription is filled, your PBM reaches back and takes a piece of
 ```
 A rebate guarantee is a floor, not a share. The PBM can collect far above the floor, keep the difference, and send you a report showing the floor being met.
 ```
-- **2:30 PM · specialty routing (Tier A):**
+- **2:30 PM · alternative funding programs (Tier A):**
 ```
-Run one report this month: specialty claims by dispensing pharmacy. Most plans we audit find the overwhelming share at the PBM's own specialty shop. Prior auth approves faster there. Refills sync there. That is not preference. That is plumbing.
+Alternative funding vendors can genuinely cut specialty spend, and we use the well-designed versions in client work. The part to verify before renewal: the fee is usually a percentage of "savings" the vendor defines itself, and the sourced dollars often come from charity programs that were means-tested for someone else. Ask for the fee math and the member path in writing.
 ```
   First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
@@ -1012,7 +1012,10 @@ A reader asked whether PA programs save money at all. Some do. The honest answer
 Ask your PBM one renewal question early: "Restate our per-member fees against actual enrollment, by quarter." Then watch whether the restatement ever moves in your favor.
 ```
 
-> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: formulary exclusions, GER gaming, admin fee unbundling, network access fee, drug reclassification) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM mail-order steering + white bagging, plus the four 10 AM / 2:30 PM Tier-A adds: spread pricing, rebate aggregator, DIR fees, specialty routing) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
+> **Parked X bodies (Jul 24, 2026 Tier-A/Tier-B dedup pass):** displaced to fix sub-2-week concept repeats; each is a clean drafted variant, reusable as a quiet-day backup or future-week slot once spacing allows (check `x_recipe_post_bank.md` before reuse).
+> - _specialty routing (was Sun 2:30 PM):_ Run one report this month: specialty claims by dispensing pharmacy. Most plans we audit find the overwhelming share at the PBM's own specialty shop. Prior auth approves faster there. Refills sync there. That is not preference. That is plumbing.
+
+> **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: weekday AM recipes (named program · hidden extraction, Tier B: formulary exclusions, GER gaming, admin fee unbundling, network access fee, drug reclassification) + weekend Tier A Cuban-bait recipes (Sat/Sun 8 AM mail-order steering + white bagging, plus the four 10 AM / 2:30 PM Tier-A adds: spread pricing, rebate aggregator, DIR fees, alternative funding programs) ✓ · midday news-reaction HOLDs with quiet-day decoder backups across all seven days ✓ · PM punchy pool Mon-Sat + the one weekly origin (Sun 5 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (capped 1/week, Fri 8:30 PM) ✓. Newsjack/bridge (E/F) held for reactive bumps. Weekday = 5 posts (8 AM / 12 PM / 5 PM / 7 PM / 8:30 PM); weekend = 7. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; pull any program forward to a same-hour reaction if it's in the news that week; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md`; nothing repeats inside ~2 weeks.
 
 
 # PARTS 5-7: CHECKLIST, ASSETS, METRICS
