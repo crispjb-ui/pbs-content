@@ -35,5 +35,8 @@ cd templates/documents && python3 _audit_pdfs.py
 - The 4 approved 3-page exceptions live in the script's `EXPECT3` set; extend it only with a documented reason.
 - Confirm each `<name>_preview.png` was produced.
 
+## Step 5b — Vault Ledger recall (substack_toolkit_vault.md)
+For every PDF re-rendered in this run that has a row in the Vault Ledger in `substack_toolkit_vault.md`: flip its Status to `STALE (re-rendered <date>) — re-attach at next vault refresh` in the SAME commit. If a brand-new toolkit was minted, ADD a ledger row (`NOT YET ATTACHED`) and a matching line in the right section of the post body between the paste markers. This is what lets the paid-subscriber Vault post get refreshed accurately later; skipping it silently breaks the recall mechanism.
+
 ## Step 5 — Report + commit
 List each toolkit rendered, its page count, and any over-2-page flags. If run interactively, `git add` the HTML+PDF+PNG triplet(s) and commit together (CLAUDE.md: never let HTML/PDF/PNG diverge on main); mention the HTML change + the re-render in the message. If run in CI, leave the commit to the workflow step.
