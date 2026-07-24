@@ -16,7 +16,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Mon Sep 7 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
 | Mon Sep 7 | 7:00 PM | X | question [A12] | PART 4B · Mon | [ ] |
 | Mon Sep 7 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
-| Tue Sep 8 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Tue | [ ] |
+| Tue Sep 8 | 8:00 AM | X | recipe / Facility fee markup (Tier B) | PART 4B · Tue | [ ] |
 | Tue Sep 8 | 8:30 AM | LI Feed | Post 133 — "Three Clauses Behind Every Q4 Cost Pattern" (Library 06 Contract Comparison) | Post 133 | [ ] |
 | Tue Sep 8 | 8:35 AM | LI Feed | Post 133 first comment (Contract Language Library) | Post 133 | [ ] |
 | Tue Sep 8 | 12:00 PM | X | news-reaction HOLD | PART 4B · Tue | [ ] |
@@ -54,7 +54,7 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Sep 13 | 8:00 AM | X | recipe / Copay accumulator (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 10:00 AM | X | spread pricing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
-| Sun Sep 13 | 2:30 PM | X | mail-order steering (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 13 | 2:30 PM | X | point-of-sale clawback (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Sep 13 | 8:30 PM | X | one question [B9] | PART 4B · Sun | [ ] |
@@ -813,11 +813,11 @@ The PBM sits on both sides of your drug transaction and bills you for the seat i
 ```
 
 **Tue Sep 8**
-- **8:00 AM · recipe / Copay maximizer (Tier B):**
+- **8:00 AM · recipe / Facility fee markup (Tier B):**
 ```
-A maximizer does three things with the manufacturer copay card: sets the copay to the card's annual limit, captures the value month by month, and takes a vendor fee from the proceeds. All three can be fine. The red flag is when nobody can tell you the fee or the plan's share.
+A red flag no pharmacy contract shows you: the same infusion carries a facility fee at hospital outpatient that can exceed the drug itself, and every PBM guarantee stops at the pharmacy benefit's edge. If your contract never says where infused drugs should be administered, that silence is a price.
 ```
-  First reply (link): rxbs.org/toolkit/copay-card-calculator
+  First reply (link): rxbs.org/toolkit/channel-pricing
 - **12:00 PM · news-reaction HOLD** (fire same-hour on breaking PBM news; tag the source). Quiet-day backup:
 ```
 Weak audit language is the red flag that hides all the others. If the PBM controls the auditor, the scope, and the data, then every other clause in the contract is a promise nobody can check.
@@ -958,9 +958,9 @@ The pharmacy was paid a few dollars to fill the generic. Your plan was billed se
 ```
 The company that actually collects your PBM's drug rebates is registered in Switzerland. Another's in Ireland. Both owned by your PBM. "100% pass-through" starts only after that offshore aggregator takes its cut.
 ```
-- **2:30 PM · mail-order steering (Tier A):**
+- **2:30 PM · point-of-sale clawback (Tier A):**
 ```
-The refill-too-soon edits, the 90-day copay incentives, the "convenience" letters to members: read them together and they all point the same direction, toward the mail pharmacy the PBM owns. Steering is never one memo. It is architecture.
+Some copays are not cost sharing. They are revenue. The member pays more at the counter than the claim costs the plan, and the PBM sweeps the overage. Pharmacists were once contractually barred from mentioning it. Ask your PBM whether copay overages ever touched your plan's claims, and where they went.
 ```
   First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
@@ -976,6 +976,9 @@ A reader asked if a bad contract can be fixed mid-term. Sometimes, at a price. T
 ```
 Ask your PBM which months your generic rate missed the guarantee. Not the year. The months. Annual averages are where the misses go to be forgiven.
 ```
+
+> **Parked X bodies (Jul 24, 2026 Tier-A/Tier-B dedup pass):** displaced to fix sub-2-week concept repeats; each is a clean drafted variant, reusable as a quiet-day backup or future-week slot once spacing allows (check `x_recipe_post_bank.md` before reuse).
+> - _copay maximizer (was Tue 8:00 AM):_ A maximizer does three things with the manufacturer copay card: sets the copay to the card's annual limit, captures the value month by month, and takes a vendor fee from the proceeds. All three can be fine. The red flag is when nobody can tell you the fee or the plan's share.
 
 > **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: 7 recipe / named-program AM posts (Mon-Fri 8 AM weekday Tier B, Sat/Sun 8 AM Tier A Cuban-bait) ≈ 40% ✓ · 5 weekday midday news-reaction HOLDs with decoder/stat-shock quiet-day backups (MAC/WAC/AWP, audit clause, three-PBM concentration, pass-through noun, effective-rate average) ✓ · 5 punchy PM anchors (Mon/Tue/Wed/Fri/Sat 5 PM) + 1 reveal amplifier (Thu 5 PM, the 600+/private-label formulary reveal, scheduled AFTER the 10 AM LinkedIn post per LinkedIn-first) + 1 origin (Sun 5 PM, capped) ✓. Weekend Tier-A Cuban-bait recipes: 4 (Sat 10 AM + 2:30 PM, Sun 10 AM + 2:30 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (Fri 8:30 PM, capped 1/week) ✓. Newsjack/bridge (E/F) held for reactive bumps; midday HOLDs bump to live reactions when PBM news lands. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md` + `x_recipe_post_bank.md`; nothing repeats inside ~2 weeks.
 

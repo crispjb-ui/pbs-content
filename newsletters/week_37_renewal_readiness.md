@@ -48,14 +48,14 @@ _**Rebuild note (Sep 2026, Q3-surge finale):** The **Thursday reach slot (Post 1
 | Sat Sep 19 | 8:00 AM | X | recipe / Rebate aggregator (Tier A weekend Cuban-bait) | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 10:00 AM | X | DIR fees (Tier A) | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
-| Sat Sep 19 | 2:30 PM | X | white bagging (Tier A) | PART 4B · Sat | [ ] |
+| Sat Sep 19 | 2:30 PM | X | price protection reclassification (Tier A) | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 5:00 PM | X | punchy | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 7:00 PM | X | redline [H-fresh] | PART 4B · Sat | [ ] |
 | Sat Sep 19 | 8:30 PM | X | aphorism [C2] | PART 4B · Sat | [ ] |
-| Sun Sep 20 | 8:00 AM | X | recipe / Spread pricing (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 8:00 AM | X | recipe / Prior authorization as a fee engine (Tier A weekend Cuban-bait) | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 10:00 AM | X | specialty routing (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sun | [ ] |
-| Sun Sep 20 | 2:30 PM | X | point-of-sale clawback (Tier A) | PART 4B · Sun | [ ] |
+| Sun Sep 20 | 2:30 PM | X | mail-order steering (Tier A) | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 5:00 PM | X | origin (the one allowed this week) | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 7:00 PM | X | reader question [I-fresh] | PART 4B · Sun | [ ] |
 | Sun Sep 20 | 8:30 PM | X | one question [B2] | PART 4B · Sun | [ ] |
@@ -1195,9 +1195,9 @@ Ask a community pharmacist about DIR fees and watch their face. The PBM claws mo
 ```
 Your contract prices brands off one benchmark, generics off another, and reconciles the guarantee on a third. Three dials, one hand turning all of them. Readiness means knowing which dial governs which line before the proposal lands.
 ```
-- **2:30 PM · white bagging (Tier A):**
+- **2:30 PM · price protection reclassification (Tier A):**
 ```
-"Site of care optimization" is the brochure name. The policy underneath: the clinic may no longer buy the specialty drug, it must arrive from the PBM's own pharmacy, and the margin travels with it. White bagging did not make the drug cheaper. It changed who gets paid for it. Read the mandate before renewal locks it in for another term.
+Renewal homework with a deadline: find "price protection" in your rebate definition. Manufacturers pay your PBM when list prices jump. If those payments sit outside the definition, the PBM pockets the cushion while your plan absorbs every increase. One included phrase moves real money next year.
 ```
   First reply: rxbs.org/contract-language-library
 - **5:00 PM · punchy:**
@@ -1215,11 +1215,11 @@ Renewal isn't where you win the contract. It's where you collect on the preparat
 ```
 
 **Sun Sep 20**
-- **8:00 AM · recipe / Spread pricing (Tier A weekend Cuban-bait):**
+- **8:00 AM · recipe / Prior authorization as a fee engine (Tier A weekend Cuban-bait):**
 ```
-Spread pricing survives on one assumption: that you will never ask the pharmacy what it was actually paid. Pharmacists know their number to the penny. The distance between their number and your invoice is the PBM's quietest revenue line.
+Prior authorization bills your plan twice: once as a clinical safeguard, once as a fee line. The reviews cost money to run, the denials cost members and prescribers time, and appeals overturn a meaningful share of what was denied. Ask for two numbers at renewal: what PA cost to administer last year, and what it verifiably avoided. Only one of them arrives quickly.
 ```
-  First reply (link): rxbs.org/toolkit/pbm-compensation
+  First reply (link): rxbs.org/toolkit/pa-roi-audit
 - **10:00 AM · specialty routing (Tier A):**
 ```
 Specialty is now the biggest share of most plans' drug spend, and most of it fills at a pharmacy the PBM owns. Members did not choose that. The prior-auth pathway routes there by default. Before renewal, price the alternative routing. Then decide whether the default deserves to survive.
@@ -1229,9 +1229,9 @@ Specialty is now the biggest share of most plans' drug spend, and most of it fil
 ```
 3 PBMs process about 80% of US prescriptions, up from 52% in 2004. The same 3 own the pharmacies filling ~70% of specialty spend. That is the leverage reality you negotiate inside of.
 ```
-- **2:30 PM · point-of-sale clawback (Tier A):**
+- **2:30 PM · mail-order steering (Tier A):**
 ```
-Some copays are not cost sharing. They are revenue. The member pays more at the counter than the claim costs the plan, and the PBM sweeps the overage. Pharmacists were once contractually barred from mentioning it. Ask your PBM whether copay overages ever touched your plan's claims, and where they went.
+The refill-too-soon edits, the 90-day copay incentives, the "convenience" letters to members: read them together and they all point the same direction, toward the mail pharmacy the PBM owns. Steering is never one memo. It is architecture.
 ```
   First reply: rxbs.org/contract-language-library
 - **5:00 PM · origin (the one allowed this week):**
@@ -1247,6 +1247,10 @@ A reader asked what to do 90 days out with nothing prepared. Triage: pull the co
 ```
 Put one row at the top of your renewal spreadsheet: manufacturer dollars generated by our plan versus manufacturer dollars received by our plan. The delta between those two cells is the entire negotiation.
 ```
+
+> **Parked X bodies (Jul 24, 2026 Tier-A/Tier-B dedup pass):** displaced to fix sub-2-week concept repeats; each is a clean drafted variant, reusable as a quiet-day backup or future-week slot once spacing allows (check `x_recipe_post_bank.md` before reuse).
+> - _spread pricing (was Sun 8:00 AM):_ Spread pricing survives on one assumption: that you will never ask the pharmacy what it was actually paid. Pharmacists know their number to the penny. The distance between their number and your invoice is the PBM's quietest revenue line.
+> - _white bagging (was Sat 2:30 PM):_ "Site of care optimization" is the brochure name. The policy underneath: the clinic may no longer buy the specialty drug, it must arrive from the PBM's own pharmacy, and the margin travels with it. White bagging did not make the drug cheaper. It changed who gets paid for it. Read the mandate before renewal locks it in for another term.
 
 > **Content-mix check (39 scheduled posts: 5/weekday + 7/weekend).** Daytime backbone: 7 recipe / named-program AM posts (Mon-Fri 8 AM weekday Tier B, Sat/Sun 8 AM Tier A Cuban-bait) ≈ 40% ✓ · 5 weekday midday news-reaction HOLDs with decoder/stat-shock quiet-day backups (audit clause, three-PBM concentration, pass-through noun, effective-rate average, GLP-1 rebate) ✓ · 5 punchy PM anchors (Mon, Tue, Wed, Fri, Sat 5 PM) + 1 reform-wave reveal (Thu 5 PM, amplifies LI Post 139, the Thursday reveal, after it publishes per LinkedIn-first) + 1 origin (Sun 5 PM, capped) ✓. Weekend Tier-A Cuban-bait recipes: 4 (Sat 10 AM + 2:30 PM, Sun 10 AM + 2:30 PM) ✓. Evening block: 7 question posts (7 PM, evergreen/schedulable) + 3 aphorisms + 3 one-questions + 1 origin-anchored (Fri 8:30 PM, capped 1/week) ✓. Newsjack/bridge (E/F) held for reactive bumps; midday HOLDs bump to live reactions when PBM news lands. Weekend Tier A per the Q3 rotation in `x_recipe_post_bank.md`; when Cuban reposts a weekend Tier A post, re-pin it and thread a second Tier A program within the hour. Rotation tracked in `x_evening_block_bank.md` + `x_recipe_post_bank.md`; nothing repeats inside ~2 weeks.
 
