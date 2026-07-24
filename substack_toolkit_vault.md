@@ -234,6 +234,16 @@ _Excluded by design: `broker_partner_one_pager.pdf` (BD asset, not a toolkit) an
 |---|---|---|
 | _Pending: first publish_ | Initial 29-toolkit vault | ⬜ |
 
+## Post-publish restack Note (paste-ready)
+
+_After the Vault post is live: restack it and paste this as the restack note (the standard launch-day move). The restack embeds the locked post card, so free subscribers see the perk exists — the note IS the upgrade ad. One-time; the Vault does not join the recurring Notes rotation._
+
+```
+A paid subscriber asked why the toolkit library lived behind an email form. Fair question. So for paid subscribers, it no longer does: every Plan Sponsor Toolkit we publish, 29 worksheets and frameworks, now sits in one post with the PDFs attached. No forms, nothing to request, and it updates in place as the library grows. The library stays free at rxbs.org for anyone willing to trade an email address. The vault is the no-friction version, for the people who back the work.
+```
+
+_The "29" is fine here (a Note is ephemeral, unlike the header image). No LinkedIn or X promotion for this — a paid-perk pitch is off-register for the feed strategy, and the paid-Substack hold means we don't spend reach on it; the locked preview in the Notes feed and the next Practitioner's Note mention carry it._
+
 ## Ginny's reply to Nick (paste-ready, voice-checked)
 
 ```
