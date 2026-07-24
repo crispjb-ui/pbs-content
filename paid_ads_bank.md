@@ -63,6 +63,17 @@ _Each: objective, audience, offer, two hook/copy variants for A/B, creative dire
 
 > **Head-to-head note:** AD-6 and AD-7 are deliberate counters to the one active direct competitor. The shared wedge across both is **genuine independence (not broker-owned) + a specific sourced mechanism (not a round savings range) + a self-serve toolkit (not a book-a-call assessment)**. Never attack the broker (brand rule); lead with what PBS *is* (truly independent, founder-led, contract-specific), not what the competitor is.
 
+### AD-8 — RFP / renewal-season lane (counters Innovative Rx's "Make a PBM RFP part of your 2026 strategy") — added Jul 24, 2026
+- **Why:** the Jul 24 sweep found the one active direct advertiser (Innovative Rx / Apex) leaning into an **RFP + renewal-season push** ("pharmacist-led team, proven RFP process to secure the best pricing," a "saved over 50%" case claim) on top of its standing savings-% lane. This is timed to the Sep-Oct notice windows. PBS beats it on the same three axes as AD-6/7, plus a seasonal-precision wedge: **you don't need to hire the RFP; you can score the responses yourself, then decide.**
+- **Objective:** lead-gen (toolkit download) · **Format:** Sponsored single-image / document ad → `rxbs.org/toolkit/rfp-scoring-audit` (or `rxbs.org/toolkit/pre-meeting-renewal-checklist` / `optimize-vs-go-to-market` as A/B destinations).
+- **Audience:** CFO / VP Finance / Benefits Director / HR Director, self-funded employers 200-10,000+, US. Exclude PBM employees. **Timing:** ready to launch late Aug so it runs through the Sep-Oct notice-window peak (the 90-day-before-Jan-1 decision window).
+- **Offer:** RFP Scoring Methodology Audit (self-serve download — score PBM RFP responses on what actually matters, no call required).
+- **Hook A (out-specific the round claim):** "'A proven RFP process' is what every consultant says. Here is the scoring sheet that tells you which PBM response actually wins, line by line." **Hook B (renewal-window urgency):** "Your January 1 renewal closes its notice window in early October. Score the PBM's RFP response before you sign, not after."
+- **Body must carry the independence line:** Prescription Benefit Solutions takes no money from anyone in the pharmacy supply chain and is not owned by a broker, so the RFP scoring answers to the plan, not to a placement. An independent pharmacist (PharmD) built the scoring sheet from hundreds of PBM contract reviews. (Add the verified $78.7M / 25% RFP rate per the AD-5 guardrails once the proof page is live.)
+- **Creative:** clean conceptual infographic (a scorecard where the "winner flips" once real terms are scored) or the `rfp-scoring-audit` toolkit preview PNG. Plex Sans, Primary Blue, clinical register. No fabricated figures (the "50%" is theirs, not PBS's — PBS never copies an unsourced round number). **Status:** concept ready · **Performance:** _TBD (not live)._
+
+> **Seasonal note:** AD-8 is the renewal-window sibling of AD-6/7 and pairs with the AD-4 September retargeting skin (`/renewal-second-opinion`). Launch order if the CFO test (AD-6) scales: run AD-8 as the Sep-Oct seasonal push while the warm AD-4 retargeting pool (built from the Insight Tag) turns on. It gives the renewal season a cold-acquisition entry (AD-8) feeding the warm re-engagement play (AD-4).
+
 ---
 
 ## "What keeps you up at night" ad series (anxiety-led, added Jun 23, 2026)
@@ -113,6 +124,9 @@ _Once campaigns run, paste the LinkedIn Campaign Manager export here per ad: spe
 | _(none yet — pre-launch)_ | | | | | | | | |
 
 ## Changelog
+### 2026-07-24 (monthly `/ads-research` — RFP/renewal counter-lane from the July sweep)
+- Added **AD-8 (RFP / renewal-season lane)** wired to the live `rfp-scoring-audit` toolkit, countering Innovative Rx's Jul 24 PBM-RFP / renewal push and its "saved over 50%" round-number claim. Wedge: self-serve scoring tool + genuine independence + specific mechanism, timed to the Sep-Oct notice windows; pairs with the AD-4 September retargeting skin. Still pre-launch — the AD-8 launch (and the AD-6 → AD-8 seasonal sequencing) is proposed to OPEN_ITEMS for Ginny's approval, never auto-spent. Sweep found no new *verified* competitor creatives (Ad Library still fetch-blocked); Jun 27 manual sweep remains ground truth. Source: `competitor_ad_teardown.md` Jul 24 entry.
+
 ### 2026-06-27 (head-to-head concepts from the verified Apex/Innovative Rx teardown)
 - Added **AD-6 (CFO/cost lane)** and **AD-7 (HR/retention lane)**, built to counter the only active direct-competitor advertiser, Innovative Rx Strategies (verified broker-owned by Apex Benefits, 2022). Shared wedge: genuine independence (not broker-owned) + specific sourced mechanism (not a round savings range) + self-serve toolkit (not a book-a-call assessment). Launch of the AD-6/AD-7 head-to-head test proposed to OPEN_ITEMS for Ginny's approval (never auto-spent). Source: manual Ad Library sweep + `competitor_ad_teardown.md` Jun 27 entry.
 
