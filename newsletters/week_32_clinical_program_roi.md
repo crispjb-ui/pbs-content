@@ -14,9 +14,9 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Sun Aug 9 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Aug 10 | 7:30 AM | Substack | Deep dive: "Clinical Program ROI: Measuring What Your PBM Claims to Deliver" | PART 1 | [ ] |
 | Mon Aug 10 | 7:45 AM | LI Newsletter | Clinical Program Briefing (Issue #27) | PART 2 | [ ] |
+| Mon Aug 10 | 7-8 AM | Notes | Note #1 launch teaser (restack-with-note on the live deep dive) | PART 4 · Mon | [ ] |
 | Mon Aug 10 | 8:00 AM | X | recipe / Formulary exclusions (Tier B) | PART 4B · Mon | [ ] |
 | Mon Aug 10 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
-| Mon Aug 10 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Aug 10 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
 | Mon Aug 10 | 7:00 PM | X | question [A16] | PART 4B · Mon | [ ] |
 | Mon Aug 10 | 8:30 PM | X | aphorism [C5] | PART 4B · Mon | [ ] |
@@ -28,31 +28,30 @@ _**Thursday-reach rebuild note (this session):** the former Thursday Slot A "5 F
 | Tue Aug 11 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Aug 11 | 7:00 PM | X | question [A1] | PART 4B · Tue | [ ] |
 | Tue Aug 11 | 8:30 PM | X | one question [B5] | PART 4B · Tue | [ ] |
+| Wed Aug 12 | 7-8 AM | Notes | Roundup launch teaser (restack-with-note on the live roundup) | PART 4 · Wed | [ ] |
 | Wed Aug 12 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Wed | [ ] |
 | Wed Aug 12 | 8:30 AM | LI Feed | Post 118 — SHRM clip2 "1 in 12" (GLP-1 persistence) · NATIVE 9:16 VIDEO; first comment → drug-pipeline toolkit | Post 118 | [ ] |
 | Wed Aug 12 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
-| Wed Aug 12 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 12 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Aug 12 | 7:00 PM | X | question [A2] | PART 4B · Wed | [ ] |
 | Wed Aug 12 | 8:30 PM | X | aphorism [C6] | PART 4B · Wed | [ ] |
 | Thu Aug 13 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up the Sickest Member's Generic the Most?" | PART 1B | [ ] |
+| Thu Aug 13 | 7-8 AM | Notes | Field Note launch teaser (restack-with-note on the live field note) | PART 4 · Thu | [ ] |
 | Thu Aug 13 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 8:30 AM | LI Feed | Post 119 — "Your PBM Marks Up the Sickest Member's Drugs the Most" (Severity Ladder conceptual infographic, Slot A) | Post 119 | [ ] |
 | Thu Aug 13 | 8:35 AM | LI Feed | Post 119 first comment | Post 119 | [ ] |
 | Thu Aug 13 | 12:00 PM | X | Thu-visual amplifier [VISUAL: sickest-member markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 1:30 PM | LI Company | Reshare of Post 119 | Post 119 Reshare | [ ] |
-| Thu Aug 13 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 13 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 7:00 PM | X | question [A3] | PART 4B · Thu | [ ] |
 | Thu Aug 13 | 8:30 PM | X | one question [B6] | PART 4B · Thu | [ ] |
+| Fri Aug 14 | 7-8 AM | Notes | Reveal note (sickest-member markup; runs only AFTER Thursday's post published) | PART 4 · Fri | [ ] |
 | Fri Aug 14 | 8:00 AM | X | recipe / Drug reclassification (Tier B) | PART 4B · Fri | [ ] |
 | Fri Aug 14 | 8:30 AM | LI Feed | Post 120 — Tease Hook (teases W33) | Post 120 | [ ] |
 | Fri Aug 14 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Aug 14 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 14 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 14 | 7:00 PM | X | question [A4] | PART 4B · Fri | [ ] |
 | Fri Aug 14 | 8:30 PM | X | origin-anchored [D1] | PART 4B · Fri | [ ] |
-| Sat Aug 15 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
 | Sat Aug 15 | 8:00 AM | X | recipe / Mail-order steering (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 15 | 10:00 AM | X | spread pricing (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 15 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
@@ -703,96 +702,120 @@ Get next Monday's deep dive on Member Communication in your inbox: benefitblinds
 
 # PART 4: SUBSTACK NOTES (Daily Schedule)
 
-> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+> **Instructions (revised July 15, 2026 — restack-reset trial week 4 of 4, per `substack_notes_plan_2026_07.md`; W32 conformed to the W29 structure Jul 24, 2026; the mid-Aug read-out lands this week — log restacks + app-source subs via /log-metrics before deciding the rule-of-record change):** Post 3 Notes per day via the scheduler. Slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu — and the teaser posts as a RESTACK-WITH-NOTE on the live article, never a scheduled Note (Brett, Jul 16): once the piece is live, restack it and paste the teaser as the note, dropping the [LINK] line since the restack embeds the article card; /first-comments-today surfaces this daily). **Midday = visual note** (each carries a generation prompt in the PBS flat-design recipe — generate the creative visual when time allows; the `[VISUAL]` flag names a library fallback PNG for when it doesn't; the caption says what the visual proves, never "new post out"). **Afternoon = origin/personal** (unchanged, the warmth/conversion layer). **Reveal-reservation inside this week:** the sickest-member markup fact (FTC specialty-generic markups by disease) runs only AFTER Thursday's LinkedIn reveal publishes (Fri morning slot); the quarterly-report-gaps angle only AFTER Tuesday's Post 117 (Sat morning slot); Tuesday morning amplifies the published Monday deep dive; Sunday's abandonment metric is week-native content with no LinkedIn slot to scoop. **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced drafts are parked in the Spares block below, not deleted.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Launch Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser (post as RESTACK-WITH-NOTE on the live article; drop the link line):**
 A PBM reported $4.2 million in clinical program savings. Verified, the real number was a fraction of that, and the gap was not arithmetic. It was methodology the plan had never been shown. This week's deep dive walks through all six program types, with the evaluation scorecard we use in audits.
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-As a pharmacist I believe in clinical programs. PA, step therapy, DUR: these tools exist for good reasons. But as a consultant I have learned to verify the math. The gap between reported and verified clinical savings is consistent across almost every audit we conduct. Believing in the programs and verifying the numbers are not contradictory. They are complementary.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_16_pa_roi_audit_scorecard_preview.png]`
+Reported clinical savings and verified clinical savings are two different numbers on almost every audit we run. The gap is not arithmetic. It is methodology: avoided costs that were never going to occur, patent expirations credited to programs, overridden alerts counted as interventions. The PA ROI scorecard, the same verification discipline applied to prior authorization, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: two vertical bars side by side on a shared baseline: the left bar TALL, solid light blue (#A7E0FA), labeled "REPORTED" in IBM Plex Sans SemiBold; the right bar much shorter, solid deep teal-blue, labeled "VERIFIED". Between the bar tops, a bracket in gray (#4D4D4D) spanning the height difference, pointing to a bold gray label "METHODOLOGY". Repeating horizontal gridline ticks behind the bars for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The savings were reported." in deep teal-blue, "The gap was the method." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no dollar figures, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 I reviewed a PBM's clinical savings report that claimed credit for a formulary-driven shift to generics under their "clinical management program." The shift happened because the brand went off-patent, not because the PBM intervened. The program claimed the savings. I have been skeptical of uncredited methodology ever since. Asking "what caused this specifically" is a muscle every plan sponsor should build.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Origin Story #1:**
-A pharmacist friend who worked at a PBM once showed me how clinical savings got calculated in her department. The inputs were reasonable. The multipliers were where the embellishment lived. She said the pressure to produce a big number was constant. That conversation taught me to ask about multipliers explicitly. Every PBM uses them. Some use them conservatively. Others do not.
+**Morning (7-8 AM) — Reveal Note (alert-counting methodology; amplifies the published Monday deep dive):**
+Every drug-interaction alert your PBM's system fires can be booked as a clinical savings event, including the ones the pharmacist overrides because the prescriber already weighed the interaction. Count every alert, multiply by an assumed avoided cost, and the program produces millions on paper without changing a single outcome. Yesterday's deep dive walks through all six program methodologies. The verified number and the reported number agree on almost none of the audits we run at Prescription Benefit Solutions, and the fix starts with one request: the sample calculation.
 
-**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
-Six programs. Six methodologies. The one that inflates the most consistently: DUR. Most drug interaction alerts are overridden by pharmacists because the prescriber already considered the interaction. Counting every alert as a savings event is not measurement. It is marketing.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Tuesday LinkedIn "4 Things Your PBM's Quarterly Report Does Not Show" Ledger Annotated image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_21_quarterly_reporting_checklist_preview.png]`
+A quarterly report is a scorecard the PBM grades itself on, using definitions the PBM wrote. What it shows is accurate. What it omits is the meeting. The quarterly reporting checklist, the 15-line audit frame plus the paste-ready broker data request, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A benefits director asked me whether she should trust her PBM's clinical savings report. My answer: trust, but request the sample calculation. If the PBM can produce it, the number has a foundation. If they cannot, the number has a marketing department. She asked. The PBM produced. The number held up. That outcome is possible when the question gets asked clearly.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Roundup Launch Teaser:**
+**Morning (7-8 AM) — Roundup Launch Teaser (post as RESTACK-WITH-NOTE on the live roundup; drop the link line):**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-A client's CFO challenged me on clinical program savings by asking whether the verification "really mattered" when the dollar amounts were small relative to total pharmacy spend. I pulled out the methodology document. The dollar amounts were not small when added up across six programs over a three-year contract term. The compounding impact was substantial. His perspective changed. Small-looking numbers add up when they repeat.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_18_drug_pipeline_watch_list_preview.png]`
+The GLP-1 conversation in plan budgets is about who starts therapy. The claims data conversation is about who stays on it, and the two numbers are nowhere near each other. Persistence, not initiation, is where the outcome math lives. This morning's clip covers the number. The drug pipeline watch list, the therapies that will move plan spend next, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a descending staircase of six pill-capsule icons stepping down from upper left to lower right: the first capsule large and solid light blue (#A7E0FA), each subsequent capsule smaller and fainter, the last rendered as a barely-visible gray outline. Under the staircase, a single horizontal timeline arrow in deep teal-blue with repeating month tick marks (no month names, no numbers). Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Starting is easy." in deep teal-blue, "Staying is the math." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A nurse I worked with at a clinic called me furious once about a step therapy denial for a patient who clearly needed the target drug. I looked at the override process. It was byzantine by design. We wrote a shorter override protocol, walked it through with the PBM, and the next denial went through in hours instead of weeks. Clinical friction is often a contract design problem. Redesigning the contract fixes the friction.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Launch Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser (post as RESTACK-WITH-NOTE on the live field note; drop the link line):**
 New field note: the FTC found the specialty generics the big-3 PBMs mark up the most are the generics for leukemia, MS, transplant, renal disease, and HIV. The markup scales with how sick your member is. Here is how to audit where it landed on your own plan: pull the claims, sort by filling pharmacy, compare against the public acquisition benchmark.
 
 Read: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I built my first clinical program audit framework for a client whose CFO did not believe a PBM could overstate savings by an order of magnitude. We ran the audit. The overstatement was real, documented, and defensible to challenge. He paid for the audit twice over in the true-up negotiation that followed. His skepticism became permanent after that engagement. Some lessons cost money to learn.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Thursday LinkedIn Severity Ladder conceptual infographic — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_22_thursday_specialty_routing_audit_worksheet_preview.png]`
+The FTC's January 2025 report documented which specialty generics carry the largest PBM markups: the drugs for leukemia, MS, transplant, renal disease, and HIV. The sicker the member, the bigger the margin. This morning's field note shows how to check your own claims. The specialty routing worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A PBM clinical pharmacist at one of my client's account teams told me she appreciated the rigor of my audit because it made her internal case for better methodology. Not every PBM employee is defending bad numbers. Some of them want better. Making space for the honest people inside the vendor is part of how the system gets better over time. I try to do that in every audit.
 
 ## Friday
 
-**Morning (7-8 AM) — Origin Story #1:**
-Early in my career I assumed clinical programs were mostly clinical. The rigorous ones are. The marketing-heavy ones are not. Distinguishing between the two is the core skill of clinical program oversight. The training for that distinction is reading the methodology documents alongside the clinical literature. It takes a pharmacist. It also takes someone who has read a lot of contracts. The combination is what makes the work possible.
+**Morning (7-8 AM) — Reveal Note (sickest-member markup; runs AFTER Thursday's LinkedIn post published):**
+The specialty generics the big-3 PBMs mark up the most are not random. Per the FTC's January 2025 interim report, the largest markups sit on generics for leukemia, MS, transplant, renal disease, and HIV. The markup scales with how sick the member is, because the sickest members are the least able to shop and the least likely to be questioned. Three data pulls surface it on any plan: the claims, the filling pharmacy, the public acquisition benchmark. We run that comparison as standard work in claims reviews at Prescription Benefit Solutions.
 
-**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week: communicating pharmacy changes. The best pharmacy strategy fails without the right messaging. Five scenarios. Five template frameworks. Because the backlash is never about the clinical decision. It is about the letter.
+**Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: generate per prompt below; fallback templates/documents/week_33_thursday_member_transition_audit_preview.png]`
+The backlash to a pharmacy change is never about the clinical decision. It is about the letter. Next week on Benefit Blind Spots: communicating pharmacy changes, five scenarios with five template frameworks, because a good strategy with a bad announcement becomes a bad strategy. The member transition worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a single opened letter in deep teal-blue outline, its page pulled halfway out of the envelope; the visible page carries three abstract squiggle text lines and one oversized bold exclamation mark in light blue (#A7E0FA). Around the envelope, five small radiating alarm arcs in gray (#4D4D4D). Repeating diagonal airmail-style dashes along the envelope edge for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The strategy was sound." in deep teal-blue, "The letter caused the backlash." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A CFO told me a few years ago that the clinical program audit had been the single highest-ROI engagement we had run for his plan. Not because the recovery was the largest. Because the future improvement was most sustainable. Once the methodology was cleaned up, the savings became defensible going forward. One-time recoveries fade. Clean methodology compounds.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story #1:**
-My pharmacy school mentor told me that a good clinical pharmacist verifies everything and trusts nothing on paper. Her example was the Senior Care Rule: never trust a chart note without comparing it to the actual medication. The same rule applies to clinical program savings. Never trust the report. Verify against the data. The habit is the same. The context is different.
+**Morning (8-9 AM) — Reveal Note (quarterly-report gaps; runs AFTER Tuesday's Post 117 published):**
+Your PBM's quarterly report is accurate. That is not the same as complete. The report shows the metrics the contract's definitions permit it to show, calculated the way the PBM chose to calculate them, and the streams that never appear (the spread on individual claims, the manufacturer payments outside the rebate definition, the methodology behind the savings slide) are the ones that decide whether the plan is actually ahead. We reconcile quarterly reports against raw claims files as standard work at Prescription Benefit Solutions. The report and the file rarely tell the same story.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-The therapy abandonment rate is the clinical program metric PBMs almost never report. If members who need specialty medications are giving up during step therapy because the process is too burdensome, the financial savings come at a clinical cost that does not appear in the savings report.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_31_thursday_pbm_disclosure_audit_preview.png]`
+A report can be accurate and incomplete at the same time. What the quarterly report shows is what the definitions allow. The disclosure audit worksheet, what the PBM must disclose against what it actually disclosed, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large report page in deep teal-blue outline titled "QUARTERLY REPORT" in IBM Plex Sans SemiBold, with four content blocks: two blocks filled with neat light-blue (#A7E0FA) bar-chart glyphs, and two blocks rendered as empty dashed gray (#4D4D4D) outlines with a small "not shown" label inside each. A paperclip icon at the page's top corner. Repeating ruled lines faintly across the page for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Accurate" in deep teal-blue, "is not complete." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A client asked me to measure something a PBM had not reported: the average time from first denial to final approval on her plan's step therapy program. The number was embarrassingly long. We used it to negotiate a faster-review provision at renewal. That provision produced measurable member-access improvements within a quarter. The metric the PBM was not tracking turned out to be the one the plan needed most. Watch what is missing.
 
 ## Sunday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A young pharmacist messaged me asking how to verify PBM clinical savings claims. My answer: ask for the sample calculation and then recreate it with your plan's data. If you can reproduce the number, the methodology is defensible. If you cannot, ask the PBM to show you the step you are missing. The exercise teaches you the method. The method teaches you the category.
+**Morning (8-9 AM) — Reveal Note (the unreported abandonment metric; week-native, no LinkedIn slot to scoop):**
+The clinical program metric PBMs almost never report: therapy abandonment. If members who need specialty medications give up mid-way through step therapy because the process is too burdensome, the savings report records a win and the plan absorbs the downstream cost, clinical and financial, in a different budget line where nobody connects it back. A savings number without an abandonment number is half a report. Ask for both. We put that request into every clinical program review we run at Prescription Benefit Solutions.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Your PBM reports millions in clinical savings. The methodology is rarely shared. When it is shared, the assumptions rarely hold up. One request changes the conversation: the specific savings methodology and a sample calculation per program.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_26_thursday_step_therapy_override_audit_preview.png]`
+A step therapy program that saves money by exhausting members into quitting is not saving money. It is moving the cost somewhere the savings report does not look. The step therapy override audit is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a horizontal path of three tall gate archways in deep teal-blue outline labeled "DENIAL", "APPEAL", "REVIEW" in IBM Plex Sans SemiBold; five simple person icons approach the first gate, three stand between gates, and only one exits the last gate, rendered in light blue (#A7E0FA); the icons that stopped are gray (#4D4D4D) and turned slightly away. Repeating fence-post ticks along the path base for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The report counts savings." in deep teal-blue, "Not the ones who gave up." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A plan sponsor told me she felt bad challenging her PBM's clinical numbers because "they were trying to help." I reframed it for her: verification is not distrust. It is how a sponsor demonstrates fiduciary discipline. The PBM appreciates good clients who ask good questions because those relationships last longer. Verification strengthens the relationship. It does not weaken it. She relaxed into the question-asking.
 
 ## Engagement Reply Templates
 
 **Template A:** "The gap between reported and verified clinical savings is consistent. PBMs count avoided costs that were never going to occur, credit formulary-driven shifts to clinical programs, and count overridden alerts as interventions. Requesting the methodology is the first step toward real measurement."
+
+## Spare Notes (displaced by the Jul 24 restack-reset conform; hold for swap-ins or future weeks)
+
+_Drafted content preserved per the no-deletion rule. Use these if a scheduled slot needs a swap, or recycle into a future week's afternoon slots. The old Friday-midday forward look was absorbed into the Friday visual-note caption; the old Saturday-midday abandonment insight was promoted into the Sunday reveal slot._
+
+- **Origin (was Mon midday):** As a pharmacist I believe in clinical programs. PA, step therapy, DUR: these tools exist for good reasons. But as a consultant I have learned to verify the math. The gap between reported and verified clinical savings is consistent across almost every audit we conduct. Believing in the programs and verifying the numbers are not contradictory. They are complementary.
+- **Origin (was Tue morning):** A pharmacist friend who worked at a PBM once showed me how clinical savings got calculated in her department. The inputs were reasonable. The multipliers were where the embellishment lived. She said the pressure to produce a big number was constant. That conversation taught me to ask about multipliers explicitly. Every PBM uses them. Some use them conservatively. Others do not.
+- **Expertise (was Tue midday):** Six programs. Six methodologies. The one that inflates the most consistently: DUR. Most drug interaction alerts are overridden by pharmacists because the prescriber already considered the interaction. Counting every alert as a savings event is not measurement. It is marketing.
+- **Origin (was Wed midday):** A client's CFO challenged me on clinical program savings by asking whether the verification "really mattered" when the dollar amounts were small relative to total pharmacy spend. I pulled out the methodology document. The dollar amounts were not small when added up across six programs over a three-year contract term. The compounding impact was substantial. His perspective changed. Small-looking numbers add up when they repeat.
+- **Origin (was Thu midday):** I built my first clinical program audit framework for a client whose CFO did not believe a PBM could overstate savings by an order of magnitude. We ran the audit. The overstatement was real, documented, and defensible to challenge. He paid for the audit twice over in the true-up negotiation that followed. His skepticism became permanent after that engagement. Some lessons cost money to learn.
+- **Origin (was Fri morning):** Early in my career I assumed clinical programs were mostly clinical. The rigorous ones are. The marketing-heavy ones are not. Distinguishing between the two is the core skill of clinical program oversight. The training for that distinction is reading the methodology documents alongside the clinical literature. It takes a pharmacist. It also takes someone who has read a lot of contracts. The combination is what makes the work possible.
+- **Origin (was Sat morning):** My pharmacy school mentor told me that a good clinical pharmacist verifies everything and trusts nothing on paper. Her example was the Senior Care Rule: never trust a chart note without comparing it to the actual medication. The same rule applies to clinical program savings. Never trust the report. Verify against the data. The habit is the same. The context is different.
+- **Origin (was Sun morning):** A young pharmacist messaged me asking how to verify PBM clinical savings claims. My answer: ask for the sample calculation and then recreate it with your plan's data. If you can reproduce the number, the methodology is defensible. If you cannot, ask the PBM to show you the step you are missing. The exercise teaches you the method. The method teaches you the category.
+- **Expertise (was Sun midday):** Your PBM reports millions in clinical savings. The methodology is rarely shared. When it is shared, the assumptions rarely hold up. One request changes the conversation: the specific savings methodology and a sample calculation per program.
 
 ---
 
