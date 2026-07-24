@@ -12,9 +12,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Aug 16 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Aug 17 | 7:30 AM | Substack | Deep dive: "Communicating Pharmacy Changes: Why Good Strategy Fails Without Good Messaging" | PART 1 | [ ] |
 | Mon Aug 17 | 7:45 AM | LI Newsletter | Member Communication Briefing (Issue #28) | PART 2 | [ ] |
+| Mon Aug 17 | 7-8 AM | Notes | Note #1 launch teaser (restack-with-note on the live deep dive) | PART 4 · Mon | [ ] |
 | Mon Aug 17 | 8:00 AM | X | recipe / Pass-through definition trick (Tier B) | PART 4B · Mon | [ ] |
 | Mon Aug 17 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
-| Mon Aug 17 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Aug 17 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
 | Mon Aug 17 | 7:00 PM | X | question [A7] | PART 4B · Mon | [ ] |
 | Mon Aug 17 | 8:30 PM | X | aphorism [C8] | PART 4B · Mon | [ ] |
@@ -28,32 +28,31 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Aug 18 | 5:00 PM | X | Library 06 driver (Q4 broker clauses; after 10 AM carousel) | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 7:00 PM | X | question [A8] | PART 4B · Tue | [ ] |
 | Tue Aug 18 | 8:30 PM | X | one question [B8] | PART 4B · Tue | [ ] |
+| Wed Aug 19 | 7-8 AM | Notes | Roundup launch teaser (restack-with-note on the live roundup) | PART 4 · Wed | [ ] |
 | Wed Aug 19 | 8:00 AM | X | recipe / Audit rights limitation (Tier B) | PART 4B · Wed | [ ] |
 | Wed Aug 19 | 8:30 AM | LI Feed | Post 122 — Strong POV text (biosimilar communication; carries the week's shocking fact) | Post 122 | [ ] |
 | Wed Aug 19 | 8:35 AM | LI Feed | Post 122 first comment | Post 122 | [ ] |
 | Wed Aug 19 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
-| Wed Aug 19 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 19 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Aug 19 | 7:00 PM | X | question [A9] | PART 4B · Wed | [ ] |
 | Wed Aug 19 | 8:30 PM | X | aphorism [C9] | PART 4B · Wed | [ ] |
 | Thu Aug 20 | 7:30 AM | Substack | Field Note: "Why Is the Cash Price Lower Than My Copay? (The Clawback, Explained)" | PART 1B | [ ] |
+| Thu Aug 20 | 7-8 AM | Notes | Field Note launch teaser (restack-with-note on the live field note) | PART 4 · Thu | [ ] |
 | Thu Aug 20 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Thu | [ ] |
 | Thu Aug 20 | 8:30 AM | LI Feed | Post 123 — "Cash Beats Your Copay: The Clawback at the Counter" (checkout-fork conceptual infographic · clawback reveal) | Post 123 | [ ] |
 | Thu Aug 20 | 8:35 AM | LI Feed | Post 123 first comment | Post 123 | [ ] |
 | Thu Aug 20 | 12:00 PM | X | Thu-visual amplifier [VISUAL: cash-beats-copay checkout-fork scene] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 20 | 1:30 PM | LI Company | Reshare of Post 123 | Post 123 Reshare | [ ] |
-| Thu Aug 20 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 20 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Aug 20 | 7:00 PM | X | question [A10] | PART 4B · Thu | [ ] |
 | Thu Aug 20 | 8:30 PM | X | one question [B9] | PART 4B · Thu | [ ] |
+| Fri Aug 21 | 7-8 AM | Notes | Reveal note (counter clawback; runs only AFTER Thursday's post published) | PART 4 · Fri | [ ] |
 | Fri Aug 21 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Fri | [ ] |
 | Fri Aug 21 | 8:30 AM | LI Feed | Post 124 — Tease Hook (teases W34) | Post 124 | [ ] |
 | Fri Aug 21 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Aug 21 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 21 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 21 | 7:00 PM | X | question [A11] | PART 4B · Fri | [ ] |
 | Fri Aug 21 | 8:30 PM | X | origin-anchored [D2] | PART 4B · Fri | [ ] |
-| Sat Aug 22 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
 | Sat Aug 22 | 8:00 AM | X | recipe / Copay accumulator (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 22 | 10:00 AM | X | point-of-sale clawback (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 22 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
@@ -734,96 +733,121 @@ Get next Monday's deep dive on Specialty Drug Management in your inbox: benefitb
 
 # PART 4: SUBSTACK NOTES (Daily Schedule)
 
-> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+> **Instructions (per `substack_notes_plan_2026_07.md`; W33 conformed to the restack-reset structure Jul 24, 2026 per Brett's directive — this week runs AFTER the 4-week trial window (W29-W32), so if the mid-Aug read-out reverses the mix, /propagate-rule sweeps this week back):** Post 3 Notes per day via the scheduler. Slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu — and the teaser posts as a RESTACK-WITH-NOTE on the live article, never a scheduled Note (Brett, Jul 16): once the piece is live, restack it and paste the teaser as the note, dropping the [LINK] line since the restack embeds the article card; /first-comments-today surfaces this daily). **Midday = visual note** (generation prompt in the PBS flat-design recipe; `[VISUAL]` names the library fallback PNG; the caption says what the visual proves, never "new post out"). **Afternoon = origin/personal.** **Reveal-reservation inside this week:** the counter-clawback fact (cash beats copay, USC Schaeffer) runs only AFTER Thursday's LinkedIn reveal publishes (Fri morning slot); the pass-through definition-split fact only AFTER Monday's X recipe runs (Sun morning slot, safely late); Tuesday and Saturday mornings amplify the published Monday deep dive. Tuesday is a Library carousel day: its midday caption routes to the PBM Contract Language Library (the Library-Tuesday cross-promo target), not a toolkit. **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced drafts are parked in the Spares block below, not deleted.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Launch Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser (post as RESTACK-WITH-NOTE on the live article; drop the link line):**
 Two employers rolled out the same biosimilar program through the same PBM. One got a complaint wave. The other got zero complaints. Same clinical change, same vendor, one difference: the messaging. This week's deep dive breaks down the five scenario templates that made the quiet rollout quiet.
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I have watched smart pharmacy decisions get reversed because the communication was bad. An employer implemented a clinically sound formulary change, the complaints piled up, HR got overwhelmed, and leadership reversed the decision. The clinical rationale was right. The messaging was wrong. That reversal cost the plan more than the change would have saved. Communication is not optional. It is part of the strategy.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_33_thursday_member_transition_audit_preview.png]`
+Same clinical change, same PBM, two different letters: one plan got a complaint wave that reached leadership, the other got silence. The change was never the variable. The letter was. The member transition worksheet, how to change PBM arrangements without members feeling the switch, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: one pill-bottle icon in deep teal-blue at the top, with two arrows descending to two open envelopes side by side: the left envelope surrounded by five jagged alarm arcs in gray (#4D4D4D); the right envelope with a single calm checkmark above it in light blue (#A7E0FA). Both envelopes otherwise identical, deep teal-blue outline. Repeating diagonal airmail dashes along both envelope edges for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Same change." in deep teal-blue, "Different letter." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A member called me once in tears after receiving a formulary change letter that used the phrase "your medication is being removed." She thought her drug was no longer covered. Her drug was still covered at a different tier. The letter was factually precise and emotionally catastrophic. I rewrote the template with the HR team that afternoon. Words matter more than most employers realize when members are on the receiving end.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Origin Story #1:**
-Working behind a pharmacy counter taught me something every benefits consultant should experience once. Watching a member receive a formulary change notice at the pharmacy, not a month earlier by mail, is a different kind of moment. The pharmacist becomes the messenger. The plan becomes the villain. The communication strategy was built around the wrong delivery point. Counter-level reality should inform member communication design.
+**Morning (7-8 AM) — Reveal Note (the reversal cost; amplifies the published Monday deep dive):**
+The most expensive pharmacy decision a plan can make is a good one it has to reverse. A clinically sound formulary change with a bad announcement generates a complaint wave, the complaints reach leadership, and leadership reverses the change. The reversal costs more than the change would have saved, and the next good idea now carries the memory of the last one. We have watched this sequence play out at Prescription Benefit Solutions often enough that communication planning sits inside the strategy work, not after it. Yesterday's deep dive carries the five templates.
 
-**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
-"We are switching you to a biosimilar." What the member hears: "They are taking away my medication and replacing it with something cheaper." What is actually happening: FDA-approved, clinically equivalent, same or lower copay. The gap between reality and perception is a communication problem, not a clinical problem.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Tuesday LinkedIn Library 06 Contract Comparison carousel cover — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed.]`
+Five clauses anchor every Q4 broker conversation: what the renewal notice window requires, what the termination language actually permits, and three more that decide whether January is a negotiation or a formality. The full weak-versus-strong protective language for every provision family lives in the PBM Contract Language Library, the free evergreen post on this publication.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A benefits director asked me to review her member letter before it went out. I marked it up. She pushed back on one edit: replacing "cost management" with "clinical review." She said the first was more honest. I said it was also more inflammatory. The second was still honest and reduced escalations. She accepted the edit. Complaints dropped. Member letters are not the place for internal honesty. They are the place for member clarity.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Roundup Launch Teaser:**
+**Morning (7-8 AM) — Roundup Launch Teaser (post as RESTACK-WITH-NOTE on the live roundup; drop the link line):**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-The most common communication mistake I see: notifying members without notifying their prescribers first. The member gets a letter. Calls their doctor. The doctor has no idea. Both are frustrated. Both call HR. Entirely preventable. Notify providers 60 days before. Members 45 days before. That 15-day gap changes everything.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_22_biosimilar_readiness_assessment_preview.png]`
+"We are switching you to a biosimilar." What the member hears: "They are taking away my medication for something cheaper." What is actually happening: FDA-approved, clinically equivalent, often a lower copay. The gap between those two sentences is a communication problem, not a clinical one, and it is entirely closable. The biosimilar readiness assessment is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: two large bubbles facing each other: on the left, a rectangular speech bubble in deep teal-blue outline containing a simple pill icon with a checkmark; on the right, a cloud-shaped thought bubble in gray (#4D4D4D) containing the same pill icon crossed out. Between them, a wide gap bridged by a thin light-blue (#A7E0FA) dashed line with a small bridge icon at its midpoint. Repeating small dots trailing each bubble for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "What you said." in deep teal-blue, "What they heard." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A prescriber told me once that she had to stop taking calls about formulary changes because the volume was overwhelming her practice. The employer who had produced those calls had sent letters to thousands of members without notifying any providers. I built a prescriber-notification protocol with her the following week. The protocol is now in every client engagement. Prescribers are not an afterthought. They are the first audience.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Launch Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser (post as RESTACK-WITH-NOTE on the live field note; drop the link line):**
 New field note: why the cash price is sometimes lower than your copay. On cheap generics, the copay your plan charges can exceed what the drug actually costs, and the PBM claws back the difference at the counter. USC Schaeffer found patients overpaid on about 1 in 4 fills. Here is the audit pass that finds it on your plan.
 
 Read: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I had a plan sponsor tell me she had always assumed the PBM handled prescriber notification as part of the formulary change process. Most do not. It is the kind of detail everyone assumes someone else covers. That assumption is why I now ask explicitly during every transition planning: "who is notifying prescribers, and on what timeline?" The silence that sometimes follows is the signal. Nobody was going to. Until asked.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Thursday LinkedIn checkout-fork image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_20_copay_card_financial_impact_calculator_preview.png]`
+On cheap generics, the copay can exceed what the drug costs, and the difference does not stay at the pharmacy. It is clawed back. The member paid more than cash price, the plan thinks cost-sharing worked, and the counter transaction hid the math from both. This morning's field note has the audit pass that surfaces it on your own claims. The copay impact calculator is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 An HR director told me once that she had been trained to think about member communication as "corporate communication." I pushed her to think about it as patient communication. Different discipline. Different tone. Different level of care. She updated her team's training. The next letter went out in a different voice. The feedback from members was noticeably different. Tone changes outcomes.
 
 ## Friday
 
-**Morning (7-8 AM) — Origin Story #1:**
-Communication is not a soft skill. It is a strategy discipline. The sponsors who treat it that way produce better member experiences, fewer escalations, and stronger plan economics over time. The ones who treat it as "HR can handle that letter" tend to see their good pharmacy decisions get reversed by loud, avoidable blowback. I push clients toward the first path because I have watched the second path end too many good strategies.
+**Morning (7-8 AM) — Reveal Note (the counter clawback; runs AFTER Thursday's LinkedIn post published):**
+Sometimes the cash price is lower than the copay, and that is not a pricing glitch. On low-cost generics the plan's copay can exceed the drug's actual cost; the member overpays, and the difference is clawed back from the pharmacy. USC Schaeffer research found patients overpaid on roughly 1 in 4 fills. The member thinks they used their benefit. The plan thinks cost-sharing worked. The counter transaction hid the math from both sides. When we audit claims at Prescription Benefit Solutions, the copay-versus-cost comparison is one of the first passes we run.
 
-**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week: specialty drug management. Eight management levers, three scoring dimensions, one assessment that tells you where your plan's specialty strategy has gaps. Specialty defines your cost trajectory now.
+**Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: generate per prompt below; fallback templates/documents/week_22_thursday_specialty_routing_audit_worksheet_preview.png]`
+Specialty is a minority of your claims and the majority of your trend. Next week on Benefit Blind Spots: specialty drug management, eight levers scored across three dimensions, and the assessment that shows which levers your plan has never pulled. The specialty routing worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a control panel in deep teal-blue outline with eight vertical slider tracks in a row; only two sliders are pushed to the top with light-blue (#A7E0FA) handles, the other six sit at the bottom with gray (#4D4D4D) handles. Repeating scale ticks along each slider track for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Eight specialty levers." in deep teal-blue, "Most plans pull two." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A client called me once about a biosimilar transition going sideways in its first week. Complaints, pharmacist confusion, prescriber frustration. I asked what the communication plan had been. She said there had not been a formal plan. We built one in 48 hours and rolled it out to every member on the affected drug. The next week was quiet. The plan was still sound. The communication just needed to catch up.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A pharmacy school professor told me that the most important sentence in a clinical conversation is usually the first one. "Mrs. Smith, your doctor has reviewed your medications with me." That sentence frames the conversation. I have tried to bring that same framing to member communication templates. The first sentence does the most work. Invest there.
+**Morning (8-9 AM) — Reveal Note (the notification order; amplifies the published Monday deep dive):**
+The most common member-communication failure is not the letter. It is the order. Members get notified, prescribers do not, and the first call the doctor's office receives about the change comes from a confused patient. Both call HR. The sequence that prevents it is mechanical: providers first, members second, call center briefed before the first letter lands. We build that sequence into every transition plan at Prescription Benefit Solutions, because the silence that follows the question "who is notifying prescribers?" is usually the answer.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Five communication scenarios that change outcomes: formulary tier change, biosimilar transition, specialty pharmacy routing change, prior authorization implementation, and pharmacy network change. Each has a template with specific language to use and specific phrases to avoid. The templates travel between clients because human response to pharmacy communication is consistent.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_33_thursday_member_transition_audit_preview.png]`
+Communication order is strategy: the prescriber hears first, the member second, the call center is briefed before the first letter goes out. When the doctor already knows, the change gets accepted. When the patient tells the doctor, it gets resisted. The member transition worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: three cards stacked in a descending staircase from upper left to lower right, each card in deep teal-blue outline with an icon and a label in IBM Plex Sans SemiBold: first card a stethoscope icon labeled "PROVIDERS FIRST", second card an envelope icon labeled "MEMBERS SECOND", third card a headset icon labeled "CALL CENTER READY"; a light-blue (#A7E0FA) arrow steps down across the three cards in order. Repeating step ticks under the staircase for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The order" in deep teal-blue, "is the strategy." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A client's call center lead thanked me once for the FAQ document we built alongside a member letter. She said the FAQ was what made the week manageable. The letter triggered the questions. The FAQ gave her team consistent answers. Without the FAQ the team would have improvised. Improvised answers are how message drift begins. Prepared answers are how trust gets built.
 
 ## Sunday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A young HR director once asked me if member communication "really mattered" when the change was clinically justified. I told her: a clinically correct change poorly communicated can produce outcomes that look clinically wrong. Members do not evaluate the change. They evaluate the experience. Take the communication as seriously as the underlying strategy. The experience is the strategy from the member's point of view.
+**Morning (8-9 AM) — Reveal Note (the definition split; published-surface amplification):**
+The rebate clause in a PBM contract can promise 100 percent pass-through in one sentence, while the definitions section, forty pages away, defines "rebate" as amounts the PBM receives net of fees. Read together, the guarantee shrinks in your hands. The trick is not hidden. It is split, so that neither sentence looks wrong on its own. We review hundreds of PBM contracts a year at Prescription Benefit Solutions, and the split-definition pattern shows up in most of them. Never read a guarantee without its definition. They were drafted as a pair.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-The coordination layer that matters: prescriber notification, call-center briefing, FAQ documentation, and pharmacy-counter reference materials. All four have to be ready before the first member letter goes out. If any one is missing, members encounter friction that erodes trust in the plan. All four is not perfection. All four is the minimum.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_20_thursday_rebate_report_audit_worksheet_preview.png]`
+A guarantee and its definition are drafted as a pair, and they are almost never on the same page. The percentage is marketing. The definition is the contract. The rebate report worksheet, definitions first, percentage second, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a single contract page torn into two halves pulled apart horizontally, the tear jagged: the left half in deep teal-blue outline carries a bold "100%" in IBM Plex Mono; the right half in gray (#4D4D4D) carries three small abstract definition lines with one phrase highlighted by a light-blue (#A7E0FA) underline. A light-blue chain-link icon floats broken in the gap between the halves. Repeating ruled lines faintly on both halves for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "One sentence promises." in deep teal-blue, "Another one takes it back." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 I had a plan sponsor tell me after a smooth biosimilar transition that "nobody noticed." That was the best compliment she could give me. The best communication is the kind that does not feel like communication. Members got the information they needed at the moment they needed it. Prescribers were briefed. The call center had answers. Nothing went wrong. "Nobody noticed" is a technical achievement.
 
 ## Engagement Reply Templates
 
 **Template A:** "Communication is implementation, not afterthought. The sequence matters: providers first (60 days), members second (45 days), call center third (30 days). When the doctor knows before the member calls, the change is accepted. When they do not, it is resisted."
+
+## Spare Notes (displaced by the Jul 24 restack-reset conform; hold for swap-ins or future weeks)
+
+_Drafted content preserved per the no-deletion rule. Use these if a scheduled slot needs a swap, or recycle into a future week's afternoon slots. The old Friday-midday forward look was absorbed into the Friday visual-note caption; the old Tuesday-midday biosimilar insight now carries the Wednesday visual-note caption._
+
+- **Origin (was Mon midday):** I have watched smart pharmacy decisions get reversed because the communication was bad. An employer implemented a clinically sound formulary change, the complaints piled up, HR got overwhelmed, and leadership reversed the decision. The clinical rationale was right. The messaging was wrong. That reversal cost the plan more than the change would have saved. Communication is not optional. It is part of the strategy.
+- **Origin (was Tue morning):** Working behind a pharmacy counter taught me something every benefits consultant should experience once. Watching a member receive a formulary change notice at the pharmacy, not a month earlier by mail, is a different kind of moment. The pharmacist becomes the messenger. The plan becomes the villain. The communication strategy was built around the wrong delivery point. Counter-level reality should inform member communication design.
+- **Expertise (was Tue midday):** "We are switching you to a biosimilar." What the member hears: "They are taking away my medication and replacing it with something cheaper." What is actually happening: FDA-approved, clinically equivalent, same or lower copay. The gap between reality and perception is a communication problem, not a clinical problem.
+- **Origin (was Wed midday; the mechanism now carries the Saturday reveal):** The most common communication mistake I see: notifying members without notifying their prescribers first. The member gets a letter. Calls their doctor. The doctor has no idea. Both are frustrated. Both call HR. Entirely preventable. Notify providers 60 days before. Members 45 days before. That 15-day gap changes everything.
+- **Origin (was Thu midday):** I had a plan sponsor tell me she had always assumed the PBM handled prescriber notification as part of the formulary change process. Most do not. It is the kind of detail everyone assumes someone else covers. That assumption is why I now ask explicitly during every transition planning: "who is notifying prescribers, and on what timeline?" The silence that sometimes follows is the signal. Nobody was going to. Until asked.
+- **Origin (was Fri morning):** Communication is not a soft skill. It is a strategy discipline. The sponsors who treat it that way produce better member experiences, fewer escalations, and stronger plan economics over time. The ones who treat it as "HR can handle that letter" tend to see their good pharmacy decisions get reversed by loud, avoidable blowback. I push clients toward the first path because I have watched the second path end too many good strategies.
+- **Origin (was Sat morning):** A pharmacy school professor told me that the most important sentence in a clinical conversation is usually the first one. "Mrs. Smith, your doctor has reviewed your medications with me." That sentence frames the conversation. I have tried to bring that same framing to member communication templates. The first sentence does the most work. Invest there.
+- **Expertise (was Sat midday):** Five communication scenarios that change outcomes: formulary tier change, biosimilar transition, specialty pharmacy routing change, prior authorization implementation, and pharmacy network change. Each has a template with specific language to use and specific phrases to avoid. The templates travel between clients because human response to pharmacy communication is consistent.
+- **Origin (was Sun morning):** A young HR director once asked me if member communication "really mattered" when the change was clinically justified. I told her: a clinically correct change poorly communicated can produce outcomes that look clinically wrong. Members do not evaluate the change. They evaluate the experience. Take the communication as seriously as the underlying strategy. The experience is the strategy from the member's point of view.
+- **Expertise (was Sun midday):** The coordination layer that matters: prescriber notification, call-center briefing, FAQ documentation, and pharmacy-counter reference materials. All four have to be ready before the first member letter goes out. If any one is missing, members encounter friction that erodes trust in the plan. All four is not perfection. All four is the minimum.
 
 ---
 
