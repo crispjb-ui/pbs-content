@@ -7,6 +7,8 @@
 
 _Publish order, top to bottom. Schedule straight down this list; the **Where** column jumps you to the content. X (5/weekday, 7/weekend) and Substack Notes sit in PART 4B / PART 4 in day order, so those rows point to the day block. **⚠ = open item to resolve before ship.** Reconciled to built content. **Thursday rebuild (this session):** the weak "5 Mid-Year Performance Guarantee Terms Decoded" vocabulary decoder was replaced with the shocking hidden-structure reveal "1 in 5 Specialty Generics, Marked Up Over 1,000%" (The 1-in-5 Rocket single-image reveal), cited to the FTC Second Interim Staff Report (Jan 2025). Vocabulary decoders top out ~4-5K impressions in the summer trough; shocking hidden-structure reveals clear 15-18K organic even in the trough. The Field Note was retargeted to exclusively support the reveal; the displaced "Auditing Your Mid-Year Performance Guarantees" draft is noted for `field_note_backlog.md`. The repurposed One Number Carousel still lives in PART 1 as an In-Article Visual._
 
+_Echo candidate (added Jul 24, 2026, from the W28 Tue breakout, 19 saves): the GLP-1 "Bridge" PA-architecture angle has a natural fresh-angle descendant this week — the coverage-design counterweight to the Wednesday DTC clip's demand story. The ~6-week no-repeat clears Aug 25; see `repurpose_queue.md`._
+
 | Day | Time | Channel | Content | Where | ✓ |
 |-----|------|---------|---------|-------|---|
 | Sun Aug 23 | - | Prep | Final review of all content | this sheet | [ ] |

@@ -303,3 +303,8 @@ _Every 9:16 clip (scripted talking-head + repurposed) is built to this. Root cau
 
 ### 2026-06-23 (seed + first research pass)
 - Bank created with the shoot-list + 3 scripted concepts (offshore-rebate reveal, admin-fee decoder, origin) + the SHRM repurpose batch. First `/video-research` pass added the research-backed best-practices block above (9:16 dwell advantage, 15-30s short cut, 70%-completion lever, captions, talking-head endorsement; PBS cadence override retained) and the competitor-video white-space finding. Sources: web search Jun 2026.
+
+
+## Pipeline additions (Jul 24, 2026, from /log-metrics breakouts)
+
+- **(Jul 24, 2026, from /log-metrics breakouts)** "The Medicare GLP-1 form that predicts your 2027 plan design" — 60s 9:16 reveal-first talking-head (W28 Bridge post: 19 saves). · "Why your rebates AND your costs both went up" — 45s 9:16 whiteboard-point (W28 tease 5x baseline; the W29 deep dive is the source material).
