@@ -14,10 +14,10 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Aug 2 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Aug 3 | 7:30 AM | Substack | Deep dive: "The PBM RFP: What to Ask and What the Answers Actually Mean" | PART 1 | [ ] |
 | Mon Aug 3 | 7:45 AM | LI Newsletter | PBM RFP Briefing (Issue #26) | PART 2 | [ ] |
+| Mon Aug 3 | 7-8 AM | Notes | Note #1 launch teaser (restack-with-note on the live deep dive) | PART 4 · Mon | [ ] |
 | Mon Aug 3 | 8:00 AM | X | recipe / Auto-renewal / lock-in (Tier B) | PART 4B · Mon | [ ] |
 | Mon Aug 3 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
 | Mon Aug 3 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
-| Mon Aug 3 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Aug 3 | 7:00 PM | X | question [A9] | PART 4B · Mon | [ ] |
 | Mon Aug 3 | 8:30 PM | X | aphorism [C7] | PART 4B · Mon | [ ] |
 | Tue Aug 4 | 7:30 AM | Substack | "What I'd Ask" #8: Evaluating PBM RFP Responses | PART 2B | [ ] |
@@ -29,28 +29,28 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Aug 4 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Aug 4 | 7:00 PM | X | question [A10] | PART 4B · Tue | [ ] |
 | Tue Aug 4 | 8:30 PM | X | one question [B2] | PART 4B · Tue | [ ] |
+| Wed Aug 5 | 7-8 AM | Notes | Roundup launch teaser (restack-with-note on the live roundup) | PART 4 · Wed | [ ] |
 | Wed Aug 5 | 8:00 AM | X | recipe / MAC list control (Tier B) | PART 4B · Wed | [ ] |
 | Wed Aug 5 | 8:30 AM | LI Feed | Post 114 — PBM RFP POV (Strong POV text, shocking-fact weave) | Post 114 | [ ] |
 | Wed Aug 5 | 8:35 AM | LI Feed | Post 114 first comment | Post 114 | [ ] |
 | Wed Aug 5 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
-| Wed Aug 5 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 5 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Aug 5 | 7:00 PM | X | question [A11] | PART 4B · Wed | [ ] |
 | Wed Aug 5 | 8:30 PM | X | aphorism [C3] | PART 4B · Wed | [ ] |
 | Thu Aug 6 | 7:30 AM | Substack | Field Note: "Why Do Three PBMs Control 80% of Prescriptions, and What Can a Plan Sponsor Do About It?" | PART 1B | [ ] |
+| Thu Aug 6 | 7-8 AM | Notes | Field Note launch teaser (restack-with-note on the live field note) | PART 4 · Thu | [ ] |
 | Thu Aug 6 | 8:00 AM | X | recipe / Manufacturer-fee reclassification (Tier B) | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 8:30 AM | LI Feed | Post 115 — "Three Companies. Both Sides of the Counter." (Market Concentration reveal, both-sides-of-the-counter tableau) | Post 115 | [ ] |
 | Thu Aug 6 | 8:35 AM | LI Feed | Post 115 first comment | Post 115 | [ ] |
 | Thu Aug 6 | 12:00 PM | X | news-reaction HOLD | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 1:30 PM | LI Company | Reshare of Post 115 | Post 115 Reshare | [ ] |
 | Thu Aug 6 | 5:00 PM | X | concentration reveal (amplifies Post 115, LinkedIn-first → after 10 AM) | PART 4B · Thu | [ ] |
-| Thu Aug 6 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 6 | 7:00 PM | X | question [A12] | PART 4B · Thu | [ ] |
 | Thu Aug 6 | 8:30 PM | X | one question [B3] | PART 4B · Thu | [ ] |
+| Fri Aug 7 | 7-8 AM | Notes | Reveal note (market concentration; runs only AFTER Thursday's post published) | PART 4 · Fri | [ ] |
 | Fri Aug 7 | 8:00 AM | X | recipe / Copay maximizer (Tier B) | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 8:30 AM | LI Feed | Post 116 — Clinical Program ROI tease (teases W32) | Post 116 | [ ] |
 | Fri Aug 7 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Aug 7 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 7 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 7:00 PM | X | question [A13] | PART 4B · Fri | [ ] |
 | Fri Aug 7 | 8:30 PM | X | origin-anchored [D8] | PART 4B · Fri | [ ] |
@@ -748,91 +748,101 @@ Get next Monday's deep dive on Clinical Program ROI in your inbox: benefitblinds
 
 # PART 4: SUBSTACK NOTES (Daily Schedule)
 
-> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+> **Instructions (revised July 15, 2026 — restack-reset trial week 3 of 4, per `substack_notes_plan_2026_07.md`; W31 conformed to the W29 structure Jul 24, 2026):** Post 3 Notes per day via the scheduler. Slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu — and the teaser posts as a RESTACK-WITH-NOTE on the live article, never a scheduled Note (Brett, Jul 16): once the piece is live, restack it and paste the teaser as the note, dropping the [LINK] line since the restack embeds the article card; /first-comments-today surfaces this daily). **Midday = visual note** (each carries a generation prompt in the PBS flat-design recipe — generate the creative visual when time allows; the `[VISUAL]` flag names a library fallback PNG for when it doesn't; the caption says what the visual proves, never "new post out"). **Afternoon = origin/personal** (unchanged, the warmth/conversion layer). **Reveal-reservation inside this week:** the market-concentration fact (FTC three-companies/both-sides numbers) runs only AFTER Thursday's LinkedIn reveal publishes (Fri morning slot); Tuesday and Saturday mornings amplify already-published surfaces (Monday's deep dive; Monday's X recipe on the improved renewal offer); Sunday's rebate-definition fact is in the published deep dive. **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced drafts are parked in the Spares block below, not deleted.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Launch Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser (post as RESTACK-WITH-NOTE on the live article; drop the link line):**
 Three PBM proposals looked competitive on paper. Normalized to the same AWP source, cost basis, and claim exclusions, the "cheapest" one was the most expensive of the three. The ranking flipped on math, not judgment. This week on Benefit Blind Spots: the PBM RFP, with 30 questions and answer scoring that cut through the response-team polish.
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I stopped trusting PBM RFP responses at face value after watching a client select the "cheapest" PBM that turned out to be the most expensive once we normalized the pricing methodologies. The headline discount was competitive. The AWP source, the claim exclusions, and the rebate structure made it the worst deal of the three. Now I normalize before I compare. Every time.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_25_thursday_rfp_scoring_audit_worksheet_preview.png]`
+Three PBM bids, one spreadsheet column labeled "discount," three different pricing methodologies underneath it. Normalize the AWP source, the cost basis, and the exclusions, and the ranking can flip outright. We have watched the cheapest bid become the most expensive without a single number changing. The RFP scoring worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: three document stacks in a row on a podium of three steps, each stack topped with a large rank medallion: the stack on the tallest step carries a medallion reading "1st" that is being swapped, via two crossing curved arrows in light blue (#A7E0FA), with the "3rd" medallion on the shortest step. The middle stack keeps "2nd" in gray. Stacks in deep teal-blue outline with repeating page-edge lines for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Same three bids." in deep teal-blue, "New order after the math." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no dollar figures, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A broker I work with brought me into an RFP evaluation with three finalists. She had already ranked them in order of pricing. I ran the normalization and the order flipped. Her second-place PBM became first. The "winner" dropped to third. The math did not change anybody's integrity. It changed the ranking. That evaluation is why every client I work with now gets a normalization step before any vendor ranking discussion.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Origin Story #1:**
-Every PBM response team knows how to make their proposal look competitive. That is their job. My job is figuring out whether the proposal is actually competitive. Those are different questions with different answers, and the gap between them is where employer money gets lost. Learning to read the gap took me years. I try to compress that learning curve for clients.
+**Morning (7-8 AM) — Reveal Note (bid normalization; amplifies the published Monday deep dive):**
+A PBM proposal's headline discount is not a price. It is a formatting choice. Which AWP source, ingredient cost or total claim, which exclusions: those three decisions can move the real number more than the discount itself. The PBM's response team has answered your RFP hundreds of times; your committee runs one every five years. We normalize every bid before any ranking conversation at Prescription Benefit Solutions, because we have watched the cheapest proposal become the most expensive one without a single number changing.
 
-**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
-Six RFP categories that matter: pricing methodology, rebate structure, clinical programs, reporting access, contract terms, and implementation. Most standard templates cover 2-3 of these. The other 3-4 are where the financial surprises live.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Tuesday LinkedIn "Three Levers. Three Clocks." Mountain infographic — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_24_h1_renewal_readiness_scorecard_preview.png]`
+Cost containment levers run on different clocks. Some pay off inside the plan year, some need a renewal to activate, and some only work if the contract language was fixed a year earlier. Sequencing them wrong costs a full cycle. The renewal readiness scorecard is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A CFO sat with me through an RFP evaluation once and asked why the scoring rubric weighted "implementation" so heavily. I told him: bad implementations cost more than bad pricing. I have seen transitions blow up budgets and damage member trust. He weighted implementation higher after that meeting. His plan transitioned smoothly. The category matters because the execution matters.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Roundup Launch Teaser:**
+**Morning (7-8 AM) — Roundup Launch Teaser (post as RESTACK-WITH-NOTE on the live roundup; drop the link line):**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-The most revealing RFP question I ask: "Provide your complete definition of 'rebate' as it will appear in the contract." The answers range from inclusive (all manufacturer payments) to narrow (just rebates as the PBM defines them). That definition alone can be worth six or seven figures over a contract term. I built that question into every RFP I touch.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_28_ger_audit_worksheet_preview.png]`
+Every PBM quotes a competitive discount. The number is meaningless without the methodology underneath it: which AWP source, ingredient or total claim, which claims excluded from the calculation. The proposal team built the whole document around the one cell they know your committee reads first. The GER audit worksheet, which tests a guarantee against its own methodology, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large spreadsheet fragment of nine cells in a 3x3 grid, deep teal-blue gridlines; one single cell glows solid light blue (#A7E0FA) with a bold percentage symbol inside it, while a large gray magnifying glass hovers over the OTHER cells, which contain small abstract squiggle marks implying fine print. Repeating row and column tick marks along the grid edges for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "They built the bid" in deep teal-blue, "around one cell." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no real numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A PBM account manager pushed back on my RFP question bank, calling it "too aggressive." I asked him which question was aggressive. He could not name one. All of the questions were standard. What he meant was that the questions did not allow the usual non-answers. That is a feature, not a flaw. Good questions close the space for bad answers.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Launch Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser (post as RESTACK-WITH-NOTE on the live field note; drop the link line):**
 New field note: three companies now process 80 percent of US prescriptions, up from 52 percent in 2004, and own the pharmacies collecting 70 percent of specialty revenue (FTC, July 2024). Both sides of the counter. The one piece of leverage a plan sponsor still holds is a real RFP. Here is how to use it.
 
 Read: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-The first time I normalized three PBM proposals for a client, the analysis took most of a weekend. I had built the framework on scratch paper. Now we have a template and the same analysis takes a few hours. The work itself has not changed. The tooling has. Every framework I build now exists because I wasted a weekend figuring it out the first time. Clients should not have to repeat that.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Thursday LinkedIn "Three Companies. Both Sides of the Counter." tableau — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_27_thursday_pbm_compensation_audit_preview.png]`
+The company adjudicating your claims and the pharmacy filling them can be the same company. That is what concentration means at the plan level: the referee owns a team. This morning's field note lays out the one lever a plan sponsor still holds. The PBM compensation worksheet, every stream and the question that surfaces it, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A broker told me an RFP finalist was "offering better pricing" and urged me to move the client quickly. I asked to see the pricing in apples-to-apples format. It took two weeks to get the right data. When we normalized, the "better pricing" was not better. It was different. Speed is rarely the right answer in RFP evaluation. Accuracy is.
 
 ## Friday
 
-**Morning (7-8 AM) — Origin Story #1:**
-I had a plan sponsor ask me once whether I was "too suspicious" of PBM proposals. My honest answer: I am proportionate. Proposals are designed to win evaluations. Evaluating them with the same critical eye a contract review deserves is not suspicion. It is fiduciary discipline. Suspicion is emotional. Skepticism is structural. I recommend the latter.
+**Morning (7-8 AM) — Reveal Note (market concentration; runs AFTER Thursday's LinkedIn post published):**
+Three companies process 80 percent of US prescriptions. In 2004 the top three held 52 percent. The same three own the pharmacies collecting about 70 percent of specialty drug revenue, per the FTC's July 2024 interim report. The entity pricing your claim and the entity filling it sit inside one org chart. Consolidation is not a policy abstraction; it is why your renewal quote looks the way it does. The one lever that still works is making the incumbent re-earn the contract in a real RFP.
 
-**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week: clinical program ROI. Your PBM reports millions in savings from clinical programs. Can you verify the methodology? A scorecard that separates real savings from reported savings.
+**Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: generate per prompt below; fallback templates/documents/week_16_pa_roi_audit_scorecard_preview.png]`
+Your PBM reports millions in clinical program savings. The methodology behind that number is the PBM's own, and almost nobody reconciles it. Next week on Benefit Blind Spots: clinical program ROI, with a scorecard that separates real savings from reported savings. The PA ROI scorecard, the same discipline applied to prior authorization, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large presentation slide frame in deep teal-blue outline with an upward-curving savings arrow drawn on it and the label "REPORTED SAVINGS" in IBM Plex Sans SemiBold; behind the slide, partially hidden, a smaller plain document labeled "THE METHODOLOGY" in gray (#4D4D4D), peeking out at an angle. A large light-blue (#A7E0FA) magnifying glass reaches toward the hidden document. Repeating grid dots on the slide frame for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The savings are reported." in deep teal-blue, "The math is not." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A benefits director asked me for an RFP template without the pricing normalization section because "we can do that part ourselves." I sent her the full template anyway. She used it all. The next time she called, she thanked me for not letting her skip the hardest section. Sometimes "we can do it" means "we have not done it yet." The template is more useful with the hard parts included.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story #1:**
-The first RFP I ran independently as a consultant, the client's finance team was furious at me for extending the timeline to normalize the proposals. They wanted to close. I pushed back and lengthened the evaluation. The final selection was different from their initial read. They stopped being furious. Time spent on accuracy is never wasted. Time spent on speed can be.
+**Morning (8-9 AM) — Reveal Note (the improved renewal offer; published-surface amplification):**
+Your incumbent PBM finds new savings the moment an RFP shows up on the calendar. The "improved renewal offer" arrives unprompted, and it is real money. Here is the uncomfortable part: those dollars existed last year too. The discount was always available. The leverage was not. We see this pattern across the RFPs we run at Prescription Benefit Solutions, reliably enough that the improved offer has a nickname in our shop. A market check does not just price the challengers. It prices the incumbent honestly for the first time in years.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Standard PBM RFPs ask questions PBMs are prepared to spin. "What is your discount?" Every PBM quotes a competitive number. But which AWP source? Ingredient or total claim? What exclusions? The headline number is meaningless without the methodology.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_24_thursday_contract_amendment_letter_preview.png]`
+The renewal offer that improves only when an RFP is scheduled tells you what the standing price really was. The amendment letter template, the paste-ready way to open the conversation before renewal season closes it, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Left: a wall calendar page in deep teal-blue outline with the letters "RFP" oversized in IBM Plex Mono on its face. Right: a simple envelope in gray (#4D4D4D) outline, popped open, with a price tag jumping out of it toward the calendar; the tag rendered in light blue (#A7E0FA) with a downward discount arrow on its face. A dashed light-blue sight-line connects the calendar to the envelope, implying cause and effect. Repeating short dashes along the sight-line for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The discount appeared" in deep teal-blue, "when the RFP did." in light blue. NO calendar grid, no small dates, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A PBM executive told me at a conference that my RFP template "made his team work harder." I took it as a compliment. The whole point of better questions is to produce better answers. If the PBM's proposal team is working harder, the client is getting more information. That is what the exercise is for. He meant it as a complaint. I still take it as a compliment.
 
 ## Sunday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A pharmacy student asked me whether RFPs were "boring." I told her they are boring until you watch a seven-figure decision get made based on 30 questions. Then they are not boring at all. The evaluation process is where the economics get locked in for years. Boring is the wrong word. Consequential is the right word. Different framing changes how you approach the work.
+**Morning (8-9 AM) — Reveal Note (the rebate-definition RFP question; published in the Monday deep dive):**
+The most revealing question in a PBM RFP is not about the discount. It is: "Provide your complete definition of 'rebate' as it will appear in the contract." The answers range from inclusive, meaning all manufacturer payments, to narrow, meaning only what the PBM chooses to call a rebate. That one definition can be worth six or seven figures over a contract term, and most RFP templates never ask for it. We built the question into every RFP we run at Prescription Benefit Solutions. The proposals answer politely. The definitions answer honestly.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-The RFP scoring rubric I use: 0-3 points per question, graded on specificity, commitment, and enforceability. A vague but pleasant answer scores lower than a precise but unfavorable one. Clarity beats politeness in contract language. The PBMs that learn that earn more of my clients' business over time.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_20_thursday_rebate_report_audit_worksheet_preview.png]`
+"Rebate" has no default meaning in a PBM contract. The definition is the concept, and the party writing the definition knows exactly what it excludes. The rebate report worksheet, definitions first, percentage second, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large dictionary-style entry card in deep teal-blue outline: the headword "REBATE" in IBM Plex Sans SemiBold at top, followed by three ruled definition lines left intentionally blank; a large fountain pen rendered in light blue (#A7E0FA), labeled "PBM" on its barrel in small caps, hovers over the blank lines mid-write with a short ink stroke started. Repeating faint ruled lines across the card for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The word means" in deep teal-blue, "whatever they write next." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 I had a client thank me after an RFP by saying, "I learned more from the questions than from the answers." I smiled and agreed. The questions teach the buyer what to care about. The answers teach the buyer what the market is actually offering. Both halves matter. The questions are my contribution. The answers are the PBM's response to that contribution. Both get better over time if the questions keep improving.
 
 ## Engagement Reply Templates
@@ -840,6 +850,21 @@ I had a client thank me after an RFP by saying, "I learned more from the questio
 **Template A:** "The RFP process fails when questions allow vague answers. 'What is your discount?' is not a useful question without specifying the AWP source, the cost basis, and the claim exclusions. Specificity in questions produces specificity in answers."
 
 **Template B:** "The best brokers add a layer of specificity on top of standard RFP templates. Follow-up questions with scoring criteria that distinguish between committed answers and vague ones. That structure normalizes responses and reveals which proposals are genuinely competitive."
+
+## Spare Notes (displaced by the Jul 24 restack-reset conform; hold for swap-ins or future weeks)
+
+_Drafted content preserved per the no-deletion rule. Use these if a scheduled slot needs a swap, or recycle into a future week's afternoon slots. The old Friday-midday forward look was absorbed into the Friday visual-note caption, not lost._
+
+- **Origin (was Mon midday):** I stopped trusting PBM RFP responses at face value after watching a client select the "cheapest" PBM that turned out to be the most expensive once we normalized the pricing methodologies. The headline discount was competitive. The AWP source, the claim exclusions, and the rebate structure made it the worst deal of the three. Now I normalize before I compare. Every time.
+- **Origin (was Tue morning):** Every PBM response team knows how to make their proposal look competitive. That is their job. My job is figuring out whether the proposal is actually competitive. Those are different questions with different answers, and the gap between them is where employer money gets lost. Learning to read the gap took me years. I try to compress that learning curve for clients.
+- **Expertise (was Tue midday):** Six RFP categories that matter: pricing methodology, rebate structure, clinical programs, reporting access, contract terms, and implementation. Most standard templates cover 2-3 of these. The other 3-4 are where the financial surprises live.
+- **Origin (was Wed midday; the fact now carries the Sunday reveal slot):** The most revealing RFP question I ask: "Provide your complete definition of 'rebate' as it will appear in the contract." The answers range from inclusive (all manufacturer payments) to narrow (just rebates as the PBM defines them). That definition alone can be worth six or seven figures over a contract term. I built that question into every RFP I touch.
+- **Origin (was Thu midday):** The first time I normalized three PBM proposals for a client, the analysis took most of a weekend. I had built the framework on scratch paper. Now we have a template and the same analysis takes a few hours. The work itself has not changed. The tooling has. Every framework I build now exists because I wasted a weekend figuring it out the first time. Clients should not have to repeat that.
+- **Origin (was Fri morning):** I had a plan sponsor ask me once whether I was "too suspicious" of PBM proposals. My honest answer: I am proportionate. Proposals are designed to win evaluations. Evaluating them with the same critical eye a contract review deserves is not suspicion. It is fiduciary discipline. Suspicion is emotional. Skepticism is structural. I recommend the latter.
+- **Origin (was Sat morning):** The first RFP I ran independently as a consultant, the client's finance team was furious at me for extending the timeline to normalize the proposals. They wanted to close. I pushed back and lengthened the evaluation. The final selection was different from their initial read. They stopped being furious. Time spent on accuracy is never wasted. Time spent on speed can be.
+- **Expertise (was Sat midday):** Standard PBM RFPs ask questions PBMs are prepared to spin. "What is your discount?" Every PBM quotes a competitive number. But which AWP source? Ingredient or total claim? What exclusions? The headline number is meaningless without the methodology.
+- **Origin (was Sun morning):** A pharmacy student asked me whether RFPs were "boring." I told her they are boring until you watch a seven-figure decision get made based on 30 questions. Then they are not boring at all. The evaluation process is where the economics get locked in for years. Boring is the wrong word. Consequential is the right word. Different framing changes how you approach the work.
+- **Expertise (was Sun midday):** The RFP scoring rubric I use: 0-3 points per question, graded on specificity, commitment, and enforceability. A vague but pleasant answer scores lower than a precise but unfavorable one. Clarity beats politeness in contract language. The PBMs that learn that earn more of my clients' business over time.
 
 ---
 
