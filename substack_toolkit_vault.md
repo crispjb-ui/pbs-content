@@ -18,6 +18,33 @@ _Created Jul 24, 2026. **Origin:** paid subscriber Nick suggested toolkit access
 
 ---
 
+## Post title, subtitle, and header image
+
+**Title:** `The Plan Sponsor Toolkit Vault`
+**Subtitle:** `Every worksheet we publish, attached in one post. Paid subscribers only, updated in place as the library grows.`
+
+**Channel color: Gray (#4D4D4D) — Reference Channel.** The Vault sits outside the weekly Mon/Wed/Thu cadence, exactly like the Contract Language Library, Monthly Q&A, and What I'd Ask, so it takes the Reference Channel treatment: Gray background, White + Accent Blue two-tone headline (Primary Blue is unreadable on this gray), Accent Blue badge top-right with Primary Blue badge text. 2240 x 1260 px, Topic Icon template. The badge reads `PAID EXCLUSIVE` rather than repeating the asset name (the headline already carries it; the badge's job here is to signal the tier at a glance). No toolkit count in the image — the number grows, and the header should never go stale.
+
+**Header image generation prompt:**
+
+```
+Minimalist flat vector illustration, wide banner format, 2240 x 1260 pixels. Solid dark gray background, hex #4D4D4D, with clean negative space and no background texture or grid.
+
+Centered composition: a round bank-vault door viewed straight on, drawn swung open at a slight angle so the interior is visible. Inside the vault, instead of money, a neat upright stack of white document sheets; the front sheet shows a bold checklist with three checked boxes. The vault door has a combination dial rendered mid-turn, with a short curved motion arc beside it showing the dial in motion.
+
+Accent Blue, hex #A7E0FA, applied to exactly these elements: the combination dial and its motion arc, the three checkmarks on the front document, and the thin rim outline of the open vault door. All other linework in white or light gray.
+
+Repeating geometric detail: fine evenly spaced tick marks around the outer rim of the vault door, like a dial face.
+
+Headline above or beside the vault in IBM Plex Sans SemiBold, two-tone: "THE TOOLKIT" in white and "VAULT" in Accent Blue #A7E0FA. Subtitle line below the headline in IBM Plex Mono Medium, white: "Every worksheet. One post. Always current."
+
+Top-right corner: a small rounded rectangle badge in Accent Blue #A7E0FA containing the text "PAID EXCLUSIVE" in Primary Blue #015880, uppercase, small with slight letter spacing.
+```
+
+_If the generator mangles the headline text, fall back to the standard Canva pass: generate the illustration without text, add headline/subtitle/badge in Canva with the same specs._
+
+---
+
 ## Subscribe-page plan benefits ("What subscribers get" — Settings → Payments)
 
 _Added Jul 24, 2026 (Brett: the paid button should tell readers there is more content for paid while they are deciding). Substack shows these bullet lists on the subscribe page and upgrade prompts, one box per tier. Paste each list into its box. **Sequencing: paste these in the SAME SITTING the Vault post publishes, not before** — the paid list names the Vault, and the subscribe page must never promise content that is not live yet. Until then the current generic benefits stay._
