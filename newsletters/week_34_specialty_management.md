@@ -12,9 +12,9 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Sun Aug 23 | - | Prep | Final review of all content | this sheet | [ ] |
 | Mon Aug 24 | 7:30 AM | Substack | Deep dive: "Specialty Drug Management: The Category That Defines Your Plan's Cost Trajectory" | PART 1 | [ ] |
 | Mon Aug 24 | 7:45 AM | LI Newsletter | Specialty Management Briefing (Issue #29) | PART 2 | [ ] |
+| Mon Aug 24 | 7-8 AM | Notes | Note #1 launch teaser (restack-with-note on the live deep dive) | PART 4 · Mon | [ ] |
 | Mon Aug 24 | 8:00 AM | X | recipe / J-code billing gap (Tier B) | PART 4B · Mon | [ ] |
 | Mon Aug 24 | 12:00 PM | X | news-reaction HOLD | PART 4B · Mon | [ ] |
-| Mon Aug 24 | Evening | Notes | Note #1 launch teaser | PART 4 · Mon | [ ] |
 | Mon Aug 24 | 5:00 PM | X | punchy | PART 4B · Mon | [ ] |
 | Mon Aug 24 | 7:00 PM | X | question [A14] | PART 4B · Mon | [ ] |
 | Mon Aug 24 | 8:30 PM | X | aphorism [C1] | PART 4B · Mon | [ ] |
@@ -26,32 +26,31 @@ _Publish order, top to bottom. Schedule straight down this list; the **Where** c
 | Tue Aug 25 | 5:00 PM | X | punchy | PART 4B · Tue | [ ] |
 | Tue Aug 25 | 7:00 PM | X | question [A15] | PART 4B · Tue | [ ] |
 | Tue Aug 25 | 8:30 PM | X | one question [B1] | PART 4B · Tue | [ ] |
+| Wed Aug 26 | 7-8 AM | Notes | Roundup launch teaser (restack-with-note on the live roundup) | PART 4 · Wed | [ ] |
 | Wed Aug 26 | 8:00 AM | X | recipe / GER gaming (Tier B) | PART 4B · Wed | [ ] |
 | Wed Aug 26 | 8:30 AM | LI Feed | Post 126 — SHRM clip5 "They'll get them anyway" (GLP-1 DTC reframe) · NATIVE 9:16 VIDEO; first comment → pbm-compensation toolkit | Post 126 | [ ] |
 | Wed Aug 26 | 12:00 PM | X | news-reaction HOLD | PART 4B · Wed | [ ] |
-| Wed Aug 26 | Afternoon | Notes | Note #2 pull-quote | PART 4 · Wed | [ ] |
 | Wed Aug 26 | 5:00 PM | X | punchy | PART 4B · Wed | [ ] |
 | Wed Aug 26 | 7:00 PM | X | question [A16] | PART 4B · Wed | [ ] |
 | Wed Aug 26 | 8:30 PM | X | aphorism [C2] | PART 4B · Wed | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Field Note: "Why Does Your PBM Mark Up Specialty Generics at Its Own Pharmacy?" | PART 1B | [ ] |
 | Thu Aug 27 | 7:30 AM | Substack | Monthly Q&A Thread #5: Pre-Renewal Strategy (last-Thursday thread) | PART 2B | [ ] |
+| Thu Aug 27 | 7-8 AM | Notes | Field Note launch teaser (restack-with-note on the live field note) | PART 4 · Thu | [ ] |
 | Thu Aug 27 | 8:00 AM | X | recipe / Admin fee unbundling (Tier B) | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 8:30 AM | LI Feed | Post 127 — "1 in 5 Specialty Generics, Marked Up Over 1,000%" (The 1-in-5 Rocket single-image reveal — shocking hidden-structure reveal) | Post 127 | [ ] |
 | Thu Aug 27 | 8:35 AM | LI Feed | Post 127 first comment | Post 127 | [ ] |
 | Thu Aug 27 | 12:00 PM | X | Thu-visual amplifier [VISUAL: 1-in-5 specialty generic markup reveal] (after 10 AM) | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 1:30 PM | LI Company | Reshare of Post 127 | Post 127 Reshare | [ ] |
-| Thu Aug 27 | Evening | Notes | Note #3 engagement question | PART 4 · Thu | [ ] |
 | Thu Aug 27 | 5:00 PM | X | punchy | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 7:00 PM | X | question [A1] | PART 4B · Thu | [ ] |
 | Thu Aug 27 | 8:30 PM | X | one question [B2] | PART 4B · Thu | [ ] |
+| Fri Aug 28 | 7-8 AM | Notes | Reveal note (1-in-5 specialty markup; runs only AFTER Thursday's post published) | PART 4 · Fri | [ ] |
 | Fri Aug 28 | 8:00 AM | X | recipe / Network access fee (Tier B) | PART 4B · Fri | [ ] |
 | Fri Aug 28 | 8:30 AM | LI Feed | Post 128 — Tease Hook (teases W35 Renewal Negotiation) | Post 128 | [ ] |
 | Fri Aug 28 | 12:00 PM | X | news-reaction HOLD | PART 4B · Fri | [ ] |
-| Fri Aug 28 | Afternoon | Notes | Note #4 industry observation | PART 4 · Fri | [ ] |
 | Fri Aug 28 | 5:00 PM | X | table scene [G-fresh] | PART 4B · Fri | [ ] |
 | Fri Aug 28 | 7:00 PM | X | question [A2] | PART 4B · Fri | [ ] |
 | Fri Aug 28 | 8:30 PM | X | origin-anchored [D3] | PART 4B · Fri | [ ] |
-| Sat Aug 29 | - | Notes | Note #5 engage another publication | PART 4 · Sat | [ ] |
 | Sat Aug 29 | 8:00 AM | X | recipe / Spread pricing (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 10:00 AM | X | formulary exclusivity payment (Tier A) | PART 4B · Sat | [ ] |
 | Sat Aug 29 | 12:00 PM | X | news-reaction HOLD | PART 4B · Sat | [ ] |
@@ -719,96 +718,121 @@ Get next Monday's deep dive on Renewal Negotiation in your inbox: benefitblindsp
 
 # PART 4: SUBSTACK NOTES (Daily Schedule)
 
-> **Instructions (revised April 20, 2026):** Post 3 Notes per day, scheduled a week at a time via Substack's scheduler. Daily cadence: 2 origin-story / personal-experience Notes + 1 rotating content Note. On launch days (Mon article, Wed roundup, Thu field note), the rotating slot is replaced by the launch teaser. Engagement data shows origin-story / personal Notes are the only format generating reciprocal engagement; the other rotating formats (expertise insight, provocative one-liner, industry observation, question, forward-look) now share a single midday slot on non-launch days. Engagement replies with other writers are handled separately. The existing day-by-day Notes below can be used as-is, rotated, or replaced with origin-story content where the current slot is non-personal.
+> **Instructions (per `substack_notes_plan_2026_07.md`; W34 conformed to the restack-reset structure Jul 24, 2026 per Brett's directive — runs after the W29-W32 trial window; if the mid-Aug read-out reverses the mix, /propagate-rule sweeps this week back):** Post 3 Notes per day via the scheduler. Slot design: **Morning = reveal note** (self-contained hidden-mechanism fact, restack-worthy, PBS anchor, NO link in the body; replaced by the launch teaser on Mon/Wed/Thu — and the teaser posts as a RESTACK-WITH-NOTE on the live article, never a scheduled Note: once the piece is live, restack it and paste the teaser as the note, dropping the [LINK] line; /first-comments-today surfaces this daily). **Midday = visual note** (generation prompt in the PBS flat-design recipe; `[VISUAL]` names the library fallback PNG; the caption says what the visual proves, never "new post out"). **Afternoon = origin/personal.** **Reveal-reservation inside this week:** the 1-in-5 / 1,000%-markup fact runs only AFTER Thursday's LinkedIn reveal publishes (Fri morning slot); the J-code lane fact runs Saturday, after Monday's X recipe published it; Sunday's reauthorization-autopilot fact is week-native with no LinkedIn slot to scoop; Tuesday morning amplifies the published Monday deep dive. **Metric: restacks + app-source subs**, logged via `/log-metrics`. Ginny's active layer: 1 restack-with-note/day + same-day replies (plan doc §3). Displaced drafts are parked in the Spares block below, not deleted.
 
 ## Monday
 
-**Morning (7-8 AM) — Article Launch Teaser:**
+**Morning (7-8 AM) — Article Launch Teaser (post as RESTACK-WITH-NOTE on the live article; drop the link line):**
 Specialty is now the majority of pharmacy cost for most of our clients, and most plans actively manage only two or three of the eight levers that control it. The rest run on the PBM's defaults, and the defaults are not priced in your favor. This week's deep dive: all eight levers, three scoring dimensions, one assessment that shows where your gaps are.
 
 Read the full analysis: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I trained as a clinical pharmacist. Specialty drugs represent some of the most remarkable therapeutic advances in medicine. Biologics that put autoimmune conditions into remission. Gene therapies that cure previously untreatable diseases. My job is not to restrict access to these therapies. It is to ensure the plan structure around them serves both the member's clinical needs and the employer's financial sustainability. Those goals are not in conflict. They require the same thing: independent management.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_22_thursday_specialty_routing_audit_worksheet_preview.png]`
+The specialty levers your plan does not actively manage are not unmanaged. They are managed by the PBM's defaults, and the defaults were not priced in your favor. Most plans we review run five or six of the eight levers on autopilot. The specialty routing worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large rocker switch panel in deep teal-blue outline with one oversized toggle switch flipped toward a side labeled "PBM DEFAULTS" in gray (#4D4D4D); the other side, labeled "PLAN MANAGED" in IBM Plex Sans SemiBold, sits unlit; a simple hand icon in light blue (#A7E0FA) reaches toward the switch from the right edge. Repeating small indicator dots along the panel base for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Your specialty strategy" in deep teal-blue, "is running on defaults." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 I remember the exact moment a client realized their specialty pharmacy spend had crossed the line. It now represented a larger share of their total pharmacy cost than every other category combined. That single data point changed how they approached every contract provision, every formulary decision, and every vendor evaluation. Specialty is no longer a subcategory. For most plans, it is the category.
 
 ## Tuesday
 
-**Morning (7-8 AM) — Origin Story #1:**
-A patient I worked with years ago on a rheumatoid arthritis biologic told me that her medication had given her back the ability to pick up her kids. That story is the reason I argue against blunt-instrument cost controls on specialty. Strong management is not the same as restricted access. The sponsors who get that distinction right produce better outcomes for both the plan and the members.
+**Morning (7-8 AM) — Reveal Note (levers on autopilot; amplifies the published Monday deep dive):**
+Eight levers control specialty cost: formulary positioning, site of care, step therapy, biosimilar adoption, limited distribution access, copay card design, clinical pathways, and reauthorization. Most plans actively manage two or three. The other five or six run on the PBM's default settings, and a default is not neutral: it is a decision someone else made about your money. In the contract reviews we run at Prescription Benefit Solutions, the levers with no active management are reliably the ones where the cost curve bends the wrong way. Yesterday's deep dive scores all eight.
 
-**Midday (11 AM-1 PM) — Rotating Content (Expertise Insight):**
-Eight levers. Most plans strong on 2-3. Gaps on the rest. The levers with gaps are where specialty cost grows unchecked. Start with the gap that matches your highest spend category.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Tuesday LinkedIn "Programs That Earn Their Keep" Bridge infographic — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_16_pa_roi_audit_scorecard_preview.png]`
+A clinical program that cannot show verified savings is a fee. A program that can is a lever. The difference is measurement discipline, not clinical quality. The PA ROI scorecard, the verification frame that moves a program from one column to the other, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A benefits director told me she did not know where to start on specialty management because the category felt overwhelming. I walked her through the eight-lever framework and asked her to pick the lever where she had the least confidence. She picked reauthorization. We fixed that one first. The framework stops feeling overwhelming when you pick one lever at a time. Sequencing matters in any big category.
 
 ## Wednesday
 
-**Morning (7-8 AM) — Roundup Launch Teaser:**
+**Morning (7-8 AM) — Roundup Launch Teaser (post as RESTACK-WITH-NOTE on the live roundup; drop the link line):**
 What Crossed My Desk This Week is live on Benefit Blind Spots. Four stories shaping pharmacy benefit decisions right now, with notes on what each one means for self-funded plan sponsors.
 
 Read the roundup: [LINK]
 
 _Publisher note (added Jul 9, 2026, from the W27 named-entity learning): once Tuesday's roundup draft exists, swap the generic first line for the lead story with its named entity, e.g. "CVS just [did X]. That story leads What Crossed My Desk This Week, plus three more with plan-sponsor notes." Proper nouns are what earn distribution; the generic version above is the fallback only._
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-Reauthorization is the specialty cost lever nobody talks about. Once a specialty therapy is authorized, how often is it reviewed? Members on long-term therapy may no longer meet clinical criteria. Without periodic review, the authorization runs on autopilot. And autopilot in specialty is expensive. I bring this up in every client engagement because nobody else is raising it.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_18_drug_pipeline_watch_list_preview.png]`
+Excluding a GLP-1 from coverage does not exclude the demand. Members reach the drug anyway, through cash channels and direct-to-consumer routes, and the plan loses visibility along with the claim. This morning's clip makes the case for designing around the demand instead of pretending the exclusion ends it. The drug pipeline watch list is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a wall in deep teal-blue outline with a closed gate labeled "PLAN BENEFIT" in IBM Plex Sans SemiBold; a light-blue (#A7E0FA) dashed flow line of small person icons curves around the wall's open side toward a smaller doorway labeled "CASH / DTC" in gray (#4D4D4D). Repeating brick lines on the wall for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "You excluded the drug." in deep teal-blue, "Not the demand." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A specialty pharmacist told me once that her internal workflow prompted reauthorization reviews on a calendar nobody outside her team saw. When I asked to map that schedule, she said it had never been requested. Employers were paying for the reviews but had no visibility into them. We built a reauthorization reporting summary with her. It now gets shared with every client on her specialty program. Transparency is often a request that has just never been made.
 
 ## Thursday
 
-**Morning (7-8 AM) — Field Note Launch Teaser:**
+**Morning (7-8 AM) — Field Note Launch Teaser (post as RESTACK-WITH-NOTE on the live field note; drop the link line):**
 New field note: the FTC found the big-3 PBMs marked up more than one in five specialty generics over 1,000% at the pharmacies they own. Generics, not brand drugs. Here are the three claims passes that find that markup on your own plan.
 
 Read: [LINK]
 
-**Midday (11 AM-1 PM) — Origin Story #1:**
-I advised a client to push reauthorization language into a new PBM contract three years ago. The clause looked simple. Six months in, the PBM flagged two members whose continued therapy no longer met clinical criteria. Thoughtful transitions followed. The savings were real. The clinical oversight was the point. That outcome is why I now draft reauthorization language into every specialty management negotiation.
+**Midday (11 AM-1 PM) — Visual Note** `[VISUAL: reuse today's Thursday LinkedIn "1-in-5 Rocket" reveal image — attach AFTER the 8:30 AM LinkedIn post publishes (LinkedIn-first rule); it is already a creative visual, no new generation needed. Fallback: templates/documents/week_27_thursday_pbm_compensation_audit_preview.png]`
+More than one in five specialty generics carried markups over 1,000 percent at PBM-owned pharmacies, per the FTC's January 2025 report. Generic drugs, marked up like brands, at the pharmacy the PBM routed the script to. This morning's field note has the three claims passes that surface it. The PBM compensation worksheet is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+**Afternoon (3-6 PM) — Origin Story:**
 A nurse case manager thanked me once for a reauthorization protocol that let her have better conversations with members whose therapy criteria had evolved. She said the protocol gave her language to use that was clinical, not administrative. That reframe mattered for her. It mattered more for the members. Good protocol design is care design. The two cannot be separated.
 
 ## Friday
 
-**Morning (7-8 AM) — Origin Story #1:**
-Specialty management is the category that defines every self-funded plan's cost trajectory now. I see it in every contract review. Eight levers. Three scoring dimensions. One direction of travel if the levers are not actively managed. The work is not glamorous. It is foundational. The plans that treat it as foundational stay ahead of the cost curve. The plans that treat it as an afterthought get caught by the curve.
+**Morning (7-8 AM) — Reveal Note (1-in-5 markup; runs AFTER Thursday's LinkedIn post published):**
+More than one in five specialty generic drugs were marked up over 1,000 percent at pharmacies the big-3 PBMs own, per the FTC's January 2025 interim report. Not brand drugs with rebate stories attached. Generics, the drugs that are supposed to be the cheap part of the plan. The same company sets the price, owns the pharmacy, and routes the script. Three claims passes surface it on any plan: pull the specialty generic claims, sort by filling pharmacy, compare against the public acquisition benchmark. We run that comparison as standard work at Prescription Benefit Solutions.
 
-**Midday (11 AM-1 PM) — Rotating Content (Forward Look):**
-Next week: the renewal negotiation playbook. Back-to-business surge. Twelve provisions. Market benchmarks. Specific language. Negotiation tactics. The strongest content of the quarter.
+**Midday (11 AM-1 PM) — Visual Note + Forward Look** `[VISUAL: generate per prompt below; fallback templates/documents/week_35_thursday_termination_clause_audit_preview.png]`
+Renewal season opens next week, and your PBM has been modeling your claims since July. Next week on Benefit Blind Spots: the renewal negotiation playbook, twelve provisions with market benchmarks and the specific language that moves each one. The termination clause audit, whether you can actually leave and what leaving costs, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-6 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a long negotiation table seen from above in deep teal-blue outline; on one side, a fanned hand of twelve small cards in light blue (#A7E0FA), each card carrying a tiny paragraph glyph; on the other side, a single closed folder in gray (#4D4D4D). Repeating wood-grain lines along the table surface for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Renewal is a playbook." in deep teal-blue, "Not a meeting." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-6 PM) — Origin Story:**
 A CFO asked me once why specialty management was "more important" than other pharmacy cost categories. My answer: because it is growing. The other categories are stable or declining. Specialty is the arrow pointing up. If you can only prioritize one category, prioritize the one with momentum. He rewrote his pharmacy scorecard around that framing. The plan's specialty outcomes improved within the year.
 
 ## Saturday
 
-**Morning (8-9 AM) — Origin Story #1:**
-My first specialty case management engagement was for a client with three high-cost claimants representing a disproportionate share of their total pharmacy spend. The care coordination we built around those three members prevented avoidable complications and unnecessary therapy. The member experience improved. The plan's cost stabilized. Specialty case management is not cost containment disguised as care. It is care that produces cost stability.
+**Morning (8-9 AM) — Reveal Note (the J-code lane; published-surface amplification):**
+The most expensive drugs on your plan may run through the lane with the least price scrutiny. Provider-administered specialty drugs bill the medical benefit under J-codes, not NDCs: no unit price on the claim, no MAC list, no pharmacy guarantee applies. The pharmacy benefit has pricing infrastructure with gaps. The medical-benefit drug lane often has no pricing infrastructure at all. When we review a plan's specialty spend at Prescription Benefit Solutions, the J-code claims are where the largest unexamined dollars usually sit.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Eight specialty management levers: formulary positioning, site-of-care, step therapy, biosimilar adoption, limited distribution access, copay card programs, clinical pathways, and reauthorization protocols. Each needs its own data, its own contract provision, and its own review cadence. The framework exists because specialty is too big to manage by instinct.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_30_thursday_cob_audit_worksheet_preview.png]`
+Two lanes carry your drug spend. The pharmacy lane has price checks: MAC lists, guarantees, per-claim adjudication. The medical lane carries the most expensive drugs with none of them. The coordination of benefits worksheet, the claims that paid wrong because nobody checked the lanes, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: two parallel horizontal highway lanes drawn in deep teal-blue outline: the top lane labeled "PHARMACY BENEFIT" in IBM Plex Sans SemiBold passes under three toll-booth style scanner arches in light blue (#A7E0FA); the bottom lane labeled "MEDICAL BENEFIT · J-CODE" is wide open with no arches, carrying a single large vial icon in gray (#4D4D4D). Repeating dashed lane-divider marks for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "The priciest drugs" in deep teal-blue, "ride the unpriced lane." in light blue. Generous negative space, no gradients, no 3D, no photos, no logos, no numbers, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A client's benefits committee asked me once to pick the "most important" specialty lever. I refused. The most important lever is the one your plan has not addressed yet. For some clients that is reauthorization. For others it is clinical pathways. The framework is useful because it reveals where the gap is, not because it dictates which gap matters most in general. Your plan's gap is the answer.
 
 ## Sunday
 
-**Morning (8-9 AM) — Origin Story #1:**
-A pharmacy student asked me whether specialty management was a "pharmacy job" or a "finance job." I told her: both. The category does not respect the traditional split. The pharmacists who can also read contracts will be the ones the next generation of plan sponsors hire. The finance people who can learn pharmacy will be the ones the next generation of PBMs have to negotiate with. The convergence is where the jobs are.
+**Morning (8-9 AM) — Reveal Note (reauthorization autopilot; week-native, no LinkedIn slot to scoop):**
+Once a specialty therapy is authorized, it may never be reviewed again. The member's clinical picture evolves, the criteria that justified the therapy may no longer hold, and the authorization keeps renewing itself in the background, because nobody's contract says otherwise. Autopilot in specialty is expensive in both directions: the plan pays for therapy past its criteria, and the member stays on a drug nobody is re-evaluating. Reauthorization language is one clause. We draft it into every specialty negotiation at Prescription Benefit Solutions, and it is usually the clause nobody had thought to ask for.
 
-**Midday (12-2 PM) — Rotating Content (Expertise Insight):**
-Specialty management is not one lever pulled once. It is eight levers pulled continuously. The plans that pull them all well stay ahead of the cost trajectory. The plans that pull one or two and assume the PBM handles the rest fall behind. The PBM's default settings are not aligned with the plan's cost objectives. Active management is the only option.
+**Midday (12-2 PM) — Visual Note** `[VISUAL: generate per prompt below; fallback templates/documents/week_26_thursday_step_therapy_override_audit_preview.png]`
+An authorization without a review cadence is a subscription. The step therapy override audit, whether the clinical program design serves the plan or runs on inertia, is free in the Toolkit Library at rxbs.org.
 
-**Afternoon (3-5 PM) — Origin Story #2:**
+> **Image prompt (1080x1350, flat design):** A clean flat-design infographic on a white background, brand palette only: deep teal-blue (#015880), light blue (#A7E0FA), gray (#4D4D4D). Center: a large document in deep teal-blue outline carrying an oversized round stamp reading "AUTHORIZED" in IBM Plex Sans SemiBold; from the stamp, a circular light-blue (#A7E0FA) arrow loops back onto itself, implying automatic renewal; behind the document, three faded gray (#4D4D4D) calendar pages drift away to the upper right like falling leaves. Repeating ruled lines faintly on the document for texture. Top headline, two-tone in IBM Plex Sans SemiBold, 60-72pt: "Authorized once." in deep teal-blue, "Reviewed never." in light blue. NO calendar grids, no dates, no gradients, no 3D, no photos, no logos, no small print. All text legible at a 400px thumbnail.
+
+**Afternoon (3-5 PM) — Origin Story:**
 A broker told me a while back that specialty management had become the hardest conversation she had with new clients because the data always looked worse than clients expected. I told her that is actually the easy conversation. The hard conversation is the one a year later when the plan has not acted on the data. Bad news at the start beats avoidable bad news at the end. Clients who hear it early usually move. Clients who do not usually do not.
 
 ## Engagement Reply Templates
 
 **Template A:** "Specialty management is eight decisions, not one. Each lever either contains cost or allows it to compound. The plans with the strongest specialty outcomes are the ones that evaluate all eight independently, not the ones that delegate everything to the PBM."
+
+## Spare Notes (displaced by the Jul 24 restack-reset conform; hold for swap-ins or future weeks)
+
+_Drafted content preserved per the no-deletion rule. Use these if a scheduled slot needs a swap, or recycle into a future week's afternoon slots. The old Friday-midday forward look was absorbed into the Friday visual-note caption; the old Wednesday-midday reauthorization insight was promoted into the Sunday reveal slot._
+
+- **Origin (was Mon midday):** I trained as a clinical pharmacist. Specialty drugs represent some of the most remarkable therapeutic advances in medicine. Biologics that put autoimmune conditions into remission. Gene therapies that cure previously untreatable diseases. My job is not to restrict access to these therapies. It is to ensure the plan structure around them serves both the member's clinical needs and the employer's financial sustainability. Those goals are not in conflict. They require the same thing: independent management.
+- **Origin (was Tue morning):** A patient I worked with years ago on a rheumatoid arthritis biologic told me that her medication had given her back the ability to pick up her kids. That story is the reason I argue against blunt-instrument cost controls on specialty. Strong management is not the same as restricted access. The sponsors who get that distinction right produce better outcomes for both the plan and the members.
+- **Expertise (was Tue midday):** Eight levers. Most plans strong on 2-3. Gaps on the rest. The levers with gaps are where specialty cost grows unchecked. Start with the gap that matches your highest spend category.
+- **Origin (was Wed midday; the mechanism now carries the Sunday reveal):** Reauthorization is the specialty cost lever nobody talks about. Once a specialty therapy is authorized, how often is it reviewed? Members on long-term therapy may no longer meet clinical criteria. Without periodic review, the authorization runs on autopilot. And autopilot in specialty is expensive. I bring this up in every client engagement because nobody else is raising it.
+- **Origin (was Thu midday):** I advised a client to push reauthorization language into a new PBM contract three years ago. The clause looked simple. Six months in, the PBM flagged two members whose continued therapy no longer met clinical criteria. Thoughtful transitions followed. The savings were real. The clinical oversight was the point. That outcome is why I now draft reauthorization language into every specialty management negotiation.
+- **Origin (was Fri morning):** Specialty management is the category that defines every self-funded plan's cost trajectory now. I see it in every contract review. Eight levers. Three scoring dimensions. One direction of travel if the levers are not actively managed. The work is not glamorous. It is foundational. The plans that treat it as foundational stay ahead of the cost curve. The plans that treat it as an afterthought get caught by the curve.
+- **Origin (was Sat morning):** My first specialty case management engagement was for a client with three high-cost claimants representing a disproportionate share of their total pharmacy spend. The care coordination we built around those three members prevented avoidable complications and unnecessary therapy. The member experience improved. The plan's cost stabilized. Specialty case management is not cost containment disguised as care. It is care that produces cost stability.
+- **Expertise (was Sat midday):** Eight specialty management levers: formulary positioning, site-of-care, step therapy, biosimilar adoption, limited distribution access, copay card programs, clinical pathways, and reauthorization protocols. Each needs its own data, its own contract provision, and its own review cadence. The framework exists because specialty is too big to manage by instinct.
+- **Origin (was Sun morning):** A pharmacy student asked me whether specialty management was a "pharmacy job" or a "finance job." I told her: both. The category does not respect the traditional split. The pharmacists who can also read contracts will be the ones the next generation of plan sponsors hire. The finance people who can learn pharmacy will be the ones the next generation of PBMs have to negotiate with. The convergence is where the jobs are.
+- **Expertise (was Sun midday):** Specialty management is not one lever pulled once. It is eight levers pulled continuously. The plans that pull them all well stay ahead of the cost trajectory. The plans that pull one or two and assume the PBM handles the rest fall behind. The PBM's default settings are not aligned with the plan's cost objectives. Active management is the only option.
 
 ---
 
