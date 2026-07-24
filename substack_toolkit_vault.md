@@ -57,7 +57,7 @@ _Added Jul 24, 2026 (Brett: the paid button should tell readers there is more co
 Monday deep dive, Wednesday roundup, and Thursday field note, every week. Articles are never paywalled. Plus the PBM Contract Language Library.
 ```
 
-**Paid subscriber benefits (delete all three existing fields, add these four):**
+**Paid subscriber benefits (the tier is capped at THREE fields — replace the three existing fields with these three):**
 
 ```
 Everything in the free tier. The articles themselves are never paywalled.
@@ -66,10 +66,7 @@ Everything in the free tier. The articles themselves are never paywalled.
 The Toolkit Vault: every Plan Sponsor Toolkit PDF in one post, no forms, updated in place as the library grows.
 ```
 ```
-The Practitioner's Note inside Monday deep dives: the pushback line, the counter-move, the concession order.
-```
-```
-Your toolkit requests move to the front of the build queue.
+Practitioner's Notes in Monday deep dives, plus your toolkit requests jump the build queue.
 ```
 
 **Founding member benefits (SINGLE field with a character cap — one compressed line, slash-separated like the old field):**
@@ -77,8 +74,6 @@ Your toolkit requests move to the front of the build queue.
 ```
 All paid benefits / Direct response from Ginny on contract questions, time permitting / You underwrite analysis that takes no PBM or vendor money
 ```
-
-_If the paid tier turns out to be capped at three fields, merge the last two paid bullets into: `Practitioner's Notes in Monday deep dives, plus your toolkit requests jump the build queue.`_
 
 _Notes for the publisher: (1) the "articles are never paywalled" line is deliberate and load-bearing — it protects the AI-citation surface promise and tells free readers what they are NOT losing, which builds trust in the paid ask. (2) The founding "direct response from Ginny, time permitting" line is KEPT from the current live list — it is an existing promise to existing founding members and the hedge keeps it honest. The old founding "Early access to new tools and frameworks before public release" line is DROPPED: the Vault delivers new toolkits to all paid subscribers at once, and every toolkit also publishes free on rxbs.org, so "before public release" no longer describes anything real. The current free field's "updated quarterly" on the Contract Language Library is also stale (continuous updates since May 2026); the replacement fields fix it. (3) The Practitioner's Note bullet is true W29 forward; if the Vault publishes before the first Practitioner's Note ships live, keep the bullet (the next Monday delivers it). (4) Existing paid subs (Nick and the other three) signed under the old list; the swap is a net upgrade in practice (two live perks replace three that never consistently shipped), and Ginny's reply to Nick lands the same week as evidence. (5) When a genuinely new paid perk lands later, it gets added in the same sitting it goes live — same rule as the Vault._
 
