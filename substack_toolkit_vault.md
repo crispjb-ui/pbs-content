@@ -196,35 +196,35 @@ New toolkits land here as they publish. If there is a worksheet you want that do
 
 | Toolkit file | Status |
 |---|---|
-| evergreen_contract_review_readiness_checklist.pdf | NOT YET ATTACHED (first publish pending) |
-| evergreen_optimize_vs_go_to_market_decision_framework.pdf | NOT YET ATTACHED |
-| evergreen_pbr_pharmacy_benefit_review_framework.pdf | NOT YET ATTACHED |
-| week_16_pa_roi_audit_scorecard.pdf | NOT YET ATTACHED |
-| week_17_carve_out_decision_scorecard.pdf | NOT YET ATTACHED |
-| week_18_channel_pricing_audit_worksheet.pdf | NOT YET ATTACHED |
-| week_18_drug_pipeline_watch_list.pdf | NOT YET ATTACHED |
-| week_19_fiduciary_documentation_checklist.pdf | NOT YET ATTACHED |
-| week_20_copay_card_financial_impact_calculator.pdf | NOT YET ATTACHED |
-| week_20_thursday_rebate_report_audit_worksheet.pdf | NOT YET ATTACHED |
-| week_21_quarterly_reporting_checklist.pdf | NOT YET ATTACHED |
-| week_22_biosimilar_readiness_assessment.pdf | NOT YET ATTACHED |
-| week_22_thursday_specialty_routing_audit_worksheet.pdf | NOT YET ATTACHED |
-| week_23_midyear_claims_red_flag_checklist.pdf | NOT YET ATTACHED |
-| week_24_h1_renewal_readiness_scorecard.pdf | NOT YET ATTACHED |
-| week_24_thursday_contract_amendment_letter.pdf | NOT YET ATTACHED |
-| week_25_thursday_rfp_scoring_audit_worksheet.pdf | NOT YET ATTACHED |
-| week_26_thursday_step_therapy_override_audit.pdf | NOT YET ATTACHED |
-| week_27_thursday_pbm_compensation_audit.pdf | NOT YET ATTACHED |
-| week_28_ger_audit_worksheet.pdf | NOT YET ATTACHED |
-| week_29_thursday_network_configuration_audit.pdf | NOT YET ATTACHED |
-| week_30_thursday_cob_audit_worksheet.pdf | NOT YET ATTACHED |
-| week_31_thursday_pbm_disclosure_audit.pdf | NOT YET ATTACHED |
-| week_32_thursday_fiduciary_compliance_audit.pdf | NOT YET ATTACHED |
-| week_33_thursday_member_transition_audit.pdf | NOT YET ATTACHED |
-| week_34_thursday_midyear_guarantee_audit.pdf | NOT YET ATTACHED |
-| week_35_thursday_termination_clause_audit.pdf | NOT YET ATTACHED |
-| week_36_thursday_definition_variance_audit.pdf | NOT YET ATTACHED |
-| week_37_thursday_pre_meeting_renewal_checklist.pdf | NOT YET ATTACHED |
+| evergreen_contract_review_readiness_checklist.pdf | CURRENT (2026-07-24) |
+| evergreen_optimize_vs_go_to_market_decision_framework.pdf | CURRENT (2026-07-24) |
+| evergreen_pbr_pharmacy_benefit_review_framework.pdf | CURRENT (2026-07-24) |
+| week_16_pa_roi_audit_scorecard.pdf | CURRENT (2026-07-24) |
+| week_17_carve_out_decision_scorecard.pdf | CURRENT (2026-07-24) |
+| week_18_channel_pricing_audit_worksheet.pdf | CURRENT (2026-07-24) |
+| week_18_drug_pipeline_watch_list.pdf | CURRENT (2026-07-24) |
+| week_19_fiduciary_documentation_checklist.pdf | CURRENT (2026-07-24) |
+| week_20_copay_card_financial_impact_calculator.pdf | CURRENT (2026-07-24) |
+| week_20_thursday_rebate_report_audit_worksheet.pdf | CURRENT (2026-07-24) |
+| week_21_quarterly_reporting_checklist.pdf | CURRENT (2026-07-24) |
+| week_22_biosimilar_readiness_assessment.pdf | CURRENT (2026-07-24) |
+| week_22_thursday_specialty_routing_audit_worksheet.pdf | CURRENT (2026-07-24) |
+| week_23_midyear_claims_red_flag_checklist.pdf | CURRENT (2026-07-24) |
+| week_24_h1_renewal_readiness_scorecard.pdf | CURRENT (2026-07-24) |
+| week_24_thursday_contract_amendment_letter.pdf | CURRENT (2026-07-24) |
+| week_25_thursday_rfp_scoring_audit_worksheet.pdf | CURRENT (2026-07-24) |
+| week_26_thursday_step_therapy_override_audit.pdf | CURRENT (2026-07-24) |
+| week_27_thursday_pbm_compensation_audit.pdf | CURRENT (2026-07-24) |
+| week_28_ger_audit_worksheet.pdf | CURRENT (2026-07-24) |
+| week_29_thursday_network_configuration_audit.pdf | CURRENT (2026-07-24) |
+| week_30_thursday_cob_audit_worksheet.pdf | CURRENT (2026-07-24) |
+| week_31_thursday_pbm_disclosure_audit.pdf | CURRENT (2026-07-24) |
+| week_32_thursday_fiduciary_compliance_audit.pdf | CURRENT (2026-07-24) |
+| week_33_thursday_member_transition_audit.pdf | CURRENT (2026-07-24) |
+| week_34_thursday_midyear_guarantee_audit.pdf | CURRENT (2026-07-24) |
+| week_35_thursday_termination_clause_audit.pdf | CURRENT (2026-07-24) |
+| week_36_thursday_definition_variance_audit.pdf | CURRENT (2026-07-24) |
+| week_37_thursday_pre_meeting_renewal_checklist.pdf | CURRENT (2026-07-24) |
 
 _Excluded by design: `broker_partner_one_pager.pdf` (BD asset, not a toolkit) and `independence_attestation.pdf` (engagement document)._
 
@@ -232,7 +232,8 @@ _Excluded by design: `broker_partner_one_pager.pdf` (BD asset, not a toolkit) an
 
 | Date | What changed | Live post updated? |
 |---|---|---|
-| _Pending: first publish_ | Initial 29-toolkit vault | ⬜ |
+| 2026-07-24 | Initial 29-toolkit vault published (paid-only, 12:04 PM; all 29 PDFs attached, plan benefits pasted into Settings → Payments, restack Note posted, reply to Nick sent — Brett-confirmed same day) | ✅ |
+| _Pending: next refresh_ | — | ⬜ |
 
 ## Post-publish restack Note (paste-ready)
 
@@ -249,4 +250,4 @@ _The "29" is fine here (a Note is ephemeral, unlike the header image). No Linked
 ```
 Nick, you asked for exactly this, so we built it. The Toolkit Vault is now live for paid subscribers: every worksheet in one post, no forms, updated in place as the library grows. The library stays free on rxbs.org for anyone willing to trade an email address; the vault is the no-friction version for the people who back the work. Tell me which one you reach for first. That vote shapes what we build next.
 ```
-_Send AFTER the vault post is actually live (the reply references it in the present tense)._
+_Send AFTER the vault post is actually live (the reply references it in the present tense)._ **SENT Jul 24, 2026 (Brett-confirmed).**
